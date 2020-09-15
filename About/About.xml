@@ -42,7 +42,6 @@ RKTM 권장 모드배열
 	<li>AuthorName.KoreanTestMod.Specific</li>
 	<li>DesTiNy.RKTM.Core</li>
 	<li>AuthorName.KoreanTestMod2.Specific</li>
-	<li>DesTiNy.RKTM.DLC</li>
   </loadAfter>
 
 </ModMetaData>

@@ -11,7 +11,6 @@
 	<li IfModActive="TradingControl.Common.Core">Trading Control - 2007107588</li>
     <li IfModActive="brrainz.cameraplus">Camera+ - 867467808</li>
 	<li IfModActive="brrainz.achtung">Achtung! - 730936602</li>
-	<li IfModActive="VanillaExpanded.VPlantsE">Vanilla Plants Expanded - 2134308522</li>
 	<li IfModActive="Albion.SparklingWorlds.Full">Sparkling World - 1123043922</li>
 	<li IfModActive="avius.prisonlabor">Prison Labor - 1899474310</li>
 	<li IfModActive="machine.rtr">Raise The Roof - 1776143665</li>
@@ -155,6 +154,11 @@
 	<!-- 20.09.15 -->
 	<li IfModActive="fluffy.animaltab">Animal Tab - 712141500</li>
 	<li IfModActive="VouLT.BetterPawnControl">Better Pawn Control - 1541460369</li>
+	<li IfModActive="VanillaExpanded.VPlantsE">Vanilla Plants Expanded - 2134308522</li>
+	<li IfModActive="VanillaExpanded.VPlantsESucculents">Vanilla Plants Expanded - Succulents - 2198652536</li>
+	<li IfModActive="VanillaExpanded.VBrewE">Vanilla Brewing Expanded - 2186560858</li>
+	<li IfModActive="VanillaExpanded.VFEArt">Vanilla Furniture Expanded - Art - 1968134023</li>
+	<li IfModActive="OskarPotocki.VFE.Insectoid">Vanilla Factions Expanded - Insectoids - 2149755445</li>
   </v1.2>
 
 </loadFolders>
