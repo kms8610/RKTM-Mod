@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Alien_Kijin.label>키진</Alien_Kijin.label>
+  <Alien_Kijin.description>키진은 인간과 흡사한 외형으로 진화한 오우거 입니다. 그들의 커다란 몸은 작게 줄어들었지만, 줄어든 만큼 근육은 압축되고 단단해져 오히려 더 강해졌습니다. 강해진 만큼 여전히 생활에 많은 열량을 필요로 합니다.</Alien_Kijin.description>
+  <Alien_Kijin.tools.0.label>왼쪽 주먹</Alien_Kijin.tools.0.label>
+  <Alien_Kijin.tools.1.label>오른쪽 주먹</Alien_Kijin.tools.1.label>
+  <Alien_Kijin.tools.2.label>머리</Alien_Kijin.tools.2.label>
+
+</LanguageData>

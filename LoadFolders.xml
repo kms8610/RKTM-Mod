@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+
+  <v1.2>
+    <li>RKTMModv1</li>
+    <li>RKTMModv2</li>
+	<li IfModActive="Saakra.Empire">Empire - 2006535182</li>
+	<li IfModActive="Dubwise.DubsPaintShop">Dub's Paint Shop - 1579516669</li>
+	<li IfModActive="Murmur.WallLight">Wall Light - 1423699208</li>
+	<li IfModActive="Ogre.OgreStack">OgreStack - 1447140290</li>
+	<li IfModActive="TradingControl.Common.Core">Trading Control - 2007107588</li>
+    <li IfModActive="brrainz.cameraplus">Camera+ - 867467808</li>
+	<li IfModActive="brrainz.achtung">Achtung! - 730936602</li>
+	<li IfModActive="VanillaExpanded.VPlantsE">Vanilla Plants Expanded - 2134308522</li>
+	<li IfModActive="Albion.SparklingWorlds.Full">Sparkling World - 1123043922</li>
+	<li IfModActive="avius.prisonlabor">Prison Labor - 1899474310</li>
+	<li IfModActive="machine.rtr">Raise The Roof - 1776143665</li>
+	<li IfModActive="VanillaExpanded.VCookESushi">Vanilla Cooking Expanded - Sushi - 2158539170</li>
+	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856</li>
+	<li IfModActive="smashphil.neceros.srtsexpanded">SRTS Expanded - 1845423808</li>
+	<li IfModActive="Vanya.Polarisbloc.CoreLab">Polarisbloc - Core LAB - 1500244593</li>
+	<li IfModActive="Murmur.UVWallLight">Plant Growing Wall Light - 1605773857</li>
+	<li IfModActive="Mlie.Horrors">Horrors - 2036315072</li>
+	<li IfModActive="EdB.PrepareCarefully">EdB Prepare Carefully - 735106432</li>
+	<li IfModActive="sumghai.medpod">MedPod - 2153065191</li>
+	<li IfModActive="Mlie.ElectricFencesAndFloors">Electric Fences and Floors (Continued) - 2138712589</li>
+	<li IfModActive="SineSwiper.WallLightExtendedColors">Wall Light - Extended Colors - 1721903761</li>
+	<li IfModActive="hatti.qualitybuilder">QualityBuilder - 754637870</li>
+	<li IfModActive="TheWireLord354.ConduitDeconstruct">Conduit Deconstruct - 838336462</li>
+    <li IfModActive="fluffy.backuppower">Backup Power - 2084493662</li>
+	<li IfModActive="Ravvy.SRTS.TCF">SRTS Expanded The Crimson Fleet - 2138497005</li>
+	<li IfModActive="AsGAlligator.MonsterHunterRimWorld">Monster Hunter RimWorld - 2001260604</li>
+	<li IfModActive="CP.RimmuNation.GlovesNBoots">Rimmu-Nation - Gloves N' Boots - 1836963709</li>
+	<li IfModActive="RH.Faction.VOID">Faction VOID - 2130955778</li>
+    <li IfModActive="RH.Faction.Umbra.Company">Faction Umbra Company - 1670420891</li>
+    <li IfModActive="dismarzero.VGP.VGPGardenTools">VGP Garden Tools - 2007063961</li>
+	<li IfModActive="hodlhodl.twitchtoolkit">Twitch Toolkit - 1718525787</li>
+	<li IfModActive="fridgeBaron.Immortals">Immortals - 1984905966</li>
+	<li IfModActive="automatic.gunplay">Gunplay - 2034896549</li>
+	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700</li>
+	<li IfModActive="sulusdacor.james76543.Meltup.AdvancedPowerPlus">Advanced Power Plus - 203240962</li>
+	<li IfModActive="Dubwise.Rimatomics">Rimatomics - 1127530465</li>
+	<li IfModActive="hodlhodl.toolkitcore">ToolkitCore - 2018368654</li>
+	<li IfModActive="BOXrsxx.MorePracticalTraits">More Practical Traits - 1568700181</li>
+	<li IfModActive="sargoskar.witcherhunt">RimWorld - Witcher Monster Hunt - 2008529522</li>
+	<li IfModActive="Crustypeanut.WCE2.Core">War Crimes Expanded 2 Core - 2059450213</li>
+	<li IfModActive="Dubwise.DubsPerformanceAnalyzer">Dubs Performance Analyzer - 2038874626</li>
+	<li IfModActive="Flyingstar.AutoMortarsUnofficial">Auto-Mortars - 2054073477</li>
+	<li IfModActive="Atlas.AndroidTiers">Android tiers - 1386412863</li>
+	<li IfModActive="NotooShabby.AwesomeInventory">Awesome Inventory - 2050289408</li>
+	<li IfModActive="mastertea.RandomPlus">RandomPlus - 1434137894</li>
+	<li IfModActive="Albion.GoExplore">Go Explore! - 1814100216</li>
+	<li IfModActive="Orion.FactionDiscovery">Faction Discovery - 751841890</li>
+	<li IfModActive="PeteTimesSix.CompactHediffs">Compact Hediffs - 2031734067</li>
+	<li IfModActive="Mlie.JinRohKerberosPanzerCopArmor">Jin-Roh Kerberos Panzer Cop Armor - 2038994354</li>
+	<li IfModActive="malkav73.rollers">Industrial Rollers Addon - 2060791442</li>
+	<li IfModActive="tarojun.thrumboianrace">Thrumboian Race - 2011905435</li>
+	<li IfModActive="pelador.fireextinguisher">Fire Extinguisher - 2002292418</li>
+	<li IfModActive="LtBob.PreemptiveStrike.Rimworld">Preemptive Strike - 2056230561</li>
+	<li IfModActive="dragon.MMDrumcan.MOD">MMDrumcanMOD - 2100895553</li>
+	<li IfModActive="Daniledman.CyberFauna">Cyber Fauna - 1548649032</li>
+	<li IfModActive="FrozenSnowFox.VanillaBionicsExpansion">Vanilla Bionics Expansion - 1419675146</li>
+	<li IfModActive="notfood.MoreThanCapable">More Than Capable - 1803932954</li>
+	<li IfModActive="syrchalis.individuality">Individuality - 1497105115</li>
+	<li IfModActive="killface.facialstuff">Facial Stuff - 818322128</li>
+	<li IfModActive="Xahkarias.EvolvedOrgansRedux">EvolvedOrgansRedux - 1978492655</li>
+	<li IfModActive="kentington.saveourship2">Save Our Ship 2 - 1909914131</li>
+	<li IfModActive="VanillaExpanded.VCEF">Vanilla Fishing Expanded - 1914064942</li>
+	<li IfModActive="nmeijer.settlementinventory">Settlement Inventory - 2083067219</li>
+	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268</li>
+	<li IfModActive="Aelanna.EccentricTech.Cosmetics">Eccentric Tech - Cosmetic Modifications - 2014890157</li>
+	<li IfModActive="dame.hotmeals">Thermodynamics - Hot Meals - 2110968173</li>
+	<li IfModActive="goudaquiche.LtfMedBay">Medical bay - 2101075718</li>
+	<li IfModActive="dismarzero.VGP.VGPThreeSistersPlants">VGP Three Sisters Plants - 2007063848</li>
+	<li IfModActive="dismarzero.VGP.VGPGardenDyesExpanded">VGP Garden Dyes Expanded - 2007062822</li>
+	<li IfModActive="Rearden.RNH">Regenerator Nanohive - 2022375442</li>
+	<li IfModActive="Mlie.MechanicalDefense2Walls">Mechanical Defense 2 Walls - 2016313260</li>
+	<li IfModActive="earthyturtle.letstrade">Let's Trade! - 1541261044</li>
+	<li IfModActive="LingLuo.CoolHeater">multi-stage heater - 2012792039</li>
+	<li IfModActive="tremeloe.tankbeds">Tank Bed - 2020858426</li>
+	<li IfModActive="zerophoenix.arsenalfactionless">Contractors Arsenal (Factionless) - 2040946438</li>
+	<li IfModActive="rselbo.orbitaltradertransponder">Orbital Trader Transponder - 2023111461</li>
+	<li IfModActive="fuglypump.bulkstonecutting">Bulk Stonecutting - 2021425587</li>
+	<li IfModActive="Mlie.CentralizedClimateControl">Centralized Climate Control - 2007268173</li>
+	<li IfModActive="Merthsoft.DesignatorShapes">Designator Shapes - 1235181370</li>
+	<li IfModActive="zylle.Gemstones">Gemstones - 2000801414</li>
+	<li IfModActive="zymex.HospitalsExtended">Hospitals Extended - 2121326566</li>
+	<li IfModActive="Primus.OverWallNutrient">Over-Wall Nutrient Paste Dispenser - 2074245348</li>
+	<li IfModActive="boe.slopedwalls">Sloped Walls - 2079811421</li>
+	<li IfModActive="Linkolas.Stabilize">Stabilize Here - 2023407836</li>
+	<li IfModActive="Malistaticy.UnderWhere">UnderWhere - 1870010563</li>
+	<li IfModActive="Mlie.FoodAlert">Food Alert - 2017538067</li>
+	<li IfModActive="Mlie.MechaniteAugmentation">Mechanite Augmentation - 2016288225</li>
+	<li IfModActive="FrozenSnowFox.AdvancedBionicsExpansionOld">Advanced Bionics Expansion (Legacy Version) - 1857015088</li>
+	<li IfModActive="SR.BondageBed">BondageBed Torture - 2094933315</li>
+	<li IfModActive="BondageBedTorture.FurAdd">BondageBedTorture Furniture Addon - 2109234248</li>
+	<li IfModActive="factioncontrol.kv.rw">Faction Control - 1509102551</li>
+	<li IfModActive="leion247153.CulturedHMeat">Cultured Meat - 1420944836</li>
+	<li IfModActive="AR13S.Arachne1point0">Arachne Race - 1589454687</li>
+	<li IfModActive="aRandomKiwi.KillForMe">Kill For Me - 1629854111</li>
+	<li IfModActive="handandfootwear.kv.rw">Hand 'n' Footwear - 1502703299</li>
+	<li IfModActive="neceros.wallsunlamp">Wall Sun Lamp - 1825653111</li>
+	<li IfModActive="RH.Faction.UAC">Faction UAC - 2130954176</li>
+	<li IfModActive="Ravvy.AMW">Advanced Mechanoid Warfare - 2119930282</li>
+	<li IfModActive="pelador.aquarium">Aquarium - 2120551963</li>
+	<li IfModActive="RH.DOOM.UAC">DOOM UAC Kit - 2130946398</li>
+	<!-- 20.08.16 -->
+    <li IfModActive="avilmask.CommonSense">Common Sense - 1561769193</li>
+	<!-- 20.08.30 -->
+	<li IfModActive="Mlie.Rebound">Rebound (Continued) - 2068326756</li>
+	<li IfModActive="kikohi.cybernetic">Cybernetic Organism and Neural Network - 2045064990</li>
+	<li IfModActive="neceros.antigrain">Antigrain - 2016911592</li>
+    <li IfModActive="Mlie.SdAdvancedPowergeneration">Advanced Powergeneration (Continued) - 2079579039</li>
+	<li IfModActive="onyxae.dragonsdescent">Dragon's Descent - 2026992161</li>
+    <li IfModActive="ravvy.DD.Void.Addon">Dragon's Decent Void Dwellers - 2185295561</li>
+	<li IfModActive="Mlie.RRUESContactLightArmory">Risk of Rain UES Contact Light Armory (Continued) - 2034079111</li>
+	<li IfModActive="firefoxpdm.ResearchableStatUpgrades">SS Researchable Stat Upgrades (Reupload) - 2034010625</li>
+	<li IfModActive="SickBoyWi.Vault.OnePointOne">Vault - 2000708343</li>
+	<li IfModActive="Mlie.ReconAndDiscovery">Recon And Discovery (Continued) - 2035131107</li>
+    <li IfModActive="fluffy.modmanager">Mod Manager - 1507748539</li>
+	<li IfModActive="catachat.inspirationtweaks">Vanilla Gourmet Parade - 2117487204</li>
+	<li IfModActive="neceros.reinforcedwalls">Reinforced Walls - 1929389479</li>
+	<li IfModActive="ratys.rtfuse">RT Fuse - 728314182</li>
+	<li IfModActive="Dubwise.DubsMintMenus">Dubs Mint Menus - 1446523594</li>
+	<li IfModActive="neceros.androidsexpanded">Androids Expanded - 2179977828</li>
+	<li IfModActive="sarg.alphabiomes">Alpha Biomes - 1841354677</li>
+	<li IfModActive="Torann.ARimworldOfMagic">A RimWorld of Magic - 1201382956</li>
+	<!-- 20.09.05 -->
+	<li IfModActive="Inoshishi3.Kuro.KTTFI3A">Kurin, The Three Tailed Fox [I3's Addon] (KTTFI3A) - 2156596056</li>
+	<!-- 20.09.07 -->
+	<li IfModActive="VanillaExpanded.VEE">Vanilla Events Expanded - 1938420742</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.MedievalModule">Vanilla Factions Expanded - Medieval - 2023513450</li>
+	<li IfModActive="VanillaExpanded.VFECore">Vanilla Furniture Expanded - 1718190143</li>
+	<li IfModActive="VanillaExpanded.VFEProduction">Vanilla Furniture Expanded - Production - 1880253632</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Vanilla Factions Expanded - Settlers - 2052918119</li>
+	<li IfModActive="VanillaExpanded.VFEPropsandDecor">Vanilla Furniture Expanded - Props and Decor - 2102143149</li>
+	<li IfModActive="VanillaExpanded.VFEPower">Vanilla Furniture Expanded - Power - 2062943477</li>
+	<li IfModActive="VanillaExpanded.VWEL">Vanilla Weapons Expanded - Laser - 1989352844</li>
+	<li IfModActive="VanillaExpanded.VFESecurity">Vanilla Furniture Expanded - Security - 1845154007</li>
+	<li IfModActive="VanillaExpanded.VFESpacer">Vanilla Furniture Expanded - Spacer Module - 2028381079</li>
+	<!-- 20.09.08 -->
+	<li IfModActive="dismarzero.VGP.VGPGardenDyes">VGP Garden Dyes - 2007062688</li>
+	<li IfModActive="dismarzero.VGP.VGPVegetableGarden">VGP Vegetable Garden - 2007061826</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013</li>
+	<li IfModActive="VanillaExpanded.VHE.Beards">Vanilla Hair Expanded - Beards - 2187520791</li>
+	<li IfModActive="Orion.Hospitality">Hospitality - 753498552</li>
+	<!-- 20.09.09 -->
+	<li IfModActive="VanillaExpanded.VCookE">Vanilla Cooking Expanded - 2134308519</li>
+	<li IfModActive="VanillaExpanded.VCookEStews">Vanilla Cooking Expanded - Stews - 2134312965</li>
+	<li IfModActive="VanillaExpanded.VHE">Vanilla Hair Expanded - 1888705256</li>
+	<li IfModActive="VanillaExpanded.VWEQ">Vanilla Weapons Expanded - Quickdraw - 1906780517</li>
+	<li IfModActive="falconne.BWM">Better Workbench Management - 935982361</li>
+	<li IfModActive="VanillaExpanded.VWE">Vanilla Weapons Expanded - 1814383360</li>
+	<li IfModActive="VanillaExpanded.VWEG">Vanilla Weapons Expanded - Grenades - 2194472657</li>
+	<!-- 20.09.15 -->
+	<li IfModActive="fluffy.animaltab">Animal Tab - 712141500</li>
+	<li IfModActive="VouLT.BetterPawnControl">Better Pawn Control - 1541460369</li>
+  </v1.2>
+
+</loadFolders>

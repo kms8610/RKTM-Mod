@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Demon_Body.label>판금 가슴</Demon_Body.label>
+  <Demon_Spine.label>장갑 척추</Demon_Spine.label>
+  <Demon_Abdomen.label>복부</Demon_Abdomen.label>
+  <Demon_Chest.label>판금 가슴</Demon_Chest.label>
+  <Demon_Heart.label>악마의 심장</Demon_Heart.label>
+  <Demon_Heart_Hidden.label>그림자의 심장</Demon_Heart_Hidden.label>
+  <Demon_RibCage.label>갈비뼈</Demon_RibCage.label>
+  <Demon_LeftLung.label>왼쪽 폐</Demon_LeftLung.label>
+  <Demon_RightLung.label>오른쪽 폐</Demon_RightLung.label>
+  <Demon_Head.label>머리</Demon_Head.label>
+  <Demon_Neck.label>병목</Demon_Neck.label>
+  <Demon_DeathMask.label>강화된 죽음의 가면</Demon_DeathMask.label>
+  <Demon_Skull.label>강화된 두개골</Demon_Skull.label>
+  <Demon_Brain.label>두뇌</Demon_Brain.label>
+  <Demon_Horn1.label>왼쪽 뿔</Demon_Horn1.label>
+  <Demon_Horn2.label>왼쪽 윗 뿔</Demon_Horn2.label>
+  <Demon_Horn3.label>오른쪽 윗 뿔</Demon_Horn3.label>
+  <Demon_Horn4.label>오른쪽 뿔</Demon_Horn4.label>
+  <Demon_SightSensor.label>내면 시야</Demon_SightSensor.label>
+  <Demon_SixthSense.label>내면 감각</Demon_SixthSense.label>
+  <Demon_Mandible.label>턱</Demon_Mandible.label>
+  <Demon_LeftWing.label>왼쪽 날개</Demon_LeftWing.label>
+  <Demon_RightWing.label>오른쪽 날개</Demon_RightWing.label>
+  <Demon_LeftArm.label>왼팔</Demon_LeftArm.label>
+  <Demon_RightArm.label>오른팔</Demon_RightArm.label>
+  <Demon_LeftLeg.label>왼다리</Demon_LeftLeg.label>
+  <Demon_RightLeg.label>오른다리</Demon_RightLeg.label>
+  <Ele_Body.label>몸통</Ele_Body.label>
+  <Ele_Head.label>머리</Ele_Head.label>
+  <Ele_Skull.label>두개골</Ele_Skull.label>
+  <Ele_Brain.label>두뇌</Ele_Brain.label>
+  <Ele_Heart.label>심장</Ele_Heart.label>
+  <Ele_LeftArm.label>왼팔</Ele_LeftArm.label>
+  <Ele_RightArm.label>오른팔</Ele_RightArm.label>
+  <Ele_Horn.label>뿔</Ele_Horn.label>
+  <Ele_Eye.label>눈</Ele_Eye.label>
+  <Ele_LeftEar.label>왼쪽 귀</Ele_LeftEar.label>
+  <Ele_RightEar.label>오른쪽 귀</Ele_RightEar.label>
+  <Ele_Jaw.label>턱</Ele_Jaw.label>
+  <Ele_Neck.label>병목</Ele_Neck.label>
+  <Ele_Spine.label>척추</Ele_Spine.label>
+  <Ele_Abdomen.label>복부</Ele_Abdomen.label>
+  <Ele_Chest.label>상자</Ele_Chest.label>
+  <Ele_Base.label>원소 이동 기반</Ele_Base.label>
+  <Minion_Head.label>머리</Minion_Head.label>
+  <Minion_Brain.label>두뇌</Minion_Brain.label>
+  <Minion_Eye.label>눈</Minion_Eye.label>
+  <Minion_RightHorn.label>오른쪽 뿔</Minion_RightHorn.label>
+  <Minion_LeftHorn.label>왼쪽 뿔</Minion_LeftHorn.label>
+  <Minion_LeftArm.label>왼팔</Minion_LeftArm.label>
+  <Minion_RightArm.label>오른팔</Minion_RightArm.label>
+  <Minion_Mouth.label>입</Minion_Mouth.label>
+  <Minion_Jaw.label>턱</Minion_Jaw.label>
+  <Minion_Core.label>핵</Minion_Core.label>
+  <Sentinel_Body.label>몸통</Sentinel_Body.label>
+  <Sentinel_Head.label>머리</Sentinel_Head.label>
+  <Sentinel_Skull.label>두개골</Sentinel_Skull.label>
+  <Sentinel_Brain.label>두뇌</Sentinel_Brain.label>
+  <Sentinel_LeftArm.label>왼팔</Sentinel_LeftArm.label>
+  <Sentinel_RightArm.label>오른팔</Sentinel_RightArm.label>
+  <Sentinel_LeftEye.label>왼쪽 눈</Sentinel_LeftEye.label>
+  <Sentinel_RightEye.label>오른쪽 눈</Sentinel_RightEye.label>
+  <Sentinel_LeftEar.label>왼쪽 귀</Sentinel_LeftEar.label>
+  <Sentinel_RightEar.label>오른쪽 귀</Sentinel_RightEar.label>
+  <Sentinel_Jaw.label>턱</Sentinel_Jaw.label>
+  <Sentinel_Neck.label>병목</Sentinel_Neck.label>
+  <Sentinel_Spine.label>척추</Sentinel_Spine.label>
+  <Sentinel_Abdomen.label>복부</Sentinel_Abdomen.label>
+  <Sentinel_Chest.label>상자</Sentinel_Chest.label>
+  <Sentinel_Base.label>수호령 다리</Sentinel_Base.label>
+  <Skeletal_Shoulder.label>어깨</Skeletal_Shoulder.label>
+  <Skeletal_Leg.label>다리</Skeletal_Leg.label>
+  <Skeletal_Foot.label>발</Skeletal_Foot.label>
+  <Skeletal_Neck.label>병목</Skeletal_Neck.label>
+  <Skeletal_Head.label>머리</Skeletal_Head.label>
+  <Skeletal_Jaw.label>턱</Skeletal_Jaw.label>
+  <Skeletal_Arm.label>팔</Skeletal_Arm.label>
+  <Skeletal_Hand.label>손</Skeletal_Hand.label>
+  <Skeletal_Finger.label>손가락</Skeletal_Finger.label>
+  <Skeletal_Toe.label>발가락</Skeletal_Toe.label>
+  <Skeletal_Ribcage.label>갈비뼈</Skeletal_Ribcage.label>
+  <TM_PoppiBody.label>몸통</TM_PoppiBody.label>
+  <TM_PoppiTail.label>꼬리</TM_PoppiTail.label>
+  <TM_PoppiPaw.label>발톱</TM_PoppiPaw.label>
+  <TM_PoppiHead.label>머리</TM_PoppiHead.label>
+  <TM_PoppiSkull.label>두개골</TM_PoppiSkull.label>
+  <TM_PoppiBrain.label>두뇌</TM_PoppiBrain.label>
+  <TM_PoppiEye.label>눈</TM_PoppiEye.label>
+  <TM_PoppiEar.label>귀</TM_PoppiEar.label>
+  <TM_PoppiNose.label>코</TM_PoppiNose.label>
+  <TM_PoppiAnimalJaw.label>턱</TM_PoppiAnimalJaw.label>
+  <TM_PoppiNeck.label>병목</TM_PoppiNeck.label>
+  <TM_PoppiRibcage.label>갈비뼈</TM_PoppiRibcage.label>
+  <TM_PoppiSpine.label>척추</TM_PoppiSpine.label>
+  <TM_PoppiLeg.label>다리</TM_PoppiLeg.label>
+  <TM_PoppiFoot.label>발</TM_PoppiFoot.label>
+  <TM_PoppiHeart.label>심장</TM_PoppiHeart.label>
+  <TM_PoppiLung.label>폐</TM_PoppiLung.label>
+  <TM_PoppiKidney.label>신장</TM_PoppiKidney.label>
+  <TM_PoppiLiver.label>간</TM_PoppiLiver.label>
+  <TM_PoppiStomach.label>위</TM_PoppiStomach.label>
+</LanguageData>

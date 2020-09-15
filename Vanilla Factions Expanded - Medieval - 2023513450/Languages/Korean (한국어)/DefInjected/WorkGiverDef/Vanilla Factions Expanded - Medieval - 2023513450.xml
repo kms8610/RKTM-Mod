@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_TakeBeerOutOfWineBarrel.label>포도주 통에서 포도주 꺼내기</VFEM_TakeBeerOutOfWineBarrel.label>
+  <VFEM_TakeBeerOutOfWineBarrel.verb>포도주 꺼내기</VFEM_TakeBeerOutOfWineBarrel.verb>
+  <VFEM_TakeBeerOutOfWineBarrel.gerund>포도주 꺼내기</VFEM_TakeBeerOutOfWineBarrel.gerund>
+  <VFEM_FillWineBarrel.label>포도주 통 채우기</VFEM_FillWineBarrel.label>
+  <VFEM_FillWineBarrel.verb>채우기</VFEM_FillWineBarrel.verb>
+  <VFEM_FillWineBarrel.gerund>채우기</VFEM_FillWineBarrel.gerund>
+</LanguageData>

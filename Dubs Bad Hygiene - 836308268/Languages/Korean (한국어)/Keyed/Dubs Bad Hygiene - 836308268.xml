@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <sos2int>SoS2 모드 설정</sos2int>
+  <sos2intTip>생명 유지에 물과 하수처리를 추가하고, 선박 구조에 배관을 추가합니다. (다시 시작 필요)</sos2intTip>
+  <NoUnreservedSource>곧바로 사용 가능한 물이 없음</NoUnreservedSource>
+  <AllowModdedDrinks>모드로 추가된 음료 허용</AllowModdedDrinks>
+  <AllowModdedDrinksTip>정착민들이 모드로 추가된 음료를 마시고 지참할 수 있습니다. VGP 및 RimCuisine 에서 추가된 음료들은 기본적으로 지원되지만, 다른 음료는 def값 수정이 필요합니다.</AllowModdedDrinksTip>
+  <AllowDrinkPacking>물병 지참</AllowDrinkPacking>
+  <AllowDrinkPackingTip>정착민들이 자동으로 물병을 들고 다닙니다.\n\n일부 모드에서는 작동하지 않습니다. CE의 경우엔 수동으로 관리하셔야 합니다.</AllowDrinkPackingTip>
+  <NeedsFilter>욕구 필터 상세 설정</NeedsFilter>
+  <MainFeatures>주요 기능</MainFeatures>
+  <ExperimentalFeatures>실험적 기능</ExperimentalFeatures>
+  <DBHFalloutWarning>유독성 낙수 오염</DBHFalloutWarning>
+  <DBHFalloutWarningEx>유독성 낙진이 2일 이상 발생하면, 우물과 연결된 모든 물탱크가 오염됩니다.\n\n너무 늦기 전에 비축해둔 물과 배관된 우물이 오염되지 않도록 밸브를 사용하여 분리하십시오.\n\n아니면 심층 현대식 우물을 사용하여 오염되지 않은 지하수를 이용할 수도 있고, 수원지의 모든 오염을 제거할 수 있는 멸균 처리장치를 설치하는 방법도 있습니다.</DBHFalloutWarningEx>
+  <AllowAltDes>모드 범주 허용</AllowAltDes>
+  <AllowAltDesTip>다른 모드의 지정된 건축 메뉴 변경을 허용합니다.</AllowAltDesTip>
+  <RainIrrigation>비 관개</RainIrrigation>
+  <RainIrrigationTip>이제 비가 내리면 농업용 스프링클러와 같이 토질을 잠시 개선해 줍니다. 성능이 저하 저하될 수 있습니다.</RainIrrigationTip>
+  <GrowingZoneNotAllowed>재배구역에서 씨 뿌리기를 중단합니다.</GrowingZoneNotAllowed>
+  <NoFertilizerFound>비료 없음</NoFertilizerFound>
+  <AreaPlaceFertilizer>비료 구역</AreaPlaceFertilizer>
+  <AreaPlaceFertilizerDesc>퇴비로 개간할 구역을 지정합니다.</AreaPlaceFertilizerDesc>
+  <AddFertilizerArea>구역 추가</AddFertilizerArea>
+  <RemoveFertilizerArea>구역 삭제</RemoveFertilizerArea>
+  <StockpileWater>물병 채우기 x{0}</StockpileWater>
+  <HygieneWiki>위생모드 위키</HygieneWiki>
+  <HygieneWikiDesc>위생모드 위키사이트 방문</HygieneWikiDesc>
+  <SurvivalMode>생존 모드</SurvivalMode>
+  <SurvivalModeTip>기본 얕은 물 그리드 생성을 제한하고, 지형적 기능을 통해 더는 물을 생성하지 않으며, 지표수 주변 반경이 감소합니다.\n\n기존의 저장된 게임에서도 작동되며, 새로운 게임이 필요하지 않습니다.</SurvivalModeTip>
+  <HydroponicsLink>수경재배</HydroponicsLink>
+  <HydroponicsLinkTip>전력으로 작동되는 수경재배기는 이제 물탱크와 배관된 파이프가 필요하며, 식물은 재배기의 전원 대신 물이 부족해서 죽습니다. 또한, 물탱크는 전원이 공급될 때만 채워집니다.</HydroponicsLinkTip>
+  <ThirstRequiresRestart>갈증 관련 항목을 추가 및 제거하려면 다시 시작해야 합니다.\n\n지금 다시 시작하시겠습니까?</ThirstRequiresRestart>
+  <DesignatorRemovePlumbing>배관 제거</DesignatorRemovePlumbing>
+  <DesignatorRemovePlumbingDesc>해체할 파이프 유형 지정</DesignatorRemovePlumbingDesc>
+  <RemoveSewage>오물 제거</RemoveSewage>
+  <RemoveSewageDesc>토양에서 오물을 제거하여 통에 담습니다.</RemoveSewageDesc>
+  <RemovePlumbing>배관 제거</RemovePlumbing>
+  <RemoveAirCon>에어컨 제거</RemoveAirCon>
+  <DesignatorPaintFixtures>기구 도색</DesignatorPaintFixtures>
+  <DesignatorPaintFixturesDesc>욕실 기구나 방열기를 도색합니다.</DesignatorPaintFixturesDesc>
+  <PaintFixtures>도색</PaintFixtures>
+  <StripPaint>도색 제거</StripPaint>
+  <Alert_MissingTower>급수탑이 없습니다.</Alert_MissingTower>
+  <Alert_MissingTowerDesc>우물에서 끌어올린 물을 저장하려면 급수탑이나 물탱크가 필요합니다.</Alert_MissingTowerDesc>
+  <Alert_MissingWell>우물이 없습니다.</Alert_MissingWell>
+  <Alert_MissingWellDesc>펌프로 지하수를 끌어올리려면, 먼저 배관된 우물이 필요합니다.</Alert_MissingWellDesc>
+  <Alert_MissingPump>펌프 시설이 없습니다.</Alert_MissingPump>
+  <Alert_MissingPumpDesc>우물에서 물을 퍼내어 급수탑까지 가려면, 먼저 배관된 펌프 시설이 필요합니다.</Alert_MissingPumpDesc>
+  <LowCoolingCap>낮은 냉각 용량, 실외기의 전력을 증가시킬 수 있습니다.</LowCoolingCap>
+  <NotOwned>사용 금지됨</NotOwned>
+  <GenderRestricted>{0} 전용</GenderRestricted>
+  <PrisonersOnly>죄수 전용</PrisonersOnly>
+  <BlockedSewage>오물 배출구 막힘</BlockedSewage>
+  <BlockedSewageDesc>배출구 주변에 오물이 쌓여 배관을 막고 있습니다.\n\n오물 배출구를 추가하거나 정화조를 건설하여 하수 용량을 늘리세요.</BlockedSewageDesc>
+  <LowWaterTemp>물 온도 낮음</LowWaterTemp>
+  <LowWaterTempDesc>이 물탱크의 수온이 매우 낮아서 온수를 기대했던 정착민들은 실망할 것입니다.\n\n보일러를 켜거나, 온수 탱크를 추가하여 온수 용량을 늘리세요.</LowWaterTempDesc>
+  <WellNeedsWater>우물은 반드시 지하수 위에 배치되어야 합니다.</WellNeedsWater>
+  <AssigningRequiresRoom>제한을 위해서는 반드시 실내에 있어야 합니다.</AssigningRequiresRoom>
+  <NoWaterTowers>저장된 물탱크가 필요합니다.</NoWaterTowers>
+  <AssigningRequiresBladderNeed>지정을 위해서는 배변 욕구가 필요합니다. {0}(은)는 배변 욕구가 없습니다.</AssigningRequiresBladderNeed>
+  <NoCompostingMaterial>퇴비 원료 없음</NoCompostingMaterial>
+  <Nowater>물 용량 부족</Nowater>
+  <Nosewage>오물 용량 부족</Nosewage>
+  <RequiresPlumbing>배관 필요</RequiresPlumbing>
+  <AccessRestricted>사용 금지됨</AccessRestricted>
+  <TooHot>너무 뜨거움: x{0}</TooHot>
+  <InRain>비 오는 중: x{0}</InRain>
+  <PhysicalActivity>땀 흘림: x{0}</PhysicalActivity>
+  <FilthyRoom>방: x{0}</FilthyRoom>
+  <TotalHygieneStat>종합: x{0}</TotalHygieneStat>
+  <DirtyHands>더러운 손 - 질병 위험</DirtyHands>
+  <Contaminated>오염됨 - 질병 위험</Contaminated>
+  <LetterLabelBlockedDrain>배관 막힘</LetterLabelBlockedDrain>
+  <LetterBlockedDrain>배관이 막혔습니다. 정착민이 직접 와서 뚫어야 합니다.</LetterBlockedDrain>
+  <ContaminationAlert>오염된 물</ContaminationAlert>
+  <ContaminationAlertDesc>수원지가 오염되어 질병의 위험이 있습니다.\n\n오염원:\n{0}\n\n오염원을 제거하거나 오염된 물탱크를 청소할 정수처리 시스템을 추가하세요.</ContaminationAlertDesc>
+  <ContaminatiedTowerAlert>오염된 물탱크</ContaminatiedTowerAlert>
+  <ContaminatiedTowerAlertDesc>물탱크가 오염되어 정착민의 건강에 심각한 영향을 초래할 수 있습니다! 탱크 내부의 오염된 물을 흘려보내거나, 정수시설을 건설하세요.</ContaminatiedTowerAlertDesc>
+  <MessageHygieneDisease>더러운 물과 나쁜 위생 때문에 {0}(은)는 {1}에 걸렸습니다.</MessageHygieneDisease>
+  <MessageWaterDisease>물이 더럽거나 손을 씻지 않아 {0}(은)는 {1}에 걸렸습니다.</MessageWaterDisease>
+  <ChangeGenderRestriction>성별 제한 변경</ChangeGenderRestriction>
+  <CommandFixtureSetAsMedicalLabel>의료용</CommandFixtureSetAsMedicalLabel>
+  <CommandFixtureSetAsMedicalDesc>이 기구를 환자 전용으로 지정합니다.</CommandFixtureSetAsMedicalDesc>
+  <PatientsOnly>환자용</PatientsOnly>
+  <AttackHelicopter>공격 헬기</AttackHelicopter>
+  <Unisex>남/여 공용</Unisex>
+  <ConnectFixturesToBed>침대와 연결</ConnectFixturesToBed>
+  <ConnectFixturesToBedDesc>이 기구를 가까운 침대를 지정하여, 사용자를 지정합니다.</ConnectFixturesToBedDesc>
+  <CancelConnectFixturesToBed>침대와 연결 해제</CancelConnectFixturesToBed>
+  <CancelConnectFixturesToBedDesc>침대와의 연결을 해제하여, 사용 제한을 제거합니다.</CancelConnectFixturesToBedDesc>
+  <WaterTemp>물 온도: {0}</WaterTemp>
+  <ConnectedHeatingCapacity>연결된 총 가열 용량: {0} U ({1})</ConnectedHeatingCapacity>
+  <ConnectedCoolingCapacity>연결된 총 냉각 용량: {0} U ({1})</ConnectedCoolingCapacity>
+  <HeatingUnits>열 사용량: {0} U</HeatingUnits>
+  <CoolingUnits>냉기 사용량: {0} U</CoolingUnits>
+  <HeatingMode>열 사용량/전력: {0} U / {1} W</HeatingMode>
+  <CoolingMode>냉기 사용량/전력: {0} U / {1} W</CoolingMode>
+  <CoolingEfficiencyGood>효율: {0}</CoolingEfficiencyGood>
+  <CoolingEfficiencyBad>효율: {0} 과열됨</CoolingEfficiencyBad>
+  <TargetTemp>최소 온도: {0}</TargetTemp>
+  <LowerPower>전력 감소</LowerPower>
+  <LowerPowerDesc>난방량을 줄입니다.</LowerPowerDesc>
+  <RaisePower>전력 증가</RaisePower>
+  <RaisePowerDesc>난방량을 늘립니다.</RaisePowerDesc>
+  <HotwaterCapacity>온수 용량: {0}</HotwaterCapacity>
+  <OverrideThermostat>자동 온도 조절장치 무시</OverrideThermostat>
+  <OverrideThermostatDesc>보일러를 강제로 계속 작동시킵니다.</OverrideThermostatDesc>
+  <MustPlaceFreezerWithFreeSpaces>배기구 주변은 비어있어야 합니다!</MustPlaceFreezerWithFreeSpaces>
+  <SolarEfficiencyBad>효율: {0} 너무 차가움</SolarEfficiencyBad>
+  <SolarEfficiencyGood>효율: {0}</SolarEfficiencyGood>
+  <RadCurrentCap>방열기 온도: {0}</RadCurrentCap>
+  <ThermostatSetupWarning>온수 탱크가 자동 온도 조절장치를 무시합니다...\n연결된 모든 온수 탱크가 자동 온도 조절장치를 무시하도록 설정합니다!</ThermostatSetupWarning>
+  <HotWaterTankUseThermostat>자동 온도 조절 장치 사용</HotWaterTankUseThermostat>
+  <HotWaterTankUseThermostatDesc>탱크 온도가 낮을 때 보일러를 한 시간 동안 켭니다. 이 기능을 비활성 하면 보일러가 계속 작동되고 실내 온도 조절기를 무시합니다.</HotWaterTankUseThermostatDesc>
+  <WashHands>손 씻기</WashHands>
+  <Wash>씻기</Wash>
+  <UseToilet>사용</UseToilet>
+  <SewageUsage>사용량 = {0}</SewageUsage>
+  <MustBePlumbing>반드시 배관이 연결되어야 합니다.</MustBePlumbing>
+  <BlockedDrain>배관 막힘</BlockedDrain>
+  <PlumbOrEmpty>배수로를 연결하거나 변소를 비우세요.</PlumbOrEmpty>
+  <WashingMachineSpinning>세탁 중…</WashingMachineSpinning>
+  <WashingMachineUnload>세탁완료</WashingMachineUnload>
+  <WashingMachineLoad>내용물: {0}/{1}</WashingMachineLoad>
+  <NoDirtyClothes>세탁 필요한 의류 없음</NoDirtyClothes>
+  <WashingNoSpace>빈 공간 없음</WashingNoSpace>
+  <dbhDrink>마시기</dbhDrink>
+  <CommandDesignateOpenCloseValveLabel>밸브 개폐</CommandDesignateOpenCloseValveLabel>
+  <CommandDesignateOpenCloseValveDesc>밸브를 열거나 닫습니다.</CommandDesignateOpenCloseValveDesc>
+  <ValveClosed>밸브 잠김</ValveClosed>
+  <PumpCapacity>일일 펌프 용량: {0} L/하루</PumpCapacity>
+  <GroundCapacity>지하수 용량: {0} L/하루</GroundCapacity>
+  <PipedPumpCapacity>펌프 용량/지하수 용량: {0}/{1} L/하루 ({2})</PipedPumpCapacity>
+  <WaterStorage>저장된 물: {0} L</WaterStorage>
+  <TotalWaterStorage>저장된 물 합계: {0} L</TotalWaterStorage>
+  <PollutionLevel>오염도: {0}</PollutionLevel>
+  <CommandSprinkleDown>범위 감소</CommandSprinkleDown>
+  <CommandSprinkleUp>범위 증가</CommandSprinkleUp>
+  <UntreatedWater>품질: 멸균되지 않음 - 약간의 질병 위험</UntreatedWater>
+  <ContaminatedWater>품질: 오염됨 - 높은 질병 위험!</ContaminatedWater>
+  <TreatedWater>품질: 멸균됨 - 안전함</TreatedWater>
+  <DrainTank>배수</DrainTank>
+  <DrainTankDesc>저장된 물을 방출하여 물탱크의 오염을 제거합니다.</DrainTankDesc>
+  <WaterValueOffset>물의 가치: {1}L 의 {0}</WaterValueOffset>
+  <HyWater>물</HyWater>
+  <DrainSepticTank>배수</DrainSepticTank>
+  <DrainSepticTankDesc>통으로 옮겨 담을 오물 수위를 정합니다. 통은 넘어지거나, 불에 타거나, 이동시키거나 비료로 변환할 수 있습니다.</DrainSepticTankDesc>
+  <SewageProcessing>정화 중: {0} L/하루 내용물: {1} L ({2})</SewageProcessing>
+  <DoNotDrainTank>배수 하지 않음</DoNotDrainTank>
+  <DrainSepticTankAt>{0}%에 오물을 방출함.</DrainSepticTankAt>
+  <PitCapacity>구덩이: {0}</PitCapacity>
+  <PitFull>구덩이가 가득 차 비워야 합니다!</PitFull>
+  <KickOver>발로 차기</KickOver>
+  <KickOverDesc>오물통 속 내용물을 땅으로 쏟아버립니다.</KickOverDesc>
+  <ContainsCompost>퇴비 {0}/{1}</ContainsCompost>
+  <ContainsFecalSludge>오물 {0}/{1}</ContainsFecalSludge>
+  <Composted>퇴비</Composted>
+  <CompostingProgress>퇴비 숙성 중 {0} ({1})</CompostingProgress>
+  <ComposterOutOfIdealTemperature>이상적인 퇴비 숙성 온도 벗어남</ComposterOutOfIdealTemperature>
+  <IdealCompostingTemperature>이상적인 퇴비 숙성 온도</IdealCompostingTemperature>
+  <QuitToMenuToChange>적용을 위하여 메인 메뉴로 나가기</QuitToMenuToChange>
+  <RimefellerLink>림펠러 연동</RimefellerLink>
+  <RimefellerLinkTip>림펠러의 정유공장과 가공공장에 물을 사용하는 것을 활성화합니다.</RimefellerLinkTip>
+  <RimatomicsLink>림원자학 연동</RimatomicsLink>
+  <RimatomicsLinkTip>림원자학에서 냉각탑에 물을 사용하는 것을 활성화합니다.</RimatomicsLinkTip>
+  <OverrideNeedSettingsTip>신체 유형이나 종족, 활성화된 특성에 따라 수동으로 욕구를 비활성화합니다.</OverrideNeedSettingsTip>
+  <OverrideNeedsSettings>욕구 필터 상세 설정</OverrideNeedsSettings>
+  <Disablebladderneed>배변 욕구 비활성</Disablebladderneed>
+  <Disablehygieneneed>위생 욕구 비활성</Disablehygieneneed>
+  <DisableNeedsLabel>욕구 설정</DisableNeedsLabel>
+  <NeedCheckboxTip>활성화를 위한 시간</NeedCheckboxTip>
+  <PrisonersGetNeeds>죄수</PrisonersGetNeeds>
+  <PrisonersGetNeedsTip>죄수에게 이 욕구를 활성화 할까요?</PrisonersGetNeedsTip>
+  <HospitalityGuestsGetNeeds>방문객</HospitalityGuestsGetNeeds>
+  <HospitalityGuestsGetNeedsTip>방문객에게 이 욕구를 활성화 할까요?</HospitalityGuestsGetNeedsTip>
+  <PrivacyChecks>사생활 보호 활성화</PrivacyChecks>
+  <PrivacyChecksTip>정착민들이 화장실이나 욕조를 이용할 때 서로 사생활을 지키도록 할까요?</PrivacyChecksTip>
+  <CoolingEfficiency>냉각 효율</CoolingEfficiency>
+  <CoolingEfficiencyTip>에어컨에 높은 온도로 인한 현실적인 냉각 효율 감소를 적용할까요?</CoolingEfficiencyTip>
+  <DisableNeeds>정착민</DisableNeeds>
+  <DisableNeedsTip>위생 관련 욕구를 모두 비활성 합니다. 다른 설정보다 우선됩니다.</DisableNeedsTip>
+  <PetsGetBladder>애완동물 배변</PetsGetBladder>
+  <PetsGetBladderTip>애완동물에게 배변 욕구를 부여할까요?</PetsGetBladderTip>
+  <WildAnimalsGetBladder>야생동물 배변</WildAnimalsGetBladder>
+  <WildAnimalsGetBladderTip>야생동물에게 배변 욕구를 부여할까요?</WildAnimalsGetBladderTip>
+  <ThirstNeed>갈증</ThirstNeed>
+  <ThirstNeedTip>정착민들이 배변 욕구와 함께 기본적인 갈증을 느끼게 할까요?</ThirstNeedTip>
+  <FertilizerVisible>비료 보이기</FertilizerVisible>
+  <FertilizerVisibleTip>비료 그리드를 볼 수 있도록 지정할까요?</FertilizerVisibleTip>
+  <AllowNonHuman>추가된 종족 욕구 활성화</AllowNonHuman>
+  <AllowNonHumanTip>욕구를 비 인간형 정착민에게 부여합니다. 설정을 덮어씀으로써 특정 종을 비활성 할 수 있습니다.</AllowNonHumanTip>
+
+</LanguageData>

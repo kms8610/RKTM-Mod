@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Raid.label>습격</Raid.label>
+  <DropRaid.label>공중강습</DropRaid.label>
+  <SapperRaid.label>공병습격</SapperRaid.label>
+  <SiegeRaid.label>공성습격</SiegeRaid.label>
+  <MechanoidRaid.label>메카노이드 습격</MechanoidRaid.label>
+  <Infestation.label>곤충 군락</Infestation.label>
+  <ManhunterPack.label>식인동물 무리</ManhunterPack.label>
+  <Predators.label>포식동물</Predators.label>
+  <RandomDisease.label>무작위 질병</RandomDisease.label>
+  <SpecificDisease.label>특정 질병</SpecificDisease.label>
+  <BuyPawn.label>폰 구매</BuyPawn.label>
+  <LevelPawn.label>폰 기술</LevelPawn.label>
+  <AddTrait.label>특징 추가</AddTrait.label>
+  <RemoveTrait.label>특징 제거</RemoveTrait.label>
+  <ChangeGender.label>성별 변경</ChangeGender.label>
+  <Item.label>아이템</Item.label>
+  <BuyPrisoner.label>죄수</BuyPrisoner.label>
+  <VisitColony.label>정착지 방문</VisitColony.label>
+  <RandomInspire.label>무작위 영감</RandomInspire.label>
+  <ToryTalkerVote.label>tory talker 투표</ToryTalkerVote.label>
+  <HodlBotVote.label>hodl bot 투표</HodlBotVote.label>
+
+</LanguageData>

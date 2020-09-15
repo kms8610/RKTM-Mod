@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Medical System Expansion</li>
+	  <li>Medical System Expansion - Revived</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+	    <li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "InstallPegLeg"]/label</xpath>
+            <value>
+		      <label>목재 다리 이식</label>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "InstallPegLeg"]/description</xpath>
+            <value>
+		      <description>목재 다리를 이식합니다.</description>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "InstallPegLeg"]/jobString</xpath>
+            <value>
+		      <jobString>목재 다리 이식 중.</jobString>
+	        </value>
+		</li>
+	    <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "PegLeg"]/label</xpath>
+            <value>
+		      <label>목재 다리</label>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "PegLeg"]/description</xpath>
+            <value>
+		      <description>굉장히 저렴한 다리의 대체품입니다.</description>
+	        </value>
+		</li>
+	  </operations>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Expanded Prosthetics and Organ Engineering</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+	    <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "PegLeg"]/label</xpath>
+            <value>
+		      <label>의족</label>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "PegLeg"]/description</xpath>
+            <value>
+		      <description>다리를 나무로 대체합니다. 유행에 뒤쳐지긴 했지만 맡은 일은 꽤 합니다.</description>
+	        </value>
+		</li>
+	  </operations>
+    </match>
+  </Operation>
+
+</Patch>

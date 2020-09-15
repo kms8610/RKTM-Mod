@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimatomicsActivate.label>림원자학</RimatomicsActivate.label>
+  <RimatomicsActivate.discoveredLetterTitle>림원자학 잠금 해제!</RimatomicsActivate.discoveredLetterTitle>
+  <RimatomicsActivate.description>궤도의 탐사선이 탐지되었습니다! 지상으로 신호를 보내고 있는 것 같습니다. 아마 우리가 메시지를 해독할 수 있을 것입니다.</RimatomicsActivate.description>
+  <RimatomicsActivate.discoveredLetterText>탐사선과의 연결이 수립되어 녹화된 메세지가 재생되었습니다.\n\n중고 생체공학 판매원이 끈적한 말투로 "림원자학"으로 알려진 거래 세력을 설명합니다.\n\n그가 영업용 말투로 말을 꺼내자마자, 엑사바이트에 이르는 데이터가 제어판에 쏟어져 들어오기 시작합니다. 그는 림원자학 연구 작업대를 건설하기 위한 청사진을 보내고 있다고 설명합니다. 이 작업대에서 그들의 기술을 구매하거나, 무역선을 요청할 수 있다고 합니다.\n\n건설 메뉴의 림원자학 탭을 확인해 보세요.</RimatomicsActivate.discoveredLetterText>
+
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<Hospitality_1_0_17.content>
+   - 새 기능: 방문객 무리 최소 인원 설정 추가
+  |- 새 기능: 여행 중인 방문객은 절대 정신이상에 걸리지 않음
+  |- 새 기능: 방문객 창에 방문객과 침대의 갯수 표시
+  |- 수정: 방문객이 방문객 구역 내에 있을 때만 환대 받도록 수정
+  |- 수정: 방문객을 돌려보냈을 때 필요창 초기화 됨
+  |img:images/Skirmish
+  |caption:As you may know, I'm working hard on my own game. We've just updated the free version and I need YOUR opinion! Click the link above to check it out. Thanks!</Hospitality_1_0_17.content>-->
+
+  <Hospitality_1_1_1.modNameReadable>Hospitality</Hospitality_1_1_1.modNameReadable>
+  <Hospitality_1_1_1.modIdentifier>Hospitality</Hospitality_1_1_1.modIdentifier>
+  <Hospitality_1_1_1.content>
+   - 새 기능: 이제 방문객용 침대에는 어떤 작위가 필요하고 다음 작위에 필요한 것들을 표시함
+  |- 새 기능: 제국 방문객을 포섭하려면 왕실 친구가 필요함
+  |- 새 기능: 방문객 침대의 통계 정보상자 추가
+  |- 새 기능: 침대가 없는 방문객을 위한 알림 추가
+  |- Tweak: 이제 피학적 특성은 식탁없이 밥먹는 것이나 나쁜 잠버릇 같은 유형에 대해 신경쓰지 않음 (비방문객 포함)
+  |- Tweak: 품목의 판매가치를 55%로 낮춤
+  |- 그 외 다른 많은 사항 수정 및 조정 (변경사항 참조)
+  |img:images/Patron
+  |caption:Hospitality 모드를 업데이트 하는데 60시간 이상 걸렸습니다. 모드를 개발하고 유지하기 위해, 여러분의 도움이 필요한 Patreon 페이지를 시작하려고 합니다. 모드의 새로운 기능에 대해 투표를 할 수 있으며, 여러분들이 흥미로울만한 작은 모드를 게시하고 있습니다. 그러니 궁금하거나, 고맙거나, 너그러운 마음이 드신 다면 위 링크를 클릭하여 살펴보세요!
+  |모드 업데이트 때문에 문제가 생긴다면, 언제든지 연락주세요 (Ctrl-F12를 눌러 에러로그를 포함하는 것도 잊지마시구요!).</Hospitality_1_1_1.content>
+
+  <!--<ModName_1_2_0.content>
+   First paragraph.
+  |img:Things/Item/Meal/Fine,Things/Item/Meal/Lavish,Things/Item/Meal/Simple
+  |caption:This is a caption.
+  |Another paragraph with &lt;b>rich text&lt;/b>.</ModName_1_2_0.content>-->
+
+</LanguageData>

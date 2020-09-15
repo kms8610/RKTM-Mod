@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TM_MagicLore.label>마법 이론 논의 및 실습</TM_MagicLore.label>
+  <TM_MagicLore.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 마법에 대해 지도함.</TM_MagicLore.logRulesInitiator.rulesStrings.0>
+  <TM_MagicLore.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 마법에 대한 이론을 배움.</TM_MagicLore.logRulesRecipient.rulesStrings.0>
+  <TM_MightLore.label>전투 기술에 대한 토론</TM_MightLore.label>
+  <TM_MightLore.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 전투 기술을 가르침.</TM_MightLore.logRulesInitiator.rulesStrings.0>
+  <TM_MightLore.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 전투 기술을 배움.</TM_MightLore.logRulesRecipient.rulesStrings.0>
+  <TM_EntertainID.label>즐겁게 함</TM_EntertainID.label>
+  <TM_EntertainID.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef](을)를 즐겁게 함.</TM_EntertainID.logRulesInitiator.rulesStrings.0>
+  <TM_EntertainID.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 덕분에 즐거워짐.</TM_EntertainID.logRulesRecipient.rulesStrings.0>
+  <TM_EntertainAuraID.label>즐겁게 함</TM_EntertainAuraID.label>
+  <TM_EntertainAuraID.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef](와)과 즐거운 대화를 함.</TM_EntertainAuraID.logRulesInitiator.rulesStrings.0>
+  <TM_EntertainAuraID.logRulesRecipient.rulesStrings.0>r_logentry-> [INITIATOR_nameDef](와)과 즐거운 대화를 함.</TM_EntertainAuraID.logRulesRecipient.rulesStrings.0>
+</LanguageData>

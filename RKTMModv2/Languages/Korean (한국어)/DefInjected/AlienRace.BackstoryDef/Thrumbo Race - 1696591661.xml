@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Thrumboian_Wild.title>트럼보 방랑자</Thrumboian_Wild.title>
+  <Thrumboian_Wild.titleShort>하얀 뿔</Thrumboian_Wild.titleShort>
+  <Thrumboian_Wild.baseDescription>[PAWN_nameDef](은)는 평생의 경험이 있으며 모든 것에 대해 최소한 약간은 아는 것 같습니다.</Thrumboian_Wild.baseDescription>
+  <Thrumbo_Wild.title>트럼보 야생 유년</Thrumbo_Wild.title>
+  <Thrumbo_Wild.titleShort>작은 뿔</Thrumbo_Wild.titleShort>
+  <Thrumbo_Wild.baseDescription>[PAWN_nameDef](은)는 야생에서 자랐으며 과거는 알 수 없었지만 지식은 부인할 수 없는 트럼보니안입니다.</Thrumbo_Wild.baseDescription>
+
+</LanguageData>

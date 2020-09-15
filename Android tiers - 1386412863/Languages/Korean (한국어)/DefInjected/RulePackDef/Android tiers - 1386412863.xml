@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NamerFactionAndroid.rulePack.rulesStrings>
+    <li>name->깨달은 자</li>
+  </NamerFactionAndroid.rulePack.rulesStrings>
+  <NamerFactionBaseAndroid.rulePack.rulesStrings>
+    <li>name->깨달은 자의 대지</li>
+    <li>name->황금의 대지</li>
+    <li>name->떠오르는 언덕</li>
+    <li>name->깨달은 자의 중심</li>
+  </NamerFactionBaseAndroid.rulePack.rulesStrings>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings>
+    <li>r_name->[connecting_verb] [political_union_collective]</li>
+    <li>political_union_collective->집단</li>
+    <li>political_union_collective->연방 국가</li>
+    <li>political_union_collective->연합 정부</li>
+    <li>political_union_collective->합병체</li>
+    <li>political_union_collective->협동조합</li>
+    <li>political_union_collective->조합</li>
+    <li>political_union_collective->연방</li>
+    <li>political_union_collective->연맹</li>
+    <li>political_union_collective->동맹</li>
+    <li>political_union_collective->연합체</li>
+    <li>connecting_verb->통일된</li>
+    <li>connecting_verb->위대한</li>
+    <li>connecting_verb->기계</li>
+    <li>connecting_verb->안드로이드</li>
+    <li>connecting_verb->연합의</li>
+    <li>connecting_verb->연결된</li>
+  </NamerFactionCollectiveAndroid.rulePack.rulesStrings>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings>
+    <li>r_name->[place_name]</li>
+    <li>r_name->[adjective] [place_name]</li>
+    <li>r_name->[place_name]의 [place_type]</li>
+    <li>place_name->에도셋</li>
+    <li>place_name->킬레이</li>
+    <li>place_name->빈무스</li>
+    <li>place_name->아이리셰</li>
+    <li>place_name->오크베일</li>
+    <li>place_name->엔드릿지</li>
+    <li>place_name->엑살로스</li>
+    <li>place_name->세룰</li>
+    <li>place_name->소너스</li>
+    <li>place_name->볼런스</li>
+    <li>place_name->오리온</li>
+    <li>place_name->셀룰리스</li>
+    <li>adjective->새로운</li>
+    <li>adjective->신성의</li>
+    <li>adjective->신</li>
+    <li>adjective->주요한</li>
+    <li>place_type->도시</li>
+    <li>place_type->마을</li>
+    <li>place_type->작은 마을</li>
+    <li>place_type->대도시</li>
+  </NamerSettlementCollectiveAndroid.rulePack.rulesStrings>
+  <NamerFactionRaiderAndroid.rulePack.rulesStrings>
+    <li>r_name->[connecting_verb] [political_raider_androids]</li>
+    <li>political_raider_androids->소수 민족</li>
+    <li>political_raider_androids->행군</li>
+    <li>political_raider_androids->봉기</li>
+    <li>political_raider_androids->민병대</li>
+    <li>connecting_verb->영원한</li>
+    <li>connecting_verb->기계</li>
+    <li>connecting_verb->끊임없는</li>
+    <li>connecting_verb->위대한</li>
+  </NamerFactionRaiderAndroid.rulePack.rulesStrings>
+
+</LanguageData>

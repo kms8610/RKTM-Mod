@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Alien_Nyaron.label>냐론</Alien_Nyaron.label>
+  <Alien_Nyaron.description>번화계 생체공학의 산물인 고양이 인간입니다.</Alien_Nyaron.description>
+  <Alien_Nyaron.tools.0.label>왼냥냥펀치</Alien_Nyaron.tools.0.label>
+  <Alien_Nyaron.tools.1.label>오른냥냥펀치</Alien_Nyaron.tools.1.label>
+  <Alien_Nyaron.tools.2.label>송곳니</Alien_Nyaron.tools.2.label>
+  <Alien_Nyaron.tools.3.label>박치기</Alien_Nyaron.tools.3.label>
+
+</LanguageData>

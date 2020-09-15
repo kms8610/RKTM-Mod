@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Demon_Horns.label>뿔</Demon_Horns.label>
+  <Demon_Wings.label>날개</Demon_Wings.label>
+  <Demon_LeftArm.label>왼팔</Demon_LeftArm.label>
+  <Demon_RightArm.label>오른팔</Demon_RightArm.label>
+  <Demon_Legs.label>다리</Demon_Legs.label>
+  <Ele_LeftArm.label>왼팔</Ele_LeftArm.label>
+  <Ele_RightArm.label>오른팔</Ele_RightArm.label>
+  <Ele_Horn.label>뿔</Ele_Horn.label>
+  <Minion_Horns.label>뿔</Minion_Horns.label>
+  <Minion_Teeth.label>이빨</Minion_Teeth.label>
+  <Sentinel_Claws.label>발톱</Sentinel_Claws.label>
+  <Sentinel_Teeth.label>이빨</Sentinel_Teeth.label>
+  <TM_PoppiSnuggle.label>이빨</TM_PoppiSnuggle.label>
+</LanguageData>

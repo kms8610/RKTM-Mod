@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Backstory_ColonyVatgrown.title>정착지 배양 복제</Backstory_ColonyVatgrown.title>
+  <Backstory_ColonyVatgrown.titleShort>배양 복제</Backstory_ColonyVatgrown.titleShort>
+  <Backstory_ColonyVatgrown.baseDesc>[PAWN_nameDef](은)는 정착지의 배양조에서 배양되었습니다. [PAWN_pronoun]는 능력치 없이 배양조에서 태어났으나, 능력치가 크게 성장할 여지가 있습니다.</Backstory_ColonyVatgrown.baseDesc>
+
+</LanguageData>

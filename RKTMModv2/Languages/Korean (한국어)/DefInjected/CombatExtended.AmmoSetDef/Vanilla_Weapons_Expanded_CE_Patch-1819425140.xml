@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AmmoSet_ChargeRL.label>반물질탄 발사체</AmmoSet_ChargeRL.label>
+  <AmmoSet_VWE_CompoundArrow.label>기계식활 화살</AmmoSet_VWE_CompoundArrow.label>
+  <AmmoSet_VWE_Extinguisher.label>소화제</AmmoSet_VWE_Extinguisher.label>
+  <AmmoSet_VWE_Flamethrower.label>화염방사기 연료</AmmoSet_VWE_Flamethrower.label>
+  <AmmoSet_VWE_LeadBall.label>납탄</AmmoSet_VWE_LeadBall.label>
+  <AmmoSet_VWE_Whip.label>채찍</AmmoSet_VWE_Whip.label>
+
+</LanguageData>

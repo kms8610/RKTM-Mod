@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TransformerExplosion.label>변압기 폭발</TransformerExplosion.label>
+  <TransformerExplosion.letterLabel>변압기 폭발</TransformerExplosion.letterLabel>
+  <TransformerExplosion.letterText>변압기에 인가된 과전압이 회로를 태워버렸습니다.</TransformerExplosion.letterText>
+  <notNothing.label>?</notNothing.label>
+  <notNothing.letterLabel>?</notNothing.letterLabel>
+  <notNothing.letterText>?</notNothing.letterText>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Natural_Lung.label>생체 폐</Natural_Lung.label>
+  <Natural_Heart.label>생체 심장</Natural_Heart.label>
+  <Natural_Kidney.label>생체 신장</Natural_Kidney.label>
+  <Natural_Stomach.label>생체 위</Natural_Stomach.label>
+  <Natural_Liver.label>생체 간</Natural_Liver.label>
+  <Natural_Eye.label>생체 눈</Natural_Eye.label>
+  <Natural_Ear.label>생체 귀</Natural_Ear.label>
+  <Natural_Nose.label>생체 코</Natural_Nose.label>
+  <Natural_Jaw.label>생체 턱</Natural_Jaw.label>
+  <Natural_Spine.label>생체 척추</Natural_Spine.label>
+  <Natural_Pelvis.label>생체 골반</Natural_Pelvis.label>
+  <Natural_Arm.label>생체 팔</Natural_Arm.label>
+  <Natural_Hand.label>생체 손</Natural_Hand.label>
+  <Natural_Leg.label>생체 다리</Natural_Leg.label>
+  <Natural_Foot.label>생체 발</Natural_Foot.label>
+
+</LanguageData>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite](은)는 [SUBJECT_definite]의 검술을 [skillfully] [surpassed].</VFEM_Event_MeleeRound.rulePack.rulesStrings.0>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.1>r_logentry->[INITIATOR_definite](은)는 [SUBJECT_definite]의 검술을 [skill] [skillfully] [surpassed].</VFEM_Event_MeleeRound.rulePack.rulesStrings.1>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.2>skillfully->능숙하게</VFEM_Event_MeleeRound.rulePack.rulesStrings.2>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.3>skillfully->평범하게</VFEM_Event_MeleeRound.rulePack.rulesStrings.3>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.4>skillfully->뛰어나게</VFEM_Event_MeleeRound.rulePack.rulesStrings.4>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.5>skillfully->손쉽게</VFEM_Event_MeleeRound.rulePack.rulesStrings.5>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.6>skillfully->수월하게</VFEM_Event_MeleeRound.rulePack.rulesStrings.6>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.7>skillfully->용감하게</VFEM_Event_MeleeRound.rulePack.rulesStrings.7>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.8>surpassed->넘어섬</VFEM_Event_MeleeRound.rulePack.rulesStrings.8>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.9>surpassed->이김</VFEM_Event_MeleeRound.rulePack.rulesStrings.9>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.10>surpassed->배제함</VFEM_Event_MeleeRound.rulePack.rulesStrings.10>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.11>surpassed->앞서감</VFEM_Event_MeleeRound.rulePack.rulesStrings.11>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.12>surpassed->압도함</VFEM_Event_MeleeRound.rulePack.rulesStrings.12>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.13>r_logentry->[INITIATOR_definite](와)과 [SUBJECT_definite](은)는 서로 [intensely] [battled], [INITIATOR_definite](이)가 승리함.</VFEM_Event_MeleeRound.rulePack.rulesStrings.13>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.14>intensely->맹렬히</VFEM_Event_MeleeRound.rulePack.rulesStrings.14>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.15>intensely->씩씩하게</VFEM_Event_MeleeRound.rulePack.rulesStrings.15>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.16>intensely->가깝게</VFEM_Event_MeleeRound.rulePack.rulesStrings.16>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.17>battled->싸웠지만</VFEM_Event_MeleeRound.rulePack.rulesStrings.17>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.18>battled->다퉜지만</VFEM_Event_MeleeRound.rulePack.rulesStrings.18>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.19>battled->우열을 가렸지만</VFEM_Event_MeleeRound.rulePack.rulesStrings.19>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.20>battled->충돌했지만</VFEM_Event_MeleeRound.rulePack.rulesStrings.20>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.21>battled->맞붙었지만</VFEM_Event_MeleeRound.rulePack.rulesStrings.21>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.22>r_logentry->[INITIATOR_definite](이)가 [skill] 세차게 밀자, [SUBJECT_definite](은)는 [toppleableThing] [fell].</VFEM_Event_MeleeRound.rulePack.rulesStrings.22>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.23>fell->넘어짐</VFEM_Event_MeleeRound.rulePack.rulesStrings.23>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.24>fell->쓰러짐</VFEM_Event_MeleeRound.rulePack.rulesStrings.24>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.25>fell->엎어짐</VFEM_Event_MeleeRound.rulePack.rulesStrings.25>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.26>toppleableThing->도미노처럼</VFEM_Event_MeleeRound.rulePack.rulesStrings.26>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.27>toppleableThing->성냥개비처럼</VFEM_Event_MeleeRound.rulePack.rulesStrings.27>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.28>skill->노련하고</VFEM_Event_MeleeRound.rulePack.rulesStrings.28>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.29>skill->힘 있고</VFEM_Event_MeleeRound.rulePack.rulesStrings.29>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.30>skill->교묘하고</VFEM_Event_MeleeRound.rulePack.rulesStrings.30>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.31>skill->용기 있고</VFEM_Event_MeleeRound.rulePack.rulesStrings.31>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.0>r_logentry-> [SUBJECT_definite](은)는 [woundDesc] [wound].</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.0>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.1>woundDesc->위험하게</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.1>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.2>woundDesc->깊게</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.2>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.3>woundDesc->피나도록</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.3>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.4>woundDesc->끔찍하게</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.4>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.5>wound->잘림</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.5>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.6>wound->베임</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.6>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.7>wound->할퀴어짐</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.7>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.8>wound->긁힘</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.8>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.9>wound(p=0.1)->맞음</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.9>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.0>r_logentry->[SUBJECT_definite]의 신체 일부는 [away] [flew].</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.0>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.1>flew->날아감</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.1>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.2>flew(p=0.2)->내려감</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.2>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.3>away->떨어져</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.3>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.4>away(p=0.2)->수평을 그리며</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.4>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.5>r_logentry->[INITIATOR_definite](은)는 [SUBJECT_definite]의 신체일부를 [removedAdverb] [removed].</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.5>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.6>removedAdverb->잔인하게</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.6>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.7>removedAdverb->냉정하게</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.7>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.8>removedAdverb->능숙하게</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.8>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.9>removedAdverb->절제하여</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.9>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.10>removed->제거함</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.10>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.11>removed->잘라 버림</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.11>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.12>removed->토막 냄</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.12>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite](은)는 자신의 [weapon](와)과 [steedControl](을)를 [skill] [superior] [demonstrated].</VFEM_Event_JoustingRound.rulePack.rulesStrings.0>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.1>demonstrated->증명함</VFEM_Event_JoustingRound.rulePack.rulesStrings.1>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.2>demonstrated->자랑함</VFEM_Event_JoustingRound.rulePack.rulesStrings.2>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.3>superior->우월하게</VFEM_Event_JoustingRound.rulePack.rulesStrings.3>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.4>superior->대단하게</VFEM_Event_JoustingRound.rulePack.rulesStrings.4>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.5>superior->더 좋게</VFEM_Event_JoustingRound.rulePack.rulesStrings.5>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.6>skill->노련하고</VFEM_Event_JoustingRound.rulePack.rulesStrings.6>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.7>skill->정밀하고</VFEM_Event_JoustingRound.rulePack.rulesStrings.7>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.8>skill->견고하고</VFEM_Event_JoustingRound.rulePack.rulesStrings.8>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.9>steedControl->고삐</VFEM_Event_JoustingRound.rulePack.rulesStrings.9>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.10>steedControl->등자</VFEM_Event_JoustingRound.rulePack.rulesStrings.10>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.11>steedControl->안장</VFEM_Event_JoustingRound.rulePack.rulesStrings.11>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.12>weapon->기병창</VFEM_Event_JoustingRound.rulePack.rulesStrings.12>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.13>weapon->창</VFEM_Event_JoustingRound.rulePack.rulesStrings.13>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.14>weapon->장창</VFEM_Event_JoustingRound.rulePack.rulesStrings.14>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.15>r_logentry->[SUBJECT_definite](은)는 [steed]처럼 [control] [failed].</VFEM_Event_JoustingRound.rulePack.rulesStrings.15>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.16>failed->실패함</VFEM_Event_JoustingRound.rulePack.rulesStrings.16>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.17>failed->거부당함</VFEM_Event_JoustingRound.rulePack.rulesStrings.17>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.18>control->제어하는데</VFEM_Event_JoustingRound.rulePack.rulesStrings.18>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.19>control->관리하는데</VFEM_Event_JoustingRound.rulePack.rulesStrings.19>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.20>control->명령하는데</VFEM_Event_JoustingRound.rulePack.rulesStrings.20>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.21>control->호통치는데</VFEM_Event_JoustingRound.rulePack.rulesStrings.21>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.22>steed->머팔로</VFEM_Event_JoustingRound.rulePack.rulesStrings.22>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.23>steed->말</VFEM_Event_JoustingRound.rulePack.rulesStrings.23>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.24>steed->낙타</VFEM_Event_JoustingRound.rulePack.rulesStrings.24>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.25>steed->곰</VFEM_Event_JoustingRound.rulePack.rulesStrings.25>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.26>steed->사자</VFEM_Event_JoustingRound.rulePack.rulesStrings.26>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.27>steed->코뿔소</VFEM_Event_JoustingRound.rulePack.rulesStrings.27>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.28>steed(p=0.5)->소</VFEM_Event_JoustingRound.rulePack.rulesStrings.28>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.29>steed(p=0.1)->공룡</VFEM_Event_JoustingRound.rulePack.rulesStrings.29>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.30>steed(p=0.1)->거대 거북이</VFEM_Event_JoustingRound.rulePack.rulesStrings.30>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.31>steed(p=0.1)->트럼보</VFEM_Event_JoustingRound.rulePack.rulesStrings.31>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.0>r_logentry->[SUBJECT_definite](은)는 [steed]처럼 [kickPast] 가르침.</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.0>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.1>r_logentry->[SUBJECT_definite](은)는 [SUBJECT_possessive] [steed]처럼 [kickAdj] [kickPast] 가르치다 떨어짐.</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.1>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.2>kickAdj->잔인하게</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.2>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.3>kickAdj->사납게</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.3>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.4>kickPast->발로 차며</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.4>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.5>kickPast->걷어 차며</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.5>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.6>kickPast->매를 들며</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.6>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite](은)는 [INITIATOR_possessive] 표적을 [hitAdj] [hitPast].</VFEM_Event_ArcheryRound.rulePack.rulesStrings.0>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.1>r_logentry->[INITIATOR_definite](은)는 [INITIATOR_possessive] 표적을 [speed] [hitAdj] [hitPast].</VFEM_Event_ArcheryRound.rulePack.rulesStrings.1>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.2>hitAdj->정확하게</VFEM_Event_ArcheryRound.rulePack.rulesStrings.2>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.3>hitAdj->능숙하게</VFEM_Event_ArcheryRound.rulePack.rulesStrings.3>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.4>hitAdj->신중하게</VFEM_Event_ArcheryRound.rulePack.rulesStrings.4>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.5>hitPast->맞힘</VFEM_Event_ArcheryRound.rulePack.rulesStrings.5>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.6>hitPast->명중시킴</VFEM_Event_ArcheryRound.rulePack.rulesStrings.6>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.7>hitPast->맞춤</VFEM_Event_ArcheryRound.rulePack.rulesStrings.7>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.8>speed->빠르고</VFEM_Event_ArcheryRound.rulePack.rulesStrings.8>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.9>speed->신속하고</VFEM_Event_ArcheryRound.rulePack.rulesStrings.9>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.10>speed->교묘하고</VFEM_Event_ArcheryRound.rulePack.rulesStrings.10>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.11>r_logentry->[SUBJECT_definite](은)는 [SUBJECT_possessive] 목표를 향해 [hit] [unable].</VFEM_Event_ArcheryRound.rulePack.rulesStrings.11>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.12>unable->못 맞춤</VFEM_Event_ArcheryRound.rulePack.rulesStrings.12>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.13>unable->빗나감</VFEM_Event_ArcheryRound.rulePack.rulesStrings.13>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.14>unable->못 맞힘</VFEM_Event_ArcheryRound.rulePack.rulesStrings.14>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.15>hit->조준하지만</VFEM_Event_ArcheryRound.rulePack.rulesStrings.15>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.16>hit->강타하지만</VFEM_Event_ArcheryRound.rulePack.rulesStrings.16>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.17>hit->쏘지만</VFEM_Event_ArcheryRound.rulePack.rulesStrings.17>
+  <VFEM_Event_ArcheryDisaster.rulePack.rulesStrings.0>r_logentry->[SUBJECT_definite](은)는 [SUBJECT_possessive] 표적을 산산조각 날 정도로 [hitPast].</VFEM_Event_ArcheryDisaster.rulePack.rulesStrings.0>
+  <VFEM_Event_ArcheryDisaster.rulePack.rulesStrings.1>r_logentry->[SUBJECT_definite](은)는 활의 시위를 당기다가 실수로 자신을 맞힘.</VFEM_Event_ArcheryDisaster.rulePack.rulesStrings.1>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite]의 화살은 [far] [flew] 날아가 뜬금없이, [SUBJECT_definite](을)를 [hitPast].</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.0>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.1>flew->유유하게</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.1>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.2>flew->흔들리게</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.2>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.3>flew->곡선으로</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.3>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.4>flew->직선으로</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.4>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.5>far->멀리</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.5>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.6>far->꽤 멀리</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.6>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.7>far->아주 멀리</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.7>
+  <VFEM_NamerFactionMedieval.rulePack.rulesStrings.0>r_name(p=0.35)->[PlaceOutlander]</VFEM_NamerFactionMedieval.rulePack.rulesStrings.0>
+  <VFEM_NamerFactionMedieval.rulePack.rulesStrings.1>r_name->[PlaceOutlander]의 [political_union_medieval]</VFEM_NamerFactionMedieval.rulePack.rulesStrings.1>
+  <VFEM_NamerFactionMedieval.rulePack.rulesStrings.2>r_name->[political_union_medieval] [PlaceOutlander]</VFEM_NamerFactionMedieval.rulePack.rulesStrings.2>
+  <VFEM_NamerSettlementMedieval.rulePack.rulesStrings.0>r_name(p=4)->[medievalSettlementEnd] [PlaceOutlander]</VFEM_NamerSettlementMedieval.rulePack.rulesStrings.0>
+  <VFEM_NamerSettlementMedieval.rulePack.rulesStrings.1>r_name->[AnimalBadass]의 [TerrainFeature] 위의 [medievalSettlementEnd]</VFEM_NamerSettlementMedieval.rulePack.rulesStrings.1>
+  <VFEM_NamerSettlementMedieval.rulePack.rulesStrings.2>r_name->[AnimalBadass]의 [TerrainFeature] 옆의 [medievalSettlementEnd]</VFEM_NamerSettlementMedieval.rulePack.rulesStrings.2>
+</LanguageData>

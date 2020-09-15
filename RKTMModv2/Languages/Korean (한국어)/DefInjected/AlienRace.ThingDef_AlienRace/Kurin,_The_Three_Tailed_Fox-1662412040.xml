@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DRNTF_Race.label>쿠린</DRNTF_Race.label>
+  <DRNTF_Race.description>유전자 공학으로 만들어진 인공 생명체입니다. 제작과 요리를 잘하고 귀여운 외모로 사람을 홀려 사교도 잘합니다.</DRNTF_Race.description>
+  <DRNTF_Race.tools.0.label>왼쪽 주먹</DRNTF_Race.tools.0.label>
+  <DRNTF_Race.tools.1.label>오른쪽 주먹</DRNTF_Race.tools.1.label>
+  <DRNTF_Race.tools.2.label>이빨</DRNTF_Race.tools.2.label>
+  <DRNTF_Race.tools.3.label>머리</DRNTF_Race.tools.3.label>
+
+</LanguageData>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmallRaid.label>소규모 습격</SmallRaid.label>
+  <MediumRaid.label>중간 규모의 습격</MediumRaid.label>
+  <BigRaid.label>대규모 습격</BigRaid.label>
+  <MediumRaidDrop.label>중간 규모의 공중강습</MediumRaidDrop.label>
+  <BigRaidDrop.label>대규모 공중강습</BigRaidDrop.label>
+  <BigSiege.label>대규모 공병 습격</BigSiege.label>
+  <BigMechanoidRaid.label>메카노이드 습격</BigMechanoidRaid.label>
+  <Infestation.label>곤충 군락</Infestation.label>
+  <HeartAttack.label>심근경색</HeartAttack.label>
+  <DiseasePlague.label>흑사병</DiseasePlague.label>
+  <DiseaseFlu.label>독감</DiseaseFlu.label>
+  <DiseaseInfection.label>감염</DiseaseInfection.label>
+  <DiseaseMalaria.label>말라리아</DiseaseMalaria.label>
+  <DiseaseGutWorms.label>내장 기생충</DiseaseGutWorms.label>
+  <DiseaseMuscleParasites.label>근기생충</DiseaseMuscleParasites.label>
+  <DiseasePlagueMedium.label>흑사병</DiseasePlagueMedium.label>
+  <DiseaseFluMedium.label>독감</DiseaseFluMedium.label>
+  <DiseaseInfectionMedium.label>감염</DiseaseInfectionMedium.label>
+  <DiseaseMalariaMedium.label>말라리아</DiseaseMalariaMedium.label>
+  <DiseaseGutWormsMedium.label>내장 기생충</DiseaseGutWormsMedium.label>
+  <DiseaseMuscleParasitesMedium.label>근기생충</DiseaseMuscleParasitesMedium.label>
+  <DiseasePlagueHard.label>흑사병</DiseasePlagueHard.label>
+  <DiseaseFluHard.label>독감</DiseaseFluHard.label>
+  <DiseaseInfectionHard.label>감염</DiseaseInfectionHard.label>
+  <DiseaseMalariaHard.label>말라리아</DiseaseMalariaHard.label>
+  <DiseaseGutWormsHard.label>내장 기생충</DiseaseGutWormsHard.label>
+  <DiseaseMuscleParasitesHard.label>근기생충</DiseaseMuscleParasitesHard.label>
+  <DiseaseBlindness.label>실명</DiseaseBlindness.label>
+  <ClearWeather.label>맑은 날씨</ClearWeather.label>
+  <Rain.label>비</Rain.label>
+  <RainyThunderstorm.label>폭풍우</RainyThunderstorm.label>
+  <DryThunderstorm.label>마른 벼락</DryThunderstorm.label>
+  <SnowGentle.label>눈</SnowGentle.label>
+  <SnowHard.label>폭설</SnowHard.label>
+  <Fog.label>안개</Fog.label>
+  <FoggyRain.label>안개비</FoggyRain.label>
+  <Flashstorm.label>섬광폭풍</Flashstorm.label>
+  <Eclipse.label>일식</Eclipse.label>
+  <Aurora.label>오로라</Aurora.label>
+  <VomitRain.label>메스꺼운 비</VomitRain.label>
+  <AmbrosiaSprout.label>암브로시아 발아</AmbrosiaSprout.label>
+  <Meteorite.label>유성</Meteorite.label>
+  <MeteoriteShower.label>운석 소나기</MeteoriteShower.label>
+  <Blight.label>병충해</Blight.label>
+  <SolarFlare.label>흑점 폭발</SolarFlare.label>
+  <VolcanicWinter.label>화산겨울</VolcanicWinter.label>
+  <ToxicFallout.label>유독성 낙진</ToxicFallout.label>
+  <HeatWave.label>폭염</HeatWave.label>
+  <ColdSnap.label>한파</ColdSnap.label>
+  <Tornado.label>토네이도</Tornado.label>
+  <Tornados.label>토네이도들</Tornados.label>
+  <WildHuman.label>야인</WildHuman.label>
+  <WandererJoins.label>방랑자 합류</WandererJoins.label>
+  <GenderSwap.label>성전환</GenderSwap.label>
+  <SkillIncrease.label>기술 증가</SkillIncrease.label>
+  <Party.label>파티</Party.label>
+  <Cannibal.label>식인</Cannibal.label>
+  <Luciferium.label>루시페륨</Luciferium.label>
+  <MadAnimal.label>동물 광란</MadAnimal.label>
+  <HerdMigration.label>동물무리 이주</HerdMigration.label>
+  <AnimalWanderIn.label>방황하는 동물들</AnimalWanderIn.label>
+  <RareThrumbos.label>희귀 트럼보</RareThrumbos.label>
+  <FarmAnimals.label>가축용 동물</FarmAnimals.label>
+  <AnimalSelfTamed.label>동물 길들여짐</AnimalSelfTamed.label>
+  <YorkshireTerriers.label>요크셔테리어</YorkshireTerriers.label>
+  <ManhunterPack.label>식인동물 무리</ManhunterPack.label>
+  <Predators.label>포식동물</Predators.label>
+  <Inspiration.label>영감</Inspiration.label>
+  <PsychicWave.label>정신파동</PsychicWave.label>
+  <PsychicDrone.label>괴로운 정신파동</PsychicDrone.label>
+  <PsychicSoothe.label>편안한 정신파동</PsychicSoothe.label>
+  <MentalBreakMinor.label>가벼운 정신이상</MentalBreakMinor.label>
+  <MentalBreakMajor.label>심각한 정신이상</MentalBreakMajor.label>
+  <MentalBreakExtreme.label>극심한 정신이상</MentalBreakExtreme.label>
+  <MentalBreakBerserk.label>정신광란</MentalBreakBerserk.label>
+  <ShipChunkDrop.label>함선 잔해 추락</ShipChunkDrop.label>
+  <CargoPodDropped.label>화물 낙하기 추락</CargoPodDropped.label>
+  <TransportPodDropped.label>수송기 추락</TransportPodDropped.label>
+  <ShipPartPoison.label>독성 우주선 조각</ShipPartPoison.label>
+  <ShipPartPsychic.label>정신파동 우주선 조각</ShipPartPsychic.label>
+  <Gold.label>금</Gold.label>
+  <ManInBlack.label>구세주</ManInBlack.label>
+  <Traveler.label>여행자</Traveler.label>
+  <Visitor.label>방문객</Visitor.label>
+  <TraderVisiting.label>행상인</TraderVisiting.label>
+  <TraderShip.label>무역선</TraderShip.label>
+
+</LanguageData>

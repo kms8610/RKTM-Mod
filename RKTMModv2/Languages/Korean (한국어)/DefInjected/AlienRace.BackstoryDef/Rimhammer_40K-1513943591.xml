@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--RIMHAMMER_40K-1513943591-->
+  <BackstoryAstartesChild00.title>아스타르테스 입대</BackstoryAstartesChild00.title>
+  <BackstoryAstartesChild00.titleShort>아스타르테스 입대</BackstoryAstartesChild00.titleShort>
+  <BackstoryAstartesChild00.baseDescription>어렸을 때 이 지구인은 스페이스 마린이 되기 위해서 훈련 그리고 이식 과정을 거치도록 선택받았습니다.</BackstoryAstartesChild00.baseDescription>
+  <BackstoryAstartes00.title>스페이스 마린</BackstoryAstartes00.title>
+  <BackstoryAstartes00.titleShort>스페이스 마린</BackstoryAstartes00.titleShort>
+  <BackstoryAstartes00.baseDescription>훈련을 마친 이 지구인은 스페이스 마린인 아뎁투스 아스타르테스의 일부로, 제국에서 가장 위대한 전사 중 한 명이 되었습니다.</BackstoryAstartes00.baseDescription>
+  <BackstoryAstartes01.title>스페이스 마린</BackstoryAstartes01.title>
+  <BackstoryAstartes01.titleShort>스페이스 마린</BackstoryAstartes01.titleShort>
+  <BackstoryAstartes01.baseDescription>훈련을 마친 이 지구인은 스페이스 마린인 아뎁투스 아스타르테스의 일부로, 제국에서 가장 위대한 전사 중 한 명이 되었습니다.</BackstoryAstartes01.baseDescription>
+  <BackstoryAstartes02.title>스페이스 마린</BackstoryAstartes02.title>
+  <BackstoryAstartes02.titleShort>스페이스 마린</BackstoryAstartes02.titleShort>
+  <BackstoryAstartes02.baseDescription>훈련을 마친 이 지구인은 스페이스 마린인 아뎁투스 아스타르테스의 일부로, 제국에서 가장 위대한 전사 중 한 명이 되었습니다.</BackstoryAstartes02.baseDescription>
+  <BackstoryEldarChild00.title>엘다 아이</BackstoryEldarChild00.title>
+  <BackstoryEldarChild00.titleShort>엘다 아이</BackstoryEldarChild00.titleShort>
+  <BackstoryEldarChild00.baseDescription>크래프트월드 울쓰웨에서 자랐습니다.</BackstoryEldarChild00.baseDescription>
+  <BackstoryEldarChild01.title>엘다 아이</BackstoryEldarChild01.title>
+  <BackstoryEldarChild01.titleShort>엘다 아이</BackstoryEldarChild01.titleShort>
+  <BackstoryEldarChild01.baseDescription>크래프트월드 알라이톡에서 자랐습니다.</BackstoryEldarChild01.baseDescription>
+  <BackstoryEldarUlthwe00.title>울쓰웨 전사</BackstoryEldarUlthwe00.title>
+  <BackstoryEldarUlthwe00.titleShort>울쓰웨 전사</BackstoryEldarUlthwe00.titleShort>
+  <BackstoryEldarUlthwe00.baseDescription>크래프트월드 울쓰웨의 잘 훈련받은 전사입니다.</BackstoryEldarUlthwe00.baseDescription>
+  <BackstoryEldarUlthwe01.title>울쓰웨 정예병</BackstoryEldarUlthwe01.title>
+  <BackstoryEldarUlthwe01.titleShort>울쓰웨 정예병</BackstoryEldarUlthwe01.titleShort>
+  <BackstoryEldarUlthwe01.baseDescription>크래프트월드 울쓰웨의 정에병입니다.</BackstoryEldarUlthwe01.baseDescription>
+  <BackstoryEldarUlthwe02.title>울쓰웨 영웅</BackstoryEldarUlthwe02.title>
+  <BackstoryEldarUlthwe02.titleShort>울쓰웨 영웅</BackstoryEldarUlthwe02.titleShort>
+  <BackstoryEldarUlthwe02.baseDescription>수 많은 전장을 거친 크래프트월드 울쓰웨의 영웅입니다.</BackstoryEldarUlthwe02.baseDescription>
+  <BackstoryEldarAlaitoc00.title>알라이톡 전사</BackstoryEldarAlaitoc00.title>
+  <BackstoryEldarAlaitoc00.titleShort>알라이톡 전사</BackstoryEldarAlaitoc00.titleShort>
+  <BackstoryEldarAlaitoc00.baseDescription>크래프트월드 알라이톡의 잘 훈련받은 전사입니다.</BackstoryEldarAlaitoc00.baseDescription>
+  <BackstoryEldarAlaitoc01.title>알라이톡 정예병</BackstoryEldarAlaitoc01.title>
+  <BackstoryEldarAlaitoc01.titleShort>알라이톡 정예병</BackstoryEldarAlaitoc01.titleShort>
+  <BackstoryEldarAlaitoc01.baseDescription>크래프트월드 알라이톡의 정에병입니다.</BackstoryEldarAlaitoc01.baseDescription>
+  <BackstoryEldarAlaitoc02.title>알라이톡 영웅</BackstoryEldarAlaitoc02.title>
+  <BackstoryEldarAlaitoc02.titleShort>알라이톡 영웅</BackstoryEldarAlaitoc02.titleShort>
+  <BackstoryEldarAlaitoc02.baseDescription>수 많은 전장을 거친 크래프트월드 알라이톡의 영웅입니다.</BackstoryEldarAlaitoc02.baseDescription>
+  <BackstoryGuevesa00.title>궤'베사</BackstoryGuevesa00.title>
+  <BackstoryGuevesa00.titleShort>궤'베사</BackstoryGuevesa00.titleShort>
+  <BackstoryGuevesa00.baseDescription>그들의 고향을 떠난 후, [PAWN_nameDef](은)는 타우 제국에 들어가기로 결정했습니다. 그들은 광신적인 종교 제국의 지배 아래, 그들의 과거 고향에서 계속 사는 것을 참을 수 없었습니다.</BackstoryGuevesa00.baseDescription>
+  <BackstoryKrootChild00.title>헌터의 아이</BackstoryKrootChild00.title>
+  <BackstoryKrootChild00.titleShort>어린 헌터</BackstoryKrootChild00.titleShort>
+  <BackstoryKrootChild00.baseDescription>이 크룻은 제대로 걸을마를 떼기 전부터 사냥을 하였고, 페크에서 언제나 어른들과 함께 짧은 사냥을 하곤 했습니다.</BackstoryKrootChild00.baseDescription>
+  <BackstoryKroot00.title>크룻 전사</BackstoryKroot00.title>
+  <BackstoryKroot00.titleShort>전사</BackstoryKroot00.titleShort>
+  <BackstoryKroot00.baseDescription>페크를 떠난 후, 이 크룻은 자기 종족의 적들을 사냥하고, 그들을 뜯어먹어 더 강해지기로 결심했습니다.</BackstoryKroot00.baseDescription>
+  <BackstoryNecronChild00.title>네크론티르 솔져</BackstoryNecronChild00.title>
+  <BackstoryNecronChild00.titleShort>솔져</BackstoryNecronChild00.titleShort>
+  <BackstoryNecronChild00.baseDescription>그들의 생물학적 변화 이전에 [PAWN_nameDef](은)는 군인이었습니다. 그들은 변화가 그들의 영혼에 끼친 피해에도 불구하고 전투에서의 그들의 기술 중 일부를 계속 간직하고 있습니다.</BackstoryNecronChild00.baseDescription>
+  <BackstoryNecronChild01.title>네크론티르 리더</BackstoryNecronChild01.title>
+  <BackstoryNecronChild01.titleShort>리더</BackstoryNecronChild01.titleShort>
+  <BackstoryNecronChild01.baseDescription>그들의 생물학적 변화 이전에 [PAWN_nameDef](은)는 네크론티르의 리더였습니다. 그들은 변화가 그들의 영혼에 끼친 피해에도 불구하고 그들의 기술 중 일부를 계속 간직하고 있습니다.</BackstoryNecronChild01.baseDescription>
+  <BackstoryNecronWarrior00.title>네크론 전사</BackstoryNecronWarrior00.title>
+  <BackstoryNecronWarrior00.titleShort>전사</BackstoryNecronWarrior00.titleShort>
+  <BackstoryNecronWarrior00.baseDescription>그들의 생물학적 변화 이후에 [PAWN_nameDef](은)는 영혼이 없는 껍데기에 지나지 않게되어 전쟁 이상의 것을 할 수 없게 되었습니다.</BackstoryNecronWarrior00.baseDescription>
+  <BackstoryNecronDeathmark00.title>네크론 데스마크</BackstoryNecronDeathmark00.title>
+  <BackstoryNecronDeathmark00.titleShort>데스마크</BackstoryNecronDeathmark00.titleShort>
+  <BackstoryNecronDeathmark00.baseDescription>그들의 생물학적 변화 이후에 [PAWN_nameDef](은)는 영혼이 없는 껍데기에 지나지 않게되어 전쟁 이상의 것을 할 수 없게 되었습니다.</BackstoryNecronDeathmark00.baseDescription>
+  <BackstoryNecronLord00.title>네크론 로드</BackstoryNecronLord00.title>
+  <BackstoryNecronLord00.titleShort>로드</BackstoryNecronLord00.titleShort>
+  <BackstoryNecronLord00.baseDescription>그들의 생물학적 변화 이후에도 [PAWN_nameDef](은)는 그들의 개성을 간직하고 있습니다. 영혼이 사라졌지만 그들은 여전히 살아생전처럼 행동합니다.</BackstoryNecronLord00.baseDescription>
+  <BackstoryNecronOverlord00.title>네크론 오버로드</BackstoryNecronOverlord00.title>
+  <BackstoryNecronOverlord00.titleShort>오버로드</BackstoryNecronOverlord00.titleShort>
+  <BackstoryNecronOverlord00.baseDescription>그들의 생물학적 변화 이후에도 [PAWN_nameDef](은)는 그들의 개성을 간직하고 있습니다. 영혼이 사라졌지만 그들은 여전히 살아생전처럼 행동합니다. 오버로드는 왕조의 꼭대기에 있는 지휘권을 유지하는 경향이 있습니다.</BackstoryNecronOverlord00.baseDescription>
+  <BackstoryOrkChild00.title>오코이드</BackstoryOrkChild00.title>
+  <BackstoryOrkChild00.titleShort>오코이드</BackstoryOrkChild00.titleShort>
+  <BackstoryOrkChild00.baseDescription>이 뽀이는 좍은 스낱을 까지고 왇따!, 이제 먹꼬 떄려 뿌슈쫘!</BackstoryOrkChild00.baseDescription>
+  <BackstoryOrkAdult01.title>오크 보이</BackstoryOrkAdult01.title>
+  <BackstoryOrkAdult01.titleShort>오크 보이</BackstoryOrkAdult01.titleShort>
+  <BackstoryOrkAdult01.baseDescription>[PAWN_nameDef](은)는 스퀴그를 뭉깨버리고 때려 뿌쑤는 먿찐 쪼그만 남짜다.</BackstoryOrkAdult01.baseDescription>
+  <BackstoryOrkAdult02.title>오크 보이</BackstoryOrkAdult02.title>
+  <BackstoryOrkAdult02.titleShort>오크 보이</BackstoryOrkAdult02.titleShort>
+  <BackstoryOrkAdult02.baseDescription>[PAWN_nameDef](은)는 거시기가 녻아서 잃어뿌렸다......</BackstoryOrkAdult02.baseDescription>
+  <BackstoryOrkAdult03.title>코만도</BackstoryOrkAdult03.title>
+  <BackstoryOrkAdult03.titleShort>코만도</BackstoryOrkAdult03.titleShort>
+  <BackstoryOrkAdult03.baseDescription>[PAWN_nameDef](은)는 아쭈 교활하꼬 쭈금에 살인좌며, 어떤 보이즈는 심지어 이 녀썩이 모크의 괌동을 받은 놈이라고 말한따지.</BackstoryOrkAdult03.baseDescription>
+  <BackstoryOrkAdult04.title>스퀴그 쪼련사</BackstoryOrkAdult04.title>
+  <BackstoryOrkAdult04.titleShort>스퀴그 쪼련사</BackstoryOrkAdult04.titleShort>
+  <BackstoryOrkAdult04.baseDescription>[PAWN_nameDef](은)는 항상 스퀴그를 다루는 꺼슬 쪼아했다. 큰놈, 작은놈, 뚱뚱한놈, 심지어 대가리룰 잘 무눈 녀썩도 말이지. 스퀴그가 퓔요하다고? [PAWN_nameDef]에게 가면된따.</BackstoryOrkAdult04.baseDescription>
+  <BackstoryOrkAdult05.title>오크펀</BackstoryOrkAdult05.title>
+  <BackstoryOrkAdult05.titleShort>오크펀</BackstoryOrkAdult05.titleShort>
+  <BackstoryOrkAdult05.baseDescription>[pawn_namedef](은)는 매얘하면써 우눈 망아지 쫘식인데, 이 뽀이는 이 쉐상에 태어낟울 때, 찐한 악취와 뇌장얘 뚤려싸엳따. 끄래숸지, 존내 뽀기만 해도 픠가 얼어뿌툴 쩡도로 충격줙인 똘연변이 난쨍이다. 그 뉴구에께도 의미가 업는, 무깜각한, 빌어먹울 쏭아지다. 녀를 똘봐주어떤, 침울 뚝뚝 토햐면서 퀵퀵꺼리는 짐쑹둘에개 뻐륌받았고, 끄둘은 짜신둘이 환 일울 인쩡하여 스스로 몫쑴을 끊얻따.</BackstoryOrkAdult05.baseDescription>
+  <BackstoryOrkAdult06.title>하드 보이</BackstoryOrkAdult06.title>
+  <BackstoryOrkAdult06.titleShort>하드 보이</BackstoryOrkAdult06.titleShort>
+  <BackstoryOrkAdult06.baseDescription>[PAWN_nameDef] az gained a reputashun fer twuu stuff in 'is life. Clompting stuff rilly 'ard, an 'is vast fang collecshun from clompting evreefin' so 'ard.</BackstoryOrkAdult06.baseDescription>
+  <BackstorySororitasChild00.title>소로리타스 입대</BackstorySororitasChild00.title>
+  <BackstorySororitasChild00.titleShort>입대</BackstorySororitasChild00.titleShort>
+  <BackstorySororitasChild00.baseDescription>이 소녀는 어렸을 때 아뎁타 소로리타스의 수녀원으로 자랐습니다.</BackstorySororitasChild00.baseDescription>
+  <BackstorySororitas00.title>시스터 오브 배틀</BackstorySororitas00.title>
+  <BackstorySororitas00.titleShort>시스터</BackstorySororitas00.titleShort>
+  <BackstorySororitas00.baseDescription>잘 훈련받은 아뎁타 소로리타스입니다.</BackstorySororitas00.baseDescription>
+  <BackstorySororitas01.title>시스터 오브 배틀</BackstorySororitas01.title>
+  <BackstorySororitas01.titleShort>시스터</BackstorySororitas01.titleShort>
+  <BackstorySororitas01.baseDescription>아주 잘 훈련받은 아뎁타 소로리타스입니다.</BackstorySororitas01.baseDescription>
+  <BackstorySororitas02.title>시스터 오브 배틀</BackstorySororitas02.title>
+  <BackstorySororitas02.titleShort>시스터</BackstorySororitas02.titleShort>
+  <BackstorySororitas02.baseDescription>특출나게 잘 훈련받은 아뎁타 소로리타스입니다</BackstorySororitas02.baseDescription>
+  <BackstoryTauChild00.title>타우 제국의 아이</BackstoryTauChild00.title>
+  <BackstoryTauChild00.titleShort>타우'사알</BackstoryTauChild00.titleShort>
+  <BackstoryTauChild00.baseDescription>어렸을 때, 어쨌든 카스트에 배정되기 전 짧은 시간 동안 타우 제국에 속해 있었습니다.</BackstoryTauChild00.baseDescription>
+  <BackstoryTauFireCaste00.title>불 생도</BackstoryTauFireCaste00.title>
+  <BackstoryTauFireCaste00.titleShort>샤스`사알</BackstoryTauFireCaste00.titleShort>
+  <BackstoryTauFireCaste00.baseDescription>불 카스트의 생도입니다. 이 계급은 복무에 들어가자마자 주어집니다.</BackstoryTauFireCaste00.baseDescription>
+  <BackstoryTauFireCaste01.title>불 전사</BackstoryTauFireCaste01.title>
+  <BackstoryTauFireCaste01.titleShort>샤스`라</BackstoryTauFireCaste01.titleShort>
+  <BackstoryTauFireCaste01.baseDescription>타우 사회에서 가장 낮고 처음 받는 계급입니다. 샤스라는 평균적인 불 전사입니다.</BackstoryTauFireCaste01.baseDescription>
+  <BackstoryTauFireCaste02.title>불 베테랑</BackstoryTauFireCaste02.title>
+  <BackstoryTauFireCaste02.titleShort>샤스`위</BackstoryTauFireCaste02.titleShort>
+  <BackstoryTauFireCaste02.baseDescription>타우에서 두 번째 계급입니다. 샤스위는 보통 불 전사 부대의 리더 혹은 배틀슈트의 조종사입니다.</BackstoryTauFireCaste02.baseDescription>
+  <BackstoryTauFireCaste03.title>불 영웅</BackstoryTauFireCaste03.title>
+  <BackstoryTauFireCaste03.titleShort>샤스`브레</BackstoryTauFireCaste03.titleShort>
+  <BackstoryTauFireCaste03.baseDescription>타우에서 세번째 계급입니다. 샤스브레는 보통 배틀슈트 팀의 리더 혹은 보디가드입니다.</BackstoryTauFireCaste03.baseDescription>
+  <BackstoryTauFireCaste04.title>불 기사</BackstoryTauFireCaste04.title>
+  <BackstoryTauFireCaste04.titleShort>샤스`엘</BackstoryTauFireCaste04.titleShort>
+  <BackstoryTauFireCaste04.baseDescription>네 번째와 두 번째로 높은 타우 계급은 높은 존경의 하나로 인정됩니다. 샤스엘은 지휘관입니다.</BackstoryTauFireCaste04.baseDescription>
+  <BackstoryTauFireCaste05.title>불 사령관</BackstoryTauFireCaste05.title>
+  <BackstoryTauFireCaste05.titleShort>샤스`오</BackstoryTauFireCaste05.titleShort>
+  <BackstoryTauFireCaste05.baseDescription>가장 높은 타우 계급입니다. 샤스오는 가장 높은 수준의 지휘관이고 무시무시한 전사이며, 대개 한 명 이상의 간부를 지휘합니다.</BackstoryTauFireCaste05.baseDescription>
+  <BackstoryTauAirCaste00.title>공기 생도</BackstoryTauAirCaste00.title>
+  <BackstoryTauAirCaste00.titleShort>콜'사알</BackstoryTauAirCaste00.titleShort>
+  <BackstoryTauAirCaste00.baseDescription>공기 카스트의 생도입니다. 이 계급은 복무에 들어가자마자 주어집니다.</BackstoryTauAirCaste00.baseDescription>
+  <BackstoryTauAirCaste01.title>공기 전령</BackstoryTauAirCaste01.title>
+  <BackstoryTauAirCaste01.titleShort>콜`라</BackstoryTauAirCaste01.titleShort>
+  <BackstoryTauAirCaste01.baseDescription>타우 사회에서 가장 낮고 처음 받는 계급입니다. 코르라는 단순히 우주선 승무원입니다.</BackstoryTauAirCaste01.baseDescription>
+  <BackstoryTauAirCaste02.title>공기 수송자</BackstoryTauAirCaste02.title>
+  <BackstoryTauAirCaste02.titleShort>콜`위</BackstoryTauAirCaste02.titleShort>
+  <BackstoryTauAirCaste02.baseDescription>타우에서 두 번째 계급입니다. 코르위는 우주선에 탑승한 장교일 가능성이 높습니다.</BackstoryTauAirCaste02.baseDescription>
+  <BackstoryTauAirCaste03.title>공기 조종사</BackstoryTauAirCaste03.title>
+  <BackstoryTauAirCaste03.titleShort>콜`브레</BackstoryTauAirCaste03.titleShort>
+  <BackstoryTauAirCaste03.baseDescription>타우에서 세번째 계급입니다. 코르브레는 보통 전투기 조종사입니다.</BackstoryTauAirCaste03.baseDescription>
+  <BackstoryTauAirCaste04.title>공기 대위</BackstoryTauAirCaste04.title>
+  <BackstoryTauAirCaste04.titleShort>콜`엘</BackstoryTauAirCaste04.titleShort>
+  <BackstoryTauAirCaste04.baseDescription>네 번째와 두 번째로 높은 타우 계급은, 타우 우주선의 지휘관입니다.</BackstoryTauAirCaste04.baseDescription>
+  <BackstoryTauAirCaste05.title>공기 제독</BackstoryTauAirCaste05.title>
+  <BackstoryTauAirCaste05.titleShort>콜`오</BackstoryTauAirCaste05.titleShort>
+  <BackstoryTauAirCaste05.baseDescription>가장 높은 타우 계급입니다. 코르오는 가장 높은 수준의 지휘관이며, 함대의 제독입니다.</BackstoryTauAirCaste05.baseDescription>
+  <BackstoryTauEarthCaste00.title>흙 생도</BackstoryTauEarthCaste00.title>
+  <BackstoryTauEarthCaste00.titleShort>피오'사알</BackstoryTauEarthCaste00.titleShort>
+  <BackstoryTauEarthCaste00.baseDescription>흙 카스트의 생도입니다. 이 계급은 복무에 들어가자마자 주어집니다.</BackstoryTauEarthCaste00.baseDescription>
+  <BackstoryTauEarthCaste01.title>흙 노동자</BackstoryTauEarthCaste01.title>
+  <BackstoryTauEarthCaste01.titleShort>피오'라</BackstoryTauEarthCaste01.titleShort>
+  <BackstoryTauEarthCaste01.baseDescription>흙 카스트의 첫 계급으로, 이 타우는 농사와 목장 운영에 적합됩니다.</BackstoryTauEarthCaste01.baseDescription>
+  <BackstoryTauEarthCaste02.title>흙 수제자</BackstoryTauEarthCaste02.title>
+  <BackstoryTauEarthCaste02.titleShort>피오'위</BackstoryTauEarthCaste02.titleShort>
+  <BackstoryTauEarthCaste02.baseDescription>흙 카스트의 두 번째 계급으로, 이 타우는 보통 더 진보된 노동 직업에 들어갑니다.</BackstoryTauEarthCaste02.baseDescription>
+  <BackstoryTauEarthCaste03.title>흙 감독관</BackstoryTauEarthCaste03.title>
+  <BackstoryTauEarthCaste03.titleShort>피오'브레</BackstoryTauEarthCaste03.titleShort>
+  <BackstoryTauEarthCaste03.baseDescription>흙 카스트의 세 번째 계급으로, 낮은 계급의 업무를 위임하고, 진짜로 필요할때만 그들의 노동력이 사용됩니다.</BackstoryTauEarthCaste03.baseDescription>
+  <BackstoryTauEarthCaste04.title>흙 기술자</BackstoryTauEarthCaste04.title>
+  <BackstoryTauEarthCaste04.titleShort>피오'엘</BackstoryTauEarthCaste04.titleShort>
+  <BackstoryTauEarthCaste04.baseDescription>흙 카스트의 네 번째 계급으로, 고급 장비와 아주 복잡한 건설을 다루곤 합니다.</BackstoryTauEarthCaste04.baseDescription>
+  <BackstoryTauEarthCaste05.title>흙 설계자</BackstoryTauEarthCaste05.title>
+  <BackstoryTauEarthCaste05.titleShort>피오'오</BackstoryTauEarthCaste05.titleShort>
+  <BackstoryTauEarthCaste05.baseDescription>흙 카스트의 마지막 계급으로, 실용적인 사치에서 사는 것은 그들이 이전에 배웠던 기술들 대부분을 잃게 만들었으며, 그들은 상당히 총명하고 보상을 주는 것보다 누군가를 가르치기를 더 선호합니다.</BackstoryTauEarthCaste05.baseDescription>
+  <BackstoryTauWaterCaste00.title>물 생도</BackstoryTauWaterCaste00.title>
+  <BackstoryTauWaterCaste00.titleShort>폴'사알</BackstoryTauWaterCaste00.titleShort>
+  <BackstoryTauWaterCaste00.baseDescription>물 카사트의 생도입니다. 이 계급은 복무에 들어가자마자 주어집니다. 물 카스트는 타우 제국에 거래자, 상인, 공무원, 관료, 행정인, 외교관, 그리고 대사사로서 여겨집니다.</BackstoryTauWaterCaste00.baseDescription>
+  <BackstoryTauWaterCaste01.title>물 관료</BackstoryTauWaterCaste01.title>
+  <BackstoryTauWaterCaste01.titleShort>폴`라</BackstoryTauWaterCaste01.titleShort>
+  <BackstoryTauWaterCaste01.baseDescription>물 카스트의 첫 계급입니다. 물 카스트는 타우 제국에 거래자, 상인, 공무원, 관료, 행정인, 외교관, 그리고 대사사로서 여겨집니다.</BackstoryTauWaterCaste01.baseDescription>
+  <BackstoryTauWaterCaste02.title>물 특사</BackstoryTauWaterCaste02.title>
+  <BackstoryTauWaterCaste02.titleShort>폴`위</BackstoryTauWaterCaste02.titleShort>
+  <BackstoryTauWaterCaste02.baseDescription>물 카스트의 두 번째 계급입니다. 물 카스트는 타우 제국에 거래자, 상인, 공무원, 관료, 행정인, 외교관, 그리고 대사사로서 여겨집니다.</BackstoryTauWaterCaste02.baseDescription>
+  <BackstoryTauWaterCaste03.title>물 지도자</BackstoryTauWaterCaste03.title>
+  <BackstoryTauWaterCaste03.titleShort>폴`브레</BackstoryTauWaterCaste03.titleShort>
+  <BackstoryTauWaterCaste03.baseDescription>물 카스트의 세 번째 계급입니다. 물 카스트는 타우 제국에 거래자, 상인, 공무원, 관료, 행정인, 외교관, 그리고 대사사로서 여겨집니다.</BackstoryTauWaterCaste03.baseDescription>
+  <BackstoryTauWaterCaste04.title>물 외교관</BackstoryTauWaterCaste04.title>
+  <BackstoryTauWaterCaste04.titleShort>폴`엘</BackstoryTauWaterCaste04.titleShort>
+  <BackstoryTauWaterCaste04.baseDescription>물 카스트의 네 번째 계급입니다. 물 카스트는 타우 제국에 거래자, 상인, 공무원, 관료, 행정인, 외교관, 그리고 대사사로서 여겨집니다.</BackstoryTauWaterCaste04.baseDescription>
+  <BackstoryTauWaterCaste05.title>물 대사</BackstoryTauWaterCaste05.title>
+  <BackstoryTauWaterCaste05.titleShort>폴`오</BackstoryTauWaterCaste05.titleShort>
+  <BackstoryTauWaterCaste05.baseDescription>물 카스트의 리더이며, 다섯 번째로 마지막에 성취할 수 있는 계급입니다. 물 카스트는 타우 제국에 거래자, 상인, 공무원, 관료, 행정인, 외교관, 그리고 대사사로서 여겨집니다.</BackstoryTauWaterCaste05.baseDescription>
+  <BackstoryTauEtherealCaste00.title>에테리얼 생도</BackstoryTauEtherealCaste00.title>
+  <BackstoryTauEtherealCaste00.titleShort>아운'사알</BackstoryTauEtherealCaste00.titleShort>
+  <BackstoryTauEtherealCaste00.baseDescription>에테리얼 카사트의 생도입니다. 이 계급은 복무에 들어가자마자 주어집니다.</BackstoryTauEtherealCaste00.baseDescription>
+  <BackstoryTauEtherealCaste01.title>에테리얼 공작</BackstoryTauEtherealCaste01.title>
+  <BackstoryTauEtherealCaste01.titleShort>아운`라</BackstoryTauEtherealCaste01.titleShort>
+  <BackstoryTauEtherealCaste01.baseDescription>에테리얼 카스트의 첫 계급입니다. 그들은 반박의 여지가 없는 타우 제국의 지배자로 여겨집니다. 그들의 독특한 규칙은 종교 그리고 정치 직책의 조합이며, 선언문은 타우 제국의 모든 활동을 이끌고 형성했습니다.</BackstoryTauEtherealCaste01.baseDescription>
+  <BackstoryTauEtherealCaste02.title>에테리얼 성직자</BackstoryTauEtherealCaste02.title>
+  <BackstoryTauEtherealCaste02.titleShort>아운`위</BackstoryTauEtherealCaste02.titleShort>
+  <BackstoryTauEtherealCaste02.baseDescription>에테리얼 카스트의 두 번째 계급입니다. 그들은 반박의 여지가 없는 타우 제국의 지배자로 여겨집니다. 그들의 독특한 규칙은 종교 그리고 정치 직책의 조합이며, 선언문은 타우 제국의 모든 활동을 이끌고 형성했습니다.</BackstoryTauEtherealCaste02.baseDescription>
+  <BackstoryTauEtherealCaste03.title>에테리얼 통치자</BackstoryTauEtherealCaste03.title>
+  <BackstoryTauEtherealCaste03.titleShort>아운`브레</BackstoryTauEtherealCaste03.titleShort>
+  <BackstoryTauEtherealCaste03.baseDescription>에테리얼 카스트의 세 번째 계급입니다. 그들은 반박의 여지가 없는 타우 제국의 지배자로 여겨집니다. 그들의 독특한 규칙은 종교 그리고 정치 직책의 조합이며, 선언문은 타우 제국의 모든 활동을 이끌고 형성했습니다.</BackstoryTauEtherealCaste03.baseDescription>
+  <BackstoryTauEtherealCaste04.title>에테리얼 신성한 자</BackstoryTauEtherealCaste04.title>
+  <BackstoryTauEtherealCaste04.titleShort>아운`엘</BackstoryTauEtherealCaste04.titleShort>
+  <BackstoryTauEtherealCaste04.baseDescription>에테리얼 카스트의 네 번째 계급입니다. 그들은 반박의 여지가 없는 타우 제국의 지배자로 여겨집니다. 그들의 독특한 규칙은 종교 그리고 정치 직책의 조합이며, 선언문은 타우 제국의 모든 활동을 이끌고 형성했습니다.</BackstoryTauEtherealCaste04.baseDescription>
+  <BackstoryTauEtherealCaste05.title>에테리얼</BackstoryTauEtherealCaste05.title>
+  <BackstoryTauEtherealCaste05.titleShort>아운`오</BackstoryTauEtherealCaste05.titleShort>
+  <BackstoryTauEtherealCaste05.baseDescription>에테리얼 카스트 계급의 마지막이자 다섯 번째입니다. 그들은 반박의 여지가 없는 타우 제국의 지배자로 여겨집니다. 그들의 독특한 규칙은 종교 그리고 정치 직책의 조합이며, 선언문은 타우 제국의 모든 활동을 이끌고 형성했습니다.</BackstoryTauEtherealCaste05.baseDescription>
+  <BackstoryTerranChild00.title>제국의 아이</BackstoryTerranChild00.title>
+  <BackstoryTerranChild00.titleShort>제국의 아이</BackstoryTerranChild00.titleShort>
+  <BackstoryTerranChild00.baseDescription>이 테란은 비교적 안전한 많은 제국 영토 중 한곳에서 성장했습니다.</BackstoryTerranChild00.baseDescription>
+  <BackstoryTerranChild01.title>발할라의 아이</BackstoryTerranChild01.title>
+  <BackstoryTerranChild01.titleShort>발할라의 아이</BackstoryTerranChild01.titleShort>
+  <BackstoryTerranChild01.baseDescription>[PAWN_nameDef](은)는 발할라에서 자랐으며, 얼어붙은 세계의 가혹한 환경에서 살아남았습니다. 그들은 그들의 삶 대부분을 하이브 시티에서 지냈고 오랜 기간동안 지하에서 사는 것에 적응했습니다.</BackstoryTerranChild01.baseDescription>
+  <BackstoryTerranChild02.title>크리그의 아이</BackstoryTerranChild02.title>
+  <BackstoryTerranChild02.titleShort>크리그의 아이</BackstoryTerranChild02.titleShort>
+  <BackstoryTerranChild02.baseDescription>[PAWN_nameDef](은)는 크리그에서 자랐으며, 방사능 범벅이 되버린 세계인 죽음의 환경에서 어떻게든 살아났았습니다. 크리그 아이들에 대해 아는 것은 거의 없고 그들이 어떻게 그렇게 위험한 환경에서 자랄 수 있는지 모릅니다.</BackstoryTerranChild02.baseDescription>
+  <BackstoryTerranChild03.title>아마겟돈의 아이</BackstoryTerranChild03.title>
+  <BackstoryTerranChild03.titleShort>아마겟돈의 아이</BackstoryTerranChild03.titleShort>
+  <BackstoryTerranChild03.baseDescription>[PAWN_nameDef](은)는 아무겟돈 하이브 월드에서 자랐고, 어린 나이에 특수 기계화 보병에서 훈련받았습니다.</BackstoryTerranChild03.baseDescription>
+  <BackstoryTerran00.title>카디안 군인</BackstoryTerran00.title>
+  <BackstoryTerran00.titleShort>군인</BackstoryTerran00.titleShort>
+  <BackstoryTerran00.baseDescription>카디아가 파괴되기 전에 삶이 어땠는지 알고 있는, 이 용감한 제국의 군인은 카오스 싸우고 그리고 그들의 고향을 파괴한 것을 복수 하기 위해서 은하계 가장자리로 나갔습니다.</BackstoryTerran00.baseDescription>
+  <BackstoryTerran01.title>카디안 농부</BackstoryTerran01.title>
+  <BackstoryTerran01.titleShort>농부</BackstoryTerran01.titleShort>
+  <BackstoryTerran01.baseDescription>유일하게 유산만 가지고 있는 카티안인, 이 농부는 고향에 뿌리를 내리고 군대에 합류했습니다.</BackstoryTerran01.baseDescription>
+  <BackstoryTerran02.title>발할라 징집병</BackstoryTerran02.title>
+  <BackstoryTerran02.titleShort>발할라 징집병</BackstoryTerran02.titleShort>
+  <BackstoryTerran02.baseDescription>발할라의 얼어붙은 툰드라에서 자란 [PAWN_nameDef] (은)는 제국을 위해서 싸우고 지키기 위해서 발할라 임페리얼 가드에 모집됐습니다.</BackstoryTerran02.baseDescription>
+  <BackstoryTerran03.title>발할라 징집병</BackstoryTerran03.title>
+  <BackstoryTerran03.titleShort>발할라 징집병</BackstoryTerran03.titleShort>
+  <BackstoryTerran03.baseDescription>발할라의 얼어붙은 툰드라에서 자란 [PAWN_nameDef] (은)는 제국을 위해서 싸우고 지키기 위해서 발할라 임페리얼 가드에 모집됐습니다.</BackstoryTerran03.baseDescription>
+  <BackstoryTerran04.title>발할라 징집병</BackstoryTerran04.title>
+  <BackstoryTerran04.titleShort>발할라 징집병</BackstoryTerran04.titleShort>
+  <BackstoryTerran04.baseDescription>발할라의 얼어붙은 툰드라에서 자란 [PAWN_nameDef] (은)는 제국을 위해서 싸우고 지키기 위해서 발할라 임페리얼 가드에 모집됐습니다.</BackstoryTerran04.baseDescription>
+  <BackstoryTerran05.title>카디안 의무병</BackstoryTerran05.title>
+  <BackstoryTerran05.titleShort>의무병</BackstoryTerran05.titleShort>
+  <BackstoryTerran05.baseDescription>의사가 되길 원했던 [PAWN_nameDef](은)는, 다양한 질병을 치료하고 인간성을 향상시키는 데 도움이 됐습니다. 이것은 그들이 군대에서 전투 메딕으로써 설득되기 전의 일이었고, 채용 담당자는 확실히 끈질겼습니다....</BackstoryTerran05.baseDescription>
+  <BackstoryTerran06.title>카디안 건축가</BackstoryTerran06.title>
+  <BackstoryTerran06.titleShort>건축가</BackstoryTerran06.titleShort>
+  <BackstoryTerran06.baseDescription>[PAWN_nameDef](은)는 그들의 지역 건설 회사에 견습생으로서 시작했고, 스페이스 마린에 의해 오크들이 행성 밖으로 쫓겨난 후, 오크의 습격때문에 파괴된 그들의 고향 도시를 다시 재건했습니다. 오크는 다시 돌아았고 이제 [PAWN_nameDef](은)는 다시 맞서 싸울 것이고, 그들의 고향과 가족을 빼앗고 불태워버린 짐승같은 그린 스킨들에게 응당히 복수할 것입니다.</BackstoryTerran06.baseDescription>
+  <BackstoryTerran07.title>카디안 주민</BackstoryTerran07.title>
+  <BackstoryTerran07.titleShort>주민</BackstoryTerran07.titleShort>
+  <BackstoryTerran07.baseDescription>[PAWN_nameDef](은)는 다른 세계를 방문하기 위해서 입대했고, 열악한 배경에서 온 이들은 특별히 잘하는 것은 없지만 모든 것을 조금이나마 아는 것은 충분히 도움이 될 것 입니다.</BackstoryTerran07.baseDescription>
+  <BackstoryTerran08.title>카디안 주민</BackstoryTerran08.title>
+  <BackstoryTerran08.titleShort>주민</BackstoryTerran08.titleShort>
+  <BackstoryTerran08.baseDescription>[PAWN_nameDef](은)는 다른 세계를 방문하기 위해서 입대했고, 열악한 배경에서 온 이들은 특별히 잘하는 것은 없지만 모든 것을 조금이나마 아는 것은 충분히 도움이 될 것 입니다.</BackstoryTerran08.baseDescription>
+  <BackstoryTerran09.title>카디안 주민</BackstoryTerran09.title>
+  <BackstoryTerran09.titleShort>주민</BackstoryTerran09.titleShort>
+  <BackstoryTerran09.baseDescription>[PAWN_nameDef](은)는 다른 세계를 방문하기 위해서 입대했고, 열악한 배경에서 온 이들은 특별히 잘하는 것은 없지만 모든 것을 조금이나마 아는 것은 충분히 도움이 될 것 입니다.</BackstoryTerran09.baseDescription>
+  <BackstoryTerran10.title>카디안 사회복지사</BackstoryTerran10.title>
+  <BackstoryTerran10.titleShort>사회복지사</BackstoryTerran10.titleShort>
+  <BackstoryTerran10.baseDescription>[PAWN_nameDef](은)는 모집되기 전에 고아 아동을 위해 일했으며, 분쟁 해결과 협상에 대해 매우 능숙합니다.</BackstoryTerran10.baseDescription>
+  <BackstoryTerran11.title>카디안 광부</BackstoryTerran11.title>
+  <BackstoryTerran11.titleShort>광부</BackstoryTerran11.titleShort>
+  <BackstoryTerran11.baseDescription>[PAWN_nameDef](은)는 징집되기 전에 광산에서 일했으며, 그들은 모든 날을 곡괭이질을 했기 때문에 꽤 괜찮은 라이트 훅을 가지고 있습니다.</BackstoryTerran11.baseDescription>
+  <BackstoryTerran12.title>카디안 예술가</BackstoryTerran12.title>
+  <BackstoryTerran12.titleShort>예술가</BackstoryTerran12.titleShort>
+  <BackstoryTerran12.baseDescription>[PAWN_nameDef](은)는 예술가였습니다. 그들은 장식용 가구와 그림뿐만 아니라 나무 조각품도 만들었습니다.</BackstoryTerran12.baseDescription>
+  <BackstoryTerran13.title>카디안 목수</BackstoryTerran13.title>
+  <BackstoryTerran13.titleShort>목수</BackstoryTerran13.titleShort>
+  <BackstoryTerran13.baseDescription>[PAWN_nameDef](은)는 가드맨이 되기전에 목공업을 연습했고, 비목재 재료도 상당히 잘 다루었습니다.</BackstoryTerran13.baseDescription>
+  <BackstoryTerran14.title>크리드 가드맨</BackstoryTerran14.title>
+  <BackstoryTerran14.titleShort>크리드 가드맨</BackstoryTerran14.titleShort>
+  <BackstoryTerran14.baseDescription>크리그에 대해 아는 것은 매우 적고 어떻게 그들이 많은 가드맨을 배출하는지는 알지 못합니다. 그리고 그들은 수다를 좋아하는 집단이 아니기 때문에 아무도 그들에게서 많은 것들을 알지 못합니다.</BackstoryTerran14.baseDescription>
+  <BackstoryTerran15.title>크리드 가드맨</BackstoryTerran15.title>
+  <BackstoryTerran15.titleShort>크리드 가드맨</BackstoryTerran15.titleShort>
+  <BackstoryTerran15.baseDescription>크리그에 대해 아는 것은 매우 적고 어떻게 그들이 많은 가드맨을 배출하는지는 알지 못합니다. 그리고 그들은 수다를 좋아하는 집단이 아니기 때문에 아무도 그들에게서 많은 것들을 알지 못합니다.</BackstoryTerran15.baseDescription>
+  <BackstoryTerran16.title>크리드 가드맨</BackstoryTerran16.title>
+  <BackstoryTerran16.titleShort>크리드 가드맨</BackstoryTerran16.titleShort>
+  <BackstoryTerran16.baseDescription>크리그에 대해 아는 것은 매우 적고 어떻게 그들이 많은 가드맨을 배출하는지는 알지 못합니다. 그리고 그들은 수다를 좋아하는 집단이 아니기 때문에 아무도 그들에게서 많은 것들을 알지 못합니다.</BackstoryTerran16.baseDescription>
+  <BackstoryTerran17.title>스틸리전 가드맨</BackstoryTerran17.title>
+  <BackstoryTerran17.titleShort>스틸리전 가드맨</BackstoryTerran17.titleShort>
+  <BackstoryTerran17.baseDescription>하이브 월드 아마겟돈에서 온, 이 가드맨은 아스트라 밀리타룸의 모든 차량을 잘 사용할 수 있도록 훈련받았습니다.</BackstoryTerran17.baseDescription>
+  <BackstoryTerran18.title>스틸리전 가드맨</BackstoryTerran18.title>
+  <BackstoryTerran18.titleShort>스틸리전 가드맨</BackstoryTerran18.titleShort>
+  <BackstoryTerran18.baseDescription>하이브 월드 아마겟돈에서 온, 이 가드맨은 아스트라 밀리타룸의 모든 차량을 잘 사용할 수 있도록 훈련받았습니다.</BackstoryTerran18.baseDescription>
+  <BackstoryTerran19.title>스틸리전 가드맨</BackstoryTerran19.title>
+  <BackstoryTerran19.titleShort>스틸리전 가드맨</BackstoryTerran19.titleShort>
+  <BackstoryTerran19.baseDescription>하이브 월드 아마겟돈에서 온, 이 가드맨은 아스트라 밀리타룸의 모든 차량을 잘 사용할 수 있도록 훈련받았습니다.</BackstoryTerran19.baseDescription>
+  <BackstoryVespidChild00.title>가스 그레이저</BackstoryVespidChild00.title>
+  <BackstoryVespidChild00.titleShort>가스 그레이저</BackstoryVespidChild00.titleShort>
+  <BackstoryVespidChild00.baseDescription>이 베스피드는 그들의 종족의 고향에서 자랐고, 거대 가스 행성의 밀질된 대기를 날아오르는, 베스피드입니다.</BackstoryVespidChild00.baseDescription>
+  <BackstoryStingwing.title>스팅윙</BackstoryStingwing.title>
+  <BackstoryStingwing.titleShort>스팅윙</BackstoryStingwing.titleShort>
+  <BackstoryStingwing.baseDescription>베스피드를 떠난 후, 이 스팅윙은 자기 종족의 적들을 사냥하고, 그들을 뜯어먹어 더 강해지기로 결심했습니다.</BackstoryStingwing.baseDescription>
+
+</LanguageData>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <UpdateFeature.modNameReadable>A RimWorld Of Magic</UpdateFeature.modNameReadable>
+  <ARimWorldOfMagic_2_3_8.content>
+2.3.8 업데이트 알림
+
+Trisscar님 덕분에 거대해골의 텍스처가 향상되었습니다!
+
+새로운 욕구: 여행 - 이 욕구가 있는 정착민들은 상단에 속해 있는 것을 즐기고 자주 여행하는 것을 좋아하지만, 오랜 시간 정착지에 머물러 있으면 기분이 나빠집니다.
+
+새로운 독립형 전사 능력 - 군단: this ability allows any fighter to learn a single fighter ability from any other fighter class (얼굴없는 자 제외)
+새로운 독립형 전사 능력 - 폭풍우의 일격: 스태미나를 소모하여, 장착된 무기를 사용해 맹렬한 일격을 가합니다. 원거리와 근접무기 사용가능합니다.
+
+Two new minor classes have been added; these classes do not have class abilities but can improve generic abilities learned via scrolls
+    * Pawns with the Gifted or Physically Adept traits can immediately promote to their respective minor classes
+    * Minor classes cannot be promoted to a full class at a later time
+
+Class - Wanderer (mage): excels at general abilities but has no class abilities
+    * can teach themselves to use basic fighter abilities
+    * their caravan ignores tile movement penalties
+    * enjoys traveling and has the need to travel
+    
+Class - Wayfarer (fighter): excels at general abilities but has no class abilities 
+    * can teach themselves to use basic mage abilities
+    * increases the speed of their caravan by 25%
+    * enjoys traveling and has the need to travel
+    
+Class - Chaos Mage (mage): a unique class that possesses only one class skill: Chaos Tradition. Using this skill, the chaos mage can acquire the skills of any other class    
+    * Chaos Tradition: reveling in their freedom from class restrictions, the chaos mage cycles the abilities they have available to use
+    * Blood magic, necromancy, and master spells are unobtainable
+    * Chaos mages are subject to a unique phenomenon (wild surge) that can randomly create chaotic effects whenever a chaos mage uses magic
+
+--See mod discord announcements for all the details on tweaks and bug fixes! - https://discord.gg/ksksHj --
+  </ARimWorldOfMagic_2_3_8.content>
+
+
+</LanguageData>

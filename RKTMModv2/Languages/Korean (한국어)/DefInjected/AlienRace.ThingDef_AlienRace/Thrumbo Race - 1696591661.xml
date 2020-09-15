@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Thrumbo_Race.label>트럼보니안</Thrumbo_Race.label>
+  <Thrumbo_Race.description>반 인간 반 트럼보의 신비한 종족. 트럼보니안들이 지금까지 숨어있던 원주민인지, 유전적 실험의 결과물인지, 아니면 어떤 무언가인지 아무도 알지 못합니다. 하지만 그들의 자연적이 능력이 평균 이상인 것은 부정할 수 없습니다.</Thrumbo_Race.description>
+  <Thrumbo_Race.tools.0.label>왼쪽 주먹</Thrumbo_Race.tools.0.label>
+  <Thrumbo_Race.tools.1.label>오른쪽 주먹</Thrumbo_Race.tools.1.label>
+  <Thrumbo_Race.tools.2.label>머리</Thrumbo_Race.tools.2.label>
+  <Thrumbo_Race.tools.4.label>뿔</Thrumbo_Race.tools.4.label>
+
+</LanguageData>

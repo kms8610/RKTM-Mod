@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_Melee.label>난투</VFEM_Melee.label>
+  <VFEM_Melee.description>이번 대회는 난투전입니다. 근접 기술이 높은 정착민이 유리합니다.</VFEM_Melee.description>
+  <VFEM_Jousting.label>마상 시합</VFEM_Jousting.label>
+  <VFEM_Jousting.description>이번 대회는 마상 시합입니다. 근접 기술과 조련 기술이 높은 정착민이 유리합니다.</VFEM_Jousting.description>
+  <VFEM_Archery.label>양궁 시합</VFEM_Archery.label>
+  <VFEM_Archery.description>이번 대회는 양궁 시합입니다. 높은 사격 기술과 정신력이 강한 정착민이 유리합니다.</VFEM_Archery.description>
+</LanguageData>

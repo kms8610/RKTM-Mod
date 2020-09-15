@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TM_ArcaneConstruction.label>비전 시설</TM_ArcaneConstruction.label>
+  <TM_ArcaneConstruction.description>특별한 마법 아이템과 효과를 만들어 낼 수 있는 작업대와 다양한 시설에 대한 연구를 합니다.</TM_ArcaneConstruction.description>
+  <TM_ArcaneFundamentals.label>아케인 기초</TM_ArcaneFundamentals.label>
+  <TM_ArcaneFundamentals.description>아케인 힘이 물리적 영역과 다른 마법사와 어떻게 연결되는지에 대한 기본적인 연구입니다.</TM_ArcaneFundamentals.description>
+  <TM_MagicCircle.label>마법진</TM_MagicCircle.label>
+  <TM_MagicCircle.description>마법 사용자들이 에너지를 결합하여 놀라운 효과를 만들어내는 레이선의 형상과 대칭에 대한 고급 연구 입니다.</TM_MagicCircle.description>
+  <TM_Portals.label>포탈</TM_Portals.label>
+  <TM_Portals.description>정착지간에 즉각적인 이동을 가능하게 하는 강력한 인공물인 포탈을 건설할 수 있습니다.\n \n 차원관문 훈련이 완료된 아케인 마법사가 있어야만 활성화할 수 있습니다.</TM_Portals.description>
+  <TM_ManaStorage.label>마나 저장소</TM_ManaStorage.label>
+  <TM_ManaStorage.description>마력을 저장하는 방법을 개발합니다.</TM_ManaStorage.description>
+  <TM_PlantCultivation.label>마력 재배</TM_PlantCultivation.label>
+  <TM_PlantCultivation.description>마법과 관련된 특성을 가진 식물을 재배하는 방법에 대한 이해를 얻고, 아케인 예술을 보완하거나 활성화 하기 위해 사용하기 위한 식물 연구입니다.</TM_PlantCultivation.description>
+  <TM_ArcaneForging.label>아케인 제작</TM_ArcaneForging.label>
+  <TM_ArcaneForging.description>신비로운 힘을 이용하여 다양한 물품과 장비를 제작하는 것을 가능하게 합니다. 이 연구를 완료하면 신비로운 힘을 강화시킬 수 있는 희귀한 재료인 마나 옷감를 만드는 법도 개발할 수 있습니다.</TM_ArcaneForging.description>
+  <TM_ForgeReplication.label>복제품 제작</TM_ForgeReplication.label>
+  <TM_ForgeReplication.description>아케인 제작소에서 제작 가능한 모든 아이템의 외형을 추출하여 복제품을 생성할 수 있는 기술을 획득합니다.</TM_ForgeReplication.description>
+  <TM_Enchanting.label>인챈팅</TM_Enchanting.label>
+  <TM_Enchanting.description>보석 세공 작업대와 1티어 마법의 보석 제작을 가능하게 합니다.</TM_Enchanting.description>
+  <TM_AdvancedEnchanting.label>향상된 인챈팅</TM_AdvancedEnchanting.label>
+  <TM_AdvancedEnchanting.description>2티어 마법의 보석 제작을 가능하게 합니다.</TM_AdvancedEnchanting.description>
+  <TM_ExpertEnchanting.label>전문적인 인챈팅</TM_ExpertEnchanting.label>
+  <TM_ExpertEnchanting.description>3티어 마법의 보석 제작을 가능하게 합니다.</TM_ExpertEnchanting.description>
+  <TM_MagicyteRefining.label>마법석 정제</TM_MagicyteRefining.label>
+  <TM_MagicyteRefining.description>보석 세공 작업대에서 마법석을 물체에 흡수시킬 수 있도록 가루형태로 분쇄할 수 있게 합니다.</TM_MagicyteRefining.description>
+  <TM_MagicScribing.label>필경사</TM_MagicScribing.label>
+  <TM_MagicScribing.description>마법석 가루에 잉크를 섞어 마법의 힘을 담을 수 있는 두루마리나 책을 재현할 수 있는 특수 인쇄기를 만들 수 있는 지식을 개발합니다.</TM_MagicScribing.description>
+  <TM_AdvancedScribing.label>향상된 필경사</TM_AdvancedScribing.label>
+  <TM_AdvancedScribing.description>고품질의 원료들을 사용하여 보다 강력한 책이나 두루마리를 개발할 수 있습니다.</TM_AdvancedScribing.description>
+  <TM_MasterScribing.label>숙련된 필경사</TM_MasterScribing.label>
+  <TM_MasterScribing.description>최고급 주문들을 필경할 수 있게 됩니다.</TM_MasterScribing.description>
+  <TM_ArcaneCrafting.label>아케인 제작술</TM_ArcaneCrafting.label>
+  <TM_ArcaneCrafting.description>아케인과 신체의 연결을 이해하는 첫단계입니다. 강력한 통찰의 보석들을 만들 수 있게 됩니다.</TM_ArcaneCrafting.description>
+  <TM_ArcaneApparel.label>마법 장비</TM_ArcaneApparel.label>
+  <TM_ArcaneApparel.description>마법 속성을 가진 장비를 제작하는 법을 배우기 위해서 불가사의한 스킬과 마법에 대한 지식을 접목합니다.</TM_ArcaneApparel.description>
+  <TM_ArcaneArtifacts.label>아케인 유물</TM_ArcaneArtifacts.label>
+  <TM_ArcaneArtifacts.description>마법, 고대 디자인, 룬, 여러 이야기에 대한 지식을 결합한 광범위한 연구를 통해서 불가사의한 고대 유물들을 재현할 수 있게 합니다.</TM_ArcaneArtifacts.description>
+</LanguageData>

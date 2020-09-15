@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_BlackKnight.label>지나갈 수 없음</VFEM_BlackKnight.label>
+  <VFEM_BlackKnight.letterText>{0}(이)가 다리를 지키고 있는 것으로 보이는 검은 옷을 입은 수수께끼의 기사와 마주쳤습니다!</VFEM_BlackKnight.letterText>
+  <VFEM_BlackKnight.letterLabel>지나갈 수 없다!</VFEM_BlackKnight.letterLabel>
+  <VFEM_PursuitParty.label>습격</VFEM_PursuitParty.label>
+  <VFEM_Quest_MedievalTournament.label>중세 토너먼트</VFEM_Quest_MedievalTournament.label>
+  <VFEM_Quest_MedievalTournament.letterLabel>중세 토너먼트</VFEM_Quest_MedievalTournament.letterLabel>
+  <VFEM_Quest_MedievalTournament.letterText>{1}의 {0}, {PAWN_nameDef}(이)가 {2} 근처에서 토너먼트를 개최할 것이라는 소식이 전해졌습니다. 어쩌면 다음과 같은 상품뿐만 아니라 호의적인 관계를 얻을 좋은 기회가 될 수 있습니다.\n\n{3}</VFEM_Quest_MedievalTournament.letterText>
+</LanguageData>

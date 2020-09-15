@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Kurin_RaceRatio.stages.0.label>매우 적은 쿠린</Kurin_RaceRatio.stages.0.label>
+  <Kurin_RaceRatio.stages.0.description>동료가 많지 않아서 무서워.</Kurin_RaceRatio.stages.0.description>
+  <Kurin_RaceRatio.stages.1.label>적은 쿠린</Kurin_RaceRatio.stages.1.label>
+  <Kurin_RaceRatio.stages.1.description>의지할 동료들이 있지만 우린 너무 적어.</Kurin_RaceRatio.stages.1.description>
+  <Kurin_RaceRatio.stages.2.label>적당한 쿠린</Kurin_RaceRatio.stages.2.label>
+  <Kurin_RaceRatio.stages.2.description>의지할 동료들이 많아. 우린 더 이상 소수가 아니야.</Kurin_RaceRatio.stages.2.description>
+  <Kurin_RaceRatio.stages.3.label>많은 쿠린</Kurin_RaceRatio.stages.3.label>
+  <Kurin_RaceRatio.stages.3.description>동료가 많아서 두렵지 않아.</Kurin_RaceRatio.stages.3.description>
+  <Kurin_RaceRatio.stages.4.label>매우 많은 쿠린</Kurin_RaceRatio.stages.4.label>
+  <Kurin_RaceRatio.stages.4.description>함께라면 무엇도 두렵지 않아.</Kurin_RaceRatio.stages.4.description>
+  <Kurin_Treason.stages.0.label>쿠린과 적대함</Kurin_Treason.stages.0.label>
+  <Kurin_Treason.stages.0.description>나는 배신자야..</Kurin_Treason.stages.0.description>
+  <Kurin_DuringTheNight.stages.0.label>쿠린, 밤</Kurin_DuringTheNight.stages.0.label>
+  <Kurin_DuringTheNight.stages.0.description>흠. 밤이군...</Kurin_DuringTheNight.stages.0.description>
+  <Kimiri_DuringTheNight.stages.0.label>키미리, 밤</Kimiri_DuringTheNight.stages.0.label>
+  <Kimiri_DuringTheNight.stages.0.description>흠. 밤이군...</Kimiri_DuringTheNight.stages.0.description>
+</LanguageData>

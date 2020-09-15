@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1240656304_190617_Lighter Than Fast-->
+  <Alien_Engie.label>엔지</Alien_Engie.label>
+  <Alien_Engie.description>이들의 고향 행성에는 문서화 시스템이 잘 이루어져있는 편이지만, 감정이 없는 엔지의 기원은 진정한 수수께끼입니다. 이들의 몸은 수십억개의 나노기계로 이루어져있어 금속 광택으로 은빛의 '피부'를 연출하며, 이들의 환경에 더 잘 대처하기 위해 다른 모양을 만들 수도 있다고 알려져있습니다. 비록 이들은 일반적으로는 인간 형태를 유지하고있으며, 다른 종족들 또한 그 모습을 선호합니다. 엔지는 또한 기계에 있어서는 강력한 지식을 가지고 있으며, 태생적인 엔지니어들입니다. 특히나 원시적인 기술을 비교적 쉽게 수리하며, 연구할 수 있습니다. 엔지의 지능은 매우 뛰어나지만, 나노로봇으로 이루어진 몸체의 내구성은 매우 약합니다. 엔지의 섬세하고 기술적인 내부 구성물은 인간과 같은 유기물체의 그것만큼 견고하지 못합니다. 결과적으로 엔지는 허약한 싸움꾼입니다. 그러나 이들의 진화된 인공지능의 결과로, 대부분의 질병에 면역인 동시에 그들의 기계학에 더해진 지식은 이들을 좋은 동맹으로 만들어줍니다. 하지만 엔지는 나노로봇으로 구성되어있지만 산소를 필요로 합니다. 엔지의 구성요소들은 수 년간 인간 과학자들 사이에서 논쟁거리가 되어왔습니다. 그들은 엔지를 유기적 생명체, 혹은 감정을 가진 기계인지에 대해서 끊임없이 논쟁하고있습니다. 대부분의 사람들은 엔지를 이 두 가지의 중간정도로 단순하게 받아들이는 편입니다. - 125% 건설 - 90% 사회영향 - 75% 근접공격 확률 / 80% 사격 정확도 - 130% 면역력 - 4x 소캣(1x cpu 1x 롬)</Alien_Engie.description>
+  <Alien_Engie.tools.0.label>왼 손</Alien_Engie.tools.0.label>
+  <Alien_Engie.tools.1.label>오른 손</Alien_Engie.tools.1.label>
+  <Alien_Engie.tools.2.label>이빨</Alien_Engie.tools.2.label>
+  <Alien_Engie.tools.3.label>머리</Alien_Engie.tools.3.label>
+  <Alien_Engie.alienRace.relationSettings.renamer.0.label>접속 토큰 확인</Alien_Engie.alienRace.relationSettings.renamer.0.label>
+  <Alien_Engie.alienRace.relationSettings.renamer.1.label>접속 토큰 확인</Alien_Engie.alienRace.relationSettings.renamer.1.label>
+  <Alien_Engie.alienRace.relationSettings.renamer.2.label>권한부여 -- 요청</Alien_Engie.alienRace.relationSettings.renamer.2.label>
+  <Alien_Engie.alienRace.relationSettings.renamer.3.label>Rsrc 서버</Alien_Engie.alienRace.relationSettings.renamer.3.label>
+  <Alien_Engie.alienRace.relationSettings.renamer.4.label>Api 키 확인</Alien_Engie.alienRace.relationSettings.renamer.4.label>
+  <Alien_Engie.alienRace.relationSettings.renamer.5.label>부모 프로세스</Alien_Engie.alienRace.relationSettings.renamer.5.label>
+  <Alien_Engie.alienRace.relationSettings.renamer.6.label>분기점</Alien_Engie.alienRace.relationSettings.renamer.6.label>
+  <Alien_Engie.alienRace.relationSettings.renamer.7.label>줄기</Alien_Engie.alienRace.relationSettings.renamer.7.label>
+  <Alien_Mantis.label>맨티스</Alien_Mantis.label>
+  <Alien_Mantis.description>폭력적이고, 적대적인 맨티스는 이름보다도 훨씬 공격적인 듯 하지만 어쨌든 인간 크기의 사마귀와 비슷하게 생겼습니다. 사마귀는 단지 살아남기 위해 먹이를 잡는 반면, 맨티스 종족은 훨씬 더 크고 지능적이며, 개인적인 만족감을 위해 대상을 무자비하게 죽입니다. 이는 생존은 별로 염두하지 않는 무자비하고 잔인한 곤충 전사종족을 만들었습니다. 인간과 대부분의 다른 종족들은 전투를 위해 휴대용 무기를 만들었지만, 맨티스는 그들의 민첩성과 날카로운 외골격 부속지들을 활용해 적들을 찢어버리며, 전사로서의 기술은 대인 전투에서 문제없이 활용 가능합니다. 맨티스는 또한 육체를 태우고 대부분의 금속 합금을 녹일 수 있는 산성 타액을 가지고 있습니다. 전투, 특히나 전투 기술은 뛰어나지만, 기술적으로는 모든 종족들 중에서 기계를 가장 못다룹니다. 대신에 이들은 종종 엔지 노예들을 데려와 이 문제를 극복했습니다. 때문에 이들의 기지와 함선에서는 대부분 엔지 노예들을 다수 발견할 수 있습니다. 몇몇 맨티스들이 개인적으로 연방을 위해 일하고있는 것으로 알려져있지만, 이 종족은 전체적으로 기만적이고, 기회주의적이며, 신뢰할 수 없는 경향이 있고, 일반적으로 자기 몫을 얻기 위해 약한 상대를 사냥하기 위해 잘 무장된 함선을 몰면서 나타나고는 합니다. 인간종족의 아이들은 맨티스의 붉은 함선과, 지구를 침공하는 맨티스의 이야기를 들으면서 자라납니다. - 115% 속도 - 130% 근접 적중률 / 125% 사격 적중률 - 120% 날카로움 피해 / 105% 근접 회피 - 75% 건설 / 75% 약물 생산 - 85% 채광 / 90% 제작 - 발톱형태의 손으로 인해</Alien_Mantis.description>
+  <Alien_Mantis.tools.0.label>왼 손</Alien_Mantis.tools.0.label>
+  <Alien_Mantis.tools.1.label>오른 손</Alien_Mantis.tools.1.label>
+  <Alien_Mantis.tools.2.label>왼 발톱</Alien_Mantis.tools.2.label>
+  <Alien_Mantis.tools.3.label>오른 손톱</Alien_Mantis.tools.3.label>
+  <Alien_Mantis.tools.4.label>이빨</Alien_Mantis.tools.4.label>
+  <Alien_Mantis.tools.5.label>머리</Alien_Mantis.tools.5.label>
+  <Alien_Rockman.label>락맨</Alien_Rockman.label>
+  <Alien_Rockman.description>단단한 바위만큼 질기고 독특한 피부 때문에 인간들에게는 '락맨'이라고 불리우는 종족입니다. 또한 이들은 두껍고 바위같은 피부를 지탱하기 위해 매우 잘 조절되고 강력한 신체와 놀라울 정도의 회복혁을 지니고 있습니다. 이드의 신체적 속성 때문에, 락맨들은 그들의 종족 전반에 걸쳐 거의 모든 것들보다 개개인의 힘과 무술을 중시하는 전사적 문화를 가진 종족으로 발전해왔습니다. 락맨은 일반적으로 모험을 좋아하는 종족이 아니며, 그들 자신의 영토 내에서만 자리를 지키고, 적대적인 함선에는 불을 지릅니다. 하지만 수동적인 그 규칙에도 언제나 예외가 있을 수 있으며, 그러한 락맨 정착민은 매우 유용할 것입니다,. 또한, 특정 상황에서는 몇몇 락맨들이 꽤나 종교적으로 반응합니다. + 150% 체력 + 110% 채굴 + 불에 피해를 입지 않음. (동상에는 걸릴 수 있음) + 자연적인 갑옷 - 85% 속도 - 150% 배고픔 - 105% 종교적인 인카운터에 대해 정신감응</Alien_Rockman.description>
+  <Alien_Rockman.tools.0.label>왼 손</Alien_Rockman.tools.0.label>
+  <Alien_Rockman.tools.1.label>오른 손</Alien_Rockman.tools.1.label>
+  <Alien_Rockman.tools.2.label>이빨</Alien_Rockman.tools.2.label>
+  <Alien_Rockman.tools.3.label>머리</Alien_Rockman.tools.3.label>
+  <Alien_Slug.label>슬러그</Alien_Slug.label>
+  <Alien_Slug.description>외계인 혐오증에, 게으른 슬러그들은 신비로운 크리스탈 종족과 라니우스들 다음으로 은하계에서 세 번째로 희귀한 종족입니다. 이들의 행성들은 모두 거대한 성운지대에 둘러싸여있는데, 이로인해 그들은 제한적인 시력의 문제를 극복하기 위해 독특한 사이오닉 능력을 가지게 되었습니다. 결과적으로, 슬러그의 함선들은 센서가 달려있지 않습니다. 슬러그 승무원의 감지능력이 전자 시스템보다 훨씬 효율적이기 때문입니다. 그러나 이는 성운 바깥에서는 그들에게 별로 득이되지 않습니다. 때문에 이들은 그들의 영역 내에서도 성운지대 확인에만 종종 쓰이는 편입니다. 슬러그들은 락맨이나 맨티스들처럼 공격적이지는 않지만, 그들보다도 훨씬 더 탐욕스럽고 기회주의적입니다. 이들은 다른 성계에서 해적질을 하면서 살 뿐만 아니라, 종종 이들을 겇으로 끌어들이고, 자신들의 성운지대를 떠다니는 함선들을 털어먹고 다닙니다. - 10% 정신감응 / 110% 독성 민감도 - 110% 사회적 영향력 - 분비물 : 정착민은 때때로 특정한 원재료를 생성합니다. - 외계종 혐오 특성 : 슬러가그 아닌 존재와 함께있을 때 사회활동에 디버프 - 외계종 혐오 외교 : 같은 종족들과 함께하려함</Alien_Slug.description>
+  <Alien_Slug.tools.0.label>왼 손</Alien_Slug.tools.0.label>
+  <Alien_Slug.tools.1.label>오른 손</Alien_Slug.tools.1.label>
+  <Alien_Slug.tools.2.label>이빨</Alien_Slug.tools.2.label>
+  <Alien_Slug.tools.3.label>머리</Alien_Slug.tools.3.label>
+  <Alien_Zoltan.label>졸탄</Alien_Zoltan.label>
+  <Alien_Zoltan.description>이들의 몸은 대부분 순수하고, 활용 가능한 에너지로 구성되어있기 때문에, 졸탄인은 연방에 대해서는 꽤나 양면적입니다. 이들은 매우 주관적이고, 무뚝뚝한 종족이지만, 일반적으로 침략 행위보다는 외교를 선호하며, 공정하게 타인을 대하는 것으로 알려져있습니다. 졸탄인은 엔지와의 동맹으로 인해 엔지 고향성계 또는 엔지 통제 섹터에서 주로 볼 수 있습니다. 독창적인 기술을 가진 졸탄인들은 거의 모든 졸탄인 함선에서 발견할 수 있는 독특한 차폐보호막 기술을 개발했습니다. 이 보호막은 파괴하기가 매우 어렵지만, 보호막 충전 드론을 배치하지 않는 이상 전투중에는 회복되지 않습니다. 따라서 일단 그 차폐기술을 무력화할 수 있을만큼 충분한 화력을 퍼붓고 나면, 졸탄 함선은 재래적인 보호막 시스템에 의존해야만 합니다. 이들과 엔지들은 많은 분야에서 활동하지만, 졸탄인들은 거의 그들만 돌아다니는 경우가 많습니다. - 105% 연구 - 115% 죄수 설득 확률 - 85% 체력 - 사망시 폭발 - 어둠 속에서 빛이남 - 파워 포드를 생성</Alien_Zoltan.description>
+  <Alien_Zoltan.tools.0.label>왼 손</Alien_Zoltan.tools.0.label>
+  <Alien_Zoltan.tools.1.label>오른 손</Alien_Zoltan.tools.1.label>
+  <Alien_Zoltan.tools.2.label>이빨</Alien_Zoltan.tools.2.label>
+  <Alien_Zoltan.tools.3.label>머리</Alien_Zoltan.tools.3.label>
+
+  <!--1267084448_190816_Filthy Orc Invasion-->
+  <Alien_Orc.label>오크</Alien_Orc.label>
+  <Alien_Orc.description>끔찍하고, 야만스럽고, 한결같은 종족입니다.</Alien_Orc.description>
+  <Alien_Orc.tools.0.label>왼쪽 주먹</Alien_Orc.tools.0.label>
+  <Alien_Orc.tools.1.label>오른쪽 주먹</Alien_Orc.tools.1.label>
+  <Alien_Orc.tools.2.label>엄니</Alien_Orc.tools.2.label>
+  <Alien_Orc.tools.3.label>머리</Alien_Orc.tools.3.label>
+
+  <!--1294507772_190519_The Mantodean insectoid race-->
+  <Alien_Mantodean.label>맨토디안</Alien_Mantodean.label>
+  <Alien_Mantodean.description>둥지와 같은 사회를 이루고사는 지각이 있는 외계종족입니다.</Alien_Mantodean.description>
+  <Alien_Mantodean.tools.0.label>왼쪽 집게발</Alien_Mantodean.tools.0.label>
+  <Alien_Mantodean.tools.1.label>오른쪽 집게발</Alien_Mantodean.tools.1.label>
+  <Alien_Mantodean.tools.2.label>턱</Alien_Mantodean.tools.2.label>
+
+  <!--1314474881_181118_Avali-->
+  <Avali.label>아발리</Avali.label>
+  <Avali.description>큰 눈과 네 개의 귀를 가진 깃털이 있는 랩터 같은 작은 생물체.\n그들은 성질이 나쁘고, 음악예술에 대한 사랑과 반짝이는 것으로 유명합니다.</Avali.description>
+  <Avali.tools.0.label>왼손 발톱</Avali.tools.0.label>
+  <Avali.tools.1.label>오른손 발톱</Avali.tools.1.label>
+  <Avali.tools.2.label>왼발 발톱</Avali.tools.2.label>
+  <Avali.tools.3.label>오른발 발톱</Avali.tools.3.label>
+  <Avali.tools.4.label>왼손</Avali.tools.4.label>
+  <Avali.tools.5.label>오른손</Avali.tools.5.label>
+  <Avali.tools.6.label>왼발</Avali.tools.6.label>
+  <Avali.tools.7.label>오른발</Avali.tools.7.label>
+  <Avali.tools.8.label>이빨</Avali.tools.8.label>
+
+  <!--1342510409_190627_Astoriel-->
+  <Alien_Astoriel.label>아스토리엘</Alien_Astoriel.label>
+  <Alien_Astoriel.description>아스토리엘은 다른 생명체들의 영역을 넘어 거의 불멸에 가까운 진화를 완성했습니다. 그들의 독특한 생리는 수 많은 장점을 부여합니다.</Alien_Astoriel.description>
+  <Alien_Astoriel.tools.0.label>왼 손</Alien_Astoriel.tools.0.label>
+  <Alien_Astoriel.tools.1.label>오른 손</Alien_Astoriel.tools.1.label>
+  <Alien_Astoriel.tools.2.label>머리</Alien_Astoriel.tools.2.label>
+
+  <!--1365540920_190714_Black Widows-->
+  <Races_BlackWidow.label>블랙 위도우</Races_BlackWidow.label>
+  <Races_BlackWidow.description>일반적인 블랙 위도우는 분리되고, 상호 연결된 두 개의 정신과 거미와 같은 특징들로 이루어진 존재입니다. 배우자를 찾을 때 매우 폭력적인 경향으로 악명이 높습니다.</Races_BlackWidow.description>
+  <Races_BlackWidow.tools.0.label>왼 손</Races_BlackWidow.tools.0.label>
+  <Races_BlackWidow.tools.1.label>오른 손</Races_BlackWidow.tools.1.label>
+  <Races_BlackWidow.tools.2.label>브루드 마인드</Races_BlackWidow.tools.2.label>
+
+  <!--1400227853_190602_Lord of the Rims - Hobbits-->
+  <LotRH_HobbitStandardRace.label>호빗</LotRH_HobbitStandardRace.label>
+  <LotRH_HobbitStandardRace.description>질병에 면역입니다. 100살 정도 삽니다. 먹고 마시는 것을 좋아하고, 명랑하며, 가끔씩, 그냥 가끔씩은, 모험을 떠납니다.</LotRH_HobbitStandardRace.description>
+  <LotRH_HobbitStandardRace.tools.0.label>왼주먹</LotRH_HobbitStandardRace.tools.0.label>
+  <LotRH_HobbitStandardRace.tools.1.label>오른주먹</LotRH_HobbitStandardRace.tools.1.label>
+  <LotRH_HobbitStandardRace.tools.2.label>머리</LotRH_HobbitStandardRace.tools.2.label>
+
+  <!--1400234784_190526_Lord of the Rims - Elves-->
+  <LotRE_ElfStandardRace.label>엘프</LotRE_ElfStandardRace.label>
+  <LotRE_ElfStandardRace.description>질병에 면역입니다. 지혜로운 불멸자들입니다.</LotRE_ElfStandardRace.description>
+  <LotRE_ElfStandardRace.tools.0.label>왼주먹</LotRE_ElfStandardRace.tools.0.label>
+  <LotRE_ElfStandardRace.tools.1.label>오른주먹</LotRE_ElfStandardRace.tools.1.label>
+  <LotRE_ElfStandardRace.tools.2.label>머리</LotRE_ElfStandardRace.tools.2.label>
+  <LotRE_ElfStandardRaceHalf.label>하프 엘프</LotRE_ElfStandardRaceHalf.label>
+  <LotRE_ElfStandardRaceHalf.description>필멸과 불멸의 세계의 중간에서 태어난 자들입니다.</LotRE_ElfStandardRaceHalf.description>
+  <LotRE_ElfStandardRaceHalf.tools.0.label>왼주먹</LotRE_ElfStandardRaceHalf.tools.0.label>
+  <LotRE_ElfStandardRaceHalf.tools.1.label>오른주먹</LotRE_ElfStandardRaceHalf.tools.1.label>
+  <LotRE_ElfStandardRaceHalf.tools.2.label>머리</LotRE_ElfStandardRaceHalf.tools.2.label>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <LotRD_DwarfStandardRace.label>드워프</LotRD_DwarfStandardRace.label>
+  <LotRD_DwarfStandardRace.description>질병에 면역입니다. 250살 정도 삽니다. 채굴, 제작, 친구 만들기를 좋아합니다.</LotRD_DwarfStandardRace.description>
+  <LotRD_DwarfStandardRace.tools.0.label>왼주먹</LotRD_DwarfStandardRace.tools.0.label>
+  <LotRD_DwarfStandardRace.tools.1.label>오른주먹</LotRD_DwarfStandardRace.tools.1.label>
+  <LotRD_DwarfStandardRace.tools.2.label>머리</LotRD_DwarfStandardRace.tools.2.label>
+
+  <!--1403998409_190714_Tree People-->
+  <Alien_Tree.label>나무인간</Alien_Tree.label>
+  <Alien_Tree.description>두꺼운 껍질도 뒤덮힌 채 천천히 움직이는 식물과 인간의 합성종입니다.</Alien_Tree.description>
+  <Alien_Tree.tools.0.label>왼 손</Alien_Tree.tools.0.label>
+  <Alien_Tree.tools.1.label>오른 손</Alien_Tree.tools.1.label>
+  <Alien_Tree.tools.2.label>이빨</Alien_Tree.tools.2.label>
+  <Alien_Tree.tools.3.label>머리</Alien_Tree.tools.3.label>
+
+  <!--1416483638_190811_Orassans-->
+  <Alien_Orassan.label>오라산</Alien_Orassan.label>
+  <Alien_Orassan.description>유전공학에 의해 수정되지 않았으며, 오라시아가 아닌 다른 행성에서도 진화론적인 압력에 변형되지 않은 일반적인 오라산인입니다. 포유류 인간형의 고양이 인간으로, 차가운 동굴과 우주선에서의 삶은 그들을 어둠이나 좁은 공간에서의 활동에 강한 이들로 만들었습니다.</Alien_Orassan.description>
+  <Alien_Orassan.tools.0.label>왼쪽 주먹</Alien_Orassan.tools.0.label>
+  <Alien_Orassan.tools.1.label>오른쪽 주먹</Alien_Orassan.tools.1.label>
+  <Alien_Orassan.tools.2.label>왼 손톱</Alien_Orassan.tools.2.label>
+  <Alien_Orassan.tools.3.label>오른 손톱</Alien_Orassan.tools.3.label>
+  <Alien_Orassan.tools.4.label>이빨</Alien_Orassan.tools.4.label>
+
+  <!--1468290672_181114_Troll Race-->
+  <PTroll.label>트롤</PTroll.label>
+  <PTroll.description>배고픔을 채우고, 반짝이는 것들을 찾기 위해 땅을 돌아다니는 괴물로, 다른 트롤보다 약간 머리가 좋습니다.</PTroll.description>
+  <PTroll.tools.0.label>왼주먹</PTroll.tools.0.label>
+  <PTroll.tools.1.label>오른주먹</PTroll.tools.1.label>
+  <PTroll.tools.3.label>머리</PTroll.tools.3.label>
+  <PCaveTroll.label>동굴 트롤</PCaveTroll.label>
+  <PCaveTroll.description>배고픔을 채우고, 반짝이는 것들을 찾기 위해 땅을 돌아다니는 괴물로, 다른 트롤만큼 머리가 좋지 않습니다.</PCaveTroll.description>
+  <PCaveTroll.tools.0.label>왼주먹</PCaveTroll.tools.0.label>
+  <PCaveTroll.tools.1.label>오른주먹</PCaveTroll.tools.1.label>
+  <PCaveTroll.tools.3.label>머리</PCaveTroll.tools.3.label>
+
+  <!--1514158118_190519_Avian Races-->
+  <Alien_Cassowary.label>화식조 인간</Alien_Cassowary.label>
+  <Alien_Cassowary.description>이들은 매우 폭력적이며 예측할 수 없습니다.</Alien_Cassowary.description>
+  <Alien_Cassowary.tools.0.label>왼 손</Alien_Cassowary.tools.0.label>
+  <Alien_Cassowary.tools.1.label>오른 손</Alien_Cassowary.tools.1.label>
+  <Alien_Cassowary.tools.2.label>부리</Alien_Cassowary.tools.2.label>
+  <Alien_Cassowary.tools.3.label>머리</Alien_Cassowary.tools.3.label>
+  <Alien_Chicken.label>닭 인간</Alien_Chicken.label>
+  <Alien_Chicken.description>구워먹으면 맛있을지도 모릅니다.</Alien_Chicken.description>
+  <Alien_Chicken.tools.0.label>왼 손</Alien_Chicken.tools.0.label>
+  <Alien_Chicken.tools.1.label>오른 손</Alien_Chicken.tools.1.label>
+  <Alien_Chicken.tools.2.label>부리</Alien_Chicken.tools.2.label>
+  <Alien_Chicken.tools.3.label>머리</Alien_Chicken.tools.3.label>
+  <Alien_Dodo.label>도도새 인간</Alien_Dodo.label>
+  <Alien_Dodo.description>멸종된 어떤 새와 비슷합니다...</Alien_Dodo.description>
+  <Alien_Dodo.tools.0.label>왼 손</Alien_Dodo.tools.0.label>
+  <Alien_Dodo.tools.1.label>오른 손</Alien_Dodo.tools.1.label>
+  <Alien_Dodo.tools.2.label>부리</Alien_Dodo.tools.2.label>
+  <Alien_Dodo.tools.3.label>머리</Alien_Dodo.tools.3.label>
+  <Alien_Owl.label>부엉이 인간</Alien_Owl.label>
+  <Alien_Owl.description>커-엽.</Alien_Owl.description>
+  <Alien_Owl.tools.0.label>왼 손</Alien_Owl.tools.0.label>
+  <Alien_Owl.tools.1.label>오른 손</Alien_Owl.tools.1.label>
+  <Alien_Owl.tools.2.label>부리</Alien_Owl.tools.2.label>
+  <Alien_Owl.tools.3.label>머리</Alien_Owl.tools.3.label>
+  <Alien_Parrot.label>앵무새 인간</Alien_Parrot.label>
+  <Alien_Parrot.description>다양한 소리를 내며 말합니다!</Alien_Parrot.description>
+  <Alien_Parrot.tools.0.label>왼 손</Alien_Parrot.tools.0.label>
+  <Alien_Parrot.tools.1.label>오른 손</Alien_Parrot.tools.1.label>
+  <Alien_Parrot.tools.2.label>부리</Alien_Parrot.tools.2.label>
+  <Alien_Parrot.tools.3.label>머리</Alien_Parrot.tools.3.label>
+  <Alien_Penguin.label>펭귄 인간</Alien_Penguin.label>
+  <Alien_Penguin.description>신비로운 종족입니다. 이들은 애완동물이 되기위해 유형성숙으로 만들어졌습니다. 하지만 이들은 이제 자신들을 창조한 이들에게 질병을 퍼뜨립니다.</Alien_Penguin.description>
+  <Alien_Penguin.tools.0.label>왼 손</Alien_Penguin.tools.0.label>
+  <Alien_Penguin.tools.1.label>오른 손</Alien_Penguin.tools.1.label>
+  <Alien_Penguin.tools.2.label>부리</Alien_Penguin.tools.2.label>
+  <Alien_Penguin.tools.3.label>머리</Alien_Penguin.tools.3.label>
+  <Alien_Vulture.label>독수리 인간</Alien_Vulture.label>
+  <Alien_Vulture.description>먹도리 멋있네요. 자-알 생겼어요.</Alien_Vulture.description>
+  <Alien_Vulture.tools.0.label>왼 손</Alien_Vulture.tools.0.label>
+  <Alien_Vulture.tools.1.label>오른 손</Alien_Vulture.tools.1.label>
+  <Alien_Vulture.tools.2.label>부리</Alien_Vulture.tools.2.label>
+  <Alien_Vulture.tools.3.label>머리</Alien_Vulture.tools.3.label>
+
+  <!--1541567184_181112_Ni'Hal-->
+  <Alien_NiHal.label>니'할</Alien_NiHal.label>
+  <Alien_NiHal.description>유전적으로 변형되지 않았으며 렉스'텔라키(Rax'Thalaki) 행성이 아닌 곳의 중력에 적응한 니'할입니다. 수륙지역에 모두 적응한 파충류 종족입니다.</Alien_NiHal.description>
+  <Alien_NiHal.tools.0.label>왼 손</Alien_NiHal.tools.0.label>
+  <Alien_NiHal.tools.1.label>오른 손</Alien_NiHal.tools.1.label>
+  <Alien_NiHal.tools.2.label>왼 손톱</Alien_NiHal.tools.2.label>
+  <Alien_NiHal.tools.3.label>오른 손톱</Alien_NiHal.tools.3.label>
+
+  <!--1543164737_190714_Lanius-->
+  <Alien_Lanius.label>라니우스</Alien_Lanius.label>
+  <Alien_Lanius.description>라니우스들은 공격성이 있는 금속성 스캐빈저 종족으로 흔히 묘사되며, 생물학적 특성으로 인해 그들이 있는 방에서는 산소를 소모시켜 매우 탄소기반 생명체들에게는 매우 치명적인 적이기도 합니다. 라니우스는 생체를 유지하기 위해 광물을 흡수하며 살아가야 금속 생명체로, 이 때문에 대부분의 라니우스들은 우주에서 스캐빈저 생활을 하고있습니다. 이들의 삶은 동면 주기에 따라 달라집니다. 심지어 우주를 가로질러가는 수 십 년 동안 잠만 자고 있을 수도 있습니다. 하지만 중요한 금속 광맥을 찾아내면 동면에서 깨어납니다. 보통은 몰락중은 인하계 문명을 발견하거나, 또는 은하 전쟁의 잔해를 발견했을 때가 많습니다. 라니우스들의 발견에 대한 보고는 대부분 전쟁으로 파괴된 연방 은하계 인근에서 나타났습니다. 이들의 등장은 무분별한 금속 자원 수색과 같은 혼란을 야기합니다. 하지만 많은 외교 담당자들은 합리적으로 광물의 공급원을 찾고자 노력하고 있습니다. +/- 방의 공기를 흡수합니다. - 탄소기반에 산소 호흡을 하는 생명체들은 호흡에 어려움을 겪으며,끝내 뇌에 부상을 입게 되며, 방에 너무 오래 있으면 결국 죽게 됩니다. + 무산소 상태에는 피해를 입지 않습니다. 라니우스와 메카노이드들만이 이 면역성을 가지고 있습니다. + 산소가 없는 방의 불은 저절도 꺼지게 됩니다. - 이동속도가 10% 낮습니다.</Alien_Lanius.description>
+  <Alien_Lanius.tools.0.label>왼 손</Alien_Lanius.tools.0.label>
+  <Alien_Lanius.tools.1.label>오른 손</Alien_Lanius.tools.1.label>
+  <Alien_Lanius.tools.2.label>이빨</Alien_Lanius.tools.2.label>
+  <Alien_Lanius.tools.3.label>머리</Alien_Lanius.tools.3.label>
+
+  <!--1543896230_190714_Playable Feral Orkz-->
+  <Alien_Ork.label>오크</Alien_Ork.label>
+  <Alien_Ork.description>오코이드 종족의 정점: 완전히 성장한 오크입니다.</Alien_Ork.description>
+  <Alien_Ork.alienRace.relationSettings.renamer.0.label>놉 메이트</Alien_Ork.alienRace.relationSettings.renamer.0.label>
+  <Alien_Ork.alienRace.relationSettings.renamer.1.label>컬트 리더</Alien_Ork.alienRace.relationSettings.renamer.1.label>
+  <Alien_Ork.alienRace.relationSettings.renamer.2.label>클랜 멤버</Alien_Ork.alienRace.relationSettings.renamer.2.label>
+  <Alien_Ork.tools.0.label>왼 손</Alien_Ork.tools.0.label>
+  <Alien_Ork.tools.1.label>오른 손</Alien_Ork.tools.1.label>
+  <Alien_Ork.tools.2.label>머리</Alien_Ork.tools.2.label>
+  <Alien_Grot.label>그롯</Alien_Grot.label>
+  <Alien_Grot.description>오코이드 종족의 일꾼: 완전히 성장한 그롯입니다.</Alien_Grot.description>
+  <Alien_Grot.alienRace.relationSettings.renamer.0.label>놉 메이트</Alien_Grot.alienRace.relationSettings.renamer.0.label>
+  <Alien_Grot.alienRace.relationSettings.renamer.1.label>컬트 리더</Alien_Grot.alienRace.relationSettings.renamer.1.label>
+  <Alien_Grot.alienRace.relationSettings.renamer.2.label>클랜 멤버</Alien_Grot.alienRace.relationSettings.renamer.2.label>
+  <Alien_Grot.tools.0.label>왼 손</Alien_Grot.tools.0.label>
+  <Alien_Grot.tools.1.label>오른 손</Alien_Grot.tools.1.label>
+  <Alien_Grot.tools.2.label>머리</Alien_Grot.tools.2.label>
+
+  <!--1545178908_190519_Callistans(1.0)-->
+  <Alien_Callistan.label>캘리스탄</Alien_Callistan.label>
+  <Alien_Callistan.description>유전 공학이나, 캘리스탄 행성이 아닌 곳에서의 진화를 겪지 않은 순수한 캘리스탄입니다. 인간과 비슷한 이 갯과 야행성 포유류들은 차가운 동굴이나 우주선 안에서 일생을 보내기 때문에, 어둠이나 실내에 오래 있는 것에 개의치 않게 되었습니다.</Alien_Callistan.description>
+  <Alien_Callistan.tools.0.label>왼쪽 발톱</Alien_Callistan.tools.0.label>
+  <Alien_Callistan.tools.1.label>오른쪽 발톱</Alien_Callistan.tools.1.label>
+  <Alien_Callistan.tools.3.label>머리</Alien_Callistan.tools.3.label>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <RRY_Alien_Yautja.label>야우차(Yautja)</RRY_Alien_Yautja.label>
+  <RRY_Alien_Yautja.description>.</RRY_Alien_Yautja.description>
+  <RRY_Alien_Yautja.tools.0.label>왼 손</RRY_Alien_Yautja.tools.0.label>
+  <RRY_Alien_Yautja.tools.1.label>오른 손</RRY_Alien_Yautja.tools.1.label>
+  <RRY_Alien_Yautja.tools.2.label>머리</RRY_Alien_Yautja.tools.2.label>
+  <RRY_Alien_Yautja.tools.3.label>곤충 턱</RRY_Alien_Yautja.tools.3.label>
+
+  <!--1571323744_190714_Crystalloid (Rewrite)-->
+  <Alien_Crystalloid.label>크리스탈로이드</Alien_Crystalloid.label>
+  <Alien_Crystalloid.description>결정질의 피부를 가진 외계종족으로, 사이오닉 능력이 있는 두뇌를 가지고 있습니다. 크리스탈로이드들은 변방계 생물 중에서는 그 어떤 생물과도 닮지 않은(그렇게도 많은 외계종족이 있음에도 불구하고) 특성을 가지고 있으며, 그 기원을 알 수 없습니다. 알려진 우주 가장 바깥에 위치한 변방계에 거주하는 크리스탈로이드는 일반적으로 '공동체'라고 불리는 불길하고 신비한 사이오닉 네트워크의 일부입니다. 크리스탈로이드는 매우 오랜 시간동안 살 수 있으며, 나이를 먹을 수록 사이오닉 능력을 발달시킬 수 있습니다.</Alien_Crystalloid.description>
+  <Alien_Crystalloid.tools.0.label>왼 손</Alien_Crystalloid.tools.0.label>
+  <Alien_Crystalloid.tools.1.label>오른 손</Alien_Crystalloid.tools.1.label>
+  <Alien_Crystalloid.tools.2.label>머리</Alien_Crystalloid.tools.2.label>
+  <Alien_CrystalValkyrie.label>발키리</Alien_CrystalValkyrie.label>
+  <Alien_CrystalValkyrie.description>알 수 없는 조건에서 태어난 크리스탈로이드의 변종 종족입니다. 발키리는 크리스탈로이드와 같은 사이오닉 능력을 가진 강하고, 전투 지향적인 여성 종족입니다. 크리스탈로이트 공동체는 발키리를 매우 싫어하며, 이들을 적극적으로 퇴치하려고 노력합니다. 공동체로부터 도망친 이들은 종종 인간 공동체로 피난을 갑니다.</Alien_CrystalValkyrie.description>
+  <Alien_CrystalValkyrie.tools.0.label>왼 손</Alien_CrystalValkyrie.tools.0.label>
+  <Alien_CrystalValkyrie.tools.1.label>오른 손</Alien_CrystalValkyrie.tools.1.label>
+  <Alien_CrystalValkyrie.tools.2.label>머리</Alien_CrystalValkyrie.tools.2.label>
+
+  <!--1573177939_181125_Ratkin Backup-->
+  <RGK_Race_Ratty.label>랫킨</RGK_Race_Ratty.label>
+  <RGK_Race_Ratty.description>앙증맞은 시궁쥐 소녀입니다.</RGK_Race_Ratty.description>
+  <RGK_Race_Ratty.tools.0.label>왼쪽 주먹</RGK_Race_Ratty.tools.0.label>
+  <RGK_Race_Ratty.tools.1.label>오른쪽 주먹</RGK_Race_Ratty.tools.1.label>
+
+  <!--1632244750_190708_Oni of the Rim-->
+  <AOni.label>오니</AOni.label>
+  <AOni.description>몇몇 변방계에서 발견되는, 뿔이 있고 깃털이 달린 신비로운 인간형 종족인 오니는 일종의 이국적이고 아름다운 애완동물로써 번화계 행성에서 인기가 좋습니다. 하지만 더 나쁜 사실은, 이들의 깃털과 가죽, 뿔을 얻기 위해 가축으로 사육되기도 한다는 점입니다. 오니는 온대지방에서 주로 살고 있으며, 깃털이 달린 몸에 불편함을 느껴 옷을 거의 입지 않습니다.</AOni.description>
+  <AOni.tools.0.label>뿔</AOni.tools.0.label>
+  <AOni.tools.1.label>왼쪽 발톱</AOni.tools.1.label>
+  <AOni.tools.2.label>오른쪽 발톱</AOni.tools.2.label>
+  <AOni.tools.3.label>이빨</AOni.tools.3.label>
+
+  <!--1647782348_190519_Xenohumans - Gen-spliced Xenos on the Rim-->
+  <DesignerMatesXH.label>디자이너 메이트</DesignerMatesXH.label>
+  <DesignerMatesXH.description>디자이너 메이트는 완벽한 짝이 되기 위해 반짝이는 세계에서 유 전적으로 조작됩니다. 이것은 여전히 대부분의 특성을 상속받는 그들 중 하나의 자손입니다.</DesignerMatesXH.description>
+  <DesignerMatesXH.tools.0.label>왼손잡이</DesignerMatesXH.tools.0.label>
+  <DesignerMatesXH.tools.1.label>오른손잡이</DesignerMatesXH.tools.1.label>
+  <DesignerMatesXH.tools.2.label>치아</DesignerMatesXH.tools.2.label>
+  <DesignerMatesXH.tools.3.label>머리</DesignerMatesXH.tools.3.label>
+  <ScaleManXH.label>비늘인간</ScaleManXH.label>
+  <ScaleManXH.description>유전자 변형 인간. 유전자 요법이나 환경 적 압력을 통해 이러한 종류의 인간은 가죽 피부를 생각합니다. 비늘인간은 보통의 인간보다 약간 느리고 타이어가 빠르지 만 뜨거운 생물체에 매우 잘 적응하고 음식이 적게 들고 자연적인 갑옷을 입고 있습니다.</ScaleManXH.description>
+  <ScaleManXH.tools.0.label>왼손잡이</ScaleManXH.tools.0.label>
+  <ScaleManXH.tools.1.label>오른손잡이</ScaleManXH.tools.1.label>
+  <ScaleManXH.tools.2.label>치아</ScaleManXH.tools.2.label>
+  <ScaleManXH.tools.3.label>머리</ScaleManXH.tools.3.label>
+  <SoldiermorphXH.label>개조형 군인</SoldiermorphXH.label>
+  <SoldiermorphXH.description>유전자 변형 인간은 보통 전투를 위해 번식한다. 개조형 군인은 고통을 덜 느끼고, 더 강하고, 음식이 덜 필요하다. 그러나 그들은 평균 수명이 매우 낮고 평범한 인간보다 배우는 속도가 느립니다.</SoldiermorphXH.description>
+  <SoldiermorphXH.tools.0.label>왼손잡이</SoldiermorphXH.tools.0.label>
+  <SoldiermorphXH.tools.1.label>오른손 잡이</SoldiermorphXH.tools.1.label>
+  <SoldiermorphXH.tools.2.label>치아</SoldiermorphXH.tools.2.label>
+  <SoldiermorphXH.tools.3.label>머리</SoldiermorphXH.tools.3.label>
+  <WolfManXH.label>늑대인간</WolfManXH.label>
+  <WolfManXH.description>유전자 변형된 인간 형태입니다. 이 늑대 같은 인간은 심각한 피해를 입힐 수 있는 개폐식 발톱으로 손을 바꾸었습니다. 동물 같은 본능이 더 많이 존재하며 늑대 인간은 종종 짧은 퓨즈를 가지고 있으며 분노하기 쉽습니다..</WolfManXH.description>
+  <WolfManXH.tools.0.label>왼손잡이</WolfManXH.tools.0.label>
+  <WolfManXH.tools.1.label>오른손잡이</WolfManXH.tools.1.label>
+  <WolfManXH.tools.2.label>치아</WolfManXH.tools.2.label>
+  <WolfManXH.tools.3.label>머리</WolfManXH.tools.3.label>
+
+  <!--1706345856_190811_Warhammer Skaven-->
+  <Alien_HornedSkaven.label>뿔난 스케이븐</Alien_HornedSkaven.label>
+  <Alien_HornedSkaven.description>뿔이 난 스케이븐은 뿔난 쥐의 축복을 받은 자 입니다. 이들은 계층 구조의 꼭대기에 서서 평의회에 비전을 제시하고, 조언하는 일을 합니다.</Alien_HornedSkaven.description>
+  <Alien_HornedSkaven.tools.0.label>왼 발톱</Alien_HornedSkaven.tools.0.label>
+  <Alien_HornedSkaven.tools.1.label>오른 손톱</Alien_HornedSkaven.tools.1.label>
+  <Alien_HornedSkaven.tools.2.label>이빨</Alien_HornedSkaven.tools.2.label>
+  <Alien_Skaven.label>스케이븐</Alien_Skaven.label>
+  <Alien_Skaven.description>스케이븐은 랫맨 또는 랫킨 이라고 불리웁니다. 이들은 쥐를 닮은 인간형태의 생물로, 악의적이고 악마같은 종족들입니다.</Alien_Skaven.description>
+  <Alien_Skaven.tools.0.label>왼 발톱</Alien_Skaven.tools.0.label>
+  <Alien_Skaven.tools.1.label>오른 손톱</Alien_Skaven.tools.1.label>
+  <Alien_Skaven.tools.2.label>이빨</Alien_Skaven.tools.2.label>
+  <Alien_SkavenStorm.label>스톰버민</Alien_SkavenStorm.label>
+  <Alien_SkavenStorm.description>스케이븐의 정예부대인 스톰버민의 역할을 수행하기 위해 태어난 덩치큰 스케이븐입니다. 이들은 스케이븐 사회의 대부분을 이루고있는 일반적인 클랜랫들보다 더 크고, 더 강합니다. 이들은 본질적으로 매우 공격적이며, 언제나 주변인들을 위협하고 자신의 힘을 과시합니다.</Alien_SkavenStorm.description>
+  <Alien_SkavenStorm.tools.0.label>왼 발톱</Alien_SkavenStorm.tools.0.label>
+  <Alien_SkavenStorm.tools.1.label>오른 손톱</Alien_SkavenStorm.tools.1.label>
+  <Alien_SkavenStorm.tools.2.label>이빨</Alien_SkavenStorm.tools.2.label>
+
+  <!--1726422863_190519_Creatures of Ki-->
+  <Alien_Kija.label>키자</Alien_Kija.label>
+  <Alien_Kija.description>사슴뿔이 달린 인간형의 유순한 동물입니다.</Alien_Kija.description>
+  <Alien_Kija.tools.0.label>왼 손</Alien_Kija.tools.0.label>
+  <Alien_Kija.tools.1.label>오른 손</Alien_Kija.tools.1.label>
+  <Alien_Kija.tools.2.label>이빨</Alien_Kija.tools.2.label>
+
+  <!--1728999127_190813_Forsakens-->
+  <Alien_Forsaken.label>버림받은 자들</Alien_Forsaken.label>
+  <Alien_Forsaken.description>고대의 존재들로, 그들에 대해서는 알려진 게 많지 않습니다.</Alien_Forsaken.description>
+  <Alien_Forsaken.tools.0.label>왼 손</Alien_Forsaken.tools.0.label>
+  <Alien_Forsaken.tools.1.label>오른 손</Alien_Forsaken.tools.1.label>
+
+  <!--1785657108_190811_Humanoid Project-->
+  <Avian.label>아비안</Avian.label>
+  <Avian.description>아비안은 행성에 살고있는 어떤 존재들보다도 강력한 생물입니다. 그들은 현실의 다른 면에서 유래했다는 이야기가 있으며, 어떤 사람들은 이들이 악마라고 말합니다. 왜냐하면 이들은 인류와 관련이 없으며, 엄격한 "학살 명령"을 따르고 있기 때문입니다. 인간과 이들의 첫 접촉은 극도로 폭력적이었습니다. 변방계 행성 8월 16일 (볼카니안 제국의 '에라' 연도 3450CF) 한 무리의 아비안 습격자들이 성계를 공격하여 780,000명 이상이 사망했습니다. 특이하게도, 아비안은 거의 모든것을 약탈했습니다. 이 사건 이후, 아비안은 그들의 제국을 급성장하게 만드는 (감마-B56 볼카니안 제국 수도)의 성계를 습격했습니다. 아비안은 '스톰 캐스터'라고 불리웁니다. 이들은 날씨와 관련하여 믿을 수 없는 일들을 할 수 있습니다. 극한의 기상조건은 이들의 능력을 향상시킵니다. 이들이 그 힘을 어떻게 얻었는지는 아직 알려지지 않았습니다.</Avian.description>
+  <Avian.tools.0.label>왼 손</Avian.tools.0.label>
+  <Avian.tools.1.label>오른 손</Avian.tools.1.label>
+  <Avian.tools.2.label>이빨</Avian.tools.2.label>
+  <Avian.tools.3.label>머리</Avian.tools.3.label>
+  <BlueMagmaRace.label>볼카니안 생존자</BlueMagmaRace.label>
+  <BlueMagmaRace.description>이 이상한 종족의 역사는 별로 알려지지 않았습니다. 이들은 한때 형성-모라 라는 불카니안계에서 살았으며, 항상 먹이사슬의 정상에 있었던 것도 아니고, 권력자 또한 아니었던 것으로 알려져있습니다. 어느 시점에서 이들은 더 나은 집을 찾기위해 그들의 고향을 떠났습니다. 물론 지금에 와서는 그것이 진짜 이유가 아니었다는 것을 모두가 알고있습니다... 이들의 역사는 모든 우주를 주변을 굴러싼 극단적인 갈등으로 이루어져있습니다. 극한의 온도에서 살아남을 수 있는 그들의 능력과 극도로 단단한 피부 부성이 그들을 거의 모든 무기에 대한 총알로부터 피해를 입지 않도록 만들어주었습니다. 그때까지는 말이죠... 이들이 아비안 제국의 본거지(투론-96)를 방문하기 전까지 말입니다. 그들은 자신들의 큰 실수를 깨달았을 때는 이미 늦은 뒤었습니다. 암흑 에너지로 작동하는 무기는 불카니안들의 절반 이상을 학살했습니다. 그리고 그렇게 살아남은 사람들은 아비안들의 불가사의한 능력과 강력한 번개 폭풍에 대한 이야기를 전합니다. 최근에는 이 시절에 대한 향수가 많이 남아있지 않지만, 여전히 그 때 일어났던 일들에 대한 분노는 선명하게 남아있습니다.</BlueMagmaRace.description>
+  <BlueMagmaRace.tools.0.label>왼 손</BlueMagmaRace.tools.0.label>
+  <BlueMagmaRace.tools.1.label>오른 손</BlueMagmaRace.tools.1.label>
+  <BlueMagmaRace.tools.2.label>이빨</BlueMagmaRace.tools.2.label>
+  <BlueMagmaRace.tools.3.label>머리</BlueMagmaRace.tools.3.label>
+  <MagmaRace.label>볼카니안</MagmaRace.label>
+  <MagmaRace.description>푸른 볼카니안 종족의 후손입니다. 이들은 별다른 갈등을 겪은적이 없으며, 기근 때문에 고통스러워한 적도 별로 없습니다. 볼카니안들의 후손은 우주의 컬쳐-하운드 상인들입니다. 이들은 무역과 채광 기술을 집중적으로 발전시켰습니다. 물론 그것이 이들이 직접 갈등을 극복할 줄 모른다는 의미는 아닙니다. 볼카니안은 필요하다면 가공할만한 전투력을 결집시킬 수 있지만, 상비군은 따로 존재하지 않습니다. 대신 볼카니아 민병대가 그들의 팩션 안에서 매일 평화를 유지하고 있습니다.</MagmaRace.description>
+  <MagmaRace.tools.0.label>왼 손</MagmaRace.tools.0.label>
+  <MagmaRace.tools.1.label>오른 손</MagmaRace.tools.1.label>
+  <MagmaRace.tools.2.label>이빨</MagmaRace.tools.2.label>
+  <MagmaRace.tools.3.label>머리</MagmaRace.tools.3.label>
+
+  <!--1819987395_190811_Geth-->
+  <Geth.label>게스</Geth.label>
+  <Geth.description>게스는 페르세우스 베일 너머에 있는 네트워크로 연결된 인공지능 종족입니다. 쿼리안들이 노동과 전쟁의 도구로 사용하기 위해 인위적으로 만들었습니다. 게스가 지각을 가지게 되고 주인을 의심하기 시작하자, 쿼리안들은 그들을 몰살하려 했지만, 결국 실패하고 게스에게 모든 행성을 빼았긴 채 은하계를 떠도는 신세가 되었습니다.</Geth.description>
+
+  <!--882126182_181000_Call of Cthulhu - Elder Things-->
+  <Alien_ElderThing_Race_Standard.label>태고의 존재</Alien_ElderThing_Race_Standard.label>
+  <Alien_ElderThing_Race_Standard.description>곰팡이, 양서류 및 식물같은 생물들과 비슷한 생물학적 특성을 공유하는 태고의 존재 이라고 알려진 5면체 원통형 모양의 생물입니다. 대부분의 기온에서 생존할 수 있으며, 심지어 우주비행도 가능하고 폭력적인 외상에도 불멸에 가깝에 생존할 수 있습니다.\n\n더 자세한 정보:태고의 존재들은 혈통관계가 아닌 비슷한 가족에 의해 자라 포자를 통해 무성생식하는 무성 생물입니다. 그들의 사회는 오각형과 다른 이상한 기하학적 구조의 예술품 및 원통형 가구로 장식된 넓고 열린 공간에 초점을 맞추고 있습니다. 진보된 유전공학 기술로 인해 그들은 쇼고스라고 알려진 원형질체 노예 종족을 만들어 내었습니다. 쇼고스는 수 세기전에 태고의 존재들에 대항했고, 그들의 문명을 거의 파괴했습니다. 그럼에도 불구하고 태고의 존재들은 아직도 퇴폐적인 생활방식을 유지하고 있으며, 노예들의 노동에 의지합니다.</Alien_ElderThing_Race_Standard.description>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.0.label>어른 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.0.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.1.label>어린 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.1.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.2.label>형제 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.2.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.3.label>반 형제 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.3.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.4.label>노인 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.4.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.5.label>손자 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.5.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.6.label>조카 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.6.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.7.label>삼촌 또는 이모 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.7.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.8.label>사촌 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.8.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.9.label>증조부 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.9.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.10.label>증손자 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.10.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.11.label>증조부 혹은 모 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.11.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.12.label>증조카 태고의 존재</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.12.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.13.label>태고의 존재 종족</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.13.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.14.label>태고의 존재 종족</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.14.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.15.label>태고의 존재 종족</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.15.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.16.label>태고의 존재 종족</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.16.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.17.label>태고의 존재 연인</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.17.label>
+  <Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.18.label>태고의 존재 전 연인</Alien_ElderThing_Race_Standard.alienRace.relationSettings.renamer.18.label>
+  <Alien_ElderThing_Race_Standard.tools.0.label>팔</Alien_ElderThing_Race_Standard.tools.0.label>
+  <Alien_ElderThing_Race_Standard.tools.1.label>압도적인 정신</Alien_ElderThing_Race_Standard.tools.1.label>
+
+</LanguageData>

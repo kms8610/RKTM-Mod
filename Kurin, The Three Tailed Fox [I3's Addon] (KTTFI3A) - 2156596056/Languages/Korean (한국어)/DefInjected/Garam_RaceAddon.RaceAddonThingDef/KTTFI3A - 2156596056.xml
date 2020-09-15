@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Kimiri.label>키미리</Kimiri.label>
+  <Kimiri.description>키미리 - 쿠린이 만든 유전적으로 설계된 드라고니안입니다. 키미리는 쿠린 동료들처럼 사교적으로는 동등하지만, 지능은 나쁘기 때문에, 일반적으로 힘을 사용하는 육체적인 일을 합니다.\n\n채굴, 원예, 조련에 능한 키미리들은 이야기 하는 것을 좋아합니다.\n\n키미리들은 털과 우유를 생산할 수 없지만, 신체 재생력이 높고 피부와 골격이 강합니다.\n\n키미리들은 양성이며, 신체에 남성과 여성용 유전자가 있기 때문에 스스로 성별을 선택합니다.</Kimiri.description>
+  <Kimiri.tools.0.label>왼쪽 주먹</Kimiri.tools.0.label>
+  <Kimiri.tools.1.label>오른쪽 주먹</Kimiri.tools.1.label>
+  <Kimiri.tools.2.label>이빨</Kimiri.tools.2.label>
+  <Kimiri.tools.3.label>꼬리</Kimiri.tools.3.label>
+  <Kurin.label>쿠린</Kurin.label>
+  <Kurin.description>쿠린, 세 갈래 꼬리 여우.</Kurin.description>
+  <Kurin.tools.0.label>왼쪽 주먹</Kurin.tools.0.label>
+  <Kurin.tools.1.label>오른쪽 주먹</Kurin.tools.1.label>
+  <Kurin.tools.2.label>이빨</Kurin.tools.2.label>
+  <Kurin.tools.3.label>머리</Kurin.tools.3.label>
+</LanguageData>

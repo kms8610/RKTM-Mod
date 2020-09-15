@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Kimiri_BackstoryChild_01.backstoryTitle>키미리 평범한 아이</Kimiri_BackstoryChild_01.backstoryTitle>
+  <Kimiri_BackstoryChild_01.backstoryTitleShort>평범한 아이</Kimiri_BackstoryChild_01.backstoryTitleShort>
+  <Kimiri_BackstoryChild_01.backstoryDescription>...</Kimiri_BackstoryChild_01.backstoryDescription>
+  <Kimiri_BackstoryChild_02.backstoryTitle>키미리 도련님</Kimiri_BackstoryChild_02.backstoryTitle>
+  <Kimiri_BackstoryChild_02.backstoryTitleShort>도련님</Kimiri_BackstoryChild_02.backstoryTitleShort>
+  <Kimiri_BackstoryChild_02.backstoryDescription>...</Kimiri_BackstoryChild_02.backstoryDescription>
+  <Kimiri_BackstoryChild_03.backstoryTitle>키미리 친절한 아이</Kimiri_BackstoryChild_03.backstoryTitle>
+  <Kimiri_BackstoryChild_03.backstoryTitleShort>친절한 아이</Kimiri_BackstoryChild_03.backstoryTitleShort>
+  <Kimiri_BackstoryChild_03.backstoryDescription>...</Kimiri_BackstoryChild_03.backstoryDescription>
+  <Kimiri_BackstoryChild_04.backstoryTitle>키미리 무례한 아이</Kimiri_BackstoryChild_04.backstoryTitle>
+  <Kimiri_BackstoryChild_04.backstoryTitleShort>무례한 아이</Kimiri_BackstoryChild_04.backstoryTitleShort>
+  <Kimiri_BackstoryChild_04.backstoryDescription>...</Kimiri_BackstoryChild_04.backstoryDescription>
+  <Kimiri_BackstoryChild_05.backstoryTitle>키미리 우수한 학생</Kimiri_BackstoryChild_05.backstoryTitle>
+  <Kimiri_BackstoryChild_05.backstoryTitleShort>우수한 학생</Kimiri_BackstoryChild_05.backstoryTitleShort>
+  <Kimiri_BackstoryChild_05.backstoryDescription>...</Kimiri_BackstoryChild_05.backstoryDescription>
+  <Kimiri_BackstoryChild_06.backstoryTitle>키미리 유망주 선수</Kimiri_BackstoryChild_06.backstoryTitle>
+  <Kimiri_BackstoryChild_06.backstoryTitleShort>유망주 선수</Kimiri_BackstoryChild_06.backstoryTitleShort>
+  <Kimiri_BackstoryChild_06.backstoryDescription>...</Kimiri_BackstoryChild_06.backstoryDescription>
+  <Kimiri_BackstoryChild_07.backstoryTitle>키미리 어린 요리사</Kimiri_BackstoryChild_07.backstoryTitle>
+  <Kimiri_BackstoryChild_07.backstoryTitleShort>어린 요리사</Kimiri_BackstoryChild_07.backstoryTitleShort>
+  <Kimiri_BackstoryChild_07.backstoryDescription>...</Kimiri_BackstoryChild_07.backstoryDescription>
+  <Kimiri_BackstoryChild_08.backstoryTitle>키미리 어린 동물 애호가</Kimiri_BackstoryChild_08.backstoryTitle>
+  <Kimiri_BackstoryChild_08.backstoryTitleShort>어린 동물 애호가</Kimiri_BackstoryChild_08.backstoryTitleShort>
+  <Kimiri_BackstoryChild_08.backstoryDescription>...</Kimiri_BackstoryChild_08.backstoryDescription>
+  <Kimiri_BackstoryChild_09.backstoryTitle>키미리 어린 정원사</Kimiri_BackstoryChild_09.backstoryTitle>
+  <Kimiri_BackstoryChild_09.backstoryTitleShort>어린 정원사</Kimiri_BackstoryChild_09.backstoryTitleShort>
+  <Kimiri_BackstoryChild_09.backstoryDescription>...</Kimiri_BackstoryChild_09.backstoryDescription>
+  <Kimiri_BackstoryChild_10.backstoryTitle>키미리 게이머</Kimiri_BackstoryChild_10.backstoryTitle>
+  <Kimiri_BackstoryChild_10.backstoryTitleShort>게이머</Kimiri_BackstoryChild_10.backstoryTitleShort>
+  <Kimiri_BackstoryChild_10.backstoryDescription>...</Kimiri_BackstoryChild_10.backstoryDescription>
+  <Kimiri_BackstoryChild_11.backstoryTitle>키미리 간호 조무사</Kimiri_BackstoryChild_11.backstoryTitle>
+  <Kimiri_BackstoryChild_11.backstoryTitleShort>간호 조무사</Kimiri_BackstoryChild_11.backstoryTitleShort>
+  <Kimiri_BackstoryChild_11.backstoryDescription>...</Kimiri_BackstoryChild_11.backstoryDescription>
+  <Kimiri_BackstoryChild_12.backstoryTitle>키미리 어린 검객</Kimiri_BackstoryChild_12.backstoryTitle>
+  <Kimiri_BackstoryChild_12.backstoryTitleShort>어린 검객</Kimiri_BackstoryChild_12.backstoryTitleShort>
+  <Kimiri_BackstoryChild_12.backstoryDescription>검도, 합기도의 달인입니다.</Kimiri_BackstoryChild_12.backstoryDescription>
+  <Kimiri_BackstoryAdult_01.backstoryTitle>키미리 검객</Kimiri_BackstoryAdult_01.backstoryTitle>
+  <Kimiri_BackstoryAdult_01.backstoryTitleShort>검객</Kimiri_BackstoryAdult_01.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_01.backstoryDescription>...</Kimiri_BackstoryAdult_01.backstoryDescription>
+  <Kimiri_BackstoryAdult_02.backstoryTitle>키미리 길거리 레이서</Kimiri_BackstoryAdult_02.backstoryTitle>
+  <Kimiri_BackstoryAdult_02.backstoryTitleShort>길거리 레이서</Kimiri_BackstoryAdult_02.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_02.backstoryDescription>...</Kimiri_BackstoryAdult_02.backstoryDescription>
+  <Kimiri_BackstoryAdult_03.backstoryTitle>키미리 상인</Kimiri_BackstoryAdult_03.backstoryTitle>
+  <Kimiri_BackstoryAdult_03.backstoryTitleShort>상인</Kimiri_BackstoryAdult_03.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_03.backstoryDescription>...</Kimiri_BackstoryAdult_03.backstoryDescription>
+  <Kimiri_BackstoryAdult_04.backstoryTitle>키미리 요리사</Kimiri_BackstoryAdult_04.backstoryTitle>
+  <Kimiri_BackstoryAdult_04.backstoryTitleShort>요리사</Kimiri_BackstoryAdult_04.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_04.backstoryDescription>...</Kimiri_BackstoryAdult_04.backstoryDescription>
+  <Kimiri_BackstoryAdult_05.backstoryTitle>키미리 어부</Kimiri_BackstoryAdult_05.backstoryTitle>
+  <Kimiri_BackstoryAdult_05.backstoryTitleShort>어부</Kimiri_BackstoryAdult_05.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_05.backstoryDescription>...</Kimiri_BackstoryAdult_05.backstoryDescription>
+  <Kimiri_BackstoryAdult_06.backstoryTitle>키미리 농부</Kimiri_BackstoryAdult_06.backstoryTitle>
+  <Kimiri_BackstoryAdult_06.backstoryTitleShort>농부</Kimiri_BackstoryAdult_06.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_06.backstoryDescription>...</Kimiri_BackstoryAdult_06.backstoryDescription>
+  <Kimiri_BackstoryAdult_07.backstoryTitle>키미리 재단사</Kimiri_BackstoryAdult_07.backstoryTitle>
+  <Kimiri_BackstoryAdult_07.backstoryTitleShort>재단사</Kimiri_BackstoryAdult_07.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_07.backstoryDescription>...</Kimiri_BackstoryAdult_07.backstoryDescription>
+  <Kimiri_BackstoryAdult_08.backstoryTitle>키미리 경영자</Kimiri_BackstoryAdult_08.backstoryTitle>
+  <Kimiri_BackstoryAdult_08.backstoryTitleShort>경영자</Kimiri_BackstoryAdult_08.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_08.backstoryDescription>...</Kimiri_BackstoryAdult_08.backstoryDescription>
+  <Kimiri_BackstoryAdult_09.backstoryTitle>키미리 호텔 주인</Kimiri_BackstoryAdult_09.backstoryTitle>
+  <Kimiri_BackstoryAdult_09.backstoryTitleShort>호텔 주인</Kimiri_BackstoryAdult_09.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_09.backstoryDescription>...</Kimiri_BackstoryAdult_09.backstoryDescription>
+  <Kimiri_BackstoryAdult_10.backstoryTitle>키미리 농부 주인</Kimiri_BackstoryAdult_10.backstoryTitle>
+  <Kimiri_BackstoryAdult_10.backstoryTitleShort>농장 주인</Kimiri_BackstoryAdult_10.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_10.backstoryDescription>...</Kimiri_BackstoryAdult_10.backstoryDescription>
+  <Kimiri_BackstoryAdult_11.backstoryTitle>키미리 가정부</Kimiri_BackstoryAdult_11.backstoryTitle>
+  <Kimiri_BackstoryAdult_11.backstoryTitleShort>가정부</Kimiri_BackstoryAdult_11.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_11.backstoryDescription>...</Kimiri_BackstoryAdult_11.backstoryDescription>
+  <Kimiri_BackstoryAdult_12.backstoryTitle>키미리 광부</Kimiri_BackstoryAdult_12.backstoryTitle>
+  <Kimiri_BackstoryAdult_12.backstoryTitleShort>광부</Kimiri_BackstoryAdult_12.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_12.backstoryDescription>...</Kimiri_BackstoryAdult_12.backstoryDescription>
+  <Kimiri_BackstoryAdult_13.backstoryTitle>키미리 지질학자</Kimiri_BackstoryAdult_13.backstoryTitle>
+  <Kimiri_BackstoryAdult_13.backstoryTitleShort>지질학자</Kimiri_BackstoryAdult_13.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_13.backstoryDescription>...</Kimiri_BackstoryAdult_13.backstoryDescription>
+  <Kimiri_BackstoryAdult_14.backstoryTitle>키미리 정비공</Kimiri_BackstoryAdult_14.backstoryTitle>
+  <Kimiri_BackstoryAdult_14.backstoryTitleShort>정비공</Kimiri_BackstoryAdult_14.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_14.backstoryDescription>...</Kimiri_BackstoryAdult_14.backstoryDescription>
+  <Kimiri_BackstoryAdult_15.backstoryTitle>키미리 고양이 애호가</Kimiri_BackstoryAdult_15.backstoryTitle>
+  <Kimiri_BackstoryAdult_15.backstoryTitleShort>고양이 애호가</Kimiri_BackstoryAdult_15.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_15.backstoryDescription>...</Kimiri_BackstoryAdult_15.backstoryDescription>
+  <Kimiri_BackstoryAdult_16.backstoryTitle>키미리 의사</Kimiri_BackstoryAdult_16.backstoryTitle>
+  <Kimiri_BackstoryAdult_16.backstoryTitleShort>의사</Kimiri_BackstoryAdult_16.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_16.backstoryDescription>...</Kimiri_BackstoryAdult_16.backstoryDescription>
+  <Kimiri_BackstoryAdult_17.backstoryTitle>키미리 웨이터</Kimiri_BackstoryAdult_17.backstoryTitle>
+  <Kimiri_BackstoryAdult_17.backstoryTitleShort>웨이터</Kimiri_BackstoryAdult_17.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_17.backstoryDescription>...</Kimiri_BackstoryAdult_17.backstoryDescription>
+  <Kimiri_BackstoryAdult_18.backstoryTitle>키미리 바텐더</Kimiri_BackstoryAdult_18.backstoryTitle>
+  <Kimiri_BackstoryAdult_18.backstoryTitleShort>바텐더</Kimiri_BackstoryAdult_18.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_18.backstoryDescription>...</Kimiri_BackstoryAdult_18.backstoryDescription>
+  <Kimiri_BackstoryAdult_19.backstoryTitle>키미리 청소부</Kimiri_BackstoryAdult_19.backstoryTitle>
+  <Kimiri_BackstoryAdult_19.backstoryTitleShort>청소부</Kimiri_BackstoryAdult_19.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_19.backstoryDescription>...</Kimiri_BackstoryAdult_19.backstoryDescription>
+  <Kimiri_BackstoryAdult_20.backstoryTitle>키미리 꽃가게 주인</Kimiri_BackstoryAdult_20.backstoryTitle>
+  <Kimiri_BackstoryAdult_20.backstoryTitleShort>꽃가게 주인</Kimiri_BackstoryAdult_20.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_20.backstoryDescription>...</Kimiri_BackstoryAdult_20.backstoryDescription>
+  <Kimiri_BackstoryAdult_21.backstoryTitle>키미리 기타 연주가</Kimiri_BackstoryAdult_21.backstoryTitle>
+  <Kimiri_BackstoryAdult_21.backstoryTitleShort>기타 연주가</Kimiri_BackstoryAdult_21.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_21.backstoryDescription>...</Kimiri_BackstoryAdult_21.backstoryDescription>
+  <Kimiri_BackstoryAdult_22.backstoryTitle>키미리 사진 모델</Kimiri_BackstoryAdult_22.backstoryTitle>
+  <Kimiri_BackstoryAdult_22.backstoryTitleShort>사진 모델</Kimiri_BackstoryAdult_22.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_22.backstoryDescription>...</Kimiri_BackstoryAdult_22.backstoryDescription>
+  <Kimiri_BackstoryAdult_23.backstoryTitle>키미리 경찰</Kimiri_BackstoryAdult_23.backstoryTitle>
+  <Kimiri_BackstoryAdult_23.backstoryTitleShort>경찰</Kimiri_BackstoryAdult_23.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_23.backstoryDescription>...</Kimiri_BackstoryAdult_23.backstoryDescription>
+  <Kimiri_BackstoryAdult_24.backstoryTitle>키미리 육군 장교</Kimiri_BackstoryAdult_24.backstoryTitle>
+  <Kimiri_BackstoryAdult_24.backstoryTitleShort>육군 장교</Kimiri_BackstoryAdult_24.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_24.backstoryDescription>...</Kimiri_BackstoryAdult_24.backstoryDescription>
+  <Kimiri_BackstoryAdult_25.backstoryTitle>키미리 분대원</Kimiri_BackstoryAdult_25.backstoryTitle>
+  <Kimiri_BackstoryAdult_25.backstoryTitleShort>분대원</Kimiri_BackstoryAdult_25.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_25.backstoryDescription>...</Kimiri_BackstoryAdult_25.backstoryDescription>
+  <Kimiri_BackstoryAdult_26.backstoryTitle>키미리 구급 의료사</Kimiri_BackstoryAdult_26.backstoryTitle>
+  <Kimiri_BackstoryAdult_26.backstoryTitleShort>구급 의료사</Kimiri_BackstoryAdult_26.backstoryTitleShort>
+  <Kimiri_BackstoryAdult_26.backstoryDescription>...</Kimiri_BackstoryAdult_26.backstoryDescription>
+</LanguageData>

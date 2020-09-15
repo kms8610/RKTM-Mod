@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NuclearWork.labelShort>원자력</NuclearWork.labelShort>
+  <NuclearWork.pawnLabel>원자력 관리</NuclearWork.pawnLabel>
+  <NuclearWork.gerundLabel>설치 중</NuclearWork.gerundLabel>
+  <NuclearWork.description>방사능 물질을 이동시키거나 설치.</NuclearWork.description>
+  <NuclearWork.verb>원자력</NuclearWork.verb>
+
+</LanguageData>

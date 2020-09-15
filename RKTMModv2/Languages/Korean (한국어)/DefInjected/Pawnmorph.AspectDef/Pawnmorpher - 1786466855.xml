@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NaturalHunter.label>자연의 사냥꾼</NaturalHunter.label>
+  <NaturalHunter.description>{PAWN_nameDef}의 정신은 이제 본능적으로 사냥의 방법에 순응하고 있습니다.</NaturalHunter.description>
+  <PrimalWish.label>원시적인 소원</PrimalWish.label>
+  <PrimalWish.description>[PAWN_nameDef]은(는) 소박한 삶을 원합니다. 매우 간단하고, 몇몇 사람은 그것이 인간보다 동물에게 더 적합하다고 말할지도 모릅니다다. 실제로 [PAWN_nameDef]은(는) 동물을 부러워하며, 인간보다는 동물이 되기를 원합니다.</PrimalWish.description>
+  <Beastmaster.label>비스트마스터</Beastmaster.label>
+  <Beastmaster.description>[PAWN_nameDef]은(는) 한때 사람이었던 동물들과 함께 있는 것을 좋아하며, 그들 주변에 있는 것에 더 편안함을 느낍니다.</Beastmaster.description>
+  <HerdMind.label>군중 심리</HerdMind.label>
+  <HerdMind.stages.0.description>난 혼자야. 혼자 있는 건 안전하지 않아.</HerdMind.stages.0.description>
+  <HerdMind.stages.1.description>나 같은 사람이 또 있지만 우리는 아직 작은 무리일 뿐이야.</HerdMind.stages.1.description>
+  <HerdMind.stages.2.description>많은 사람이 있어서 안심돼.</HerdMind.stages.2.description>
+  <HerdMind.stages.3.description>내 무리에는 많은 사람들이 있어, 두려워할 건 없어!</HerdMind.stages.3.description>
+  <CanidMind.label>패거리 심리</CanidMind.label>
+  <CanidMind.stages.0.description>난 혼자야. 적당한 패거리를 가질 수 있으면 좋겠어.</CanidMind.stages.0.description>
+  <CanidMind.stages.1.description>나 같은 사람이 또 있지만 우리는 아직 작은 패거리에 지나지 않아.</CanidMind.stages.1.description>
+  <CanidMind.stages.2.description>우리 패거리에는 많은 사람들이 있기 떄문에 우리 패거리는 강력해!</CanidMind.stages.2.description>
+  <CanidMind.stages.3.description>내 패거리에는 많은 사람들이 있어, 이건 굉장해!</CanidMind.stages.3.description>
+  <EtherState.stages.0.label>정신 붕괴</EtherState.stages.0.label>
+  <EtherState.stages.0.description>지속적인 생산으로 {PAWN_nameDef}은(는) 무감각해져서 그(그녀)의 운명에 복종하게 되었습니다.</EtherState.stages.0.description>
+  <EtherState.stages.1.label>정신 융합</EtherState.stages.1.label>
+  <EtherState.stages.1.description>지속적인 생산으로 인해 {PAWN_nameDef}은(는) 변화를 수용하게 되었고, 어떤 이유에서인지 지금은 생산을 즐기게 되었습니다.</EtherState.stages.1.description>
+  <MutagenInfused.stages.0.label>돌연변이 유발됨</MutagenInfused.stages.0.label>
+  <MutagenInfused.stages.0.description>이것은 매우 희소한 자원만 생산할 것이다.</MutagenInfused.stages.0.description>
+  <MutagenInfused.stages.1.label>돌연변이 중성화됨</MutagenInfused.stages.1.label>
+  <MutagenInfused.stages.1.description>아무런 희소한 자원도 생산하지 못할 것이다.</MutagenInfused.stages.1.description>
+  <MutagenInfused.stages.2.label>마름</MutagenInfused.stages.2.label>
+  <MutagenInfused.stages.2.description>{PAWN_nameDef}은(는) 더 이상 자원을 생산하지 않음</MutagenInfused.stages.2.description>
+  <AnimalAffinity.label>동물 친화력</AnimalAffinity.label>
+  <PlantAffinity.label>식물 친화력</PlantAffinity.label>
+  <RareMutant.label>희귀한 돌연변이</RareMutant.label>
+  <Paragon.label>귀감</Paragon.label>
+  <Paragon.description>{PAWN_nameDef}이(가) 새로운 변이에 빠르게 적응함.</Paragon.description>
+  <Afflicted.label>고통스러운</Afflicted.label>
+  <Afflicted.description>{PAWN_nameDef}은(는) 새로운 돌연변이에 적응하지 않을 뿐만 아니라 돌연변이가 때때로 더 나쁜 방향으로 저하됨</Afflicted.description>
+  <Productive.stages.0.label>생산적인</Productive.stages.0.label>
+  <Productive.stages.0.description>{PAWN_nameDef}의 생산 속도가 증가되었습니다. 이로 인해 그(그녀)는 점점 배가 고프게 되니, 반드시 먹이를 먹여야 합니다.</Productive.stages.0.description>
+  <Productive.stages.1.label>매우 생산적인</Productive.stages.1.label>
+  <Productive.stages.1.description>{PAWN_nameDef}의 생산량과 열량 섭취량이 더욱 증가했습니다. 그들의 몸이 더 이상의 생산적인 증진을 감당하지 못할 수도 있으니 조심해야 합니다.</Productive.stages.1.description>
+  <Productive.stages.2.label>생산적인 행복</Productive.stages.2.label>
+  <Productive.stages.2.description>{PAWN_nameDef}의 생산적 돌연변이는 최대 생산 속도를 달성했습니다. 끊임없는 생산으로 몸과 마음이 약해졌고, 그 결과 때때로 정신 붕괴에 빠질 수도 있습니다.</Productive.stages.2.description>
+
+</LanguageData>

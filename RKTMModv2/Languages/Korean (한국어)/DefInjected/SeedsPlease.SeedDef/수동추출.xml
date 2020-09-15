@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SeedsPlease - 935732834_2019-1217 -->
+  <SeedPlantBlazebulb.label>화약초 씨앗</SeedPlantBlazebulb.label>
+  <SeedPlantBlazebulb.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</SeedPlantBlazebulb.description>
+  <Seed_Soybean.label>콩 씨앗</Seed_Soybean.label>
+  <Seed_Soybean.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Soybean.description>
+  <Seed_Quinoa.label>퀴노아 씨앗</Seed_Quinoa.label>
+  <Seed_Quinoa.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Quinoa.description>
+  <Seed_Grapes.label>포도 씨앗</Seed_Grapes.label>
+  <Seed_Grapes.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Grapes.description>
+  <Seed_Wheat.label>밀 씨앗</Seed_Wheat.label>
+  <Seed_Wheat.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Wheat.description>
+  <Seed_Oats.label>귀리 씨앗</Seed_Oats.label>
+  <Seed_Oats.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Oats.description>
+  <Seed_Barley.label>보리 씨앗</Seed_Barley.label>
+  <Seed_Barley.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Barley.description>
+  <Seed_Ain.label>아인 씨앗</Seed_Ain.label>
+  <Seed_Ain.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Ain.description>
+  <Seed_Orange.label>오렌지 씨앗</Seed_Orange.label>
+  <Seed_Orange.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Orange.description>
+  <Seed_Fig.label>무화과 씨앗</Seed_Fig.label>
+  <Seed_Fig.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Fig.description>
+  <Seed_Pomegranate.label>석류 씨앗</Seed_Pomegranate.label>
+  <Seed_Pomegranate.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Pomegranate.description>
+  <Seed_Apple.label>사과 씨앗</Seed_Apple.label>
+  <Seed_Apple.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Apple.description>
+  <Seed_Sugarmaple.label>설탕단풍나무 씨앗</Seed_Sugarmaple.label>
+  <Seed_Sugarmaple.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Sugarmaple.description>
+  <Seed_Onion.label>양파 씨앗</Seed_Onion.label>
+  <Seed_Onion.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Onion.description>
+  <Seed_Tomato.label>토마토 씨앗</Seed_Tomato.label>
+  <Seed_Tomato.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Tomato.description>
+  <Seed_Chickpeas.label>병아리콩 씨앗</Seed_Chickpeas.label>
+  <Seed_Chickpeas.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Chickpeas.description>
+  <Seed_Sugarcane.label>사탕수수 씨앗</Seed_Sugarcane.label>
+  <Seed_Sugarcane.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Sugarcane.description>
+  <Seed_Dreamflower.label>꿈꽃 씨앗</Seed_Dreamflower.label>
+  <Seed_Dreamflower.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Dreamflower.description>
+  <Seed_Coffee.label>커피 씨앗</Seed_Coffee.label>
+  <Seed_Coffee.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Coffee.description>
+  <Seed_Tea.label>찻잎 씨앗</Seed_Tea.label>
+  <Seed_Tea.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Tea.description>
+  <Seed_Tobacco.label>담뱃잎 씨앗</Seed_Tobacco.label>
+  <Seed_Tobacco.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Tobacco.description>
+  <Seed_Bee.label>벌집이 자리잡은 나무 씨앗</Seed_Bee.label>
+  <Seed_Bee.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Bee.description>
+  <Seed_ChiliPepperBush.label>고추 씨앗</Seed_ChiliPepperBush.label>
+  <Seed_ChiliPepperBush.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_ChiliPepperBush.description>
+  <Seed_Grapevine.label>포도 씨앗</Seed_Grapevine.label>
+  <Seed_Grapevine.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Grapevine.description>
+  <Seed_PricklyPearCactus.label>부채 선인장 씨앗</Seed_PricklyPearCactus.label>
+  <Seed_PricklyPearCactus.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_PricklyPearCactus.description>
+  <Seed_JuniperBush.label>노간주 씨앗</Seed_JuniperBush.label>
+  <Seed_JuniperBush.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_JuniperBush.description>
+  <Seed_Pineapple.label>파인애플 씨앗</Seed_Pineapple.label>
+  <Seed_Pineapple.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Pineapple.description>
+  <Seed_Oat.label>귀리 씨앗</Seed_Oat.label>
+  <Seed_Oat.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Oat.description>
+  <Seed_Chickpea.label>병아리콩 씨앗</Seed_Chickpea.label>
+  <Seed_Chickpea.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Chickpea.description>
+  <Seed_Cabbage.label>양배추 씨앗</Seed_Cabbage.label>
+  <Seed_Cabbage.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Cabbage.description>
+  <Seed_Carrot.label>당근 씨앗</Seed_Carrot.label>
+  <Seed_Carrot.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Carrot.description>
+  <Seed_Beetroots.label>비트루트 씨앗</Seed_Beetroots.label>
+  <Seed_Beetroots.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Beetroots.description>
+  <Seed_SnapPea.label>완두콩 씨앗</Seed_SnapPea.label>
+  <Seed_SnapPea.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_SnapPea.description>
+  <Seed_CucumberVine.label>오이 씨앗</Seed_CucumberVine.label>
+  <Seed_CucumberVine.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_CucumberVine.description>
+  <Seed_SugarBeet.label>사탕무 씨앗</Seed_SugarBeet.label>
+  <Seed_SugarBeet.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_SugarBeet.description>
+  <Seed_CoffeeBush.label>커피 씨앗</Seed_CoffeeBush.label>
+  <Seed_CoffeeBush.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_CoffeeBush.description>
+  <Seed_TeaBush.label>찻잎 씨앗</Seed_TeaBush.label>
+  <Seed_TeaBush.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_TeaBush.description>
+  <Seed_MelonVine.label>멜론 씨앗</Seed_MelonVine.label>
+  <Seed_MelonVine.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_MelonVine.description>
+  <Seed_CitrusTree.label>오렌지나무 씨앗</Seed_CitrusTree.label>
+  <Seed_CitrusTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_CitrusTree.description>
+  <Seed_AppleTree.label>사과나무 씨앗</Seed_AppleTree.label>
+  <Seed_AppleTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_AppleTree.description>
+  <Seed_PlumTree.label>자두나무 씨앗</Seed_PlumTree.label>
+  <Seed_PlumTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_PlumTree.description>
+  <Seed_PeachTree.label>복숭아나무 씨앗</Seed_PeachTree.label>
+  <Seed_PeachTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_PeachTree.description>
+  <Seed_FigTree.label>무화과나무 씨앗</Seed_FigTree.label>
+  <Seed_FigTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_FigTree.description>
+  <Seed_PomegranateTree.label>석류나무 씨앗</Seed_PomegranateTree.label>
+  <Seed_PomegranateTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_PomegranateTree.description>
+  <Seed_BananaTree.label>바나나나무 씨앗</Seed_BananaTree.label>
+  <Seed_BananaTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_BananaTree.description>
+  <Seed_CoconutTree.label>코코넛나무 씨앗</Seed_CoconutTree.label>
+  <Seed_CoconutTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_CoconutTree.description>
+  <Seed_BreadfruitTree.label>빵나무 씨앗</Seed_BreadfruitTree.label>
+  <Seed_BreadfruitTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_BreadfruitTree.description>
+  <Seed_PecanTree.label>피칸나무 씨앗</Seed_PecanTree.label>
+  <Seed_PecanTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_PecanTree.description>
+  <Seed_CocoaTree.label>코코아나무 씨앗</Seed_CocoaTree.label>
+  <Seed_CocoaTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_CocoaTree.description>
+  <Seed_SugarMapleTree.label>설탕단풍나무 씨앗</Seed_SugarMapleTree.label>
+  <Seed_SugarMapleTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_SugarMapleTree.description>
+  <Seed_DurianTree.label>두리안 씨앗</Seed_DurianTree.label>
+  <Seed_DurianTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_DurianTree.description>
+  <Seed_CherryTree.label>체리나무 씨앗</Seed_CherryTree.label>
+  <Seed_CherryTree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_CherryTree.description>
+  <Seed_Sorghum.label>수수 씨앗</Seed_Sorghum.label>
+  <Seed_Sorghum.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Sorghum.description>
+  <Seed_Yam.label>마 씨앗</Seed_Yam.label>
+  <Seed_Yam.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Yam.description>
+  <Seed_AsparagusShoots.label>아라파라거스 씨앗</Seed_AsparagusShoots.label>
+  <Seed_AsparagusShoots.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_AsparagusShoots.description>
+  <Seed_CommonMushrooms.label>버섯 씨앗</Seed_CommonMushrooms.label>
+  <Seed_CommonMushrooms.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_CommonMushrooms.description>
+  <Seed_Eggplant.label>가지 씨앗</Seed_Eggplant.label>
+  <Seed_Eggplant.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Eggplant.description>
+  <Seed_Agave.label>용설란 씨앗</Seed_Agave.label>
+  <Seed_Agave.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Agave.description>
+  <Seed_PumpkinVine.label>호박 씨앗</Seed_PumpkinVine.label>
+  <Seed_PumpkinVine.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_PumpkinVine.description>
+  <Seed_SugarcaneReeds.label>사탕수수 씨앗</Seed_SugarcaneReeds.label>
+  <Seed_SugarcaneReeds.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_SugarcaneReeds.description>
+  <Seed_Shrooms.label>환각버섯 씨앗</Seed_Shrooms.label>
+  <Seed_Shrooms.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Shrooms.description>
+  <Seed_Frassroot.label>새서프레스 씨앗</Seed_Frassroot.label>
+  <Seed_Frassroot.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Frassroot.description>
+  <Seed_CoffeeArabica.label>커피 관목 씨앗</Seed_CoffeeArabica.label>
+  <Seed_CoffeeArabica.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_CoffeeArabica.description>
+  <SeedPlantSoybean.label>콩 씨앗</SeedPlantSoybean.label>
+  <SeedPlantSoybean.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</SeedPlantSoybean.description>
+  <Seed_Nightmare.label>악몽 씨앗</Seed_Nightmare.label>
+  <Seed_Nightmare.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Nightmare.description>
+  <SeedsPlease.label>담뱃잎 씨앗</SeedsPlease.label>
+  <SeedsPlease.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</SeedsPlease.description>
+  <Seed_Ocotillo.label>오코틸로 씨앗</Seed_Ocotillo.label>
+  <Seed_Ocotillo.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Ocotillo.description>
+  <Seed_Baobab.label>바오밥 씨앗</Seed_Baobab.label>
+  <Seed_Baobab.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Baobab.description>
+  <Seed_TKKN_Acacia.label>아카시아 씨앗</Seed_TKKN_Acacia.label>
+  <Seed_TKKN_Acacia.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_TKKN_Acacia.description>
+  <Seed_Gum.label>고무나무 씨앗</Seed_Gum.label>
+  <Seed_Gum.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Gum.description>
+  <Seed_Redwood.label>세쿼이아 씨앗</Seed_Redwood.label>
+  <Seed_Redwood.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Redwood.description>
+  <Seed_Hazelnut.label>개암 씨앗</Seed_Hazelnut.label>
+  <Seed_Hazelnut.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Hazelnut.description>
+  <Seed_Redwooddead.label>죽은 세쿼이아 씨앗</Seed_Redwooddead.label>
+  <Seed_Redwooddead.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Redwooddead.description>
+  <Seed_Syrblueberry.label>시르블루베리 씨앗</Seed_Syrblueberry.label>
+  <Seed_Syrblueberry.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Syrblueberry.description>
+  <Seed_Syrcoffee.label>시르커피 씨앗</Seed_Syrcoffee.label>
+  <Seed_Syrcoffee.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Syrcoffee.description>
+  <Seed_Syrtea.label>시르티 씨앗</Seed_Syrtea.label>
+  <Seed_Syrtea.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Syrtea.description>
+  <Seed_Lettuce.label>상추 씨앗</Seed_Lettuce.label>
+  <Seed_Lettuce.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Lettuce.description>
+  <Seed_Pomanasyrrium.label>포마나실리움 씨앗</Seed_Pomanasyrrium.label>
+  <Seed_Pomanasyrrium.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Pomanasyrrium.description>
+  <Seed_Paracyte.label>기생충 씨앗</Seed_Paracyte.label>
+  <Seed_Paracyte.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Paracyte.description>
+  <Seed_Synthmeat.label>인조고기 씨앗</Seed_Synthmeat.label>
+  <Seed_Synthmeat.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Synthmeat.description>
+  <Seed_RxSparkweed.label>불꽃풀 씨앗</Seed_RxSparkweed.label>
+  <Seed_RxSparkweed.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_RxSparkweed.description>
+  <Seed_Ambrosia.label>암브로시아 씨앗</Seed_Ambrosia.label>
+  <Seed_Ambrosia.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Ambrosia.description>
+  <Seed_Neutroflower.label>뉴트로꽃 씨앗</Seed_Neutroflower.label>
+  <Seed_Neutroflower.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Neutroflower.description>
+  <Seed_Steelleaf.label>강철버섯 씨앗</Seed_Steelleaf.label>
+  <Seed_Steelleaf.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Steelleaf.description>
+  <Seed_Plasteelleaf.label>플라스틸 알뿌리 씨앗</Seed_Plasteelleaf.label>
+  <Seed_Plasteelleaf.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Plasteelleaf.description>
+  <Seed_Goldleaf.label>금 고사리 씨앗</Seed_Goldleaf.label>
+  <Seed_Goldleaf.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Goldleaf.description>
+  <Seed_Jadeleaf.label>비취결정 씨앗</Seed_Jadeleaf.label>
+  <Seed_Jadeleaf.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Jadeleaf.description>
+  <Seed_Silverleaf.label>은 꽃잎 씨앗</Seed_Silverleaf.label>
+  <Seed_Silverleaf.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Silverleaf.description>
+  <Seed_Uraniumleaf.label>우라늄 알뿌리 씨앗</Seed_Uraniumleaf.label>
+  <Seed_Uraniumleaf.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Uraniumleaf.description>
+  <Seed_Pumpkin.label>호박 씨앗</Seed_Pumpkin.label>
+  <Seed_Pumpkin.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Pumpkin.description>
+  <Seed_Squash.label>스쿼시 씨앗</Seed_Squash.label>
+  <Seed_Squash.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Squash.description>
+  <Seed_Kiwi.label>키위 씨앗</Seed_Kiwi.label>
+  <Seed_Kiwi.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Kiwi.description>
+  <Seed_Mango.label>망고 씨앗</Seed_Mango.label>
+  <Seed_Mango.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Mango.description>
+  <Seed_Agarilux.label>대형 발광버섯 씨앗</Seed_Agarilux.label>
+  <Seed_Agarilux.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Agarilux.description>
+  <Seed_Banana.label>바나나 씨앗</Seed_Banana.label>
+  <Seed_Banana.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Banana.description>
+  <Seed_Peach.label>복숭아 씨앗</Seed_Peach.label>
+  <Seed_Peach.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Peach.description>
+  <Seed_Date.label>대추야자 씨앗</Seed_Date.label>
+  <Seed_Date.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Date.description>
+  <Seed_Coconut.label>코코넛 씨앗</Seed_Coconut.label>
+  <Seed_Coconut.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Coconut.description>
+  <Seed_Cherry.label>체리 씨앗</Seed_Cherry.label>
+  <Seed_Cherry.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Cherry.description>
+  <Seed_Cloudberry.label>클라우드베리 씨앗</Seed_Cloudberry.label>
+  <Seed_Cloudberry.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Cloudberry.description>
+  <Seed_Gooseberry.label>구스베리 씨앗</Seed_Gooseberry.label>
+  <Seed_Gooseberry.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Gooseberry.description>
+  <Seed_Grape.label>포도 씨앗</Seed_Grape.label>
+  <Seed_Grape.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Grape.description>
+  <Seed_Blueberry.label>블루베리 씨앗</Seed_Blueberry.label>
+  <Seed_Blueberry.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Blueberry.description>
+  <Seed_Watermelon.label>수박 씨앗</Seed_Watermelon.label>
+  <Seed_Watermelon.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Watermelon.description>
+  <Seed_Snowbeet.label>사탕무 씨앗</Seed_Snowbeet.label>
+  <Seed_Snowbeet.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Snowbeet.description>
+  <Seed_Redlentil.label>렌틸콩 씨앗</Seed_Redlentil.label>
+  <Seed_Redlentil.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Redlentil.description>
+  <Seed_Bean.label>콩 씨앗</Seed_Bean.label>
+  <Seed_Bean.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Bean.description>
+  <Seed_Olive.label>올리브 씨앗</Seed_Olive.label>
+  <Seed_Olive.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Olive.description>
+  <Seed_Bamboo.label>대나무 씨앗</Seed_Bamboo.label>
+  <Seed_Bamboo.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Bamboo.description>
+  <Seed_Cocoa.label>코코아 씨앗</Seed_Cocoa.label>
+  <Seed_Cocoa.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Cocoa.description>
+  <Seed_Mushroom.label>버섯 씨앗</Seed_Mushroom.label>
+  <Seed_Mushroom.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Mushroom.description>
+  <Seed_Ironwood.label>철목 씨앗</Seed_Ironwood.label>
+  <Seed_Ironwood.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Ironwood.description>
+  <Seed_PincushionCactus.label>바늘꽂이 선인장 씨앗</Seed_PincushionCactus.label>
+  <Seed_PincushionCactus.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_PincushionCactus.description>
+  <Seed_Japanesemaple.label>일본단풍 씨앗</Seed_Japanesemaple.label>
+  <Seed_Japanesemaple.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Japanesemaple.description>
+  <Seed_Cherryblossom.label>벚꽃나무 씨앗</Seed_Cherryblossom.label>
+  <Seed_Cherryblossom.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Cherryblossom.description>
+  <Seed_Camellia.label>동백나무 씨앗</Seed_Camellia.label>
+  <Seed_Camellia.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Camellia.description>
+  <Seed_Acacia.label>아카시아 씨앗</Seed_Acacia.label>
+  <Seed_Acacia.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Acacia.description>
+  <Seed_Redmaple.label>붉은단풍 씨앗</Seed_Redmaple.label>
+  <Seed_Redmaple.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</Seed_Redmaple.description>
+  <SeedArtiveg.label>아르베지 씨앗</SeedArtiveg.label>
+  <SeedArtiveg.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</SeedArtiveg.description>
+  <SeedDuraveg.label>두라베지 씨앗</SeedDuraveg.label>
+  <SeedDuraveg.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</SeedDuraveg.description>
+  <SeedBranchvine.label>가시덩굴 씨앗</SeedBranchvine.label>
+  <SeedBranchvine.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</SeedBranchvine.description>
+  <SeedRocketree.label>로켓나무 씨앗</SeedRocketree.label>
+  <SeedRocketree.description>여러 세대에 걸쳐 광범위한 외계환경에서 번성할 수 있는 유전자 변형 씨앗입니다.</SeedRocketree.description>
+
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
+  <OGI_Ability_FireFlamer.label>플레이머 발사</OGI_Ability_FireFlamer.label>
+  <OGI_Ability_FireFlamer.description>내장된 플레이머를 발사합니다.</OGI_Ability_FireFlamer.description>
+  <OGI_Ability_FireMelta.label>멜타 발사</OGI_Ability_FireMelta.label>
+  <OGI_Ability_FireMelta.description>내장된 멜타를 발사합니다.</OGI_Ability_FireMelta.description>
+  <OGI_Ability_FirePlasma.label>플라즈마 발사</OGI_Ability_FirePlasma.label>
+  <OGI_Ability_FirePlasma.description>내장된 플라즈마건을 발사합니다.</OGI_Ability_FirePlasma.description>
+  <OGI_Ability_FirePlasma.MainVerb.label>표준</OGI_Ability_FirePlasma.MainVerb.label>
+  <OGI_Ability_ThrowFrag.label>프라그 수류탄 던지기</OGI_Ability_ThrowFrag.label>
+  <OGI_Ability_ThrowFrag.description>프라그 수류탄을 던집니다.</OGI_Ability_ThrowFrag.description>
+  <OGI_Ability_ThrowKrak.label>크랙 수류탄 던지기</OGI_Ability_ThrowKrak.label>
+  <OGI_Ability_ThrowKrak.description>크랙 수류탄을 던집니다.</OGI_Ability_ThrowKrak.description>
+  <OGI_Ability_ThrowMelta.label>멜타 폭탄 던지기</OGI_Ability_ThrowMelta.label>
+  <OGI_Ability_ThrowMelta.description>멜타 폭탄을 던집니다.</OGI_Ability_ThrowMelta.description>
+  <OGT_Ability_ThrowPhoton.label>광자 수류탄 던지기</OGT_Ability_ThrowPhoton.label>
+  <OGT_Ability_ThrowPhoton.description>광자 수류탄을 던집니다.</OGT_Ability_ThrowPhoton.description>
+  <OGT_Ability_LaunchPhoton.label>광자 수류탄 발사하기</OGT_Ability_LaunchPhoton.label>
+  <OGT_Ability_LaunchPhoton.description>광자 수류탄을 발사합니다.</OGT_Ability_LaunchPhoton.description>
+  <OGT_Ability_ThrowEMP.label>EMP 수류탄 던지기</OGT_Ability_ThrowEMP.label>
+  <OGT_Ability_ThrowEMP.description>EMP 수류탄을 던집니다.</OGT_Ability_ThrowEMP.description>
+  <OGE_Ability_ThrowPlasma.label>플라즈마 수류탄 던지기</OGE_Ability_ThrowPlasma.label>
+  <OGE_Ability_ThrowPlasma.description>플라즈마 수류탄을 던집니다.</OGE_Ability_ThrowPlasma.description>
+  <OGE_Ability_ThrowHaywire.label>헤이와이어 수류탄 던지기</OGE_Ability_ThrowHaywire.label>
+  <OGE_Ability_ThrowHaywire.description>헤이와이어 수류탄을 던집니다.</OGE_Ability_ThrowHaywire.description>
+  <OGE_Ability_ThrowMelta.label>멜타 폭탄 던지기</OGE_Ability_ThrowMelta.label>
+  <OGE_Ability_ThrowMelta.description>멜타 폭탄을 던집니다.</OGE_Ability_ThrowMelta.description>
+  <OGE_Ability_ThrowHallucinogen.label>환각제 수류탄 던지기</OGE_Ability_ThrowHallucinogen.label>
+  <OGE_Ability_ThrowHallucinogen.description>환각제 수류탄을 던집니다.</OGE_Ability_ThrowHallucinogen.description>
+  <OGO_Ability_ThrowFrag.label>프라그 스틱보머 던지기</OGO_Ability_ThrowFrag.label>
+  <OGO_Ability_ThrowFrag.description>프라그 스틱보머를 던집니다.</OGO_Ability_ThrowFrag.description>
+  <OGO_Ability_ThrowKrak.label>크랙 스틱보머 던지기</OGO_Ability_ThrowKrak.label>
+  <OGO_Ability_ThrowKrak.description>크랙 스틱보머를 던집니다.</OGO_Ability_ThrowKrak.description>
+  <OGO_Ability_ThrowMelta.label>탱크버스터 폭탄 던지기</OGO_Ability_ThrowMelta.label>
+  <OGO_Ability_ThrowMelta.description>탱크버스터 폭탄을 던집니다.</OGO_Ability_ThrowMelta.description>
+  <OGI_Ability_FireBolter.label>볼터 발사</OGI_Ability_FireBolter.label>
+  <OGI_Ability_FireBolter.description>내장된 볼터를 발사합니다.</OGI_Ability_FireBolter.description>
+  <OGE_Ability_FireShuriken.label>슈리켄 캐터펄트 발사</OGE_Ability_FireShuriken.label>
+  <OGE_Ability_FireShuriken.description>내장된 슈리켄 캐터펄트를 발사합니다.</OGE_Ability_FireShuriken.description>
+  <OGE_Ability_ThrowSingingSpear.label>싱잉스피어 던지기</OGE_Ability_ThrowSingingSpear.label>
+  <OGE_Ability_ThrowSingingSpear.description>싱잉스피어를 던집니다.</OGE_Ability_ThrowSingingSpear.description>
+  <OGDE_Ability_FireSplinter.label>스플린터 라이플 발사</OGDE_Ability_FireSplinter.label>
+  <OGDE_Ability_FireSplinter.description>내장된 스플린터 라이플을 발사합니다.</OGDE_Ability_FireSplinter.description>
+
+</LanguageData>

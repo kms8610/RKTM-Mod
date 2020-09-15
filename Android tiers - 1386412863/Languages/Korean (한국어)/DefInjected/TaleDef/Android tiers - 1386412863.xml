@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidOverheating.label>안드로이드 과열</AndroidOverheating.label>
+  <AndroidOverheating.rulePack.rulesStrings>
+    <!-- tale_noun->[pawn_nameShortDef] becoming increasingly hot -->
+    <li>tale_noun->[pawn_nameShortDef](이)가 점점 뜨거워지고 있습니다</li>
+    <!-- tale_noun->[pawn_nameShortDef] overheating -->
+    <li>tale_noun->[pawn_nameShortDef] 과열</li>
+    <!-- image->[pawn_nameFull] trudging through sand [circumstance_group] -->
+    <li>image->[pawn_nameFull](은)는 [circumstance_group] 모래를 가로질러 갑니다. </li>
+    <!-- image->[pawn_nameFull] huddled in the shade of a [terrainfeature] [circumstance_group] -->
+    <li>image->[pawn_nameFull](은)는 [terrainfeature] [circumstance_group]의 그늘에 모여들었습니다.</li>
+    <!-- image->[pawn_nameFull] searching for help [circumstance_group] -->
+    <li>image->[pawn_nameFull](은)는 [circumstance_group] 도움을 구하고 있습니다.</li>
+    <!-- image->[pawn_nameFull] searching for shade [circumstance_group] -->
+    <li>image->[pawn_nameFull](은)는 [circumstance_group] 그림자를 찾고 있습니다.</li>
+    <!-- image->[pawn_nameFull] crawling across sun-baked dirt [circumstance_group] -->
+    <li>TODO</li>
+    <!-- circumstance_phrase->with their metal frame glowing hot -->
+    <li>TODO</li>
+    <!-- circumstance_phrase->and more and more of their mind frying by the second -->
+    <li>TODO</li>
+    <!-- circumstance_phrase->with burnt circuitry -->
+    <li>TODO</li>
+    <!-- circumstance_phrase->while malfunctioning -->
+    <li>TODO</li>
+    <!-- desc_sentence->[quantity_adjphrase] dessicated [animal] corpses surround the area. -->
+    <li>TODO</li>
+    <!-- desc_sentence->[pawn_nameShortDef]'s clothes are tattered and torn. -->
+    <li>TODO</li>
+    <!-- desc_sentence->A blazing sun looms in the background. -->
+    <li>TODO</li>
+    <!-- desc_sentence->The scene takes place inside a blazing desert. -->
+    <li>TODO</li>
+    <!-- desc_sentence->The scene appears to take place inside, next to a furnace. -->
+    <li>TODO</li>
+    <!-- desc_sentence->[quantity_adjphrase] unmoving [animal]s surround the scene. -->
+    <li>TODO</li>
+    <!-- desc_sentence->[quantity_adjphrase] dying [animal]s litter the ground. -->
+    <li>TODO</li>
+  </AndroidOverheating.rulePack.rulesStrings>
+  <AndroidFreezing.label>얼어붙은 안드로이드</AndroidFreezing.label>
+  <AndroidFreezing.rulePack.rulesStrings>
+    <!-- tale_noun->[pawn_nameShortDef] freezing up -->
+    <li>TODO</li>
+    <!-- tale_noun->[pawn_nameShortDef] freezing to a halt -->
+    <li>TODO</li>
+    <!-- image->[pawn_nameFull] trudging through snow [circumstance_group] -->
+    <li>TODO</li>
+    <!-- image->[pawn_nameFull] huddled beside a [terrainfeature] [circumstance_group] -->
+    <li>TODO</li>
+    <!-- image->[pawn_nameFull] searching for a warm [apparel] [circumstance_group] -->
+    <li>TODO</li>
+    <!-- image->[pawn_nameFull] crouching next to a fire [circumstance_group] -->
+    <li>TODO</li>
+    <!-- image->[pawn_nameFull] trying to light a fire [circumstance_group] -->
+    <li>TODO</li>
+    <!-- circumstance_phrase->while their mechanisms slowly sieze up -->
+    <li>TODO</li>
+    <!-- circumstance_phrase->and unable to focus -->
+    <li>TODO</li>
+    <!-- circumstance_phrase->while covered in frost -->
+    <li>TODO</li>
+    <!-- circumstance_phrase->while slowly losing focus -->
+    <li>TODO</li>
+    <!-- desc_sentence->[quantity_adjphrase] frozen [animal] corpses surround the area. -->
+    <li>TODO</li>
+    <!-- desc_sentence->[pawn_nameShortDef]'s clothes are tattered and worn. -->
+    <li>TODO</li>
+    <!-- desc_sentence->A cold blue moon looms in the background. -->
+    <li>TODO</li>
+    <!-- desc_sentence->The scene takes place inside a snow-covered [tree] forest. -->
+    <li>TODO</li>
+    <!-- desc_sentence->The scene appears to take place in a taiga biome. -->
+    <li>TODO</li>
+    <!-- desc_sentence->[quantity_adjphrase] shivering [animal]s surround the scene. -->
+    <li>TODO</li>
+    <!-- desc_sentence->[quantity_adjphrase] dying [animal]s litter the ground. -->
+    <li>TODO</li>
+  </AndroidFreezing.rulePack.rulesStrings>
+
+</LanguageData>

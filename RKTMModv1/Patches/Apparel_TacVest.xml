@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Rimsenal - Enhanced Vanilla Pack</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+	    <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "Apparel_TacVest"]/label</xpath>
+            <value>
+		      <label>전술 방탄복</label>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "Apparel_TacVest"]/description</xpath>
+            <value>
+		      <description>인체 공학적으로 설계된 전술 방탄복입니다. 착용자의 전투 효율성을 향상시킵니다.</description>
+	        </value>
+		</li>
+	  </operations>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Combat Extended</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+	    <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "Apparel_TacVest"]/label</xpath>
+            <value>
+		      <label>전술 조끼</label>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "Apparel_TacVest"]/description</xpath>
+            <value>
+		      <description>탄창 및 기타 장비를 보관할 수 있는 많은 파우치가 달린 장비.\n\n재장전 속도를 높여주고 허용부피가 증가합니다.</description>
+	        </value>
+		</li>
+	  </operations>
+    </match>
+  </Operation>
+
+</Patch>

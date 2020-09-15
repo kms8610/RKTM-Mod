@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RefreshViewers.label>시청자새로고침</RefreshViewers.label>
+  <RefreshViewers.command>시청자새로고침</RefreshViewers.command>
+  <KarmaRound.label>성향</KarmaRound.label>
+  <KarmaRound.command>성향</KarmaRound.command>
+  <GiveAllCoins.label>모든동전주기</GiveAllCoins.label>
+  <GiveAllCoins.command>모든동전주기</GiveAllCoins.command>
+  <GiveCoins.label>동전주기</GiveCoins.label>
+  <GiveCoins.command>동전주기</GiveCoins.command>
+  <CheckUser.label>유저확인</CheckUser.label>
+  <CheckUser.command>유저확인</CheckUser.command>
+  <SetKarma.label>성향설정</SetKarma.label>
+  <SetKarma.command>성향설정</SetKarma.command>
+  <ToggleCoins.label>동전전환</ToggleCoins.label>
+  <ToggleCoins.command>동전전환</ToggleCoins.command>
+  <CheckBalance.label>지갑확인</CheckBalance.label>
+  <CheckBalance.command>지갑확인</CheckBalance.command>
+  <WhatIsKarma.label>성향설명</WhatIsKarma.label>
+  <WhatIsKarma.command>성향설명</WhatIsKarma.command>
+  <PurchaseList.label>구매목록</PurchaseList.label>
+  <PurchaseList.command>구매목록</PurchaseList.command>
+  <GiftCoins.label>동전선물</GiftCoins.label>
+  <GiftCoins.command>동전선물</GiftCoins.command>
+  <JoinQueue.label>대기열참가</JoinQueue.label>
+  <JoinQueue.command>대기열참가</JoinQueue.command>
+  <ModInfo.label>모드정보</ModInfo.label>
+  <ModInfo.command>모드정보</ModInfo.command>
+  <Buy.label>구매</Buy.label>
+  <Buy.command>구매</Buy.command>
+  <LevelSkillShortcut.label>기술등급</LevelSkillShortcut.label>
+  <LevelSkillShortcut.command>기술등급</LevelSkillShortcut.command>
+  <ModSettings.label>모드설정</ModSettings.label>
+  <ModSettings.command>모드설정</ModSettings.command>
+  <Instructions.label>설명</Instructions.label>
+  <Instructions.command>설명</Instructions.command>
+  <AvailableCommands.label>모든명령어</AvailableCommands.label>
+  <AvailableCommands.command>모든명령어</AvailableCommands.command>
+  <InstalledMods.label>설치된모드</InstalledMods.label>
+  <InstalledMods.command>설치된모드</InstalledMods.command>
+
+</LanguageData>

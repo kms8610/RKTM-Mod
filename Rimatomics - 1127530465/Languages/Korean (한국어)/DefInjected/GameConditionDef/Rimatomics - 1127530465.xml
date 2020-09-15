@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RadioactiveFallout.label>멜트다운 낙진</RadioactiveFallout.label>
+  <RadioactiveFallout.description>노심 융용으로 인한 방사능 연기와 재가 공기 중으로 퍼져나아 주의 구역에 가라앉을 것입니다.</RadioactiveFallout.description>
+  <RadioactiveFallout.endMessage>최악의 방사능 먼지가 마침내 씻겨 나갔습니다.</RadioactiveFallout.endMessage>
+  <NuclearFallout.label>핵폭발 낙진</NuclearFallout.label>
+  <NuclearFallout.description>핵 폭발으로 인한 방사능 연기와 재가 공기 중으로 퍼져나아 주의 구역에 가라앉을 것입니다.</NuclearFallout.description>
+  <NuclearFallout.endMessage>최악의 방사능 먼지가 마침내 씻겨 나갔습니다.</NuclearFallout.endMessage>
+
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RoboticsChat.label>로봇공학에 대하여 대화함</RoboticsChat.label>
+  <RoboticsChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]와 로봇공학에 대해 [talkedabout].</li>
+    <li>talkedabout->의견을 나눔</li>
+    <li>talkedabout->의견을 교환함</li>
+    <li>talkedabout->아이디어를 교환함</li>
+    <li>talkedabout->관점을 공유함</li>
+    <li>talkedabout->신념을 공유함</li>
+    <li>talkedabout->토론함</li>
+    <li>talkedabout->진심으로 대화함</li>
+    <li>talkedabout->이야기함</li>
+    <li>talkedabout->진지하게 이야기함</li>
+    <li>talkedabout->말함</li>
+  </RoboticsChat.logRulesInitiator.rulesStrings>
+  <RoboticsChat2.label>안드로이드에 대하여 대화함</RoboticsChat2.label>
+  <RoboticsChat2.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]와 안드로이드의 미래에 대해 [talkedabout].</li>
+    <li>talkedabout->의견을 나눔</li>
+    <li>talkedabout->의견을 교환함</li>
+    <li>talkedabout->아이디어를 교환함</li>
+    <li>talkedabout->관점을 공유함</li>
+    <li>talkedabout->신념을 공유함</li>
+    <li>talkedabout->토론함</li>
+    <li>talkedabout->진심으로 대화함</li>
+    <li>talkedabout->이야기함</li>
+    <li>talkedabout->진지하게 이야기함</li>
+    <li>talkedabout->말함</li>
+  </RoboticsChat2.logRulesInitiator.rulesStrings>
+  <ATPP_SkyMindChat.label>스카이마인드에 대하여 대화함</ATPP_SkyMindChat.label>
+  <ATPP_SkyMindChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]와 스카이마인드와 스카이클라우드 코어를 통한 불멸에 대해 [talkedabout].</li>
+    <li>talkedabout->의견을 나눔</li>
+    <li>talkedabout->의견을 교환함</li>
+    <li>talkedabout->아이디어를 교환함</li>
+    <li>talkedabout->관점을 공유함</li>
+    <li>talkedabout->신념을 공유함</li>
+    <li>talkedabout->토론함</li>
+    <li>talkedabout->진심으로 대화함</li>
+    <li>talkedabout->이야기함</li>
+    <li>talkedabout->진지하게 이야기함</li>
+    <li>talkedabout->말함</li>
+  </ATPP_SkyMindChat.logRulesInitiator.rulesStrings>
+
+</LanguageData>

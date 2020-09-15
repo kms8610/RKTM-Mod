@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>[1.1] DE Surgeries Color</li>
+	  <li>[1.1] DE Surgeries</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+	    <li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryBurn"]/label</xpath>
+            <value>
+		      <label>&lt;color=#00CCFF>화상 치료&lt;/color> (2 의약품)</label>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryBurn"]/description</xpath>
+            <value>
+		      <description>화상을 치료합니다.</description>
+	        </value>
+		</li>
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryBurn"]/successfullyRemovedHediffMessage</xpath>
+            <value>
+		      <successfullyRemovedHediffMessage>{0}(이)가 {1}의 화상을 &lt;color=#00FF66>성공적&lt;/color>으로 치료했습니다.</successfullyRemovedHediffMessage>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryBurn"]/jobString</xpath>
+            <value>
+		      <jobString>화상 치료 중.</jobString>
+	        </value>
+		</li>
+	    <li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryCrush"]/label</xpath>
+            <value>
+		      <label>&lt;color=#00CCFF>으스러짐 치료&lt;/color> (2 의약품)</label>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryCrush"]/description</xpath>
+            <value>
+		      <description>으스러진 부위를 치료합니다.</description>
+	        </value>
+		</li>
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryCrush"]/successfullyRemovedHediffMessage</xpath>
+            <value>
+		      <successfullyRemovedHediffMessage>{0}(이)가 {1}의 으스러진 부위를 &lt;color=#00FF66>성공적&lt;/color>으로 치료했습니다.</successfullyRemovedHediffMessage>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryCrush"]/jobString</xpath>
+            <value>
+		      <jobString>으스러짐 치료 중.</jobString>
+	        </value>
+		</li>
+		
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryCrack"]/label</xpath>
+            <value>
+		      <label>&lt;color=#00CCFF>골절 치료&lt;/color> (2 의약품)</label>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryCrack"]/description</xpath>
+            <value>
+		      <description>골절 부위를 치료합니다.</description>
+	        </value>
+		</li>
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryCrack"]/successfullyRemovedHediffMessage</xpath>
+            <value>
+		      <successfullyRemovedHediffMessage>{0}(이)가 {1}의 골절  부위를 &lt;color=#00FF66>성공적&lt;/color>으로 치료했습니다.</successfullyRemovedHediffMessage>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryCrack"]/jobString</xpath>
+            <value>
+		      <jobString>골절 치료 중.</jobString>
+	        </value>
+		</li>
+	  </operations>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Rah's Bionics and Surgery Expansion</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+	    <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "CureInjuryBurn"]/label</xpath>
+            <value>
+		      <label>화상 흉터 치료</label>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "CureInjuryBurn"]/description</xpath>
+            <value>
+		      <description>화상을 치료합니다.</description>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryBurn"]/jobString</xpath>
+            <value>
+		      <jobString>화상 치료 중.</jobString>
+	        </value>
+		</li>
+		
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryCrush"]/label</xpath>
+            <value>
+		      <label>골절 치료</label>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryCrush"]/description</xpath>
+            <value>
+		      <description>골절을 치료합니다.</description>
+	        </value>
+		</li>
+		<li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName = "CureInjuryCrush"]/jobString</xpath>
+            <value>
+		      <jobString>골절 치료 중.</jobString>
+	        </value>
+		</li>
+	  </operations>
+    </match>
+  </Operation>
+
+</Patch>

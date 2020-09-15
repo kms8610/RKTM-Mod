@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CoreBlast.label>코어 폭발</CoreBlast.label>
+  <CoreBlast.deathMessage>{0}(은)는 코어 폭발로 인해 사망함.</CoreBlast.deathMessage>
+  <ArcDischarge.label>아크 방전</ArcDischarge.label>
+  <LaserDischarge.label>레이저 방전</LaserDischarge.label>
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Plant_AQSpirulina.label>스피룰리나</Plant_AQSpirulina.label>
+  <Plant_AQSpirulina.description>스피룰리나는 해초와 같은 조류의 일종으로 호수, 강 그리고 연못과 같은 담수 환경에서 자랍니다. 수경재배기로 재배할 수 있습니다.</Plant_AQSpirulina.description>
+  <AQFishBowl.label>어항</AQFishBowl.label>
+  <AQFishBowl.description>애완용 물고기를 키울 수 있는 물이 담긴 유리 통입니다.</AQFishBowl.description>
+  <AQFishTank.label>수조</AQFishTank.label>
+  <AQFishTank.description>애완용 물고기를 키울 수 있는 물과 장식이 있는 대형 유리 탱크입니다.</AQFishTank.description>
+  <AQCollagen.label>콜라겐</AQCollagen.label>
+  <AQCollagen.description>콜라겐은 신체의 다양한 결합 조직에서 세포 외 매트릭스의 주요 구조 단백질입니다. 결합 조직의 주요 구성 요소로서 포유동물을 구성하는 단백질의 가장 많은 부분을 차지하는 것으로 전체 단백질 함량의 25~35%를 차지합니다. 그것은 주로 힘줄, 인대 및 피부와 같은 섬유 조직에서 발견됩니다.</AQCollagen.description>
+  <AQFishMeat.label>애완용 물고기 고기</AQFishMeat.label>
+  <AQFishMeat.description>애완용 물고기의 시체에서 나온 고기입니다. 영양가가 거의 없으며 먹기에도 좋지 않습니다.</AQFishMeat.description>
+  <AQGelatin.label>젤라틴</AQGelatin.label>
+  <AQGelatin.description>젤라틴(라틴어로 "뻣뻣한" 혹은 "동결된"을 뜻하는 겔라투스에서 옴)은 동물의 신체에서 추출한 콜라겐으로 만드는 반투명한 무색 무미의 음식재료입니다. 젤라틴은 건조할 때 깨지기 쉽고 습할 때 끈적합니다. 식품 고형제로 흔히 쓰입니다.</AQGelatin.description>
+  <AQSpirulina.label>스피룰리나</AQSpirulina.label>
+  <AQSpirulina.description>스피룰리나는 사람과 동물이 섭취할 수 있는 시아노박테리아(해조류/푸른 녹조류)로 이루어진 생물 유기체입니다. 양식업, 수족관, 양계업에서 사료 보충제로 사용됩니다.</AQSpirulina.description>
+  <AQFishFood.label>물고기 사료</AQFishFood.label>
+  <AQFishFood.description>물고기 사료입니다. 사람도 먹을 수는 있지만 정말 싫어할 것입니다.</AQFishFood.description>
+  <AQFishInBagOne.label>쏠배감팽</AQFishInBagOne.label>
+  <AQFishInBagOne.description>"프테로이스"는 독을 가진 해양 물고기 종으로서, 흔히 "쏠배감펭"으로 알려졌습니다. 또한 "지브라피쉬", "파이어피쉬", "터키피쉬", "테이스티피쉬" 혹은 "버터플라이-코드"로도 불립니다. 이 물고기는 붉은색, 흰색, 크림색 또는 검은색의 띠로 이루어진 경고색상, 화려한 가슴지느러미 그리고 독이 있는 뾰족한 등 지느러미가 특징입니다.</AQFishInBagOne.description>
+  <AQFishInBagTwo.label>금붕어</AQFishInBagTwo.label>
+  <AQFishInBagTwo.description>금붕어(카라시우스 아우라투스)는 잉엇과에 속하며 같은 과의 물고기보다 상대적으로 작은 민물고기입니다. 매우 흔히 키워지는 애완용 물고기 중 하나입니다.</AQFishInBagTwo.description>
+  <AQFishInBagThree.label>베타 물고기 (초록색)</AQFishInBagThree.label>
+  <AQFishInBagThree.description>베타라고도 알려진 샴 파이팅 피쉬(벳타 스플렌덴스) 는 수족관에서 매우 활발하게 거래되는 물고기입니다. 베타는 구라미과에 속하며 영역본능이 강합니다.</AQFishInBagThree.description>
+  <AQFishInBagFour.label>베타 물고기 (빨간색)</AQFishInBagFour.label>
+  <AQFishInBagFour.description>베타라고도 알려진 샴 파이팅 피쉬(벳타 스플렌덴스) 는 수족관에서 매우 활발하게 거래되는 물고기입니다. 베타는 구라미과에 속하며 영역본능이 강합니다.</AQFishInBagFour.description>
+  <AQFishInBagFive.label>스네이크스킨 바브</AQFishInBagFive.label>
+  <AQFishInBagFive.description>"데스모푼치우스 롬보오셀라투스"는 잉엇과 물고기의 일종 입니다. 이 특이한 롬보오셀라투스는 옆구리에 마름모꼴의 눈알무늬가 새겨져 있는데, 이는 가끔 "스네이크스킨 바브"라는 통칭이 생기게 합니다.</AQFishInBagFive.description>
+  <AQFishInBagSix.label>레몬 시클리드</AQFishInBagSix.label>
+  <AQFishInBagSix.description>"네올람프롤로구스 렐레우피(레몬 시클리드)"는 탕가니카 호수 전체에 서식하는 토착 시클리드 종입니다. 이 종은 바위에 생긴 틈이나 균열에서 주로 휴식을 취합니다.</AQFishInBagSix.description>
+  <AQFishInBagSeven.label>베타 물고기 (파란색)</AQFishInBagSeven.label>
+  <AQFishInBagSeven.description>베타라고도 알려진 샴 파이팅 피쉬(벳타 스플렌덴스) 는 수족관에서 매우 활발하게 거래되는 물고기입니다. 베타는 구라미과에 속하며 영역본능이 강합니다.</AQFishInBagSeven.description>
+  <AQGlassBowl.label>유리 어항</AQGlassBowl.label>
+  <AQGlassBowl.description>열대어를 키울 수 있는 유리 통입니다.</AQGlassBowl.description>
+  <AQGlassPanel.label>유리 어항 패널</AQGlassPanel.label>
+  <AQGlassPanel.description>수조를 만들 때 쓰이는 유리 어항 패널입니다.</AQGlassPanel.description>
+
+</LanguageData>

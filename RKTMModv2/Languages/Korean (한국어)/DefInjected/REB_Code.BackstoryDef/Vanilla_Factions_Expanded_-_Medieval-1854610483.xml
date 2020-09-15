@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEMA001.title>중세 상인</VFEMA001.title>
+  <VFEMA001.titleShort>상인</VFEMA001.titleShort>
+  <VFEMA001.baseDesc>[PAWN_nameDef]는 중세의 세계를 두루 여행하며 많은 상품을 팔아서 [PAWN_pronoun]의 몫을 얻었습니다.\n[PAWN_pronoun]의 생활방식은 신체적으로 좋은 상태였지만, 정신적으로는 좋지 않았습니다.</VFEMA001.baseDesc>
+  <VFEMA002.title>중세 전령</VFEMA002.title>
+  <VFEMA002.titleShort>전령</VFEMA002.titleShort>
+  <VFEMA002.baseDesc>[PAWN_nameDef]는 중세 왕국의 전령으로서, 왕국을 여행하며 [PAWN_pronoun]의 왕이 필요로 하는 곳이면 어디든지 발행한 최신 법령을 발표하는 한편, 자신을 위해 중세 전쟁 기술을 훈련 받기도 했습니다. \n또, [PAWN_pronoun]는 여행을 하는 동안 자신에게 방랑벽이 있음을 깨달았습니다.\n</VFEMA002.baseDesc>
+  <VFEMA003.title>중세 성기사</VFEMA003.title>
+  <VFEMA003.titleShort>성기사</VFEMA003.titleShort>
+  <VFEMA003.baseDesc>[PAWN_nameDef](은)는 신화 속의 왕 바서(Barthur)와 함께 육각형의 탁자에 임명되는 기사였습니다. [PAWN_pronoun]는 전장에서 쓰러지고 시간이 흘러, 다른 행성에서 깨어 났을 때 [PAWN_possessive] 동료와 왕의 행적을 잃었습니다</VFEMA003.baseDesc>
+  <VFEMA004.title>방탕 기사</VFEMA004.title>
+  <VFEMA004.titleShort>기사</VFEMA004.titleShort>
+  <VFEMA004.baseDesc>[PAWN_nameDef](은)는 고귀한 기사의 혈통으로부터 태어났으며, 이러한 유산을 계속 이어갈 것으로 기대되었습니다. 그러나 [PAWN_nameDef](은)는 기사 작위를 받았음에도 불구하고 항상 휴식과 취미에 더 많은 관심을 보였습니다.\n</VFEMA004.baseDesc>
+  <VFEMA005.title>파계승</VFEMA005.title>
+  <VFEMA005.titleShort>수도승</VFEMA005.titleShort>
+  <VFEMA005.baseDesc>[PAWN_nameDef](은)는 [PAWN_possessive] 수도원으로부터 최고급 포도주를 생산하는 담당을 맡은 승려였습니다. 그러나 수도원의 서약에도 불구하고, [PAWN_nameDef](은)는 자주 술자리를 가졌습니다.\n</VFEMA005.baseDesc>
+  <VFEMA006.title>길드 장인</VFEMA006.title>
+  <VFEMA006.titleShort>장인</VFEMA006.titleShort>
+  <VFEMA006.baseDesc>[PAWN_nameDef](은)는 이 지역에서 가장 위대한 장인 길드원 중 한 명이었습니다. 안타깝게도 [PAWN_pronoun]는 실수로 은화를 떨어 뜨리고 주머니에 다시 넣다가 즉시 길드에서 쫓겨나고 추방되었습니다.</VFEMA006.baseDesc>
+  <VFEMA007.title>불명예 기사단장</VFEMA007.title>
+  <VFEMA007.titleShort>기사단장</VFEMA007.titleShort>
+  <VFEMA007.baseDesc>[PAWN_nameDef](은)는 왕국의 변두리에 있는 이교도의 조공들을 박멸하는 임무를 맡은 기사단의 창시자이자 지도자였습니다. 그러던 어느 날 밤. 대규모 진군에 나섰다가 매복을 당해, [PAWN_possessive] 군대 대부분을 잃었고 [PAWN_pronoun]는 잠적했었습니다. \n</VFEMA007.baseDesc>
+  <VFEMA008.title>사냥꾼</VFEMA008.title>
+  <VFEMA008.titleShort>사냥꾼</VFEMA008.titleShort>
+  <VFEMA008.baseDesc>[PAWN_nameDef](은)는 큰 동물을 사냥하며 생계를 꾸렸습니다. 대부분의 수렵품은 일반인에게 팔았지만, 이따금씩, [PAWN_pronoun]는 [PAWN_possessive] 왕국을 통치하는 귀족들을 위해 사냥을 했습니다.</VFEMA008.baseDesc>
+  <VFEMA009.title>자작농 궁수</VFEMA009.title>
+  <VFEMA009.titleShort>궁수</VFEMA009.titleShort>
+  <VFEMA009.baseDesc>[PAWN_nameDef](과)와 [PAWN_possessive] 마을 주민들은 매주 교회가 끝난 후 2시간씩 활쏘기를 연습했습니다. 몇 년 후, 이 관행은 [PAWN_pronoun]의 마을이 영주의 궁수로써 섬기도록 부름 받았을 때 성과를 거두었습니다.</VFEMA009.baseDesc>
+  <VFEMA010.title>사기꾼</VFEMA010.title>
+  <VFEMA010.titleShort>사기꾼</VFEMA010.titleShort>
+  <VFEMA010.baseDesc>[PAWN_nameDef](은)는 [PAWN_possessive] 돈과 귀중품이 속임수로 털린 후, 다시는 이 속임수에 속지 않도록 사기에 대해서 배우기로 결정했습니다.</VFEMA010.baseDesc>
+  <VFEMA011.title>공성 기술자</VFEMA011.title>
+  <VFEMA011.titleShort>기술자</VFEMA011.titleShort>
+  <VFEMA011.baseDesc>[PAWN_nameDef]는 [PAWN_possive] 영주의 군대가 포위 공격이 있는 곳이라면 발리스타와 투석기 등을 건설하는 일을 담당하는 사람이었습니다.</VFEMA011.baseDesc>
+  <VFEMA012.title>목수</VFEMA012.title>
+  <VFEMA012.titleShort>목수</VFEMA012.titleShort>
+  <VFEMA012.baseDesc>[PAWN_nameDef]의 일상적인 업무는 마을에 건물을 지을 건축 자재들을 준비하는 것과 동시에 공예의 달인들로부터 몇 가지 기술을 습득하는 것이었습니다.</VFEMA012.baseDesc>
+  <VFEMA013.title>귀족 하인</VFEMA013.title>
+  <VFEMA013.titleShort>하인</VFEMA013.titleShort>
+  <VFEMA013.baseDesc>[PAWN_nameDef](은)는 명문가의 하인으로서, 요리와 청소 같은 일상적인 업무를 수행했습니다. 결과적으로 [PAWN_pronoun]는 보다 즐거운 매너리즘을 발전 시켰으며 주변으로부터 훌륭한 평가를 받았습니다.</VFEMA013.baseDesc>
+  <VFEMC001.title>대장장이 견습생</VFEMC001.title>
+  <VFEMC001.titleShort>견습생</VFEMC001.titleShort>
+  <VFEMC001.baseDesc>[PAWN_nameDef](은)는 오랫동안 이어진 대장장이의 혈통에서 태어나 어려서부터 장사를 하기 시작했습니다. 어느 날 밤, [PAWN_pronoun]의 마을이 습격당했고 [PAWN_nameDef](은)는 무사히 탈출했지만, 그 참사는 평생 동안 [PAWN_objective] 괴롭혀 왔습니다.</VFEMC001.baseDesc>
+  <VFEMC002.title>사냥꾼의 아이</VFEMC002.title>
+  <VFEMC002.titleShort>사냥꾼</VFEMC002.titleShort>
+  <VFEMC002.baseDesc>[PAWN_nameDef](은)는 다소 가난한 가정에서 태어났으며, 그럭저럭 살아가기 위해 사냥에 의존했습니다. [PAWN_pronoun]의 부모들은 [PAWN_pronoun]에게 사격기술과 덫을 설치하고 동물의 가죽을 벗기는 것, 그리고 그것은 언제나 생존을 위해서만 사용되어야 한다는 것을 가르쳤습니다.</VFEMC002.baseDesc>
+  <VFEMC003.title>중세 부랑아</VFEMC003.title>
+  <VFEMC003.titleShort>부랑아</VFEMC003.titleShort>
+  <VFEMC003.baseDesc>[PAWN_nameDef](은)는 불우했던 집을 나와, 길거리 부랑자가 되면서 소매치기, 거짓말, 말다툼을 재빨리 파악하게 되었습니다.</VFEMC003.baseDesc>
+  <VFEMC004.title>수도원 하인</VFEMC004.title>
+  <VFEMC004.titleShort>하인</VFEMC004.titleShort>
+  <VFEMC004.baseDesc>가까운 사람을 잃은 후 슬픔에 휩싸인 [PAWN_nameDef](은)는 어떻게 해야 할지 잘 몰랐고 수도원에 들어가기로 결심했습니다. [PAWN_pronoun]는 그곳에서 책을 쓰고 승려들이 팔 수 있는 예술품을 만드는 법을 배우며 [PAWN_pronoun]의 초년을 보냈습니다.</VFEMC004.baseDesc>
+  <VFEMC005.title>군대 신병</VFEMC005.title>
+  <VFEMC005.titleShort>신병</VFEMC005.titleShort>
+  <VFEMC005.baseDesc>전쟁은 [PAWN_nameDef]의 마을을 황폐화 시켰으며 [PAWN_pronoun]에게는 정의감과 군대에 입대하려는 의지 외에는 아무것도 남지 않았습니다. 그러나 이것은 생존에 필요한 기본 전투 기술을 배울 수있는 좋은 기회였습니다.</VFEMC005.baseDesc>
+  <VFEMC006.title>거지</VFEMC006.title>
+  <VFEMC006.titleShort>거지</VFEMC006.titleShort>
+  <VFEMC006.baseDesc>[PAWN_nameDef]는 수많은 여행자들과 함께 기억하고, 관찰하고, 듣고, 이야기를 나누며, 가능한 한 이른 시간부터 구걸하거나 구석에서 빵 한 조각을 달라고 간청했습니다.</VFEMC006.baseDesc>
+  <VFEMC007.title>채석장 아이</VFEMC007.title>
+  <VFEMC007.titleShort>광부</VFEMC007.titleShort>
+  <VFEMC007.baseDesc>[PAWN_nameDef]은 [PAWN_pronoun]의 아버지가 저지른 죄에 때문에 채석장에서 일하도록 보내졌으며 [PAWN_pronoun]의 어린 시절은 매일 돌을 깨는 날이었습니다.</VFEMC007.baseDesc>
+  <VFEMC008.title>갱부</VFEMC008.title>
+  <VFEMC008.titleShort>갱부</VFEMC008.titleShort>
+  <VFEMC008.baseDesc>[PAWN_nameDef]는 끝없는 채무로 인해 노예 제도에 묶여있는 빈민층에서 태어났습니다. [PAWN_pronoun]의 삶은 광산에서의 고통과 불행으로 이루어져 있었습니다.</VFEMC008.baseDesc>
+
+</LanguageData>

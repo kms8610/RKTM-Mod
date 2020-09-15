@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Kimiri_Colonist.label>키미리 정착민</Kimiri_Colonist.label>
+  <Kimiri_Citizen.label>키미리 시민</Kimiri_Citizen.label>
+  <Kimiri_Elite.label>키미리 정예병</Kimiri_Elite.label>
+  <Kimiri_Swordsman.label>쿠린 분대원</Kimiri_Swordsman.label>
+  <Kimiri_EliteSwordsman.label>쿠린 분대장</Kimiri_EliteSwordsman.label>
+  <Kimiri_Probationer.label>키미리 견습생</Kimiri_Probationer.label>
+  <Kurin_Colonist.label>쿠린 정착민</Kurin_Colonist.label>
+  <Kurin_Citizen.label>쿠린 시민</Kurin_Citizen.label>
+  <Kurin_Vigilante.label>쿠린 자경단</Kurin_Vigilante.label>
+  <Kurin_Trader.label>쿠린 상인</Kurin_Trader.label>
+  <Kurin_Elite.label>쿠린 정예병</Kurin_Elite.label>
+  <Kurin_Soldier.label>쿠린 분대원</Kurin_Soldier.label>
+  <Kurin_EliteSoldier.label>쿠린 분대장</Kurin_EliteSoldier.label>
+  <Kurin_Sniper.label>쿠린 저격수</Kurin_Sniper.label>
+  <Kurin_Scout.label>쿠린 정찰병</Kurin_Scout.label>
+  <Kurin_Grenadier.label>쿠린 척탄병</Kurin_Grenadier.label>
+  <Kurin_EliteSpacerSoldier.label>쿠린 정예 분대장</Kurin_EliteSpacerSoldier.label>
+  <Kurin_EliteSpacerGrenadier.label>쿠린 정예 척탄병</Kurin_EliteSpacerGrenadier.label>
+  <Kurin_Fox_In_Black.label>검은 옷의 여우</Kurin_Fox_In_Black.label>
+  <Kurin_Fox_In_Black.labelPlural>검은 옷의 여우들</Kurin_Fox_In_Black.labelPlural>
+  <Kurin_Refugee.label>쿠린 난민</Kurin_Refugee.label>
+  <Kurin_Refugee_Clothed.label>쿠린 난민</Kurin_Refugee_Clothed.label>
+</LanguageData>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HaulSlave.title>운반 노예</HaulSlave.title>
+  <HaulSlave.titleShort>운반 노예</HaulSlave.titleShort>
+  <HaulSlave.baseDescription>[PAWN_nameDef](은)는 노예상인들에게 붙잡혀 고향에서 멀리 떨어져버렸습니다. [PAWN_pronoun]는 게르지 종족이 대부분의 종족보다 훨씬 많은 무게와 부피를 운반할 수 있었기 때문에 주로 큰 물체를 운반하는데 사용되었습니다.</HaulSlave.baseDescription>
+  <DearmedHaulSlave.title>손절된 노예</DearmedHaulSlave.title>
+  <DearmedHaulSlave.titleShort>손절 노예</DearmedHaulSlave.titleShort>
+  <DearmedHaulSlave.baseDescription>[PAWN_nameDef](은)는 노예상인들에게 붙잡혀 고향에서 멀리 떨어져버렸습니다. 불행히도, [PAWN_pronoun]는 매우 잔인한 노예상인들에게 붙잡혔습니다. 그들은 광산 노동에 부려먹는 노예들이 반항하지 못하도록 팔을 하나, 또는 두 쪽 모두 잘라내고 간단한 보철물로 대체하는 식으로 사용하였습니다. 이들은 커다란 배낭을 지고 다니기 때문에 부서진 바위 등을 옮기는 등의 작업 속도는 늦춰지지 않았지만, 동료 노예가 싸울 수 있도록 도와주는 것은 거의 불가능했습니다.</DearmedHaulSlave.baseDescription>
+  <PlanterSlave.title>재배 노예</PlanterSlave.title>
+  <PlanterSlave.titleShort>재배 노예</PlanterSlave.titleShort>
+  <PlanterSlave.baseDescription>식량을 위해 끊임없이 식물을 기르는 게르지의 생활양식을 고려할 때, 노예상인들은 [PAWN_nameDef](이)가 어렸을 때 [PAWN_pronoun]를 데려가 노예 기지의 옥수수 밭 노예로 사용했습니다. [PAWN_pronoun]는 다른 일을 할 시간이 거의 없는 상태에서 하루종일 현장에서 일해왔습니다.</PlanterSlave.baseDescription>
+  <FarmSlave.title>농장 노예</FarmSlave.title>
+  <FarmSlave.titleShort>농장 노예</FarmSlave.titleShort>
+  <FarmSlave.baseDescription>식량을 위해 끊임없이 식물을 기르는 게르지의 생활양식을 고려할 때, 노예상인들은 [PAWN_nameDef](이)가 어렸을 때 [PAWN_pronoun]를 데려가 농장 노예로 판매해버렸습니다. [PAWN_pronoun]는 주로 농작물을 심고, 무거운 물건을 운반하고, 때로는 동물을 돌보는 일을 했습니다.</FarmSlave.baseDescription>
+  <MineSlave.title>광산 노예</MineSlave.title>
+  <MineSlave.titleShort>광산 노예</MineSlave.titleShort>
+  <MineSlave.baseDescription>광산 노예상인은  게르지의 고향에서 [PAWN_nameDef](을)를 붙잡아 빠르게 바위를 분쇄하는 데 사용하였습니다.</MineSlave.baseDescription>
+  <PegMineSlave.title>의족 광산 노예</PegMineSlave.title>
+  <PegMineSlave.titleShort>의족 노예</PegMineSlave.titleShort>
+  <PegMineSlave.baseDescription>광산 노예상인은  게르지의 고향에서 [PAWN_nameDef](을)를 붙잡아 빠르게 바위를 분쇄하는 데 사용하였습니다. [PAWN_nameDef]에게는 불행하게도, 이들은 특히나 매우 잔인한 노예상인들 이었습니다. 자신들이 데려온 게르지 광부들이 노예에서 벗어나려고 하는 몇 안되는 게르지들 중 하나라는 사실을 안 노예상인들은 이들의 다리를 나무 의족으로 대체해버렸습니다. [PAWN_nameDef] 또한 이 운명을 피하지 못했습니다.</PegMineSlave.baseDescription>
+  <HandlerSlave.title>마부 노예</HandlerSlave.title>
+  <HandlerSlave.titleShort>마부 노예</HandlerSlave.titleShort>
+  <HandlerSlave.baseDescription>[PAWN_nameDef](은)는 어린 나이에 노예상인들에게 붙잡혔습니다. 노예상인들에게 단지 quot;조금 더 똑똑한quot; 동물로 간주되던 [PAWN_pronoun]는 우유를 짜거나 머팔로를 관리하는 것과 같은 단순한 동물들의 잡일을 처리하는 데 사용되었습니다.</HandlerSlave.baseDescription>
+  <TortureSlave.title>고문당한 노예</TortureSlave.title>
+  <TortureSlave.titleShort>고문당한 노예</TortureSlave.titleShort>
+  <TortureSlave.baseDescription>[PAWN_nameDef](은)는 노예상인들에게 붙잡혀 고향을 떠나올 정도로 운이 나빴습니다. 그리고 더욱 불행히도, [PAWN_pronoun]는 매우 잔인한 노예상인들에게 붙잡혔습니다. [PAWN_nameDef](은)는 다른 노예상인들에게 팔릴 만큼 오래 살아남았지만, 그 시간 동안 몸과 마음에 많은 상처를 입고 말았습니다.</TortureSlave.baseDescription>
+  <BelovedSlave.title>사랑받던 노예</BelovedSlave.title>
+  <BelovedSlave.titleShort>사랑받던 노예</BelovedSlave.titleShort>
+  <BelovedSlave.baseDescription>[PAWN_nameDef](은)는 노예상인에게 붙잡혀 고향에서 멀어져버렸을 만큼 운이 나빴지만, 또한 한 가정에 팔려가 친절한 노인의 관리인으로 지낼 수 있었을 만큼 운이 좋았습니다. 노인은 [PAWN_nameDef](을)를 몇 년 동안 잘 대해주었고, 자신이 죽으면 [PAWN_nameDef](이)가 다른 가정으로 팔려나갈 것을 알고 생존에 도움이 될 수 있는 몇 가지 기술을 가르치기 위해 최선을 다했습니다. 노인은 결국 죽었고, [PAWN_nameDef](은)는 다른 곳으로 팔려나갔습니다. 그러나 지금은 보통 게르지가 가지고 있지 않은 몇 가지 기술을 알고있습니다.</BelovedSlave.baseDescription>
+  <ChemSlave.title>화학약품 저장소 노예</ChemSlave.title>
+  <ChemSlave.titleShort>약품저장소 노예</ChemSlave.titleShort>
+  <ChemSlave.baseDescription>채굴 광산 노예상인들은 게르지의 고향에서 [PAWN_nameDef](을)를 포횡하여 화학폐기물 처리 업체에 판매했습니다. 회사는 빠른 용역 시간을 약속하며 얻은 돈이 교체용 노예를 구입하는데 드는 비용보다 많다는 사실 떄문에 근로자가 저장 공간을 파고있는 동안 폐기물을 마구잡이로 저장하였습니다. 하지만 [PAWN_nameDef](은)는 암이 신체의 다른 부위로 전이되는 것을 피할 수 있을 만큼 충분히 일찍 일에서 잘렸기 때문에 생존할 수 있었습니다.</ChemSlave.baseDescription>
+  <ResearchSlave.title>연구 노예</ResearchSlave.title>
+  <ResearchSlave.titleShort>연구 노예</ResearchSlave.titleShort>
+  <ResearchSlave.baseDescription>채굴 광산 노예상인들은 게르지의 고향에서 [PAWN_nameDef](을)를 포횡하여 화학폐기물 처리 업체에 판매했습니다. 운이 좋게도, 그곳의 한 개인 연구원이 [PAWN_pronoun]를 자신의 조수로 채용하였습니다. [PAWN_nameDef](은)는 대부분의 시간을 무거운 물체를 옮기는 데에 사용했지만, 과학자들 사이에서 오가는 대화들을 엿들어 연구가 어떻게 이루어지는지에 대한 기본적인 지식을 얻게 되었습니다. 그리고 이는 다른 게르지들에게서는 매우 드문 기술로, [PAWN_pronoun]를 특별한 존재로 만들어주었습니다.</ResearchSlave.baseDescription>
+  <CookSlave.title>요리 노예</CookSlave.title>
+  <CookSlave.titleShort>요리 노예</CookSlave.titleShort>
+  <CookSlave.baseDescription>노예상인들은 [PAWN_nameDef](을)를 포획하고는[PAWN_pronoun]를 자신들의 식사를 만드는 quot;쉐프quot;로 삼는, 다소 흔치 않은 관행을 보였습니다. 게르지가 음식을 어떻게 '요리'하는지, 또는 그렇게 만들어진 요리가 심하게 몸살을 앓지 않은 채로 먹을 수 있는 것인지에 대해서 상당히 부정적임을 고려할 때, 이들은 [PAWN_pronoun]를 실험하고, 그저 결과를 지켜보기 위한 것임을 의미했습니다. 결국 [PAWN_pronoun]는 실제로 요리를 할 수 있는 희귀한 게르지 중 하나가 되었지만, [PAWN_pronoun]의 첫 번째 요리에서 많은 노예들이 앓아눕거나 쓰러진 경험은 [PAWN_pronoun]에게 다소 안좋은 기억으로 남았습니다.</CookSlave.baseDescription>
+  <MineRevoltSlave.title>광부 반란자</MineRevoltSlave.title>
+  <MineRevoltSlave.titleShort>광부 반란자</MineRevoltSlave.titleShort>
+  <MineRevoltSlave.baseDescription>채굴광산 노예상인은 [PAWN_nameDef]의 힘으로 바위를 빠르게 부수기 위해 [PAWN_pronoun]를 납치하였습니다. 광산 노예는 물건을 때리는 연습을 하게 되는 몇 안되는 노예 종류의 하나로, 게르지 광산 노예는 특히나 힘으로 노예상인을 압도할 수 있는 보기 드문 노예들 중 하나입니다. [PAWN_nameDef](은)는 그러한 광산노예의 일원으로, 몇몇 노예들과 함꼐 목숨을 걸고 노예상인들을 뿌리치고 도망쳐나왔습니다.</MineRevoltSlave.baseDescription>
+  <FarmEscapeSlave.title>농장 탈주자</FarmEscapeSlave.title>
+  <FarmEscapeSlave.titleShort>농장 탈주자</FarmEscapeSlave.titleShort>
+  <FarmEscapeSlave.baseDescription>식량을 위해 끊임없이 식물을 기르는 게르지의 생활양식을 고려할 때, 노예상인들은 [PAWN_nameDef](이)가 어렸을 때 [PAWN_pronoun]를 데려가 노예 기지의 농장 노예로 사용했습니다. [PAWN_pronoun]는 다른 일을 할 시간이 거의 없는 상태에서 하루종일 현장에서 일해왔습니다. 하지만 [PAWN_pronoun]의 관리자들이 눈치채지 못한 사실은, [PAWN_pronoun]가 그들 몰래 나무타기와 땅 파기, 그리고 허드랫일을 하면서 싸움 연습을 하고있었다는 사실입니다. 결국 [PAWN_pronoun]는 자신을 막으려던 경비원들을 제압하고 야생으로 탈출할 수 있었습니다.</FarmEscapeSlave.baseDescription>
+  <VolunteerGuardSlave.title>자원 경비대</VolunteerGuardSlave.title>
+  <VolunteerGuardSlave.titleShort>자원 경비대</VolunteerGuardSlave.titleShort>
+  <VolunteerGuardSlave.baseDescription>[PAWN_nameDef](은)는 동료 노예들의 도움으로 노예  캠프에서 도망쳐나올 수 있었습니다. 하지만 [PAWN_pronoun]는 자신의 고향에서 부족민으로 살아왔던 경험으로는 변방계에서 생존할 수 없다는 사실을 잘 알고 있었고, 싸움 경험은 많지 않았지만 한 신생 부족의 경비대가 되겠다고 자원했습니다.</VolunteerGuardSlave.baseDescription>
+  <ExElder.title>(전)지도자</ExElder.title>
+  <ExElder.titleShort>(전)지도자</ExElder.titleShort>
+  <ExElder.baseDescription>게르지 가족 무리의 우두머리는 순전히 나이에 따라 선택됩니다. 그 당시 그 그룹의 어느 구성원이건 그가 죽을 때 까지 지도자가 됩니다. 왜냐하면 그들의 세계에서 모든 포식자들로부터 오래 살아남았다는 것만으로도 그가 가진 기술은 존중받을만한 것이기 때문입니다. [PAWN_nameDef](은)는 그런 무리의 우두머리였지만, 불행히도 결국 노예상인들에게 붙잡혔습니다. [PAWN_pronoun]는 노예상인, 즉 천적으로부터 도망치지 못했기때문에 [PAWN_pronoun]의 리더쉽은 더 이상 남은 게르지들에게 통하지 못했습니다.</ExElder.baseDescription>
+  <PitFighterSlave.title>구덩이 싸움꾼</PitFighterSlave.title>
+  <PitFighterSlave.titleShort>구덩이 싸움꾼</PitFighterSlave.titleShort>
+  <PitFighterSlave.baseDescription>[PAWN_nameDef](은)는 어린 나이에 노예상인들에게 붙잡혀 검투사 싸움에서 활용되는 희생물로 팔려왔습니다. 하지만 대부분 얼마못가 우스운 구경거리로 전락하며 죽어나가는 다른 게르지들과는 달리, [PAWN_nameDef](은)는 전투에 대한 자신의 재능을 발견하며 검투사 싸움에서 살아남았습니다. 하지만 그 덕분에 [PAWN_pronoun]는 검투사 싸움의 관중들을 위한 특별 대접을 받으며 은하계 곳곳으로 팔려다니며 몇 년 동안 싸워야만 했습니다.</PitFighterSlave.baseDescription>
+  <MineVengSlave.title>광부 살해자</MineVengSlave.title>
+  <MineVengSlave.titleShort>광부 살해자</MineVengSlave.titleShort>
+  <MineVengSlave.baseDescription>채굴광산 노예상인은 [PAWN_nameDef]의 힘으로 바위를 빠르게 부수기 위해 [PAWN_pronoun]를 납치하였습니다. 광산 노예는 물건을 때리는 연습을 하게 되는 몇 안되는 노예 종류의 하나로, 게르지 광산 노예는 특히나 힘으로 노예상인을 압도할 수 있는 보기 드문 노예들 중 하나입니다. [PAWN_nameDef] 또한 그런 경우 중 하나였으며, 노예상인들에게 붙잡혀가던 도중 두 명의 노예상인들을 죽였습니다. [PAWN_pronoun]는 자신이 그렇게 노예상인들을 죽이는 것을 좋아한다는 사실을 깨닫고 가능한한 많은 사람들을 죽이는 것을 삶의 목표로 삼았습니다.</MineVengSlave.baseDescription>
+  <FarmVengSlave.title>농장 살해자</FarmVengSlave.title>
+  <FarmVengSlave.titleShort>농장 살해자</FarmVengSlave.titleShort>
+  <FarmVengSlave.baseDescription>식량을 위해 끊임없이 식물을 기르는 게르지의 생활양식을 고려할 때, 노예상인들은 [PAWN_nameDef](이)가 어렸을 때 [PAWN_pronoun]를 데려가 노예 기지의 농장 노예로 사용했습니다. [PAWN_pronoun]는 다른 일을 할 시간이 거의 없는 상태에서 하루종일 현장에서 일해왔습니다. 하지만 [PAWN_pronoun]의 관리자들이 눈치채지 못한 사실은, [PAWN_pronoun]가 그들 몰래 나무타기와 땅 파기, 그리고 허드랫일을 사람을 자르고 죽이는 일에 대한 연습으로 삼고있었다는 사실입니다. 결국 [PAWN_pronoun]는 자신을 막으려던 경비원들을 죽이고 야생으로 탈출할 수 있었습니다.</FarmVengSlave.baseDescription>
+  <TortureVengSlave.title>고문당하던 살해자</TortureVengSlave.title>
+  <TortureVengSlave.titleShort>고문당하던 살해자</TortureVengSlave.titleShort>
+  <TortureVengSlave.baseDescription>[PAWN_nameDef](은)는 노예상인들에게 붙잡혀 고향을 떠나올 정도로 운이 나빴습니다. 그리고 더욱 불행히도, [PAWN_pronoun]는 매우 잔인한 노예상인들에게 붙잡혔으며, 그들은 [PAWN_pronoun]를 고문하면서 기쁨을 얻었습니다. [PAWN_nameDef]의 머릿속에서 무언가가, 끊어지고, 수동적이기 짝이없는 게르지의 본능에 반할만큼 지독한 고문을 받던 어느 날,[PAWN_pronoun]는 자신을 고문하던 모든 노예상인들을 때려죽였습니다. [PAWN_pronoun]는 자신이 변방계에 좌초된 것을 깨닫자, 자신의 남은 시간을 노예상인들을 사냥하는 데에 사용하기로 결심했습니다.</TortureVengSlave.baseDescription>
+  <GerzeeSoldierExperiment.title>게르지 실험체</GerzeeSoldierExperiment.title>
+  <GerzeeSoldierExperiment.titleShort>게르지 실험체</GerzeeSoldierExperiment.titleShort>
+  <GerzeeSoldierExperiment.baseDescription>게르지는 덩치가 크고 힘이 상당하기 떄문에, 그들은 음지의 군사기업들에게 종종 잠재적인 군인으로서 실험대상이 되었습니다. [PAWN_nameDef] 또한 그런 비밀 프로그램의 한 일부로서 전투 훈련을 받았으며, 이러한 병사들의 전투능력을 향상시키기 위해 일부 특성이 교체되기도 하였습니다. 불행히도, 과학자들의 이번 실험은 잘 성공적이었습니다. [PAWN_nameDef]와 다른 군인 실험체들은 실험 구역을 난장판으로 만들었으며, 변방계의 광야로 탈출했습니다.</GerzeeSoldierExperiment.baseDescription>
+  <GerzeeNewSlave.title>새로운 노예</GerzeeNewSlave.title>
+  <GerzeeNewSlave.titleShort>새로운 노예</GerzeeNewSlave.titleShort>
+  <GerzeeNewSlave.baseDescription>[PAWN_nameDef](은)는 비교적 최근에 노예상인들에게 붙잡혀왔습니다. [PAWN_pronoun]는 그 전까지는 별다른 고생을 해본적이 없었고, 때문에 특별한 기술을 배운적이 없었습니다. 한 가지 다행인 점은, [PAWN_pronoun]가 식량을 위해 식물을 기르는 게르지였던 덕분에 작물을 기르는 기술은 잊지 않았습니다.</GerzeeNewSlave.baseDescription>
+
+</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NDronePrinter.label>드론 프린터</NDronePrinter.label>
+  <NDronePrinter.description>전력과 재료가 공급되면 자동 제작기가 드론을 조립합니다. 드론은 특정 작업에 최적화된 영혼이 없는 자동 기계로 매우 제한된 기능을 갖고 있습니다. \n\n쉽게 파괴됩니다; 쉽게 교체 가능하며, 아무도 그들이 죽는 것에 관심을 갖지 않습니다.</NDronePrinter.description>
+</LanguageData>

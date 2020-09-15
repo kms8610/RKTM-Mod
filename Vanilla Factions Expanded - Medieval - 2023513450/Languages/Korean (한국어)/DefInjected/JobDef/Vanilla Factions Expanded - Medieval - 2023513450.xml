@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_EquipShield.reportString>TargetA 장착 중.</VFEM_EquipShield.reportString>
+  <VFEM_FillWineBarrel.reportString>TargetA 채우는 중.</VFEM_FillWineBarrel.reportString>
+  <VFEM_TakeWineOutOfWineBarrel.reportString>TargetA에서 포도주 꺼내는 중.</VFEM_TakeWineOutOfWineBarrel.reportString>
+</LanguageData>

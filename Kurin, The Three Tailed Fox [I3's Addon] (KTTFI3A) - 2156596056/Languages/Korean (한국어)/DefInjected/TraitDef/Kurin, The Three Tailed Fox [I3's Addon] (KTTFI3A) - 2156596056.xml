@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Kurin_MainTrait.degreeDatas.0.label>쿠린</Kurin_MainTrait.degreeDatas.0.label>
+  <Kurin_MainTrait.degreeDatas.0.description>쿠린입니다.\n\n¯\_(ツ)_/¯</Kurin_MainTrait.degreeDatas.0.description>
+  <Kurin_StrangeKurinTrait.degreeDatas.0.label>이상한 쿠린</Kurin_StrangeKurinTrait.degreeDatas.0.label>
+  <Kurin_StrangeKurinTrait.degreeDatas.0.description>쿠린의 이상한 종류입니다... [PAWN_nameDef](은)는 식물처럼 보이네요.</Kurin_StrangeKurinTrait.degreeDatas.0.description>
+  <Kurin_UpgradedKurinTrait.degreeDatas.0.label>강화된 쿠린</Kurin_UpgradedKurinTrait.degreeDatas.0.label>
+  <Kurin_UpgradedKurinTrait.degreeDatas.0.description>[PAWN_nameDef](은)는 유전자 개선 프로그램에 참여했습니다.</Kurin_UpgradedKurinTrait.degreeDatas.0.description>
+  <Kimiri_MainTrait.degreeDatas.0.label>키미리</Kimiri_MainTrait.degreeDatas.0.label>
+  <Kimiri_MainTrait.degreeDatas.0.description>키미리입니다.\n\n¯\_(ツ)_/¯</Kimiri_MainTrait.degreeDatas.0.description>
+</LanguageData>

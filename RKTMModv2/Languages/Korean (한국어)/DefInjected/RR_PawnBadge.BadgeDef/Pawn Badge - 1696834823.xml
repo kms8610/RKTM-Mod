@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Militar_Private.label>군인 - 이병</Militar_Private.label>
+  <Militar_Private.description>미군 계급 - 이병</Militar_Private.description>
+  <Militar_Corporal.label>군인 - 상병</Militar_Corporal.label>
+  <Militar_Corporal.description>미군 계급 - 상병</Militar_Corporal.description>
+  <Militar_Sergeant.label>군인 - 병장</Militar_Sergeant.label>
+  <Militar_Sergeant.description>미군 계급 - 병장</Militar_Sergeant.description>
+  <Militar_Master_Sergeant.label>군인 - 상사</Militar_Master_Sergeant.label>
+  <Militar_Master_Sergeant.description>미군 계급 - 상사</Militar_Master_Sergeant.description>
+  <Militar_Sergeant_Major.label>군인 - 원사</Militar_Sergeant_Major.label>
+  <Militar_Sergeant_Major.description>미군 계급 - 원사</Militar_Sergeant_Major.description>
+  <Skill_Shooting.label>사격</Skill_Shooting.label>
+  <Skill_Shooting.description>기술 - 사격</Skill_Shooting.description>
+  <Skill_Melee.label>격투</Skill_Melee.label>
+  <Skill_Melee.description>기술 - 격투</Skill_Melee.description>
+  <Skill_Cooking.label>조리</Skill_Cooking.label>
+  <Skill_Cooking.description>기술 - 조리</Skill_Cooking.description>
+  <Skill_Medicine.label>의학</Skill_Medicine.label>
+  <Skill_Medicine.description>의학 기술</Skill_Medicine.description>
+  <Skill_Hauling.label>운반</Skill_Hauling.label>
+  <Skill_Hauling.description>기술 - 운반</Skill_Hauling.description>
+  <Skill_Animal.label>조련</Skill_Animal.label>
+  <Skill_Animal.description>기술 - 조련</Skill_Animal.description>
+  <Skill_Art.label>예술</Skill_Art.label>
+  <Skill_Art.description>기술 - 예술</Skill_Art.description>
+  <Skill_Cleaning.label>청소</Skill_Cleaning.label>
+  <Skill_Cleaning.description>기술 - 청소</Skill_Cleaning.description>
+  <Skill_Construction.label>건설</Skill_Construction.label>
+  <Skill_Construction.description>기술 - 건설</Skill_Construction.description>
+  <Skill_Firefight.label>소방</Skill_Firefight.label>
+  <Skill_Firefight.description>기술 - 소방</Skill_Firefight.description>
+  <Skill_Intellectual.label>연구</Skill_Intellectual.label>
+  <Skill_Intellectual.description>기술 - 연구</Skill_Intellectual.description>
+  <Skill_Mining.label>채굴</Skill_Mining.label>
+  <Skill_Mining.description>기술 - 채굴</Skill_Mining.description>
+  <Skill_Plant.label>원예</Skill_Plant.label>
+  <Skill_Plant.description>기술 - 원예</Skill_Plant.description>
+  <Skill_Social.label>관계</Skill_Social.label>
+  <Skill_Social.description>기술 - 사교</Skill_Social.description>
+  <Skill_Trade.label>거래</Skill_Trade.label>
+  <Skill_Trade.description>기술 - 거래</Skill_Trade.description>
+
+</LanguageData>

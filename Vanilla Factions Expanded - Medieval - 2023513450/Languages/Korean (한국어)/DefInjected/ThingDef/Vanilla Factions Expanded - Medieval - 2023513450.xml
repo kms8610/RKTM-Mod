@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_Wine.label>포도주</VFEM_Wine.label>
+  <VFEM_Wine.description>발효시킨 포도로 만든 독한 술입니다. 과도한 소비는 알코올 내성과 중독으로 이어질 수 있습니다.</VFEM_Wine.description>
+  <VFEM_Wine.ingestible.ingestCommandString>{0} 마시기</VFEM_Wine.ingestible.ingestCommandString>
+  <VFEM_Wine.ingestible.ingestReportString>{0} 마시는 중.</VFEM_Wine.ingestible.ingestReportString>
+  <VFEM_Wine.tools.0.label>병</VFEM_Wine.tools.0.label>
+  <VFEM_Wine.tools.1.label>병목</VFEM_Wine.tools.1.label>
+  <VFEM_Must.label>포도즙</VFEM_Must.label>
+  <VFEM_Must.description>발효되지 않은 포도즙입니다. 마실 수 있는 포도주가 되려면 통에서 발효해야 합니다.</VFEM_Must.description>
+  <VFEM_WineBarrel.label>포도주 통</VFEM_WineBarrel.label>
+  <VFEM_WineBarrel.description>포도즙을 포도주로 발효하는데 필요한 통입니다.</VFEM_WineBarrel.description>
+  <VFEM_CobblestoneWall.label>자갈 벽</VFEM_CobblestoneWall.label>
+  <VFEM_RawGrapes.label>포도</VFEM_RawGrapes.label>
+  <VFEM_RawGrapes.description>생포도입니다. 생으로 먹어도 맛있습니다. 포도는 포도주를 만드는 데 사용될 수 있는 포도즙으로 만들 수도 있습니다.</VFEM_RawGrapes.description>
+  <VFEM_Apparel_PlateHelmetLight.label>경갑 판금 투구</VFEM_Apparel_PlateHelmetLight.label>
+  <VFEM_Apparel_PlateHelmetLight.description>날카로운 공격으로부터 적당한 보호를 제공하는 가벼운 중세식 투구입니다. 무딘 무기에는 효과적이지 않으며, 착용자의 시야를 제한합니다.</VFEM_Apparel_PlateHelmetLight.description>
+  <VFEM_Apparel_PlateHelmetHeavy.label>중갑 판금 투구</VFEM_Apparel_PlateHelmetHeavy.label>
+  <VFEM_Apparel_PlateHelmetHeavy.description>머리 전체를 덮을 수 있는 부피가 큰 중세식 투구입니다. 방어력이 상당히 높지만 그만큼 착용자의 시야를 제한합니다.</VFEM_Apparel_PlateHelmetHeavy.description>
+  <VFEM_Apparel_PlateArmorHeavy.label>중갑 판금 갑옷</VFEM_Apparel_PlateArmorHeavy.label>
+  <VFEM_Apparel_PlateArmorHeavy.description>목에서 발까지 몸 전체를 덮는 견고한 판금 갑옷입니다. 금속판이 강화되어 방어력이 훨씬 더 높지만 그만큼 이동속도에 제한이 있습니다.</VFEM_Apparel_PlateArmorHeavy.description>
+  <VFEM_Apparel_Tabard.label>타바드</VFEM_Apparel_Tabard.label>
+  <VFEM_Apparel_Tabard.description>중세 민병대가 갑옷 위에 입는 의복으로 왕국의 국장을 묘사합니다.</VFEM_Apparel_Tabard.description>
+  <VFEM_Shield_Kite.tools.0.label>상아날</VFEM_Shield_Kite.tools.0.label>
+  <VFEM_Shield_Kite.tools.1.label>중심</VFEM_Shield_Kite.tools.1.label>
+  <VFEM_Shield_Kite.label>카이트 쉴드</VFEM_Shield_Kite.label>
+  <VFEM_Shield_Kite.description>중간 크기의 나무 방패로 전면이 가죽으로 장식되어 있습니다. 근접 공격과 원거리 공격에 대해 중간 정도의 보호 기능을 제공합니다.</VFEM_Shield_Kite.description>
+  <VFEM_Shield_Heater.tools.0.label>상아날</VFEM_Shield_Heater.tools.0.label>
+  <VFEM_Shield_Heater.tools.1.label>중심</VFEM_Shield_Heater.tools.1.label>
+  <VFEM_Shield_Heater.label>히터 쉴드</VFEM_Shield_Heater.label>
+  <VFEM_Shield_Heater.description>무거운 중간 크기의 강철 방패이며, 앞면은 가죽으로 장식되어 있습니다. 근접 공격과 원거리 공격에 대해 상당한 보호를 제공합니다.</VFEM_Shield_Heater.description>
+  <VFEM_MeleeWeapon_Claymore.label>클레이모어</VFEM_MeleeWeapon_Claymore.label>
+  <VFEM_MeleeWeapon_Claymore.description>변경계에서 거의 사용되지 않는 고대 양손 무기입니다. 베고 찌르는 데 아주 효과적입니다.</VFEM_MeleeWeapon_Claymore.description>
+  <VFEM_MeleeWeapon_Claymore.tools.0.label>손잡이</VFEM_MeleeWeapon_Claymore.tools.0.label>
+  <VFEM_MeleeWeapon_Claymore.tools.1.label>칼끝</VFEM_MeleeWeapon_Claymore.tools.1.label>
+  <VFEM_MeleeWeapon_Claymore.tools.2.label>칼날</VFEM_MeleeWeapon_Claymore.tools.2.label>
+  <VFEM_MeleeWeapon_HeavyMace.label>양손 철퇴</VFEM_MeleeWeapon_HeavyMace.label>
+  <VFEM_MeleeWeapon_HeavyMace.description>날카로운 칼날과 가시로 장식된 거대한 양손 철퇴입니다. 판금 갑옷을 관통하는데 매우 효과적인 이 무기는 주로 악랄한 기사들과 용병들이 즐겨 사용합니다.</VFEM_MeleeWeapon_HeavyMace.description>
+  <VFEM_MeleeWeapon_HeavyMace.tools.0.label>손잡이</VFEM_MeleeWeapon_HeavyMace.tools.0.label>
+  <VFEM_MeleeWeapon_HeavyMace.tools.1.label>머리</VFEM_MeleeWeapon_HeavyMace.tools.1.label>
+  <VFEM_Bow_HeavyCrossbow.label>대형 석궁</VFEM_Bow_HeavyCrossbow.label>
+  <VFEM_Bow_HeavyCrossbow.description>대형 석궁은 튼튼한 틀 위에 가로로 탑재된 활 모양의 조립체로 구성되어 있으며, 활과 비슷하지만, 총과 같은 방식으로 작동됩니다.\n\n이 대형 볼트 발사기는 여러 겹의 판금을 뚫을 수 있는 파괴적인 볼트를 발사합니다.</VFEM_Bow_HeavyCrossbow.description>
+  <VFEM_Bow_HeavyCrossbow.tools.0.label>활대</VFEM_Bow_HeavyCrossbow.tools.0.label>
+  <VFEM_Arrow_HeavyBolt.label>대형 석궁 볼트</VFEM_Arrow_HeavyBolt.label>
+  <VFEM_Plant_Grape.label>포도나무</VFEM_Plant_Grape.label>
+  <VFEM_Plant_Grape.description>어느 정도의 포도를 수확할 수 있는 덩굴입니다. 포도는 생으로 먹을 때도 맛이 좋으며 포도주 생산의 필수 재료입니다. 처음에 자라는 데는 오랜 시간이 걸리지만, 한 번의 수명 동안 반복해서 수확할 수 있습니다.</VFEM_Plant_Grape.description>
+</LanguageData>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SetCapital>수도 설정</SetCapital>
+  <DeathOfFactionPawn>너의 무능함이 정착촌의 졸개 한 명을 죽음으로 몰아넣었구나! 당신의 문제 해결에 불안이 커졌습니다</DeathOfFactionPawn>
+  <CaptureOfFactionPawn>정착촌의 졸개들 중 하나를 붙잡은 것은 거주지 정착촌에 큰 불안을 야기했다!</CaptureOfFactionPawn>
+  <UnpaidTitheEffect>불안이 10배 증가했고, 정착에 행복이 줄었습니다!</UnpaidTitheEffect>
+  <AlreadyUpgradeSettlement>이 정착지는 이미 업그레이드 중입니다</AlreadyUpgradeSettlement>
+  <StartUpgradeSettlement>정착지가 지금 업그레이드 중입니다</StartUpgradeSettlement>
+  <BuildingInvalidEnvironment>저 건물은 이 정착지의 생태계에 지을 수 없어!</BuildingInvalidEnvironment>
+  <FCDescSeaIce>부서지지 않는 끝없는 얼음판들, 작은 동물들, 그리고 난방된 방에서 자라는 것 외에는 어떤 음식도 없다. 여기엔 가장 끈질긴 생명만이 살아남는다.</FCDescSeaIce>
+  <FCDescIceSheet>황량하고 끝이 없는 서리가 땅을 뒤덮고, 돌과 폐허의 소작에 의해 방해를 받았다. 유일한 식량원은 이곳을 집이라고 부르는 강인한 야생동물이다.</FCDescIceSheet>
+  <FCDescTundra>이끼로 뒤덮인 풍경 위에 존재감을 드러내고 있는 다양한 울퉁불퉁한 동식물들이 후미진 곳에 자리잡고 있다. 여름이 오면 잠깐이면 땅은 삶으로 피어난다.</FCDescTundra>
+  <FCDescColdBog>이 땅의 험난한 아름다움은 그 절묘함과 만 일치합니다. 습지는 자주 이주하는 초식동물과 그들을 따르는 포식자들처럼 풍경을 점으로 한다.</FCDescColdBog>
+  <FCDescBorealForest>일반적으로 툰드라의 내륙지역보다 덜 춥지만, 아한대숲의 혹독한 날씨는 내년 겨울까지 푸른 꽃이 피고 먹이가 풍부해지는 따뜻한 여름과 맞먹는다.</FCDescBorealForest>
+  <FCDescTropicalRainforest>나무가 하늘을 가려 빛이 바닥에 거의 닿지 않게 한다. 그럼에도 불구하고, 눈부시지만 치명적인 식물군과 동물군의 집합체가 있다. 이 생물체의 아름다움은 단지 내부의 위험과 일치한다.</FCDescTropicalRainforest>
+  <FCDescTemperateForest>풍부한 숲과 개울이 땅을 갈랐다. 동물들은 울창한 숲을 돌아다니고 음식과 은신처 둘 다 아주 많다.</FCDescTemperateForest>
+  <FCDescTemperateSwamp>땅은 늪과 늪으로 덮여 있고, 그렇지 않은 것은 다양한 초목으로 덮여 있다. 이곳에서는 이용 가능한 건축 공간이 비싸다.</FCDescTemperateSwamp>
+  <FCDescTropicalSwamp>나무가 하늘에 닿아 하늘과 땅이 초목에 얽히게되어 작은 빛이 위험한 땅에 도달하게합니다. 질병이 만연하고 빈번합니다.</FCDescTropicalSwamp>
+  <FCDescAridShrubland>진정한 사막은 아니지만 끊임없는 열기로 토양을 재배하는 것은 최고입니다. 대부분의 땅이 열려 있고 외딴 숲이 비어있는 스카이 라인을 깨고 있습니다.</FCDescAridShrubland>
+  <FCDescDesert>경작할 수 있는 토양은 흔치 않은 것으로, 이곳의 대부분의 땅이 모래로 덮여 있고, 어떤 곳은 너무 위험해서 건설할 수 없다. 여전히, 생명체는 여기 존재하고, 모래에는 활기찬 생명체가 살고 있다.</FCDescDesert>
+  <FCDescExtremeDesert>태양이 이 땅을 황무지로 만들었다. 제대로 된 식물을 지탱할 수 있는 흙이 거의 없고, 거기에 있는 흙은 질이 떨어진다.</FCDescExtremeDesert>
+  <FCDescUnknown>주변 땅에 대해서 많은것이 알려지진 않았지만 식민지는 현재 상태에서 생존하고 번영합니다.</FCDescUnknown>
+  <FCTownLevel1>정착지 자체는 단순히 중심 구조물을 중심으로 그룹화된 작은 건물 군집일 뿐이다.</FCTownLevel1>
+  <FCTownLevel2>정착지는 몇 개의 큰 구조물이 지배하고 있지만, 아직 꽤 작다. 몇몇의 모래주머니와 바리케이드가 바깥에 있다.</FCTownLevel2>
+  <FCTownLevel3>정착지에는 생산 지향적인 구조물과 전용 창고, 바쁜 노동자들이 그 사이에 서두르고 있습니다. 보통의 벽은 정착지를 보호합니다.</FCTownLevel3>
+  <FCTownLevel4>정착지는 합리적으로 크고 잘 조직되어 있으며 효율성을 극대화하기 위해 여러 산업 건물이 함께 모여 있습니다. 두꺼운 벽과 내부 방어는 식민지를 보호합니다.</FCTownLevel4>
+  <FCTownLevel5>분명하게 라벨이 붙은 건물들은 이 분주한 문명의 등불과 다양한 다른 공공 시설들의 산업적 심장부를 나타낸다. 여러 벽이 식민지를 울리며 신중하게 계획된 초크 포인트에서 다양한 내부 방어 장치가 사용됩니다.</FCTownLevel5>
+  <settlementAboutToBeAttacked>{0}이 (가) {1} 진영에 의해 공격을 받고 있습니다</settlementAboutToBeAttacked>
+  <settlementInDanger>정착지가 위험에 놓였습니다</settlementInDanger>
+  <militaryAlreadyDefendingSettlement>그 군대는 이미 목표물을 방어하고 있다.</militaryAlreadyDefendingSettlement>
+  <defendingMilitaryReset>수비군은 정착을 위한 수비군대로 재설정되었다.</defendingMilitaryReset>
+  <targetAlreadyBeingAttacked>그 타켓은 이미 공격받았다</targetAlreadyBeingAttacked>
+  <settlementMilitaryForcesRaiding>{0} 의 군대가 {1} 을 (를) 습격합니다</settlementMilitaryForcesRaiding>
+  <settlementMilitaryForcesCapturing>{0}의 군대가 {1}을 점령하려고합니다</settlementMilitaryForcesCapturing>
+  <militarySent>보낸 군사</militarySent>
+  <militarySentToDefend>습격의 근본</militarySentToDefend>
+  <militaryAlreadyAssigned>그 군대는 이미 파견되었다</militaryAlreadyAssigned>
+  <settlementDeliveredLoot>당신의 정지는 다음과 같은 전리품을 전달했습니다. </settlementDeliveredLoot>
+  <RaidLoot>습격 노획물</RaidLoot>
+  <RaidEnemySettlementSuccess>{0} 에 대한 습격이 성공적으로 완료되었습니다</RaidEnemySettlementSuccess>
+  <RaidFailure>습격 실패</RaidFailure>
+  <RaidEnemySettlementFailure>{0}에 대한 공격이 실패했습니다</RaidEnemySettlementFailure>
+  <CaptureSettlement>적 정착지 포획</CaptureSettlement>
+  <CaptureEnemySettlementSuccess>{0} 의 군대가 {1} 을(를) 성공적으로 점령했다. 이전 팩션의 기술 수준 때문에 새로운 정착의 시작 정착 수준은 {2} 이다.</CaptureEnemySettlementSuccess>
+  <CaptureEnemySettlementFailure>{0}의 군대가 {1}을 점령하지 못했습니다.</CaptureEnemySettlementFailure>
+  <MilitaryForcesReorganizing>{0}의 군대는 마지막 임무 후에 조직을 재구성하고 있습니다.</MilitaryForcesReorganizing>
+  <DefenseSuccessful>방어 성공</DefenseSuccessful>
+  <DefenseSuccessfulFull>{1}의 군사력에 대한 {0}의 방어는 성공적이었습니다!</DefenseSuccessfulFull>
+  <DefenseFailure>도시방어 실패</DefenseFailure>
+  <DefenseFailureFull>우리의 타협 {0}의 방어는 {1}의 세력에 의해 뭉개졌습니다.</DefenseFailureFull>
+  <BulidingDestroyedInRaid>습격으로 {0}이 파괴되었습니다.</BulidingDestroyedInRaid>
+  <SettlementDeleveledRaid>정착지 수준이 한 단계 낮아졌다.</SettlementDeleveledRaid>
+  <AttackSettlementfc>정착지 공격</AttackSettlementfc>
+  <CaptureSettlementfc>적 정착지 포획</CaptureSettlementfc>
+  <RaidSettlement>정착지 습격</RaidSettlement>
+  <FCAvailable>사용할 수 있는 모드</FCAvailable>
+  <ShortMilitary>밀</ShortMilitary>
+  <NoValidMilitaries>사용할 수 있는 유효한 군대가 없습니다</NoValidMilitaries>
+  <DefendSettlement>정착지 방어</DefendSettlement>
+  <SettlementDefendingInformation>정착지 방어 정보: {0}'s - Mil {1}</SettlementDefendingInformation>
+  <ResetToHomeSettlement>집으로 제설정 정착지의 방어 - Mil {0}</ResetToHomeSettlement>
+  <ChangeDefendingForce>방어군대 변경</ChangeDefendingForce>
+  <SendToSettlement>정착지로 보내기</SendToSettlement>
+  <EventAffectingSettlements>이 이벤트는 다음 정착지에 영향을줍니다.</EventAffectingSettlements>
+  <TaxesHaveArrived>세금이 도착했다!</TaxesHaveArrived>
+  <OverwhelmingVictory>압도적인 승리</OverwhelmingVictory>
+  <OverwhelmingVictoryDesc>당신에 군대의 압도적인 승리로 인해, 군대는 여전히 배치가 가능합니다.</OverwhelmingVictoryDesc>
+  <TaxesFromSettlementAreBeingDelivered>0} 의 세금이 세금 징수 지점까지 이동 중입니다</TaxesFromSettlementAreBeingDelivered>
+  <DueFC>기한</DueFC>
+  <ResearchExpended>{1}을 조사하기 위해 {0}개의 연구 점수가 사용됨 {2}점수가 남았습니다</ResearchExpended>
+  <ResearchPointsExpended>연구가 확장되었습니다</ResearchPointsExpended>
+  <NoResearchExpended>오늘은 어떤 연구도 이용되지 않았습니다. {0}점이 남으셨습니다.</NoResearchExpended>
+  <PointsAddedToResearchPool>연구풀에 {0}점 추가합니다!</PointsAddedToResearchPool>
+  <SetAsEmpirePowerOutput>제국 전력 생산량으로 설정</SetAsEmpirePowerOutput>
+  <SetAsOutput>전력 생산량 설정</SetAsOutput>
+  <SetAsOutputSuccess>변압기가 당신의 식민지를 위한 전력 생산량으로 설정되었습니다!</SetAsOutputSuccess>
+  <NumberTaxesHasBeenSolved>{0}개의 청구서가 자동으로 해결되었습니다!</NumberTaxesHasBeenSolved>
+  <PrisonersMenu>죄수</PrisonersMenu>
+  <FCWorkload>작업량</FCWorkload>
+  <FCHeavy>단단한 지면</FCHeavy>
+  <FCMedium>중간</FCMedium>
+  <FCLight>무른 지면</FCLight>
+  <FCHeavyExplanation>작업자 하한선 +2 추가합니다(비용 확장 전 최대 작업자). 건강을 20 감소시킵니다.</FCHeavyExplanation>
+  <FCMediumExplanation>작업자 하한선 +1 추가합니다(비용 확장 전 최대 작업자). 건강을 10 감소시킵니다.</FCMediumExplanation>
+  <FCLightExplanation>작업자 상한선 +1 추가합니다(초과 작업자). 건강을 4 증가시킵니다.</FCLightExplanation>
+  <Actions>행동</Actions>
+  <SellPawn>폰 판매</SellPawn>
+  <ReturnToPlayer>플레이어로 복귀</ReturnToPlayer>
+  <SellPawnInfo>정착지에서 다음 청구서에 부가세 발생</SellPawnInfo>
+  <ViewInfo>정보를 보다</ViewInfo>
+  <PrisonerHasDiedLetter>죄수가 사망했습니다</PrisonerHasDiedLetter>
+  <PrisonerHasDied>{1}의 {0}이 과로로 사망했습니다</PrisonerHasDied>
+  <TaxDeliveryMap>세금 배송지도</TaxDeliveryMap>
+  <Military>군사</Military>
+  <SetMap>지도 설정</SetMap>
+  <ActivateResearch>연구 활성화</ActivateResearch>
+  <PrisonerCaptureInfo>죄수: {0}이 노예가 되어 {1}로 배달되었습니다</PrisonerCaptureInfo>
+  <TheSettlement>결산입니다</TheSettlement>
+  <HasBeenFormed>형성되었습니다</HasBeenFormed>
+  <PlayerColony>정착지 플레이어</PlayerColony>
+  <NotEnoughSilverForBill>당신은 미지불된 청구서를 지불하기에 충분한 은을 가지고 있지 않았다.</NotEnoughSilverForBill>
+  <ConfiscatedTithes>그들은 반응으로 당신의 십일조를 몰수했습니다</ConfiscatedTithes>
+  <OutstandingBills>미지불된 청구서</OutstandingBills>
+  <Name>이름</Name>
+  <DueDate>기한</DueDate>
+  <Amount>양</Amount>
+  <HasTithe>십일조를 가졌습니다</HasTithe>
+  <PayReceiveSilver>급료/실버를 받다</PayReceiveSilver>
+  <ResolveBill>고지서 해결</ResolveBill>
+  <NotEnoughSilverOnMapToPayBill>현재 지도에 청구서를 지불할 수 있는 충분한 은이 없다</NotEnoughSilverOnMapToPayBill>
+  <SettleANewColony>새로운 정착지를 건설</SettleANewColony>
+  <TravelTime>여행 시간</TravelTime>
+  <InitialCost>초기 비용</InitialCost>
+  <Silver>은</Silver>
+  <BaseProductionStats>기본 생산 통계</BaseProductionStats>
+  <Base>기본</Base>
+  <Modifier>추가 항목</Modifier>
+  <Final>결정적인</Final>
+  <Settle>정착</Settle>
+  <CaravanOnWay>캐러밴이 벌써 길에 올랐습니다</CaravanOnWay>
+  <CaravanSentToLocation>캐러밴이 그 장소로 보내졌습니다! 그들은 곧 도착할 것입니다.</CaravanSentToLocation>
+  <NotEnoughSilverToSettle>현재 지도에 새 식민지를 정착시키기 위한 충분한 은이 없습니다</NotEnoughSilverToSettle>
+  <CurrentOngoingEvents>현재 진행 중인 이벤트</CurrentOngoingEvents>
+  <TimeRemaining>남은 시간</TimeRemaining>
+  <NewLand>새로운 육지</NewLand>
+  <CustomizeFaction>커스터마이즈 세력</CustomizeFaction>
+  <FactionName>팩션 이름</FactionName>
+  <FactionTitle>팩션 타이틀</FactionTitle>
+  <FactionIcon>팩션 아이콘</FactionIcon>
+  <ButtonNotAvailable>이 버튼은 아직 사용할 수 없습니다</ButtonNotAvailable>
+  <ConfirmChanges>변경사항 확인</ConfirmChanges>
+  <PlayerFaction>플레이어 세력</PlayerFaction>
+  <Bastion>희망의 보루</Bastion>
+  <Food>음식</Food>
+  <Weapons>무장</Weapons>
+  <Animals>동물들</Animals>
+  <Logging>로깅</Logging>
+  <Mining>채굴</Mining>
+  <Researching>연구 중</Researching>
+  <PolicyAlreadyEnacted>그 정책은 이미 제정되었습니다</PolicyAlreadyEnacted>
+  <NotEnoughMoneyToEnact>현재 지도에 해당 정책을 제정하기에 충분한 은화가 없습니다</NotEnoughMoneyToEnact>
+  <AlreadyPolicyTypeBeingEnacted>이미 그런 유형의 정책이 제정되고 있습니다</AlreadyPolicyTypeBeingEnacted>
+  <AlreadyPolicyInSlot>그 슬롯에는 이미 정책이 제정되고 있습니다</AlreadyPolicyInSlot>
+  <SettlementTax>거주 세금</SettlementTax>
+  <WeekOf>1주일 동안</WeekOf>
+  <TaxesBilled>세금이 청구되었습니다</TaxesBilled>
+  <NoSettlementsToTax>정착지에 세금을 부과하지 않습니다</NoSettlementsToTax>
+  <CouldNotFindMapOfCapital>수도의 지도를 찾을 수 없습니다</CouldNotFindMapOfCapital>
+  <ResearchGeneratedWaste>선택된 연구 항목이 없어서 해당 파벌에서 생성된 연구 지점이 낭비되었습니다</ResearchGeneratedWaste>
+  <TaxesFrom>세금 에서</TaxesFrom>
+  <HaveBeenDelivered>배달이 되었습니다</HaveBeenDelivered>
+  <HasBeenConstructedAt>에 건설되었습니다</HasBeenConstructedAt>
+  <HasBeenEnactedAt>에 제정되었습니다</HasBeenEnactedAt>
+  <EnactedInYourFaction>당신에 세력에서 제정되었다.</EnactedInYourFaction>
+  <ConstructBuilding>건물 건설</ConstructBuilding>
+  <Cost>비용</Cost>
+  <Effect>효과</Effect>
+  <Construct>건설중</Construct>
+  <Info>정보</Info>
+  <Built>제작됨</Built>
+  <Destroy>파괴</Destroy>
+  <Build>건설</Build>
+  <WillBeConstructedIn>에 건설될 것입니다</WillBeConstructedIn>
+  <Enact>제정</Enact>
+  <Enacted>제정된</Enacted>
+  <Repeal>폐지하다</Repeal>
+  <WillBeEnactedIn>에서 제정될 것입니다</WillBeEnactedIn>
+  <EnactPolicy>정책 제정</EnactPolicy>
+  <TitheList>십일조 목록</TitheList>
+  <StackCount>스택 카운트</StackCount>
+  <TotalValue>총 가격</TotalValue>
+  <CashSymbol>$</CashSymbol>
+  <SettlementManager>주거지 매니저</SettlementManager>
+  <CreateNewColony>새 정착지 생성</CreateNewColony>
+  <SelectTile>세력을 만들기 위해 타일을 선택하십시오</SelectTile>
+  <SetAsFactionCapital>세력의 수도로 정해졌습니다</SetAsFactionCapital>
+  <Colonies>정착지의</Colonies>
+  <Bills>계획서</Bills>
+  <Events>사건</Events>
+  <Settlement>정착지</Settlement>
+  <Settlements>거주 지역</Settlements>
+  <ColonyLevel>정착지 레벨</ColonyLevel>
+  <MilitaryLevel>군사 레벨</MilitaryLevel>
+  <Unrest>불안</Unrest>
+  <Profit>수익</Profit>
+  <Loyalty>충성심</Loyalty>
+  <TotalProduction>총 생산</TotalProduction>
+  <FactionHappiness>세력 행복</FactionHappiness>
+  <FactionLoyalty>세력 충성심</FactionLoyalty>
+  <FactionUnrest>세력 불안</FactionUnrest>
+  <FactionProsperity>세력 변영</FactionProsperity>
+  <FactionHappinessDesc>세력의 전반적인 행복의 척도. 높은 행복은 정착지 내의 어떠한 내적 갈등도 당신에게 크게 기대게 된다는 것을 의미합니다</FactionHappinessDesc>
+  <FactionLoyaltyDesc>세력의 전반적인 충성도의 척도. 정착지의 충성심은 정착지가 얼마나 당신의 말을 귀담아 들을 의향이 있는가를 결정한다. 충성도가 높으면 변절 가능성이 줄어든다.</FactionLoyaltyDesc>
+  <FactionUnrestDesc>정착촌의 전반적인 불안의 척도. 불안이 커질수록 주거지 내부의 위험한 사건들이 불붙을 가능성이 커집니다. 너무 높게 나오면 정착촌 폭동이 일어날지도 모른다.</FactionUnrestDesc>
+  <FactionProsperityDesc>정착지의 전반적인 번영에 대한 척도. 도시의 번영은 자원의 생산과 직결된다. 50% 번영 = 50% 생산. 번영이 훼손되면 시간이 흐르면서 계속 축적될 것입니다</FactionProsperityDesc>
+  <Policies-Traits>정책/특성</Policies-Traits>
+  <TaxReports>세금 보고서</TaxReports>
+  <TotalFactionProduction>정착지의 총 정산 생산량</TotalFactionProduction>
+  <EstimatedProfit>Est. 수익</EstimatedProfit>
+  <TimeTillTax>시간 당 세금</TimeTillTax>
+  <CustomizeSettlement>정착지 커스터마이즈</CustomizeSettlement>
+  <SettlementName>주거지 이름</SettlementName>
+  <Hamlet>촌락</Hamlet>
+  <BuildingAlreadyType>그런 유형의 건물이 이미 있습니다</BuildingAlreadyType>
+  <NotEnoughSilverConstructBuilding>현재 지도에 그 건물을 건설하기에 충분한 은이 없습니다</NotEnoughSilverConstructBuilding>
+  <BuildingBeingBuiltAlreadyType>이미 그런 유형의 건물이 지어지고 있습니다</BuildingBeingBuiltAlreadyType>
+  <BuildingAlreadyConstructed>그곳에는 이미 건축중인 건물이 있습니다</BuildingAlreadyConstructed>
+  <UpgradeSettlement>정착지 업그레이드</UpgradeSettlement>
+  <CanBeUpgraded>을 위해 업그레이드 가능</CanBeUpgraded>
+  <UpgradeColonyDesc>이 식민지를 업그레이드하면 근로자 비용이 3명 증가하기 전에 최대 근로자 수가 증가할 것이다. 이 식민지의 군사 수준도 1 정도 증가할 것이다.</UpgradeColonyDesc>
+  <HasBeenUpgraded>해당 레벨로 업그레이드됬습니다</HasBeenUpgraded>
+  <AlreadyMaxLevel>이미 최대 수준의 레벨입니다</AlreadyMaxLevel>
+  <NotEnoughSilverUpgrade>현재 지도에는 정산 업그레이드 비용을 지불하기에 충분한 은화가 없다.</NotEnoughSilverUpgrade>
+  <CannotBeUpgradedPastMax>이 정착지는 최대 수준을 초과하여 업그레이드할 수 없음</CannotBeUpgradedPastMax>
+  <TownLog>도시 기록</TownLog>
+  <UpgradeTown>도시 업그레이드</UpgradeTown>
+  <GoToLocation>위치로 이동</GoToLocation>
+  <AssignedWorkers>할당된 노동자들</AssignedWorkers>
+  <IsTithe>십일조</IsTithe>
+  <ProductionEfficiency>생산 효율성</ProductionEfficiency>
+  <SettlementProductionOf>정착지의 총 정산 생산량</SettlementProductionOf>
+  <Workers>노동자</Workers>
+  <Located>안에 위치한</Located>
+  <LandOf>땅의</LandOf>
+  <SettlementMilitaryLevel>정착지 군사레벨</SettlementMilitaryLevel>
+  <SettlementHappiness>행복한 정착지</SettlementHappiness>
+  <SettlementLoyalty>정착지의 충성심</SettlementLoyalty>
+  <SettlementUnrest>정착지 불안</SettlementUnrest>
+  <SettlementProsperity>정착지의 번영</SettlementProsperity>
+  <SettlementMilitaryLevelDesc>정착촌의 군사 수준 측정. 마을의 군사적 수준은 외부의 위협에 대한 공격뿐만 아니라 자신을 방어하는 마을의 능력에 직접적인 영향을 미칩니다</SettlementMilitaryLevelDesc>
+  <SettlementHappinessDesc>정착지의 전반적인 행복의 척도. 높은 행복은 정착지 내의 어떠한 내적 갈등도 당신에게 크게 기대게 된다는 것을 의미합니다</SettlementHappinessDesc>
+  <SettlementLoyaltyDesc>정착지의 전반적인 충성도에 대한 측정값. 정착지의 충성은 정착지가 얼마나 당신의 말을 귀담아 들을 의향이 있는가를 결정한다. 충성도가 높으면 변절 가능성이 줄어든다.</SettlementLoyaltyDesc>
+  <SettlementUnrestDesc>정착촌의 전반적인 불안의 척도. 불안이 커질수록 주거지 내부의 위험한 사건들이 불붙을 가능성이 커집니다. 너무 높게 나오면 정착촌 폭동이 일어날지도 모른다.</SettlementUnrestDesc>
+  <SettlementProsperityDesc>정착지의 전반적인 번영에 대한 척도. 도시의 번영은 자원의 생산과 직결된다. 50% 번영 = 50% 생산. 번영이 훼손되면 시간이 흐르면서 계속 축적될 것입니다</SettlementProsperityDesc>
+  <BuildingUpgrades>건설 업그레이드</BuildingUpgrades>
+  <AddedInFuture>이것은 미래에 추가될 것입니다</AddedInFuture>
+  <Production>생산</Production>
+  <TaxBase>세금기준</TaxBase>
+  <Total>모든 휴대무기의 제한</Total>
+  <Income>소득</Income>
+  <Upkeep>유지</Upkeep>
+  <CostPerWorker>근로자당 비용</CostPerWorker>
+  <FactionTaxReports>정착지 세금 보고서</FactionTaxReports>
+  <Date>날짜</Date>
+  <Tithe>기부율</Tithe>
+  <View>보기</View>
+  <SettlementTaxCollection>정착지 세금 징수</SettlementTaxCollection>
+  <Report>보고하기</Report>
+  <Reports>보고서</Reports>
+  <GoTo>이동하기</GoTo>
+  <EstimatedValue>추정값</EstimatedValue>
+  <DeleteSettlement>정착지 제거</DeleteSettlement>
+  <AreYouSureRemove>확실합니까?</AreYouSureRemove>
+  <SettlementRemoved>정착지가 제거되었습니다</SettlementRemoved>
+  <FactionPoliciesAndTraits>세력정책과 특성</FactionPoliciesAndTraits>
+  <TaxLaw>세법</TaxLaw>
+  <SocialPolicy>사회정책</SocialPolicy>
+  <MilitaryPolicy>군사정책</MilitaryPolicy>
+  <FactionTraits>세력 특성</FactionTraits>
+  <AddTrait>특징 추가</AddTrait>
+</LanguageData>
