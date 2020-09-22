@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RH_TravelingAerospatialeGazelle.label>에어로스페시알 가젤</RH_TravelingAerospatialeGazelle.label>
+  <RH_TravelingAerospatialeGazelle.description>에어로스페시알 가젤이 비행 중입니다.</RH_TravelingAerospatialeGazelle.description>
+  <RH_TravelingC130Hercules.label>C-130 허큘리스</RH_TravelingC130Hercules.label>
+  <RH_TravelingC130Hercules.description>C-130 허큘리스가 비행 중입니다.</RH_TravelingC130Hercules.description>
+  <RH_TravelingCH47Chinook.label>CH-47 치누크</RH_TravelingCH47Chinook.label>
+  <RH_TravelingCH47Chinook.description>CH-47 치누크가 비행 중입니다.</RH_TravelingCH47Chinook.description>
+  <RH_TravelingCH53SeaStallion.label>CH-53 씨 스탤리온</RH_TravelingCH53SeaStallion.label>
+  <RH_TravelingCH53SeaStallion.description>CH-53 씨 스탤리온이 비행 중입니다.</RH_TravelingCH53SeaStallion.description>
+  <RH_TravelingDeLoreanTimeMachine.label>DMC-12 드로리안</RH_TravelingDeLoreanTimeMachine.label>
+  <RH_TravelingDeLoreanTimeMachine.description>DMC-12 드로리안이 비행 중입니다.</RH_TravelingDeLoreanTimeMachine.description>
+  <RH_TravelingEmbraerPhenomPrivateJet.label>엠브라에르 페놈 300</RH_TravelingEmbraerPhenomPrivateJet.label>
+  <RH_TravelingEmbraerPhenomPrivateJet.description>엠브라에르 페놈 300이 비행 중입니다.</RH_TravelingEmbraerPhenomPrivateJet.description>
+  <RH_TravelingMH6LittleBird.label>MH-6 리틀 버드</RH_TravelingMH6LittleBird.label>
+  <RH_TravelingMH6LittleBird.description>MH-6 리틀 버드가 비행 중입니다.</RH_TravelingMH6LittleBird.description>
+  <RH_TravelingMV22Osprey.label>V-22 오스프리</RH_TravelingMV22Osprey.label>
+  <RH_TravelingMV22Osprey.description>V-22 오스프리가 비행 중입니다.</RH_TravelingMV22Osprey.description>
+  <RH_TravelingUH1Huey.label>UH-1 휴이</RH_TravelingUH1Huey.label>
+  <RH_TravelingUH1Huey.description>UH-1 휴이가 비행 중입니다.</RH_TravelingUH1Huey.description>
+  <RH_TravelingUH60BlackHawk.label>UH-60 블랙 호크</RH_TravelingUH60BlackHawk.label>
+  <RH_TravelingUH60BlackHawk.description>UH-60 블랙 호크가 비행 중입니다.</RH_TravelingUH60BlackHawk.description>
+
+</LanguageData>

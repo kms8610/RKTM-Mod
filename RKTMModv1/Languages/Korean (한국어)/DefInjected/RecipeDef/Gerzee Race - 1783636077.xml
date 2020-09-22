@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallBionicEyeStalk.label>생체공학 눈 줄기 이식</InstallBionicEyeStalk.label>
+  <InstallBionicEyeStalk.description>생체공학 눈 줄기를 이식합니다.</InstallBionicEyeStalk.description>
+  <InstallBionicEyeStalk.jobString>생체공학 눈 줄기 이식 중.</InstallBionicEyeStalk.jobString>
+  <InstallArchotechEyeStalk.label>초월공학 눈 줄기 이식</InstallArchotechEyeStalk.label>
+  <InstallArchotechEyeStalk.description>초월공학 눈 줄기를 이식합니다.</InstallArchotechEyeStalk.description>
+  <InstallArchotechEyeStalk.jobString>초월공학 눈 줄기 이식 중.</InstallArchotechEyeStalk.jobString>
+
+</LanguageData>

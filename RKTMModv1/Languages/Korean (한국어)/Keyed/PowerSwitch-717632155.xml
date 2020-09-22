@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PowerSwitch_SwitchOnOff>스위치: 켜기/끄기</PowerSwitch_SwitchOnOff>
+  <PowerSwitch_AutoONMotionRoom>자동 켜기: 방 안에서 동작 감지.</PowerSwitch_AutoONMotionRoom>
+  <PowerSwitch_AutoONMotionNearbyRange>자동 켜기: 근처에서 동작 감지. 거리:</PowerSwitch_AutoONMotionNearbyRange>
+  <PowerSwitch_AutoONEnemyNearbyRange>자동 켜기: 근처에 적. 거리:</PowerSwitch_AutoONEnemyNearbyRange>
+  <PowerSwitch_AutoOFFEnemyNearbyRange>자동 끄기: 근처에 적. 거리:</PowerSwitch_AutoOFFEnemyNearbyRange>
+  <PowerSwitch_TimerClickSwitchOnTime>시간 설정: 클릭하여 시간을 조정합니다.</PowerSwitch_TimerClickSwitchOnTime>
+  <PowerSwitch_TimerClickSwitchOffTime>시간 설정: 클릭하여 시간을 조정합니다.</PowerSwitch_TimerClickSwitchOffTime>
+  <PowerSwitch_On>켜기</PowerSwitch_On>
+  <PowerSwitch_Off>끄기</PowerSwitch_Off>
+  <PowerSwitch_OnRange>켜기 - 거리:</PowerSwitch_OnRange>
+  <PowerSwitch_AutoMotion>자동 동작 감지:</PowerSwitch_AutoMotion>
+  <PowerSwitch_AutoEnemy>자동 위험 감지:</PowerSwitch_AutoEnemy>
+  <PowerSwitch_Timer>시간 설정</PowerSwitch_Timer>
+  <PowerSwitch_TimeOnTimeOff>{0:00}시 - {1:00}시</PowerSwitch_TimeOnTimeOff>
+  <PowerSwitch_ModOptions_Category>전원 스위치</PowerSwitch_ModOptions_Category>
+  <PowerSwitch_ModOptions_EnemyDetectionViaDesignation>위험 감지 스위치는 직접 정착민이 조작. (표준: 켜기)</PowerSwitch_ModOptions_EnemyDetectionViaDesignation>
+  <PowerSwitch_ModOptions_EnemyDetectionViaDesignation_hint>이 기능을 끄면 위험 감지시 정착민이 스위치를 조작하지 않아도, 바로 스위치가 작동합니다.\n\n-변경 후 저장파일을 다시 불러와야 적용됩니다-</PowerSwitch_ModOptions_EnemyDetectionViaDesignation_hint>
+  <PowerSwitch_ModOptions_EnemyDetectionRangePercentofMap>적 감지 범위 설정 (표준: 지도 크기의 45%)</PowerSwitch_ModOptions_EnemyDetectionRangePercentofMap>
+
+</LanguageData>

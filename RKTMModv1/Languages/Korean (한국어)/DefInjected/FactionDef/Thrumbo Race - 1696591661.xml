@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThrumboRacePlayer.label>트럼보니안피아</ThrumboRacePlayer.label>
+  <ThrumboRacePlayer.description>트럼보니안의 드문 모임</ThrumboRacePlayer.description>
+  <ThrumboRacePlayer.pawnsPlural>정착민들</ThrumboRacePlayer.pawnsPlural>
+  <ThrumboRace.label>트럼보니안들</ThrumboRace.label>
+  <ThrumboRace.fixedName>트럼보니안들</ThrumboRace.fixedName>
+
+</LanguageData>

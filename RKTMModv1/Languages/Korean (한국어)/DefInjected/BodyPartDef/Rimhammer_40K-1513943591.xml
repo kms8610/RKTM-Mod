@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SecondaryHeart.label>두 번째 심장</SecondaryHeart.label>
+  <Ossmodula.label>오스모듈라</Ossmodula.label>
+  <Bidcopea.label>바이스코피아</Bidcopea.label>
+  <LarramansOrgan.label>레라멘의 기관</LarramansOrgan.label>
+  <CatelpseanNode.label>카탈렙시안 마디</CatelpseanNode.label>
+  <Preomnor.label>프리옴노르</Preomnor.label>
+  <Omophadea.label>오모페지아</Omophadea.label>
+  <MultiLung.label>다중 폐</MultiLung.label>
+  <Occulobe.label>오큘로브</Occulobe.label>
+  <SusanMembrane.label>가사 유도막</SusanMembrane.label>
+  <OoliticKidney.label>어란상 신장</OoliticKidney.label>
+  <Neuroglottis.label>뉴로글로티스</Neuroglottis.label>
+  <Mucranoid.label>뮤크라노이드</Mucranoid.label>
+  <BetchersGland.label>벳쳐의 샘</BetchersGland.label>
+  <Progenoid.label>프로지노이드 샘</Progenoid.label>
+  <ScarabOuterShell.label>외통</ScarabOuterShell.label>
+  <ScarabCore.label>코어</ScarabCore.label>
+  <ScarabThoughtCore.label>생각 코어</ScarabThoughtCore.label>
+  <ScarabOptic.label>눈</ScarabOptic.label>
+  <ScarabShell.label>껍데기</ScarabShell.label>
+  <ScarabHead.label>머리</ScarabHead.label>
+  <ScarabManipulatorSocket.label>조종자 소켓</ScarabManipulatorSocket.label>
+  <ScarabManipulator.label>오른쪽 조종자</ScarabManipulator.label>
+  <ScarabManipulatorDigit.label>손가락</ScarabManipulatorDigit.label>
+  <ScarabHoverPlate.label>부양판</ScarabHoverPlate.label>
+  <ScarabGaussExtractor.label>가우스기</ScarabGaussExtractor.label>
+  <Crest.label>볏</Crest.label>
+  <Spikes.label>스파이크</Spikes.label>
+  <Club.label>곤봉</Club.label>
+  <SkullDome.label>해골 돔</SkullDome.label>
+  <FootClaw.label>낫 발톱</FootClaw.label>
+  <FootClaw.labelShort>발톱</FootClaw.labelShort>
+  <Knucklehead.label>돌대가리</Knucklehead.label>
+  <KrootBeak.label>부리</KrootBeak.label>
+  <NecronHeart.label>수리 모듈</NecronHeart.label>
+  <NecronLeftLung.label>왼쪽 히트 싱크</NecronLeftLung.label>
+  <NecronRightLung.label>오른쪽 히트 싱크</NecronRightLung.label>
+  <NecronLeftKidney.label>가우스 전지</NecronLeftKidney.label>
+  <NecronRightKidney.label>마이크로스카라브 저장고</NecronRightKidney.label>
+  <NecronLiver.label>가우스 정화 장치</NecronLiver.label>
+  <NecronStomach.label>바이오 프로세서</NecronStomach.label>
+  <NecronRightServo.label>유동 서보</NecronRightServo.label>
+  <NecronGenerator.label>가우스 집전기</NecronGenerator.label>
+  <TauFoot.label>발굽</TauFoot.label>
+  <VespidMandibleL.label>왼쪽 턱</VespidMandibleL.label>
+  <VespidMandibleR.label>오른쪽 턱</VespidMandibleR.label>
+  <VespidAbdomen.label>복부</VespidAbdomen.label>
+  <VespidWing.label>날개</VespidWing.label>
+  <NecronFramework.label>뼈대</NecronFramework.label>
+  <NecronThorax.label>가슴</NecronThorax.label>
+  <LeftHand.label>왼쪽 손</LeftHand.label>
+  <RightHand.label>오른쪽 손</RightHand.label>
+  <NecronNeck.label>목</NecronNeck.label>
+  <NecronHead.label>머리</NecronHead.label>
+  <LeftSightSensor.label>왼쪽 시력 센서</LeftSightSensor.label>
+  <RightSightSensor.label>오른쪽 시력 센서</RightSightSensor.label>
+  <LeftHearingSensor.label>왼쪽 청각 센서</LeftHearingSensor.label>
+  <RightHearingSensor.label>오른쪽 청각 센서</RightHearingSensor.label>
+  <LeftNecronShoulder.label>왼쪽 어깨</LeftNecronShoulder.label>
+  <LeftNecronArm.label>왼쪽 팔</LeftNecronArm.label>
+  <LeftNecronHand.label>왼쪽 손</LeftNecronHand.label>
+  <LeftHandNecronPinky.label>왼쪽 새끼손가락</LeftHandNecronPinky.label>
+  <LeftHandNecronMiddleFinger.label>왼쪽 가운데 손가락</LeftHandNecronMiddleFinger.label>
+  <LeftHandNecronIndexFinger.label>왼쪽 집게 손가락</LeftHandNecronIndexFinger.label>
+  <LeftHandNecronThumb.label>왼쪽 엄지손가락</LeftHandNecronThumb.label>
+  <RightNecronShoulder.label>오른쪽 어깨</RightNecronShoulder.label>
+  <RightNecronArm.label>오른쪽 팔</RightNecronArm.label>
+  <RightNecronHand.label>오른쪽 손</RightNecronHand.label>
+  <RightHandNecronPinky.label>오른쪽 새끼손가락</RightHandNecronPinky.label>
+  <RightHandNecronMiddleFinger.label>오른쪽 가운데 손가락</RightHandNecronMiddleFinger.label>
+  <RightHandNecronIndexFinger.label>오른쪽 집게 손가락</RightHandNecronIndexFinger.label>
+  <RightHandNecronThumb.label>오른쪽 엄지손가락</RightHandNecronThumb.label>
+  <LeftNecronLeg.label>왼쪽 다리</LeftNecronLeg.label>
+  <LeftNecronFoot.label>왼쪽 발</LeftNecronFoot.label>
+  <RightNecronLeg.label>오른쪽 다리</RightNecronLeg.label>
+  <RightNecronFoot.label>오른쪽 발</RightNecronFoot.label>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TerrainZoneSelect.TerrainStockpileZoneExpandResource>지형에 따른 저장 구역 지정</TerrainZoneSelect.TerrainStockpileZoneExpandResource>
+  <TerrainZoneSelect.TerrainStockpileZoneExpandResourceDesc>선택한 지형을 사용하여 식민지 주민이 자원을 저장할 저장 구역을 만듭니다.\n이 도구는 또한 기존 구역을 확장할 수 있습니다.</TerrainZoneSelect.TerrainStockpileZoneExpandResourceDesc>
+  <TerrainZoneSelect.TerrainStockpileZoneExpandDumping>지형에 따른 처리 구역 지정</TerrainZoneSelect.TerrainStockpileZoneExpandDumping>
+  <TerrainZoneSelect.TerrainStockpileZoneExpandDumpingDesc>선택한 지형을 사용하여 식민지 주민이 폐기물을 보관할 처리 구역을 만듭니다.\n이 도구는 또한 기존 구역을 확장할 수 있습니다.</TerrainZoneSelect.TerrainStockpileZoneExpandDumpingDesc>
+  <TerrainZoneSelect.TerrainGrowZone>지형에 따른 재배 지역</TerrainZoneSelect.TerrainGrowZone>
+  <TerrainZoneSelect.TerrainGrowZoneDesc>선택한 지형을 사용하여 식민지 주민이 특정 종류의 식물을 재배할 영역을 만듭니다.</TerrainZoneSelect.TerrainGrowZoneDesc>
+  <TerrainZoneSelect.TerrainShrinkZone>지형에 따른 영역 축소</TerrainZoneSelect.TerrainShrinkZone>
+  <TerrainZoneSelect.TerrainShrinkZoneDesc>저장 구역 또는 재배 구역와 같이 선택된 지형을 사용한 구역를 제거합니다.</TerrainZoneSelect.TerrainShrinkZoneDesc>
+
+</LanguageData>

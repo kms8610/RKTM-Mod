@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VasoconstrictionJuice.label>브로모플라이</VasoconstrictionJuice.label>
+  <VasoconstrictionJuice.description>브로모플라이, 고주스에 약간의 합성으로 만들어진 혈관수축을 위한 약물입니다. 절대로 한 번에 두 개이상 사용하지 마십시요!</VasoconstrictionJuice.description>
+  <VasoconstrictionJuice.ingestible.ingestCommandString>{0} 투여</VasoconstrictionJuice.ingestible.ingestCommandString>
+  <VasoconstrictionJuice.ingestible.ingestReportString>{0} 투여 중.</VasoconstrictionJuice.ingestible.ingestReportString>
+  <VasoconstrictionJuice_Pack.label>브로모플라이 팩</VasoconstrictionJuice_Pack.label>
+  <VasoconstrictionJuice_Pack.description>브로모플라이 10개분을 담아둔 팩입니다 그냥은 사용할 수 없고 팩에 담아진 용액을 주사기에 옮겨 담아야 합니다.</VasoconstrictionJuice_Pack.description>
+
+</LanguageData>

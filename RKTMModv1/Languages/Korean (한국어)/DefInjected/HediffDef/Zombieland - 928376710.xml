@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZombieBite.label>물림</ZombieBite.label>
+  <ZombieBite.comps.0.labelTendedWell>붕대감음</ZombieBite.comps.0.labelTendedWell>
+  <ZombieBite.comps.0.labelTendedWellInner>봉합됨</ZombieBite.comps.0.labelTendedWellInner>
+  <ZombieBite.comps.0.labelSolidTendedWell>접합됨</ZombieBite.comps.0.labelSolidTendedWell>
+  <ZombieBite.injuryProps.destroyedLabel>좀비에게 물어뜯김</ZombieBite.injuryProps.destroyedLabel>
+  <ZombieBite.injuryProps.destroyedOutLabel>좀비에게 물어뜯김</ZombieBite.injuryProps.destroyedOutLabel>
+
+</LanguageData>

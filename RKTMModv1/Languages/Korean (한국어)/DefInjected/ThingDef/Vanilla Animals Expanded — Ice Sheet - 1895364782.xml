@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_WalrusTusk.label>바다코끼리 상아</AEXP_WalrusTusk.label>
+  <AEXP_WalrusTusk.description>바다코끼리의 상아입니다. 이것은 꽤 가치 있지만 근접 무기로 다루기엔 조금 힘듭니다.</AEXP_WalrusTusk.description>
+  <AEXP_WalrusTusk.tools.0.label>상아끝</AEXP_WalrusTusk.tools.0.label>
+  <AEXP_WalrusTusk.tools.1.label>상아날</AEXP_WalrusTusk.tools.1.label>
+  <AEXP_EggPenguinFertilized.label>펭귄 알 (유정란)</AEXP_EggPenguinFertilized.label>
+  <AEXP_EggPenguinFertilized.description>수정된 펭귄 알입니다. 적합한 환경에서 새끼 펭귄으로 부화할 수 있습니다. 생으로 먹을 수 있지만 조리했을 때 훨씬 훌륭합니다.</AEXP_EggPenguinFertilized.description>
+  <AEXP_RawFish.label>생선</AEXP_RawFish.label>
+  <AEXP_RawFish.description>똑똑한 펭귄이 방금 낚아챈 생선입니다.</AEXP_RawFish.description>
+  <AEXP_RawFish.tools.0.label>생선</AEXP_RawFish.tools.0.label>
+  <AEXP_Leather_Pinniped.label>기각류 가죽</AEXP_Leather_Pinniped.label>
+  <AEXP_Leather_Pinniped.description>무두질하고 말린 기각류의 가죽입니다. 일반적인 내구성에 비해, 내열성이 좋습니다.</AEXP_Leather_Pinniped.description>
+  <AEXP_Leather_Pinniped.stuffProps.stuffAdjective>기각류 가죽</AEXP_Leather_Pinniped.stuffProps.stuffAdjective>
+  <AEXP_Penguin.label>펭귄</AEXP_Penguin.label>
+  <AEXP_Penguin.description>굉장히 추운 지역에서만 발견되는, 날지 못하는 수생 조류입니다. 종종 거대한 무리를 지어 다니는 펭귄은 궁지에 몰렸을 때 매우 사나우며, 자신들을 사냥하려는 포식자들이 만만할 경우에는 물리치기까지 합니다.</AEXP_Penguin.description>
+  <AEXP_Penguin.tools.0.label>발톱</AEXP_Penguin.tools.0.label>
+  <AEXP_Penguin.tools.1.label>부리</AEXP_Penguin.tools.1.label>
+  <AEXP_Penguin.tools.2.label>머리</AEXP_Penguin.tools.2.label>
+  <AEXP_Penguin_Leather.label>펭귄 가죽</AEXP_Penguin_Leather.label>
+  <AEXP_Penguin_Leather.description>펭귄 가죽입니다.</AEXP_Penguin_Leather.description>
+  <AEXP_Penguin_Leather.stuffProps.stuffAdjective>펭귄 가죽</AEXP_Penguin_Leather.stuffProps.stuffAdjective>
+  <AEXP_Penguin_Corpse.label>펭귄 시체</AEXP_Penguin_Corpse.label>
+  <AEXP_Penguin_Corpse.description>펭귄 시체입니다.</AEXP_Penguin_Corpse.description>
+  <AEXP_Seal.label>바다표범</AEXP_Seal.label>
+  <AEXP_Seal.description>중간 크기의 포유동물로, 포식자들로부터 도망치고, 먹고, 짝짓기를 하기 위해서만 뭍으로 올라옵니다. 공격적인 사냥꾼인 바다표범은 자신보다 훨씬 더 큰 먹이를 사냥하기도 하며, 허기가 진다면 식인 풍습도 서슴지 않는 걸로 알려져 있습니다.</AEXP_Seal.description>
+  <AEXP_Seal.tools.0.label>왼쪽 앞 지느러미발</AEXP_Seal.tools.0.label>
+  <AEXP_Seal.tools.1.label>오른쪽 앞 지느러미발</AEXP_Seal.tools.1.label>
+  <AEXP_Seal.tools.3.label>머리</AEXP_Seal.tools.3.label>
+  <AEXP_Seal_Leather.label>바다표범 가죽</AEXP_Seal_Leather.label>
+  <AEXP_Seal_Leather.description>바다표범 가죽입니다.</AEXP_Seal_Leather.description>
+  <AEXP_Seal_Leather.stuffProps.stuffAdjective>바다표범 가죽</AEXP_Seal_Leather.stuffProps.stuffAdjective>
+  <AEXP_Seal_Meat.label>기각류 고기</AEXP_Seal_Meat.label>
+  <AEXP_Seal_Meat.description>기각류 고기입니다.</AEXP_Seal_Meat.description>
+  <AEXP_Seal_Corpse.label>바다표범 시체</AEXP_Seal_Corpse.label>
+  <AEXP_Seal_Corpse.description>바다표범 시체입니다.</AEXP_Seal_Corpse.description>
+  <AEXP_Walrus.label>바다코끼리</AEXP_Walrus.label>
+  <AEXP_Walrus.description>바다코끼리는 굉장히 추운 지역에서만 발견되는 큰 해양 동물입니다. 바다코끼리는 전세계에서 귀중한 사치품인 두드러진 엄니를 가지고 있습니다.</AEXP_Walrus.description>
+  <AEXP_Walrus.tools.1.label>머리</AEXP_Walrus.tools.1.label>
+  <AEXP_Walrus_Leather.label>바다코끼리 가죽</AEXP_Walrus_Leather.label>
+  <AEXP_Walrus_Leather.description>바다코끼리 가죽입니다.</AEXP_Walrus_Leather.description>
+  <AEXP_Walrus_Leather.stuffProps.stuffAdjective>바다코끼리 가죽</AEXP_Walrus_Leather.stuffProps.stuffAdjective>
+  <AEXP_Walrus_Corpse.label>바다코끼리 시체</AEXP_Walrus_Corpse.label>
+  <AEXP_Walrus_Corpse.description>바다코끼리 시체입니다.</AEXP_Walrus_Corpse.description>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LessLethalTurrets.label>덜 치명적인 포탑들</LessLethalTurrets.label>
+  <LessLethalTurrets.description>비살상적인 포탑을 생산할 수 있습니다.</LessLethalTurrets.description>
+  <AdvancedTurrets.label>고급 포탑</AdvancedTurrets.label>
+  <AdvancedTurrets.description>중대한 방어를 위한 고급 포탑을 생산할 수 있습니다.</AdvancedTurrets.description>
+  <EnergyTurret.label>에너지 포탑</EnergyTurret.label>
+  <EnergyTurret.description>에너지에 굶주린 포탑을 생산할 수 있습니다.</EnergyTurret.description>
+
+</LanguageData>

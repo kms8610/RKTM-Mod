@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_Syulipia_LeatherCord.label>가죽끈 만들기</Make_Syulipia_LeatherCord.label>
+  <Make_Syulipia_LeatherCord.description>가죽끈을 만든다.</Make_Syulipia_LeatherCord.description>
+  <Make_Syulipia_LeatherCord.jobString>가죽끈을 만드는 중.</Make_Syulipia_LeatherCord.jobString>
+  <Make_Syulipia_GoldenChicken.label>"황금닭" 소환</Make_Syulipia_GoldenChicken.label>
+  <Make_Syulipia_GoldenChicken.description>"황금알"에서 "황금닭"이 태어난다.\n※야생의 상태로 태어나니 주의.</Make_Syulipia_GoldenChicken.description>
+  <Make_Syulipia_GoldenChicken.jobString>황금알 가공 중.</Make_Syulipia_GoldenChicken.jobString>
+  <Make_Syulipia_NormalSlime.label>"슬라임" 소환</Make_Syulipia_NormalSlime.label>
+  <Make_Syulipia_NormalSlime.description>"이상한 알"에서 "슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의.</Make_Syulipia_NormalSlime.description>
+  <Make_Syulipia_NormalSlime.jobString>이상한 알 가공 중.</Make_Syulipia_NormalSlime.jobString>
+  <Make_Syulipia_PoisonSlime.label>"포이즌 슬라임" 소환</Make_Syulipia_PoisonSlime.label>
+  <Make_Syulipia_PoisonSlime.description>"이상한 알"에서 "포이즌 슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의.</Make_Syulipia_PoisonSlime.description>
+  <Make_Syulipia_PoisonSlime.jobString>이상한 알 가공 중.</Make_Syulipia_PoisonSlime.jobString>
+  <Make_Syulipia_DarkSlime.label>"다크 슬라임" 소환</Make_Syulipia_DarkSlime.label>
+  <Make_Syulipia_DarkSlime.description>"이상한 알"에서 "다크 슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의.</Make_Syulipia_DarkSlime.description>
+  <Make_Syulipia_DarkSlime.jobString>이상한 알 가공 중.</Make_Syulipia_DarkSlime.jobString>
+  <Make_Syulipia_HarmonySlime.label>"하모니 슬라임" 소환</Make_Syulipia_HarmonySlime.label>
+  <Make_Syulipia_HarmonySlime.description>"이상한 알"에서 "하모니 슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의.</Make_Syulipia_HarmonySlime.description>
+  <Make_Syulipia_HarmonySlime.jobString>이상한 알 가공 중.</Make_Syulipia_HarmonySlime.jobString>
+  <Make_Syulipia_MeatSlime.label>"미트 슬라임" 소환</Make_Syulipia_MeatSlime.label>
+  <Make_Syulipia_MeatSlime.description>"이상한 알"에서 "미트 슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의.</Make_Syulipia_MeatSlime.description>
+  <Make_Syulipia_MeatSlime.jobString>이상한 알 가공 중.</Make_Syulipia_MeatSlime.jobString>
+  <Make_Syulipia_MetalSlime.label>"메탈 슬라임" 소환</Make_Syulipia_MetalSlime.label>
+  <Make_Syulipia_MetalSlime.description>"이상한 알"에서 "메탈 슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의 바람</Make_Syulipia_MetalSlime.description>
+  <Make_Syulipia_MetalSlime.jobString>이상한 알 가공 중.</Make_Syulipia_MetalSlime.jobString>
+  <Make_Syulipia_ShineSlime.label>"샤인 슬라임" 소환</Make_Syulipia_ShineSlime.label>
+  <Make_Syulipia_ShineSlime.description>"이상한 알"에서 "샤인 슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의 바람</Make_Syulipia_ShineSlime.description>
+  <Make_Syulipia_ShineSlime.jobString>이상한 알 가공 중.</Make_Syulipia_ShineSlime.jobString>
+  <Make_Syulipia_IceSlime.label>"아이스 슬라임" 소환</Make_Syulipia_IceSlime.label>
+  <Make_Syulipia_IceSlime.description>"이상한 알"에서 "아이스 슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의.</Make_Syulipia_IceSlime.description>
+  <Make_Syulipia_IceSlime.jobString>이상한 알 가공 중.</Make_Syulipia_IceSlime.jobString>
+  <Make_Syulipia_MochiSlime.label>"모찌 슬라임" 소환</Make_Syulipia_MochiSlime.label>
+  <Make_Syulipia_MochiSlime.description>"이상한 알"에서 "모찌 슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의.</Make_Syulipia_MochiSlime.description>
+  <Make_Syulipia_MochiSlime.jobString>이상한 알 가공 중.</Make_Syulipia_MochiSlime.jobString>
+  <Make_Syulipia_WrappingSlime.label>"래핑 슬라임" 소환</Make_Syulipia_WrappingSlime.label>
+  <Make_Syulipia_WrappingSlime.description>"이상한 알"에서 "래핑 슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의.</Make_Syulipia_WrappingSlime.description>
+  <Make_Syulipia_WrappingSlime.jobString>이상한 알 가공 중.</Make_Syulipia_WrappingSlime.jobString>
+  <Make_Syulipia_TsuchiSlime.label>"대지 슬라임" 소환</Make_Syulipia_TsuchiSlime.label>
+  <Make_Syulipia_TsuchiSlime.description>"이상한 알"에서 "대지 슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의.</Make_Syulipia_TsuchiSlime.description>
+  <Make_Syulipia_TsuchiSlime.jobString>이상한 알 가공 중.</Make_Syulipia_TsuchiSlime.jobString>
+  <Make_Syulipia_ChocolateSlime.label>"초코 슬라임" 소환</Make_Syulipia_ChocolateSlime.label>
+  <Make_Syulipia_ChocolateSlime.description>"이상한 알"에서 "초코 슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의.</Make_Syulipia_ChocolateSlime.description>
+  <Make_Syulipia_ChocolateSlime.jobString>이상한 알 가공 중.</Make_Syulipia_ChocolateSlime.jobString>
+  <Make_Syulipia_StarrySlime.label>"스타리 슬라임" 소환</Make_Syulipia_StarrySlime.label>
+  <Make_Syulipia_StarrySlime.description>"이상한 알"에서 "스타리 슬라임"이 태어난다.\n※야생의 상태로 태어나니 주의.</Make_Syulipia_StarrySlime.description>
+  <Make_Syulipia_StarrySlime.jobString>이상한 알 가공 중.</Make_Syulipia_StarrySlime.jobString>
+  <Make_Syulipia_Kibble.label>대량 사료 제작</Make_Syulipia_Kibble.label>
+  <Make_Syulipia_Kibble.description>미트 슬라임의 사체를 해체하여 사료를 1200개 만든다.</Make_Syulipia_Kibble.description>
+  <Make_Syulipia_Kibble.jobString>미트 슬라임 헤체 중.</Make_Syulipia_Kibble.jobString>
+  <Make_Syulipia_Healer.label>이세계수의 물방울 제작</Make_Syulipia_Healer.label>
+  <Make_Syulipia_Healer.description>슬라임의 손실된 부위를 재생시키는 약을 만든다.</Make_Syulipia_Healer.description>
+  <Make_Syulipia_Healer.jobString>약물 성분 추출 중.</Make_Syulipia_Healer.jobString>
+  <Make_Syulipia_Resurrector.label>이세계수의 결정 제작</Make_Syulipia_Resurrector.label>
+  <Make_Syulipia_Resurrector.description>이세계수의 물방울을 결정화하고 부활약을 만든다.</Make_Syulipia_Resurrector.description>
+  <Make_Syulipia_Resurrector.jobString>이세계수의 물방울 결정화 중.</Make_Syulipia_Resurrector.jobString>
+  <Make_Syulipia_MechSerum.label>기술 향상의 마법서 제작</Make_Syulipia_MechSerum.label>
+  <Make_Syulipia_MechSerum.description>사용자의 스킬 레벨이 오르는 마법서를 만든다.</Make_Syulipia_MechSerum.description>
+  <Make_Syulipia_MechSerum.jobString>마법서 제작 중.</Make_Syulipia_MechSerum.jobString>
+  <Make_Syulipia_Lunchpack.label>화려한 도시락 제작</Make_Syulipia_Lunchpack.label>
+  <Make_Syulipia_Lunchpack.description>많은 량의 식재료를 사용해 영양 만점의 도시락을 만든다.\n일반 요리보다 조금 오래 간다.</Make_Syulipia_Lunchpack.description>
+  <Make_Syulipia_Lunchpack.jobString>도시락 만드는 중.</Make_Syulipia_Lunchpack.jobString>
+  <Make_Syulipia_Chocolate.label>생 초콜릿 제작</Make_Syulipia_Chocolate.label>
+  <Make_Syulipia_Chocolate.description>카카오 블록으로 초콜릿을 만든다.</Make_Syulipia_Chocolate.description>
+  <Make_Syulipia_Chocolate.jobString>생 초콜릿 만드는 중.</Make_Syulipia_Chocolate.jobString>
+  <Make_Syulipia_Chocolate_N.label>초콜릿 제작</Make_Syulipia_Chocolate_N.label>
+  <Make_Syulipia_Chocolate_N.description>카카오 블록으로 초콜릿을 만든다.</Make_Syulipia_Chocolate_N.description>
+  <Make_Syulipia_Chocolate_N.jobString>초콜릿 만드는 중.</Make_Syulipia_Chocolate_N.jobString>
+  <Make_Syulipia_Paper.label>종이 제작</Make_Syulipia_Paper.label>
+  <Make_Syulipia_Paper.description>나무로 종이를 만든다.</Make_Syulipia_Paper.description>
+  <Make_Syulipia_Paper.jobString>종이를 만드는 중.</Make_Syulipia_Paper.jobString>
+
+</LanguageData>

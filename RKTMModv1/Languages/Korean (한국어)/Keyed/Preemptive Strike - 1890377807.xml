@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PES_Intention_Raid>습격</PES_Intention_Raid>
+  <PES_Intention_TradeCaravan>상단 거래</PES_Intention_TradeCaravan>
+  <PES_Intention_Traveler>행인</PES_Intention_Traveler>
+  <PES_Intention_Visitor>방문객들</PES_Intention_Visitor>
+  <PES_Intention_AlphaBeavers>식목 너구리</PES_Intention_AlphaBeavers>
+  <PES_Intention_FarmAnimalsWanderIn>정착지에 합류</PES_Intention_FarmAnimalsWanderIn>
+  <PES_Intention_HerdMigration>이사</PES_Intention_HerdMigration>
+  <PES_Intention_ManHunterPack>식인동물 무리</PES_Intention_ManHunterPack>
+  <PES_Intention_ThrumboPass>트럼보 통과</PES_Intention_ThrumboPass>
+  <PES_Intention_RaidInGroups>(그룹)</PES_Intention_RaidInGroups>
+  <PES_RaidGoalName_Rescue>죄수 구출</PES_RaidGoalName_Rescue>
+  <PES_RaidGoalName_Despoil>약탈</PES_RaidGoalName_Despoil>
+  <PES_RaidGoalName_Revenge>복수</PES_RaidGoalName_Revenge>
+  <PES_RaidGoalName_Enslave>노예 습격중</PES_RaidGoalName_Enslave>
+  <PES_RaidGoalName_Conquer>정복</PES_RaidGoalName_Conquer>
+  <PES_RaidGoalName_Extortion>강탈</PES_RaidGoalName_Extortion>
+  <PES_RaidGoalName_Smite>징벌</PES_RaidGoalName_Smite>
+  <PES_RaidGoalName_Extermination>파멸</PES_RaidGoalName_Extermination>
+  <PES_Strategy_Normal>정면 공격</PES_Strategy_Normal>
+  <PES_Strategy_Sapper>공병</PES_Strategy_Sapper>
+  <PES_Strategy_Smart>영리한 공격</PES_Strategy_Smart>
+  <PES_Strategy_Siege>공성</PES_Strategy_Siege>
+  <PES_Strategy_Stage>결집 공격</PES_Strategy_Stage>
+  <PES_AnimalType_Unknown>동물 종류 미식별</PES_AnimalType_Unknown>
+  <PES_Unknown_SkyObject_Large>식별되지 않은 대형 낙하물</PES_Unknown_SkyObject_Large>
+  <PES_Unknown_SkyObject_Small>식별되지 않은 소형 낙하물</PES_Unknown_SkyObject_Small>
+  <PES_Skyfaller_raid>드랍포드 습격</PES_Skyfaller_raid>
+  <PES_Skyfaller_Meteorite>운석 낙하</PES_Skyfaller_Meteorite>
+  <PES_Skyfaller_ResourcePod>자원포드 추락</PES_Skyfaller_ResourcePod>
+  <PES_Skyfaller_RefugeePod>탈출포드 추락</PES_Skyfaller_RefugeePod>
+  <PES_Skyfaller_ShipChunk>우주선 파편 추락</PES_Skyfaller_ShipChunk>
+  <PES_Skyfaller_ShipPart>고대 우주선 추락</PES_Skyfaller_ShipPart>
+  <PES_Infestation_Title>감염 경보</PES_Infestation_Title>
+  <PES_Unknown_HumanCrowd>식별되지 않은 사람들</PES_Unknown_HumanCrowd>
+  <PES_Unknown_AnimalHerd>식별되지 않은 동물 군락</PES_Unknown_AnimalHerd>
+  <PES_UnknownFaction>식별되지않은 세력</PES_UnknownFaction>
+  <PES_Persuade_noun>설득</PES_Persuade_noun>
+  <PES_intimidate_noun>협박</PES_intimidate_noun>
+  <PES_beguile_noun>구걸</PES_beguile_noun>
+  <PES_SimpleConfirm>확인</PES_SimpleConfirm>
+  <PES_Disconnect>통신 종료</PES_Disconnect>
+  <PES_Cancel>신경 안쓴다</PES_Cancel>
+  <PES_ConfirmChoice>이건 해볼만하다</PES_ConfirmChoice>
+  <PES_Condition_Neutral>우군에게</PES_Condition_Neutral>
+  <PES_Condition_Hostile>적에게</PES_Condition_Hostile>
+  <PES_Odds_VeryHigh>lt;color=limegt;매우 높은 확률lt;/colorgt;</PES_Odds_VeryHigh>
+  <PES_Odds_High>lt;color=greengt;높은 확률lt;/colorgt;</PES_Odds_High>
+  <PES_Odds_Medium>lt;color=cyangt;중간 확률lt;/colorgt;</PES_Odds_Medium>
+  <PES_Odds_Low>lt;color=#f0a1aagt;낮은 확률lt;/colorgt;</PES_Odds_Low>
+  <PES_Odds_VeryLow>lt;color=redgt;매우 낮은 확률lt;/colorgt;</PES_Odds_VeryLow>
+  <PES_ASHAME>불행</PES_ASHAME>
+  <PES_Reassuring>안심</PES_Reassuring>
+  <PES_Nice>Nice</PES_Nice>
+  <PES_RaiseAlarm>적이 쳐들어온다! 경보를 울려라!</PES_RaiseAlarm>
+  <PES_trembling>떨림...</PES_trembling>
+  <PES_DAMNIT>이런 젠장!</PES_DAMNIT>
+  <PES_Friendly_Greeting>{0}중 사람들은 {1}에게 반갑게 인사를 건네며 곧 올 것이라고 말했습니다.</PES_Friendly_Greeting>
+  <PES_Friendly_Dismiss>그들에게 지금은 오기 좋은 시기가 아니라고 말해라.</PES_Friendly_Dismiss>
+  <PES_Friendly_Dismissed>그들은 우리의 메시지를 받았고 더 이상 우리 쪽으로 이동하지 않는다고 말했습니다.</PES_Friendly_Dismissed>
+  <PES_RaidNeg_Proglog>공격 그룹 {0} 중 한 멤버가 이 호출에 응답했습니다.그들은 {1}에서 왔다</PES_RaidNeg_Proglog>
+  <PES_RaidNeg_SurrenderSuccess>요구사항이 충족된 이후에 {0}이(가) 더 이상 우리측으로 이동하지 않습니다.</PES_RaidNeg_SurrenderSuccess>
+  <PES_RaidNeg_Attitude_Rude>몇 마디 욕을 한 후에,</PES_RaidNeg_Attitude_Rude>
+  <PES_RaidNeg_Attitude_Polite>그들은 우리가 예상치 못한 예의 바른 말투로,</PES_RaidNeg_Attitude_Polite>
+  <PES_RaidNeg_GoalExp_Extortion>그들은 우리에게 이 공격을 하기 위해서 우리에게 공금을 뜯어내라고 말했습니다:\n {0}x 백은\n</PES_RaidNeg_GoalExp_Extortion>
+  <PES_RaidNeg_GoalExp_Rescue>그들은 이 공격이 우리 측에 억류된 그들의 동료를 구출하기 위한 것이라고 말했습니다.그들이 우리에게 석방을 요청한 죄수는 다음과 같이 있습니다:\n{0}</PES_RaidNeg_GoalExp_Rescue>
+  <PES_RaidNeg_GoalExp_Revenge>그들은 이 공격이 이전에 우리 측에 의해 살해된 동료 {0}의 복수를 위한 것이라고 말했습니다. 그들은 살인자 {1}의 처형을 요구했습니다.</PES_RaidNeg_GoalExp_Revenge>
+  <PES_RaidNeg_GoalExp_Despoil>그들은 그들이 이 습격을 일으킨 것은 바로 약탈을 위한 것이라고 말했다.그들은 우리에게 다음과 같이 상납할 것을 요구했다.</PES_RaidNeg_GoalExp_Despoil>
+  <PES_RaidNeg_GoalExp_Enslave>그들은 자신들이 이 공격을 감행한 것은 노예를 더 많이 얻기 위한 것이라고 말했습니다.그들이 가져가려면:\n{0}</PES_RaidNeg_GoalExp_Enslave>
+  <PES_RaidNeg_GoalExp_Conquer>그들은 우리에게 이 습격을 감행한 것은 그들의 세력을 위해 새로운 땅을 정복한 것이라고 말했습니다.</PES_RaidNeg_GoalExp_Conquer>
+  <PES_RaidNeg_DemandSurrender_rude>그들은 우리에게 즉각 항복할 것을 요구했습니다.그들의 요구가 충족되지 않으면 그들의 표현대로 우리 측 식민지를 초토화시킬 것입니다.</PES_RaidNeg_DemandSurrender_rude>
+  <PES_RaidNeg_DemandSurrender_Polite>그들은 불필요한 인명 피해를 피하기 위해 그들의 요구를 고려해 줄 것을 요구했습니다.</PES_RaidNeg_DemandSurrender_Polite>
+  <PES_RaidNeg_Rebuff_Head>[단호히 거절하고 욕한다]:</PES_RaidNeg_Rebuff_Head>
+  <PES_RaidNeg_Rebuff_Rescue>이 죄수들을 즉시 처단하라!그들에게 헛된 꿈을 꾸지 말라고 말하고, 그들의 최후도 반드시, 피할 수 없이, 이 서글픈 죄수들과 같이!</PES_RaidNeg_Rebuff_Rescue>
+  <PES_RaidNeg_Rebuff_Despoil>그들에게 그들은 우리로부터 아무것도 생각하지 말라고 말해!그들 같은 야만인을 상대로 우리는 죽을 때까지 싸워 우리의 정착지를 지킬 것이다!</PES_RaidNeg_Rebuff_Despoil>
+  <PES_RaidNeg_Rebuff_Revenge></PES_RaidNeg_Rebuff_Revenge>
+  <PES_RaidNeg_Rebuff_Enslave></PES_RaidNeg_Rebuff_Enslave>
+  <PES_RaidNeg_Rebuff_Conquer></PES_RaidNeg_Rebuff_Conquer>
+  <PES_RaidNeg_Rebuff_Extortion>그들에게 말해라, 그들은 우리에게서 아무것도 얻지 못한다!그들 같은 야만인을 상대로 우리는 죽을 때까지 싸워 우리의 정착지를 지킬 것이다!</PES_RaidNeg_Rebuff_Extortion>
+  <PES_RaidNeg_Rebuff_Rescue_Fail>쓸 수 없습니다. 이 대화자는 폭력 행위를 할 수 없습니다.</PES_RaidNeg_Rebuff_Rescue_Fail>
+  <PES_RaidNeg_Rebuff_Confirmation>정말 실행하시겠습니까?</PES_RaidNeg_Rebuff_Confirmation>
+  <PES_RaidNeg_Rebuff_Confirmation_Rescue>다음 죄수들은 즉시 처형될 것입니다:</PES_RaidNeg_Rebuff_Confirmation_Rescue>
+  <PES_RaidNeg_Rebuff_Explanation>이렇게 하면 우리측 식민자의 사기가 상승할 것입니다.{0}의 사교 능력에 따라 습격자가 왔을 때 모든 식민자는 기분 가성과 전투력 가성을 얻게 됩니다.주의, 현재 대화자의 사교 능력이 너무 낮으면 오히려 감소할 수 있습니다.\n\n 그러나 동시에 적 또한 매우 화가 나게 됩니다.그들의 공격 목표는 징벌로 바뀔 것이고 당신은 그들과 더 이상 교류할 수 없을 것입니다.동시에 그들은 더 많은 원군을 부를 것입니다.(25%에서 100% 현재 공격 포인트 수)\n</PES_RaidNeg_Rebuff_Explanation>
+  <PES_RaidNeg_NegDeeper>그들의 요구에 대해 심도 있는 담판을 한다</PES_RaidNeg_NegDeeper>
+  <PES_RaidNeg_NegDeeper_Prolog>어떻게 협상하시겠습니까?</PES_RaidNeg_NegDeeper_Prolog>
+  <PES_RaidNeg_NegDeeper_Surrender>우린 다른 선택의 여지가 없어 그들의 요구를 받아들일 수 밖에...</PES_RaidNeg_NegDeeper_Surrender>
+  <PES_RaidNeg_NegDeeper_Bargain>그들의 요구에 대하여 흥정한다</PES_RaidNeg_NegDeeper_Bargain>
+  <PES_RaidNeg_Delay>그들에게 행진을 잠시 멈추게 하는 것은 우리가 그들의 요구에 대해 더 잘 생각해 볼 수 있게 하거나 다가올 전투를 위한 준비 시간을 더 많이 벌게 해줍니다.</PES_RaidNeg_Delay>
+  <PES_RaidNeg_Delay_Intro>우리는 어떻게 그들에게 말해서 그들을 멈추게 할까요?</PES_RaidNeg_Delay_Intro>
+  <PES_RaidNeg_Delay_Staging>그들은 이미 행진을 잠시 보류했습니다. 남은 시간: {0}</PES_RaidNeg_Delay_Staging>
+  <PES_RaidNeg_Delay_CoolDown>우리는 한 시간 간격으로 그들에게 이런 요구를 할 수 밖에 없습니다. 남은 시간: {0}</PES_RaidNeg_Delay_CoolDown>
+  <PES_RaidNeg_Delay_DoneBefore>우리는 그들을 한 번만 멈추게 할 수 있습니다.</PES_RaidNeg_Delay_DoneBefore>
+  <PES_RaidNeg_Delay_Success_Name>그들을 멈추게 하다</PES_RaidNeg_Delay_Success_Name>
+  <PES_RaidNeg_Delay_Smite_Name>그들을 매우 화나게 하고 우리를 징벌할것입니다.</PES_RaidNeg_Delay_Smite_Name>
+  <PES_RaidNeg_Delay_Persuasion>"생각할 시간을 좀 줘.이것은 너희들과 우리 모두에게 좋다.'</PES_RaidNeg_Delay_Persuasion>
+  <PES_RaidNeg_Delay_Intimidation_Rescue>"우리는 생각할 시간이 필요해!더 이상 가까이 오지 마라, 그렇지 않으면 우리는 즉시 이 죄수들을 처형할 것이다.'</PES_RaidNeg_Delay_Intimidation_Rescue>
+  <PES_RaidNeg_Delay_Intimidation_Despoil>"우리는 생각할 시간이 필요해!더이상 접근하지 마라.</PES_RaidNeg_Delay_Intimidation_Despoil>
+  <PES_RaidNeg_Delay_Intimidation_Revenge>"우리는 생각할 시간이 필요해!더이상 접근하지 마라.</PES_RaidNeg_Delay_Intimidation_Revenge>
+  <PES_RaidNeg_Delay_Intimidation_Enslave>"우리는 생각할 시간이 필요해!더이상 다가가지 마라.</PES_RaidNeg_Delay_Intimidation_Enslave>
+  <PES_RaidNeg_Delay_Intimidation_Extortion>"우리는 생각할 시간이 필요해! 더이상 접근하지 마라.</PES_RaidNeg_Delay_Intimidation_Extortion>
+  <PES_RaidNeg_Delay_Beguilement_Rescue>`너희가 원하는 죄수들은 우리의 협상테이블에 있다, 너희의 행진을 멈추고, 우리에게 시간을 조금 줘.'</PES_RaidNeg_Delay_Beguilement_Rescue>
+  <PES_RaidNeg_Delay_Beguilement_Despoil>"우리 정착지에는 이렇게 많은 자원이 없다.우리는 지금 우리의 상단에서 자원을 돌려보내고 있다.시간을 주고 당신들의 행진을 멈춰."</PES_RaidNeg_Delay_Beguilement_Despoil>
+  <PES_RaidNeg_Delay_Beguilement_Revenge>"당신들이 원하던 그 사람이 지금 우리의 상단 중 한 곳에서 그를 돌아오게 하고 있다.그러니 너희들의 행진을 멈추고 우리에게 시간을 좀 줘!"</PES_RaidNeg_Delay_Beguilement_Revenge>
+  <PES_RaidNeg_Delay_Beguilement_Enslave>`너희가 원하는 사람은 우리의 먼 상단에 있고, 우리는 그들을 돌아오게 하고 있다.너희들의 행진을 멈추고 우리에게 시간을 좀 줘.'</PES_RaidNeg_Delay_Beguilement_Enslave>
+  <PES_RaidNeg_Delay_Beguilement_Extortion>"우리 정착지에는 이렇게 많은 돈이 없다.우리는 지금 우리의 상단을 불러서 자원을 돌려보내고 있다.시간을 좀 주고 더 가까이 오지 마라"고 말했다.</PES_RaidNeg_Delay_Beguilement_Extortion>
+  <PES_RaidNeg_Delay_Success>{0} 행진을 일시 중지하는 데 동의합니다.하지만 그들은 단지 세 시간을 기다린다는 것을 보장합니다.그 후에도 그들의 조건이 충족되지 않으면 그들은 그들의 공격을 개시할 것입니다.</PES_RaidNeg_Delay_Success>
+  <PES_RaidNeg_Delay_Fail>그들은 오만하게도 우리의 요구를 거절했고 계속해서 우리측을 향해 이동합니다.</PES_RaidNeg_Delay_Fail>
+  <PES_RaidNeg_Delay_Smite>그들은 우리의 위협에 매우 화가 났고 그들에 대한 모욕이라고 생각했습니다.그들은 우리에게 약간의 교훈을 주기로 결정했고 우리와 연락을 끊었습니다.</PES_RaidNeg_Delay_Smite>
+  <PES_RaidNeg_NegCoolDown>우리는 협상을 한 시간 간격으로만 할 수 있습니다. 남은 시간: {0}</PES_RaidNeg_NegCoolDown>
+  <PES_RaidNeg_NegDeeper_Surrender_Comfirmation>정말로 그들에게 굴복할 것입니까?</PES_RaidNeg_NegDeeper_Surrender_Comfirmation>
+  <PES_RaidNeg_NegDeeper_Surrender_Fail_Conquer>쓸 수 없습니다. 우리가 받아들였다면 협상은 더 이상 진행할 수 없습니다.</PES_RaidNeg_NegDeeper_Surrender_Fail_Conquer>
+  <PES_RaidNeg_NegDeeper_Surrender_Fail_NoMoney>쓸 수 없습니다.우리는 충분한 금과 은을 가지고 있지 않습니다.</PES_RaidNeg_NegDeeper_Surrender_Fail_NoMoney>
+  <PES_RaidNeg_NegDeeper_Surrender_Fail_Prisoner>쓸 수 없습니다. 적어도 한 죄수가 지도에 없습니다.</PES_RaidNeg_NegDeeper_Surrender_Fail_Prisoner>
+  <PES_RaidNeg_NegDeeper_Surrender_Fail_Enslave>쓸 수 없습니다. 그들이 원하는 정착민은 구할 수 없습니다.</PES_RaidNeg_NegDeeper_Surrender_Fail_Enslave>
+  <PES_RaidNeg_NegDeeper_Bargain_Intro>당신은 그들이 요구를 어느 정도까지 삭감하도록 하고 싶습니까?</PES_RaidNeg_NegDeeper_Bargain_Intro>
+  <PES_RaidNeg_NegDeeper_Bargin_Begin>우리가 뭐라고 말해야 할까?</PES_RaidNeg_NegDeeper_Bargin_Begin>
+  <PES_RaidNeg_NegDeeper_Bargain_Invalid_Conquer>쓸 수 없습니다. 그들은 식민지를 완전히 통제하려고 합니다.</PES_RaidNeg_NegDeeper_Bargain_Invalid_Conquer>
+  <PES_RaidNeg_NegDeeper_Bargain_Invalid_OnePrisoner>쓸 수 없습니다. 그들은 죄수 한 명만 원해서 줄일 여지가 없습니다.</PES_RaidNeg_NegDeeper_Bargain_Invalid_OnePrisoner>
+  <PES_RaidNeg_NegDeeper_Bargain_Invalid_OneSlave>쓸 수 없습니다. 그들은 단지 정착민 한 명만 원합니다. 줄일 여지가 없습니다.</PES_RaidNeg_NegDeeper_Bargain_Invalid_OneSlave>
+  <PES_RaidNeg_NegDeeper_Bargain_Option_Prisoner>{0}명의 죄수 감소</PES_RaidNeg_NegDeeper_Bargain_Option_Prisoner>
+  <PES_RaidNeg_NegDeeper_Bargain_Option_Enslave>{0}명의 정착민 감소</PES_RaidNeg_NegDeeper_Bargain_Option_Enslave>
+  <PES_RaidNeg_NegDeeper_Bargain_Success>그들은 요구를 삭감하는데 동의했습니다.</PES_RaidNeg_NegDeeper_Bargain_Success>
+  <PES_RaidNeg_NegDeeper_Bargain_Fail>그들은 요구를 줄이기를 거부했습니다.</PES_RaidNeg_NegDeeper_Bargain_Fail>
+  <PES_raidNeg_NegDeeper_Bargain_Smite>그들은 우리의 위협에 매우 화가 났고 그들에 대한 모욕이라고 생각했습니다.그들은 우리에게 약간의 교훈을 주기로 결정했고 우리와 연락을 끊었습니다.</PES_raidNeg_NegDeeper_Bargain_Smite>
+  <PES_raidNeg_NegDeeper_Bargain_Success_Name>그들이 우리의 제의를 받아들이게 하다</PES_raidNeg_NegDeeper_Bargain_Success_Name>
+  <PES_RaidNeg_Negdeeper_Bargain_Smite_Name>그들을 매우 화나게 하고 우리를 징벌합니다.</PES_RaidNeg_Negdeeper_Bargain_Smite_Name>
+  <PES_RaidNeg_NegDeeper_Remedy>우리는 그들의 요구를 만족시킬 수 없습니다.그들에게 뭔가 다른 것을 시도하십시오.\n</PES_RaidNeg_NegDeeper_Remedy>
+  <PES_RaidNeg_Sub_Intro>우리는 다음과 같이 제공할 수 있습니다.</PES_RaidNeg_Sub_Intro>
+  <PES_RaidNeg_Sub_Rescue>그들의 죄수를 석방한다</PES_RaidNeg_Sub_Rescue>
+  <PES_RaidNeg_Sub_Extortion>그들에게 대신 돈을 좀 내라.</PES_RaidNeg_Sub_Extortion>
+  <PES_RaidNeg_Sub_Rescue_NoPrisoner>우리는 그들의 세력의 죄수가 없습니다.</PES_RaidNeg_Sub_Rescue_NoPrisoner>
+  <PES_RaidNeg_Sub_success>그들은 우리의 제의에 동의했다!그들의 공격 목표는 바뀌었다.</PES_RaidNeg_Sub_success>
+  <PES_RaidNeg_Sub_Fail>그들은 우리의 제의를 거절했다!그들은 그대로 진행한다...</PES_RaidNeg_Sub_Fail>
+  <PES_TryToCallOnRadio>{0}에게 연락 시도</PES_TryToCallOnRadio>
+  <PES_TryContact_CoolDown>우리는 한 시간 간격으로 특정 표적에게만 소식을 방송할 수 있습니다. 남은 시간: {0}</PES_TryContact_CoolDown>
+  <PES_TryContactPrologue_Unknown>우리가 아직 '{0}'과 통신을 맺지 않았기 때문에, 우리는 이 통신대에서 그들에게 소식을 전하여 그들이 받고 우리와 통신을 만들도록 시도할 수 있습니다.\n하지만 조심해서, 우리는 그들이 적인지 친구인지 알 수 없습니다.\n</PES_TryContactPrologue_Unknown>
+  <PES_TryContactPrologue_Neutral>우리의 정찰 시스템과 함께 {0}이(가) 아군이라는 것을 확인했음에도 불구하고, 우리는 아직 그들과 통신을 구축하지 않았습니다\n\n우리는 그들에게 가능한 빨리 연락을 취할 수 있도록 소식을 방송할 수 있습니다.\</PES_TryContactPrologue_Neutral>
+  <PES_TryContactPrologue_Hostile>주의: {0}이(가) 임박한 위협으로 판명되었지만 우리는 아직 그들의 전체 정보를 확인하지 못했습니다.\n\n 우리는 그들에게 자신의 목적을 진술하거나 그들을 떠나게 하기 위해 방송을 할 수 있습니다.\n</PES_TryContactPrologue_Hostile>
+  <PES_BroadCastMessage>그래서, {0}이(가) 다음과 같은 소식을 보내기로 결정했습니다.</PES_BroadCastMessage>
+  <PES_BroadCastMessage_Mechanoid>우리는 그것들이 기계족이라는 것을 이미 확인했기 때문에, 우리는 다음과 같이 할 수 밖에 없습니다.</PES_BroadCastMessage_Mechanoid>
+  <PES_TryContactPrologue_Mechanoid>이 영혼 없는 기계들에게 인사 프로토콜 \n</PES_TryContactPrologue_Mechanoid>
+  <PES_TryContact_Persuasion_Unknown>"이 소식은 {1}의 {0}에서 왔습니다.즉시 우리에게 당신들이 온 목적을 알려 주시고, 자신이 적의가 없다는 것을 확인해 주십시오.'</PES_TryContact_Persuasion_Unknown>
+  <PES_TryContact_Persuasion_Neutral>"이 소식은 {1}의 {0}에서 왔습니다.우군임을 확인했으니 빨리 우리와 교신해 달라"고 말했다.</PES_TryContact_Persuasion_Neutral>
+  <PES_TryContact_Persuasion_Hostile>"이 소식은 {1}의 {0}에서 왔습니다.우리의 정찰 시스템은 이미 당신들의 적대행위를 확인했다.당신들의 목적을 밝히시오!반복한다, 당신들의 목적을 밝히라!"</PES_TryContact_Persuasion_Hostile>
+  <PES_TryContact_Intimidation_have_mortar>"우리는 당신들의 위치를 파악했습니다!너희의 목적을 밝히라, 그렇지 않으면 우리의 박격포탄을 맞이해라.'</PES_TryContact_Intimidation_have_mortar>
+  <PES_TryContact_Intimidation_no_mortar>"우리는 당신들의 위치를 파악했습니다!너희의 목적을 밝히라, 그렇지 않으면 우리의 돌격대원들이 바로 너희에게 습격할 것이다.'</PES_TryContact_Intimidation_no_mortar>
+  <PES_TryContact_Beguilement>"{1}에서 온 {0}의 구조 요청 메시지입니다: 우리는 맹렬하고 셀 수 없이 많은 메카노이드가 우리의 기지로 몰려들고 있습니다!우리는 즉각적인 군사 지원이 필요하다!바로 지금!Ahhhhhhhhhhh"</PES_TryContact_Beguilement>
+  <PES_TryContact_Beguilement_FactionConfirmed>"{1}에서 온 {0}의 메시지입니다: {2}은(는) 현재 {1}이(가) 점유하고 있습니다.목적을 밝히지 않고 오는 어떤 군단도 {1}에 대한 위협으로 간주됩니다"</PES_TryContact_Beguilement_FactionConfirmed>
+  <PES_Condition_Received>만약 이 소식이 받아들여진다면</PES_Condition_Received>
+  <PES_TryOutcome_Positive>우리와 관계를 맺다</PES_TryOutcome_Positive>
+  <PES_TryOutcome_Leave>포기하고 떠나다</PES_TryOutcome_Leave>
+  <PES_TryOutcome_Scared>겁에 질려 달아나다</PES_TryOutcome_Scared>
+  <PES_Contact_Fail>{0} 통신대에서 아무런 소식도 받지 못했습니다.우리는 그들이 우리의 소식을 전혀 받지 못한 것인지 아니면 침묵을 선택한 것인지 알 수 없습니다.</PES_Contact_Fail>
+  <PES_Persuasion_Success_Hostile>우리는 그들의 답장을 받았습니다!그들은 {0}에서 왔습니다!이제 우리는 그들의 의도와 습격 목표 \n\n 통신이 수립되었음을 알게 되었습니다.</PES_Persuasion_Success_Hostile>
+  <PES_Persuation_Success_Friendly>우리는 그들의 답장을 받았습니다!그들은 {0}에서 왔습니다!우리는 이제 그들의 모든 정보를 알게 되었습니다 \n\n 통신이 만들어졌습니다.</PES_Persuation_Success_Friendly>
+  <PES_Intimidation_SuccessFlee_Hostile>우리의 위협이 성공했습니다!우리의 정찰 시스템은 {0}이(가) 지금 허겁지겁 도주하고 있다는 것을 확인했으며, 동시에 그들이 {1}에서 왔다는 것을 확인했습니다.보아하니 우리 병사가 피도 안 마른 채 전투에서 이긴 것 같습니다.</PES_Intimidation_SuccessFlee_Hostile>
+  <PES_Intimidation_SuccessFlee_Friendly>우리의 위협이 성공했습니다!우리의 정찰 시스템은 {0}이(가) 지금 허둥지둥하고 있다는 것을 확인했지만, 동시에 우리는 그들이 실제로 {1}에서 왔다는 것을 확인했습니다.우리의 위협이 너무 끔찍해 보여서 우리가 우리 친구들을 겁주어 도망쳤습니다...</PES_Intimidation_SuccessFlee_Friendly>
+  <PES_Beguilement_SuccessFlee_Hostile>우리의 속임수가 성공했습니다!우리는 성공적으로 그들에게 우리가 메카노이드의 습격을 받고 있다는 것을 믿게 했습니다.우리의 정찰 시스템은 {0}이(가) 지금 허겁지겁 도주하고 있다는 것을 확인했고, 동시에 나는 그들이 {1}에서 왔다는 것을 확인했습니다.보아하니 우리 병사가 피도 안 마른 채 전투에서 이긴 것 같습니다.</PES_Beguilement_SuccessFlee_Hostile>
+  <PES_Beguilement_SuccessFlee_Friendly>우리의 속임수가 성공했습니다!우리는 성공적으로 그들에게 우리가 메카노이드의 습격을 받고 있다는 것을 믿게 했습니다.우리의 정찰 시스템은 {0}이(가) 지금 허겁지겁 도주하고 있다는 것을 확인했고, 동시에 나는 그들이 {1}에서 왔다는 것을 확인했습니다.우리의 정찰 시스템은 {0}이(가) 지금 허둥지둥하고 있다는 것을 확인했지만, 동시에 우리는 그들이 실제로 {1}에서 왔다는 것을 확인했습니다.우리가 보낸 소식이 너무 끔찍해 보여서 우리가 우리 친구들을 겁주어 도망쳤습니다...</PES_Beguilement_SuccessFlee_Friendly>
+  <PES_Beguilement_SuccessLeave_Hostile>우리의 속임수가 성공했습니다!우리는 성공적으로 이 지역이 그들의 세력에 의해 점령되었다고 믿게 했습니다.우리의 정찰 시스템은 {0}이(가) 이제 철수되었음을 확인했습니다.보아하니 우리 병사가 피도 안 마른 채 전투에서 이긴 것 같습니다.</PES_Beguilement_SuccessLeave_Hostile>
+  <PES_Mechanoid_Outcome_1>그것들은 우리에게 답장을 보냈습니다!그런데... 그것들이 우리에게 보낸 소식은... 일곱 글자밖에...</PES_Mechanoid_Outcome_1>
+  <PES_Mechanoid_Outcome_2>그것들은 우리에게 답장을 보냈습니다!그런데...그것들이 우리에게 보낸 소식은...한 글자만 계속 반복하고...</PES_Mechanoid_Outcome_2>
+  <PES_Mechanoid_Choice>이 사악한 기계들은 도대체 뭐라고 말했을까?</PES_Mechanoid_Choice>
+  <PES_MechanoidAnswer_1>lt;color=redgt;너무 늦었다, 유기체lt;/colorgt;</PES_MechanoidAnswer_1>
+  <PES_MechanoidAnswer_2>死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。死。</PES_MechanoidAnswer_2>
+  <PES_Building_Installed>이미 설치된 업그레이드 패키지:</PES_Building_Installed>
+  <PES_Building_ToInstall>설치: {0}</PES_Building_ToInstall>
+  <PES_Building_UpdateInstalling>업그레이드 패키지를 설치하는 중: {0}\n진도: {1}%</PES_Building_UpdateInstalling>
+  <PES_Building_Delivered>이(가) 운반되었습니다: {0}</PES_Building_Delivered>
+  <PES_Building_UnUsableDark>날이 어두울 때는 사용해서는 안됩니다.</PES_Building_UnUsableDark>
+  <PES_Building_UnUsableSolarFlare>신호가 초기 흑점 활동에 의해 방해되었습니다.</PES_Building_UnUsableSolarFlare>
+  <PES_CaravanDismiss>{0} 더 이상 정착지를 향해 이동하지 않으며 당사의 정찰 시스템은 더 이상 그 동향을 추적하지 않습니다.</PES_CaravanDismiss>
+  <PES_PrisonerDead>{0}의 석방을 요구하는 죄수들이 죽었기 때문에, 그들은 매우 화가 나서 정착지에 복수하기로 결정했습니다!</PES_PrisonerDead>
+  <PES_AllSlaveDead>{0} 그들의 공격 목표를 강탈로 바꿨습니다, 그들이 원하는 노예들이 죽었기 때문입니다.</PES_AllSlaveDead>
+  <PES_CommunicationEstablished>우리는 {0}과(와) 이미 통신이 되었습니다.통신대를 사용하여 그들과 연락합니다.</PES_CommunicationEstablished>
+  <PES_Detected_Title_Human>미확인 무리 탐지</PES_Detected_Title_Human>
+  <PES_Detected_Title_Animal>미확인 무리 탐지</PES_Detected_Title_Animal>
+  <PES_Detected_Text_Human>우리 측 정찰 시스템에서 미확인 된 무리가 우리 측 식민지로 이동하고 있는 것을 발견하였습니다.그들은 파벌과 목적에서 유래한 것은 아직 알려지지 않았습니다.정찰 시스템은 그것의 더 많은 정보를 식별하려고 시도하고 있습니다.자세한 정보는 보안 브리핑을 참조하십시오.</PES_Detected_Text_Human>
+  <PES_Detected_Text_Animal>우리 측 정찰 시스템은 한 무리의 미확인 된 동물들이 우리 측 식민지로 이동하고 있다는 것을 발견했습니다.정찰 시스템은 그것의 더 많은 정보를 식별하려고 시도하고 있습니다.자세한 정보는 보안 브리핑을 참조하십시오.</PES_Detected_Text_Animal>
+  <PES_Hostile_Confirmed>확인됨: 적대적 목표</PES_Hostile_Confirmed>
+  <PES_Hostile_Text_Human>우리 측 정찰 시스템은 다가오는 사람들이 한 무리의 적대적인 습격자라는 것을 이미 확인했습니다.자세한 정보는 보안 브리핑을 참조합니다.</PES_Hostile_Text_Human>
+  <PES_Hostile_Text_Animal>우리 측 정찰 시스템은 다가오는 짐승 무리가 발광하는 동물이라는 것을 이미 확인했습니다.자세한 정보는 보안 브리핑을 참조합니다.</PES_Hostile_Text_Animal>
+  <PES_Neutral_Message>우리 측 정찰 시스템은 다가오는 사람들이 비적대적 목표라는 것을 이미 확인했습니다.자세한 정보는 보안 브리핑을 참조합니다.</PES_Neutral_Message>
+  <PES_Neutral_Message_Animal>우리 측 정찰 시스템은 다가오는 짐승들의 비적대적 목표를 이미 확인했습니다.자세한 정보는 보안 브리핑을 참조합니다.</PES_Neutral_Message_Animal>
+  <PES_Caravan_Confirmed>"{0}"이(가) 정착지 시점 범위에 들어 있으며, 그 모든 정보가 확인되었습니다.</PES_Caravan_Confirmed>
+  <PES_Update_NeedSkill>정착민은 최소 {0}의 건설 능력이 있어야 이 업그레이드 패키지를 설치할 수 있습니다.</PES_Update_NeedSkill>
+  <PES_Spot_SkyFaller_Big>우리 측 정찰 시스템은 미확인 대형 낙하물을 탐지합니다!</PES_Spot_SkyFaller_Big>
+  <PES_Spot_SkyFaller_Small>우리 측 정찰 시스템은 가까운 공중에서 접근하는 소형 낙하물을 탐지합니다!</PES_Spot_SkyFaller_Small>
+  <PES_Warning_Meteorite>경고: 운석 충돌</PES_Warning_Meteorite>
+  <PES_Warning_Meteorite_Text>우리측의 정찰 시스템은 이미 임박한 대형 낙하물이 운석이라는 것을 증명했다. 그 충돌점은 이미 성공적으로 계산되었다.보안 브리핑을 보고 더 많은 정보를 얻습니다.</PES_Warning_Meteorite_Text>
+  <PES_Warning_ShipPart>경고: 우주선 부품 충돌</PES_Warning_ShipPart>
+  <PES_Warning_Shippart_Text>우리측의 정찰 시스템은 이미 다가오는 대형 낙하물이 오래된 우주선의 큰 부품이라는 것을 증명했습니다. 그 충돌점은 이미 성공적으로 계산되었다.보안 브리핑을 보고 더 많은 정보를 얻습니다.</PES_Warning_Shippart_Text>
+  <PES_Warning_DropPodAssault>경고：드랍포드 습격</PES_Warning_DropPodAssault>
+  <PES_Warning_DropPodAssault_Text>당사의 정찰 시스템은 다가오는 드랍포드가 습격자들로 가득 차 있다는 것을 확인했습니다!그것들의 낙하 지점은 이미 성공적으로 계산되었습니다.보안 브리핑을 보고 더 많은 정보를 얻습니다.</PES_Warning_DropPodAssault_Text>
+  <PES_Infestation_Letter>이상한 지하 운동 탐지</PES_Infestation_Letter>
+  <PES_Infestation_Text>지면투과 스캐너가 지하 깊은 곳에서 이상한 운동의 징후를 탐지했습니다.이것은 아마도 곤충이 덮칠 전조일 것입니다.</PES_Infestation_Text>
+  <PES_Notify_ResoucePod>다가오는 드랍포드는 자원선박으로 탐지 되었습니다.</PES_Notify_ResoucePod>
+  <PES_Notify_RefugeePod>다가오는 드랍포드는 탈출포드로 탐지 되었습니다.</PES_Notify_RefugeePod>
+  <PES_Notify_ShipChunk>다가오는 대형 낙하물은 우주선 파편으로 탐지 되었습니다.</PES_Notify_ShipChunk>
+  <PES_Warning_Flare_Early>흑점폭발(초기)</PES_Warning_Flare_Early>
+  <PES_Warning_Flare_Early_Text>흑점폭발이 이 별을 강타하기 직전이어서 레이더와 위성 상행궤도는 이미 정지되었습니다.다른 전기 장비들은 12시간 정도 더 지나 요반이 결국 이 별에 충격을 받았을 때 작업을 중단할 예정입니다.</PES_Warning_Flare_Early_Text>
+  <PES_setting_default>기본값으로 재설정</PES_setting_default>
+  <PES_setting_notes>Notes:\n1. There is a detailed explanation on the formulas of the setting below. Hover your mouse on it and it will show up\n2. 1 hour = 2500 ticks</PES_setting_notes>
+  <PES_setting_detectioncoefficient>Detection Coefficient</PES_setting_detectioncoefficient>
+  <PE_setting_detectionMechanism>Detection Mechanism Settings</PE_setting_detectionMechanism>
+  <PES_setting_detectionFormula>Detection probability Formula: P = ( c - y ) / c * k\nThen this value will be clamped to [0.1, 0.8] (detect unknown caravan) or [0.2, 0.95] (detect detail information)</PES_setting_detectionFormula>
+  <PES_setting_detectionExplain>A = Detection range\nB = Vision Range\nC = A - B\nx = remaining tiles\ny = x - B\nk = the coefficient below\nP is the final probability</PES_setting_detectionExplain>
+  <PES_setting_caravanSpeed>Time for an incident caravan to cover one tile on the world map (in ticks)</PES_setting_caravanSpeed>
+  <PES_setting_skyObject>Sky Objects:</PES_setting_skyObject>
+  <PES_setting_skyObject_Large_a>Warning time before large sky object impacts (in ticks)</PES_setting_skyObject_Large_a>
+  <PES_setting_skyObject_Large_b>Time before identifying large sky objects (in ticks)</PES_setting_skyObject_Large_b>
+  <PES_setting_skyObject_Small_a>Warning time before small sky object landing(in ticks)</PES_setting_skyObject_Small_a>
+  <PES_setting_skyObject_Small_b>Time before identifying small sky objects (in ticks)</PES_setting_skyObject_Small_b>
+  <PES_setting_infestation>Warning time for infestation(in ticks)</PES_setting_infestation>
+  <PES_setting_negotiationProb>외교 설정</PES_setting_negotiationProb>
+  <PES_setting_negotiationIntro>All of the following probabilities are only base values. The final probablities for each to happen is based on this formula: \nFor positive outcome: P = Base * NA\nFor negative outcome: P = Base * (1 / NA); P = Base / 2 (if NA is zero)\nAnd P will be clamped to [0, 1]</PES_setting_negotiationIntro>
+  <PES_setting_negotiationTip>Base = following Base Values\nNA is the negotiation ability of the pawn. It is related with the social level of the pawn, and you can check it out in the information panel of the pawn in game. For a normal healthy pawn, it is 40% when level 1 and 190% when level 20.</PES_setting_negotiationTip>
+  <PES_setting_commintro>The probabilities when making contact with incident caravan:</PES_setting_commintro>
+  <PES_setting_commpersuation_friend>설득 성공 (중립)</PES_setting_commpersuation_friend>
+  <PES_setting_commpersuation_hostile>설득 성공 (적대)</PES_setting_commpersuation_hostile>
+  <PES_setting_commintimidation_contact_friend>Successful intimidation and make contact (neutral)</PES_setting_commintimidation_contact_friend>
+  <PES_setting_commintimidation_frighten_friend>Successful intimidation and frighten off(neutral)</PES_setting_commintimidation_frighten_friend>
+  <PES_setting_commintimidation_contact_Hostile>Successful intimidation and make contact (Hostile)</PES_setting_commintimidation_contact_Hostile>
+  <PES_setting_commintimidation_frighten_Hostile>Successful intimidation and frighten off(Hostile)</PES_setting_commintimidation_frighten_Hostile>
+  <PES_setting_commbeguilment_friend>Successful beguilement (neutral)</PES_setting_commbeguilment_friend>
+  <PES_setting_commbeguilment_Contact_hostile>Successful beguilement and make contact(hostile)</PES_setting_commbeguilment_Contact_hostile>
+  <PES_setting_commbeguildment_frighten_hostile>Successful beguilement and frighten off(hostile)</PES_setting_commbeguildment_frighten_hostile>
+  <PES_setting_negintro>The probablilites when negotiating about raid goal:</PES_setting_negintro>
+  <PES_setting_neg_delay>About trying to make them stop for a while:</PES_setting_neg_delay>
+  <PES_setting_delay_persuasion>설득 성공</PES_setting_delay_persuasion>
+  <PES_setting_delay_intimidation_s>Successul intimidation</PES_setting_delay_intimidation_s>
+  <PES_setting_delay_intimidation_b>Fail intimidation and back fire</PES_setting_delay_intimidation_b>
+  <PES_setting_delay_beguilment>Successful beguilement</PES_setting_delay_beguilment>
+  <PES_setting_neg_bargain>About trying to bargain with them</PES_setting_neg_bargain>
+  <PES_setting_bargain_persuasion>설득 성공</PES_setting_bargain_persuasion>
+  <PES_setting_bargain_intimidation_s>Successul intimidation</PES_setting_bargain_intimidation_s>
+  <PES_setting_bargain_intimidation_b>Fail intimidation and back fire</PES_setting_bargain_intimidation_b>
+  <PES_setting_bargain_beguilment>Successful beguilement</PES_setting_bargain_beguilment>
+  <PES_setting_neg_remedy>About trying to ask them to change a raid goal</PES_setting_neg_remedy>
+  <PES_setting_remedy_persuasion>설득 성공</PES_setting_remedy_persuasion>
+  <PES_setting_remedy_intimidation_s>Successul intimidation</PES_setting_remedy_intimidation_s>
+  <PES_setting_remedy_intimidation_b>Fail intimidation and back fire</PES_setting_remedy_intimidation_b>
+  <PES_setting_remedy_beguilment>Successful beguilement</PES_setting_remedy_beguilment>
+  <PES_setting_mesintro>When trying to make contact with a caravan, before the above probablities are tested, there is a probablity of whether this broadcasted message can be received by them or not, it is calculated by:</PES_setting_mesintro>
+  <PES_setting_mesExp>P = 1 - 0.2 * difficulty + offset   (P will be clamped to [0, 1])</PES_setting_mesExp>
+  <PES_setting_megTip>difficulty is 0 for Peaceful, 5 for Merciless;\noffset is the following value</PES_setting_megTip>
+  <PES_setting_mesOffset>Offset for the probablity of message receiving</PES_setting_mesOffset>
+  <PES_ManHunterName_1>굶주린 {0 }무리</PES_ManHunterName_1>
+  <PES_ManHunterName_2>공황 상태의 {0} 무리</PES_ManHunterName_2>
+  <PES_ManHunterName_3>공포스러운 {0} 무리</PES_ManHunterName_3>
+  <PES_ManHunterName_4>포식자 {0} 무리</PES_ManHunterName_4>
+  <PES_MechName_1>유기체 파멸자 무리 {0}</PES_MechName_1>
+  <PES_MechName_2>유기체 박멸자 무리 {0}</PES_MechName_2>
+  <PES_MechName_3>유기체 말소자 무리{0}</PES_MechName_3>
+  <PES_MechName_4>유기체 정화자 무리 {0}</PES_MechName_4>
+  <PES_MechName_5>터미네이터 무리 {0}</PES_MechName_5>
+  <PES_FarmAnimal_1>유순한 {0} 무리</PES_FarmAnimal_1>
+  <PES_MigrationName_1>이주중인 {0} 무리</PES_MigrationName_1>
+  <PES_Thrumboname_1>방랑하는 희귀 트럼보</PES_Thrumboname_1>
+  <PES_TravelerName_1>{0}에서 온 여행자</PES_TravelerName_1>
+  <PES_VisitorName_1>{0}에서 온 방문객</PES_VisitorName_1>
+  <PES_TraderName_1>{0}에서 온 거래 상단</PES_TraderName_1>
+  <PES_UI_Title>보안 보고서</PES_UI_Title>
+  <PES_UI_Ranges>현재 시야 범위: {0} 현재 탐지 범위: {1}</PES_UI_Ranges>
+  <PES_UI_Bulletins>위협: {0} 중립: {1} 미확인: {2}</PES_UI_Bulletins>
+  <PES_UI_Unknown>알려지지 않음</PES_UI_Unknown>
+  <PES_UI_UnknownIntention>의도 불명</PES_UI_UnknownIntention>
+  <PES_UI_Strategy>전략: {0}</PES_UI_Strategy>
+  <PES_UI_Faction>세력:</PES_UI_Faction>
+  <PES_UI_Corps>인원수:</PES_UI_Corps>
+  <PES_UI_Herd>동물 수:</PES_UI_Herd>
+  <PES_UI_ETA>예상 도착 시간:</PES_UI_ETA>
+  <PES_UI_Direction_unknown>도착 방향: 확인되지 않음</PES_UI_Direction_unknown>
+  <PES_UI_Direction_known>도착 방향 (클릭 보기)</PES_UI_Direction_known>
+  <PES_UI_Letter_ReadMore>보안 보고서 읽기</PES_UI_Letter_ReadMore>
+  <PES_UI_CaravanMoving>{0}으로 이동</PES_UI_CaravanMoving>
+  <PES_UI_CaravanStaging>기다리는 중.</PES_UI_CaravanStaging>
+  <PES_UI_SkyFaller_Spot_Big>예상 충돌 지점 (클릭 보기)</PES_UI_SkyFaller_Spot_Big>
+  <PES_UI_SkyFaller_Spot_Small>예상 착륙 지점 (클릭 보기)</PES_UI_SkyFaller_Spot_Small>
+  <PES_UI_SkyFaller_Spot_Unknown>착륙 지점을 확인할 수 없습니다</PES_UI_SkyFaller_Spot_Unknown>
+  <PES_UI_Infestation_Spot>발생점 (클릭 보기)</PES_UI_Infestation_Spot>
+
+</LanguageData>

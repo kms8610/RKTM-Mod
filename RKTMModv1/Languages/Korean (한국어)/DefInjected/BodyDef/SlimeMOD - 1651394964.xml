@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Syulipia_SlimeBody.label>슬라임</Syulipia_SlimeBody.label>
+  <Syulipia_SlimeBody.corePart.parts.2.customLabel>왼쪽 폐</Syulipia_SlimeBody.corePart.parts.2.customLabel>
+  <Syulipia_SlimeBody.corePart.parts.3.customLabel>오른쪽 폐</Syulipia_SlimeBody.corePart.parts.3.customLabel>
+  <Syulipia_SlimeBody.corePart.parts.4.customLabel>왼쪽 신장</Syulipia_SlimeBody.corePart.parts.4.customLabel>
+  <Syulipia_SlimeBody.corePart.parts.5.customLabel>오른쪽 신장</Syulipia_SlimeBody.corePart.parts.5.customLabel>
+  <Syulipia_SlimeBody.corePart.parts.7.customLabel>마핵</Syulipia_SlimeBody.corePart.parts.7.customLabel>
+  <Syulipia_SlimeBody.corePart.parts.7.parts.0.parts.1.customLabel>왼쪽 눈</Syulipia_SlimeBody.corePart.parts.7.parts.0.parts.1.customLabel>
+  <Syulipia_SlimeBody.corePart.parts.7.parts.0.parts.2.customLabel>오른쪽 눈</Syulipia_SlimeBody.corePart.parts.7.parts.0.parts.2.customLabel>
+  <Syulipia_SlimeBody.corePart.parts.8.customLabel>보행 신경</Syulipia_SlimeBody.corePart.parts.8.customLabel>
+  <Syulipia_SlimeBody.corePart.parts.8.parts.0.customLabel>보행 점막</Syulipia_SlimeBody.corePart.parts.8.parts.0.customLabel>
+
+</LanguageData>

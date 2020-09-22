@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoObjectives.label>목표</DoObjectives.label>
+  <DoObjectives.description>현재 이용 가능한 모든 목표에 대해 작업합니다..</DoObjectives.description>
+  <DoObjectives.labelShort>목표</DoObjectives.labelShort>
+  <DoObjectives.pawnLabel>목표를 수행합니다</DoObjectives.pawnLabel>
+  <DoObjectives.gerundLabel>목표를 수행합니다</DoObjectives.gerundLabel>
+  <DoObjectives.verb>목표를 수행합니다</DoObjectives.verb>
+
+</LanguageData>

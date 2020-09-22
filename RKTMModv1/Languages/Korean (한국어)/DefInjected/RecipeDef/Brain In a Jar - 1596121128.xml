@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HarvestBrain.label>뇌 추출</HarvestBrain.label>
+  <HarvestBrain.description>뇌를 추출합니다.</HarvestBrain.description>
+  <HarvestBrain.jobString>뇌 추출 중.</HarvestBrain.jobString>
+  <InstallDroneBrain.label>드론 뇌 이식</InstallDroneBrain.label>
+  <InstallDroneBrain.description>드론 뇌를 이식합니다.</InstallDroneBrain.description>
+  <InstallDroneBrain.jobString>드론 뇌 이식 중.</InstallDroneBrain.jobString>
+  <InstallAugmentedBrain.label>증강 뇌 이식</InstallAugmentedBrain.label>
+  <InstallAugmentedBrain.description>증강 뇌를 이식합니다.</InstallAugmentedBrain.description>
+  <InstallAugmentedBrain.jobString>증강 뇌 이식 중.</InstallAugmentedBrain.jobString>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SoldMyChildhoodFriend.stages.0.label>소꿉 친구 팔림</SoldMyChildhoodFriend.stages.0.label>
+  <SoldMyChildhoodFriend.stages.0.labelSocial>내 소꿉 친구가 팔림</SoldMyChildhoodFriend.stages.0.labelSocial>
+  <SoldMyChildhoodFriend.stages.0.description>내 소꿉 친구가 노예로 팔려갔어!</SoldMyChildhoodFriend.stages.0.description>
+  <KilledMyChildhoodFriend.stages.0.label>내 소꿉친구가 살해됨</KilledMyChildhoodFriend.stages.0.label>
+  <MyChildhoodFriendDied.stages.0.label>내 소꿉 친구 {0}(이)가 죽음</MyChildhoodFriendDied.stages.0.label>
+  <MyChildhoodFriendDied.stages.0.description>내 소꿉친구가 죽었어.</MyChildhoodFriendDied.stages.0.description>
+
+</LanguageData>

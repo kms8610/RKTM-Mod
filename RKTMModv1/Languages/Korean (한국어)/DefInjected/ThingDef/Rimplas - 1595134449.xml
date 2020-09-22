@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RPGraphenePowerConduit.label>그래핀 전선</RPGraphenePowerConduit.label>
+  <RPGraphenePowerConduit.description>전력을 공급하기 위한 그래핀 전선. 벽과 다른 건물 아래에 배치할 수 있습니다. 그래핀 케이블은 일반 전선보다 훨씬 강력합니다.</RPGraphenePowerConduit.description>
+  <RPUndGrapheneConduit.label>지하 그래핀 전선</RPUndGrapheneConduit.label>
+  <RPUndGrapheneConduit.description>전력을 공급하기 위한 그래핀 전선. 벽과 다른 건물 아래에 배치할 수 있습니다. 그래핀 케이블은 일반 전선보다 훨씬 강력하며 이 종류의 전선은 지표면 아래에 묻을 수 있습니다.</RPUndGrapheneConduit.description>
+  <RPGraphenePowerConduit_Buried.label>지하 그래핀 전선</RPGraphenePowerConduit_Buried.label>
+  <RPGraphenePowerConduit_Buried.description>전력을 공급하기 위한 그래핀 전선. 벽과 다른 건물 아래에 배치할 수 있습니다. 그래핀 케이블은 일반 전선보다 훨씬 강력하며 이 종류의 전선은 지표면 아래에 묻을 수 있습니다.</RPGraphenePowerConduit_Buried.description>
+  <RPGrapheneBattery.label>그래핀 배터리</RPGrapheneBattery.label>
+  <RPGrapheneBattery.description>나중에 사용하기 위해 전기를 저장합니다. 충전된 배터리는 비나 불에 노출되면 폭발합니다. 이 그래핀 배터리는 더 효율적이며 더 많이 저장할 수 있으며 더 견고합니다.</RPGrapheneBattery.description>
+  <RPSmallGrapheneBattery.label>작은 그래핀 배터리</RPSmallGrapheneBattery.label>
+  <RPSmallGrapheneBattery.description>나중에 사용하기 위해 전기를 저장합니다. 이 작은 그래핀 배터리는 일반 배터리보다 더 효율적이며 요소에서 사용할 수 있습니다. 일반 크기의 그래핀 배터리 용량의 절반을 저장할 수 있습니다.</RPSmallGrapheneBattery.description>
+  <RPGrapheneSolarGenerator.label>그래핀 태양열 발전기</RPGrapheneSolarGenerator.label>
+  <RPGrapheneSolarGenerator.description>햇빛으로부터 전기를 생산합니다. 어두운 곳이나 인공 조명 아래에서는 작동하지 않습니다. 일반 발전기보다 더 강력하고 약간 더 많은 전력을 생산합니다.</RPGrapheneSolarGenerator.description>
+  <RPSmallGrapheneSolarGenerator.label>작은 그래핀 태양열 발전기</RPSmallGrapheneSolarGenerator.label>
+  <RPSmallGrapheneSolarGenerator.description>일반 그래핀 태양열 발전기의 더 작은 변형으로, 원형에 의해 전력을 적게 생산하지만 더 적은 자원과 공간을 필요로합니다.</RPSmallGrapheneSolarGenerator.description>
+  <RPGraphenePortPower.label>그래핀 휴대형 발전 장비</RPGraphenePortPower.label>
+  <RPGraphenePortPower.description>그래핀 휴대형 발전기.</RPGraphenePortPower.description>
+  <RPGrapheneGrowBin.label>그래핀 수경 재배기</RPGrapheneGrowBin.label>
+  <RPGrapheneGrowBin.description>단일 식물을 효율적으로 재배하기 위한 작은 수경 재배 용기. 열원이 필요합니다.</RPGrapheneGrowBin.description>
+  <RPGrapheneHeater.label>그래핀 전열기</RPGrapheneHeater.label>
+  <RPGrapheneHeater.description>전기를 열로 효율적으로 변환하는 그래핀 장치. 특정 목표 온도에 도달하기 위해 자동으로 켜지거나 꺼질 수 있습니다.</RPGrapheneHeater.description>
+  <RPGrapheneCooler.label>그래핀 냉방기</RPGrapheneCooler.label>
+  <RPGrapheneCooler.description>내벽형 그래핀 공기 냉각기. 차가운 공기가 한쪽으로 나오고 뜨거운 배기가 다른 쪽으로 나옵니다. 여름철에 객실을 효율적으로 식히거나 대형 냉장고를 만드는 데 사용할 수 있습니다.</RPGrapheneCooler.description>
+  <RPGrapheneRegulator.label>그래핀 조절기</RPGrapheneRegulator.label>
+  <RPGrapheneRegulator.description>내벽형 그래핀 공기 냉각 및 가열 기계. 냉각하면 차가운 공기가 한쪽으로 나오고 뜨거운 배기가 다른쪽으로 나오거나 뜨거운 공기가 방을 가열합니다. 실내 온도를 효율적으로 조절하는 데 사용할 수 있습니다.</RPGrapheneRegulator.description>
+  <RPGraphene_Vent.label>그래핀 환풍구</RPGraphene_Vent.label>
+  <RPGraphene_Vent.description>사람이 통과할 수 없고 두 방 사이의 온도를 효율적으로 균일하게 하는 통풍구. 이 통풍구 필터의 그래핀 막은 기본적으로 통풍구의 양쪽이 고정된 범위 (10C-30C)에 있을 때 공기 흐름을 차단하는 지능형 설계 재료를 사용하여이 기능을 켜거나 끌 수 있습니다.</RPGraphene_Vent.description>
+  <RPGrapheneRegenWall.label>그래핀 재생 벽</RPGrapheneRegenWall.label>
+  <RPGrapheneRegenWall.description>지나갈 수 없는 벽입니다. 지붕을 지지할 수 있습니다. 이 강화된 그래핀 버전에는 자체 수리 속성이 있습니다.</RPGrapheneRegenWall.description>
+  <RimPlas_Barrier.label>림플라스 방벽</RimPlas_Barrier.label>
+  <RimPlas_Barrier.description>엄폐와 보호 기능을 제공하는 림플라스 방벽. 쉽고 빠르게 건설할 수 있지만 약간의 가연성이 있습니다. 모래주머니보다 가볍지만 견고합니다.</RimPlas_Barrier.description>
+  <RimPlas_AnimalSleepingBox.label>림플라스 동물 상자</RimPlas_AnimalSleepingBox.label>
+  <RimPlas_AnimalSleepingBox.description>동물이 잠을 잘 수 있는 작은 상자. 닭, 고양이 또는 작은 개와 같은 작은 동물에 적합합니다.</RimPlas_AnimalSleepingBox.description>
+  <RimPlas_Stool.label>림플라스 의자</RimPlas_Stool.label>
+  <RimPlas_Stool.description>앉을 수 있는 간단한 플랫폼. 매우 편안하지는 않지만 아무 것도 없는 것보다 훨씬 낫습니다. 식탁, 작업대 및 기타 장소에서 사용할 수 있습니다.</RimPlas_Stool.description>
+  <RimPlas_DiningChair.label>림플라스 식탁 의자</RimPlas_DiningChair.label>
+  <RimPlas_DiningChair.description>편안하고 매력적인 의자. 식탁, 작업대 및 기타 장소에서 사용할 수 있습니다.</RimPlas_DiningChair.description>
+  <RimPlas_DrugCabinet.label>림플라스 약물 캐비닛</RimPlas_DrugCabinet.label>
+  <RimPlas_DrugCabinet.description>약물을 보관할 수있는 작은 캐비닛. 소규모의 청결 향상 및 약물 제작대의 생산 속도를 증가시켜 줍니다.</RimPlas_DrugCabinet.description>
+  <RimPlas_EndTable.label>림플라스 협탁</RimPlas_EndTable.label>
+  <RimPlas_EndTable.description>다른 가구 옆에 배치하는 작은 탁자입니다. 근처 침대의 머리맡에 붙여서 배치하면 편안함을 개선합니다. 한 침대는 협탁 하나의 영향만 받습니다.</RimPlas_EndTable.description>
+  <RimPlas_Table_Tiny.label>림플라스 식탁(1x1)</RimPlas_Table_Tiny.label>
+  <RimPlas_Table_Tiny.description>의자가 있으면 여기서 밥을 먹습니다.</RimPlas_Table_Tiny.description>
+  <RimPlas_Table_Small.label>림플라스 식탁(1x2)</RimPlas_Table_Small.label>
+  <RimPlas_Table_Small.description>의자가 있으면 여기서 밥을 먹습니다.</RimPlas_Table_Small.description>
+  <RimPlas_PlantPot.label>림플라스 화분</RimPlas_PlantPot.label>
+  <RimPlas_PlantPot.description>꽃으로 주변 사람들의 기분을 좋게 만듭니다.</RimPlas_PlantPot.description>
+  <RimPlas_Shelf.label>림플라스 선반</RimPlas_Shelf.label>
+  <RimPlas_Shelf.description>야외에서도 보관된 물건의 손상을 방지합니다.</RimPlas_Shelf.description>
+  <RimPlas_Rack.label>림플라스 작은 선반</RimPlas_Rack.label>
+  <RimPlas_Rack.description>야외에서도 보관된 물건의 손상을 방지합니다.</RimPlas_Rack.description>
+  <RimPlas_Dresser.label>림플라스 옷장</RimPlas_Dresser.label>
+  <RimPlas_Dresser.description>주위 모든 침대를 약간 더 편하게 만듭니다. 하나의 침대 주위에 두 개 이상 배치해도 중복되지 않습니다.</RimPlas_Dresser.description>
+  <RimPlas_GameOfUr.label>림플라스 우르의 왕실 게임</RimPlas_GameOfUr.label>
+  <RimPlas_GameOfUr.description>기원전 2500년대에 발명된 이 흥미로운 보드 게임에는 한두 명의 사람들이 참여할 수 있습니다. 재미있고 두뇌 훈련에도 좋습니다.</RimPlas_GameOfUr.description>
+  <RimPlas_ChessTable.label>림플라스 체스 탁자</RimPlas_ChessTable.label>
+  <RimPlas_ChessTable.description>왕들의 고대 놀이입니다. 혼자서도 몇 시간 재밌게 보낼 수 있습니다. 연구기술을 훈련할 수 있습니다.</RimPlas_ChessTable.description>
+  <RimPlas_InjMldMachine.label>림플라스 사출 성형기</RimPlas_InjMldMachine.label>
+  <RimPlas_InjMldMachine.description>림플라스 가구와 자원을 효율적으로 성형합니다.</RimPlas_InjMldMachine.description>
+  <RimPlas_AdvInjMld.label>림플라스 고급 사출 성형기</RimPlas_AdvInjMld.label>
+  <RimPlas_AdvInjMld.description>복잡한 재료를 성형합니다.</RimPlas_AdvInjMld.description>
+  <RimPlas_MechBreaker.label>메카 파쇄기</RimPlas_MechBreaker.label>
+  <RimPlas_MechBreaker.description>메카 노이드를 각기 다른 부분으로 나누고 메카나이트를 추출합니다.</RimPlas_MechBreaker.description>
+  <RPSecurityDoor.label>신경증 보안 문</RPSecurityDoor.label>
+  <RPSecurityDoor.description>방을 나눕니다. 전기로 작동하며 문 통과시 이동속도 감소가 적거나 없습니다. 이 문에는 정착민에게 비정상적인 정신 상태에 있는지 감지하고 "개입"할 수있는 추가 생체 인식 센서가 있습니다.</RPSecurityDoor.description>
+  <BedRoll_TSB.label>림서모플라스 침낭</BedRoll_TSB.label>
+  <BedRoll_TSB.description>추가 보온을 위해 림서모플라스를 사용하는 복합 침낭. 말아서 쉽게 운반할 수 있지만 일반적인 침대만큼 편안하지는 않습니다. 상단은 더 나은 수면을 위해 여행하는 동안 침낭을 사용할 수 있습니다.</BedRoll_TSB.description>
+  <BedrollDouble_TSB.label>림서모플라스 큰 침낭</BedrollDouble_TSB.label>
+  <BedrollDouble_TSB.description>추가 보온을 위해 림서모플라스를 사용하는 복합 침낭. 말아서 쉽게 운반할 수 있지만 일반적인 침대만큼 편안하지는 않습니다. 상단은 더 나은 수면을 위해 여행하는 동안 침낭을 사용할 수 있습니다.</BedrollDouble_TSB.description>
+  <RimPlas_Asphalt.label>아스팔트</RimPlas_Asphalt.label>
+  <RimPlas_Asphalt.description>일반적으로 골재와 타르로 만든 건축 자재로 작업 속도가 빠릅니다.</RimPlas_Asphalt.description>
+  <RimPlas_Asphalt.stuffProps.stuffAdjective>아스팔트</RimPlas_Asphalt.stuffProps.stuffAdjective>
+  <CarboPitch.label>타르</CarboPitch.label>
+  <CarboPitch.description>초기 화학 합성 물질. 자체로는 쓸모가 없지만 다른 합성 재료의 생산에 사용됩니다.</CarboPitch.description>
+  <CarboFibre.label>탄소 섬유</CarboFibre.label>
+  <CarboFibre.description>다양한 구조와 아이템을 만드는 데 사용되는 합성 탄소 강화 폴리머 재료 (금속성). 내열성이 우수합니다.</CarboFibre.description>
+  <CarboFibre.stuffProps.stuffAdjective>탄소 섬유</CarboFibre.stuffProps.stuffAdjective>
+  <CarboSynth.label>카보섬유</CarboSynth.label>
+  <CarboSynth.description>합성 탄소 섬유 기반 천. 열에 대한 내성이 우수합니다.</CarboSynth.description>
+  <CarboSynth.stuffProps.stuffAdjective>카보섬유</CarboSynth.stuffProps.stuffAdjective>
+  <RimPlasGraphene.label>그래핀</RimPlasGraphene.label>
+  <RimPlasGraphene.description>다양한 구조와 아이템을 만드는 데 사용되는 매우 강력한 합성 탄소 기반 재료. 또한 열에 대한 우수한 내성과 유용한 전기적 특성을 가지고 있습니다. 이 재료는 압축 또는 타격 관련 손상에 대해 더 효과적이지만 그렇지 않아도 여전히 효과적입니다.</RimPlasGraphene.description>
+  <RimPlasGraphene.stuffProps.stuffAdjective>그래핀</RimPlasGraphene.stuffProps.stuffAdjective>
+  <CarboPlasteel.label>카보플라스틸</CarboPlasteel.label>
+  <CarboPlasteel.description>다양한 구조 및 아이템 제작에 사용되는 매우 강한 탄소 / 플라스틸 라미네이트 소재</CarboPlasteel.description>
+  <CarboPlasteel.stuffProps.stuffAdjective>카보플라스틸</CarboPlasteel.stuffProps.stuffAdjective>
+  <RPGrapheneNanoSuit.label>그래핀 나노슈트</RPGrapheneNanoSuit.label>
+  <RPGrapheneNanoSuit.description>그래핀 나노 섬유와 합성원단을 지능형 격자로 배열하기 위해 메카나이트를 사용하여 제작된 금속재질의 의복.</RPGrapheneNanoSuit.description>
+  <RPGrapheneShieldNanoSuit.label>그래핀 실드 나노슈트</RPGrapheneShieldNanoSuit.label>
+  <RPGrapheneShieldNanoSuit.description>그래핀 나노 섬유와 합성원단을 지능형 격자로 배열하기 위해 메카나이트를 사용하여 제작된 금속재질의 의복. 이 버전은 실드가 적용되어 있습니다.</RPGrapheneShieldNanoSuit.description>
+  <RimPlas_UnfinishedMA.label>미완성 림플라스 복합분석기</RimPlas_UnfinishedMA.label>
+  <RimPlas_MAPart.label>림플라스 복합분석기 부품</RimPlas_MAPart.label>
+  <RimPlas_MAPart.description>이것은 다중 분석기의 림플라스 버전을 구축하는 데 사용되는 하우징 부품입니다.</RimPlas_MAPart.description>
+  <RimThermoPlas_Foam.label>림서모플라스 폼</RimThermoPlas_Foam.label>
+  <RimThermoPlas_Foam.description>림서모플라스 폼. 화학연료 발열 반응을 이용한 발열 물품들을 제작하는데 사용됩니다.</RimThermoPlas_Foam.description>
+  <RimPlas.label>림플라스</RimPlas.label>
+  <RimPlas.description>다양한 건물와 아이템을 만드는 데 사용되는 합성 플라스틱입니다.</RimPlas.description>
+  <RimPlas.stuffProps.stuffAdjective>림플라스</RimPlas.stuffProps.stuffAdjective>
+  <RimPoly.label>림폴리</RimPoly.label>
+  <RimPoly.description>합성 섬유입니다.</RimPoly.description>
+  <RimPoly.stuffProps.stuffAdjective>림폴리</RimPoly.stuffProps.stuffAdjective>
+  <RPMechanites.label>메카나이트</RPMechanites.label>
+  <RPMechanites.description>압축 보관된 메카나이트 깡통.</RPMechanites.description>
+  <RimRayon.label>림레이온</RimRayon.label>
+  <RimRayon.description>초기 반합성 섬유. 셀룰로오스(나무)와 유기 염기(화학 연료)로 만들어졌습니다.</RimRayon.description>
+  <RimRayon.stuffProps.stuffAdjective>림레이온</RimRayon.stuffProps.stuffAdjective>
+  <Synthbase.label>합성기초</Synthbase.label>
+  <Synthbase.description>초기 화학 합성 물질. 자체로는 쓸모가 없지만 다른 합성 재료의 생산에 사용됩니다.</Synthbase.description>
+  <RimPlasDevilSynth.label>합성 악마가닥</RimPlasDevilSynth.label>
+  <RimPlasDevilSynth.description>악마가닥 천의 합성 버전. 합성 기초의 개선본입니다.</RimPlasDevilSynth.description>
+  <RimPlasDevilSynth.stuffProps.stuffAdjective>합성 악마가닥</RimPlasDevilSynth.stuffProps.stuffAdjective>
+  <RimPlas_Plasteel_Wool.label>플라스틸 울</RimPlas_Plasteel_Wool.label>
+  <RimPlas_Plasteel_Wool.description>플라스틸에서 파생된 합성 섬유.</RimPlas_Plasteel_Wool.description>
+  <RimPlas_Plasteel_Wool.stuffProps.stuffAdjective>플라스틸 울</RimPlas_Plasteel_Wool.stuffProps.stuffAdjective>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <KLKSYMustWearWithFitBodyType>이 옷을 입을 수 없습니다.</KLKSYMustWearWithFitBodyType>
+  <KLKSYActiveLabel>공개 형태</KLKSYActiveLabel>
+  <KLKSYActiveDESC>붉은 장갑 활성화</KLKSYActiveDESC>
+  <KLKSYActiveDisabled>활성화 할 수 없습니다.</KLKSYActiveDisabled>
+  <KLKSYBackLabel>끄기</KLKSYBackLabel>
+  <KLKSYBackDESC>공개 형태 끄기</KLKSYBackDESC>
+  <KLKEXPPoints>생명 섬유 : {0} (이 속성은 보호막 값을 증가시키고 혈액 손실률을 감소시킵니다.)</KLKEXPPoints>
+
+</LanguageData>

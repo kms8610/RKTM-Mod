@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <miningshaft.label>채굴 축</miningshaft.label>
+  <miningshaft.description>탐사와 채굴을 위해 행성 깊숙이 파고들 수 있습니다. 전원이 필요합니다.</miningshaft.description>
+  <miningshaft_Blueprint.label>채굴 축 (청사진)</miningshaft_Blueprint.label>
+  <miningshaft_Frame.label>채굴 축 (건설 중)</miningshaft_Frame.label>
+  <miningshaft_Frame.description>탐사와 채굴을 위해 행성 깊숙이 파고들 수 있습니다. 전원이 필요합니다.</miningshaft_Frame.description>
+  <undergroundlift.label>지하 승강기</undergroundlift.label>
+  <undergroundlift.description>당신이 지상으로 올라갈 수 있습니다.</undergroundlift.description>
+
+</LanguageData>

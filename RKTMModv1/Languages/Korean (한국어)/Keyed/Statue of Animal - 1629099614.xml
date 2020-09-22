@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StatueOfAnimal.StatueFromPreset>사전 설정대로 동상을 만들 확률(%)</StatueOfAnimal.StatueFromPreset>
+  <StatueOfAnimal.StatueFromPresetDesc>사전 설정을 선택하지 않거나 사전 설정이 없는 경우, 정착민으로부터 만들어집니다.</StatueOfAnimal.StatueFromPresetDesc>
+  <StatueOfAnimal.AutoNameStatue>자동으로 이름 지정</StatueOfAnimal.AutoNameStatue>
+  <StatueOfAnimal.StatueNameFormat>{0} "{1}" ({2})</StatueOfAnimal.StatueNameFormat>
+  <StatueOfAnimal.StatueNameFormatIfNoStatueName>{0} ({2})</StatueOfAnimal.StatueNameFormatIfNoStatueName>
+  <StatueOfAnimal.CommandBaseGraphicLabel>받침대:{0}</StatueOfAnimal.CommandBaseGraphicLabel>
+  <StatueOfAnimal.CommandBaseGraphicNoneLabel>없음</StatueOfAnimal.CommandBaseGraphicNoneLabel>
+  <StatueOfAnimal.CommandBaseGraphicCircleLabel>원</StatueOfAnimal.CommandBaseGraphicCircleLabel>
+  <StatueOfAnimal.CommandBaseGraphicRectLabel>직사각형</StatueOfAnimal.CommandBaseGraphicRectLabel>
+  <StatueOfAnimal.CommandRenameLabel>이름 바꾸기</StatueOfAnimal.CommandRenameLabel>
+  <StatueOfAnimal.CommandRenameDesc>이름을 이걸로 바꾸기</StatueOfAnimal.CommandRenameDesc>
+  <StatueOfAnimal.CommandEditStatueLabel>편집</StatueOfAnimal.CommandEditStatueLabel>
+  <StatueOfAnimal.CommandEditStatueDesc>이것의 모양 편집</StatueOfAnimal.CommandEditStatueDesc>
+  <StatueOfAnimal.WindowEditStatue>모양 편집</StatueOfAnimal.WindowEditStatue>
+  <StatueOfAnimal.PawnKindOfStatue>종</StatueOfAnimal.PawnKindOfStatue>
+  <StatueOfAnimal.LifeStageOfStatue>생태계</StatueOfAnimal.LifeStageOfStatue>
+  <StatueOfAnimal.GenderOfStatue>성별</StatueOfAnimal.GenderOfStatue>
+  <StatueOfAnimal.PackedOfStatue>짐보따리</StatueOfAnimal.PackedOfStatue>
+  <StatueOfAnimal.OffsetXOfStatue>X축 오프셋</StatueOfAnimal.OffsetXOfStatue>
+  <StatueOfAnimal.OffsetZOfStatue>Z축 오프셋</StatueOfAnimal.OffsetZOfStatue>
+  <StatueOfAnimal.ScaleOfStatue>크기</StatueOfAnimal.ScaleOfStatue>
+  <StatueOfAnimal.CopyFromPet>가축으로 부터 복사</StatueOfAnimal.CopyFromPet>
+  <StatueOfAnimal.OpenPresetListDialog>사전 설정</StatueOfAnimal.OpenPresetListDialog>
+  <StatueOfAnimal.ConfirmationCopyFromPet>가축을 복사하고 싶습니까?</StatueOfAnimal.ConfirmationCopyFromPet>
+  <StatueOfAnimal.PostLabelDeadPet> (사망)</StatueOfAnimal.PostLabelDeadPet>
+  <StatueOfAnimal.SetKindName>종을 이름으로 설정</StatueOfAnimal.SetKindName>
+  <StatueOfAnimal.LoadPreset>불러오기</StatueOfAnimal.LoadPreset>
+  <StatueOfAnimal.DeleteThisPreset>이 사전 설정을 삭제합니다.</StatueOfAnimal.DeleteThisPreset>
+  <StatueOfAnimal.SavePresetButton>저장</StatueOfAnimal.SavePresetButton>
+  <StatueOfAnimal.WeightInputFormDesc>사전 설정에서 동물의 이미지를 생성할 때, 이 사전 설정이 선택되는 가중치.</StatueOfAnimal.WeightInputFormDesc>
+  <StatueOfAnimal.PawnKindData>종:{0}</StatueOfAnimal.PawnKindData>
+  <StatueOfAnimal.PawnKindIsNotFound>[PawnKindDef] "{0}"(을)를 찾을 수 없습니다.</StatueOfAnimal.PawnKindIsNotFound>
+  <StatueOfAnimal.GenderData>성별:{0}</StatueOfAnimal.GenderData>
+  <StatueOfAnimal.LifeStageData>생태계:{0}</StatueOfAnimal.LifeStageData>
+  <StatueOfAnimal.PackedData>짐보따리:{0}</StatueOfAnimal.PackedData>
+  <StatueOfAnimal.OffsetData>오프셋:{0}</StatueOfAnimal.OffsetData>
+  <StatueOfAnimal.ScaleData>크기:{0}</StatueOfAnimal.ScaleData>
+
+</LanguageData>

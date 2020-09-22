@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make5Medicine.label>약품 제작 (×5)</Make5Medicine.label>
+  <Make5Medicine.description>약품을 만듭니다.</Make5Medicine.description>
+  <Make5Medicine.jobString>약품 만드는 중.</Make5Medicine.jobString>
+  <Make10Medicine.label>약품 제작 (×10)</Make10Medicine.label>
+  <Make10Medicine.description>약품을 만듭니다.</Make10Medicine.description>
+  <Make10Medicine.jobString>약품 만드는 중.</Make10Medicine.jobString>
+  <Make20Medicine.label>약품 제작 (×20)</Make20Medicine.label>
+  <Make20Medicine.description>약품을 만듭니다</Make20Medicine.description>
+  <Make20Medicine.jobString>약품 만드는 중.</Make20Medicine.jobString>
+  <Make5Penoxycyline.label>페노자이실린 합성 (×5)</Make5Penoxycyline.label>
+  <Make5Penoxycyline.description>페노자이실린을 만듭니다.</Make5Penoxycyline.description>
+  <Make5Penoxycyline.jobString>페노자이실린 만드는 중.</Make5Penoxycyline.jobString>
+  <Make10Penoxycyline.label>페노자이실린 합성 (×10)</Make10Penoxycyline.label>
+  <Make10Penoxycyline.description>페노자이실린을 만듭니다.</Make10Penoxycyline.description>
+  <Make10Penoxycyline.jobString>페노자이실린 만드는 중.</Make10Penoxycyline.jobString>
+  <Make20Penoxycyline.label>페노자이실린 합성 (×20)</Make20Penoxycyline.label>
+  <Make20Penoxycyline.description>페노자이실린을 만듭니다.</Make20Penoxycyline.description>
+  <Make20Penoxycyline.jobString>페노자이실린 만드는 중.</Make20Penoxycyline.jobString>
+  <Make5Flake.label>플레이크 생산 (×5)</Make5Flake.label>
+  <Make5Flake.description>플레이크를 만듭니다.</Make5Flake.description>
+  <Make5Flake.jobString>플레이크 만드는 중.</Make5Flake.jobString>
+  <Make10Flake.label>플레이크 생산 (×10)</Make10Flake.label>
+  <Make10Flake.description>플레이크를 만듭니다.</Make10Flake.description>
+  <Make10Flake.jobString>플레이크 만드는 중.</Make10Flake.jobString>
+  <Make20Flake.label>플레이크 생산 (×20)</Make20Flake.label>
+  <Make20Flake.description>플레이크를 만듭니다.</Make20Flake.description>
+  <Make20Flake.jobString>플레이크 만드는 중.</Make20Flake.jobString>
+  <Make5Yayo.label>야요 정제 (×5)</Make5Yayo.label>
+  <Make5Yayo.description>야요를 만듭니다.</Make5Yayo.description>
+  <Make5Yayo.jobString>야요 만드는 중.</Make5Yayo.jobString>
+  <Make10Yayo.label>야요 정제 (×10)</Make10Yayo.label>
+  <Make10Yayo.description>야요를 만듭니다.</Make10Yayo.description>
+  <Make10Yayo.jobString>야요 만드는 중.</Make10Yayo.jobString>
+  <Make20Yayo.label>야요 정제 (×20)</Make20Yayo.label>
+  <Make20Yayo.description>야요를 만듭니다.</Make20Yayo.description>
+  <Make20Yayo.jobString>야요 만드는 중.</Make20Yayo.jobString>
+  <Make5WakeUp.label>웨이크업 생산 (×5)</Make5WakeUp.label>
+  <Make5WakeUp.description>웨이크업를 만듭니다.</Make5WakeUp.description>
+  <Make5WakeUp.jobString>웨이크업 만드는 중.</Make5WakeUp.jobString>
+  <Make10WakeUp.label>웨이크업 생산 (×10)</Make10WakeUp.label>
+  <Make10WakeUp.description>웨이크업를 만듭니다.</Make10WakeUp.description>
+  <Make10WakeUp.jobString>웨이크업 만드는 중.</Make10WakeUp.jobString>
+  <Make20WakeUp.label>웨이크업 생산 (×20)</Make20WakeUp.label>
+  <Make20WakeUp.description>웨이크업를 만듭니다.</Make20WakeUp.description>
+  <Make20WakeUp.jobString>웨이크업 만드는 중.</Make20WakeUp.jobString>
+  <Make5GoJuice.label>고주스 합성 (×5)</Make5GoJuice.label>
+  <Make5GoJuice.description>고주스를 만듭니다.</Make5GoJuice.description>
+  <Make5GoJuice.jobString>고주스 만드는 중.</Make5GoJuice.jobString>
+  <Make10GoJuice.label>고주스 합성 (×10)</Make10GoJuice.label>
+  <Make10GoJuice.description>고주스를 만듭니다.</Make10GoJuice.description>
+  <Make10GoJuice.jobString>고주스 만드는 중.</Make10GoJuice.jobString>
+  <Make20GoJuice.label>고주스 합성 (×20)</Make20GoJuice.label>
+  <Make20GoJuice.description>고주스를 만듭니다.</Make20GoJuice.description>
+  <Make20GoJuice.jobString>고주스 만드는 중.</Make20GoJuice.jobString>
+  <Make5SmokeleafJoint.label>연초 제작 (×5)</Make5SmokeleafJoint.label>
+  <Make5SmokeleafJoint.description>연초를 만듭니다.</Make5SmokeleafJoint.description>
+  <Make5SmokeleafJoint.jobString>연초 만드는 중.</Make5SmokeleafJoint.jobString>
+  <Make10SmokeleafJoint.label>연초 제작 (×10)</Make10SmokeleafJoint.label>
+  <Make10SmokeleafJoint.description>연초를 만듭니다.</Make10SmokeleafJoint.description>
+  <Make10SmokeleafJoint.jobString>연초 만드는 중.</Make10SmokeleafJoint.jobString>
+  <Make20SmokeleafJoint.label>연초 제작 (×20)</Make20SmokeleafJoint.label>
+  <Make20SmokeleafJoint.description>연초를 만듭니다.</Make20SmokeleafJoint.description>
+  <Make20SmokeleafJoint.jobString>연초 만드는 중.</Make20SmokeleafJoint.jobString>
+  <Make5PsychoidPekoe.label>사이코이드 홍차 제작 (×5)</Make5PsychoidPekoe.label>
+  <Make5PsychoidPekoe.description>사이코이드 홍차를 만듭니다.</Make5PsychoidPekoe.description>
+  <Make5PsychoidPekoe.jobString>사이코이드 홍차 만드는 중.</Make5PsychoidPekoe.jobString>
+  <Make10PsychoidPekoe.label>사이코이드 홍차 제작 (×10)</Make10PsychoidPekoe.label>
+  <Make10PsychoidPekoe.description>사이코이드 홍차를 만듭니다.</Make10PsychoidPekoe.description>
+  <Make10PsychoidPekoe.jobString>사이코이드 홍차 만드는 중.</Make10PsychoidPekoe.jobString>
+  <Make20PsychoidPekoe.label>사이코이드 홍차 제작 (×20)</Make20PsychoidPekoe.label>
+  <Make20PsychoidPekoe.description>사이코이드 홍차를 만듭니다.</Make20PsychoidPekoe.description>
+  <Make20PsychoidPekoe.jobString>사이코이드 홍차 만드는 중.</Make20PsychoidPekoe.jobString>
+  <Make10Shell_HighExplosive.label>고폭탄 만들기 (×10)</Make10Shell_HighExplosive.label>
+  <Make10Shell_HighExplosive.description>박격포에 쓰이는 고폭탄을 만듭니다.</Make10Shell_HighExplosive.description>
+  <Make10Shell_HighExplosive.jobString>고폭탄 만드는 중.</Make10Shell_HighExplosive.jobString>
+  <Make10Shell_Incendiary.label>열화포탄 만들기 (×10)</Make10Shell_Incendiary.label>
+  <Make10Shell_Incendiary.description>박격포에 쓰이는 열화포탄을 만듭니다.</Make10Shell_Incendiary.description>
+  <Make10Shell_Incendiary.jobString>열화포탄 만드는 중.</Make10Shell_Incendiary.jobString>
+  <Make10Shell_EMP.label>전자기포탄 만들기 (×10)</Make10Shell_EMP.label>
+  <Make10Shell_EMP.description>박격포에 쓰이는 EMP 포탄을 만듭니다.</Make10Shell_EMP.description>
+  <Make10Shell_EMP.jobString>전자기포탄 만드는 중.</Make10Shell_EMP.jobString>
+  <Make10Shell_Firefoam.label>화재진압탄 만들기 (×10)</Make10Shell_Firefoam.label>
+  <Make10Shell_Firefoam.description>박격포에 쓰이는 화재진압탄을 만듭니다.</Make10Shell_Firefoam.description>
+  <Make10Shell_Firefoam.jobString>화재진압탄 만들기.</Make10Shell_Firefoam.jobString>
+  <Make10ChemfuelFromWood.label>나무에서 화학연료 생산 (×10)</Make10ChemfuelFromWood.label>
+  <Make10ChemfuelFromWood.description>나무를 기화하여 화학연료를 생산합니다.</Make10ChemfuelFromWood.description>
+  <Make10ChemfuelFromWood.jobString>나무에서 화학연료 정제 중.</Make10ChemfuelFromWood.jobString>
+  <Make10ChemfuelFromOrganics.label>유기물에서 화학연료 생산 (×10)</Make10ChemfuelFromOrganics.label>
+  <Make10ChemfuelFromOrganics.description>생물원료에서 화학연료를 추출합니다.</Make10ChemfuelFromOrganics.description>
+  <Make10ChemfuelFromOrganics.jobString>유기물에서 화학연료 정제 중.</Make10ChemfuelFromOrganics.jobString>
+  <Make10Component.label>부품 제작 (×10)</Make10Component.label>
+  <Make10Component.description>부품을 만듭니다.</Make10Component.description>
+  <Make10Component.jobString>부품 만드는 중</Make10Component.jobString>
+  <Make10AdvancedComponent.label>고급 부품 제작 (×10)</Make10AdvancedComponent.label>
+  <Make10AdvancedComponent.description>고급 부품을 만듭니다.</Make10AdvancedComponent.description>
+  <Make10AdvancedComponent.jobString>고급 부품 만드는 중.</Make10AdvancedComponent.jobString>
+
+</LanguageData>

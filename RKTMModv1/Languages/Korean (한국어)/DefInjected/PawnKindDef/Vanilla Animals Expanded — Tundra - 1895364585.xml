@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_Muskox.label>사향소</AEXP_Muskox.label>
+  <AEXP_Muskox.labelPlural>사향소들</AEXP_Muskox.labelPlural>
+  <AEXP_Muskox.lifeStages.0.label>새끼 사향소</AEXP_Muskox.lifeStages.0.label>
+  <AEXP_Muskox.lifeStages.0.labelPlural>새끼 사향소들</AEXP_Muskox.lifeStages.0.labelPlural>
+  <AEXP_Moose.label>무스</AEXP_Moose.label>
+  <AEXP_MegaWolverine.label>거대 울버린</AEXP_MegaWolverine.label>
+  <AEXP_Porcupine.label>호저</AEXP_Porcupine.label>
+
+</LanguageData>

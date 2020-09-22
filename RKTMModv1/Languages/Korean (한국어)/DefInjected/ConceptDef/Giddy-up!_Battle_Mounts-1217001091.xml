@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BM_Mounting.label>Giddy-up!:어떻게 탑승하나요?</BM_Mounting.label>
+  <BM_Mounting.helpText>전투를 위해 동물위에 탑승합니다. 폰을 클릭하고 복종 훈련을 받은 동물을 마우스 오른쪽 클릭합니다. 그리고 '탑승'을 클릭합니다.</BM_Mounting.helpText>
+  <BM_Enemy_Mounting.label>Giddy-up!: 적도 탑승합니다.</BM_Enemy_Mounting.label>
+  <BM_Enemy_Mounting.helpText>적 폰들도 동물을 탈 수 있습니다. 그들이 기승할 확률과 그들이 어디서 탑승 동물을 탈지(당신의 정착지 기후의 야생 동물, 모든 기후의 야생 동물 아니면 비야생 동물) 모드 옵션에서 설정할 수 있습니다. 조련 능력이 높은 적 폰이면 더 희귀한 동물을 타고 올 수 있습니다.</BM_Enemy_Mounting.helpText>
+
+</LanguageData>

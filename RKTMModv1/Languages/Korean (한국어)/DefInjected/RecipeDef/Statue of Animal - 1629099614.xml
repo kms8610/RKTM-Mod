@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_TMB_StatueOfAnimal1x.label>동물 조각상(1x1) 제작</Make_TMB_StatueOfAnimal1x.label>
+  <Make_TMB_StatueOfAnimal1x.description>동물 조각상(1x1)을 제작합니다.</Make_TMB_StatueOfAnimal1x.description>
+  <Make_TMB_StatueOfAnimal1x.jobString>동물 조각상(1x1) 제작하는 중.</Make_TMB_StatueOfAnimal1x.jobString>
+  <Make_TMB_StatueOfAnimal2x.label>동물 조각상(2x2) 제작</Make_TMB_StatueOfAnimal2x.label>
+  <Make_TMB_StatueOfAnimal2x.description>동물 조각상(2x2)을 제작합니다.</Make_TMB_StatueOfAnimal2x.description>
+  <Make_TMB_StatueOfAnimal2x.jobString>동물 조각상(2x2) 제작하는 중.</Make_TMB_StatueOfAnimal2x.jobString>
+
+</LanguageData>

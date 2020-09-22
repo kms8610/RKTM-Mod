@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Production_Mechanites.label>나노 메카나이트 만들기</EVOR_Production_Mechanites.label>
+  <EVOR_Production_Mechanites.description>재프로그래밍된 메카나이트로부터 나노 메카나이트를 만듭니다.</EVOR_Production_Mechanites.description>
+  <EVOR_Production_Mechanites.jobString>나노 메카나이트 만들기</EVOR_Production_Mechanites.jobString>
+  <EVOR_Production_Protein.label>동물 고기로 단백질 정제하기</EVOR_Production_Protein.label>
+  <EVOR_Production_Protein.description>도축된 동물 고기로 단백질을 정제합니다.</EVOR_Production_Protein.description>
+  <EVOR_Production_Protein.jobString>단백질 정제하기</EVOR_Production_Protein.jobString>
+  <EVOR_Production_Protein_Humie.label>인간 고기로 단백질 정제하기</EVOR_Production_Protein_Humie.label>
+  <EVOR_Production_Protein_Humie.description>도축된 인간 고기로 단백질을 정제합니다.</EVOR_Production_Protein_Humie.description>
+  <EVOR_Production_Protein_Humie.jobString>단백질 정제하기</EVOR_Production_Protein_Humie.jobString>
+  <EVOR_Surgery_Abd_ThirdLung.label>&lt;color=#00FFF7>추가 나노필터 폐 이식하기&lt;/color></EVOR_Surgery_Abd_ThirdLung.label>
+  <EVOR_Surgery_Abd_ThirdLung.description>추가 나노필터 폐를 이식합니다.</EVOR_Surgery_Abd_ThirdLung.description>
+  <EVOR_Surgery_Abd_ThirdLung.jobString>추가 나노필터 폐 이식하기</EVOR_Surgery_Abd_ThirdLung.jobString>
+  <EVOR_Surgery_Abd_SecondHeart.label>&lt;color=#00FFF7>보조 심장 이식하기&lt;/color></EVOR_Surgery_Abd_SecondHeart.label>
+  <EVOR_Surgery_Abd_SecondHeart.description>보조 심장을 이식합니다.</EVOR_Surgery_Abd_SecondHeart.description>
+  <EVOR_Surgery_Abd_SecondHeart.jobString>보조 심장 이식하기</EVOR_Surgery_Abd_SecondHeart.jobString>
+  <EVOR_Surgery_Abd_Combat.label>&lt;color=#00FFF7>전투 혈청 분비선 이식하기&lt;/color></EVOR_Surgery_Abd_Combat.label>
+  <EVOR_Surgery_Abd_Combat.description>전투 혈청 분비선을 이식합니다.</EVOR_Surgery_Abd_Combat.description>
+  <EVOR_Surgery_Abd_Combat.jobString>전투 혈청 분비선 이식하기</EVOR_Surgery_Abd_Combat.jobString>
+  <EVOR_Surgery_Abd_Hormone_1.label>&lt;color=#00FFF7>호르몬 조절기 이식하기&lt;/color></EVOR_Surgery_Abd_Hormone_1.label>
+  <EVOR_Surgery_Abd_Hormone_1.description>호르몬 조절기를 이식합니다.</EVOR_Surgery_Abd_Hormone_1.description>
+  <EVOR_Surgery_Abd_Hormone_1.jobString>호르몬 조절기 이식하기</EVOR_Surgery_Abd_Hormone_1.jobString>
+  <EVOR_Surgery_Abd_Hormone_2.label>&lt;color=#00FFF7>호르몬 조절기 이식하기&lt;/color></EVOR_Surgery_Abd_Hormone_2.label>
+  <EVOR_Surgery_Abd_Hormone_2.description>호르몬 조절기를 이식합니다.</EVOR_Surgery_Abd_Hormone_2.description>
+  <EVOR_Surgery_Abd_Hormone_2.jobString>호르몬 조절기 이식하기</EVOR_Surgery_Abd_Hormone_2.jobString>
+  <EVOR_Surgery_Abd_Hormone_A.label>&lt;color=#00FFF7>호르몬 조절기 이식하기&lt;/color></EVOR_Surgery_Abd_Hormone_A.label>
+  <EVOR_Surgery_Abd_Hormone_A.description>호르몬 조절기를 이식합니다.</EVOR_Surgery_Abd_Hormone_A.description>
+  <EVOR_Surgery_Abd_Hormone_A.jobString>호르몬 조절기 이식하기</EVOR_Surgery_Abd_Hormone_A.jobString>
+  <EVOR_Surgery_Abd_Lymph_1.label>&lt;color=#00FFF7>림프구 증식기 이식하기&lt;/color></EVOR_Surgery_Abd_Lymph_1.label>
+  <EVOR_Surgery_Abd_Lymph_1.description>림프구 증식기를 이식합니다.</EVOR_Surgery_Abd_Lymph_1.description>
+  <EVOR_Surgery_Abd_Lymph_1.jobString>림프구 증식기 이식하기</EVOR_Surgery_Abd_Lymph_1.jobString>
+  <EVOR_Surgery_Abd_Lymph_2.label>&lt;color=#00FFF7>림프구 증식기 이식하기&lt;/color></EVOR_Surgery_Abd_Lymph_2.label>
+  <EVOR_Surgery_Abd_Lymph_2.description>림프구 증식기를 이식합니다.</EVOR_Surgery_Abd_Lymph_2.description>
+  <EVOR_Surgery_Abd_Lymph_2.jobString>림프구 증식기 이식하기</EVOR_Surgery_Abd_Lymph_2.jobString>
+  <EVOR_Surgery_Abd_Lymph_A.label>&lt;color=#00FFF7>림프구 증식기 이식하기&lt;/color></EVOR_Surgery_Abd_Lymph_A.label>
+  <EVOR_Surgery_Abd_Lymph_A.description>림프구 증식기를 이식합니다.</EVOR_Surgery_Abd_Lymph_A.description>
+  <EVOR_Surgery_Abd_Lymph_A.jobString>림프구 증식기 이식하기</EVOR_Surgery_Abd_Lymph_A.jobString>
+  <EVOR_Surgery_Back_Wing.label>&lt;color=#00FFF7>깃털 날개 이식하기&lt;/color></EVOR_Surgery_Back_Wing.label>
+  <EVOR_Surgery_Back_Wing.description>깃털 날개를 이식합니다.</EVOR_Surgery_Back_Wing.description>
+  <EVOR_Surgery_Back_Wing.jobString>깃털 날개 이식하기</EVOR_Surgery_Back_Wing.jobString>
+  <EVOR_Surgery_Back_Hand.label>&lt;color=#00FFF7>촉수 군집 이식하기&lt;/color></EVOR_Surgery_Back_Hand.label>
+  <EVOR_Surgery_Back_Hand.description>촉수 군집을 이식합니다.</EVOR_Surgery_Back_Hand.description>
+  <EVOR_Surgery_Back_Hand.jobString>촉수 군집 이식하기</EVOR_Surgery_Back_Hand.jobString>
+  <EVOR_Surgery_Back_Muscle.label>&lt;color=#00FFF7>근육 교정기 이식하기&lt;/color></EVOR_Surgery_Back_Muscle.label>
+  <EVOR_Surgery_Back_Muscle.description>근육 교정기를 이식합니다.</EVOR_Surgery_Back_Muscle.description>
+  <EVOR_Surgery_Back_Muscle.jobString>근육 교정기 이식하기</EVOR_Surgery_Back_Muscle.jobString>
+  <EVOR_Surgery_Brain_Hyper.label>&lt;color=#00FFF7>신경 하이퍼스레더 이식하기&lt;/color></EVOR_Surgery_Brain_Hyper.label>
+  <EVOR_Surgery_Brain_Hyper.description>신경 하이퍼스레더를 이식합니다.</EVOR_Surgery_Brain_Hyper.description>
+  <EVOR_Surgery_Brain_Hyper.jobString>신경 하이퍼스레더 이식하기</EVOR_Surgery_Brain_Hyper.jobString>
+  <EVOR_Surgery_Brain_Nails.label>&lt;color=#00FFF7>도살자의 손톱 이식하기&lt;/color></EVOR_Surgery_Brain_Nails.label>
+  <EVOR_Surgery_Brain_Nails.description>도살자의 손톱을 이식합니다.</EVOR_Surgery_Brain_Nails.description>
+  <EVOR_Surgery_Brain_Nails.jobString>도살자의 손톱 이식하기</EVOR_Surgery_Brain_Nails.jobString>
+  <EVOR_Surgery_Skull_Shielding.label>&lt;color=#00FFF7>간섭 차폐막 이식하기&lt;/color></EVOR_Surgery_Skull_Shielding.label>
+  <EVOR_Surgery_Skull_Shielding.description>간섭 차폐막을 이식합니다.</EVOR_Surgery_Skull_Shielding.description>
+  <EVOR_Surgery_Skull_Shielding.jobString>간섭 차폐막 이식하기</EVOR_Surgery_Skull_Shielding.jobString>
+  <EVOR_Surgery_Skull_Plating.label>&lt;color=#00FFF7>두개골 판 이식하기&lt;/color></EVOR_Surgery_Skull_Plating.label>
+  <EVOR_Surgery_Skull_Plating.description>두개골 판을 이식합니다.</EVOR_Surgery_Skull_Plating.description>
+  <EVOR_Surgery_Skull_Plating.jobString>두개골 판 이식하기</EVOR_Surgery_Skull_Plating.jobString>
+  <EVOR_Surgery_Jaw_Distend.label>&lt;color=#00FFF7>확장 가능한 턱 이식하기&lt;/color></EVOR_Surgery_Jaw_Distend.label>
+  <EVOR_Surgery_Jaw_Distend.description>확장 가능한 턱을 이식합니다.</EVOR_Surgery_Jaw_Distend.description>
+  <EVOR_Surgery_Jaw_Distend.jobString>확장 가능한 턱 이식하기</EVOR_Surgery_Jaw_Distend.jobString>
+  <EVOR_Surgery_Jaw_Venom.label>&lt;color=#00FFF7>독 송곳니 이식하기&lt;/color></EVOR_Surgery_Jaw_Venom.label>
+  <EVOR_Surgery_Jaw_Venom.description>독 송곳니를 이식합니다.</EVOR_Surgery_Jaw_Venom.description>
+  <EVOR_Surgery_Jaw_Venom.jobString>독 송곳니 이식하기</EVOR_Surgery_Jaw_Venom.jobString>
+  <EVOR_Surgery_Leg_Normal.label>&lt;color=#00FFF7>강화된 다리 이식하기&lt;/color></EVOR_Surgery_Leg_Normal.label>
+  <EVOR_Surgery_Leg_Normal.description>강화된 다리를 이식합니다.</EVOR_Surgery_Leg_Normal.description>
+  <EVOR_Surgery_Leg_Normal.jobString>강화된 다리 이식하기</EVOR_Surgery_Leg_Normal.jobString>
+  <EVOR_Surgery_Leg_Hand.label>&lt;color=#00FFF7>집기 가능한 다리 이식하기&lt;/color></EVOR_Surgery_Leg_Hand.label>
+  <EVOR_Surgery_Leg_Hand.description>집기 가능한 다리를 이식합니다.</EVOR_Surgery_Leg_Hand.description>
+  <EVOR_Surgery_Leg_Hand.jobString>집기 가능한 다리 이식하기</EVOR_Surgery_Leg_Hand.jobString>
+  <EVOR_Surgery_Leg_Blade.label>&lt;color=#00FFF7>골화된 칼날 다리 이식하기&lt;/color></EVOR_Surgery_Leg_Blade.label>
+  <EVOR_Surgery_Leg_Blade.description>골화된 칼날 다리를 이식합니다.</EVOR_Surgery_Leg_Blade.description>
+  <EVOR_Surgery_Leg_Blade.jobString>골화된 칼날 다리 이식하기</EVOR_Surgery_Leg_Blade.jobString>
+  <EVOR_Surgery_Eye.label>&lt;color=#00FFF7>다중 스펙트럼 눈 이식하기&lt;/color></EVOR_Surgery_Eye.label>
+  <EVOR_Surgery_Eye.description>다중 스펙트럼 눈을 이식합니다.</EVOR_Surgery_Eye.description>
+  <EVOR_Surgery_Eye.jobString>다중 스펙트럼 눈 이식하기</EVOR_Surgery_Eye.jobString>
+  <EVOR_Surgery_Nose.label>&lt;color=#00FFF7>미세분석 코 이식하기&lt;/color></EVOR_Surgery_Nose.label>
+  <EVOR_Surgery_Nose.description>미세분석 코를 이식합니다.</EVOR_Surgery_Nose.description>
+  <EVOR_Surgery_Nose.jobString>미세분석 코 이식하기</EVOR_Surgery_Nose.jobString>
+  <EVOR_Surgery_Nose_Pheromones.label>&lt;color=#00FFF7>페로몬 방출 코 이식하기&lt;/color></EVOR_Surgery_Nose_Pheromones.label>
+  <EVOR_Surgery_Nose_Pheromones.description>페로몬 방출 코를 이식합니다.</EVOR_Surgery_Nose_Pheromones.description>
+  <EVOR_Surgery_Nose_Pheromones.jobString>페로몬 방출 코 이식하기</EVOR_Surgery_Nose_Pheromones.jobString>
+  <EVOR_Surgery_Ear.label>&lt;color=#00FFF7>다주파 귀 이식하기&lt;/color></EVOR_Surgery_Ear.label>
+  <EVOR_Surgery_Ear.description>다주파 귀를 이식합니다.</EVOR_Surgery_Ear.description>
+  <EVOR_Surgery_Ear.jobString>다주파 귀 이식하기</EVOR_Surgery_Ear.jobString>
+  <EVOR_Surgery_Spine.label>&lt;color=#00FFF7>신경 가속 척추 이식하기&lt;/color></EVOR_Surgery_Spine.label>
+  <EVOR_Surgery_Spine.description>신경 가속 척추를 이식합니다.</EVOR_Surgery_Spine.description>
+  <EVOR_Surgery_Spine.jobString>신경 가속 척추 이식하기</EVOR_Surgery_Spine.jobString>
+  <EVOR_Surgery_Primary_NormalArm.label>&lt;color=#00FFF7>추가 팔 이식하기&lt;/color></EVOR_Surgery_Primary_NormalArm.label>
+  <EVOR_Surgery_Primary_NormalArm.description>추가 팔을 이식합니다.</EVOR_Surgery_Primary_NormalArm.description>
+  <EVOR_Surgery_Primary_NormalArm.jobString>추가 팔 이식하기</EVOR_Surgery_Primary_NormalArm.jobString>
+  <EVOR_Surgery_Primary_BoneSaber.label>&lt;color=#00FFF7>골화된 칼날 팔 이식하기&lt;/color></EVOR_Surgery_Primary_BoneSaber.label>
+  <EVOR_Surgery_Primary_BoneSaber.description>골화된 칼날 팔을 이식합니다.</EVOR_Surgery_Primary_BoneSaber.description>
+  <EVOR_Surgery_Primary_BoneSaber.jobString>골화된 칼날 팔 이식하기</EVOR_Surgery_Primary_BoneSaber.jobString>
+  <EVOR_Surgery_Primary_HighPincer.label>&lt;color=#00FFF7>고압 집게 이식하기&lt;/color></EVOR_Surgery_Primary_HighPincer.label>
+  <EVOR_Surgery_Primary_HighPincer.description>고압 집게를 이식합니다.</EVOR_Surgery_Primary_HighPincer.description>
+  <EVOR_Surgery_Primary_HighPincer.jobString>고압 집게 이식하기</EVOR_Surgery_Primary_HighPincer.jobString>
+  <EVOR_Surgery_Primary_SonicMace.label>&lt;color=#00FFF7>음파 충격 메이스 이식하기&lt;/color></EVOR_Surgery_Primary_SonicMace.label>
+  <EVOR_Surgery_Primary_SonicMace.description>음파 충격 메이스를 이식합니다.</EVOR_Surgery_Primary_SonicMace.description>
+  <EVOR_Surgery_Primary_SonicMace.jobString>음파 충격 메이스 이식하기</EVOR_Surgery_Primary_SonicMace.jobString>
+  <EVOR_Surgery_Primary_PlatedLimb.label>&lt;color=#00FFF7>삼중 강판 팔 이식하기&lt;/color></EVOR_Surgery_Primary_PlatedLimb.label>
+  <EVOR_Surgery_Primary_PlatedLimb.description>삼중 강판 팔을 이식합니다.</EVOR_Surgery_Primary_PlatedLimb.description>
+  <EVOR_Surgery_Primary_PlatedLimb.jobString>삼중 강판 팔 이식하기</EVOR_Surgery_Primary_PlatedLimb.jobString>
+  <EVOR_Surgery_Primary_RendingClaw.label>&lt;color=#00FFF7>날카로운 손톱 이식하기&lt;/color></EVOR_Surgery_Primary_RendingClaw.label>
+  <EVOR_Surgery_Primary_RendingClaw.description>날카로운 손톱을 이식합니다.</EVOR_Surgery_Primary_RendingClaw.description>
+  <EVOR_Surgery_Primary_RendingClaw.jobString>날카로운 손톱 이식하기</EVOR_Surgery_Primary_RendingClaw.jobString>
+  <EVOR_Surgery_Heart.label>&lt;color=#00FFF7>삼중 주 심장 이식하기&lt;/color></EVOR_Surgery_Heart.label>
+  <EVOR_Surgery_Heart.description>삼중 주 심장을 이식합니다.</EVOR_Surgery_Heart.description>
+  <EVOR_Surgery_Heart.jobString>삼중 주 심장 이식하기</EVOR_Surgery_Heart.jobString>
+  <EVOR_Surgery_Kidney.label>&lt;color=#00FFF7>삼중 필터 신장 이식하기&lt;/color></EVOR_Surgery_Kidney.label>
+  <EVOR_Surgery_Kidney.description>삼중 필터 신장을 이식합니다.</EVOR_Surgery_Kidney.description>
+  <EVOR_Surgery_Kidney.jobString>삼충 필터 신장 이식하기</EVOR_Surgery_Kidney.jobString>
+  <EVOR_Surgery_Lung.label>&lt;color=#00FFF7>나노 폐포 폐 이식하기&lt;/color></EVOR_Surgery_Lung.label>
+  <EVOR_Surgery_Lung.description>나노 폐포 폐를 이식합니다.</EVOR_Surgery_Lung.description>
+  <EVOR_Surgery_Lung.jobString>나노 폐포 폐 이식하기</EVOR_Surgery_Lung.jobString>
+  <EVOR_Surgery_Stomach.label>&lt;color=#00FFF7>다중 위장 위 이식하기&lt;/color></EVOR_Surgery_Stomach.label>
+  <EVOR_Surgery_Stomach.description>다중 위장 위를 이식합니다.</EVOR_Surgery_Stomach.description>
+  <EVOR_Surgery_Stomach.jobString>다중 위장 위 이식하기</EVOR_Surgery_Stomach.jobString>
+  <EVOR_Surgery_Liver.label>&lt;color=#00FFF7>사방형 간 이식하기&lt;/color></EVOR_Surgery_Liver.label>
+  <EVOR_Surgery_Liver.description>사방형 간을 이식합니다.</EVOR_Surgery_Liver.description>
+  <EVOR_Surgery_Liver.jobString>사방형 간 이식하기</EVOR_Surgery_Liver.jobString>
+  <EVOR_Surgery_Secondary_NormalArm.label>&lt;color=#00FFF7>추가 팔 이식하기&lt;/color></EVOR_Surgery_Secondary_NormalArm.label>
+  <EVOR_Surgery_Secondary_NormalArm.description>추가 팔을 이식합니다.</EVOR_Surgery_Secondary_NormalArm.description>
+  <EVOR_Surgery_Secondary_NormalArm.jobString>추가 팔 이식하기</EVOR_Surgery_Secondary_NormalArm.jobString>
+  <EVOR_Surgery_Secondary_BoneSaber.label>&lt;color=#00FFF7>골화된 칼날 팔 이식하기&lt;/color></EVOR_Surgery_Secondary_BoneSaber.label>
+  <EVOR_Surgery_Secondary_BoneSaber.description>골화된 칼날 팔을 이식합니다.</EVOR_Surgery_Secondary_BoneSaber.description>
+  <EVOR_Surgery_Secondary_BoneSaber.jobString>골화된 칼날 팔 이식하기</EVOR_Surgery_Secondary_BoneSaber.jobString>
+  <EVOR_Surgery_Secondary_HighPincer.label>&lt;color=#00FFF7>고압 집게 이식하기&lt;/color></EVOR_Surgery_Secondary_HighPincer.label>
+  <EVOR_Surgery_Secondary_HighPincer.description>고압 집게를 이식합니다.</EVOR_Surgery_Secondary_HighPincer.description>
+  <EVOR_Surgery_Secondary_HighPincer.jobString>고압 집게 이식하기</EVOR_Surgery_Secondary_HighPincer.jobString>
+  <EVOR_Surgery_Secondary_SonicMace.label>&lt;color=#00FFF7>음파 충격 메이스 이식하기&lt;/color></EVOR_Surgery_Secondary_SonicMace.label>
+  <EVOR_Surgery_Secondary_SonicMace.description>음파 충격 메이스를 이식합니다.</EVOR_Surgery_Secondary_SonicMace.description>
+  <EVOR_Surgery_Secondary_SonicMace.jobString>음파 충격 메이스 이식하기</EVOR_Surgery_Secondary_SonicMace.jobString>
+  <EVOR_Surgery_Secondary_PlatedLimb.label>&lt;color=#00FFF7>삼중 강판 팔 이식하기&lt;/color></EVOR_Surgery_Secondary_PlatedLimb.label>
+  <EVOR_Surgery_Secondary_PlatedLimb.description>삼중 강판 팔을 이식합니다.</EVOR_Surgery_Secondary_PlatedLimb.description>
+  <EVOR_Surgery_Secondary_PlatedLimb.jobString>삼중 강판 팔 이식하기</EVOR_Surgery_Secondary_PlatedLimb.jobString>
+  <EVOR_Surgery_Secondary_RendingClaw.label>&lt;color=#00FFF7>날카로운 손톱 이식하기&lt;/color></EVOR_Surgery_Secondary_RendingClaw.label>
+  <EVOR_Surgery_Secondary_RendingClaw.description>날카로운 손톱을 이식합니다.</EVOR_Surgery_Secondary_RendingClaw.description>
+  <EVOR_Surgery_Secondary_RendingClaw.jobString>날카로운 손톱 이식하기</EVOR_Surgery_Secondary_RendingClaw.jobString>
+  <EVOR_Surgery_Skin_Plating.label>&lt;color=#00FFF7>다중 피부 강판 이식하기&lt;/color></EVOR_Surgery_Skin_Plating.label>
+  <EVOR_Surgery_Skin_Plating.description>다중 피부 강판을 이식합니다.</EVOR_Surgery_Skin_Plating.description>
+  <EVOR_Surgery_Skin_Plating.jobString>다중 피부 강판 이식하기</EVOR_Surgery_Skin_Plating.jobString>
+  <EVOR_Surgery_Skin_Flame.label>&lt;color=#00FFF7>내화성 피부 이식하기&lt;/color></EVOR_Surgery_Skin_Flame.label>
+  <EVOR_Surgery_Skin_Flame.description>내화성 피부를 이식합니다.</EVOR_Surgery_Skin_Flame.description>
+  <EVOR_Surgery_Skin_Flame.jobString>내화성 피부 이식하기</EVOR_Surgery_Skin_Flame.jobString>
+  <EVOR_Surgery_Skin_Insulation.label>&lt;color=#00FFF7>가변형 단열 피부 이식하기&lt;/color></EVOR_Surgery_Skin_Insulation.label>
+  <EVOR_Surgery_Skin_Insulation.description>가병형 단열 피부를 이식합니다.</EVOR_Surgery_Skin_Insulation.description>
+  <EVOR_Surgery_Skin_Insulation.jobString>가변형 단열 피부 이식하기</EVOR_Surgery_Skin_Insulation.jobString>
+  <EVOR_Surgery_Ribcage.label>&lt;color=#00FFF7>칼슘 합금 갈비뼈 이식하기&lt;/color></EVOR_Surgery_Ribcage.label>
+  <EVOR_Surgery_Ribcage.description>칼슘 합금 갈비뼈를 이식합니다.</EVOR_Surgery_Ribcage.description>
+  <EVOR_Surgery_Ribcage.jobString>칼슘 합금 갈비뼈 이식하기</EVOR_Surgery_Ribcage.jobString>
+  <EVOR_Surgery_Tail_Blade.label>&lt;color=#00FFF7>톱니형 쐐기 꼬리 이식하기&lt;/color></EVOR_Surgery_Tail_Blade.label>
+  <EVOR_Surgery_Tail_Blade.description>톱니형 쐐기 꼬리를 이식합니다.</EVOR_Surgery_Tail_Blade.description>
+  <EVOR_Surgery_Tail_Blade.jobString>톱니형 쐐기 꼬리 이식하기</EVOR_Surgery_Tail_Blade.jobString>
+  <EVOR_Surgery_Tail_Hand.label>&lt;color=#00FFF7>조작 꼬리 이식하기&lt;/color></EVOR_Surgery_Tail_Hand.label>
+  <EVOR_Surgery_Tail_Hand.description>조작 꼬리를 이식합니다.</EVOR_Surgery_Tail_Hand.description>
+  <EVOR_Surgery_Tail_Hand.jobString>조작 꼬리 이식하기</EVOR_Surgery_Tail_Hand.jobString>
+
+</LanguageData>

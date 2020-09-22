@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1140051385_181113_Smokeleaf_Industry-->
+  <MSI.description>의료용, 오락용과 산업용 연초잎 생산</MSI.description>
+  <MSI.label>연초잎 산업</MSI.label>
+
+  <!--1420979918_190627_Buildable Terrain-->
+  <terraforming.description>당신의 정착지의 지형을 바꿉니다.</terraforming.description>
+  <terraforming.label>테라포밍</terraforming.label>
+
+  <!--1447372624_190816_Nano Repair Tech-->
+  <Ogre_NanoRepairTech_DesignationCategory.description>나노 수리기술 가구를 허용합니다.</Ogre_NanoRepairTech_DesignationCategory.description>
+  <Ogre_NanoRepairTech_DesignationCategory.label>나노기술</Ogre_NanoRepairTech_DesignationCategory.label>
+
+  <!--1505914869_190616_What the hack!-->
+  <WTH_Hacking.label>해킹</WTH_Hacking.label>
+
+  <!--1539311500_181027_Fertile Fields-->
+  <RFF_Farm.label>농사</RFF_Farm.label>
+  <RFF_Farm.description>농지를 개선합니다.</RFF_Farm.description>
+  <RFF_Adds.description>지형을 재구성합니다.</RFF_Adds.description>
+  <RFF_Adds.label>지형 재구성</RFF_Adds.label>
+
+  <!--1541728186_181023_Floor Lights-->
+  <Lamps.description>마루 조명</Lamps.description>
+  <Lamps.label>조명</Lamps.label>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu.description>물을 얻는데 사용되는 구조물.</Mizu.description>
+  <Mizu.label>물</Mizu.label>
+
+  <!--1543561093_190621_MoreFloors-->
+  <MoreFloors.label>추가 바닥</MoreFloors.label>
+  <MoreFloors.description>더 많은 바닥.</MoreFloors.description>
+
+  <!--1544944259_190628_More Furniture-->
+  <ANON2MF.label>가구+</ANON2MF.label>
+  <ANON2MF.description>더 많은 가구를 추가합니다.</ANON2MF.description>
+
+  <!--1545160307_190526_Glowstone-->
+  <GLO_Glowstone.label>발광석</GLO_Glowstone.label>
+  <GLO_Glowstone.description>발광석으로 만들어진 물체입니다.</GLO_Glowstone.description>
+
+  <!--1547692203_190621_Fences And Floors-->
+  <Fences.description>다양한 종류의 울타리들 입니다.</Fences.description>
+  <Fences.label>울타리</Fences.label>
+
+  <!--1551135830_190814_RedistHeat-->
+  <Ductwork.label>환기구</Ductwork.label>
+  <Ductwork.description>멀리 떨어진 구역 간의 온도를 교환합니다.</Ductwork.description>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <ReligionBuildings.label>종교</ReligionBuildings.label>
+  <ReligionBuildings.description>정착민들의 종교를 위한 것들</ReligionBuildings.description>
+
+  <!--1714572710_190606_Rimstro-->
+  <RS_Category.label>림스트로</RS_Category.label>
+
+  <!--1715402900_190519_Replimat-->
+  <Replimat_Replimat.description>레플리맷' 식품 복제 서비스 시스템을 구축하기 위한 구성 요소입니다.</Replimat_Replimat.description>
+  <Replimat_Replimat.label>레플리맷</Replimat_Replimat.label>
+
+  <!--708455313_181029_BluePrint-->
+  <Blueprints.label>청사진</Blueprints.label>
+  <Blueprints.description>청사진!</Blueprints.description>
+
+  <!--732569232_190814_Medieval Times-->
+  <MedTimes_Medieval.label>중세</MedTimes_Medieval.label>
+  <MedTimes_Medieval.description>중세 시대로부터 내려온 유산 모드</MedTimes_Medieval.description>
+
+  <!--763943290_190526_sd_goodnight-->
+  <sd_beds.label>침대</sd_beds.label>
+  <sd_beds.description>당신의 정착민들이 잘 곳입니다.</sd_beds.description>
+
+  <!--769201959_190626_RIMKea-->
+  <RIMkea.label>림케아</RIMkea.label>
+  <RIMkea.description>림케아 가구</RIMkea.description>
+
+  <!--833899765_190814_Dubs Skylights-->
+  <skylights.label>채광창</skylights.label>
+  <skylights.description>채광창.</skylights.description>
+
+  <!--881100382_190628_More Planning-->
+  <Planning.description>더욱 다양한 계획을 할 수 있습니다.</Planning.description>
+  <Planning.label>계획</Planning.label>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <INSDoorSimple_Biomass.label>단열 문(바이오 매스)</INSDoorSimple_Biomass.label>
+  <INSDoorSimple_Biomass.description>방을 나누는 단열 문. 수동으로 열고 닫으며 문 통과시 이동속도가 느려집니다. 둔화의 정도는 문의 재질에 따라 다릅니다.</INSDoorSimple_Biomass.description>
+  <INSDoor_Biomass.label>단열 자동문 (바이오 매스)</INSDoor_Biomass.label>
+  <INSDoor_Biomass.description>방을 나누는 단열 문. 전기로 작동하며 문 통과시 이동속도 감소가 적거나 없습니다.</INSDoor_Biomass.description>
+  <INSDoorSimple_Fibre.label>단열문 (섬유)</INSDoorSimple_Fibre.label>
+  <INSDoorSimple_Fibre.description>방을 나누는 단열 문. 수동으로 열고 닫으며 문 통과시 이동속도가 느려집니다. 둔화의 정도는 문의 재질에 따라 다릅니다.</INSDoorSimple_Fibre.description>
+  <INSDoor_Fibre.label>단열 자동문 (섬유)</INSDoor_Fibre.label>
+  <INSDoor_Fibre.description>방을 나누는 단열 문. 전기로 작동하며 문 통과시 이동속도 감소가 적거나 없습니다.</INSDoor_Fibre.description>
+  <INSDoorSimple_Polymer.label>단열 문 (중합체)</INSDoorSimple_Polymer.label>
+  <INSDoorSimple_Polymer.description>방을 나누는 단열 문. 수동으로 열고 닫으며 문 통과시 이동속도가 느려집니다. 둔화의 정도는 문의 재질에 따라 다릅니다.</INSDoorSimple_Polymer.description>
+  <INSDoor_Polymer.label>단열 자동문 (중합체)</INSDoor_Polymer.label>
+  <INSDoor_Polymer.description>방을 나누는 단열 문. 수동으로 열고 닫으며 문 통과시 이동속도가 느려집니다. 둔화의 정도는 문의 재질에 따라 다릅니다.</INSDoor_Polymer.description>
+  <INSSlab_Biomass.label>단열재 (바이오 매스)</INSSlab_Biomass.label>
+  <INSSlab_Biomass.description>작업 가능한 자재로 형성한 단열재. 적은 공간을 차치하며 동물의 먹이로 사용이 가능합니다.</INSSlab_Biomass.description>
+  <INSSlab_Fibre.label>단열재 (섬유)</INSSlab_Fibre.label>
+  <INSSlab_Fibre.description>작업 가능한 자재로 형성한 단열재. 삼베로 재활용이 가능합니다.</INSSlab_Fibre.description>
+  <INS_Burlap.label>삼베</INS_Burlap.label>
+  <INS_Burlap.description>섬유 단열재에서 직물을 만듭니다. 천과 비슷하지만 단열 능력은 더 뛰어납니다.</INS_Burlap.description>
+  <INS_Burlap.stuffProps.stuffAdjective>삼베</INS_Burlap.stuffProps.stuffAdjective>
+  <INSSlab_Polymer.label>단열재 (중합체)</INSSlab_Polymer.label>
+  <INSSlab_Polymer.description>작업 가능한 자재로 형성한 단열재. 재활용하면 사용한 화학 연료의 50%를 회수할 수 있습니다.</INSSlab_Polymer.description>
+  <INSWall_Biomass.label>단열벽 (바이오 매스)</INSWall_Biomass.label>
+  <INSWall_Biomass.description>지붕을 지탱할 수 있는 지나칠 수 없는 벽. 이 벽은 바이오 매스로 단열되어 있습니다.</INSWall_Biomass.description>
+  <INSWall_Fibre.label>단열벽 (섬유)</INSWall_Fibre.label>
+  <INSWall_Fibre.description>지붕을 지탱할 수 있는 지나칠 수 없는 벽. 이 벽은 섬유로 단열되어 있습니다.</INSWall_Fibre.description>
+  <INSWall_Polymer.label>단열벽 (중합체)</INSWall_Polymer.label>
+  <INSWall_Polymer.description>지붕을 지탱할 수 있는 지나칠 수 없는 벽. 이 벽은 합성 폴리머로 단열되어 있습니다.</INSWall_Polymer.description>
+  <INSDoorSimple_Hyper.label>단열문 (하이퍼)</INSDoorSimple_Hyper.label>
+  <INSDoorSimple_Hyper.description>방을 나누는 단열 문. 수동으로 열고 닫으며 문 통과시 이동속도가 느려집니다. 둔화의 정도는 문의 재질에 따라 다릅니다.</INSDoorSimple_Hyper.description>
+  <INSDoor_Hyper.label>단열 자동문 (하이퍼)</INSDoor_Hyper.label>
+  <INSDoor_Hyper.description>방을 나누는 단열 문. 전기로 작동하며 문 통과시 이동속도 감소가 적거나 없습니다.</INSDoor_Hyper.description>
+  <INSSlab_Hyper.label>단열재 (하이퍼)</INSSlab_Hyper.label>
+  <INSSlab_Hyper.description>작업 가능한 자재로 형성한 고급 단열재. 이 고급 필터는 일부 멸균 특성도 제공합니다.</INSSlab_Hyper.description>
+  <INSWall_Hyper.label>단열벽 (하이퍼)</INSWall_Hyper.label>
+  <INSWall_Hyper.description>지붕을 지탱할 수 있는 지나칠 수 없는 벽. 이 벽은 고급 물질로 단열되어 있습니다.</INSWall_Hyper.description>
+
+</LanguageData>

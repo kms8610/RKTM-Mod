@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RB_BeeBody.label>벌 몸체</RB_BeeBody.label>
+  <RB_BeeBody.corePart.parts.3.parts.0.parts.1.customLabel>왼쪽 홑눈</RB_BeeBody.corePart.parts.3.parts.0.parts.1.customLabel>
+  <RB_BeeBody.corePart.parts.3.parts.0.parts.2.customLabel>왼쪽 겹눈</RB_BeeBody.corePart.parts.3.parts.0.parts.2.customLabel>
+  <RB_BeeBody.corePart.parts.5.customLabel>왼쪽 앞다리</RB_BeeBody.corePart.parts.5.customLabel>
+  <RB_BeeBody.corePart.parts.6.customLabel>오른쪽 앞다리</RB_BeeBody.corePart.parts.6.customLabel>
+  <RB_BeeBody.corePart.parts.7.customLabel>왼쪽 가운뎃다리</RB_BeeBody.corePart.parts.7.customLabel>
+  <RB_BeeBody.corePart.parts.8.customLabel>오른쪽 가운뎃다리</RB_BeeBody.corePart.parts.8.customLabel>
+  <RB_BeeBody.corePart.parts.9.customLabel>왼쪽 뒷다리</RB_BeeBody.corePart.parts.9.customLabel>
+  <RB_BeeBody.corePart.parts.10.customLabel>오른쪽 뒷다리</RB_BeeBody.corePart.parts.10.customLabel>
+  <RB_BeeBody.corePart.parts.11.customLabel>오른쪽 앞날개</RB_BeeBody.corePart.parts.11.customLabel>
+  <RB_BeeBody.corePart.parts.12.customLabel>오른쪽 뒷날개</RB_BeeBody.corePart.parts.12.customLabel>
+  <RB_BeeBody.corePart.parts.13.customLabel>왼쪽 앞날개</RB_BeeBody.corePart.parts.13.customLabel>
+  <RB_BeeBody.corePart.parts.14.customLabel>왼쪽 뒷날개</RB_BeeBody.corePart.parts.14.customLabel>
+
+  <RB_HornedBeeBody.label>뿔 달린 벌 몸체</RB_HornedBeeBody.label>
+  <RB_HornedBeeBody.corePart.parts.3.parts.0.parts.1.customLabel>왼쪽 홑눈</RB_HornedBeeBody.corePart.parts.3.parts.0.parts.1.customLabel>
+  <RB_HornedBeeBody.corePart.parts.3.parts.0.parts.2.customLabel>왼쪽 겹눈</RB_HornedBeeBody.corePart.parts.3.parts.0.parts.2.customLabel>
+  <RB_HornedBeeBody.corePart.parts.5.customLabel>왼쪽 앞다리</RB_HornedBeeBody.corePart.parts.5.customLabel>
+  <RB_HornedBeeBody.corePart.parts.6.customLabel>오른쪽 앞다리</RB_HornedBeeBody.corePart.parts.6.customLabel>
+  <RB_HornedBeeBody.corePart.parts.7.customLabel>왼쪽 가운뎃다리</RB_HornedBeeBody.corePart.parts.7.customLabel>
+  <RB_HornedBeeBody.corePart.parts.8.customLabel>오른쪽 가운뎃다리</RB_HornedBeeBody.corePart.parts.8.customLabel>
+  <RB_HornedBeeBody.corePart.parts.9.customLabel>왼쪽 뒷다리</RB_HornedBeeBody.corePart.parts.9.customLabel>
+  <RB_HornedBeeBody.corePart.parts.10.customLabel>오른쪽 뒷다리</RB_HornedBeeBody.corePart.parts.10.customLabel>
+  <RB_HornedBeeBody.corePart.parts.11.customLabel>오른쪽 앞날개</RB_HornedBeeBody.corePart.parts.11.customLabel>
+  <RB_HornedBeeBody.corePart.parts.12.customLabel>오른쪽 뒷날개</RB_HornedBeeBody.corePart.parts.12.customLabel>
+  <RB_HornedBeeBody.corePart.parts.13.customLabel>왼쪽 앞날개</RB_HornedBeeBody.corePart.parts.13.customLabel>
+  <RB_HornedBeeBody.corePart.parts.14.customLabel>왼쪽 뒷날개</RB_HornedBeeBody.corePart.parts.14.customLabel>
+
+</LanguageData>

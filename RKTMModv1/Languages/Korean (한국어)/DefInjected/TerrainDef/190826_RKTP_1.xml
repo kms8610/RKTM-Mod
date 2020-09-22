@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1140051385_181113_Smokeleaf_Industry-->
+  <HempcretePath.description>부드러운 떨크리트 덩어리로 만든 불규칙해 보이는 길입니다.</HempcretePath.description>
+  <HempStalkFloor.description>연초잎 줄기로 만든 판자로 된 아름다운 바닥입니다. 불을 조심하세요.</HempStalkFloor.description>
+  <CarpetDevilsleaf.description>악마잎 섬유로 엮든 카펫입니다. 내화성이 약간 있습니다.</CarpetDevilsleaf.description>
+  <CarpetDevilsleaf.label>악마잎 카펫</CarpetDevilsleaf.label>
+  <CarpetHemp.description>마펄프로 엮은 튼튼한 카펫입니다. 내화성이 약간 있습니다.</CarpetHemp.description>
+  <CarpetHemp.label>대마 카펫</CarpetHemp.label>
+  <HempStalkFloor.label>대마 줄기 바닥</HempStalkFloor.label>
+  <Hempcrete.label>떨크리트</Hempcrete.label>
+  <BrickHempcrete.label>떨크리트 벽돌</BrickHempcrete.label>
+  <FlagstoneHempcrete.label>떨크리트 판석</FlagstoneHempcrete.label>
+  <HempcretePath.label>떨크리트 길</HempcretePath.label>
+  <HempcretePlate.label>떨크리트 판석</HempcretePlate.label>
+  <HempcreteTile.label>떨크리트 타일</HempcreteTile.label>
+  <HempcreteTile.description>큰 떨크리트 타일입니다. 예쁘지만, 노동력과 자재가 많이 들어갑니다.</HempcreteTile.description>
+  <HempcretePlate.description>큰 떨크리트 타일입니다. 예쁘지만, 노동력과 자재가 많이 들어갑니다.</HempcretePlate.description>
+  <BrickHempcrete.description>성에 온 듯한 느낌을 주는 다듬어지고, 사려깊게 깎은 돌 타일입니다. 보기 예쁘지만, 시공에 긴 시간이 걸립니다.</BrickHempcrete.description>
+  <FlagstoneHempcrete.description>거칠게 깎은 돌 타일입니다. 아주 예쁘지는 않지만, 도로나 실외 보행로의 좋은 표면이 됩니다. 판석은 해체해도 자재를 회수할 수 없습니다.</FlagstoneHempcrete.description>
+  <Hempcrete.description>부드러운 떨크리트 바닥입니다. 걷기 빠르고, 청소하기 쉽습니다.</Hempcrete.description>
+
+  <!--1211694919_181106_Nature's Pretty Sweet-->
+  <TKKN_FloorAmber.label>호박 바닥</TKKN_FloorAmber.label>
+  <TKKN_FlagstoneBasalt.label>현무암 판석</TKKN_FlagstoneBasalt.label>
+  <TKKN_TileBasalt.label>현무암 타일</TKKN_TileBasalt.label>
+  <TKKN_TileBasalt.description>세련되고, 정성스럽게 자른 돌 타일로 중세 성처럼 보이게 합니다. 미관은 나쁘지 않지만, 만드는데 오래 걸립니다.</TKKN_TileBasalt.description>
+  <TKKN_FloorPertrifiedWood.description>세련되고, 정성스럽게 자른 돌 타일로 중세 성처럼 보이게 합니다. 미관은 나쁘지 않지만, 만드는데 오래 걸립니다.</TKKN_FloorPertrifiedWood.description>
+  <TKKN_ColdSpringsWater.label>냉천</TKKN_ColdSpringsWater.label>
+  <TKKN_DirtPath.label>먼지 평야</TKKN_DirtPath.label>
+  <TKKN_Salted_Earth.description>소금이 섞인 흙. 오랫동안 여기에 식물이 자라지 못할 것입니다.</TKKN_Salted_Earth.description>
+  <TKKN_HotSpringsWater.label>온천</TKKN_HotSpringsWater.label>
+  <TKKN_Ice.label>얼음</TKKN_Ice.label>
+  <TKKN_MuddyIce.label>얼음</TKKN_MuddyIce.label>
+  <TKKN_Lava.label>용암</TKKN_Lava.label>
+  <TKKN_LavaDeep.label>용암</TKKN_LavaDeep.label>
+  <TKKN_FloorPertrifiedWood.label>화석화된 나무 바닥</TKKN_FloorPertrifiedWood.label>
+  <TKKN_FloorRedWood.label>삼나무 바닥</TKKN_FloorRedWood.label>
+  <TKKN_RiverDeposit.label>강 퇴적물</TKKN_RiverDeposit.label>
+  <TKKN_LavaRock_Rough.label>현무암 암석</TKKN_LavaRock_Rough.label>
+  <TKKN_LavaRock_RoughHewn.label>거칠게 자른 현무암</TKKN_LavaRock_RoughHewn.label>
+  <TKKN_LavaRock_Rough.description>거친 천연의 현무암 덩어리입니다.</TKKN_LavaRock_Rough.description>
+  <TKKN_LavaRock_RoughHewn.description>거칠게 깎아낸 현무암 바닥.</TKKN_LavaRock_RoughHewn.description>
+  <TKKN_FlagstoneBasalt.description>거칠게 절단된 돌 타일입니다. 미관이 많이 좋은 편은 아니지만 도로나 야외 산책로로 사용하기 좋습니다. 판석을 해체하면 아무것도 얻을 수 없습니다.</TKKN_FlagstoneBasalt.description>
+  <TKKN_SaltField.label>소금 평야</TKKN_SaltField.label>
+  <TKKN_Salted_Earth.label>염해지</TKKN_Salted_Earth.label>
+  <TKKN_SandPath.label>모래 평야</TKKN_SandPath.label>
+  <TKKN_LavaRock_Smooth.label>매끄러운 현무암</TKKN_LavaRock_Smooth.label>
+  <TKKN_LavaRock_Smooth.description>매끄러운 현무암 바닥.</TKKN_LavaRock_Smooth.description>
+  <TKKN_WetMossyTerrain.label>젖은 습지 흙</TKKN_WetMossyTerrain.label>
+  <TKKN_SoilWetRich.label>젖은 기름진 토양</TKKN_SoilWetRich.label>
+  <TKKN_SandWet.label>젖은 모래</TKKN_SandWet.label>
+  <TKKN_SandBeachWetSalt.label>젖은 모래</TKKN_SandBeachWetSalt.label>
+  <TKKN_SoilWet.label>젖은 토양</TKKN_SoilWet.label>
+
+  <!--1338280929_190526_Advanced Biomes-->
+  <VolcanoSoil.label>화산재 토양</VolcanoSoil.label>
+  <WastelandAsphalt.label>부서진 아스팔트</WastelandAsphalt.label>
+  <PoisonMossyTerrain.label>흙을 덮은 이끼</PoisonMossyTerrain.label>
+  <PoisonMarsh.label>습지</PoisonMarsh.label>
+  <PoisonMarshyTerrain.label>슾지 토양</PoisonMarshyTerrain.label>
+  <PoisonMud.label>진흙</PoisonMud.label>
+  <VolcanoObsidian.label>흑요석</VolcanoObsidian.label>
+  <PoisonSoil.label>유독성 토양</PoisonSoil.label>
+  <PoisonSoilRich.label>비옥한 토양</PoisonSoilRich.label>
+  <SavannaSoilRich.label>비옥한 토양</SavannaSoilRich.label>
+  <VolcanoSoilRich.label>비옥한 화산토</VolcanoSoilRich.label>
+  <SavannaSoil.label>토양</SavannaSoil.label>
+
+  <!--1420979918_190627_Buildable Terrain-->
+  <Ice.description>얼음의 미끄럽고 단단한 부분.</Ice.description>
+  <Soil.description>재배에 적합한 기본 토양.</Soil.description>
+  <Gravel.description>식물이 자라기 힘든 척박한 땅.</Gravel.description>
+  <MossyTerrain.description>이끼로 덮인 흙.</MossyTerrain.description>
+  <SoftSand.description>이끼로 덮인 흙.</SoftSand.description>
+  <Marsh.description>아군과 적이 모두 느려지기 좋은 매우 지저분한 지형.</Marsh.description>
+  <MarshyTerrain.description>습지 토양은 지면이 끔찍하게 지저분해서 아군이나 적을 느리게 합니다..</MarshyTerrain.description>
+  <Mud.description>습하고 끈적거리는 진흙.</Mud.description>
+  <SoilRich.description>재배하기에 완벽한 풍부한 토양.</SoilRich.description>
+  <Sand.description>모든 곳에 퍼져 짜증나는 모래...</Sand.description>
+  <Smooth_Granite.label>매끄러운 화강암</Smooth_Granite.label>
+  <Smooth_Limestone.label>매끄러운 석회암</Smooth_Limestone.label>
+  <Smooth_Marble.label>매끄러운 대리석</Smooth_Marble.label>
+  <Smooth_Sandstone.label>매끄러운 사암</Smooth_Sandstone.label>
+  <Smooth_Slate.label>매끄러운 점판암</Smooth_Slate.label>
+  <Smooth_Granite.description>매끄럽게 다듬어진 화강암 바닥</Smooth_Granite.description>
+  <Smooth_Limestone.description>매끄럽게 다듬어진 석회암 바닥</Smooth_Limestone.description>
+  <Smooth_Marble.description>매끄럽게 다듬어진 대리석 바닥</Smooth_Marble.description>
+  <Smooth_Sandstone.description>매끄럽게 다듬어진 사암 바닥</Smooth_Sandstone.description>
+  <Smooth_Slate.description>매끄럽게 다듬어진 점판암 바닥</Smooth_Slate.description>
+
+  <!--1539311500_181027_Fertile Fields-->
+  <BrickFloor.label>벽돌 바닥</BrickFloor.label>
+  <HBBrickFloor.description>벽돌을 교차 패턴으로 쌓는 작업은 꽤 번거롭지만 그만큼 멋진 결과물을 만들어냅니다.</HBBrickFloor.description>
+  <BrickFloor.description>벽돌이 사용된 바닥재입니다.</BrickFloor.description>
+  <DirtFert.label>기름진 준설토</DirtFert.label>
+  <HBBrickFloor.label>교차 벽돌 바닥</HBBrickFloor.label>
+  <SoilTilled.label>개간된 토양</SoilTilled.label>
+  <RockySoil.label>거친 자갈</RockySoil.label>
+  <Topsoil.label>준설토</Topsoil.label>
+
+  <!--1543177113_190628_Quarry-->
+  <QRY_QuarriedGround.label>채석장</QRY_QuarriedGround.label>
+  <QRY_QuarriedGroundWall.label>채석장</QRY_QuarriedGroundWall.label>
+  <QRY_ReclaimedSoil.label>토양 개간</QRY_ReclaimedSoil.label>
+
+  <!--1543189511_190814_Cupro's Stones-->
+  <FlagstoneAndesite.label>안산암 판석</FlagstoneAndesite.label>
+  <TileAndesite.label>안산암 타일</TileAndesite.label>
+  <FlagstoneClaystone.label>점토암 판석</FlagstoneClaystone.label>
+  <TileClaystone.label>점토암 타일</TileClaystone.label>
+  <FlagstoneDiorite.label>섬록암 판석</FlagstoneDiorite.label>
+  <TileDiorite.label>섬록암 타일</TileDiorite.label>
+  <FlagstoneDunite.label>감람석 판석</FlagstoneDunite.label>
+  <TileDunite.label>감람석 타일</TileDunite.label>
+  <FlagstoneGabbro.label>반려암 판석</FlagstoneGabbro.label>
+  <TileGabbro.label>반려암 타일</TileGabbro.label>
+  <FlagstoneGneiss.label>편마암 판석</FlagstoneGneiss.label>
+  <TileGneiss.label>편마암 타일</TileGneiss.label>
+  <FlagstonePegmatite.label>페그마타이트 판석</FlagstonePegmatite.label>
+  <TilePegmatite.label>페그마타이트 타일</TilePegmatite.label>
+  <FlagstoneQuartzite.label>규암 판석</FlagstoneQuartzite.label>
+  <TileQuartzite.label>규암 타일</TileQuartzite.label>
+  <TileClaystone.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만 시간이 오래 걸립니다.</TileClaystone.description>
+  <TileAndesite.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만 시간이 오래 걸립니다.</TileAndesite.description>
+  <TileSyenite.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만 시간이 오래 걸립니다.</TileSyenite.description>
+  <TileGneiss.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만 시간이 오래 걸립니다.</TileGneiss.description>
+  <TileQuartzite.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만 시간이 오래 걸립니다.</TileQuartzite.description>
+  <TileSchist.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만 시간이 오래 걸립니다.</TileSchist.description>
+  <TileGabbro.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만 시간이 오래 걸립니다.</TileGabbro.description>
+  <TileDiorite.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만 시간이 오래 걸립니다.</TileDiorite.description>
+  <TileDunite.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만 시간이 오래 걸립니다.</TileDunite.description>
+  <TilePegmatite.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만 시간이 오래 걸립니다.</TilePegmatite.description>
+  <Andesite_Rough.label>거친 안산암</Andesite_Rough.label>
+  <Claystone_Rough.label>거친 점토암</Claystone_Rough.label>
+  <Diorite_Rough.label>거친 섬록암</Diorite_Rough.label>
+  <Dunite_Rough.label>거친 감람석</Dunite_Rough.label>
+  <Gabbro_Rough.label>거친 반려암</Gabbro_Rough.label>
+  <Gneiss_Rough.label>거친 편마암</Gneiss_Rough.label>
+  <Pegmatite_Rough.label>거친 페그마타이트</Pegmatite_Rough.label>
+  <Quartzite_Rough.label>거친 규암</Quartzite_Rough.label>
+  <Schist_Rough.label>거친 결정편암</Schist_Rough.label>
+  <Syenite_Rough.label>거친 섬장암</Syenite_Rough.label>
+  <Andesite_RoughHewn.label>깎여나간 안산암</Andesite_RoughHewn.label>
+  <Claystone_RoughHewn.label>깎여나간 점토암</Claystone_RoughHewn.label>
+  <Diorite_RoughHewn.label>깎여나간 섬록암</Diorite_RoughHewn.label>
+  <Dunite_RoughHewn.label>깎여나간 감람석</Dunite_RoughHewn.label>
+  <Gabbro_RoughHewn.label>깎여나간 반려암</Gabbro_RoughHewn.label>
+  <Gneiss_RoughHewn.label>깎여나간 편마암</Gneiss_RoughHewn.label>
+  <Pegmatite_RoughHewn.label>깎여나간 페그마타이트</Pegmatite_RoughHewn.label>
+  <Quartzite_RoughHewn.label>깎여나간 규암</Quartzite_RoughHewn.label>
+  <Schist_RoughHewn.label>깎여나간 결정편암</Schist_RoughHewn.label>
+  <Syenite_RoughHewn.label>깎여나간 섬장암</Syenite_RoughHewn.label>
+  <Andesite_Rough.description>거친 안산암 바닥.</Andesite_Rough.description>
+  <Claystone_Rough.description>거친 점토암 바닥.</Claystone_Rough.description>
+  <Diorite_Rough.description>거친 섬록암 바닥.</Diorite_Rough.description>
+  <Dunite_Rough.description>거친 감람석 바닥.</Dunite_Rough.description>
+  <Gabbro_Rough.description>거친 반려암 바닥.</Gabbro_Rough.description>
+  <Gneiss_Rough.description>거친 편마암 바닥.</Gneiss_Rough.description>
+  <Pegmatite_Rough.description>거친 페그마타이트 바닥.</Pegmatite_Rough.description>
+  <Quartzite_Rough.description>거친 규암 바닥.</Quartzite_Rough.description>
+  <Schist_Rough.description>거친 결정편암 바닥.</Schist_Rough.description>
+  <Syenite_Rough.description>거친 섬장암 바닥.</Syenite_Rough.description>
+  <Andesite_RoughHewn.description>투박하게 깎여나간 안산암 바닥.</Andesite_RoughHewn.description>
+  <Claystone_RoughHewn.description>투박하게 깎여나간 점토암 바닥.</Claystone_RoughHewn.description>
+  <Diorite_RoughHewn.description>투박하게 깎여나간 섬록암 바닥.</Diorite_RoughHewn.description>
+  <Dunite_RoughHewn.description>투박하게 깎여나간 감람석 바닥.</Dunite_RoughHewn.description>
+  <Gabbro_RoughHewn.description>투박하게 깎여나간 반려암 바닥.</Gabbro_RoughHewn.description>
+  <Gneiss_RoughHewn.description>투박하게 깎여나간 편마암 바닥.</Gneiss_RoughHewn.description>
+  <Pegmatite_RoughHewn.description>투박하게 깎여나간 페그마타이트 바닥.</Pegmatite_RoughHewn.description>
+  <Quartzite_RoughHewn.description>투박하게 깎여나간 규암 바닥.</Quartzite_RoughHewn.description>
+  <Schist_RoughHewn.description>투박하게 깎여나간 결정편암 바닥.</Schist_RoughHewn.description>
+  <Syenite_RoughHewn.description>투박하게 깎여나간 섬장암 바닥.</Syenite_RoughHewn.description>
+  <FlagstoneClaystone.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</FlagstoneClaystone.description>
+  <FlagstoneAndesite.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</FlagstoneAndesite.description>
+  <FlagstoneSyenite.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</FlagstoneSyenite.description>
+  <FlagstoneGneiss.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</FlagstoneGneiss.description>
+  <FlagstoneQuartzite.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</FlagstoneQuartzite.description>
+  <FlagstoneSchist.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</FlagstoneSchist.description>
+  <FlagstoneGabbro.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</FlagstoneGabbro.description>
+  <FlagstoneDiorite.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</FlagstoneDiorite.description>
+  <FlagstoneDunite.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</FlagstoneDunite.description>
+  <FlagstonePegmatite.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</FlagstonePegmatite.description>
+  <FlagstoneSchist.label>결정편암 판석</FlagstoneSchist.label>
+  <TileSchist.label>결정편암 타일</TileSchist.label>
+  <Andesite_Smooth.label>연마된 안산암</Andesite_Smooth.label>
+  <Claystone_Smooth.label>연마된 점토암</Claystone_Smooth.label>
+  <Diorite_Smooth.label>연마된 섬록암</Diorite_Smooth.label>
+  <Dunite_Smooth.label>연마된 감람석</Dunite_Smooth.label>
+  <Gabbro_Smooth.label>연마된 반려암</Gabbro_Smooth.label>
+  <Gneiss_Smooth.label>연마된 편마암</Gneiss_Smooth.label>
+  <Pegmatite_Smooth.label>연마된 페그마타이트</Pegmatite_Smooth.label>
+  <Quartzite_Smooth.label>연마된 규암</Quartzite_Smooth.label>
+  <Schist_Smooth.label>연마된 결정편암</Schist_Smooth.label>
+  <Syenite_Smooth.label>연마된 섬장암</Syenite_Smooth.label>
+  <Andesite_Smooth.description>부드럽게 연마된 안산암 바닥.</Andesite_Smooth.description>
+  <Claystone_Smooth.description>부드럽게 연마된 점토암 바닥.</Claystone_Smooth.description>
+  <Diorite_Smooth.description>부드럽게 연마된 섬록암 바닥.</Diorite_Smooth.description>
+  <Dunite_Smooth.description>부드럽게 연마된 감람석 바닥.</Dunite_Smooth.description>
+  <Gabbro_Smooth.description>부드럽게 연마된 반려암 바닥.</Gabbro_Smooth.description>
+  <Gneiss_Smooth.description>부드럽게 연마된 편마암 바닥.</Gneiss_Smooth.description>
+  <Pegmatite_Smooth.description>부드럽게 연마된 페그마타이트 바닥.</Pegmatite_Smooth.description>
+  <Quartzite_Smooth.description>부드럽게 연마된 규암 바닥.</Quartzite_Smooth.description>
+  <Schist_Smooth.description>부드럽게 연마된 결정편암 바닥.</Schist_Smooth.description>
+  <Syenite_Smooth.description>부드럽게 연마된 섬장암 바닥.</Syenite_Smooth.description>
+  <FlagstoneSyenite.label>섬장암 판석</FlagstoneSyenite.label>
+  <TileSyenite.label>섬장암 타일</TileSyenite.label>
+
+  <!--1543561093_190621_MoreFloors-->
+  <CarpetOrange.label>주황색 양탄자</CarpetOrange.label>
+  <CarpetOrange.description>선명한 주황색의 부드러운 양탄자입니다.</CarpetOrange.description>
+  <CarpetYellow.label>노란색 양탄자</CarpetYellow.label>
+  <CarpetYellow.description>여름을 연상케 하는 노란색 양탄자입니다.</CarpetYellow.description>
+  <CarpetTurquoise.label>청록색 양탄자</CarpetTurquoise.label>
+  <CarpetTurquoise.description>마음이 편해지는 청록색 양탄자입니다.</CarpetTurquoise.description>
+  <CarpetPurple.label>보라색 양탄자</CarpetPurple.label>
+  <CarpetPurple.description>우아한 보라색 양탄자입니다.</CarpetPurple.description>
+  <CarpetWhite.label>흰색 양탄자</CarpetWhite.label>
+  <CarpetWhite.description>염색하지 않은 양탄자입니다. 발이 편안하지만 쉽게 더러워집니다.</CarpetWhite.description>
+  <CarpetBlack.label>검정 양탄자</CarpetBlack.label>
+  <CarpetBlack.description>어두운 검은색 양탄자입니다.</CarpetBlack.description>
+  <CheckCarpetRed.label>붉은 체크 양탄자</CheckCarpetRed.label>
+  <CheckCarpetRed.description>사랑스러운 장밋빛의 양탄자입니다.</CheckCarpetRed.description>
+  <CheckCarpetOrange.label>주황색 체크 양탄자</CheckCarpetOrange.label>
+  <CheckCarpetOrange.description>선명한 주황색의 부드러운 양탄자입니다.</CheckCarpetOrange.description>
+  <CheckCarpetYellow.label>노란색 체크 양탄자</CheckCarpetYellow.label>
+  <CheckCarpetYellow.description>여름을 연상케 하는 노란색 양탄자입니다.</CheckCarpetYellow.description>
+  <CheckCarpetCream.label>크림 체크 양탄자</CheckCarpetCream.label>
+  <CheckCarpetCream.description>유혹적인 크림색의 양탄자입니다.</CheckCarpetCream.description>
+  <CheckCarpetGreen.label>초록색 체크 양탄자</CheckCarpetGreen.label>
+  <CheckCarpetGreen.description>초록빛의 자연스러움이 느껴지는 양탄자입니다.</CheckCarpetGreen.description>
+  <CheckCarpetTurquoise.label>청록색 체크 양탄자</CheckCarpetTurquoise.label>
+  <CheckCarpetTurquoise.description>마음이 편해지는 청록색 양탄자입니다.</CheckCarpetTurquoise.description>
+  <CheckCarpetBlue.label>파란 체크 양탄자</CheckCarpetBlue.label>
+  <CheckCarpetBlue.description>시원한 파란색이 발가락을 감싸는 양탄자입니다.</CheckCarpetBlue.description>
+  <CheckCarpetPurple.label>보라색 체크 양탄자</CheckCarpetPurple.label>
+  <CheckCarpetPurple.description>우아한 보라색 양탄자입니다.</CheckCarpetPurple.description>
+  <CheckCarpetWhite.label>흰색 체크 양탄자</CheckCarpetWhite.label>
+  <CheckCarpetWhite.description>염색하지 않은 양탄자입니다. 발이 편안하지만 쉽게 더러워집니다.</CheckCarpetWhite.description>
+  <CheckCarpetDark.label>암회색 체크 양탄자</CheckCarpetDark.label>
+  <CheckCarpetDark.description>전문적인 느낌의 암회색 양탄자입니다.</CheckCarpetDark.description>
+  <CheckCarpetBlack.label>검정 체크 양탄자</CheckCarpetBlack.label>
+  <CheckCarpetBlack.description>어두운 검은색 양탄자입니다.</CheckCarpetBlack.description>
+  <WoolCarpetRed.label>붉은 울 양탄자</WoolCarpetRed.label>
+  <WoolCarpetRed.description>사랑스러운 장밋빛의 울 양탄자입니다.</WoolCarpetRed.description>
+  <WoolCarpetOrange.label>주황색 울 양탄자</WoolCarpetOrange.label>
+  <WoolCarpetOrange.description>선명한 주황색의 부드러운 울 양탄자입니다.</WoolCarpetOrange.description>
+  <WoolCarpetYellow.label>노란색 울 양탄자</WoolCarpetYellow.label>
+  <WoolCarpetYellow.description>여름을 연상케 하는 노란색 울 양탄자입니다.</WoolCarpetYellow.description>
+  <WoolCarpetCream.label>크림색 울 양탄자</WoolCarpetCream.label>
+  <WoolCarpetCream.description>유혹적인 크림색의 울 양탄자입니다.</WoolCarpetCream.description>
+  <WoolCarpetGreen.label>초록색 울 양탄자</WoolCarpetGreen.label>
+  <WoolCarpetGreen.description>초록빛의 자연스러움이 느껴지는 울 양탄자입니다.</WoolCarpetGreen.description>
+  <WoolCarpetTurquoise.label>청록색 울 양탄자</WoolCarpetTurquoise.label>
+  <WoolCarpetTurquoise.description>마음이 편해지는 청록색 울 양탄자입니다.</WoolCarpetTurquoise.description>
+  <WoolCarpetBlue.label>파란색 울 양탄자</WoolCarpetBlue.label>
+  <WoolCarpetBlue.description>시원한 파란색이 발가락을 감싸는 울 양탄자입니다.</WoolCarpetBlue.description>
+  <WoolCarpetPurple.label>보라색 울 양탄자</WoolCarpetPurple.label>
+  <WoolCarpetPurple.description>우아한 보라색 울 양탄자입니다.</WoolCarpetPurple.description>
+  <WoolCarpetWhite.label>흰색 울 양탄자</WoolCarpetWhite.label>
+  <WoolCarpetWhite.description>하얀색 울 양탄자. 눈같아요, 근데 따뜻해!</WoolCarpetWhite.description>
+  <WoolCarpetDark.label>암회색 울 양탄자</WoolCarpetDark.label>
+  <WoolCarpetDark.description>옅은 검은색의 울 양탄자,아닌가 어두운 흰색인가?</WoolCarpetDark.description>
+  <WoolCarpetBlack.label>검은색 울 양탄자</WoolCarpetBlack.label>
+  <WoolCarpetBlack.description>어두운 검은색 울 양탄자입니다.</WoolCarpetBlack.description>
+  <FloorPlasteel.label>플라스틸 바닥</FloorPlasteel.label>
+  <FloorPlasteel.description>이 최첨단 바닥은 더러워지지 않으므로 살균 환경에서 사용하기에 적합하고, 슬림한 우주 시대의 모습을 보는 것은 즐겁습니다. 비용이 많이 들고 짓는데 상당한 시간이 걸립니다.</FloorPlasteel.description>
+  <FloorStraw.label>짚 바닥</FloorStraw.label>
+  <FloorStraw.description>건초로 만든 간단한 바닥입니다. 불이 잘 붙습니다.</FloorStraw.description>
+  <BurnedStrawFloor.label>타버린 짚 바닥</BurnedStrawFloor.label>
+  <BurnedStrawFloor.description>다 타버린 짚으로 만든 바닥.</BurnedStrawFloor.description>
+  <FloorJade.label>비취 바닥</FloorJade.label>
+  <FloorJade.description>광택이나는 비취 판으로 만든 굉장히 아름다운 바닥입니다. 타일의 이음새를 거의 찾을 수 없습니다. 환상적으로 아름답지만 건설하는데 많은 시간이 걸립니다.</FloorJade.description>
+  <FloorStoneSlabsSandstone.label>바위판 (사암)</FloorStoneSlabsSandstone.label>
+  <FloorStoneSlabsSandstone.description>평범한 바위판으로 만든 바닥입니다. 만들기 쉽고 기능적입니다.</FloorStoneSlabsSandstone.description>
+  <FloorStoneSlabsGranite.label>바위판 (화강암)</FloorStoneSlabsGranite.label>
+  <FloorStoneSlabsGranite.description>평범한 바위판으로 만든 바닥입니다. 만들기 쉽고 기능적입니다.</FloorStoneSlabsGranite.description>
+  <FloorStoneSlabsLimestone.label>바위판 (석회암)</FloorStoneSlabsLimestone.label>
+  <FloorStoneSlabsLimestone.description>평범한 바위판으로 만든 바닥입니다. 만들기 쉽고 기능적입니다.</FloorStoneSlabsLimestone.description>
+  <FloorStoneSlabsSlate.label>바위판 (점판암)</FloorStoneSlabsSlate.label>
+  <FloorStoneSlabsSlate.description>평범한 바위판으로 만든 바닥입니다. 만들기 쉽고 기능적입니다.</FloorStoneSlabsSlate.description>
+  <FloorStoneSlabsMarble.label>바위판 (대리석)</FloorStoneSlabsMarble.label>
+  <FloorStoneSlabsMarble.description>평범한 바위판으로 만든 바닥입니다. 만들기 쉽고 기능적입니다.</FloorStoneSlabsMarble.description>
+  <FloorStoneRoughSandstone.label>거친 돌바닥 (사암)</FloorStoneRoughSandstone.label>
+  <FloorStoneRoughSandstone.description>적은 양의 돌로 만들 수 있는 거친 바닥입니다. 보기에 그저 그렇고 만드는 시간이 좀 걸립니다.</FloorStoneRoughSandstone.description>
+  <FloorStoneRoughGranite.label>거친 돌바닥 (화강암)</FloorStoneRoughGranite.label>
+  <FloorStoneRoughGranite.description>적은 양의 돌로 만들 수 있는 거친 바닥입니다. 보기에 그저 그렇고 만드는 시간이 좀 걸립니다.</FloorStoneRoughGranite.description>
+  <FloorStoneRoughLimestone.label>거친 돌바닥 (석회암)</FloorStoneRoughLimestone.label>
+  <FloorStoneRoughLimestone.description>적은 양의 돌로 만들 수 있는 거친 바닥입니다. 보기에 그저 그렇고 만드는 시간이 좀 걸립니다.</FloorStoneRoughLimestone.description>
+  <FloorStoneRoughSlate.label>거친 돌바닥 (점판암)</FloorStoneRoughSlate.label>
+  <FloorStoneRoughSlate.description>적은 양의 돌로 만들 수 있는 거친 바닥입니다. 보기에 그저 그렇고 만드는 시간이 좀 걸립니다.</FloorStoneRoughSlate.description>
+  <FloorStoneRoughMarble.label>거친 돌바닥 (대리석)</FloorStoneRoughMarble.label>
+  <FloorStoneRoughMarble.description>적은 양의 돌로 만들 수 있는 거친 바닥입니다. 보기에 그저 그렇고 만드는 시간이 좀 걸립니다.</FloorStoneRoughMarble.description>
+  <FloorStoneHexSandstone.label>육각 타일 (사암)</FloorStoneHexSandstone.label>
+  <FloorStoneHexSandstone.description>시선을 사로잡는 육각형 타일로 만든 바위 바닥입니다.</FloorStoneHexSandstone.description>
+  <FloorStoneHexGranite.label>육각 타일 (화강암)</FloorStoneHexGranite.label>
+  <FloorStoneHexGranite.description>시선을 사로잡는 육각형 타일로 만든 바위 바닥입니다.</FloorStoneHexGranite.description>
+  <FloorStoneHexLimestone.label>육각 타일 (석회암)</FloorStoneHexLimestone.label>
+  <FloorStoneHexLimestone.description>시선을 사로잡는 육각형 타일로 만든 바위 바닥입니다.</FloorStoneHexLimestone.description>
+  <FloorStoneHexSlate.label>육각 타일 (점판암)</FloorStoneHexSlate.label>
+  <FloorStoneHexSlate.description>시선을 사로잡는 육각형 타일로 만든 바위 바닥입니다.</FloorStoneHexSlate.description>
+  <FloorStoneHexMarble.label>육각 타일 (대리석)</FloorStoneHexMarble.label>
+  <FloorStoneHexMarble.description>시선을 사로잡는 육각형 타일로 만든 바위 바닥입니다.</FloorStoneHexMarble.description>
+  <FloorStoneMosaicSandstone.label>모자이크 타일 (사암)</FloorStoneMosaicSandstone.label>
+  <FloorStoneMosaicSandstone.description>매력적인 모자이크 패턴의 바닥입니다.</FloorStoneMosaicSandstone.description>
+  <FloorStoneMosaicGranite.label>모자이크 타일 (화강암)</FloorStoneMosaicGranite.label>
+  <FloorStoneMosaicGranite.description>매력적인 모자이크 패턴의 바닥입니다.</FloorStoneMosaicGranite.description>
+  <FloorStoneMosaicLimestone.label>모자이크 타일 (석회암)</FloorStoneMosaicLimestone.label>
+  <FloorStoneMosaicLimestone.description>매력적인 모자이크 패턴의 바닥입니다.</FloorStoneMosaicLimestone.description>
+  <FloorStoneMosaicSlate.label>모자이크 타일 (점판암)</FloorStoneMosaicSlate.label>
+  <FloorStoneMosaicSlate.description>매력적인 모자이크 패턴의 바닥입니다.</FloorStoneMosaicSlate.description>
+  <FloorStoneMosaicMarble.label>모자이크 타일 (대리석)</FloorStoneMosaicMarble.label>
+  <FloorStoneMosaicMarble.description>매력적인 모자이크 패턴의 바닥입니다.</FloorStoneMosaicMarble.description>
+  <FloorStoneRandomSandstone.label>불규칙 타일 (사암)</FloorStoneRandomSandstone.label>
+  <FloorStoneRandomSandstone.description>투박하고 불규칙적인 무늬의 바위판을 신중하게 놓아 만든 바닥입니다. 모자이크 바닥보다 적은 양의 재료가 필요하지만 힘이 더 듭니다.</FloorStoneRandomSandstone.description>
+  <FloorStoneRandomGranite.label>불규칙 타일 (화강암)</FloorStoneRandomGranite.label>
+  <FloorStoneRandomGranite.description>투박하고 불규칙적인 무늬의 바위판을 신중하게 놓아 만든 바닥입니다. 모자이크 바닥보다 적은 양의 재료가 필요하지만 힘이 더 듭니다.</FloorStoneRandomGranite.description>
+  <FloorStoneRandomLimestone.label>불규칙 타일 (석회암)</FloorStoneRandomLimestone.label>
+  <FloorStoneRandomLimestone.description>투박하고 불규칙적인 무늬의 바위판을 신중하게 놓아 만든 바닥입니다. 모자이크 바닥보다 적은 양의 재료가 필요하지만 힘이 더 듭니다.</FloorStoneRandomLimestone.description>
+  <FloorStoneRandomSlate.label>불규칙 타일 (점판암)</FloorStoneRandomSlate.label>
+  <FloorStoneRandomSlate.description>투박하고 불규칙적인 무늬의 바위판을 신중하게 놓아 만든 바닥입니다. 모자이크 바닥보다 적은 양의 재료가 필요하지만 힘이 더 듭니다.</FloorStoneRandomSlate.description>
+  <FloorStoneRandomMarble.label>불규칙 타일 (대리석)</FloorStoneRandomMarble.label>
+  <FloorStoneRandomMarble.description>투박하고 불규칙적인 무늬의 바위판을 신중하게 놓아 만든 바닥입니다. 모자이크 바닥보다 적은 양의 재료가 필요하지만 힘이 더 듭니다.</FloorStoneRandomMarble.description>
+  <FloorStoneChequerMarbleSlate.label>체크무늬 바위판 (대리석 / 점판암)</FloorStoneChequerMarbleSlate.label>
+  <FloorStoneChequerMarbleSlate.description>두 가지 종류의 바위판으로 만든 체크무늬 바위 판입니다.</FloorStoneChequerMarbleSlate.description>
+  <FloorStoneChequerMarbleSandstone.label>체크무늬 바위판 (대리석 / 사암)</FloorStoneChequerMarbleSandstone.label>
+  <FloorStoneChequerMarbleSandstone.description>두 가지 종류의 바위판으로 만든 체크무늬 바위 판입니다.</FloorStoneChequerMarbleSandstone.description>
+  <FloorStoneChequerMarbleGranite.label>체크무늬 바위판 (대리석 / 화강암)</FloorStoneChequerMarbleGranite.label>
+  <FloorStoneChequerMarbleGranite.description>두 가지 종류의 바위판으로 만든 체크무늬 바위 판입니다.</FloorStoneChequerMarbleGranite.description>
+  <FloorStoneChequerLimestoneSlate.label>체크무늬 바위판 (석회암 / 점판암)</FloorStoneChequerLimestoneSlate.label>
+  <FloorStoneChequerLimestoneSlate.description>두 가지 종류의 바위판으로 만든 체크무늬 바위 판입니다.</FloorStoneChequerLimestoneSlate.description>
+  <FloorStoneChequerLimestoneSandstone.label>체크무늬 바위판 (석회암 / 사암)</FloorStoneChequerLimestoneSandstone.label>
+  <FloorStoneChequerLimestoneSandstone.description>두 가지 종류의 바위판으로 만든 체크무늬 바위 판입니다.</FloorStoneChequerLimestoneSandstone.description>
+  <FloorStoneChequerLimestoneGranite.label>체크무늬 바위판 (석회암 / 화강암)</FloorStoneChequerLimestoneGranite.label>
+  <FloorStoneChequerLimestoneGranite.description>두 가지 종류의 바위판으로 만든 체크무늬 바위 판입니다.</FloorStoneChequerLimestoneGranite.description>
+  <FloorStoneChequerSlateSandstone.label>체크무늬 바위판 (점판암 / 사암)</FloorStoneChequerSlateSandstone.label>
+  <FloorStoneChequerSlateSandstone.description>두 가지 종류의 바위판으로 만든 체크무늬 바위 판입니다.</FloorStoneChequerSlateSandstone.description>
+  <FloorStoneChequerSlateGranite.label>체크무늬 바위판 (점판암 / 화강암)</FloorStoneChequerSlateGranite.label>
+  <FloorStoneChequerSlateGranite.description>두 가지 종류의 바위판으로 만든 체크무늬 바위 판입니다.</FloorStoneChequerSlateGranite.description>
+  <FloorWoodRustic.label>마룻바닥</FloorWoodRustic.label>
+  <FloorWoodRustic.description>잘 다듬고, 조각들이 제거된 거친 마룻바닥입니다. 보는 것은 좋지만 만드는 것은 다소 느립니다.</FloorWoodRustic.description>
+  <FloorWoodWide.label>넓은 마룻바닥</FloorWoodWide.label>
+  <FloorWoodWide.description>미니멀리즘적인 느낌을 살리기 위한 넓고 평평한 나무판 바닥입니다. 쉽게 만들 수 있습니다.</FloorWoodWide.description>
+  <FloorWoodLight.label>밝은 나무 바닥</FloorWoodLight.label>
+  <FloorWoodLight.description>밝은 색상의 광택이 나는 세련된 나무 바닥판입니다.</FloorWoodLight.description>
+  <FloorWoodMosaic.label>모자이크 나무 바닥</FloorWoodMosaic.label>
+  <FloorWoodMosaic.description>모자이크 무늬로 판자를 깔아 만든 나무 바닥은 아름답지만 많은 나무가 필요하고, 건설하는데 시간이 많이 걸립니다.</FloorWoodMosaic.description>
+  <FloorWoodVertical.label>세로 나무 바닥</FloorWoodVertical.label>
+  <FloorWoodVertical.description>암회색 나무 바닥입니다.</FloorWoodVertical.description>
+  <FloorWoodBarn.label>헛간 판자 바닥</FloorWoodBarn.label>
+  <FloorWoodBarn.description>거친 헛간 판자 바닥입니다. 빨리 만들 수 있습니다.</FloorWoodBarn.description>
+
+  <!--1544944259_190628_More Furniture-->
+  <CarpetBedOrange.description>침대와 어울리는 칙칙한 오렌지색 카펫입니다.</CarpetBedOrange.description>
+  <CarpetBedGreen.description>침대와 어울리는 색이 바랜 녹색 카펫입니다.</CarpetBedGreen.description>
+  <CarpetBedMaroon.description>침대와 어울리는 황토색 카펫입니다.</CarpetBedMaroon.description>
+  <CarpetBedBlue.description>침대와 어울리는 편안하고 푸른색 카펫입니다.</CarpetBedBlue.description>
+  <CarpetBedBlue.label>파란색 침대 카펫</CarpetBedBlue.label>
+  <CarpetBedGreen.label>초록색 침대 카펫</CarpetBedGreen.label>
+  <CarpetBedMaroon.label>황토색 침대 카펫</CarpetBedMaroon.label>
+  <CarpetBedOrange.label>주황색 침대 카펫</CarpetBedOrange.label>
+
+  <!--1547692203_190621_Fences And Floors-->
+  <FAFBurnedWoodTile.label>불에 탄 합판 패널</FAFBurnedWoodTile.label>
+  <FAFBurnedWoodTile.description>불타버린 합판 패널 바닥.</FAFBurnedWoodTile.description>
+  <FAFMetalTileB.label>강철 패널</FAFMetalTileB.label>
+  <FAFWoodTile.label>합판 패널</FAFWoodTile.label>
+  <FAFTechTile.label>센서 패널</FAFTechTile.label>
+  <FAFWoodTile.description>압축 합판 바닥. 다른 자재들에 비해 싸고 가격대비 훌륭한 옵션을 제공합니다</FAFWoodTile.description>
+  <FAFMetalTileA.label>강철 창살</FAFMetalTileA.label>
+  <FAFMetalTileB.description>이 강철패널 대자인은 우주선 내부 통로 바닥에 주로 쓰이는 인기있는 스타일입니다.</FAFMetalTileB.description>
+  <FAFTechTile.description>이 하이테크 바닥 패널은 적극적으로 이용자와 소통합니다. 내장된 센서와 고속 네트워킹 통합 시스템등 "스마트"시스템을 활용하여 이용자의 발 모양과 걸음걸이, 기타 요인들을 판단해 신속한 이동을 위한 최적의 표면을 제공하지요.</FAFTechTile.description>
+  <FAFMetalTileA.description>이 창살은 내구성이 뛰어나며 세척하기가 쉽습니다. 대부분 구멍이 뚫린 곳으로 쓰레기를 버리거든요!</FAFMetalTileA.description>
+
+  <!--1573465547_190519_[WD] Simple Concrete 1.0-->
+  <WDTileConcrete.description>조심스럽게 커팅하고 돌 타일을 캐슬 느낌에 맞게 조정하십시오. 보기에는 꽤 좋지만, 만드는 데는 오랜 시간이 걸립니다.</WDTileConcrete.description>
+  <WDFlagstoneConcrete.label>콘크리트 판석</WDFlagstoneConcrete.label>
+  <WDTileConcrete.label>콘크리트 타일</WDTileConcrete.label>
+  <WDFlagstoneConcrete.description>거친 절단 돌 타일. 아름답지는 않지만 도로와 야외 산책로를위한 좋은 표면을 만듭니다. 판석을 해체하면 아무것도 나오지 않습니다.</WDFlagstoneConcrete.description>
+
+  <!--1586457330_190519_Tamped Dirt Floor-->
+  <MAC_TampedDirt.description>바닥을 간단히 흙으로 다져 만든 기본 바닥.</MAC_TampedDirt.description>
+  <MAC_TampedDirt.label>다져진 토양</MAC_TampedDirt.label>
+
+  <!--1613783924_190519_Roads of the Rim-->
+  <ConcreteBridge.description>콘크리트 교량은 물 위에 세울 수 있습니다. 이 다리 위에는 무거운 구조물이 세워질 수 있지만, 파괴할 수 있습니다. 교량이 무너지면 그 위에 있는 건물들도 함께 무너집니다.</ConcreteBridge.description>
+  <ConcreteBridge.label>콘크리트 교량</ConcreteBridge.label>
+  <GlitterRoad.label>번화계 도로</GlitterRoad.label>
+  <DirtRecent.description>최근에 건축된 흙길입니다. 아름답거나 깨끗하지는 않지만 여전히 싼 도로를 위한 좋은 표면을 만듭니다. 해체해도 자원은 반환되지 않습니다.</DirtRecent.description>
+  <AsphaltRecent.label>최근에 건축된 아스팔트</AsphaltRecent.label>
+  <AsphaltRecent.description>최근에 건축된 아스팔트입니다. 도로용으로도 훌륭합니다. 해체해도 자원은 반환되지 않습니다.</AsphaltRecent.description>
+  <StoneRecent.label>최근에 건축된 돌 판석</StoneRecent.label>
+  <DirtRecent.label>최근에 건축된 흙길</DirtRecent.label>
+  <StoneRecent.description>거칠게 자른 돌로 최근에 도로를 만들었습니다. 아름답지는 않지만 도로는 야외 산책로를 위한 좋은 표면을 제공합니다. 해체해도 자원은 반환되지 않습니다.</StoneRecent.description>
+  <GlitterRoad.description>우주급 기술로 도로를 만들었습니다. 해체해도 자원은 반환되지 않습니다.</GlitterRoad.description>
+
+  <!--1730938407_190707_Gloomy Extra - Kitchen-->
+  <SandstoneKitchenTile.label>사암 부엌 바닥</SandstoneKitchenTile.label>
+  <SandstoneKitchenTile.description>클래식한 부엌 바닥입니다. 청소하기 쉽고 오래갑니다.</SandstoneKitchenTile.description>
+  <GraniteKitchenTile.label>화강암 부엌 바닥</GraniteKitchenTile.label>
+  <GraniteKitchenTile.description>클래식한 부엌 바닥입니다. 청소하기 쉽고 오래갑니다.</GraniteKitchenTile.description>
+  <LimestoneKitchenTile.label>석회암 부엌 바닥</LimestoneKitchenTile.label>
+  <LimestoneKitchenTile.description>클래식한 부엌 바닥입니다. 청소하기 쉽고 오래갑니다.</LimestoneKitchenTile.description>
+  <SlateKitchenTile.label>점판암 부엌 바닥</SlateKitchenTile.label>
+  <SlateKitchenTile.description>클래식한 부엌 바닥입니다. 청소하기 쉽고 오래갑니다.</SlateKitchenTile.description>
+  <MarbleKitchenTile.label>대리석 부엌 바닥</MarbleKitchenTile.label>
+  <MarbleKitchenTile.description>클래식한 부엌 바닥입니다. 청소하기 쉽고 오래갑니다.</MarbleKitchenTile.description>
+  <SuffedKitchenTile.label>철제 부엌 바닥</SuffedKitchenTile.label>
+  <SuffedKitchenTile.description>클래식한 부엌 바닥입니다. 청소하기 쉽고 오래갑니다.</SuffedKitchenTile.description>
+
+  <!--1735705268_190526_Dead Can Serve-->
+  <CorpseBuriedSoil.label>피 토양</CorpseBuriedSoil.label>
+  <CorpseBuriedSoil.description>피에 젖은 땅. 작물은 175%의 성장속도를 얻게 됩니다</CorpseBuriedSoil.description>
+
+  <!--725576127_190626_Glitter Tech-->
+  <TitaniumTile.label>티타늄 타일</TitaniumTile.label>
+  <TitaniumTile.description>번화계에서 사용하는 티타늄으로 만든 타일입니다.</TitaniumTile.description>
+  <AlphaTile.label>알파 복합체 타일</AlphaTile.label>
+  <AlphaTile.description>우주선에서 사용하는 알파 복합체 타일입니다.</AlphaTile.description>
+  <BetaTile.label>베타 복합체 타일</BetaTile.label>
+  <BetaTile.description>우주선에서 사용하는 베타 복합체 타일입니다.</BetaTile.description>
+
+  <!--725747149_190622_Tilled Soil-->
+  <Dirt.tools.0.label>흙</Dirt.tools.0.label>
+  <GT_SoilTilled.tools.0.label>흙</GT_SoilTilled.tools.0.label>
+  <SoilTilled.tools.0.label>흙</SoilTilled.tools.0.label>
+  <Dirt.label>토양</Dirt.label>
+  <Dirt.description>기본 토양입니다.</Dirt.description>
+  <GT_SoilTilled.label>경작된 토양</GT_SoilTilled.label>
+  <SoilTilled.label>경작된 토양</SoilTilled.label>
+  <GT_SoilTilled.description>농작물을 심기에 적절한 토양입니다.</GT_SoilTilled.description>
+  <SoilTilled.description>농작물을 심기에 적절한 토양입니다.</SoilTilled.description>
+
+  <!--758810805_190811_FishIndustry-->
+  <FishingPierFloorShallowWater.label>낚시터</FishingPierFloorShallowWater.label>
+  <FishingPierFloorMarsh.label>낚시터</FishingPierFloorMarsh.label>
+
+  <!--769201959_190626_RIMKea-->
+  <Floor_DarkPlanks.description>어두운 색의 거친 나무 판자로 만든 바닥입니다.</Floor_DarkPlanks.description>
+  <Floor_DarkPlanks.label>어두운 나무판자 바닥</Floor_DarkPlanks.label>
+  <Floor_LightPlanks.description>밝은 색의 거친 나무 판자로 만든 바닥입니다.</Floor_LightPlanks.description>
+  <Floor_LightPlanks.label>밝은 나무판자 바닥</Floor_LightPlanks.label>
+  <Floor_SmoothWood.label>매끄러운 나무 바닥</Floor_SmoothWood.label>
+  <Floor_SmoothWood.description>매끄러운 나무 바닥.</Floor_SmoothWood.description>
+  <Floor_StoneSquaresGranite.label>정사각 화강암 바닥</Floor_StoneSquaresGranite.label>
+  <Floor_StoneSquaresLimestone.label>정사각 석회암 바닥</Floor_StoneSquaresLimestone.label>
+  <Floor_StoneSquaresMarble.label>정사각 대리석 바닥</Floor_StoneSquaresMarble.label>
+  <Floor_StoneSquaresSlate.label>정사각 점판암 바닥</Floor_StoneSquaresSlate.label>
+  <Floor_StoneSquaresSandstone.description>정사각형 돌 바닥입니다.</Floor_StoneSquaresSandstone.description>
+  <Floor_StoneSquaresGranite.description>정사각형 돌 바닥입니다.</Floor_StoneSquaresGranite.description>
+  <Floor_StoneSquaresLimestone.description>정사각형 돌 바닥입니다.</Floor_StoneSquaresLimestone.description>
+  <Floor_StoneSquaresSlate.description>정사각형 돌 바닥입니다.</Floor_StoneSquaresSlate.description>
+  <Floor_StoneSquaresMarble.description>정사각형 돌 바닥입니다.</Floor_StoneSquaresMarble.description>
+  <Floor_StoneSquaresSandstone.label>정사각 사암 바닥</Floor_StoneSquaresSandstone.label>
+
+  <!--823626435_190622_Super Soil-->
+  <SoilSuper.description>기초적인 균사체 네트워크로 작물을 더 빠르게 재배하세요.</SoilSuper.description>
+  <SoilHyper.description>대단히 진보된 균사체 네트워크로 작물을 비정상적으로 빠르게 재배하세요.</SoilHyper.description>
+  <SoilMega.description>생물공학으로 조절된 균사체 네트워크의 도움을 받아 작물을 매우 빠르게 재배하세요.</SoilMega.description>
+  <SoilHyper.label>과도한 토양</SoilHyper.label>
+  <UltraSoil.description>쉽지도 않고 효율적이지도 않을테지만, 우리는 더 진보된 (정말로 매우매우 진보된) 균사제 개발에 발을 들였습니다. 슬프게도 여기에 필요한 재료들을 알게되면 사람들을 그다지 좋아하지 않겠지요.</UltraSoil.description>
+  <SoilMega.label>특출난 토양</SoilMega.label>
+  <SoilSuper.label>우수한 토양</SoilSuper.label>
+  <UltraSoil.label>극단적인 토양</UltraSoil.label>
+
+  <!--928368180_190628_[FSF] Lightweight Building Polymer-->
+  <FSFPolymerFloor.description>경량 중합체로 만든 바닥입니다.</FSFPolymerFloor.description>
+  <FSFBurnedPolymer.label>타고있는 경량 중합체 바닥</FSFBurnedPolymer.label>
+  <FSFBurnedPolymer.description>연소된 경량 중합체 바닥</FSFBurnedPolymer.description>
+  <FSFPolymerFloor.label>경량 중합체 바닥</FSFPolymerFloor.label>
+
+  <!--951016023_190814_DeCore-->
+  <TileGraniteOld.label>오래된 화강암 타일</TileGraniteOld.label>
+  <TileLimestoneOld.label>오래된 석회암 타일</TileLimestoneOld.label>
+  <TileMarbleOld.label>오래된 대리석 타일</TileMarbleOld.label>
+  <TileSandstoneOld.description>정성스럽게 자른 세련된 돌 타일로, 오래된 성과 같은 느낌을 줍니다. 만드는 데 많은 시간이 걸립니다.</TileSandstoneOld.description>
+  <TileGraniteOld.description>정성스럽게 자른 세련된 돌 타일로, 오래된 성과 같은 느낌을 줍니다. 만드는 데 많은 시간이 걸립니다.</TileGraniteOld.description>
+  <TileLimestoneOld.description>정성스럽게 자른 세련된 돌 타일로, 오래된 성과 같은 느낌을 줍니다. 만드는 데 많은 시간이 걸립니다.</TileLimestoneOld.description>
+  <TileSlateOld.description>정성스럽게 자른 세련된 돌 타일로, 오래된 성과 같은 느낌을 줍니다. 만드는 데 많은 시간이 걸립니다.</TileSlateOld.description>
+  <TileMarbleOld.description>정성스럽게 자른 세련된 돌 타일로, 오래된 성과 같은 느낌을 줍니다. 만드는 데 많은 시간이 걸립니다.</TileMarbleOld.description>
+  <TileSandstoneOld.label>오래된 사암 타일</TileSandstoneOld.label>
+  <TileSlateOld.label>오래된 점판암 타일</TileSlateOld.label>
+
+</LanguageData>

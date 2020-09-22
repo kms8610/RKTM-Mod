@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_WitchesHat.label>마녀의 모자</Apparel_WitchesHat.label>
+  <Apparel_WitchesHat.description>전반적으로 림월드의 마녀들이 쓰는 뾰족한 모자입니다. 무섭게 생겼지만 섹시합니다.</Apparel_WitchesHat.description>
+  <Apparel_MummyHead.label>미라 머리</Apparel_MummyHead.label>
+  <Apparel_MummyHead.description>무시무시한 미라의 흔적입니다. 이건 곰팡이가 핀 린넨 붕대로 만들어졌나요? 면요? 화장지요? 아무도 몰라요!</Apparel_MummyHead.description>
+  <Apparel_WolfmanMask.label>늑대인간 탈</Apparel_WolfmanMask.label>
+  <Apparel_WolfmanMask.description>털로 덥힌 무서운 가면이 여기 림월드에 있습니다! 마치 벼룩까지 있는 것처럼요!</Apparel_WolfmanMask.description>
+  <Apparel_MummyWraps.label>미라 붕대</Apparel_MummyWraps.label>
+  <Apparel_MummyWraps.description>죽은 사람을 안에 단단히 싸서 보존할 때 사용하는 징그러운 붕대 세트입니다.</Apparel_MummyWraps.description>
+  <Apparel_WitchesRobe.label>마녀의 로브</Apparel_WitchesRobe.label>
+  <Apparel_WitchesRobe.description>너그러운 칼자국이 있는 너덜너덜한 겉옷입니다. 무섭지만 섹시함이 있어요!</Apparel_WitchesRobe.description>
+  <Apparel_Witchesstockings.label>마녀의 스타킹</Apparel_Witchesstockings.label>
+  <Apparel_Witchesstockings.description>여성스럽고 줄무늬가 있는 스타킹으로, 마녀와 다른 야한 사람들이 착용하는 스타킹입니다.</Apparel_Witchesstockings.description>
+  <Apparel_VampireCostume.label>흡혈귀 코스튬</Apparel_VampireCostume.label>
+  <Apparel_VampireCostume.description>피 묻은 흰 셔츠, 코트와 망토로 구성된 느슨하고 무시무시한 뱀파이어 의상입니다. 말 그대로 피를 빨지 못하는 어둠의 생명체들을 위한 것 입니다.</Apparel_VampireCostume.description>
+  <Jackolantern.label>잭 오 랜턴</Jackolantern.label>
+  <Jackolantern.description>보통의 호박으로 만들어진 소름끼치는 랜턴입니다. 약간의 빛과 열을 제공합니다.</Jackolantern.description>
+  <Coffin.label>관</Coffin.label>
+  <Coffin.description>죽은 사람을 매장하기 전에 보관하는 장식용 관입니다. 아마도 자신이 매장되지 않도록 하기 위해서...</Coffin.description>
+  <BurialCoffin.label>장례용 관</BurialCoffin.label>
+  <BurialCoffin.description>명예롭게 죽은 자를 위한 장식용 묘지입니다.</BurialCoffin.description>
+  <Cauldron.label>가마솥</Cauldron.label>
+  <Cauldron.description>이중의 노고와 트러블, 불타는 화상과 연꽃 거품을 림월드에서도! 마녀들이 약과 양조기를 만들 때 사용하는 무시무시한 가마솥입니다. 발효기로 작동합니다.</Cauldron.description>
+  <Candycorn.label>사탕 옥수수</Candycorn.label>
+  <Candycorn.description>작고 원뿔 모양의 밀랍같은 전통적인 캔디들이 쌓여 있습니다. 가장 으스스한 시기의 일반적인 물품입니다. 사람들은 그것을 사랑하거나 미워하는 것 같습니다.</Candycorn.description>
+  <Candiedapple.label>사탕 사과</Candiedapple.label>
+  <Candiedapple.description>무고한 캐러멜의 피로 범벅이 된 끈적끈적한 빨간 사과입니다. 맛있어요.</Candiedapple.description>
+  <Pumpkinbasket.label>호박 바구니</Pumpkinbasket.label>
+  <Pumpkinbasket.description>여러분을 위해 멀리 떨어진 림 월드의 노예 노동자들이 힘들게 모은 할로윈 음식의 최고 컬렉션입니다!</Pumpkinbasket.description>
+  <Smirties.label>사탕 바구니</Smirties.label>
+  <Smirties.description>설탕이 든 작은 분필 더미입니다. 이건 먹을 수... 있을거에요.</Smirties.description>
+  <Waxylips.label>밀랍 입술</Waxylips.label>
+  <Waxylips.description>화사한 한 쌍의 루비색 빨간 입술로, 밀랍 소재로 만들어졌습니다. 이것은 실제로 먹을 것을 의미하지는 않습니다만... 그건 아직 아무도 모르죠.</Waxylips.description>
+  <Suspiciouschocolate.label>수상한 초콜릿</Suspiciouschocolate.label>
+  <Suspiciouschocolate.description>갈색 포장지에 싸인 잘게 부서진 합성 초콜릿 제품 한 조각입니다.\n경고. 실제 초콜릿은 들어 있지 않습니다. 어떤 맛이 날 수도 있고 아닐 수도 있습니다.</Suspiciouschocolate.description>
+  <MeleeWeapon_WitchesBroom.label>마녀의 빗자루</MeleeWeapon_WitchesBroom.label>
+  <MeleeWeapon_WitchesBroom.description>마녀 빗자루, 아니면 그냥 평범한 빗자루인가요? 구별하기 어려워요.</MeleeWeapon_WitchesBroom.description>
+  <MeleeWeapon_WitchesBroom.tools.0.label>손잡이</MeleeWeapon_WitchesBroom.tools.0.label>
+  <MeleeWeapon_WitchesBroom.tools.1.label>머리</MeleeWeapon_WitchesBroom.tools.1.label>
+  <Bat.label>박쥐</Bat.label>
+  <Bat.description>작지만 아주 으스스한 작은 박쥐입니다. 귀엽고 별로 위험하지 않은 것 같아요.</Bat.description>
+  <Bat.tools.0.label>발톱</Bat.tools.0.label>
+  <Bat.tools.1.label>부리</Bat.tools.1.label>
+  <Bat.tools.2.label>머리</Bat.tools.2.label>
+  <Bat_Leather.label>박쥐 가죽</Bat_Leather.label>
+  <Bat_Leather.description>박쥐의 가죽입니다.</Bat_Leather.description>
+  <Bat_Leather.stuffProps.stuffAdjective>박쥐 가죽</Bat_Leather.stuffProps.stuffAdjective>
+  <BlackCat.label>검은 고양이</BlackCat.label>
+  <BlackCat.description>검은 고양이가 길을 건너는 것은 불운을 가져온다고 합니다. 하지만 이건 당신의 일반적인 고양이입니다. 비록 다른 고양이들보다 조금 더 으스스하긴 하지만요.</BlackCat.description>
+  <BlackCat.tools.0.label>왼쪽 발톱</BlackCat.tools.0.label>
+  <BlackCat.tools.1.label>오른쪽 발톱</BlackCat.tools.1.label>
+  <BlackCat.tools.3.label>머리</BlackCat.tools.3.label>
+  <BlackCat_Leather.label>검은 고양이 가죽</BlackCat_Leather.label>
+  <BlackCat_Leather.description>검은 고양이의 가죽입니다.</BlackCat_Leather.description>
+  <BlackCat_Leather.stuffProps.stuffAdjective>검은 고양이 가죽</BlackCat_Leather.stuffProps.stuffAdjective>
+  <SpookySkeleton.label>유령 해골</SpookySkeleton.label>
+  <SpookySkeleton.description>으스스하고 무시무시한 해골입니다. 마치 별똥별에 의해 살아난 것처럼 보이며, 근육이나 살 없이 움직입니다. 움직일 때마다 덜컹거리는 소리가 뿜어져 나옵니다.</SpookySkeleton.description>
+  <SpookySkeleton.tools.0.label>왼쪽 주먹</SpookySkeleton.tools.0.label>
+  <SpookySkeleton.tools.1.label>오른쪽 주먹</SpookySkeleton.tools.1.label>
+  <SpookySkeleton.tools.3.label>머리</SpookySkeleton.tools.3.label>
+  <SpookySkeleton_Leather.label>유령 해골 가죽</SpookySkeleton_Leather.label>
+  <SpookySkeleton_Leather.description>유령 해골의 가죽입니다.</SpookySkeleton_Leather.description>
+  <SpookySkeleton_Leather.stuffProps.stuffAdjective>유령 해골 가죽</SpookySkeleton_Leather.stuffProps.stuffAdjective>
+
+</LanguageData>

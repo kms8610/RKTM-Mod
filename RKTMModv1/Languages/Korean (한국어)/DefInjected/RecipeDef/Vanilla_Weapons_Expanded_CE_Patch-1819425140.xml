@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeAmmo_VWE_CompoundArrow.label>기계식활 화살 만들기 (10)</MakeAmmo_VWE_CompoundArrow.label>
+  <MakeAmmo_VWE_CompoundArrow.description>기계식활 화살을 만듭니다.</MakeAmmo_VWE_CompoundArrow.description>
+  <MakeAmmo_VWE_CompoundArrow.jobString>기계식활 화살 만드는 중.</MakeAmmo_VWE_CompoundArrow.jobString>
+  <MakeAmmo_VWE_Extinguisher.label>소화제 만들기 (400)</MakeAmmo_VWE_Extinguisher.label>
+  <MakeAmmo_VWE_Extinguisher.description>소화제를 만듭니다.</MakeAmmo_VWE_Extinguisher.description>
+  <MakeAmmo_VWE_Extinguisher.jobString>소화제 만드는 중.</MakeAmmo_VWE_Extinguisher.jobString>
+  <MakeAmmo_VWE_Flamethrower.label>화염방사기 연료 만들기 (100)</MakeAmmo_VWE_Flamethrower.label>
+  <MakeAmmo_VWE_Flamethrower.description>화염방사기 연료를 만듭니다.</MakeAmmo_VWE_Flamethrower.description>
+  <MakeAmmo_VWE_Flamethrower.jobString>화염방사기 연료 만드는 중.</MakeAmmo_VWE_Flamethrower.jobString>
+  <MakeAmmo_VWE_LeadBall.label>납탄 만들기 (100)</MakeAmmo_VWE_LeadBall.label>
+  <MakeAmmo_VWE_LeadBall.description>납탄을 만듭니다.</MakeAmmo_VWE_LeadBall.description>
+  <MakeAmmo_VWE_LeadBall.jobString>납탄 만드는 중.</MakeAmmo_VWE_LeadBall.jobString>
+  <Make_VWE_OPOrbBombGrenade.label>궤도 폭격 신호탄 만들기</Make_VWE_OPOrbBombGrenade.label>
+  <Make_VWE_OPOrbBombGrenade.description>궤도 폭격 신호탄을 만듭니다.</Make_VWE_OPOrbBombGrenade.description>
+  <Make_VWE_OPOrbBombGrenade.jobString>궤도 폭격 신호탄 만드는 중.</Make_VWE_OPOrbBombGrenade.jobString>
+  <Make_VWE_SmokeGrenade.label>연막탄 만들기</Make_VWE_SmokeGrenade.label>
+  <Make_VWE_SmokeGrenade.description>연막탄을 만듭니다.</Make_VWE_SmokeGrenade.description>
+  <Make_VWE_SmokeGrenade.jobString>연막탄 만드는 중.</Make_VWE_SmokeGrenade.jobString>
+  <Make_VWE_ToxicGrenade.label>독소탄 만들기</Make_VWE_ToxicGrenade.label>
+  <Make_VWE_ToxicGrenade.description>독소탄을 만듭니다.</Make_VWE_ToxicGrenade.description>
+  <Make_VWE_ToxicGrenade.jobString>독소탄 만드는 중.</Make_VWE_ToxicGrenade.jobString>
+  <Make_VWE_FlashGrenade.label>섬광탄 만들기</Make_VWE_FlashGrenade.label>
+  <Make_VWE_FlashGrenade.description>섬광탄을 만듭니다.</Make_VWE_FlashGrenade.description>
+  <Make_VWE_FlashGrenade.jobString>섬광탄 만드는 중.</Make_VWE_FlashGrenade.jobString>
+  <Make_VWE_MeleeWeapon_Shovel.label>삽 만들기</Make_VWE_MeleeWeapon_Shovel.label>
+  <Make_VWE_MeleeWeapon_Shovel.description>삽을 만듭니다.</Make_VWE_MeleeWeapon_Shovel.description>
+  <Make_VWE_MeleeWeapon_Shovel.jobString>삽 만드는 중.</Make_VWE_MeleeWeapon_Shovel.jobString>
+  <Make_VWE_MeleeWeapon_Baton.label>진압봉 만들기</Make_VWE_MeleeWeapon_Baton.label>
+  <Make_VWE_MeleeWeapon_Baton.description>진압봉을 만듭니다.</Make_VWE_MeleeWeapon_Baton.description>
+  <Make_VWE_MeleeWeapon_Baton.jobString>진압봉 만드는 중.</Make_VWE_MeleeWeapon_Baton.jobString>
+  <Make_VWE_MeleeWeapon_CombatKnife.label>주머니칼 만들기</Make_VWE_MeleeWeapon_CombatKnife.label>
+  <Make_VWE_MeleeWeapon_CombatKnife.description>주머니칼을 만듭니다.</Make_VWE_MeleeWeapon_CombatKnife.description>
+  <Make_VWE_MeleeWeapon_CombatKnife.jobString>주머니칼 만드는 중.</Make_VWE_MeleeWeapon_CombatKnife.jobString>
+  <Make_VWE_MeleeWeapon_Wrench.label>렌치 만들기</Make_VWE_MeleeWeapon_Wrench.label>
+  <Make_VWE_MeleeWeapon_Wrench.description>렌치를 만듭니다.</Make_VWE_MeleeWeapon_Wrench.description>
+  <Make_VWE_MeleeWeapon_Wrench.jobString>렌치 만드는 중.</Make_VWE_MeleeWeapon_Wrench.jobString>
+  <Make_VWE_MeleeWeapon_Cleaver.label>식칼 만들기</Make_VWE_MeleeWeapon_Cleaver.label>
+  <Make_VWE_MeleeWeapon_Cleaver.description>식칼을 만듭니다.</Make_VWE_MeleeWeapon_Cleaver.description>
+  <Make_VWE_MeleeWeapon_Cleaver.jobString>식칼 만드는 중.</Make_VWE_MeleeWeapon_Cleaver.jobString>
+  <Make_VWE_MeleeWeapon_Scalpel.label>수술칼 만들기</Make_VWE_MeleeWeapon_Scalpel.label>
+  <Make_VWE_MeleeWeapon_Scalpel.description>수술칼을 만듭니다.</Make_VWE_MeleeWeapon_Scalpel.description>
+  <Make_VWE_MeleeWeapon_Scalpel.jobString>수술칼 만드는 중.</Make_VWE_MeleeWeapon_Scalpel.jobString>
+  <Make_VWE_MeleeWeapon_Pickaxe.label>곡괭이 만들기</Make_VWE_MeleeWeapon_Pickaxe.label>
+  <Make_VWE_MeleeWeapon_Pickaxe.description>곡괭이를 만듭니다.</Make_VWE_MeleeWeapon_Pickaxe.description>
+  <Make_VWE_MeleeWeapon_Pickaxe.jobString>곡괭이 만드는 중.</Make_VWE_MeleeWeapon_Pickaxe.jobString>
+  <Make_VWE_MeleeWeapon_Hammer.label>망치 만들기</Make_VWE_MeleeWeapon_Hammer.label>
+  <Make_VWE_MeleeWeapon_Hammer.description>망치를 만듭니다.</Make_VWE_MeleeWeapon_Hammer.description>
+  <Make_VWE_MeleeWeapon_Hammer.jobString>망치 만드는 중.</Make_VWE_MeleeWeapon_Hammer.jobString>
+  <Make_VWE_MeleeWeapon_BattleAxe.label>전투도끼 만들기</Make_VWE_MeleeWeapon_BattleAxe.label>
+  <Make_VWE_MeleeWeapon_BattleAxe.description>전투도끼를 만듭니다.</Make_VWE_MeleeWeapon_BattleAxe.description>
+  <Make_VWE_MeleeWeapon_BattleAxe.jobString>전투도끼 만드는 중.</Make_VWE_MeleeWeapon_BattleAxe.jobString>
+  <Make_VWE_MeleeWeapon_Halberd.label>미늘창 만들기</Make_VWE_MeleeWeapon_Halberd.label>
+  <Make_VWE_MeleeWeapon_Halberd.description>미늘창을 만듭니다.</Make_VWE_MeleeWeapon_Halberd.description>
+  <Make_VWE_MeleeWeapon_Halberd.jobString>미늘창 만드는 중.</Make_VWE_MeleeWeapon_Halberd.jobString>
+  <Make_VWE_MeleeWeapon_Axe.label>도끼 만들기</Make_VWE_MeleeWeapon_Axe.label>
+  <Make_VWE_MeleeWeapon_Axe.description>도끼를 만듭니다.</Make_VWE_MeleeWeapon_Axe.description>
+  <Make_VWE_MeleeWeapon_Axe.jobString>도끼 만드는 중.</Make_VWE_MeleeWeapon_Axe.jobString>
+  <Make_Gun_TripleRocket.label>삼단 로켓 발사기 만들기</Make_Gun_TripleRocket.label>
+  <Make_Gun_TripleRocket.description>삼단 로켓 발사기를 만듭니다.</Make_Gun_TripleRocket.description>
+  <Make_Gun_TripleRocket.jobString>삼단 로켓 발사기 만드는 중.</Make_Gun_TripleRocket.jobString>
+  <Make_Gun_DoomsdayRocket.label>둠스데이 로켓 발사기 만들기</Make_Gun_DoomsdayRocket.label>
+  <Make_Gun_DoomsdayRocket.description>둠스데이 로켓 발사기를 만듭니다.</Make_Gun_DoomsdayRocket.description>
+  <Make_Gun_DoomsdayRocket.jobString>둠스데이 로켓 발사기 만드는 중.</Make_Gun_DoomsdayRocket.jobString>
+  <Make_VWE_Gun_RocketLauncher.label>포탄 발사기 만들기</Make_VWE_Gun_RocketLauncher.label>
+  <Make_VWE_Gun_RocketLauncher.description>포탄 발사기를 만듭니다.</Make_VWE_Gun_RocketLauncher.description>
+  <Make_VWE_Gun_RocketLauncher.jobString>포탄 발사기 만드는 중.</Make_VWE_Gun_RocketLauncher.jobString>
+  <Make_VWE_Bow_Compound.label>기계식활 만들기</Make_VWE_Bow_Compound.label>
+  <Make_VWE_Bow_Compound.description>기계식활을 만듭니다.</Make_VWE_Bow_Compound.description>
+  <Make_VWE_Bow_Compound.jobString>기계식활 만드는 중.</Make_VWE_Bow_Compound.jobString>
+  <Make_VWE_Gun_HandCannon.label>대구경리볼버 만들기</Make_VWE_Gun_HandCannon.label>
+  <Make_VWE_Gun_HandCannon.description>대구경리볼버를 만듭니다.</Make_VWE_Gun_HandCannon.description>
+  <Make_VWE_Gun_HandCannon.jobString>대구경리볼버 만드는 중.</Make_VWE_Gun_HandCannon.jobString>
+  <Make_VWE_CombatHandgun.label>반자동권총 만들기</Make_VWE_CombatHandgun.label>
+  <Make_VWE_CombatHandgun.description>반자동권총을 만듭니다.</Make_VWE_CombatHandgun.description>
+  <Make_VWE_CombatHandgun.jobString>반자동권총 만드는 중.</Make_VWE_CombatHandgun.jobString>
+  <Make_VWE_SawedOffShotgun.label>산탄권총 만들기</Make_VWE_SawedOffShotgun.label>
+  <Make_VWE_SawedOffShotgun.description>산탄권총을 만듭니다.</Make_VWE_SawedOffShotgun.description>
+  <Make_VWE_SawedOffShotgun.jobString>산탄권총 만드는 중.</Make_VWE_SawedOffShotgun.jobString>
+  <Make_VWE_Gun_GrenadeLauncher.label>유탄 발사기 만들기</Make_VWE_Gun_GrenadeLauncher.label>
+  <Make_VWE_Gun_GrenadeLauncher.description>유탄 발사기를 만듭니다.</Make_VWE_Gun_GrenadeLauncher.description>
+  <Make_VWE_Gun_GrenadeLauncher.jobString>유탄 발사기 만드는 중.</Make_VWE_Gun_GrenadeLauncher.jobString>
+  <Make_VWE_Gun_Flamethrower.label>화염방사기 만들기</Make_VWE_Gun_Flamethrower.label>
+  <Make_VWE_Gun_Flamethrower.description>화염방사기를 만듭니다.</Make_VWE_Gun_Flamethrower.description>
+  <Make_VWE_Gun_Flamethrower.jobString>화염방사기 만드는 중.</Make_VWE_Gun_Flamethrower.jobString>
+  <Make_VWE_Gun_FireExtinguisher.label>소화기 만들기</Make_VWE_Gun_FireExtinguisher.label>
+  <Make_VWE_Gun_FireExtinguisher.description>소화기를 만듭니다.</Make_VWE_Gun_FireExtinguisher.description>
+  <Make_VWE_Gun_FireExtinguisher.jobString>소화기 만드는 중.</Make_VWE_Gun_FireExtinguisher.jobString>
+  <Make_VWE_Gun_SemiAutomaticRifle.label>반자동소총 만들기</Make_VWE_Gun_SemiAutomaticRifle.label>
+  <Make_VWE_Gun_SemiAutomaticRifle.description>반자동소총을 만듭니다.</Make_VWE_Gun_SemiAutomaticRifle.description>
+  <Make_VWE_Gun_SemiAutomaticRifle.jobString>반자동소총 만드는 중.</Make_VWE_Gun_SemiAutomaticRifle.jobString>
+  <Make_VWE_Gun_LeverActionRifle.label>레버작동식소총 만들기</Make_VWE_Gun_LeverActionRifle.label>
+  <Make_VWE_Gun_LeverActionRifle.description>레버작동식소총을 만듭니다.</Make_VWE_Gun_LeverActionRifle.description>
+  <Make_VWE_Gun_LeverActionRifle.jobString>레버작동식소총 만드는 중.</Make_VWE_Gun_LeverActionRifle.jobString>
+  <Make_VWE_Gun_LightSMG.label>경량기관단총 만들기</Make_VWE_Gun_LightSMG.label>
+  <Make_VWE_Gun_LightSMG.description>경량기관단총을 만듭니다.</Make_VWE_Gun_LightSMG.description>
+  <Make_VWE_Gun_LightSMG.jobString>경량기관단총 만드는 중.</Make_VWE_Gun_LightSMG.jobString>
+  <Make_VWE_Gun_SMG.label>소형기관단총 만들기</Make_VWE_Gun_SMG.label>
+  <Make_VWE_Gun_SMG.description>소형기관단총을 만듭니다.</Make_VWE_Gun_SMG.description>
+  <Make_VWE_Gun_SMG.jobString>소형기관단총 만드는 중.</Make_VWE_Gun_SMG.jobString>
+  <Make_VWE_Gun_HMG.label>중기관총 만들기</Make_VWE_Gun_HMG.label>
+  <Make_VWE_Gun_HMG.description>중기관총을 만듭니다.</Make_VWE_Gun_HMG.description>
+  <Make_VWE_Gun_HMG.jobString>중기관총 만드는 중.</Make_VWE_Gun_HMG.jobString>
+  <Make_VWE_Gun_ServiceRifle.label>제식돌격소총 만들기</Make_VWE_Gun_ServiceRifle.label>
+  <Make_VWE_Gun_ServiceRifle.description>제식돌격소총을 만듭니다.</Make_VWE_Gun_ServiceRifle.description>
+  <Make_VWE_Gun_ServiceRifle.jobString>제식돌격소총 만드는 중.</Make_VWE_Gun_ServiceRifle.jobString>
+  <Make_VWE_Gun_BattleRifle.label>전투소총 만들기</Make_VWE_Gun_BattleRifle.label>
+  <Make_VWE_Gun_BattleRifle.description>전투소총을 만듭니다.</Make_VWE_Gun_BattleRifle.description>
+  <Make_VWE_Gun_BattleRifle.jobString>전투소총 만드는 중.</Make_VWE_Gun_BattleRifle.jobString>
+  <Make_VWE_Gun_Carbine.label>불펍카빈소총 만들기</Make_VWE_Gun_Carbine.label>
+  <Make_VWE_Gun_Carbine.description>불펍카빈소총을 만듭니다.</Make_VWE_Gun_Carbine.description>
+  <Make_VWE_Gun_Carbine.jobString>불펍카빈소총 만드는 중.</Make_VWE_Gun_Carbine.jobString>
+  <Make_VWE_Gun_MarksmanRifle.label>지정사수초송 만들기</Make_VWE_Gun_MarksmanRifle.label>
+  <Make_VWE_Gun_MarksmanRifle.description>지정사수초송을 만듭니다.</Make_VWE_Gun_MarksmanRifle.description>
+  <Make_VWE_Gun_MarksmanRifle.jobString>지정사수초송 만드는 중.</Make_VWE_Gun_MarksmanRifle.jobString>
+  <Make_VWE_Gun_AntiMaterialRifle.label>대물 저격소총 만들기</Make_VWE_Gun_AntiMaterialRifle.label>
+  <Make_VWE_Gun_AntiMaterialRifle.description>대물 저격소총을 만듭니다.</Make_VWE_Gun_AntiMaterialRifle.description>
+  <Make_VWE_Gun_AntiMaterialRifle.jobString>대물 저격소총 만드는 중.</Make_VWE_Gun_AntiMaterialRifle.jobString>
+  <Make_VWE_Bow_Crossbow.label>쇠뇌 만들기</Make_VWE_Bow_Crossbow.label>
+  <Make_VWE_Bow_Crossbow.description>쇠뇌를 만듭니다.</Make_VWE_Bow_Crossbow.description>
+  <Make_VWE_Bow_Crossbow.jobString>쇠뇌 만드는 중.</Make_VWE_Bow_Crossbow.jobString>
+  <Make_VWE_Gun_Musket.label>화승총 만들기</Make_VWE_Gun_Musket.label>
+  <Make_VWE_Gun_Musket.description>화승총을 만듭니다.</Make_VWE_Gun_Musket.description>
+  <Make_VWE_Gun_Musket.jobString>화승총 만드는 중.</Make_VWE_Gun_Musket.jobString>
+  <Make_VWE_Gun_Flintlock.label>수발총 만들기</Make_VWE_Gun_Flintlock.label>
+  <Make_VWE_Gun_Flintlock.description>수발총을 만듭니다.</Make_VWE_Gun_Flintlock.description>
+  <Make_VWE_Gun_Flintlock.jobString>수발총 만드는 중.</Make_VWE_Gun_Flintlock.jobString>
+  <Make_VWE_Throwing_Knives.label>수리검 만들기</Make_VWE_Throwing_Knives.label>
+  <Make_VWE_Throwing_Knives.description>수리검을 만듭니다.</Make_VWE_Throwing_Knives.description>
+  <Make_VWE_Throwing_Knives.jobString>수리검 만드는 중.</Make_VWE_Throwing_Knives.jobString>
+  <Make_VWE_Tool_Whip.label>채찍 만들기</Make_VWE_Tool_Whip.label>
+  <Make_VWE_Tool_Whip.description>채찍을 만듭니다.</Make_VWE_Tool_Whip.description>
+  <Make_VWE_Tool_Whip.jobString>채찍 만드는 중.</Make_VWE_Tool_Whip.jobString>
+  <Make_VWE_Throwing_Rocks.label>투척용 돌 만들기</Make_VWE_Throwing_Rocks.label>
+  <Make_VWE_Throwing_Rocks.description>투척용 돌을 만듭니다.</Make_VWE_Throwing_Rocks.description>
+  <Make_VWE_Throwing_Rocks.jobString>투척용 돌 만드는 중.</Make_VWE_Throwing_Rocks.jobString>
+  <Make_VWE_Bow_Long.label>개량장궁 만들기</Make_VWE_Bow_Long.label>
+  <Make_VWE_Bow_Long.description>개량장궁을 만듭니다.</Make_VWE_Bow_Long.description>
+  <Make_VWE_Bow_Long.jobString>개량장궁 만드는 중.</Make_VWE_Bow_Long.jobString>
+  <Make_VWE_Gun_ChargePistol.label>전자기 기관권총 만들기</Make_VWE_Gun_ChargePistol.label>
+  <Make_VWE_Gun_ChargePistol.description>전자기 기관권총을 만듭니다.</Make_VWE_Gun_ChargePistol.description>
+  <Make_VWE_Gun_ChargePistol.jobString>전자기 기관권총 만드는 중.</Make_VWE_Gun_ChargePistol.jobString>
+  <Make_VWE_Gun_ChargeShotgun.label>전자기 산탄총 만들기</Make_VWE_Gun_ChargeShotgun.label>
+  <Make_VWE_Gun_ChargeShotgun.description>전자기 산탄총을 만듭니다.</Make_VWE_Gun_ChargeShotgun.description>
+  <Make_VWE_Gun_ChargeShotgun.jobString>전자기 산탄총 만드는 중.</Make_VWE_Gun_ChargeShotgun.jobString>
+  <Make_VWE_Gun_ChargeSMG.label>전자기 기관단총 만들기</Make_VWE_Gun_ChargeSMG.label>
+  <Make_VWE_Gun_ChargeSMG.description>전자기 기관단총을 만듭니다.</Make_VWE_Gun_ChargeSMG.description>
+  <Make_VWE_Gun_ChargeSMG.jobString>전자기 기관단총 만드는 중.</Make_VWE_Gun_ChargeSMG.jobString>
+  <Make_VWE_Gun_ChargeLMG.label>전자기 경량기관단총 만들기</Make_VWE_Gun_ChargeLMG.label>
+  <Make_VWE_Gun_ChargeLMG.description>전자기 경량기관단총을 만듭니다.</Make_VWE_Gun_ChargeLMG.description>
+  <Make_VWE_Gun_ChargeLMG.jobString>전자기 경량기관단총 만드는 중.</Make_VWE_Gun_ChargeLMG.jobString>
+  <Make_VWE_Gun_ChargeSniperRifle.label>전자기 저격소총 만들기</Make_VWE_Gun_ChargeSniperRifle.label>
+  <Make_VWE_Gun_ChargeSniperRifle.description>전자기 저격소총을 만듭니다.</Make_VWE_Gun_ChargeSniperRifle.description>
+  <Make_VWE_Gun_ChargeSniperRifle.jobString>전자기 저격소총 만드는 중.</Make_VWE_Gun_ChargeSniperRifle.jobString>
+  <Make_VWE_Gun_ChargeMinigun.label>전자기 미니건 만들기</Make_VWE_Gun_ChargeMinigun.label>
+  <Make_VWE_Gun_ChargeMinigun.description>전자기 미니건을 만듭니다.</Make_VWE_Gun_ChargeMinigun.description>
+  <Make_VWE_Gun_ChargeMinigun.jobString>전자기 미니건 만드는 중.</Make_VWE_Gun_ChargeMinigun.jobString>
+  <Make_VWE_Gun_ChargeRocketLauncher.label>반물질탄 발사기 만들기</Make_VWE_Gun_ChargeRocketLauncher.label>
+  <Make_VWE_Gun_ChargeRocketLauncher.description>반물질탄 발사기를 만듭니다.</Make_VWE_Gun_ChargeRocketLauncher.description>
+  <Make_VWE_Gun_ChargeRocketLauncher.jobString>반물질탄 발사기 만드는 중.</Make_VWE_Gun_ChargeRocketLauncher.jobString>
+  <MakeVWEThrowingKnives.label>수리검 만들기 (10)</MakeVWEThrowingKnives.label>
+  <MakeVWEThrowingKnives.description>수리검을 만듭니다.</MakeVWEThrowingKnives.description>
+  <MakeVWEThrowingKnives.jobString>수리검 만드는 중.</MakeVWEThrowingKnives.jobString>
+  <MakeVWESmokeGrenade.label>연막탄 만들기 (10)</MakeVWESmokeGrenade.label>
+  <MakeVWESmokeGrenade.description>연막탄을 만듭니다.</MakeVWESmokeGrenade.description>
+  <MakeVWESmokeGrenade.jobString>연막탄 만드는 중.</MakeVWESmokeGrenade.jobString>
+  <MakeVWEFlashGrenade.label>섬광탄 만들기 (10)</MakeVWEFlashGrenade.label>
+  <MakeVWEFlashGrenade.description>섬광탄을 만듭니다.</MakeVWEFlashGrenade.description>
+  <MakeVWEFlashGrenade.jobString>섬광탄 만드는 중.</MakeVWEFlashGrenade.jobString>
+  <MakeVWEToxicGrenade.label>독소탄 만들기 (10)</MakeVWEToxicGrenade.label>
+  <MakeVWEToxicGrenade.description>독소탄을 만듭니다.</MakeVWEToxicGrenade.description>
+  <MakeVWEToxicGrenade.jobString>독소탄 만드는 중.</MakeVWEToxicGrenade.jobString>
+  <MakeVWEOrbGrenade.label>궤도 폭격 신호탄 만들기</MakeVWEOrbGrenade.label>
+  <MakeVWEOrbGrenade.description>궤도 폭격 신호탄을 만듭니다.</MakeVWEOrbGrenade.description>
+  <MakeVWEOrbGrenade.jobString>궤도 폭격 신호탄 만드는 중.</MakeVWEOrbGrenade.jobString>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <STTazed.label>무력화됨</STTazed.label>
+  <STTazed.stages.0.label>사소함</STTazed.stages.0.label>
+  <STTazed.stages.1.label>진행됨</STTazed.stages.1.label>
+  <STTazed.stages.2.label>심각함</STTazed.stages.2.label>
+  <STTazed.stages.3.label>극심함</STTazed.stages.3.label>
+  <STTazed.stages.4.label>치명적</STTazed.stages.4.label>
+  <STTazed.injuryProps.destroyedLabel>안락사</STTazed.injuryProps.destroyedLabel>
+  <STTazed.injuryProps.destroyedOutLabel>안락사</STTazed.injuryProps.destroyedOutLabel>
+  <STTazed.labelNoun>무력화됨</STTazed.labelNoun>
+  <Pronged.label>갈래</Pronged.label>
+  <Pronged.comps.0.labelTendedWell>붕대감음</Pronged.comps.0.labelTendedWell>
+  <Pronged.injuryProps.destroyedLabel>총상으로 잃음</Pronged.injuryProps.destroyedLabel>
+  <Pronged.injuryProps.destroyedOutLabel>총상으로 잃음</Pronged.injuryProps.destroyedOutLabel>
+  <Pronged.labelNoun>바늘 갈래 상처</Pronged.labelNoun>
+
+</LanguageData>

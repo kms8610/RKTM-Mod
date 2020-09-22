@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_Zombie10Serum.label>좀비혈청 10% 만들기</Make_Zombie10Serum.label>
+  <Make_Zombie10Serum.description>좀비혈청 10%를 만듭니다.</Make_Zombie10Serum.description>
+  <Make_Zombie10Serum.jobString>좀비혈청 10% 만드는 중.</Make_Zombie10Serum.jobString>
+  <Make_Zombie20Serum.label>좀비혈청 20% 만들기</Make_Zombie20Serum.label>
+  <Make_Zombie20Serum.description>좀비혈청 20%를 만듭니다.</Make_Zombie20Serum.description>
+  <Make_Zombie20Serum.jobString>좀비혈청 20% 만드는 중.</Make_Zombie20Serum.jobString>
+  <Make_Zombie30Serum.label>좀비혈청 30% 만들기</Make_Zombie30Serum.label>
+  <Make_Zombie30Serum.description>좀비혈청 30%를 만듭니다.</Make_Zombie30Serum.description>
+  <Make_Zombie30Serum.jobString>좀비혈청 30% 만드는 중.</Make_Zombie30Serum.jobString>
+  <Make_Zombie40Serum.label>좀비혈청 40% 만들기</Make_Zombie40Serum.label>
+  <Make_Zombie40Serum.description>좀비혈청 40%를 만듭니다.</Make_Zombie40Serum.description>
+  <Make_Zombie40Serum.jobString>좀비혈청 40% 만드는 중.</Make_Zombie40Serum.jobString>
+  <Make_Zombie50Serum.label>좀비혈청 50% 만들기</Make_Zombie50Serum.label>
+  <Make_Zombie50Serum.description>좀비혈청 50%를 만듭니다.</Make_Zombie50Serum.description>
+  <Make_Zombie50Serum.jobString>좀비혈청 50% 만드는 중.</Make_Zombie50Serum.jobString>
+  <Make_Zombie60Serum.label>좀비혈청 60% 만들기</Make_Zombie60Serum.label>
+  <Make_Zombie60Serum.description>좀비혈청 60%를 만듭니다.</Make_Zombie60Serum.description>
+  <Make_Zombie60Serum.jobString>좀비혈청 60% 만드는 중.</Make_Zombie60Serum.jobString>
+  <Make_Zombie70Serum.label>좀비혈청 70% 만들기</Make_Zombie70Serum.label>
+  <Make_Zombie70Serum.description>좀비혈청 70%를 만듭니다.</Make_Zombie70Serum.description>
+  <Make_Zombie70Serum.jobString>좀비혈청 70% 만드는 중.</Make_Zombie70Serum.jobString>
+  <Make_Zombie80Serum.label>좀비혈청 80% 만들기</Make_Zombie80Serum.label>
+  <Make_Zombie80Serum.description>좀비혈청 80%를 만듭니다.</Make_Zombie80Serum.description>
+  <Make_Zombie80Serum.jobString>좀비혈청 80% 만드는 중.</Make_Zombie80Serum.jobString>
+  <Make_Zombie90Serum.label>좀비혈청 90% 만들기</Make_Zombie90Serum.label>
+  <Make_Zombie90Serum.description>좀비혈청 90%를 만듭니다.</Make_Zombie90Serum.description>
+  <Make_Zombie90Serum.jobString>좀비혈청 90% 만드는 중.</Make_Zombie90Serum.jobString>
+  <Make_Zombie100Serum.label>좀비혈청 100% 만들기</Make_Zombie100Serum.label>
+  <Make_Zombie100Serum.description>좀비혈청 100%를 만듭니다.</Make_Zombie100Serum.description>
+  <Make_Zombie100Serum.jobString>좀비혈청 100% 만드는 중.</Make_Zombie100Serum.jobString>
+  <CureZombieInfection.label>좀비 감염 치료</CureZombieInfection.label>
+  <CureZombieInfection.description>신체부위에서 초기에 좀비 질병을 제거합니다. 좀비혈청 1개 필요 (비율이 높을수록 실패할 확률 감소)</CureZombieInfection.description>
+  <CureZombieInfection.jobString>좀비 감염 치료 중.</CureZombieInfection.jobString>
+
+</LanguageData>

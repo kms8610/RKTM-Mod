@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <k2_rifle.label>K2</k2_rifle.label>
+  <k2_rifle.description>대한민국의 국방과학연구소에서 개발하고 S＆T 모티브(구. 대우정밀)와 다산기공에서 생산한 한국군의 주력 돌격소총 입니다.</k2_rifle.description>
+  <k2_rifle.tools.0.label>개머리판</k2_rifle.tools.0.label>
+  <k2_rifle.tools.1.label>총열</k2_rifle.tools.1.label>
+  <k1a_SMG.label>K1A</k1a_SMG.label>
+  <k1a_SMG.description>한국군의 제식 기관단총 입니다.</k1a_SMG.description>
+  <k1a_SMG.tools.0.label>개머리판</k1a_SMG.tools.0.label>
+  <k1a_SMG.tools.1.label>총열</k1a_SMG.tools.1.label>
+  <k3_LMG.label>K3</k3_LMG.label>
+  <k3_LMG.description>S＆T (구 대우정밀) 가 개발/생산한 한국 육군이 사용하는 기관총입니다.</k3_LMG.description>
+  <k3_LMG.tools.0.label>개머리판</k3_LMG.tools.0.label>
+  <k3_LMG.tools.1.label>총열</k3_LMG.tools.1.label>
+  <k5_pistol.label>K5</k5_pistol.label>
+  <k5_pistol.description>대한민국의 군수업체 S＆T 모티브의 전신인 대우정밀공업이 1984년부터 개발한 9mm 구경의 한국군 제식 자동권총입니다.</k5_pistol.description>
+  <k5_pistol.tools.0.label>개머리판</k5_pistol.tools.0.label>
+  <k5_pistol.tools.1.label>총열</k5_pistol.tools.1.label>
+  <k14_sniperrifle.label>K14</k14_sniperrifle.label>
+  <k14_sniperrifle.description>2011년 3월 본격 설계에 들어가 2년여 만인 2013년에 개발을 완료, 한국군에서 동일 연도부터 도입을 시작한 볼트액션식 저격 소총입니다.</k14_sniperrifle.description>
+  <k14_sniperrifle.tools.0.label>개머리판</k14_sniperrifle.tools.0.label>
+  <k14_sniperrifle.tools.1.label>총열</k14_sniperrifle.tools.1.label>
+  <k2C_rifle.label>K2C</k2C_rifle.label>
+  <k2C_rifle.description>수출용으로 개발된 K2의 카빈 버전입니다. 총열이 465mm 에서 310mm 로 단축되었고, 소염기는 K11에 사용되는 형태로 교체, M4 계열에 쓰이는 6단 조절식 개머리판의 복제판을 장착했으며, 원본의 심각하게 낮은 확장성을 개선하기 위해 피카티니 레일이 일체화된 총열 덮개가 장착되었습니다.</k2C_rifle.description>
+  <k2C_rifle.tools.0.label>개머리판</k2C_rifle.tools.0.label>
+  <k2C_rifle.tools.1.label>총열</k2C_rifle.tools.1.label>
+  <k12_LMG.label>K12</k12_LMG.label>
+  <k12_LMG.description>S＆T 모티브에서 개발한 한국군의 차기 다목적 기관총입니다.</k12_LMG.description>
+  <k12_LMG.tools.0.label>개머리판</k12_LMG.tools.0.label>
+  <k12_LMG.tools.1.label>총열</k12_LMG.tools.1.label>
+  <Apparel_RokMilitaryhelmet.label>한국군 방탄모</Apparel_RokMilitaryhelmet.label>
+  <Apparel_RokMilitaryhelmet.description>한국군이 사용하는 방탄모입니다.</Apparel_RokMilitaryhelmet.description>
+  <Apparel_RokMilitaryuniform.label>한국군 군복</Apparel_RokMilitaryuniform.label>
+  <Apparel_RokMilitaryuniform.description>한국군의 군복입니다.</Apparel_RokMilitaryuniform.description>
+  <ROK_Raincoat.label>한국군 판초우의</ROK_Raincoat.label>
+  <ROK_Raincoat.description>비를 막고, 야외의 모래를 털어내며, 때로는 멋있게 보이기 위한 긴 우비입니다.</ROK_Raincoat.description>
+  <Turret_K6MG.label>K6 중기관총</Turret_K6MG.label>
+  <Turret_K6MG.description>K6 중기관총 터렛입니다 사용에 어려움은 없지만 아군오사에 주의하십시요.</Turret_K6MG.description>
+  <Bullet_k6MG.label>.50 BMG 총알</Bullet_k6MG.label>
+  <Gun_k6MG.label>K6 중기관총 상부</Gun_k6MG.label>
+  <Gun_k6MG.description>이걸보고잇다면 디버거이시겟군요 모드 써주셔서 감사합니다 XD</Gun_k6MG.description>
+  <Turret_k4GL.label>k4 고속유탄 발사기</Turret_k4GL.label>
+  <Turret_k4GL.description>k4 고속유탄발사기 입니다. 사용하기 어려움은 없지만 아군오사와 방사피해에 주의하십시요.</Turret_k4GL.description>
+  <Bullet_k4GL.label>40×53mm 유탄</Bullet_k4GL.label>
+  <Gun_k4GL.label>k4 고속유탄발사기 상부</Gun_k4GL.label>
+  <Turret_81mmmoter.label>KM-187</Turret_81mmmoter.label>
+  <Turret_81mmmoter.description>KM-187 박격포로 대한민국 국군에서 M29를 대체한 박격포로 전체 중량을 구형 M29A1보다 약 500g 정도 감소시키면서 무게 구성을 기존의 포다리에서 포열로 많이 이동시켰다. 최대사거리를 대략 4,700m에서 6,400m로 약 1.4배 연장하였으며 지속 발사속도가 25% 증가되고, 피해 반경은 50m에서 70m로, 살상 반경도 대략 30m에서 40m로 약 1.36배 커지는 등 전체적으로 성능이 향상되었다.</Turret_81mmmoter.description>
+  <Artillery_81mmmoter.label>KM-187</Artillery_81mmmoter.label>
+  <Artillery_81mmmoter.description>이걸보고잇다면 디버거이시겟군요 모드 써주셔서 감사합니다 XD</Artillery_81mmmoter.description>
+  <ROKA_vest.label>한국군 다목적 방탄복</ROKA_vest.label>
+  <ROKA_vest.description>한국군에서 사용중인 다목적 방탄복 입니다. 기존 한국군 방탄복에 비해 다목적 방탄복은 육군 현용방탄복 대비 파편탄 방호기준이 90m/s 이상 증가되고 방탄복 직격탄 기준이 3A급으로 추가되었으며, 전면 방탄판(30)의 성능은 NIJ 3급 이상의 방호성능을 보유한 것을 확인할 수 있다.</ROKA_vest.description>
+
+</LanguageData>

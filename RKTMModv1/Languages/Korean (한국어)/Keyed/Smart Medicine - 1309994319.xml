@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TD.SettingDoctorInv>의사 소지품의 의약품 사용</TD.SettingDoctorInv>
+  <TD.SettingPatientInv>환자 소지품의 의약품 사용</TD.SettingPatientInv>
+  <TD.SettingNearby>... 하지만 근처 의약품을 사용함 (동일한 품질인 경우)</TD.SettingNearby>
+  <TD.SettingNearbyDesc>이것은 또한 환자에게 가는 경로에 의약품이 있는지 확인합니다 (실제 경로가 아닌 대략적인 거리를 기준으로 함)</TD.SettingNearbyDesc>
+  <TD.SettingNearbyDist>근처 의약품을 가지러 가는 거리</TD.SettingNearbyDist>
+  <TD.SpacesFormat>공간 {0:0}</TD.SpacesFormat>
+  <TD.SettingNearbyDistDesc>이것은 의약품 보유에 대한 설정일뿐입니다. 재고 의약품이 없는 경우 의약품을 보유하기 위해 지도 끝까지 걸어갑니다.</TD.SettingNearbyDistDesc>
+  <TD.SettingOtherInv>근처 정착민의 소지품에서 의약품을 꺼내서 사용함</TD.SettingOtherInv>
+  <TD.SettingAnimalInv>근처 동물의 소지품에서 의약품을 꺼내서 사용함</TD.SettingAnimalInv>
+  <TD.SettingOtherAnyDist>... 아무리 멀리 떨어져 있어도</TD.SettingOtherAnyDist>
+  <TD.SettingOtherAnyDistDesc>멀리 있는 다른 사람한테서도 더 나은 의약품이 있는지 확인하지만, 거리에 따른 대가를 치를 수 있습니다.</TD.SettingOtherAnyDistDesc>
+  <TD.SettingOtherDist>꺼내기 위해 걷는 거리</TD.SettingOtherDist>
+  <TD.SettingMinimal>급하지 않은 치료에는 최소한의 의약품만 사용</TD.SettingMinimal>
+  <TD.SettingMinimalDesc>출혈, 감염 가능성 또는 영구적인 영향을 미치는 모든 질병 또는 부상에만 긴급치료로 귀중한 의약품을 사용합니다.</TD.SettingMinimalDesc>
+  <TD.SettingNoMed>급하지 않은 치료에는 의약품을 사용하지 않음</TD.SettingNoMed>
+  <TD.SettingNoMedDesc>위와 비슷하지만, 의약품 없이, 매 상처를 한 번에 하나씩만 치료합니다.</TD.SettingNoMedDesc>
+  <TD.SettingMedicineGoodEnough>... 충분한 의약품을 포함하세요:</TD.SettingMedicineGoodEnough>
+  <TD.SettingStockUp>의약품 &amp; 약물 소지</TD.SettingStockUp>
+  <TD.SettingStockUpDesc>재고 설정은 정착민의 장비 항목에 있습니다.</TD.SettingStockUpDesc>
+  <TD.SettingFieldTendingNoBeds>침대가 없을 경우에도 의사가 환자를 치료함</TD.SettingFieldTendingNoBeds>
+  <TD.SettingFieldTendingNoBedsDesc>해당 환자는 반드시 휴식, 탈진 또는 이송 중이어야 합니다.</TD.SettingFieldTendingNoBedsDesc>
+  <TD.SettingFieldTendingAlways>의사는 침대 유무에 상관없이 항상 치료할 수 있음</TD.SettingFieldTendingAlways>
+  <TD.SettingFieldTendingAlwaysDesc>정착민들은 침대에 우선 순위를 두지만, 환자를 그 자리에서 옮기지 않게 방침을 정할 수도 있습니다.</TD.SettingFieldTendingAlwaysDesc>
+  <TD.SmartMedicine>현명한 약 처방</TD.SmartMedicine>
+  <TD.StockUpSettings>저장 설정</TD.StockUpSettings>
+  <TD.StockUpSettingsForPawn>{0}의 저장 설정</TD.StockUpSettingsForPawn>
+  <TD.ClearStockUp>모든 저장 설정 제거</TD.ClearStockUp>
+  <TD.CancelCopyStockUp>{0}의 저장 설정 복사 취소</TD.CancelCopyStockUp>
+  <TD.CopyStockUpFrom>{0}의 저장 설정 복사</TD.CopyStockUpFrom>
+  <TD.SettingsMedicineGoodEnoughDesc>예를 들면, 만약 생약이 보통 90%의 효율을 보인다면, 생약을 대신 사용합니다.</TD.SettingsMedicineGoodEnoughDesc>
+  <TD.SettingStockUpEnough>충분한 수량이 있는 경우에만 재고를 확보</TD.SettingStockUpEnough>
+  <TD.SettingStockUpEnoughDesc>예를 들어 150%일 때는, 모든 사람이 최대 100%를 가지고도, 추가로 50%의 재고가 더 있어야 합니다.</TD.SettingStockUpEnoughDesc>
+  <TD.SettingStockUpReturn>사용하기에 충분하지 않다면 물품을 되돌려놓음</TD.SettingStockUpReturn>
+  <TD.Paused>일시중지</TD.Paused>
+  <TD.NotEnoughStockUp>저장공간이 충분하지 않습니다.</TD.NotEnoughStockUp>
+  <TD.SettingGlobalSurgeryUnlimited>새 게임의 기본 의약품 설정을 '수술할 때 최고 사용'으로 설정</TD.SettingGlobalSurgeryUnlimited>
+  <TD.SettingGlobalSurgeryUnlimitedDesc>게임 중에 이 설정은 적용되지 않습니다. 새로운 정착지 주민에 대한 기본값은 건강 항목에서 볼 수 있는 다른 의료 기본값과 함께 있습니다.</TD.SettingGlobalSurgeryUnlimitedDesc>
+  <TD.DefaultSurgeryUnlimited>수술은 가능하면, 최고 품질의 의약품을 사용</TD.DefaultSurgeryUnlimited>
+  <TD.PawnSettingSurgeryUnlimited>수술할 때 최고의 의약품 사용</TD.PawnSettingSurgeryUnlimited>
+  <TD.DefaultCare>기본 치료</TD.DefaultCare>
+  <TD.RemoveTempTendDesc>이것을 제거하십시오 (사용하지 않고 머무르는 경우)</TD.RemoveTempTendDesc>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PFVaultFaction.label>볼트 거주민</PFVaultFaction.label>
+  <PFVaultFaction.description>지난 과거를 황폐화시킨 대전쟁이나 그 이전부터 이들의 조상들은 볼트로 모여들어 유전적으로 순수한 인간들의 공동체로 발전했습니다.\n수세기동안 지하에 격리되었던 볼트의 불신이 많은 거주민들이, 오염된 지상의 불법 거주자들과 상호작용하며 방치되었던 볼트의 남은 자원이나 외부 공급 업자들에게서 구할 수 있는 생필품이 필요함에 따라 볼트를 개방하게 되었습니다.\n그들은 대전쟁 이전부터 조심스레 준비를 해오거나 외부상인들로부터 구입을 했었던 합성원단의 의상과 점프슈트 그리고 화약무기나 레이저 무기들을 갖췄습니다.</PFVaultFaction.description>
+  <PFVaultFaction.pawnsPlural>볼트 거주민</PFVaultFaction.pawnsPlural>
+  <PFVaultFaction.leaderTitle>오버시어</PFVaultFaction.leaderTitle>
+
+</LanguageData>

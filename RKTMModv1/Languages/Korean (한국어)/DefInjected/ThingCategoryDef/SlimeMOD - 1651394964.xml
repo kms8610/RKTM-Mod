@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Syulipia_Root.label>이세계의 아이템</Syulipia_Root.label>
+  <Syulipia_Foods.label>음식</Syulipia_Foods.label>
+  <Syulipia_Item.label>상품</Syulipia_Item.label>
+  <Syulipia_Apparel.label>장비품</Syulipia_Apparel.label>
+  <Syulipia_Cuisine.label>요리</Syulipia_Cuisine.label>
+  <Syulipia_Furniture.label>가구</Syulipia_Furniture.label>
+  <Syulipia_Textiles.label>피부-천-나무</Syulipia_Textiles.label>
+  <Syulipia_Resource.label>금속-석재</Syulipia_Resource.label>
+  <Syulipia_Dress.label>의류</Syulipia_Dress.label>
+  <Syulipia_Weapon.label>무기</Syulipia_Weapon.label>
+  <Syulipia_Armor.label>방어구</Syulipia_Armor.label>
+  <Syulipia_Accessory.label>장식품</Syulipia_Accessory.label>
+  <Syulipia_Eggs.label>유정란</Syulipia_Eggs.label>
+
+</LanguageData>

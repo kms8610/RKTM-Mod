@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RB_BeeHoneyCombProduction>벌집 생산</RB_BeeHoneyCombProduction>
+  <RB_Organic_Drone_Tag>유기체 일벌</RB_Organic_Drone_Tag>
+  <RB_Hybernating_Drone_Tag>겨울잠벌 일벌</RB_Hybernating_Drone_Tag>
+  <RB_Cattle_Drone_Tag>소벌 일벌</RB_Cattle_Drone_Tag>
+  <RB_Clucking_Drone_Tag>꼬꼬벌 일벌</RB_Clucking_Drone_Tag>
+  <RB_Exploding_Drone_Tag>폭발벌 일벌</RB_Exploding_Drone_Tag>
+  <RB_Horned_Drone_Tag>뿔벌 일벌</RB_Horned_Drone_Tag>
+  <RB_Hound_Drone_Tag>사냥개벌 일벌</RB_Hound_Drone_Tag>
+  <RB_Mecha_Drone_Tag>메카벌 일벌</RB_Mecha_Drone_Tag>
+  <RB_Megaspidery_Drone_Tag>큰거미벌 일벌</RB_Megaspidery_Drone_Tag>
+  <RB_Mousy_Drone_Tag>생쥐벌 일벌</RB_Mousy_Drone_Tag>
+  <RB_Purring_Drone_Tag>냥벌 일벌</RB_Purring_Drone_Tag>
+  <RB_Scaly_Drone_Tag>비늘벌 일벌</RB_Scaly_Drone_Tag>
+  <RB_Organic_Queen_Tag>유기체 여왕벌</RB_Organic_Queen_Tag>
+  <RB_Hybernating_Queen_Tag>겨울잠벌 여왕벌</RB_Hybernating_Queen_Tag>
+  <RB_Cattle_Queen_Tag>소벌 일벌</RB_Cattle_Queen_Tag>
+  <RB_Clucking_Queen_Tag>꼬꼬벌 여왕벌</RB_Clucking_Queen_Tag>
+  <RB_Exploding_Queen_Tag>폭발벌 여왕벌</RB_Exploding_Queen_Tag>
+  <RB_Horned_Queen_Tag>뿔벌 여왕벌</RB_Horned_Queen_Tag>
+  <RB_Hound_Queen_Tag>사냥개벌 여왕벌</RB_Hound_Queen_Tag>
+  <RB_Mecha_Queen_Tag>메카벌 여왕벌</RB_Mecha_Queen_Tag>
+  <RB_Megaspidery_Queen_Tag>큰거미벌 여왕벌</RB_Megaspidery_Queen_Tag>
+  <RB_Mousy_Queen_Tag>생쥐벌 여왕벌</RB_Mousy_Queen_Tag>
+  <RB_Purring_Queen_Tag>냥벌 여왕벌</RB_Purring_Queen_Tag>
+  <RB_Scaly_Queen_Tag>비늘벌 여왕벌</RB_Scaly_Queen_Tag>
+
+</LanguageData>

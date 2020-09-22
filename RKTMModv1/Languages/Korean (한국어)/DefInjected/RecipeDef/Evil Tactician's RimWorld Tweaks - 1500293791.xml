@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ET_MakeNeutroamine.label>뉴트로아민 제작</ET_MakeNeutroamine.label>
+  <ET_MakeNeutroamine.description>뉴트로아민을 만듭니다.</ET_MakeNeutroamine.description>
+  <ET_MakeNeutroamine.jobString>뉴트로아민 제작 중.</ET_MakeNeutroamine.jobString>
+  <ET_MakeLuciferium.label>루시페륨 제작</ET_MakeLuciferium.label>
+  <ET_MakeLuciferium.description>루시페륨을 만듭니다.</ET_MakeLuciferium.description>
+  <ET_MakeLuciferium.jobString>루시페륨 제작 중.</ET_MakeLuciferium.jobString>
+  <ET_Make5Neutroamine.label>뉴트로아민 5개 제작</ET_Make5Neutroamine.label>
+  <ET_Make5Neutroamine.description>뉴트로아민 5개를 만듭니다.</ET_Make5Neutroamine.description>
+  <ET_Make5Neutroamine.jobString>뉴트로아민 5개 제작 중.</ET_Make5Neutroamine.jobString>
+  <ET_Make5Luciferium.label>루시페륨 5개 제작</ET_Make5Luciferium.label>
+  <ET_Make5Luciferium.description>루시페륨 5개를 만듭니다.</ET_Make5Luciferium.description>
+  <ET_Make5Luciferium.jobString>루시페륨 5개 만드는 중.</ET_Make5Luciferium.jobString>
+  <ET_MakeUltratech.label>번화계 약품 제작</ET_MakeUltratech.label>
+  <ET_MakeUltratech.description>번화계 약품을 만듭니다.</ET_MakeUltratech.description>
+  <ET_MakeUltratech.jobString>번화계 약품 제작 중.</ET_MakeUltratech.jobString>
+  <ET_Make5Flake.label>플레이크 5개 제작</ET_Make5Flake.label>
+  <ET_Make5Flake.description>플레이크 5개를 만듭니다.</ET_Make5Flake.description>
+  <ET_Make5Flake.jobString>플레이크 5개 제작 중.</ET_Make5Flake.jobString>
+  <ET_Make5Yayo.label>야요 5개 제작</ET_Make5Yayo.label>
+  <ET_Make5Yayo.description>야요 5개를 만듭니다.</ET_Make5Yayo.description>
+  <ET_Make5Yayo.jobString>야요 5개 제작 중.</ET_Make5Yayo.jobString>
+  <ET_Make5SmokeleafJoints.label>연초 5개 제작</ET_Make5SmokeleafJoints.label>
+  <ET_Make5SmokeleafJoints.description>연초 5개를 만듭니다.</ET_Make5SmokeleafJoints.description>
+  <ET_Make5SmokeleafJoints.jobString>연초 5개 제작 중.</ET_Make5SmokeleafJoints.jobString>
+  <ET_Make5PsychiteTeas.label>광이차 5개 제작</ET_Make5PsychiteTeas.label>
+  <ET_Make5PsychiteTeas.description>광이차를 만듭니다.</ET_Make5PsychiteTeas.description>
+  <ET_Make5PsychiteTeas.jobString>광이차 5개 제작 중.</ET_Make5PsychiteTeas.jobString>
+  <ET_Make_Plasteel.label>플라스틸 정제</ET_Make_Plasteel.label>
+  <ET_Make_Plasteel.description>강철과 화학 연료로 플라스틸을 정제합니다.</ET_Make_Plasteel.description>
+  <ET_Make_Plasteel.jobString>플라스틸 정제 중.</ET_Make_Plasteel.jobString>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UseDMScreen.reportString>DM 스크린을 사용해서 캠페인 계획 중</UseDMScreen.reportString>
+  <UseCharacterSheet.reportString>캐릭터 시트를 사용해서 캐릭터로 게임 중</UseCharacterSheet.reportString>
+  <PlayMonopsony.reportString>모노스폴리 게임 중</PlayMonopsony.reportString>
+  <PlaySorcery.reportString>마법, 조합 게임 중</PlaySorcery.reportString>
+  <PlayColonists.reportString>변두리의 식민지 게임 중</PlayColonists.reportString>
+  <PlayDiscrete.reportString>이산 독재자 게임 중</PlayDiscrete.reportString>
+  <PlayOne.reportString>원카드 게임 중</PlayOne.reportString>
+  <PlayTreachery.reportString>배반 게임 중</PlayTreachery.reportString>
+
+</LanguageData>

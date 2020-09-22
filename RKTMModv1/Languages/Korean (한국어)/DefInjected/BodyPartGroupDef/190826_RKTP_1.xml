@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1498573216_181028_Polarisbloc - Mechenemy-->
+  <Vanya_DroidTrack.label>무한궤도</Vanya_DroidTrack.label>
+  <Vanya_ConsciousnessCube.label>의식관</Vanya_ConsciousnessCube.label>
+  <Vanya_DroidLBFoot.label>왼쪽 앞발</Vanya_DroidLBFoot.label>
+  <Vanya_DroidRBFoot.label>오른쪽 앞발</Vanya_DroidRBFoot.label>
+  <Vanya_DroidJaw.label>기계식 턱</Vanya_DroidJaw.label>
+  <Vanya_DroidManipulationTool.label>제어판</Vanya_DroidManipulationTool.label>
+  <Vanya_DroidPowerCore.label>전력 핵</Vanya_DroidPowerCore.label>
+  <Vanya_DroidHub.label>바퀴축</Vanya_DroidHub.label>
+
+  <!--725576127_190626_Glitter Tech-->
+  <Claws.label>손톱</Claws.label>
+
+  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
+  <ROM_BodyAttackTool.label>몸체</ROM_BodyAttackTool.label>
+  <ROM_Wings.label>쌍날개</ROM_Wings.label>
+  <ROM_Claws.label>발톱</ROM_Claws.label>
+  <ROM_Hooves.label>발굽</ROM_Hooves.label>
+  <ROM_LeftClaws.label>왼쪽 발톱</ROM_LeftClaws.label>
+  <ROM_Tentacles.label>무거운 촉수</ROM_Tentacles.label>
+  <ROM_Mind.label>압도적인 정신</ROM_Mind.label>
+  <ROM_RightClaws.label>오른쪽 발톱</ROM_RightClaws.label>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Cults_Wings.label>양날개</Cults_Wings.label>
+  <Cults_Claws.label>집게발</Cults_Claws.label>
+  <Cults_Hooves.label>발굽</Cults_Hooves.label>
+  <Cults_Tentacles.label>촉수 덩어리</Cults_Tentacles.label>
+  <Cults_Mind.label>강력한 신경</Cults_Mind.label>
+  <Cults_Stinger.label>독침</Cults_Stinger.label>
+
+  <!--846222458_190818_More Mechanoids-->
+  <MechanicalCoreSkullywag.label>코어</MechanicalCoreSkullywag.label>
+  <MechanicalCoreScoutbot.label>코어</MechanicalCoreScoutbot.label>
+  <FrontLegs.label>앞다리</FrontLegs.label>
+  <FuelContainer.label>연료 탱크</FuelContainer.label>
+  <GunProtrusion.label>내장형 기관총</GunProtrusion.label>
+  <Igniter.label>점화기</Igniter.label>
+  <FrontParalyzeComponent.label>마비 장치</FrontParalyzeComponent.label>
+  <PlasmaCutter.label>플라스마 절단기</PlasmaCutter.label>
+  <CoveredByShield.label>방패</CoveredByShield.label>
+  <MeleeTentacles.label>촉수</MeleeTentacles.label>
+  <Tusk.label>엄니</Tusk.label>
+  <WheelsEnclosure.label>바퀴 보호대</WheelsEnclosure.label>
+
+  <!--918227266_181112_Star Wars - Factions-->
+  <GunnerSeat.label>거너 시트</GunnerSeat.label>
+  <PassengerSeat.label>승객 시트</PassengerSeat.label>
+  <PilotSeat.label>파일럿 시트</PilotSeat.label>
+
+  <!--928992405_190519_1.0_Starship_Troopers_Arachnids-->
+  <InsectNozzle.label>분사구</InsectNozzle.label>
+  <FrontLeftInsectLeg.label>왼쪽 앞 다리</FrontLeftInsectLeg.label>
+  <FrontRightInsectLeg.label>오른쪽 앞 다리</FrontRightInsectLeg.label>
+
+  <!--950475543_190818_Rim of Madness - Arachnophobia-->
+  <ROMA_StingerGroup.label>침</ROMA_StingerGroup.label>
+
+</LanguageData>

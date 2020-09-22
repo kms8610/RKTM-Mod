@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NamerPersonEldarM.rulePack.rulesStrings.0>name->[EldarListA][EldarListB] [EldarListC][EldarListD]</NamerPersonEldarM.rulePack.rulesStrings.0>
+  <NamerPersonEldarM.rulePack.rulesStrings.1>name->[EldarListA][EldarListB] '[EldarListA][EldarListB]' [EldarListC][EldarListD]</NamerPersonEldarM.rulePack.rulesStrings.1>
+  <NamerPersonEldarF.rulePack.rulesStrings.0>name->[EldarListA][EldarListB] [EldarListC][EldarListD]</NamerPersonEldarF.rulePack.rulesStrings.0>
+  <NamerPersonEldarF.rulePack.rulesStrings.1>name->[EldarListA][EldarListB] '[EldarListC][EldarListD]' [EldarListC][EldarListD]</NamerPersonEldarF.rulePack.rulesStrings.1>
+  <NamerIGCadianBase.rulePack.rulesStrings.0>name->[Impbase] [Impother] [Impdesc]</NamerIGCadianBase.rulePack.rulesStrings.0>
+  <NamerIGCadianBase.rulePack.rulesStrings.1>name->[Impbase] [Impdesc]</NamerIGCadianBase.rulePack.rulesStrings.1>
+  <NamerPersonKrootM.rulePack.rulesStrings.0>name->[KrootA][KrootB][KrootC] [KrootA][KrootB][KrootC]</NamerPersonKrootM.rulePack.rulesStrings.0>
+  <NamerPersonKrootM.rulePack.rulesStrings.1>name->[KrootA][KrootB][KrootC] '[KrootA][KrootB][KrootC]' [KrootA][KrootB][KrootC]</NamerPersonKrootM.rulePack.rulesStrings.1>
+  <NamerPersonKrootM.rulePack.rulesStrings.2>name->[KrootA][KrootB][KrootC] '[KrootN]' [KrootA][KrootB][KrootC]</NamerPersonKrootM.rulePack.rulesStrings.2>
+  <NamerPersonKrootM.rulePack.rulesStrings.3>name->[KrootA][KrootB][KrootC][KrootB] [KrootA][KrootB][KrootC]</NamerPersonKrootM.rulePack.rulesStrings.3>
+  <NamerPersonKrootM.rulePack.rulesStrings.4>name->[KrootA][KrootB][KrootC][KrootB] '[KrootA][KrootB][KrootC]' [KrootA][KrootB][KrootC]</NamerPersonKrootM.rulePack.rulesStrings.4>
+  <NamerPersonKrootM.rulePack.rulesStrings.5>name->[KrootA][KrootB][KrootC][KrootB] '[KrootN]' [KrootA][KrootB][KrootC]</NamerPersonKrootM.rulePack.rulesStrings.5>
+  <NamerPersonKrootM.rulePack.rulesStrings.6>name->[KrootA][KrootB][KrootC] [KrootA][KrootB][KrootC][KrootB]</NamerPersonKrootM.rulePack.rulesStrings.6>
+  <NamerPersonKrootM.rulePack.rulesStrings.7>name->[KrootA][KrootB][KrootC] '[KrootA][KrootB][KrootC]' [KrootA][KrootB][KrootC][KrootB]</NamerPersonKrootM.rulePack.rulesStrings.7>
+  <NamerPersonKrootM.rulePack.rulesStrings.8>name->[KrootA][KrootB][KrootC] '[KrootN]' [KrootA][KrootB][KrootC][KrootB]</NamerPersonKrootM.rulePack.rulesStrings.8>
+  <NamerPersonKrootF.rulePack.rulesStrings.0>name->[KrootA][KrootB][KrootC] [KrootA][KrootB][KrootC]</NamerPersonKrootF.rulePack.rulesStrings.0>
+  <NamerPersonKrootF.rulePack.rulesStrings.1>name->[KrootA][KrootB][KrootC] '[KrootA][KrootB][KrootC]' [KrootA][KrootB][KrootC]</NamerPersonKrootF.rulePack.rulesStrings.1>
+  <NamerPersonKrootF.rulePack.rulesStrings.2>name->[KrootA][KrootB][KrootC] '[KrootN]' [KrootA][KrootB][KrootC]</NamerPersonKrootF.rulePack.rulesStrings.2>
+  <NamerPersonKrootF.rulePack.rulesStrings.3>name->[KrootA][KrootB][KrootC][KrootB] [KrootA][KrootB][KrootC]</NamerPersonKrootF.rulePack.rulesStrings.3>
+  <NamerPersonKrootF.rulePack.rulesStrings.4>name->[KrootA][KrootB][KrootC][KrootB] '[KrootA][KrootB][KrootC]' [KrootA][KrootB][KrootC]</NamerPersonKrootF.rulePack.rulesStrings.4>
+  <NamerPersonKrootF.rulePack.rulesStrings.5>name->[KrootA][KrootB][KrootC][KrootB] '[KrootN]' [KrootA][KrootB][KrootC]</NamerPersonKrootF.rulePack.rulesStrings.5>
+  <NamerPersonKrootF.rulePack.rulesStrings.6>name->[KrootA][KrootB][KrootC] [KrootA][KrootB][KrootC][KrootB]</NamerPersonKrootF.rulePack.rulesStrings.6>
+  <NamerPersonKrootF.rulePack.rulesStrings.7>name->[KrootA][KrootB][KrootC] '[KrootA][KrootB][KrootC]' [KrootA][KrootB][KrootC][KrootB]</NamerPersonKrootF.rulePack.rulesStrings.7>
+  <NamerPersonKrootF.rulePack.rulesStrings.8>name->[KrootA][KrootB][KrootC] '[KrootN]' [KrootA][KrootB][KrootC][KrootB]</NamerPersonKrootF.rulePack.rulesStrings.8>
+  <NamerNecron.rulePack.rulesStrings.0>name->[NecronA][NecronB] [NecronA][NecronB]</NamerNecron.rulePack.rulesStrings.0>
+  <NamerPersonOrk.rulePack.rulesStrings.0>name->[OrkList1][OrkList2][OrkList3][OrkList4][OrkList5] [OrkList4][OrkList5]</NamerPersonOrk.rulePack.rulesStrings.0>
+  <NamerPersonOrk.rulePack.rulesStrings.1>name->[OrkList2][OrkList3][OrkList4][OrkList5] [OrkList4][OrkList5]</NamerPersonOrk.rulePack.rulesStrings.1>
+  <NamerOrkBase.rulePack.rulesStrings.0>name->[OrkFirst] [OrkSecond] [OrkThird]</NamerOrkBase.rulePack.rulesStrings.0>
+  <NamerOrkBase.rulePack.rulesStrings.1>name->[OrkSecond] [OrkThird]</NamerOrkBase.rulePack.rulesStrings.1>
+  <NamerPersonTauM.rulePack.rulesStrings.0>name->[TauSept] [TauPStart][TauPEnd]</NamerPersonTauM.rulePack.rulesStrings.0>
+  <NamerPersonTauM.rulePack.rulesStrings.1>name->[TauSept] '[TauNickname]' [TauPStart][TauPEnd]</NamerPersonTauM.rulePack.rulesStrings.1>
+  <NamerPersonTauF.rulePack.rulesStrings.0>name->[TauSept] [TauPStart][TauPEnd]</NamerPersonTauF.rulePack.rulesStrings.0>
+  <NamerPersonTauF.rulePack.rulesStrings.1>name->[TauSept] '[TauNickname]' [TauPStart][TauPEnd]</NamerPersonTauF.rulePack.rulesStrings.1>
+  <NamerPersonTerranM.rulePack.rulesStrings.0>name->[TerranList2][TerranList3] [TerranList4][TerranList5]</NamerPersonTerranM.rulePack.rulesStrings.0>
+  <NamerPersonTerranM.rulePack.rulesStrings.1>name->[TerranList2][TerranList3] '[TerranList8][TerranList9]' [TerranList4][TerranList5]</NamerPersonTerranM.rulePack.rulesStrings.1>
+  <NamerPersonTerranF.rulePack.rulesStrings.0>name->[TerranList2][TerranList3] [TerranList4][TerranList5]</NamerPersonTerranF.rulePack.rulesStrings.0>
+  <NamerPersonTerranF.rulePack.rulesStrings.1>name->[TerranList2][TerranList3] '[TerranList8][TerranList9]' [TerranList4][TerranList5]</NamerPersonTerranF.rulePack.rulesStrings.1>
+  <NamerPersonVespidM.rulePack.rulesStrings.0>name->[KrootA][KrootB][KrootC] [KrootA][KrootB][KrootC]</NamerPersonVespidM.rulePack.rulesStrings.0>
+  <NamerPersonVespidM.rulePack.rulesStrings.1>name->[KrootA][KrootB][KrootC] '[KrootA][KrootB][KrootC]' [KrootA][KrootB][KrootC]</NamerPersonVespidM.rulePack.rulesStrings.1>
+  <NamerPersonVespidM.rulePack.rulesStrings.2>name->[KrootA][KrootB][KrootC] '[KrootN]' [KrootA][KrootB][KrootC]</NamerPersonVespidM.rulePack.rulesStrings.2>
+  <NamerPersonVespidM.rulePack.rulesStrings.3>name->[KrootA][KrootB][KrootC][KrootB] [KrootA][KrootB][KrootC]</NamerPersonVespidM.rulePack.rulesStrings.3>
+  <NamerPersonVespidM.rulePack.rulesStrings.4>name->[KrootA][KrootB][KrootC][KrootB] '[KrootA][KrootB][KrootC]' [KrootA][KrootB][KrootC]</NamerPersonVespidM.rulePack.rulesStrings.4>
+  <NamerPersonVespidM.rulePack.rulesStrings.5>name->[KrootA][KrootB][KrootC][KrootB] '[KrootN]' [KrootA][KrootB][KrootC]</NamerPersonVespidM.rulePack.rulesStrings.5>
+  <NamerPersonVespidM.rulePack.rulesStrings.6>name->[KrootA][KrootB][KrootC] [KrootA][KrootB][KrootC][KrootB]</NamerPersonVespidM.rulePack.rulesStrings.6>
+  <NamerPersonVespidM.rulePack.rulesStrings.7>name->[KrootA][KrootB][KrootC] '[KrootA][KrootB][KrootC]' [KrootA][KrootB][KrootC][KrootB]</NamerPersonVespidM.rulePack.rulesStrings.7>
+  <NamerPersonVespidM.rulePack.rulesStrings.8>name->[KrootA][KrootB][KrootC] '[KrootN]' [KrootA][KrootB][KrootC][KrootB]</NamerPersonVespidM.rulePack.rulesStrings.8>
+  <NamerPersonVespidF.rulePack.rulesStrings.0>name->[KrootA][KrootB][KrootC] [KrootA][KrootB][KrootC]</NamerPersonVespidF.rulePack.rulesStrings.0>
+  <NamerPersonVespidF.rulePack.rulesStrings.1>name->[KrootA][KrootB][KrootC] '[KrootA][KrootB][KrootC]' [KrootA][KrootB][KrootC]</NamerPersonVespidF.rulePack.rulesStrings.1>
+  <NamerPersonVespidF.rulePack.rulesStrings.2>name->[KrootA][KrootB][KrootC] '[KrootN]' [KrootA][KrootB][KrootC]</NamerPersonVespidF.rulePack.rulesStrings.2>
+  <NamerPersonVespidF.rulePack.rulesStrings.3>name->[KrootA][KrootB][KrootC][KrootB] [KrootA][KrootB][KrootC]</NamerPersonVespidF.rulePack.rulesStrings.3>
+  <NamerPersonVespidF.rulePack.rulesStrings.4>name->[KrootA][KrootB][KrootC][KrootB] '[KrootA][KrootB][KrootC]' [KrootA][KrootB][KrootC]</NamerPersonVespidF.rulePack.rulesStrings.4>
+  <NamerPersonVespidF.rulePack.rulesStrings.5>name->[KrootA][KrootB][KrootC][KrootB] '[KrootN]' [KrootA][KrootB][KrootC]</NamerPersonVespidF.rulePack.rulesStrings.5>
+  <NamerPersonVespidF.rulePack.rulesStrings.6>name->[KrootA][KrootB][KrootC] [KrootA][KrootB][KrootC][KrootB]</NamerPersonVespidF.rulePack.rulesStrings.6>
+  <NamerPersonVespidF.rulePack.rulesStrings.7>name->[KrootA][KrootB][KrootC] '[KrootA][KrootB][KrootC]' [KrootA][KrootB][KrootC][KrootB]</NamerPersonVespidF.rulePack.rulesStrings.7>
+  <NamerPersonVespidF.rulePack.rulesStrings.8>name->[KrootA][KrootB][KrootC] '[KrootN]' [KrootA][KrootB][KrootC][KrootB]</NamerPersonVespidF.rulePack.rulesStrings.8>
+
+</LanguageData>

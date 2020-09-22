@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RadiologyRedoCancerDiagnosis.label>암 재발 진단하기</RadiologyRedoCancerDiagnosis.label>
+  <RadiologyRedoCancerDiagnosis.description>암 재발을 진단합니다.</RadiologyRedoCancerDiagnosis.description>
+  <RadiologyRedoCancerDiagnosis.jobString>암 재발 진단 중.</RadiologyRedoCancerDiagnosis.jobString>
+
+</LanguageData>

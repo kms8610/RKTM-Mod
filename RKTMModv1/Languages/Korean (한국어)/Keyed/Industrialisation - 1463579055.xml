@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ind_SkyDriller_Calling>스카이드릴: 호출하기.</Ind_SkyDriller_Calling>
+  <Ind_SkyDriller_StartDrilling>스카이드릴: 드릴 작업을 시작합니다.</Ind_SkyDriller_StartDrilling>
+  <Ind_SkyDriller_Completed>스카이드릴: 드릴 작업이 완료되었습니다.</Ind_SkyDriller_Completed>
+  <Ind_MustPlaceOnMiningHole>광산 구멍 위에 배치되어야 합니다.</Ind_MustPlaceOnMiningHole>
+  <Ind_MustPlaceOnConcreteSeal>콘크리트 도장에 직접 배치해야합니다.</Ind_MustPlaceOnConcreteSeal>
+
+</LanguageData>

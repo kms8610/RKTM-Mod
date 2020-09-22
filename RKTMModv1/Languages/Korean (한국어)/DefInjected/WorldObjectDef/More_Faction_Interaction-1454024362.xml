@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MFI_FactionWarPeaceTalks.label>평화 협상</MFI_FactionWarPeaceTalks.label>
+  <MFI_FactionWarPeaceTalks.description>평화 협상을 위해 지정된 장소입니다.</MFI_FactionWarPeaceTalks.description>
+  <MFI_AnnualExpoObject.label>연례 박람회</MFI_AnnualExpoObject.label>
+  <MFI_AnnualExpoObject.description>올해 박람회 개최지로 지정된 곳.</MFI_AnnualExpoObject.description>
+  <MFI_MysticalShaman.label>신비로운 주술사</MFI_MysticalShaman.label>
+  <MFI_MysticalShaman.description>신비로운 주술사가 사는 텐트입니다.</MFI_MysticalShaman.description>
+  <MFI_RoadUnderConstruction.label>공사중인 도로</MFI_RoadUnderConstruction.label>
+  <MFI_RoadUnderConstruction.description>공사장</MFI_RoadUnderConstruction.description>
+
+</LanguageData>

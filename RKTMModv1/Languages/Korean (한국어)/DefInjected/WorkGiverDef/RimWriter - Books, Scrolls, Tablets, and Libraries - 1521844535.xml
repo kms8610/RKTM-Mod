@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimWriter_ReturnBooks.label>책 반납</RimWriter_ReturnBooks.label>
+  <RimWriter_ReturnBooks.verb>책 반납</RimWriter_ReturnBooks.verb>
+  <RimWriter_ReturnBooks.gerund>책 반납하는 중</RimWriter_ReturnBooks.gerund>
+  <DoBillsWrite.label>글쓰기</DoBillsWrite.label>
+  <DoBillsWrite.verb>글쓰기</DoBillsWrite.verb>
+  <DoBillsWrite.gerund>글쓰는 중</DoBillsWrite.gerund>
+  <DoBillsPapermaking.label>만들기</DoBillsPapermaking.label>
+  <DoBillsPapermaking.verb>만들기</DoBillsPapermaking.verb>
+  <DoBillsPapermaking.gerund>만드는 중</DoBillsPapermaking.gerund>
+
+</LanguageData>

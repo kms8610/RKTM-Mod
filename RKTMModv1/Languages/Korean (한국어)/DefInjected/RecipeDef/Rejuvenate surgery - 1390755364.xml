@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rejuvenate.label>젊어지는 수술</Rejuvenate.label>
+  <Rejuvenate.description>생체적 나이의 10%만큼 더 어려집니다. 실패할 경우, 현재 나이의 20%만큼 더 늙습니다!</Rejuvenate.description>
+  <Rejuvenate.jobString>수술 중.</Rejuvenate.jobString>
+
+</LanguageData>

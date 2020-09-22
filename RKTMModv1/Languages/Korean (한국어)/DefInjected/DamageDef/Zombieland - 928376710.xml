@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZombieBite.label>좀비에게 물림</ZombieBite.label>
+  <ZombieBite.deathMessage>{0}(이)가 좀비에게 물려 죽었습니다.</ZombieBite.deathMessage>
+  <SuicideBomb.label>자폭</SuicideBomb.label>
+  <SuicideBomb.deathMessage>{0}(이)가 자폭 좀비에게 죽었습니다.</SuicideBomb.deathMessage>
+  <ToxicSplatter.label>독가스</ToxicSplatter.label>
+  <ToxicSplatter.deathMessage>{0}(이)가 죽었습니다.</ToxicSplatter.deathMessage>
+  <ElectricalShock.label>감전</ElectricalShock.label>
+  <ElectricalShock.deathMessage>{0}(이)가 감전사했습니다.</ElectricalShock.deathMessage>
+
+</LanguageData>

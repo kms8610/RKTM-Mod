@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CatToNukos.label>고양이 유전자 변환</CatToNukos.label>
+  <CatToNukos.description>고양이를 냥이로 유전자 변환합니다.</CatToNukos.description>
+  <CatToNukos.jobString>냥이로 변환 중.</CatToNukos.jobString>
+  <CatToNukos.successfullyRemovedHediffMessage>{0}(이)가 {1}(을)를 성공적으로 냥이로 변환시켰습니다.</CatToNukos.successfullyRemovedHediffMessage>
+
+</LanguageData>

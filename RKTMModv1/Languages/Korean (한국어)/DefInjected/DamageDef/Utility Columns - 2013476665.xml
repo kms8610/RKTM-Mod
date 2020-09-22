@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--UTILITY COLUMNS - 2013476665-->
+  <ClaymoreBomb.label>파편 폭발</ClaymoreBomb.label>
+  <ClaymoreBomb.deathMessage>{0}(이)가 파편에 휩쓸려 죽었습니다.</ClaymoreBomb.deathMessage>
+
+</LanguageData>

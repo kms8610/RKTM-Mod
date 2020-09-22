@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StartupImpact>시작시 영향</StartupImpact>
+  <StartupImpact-textures>텍스처 불러오기</StartupImpact-textures>
+  <StartupImpact-audioclips>사운드 불러오기</StartupImpact-audioclips>
+  <StartupImpact-strings>스트링 불러오기</StartupImpact-strings>
+  <StartupImpact-defs-0-load>XML에서 defs 불러오기</StartupImpact-defs-0-load>
+  <StartupImpact-defs-1-create>defs 생성</StartupImpact-defs-1-create>
+  <StartupImpact-load-patches>XML 패치 불러오기</StartupImpact-load-patches>
+  <StartupImpact-patch>XML 패치 적용</StartupImpact-patch>
+  <StartupImpact-constructor>모드의 C# 생성자 실행</StartupImpact-constructor>
+  <StartupImpact-resolve-references>참조 해결</StartupImpact-resolve-references>
+  <StartupImpact-total-mods>모드</StartupImpact-total-mods>
+  <StartupImpact-total-mods-hidden>사용하지 않는 MOD</StartupImpact-total-mods-hidden>
+  <StartupImpact-total-basegame>모드와 직접 연관없음</StartupImpact-total-basegame>
+  <StartupImpact-total-others>측정되지 않음</StartupImpact-total-others>
+  <StartupImpactStartupTime>기동시간: {0}</StartupImpactStartupTime>
+  <StartupImpactStartupMods>모드 실행시 영향: {0}</StartupImpactStartupMods>
+  <StartupImpactStartupNonmods>모드와 직접 연관없음: {0}</StartupImpactStartupNonmods>
+  <StartupImpactSeconds>{0}초</StartupImpactSeconds>
+  <StartupImpactMilliseconds>{0}밀리초</StartupImpactMilliseconds>
+  <StartupImpactProfilerTicksLabel>Environment.TickCount 동작 사용</StartupImpactProfilerTicksLabel>
+  <StartupImpactProfilerTicksTooltip>정확도는 낮지만 신빙성은 높습니다. 다른 옵션은 권장하지 않습니다.</StartupImpactProfilerTicksTooltip>
+  <StartupImpactProfilerStopwatchLabel>초시계 동작 사용</StartupImpactProfilerStopwatchLabel>
+  <StartupImpactProfilerStopwatchTooltip>정확성은 높지만, 많은 시스템에서 작동되지 않을 수 있음 (실제 지나간 시간보다 몇 배나 적은 시간으로 알려줄 수 있습니다).</StartupImpactProfilerStopwatchTooltip>
+  <StartupImpactProfilerDateLabel>DateTime.Now 동작 사용</StartupImpactProfilerDateLabel>
+  <StartupImpactProfilerDateTooltip>정확성은 높지만, 많은 시스템에서 작동되지 않을 수 있습니다.</StartupImpactProfilerDateTooltip>
+  <StartupImpactResolveReferencesLabel>"참조 해결" 시간을 모드에 속성화 합니다.</StartupImpactResolveReferencesLabel>
+  <StartupImpactResolveReferencesTooltip>일부 시스템에 문제가 발생할 수 있습니다.</StartupImpactResolveReferencesTooltip>
+  <StartupImpactFailedMeasuringLoadingTime>(경고: 로딩시간 측정 실패)</StartupImpactFailedMeasuringLoadingTime>
+  <StartupImpactVerinfo>v{0}; 동작: {1}</StartupImpactVerinfo>
+
+</LanguageData>

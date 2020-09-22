@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MechanicalArmor.label>장갑</MechanicalArmor.label>
+  <ArmoredMechanicalCentipedeBodyFirstRing.label>첫 번째 몸체 고리</ArmoredMechanicalCentipedeBodyFirstRing.label>
+  <ArmoredMechanicalCentipedeBodyFirstRing.labelShort>몸체 고리</ArmoredMechanicalCentipedeBodyFirstRing.labelShort>
+  <ArmoredMechanicalCentipedeBodySecondRing.label>두 번째 몸체 고리</ArmoredMechanicalCentipedeBodySecondRing.label>
+  <ArmoredMechanicalCentipedeBodySecondRing.labelShort>몸체 고리</ArmoredMechanicalCentipedeBodySecondRing.labelShort>
+  <ArmoredMechanicalCentipedeBodyThirdRing.label>세 번째 몸체 고리</ArmoredMechanicalCentipedeBodyThirdRing.label>
+  <ArmoredMechanicalCentipedeBodyThirdRing.labelShort>몸체 고리</ArmoredMechanicalCentipedeBodyThirdRing.labelShort>
+  <ArmoredMechanicalCentipedeBodyFourthRing.label>네 번째 몸체 고리</ArmoredMechanicalCentipedeBodyFourthRing.label>
+  <ArmoredMechanicalCentipedeBodyFourthRing.labelShort>몸체 고리</ArmoredMechanicalCentipedeBodyFourthRing.labelShort>
+  <ArmoredMechanicalCentipedeBodyFifthRing.label>다섯 번째 몸체 고리</ArmoredMechanicalCentipedeBodyFifthRing.label>
+  <ArmoredMechanicalCentipedeBodyFifthRing.labelShort>몸체 고리</ArmoredMechanicalCentipedeBodyFifthRing.labelShort>
+  <ArmoredMechanicalCentipedeBodySixthRing.label>여섯 번째 몸체 고리</ArmoredMechanicalCentipedeBodySixthRing.label>
+  <ArmoredMechanicalCentipedeBodySixthRing.labelShort>몸체 고리</ArmoredMechanicalCentipedeBodySixthRing.labelShort>
+  <AdvMechanicalCentipedeBodyFirstRing.label>첫 번째 몸체 고리</AdvMechanicalCentipedeBodyFirstRing.label>
+  <AdvMechanicalCentipedeBodyFirstRing.labelShort>몸체 고리</AdvMechanicalCentipedeBodyFirstRing.labelShort>
+  <AdvMechanicalCentipedeBodySecondRing.label>두 번째 몸체 고리</AdvMechanicalCentipedeBodySecondRing.label>
+  <AdvMechanicalCentipedeBodySecondRing.labelShort>몸체 고리</AdvMechanicalCentipedeBodySecondRing.labelShort>
+  <AdvMechanicalCentipedeBodyThirdRing.label>세 번째 몸체 고리</AdvMechanicalCentipedeBodyThirdRing.label>
+  <AdvMechanicalCentipedeBodyThirdRing.labelShort>몸체 고리</AdvMechanicalCentipedeBodyThirdRing.labelShort>
+  <AdvMechanicalCentipedeBodyFourthRing.label>네 번째 몸체 고리</AdvMechanicalCentipedeBodyFourthRing.label>
+  <AdvMechanicalCentipedeBodyFourthRing.labelShort>몸체 고리</AdvMechanicalCentipedeBodyFourthRing.labelShort>
+  <AdvMechanicalCentipedeBodyFifthRing.label>다섯 번째 몸체 고리</AdvMechanicalCentipedeBodyFifthRing.label>
+  <AdvMechanicalCentipedeBodyFifthRing.labelShort>몸체 고리</AdvMechanicalCentipedeBodyFifthRing.labelShort>
+  <AdvMechanicalCentipedeBodySixthRing.label>여섯 번째 몸체 고리</AdvMechanicalCentipedeBodySixthRing.label>
+  <AdvMechanicalCentipedeBodySixthRing.labelShort>몸체 고리</AdvMechanicalCentipedeBodySixthRing.labelShort>
+  <AdvMechanicalHead.label>머리</AdvMechanicalHead.label>
+  <MechShield.label>장갑</MechShield.label>
+
+</LanguageData>

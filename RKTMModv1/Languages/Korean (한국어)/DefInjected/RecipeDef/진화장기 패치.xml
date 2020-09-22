@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVO_InstallEvolvedSecondaryHeart.label>진화된 두번째 심장 이식</EVO_InstallEvolvedSecondaryHeart.label>
+  <EVO_InstallEvolvedSecondaryHeart.description>진화된 두번째 심장을 이식합니다.</EVO_InstallEvolvedSecondaryHeart.description>
+  <EVO_InstallEvolvedSecondaryHeart.jobString>진화된 두번째 심장 이식 중.</EVO_InstallEvolvedSecondaryHeart.jobString>
+  <EVO_InstallEvolvedPrimaryHeart.label>진화된 첫번째 심장 이식</EVO_InstallEvolvedPrimaryHeart.label>
+  <EVO_InstallEvolvedPrimaryHeart.description>진화된 첫번째 심장을 이식합니다.</EVO_InstallEvolvedPrimaryHeart.description>
+  <EVO_InstallEvolvedPrimaryHeart.jobString>진화된 첫번째 심장 이식 중.</EVO_InstallEvolvedPrimaryHeart.jobString>
+  <EVO_InstallEvolvedKidney.label>진화된 신장 이식</EVO_InstallEvolvedKidney.label>
+  <EVO_InstallEvolvedKidney.description>진화된 신장을 이식합니다.</EVO_InstallEvolvedKidney.description>
+  <EVO_InstallEvolvedKidney.jobString>진화된 신장 이식 중.</EVO_InstallEvolvedKidney.jobString>
+  <EVO_InstallEvolvedLung.label>진화된 폐 이식</EVO_InstallEvolvedLung.label>
+  <EVO_InstallEvolvedLung.description>진화된 폐를 이식합니다.</EVO_InstallEvolvedLung.description>
+  <EVO_InstallEvolvedLung.jobString>진화된 폐 이식 중.</EVO_InstallEvolvedLung.jobString>
+  <EVO_InstallEvolvedJaw.label>진화된 턱 이식</EVO_InstallEvolvedJaw.label>
+  <EVO_InstallEvolvedJaw.description>진화된 턱을 이식합니다.</EVO_InstallEvolvedJaw.description>
+  <EVO_InstallEvolvedJaw.jobString>진화된 턱 이식 중.</EVO_InstallEvolvedJaw.jobString>
+  <EVO_InstallEvolvedThirdLung.label>진화된 세번째 폐 이식</EVO_InstallEvolvedThirdLung.label>
+  <EVO_InstallEvolvedThirdLung.description>진화된 세번째 폐를 이식합니다.</EVO_InstallEvolvedThirdLung.description>
+  <EVO_InstallEvolvedThirdLung.jobString>진화된 세번째 폐 이식 중.</EVO_InstallEvolvedThirdLung.jobString>
+  <EVO_InstallEvolvedStomach.label>진화된 위 이식</EVO_InstallEvolvedStomach.label>
+  <EVO_InstallEvolvedStomach.description>진화된 위를 이식합니다.</EVO_InstallEvolvedStomach.description>
+  <EVO_InstallEvolvedStomach.jobString>진화된 위 이식 중.</EVO_InstallEvolvedStomach.jobString>
+  <EVO_InstallEvolvedLiver.label>진화된 간 이식</EVO_InstallEvolvedLiver.label>
+  <EVO_InstallEvolvedLiver.description>진화된 간을 이식합니다.</EVO_InstallEvolvedLiver.description>
+  <EVO_InstallEvolvedLiver.jobString>진화된 간 이식 중.</EVO_InstallEvolvedLiver.jobString>
+  <EVO_InstallEvolvedBrain.label>진화된 뇌 이식</EVO_InstallEvolvedBrain.label>
+  <EVO_InstallEvolvedBrain.description>진화된 뇌를 이식합니다.</EVO_InstallEvolvedBrain.description>
+  <EVO_InstallEvolvedBrain.jobString>진화된 뇌 이식 중.</EVO_InstallEvolvedBrain.jobString>
+  <EVO_InstallEvolvedEye.label>진화된 눈 이식</EVO_InstallEvolvedEye.label>
+  <EVO_InstallEvolvedEye.description>진화된 눈을 이식합니다.</EVO_InstallEvolvedEye.description>
+  <EVO_InstallEvolvedEye.jobString>진화된 눈 이식 중.</EVO_InstallEvolvedEye.jobString>
+  <EVO_InstallEvolvedPinions.label>진화된 날개 이식</EVO_InstallEvolvedPinions.label>
+  <EVO_InstallEvolvedPinions.description>진화된 날개를 이식합니다.</EVO_InstallEvolvedPinions.description>
+  <EVO_InstallEvolvedPinions.jobString>진화된 날개 이식 중.</EVO_InstallEvolvedPinions.jobString>
+  <EVO_InstallEvolvedSpine.label>진화된 척추 이식</EVO_InstallEvolvedSpine.label>
+  <EVO_InstallEvolvedSpine.description>진화된 척추를 이식합니다.</EVO_InstallEvolvedSpine.description>
+  <EVO_InstallEvolvedSpine.jobString>진화된 척추 이식 중.</EVO_InstallEvolvedSpine.jobString>
+  <EVO_InstallEvolvedNose.label>진화된 코 이식</EVO_InstallEvolvedNose.label>
+  <EVO_InstallEvolvedNose.description>진화된 코를 이식합니다.</EVO_InstallEvolvedNose.description>
+  <EVO_InstallEvolvedNose.jobString>진화된 코 이식 중.</EVO_InstallEvolvedNose.jobString>
+  <EVO_InstallEvolvedEar.label>진화된 귀 이식</EVO_InstallEvolvedEar.label>
+  <EVO_InstallEvolvedEar.description>진화된 귀를 이식합니다.</EVO_InstallEvolvedEar.description>
+  <EVO_InstallEvolvedEar.jobString>진화된 귀 이식 중.</EVO_InstallEvolvedEar.jobString>
+  <EVO_InstallEvolvedRibcage.label>진화된 갈비뼈 이식</EVO_InstallEvolvedRibcage.label>
+  <EVO_InstallEvolvedRibcage.description>진화된 갈비뼈를 이식합니다.</EVO_InstallEvolvedRibcage.description>
+  <EVO_InstallEvolvedRibcage.jobString>진화된 갈비뼈 이식 중.</EVO_InstallEvolvedRibcage.jobString>
+  <EVO_InstallEvolvedLeg.label>진화된 다리 이식</EVO_InstallEvolvedLeg.label>
+  <EVO_InstallEvolvedLeg.description>진화된 다리를 이식합니다.</EVO_InstallEvolvedLeg.description>
+  <EVO_InstallEvolvedLeg.jobString>진화된 다리 이식 중.</EVO_InstallEvolvedLeg.jobString>
+  <EVO_InstallEvolvedTail.label>진화된 꼬리 이식</EVO_InstallEvolvedTail.label>
+  <EVO_InstallEvolvedTail.description>진화된 꼬리를 이식합니다.</EVO_InstallEvolvedTail.description>
+  <EVO_InstallEvolvedTail.jobString>진화된 꼬리 이식 중.</EVO_InstallEvolvedTail.jobString>
+  <EVO_InstallEvolvedCombatGlands.label>진화된 전투 분비샘 이식</EVO_InstallEvolvedCombatGlands.label>
+  <EVO_InstallEvolvedCombatGlands.description>진화된 전투 분비샘을 이식합니다.</EVO_InstallEvolvedCombatGlands.description>
+  <EVO_InstallEvolvedCombatGlands.jobString>진화된 전투 분비샘 이식 중.</EVO_InstallEvolvedCombatGlands.jobString>
+  <EVO_InstallEvolvedLarnyx.label>진화된 후두 이식</EVO_InstallEvolvedLarnyx.label>
+  <EVO_InstallEvolvedLarnyx.description>진화된 후두를 이식합니다.</EVO_InstallEvolvedLarnyx.description>
+  <EVO_InstallEvolvedLarnyx.jobString>진화된 후두 이식 중.</EVO_InstallEvolvedLarnyx.jobString>
+  <EVO_InstallEvolvedCarapace.label>진화된 갑각 이식</EVO_InstallEvolvedCarapace.label>
+  <EVO_InstallEvolvedCarapace.description>진화된 갑각을 이식합니다.</EVO_InstallEvolvedCarapace.description>
+  <EVO_InstallEvolvedCarapace.jobString>진화된 갑각 이식 중.</EVO_InstallEvolvedCarapace.jobString>
+  <EVO_InstallEvolvedPelt.label>진화된 가죽 이식</EVO_InstallEvolvedPelt.label>
+  <EVO_InstallEvolvedPelt.description>이 세포는 진화된 가죽으로 자라기 위해서 대상자의 하체 진피에 이식됩니다.</EVO_InstallEvolvedPelt.description>
+  <EVO_InstallEvolvedPelt.jobString>진화된 가죽 이식 중.</EVO_InstallEvolvedPelt.jobString>
+  <EVO_InstallEvolvedFilter.label>정신 필터 이식</EVO_InstallEvolvedFilter.label>
+  <EVO_InstallEvolvedFilter.description>대상자의 두개골로 들어오는 정신파동을 걸러내주는 조직을 이식합니다.</EVO_InstallEvolvedFilter.description>
+  <EVO_InstallEvolvedFilter.jobString>정신 필터 이식 중.</EVO_InstallEvolvedFilter.jobString>
+  <EVO_InstallEmpathicResonator.label>공감 공진기 이식</EVO_InstallEmpathicResonator.label>
+  <EVO_InstallEmpathicResonator.description>공감적인 제안을 통해 정신적인 조작을 가할 수 있는 조직입니다. 폰의 언어적, 비언어적 사회능력과 동물 상호작용 결과를 향상시켜줍니다.</EVO_InstallEmpathicResonator.description>
+  <EVO_InstallEmpathicResonator.jobString>공감 공진기 이식 중.</EVO_InstallEmpathicResonator.jobString>
+  <EVO_InstallImmortalOrgan.label>라의 공포 이식</EVO_InstallImmortalOrgan.label>
+  <EVO_InstallImmortalOrgan.description>폰이 생물학적으로 불멸할 수 있게 나이를 먹지 않게 하는 조직입니다.</EVO_InstallImmortalOrgan.description>
+  <EVO_InstallImmortalOrgan.jobString>라의 공포 이식 중.</EVO_InstallImmortalOrgan.jobString>
+  <EVO_InstallLymphaticProliferator.label>림프 증식자 이식</EVO_InstallLymphaticProliferator.label>
+  <EVO_InstallLymphaticProliferator.description>대상자의 면역력을 높여주는 조직입니다.</EVO_InstallLymphaticProliferator.description>
+  <EVO_InstallLymphaticProliferator.jobString>림프 증식자 이식 중.</EVO_InstallLymphaticProliferator.jobString>
+  <EVO_InstallEvolvedSpider.label>진화된 여분의 다리 클러스터 이식</EVO_InstallEvolvedSpider.label>
+  <EVO_InstallEvolvedSpider.description>진화된 여분의 다리 클러스터을 이식합니다.</EVO_InstallEvolvedSpider.description>
+  <EVO_InstallEvolvedSpider.jobString>진화된 여분의 다리 클러스터 이식 중.</EVO_InstallEvolvedSpider.jobString>
+  <EVO_InstallEvolvedTail_Dragonian.label>진화된 꼬리 이식</EVO_InstallEvolvedTail_Dragonian.label>
+  <EVO_InstallEvolvedTail_Dragonian.description>진화된 꼬리를 이식합니다.</EVO_InstallEvolvedTail_Dragonian.description>
+  <EVO_InstallEvolvedTail_Dragonian.jobString>진화된 꼬리 이식 중.</EVO_InstallEvolvedTail_Dragonian.jobString>
+  <EVO_InstallEvolvedTail_RK.label>진화된 랫킨 꼬리 이식</EVO_InstallEvolvedTail_RK.label>
+  <EVO_InstallEvolvedTail_RK.description>진화된 랫킨 꼬리를 이식합니다.</EVO_InstallEvolvedTail_RK.description>
+  <EVO_InstallEvolvedTail_RK.jobString>진화된 랫킨 꼬리 이식 중.</EVO_InstallEvolvedTail_RK.jobString>
+  <EVO_InstallEvolvedTail_DRNTF.label>진화된 쿠린 꼬리 이식</EVO_InstallEvolvedTail_DRNTF.label>
+  <EVO_InstallEvolvedTail_DRNTF.description>진화된 쿠린 꼬리를 이식합니다.</EVO_InstallEvolvedTail_DRNTF.description>
+  <EVO_InstallEvolvedTail_DRNTF.jobString>진화된 쿠린 꼬리 이식 중.</EVO_InstallEvolvedTail_DRNTF.jobString>
+  <EVO_InstallEvolvedEar_DRNTF.label>진화된 귀 이식</EVO_InstallEvolvedEar_DRNTF.label>
+  <EVO_InstallEvolvedEar_DRNTF.description>진화된 귀를 이식합니다.</EVO_InstallEvolvedEar_DRNTF.description>
+  <EVO_InstallEvolvedEar_DRNTF.jobString>진화된 귀 이식 중.</EVO_InstallEvolvedEar_DRNTF.jobString>
+  <InstallEvolvedReproductiveOrgans.label>진화된 생식기 이식</InstallEvolvedReproductiveOrgans.label>
+  <InstallEvolvedReproductiveOrgans.description>약간 진화된 생식기를 이식합니다.</InstallEvolvedReproductiveOrgans.description>
+  <InstallEvolvedReproductiveOrgans.jobString>진화된 생식기 이식 중.</InstallEvolvedReproductiveOrgans.jobString>
+  <Disassemble_EvolvedChunk.label>진화한 고기 분해</Disassemble_EvolvedChunk.label>
+  <Disassemble_EvolvedChunk.description>의심스러운 윤리 모드가 활성화되어 있으면 더 이상 사용되지 않기 때문에 진화된 고기를 분해합니다.</Disassemble_EvolvedChunk.description>
+  <Disassemble_EvolvedChunk.jobString>진화한 고기 분해 중.</Disassemble_EvolvedChunk.jobString>
+  <Make_Mechanite_Slurry.label>메카나이트 추출</Make_Mechanite_Slurry.label>
+  <Make_Mechanite_Slurry.description>특수 기술을 사용하여 죽은 메카노이드를 구성 부품으로 조심스럽게 분해합니다. 내부의 메카나이트들은 증류수 약병에 추가됩니다.</Make_Mechanite_Slurry.description>
+  <Make_Mechanite_Slurry.jobString>메카나이트 추출 중.</Make_Mechanite_Slurry.jobString>
+  <EVO_InstallEvolvedArm_Primary.label>진화된 팔 이식(첫번째)</EVO_InstallEvolvedArm_Primary.label>
+  <EVO_InstallEvolvedArm_Primary.description>진화된 팔을 이식합니다(첫번째).</EVO_InstallEvolvedArm_Primary.description>
+  <EVO_InstallEvolvedArm_Primary.jobString>진화된 팔 이식 중.</EVO_InstallEvolvedArm_Primary.jobString>
+  <EVO_InstallEvolvedArm_Secondary.label>진화된 팔 이식(두번째)</EVO_InstallEvolvedArm_Secondary.label>
+  <EVO_InstallEvolvedArm_Secondary.description>진화된 팔을 이식합니다(두번째).</EVO_InstallEvolvedArm_Secondary.description>
+  <EVO_InstallEvolvedArm_Secondary.jobString>진화된 팔 이식 중.</EVO_InstallEvolvedArm_Secondary.jobString>
+  <EVO_InstallEvolvedArmClaw_Primary.label>진화된 팔 발톱 이식(첫번째)</EVO_InstallEvolvedArmClaw_Primary.label>
+  <EVO_InstallEvolvedArmClaw_Primary.description>진화된 팔 발톱을 이식합니다(첫번째).</EVO_InstallEvolvedArmClaw_Primary.description>
+  <EVO_InstallEvolvedArmClaw_Primary.jobString>진화된 팔 발톱 이식 중.</EVO_InstallEvolvedArmClaw_Primary.jobString>
+  <EVO_InstallEvolvedArmClaw_Secondary.label>진화된 팔 발톱 이식(두번째)</EVO_InstallEvolvedArmClaw_Secondary.label>
+  <EVO_InstallEvolvedArmClaw_Secondary.description>진화된 팔 발톱을 이식합니다(두번째).</EVO_InstallEvolvedArmClaw_Secondary.description>
+  <EVO_InstallEvolvedArmClaw_Secondary.jobString>진화된 팔 발톱 이식 중.</EVO_InstallEvolvedArmClaw_Secondary.jobString>
+  <EVO_InstallEvolvedArmSabre_Primary.label>진화된 팔 검 이식(첫번째)</EVO_InstallEvolvedArmSabre_Primary.label>
+  <EVO_InstallEvolvedArmSabre_Primary.description>진화된 팔 검을 이식합니다(첫번째).</EVO_InstallEvolvedArmSabre_Primary.description>
+  <EVO_InstallEvolvedArmSabre_Primary.jobString>진화된 팔 검 이식 중.</EVO_InstallEvolvedArmSabre_Primary.jobString>
+  <EVO_InstallEvolvedArmSabre_Secondary.label>진화된 팔 검 이식(두번째)</EVO_InstallEvolvedArmSabre_Secondary.label>
+  <EVO_InstallEvolvedArmSabre_Secondary.description>진화된 팔 검을 이식합니다(두번째).</EVO_InstallEvolvedArmSabre_Secondary.description>
+  <EVO_InstallEvolvedArmSabre_Secondary.jobString>진화된 팔 검 이식 중.</EVO_InstallEvolvedArmSabre_Secondary.jobString>
+  <EVO_InstallEvolvedArmMace_Primary.label>진화된 팔 둔기 이식(첫번째)</EVO_InstallEvolvedArmMace_Primary.label>
+  <EVO_InstallEvolvedArmMace_Primary.description>진화된 팔 둔기를 이식합니다(첫번째).</EVO_InstallEvolvedArmMace_Primary.description>
+  <EVO_InstallEvolvedArmMace_Primary.jobString>진화된 팔 둔기 이식 중.</EVO_InstallEvolvedArmMace_Primary.jobString>
+  <EVO_InstallEvolvedArmMace_Secondary.label>진화된 팔 둔기 이식(두번째)</EVO_InstallEvolvedArmMace_Secondary.label>
+  <EVO_InstallEvolvedArmMace_Secondary.description>진화된 팔 둔기를 이식합니다(두번째).</EVO_InstallEvolvedArmMace_Secondary.description>
+  <EVO_InstallEvolvedArmMace_Secondary.jobString>진화된 팔 둔기 이식 중.</EVO_InstallEvolvedArmMace_Secondary.jobString>
+  <EVO_InstallEvolvedArmTentacle_Primary.label>진화된 촉수(첫번째)</EVO_InstallEvolvedArmTentacle_Primary.label>
+  <EVO_InstallEvolvedArmTentacle_Primary.description>진화된 촉수를 이식합니다(첫번째).</EVO_InstallEvolvedArmTentacle_Primary.description>
+  <EVO_InstallEvolvedArmTentacle_Primary.jobString>진화된 촉수 이식 중.</EVO_InstallEvolvedArmTentacle_Primary.jobString>
+  <EVO_InstallEvolvedArmTentacle_Secondary.label>진화된 촉수(두번째)</EVO_InstallEvolvedArmTentacle_Secondary.label>
+  <EVO_InstallEvolvedArmTentacle_Secondary.description>진화된 촉수를 이식합니다(두번째).</EVO_InstallEvolvedArmTentacle_Secondary.description>
+  <EVO_InstallEvolvedArmTentacle_Secondary.jobString>진화된 촉수 이식 중.</EVO_InstallEvolvedArmTentacle_Secondary.jobString>
+  <EVO_InstallEvolvedArmShield_Primary.label>진화된 팔 방패(첫번째)</EVO_InstallEvolvedArmShield_Primary.label>
+  <EVO_InstallEvolvedArmShield_Primary.description>진화된 팔 방패를 이식합니다(첫번째).</EVO_InstallEvolvedArmShield_Primary.description>
+  <EVO_InstallEvolvedArmShield_Primary.jobString>진화된 팔 이식 중.</EVO_InstallEvolvedArmShield_Primary.jobString>
+  <EVO_InstallEvolvedArmShield_Secondary.label>진화된 팔 방패(두번째)</EVO_InstallEvolvedArmShield_Secondary.label>
+  <EVO_InstallEvolvedArmShield_Secondary.description>진화된 팔 방패를 이식합니다(두번째).</EVO_InstallEvolvedArmShield_Secondary.description>
+  <EVO_InstallEvolvedArmShield_Secondary.jobString>진화된 팔 방패 이식 중.</EVO_InstallEvolvedArmShield_Secondary.jobString>
+  <Make_EvolvedChunk.label>진화된 고기 제작</Make_EvolvedChunk.label>
+  <Make_EvolvedChunk.description>약, 부품, 인간형 단백질을 사용하여 진화된 고기를 제작합니다.</Make_EvolvedChunk.description>
+  <Make_EvolvedChunk.jobString>진화된 고기 제작 중</Make_EvolvedChunk.jobString>
+  <Make_Humanoid_Protein.label>인간형 단백질 정제</Make_Humanoid_Protein.label>
+  <Make_Humanoid_Protein.description>인간형 고기에서 단백질을 정제합니다.</Make_Humanoid_Protein.description>
+  <Make_Humanoid_Protein.jobString>인간형 단백질 정제 중.</Make_Humanoid_Protein.jobString>
+  <Make_EvolvedOrganBase.label>진화된 기초 장기 제작</Make_EvolvedOrganBase.label>
+  <Make_EvolvedOrganBase.description>진화된 기초 장기를 제작합니다.</Make_EvolvedOrganBase.description>
+  <Make_EvolvedOrganBase.jobString>진화된 기초 장기 제작 중.</Make_EvolvedOrganBase.jobString>
+  <Make_EvolvedSecondHeart.label>진화된 두번째 심장 제작</Make_EvolvedSecondHeart.label>
+  <Make_EvolvedSecondHeart.description>진화된 두번째 심장을 제작합니다.</Make_EvolvedSecondHeart.description>
+  <Make_EvolvedSecondHeart.jobString>진화된 두번째 심장 제작 중.</Make_EvolvedSecondHeart.jobString>
+  <Make_EvolvedPrimaryHeart.label>진화된 첫번째 심장 제작</Make_EvolvedPrimaryHeart.label>
+  <Make_EvolvedPrimaryHeart.description>진화된 첫번째 심장을 제작합니다.</Make_EvolvedPrimaryHeart.description>
+  <Make_EvolvedPrimaryHeart.jobString>진화된 첫번째 심장 제작 중.</Make_EvolvedPrimaryHeart.jobString>
+  <Make_EvolvedKidney.label>진화된 신장 제작</Make_EvolvedKidney.label>
+  <Make_EvolvedKidney.description>진화된 신장을 제작합니다.</Make_EvolvedKidney.description>
+  <Make_EvolvedKidney.jobString>진화된 신장 제작 중.</Make_EvolvedKidney.jobString>
+  <Make_EvolvedLung.label>진화된 폐 제작</Make_EvolvedLung.label>
+  <Make_EvolvedLung.description>진화된 폐를 제작합니다.</Make_EvolvedLung.description>
+  <Make_EvolvedLung.jobString>진화된 폐 제작 중.</Make_EvolvedLung.jobString>
+  <Make_EvolvedThirdLung.label>진화된 세번째 폐 제작</Make_EvolvedThirdLung.label>
+  <Make_EvolvedThirdLung.description>진화된 세번째 폐를 제작합니다.</Make_EvolvedThirdLung.description>
+  <Make_EvolvedThirdLung.jobString>진화된 세번째 폐 제작 중.</Make_EvolvedThirdLung.jobString>
+  <Make_EvolvedStomach.label>진화된 위 제작</Make_EvolvedStomach.label>
+  <Make_EvolvedStomach.description>진화된 위를 제작합니다.</Make_EvolvedStomach.description>
+  <Make_EvolvedStomach.jobString>진화된 위 제작 중.</Make_EvolvedStomach.jobString>
+  <Make_EvolvedLiver.label>진화된 간 제작</Make_EvolvedLiver.label>
+  <Make_EvolvedLiver.description>진화된 간을 제작합니다.</Make_EvolvedLiver.description>
+  <Make_EvolvedLiver.jobString>진화된 간 제작 중.</Make_EvolvedLiver.jobString>
+  <Make_EvolvedEye.label>진화된 눈 제작</Make_EvolvedEye.label>
+  <Make_EvolvedEye.description>진화된 눈을 제작합니다.</Make_EvolvedEye.description>
+  <Make_EvolvedEye.jobString>진화된 눈 제작 중.</Make_EvolvedEye.jobString>
+  <Make_EvolvedPinions.label>진화된 날개 제작</Make_EvolvedPinions.label>
+  <Make_EvolvedPinions.description>진화된 날개를 제작합니다.</Make_EvolvedPinions.description>
+  <Make_EvolvedPinions.jobString>진화된 날개 제작 중.</Make_EvolvedPinions.jobString>
+  <Make_EvolvedCombatGlands.label>진화된 전투 분비샘 제작</Make_EvolvedCombatGlands.label>
+  <Make_EvolvedCombatGlands.description>진화된 전투 분비샘을 제작합니다.</Make_EvolvedCombatGlands.description>
+  <Make_EvolvedCombatGlands.jobString>진화된 전투 분비샘 제작 중.</Make_EvolvedCombatGlands.jobString>
+  <Make_EvolvedLeg.label>진화된 다리 제작</Make_EvolvedLeg.label>
+  <Make_EvolvedLeg.description>진화된 다리를 제작합니다.</Make_EvolvedLeg.description>
+  <Make_EvolvedLeg.jobString>진화된 다리 제작 중.</Make_EvolvedLeg.jobString>
+  <Make_EvolvedNose.label>진화된 코 제작</Make_EvolvedNose.label>
+  <Make_EvolvedNose.description>진화된 코를 제작합니다.</Make_EvolvedNose.description>
+  <Make_EvolvedNose.jobString>진화된 코 제작 중.</Make_EvolvedNose.jobString>
+  <Make_EvolvedLarnyx.label>진화된 후두 제작</Make_EvolvedLarnyx.label>
+  <Make_EvolvedLarnyx.description>진화된 후두를 제작합니다.</Make_EvolvedLarnyx.description>
+  <Make_EvolvedLarnyx.jobString>진화된 후두 제작 중.</Make_EvolvedLarnyx.jobString>
+  <Make_EvolvedEar.label>진화된 귀 제작</Make_EvolvedEar.label>
+  <Make_EvolvedEar.description>진화된 귀를 제작합니다.</Make_EvolvedEar.description>
+  <Make_EvolvedEar.jobString>진화된 귀 제작 중.</Make_EvolvedEar.jobString>
+  <Make_EvolvedRibcage.label>진화된 갈비뼈 제작</Make_EvolvedRibcage.label>
+  <Make_EvolvedRibcage.description>진화된 갈비뼈를 제작합니다.</Make_EvolvedRibcage.description>
+  <Make_EvolvedRibcage.jobString>진화된 갈비뼈 제작 중.</Make_EvolvedRibcage.jobString>
+  <Make_EvolvedCarapace.label>진화된 피부 제작</Make_EvolvedCarapace.label>
+  <Make_EvolvedCarapace.description>진화된 피부를 제작합니다.</Make_EvolvedCarapace.description>
+  <Make_EvolvedCarapace.jobString>진화된 피부 제작 중.</Make_EvolvedCarapace.jobString>
+  <Make_EvolvedPelt.label>진화된 가죽 제작</Make_EvolvedPelt.label>
+  <Make_EvolvedPelt.description>진화된 가죽을 제작합니다.</Make_EvolvedPelt.description>
+  <Make_EvolvedPelt.jobString>진화된 가죽 제작 중.</Make_EvolvedPelt.jobString>
+  <Make_EvolvedSpine.label>진화된 척추 제작</Make_EvolvedSpine.label>
+  <Make_EvolvedSpine.description>진화된 척추를 제작합니다.</Make_EvolvedSpine.description>
+  <Make_EvolvedSpine.jobString>진화된 척추 제작 중.</Make_EvolvedSpine.jobString>
+  <Make_EvolvedTail.label>진화된 꼬리 제작</Make_EvolvedTail.label>
+  <Make_EvolvedTail.description>진화된 꼬리를 제작합니다.</Make_EvolvedTail.description>
+  <Make_EvolvedTail.jobString>진화된 꼬리 제작 중.</Make_EvolvedTail.jobString>
+  <Make_EvolvedJaw.label>진화된 턱 제작</Make_EvolvedJaw.label>
+  <Make_EvolvedJaw.description>진화된 턱을 제작합니다.</Make_EvolvedJaw.description>
+  <Make_EvolvedJaw.jobString>진화된 턱 제작 중.</Make_EvolvedJaw.jobString>
+  <Make_EvolvedBrain.label>진화된 뇌 제작</Make_EvolvedBrain.label>
+  <Make_EvolvedBrain.description>진화된 뇌를 제작합니다.</Make_EvolvedBrain.description>
+  <Make_EvolvedBrain.jobString>진화된 뇌 제작 중.</Make_EvolvedBrain.jobString>
+  <Make_EvolvedArm.label>진화된 팔 제작</Make_EvolvedArm.label>
+  <Make_EvolvedArm.description>진화된 팔을 제작합니다.</Make_EvolvedArm.description>
+  <Make_EvolvedArm.jobString>진화된 팔 제작 중.</Make_EvolvedArm.jobString>
+  <Make_EvolvedArmClaw.label>진화된 팔 발톱 제작</Make_EvolvedArmClaw.label>
+  <Make_EvolvedArmClaw.description>진화된 팔 발톱을 제작합니다.</Make_EvolvedArmClaw.description>
+  <Make_EvolvedArmClaw.jobString>진화된 팔 발톱 제작 중.</Make_EvolvedArmClaw.jobString>
+  <Make_EvolvedArmSabre.label>진화된 팔 검 제작</Make_EvolvedArmSabre.label>
+  <Make_EvolvedArmSabre.description>진화된 팔 검을 제작합니다.</Make_EvolvedArmSabre.description>
+  <Make_EvolvedArmSabre.jobString>진화된 팔 검 제작 중.</Make_EvolvedArmSabre.jobString>
+  <Make_EvolvedArmMace.label>진화된 팔 둔기 제작</Make_EvolvedArmMace.label>
+  <Make_EvolvedArmMace.description>진화된 팔 둔기를 제작합니다.</Make_EvolvedArmMace.description>
+  <Make_EvolvedArmMace.jobString>진화된 팔 둔기 제작 중.</Make_EvolvedArmMace.jobString>
+  <Make_EvolvedArmTentacle.label>진화된 팔 촉수 제작</Make_EvolvedArmTentacle.label>
+  <Make_EvolvedArmTentacle.description>진화된 팔 촉수를 제작합니다.</Make_EvolvedArmTentacle.description>
+  <Make_EvolvedArmTentacle.jobString>진화된 팔 촉수 제작 중.</Make_EvolvedArmTentacle.jobString>
+  <Make_EvolvedArmShield.label>진화된 팔 방패 제작</Make_EvolvedArmShield.label>
+  <Make_EvolvedArmShield.description>진화된 팔 방패를 제작합니다.</Make_EvolvedArmShield.description>
+  <Make_EvolvedArmShield.jobString>진화된 팔 방패 제작 중.</Make_EvolvedArmShield.jobString>
+  <Make_EvolvedSpider.label>진화된 여분의 다리 클러스터 제작</Make_EvolvedSpider.label>
+  <Make_EvolvedSpider.description>진화된 여분의 다리 클러스터을 제작합니다.</Make_EvolvedSpider.description>
+  <Make_EvolvedSpider.jobString>진화된 여분의 다리 클러스터 제작 중.</Make_EvolvedSpider.jobString>
+  <Make_EvolvedFilter.label>진화된 정신 필터 제작</Make_EvolvedFilter.label>
+  <Make_EvolvedFilter.description>진화된 정신 필터를 제작합니다.</Make_EvolvedFilter.description>
+  <Make_EvolvedFilter.jobString>진화된 정신 필터 제작 중.</Make_EvolvedFilter.jobString>
+  <Make_ImmortalOrgan.label>라의 공포 제작</Make_ImmortalOrgan.label>
+  <Make_ImmortalOrgan.description>라의 공포를 제작합니다.</Make_ImmortalOrgan.description>
+  <Make_ImmortalOrgan.jobString>라의 공포 제작 중.</Make_ImmortalOrgan.jobString>
+  <Make_LymphaticProliferator.label>림프 증식자 제작</Make_LymphaticProliferator.label>
+  <Make_LymphaticProliferator.description>림프 증식자를 제작합니다.</Make_LymphaticProliferator.description>
+  <Make_LymphaticProliferator.jobString>림프 증식자 제작 중.</Make_LymphaticProliferator.jobString>
+  <Make_EmpathicResonator.label>공감 공진기 제작</Make_EmpathicResonator.label>
+  <Make_EmpathicResonator.description>공감 공진기를 제작합니다.</Make_EmpathicResonator.description>
+  <Make_EmpathicResonator.jobString>공감 공진기 제작 중.</Make_EmpathicResonator.jobString>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PowerConduitSecret_DZ.label>지하 전선</PowerConduitSecret_DZ.label>
+  <PowerConduitSecret_DZ.description>주위에 전력을 전달합니다. 벽이나 다른 건물 아래에 건설할 수 있습니다. 노동력이 많이 듭니다.</PowerConduitSecret_DZ.description>
+  <PowerConduitSecret_DZ_Blueprint.label>지하 전선 (청사진)</PowerConduitSecret_DZ_Blueprint.label>
+  <PowerConduitSecret_DZ_Frame.label>지하 전선 (건설 중)</PowerConduitSecret_DZ_Frame.label>
+  <PowerConduitSecret_DZ_Frame.description>주위에 전력을 전달합니다. 벽이나 다른 건물 아래에 건설할 수 있습니다. 노동력이 많이 듭니다.</PowerConduitSecret_DZ_Frame.description>
+
+</LanguageData>

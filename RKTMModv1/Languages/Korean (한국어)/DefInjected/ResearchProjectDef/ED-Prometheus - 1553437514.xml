@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Research_ED_Prometheus_Fabrication_1.label>제작 레벨 1</Research_ED_Prometheus_Fabrication_1.label>
+  <Research_ED_Prometheus_Fabrication_1.description>제작 장치의 제작을 잠금 해제합니다.</Research_ED_Prometheus_Fabrication_1.description>
+  <Research_ED_Prometheus_Fabrication_2.label>제작 레벨 2 - 옴니젤</Research_ED_Prometheus_Fabrication_2.label>
+  <Research_ED_Prometheus_Fabrication_2.description>제작 2 필요 옴니젤을 슬래그 또는 바위로 변환할 수 있는 MK1 복제기를 제작할 수 있습니다.</Research_ED_Prometheus_Fabrication_2.description>
+  <Research_ED_Prometheus_Fabrication_3.label>제작 레벨 3 - 복제기 MK1</Research_ED_Prometheus_Fabrication_3.label>
+  <Research_ED_Prometheus_Fabrication_3.description>옴니젤을 슬래그 또는 바위로 변환할 수 있는 MK1 복제기를 제작할 수 있습니다.</Research_ED_Prometheus_Fabrication_3.description>
+  <Research_ED_Prometheus_Fabrication_4.label>제작 레벨 4 - 복제기 MK2</Research_ED_Prometheus_Fabrication_4.label>
+  <Research_ED_Prometheus_Fabrication_4.description>옴니젤을 금속 또는 은으로 변환할 수 있는 MK2 복제기를 제작할 수 있습니다.</Research_ED_Prometheus_Fabrication_4.description>
+  <Research_ED_Prometheus_Fabrication_5.label>제작 레벨 5 - 복제기 MK3</Research_ED_Prometheus_Fabrication_5.label>
+  <Research_ED_Prometheus_Fabrication_5.description>옴니젤을 우라늄 또는 약품로 변환할 수 있는 MK3 복제기를 제작할 수 있습니다.</Research_ED_Prometheus_Fabrication_5.description>
+  <Research_ED_Prometheus_Fabrication_6.label>제작 레벨 6 - 분자 강화 압축기</Research_ED_Prometheus_Fabrication_6.label>
+  <Research_ED_Prometheus_Fabrication_6.description>일부 물건의 강화 버전을 추가합니다. 이것은 더 강한 구조를 허용합니다. 강화 재료는 내구력이 10배이지만 제작 시간도 10 배입니다. 강화 재료는 분자 강화 압축기의 10 가지 일반 재료로 만들어집니다. 현재 강화 재료는 강철, 플라스틸, 목재, 석재, 은, 금, 우라늄 및 비취로 만들 수 있습니다.</Research_ED_Prometheus_Fabrication_6.description>
+  <Research_ED_Prometheus_PowerDistribution_1.label>배전 레벨 1</Research_ED_Prometheus_PowerDistribution_1.label>
+  <Research_ED_Prometheus_PowerDistribution_1.description>레이저를 사용하여 지구의 깊은 곳에서 간헐천 구멍을 뚫습니다.</Research_ED_Prometheus_PowerDistribution_1.description>
+  <Research_ED_Prometheus_PowerDistribution_2.label>배전 레벨 2 - 간헐천 드릴</Research_ED_Prometheus_PowerDistribution_2.label>
+  <Research_ED_Prometheus_PowerDistribution_2.description>배전 레벨 2가 필요합니다. 우주선의 무기 시스템을 사용하여 행성 내부에서 간헐천 구멍을 뚫습니다.</Research_ED_Prometheus_PowerDistribution_2.description>
+  <Research_ED_Prometheus_PowerDistribution_3.label>배전 레벨 3 - 우주에서 우주로의 전력 전송</Research_ED_Prometheus_PowerDistribution_3.label>
+  <Research_ED_Prometheus_PowerDistribution_3.description>표준 동력 전달 빔을 사용하여 다른 선박에 공급하여 이익을 줄이거나 무역을 강화할 수 있습니다.</Research_ED_Prometheus_PowerDistribution_3.description>
+  <Research_ED_Prometheus_PowerDistribution_4.label>배전 레벨 4 - 우주에서 지상으로 전력 전송</Research_ED_Prometheus_PowerDistribution_4.label>
+  <Research_ED_Prometheus_PowerDistribution_4.description>지상에 전력을 공급하기 위해 선박에서 전력을 공급할 수 있습니다.</Research_ED_Prometheus_PowerDistribution_4.description>
+  <Research_ED_Prometheus_PowerDistribution_5.label>배전 레벨 5</Research_ED_Prometheus_PowerDistribution_5.label>
+  <Research_ED_Prometheus_PowerDistribution_5.description>.</Research_ED_Prometheus_PowerDistribution_5.description>
+  <Research_ED_Prometheus_Quest_Unlock.label>프로메테우스 퀘스트 잠금 해제</Research_ED_Prometheus_Quest_Unlock.label>
+  <Research_ED_Prometheus_Quest_Unlock.description>참고 : Prometheus Quest Lock이 필요한 연구 프로젝트는 Quest Progression을 통해 잠금 해제됩니다.</Research_ED_Prometheus_Quest_Unlock.description>
+  <Research_ED_Prometheus_AnalyseStrangeSignal.label>이상한 신호 분석</Research_ED_Prometheus_AnalyseStrangeSignal.label>
+  <Research_ED_Prometheus_AnalyseStrangeSignal.description>이상한 신호를 분석하고 메시지에 설명된 EDSN 트랜스 폰더를 작성하는 방법을 찾으십오.</Research_ED_Prometheus_AnalyseStrangeSignal.description>
+  <Research_ED_Prometheus_Shields_1.label>방패 레벨 1 - 방패 생성기</Research_ED_Prometheus_Shields_1.label>
+  <Research_ED_Prometheus_Shields_1.description>자기 차폐장은 모든 발사체를 느리게 하고 증발 지점까지 가열합니다. 원리의 기본은 와상 전류 브레이크이지만 복잡한 시스템을 사용하면 배리어가 방패를 떠나는 발사체를 무시할 수 있습니다.</Research_ED_Prometheus_Shields_1.description>
+  <Research_ED_Prometheus_Shields_2.label>방패 레벨 2 - 업그레이드</Research_ED_Prometheus_Shields_2.label>
+  <Research_ED_Prometheus_Shields_2.description>업그레이드 모듈로 방패를 강화할 수 있습니다.</Research_ED_Prometheus_Shields_2.description>
+  <Research_ED_Prometheus_Shields_3.label>방패 레벨 3-개인 방패</Research_ED_Prometheus_Shields_3.label>
+  <Research_ED_Prometheus_Shields_3.description>양자 가상 입자를 사용하여 식민지 주민과 애완동물을 공격으로부터 보호합니다. 이 양자 입자는 양자 실드 충전 스테이션에서 충전해야 하며 정착지의 전력을 사용합니다.</Research_ED_Prometheus_Shields_3.description>
+  <Research_ED_Prometheus_Transport_1.label>전송 레벨 1</Research_ED_Prometheus_Transport_1.label>
+  <Research_ED_Prometheus_Transport_1.description>운송 시스템</Research_ED_Prometheus_Transport_1.description>
+
+</LanguageData>

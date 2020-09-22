@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_ChemfuelFromFuelpod.label>연료포드에서 화학 연료 만들기</Make_ChemfuelFromFuelpod.label>
+  <Make_ChemfuelFromFuelpod.description>연료포드에서 사용 가능한 화학 연료를 만듭니다.</Make_ChemfuelFromFuelpod.description>
+  <Make_ChemfuelFromFuelpod.jobString>연료 포드에서 화학 연료 추출 중.</Make_ChemfuelFromFuelpod.jobString>
+  <Make_ChemfuelFromOilpeach.label>기름복숭아에서 화학 연료 만들기</Make_ChemfuelFromOilpeach.label>
+  <Make_ChemfuelFromOilpeach.description>기름복숭아를 압착해서 사용 가능한 화학 연료를 추출합니다.</Make_ChemfuelFromOilpeach.description>
+  <Make_ChemfuelFromOilpeach.jobString>기름복숭아에서 화학 연료 추출 중.</Make_ChemfuelFromOilpeach.jobString>
+
+</LanguageData>

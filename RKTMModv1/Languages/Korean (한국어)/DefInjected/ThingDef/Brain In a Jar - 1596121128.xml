@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BrainInAJar.label>뇌 프로세서</BrainInAJar.label>
+  <BrainInAJar.description>이 뇌는 처리된 뇌의 처리 능력을 활용하여 연구 프로젝트의 속도를 +25% 향상시킵니다.\n연구 작업대와 연결할 수 있는 항아리 안에 있는 뇌의 양에는 제한이 없습니다.</BrainInAJar.description>
+  <MiniBrainJar.label>항아리 속의 뇌</MiniBrainJar.label>
+  <MiniBrainJar.description>항아리 속의 뇌! 프로세서의 1/4은 전력의 1/4입니다. 연구 속도가 +6% 증가합니다.</MiniBrainJar.description>
+  <DualBrain.label>듀얼-브레인 프로세서</DualBrain.label>
+  <DualBrain.description>두뇌를 두 배로 늘리고 출력을 두 배로 늘리십시오! 연구 속도가 +75% 증가합니다.</DualBrain.description>
+  <QuadBrain.label>쿼드-브레인 프로세서</QuadBrain.label>
+  <QuadBrain.description>최고의 부스트를 위해 4개의 두뇌를 연결! 연구 속도가 +250% 증가합니다.</QuadBrain.description>
+  <MasterBrain.label>마스터 브레인</MasterBrain.label>
+  <MasterBrain.description>마스터 브레인은 이 모든 것이 영광입니다! 이 싱크 탱크는 이해하기에는 너무 복잡합니다. 연구 속도가 1000% 향상되지만 열이 빨리 발생합니다.</MasterBrain.description>
+  <Brain.label>두뇌</Brain.label>
+  <Brain.description>뇌는 신체에게 어떻게 작동을 하는지 말해줍니다.</Brain.description>
+  <DroneBrain.label>드론 뇌</DroneBrain.label>
+  <DroneBrain.description>인공 두뇌. 자연적인 뇌만큼 동작하지는 못 하지만, 피시술자를 살려둘 수 있습니다. 간신히.</DroneBrain.description>
+  <AugmentedBrain.label>증강 뇌</AugmentedBrain.label>
+  <AugmentedBrain.description>번화계 의료 기술로 강화된 두뇌. 신체에 대한 인식을 높이고 통제력을 향상시킵니다.</AugmentedBrain.description>
+
+</LanguageData>

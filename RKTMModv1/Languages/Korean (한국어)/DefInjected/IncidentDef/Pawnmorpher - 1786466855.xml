@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChaomorphPasses.label>카오모프 패스</ChaomorphPasses.label>
+  <MutagenicShipPartCrash.label>함선 파편 충돌 (돌연변이)</MutagenicShipPartCrash.label>
+  <MutagenicShipPartCrash.letterText>커다란 고대 함선의 파편이 근처에 추락했습니다.
+
+그 파편은 알 수 없는 영향으로 주변 범위안에 있는 모든 식물들을 죽이고, 감염된 림과 동물들에게 돌연변이를 일으킬 것입니다.
+
+가능한한 빨리 제거하세요. 하지만 그 파편은 스스로를 방어할 것입니다.</MutagenicShipPartCrash.letterText>
+  <MutagenicShipPartCrash.letterLabel>돌연변이 함선</MutagenicShipPartCrash.letterLabel>
+  <MutagenicFallout.label>변이 물질 낙진</MutagenicFallout.label>
+  <MutagenicFallout.letterText>멀리 떨어진 알수 없는 곳에서 뮤토나이트 물질을 공기중에 흩뿌리고 있습니다. 그것들은 지금 이 지역을 지나고 있고, 지역 내에 있는 사람이라면 누구나 서서히 돌연변이를 일으키게 되며, 채내에 축적된 뮤토나이트가 늘어남에 따라 돌연변이 피해의 심각성이 증가될 것입니다. 이것은 며칠에서 한 계절까지 지속될 수도 있습니다.</MutagenicFallout.letterText>
+  <MutagenicFallout.letterLabel>Mutagenic fallout</MutagenicFallout.letterLabel>
+  <Disease_Cowflu.label>소변이독감</Disease_Cowflu.label>
+  <Disease_Cowflu.letterText>{1} 중 {0}(이)가 {2}(으)로 인해 병에 걸렸습니다.
+
+돌연변이 안정제가 있는지 확인하십시오. 그렇지 않으면 림들의 동물 병이 더 심해질 수 있습니다.
+
+다음 {1}(이)가 병에 걸렸습니다.:
+
+{3}</Disease_Cowflu.letterText>
+  <Disease_Cowflu.letterLabel>돌연변이(소변이독감)</Disease_Cowflu.letterLabel>
+  <Disease_Foxflu.label>여우변이독감</Disease_Foxflu.label>
+  <Disease_Foxflu.letterText>{1} 중 {0}(이)가 {2}(으)로 인해 병에 걸렸습니다.
+
+돌연변이 안정제가 있는지 확인하십시오. 그렇지 않으면 림들의 동물 병이 더 심해질 수 있습니다.
+
+다음 {1}(이)가 병에 걸렸습니다.:
+
+{3}</Disease_Foxflu.letterText>
+  <Disease_Foxflu.letterLabel>돌연변이(여우변이독감)</Disease_Foxflu.letterLabel>
+  <Disease_Chookflu.label>닭변이독감</Disease_Chookflu.label>
+  <Disease_Chookflu.letterText>{1} 중 {0}(이)가 {2}(으)로 인해 병에 걸렸습니다.
+
+돌연변이 안정제가 있는지 확인하십시오. 그렇지 않으면 림들의 동물 병이 더 심해질 수 있습니다.
+
+다음 {1}(이)가 병에 걸렸습니다.:
+
+{3}</Disease_Chookflu.letterText>
+  <Disease_Chookflu.letterLabel>돌연변이(닭변이독감)</Disease_Chookflu.letterLabel>
+  <Disease_Swineflu.label>돼지변이독감</Disease_Swineflu.label>
+  <Disease_Swineflu.letterText>{1} 중 {0}(이)가 {2}(으)로 인해 병에 걸렸습니다.
+
+돌연변이 안정제가 있는지 확인하십시오. 그렇지 않으면 림들의 동물 병이 더 심해질 수 있습니다.
+
+다음 {1}(이)가 병에 걸렸습니다.:
+
+{3}</Disease_Swineflu.letterText>
+  <Disease_Swineflu.letterLabel>돌연변이(돼지변이독감)</Disease_Swineflu.letterLabel>
+  <Disease_Chaoflu.label>카오변이독감</Disease_Chaoflu.label>
+  <Disease_Chaoflu.letterText>{1} 중 {0}(이)가 {2}(으)로 인해 병에 걸렸습니다.
+
+돌연변이 안정제가 있는지 확인하십시오. 그렇지 않으면 림들의 동물 병이 더 심해질 수 있습니다.
+
+다음 {1}(이)가 병에 걸렸습니다.:
+
+{3}</Disease_Chaoflu.letterText>
+  <Disease_Chaoflu.letterLabel>돌연변이(카오변이독감)</Disease_Chaoflu.letterLabel>
+
+</LanguageData>

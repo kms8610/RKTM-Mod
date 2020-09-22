@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1211694919_181106_Nature's Pretty Sweet-->
+  <TKKN_Superbloom.description>기록적인 양의 야생화가 피어나고 있습니다! 꼭 밖에 나가 보세요. 알레르기를 조심하세요!</TKKN_Superbloom.description>
+  <TKKN_WildFlowerBloom.description>야생화가 비정상적으로 많습니다! 꼭 밖에 나가 보세요. 알레르기를 조심하세요!</TKKN_WildFlowerBloom.description>
+  <TKKN_Drought.label>가뭄</TKKN_Drought.label>
+  <TKKN_Superbloom.label>슈퍼블룸</TKKN_Superbloom.label>
+  <TKKN_Drought.endMessage>가뭄이 끝나가고 있습니다.</TKKN_Drought.endMessage>
+  <TKKN_Superbloom.endMessage>슈퍼블룸이 끝나가고 있습니다.</TKKN_Superbloom.endMessage>
+  <TKKN_WildFlowerBloom.endMessage>야생화가 만발합니다.</TKKN_WildFlowerBloom.endMessage>
+  <TKKN_Drought.description>아주 오랫동안 비가 오지 않고 있습니다...</TKKN_Drought.description>
+  <TKKN_WildFlowerBloom.label>야생화</TKKN_WildFlowerBloom.label>
+
+  <!--1338280929_190526_Advanced Biomes-->
+  <Spores.description>독성이 있는 식물들이 유독성 포자 구름을 모든 지역에 방출했습니다. 지붕 아래에 있지 않고, 독가스가 가득한 대기권 밖에 있는 사람이나 생물은 서서히 병들게 될 것입니다.</Spores.description>
+  <Spores.endMessage>최악의 독성 포자가 모두 가라앉았습니다.</Spores.endMessage>
+  <Spores.label>독 포자</Spores.label>
+
+  <!--1458148305_190519_Meteors-->
+  <MeteorStorm.label>유성폭풍</MeteorStorm.label>
+  <MeteorStorm.description>유성폭풍으로인해 유성들이 해당 지역을 폭격하고있습니다.</MeteorStorm.description>
+  <MeteorStorm.endMessage>유성폭풍이 끝났습니다.</MeteorStorm.endMessage>
+
+  <!--1585165593_190606_Chemical Weather-->
+  <ChemicalFog.label>화학적인 안개</ChemicalFog.label>
+  <ChemicalRain.label>화학적인 비</ChemicalRain.label>
+  <ChemicalSnow.label>화학적인 눈</ChemicalSnow.label>
+  <ChemicalRain.endMessage>대부분의 화학적인 방울이 땅에 떨어졌습니다.</ChemicalRain.endMessage>
+  <ChemicalSnow.endMessage>대부분의 화학적인 방울이 땅에 떨어졌습니다.</ChemicalSnow.endMessage>
+  <ChemicalFog.endMessage>대부분의 화학적인 방울이 땅에 떨어졌습니다.</ChemicalFog.endMessage>
+  <ChemicalSnow.description>주위 높은 곳에서 물과 혼합된 화학적인 물질이 행성 전체에 점차 떨어지고 있습니다. 지붕 아래로 피하지 않는 모든 생명체가 약물의 영향을 받을 것입니다.</ChemicalSnow.description>
+  <ChemicalRain.description>주위 높은 곳에서 물과 혼합된 화학적인 물질이 행성 전체에 점차 떨어지고 있습니다. 지붕 아래로 피하지 않는 모든 생명체가 약물의 영향을 받을 것입니다.</ChemicalRain.description>
+  <ChemicalFog.description>주위 높은 곳에서 물과 혼합된 화학적인 물질이 행성 전체에 점차 떨어지고 있습니다. 지붕 아래로 피하지 않는 모든 생명체가 약물의 영향을 받을 것입니다.</ChemicalFog.description>
+
+  <!--1663092248_190310_Disasters-->
+  <IceAge.label>빙하기</IceAge.label>
+  <RoguePlanet.label>rogue planet</RoguePlanet.label>
+  <SolarApocalypse.endMessage>태양 활동이 정상으로 돌아옵니다.</SolarApocalypse.endMessage>
+  <SolarApocalypse.label>태양 종말론</SolarApocalypse.label>
+  <RoguePlanet.endMessage>행성이 거시공동을 빠져나와 다른 항성계에 진입했습니다.</RoguePlanet.endMessage>
+  <IceAge.endMessage>빙하기가 끝났습니다.</IceAge.endMessage>
+  <IceAge.description>이 변경계의 기후가 급격하게 변화합니다! 실외 기온이 매우 추워집니다.</IceAge.description>
+  <SolarApocalypse.description>태양의 활동이 왕성해져, 이 변경계는 서서히 뜨거워지고 있습니다. 죽음에서 벗어나기 위해서는 우주선을 만들어야 합니다.</SolarApocalypse.description>
+  <RoguePlanet.description>불행하게도 이 변경계는 궤도에서 벗어나 항성에서 멀어지고 있습니다. 기온은 떨어질 것이고, 태양광발전기는 무용지물이 될 것입니다.</RoguePlanet.description>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Cults_Aurora.description>터무니없이 아름다운 오로라가 하늘을 가로지릅니다. 정착림들은 그 모습에 기분이 좋아집니다.</Cults_Aurora.description>
+  <Cults_Aurora.label>오로라</Cults_Aurora.label>
+  <CultgameCondition_StarsAreRight.endMessage>별들이 자리에서 이탈하고 있습니다.</CultgameCondition_StarsAreRight.endMessage>
+  <CultgameCondition_StarsAreRight.label>질서의 별</CultgameCondition_StarsAreRight.label>
+  <CultgameCondition_StarsAreWrong.label>부정의 별</CultgameCondition_StarsAreWrong.label>
+  <Cults_Aurora.endMessage>오로라가 모습을 감추었습니다.</Cults_Aurora.endMessage>
+  <CultgameCondition_StarsAreRight.description>별들이 자신의 옳은 자리를 찾았습니다. 식물과 동물들이 번성하고, 종교 희생에 보너스가 붙습니다.</CultgameCondition_StarsAreRight.description>
+  <CultgameCondition_StarsAreWrong.endMessage>별의 질서가 돌아왔습니다.</CultgameCondition_StarsAreWrong.endMessage>
+  <CultgameCondition_StarsAreWrong.description>우주의 법칙에서 벗어난 별이 마치 경멸과 증오에 찬 모습으로 우리를 자극하는 것 같습니다. 이 기간 동안에는 희생의식을 진행하지 않는 것이 좋을 것 같습니다.</CultgameCondition_StarsAreWrong.description>
+
+  <!--1552507180_190814_Psychology-->
+  <Election.label>선거</Election.label>
+  <Election.description>선거가 진행 중입니다. 투표는 정착민들과 후보자들이 친분을 가질 시간이 있을 때 발생합니다.</Election.description>
+
+</LanguageData>

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1187010034_181028_Rim of Madness - Vampires-->
+  <ROMV_Drain.deathMessage>{0}(이)가 흡혈되어 사망했습니다.</ROMV_Drain.deathMessage>
+  <ROMV_Drain.label>흡혈</ROMV_Drain.label>
+
+  <!--1498573216_181028_Polarisbloc - Mechenemy-->
+  <Vanya_IgnoreDiffusion.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</Vanya_IgnoreDiffusion.deathMessage>
+  <Vanya_IgnoreDiffusionEX.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</Vanya_IgnoreDiffusionEX.deathMessage>
+  <Vanya_IgnoreBleed.deathMessage>{0}(이)가 출혈로 사망했습니다.</Vanya_IgnoreBleed.deathMessage>
+  <Vanya_Burn.deathMessage>{0}(이)가 불에 타 죽었습니다.</Vanya_Burn.deathMessage>
+  <Vanya_IgnoreBleed.label>출혈</Vanya_IgnoreBleed.label>
+  <Vanya_Burn.label>화상</Vanya_Burn.label>
+  <Vanya_IgnoreDiffusion.label>충격파</Vanya_IgnoreDiffusion.label>
+  <Vanya_IgnoreDiffusionEX.label>충격파</Vanya_IgnoreDiffusionEX.label>
+
+  <!--1505332648_190519_Gods of Elona [1.0]-->
+  <eIceBolt.deathMessage>{0}(은)는 얼음 화살에 굴복하였습니다.</eIceBolt.deathMessage>
+  <eIceBolt.label>얼음 화살</eIceBolt.label>
+
+  <!--1505914869_190616_What the hack!-->
+  <WTH_RegeneratedPartDamage.label>부품 파손됨</WTH_RegeneratedPartDamage.label>
+  <WTH_RegeneratedPartDamage.deathMessage>{0}(은)는 죽었습니다.</WTH_RegeneratedPartDamage.deathMessage>
+
+  <!--1541353047_190628_Zombiefied-->
+  <ZombieBite.deathMessage>{0}(이)가 물려 죽었습니다.</ZombieBite.deathMessage>
+  <ZombieScratch.deathMessage>{0}(이)가 찢겨 죽었습니다.</ZombieScratch.deathMessage>
+  <ZombieBite.label>물림</ZombieBite.label>
+  <ZombieScratch.label>찢김</ZombieScratch.label>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu_Extinguish.deathMessage>{0}(이)가 살해당했습니다.</Mizu_Extinguish.deathMessage>
+  <Mizu_Extinguish.label>소방</Mizu_Extinguish.label>
+
+  <!--1545160307_190526_Glowstone-->
+  <GLO_DustEMP.deathMessage>{0}(은)는 충격을 받아 죽었습니다.</GLO_DustEMP.deathMessage>
+  <GLO_DustEMP.label>발광석 EMP</GLO_DustEMP.label>
+
+  <!--1557222016_190519_RWBY Weapons-->
+  <RWBY_Ice_Stab.deathMessage>{0}(은)는 얼어죽었습니다.</RWBY_Ice_Stab.deathMessage>
+  <RWBY_Ice_Slash.deathMessage>{0}(은)는 얼어죽었습니다.</RWBY_Ice_Slash.deathMessage>
+  <RWBY_Lightning_Slash.deathMessage>{0}(은)는 쇼크로 죽었습니다.</RWBY_Lightning_Slash.deathMessage>
+  <RWBY_Lightning_Blunt.deathMessage>{0}(은)는 쇼크로 죽었습니다.</RWBY_Lightning_Blunt.deathMessage>
+  <RWBY_Burn_Slash.deathMessage>{0}(은)는 타죽었습니다.</RWBY_Burn_Slash.deathMessage>
+  <RWBY_Inflame_Slash.deathMessage>{0}(은)는 타죽었습니다.</RWBY_Inflame_Slash.deathMessage>
+  <RWBY_Inflame_Stab.deathMessage>{0}(은)는 타죽었습니다.</RWBY_Inflame_Stab.deathMessage>
+  <Bomb_Magnhild.deathMessage>{0}(은)는 폭사했습니다..</Bomb_Magnhild.deathMessage>
+  <Bomb_Ember_Celica.deathMessage>{0}(은)는 폭사했습니다..</Bomb_Ember_Celica.deathMessage>
+  <Bomb_Magnhild.label>폭탄</Bomb_Magnhild.label>
+  <Bomb_Ember_Celica.label>폭탄</Bomb_Ember_Celica.label>
+  <RWBY_Burn_Slash.label>태움</RWBY_Burn_Slash.label>
+  <RWBY_Inflame_Slash.label>화염</RWBY_Inflame_Slash.label>
+  <RWBY_Inflame_Stab.label>화염</RWBY_Inflame_Stab.label>
+  <RWBY_Ice_Stab.label>동상</RWBY_Ice_Stab.label>
+  <RWBY_Ice_Slash.label>동상</RWBY_Ice_Slash.label>
+  <RWBY_Lightning_Slash.label>전기</RWBY_Lightning_Slash.label>
+  <RWBY_Lightning_Blunt.label>전기</RWBY_Lightning_Blunt.label>
+
+  <!--1720751798_190519_[RH] Faction Task Force 141 (1.0)-->
+  <RNSmoke.deathMessage>{0}(이)가 피폭되어 죽었습니다.</RNSmoke.deathMessage>
+  <RNBullet_Charge.deathMessage>{0}(이)가 감전되어 죽었습니다.</RNBullet_Charge.deathMessage>
+  <RNBomb.deathMessage>{0}(이)가 피폭되어 죽었습니다.</RNBomb.deathMessage>
+  <RNChargeBomb.deathMessage>{0}(이)가 피폭되어 죽었습니다.</RNChargeBomb.deathMessage>
+  <RNBomb.label>폭발</RNBomb.label>
+  <RNBullet_Charge.label>감전</RNBullet_Charge.label>
+  <RNChargeBomb.label>폭발</RNChargeBomb.label>
+  <RNSmoke.label>폭발</RNSmoke.label>
+
+  <!--1741117080_190526_Grenades Expanded-->
+  <HornetVenom.deathMessage>{0}(은)는 맹독으로 죽었습니다.</HornetVenom.deathMessage>
+  <PlasmaWave.deathMessage>0}(은)는 플라즈마로 증발되었습니다.</PlasmaWave.deathMessage>
+  <CaseFragmentation.deathMessage>{0}(은)는 분쇄되었습니다.</CaseFragmentation.deathMessage>
+  <InfernoBlaze.deathMessage>{0}(은)는 화염구에 타 죽었습니다.</InfernoBlaze.deathMessage>
+  <InfernoBomb.deathMessage>{0}(은)는 지옥불에 타 죽었습니다.</InfernoBomb.deathMessage>
+  <GrenadeStackHand.deathMessage>{0}(은)는 질소반응 폭발로 죽었습니다.</GrenadeStackHand.deathMessage>
+  <DynamiteStick.deathMessage>{0}(은)는 TNT 폭발로 죽었습니다.</DynamiteStick.deathMessage>
+  <GrenadePoisonIvy.deathMessage>{0}(은)는 폭발로 죽었습니다.</GrenadePoisonIvy.deathMessage>
+  <GrenadeAcidBomb.deathMessage>{0}(은)는 산에 녹았습니다.</GrenadeAcidBomb.deathMessage>
+  <Thermalblast.deathMessage>{0}(은) 깊은 냉기에 무릎꿇었습니다.</Thermalblast.deathMessage>
+  <DisintegrationWave.deathMessage>{0}(은)는 유도되는 불길로 인해 죽었습니다.</DisintegrationWave.deathMessage>
+  <DeathCloud.deathMessage>{0}(은)는 앓다 죽었습니다.</DeathCloud.deathMessage>
+  <ToxicGasCloud.deathMessage>{0}(은)는 독성으로인해 죽었습니다.</ToxicGasCloud.deathMessage>
+  <FirecrackerBomb.deathMessage>{0}(은)는 작은 폭발로 찢겨나갔습니다.</FirecrackerBomb.deathMessage>
+  <GrenadeAcidBomb.label>산성액</GrenadeAcidBomb.label>
+  <InfernoBlaze.label>화염</InfernoBlaze.label>
+  <DeathCloud.label>죽음의 구름</DeathCloud.label>
+  <DisintegrationWave.label>붕괴파</DisintegrationWave.label>
+  <GrenadeStackHand.label>불꽃</GrenadeStackHand.label>
+  <CaseFragmentation.label>파쇄</CaseFragmentation.label>
+  <HornetVenom.label>말벌 독침</HornetVenom.label>
+  <InfernoBomb.label>지옥불</InfernoBomb.label>
+  <FirecrackerBomb.label>미세폭발</FirecrackerBomb.label>
+  <PlasmaWave.label>플라즈마파</PlasmaWave.label>
+  <GrenadePoisonIvy.label>독성 물질</GrenadePoisonIvy.label>
+  <Thermalblast.label>열폭발</Thermalblast.label>
+  <DynamiteStick.label>TNT 폭발</DynamiteStick.label>
+  <ToxicGasCloud.label>독성 기체</ToxicGasCloud.label>
+
+  <!--725576127_190626_Glitter Tech-->
+  <PacifierStab.label>찌르기</PacifierStab.label>
+  <PacifierStab.deathMessage>{0}(은)는 찔려 죽었습니다.</PacifierStab.deathMessage>
+
+  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
+  <ROM_ConstrictMonstrous.deathMessage>{0}(은)는 일그러지며 사망했습니다.</ROM_ConstrictMonstrous.deathMessage>
+  <ROM_ScratchMonstrous.deathMessage>{0}(은)는 발톱에 찢겨 사망했습니다.</ROM_ScratchMonstrous.deathMessage>
+  <ROM_BluntMonstrous.deathMessage>{0}(은)는 박살나며 사망했습니다.</ROM_BluntMonstrous.deathMessage>
+  <ROM_Exsanguination.deathMessage>{0}(은)는 과다 출혈로 사망했습니다.</ROM_Exsanguination.deathMessage>
+  <ROM_Psychic.deathMessage>{0}(은)는 정신 공격을 버티지 못하고 사망했습니다.</ROM_Psychic.deathMessage>
+  <ROM_BluntMonstrous.label>직격타</ROM_BluntMonstrous.label>
+  <ROM_ConstrictMonstrous.label>일그러짐</ROM_ConstrictMonstrous.label>
+  <ROM_Exsanguination.label>출혈</ROM_Exsanguination.label>
+  <ROM_ScratchMonstrous.label>흉측한 발톱</ROM_ScratchMonstrous.label>
+  <ROM_Psychic.label>정신 공격</ROM_Psychic.label>
+
+  <!--775650249_181117_RimMagic-->
+  <MagicExplosiveCrush.deathMessage>{0)(은)는 으깨져 죽었습니다.</MagicExplosiveCrush.deathMessage>
+  <MagicEMP.deathMessage>{0}(은)는 쇼크로 죽었습니다.</MagicEMP.deathMessage>
+  <MagicVampirismInjury.deathMessage>{0}(은)는 뱀파이어의 저주를 받아 죽었습니다.</MagicVampirismInjury.deathMessage>
+  <MagicRotInjury.deathMessage>{0}(은)는 악마같은 마법에 의해 죽었습니다.</MagicRotInjury.deathMessage>
+  <ExplosiveMagicRotInjury.deathMessage>{0}(은)는 악마같은 마법에 의해 죽었습니다.</ExplosiveMagicRotInjury.deathMessage>
+  <MagicFrostbiteInjury.deathMessage>{0}(은)는 죽어서 동상이 되어버렸습니다.</MagicFrostbiteInjury.deathMessage>
+  <MagicExplosiveCrush.label>으깨짐</MagicExplosiveCrush.label>
+  <MagicEMP.label>마법EMP</MagicEMP.label>
+  <MagicFrostbiteInjury.label>마법 동상</MagicFrostbiteInjury.label>
+  <MagicRotInjury.label>부패</MagicRotInjury.label>
+  <ExplosiveMagicRotInjury.label>부패</ExplosiveMagicRotInjury.label>
+  <MagicVampirismInjury.label>흡혈귀의 조각</MagicVampirismInjury.label>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Cults_BlackEMP.deathMessage>{0}(은)는 폭발하며 사망했습니다.</Cults_BlackEMP.deathMessage>
+  <Cults_PsionicBlastDamage.deathMessage>{0}(이)가 살해당했습니다.</Cults_PsionicBlastDamage.deathMessage>
+  <Cults_PsionicShockDamage.deathMessage>{0}(이)가 살해당했습니다.</Cults_PsionicShockDamage.deathMessage>
+  <Cults_PsionicBurnDamage.deathMessage>{0}(이)가 살해당했습니다.</Cults_PsionicBurnDamage.deathMessage>
+  <Cults_AcidBurn.deathMessage>{0}(은)는 녹으며 사망했습니다.</Cults_AcidBurn.deathMessage>
+  <Cults_Psionic.deathMessage>{0}(은)는 머리가 폭발했습니다.</Cults_Psionic.deathMessage>
+  <Cults_AcidBurn.label>산화상</Cults_AcidBurn.label>
+  <Cults_BlackEMP.label>검은 기운</Cults_BlackEMP.label>
+  <Cults_Psionic.label>정신 공격</Cults_Psionic.label>
+  <Cults_PsionicBlastDamage.label>정신 폭발</Cults_PsionicBlastDamage.label>
+  <Cults_PsionicBurnDamage.label>정신 화상</Cults_PsionicBurnDamage.label>
+  <Cults_PsionicShockDamage.label>정신 충격</Cults_PsionicShockDamage.label>
+
+  <!--846222458_190818_More Mechanoids-->
+  <Paralyze.deathMessage>{0}(이)가 신경 손상으로 죽었습니다.</Paralyze.deathMessage>
+  <Paralyze.label>신경 손상</Paralyze.label>
+
+  <!--846645227_190626_Riot Control-->
+  <RC_RubberSlug.deathMessage>{0}(은)는 고통을 감당할 수 없었습니다.</RC_RubberSlug.deathMessage>
+  <RC_RubberSlug.label>고무탄</RC_RubberSlug.label>
+
+  <!--918200645_190816_Star Wars - Fully Functional Lightsabers-->
+  <PJ_FirkDam.deathMessage>{0}(은)는 광선검으로 인한 상처로 사망했습니다.</PJ_FirkDam.deathMessage>
+  <PJ_PontiteDam.deathMessage>{0}(은)는 광선검으로 인한 동상 상처로 사망했습니다.</PJ_PontiteDam.deathMessage>
+  <PJ_BarabDam.deathMessage>{0}(은)는 광선검으로 인한 상처로 사망했습니다.</PJ_BarabDam.deathMessage>
+  <PJ_Saber.deathMessage>{0}(은)는 사망했습니다.</PJ_Saber.deathMessage>
+  <PJ_SonicDam.deathMessage>{0}(은)는 음파로 인한 골절로 사망했습니다.</PJ_SonicDam.deathMessage>
+  <PJ_Saber.label>세이버</PJ_Saber.label>
+  <PJ_PontiteDam.label>세이버 프로스트</PJ_PontiteDam.label>
+  <PJ_BarabDam.label>세이버 래드번</PJ_BarabDam.label>
+  <PJ_FirkDam.label>화상 충격</PJ_FirkDam.label>
+  <PJ_SonicDam.label>음파 피해</PJ_SonicDam.label>
+
+  <!--918226861_190816_Star Wars - The Force-->
+  <PJ_ForceHealDamage.deathMessage>{0}(이)가 살해되었습니다.</PJ_ForceHealDamage.deathMessage>
+  <PJ_DForcePull.deathMessage>{0}(이)가 살해되었습니다.</PJ_DForcePull.deathMessage>
+  <PJ_DForcePush.deathMessage>{0}(이)가 살해되었습니다.</PJ_DForcePush.deathMessage>
+  <Laser.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</Laser.deathMessage>
+  <PJ_MindTrickDam.deathMessage>{0}(이)가 정신적인 피해에 굴복했습니다.</PJ_MindTrickDam.deathMessage>
+  <PJ_RageDam.deathMessage>{0}(이)가 정신적인 피해에 굴복했습니다.</PJ_RageDam.deathMessage>
+  <PJ_FDrainDamage.deathMessage>{0}(이)가 다크 사이드 힘에 굴복했습니다.</PJ_FDrainDamage.deathMessage>
+  <PJ_FLightning.deathMessage>{0}(이)가 다크 사이드 힘에 굴복했습니다.</PJ_FLightning.deathMessage>
+  <PJ_FChoke.deathMessage>{0}(이)가 다크 사이드 힘에 굴복했습니다.</PJ_FChoke.deathMessage>
+  <PJ_FStorm.deathMessage>{0}(은)는 포스 스톰에 걸렸습니다.</PJ_FStorm.deathMessage>
+  <Laser.label>화상</Laser.label>
+  <PJ_FChoke.label>초크</PJ_FChoke.label>
+  <PJ_FDrainDamage.label>포스 드레인</PJ_FDrainDamage.label>
+  <PJ_ForceHealDamage.label>포스 힐</PJ_ForceHealDamage.label>
+  <PJ_RageDam.label>포스 레이지</PJ_RageDam.label>
+  <PJ_FStorm.label>포스 스톰</PJ_FStorm.label>
+  <PJ_FLightning.label>라이트닝</PJ_FLightning.label>
+  <PJ_MindTrickDam.label>마인드 트릭</PJ_MindTrickDam.label>
+  <PJ_DForcePull.label>풀</PJ_DForcePull.label>
+  <PJ_DForcePush.label>푸쉬</PJ_DForcePush.label>
+
+  <!--918227266_181112_Star Wars - Factions-->
+  <PJ_BlasterDam.deathMessage>{0}(이)가 폭발되었습니다!</PJ_BlasterDam.deathMessage>
+  <PJ_DXRDam.deathMessage>{0}(이)가 폭발되었습니다!</PJ_DXRDam.deathMessage>
+  <PJ_Vibro.deathMessage>{0}(은)는 죽음에 이릅니다.</PJ_Vibro.deathMessage>
+  <PJ_DXRDam.label>산성 볼트</PJ_DXRDam.label>
+  <PJ_BlasterDam.label>블래스터 볼트</PJ_BlasterDam.label>
+  <PJ_Vibro.label>진동</PJ_Vibro.label>
+
+  <!--950475543_190818_Rim of Madness - Arachnophobia-->
+  <ROMA_Sting.deathMessage>{0}(이)가 물려 사망했습니다.</ROMA_Sting.deathMessage>
+  <ROMA_Sting.label>독침</ROMA_Sting.label>
+
+</LanguageData>

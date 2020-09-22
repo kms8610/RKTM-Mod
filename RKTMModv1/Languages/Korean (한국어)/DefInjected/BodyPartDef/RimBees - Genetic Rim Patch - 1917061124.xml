@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RB_Thorax.label>흉부</RB_Thorax.label>
+  <RB_InsectMouth.label>입</RB_InsectMouth.label>
+  <RB_Abdomen.label>복부</RB_Abdomen.label>
+  <RB_InsectWing.label>날개</RB_InsectWing.label>
+  <RB_SmallInsectLeg.label>작은 다리</RB_SmallInsectLeg.label>
+  <RB_InsectSting.label>침</RB_InsectSting.label>
+
+</LanguageData>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_ANN_Shocker.label>충격기 제작</Make_ANN_Shocker.label>
+  <Make_ANN_Shocker.description>충격기를 제작합니다.</Make_ANN_Shocker.description>
+  <Make_ANN_Shocker.jobString>충격기 제작중.</Make_ANN_Shocker.jobString>
+  <Make_CW_PowerFist.label>파워 피스트 제작</Make_CW_PowerFist.label>
+  <Make_CW_PowerFist.description>파워 피스트를 제작합니다.</Make_CW_PowerFist.description>
+  <Make_CW_PowerFist.jobString>파워 피스트 제작중.</Make_CW_PowerFist.jobString>
+  <Make_CW_EnergyClaw.label>에너지 클로 제작</Make_CW_EnergyClaw.label>
+  <Make_CW_EnergyClaw.description>에너지 클로를 제작합니다.</Make_CW_EnergyClaw.description>
+  <Make_CW_EnergyClaw.jobString>에너지 클로 제작중.</Make_CW_EnergyClaw.jobString>
+  <Make_CW_EnergySword.label>에너지 소드 제작</Make_CW_EnergySword.label>
+  <Make_CW_EnergySword.description>에너지 소드를 제작합니다.</Make_CW_EnergySword.description>
+  <Make_CW_EnergySword.jobString>에너지 소드 제작중.</Make_CW_EnergySword.jobString>
+  <Make_CW_ChainSword.label>체인 소드 제작</Make_CW_ChainSword.label>
+  <Make_CW_ChainSword.description>체인 소드를 제작합니다.</Make_CW_ChainSword.description>
+  <Make_CW_ChainSword.jobString>체인 소드 제작중.</Make_CW_ChainSword.jobString>
+  <Make_CW_GunBlade.label>건 블레이드 제작</Make_CW_GunBlade.label>
+  <Make_CW_GunBlade.description>건 블레이드를 제작합니다.</Make_CW_GunBlade.description>
+  <Make_CW_GunBlade.jobString>건 블레이드 제작중.</Make_CW_GunBlade.jobString>
+  <Make_CW_RiotBreaker.label>시위 분쇄자 제작</Make_CW_RiotBreaker.label>
+  <Make_CW_RiotBreaker.description>시위 분쇄자를 제작합니다.</Make_CW_RiotBreaker.description>
+  <Make_CW_RiotBreaker.jobString>시위 분쇄자 제작중.</Make_CW_RiotBreaker.jobString>
+  <Make_CW_BallisticShredder.label>파쇄기 제작</Make_CW_BallisticShredder.label>
+  <Make_CW_BallisticShredder.description>파쇄기를 제작합니다.</Make_CW_BallisticShredder.description>
+  <Make_CW_BallisticShredder.jobString>파쇄기 제작중.</Make_CW_BallisticShredder.jobString>
+  <Make_CW_BallisticCombatGun.label>전투 소총 제작</Make_CW_BallisticCombatGun.label>
+  <Make_CW_BallisticCombatGun.description>전투 소총을 제작합니다.</Make_CW_BallisticCombatGun.description>
+  <Make_CW_BallisticCombatGun.jobString>전투 소총 제작중.</Make_CW_BallisticCombatGun.jobString>
+  <Make_CW_BallisticEnforcer.label>집행자 제작</Make_CW_BallisticEnforcer.label>
+  <Make_CW_BallisticEnforcer.description>집행자를 제작합니다.</Make_CW_BallisticEnforcer.description>
+  <Make_CW_BallisticEnforcer.jobString>집행자 제작중.</Make_CW_BallisticEnforcer.jobString>
+  <Make_CW_Disruptor.label>분열기 제작</Make_CW_Disruptor.label>
+  <Make_CW_Disruptor.description>분열기를 제작합니다.</Make_CW_Disruptor.description>
+  <Make_CW_Disruptor.jobString>분열기 제작중.</Make_CW_Disruptor.jobString>
+  <Make_CW_NapalmBlaster.label>네이팜 블래스터 제작</Make_CW_NapalmBlaster.label>
+  <Make_CW_NapalmBlaster.description>네이팜 블래스터를 제작합니다.</Make_CW_NapalmBlaster.description>
+  <Make_CW_NapalmBlaster.jobString>네이팜 블래스터 제작중.</Make_CW_NapalmBlaster.jobString>
+  <Make_CW_DualEraser.label>이중 말소자 제작</Make_CW_DualEraser.label>
+  <Make_CW_DualEraser.description>이중 말소자를 제작합니다.</Make_CW_DualEraser.description>
+  <Make_CW_DualEraser.jobString>이중 말소자 제작중.</Make_CW_DualEraser.jobString>
+  <Make_CW_Accelerator.label>가속기 제작</Make_CW_Accelerator.label>
+  <Make_CW_Accelerator.description>가속기를 제작합니다.</Make_CW_Accelerator.description>
+  <Make_CW_Accelerator.jobString>가속기 제작중.</Make_CW_Accelerator.jobString>
+  <Make_CW_PlasmaGun.label>플라즈마 총 제작</Make_CW_PlasmaGun.label>
+  <Make_CW_PlasmaGun.description>플라즈마 총을 제작합니다.</Make_CW_PlasmaGun.description>
+  <Make_CW_PlasmaGun.jobString>플라즈마 총 제작중.</Make_CW_PlasmaGun.jobString>
+  <Make_CW_HavocLauncher.label>하복 발사기 제작</Make_CW_HavocLauncher.label>
+  <Make_CW_HavocLauncher.description>하복 발사기를 제작합니다.</Make_CW_HavocLauncher.description>
+  <Make_CW_HavocLauncher.jobString>하복 발사기 제작중.</Make_CW_HavocLauncher.jobString>
+  <Make_CW_CoilGun.label>코일 소총 제작</Make_CW_CoilGun.label>
+  <Make_CW_CoilGun.description>코일 소총을 제작합니다.</Make_CW_CoilGun.description>
+  <Make_CW_CoilGun.jobString>코일 소총을 제작합니다.</Make_CW_CoilGun.jobString>
+  <Make_CW_ReconBolter.label>정찰대용 볼터 제작</Make_CW_ReconBolter.label>
+  <Make_CW_ReconBolter.description>정찰대용 볼터를 제작합니다.</Make_CW_ReconBolter.description>
+  <Make_CW_ReconBolter.jobString>정찰대용 볼터 제작중.</Make_CW_ReconBolter.jobString>
+  <ANN_InstallShocker.label>충격기 이식</ANN_InstallShocker.label>
+  <ANN_InstallShocker.description>충격 모듈을 이식합니다.</ANN_InstallShocker.description>
+  <ANN_InstallShocker.jobString>손 보철물 이식.</ANN_InstallShocker.jobString>
+
+</LanguageData>

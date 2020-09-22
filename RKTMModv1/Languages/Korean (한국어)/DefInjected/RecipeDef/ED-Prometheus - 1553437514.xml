@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Replicate_MK1_SlagFromOmniGel.label>옴니젤로 슬래그 복제</Replicate_MK1_SlagFromOmniGel.label>
+  <Replicate_MK1_SlagFromOmniGel.description>옴니젤로 슬래그 잔해를 복제합니다.</Replicate_MK1_SlagFromOmniGel.description>
+  <Replicate_MK1_SlagFromOmniGel.jobString>옴니젤에서 슬래그 복제 중</Replicate_MK1_SlagFromOmniGel.jobString>
+  <Replicate_MK1_ChunkSandstoneFromOmniGel.label>옴니젤로 사암 덩어리 복제</Replicate_MK1_ChunkSandstoneFromOmniGel.label>
+  <Replicate_MK1_ChunkSandstoneFromOmniGel.description>옴니젤로 사암 덩어리를 복제합니다.</Replicate_MK1_ChunkSandstoneFromOmniGel.description>
+  <Replicate_MK1_ChunkSandstoneFromOmniGel.jobString>옴니젤로 사암 덩어리 복제 중</Replicate_MK1_ChunkSandstoneFromOmniGel.jobString>
+  <Replicate_MK1_ChunkGraniteFromOmniGel.label>옴니젤로 화강암 덩어리 복제</Replicate_MK1_ChunkGraniteFromOmniGel.label>
+  <Replicate_MK1_ChunkGraniteFromOmniGel.description>옴니젤로 화강암 덩어리를 복제합니다.</Replicate_MK1_ChunkGraniteFromOmniGel.description>
+  <Replicate_MK1_ChunkGraniteFromOmniGel.jobString>옴니젤로 화강암 덩어리 복제 중</Replicate_MK1_ChunkGraniteFromOmniGel.jobString>
+  <Replicate_MK1_ChunkLimestoneFromOmniGel.label>옴니젤로 석회암 덩어리 복제</Replicate_MK1_ChunkLimestoneFromOmniGel.label>
+  <Replicate_MK1_ChunkLimestoneFromOmniGel.description>옴니젤로 석회암 덩어리를 복제합니다.</Replicate_MK1_ChunkLimestoneFromOmniGel.description>
+  <Replicate_MK1_ChunkLimestoneFromOmniGel.jobString>옴니젤로 석회암 덩어리 복제 중</Replicate_MK1_ChunkLimestoneFromOmniGel.jobString>
+  <Replicate_MK1_ChunkSlateFromOmniGel.label>옴니젤로 점판암 덩어리 복제</Replicate_MK1_ChunkSlateFromOmniGel.label>
+  <Replicate_MK1_ChunkSlateFromOmniGel.description>옴니젤로 점판암 덩어리를 복제합니다.</Replicate_MK1_ChunkSlateFromOmniGel.description>
+  <Replicate_MK1_ChunkSlateFromOmniGel.jobString>옴니젤로 점판암 덩어리 복제 중</Replicate_MK1_ChunkSlateFromOmniGel.jobString>
+  <Replicate_MK1_ChunkMarbleFromOmniGel.label>옴니젤로 대리석 덩어리 복제</Replicate_MK1_ChunkMarbleFromOmniGel.label>
+  <Replicate_MK1_ChunkMarbleFromOmniGel.description>옴니젤로 대리석 덩어리를 복제합니다.</Replicate_MK1_ChunkMarbleFromOmniGel.description>
+  <Replicate_MK1_ChunkMarbleFromOmniGel.jobString>옴니젤로 대리석 덩어리 복제 중</Replicate_MK1_ChunkMarbleFromOmniGel.jobString>
+  <Replicate_MK2_SteelFromOmniGel.label>옴니젤로 강철 복제</Replicate_MK2_SteelFromOmniGel.label>
+  <Replicate_MK2_SteelFromOmniGel.description>옴니젤로 강철을 복제합니다.</Replicate_MK2_SteelFromOmniGel.description>
+  <Replicate_MK2_SteelFromOmniGel.jobString>옴니젤로 강철 복제 중.</Replicate_MK2_SteelFromOmniGel.jobString>
+  <Replicate_MK2_SilverFromOmniGel.label>옴니젤로 은 복제</Replicate_MK2_SilverFromOmniGel.label>
+  <Replicate_MK2_SilverFromOmniGel.description>옴니젤로 은을 복제합니다.</Replicate_MK2_SilverFromOmniGel.description>
+  <Replicate_MK2_SilverFromOmniGel.jobString>옴니젤로 은 복제 중.</Replicate_MK2_SilverFromOmniGel.jobString>
+  <Replicate_MK2_GoldFromOmniGel.label>옴니젤로 금 복제</Replicate_MK2_GoldFromOmniGel.label>
+  <Replicate_MK2_GoldFromOmniGel.description>옴니젤로 금을 복제합니다.</Replicate_MK2_GoldFromOmniGel.description>
+  <Replicate_MK2_GoldFromOmniGel.jobString>옴니젤로 금 복제 중.</Replicate_MK2_GoldFromOmniGel.jobString>
+  <Replicate_MK3_PlasteelFromOmniGel.label>옴니젤로 플라스틸 복제</Replicate_MK3_PlasteelFromOmniGel.label>
+  <Replicate_MK3_PlasteelFromOmniGel.description>옴니젤로 플라스틸을 복제합니다.</Replicate_MK3_PlasteelFromOmniGel.description>
+  <Replicate_MK3_PlasteelFromOmniGel.jobString>옴니젤로 플라스틸 복제 중.</Replicate_MK3_PlasteelFromOmniGel.jobString>
+  <Replicate_MK3_UraniumFromOmniGel.label>옴니젤로 우라늄 복제</Replicate_MK3_UraniumFromOmniGel.label>
+  <Replicate_MK3_UraniumFromOmniGel.description>옴니젤로 우라늄을 복제합니다.</Replicate_MK3_UraniumFromOmniGel.description>
+  <Replicate_MK3_UraniumFromOmniGel.jobString>옴니젤로 우라늄 복제 중.</Replicate_MK3_UraniumFromOmniGel.jobString>
+  <Replicate_MK3_JadeFromOmniGel.label>옴니젤로 비취 복제</Replicate_MK3_JadeFromOmniGel.label>
+  <Replicate_MK3_JadeFromOmniGel.description>옴니젤로 비취를 복제합니다.</Replicate_MK3_JadeFromOmniGel.description>
+  <Replicate_MK3_JadeFromOmniGel.jobString>옴니젤로 비취 복제 중.</Replicate_MK3_JadeFromOmniGel.jobString>
+  <Replicate_MK3_MedicineFromOmniGel.label>옴니젤로 약품 복제</Replicate_MK3_MedicineFromOmniGel.label>
+  <Replicate_MK3_MedicineFromOmniGel.description>옴니젤로 약품을 복제합니다.</Replicate_MK3_MedicineFromOmniGel.description>
+  <Replicate_MK3_MedicineFromOmniGel.jobString>옴니젤로 약품 복제 중.</Replicate_MK3_MedicineFromOmniGel.jobString>
+  <Replicate_MK3_GlitterMedicineFromOmniGel.label>옴니젤로 번화계 약품 복제</Replicate_MK3_GlitterMedicineFromOmniGel.label>
+  <Replicate_MK3_GlitterMedicineFromOmniGel.description>옴니젤로 번화계 약품을 복제합니다.</Replicate_MK3_GlitterMedicineFromOmniGel.description>
+  <Replicate_MK3_GlitterMedicineFromOmniGel.jobString>옴니젤로 번화계 약품 복제 중.</Replicate_MK3_GlitterMedicineFromOmniGel.jobString>
+  <TransportResourceUnit_Steel.label>선박으로 운송하기 위한 포장된 강철</TransportResourceUnit_Steel.label>
+  <TransportResourceUnit_Steel.description>RU.</TransportResourceUnit_Steel.description>
+  <TransportResourceUnit_Steel.jobString>프로메테우스로 운송하기 위한 포장된 강철</TransportResourceUnit_Steel.jobString>
+  <TransportResourceUnit_OmniGel.label>선박으로 운송하기 위한 포장된 옴니젤</TransportResourceUnit_OmniGel.label>
+  <TransportResourceUnit_OmniGel.description>RU - 옴니젤</TransportResourceUnit_OmniGel.description>
+  <TransportResourceUnit_OmniGel.jobString>프로메테우스로 운송하기 위한 포장된 옴니젤</TransportResourceUnit_OmniGel.jobString>
+  <Compress_Steel.label>압축 강철 제작</Compress_Steel.label>
+  <Compress_Steel.description>강철을 압축합니다.</Compress_Steel.description>
+  <Compress_Steel.jobString>강철로 압축 강철 제작 중.</Compress_Steel.jobString>
+  <Compress_Plasteel.label>압축 플라스틸 제작</Compress_Plasteel.label>
+  <Compress_Plasteel.description>플라스틸을 압축합니다.</Compress_Plasteel.description>
+  <Compress_Plasteel.jobString>플라스틸로 압축 플라스틸 제작 중.</Compress_Plasteel.jobString>
+  <Compress_WoodLog.label>압축 목재 제작</Compress_WoodLog.label>
+  <Compress_WoodLog.description>목재를 압축합니다.</Compress_WoodLog.description>
+  <Compress_WoodLog.jobString>목재로 압축 목재 제작 중.</Compress_WoodLog.jobString>
+  <Compress_Sandstone.label>압축 사암 제작</Compress_Sandstone.label>
+  <Compress_Sandstone.description>사암을 압축합니다.</Compress_Sandstone.description>
+  <Compress_Sandstone.jobString>압축 사암 제작 중.</Compress_Sandstone.jobString>
+  <Compress_Granite.label>압축 화강암 제작</Compress_Granite.label>
+  <Compress_Granite.description>화강암을 압축합니다.</Compress_Granite.description>
+  <Compress_Granite.jobString>압축 화강암 제작 중.</Compress_Granite.jobString>
+  <Compress_Limestone.label>압축 석회암 제작</Compress_Limestone.label>
+  <Compress_Limestone.description>석회암을 압축합니다.</Compress_Limestone.description>
+  <Compress_Limestone.jobString>압축 석회암 제작 중.</Compress_Limestone.jobString>
+  <Compress_Slate.label>압축 점판암 제작</Compress_Slate.label>
+  <Compress_Slate.description>점판암을 압축합니다.</Compress_Slate.description>
+  <Compress_Slate.jobString>압축 점판암 제작 중.</Compress_Slate.jobString>
+  <Compress_Marble.label>압축 대리석 제작</Compress_Marble.label>
+  <Compress_Marble.description>대리석을 압축합니다.</Compress_Marble.description>
+  <Compress_Marble.jobString>압축 대리석 제작 중.</Compress_Marble.jobString>
+
+</LanguageData>

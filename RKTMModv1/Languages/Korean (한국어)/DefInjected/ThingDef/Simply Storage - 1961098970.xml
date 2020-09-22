@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <JDS_Wooden_Crate.label>상자 A</JDS_Wooden_Crate.label>
+  <JDS_Wooden_Crate.description>판자로 만들어진 상자로 내용물을 보호하거나 운송을 위한 포장입니다.</JDS_Wooden_Crate.description>
+  <JDS_Wooden_Crate_Two.label>상자 A2</JDS_Wooden_Crate_Two.label>
+  <JDS_Wooden_Crate_Two.description>판자로 만들어진 상자로 내용물을 보호하거나 운송을 위한 포장입니다.</JDS_Wooden_Crate_Two.description>
+  <JDS_Wooden_Crate_Three.label>상자 A3</JDS_Wooden_Crate_Three.label>
+  <JDS_Wooden_Crate_Three.description>판자로 만들어진 상자로 내용물을 보호하거나 운송을 위한 포장입니다.</JDS_Wooden_Crate_Three.description>
+  <JDS_Wooden_Crate_four.label>상자 A4</JDS_Wooden_Crate_four.label>
+  <JDS_Wooden_Crate_four.description>판자로 만들어진 상자로 내용물을 보호하거나 운송을 위한 포장입니다.</JDS_Wooden_Crate_four.description>
+  <JDS_Wooden_Crate_B.label>상자 B</JDS_Wooden_Crate_B.label>
+  <JDS_Wooden_Crate_B.description>판자로 만들어진 상자로 내용물을 보호하거나 운송을 위한 포장입니다.</JDS_Wooden_Crate_B.description>
+  <JDS_Wooden_Crate_C.label>상자 C</JDS_Wooden_Crate_C.label>
+  <JDS_Wooden_Crate_C.description>판자로 만들어진 상자로 내용물을 보호하거나 운송을 위한 포장입니다.</JDS_Wooden_Crate_C.description>
+  <JDS_Wooden_Crate_Large.label>큰 상자</JDS_Wooden_Crate_Large.label>
+  <JDS_Wooden_Crate_Large.description>많은 양의 물품을 안전하게 보관하기 위한 큰 상자입니다. 여기에 보관된 물품은 외부에서도 변질되지 않습니다.</JDS_Wooden_Crate_Large.description>
+  <JDS_Wooden_Barrel.label>통</JDS_Wooden_Barrel.label>
+  <JDS_Wooden_Barrel.description>...</JDS_Wooden_Barrel.description>
+  <JDS_Wooden_Barrel_Pile.label>통 더미</JDS_Wooden_Barrel_Pile.label>
+  <JDS_Wooden_Barrel_Pile.description>...</JDS_Wooden_Barrel_Pile.description>
+  <JDS_Metal_Crate.label>금속 상자</JDS_Metal_Crate.label>
+  <JDS_Metal_Crate.description>많은 양의 물품을 안전하게 보관하기 위한 상자입니다. 여기에 보관된 물품은 외부에서도 변질되지 않습니다.</JDS_Metal_Crate.description>
+  <JDS_Metal_Crate_Pile.label>금속 상자 더미</JDS_Metal_Crate_Pile.label>
+  <JDS_Metal_Crate_Pile.description>많은 양의 물품을 안전하게 보관하기 위한 상자입니다. 여기에 보관된 물품은 외부에서도 변질되지 않습니다.</JDS_Metal_Crate_Pile.description>
+  <JDS_Metal_Crate_Small_Pile.label>작은 금속 상자 더미</JDS_Metal_Crate_Small_Pile.label>
+  <JDS_Metal_Crate_Small_Pile.description>많은 양의 물품을 안전하게 보관하기 위한 상자입니다. 여기에 보관된 물품은 외부에서도 변질되지 않습니다.</JDS_Metal_Crate_Small_Pile.description>
+  <JDS_Metal_Crate_Bigger_Pile.label>큰 금속 상자 더미</JDS_Metal_Crate_Bigger_Pile.label>
+  <JDS_Metal_Crate_Bigger_Pile.description>많은 양의 물품을 안전하게 보관하기 위한 상자입니다. 여기에 보관된 물품은 외부에서도 변질되지 않습니다.</JDS_Metal_Crate_Bigger_Pile.description>
+  <JDSMilitaryGradeCrateSmall.label>작은 군용 상자</JDSMilitaryGradeCrateSmall.label>
+  <JDSMilitaryGradeCrateSmall.description>많은 무기 및 그 외의 물건을 안전하게 보관하기 위한 군용 상자</JDSMilitaryGradeCrateSmall.description>
+  <JDSMilitary_Grade_Crate_Small_Pile.label>작은 군용 상자 더미</JDSMilitary_Grade_Crate_Small_Pile.label>
+  <JDSMilitary_Grade_Crate_Small_Pile.description>많은 무기 및 그 외의 물건을 안전하게 보관하기 위한 군용 상자</JDSMilitary_Grade_Crate_Small_Pile.description>
+  <JDSMilitary_Grade_Crate_Long.label>긴 군용 상자</JDSMilitary_Grade_Crate_Long.label>
+  <JDSMilitary_Grade_Crate_Long.description>많은 무기 및 그 외의 물건을 안전하게 보관하기 위한 군용 상자</JDSMilitary_Grade_Crate_Long.description>
+  <JDSMilitary_Grade_crate_Large.label>큰 군용 상자</JDSMilitary_Grade_crate_Large.label>
+  <JDSMilitary_Grade_crate_Large.description>많은 무기 및 그 외의 물건을 안전하게 보관하기 위한 군용 상자</JDSMilitary_Grade_crate_Large.description>
+  <JDSShippingContainerRed.label>빨간색 선적 컨테이너</JDSShippingContainerRed.label>
+  <JDSShippingContainerRed.description>선적, 보관 및 운반에 용이한 튼튼한 컨테이너 입니다.</JDSShippingContainerRed.description>
+  <JDSShippingContainerBlue.label>파란색 선적 컨테이너</JDSShippingContainerBlue.label>
+  <JDSShippingContainerBlue.description>선적, 보관 및 운반에 용이한 튼튼한 컨테이너 입니다.</JDSShippingContainerBlue.description>
+  <JDSShippingContainerGreen.label>녹색 선적 컨테이너</JDSShippingContainerGreen.label>
+  <JDSShippingContainerGreen.description>선적, 보관 및 운반에 용이한 튼튼한 컨테이너 입니다.</JDSShippingContainerGreen.description>
+  <JDSTool_Box.label>공구 상자</JDSTool_Box.label>
+  <JDSTool_Box.description>...</JDSTool_Box.description>
+  <JDSBeer_Crate.label>맥주 상자</JDSBeer_Crate.label>
+  <JDSBeer_Crate.description>팔레트 위의 종이 상자들</JDSBeer_Crate.description>
+  <JDSPallet_Box.label>팔레트 상자</JDSPallet_Box.label>
+  <JDSPallet_Box.description>팔레트 위의 종이 상자들</JDSPallet_Box.description>
+  <JDSPallet_Container.label>팔레트 컨테이너</JDSPallet_Container.label>
+  <JDSPallet_Container.description>금속이 아닌 것들을 포장한 컨테이너</JDSPallet_Container.description>
+  <JDSMetal_Shelf_A.label>금속 선반 A (비었음)</JDSMetal_Shelf_A.label>
+  <JDSMetal_Shelf_A.description>...</JDSMetal_Shelf_A.description>
+  <JDSMetal_Shelf_B.label>금속 선반 B (비었음)</JDSMetal_Shelf_B.label>
+  <JDSMetal_Shelf_B.description>...</JDSMetal_Shelf_B.description>
+  <JDSIndustrial_shelf.label>산업 선반 (가득 참)</JDSIndustrial_shelf.label>
+  <JDSIndustrial_shelf.description>...</JDSIndustrial_shelf.description>
+  <JDSIndustrial_shelf_empty.label>산업 선반 (비었음)</JDSIndustrial_shelf_empty.label>
+  <JDSIndustrial_shelf_empty.description>...</JDSIndustrial_shelf_empty.description>
+  <JDSBank_Vault.label>은행 금고</JDSBank_Vault.label>
+  <JDSBank_Vault.description>...</JDSBank_Vault.description>
+  <JDSAmmo_BoxA.label>탄약 상자</JDSAmmo_BoxA.label>
+  <JDSAmmo_BoxA.description>...</JDSAmmo_BoxA.description>
+  <JDSAmmo_BoxB.label>탄약 상자</JDSAmmo_BoxB.label>
+  <JDSAmmo_BoxB.description>...</JDSAmmo_BoxB.description>
+  <JDSAmmo_BoxC.label>탄약 상자</JDSAmmo_BoxC.label>
+  <JDSAmmo_BoxC.description>...</JDSAmmo_BoxC.description>
+  <JDSAmmo_Crate.label>탄약 상자</JDSAmmo_Crate.label>
+  <JDSAmmo_Crate.description>...</JDSAmmo_Crate.description>
+  <JDSAmmo_Crate_Piles.label>탄약 상자 더미들</JDSAmmo_Crate_Piles.label>
+  <JDSAmmo_Crate_Piles.description>...</JDSAmmo_Crate_Piles.description>
+  <JDSIndustrial_Dumpster.label>산업 쓰레기 수거통</JDSIndustrial_Dumpster.label>
+  <JDSIndustrial_Dumpster.description>...</JDSIndustrial_Dumpster.description>
+
+</LanguageData>

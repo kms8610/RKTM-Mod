@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NaturalHunter.degreeDatas.0.label>자연의 사냥꾼</NaturalHunter.degreeDatas.0.label>
+  <NaturalHunter.degreeDatas.0.description>{PAWN_nameDef}은 이제 자연의 사냥꾼입니다.</NaturalHunter.degreeDatas.0.description>
+  <MutationAffinity.degreeDatas.0.label>돌연변이 친화력</MutationAffinity.degreeDatas.0.label>
+  <MutationAffinity.degreeDatas.0.description>{PAWN_nameDef}은(는) 인간이 아닌 뭔가 다른 존재가 되겠다는 생각에 호기심을 느낍니다.</MutationAffinity.degreeDatas.0.description>
+
+</LanguageData>

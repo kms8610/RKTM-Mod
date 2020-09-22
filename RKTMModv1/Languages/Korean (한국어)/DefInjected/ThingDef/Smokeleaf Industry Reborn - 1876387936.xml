@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GrowLamp.label>재배 램프</GrowLamp.label>
+  <GrowLamp.description>실내용으로 설계된 전력 효율적인 재배 램프로, 타이머가 내장되어 있습니다.</GrowLamp.description>
+  <GrowLamp.comps.4.offMessage>최적의 성장을 위해 타이머가 설정됨.</GrowLamp.comps.4.offMessage>
+  <MSI_TubeGrowLights.label>재배 조명</MSI_TubeGrowLights.label>
+  <MSI_TubeGrowLights.description>식물 재배를 위해 설계된 튜브 램프이지만, 다른 구역에서도 잘 쓸 수 있기 때문에 충분히 비용 효율이 좋습니다. 하루 24시간 빛납니다.</MSI_TubeGrowLights.description>
+  <MSI_StonePlanter.label>재배기</MSI_StonePlanter.label>
+  <MSI_StonePlanter.description>연초잎이나 다른 식물들을 위한 석재 재배기입니다. 보통보다 1.5배 빠르게 성장할 수 있도록 흙에 비료를 주었습니다. 빛과 열을 필요로 합니다.</MSI_StonePlanter.description>
+  <MSI_WoodenPlanter.label>재배기</MSI_WoodenPlanter.label>
+  <MSI_WoodenPlanter.description>연초잎이나 다른 식물들을 위한 목재 재배기입니다. 보통보다 1.5배 빠르게 성장할 수 있도록 흙에 비료를 주었습니다. 빛과 열을 필요로 합니다.</MSI_WoodenPlanter.description>
+  <SpaceBucket.label>공간 양동이</SpaceBucket.label>
+  <SpaceBucket.description>자급자족형 재배환경입니다. 식물 하나를 키우기 위해 상당한 전력을 사용하지만, 보통의 5배 속도로 자라게 합니다. 한정된 공간에서 이상적입니다. 열을 필요로 합니다.</SpaceBucket.description>
+  <HempolineGenerator.label>대마 연료 전력 발전기</HempolineGenerator.label>
+  <HempolineGenerator.description>대마 연료를 태워 전력을 생산합니다. 수동으로 연료를 공급해야 합니다.</HempolineGenerator.description>
+  <HempPowerConduit.label>대마 전선</HempPowerConduit.label>
+  <HempPowerConduit.description>번화계 기술 대마 전선입니다. 멋진 녹색 빛을 주변에 비추어, 눈이 덜 고통스럽게 합니다. 벽이나 다른 건물 아래에 건설하거나 일반 전선과 연결할 수 있습니다.</HempPowerConduit.description>
+  <HempBattery.label>대마 축전지</HempBattery.label>
+  <HempBattery.description>초전도성 대마 나노시트로 만든 번화계 기술 축전지로, 일반 축전지보다 더 많은 전력을 저장할 수 있습니다. 경고 - 충전된 축전지는 비나 불에 노출되면 폭발하는 경향이 있습니다.</HempBattery.description>
+  <HempSolarGenerator.label>대마 태양광 발전기</HempSolarGenerator.label>
+  <HempSolarGenerator.description>초전도성 대마로 만든 번화계 기술 태양광 발전기로, 일반 태양광 발전기보다 더 많은 전력을 생산합니다. 어둠 속에서는 작동하지 않습니다.</HempSolarGenerator.description>
+  <PoweredCultivationBench.label>재배 작업대</PoweredCultivationBench.label>
+  <PoweredCultivationBench.description>연초잎을 가공하기 위해 특별히 설계된 작업대입니다. 새 오락용 약물들과 대량 생산용 레시피가 추가되었습니다. 전력 없이 심각하게 저하된 속도로 작동할 수 있습니다.</PoweredCultivationBench.description>
+  <MedicinalsLab.label>의약품 작업대</MedicinalsLab.label>
+  <MedicinalsLab.description>연초잎을 가장 순수한 의약 형태로 가공할 수 있는 고급 작업대입니다. 전력이 있어야 작동합니다.</MedicinalsLab.description>
+  <SmokeleafAutoTrimmer.label>연초잎 자동 손질기</SmokeleafAutoTrimmer.label>
+  <SmokeleafAutoTrimmer.description>향상된 속도와 절감된 전력 소모량으로 대량의 연초잎을 유용한 제품으로 가공합니다.</SmokeleafAutoTrimmer.description>
+  <TrimmingTools.label>손질 도구</TrimmingTools.label>
+  <TrimmingTools.description>작업 속도를 향상시킵니다. 작업대 근처에 설치되어야 합니다. 한 개의 작업대는 두 개의 손질 도구에 연결할 수 있습니다.</TrimmingTools.description>
+  <SmokeleafCannagar.label>연초잎 캐나가르</SmokeleafCannagar.label>
+  <SmokeleafCannagar.description>연초잎 싹을 막대에 두르고 기름을 적신 잎으로 말았습니다. 아주 강하고 아주 비쌉니다. 기분을 개선하지만, 식욕도 증가시키고, 집중력과 이동 속도를 저해합니다. 물리적 중독성은 없으나, 사용자들은 여전히 심리적 의존성을 얻을 수 있습니다.</SmokeleafCannagar.description>
+  <SmokeleafCannagar.ingestible.ingestCommandString>{0} 피우기</SmokeleafCannagar.ingestible.ingestCommandString>
+  <SmokeleafCannagar.ingestible.ingestReportString>{0} 피우는 중.</SmokeleafCannagar.ingestible.ingestReportString>
+  <CHO.label>화학연료 해쉬 기름</CHO.label>
+  <CHO.description>화학연료 해쉬 기름(Chemfuel Hash Oil, CHO)은 화학연료를 사용해 추출한 연초잎 추출물입니다. 기화성이 있어 유해물질 일부는 제거되었지만, 그 추출법으로 인해 다른 위험성이 증가했습니다. 물리적 중독성은 없으나, 사용자들은 여전히 심리적 의존성을 얻을 수 있습니다.</CHO.description>
+  <CHO.ingestible.ingestCommandString>{0} 피우기</CHO.ingestible.ingestCommandString>
+  <CHO.ingestible.ingestReportString>{0} 피우는 중.</CHO.ingestible.ingestReportString>
+  <CrudeSmokeleafJoint.label>간이 연초잎 조인트</CrudeSmokeleafJoint.label>
+  <CrudeSmokeleafJoint.description>연초잎 식물 재료를 피울 수 있도록 대충 잎으로 말아둔 것입니다. 기분을 개선하지만, 식욕도 증가시키고, 집중력과 이동 속도를 저해합니다. 간이 제작 장소에서 도구 없이도 만들 수 있습니다. 간이 연초잎 조인트를 피우는 것은 매우 비효율적인 방법입니다. 물리적 중독성은 없으나, 사용자들은 여전히 심리적 의존성을 얻을 수 있습니다.</CrudeSmokeleafJoint.description>
+  <CrudeSmokeleafJoint.ingestible.ingestCommandString>{0} 피우기</CrudeSmokeleafJoint.ingestible.ingestCommandString>
+  <CrudeSmokeleafJoint.ingestible.ingestReportString>{0} 피우는 중.</CrudeSmokeleafJoint.ingestible.ingestReportString>
+  <SmokeleafDistillate.label>연초잎 증류액</SmokeleafDistillate.label>
+  <SmokeleafDistillate.description>연초잎 증류액은 궁극의 추출물입니다. 다른 연초잎 제품들과 같은 위험성 없이 깔끔한 도취감을 얻을 수 있습니다. 물리적 중독성은 없으나, 사용자들은 여전히 심리적 의존성을 얻을 수 있습니다.</SmokeleafDistillate.description>
+  <SmokeleafDistillate.ingestible.ingestCommandString>{0} 마시기</SmokeleafDistillate.ingestible.ingestCommandString>
+  <SmokeleafDistillate.ingestible.ingestReportString>{0} 마시는 중.</SmokeleafDistillate.ingestible.ingestReportString>
+  <SmokeleafHash.label>연초잎 해쉬</SmokeleafHash.label>
+  <SmokeleafHash.description>연초잎 해쉬는 독창적인 연초잎 농축물입니다. 연초잎 싹에서 수집한 수지로 만듭니다. 물리적 중독성은 없으나, 사용자들은 여전히 심리적 의존성을 얻을 수 있습니다.</SmokeleafHash.description>
+  <SmokeleafHash.ingestible.ingestCommandString>{0} 피우기</SmokeleafHash.ingestible.ingestCommandString>
+  <SmokeleafHash.ingestible.ingestReportString>{0} 피우는 중.</SmokeleafHash.ingestible.ingestReportString>
+  <BlocksHempcrete.label>떨크리트 벽돌</BlocksHempcrete.label>
+  <BlocksHempcrete.description>대마 합성물로 만든 블록입니다. 떨크리트는 인화성이 없지만, 아주 강하지도 않습니다.</BlocksHempcrete.description>
+  <BlocksHempcrete.stuffProps.stuffAdjective>떨크리트</BlocksHempcrete.stuffProps.stuffAdjective>
+  <SmokeleafButter.label>연초잎 버터</SmokeleafButter.label>
+  <SmokeleafButter.description>연초잎 싹과 우유를 끓여 만든 버터입니다. 연초잎 식품을 위한 강력한 기초 재료가 됩니다. 맛이 끔찍하긴 하지만 취하기 위해 날것으로 먹을 수 있습니다.</SmokeleafButter.description>
+  <SmokeleafButter.ingestible.ingestCommandString>{0} 먹기</SmokeleafButter.ingestible.ingestCommandString>
+  <SmokeleafButter.ingestible.ingestReportString>{0} 먹는 중.</SmokeleafButter.ingestible.ingestReportString>
+  <HempFlour.label>떨가루</HempFlour.label>
+  <HempFlour.description>연초잎 씨앗을 갈아 고운 제빵용 가루로 만들 수 있습니다.</HempFlour.description>
+  <HempFlour.ingestible.ingestCommandString>{0} 먹기</HempFlour.ingestible.ingestCommandString>
+  <HempFlour.ingestible.ingestReportString>{0} 먹는 중.</HempFlour.ingestible.ingestReportString>
+  <HempMilk.label>대마 우유</HempMilk.label>
+  <HempMilk.description>물에 적신 씨앗을 빻아 만든 "우유"입니다. 요리 할 때 동물성 우유의 대안으로 사용할 수 있습니다.</HempMilk.description>
+  <HempMilk.ingestible.ingestCommandString>{0} 마시기</HempMilk.ingestible.ingestCommandString>
+  <HempMilk.ingestible.ingestReportString>{0} 마시는 중.</HempMilk.ingestible.ingestReportString>
+  <HempProtein.label>대마 단백질</HempProtein.label>
+  <HempProtein.description>찧은 연초잎 씨앗으로 만든 단백질 파우더입니다. 요리 할 때 대체 단백질원으로 사용할 수 있습니다.</HempProtein.description>
+  <HempProtein.ingestible.ingestCommandString>{0} 먹기</HempProtein.ingestible.ingestCommandString>
+  <HempProtein.ingestible.ingestReportString>{0} 먹는 중.</HempProtein.ingestible.ingestReportString>
+  <SmokeleafSeedOil.label>연초씨유</SmokeleafSeedOil.label>
+  <SmokeleafSeedOil.description>연초잎 씨앗에서 짜낸 기름입니다. 씨앗 기름은 약효가 없지만, 다양한 용도로 쓸 수 있습니다.</SmokeleafSeedOil.description>
+  <SmokeleafSeedOil.ingestible.ingestCommandString>{0} 마시기</SmokeleafSeedOil.ingestible.ingestCommandString>
+  <SmokeleafSeedOil.ingestible.ingestReportString>{0} 마시는 중.</SmokeleafSeedOil.ingestible.ingestReportString>
+  <SmokeleafBrownie.label>연초잎 브라우니</SmokeleafBrownie.label>
+  <SmokeleafBrownie.description>악명 높은 "특수" 브라우니입니다. 약간 중독성이 있습니다!</SmokeleafBrownie.description>
+  <SmokeleafBrownie.ingestible.ingestCommandString>{0} 먹기</SmokeleafBrownie.ingestible.ingestCommandString>
+  <SmokeleafBrownie.ingestible.ingestReportString>{0} 먹는 중.</SmokeleafBrownie.ingestible.ingestReportString>
+  <SmokeleafCookie.label>연초잎 쿠키</SmokeleafCookie.label>
+  <SmokeleafCookie.description>연초잎 버터 쿠키입니다. 편히 쉬세요.</SmokeleafCookie.description>
+  <SmokeleafCookie.ingestible.ingestCommandString>{0} 먹기</SmokeleafCookie.ingestible.ingestCommandString>
+  <SmokeleafCookie.ingestible.ingestReportString>{0} 먹는 중.</SmokeleafCookie.ingestible.ingestReportString>
+  <SmokeleafNutriLeaf.label>뉴트리잎 바 (연초잎)</SmokeleafNutriLeaf.label>
+  <SmokeleafNutriLeaf.description>쫀득하고, 과일로 가득찬, 연초잎이 첨가된 스낵 바입니다. 길거리에서 먹기 좋은 훌륭한 간식입니다.</SmokeleafNutriLeaf.description>
+  <SmokeleafNutriLeaf.ingestible.ingestCommandString>{0} 먹기</SmokeleafNutriLeaf.ingestible.ingestCommandString>
+  <SmokeleafNutriLeaf.ingestible.ingestReportString>{0} 먹는 중.</SmokeleafNutriLeaf.ingestible.ingestReportString>
+  <SmokeleafDeEnergyDrink.label>연초잎 디-에너지 드링크</SmokeleafDeEnergyDrink.label>
+  <SmokeleafDeEnergyDrink.description>앞으로 5시간 동안은 아무 계획도 세우지 마세요.</SmokeleafDeEnergyDrink.description>
+  <SmokeleafDeEnergyDrink.ingestible.ingestCommandString>{0} 먹기</SmokeleafDeEnergyDrink.ingestible.ingestCommandString>
+  <SmokeleafDeEnergyDrink.ingestible.ingestReportString>{0} 먹는 중.</SmokeleafDeEnergyDrink.ingestible.ingestReportString>
+  <SmokeleafSmoothie.label>연초잎 스무디</SmokeleafSmoothie.label>
+  <SmokeleafSmoothie.description>연초잎 맛이 강한 맛있는 과일 스무디입니다. 영양분이 매우 풍부합니다.</SmokeleafSmoothie.description>
+  <SmokeleafSmoothie.ingestible.ingestCommandString>{0} 마시기</SmokeleafSmoothie.ingestible.ingestCommandString>
+  <SmokeleafSmoothie.ingestible.ingestReportString>{0} 마시는 중.</SmokeleafSmoothie.ingestible.ingestReportString>
+  <SmokeleafCandy.label>연초잎 사탕</SmokeleafCandy.label>
+  <SmokeleafCandy.description>맛있는 과일맛 첨가 과자입니다.</SmokeleafCandy.description>
+  <SmokeleafCandy.ingestible.ingestCommandString>{0} 먹기</SmokeleafCandy.ingestible.ingestCommandString>
+  <SmokeleafCandy.ingestible.ingestReportString>{0} 먹는 중.</SmokeleafCandy.ingestible.ingestReportString>
+  <MealInfused.label>첨가 식사</MealInfused.label>
+  <MealInfused.description>약간 약빨이 돋는 배부른 푸짐한 식사입니다.</MealInfused.description>
+  <HempFiber.label>대마 섬유</HempFiber.label>
+  <HempFiber.description>연초잎을 손질하고 남은 줄기와 이파리들입니다.</HempFiber.description>
+  <HempFiber.stuffProps.stuffAdjective>대마</HempFiber.stuffProps.stuffAdjective>
+  <SmokeleafBuds.label>연초잎 싹</SmokeleafBuds.label>
+  <SmokeleafBuds.description>연초잎의 꽃입니다. 좋은 건 여기 다 들어 있습니다.</SmokeleafBuds.description>
+  <SmokeleafBuds.ingestible.ingestCommandString>{0} 먹기</SmokeleafBuds.ingestible.ingestCommandString>
+  <SmokeleafBuds.ingestible.ingestReportString>{0} 먹는 중.</SmokeleafBuds.ingestible.ingestReportString>
+  <SmokeleafSeed.label>연초잎 씨앗</SmokeleafSeed.label>
+  <SmokeleafSeed.description>연초잎 식물의 씨앗입니다.</SmokeleafSeed.description>
+  <HempFabric.label>대마 직물(삼베)</HempFabric.label>
+  <HempFabric.description>대마 섬유로 엮은 직물입니다.</HempFabric.description>
+  <HempFabric.stuffProps.stuffAdjective>대마 직물(삼베)</HempFabric.stuffProps.stuffAdjective>
+  <DevilsleafFabric.label>악마잎 직물</DevilsleafFabric.label>
+  <DevilsleafFabric.description>대마 섬유와 악마가닥을 엮어 두 재료의 장점을 가져온 새로운 직물입니다.</DevilsleafFabric.description>
+  <DevilsleafFabric.stuffProps.stuffAdjective>악마잎 직물</DevilsleafFabric.stuffProps.stuffAdjective>
+  <HempBiocomposite.label>대마 생체복합재료</HempBiocomposite.label>
+  <HempBiocomposite.description>대마 섬유, 대마 직물(삼베)와 생체석탄으로 만든 생체복합재료입니다. 금속의 지속적 대용품으로 쓸만합니다. 강철보다 장력 강도가 약간 더 큽니다.</HempBiocomposite.description>
+  <HempBiocomposite.stuffProps.stuffAdjective>대마 생체복합재료</HempBiocomposite.stuffProps.stuffAdjective>
+  <HempBiocoal.label>대마 생체석탄</HempBiocoal.label>
+  <HempBiocoal.description>대마 섬유를 초고열로 가열한 결과입니다. 원래는 연료로 사용하기 위해 개발된 제품이지만, 지금은 강철을 대신하는 재활용 제품으로 그 유용성을 인정 받고 있습니다.</HempBiocoal.description>
+  <HempNanosheet.label>대마 나노시트</HempNanosheet.label>
+  <HempNanosheet.description>탄화 대마 섬유와 플라스틸로 만든 번화계 자재입니다. 높은 전도성 덕분에 고급 장비에 사용됩니다.</HempNanosheet.description>
+  <HempNanosheet.stuffProps.stuffAdjective>대마 나노시트</HempNanosheet.stuffProps.stuffAdjective>
+  <Hempoline.label>대마 연료</Hempoline.label>
+  <Hempoline.description>연초잎 줄기와 씨앗을 정제해 만든 안전하고 안정적인 연료입니다. 비휘발성이지만, 시간이 지나면 상합니다. 대마 연료 전력 발전기에 연료로 사용할 수 있고 또는 화학 연료 발전기를 위한 대체 연료로 사용될 수 있습니다.</Hempoline.description>
+  <CBD.label>CBD</CBD.label>
+  <CBD.description>연초잎에서 발견한 방대한 의학적 가능성을 가진 화합물입니다. 약초보다 효과적이지만 표준 산업계 약품만큼 효과적이지 않습니다. CBD는 다른 의약품과 섞어 더 큰 치료 효과를 불러올 수 있습니다.</CBD.description>
+  <InfusedMedicine.label>첨가 약품</InfusedMedicine.label>
+  <InfusedMedicine.description>CBD를 첨가한 산업계 약품입니다. 일반 약품보다 효과적이지만, 변화계 약품만큼 효과적이지 않습니다.</InfusedMedicine.description>
+  <SmokeleafLotion.label>연초잎 로션</SmokeleafLotion.label>
+  <SmokeleafLotion.description>오래된 흉터를 치료하고, 통증을 가라앉히고 운동 능력을 회복시킬 수 있는 피부 로션입니다.</SmokeleafLotion.description>
+  <SmokeleafLotion.ingestible.ingestCommandString>{0} 바르기</SmokeleafLotion.ingestible.ingestCommandString>
+  <SmokeleafLotion.ingestible.ingestReportString>{0} 바르는 중.</SmokeleafLotion.ingestible.ingestReportString>
+  <SmokeleafPills.label>연초잎 알약</SmokeleafPills.label>
+  <SmokeleafPills.description>의약품 작업대에서 만들어 예방적 치료, 회복 증진 및 중등도의 진통제로 사용할 수 있는 알약입니다. 졸림을 유발할 수 있습니다.</SmokeleafPills.description>
+  <SmokeleafPills.ingestible.ingestCommandString>{0} 복용</SmokeleafPills.ingestible.ingestCommandString>
+  <SmokeleafPills.ingestible.ingestReportString>{0} 복용 중.</SmokeleafPills.ingestible.ingestReportString>
+  <MSI_SOG.label>연초 (초록의 물결)</MSI_SOG.label>
+  <MSI_SOG.description>정신심리적 효과를 위해 재배하는 잎이 무성한 식물입니다. 초록의 물결(SOG) 기법을 사용해 재배에 적은 시간이 걸리지만, 생산량이 적습니다.</MSI_SOG.description>
+  <MSI_SCROG.label>연초 (초록 스크린)</MSI_SCROG.label>
+  <MSI_SCROG.description>정신심리적 효과를 위해 재배하는 잎이 무성한 식물입니다. 초록 스크린(SCROG) 기법을 사용해 재배에 더 많은 시간이 걸리지만, 생산량이 더 많습니다.</MSI_SCROG.description>
+  <SmokeleafTincture.label>연초잎 팅크제</SmokeleafTincture.label>
+  <SmokeleafTincture.description>상당한 진통효과와 수면을 돕는 강력한 용액입니다. 자기 전에 먹는게 가장 좋습니다.</SmokeleafTincture.description>
+  <SmokeleafTincture.ingestible.ingestCommandString>{0} 복용</SmokeleafTincture.ingestible.ingestCommandString>
+  <SmokeleafTincture.ingestible.ingestReportString>{0} 복용 중.</SmokeleafTincture.ingestible.ingestReportString>
+  <Mote_StonedCloud.label>Mote</Mote_StonedCloud.label>
+
+</LanguageData>

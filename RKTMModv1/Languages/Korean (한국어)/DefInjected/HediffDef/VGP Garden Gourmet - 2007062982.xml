@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HedGmeat.label>치즈버거 섭취함</HedGmeat.label>
+  <HedGmeat.description>좋은 음식을 먹고 긍정적인 효과를 느끼고 있습니다.</HedGmeat.description>
+  <HedGmeat.stages.0.label>영양식</HedGmeat.stages.0.label>
+  <HedIceCream.label>아이스크림 섭취함</HedIceCream.label>
+  <HedIceCream.description>좋은 음식을 먹고 긍정적인 효과를 느끼고 있습니다.</HedIceCream.description>
+  <HedIceCream.stages.0.label>영양식</HedIceCream.stages.0.label>
+  <HedPizza.label>피자 섭취함</HedPizza.label>
+  <HedPizza.description>좋은 음식을 먹고 긍정적인 효과를 느끼고 있습니다.</HedPizza.description>
+  <HedPizza.stages.0.label>영양식</HedPizza.stages.0.label>
+  <HedPorridge.description>좋은 음식을 먹고 긍정적인 효과를 느끼고 있습니다.</HedPorridge.description>
+  <HedPorridge.label>죽 섭취함</HedPorridge.label>
+  <HedPorridge.stages.0.label>영양식</HedPorridge.stages.0.label>
+  <HedSmoothie.description>좋은 음식을 먹고 긍정적인 효과를 느끼고 있습니다.</HedSmoothie.description>
+  <HedSmoothie.label>스무디 섭취함</HedSmoothie.label>
+  <HedSmoothie.stages.0.label>영양식</HedSmoothie.stages.0.label>
+  <HedTacos.description>좋은 음식을 먹고 긍정적인 효과를 느끼고 있습니다.</HedTacos.description>
+  <HedTacos.label>타코 섭취함</HedTacos.label>
+  <HedTacos.stages.0.label>영양식</HedTacos.stages.0.label>
+  <HedYogurt.description>좋은 음식을 먹고 긍정적인 효과를 느끼고 있습니다.</HedYogurt.description>
+  <HedYogurt.label>요거트 섭취함</HedYogurt.label>
+  <HedYogurt.stages.0.label>영양식</HedYogurt.stages.0.label>
+  <HedGrilledchz.description>좋은 음식을 먹고 긍정적인 효과를 느끼고 있습니다.</HedGrilledchz.description>
+  <HedGrilledchz.label>샌드위치 섭취함</HedGrilledchz.label>
+  <HedGrilledchz.stages.0.label>영양식</HedGrilledchz.stages.0.label>
+  <HedSweetbun.description>좋은 음식을 먹고 긍정적인 효과를 느끼고 있습니다.</HedSweetbun.description>
+  <HedSweetbun.label>제과품 섭취함</HedSweetbun.label>
+  <HedSweetbun.stages.0.label>영양식</HedSweetbun.stages.0.label>
+  <HedPolenta.label>폴렌타 섭취함</HedPolenta.label>
+  <HedPolenta.description>좋은 음식을 먹고 긍정적인 효과를 느끼고 있습니다.</HedPolenta.description>
+  <HedPolenta.stages.0.label>영양식</HedPolenta.stages.0.label>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <C81_StdCan.label>일반 깡통</C81_StdCan.label>
+  <C81_StdCan.description>빈 깡통은 재료를 저장할 수 있습니다.</C81_StdCan.description>
+  <C81_AdvCan.label>보존용 깡통</C81_AdvCan.label>
+  <C81_AdvCan.description>빈 보존용 깡통은 재료를 보관하고, 장기간 저장할 수 있습니다.</C81_AdvCan.description>
+  <C81_CannedMeatRaw.label>고기 통조림</C81_CannedMeatRaw.label>
+  <C81_CannedMeatRaw.description>요리용 고기 갈비가 들어있는 깡통입니다.</C81_CannedMeatRaw.description>
+  <C81_CannedVegsRaw.label>야채 통조림</C81_CannedVegsRaw.label>
+  <C81_CannedVegsRaw.description>요리를 위해 말린 야채가 들어있는 깡통입니다.</C81_CannedVegsRaw.description>
+  <C81_PreservedMeatRaw.label>고기 보존 통조림</C81_PreservedMeatRaw.label>
+  <C81_PreservedMeatRaw.description>더 오래 보존할 수 있도록, 양념된 요리용 고기 갈비가 들어있는 깡통입니다.</C81_PreservedMeatRaw.description>
+  <C81_PreservedVegsRaw.label>야채 보존 통조림</C81_PreservedVegsRaw.label>
+  <C81_PreservedVegsRaw.description>더 오래 보존할 수 있도록, 양념된 요리용 건조 야채가 들어있는 깡통입니다.</C81_PreservedVegsRaw.description>
+
+</LanguageData>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_Belt_Flak_38_HEFIT_RA.label>2cm HEFI-T 벨트 제작</Make_Belt_Flak_38_HEFIT_RA.label>
+  <Make_Belt_Flak_38_HEFIT_RA.description>2cm HEFI-T 벨트를 제작합니다.</Make_Belt_Flak_38_HEFIT_RA.description>
+  <Make_Belt_Flak_38_HEFIT_RA.jobString>2cm HEFI-T 벨트 제작 중.</Make_Belt_Flak_38_HEFIT_RA.jobString>
+  <Make_Shell_leIG_18_HE_RA.label>7,5cm le.IG 18 고폭탄 제작</Make_Shell_leIG_18_HE_RA.label>
+  <Make_Shell_leIG_18_HE_RA.description>7,5cm le.IG 18 고폭탄을 제작합니다.</Make_Shell_leIG_18_HE_RA.description>
+  <Make_Shell_leIG_18_HE_RA.jobString>7,5cm le.IG 18 고폭탄 제작 중.</Make_Shell_leIG_18_HE_RA.jobString>
+  <Make_Shell_leIG_18_HEAT_RA.label>7,5cm le.IG 18 대전차고폭탄 제작</Make_Shell_leIG_18_HEAT_RA.label>
+  <Make_Shell_leIG_18_HEAT_RA.description>7,5cm le.IG 18 대전차고폭탄을 제작합니다.</Make_Shell_leIG_18_HEAT_RA.description>
+  <Make_Shell_leIG_18_HEAT_RA.jobString>7,5cm le.IG 18 대전차고폭탄 제작 중.</Make_Shell_leIG_18_HEAT_RA.jobString>
+  <Make_Shell_Nebelwerfer_41_HE_RA.label>15cm 고폭탄 로켓 제작</Make_Shell_Nebelwerfer_41_HE_RA.label>
+  <Make_Shell_Nebelwerfer_41_HE_RA.description>15cm 고폭탄 로켓을 제작합니다.</Make_Shell_Nebelwerfer_41_HE_RA.description>
+  <Make_Shell_Nebelwerfer_41_HE_RA.jobString>15cm 고폭탄 로켓 제작 중.</Make_Shell_Nebelwerfer_41_HE_RA.jobString>
+  <Make_Shell_PaK_36_HE_RA.label>3,7cm 고폭탄 제작</Make_Shell_PaK_36_HE_RA.label>
+  <Make_Shell_PaK_36_HE_RA.description>3,7cm 고폭탄을 제작합니다.</Make_Shell_PaK_36_HE_RA.description>
+  <Make_Shell_PaK_36_HE_RA.jobString>3,7cm 고폭탄 제작 중.</Make_Shell_PaK_36_HE_RA.jobString>
+  <Make_Shell_PaK_36_APCR_RA.label>3,7cm 경심철갑탄</Make_Shell_PaK_36_APCR_RA.label>
+  <Make_Shell_PaK_36_APCR_RA.description>3,7cm 경심철갑탄을 제작합니다.</Make_Shell_PaK_36_APCR_RA.description>
+  <Make_Shell_PaK_36_APCR_RA.jobString>3,7cm 경심철갑탄 제작 중.</Make_Shell_PaK_36_APCR_RA.jobString>
+  <Make_Shell_PaK_40_HE_RA.label>7,5cm 고폭탄</Make_Shell_PaK_40_HE_RA.label>
+  <Make_Shell_PaK_40_HE_RA.description>7,5cm 고폭탄을 제작합니다.</Make_Shell_PaK_40_HE_RA.description>
+  <Make_Shell_PaK_40_HE_RA.jobString>7,5cm 고폭탄 제작 중.</Make_Shell_PaK_40_HE_RA.jobString>
+  <Make_Shell_PaK_40_APHECBC_RA.label>7,5cm 저저항피모철갑고폭탄 제작</Make_Shell_PaK_40_APHECBC_RA.label>
+  <Make_Shell_PaK_40_APHECBC_RA.description>7,5cm 저저항피모철갑고폭탄을 제작합니다.</Make_Shell_PaK_40_APHECBC_RA.description>
+  <Make_Shell_PaK_40_APHECBC_RA.jobString>7,5cm 저저항피모철갑고폭탄 제작 중.</Make_Shell_PaK_40_APHECBC_RA.jobString>
+  <Make_Shell_PaK_40_APCR_RA.label>7,5cm 경심철갑탄</Make_Shell_PaK_40_APCR_RA.label>
+  <Make_Shell_PaK_40_APCR_RA.description>7,5cm 경심철갑탄을 제작합니다.</Make_Shell_PaK_40_APCR_RA.description>
+  <Make_Shell_PaK_40_APCR_RA.jobString>7,5cm 경심철갑탄 제작 중.</Make_Shell_PaK_40_APCR_RA.jobString>
+  <Make_MeleeWeapon_Feldspaten.label>M31 야전삽 제작</Make_MeleeWeapon_Feldspaten.label>
+  <Make_MeleeWeapon_Feldspaten.description>M31 야전삽을 제작합니다.</Make_MeleeWeapon_Feldspaten.description>
+  <Make_MeleeWeapon_Feldspaten.jobString>M31 야전삽 제작 중.</Make_MeleeWeapon_Feldspaten.jobString>
+  <Make_MeleeWeapon_S84_98_III_RA.label>S84/98 III 총검 장착 제작</Make_MeleeWeapon_S84_98_III_RA.label>
+  <Make_MeleeWeapon_S84_98_III_RA.description>S84/98 III 총검 장착을 제작합니다.</Make_MeleeWeapon_S84_98_III_RA.description>
+  <Make_MeleeWeapon_S84_98_III_RA.jobString>S84/98 III 총검 장착 제작 중.</Make_MeleeWeapon_S84_98_III_RA.jobString>
+  <Make_Gun_StG_44_Scope_RA.label>StG 44 조준경 장착 제작</Make_Gun_StG_44_Scope_RA.label>
+  <Make_Gun_StG_44_Scope_RA.description>StG 44 조준경 장착을 제작합니다.</Make_Gun_StG_44_Scope_RA.description>
+  <Make_Gun_StG_44_Scope_RA.jobString>StG 44 조준경 장착 제작 중.</Make_Gun_StG_44_Scope_RA.jobString>
+  <Make_Gun_StG_44_RA.label>StG 44 제작</Make_Gun_StG_44_RA.label>
+  <Make_Gun_StG_44_RA.description>StG 44를 제작합니다.</Make_Gun_StG_44_RA.description>
+  <Make_Gun_StG_44_RA.jobString>StG 44 제작 중.</Make_Gun_StG_44_RA.jobString>
+  <Make_Gun_FG_42_RA.label>FG 42 제작</Make_Gun_FG_42_RA.label>
+  <Make_Gun_FG_42_RA.description>FG 42를 제작합니다.</Make_Gun_FG_42_RA.description>
+  <Make_Gun_FG_42_RA.jobString>FG 42 제작 중.</Make_Gun_FG_42_RA.jobString>
+  <Make_Gun_MP_507_RA.label>MP 507 제작</Make_Gun_MP_507_RA.label>
+  <Make_Gun_MP_507_RA.description>MP 507을 제작합니다.</Make_Gun_MP_507_RA.description>
+  <Make_Gun_MP_507_RA.jobString>MP 507 제작 중.</Make_Gun_MP_507_RA.jobString>
+  <Make_Gun_MP_40_RA.label>MP 40 제작</Make_Gun_MP_40_RA.label>
+  <Make_Gun_MP_40_RA.description>MP 40을 제작합니다.</Make_Gun_MP_40_RA.description>
+  <Make_Gun_MP_40_RA.jobString>MP 40 제작 중.</Make_Gun_MP_40_RA.jobString>
+  <Make_Gun_MP_35_RA.label>MP 35 제작</Make_Gun_MP_35_RA.label>
+  <Make_Gun_MP_35_RA.description>MP 35를 제작합니다.</Make_Gun_MP_35_RA.description>
+  <Make_Gun_MP_35_RA.jobString>MP 35 제작 중.</Make_Gun_MP_35_RA.jobString>
+  <Make_Gun_MP_3008_RA.label>MP 3008 제작</Make_Gun_MP_3008_RA.label>
+  <Make_Gun_MP_3008_RA.description>MP 3008를 제작합니다.</Make_Gun_MP_3008_RA.description>
+  <Make_Gun_MP_3008_RA.jobString>MP 3008 제작 중.</Make_Gun_MP_3008_RA.jobString>
+  <Make_Gun_P38_RA.label>P38 제작</Make_Gun_P38_RA.label>
+  <Make_Gun_P38_RA.description>P38을 제작합니다.</Make_Gun_P38_RA.description>
+  <Make_Gun_P38_RA.jobString>P38 제작 중.</Make_Gun_P38_RA.jobString>
+  <Make_Gun_P08_RA.label>P08 제작</Make_Gun_P08_RA.label>
+  <Make_Gun_P08_RA.description>P08을 제작합니다.</Make_Gun_P08_RA.description>
+  <Make_Gun_P08_RA.jobString>P08 제작 중.</Make_Gun_P08_RA.jobString>
+  <Make_Gun_PPK_RA.label>PPK 제작</Make_Gun_PPK_RA.label>
+  <Make_Gun_PPK_RA.description>PPK를 제작합니다.</Make_Gun_PPK_RA.description>
+  <Make_Gun_PPK_RA.jobString>PPK 제작 중.</Make_Gun_PPK_RA.jobString>
+  <Make_Gun_Volkspistole_RA.label>국민돌격권총 제작</Make_Gun_Volkspistole_RA.label>
+  <Make_Gun_Volkspistole_RA.description>국민돌격권총을 제작합니다.</Make_Gun_Volkspistole_RA.description>
+  <Make_Gun_Volkspistole_RA.jobString>국민돌격권총 제작 중.</Make_Gun_Volkspistole_RA.jobString>
+  <Make_Gun_MG_42_RA.label>MG 42 제작</Make_Gun_MG_42_RA.label>
+  <Make_Gun_MG_42_RA.description>MG 42를 제작합니다.</Make_Gun_MG_42_RA.description>
+  <Make_Gun_MG_42_RA.jobString>MG 42 제작 중.</Make_Gun_MG_42_RA.jobString>
+  <Make_Gun_MG_34_RA.label>MG 34 제작</Make_Gun_MG_34_RA.label>
+  <Make_Gun_MG_34_RA.description>MG 34를 제작합니다.</Make_Gun_MG_34_RA.description>
+  <Make_Gun_MG_34_RA.jobString>MG 34 제작 중.</Make_Gun_MG_34_RA.jobString>
+  <Make_Gun_Kar98K_Sniper_RA.label>Kar98K 스나이퍼 제작</Make_Gun_Kar98K_Sniper_RA.label>
+  <Make_Gun_Kar98K_Sniper_RA.description>Kar98K 스나이퍼를 제작합니다.</Make_Gun_Kar98K_Sniper_RA.description>
+  <Make_Gun_Kar98K_Sniper_RA.jobString>Kar98K 스나이퍼 제작 중.</Make_Gun_Kar98K_Sniper_RA.jobString>
+  <Make_Gun_Kar98K_Schiessbecher_RA.label>Kar98K 총류탄 장착 제작</Make_Gun_Kar98K_Schiessbecher_RA.label>
+  <Make_Gun_Kar98K_Schiessbecher_RA.description>Kar98K 총류탄 장착을 제작합니다.</Make_Gun_Kar98K_Schiessbecher_RA.description>
+  <Make_Gun_Kar98K_Schiessbecher_RA.jobString>Kar98K 총류탄 장착 제작 중.</Make_Gun_Kar98K_Schiessbecher_RA.jobString>
+  <Make_Gun_Kar98K_Bayonet_RA.label>Kar98K 총검 장착 제작</Make_Gun_Kar98K_Bayonet_RA.label>
+  <Make_Gun_Kar98K_Bayonet_RA.description>Kar98K 총검 장착을 제작합니다.</Make_Gun_Kar98K_Bayonet_RA.description>
+  <Make_Gun_Kar98K_Bayonet_RA.jobString>Kar98K 총검 장착 제작 중.</Make_Gun_Kar98K_Bayonet_RA.jobString>
+  <Make_Gun_Kar98K_RA.label>Kar98K 제작</Make_Gun_Kar98K_RA.label>
+  <Make_Gun_Kar98K_RA.description>Kar98K을 제작합니다.</Make_Gun_Kar98K_RA.description>
+  <Make_Gun_Kar98K_RA.jobString>Kar98K 제작 중.</Make_Gun_Kar98K_RA.jobString>
+  <Make_Gun_VG1_RA.label>VG.1 제작</Make_Gun_VG1_RA.label>
+  <Make_Gun_VG1_RA.description>VG.1을 제작합니다.</Make_Gun_VG1_RA.description>
+  <Make_Gun_VG1_RA.jobString>VG.1 제작 중.</Make_Gun_VG1_RA.jobString>
+  <Make_Gun_Gew_Scope_43_RA.label>Gew 43 조준경 장착 제작</Make_Gun_Gew_Scope_43_RA.label>
+  <Make_Gun_Gew_Scope_43_RA.description>Gew 43 조준경 장착을 제작합니다.</Make_Gun_Gew_Scope_43_RA.description>
+  <Make_Gun_Gew_Scope_43_RA.jobString>Gew 43 조준경 장착 제작 중.</Make_Gun_Gew_Scope_43_RA.jobString>
+  <Make_Gun_Gew_43_RA.label>Gew 43 제작</Make_Gun_Gew_43_RA.label>
+  <Make_Gun_Gew_43_RA.description>Gew 43을 제작합니다.</Make_Gun_Gew_43_RA.description>
+  <Make_Gun_Gew_43_RA.jobString>Gew 43 제작 중.</Make_Gun_Gew_43_RA.jobString>
+  <Make_Gun_Panzerfaust_60_RA.label>판저파우스트 60 제작</Make_Gun_Panzerfaust_60_RA.label>
+  <Make_Gun_Panzerfaust_60_RA.description>판저파우스트 60을 제작합니다.</Make_Gun_Panzerfaust_60_RA.description>
+  <Make_Gun_Panzerfaust_60_RA.jobString>판저파우스트 60 제작 중.</Make_Gun_Panzerfaust_60_RA.jobString>
+  <Make_Gun_PzB_39_RA.label>PzB 39 제작</Make_Gun_PzB_39_RA.label>
+  <Make_Gun_PzB_39_RA.description>PzB 39를 제작합니다.</Make_Gun_PzB_39_RA.description>
+  <Make_Gun_PzB_39_RA.jobString>PzB 39 제작 중.</Make_Gun_PzB_39_RA.jobString>
+  <Make_Gun_Eintossflammenwerfer_46_RA.label>아인슈토스플라멘베르퍼 46 제작</Make_Gun_Eintossflammenwerfer_46_RA.label>
+  <Make_Gun_Eintossflammenwerfer_46_RA.description>아인슈토스플라멘베르퍼 46을 제작합니다.</Make_Gun_Eintossflammenwerfer_46_RA.description>
+  <Make_Gun_Eintossflammenwerfer_46_RA.jobString>아인슈토스플라멘베르퍼 46 제작 중.</Make_Gun_Eintossflammenwerfer_46_RA.jobString>
+  <Make_Weapon_M24_RA.label>M24 수류탄 제작</Make_Weapon_M24_RA.label>
+  <Make_Weapon_M24_RA.description>M24 수류탄을 제작합니다.</Make_Weapon_M24_RA.description>
+  <Make_Weapon_M24_RA.jobString>M24 수류탄 제작 중.</Make_Weapon_M24_RA.jobString>
+  <Make_ZF39_RA.label>ZF39 조준경 제작</Make_ZF39_RA.label>
+  <Make_ZF39_RA.description>ZF39 조준경을 제작합니다.</Make_ZF39_RA.description>
+  <Make_ZF39_RA.jobString>ZF39 조준경 제작 중.</Make_ZF39_RA.jobString>
+  <Make_ZF4_RA.label>ZF4 조준경 제작</Make_ZF4_RA.label>
+  <Make_ZF4_RA.description>ZF4 조준경</Make_ZF4_RA.description>
+  <Make_ZF4_RA.jobString>ZF4 조준경 제작 중.</Make_ZF4_RA.jobString>
+  <Make_Schiessbecher_RA.label>총류탄 제작</Make_Schiessbecher_RA.label>
+  <Make_Schiessbecher_RA.description>총류탄을 제작합니다.</Make_Schiessbecher_RA.description>
+  <Make_Schiessbecher_RA.jobString>총류탄 제작 중.</Make_Schiessbecher_RA.jobString>
+  <Make_Kar98K_Ammo_RA.label>7,92mm 탄약상자 제작</Make_Kar98K_Ammo_RA.label>
+  <Make_Kar98K_Ammo_RA.description>7,92mm 탄약상자를 제작합니다.</Make_Kar98K_Ammo_RA.description>
+  <Make_Kar98K_Ammo_RA.jobString>7,92mm 탄약상자 제작 중.</Make_Kar98K_Ammo_RA.jobString>
+
+</LanguageData>

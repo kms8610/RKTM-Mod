@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Concept_SimpleSidearmsBasic.label>SS: 휴대장비</Concept_SimpleSidearmsBasic.label>
+  <Concept_SimpleSidearmsBasic.helpText>간단한 휴대장비
+
+무기를 휴대장비로 장착하려면, 무기를 우클릭하여 휴대장비 착용을 선택하세요.
+
+휴대무기는 최소한 하나의 무기를 가진 정착민을 선택했을 때 휴대무기 칸이 표시됩니다. 기본적으로, 정착민은 자동적으로 범위에 맞는 원거리 무기를 선택하고, 근접 전투가 일어나면 근접 무기로 전환하게 됩니다. 이 행동은 모드설정에서 변경할 수 있습니다.</Concept_SimpleSidearmsBasic.helpText>
+  <Concept_SidearmsDropping.label>SS: 휴대무기 떨어뜨리기</Concept_SidearmsDropping.label>
+  <Concept_SidearmsDropping.helpText>회색 배경의 휴대무기는 현재 정착민의 가방에 들어 있으며 사용할 수 있습니다. 우클릭으로 떨어뜨립니다.</Concept_SidearmsDropping.helpText>
+  <Concept_SidearmsMissing.label>SS: 잃어버린 휴대무기</Concept_SidearmsMissing.label>
+  <Concept_SidearmsMissing.helpText>어두운 자주빛 배경은 현재 정착민의 장비에서 잃어버린 것입니다. 어떤것이든 찾을 수 있다고 가정한다면, 이것을 가급적 빨리 대체하기 위해 시도합니다. 우클릭으로 이 휴대무기를 제거할 수 있습니다.</Concept_SidearmsMissing.helpText>
+  <Concept_SimpleSidearmsPreference.label>SS: 무기 선호도</Concept_SimpleSidearmsPreference.label>
+  <Concept_SimpleSidearmsPreference.helpText>정착민들은 개인적으로 휴대무기 사용 구성을 할 수 있습니다. 옵션은 다음과 같습니다.
+원거리 무기 사용
+정착민의 열정적 기술이나 숙련된 기술의 무기 사용
+근접 무기 사용</Concept_SimpleSidearmsPreference.helpText>
+  <Concept_SimpleSidearmsAdvancedRanged.label>SS: 고급 조작 (원거리)</Concept_SimpleSidearmsAdvancedRanged.label>
+  <Concept_SimpleSidearmsAdvancedRanged.helpText>지니고 있는 원거리 무기를 좌클릭하여 기본 원거리 무기로 설정합니다. 정착민의 무기 선호도가 원거리 무기 (또는 원거리 무기가 더 숙련된 정착민)로 설정되어 있으면 이 무기는 정착민이 비교전시에 사용하는 무기이며, 사냥할 때 사용합니다.
+
+범위/DPS에 관계없이 원거리 무기를 다시 한번 더 클릭하여 사용합니다.
+
+우클릭으로 강제 사용/기본상태를 제거합니다.</Concept_SimpleSidearmsAdvancedRanged.helpText>
+  <Concept_SimpleSidearmsAdvancedMelee.label>SS: 고급 조작 (근접)</Concept_SimpleSidearmsAdvancedMelee.label>
+  <Concept_SimpleSidearmsAdvancedMelee.helpText>지니고 있는 근접 무기를 좌클릭하여 선호하는 원거리 무기로 설정합니다. 정착민의 무기 선호도가 근접 무기 (또는 근접 무기가 더 숙련된 정착민)로 설정되어 있으면 근접 전투를 할 때 항상 이 무기를 사용합니다.
+
+항상 사용하려면 선호하는 근접 무기를 한번 더 클릭하세요.
+
+우클릭으로 강제사용/선호하는 무기에서 제거합니다.</Concept_SimpleSidearmsAdvancedMelee.helpText>
+  <Concept_SimpleSidearmsAdvancedDrafted.label>SS: 고급 조작 (소집시)</Concept_SimpleSidearmsAdvancedDrafted.label>
+  <Concept_SimpleSidearmsAdvancedDrafted.helpText>소집되어 있는 동안 지니고 있는 무기를 클릭하여 전투가 끝날 때까지 사용할 수 있습니다.
+
+참고로 폰이 소집 상태일 때는 휴대무기 설정이 변경되지 않습니다.</Concept_SimpleSidearmsAdvancedDrafted.helpText>
+  <Concept_SimpleSidearmsLosingWeapons.label>SS: 떨어뜨린 무기</Concept_SimpleSidearmsLosingWeapons.label>
+  <Concept_SimpleSidearmsLosingWeapons.helpText>설정에 따라, 휴대무기는 다양한 상황에서 정착민이 무기를 떨어뜨리게 할 수 있습니다 (기본설정은 근접 공격). 걱정하지 마세요 - 정착민들은 전투가 끝난 후에 다시 무기를 되찾으러 갈 겁니다.
+
+이 기능은 사용자 지정 가능합니다 - 자세한 내용을 보려면 모드설정에서 대화상자를 참고하세요.</Concept_SimpleSidearmsLosingWeapons.helpText>
+  <Concept_CEOverride.label>SS: CE 패치</Concept_CEOverride.label>
+  <Concept_CEOverride.helpText>Combat Extended 모드가 적용되어 있어서 휴대무기 관리 기능이 비활성화 되었습니다.</Concept_CEOverride.helpText>
+
+</LanguageData>

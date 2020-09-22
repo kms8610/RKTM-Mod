@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ScytherBlade.label>사이더 칼날</ScytherBlade.label>
+  <ScytherBlade.description>메카노이드 사이더로부터 분리된 칼날입니다.</ScytherBlade.description>
+  <MeleeWeapon_ScytherSword.label>사이더 소드</MeleeWeapon_ScytherSword.label>
+  <MeleeWeapon_ScytherSword.description>금속 대신 사이더 칼날을 사용하는 장검의 일종입니다. 사이더처럼 싸울 수 있게 됩니다.</MeleeWeapon_ScytherSword.description>
+  <MeleeWeapon_ScytherSword.tools.0.label>손잡이</MeleeWeapon_ScytherSword.tools.0.label>
+  <MeleeWeapon_ScytherSword.tools.1.label>끝부분</MeleeWeapon_ScytherSword.tools.1.label>
+  <MeleeWeapon_ScytherSword.tools.2.label>날</MeleeWeapon_ScytherSword.tools.2.label>
+  <MeleeWeapon_BasicScythe.label>기본형 대낫</MeleeWeapon_BasicScythe.label>
+  <MeleeWeapon_BasicScythe.description>중세시대의 기본적인 농기구로, 사이더 칼날을 사용하여 두 배 이상 파괴적인 흉기가 되었습니다.</MeleeWeapon_BasicScythe.description>
+  <MeleeWeapon_BasicScythe.tools.0.label>손잡이</MeleeWeapon_BasicScythe.tools.0.label>
+  <MeleeWeapon_BasicScythe.tools.1.label>날</MeleeWeapon_BasicScythe.tools.1.label>
+  <MeleeWeapon_ScytherScythe.label>사이더 대낫</MeleeWeapon_ScytherScythe.label>
+  <MeleeWeapon_ScytherScythe.description>기본적인 대낫과는 달리 처음부터 전투용으로 설계되었습니다.</MeleeWeapon_ScytherScythe.description>
+  <MeleeWeapon_ScytherScythe.tools.0.label>손잡이</MeleeWeapon_ScytherScythe.tools.0.label>
+  <MeleeWeapon_ScytherScythe.tools.1.label>날</MeleeWeapon_ScytherScythe.tools.1.label>
+  <MeleeWeapon_Scythe_ToxicRipper.label>독성 리퍼</MeleeWeapon_Scythe_ToxicRipper.label>
+  <MeleeWeapon_Scythe_ToxicRipper.description>맹독성 칼날이 달린 고급형 대낫입니다. 엄청난 약의 독성 증식을 일으킵니다.</MeleeWeapon_Scythe_ToxicRipper.description>
+  <MeleeWeapon_Scythe_ToxicRipper.tools.0.label>손잡이</MeleeWeapon_Scythe_ToxicRipper.tools.0.label>
+  <MeleeWeapon_Scythe_ToxicRipper.tools.1.label>날</MeleeWeapon_Scythe_ToxicRipper.tools.1.label>
+  <MeleeWeapon_Scythe_JadeDragon.label>옥룡</MeleeWeapon_Scythe_JadeDragon.label>
+  <MeleeWeapon_Scythe_JadeDragon.description>멀리 동양의 거대한 제국으로부터 만들어진 대낫입니다. 단 한 번 휘두르면 적들을 불태워버린다는 전설이 있습니다.</MeleeWeapon_Scythe_JadeDragon.description>
+  <MeleeWeapon_Scythe_JadeDragon.tools.0.label>손잡이</MeleeWeapon_Scythe_JadeDragon.tools.0.label>
+  <MeleeWeapon_Scythe_JadeDragon.tools.1.label>날</MeleeWeapon_Scythe_JadeDragon.tools.1.label>
+  <MeleeWeapon_Scythe_JadeDragon.tools.2.label>불타는 가장자리</MeleeWeapon_Scythe_JadeDragon.tools.2.label>
+  <MeleeWeapon_Scythe_JadeDragon.tools.3.label>강렬한 불꽃</MeleeWeapon_Scythe_JadeDragon.tools.3.label>
+  <MeleeWeapon_Scythe_ThrumboThorn.label>트럼보 가시</MeleeWeapon_Scythe_ThrumboThorn.label>
+  <MeleeWeapon_Scythe_ThrumboThorn.description>트럼보와 사이더의 파괴적인 힘을 결합하여 만들어진 고급형 대낫입니다. 어느 대낫보다도 강력하지만, 휘두르는 속도는 다소 느립니다.</MeleeWeapon_Scythe_ThrumboThorn.description>
+  <MeleeWeapon_Scythe_ThrumboThorn.tools.0.label>손잡이</MeleeWeapon_Scythe_ThrumboThorn.tools.0.label>
+  <MeleeWeapon_Scythe_ThrumboThorn.tools.1.label>날</MeleeWeapon_Scythe_ThrumboThorn.tools.1.label>
+
+</LanguageData>

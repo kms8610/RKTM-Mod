@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LabelDCPeace>새로운 평화</LabelDCPeace>
+  <LabelDCWar>새로운 전쟁</LabelDCWar>
+  <DescDCPeace>몇 번의 외교적 제안 후 {0}(와)과 {1}(은)는 서로의 모든 적대 행위를 중지하기로 결정했습니다.</DescDCPeace>
+  <DescDCWar>몇 번의 외교적 갈등 이후 {0}(와)과 {1}(이)가 서로 적대적으로 변했습니다.</DescDCWar>
+  <LabelConquest>정복!</LabelConquest>
+  <DescConquest>{0}(이)가 침략군을 막지 못하여 {2}에게 {1}(이)가 손실되었습니다.</DescConquest>
+  <RepBaseChanceLabel>관계 변경 이벤트의 기본 확률(기본값 = 2)</RepBaseChanceLabel>
+  <RepMinRefireDaysLabel>관계 변화 이벤트를 재개하기 전에 필요한 최소 일수 (기본값 = 15)</RepMinRefireDaysLabel>
+  <WarBaseChanceLabel>정복 이벤트에 대한 기본 확률 (기본값 = 5)</WarBaseChanceLabel>
+  <WarMinRefireDaysLabel>정복 이벤트를 재개하기 전에 필요한 최소 일수 (기본값 = 10)</WarMinRefireDaysLabel>
+  <RepAllowPermExp>영구적인 적대 세력과 관계를 변경할 수 있도록 허용 (재시작 필요)</RepAllowPermExp>
+
+</LanguageData>

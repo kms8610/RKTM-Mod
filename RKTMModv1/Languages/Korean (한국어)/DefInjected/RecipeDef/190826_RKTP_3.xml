@@ -1,0 +1,1961 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1240656304_190617_Lighter Than Fast-->
+  <LTF_InstallRawRom.label>초기화</LTF_InstallRawRom.label>
+  <LTF_InstallRawRom.description>바닐라 롬 설치.</LTF_InstallRawRom.description>
+  <LTF_InstallRawRom.jobString>엔지 바닐라 롬 설치.</LTF_InstallRawRom.jobString>
+  <LTF_InstallSingleCore.label>Init();</LTF_InstallSingleCore.label>
+  <LTF_InstallSingleCore.description>코어 설치.</LTF_InstallSingleCore.description>
+  <LTF_InstallSingleCore.jobString>엔지 바닐라 코어 설치.</LTF_InstallSingleCore.jobString>
+  <LTF_InstallCookRom.label>요리 롬();</LTF_InstallCookRom.label>
+  <LTF_InstallCookRom.description>요리 롬 설치.</LTF_InstallCookRom.description>
+  <LTF_InstallCookRom.jobString>엔지 롬 설치 중.</LTF_InstallCookRom.jobString>
+  <LTF_InstallCook2Rom.label>요리 롬2();</LTF_InstallCook2Rom.label>
+  <LTF_InstallCook2Rom.description>요리 롬 설치.</LTF_InstallCook2Rom.description>
+  <LTF_InstallCook2Rom.jobString>엔지 롬 설치 중.</LTF_InstallCook2Rom.jobString>
+  <LTF_InstallCookKrom.label>요리 크롬();</LTF_InstallCookKrom.label>
+  <LTF_InstallCookKrom.description>요리 롬 설치.</LTF_InstallCookKrom.description>
+  <LTF_InstallCookKrom.jobString>엔지 롬 설치 중.</LTF_InstallCookKrom.jobString>
+  <LTF_InstallConstructRom.label>건축 롬();</LTF_InstallConstructRom.label>
+  <LTF_InstallConstructRom.description>건축 롬 설치.</LTF_InstallConstructRom.description>
+  <LTF_InstallConstructRom.jobString>엔지 롬 설치 중.</LTF_InstallConstructRom.jobString>
+  <LTF_InstallConstruct2Rom.label>건축 롬2();</LTF_InstallConstruct2Rom.label>
+  <LTF_InstallConstruct2Rom.description>건축 롬 설치.</LTF_InstallConstruct2Rom.description>
+  <LTF_InstallConstruct2Rom.jobString>엔지 롬 설치 중.</LTF_InstallConstruct2Rom.jobString>
+  <LTF_InstallConstruct3Rom.label>건축 롬3();</LTF_InstallConstruct3Rom.label>
+  <LTF_InstallConstruct3Rom.description>건축 롬 설치.</LTF_InstallConstruct3Rom.description>
+  <LTF_InstallConstruct3Rom.jobString>엔지 롬 설치 중.</LTF_InstallConstruct3Rom.jobString>
+  <LTF_InstallCraftRom.label>제작 롬();</LTF_InstallCraftRom.label>
+  <LTF_InstallCraftRom.description>제작 롬 설치.</LTF_InstallCraftRom.description>
+  <LTF_InstallCraftRom.jobString>엔지 롬 설치 중.</LTF_InstallCraftRom.jobString>
+  <LTF_InstallCraft2Rom.label>제작 롬2();</LTF_InstallCraft2Rom.label>
+  <LTF_InstallCraft2Rom.description>제작 롬 설치.</LTF_InstallCraft2Rom.description>
+  <LTF_InstallCraft2Rom.jobString>엔지 롬 설치 중.</LTF_InstallCraft2Rom.jobString>
+  <LTF_InstallCraft3Rom.label>제작 롬3();</LTF_InstallCraft3Rom.label>
+  <LTF_InstallCraft3Rom.description>제작 롬 설치.</LTF_InstallCraft3Rom.description>
+  <LTF_InstallCraft3Rom.jobString>엔지 롬 설치 중.</LTF_InstallCraft3Rom.jobString>
+  <LTF_InstallGrowRom.label>원예 롬();</LTF_InstallGrowRom.label>
+  <LTF_InstallGrowRom.description>원예 롬 설치.</LTF_InstallGrowRom.description>
+  <LTF_InstallGrowRom.jobString>엔지 롬 설치 중.</LTF_InstallGrowRom.jobString>
+  <LTF_InstallGrow2Rom.label>원예 롬2();</LTF_InstallGrow2Rom.label>
+  <LTF_InstallGrow2Rom.description>원예 롬 설치.</LTF_InstallGrow2Rom.description>
+  <LTF_InstallGrow2Rom.jobString>엔지 롬 설치 중.</LTF_InstallGrow2Rom.jobString>
+  <LTF_InstallMedicineRom.label>의학 롬();</LTF_InstallMedicineRom.label>
+  <LTF_InstallMedicineRom.description>의학 롬 설치.</LTF_InstallMedicineRom.description>
+  <LTF_InstallMedicineRom.jobString>엔지 롬 설치 중.</LTF_InstallMedicineRom.jobString>
+  <LTF_InstallMedicine2Rom.label>의학 롬2();</LTF_InstallMedicine2Rom.label>
+  <LTF_InstallMedicine2Rom.description>의학 롬 설치.</LTF_InstallMedicine2Rom.description>
+  <LTF_InstallMedicine2Rom.jobString>엔지 롬 설치 중.</LTF_InstallMedicine2Rom.jobString>
+  <LTF_InstallMedicineKrom.label>의학 크롬();</LTF_InstallMedicineKrom.label>
+  <LTF_InstallMedicineKrom.description>의학 롬 설치.</LTF_InstallMedicineKrom.description>
+  <LTF_InstallMedicineKrom.jobString>엔지 롬 설치 중.</LTF_InstallMedicineKrom.jobString>
+  <LTF_InstallMiningRom.label>채광 롬();</LTF_InstallMiningRom.label>
+  <LTF_InstallMiningRom.description>채광 롬 설치.</LTF_InstallMiningRom.description>
+  <LTF_InstallMiningRom.jobString>엔지 롬 설치 중.</LTF_InstallMiningRom.jobString>
+  <LTF_InstallMining2Rom.label>채광 롬2();</LTF_InstallMining2Rom.label>
+  <LTF_InstallMining2Rom.description>채광 롬 설치.</LTF_InstallMining2Rom.description>
+  <LTF_InstallMining2Rom.jobString>엔지 롬 설치 중.</LTF_InstallMining2Rom.jobString>
+  <LTF_InstallResearchRom.label>연구 롬();</LTF_InstallResearchRom.label>
+  <LTF_InstallResearchRom.description>연구 롬 설치.</LTF_InstallResearchRom.description>
+  <LTF_InstallResearchRom.jobString>엔지 롬 설치 중.</LTF_InstallResearchRom.jobString>
+  <LTF_InstallResearch2Rom.label>연구 롬2();</LTF_InstallResearch2Rom.label>
+  <LTF_InstallResearch2Rom.description>연구 롬 설치.</LTF_InstallResearch2Rom.description>
+  <LTF_InstallResearch2Rom.jobString>엔지 롬 설치 중.</LTF_InstallResearch2Rom.jobString>
+  <LTF_InstallResearchKrom.label>연구 크롬();</LTF_InstallResearchKrom.label>
+  <LTF_InstallResearchKrom.description>연구 롬 설치.</LTF_InstallResearchKrom.description>
+  <LTF_InstallResearchKrom.jobString>엔지 롬 설치 중.</LTF_InstallResearchKrom.jobString>
+  <LTF_InstallTamingRom.label>조련 롬);</LTF_InstallTamingRom.label>
+  <LTF_InstallTamingRom.description>조련 롬 설치.</LTF_InstallTamingRom.description>
+  <LTF_InstallTamingRom.jobString>엔지 롬 설치 중.</LTF_InstallTamingRom.jobString>
+  <LTF_InstallTaming2Rom.label>조련 롬);</LTF_InstallTaming2Rom.label>
+  <LTF_InstallTaming2Rom.description>조련 롬 설치.</LTF_InstallTaming2Rom.description>
+  <LTF_InstallTaming2Rom.jobString>엔지 롬 설치 중.</LTF_InstallTaming2Rom.jobString>
+  <LTF_Install02Core.label>02코어</LTF_Install02Core.label>
+  <LTF_Install02Core.description>듀얼 코어 설치.</LTF_Install02Core.description>
+  <LTF_Install02Core.jobString>엔지 코어 설치 중.</LTF_Install02Core.jobString>
+  <LTF_Install04Core.label>04코어</LTF_Install04Core.label>
+  <LTF_Install04Core.description>쿼드 코어 설치.</LTF_Install04Core.description>
+  <LTF_Install04Core.jobString>엔지 코어 설치 중.</LTF_Install04Core.jobString>
+  <LTF_Install08Core.label>08코어</LTF_Install08Core.label>
+  <LTF_Install08Core.description>옥타 코어 설치.</LTF_Install08Core.description>
+  <LTF_Install08Core.jobString>엔지 코어 설치 중.</LTF_Install08Core.jobString>
+  <LTF_Install16Core.label>16코어</LTF_Install16Core.label>
+  <LTF_Install16Core.description>헥사 코어 설치.</LTF_Install16Core.description>
+  <LTF_Install16Core.jobString>엔지 코어 설치 중.</LTF_Install16Core.jobString>
+  <LTF_Install32Core.label>32코어</LTF_Install32Core.label>
+  <LTF_Install32Core.description>32 코어 설치.</LTF_Install32Core.description>
+  <LTF_Install32Core.jobString>엔지 코어 설치 중.</LTF_Install32Core.jobString>
+  <LTF_Install64Core.label>64코어</LTF_Install64Core.label>
+  <LTF_Install64Core.description>64 코어 설치.</LTF_Install64Core.description>
+  <LTF_Install64Core.jobString>엔지 코어 설치 중.</LTF_Install64Core.jobString>
+  <LTF_Install01Cooler.label>싱글 쿨러</LTF_Install01Cooler.label>
+  <LTF_Install01Cooler.description>싱글 쿨러 설치.</LTF_Install01Cooler.description>
+  <LTF_Install01Cooler.jobString>엔지 코어 설치 중.</LTF_Install01Cooler.jobString>
+  <LTF_Install02Cooler.label>듀얼 쿨러</LTF_Install02Cooler.label>
+  <LTF_Install02Cooler.description>듀얼 쿨러 설치.</LTF_Install02Cooler.description>
+  <LTF_Install02Cooler.jobString>엔지 코어 설치 중.</LTF_Install02Cooler.jobString>
+  <LTF_Install04Cooler.label>쿼드 쿨러</LTF_Install04Cooler.label>
+  <LTF_Install04Cooler.description>쿼드 쿨러 설치.</LTF_Install04Cooler.description>
+  <LTF_Install04Cooler.jobString>엔지 코어 설치 중.</LTF_Install04Cooler.jobString>
+  <LTF_InstallRightSteelClaws.label>강철 손톱 설치</LTF_InstallRightSteelClaws.label>
+  <LTF_InstallRightSteelClaws.description>오른쪽 강철 손톱 설치.</LTF_InstallRightSteelClaws.description>
+  <LTF_InstallRightSteelClaws.jobString>강철손톱 이식 중</LTF_InstallRightSteelClaws.jobString>
+  <LTF_InstallLeftSteelClaws.label>강철 손톱 설치</LTF_InstallLeftSteelClaws.label>
+  <LTF_InstallLeftSteelClaws.description>왼쪽 강철 손톱 설치.</LTF_InstallLeftSteelClaws.description>
+  <LTF_InstallLeftSteelClaws.jobString>강철손톱 이식 중</LTF_InstallLeftSteelClaws.jobString>
+  <LTF_InstallRightPlasteelClaws.label>플라스틸 손톱 이식</LTF_InstallRightPlasteelClaws.label>
+  <LTF_InstallRightPlasteelClaws.description>오른쪽 플라스틸 손톱 설치.</LTF_InstallRightPlasteelClaws.description>
+  <LTF_InstallRightPlasteelClaws.jobString>강철손톱 이식 중</LTF_InstallRightPlasteelClaws.jobString>
+  <LTF_InstallLeftPlasteelClaws.label>플라스틸 손톱 이식</LTF_InstallLeftPlasteelClaws.label>
+  <LTF_InstallLeftPlasteelClaws.description>왼쪽 플라스틸 손톱 설치.</LTF_InstallLeftPlasteelClaws.description>
+  <LTF_InstallLeftPlasteelClaws.jobString>강철손톱 이식 중</LTF_InstallLeftPlasteelClaws.jobString>
+  <Administer_MindlessSelfIndulgence.label>무의식적인 자기 허세(MSI) 투여</Administer_MindlessSelfIndulgence.label>
+  <Administer_MindlessSelfIndulgence.jobString>무의식적인 자기 허세(MSI) 투여.</Administer_MindlessSelfIndulgence.jobString>
+  <Administer_LTF_SlugDewBeerawecka.label>슬러그 분비물 베라위카에 투여</Administer_LTF_SlugDewBeerawecka.label>
+  <Administer_LTF_SlugDewBeerawecka.jobString>슬러그 분비물 베라위카에 투여.</Administer_LTF_SlugDewBeerawecka.jobString>
+  <Make_MindlessSelfIndulgence.label>무의식적인 자기 허세(MSI) 제작</Make_MindlessSelfIndulgence.label>
+  <Make_MindlessSelfIndulgence.description>무의식적인 자기 허세(MSI) 제작.</Make_MindlessSelfIndulgence.description>
+  <Make_MindlessSelfIndulgence.jobString>무의식적인 자기 허세(MSI) 제작 중.</Make_MindlessSelfIndulgence.jobString>
+  <Make_LTF_Engie01Cooler.label>01쿨러 제작</Make_LTF_Engie01Cooler.label>
+  <Make_LTF_Engie01Cooler.description>01쿨러 제작.</Make_LTF_Engie01Cooler.description>
+  <Make_LTF_Engie01Cooler.jobString>01쿨러 제작.</Make_LTF_Engie01Cooler.jobString>
+  <Make_LTF_Engie02Cooler.label>02쿨러 제작</Make_LTF_Engie02Cooler.label>
+  <Make_LTF_Engie02Cooler.description>02쿨러 제작.</Make_LTF_Engie02Cooler.description>
+  <Make_LTF_Engie02Cooler.jobString>02쿨러 제작.</Make_LTF_Engie02Cooler.jobString>
+  <Make_LTF_Engie04Cooler.label>04쿨러 제작</Make_LTF_Engie04Cooler.label>
+  <Make_LTF_Engie04Cooler.description>04쿨러 제작.</Make_LTF_Engie04Cooler.description>
+  <Make_LTF_Engie04Cooler.jobString>04쿨러 제작.</Make_LTF_Engie04Cooler.jobString>
+  <Make_LTF_Engie02Core.label>02듀얼코어 제작</Make_LTF_Engie02Core.label>
+  <Make_LTF_Engie02Core.description>02듀얼코어 제작.</Make_LTF_Engie02Core.description>
+  <Make_LTF_Engie02Core.jobString>02듀얼코어 제작.</Make_LTF_Engie02Core.jobString>
+  <Make_LTF_Engie04Core.label>04쿼드코어 제작</Make_LTF_Engie04Core.label>
+  <Make_LTF_Engie04Core.description>04쿼드코어 제작.</Make_LTF_Engie04Core.description>
+  <Make_LTF_Engie04Core.jobString>04쿼드코어 제작.</Make_LTF_Engie04Core.jobString>
+  <Make_LTF_Engie08Core.label>08옥타코어 제작</Make_LTF_Engie08Core.label>
+  <Make_LTF_Engie08Core.description>08옥타코어 제작.</Make_LTF_Engie08Core.description>
+  <Make_LTF_Engie08Core.jobString>08옥타코어 제작.</Make_LTF_Engie08Core.jobString>
+  <Make_LTF_Engie16Core.label>16헥사코어 제작</Make_LTF_Engie16Core.label>
+  <Make_LTF_Engie16Core.description>16헥사코어 제작.</Make_LTF_Engie16Core.description>
+  <Make_LTF_Engie16Core.jobString>16헥사코어 제작.</Make_LTF_Engie16Core.jobString>
+  <Make_LTF_Engie32Core.label>32코어 제작</Make_LTF_Engie32Core.label>
+  <Make_LTF_Engie32Core.description>32코어 제작.</Make_LTF_Engie32Core.description>
+  <Make_LTF_Engie32Core.jobString>32코어 제작.</Make_LTF_Engie32Core.jobString>
+  <Make_LTF_Engie64Core.label>64코어 제작</Make_LTF_Engie64Core.label>
+  <Make_LTF_Engie64Core.description>64코어 제작.</Make_LTF_Engie64Core.description>
+  <Make_LTF_Engie64Core.jobString>64코어 제작.</Make_LTF_Engie64Core.jobString>
+  <Make_LTF_EngieConstructRom.label>건설 롬1 제작</Make_LTF_EngieConstructRom.label>
+  <Make_LTF_EngieConstructRom.description>건설 롬1 제작.</Make_LTF_EngieConstructRom.description>
+  <Make_LTF_EngieConstructRom.jobString>건설 롬1 제작.</Make_LTF_EngieConstructRom.jobString>
+  <Make_LTF_EngieConstruct2Rom.label>건설 롬2 제작</Make_LTF_EngieConstruct2Rom.label>
+  <Make_LTF_EngieConstruct2Rom.description>건설 롬2 제작.</Make_LTF_EngieConstruct2Rom.description>
+  <Make_LTF_EngieConstruct2Rom.jobString>건설 롬2 제작.</Make_LTF_EngieConstruct2Rom.jobString>
+  <Make_LTF_EngieConstruct3Rom.label>건설 롬3 제작</Make_LTF_EngieConstruct3Rom.label>
+  <Make_LTF_EngieConstruct3Rom.description>건설 롬3 제작.</Make_LTF_EngieConstruct3Rom.description>
+  <Make_LTF_EngieConstruct3Rom.jobString>건설 롬3 제작.</Make_LTF_EngieConstruct3Rom.jobString>
+  <Make_LTF_EngieCookRom.label>요리 롬1 제작</Make_LTF_EngieCookRom.label>
+  <Make_LTF_EngieCookRom.description>요리 롬1 제작.</Make_LTF_EngieCookRom.description>
+  <Make_LTF_EngieCookRom.jobString>요리 롬1 제작.</Make_LTF_EngieCookRom.jobString>
+  <Make_LTF_EngieCook2Rom.label>요리 롬2 제작</Make_LTF_EngieCook2Rom.label>
+  <Make_LTF_EngieCook2Rom.description>요리 롬2 제작.</Make_LTF_EngieCook2Rom.description>
+  <Make_LTF_EngieCook2Rom.jobString>요리 롬2 제작.</Make_LTF_EngieCook2Rom.jobString>
+  <Make_LTF_EngieCookKrom.label>요리 크롬1 제작</Make_LTF_EngieCookKrom.label>
+  <Make_LTF_EngieCookKrom.description>요리 크롬1 제작.</Make_LTF_EngieCookKrom.description>
+  <Make_LTF_EngieCookKrom.jobString>요리 크롬1 제작.</Make_LTF_EngieCookKrom.jobString>
+  <Make_LTF_EngieCraftRom.label>제작 롬1 제작</Make_LTF_EngieCraftRom.label>
+  <Make_LTF_EngieCraftRom.description>제작 롬1 제작.</Make_LTF_EngieCraftRom.description>
+  <Make_LTF_EngieCraftRom.jobString>제작 롬1 제작.</Make_LTF_EngieCraftRom.jobString>
+  <Make_LTF_EngieCraft2Rom.label>제작 롬2 제작</Make_LTF_EngieCraft2Rom.label>
+  <Make_LTF_EngieCraft2Rom.description>제작 롬2 제작.</Make_LTF_EngieCraft2Rom.description>
+  <Make_LTF_EngieCraft2Rom.jobString>제작 롬2 제작.</Make_LTF_EngieCraft2Rom.jobString>
+  <Make_LTF_EngieCraft3Rom.label>제작 롬3 제작</Make_LTF_EngieCraft3Rom.label>
+  <Make_LTF_EngieCraft3Rom.description>제작 롬3 제작.</Make_LTF_EngieCraft3Rom.description>
+  <Make_LTF_EngieCraft3Rom.jobString>제작 롬3 제작.</Make_LTF_EngieCraft3Rom.jobString>
+  <Make_LTF_EngieGrowRom.label>원예 롬1 제작</Make_LTF_EngieGrowRom.label>
+  <Make_LTF_EngieGrowRom.description>원예 롬1 제작.</Make_LTF_EngieGrowRom.description>
+  <Make_LTF_EngieGrowRom.jobString>원예 롬1 제작.</Make_LTF_EngieGrowRom.jobString>
+  <Make_LTF_EngieGrow2Rom.label>원예 롬2 제작</Make_LTF_EngieGrow2Rom.label>
+  <Make_LTF_EngieGrow2Rom.description>원예 롬2 제작.</Make_LTF_EngieGrow2Rom.description>
+  <Make_LTF_EngieGrow2Rom.jobString>원예 롬2 제작.</Make_LTF_EngieGrow2Rom.jobString>
+  <Make_LTF_EngieMedicineRom.label>의학 롬1 제작</Make_LTF_EngieMedicineRom.label>
+  <Make_LTF_EngieMedicineRom.description>의학 롬1 제작.</Make_LTF_EngieMedicineRom.description>
+  <Make_LTF_EngieMedicineRom.jobString>의학 롬1 제작.</Make_LTF_EngieMedicineRom.jobString>
+  <Make_LTF_EngieMedicine2Rom.label>의학 롬2 제작</Make_LTF_EngieMedicine2Rom.label>
+  <Make_LTF_EngieMedicine2Rom.description>의학 롬2 제작.</Make_LTF_EngieMedicine2Rom.description>
+  <Make_LTF_EngieMedicine2Rom.jobString>의학 롬2 제작.</Make_LTF_EngieMedicine2Rom.jobString>
+  <Make_LTF_EngieMedicineKrom.label>의학 크롬1 제작</Make_LTF_EngieMedicineKrom.label>
+  <Make_LTF_EngieMedicineKrom.description>의학 크롬1 제작.</Make_LTF_EngieMedicineKrom.description>
+  <Make_LTF_EngieMedicineKrom.jobString>의학 크롬1 제작.</Make_LTF_EngieMedicineKrom.jobString>
+  <Make_LTF_EngieMiningRom.label>체굴 롬1 제작</Make_LTF_EngieMiningRom.label>
+  <Make_LTF_EngieMiningRom.description>체굴 롬1 제작.</Make_LTF_EngieMiningRom.description>
+  <Make_LTF_EngieMiningRom.jobString>체굴 롬1 제작.</Make_LTF_EngieMiningRom.jobString>
+  <Make_LTF_EngieMining2Rom.label>체굴 롬2 제작</Make_LTF_EngieMining2Rom.label>
+  <Make_LTF_EngieMining2Rom.description>체굴 롬2 제작.</Make_LTF_EngieMining2Rom.description>
+  <Make_LTF_EngieMining2Rom.jobString>체굴 롬2 제작.</Make_LTF_EngieMining2Rom.jobString>
+  <Make_LTF_EngieResearchRom.label>연구 롬1 제작</Make_LTF_EngieResearchRom.label>
+  <Make_LTF_EngieResearchRom.description>연구 롬1 제작.</Make_LTF_EngieResearchRom.description>
+  <Make_LTF_EngieResearchRom.jobString>연구 롬1 제작.</Make_LTF_EngieResearchRom.jobString>
+  <Make_LTF_EngieResearch2Rom.label>연구 롬2 제작</Make_LTF_EngieResearch2Rom.label>
+  <Make_LTF_EngieResearch2Rom.description>연구 롬2 제작.</Make_LTF_EngieResearch2Rom.description>
+  <Make_LTF_EngieResearch2Rom.jobString>연구 롬2 제작.</Make_LTF_EngieResearch2Rom.jobString>
+  <Make_LTF_EngieResearchKrom.label>연구 크롬1 제작</Make_LTF_EngieResearchKrom.label>
+  <Make_LTF_EngieResearchKrom.description>연구 크롬1 제작.</Make_LTF_EngieResearchKrom.description>
+  <Make_LTF_EngieResearchKrom.jobString>연구 크롬1 제작.</Make_LTF_EngieResearchKrom.jobString>
+  <Make_LTF_EngieSocialRom.label>사교 롬1 제작</Make_LTF_EngieSocialRom.label>
+  <Make_LTF_EngieSocialRom.description>사교 롬1 제작.</Make_LTF_EngieSocialRom.description>
+  <Make_LTF_EngieSocialRom.jobString>사교 롬1 제작.</Make_LTF_EngieSocialRom.jobString>
+  <Make_LTF_EngieSocial2Rom.label>사교 롬2 제작</Make_LTF_EngieSocial2Rom.label>
+  <Make_LTF_EngieSocial2Rom.description>사교 롬2 제작.</Make_LTF_EngieSocial2Rom.description>
+  <Make_LTF_EngieSocial2Rom.jobString>사교 롬2 제작.</Make_LTF_EngieSocial2Rom.jobString>
+  <Make_LTF_EngieTamingRom.label>조련 롬1 제작</Make_LTF_EngieTamingRom.label>
+  <Make_LTF_EngieTamingRom.description>조련 롬1 제작.</Make_LTF_EngieTamingRom.description>
+  <Make_LTF_EngieTamingRom.jobString>조련 롬1 제작.</Make_LTF_EngieTamingRom.jobString>
+  <Make_LTF_EngieTaming2Rom.label>조련 롬2 제작</Make_LTF_EngieTaming2Rom.label>
+  <Make_LTF_EngieTaming2Rom.description>조련 롬2 제작.</Make_LTF_EngieTaming2Rom.description>
+  <Make_LTF_EngieTaming2Rom.jobString>조련 롬2 제작.</Make_LTF_EngieTaming2Rom.jobString>
+  <Make_LTF_shieldHelm.label>보호매트 제작</Make_LTF_shieldHelm.label>
+  <Make_LTF_shieldHelm.description>보호매트 제작.</Make_LTF_shieldHelm.description>
+  <Make_LTF_shieldHelm.jobString>보호매트 제작.</Make_LTF_shieldHelm.jobString>
+  <Make_LTF_SteelClaws.label>강철 손톱 - 주형 제작</Make_LTF_SteelClaws.label>
+  <Make_LTF_SteelClaws.description>강철 손톱 - 주형 제작.</Make_LTF_SteelClaws.description>
+  <Make_LTF_SteelClaws.jobString>강철 손톱 - 주형 제작.</Make_LTF_SteelClaws.jobString>
+  <Make_LTF_PlasteelClaws.label>플라스틸 손톱 - 주형 제작</Make_LTF_PlasteelClaws.label>
+  <Make_LTF_PlasteelClaws.description>플라스틸 손톱 - 주형 제작.</Make_LTF_PlasteelClaws.description>
+  <Make_LTF_PlasteelClaws.jobString>플라스틸 손톱 - 주형 제작.</Make_LTF_PlasteelClaws.jobString>
+  <Make_LTF_RightSteelClaws.label>강철 손톱 (오른쪽) 제작</Make_LTF_RightSteelClaws.label>
+  <Make_LTF_RightSteelClaws.description>강철 손톱 (오른쪽) 제작.</Make_LTF_RightSteelClaws.description>
+  <Make_LTF_RightSteelClaws.jobString>강철 손톱 (오른쪽) 제작..</Make_LTF_RightSteelClaws.jobString>
+  <Make_LTF_LeftSteelClaws.label>강철 손톱 (왼쪽) 제작</Make_LTF_LeftSteelClaws.label>
+  <Make_LTF_LeftSteelClaws.description>강철 손톱 (왼쪽) 제작.</Make_LTF_LeftSteelClaws.description>
+  <Make_LTF_LeftSteelClaws.jobString>강철 손톱 (왼쪽) 제작.</Make_LTF_LeftSteelClaws.jobString>
+  <Make_LTF_RightPlasteelClaws.label>플라스틸 손톱 (오른쪽) 제작</Make_LTF_RightPlasteelClaws.label>
+  <Make_LTF_RightPlasteelClaws.description>플라스틸 손톱 (오른쪽) 제작.</Make_LTF_RightPlasteelClaws.description>
+  <Make_LTF_RightPlasteelClaws.jobString>플라스틸 손톱 (오른쪽) 제작.</Make_LTF_RightPlasteelClaws.jobString>
+  <Make_LTF_LeftPlasteelClaws.label>플라스틸 손톱 (왼쪽) 제작</Make_LTF_LeftPlasteelClaws.label>
+  <Make_LTF_LeftPlasteelClaws.description>플라스틸 손톱 (왼쪽) 제작.</Make_LTF_LeftPlasteelClaws.description>
+  <Make_LTF_LeftPlasteelClaws.jobString>플라스틸 손톱 (왼쪽) 제작.</Make_LTF_LeftPlasteelClaws.jobString>
+  <MakeSlugDewBeerawecka.label>슬러그 베라위카</MakeSlugDewBeerawecka.label>
+  <MakeSlugDewBeerawecka.description>설익은 과일과 슬러그 분비물을 마구잡이로 섞어 만들어진 케이크입니다.</MakeSlugDewBeerawecka.description>
+  <MakeSlugDewBeerawecka.jobString>슬러그 베라위카 제작</MakeSlugDewBeerawecka.jobString>
+  <MakeSlugSilk.label>슬러그 실크 제작</MakeSlugSilk.label>
+  <MakeSlugSilk.description>슬러그 분비물에서 추출한 마이크로 섬유입니다.</MakeSlugSilk.description>
+  <MakeSlugSilk.jobString>슬러그 실크 제작</MakeSlugSilk.jobString>
+  <LTF_ExtractKraptylFromSlag.label>암석 덩어리에서 크라프틸(kraptyl) 재련</LTF_ExtractKraptylFromSlag.label>
+  <LTF_ExtractKraptylFromSlag.description>열과 강력한 전자석을 사용해 유용한 금속과 암석 덩어리를 분리합니다.</LTF_ExtractKraptylFromSlag.description>
+  <LTF_ExtractKraptylFromSlag.jobString>암석 덩어리에서 금속 제련.</LTF_ExtractKraptylFromSlag.jobString>
+  <LTF_ExtractKraptylFromTinySlag.label>암석 덩어리에서 크라프틸(kraptyl) 재련</LTF_ExtractKraptylFromTinySlag.label>
+  <LTF_ExtractKraptylFromTinySlag.description>열과 강력한 전자석을 사용해 유용한 금속과 암석 덩어리를 분리합니다.</LTF_ExtractKraptylFromTinySlag.description>
+  <LTF_ExtractKraptylFromTinySlag.jobString>작은 암석 덩어리에서 금속 제련.</LTF_ExtractKraptylFromTinySlag.jobString>
+  <LTF_CraftDewEgg.label>알에 슬러그 분비물 주입</LTF_CraftDewEgg.label>
+  <LTF_CraftDewEgg.description>알 속에 발효를 위해 슬러그 분비물을 주입합니다. 음식은 적게, 분비물은 많게.</LTF_CraftDewEgg.description>
+  <LTF_CraftDewEgg.jobString>주형 발효</LTF_CraftDewEgg.jobString>
+  <LTF_CraftChunkEgg.label>강철과 분비물로 인해 손상된 알</LTF_CraftChunkEgg.label>
+  <LTF_CraftChunkEgg.description>무의미한 목표에 도달하기 위해 부패시킨 자연입니다.</LTF_CraftChunkEgg.description>
+  <LTF_CraftChunkEgg.jobString>주형 발효</LTF_CraftChunkEgg.jobString>
+  <LTF_CraftKrapkenEgg.label>부패한 알</LTF_CraftKrapkenEgg.label>
+  <LTF_CraftKrapkenEgg.description>무의미한 목표에 도달하기 위해 부패시킨 자연입니다. 무엇이 들어있을까요? 바로 알이죠.</LTF_CraftKrapkenEgg.description>
+  <LTF_CraftKrapkenEgg.jobString>주형 발효</LTF_CraftKrapkenEgg.jobString>
+
+  <!--1267084448_190816_Filthy Orc Invasion-->
+  <Make_Apparel_OrcEyehelm.label>오크 금속 투구 만들기</Make_Apparel_OrcEyehelm.label>
+  <Make_Apparel_OrcEyehelm.description>오크 금속 투구를 만듭니다.</Make_Apparel_OrcEyehelm.description>
+  <Make_Apparel_OrcEyehelm.jobString>오크 금속 투구 만드는 중.</Make_Apparel_OrcEyehelm.jobString>
+  <Make_Apparel_OrcChestPlate.label>큰 가슴 조각 만들기</Make_Apparel_OrcChestPlate.label>
+  <Make_Apparel_OrcChestPlate.description>큰 가슴 조각을 만듭니다.</Make_Apparel_OrcChestPlate.description>
+  <Make_Apparel_OrcChestPlate.jobString>큰 가슴 조각 만드는 중.</Make_Apparel_OrcChestPlate.jobString>
+  <Make_Apparel_OrcBreastPlate.label>큰 흉갑 만들기</Make_Apparel_OrcBreastPlate.label>
+  <Make_Apparel_OrcBreastPlate.description>큰 흉갑을 만듭니다.</Make_Apparel_OrcBreastPlate.description>
+  <Make_Apparel_OrcBreastPlate.jobString>큰 흉갑 만드는 중.</Make_Apparel_OrcBreastPlate.jobString>
+  <Make_Apparel_OrcLeggings.label>큰 금속 각반 만들기</Make_Apparel_OrcLeggings.label>
+  <Make_Apparel_OrcLeggings.description>큰 금속 각반을 만듭니다.</Make_Apparel_OrcLeggings.description>
+  <Make_Apparel_OrcLeggings.jobString>큰 금속 각반 만드는 중</Make_Apparel_OrcLeggings.jobString>
+  <Make_Apparel_Loincloth.label>허리띠 만들기</Make_Apparel_Loincloth.label>
+  <Make_Apparel_Loincloth.description>허리띠를 만듭니다.</Make_Apparel_Loincloth.description>
+  <Make_Apparel_Loincloth.jobString>허리띠 만드는 중</Make_Apparel_Loincloth.jobString>
+  <Make_Apparel_OrcEmbossedLeather.label>큰 양각 가죽 조끼 만들기</Make_Apparel_OrcEmbossedLeather.label>
+  <Make_Apparel_OrcEmbossedLeather.description>큰 양각 가죽 조끼를 만듭니다.</Make_Apparel_OrcEmbossedLeather.description>
+  <Make_Apparel_OrcEmbossedLeather.jobString>큰 양각 가죽 조끼 만드는 중.</Make_Apparel_OrcEmbossedLeather.jobString>
+  <Make_Apparel_HidePants.label>큰 가죽 바지 만들기</Make_Apparel_HidePants.label>
+  <Make_Apparel_HidePants.description>큰 가죽 바지를 만듭니다.</Make_Apparel_HidePants.description>
+  <Make_Apparel_HidePants.jobString>큰 가죽 바지 만드는 중</Make_Apparel_HidePants.jobString>
+  <Make_MeleeWeapon_GreatMaul.label>큰 둔기 만들기</Make_MeleeWeapon_GreatMaul.label>
+  <Make_MeleeWeapon_GreatMaul.description>큰 둔기를 만듭니다.</Make_MeleeWeapon_GreatMaul.description>
+  <Make_MeleeWeapon_GreatMaul.jobString>큰 둔기 만드는 중.</Make_MeleeWeapon_GreatMaul.jobString>
+  <Make_MeleeWeapon_GreatClub.label>큰 곤봉 만들기</Make_MeleeWeapon_GreatClub.label>
+  <Make_MeleeWeapon_GreatClub.description>큰 곤봉을 만듭니다.</Make_MeleeWeapon_GreatClub.description>
+  <Make_MeleeWeapon_GreatClub.jobString>큰 곤봉 만드는 중.</Make_MeleeWeapon_GreatClub.jobString>
+  <Make_MeleeWeapon_GreatAxe.label>큰 도끼 만들기</Make_MeleeWeapon_GreatAxe.label>
+  <Make_MeleeWeapon_GreatAxe.description>큰 도끼를 만듭니다.</Make_MeleeWeapon_GreatAxe.description>
+  <Make_MeleeWeapon_GreatAxe.jobString>큰 도끼 만드는 중.</Make_MeleeWeapon_GreatAxe.jobString>
+  <Make_Gun_HandCannon.label>핸드 캐논 만들기</Make_Gun_HandCannon.label>
+  <Make_Gun_HandCannon.description>핸드 캐논을 만듭니다.</Make_Gun_HandCannon.description>
+  <Make_Gun_HandCannon.jobString>핸드 캐논 만드는 중.</Make_Gun_HandCannon.jobString>
+  <Make_Javelin.label>투척창 만들기</Make_Javelin.label>
+  <Make_Javelin.description>투척창을 만듭니다.</Make_Javelin.description>
+  <Make_Javelin.jobString>투척창 만드는 중.</Make_Javelin.jobString>
+  <Make_ThrowingAxe.label>투척 도끼 만들기</Make_ThrowingAxe.label>
+  <Make_ThrowingAxe.description>투척 도끼를 만듭니다.</Make_ThrowingAxe.description>
+  <Make_ThrowingAxe.jobString>투척 도끼 만드는 중.</Make_ThrowingAxe.jobString>
+  <Make_HeavySling.label>헤비 슬링 만들기</Make_HeavySling.label>
+  <Make_HeavySling.description>헤비 슬링을 만듭니다.</Make_HeavySling.description>
+  <Make_HeavySling.jobString>헤비 슬링 만드는 중.</Make_HeavySling.jobString>
+
+  <!--1294507772_190519_The Mantodean insectoid race-->
+  <Administer_BlueJelly.label>파란 젤리 투여</Administer_BlueJelly.label>
+  <Administer_BlueJelly.jobString>파란 젤리 투여</Administer_BlueJelly.jobString>
+  <Make_BlueJelly.label>파란 젤리 제작</Make_BlueJelly.label>
+  <Make_BlueJelly.description>파란 젤리 제작.</Make_BlueJelly.description>
+  <Make_BlueJelly.jobString>파란 젤리 제작.</Make_BlueJelly.jobString>
+  <Make_Gun_MantoLauncher.label>맨토디안 독소 발사기 제작</Make_Gun_MantoLauncher.label>
+  <Make_Gun_MantoLauncher.description>맨토디안 독소 발사기 제작.</Make_Gun_MantoLauncher.description>
+  <Make_Gun_MantoLauncher.jobString>맨토디안 독소 발사기 제작.</Make_Gun_MantoLauncher.jobString>
+  <ExtractMetalFromSlagManto.label>암석 덩어리에서 금속 용해</ExtractMetalFromSlagManto.label>
+  <ExtractMetalFromSlagManto.description>암석덩어리를 녹여내어 쓸만한 금속을 추출합니다.</ExtractMetalFromSlagManto.description>
+  <ExtractMetalFromSlagManto.jobString>암석 덩어리에서 금속 제련.</ExtractMetalFromSlagManto.jobString>
+  <SmeltWeaponManto.label>무기 용해</SmeltWeaponManto.label>
+  <SmeltWeaponManto.description>무기를 녹여내어 쓸만한 금속을 추출합니다.</SmeltWeaponManto.description>
+  <SmeltWeaponManto.jobString>무기 용해.</SmeltWeaponManto.jobString>
+  <DestroyWeaponManto.label>무기 파괴</DestroyWeaponManto.label>
+  <DestroyWeaponManto.description>열을 사용해 불필요한 무기를 파괴합니다. 용해보다 작업이 빠르고, 금속이 없는 무기도 파괴할 수 있지만 아무런 자원도 얻을 수 없습니다.</DestroyWeaponManto.description>
+  <DestroyWeaponManto.jobString>무기 파괴 중.</DestroyWeaponManto.jobString>
+  <MakeChemfuelFromWoodManto.label>나무에서 화학연료 추출</MakeChemfuelFromWoodManto.label>
+  <MakeChemfuelFromWoodManto.description>나무에서 화학연료 한 묶음을 추출합니다.</MakeChemfuelFromWoodManto.description>
+  <MakeChemfuelFromWoodManto.jobString>나무에서 화학연료 추출.</MakeChemfuelFromWoodManto.jobString>
+  <MakeChemfuelFromOrganicsManto.label>유기물에서 화학연료 추출</MakeChemfuelFromOrganicsManto.label>
+  <MakeChemfuelFromOrganicsManto.description>유기물 원료에서 바이오 연료를 추출하여 화학연료 한 묶음을 만듭니다.</MakeChemfuelFromOrganicsManto.description>
+  <MakeChemfuelFromOrganicsManto.jobString>유기물에서 화학연료 추출.</MakeChemfuelFromOrganicsManto.jobString>
+  <MakeInsectJellyManto.label>곤충젤리 생산</MakeInsectJellyManto.label>
+  <MakeInsectJellyManto.description>맨토디안의 산성으로 고기를 녹여 곤충젤리로 만듭니다.</MakeInsectJellyManto.description>
+  <MakeInsectJellyManto.jobString>곤충젤리 생산.</MakeInsectJellyManto.jobString>
+  <MakeInsectJellyMantoBulk.label>곤충젤리 대량생산</MakeInsectJellyMantoBulk.label>
+  <MakeInsectJellyMantoBulk.description>맨토디안의 산성으로 고기를 녹여 곤충젤리로 만듭니다.</MakeInsectJellyMantoBulk.description>
+  <MakeInsectJellyMantoBulk.jobString>곤충젤리 생산.</MakeInsectJellyMantoBulk.jobString>
+  <MakeMutagenPurple.label>보라색 돌연변이 생산</MakeMutagenPurple.label>
+  <MakeMutagenPurple.description>보라색 돌연변이 생산.</MakeMutagenPurple.description>
+  <MakeMutagenPurple.jobString>돌연변이 생산 중.</MakeMutagenPurple.jobString>
+  <MakeMutagenRed.label>빨간색 돌연변이 생산</MakeMutagenRed.label>
+  <MakeMutagenRed.description>빨간색 돌연변이 생산.</MakeMutagenRed.description>
+  <MakeMutagenRed.jobString>돌연변이 생산 중.</MakeMutagenRed.jobString>
+  <MakeMutagenGreen.label>초록색 돌연변이 생산</MakeMutagenGreen.label>
+  <MakeMutagenGreen.description>초록색 돌연변이 생산.</MakeMutagenGreen.description>
+  <MakeMutagenGreen.jobString>돌연변이 생산 중.</MakeMutagenGreen.jobString>
+  <MakeMutagenBlack.label>검은색 돌연변이 생산</MakeMutagenBlack.label>
+  <MakeMutagenBlack.description>검은색 돌연변이 생산.</MakeMutagenBlack.description>
+  <MakeMutagenBlack.jobString>돌연변이 생산 중.</MakeMutagenBlack.jobString>
+  <MakeMutagenAshen.label>잿빛 돌연변이 생산</MakeMutagenAshen.label>
+  <MakeMutagenAshen.description>잿빛 돌연변이 생산.</MakeMutagenAshen.description>
+  <MakeMutagenAshen.jobString>돌연변이 생산 중.</MakeMutagenAshen.jobString>
+  <MakeMutagenGrey.label>회색 돌연변이 생산</MakeMutagenGrey.label>
+  <MakeMutagenGrey.description>회색 돌연변이 생산.</MakeMutagenGrey.description>
+  <MakeMutagenGrey.jobString>돌연변이 생산 중.</MakeMutagenGrey.jobString>
+  <MakeMutagenOrange.label>오렌지 돌연변이 생산</MakeMutagenOrange.label>
+  <MakeMutagenOrange.description>오렌지 돌연변이 생산.</MakeMutagenOrange.description>
+  <MakeMutagenOrange.jobString>돌연변이 생산 중.</MakeMutagenOrange.jobString>
+  <MakeMutagenWhite.label>백색 돌연변이 생산</MakeMutagenWhite.label>
+  <MakeMutagenWhite.description>백색 돌연변이 생산.</MakeMutagenWhite.description>
+  <MakeMutagenWhite.jobString>돌연변이 생산 중.</MakeMutagenWhite.jobString>
+  <MakeMutagenBlue.label>파란색 돌연변이 생산</MakeMutagenBlue.label>
+  <MakeMutagenBlue.description>파란색 돌연변이 생산.</MakeMutagenBlue.description>
+  <MakeMutagenBlue.jobString>돌연변이 생산 중.</MakeMutagenBlue.jobString>
+  <InstallNaturalAcidGland.label>독샘 이식</InstallNaturalAcidGland.label>
+  <InstallNaturalAcidGland.description>독샘 이식.</InstallNaturalAcidGland.description>
+  <InstallNaturalAcidGland.jobString>독샘 이식.</InstallNaturalAcidGland.jobString>
+  <InstallNaturalBreathingSac.label>호흡 주머니 이식</InstallNaturalBreathingSac.label>
+  <InstallNaturalBreathingSac.description>호흡 주머니 이식.</InstallNaturalBreathingSac.description>
+  <InstallNaturalBreathingSac.jobString>호흡 주머니 이식.</InstallNaturalBreathingSac.jobString>
+  <InstallProstheticMantoLeg.label>맨토디안 보철 다리 설치</InstallProstheticMantoLeg.label>
+  <InstallProstheticMantoLeg.description>맨토디안 보철 다리 설치.</InstallProstheticMantoLeg.description>
+  <InstallProstheticMantoLeg.jobString>맨토디안 보철 다리 설치.</InstallProstheticMantoLeg.jobString>
+  <InstallMutatedMantoLeg.label>보라색 돌연변이 적용</InstallMutatedMantoLeg.label>
+  <InstallMutatedMantoLeg.description>보라색 돌연변이 적용.</InstallMutatedMantoLeg.description>
+  <InstallMutatedMantoLeg.jobString>보라색 돌연변이 적용.</InstallMutatedMantoLeg.jobString>
+  <InstallMutatedCombatPincer.label>빨간색 돌연변이 적용</InstallMutatedCombatPincer.label>
+  <InstallMutatedCombatPincer.description>빨간색 돌연변이 적용.</InstallMutatedCombatPincer.description>
+  <InstallMutatedCombatPincer.jobString>빨간색 돌연변이 적용.</InstallMutatedCombatPincer.jobString>
+  <InstallMutatedPincer.label>초록색 돌연변이 적용</InstallMutatedPincer.label>
+  <InstallMutatedPincer.description>초록색 돌연변이 적용.</InstallMutatedPincer.description>
+  <InstallMutatedPincer.jobString>초록색 돌연변이 적용.</InstallMutatedPincer.jobString>
+  <InstallMutatedEyeSet.label>검음색 돌연변이 적용</InstallMutatedEyeSet.label>
+  <InstallMutatedEyeSet.description>검음색 돌연변이 적용.</InstallMutatedEyeSet.description>
+  <InstallMutatedEyeSet.jobString>검음색 돌연변이 적용.</InstallMutatedEyeSet.jobString>
+  <InstallMutatedMarrowLight.label>잿빛 돌연변이 적용</InstallMutatedMarrowLight.label>
+  <InstallMutatedMarrowLight.description>잿빛 돌연변이 적용.</InstallMutatedMarrowLight.description>
+  <InstallMutatedMarrowLight.jobString>잿빛 돌연변이 적용.</InstallMutatedMarrowLight.jobString>
+  <InstallMutatedMarrowHeavy.label>회색 돌연변이 적용</InstallMutatedMarrowHeavy.label>
+  <InstallMutatedMarrowHeavy.description>회색 돌연변이 적용.</InstallMutatedMarrowHeavy.description>
+  <InstallMutatedMarrowHeavy.jobString>회색 돌연변이 적용.</InstallMutatedMarrowHeavy.jobString>
+  <InstallMutatedBreathingSac.label>오렌지 돌연변이 적용</InstallMutatedBreathingSac.label>
+  <InstallMutatedBreathingSac.description>오렌지 돌연변이 적용.</InstallMutatedBreathingSac.description>
+  <InstallMutatedBreathingSac.jobString>오렌지 돌연변이 적용.</InstallMutatedBreathingSac.jobString>
+  <InstallMutatedAcidGland.label>백색 돌연변이 적용</InstallMutatedAcidGland.label>
+  <InstallMutatedAcidGland.description>백색 돌연변이 적용.</InstallMutatedAcidGland.description>
+  <InstallMutatedAcidGland.jobString>백색 돌연변이 적용.</InstallMutatedAcidGland.jobString>
+  <InstallMutatedPedipalp.label>파란색 돌연변이 적용</InstallMutatedPedipalp.label>
+  <InstallMutatedPedipalp.description>파란색 돌연변이 적용.</InstallMutatedPedipalp.description>
+  <InstallMutatedPedipalp.jobString>파란색 돌연변이 적용.</InstallMutatedPedipalp.jobString>
+
+  <!--1314474881_181118_Avali-->
+  <BrewChateauAvalon.label>샤토 아발론 양조</BrewChateauAvalon.label>
+  <BrewChateauAvalon.description>키리 과일과 나카티 껍질로 샤토 아발론을 양조합니다.</BrewChateauAvalon.description>
+  <BrewChateauAvalon.jobString>샤토 아발론 양조 중.</BrewChateauAvalon.jobString>
+  <Administer_ChateauAvalon.label>샤토 아발론 관리</Administer_ChateauAvalon.label>
+  <Administer_ChateauAvalon.jobString>샤토 아발론 관리 중.</Administer_ChateauAvalon.jobString>
+  <Make_CyberneticAvaliTail.label>인공지능 아발리 꼬리 만들기</Make_CyberneticAvaliTail.label>
+  <Make_CyberneticAvaliTail.description>인공지능 아발리 꼬리를 만듭니다.</Make_CyberneticAvaliTail.description>
+  <Make_CyberneticAvaliTail.jobString>인공지능 아발리 꼬리 만드는 중.</Make_CyberneticAvaliTail.jobString>
+  <Make_CyberneticAvaliBody.label>인공지능 아발리 몸통 만들기</Make_CyberneticAvaliBody.label>
+  <Make_CyberneticAvaliBody.description>인공지능 아발리 몸통을 만듭니다.</Make_CyberneticAvaliBody.description>
+  <Make_CyberneticAvaliBody.jobString>인공지능 아발리 몸통 만드는 중.</Make_CyberneticAvaliBody.jobString>
+  <Make_CyberneticAvaliHead.label>인공지능 아발리 머리 만들기</Make_CyberneticAvaliHead.label>
+  <Make_CyberneticAvaliHead.description>인공지능 아발리 머리를 만듭니다.</Make_CyberneticAvaliHead.description>
+  <Make_CyberneticAvaliHead.jobString>인공지능 아발리 머리 만드는 중.</Make_CyberneticAvaliHead.jobString>
+  <Make_CyberneticAvaliLeg.label>인공지능 아발리 다리 만들기</Make_CyberneticAvaliLeg.label>
+  <Make_CyberneticAvaliLeg.description>인공지능 아발리 다리를 만듭니다.</Make_CyberneticAvaliLeg.description>
+  <Make_CyberneticAvaliLeg.jobString>인공지능 아발리 다리 만드는 중.</Make_CyberneticAvaliLeg.jobString>
+  <Make_CyberneticAvaliArm.label>인공지능 아발리 팔 만들기</Make_CyberneticAvaliArm.label>
+  <Make_CyberneticAvaliArm.description>인공지능 아발리 팔을 만듭니다.</Make_CyberneticAvaliArm.description>
+  <Make_CyberneticAvaliArm.jobString>인공지능 아발리 팔 만드는 중.</Make_CyberneticAvaliArm.jobString>
+  <Make_PlasteelAvaliTalons.label>플라스틸 아발리 발톱 만들기</Make_PlasteelAvaliTalons.label>
+  <Make_PlasteelAvaliTalons.description>플라스틸 아발리 발톱을 만듭니다.</Make_PlasteelAvaliTalons.description>
+  <Make_PlasteelAvaliTalons.jobString>플라스틸 아발리 발톱 만드는 중.</Make_PlasteelAvaliTalons.jobString>
+  <Make_AvaliSightAugment.label>아발리 시각 보강 만들기</Make_AvaliSightAugment.label>
+  <Make_AvaliSightAugment.description>아발리 시각 보강을 만듭니다.</Make_AvaliSightAugment.description>
+  <Make_AvaliSightAugment.jobString>아발리 시각 보강 만드는 중.</Make_AvaliSightAugment.jobString>
+  <Make_AvaliHearingAugment.label>아발리 청각 보강 만들기</Make_AvaliHearingAugment.label>
+  <Make_AvaliHearingAugment.description>아발리 청각 보강을 만듭니다.</Make_AvaliHearingAugment.description>
+  <Make_AvaliHearingAugment.jobString>아발리 청각 보강 만드는 중.</Make_AvaliHearingAugment.jobString>
+  <Make_AvaliCoolAugment.label>아발리 냉각 보강 만들기</Make_AvaliCoolAugment.label>
+  <Make_AvaliCoolAugment.description>아발리 냉각 보강을 만듭니다.</Make_AvaliCoolAugment.description>
+  <Make_AvaliCoolAugment.jobString>아발리 냉각 보강</Make_AvaliCoolAugment.jobString>
+  <Make_AvaliHeatAugment.label>아발리 보온 보강 만들기</Make_AvaliHeatAugment.label>
+  <Make_AvaliHeatAugment.description>아발리 보온 보강을 만듭니다.</Make_AvaliHeatAugment.description>
+  <Make_AvaliHeatAugment.jobString>아발리 보온 보강 만드는 중.</Make_AvaliHeatAugment.jobString>
+  <Make_AvaliEnviromentalAugment.label>아발리 생명 유지 보강 만들기</Make_AvaliEnviromentalAugment.label>
+  <Make_AvaliEnviromentalAugment.description>아발리 생명 유지 보강을 만듭니다.</Make_AvaliEnviromentalAugment.description>
+  <Make_AvaliEnviromentalAugment.jobString>아발리 생명 유지 보강 만드는 중.</Make_AvaliEnviromentalAugment.jobString>
+  <Make_AvaliPackLossAugment.label>아발리 광기예방 보강 만들기</Make_AvaliPackLossAugment.label>
+  <Make_AvaliPackLossAugment.description>아발리 광기예방 보강을 만듭니다.</Make_AvaliPackLossAugment.description>
+  <Make_AvaliPackLossAugment.jobString>아발리 광기예방 보강 만드는 중.</Make_AvaliPackLossAugment.jobString>
+  <Make_GuardianNanitesInjector.label>수호자 나노기계 주입기 만들기</Make_GuardianNanitesInjector.label>
+  <Make_GuardianNanitesInjector.description>수호자 나노기계 주입기를 만듭니다.</Make_GuardianNanitesInjector.description>
+  <Make_GuardianNanitesInjector.jobString>수호자 나노기계 주입기 만드는 중.</Make_GuardianNanitesInjector.jobString>
+  <Make_ImmunityNanitesInjector.label>내성 나노기계 주입기 만들기</Make_ImmunityNanitesInjector.label>
+  <Make_ImmunityNanitesInjector.description>내성 나노기계 주입기를 만듭니다.</Make_ImmunityNanitesInjector.description>
+  <Make_ImmunityNanitesInjector.jobString>내성 나노기계 주입기 만드는 중.</Make_ImmunityNanitesInjector.jobString>
+  <Make_AvaliRocket.label>아발리 로켓 만들기</Make_AvaliRocket.label>
+  <Make_AvaliRocket.description>아발리 로켓을 만듭니다.</Make_AvaliRocket.description>
+  <Make_AvaliRocket.jobString>아발리 로켓 만드는 중.</Make_AvaliRocket.jobString>
+  <Make_Apparel_ShieldBeltAvali.label>아발리 방어 벨트 만들기</Make_Apparel_ShieldBeltAvali.label>
+  <Make_Apparel_ShieldBeltAvali.description>아발리 방어 벨트를 만듭니다.</Make_Apparel_ShieldBeltAvali.description>
+  <Make_Apparel_ShieldBeltAvali.jobString>아발리 방어 벨트 만드는 중.</Make_Apparel_ShieldBeltAvali.jobString>
+  <Make_Apparel_LifeSupportBeltAvali.label>생명 유지 벨트 만들기</Make_Apparel_LifeSupportBeltAvali.label>
+  <Make_Apparel_LifeSupportBeltAvali.description>생명 유지 벨트를 만듭니다.</Make_Apparel_LifeSupportBeltAvali.description>
+  <Make_Apparel_LifeSupportBeltAvali.jobString>생명 유지 벨트 만드는 중.</Make_Apparel_LifeSupportBeltAvali.jobString>
+  <Make_Avali_Apparel_Rings.label>아발리 귀걸이 만들기</Make_Avali_Apparel_Rings.label>
+  <Make_Avali_Apparel_Rings.description>아발리 귀걸이를 만듭니다.</Make_Avali_Apparel_Rings.description>
+  <Make_Avali_Apparel_Rings.jobString>아발리 귀걸이 만드는 중.</Make_Avali_Apparel_Rings.jobString>
+  <Make_Avali_Apparel_HeadWraps.label>아발리 머리덮개 만들기</Make_Avali_Apparel_HeadWraps.label>
+  <Make_Avali_Apparel_HeadWraps.description>아발리 머리덮개를 만듭니다.</Make_Avali_Apparel_HeadWraps.description>
+  <Make_Avali_Apparel_HeadWraps.jobString>아발리 머리덮개 만드는 중.</Make_Avali_Apparel_HeadWraps.jobString>
+  <Make_Avali_Apparel_Scarf.label>스카프 만들기</Make_Avali_Apparel_Scarf.label>
+  <Make_Avali_Apparel_Scarf.description>스카프를 만듭니다.</Make_Avali_Apparel_Scarf.description>
+  <Make_Avali_Apparel_Scarf.jobString>스카프 만드는 중.</Make_Avali_Apparel_Scarf.jobString>
+  <Make_Avali_Apparel_Cap.label>아발리 모자 만들기</Make_Avali_Apparel_Cap.label>
+  <Make_Avali_Apparel_Cap.description>아발리 모자를 만듭니다.</Make_Avali_Apparel_Cap.description>
+  <Make_Avali_Apparel_Cap.jobString>아발리 모자 만드는 중.</Make_Avali_Apparel_Cap.jobString>
+  <Make_Avali_Apparel_Headset.label>아발리 헤드셋 만들기</Make_Avali_Apparel_Headset.label>
+  <Make_Avali_Apparel_Headset.description>아발리 헤드셋을 만듭니다.</Make_Avali_Apparel_Headset.description>
+  <Make_Avali_Apparel_Headset.jobString>아발리 헤드셋 만드는 중.</Make_Avali_Apparel_Headset.jobString>
+  <Make_Avali_Apparel_LightCombatHelmet.label>아발리 경량 전투모 만들기</Make_Avali_Apparel_LightCombatHelmet.label>
+  <Make_Avali_Apparel_LightCombatHelmet.description>아발리 경량 전투모를 만듭니다.</Make_Avali_Apparel_LightCombatHelmet.description>
+  <Make_Avali_Apparel_LightCombatHelmet.jobString>아발리 경량 전투모 만드는 중.</Make_Avali_Apparel_LightCombatHelmet.jobString>
+  <Make_Avali_Apparel_ScoutHUD.label>아발리 정찰병의 HUD 만들기</Make_Avali_Apparel_ScoutHUD.label>
+  <Make_Avali_Apparel_ScoutHUD.description>아발리 정찰병의 HUD를 만듭니다.</Make_Avali_Apparel_ScoutHUD.description>
+  <Make_Avali_Apparel_ScoutHUD.jobString>아발리 정찰병의 HUD 만드는 중.</Make_Avali_Apparel_ScoutHUD.jobString>
+  <Make_Avali_Apparel_GuardianHelmet.label>아발리 "수호자" 전투모 만들기</Make_Avali_Apparel_GuardianHelmet.label>
+  <Make_Avali_Apparel_GuardianHelmet.description>아발리 "수호자" 전투모를 만듭니다.</Make_Avali_Apparel_GuardianHelmet.description>
+  <Make_Avali_Apparel_GuardianHelmet.jobString>아발리 "수호자" 전투모 만드는 중.</Make_Avali_Apparel_GuardianHelmet.jobString>
+  <Make_Avali_Apparel_CombatHelmet.label>아발리 전투모 만들기</Make_Avali_Apparel_CombatHelmet.label>
+  <Make_Avali_Apparel_CombatHelmet.description>아발리 전투모를 만듭니다.</Make_Avali_Apparel_CombatHelmet.description>
+  <Make_Avali_Apparel_CombatHelmet.jobString>아발리 전투모 만드는 중.</Make_Avali_Apparel_CombatHelmet.jobString>
+  <Make_Avali_Apparel_HellcatHelmet.label>아발리 "마녀" 전투모 만들기</Make_Avali_Apparel_HellcatHelmet.label>
+  <Make_Avali_Apparel_HellcatHelmet.description>아발리 "마녀" 전투모를 만듭니다.</Make_Avali_Apparel_HellcatHelmet.description>
+  <Make_Avali_Apparel_HellcatHelmet.jobString>아발리 "마녀" 전투모 만드는 중.</Make_Avali_Apparel_HellcatHelmet.jobString>
+  <Make_Avali_Apparel_Wrap.label>아발리 랩 만들기</Make_Avali_Apparel_Wrap.label>
+  <Make_Avali_Apparel_Wrap.description>아발리 랩을 만듭니다.</Make_Avali_Apparel_Wrap.description>
+  <Make_Avali_Apparel_Wrap.jobString>아발리 랩 만드는 중.</Make_Avali_Apparel_Wrap.jobString>
+  <Make_Avali_Apparel_Sleeves.label>아발리 슬리브 만들기</Make_Avali_Apparel_Sleeves.label>
+  <Make_Avali_Apparel_Sleeves.description>아발리 슬리브를 만듭니다.</Make_Avali_Apparel_Sleeves.description>
+  <Make_Avali_Apparel_Sleeves.jobString>아발리 슬리브 만드는 중.</Make_Avali_Apparel_Sleeves.jobString>
+  <Make_Avali_Apparel_Cloak.label>아발리 망토 만들기</Make_Avali_Apparel_Cloak.label>
+  <Make_Avali_Apparel_Cloak.description>아발리 망토를 만듭니다.</Make_Avali_Apparel_Cloak.description>
+  <Make_Avali_Apparel_Cloak.jobString>아발리 망토 만드는 중.</Make_Avali_Apparel_Cloak.jobString>
+  <Make_Avali_Apparel_BeltedCloak.label>아발리 벨벳 망토 만들기</Make_Avali_Apparel_BeltedCloak.label>
+  <Make_Avali_Apparel_BeltedCloak.description>아발리 벨벳 망토를 만듭니다.</Make_Avali_Apparel_BeltedCloak.description>
+  <Make_Avali_Apparel_BeltedCloak.jobString>아발리 벨벳 망토 만드는 중.</Make_Avali_Apparel_BeltedCloak.jobString>
+  <Make_Avali_Apparel_Shirt.label>아발리 셔츠 만들기</Make_Avali_Apparel_Shirt.label>
+  <Make_Avali_Apparel_Shirt.description>아발리 셔츠를 만듭니다.</Make_Avali_Apparel_Shirt.description>
+  <Make_Avali_Apparel_Shirt.jobString>아발리 셔츠 만드는 중.</Make_Avali_Apparel_Shirt.jobString>
+  <Make_Avali_Apparel_Trenchcoat.label>아발리 트렌치코트 만들기</Make_Avali_Apparel_Trenchcoat.label>
+  <Make_Avali_Apparel_Trenchcoat.description>아발리 트렌치코트를 만듭니다.</Make_Avali_Apparel_Trenchcoat.description>
+  <Make_Avali_Apparel_Trenchcoat.jobString>아발리 트렌치코트 만드는 중.</Make_Avali_Apparel_Trenchcoat.jobString>
+  <Make_Avali_Apparel_Camo.label>아발리 카모 만들기</Make_Avali_Apparel_Camo.label>
+  <Make_Avali_Apparel_Camo.description>아발리 카모를 만듭니다.</Make_Avali_Apparel_Camo.description>
+  <Make_Avali_Apparel_Camo.jobString>아발리 카모 만드는 중.</Make_Avali_Apparel_Camo.jobString>
+  <Make_Avali_Apparel_SurvivalGear.label>아발리 생존장비 만들기</Make_Avali_Apparel_SurvivalGear.label>
+  <Make_Avali_Apparel_SurvivalGear.description>아발리 생존장비를 만듭니다.</Make_Avali_Apparel_SurvivalGear.description>
+  <Make_Avali_Apparel_SurvivalGear.jobString>아발리 생존장비 만드는 중.</Make_Avali_Apparel_SurvivalGear.jobString>
+  <Make_Avali_Apparel_ScoutArmor.label>아발리 정찰병 갑옷 만들기</Make_Avali_Apparel_ScoutArmor.label>
+  <Make_Avali_Apparel_ScoutArmor.description>아발리 정찰병 갑옷을 만듭니다.</Make_Avali_Apparel_ScoutArmor.description>
+  <Make_Avali_Apparel_ScoutArmor.jobString>아발리 정찰병 갑옷 만드는 중.</Make_Avali_Apparel_ScoutArmor.jobString>
+  <Make_Avali_Apparel_Exoskeleton.label>아발리 강화복 만들기</Make_Avali_Apparel_Exoskeleton.label>
+  <Make_Avali_Apparel_Exoskeleton.description>아발리 강화복를 만듭니다.</Make_Avali_Apparel_Exoskeleton.description>
+  <Make_Avali_Apparel_Exoskeleton.jobString>아발리 강화복 만드는 중.</Make_Avali_Apparel_Exoskeleton.jobString>
+  <Make_Avali_Apparel_GuardianArmor.label>아발리 "수호자" 전투복 만들기</Make_Avali_Apparel_GuardianArmor.label>
+  <Make_Avali_Apparel_GuardianArmor.description>아발리 "수호자" 전투복을 만듭니다.</Make_Avali_Apparel_GuardianArmor.description>
+  <Make_Avali_Apparel_GuardianArmor.jobString>아발리 "수호자" 전투복 만드는 중.</Make_Avali_Apparel_GuardianArmor.jobString>
+  <Make_Avali_Apparel_CombatArmor.label>아발리 전투복 만들기</Make_Avali_Apparel_CombatArmor.label>
+  <Make_Avali_Apparel_CombatArmor.description>아발리 전투복을 만듭니다.</Make_Avali_Apparel_CombatArmor.description>
+  <Make_Avali_Apparel_CombatArmor.jobString>아발리 전투복 만드는 중.</Make_Avali_Apparel_CombatArmor.jobString>
+  <Make_Avali_Apparel_HellcatArmor.label>아발리 "마녀" 전투복 만들기</Make_Avali_Apparel_HellcatArmor.label>
+  <Make_Avali_Apparel_HellcatArmor.description>아발리 "마녀" 전투복을 만듭니다.</Make_Avali_Apparel_HellcatArmor.description>
+  <Make_Avali_Apparel_HellcatArmor.jobString>아발리 "마녀" 전투복 만드는 중.</Make_Avali_Apparel_HellcatArmor.jobString>
+  <Make_Avali_Pila.label>아발리 '우박' 투창 만들기</Make_Avali_Pila.label>
+  <Make_Avali_Pila.description>아발리 '우박' 투창을 만듭니다.</Make_Avali_Pila.description>
+  <Make_Avali_Pila.jobString>아발리 '우박' 투창 만드는 중.</Make_Avali_Pila.jobString>
+  <Make_Avali_Dagger.label>아발리 단검 만들기</Make_Avali_Dagger.label>
+  <Make_Avali_Dagger.description>아발리 단검을 만듭니다.</Make_Avali_Dagger.description>
+  <Make_Avali_Dagger.jobString>아발리 단검 만드는 중.</Make_Avali_Dagger.jobString>
+  <Make_Avali_Sword.label>아발리 '파편' 한손검 만들기</Make_Avali_Sword.label>
+  <Make_Avali_Sword.description>아발리 '파편' 한손검을 만듭니다.</Make_Avali_Sword.description>
+  <Make_Avali_Sword.jobString>아발리 '파편' 한손검 만드는 중.</Make_Avali_Sword.jobString>
+  <Make_Avali_LongSword.label>아발리 '지독한 파편' 장검 만들기</Make_Avali_LongSword.label>
+  <Make_Avali_LongSword.description>아발리 '지독한 파편' 장검을 만듭니다.</Make_Avali_LongSword.description>
+  <Make_Avali_LongSword.jobString>아발리 '지독한 파편' 장검 만드는 중.</Make_Avali_LongSword.jobString>
+  <Make_Avali_Spear.label>아발리 '고드름' 창 만들기</Make_Avali_Spear.label>
+  <Make_Avali_Spear.description>아발리 '고드름' 창을 만듭니다.</Make_Avali_Spear.description>
+  <Make_Avali_Spear.jobString>아발리 '고드름' 창 만드는 중.</Make_Avali_Spear.jobString>
+  <Make_Avali_Hammer.label>아발리 '빙하' 망치 만들기</Make_Avali_Hammer.label>
+  <Make_Avali_Hammer.description>아발리 '빙하' 망치를 만듭니다.</Make_Avali_Hammer.description>
+  <Make_Avali_Hammer.jobString>아발리 '빙하' 망치 만드는 중.</Make_Avali_Hammer.jobString>
+  <Make_Gun_Avali_Pistol.label>아발리 '동상' 권총 만들기</Make_Gun_Avali_Pistol.label>
+  <Make_Gun_Avali_Pistol.description>아발리 '동상' 권총을 만듭니다.</Make_Gun_Avali_Pistol.description>
+  <Make_Gun_Avali_Pistol.jobString>아발리 '동상' 권총 만드는 중.</Make_Gun_Avali_Pistol.jobString>
+  <Make_Gun_Avali_SMG.label>아발리 '한파' 기관단총 만들기</Make_Gun_Avali_SMG.label>
+  <Make_Gun_Avali_SMG.description>아발리 '한파' 기관단총을 만듭니다.</Make_Gun_Avali_SMG.description>
+  <Make_Gun_Avali_SMG.jobString>아발리 '한파' 기관단총 만드는 중.</Make_Gun_Avali_SMG.jobString>
+  <Make_Gun_Avali_AssaultRifle.label>아발리 '눈보라' 소총 만들기</Make_Gun_Avali_AssaultRifle.label>
+  <Make_Gun_Avali_AssaultRifle.description>아발리 '눈보라' 소총을 만듭니다.</Make_Gun_Avali_AssaultRifle.description>
+  <Make_Gun_Avali_AssaultRifle.jobString>아발리 '눈보라' 소총 만드는 중.</Make_Gun_Avali_AssaultRifle.jobString>
+  <Make_Gun_Avali_Shotgun.label>아발리 '눈사태' 산탄총 만들기</Make_Gun_Avali_Shotgun.label>
+  <Make_Gun_Avali_Shotgun.description>아발리 '눈사태' 산탄총을 만듭니다.</Make_Gun_Avali_Shotgun.description>
+  <Make_Gun_Avali_Shotgun.jobString>아발리 '눈사태' 산탄총 만드는 중.</Make_Gun_Avali_Shotgun.jobString>
+  <Make_Gun_Avali_Sniper.label>아발리 '화염 창' 저격소총 만들기</Make_Gun_Avali_Sniper.label>
+  <Make_Gun_Avali_Sniper.description>아발리 '화염 창' 저격소총을 만듭니다.</Make_Gun_Avali_Sniper.description>
+  <Make_Gun_Avali_Sniper.jobString>아발리 '화염 창' 저격소총 만드는 중.</Make_Gun_Avali_Sniper.jobString>
+  <Make_Gun_Avali_Minigun.label>아발리 '우박' 하이브리드 미니건 만들기</Make_Gun_Avali_Minigun.label>
+  <Make_Gun_Avali_Minigun.description>아발리 '우박' 하이브리드 미니건을 만듭니다.</Make_Gun_Avali_Minigun.description>
+  <Make_Gun_Avali_Minigun.jobString>아발리 '우박' 하이브리드 미니건 만드는 중.</Make_Gun_Avali_Minigun.jobString>
+  <Make_Gun_Avali_Rocket_Launcher.label>아발리 '불화살' 로켓 발사기 만들기</Make_Gun_Avali_Rocket_Launcher.label>
+  <Make_Gun_Avali_Rocket_Launcher.description>아발리 '불화살' 로켓 발사기를 만듭니다.</Make_Gun_Avali_Rocket_Launcher.description>
+  <Make_Gun_Avali_Rocket_Launcher.jobString>아발리 '불화살' 로켓 발사기 만드는 중.</Make_Gun_Avali_Rocket_Launcher.jobString>
+  <CookMealSmallSimple.label>작은 간단한 식사 요리</CookMealSmallSimple.label>
+  <CookMealSmallSimple.description>한 가지 재료로 만든 간단하고 쉬운 요리입니다. 인간의 식사보다 작습니다.</CookMealSmallSimple.description>
+  <CookMealSmallSimple.jobString>작은 간단한 식사 요리 중.</CookMealSmallSimple.jobString>
+  <CookMealSmallFine.label>작은 좋은 식사 요리</CookMealSmallFine.label>
+  <CookMealSmallFine.description>야채나 과일과 고기를 사용해 만든 다소 복잡한 요리입니다. 인간의 식사보다 작습니다.</CookMealSmallFine.description>
+  <CookMealSmallFine.jobString>작은 좋은 식사 요리 중.</CookMealSmallFine.jobString>
+  <CookMealSmallLavish.label>작은 호화로운 식사 요리</CookMealSmallLavish.label>
+  <CookMealSmallLavish.description>육류와 식물성 재료를 사용해 매우 복잡하게 조리한 요리입니다. 사용하는 식재료의 대부분이 낭비됩니다. 인간의 식사보다 작습니다.</CookMealSmallLavish.description>
+  <CookMealSmallLavish.jobString>작은 호화로운 식사 요리 중.</CookMealSmallLavish.jobString>
+  <CookMealSmallSurvival.label>작은 보존 식량 요리</CookMealSmallSurvival.label>
+  <CookMealSmallSurvival.description>육류와 식물성 재료를 사용해 포장된 보존 식량을 만듭니다. 약간의 식재료가 낭비됩니다. 인간의 식사보다 작습니다.</CookMealSmallSurvival.description>
+  <CookMealSmallSurvival.jobString>작은 보존 식량 요리 중.</CookMealSmallSurvival.jobString>
+  <CookAvaliSpicyJerky.label>매운 육포 요리</CookAvaliSpicyJerky.label>
+  <CookAvaliSpicyJerky.description>사냥꾼과 탐험가들에게 인기있는 육포 덩어리를 요리합니다.</CookAvaliSpicyJerky.description>
+  <CookAvaliSpicyJerky.jobString>매운 육포 요리 중.</CookAvaliSpicyJerky.jobString>
+  <CookAvaliPiruNoodle.label>피루 국수 요리</CookAvaliPiruNoodle.label>
+  <CookAvaliPiruNoodle.description>아발리 학생들의 필수품인 피루 가루로 피루 국수를 요리합니다.</CookAvaliPiruNoodle.description>
+  <CookAvaliPiruNoodle.jobString>피루 국수 요리 중.</CookAvaliPiruNoodle.jobString>
+  <CookAvaliKiriCurry.label>키리 카레 요리</CookAvaliKiriCurry.label>
+  <CookAvaliKiriCurry.description>풍부한 키리 소스에 매운 고기국수를 곁들여 요리합니다.</CookAvaliKiriCurry.description>
+  <CookAvaliKiriCurry.jobString>키리 카레 요리 중.</CookAvaliKiriCurry.jobString>
+  <CookAvaliTaco.label>아발론식 타코 요리</CookAvaliTaco.label>
+  <CookAvaliTaco.description>아발리가 아닌 사람이 먹을 수 없을 정도로 아주 매운 나카티 향을 가진 타코를 요리합니다.</CookAvaliTaco.description>
+  <CookAvaliTaco.jobString>아발론식 타코 요리 중.</CookAvaliTaco.jobString>
+  <CookAvaliEggOmlette.label>아발리 알 오믈렛 요리</CookAvaliEggOmlette.label>
+  <CookAvaliEggOmlette.description>아발리 알 오믈렛을 요리합니다. 아발리가 아닌 모든 사람들에게는 매우 맛있습니다.</CookAvaliEggOmlette.description>
+  <CookAvaliEggOmlette.jobString>아발리 알 오믈렛 요리 중.</CookAvaliEggOmlette.jobString>
+  <Cook4MealSmallSimple.label>작은 간단한 식사 요리 (x4)</Cook4MealSmallSimple.label>
+  <Cook4MealSmallSimple.description>한 가지 재료로 만든 간단하고 쉬운 요리입니다. 인간의 식사보다 작습니다. 4개를 동시에 요리합니다.</Cook4MealSmallSimple.description>
+  <Cook4MealSmallSimple.jobString>작은 간단한 식사 요리 중.</Cook4MealSmallSimple.jobString>
+  <Cook4MealSmallFine.label>작은 좋은 식사 요리 (x4)</Cook4MealSmallFine.label>
+  <Cook4MealSmallFine.description>야채나 과일과 고기를 사용해 만든 다소 복잡한 요리입니다. 인간의 식사보다 작습니다. 4개를 동시에 요리합니다.</Cook4MealSmallFine.description>
+  <Cook4MealSmallFine.jobString>작은 좋은 식사 요리 중.</Cook4MealSmallFine.jobString>
+  <Cook4MealSmallLavish.label>작은 호화로운 식사 요리 (x4)</Cook4MealSmallLavish.label>
+  <Cook4MealSmallLavish.description>육류와 식물성 재료를 사용해 매우 복잡하게 조리한 요리입니다. 사용하는 식재료의 대부분이 낭비됩니다. 인간의 식사보다 작습니다. 4개를 동시에 요리합니다.</Cook4MealSmallLavish.description>
+  <Cook4MealSmallLavish.jobString>작은 호화로운 식사 요리 중.</Cook4MealSmallLavish.jobString>
+  <Cook4MealSmallSurvival.label>작은 보존 식량 요리 (x4)</Cook4MealSmallSurvival.label>
+  <Cook4MealSmallSurvival.description>육류와 식물성 재료를 사용해 포장된 보존 식량을 만듭니다. 약간의 식재료가 낭비됩니다. 인간의 식사보다 작습니다. 4개를 동시에 요리합니다.</Cook4MealSmallSurvival.description>
+  <Cook4MealSmallSurvival.jobString>작은 보존 식량 요리 중.</Cook4MealSmallSurvival.jobString>
+  <Cook4AvaliSpicyJerky.label>매운 육포 요리 (x4)</Cook4AvaliSpicyJerky.label>
+  <Cook4AvaliSpicyJerky.description>사냥꾼과 탐험가들에게 인기있는 육포 덩어리를 요리합니다. 4개를 동시에 요리합니다.</Cook4AvaliSpicyJerky.description>
+  <Cook4AvaliSpicyJerky.jobString>매운 육포 요리 중.</Cook4AvaliSpicyJerky.jobString>
+  <Cook4AvaliPiruNoodle.label>피루 국수 요리 (x4)</Cook4AvaliPiruNoodle.label>
+  <Cook4AvaliPiruNoodle.description>아발리 학생들의 필수품인 피루 가루로 피루 국수를 요리합니다. 4개를 동시에 요리합니다.</Cook4AvaliPiruNoodle.description>
+  <Cook4AvaliPiruNoodle.jobString>피루 국수 요리 중.</Cook4AvaliPiruNoodle.jobString>
+  <Cook4AvaliKiriCurry.label>키리 카레 요리 (x4)</Cook4AvaliKiriCurry.label>
+  <Cook4AvaliKiriCurry.description>풍부한 키리 소스에 매운 고기국수를 곁들여 요리합니다. 4개를 동시에 요리합니다.</Cook4AvaliKiriCurry.description>
+  <Cook4AvaliKiriCurry.jobString>키리 카레 요리 중.</Cook4AvaliKiriCurry.jobString>
+  <Cook4AvaliTaco.label>아발론식 타코 요리 (x4)</Cook4AvaliTaco.label>
+  <Cook4AvaliTaco.description>아발리가 아닌 사람이 먹을 수 없을 정도로 아주 매운 나카티 향을 가진 타코를 요리합니다. 4개를 동시에 요리합니다.</Cook4AvaliTaco.description>
+  <Cook4AvaliTaco.jobString>아발론식 타코 요리 중.</Cook4AvaliTaco.jobString>
+  <CookMealStackSmallSimple.label>작은 간단한 식사 요리 (대량)</CookMealStackSmallSimple.label>
+  <CookMealStackSmallSimple.description>한 가지 재료로 만든 간단하고 쉬운 요리입니다. 인간의 식사보다 작습니다. 대량을 요리합니다.</CookMealStackSmallSimple.description>
+  <CookMealStackSmallSimple.jobString>작은 간단한 식사 요리 중.</CookMealStackSmallSimple.jobString>
+  <CookMealStackSmallFine.label>작은 좋은 식사 요리 (대량)</CookMealStackSmallFine.label>
+  <CookMealStackSmallFine.description>야채나 과일과 고기를 사용해 만든 다소 복잡한 요리입니다. 인간의 식사보다 작습니다. 대량을 요리합니다.</CookMealStackSmallFine.description>
+  <CookMealStackSmallFine.jobString>작은 좋은 식사 요리 중.</CookMealStackSmallFine.jobString>
+  <CookMealStackSmallLavish.label>작은 호화로운 식사 요리 (대량)</CookMealStackSmallLavish.label>
+  <CookMealStackSmallLavish.description>육류와 식물성 재료를 사용해 매우 복잡하게 조리한 요리입니다. 사용하는 식재료의 대부분이 낭비됩니다. 인간의 식사보다 작습니다. 대량을 요리합니다.</CookMealStackSmallLavish.description>
+  <CookMealStackSmallLavish.jobString>작은 호화로운 식사 요리 중.</CookMealStackSmallLavish.jobString>
+  <CookMealStackSmallSurvival.label>작은 보존 식량 요리 (대량)</CookMealStackSmallSurvival.label>
+  <CookMealStackSmallSurvival.description>육류와 식물성 재료를 사용해 포장된 보존 식량을 만듭니다. 약간의 식재료가 낭비됩니다. 인간의 식사보다 작습니다. 대량을 요리합니다.</CookMealStackSmallSurvival.description>
+  <CookMealStackSmallSurvival.jobString>작은 보존 식량 요리 중.</CookMealStackSmallSurvival.jobString>
+  <CookStackAvaliSpicyJerky.label>매운 육포 요리 (대량)</CookStackAvaliSpicyJerky.label>
+  <CookStackAvaliSpicyJerky.description>사냥꾼과 탐험가들에게 인기있는 육포 덩어리를 요리합니다. 대량을 요리합니다.</CookStackAvaliSpicyJerky.description>
+  <CookStackAvaliSpicyJerky.jobString>매운 육포 요리 중.</CookStackAvaliSpicyJerky.jobString>
+  <CookStackAvaliPiruNoodle.label>피루 국수 요리 (대량)</CookStackAvaliPiruNoodle.label>
+  <CookStackAvaliPiruNoodle.description>아발리 학생들의 필수품인 피루 가루로 피루 국수를 요리합니다. 대량을 요리합니다.</CookStackAvaliPiruNoodle.description>
+  <CookStackAvaliPiruNoodle.jobString>피루 국수 요리 중.</CookStackAvaliPiruNoodle.jobString>
+  <CookStackAvaliKiriCurry.label>키리 카레 요리 (대량)</CookStackAvaliKiriCurry.label>
+  <CookStackAvaliKiriCurry.description>풍부한 키리 소스에 매운 고기국수를 곁들여 요리합니다. 대량을 요리합니다.</CookStackAvaliKiriCurry.description>
+  <CookStackAvaliKiriCurry.jobString>키리 카레 요리 중.</CookStackAvaliKiriCurry.jobString>
+  <CookStackAvaliTaco.label>아발론식 타코 요리 (대량)</CookStackAvaliTaco.label>
+  <CookStackAvaliTaco.description>아발리가 아닌 사람이 먹을 수 없을 정도로 아주 매운 나카티 향을 가진 타코를 요리합니다. 대량을 요리합니다.</CookStackAvaliTaco.description>
+  <CookStackAvaliTaco.jobString>아발론식 타코 요리 중.</CookStackAvaliTaco.jobString>
+  <InjectGuardianNanites.label>수호자 나노기계 주입</InjectGuardianNanites.label>
+  <InjectGuardianNanites.description>수호자 나노기계를 주입합니다.</InjectGuardianNanites.description>
+  <InjectGuardianNanites.jobString>수호자 나노기계 주입 중.</InjectGuardianNanites.jobString>
+  <InjectImmunityNanites.label>면역 나노기계 주입</InjectImmunityNanites.label>
+  <InjectImmunityNanites.description>면역 나노기계를 주입합니다.</InjectImmunityNanites.description>
+  <InjectImmunityNanites.jobString>면역 나노기계 주입 중.</InjectImmunityNanites.jobString>
+  <MakeAvaliGraphene.label>그래핀 직조</MakeAvaliGraphene.label>
+  <MakeAvaliGraphene.description>그래핀을 직조합니다.</MakeAvaliGraphene.description>
+  <MakeAvaliGraphene.jobString>그래핀 직조 중.</MakeAvaliGraphene.jobString>
+  <MakeAvaliNanoFibre.label>나노섬유 만들기</MakeAvaliNanoFibre.label>
+  <MakeAvaliNanoFibre.description>나노섬유를 만듭니다.</MakeAvaliNanoFibre.description>
+  <MakeAvaliNanoFibre.jobString>나노섬유 만드는 중.</MakeAvaliNanoFibre.jobString>
+  <MakeAvaliAerogel.label>에어로겔 인쇄</MakeAvaliAerogel.label>
+  <MakeAvaliAerogel.description>에어로겔을 인쇄합니다.</MakeAvaliAerogel.description>
+  <MakeAvaliAerogel.jobString>에어로겔 인쇄 중.</MakeAvaliAerogel.jobString>
+  <MakePlasteel.label>플라스틸 만들기</MakePlasteel.label>
+  <MakePlasteel.description>플라스틸을 만듭니다.</MakePlasteel.description>
+  <MakePlasteel.jobString>플라스틸 만드는 중.</MakePlasteel.jobString>
+  <InstallAvaliTail.label>아발리 꼬리 설치</InstallAvaliTail.label>
+  <InstallAvaliTail.description>없어졌거나, 손상된 꼬리를 교체합니다.</InstallAvaliTail.description>
+  <InstallAvaliTail.jobString>꼬리 설치 중.</InstallAvaliTail.jobString>
+  <InstallCyberneticAvaliTail.label>인공지능 꼬리 설치</InstallCyberneticAvaliTail.label>
+  <InstallCyberneticAvaliTail.description>인공지능 꼬리를 설치합니다.</InstallCyberneticAvaliTail.description>
+  <InstallCyberneticAvaliTail.jobString>인공지능 꼬리 설치 중.</InstallCyberneticAvaliTail.jobString>
+  <InstallCyberneticAvaliBody.label>인공지능 몸통 교체</InstallCyberneticAvaliBody.label>
+  <InstallCyberneticAvaliBody.description>인공지능 몸통으로 교체합니다.</InstallCyberneticAvaliBody.description>
+  <InstallCyberneticAvaliBody.jobString>몸통 교체 중.</InstallCyberneticAvaliBody.jobString>
+  <InstallCyberneticAvaliHead.label>머리 교체</InstallCyberneticAvaliHead.label>
+  <InstallCyberneticAvaliHead.description>인공지능 머리로 교체합니다.</InstallCyberneticAvaliHead.description>
+  <InstallCyberneticAvaliHead.jobString>머리 교체 중.</InstallCyberneticAvaliHead.jobString>
+  <InstallCyberneticAvaliLeg.label>인공지능 다리 설치</InstallCyberneticAvaliLeg.label>
+  <InstallCyberneticAvaliLeg.description>인공지능 다리를 설치합니다.</InstallCyberneticAvaliLeg.description>
+  <InstallCyberneticAvaliLeg.jobString>인공지능 다리 설치 중.</InstallCyberneticAvaliLeg.jobString>
+  <InstallCyberneticAvaliArm.label>인공지능 팔 설치</InstallCyberneticAvaliArm.label>
+  <InstallCyberneticAvaliArm.description>인공지능 팔을 설치합니다.</InstallCyberneticAvaliArm.description>
+  <InstallCyberneticAvaliArm.jobString>인공지능 팔 설치 중.</InstallCyberneticAvaliArm.jobString>
+  <InstallClothAvaliEar.label>천 귀 설치</InstallClothAvaliEar.label>
+  <InstallClothAvaliEar.description>천 귀를 설치합니다.</InstallClothAvaliEar.description>
+  <InstallClothAvaliEar.jobString>천 귀 설치 중.</InstallClothAvaliEar.jobString>
+  <InstallClothAvaliTail.label>천 꼬리 설치</InstallClothAvaliTail.label>
+  <InstallClothAvaliTail.description>천 꼬리를 설치합니다.</InstallClothAvaliTail.description>
+  <InstallClothAvaliTail.jobString>천 꼬리 설치 중.</InstallClothAvaliTail.jobString>
+  <InstallAvaliSightAugment.label>아발리 시각 보강 설치</InstallAvaliSightAugment.label>
+  <InstallAvaliSightAugment.description>아발리 시각 보강을 설치합니다.</InstallAvaliSightAugment.description>
+  <InstallAvaliSightAugment.jobString>아발리 시각 보강 설치 중.</InstallAvaliSightAugment.jobString>
+  <InstallAvaliHearingAugment.label>아발리 청각 보강 설치</InstallAvaliHearingAugment.label>
+  <InstallAvaliHearingAugment.description>아발리 청각 보강을 설치합니다.</InstallAvaliHearingAugment.description>
+  <InstallAvaliHearingAugment.jobString>아발리 청각 보강 설치 중</InstallAvaliHearingAugment.jobString>
+  <InstallAvaliCoolAugment.label>아발리 냉각 보강 설치</InstallAvaliCoolAugment.label>
+  <InstallAvaliCoolAugment.description>아발리 냉각 보강을 설치합니다.</InstallAvaliCoolAugment.description>
+  <InstallAvaliCoolAugment.jobString>아발리 냉각 보강 설치 중.</InstallAvaliCoolAugment.jobString>
+  <InstallAvaliHeatAugment.label>아발리 보온 보강 설치</InstallAvaliHeatAugment.label>
+  <InstallAvaliHeatAugment.description>아발리 보온 보강을 설치합니다.</InstallAvaliHeatAugment.description>
+  <InstallAvaliHeatAugment.jobString>아발리 보온 보강 설치 중.</InstallAvaliHeatAugment.jobString>
+  <InstallAvaliEnviromentalAugment.label>아발리 생명 유지 보강 설치</InstallAvaliEnviromentalAugment.label>
+  <InstallAvaliEnviromentalAugment.description>아발리 생명 유지 보강을 설치합니다.</InstallAvaliEnviromentalAugment.description>
+  <InstallAvaliEnviromentalAugment.jobString>아발리 생명 유지 보강 설치 중.</InstallAvaliEnviromentalAugment.jobString>
+  <InstallAvaliPackLossAugment.label>아발리 광기예방 보강 설치</InstallAvaliPackLossAugment.label>
+  <InstallAvaliPackLossAugment.description>아발리 광기예방 보강을 설치합니다.</InstallAvaliPackLossAugment.description>
+  <InstallAvaliPackLossAugment.jobString>아발리 광기예방 보강 설치 중.</InstallAvaliPackLossAugment.jobString>
+  <InstallPlasteelAvaliTalons.label>플라스틸 아발리 발톱 설치</InstallPlasteelAvaliTalons.label>
+  <InstallPlasteelAvaliTalons.description>아발리 발톱을 플라스틸 아발리 발톱으로 교체합니다.</InstallPlasteelAvaliTalons.description>
+  <InstallPlasteelAvaliTalons.jobString>플라스틸 아발리 발톱 설치 중.</InstallPlasteelAvaliTalons.jobString>
+  <RemovePlasteelAvaliTalons.label>플라스틸 아발리 발톱 제거</RemovePlasteelAvaliTalons.label>
+  <RemovePlasteelAvaliTalons.description>플라스틸 아발리 발톱을 제거합니다.</RemovePlasteelAvaliTalons.description>
+  <RemovePlasteelAvaliTalons.jobString>플라스틸 아발리 발톱 제거 중.</RemovePlasteelAvaliTalons.jobString>
+  <RemovePlasteelAvaliTalons.successfullyRemovedHediffMessage>{0}(이)가 {1}에서 제거되었습니다.</RemovePlasteelAvaliTalons.successfullyRemovedHediffMessage>
+
+  <!--1365540920_190714_Black Widows-->
+  <Administer_BW_WineofMemories.label>기억의 와인 관리</Administer_BW_WineofMemories.label>
+  <Administer_BW_WineofMemories.jobString>기억의 와인을 관리합니다.</Administer_BW_WineofMemories.jobString>
+  <Make_SmallWoven.label>작은 위도우 조각 제작</Make_SmallWoven.label>
+  <Make_SmallWoven.description>작은 위도우 조각을 제작합니다.</Make_SmallWoven.description>
+  <Make_SmallWoven.jobString>작은 위도우 조각 만드는 중.</Make_SmallWoven.jobString>
+  <Make_MediumWoven.label>중형 직물 조각 제작</Make_MediumWoven.label>
+  <Make_MediumWoven.description>중형 직물 조각을 제작합니다.</Make_MediumWoven.description>
+  <Make_MediumWoven.jobString>중형 직물 조각 만드는 중.</Make_MediumWoven.jobString>
+  <Make_LargeWoven.label>대형 직물 조각 제작</Make_LargeWoven.label>
+  <Make_LargeWoven.description>대형 직물 조각을 제작합니다.</Make_LargeWoven.description>
+  <Make_LargeWoven.jobString>대형 직물 조각 만드는 중.</Make_LargeWoven.jobString>
+  <Make_BionicPedipalp.label>블랙 위도우 생체공학 각수 제작</Make_BionicPedipalp.label>
+  <Make_BionicPedipalp.description>블랙 위도우 생체공학 각수를 제작합니다.</Make_BionicPedipalp.description>
+  <Make_BionicPedipalp.jobString>블랙 위도우 생체공학 각수 만드는 중.</Make_BionicPedipalp.jobString>
+  <Make_SimpleProstheticSpiderLeg.label>블랙 위도우 거미 다리 보철물 제작</Make_SimpleProstheticSpiderLeg.label>
+  <Make_SimpleProstheticSpiderLeg.description>블랙 위도우 거미 다리 보철물을 제작합니다.</Make_SimpleProstheticSpiderLeg.description>
+  <Make_SimpleProstheticSpiderLeg.jobString>블랙 위도우 거미 다리 보철물 만드는 중.</Make_SimpleProstheticSpiderLeg.jobString>
+  <Make_BlackWidowShredderLeg.label>블랙 위도우 분쇄기 다리 제작</Make_BlackWidowShredderLeg.label>
+  <Make_BlackWidowShredderLeg.description>블랙 위도우 분쇄기 다리를 제작합니다.</Make_BlackWidowShredderLeg.description>
+  <Make_BlackWidowShredderLeg.jobString>블랙 위도우 분쇄기 다리 만드는 중.</Make_BlackWidowShredderLeg.jobString>
+  <Make_BlackWidowSleipnirArm.label>블랙 위도우 슬레이프니르 그물망 생체공학 팔 제작</Make_BlackWidowSleipnirArm.label>
+  <Make_BlackWidowSleipnirArm.description>블랙 위도우 슬레이프니르 그물망 생체공학 팔을 제작합니다.</Make_BlackWidowSleipnirArm.description>
+  <Make_BlackWidowSleipnirArm.jobString>블랙 위도우 슬레이프니르 그물망 생체공학 팔 만드는 중.</Make_BlackWidowSleipnirArm.jobString>
+  <Make_Apparel_HoverThrone.label>위도우 갑옷 제작</Make_Apparel_HoverThrone.label>
+  <Make_Apparel_HoverThrone.description>위도우 갑옷을 제작합니다.</Make_Apparel_HoverThrone.description>
+  <Make_Apparel_HoverThrone.jobString>위도우 갑옷 만드는 중</Make_Apparel_HoverThrone.jobString>
+  <Make_Apparel_BWDaisyDukes.label>블랙 위도우 각수 의복 제작</Make_Apparel_BWDaisyDukes.label>
+  <Make_Apparel_BWDaisyDukes.description>블랙 위도우 각수 의복을 제작합니다.</Make_Apparel_BWDaisyDukes.description>
+  <Make_Apparel_BWDaisyDukes.jobString>블랙 위도우 각수 의복 만드는 중</Make_Apparel_BWDaisyDukes.jobString>
+  <Make_Apparel_BWTubeTop.label>블랙 위도우 바람막이 제작</Make_Apparel_BWTubeTop.label>
+  <Make_Apparel_BWTubeTop.description>블랙 위도우 바람막이를 제작합니다.</Make_Apparel_BWTubeTop.description>
+  <Make_Apparel_BWTubeTop.jobString>블랙 위도우 바람막이 만드는 중.</Make_Apparel_BWTubeTop.jobString>
+  <Make_Apparel_BWLingerie.label>블랙 위도우 란제리 상의 제작</Make_Apparel_BWLingerie.label>
+  <Make_Apparel_BWLingerie.description>블랙 위도우 란제리 상의를 제작합니다.</Make_Apparel_BWLingerie.description>
+  <Make_Apparel_BWLingerie.jobString>블랙 위도우 란제리 상의 만드는 중.</Make_Apparel_BWLingerie.jobString>
+  <Make_Apparel_BWNurseCostume.label>블랙 위도우 메이드 드레스 제작</Make_Apparel_BWNurseCostume.label>
+  <Make_Apparel_BWNurseCostume.description>블랙 위도우 메이드 드레스를 제작합니다.</Make_Apparel_BWNurseCostume.description>
+  <Make_Apparel_BWNurseCostume.jobString>블랙 위도우 메이드 드레스 만드는 중.</Make_Apparel_BWNurseCostume.jobString>
+  <Make_Apparel_BWSpiderFurs.label>털 있는 위도우 갑옷 제작</Make_Apparel_BWSpiderFurs.label>
+  <Make_Apparel_BWSpiderFurs.description>털 있는 위도우 갑옷을 제작합니다.</Make_Apparel_BWSpiderFurs.description>
+  <Make_Apparel_BWSpiderFurs.jobString>털 있는 위도우 갑옷 만드는 중.</Make_Apparel_BWSpiderFurs.jobString>
+  <Make_Apparel_MAGISuit.label>MAGI 슈트 제작</Make_Apparel_MAGISuit.label>
+  <Make_Apparel_MAGISuit.description>MAGI 슈트를 제작합니다.</Make_Apparel_MAGISuit.description>
+  <Make_Apparel_MAGISuit.jobString>MAGI 슈트 만드는 중.</Make_Apparel_MAGISuit.jobString>
+  <Make_Apparel_BWDuster.label>위도우 실크 살포기 제작</Make_Apparel_BWDuster.label>
+  <Make_Apparel_BWDuster.description>위도우 실크 살포기를 제작합니다.</Make_Apparel_BWDuster.description>
+  <Make_Apparel_BWDuster.jobString>위도우 실크 살포기 만드는 중.</Make_Apparel_BWDuster.jobString>
+  <Make_Apparel_BWWidowVeil.label>위도우 베일 제작</Make_Apparel_BWWidowVeil.label>
+  <Make_Apparel_BWWidowVeil.description>위도우 베일을 제작합니다.</Make_Apparel_BWWidowVeil.description>
+  <Make_Apparel_BWWidowVeil.jobString>위도우 베일 만드는 중.</Make_Apparel_BWWidowVeil.jobString>
+  <Make_Apparel_BWWidowMaidHelm.label>위도우 메이드 모자 제작</Make_Apparel_BWWidowMaidHelm.label>
+  <Make_Apparel_BWWidowMaidHelm.description>위도우 메이드 모자를 제작합니다.</Make_Apparel_BWWidowMaidHelm.description>
+  <Make_Apparel_BWWidowMaidHelm.jobString>위도우 메이드 모자 만드는 중.</Make_Apparel_BWWidowMaidHelm.jobString>
+  <Make_Apparel_BWMAGISuitHelm.label>위도우 magi 슈트 헬멧 제작</Make_Apparel_BWMAGISuitHelm.label>
+  <Make_Apparel_BWMAGISuitHelm.description>위도우 magi 슈트 헬멧을 제작합니다.</Make_Apparel_BWMAGISuitHelm.description>
+  <Make_Apparel_BWMAGISuitHelm.jobString>위도우 magi 슈트 헬멧 만드는 중</Make_Apparel_BWMAGISuitHelm.jobString>
+  <Make_Apparel_BWGlasses.label>위도우 안경 제작</Make_Apparel_BWGlasses.label>
+  <Make_Apparel_BWGlasses.description>위도우 안경을 제작합니다.</Make_Apparel_BWGlasses.description>
+  <Make_Apparel_BWGlasses.jobString>위도우 안경 만드는 중.</Make_Apparel_BWGlasses.jobString>
+  <Make_Apparel_BWWidowCrown.label>위도우 왕관 제작</Make_Apparel_BWWidowCrown.label>
+  <Make_Apparel_BWWidowCrown.description>위도우 왕관을 제작합니다.</Make_Apparel_BWWidowCrown.description>
+  <Make_Apparel_BWWidowCrown.jobString>위도우 왕관 만드는 중.</Make_Apparel_BWWidowCrown.jobString>
+  <Make_Apparel_BWReaverHelm.label>위도우 리버 헬멧 제작</Make_Apparel_BWReaverHelm.label>
+  <Make_Apparel_BWReaverHelm.description>위도우 리버 헬멧을 제작합니다.</Make_Apparel_BWReaverHelm.description>
+  <Make_Apparel_BWReaverHelm.jobString>위도우 리버 헬멧 만드는 중.</Make_Apparel_BWReaverHelm.jobString>
+  <Make_Apparel_WidowBelt.label>위도우 임시 벨트 제작</Make_Apparel_WidowBelt.label>
+  <Make_Apparel_WidowBelt.description>위도우 임시 벨트를 제작합니다.</Make_Apparel_WidowBelt.description>
+  <Make_Apparel_WidowBelt.jobString>위도우 임시 벨트 만드는 중.</Make_Apparel_WidowBelt.jobString>
+  <Make_Gun_BWRifle.label>블랙 위도우 라이플 제작</Make_Gun_BWRifle.label>
+  <Make_Gun_BWRifle.description>블랙 위도우 라이플을 제작합니다.</Make_Gun_BWRifle.description>
+  <Make_Gun_BWRifle.jobString>블랙 위도우 라이플 만드는 중.</Make_Gun_BWRifle.jobString>
+  <Make_Bow_BWBow.label>블랙 위도우 활 제작</Make_Bow_BWBow.label>
+  <Make_Bow_BWBow.description>블랙 위도우 활을 제작합니다.</Make_Bow_BWBow.description>
+  <Make_Bow_BWBow.jobString>블랙 위도우 활 만드는 중.</Make_Bow_BWBow.jobString>
+  <Make_MeleeWeapon_bwscythe.label>블랙 위도우 대낫 제작</Make_MeleeWeapon_bwscythe.label>
+  <Make_MeleeWeapon_bwscythe.description>블랙 위도우 대낫을 제작합니다.</Make_MeleeWeapon_bwscythe.description>
+  <Make_MeleeWeapon_bwscythe.jobString>블랙 위도우 대낫 만드는 중.</Make_MeleeWeapon_bwscythe.jobString>
+  <Make_BWAbyssSilk.label>심연의 실크 제작</Make_BWAbyssSilk.label>
+  <Make_BWAbyssSilk.description>위도우의 실크와 왕의 실크를 엮어 심연의 실크를 만듭니다.</Make_BWAbyssSilk.description>
+  <Make_BWAbyssSilk.jobString>심연의 실크 엮는 중.</Make_BWAbyssSilk.jobString>
+  <InstallWombMind.label>웜브 마인드 이식</InstallWombMind.label>
+  <InstallWombMind.description>웜브 마인드를 이식합니다.</InstallWombMind.description>
+  <InstallWombMind.jobString>웜브 마인드 이식 중.</InstallWombMind.jobString>
+  <InstallCoreMind.label>코어 마인드 이식</InstallCoreMind.label>
+  <InstallCoreMind.description>블랙 위도우의 코어 마인드를 이식합니다.</InstallCoreMind.description>
+  <InstallCoreMind.jobString>코어 마인드 이식 중.</InstallCoreMind.jobString>
+  <BlackWidow_InstallTRightArm.label>오른쪽 윗 팔 설치</BlackWidow_InstallTRightArm.label>
+  <BlackWidow_InstallTRightArm.description>블랙 위도우의 위쪽 팔을 설치합니다.</BlackWidow_InstallTRightArm.description>
+  <BlackWidow_InstallTRightArm.jobString>오른쪽 윗 팔 설치 중.</BlackWidow_InstallTRightArm.jobString>
+  <BlackWidow_InstallBRightArm.label>오른쪽 아랫 팔 설치</BlackWidow_InstallBRightArm.label>
+  <BlackWidow_InstallBRightArm.description>블랙 위도우의 아래쪽 팔을 설치합니다.</BlackWidow_InstallBRightArm.description>
+  <BlackWidow_InstallBRightArm.jobString>오른쪽 아랫 팔 설치 중.</BlackWidow_InstallBRightArm.jobString>
+  <BlackWidow_InstallTLeftArm.label>왼쪽 윗 팔 설치</BlackWidow_InstallTLeftArm.label>
+  <BlackWidow_InstallTLeftArm.description>블랙 위도우의 위쪽 팔을 설치합니다.</BlackWidow_InstallTLeftArm.description>
+  <BlackWidow_InstallTLeftArm.jobString>왼쪽 윗 팔 설치 중.</BlackWidow_InstallTLeftArm.jobString>
+  <BlackWidow_InstallBLeftArm.label>왼쪽 아랫 팔 설치</BlackWidow_InstallBLeftArm.label>
+  <BlackWidow_InstallBLeftArm.description>블랙 위도우의 아래쪽 팔을 설치합니다.</BlackWidow_InstallBLeftArm.description>
+  <BlackWidow_InstallBLeftArm.jobString>왼쪽 아랫 팔 설치 중.</BlackWidow_InstallBLeftArm.jobString>
+  <BlackWidow_InstallSecondLeftLeg.label>블랙 위도우 다리 설치</BlackWidow_InstallSecondLeftLeg.label>
+  <BlackWidow_InstallSecondLeftLeg.description>블랙 위도우의 거미형태 다리를 설치합니다.</BlackWidow_InstallSecondLeftLeg.description>
+  <BlackWidow_InstallSecondLeftLeg.jobString>블랙 위도우 다리 설치 중.</BlackWidow_InstallSecondLeftLeg.jobString>
+  <BlackWidow_InstallFirstLeftLeg.label>블랙 위도우 다리 설치</BlackWidow_InstallFirstLeftLeg.label>
+  <BlackWidow_InstallFirstLeftLeg.description>블랙 위도우의 거미형태 다리를 설치합니다.</BlackWidow_InstallFirstLeftLeg.description>
+  <BlackWidow_InstallFirstLeftLeg.jobString>블랙 위도우 다리 설치 중.</BlackWidow_InstallFirstLeftLeg.jobString>
+  <BlackWidow_InstallThirdLeftLeg.label>블랙 위도우 다리 설치</BlackWidow_InstallThirdLeftLeg.label>
+  <BlackWidow_InstallThirdLeftLeg.description>블랙 위도우의 거미형태 다리를 설치합니다.</BlackWidow_InstallThirdLeftLeg.description>
+  <BlackWidow_InstallThirdLeftLeg.jobString>블랙 위도우 다리 설치 중.</BlackWidow_InstallThirdLeftLeg.jobString>
+  <BlackWidow_InstallFourthLeftLeg.label>블랙 위도우 다리 설치</BlackWidow_InstallFourthLeftLeg.label>
+  <BlackWidow_InstallFourthLeftLeg.description>블랙 위도우의 거미형태 다리를 설치합니다.</BlackWidow_InstallFourthLeftLeg.description>
+  <BlackWidow_InstallFourthLeftLeg.jobString>블랙 위도우 다리 설치 중.</BlackWidow_InstallFourthLeftLeg.jobString>
+  <BlackWidow_InstallFirstRightLeg.label>블랙 위도우 다리 설치</BlackWidow_InstallFirstRightLeg.label>
+  <BlackWidow_InstallFirstRightLeg.description>블랙 위도우의 거미형태 다리를 설치합니다.</BlackWidow_InstallFirstRightLeg.description>
+  <BlackWidow_InstallFirstRightLeg.jobString>블랙 위도우 다리 설치 중.</BlackWidow_InstallFirstRightLeg.jobString>
+  <BlackWidow_InstallSecondRightLeg.label>블랙 위도우 다리 설치</BlackWidow_InstallSecondRightLeg.label>
+  <BlackWidow_InstallSecondRightLeg.description>블랙 위도우의 거미형태 다리를 설치합니다.</BlackWidow_InstallSecondRightLeg.description>
+  <BlackWidow_InstallSecondRightLeg.jobString>블랙 위도우 다리 설치 중.</BlackWidow_InstallSecondRightLeg.jobString>
+  <BlackWidow_InstallThirdRightLeg.label>블랙 위도우 다리 설치</BlackWidow_InstallThirdRightLeg.label>
+  <BlackWidow_InstallThirdRightLeg.description>블랙 위도우의 거미형태 다리를 설치합니다.</BlackWidow_InstallThirdRightLeg.description>
+  <BlackWidow_InstallThirdRightLeg.jobString>블랙 위도우 다리 설치 중.</BlackWidow_InstallThirdRightLeg.jobString>
+  <BlackWidow_InstallFourthRightLeg.label>블랙 위도우 다리 설치</BlackWidow_InstallFourthRightLeg.label>
+  <BlackWidow_InstallFourthRightLeg.description>블랙 위도우의 거미형태 다리를 설치합니다.</BlackWidow_InstallFourthRightLeg.description>
+  <BlackWidow_InstallFourthRightLeg.jobString>블랙 위도우 다리 설치 중.</BlackWidow_InstallFourthRightLeg.jobString>
+  <InstallPegWidowLeg.label>위도우 의족 설치</InstallPegWidowLeg.label>
+  <InstallPegWidowLeg.description>위도우 의족을 설치합니다.</InstallPegWidowLeg.description>
+  <InstallPegWidowLeg.jobString>위도우 의족 설치 중.</InstallPegWidowLeg.jobString>
+  <InstallSimpleProstheticArmBlackWidow.label>인공 팔 설치</InstallSimpleProstheticArmBlackWidow.label>
+  <InstallSimpleProstheticArmBlackWidow.description>인공 팔을 설치합니다.</InstallSimpleProstheticArmBlackWidow.description>
+  <InstallSimpleProstheticArmBlackWidow.jobString>인공 팔 설치 중.</InstallSimpleProstheticArmBlackWidow.jobString>
+  <InstallBionicRightPedipalp.label>생체공학 오른쪽 각수 설치</InstallBionicRightPedipalp.label>
+  <InstallBionicRightPedipalp.description>생체공학 오른쪽 각수를 설치합니다.</InstallBionicRightPedipalp.description>
+  <InstallBionicRightPedipalp.jobString>생체공학 오른쪽 각수 설치 중.</InstallBionicRightPedipalp.jobString>
+  <InstallBionicLeftPedipalp.label>생체공학 왼쪽 각수 설치</InstallBionicLeftPedipalp.label>
+  <InstallBionicLeftPedipalp.description>생체공학 왼쪽 각수를 설치합니다.</InstallBionicLeftPedipalp.description>
+  <InstallBionicLeftPedipalp.jobString>생체공학 왼쪽 각수 설치 중.</InstallBionicLeftPedipalp.jobString>
+  <InstallBlackWidowSleipnirArm.label>슬레이프니르급 위도우 팔 설치</InstallBlackWidowSleipnirArm.label>
+  <InstallBlackWidowSleipnirArm.description>슬레이프니르 팔을 설치합니다.</InstallBlackWidowSleipnirArm.description>
+  <InstallBlackWidowSleipnirArm.jobString>슬레이프니르 팔 설치 중.</InstallBlackWidowSleipnirArm.jobString>
+  <InstallSimpleProstheticSpiderLeg.label>거미 다리 보철물 설치</InstallSimpleProstheticSpiderLeg.label>
+  <InstallSimpleProstheticSpiderLeg.description>거미 다리 보철물을 설치합니다.</InstallSimpleProstheticSpiderLeg.description>
+  <InstallSimpleProstheticSpiderLeg.jobString>거미 다리 보철물 설치 중.</InstallSimpleProstheticSpiderLeg.jobString>
+  <InstallBlackWidowShredderLeg.label>블랙 위도우 분쇄기 다리 설치</InstallBlackWidowShredderLeg.label>
+  <InstallBlackWidowShredderLeg.description>블랙 위도우 분쇄기 다리를 설치합니다.</InstallBlackWidowShredderLeg.description>
+  <InstallBlackWidowShredderLeg.jobString>블랙 위도우 분쇄기 다리 설치 중.</InstallBlackWidowShredderLeg.jobString>
+  <InstallBlackWidowHeartMind.label>블랙 위도우 하트 마인드 이식</InstallBlackWidowHeartMind.label>
+  <InstallBlackWidowHeartMind.description>블랙 위도우 하트 마인드를 이식합니다.</InstallBlackWidowHeartMind.description>
+  <InstallBlackWidowHeartMind.jobString>블랙 위도우 하트 마인드 이식 중.</InstallBlackWidowHeartMind.jobString>
+  <InstallBlackWidowIntegratedBroodMind.label>블랙 위도우 브루드 마인드 이식</InstallBlackWidowIntegratedBroodMind.label>
+  <InstallBlackWidowIntegratedBroodMind.description>블랙 위도우 브루드 마인드를 이식합니다.</InstallBlackWidowIntegratedBroodMind.description>
+  <InstallBlackWidowIntegratedBroodMind.jobString>블랙 위도우 브루드 마인드 이식 중.</InstallBlackWidowIntegratedBroodMind.jobString>
+  <BW_MakeWineofMemoriesBase.label>기억의 와인 누룩 만들기</BW_MakeWineofMemoriesBase.label>
+  <BW_MakeWineofMemoriesBase.description>기억의 와인을 만들 수 있도록 두개골 꽃을 으깹니다.</BW_MakeWineofMemoriesBase.description>
+  <BW_MakeWineofMemoriesBase.jobString>기억의 와인 누룩 만드는 중.</BW_MakeWineofMemoriesBase.jobString>
+
+  <!--1400227853_190602_Lord of the Rims - Hobbits-->
+  <LotRH_MakeSimplePipe.label>호빗 파이프 담배갑 만들기</LotRH_MakeSimplePipe.label>
+  <LotRH_MakeSimplePipe.description>맛있게 몇 모금 피울 호빗 파이프 담배 다섯 그릇을 준비합니다.</LotRH_MakeSimplePipe.description>
+  <LotRH_MakeSimplePipe.jobString>호빗 파이프 담배 만드는 중</LotRH_MakeSimplePipe.jobString>
+  <Administer_LotRH_PipeweedPipe.label>호빗 파이프 담배 투여</Administer_LotRH_PipeweedPipe.label>
+  <Administer_LotRH_PipeweedPipe.jobString>호빗 파이프 담배 투여중.</Administer_LotRH_PipeweedPipe.jobString>
+  <Make_LotRH_PipeweedPipe.label>호빗 파이프 담배 만들기</Make_LotRH_PipeweedPipe.label>
+  <Make_LotRH_PipeweedPipe.description>호빗 파이프 담배를 만듭니다.</Make_LotRH_PipeweedPipe.description>
+  <Make_LotRH_PipeweedPipe.jobString>호빗 파이프 담배 만드는 중.</Make_LotRH_PipeweedPipe.jobString>
+  <Make_LotRH_Apparel_Backpack.label>호빗 여행자 가방 만들기</Make_LotRH_Apparel_Backpack.label>
+  <Make_LotRH_Apparel_Backpack.description>호빗 여행자 가방을 만듭니다.</Make_LotRH_Apparel_Backpack.description>
+  <Make_LotRH_Apparel_Backpack.jobString>호빗 여행자 가방 만드는 중.</Make_LotRH_Apparel_Backpack.jobString>
+  <Make_LotRH_Apparel_PantsHobbit.label>호빗 바지 만들기</Make_LotRH_Apparel_PantsHobbit.label>
+  <Make_LotRH_Apparel_PantsHobbit.description>호빗 바지를 만듭니다.</Make_LotRH_Apparel_PantsHobbit.description>
+  <Make_LotRH_Apparel_PantsHobbit.jobString>호빗 바지 만드는 중.</Make_LotRH_Apparel_PantsHobbit.jobString>
+  <Make_LotRH_Apparel_Jacket.label>호빗 자켓 만들기</Make_LotRH_Apparel_Jacket.label>
+  <Make_LotRH_Apparel_Jacket.description>호빗 자켓을 만듭니다.</Make_LotRH_Apparel_Jacket.description>
+  <Make_LotRH_Apparel_Jacket.jobString>호빗 자켓 만드는 중.</Make_LotRH_Apparel_Jacket.jobString>
+  <Make_LotRH_Apparel_Cape.label>호빗 망토 만들기</Make_LotRH_Apparel_Cape.label>
+  <Make_LotRH_Apparel_Cape.description>호빗 망토를 만듭니다.</Make_LotRH_Apparel_Cape.description>
+  <Make_LotRH_Apparel_Cape.jobString>호빗 망토를 만드는 중.</Make_LotRH_Apparel_Cape.jobString>
+  <Make_LotRH_Apparel_Vest.label>호빗 셔츠와 조끼 만들기</Make_LotRH_Apparel_Vest.label>
+  <Make_LotRH_Apparel_Vest.description>호빗 셔츠와 조끼를 만듭니다.</Make_LotRH_Apparel_Vest.description>
+  <Make_LotRH_Apparel_Vest.jobString>호빗 셔츠와 조끼 만드는 중.</Make_LotRH_Apparel_Vest.jobString>
+  <Make_LotRH_Apparel_Dress.label>호빗 드레스 만들기</Make_LotRH_Apparel_Dress.label>
+  <Make_LotRH_Apparel_Dress.description>호빗 드레스를 만듭니다.</Make_LotRH_Apparel_Dress.description>
+  <Make_LotRH_Apparel_Dress.jobString>호빗 드레스 만드는 중.</Make_LotRH_Apparel_Dress.jobString>
+  <Make_LotRH_Pitchfork.label>호빗 쇠스랑 만들기</Make_LotRH_Pitchfork.label>
+  <Make_LotRH_Pitchfork.description>호빗 쇠스랑을 만듭니다.</Make_LotRH_Pitchfork.description>
+  <Make_LotRH_Pitchfork.jobString>호빗 쇠스랑 만드는 중.</Make_LotRH_Pitchfork.jobString>
+  <Make_LotRH_AnklebiterAxe.label>호빗 발목도끼 만들기</Make_LotRH_AnklebiterAxe.label>
+  <Make_LotRH_AnklebiterAxe.description>호빗 발목도끼를 만듭니다.</Make_LotRH_AnklebiterAxe.description>
+  <Make_LotRH_AnklebiterAxe.jobString>호빗 발목도끼 만드는 중.</Make_LotRH_AnklebiterAxe.jobString>
+  <Make_LotRH_Baskethilt.label>호빗 바스켓힐트 검 만들기</Make_LotRH_Baskethilt.label>
+  <Make_LotRH_Baskethilt.description>호빗 바스켓힐트 검을 만듭니다.</Make_LotRH_Baskethilt.description>
+  <Make_LotRH_Baskethilt.jobString>호빗 바스켓힐트 검 만드는 중.</Make_LotRH_Baskethilt.jobString>
+
+  <!--1400234784_190526_Lord of the Rims - Elves-->
+  <LotRE_BakeElvishBread.label>엘프 식빵 굽기</LotRE_BakeElvishBread.label>
+  <LotRE_BakeElvishBread.description>맛있는 엘프 식빵을 굽습니다. 렘바스 빵의 재료로 사용될 수 있습니다.</LotRE_BakeElvishBread.description>
+  <LotRE_BakeElvishBread.jobString>엘프 식빵 굽는 중.</LotRE_BakeElvishBread.jobString>
+  <LotRE_PrepareLembas.label>렘바스 제작하기</LotRE_PrepareLembas.label>
+  <LotRE_PrepareLembas.description>유사시 보존식량보다 좋고 오래 보존할 수 있는 여행자의 빵인 렘바스를 제작합니다.\n\n렘바스 두 개를 만듭니다.</LotRE_PrepareLembas.description>
+  <LotRE_PrepareLembas.jobString>렘바스 빵 제작 중.</LotRE_PrepareLembas.jobString>
+  <LotRE_CraftLembasflour.label>렘바스 가루 제분하기</LotRE_CraftLembasflour.label>
+  <LotRE_CraftLembasflour.description>렘바스 옥수수를 렘바스 가루로 제분합니다.</LotRE_CraftLembasflour.description>
+  <LotRE_CraftLembasflour.jobString>렘바스 옥수수 제분 중.</LotRE_CraftLembasflour.jobString>
+  <LotRE_CraftBulkLembasFlour.label>렘바스 가루 대량 제분하기</LotRE_CraftBulkLembasFlour.label>
+  <LotRE_CraftBulkLembasFlour.description>렘바스 옥수수를 렘바스 가루로 제분합니다.</LotRE_CraftBulkLembasFlour.description>
+  <LotRE_CraftBulkLembasFlour.jobString>렘바스 옥수수 제분 중.</LotRE_CraftBulkLembasFlour.jobString>
+  <Make_LotRE_Apparel_Cape.label>엘프 망토 (숲속) 제작 중.</Make_LotRE_Apparel_Cape.label>
+  <Make_LotRE_Apparel_Cape.description>엘프 망토 (숲속) 를 제작합니다.</Make_LotRE_Apparel_Cape.description>
+  <Make_LotRE_Apparel_Cape.jobString>엘프 망토 (숲속) 제작 중.</Make_LotRE_Apparel_Cape.jobString>
+  <Make_LotRE_Apparel_CapeCoastal.label>엘프 망토 (해안) 제작</Make_LotRE_Apparel_CapeCoastal.label>
+  <Make_LotRE_Apparel_CapeCoastal.description>엘프 망토 (해안) 를 제작합니다.</Make_LotRE_Apparel_CapeCoastal.description>
+  <Make_LotRE_Apparel_CapeCoastal.jobString>엘프 망토 (해안) 제작 중.</Make_LotRE_Apparel_CapeCoastal.jobString>
+  <Make_LotRE_ElfApparel_SimpleRobeWoodland.label>엘프 로브 (숲속) 제작</Make_LotRE_ElfApparel_SimpleRobeWoodland.label>
+  <Make_LotRE_ElfApparel_SimpleRobeWoodland.description>엘프 로브 (숲속)를 제작합니다.</Make_LotRE_ElfApparel_SimpleRobeWoodland.description>
+  <Make_LotRE_ElfApparel_SimpleRobeWoodland.jobString>엘프 로브 (숲속) 제작 중.</Make_LotRE_ElfApparel_SimpleRobeWoodland.jobString>
+  <Make_LotRE_ElfApparel_SimpleRobeSea.label>엘프 로브 (해안) 제작</Make_LotRE_ElfApparel_SimpleRobeSea.label>
+  <Make_LotRE_ElfApparel_SimpleRobeSea.description>엘프 로브 (해안)를 제작합니다.</Make_LotRE_ElfApparel_SimpleRobeSea.description>
+  <Make_LotRE_ElfApparel_SimpleRobeSea.jobString>엘프 로브 (해안) 제작 중.</Make_LotRE_ElfApparel_SimpleRobeSea.jobString>
+  <Make_LotRE_ElfApparel_SimpleRobeHigh.label>엘프 로브 (귀족) 제작</Make_LotRE_ElfApparel_SimpleRobeHigh.label>
+  <Make_LotRE_ElfApparel_SimpleRobeHigh.description>엘프 로브 (귀족)를 제작합니다.</Make_LotRE_ElfApparel_SimpleRobeHigh.description>
+  <Make_LotRE_ElfApparel_SimpleRobeHigh.jobString>엘프 로브 (귀족) 제작 중.</Make_LotRE_ElfApparel_SimpleRobeHigh.jobString>
+  <Make_LotRE_ElfApparel_BattleArmorSea.label>팔라스 엘프 갑옷 제작</Make_LotRE_ElfApparel_BattleArmorSea.label>
+  <Make_LotRE_ElfApparel_BattleArmorSea.description>팔라스(해안 엘프) 갑옷을 제작합니다.</Make_LotRE_ElfApparel_BattleArmorSea.description>
+  <Make_LotRE_ElfApparel_BattleArmorSea.jobString>팔라스 엘프 갑옷 제작 중.</Make_LotRE_ElfApparel_BattleArmorSea.jobString>
+  <Make_LotRE_ElfApparel_BattleArmorWood.label>실반 엘프 갑옷 제작</Make_LotRE_ElfApparel_BattleArmorWood.label>
+  <Make_LotRE_ElfApparel_BattleArmorWood.description>실반(숲속 엘프) 갑옷을 제작합니다.</Make_LotRE_ElfApparel_BattleArmorWood.description>
+  <Make_LotRE_ElfApparel_BattleArmorWood.jobString>실반 엘프 갑옷 제작</Make_LotRE_ElfApparel_BattleArmorWood.jobString>
+  <Make_LotRE_ElfApparel_BattleArmorTree.label>갈라드림 엘프 갑옷 제작</Make_LotRE_ElfApparel_BattleArmorTree.label>
+  <Make_LotRE_ElfApparel_BattleArmorTree.description>갈라드림(나무 엘프) 갑옷을 제작합니다.</Make_LotRE_ElfApparel_BattleArmorTree.description>
+  <Make_LotRE_ElfApparel_BattleArmorTree.jobString>갈라드림 엘프 갑옷 제작 중.</Make_LotRE_ElfApparel_BattleArmorTree.jobString>
+  <Make_LotRE_ElfApparel_BattleArmor.label>놀도르 엘프 갑옷 제작</Make_LotRE_ElfApparel_BattleArmor.label>
+  <Make_LotRE_ElfApparel_BattleArmor.description>놀도르(깊은 엘프) 갑옷을 제작합니다.</Make_LotRE_ElfApparel_BattleArmor.description>
+  <Make_LotRE_ElfApparel_BattleArmor.jobString>놀도르 엘프 갑옷 제작 중.</Make_LotRE_ElfApparel_BattleArmor.jobString>
+  <Make_LotRE_ElfApparel_BattleHelmetSea.label>팔라스 엘프 투구 제작</Make_LotRE_ElfApparel_BattleHelmetSea.label>
+  <Make_LotRE_ElfApparel_BattleHelmetSea.description>팔라스(해안 엘프) 투구를 제작합니다.</Make_LotRE_ElfApparel_BattleHelmetSea.description>
+  <Make_LotRE_ElfApparel_BattleHelmetSea.jobString>팔라스 엘프 투구 제작 중.</Make_LotRE_ElfApparel_BattleHelmetSea.jobString>
+  <Make_LotRE_ElfApparel_BattleHelmetWood.label>실반 엘프 투구 제작</Make_LotRE_ElfApparel_BattleHelmetWood.label>
+  <Make_LotRE_ElfApparel_BattleHelmetWood.description>실반(숲속 엘프) 투구를 제작합니다.</Make_LotRE_ElfApparel_BattleHelmetWood.description>
+  <Make_LotRE_ElfApparel_BattleHelmetWood.jobString>실반 엘프 투구 제작 중.</Make_LotRE_ElfApparel_BattleHelmetWood.jobString>
+  <Make_LotRE_ElfApparel_BattleHelmetTree.label>갈라드림 엘프 투구 제작</Make_LotRE_ElfApparel_BattleHelmetTree.label>
+  <Make_LotRE_ElfApparel_BattleHelmetTree.description>갈라드림(깊은 엘프) 투구를 제작합니다.</Make_LotRE_ElfApparel_BattleHelmetTree.description>
+  <Make_LotRE_ElfApparel_BattleHelmetTree.jobString>갈라드림 엘프 투구 제작 중.</Make_LotRE_ElfApparel_BattleHelmetTree.jobString>
+  <Make_LotRE_ElfApparel_BattleHelmet.label>놀도르 엘프 투구 제작</Make_LotRE_ElfApparel_BattleHelmet.label>
+  <Make_LotRE_ElfApparel_BattleHelmet.description>놀도르(깊은 엘프) 투구를 제작합니다.</Make_LotRE_ElfApparel_BattleHelmet.description>
+  <Make_LotRE_ElfApparel_BattleHelmet.jobString>놀도르 엘프 투구 제작 중.</Make_LotRE_ElfApparel_BattleHelmet.jobString>
+  <Make_LotRE_ElfApparel_WoodElfCrown.label>엘프 왕관 제작</Make_LotRE_ElfApparel_WoodElfCrown.label>
+  <Make_LotRE_ElfApparel_WoodElfCrown.description>엘프 왕관을 제작합니다.</Make_LotRE_ElfApparel_WoodElfCrown.description>
+  <Make_LotRE_ElfApparel_WoodElfCrown.jobString>엘프 왕관 제작 중.</Make_LotRE_ElfApparel_WoodElfCrown.jobString>
+  <Make_LotRE_ElvenShieldBuckler.label>엘프 둥근방패 제작</Make_LotRE_ElvenShieldBuckler.label>
+  <Make_LotRE_ElvenShieldBuckler.description>엘프 둥근방패를 제작합니다.</Make_LotRE_ElvenShieldBuckler.description>
+  <Make_LotRE_ElvenShieldBuckler.jobString>엘프 둥근방패 제작 중.</Make_LotRE_ElvenShieldBuckler.jobString>
+  <Make_LotRE_ElvenShield.label>놀도르 엘프 방패 제작</Make_LotRE_ElvenShield.label>
+  <Make_LotRE_ElvenShield.description>놀도르(깊은 엘프) 방패를 제작합니다.</Make_LotRE_ElvenShield.description>
+  <Make_LotRE_ElvenShield.jobString>놀도르 엘프 방패 제작 중.</Make_LotRE_ElvenShield.jobString>
+  <Make_LotRE_Bow_Mirkwood.label>어둠숲나무 엘프 활 제작</Make_LotRE_Bow_Mirkwood.label>
+  <Make_LotRE_Bow_Mirkwood.description>어둠숲나무 엘프 활을 제작합니다.</Make_LotRE_Bow_Mirkwood.description>
+  <Make_LotRE_Bow_Mirkwood.jobString>어둠숲나무 엘프 활 제작 중.</Make_LotRE_Bow_Mirkwood.jobString>
+  <Make_LotRE_Bow_Galadhrim.label>갈라드림 엘프 활 제작</Make_LotRE_Bow_Galadhrim.label>
+  <Make_LotRE_Bow_Galadhrim.description>갈라드림(깊은 엘프) 활을 제작합니다.</Make_LotRE_Bow_Galadhrim.description>
+  <Make_LotRE_Bow_Galadhrim.jobString>갈라드림 엘프 활 제작 중.</Make_LotRE_Bow_Galadhrim.jobString>
+  <Make_LotRE_Bow_Rivendell.label>리븐델 엘프 활 제작</Make_LotRE_Bow_Rivendell.label>
+  <Make_LotRE_Bow_Rivendell.description>리븐델 엘프 활을 제작합니다.</Make_LotRE_Bow_Rivendell.description>
+  <Make_LotRE_Bow_Rivendell.jobString>리븐델 엘프 활 제작 중.</Make_LotRE_Bow_Rivendell.jobString>
+  <Make_LotRE_MeleeWeapon_WhiteKnives.label>엘프 흰색 칼 제작</Make_LotRE_MeleeWeapon_WhiteKnives.label>
+  <Make_LotRE_MeleeWeapon_WhiteKnives.description>엘프 흰색 칼을 제작합니다.</Make_LotRE_MeleeWeapon_WhiteKnives.description>
+  <Make_LotRE_MeleeWeapon_WhiteKnives.jobString>엘프 흰색 칼 제작 중.</Make_LotRE_MeleeWeapon_WhiteKnives.jobString>
+  <Make_LotRE_MeleeWeapon_Saber.label>엘프 세이버 제작</Make_LotRE_MeleeWeapon_Saber.label>
+  <Make_LotRE_MeleeWeapon_Saber.description>엘프 세이버를 제작합니다.</Make_LotRE_MeleeWeapon_Saber.description>
+  <Make_LotRE_MeleeWeapon_Saber.jobString>엘프 세이버 제작 중.</Make_LotRE_MeleeWeapon_Saber.jobString>
+  <Make_LotRE_MeleeWeapon_Lhang.label>엘프 랑 제작</Make_LotRE_MeleeWeapon_Lhang.label>
+  <Make_LotRE_MeleeWeapon_Lhang.description>엘프 랑을 제작합니다.</Make_LotRE_MeleeWeapon_Lhang.description>
+  <Make_LotRE_MeleeWeapon_Lhang.jobString>엘프 랑 제작 중.</Make_LotRE_MeleeWeapon_Lhang.jobString>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <LotRD_MakeWortMead.label>드워프 벌꿀 술 맥아즙 제작</LotRD_MakeWortMead.label>
+  <LotRD_MakeWortMead.description>꿀뿌리로 드워프 벌꿀 술 맥아즙을 만듭니다.</LotRD_MakeWortMead.description>
+  <LotRD_MakeWortMead.jobString>드워프 벌꿀 술 맥아즙 제작 중.</LotRD_MakeWortMead.jobString>
+  <Administer_LotRD_Mead.label>드워프 벌꿀 술 투여</Administer_LotRD_Mead.label>
+  <Administer_LotRD_Mead.jobString>드워프 벌꿀 술 투여 중.</Administer_LotRD_Mead.jobString>
+  <Make_LotRD_DwarfApparel_Pants.label>바지 제작</Make_LotRD_DwarfApparel_Pants.label>
+  <Make_LotRD_DwarfApparel_Pants.description>바지를 제작합니다.</Make_LotRD_DwarfApparel_Pants.description>
+  <Make_LotRD_DwarfApparel_Pants.jobString>바지 제작 중.</Make_LotRD_DwarfApparel_Pants.jobString>
+  <Make_LotRD_DwarfApparel_Tunic.label>드워프 튜닉 제작</Make_LotRD_DwarfApparel_Tunic.label>
+  <Make_LotRD_DwarfApparel_Tunic.description>드워프 튜닉을 제작합니다.</Make_LotRD_DwarfApparel_Tunic.description>
+  <Make_LotRD_DwarfApparel_Tunic.jobString>드워프 튜닉 제작 중.</Make_LotRD_DwarfApparel_Tunic.jobString>
+  <Make_LotRD_DwarfApparel_GimliArmor.label>긴수염 드워프 체인코트 제작</Make_LotRD_DwarfApparel_GimliArmor.label>
+  <Make_LotRD_DwarfApparel_GimliArmor.description>긴수염 드워프 체인코트를 제작합니다.</Make_LotRD_DwarfApparel_GimliArmor.description>
+  <Make_LotRD_DwarfApparel_GimliArmor.jobString>긴수염 드워프 체인코트를 제작 중.</Make_LotRD_DwarfApparel_GimliArmor.jobString>
+  <Make_LotRD_DwarfApparel_IronHillArmor.label>언덕 드워프 갑옷 만들기</Make_LotRD_DwarfApparel_IronHillArmor.label>
+  <Make_LotRD_DwarfApparel_IronHillArmor.description>언덕 드워프 갑옷을 제작합니다.</Make_LotRD_DwarfApparel_IronHillArmor.description>
+  <Make_LotRD_DwarfApparel_IronHillArmor.jobString>언덕 드워프 갑옷 제작 중.</Make_LotRD_DwarfApparel_IronHillArmor.jobString>
+  <Make_LotRD_DwarfApparel_MoriaBattleArmor.label>산악 드워프 갑옷 제작</Make_LotRD_DwarfApparel_MoriaBattleArmor.label>
+  <Make_LotRD_DwarfApparel_MoriaBattleArmor.description>산악 드워프 갑옷을 제작합니다.</Make_LotRD_DwarfApparel_MoriaBattleArmor.description>
+  <Make_LotRD_DwarfApparel_MoriaBattleArmor.jobString>산악 드워프 갑옷 제작 중.</Make_LotRD_DwarfApparel_MoriaBattleArmor.jobString>
+  <Make_LotRD_DwarfApparel_GimliHelmet.label>긴수염 드워프 투구 제작</Make_LotRD_DwarfApparel_GimliHelmet.label>
+  <Make_LotRD_DwarfApparel_GimliHelmet.description>긴수염 드워프 투구를 제작합니다.</Make_LotRD_DwarfApparel_GimliHelmet.description>
+  <Make_LotRD_DwarfApparel_GimliHelmet.jobString>긴수염 드워프 투구 제작 중.</Make_LotRD_DwarfApparel_GimliHelmet.jobString>
+  <Make_LotRD_DwarfApparel_IronHillHelmet.label>언덕 드워프 투구 제작</Make_LotRD_DwarfApparel_IronHillHelmet.label>
+  <Make_LotRD_DwarfApparel_IronHillHelmet.description>언덕 드워프 투구를 제작합니다.</Make_LotRD_DwarfApparel_IronHillHelmet.description>
+  <Make_LotRD_DwarfApparel_IronHillHelmet.jobString>언덕 드워프 투구 제작 중.</Make_LotRD_DwarfApparel_IronHillHelmet.jobString>
+  <Make_LotRD_DwarfApparel_MoriaBattleHelmet.label>산악 드워프 전투 투구 제작</Make_LotRD_DwarfApparel_MoriaBattleHelmet.label>
+  <Make_LotRD_DwarfApparel_MoriaBattleHelmet.description>산악 드워프 전투 투구을 제작합니다.</Make_LotRD_DwarfApparel_MoriaBattleHelmet.description>
+  <Make_LotRD_DwarfApparel_MoriaBattleHelmet.jobString>산악 드워프 전투 투구 제작 중.</Make_LotRD_DwarfApparel_MoriaBattleHelmet.jobString>
+  <Make_LotRD_DwarfApparel_IronHillHelmetKing.label>언덕 드워프 군주 투구 제작</Make_LotRD_DwarfApparel_IronHillHelmetKing.label>
+  <Make_LotRD_DwarfApparel_IronHillHelmetKing.description>언덕 드워프 군주 투구를 제작합니다.</Make_LotRD_DwarfApparel_IronHillHelmetKing.description>
+  <Make_LotRD_DwarfApparel_IronHillHelmetKing.jobString>언덕 드워프 군주 투구 제작 중.</Make_LotRD_DwarfApparel_IronHillHelmetKing.jobString>
+  <Make_LotRD_DwarfApparel_Crown.label>드워프 왕의 왕관 제작</Make_LotRD_DwarfApparel_Crown.label>
+  <Make_LotRD_DwarfApparel_Crown.description>드워프 왕의 왕관을 제작합니다.</Make_LotRD_DwarfApparel_Crown.description>
+  <Make_LotRD_DwarfApparel_Crown.jobString>드워프 왕의 왕관 제작 중.</Make_LotRD_DwarfApparel_Crown.jobString>
+  <Make_LotRD_DwarfStandardShield.label>드워프 방패 제작</Make_LotRD_DwarfStandardShield.label>
+  <Make_LotRD_DwarfStandardShield.description>드워프 방패를 제작합니다.</Make_LotRD_DwarfStandardShield.description>
+  <Make_LotRD_DwarfStandardShield.jobString>드워프 방패 제작 중.</Make_LotRD_DwarfStandardShield.jobString>
+  <Make_LotRD_DwarfStandardShieldTwo.label>드워프 방패(매듭문양) 제작</Make_LotRD_DwarfStandardShieldTwo.label>
+  <Make_LotRD_DwarfStandardShieldTwo.description>매듭문양 드워프 방패를 제작합니다.</Make_LotRD_DwarfStandardShieldTwo.description>
+  <Make_LotRD_DwarfStandardShieldTwo.jobString>드워프 방패(매듭문양) 제작 중.</Make_LotRD_DwarfStandardShieldTwo.jobString>
+  <Make_LotRD_DwarfStandardShieldThree.label>드워프 방패(녹색) 제작</Make_LotRD_DwarfStandardShieldThree.label>
+  <Make_LotRD_DwarfStandardShieldThree.description>녹색 드워프 방패를 제작합니다.</Make_LotRD_DwarfStandardShieldThree.description>
+  <Make_LotRD_DwarfStandardShieldThree.jobString>드워프 방패(녹색) 제작 중.</Make_LotRD_DwarfStandardShieldThree.jobString>
+  <Make_LotRD_DwarfStandardShieldFour.label>드워프 방패(문장) 제작</Make_LotRD_DwarfStandardShieldFour.label>
+  <Make_LotRD_DwarfStandardShieldFour.description>문장이 그려진 드워프 방패를 제작합니다.</Make_LotRD_DwarfStandardShieldFour.description>
+  <Make_LotRD_DwarfStandardShieldFour.jobString>드워프 방패(문장) 제작 중.</Make_LotRD_DwarfStandardShieldFour.jobString>
+  <Make_LotRD_DwarfStandardShieldFive.label>드워프 방패(귀족) 제작</Make_LotRD_DwarfStandardShieldFive.label>
+  <Make_LotRD_DwarfStandardShieldFive.description>귀족 드워프 방패를 제작합니다.</Make_LotRD_DwarfStandardShieldFive.description>
+  <Make_LotRD_DwarfStandardShieldFive.jobString>드워프 방패(귀족) 제작 중.</Make_LotRD_DwarfStandardShieldFive.jobString>
+  <Make_LotRD_IronHillBattleShield.label>언덕 드워프 방패 제작</Make_LotRD_IronHillBattleShield.label>
+  <Make_LotRD_IronHillBattleShield.description>언덕 드워프 방패를 제작합니다.</Make_LotRD_IronHillBattleShield.description>
+  <Make_LotRD_IronHillBattleShield.jobString>언덕 드워프 방패 제작 중.</Make_LotRD_IronHillBattleShield.jobString>
+  <Make_LotRD_MoriaBattleShield.label>산악 드워프 방패 제작</Make_LotRD_MoriaBattleShield.label>
+  <Make_LotRD_MoriaBattleShield.description>산악 드워프 방패를 제작합니다.</Make_LotRD_MoriaBattleShield.description>
+  <Make_LotRD_MoriaBattleShield.jobString>산악 드워프 방패 제작 중.</Make_LotRD_MoriaBattleShield.jobString>
+  <Make_LotRD_DwarfPuzzleBox.label>퍼즐 상자(드워프 제) 제작</Make_LotRD_DwarfPuzzleBox.label>
+  <Make_LotRD_DwarfPuzzleBox.description>드워프 제 퍼즐 상자를 제작합니다.</Make_LotRD_DwarfPuzzleBox.description>
+  <Make_LotRD_DwarfPuzzleBox.jobString>퍼즐 상자(드워프 제) 제작 중.</Make_LotRD_DwarfPuzzleBox.jobString>
+  <Make_LotRD_DwarfMarbleLabyrinth.label>대리석 미로(드워프 제) 제작</Make_LotRD_DwarfMarbleLabyrinth.label>
+  <Make_LotRD_DwarfMarbleLabyrinth.description>드워프 제 대리석 미로를 제작합니다.</Make_LotRD_DwarfMarbleLabyrinth.description>
+  <Make_LotRD_DwarfMarbleLabyrinth.jobString>대리석 미로(드워프 제) 제작 중.</Make_LotRD_DwarfMarbleLabyrinth.jobString>
+  <Make_LotRD_DwarfElfToy.label>엘프 인형(드워프 제) 제작</Make_LotRD_DwarfElfToy.label>
+  <Make_LotRD_DwarfElfToy.description>드워프 제 엘프 인형을 제작합니다.</Make_LotRD_DwarfElfToy.description>
+  <Make_LotRD_DwarfElfToy.jobString>엘프 인형(드워프 제) 제작 중.</Make_LotRD_DwarfElfToy.jobString>
+  <Make_LotRD_MeleeWeapon_AxeGimliWalking.label>드워프 등산 도끼 제작</Make_LotRD_MeleeWeapon_AxeGimliWalking.label>
+  <Make_LotRD_MeleeWeapon_AxeGimliWalking.description>드워프 등산 조끼를 제작합니다.</Make_LotRD_MeleeWeapon_AxeGimliWalking.description>
+  <Make_LotRD_MeleeWeapon_AxeGimliWalking.jobString>드워프 등산 조끼 제작 중.</Make_LotRD_MeleeWeapon_AxeGimliWalking.jobString>
+  <Make_LotRD_MeleeWeapon_AxeBattle.label>드워프 전투 도끼 제작</Make_LotRD_MeleeWeapon_AxeBattle.label>
+  <Make_LotRD_MeleeWeapon_AxeBattle.description>드워프 전투 도끼를 제작합니다.</Make_LotRD_MeleeWeapon_AxeBattle.description>
+  <Make_LotRD_MeleeWeapon_AxeBattle.jobString>드워프 전투 도끼 제작 중.</Make_LotRD_MeleeWeapon_AxeBattle.jobString>
+  <Make_LotRD_MeleeWeapon_AxeWarGimli.label>드워프 양날 도끼 제작</Make_LotRD_MeleeWeapon_AxeWarGimli.label>
+  <Make_LotRD_MeleeWeapon_AxeWarGimli.description>드워프 양날 도끼를 제작합니다.</Make_LotRD_MeleeWeapon_AxeWarGimli.description>
+  <Make_LotRD_MeleeWeapon_AxeWarGimli.jobString>드워프 양날 도끼 제작 중.</Make_LotRD_MeleeWeapon_AxeWarGimli.jobString>
+  <Make_LotRD_Bow_Dwarven.label>드워프 각궁 제작</Make_LotRD_Bow_Dwarven.label>
+  <Make_LotRD_Bow_Dwarven.description>드워프 각궁을 제작합니다.</Make_LotRD_Bow_Dwarven.description>
+  <Make_LotRD_Bow_Dwarven.jobString>드워프 각궁 제작 중.</Make_LotRD_Bow_Dwarven.jobString>
+  <Make_LotRD_Bow_DwarvenCross.label>드워프 석궁 제작</Make_LotRD_Bow_DwarvenCross.label>
+  <Make_LotRD_Bow_DwarvenCross.description>드워프 석궁을 제작합니다.</Make_LotRD_Bow_DwarvenCross.description>
+  <Make_LotRD_Bow_DwarvenCross.jobString>드워프 석궁 제작 중.</Make_LotRD_Bow_DwarvenCross.jobString>
+  <Make_LotRD_MeleeWeapon_DwarfSword.label>드워프 귀족 검 제작</Make_LotRD_MeleeWeapon_DwarfSword.label>
+  <Make_LotRD_MeleeWeapon_DwarfSword.description>드워프 귀족 검을 제작합니다.</Make_LotRD_MeleeWeapon_DwarfSword.description>
+  <Make_LotRD_MeleeWeapon_DwarfSword.jobString>드워프 귀족 검 제작 중.</Make_LotRD_MeleeWeapon_DwarfSword.jobString>
+  <Make_LotRD_MeleeWeapon_DwarfSwordBandit.label>드워프 검 제작</Make_LotRD_MeleeWeapon_DwarfSwordBandit.label>
+  <Make_LotRD_MeleeWeapon_DwarfSwordBandit.description>드워프 검을 제작합니다.</Make_LotRD_MeleeWeapon_DwarfSwordBandit.description>
+  <Make_LotRD_MeleeWeapon_DwarfSwordBandit.jobString>드워프 검 제작 중.</Make_LotRD_MeleeWeapon_DwarfSwordBandit.jobString>
+  <Make_LotRD_MeleeWeapon_DwarfSpear.label>드워프 창 제작</Make_LotRD_MeleeWeapon_DwarfSpear.label>
+  <Make_LotRD_MeleeWeapon_DwarfSpear.description>드워프 창을 제작합니다.</Make_LotRD_MeleeWeapon_DwarfSpear.description>
+  <Make_LotRD_MeleeWeapon_DwarfSpear.jobString>드워프 창 제작 중.</Make_LotRD_MeleeWeapon_DwarfSpear.jobString>
+
+  <!--1416483638_190811_Orassans-->
+  <MakeCatJuice5.label>고양이 눈 열매 주스 만들기 (5)</MakeCatJuice5.label>
+  <MakeCatJuice5.description>고양이 눈 열매로 주스를 만듭니다.</MakeCatJuice5.description>
+  <MakeCatJuice5.jobString>고양이 눈 열매 주스 만드는 중.</MakeCatJuice5.jobString>
+  <MakeCatJuice25.label>고양이 눈 열매 주스 만들기 (25)</MakeCatJuice25.label>
+  <MakeCatJuice25.description>고양이 눈 열매로 주스를 만듭니다.</MakeCatJuice25.description>
+  <MakeCatJuice25.jobString>고양이 눈 열매 주스 만드는 중.</MakeCatJuice25.jobString>
+  <MakeCatnipJoint.label>캣닙 담배 제작 (15)</MakeCatnipJoint.label>
+  <MakeCatnipJoint.description>캣닙 잎을 말아서 담배로 만듭니다.</MakeCatnipJoint.description>
+  <MakeCatnipJoint.jobString>캣닙 담배 제작 중.</MakeCatnipJoint.jobString>
+  <MakeRockPowder.label>돌 가루 제작</MakeRockPowder.label>
+  <MakeRockPowder.description>바위 덩어리를 갈아내서 네오 콘크리트에 쓰일 돌 가루를 만듭니다.</MakeRockPowder.description>
+  <MakeRockPowder.jobString>돌 덩어리에서 벽돌 제작 중.</MakeRockPowder.jobString>
+  <MakeRockPowderMixer.label>돌 가루 제작</MakeRockPowderMixer.label>
+  <MakeRockPowderMixer.description>바위 덩어리를 갈아내서 네오 콘크리트에 쓰일 돌 가루를 만듭니다.</MakeRockPowderMixer.description>
+  <MakeRockPowderMixer.jobString>돌 덩어리에서 벽돌 제작 중.</MakeRockPowderMixer.jobString>
+  <MakeNeoConcreteMix.label>네오 콘크리트 섞기</MakeNeoConcreteMix.label>
+  <MakeNeoConcreteMix.description>네오 콘크리트를 섞을 준비를 합니다.</MakeNeoConcreteMix.description>
+  <MakeNeoConcreteMix.jobString>돌 덩어리에서 벽돌 제작 중.</MakeNeoConcreteMix.jobString>
+  <MakeNeoConcreteMixer.label>네오 콘크리트 섞기</MakeNeoConcreteMixer.label>
+  <MakeNeoConcreteMixer.description>네오 콘크리트를 섞을 준비를 합니다.</MakeNeoConcreteMixer.description>
+  <MakeNeoConcreteMixer.jobString>돌 덩어리에서 벽돌 제작 중.</MakeNeoConcreteMixer.jobString>
+  <Administer_Catberryjuice.label>고양이 눈 열매 주스 관리</Administer_Catberryjuice.label>
+  <Administer_Catberryjuice.jobString>고양이 눈 열매 주스 관리 중.</Administer_Catberryjuice.jobString>
+  <Administer_CatnipJoint.label>캣닢 담배 관리</Administer_CatnipJoint.label>
+  <Administer_CatnipJoint.jobString>캣닢 담배 관리 중.</Administer_CatnipJoint.jobString>
+  <Make_CatnipJoint.label>캣닢 담배 제작</Make_CatnipJoint.label>
+  <Make_CatnipJoint.description>캣닢 담배를 제작합니다.</Make_CatnipJoint.description>
+  <Make_CatnipJoint.jobString>캣닢 담배 제작 중.</Make_CatnipJoint.jobString>
+  <Make_Apparel_OrassanSacriArmorHelmet.label>오라산 S.A.C.R.I 헬멧 제작</Make_Apparel_OrassanSacriArmorHelmet.label>
+  <Make_Apparel_OrassanSacriArmorHelmet.description>오라산 S.A.C.R.I 헬멧을 제작합니다.</Make_Apparel_OrassanSacriArmorHelmet.description>
+  <Make_Apparel_OrassanSacriArmorHelmet.jobString>오라산 S.A.C.R.I 헬멧 제작 중.</Make_Apparel_OrassanSacriArmorHelmet.jobString>
+  <Make_Apparel_OrassanPowerArmorHelmet.label>오라산 외골격 헬멧 제작</Make_Apparel_OrassanPowerArmorHelmet.label>
+  <Make_Apparel_OrassanPowerArmorHelmet.description>오라산 외골격 헬멧을 제작합니다.</Make_Apparel_OrassanPowerArmorHelmet.description>
+  <Make_Apparel_OrassanPowerArmorHelmet.jobString>오라산 외골격 헬멧 제작 중.</Make_Apparel_OrassanPowerArmorHelmet.jobString>
+  <Make_Apparel_KittySacriSuit.label>오라산 S.A.C.R.I 슈트 제작</Make_Apparel_KittySacriSuit.label>
+  <Make_Apparel_KittySacriSuit.description>오라산 S.A.C.R.I 슈트를 제작합니다.</Make_Apparel_KittySacriSuit.description>
+  <Make_Apparel_KittySacriSuit.jobString>오라산 S.A.C.R.I 슈트 제작 중.</Make_Apparel_KittySacriSuit.jobString>
+  <Make_Apparel_KittyArmor.label>오라산 외골격 갑옷 제작</Make_Apparel_KittyArmor.label>
+  <Make_Apparel_KittyArmor.description>오라산 외골격 갑옷을 제작합니다.</Make_Apparel_KittyArmor.description>
+  <Make_Apparel_KittyArmor.jobString>오라산 외골격 갑옷 제작 중.</Make_Apparel_KittyArmor.jobString>
+  <Make_Apparel_LightKittyArmor.label>오라산 경량형 외골격 갑옷 제작</Make_Apparel_LightKittyArmor.label>
+  <Make_Apparel_LightKittyArmor.description>오라산 경량형 외골격 갑옷을 제작합니다.</Make_Apparel_LightKittyArmor.description>
+  <Make_Apparel_LightKittyArmor.jobString>오라산 경량형 외골격 갑옷 제작 중.</Make_Apparel_LightKittyArmor.jobString>
+  <Make_Gun_OrassanRocket.label>오라산 미사일 발사기 제작</Make_Gun_OrassanRocket.label>
+  <Make_Gun_OrassanRocket.description>오라산 미사일 발사기를 제작합니다.</Make_Gun_OrassanRocket.description>
+  <Make_Gun_OrassanRocket.jobString>오라산 미사일 발사기 제작 중.</Make_Gun_OrassanRocket.jobString>
+  <Make_Gun_OrassanShotgun.label>오라산 산탄총 제작</Make_Gun_OrassanShotgun.label>
+  <Make_Gun_OrassanShotgun.description>오라산 산탄총을 제작합니다.</Make_Gun_OrassanShotgun.description>
+  <Make_Gun_OrassanShotgun.jobString>오라산 산탄총 제작 중.</Make_Gun_OrassanShotgun.jobString>
+  <Make_Gun_OrassanRifle.label>오라산 소총 제작</Make_Gun_OrassanRifle.label>
+  <Make_Gun_OrassanRifle.description>오라산 소총을 제작합니다.</Make_Gun_OrassanRifle.description>
+  <Make_Gun_OrassanRifle.jobString>오라산 소총 제작 중.</Make_Gun_OrassanRifle.jobString>
+  <Make_Gun_OrassanSniper.label>오라산 저격총 제작</Make_Gun_OrassanSniper.label>
+  <Make_Gun_OrassanSniper.description>오라산 저격총을 제작합니다.</Make_Gun_OrassanSniper.description>
+  <Make_Gun_OrassanSniper.jobString>오라산 저격총 제작 중.</Make_Gun_OrassanSniper.jobString>
+  <Make_Gun_OrassanPistol.label>오라산 권총 제작</Make_Gun_OrassanPistol.label>
+  <Make_Gun_OrassanPistol.description>오라산 권총을 제작합니다.</Make_Gun_OrassanPistol.description>
+  <Make_Gun_OrassanPistol.jobString>오라산 권총 제작 중.</Make_Gun_OrassanPistol.jobString>
+  <Make_Gun_OrassanAEPistol.label>오라산 툰드라 팔콘 제작</Make_Gun_OrassanAEPistol.label>
+  <Make_Gun_OrassanAEPistol.description>오라산 툰드라 팔콘을 제작합니다.</Make_Gun_OrassanAEPistol.description>
+  <Make_Gun_OrassanAEPistol.jobString>오라산 툰드라 팔콘 제작 중.</Make_Gun_OrassanAEPistol.jobString>
+  <Make_Gun_OrassanSMG.label>오라산 기관단총 제작</Make_Gun_OrassanSMG.label>
+  <Make_Gun_OrassanSMG.description>오라산 기관단총을 제작합니다.</Make_Gun_OrassanSMG.description>
+  <Make_Gun_OrassanSMG.jobString>오라산 기관단총 제작 중.</Make_Gun_OrassanSMG.jobString>
+  <Make_Gun_OrassanLMG.label>오라산 경기관총 제작</Make_Gun_OrassanLMG.label>
+  <Make_Gun_OrassanLMG.description>오라산 경기관총을 제작합니다.</Make_Gun_OrassanLMG.description>
+  <Make_Gun_OrassanLMG.jobString>오라산 경기관총 제작 중.</Make_Gun_OrassanLMG.jobString>
+  <Make_Gun_CryoLauncher.label>극저온 발사기 제작</Make_Gun_CryoLauncher.label>
+  <Make_Gun_CryoLauncher.description>극저온 발사기를 제작합니다.</Make_Gun_CryoLauncher.description>
+  <Make_Gun_CryoLauncher.jobString>극저온 발사기 제작 중.</Make_Gun_CryoLauncher.jobString>
+  <Make_MeleeWeapon_kittyclaws.label>오라산 군도 제작</Make_MeleeWeapon_kittyclaws.label>
+  <Make_MeleeWeapon_kittyclaws.description>오라산 군도를 제작합니다.</Make_MeleeWeapon_kittyclaws.description>
+  <Make_MeleeWeapon_kittyclaws.jobString>오라산 군도 제작 중.</Make_MeleeWeapon_kittyclaws.jobString>
+  <InstallOrassanTail.label>꼬리 이식</InstallOrassanTail.label>
+  <InstallOrassanTail.description>꼬리 이식를 이식합니다.</InstallOrassanTail.description>
+  <InstallOrassanTail.jobString>꼬리 이식 중.</InstallOrassanTail.jobString>
+  <InstallClothTail.label>헝겊 꼬리 이식</InstallClothTail.label>
+  <InstallClothTail.description>헝겊 꼬리를 이식합니다.</InstallClothTail.description>
+  <InstallClothTail.jobString>헝겊 꼬리 이식 중.</InstallClothTail.jobString>
+  <InstallBionicTail.label>생체공학 꼬리 이식</InstallBionicTail.label>
+  <InstallBionicTail.description>생체공학 꼬리를 이식합니다.</InstallBionicTail.description>
+  <InstallBionicTail.jobString>생체공학 꼬리 이식 중.</InstallBionicTail.jobString>
+  <InstallPlasteelClaws.label>플라스틸 발톱 이식</InstallPlasteelClaws.label>
+  <InstallPlasteelClaws.description>플라스틸 발톱을 이식합니다.</InstallPlasteelClaws.description>
+  <InstallPlasteelClaws.jobString>플라스틸 발톱 이식 중.</InstallPlasteelClaws.jobString>
+
+  <!--1468290672_181114_Troll Race-->
+  <Make_PTrollMeleeWeapon_Tree.label>통나무 무기 만들기</Make_PTrollMeleeWeapon_Tree.label>
+  <Make_PTrollMeleeWeapon_Tree.description>통나무 무기를 만듭니다.</Make_PTrollMeleeWeapon_Tree.description>
+  <Make_PTrollMeleeWeapon_Tree.jobString>통나무 무기 만드는 중.</Make_PTrollMeleeWeapon_Tree.jobString>
+  <Make_PTrollMeleeWeapon_Club.label>트롤 곤봉 만들기</Make_PTrollMeleeWeapon_Club.label>
+  <Make_PTrollMeleeWeapon_Club.description>트롤 곤봉을 만듭니다.</Make_PTrollMeleeWeapon_Club.description>
+  <Make_PTrollMeleeWeapon_Club.jobString>트롤 곤봉 만드는 중.</Make_PTrollMeleeWeapon_Club.jobString>
+  <Make_PTrollMeleeWeapon_Maul.label>트롤 모울 만들기</Make_PTrollMeleeWeapon_Maul.label>
+  <Make_PTrollMeleeWeapon_Maul.description>트롤 모울를 만듭니다.</Make_PTrollMeleeWeapon_Maul.description>
+  <Make_PTrollMeleeWeapon_Maul.jobString>트롤 모울 만드는 중.</Make_PTrollMeleeWeapon_Maul.jobString>
+  <Make_PTrollMeleeWeapon_MaulSpiked.label>트롤 가시모울 만들기</Make_PTrollMeleeWeapon_MaulSpiked.label>
+  <Make_PTrollMeleeWeapon_MaulSpiked.description>트롤 가시모울을 만듭니다.</Make_PTrollMeleeWeapon_MaulSpiked.description>
+  <Make_PTrollMeleeWeapon_MaulSpiked.jobString>트롤 가시모울 만드는 중.</Make_PTrollMeleeWeapon_MaulSpiked.jobString>
+  <Make_Rockthrower.label>바위 만들기</Make_Rockthrower.label>
+  <Make_Rockthrower.description>바위를 만듭니다.</Make_Rockthrower.description>
+  <Make_Rockthrower.jobString>바위 만드는 중.</Make_Rockthrower.jobString>
+
+  <!--1514158118_190519_Avian Races-->
+  <Make_BionicBeak.label>생체공학 부리 제작</Make_BionicBeak.label>
+  <Make_BionicBeak.description>생체공학 부리 제작.</Make_BionicBeak.description>
+  <Make_BionicBeak.jobString>생체공학 부리 제작.</Make_BionicBeak.jobString>
+  <InstallWoodenBeak.label>나무 부리 설치</InstallWoodenBeak.label>
+  <InstallWoodenBeak.description>나무 부리 설치.</InstallWoodenBeak.description>
+  <InstallWoodenBeak.jobString>나무 부리 설치.</InstallWoodenBeak.jobString>
+  <InstallBionicBeak.label>생체공학 부리 이식</InstallBionicBeak.label>
+  <InstallBionicBeak.description>생체공학 부리 이식.</InstallBionicBeak.description>
+  <InstallBionicBeak.jobString>생체공학 부리 이식</InstallBionicBeak.jobString>
+
+  <!--1541567184_181112_Ni'Hal-->
+  <Make_Apparel_NihalPowerArmorHelmet.label>니'할 엑소스켈레톤 헬멧 만들기</Make_Apparel_NihalPowerArmorHelmet.label>
+  <Make_Apparel_NihalPowerArmorHelmet.description>니'할 엑소스켈레톤 헬멧을 만듭니다.</Make_Apparel_NihalPowerArmorHelmet.description>
+  <Make_Apparel_NihalPowerArmorHelmet.jobString>니'할 엑소스켈레톤 헬멧 만드는 중.</Make_Apparel_NihalPowerArmorHelmet.jobString>
+  <Make_Apparel_CatfishArmor.label>니'할 엑소스켈레탈 아머 만들기</Make_Apparel_CatfishArmor.label>
+  <Make_Apparel_CatfishArmor.description>니'할 엑소스켈레탈 아머를 만듭니다.</Make_Apparel_CatfishArmor.description>
+  <Make_Apparel_CatfishArmor.jobString>니'할 엑소스켈레탈 아머 만드는 중.</Make_Apparel_CatfishArmor.jobString>
+  <Make_Gun_NihalRocket.label>니'할 미사일 발사기 만들기</Make_Gun_NihalRocket.label>
+  <Make_Gun_NihalRocket.description>니'할 미사일 발사기를 만듭니다.</Make_Gun_NihalRocket.description>
+  <Make_Gun_NihalRocket.jobString>니'할 미사일 발사기 만드는 중.</Make_Gun_NihalRocket.jobString>
+  <Make_Gun_NihalShotgun.label>니'할 산탄총 만들기</Make_Gun_NihalShotgun.label>
+  <Make_Gun_NihalShotgun.description>니'할 산탄총을 만듭니다.</Make_Gun_NihalShotgun.description>
+  <Make_Gun_NihalShotgun.jobString>니'할 산탄총 만드는 중.</Make_Gun_NihalShotgun.jobString>
+  <Make_Gun_NihalRifle.label>니'할 소총 만들기</Make_Gun_NihalRifle.label>
+  <Make_Gun_NihalRifle.description>니'할 소총을 만듭니다.</Make_Gun_NihalRifle.description>
+  <Make_Gun_NihalRifle.jobString>니'할 소총 만드는 중.</Make_Gun_NihalRifle.jobString>
+  <Make_Gun_NihalSniper.label>니'할 저격총 만들기</Make_Gun_NihalSniper.label>
+  <Make_Gun_NihalSniper.description>니'할 저격총을 만듭니다.</Make_Gun_NihalSniper.description>
+  <Make_Gun_NihalSniper.jobString>니'할 저격총 만드는 중.</Make_Gun_NihalSniper.jobString>
+  <Make_Gun_NihalPistol.label>니'할 권총 만들기</Make_Gun_NihalPistol.label>
+  <Make_Gun_NihalPistol.description>니'할 권총을 만듭니다.</Make_Gun_NihalPistol.description>
+  <Make_Gun_NihalPistol.jobString>니'할 권총 만드는 중.</Make_Gun_NihalPistol.jobString>
+  <Make_Gun_NihalLMG.label>니'할 경기관총 만들기</Make_Gun_NihalLMG.label>
+  <Make_Gun_NihalLMG.description>니'할 경기관총을 만듭니다.</Make_Gun_NihalLMG.description>
+  <Make_Gun_NihalLMG.jobString>니'할 경기관총 만드는 중.</Make_Gun_NihalLMG.jobString>
+  <MakeInsectJelly.label>곤충젤리 만들기</MakeInsectJelly.label>
+  <MakeInsectJelly.description>니'할이 복잡한 생물학적 과정을 거쳐 곤충젤리와 비슷한 물질을 만듭니다.</MakeInsectJelly.description>
+  <MakeInsectJelly.jobString>곤충젤리 만드는 중.</MakeInsectJelly.jobString>
+  <InstallPlasteelClaws.label>플라스틸 손톱 이식</InstallPlasteelClaws.label>
+  <InstallPlasteelClaws.description>플라스틸 손톱을 이식합니다.</InstallPlasteelClaws.description>
+  <InstallPlasteelClaws.jobString>플라스틸 손톱 이식 중.</InstallPlasteelClaws.jobString>
+
+  <!--1543164737_190714_Lanius-->
+  <LTF_InstallLaniusLung.label>라니우스 폐 이식</LTF_InstallLaniusLung.label>
+  <LTF_InstallLaniusLung.description>라니우스 폐를 이식합니다.</LTF_InstallLaniusLung.description>
+  <LTF_InstallLaniusLung.jobString>라니우스 폐 이식 중.</LTF_InstallLaniusLung.jobString>
+
+  <!--1543896230_190714_Playable Feral Orkz-->
+  <Make_Apparel_OrkArmour.label>오크 갑옷 제작</Make_Apparel_OrkArmour.label>
+  <Make_Apparel_OrkArmour.description>오크 갑옷을 제작합니다.</Make_Apparel_OrkArmour.description>
+  <Make_Apparel_OrkArmour.jobString>오크 갑옷 만드는 중.</Make_Apparel_OrkArmour.jobString>
+  <Make_Apparel_OrkEavyArmour.label>오크 에비 갑옷 제작</Make_Apparel_OrkEavyArmour.label>
+  <Make_Apparel_OrkEavyArmour.description>오크 에비 갑옷을 제작합니다.</Make_Apparel_OrkEavyArmour.description>
+  <Make_Apparel_OrkEavyArmour.jobString>오크 에비 갑옷 만드는 중.</Make_Apparel_OrkEavyArmour.jobString>
+  <Make_OGO_Apparel_Tribal_Cloak.label>부족 외투 제작</Make_OGO_Apparel_Tribal_Cloak.label>
+  <Make_OGO_Apparel_Tribal_Cloak.description>부족 외투를 제작합니다.</Make_OGO_Apparel_Tribal_Cloak.description>
+  <Make_OGO_Apparel_Tribal_Cloak.jobString>부족 외투 만드는 중.</Make_OGO_Apparel_Tribal_Cloak.jobString>
+  <Make_OGO_Melee_CrudeChoppa.label>오크 조잡한 쵸퍼 제작</Make_OGO_Melee_CrudeChoppa.label>
+  <Make_OGO_Melee_CrudeChoppa.description>오크 조잡한 쵸퍼를 제작합니다.</Make_OGO_Melee_CrudeChoppa.description>
+  <Make_OGO_Melee_CrudeChoppa.jobString>오크 조잡한 쵸퍼 만드는 중.</Make_OGO_Melee_CrudeChoppa.jobString>
+  <Make_OGO_Melee_Choppa.label>오크 쵸퍼 제작</Make_OGO_Melee_Choppa.label>
+  <Make_OGO_Melee_Choppa.description>오크 쵸퍼를 제작합니다.</Make_OGO_Melee_Choppa.description>
+  <Make_OGO_Melee_Choppa.jobString>오크 쵸퍼 만드는 중</Make_OGO_Melee_Choppa.jobString>
+  <Make_OGO_Melee_BigChoppa.label>오크 빅 쵸퍼 제작</Make_OGO_Melee_BigChoppa.label>
+  <Make_OGO_Melee_BigChoppa.description>오크 빅 쵸퍼를 제작합니다.</Make_OGO_Melee_BigChoppa.description>
+  <Make_OGO_Melee_BigChoppa.jobString>오크 빅 쵸퍼 만드는 중.</Make_OGO_Melee_BigChoppa.jobString>
+
+  <!--1545178908_190519_Callistans(1.0)-->
+  <Make_Callistan_Hoodie.label>캘리스탄 후드 만들기</Make_Callistan_Hoodie.label>
+  <Make_Callistan_Hoodie.description>캘리스탄 후드를 만듭니다.</Make_Callistan_Hoodie.description>
+  <Make_Callistan_Hoodie.jobString>캘리스탄 후드 만드는 중.</Make_Callistan_Hoodie.jobString>
+  <Make_Callistan_ArmorHood.label>캘리스탄 강화 후드 만들기</Make_Callistan_ArmorHood.label>
+  <Make_Callistan_ArmorHood.description>캘리스탄 강화 후드를 만듭니다.</Make_Callistan_ArmorHood.description>
+  <Make_Callistan_ArmorHood.jobString>캘리스탄 강화 후드 만드는 중.</Make_Callistan_ArmorHood.jobString>
+  <Make_Callistan_Robe.label>캘리스탄 분해자 로브 만들기</Make_Callistan_Robe.label>
+  <Make_Callistan_Robe.description>캘리스탄 분해자 로브를 만듭니다.</Make_Callistan_Robe.description>
+  <Make_Callistan_Robe.jobString>캘리스탄 분해자 로브를 만드는 중.</Make_Callistan_Robe.jobString>
+  <Make_Callistan_CalGoggles.label>고글 만들기</Make_Callistan_CalGoggles.label>
+  <Make_Callistan_CalGoggles.description>고글을 만듭니다.</Make_Callistan_CalGoggles.description>
+  <Make_Callistan_CalGoggles.jobString>고글을 만드는 중.</Make_Callistan_CalGoggles.jobString>
+  <Make_Callistan_CalGlasses.label>make callistan glasses</Make_Callistan_CalGlasses.label>
+  <Make_Callistan_CalGlasses.description>Make callistan glasses.</Make_Callistan_CalGlasses.description>
+  <Make_Callistan_CalGlasses.jobString>Making callistan glasses.</Make_Callistan_CalGlasses.jobString>
+  <Make_Callistan_CalMuffler.label>머플러 만들기</Make_Callistan_CalMuffler.label>
+  <Make_Callistan_CalMuffler.description>머플러를 만듭니다.</Make_Callistan_CalMuffler.description>
+  <Make_Callistan_CalMuffler.jobString>머플러를 만드는 중.</Make_Callistan_CalMuffler.jobString>
+  <Make_Callistan_CalShirt.label>캘리스탄 점프슈트 만들기</Make_Callistan_CalShirt.label>
+  <Make_Callistan_CalShirt.description>캘리스탄 점프슈트를 만듭니다.</Make_Callistan_CalShirt.description>
+  <Make_Callistan_CalShirt.jobString>캘리스탄 점프슈트 만드는 중.</Make_Callistan_CalShirt.jobString>
+  <Make_Callistan_CalLance.label>분해자 차지 랜스 만들기</Make_Callistan_CalLance.label>
+  <Make_Callistan_CalLance.description>분해자 차지 랜스를 만듭니다.</Make_Callistan_CalLance.description>
+  <Make_Callistan_CalLance.jobString>분해자 차지 랜스 만드는 중.</Make_Callistan_CalLance.jobString>
+  <Make_Callistan_Calferno.label>분해자 화염 기관포 만들기</Make_Callistan_Calferno.label>
+  <Make_Callistan_Calferno.description>분해자 화염 기관포를 만듭니다.</Make_Callistan_Calferno.description>
+  <Make_Callistan_Calferno.jobString>분해자 화염 기관포를 만드는 중.</Make_Callistan_Calferno.jobString>
+  <Make_Callistan_CalBlaster.label>분해자 헤비 블래스터 만들기</Make_Callistan_CalBlaster.label>
+  <Make_Callistan_CalBlaster.description>분해자 헤비 블래스터를 만듭니다.</Make_Callistan_CalBlaster.description>
+  <Make_Callistan_CalBlaster.jobString>분해자 헤비 블래스터 만드는 중.</Make_Callistan_CalBlaster.jobString>
+  <Make_Callistan_CalPistol.label>분해자 에너지 권총 만들기</Make_Callistan_CalPistol.label>
+  <Make_Callistan_CalPistol.description>분해자 에너지 권총을 만듭니다.</Make_Callistan_CalPistol.description>
+  <Make_Callistan_CalPistol.jobString>분해자 에너지 권총 만드는 중.</Make_Callistan_CalPistol.jobString>
+  <Make_Callistan_CalFatBoy.label>캘리스탄 대규모 로켓 발사기 만들기</Make_Callistan_CalFatBoy.label>
+  <Make_Callistan_CalFatBoy.description>캘리스탄 대규모 로켓 발사기를 만듭니다.</Make_Callistan_CalFatBoy.description>
+  <Make_Callistan_CalFatBoy.jobString>캘리슽나 대규모 로켓 발사기 만드는 중.</Make_Callistan_CalFatBoy.jobString>
+  <SalvageCorpseMechanoid.label>메카노이드 분해</SalvageCorpseMechanoid.label>
+  <SalvageCorpseMechanoid.description>메카노이드의 시체를 전문적으로 분해하여 구성 부품 및 특수 부품을 회수합니다.</SalvageCorpseMechanoid.description>
+  <SalvageCorpseMechanoid.jobString>메카노이드 분해 중.</SalvageCorpseMechanoid.jobString>
+  <Make_ClothTail.label>캘리스탄 가죽 꼬리 만들기</Make_ClothTail.label>
+  <Make_ClothTail.description>다양한 종류의 가죽을 이용하여 허술한 꼬리를 만듭니다.</Make_ClothTail.description>
+  <Make_ClothTail.jobString>캘리스탄 가죽 꼬리 만드는 중.</Make_ClothTail.jobString>
+  <Make_BionicCallistanTail.label>생체공학 캘리스탄 꼬리 만들기</Make_BionicCallistanTail.label>
+  <Make_BionicCallistanTail.description>다양한 기술을 사용하여 생체공학 꼬리를 만듭니다.</Make_BionicCallistanTail.description>
+  <Make_BionicCallistanTail.jobString>생체공학 캘리스탄 꼬리 만드는 중.</Make_BionicCallistanTail.jobString>
+  <CookWattz_MeatFlake.label>포장된 생존 식량 만들기</CookWattz_MeatFlake.label>
+  <CookWattz_MeatFlake.description>고기와 플레이크가 포장되어 있는 생존 식량을 만듭니다. 대부분의 재료들이 보존 과정에서 낭비됩니다.</CookWattz_MeatFlake.description>
+  <CookWattz_MeatFlake.jobString>생존 식량 만드는 중.</CookWattz_MeatFlake.jobString>
+  <InstallCallistanTail.label>캘리스탄 꼬리 장착</InstallCallistanTail.label>
+  <InstallCallistanTail.description>잘리거나 손상된 꼬리를 대체합니다.</InstallCallistanTail.description>
+  <InstallCallistanTail.jobString>꼬리 장착 중.</InstallCallistanTail.jobString>
+  <InstallClothTail.label>캘리스탄 가죽 꼬리 장착</InstallClothTail.label>
+  <InstallClothTail.description>캘리스탄 가죽 꼬리를 장착합니다.</InstallClothTail.description>
+  <InstallClothTail.jobString>캘리스탄 가죽 꼬리 장착 중.</InstallClothTail.jobString>
+  <InstallBionicCallistanTail.label>생체공학 캘리스탄 꼬리 장착</InstallBionicCallistanTail.label>
+  <InstallBionicCallistanTail.description>생체공학 캘리스탄 꼬리를 장착합니다.</InstallBionicCallistanTail.description>
+  <InstallBionicCallistanTail.jobString>생체공학 캘리스탄 꼬리 장착 중.</InstallBionicCallistanTail.jobString>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <Make_RRY_ShieldBase.label>방패 제작</Make_RRY_ShieldBase.label>
+  <Make_RRY_ShieldBase.description>방패 제작.</Make_RRY_ShieldBase.description>
+  <Make_RRY_ShieldBase.jobString>방패 제작.</Make_RRY_ShieldBase.jobString>
+  <Make_RRY_Shield_Xenomorph_Drone.label>간단한 제노모프 방패 제작 (드론)</Make_RRY_Shield_Xenomorph_Drone.label>
+  <Make_RRY_Shield_Xenomorph_Drone.description>간단한 제노모프 방패 제작 (드론).</Make_RRY_Shield_Xenomorph_Drone.description>
+  <Make_RRY_Shield_Xenomorph_Drone.jobString>간단한 제노모프 방패 제작 (드론).</Make_RRY_Shield_Xenomorph_Drone.jobString>
+  <Make_RRY_MeleeWeapon_XenoSpear.label>제노모프 꼬리 창 제작</Make_RRY_MeleeWeapon_XenoSpear.label>
+  <Make_RRY_MeleeWeapon_XenoSpear.description>제노모프 꼬리 창 제작.</Make_RRY_MeleeWeapon_XenoSpear.description>
+  <Make_RRY_MeleeWeapon_XenoSpear.jobString>제노모프 꼬리 창 제작.</Make_RRY_MeleeWeapon_XenoSpear.jobString>
+  <Make_RRY_Apparel_HunterLightArmourChestplate.label>야우차 경량 흉갑 제작</Make_RRY_Apparel_HunterLightArmourChestplate.label>
+  <Make_RRY_Apparel_HunterLightArmourChestplate.description>야우차 경량 흉갑 제작.</Make_RRY_Apparel_HunterLightArmourChestplate.description>
+  <Make_RRY_Apparel_HunterLightArmourChestplate.jobString>야우차 경량 흉갑 제작.</Make_RRY_Apparel_HunterLightArmourChestplate.jobString>
+  <Make_RRY_Apparel_HunterArmourChestplate.label>야우차 사냥꾼 흉갑 제작</Make_RRY_Apparel_HunterArmourChestplate.label>
+  <Make_RRY_Apparel_HunterArmourChestplate.description>야우차 사냥꾼 흉갑 제작.</Make_RRY_Apparel_HunterArmourChestplate.description>
+  <Make_RRY_Apparel_HunterArmourChestplate.jobString>야우차 사냥꾼 흉갑 제작.</Make_RRY_Apparel_HunterArmourChestplate.jobString>
+  <Make_RRY_Apparel_HunterHeavyArmourChestplate.label>야우차 중형 흉갑 제작</Make_RRY_Apparel_HunterHeavyArmourChestplate.label>
+  <Make_RRY_Apparel_HunterHeavyArmourChestplate.description>야우차 중형 흉갑 제작.</Make_RRY_Apparel_HunterHeavyArmourChestplate.description>
+  <Make_RRY_Apparel_HunterHeavyArmourChestplate.jobString>야우차 중형 흉갑 제작.</Make_RRY_Apparel_HunterHeavyArmourChestplate.jobString>
+  <Make_RRY_Apparel_HunterArmourGreaves.label>야우차 사냥꾼 그리브 제작</Make_RRY_Apparel_HunterArmourGreaves.label>
+  <Make_RRY_Apparel_HunterArmourGreaves.description>야우차 사냥꾼 그리브 제작.</Make_RRY_Apparel_HunterArmourGreaves.description>
+  <Make_RRY_Apparel_HunterArmourGreaves.jobString>야우차 사냥꾼 그리브 제작.</Make_RRY_Apparel_HunterArmourGreaves.jobString>
+  <Make_RRY_Apparel_HunterBioMask.label>야우차 바이오 마스크 제작</Make_RRY_Apparel_HunterBioMask.label>
+  <Make_RRY_Apparel_HunterBioMask.description>야우차 바이오 마스크 제작.</Make_RRY_Apparel_HunterBioMask.description>
+  <Make_RRY_Apparel_HunterBioMask.jobString>야우차 바이오 마스크 제작.</Make_RRY_Apparel_HunterBioMask.jobString>
+  <Make_RRY_Apparel_HunterEliteArmourChestplate.label>야우차 엘리트 사냥꾼 흉갑 제작</Make_RRY_Apparel_HunterEliteArmourChestplate.label>
+  <Make_RRY_Apparel_HunterEliteArmourChestplate.description>야우차 엘리트 사냥꾼 흉갑 제작.</Make_RRY_Apparel_HunterEliteArmourChestplate.description>
+  <Make_RRY_Apparel_HunterEliteArmourChestplate.jobString>야우차 엘리트 사냥꾼 흉갑 제작.</Make_RRY_Apparel_HunterEliteArmourChestplate.jobString>
+  <Make_RRY_Apparel_HunterEliteBioMask.label>야우차 엘리트 바이오 마스크 제작</Make_RRY_Apparel_HunterEliteBioMask.label>
+  <Make_RRY_Apparel_HunterEliteBioMask.description>야우차 엘리트 바이오 마스크 제작.</Make_RRY_Apparel_HunterEliteBioMask.description>
+  <Make_RRY_Apparel_HunterEliteBioMask.jobString>야우차 엘리트 바이오 마스크 제작.</Make_RRY_Apparel_HunterEliteBioMask.jobString>
+  <Make_RRY_Apparel_HunterLeaderArmourChestplate.label>야우차 사냥꾼 화려한 흉갑 제작</Make_RRY_Apparel_HunterLeaderArmourChestplate.label>
+  <Make_RRY_Apparel_HunterLeaderArmourChestplate.description>야우차 사냥꾼 화려한 흉갑 제작.</Make_RRY_Apparel_HunterLeaderArmourChestplate.description>
+  <Make_RRY_Apparel_HunterLeaderArmourChestplate.jobString>야우차 사냥꾼 화려한 흉갑 제작.</Make_RRY_Apparel_HunterLeaderArmourChestplate.jobString>
+  <Make_RRY_Apparel_HunterLeaderBioMask.label>야우차 화려한 바이오 마스크 제작</Make_RRY_Apparel_HunterLeaderBioMask.label>
+  <Make_RRY_Apparel_HunterLeaderBioMask.description>야우차 화려한 바이오 마스크 제작.</Make_RRY_Apparel_HunterLeaderBioMask.description>
+  <Make_RRY_Apparel_HunterLeaderBioMask.jobString>야우차 화려한 바이오 마스크 제작.</Make_RRY_Apparel_HunterLeaderBioMask.jobString>
+  <Make_RRY_Apparel_HunterVest.label>야우차 조끼 제작</Make_RRY_Apparel_HunterVest.label>
+  <Make_RRY_Apparel_HunterVest.description>야우차 조끼 제작.</Make_RRY_Apparel_HunterVest.description>
+  <Make_RRY_Apparel_HunterVest.jobString>야우차 조끼 제작.</Make_RRY_Apparel_HunterVest.jobString>
+  <Make_RRY_Apparel_Mesh.label>야우차 생존형 망사 의복 제작</Make_RRY_Apparel_Mesh.label>
+  <Make_RRY_Apparel_Mesh.description>야우차 생존형 망사 의복 제작.</Make_RRY_Apparel_Mesh.description>
+  <Make_RRY_Apparel_Mesh.jobString>야우차 생존형 망사 의복 제작.</Make_RRY_Apparel_Mesh.jobString>
+  <Make_RRY_Equipment_HunterGauntlet.label>야우차 사냥꾼 건틀렛 제작</Make_RRY_Equipment_HunterGauntlet.label>
+  <Make_RRY_Equipment_HunterGauntlet.description>야우차 사냥꾼 건틀렛 제작.</Make_RRY_Equipment_HunterGauntlet.description>
+  <Make_RRY_Equipment_HunterGauntlet.jobString>야우차 사냥꾼 건틀렛 제작.</Make_RRY_Equipment_HunterGauntlet.jobString>
+  <Make_RRY_Equipment_HunterShoulderCannon.label>야우차 어깨 플라즈마캐스터 제작</Make_RRY_Equipment_HunterShoulderCannon.label>
+  <Make_RRY_Equipment_HunterShoulderCannon.description>야우차 어깨 플라즈마캐스터 제작.</Make_RRY_Equipment_HunterShoulderCannon.description>
+  <Make_RRY_Equipment_HunterShoulderCannon.jobString>야우차 어깨 플라즈마캐스터 제작.</Make_RRY_Equipment_HunterShoulderCannon.jobString>
+  <Make_RRY_HealthShard.label>체력 재생기 제작</Make_RRY_HealthShard.label>
+  <Make_RRY_HealthShard.description>체력 재생기 제작.</Make_RRY_HealthShard.description>
+  <Make_RRY_HealthShard.jobString>체력 재생기 제작.</Make_RRY_HealthShard.jobString>
+  <Make_RRY_Melee_BladedMaul.label>야우차 칼날 톤파 제작</Make_RRY_Melee_BladedMaul.label>
+  <Make_RRY_Melee_BladedMaul.description>야우차 칼날 톤파 제작.</Make_RRY_Melee_BladedMaul.description>
+  <Make_RRY_Melee_BladedMaul.jobString>야우차 칼날 톤파 제작.</Make_RRY_Melee_BladedMaul.jobString>
+  <Make_RRY_Melee_Combistaff.label>콤비 스테프 제작</Make_RRY_Melee_Combistaff.label>
+  <Make_RRY_Melee_Combistaff.description>콤비 스테프 제작.</Make_RRY_Melee_Combistaff.description>
+  <Make_RRY_Melee_Combistaff.jobString>콤비 스테프 제작.</Make_RRY_Melee_Combistaff.jobString>
+  <Make_RRY_Gun_Hunting_Bow.label>야우차 사냥용 활 제작</Make_RRY_Gun_Hunting_Bow.label>
+  <Make_RRY_Gun_Hunting_Bow.description>야우차 사냥용 활 제작.</Make_RRY_Gun_Hunting_Bow.description>
+  <Make_RRY_Gun_Hunting_Bow.jobString>야우차 사냥용 활 제작.</Make_RRY_Gun_Hunting_Bow.jobString>
+  <Make_RRY_Gun_Compound_Bow.label>야우차 컴파운드 활 제작</Make_RRY_Gun_Compound_Bow.label>
+  <Make_RRY_Gun_Compound_Bow.description>야우차 컴파운드 활 제작.</Make_RRY_Gun_Compound_Bow.description>
+  <Make_RRY_Gun_Compound_Bow.jobString>야우차 컴파운드 활 제작.</Make_RRY_Gun_Compound_Bow.jobString>
+  <Make_RRY_Gun_YautjaBlaster.label>플라즈마 권총 제작</Make_RRY_Gun_YautjaBlaster.label>
+  <Make_RRY_Gun_YautjaBlaster.description>플라즈마 권총 제작.</Make_RRY_Gun_YautjaBlaster.description>
+  <Make_RRY_Gun_YautjaBlaster.jobString>플라즈마 권총 제작.</Make_RRY_Gun_YautjaBlaster.jobString>
+  <Make_RRY_Gun_NeedlerRifle.label>가시창 발사기 제작</Make_RRY_Gun_NeedlerRifle.label>
+  <Make_RRY_Gun_NeedlerRifle.description>가시창 발사기 제작.</Make_RRY_Gun_NeedlerRifle.description>
+  <Make_RRY_Gun_NeedlerRifle.jobString>가시창 발사기 제작.</Make_RRY_Gun_NeedlerRifle.jobString>
+  <Make_RRY_Gun_SpearRifle.label>작살 소총 제작</Make_RRY_Gun_SpearRifle.label>
+  <Make_RRY_Gun_SpearRifle.description>작살 소총 제작.</Make_RRY_Gun_SpearRifle.description>
+  <Make_RRY_Gun_SpearRifle.jobString>작살 소총 제작.</Make_RRY_Gun_SpearRifle.jobString>
+  <Make_RRY_Gun_SmartDisk.label>야우차 스마트 디스크 제작</Make_RRY_Gun_SmartDisk.label>
+  <Make_RRY_Gun_SmartDisk.description>야우차 스마트 디스크 제작.</Make_RRY_Gun_SmartDisk.description>
+  <Make_RRY_Gun_SmartDisk.jobString>야우차 스마트 디스크 제작.</Make_RRY_Gun_SmartDisk.jobString>
+  <RRY_GauntletRemoval.label>건틀렛 제거 시도</RRY_GauntletRemoval.label>
+  <RRY_GauntletRemoval.description>건틀렛 제거</RRY_GauntletRemoval.description>
+  <RRY_GauntletRemoval.jobString>야우차 건틀렛 제거 시도 중</RRY_GauntletRemoval.jobString>
+  <RRY_GauntletRemoval.successfullyRemovedHediffMessage>{0}(이)가 {1}의 팔에서 게틀릿을 성공적으로 제거하였습니다.</RRY_GauntletRemoval.successfullyRemovedHediffMessage>
+  <RRY_FaceHuggerRemoval.label>페이스허거 제거 시도</RRY_FaceHuggerRemoval.label>
+  <RRY_FaceHuggerRemoval.description>페이스허거 제거</RRY_FaceHuggerRemoval.description>
+  <RRY_FaceHuggerRemoval.jobString>제노모프 기생충 시도 중</RRY_FaceHuggerRemoval.jobString>
+  <RRY_FaceHuggerRemoval.successfullyRemovedHediffMessage>{0}(이)가 {1}의 머리에서 기생충을 성공적으로 제거하였습니다.</RRY_FaceHuggerRemoval.successfullyRemovedHediffMessage>
+  <RRY_XenomorphImpregnationRemoval.label>배아 제거 시도</RRY_XenomorphImpregnationRemoval.label>
+  <RRY_XenomorphImpregnationRemoval.description>배아 제거</RRY_XenomorphImpregnationRemoval.description>
+  <RRY_XenomorphImpregnationRemoval.jobString>제노모프 기생충 시도 중</RRY_XenomorphImpregnationRemoval.jobString>
+  <RRY_XenomorphImpregnationRemoval.successfullyRemovedHediffMessage>{0}(이)가 {1}에게서 기생충을 성공적으로 제거하였습니다.</RRY_XenomorphImpregnationRemoval.successfullyRemovedHediffMessage>
+
+  <!--1571323744_190714_Crystalloid (Rewrite)-->
+  <Administer_Psimutare.label>사이뮤테르 관리</Administer_Psimutare.label>
+  <Administer_Psimutare.jobString>사이뮤테르 관리.</Administer_Psimutare.jobString>
+  <Make_Apparel_CrystalloidJumpsuit.label>크리스탈로이드 점프수트 제작</Make_Apparel_CrystalloidJumpsuit.label>
+  <Make_Apparel_CrystalloidJumpsuit.description>크리스탈로이드 점프수트를 제작합니다.</Make_Apparel_CrystalloidJumpsuit.description>
+  <Make_Apparel_CrystalloidJumpsuit.jobString>크리스탈로이드 점프수트 만드는 중.</Make_Apparel_CrystalloidJumpsuit.jobString>
+  <Make_Apparel_ArmorMantle.label>판금 망토 제작</Make_Apparel_ArmorMantle.label>
+  <Make_Apparel_ArmorMantle.description>판금 망토를 제작합니다.</Make_Apparel_ArmorMantle.description>
+  <Make_Apparel_ArmorMantle.jobString>판금 망토 만드는 중.</Make_Apparel_ArmorMantle.jobString>
+  <Make_Gun_ShardPistol.label>파편 권총 제작</Make_Gun_ShardPistol.label>
+  <Make_Gun_ShardPistol.description>파편 권총을 제작합니다.</Make_Gun_ShardPistol.description>
+  <Make_Gun_ShardPistol.jobString>파편 권총 만드는 중.</Make_Gun_ShardPistol.jobString>
+  <Make_Gun_CrystalCraftedPsionicRifle.label>사이오닉 크리스탈 소총 제작</Make_Gun_CrystalCraftedPsionicRifle.label>
+  <Make_Gun_CrystalCraftedPsionicRifle.description>사이오닉 크리스탈 소총을 제작합니다.</Make_Gun_CrystalCraftedPsionicRifle.description>
+  <Make_Gun_CrystalCraftedPsionicRifle.jobString>사이오닉 크리스탈 소총 만드는 중.</Make_Gun_CrystalCraftedPsionicRifle.jobString>
+  <Make_Gun_CrystalCycleCannon.label>사이클 캐논 제작</Make_Gun_CrystalCycleCannon.label>
+  <Make_Gun_CrystalCycleCannon.description>사이클 캐논을 제작합니다.</Make_Gun_CrystalCycleCannon.description>
+  <Make_Gun_CrystalCycleCannon.jobString>사이클 캐논 만드는 중.</Make_Gun_CrystalCycleCannon.jobString>
+  <Make_Gun_CrystalCraftedPsionicLightLancer.label>크리스탈 라이트 랜서 제작</Make_Gun_CrystalCraftedPsionicLightLancer.label>
+  <Make_Gun_CrystalCraftedPsionicLightLancer.description>크리스탈 라이트 랜서를 제작합니다.</Make_Gun_CrystalCraftedPsionicLightLancer.description>
+  <Make_Gun_CrystalCraftedPsionicLightLancer.jobString>크리스탈 라이트 랜서 만드는 중.</Make_Gun_CrystalCraftedPsionicLightLancer.jobString>
+  <Make_Gun_ShardRifle.label>파편 소총 제작</Make_Gun_ShardRifle.label>
+  <Make_Gun_ShardRifle.description>파편 소총을 제작합니다.</Make_Gun_ShardRifle.description>
+  <Make_Gun_ShardRifle.jobString>파편 소총 만드는 중.</Make_Gun_ShardRifle.jobString>
+  <Make_Gun_ShardScatterer.label>파편 산란기 제작</Make_Gun_ShardScatterer.label>
+  <Make_Gun_ShardScatterer.description>파편 산란기를 제작합니다.</Make_Gun_ShardScatterer.description>
+  <Make_Gun_ShardScatterer.jobString>파편 산란기 만드는 중.</Make_Gun_ShardScatterer.jobString>
+  <RemoveCrystalBodyPart.label>부위 제거</RemoveCrystalBodyPart.label>
+  <RemoveCrystalBodyPart.description>몸의 부위를 제거합니다</RemoveCrystalBodyPart.description>
+  <RemoveCrystalBodyPart.jobString>몸의 부위를 제거합니다</RemoveCrystalBodyPart.jobString>
+  <InstallPegLeg_Crystalloid.label>의족 설치</InstallPegLeg_Crystalloid.label>
+  <InstallPegLeg_Crystalloid.description>의족을 설치합니다.</InstallPegLeg_Crystalloid.description>
+  <InstallPegLeg_Crystalloid.jobString>의족 설치 중.</InstallPegLeg_Crystalloid.jobString>
+  <InstallWoodenFoot_Crystalloid.label>나무 발 설치</InstallWoodenFoot_Crystalloid.label>
+  <InstallWoodenFoot_Crystalloid.description>나무 발을 설치합니다.</InstallWoodenFoot_Crystalloid.description>
+  <InstallWoodenFoot_Crystalloid.jobString>나무 발 설치 중.</InstallWoodenFoot_Crystalloid.jobString>
+  <InstallSimpleProstheticLeg_Crystalloid.label>보철물 다리 설치</InstallSimpleProstheticLeg_Crystalloid.label>
+  <InstallSimpleProstheticLeg_Crystalloid.description>보철물 다리를 설치합니다.</InstallSimpleProstheticLeg_Crystalloid.description>
+  <InstallSimpleProstheticLeg_Crystalloid.jobString>보철물 다리 설치 중.</InstallSimpleProstheticLeg_Crystalloid.jobString>
+  <InstallSimpleProstheticArm_Crystalloid.label>인공 팔 설치</InstallSimpleProstheticArm_Crystalloid.label>
+  <InstallSimpleProstheticArm_Crystalloid.description>인공 팔을 설치합니다.</InstallSimpleProstheticArm_Crystalloid.description>
+  <InstallSimpleProstheticArm_Crystalloid.jobString>인공 팔 설치 중.</InstallSimpleProstheticArm_Crystalloid.jobString>
+  <InstallBionicArm_Crystalloid.label>생체공학 팔 설치</InstallBionicArm_Crystalloid.label>
+  <InstallBionicArm_Crystalloid.description>생체공학 팔을 설치합니다.</InstallBionicArm_Crystalloid.description>
+  <InstallBionicArm_Crystalloid.jobString>생체공학 팔 설치 중.</InstallBionicArm_Crystalloid.jobString>
+  <InstallBionicLeg_Crystalloid.label>생체공학 다리 설치</InstallBionicLeg_Crystalloid.label>
+  <InstallBionicLeg_Crystalloid.description>생체공학 다리를 설치합니다.</InstallBionicLeg_Crystalloid.description>
+  <InstallBionicLeg_Crystalloid.jobString>생체공학 다리 설치 중.</InstallBionicLeg_Crystalloid.jobString>
+  <InstallSimpleProstheticHeart_Crystalloid.label>인공 심장 설치</InstallSimpleProstheticHeart_Crystalloid.label>
+  <InstallSimpleProstheticHeart_Crystalloid.description>인공 심장을 설치합니다.</InstallSimpleProstheticHeart_Crystalloid.description>
+  <InstallSimpleProstheticHeart_Crystalloid.jobString>인공 심장 설치 중.</InstallSimpleProstheticHeart_Crystalloid.jobString>
+  <InstallBionicHeart_Crystalloid.label>생체공학 심장 설치</InstallBionicHeart_Crystalloid.label>
+  <InstallBionicHeart_Crystalloid.description>생체공학 심장을 설치합니다.</InstallBionicHeart_Crystalloid.description>
+  <InstallBionicHeart_Crystalloid.jobString>생체공학 심장 설치 중.</InstallBionicHeart_Crystalloid.jobString>
+  <InstallArchotechArm_Crystalloid.label>초월공학 팔 설치</InstallArchotechArm_Crystalloid.label>
+  <InstallArchotechArm_Crystalloid.description>초월공학 팔을 설치합니다.</InstallArchotechArm_Crystalloid.description>
+  <InstallArchotechArm_Crystalloid.jobString>초월공학 팔 설치 중.</InstallArchotechArm_Crystalloid.jobString>
+  <InstallArchotechLeg_Crystalloid.label>초월공학 다리 설치</InstallArchotechLeg_Crystalloid.label>
+  <InstallArchotechLeg_Crystalloid.description>초월공학 다리를 설치합니다.</InstallArchotechLeg_Crystalloid.description>
+  <InstallArchotechLeg_Crystalloid.jobString>초월공학 다리 설치 중.</InstallArchotechLeg_Crystalloid.jobString>
+  <InstallPowerClaw_Crystalloid.label>파워 클로 설치</InstallPowerClaw_Crystalloid.label>
+  <InstallPowerClaw_Crystalloid.description>파워 클로를 설치합니다.</InstallPowerClaw_Crystalloid.description>
+  <InstallPowerClaw_Crystalloid.jobString>파워클로 설치 중.</InstallPowerClaw_Crystalloid.jobString>
+  <Make_Crysteel.label>크리스틸 제작</Make_Crysteel.label>
+  <Make_Crysteel.description>원시 결정에서 크리스틸을 합성합니다.</Make_Crysteel.description>
+  <Make_Crysteel.jobString>크리스틸 합성 중.</Make_Crysteel.jobString>
+  <Make_Crystalsilk.label>크리스탈 실크 제작</Make_Crystalsilk.label>
+  <Make_Crystalsilk.description>원시 결정에서 크리스탈 실크를 뽑아냅니다.</Make_Crystalsilk.description>
+  <Make_Crystalsilk.jobString>크리스틸 합성 중.</Make_Crystalsilk.jobString>
+
+  <!--1573177939_181125_Ratkin Backup-->
+  <Make_RGK_clothone.label>랫킨 흰색 옷 만들기</Make_RGK_clothone.label>
+  <Make_RGK_clothone.description>랫킨 흰색 옷을 만들어요.</Make_RGK_clothone.description>
+  <Make_RGK_clothone.jobString>랫킨 흰색 옷 만드는 중.</Make_RGK_clothone.jobString>
+  <Make_RGK_clothtwo.label>랫킨 붉은 옷 만들기</Make_RGK_clothtwo.label>
+  <Make_RGK_clothtwo.description>랫킨 붉은 옷을 만듭니다.</Make_RGK_clothtwo.description>
+  <Make_RGK_clothtwo.jobString>랫킨 붉은 옷 만드는 중.</Make_RGK_clothtwo.jobString>
+  <Make_RGK_cloththree.label>랫킨 흰색 드레스 만들기</Make_RGK_cloththree.label>
+  <Make_RGK_cloththree.description>랫킨 흰색 드레스를 만들어요.</Make_RGK_cloththree.description>
+  <Make_RGK_cloththree.jobString>랫킨 흰색 드레스를 만드는 중.</Make_RGK_cloththree.jobString>
+  <Make_RGK_clothfive.label>랫킨 흰 가운 만들기</Make_RGK_clothfive.label>
+  <Make_RGK_clothfive.description>랫킨 흰 가운을 만들어요.</Make_RGK_clothfive.description>
+  <Make_RGK_clothfive.jobString>랫킨 흰 가운 만드는 중.</Make_RGK_clothfive.jobString>
+  <Make_RGK_Backpack.label>랫킨 가방 만들기</Make_RGK_Backpack.label>
+  <Make_RGK_Backpack.description>랫킨 가방을 만들어요.</Make_RGK_Backpack.description>
+  <Make_RGK_Backpack.jobString>랫킨 가방 만드는 중.</Make_RGK_Backpack.jobString>
+  <Make_RGK_MBackpack.label>랫킨 군용 배낭 만들기</Make_RGK_MBackpack.label>
+  <Make_RGK_MBackpack.description>랫킨 군용 배낭을 만들어요.</Make_RGK_MBackpack.description>
+  <Make_RGK_MBackpack.jobString>랫킨 군용 배낭 만드는 중.</Make_RGK_MBackpack.jobString>
+  <Make_RGK_Glasses.label>랫킨 안경 만들기</Make_RGK_Glasses.label>
+  <Make_RGK_Glasses.description>랫킨 안경을 만들어요.</Make_RGK_Glasses.description>
+  <Make_RGK_Glasses.jobString>랫킨 안경 만드는 중.</Make_RGK_Glasses.jobString>
+  <Make_RGK_Uniform.label>랫킨 전투복 만들기</Make_RGK_Uniform.label>
+  <Make_RGK_Uniform.description>랫킨 전투복을 만들어요.</Make_RGK_Uniform.description>
+  <Make_RGK_Uniform.jobString>랫킨 전투복 만드는 중.</Make_RGK_Uniform.jobString>
+  <Make_RGK_Combat_Uniform.label>랫킨 전투아머 만들기</Make_RGK_Combat_Uniform.label>
+  <Make_RGK_Combat_Uniform.description>랫킨 전투아머를 만들어요.</Make_RGK_Combat_Uniform.description>
+  <Make_RGK_Combat_Uniform.jobString>랫킨 전투아머 만드는 중.</Make_RGK_Combat_Uniform.jobString>
+  <Make_RGK_muffler.label>랫킨 머플러 만들기</Make_RGK_muffler.label>
+  <Make_RGK_muffler.description>랫킨 머플러를 만들어요.</Make_RGK_muffler.description>
+  <Make_RGK_muffler.jobString>랫킨 머플러 만드는 중.</Make_RGK_muffler.jobString>
+  <Make_RGK_woolenhat.label>랫킨 털실모자 만들기</Make_RGK_woolenhat.label>
+  <Make_RGK_woolenhat.description>랫킨 털실모자를 만들어요.</Make_RGK_woolenhat.description>
+  <Make_RGK_woolenhat.jobString>랫킨 털실모자 만드는 중.</Make_RGK_woolenhat.jobString>
+  <Make_RGK_MHat.label>랫킨 군용 모자 만들기</Make_RGK_MHat.label>
+  <Make_RGK_MHat.description>랫킨 군용 모자를 만들어요.</Make_RGK_MHat.description>
+  <Make_RGK_MHat.jobString>랫킨 군용 모자 만드는 중.</Make_RGK_MHat.jobString>
+  <Make_RGK_MHatTwo.label>랫킨 전투 헬멧 만들기</Make_RGK_MHatTwo.label>
+  <Make_RGK_MHatTwo.description>랫킨 전투 헬멧을 만들어요.</Make_RGK_MHatTwo.description>
+  <Make_RGK_MHatTwo.jobString>랫킨 전투 헬멧 만드는 중.</Make_RGK_MHatTwo.jobString>
+  <Make_RGK_Coif.label>랫킨 두건 만들기</Make_RGK_Coif.label>
+  <Make_RGK_Coif.description>랫킨 두건을 만들어요.</Make_RGK_Coif.description>
+  <Make_RGK_Coif.jobString>랫킨 두건 만드는 중.</Make_RGK_Coif.jobString>
+  <Make_RGK_RUG.label>랫킨 RUG 소총 만들기</Make_RGK_RUG.label>
+  <Make_RGK_RUG.description>랫킨 RUG 소총을 만들어요.</Make_RGK_RUG.description>
+  <Make_RGK_RUG.jobString>랫킨 RUG 소총 만드는 중.</Make_RGK_RUG.jobString>
+  <Make_RGK_Rifle.label>랫킨 소총 제작</Make_RGK_Rifle.label>
+  <Make_RGK_Rifle.description>랫킨 소총을 제작해요.</Make_RGK_Rifle.description>
+  <Make_RGK_Rifle.jobString>랫킨 소총 제작 중.</Make_RGK_Rifle.jobString>
+  <Make_RGK_Shotgun.label>석궁 제작</Make_RGK_Shotgun.label>
+  <Make_RGK_Shotgun.description>석궁을 제작해요.</Make_RGK_Shotgun.description>
+  <Make_RGK_Shotgun.jobString>석궁 제작 중.</Make_RGK_Shotgun.jobString>
+  <Make_RGK_FORK.label>랫킨 쇠스랑 제작</Make_RGK_FORK.label>
+  <Make_RGK_FORK.description>랫킨 쇠스랑을 제작해요.</Make_RGK_FORK.description>
+  <Make_RGK_FORK.jobString>랫킨 쇠스랑 제작 중.</Make_RGK_FORK.jobString>
+  <Make_RGK_HOE.label>랫킨 괭이 제작</Make_RGK_HOE.label>
+  <Make_RGK_HOE.description>랫킨 괭이 제작해요.</Make_RGK_HOE.description>
+  <Make_RGK_HOE.jobString>랫킨 괭이 제작 중.</Make_RGK_HOE.jobString>
+
+  <!--1632244750_190708_Oni of the Rim-->
+  <CookOniStew.label>오니 간단한 스튜 2개 조리</CookOniStew.label>
+  <CookOniStew.description>약간의 야채와 고기, 악마의 숨결 열매를 조합해 간단한 식사를 만듭니다. 오직 오니만이 악마의 숨결 열매 요리를 견딜 수 있습니다.\n\n참고:4가지의 재료가 아닌, 4가지 악마의 숨결을 사용합니다.</CookOniStew.description>
+  <CookOniStew.jobString>오니 간단한 음식 조리.</CookOniStew.jobString>
+  <CookOniDelicacy.label>오니 진미 2개 조리</CookOniDelicacy.label>
+  <CookOniDelicacy.description>곤충고기, 요카이 고추, 악마의 숨결 열매로 만든 오니 진미 요리를 만듭니다. 오직 오니만이 이것을 조리하고 먹을 수 있습니다.</CookOniDelicacy.description>
+  <CookOniDelicacy.jobString>오니 진미 조리</CookOniDelicacy.jobString>
+  <Craft_OniBrokenHorn.label>오니 뿔 부수기</Craft_OniBrokenHorn.label>
+  <Craft_OniBrokenHorn.description>추가적인 처리를 위해, 오리의 다 자란 뿔을 조심스럽게 잘라내어 일정한 크기의 조각으로 부숩니다.</Craft_OniBrokenHorn.description>
+  <Craft_OniBrokenHorn.jobString>오니 뿔 갈아내는 중</Craft_OniBrokenHorn.jobString>
+  <Craft_Oniamine.label>오니아민 (오니 뿔) 제작</Craft_Oniamine.label>
+  <Craft_Oniamine.description>오니 뿔 조각으로 오니아민을 만듭니다.</Craft_Oniamine.description>
+  <Craft_Oniamine.jobString>오니아민 만드는 중</Craft_Oniamine.jobString>
+  <Craft_Oniamine_F.label>오니아민 (오니 깃털) 제작</Craft_Oniamine_F.label>
+  <Craft_Oniamine_F.description>오니 깃털로 오니아민을 만듭니다.</Craft_Oniamine_F.description>
+  <Craft_Oniamine_F.jobString>오니아민 만드는 중</Craft_Oniamine_F.jobString>
+  <Craft_Oniamine_P.label>오니아민 (오니 가죽) 제작</Craft_Oniamine_P.label>
+  <Craft_Oniamine_P.description>오니 가죽으로 오니아민을 만듭니다.</Craft_Oniamine_P.description>
+  <Craft_Oniamine_P.jobString>오니아민 만드는 중</Craft_Oniamine_P.jobString>
+  <Craft_Oniamine_M.label>오니아민 (오니 고기) 제작</Craft_Oniamine_M.label>
+  <Craft_Oniamine_M.description>오니 고기로 오니아민을 만듭니다.</Craft_Oniamine_M.description>
+  <Craft_Oniamine_M.jobString>오니아민 만드는 중</Craft_Oniamine_M.jobString>
+  <Craft_OniDust.label>오니 더스트 제작</Craft_OniDust.label>
+  <Craft_OniDust.description>오니아민 으로부터 오니 더스트를 제작합니다.</Craft_OniDust.description>
+  <Craft_OniDust.jobString>오니 더스트 제작하는 중</Craft_OniDust.jobString>
+  <Craft_OniPillBlackTalon.label>검은 소마 제작</Craft_OniPillBlackTalon.label>
+  <Craft_OniPillBlackTalon.description>오니아민과 불안정한 오니 더스트를 베이스로 검은 소마를 제작합니다. 이 과정은 오직 오니의 손에 의해서만 이루어질 수 있습니다.</Craft_OniPillBlackTalon.description>
+  <Craft_OniPillBlackTalon.jobString>오니 검은 발톱 약 제작하는 중</Craft_OniPillBlackTalon.jobString>
+  <Craft_OniPillBody.label>몸의 붉은 소마 제작</Craft_OniPillBody.label>
+  <Craft_OniPillBody.description>오니아민과 요카이 고추로 몸의 붉은 소마를 제작합니다.</Craft_OniPillBody.description>
+  <Craft_OniPillBody.jobString>오니 검은 발톱 약 제작하는 중</Craft_OniPillBody.jobString>
+  <Craft_OniPillHealth.label>건강의 녹색 소마 제작</Craft_OniPillHealth.label>
+  <Craft_OniPillHealth.description>오니아민과 악마의 숨결 열매로 건강의 녹색 소마를 제작합니다.</Craft_OniPillHealth.description>
+  <Craft_OniPillHealth.jobString>오니 건강 약 제작하는 중</Craft_OniPillHealth.jobString>
+  <Craft_OniPillMind.label>정신의 푸른 소마 제작</Craft_OniPillMind.label>
+  <Craft_OniPillMind.description>오니아민과 깃털잎으로 정신의 푸른 소마를 제작합니다.</Craft_OniPillMind.description>
+  <Craft_OniPillMind.jobString>오니 정신 강화 약 제작하는 중</Craft_OniPillMind.jobString>
+  <Administer_FeatherleafJoint.label>깃털잎 마약 투여</Administer_FeatherleafJoint.label>
+  <Administer_FeatherleafJoint.jobString>깃털잎 마약을 투여합니다.</Administer_FeatherleafJoint.jobString>
+  <Administer_Oni_Dust.label>오니 더스트 투여</Administer_Oni_Dust.label>
+  <Administer_Oni_Dust.jobString>오니 더스트를 투여합니다.</Administer_Oni_Dust.jobString>
+  <Administer_OniPillBlackTalon.label>검은 소마 투여</Administer_OniPillBlackTalon.label>
+  <Administer_OniPillBlackTalon.jobString>검은 소마를 투여합니다.</Administer_OniPillBlackTalon.jobString>
+  <Administer_OniPillBody.label>몸의 붉은 소마 투여</Administer_OniPillBody.label>
+  <Administer_OniPillBody.jobString>몸의 붉은 소마를 투여합니다.</Administer_OniPillBody.jobString>
+  <Administer_OniPillHealth.label>건강의 녹색 소마 투여</Administer_OniPillHealth.label>
+  <Administer_OniPillHealth.jobString>건강의 녹색 소마를 투여합니다.</Administer_OniPillHealth.jobString>
+  <Administer_OniPillMind.label>정신의 푸른 소마 투여</Administer_OniPillMind.label>
+  <Administer_OniPillMind.jobString>정신의 푸른 소마를 투여합니다.</Administer_OniPillMind.jobString>
+  <Administer_YokaiPepperNarcotic.label>요카이 마취약 투여</Administer_YokaiPepperNarcotic.label>
+  <Administer_YokaiPepperNarcotic.jobString>요카이 마취약을 투여합니다.</Administer_YokaiPepperNarcotic.jobString>
+  <Make_FeatherleafJoint.label>깃털잎 연초 제작</Make_FeatherleafJoint.label>
+  <Make_FeatherleafJoint.description>깃털잎 연초을 제작합니다.</Make_FeatherleafJoint.description>
+  <Make_FeatherleafJoint.jobString>깃털잎 연초 만드는 중.</Make_FeatherleafJoint.jobString>
+  <Make_MedicineOintment.label>악마의 숨결 연고 제작</Make_MedicineOintment.label>
+  <Make_MedicineOintment.description>악마의 숨결 연고를 제작합니다.</Make_MedicineOintment.description>
+  <Make_MedicineOintment.jobString>악마의 숨결 연고 제작하는 중</Make_MedicineOintment.jobString>
+  <Make_Sculpture_AncestralOni.label>웅장한 오니 조형물 제작</Make_Sculpture_AncestralOni.label>
+  <Make_Sculpture_AncestralOni.description>웅장한 오니 조형물을 제작합니다.</Make_Sculpture_AncestralOni.description>
+  <Make_Sculpture_AncestralOni.jobString>웅장한 오니 조형물 만드는 중.</Make_Sculpture_AncestralOni.jobString>
+  <Make_Apparel_OniWrap.label>깃털달린 몸싸개 제작</Make_Apparel_OniWrap.label>
+  <Make_Apparel_OniWrap.description>깃털달린 몸싸개를 제작합니다.</Make_Apparel_OniWrap.description>
+  <Make_Apparel_OniWrap.jobString>깃털달린 몸싸개 만드는 중.</Make_Apparel_OniWrap.jobString>
+  <Make_Apparel_OniWrapStuffed.label>오니 스타일 몸싸개 제작</Make_Apparel_OniWrapStuffed.label>
+  <Make_Apparel_OniWrapStuffed.description>오니 스타일의 몸싸개를 제작합니다.</Make_Apparel_OniWrapStuffed.description>
+  <Make_Apparel_OniWrapStuffed.jobString>오니 스타일 몸싸개 만드는 중.</Make_Apparel_OniWrapStuffed.jobString>
+  <Make_Apparel_OniGrandWrap.label>화려한 오니 몸싸게 제작</Make_Apparel_OniGrandWrap.label>
+  <Make_Apparel_OniGrandWrap.description>화려한 오니 몸싸게를 제작합니다.</Make_Apparel_OniGrandWrap.description>
+  <Make_Apparel_OniGrandWrap.jobString>화려한 오니 몸싸게 만드는 중.</Make_Apparel_OniGrandWrap.jobString>
+  <Make_Apparel_OniHeaddress.label>오니 머리쓰개 제작</Make_Apparel_OniHeaddress.label>
+  <Make_Apparel_OniHeaddress.description>오니 머리쓰개를 제작합니다.</Make_Apparel_OniHeaddress.description>
+  <Make_Apparel_OniHeaddress.jobString>오니 머리쓰개 만드는 중.</Make_Apparel_OniHeaddress.jobString>
+  <Make_Apparel_OniWrapNudist.label>깃털달린 헐벗은 몸싸개 제작</Make_Apparel_OniWrapNudist.label>
+  <Make_Apparel_OniWrapNudist.description>깃털달린 헐벗은 몸싸개를 제작합니다.</Make_Apparel_OniWrapNudist.description>
+  <Make_Apparel_OniWrapNudist.jobString>깃털달린 헐벗은 몸싸개 만드는 중.</Make_Apparel_OniWrapNudist.jobString>
+  <Make_Apparel_OniWrapStuffedNudist.label>오니 스타일 헐벗은 몸싸개 제작</Make_Apparel_OniWrapStuffedNudist.label>
+  <Make_Apparel_OniWrapStuffedNudist.description>오니 스타일 헐벗은 몸싸개를 제작합니다.</Make_Apparel_OniWrapStuffedNudist.description>
+  <Make_Apparel_OniWrapStuffedNudist.jobString>오니 스타일 헐벗은 몸싸개 만드는 중</Make_Apparel_OniWrapStuffedNudist.jobString>
+  <Make_Apparel_OniGrandWrapNudist.label>화려한 오니 헐벗은 몸싸게 제작</Make_Apparel_OniGrandWrapNudist.label>
+  <Make_Apparel_OniGrandWrapNudist.description>화려한 오니 헐벗은 몸싸게를 제작합니다.</Make_Apparel_OniGrandWrapNudist.description>
+  <Make_Apparel_OniGrandWrapNudist.jobString>화려한 오니 헐벗은 몸싸게 만드는 중.</Make_Apparel_OniGrandWrapNudist.jobString>
+  <Make_SteelOniHorn.label>오니 강철 뿔 제작</Make_SteelOniHorn.label>
+  <Make_SteelOniHorn.description>오니 강철 뿔을 제작합니다.</Make_SteelOniHorn.description>
+  <Make_SteelOniHorn.jobString>오니 강철 뿔 만드는 중.</Make_SteelOniHorn.jobString>
+  <Make_GoldOniHorn.label>오니 금 뿔 제작</Make_GoldOniHorn.label>
+  <Make_GoldOniHorn.description>오니 금 뿔을 제작합니다.</Make_GoldOniHorn.description>
+  <Make_GoldOniHorn.jobString>오니 금 뿔 만드는 중.</Make_GoldOniHorn.jobString>
+  <Make_Bioniconihorn.label>오니 생체공학 뿔 제작</Make_Bioniconihorn.label>
+  <Make_Bioniconihorn.description>오니 생체공학 뿔을 제작합니다.</Make_Bioniconihorn.description>
+  <Make_Bioniconihorn.jobString>오니 생체공학 뿔 만드는 중.</Make_Bioniconihorn.jobString>
+  <Make_Oni_Blowgun_Gun.label>푸키야 제작</Make_Oni_Blowgun_Gun.label>
+  <Make_Oni_Blowgun_Gun.description>푸키야(바람총)를 제작합니다.</Make_Oni_Blowgun_Gun.description>
+  <Make_Oni_Blowgun_Gun.jobString>푸키야 만드는 중.</Make_Oni_Blowgun_Gun.jobString>
+  <Make_Oni_WarDagger_Gun.label>전쟁 쿠나이 제작</Make_Oni_WarDagger_Gun.label>
+  <Make_Oni_WarDagger_Gun.description>전쟁 쿠나이를 제작합니다.</Make_Oni_WarDagger_Gun.description>
+  <Make_Oni_WarDagger_Gun.jobString>전쟁 쿠나이 만드는 중.</Make_Oni_WarDagger_Gun.jobString>
+  <Preen.label>오니 깃털 몸치장</Preen.label>
+  <Preen.description>오니는 악마의 숨결 연고로 깃털을 다듬습니다. 연고는 깃털 청소에 도움이 되고, 약해진 깃털의 재생을 촉진시켜 자연적으로 빠지는 깃털보다 더 많은 깃털이 나올 수 있도록 해줍니다.</Preen.description>
+  <Preen.jobString>몸치장</Preen.jobString>
+  <MakeOniDevilstrand.label>오니가닥 제작</MakeOniDevilstrand.label>
+  <MakeOniDevilstrand.description>오니 깃털과 악마가닥을 결합해 오니가닥을 제작합니다.</MakeOniDevilstrand.description>
+  <MakeOniDevilstrand.jobString>오니가닥 만드는 중.</MakeOniDevilstrand.jobString>
+  <Installonihorn.label>복구된 오니 뿔 이식</Installonihorn.label>
+  <Installonihorn.description>사라지거나, 손상된 뿔을 교체합니다.</Installonihorn.description>
+  <Installonihorn.jobString>뿔 이식하는 중</Installonihorn.jobString>
+  <Installgoldhorn.label>금 뿔 이식</Installgoldhorn.label>
+  <Installgoldhorn.description>사라지거나, 손상된 뿔을 금 뿔로 교체합니다.</Installgoldhorn.description>
+  <Installgoldhorn.jobString>금 뿔 이식하는 중</Installgoldhorn.jobString>
+  <Installsteelhorn.label>강철 뿔 이식</Installsteelhorn.label>
+  <Installsteelhorn.description>사라지거나, 손상된 뿔을 강철 뿔로 교체합니다.</Installsteelhorn.description>
+  <Installsteelhorn.jobString>강철 뿔 이식하는 중</Installsteelhorn.jobString>
+  <InstallBioniconihorn.label>생체공학 뿔 이식</InstallBioniconihorn.label>
+  <InstallBioniconihorn.description>생체공학 뿔을 이식합니다.</InstallBioniconihorn.description>
+  <InstallBioniconihorn.jobString>생체공학 뿔 이식하는 중</InstallBioniconihorn.jobString>
+  <OniForcedShearing.label>오니 깃털 강제로 깎기</OniForcedShearing.label>
+  <OniForcedShearing.description>오니의 깃털을 강제로 벗겨냅니다. 오니는 물론 기뻐하지 않을 것입니다. 다시 강제로 수확할 수 있을만큼 깃털이 다시 자라기 전까지, 오니는 추위에 떨 것입니다.</OniForcedShearing.description>
+  <OniForcedShearing.jobString>오니 강제로 털 깎는 중</OniForcedShearing.jobString>
+  <Craft_YokaiPepperNarcotic.label>요카이 마취약 제작</Craft_YokaiPepperNarcotic.label>
+  <Craft_YokaiPepperNarcotic.description>요카이 마취약은 요카이 고추와 연초잎으로부터 농축액을 추출하고 혼합한 다음 곱게 갈아 약초와 혼합한 약입니다.</Craft_YokaiPepperNarcotic.description>
+  <Craft_YokaiPepperNarcotic.jobString>요카이 마취약 만드는 중</Craft_YokaiPepperNarcotic.jobString>
+
+  <!--1706345856_190811_Warhammer Skaven-->
+  <Make_SkavenOgreBlade.label>랫 오거 칼날 제작</Make_SkavenOgreBlade.label>
+  <Make_SkavenOgreBlade.description>랫 오거 칼날을 제작합니다.</Make_SkavenOgreBlade.description>
+  <Make_SkavenOgreBlade.jobString>랫 오거 칼날 만드는 중.</Make_SkavenOgreBlade.jobString>
+  <Make_SkavenOgreLeg.label>랫 오거 강철 다리 제작</Make_SkavenOgreLeg.label>
+  <Make_SkavenOgreLeg.description>랫 오거 강철 다리를 제작합니다.</Make_SkavenOgreLeg.description>
+  <Make_SkavenOgreLeg.jobString>랫 오거 강철 다리 만드는 중.</Make_SkavenOgreLeg.jobString>
+  <Make_Apparel_SkavenCloth.label>스케이븐 넝마 제작</Make_Apparel_SkavenCloth.label>
+  <Make_Apparel_SkavenCloth.description>스케이븐 넝마을 제작합니다.</Make_Apparel_SkavenCloth.description>
+  <Make_Apparel_SkavenCloth.jobString>스케이븐 넝마 만드는 중.</Make_Apparel_SkavenCloth.jobString>
+  <Make_Apparel_SkavenClothHood.label>스케이븐 넝마 후드 제작</Make_Apparel_SkavenClothHood.label>
+  <Make_Apparel_SkavenClothHood.description>스케이븐 넝마 후드를 제작합니다.</Make_Apparel_SkavenClothHood.description>
+  <Make_Apparel_SkavenClothHood.jobString>스케이븐 넝마 후드 만드는 중.</Make_Apparel_SkavenClothHood.jobString>
+  <Make_Apparel_SkavenTunic.label>스케이븐 넝마 튜닉 제작</Make_Apparel_SkavenTunic.label>
+  <Make_Apparel_SkavenTunic.description>스케이븐 넝마 튜닉을 제작합니다.</Make_Apparel_SkavenTunic.description>
+  <Make_Apparel_SkavenTunic.jobString>스케이븐 넝마 튜닉 만드는 중.</Make_Apparel_SkavenTunic.jobString>
+  <Make_Apparel_SkavenHelmet.label>스케이븐 투구 제작</Make_Apparel_SkavenHelmet.label>
+  <Make_Apparel_SkavenHelmet.description>스케이븐 투구를 제작합니다.</Make_Apparel_SkavenHelmet.description>
+  <Make_Apparel_SkavenHelmet.jobString>스케이븐 투구 만드는 중.</Make_Apparel_SkavenHelmet.jobString>
+  <Make_Apparel_SkavenPadded.label>스케이븐 패딩 갑옷 제작</Make_Apparel_SkavenPadded.label>
+  <Make_Apparel_SkavenPadded.description>스케이븐 패딩 갑옷을 제작합니다.</Make_Apparel_SkavenPadded.description>
+  <Make_Apparel_SkavenPadded.jobString>스케이븐 패딩 갑옷 만드는 중.</Make_Apparel_SkavenPadded.jobString>
+  <Make_Apparel_SkavenRobe.label>스케이븐 로브 제작</Make_Apparel_SkavenRobe.label>
+  <Make_Apparel_SkavenRobe.description>스케이븐 로브를 제작합니다.</Make_Apparel_SkavenRobe.description>
+  <Make_Apparel_SkavenRobe.jobString>스케이븐 로브 만드는 중.</Make_Apparel_SkavenRobe.jobString>
+  <Make_Apparel_SkavenGasMask.label>스케이븐 방독면 제작</Make_Apparel_SkavenGasMask.label>
+  <Make_Apparel_SkavenGasMask.description>스케이븐 방독면을 제작합니다.</Make_Apparel_SkavenGasMask.description>
+  <Make_Apparel_SkavenGasMask.jobString>스케이븐 방독면 만드는 중.</Make_Apparel_SkavenGasMask.jobString>
+  <Make_Apparel_SkavenStormPlate.label>스톰버민 판금 제작</Make_Apparel_SkavenStormPlate.label>
+  <Make_Apparel_SkavenStormPlate.description>스톰버민 판금을 제작합니다.</Make_Apparel_SkavenStormPlate.description>
+  <Make_Apparel_SkavenStormPlate.jobString>스톰버민 판금 만드는 중.</Make_Apparel_SkavenStormPlate.jobString>
+  <Make_Slingshot.label>줄팔매 제작</Make_Slingshot.label>
+  <Make_Slingshot.description>줄팔매를 제작합니다.</Make_Slingshot.description>
+  <Make_Slingshot.jobString>줄팔매 만드는 중.</Make_Slingshot.jobString>
+  <Make_Skaven_Crossbow.label>스케이벤 쇠뇌 제작</Make_Skaven_Crossbow.label>
+  <Make_Skaven_Crossbow.description>스케이벤 쇠뇌를 제작합니다.</Make_Skaven_Crossbow.description>
+  <Make_Skaven_Crossbow.jobString>스케이벤 쇠뇌 만드는 중.</Make_Skaven_Crossbow.jobString>
+  <Make_MeleeWeapon_SkavenFlail.label>플레일 제작</Make_MeleeWeapon_SkavenFlail.label>
+  <Make_MeleeWeapon_SkavenFlail.description>플레일을 제작합니다.</Make_MeleeWeapon_SkavenFlail.description>
+  <Make_MeleeWeapon_SkavenFlail.jobString>플레일 만드는 중.</Make_MeleeWeapon_SkavenFlail.jobString>
+  <Make_MeleeWeapon_SkavenBardiche.label>스케이븐 도끼창 제작</Make_MeleeWeapon_SkavenBardiche.label>
+  <Make_MeleeWeapon_SkavenBardiche.description>스케이븐 도끼창을 제작합니다.</Make_MeleeWeapon_SkavenBardiche.description>
+  <Make_MeleeWeapon_SkavenBardiche.jobString>스케이븐 도끼창 만드는 중.</Make_MeleeWeapon_SkavenBardiche.jobString>
+  <Make_Gun_SkavenSprayer.label>스케이븐 독약 제작</Make_Gun_SkavenSprayer.label>
+  <Make_Gun_SkavenSprayer.description>스케이븐 독약 분사기을 제작합니다.</Make_Gun_SkavenSprayer.description>
+  <Make_Gun_SkavenSprayer.jobString>스케이븐 독약 분사기 만드는 중.</Make_Gun_SkavenSprayer.jobString>
+  <Make_Gun_MinigunSkaven.label>래틀링 건 제작</Make_Gun_MinigunSkaven.label>
+  <Make_Gun_MinigunSkaven.description>래틀링 건을 제작합니다.</Make_Gun_MinigunSkaven.description>
+  <Make_Gun_MinigunSkaven.jobString>래틀링 건 만드는 중.</Make_Gun_MinigunSkaven.jobString>
+  <Make_Weapon_SkavenPoisonBottle.label>화학물품 병 제작</Make_Weapon_SkavenPoisonBottle.label>
+  <Make_Weapon_SkavenPoisonBottle.description>화학물품 병을 제작합니다.</Make_Weapon_SkavenPoisonBottle.description>
+  <Make_Weapon_SkavenPoisonBottle.jobString>화학물품 병 만드는 중.</Make_Weapon_SkavenPoisonBottle.jobString>
+  <Make_MeleeWeapon_SkavenProd.label>스케이븐 충격 창 제작</Make_MeleeWeapon_SkavenProd.label>
+  <Make_MeleeWeapon_SkavenProd.description>스케이븐 충격 창을 제작합니다.</Make_MeleeWeapon_SkavenProd.description>
+  <Make_MeleeWeapon_SkavenProd.jobString>스케이븐 충격 창 만드는 중.</Make_MeleeWeapon_SkavenProd.jobString>
+  <InstallSkavenOgreBlade.label>칼날 이식</InstallSkavenOgreBlade.label>
+  <InstallSkavenOgreBlade.description>칼날을 이식합니다.</InstallSkavenOgreBlade.description>
+  <InstallSkavenOgreBlade.jobString>칼날 이식 중.</InstallSkavenOgreBlade.jobString>
+  <InstallSkavenOgreLeg.label>강철 다리 설치</InstallSkavenOgreLeg.label>
+  <InstallSkavenOgreLeg.description>강철 다리 설치합니다.</InstallSkavenOgreLeg.description>
+  <InstallSkavenOgreLeg.jobString>강철 다리 설치 중.</InstallSkavenOgreLeg.jobString>
+  <InstallSkavenOgrePlate.label>강철 판금 설치</InstallSkavenOgrePlate.label>
+  <InstallSkavenOgrePlate.description>강철 판금을 설치합니다.</InstallSkavenOgrePlate.description>
+  <InstallSkavenOgrePlate.jobString>강철 판금 설치 중.</InstallSkavenOgrePlate.jobString>
+  <InstallSkavenOgreDenture.label>강철 틀니 설치</InstallSkavenOgreDenture.label>
+  <InstallSkavenOgreDenture.description>강철 틀니를 설치합니다.</InstallSkavenOgreDenture.description>
+  <InstallSkavenOgreDenture.jobString>강철 틀니 설치 중.</InstallSkavenOgreDenture.jobString>
+
+  <!--1728999127_190813_Forsakens-->
+  <Administer_Razor.label>라조르 관리</Administer_Razor.label>
+  <Administer_Razor.jobString>라조르 관리 중.</Administer_Razor.jobString>
+  <Administer_Vitaminf.label>비타민 f 관리</Administer_Vitaminf.label>
+  <Administer_Vitaminf.jobString>비타민 f 관리 중.</Administer_Vitaminf.jobString>
+  <Make_Razor.label>라조르 제작</Make_Razor.label>
+  <Make_Razor.description>라조르를 제작합니다.</Make_Razor.description>
+  <Make_Razor.jobString>라조르 제작 중.</Make_Razor.jobString>
+  <Make_Vitaminf.label>비타민 f 제작</Make_Vitaminf.label>
+  <Make_Vitaminf.description>비타민 f를 제작합니다</Make_Vitaminf.description>
+  <Make_Vitaminf.jobString>비타민 f 제작 중.</Make_Vitaminf.jobString>
+  <Make_Forsaken_Hood.label>버림받은 자들 후드 제작</Make_Forsaken_Hood.label>
+  <Make_Forsaken_Hood.description>버림받은 자들 후드를 제작합니다.</Make_Forsaken_Hood.description>
+  <Make_Forsaken_Hood.jobString>버림받은 자들 후드 제작 중.</Make_Forsaken_Hood.jobString>
+  <Make_Forsaken_Cloak.label>버림받은 자들 망토 제작</Make_Forsaken_Cloak.label>
+  <Make_Forsaken_Cloak.description>버림받은 자들 망토를 제작합니다.</Make_Forsaken_Cloak.description>
+  <Make_Forsaken_Cloak.jobString>버림받은 자들 망토 제작 중.</Make_Forsaken_Cloak.jobString>
+  <Make_TForsakenH.label>버림받은 자들 투구 제작</Make_TForsakenH.label>
+  <Make_TForsakenH.description>버림받은 자들 투구를 제작합니다.</Make_TForsakenH.description>
+  <Make_TForsakenH.jobString>버림받은 자들 투구 제작 중.</Make_TForsakenH.jobString>
+  <Make_TForsakenA.label>버림받은 자들 갑옷 제작</Make_TForsakenA.label>
+  <Make_TForsakenA.description>버림받은 자들 갑옷을 제작합니다.</Make_TForsakenA.description>
+  <Make_TForsakenA.jobString>버림받은 자들 갑옷 제작 중.</Make_TForsakenA.jobString>
+  <Make_ForsakenHydra.label>버림받은 자들 블랙 하이드라 제작</Make_ForsakenHydra.label>
+  <Make_ForsakenHydra.description>버림받은 자들 블랙 하이드라를 제작합니다.</Make_ForsakenHydra.description>
+  <Make_ForsakenHydra.jobString>버림받은 자들 블랙 하이드라 제작 중.</Make_ForsakenHydra.jobString>
+  <Make_ForsakenSniper.label>버림받은 자들 저격 소총 제작</Make_ForsakenSniper.label>
+  <Make_ForsakenSniper.description>버림받은 자들 저격 소총을 제작합니다.</Make_ForsakenSniper.description>
+  <Make_ForsakenSniper.jobString>버림받은 자들 저격 소총 제작 중.</Make_ForsakenSniper.jobString>
+  <Make_ForsakenShotGun.label>버림받은 자들 산탄총 제작</Make_ForsakenShotGun.label>
+  <Make_ForsakenShotGun.description>버림받은 자들 산탄총을 제작합니다.</Make_ForsakenShotGun.description>
+  <Make_ForsakenShotGun.jobString>버림받은 자들 산탄총 제작 중.</Make_ForsakenShotGun.jobString>
+  <Make_ForsakenAR.label>버림받은 자들 돌격 소총 제작</Make_ForsakenAR.label>
+  <Make_ForsakenAR.description>버림받은 자들 돌격 소총을 제작합니다.</Make_ForsakenAR.description>
+  <Make_ForsakenAR.jobString>버림받은 자들 돌격 소총 제작 중.</Make_ForsakenAR.jobString>
+  <Make_ForsakenLongBlade.label>버림받은 자들 장검 제작</Make_ForsakenLongBlade.label>
+  <Make_ForsakenLongBlade.description>버림받은 자들 장검을 제작합니다.</Make_ForsakenLongBlade.description>
+  <Make_ForsakenLongBlade.jobString>버림받은 자들 장검 제작 중.</Make_ForsakenLongBlade.jobString>
+  <Make_ForsakenCombatBlade.label>버림받은 자들 전투 검 제작</Make_ForsakenCombatBlade.label>
+  <Make_ForsakenCombatBlade.description>버림받은 자들 전투 검을 제작합니다.</Make_ForsakenCombatBlade.description>
+  <Make_ForsakenCombatBlade.jobString>버림받은 자들 전투 검 제작 중.</Make_ForsakenCombatBlade.jobString>
+  <Make_ForsakenBattle.label>버림받은 자들 전투 도끼 제작</Make_ForsakenBattle.label>
+  <Make_ForsakenBattle.description>버림받은 자들 전투 도끼를 제작합니다.</Make_ForsakenBattle.description>
+  <Make_ForsakenBattle.jobString>버림받은 자들 전투 도끼 제작 중.</Make_ForsakenBattle.jobString>
+  <Make_ForsakenBulksword.label>버림받은 자들 대검 제작</Make_ForsakenBulksword.label>
+  <Make_ForsakenBulksword.description>버림받은 자들 대검을 제작합니다.</Make_ForsakenBulksword.description>
+  <Make_ForsakenBulksword.jobString>버림받은 자들 대검 제작 중.</Make_ForsakenBulksword.jobString>
+  <Make_FSpear.label>버림받은 자들 창 제작</Make_FSpear.label>
+  <Make_FSpear.description>버림받은 자들 창을 제작합니다.</Make_FSpear.description>
+  <Make_FSpear.jobString>버림받은 자들 창 제작 중.</Make_FSpear.jobString>
+  <Make_FBow.label>버림받은 자들 활 제작</Make_FBow.label>
+  <Make_FBow.description>버림받은 자들 활을 제작합니다.</Make_FBow.description>
+  <Make_FBow.jobString>버림받은 자들 활 제작 중.</Make_FBow.jobString>
+
+  <!--1785657108_190811_Humanoid Project-->
+  <InstallAlienJaw.label>생체공학 턱 이식</InstallAlienJaw.label>
+  <InstallAlienJaw.description>생체공학 턱을 이식합니다.</InstallAlienJaw.description>
+  <InstallAlienJaw.jobString>생체공학 턱 이식하는 중</InstallAlienJaw.jobString>
+  <InstallAlienBrain.label>코스모스 테크 뇌 이식</InstallAlienBrain.label>
+  <InstallAlienBrain.description>코스모스 테크 뇌를 이식합니다.</InstallAlienBrain.description>
+  <InstallAlienBrain.jobString>코스모스 테크 뇌를 이식하는 중,</InstallAlienBrain.jobString>
+  <InstallAlienEar.label>향상된 귀 이식</InstallAlienEar.label>
+  <InstallAlienEar.description>향상된 귀를 이식합니다.</InstallAlienEar.description>
+  <InstallAlienEar.jobString>향상된 귀 이식하는 중</InstallAlienEar.jobString>
+  <InstallAlienEye.label>생체공학 눈 이식</InstallAlienEye.label>
+  <InstallAlienEye.description>생체공학 눈을 이식합니다.</InstallAlienEye.description>
+  <InstallAlienEye.jobString>생체공학 눈 이식하는 중</InstallAlienEye.jobString>
+  <InstallAlienFoot.label>향상된 발 이식</InstallAlienFoot.label>
+  <InstallAlienFoot.description>향상된 발을 이식합니다.</InstallAlienFoot.description>
+  <InstallAlienFoot.jobString>향상된 발 이식하는 중</InstallAlienFoot.jobString>
+  <InstallAlienHand.label>생체공학 손 이식</InstallAlienHand.label>
+  <InstallAlienHand.description>생체공학 손을 이식합니다.</InstallAlienHand.description>
+  <InstallAlienHand.jobString>생체공학 손 이식하는 중</InstallAlienHand.jobString>
+  <InstallAlienHeart.label>코스모스 테크 심장 이식</InstallAlienHeart.label>
+  <InstallAlienHeart.description>코스모스 테크 심장을 이식합니다.</InstallAlienHeart.description>
+  <InstallAlienHeart.jobString>코스모스 테크 심장을 이식하는 중</InstallAlienHeart.jobString>
+  <InstallAlienKidney.label>코스모스 테크 신장 이식</InstallAlienKidney.label>
+  <InstallAlienKidney.description>코스모스 테크 신장을 이식합니다.</InstallAlienKidney.description>
+  <InstallAlienKidney.jobString>코스모스 테크 신장을 이식하는 중</InstallAlienKidney.jobString>
+  <InstallAlienLeg.label>향상된 다리 이식</InstallAlienLeg.label>
+  <InstallAlienLeg.description>향상된 다리를 이식합니다.</InstallAlienLeg.description>
+  <InstallAlienLeg.jobString>향상된 다리 이식하는 중</InstallAlienLeg.jobString>
+  <InstallAlienLiver.label>코스모스 테크 간 이식</InstallAlienLiver.label>
+  <InstallAlienLiver.description>코스모스 테크 간을 이식합니다.</InstallAlienLiver.description>
+  <InstallAlienLiver.jobString>코스모스 테크 간을 이식하는 중</InstallAlienLiver.jobString>
+  <InstallAlienLung.label>생체공학 폐 이식</InstallAlienLung.label>
+  <InstallAlienLung.description>생체공학 폐를 이식합니다.</InstallAlienLung.description>
+  <InstallAlienLung.jobString>생체공학 폐 이식하는 중</InstallAlienLung.jobString>
+  <InstallAlienSpine.label>향상된 척추 이식</InstallAlienSpine.label>
+  <InstallAlienSpine.description>향상된 척추를 이식합니다.</InstallAlienSpine.description>
+  <InstallAlienSpine.jobString>향상된 척추 이식하는 중</InstallAlienSpine.jobString>
+  <InstallAlienStomach.label>향상된 위 이식</InstallAlienStomach.label>
+  <InstallAlienStomach.description>향상된 위를 이식합니다.</InstallAlienStomach.description>
+  <InstallAlienStomach.jobString>향상된 위 이식하는 중</InstallAlienStomach.jobString>
+  <MakeAlienJaw.label>생체공학 턱 제작</MakeAlienJaw.label>
+  <MakeAlienJaw.description>생체공학 턱으로 업그레이드 합니다.</MakeAlienJaw.description>
+  <MakeAlienJaw.jobString>몸 부위 업그레이드 하는 중.</MakeAlienJaw.jobString>
+  <MakeAlienBrain.label>코스모스 테크 뇌 제작</MakeAlienBrain.label>
+  <MakeAlienBrain.description>코스모스 테크 뇌로 업그레이드 합니다.</MakeAlienBrain.description>
+  <MakeAlienBrain.jobString>몸 부위 업그레이드 하는 중.</MakeAlienBrain.jobString>
+  <MakeAlienEar.label>고급 생체공학 귀 제작</MakeAlienEar.label>
+  <MakeAlienEar.description>고급 생체공학 귀로 업그레이드 합니다.</MakeAlienEar.description>
+  <MakeAlienEar.jobString>몸 부위 업그레이드 하는 중.</MakeAlienEar.jobString>
+  <MakeAlienEye.label>생체공학 눈 제작</MakeAlienEye.label>
+  <MakeAlienEye.description>생체공학 눈으로 업그레이드 합니다.</MakeAlienEye.description>
+  <MakeAlienEye.jobString>몸 부위 업그레이드 하는 중.</MakeAlienEye.jobString>
+  <MakeAlienFoot.label>고급 생체공학 발 제작</MakeAlienFoot.label>
+  <MakeAlienFoot.description>고급 생체공학 발로 업그레이드 합니다.</MakeAlienFoot.description>
+  <MakeAlienFoot.jobString>몸 부위 업그레이드 하는 중.</MakeAlienFoot.jobString>
+  <MakeAlienHand.label>생체공학 손 제작</MakeAlienHand.label>
+  <MakeAlienHand.description>생체공학 손으로 업그레이드 합니다.</MakeAlienHand.description>
+  <MakeAlienHand.jobString>몸 부위 업그레이드 하는 중.</MakeAlienHand.jobString>
+  <MakeAlienHeart.label>코스모스 테크 심장 제작</MakeAlienHeart.label>
+  <MakeAlienHeart.description>코스모스 테크 심장으로 업그레이드 합니다.</MakeAlienHeart.description>
+  <MakeAlienHeart.jobString>몸 부위 업그레이드 하는 중.</MakeAlienHeart.jobString>
+  <MakeAlienKidney.label>코스모스 테크 신장 제작</MakeAlienKidney.label>
+  <MakeAlienKidney.description>코스모스 테크 신장으로 업그레이드 합니다.</MakeAlienKidney.description>
+  <MakeAlienKidney.jobString>몸 부위 업그레이드 하는 중.</MakeAlienKidney.jobString>
+  <MakeAlienLeg.label>고급 생체공학 다리 제작</MakeAlienLeg.label>
+  <MakeAlienLeg.description>고급 생체공학 다리로 업그레이드 합니다.</MakeAlienLeg.description>
+  <MakeAlienLeg.jobString>몸 부위 업그레이드 하는 중.</MakeAlienLeg.jobString>
+  <MakeAlienLiver.label>코스모스 테크 간 제작</MakeAlienLiver.label>
+  <MakeAlienLiver.description>코스모스 테크 간으로 업그레이드 합니다.</MakeAlienLiver.description>
+  <MakeAlienLiver.jobString>몸 부위 업그레이드 하는 중.</MakeAlienLiver.jobString>
+  <MakeAlienLung.label>생체공학 폐 제작</MakeAlienLung.label>
+  <MakeAlienLung.description>생체공학 폐로 업그레이드 합니다.</MakeAlienLung.description>
+  <MakeAlienLung.jobString>몸 부위 업그레이드 하는 중.</MakeAlienLung.jobString>
+  <MakeAlienSpine.label>고급 생체공학 척추 제작</MakeAlienSpine.label>
+  <MakeAlienSpine.description>고급 생체공학 척추로 업그레이드 합니다.</MakeAlienSpine.description>
+  <MakeAlienSpine.jobString>몸 부위 업그레이드 하는 중.</MakeAlienSpine.jobString>
+  <MakeAlienStomach.label>고급 생체공학 위 제작</MakeAlienStomach.label>
+  <MakeAlienStomach.description>고급 생체공학 위로 업그레이드 합니다.</MakeAlienStomach.description>
+  <MakeAlienStomach.jobString>몸 부위 업그레이드 하는 중.</MakeAlienStomach.jobString>
+  <MakeFluxMedicine.label>플럭스 의약품 제작</MakeFluxMedicine.label>
+  <MakeFluxMedicine.description>가장 기본적인 플럭스 의학키트입니다.</MakeFluxMedicine.description>
+  <MakeFluxMedicine.jobString>제작하는 중...</MakeFluxMedicine.jobString>
+  <MakeAdvancedMedicalFlux.label>고급 플럭스 의약품 제작</MakeAdvancedMedicalFlux.label>
+  <MakeAdvancedMedicalFlux.description>향상된 버전의 플럭스 의학키트입니다.</MakeAdvancedMedicalFlux.description>
+  <MakeAdvancedMedicalFlux.jobString>제작하는 중...</MakeAdvancedMedicalFlux.jobString>
+  <CookAlienMeatRed.label>볼카니안 고기 제조</CookAlienMeatRed.label>
+  <CookAlienMeatRed.description>일반적인 고기와 비슷한 성질을 가진, 붉은색의 단순하고 이상한 고기를 제조합니다. (게임 초기 단계에 생성될 수 있으며, 외계 식물의 1단계에서 잠금해제될 수 있습니다.)</CookAlienMeatRed.description>
+  <CookAlienMeatRed.jobString>볼카니안 고기 만드는 중.</CookAlienMeatRed.jobString>
+  <CookAlienMeatGreen.label>엑솔로트 고기 제조</CookAlienMeatGreen.label>
+  <CookAlienMeatGreen.description>신기한 녹색빛을 띄는 이상한 고기를 제조합니다. 이 고기의 기원은 나무와 유사한, 발전된 식물 기반의 생명체에서 유래했습니다. (게임 초기 단계에 생성될 수 있으며, 외계 식물의 1단계에서 잠금해제될 수 있습니다.)</CookAlienMeatGreen.description>
+  <CookAlienMeatGreen.jobString>엑솔로트 고기 만드는 중.</CookAlienMeatGreen.jobString>
+  <CookAlienMeatStrange.label>우드척 고기 제조</CookAlienMeatStrange.label>
+  <CookAlienMeatStrange.description>이 단순하고 이상한 고기는 광합성을 할 수 있는 발전된 식물 기반의 생명체에서 유래했습니다. (게임 초기 단계에 생성될 수 있으며, 외계 식물의 1단계에서 잠금해제될 수 있습니다.)</CookAlienMeatStrange.description>
+  <CookAlienMeatStrange.jobString>우드척 고기 만드는 중.</CookAlienMeatStrange.jobString>
+  <CookAlienSteak.label>바이오 스테이크 제조</CookAlienSteak.label>
+  <CookAlienSteak.description>보통 산소가 풍부한 생성에서 서식하는 기묘한 독성 식물의 간단한 바이오 스테이크입ㅂ니다... 그 식물들은 해파리와 비슷한 분자구조를 가지고 있습니다. (3티어 외계식물, 데몬 릴리에서 생산 가능합니다.)</CookAlienSteak.description>
+  <CookAlienSteak.jobString>바이오 스테이크 만드는 중.</CookAlienSteak.jobString>
+  <CookGeneticSteak.label>유전자 스테이크 제조</CookGeneticSteak.label>
+  <CookGeneticSteak.description>기묘한 독성 외계 식물의 단순한 유전자 스테이크로, 산소가 풍부한 대기의 행성에서 보통 발견될 수 있으며 살아있는 스펀지와 비슷합니다. (3티어 외계식물, 데몬 릴리에서 생산 가능합니다.)</CookGeneticSteak.description>
+  <CookGeneticSteak.jobString>유전자 스테이크 만드는 중.</CookGeneticSteak.jobString>
+  <CookGreenSteak.label>마스키드 스테이크 제조</CookGreenSteak.label>
+  <CookGreenSteak.description>기묘한 독성 외계 식물의 단순한 마스키드 스테이크로, 산소가 풍부한 대기의 행성에서 보통 발견될 수 있으며 살아있는 스펀지와 비슷합니다. (3티어 외계식물, 데몬 릴리에서 생산 가능합니다.)</CookGreenSteak.description>
+  <CookGreenSteak.jobString>마스키드 스테이크 만드는 중.</CookGreenSteak.jobString>
+  <CookSyntheticMeatBlue.label>합성 달 고기 제조</CookSyntheticMeatBlue.label>
+  <CookSyntheticMeatBlue.description>메탄이 풍부한 대기의 암흑 에너지 공장에서 생산되는 매우 밝은 푸른색을 가진 단순한 합성 고기입니다. (2티어 외계식물, 악몽 찔레꽃에서 생산 가능합니다.)</CookSyntheticMeatBlue.description>
+  <CookSyntheticMeatBlue.jobString>합성 달 고기 만드는 중.</CookSyntheticMeatBlue.jobString>
+  <CookSyntheticMeatGreen.label>합성 봄베이 고기 제조</CookSyntheticMeatGreen.label>
+  <CookSyntheticMeatGreen.description>메탄이 풍부한 대기의 암흑 에너지 공장에서 생산되는 단순한 합성 고기입니다. (2티어 외계식물, 악몽 찔레꽃에서 생산 가능합니다.)</CookSyntheticMeatGreen.description>
+  <CookSyntheticMeatGreen.jobString>합성 봄베이 고기 만드는 중.</CookSyntheticMeatGreen.jobString>
+  <CookSyntheticMeatYellow.label>합성 라임 고기 제조</CookSyntheticMeatYellow.label>
+  <CookSyntheticMeatYellow.description>700도가 넘는 행성에서도 일반적으로 생존할 수 있는 식물의 단순한 합성고기입니다... 하지만 이런 식물을 우리가 어떻게 일반적인 환경에서도 기를 수 있었는지는 확신할 수가 없습니다. (2티어 외계식물, 마그마타이트에서 생산 가능합니다.)</CookSyntheticMeatYellow.description>
+  <CookSyntheticMeatYellow.jobString>합성 라임 고기 만드는 중.</CookSyntheticMeatYellow.jobString>
+  <CookSyntheticMeatZebra.label>펄스 사프란 고기 제조</CookSyntheticMeatZebra.label>
+  <CookSyntheticMeatZebra.description>700도가 넘는 행성에서도 일반적으로 생존할 수 있는 식물의 단순한 합성고기입니다... 하지만 이런 식물을 우리가 어떻게 일반적인 환경에서도 기를 수 있었는지는 확신할 수가 없습니다. (2티어 외계식물, 마그마타이트에서 생산 가능합니다.)</CookSyntheticMeatZebra.description>
+  <CookSyntheticMeatZebra.jobString>펄스 사프란 고기 만드는 중.</CookSyntheticMeatZebra.jobString>
+  <CookSyntheticMeatMagma.label>합성 키메라 고기 제조</CookSyntheticMeatMagma.label>
+  <CookSyntheticMeatMagma.description>황산이 풍부한 대기에 사는 외계 식물에서 생산되는 합성 키메라 고기입니다. (3티어 외계식물, 독성 개종용에서 생산 가능합니다.)</CookSyntheticMeatMagma.description>
+  <CookSyntheticMeatMagma.jobString>합성 키메라 고기 만드는 중.</CookSyntheticMeatMagma.jobString>
+  <CookSyntheticMeatUnknown.label>합성 코팅 고기 제조</CookSyntheticMeatUnknown.label>
+  <CookSyntheticMeatUnknown.description>황산이 풍부한 대기에 사는 외계 식물에서 생산되는 합성 코팅 고기입니다. (3티어 외계식물, 독성 개종용에서 생산 가능합니다.)</CookSyntheticMeatUnknown.description>
+  <CookSyntheticMeatUnknown.jobString>합성 코팅 고기 만드는 중.</CookSyntheticMeatUnknown.jobString>
+  <CookGlowingMeat.label>빛나는 고기 제조</CookGlowingMeat.label>
+  <CookGlowingMeat.description>매우 인상적인 영양성분과 부드러운 구조의 고급 복제육을 만듭니다. (1티어 외계식물, 소름끼치는 튤립에서 생산 가능합니다.)</CookGlowingMeat.description>
+  <CookGlowingMeat.jobString>빛나는 고기 만드는 중.</CookGlowingMeat.jobString>
+  <CookRainbowMeat.label>복제 고기 제조</CookRainbowMeat.label>
+  <CookRainbowMeat.description>매우 인상적인 영양성분과 부드러운 구조의 고급 복제육을 만듭니다. (2티어 외계식물, 망자 담쟁이에서 생산 가능합니다.)</CookRainbowMeat.description>
+  <CookRainbowMeat.jobString>복제 고기 만드는 중.</CookRainbowMeat.jobString>
+  <CookZebraStyleMeat.label>얼룩 고기 제조</CookZebraStyleMeat.label>
+  <CookZebraStyleMeat.description>매우 인상적인 영양성분과 부드러운 구조의 고급 복제육을 만듭니다. (2티어 외계식물, 망자 담쟁이에서 생산 가능합니다.)</CookZebraStyleMeat.description>
+  <CookZebraStyleMeat.jobString>얼룩 고기 만드는 중.</CookZebraStyleMeat.jobString>
+  <CookReplicatedMeat.label>복제 스테이크 제조</CookReplicatedMeat.label>
+  <CookReplicatedMeat.description>매우 인상적인 영양성분과 부드러운 구조의 고급 복제 스테이크를 만듭니다. (2티어 외계식물, 망자 담쟁이에서 생산 가능합니다.)</CookReplicatedMeat.description>
+  <CookReplicatedMeat.jobString>복제 스테이크 만드는 중.</CookReplicatedMeat.jobString>
+  <Make_CosmosEnergyRifle.label>코스모스 에너지 소총 제작</Make_CosmosEnergyRifle.label>
+  <Make_CosmosEnergyRifle.description>코스모스 에너지 소총을 제작합니다.</Make_CosmosEnergyRifle.description>
+  <Make_CosmosEnergyRifle.jobString>코스모스 에너지 소총 만드는 중.</Make_CosmosEnergyRifle.jobString>
+  <Make_CosmosEnergySniper.label>코스모스 에너지 저격총 제작</Make_CosmosEnergySniper.label>
+  <Make_CosmosEnergySniper.description>코스모스 에너지 저격총을 제작합니다.</Make_CosmosEnergySniper.description>
+  <Make_CosmosEnergySniper.jobString>코스모스 에너지 저격총 만드는 중.</Make_CosmosEnergySniper.jobString>
+  <Make_CosmosEnergyPistol.label>코스모스 에너지 권총 제작</Make_CosmosEnergyPistol.label>
+  <Make_CosmosEnergyPistol.description>코스모스 에너지 권총을 제작합니다.</Make_CosmosEnergyPistol.description>
+  <Make_CosmosEnergyPistol.jobString>코스모스 에너지 권총 만드는 중.</Make_CosmosEnergyPistol.jobString>
+  <Make_PhasePistol.label>위상 권총 제작</Make_PhasePistol.label>
+  <Make_PhasePistol.description>위상 권총을 제작합니다.</Make_PhasePistol.description>
+  <Make_PhasePistol.jobString>위상 권총 만드는 중.</Make_PhasePistol.jobString>
+  <Make_PhasePistolMagma.label>오메가 위상 권총 제작</Make_PhasePistolMagma.label>
+  <Make_PhasePistolMagma.description>오메가 위상 권총을 제작합니다.</Make_PhasePistolMagma.description>
+  <Make_PhasePistolMagma.jobString>오메가 위상 권총 만드는 중.</Make_PhasePistolMagma.jobString>
+  <Make_FluxRifle.label>고급 플럭스 소총 제작</Make_FluxRifle.label>
+  <Make_FluxRifle.description>고급 플럭스 소총을 제작합니다.</Make_FluxRifle.description>
+  <Make_FluxRifle.jobString>고급 플럭스 소총 만드는 중.</Make_FluxRifle.jobString>
+  <Make_FluxRifleBlue.label>플럭스 소총 제작</Make_FluxRifleBlue.label>
+  <Make_FluxRifleBlue.description>플럭스 소총을 제작합니다.</Make_FluxRifleBlue.description>
+  <Make_FluxRifleBlue.jobString>플럭스 소총 만드는 중.</Make_FluxRifleBlue.jobString>
+  <MakeGreenStormBionic.label>불안정한 능력 자극기 제작</MakeGreenStormBionic.label>
+  <MakeGreenStormBionic.description>거대한 영향력을 가진 불안정하고 강력한 능력을 부여합니다. 정착민의 건강에 대한 극단적인 부작용에 주의해야 합니다.</MakeGreenStormBionic.description>
+  <MakeGreenStormBionic.jobString>제작하는 중...</MakeGreenStormBionic.jobString>
+  <InstallGreenStormBionic.label>능력 자극기 이식</InstallGreenStormBionic.label>
+  <InstallGreenStormBionic.description>매우 불안정하고 위험한 능력 자극기 뇌 보철물을 이식하며, 정착민의 건강에 매우 심각한 영향을 미칠 수 있습니다.</InstallGreenStormBionic.description>
+  <InstallGreenStormBionic.jobString>능력 자극기 이식하는 중.</InstallGreenStormBionic.jobString>
+  <MakeStormPower.label>불안정한 BHC-1 심장 자극기 제작</MakeStormPower.label>
+  <MakeStormPower.description>불안정하고 강력한 폭풍을 일으킬 수 있는 능력을 부여합니다.(정착민의 건강에 부작용이 있을 수 있습니다.) 영향을 주는 타일은 "3x 칸". 입니다.</MakeStormPower.description>
+  <MakeStormPower.jobString>제작하는 중...</MakeStormPower.jobString>
+  <InstallStormPower.label>BHC-1 자극기 이식</InstallStormPower.label>
+  <InstallStormPower.description>불안정한 폭풍 보철물을 이식합니다. 일단 설치되면, 보철물은 치명적이지는 않지만, 이전보다 정착지 생활을 더 어렵게 만들 수 있을 정도로 이식자의 건강을 악화시킬 것입니다.</InstallStormPower.description>
+  <InstallStormPower.jobString>심장 자극기 이식하는 중.</InstallStormPower.jobString>
+  <MakeCosmosBaseImplant.label>불안정한 BO-001 성장 자극기 제작</MakeCosmosBaseImplant.label>
+  <MakeCosmosBaseImplant.description>BO-001 성장 자극기는 모든 부상에서부터 인상적인 속도로 신체 부위를 치유할 수 있는 능력을 부여합니다.</MakeCosmosBaseImplant.description>
+  <MakeCosmosBaseImplant.jobString>제작하는 중...</MakeCosmosBaseImplant.jobString>
+  <InstallCosmosBaseImplant.label>성장 자극기 BO-001 이식</InstallCosmosBaseImplant.label>
+  <InstallCosmosBaseImplant.description>모든 부상에서부터 인상적인 속도로 신체 부위를 치유할 수 있는 능력을 부여하는 BO-001 성장 자극기를 설치합니다. (이식 과정 중 경미한 통증부터 큰 통증까지 부작용이 있을 수 있습니다.)</InstallCosmosBaseImplant.description>
+  <InstallCosmosBaseImplant.jobString>성장 자극기 이식하는 중.</InstallCosmosBaseImplant.jobString>
+
+  <!--882126182_181000_Call of Cthulhu - Elder Things-->
+  <ET_InstallNaturalHeartLung.label>호흡 세포송이 이식</ET_InstallNaturalHeartLung.label>
+  <ET_InstallNaturalHeartLung.description>호흡 세포송이를 이식합니다.</ET_InstallNaturalHeartLung.description>
+  <ET_InstallNaturalHeartLung.jobString>호흡 세포송이 이식 중.</ET_InstallNaturalHeartLung.jobString>
+  <ET_InstallNaturalXylem.label>목관부 관 이식</ET_InstallNaturalXylem.label>
+  <ET_InstallNaturalXylem.description>목관부 관을 이식합니다.</ET_InstallNaturalXylem.description>
+  <ET_InstallNaturalXylem.jobString>목관부 관 이식 중.</ET_InstallNaturalXylem.jobString>
+  <ET_InstallNaturalPhloem.label>체관부 관 이식</ET_InstallNaturalPhloem.label>
+  <ET_InstallNaturalPhloem.description>체관부 관을 이식합니다.</ET_InstallNaturalPhloem.description>
+  <ET_InstallNaturalPhloem.jobString>체관부 관 이식 중.</ET_InstallNaturalPhloem.jobString>
+  <ET_InstallBionicWing.label>생체공학 날개 이식</ET_InstallBionicWing.label>
+  <ET_InstallBionicWing.description>생체공학 날개를 이식합니다.</ET_InstallBionicWing.description>
+  <ET_InstallBionicWing.jobString>생체공학 날개 이식 중.</ET_InstallBionicWing.jobString>
+  <ET_InstallBionicArm.label>생체공학 팔 이식</ET_InstallBionicArm.label>
+  <ET_InstallBionicArm.description>생체공학 팔을 이식합니다.</ET_InstallBionicArm.description>
+  <ET_InstallBionicArm.jobString>생체공학 팔 이식 중.</ET_InstallBionicArm.jobString>
+  <ET_InstallPowerClaw.label>파워클로 이식</ET_InstallPowerClaw.label>
+  <ET_InstallPowerClaw.description>파워클로를 이식합니다.</ET_InstallPowerClaw.description>
+  <ET_InstallPowerClaw.jobString>파워클로 이식 중.</ET_InstallPowerClaw.jobString>
+  <ET_InstallPegLeg.label>의족 이식</ET_InstallPegLeg.label>
+  <ET_InstallPegLeg.description>의족을 이식합니다.</ET_InstallPegLeg.description>
+  <ET_InstallPegLeg.jobString>의족 이식 중.</ET_InstallPegLeg.jobString>
+  <ET_InstallBionicLeg.label>생체공학 다리 이식</ET_InstallBionicLeg.label>
+  <ET_InstallBionicLeg.description>생체공학 다리를 이식합니다.</ET_InstallBionicLeg.description>
+  <ET_InstallBionicLeg.jobString>생체공학 다리 이식 중.</ET_InstallBionicLeg.jobString>
+  <Make_ElderThing_LaserGun.label>태고의 레이저 총 만들기</Make_ElderThing_LaserGun.label>
+  <Make_ElderThing_LaserGun.description>태고의 레이저 총을 만듭니다.</Make_ElderThing_LaserGun.description>
+  <Make_ElderThing_LaserGun.jobString>태고의 레이저 총 만드는 중.</Make_ElderThing_LaserGun.jobString>
+
+</LanguageData>

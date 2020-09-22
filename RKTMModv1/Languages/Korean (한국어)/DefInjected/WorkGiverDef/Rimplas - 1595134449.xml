@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CraftRimPlasInjMld.label>사출 성형 가동</CraftRimPlasInjMld.label>
+  <CraftRimPlasInjMld.verb>성형</CraftRimPlasInjMld.verb>
+  <CraftRimPlasInjMld.gerund>가동 중</CraftRimPlasInjMld.gerund>
+  <CraftRimPlasAdvInjMld.label>고급 사출 성형 가동</CraftRimPlasAdvInjMld.label>
+  <CraftRimPlasAdvInjMld.verb>성형</CraftRimPlasAdvInjMld.verb>
+  <CraftRimPlasAdvInjMld.gerund>가동 중</CraftRimPlasAdvInjMld.gerund>
+  <CraftRimPlasMechBreaker.label>메카 파쇄기 사용</CraftRimPlasMechBreaker.label>
+  <CraftRimPlasMechBreaker.verb>고장</CraftRimPlasMechBreaker.verb>
+  <CraftRimPlasMechBreaker.gerund>사용 중</CraftRimPlasMechBreaker.gerund>
+
+</LanguageData>

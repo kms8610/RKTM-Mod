@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Architect_DZ_Animals.label>가축 창</Architect_DZ_Animals.label>
+  <Architect_DZ_Animals.description>구상 메뉴의 "가축"에 대한 단축키입니다.</Architect_DZ_Animals.description>
+  <Architect_DZ_Beds.label>침대 창</Architect_DZ_Beds.label>
+  <Architect_DZ_Beds.description>구상 메뉴의 "침대"에 대한 단축키입니다.</Architect_DZ_Beds.description>
+  <Architect_DZ_Culinary.label>조리 창</Architect_DZ_Culinary.label>
+  <Architect_DZ_Culinary.description>구상 메뉴의 "조리"에 대한 단축키입니다.</Architect_DZ_Culinary.description>
+  <Architect_DZ_Fences.label>울타리 창</Architect_DZ_Fences.label>
+  <Architect_DZ_Fences.description>구상 메뉴의 "울타리"에 대한 단축키입니다.</Architect_DZ_Fences.description>
+  <Architect_DZ_Husbandry.label>농업 창</Architect_DZ_Husbandry.label>
+  <Architect_DZ_Husbandry.description>구상 메뉴의 "농업"에 대한 단축키입니다.</Architect_DZ_Husbandry.description>
+  <Architect_DZ_Industrial.label>산업 창</Architect_DZ_Industrial.label>
+  <Architect_DZ_Industrial.description>구상 메뉴의 "산업"에 대한 단축키입니다.</Architect_DZ_Industrial.description>
+  <Architect_DZ_Storage.label>저장 창</Architect_DZ_Storage.label>
+  <Architect_DZ_Storage.description>구상 메뉴의 "저장"에 대한 단축키입니다.</Architect_DZ_Storage.description>
+  <Architect_DZ_Lighting.label>조명 창</Architect_DZ_Lighting.label>
+  <Architect_DZ_Lighting.description>구상 메뉴의 "조명"에 대한 단축키입니다.</Architect_DZ_Lighting.description>
+
+</LanguageData>

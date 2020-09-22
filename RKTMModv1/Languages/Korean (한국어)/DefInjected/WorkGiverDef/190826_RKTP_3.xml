@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1240656304_190617_Lighter Than Fast-->
+  <DoBillsEngieBench.label>태우고, 녹이고, 모든 것을 태우기</DoBillsEngieBench.label>
+  <DoBillsEngieBench.verb>설계</DoBillsEngieBench.verb>
+  <DoBillsEngieBench.gerund>설계중</DoBillsEngieBench.gerund>
+  <WorkGiver_LTF_MindMine.label>정신 지배</WorkGiver_LTF_MindMine.label>
+  <WorkGiver_LTF_MindMine.verb>누군가를 정신지배</WorkGiver_LTF_MindMine.verb>
+  <WorkGiver_LTF_MindMine.gerund>정신 지배</WorkGiver_LTF_MindMine.gerund>
+  <DoBillsStoneStove.label>태우고, 녹이고, 모든 것을 태워버림</DoBillsStoneStove.label>
+  <DoBillsStoneStove.verb>녹임</DoBillsStoneStove.verb>
+  <DoBillsStoneStove.gerund>녹이는/태우는 중</DoBillsStoneStove.gerund>
+  <LTF_TakeBeerOutOfFermentingBarrel.label>슬러그 발효 용기에서 발효물질 꺼내는 중</LTF_TakeBeerOutOfFermentingBarrel.label>
+  <LTF_TakeBeerOutOfFermentingBarrel.verb>슬러그 분비물 꺼내는 중</LTF_TakeBeerOutOfFermentingBarrel.verb>
+  <LTF_TakeBeerOutOfFermentingBarrel.gerund>슬러그 분비물 채취</LTF_TakeBeerOutOfFermentingBarrel.gerund>
+  <LTF_FillFermentingBarrel.label>슬러그 발효용기 채우는 중</LTF_FillFermentingBarrel.label>
+  <LTF_FillFermentingBarrel.verb>채움</LTF_FillFermentingBarrel.verb>
+  <LTF_FillFermentingBarrel.gerund>채우는 중</LTF_FillFermentingBarrel.gerund>
+  <DoBillsYarnMaker.label>실 뽑는 중</DoBillsYarnMaker.label>
+  <DoBillsYarnMaker.verb>실 추출</DoBillsYarnMaker.verb>
+  <DoBillsYarnMaker.gerund>실 추출</DoBillsYarnMaker.gerund>
+  <WorkGiver_ShieldBench.label>차폐 작업대에 동기화 하여 차폐층을 형성</WorkGiver_ShieldBench.label>
+  <WorkGiver_ShieldBench.verb>차폐층 형성</WorkGiver_ShieldBench.verb>
+  <WorkGiver_ShieldBench.gerund>차폐층 형성</WorkGiver_ShieldBench.gerund>
+
+  <!--1294507772_190519_The Mantodean insectoid race-->
+  <DoBillsRefineryManto.label>화학 정제소에서 작업</DoBillsRefineryManto.label>
+  <DoBillsRefineryManto.verb>화학물질 정제</DoBillsRefineryManto.verb>
+  <DoBillsRefineryManto.gerund>화학물질 정제</DoBillsRefineryManto.gerund>
+  <DoBillsSmelterManto.label>물건 용해</DoBillsSmelterManto.label>
+  <DoBillsSmelterManto.verb>정제</DoBillsSmelterManto.verb>
+  <DoBillsSmelterManto.gerund>정제</DoBillsSmelterManto.gerund>
+  <DoBillsCookJelly.label>곤충젤리 제조기에서 젤리 생산</DoBillsCookJelly.label>
+  <DoBillsCookJelly.verb>젤리 생산</DoBillsCookJelly.verb>
+  <DoBillsCookJelly.gerund>젤리 생산</DoBillsCookJelly.gerund>
+  <DoBillsCraftMutagen.label>유기체공학 작업대에서 작업</DoBillsCraftMutagen.label>
+  <DoBillsCraftMutagen.verb>화학물질 혼합</DoBillsCraftMutagen.verb>
+  <DoBillsCraftMutagen.gerund>화학물질 혼합</DoBillsCraftMutagen.gerund>
+
+  <!--1314474881_181118_Avali-->
+  <DoBillsAvaliNanoloom.label>직조</DoBillsAvaliNanoloom.label>
+  <DoBillsAvaliNanoloom.verb>직조</DoBillsAvaliNanoloom.verb>
+  <DoBillsAvaliNanoloom.gerund>직조</DoBillsAvaliNanoloom.gerund>
+  <DoBillsAvaliNanolathe.label>인쇄</DoBillsAvaliNanolathe.label>
+  <DoBillsAvaliNanolathe.verb>인쇄</DoBillsAvaliNanolathe.verb>
+  <DoBillsAvaliNanolathe.gerund>인쇄</DoBillsAvaliNanolathe.gerund>
+
+  <!--1365540920_190714_Black Widows-->
+  <MilkyLover.label>실크 애호가</MilkyLover.label>
+  <MilkyLover.verb>수확</MilkyLover.verb>
+  <MilkyLover.gerund>수확 중</MilkyLover.gerund>
+  <TakeWineofMemoriesOutOfFermentingBarrel.label>발효통에서 생산물을 꺼내는 중,</TakeWineofMemoriesOutOfFermentingBarrel.label>
+  <TakeWineofMemoriesOutOfFermentingBarrel.verb>생산물 꺼냄</TakeWineofMemoriesOutOfFermentingBarrel.verb>
+  <TakeWineofMemoriesOutOfFermentingBarrel.gerund>다음에서 생산물 꺼냄</TakeWineofMemoriesOutOfFermentingBarrel.gerund>
+  <FillWineofMemoriesFermentingBarrel.label>발효통 재우는 중</FillWineofMemoriesFermentingBarrel.label>
+  <FillWineofMemoriesFermentingBarrel.verb>채우기</FillWineofMemoriesFermentingBarrel.verb>
+  <FillWineofMemoriesFermentingBarrel.gerund>채우는 중</FillWineofMemoriesFermentingBarrel.gerund>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <LotRD_TakeMeadOutOfFermentingBarrel.label>발효통에서 드워프 벌꿀 술 꺼내기</LotRD_TakeMeadOutOfFermentingBarrel.label>
+  <LotRD_TakeMeadOutOfFermentingBarrel.verb>드워프 벌꿀 술 꺼내기</LotRD_TakeMeadOutOfFermentingBarrel.verb>
+  <LotRD_TakeMeadOutOfFermentingBarrel.gerund>드워프 벌꿀 술 꺼내는 중 :</LotRD_TakeMeadOutOfFermentingBarrel.gerund>
+  <LotRD_FillFermentingBarrel.label>발효통 채우기</LotRD_FillFermentingBarrel.label>
+  <LotRD_FillFermentingBarrel.verb>채우기</LotRD_FillFermentingBarrel.verb>
+  <LotRD_FillFermentingBarrel.gerund>채우는 중</LotRD_FillFermentingBarrel.gerund>
+
+  <!--1416483638_190811_Orassans-->
+  <DoBillsOrassanMachiningTable.label>작업하기</DoBillsOrassanMachiningTable.label>
+  <DoBillsOrassanMachiningTable.verb>작업을 합니다.</DoBillsOrassanMachiningTable.verb>
+  <DoBillsOrassanMachiningTable.gerund>작업 중.</DoBillsOrassanMachiningTable.gerund>
+  <DoBillsConcreteMix.label>콘크리트 섞기</DoBillsConcreteMix.label>
+  <DoBillsConcreteMix.verb>콘크리트를 섞습니다.</DoBillsConcreteMix.verb>
+  <DoBillsConcreteMix.gerund>콘크리트 섞는 중.</DoBillsConcreteMix.gerund>
+
+  <!--1468290672_181114_Troll Race-->
+  <DoBillsCookCampfirePTroll.label>요리</DoBillsCookCampfirePTroll.label>
+  <DoBillsCookCampfirePTroll.verb>요리</DoBillsCookCampfirePTroll.verb>
+  <DoBillsCookCampfirePTroll.gerund>요리</DoBillsCookCampfirePTroll.gerund>
+  <DoBillsButcherFleshPTroll.label>도축</DoBillsButcherFleshPTroll.label>
+  <DoBillsButcherFleshPTroll.verb>도축</DoBillsButcherFleshPTroll.verb>
+  <DoBillsButcherFleshPTroll.gerund>도축</DoBillsButcherFleshPTroll.gerund>
+
+  <!--1545178908_190519_Callistans(1.0)-->
+  <DoBillsSalvagingTable.label>분해자 작업대에서 물건을 만드는 중</DoBillsSalvagingTable.label>
+  <DoBillsSalvagingTable.verb>작업</DoBillsSalvagingTable.verb>
+  <DoBillsSalvagingTable.gerund>작업 중</DoBillsSalvagingTable.gerund>
+  <DoBillsCalCook.label>조리대에서 음식 만드는 중</DoBillsCalCook.label>
+  <DoBillsCalCook.verb>요리</DoBillsCalCook.verb>
+  <DoBillsCalCook.gerund>요리 중</DoBillsCalCook.gerund>
+  <DoBillsMakeCalApparel.label>옷 만드는 중</DoBillsMakeCalApparel.label>
+  <DoBillsMakeCalApparel.verb>재봉</DoBillsMakeCalApparel.verb>
+  <DoBillsMakeCalApparel.gerund>재봉 중</DoBillsMakeCalApparel.gerund>
+  <DoBillsCalStonecut.label>벽돌 만드는 중</DoBillsCalStonecut.label>
+  <DoBillsCalStonecut.verb>절삭</DoBillsCalStonecut.verb>
+  <DoBillsCalStonecut.gerund>석재 가공 중</DoBillsCalStonecut.gerund>
+  <DoBillsCalSmelter.label>물품 녹이는 중</DoBillsCalSmelter.label>
+  <DoBillsCalSmelter.verb>정제</DoBillsCalSmelter.verb>
+  <DoBillsCalSmelter.gerund>정제 중</DoBillsCalSmelter.gerund>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <RRY_DoBillsYautjaMachining.label>야우차 자원 제작</RRY_DoBillsYautjaMachining.label>
+  <RRY_DoBillsYautjaMachining.verb>자원 제작</RRY_DoBillsYautjaMachining.verb>
+  <RRY_DoBillsYautjaMachining.gerund>자원 제작</RRY_DoBillsYautjaMachining.gerund>
+  <RRY_RearmTraps.label>함정 재장전</RRY_RearmTraps.label>
+  <RRY_RearmTraps.verb>재장전</RRY_RearmTraps.verb>
+  <RRY_RearmTraps.gerund>재장전</RRY_RearmTraps.gerund>
+
+  <!--1571323744_190714_Crystalloid (Rewrite)-->
+  <DoBillsCrystalReconfigurationChamber.label>재구성 챔버에서 작업</DoBillsCrystalReconfigurationChamber.label>
+  <DoBillsCrystalReconfigurationChamber.verb>작업</DoBillsCrystalReconfigurationChamber.verb>
+  <DoBillsCrystalReconfigurationChamber.gerund>작업 중</DoBillsCrystalReconfigurationChamber.gerund>
+
+  <!--1785657108_190811_Humanoid Project-->
+  <BionicCabinet.label>고급 실험대에서 제작하는 중.</BionicCabinet.label>
+  <BionicCabinet.verb>제작</BionicCabinet.verb>
+  <BionicCabinet.gerund>제작 중</BionicCabinet.gerund>
+  <LaserCabinet.label>코스모스 작업대에서 제작하는 중.</LaserCabinet.label>
+  <LaserCabinet.verb>제작</LaserCabinet.verb>
+  <LaserCabinet.gerund>제작 중</LaserCabinet.gerund>
+
+</LanguageData>

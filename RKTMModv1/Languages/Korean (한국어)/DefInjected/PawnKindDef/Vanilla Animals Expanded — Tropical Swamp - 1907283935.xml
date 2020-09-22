@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_Alligator.label>민물악어</AEXP_Alligator.label>
+  <AEXP_Alligator.labelPlural>민물악어들</AEXP_Alligator.labelPlural>
+  <AEXP_Alligator.lifeStages.0.label>민물악어</AEXP_Alligator.lifeStages.0.label>
+  <AEXP_Alligator.lifeStages.0.labelPlural>민물악어</AEXP_Alligator.lifeStages.0.labelPlural>
+  <AEXP_Alligator.lifeStages.0.labelMale>수컷 민물악어</AEXP_Alligator.lifeStages.0.labelMale>
+  <AEXP_Alligator.lifeStages.0.labelMalePlural>수컷 민물악어들</AEXP_Alligator.lifeStages.0.labelMalePlural>
+  <AEXP_Alligator.lifeStages.0.labelFemale>암컷 민물악어</AEXP_Alligator.lifeStages.0.labelFemale>
+  <AEXP_Alligator.lifeStages.0.labelFemalePlural>암컷 민물악어들</AEXP_Alligator.lifeStages.0.labelFemalePlural>
+  <AEXP_Alligator.lifeStages.1.label>민물악어</AEXP_Alligator.lifeStages.1.label>
+  <AEXP_Alligator.lifeStages.1.labelPlural>민물악어</AEXP_Alligator.lifeStages.1.labelPlural>
+  <AEXP_Alligator.lifeStages.1.labelMale>수컷 민물악어</AEXP_Alligator.lifeStages.1.labelMale>
+  <AEXP_Alligator.lifeStages.1.labelMalePlural>수컷 민물악어들</AEXP_Alligator.lifeStages.1.labelMalePlural>
+  <AEXP_Alligator.lifeStages.1.labelFemale>암컷 민물악어</AEXP_Alligator.lifeStages.1.labelFemale>
+  <AEXP_Alligator.lifeStages.1.labelFemalePlural>암컷 민물악어들</AEXP_Alligator.lifeStages.1.labelFemalePlural>
+  <AEXP_Alligator.lifeStages.2.label>민물악어</AEXP_Alligator.lifeStages.2.label>
+  <AEXP_Alligator.lifeStages.2.labelPlural>민물악어</AEXP_Alligator.lifeStages.2.labelPlural>
+  <AEXP_Alligator.lifeStages.2.labelMale>수컷 민물악어</AEXP_Alligator.lifeStages.2.labelMale>
+  <AEXP_Alligator.lifeStages.2.labelMalePlural>수컷 민물악어들</AEXP_Alligator.lifeStages.2.labelMalePlural>
+  <AEXP_Alligator.lifeStages.2.labelFemale>암컷 민물악어</AEXP_Alligator.lifeStages.2.labelFemale>
+  <AEXP_Alligator.lifeStages.2.labelFemalePlural>암컷 민물악어들</AEXP_Alligator.lifeStages.2.labelFemalePlural>
+  <AEXP_Alligator.labelMale>수컷 민물악어</AEXP_Alligator.labelMale>
+  <AEXP_Alligator.labelMalePlural>수컷 민물악어들</AEXP_Alligator.labelMalePlural>
+  <AEXP_Alligator.labelFemale>암컷 민물악어</AEXP_Alligator.labelFemale>
+  <AEXP_Alligator.labelFemalePlural>암컷 민물악어들</AEXP_Alligator.labelFemalePlural>
+  <AEXP_Anaconda.label>아나콘다</AEXP_Anaconda.label>
+  <AEXP_Anaconda.labelPlural>아나콘다들</AEXP_Anaconda.labelPlural>
+  <AEXP_Anaconda.lifeStages.0.label>아나콘다</AEXP_Anaconda.lifeStages.0.label>
+  <AEXP_Anaconda.lifeStages.0.labelPlural>아나콘다</AEXP_Anaconda.lifeStages.0.labelPlural>
+  <AEXP_Anaconda.lifeStages.0.labelMale>수컷 아나콘다</AEXP_Anaconda.lifeStages.0.labelMale>
+  <AEXP_Anaconda.lifeStages.0.labelMalePlural>수컷 아나콘다들</AEXP_Anaconda.lifeStages.0.labelMalePlural>
+  <AEXP_Anaconda.lifeStages.0.labelFemale>암컷 아나콘다</AEXP_Anaconda.lifeStages.0.labelFemale>
+  <AEXP_Anaconda.lifeStages.0.labelFemalePlural>암컷 아나콘다들</AEXP_Anaconda.lifeStages.0.labelFemalePlural>
+  <AEXP_Anaconda.lifeStages.1.label>아나콘다</AEXP_Anaconda.lifeStages.1.label>
+  <AEXP_Anaconda.lifeStages.1.labelPlural>아나콘다</AEXP_Anaconda.lifeStages.1.labelPlural>
+  <AEXP_Anaconda.lifeStages.1.labelMale>수컷 아나콘다</AEXP_Anaconda.lifeStages.1.labelMale>
+  <AEXP_Anaconda.lifeStages.1.labelMalePlural>수컷 아나콘다들</AEXP_Anaconda.lifeStages.1.labelMalePlural>
+  <AEXP_Anaconda.lifeStages.1.labelFemale>암컷 아나콘다</AEXP_Anaconda.lifeStages.1.labelFemale>
+  <AEXP_Anaconda.lifeStages.1.labelFemalePlural>암컷 아나콘다들</AEXP_Anaconda.lifeStages.1.labelFemalePlural>
+  <AEXP_Anaconda.lifeStages.2.label>아나콘다</AEXP_Anaconda.lifeStages.2.label>
+  <AEXP_Anaconda.lifeStages.2.labelPlural>아나콘다</AEXP_Anaconda.lifeStages.2.labelPlural>
+  <AEXP_Anaconda.lifeStages.2.labelMale>수컷 아나콘다</AEXP_Anaconda.lifeStages.2.labelMale>
+  <AEXP_Anaconda.lifeStages.2.labelMalePlural>수컷 아나콘다들</AEXP_Anaconda.lifeStages.2.labelMalePlural>
+  <AEXP_Anaconda.lifeStages.2.labelFemale>암컷 아나콘다</AEXP_Anaconda.lifeStages.2.labelFemale>
+  <AEXP_Anaconda.lifeStages.2.labelFemalePlural>암컷 아나콘다들</AEXP_Anaconda.lifeStages.2.labelFemalePlural>
+  <AEXP_Anaconda.labelMale>수컷 아나콘다</AEXP_Anaconda.labelMale>
+  <AEXP_Anaconda.labelMalePlural>수컷 아나콘다들</AEXP_Anaconda.labelMalePlural>
+  <AEXP_Anaconda.labelFemale>암컷 아나콘다</AEXP_Anaconda.labelFemale>
+  <AEXP_Anaconda.labelFemalePlural>암컷 아나콘다들</AEXP_Anaconda.labelFemalePlural>
+  <AEXP_IndianElephant.label>인도 코끼리</AEXP_IndianElephant.label>
+  <AEXP_IndianElephant.labelPlural>인도 코끼리들</AEXP_IndianElephant.labelPlural>
+  <AEXP_IndianElephant.lifeStages.0.label>새끼 인도 코끼리</AEXP_IndianElephant.lifeStages.0.label>
+  <AEXP_IndianElephant.lifeStages.0.labelPlural>새끼 인도 코끼리들</AEXP_IndianElephant.lifeStages.0.labelPlural>
+  <AEXP_IndianElephant.lifeStages.0.labelMale>수컷 새끼 인도 코끼리</AEXP_IndianElephant.lifeStages.0.labelMale>
+  <AEXP_IndianElephant.lifeStages.0.labelMalePlural>수컷 새끼 인도 코끼리들</AEXP_IndianElephant.lifeStages.0.labelMalePlural>
+  <AEXP_IndianElephant.lifeStages.0.labelFemale>암컷 새끼 인도 코끼리</AEXP_IndianElephant.lifeStages.0.labelFemale>
+  <AEXP_IndianElephant.lifeStages.0.labelFemalePlural>암컷 새끼 인도 코끼리들</AEXP_IndianElephant.lifeStages.0.labelFemalePlural>
+  <AEXP_IndianElephant.lifeStages.1.label>인도 코끼리</AEXP_IndianElephant.lifeStages.1.label>
+  <AEXP_IndianElephant.lifeStages.1.labelPlural>인도 코끼리</AEXP_IndianElephant.lifeStages.1.labelPlural>
+  <AEXP_IndianElephant.lifeStages.1.labelMale>수컷 인도 코끼리</AEXP_IndianElephant.lifeStages.1.labelMale>
+  <AEXP_IndianElephant.lifeStages.1.labelMalePlural>수컷 인도 코끼리들</AEXP_IndianElephant.lifeStages.1.labelMalePlural>
+  <AEXP_IndianElephant.lifeStages.1.labelFemale>암컷 인도 코끼리</AEXP_IndianElephant.lifeStages.1.labelFemale>
+  <AEXP_IndianElephant.lifeStages.1.labelFemalePlural>암컷 인도 코끼리들</AEXP_IndianElephant.lifeStages.1.labelFemalePlural>
+  <AEXP_IndianElephant.lifeStages.2.label>인도 코끼리</AEXP_IndianElephant.lifeStages.2.label>
+  <AEXP_IndianElephant.lifeStages.2.labelPlural>인도 코끼리</AEXP_IndianElephant.lifeStages.2.labelPlural>
+  <AEXP_IndianElephant.lifeStages.2.labelMale>수컷 인도 코끼리</AEXP_IndianElephant.lifeStages.2.labelMale>
+  <AEXP_IndianElephant.lifeStages.2.labelMalePlural>수컷 인도 코끼리들</AEXP_IndianElephant.lifeStages.2.labelMalePlural>
+  <AEXP_IndianElephant.lifeStages.2.labelFemale>암컷 인도 코끼리</AEXP_IndianElephant.lifeStages.2.labelFemale>
+  <AEXP_IndianElephant.lifeStages.2.labelFemalePlural>암컷 인도 코끼리들</AEXP_IndianElephant.lifeStages.2.labelFemalePlural>
+  <AEXP_IndianElephant.labelMale>수컷 인도 코끼리</AEXP_IndianElephant.labelMale>
+  <AEXP_IndianElephant.labelMalePlural>수컷 인도 코끼리들</AEXP_IndianElephant.labelMalePlural>
+  <AEXP_IndianElephant.labelFemale>암컷 인도 코끼리</AEXP_IndianElephant.labelFemale>
+  <AEXP_IndianElephant.labelFemalePlural>암컷 인도 코끼리들</AEXP_IndianElephant.labelFemalePlural>
+
+</LanguageData>

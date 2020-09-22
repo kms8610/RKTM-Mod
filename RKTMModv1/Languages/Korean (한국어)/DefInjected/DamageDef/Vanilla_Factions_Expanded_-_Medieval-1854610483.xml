@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_CutBlackKnight.label>잘림</VFEM_CutBlackKnight.label>
+  <VFEM_CutBlackKnight.deathMessage>{0}(이)가 잘려 죽었습니다.</VFEM_CutBlackKnight.deathMessage>
+
+</LanguageData>

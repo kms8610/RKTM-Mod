@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1076950211_190811_Therapy-->
+  <Therapist.label>상담가</Therapist.label>
+  <Therapist.description>정착지 사람들이 정신적 충격과 중독 등을 극복하도록 도와줍니다.</Therapist.description>
+  <Therapist.labelShort>상담가</Therapist.labelShort>
+  <Therapist.pawnLabel>상담가</Therapist.pawnLabel>
+  <Therapist.gerundLabel>상담중</Therapist.gerundLabel>
+  <Therapist.verb>상담</Therapist.verb>
+
+  <!--1505914869_190616_What the hack!-->
+  <WTH_Hack.label>해킹</WTH_Hack.label>
+  <WTH_Hack.description>메카노이드 해킹 및 개조</WTH_Hack.description>
+  <WTH_Hack.labelShort>해킹</WTH_Hack.labelShort>
+  <WTH_Hack.pawnLabel>해킹</WTH_Hack.pawnLabel>
+  <WTH_Hack.gerundLabel>해킹하기</WTH_Hack.gerundLabel>
+  <WTH_Hack.verb>해킹</WTH_Hack.verb>
+
+  <!--1539311991_190814_Fishing-->
+  <Fishing.label>낚시질</Fishing.label>
+  <Fishing.description>어부는 다리 위에서 낚시대로 물고기를 낚습니다.</Fishing.description>
+  <Fishing.labelShort>낚시질</Fishing.labelShort>
+  <Fishing.pawnLabel>어부</Fishing.pawnLabel>
+  <Fishing.gerundLabel>낚시</Fishing.gerundLabel>
+  <Fishing.verb>낚시질</Fishing.verb>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu_Cleaning.label>청소하기</Mizu_Cleaning.label>
+  <Mizu_Cleaning.labelShort>청소</Mizu_Cleaning.labelShort>
+  <Mizu_Cleaning.verb>청소</Mizu_Cleaning.verb>
+  <Mizu_Cleaning.description>도구로 바닥 청소</Mizu_Cleaning.description>
+  <Mizu_Cleaning.pawnLabel>청소</Mizu_Cleaning.pawnLabel>
+  <Mizu_Cleaning.gerundLabel>청소하는 중</Mizu_Cleaning.gerundLabel>
+  <Mizu_Drawing.label>물긷기</Mizu_Drawing.label>
+  <Mizu_Drawing.labelShort>물긷기</Mizu_Drawing.labelShort>
+  <Mizu_Drawing.verb>물 긷기</Mizu_Drawing.verb>
+  <Mizu_Drawing.pawnLabel>물긷기</Mizu_Drawing.pawnLabel>
+  <Mizu_Drawing.gerundLabel>물긷는 중</Mizu_Drawing.gerundLabel>
+  <Mizu_Drawing.description>식수를 위해 물을 길어옴</Mizu_Drawing.description>
+
+  <!--1543177113_190628_Quarry-->
+  <QuarryMining.description>채석장의 땅을 파서 광물이나 묻혀있는 자원을 파냅니다.</QuarryMining.description>
+  <QuarryMining.verb>채석장 채굴</QuarryMining.verb>
+  <QuarryMining.pawnLabel>광부</QuarryMining.pawnLabel>
+  <QuarryMining.gerundLabel>채굴</QuarryMining.gerundLabel>
+  <QuarryMining.label>채석장</QuarryMining.label>
+  <QuarryMining.labelShort>채석장</QuarryMining.labelShort>
+
+  <!--1671814939_190519_Beta Traps-->
+  <Rearm.label>함정 재장전</Rearm.label>
+  <Rearm.labelShort>함정 재장전</Rearm.labelShort>
+  <Rearm.verb>함정 재장전</Rearm.verb>
+  <Rearm.description>사용된 함정 재장전</Rearm.description>
+  <Rearm.pawnLabel>함정 재장전</Rearm.pawnLabel>
+  <Rearm.gerundLabel>함정 재장전하기</Rearm.gerundLabel>
+
+  <!--1706030487_190519_Human Power Generator-->
+  <HPGMGenerate.label>인력 발전기</HPGMGenerate.label>
+  <HPGMGenerate.labelShort>싸이클</HPGMGenerate.labelShort>
+  <HPGMGenerate.description>자전거를 사용해 전력 생산</HPGMGenerate.description>
+  <HPGMGenerate.gerundLabel>전력 생산하기</HPGMGenerate.gerundLabel>
+  <HPGMGenerate.pawnLabel>인력 발전 노동자</HPGMGenerate.pawnLabel>
+  <HPGMGenerate.verb>작업</HPGMGenerate.verb>
+
+  <!--1778162471_190626_RazzleDazzle-->
+  <Performance.label>공연</Performance.label>
+  <Performance.description>예능인들에게 연극, 연주회, 코미디 무대를 제공합니다.</Performance.description>
+  <Performance.labelShort>공연</Performance.labelShort>
+  <Performance.pawnLabel>공연자</Performance.pawnLabel>
+  <Performance.gerundLabel>공연</Performance.gerundLabel>
+  <Performance.verb>공연</Performance.verb>
+
+  <!--715565262_181031_Colony Manager-->
+  <Managing.verb>관리</Managing.verb>
+  <Managing.pawnLabel>관리자</Managing.pawnLabel>
+  <Managing.description>관리자는 정착지에서 작업을 할당하고 지시를 내립니다.</Managing.description>
+  <Managing.label>관리</Managing.label>
+  <Managing.labelShort>관리</Managing.labelShort>
+  <Managing.gerundLabel>관리</Managing.gerundLabel>
+
+</LanguageData>

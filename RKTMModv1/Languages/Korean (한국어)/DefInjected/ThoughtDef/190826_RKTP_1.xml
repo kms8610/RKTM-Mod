@@ -1,0 +1,1064 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1076950211_190811_Therapy-->
+  <TherapyRelieved.stages.0.label>내 괴로움을 털어놓음</TherapyRelieved.stages.0.label>
+  <TherapyRelieved.stages.0.description>내 분노와 걱정에 대해서 누군가에게 솔직하게 털어놓을 수 있었어.</TherapyRelieved.stages.0.description>
+
+  <!--1115882219_190816_Rim of Madness - Werewolves-->
+  <ROMWW_SawFullMoon.stages.0.label>아름다운 보름달</ROMWW_SawFullMoon.stages.0.label>
+  <ROMWW_SawFullMoon.stages.0.description>이 얼마나 황홀한 모습인가!</ROMWW_SawFullMoon.stages.0.description>
+
+  <!--1140051385_181113_Smokeleaf_Industry-->
+  <AdvancedEdiblesWithdrawal.stages.1.description>…더…주세요...</AdvancedEdiblesWithdrawal.stages.1.description>
+  <AdvancedEdiblesWithdrawal.stages.1.label>고급 식품 금단현상</AdvancedEdiblesWithdrawal.stages.1.label>
+  <AteInfusedMeal.stages.0.label>첨가 식품을 먹음</AteInfusedMeal.stages.0.label>
+  <CHOWithdrawal.stages.1.label>C.H.O. 금단현상</CHOWithdrawal.stages.1.label>
+  <CannagarWithdrawal.stages.1.label>간이 연초 금단현상</CannagarWithdrawal.stages.1.label>
+  <CrudeJointWithdrawal.stages.1.label>간이 연초 금단현상</CrudeJointWithdrawal.stages.1.label>
+  <EdiblesWithdrawal.stages.1.label>식품 금단현상</EdiblesWithdrawal.stages.1.label>
+  <HashWithdrawal.stages.1.label>해쉬 금단현상</HashWithdrawal.stages.1.label>
+  <CannagarHigh.stages.0.label>연초잎 시가에 취함</CannagarHigh.stages.0.label>
+  <CrudeJointHigh.stages.0.label>간이 연초에 취함</CrudeJointHigh.stages.0.label>
+  <EdiblesHigh.stages.0.label>식품에 취함</EdiblesHigh.stages.0.label>
+  <HashHigh.stages.0.label>해쉬에 취함</HashHigh.stages.0.label>
+  <CHOHigh.stages.0.label>연초잎에 취함</CHOHigh.stages.0.label>
+  <SmokeleafDistillateHigh.stages.0.description>어머나 씨발.</SmokeleafDistillateHigh.stages.0.description>
+  <SmokeleafPillsBuzz.stages.0.description>훨씬 낫네.</SmokeleafPillsBuzz.stages.0.description>
+  <CannagarWithdrawal.stages.1.description>이거 하나 피우려고 진짜 2주를 기다려야 한다고?!</CannagarWithdrawal.stages.1.description>
+  <CrudeJointWithdrawal.stages.1.description>한 대 피우고 싶다.</CrudeJointWithdrawal.stages.1.description>
+  <AdvancedEdiblesHigh.stages.0.description>누워야 될 것 같아...</AdvancedEdiblesHigh.stages.0.description>
+  <CHOWithdrawal.stages.1.description>더 하고 싶어...</CHOWithdrawal.stages.1.description>
+  <HashHigh.stages.0.description>좀 빡세긴 한데, 훅 가긴 하네.</HashHigh.stages.0.description>
+  <SmokeleafLotionRelief.stages.0.description>쑤시고 아픈 게 싹 가셨어.</SmokeleafLotionRelief.stages.0.description>
+  <AdvancedEdiblesHigh.stages.0.label>식품에 쩔음</AdvancedEdiblesHigh.stages.0.label>
+  <TinctureBuzz.stages.0.label>팅크제로 안정됨</TinctureBuzz.stages.0.label>
+  <SmokeleafDistillateWithdrawal.stages.1.label>연초잎 증류액 금단현상</SmokeleafDistillateWithdrawal.stages.1.label>
+  <AteInfusedMeal.stages.0.description>이 밥 맛있었어! 기분이 아주 좋아!</AteInfusedMeal.stages.0.description>
+  <TinctureBuzz.stages.0.description>약이 통증에 잘 듣네.</TinctureBuzz.stages.0.description>
+  <CrudeJointHigh.stages.0.description>이거 땜에 두통이 오네.</CrudeJointHigh.stages.0.description>
+  <HashWithdrawal.stages.1.description>여긴 너무 지루해, 해쉬가 좀 더 있으면 좋겠는데</HashWithdrawal.stages.1.description>
+  <CannagarHigh.stages.0.description>이. 거. 대. 박!</CannagarHigh.stages.0.description>
+  <SmokeleafPillsBuzz.stages.0.label>연초잎 알약을 복용함</SmokeleafPillsBuzz.stages.0.label>
+  <SmokeleafLotionRelief.stages.0.label>연초잎 로션을 사용함</SmokeleafLotionRelief.stages.0.label>
+  <SmokeleafDistillateHigh.stages.0.label>증류액에 아아아아아주 취함</SmokeleafDistillateHigh.stages.0.label>
+  <SmokeleafDistillateWithdrawal.stages.1.description>기다리자…평소처럼...</SmokeleafDistillateWithdrawal.stages.1.description>
+  <EdiblesWithdrawal.stages.1.description>그 많던 브라우니가 다 어디로 간거야?</EdiblesWithdrawal.stages.1.description>
+  <EdiblesHigh.stages.0.description>우와. 이거 맛있다.</EdiblesHigh.stages.0.description>
+  <CHOHigh.stages.0.description>우와…나 훅갔다...</CHOHigh.stages.0.description>
+
+  <!--1180721235_190627_[KV] RimFridge-->
+  <FrostyBeer.stages.0.label>시원한 음료를 마심</FrostyBeer.stages.0.label>
+  <FrostyBeer.stages.0.description>차가운 음료만 한 게 없지!</FrostyBeer.stages.0.description>
+
+  <!--1187010034_181028_Rim of Madness - Vampires-->
+  <ROMV_KnowColonistDiedOfBloodLoss.stages.1.description>몸에서 피를 모두 빼내서 정착민이 사망했어. 끔찍해.</ROMV_KnowColonistDiedOfBloodLoss.stages.1.description>
+  <ROMV_KnowColonistDiedOfBloodLoss.stages.0.description>정착민의 피가 모두 뽑혔어. 정당했지만, 죽기엔 여전히 잔혹한 방법이야.</ROMV_KnowColonistDiedOfBloodLoss.stages.0.description>
+  <ROMV_KnowGuestDiedOfBloodLoss.stages.0.description>유죄판명된 죄수나 손님의 피가 고갈되었어. 정당했지만, 죽기엔 여전히 잔혹한 방법이야.</ROMV_KnowGuestDiedOfBloodLoss.stages.0.description>
+  <ROMV_KnowGuestDiedOfBloodLoss.stages.1.description>몸에서 피를 모두 빼내서 정착지의 죄수나 손님이 사망했어. 끔찍해.</ROMV_KnowGuestDiedOfBloodLoss.stages.1.description>
+  <ROMV_VampireLoreThought.stages.0.label>흡혈귀 지식을 얻음</ROMV_VampireLoreThought.stages.0.label>
+  <ROMV_IWasBittenByAVampire.stages.1.label>주인에게 물림</ROMV_IWasBittenByAVampire.stages.1.label>
+  <ROMV_IWasBittenByAVampire.stages.0.label>흡혈귀에게 물림</ROMV_IWasBittenByAVampire.stages.0.label>
+  <ROMV_BloodBondEnslavement.stages.0.label>피의 구속 단계:</ROMV_BloodBondEnslavement.stages.0.label>
+  <SoldMyBloodBondedOne.stages.0.label>내 구속물이 팔림</SoldMyBloodBondedOne.stages.0.label>
+  <ROMV_KnowColonistDiedOfBloodLoss.stages.1.label>정착민이 흡혈되어 사망함</ROMV_KnowColonistDiedOfBloodLoss.stages.1.label>
+  <ROMV_IConsumedASoul.stages.0.label>혼을 흡수함</ROMV_IConsumedASoul.stages.0.label>
+  <DestroyedMyChilde.stages.0.label>내 후손을 파괴함</DestroyedMyChilde.stages.0.label>
+  <DestroyedMySire.stages.0.label>내 주인을 파괴함</DestroyedMySire.stages.0.label>
+  <ROMV_VampireDiablerieAttemptThought.stages.0.label>디아블러리가 시도됨</ROMV_VampireDiablerieAttemptThought.stages.0.label>
+  <ROMV_WitnessedVampireFeeding.stages.0.description>방금 저 사람 목을 빨아 먹은거야?</ROMV_WitnessedVampireFeeding.stages.0.description>
+  <ROMV_IGaveTheKiss.stages.0.label>신선한 피를 마심</ROMV_IGaveTheKiss.stages.0.label>
+  <ROMV_BloodBondSocialBoost.stages.0.label>피를 마심</ROMV_BloodBondSocialBoost.stages.0.label>
+  <ROMV_IDrankVitae.stages.0.label>생명혈을 마심</ROMV_IDrankVitae.stages.0.label>
+  <ROMV_IGaveTheKiss.stages.0.description>이 얼마나 만족스러운가.</ROMV_IGaveTheKiss.stages.0.description>
+  <ROMV_VampireLoreThought.stages.0.description>벌써 더 유식해진 느낌이야. 또 어떤 비밀들이 있을까?</ROMV_VampireLoreThought.stages.0.description>
+  <ROMV_IWasBittenByAVampire.stages.1.description>내 피를 주인에게 주었어.</ROMV_IWasBittenByAVampire.stages.1.description>
+  <ROMV_IConsumedASoul.stages.0.description>지금 만큼 살아있음을 느낀 적이 없어!</ROMV_IConsumedASoul.stages.0.description>
+  <ROMV_VitaeWithdrawal.stages.1.description>세상이 다 창백해진 느낌이야. 소리지르고 싶어.</ROMV_VitaeWithdrawal.stages.1.description>
+  <ROMV_KnowGuestDiedOfBloodLoss.stages.0.label>정당한 채혈</ROMV_KnowGuestDiedOfBloodLoss.stages.0.label>
+  <ROMV_KnowColonistDiedOfBloodLoss.stages.0.label>정당한 채혈</ROMV_KnowColonistDiedOfBloodLoss.stages.0.label>
+  <ROMV_MyBloodHarvested.stages.0.label>내 혈액이 채취됨</ROMV_MyBloodHarvested.stages.0.label>
+  <MyChildeDestroyed.stages.0.label>내 후손 {0}(이)가 파괴됨</MyChildeDestroyed.stages.0.label>
+  <MyChildeDestroyed.stages.0.description>내 후손이 파괴되었어. 영원히 사라져버렸어.</MyChildeDestroyed.stages.0.description>
+  <MySireDestroyed.stages.0.label>내 주인 {0}(이)가 파괴됨</MySireDestroyed.stages.0.label>
+  <MySireDestroyed.stages.0.description>내 주인이 파괴되었어. 영원히 사라져버렸어.</MySireDestroyed.stages.0.description>
+  <ROMV_WitnessedVampireDiablerieVisitor.stages.0.description>저것들이 파괴되어야 할 증거야.</ROMV_WitnessedVampireDiablerieVisitor.stages.0.description>
+  <SoldMyBloodBondedOne.stages.0.labelSocial>내 구속물을 팔아버림</SoldMyBloodBondedOne.stages.0.labelSocial>
+  <ROMV_VampireDiablerieAttemptThought.stages.0.description>웬 괴물이 내 혼을 빨아먹으려 했어!</ROMV_VampireDiablerieAttemptThought.stages.0.description>
+  <ROMV_AttemptedToConsumeMySoul.stages.0.description>웬 괴물이 내 혼을 빨아먹으려 했어!</ROMV_AttemptedToConsumeMySoul.stages.0.description>
+  <ROMV_KnowGuestDiedOfBloodLoss.stages.1.label>누군가 흡혈되어 사망함</ROMV_KnowGuestDiedOfBloodLoss.stages.1.label>
+  <ROMV_WitnessedVampireFeedingVisitor.stages.0.description>누군가 이 짓을 끝내야 해.</ROMV_WitnessedVampireFeedingVisitor.stages.0.description>
+  <SoldMyBloodBondedOne.stages.0.description>누군가 나에게 구속된 것을 상인에게 팔아버렸어.</SoldMyBloodBondedOne.stages.0.description>
+  <ROMV_KnowGuestBloodHarvested.stages.0.label>누군가의 혈액이 채취됨</ROMV_KnowGuestBloodHarvested.stages.0.label>
+  <ROMV_ITastedASoul.stages.0.label>혼을 맛봄</ROMV_ITastedASoul.stages.0.label>
+  <ROMV_WitnessedVampireEmbrace.stages.0.description>저 사람은 살아있었는데, 죽었어. 그리고 이제는… 달라졌네. 비현실적이야.</ROMV_WitnessedVampireEmbrace.stages.0.description>
+  <ROMV_IDrankVitae.stages.0.description>기가 막혔어. 모든게 더 나아진 느낌이야. 더… 더 마셔야 해.</ROMV_IDrankVitae.stages.0.description>
+  <ROMV_MyBloodHarvested.stages.0.description>정착지에서 내 피를 빼앗았어. 어휴! 내가 누구라고 생각하는거야? 혈액은행이라도 되나?</ROMV_MyBloodHarvested.stages.0.description>
+  <ROMV_KnowGuestBloodHarvested.stages.0.description>정착지의 손님이나 죄수의 피를 채혈했어. 선택권이 없는 사람의 피를 빼앗는 것은 비윤리적이야.</ROMV_KnowGuestBloodHarvested.stages.0.description>
+  <ROMV_WitnessedVampireEmbraceVisitor.stages.0.description>이 짐승들은 끔찍한 괴물들이야. 파괴되는 광경을 볼 수 있으면 좋겠네.</ROMV_WitnessedVampireEmbraceVisitor.stages.0.description>
+  <ROMV_AttemptedToConsumeMySoul.stages.0.label>내 혼을 흡수하려 함</ROMV_AttemptedToConsumeMySoul.stages.0.label>
+  <ROMV_ITastedASoul.stages.0.description>진정으로 성스러운 맛이야!</ROMV_ITastedASoul.stages.0.description>
+  <ROMV_VitaeWithdrawal.stages.1.label>생명혈 금단현상</ROMV_VitaeWithdrawal.stages.1.label>
+  <ROMV_WitnessedVampireDiablerie.stages.0.description>방금 몸에서 뭐가 빠져나온거야?!</ROMV_WitnessedVampireDiablerie.stages.0.description>
+  <ROMV_WitnessedVampireDiablerie.stages.0.label>혼이 흡수되는 것을 목격함</ROMV_WitnessedVampireDiablerie.stages.0.label>
+  <ROMV_WitnessedVampireDiablerieVisitor.stages.0.label>혼이 흡수되는 것을 목격함</ROMV_WitnessedVampireDiablerieVisitor.stages.0.label>
+  <ROMV_WitnessedVampireFeeding.stages.0.label>흡혈귀의 흡혈을 목격함</ROMV_WitnessedVampireFeeding.stages.0.label>
+  <ROMV_WitnessedVampireFeedingVisitor.stages.0.label>흡혈귀의 흡혈을 목격함</ROMV_WitnessedVampireFeedingVisitor.stages.0.label>
+  <ROMV_WitnessedVampireEmbrace.stages.0.label>흡혈귀의 증식을 목격함</ROMV_WitnessedVampireEmbrace.stages.0.label>
+  <ROMV_WitnessedVampireEmbraceVisitor.stages.0.label>흡혈귀의 증식을 목격함</ROMV_WitnessedVampireEmbraceVisitor.stages.0.label>
+  <ROMV_IWasBittenByAVampire.stages.0.description>우와! 신난다!</ROMV_IWasBittenByAVampire.stages.0.description>
+
+  <!--1204502413_190521_Harvest Organs Post Mortem-->
+  <HarvestedHumanlikeCorpse.stages.0.description>사람의 몸을 동물처럼 해체했어.</HarvestedHumanlikeCorpse.stages.0.description>
+  <HarvestedHumanlikeCorpse.stages.0.label>인간 시체를 도축함</HarvestedHumanlikeCorpse.stages.0.label>
+  <KnowHarvestedHumanlikeCorpse.stages.0.description>장기 때문에 누군가를 도축했어. 좋은게 좋은거라지만... 끔찍해.</KnowHarvestedHumanlikeCorpse.stages.0.description>
+  <KnowHarvestedHumanlikeCorpse.stages.0.label>정착지에서 인간 시체 도축</KnowHarvestedHumanlikeCorpse.stages.0.label>
+
+  <!--1209071221_190627_Fallout Traits-->
+  <GunNutHappy.stages.0.label>총 덕후가 원거리 무기를 지님</GunNutHappy.stages.0.label>
+  <GunNutHappy.stages.0.description>난 총이 정말 좋아! 내가 어디 쏠만한게 없을까?</GunNutHappy.stages.0.description>
+
+  <!--1211694919_181106_Nature's Pretty Sweet-->
+  <TKKN_Superbloom.stages.0.description>나는 그곳에 얼마나 많은 꽃들이 있는지 믿을 수가 없어!</TKKN_Superbloom.stages.0.description>
+  <TKKN_Superbloom.stages.0.label>슈퍼블룸이야!</TKKN_Superbloom.stages.0.label>
+  <TKKN_WildFlowerBloom.stages.0.description>봄이 드디어 왔어!</TKKN_WildFlowerBloom.stages.0.description>
+  <TKKN_WildFlowerBloom.stages.0.label>야생화가 피고 있어</TKKN_WildFlowerBloom.stages.0.label>
+
+  <!--1304432145_190814_Clone Bay-->
+  <LTF_CloneRegister.stages.0.description>나는 그냥 대체품이야? 내가 살아있는게 그들에게 무슨 의미가 있지?</LTF_CloneRegister.stages.0.description>
+  <LTF_AnimalGrind.stages.0.label>역겨움</LTF_AnimalGrind.stages.0.label>
+  <LTF_CloneRegister.stages.0.label>등록됨</LTF_CloneRegister.stages.0.label>
+  <LTF_AnimalGrind.stages.0.description>저 고기 분쇄기는 구역질이 나. 이 피냄새.. 식욕이 떨어져. 팔도 잃고 말거야</LTF_AnimalGrind.stages.0.description>
+
+  <!--1364582731_190615_Medicines-->
+  <AdrenalineHigh.stages.0.label>아드레날린 주입됨</AdrenalineHigh.stages.0.label>
+  <AdrenalineHigh.stages.0.description>힘이 넘치는걸!</AdrenalineHigh.stages.0.description>
+  <AdrenalineWithdrawal.stages.1.label>아드레날린 금단 현상</AdrenalineWithdrawal.stages.1.label>
+  <AdrenalineWithdrawal.stages.1.description>계속 나른하고 몸이 무거워.</AdrenalineWithdrawal.stages.1.description>
+  <opioid3High.stages.0.label>헤로인에 취함</opioid3High.stages.0.label>
+  <opioid3High.stages.0.description>아주 황홀해. 천국같아..</opioid3High.stages.0.description>
+  <JoyHigh.stages.0.label>조이에 취함</JoyHigh.stages.0.label>
+  <JoyHigh.stages.0.description>정말 아름다운 날인걸..</JoyHigh.stages.0.description>
+  <JoyWithdrawal.stages.1.label>조이 금단 현상</JoyWithdrawal.stages.1.label>
+  <JoyWithdrawal.stages.1.description>모든게 다 잿빛으로 보여.</JoyWithdrawal.stages.1.description>
+  <opioid2High.stages.0.label>모르핀에 취함</opioid2High.stages.0.label>
+  <opioid2High.stages.0.description>훨씬 더 편안한걸. 기분 좋군.</opioid2High.stages.0.description>
+  <PeyoteHigh.stages.0.label>페요테 과실로 환각을 보는중</PeyoteHigh.stages.0.label>
+  <PeyoteHigh.stages.0.description>자연이 나에게 직접 말하고 있어.</PeyoteHigh.stages.0.description>
+  <PeyoteWithdrawal.stages.1.label>페요테 금단 현상</PeyoteWithdrawal.stages.1.label>
+  <PeyoteWithdrawal.stages.1.description>나 자신과 분리된것 같아.</PeyoteWithdrawal.stages.1.description>
+  <opioidHigh.stages.0.label>아편에 취함</opioidHigh.stages.0.label>
+  <opioidHigh.stages.0.description>평온하고 감각이 희미해.</opioidHigh.stages.0.description>
+  <opioidWithdrawal.stages.1.label>아편 금단 현상</opioidWithdrawal.stages.1.label>
+  <opioidWithdrawal.stages.1.description>눈이랑 근육이 당기고 집중을 못하겠어. 기분이 안좋아..</opioidWithdrawal.stages.1.description>
+  <TeaHigh.stages.0.label>장미차 온기</TeaHigh.stages.0.label>
+  <TeaHigh.stages.0.description>방금 그 차는 아주 독특한 맛이였어. 마음에 꽤 드는걸.</TeaHigh.stages.0.description>
+
+  <!--1437612522_190519_[XND] Memorable Auroras-->
+  <ObservedAurora.stages.0.description>이렇게 아름다운 광경을 보게 되다니 믿을 수가 없어.</ObservedAurora.stages.0.description>
+  <ObservedAurora.stages.0.label>오로라를 목격함</ObservedAurora.stages.0.label>
+
+  <!--1485312620_190617_SYR - Coffee and Tee-->
+  <SyrCaffeineWithdrawal.stages.1.label>카페인 금단 현상</SyrCaffeineWithdrawal.stages.1.label>
+  <SyrCaffeineWithdrawal.stages.1.description>피곤하고 집중이 잘 안되는데... 어디 커피 한 잔 없나?</SyrCaffeineWithdrawal.stages.1.description>
+  <SyrCoffeeHigh.stages.0.label>커피</SyrCoffeeHigh.stages.0.label>
+  <SyrCoffeeHigh.stages.0.description>커피를 한 잔 마시니, 온 몸에 활기가 도는 것 같아!</SyrCoffeeHigh.stages.0.description>
+  <SyrHotChocolateHigh.stages.0.label>핫 초코</SyrHotChocolateHigh.stages.0.label>
+  <SyrHotChocolateHigh.stages.0.description>맛있는 핫초코 한 잔을 마셨어! 기분이 나른하고, 몸이 따뜻해지는 것 같아.</SyrHotChocolateHigh.stages.0.description>
+  <SyrTeaHigh.stages.0.label>차</SyrTeaHigh.stages.0.label>
+  <SyrTeaHigh.stages.0.description>따뜻하고 향긋한 냄새가 기분을 좋게해줘. 몸도, 마음도 진정이 되는 기분이야.</SyrTeaHigh.stages.0.description>
+
+  <!--1497105115_190627_[SYR] Individuality-->
+  <ProsthophobeHappy.stages.0.label>순수주의자의 행복</ProsthophobeHappy.stages.0.label>
+  <FeelingRandom.stages.3.label>나쁜 기분</FeelingRandom.stages.3.label>
+  <FeelingRandom.stages.5.label>우울한 기분</FeelingRandom.stages.5.label>
+  <FeelingRandom.stages.2.label>좋은 기분</FeelingRandom.stages.2.label>
+  <FeelingRandom.stages.1.label>아주 좋은 기분</FeelingRandom.stages.1.label>
+  <FeelingRandom.stages.0.label>들뜬 기분</FeelingRandom.stages.0.label>
+  <FeelingRandom.stages.4.label>더러운 기분</FeelingRandom.stages.4.label>
+  <FeelingRandom.stages.0.description>별다른 이유 없이, 기분이 짱짱 좋아!</FeelingRandom.stages.0.description>
+  <FeelingRandom.stages.3.description>별다른 이유 없이, 기분이 나빠.</FeelingRandom.stages.3.description>
+  <FeelingRandom.stages.2.description>별다른 이유 없이, 기분이 좋아.</FeelingRandom.stages.2.description>
+  <FeelingRandom.stages.1.description>별다른 이유 없이, 기분이 아주 좋아.</FeelingRandom.stages.1.description>
+  <FeelingRandom.stages.4.description>별다른 이유 없이, 기분이 더러워.</FeelingRandom.stages.4.description>
+  <FeelingRandom.stages.5.description>별다른 이유 없이, 기분이 완전 우울해…</FeelingRandom.stages.5.description>
+  <WitnessedDeathMedic.stages.0.description>누군가 죽는 모습을 보았어! 끔찍해!</WitnessedDeathMedic.stages.0.description>
+  <ProsthophobeHappy.stages.0.description>순수하고 더렵혀지지 않은 내 몸은, 인공 신체 없이도 완벽해.</ProsthophobeHappy.stages.0.description>
+  <WitnessedDeathMedic.stages.0.label>의무병으로서 죽음을 목격함</WitnessedDeathMedic.stages.0.label>
+
+  <!--1507384362_190626_[KV] Consolidated Traits-->
+  <EnvironmentHotCL.stages.3.label>불에 타는 듯이 더움</EnvironmentHotCL.stages.3.label>
+  <EnvironmentHotHL.stages.3.label>불에 타는 듯이 더움</EnvironmentHotHL.stages.3.label>
+  <EnvironmentColdCL.stages.0.label>추움</EnvironmentColdCL.stages.0.label>
+  <EnvironmentColdHL.stages.0.label>추움</EnvironmentColdHL.stages.0.label>
+  <EnvironmentColdCL.stages.1.description>으음, 내 기준으로도 이건 좀 추운데.</EnvironmentColdCL.stages.1.description>
+  <EnvironmentHotHL.stages.2.description>음, 내 기준으로도 오늘은 좀 많이 덥네.</EnvironmentHotHL.stages.2.description>
+  <EnvironmentHotCL.stages.2.label>극도로 더움</EnvironmentHotCL.stages.2.label>
+  <EnvironmentHotHL.stages.2.label>극도로 더움</EnvironmentHotHL.stages.2.label>
+  <EnvironmentColdCL.stages.2.label>얼어붙음</EnvironmentColdCL.stages.2.label>
+  <EnvironmentColdHL.stages.2.label>얼어붙음</EnvironmentColdHL.stages.2.label>
+  <EnvironmentHotCL.stages.0.label>더움</EnvironmentHotCL.stages.0.label>
+  <EnvironmentHotHL.stages.0.label>더움</EnvironmentHotHL.stages.0.label>
+  <EnvironmentDarkNyctophobe.stages.0.description>아무것도 안보여! 이런건 정말 싫어...! 저, 저기 뭔가 움직인거 같은데...</EnvironmentDarkNyctophobe.stages.0.description>
+  <EnvironmentHotCL.stages.2.description>무슨 오븐속에 들어온 기분이야! 누구 하나 걸리기만 하면 죽여버릴거야!</EnvironmentHotCL.stages.2.description>
+  <EnvironmentHotCL.stages.3.description>내 몸이 타고있어! 이대로 불 타 죽을지도 몰라!</EnvironmentHotCL.stages.3.description>
+  <EnvironmentHotCL.stages.1.description>온 몸이 다 땀에 젖었어! 정말 불쾌하고 짜증나!</EnvironmentHotCL.stages.1.description>
+  <EnvironmentColdHL.stages.1.description>춥고... 몸이 덜덜 떨려... 제발 몸을 녹일 수 있다면...</EnvironmentColdHL.stages.1.description>
+  <EnvironmentColdHL.stages.0.description>너무... 추워...</EnvironmentColdHL.stages.0.description>
+  <EnvironmentDarkNyctophobe.stages.0.label>어둠 속</EnvironmentDarkNyctophobe.stages.0.label>
+  <EnvironmentDarkNyctophile.stages.0.label>어둠 속</EnvironmentDarkNyctophile.stages.0.label>
+  <EnvironmentColdHL.stages.2.description>입이 다 얼어붙어서 말도 못하겠어! 발가락에 감각이 없다고! 이러다 죽겠어! 당장 몸을 녹여야해!</EnvironmentColdHL.stages.2.description>
+  <EnvironmentHotHL.stages.3.description>좋아, 엄청 덥군. 썩 쾌적하지는 않아. 하지만 더 나쁠 수도 있잖아?</EnvironmentHotHL.stages.3.description>
+  <EnvironmentHotHL.stages.1.description>아, 좋아. 조금씩 따뜻해지는걸.</EnvironmentHotHL.stages.1.description>
+  <EnvironmentHotHL.stages.0.description>다들 이정도로 뭐가 덥다고 난리람. 난 좋은데.</EnvironmentHotHL.stages.0.description>
+  <EnvironmentColdCL.stages.0.description>다른 사람들이 어떨지는 모르겠지만, 난 이런 날씨가 정말 좋아. 상쾌해!</EnvironmentColdCL.stages.0.description>
+  <EnvironmentDarkNyctophile.stages.0.description>좋아. 시야가 좀 어둠기는 하지만, 남들은 이런 기분 이해 못할거야. 이 아늑한 기분이 얼마나 멋진데.</EnvironmentDarkNyctophile.stages.0.description>
+  <EnvironmentHotCL.stages.0.description>정말 불쾌해! 몸에 땀이 나고 있잖아!</EnvironmentHotCL.stages.0.description>
+  <EnvironmentColdCL.stages.1.label>매우 추움</EnvironmentColdCL.stages.1.label>
+  <EnvironmentColdHL.stages.1.label>매우 추움</EnvironmentColdHL.stages.1.label>
+  <EnvironmentHotCL.stages.1.label>매우 더움</EnvironmentHotCL.stages.1.label>
+  <EnvironmentHotHL.stages.1.label>매우 더움</EnvironmentHotHL.stages.1.label>
+  <EnvironmentColdCL.stages.2.description>좋아, 인정하지. 춥네. 그치만 이정도로 징징거릴 만한 일인가?</EnvironmentColdCL.stages.2.description>
+
+  <!--1522917562_190628_Vanilla-like wheat-->
+  <VLW_AteBlandMeal.stages.0.label>단조로운 식사</VLW_AteBlandMeal.stages.0.label>
+  <VLW_AteYummyCake.stages.0.label>케이크</VLW_AteYummyCake.stages.0.label>
+  <VLW_AteBlandMeal.stages.0.description>맛없는 식사를 했어. 살기위해서 어쩔 수 없다는건 알지만, 맛있는걸 먹고 싶어</VLW_AteBlandMeal.stages.0.description>
+  <VLW_AteYummyCake.stages.0.description>이 케이크는 맛있네!</VLW_AteYummyCake.stages.0.description>
+
+  <!--1539311991_190814_Fishing-->
+  <AteSushi.stages.0.label>맛있는 초밥을 먹음</AteSushi.stages.0.label>
+  <AteSushi.stages.0.description>초밥 한그릇을 먹었어. 꽤 맛있네.</AteSushi.stages.0.description>
+  <AteShellfish.stages.0.label>삶은 게를 먹음</AteShellfish.stages.0.label>
+  <AteShellfish.stages.0.description>삶은 게를 먹었어. 맛있다!</AteShellfish.stages.0.description>
+  <AteEscargot.stages.0.label>달팽이를 먹음</AteEscargot.stages.0.label>
+  <AteEscargot.stages.0.description>달팽이를 몇개를 먹었어. 확실히 꽤 맛있지만... 달팽이를 먹는다는 조금 이상하네.</AteEscargot.stages.0.description>
+  <AteShrimpScampi.stages.0.label>새우칠레를 먹음.</AteShrimpScampi.stages.0.label>
+  <AteShrimpScampi.stages.0.description>슐림프 스캔피(북미판 새우칠레)를 먹었어. 맛있다!</AteShrimpScampi.stages.0.description>
+  <AteCaviar.stages.0.label>캐비어를 먹음</AteCaviar.stages.0.label>
+  <AteCaviar.stages.0.description>캐비아를 실컷 먹었어. 물고기 알인데 호화롭네!</AteCaviar.stages.0.description>
+
+  <!--1541353047_190628_Zombiefied-->
+  <AteZombieMeatAsIngredient.stages.0.label>요리된 좀비고기를 먹음</AteZombieMeatAsIngredient.stages.0.label>
+  <AteZombieMeatDirect.stages.0.label>좀비고기 먹음</AteZombieMeatDirect.stages.0.label>
+  <AteZombieMeatAsIngredient.stages.0.description>양념으로 썩은 부위를 가리면 모를 줄 알았냐. 이딴걸 누가 먹어!</AteZombieMeatAsIngredient.stages.0.description>
+  <AteZombieMeatDirect.stages.0.description>내가 먹어본것 중 가장 역겨운 음식이었어.</AteZombieMeatDirect.stages.0.description>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu_AteIcyFoodInHotSeason.stages.0.label>더운 계절에 얼은 음식을 먹음</Mizu_AteIcyFoodInHotSeason.stages.0.label>
+  <Mizu_NeedWater.stages.7.label>탈수 (극심함)</Mizu_NeedWater.stages.7.label>
+  <Mizu_NeedWater.stages.4.label>탈수 (사소함)</Mizu_NeedWater.stages.4.label>
+  <Mizu_NeedWater.stages.5.label>탈수 (심함)</Mizu_NeedWater.stages.5.label>
+  <Mizu_NeedWater.stages.6.label>탈수 (심각함)</Mizu_NeedWater.stages.6.label>
+  <Mizu_NeedWater.stages.3.label>탈수(경미함)</Mizu_NeedWater.stages.3.label>
+  <Mizu_DrankClearWater.stages.0.label>맑은 물을 마심</Mizu_DrankClearWater.stages.0.label>
+  <Mizu_DrankMudWater.stages.0.label>흙탕물을 마심</Mizu_DrankMudWater.stages.0.label>
+  <Mizu_DrankScoopedWater.stages.0.label>물을 손으로 받아마심</Mizu_DrankScoopedWater.stages.0.label>
+  <Mizu_DrankSeaWater.stages.0.label>해수를 마심</Mizu_DrankSeaWater.stages.0.label>
+  <Mizu_AteIcyFoodInHotSeason.stages.0.description>더운 계절에 얼은 음식을 먹었어. 너무 시원해!</Mizu_AteIcyFoodInHotSeason.stages.0.description>
+  <Mizu_NeedWater.stages.6.description>간신히 몸만 움직일 수 있어... 제발 물을...</Mizu_NeedWater.stages.6.description>
+  <Mizu_NeedWater.stages.5.description>물... 물 이외엔 아무것도 생각이 안나...</Mizu_NeedWater.stages.5.description>
+  <Mizu_NeedWater.stages.4.description>몸이 급격하게 나빠진게 느껴져...</Mizu_NeedWater.stages.4.description>
+  <Mizu_DrankClearWater.stages.0.description>맑은 물을 마셨어. 정말 맛있었어.</Mizu_DrankClearWater.stages.0.description>
+  <Mizu_DrankScoopedWater.stages.0.description>불편하게 손으로 물을 받아먹다니... 난 컵이 필요해.</Mizu_DrankScoopedWater.stages.0.description>
+  <Mizu_DrankMudWater.stages.0.description>흙탕물을 마셔야 했어. 정말 끔찍했어...!</Mizu_DrankMudWater.stages.0.description>
+  <Mizu_DrankSeaWater.stages.0.description>여과되지도 않은 생 바닷물을 마셨어. 너무 끔찍하고, 또 너무 짜...!</Mizu_DrankSeaWater.stages.0.description>
+  <Mizu_SippedWaterLikeBeast.stages.0.description>짐승처럼 물을 마셔야했어.</Mizu_SippedWaterLikeBeast.stages.0.description>
+  <Mizu_NeedWater.stages.1.description>아, 당장 물을 좀 마셔야겠어. 목말라.</Mizu_NeedWater.stages.1.description>
+  <Mizu_NeedWater.stages.0.description>목이 조금 마른걸.</Mizu_NeedWater.stages.0.description>
+  <Mizu_NeedWater.stages.3.description>물을 마신지 오래됬어...</Mizu_NeedWater.stages.3.description>
+  <Mizu_SippedWaterLikeBeast.stages.0.label>자연에서 물을 마심</Mizu_SippedWaterLikeBeast.stages.0.label>
+  <Mizu_NeedWater.stages.0.label>약간 목마름</Mizu_NeedWater.stages.0.label>
+  <Mizu_NeedWater.stages.2.description>너무 목이 말라... 바로 뭐라도 마셔야해...!</Mizu_NeedWater.stages.2.description>
+  <Mizu_NeedWater.stages.1.label>목마름</Mizu_NeedWater.stages.1.label>
+  <Mizu_NeedWater.stages.2.label>급격히 목이 마름</Mizu_NeedWater.stages.2.label>
+  <Mizu_NeedWater.stages.7.description>물... 물을... 제발 뭐라도 마실걸 줘... 제발...</Mizu_NeedWater.stages.7.description>
+
+  <!--1543060282_181101_Additional Joy Objects-->
+  <PerodyneHigh.stages.2.label>취함</PerodyneHigh.stages.2.label>
+  <PerodyneHigh.stages.1.label>편안함</PerodyneHigh.stages.1.label>
+  <AJO_ReadInImpressiveLibrary.stages.3.label>괜찮은 도서관</AJO_ReadInImpressiveLibrary.stages.3.label>
+  <PerodyneHigh.stages.2.description>모든 게 더 좋아진 것 같아.</PerodyneHigh.stages.2.description>
+  <AJO_ReadInImpressiveLibrary.stages.7.label>극도로 인상적인 도서관</AJO_ReadInImpressiveLibrary.stages.7.label>
+  <PerodyneHigh.stages.4.label>붕뜸</PerodyneHigh.stages.4.label>
+  <PerodyneHigh.stages.5.description>헤헤헿...</PerodyneHigh.stages.5.description>
+  <AJO_SpectagoTea.stages.2.description>마시고 나서 더 진정된 느낌이야. 좋다.</AJO_SpectagoTea.stages.2.description>
+  <PerodyneHigh.stages.1.description>약간 진정된 기분이야.</PerodyneHigh.stages.1.description>
+  <PerodyneHigh.stages.4.description>물속에 있는 것 같아. 여기선 아무도 나를 방해할 수 없어.</PerodyneHigh.stages.4.description>
+  <AJO_ReadInImpressiveLibrary.stages.6.description>아주 인상적인 도서관에서 책을 읽으며 좋은 시간을 보냈어.</AJO_ReadInImpressiveLibrary.stages.6.description>
+  <AJO_ReadInImpressiveLibrary.stages.9.description>환상적인 도서관에서 책을 읽으며 좋은 시간을 보냈어. 거기서 평생 살아도 되겠어.</AJO_ReadInImpressiveLibrary.stages.9.description>
+  <AJO_ReadInImpressiveLibrary.stages.7.description>엄청 인상적인 도서관에서 책을 읽으며 좋은 시간을 보냈어. 거기서 평생 살아도 되겠어.</AJO_ReadInImpressiveLibrary.stages.7.description>
+  <AJO_ReadInImpressiveLibrary.stages.5.description>인상적인 도서관에서 책을 읽으며 좋은 시간을 보냈어.</AJO_ReadInImpressiveLibrary.stages.5.description>
+  <AJO_ReadInImpressiveLibrary.stages.8.description>믿을 수 없을 만큼 인상적인 도서관에서 책을 읽으며 좋은 시간을 보냈어. 거기서 평생 살아도 되겠어.</AJO_ReadInImpressiveLibrary.stages.8.description>
+  <AJO_ReadInImpressiveLibrary.stages.3.description>괜찮은 도서관에서 책을 읽었어.</AJO_ReadInImpressiveLibrary.stages.3.description>
+  <AJO_ReadInImpressiveLibrary.stages.4.description>좋은 도서관에서 책을 읽었어.</AJO_ReadInImpressiveLibrary.stages.4.description>
+  <PerodyneWithdrawal.stages.1.description>더 멍해질 수 있었으면 좋겠어.</PerodyneWithdrawal.stages.1.description>
+  <PerodyneHigh.stages.0.label>잠재됨</PerodyneHigh.stages.0.label>
+  <AJO_SpectagoTea.stages.0.label>잠재됨</AJO_SpectagoTea.stages.0.label>
+  <PerodyneHigh.stages.3.description>기분이 안좋을 수가 없지, 온몸이 얼얼해!</PerodyneHigh.stages.3.description>
+  <AJO_SpectagoTea.stages.1.description>따뜻한 차 한잔 좋지.</AJO_SpectagoTea.stages.1.description>
+  <PerodyneHigh.stages.3.label>띵함</PerodyneHigh.stages.3.label>
+  <PerodyneWithdrawal.stages.1.label>페로다인 금단증상</PerodyneWithdrawal.stages.1.label>
+  <AJO_SpectagoTea.stages.2.label>진정됨</AJO_SpectagoTea.stages.2.label>
+  <PerodyneHigh.stages.0.description>표시되지 않아야 합니다.</PerodyneHigh.stages.0.description>
+  <AJO_SpectagoTea.stages.0.description>표시되지 않아야 합니다.</AJO_SpectagoTea.stages.0.description>
+  <AJO_ReadInImpressiveLibrary.stages.4.label>약간 인상적인 도서관</AJO_ReadInImpressiveLibrary.stages.4.label>
+  <AJO_ReadInImpressiveLibrary.stages.5.label>꽤 인상적인 도서관</AJO_ReadInImpressiveLibrary.stages.5.label>
+  <AJO_ReadInImpressiveLibrary.stages.8.label>어마어마하게 인상적인 도서관</AJO_ReadInImpressiveLibrary.stages.8.label>
+  <AJO_ReadInImpressiveLibrary.stages.6.label>매우 인상적인 도서관</AJO_ReadInImpressiveLibrary.stages.6.label>
+  <AJO_SpectagoTea.stages.1.label>따뜻함</AJO_SpectagoTea.stages.1.label>
+  <PerodyneHigh.stages.5.label>꽐라됨</PerodyneHigh.stages.5.label>
+  <AJO_ReadInImpressiveLibrary.stages.9.label>환상적인 도서관</AJO_ReadInImpressiveLibrary.stages.9.label>
+
+  <!--1549446374_190519_Musical Instruments-->
+  <BadMusic.stages.0.label>나쁜 음악</BadMusic.stages.0.label>
+  <GreatMusic.stages.0.label>훌륭한 음악</GreatMusic.stages.0.label>
+  <NiceMusic.stages.0.label>좋은 음악</NiceMusic.stages.0.label>
+  <NiceMusic.stages.0.description>음악은 식민지가 더욱 활기차게 느껴지는 것 같애.</NiceMusic.stages.0.description>
+  <BadMusic.stages.0.description>이건 소음이야, 이런 음악은 너무 듣기 싫어.</BadMusic.stages.0.description>
+  <GreatMusic.stages.0.description>아 아름다운 음악이야. 근심과 걱정도 다 잊을 것 같애.</GreatMusic.stages.0.description>
+
+  <!--1552146295_190519_Real Ruins-->
+  <ScavengingRuins.stages.0.description>정말 이딴 돌멩이와 쓰레기들 때문에 이렇게 멀리까지 올 필요가 있었을까...?</ScavengingRuins.stages.0.description>
+  <ScavengingRuins.stages.2.label>높은 가치의 유적</ScavengingRuins.stages.2.label>
+  <ScavengingRuins.stages.4.label>미친듯이 가치가 높은 유적</ScavengingRuins.stages.4.label>
+  <ScavengingRuins.stages.1.description>제법 유용한 것들이 있는데.</ScavengingRuins.stages.1.description>
+  <ScavengingRuins.stages.0.label>낮은 가치의 유적</ScavengingRuins.stages.0.label>
+  <ScavengingRuins.stages.1.label>적당한 가치의 유적</ScavengingRuins.stages.1.label>
+  <ScavengingRuins.stages.4.description>졸라많아!!!!!!!!!!!!!!!!</ScavengingRuins.stages.4.description>
+  <ScavengingRuins.stages.3.description>우리 전재산보다도 많겠어! 우린 이걸 가져야만 해! 난 그걸 위해서라면 얼마든지 싸우겠어!</ScavengingRuins.stages.3.description>
+  <ScavengingRuins.stages.2.description>이 여행은 분명 그만한 가치가 있었어.</ScavengingRuins.stages.2.description>
+  <ScavengingRuins.stages.3.label>매우 높은 가치의 유적</ScavengingRuins.stages.3.label>
+
+  <!--1552461911_190814_Expanded Incidents-->
+  <Clique.stages.0.label>내 세력의 적</Clique.stages.0.label>
+  <CliqueFollower.stages.0.label>내 세력의 적</CliqueFollower.stages.0.label>
+  <Homesickness.stages.0.label>향수병을 느낌</Homesickness.stages.0.label>
+  <Quarrel.stages.0.label>원한을 품음</Quarrel.stages.0.label>
+  <Homesickness.stages.0.description>내 집이 너무 그리워... 여기 있는게 싫어. 다른 사람들은 어떤 생각을 하고 있을까.</Homesickness.stages.0.description>
+
+  <!--1554149030_190519_[RF] Rumor Has It....-->
+  <ApologizedTo.stages.0.label>{0}이 사과했어.</ApologizedTo.stages.0.label>
+  <ApologizedToBig.stages.0.label>{0} 가 진심어린 사과를 했어.</ApologizedToBig.stages.0.label>
+  <HadLiesToldAboutMe.stages.0.label>{0}이 나에대해 거짓말을 했어.</HadLiesToldAboutMe.stages.0.label>
+  <MySecretWasRevealedMood.stages.0.label>{0} 가 내 비밀을 떠벌리고있잖아!</MySecretWasRevealedMood.stages.0.label>
+  <MySecretWasRevealed.stages.0.label>{0} 가 내 비밀을 말하다니.</MySecretWasRevealed.stages.0.label>
+  <LiedAboutMood.stages.0.label>{0}이 나에대해 허무맹랑한 말을 했어!</LiedAboutMood.stages.0.label>
+  <EveryoneGetsOn.stages.0.description>여기서 내 모든 관계는 긍정적이고 건설적이야.</EveryoneGetsOn.stages.0.description>
+  <AnnoyingVoiceAmeliorated.stages.0.label>거슬리는 목소리</AnnoyingVoiceAmeliorated.stages.0.label>
+  <CreepyBreathingAmeliorated.stages.0.label>거친 숨소리</CreepyBreathingAmeliorated.stages.0.label>
+  <RunAwayThought.stages.0.label>다른 파벌에게 전향할거야.</RunAwayThought.stages.0.label>
+  <DisfiguredAmeliorated.stages.0.label>신체적 결함</DisfiguredAmeliorated.stages.0.label>
+  <DividedColony.stages.0.label>조각난 정착지</DividedColony.stages.0.label>
+  <EnjoyMakingPeace.stages.0.label>분쟁 종결.</EnjoyMakingPeace.stages.0.label>
+  <EveryoneHatesMeCaravan.stages.0.label>캐러밴에 있는 모두가 날 싫어해!</EveryoneHatesMeCaravan.stages.0.label>
+  <EveryoneGetsOn.stages.0.label>좋은 관계</EveryoneGetsOn.stages.0.label>
+  <EveryoneGetsOn.stages.1.label>위대한 관계</EveryoneGetsOn.stages.1.label>
+  <HeardGoodThings.stages.0.label>{0}에 대한 좋은 것을 알았어.</HeardGoodThings.stages.0.label>
+  <HeardGreatThings.stages.0.label>{0}에 대한 좋은 이야기를 들었어.</HeardGreatThings.stages.0.label>
+  <HeardAwfulThings.stages.0.label>{0}에 대한 끔찍한 이야기를 들었어.</HeardAwfulThings.stages.0.label>
+  <HeardBadThings.stages.0.label>{0}에 대해 불쾌한 말을 들었어.</HeardBadThings.stages.0.label>
+  <FriendsQuarrel.stages.0.label>원한 품음</FriendsQuarrel.stages.0.label>
+  <LiedAboutMood.stages.0.description>누군가 이런 끔찍한 소문을 퍼뜨린다는게 너무 화가나!</LiedAboutMood.stages.0.description>
+  <EveryoneGetsOn.stages.1.description>난 이보다 더 좋은 사람들이 함꼐할거라고는 상상하기 어려워!</EveryoneGetsOn.stages.1.description>
+  <EveryoneHatesMeColony.stages.0.label>난 이 정착지에 단 한 명의 친구도 없어...</EveryoneHatesMeColony.stages.0.label>
+  <ILied.stages.0.label>난 거짓말을 했어.</ILied.stages.0.label>
+  <ILiedMood.stages.0.description>난 검증할 수 없는 소문을 퍼뜨렸어. 그럴려고한게 아니었는데!</ILiedMood.stages.0.description>
+  <MySecretWasRevealedMood.stages.0.description>너무 창피해! 이제 다른사람들 얼굴을 어떻게 본담...</MySecretWasRevealedMood.stages.0.description>
+  <EnjoyMakingPeace.stages.0.description>다른 사람들이 잘 지낼 수 있도록 도울 수 있어서 너무 기뻐!</EnjoyMakingPeace.stages.0.description>
+  <LiedTo.stages.0.label>{0}에게 거짓말했어.</LiedTo.stages.0.label>
+  <EveryoneHatesMeColony.stages.0.description>아무도 날 좋아하지 않아!</EveryoneHatesMeColony.stages.0.description>
+  <EveryoneHatesMeCaravan.stages.0.description>아무도 날 좋아하지 않아!</EveryoneHatesMeCaravan.stages.0.description>
+  <ReceivedSecret.stages.0.label>비밀 공유</ReceivedSecret.stages.0.label>
+  <SharedSecret.stages.0.label>비밀 공유</SharedSecret.stages.0.label>
+  <UglyAmeliorated.stages.1.label>충격적인 외모</UglyAmeliorated.stages.1.label>
+  <DividedColony.stages.0.description>이 바보같은 불화가 우리 정착지를 해치고있어!</DividedColony.stages.0.description>
+  <ILiedMood.stages.0.label>거짓말함</ILiedMood.stages.0.label>
+  <TrustworthyVsGossip.stages.0.label>신뢰할 수 있는것과 험담</TrustworthyVsGossip.stages.0.label>
+  <UglyAmeliorated.stages.0.label>못생김</UglyAmeliorated.stages.0.label>
+
+  <!--1557222016_190519_RWBY Weapons-->
+  <PictureTaken.stages.0.label>사진 찍힘</PictureTaken.stages.0.label>
+  <PictureTaken.stages.0.description>누가 나한테 사진을 찍은거야? 내가 그렇게 중요한 사람인가?</PictureTaken.stages.0.description>
+
+  <!--1559034352_181116_Diseases overhauled-->
+  <CampbellsDisease.stages.4.description>...</CampbellsDisease.stages.4.description>
+  <Unease.stages.5.description>...이것을 ...멈출 ...방법은 ...그것 밖에 ...없어 ...날 ...멈출 수 ...밖에</Unease.stages.5.description>
+  <BardelSyndrome.stages.3.label>3 단계: 겁먹음</BardelSyndrome.stages.3.label>
+  <BardelSyndrome.stages.4.label>4 단계: 분노</BardelSyndrome.stages.4.label>
+  <BardelSyndrome.stages.2.label>2 단계: 정신장애</BardelSyndrome.stages.2.label>
+  <CampbellsDisease.stages.4.label>4 단계: 정신분열</CampbellsDisease.stages.4.label>
+  <CampbellsDisease.stages.3.label>3 단계: 망상증</CampbellsDisease.stages.3.label>
+  <CampbellsDisease.stages.2.label>2 단계: 환각증상</CampbellsDisease.stages.2.label>
+  <TranquiazepinWithdrawal.stages.1.description>제기랄! 빌어먹을! 여기가 지옥인가봐! 남은게 고통밖에 없다니.</TranquiazepinWithdrawal.stages.1.description>
+  <SuicidePreparation.stages.0.description>그래 결심했어.</SuicidePreparation.stages.0.description>
+  <BardelSyndrome.stages.2.description>나만의 우주선을 만들거야! 내가 가는 길이 곧 위대한 길이다!</BardelSyndrome.stages.2.description>
+  <TranquiazepinHigh.stages.0.description>내가 구름 위를 걷고 있어!</TranquiazepinHigh.stages.0.description>
+  <MortracainHigh.stages.0.label>몰트라카인</MortracainHigh.stages.0.label>
+  <MortracainWithdrawal.stages.1.label>몰트라카인 금단현상</MortracainWithdrawal.stages.1.label>
+  <MortracainWithdrawal.stages.1.description>온 몸이 아파요.. 도저히 내 정신을 붙잡고 있을 수 없을 것 같아.</MortracainWithdrawal.stages.1.description>
+  <Unease.stages.4.description>나갈 방법이 없어...! 빠져나갈 길이... 안돼... 어떻게... 해...</Unease.stages.4.description>
+  <SuicidePreparation.stages.0.label>숨겨짐</SuicidePreparation.stages.0.label>
+  <CampbellsDisease.stages.2.description>그들은 내가 다치길 원해!</CampbellsDisease.stages.2.description>
+  <CampbellsDisease.stages.3.description>그들이 근처에 있어! 그들이 내 마음을 지배하려고 해! 이 세상의 모두를 위해 나는 그들과 싸워야만 해!</CampbellsDisease.stages.3.description>
+  <Unease.stages.1.description>이럴순 없어... 난 여기에 있을 수 없어...</Unease.stages.1.description>
+  <Unease.stages.2.description>이건 악몽이야! 어서 정신차려야 해. 정신차려!!!</Unease.stages.2.description>
+  <BardelSyndrome.stages.4.description>이 굼벵이 같은 놈들은 더 이상 내 앞에 서지도 못하게 만들거야! 모두 부숴버리겠어!</BardelSyndrome.stages.4.description>
+  <TranquiazepinHigh.stages.0.label>트란키아제핀</TranquiazepinHigh.stages.0.label>
+  <TranquiazepinWithdrawal.stages.1.label>트란키아제핀 금단현상</TranquiazepinWithdrawal.stages.1.label>
+  <Unease.stages.0.label>숨겨짐</Unease.stages.0.label>
+  <Unease.stages.1.label>가벼움</Unease.stages.1.label>
+  <Unease.stages.2.label>가벼움</Unease.stages.2.label>
+  <Unease.stages.3.label>심각함</Unease.stages.3.label>
+  <Unease.stages.4.label>심각함</Unease.stages.4.label>
+  <Unease.stages.5.label>극심함</Unease.stages.5.label>
+  <Unease.stages.0.description>내가 왜 여기에 있지? 난 여기서 뭘하고 있는 거지?</Unease.stages.0.description>
+  <BardelSyndrome.stages.3.description>도대체 무슨일이 일어나고 있는거야? 왜 모두가 나를 저런 눈으로 쳐다보는 거지?</BardelSyndrome.stages.3.description>
+  <Unease.stages.3.description>왜, 왜, 왜, 왜, 왜, 왜? 하필이면 왜!? 이 모든게 난 싫어!!!</Unease.stages.3.description>
+  <MortracainHigh.stages.0.description>우하하! 네이팜 맞아도 끄떡없이 돌아다닐 수 있을 것 같아!</MortracainHigh.stages.0.description>
+
+  <!--1560792909_181119_BloodTypes + BloodBag-->
+  <BloodWorker.stages.0.label>피</BloodWorker.stages.0.label>
+  <BloodWorker.stages.0.description>피</BloodWorker.stages.0.description>
+  <Thoughts_BloodHappy.stages.0.label>헌혈</Thoughts_BloodHappy.stages.0.label>
+  <Thoughts_BloodHappy.stages.0.description>나는 우리 정착지를 위해 피를 뽑았어</Thoughts_BloodHappy.stages.0.description>
+  <Thoughts_BloodReceiveHappy.stages.0.description>내가 헌혈이 필요할 때, 정착지에서 수혈을 받았어.</Thoughts_BloodReceiveHappy.stages.0.description>
+  <Thoughts_BloodReceiveHappy.stages.0.label>헌혈 필요</Thoughts_BloodReceiveHappy.stages.0.label>
+
+  <!--1563793492_190519_Milkable Colonists-->
+  <Lact-XHigh.stages.0.label>Lact-X에 취함</Lact-XHigh.stages.0.label>
+  <Lact-XWithdrawal.stages.1.description>으슬으슬 떨리고 몸이 마음 같지 않아.</Lact-XWithdrawal.stages.1.description>
+  <Lact-XHigh.stages.0.description>날아갈 것 같은 기분이야~</Lact-XHigh.stages.0.description>
+  <Lact-XWithdrawal.stages.1.label>Lact-X 금단 현상</Lact-XWithdrawal.stages.1.label>
+
+  <!--1564657272_181119_BioReactor-->
+  <KnowHistolysisHumanlike.stages.0.description>살아있는 사람을 산채로 녹여버렸어. 살아있는 채로 녹았..우웁..</KnowHistolysisHumanlike.stages.0.description>
+  <KnowHistolysisHumanlikeCannibal.stages.0.label>역겨워.</KnowHistolysisHumanlikeCannibal.stages.0.label>
+  <LivingBattery.stages.0.description>생체 배터리가 되었었어. 다시 그곳에 들어가고 싶지 않아.</LivingBattery.stages.0.description>
+  <LivingBattery.stages.0.label>생체 배터리가 되었어</LivingBattery.stages.0.label>
+  <KnowHistolysisHumanlikePsychopath.stages.0.description>태초의 모습으로 돌아가는 것을 생각하면...아름다워.</KnowHistolysisHumanlikePsychopath.stages.0.description>
+  <KnowHistolysisHumanlikePsychopath.stages.0.label>사람이 녹았어</KnowHistolysisHumanlikePsychopath.stages.0.label>
+  <KnowHistolysisHumanlikeCannibal.stages.0.description>사람이 녹는 모습은 밥맛 떨어져.</KnowHistolysisHumanlikeCannibal.stages.0.description>
+  <KnowHistolysisHumanlike.stages.0.label>사람을 산채로 녹였어.</KnowHistolysisHumanlike.stages.0.label>
+
+  <!--1573233249_190616_Desynchronized: Tales and News (v1.6.2)-->
+  <PrisonerReleasedDangerously.stages.0.label>위험하게 도망친 죄수</PrisonerReleasedDangerously.stages.0.label>
+  <PrisonerReleasedDangerously.stages.0.description>우리의 죄수들이 관리인에게 적절하게 석방하는 대신에 도망치게 두었어. 나는 위협을 느껴.</PrisonerReleasedDangerously.stages.0.description>
+  <PrisonerReleasedDangerously_Psychopath.stages.0.label>위험하게 도망친 죄수 (사이코패스)</PrisonerReleasedDangerously_Psychopath.stages.0.label>
+  <PrisonerReleasedDangerously_Psychopath.stages.0.description>우리의 죄수들이 관리인에게 적절하게 석방하는 대신에 도망치게 두었어. 그들이 날 해하지 못하게 하라고.</PrisonerReleasedDangerously_Psychopath.stages.0.description>
+  <PrisonerReleasedDangerously_Bloodlust.stages.0.label>위험하게 도망친 죄수 (피의 갈망)</PrisonerReleasedDangerously_Bloodlust.stages.0.label>
+  <PrisonerReleasedDangerously_Bloodlust.stages.0.description>우리의 죄수들이 관리인에게 적절하게 석방하는 대신에 도망치게 두었어. 싸우자! 대려와!</PrisonerReleasedDangerously_Bloodlust.stages.0.description>
+  <AttackRepelled.stages.0.label>습격을 격퇴</AttackRepelled.stages.0.label>
+  <AttackRepelled.stages.0.description>우리는 적대적인 침입으로부터 우리 자신을 방어했어.</AttackRepelled.stages.0.description>
+  <AttackRepelled_Bloodlust.stages.0.label>습격을 격퇴</AttackRepelled_Bloodlust.stages.0.label>
+  <AttackRepelled_Bloodlust.stages.0.description>우리는 적대적인 침입에 대항하여 우리의 힘을 증명했어. 우리가 그들을 다시 볼 필요가 없기를 바래.</AttackRepelled_Bloodlust.stages.0.description>
+  <AttackRepelled_Pacifist.stages.0.label>습격을 격퇴</AttackRepelled_Pacifist.stages.0.label>
+  <AttackRepelled_Pacifist.stages.0.description>나는 폭력을 사용하여 문제를 해결하는 것에 동의하지 않지만.. 이런, 결국 끝났네.</AttackRepelled_Pacifist.stages.0.description>
+  <NoQuarterGiven.stages.0.label>자비 없음</NoQuarterGiven.stages.0.label>
+  <NoQuarterGiven.stages.0.description>우리는 적대적인 침입으로부터 우리 자신을 방어했어. 그러나 우리는 그들에게 자비를 배풀지 않았어.</NoQuarterGiven.stages.0.description>
+  <NoQuarterGiven_Psychopath.stages.0.label>자비 없음</NoQuarterGiven_Psychopath.stages.0.label>
+  <NoQuarterGiven_Psychopath.stages.0.description>우리는 적대적인 침입으로부터 우리 자신을 방어했고 우리는 그들에게 자비를 배풀지 않았어.</NoQuarterGiven_Psychopath.stages.0.description>
+  <NoQuarterGiven_Bloodlust.stages.0.label>자비 없음</NoQuarterGiven_Bloodlust.stages.0.label>
+  <NoQuarterGiven_Bloodlust.stages.0.description>우리는 적대적인 침략에 대항하여 우리의 절대적인 힘을 증명했어. 우리가 있는 바로 그 광경을 보고 그들이 몸을 움츠리기를!</NoQuarterGiven_Bloodlust.stages.0.description>
+  <NoQuarterGiven_Pacifist.stages.0.label>자비 없음</NoQuarterGiven_Pacifist.stages.0.label>
+  <NoQuarterGiven_Pacifist.stages.0.description>나는 폭력을 사용해서 문제를 해결하는 것에 동의하지 않아. 그리고 솔직히 이것은 너무 지나쳤어.</NoQuarterGiven_Pacifist.stages.0.description>
+  <KnowColonistKidnapped.stages.0.label>납치된 정착지 주민</KnowColonistKidnapped.stages.0.label>
+  <KnowColonistKidnapped.stages.0.description>우리 정착민 중 한 명이 납치당했어. 나는 주변에 머무르는 것이 안전하다고 느끼지 않아.</KnowColonistKidnapped.stages.0.description>
+  <PawnWithGoodOpinionWasKidnapped.stages.0.label>나의 친구 {0}(이)가 납치됨</PawnWithGoodOpinionWasKidnapped.stages.0.label>
+  <PawnWithGoodOpinionWasKidnapped.stages.0.description>정말 좋은 사람이 적의 손에 넘어가다니. 내가 그를 다시 볼 수 있을까?</PawnWithGoodOpinionWasKidnapped.stages.0.description>
+  <PawnWithBadOpinionWasKidnapped.stages.0.label>나의 라이벌 {0}(이)가 납치됨</PawnWithBadOpinionWasKidnapped.stages.0.label>
+  <PawnWithBadOpinionWasKidnapped.stages.0.description>놈들의 좋은 서비스군. 적어도 난 놈을 잠시 보지 않아되니까.</PawnWithBadOpinionWasKidnapped.stages.0.description>
+  <MySonWasKidnapped.stages.0.label>나의 아들 {0}(이)가 납치됨</MySonWasKidnapped.stages.0.label>
+  <MySonWasKidnapped.stages.0.description>나의 자식이 납치되었어. 내 혈육이...</MySonWasKidnapped.stages.0.description>
+  <MyDaughterWasKidnapped.stages.0.label>나의 딸 {0}(이)가 납치됨</MyDaughterWasKidnapped.stages.0.label>
+  <MyDaughterWasKidnapped.stages.0.description>내 딸이 납치당했어! 나 가족... 내 혈육...</MyDaughterWasKidnapped.stages.0.description>
+  <MyHusbandWasKidnapped.stages.0.label>남편 {0}(이)가 납치됨</MyHusbandWasKidnapped.stages.0.label>
+  <MyHusbandWasKidnapped.stages.0.description>내 남편이 납치당했어! 난 이제 혼자야...</MyHusbandWasKidnapped.stages.0.description>
+  <MyWifeWasKidnapped.stages.0.label>나의 아내 {0}가 납치됨</MyWifeWasKidnapped.stages.0.label>
+  <MyWifeWasKidnapped.stages.0.description>나의 아내가 납치되었어. 혼자가 되었어.</MyWifeWasKidnapped.stages.0.description>
+  <MyFianceWasKidnapped.stages.0.label>나의 약혼남 {0}(이)가 납치됨</MyFianceWasKidnapped.stages.0.label>
+  <MyFianceWasKidnapped.stages.0.description>나의 약혼남 납치되었어. 그가... 어떤 고문이 그를 기다리고 있는지 누가 알겠어?</MyFianceWasKidnapped.stages.0.description>
+  <MyFianceeWasKidnapped.stages.0.label>나의 약혼녀 {0}(이)가 납치됨</MyFianceeWasKidnapped.stages.0.label>
+  <MyFianceeWasKidnapped.stages.0.description>나의 약혼녀 납치되었어. 그녀가... 어떤 고문이 그녀를 기다리고 있는지 누가 알겠어?</MyFianceeWasKidnapped.stages.0.description>
+  <MyLoverWasKidnapped.stages.0.label>나의 연인 {0}(이)가 납치됨</MyLoverWasKidnapped.stages.0.label>
+  <MyLoverWasKidnapped.stages.0.description>나의 연인 납치되었어. 혼자가 되었어.</MyLoverWasKidnapped.stages.0.description>
+  <MyBrotherWasKidnapped.stages.0.label>나의 형제 {0}(이)가 납치됨</MyBrotherWasKidnapped.stages.0.label>
+  <MyBrotherWasKidnapped.stages.0.description>나의 형제 납치되었어. 내 혈육이...</MyBrotherWasKidnapped.stages.0.description>
+  <MySisterWasKidnapped.stages.0.label>나의 자매 {0}(이)가 납치됨</MySisterWasKidnapped.stages.0.label>
+  <MySisterWasKidnapped.stages.0.description>나의 자매 납치되었어. 내 혈육이...</MySisterWasKidnapped.stages.0.description>
+  <MyGrandchildWasKidnapped.stages.0.label>나의 손주 {0}(이)가 납치됨</MyGrandchildWasKidnapped.stages.0.label>
+  <MyGrandchildWasKidnapped.stages.0.description>나의 손주 납치되었어. 내 혈육이...</MyGrandchildWasKidnapped.stages.0.description>
+  <MyFatherWasKidnapped.stages.0.label>나의 아버지 {0}(이)가 납치됨</MyFatherWasKidnapped.stages.0.label>
+  <MyFatherWasKidnapped.stages.0.description>나의 아버지 납치되었어. 내가 그를 다시 볼 수 있을까?</MyFatherWasKidnapped.stages.0.description>
+  <MyMotherWasKidnapped.stages.0.label>나의 어머니 {0}(이)가 납치됨</MyMotherWasKidnapped.stages.0.label>
+  <MyMotherWasKidnapped.stages.0.description>나의 어머니 납치되었어. 내가 그녀를 다시 볼 수 있을까?</MyMotherWasKidnapped.stages.0.description>
+  <MyNieceWasKidnapped.stages.0.label>나의 조카딸 {0}(이)가 납치됨</MyNieceWasKidnapped.stages.0.label>
+  <MyNieceWasKidnapped.stages.0.description>나의 조카딸 납치되었어. 귀여운 아이였는데.</MyNieceWasKidnapped.stages.0.description>
+  <MyNephewWasKidnapped.stages.0.label>나의 조카 {0}(이)가 납치됨</MyNephewWasKidnapped.stages.0.label>
+  <MyNephewWasKidnapped.stages.0.description>나의 조카 납치되었어. 귀여운 아이였는데.</MyNephewWasKidnapped.stages.0.description>
+  <MyHalfSiblingWasKidnapped.stages.0.label>나의 의붓형제자매 {0}(이)가 납치됨</MyHalfSiblingWasKidnapped.stages.0.label>
+  <MyHalfSiblingWasKidnapped.stages.0.description>나의 의붓형제자매 납치되었어. 내 혈육이...</MyHalfSiblingWasKidnapped.stages.0.description>
+  <MyAuntWasKidnapped.stages.0.label>나의 이모 {0}(이)가 납치됨</MyAuntWasKidnapped.stages.0.label>
+  <MyAuntWasKidnapped.stages.0.description>나의 이모 납치되었어.</MyAuntWasKidnapped.stages.0.description>
+  <MyUncleWasKidnapped.stages.0.label>나의 삼촌 {0}(이)가 납치됨</MyUncleWasKidnapped.stages.0.label>
+  <MyUncleWasKidnapped.stages.0.description>나의 삼촌 납치되었어.</MyUncleWasKidnapped.stages.0.description>
+  <MyGrandparentWasKidnapped.stages.0.label>나의 조부모 {0}(이)가 납치됨</MyGrandparentWasKidnapped.stages.0.label>
+  <MyGrandparentWasKidnapped.stages.0.description>나의 조부모 납치되었어.</MyGrandparentWasKidnapped.stages.0.description>
+  <MyCousinWasKidnapped.stages.0.label>나의 사촌동생 {0}(이)가 납치됨</MyCousinWasKidnapped.stages.0.label>
+  <MyCousinWasKidnapped.stages.0.description>나의 사촌동생 납치되었어. 내 혈육이...</MyCousinWasKidnapped.stages.0.description>
+  <MyKinWasKidnapped.stages.0.label>나의 혈연 {0}(이)가 납치됨</MyKinWasKidnapped.stages.0.label>
+  <MyKinWasKidnapped.stages.0.description>나의 혈연 납치되었어.</MyKinWasKidnapped.stages.0.description>
+
+  <!--1635565299_190714_Simple_Slavery-->
+  <SlaveColonyThought.stages.0.label>노예 노동</SlaveColonyThought.stages.0.label>
+  <SlaveColonyThought.stages.0.description>우리 기지가 사람을 노예로 부리고 있어. 이건 나쁜 짓이야.</SlaveColonyThought.stages.0.description>
+  <KnowSlaveDied.stages.0.label>노예 사망</KnowSlaveDied.stages.0.label>
+  <KnowSlaveDied.stages.0.description>노예 중 한명이 죽었어.</KnowSlaveDied.stages.0.description>
+  <EnslavedThought.stages.0.label>노예됨</EnslavedThought.stages.0.label>
+  <EnslavedThought.stages.0.description>내가 방금 저놈들의 노예가 됐어. 믿을 수 없어.</EnslavedThought.stages.0.description>
+  <EnslavedThought.stages.1.label>노예됨</EnslavedThought.stages.1.label>
+  <EnslavedThought.stages.1.description>내가 노예로 잡혀버렸어. 나는 단지 자유를 원할 뿐이야.</EnslavedThought.stages.1.description>
+  <EnslavedThought.stages.2.label>노예됨</EnslavedThought.stages.2.label>
+  <EnslavedThought.stages.2.description>이 개목걸이가 풀리는 날은 절대로 오지 않겠지.</EnslavedThought.stages.2.description>
+  <EnslavedThought.stages.3.label>노예됨</EnslavedThought.stages.3.label>
+  <EnslavedThought.stages.3.description>자유가 무엇인지 이제 모르겠어.</EnslavedThought.stages.3.description>
+  <EnslavedThought.stages.4.label>스톡홀름 증후군</EnslavedThought.stages.4.label>
+  <EnslavedThought.stages.4.description>이 친구들 그렇게 나쁜건 아닌거 같아.</EnslavedThought.stages.4.description>
+  <ExplosiveCollar.stages.0.label>폭발성 목걸이</ExplosiveCollar.stages.0.label>
+  <ExplosiveCollar.stages.0.description>저놈들이 내 목에 폭발성 목걸이를 달았어! 살고 싶으면 나대지 말아야겠어.</ExplosiveCollar.stages.0.description>
+  <ExplosiveCollar.stages.1.label>무장된 폭발성 목걸이</ExplosiveCollar.stages.1.label>
+  <ExplosiveCollar.stages.1.description>저 새끼들이 내 머리통을 날려버릴거야!!!</ExplosiveCollar.stages.1.description>
+  <ExplosiveCollar.stages.2.label>폭발성 노예 목걸이</ExplosiveCollar.stages.2.label>
+  <ExplosiveCollar.stages.2.description>좋은 생각은 아닌거 같은데.</ExplosiveCollar.stages.2.description>
+  <KnowFellowSlaveDied.stages.0.label>노예 사망</KnowFellowSlaveDied.stages.0.label>
+  <KnowFellowSlaveDied.stages.0.description>나같은 노예 중 한명이 죽었다는 소식을 들었어. 좋은 징조는 아닌거 같아.</KnowFellowSlaveDied.stages.0.description>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <ReligousVSAnti.stages.0.label>종교 혐오자</ReligousVSAnti.stages.0.label>
+  <BothAntitheists.stages.0.label>같은 신 혐오자</BothAntitheists.stages.0.label>
+  <BothAtheists.stages.0.label>같은 무신론자</BothAtheists.stages.0.label>
+  <PrayedInImpressiveTemple.stages.8.label>매우 인상적인 신전</PrayedInImpressiveTemple.stages.8.label>
+  <AttendedLecture.stages.2.label>괜찮은 설교</AttendedLecture.stages.2.label>
+  <AttendedWorship.stages.2.label>괜찮은 예배</AttendedWorship.stages.2.label>
+  <ForeignReligiousThought.stages.0.label>다른 종교</ForeignReligiousThought.stages.0.label>
+  <HeldLecture.stages.0.label>예배 드림</HeldLecture.stages.0.label>
+  <HeldWorship.stages.0.label>예배 드림</HeldWorship.stages.0.label>
+  <HeldLecture.stages.0.description>예배를 하고 영감을 받았어.</HeldLecture.stages.0.description>
+  <HeldWorship.stages.0.description>예배를 하고 영감을 받았어.</HeldWorship.stages.0.description>
+  <PrayedInImpressiveTemple.stages.11.description>완벽한 신전에서 시간을 보냈어. 이곳에선 우리의 신이 느껴져.</PrayedInImpressiveTemple.stages.11.description>
+  <ReligionWithdrawal.stages.1.description>예배를 한지 너무 오래됐어. 예배에 참석하고 싶어.</ReligionWithdrawal.stages.1.description>
+  <AttendedLecture.stages.0.description>설교는 끔찍했어. 괴상해</AttendedLecture.stages.0.description>
+  <AttendedWorship.stages.0.description>예배는 끔찍했어. 괴상해.</AttendedWorship.stages.0.description>
+  <AttendedLecture.stages.2.description>괜찮은 설교였어.</AttendedLecture.stages.2.description>
+  <AttendedWorship.stages.2.description>괜찮은 예배였어.</AttendedWorship.stages.2.description>
+  <AttendedLecture.stages.4.description>인상적인 설교였어.</AttendedLecture.stages.4.description>
+  <AttendedWorship.stages.4.description>인상적인 예배였어.</AttendedWorship.stages.4.description>
+  <AttendedLecture.stages.3.description>흥미로운 설교였어.</AttendedLecture.stages.3.description>
+  <AttendedWorship.stages.3.description>흥미로운 예배였어.</AttendedWorship.stages.3.description>
+  <AttendedLecture.stages.1.description>나쁘지 않은 설교였어.</AttendedLecture.stages.1.description>
+  <AttendedWorship.stages.1.description>나쁘지 않은 예배였어.</AttendedWorship.stages.1.description>
+  <AttendedLecture.stages.6.description>너무도 감격스러운 설교였어. 아직도 두근거려.</AttendedLecture.stages.6.description>
+  <AttendedWorship.stages.6.description>너무도 감격스러운 예배였어. 아직도 두근거려.</AttendedWorship.stages.6.description>
+  <AttendedLecture.stages.5.description>정말 인상적인 설교였어.</AttendedLecture.stages.5.description>
+  <AttendedWorship.stages.5.description>정말 인상적인 예배였어.</AttendedWorship.stages.5.description>
+  <AttendedLecture.stages.7.description>신이 느껴졌어 . 신께서 우릴 돌봐주시고 있어.</AttendedLecture.stages.7.description>
+  <AttendedWorship.stages.7.description>신이 느껴졌어 . 신께서 우릴 돌봐주시고 있었어!</AttendedWorship.stages.7.description>
+  <PrayedInImpressiveTemple.stages.10.description>매우 환상적인 신전에서 시간을 보냈어. 영원히 이곳에 머물고 싶어.</PrayedInImpressiveTemple.stages.10.description>
+  <PrayedInImpressiveTemple.stages.7.description>인상적인 신전에서 시간을 보냈어</PrayedInImpressiveTemple.stages.7.description>
+  <PrayedInImpressiveTemple.stages.8.description>매우 신전에서 시간을 보냈어</PrayedInImpressiveTemple.stages.8.description>
+  <PrayedInImpressiveTemple.stages.5.description>괜찮은 신전에서 시간을 보냈어</PrayedInImpressiveTemple.stages.5.description>
+  <PrayedInImpressiveTemple.stages.6.description>괜찮은 신전에서 시간을 보냈어</PrayedInImpressiveTemple.stages.6.description>
+  <PrayedInImpressiveTemple.stages.9.description>환상적인 신전에서 시간을 보냈어. 영원히 이곳에 머물고 싶어.</PrayedInImpressiveTemple.stages.9.description>
+  <AttendedLecture.stages.4.label>인상적인 설교</AttendedLecture.stages.4.label>
+  <PrayedInImpressiveTemple.stages.5.label>괜찮은 신전</PrayedInImpressiveTemple.stages.5.label>
+  <PrayedInImpressiveTemple.stages.6.label>괜찮은 신전</PrayedInImpressiveTemple.stages.6.label>
+  <AttendedWorship.stages.4.label>인상적인 예배</AttendedWorship.stages.4.label>
+  <AttendedLecture.stages.3.label>흥미로운 설교</AttendedLecture.stages.3.label>
+  <AttendedWorship.stages.3.label>흥미로운 예배</AttendedWorship.stages.3.label>
+  <AttendedLecture.stages.1.label>평범한 설교</AttendedLecture.stages.1.label>
+  <AttendedWorship.stages.1.label>평범한 예배</AttendedWorship.stages.1.label>
+  <PrayedInImpressiveTemple.stages.10.label>매우 환상적인 신전</PrayedInImpressiveTemple.stages.10.label>
+  <NoChurch.stages.0.label>신전 없음</NoChurch.stages.0.label>
+  <ImpossibleToAttend.stages.0.label>전도사 없음</ImpossibleToAttend.stages.0.label>
+  <ReligionWithdrawal.stages.1.label>오랬동안 예배하지 않음</ReligionWithdrawal.stages.1.label>
+  <AntitheistThoughts.stages.0.label>종교적임</AntitheistThoughts.stages.0.label>
+  <AttendedLecture.stages.0.label>끔찍한 설교</AttendedLecture.stages.0.label>
+  <AttendedWorship.stages.0.label>끔찍한 예배</AttendedWorship.stages.0.label>
+  <ReligiousThought.stages.0.label>같은 종교</ReligiousThought.stages.0.label>
+  <SameReligion.stages.0.label>신념을 공유함</SameReligion.stages.0.label>
+  <ImpossibleToAttend.stages.0.description>내 영혼을 구제받을 방법이 없어!</ImpossibleToAttend.stages.0.description>
+  <NoChurch.stages.0.description>기도할 신전이 없어!</NoChurch.stages.0.description>
+  <AttendedLecture.stages.6.label>감격스러운 설교</AttendedLecture.stages.6.label>
+  <PrayedInImpressiveTemple.stages.9.label>환상적인 신전</PrayedInImpressiveTemple.stages.9.label>
+  <AttendedWorship.stages.6.label>감격스러운 예배</AttendedWorship.stages.6.label>
+  <AttendedLecture.stages.5.label>매우 인상적인 설교</AttendedLecture.stages.5.label>
+  <PrayedInImpressiveTemple.stages.7.label>인상적인 신전</PrayedInImpressiveTemple.stages.7.label>
+  <AttendedWorship.stages.5.label>매우 인상적인 예배</AttendedWorship.stages.5.label>
+  <PrayedInImpressiveTemple.stages.11.label>신을 영접하는 신전</PrayedInImpressiveTemple.stages.11.label>
+  <AttendedLecture.stages.7.label>신을 영접한 설교</AttendedLecture.stages.7.label>
+  <AttendedWorship.stages.7.label>신을 영접한 예배</AttendedWorship.stages.7.label>
+
+  <!--1714572710_190606_Rimstro-->
+  <AteSnack.stages.0.label>스낵 먹음</AteSnack.stages.0.label>
+  <AteSnack.stages.0.description>스낵을 먹었어, 맛있네.</AteSnack.stages.0.description>
+
+  <!--1720751798_190519_[RH] Faction Task Force 141 (1.0)-->
+  <AteUSArmyMREMeal.stages.0.label>미군 군용 즉석 식량이 사용되었다</AteUSArmyMREMeal.stages.0.label>
+  <AteUSArmyMREMeal.stages.0.description>“T헤이 군대에서 차우는 엄청 좋아 보이는데, 비스킷이 테이블에서 튀어 나와 내 친구를 죽였어! HOOAH! \ n \ n 해병대가 먹는 이상한 허튼 소리를 먹지 않아서 기쁘다.”</AteUSArmyMREMeal.stages.0.description>
+
+  <!--1746084920_190526_RimSlave-->
+  <Pleasured.stages.0.label>쾌락을 느낌</Pleasured.stages.0.label>
+  <Pleasured.stages.0.description>샐리에 의해 오르가즘을 느낌.</Pleasured.stages.0.description>
+  <Saluted.stages.0.label>인사를 받음</Saluted.stages.0.label>
+  <Saluted.stages.0.description>무오병에게 인사를 받음.</Saluted.stages.0.description>
+  <Massaged.stages.0.label>마사지를 받음</Massaged.stages.0.label>
+  <Massaged.stages.0.description>처녀에게 마사지를 받음.</Massaged.stages.0.description>
+  <BeInsulted.stages.0.label>우월감을 느끼고 있음.</BeInsulted.stages.0.label>
+  <BeInsulted.stages.0.description>작업 노예를 모욕함.</BeInsulted.stages.0.description>
+
+  <!--1777036482_190714_Moloy Traits-->
+  <PettyHasEx.stages.0.label>내 전 애인이 떠남!</PettyHasEx.stages.0.label>
+  <PettyHasEx.stages.0.description>내 전 애인이 떠나버렸어... 난 여전히 외로워! 너무 불공평해. 참을 수가 없어!</PettyHasEx.stages.0.description>
+  <PettyHasExReversed.stages.0.label>새로운 사랑을 찾음</PettyHasExReversed.stages.0.label>
+  <PettyHasExReversed.stages.0.description>난 새로운 사랑을 찾았고, 내 전 애인은 여전히 혼자야! 난 너무나 행복해!</PettyHasExReversed.stages.0.description>
+  <LuminaryMood.stages.0.label>매우 불행한 선각자</LuminaryMood.stages.0.label>
+  <LuminaryMood.stages.0.description>선각자가 너무 불행해하고있어. 이건 날 너무 화나게 만들어!</LuminaryMood.stages.0.description>
+  <LuminaryMood.stages.1.label>불행한 선각자</LuminaryMood.stages.1.label>
+  <LuminaryMood.stages.1.description>선각자가 불행해하고있어. 이건 날 화나게 만들어!</LuminaryMood.stages.1.description>
+  <LuminaryMood.stages.2.label>행복한 선각자</LuminaryMood.stages.2.label>
+  <LuminaryMood.stages.2.description>선각자가 기분이 좋은가봐. 나도 기분이 좋아지는데!</LuminaryMood.stages.2.description>
+  <LuminaryMood.stages.3.label>매우 행복한 선각자</LuminaryMood.stages.3.label>
+  <LuminaryMood.stages.3.description>선각자가 매우 행복해하고있어. 나도 기분이 아주 좋아!</LuminaryMood.stages.3.description>
+
+  <!--1778162471_190626_RazzleDazzle-->
+  <PerformedInExtremelyImpressiveSpace.stages.0.label>최고의 환경에서 공연함</PerformedInExtremelyImpressiveSpace.stages.0.label>
+  <PerformedInExtremelyImpressiveSpace.stages.0.description>난 평생 이런 무대에서 공연할 날을 꿈꿔왔어!</PerformedInExtremelyImpressiveSpace.stages.0.description>
+  <PerformedInVeryImpressiveSpace.stages.0.label>아주 멋진 환경에서 공연함</PerformedInVeryImpressiveSpace.stages.0.label>
+  <PerformedInVeryImpressiveSpace.stages.0.description>이 얼마나 공연하기에 좋은 무대인지!</PerformedInVeryImpressiveSpace.stages.0.description>
+  <PerformedInImpressiveSpace.stages.0.label>좋은 환경에서 공연함</PerformedInImpressiveSpace.stages.0.label>
+  <PerformedInImpressiveSpace.stages.0.description>즐거운 공연에 어울리는 좋은 무대였어.</PerformedInImpressiveSpace.stages.0.description>
+  <Performed.stages.0.label>정착민들을 위해 공연함</Performed.stages.0.label>
+  <Performed.stages.0.description>난 세상과 내 예술을 공유하고 싶어!</Performed.stages.0.description>
+  <SawBadPlay.stages.0.label>구린 공연을 봄</SawBadPlay.stages.0.label>
+  <SawBadPlay.stages.0.description>이런걸 보려고 시간을 낭비하다니, 믿을 수가 없군!</SawBadPlay.stages.0.description>
+  <SawPlay.stages.0.label>공연을 봄</SawPlay.stages.0.label>
+  <SawPlay.stages.0.description>그래도 일상에서 잠시나마 벗어날 수 있었어.</SawPlay.stages.0.description>
+  <SawGoodPlay.stages.0.label>좋은 공연을 봄</SawGoodPlay.stages.0.label>
+  <SawGoodPlay.stages.0.description>이게 바로 예술이지! 이런 시간을 가질 수 있어서 참 좋았어!</SawGoodPlay.stages.0.description>
+  <SawAmazingPlay.stages.0.label>놀라운 공연을 봄</SawAmazingPlay.stages.0.label>
+  <SawAmazingPlay.stages.0.description>그 공연은 내 삶을 바꿔놓을만한 위대한 공연이었어!</SawAmazingPlay.stages.0.description>
+  <AttendedBadConcert.stages.0.label>구린 연주회에 참석함</AttendedBadConcert.stages.0.label>
+  <AttendedBadConcert.stages.0.description>으으윽, 완전 폭탄사슴 멱따는 소리같았어.</AttendedBadConcert.stages.0.description>
+  <AttendedConcert.stages.0.label>연주회에 참석함</AttendedConcert.stages.0.label>
+  <AttendedConcert.stages.0.description>나름 분위기 있는 저녁 음악회였던 것 같아.</AttendedConcert.stages.0.description>
+  <AttendedGoodConcert.stages.0.label>좋은 연주회에 참석함</AttendedGoodConcert.stages.0.label>
+  <AttendedGoodConcert.stages.0.description>완전 멋진 음악이었어!</AttendedGoodConcert.stages.0.description>
+  <AttendedAmazingConcert.stages.0.label>놀라운 연주회에 참석함</AttendedAmazingConcert.stages.0.label>
+  <AttendedAmazingConcert.stages.0.description>마치 내 영혼을 달래주는 것 같은 음악이었어!</AttendedAmazingConcert.stages.0.description>
+  <AttendedBadGig.stages.0.label>구린 코미디를 봄</AttendedBadGig.stages.0.label>
+  <AttendedBadGig.stages.0.description>그 침묵 속에 있는건 정말 고통스러울 정도로 어색했어...</AttendedBadGig.stages.0.description>
+  <AttendedGig.stages.0.label>코미디를 봄</AttendedGig.stages.0.label>
+  <AttendedGig.stages.0.description>몇몇 꽁트는 나름 웃겼어.</AttendedGig.stages.0.description>
+  <AttendedGoodGig.stages.0.label>좋은 코미디를 봄</AttendedGoodGig.stages.0.label>
+  <AttendedGoodGig.stages.0.description>하하하! 정말 기발하고 재밌었어!</AttendedGoodGig.stages.0.description>
+  <AttendedAmazingGig.stages.0.label>놀라운 코미디를 봄</AttendedAmazingGig.stages.0.label>
+  <AttendedAmazingGig.stages.0.description>난 그런 머팔로는 결코 다시 보지 못할거야!</AttendedAmazingGig.stages.0.description>
+
+  <!--724600171_190621_Misc. MAI-->
+  <AIBaseThought.stages.0.label>...</AIBaseThought.stages.0.label>
+  <AIBaseThought.stages.0.description>나는 아무것도 느낄 수 없다…</AIBaseThought.stages.0.description>
+  <AIShieldingError.stages.0.label>보호막 오류</AIShieldingError.stages.0.label>
+  <AIShieldingError.stages.0.description>보호막에 구멍이 났습니다. 나노머신을 활성화합니다.</AIShieldingError.stages.0.description>
+  <AIBatteriesRefilled.stages.0.label>배터리 충전됨</AIBatteriesRefilled.stages.0.label>
+  <AIBatteriesRefilled.stages.0.description>배터리가 충전이 완료됐습니다. 일하러 돌아갑니다.</AIBatteriesRefilled.stages.0.description>
+  <AILowBattery.stages.0.label>배터리 부족</AILowBattery.stages.0.label>
+  <AILowBattery.stages.0.description>배터리 잔량이 적습니다. 곧 충전해야 합니다.</AILowBattery.stages.0.description>
+  <AILowCriticalBattery.stages.0.label>배터리 위험</AILowCriticalBattery.stages.0.label>
+  <AILowCriticalBattery.stages.0.description>배터리가 정말 부족합니다. 충전되지 않는다면, 자폭 프로토콜을 실행합니다.</AILowCriticalBattery.stages.0.description>
+
+  <!--724602224_190626_Misc. Robots-->
+  <AIRobotBaseThought.stages.0.label>...</AIRobotBaseThought.stages.0.label>
+  <AIRobotBaseThought.stages.0.description>나는 아무것도 느낄 수 없다…</AIRobotBaseThought.stages.0.description>
+
+  <!--732569232_190814_Medieval Times-->
+  <MedTimes_AteCheese.stages.0.label>치즈를 먹음</MedTimes_AteCheese.stages.0.label>
+  <MedTimes_AteHeartyStew.stages.0.label>푸짐한 스튜를 먹음</MedTimes_AteHeartyStew.stages.0.label>
+  <MedTimes_AteWeakStew.stages.0.label>간단한 스튜를 먹음</MedTimes_AteWeakStew.stages.0.label>
+  <MedTimes_AteWeakStew.stages.0.description>간단한 스튜를 먹었어. 양은 적지만 국물이 따뜻하고 꽤 맛있었어. 적어도 배는 부르잖아?</MedTimes_AteWeakStew.stages.0.description>
+  <MedTimes_AteCheese.stages.0.description>약간 이상한 치즈를 먹었어... 아! 또 치즈를 먹고 싶어!</MedTimes_AteCheese.stages.0.description>
+  <MedTimes_GraphicNovel.stages.0.description>재밌는 만화책을 읽었어. 정말 잘만든 책이야.</MedTimes_GraphicNovel.stages.0.description>
+  <MedTimes_GraphicNovel.stages.0.label>만화책을 읽음</MedTimes_GraphicNovel.stages.0.label>
+  <MedTimes_AteHeartyStew.stages.0.description>푸짐한 스튜는 정말 맛있는데? 내 몸과 영혼을 꽉 채워주는 거 같아!</MedTimes_AteHeartyStew.stages.0.description>
+
+  <!--751049133_190622_The Birds and the Bees-->
+  <SomeoneNeutered.stages.3.description>정착민이 중성화당했다. 아마 다음은 내가...</SomeoneNeutered.stages.3.description>
+  <SomeoneNeutered.stages.2.description>손님이 중성화당했다. 대체 무슨 짓을 한 거야?</SomeoneNeutered.stages.2.description>
+  <SomeoneNeutered.stages.1.description>포로가 중성화되었다. 우리가 죄수들을 이렇게 대우해야 할까?</SomeoneNeutered.stages.1.description>
+  <Neutered.stages.1.label>불임</Neutered.stages.1.label>
+  <SomeoneNeutered.stages.3.label>정착민 중성화됨</SomeoneNeutered.stages.3.label>
+  <SomeoneNeutered.stages.0.label>형벌적 중성화</SomeoneNeutered.stages.0.label>
+  <SomeoneNeutered.stages.2.label>손님 중성화됨</SomeoneNeutered.stages.2.label>
+  <LovinPerformance.stages.3.label>기분 끝내주는 성교</LovinPerformance.stages.3.label>
+  <LovinPerformance.stages.1.label>기분 나쁜 성교</LovinPerformance.stages.1.label>
+  <LovinPerformance.stages.2.label>괜찮은 성교</LovinPerformance.stages.2.label>
+  <LovinPerformance.stages.0.label>거지같은 성교</LovinPerformance.stages.0.label>
+  <SomeoneNeutered.stages.0.description>녀석이 자초한 일이야.</SomeoneNeutered.stages.0.description>
+  <LovinPerformance.stages.1.description>흠. 더 나은 애인을 찾아야 할지도 모르겠네.</LovinPerformance.stages.1.description>
+  <HotFlash.stages.0.label>열성 홍조</HotFlash.stages.0.label>
+  <Neutered.stages.0.description>나는 불완전하다고 느껴.</Neutered.stages.0.description>
+  <Neutered.stages.1.description>나는 더 이상 아이를 가질 수 없어. 내 삶의 목적은 뭐지?</Neutered.stages.1.description>
+  <HotFlash.stages.0.description>지금 너무 뜨거워...</HotFlash.stages.0.description>
+  <Neutered.stages.0.label>중성화</Neutered.stages.0.label>
+  <SomeoneNeutered.stages.1.label>죄수 중성화됨</SomeoneNeutered.stages.1.label>
+  <LovinPerformance.stages.2.description>그건... 좋았어, 그렇지?</LovinPerformance.stages.2.description>
+  <LovinPerformance.stages.0.description>그건...정말 끔찍했어.</LovinPerformance.stages.0.description>
+  <LovinPerformance.stages.3.description>와! 정말 끝내줬어!</LovinPerformance.stages.3.description>
+
+  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
+  <ROM_SanityLoss.stages.2.label>불안함</ROM_SanityLoss.stages.2.label>
+  <ROM_AteStrangeMeatAsIngredient.stages.0.label>기괴한 고기 요리</ROM_AteStrangeMeatAsIngredient.stages.0.label>
+  <ROM_SanityLoss.stages.5.label>정신 나감</ROM_SanityLoss.stages.5.label>
+  <ROM_SanityLoss.stages.4.label>미쳤음</ROM_SanityLoss.stages.4.label>
+  <ROM_AteStrangeMeatDirect.stages.0.description>그것을 먹었는데, 음. 그러니까 먹었어. 왜? 왜지? 난 왜 그것을 먹은 거지?</ROM_AteStrangeMeatDirect.stages.0.description>
+  <ROM_AteStrangeMeatAsIngredient.stages.0.description>내 뱃속에서 무언가가 꿈틀거리는거 같아. 뭔가 잘못 되었어. 혹시 내가 먹은 것 때문에?</ROM_AteStrangeMeatAsIngredient.stages.0.description>
+  <ObservedROM_ChthonianLarva.stages.0.description>이것보다 더 두려운 것이 있을까?</ObservedROM_ChthonianLarva.stages.0.description>
+  <ROM_SanityLoss.stages.3.description>나는 여기서 나가야 해.</ROM_SanityLoss.stages.3.description>
+  <ROM_SanityLoss.stages.4.description>Iä! Iä!</ROM_SanityLoss.stages.4.description>
+  <ROM_SanityLoss.stages.5.description>mglw'nafh fhthagn-ngah cf'ayak 'vulgtmm vugtlag'n</ROM_SanityLoss.stages.5.description>
+  <ObservedROM_Chthonian.stages.0.label>크토니안 목격</ObservedROM_Chthonian.stages.0.label>
+  <ObservedROM_ChthonianLarva.stages.0.label>크토니안 유충 목격</ObservedROM_ChthonianLarva.stages.0.label>
+  <ObservedROM_DarkYoung.stages.0.label>다크 영 목격</ObservedROM_DarkYoung.stages.0.label>
+  <ObservedROM_DeepOne.stages.0.label>딥-원을 목격</ObservedROM_DeepOne.stages.0.label>
+  <ObservedROM_DeepOneGreat.stages.0.label>그레이트 딥-원 목격</ObservedROM_DeepOneGreat.stages.0.label>
+  <ObservedROM_MiGo.stages.0.label>미고 목격</ObservedROM_MiGo.stages.0.label>
+  <ObservedROM_Shoggoth.stages.0.label>쇼고스 목격</ObservedROM_Shoggoth.stages.0.label>
+  <ObservedROM_ShoggothColossal.stages.0.label>거대한 쇼고스 목격</ObservedROM_ShoggothColossal.stages.0.label>
+  <ObservedROM_ShoggothTiny.stages.0.label>작은 쇼고스 목격</ObservedROM_ShoggothTiny.stages.0.label>
+  <ObservedROM_Cthulhid.stages.0.label>크툴루의 스타-스폰 목격</ObservedROM_Cthulhid.stages.0.label>
+  <ObservedROM_StarVampire.stages.0.label>스타 뱀파이어 목격</ObservedROM_StarVampire.stages.0.label>
+  <ROM_SanityLoss.stages.3.label>편집증</ROM_SanityLoss.stages.3.label>
+  <ROM_AteStrangeMeatDirect.stages.0.label>노골적으로 기괴한 고기</ROM_AteStrangeMeatDirect.stages.0.label>
+  <ROM_SawMonster.stages.0.label>괴물을 목격함</ROM_SawMonster.stages.0.label>
+  <ROM_SanityLoss.stages.0.description>나타나지 말아야 합니다.</ROM_SanityLoss.stages.0.description>
+  <ROM_SanityLoss.stages.1.description>뭔가 잘못 됬어.</ROM_SanityLoss.stages.1.description>
+  <ROM_SanityLoss.stages.1.label>긴장함</ROM_SanityLoss.stages.1.label>
+  <ROM_SanityLoss.stages.0.label>긴장함-감춰짐</ROM_SanityLoss.stages.0.label>
+  <ROM_SawMonster.stages.0.description>내가 본 것을 뭐라 말 할 수 없어.</ROM_SawMonster.stages.0.description>
+  <ROM_SanityLoss.stages.2.description>근본부터 잘못된 존재들이 있어.</ROM_SanityLoss.stages.2.description>
+  <ObservedROM_DarkYoung.stages.0.description>그들은... 그들은 진짜일까?</ObservedROM_DarkYoung.stages.0.description>
+  <ObservedROM_Chthonian.stages.0.description>이건 현실이 아니야.</ObservedROM_Chthonian.stages.0.description>
+  <ObservedROM_Cthulhid.stages.0.description>저게 뭐야?!</ObservedROM_Cthulhid.stages.0.description>
+  <ObservedROM_DeepOne.stages.0.description>저게 뭐야?!</ObservedROM_DeepOne.stages.0.description>
+  <ObservedROM_DeepOneGreat.stages.0.description>저게 뭐야?!</ObservedROM_DeepOneGreat.stages.0.description>
+  <ObservedROM_MiGo.stages.0.description>저게 뭐야?!</ObservedROM_MiGo.stages.0.description>
+  <ObservedROM_ShoggothColossal.stages.0.description>저게 뭐야?!</ObservedROM_ShoggothColossal.stages.0.description>
+  <ObservedROM_StarVampire.stages.0.description>저게 뭐야?!</ObservedROM_StarVampire.stages.0.description>
+  <ObservedROM_ShoggothTiny.stages.0.description>저게 뭐야?!</ObservedROM_ShoggothTiny.stages.0.description>
+  <ObservedROM_Shoggoth.stages.0.description>저게 뭐야?!</ObservedROM_Shoggoth.stages.0.description>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Cults_BlackoutBook.stages.0.label>오컬트 마도서를 획득함</Cults_BlackoutBook.stages.0.label>
+  <Cults_MidnightInquisitionThought.stages.0.label>선교를 거부함</Cults_MidnightInquisitionThought.stages.0.label>
+  <Cults_AttendedAwfulSermonAsCultist.stages.0.label>끔찍한 설교</Cults_AttendedAwfulSermonAsCultist.stages.0.label>
+  <Cults_SawAurora.stages.0.label>아름다운 오로라</Cults_SawAurora.stages.0.label>
+  <Cults_AttendedDecentSermonAsCultist.stages.0.label>예의 바른 설교</Cults_AttendedDecentSermonAsCultist.stages.0.label>
+  <Cults_AttendedAwfulSermonAsInnocent.stages.0.description>정말로 이 말을 믿는거야? 미친거지?</Cults_AttendedAwfulSermonAsInnocent.stages.0.description>
+  <Cults_ExecutedFamily.stages.0.label>{0}명을 처형함</Cults_ExecutedFamily.stages.0.label>
+  <Cults_ExecutedFriend.stages.0.label>친구를 {0}번 처형함</Cults_ExecutedFriend.stages.0.label>
+  <Cults_PrayedInImpressiveTemple.stages.8.label>매우 인상적인 신전</Cults_PrayedInImpressiveTemple.stages.8.label>
+  <Cults_AttendedFailedSacrifice.stages.0.label>번제의 실패</Cults_AttendedFailedSacrifice.stages.0.label>
+  <Cults_InnocentAttendedFailedSacrifice.stages.0.label>번제의 실패</Cults_InnocentAttendedFailedSacrifice.stages.0.label>
+  <Cults_AttendedGreatSermonAsCultist.stages.0.description>그것은 위대한 설교였어!</Cults_AttendedGreatSermonAsCultist.stages.0.description>
+  <Cults_FoundedCultMood.stages.0.label>종교를 창설함</Cults_FoundedCultMood.stages.0.label>
+  <Cults_FoundedCult.stages.0.label>종교를 설립함</Cults_FoundedCult.stages.0.label>
+  <Cults_AttendedGoodSermonAsCultist.stages.0.label>좋은 설교</Cults_AttendedGoodSermonAsCultist.stages.0.label>
+  <Cults_AttendedGreatSermonAsCultist.stages.0.label>굉장한 설교</Cults_AttendedGreatSermonAsCultist.stages.0.label>
+  <Cults_InnocentAttendedFailedSacrifice.stages.0.description>우리가 괴물이라고? 우린 아무것도 죽이지 않았어!</Cults_InnocentAttendedFailedSacrifice.stages.0.description>
+  <Cults_HeldSermon.stages.0.label>설교함</Cults_HeldSermon.stages.0.label>
+  <Cults_ObservedNightmareMonolith.stages.0.description>어떻게 여기에 나타났을까? 이 것은 무엇을 상징하는 것일까? 알수 없어. 왠지 기분이 나빠.</Cults_ObservedNightmareMonolith.stages.0.description>
+  <Cults_BlackoutBook.stages.0.description>밖으로 나간 뒤에 기억이 나질 않아. 그 뒤로 이 책에 손을 올리면 내 이름을 부르는 것을 느낄 수 있어. 나는 미쳤을까?</Cults_BlackoutBook.stages.0.description>
+  <Cults_OtherPrisonerWasSacrificed.stages.0.description>안돼! 여기서 나가야 해! 다음엔 내가 죽을거야!</Cults_OtherPrisonerWasSacrificed.stages.0.description>
+  <Cults_AttendedGoodSermonAsInnocent.stages.0.description>그 말에 반박할 수는 없지만, 받아들일 수도 없어.\n\n정보: 좋은 설교는 정착림들의 종교 정신을 천천히 증가시킵니다.</Cults_AttendedGoodSermonAsInnocent.stages.0.description>
+  <Cults_AttendedGoodSermonAsCultist.stages.0.description>이 세상 너머의 무언가를 느낄 수 있었어.</Cults_AttendedGoodSermonAsCultist.stages.0.description>
+  <Cults_AttendedAwfulSermonAsCultist.stages.0.description>내가 그것보다 더 잘하겠다!</Cults_AttendedAwfulSermonAsCultist.stages.0.description>
+  <Cults_AttendedDecentSermonAsInnocent.stages.0.description>그들의 말이 사실일 지는 몰라도, 그들이 말하는 방식에는 동의할 수 없어. 그 자신감은 아주 칭찬해.\n\n정보: 좋은 설교는 정착림들의 종교 정신을 천천히 증가시킵니다.</Cults_AttendedDecentSermonAsInnocent.stages.0.description>
+  <Cults_AttendedIncredibleSermonAsInnocent.stages.0.description>설교자의 목소리로 IT 부서에 전화하는 것이 생각났습니다. 그게 뭐야? 나 졸은거야?\n\n정보: 좋은 설교는 정착림들의 종교 정신을 천천히 증가시킵니다.</Cults_AttendedIncredibleSermonAsInnocent.stages.0.description>
+  <Cults_HeldSermon.stages.0.description>신의 말씀을 전달하는 것이 반드시 필요해. 바라건대 다른 사람들도 즐겼기를</Cults_HeldSermon.stages.0.description>
+  <Cults_FoundedCultMood.stages.0.description>나는 모두에게 말해야 해. 모든 것이 분명한 이 진리를 알아야 해. 위대한 일이 우리를 기다리고 있어.</Cults_FoundedCultMood.stages.0.description>
+  <Cults_PrayedInImpressiveTemple.stages.11.description>내가 상상할 수 있는 최고의 성전에서 기도했어. 영원히 그곳에 머물고 싶어.</Cults_PrayedInImpressiveTemple.stages.11.description>
+  <Cults_ExecutedPet.stages.0.description>나는 우리의 신앙 때문에 그들을 죽였어. 마치 속이 텅 빈것 같아.</Cults_ExecutedPet.stages.0.description>
+  <Cults_PrayedInImpressiveTemple.stages.10.description>기적적으로 훌륭한 성전에서 시간을 보냈어. 영원히 그곳에 머물고 싶어.</Cults_PrayedInImpressiveTemple.stages.10.description>
+  <Cults_PrayedInImpressiveTemple.stages.7.description>아주 인상적인 신전이었어.</Cults_PrayedInImpressiveTemple.stages.7.description>
+  <Cults_PrayedInImpressiveTemple.stages.8.description>매우 인상적인 신전에서 약간의 시간을 보냈어. 그곳에 영원히 있고 싶어.</Cults_PrayedInImpressiveTemple.stages.8.description>
+  <Cults_PrayedInImpressiveTemple.stages.5.description>좋은 신전이었어.</Cults_PrayedInImpressiveTemple.stages.5.description>
+  <Cults_PrayedInImpressiveTemple.stages.6.description>인상적인 신전이었지.</Cults_PrayedInImpressiveTemple.stages.6.description>
+  <Cults_PrayedInImpressiveTemple.stages.9.description>믿을 수 없을 정도로 인상적인 신전에서 약간의 시간을 보냈어. 영원히 그곳에 머물 고 싶어.</Cults_PrayedInImpressiveTemple.stages.9.description>
+  <Cults_JoinedCultMood.stages.0.description>나는 위대한 무언가의 일부야.</Cults_JoinedCultMood.stages.0.description>
+  <Cults_AttendedDecentSermonAsCultist.stages.0.description>라! 라! 아주 칭찬해!</Cults_AttendedDecentSermonAsCultist.stages.0.description>
+  <Cults_PrayedInImpressiveTemple.stages.5.label>인상적인 신전</Cults_PrayedInImpressiveTemple.stages.5.label>
+  <Cults_PrayedInImpressiveTemple.stages.6.label>인상적인 신전</Cults_PrayedInImpressiveTemple.stages.6.label>
+  <Cults_AttendedIncredibleSermonAsCultist.stages.0.label>놀라운 설교</Cults_AttendedIncredibleSermonAsCultist.stages.0.label>
+  <Cults_MadeInvestigation.stages.0.label>이상한 일을 조사함</Cults_MadeInvestigation.stages.0.label>
+  <Cults_JoinedCultMood.stages.0.label>종교에 가입함</Cults_JoinedCultMood.stages.0.label>
+  <Cults_JoinedCult.stages.0.label>종교에 가입함</Cults_JoinedCult.stages.0.label>
+  <Cults_WitnessedSacrificeBloodlust.stages.0.description>피가 마구 흘러. 아! 아!!</Cults_WitnessedSacrificeBloodlust.stages.0.description>
+  <Cults_PrayedInImpressiveTemple.stages.10.label>기적적으로 멋진 신전</Cults_PrayedInImpressiveTemple.stages.10.label>
+  <Cults_SacrificedFamily.stages.0.label>가족 구성원 {0} 희생됨</Cults_SacrificedFamily.stages.0.label>
+  <Cults_SacrificedFriend.stages.0.label>친구 {0} 희생됨</Cults_SacrificedFriend.stages.0.label>
+  <Cults_SacrificedPet.stages.0.label>애완동물 {0} 희생됨</Cults_SacrificedPet.stages.0.label>
+  <Cults_SacrificedRival.stages.0.label>라이벌 {0} 희생됨</Cults_SacrificedRival.stages.0.label>
+  <Cults_ObservedNightmareTree.stages.0.label>괴상한 나무를 관찰함</Cults_ObservedNightmareTree.stages.0.label>
+  <Cults_ObservedNightmareTreeCultist.stages.0.label>성스러운 나무를 관찰함</Cults_ObservedNightmareTreeCultist.stages.0.label>
+  <Cults_ObservedNightmareMonolith.stages.0.label>모노리스를 관찰함</Cults_ObservedNightmareMonolith.stages.0.label>
+  <Cults_ObservedNightmareMonolithCultist.stages.0.label>모노리스를 관찰함</Cults_ObservedNightmareMonolithCultist.stages.0.label>
+  <Cults_DangerPreach.stages.0.label>불쾌한 신앙</Cults_DangerPreach.stages.0.label>
+  <Cults_OtherPrisonerWasSacrificed.stages.0.label>다른 죄수가 제물로 바쳐짐</Cults_OtherPrisonerWasSacrificed.stages.0.label>
+  <Cults_MadeInvestigationMood.stages.0.label>조사를 수행함</Cults_MadeInvestigationMood.stages.0.label>
+  <Cults_ExecutedPet.stages.0.label>{0}명과 {1}명을 처형함.</Cults_ExecutedPet.stages.0.label>
+  <Cults_SawCarcosa.stages.0.label>카르코사를 목격</Cults_SawCarcosa.stages.0.label>
+  <Cults_SafePreach.stages.0.label>신앙을 공유함</Cults_SafePreach.stages.0.label>
+  <Cults_AttendedSuccessfulSacrifice.stages.0.label>번제의 성공</Cults_AttendedSuccessfulSacrifice.stages.0.label>
+  <Cults_InnocentAttendedSuccessfulSacrifice.stages.0.label>번제의 성공</Cults_InnocentAttendedSuccessfulSacrifice.stages.0.label>
+  <Cults_AttendedFailedSacrifice.stages.0.description>영광스러운 희생이 되었어야 했는데, 실패했어.</Cults_AttendedFailedSacrifice.stages.0.description>
+  <Cults_ObservedNightmareTreeCultist.stages.0.description>정말 놀라운 일이야. 반드시 보존되어야만 해.</Cults_ObservedNightmareTreeCultist.stages.0.description>
+  <Cults_ObservedNightmareTree.stages.0.description>이 자리에는 아무것도 없었어. 확실해. 대체 어떻게 자라난거야?</Cults_ObservedNightmareTree.stages.0.description>
+  <Cults_ObservedNightmareMonolithCultist.stages.0.description>이 상징물은 신들의 표식이야. 이것을 보존해야만 해.</Cults_ObservedNightmareMonolithCultist.stages.0.description>
+  <Cults_AttendedGreatSermonAsInnocent.stages.0.description>설교자가 말한 것들... 그들은 사실 일 수 없어. 하지만 만약 그들이 옳다면? 나는 정말 잘못된 것일까?\n\n정보: 좋은 설교는 정착림들의 종교 정신을 천천히 증가시킵니다.</Cults_AttendedGreatSermonAsInnocent.stages.0.description>
+  <Cults_ExecutedFriend.stages.0.description>그는 대의를 위해 희생되었어. 하지만 이 슬픔은 뭘까.</Cults_ExecutedFriend.stages.0.description>
+  <Cults_SacrificedPet.stages.0.description>그들이 죽였어. 무비정한 놈들!</Cults_SacrificedPet.stages.0.description>
+  <Cults_SawCarcosa.stages.0.description>쌍둥이 태양은 구름의 파도 뒤에 떨어졌고, 나는 멀리서 잃어버린 도시의 카르코사를 목격했어!</Cults_SawCarcosa.stages.0.description>
+  <Cults_PrayedInImpressiveTemple.stages.9.label>믿을 수 없을만큼 인상적인 신전</Cults_PrayedInImpressiveTemple.stages.9.label>
+  <Cults_PrayedInImpressiveTemple.stages.7.label>아주 인상적인 신전</Cults_PrayedInImpressiveTemple.stages.7.label>
+  <Cults_MidnightInquisitionThought.stages.0.description>우리는 우리 스스로 문제를 해결해야해. 종교? 그걸 막아야 해.</Cults_MidnightInquisitionThought.stages.0.description>
+  <Cults_SacrificedFamily.stages.0.description>우린 괴물이야.</Cults_SacrificedFamily.stages.0.description>
+  <Cults_AttendedSuccessfulSacrifice.stages.0.description>정말 영광스러운 일이야!</Cults_AttendedSuccessfulSacrifice.stages.0.description>
+  <Cults_SacrificedRival.stages.0.description>이 얼마나 위대한 일인가! 그들이 사라져서 다행이야.</Cults_SacrificedRival.stages.0.description>
+  <Cults_SawAurora.stages.0.description>이 얼마나 놀라운 광경인가!</Cults_SawAurora.stages.0.description>
+  <Cults_ExecutedFamily.stages.0.description>나는 믿음이라는 이름으로 무엇을 했지? 아... 내 가족이여...</Cults_ExecutedFamily.stages.0.description>
+  <Cults_SacrificedFriend.stages.0.description>우린 대체 무엇이 되고 싶은걸까?</Cults_SacrificedFriend.stages.0.description>
+  <Cults_InnocentAttendedSuccessfulSacrifice.stages.0.description>우리가 뭐 했지?</Cults_InnocentAttendedSuccessfulSacrifice.stages.0.description>
+  <Cults_AttendedIncredibleSermonAsCultist.stages.0.description>잠시동안, 마치 우리 사이에서 그 신성한 영혼을 느꼈어.</Cults_AttendedIncredibleSermonAsCultist.stages.0.description>
+  <Cults_AttendedAwfulSermonAsInnocent.stages.0.label>심한 설교를 목격</Cults_AttendedAwfulSermonAsInnocent.stages.0.label>
+  <Cults_AttendedIncredibleSermonAsInnocent.stages.0.label>끔찍한 설교를 목격</Cults_AttendedIncredibleSermonAsInnocent.stages.0.label>
+  <Cults_AttendedGreatSermonAsInnocent.stages.0.label>위압적인 설교를 목격</Cults_AttendedGreatSermonAsInnocent.stages.0.label>
+  <Cults_AttendedDecentSermonAsInnocent.stages.0.label>불길한 설교를 목격</Cults_AttendedDecentSermonAsInnocent.stages.0.label>
+  <Cults_WitnessedSacrificeBloodlust.stages.0.label>제물이 바쳐지는 것을 목격함</Cults_WitnessedSacrificeBloodlust.stages.0.label>
+  <Cults_AttendedGoodSermonAsInnocent.stages.0.label>불길한 설교를 목격</Cults_AttendedGoodSermonAsInnocent.stages.0.label>
+  <Cults_PrayedInImpressiveTemple.stages.11.label>세계의 경이</Cults_PrayedInImpressiveTemple.stages.11.label>
+  <Cults_MadeInvestigationMood.stages.0.description>ι нανє ℓσσкє∂ υρσи αℓℓ тнαт тнє υиινєяѕє нαѕ тσ нσℓ∂ σf нσяяσя, αи∂ єνєи тнє ѕкιєѕ σf ѕρяιиg αи∂ тнє fℓσωєяѕ σf ѕυммєя мυѕт єνєя αfтєяωαя∂ вє ρσιѕσи тσ мє.̤̤</Cults_MadeInvestigationMood.stages.0.description>
+
+  <!--839005762_190628_Humanoid Alien Races-->
+  <AlienVsXenophobia.stages.1.label>이종족 혐오자들에게 혐오받는 외계인</AlienVsXenophobia.stages.1.label>
+  <AlienVsXenophobia.stages.0.label>이종족 우호자들에게 사랑받는 외계인</AlienVsXenophobia.stages.0.label>
+  <XenophobiaVsAlien.stages.0.label>이종족 우호자들은 외계인을 좋아합니다.</XenophobiaVsAlien.stages.0.label>
+  <XenophobiaVsAlien.stages.0.description>이종족 우호자들은 외계인을 좋아합니다.</XenophobiaVsAlien.stages.0.description>
+  <XenophobiaVsAlien.stages.1.label>이종족 혐오자들은 외계인을 혐오합니다.</XenophobiaVsAlien.stages.1.label>
+  <XenophobiaVsAlien.stages.1.description>이종족 혐오자들은 외계인을 혐오합니다.</XenophobiaVsAlien.stages.1.description>
+  <XenophobeVsXenophile.stages.0.label>이종족 혐오 대 이종족 우호</XenophobeVsXenophile.stages.0.label>
+
+  <!--918226861_190816_Star Wars - The Force-->
+  <PJ_RageThought.stages.0.label>포스 레이지</PJ_RageThought.stages.0.label>
+  <PJ_ThoughtPull.stages.0.description>이봐! 날 당기지 마!</PJ_ThoughtPull.stages.0.description>
+  <PJ_ThoughtPush.stages.0.description>이봐! 날 밀지 마!</PJ_ThoughtPush.stages.0.description>
+  <PJ_MindtrickThought.stages.0.label>마인드 트릭</PJ_MindtrickThought.stages.0.label>
+  <PJ_ThoughtPull.stages.0.label>포스로 당기기</PJ_ThoughtPull.stages.0.label>
+  <PJ_ThoughtPush.stages.0.label>포스로 밀기</PJ_ThoughtPush.stages.0.label>
+  <PJ_RageThought.stages.0.description>포스는 약한 마음에 강한 영향을 줄 수 있습니다. 이 힘은 타겟을 냉혹한 분노로 몰아 넣습니다.</PJ_RageThought.stages.0.description>
+  <PJ_MindtrickThought.stages.0.description>포스는 약한 마음에 강한 영향을 줄 수 있습니다.</PJ_MindtrickThought.stages.0.description>
+
+  <!--964388988_190621_gas and shalls-->
+  <FearThoughts.stages.0.label>불안함</FearThoughts.stages.0.label>
+  <FearThoughts.stages.0.description>뭔가 잘못됐어...</FearThoughts.stages.0.description>
+  <FearThoughts.stages.1.label>커다란 두려움</FearThoughts.stages.1.label>
+  <FearThoughts.stages.1.description>나는 정말 초조해... 이게 웬일이야.</FearThoughts.stages.1.description>
+  <FearThoughts.stages.2.label>이루 다 말할 수 없는 공포</FearThoughts.stages.2.label>
+  <FearThoughts.stages.2.description>나는 완전하고 완전한 공포를 느껴!</FearThoughts.stages.2.description>
+  <FearThoughts.stages.3.label>극도의 공황</FearThoughts.stages.3.label>
+  <FearThoughts.stages.3.description>세상에! 이 두려움이 나를 미치게 해!</FearThoughts.stages.3.description>
+
+  <!--1552507180_190814_Psychology-->
+  <MethadoneWithdrawal.stages.1.label>메타돈 금단현상</MethadoneWithdrawal.stages.1.label>
+  <MethadoneWithdrawal.stages.1.description>머리가 텅 빈 것 같아.</MethadoneWithdrawal.stages.1.description>
+  <AttendedFuneral.stages.0.label>장례식에 참석함</AttendedFuneral.stages.0.label>
+  <AttendedFuneral.stages.0.description>정착민의 장례식에 참석했어. 기분이 좀 나아진것 같애.</AttendedFuneral.stages.0.description>
+  <WitnessedDeathAllyBleedingHeart.stages.0.label>동료의 죽음을 목격함</WitnessedDeathAllyBleedingHeart.stages.0.label>
+  <WitnessedDeathAllyBleedingHeart.stages.0.description>동료가 죽었어. 이렇게 죽다니 믿을 수가 없어. 다신 웃으며 대화를 나눌 수 없다니 너무 슬퍼.</WitnessedDeathAllyBleedingHeart.stages.0.description>
+  <WitnessedDeathNonAllyBleedingHeart.stages.0.label>외부인의 죽음을 목격함</WitnessedDeathNonAllyBleedingHeart.stages.0.label>
+  <WitnessedDeathNonAllyBleedingHeart.stages.0.description>누군가 죽는 걸 봤어. 눈동자에 불이 켜져있었는데, 마치 촛불이 꺼지는 것처럼 사라지더군.</WitnessedDeathNonAllyBleedingHeart.stages.0.description>
+  <KnowGuestExecutedBleedingHeart.stages.0.label>정당한 처형</KnowGuestExecutedBleedingHeart.stages.0.label>
+  <KnowGuestExecutedBleedingHeart.stages.0.description>죄를 지은 사람이 처형당했어. 정당한 일이라고해도 생명을 잃는다는건 슬픈 일이야.</KnowGuestExecutedBleedingHeart.stages.0.description>
+  <KnowGuestExecutedBleedingHeart.stages.1.label>안락사</KnowGuestExecutedBleedingHeart.stages.1.label>
+  <KnowGuestExecutedBleedingHeart.stages.1.description>누군가 안락사되었어. 인도적이긴 하지만 여전히 가슴이 아파.</KnowGuestExecutedBleedingHeart.stages.1.description>
+  <KnowGuestExecutedBleedingHeart.stages.2.label>처형</KnowGuestExecutedBleedingHeart.stages.2.label>
+  <KnowGuestExecutedBleedingHeart.stages.2.description>누군가 냉혹하게 처형을 당했어. 내 눈으로 보고도 믿을수가 없군!</KnowGuestExecutedBleedingHeart.stages.2.description>
+  <KnowGuestExecutedBleedingHeart.stages.3.label>장기 적출로 사망</KnowGuestExecutedBleedingHeart.stages.3.label>
+  <KnowGuestExecutedBleedingHeart.stages.3.description>누군가의 장기를 적출하려다 죽어버렸어. 아직도 생생한게 너무 끔찍해!</KnowGuestExecutedBleedingHeart.stages.3.description>
+  <KnowColonistExecutedBleedingHeart.stages.0.label>정당한 처형 (정착민)</KnowColonistExecutedBleedingHeart.stages.0.label>
+  <KnowColonistExecutedBleedingHeart.stages.0.description>죄를 지은 정착민이 처형당했어. 정당한 일이라고해도 생명을 잃는다는건 슬픈 일이야.</KnowColonistExecutedBleedingHeart.stages.0.description>
+  <KnowColonistExecutedBleedingHeart.stages.1.label>안락사 (정착민)</KnowColonistExecutedBleedingHeart.stages.1.label>
+  <KnowColonistExecutedBleedingHeart.stages.1.description>정착민이 안락사되었어. 인도적이긴 하지만 여전히 가슴이 아파.</KnowColonistExecutedBleedingHeart.stages.1.description>
+  <KnowColonistExecutedBleedingHeart.stages.2.label>처형 (정착민)</KnowColonistExecutedBleedingHeart.stages.2.label>
+  <KnowColonistExecutedBleedingHeart.stages.2.description>정착민이 냉혹하게 처형을 당했어. 내 눈으로 보고도 믿을수가 없군!</KnowColonistExecutedBleedingHeart.stages.2.description>
+  <KnowColonistExecutedBleedingHeart.stages.3.label>장기적출로 사망 (정착민)</KnowColonistExecutedBleedingHeart.stages.3.label>
+  <KnowColonistExecutedBleedingHeart.stages.3.description>정착민의 장기를 적출하려다 죽어버렸어. 아직도 생생한게 너무 끔찍해!</KnowColonistExecutedBleedingHeart.stages.3.description>
+  <KnowPrisonerDiedInnocentBleedingHeart.stages.0.label>결백한 수감자 사망</KnowPrisonerDiedInnocentBleedingHeart.stages.0.label>
+  <KnowPrisonerDiedInnocentBleedingHeart.stages.0.description>무죄임에도 불구하고 수감자 한 명이 죽었어. 우린 저들을 챙겨줬어야 해. 그 사람이 죽길 원했다고 해도, 야만적으로 방치하지 말고 규칙에 맞는 처형을 했어야 됐다고.</KnowPrisonerDiedInnocentBleedingHeart.stages.0.description>
+  <KnowColonistDiedBleedingHeart.stages.0.label>정착민 사망</KnowColonistDiedBleedingHeart.stages.0.label>
+  <KnowColonistDiedBleedingHeart.stages.0.description>동료가 죽었어. 이렇게 내버려둬선 안돼...</KnowColonistDiedBleedingHeart.stages.0.description>
+  <AteLavishMealPickyEater.stages.0.label>호화로운 식사</AteLavishMealPickyEater.stages.0.label>
+  <AteLavishMealPickyEater.stages.0.description>정말 엄청난 음식이었어. 매일 매일 먹고 싶은 음식이야!</AteLavishMealPickyEater.stages.0.description>
+  <AteFineMealPickyEater.stages.0.label>좋은 식사</AteFineMealPickyEater.stages.0.label>
+  <AteFineMealPickyEater.stages.0.description>정말 맛있게 먹었어. 내가 원하던 음식이야!</AteFineMealPickyEater.stages.0.description>
+  <AteAwfulMealPickyEater.stages.0.label>형편없는 음식</AteAwfulMealPickyEater.stages.0.label>
+  <AteAwfulMealPickyEater.stages.0.description>역겨운 맛이 나는 식사를 해야 했어. 용납할 수 없어. 난 이보다 더 좋은 음식을 먹을 자격이 있단 말야.</AteAwfulMealPickyEater.stages.0.description>
+  <AteRawFoodPickyEater.stages.0.label>생식</AteRawFoodPickyEater.stages.0.label>
+  <AteRawFoodPickyEater.stages.0.description>날것을 그냥 먹어야 했어. 요리사도 없는 이 곳에서 더이상 살고 싶지 않아.</AteRawFoodPickyEater.stages.0.description>
+  <AteNormalMealPickyEater.stages.0.label>평범한 식사</AteNormalMealPickyEater.stages.0.label>
+  <AteNormalMealPickyEater.stages.0.description>내 기준에 맞는 음식이라고 할 수는 없군. 먹을게 없어서 먹긴 먹었을 뿐이야.</AteNormalMealPickyEater.stages.0.description>
+  <AteInsectMeatAsIngredientPickyEater.stages.0.label>곤충요리 섭취</AteInsectMeatAsIngredientPickyEater.stages.0.label>
+  <AteInsectMeatAsIngredientPickyEater.stages.0.description>칙칙하고 끈적끈적한 곤충고기로 만든 음식을 먹었어. 이런 식감은 생각만 해도 몹시 불쾌하고 짜증나.</AteInsectMeatAsIngredientPickyEater.stages.0.description>
+  <AteInsectMeatDirectPickyEater.stages.0.label>곤충고기 섭취</AteInsectMeatDirectPickyEater.stages.0.label>
+  <AteInsectMeatDirectPickyEater.stages.0.description>칙칙하고 끈적끈적한 곤충고기를 먹었어. 제발 날 죽여줘.</AteInsectMeatDirectPickyEater.stages.0.description>
+  <AteRottenFoodPickyEater.stages.0.label>썩은음식 섭취</AteRottenFoodPickyEater.stages.0.label>
+  <AteRottenFoodPickyEater.stages.0.description>냄새나고 썩은 음식을 먹었어. 이런 음식을 먹느니 차라리 죽는 편이 더 나을거야.</AteRottenFoodPickyEater.stages.0.description>
+  <Dynamic.stages.0.label>역동적</Dynamic.stages.0.label>
+  <MayorNoOffice.stages.0.label>지도자 사무실 없음</MayorNoOffice.stages.0.label>
+  <MayorNoOffice.stages.0.description>내 침실에서 주민들과 회의를 해야만 했어. 전문적으로 회의를 할 공간이 필요하다고.</MayorNoOffice.stages.0.description>
+  <MayorNoBedroom.stages.0.label>지도자 침실 없음</MayorNoBedroom.stages.0.label>
+  <MayorNoBedroom.stages.0.description>지정된 모임장소에서 회의를 하고 싶어. 최소한 개인적으로 사용할 수 있는 침실은 있어야 해.</MayorNoBedroom.stages.0.description>
+  <WonElection.stages.0.label>선거에서 승리함</WonElection.stages.0.label>
+  <WonElection.stages.0.description>해냈어! 내가 바로 지도자야! 나에게 투표했던 모든 사람들 정말 고마워.</WonElection.stages.0.description>
+  <KilledHumanlikeEnemy.stages.0.label>아드레날린 분출</KilledHumanlikeEnemy.stages.0.label>
+  <KilledHumanlikeEnemy.stages.0.description>우리 정착지를 공격하는 누군가를 죽였어. 아직도 손이 떨려... 내가 살아남았다는게 믿기질 않아.</KilledHumanlikeEnemy.stages.0.description>
+  <KnowPrisonerSoldBleedingHeart.stages.0.label>수감자 팔림</KnowPrisonerSoldBleedingHeart.stages.0.label>
+  <KnowPrisonerSoldBleedingHeart.stages.0.description>정착지에서 수감자를 노예로 팔아버렸어. 이런 야만적인 일을 하다니 믿을수가 없군.</KnowPrisonerSoldBleedingHeart.stages.0.description>
+  <KnowGuestOrganHarvestedBleedingHeart.stages.0.label>장기 적출됨</KnowGuestOrganHarvestedBleedingHeart.stages.0.label>
+  <KnowGuestOrganHarvestedBleedingHeart.stages.0.description>정착지에서 누군가의 몸 일부를 적출했어. 선택지가 없는 사람을 부품처럼 분해하다니, 끔찍해.</KnowGuestOrganHarvestedBleedingHeart.stages.0.description>
+  <KnowColonistOrganHarvestedBleedingHeart.stages.0.label>장기 적출됨 (정착민)</KnowColonistOrganHarvestedBleedingHeart.stages.0.label>
+  <KnowColonistOrganHarvestedBleedingHeart.stages.0.description>정착지에서 정착민의 몸 일부를 적출했어. 선택지가 없는 사람을 부품처럼 분해하다니, 끔찍해.</KnowColonistOrganHarvestedBleedingHeart.stages.0.description>
+  <ReplacedPartBleedingHeart.stages.0.label>장기 적출당함</ReplacedPartBleedingHeart.stages.0.label>
+  <ReplacedPartBleedingHeart.stages.0.description>누군가에게 내 몸의 일부를 나눠줬어. 그들의 삶의 질이 더 좋아졌을거야! 난 만족해.</ReplacedPartBleedingHeart.stages.0.description>
+  <DoctorBleedingHeart.stages.0.label>환자를 도움</DoctorBleedingHeart.stages.0.label>
+  <DoctorBleedingHeart.stages.0.description>난 의약품이 좋아. 사람들을 도울 수 있는 많은 기회들을 가져다 주거든.</DoctorBleedingHeart.stages.0.description>
+  <RescuedBleedingHeart.stages.0.label>누군가를 구조함</RescuedBleedingHeart.stages.0.label>
+  <RescuedBleedingHeart.stages.0.description>누군가를 죽음의 문턱으로부터 구해냈어. 고마워 할 필요는 없어, 선행은 날 위한 보상이거든.</RescuedBleedingHeart.stages.0.description>
+  <CookedMealBleedingHeart.stages.0.label>요리를 함</CookedMealBleedingHeart.stages.0.label>
+  <CookedMealBleedingHeart.stages.0.description>난 요리가 좋아, 누군가를 도와주는 느낌이 들거든. 내가 우리 정착지를 먹여살리겠어!</CookedMealBleedingHeart.stages.0.description>
+  <FilledGraveBleedingHeart.stages.0.label>매장</FilledGraveBleedingHeart.stages.0.label>
+  <FilledGraveBleedingHeart.stages.0.description>고이 잠드소서.</FilledGraveBleedingHeart.stages.0.description>
+  <KilledPatientBleedingHeart.stages.0.label>환자를 죽임</KilledPatientBleedingHeart.stages.0.label>
+  <KilledPatientBleedingHeart.stages.0.description>수술하다가 환자를 죽이고 말았어. 모두 내 잘못이야... 내가 살렸어야 했다고.</KilledPatientBleedingHeart.stages.0.description>
+  <RecentlyDesensitized.stages.0.label>폭력에 둔감해짐</RecentlyDesensitized.stages.0.label>
+  <RecentlyDesensitized.stages.0.description>누군가 죽는 걸 봤는데, 아무것도 느끼질 못했어. 얼마나 우울한지 모르겠네...</RecentlyDesensitized.stages.0.description>
+  <DreamGood.stages.0.label>좋은 꿈을 꿈</DreamGood.stages.0.label>
+  <DreamGood.stages.0.description>좋은 꿈이었어. 희망적인 기분이군.</DreamGood.stages.0.description>
+  <DreamBad.stages.0.label>나쁜 꿈을 꿈</DreamBad.stages.0.label>
+  <DreamBad.stages.0.description>기분 나쁜 꿈이었어. 아직도 날 괴롭히는군.</DreamBad.stages.0.description>
+  <DreamNightmare.stages.0.label>악몽을 꿈</DreamNightmare.stages.0.label>
+  <DreamNightmare.stages.0.description>으악! 끔찍한 악몽이었어. 생각만 해도 우울해져.</DreamNightmare.stages.0.description>
+  <TreatmentFailed.stages.0.label>{0} 치료 실패</TreatmentFailed.stages.0.label>
+  <TreatmentFailed.stages.0.description>내 정신병 치료가 실패했어... 의사가 날 전혀 이해해주지 못한거 같아.</TreatmentFailed.stages.0.description>
+  <SuccessfulPlot.stages.0.label>미친음모 성공</SuccessfulPlot.stages.0.label>
+  <SuccessfulPlot.stages.0.description>이곳의 암덩어리를 제거했어. 우린 이제 안전해.</SuccessfulPlot.stages.0.description>
+  <HeardParanoia.stages.0.label>피해망상에 노출됨</HeardParanoia.stages.0.label>
+  <HeardParanoia.stages.0.description>내가 들은 것들이... 사실일 리가 없어. 정말 그럴까?</HeardParanoia.stages.0.description>
+  <ColonistAbandonedBleedingHeart.stages.0.label>버려진 정착민</ColonistAbandonedBleedingHeart.stages.0.label>
+  <ColonistAbandonedBleedingHeart.stages.0.description>동료를 남겨두고 떠났어. 무슨 일이 일어날까봐 아무 일도 손에 안 잡혀.</ColonistAbandonedBleedingHeart.stages.0.description>
+  <ColonistAbandonedToDieBleedingHeart.stages.0.label>죽도록 버려진 정착민</ColonistAbandonedToDieBleedingHeart.stages.0.label>
+  <ColonistAbandonedToDieBleedingHeart.stages.0.description>생존할 방법이 거의 없는데도 동료를 남겨두고 떠났어. 어떻게 이럴수가 있지?</ColonistAbandonedToDieBleedingHeart.stages.0.description>
+  <PrisonerAbandonedToDieBleedingHeart.stages.0.label>죽도록 버려진 수감자</PrisonerAbandonedToDieBleedingHeart.stages.0.label>
+  <PrisonerAbandonedToDieBleedingHeart.stages.0.description>생존할 방법이 거의 없는데도 수감자를 남겨두고 떠났어. 우리가 수감자를 챙겨줘야 할 책임이 있는데도 말야.</PrisonerAbandonedToDieBleedingHeart.stages.0.description>
+  <DateCancelled.stages.0.label>데이트 취소함</DateCancelled.stages.0.label>
+  <DateCancelled.stages.0.description>파트너와 데이트를 하기로 되어 있었지만, 정착지에 일이 생겼다니 어쩔수 없이 취소했어. 정말 기대하고 있었는데...</DateCancelled.stages.0.description>
+  <WonFight.stages.0.label>사교적 다툼에서 이김</WonFight.stages.0.label>
+  <WonFight.stages.0.description>날 건드리지 말라고 그렇게 얘길했는데.</WonFight.stages.0.description>
+  <PrudeSeen.stages.0.label>나체를 목격함</PrudeSeen.stages.0.label>
+  <PrudeSeen.stages.0.description>그사람 알몸이었던거야? 이 사람들은 옷을 벗고 뛰어다녀도 그냥 냅두는거야? 정나미가 떨어지네.</PrudeSeen.stages.0.description>
+  <DynamicSocial.stages.0.label>대화</DynamicSocial.stages.0.label>
+  <BrokeUpWithMeCodependent.stages.0.label>그리움</BrokeUpWithMeCodependent.stages.0.label>
+  <BrokeUpWithMeCodependentMood.stages.0.label>{0}(을)를 그리워함</BrokeUpWithMeCodependentMood.stages.0.label>
+  <BrokeUpWithMeCodependentMood.stages.0.description>보고싶어... 제발 다시 돌아와.</BrokeUpWithMeCodependentMood.stages.0.description>
+  <CheatedOnMeCodependent.stages.0.label>바람을 핌</CheatedOnMeCodependent.stages.0.label>
+  <CheatedOnMeCodependentMood.stages.0.label>바람을 핀 {0}</CheatedOnMeCodependentMood.stages.0.label>
+  <CheatedOnMeCodependentMood.stages.0.description>이해가 안 돼... 내가 뭔가 잘못했음이 틀림없어.</CheatedOnMeCodependentMood.stages.0.description>
+  <RebuffedMyRomanceAttemptLecher.stages.0.label>퇴짜맞음</RebuffedMyRomanceAttemptLecher.stages.0.label>
+  <CapturedMe.stages.0.label>수감자가 됨</CapturedMe.stages.0.label>
+  <WentOnDate.stages.0.label>데이트를 함</WentOnDate.stages.0.label>
+  <HungOut.stages.0.label>함께 어울림</HungOut.stages.0.label>
+  <MissedDate.stages.0.label>데이트 시간을 놓침</MissedDate.stages.0.label>
+  <ApparelDamagedPrude.stages.0.label>해진 복장</ApparelDamagedPrude.stages.0.label>
+  <ApparelDamagedPrude.stages.0.description>내 옷 상태가 별로 좋지 않아. 속이 다 비치고 있어...</ApparelDamagedPrude.stages.0.description>
+  <ApparelDamagedPrude.stages.1.label>누더기가 된 복장</ApparelDamagedPrude.stages.1.label>
+  <ApparelDamagedPrude.stages.1.description>쓰레기같은 누더기를 입고 있어. 모두 날 쳐다보고 있는것 같아!</ApparelDamagedPrude.stages.1.description>
+  <Individuality.stages.0.label>같은 복장</Individuality.stages.0.label>
+  <Individuality.stages.0.description>머리부터 발끝까지, 동료가 나와 똑같은 복장을 입고 있어. 뭔가 어색한데.</Individuality.stages.0.description>
+  <Individuality.stages.1.label>같은 복장</Individuality.stages.1.label>
+  <Individuality.stages.1.description>머리부터 발끝까지, 동료들이 나와 똑같은 복장을 입고 있어. 유쾌하지 않군.</Individuality.stages.1.description>
+  <Individuality.stages.2.label>억압된 개성</Individuality.stages.2.label>
+  <Individuality.stages.2.description>머리부터 발끝까지, 거의 모두가 나와 똑같은 복장을 하고 있어. 소름 돋아, 나도 나만의 개성을 표현하고 싶다고.</Individuality.stages.2.description>
+  <Individuality.stages.3.label>억압된 개성</Individuality.stages.3.label>
+  <Individuality.stages.3.description>머리부터 발끝까지, 모두가 나와 똑같은 복장을 하고 있어! 정말 맘에 안들어. 나도 나만의 개성을 표현하고 싶다고.</Individuality.stages.3.description>
+  <SurvivedTogether.stages.0.label>1년 동안 같이 살아남았어</SurvivedTogether.stages.0.label>
+  <SurvivedTogether.stages.1.label>2년 동안 같이 살아남았어</SurvivedTogether.stages.1.label>
+  <SurvivedTogether.stages.2.label>3년 동안 같이 살아남았어</SurvivedTogether.stages.2.label>
+  <SurvivedTogether.stages.3.label>4년 동안 같이 살아남았어</SurvivedTogether.stages.3.label>
+  <SurvivedTogether.stages.4.label>5년 동안 같이 살아남았어</SurvivedTogether.stages.4.label>
+  <SurvivedTogether.stages.5.label>5년 넘게 같이 살아남았어</SurvivedTogether.stages.5.label>
+  <LongDistance.stages.0.label>장거리 관계</LongDistance.stages.0.label>
+  <LongDistance.stages.1.label>장거리 관계</LongDistance.stages.1.label>
+  <LongDistance.stages.2.label>장거리 관계</LongDistance.stages.2.label>
+  <LongDistance.stages.3.label>장거리 관계</LongDistance.stages.3.label>
+  <LongDistance.stages.4.label>장거리 관계</LongDistance.stages.4.label>
+  <LongDistance.stages.5.label>장거리 관계</LongDistance.stages.5.label>
+  <LongDistance.stages.6.label>장거리 관계</LongDistance.stages.6.label>
+  <ColonistLeftUnburiedBleedingHeart.stages.0.label>정착민 시체 방치</ColonistLeftUnburiedBleedingHeart.stages.0.label>
+  <ColonistLeftUnburiedBleedingHeart.stages.0.description>죽은 동료를 밖에 그냥 내버려 두고 있어. 안돼, 생각을 멈출 수가 없어. 어떻게 죽은 동료가 그냥 썩어가게 방치할 수 있지?</ColonistLeftUnburiedBleedingHeart.stages.0.description>
+  <NakedPrude.stages.0.label>벌거벗음</NakedPrude.stages.0.label>
+  <NakedPrude.stages.0.description>난 알몸이야. 모두가 날 쳐다본다고! 빨리!! 나에게!! 옷 좀 줘!!</NakedPrude.stages.0.description>
+  <PanicAttack.stages.0.label>공황발작</PanicAttack.stages.0.label>
+  <PanicAttack.stages.0.description>좀 떨어져! 숨 좀 쉬자고!</PanicAttack.stages.0.description>
+  <FeelingRandomBipolar.stages.0.label>열광</FeelingRandomBipolar.stages.0.label>
+  <FeelingRandomBipolar.stages.0.description>아무 이유도 없는데, 정말 끝내주는 기분이야!</FeelingRandomBipolar.stages.0.description>
+  <FeelingRandomBipolar.stages.1.label>굉장한 기분</FeelingRandomBipolar.stages.1.label>
+  <FeelingRandomBipolar.stages.1.description>아무 이유도 없는데, 아주 굉장한 기분이야.</FeelingRandomBipolar.stages.1.description>
+  <FeelingRandomBipolar.stages.2.label>좋은 기분</FeelingRandomBipolar.stages.2.label>
+  <FeelingRandomBipolar.stages.2.description>아무 이유도 없는데, 그냥 좋은 기분이야.</FeelingRandomBipolar.stages.2.description>
+  <FeelingRandomBipolar.stages.3.label>나쁜 기분</FeelingRandomBipolar.stages.3.label>
+  <FeelingRandomBipolar.stages.3.description>아무 이유도 없는데, 그냥 나쁜 기분이야.</FeelingRandomBipolar.stages.3.description>
+  <FeelingRandomBipolar.stages.4.label>끔찍한 기분</FeelingRandomBipolar.stages.4.label>
+  <FeelingRandomBipolar.stages.4.description>아무 이유도 없는데, 아주 끔찍한 기분이야.</FeelingRandomBipolar.stages.4.description>
+  <FeelingRandomBipolar.stages.5.label>우울한 기분</FeelingRandomBipolar.stages.5.label>
+  <FeelingRandomBipolar.stages.5.description>아무 이유도 없는데, 정말 처참한 기분이야...</FeelingRandomBipolar.stages.5.description>
+  <Codependency.stages.0.label>고독함</Codependency.stages.0.label>
+  <Codependency.stages.0.description>외로워... 애인이 필요해.</Codependency.stages.0.description>
+  <Codependency.stages.1.label>연인이 있음</Codependency.stages.1.label>
+  <Codependency.stages.1.description>내 애인을 사랑해. 죽을만큼 사랑해.</Codependency.stages.1.description>
+  <Codependency.stages.2.label>결혼함</Codependency.stages.2.label>
+  <Codependency.stages.2.description>내 배우자를 사랑해. 배우자를 위해서라면 목숨이라도 버릴 수 있어.</Codependency.stages.2.description>
+  <Codependency.stages.3.label>적막함</Codependency.stages.3.label>
+  <Codependency.stages.3.description>내 사랑... 난 이제 어떻게 해야 해?</Codependency.stages.3.description>
+  <Outdoorsy.stages.0.label>야외활동</Outdoorsy.stages.0.label>
+  <Outdoorsy.stages.0.description>난 내위의 하늘을 느끼는게 좋아.</Outdoorsy.stages.0.description>
+  <Outdoorsy.stages.1.label>야외활동</Outdoorsy.stages.1.label>
+  <Outdoorsy.stages.1.description>아- 자연이여!</Outdoorsy.stages.1.description>
+  <Pluviophile.stages.0.label>비가 옴</Pluviophile.stages.0.label>
+  <Pluviophile.stages.0.description>난 빗방울이 땅을 적시는 소리가 정말 좋아.</Pluviophile.stages.0.description>
+  <Pluviophile.stages.1.label>빗속에 있음</Pluviophile.stages.1.label>
+  <Pluviophile.stages.1.description>비는 날 편안하게 해줘. 젖는건 상관 없어.</Pluviophile.stages.1.description>
+  <PolygamousRelationship.stages.0.label>일부일처</PolygamousRelationship.stages.0.label>
+  <PolygamousRelationship.stages.0.description>왜 한 명만 바라보면서 살아야 하는지 모르겠어.</PolygamousRelationship.stages.0.description>
+  <EnvironmentDarkLightSensitive.stages.0.label>어둠 속</EnvironmentDarkLightSensitive.stages.0.label>
+  <EnvironmentDarkLightSensitive.stages.0.description>아... 편안한 어둠이여.</EnvironmentDarkLightSensitive.stages.0.description>
+  <EnvironmentDarkLightSensitive.stages.1.label>밝음</EnvironmentDarkLightSensitive.stages.1.label>
+  <EnvironmentDarkLightSensitive.stages.1.description>으악... 좀 눈부신데.</EnvironmentDarkLightSensitive.stages.1.description>
+  <EnvironmentDarkLightSensitive.stages.2.label>아주 밝음</EnvironmentDarkLightSensitive.stages.2.label>
+  <EnvironmentDarkLightSensitive.stages.2.description>내 눈! 불타는거 같아!</EnvironmentDarkLightSensitive.stages.2.description>
+  <Sedentary.stages.0.label>자리잡음</Sedentary.stages.0.label>
+  <Sedentary.stages.0.description>그렇게 많이 돌아다닐 필요가 없어서 좋아.</Sedentary.stages.0.description>
+  <Sedentary.stages.1.label>편안하게 자리잡음</Sedentary.stages.1.label>
+  <Sedentary.stages.1.description>잠시 쉬기 좋은 편안한 장소야. 이대로가 좋아.</Sedentary.stages.1.description>
+  <Chitchat.stages.Smalltalk.label>잡담</Chitchat.stages.Smalltalk.label>
+  <MoodOffsetDepressive.stages.depressive-1.label>우울증</MoodOffsetDepressive.stages.depressive-1.label>
+  <MoodOffsetDepressive.stages.depressive-1.description>우울증</MoodOffsetDepressive.stages.depressive-1.description>
+
+</LanguageData>

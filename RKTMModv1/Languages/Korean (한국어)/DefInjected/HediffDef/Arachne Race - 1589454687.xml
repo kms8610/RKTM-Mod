@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ArachneHealingFactor.label>아라크네 재생</ArachneHealingFactor.label>
+  <ArachneHealingFactor.stages.0.label>약함</ArachneHealingFactor.stages.0.label>
+  <ArachneHealingFactor.stages.1.label>중간</ArachneHealingFactor.stages.1.label>
+  <ArachneProtoBodypart.label>재성장</ArachneProtoBodypart.label>
+  <ArachneCuredBodypart.label>치료된 신체 부위</ArachneCuredBodypart.label>
+
+</LanguageData>

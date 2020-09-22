@@ -1,0 +1,906 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <StartsGrowingWool.label>양모를 기르기 시작함.</StartsGrowingWool.label>
+  <StartsGrowingWool.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 겁에 질려 비명을 지릅니다. [circumstance_group]</StartsGrowingWool.rulePack.rulesStrings.0>
+  <StartsGrowingWool.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</StartsGrowingWool.rulePack.rulesStrings.1>
+  <StartsGrowingWool.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</StartsGrowingWool.rulePack.rulesStrings.2>
+  <StartsGrowingWool.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</StartsGrowingWool.rulePack.rulesStrings.3>
+  <StartsGrowingWool.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 머리가 털로 부풀려집니다.</StartsGrowingWool.rulePack.rulesStrings.4>
+  <StartsGrowingWool.rulePack.rulesStrings.5>tale_noun->[PAWN_nameDef]의 몸을 두꺼운 털이 덮기 시작합니다.</StartsGrowingWool.rulePack.rulesStrings.5>
+  <StartsGrowingWool.rulePack.rulesStrings.6>image->[PAWN_nameFull]이(가) 두꺼워지는 모피를 긁기 시작합니다. [circumstance_group]</StartsGrowingWool.rulePack.rulesStrings.6>
+  <StartsGrowingWool.rulePack.rulesStrings.7>image->[PAWN_nameFull]이(가) 매우 따뜻해지기 시작합니다. [circumstance_group]</StartsGrowingWool.rulePack.rulesStrings.7>
+  <StartsGrowingWool.rulePack.rulesStrings.8>circumstance_phrase->누군가가 [PAWN_possessive]의 털을 쓰다듬기 시작합니다.</StartsGrowingWool.rulePack.rulesStrings.8>
+  <StartsGrowingWool.rulePack.rulesStrings.9>circumstance_phrase->누군가가 솔을 향해 손을 뻗습니다.</StartsGrowingWool.rulePack.rulesStrings.9>
+  <StartsGrowingWool.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun]은 [PAWN_possessive] 털을 가꾸기 시작합니다.</StartsGrowingWool.rulePack.rulesStrings.10>
+  <GrewAlpacaMuzzle.label>알파카 주둥이가 자람.</GrewAlpacaMuzzle.label>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.0>image->[PAWN_nameFull]이(가) 놀라서 비명을 지릅니다. [circumstance_group]</GrewAlpacaMuzzle.rulePack.rulesStrings.0>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewAlpacaMuzzle.rulePack.rulesStrings.1>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewAlpacaMuzzle.rulePack.rulesStrings.2>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewAlpacaMuzzle.rulePack.rulesStrings.3>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewAlpacaMuzzle.rulePack.rulesStrings.4>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [comment_group]</GrewAlpacaMuzzle.rulePack.rulesStrings.5>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 겁에 질려 비명을 지릅니다. [circumstance_group]</GrewAlpacaMuzzle.rulePack.rulesStrings.6>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewAlpacaMuzzle.rulePack.rulesStrings.7>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewAlpacaMuzzle.rulePack.rulesStrings.8>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewAlpacaMuzzle.rulePack.rulesStrings.9>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]에게 알파카 주둥이가 자랐습니다.</GrewAlpacaMuzzle.rulePack.rulesStrings.10>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]의 얼굴이 알파카의 얼굴처럼 되었습니다.</GrewAlpacaMuzzle.rulePack.rulesStrings.11>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.12>image->[PAWN_nameDef]의 치아가 커지고 무뎌지기 시작했습니다. [circumstance_group]</GrewAlpacaMuzzle.rulePack.rulesStrings.12>
+  <GrewAlpacaMuzzle.rulePack.rulesStrings.13>desc_sentence->[PAWN_nameDef]는 귀찮은 사람에게 침을 뱉습니다.</GrewAlpacaMuzzle.rulePack.rulesStrings.13>
+  <GrewBearMuzzle.label>곰의 주둥이가 자람.</GrewBearMuzzle.label>
+  <GrewBearMuzzle.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewBearMuzzle.rulePack.rulesStrings.0>
+  <GrewBearMuzzle.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewBearMuzzle.rulePack.rulesStrings.1>
+  <GrewBearMuzzle.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewBearMuzzle.rulePack.rulesStrings.2>
+  <GrewBearMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewBearMuzzle.rulePack.rulesStrings.3>
+  <GrewBearMuzzle.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewBearMuzzle.rulePack.rulesStrings.4>
+  <GrewBearMuzzle.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다.[circumstance_group]</GrewBearMuzzle.rulePack.rulesStrings.5>
+  <GrewBearMuzzle.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewBearMuzzle.rulePack.rulesStrings.6>
+  <GrewBearMuzzle.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewBearMuzzle.rulePack.rulesStrings.7>
+  <GrewBearMuzzle.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewBearMuzzle.rulePack.rulesStrings.8>
+  <GrewBearMuzzle.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewBearMuzzle.rulePack.rulesStrings.9>
+  <GrewBearMuzzle.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]에게 곰 같은 주둥이가 자라났습니다.</GrewBearMuzzle.rulePack.rulesStrings.10>
+  <GrewBearMuzzle.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]에게 곰 주둥이가 자라났습니다.</GrewBearMuzzle.rulePack.rulesStrings.11>
+  <GrewBearMuzzle.rulePack.rulesStrings.12>image->[PAWN_nameFull]의 얼굴이 곰 같은 주둥이가 되어 밀려나옵니다. [circumstance_group]</GrewBearMuzzle.rulePack.rulesStrings.12>
+  <GrewBearMuzzle.rulePack.rulesStrings.13>image->[PAWN_nameFull]은(는) 곰 같은 울음소리를 내지릅니다. [circumstance_group]</GrewBearMuzzle.rulePack.rulesStrings.13>
+  <HandsBecomeUrsinePaws.label>손에서 발톱이 자람.</HandsBecomeUrsinePaws.label>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</HandsBecomeUrsinePaws.rulePack.rulesStrings.0>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</HandsBecomeUrsinePaws.rulePack.rulesStrings.1>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</HandsBecomeUrsinePaws.rulePack.rulesStrings.2>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</HandsBecomeUrsinePaws.rulePack.rulesStrings.3>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 손이 변화합니다.</HandsBecomeUrsinePaws.rulePack.rulesStrings.4>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 손을 살핍니다. [circumstance_group]</HandsBecomeUrsinePaws.rulePack.rulesStrings.5>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun]은(는) 무언가를 집으려고 시도합니다.</HandsBecomeUrsinePaws.rulePack.rulesStrings.6>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]은(는) 새로운 손을 시험해 봅니다.</HandsBecomeUrsinePaws.rulePack.rulesStrings.7>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 손이 곰의 발처럼 변했습니다.</HandsBecomeUrsinePaws.rulePack.rulesStrings.8>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.9>tale_noun->[PAWN_nameDef]의 손이 곰 같은 발로 변했습니다.</HandsBecomeUrsinePaws.rulePack.rulesStrings.9>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.10>image->[PAWN_nameFull]의 손바닥이 시커멓게 변하기 시작하여 발바닥이 되었습니다. [circumstance_group]</HandsBecomeUrsinePaws.rulePack.rulesStrings.10>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.11>image->[PAWN_nameFull]의 엄지손가락은 줄어들기 시작했지만 완전히 사라지기 전에 멈췄습니다. [circumstance_group]</HandsBecomeUrsinePaws.rulePack.rulesStrings.11>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.12>image->[PAWN_nameFull]손톱이 길어져 날카로운 발톱이 되었습니다. [circumstance_group]</HandsBecomeUrsinePaws.rulePack.rulesStrings.12>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.13>circumstance_phrase->누군가가 [PAWN_possessive]의 발바닥을 문지릅니다.</HandsBecomeUrsinePaws.rulePack.rulesStrings.13>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun]은(는) 그가 여전히 엄지손가락을 가지고 있다는 것에 감사합니다.</HandsBecomeUrsinePaws.rulePack.rulesStrings.14>
+  <HandsBecomeUrsinePaws.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 발톱으로 근처의 벽을 긁기 시작합니다.</HandsBecomeUrsinePaws.rulePack.rulesStrings.15>
+  <GrewBoarMuzzle.label>엄니 달린 주둥이가 자람.</GrewBoarMuzzle.label>
+  <GrewBoarMuzzle.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewBoarMuzzle.rulePack.rulesStrings.0>
+  <GrewBoarMuzzle.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewBoarMuzzle.rulePack.rulesStrings.1>
+  <GrewBoarMuzzle.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewBoarMuzzle.rulePack.rulesStrings.2>
+  <GrewBoarMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewBoarMuzzle.rulePack.rulesStrings.3>
+  <GrewBoarMuzzle.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewBoarMuzzle.rulePack.rulesStrings.4>
+  <GrewBoarMuzzle.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [circumstance_group]</GrewBoarMuzzle.rulePack.rulesStrings.5>
+  <GrewBoarMuzzle.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewBoarMuzzle.rulePack.rulesStrings.6>
+  <GrewBoarMuzzle.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewBoarMuzzle.rulePack.rulesStrings.7>
+  <GrewBoarMuzzle.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewBoarMuzzle.rulePack.rulesStrings.8>
+  <GrewBoarMuzzle.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewBoarMuzzle.rulePack.rulesStrings.9>
+  <GrewBoarMuzzle.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]에게 엄니 달린 주둥이가 자라났습니다.</GrewBoarMuzzle.rulePack.rulesStrings.10>
+  <GrewBoarMuzzle.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]에게 멧돼지 주둥이가 자라났습니다.</GrewBoarMuzzle.rulePack.rulesStrings.11>
+  <GrewBoarMuzzle.rulePack.rulesStrings.12>image->엄니가 [PAWN_name]의 주둥이에서 밀려나오기 시작합니다.[circumstance_group]</GrewBoarMuzzle.rulePack.rulesStrings.12>
+  <GrewBoarMuzzle.rulePack.rulesStrings.13>image->[PAWN_nameFull]의 비명소리가 멧돼지 같은 콧소리로 변하기 시작했습니다. [circumstance_group]</GrewBoarMuzzle.rulePack.rulesStrings.13>
+  <GrewBoarMuzzle.rulePack.rulesStrings.14>circumstance_phrase->누군가가 [PAWN_possessive]의 성장한 엄니를 관찰합니다.</GrewBoarMuzzle.rulePack.rulesStrings.14>
+  <GrewBoarMuzzle.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]에게 [PAWN_possessive]의 새로운 엄니는 문제점입니다.</GrewBoarMuzzle.rulePack.rulesStrings.15>
+  <GrewBoarMuzzle.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새로운 엄니에 만족하는 것 같습니다.</GrewBoarMuzzle.rulePack.rulesStrings.16>
+  <GrewBoomalopeMuzzle.label>폭탄사슴의 주둥이가 자람</GrewBoomalopeMuzzle.label>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewBoomalopeMuzzle.rulePack.rulesStrings.0>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewBoomalopeMuzzle.rulePack.rulesStrings.1>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewBoomalopeMuzzle.rulePack.rulesStrings.2>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewBoomalopeMuzzle.rulePack.rulesStrings.3>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewBoomalopeMuzzle.rulePack.rulesStrings.4>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [circumstance_group]</GrewBoomalopeMuzzle.rulePack.rulesStrings.5>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewBoomalopeMuzzle.rulePack.rulesStrings.6>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewBoomalopeMuzzle.rulePack.rulesStrings.7>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewBoomalopeMuzzle.rulePack.rulesStrings.8>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewBoomalopeMuzzle.rulePack.rulesStrings.9>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]에게 폭탄사슴의 주둥이가 자라났습니다.</GrewBoomalopeMuzzle.rulePack.rulesStrings.10>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]의 얼굴에서 폭탄사슴의 주둥이가 자라납니다.</GrewBoomalopeMuzzle.rulePack.rulesStrings.11>
+  <GrewBoomalopeMuzzle.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun]은(는) 근처의 화학 연료를 냄새를 열심히 맡기 시작합니다.</GrewBoomalopeMuzzle.rulePack.rulesStrings.12>
+  <GrewChemfuelUdder.label>화학 젖통이 자람</GrewChemfuelUdder.label>
+  <GrewChemfuelUdder.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewChemfuelUdder.rulePack.rulesStrings.0>
+  <GrewChemfuelUdder.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewChemfuelUdder.rulePack.rulesStrings.1>
+  <GrewChemfuelUdder.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewChemfuelUdder.rulePack.rulesStrings.2>
+  <GrewChemfuelUdder.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewChemfuelUdder.rulePack.rulesStrings.3>
+  <GrewChemfuelUdder.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]에게서 화학성 젖통이 자라납니다.</GrewChemfuelUdder.rulePack.rulesStrings.4>
+  <GrewChemfuelUdder.rulePack.rulesStrings.5>tale_noun->[PAWN_nameDef]이(가) 이제 화학연료를 생산해냅니다.</GrewChemfuelUdder.rulePack.rulesStrings.5>
+  <GrewChemfuelUdder.rulePack.rulesStrings.6>image->[PAWN_nameFull]의 허리에서 장기가 부풀어 오르면서 젖통이 자라나기 시작합니다. [circumstance_group]</GrewChemfuelUdder.rulePack.rulesStrings.6>
+  <GrewChemfuelUdder.rulePack.rulesStrings.7>image->[PAWN_name]의 허리에서 커다란 기관이 가득 자라나기 시작합니다.[circumstance_group]</GrewChemfuelUdder.rulePack.rulesStrings.7>
+  <GrewChemfuelUdder.rulePack.rulesStrings.8>circumstance_phrase->누군가가 빈 화학연료 용기를 가지고 [PAWN_pronoun]에게 접근합니다.</GrewChemfuelUdder.rulePack.rulesStrings.8>
+  <GrewChemfuelUdder.rulePack.rulesStrings.9>circumstance_phrase->누군가가 화학연료 냄새를 알아차립니다.</GrewChemfuelUdder.rulePack.rulesStrings.9>
+  <GrewChemfuelUdder.rulePack.rulesStrings.10>desc_sentence->[PAWN_possessive]은(는) 화학연료를 생산하는 것에 대해 부끄러워합니다.</GrewChemfuelUdder.rulePack.rulesStrings.10>
+  <GrewChemfuelUdder.rulePack.rulesStrings.11>desc_sentence->[PAWN_possessive]은(는) 자신의 화학 젖통에 대해 놀라울 정도로 조심성이 없어 보입니다.</GrewChemfuelUdder.rulePack.rulesStrings.11>
+  <EyesBecomeFeline.label>눈동자가 가늘어짐</EyesBecomeFeline.label>
+  <EyesBecomeFeline.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</EyesBecomeFeline.rulePack.rulesStrings.0>
+  <EyesBecomeFeline.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</EyesBecomeFeline.rulePack.rulesStrings.1>
+  <EyesBecomeFeline.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</EyesBecomeFeline.rulePack.rulesStrings.2>
+  <EyesBecomeFeline.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</EyesBecomeFeline.rulePack.rulesStrings.3>
+  <EyesBecomeFeline.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 동공이 고양이의 눈처럼 가느다래집니다.</EyesBecomeFeline.rulePack.rulesStrings.4>
+  <EyesBecomeFeline.rulePack.rulesStrings.5>image->[PAWN_nameFull]의 동공이 고양이의 눈처럼 변합니다. [circumstance_group]</EyesBecomeFeline.rulePack.rulesStrings.5>
+  <EyesBecomeFeline.rulePack.rulesStrings.6>image->[PAWN_nameFull]의 눈은 고양이 눈처럼 변하기 시작합니다. [circumstance_group]</EyesBecomeFeline.rulePack.rulesStrings.6>
+  <HandsBecomeCatPaws.label>손에서 발톱이 자람.</HandsBecomeCatPaws.label>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</HandsBecomeCatPaws.rulePack.rulesStrings.0>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</HandsBecomeCatPaws.rulePack.rulesStrings.1>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</HandsBecomeCatPaws.rulePack.rulesStrings.2>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</HandsBecomeCatPaws.rulePack.rulesStrings.3>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 손이 변화합니다.</HandsBecomeCatPaws.rulePack.rulesStrings.4>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 손을 살핍니다. [circumstance_group]</HandsBecomeCatPaws.rulePack.rulesStrings.5>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun]은(는) 무언가를 집으려고 시도합니다.</HandsBecomeCatPaws.rulePack.rulesStrings.6>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]은(는) 새로운 손을 시험해 봅니다.</HandsBecomeCatPaws.rulePack.rulesStrings.7>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 손이 고양이의 발처럼 변했습니다.</HandsBecomeCatPaws.rulePack.rulesStrings.8>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.9>tale_noun->[PAWN_nameDef]의 손에서 고양이과의 발톱이 자라납니다.</HandsBecomeCatPaws.rulePack.rulesStrings.9>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.10>image->[PAWN_nameFull]손톱이 길어져 날카로운 발톱이 되었습니다. [circumstance_group]</HandsBecomeCatPaws.rulePack.rulesStrings.10>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.11>image->[PAWN_nameFull]의 손바닥에 부드러운 육구가 생깁니다.[circumstance_group]</HandsBecomeCatPaws.rulePack.rulesStrings.11>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.12>image->[PAWN_nameFull]의 손 끝이 날카로운 고양이 발톱으로 변하기 시작합니다.[circumstance_group]</HandsBecomeCatPaws.rulePack.rulesStrings.12>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.13>desc_sentence->[PAWN_pronoun]은(는) 이상하게도 [PAWN_possessive]의 새 발에 만족하는 것 같습니다.</HandsBecomeCatPaws.rulePack.rulesStrings.13>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun]은(는) 자신의 엄지 손가락이 사라져 슬퍼합니다.</HandsBecomeCatPaws.rulePack.rulesStrings.14>
+  <HandsBecomeCatPaws.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]이(가) 근처에 있는 사람을 향해 손톱질을 하기 시작합니다.</HandsBecomeCatPaws.rulePack.rulesStrings.15>
+  <GrewBeak.label>부리가 자람.</GrewBeak.label>
+  <GrewBeak.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewBeak.rulePack.rulesStrings.0>
+  <GrewBeak.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewBeak.rulePack.rulesStrings.1>
+  <GrewBeak.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewBeak.rulePack.rulesStrings.2>
+  <GrewBeak.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewBeak.rulePack.rulesStrings.3>
+  <GrewBeak.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 입이 단단한 부리로 변합니다.</GrewBeak.rulePack.rulesStrings.4>
+  <GrewBeak.rulePack.rulesStrings.5>tale_noun->[PAWN_nameDef]의 얼굴에 새처럼 단단한 부리가 자라납니다.</GrewBeak.rulePack.rulesStrings.5>
+  <GrewBeak.rulePack.rulesStrings.6>image->[PAWN_nameFull]의 비명이 꽥꽥 소리로 변합니다.[circumstance_group]</GrewBeak.rulePack.rulesStrings.6>
+  <GrewBeak.rulePack.rulesStrings.7>image->[PAWN_nameFull]이(가) 무의식중에 꼬꼬거리기 시작합니다. [circumstance_group]</GrewBeak.rulePack.rulesStrings.7>
+  <GrewBeak.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]이(가) 슬프게 꼬꼬 거립니다.</GrewBeak.rulePack.rulesStrings.8>
+  <GrewBeak.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]이(가)[PAWN_possessive]의 새 부리를 문지릅니다.</GrewBeak.rulePack.rulesStrings.9>
+  <GrewBeak.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun]이(가) 꼬끼오 거리며 부리를 떼어내려고 합니다.</GrewBeak.rulePack.rulesStrings.10>
+  <GrewBeak.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun]이(가) 망연자실하며 꼬꼬를 내뱉습니다.</GrewBeak.rulePack.rulesStrings.11>
+  <ArmsBecomeWings.label>팔이 날개가 됨</ArmsBecomeWings.label>
+  <ArmsBecomeWings.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</ArmsBecomeWings.rulePack.rulesStrings.0>
+  <ArmsBecomeWings.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</ArmsBecomeWings.rulePack.rulesStrings.1>
+  <ArmsBecomeWings.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</ArmsBecomeWings.rulePack.rulesStrings.2>
+  <ArmsBecomeWings.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</ArmsBecomeWings.rulePack.rulesStrings.3>
+  <ArmsBecomeWings.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 팔에서 깃털이 자라납니다.</ArmsBecomeWings.rulePack.rulesStrings.4>
+  <ArmsBecomeWings.rulePack.rulesStrings.5>tale_noun->[PAWN_nameDef]의 팔을 깃털이 덮기 시작합니다.</ArmsBecomeWings.rulePack.rulesStrings.5>
+  <ArmsBecomeWings.rulePack.rulesStrings.6>image->[PAWN_nameFull]의 팔뚝이 변하기 시작합니다. [circumstance_group]</ArmsBecomeWings.rulePack.rulesStrings.6>
+  <ArmsBecomeWings.rulePack.rulesStrings.7>image->[PAWN_nameFull]의 팔뚝이 날개로 변하기 시작합니다. [circumstance_group]</ArmsBecomeWings.rulePack.rulesStrings.7>
+  <ArmsBecomeWings.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]이(가)[PAWN_possessive]의 새 날개를 문지릅니다.</ArmsBecomeWings.rulePack.rulesStrings.8>
+  <ArmsBecomeWings.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]이(가)[PAWN_possessive]의 새 날개를 파닥거려봅니다.</ArmsBecomeWings.rulePack.rulesStrings.9>
+  <LimbGrowsFeathers.label>사지에 깃털이 자라남.</LimbGrowsFeathers.label>
+  <LimbGrowsFeathers.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</LimbGrowsFeathers.rulePack.rulesStrings.0>
+  <LimbGrowsFeathers.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</LimbGrowsFeathers.rulePack.rulesStrings.1>
+  <LimbGrowsFeathers.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</LimbGrowsFeathers.rulePack.rulesStrings.2>
+  <LimbGrowsFeathers.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</LimbGrowsFeathers.rulePack.rulesStrings.3>
+  <LimbGrowsFeathers.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 몸을 깃털이 덮기 시작합니다.</LimbGrowsFeathers.rulePack.rulesStrings.4>
+  <LimbGrowsFeathers.rulePack.rulesStrings.5>tale_noun->[PAWN_nameDef]은(는) [PAWN_possessive]의 전신에 깃털이 자라나는 것을 봅니다.</LimbGrowsFeathers.rulePack.rulesStrings.5>
+  <LimbGrowsFeathers.rulePack.rulesStrings.6>image->[PAWN_nameFull]의 전신에 깃털이 자라나면서 몸이 근질거리기 시작합니다. [circumstance_group]</LimbGrowsFeathers.rulePack.rulesStrings.6>
+  <LimbGrowsFeathers.rulePack.rulesStrings.7>image->깃털이 [PAWN_nameFull]의 몸에서 자라나기 시작합니다. [circumstance_group] </LimbGrowsFeathers.rulePack.rulesStrings.7>
+  <LimbGrowsFeathers.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 깃털에 화가 난 것 같습니다.</LimbGrowsFeathers.rulePack.rulesStrings.8>
+  <LimbGrowsFeathers.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 깃털에 만족하는 것 같습니다.</LimbGrowsFeathers.rulePack.rulesStrings.9>
+  <HandsBecomeWingTips.label>손이 날개깃이 됨.</HandsBecomeWingTips.label>
+  <HandsBecomeWingTips.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</HandsBecomeWingTips.rulePack.rulesStrings.0>
+  <HandsBecomeWingTips.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</HandsBecomeWingTips.rulePack.rulesStrings.1>
+  <HandsBecomeWingTips.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</HandsBecomeWingTips.rulePack.rulesStrings.2>
+  <HandsBecomeWingTips.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</HandsBecomeWingTips.rulePack.rulesStrings.3>
+  <HandsBecomeWingTips.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]손이 손이 변화합니다.</HandsBecomeWingTips.rulePack.rulesStrings.4>
+  <HandsBecomeWingTips.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 손을 살핍니다. [circumstance_group][circumstance_group]</HandsBecomeWingTips.rulePack.rulesStrings.5>
+  <HandsBecomeWingTips.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun]은(는) 무언가를 집으려고 시도합니다.</HandsBecomeWingTips.rulePack.rulesStrings.6>
+  <HandsBecomeWingTips.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]은(는) 새로운 손을 시험해 봅니다.</HandsBecomeWingTips.rulePack.rulesStrings.7>
+  <HandsBecomeWingTips.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 손이 날개깃이 되었습니다.</HandsBecomeWingTips.rulePack.rulesStrings.8>
+  <HandsBecomeWingTips.rulePack.rulesStrings.9>tale_noun->[PAWN_nameDef]의 손이 날개처럼 변했습니다.</HandsBecomeWingTips.rulePack.rulesStrings.9>
+  <HandsBecomeWingTips.rulePack.rulesStrings.10>image->[PAWN_nameFull]의 손가락들이 합쳐지기 시작합니다. [circumstance_group]</HandsBecomeWingTips.rulePack.rulesStrings.10>
+  <HandsBecomeWingTips.rulePack.rulesStrings.11>image->[PAWN_nameDef]의 손이 변함에 따라 깃털들이 손을 덮기 시작합니다.[circumstance_group]</HandsBecomeWingTips.rulePack.rulesStrings.11>
+  <HandsBecomeWingTips.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun]은(는) 자신의 엄지 손가락이 사라져 슬퍼합니다.</HandsBecomeWingTips.rulePack.rulesStrings.12>
+  <GrewEgglayer.label>산란관이 자라남.</GrewEgglayer.label>
+  <GrewEgglayer.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewEgglayer.rulePack.rulesStrings.0>
+  <GrewEgglayer.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewEgglayer.rulePack.rulesStrings.1>
+  <GrewEgglayer.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewEgglayer.rulePack.rulesStrings.2>
+  <GrewEgglayer.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewEgglayer.rulePack.rulesStrings.3>
+  <GrewEgglayer.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]은(는) 알을 낳기 시작합니다.</GrewEgglayer.rulePack.rulesStrings.4>
+  <GrewEgglayer.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) 앉아서 알을 낳기 시작합니다. [circumstance_group]</GrewEgglayer.rulePack.rulesStrings.5>
+  <GrewEgglayer.rulePack.rulesStrings.6>image->[PAWN_nameFull]이(가) 잽싸게 둥지에 알을 낳기 시작합니다. [circumstance_group]</GrewEgglayer.rulePack.rulesStrings.6>
+  <GrewEgglayer.rulePack.rulesStrings.7>circumstance_phrase->누군가가 달걀을 모으기 시작합니다.</GrewEgglayer.rulePack.rulesStrings.7>
+  <GrewEgglayer.rulePack.rulesStrings.8>circumstance_phrase->몇개의 달걀들이 구석에 숨어 있습니다.</GrewEgglayer.rulePack.rulesStrings.8>
+  <GrewEgglayer.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 알을 낳는 것에 대해 매우 당황합니다.</GrewEgglayer.rulePack.rulesStrings.9>
+  <GrewEgglayer.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 알을 낳는 것을 아무렇지도 않게 여기는 것 같습니다.</GrewEgglayer.rulePack.rulesStrings.10>
+  <GrowCowHorns.label>소 뿔이 자라남.</GrowCowHorns.label>
+  <GrowCowHorns.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrowCowHorns.rulePack.rulesStrings.0>
+  <GrowCowHorns.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrowCowHorns.rulePack.rulesStrings.1>
+  <GrowCowHorns.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrowCowHorns.rulePack.rulesStrings.2>
+  <GrowCowHorns.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrowCowHorns.rulePack.rulesStrings.3>
+  <GrowCowHorns.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]에게 뿔이 자라납니다.</GrowCowHorns.rulePack.rulesStrings.4>
+  <GrowCowHorns.rulePack.rulesStrings.5>image->뿔이 [PAWN_nameFull]의 머리를 뚫고 나오기 시작합니다. [circumstance_group]</GrowCowHorns.rulePack.rulesStrings.5>
+  <GrowCowHorns.rulePack.rulesStrings.6>circumstance_phrase->누군가가 뿔을 건드려보기 시작합니다.</GrowCowHorns.rulePack.rulesStrings.6>
+  <GrowCowHorns.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 뿔을 살핍니다.</GrowCowHorns.rulePack.rulesStrings.7>
+  <GrowCowHorns.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 뿔에 만족해 보입니다.</GrowCowHorns.rulePack.rulesStrings.8>
+  <GrowCowHorns.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 뿔에 불안해 보입니다.</GrowCowHorns.rulePack.rulesStrings.9>
+  <GrowCowMuzzle.label>소 주둥이가 자라남.</GrowCowMuzzle.label>
+  <GrowCowMuzzle.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrowCowMuzzle.rulePack.rulesStrings.0>
+  <GrowCowMuzzle.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrowCowMuzzle.rulePack.rulesStrings.1>
+  <GrowCowMuzzle.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrowCowMuzzle.rulePack.rulesStrings.2>
+  <GrowCowMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrowCowMuzzle.rulePack.rulesStrings.3>
+  <GrowCowMuzzle.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrowCowMuzzle.rulePack.rulesStrings.4>
+  <GrowCowMuzzle.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [circumstance_group]</GrowCowMuzzle.rulePack.rulesStrings.5>
+  <GrowCowMuzzle.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrowCowMuzzle.rulePack.rulesStrings.6>
+  <GrowCowMuzzle.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrowCowMuzzle.rulePack.rulesStrings.7>
+  <GrowCowMuzzle.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrowCowMuzzle.rulePack.rulesStrings.8>
+  <GrowCowMuzzle.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrowCowMuzzle.rulePack.rulesStrings.9>
+  <GrowCowMuzzle.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]의 얼굴이 소의 주둥이로 변했습니다.</GrowCowMuzzle.rulePack.rulesStrings.10>
+  <GrowCowMuzzle.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]에게 소의 주둥이가 자라납니다.</GrowCowMuzzle.rulePack.rulesStrings.11>
+  <GrowCowMuzzle.rulePack.rulesStrings.12>image->[PAWN_nameDef]의 얼굴이 주둥이가 되어 밀려나오기 시작합니다.[circumstance_group]</GrowCowMuzzle.rulePack.rulesStrings.12>
+  <GrowCowMuzzle.rulePack.rulesStrings.13>image->[PAWN_nameDef]의 비명이 음머 소리로 바뀝니다.[circumstance_group]</GrowCowMuzzle.rulePack.rulesStrings.13>
+  <GrowCowMuzzle.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun]은(는) 주위에서 계속 음머 거립니다.</GrowCowMuzzle.rulePack.rulesStrings.14>
+  <GrewUdder.label>젖통이 자라남.</GrewUdder.label>
+  <GrewUdder.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewUdder.rulePack.rulesStrings.0>
+  <GrewUdder.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewUdder.rulePack.rulesStrings.1>
+  <GrewUdder.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewUdder.rulePack.rulesStrings.2>
+  <GrewUdder.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewUdder.rulePack.rulesStrings.3>
+  <GrewUdder.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]에게 젖통이 자라기 시작합니다.</GrewUdder.rulePack.rulesStrings.4>
+  <GrewUdder.rulePack.rulesStrings.5>tale_noun->[PAWN_nameDef]은(는) 이제 우유를 생산합니다.</GrewUdder.rulePack.rulesStrings.5>
+  <GrewUdder.rulePack.rulesStrings.6>image->[PAWN_nameFull]의 허리에서 장기가 부풀어 오르면서 젖통이 자라나기 시작합니다. [circumstance_group]</GrewUdder.rulePack.rulesStrings.6>
+  <GrewUdder.rulePack.rulesStrings.7>circumstance_phrase->누군가가 빈 양동이를 가지고 [PAWN_pronoun]에게 접근합니다.</GrewUdder.rulePack.rulesStrings.7>
+  <GrewUdder.rulePack.rulesStrings.8>circumstance_phrase->누군가가 빈 잔을 들고 [PAWN_pronoun]에게 접근합니다.</GrewUdder.rulePack.rulesStrings.8>
+  <GrewUdder.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새로운 젖통에 대해 당황합니다.</GrewUdder.rulePack.rulesStrings.9>
+  <GrewUdder.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 젖통에 대해 놀라워하는 것 같습니다.</GrewUdder.rulePack.rulesStrings.10>
+  <GrewAntlers.label>뿔이 자라남.</GrewAntlers.label>
+  <GrewAntlers.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewAntlers.rulePack.rulesStrings.0>
+  <GrewAntlers.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewAntlers.rulePack.rulesStrings.1>
+  <GrewAntlers.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewAntlers.rulePack.rulesStrings.2>
+  <GrewAntlers.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewAntlers.rulePack.rulesStrings.3>
+  <GrewAntlers.rulePack.rulesStrings.4>tale_noun->뿔이 [PAWN_nameFull]의 머리를 뚫고 나오기 시작합니다.</GrewAntlers.rulePack.rulesStrings.4>
+  <GrewAntlers.rulePack.rulesStrings.5>tale_noun->[PAWN_nameDef]에게 작은 뿔이 자라납니다.</GrewAntlers.rulePack.rulesStrings.5>
+  <GrewAntlers.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 머리를 뚫고 나오는 뿔을 관찰합니다. [circumstance_group]</GrewAntlers.rulePack.rulesStrings.6>
+  <GrewAntlers.rulePack.rulesStrings.7>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 머리에 자라는 뿔이 커지는 것을 느끼지 못합니다. [circumstance_group]</GrewAntlers.rulePack.rulesStrings.7>
+  <GrewAntlers.rulePack.rulesStrings.8>circumstance_phrase->누군가가 [PAWN_possessive]의 머리에 자라는 뿔을 만집니다.</GrewAntlers.rulePack.rulesStrings.8>
+  <GrewAntlers.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그것들을 뽑아 내려고 합니다.</GrewAntlers.rulePack.rulesStrings.9>
+  <GrewAntlers.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun]은(는) 뿔을 벽에 비벼댑니다.</GrewAntlers.rulePack.rulesStrings.10>
+  <GrewDeerMuzzle.label>사슴 주둥이가 자라남.</GrewDeerMuzzle.label>
+  <GrewDeerMuzzle.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewDeerMuzzle.rulePack.rulesStrings.0>
+  <GrewDeerMuzzle.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewDeerMuzzle.rulePack.rulesStrings.1>
+  <GrewDeerMuzzle.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewDeerMuzzle.rulePack.rulesStrings.2>
+  <GrewDeerMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewDeerMuzzle.rulePack.rulesStrings.3>
+  <GrewDeerMuzzle.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewDeerMuzzle.rulePack.rulesStrings.4>
+  <GrewDeerMuzzle.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [circumstance_group]</GrewDeerMuzzle.rulePack.rulesStrings.5>
+  <GrewDeerMuzzle.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewDeerMuzzle.rulePack.rulesStrings.6>
+  <GrewDeerMuzzle.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewDeerMuzzle.rulePack.rulesStrings.7>
+  <GrewDeerMuzzle.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewDeerMuzzle.rulePack.rulesStrings.8>
+  <GrewDeerMuzzle.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewDeerMuzzle.rulePack.rulesStrings.9>
+  <GrewDeerMuzzle.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]의 얼굴이 사슴의 주둥이로 변했습니다.</GrewDeerMuzzle.rulePack.rulesStrings.10>
+  <GrewDeerMuzzle.rulePack.rulesStrings.11>image->[PAWN_nameFull]의 비명이 사슴 울음소리로 변합니다. [circumstance_group]</GrewDeerMuzzle.rulePack.rulesStrings.11>
+  <GrewDeerMuzzle.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun]은(는) 슬픈 표정으로 울음소리를 냅니다.</GrewDeerMuzzle.rulePack.rulesStrings.12>
+  <GrewElephantFace.label>코끼리 얼굴이 자라남.</GrewElephantFace.label>
+  <GrewElephantFace.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewElephantFace.rulePack.rulesStrings.0>
+  <GrewElephantFace.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewElephantFace.rulePack.rulesStrings.1>
+  <GrewElephantFace.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewElephantFace.rulePack.rulesStrings.2>
+  <GrewElephantFace.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewElephantFace.rulePack.rulesStrings.3>
+  <GrewElephantFace.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewElephantFace.rulePack.rulesStrings.4>
+  <GrewElephantFace.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [circumstance_group]</GrewElephantFace.rulePack.rulesStrings.5>
+  <GrewElephantFace.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewElephantFace.rulePack.rulesStrings.6>
+  <GrewElephantFace.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewElephantFace.rulePack.rulesStrings.7>
+  <GrewElephantFace.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewElephantFace.rulePack.rulesStrings.8>
+  <GrewElephantFace.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewElephantFace.rulePack.rulesStrings.9>
+  <GrewElephantFace.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]에게 코끼리의 코와 엄니가 자라납니다.</GrewElephantFace.rulePack.rulesStrings.10>
+  <GrewElephantFace.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]의 얼굴이 코끼리처럼 변합니다.</GrewElephantFace.rulePack.rulesStrings.11>
+  <GrewElephantFace.rulePack.rulesStrings.12>image->[PAWN_nameFull]의 코가 길게 밀려 나오기 시작합니다. [circumstance_group]</GrewElephantFace.rulePack.rulesStrings.12>
+  <GrewElephantFace.rulePack.rulesStrings.13>image->[PAWN_nameFull]의 이빨이 큰 아이보리색 엄니로 자라나기 시작합니다. [circumstance_group]</GrewElephantFace.rulePack.rulesStrings.13>
+  <GrewElephantFace.rulePack.rulesStrings.14>circumstance_phrase->누군가가 [PAWN_possessive]을(를) 탐욕스러운 눈으로 쳐다봅니다.</GrewElephantFace.rulePack.rulesStrings.14>
+  <GrewElephantFace.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 코를 가지고 무언가를 집으려고 합니다.</GrewElephantFace.rulePack.rulesStrings.15>
+  <GrewElephantFace.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 코를 불안해 하지 않는 것 같아 보입니다.</GrewElephantFace.rulePack.rulesStrings.16>
+  <GrewElephantFace.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새로운 엄니들에 만족하는 것 같습니다.</GrewElephantFace.rulePack.rulesStrings.17>
+  <GrewElephantEars.label>코끼리 귀가 자라남.</GrewElephantEars.label>
+  <GrewElephantEars.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewElephantEars.rulePack.rulesStrings.0>
+  <GrewElephantEars.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewElephantEars.rulePack.rulesStrings.1>
+  <GrewElephantEars.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewElephantEars.rulePack.rulesStrings.2>
+  <GrewElephantEars.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewElephantEars.rulePack.rulesStrings.3>
+  <GrewElephantEars.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 귀가 변하기 시작합니다.</GrewElephantEars.rulePack.rulesStrings.4>
+  <GrewElephantEars.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 귀에 변화를 느낍니다. [circumstance_group] </GrewElephantEars.rulePack.rulesStrings.5>
+  <GrewElephantEars.rulePack.rulesStrings.6>circumstance_group->[PAWN_possessive]의 귀가 꿈틀거립니다.</GrewElephantEars.rulePack.rulesStrings.6>
+  <GrewElephantEars.rulePack.rulesStrings.7>circumstance_group->누군가가 [PAWN_possessive]의 귀를 건드려 봅니다.</GrewElephantEars.rulePack.rulesStrings.7>
+  <GrewElephantEars.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]이(가) 그것들을 움직이기 시작합니다.</GrewElephantEars.rulePack.rulesStrings.8>
+  <GrewElephantEars.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]의 새 귀가 꿈틀거립니다.</GrewElephantEars.rulePack.rulesStrings.9>
+  <GrewElephantEars.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]의 귀가 코끼리의 귀처럼 변하기 시작합니다.</GrewElephantEars.rulePack.rulesStrings.10>
+  <GrewElephantEars.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]에게 코끼리의 귀가 자라나기 시작합니다.</GrewElephantEars.rulePack.rulesStrings.11>
+  <GrewElephantEars.rulePack.rulesStrings.12>image->[PAWN_nameFull]의 귀가 자라기 시작합니다. [circumstance_group]</GrewElephantEars.rulePack.rulesStrings.12>
+  <GrewElephantEars.rulePack.rulesStrings.13>image->[PAWN_nameFull]의 귀가 움직이고 자라나기 시작합니다. [circumstance_group]</GrewElephantEars.rulePack.rulesStrings.13>
+  <GrewElephantEars.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 귀의 크기에 불안해 보입니다.</GrewElephantEars.rulePack.rulesStrings.14>
+  <GrewElephantEars.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 코끼리 귀를 젖혀 봅니다.</GrewElephantEars.rulePack.rulesStrings.15>
+  <GrewElephantEars.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 코끼리 귀를 이상하게도 기뻐하는 것 같습니다.</GrewElephantEars.rulePack.rulesStrings.16>
+  <GrewElephantFoot.label>코끼리 발이 자라남.</GrewElephantFoot.label>
+  <GrewElephantFoot.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewElephantFoot.rulePack.rulesStrings.0>
+  <GrewElephantFoot.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewElephantFoot.rulePack.rulesStrings.1>
+  <GrewElephantFoot.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewElephantFoot.rulePack.rulesStrings.2>
+  <GrewElephantFoot.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewElephantFoot.rulePack.rulesStrings.3>
+  <GrewElephantFoot.rulePack.rulesStrings.4>image->[PAWN_nameFull]의 발끝이 변하기 시작합니다.[circumstance_group]</GrewElephantFoot.rulePack.rulesStrings.4>
+  <GrewElephantFoot.rulePack.rulesStrings.5>circumstance_group->누군가가 [PAWN_possessive]의 발끝이 변하는 것을 바라봅니다.</GrewElephantFoot.rulePack.rulesStrings.5>
+  <GrewElephantFoot.rulePack.rulesStrings.6>circumstance_group->사람들이 [PAWN_possessive]의 발이 바뀌는 것을 응시합니다.</GrewElephantFoot.rulePack.rulesStrings.6>
+  <GrewElephantFoot.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]이(가) [PAWN_possessive]의 새 발을 시험해 봅니다.</GrewElephantFoot.rulePack.rulesStrings.7>
+  <GrewElephantFoot.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 발이 코끼리의 것 처럼 변하기 시작합니다.</GrewElephantFoot.rulePack.rulesStrings.8>
+  <GrewElephantFoot.rulePack.rulesStrings.9>tale_noun->[PAWN_nameDef]에게 코끼리의 발이 자라납니다.</GrewElephantFoot.rulePack.rulesStrings.9>
+  <GrewElephantFoot.rulePack.rulesStrings.10>image->[PAWN_nameFull]의 발이 크고 뭉툭한 발로 변해 움직이기 시작합니다. [circumstance_group]</GrewElephantFoot.rulePack.rulesStrings.10>
+  <GrewElephantFoot.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 발이 불편해 보입니다.</GrewElephantFoot.rulePack.rulesStrings.11>
+  <GrewElephantFoot.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새로운 발을 쿵쿵거리기 시작합니다.</GrewElephantFoot.rulePack.rulesStrings.12>
+  <HandsBecameElephantFeet.label>손이 코끼리 발로 변함.</HandsBecameElephantFeet.label>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</HandsBecameElephantFeet.rulePack.rulesStrings.0>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</HandsBecameElephantFeet.rulePack.rulesStrings.1>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</HandsBecameElephantFeet.rulePack.rulesStrings.2>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</HandsBecameElephantFeet.rulePack.rulesStrings.3>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 손이 변화합니다.</HandsBecameElephantFeet.rulePack.rulesStrings.4>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 손을 살핍니다. [circumstance_group]</HandsBecameElephantFeet.rulePack.rulesStrings.5>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun]은(는) 무언가를 집으려고 시도합니다.</HandsBecameElephantFeet.rulePack.rulesStrings.6>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]은(는) 새로운 손을 시험해 봅니다.</HandsBecameElephantFeet.rulePack.rulesStrings.7>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 손이 코끼리의 발이 되기 시작합니다.</HandsBecameElephantFeet.rulePack.rulesStrings.8>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.9>tale_noun->[PAWN_nameDef]의 손이 거대한 그루터기 발이 되기 시작합니다.</HandsBecameElephantFeet.rulePack.rulesStrings.9>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.10>image->[PAWN_nameFull]의 손이 뻣뻣한 그루터기처럼 변해가기 시작합니다. [circumstance_group]</HandsBecameElephantFeet.rulePack.rulesStrings.10>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.11>image->[PAWN_nameFull]의 손가락이 움츠러들기 시작합니다. [circumstance_group]</HandsBecameElephantFeet.rulePack.rulesStrings.11>
+  <HandsBecameElephantFeet.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun]은(는) 자신의 엄지 손가락이 사라져 슬퍼합니다.</HandsBecameElephantFeet.rulePack.rulesStrings.12>
+  <EyesBecomeVulpine.label>여우의 눈으로 변함.</EyesBecomeVulpine.label>
+  <EyesBecomeVulpine.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</EyesBecomeVulpine.rulePack.rulesStrings.0>
+  <EyesBecomeVulpine.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</EyesBecomeVulpine.rulePack.rulesStrings.1>
+  <EyesBecomeVulpine.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</EyesBecomeVulpine.rulePack.rulesStrings.2>
+  <EyesBecomeVulpine.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</EyesBecomeVulpine.rulePack.rulesStrings.3>
+  <EyesBecomeVulpine.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 눈이 여우의 것으로 변하기 시작합니다.</EyesBecomeVulpine.rulePack.rulesStrings.4>
+  <EyesBecomeVulpine.rulePack.rulesStrings.5>image->[PAWN_nameFull]의 동공이 여우의 눈처럼 가느다래집니다. [circumstance_group]</EyesBecomeVulpine.rulePack.rulesStrings.5>
+  <EyesBecomeVulpine.rulePack.rulesStrings.6>image->[PAWN_nameFull]의 눈빛이 여우의 것처럼 변하기 시작합니다. [circumstance_group]</EyesBecomeVulpine.rulePack.rulesStrings.6>
+  <EyesBecomeVulpine.rulePack.rulesStrings.7>image->[PAWN_nameFull]은(는) 이제 다른 색을 구별하는 데 어려움을 겪기 시작합니다.[circumstance_group]</EyesBecomeVulpine.rulePack.rulesStrings.7>
+  <EyesBecomeVulpine.rulePack.rulesStrings.8>circumstance_phrase->[PAWN_possessive]는 새로운 눈에 눈이 부셔합니다.</EyesBecomeVulpine.rulePack.rulesStrings.8>
+  <MutationToxicityRevealed.label>돌연변이 드러남.</MutationToxicityRevealed.label>
+  <MutationToxicityRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]의 몸이 변하기 시작합니다.</MutationToxicityRevealed.rulePack.rulesStrings.0>
+  <MutationToxicityRevealed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]에게서 녹색 먼지가 떨어지면서 비틀리기 시작합니다.</MutationToxicityRevealed.rulePack.rulesStrings.1>
+  <MutationToxicityRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull]이(가) 풀밭을 비틀거리면서 지나갑니다. [circumstance_group]</MutationToxicityRevealed.rulePack.rulesStrings.2>
+  <MutationToxicityRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull]이(가) 땅바닥에 엎드립니다. [circumstance_group]</MutationToxicityRevealed.rulePack.rulesStrings.3>
+  <MutationToxicityRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull]이(가) 침대에 엎드립니다. [circumstance_group]</MutationToxicityRevealed.rulePack.rulesStrings.4>
+  <MutationToxicityRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull]이(가) 불 옆에 쪼그려 앉습니다. [circumstance_group]</MutationToxicityRevealed.rulePack.rulesStrings.5>
+  <MutationToxicityRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull]이(가) 불을 붙이려고 합니다. [circumstance_group]</MutationToxicityRevealed.rulePack.rulesStrings.6>
+  <MutationToxicityRevealed.rulePack.rulesStrings.7>image->[PAWN_nameFull]은(는) 무심코 [PAWN_possessive]의 옷을 벗습니다. [circumstance_group]</MutationToxicityRevealed.rulePack.rulesStrings.7>
+  <MutationToxicityRevealed.rulePack.rulesStrings.8>circumstance_phrase->모피가 자라나는 것처럼 걷잡을 수 없이 땀을 흘리기 시작합니다.</MutationToxicityRevealed.rulePack.rulesStrings.8>
+  <MutationToxicityRevealed.rulePack.rulesStrings.9>circumstance_phrase->깃털이 자라는 것처럼 걷잡을 수 없이 떨고 있습니다.</MutationToxicityRevealed.rulePack.rulesStrings.9>
+  <MutationToxicityRevealed.rulePack.rulesStrings.10>circumstance_phrase->땀이 나고 떨면서 몸이 변형되는 것을 보고 있습니다.</MutationToxicityRevealed.rulePack.rulesStrings.10>
+  <MutationToxicityRevealed.rulePack.rulesStrings.11>circumstance_phrase->얼굴을 찡그리고 있습니다.</MutationToxicityRevealed.rulePack.rulesStrings.11>
+  <MutationToxicityRevealed.rulePack.rulesStrings.12>circumstance_phrase->구토하고 있습니다.</MutationToxicityRevealed.rulePack.rulesStrings.12>
+  <MutationToxicityRevealed.rulePack.rulesStrings.13>circumstance_phrase->꼬리가 자라나고 있습니다.</MutationToxicityRevealed.rulePack.rulesStrings.13>
+  <MutationToxicityRevealed.rulePack.rulesStrings.14>desc_sentence->[Animal]은 매우 흥미로워 보입니다.</MutationToxicityRevealed.rulePack.rulesStrings.14>
+  <MutationToxicityRevealed.rulePack.rulesStrings.15>desc_sentence->[PAWN_nameDef]의 옷은 [PAWN_pronoun]주변에 널려 있습니다.</MutationToxicityRevealed.rulePack.rulesStrings.15>
+  <MutationToxicityRevealed.rulePack.rulesStrings.16>desc_sentence->하늘이 [Color]색으로 흐릿합니다.</MutationToxicityRevealed.rulePack.rulesStrings.16>
+  <MutationToxicityRevealed.rulePack.rulesStrings.17>desc_sentence->[Quantity_adjphrase] 기형의 [Color] [TerrainFeature]가 현장을 둘러싸고 있습니다.</MutationToxicityRevealed.rulePack.rulesStrings.17>
+  <MutationToxicityRevealed.rulePack.rulesStrings.18>desc_sentence->그 광경은 뒤틀린 [TreeType] 숲 안에서 일어났습니다.</MutationToxicityRevealed.rulePack.rulesStrings.18>
+  <MutationToxicityRevealed.rulePack.rulesStrings.19>desc_sentence->[Animal]은(는) [PAWN_nameDef]을(를) 주의 깊게 살피면서 다가갑니다.</MutationToxicityRevealed.rulePack.rulesStrings.19>
+  <StartsGrowingMegaslothWool.label>털실이 자라남.</StartsGrowingMegaslothWool.label>
+  <StartsGrowingMegaslothWool.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</StartsGrowingMegaslothWool.rulePack.rulesStrings.0>
+  <StartsGrowingMegaslothWool.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</StartsGrowingMegaslothWool.rulePack.rulesStrings.1>
+  <StartsGrowingMegaslothWool.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</StartsGrowingMegaslothWool.rulePack.rulesStrings.2>
+  <StartsGrowingMegaslothWool.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</StartsGrowingMegaslothWool.rulePack.rulesStrings.3>
+  <StartsGrowingMegaslothWool.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 머리털이 모피가 되어갑니다.</StartsGrowingMegaslothWool.rulePack.rulesStrings.4>
+  <StartsGrowingMegaslothWool.rulePack.rulesStrings.5>tale_noun->[PAWN_nameDef]의 몸을 길고 폭신폭신한 털이 덮기 시작합니다.</StartsGrowingMegaslothWool.rulePack.rulesStrings.5>
+  <StartsGrowingMegaslothWool.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 폭신폭신한 털을 긁기 시작합니다.[circumstance_group]</StartsGrowingMegaslothWool.rulePack.rulesStrings.6>
+  <StartsGrowingMegaslothWool.rulePack.rulesStrings.7>image->[PAWN_nameFull]은(는) 매우 따뜻하고 푹신하게 느껴지기 시작합니다.[circumstance_group]</StartsGrowingMegaslothWool.rulePack.rulesStrings.7>
+  <StartsGrowingMegaslothWool.rulePack.rulesStrings.8>circumstance_phrase->누군가가 [PAWN_possessive]의 푹신한 몸을 쓰다듬기 시작합니다.</StartsGrowingMegaslothWool.rulePack.rulesStrings.8>
+  <StartsGrowingMegaslothWool.rulePack.rulesStrings.9>circumstance_phrase->누군가가 솔을 향해 손을 뻗습니다.</StartsGrowingMegaslothWool.rulePack.rulesStrings.9>
+  <StartsGrowingMegaslothWool.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun]은 [PAWN_possessive] 털을 가꾸기 시작합니다.</StartsGrowingMegaslothWool.rulePack.rulesStrings.10>
+  <GrewMegaslothMuzzle.label>메가슬로스 주둥이가 자라남.</GrewMegaslothMuzzle.label>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewMegaslothMuzzle.rulePack.rulesStrings.0>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewMegaslothMuzzle.rulePack.rulesStrings.1>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewMegaslothMuzzle.rulePack.rulesStrings.2>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewMegaslothMuzzle.rulePack.rulesStrings.3>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewMegaslothMuzzle.rulePack.rulesStrings.4>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [circumstance_group]</GrewMegaslothMuzzle.rulePack.rulesStrings.5>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewMegaslothMuzzle.rulePack.rulesStrings.6>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewMegaslothMuzzle.rulePack.rulesStrings.7>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewMegaslothMuzzle.rulePack.rulesStrings.8>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewMegaslothMuzzle.rulePack.rulesStrings.9>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]에게 메가슬로스의 주둥이가 자라납니다.</GrewMegaslothMuzzle.rulePack.rulesStrings.10>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]의 얼굴이 메가슬로스처럼 변합니다.</GrewMegaslothMuzzle.rulePack.rulesStrings.11>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.12>image->[PAWN_nameFull]의 얼굴이 메가슬로스의 주둥이처럼 변하여 밀려나오기 시작합니다. [circumstance_group]</GrewMegaslothMuzzle.rulePack.rulesStrings.12>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.13>image->[PAWN_nameFull]의 비명이 메가슬로스의 울음소리로 바뀝니다. [circumstance_group]</GrewMegaslothMuzzle.rulePack.rulesStrings.13>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.14>circumstance_phrase->누군가가 [PAWN_pronoun]의 폭신한 얼굴로 장난칩니다.</GrewMegaslothMuzzle.rulePack.rulesStrings.14>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 푹신한 얼굴에 고통스러워 합니다.</GrewMegaslothMuzzle.rulePack.rulesStrings.15>
+  <GrewMegaslothMuzzle.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 푹신한 얼굴에 만족하는 것 같습니다.</GrewMegaslothMuzzle.rulePack.rulesStrings.16>
+  <GrewMegaHand.label>손에서 발톱이 자라남.</GrewMegaHand.label>
+  <GrewMegaHand.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewMegaHand.rulePack.rulesStrings.0>
+  <GrewMegaHand.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewMegaHand.rulePack.rulesStrings.1>
+  <GrewMegaHand.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewMegaHand.rulePack.rulesStrings.2>
+  <GrewMegaHand.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewMegaHand.rulePack.rulesStrings.3>
+  <GrewMegaHand.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 손이 변화합니다.</GrewMegaHand.rulePack.rulesStrings.4>
+  <GrewMegaHand.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 손을 살핍니다. [circumstance_group]</GrewMegaHand.rulePack.rulesStrings.5>
+  <GrewMegaHand.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun]은(는) 무언가를 집으려고 시도합니다.</GrewMegaHand.rulePack.rulesStrings.6>
+  <GrewMegaHand.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]은(는) 새로운 손을 시험해 봅니다.</GrewMegaHand.rulePack.rulesStrings.7>
+  <GrewMegaHand.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 손톱이 길어져 날카로운 발톱이 되었습니다. </GrewMegaHand.rulePack.rulesStrings.8>
+  <GrewMegaHand.rulePack.rulesStrings.9>tale_noun->[PAWN_nameDef]의 손이 메가슬로스의 것 처럼 변합니다.</GrewMegaHand.rulePack.rulesStrings.9>
+  <GrewMegaHand.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]에게 메가슬로스의 손이 자라납니다.</GrewMegaHand.rulePack.rulesStrings.10>
+  <GrewMegaHand.rulePack.rulesStrings.11>image->[PAWN_nameFull]의 손톱이 길어져 긴 발톱이 되었습니다. [circumstance_group]</GrewMegaHand.rulePack.rulesStrings.11>
+  <GrewMegaHand.rulePack.rulesStrings.12>image->[PAWN_nameFull]손이 움직이기 시작하며, 발톱이 있는 메가스로스의 손으로 변하기 시작합니다. [circumstance_group]</GrewMegaHand.rulePack.rulesStrings.12>
+  <GrewMegaHand.rulePack.rulesStrings.13>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 발톱을 불안해 합니다.</GrewMegaHand.rulePack.rulesStrings.13>
+  <GrewMegaHand.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 발톱으로 무언가를 조각하기 시작합니다.</GrewMegaHand.rulePack.rulesStrings.14>
+  <GrewMegaHand.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 발톱에 만족하는 것 같습니다.</GrewMegaHand.rulePack.rulesStrings.15>
+  <GrewMegaslothFoot.label>발에서 발톱이 자라남.</GrewMegaslothFoot.label>
+  <GrewMegaslothFoot.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewMegaslothFoot.rulePack.rulesStrings.0>
+  <GrewMegaslothFoot.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewMegaslothFoot.rulePack.rulesStrings.1>
+  <GrewMegaslothFoot.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewMegaslothFoot.rulePack.rulesStrings.2>
+  <GrewMegaslothFoot.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewMegaslothFoot.rulePack.rulesStrings.3>
+  <GrewMegaslothFoot.rulePack.rulesStrings.4>image->[PAWN_nameFull]의 발끝이 변하기 시작합니다. [circumstance_group]</GrewMegaslothFoot.rulePack.rulesStrings.4>
+  <GrewMegaslothFoot.rulePack.rulesStrings.5>circumstance_group->누군가가 [PAWN_possessive]의 발끝이 변하는 것을 바라봅니다.</GrewMegaslothFoot.rulePack.rulesStrings.5>
+  <GrewMegaslothFoot.rulePack.rulesStrings.6>circumstance_group->사람들이 [PAWN_possessive]의 발이 바뀌는 것을 응시합니다.</GrewMegaslothFoot.rulePack.rulesStrings.6>
+  <GrewMegaslothFoot.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]이(가) [PAWN_possessive]의 새 발을 시험해 봅니다.</GrewMegaslothFoot.rulePack.rulesStrings.7>
+  <GrewMegaslothFoot.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 발이 메가슬로스의 발이 되었습니다.</GrewMegaslothFoot.rulePack.rulesStrings.8>
+  <GrewMegaslothFoot.rulePack.rulesStrings.9>tale_noun->[PAWN_nameDef]에게서 메가슬로스의 발이 자라납니다.</GrewMegaslothFoot.rulePack.rulesStrings.9>
+  <GrewMegaslothFoot.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]의 발에서 발톱이 자라납니다.</GrewMegaslothFoot.rulePack.rulesStrings.10>
+  <GrewMegaslothFoot.rulePack.rulesStrings.11>image->[PAWN_nameFull]의 발가락에서 긴 발톱이 자라납니다. [circumstance_group]</GrewMegaslothFoot.rulePack.rulesStrings.11>
+  <GrewMegaslothFoot.rulePack.rulesStrings.12>image->[PAWN_nameFull]의 발톱이 긴 발톱이 되어 늘어나기 시작합니다. [circumstance_group]</GrewMegaslothFoot.rulePack.rulesStrings.12>
+  <GrewMegaslothFoot.rulePack.rulesStrings.13>image->fur begins to cover [PAWN_nameFull]'s feet as they begin to shift [circumstance_group]</GrewMegaslothFoot.rulePack.rulesStrings.13>
+  <GrewMegaslothFoot.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 발톱이 불편해 보입니다.</GrewMegaslothFoot.rulePack.rulesStrings.14>
+  <GrewMegaslothFoot.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새로운 발이 불안정해 보입니다.</GrewMegaslothFoot.rulePack.rulesStrings.15>
+  <GrewMegaslothFoot.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새로운 발에 놀라울 정도로 능숙해 보입니다.</GrewMegaslothFoot.rulePack.rulesStrings.16>
+  <GrewMuzzleMisc.label>주둥이가 자라남.</GrewMuzzleMisc.label>
+  <GrewMuzzleMisc.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewMuzzleMisc.rulePack.rulesStrings.0>
+  <GrewMuzzleMisc.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewMuzzleMisc.rulePack.rulesStrings.1>
+  <GrewMuzzleMisc.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewMuzzleMisc.rulePack.rulesStrings.2>
+  <GrewMuzzleMisc.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewMuzzleMisc.rulePack.rulesStrings.3>
+  <GrewMuzzleMisc.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewMuzzleMisc.rulePack.rulesStrings.4>
+  <GrewMuzzleMisc.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [circumstance_group]</GrewMuzzleMisc.rulePack.rulesStrings.5>
+  <GrewMuzzleMisc.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewMuzzleMisc.rulePack.rulesStrings.6>
+  <GrewMuzzleMisc.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewMuzzleMisc.rulePack.rulesStrings.7>
+  <GrewMuzzleMisc.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewMuzzleMisc.rulePack.rulesStrings.8>
+  <GrewMuzzleMisc.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewMuzzleMisc.rulePack.rulesStrings.9>
+  <GrewCanidMuzzle.label>개 주둥이가 자라남.</GrewCanidMuzzle.label>
+  <GrewCanidMuzzle.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewCanidMuzzle.rulePack.rulesStrings.0>
+  <GrewCanidMuzzle.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewCanidMuzzle.rulePack.rulesStrings.1>
+  <GrewCanidMuzzle.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewCanidMuzzle.rulePack.rulesStrings.2>
+  <GrewCanidMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewCanidMuzzle.rulePack.rulesStrings.3>
+  <GrewCanidMuzzle.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewCanidMuzzle.rulePack.rulesStrings.4>
+  <GrewCanidMuzzle.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [circumstance_group]</GrewCanidMuzzle.rulePack.rulesStrings.5>
+  <GrewCanidMuzzle.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewCanidMuzzle.rulePack.rulesStrings.6>
+  <GrewCanidMuzzle.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewCanidMuzzle.rulePack.rulesStrings.7>
+  <GrewCanidMuzzle.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewCanidMuzzle.rulePack.rulesStrings.8>
+  <GrewCanidMuzzle.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewCanidMuzzle.rulePack.rulesStrings.9>
+  <GrewCanidMuzzle.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]에게 송곳니 달린 주둥이가 자라납니다.</GrewCanidMuzzle.rulePack.rulesStrings.10>
+  <GrewCanidMuzzle.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]의 머리가 개를 닮은 형태로 변화합니다.</GrewCanidMuzzle.rulePack.rulesStrings.11>
+  <GrewCanidMuzzle.rulePack.rulesStrings.12>image->[PAWN_nameFull]의 비명이 짖는 소리로 바뀝니다. [circumstance_group]</GrewCanidMuzzle.rulePack.rulesStrings.12>
+  <GrewCanidMuzzle.rulePack.rulesStrings.13>image->[PAWN_nameFull]이(가) 모든 새로운 냄새에 코를 킁킁거리기 시작합니다. [circumstance_group] </GrewCanidMuzzle.rulePack.rulesStrings.13>
+  <GrewCanidMuzzle.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun]의 얼굴이 개의 주둥이로 변합니다.</GrewCanidMuzzle.rulePack.rulesStrings.14>
+  <GrewCanidMuzzle.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]의 변이가 멈추자 헐떡거리기 시작합니다.</GrewCanidMuzzle.rulePack.rulesStrings.15>
+  <GrewCanidMuzzle.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun]이(가) 뭔가를 보고 킁킁거리기 시작합니다.</GrewCanidMuzzle.rulePack.rulesStrings.16>
+  <GrewCanidMuzzle.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun]이(가) 행복하게 헐떡거립니다.</GrewCanidMuzzle.rulePack.rulesStrings.17>
+  <GrewCanidMuzzle.rulePack.rulesStrings.18>desc_sentence->[PAWN_pronoun]이(가) 놀라서 낑낑거립니다.</GrewCanidMuzzle.rulePack.rulesStrings.18>
+  <GrewFelineMuzzle.label>고양이 주둥이가 자라남.</GrewFelineMuzzle.label>
+  <GrewFelineMuzzle.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewFelineMuzzle.rulePack.rulesStrings.0>
+  <GrewFelineMuzzle.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewFelineMuzzle.rulePack.rulesStrings.1>
+  <GrewFelineMuzzle.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewFelineMuzzle.rulePack.rulesStrings.2>
+  <GrewFelineMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewFelineMuzzle.rulePack.rulesStrings.3>
+  <GrewFelineMuzzle.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewFelineMuzzle.rulePack.rulesStrings.4>
+  <GrewFelineMuzzle.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [circumstance_group]</GrewFelineMuzzle.rulePack.rulesStrings.5>
+  <GrewFelineMuzzle.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewFelineMuzzle.rulePack.rulesStrings.6>
+  <GrewFelineMuzzle.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewFelineMuzzle.rulePack.rulesStrings.7>
+  <GrewFelineMuzzle.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewFelineMuzzle.rulePack.rulesStrings.8>
+  <GrewFelineMuzzle.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewFelineMuzzle.rulePack.rulesStrings.9>
+  <GrewFelineMuzzle.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]에게 고양이의 주둥이가 자라납니다.</GrewFelineMuzzle.rulePack.rulesStrings.10>
+  <GrewFelineMuzzle.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]에게 고양이 같은 주둥이가 자라났습니다.</GrewFelineMuzzle.rulePack.rulesStrings.11>
+  <GrewFelineMuzzle.rulePack.rulesStrings.12>image->[PAWN_nameFull]의 비명이 야옹 소리로 바뀝니다.[circumstance_group]</GrewFelineMuzzle.rulePack.rulesStrings.12>
+  <GrewFelineMuzzle.rulePack.rulesStrings.13>image->[PAWN_nameFull]의 코가 분홍색으로 변합니다.[circumstance_group]</GrewFelineMuzzle.rulePack.rulesStrings.13>
+  <GrewFelineMuzzle.rulePack.rulesStrings.14>circumstance_phrase->누군가가 [PAWN_pronoun]의 수염을 건드리며 장난칩니다.</GrewFelineMuzzle.rulePack.rulesStrings.14>
+  <GrewFelineMuzzle.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]은(는) 끊임없이 그르렁거리기 시작합니다.</GrewFelineMuzzle.rulePack.rulesStrings.15>
+  <GrewFelineMuzzle.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun]은(는) 화가 나면 하악거리기 시작합니다.</GrewFelineMuzzle.rulePack.rulesStrings.16>
+  <GrewFelineMuzzle.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun]은(는) 뭔가 말을 하려고 하지만 나오는 건 야옹 소리밖에 없습니다.</GrewFelineMuzzle.rulePack.rulesStrings.17>
+  <EarsChangedMisc.label>귀가 변함.</EarsChangedMisc.label>
+  <EarsChangedMisc.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</EarsChangedMisc.rulePack.rulesStrings.0>
+  <EarsChangedMisc.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</EarsChangedMisc.rulePack.rulesStrings.1>
+  <EarsChangedMisc.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</EarsChangedMisc.rulePack.rulesStrings.2>
+  <EarsChangedMisc.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</EarsChangedMisc.rulePack.rulesStrings.3>
+  <EarsChangedMisc.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 귀가 변하기 시작합니다.</EarsChangedMisc.rulePack.rulesStrings.4>
+  <EarsChangedMisc.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 귀에 변화를 느낍니다. [circumstance_group] </EarsChangedMisc.rulePack.rulesStrings.5>
+  <EarsChangedMisc.rulePack.rulesStrings.6>circumstance_group->[PAWN_possessive]의 귀가 꿈틀거립니다.</EarsChangedMisc.rulePack.rulesStrings.6>
+  <EarsChangedMisc.rulePack.rulesStrings.7>circumstance_group->누군가가 [PAWN_possessive]의 귀를 건드려 봅니다.</EarsChangedMisc.rulePack.rulesStrings.7>
+  <EarsChangedMisc.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]이(가) 그것들을 움직이기 시작합니다.</EarsChangedMisc.rulePack.rulesStrings.8>
+  <EarsChangedMisc.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]의 새 귀가 꿈틀거립니다.</EarsChangedMisc.rulePack.rulesStrings.9>
+  <EarsChangedCanid.label>개 귀가 자라남.</EarsChangedCanid.label>
+  <EarsChangedCanid.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</EarsChangedCanid.rulePack.rulesStrings.0>
+  <EarsChangedCanid.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</EarsChangedCanid.rulePack.rulesStrings.1>
+  <EarsChangedCanid.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</EarsChangedCanid.rulePack.rulesStrings.2>
+  <EarsChangedCanid.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</EarsChangedCanid.rulePack.rulesStrings.3>
+  <EarsChangedCanid.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 귀가 변하기 시작합니다.</EarsChangedCanid.rulePack.rulesStrings.4>
+  <EarsChangedCanid.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 귀에 변화를 느낍니다. [circumstance_group] </EarsChangedCanid.rulePack.rulesStrings.5>
+  <EarsChangedCanid.rulePack.rulesStrings.6>circumstance_group->[PAWN_possessive]의 귀가 꿈틀거립니다.</EarsChangedCanid.rulePack.rulesStrings.6>
+  <EarsChangedCanid.rulePack.rulesStrings.7>circumstance_group->누군가가 [PAWN_possessive]의 귀를 건드려 봅니다.</EarsChangedCanid.rulePack.rulesStrings.7>
+  <EarsChangedCanid.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]이(가) 그것들을 움직이기 시작합니다.</EarsChangedCanid.rulePack.rulesStrings.8>
+  <EarsChangedCanid.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]의 새 귀가 꿈틀거립니다.</EarsChangedCanid.rulePack.rulesStrings.9>
+  <EarsChangedCanid.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]의 귀가 뾰족해지고 털이 나기 시작합니다.</EarsChangedCanid.rulePack.rulesStrings.10>
+  <EarsChangedCanid.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]에게 개의 귀가 자라납니다.</EarsChangedCanid.rulePack.rulesStrings.11>
+  <EarsChangedCanid.rulePack.rulesStrings.12>tale_noun->[PAWN_nameDef]의 귀가 개처럼 변하기 시작합니다.</EarsChangedCanid.rulePack.rulesStrings.12>
+  <EarsChangedCanid.rulePack.rulesStrings.13>image->[PAWN_nameFull]의 귀가 시끄러운 쪽으로 돌기 시작합니다. [circumstance_group]</EarsChangedCanid.rulePack.rulesStrings.13>
+  <EarsChangedCanid.rulePack.rulesStrings.14>circumstance_group->[PAWN_possessive]의 귀가 공포에 질려 납작하게 눌려 있습니다.</EarsChangedCanid.rulePack.rulesStrings.14>
+  <EarsChangedCanid.rulePack.rulesStrings.15>circumstance_group->[PAWN_possessive]의 귀가 쫑긋 섭니다. </EarsChangedCanid.rulePack.rulesStrings.15>
+  <EarsChangedCanid.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun]은(는) 청력이 향상된 것에 정신이 팔렸습니다.</EarsChangedCanid.rulePack.rulesStrings.16>
+  <EarsChangedFeline.label>고양이 귀가 자라남.</EarsChangedFeline.label>
+  <EarsChangedFeline.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</EarsChangedFeline.rulePack.rulesStrings.0>
+  <EarsChangedFeline.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</EarsChangedFeline.rulePack.rulesStrings.1>
+  <EarsChangedFeline.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</EarsChangedFeline.rulePack.rulesStrings.2>
+  <EarsChangedFeline.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</EarsChangedFeline.rulePack.rulesStrings.3>
+  <EarsChangedFeline.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 귀가 변하기 시작합니다.</EarsChangedFeline.rulePack.rulesStrings.4>
+  <EarsChangedFeline.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 귀에 변화를 느낍니다. [circumstance_group] </EarsChangedFeline.rulePack.rulesStrings.5>
+  <EarsChangedFeline.rulePack.rulesStrings.6>circumstance_group->[PAWN_possessive]의 귀가 꿈틀거립니다.</EarsChangedFeline.rulePack.rulesStrings.6>
+  <EarsChangedFeline.rulePack.rulesStrings.7>circumstance_group->누군가가 [PAWN_possessive]의 귀를 건드려 봅니다.</EarsChangedFeline.rulePack.rulesStrings.7>
+  <EarsChangedFeline.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]이(가) 그것들을 움직이기 시작합니다.</EarsChangedFeline.rulePack.rulesStrings.8>
+  <EarsChangedFeline.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]의 새 귀가 꿈틀거립니다.</EarsChangedFeline.rulePack.rulesStrings.9>
+  <EarsChangedFeline.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]의 귀가 뾰족해지고 털이 나기 시작합니다.</EarsChangedFeline.rulePack.rulesStrings.10>
+  <EarsChangedFeline.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]에게 고양이의 귀가 자라납니다.</EarsChangedFeline.rulePack.rulesStrings.11>
+  <EarsChangedFeline.rulePack.rulesStrings.12>image->[PAWN_nameFull]의 귀가 시끄러운 쪽으로 돌기 시작합니다. [circumstance_group]</EarsChangedFeline.rulePack.rulesStrings.12>
+  <EarsChangedFeline.rulePack.rulesStrings.13>image->[PAWN_nameFull]의 귀가 시끄러운 소리에 정신이 팔려 있는 것 같습니다. [circumstance_group]</EarsChangedFeline.rulePack.rulesStrings.13>
+  <EarsChangedFeline.rulePack.rulesStrings.14>circumstance_group->누군가가 [PAWN_possessive]의 귀를 긁으려 합니다.</EarsChangedFeline.rulePack.rulesStrings.14>
+  <HandsChangedMisc.label>손이 바뀜.</HandsChangedMisc.label>
+  <HandsChangedMisc.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</HandsChangedMisc.rulePack.rulesStrings.0>
+  <HandsChangedMisc.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</HandsChangedMisc.rulePack.rulesStrings.1>
+  <HandsChangedMisc.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</HandsChangedMisc.rulePack.rulesStrings.2>
+  <HandsChangedMisc.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</HandsChangedMisc.rulePack.rulesStrings.3>
+  <HandsChangedMisc.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 손이 변화합니다.</HandsChangedMisc.rulePack.rulesStrings.4>
+  <HandsChangedMisc.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 손을 살핍니다. [circumstance_group]</HandsChangedMisc.rulePack.rulesStrings.5>
+  <HandsChangedMisc.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun]은(는) 무언가를 집으려고 시도합니다.</HandsChangedMisc.rulePack.rulesStrings.6>
+  <HandsChangedMisc.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]은(는) 새로운 손을 시험해 봅니다.</HandsChangedMisc.rulePack.rulesStrings.7>
+  <HandsBecomePaws.label>손에서 발톱이 자람.</HandsBecomePaws.label>
+  <HandsBecomePaws.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</HandsBecomePaws.rulePack.rulesStrings.0>
+  <HandsBecomePaws.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</HandsBecomePaws.rulePack.rulesStrings.1>
+  <HandsBecomePaws.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</HandsBecomePaws.rulePack.rulesStrings.2>
+  <HandsBecomePaws.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</HandsBecomePaws.rulePack.rulesStrings.3>
+  <HandsBecomePaws.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 손이 변화합니다.</HandsBecomePaws.rulePack.rulesStrings.4>
+  <HandsBecomePaws.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 손을 살핍니다. [circumstance_group]</HandsBecomePaws.rulePack.rulesStrings.5>
+  <HandsBecomePaws.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun]은(는) 무언가를 집으려고 시도합니다.</HandsBecomePaws.rulePack.rulesStrings.6>
+  <HandsBecomePaws.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]은(는) 새로운 손을 시험해 봅니다.</HandsBecomePaws.rulePack.rulesStrings.7>
+  <HandsBecomePaws.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 엄지손가락이 작아지고 작은 며느리발톱이 되었습니다.</HandsBecomePaws.rulePack.rulesStrings.8>
+  <HandsBecomePaws.rulePack.rulesStrings.9>tale_noun->[PAWN_nameDef]의 손에서 발톱이 자라납니다.</HandsBecomePaws.rulePack.rulesStrings.9>
+  <HandsBecomePaws.rulePack.rulesStrings.10>image->[PAWN_nameFull]이(가) 무언가를 잡으려 했습니다. [circumstance_group]</HandsBecomePaws.rulePack.rulesStrings.10>
+  <HandsBecomePaws.rulePack.rulesStrings.11>circumstance_group->누군가가 [PAWN_Possessive]의 발을 건드립니다.</HandsBecomePaws.rulePack.rulesStrings.11>
+  <HandsBecomePaws.rulePack.rulesStrings.12>circumstance_group->누군가가 [PAWN_possessive]의 육구를 문지릅니다.</HandsBecomePaws.rulePack.rulesStrings.12>
+  <HandsBecomePaws.rulePack.rulesStrings.13>desc_sentence->[PAWN_pronoun]은(는) 자신의 엄지 손가락이 사라져 슬퍼합니다.</HandsBecomePaws.rulePack.rulesStrings.13>
+  <HandsBecomeHooves.label>손이 발굽으로 변함.</HandsBecomeHooves.label>
+  <HandsBecomeHooves.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</HandsBecomeHooves.rulePack.rulesStrings.0>
+  <HandsBecomeHooves.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</HandsBecomeHooves.rulePack.rulesStrings.1>
+  <HandsBecomeHooves.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</HandsBecomeHooves.rulePack.rulesStrings.2>
+  <HandsBecomeHooves.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</HandsBecomeHooves.rulePack.rulesStrings.3>
+  <HandsBecomeHooves.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 손이 변화합니다.</HandsBecomeHooves.rulePack.rulesStrings.4>
+  <HandsBecomeHooves.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 손을 살핍니다. [circumstance_group]</HandsBecomeHooves.rulePack.rulesStrings.5>
+  <HandsBecomeHooves.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun]은(는) 무언가를 집으려고 시도합니다.</HandsBecomeHooves.rulePack.rulesStrings.6>
+  <HandsBecomeHooves.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]은(는) 새로운 손을 시험해 봅니다.</HandsBecomeHooves.rulePack.rulesStrings.7>
+  <HandsBecomeHooves.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 손이 딱딱하고 굳어지고 있습니다.</HandsBecomeHooves.rulePack.rulesStrings.8>
+  <HandsBecomeHooves.rulePack.rulesStrings.9>tale_noun->[PAWN_nameDef]의 손이 쓸모없는 발굽에 가까워지고 있습니다.</HandsBecomeHooves.rulePack.rulesStrings.9>
+  <HandsBecomeHooves.rulePack.rulesStrings.10>image->[PAWN_nameFull]은(는) 손가락을 떼어내려고 합니다. [circumstance_group]</HandsBecomeHooves.rulePack.rulesStrings.10>
+  <HandsBecomeHooves.rulePack.rulesStrings.11>image->[PAWN_nameFull]은(는) 무언가를 잡으려고 헛수고합니다. [circumstance_group]</HandsBecomeHooves.rulePack.rulesStrings.11>
+  <HandsBecomeHooves.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun]은(는) 자신의 엄지 손가락이 사라져 슬퍼합니다.</HandsBecomeHooves.rulePack.rulesStrings.12>
+  <FootBecomesCanidPaw.label>발에 발톱이 자라남.</FootBecomesCanidPaw.label>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</FootBecomesCanidPaw.rulePack.rulesStrings.0>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</FootBecomesCanidPaw.rulePack.rulesStrings.1>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</FootBecomesCanidPaw.rulePack.rulesStrings.2>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</FootBecomesCanidPaw.rulePack.rulesStrings.3>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.4>image->[PAWN_nameFull]의 발끝이 변하기 시작합니다. [circumstance_group]</FootBecomesCanidPaw.rulePack.rulesStrings.4>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.5>circumstance_group->누군가가 [PAWN_possessive]의 발끝이 변하는 것을 바라봅니다.</FootBecomesCanidPaw.rulePack.rulesStrings.5>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.6>circumstance_group->사람들이 [PAWN_possessive]의 발이 바뀌는 것을 응시합니다.</FootBecomesCanidPaw.rulePack.rulesStrings.6>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]이(가) [PAWN_possessive]의 새 발을 시험해 봅니다.</FootBecomesCanidPaw.rulePack.rulesStrings.7>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 발에 발톱이 생겼습니다.</FootBecomesCanidPaw.rulePack.rulesStrings.8>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.9>image->[PAWN_nameFull]의 발가락이 짧아지고 뭉툭한  발톱이 자라났습니다. [circumstance_group]</FootBecomesCanidPaw.rulePack.rulesStrings.9>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.10>image->[PAWN_nameFull]은(는) 발바닥에 거친 육구가 생긴 것을 느낍니다. [circumstance_group]</FootBecomesCanidPaw.rulePack.rulesStrings.10>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 발에 말랑하고 매끄러운 육구의 감촉을 느낍니다.</FootBecomesCanidPaw.rulePack.rulesStrings.11>
+  <FootBecomesCanidPaw.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun]은(는) 새 발로 [PAWN_possessive]의 균형을 맞추려 노력합니다.</FootBecomesCanidPaw.rulePack.rulesStrings.12>
+  <FootBecomesFelinePaw.label>발에 고양이 발톱이 자람.</FootBecomesFelinePaw.label>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</FootBecomesFelinePaw.rulePack.rulesStrings.0>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</FootBecomesFelinePaw.rulePack.rulesStrings.1>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</FootBecomesFelinePaw.rulePack.rulesStrings.2>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</FootBecomesFelinePaw.rulePack.rulesStrings.3>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.4>image->[PAWN_nameFull]의 발끝이 변하기 시작합니다. [circumstance_group]</FootBecomesFelinePaw.rulePack.rulesStrings.4>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.5>circumstance_group->누군가가 [PAWN_possessive]의 발끝이 변하는 것을 바라봅니다.</FootBecomesFelinePaw.rulePack.rulesStrings.5>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.6>circumstance_group->사람들이 [PAWN_possessive]의 발이 바뀌는 것을 응시합니다.</FootBecomesFelinePaw.rulePack.rulesStrings.6>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]이(가) [PAWN_possessive]의 새 발을 시험해 봅니다.</FootBecomesFelinePaw.rulePack.rulesStrings.7>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 발에 발톱이 생겼습니다.</FootBecomesFelinePaw.rulePack.rulesStrings.8>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.9>image->[PAWN_nameFull]의 발가락이 짧아지고 숨길 수 있는 날카로운 발톱이 자라났습니다. [circumstance_group]</FootBecomesFelinePaw.rulePack.rulesStrings.9>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.10>image->[PAWN_nameFull]의 발바닥이 어두워지고 매끄러운 육구가 되었습니다. [circumstance_group]</FootBecomesFelinePaw.rulePack.rulesStrings.10>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 발에 말랑하고 매끄러운 육구의 감촉을 느낍니다.</FootBecomesFelinePaw.rulePack.rulesStrings.11>
+  <FootBecomesFelinePaw.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun]은(는) 새 발로 [PAWN_possessive]의 균형을 맞추려 노력합니다.</FootBecomesFelinePaw.rulePack.rulesStrings.12>
+  <FootBecomesHooves.label>발이 발굽이 됨.</FootBecomesHooves.label>
+  <FootBecomesHooves.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</FootBecomesHooves.rulePack.rulesStrings.0>
+  <FootBecomesHooves.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</FootBecomesHooves.rulePack.rulesStrings.1>
+  <FootBecomesHooves.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</FootBecomesHooves.rulePack.rulesStrings.2>
+  <FootBecomesHooves.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</FootBecomesHooves.rulePack.rulesStrings.3>
+  <FootBecomesHooves.rulePack.rulesStrings.4>image->[PAWN_nameFull]의 발끝이 변하기 시작합니다. [circumstance_group]</FootBecomesHooves.rulePack.rulesStrings.4>
+  <FootBecomesHooves.rulePack.rulesStrings.5>circumstance_group->누군가가 [PAWN_possessive]의 발끝이 변하는 것을 바라봅니다.</FootBecomesHooves.rulePack.rulesStrings.5>
+  <FootBecomesHooves.rulePack.rulesStrings.6>circumstance_group->사람들이 [PAWN_possessive]의 발이 바뀌는 것을 응시합니다.</FootBecomesHooves.rulePack.rulesStrings.6>
+  <FootBecomesHooves.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]이(가) [PAWN_possessive]의 새 발을 시험해 봅니다.</FootBecomesHooves.rulePack.rulesStrings.7>
+  <FootBecomesHooves.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 발이 말굽이 되어 갑니다.</FootBecomesHooves.rulePack.rulesStrings.8>
+  <FootBecomesHooves.rulePack.rulesStrings.9>image->[PAWN_nameFull]의 발가락들이 모두 붙어서 굳어집니다. [circumstance_group]</FootBecomesHooves.rulePack.rulesStrings.9>
+  <FootBecomesHooves.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun]은(는) 새 발굽으로 [PAWN_possessive]의 균형을 맞추려 노력합니다.</FootBecomesHooves.rulePack.rulesStrings.10>
+  <FeetBecomeTalons.label>발에서 긴 발톱이 자라남.</FeetBecomeTalons.label>
+  <FeetBecomeTalons.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</FeetBecomeTalons.rulePack.rulesStrings.0>
+  <FeetBecomeTalons.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</FeetBecomeTalons.rulePack.rulesStrings.1>
+  <FeetBecomeTalons.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</FeetBecomeTalons.rulePack.rulesStrings.2>
+  <FeetBecomeTalons.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</FeetBecomeTalons.rulePack.rulesStrings.3>
+  <FeetBecomeTalons.rulePack.rulesStrings.4>image->[PAWN_nameFull]의 발끝이 변하기 시작합니다. [circumstance_group]</FeetBecomeTalons.rulePack.rulesStrings.4>
+  <FeetBecomeTalons.rulePack.rulesStrings.5>circumstance_group->누군가가 [PAWN_possessive]의 발끝이 변하는 것을 바라봅니다.</FeetBecomeTalons.rulePack.rulesStrings.5>
+  <FeetBecomeTalons.rulePack.rulesStrings.6>circumstance_group->사람들이 [PAWN_possessive]의 발이 바뀌는 것을 응시합니다.</FeetBecomeTalons.rulePack.rulesStrings.6>
+  <FeetBecomeTalons.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]이(가) [PAWN_possessive]의 새 발을 시험해 봅니다.</FeetBecomeTalons.rulePack.rulesStrings.7>
+  <FeetBecomeTalons.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 발이 긴 발톱으로 변해 갑니다.</FeetBecomeTalons.rulePack.rulesStrings.8>
+  <FeetBecomeTalons.rulePack.rulesStrings.9>image->[PAWN_nameFull]의 발 가죽이 말라 가면서 비늘로 변해 갑니다.  [circumstance_group]</FeetBecomeTalons.rulePack.rulesStrings.9>
+  <FeetBecomeTalons.rulePack.rulesStrings.10>image->[PAWN_nameFull]의 발톱이 뾰족하고 긴 발톱으로 자라납니다. [circumstance_group]</FeetBecomeTalons.rulePack.rulesStrings.10>
+  <FeetBecomeTalons.rulePack.rulesStrings.11>image->[PAWN_nameFull]발가락이 늘어져 큰 조류의 발톱처럼 변합니다. [circumstance_group]</FeetBecomeTalons.rulePack.rulesStrings.11>
+  <FeetBecomeTalons.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]새 발톱으로 걸어 봅니다.</FeetBecomeTalons.rulePack.rulesStrings.12>
+  <FeetBecomeTalons.rulePack.rulesStrings.13>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]자신의 새 발톱으로 무언가를 집어 올리려 합니다.</FeetBecomeTalons.rulePack.rulesStrings.13>
+  <LegBecameDigitgrade.label>다리가 역관절이 됨.</LegBecameDigitgrade.label>
+  <LegBecameDigitgrade.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</LegBecameDigitgrade.rulePack.rulesStrings.0>
+  <LegBecameDigitgrade.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</LegBecameDigitgrade.rulePack.rulesStrings.1>
+  <LegBecameDigitgrade.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</LegBecameDigitgrade.rulePack.rulesStrings.2>
+  <LegBecameDigitgrade.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</LegBecameDigitgrade.rulePack.rulesStrings.3>
+  <LegBecameDigitgrade.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 다리가 동물의 것 처럼 변해 갑니다.</LegBecameDigitgrade.rulePack.rulesStrings.4>
+  <LegBecameDigitgrade.rulePack.rulesStrings.5>tale_noun->[PAWN_nameDef]의 다리가 역관절이 됩니다.</LegBecameDigitgrade.rulePack.rulesStrings.5>
+  <LegBecameDigitgrade.rulePack.rulesStrings.6>image->[PAWN_nameFull]의 다리 구조가 변화하기 시작합니다. [circumstance_group]</LegBecameDigitgrade.rulePack.rulesStrings.6>
+  <LegBecameDigitgrade.rulePack.rulesStrings.7>image->[PAWN_nameFull]의 다리 구조가 변경되어  [PAWN_pronoun]은(는) 이제 [PAWN_possessive]의 발 끝으로 걷습니다. [circumstance_group]</LegBecameDigitgrade.rulePack.rulesStrings.7>
+  <LegBecameDigitgrade.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possesive]의 새 다리가 불안정해 보입니다.</LegBecameDigitgrade.rulePack.rulesStrings.8>
+  <LegBecameDigitgrade.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 다리가 놀라울 정도로 편안해 보입니다.</LegBecameDigitgrade.rulePack.rulesStrings.9>
+  <LimbGrowsFur.label>사지에 털이 자라남.</LimbGrowsFur.label>
+  <LimbGrowsFur.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</LimbGrowsFur.rulePack.rulesStrings.0>
+  <LimbGrowsFur.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</LimbGrowsFur.rulePack.rulesStrings.1>
+  <LimbGrowsFur.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</LimbGrowsFur.rulePack.rulesStrings.2>
+  <LimbGrowsFur.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</LimbGrowsFur.rulePack.rulesStrings.3>
+  <LimbGrowsFur.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]에게 털이 자라납니다.</LimbGrowsFur.rulePack.rulesStrings.4>
+  <LimbGrowsFur.rulePack.rulesStrings.5>tale_noun->[PAWN_nameDef]의 사지는 털복숭이가 되어 갑니다.</LimbGrowsFur.rulePack.rulesStrings.5>
+  <LimbGrowsFur.rulePack.rulesStrings.6>image->[PAWN_nameFull]의 몸이 굵고 거친 털로 뒤덮여 갑니다. [circumstance_group]</LimbGrowsFur.rulePack.rulesStrings.6>
+  <LimbGrowsFur.rulePack.rulesStrings.7>image->[PAWN_nameFull]의 털이 두꺼워져 동물의 털처럼 변해 갑니다. [circumstance_group]</LimbGrowsFur.rulePack.rulesStrings.7>
+  <LimbGrowsFur.rulePack.rulesStrings.8>circumstance_group->누군가가 [PAWN_possessive]의 털 감촉을 느끼려 합니다.</LimbGrowsFur.rulePack.rulesStrings.8>
+  <LimbGrowsFur.rulePack.rulesStrings.9>circumstance_group->누군가가 [PAWN_possessive]의 털을 빗어 주기 시작합니다.</LimbGrowsFur.rulePack.rulesStrings.9>
+  <LimbGrowsFur.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 모피가 불편해 보입니다.</LimbGrowsFur.rulePack.rulesStrings.10>
+  <LimbGrowsFur.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새 모피가 만족스러워 보입니다.</LimbGrowsFur.rulePack.rulesStrings.11>
+  <LimbGrowsHide.label>사지에 가죽이 자라남.</LimbGrowsHide.label>
+  <LimbGrowsHide.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</LimbGrowsHide.rulePack.rulesStrings.0>
+  <LimbGrowsHide.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</LimbGrowsHide.rulePack.rulesStrings.1>
+  <LimbGrowsHide.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</LimbGrowsHide.rulePack.rulesStrings.2>
+  <LimbGrowsHide.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</LimbGrowsHide.rulePack.rulesStrings.3>
+  <LimbGrowsHide.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 피부가 두꺼운 가죽이 되어 갑니다.</LimbGrowsHide.rulePack.rulesStrings.4>
+  <LimbGrowsHide.rulePack.rulesStrings.5>tale_noun->[PAWN_nameDef]에게 단단한 가죽이 자라납니다.</LimbGrowsHide.rulePack.rulesStrings.5>
+  <LimbGrowsHide.rulePack.rulesStrings.6>image->[PAWN_nameFull]의 피부가 두꺼워지기 시작합니다. [circumstance_group]</LimbGrowsHide.rulePack.rulesStrings.6>
+  <LimbGrowsHide.rulePack.rulesStrings.7>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 피부가 두꺼워지며 긁히기 시작합니다. [circumstance_group]</LimbGrowsHide.rulePack.rulesStrings.7>
+  <LimbGrowsHide.rulePack.rulesStrings.8>circumstance_group->누군가가 [PAWN_pronoun]의 가죽을 만집니다.</LimbGrowsHide.rulePack.rulesStrings.8>
+  <LimbGrowsHide.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) [PAWN_pronoun]의 새 가죽이 불편해 보입니다.</LimbGrowsHide.rulePack.rulesStrings.9>
+  <LimbGrowsHide.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun]은(는) [PAWN_pronoun]의 새 가죽이 만족스러워 보입니다.</LimbGrowsHide.rulePack.rulesStrings.10>
+  <GrewPigMuzzle.label>돼지 주둥이가 자라남.</GrewPigMuzzle.label>
+  <GrewPigMuzzle.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewPigMuzzle.rulePack.rulesStrings.0>
+  <GrewPigMuzzle.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewPigMuzzle.rulePack.rulesStrings.1>
+  <GrewPigMuzzle.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewPigMuzzle.rulePack.rulesStrings.2>
+  <GrewPigMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewPigMuzzle.rulePack.rulesStrings.3>
+  <GrewPigMuzzle.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewPigMuzzle.rulePack.rulesStrings.4>
+  <GrewPigMuzzle.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [circumstance_group]</GrewPigMuzzle.rulePack.rulesStrings.5>
+  <GrewPigMuzzle.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewPigMuzzle.rulePack.rulesStrings.6>
+  <GrewPigMuzzle.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewPigMuzzle.rulePack.rulesStrings.7>
+  <GrewPigMuzzle.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewPigMuzzle.rulePack.rulesStrings.8>
+  <GrewPigMuzzle.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewPigMuzzle.rulePack.rulesStrings.9>
+  <GrewPigMuzzle.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]에게 돼지의 코가 자라기 시작합니다.</GrewPigMuzzle.rulePack.rulesStrings.10>
+  <GrewPigMuzzle.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]의 얼굴이 돼지 같은 모습으로 변하기 시작합니다.</GrewPigMuzzle.rulePack.rulesStrings.11>
+  <GrewPigMuzzle.rulePack.rulesStrings.12>image->[PAWN_nameFull]은(는) 무의식적으로 꿀꿀거리시 시작합니다. [circumstance_group]</GrewPigMuzzle.rulePack.rulesStrings.12>
+  <GrewPigMuzzle.rulePack.rulesStrings.13>image->[PAWN_nameFull]의 비명소리가 돼지의 꿀꿀 소리로 변하기 시작했습니다. [circumstance_group]</GrewPigMuzzle.rulePack.rulesStrings.13>
+  <GrewRatMuzzle.label>쥐 주둥이가 자라남.</GrewRatMuzzle.label>
+  <GrewRatMuzzle.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewRatMuzzle.rulePack.rulesStrings.0>
+  <GrewRatMuzzle.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewRatMuzzle.rulePack.rulesStrings.1>
+  <GrewRatMuzzle.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewRatMuzzle.rulePack.rulesStrings.2>
+  <GrewRatMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewRatMuzzle.rulePack.rulesStrings.3>
+  <GrewRatMuzzle.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewRatMuzzle.rulePack.rulesStrings.4>
+  <GrewRatMuzzle.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [circumstance_group]</GrewRatMuzzle.rulePack.rulesStrings.5>
+  <GrewRatMuzzle.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewRatMuzzle.rulePack.rulesStrings.6>
+  <GrewRatMuzzle.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewRatMuzzle.rulePack.rulesStrings.7>
+  <GrewRatMuzzle.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewRatMuzzle.rulePack.rulesStrings.8>
+  <GrewRatMuzzle.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewRatMuzzle.rulePack.rulesStrings.9>
+  <GrewRatMuzzle.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]에게 쥐 주둥이가 자라납니다.</GrewRatMuzzle.rulePack.rulesStrings.10>
+  <GrewRatMuzzle.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]의 얼굴에 쥐를 닮은 주둥이가 자라납니다.</GrewRatMuzzle.rulePack.rulesStrings.11>
+  <GrewRatMuzzle.rulePack.rulesStrings.12>image->[PAWN_nameFull]의 비명이 찍찍 소리로 바뀝니다. [circumstance_group]</GrewRatMuzzle.rulePack.rulesStrings.12>
+  <GrewRatMuzzle.rulePack.rulesStrings.13>image->[PAWN_nameFull]이(가) 쥐처럼 찍찍거리기 시작합니다.</GrewRatMuzzle.rulePack.rulesStrings.13>
+  <GrewRatMuzzle.rulePack.rulesStrings.14>circumstance_phrase->누군가가 [PAWN_possessive]의 수염을 건드리며 장난칩니다.</GrewRatMuzzle.rulePack.rulesStrings.14>
+  <GrewRatMuzzle.rulePack.rulesStrings.15>circumstance_phrase->누군가가 치즈를 주려고 합니다.</GrewRatMuzzle.rulePack.rulesStrings.15>
+  <GrewRatMuzzle.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun]은(는) 근처에 있는 것들을 갉아먹기 시작합니다.</GrewRatMuzzle.rulePack.rulesStrings.16>
+  <GrewRatMuzzle.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun]은(는) 뭔가 말을 하려고 하지만 나오는 건 찍찍 소리밖에 없습니다.</GrewRatMuzzle.rulePack.rulesStrings.17>
+  <HandsBecomePawsDextrous.label>손에서 쥐 발톱이 자람.</HandsBecomePawsDextrous.label>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</HandsBecomePawsDextrous.rulePack.rulesStrings.0>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</HandsBecomePawsDextrous.rulePack.rulesStrings.1>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</HandsBecomePawsDextrous.rulePack.rulesStrings.2>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</HandsBecomePawsDextrous.rulePack.rulesStrings.3>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 손이 변화합니다.</HandsBecomePawsDextrous.rulePack.rulesStrings.4>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 손을 살핍니다. [circumstance_group]</HandsBecomePawsDextrous.rulePack.rulesStrings.5>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun]은(는) 무언가를 집으려고 시도합니다.</HandsBecomePawsDextrous.rulePack.rulesStrings.6>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]은(는) 새로운 손을 시험해 봅니다.</HandsBecomePawsDextrous.rulePack.rulesStrings.7>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 손에서 발톱이 자라납니다.</HandsBecomePawsDextrous.rulePack.rulesStrings.8>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.9>tale_noun->[PAWN_nameDef]의 손에서 쥐 같은 발톱이 자라납니다.</HandsBecomePawsDextrous.rulePack.rulesStrings.9>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]의 손은 재빠른 쥐 같은 발로 변합니다.</HandsBecomePawsDextrous.rulePack.rulesStrings.10>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.11>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 손을 살핍니다. [circumstance_group]</HandsBecomePawsDextrous.rulePack.rulesStrings.11>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.12>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 새로운 발로 무언가를 긁어 봅니다. [circumstance_group]</HandsBecomePawsDextrous.rulePack.rulesStrings.12>
+  <HandsBecomePawsDextrous.rulePack.rulesStrings.13>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]자신의 엄지손가락이 아직 붙어있다는것에 감사합니다.</HandsBecomePawsDextrous.rulePack.rulesStrings.13>
+  <FeetBecomeRatPaws.label>발에 쥐 발톱이 자라남.</FeetBecomeRatPaws.label>
+  <FeetBecomeRatPaws.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</FeetBecomeRatPaws.rulePack.rulesStrings.0>
+  <FeetBecomeRatPaws.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</FeetBecomeRatPaws.rulePack.rulesStrings.1>
+  <FeetBecomeRatPaws.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</FeetBecomeRatPaws.rulePack.rulesStrings.2>
+  <FeetBecomeRatPaws.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</FeetBecomeRatPaws.rulePack.rulesStrings.3>
+  <FeetBecomeRatPaws.rulePack.rulesStrings.4>image->[PAWN_nameFull]의 발끝이 변하기 시작합니다. [circumstance_group]</FeetBecomeRatPaws.rulePack.rulesStrings.4>
+  <FeetBecomeRatPaws.rulePack.rulesStrings.5>circumstance_group->누군가가 [PAWN_possessive]의 발끝이 변하는 것을 바라봅니다.</FeetBecomeRatPaws.rulePack.rulesStrings.5>
+  <FeetBecomeRatPaws.rulePack.rulesStrings.6>circumstance_group->사람들이 [PAWN_possessive]의 발이 바뀌는 것을 응시합니다.</FeetBecomeRatPaws.rulePack.rulesStrings.6>
+  <FeetBecomeRatPaws.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun]이(가) [PAWN_possessive]의 새 발을 시험해 봅니다.</FeetBecomeRatPaws.rulePack.rulesStrings.7>
+  <FeetBecomeRatPaws.rulePack.rulesStrings.8>tale_noun->[PAWN_nameDef]의 발이 쥐 발로 변해갑니다.</FeetBecomeRatPaws.rulePack.rulesStrings.8>
+  <FeetBecomeRatPaws.rulePack.rulesStrings.9>image->[PAWN_nameDef]의 발가락이 쥐의 것처럼 길어집니다. [circumstance_group]</FeetBecomeRatPaws.rulePack.rulesStrings.9>
+  <FeetBecomeRatPaws.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun]은(는) 새 쥐발로 [PAWN_possessive]의 균형을 맞추려 노력합니다.</FeetBecomeRatPaws.rulePack.rulesStrings.10>
+  <EarsBecomeRatEars.label>쥐 귀가 자라남.</EarsBecomeRatEars.label>
+  <EarsBecomeRatEars.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</EarsBecomeRatEars.rulePack.rulesStrings.0>
+  <EarsBecomeRatEars.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</EarsBecomeRatEars.rulePack.rulesStrings.1>
+  <EarsBecomeRatEars.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</EarsBecomeRatEars.rulePack.rulesStrings.2>
+  <EarsBecomeRatEars.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</EarsBecomeRatEars.rulePack.rulesStrings.3>
+  <EarsBecomeRatEars.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 귀가 변하기 시작합니다.</EarsBecomeRatEars.rulePack.rulesStrings.4>
+  <EarsBecomeRatEars.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 귀에 변화를 느낍니다. [circumstance_group] </EarsBecomeRatEars.rulePack.rulesStrings.5>
+  <EarsBecomeRatEars.rulePack.rulesStrings.6>circumstance_group->[PAWN_possessive]의 귀가 꿈틀거립니다.</EarsBecomeRatEars.rulePack.rulesStrings.6>
+  <EarsBecomeRatEars.rulePack.rulesStrings.7>circumstance_group->누군가가 [PAWN_possessive]의 귀를 건드려 봅니다.</EarsBecomeRatEars.rulePack.rulesStrings.7>
+  <EarsBecomeRatEars.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]이(가) 그것들을 움직이기 시작합니다.</EarsBecomeRatEars.rulePack.rulesStrings.8>
+  <EarsBecomeRatEars.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]의 새 귀가 꿈틀거립니다.</EarsBecomeRatEars.rulePack.rulesStrings.9>
+  <EarsBecomeRatEars.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]의 귀가 쥐의 것처럼 변하기 시작합니다.</EarsBecomeRatEars.rulePack.rulesStrings.10>
+  <EarsBecomeRatEars.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]의 귀가 쥐의 넓고 큰 귀로 변하기 시작합니다.</EarsBecomeRatEars.rulePack.rulesStrings.11>
+  <EarsBecomeRatEars.rulePack.rulesStrings.12>image->[PAWN_nameFull]귀가 커지고 둥근 형상을 띄기 시작했습니다. [circumstance_group]</EarsBecomeRatEars.rulePack.rulesStrings.12>
+  <EarsBecomeRatEars.rulePack.rulesStrings.13>image->[PAWN_nameFull]의 귀가 [PAWN_possessive]의 머리 위쪽으로 이동하기 시작합니다. [circumstance_group]</EarsBecomeRatEars.rulePack.rulesStrings.13>
+  <EarsBecomeRatEars.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새로운 귀에 대해 화가 난 것 같습니다.</EarsBecomeRatEars.rulePack.rulesStrings.14>
+  <EarsBecomeRatEars.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새로운 귀가 마음에 드는 것 같습니다.</EarsBecomeRatEars.rulePack.rulesStrings.15>
+  <TransformationCanid.label>개과 변형</TransformationCanid.label>
+  <TransformationCanid.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변형됨</TransformationCanid.rulePack.rulesStrings.0>
+  <TransformationCanid.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변형</TransformationCanid.rulePack.rulesStrings.1>
+  <TransformationCanid.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변합니다.</TransformationCanid.rulePack.rulesStrings.2>
+  <TransformationCanid.rulePack.rulesStrings.3>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변환되는 중</TransformationCanid.rulePack.rulesStrings.3>
+  <TransformationCanid.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 완전히 변환되는 중</TransformationCanid.rulePack.rulesStrings.4>
+  <TransformationCanid.rulePack.rulesStrings.5>tale_noun-> [ANIMAL_nameFull](은)는 [PAWN_nameDef]의 몸으로 완전히 변화됨</TransformationCanid.rulePack.rulesStrings.5>
+  <TransformationCanid.rulePack.rulesStrings.6>image->[PAWN_nameFull](은)는 [circumstance_group] 고통이 두 배로 증가합니다.</TransformationCanid.rulePack.rulesStrings.6>
+  <TransformationCanid.rulePack.rulesStrings.7>image->[PAWN_nameFull](은)는 네 개의 [circumstance_group]로 떨어짐</TransformationCanid.rulePack.rulesStrings.7>
+  <TransformationCanid.rulePack.rulesStrings.8>image->[PAWN_nameFull](은)는 자신의 [circumstance_group]몸을 바라봅니다.</TransformationCanid.rulePack.rulesStrings.8>
+  <TransformationCanid.rulePack.rulesStrings.9>image->[PAWN_nameFull](은)는 [PAWN_possessive] 무릎에 [circumstance_group] 고통을 외침</TransformationCanid.rulePack.rulesStrings.9>
+  <TransformationCanid.rulePack.rulesStrings.10>circumstance_phrase->[PAWN_possessive]은(는) 그의 단단한 가죽을 구부려 봅니다. </TransformationCanid.rulePack.rulesStrings.10>
+  <TransformationCanid.rulePack.rulesStrings.11>circumstance_phrase->몹시 부끄러워 합니다.</TransformationCanid.rulePack.rulesStrings.11>
+  <TransformationCanid.rulePack.rulesStrings.12>circumstance_phrase->손처럼 움직이는 발로 [PAWN_pronoun]자신을 감싸려 합니다.</TransformationCanid.rulePack.rulesStrings.12>
+  <TransformationCanid.rulePack.rulesStrings.13>circumstance_phrase->메카나이트들이 [PAWN_possessive]의 몸에 마법을 부립니다.</TransformationCanid.rulePack.rulesStrings.13>
+  <TransformationCanid.rulePack.rulesStrings.14>circumstance_phrase->누군가가 쳐다봅니다.</TransformationCanid.rulePack.rulesStrings.14>
+  <TransformationCanid.rulePack.rulesStrings.15>circumstance_phrase->누군가가 쳐다보며 끔찍해합니다.</TransformationCanid.rulePack.rulesStrings.15>
+  <TransformationCanid.rulePack.rulesStrings.16>circumstance_phrase->누군가가 쳐다보며 히죽히죽 웃습니다.</TransformationCanid.rulePack.rulesStrings.16>
+  <TransformationCanid.rulePack.rulesStrings.17>circumstance_phrase->개의 발을 올립니다.</TransformationCanid.rulePack.rulesStrings.17>
+  <TransformationCanid.rulePack.rulesStrings.18>circumstance_phrase->[PAWN_possessive]의 다리 사이에 있는 [PAWN_possessive]의 꼬리를 봅니다.</TransformationCanid.rulePack.rulesStrings.18>
+  <TransformationCanid.rulePack.rulesStrings.19>circumstance_phrase->다리가 변형되는 중입니다.</TransformationCanid.rulePack.rulesStrings.19>
+  <TransformationCanid.rulePack.rulesStrings.20>circumstance_phrase->[PAWN_possessive]의 야성이 눈을 듭니다.</TransformationCanid.rulePack.rulesStrings.20>
+  <TransformationCanid.rulePack.rulesStrings.21>circumstance_phrase->[PAWN_possessive]은(는) 눈을 꽉 감습니다.</TransformationCanid.rulePack.rulesStrings.21>
+  <TransformationCanid.rulePack.rulesStrings.22>desc_sentence->[PAWN_pronoun]은(는)[PAWN_objective]의 주위에 무엇이 있는지 전혀 모르는 것 같습니다.</TransformationCanid.rulePack.rulesStrings.22>
+  <TransformationCanid.rulePack.rulesStrings.23>desc_sentence->[PAWN_possessive]의 얼굴이 좀 더 동물적인 모양에 맞춰 변화하고 있는 것 같습니다.</TransformationCanid.rulePack.rulesStrings.23>
+  <TransformationCanid.rulePack.rulesStrings.24>desc_sentence->[PAWN_pronoun]은(는) 거의 무의식 상태에 있으며, [PAWN_possessive]의 혀가 나뒹굴며 침을 흘리고 있습니다.</TransformationCanid.rulePack.rulesStrings.24>
+  <TransformationCanid.rulePack.rulesStrings.25>desc_sentence->[PAWN_pronoun]은(는) [PAWN_objective]의 몸이 완성되어가며 격렬하게 경련을 일으키고 있습니다.</TransformationCanid.rulePack.rulesStrings.25>
+  <TransformationCanid.rulePack.rulesStrings.26>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]이(가) [ANIMAL_nameFull]로서의 새로운 삶을 시작하기 두려워하는 것처럼 보입니다.</TransformationCanid.rulePack.rulesStrings.26>
+  <TransformationCanid.rulePack.rulesStrings.27>desc_sentence->[PAWN_pronoun]은(는) 눈에 띄게 흥분한 것 같습니다.</TransformationCanid.rulePack.rulesStrings.27>
+  <TransformationCanid.rulePack.rulesStrings.28>desc_sentence->[PAWN_nameDef]의 새 꼬리는 무의식적으로 흔들리고 있습니다.</TransformationCanid.rulePack.rulesStrings.28>
+  <TransformationCanid.rulePack.rulesStrings.29>desc_sentence->[PAWN_nameDef]의 새 귀는 놀라서 뒤로 휙 돌아갑니다.</TransformationCanid.rulePack.rulesStrings.29>
+  <TransformationCanid.rulePack.rulesStrings.30>desc_sentence->[PAWN_pronoun]은(는) 이것을 즐기는 것 같아 보입니다.</TransformationCanid.rulePack.rulesStrings.30>
+  <TransformationCanid.rulePack.rulesStrings.31>desc_sentence->[PAWN_nameDef]의 옷은 [PAWN_objective]의 주위 바닥으로 떨어집니다.</TransformationCanid.rulePack.rulesStrings.31>
+  <TransformationCanid.rulePack.rulesStrings.32>desc_sentence->[PAWN_pronoun]은(는) 인간이 아닌 것 처럼 보이며 [PAWN_possessive]의 원래 형태는 거의 남아있지 않습니다.</TransformationCanid.rulePack.rulesStrings.32>
+  <TransformationCanid.rulePack.rulesStrings.33>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]자신인 [ANIMAL_nameFull]의 털을 쓰다듬는 것 같습니다.</TransformationCanid.rulePack.rulesStrings.33>
+  <TransformationCanid.rulePack.rulesStrings.34>desc_sentence->[PAWN_nameDef]의 [ANIMAL_nameFull]같은 주둥이가 충격으로 경련합니다.</TransformationCanid.rulePack.rulesStrings.34>
+  <TransformationCow.label>bovine transformation</TransformationCow.label>
+  <TransformationCow.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변형됨</TransformationCow.rulePack.rulesStrings.0>
+  <TransformationCow.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변형</TransformationCow.rulePack.rulesStrings.1>
+  <TransformationCow.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변합니다.</TransformationCow.rulePack.rulesStrings.2>
+  <TransformationCow.rulePack.rulesStrings.3>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변환되는 중</TransformationCow.rulePack.rulesStrings.3>
+  <TransformationCow.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 완전히 변환되는 중</TransformationCow.rulePack.rulesStrings.4>
+  <TransformationCow.rulePack.rulesStrings.5>tale_noun-> [ANIMAL_nameFull](은)는 [PAWN_nameDef]의 몸으로 완전히 변화됨</TransformationCow.rulePack.rulesStrings.5>
+  <TransformationCow.rulePack.rulesStrings.6>image->[PAWN_nameFull](은)는 [circumstance_group] 고통이 두 배로 증가합니다.</TransformationCow.rulePack.rulesStrings.6>
+  <TransformationCow.rulePack.rulesStrings.7>image->[PAWN_nameFull](은)는 네 개의 [circumstance_group]로 떨어짐</TransformationCow.rulePack.rulesStrings.7>
+  <TransformationCow.rulePack.rulesStrings.8>image->[PAWN_nameFull](은)는 자신의 [circumstance_group]몸을 바라봅니다.</TransformationCow.rulePack.rulesStrings.8>
+  <TransformationCow.rulePack.rulesStrings.9>image->[PAWN_nameFull](은)는 큰 소리로 으르렁거리며 [PAWN_possessive]의 무릎을 꿇었습니다. [circumstance_group]</TransformationCow.rulePack.rulesStrings.9>
+  <TransformationCow.rulePack.rulesStrings.10>circumstance_phrase->[PAWN_possessive]은(는) 그의 단단한 가죽을 구부려 봅니다.</TransformationCow.rulePack.rulesStrings.10>
+  <TransformationCow.rulePack.rulesStrings.11>circumstance_phrase->몹시 부끄러워 합니다.</TransformationCow.rulePack.rulesStrings.11>
+  <TransformationCow.rulePack.rulesStrings.12>circumstance_phrase->손처럼 움직이는 발굽으로 [PAWN_pronoun]자신을 감싸려 합니다.</TransformationCow.rulePack.rulesStrings.12>
+  <TransformationCow.rulePack.rulesStrings.13>circumstance_phrase->메카나이트들이 [PAWN_possessive]의 몸에 마법을 부립니다.</TransformationCow.rulePack.rulesStrings.13>
+  <TransformationCow.rulePack.rulesStrings.14>circumstance_phrase->누군가가 쳐다봅니다.</TransformationCow.rulePack.rulesStrings.14>
+  <TransformationCow.rulePack.rulesStrings.15>circumstance_phrase->누군가가 쳐다보며 끔찍해합니다.</TransformationCow.rulePack.rulesStrings.15>
+  <TransformationCow.rulePack.rulesStrings.16>circumstance_phrase->누군가가 쳐다보며 히죽히죽 웃습니다.</TransformationCow.rulePack.rulesStrings.16>
+  <TransformationCow.rulePack.rulesStrings.17>circumstance_phrase->무거운 발굽을 올립니다.</TransformationCow.rulePack.rulesStrings.17>
+  <TransformationCow.rulePack.rulesStrings.18>circumstance_phrase->[PAWN_possessive]의 다리 사이에 있는 [PAWN_possessive]의 꼬리를 봅니다.</TransformationCow.rulePack.rulesStrings.18>
+  <TransformationCow.rulePack.rulesStrings.19>circumstance_phrase->다리가 변형되는 중입니다.</TransformationCow.rulePack.rulesStrings.19>
+  <TransformationCow.rulePack.rulesStrings.20>circumstance_phrase->[PAWN_possessive]의 야성이 눈을 듭니다.</TransformationCow.rulePack.rulesStrings.20>
+  <TransformationCow.rulePack.rulesStrings.21>circumstance_phrase->[PAWN_possessive]은(는) 눈을 꽉 감습니다.</TransformationCow.rulePack.rulesStrings.21>
+  <TransformationCow.rulePack.rulesStrings.22>desc_sentence->[PAWN_pronoun]은(는)[PAWN_objective]의 주위에 무엇이 있는지 전혀 모르는 것 같습니다.</TransformationCow.rulePack.rulesStrings.22>
+  <TransformationCow.rulePack.rulesStrings.23>desc_sentence->[PAWN_possessive]의 얼굴이 좀 더 동물적인 모양에 맞춰 변화하고 있는 것 같습니다.</TransformationCow.rulePack.rulesStrings.23>
+  <TransformationCow.rulePack.rulesStrings.24>desc_sentence->[PAWN_pronoun]은(는) 거의 무의식 상태에 있으며, [PAWN_possessive]의 혀가 나뒹굴며 침을 흘리고 있습니다.</TransformationCow.rulePack.rulesStrings.24>
+  <TransformationCow.rulePack.rulesStrings.25>desc_sentence->[PAWN_pronoun]은(는) [PAWN_objective]의 몸이 완성되어가며 격렬하게 경련을 일으키고 있습니다.</TransformationCow.rulePack.rulesStrings.25>
+  <TransformationCow.rulePack.rulesStrings.26>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]이(가) [ANIMAL_nameFull]로서의 새로운 삶을 시작하기 두려워하는 것처럼 보입니다.</TransformationCow.rulePack.rulesStrings.26>
+  <TransformationCow.rulePack.rulesStrings.27>desc_sentence->[PAWN_pronoun]은(는) 눈에 띄게 흥분한 것 같습니다.</TransformationCow.rulePack.rulesStrings.27>
+  <TransformationCow.rulePack.rulesStrings.28>desc_sentence->[PAWN_nameDef]은(는) 시끄러운 음머 소리를 내고 있습니다.</TransformationCow.rulePack.rulesStrings.28>
+  <TransformationCow.rulePack.rulesStrings.29>desc_sentence->[PAWN_nameDef]의 새 귀는 놀라서 뒤로 휙 돌아갑니다.</TransformationCow.rulePack.rulesStrings.29>
+  <TransformationCow.rulePack.rulesStrings.30>desc_sentence->[PAWN_pronoun]은(는) 이것을 즐기는 것 같아 보입니다.</TransformationCow.rulePack.rulesStrings.30>
+  <TransformationCow.rulePack.rulesStrings.31>desc_sentence->[PAWN_nameDef]의 옷은 [PAWN_objective]의 주위 바닥으로 떨어집니다.</TransformationCow.rulePack.rulesStrings.31>
+  <TransformationCow.rulePack.rulesStrings.32>desc_sentence->[PAWN_pronoun]은(는) 인간이 아닌 것 처럼 보이며 [PAWN_possessive]의 원래 형태는 거의 남아있지 않습니다.</TransformationCow.rulePack.rulesStrings.32>
+  <TransformationCow.rulePack.rulesStrings.33>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]자신인 [ANIMAL_nameFull]의 털을 쓰다듬는 것 같습니다.</TransformationCow.rulePack.rulesStrings.33>
+  <TransformationCow.rulePack.rulesStrings.34>desc_sentence->[PAWN_nameDef]의 [ANIMAL_nameFull]같은 코가 충격으로 경련합니다.</TransformationCow.rulePack.rulesStrings.34>
+  <TransformationChicken.label>chicken transformation</TransformationChicken.label>
+  <TransformationChicken.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변형됨</TransformationChicken.rulePack.rulesStrings.0>
+  <TransformationChicken.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변형</TransformationChicken.rulePack.rulesStrings.1>
+  <TransformationChicken.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변합니다.</TransformationChicken.rulePack.rulesStrings.2>
+  <TransformationChicken.rulePack.rulesStrings.3>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변환되는 중</TransformationChicken.rulePack.rulesStrings.3>
+  <TransformationChicken.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 완전히 변환되는 중</TransformationChicken.rulePack.rulesStrings.4>
+  <TransformationChicken.rulePack.rulesStrings.5>tale_noun-> [ANIMAL_nameFull](은)는 [PAWN_nameDef]의 몸으로 완전히 변화됨</TransformationChicken.rulePack.rulesStrings.5>
+  <TransformationChicken.rulePack.rulesStrings.6>image->[PAWN_nameFull](은)는 [circumstance_group] 고통이 두 배로 증가합니다.</TransformationChicken.rulePack.rulesStrings.6>
+  <TransformationChicken.rulePack.rulesStrings.7>image->[PAWN_nameFull](은)는 자신의 [circumstance_group]몸을 바라봅니다.</TransformationChicken.rulePack.rulesStrings.7>
+  <TransformationChicken.rulePack.rulesStrings.8>image->[PAWN_nameFull](은)는 큰 소리로 꽥꽥거리며 [PAWN_possessive]의 무릎을 꿇었습니다. [circumstance_group]</TransformationChicken.rulePack.rulesStrings.8>
+  <TransformationChicken.rulePack.rulesStrings.9>circumstance_phrase->[PAWN_possessive]의 불룩한 곳에 깃털이 생깁니다.</TransformationChicken.rulePack.rulesStrings.9>
+  <TransformationChicken.rulePack.rulesStrings.10>circumstance_phrase->몹시 부끄러워 합니다.</TransformationChicken.rulePack.rulesStrings.10>
+  <TransformationChicken.rulePack.rulesStrings.11>circumstance_phrase->손처럼 움직이는 날개로 [PAWN_pronoun]자신을 감싸려 합니다..</TransformationChicken.rulePack.rulesStrings.11>
+  <TransformationChicken.rulePack.rulesStrings.12>circumstance_phrase->메카나이트들이 [PAWN_possessive]의 몸에 마법을 부립니다.</TransformationChicken.rulePack.rulesStrings.12>
+  <TransformationChicken.rulePack.rulesStrings.13>circumstance_phrase->누군가가 쳐다봅니다.</TransformationChicken.rulePack.rulesStrings.13>
+  <TransformationChicken.rulePack.rulesStrings.14>circumstance_phrase->누군가가 쳐다보며 끔찍해합니다.</TransformationChicken.rulePack.rulesStrings.14>
+  <TransformationChicken.rulePack.rulesStrings.15>circumstance_phrase->누군가가 쳐다보며 히죽히죽 웃습니다.</TransformationChicken.rulePack.rulesStrings.15>
+  <TransformationChicken.rulePack.rulesStrings.16>circumstance_phrase->무거운 발을 올립니다.</TransformationChicken.rulePack.rulesStrings.16>
+  <TransformationChicken.rulePack.rulesStrings.17>circumstance_phrase->발을 흙에 긁어댑니다.</TransformationChicken.rulePack.rulesStrings.17>
+  <TransformationChicken.rulePack.rulesStrings.18>circumstance_phrase->[PAWN_possessive]의 야성이 눈을 듭니다.</TransformationChicken.rulePack.rulesStrings.18>
+  <TransformationChicken.rulePack.rulesStrings.19>circumstance_phrase->[PAWN_possessive]은(는) 눈을 꽉 감습니다.</TransformationChicken.rulePack.rulesStrings.19>
+  <TransformationChicken.rulePack.rulesStrings.20>desc_sentence->[PAWN_pronoun]은(는)[PAWN_objective]의 주위에 무엇이 있는지 전혀 모르는 것 같습니다.</TransformationChicken.rulePack.rulesStrings.20>
+  <TransformationChicken.rulePack.rulesStrings.21>desc_sentence->[PAWN_possessive]의 얼굴이 좀 더 동물적인 모양에 맞춰 변화하고 있는 것 같습니다.</TransformationChicken.rulePack.rulesStrings.21>
+  <TransformationChicken.rulePack.rulesStrings.22>desc_sentence->[PAWN_pronoun]은(는) 거의 무의식 상태에 있으며, [PAWN_possessive]의 부리가 열리며 침을 흘리고 있습니다.</TransformationChicken.rulePack.rulesStrings.22>
+  <TransformationChicken.rulePack.rulesStrings.23>desc_sentence->[PAWN_pronoun]은(는) [PAWN_objective]의 몸이 완성되어가며 격렬하게 경련을 일으키고 있습니다.</TransformationChicken.rulePack.rulesStrings.23>
+  <TransformationChicken.rulePack.rulesStrings.24>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]이(가) [ANIMAL_nameFull]로서의 새로운 삶을 시작하기 두려워하는 것처럼 보입니다.</TransformationChicken.rulePack.rulesStrings.24>
+  <TransformationChicken.rulePack.rulesStrings.25>desc_sentence->[PAWN_pronoun]은(는) 눈에 띄게 흥분한 것 같습니다.</TransformationChicken.rulePack.rulesStrings.25>
+  <TransformationChicken.rulePack.rulesStrings.26>desc_sentence->[PAWN_nameDef]은(는) 시끄러운 꼬꼬 소리를 내고 있습니다.</TransformationChicken.rulePack.rulesStrings.26>
+  <TransformationChicken.rulePack.rulesStrings.27>desc_sentence->[PAWN_nameDef]의 새 날개는 놀라서 파닥거립니다.</TransformationChicken.rulePack.rulesStrings.27>
+  <TransformationChicken.rulePack.rulesStrings.28>desc_sentence->[PAWN_pronoun]은(는) 이것을 즐기는 것 같아 보입니다.</TransformationChicken.rulePack.rulesStrings.28>
+  <TransformationChicken.rulePack.rulesStrings.29>desc_sentence->[PAWN_nameDef]의 옷은 [PAWN_objective]의 주위 바닥으로 떨어집니다.</TransformationChicken.rulePack.rulesStrings.29>
+  <TransformationChicken.rulePack.rulesStrings.30>desc_sentence->[PAWN_pronoun]은(는) 인간이 아닌 것 처럼 보이며 [PAWN_possessive]의 원래 형태는 거의 남아있지 않습니다.</TransformationChicken.rulePack.rulesStrings.30>
+  <TransformationChicken.rulePack.rulesStrings.31>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]자신인 [ANIMAL_nameFull]의 털을 쓰다듬는 것 같습니다.</TransformationChicken.rulePack.rulesStrings.31>
+  <TransformationChicken.rulePack.rulesStrings.32>desc_sentence->[PAWN_nameDef]의 [ANIMAL_nameFull]같은 부리가 충격으로 경련합니다.</TransformationChicken.rulePack.rulesStrings.32>
+  <TransformationMisc.label>transformation</TransformationMisc.label>
+  <TransformationMisc.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변형됨</TransformationMisc.rulePack.rulesStrings.0>
+  <TransformationMisc.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변형</TransformationMisc.rulePack.rulesStrings.1>
+  <TransformationMisc.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변합니다.</TransformationMisc.rulePack.rulesStrings.2>
+  <TransformationMisc.rulePack.rulesStrings.3>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 변환되는 중</TransformationMisc.rulePack.rulesStrings.3>
+  <TransformationMisc.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef](은)는 [ANIMAL_nameFull]로 완전히 변환되는 중</TransformationMisc.rulePack.rulesStrings.4>
+  <TransformationMisc.rulePack.rulesStrings.5>tale_noun-> [ANIMAL_nameFull](은)는 [PAWN_nameDef]의 몸으로 완전히 변화됨</TransformationMisc.rulePack.rulesStrings.5>
+  <TransformationMisc.rulePack.rulesStrings.6>image->[PAWN_nameFull](은)는 [circumstance_group] 고통이 두 배로 증가합니다.</TransformationMisc.rulePack.rulesStrings.6>
+  <TransformationMisc.rulePack.rulesStrings.7>image->[PAWN_nameFull](은)는 네 개의 [circumstance_group]로 떨어짐</TransformationMisc.rulePack.rulesStrings.7>
+  <TransformationMisc.rulePack.rulesStrings.8>image->[PAWN_nameFull](은)는 자신의 [circumstance_group]몸을 바라봅니다.</TransformationMisc.rulePack.rulesStrings.8>
+  <TransformationMisc.rulePack.rulesStrings.9>circumstance_phrase->몹시 부끄러워 합니다.</TransformationMisc.rulePack.rulesStrings.9>
+  <TransformationMisc.rulePack.rulesStrings.10>circumstance_phrase->손처럼 움직이는 날개로 [PAWN_pronoun]자신을 감싸려 합니다.</TransformationMisc.rulePack.rulesStrings.10>
+  <TransformationMisc.rulePack.rulesStrings.11>circumstance_phrase->메카나이트들이 [PAWN_possessive]의 몸에 마법을 부립니다.</TransformationMisc.rulePack.rulesStrings.11>
+  <TransformationMisc.rulePack.rulesStrings.12>circumstance_phrase->누군가가 쳐다봅니다.</TransformationMisc.rulePack.rulesStrings.12>
+  <TransformationMisc.rulePack.rulesStrings.13>circumstance_phrase->누군가가 쳐다보며 끔찍해합니다.</TransformationMisc.rulePack.rulesStrings.13>
+  <TransformationMisc.rulePack.rulesStrings.14>circumstance_phrase->누군가가 쳐다보며 히죽히죽 웃습니다</TransformationMisc.rulePack.rulesStrings.14>
+  <TransformationMisc.rulePack.rulesStrings.15>circumstance_phrase->발을 흙에 긁어댑니다.</TransformationMisc.rulePack.rulesStrings.15>
+  <TransformationMisc.rulePack.rulesStrings.16>circumstance_phrase->[PAWN_possessive]의 야성이 눈을 듭니다.</TransformationMisc.rulePack.rulesStrings.16>
+  <TransformationMisc.rulePack.rulesStrings.17>circumstance_phrase->[PAWN_possessive]은(는) 눈을 꽉 감습니다.</TransformationMisc.rulePack.rulesStrings.17>
+  <TransformationMisc.rulePack.rulesStrings.18>desc_sentence->[PAWN_pronoun]은(는)[PAWN_objective]의 주위에 무엇이 있는지 전혀 모르는 것 같습니다.</TransformationMisc.rulePack.rulesStrings.18>
+  <TransformationMisc.rulePack.rulesStrings.19>desc_sentence->[PAWN_possessive]의 얼굴이 좀 더 동물적인 모양에 맞춰 변화하고 있는 것 같습니다.</TransformationMisc.rulePack.rulesStrings.19>
+  <TransformationMisc.rulePack.rulesStrings.20>desc_sentence->[PAWN_pronoun]은(는) [PAWN_objective]의 몸이 완성되어가며 격렬하게 경련을 일으키고 있습니다.</TransformationMisc.rulePack.rulesStrings.20>
+  <TransformationMisc.rulePack.rulesStrings.21>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]이(가) [ANIMAL_nameFull]로서의 새로운 삶을 시작하기 두려워하는 것처럼 보입니다.</TransformationMisc.rulePack.rulesStrings.21>
+  <TransformationMisc.rulePack.rulesStrings.22>desc_sentence->[PAWN_pronoun]은(는) 눈에 띄게 흥분한 것 같습니다.</TransformationMisc.rulePack.rulesStrings.22>
+  <TransformationMisc.rulePack.rulesStrings.23>desc_sentence->[PAWN_pronoun]은(는) 이것을 즐기는 것 같아 보입니다.</TransformationMisc.rulePack.rulesStrings.23>
+  <TransformationMisc.rulePack.rulesStrings.24>desc_sentence->[PAWN_nameDef]의 옷은 [PAWN_objective]의 주위 바닥으로 떨어집니다.</TransformationMisc.rulePack.rulesStrings.24>
+  <TransformationMisc.rulePack.rulesStrings.25>desc_sentence->[PAWN_pronoun]은(는) 인간이 아닌 것 처럼 보이며 [PAWN_possessive]의 원래 형태는 거의 남아있지 않습니다.</TransformationMisc.rulePack.rulesStrings.25>
+  <TransformationMisc.rulePack.rulesStrings.26>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]자신인 [ANIMAL_nameFull]의 털을 쓰다듬는 것 같습니다.</TransformationMisc.rulePack.rulesStrings.26>
+  <GrewTail.label>grew a tail</GrewTail.label>
+  <GrewTail.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]의 꼬리가 자라남</GrewTail.rulePack.rulesStrings.0>
+  <GrewTail.rulePack.rulesStrings.1>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 뒤를 살핍니다. [circumstance_group]</GrewTail.rulePack.rulesStrings.1>
+  <GrewTail.rulePack.rulesStrings.2>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 아래를 바라봅니다. [circumstance_group]</GrewTail.rulePack.rulesStrings.2>
+  <GrewTail.rulePack.rulesStrings.3>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewTail.rulePack.rulesStrings.3>
+  <GrewTail.rulePack.rulesStrings.4>circumstance_phrase->[PAWN_possessive]의 꼬리가 확실하게 살랑입니다.</GrewTail.rulePack.rulesStrings.4>
+  <GrewTail.rulePack.rulesStrings.5>circumstance_phrase->[PAWN_possessive]의 꼬리가 마지못해 살랑입니다.</GrewTail.rulePack.rulesStrings.5>
+  <GrewTail.rulePack.rulesStrings.6>circumstance_phrase->[PAWN_possessive]의 꼬리가 신이 나 살랑입니다.</GrewTail.rulePack.rulesStrings.6>
+  <GrewTail.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 꼬리가 겁이 나 [PAWN_possessive]의 다리 사이로 움츠러듭니다.</GrewTail.rulePack.rulesStrings.7>
+  <GrewTail.rulePack.rulesStrings.8>circumstance_phrase->[PAWN_possessive]의 꼬리가 [PAWN_possessive]의 다리 사이에 걸려 당황합니다.</GrewTail.rulePack.rulesStrings.8>
+  <GrewTail.rulePack.rulesStrings.9>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewTail.rulePack.rulesStrings.9>
+  <GrewTail.rulePack.rulesStrings.10>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewTail.rulePack.rulesStrings.10>
+  <GrewTail.rulePack.rulesStrings.11>circumstance_phrase->누군가가 [PAWN_nameDef]의 새 꼬리를 건드려봅니다.</GrewTail.rulePack.rulesStrings.11>
+  <GrewTail.rulePack.rulesStrings.12>circumstance_phrase->누군가가 [PAWN_possessive]의 새 꼬리를 잡아당깁니다.</GrewTail.rulePack.rulesStrings.12>
+  <GrewTail.rulePack.rulesStrings.13>circumstance_phrase->누군가가 [PAWN_possessive]의 새 꼬리를 토닥거립니다.</GrewTail.rulePack.rulesStrings.13>
+  <GrewTail.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun]은(는)[PAWN_objective]의 주위에 무엇이 있는지 전혀 모르는 것 같습니다.</GrewTail.rulePack.rulesStrings.14>
+  <GrewTail.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]은(는) 새로 생긴 것을 두려워하는 표정입니다.</GrewTail.rulePack.rulesStrings.15>
+  <GrewTail.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun]은(는) 무엇이 일어났는지 혼란스러워 합니다.</GrewTail.rulePack.rulesStrings.16>
+  <GrewTail.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun]은(는) 그것을 떼어내려고 노력합니다.</GrewTail.rulePack.rulesStrings.17>
+  <GrewTail.rulePack.rulesStrings.18>desc_sentence->[PAWN_pronoun]은(는) 꼬리로 감싸고 놀고 있습니다.</GrewTail.rulePack.rulesStrings.18>
+  <GrewTail.rulePack.rulesStrings.19>desc_sentence->[PAWN_pronoun]은(는) 그것을 보이지 않게 숨기려 하고 있습니다.</GrewTail.rulePack.rulesStrings.19>
+  <GrewThrumboHorn.label>트럼보 뿔이 자라남.</GrewThrumboHorn.label>
+  <GrewThrumboHorn.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewThrumboHorn.rulePack.rulesStrings.0>
+  <GrewThrumboHorn.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewThrumboHorn.rulePack.rulesStrings.1>
+  <GrewThrumboHorn.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewThrumboHorn.rulePack.rulesStrings.2>
+  <GrewThrumboHorn.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewThrumboHorn.rulePack.rulesStrings.3>
+  <GrewThrumboHorn.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]에게 큰 뿔이 자라납니다.</GrewThrumboHorn.rulePack.rulesStrings.4>
+  <GrewThrumboHorn.rulePack.rulesStrings.5>tale_noun->[PAWN_nameDef]에게 크고 뾰족한 뿔이 자라납니다.</GrewThrumboHorn.rulePack.rulesStrings.5>
+  <GrewThrumboHorn.rulePack.rulesStrings.6>tale_noun->[PAWN_nameDef]에게 트럼보의 뿔이 자라납니다.</GrewThrumboHorn.rulePack.rulesStrings.6>
+  <GrewThrumboHorn.rulePack.rulesStrings.7>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 이마에 있는 뿔을 문지릅니다. [circumstance_group]</GrewThrumboHorn.rulePack.rulesStrings.7>
+  <GrewThrumboHorn.rulePack.rulesStrings.8>circumstance_phrase->누군가가 [PAWN_possessive]의 뿔을 밟고 오릅니다.</GrewThrumboHorn.rulePack.rulesStrings.8>
+  <GrewThrumboHorn.rulePack.rulesStrings.9>circumstance_phrase->누군가가 [PAWN_possessive]의 뿔을 갈아댑니다.</GrewThrumboHorn.rulePack.rulesStrings.9>
+  <GrewThrumboHorn.rulePack.rulesStrings.10>circumstance_phrase->누군가가 [PAWN_possessive]의 새 뿔을 문지릅니다.</GrewThrumboHorn.rulePack.rulesStrings.10>
+  <GrewThrumboMuzzle.label>트럼보 주둥이가 자라남.</GrewThrumboMuzzle.label>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.0>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewThrumboMuzzle.rulePack.rulesStrings.0>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.1>circumstance_phrase->사람들이 공포에 질려 바라봅니다.</GrewThrumboMuzzle.rulePack.rulesStrings.1>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.2>circumstance_phrase->사람들이 주변에서 웃어댑니다.</GrewThrumboMuzzle.rulePack.rulesStrings.2>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun]은(는) 놀랍게도 그것에 대해 무관심해 보입니다.</GrewThrumboMuzzle.rulePack.rulesStrings.3>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.4>tale_noun->[PAWN_nameDef]의 얼굴이 주둥이가 되었습니다.</GrewThrumboMuzzle.rulePack.rulesStrings.4>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.5>image->[PAWN_nameFull]은(는) [PAWN_possessive]의 얼굴의 변화를 느낍니다. [circumstance_group]</GrewThrumboMuzzle.rulePack.rulesStrings.5>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.6>image->[PAWN_nameFull]은(는) 공포에 질려 비명을 지릅니다. [circumstance_group]</GrewThrumboMuzzle.rulePack.rulesStrings.6>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.7>circumstance_phrase->[PAWN_possessive]의 얼굴이 주둥이가 되어 밀려나옵니다.</GrewThrumboMuzzle.rulePack.rulesStrings.7>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun]은(는) 변화를 두려워하는 표정입니다.</GrewThrumboMuzzle.rulePack.rulesStrings.8>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun]은(는) 그의 새로운 짐승같은 얼굴을 관찰하고 있습니다.</GrewThrumboMuzzle.rulePack.rulesStrings.9>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.10>tale_noun->[PAWN_nameDef]의 얼굴에서 트럼보의 주둥이로 자라납니다.</GrewThrumboMuzzle.rulePack.rulesStrings.10>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.11>tale_noun->[PAWN_nameDef]의 얼굴이 트럼보의 주둥이로 변했습니다.</GrewThrumboMuzzle.rulePack.rulesStrings.11>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.12>image->[PAWN_nameFull]의 얼굴이 큰 주둥이가 되어 밀려나옵니다. [circumstance_group]</GrewThrumboMuzzle.rulePack.rulesStrings.12>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.13>image->[PAWN_nameFull]의 머리가 큰 주둥이의 형태로 바뀌기 시작합니다. [circumstance_group]</GrewThrumboMuzzle.rulePack.rulesStrings.13>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun]은(는) [PAWN_possessive]의 새로운 주둥이가 불편한것 같습니다.</GrewThrumboMuzzle.rulePack.rulesStrings.14>
+  <GrewThrumboMuzzle.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]은(는) 이상하게도 [PAWN_possessive]의 트럼보 주둥이가 마음에 드는것 같습니다.</GrewThrumboMuzzle.rulePack.rulesStrings.15>
+
+</LanguageData>

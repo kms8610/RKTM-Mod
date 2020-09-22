@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TabBadge>휘장</TabBadge>
+  <PawnBadge.BadgeNumber>휘장 {0}</PawnBadge.BadgeNumber>
+  <PawnBadge.BadgePosition>휘장 위치</PawnBadge.BadgePosition>
+  <PawnBadge.BadgePosition_Top>상단</PawnBadge.BadgePosition_Top>
+  <PawnBadge.BadgePosition_Left>왼쪽</PawnBadge.BadgePosition_Left>
+  <PawnBadge.BadgePosition_Right>오른쪽</PawnBadge.BadgePosition_Right>
+  <PawnBadge.BadgePosition_Bottom>하단</PawnBadge.BadgePosition_Bottom>
+  <PawnBadge.BadgeSize>휘장 크기</PawnBadge.BadgeSize>
+  <PawnBadge.BadgeSize_Small>소형</PawnBadge.BadgeSize_Small>
+  <PawnBadge.BadgeSize_Medium>중형</PawnBadge.BadgeSize_Medium>
+  <PawnBadge.BadgeSize_Large>대형</PawnBadge.BadgeSize_Large>
+
+</LanguageData>

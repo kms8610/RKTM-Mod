@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Building_RTQuantumRelay.label>양자 중계기</Building_RTQuantumRelay.label>
+  <Building_RTQuantumRelay.description>정착지 내의 어디든 양자 창고와 연결하여 품목 및 덩어리들을 주고받을 수 있습니다.</Building_RTQuantumRelay.description>
+  <Building_RTQuantumRelay_Blueprint.label>양자 중계기 (청사진)</Building_RTQuantumRelay_Blueprint.label>
+  <Building_RTQuantumRelay_Frame.label>양자 중계기 (건설 중)</Building_RTQuantumRelay_Frame.label>
+  <Building_RTQuantumRelay_Frame.description>정착지 내의 어디든 양자 창고와 연결하여 품목 및 덩어리들을 주고받을 수 있습니다.</Building_RTQuantumRelay_Frame.description>
+  <Building_RTQuantumRelaySmall.label>소형 양자 중계기</Building_RTQuantumRelaySmall.label>
+  <Building_RTQuantumRelaySmall.description>정착지 내의 어디든 양자 창고와 연결하여 품목 및 덩어리들을 주고받을 수 있습니다.</Building_RTQuantumRelaySmall.description>
+  <Building_RTQuantumRelaySmall_Blueprint.label>소형 양자 중계기 (청사진)</Building_RTQuantumRelaySmall_Blueprint.label>
+  <Building_RTQuantumRelaySmall_Frame.label>소형 양자 중계기 (건설 중)</Building_RTQuantumRelaySmall_Frame.label>
+  <Building_RTQuantumRelaySmall_Frame.description>정착지 내의 어디든 양자 창고와 연결하여 품목 및 덩어리들을 주고받을 수 있습니다.</Building_RTQuantumRelaySmall_Frame.description>
+  <Building_RTQuantumStockpile.label>양자 저장소</Building_RTQuantumStockpile.label>
+  <Building_RTQuantumStockpile.description>지정된 공간에 둘 이상의 품목 또는 품목 더미를 저장하기 위해 저장구역에 배치됩니다.</Building_RTQuantumStockpile.description>
+  <Building_RTQuantumStockpile_Blueprint.label>양자 저장소 (청사진)</Building_RTQuantumStockpile_Blueprint.label>
+  <Building_RTQuantumStockpile_Frame.label>양자 저장소 (건설 중)</Building_RTQuantumStockpile_Frame.label>
+  <Building_RTQuantumStockpile_Frame.description>지정된 공간에 둘 이상의 품목 또는 품목 더미를 저장하기 위해 저장구역에 배치됩니다.</Building_RTQuantumStockpile_Frame.description>
+  <Building_RTQuantumStockpileSmall.label>소형 양자 저장소</Building_RTQuantumStockpileSmall.label>
+  <Building_RTQuantumStockpileSmall.description>지정된 공간에 둘 이상의 품목 또는 품목 더미를 저장하기 위해 저장구역에 배치됩니다.</Building_RTQuantumStockpileSmall.description>
+  <Building_RTQuantumStockpileSmall_Blueprint.label>소형 양자 저장소 (청사진)</Building_RTQuantumStockpileSmall_Blueprint.label>
+  <Building_RTQuantumStockpileSmall_Frame.label>소형 양자 저장소 (건설 중)</Building_RTQuantumStockpileSmall_Frame.label>
+  <Building_RTQuantumStockpileSmall_Frame.description>지정된 공간에 둘 이상의 품목 또는 품목 더미를 저장하기 위해 저장구역에 배치됩니다.</Building_RTQuantumStockpileSmall_Frame.description>
+  <Building_RTQuantumWarehouse.label>양자 창고</Building_RTQuantumWarehouse.label>
+  <Building_RTQuantumWarehouse.description>저장 구역에 배치된 망을 통해 구역의 양자 저장 장치를 연결하며, 양자 저장소처럼 쓸 수도 있습니다.</Building_RTQuantumWarehouse.description>
+  <Building_RTQuantumWarehouse_Blueprint.label>양자 창고 (청사진)</Building_RTQuantumWarehouse_Blueprint.label>
+  <Building_RTQuantumWarehouse_Frame.label>양자 창고 (건설 중)</Building_RTQuantumWarehouse_Frame.label>
+  <Building_RTQuantumWarehouse_Frame.description>저장 구역에 배치된 망을 통해 구역의 양자 저장 장치를 연결하며, 양자 저장소처럼 쓸 수도 있습니다.</Building_RTQuantumWarehouse_Frame.description>
+  <Building_RTQuantumWarehouseSmall.label>소형 양자 창고</Building_RTQuantumWarehouseSmall.label>
+  <Building_RTQuantumWarehouseSmall.description>저장 구역에 배치된 망을 통해 구역의 양자 저장 장치를 연결하며, 양자 저장소처럼 쓸 수도 있습니다.</Building_RTQuantumWarehouseSmall.description>
+  <Building_RTQuantumWarehouseSmall_Blueprint.label>소형 양자 창고 (청사진)</Building_RTQuantumWarehouseSmall_Blueprint.label>
+  <Building_RTQuantumWarehouseSmall_Frame.label>소형 양자 창고 (건설 중)</Building_RTQuantumWarehouseSmall_Frame.label>
+  <Building_RTQuantumWarehouseSmall_Frame.description>저장 구역에 배치된 망을 통해 구역의 양자 저장 장치를 연결하며, 양자 저장소처럼 쓸 수도 있습니다.</Building_RTQuantumWarehouseSmall_Frame.description>
+
+</LanguageData>

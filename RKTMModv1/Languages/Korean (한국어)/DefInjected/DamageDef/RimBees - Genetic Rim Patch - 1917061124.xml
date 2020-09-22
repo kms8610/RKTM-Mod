@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RB_ToxicSting.label>독침</RB_ToxicSting.label>
+  <RB_ToxicSting.deathMessage>{0}(이)가 쏘여 죽었습니다.</RB_ToxicSting.deathMessage>
+  <RB_VeryToxicSting.label>강력한 독침</RB_VeryToxicSting.label>
+  <RB_VeryToxicSting.deathMessage>{0}(이)가 쏘여 죽었습니다.</RB_VeryToxicSting.deathMessage>
+  <RB_ChemfuelSting.label>화학연료침</RB_ChemfuelSting.label>
+  <RB_ChemfuelSting.deathMessage>{0}(이)가 쏘여 죽었습니다.</RB_ChemfuelSting.deathMessage>
+  <RB_BlindingSting.label>실명침</RB_BlindingSting.label>
+  <RB_BlindingSting.deathMessage>{0}(이)가 쏘여 죽었습니다.</RB_BlindingSting.deathMessage>
+  <RB_ParalyzingSting.label>마비침</RB_ParalyzingSting.label>
+  <RB_ParalyzingSting.deathMessage>{0}(이)가 쏘여 죽었습니다.</RB_ParalyzingSting.deathMessage>
+  <BR_BeeExplosion.label>폭발</BR_BeeExplosion.label>
+  <BR_BeeExplosion.deathMessage>{0}(이)가 중독되어 죽었습니다.</BR_BeeExplosion.deathMessage>
+
+</LanguageData>

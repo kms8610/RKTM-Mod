@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EccentricGlowingChemlightBase.label>빛나는 형광봉</EccentricGlowingChemlightBase.label>
+  <EccentricGlowingChemlightRed.label>빛나는 적색 형광봉</EccentricGlowingChemlightRed.label>
+  <EccentricGlowingChemlightGreen.label>빛나는 녹색 형광봉</EccentricGlowingChemlightGreen.label>
+  <EccentricGlowingChemlightBlue.label>빛나는 청색 형광봉</EccentricGlowingChemlightBlue.label>
+  <EccentricGlowingChemlightYellow.label>빛나는 노란색 형광봉</EccentricGlowingChemlightYellow.label>
+  <Proj_EccentricChemlightRed.label>형광봉</Proj_EccentricChemlightRed.label>
+  <Proj_EccentricChemlightGreen.label>형광봉</Proj_EccentricChemlightGreen.label>
+  <Proj_EccentricChemlightBlue.label>형광봉</Proj_EccentricChemlightBlue.label>
+  <Proj_EccentricChemlightYellow.label>형광봉</Proj_EccentricChemlightYellow.label>
+  <EccentricChemlightBase.label>형광봉</EccentricChemlightBase.label>
+  <EccentricChemlightBase.description>사용할 때 다소 희미하지만 일정한 빛을 생성하는 발광 화학 물질로 채워진 플라스틱 관입니다.</EccentricChemlightBase.description>
+  <EccentricChemlightRed.label>적색 형광봉</EccentricChemlightRed.label>
+  <EccentricChemlightRed.description>사용할 때 다소 희미하지만 일정한 적색 빛을 생성하는 발광 화학 물질로 채워진 플라스틱 관입니다.</EccentricChemlightRed.description>
+  <EccentricChemlightRed.verbs.0.label>형광봉 던지기</EccentricChemlightRed.verbs.0.label>
+  <EccentricChemlightGreen.label>녹색 형광봉</EccentricChemlightGreen.label>
+  <EccentricChemlightGreen.description>사용할 때 다소 희미하지만 일정한 녹색 빛을 생성하는 발광 화학 물질로 채워진 플라스틱 관입니다.</EccentricChemlightGreen.description>
+  <EccentricChemlightGreen.verbs.0.label>형광봉 던지기</EccentricChemlightGreen.verbs.0.label>
+  <EccentricChemlightBlue.label>청색 형광봉</EccentricChemlightBlue.label>
+  <EccentricChemlightBlue.description>사용할 때 다소 희미하지만 일정한 청색 빛을 생성하는 발광 화학 물질로 채워진 플라스틱 관입니다.</EccentricChemlightBlue.description>
+  <EccentricChemlightBlue.verbs.0.label>형광봉 던지기</EccentricChemlightBlue.verbs.0.label>
+  <EccentricChemlightYellow.label>노란색 형광봉</EccentricChemlightYellow.label>
+  <EccentricChemlightYellow.description>사용할 때 다소 희미하지만 일정한 노란색 빛을 생성하는 발광 화학 물질로 채워진 플라스틱 관입니다.</EccentricChemlightYellow.description>
+  <EccentricChemlightYellow.verbs.0.label>형광봉 던지기</EccentricChemlightYellow.verbs.0.label>
+  <EccentricBurningFlare.label>불타는 조명탄</EccentricBurningFlare.label>
+  <Proj_EccentricFlare.label>조명탄</Proj_EccentricFlare.label>
+  <Eccentric_Flare.label>조명탄</Eccentric_Flare.label>
+  <Eccentric_Flare.description>불이 붙었을 때 일정시간, 밝은 빛의 불꽃을 일으키는 막대기 형태의 조명탄입니다.</Eccentric_Flare.description>
+  <Eccentric_Flare.verbs.0.label>조명탄 던지기</Eccentric_Flare.verbs.0.label>
+  <EccentricSkyFlare.label>낙하산 조명탄</EccentricSkyFlare.label>
+  <Proj_EccentricSkyFlare.label>조명탄</Proj_EccentricSkyFlare.label>
+  <Eccentric_FlareGun.label>조명탄 총</Eccentric_FlareGun.label>
+  <Eccentric_FlareGun.description>조명탄을 발사하는 총입니다.</Eccentric_FlareGun.description>
+  <Eccentric_FlareGun.tools.0.label>손잡이</Eccentric_FlareGun.tools.0.label>
+  <Eccentric_FlareGun.tools.1.label>총열</Eccentric_FlareGun.tools.1.label>
+  <EccentricSkyFlareMortar.label>조명 포탄</EccentricSkyFlareMortar.label>
+  <Eccentric_IlluminationShell.label>조명 포탄</Eccentric_IlluminationShell.label>
+  <Eccentric_IlluminationShell.description>낙하산 조명탄이 들어간 포탄입니다. 박격포에서 발사될 때 넓은 지역을 비춥니다.</Eccentric_IlluminationShell.description>
+  <Bullet_Shell_Illumination.label>조명 포탄</Bullet_Shell_Illumination.label>
+  <Shell_Illumination.label>81mm 조명 포탄</Shell_Illumination.label>
+  <Shell_Illumination.description>박격포에서 발사되도록 설계된 저속 포탄입니다.</Shell_Illumination.description>
+  <Ammo_265Flare_Illumination.label>26.5mm 조명탄</Ammo_265Flare_Illumination.label>
+  <Ammo_265Flare_Illumination.description>주위를 밝게 비추기 위해서 작고 가벼우며, 낙하산에 매달려있는 조명탄입니다.</Ammo_265Flare_Illumination.description>
+
+</LanguageData>

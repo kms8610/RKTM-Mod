@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SDW_Hatch.label>벽 (내려감)</SDW_Hatch.label>
+  <SDW_Hatch.description>내려간 벽입니다.</SDW_Hatch.description>
+  <FPBIWWWG.label>기계장치가 있는 벽</FPBIWWWG.label>
+  <FPBIWWWG.description>평범한 벽이지만 특수 장치가 있습니다.</FPBIWWWG.description>
+  <FPBIWBombInWall.label>폭탄이 든 벽</FPBIWBombInWall.label>
+  <FPBIWBombInWall.description>자폭 장치가 있는 벽입니다.</FPBIWBombInWall.description>
+
+</LanguageData>

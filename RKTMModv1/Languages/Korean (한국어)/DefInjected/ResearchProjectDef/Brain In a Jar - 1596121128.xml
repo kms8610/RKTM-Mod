@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BrainInAJar.label>항아리 안에 있는 뇌</BrainInAJar.label>
+  <BrainInAJar.description>살아있는 사람에게서 뇌를 제거하고 이 이상한 기계에 연결하면 연구 속도가 향상되는 것 같습니다.</BrainInAJar.description>
+  <MultibrainProcessing.label>다중 뇌 동기화</MultibrainProcessing.label>
+  <MultibrainProcessing.description>여러 두뇌를 동기화하면 각 두뇌의 출력이 향상됩니다.</MultibrainProcessing.description>
+  <MasterBrain.label>뇌 용융</MasterBrain.label>
+  <MasterBrain.description>여러 뇌를 모으면 뇌가 결합되어 더 큰 뇌 버전이 형성됩니다. 이 새로운 '마스터 브레인(Master Brain)'을 사용하면 훨씬 더 많은 연구 능력을 얻을 수 있습니다.\n이러한 강력한 사고력으로 인해 엄청난 양의 열이 발생합니다.\n한 번에 하나의 마스터 브레인만 연구 테이블에 연결할 수 있습니다.</MasterBrain.description>
+
+</LanguageData>

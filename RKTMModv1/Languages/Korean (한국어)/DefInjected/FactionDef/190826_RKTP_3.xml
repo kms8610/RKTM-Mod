@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1240656304_190617_Lighter Than Fast-->
+  <EngieFaction.label>야생 집단</EngieFaction.label>
+  <EngieFaction.description>일부 야생 엔지</EngieFaction.description>
+  <EngieFaction.pawnsPlural>D 상태 엔지</EngieFaction.pawnsPlural>
+  <EngieFaction.leaderTitle>시스템드 init시스템</EngieFaction.leaderTitle>
+  <EngiePlayerColony.label>부족 무리</EngiePlayerColony.label>
+  <EngiePlayerColony.description>당신의 리셋된 엔지 무리입니다.</EngiePlayerColony.description>
+  <EngiePlayerColony.pawnsPlural>엔지</EngiePlayerColony.pawnsPlural>
+  <MantisFaction.label>날카로운 무리</MantisFaction.label>
+  <MantisFaction.description>피에 굶주린 맨티스 무리</MantisFaction.description>
+  <MantisFaction.pawnsPlural>치명적인 맨티스</MantisFaction.pawnsPlural>
+  <MantisFaction.leaderTitle>맨드라곤플라이(Mandragonfly)</MantisFaction.leaderTitle>
+  <MantisPlayerColony.label>부족 둥지</MantisPlayerColony.label>
+  <MantisPlayerColony.description>당신의 부족들이 이번 저녁 식사를 위해 서로를 죽여댈까요?</MantisPlayerColony.description>
+  <MantisPlayerColony.pawnsPlural>맨티스</MantisPlayerColony.pawnsPlural>
+  <RockmanFaction.label>콘크리트</RockmanFaction.label>
+  <RockmanFaction.description>화강암과 점판암 덩어리들이 되살아났습니다. 석회석은 아직 그렇지않습니다.</RockmanFaction.description>
+  <RockmanFaction.pawnsPlural>거대한 락맨</RockmanFaction.pawnsPlural>
+  <RockmanFaction.leaderTitle>HCB 게이트웨이</RockmanFaction.leaderTitle>
+  <RockmanPlayerColony.label>부족 바위들</RockmanPlayerColony.label>
+  <RockmanPlayerColony.description>당신의 돌덩이 무리들입니다.</RockmanPlayerColony.description>
+  <RockmanPlayerColony.pawnsPlural>락맨</RockmanPlayerColony.pawnsPlural>
+  <SlugFaction.label>어색한 복족류</SlugFaction.label>
+  <SlugFaction.description>성운에서 멀이 떨어져나온 슬러그들</SlugFaction.description>
+  <SlugFaction.pawnsPlural>신뢰할 수 없는 슬러그들</SlugFaction.pawnsPlural>
+  <SlugFaction.leaderTitle>소라고둥</SlugFaction.leaderTitle>
+  <SlugPlayerColony.label>부족 껍질</SlugPlayerColony.label>
+  <SlugPlayerColony.description>당신의 분비물 공장</SlugPlayerColony.description>
+  <SlugPlayerColony.pawnsPlural>슬러그</SlugPlayerColony.pawnsPlural>
+  <ZoltanFaction.label>발광 오로라</ZoltanFaction.label>
+  <ZoltanFaction.description>원소 에너지를 찾는 졸탄들</ZoltanFaction.description>
+  <ZoltanFaction.pawnsPlural>빛나는 졸탄</ZoltanFaction.pawnsPlural>
+  <ZoltanFaction.leaderTitle>페타 광속</ZoltanFaction.leaderTitle>
+  <ZoltanPlayerColony.label>부족 오로라</ZoltanPlayerColony.label>
+  <ZoltanPlayerColony.description>누가 에너지가 필요할까요. 당신의 부족이 과연 빛을 발할 수 있을까요?</ZoltanPlayerColony.description>
+  <ZoltanPlayerColony.pawnsPlural>졸탄</ZoltanPlayerColony.pawnsPlural>
+
+  <!--1267084448_190816_Filthy Orc Invasion-->
+  <OrcTribe.label>오크 부족</OrcTribe.label>
+  <OrcTribe.description>잔인함만을 추구하는 오크 무리</OrcTribe.description>
+  <OrcTribe.pawnsPlural>부족민</OrcTribe.pawnsPlural>
+  <OrcTribe.leaderTitle>마법사</OrcTribe.leaderTitle>
+  <OrcPlayerTribe.label>오크 부족</OrcPlayerTribe.label>
+  <OrcPlayerTribe.description>당신의 새로운 제국.</OrcPlayerTribe.description>
+  <OrcPlayerTribe.pawnsPlural>오크 부족</OrcPlayerTribe.pawnsPlural>
+
+  <!--1294507772_190519_The Mantodean insectoid race-->
+  <PlayerMantoColony.label>맨토디안 둥지</PlayerMantoColony.label>
+  <PlayerMantoColony.description>맨토디안의 둥지 입니다.</PlayerMantoColony.description>
+  <PlayerMantoColony.pawnsPlural>정착민</PlayerMantoColony.pawnsPlural>
+  <MantoFaction.label>맨토디안 둥지</MantoFaction.label>
+  <MantoFaction.description>맨토디안 사회는 다른 인간들의 사회를 매우 혐호합니다. 그들의 사회는 잔인하고 미개한 것으로 여겨 주변 개척지들과 마찰을 빚습니다. 이들의 팽창주의적인 성향과 다른이들의 삶과 전통에 대한 무시는 수 세기에 걸쳐 많은 갈등을 불러일으켰고, 이로인해 맨토디안들과 다른 종족들 사이에는 깊은 적대감이 쌓여있습니다. 그럼에도 불구하고, 이들의 둥지는 외교에 있어서 무조건적인 쇄국으로 일관하지 않으며, 만약 자신들에게 유익하다는 판단이 생기면 누구든 그들의 일원으로 받아들이기도 합니다.</MantoFaction.description>
+  <MantoFaction.pawnsPlural>맨토디안</MantoFaction.pawnsPlural>
+  <MantoFaction.leaderTitle>둥지 관리자</MantoFaction.leaderTitle>
+
+  <!--1314474881_181118_Avali-->
+  <AvaliPlayerColony.label>아발리 생존자</AvaliPlayerColony.label>
+  <AvaliPlayerColony.description>아발리 부족</AvaliPlayerColony.description>
+  <AvaliPlayerColony.pawnsPlural>정착민들</AvaliPlayerColony.pawnsPlural>
+  <AvaliFaction.label>아발리 Illuminate</AvaliFaction.label>
+  <AvaliFaction.description>Avali Illuminate는 아발리 종의 거의 절반을 아우르며 수많은 시스템에 걸쳐 가장 큰 영향력을 미치고 있는 가장 크고 강력한 아발리 세력입니다. 아발리를 대표하고 있는 세력으로서, 아발리들의 고향 아발론을 지배함으로써 그 위치가 굳어지게 되었습니다.</AvaliFaction.description>
+  <AvaliFaction.fixedName>아발리 Illuminate</AvaliFaction.fixedName>
+  <AvaliFaction.pawnsPlural>아발리 Illuminate</AvaliFaction.pawnsPlural>
+  <AvaliIndependent1.label>Independent 아발리 colony</AvaliIndependent1.label>
+  <AvaliIndependent1.description>Beyond 아발리 Illuminate controlled space lie the independent worlds; colonies that rejected Illuminate administration, or were formed by 아발리 outside of it's jurisdiction. The independent worlds are not small; numerically there are as many 아발리 in the independent colonies as there are in the Illuminate itself, however they are split into many disparate factions and groups, ranging in size from independent tribes, unaffiliated with any political entity, to small multi-colony nations; not all of whom are on friendly terms with one another.</AvaliIndependent1.description>
+  <AvaliIndependent1.pawnsPlural>독립된 아발리</AvaliIndependent1.pawnsPlural>
+  <AvaliIndependent1.leaderTitle>세력 지도자</AvaliIndependent1.leaderTitle>
+  <AvaliIndependent2.label>독립 아발리 정착지</AvaliIndependent2.label>
+  <AvaliIndependent2.description>Beyond 아발리 Illuminate controlled space lie the independent worlds; colonies that rejected Illuminate administration, or were formed by 아발리 outside of it's jurisdiction. The independent worlds are not small; numerically there are as many 아발리 in the independent colonies as there are in the Illuminate itself, however they are split into many disparate factions and groups, ranging in size from independent tribes, unaffiliated with any political entity, to small multi-colony nations; not all of whom are on friendly terms with one another.</AvaliIndependent2.description>
+  <AvaliIndependent2.pawnsPlural>독립된 아발리</AvaliIndependent2.pawnsPlural>
+  <AvaliIndependent2.leaderTitle>세력 지도자</AvaliIndependent2.leaderTitle>
+  <AvaliIndependent3.label>독립 아발리 정착지</AvaliIndependent3.label>
+  <AvaliIndependent3.description>Beyond 아발리 Illuminate controlled space lie the independent worlds; colonies that rejected Illuminate administration, or were formed by 아발리 outside of it's jurisdiction. The independent worlds are not small; numerically there are as many 아발리 in the independent colonies as there are in the Illuminate itself, however they are split into many disparate factions and groups, ranging in size from independent tribes, unaffiliated with any political entity, to small multi-colony nations; not all of whom are on friendly terms with one another.</AvaliIndependent3.description>
+  <AvaliIndependent3.pawnsPlural>독립된 아발리</AvaliIndependent3.pawnsPlural>
+  <AvaliIndependent3.leaderTitle>세력 지도자</AvaliIndependent3.leaderTitle>
+  <AvaliIndependent4.label>독립 아발리 정착지</AvaliIndependent4.label>
+  <AvaliIndependent4.description>Beyond 아발리 Illuminate controlled space lie the independent worlds; colonies that rejected Illuminate administration, or were formed by 아발리 outside of it's jurisdiction. The independent worlds are not small; numerically there are as many 아발리 in the independent colonies as there are in the Illuminate itself, however they are split into many disparate factions and groups, ranging in size from independent tribes, unaffiliated with any political entity, to small multi-colony nations; not all of whom are on friendly terms with one another.</AvaliIndependent4.description>
+  <AvaliIndependent4.pawnsPlural>독립된 아발리</AvaliIndependent4.pawnsPlural>
+  <AvaliIndependent4.leaderTitle>세력 지도자</AvaliIndependent4.leaderTitle>
+  <AvaliIndependent5.label>독립 아발리 정착지</AvaliIndependent5.label>
+  <AvaliIndependent5.description>Beyond 아발리 Illuminate controlled space lie the independent worlds; colonies that rejected Illuminate administration, or were formed by 아발리 outside of it's jurisdiction. The independent worlds are not small; numerically there are as many 아발리 in the independent colonies as there are in the Illuminate itself, however they are split into many disparate factions and groups, ranging in size from independent tribes, unaffiliated with any political entity, to small multi-colony nations; not all of whom are on friendly terms with one another.</AvaliIndependent5.description>
+  <AvaliIndependent5.pawnsPlural>독립된 아발리</AvaliIndependent5.pawnsPlural>
+  <AvaliIndependent5.leaderTitle>세력 지도자</AvaliIndependent5.leaderTitle>
+  <AvaliNuko.label>특별한 상인</AvaliNuko.label>
+  <AvaliNuko.description>외로운 영웅이 우연히 이 림월드에 발이 묶였습니다.</AvaliNuko.description>
+  <AvaliNuko.fixedName>특별한 상인</AvaliNuko.fixedName>
+  <AvaliNuko.pawnsPlural>특별한 상인</AvaliNuko.pawnsPlural>
+
+  <!--1342510409_190627_Astoriel-->
+  <AstorielPlayerColony.label>아스토리엘</AstorielPlayerColony.label>
+  <AstorielPlayerColony.description>당신의 공동체입니다.</AstorielPlayerColony.description>
+  <AstorielPlayerColony.pawnsPlural>정착민</AstorielPlayerColony.pawnsPlural>
+  <Astoriel.label>아스토리엘</Astoriel.label>
+  <Astoriel.description>아스토리엘들의 캠프로, 그들은 꽤 오랫동안 이곳에 존재해왔으며 다른 종족은 그들을 그다지 신경쓰지 않습니다.\n\n그들은 매우 폐쇠적이며 외부인들과 거의 접촉하려 하지 않는 편입니다.</Astoriel.description>
+  <Astoriel.fixedName>아스토리엘</Astoriel.fixedName>
+  <Astoriel.pawnsPlural>아스토리엘</Astoriel.pawnsPlural>
+  <Astoriel.leaderTitle>지도자</Astoriel.leaderTitle>
+
+  <!--1365540920_190714_Black Widows-->
+  <BlackWidow.label>블랙 위도우 둥지</BlackWidow.label>
+  <BlackWidow.description>블랙 위도우의 작은 연결망입니다.\n\n이들은 제국의 국경을 확장하고, 잠재적 동족들을 사로잡기 위해 이곳에 왔습니다.</BlackWidow.description>
+  <BlackWidow.pawnsPlural>블랙 위도우</BlackWidow.pawnsPlural>
+  <BlackWidow.leaderTitle>마담</BlackWidow.leaderTitle>
+  <BlackWidowPlayerColony.label>블랙 위도우 영토</BlackWidowPlayerColony.label>
+  <BlackWidowPlayerColony.description>당신의 연결망입니다. 습격, 약탈, 그리고 온 변방계가 당신의 것입니다!</BlackWidowPlayerColony.description>
+  <BlackWidowPlayerColony.pawnsPlural>위도우</BlackWidowPlayerColony.pawnsPlural>
+
+  <!--1400227853_190602_Lord of the Rims - Hobbits-->
+  <LotRH_HobbitFactionShire.label>샤이어</LotRH_HobbitFactionShire.label>
+  <LotRH_HobbitFactionShire.description>본디 각기 다른 풍습을 따르는 세 민족이었던 호빗들은 편안함을 좋아하는 생활방식에 정착하기 위해 함께 모였습니다. 샤이어 사람들은 대체로 모험심이 부족합니다. 이들은 언덕 속의 무미건조하고 편안한 구멍 안에 거주합니다. 집 밖에서는, 비옥한 땅을 일구고, 파이프 담배를 즐겨 피우며, 함께 어울립니다 -- 종종 동네 여관에서 한 잔 함께 걸치기도 합니다.\n\n샤이어는 무역의 기회가 열려있는 평화로운 땅이지만, 민병대를 지역 경계 밖으로 보낼 만큼 열려있지는 않습니다. 이들이 특별히 선호하는 생활방식 덕에 밀접한 협조나 영입은 아주 어려울 것입니다.\n\n겉으로는 군사적으로 약해 보이는 데에도 불구하고, 위협을 받았을 때에는 강력한 레인저들이 도우러 온다고 합니다.</LotRH_HobbitFactionShire.description>
+  <LotRH_HobbitFactionShire.fixedName>샤이어</LotRH_HobbitFactionShire.fixedName>
+  <LotRH_HobbitFactionShire.pawnsPlural>샤이어 호빗</LotRH_HobbitFactionShire.pawnsPlural>
+  <LotRH_HobbitFactionShire.leaderTitle>사인</LotRH_HobbitFactionShire.leaderTitle>
+  <LotRH_PlayerColony.label>호빗 정착지</LotRH_PlayerColony.label>
+  <LotRH_PlayerColony.description>당신의 공동체입니다.</LotRH_PlayerColony.description>
+  <LotRH_PlayerColony.pawnsPlural>정착민</LotRH_PlayerColony.pawnsPlural>
+
+  <!--1400234784_190526_Lord of the Rims - Elves-->
+  <LotRE_ElfFactionWood.label>숲속 엘프의 영토</LotRE_ElfFactionWood.label>
+  <LotRE_ElfFactionWood.description>전설에 의하면 이 삼림지대 피난처는 불멸의 엘프들의 소유라고 합니다. 통치자들은 반지의 힘을 사용하여 이 땅을 창조하였고, 전역을 안개로 감싸 원치 않는 손님들을 수 세기동안 쫓아내었다고 합니다. 피난처에 들어올 수 있는 행운을 지닌 자들은 이 숲속 공터의 우아함이 시간의 감쇠를 억제하고 바깥 세상의 피로를 지연시키는 것을 느낄 수 있습니다.</LotRE_ElfFactionWood.description>
+  <LotRE_ElfFactionWood.fixedName>숲속 엘프의 영토</LotRE_ElfFactionWood.fixedName>
+  <LotRE_ElfFactionWood.pawnsPlural>숲속 엘프들</LotRE_ElfFactionWood.pawnsPlural>
+  <LotRE_ElfFactionWood.leaderTitle>엘프왕</LotRE_ElfFactionWood.leaderTitle>
+  <LotRE_ElfFactionSea.label>해안 엘프의 안식처</LotRE_ElfFactionSea.label>
+  <LotRE_ElfFactionSea.description>이 해안가의 정착지들에는 팔라스의 엘프(팔라드림) 또는 해안 엘프들이 거주하고 있으며, 엘프족들의 진정한 고향에 더 가까운 곳입니다. 바다를 건너는 여정만이 엘프들에게 속세의 피로에서 벗어난 평화를 가져다 줍니다. 안식처 항구도시들은 엘프들이 여정을 떠나는 데 필요한 것을 제공해주고, 스스로 여행을 떠나기 직전인 수많은 영령들의 보금자리입니다.</LotRE_ElfFactionSea.description>
+  <LotRE_ElfFactionSea.fixedName>해안 엘프의 안식처</LotRE_ElfFactionSea.fixedName>
+  <LotRE_ElfFactionSea.pawnsPlural>해안 엘프들</LotRE_ElfFactionSea.pawnsPlural>
+  <LotRE_ElfFactionSea.leaderTitle>군주</LotRE_ElfFactionSea.leaderTitle>
+  <LotRE_ElfFactionHigh.label>엘프 고위 의회</LotRE_ElfFactionHigh.label>
+  <LotRE_ElfFactionHigh.description>놀도르 엘프, 또는 깊은 엘프(그 지혜를 뜻하는 이름)들이 많이 거주하는, 이 많은 엘프들의 집체조직은 동족들을 대표하여 문제에 개입하는 책무를 맡았습니다. 이들의 왕국은 잘 훈련된 병사들과, 대행자들을 섭외하는 인근 주민 및 대의명분이 있는 원정대의 근거지로 자리잡았습니다.</LotRE_ElfFactionHigh.description>
+  <LotRE_ElfFactionHigh.fixedName>엘프 고위 의회</LotRE_ElfFactionHigh.fixedName>
+  <LotRE_ElfFactionHigh.pawnsPlural>하이 엘프</LotRE_ElfFactionHigh.pawnsPlural>
+  <LotRE_ElfFactionHigh.leaderTitle>군주</LotRE_ElfFactionHigh.leaderTitle>
+  <LotRE_PlayerColony.label>엘프 정착지</LotRE_PlayerColony.label>
+  <LotRE_PlayerColony.description>당신의 공동체입니다.</LotRE_PlayerColony.description>
+  <LotRE_PlayerColony.pawnsPlural>정착민들</LotRE_PlayerColony.pawnsPlural>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <LotRD_MountainKingdom.label>산 아래의 왕국</LotRD_MountainKingdom.label>
+  <LotRD_MountainKingdom.description>.</LotRD_MountainKingdom.description>
+  <LotRD_MountainKingdom.fixedName>산 아래의 왕국</LotRD_MountainKingdom.fixedName>
+  <LotRD_MountainKingdom.pawnsPlural>산악 드워프들</LotRD_MountainKingdom.pawnsPlural>
+  <LotRD_MountainKingdom.leaderTitle>왕</LotRD_MountainKingdom.leaderTitle>
+  <LotRD_HillClans.label>드워프 언덕 부족</LotRD_HillClans.label>
+  <LotRD_HillClans.description>.</LotRD_HillClans.description>
+  <LotRD_HillClans.fixedName>드워프 언덕 부족</LotRD_HillClans.fixedName>
+  <LotRD_HillClans.pawnsPlural>언덕 드워프들</LotRD_HillClans.pawnsPlural>
+  <LotRD_HillClans.leaderTitle>왕</LotRD_HillClans.leaderTitle>
+  <LotRD_DwarfBandits.label>드워프 산적들</LotRD_DwarfBandits.label>
+  <LotRD_DwarfBandits.description>.</LotRD_DwarfBandits.description>
+  <LotRD_DwarfBandits.fixedName>드워프 산적들</LotRD_DwarfBandits.fixedName>
+  <LotRD_DwarfBandits.pawnsPlural>산적 드워프들</LotRD_DwarfBandits.pawnsPlural>
+  <LotRD_DwarfBandits.leaderTitle>두목</LotRD_DwarfBandits.leaderTitle>
+  <LotRD_MonsterFaction.label>몬스터 팩션</LotRD_MonsterFaction.label>
+  <LotRD_MonsterFaction.description>고대의 위협</LotRD_MonsterFaction.description>
+  <LotRD_MonsterFaction.fixedName>몬스터 소굴</LotRD_MonsterFaction.fixedName>
+  <LotRD_MonsterFaction.pawnsPlural>몬스터 소굴</LotRD_MonsterFaction.pawnsPlural>
+  <LotRD_PlayerColony.label>드워프 정착지</LotRD_PlayerColony.label>
+  <LotRD_PlayerColony.description>당신의 공동체입니다.</LotRD_PlayerColony.description>
+  <LotRD_PlayerColony.pawnsPlural>드워프들</LotRD_PlayerColony.pawnsPlural>
+
+  <!--1403998409_190714_Tree People-->
+  <TreePlayerTribe.label>나무 부족</TreePlayerTribe.label>
+  <TreePlayerTribe.description>당신의 부족입니다.</TreePlayerTribe.description>
+  <TreePlayerTribe.pawnsPlural>정착민</TreePlayerTribe.pawnsPlural>
+  <TreeTribe.label>나무 부족</TreeTribe.label>
+  <TreeTribe.description>나무인간들의 부족입니다.</TreeTribe.description>
+  <TreeTribe.pawnsPlural>나무인간</TreeTribe.pawnsPlural>
+  <TreeTribe.leaderTitle>고대 나무</TreeTribe.leaderTitle>
+
+  <!--1416483638_190811_Orassans-->
+  <Orassan.label>오라산</Orassan.label>
+  <Orassan.description>작은 오라산 공동체입니다.\n\n이들은 제국의 영역을 확장하기 위해 이곳에 왔습니다.</Orassan.description>
+  <Orassan.pawnsPlural>오라산인</Orassan.pawnsPlural>
+  <Orassan.leaderTitle>통치자</Orassan.leaderTitle>
+  <OrassanPlayerColony.label>오라산 영토</OrassanPlayerColony.label>
+  <OrassanPlayerColony.description>당신을 위한 집단 입니다.</OrassanPlayerColony.description>
+  <OrassanPlayerColony.pawnsPlural>정착민</OrassanPlayerColony.pawnsPlural>
+
+  <!--1468290672_181114_Troll Race-->
+  <PlayerPTrollCamp.label>트롤 정착지</PlayerPTrollCamp.label>
+  <PlayerPTrollCamp.description>당신의 정착지입니다.</PlayerPTrollCamp.description>
+  <PlayerPTrollCamp.pawnsPlural>정착민</PlayerPTrollCamp.pawnsPlural>
+  <PTrollCamp.label>트롤 정착지</PTrollCamp.label>
+  <PTrollCamp.description>더럽고 배고픈 트롤들의 정착지입니다.</PTrollCamp.description>
+  <PTrollCamp.pawnsPlural>트롤</PTrollCamp.pawnsPlural>
+  <PTrollCamp.leaderTitle>트롤 지도자</PTrollCamp.leaderTitle>
+  <PCaveTrollCamp.label>동굴 트롤 정착지</PCaveTrollCamp.label>
+  <PCaveTrollCamp.description>더럽고 배고픈 트롤들의 동굴 정착지입니다.</PCaveTrollCamp.description>
+  <PCaveTrollCamp.pawnsPlural>동굴 트롤</PCaveTrollCamp.pawnsPlural>
+  <PCaveTrollCamp.leaderTitle>동굴 트롤 지도자</PCaveTrollCamp.leaderTitle>
+
+  <!--1514158118_190519_Avian Races-->
+  <Bird_OutlanderCivil.label>부엉이 시민 외지인 연합</Bird_OutlanderCivil.label>
+  <Bird_OutlanderCivil.description>이들은 매우 친절하며, 서로를 돕고자 합니다.</Bird_OutlanderCivil.description>
+  <Bird_OutlanderCivil.fixedName>부엉이 협동조합</Bird_OutlanderCivil.fixedName>
+  <Bird_OutlanderCivil.leaderTitle>총리 보좌관</Bird_OutlanderCivil.leaderTitle>
+  <Bird_OutlanderRough.label>거친 독수리 외지인 연합</Bird_OutlanderRough.label>
+  <Bird_OutlanderRough.description>이들은 사냥꾼들입니다.</Bird_OutlanderRough.description>
+  <Bird_OutlanderRough.fixedName>독수리 헤게모니</Bird_OutlanderRough.fixedName>
+  <Bird_OutlanderRough.leaderTitle>장군</Bird_OutlanderRough.leaderTitle>
+  <Bird_TribeCivil.label>꼬꼬 야만족</Bird_TribeCivil.label>
+  <Bird_TribeCivil.description>커다란 걸어다니는 닭처럼 보이는 부족민들입니다. 이들은 인간의 범주에는 넣을 수 없다고 여겨집니다.</Bird_TribeCivil.description>
+  <Bird_TribeCivil.fixedName>친족들과 가족들, 그리고 닭들을 위해</Bird_TribeCivil.fixedName>
+  <Bird_TribeCivil.leaderTitle>대장</Bird_TribeCivil.leaderTitle>
+  <Bird_TribeRough.label>화식조 야만전사들</Bird_TribeRough.label>
+  <Bird_TribeRough.description>흉포한 원시인들로, 매우 위험한 이들입니다. 싸움! 폭력 피! 와아아아아아!</Bird_TribeRough.description>
+  <Bird_TribeRough.fixedName>화식조 왕국</Bird_TribeRough.fixedName>
+  <Bird_TribeRough.leaderTitle>왕</Bird_TribeRough.leaderTitle>
+  <Parrot_Pirate.label>앵무새 해적단</Parrot_Pirate.label>
+  <Parrot_Pirate.description>앵무새 해적!? 갈고리와 나무다리를 단?</Parrot_Pirate.description>
+  <Parrot_Pirate.fixedName>앵무새 해적</Parrot_Pirate.fixedName>
+  <Parrot_Pirate.pawnsPlural>해적</Parrot_Pirate.pawnsPlural>
+  <Parrot_Pirate.leaderTitle>선장</Parrot_Pirate.leaderTitle>
+  <Bird_TribeCivil2.label>도도 야만족</Bird_TribeCivil2.label>
+  <Bird_TribeCivil2.description>부족민들입니다. 친절한 사람들이고, 좋은 이웃이며, 느릿한 삶을 즐깁니다.</Bird_TribeCivil2.description>
+  <Bird_TribeCivil2.fixedName>도도 마을</Bird_TribeCivil2.fixedName>
+  <Bird_TribeCivil2.leaderTitle>촌장</Bird_TribeCivil2.leaderTitle>
+  <Penguin_Pirate.label>펭귄 해적단</Penguin_Pirate.label>
+  <Penguin_Pirate.description>이들은 매우 조용하고, 은밀하게 공격합니다. 평범한 인간들은 이들을 절대 이해하거나 파악할 수 없을 것입니다.</Penguin_Pirate.description>
+  <Penguin_Pirate.fixedName>펭귄의 정화자</Penguin_Pirate.fixedName>
+  <Penguin_Pirate.pawnsPlural>해적</Penguin_Pirate.pawnsPlural>
+  <Penguin_Pirate.leaderTitle>대장</Penguin_Pirate.leaderTitle>
+  <Owl_PlayerColony.label>새로운 부엉이 도착지</Owl_PlayerColony.label>
+  <Owl_PlayerColony.description>최근 행성에 도착한 외계인들의 정착지입니다.</Owl_PlayerColony.description>
+  <Owl_PlayerColony.pawnsPlural>Owl_colonists</Owl_PlayerColony.pawnsPlural>
+  <Vulture_PlayerColony.label>새로운 독수리 도착지</Vulture_PlayerColony.label>
+  <Vulture_PlayerColony.description>최근 행성에 도착한 외계인들의 정착지입니다.</Vulture_PlayerColony.description>
+  <Vulture_PlayerColony.pawnsPlural>Vulture_colonists</Vulture_PlayerColony.pawnsPlural>
+  <Chicken_PlayerTribe.label>새로운 꼬꼬 야만족</Chicken_PlayerTribe.label>
+  <Chicken_PlayerTribe.description>작은 부족입니다.</Chicken_PlayerTribe.description>
+  <Chicken_PlayerTribe.pawnsPlural>Chicken_tribespeople</Chicken_PlayerTribe.pawnsPlural>
+  <Cassowary_PlayerTribe.label>새로운 화식조 야만족</Cassowary_PlayerTribe.label>
+  <Cassowary_PlayerTribe.description>작은 부족입니다.</Cassowary_PlayerTribe.description>
+  <Cassowary_PlayerTribe.pawnsPlural>Cassowary_tribespeople</Cassowary_PlayerTribe.pawnsPlural>
+  <Parrot_PlayerColony.label>새로운 앵무새 도착지</Parrot_PlayerColony.label>
+  <Parrot_PlayerColony.description>최근 행성에 도착한 외계인들의 정착지입니다.</Parrot_PlayerColony.description>
+  <Parrot_PlayerColony.pawnsPlural>Parrot_Pirate</Parrot_PlayerColony.pawnsPlural>
+  <Dodo_PlayerTribe.label>새로운 도도 야만족</Dodo_PlayerTribe.label>
+  <Dodo_PlayerTribe.description>작은 부족입니다.</Dodo_PlayerTribe.description>
+  <Dodo_PlayerTribe.pawnsPlural>Dodo_tribespeople</Dodo_PlayerTribe.pawnsPlural>
+  <Penguin_PlayerColony.label>새로운 펭귄 도착지</Penguin_PlayerColony.label>
+  <Penguin_PlayerColony.description>최근 행성에 도착한 외계인들의 정착지입니다.</Penguin_PlayerColony.description>
+  <Penguin_PlayerColony.pawnsPlural>Penguin_Pirate</Penguin_PlayerColony.pawnsPlural>
+
+  <!--1541567184_181112_Ni'Hal-->
+  <NiHalFaction.label>니'할 전초기지</NiHalFaction.label>
+  <NiHalFaction.description>니'할 제국의 전초기지입니다.\n\n그들은 쓰레기같은 외계종족들을 행성에서 쓸어버리기 위해 이곳에 왔습니다.</NiHalFaction.description>
+  <NiHalFaction.pawnsPlural>니'할</NiHalFaction.pawnsPlural>
+  <NiHalFaction.leaderTitle>정화자</NiHalFaction.leaderTitle>
+  <NiHalPlayerColony.label>니'할의 영토</NiHalPlayerColony.label>
+  <NiHalPlayerColony.description>당신의 정착지입니다.</NiHalPlayerColony.description>
+  <NiHalPlayerColony.pawnsPlural>정착민</NiHalPlayerColony.pawnsPlural>
+
+  <!--1543164737_190714_Lanius-->
+  <LaniusFaction.label>라니우스의 동굴</LaniusFaction.label>
+  <LaniusFaction.description>패턴이 반복되면서 구성요소가 정렬되었습니다.</LaniusFaction.description>
+  <LaniusFaction.pawnsPlural>라니우스라인</LaniusFaction.pawnsPlural>
+  <LaniusFaction.leaderTitle>케찰코아틀</LaniusFaction.leaderTitle>
+  <LaniusPlayerColony.label>라니 부족</LaniusPlayerColony.label>
+  <LaniusPlayerColony.description>그들은 숨을 빼았습니다.</LaniusPlayerColony.description>
+  <LaniusPlayerColony.pawnsPlural>라니</LaniusPlayerColony.pawnsPlural>
+
+  <!--1543896230_190714_Playable Feral Orkz-->
+  <OrkPlayerColonyTribal.label>오크 부족</OrkPlayerColonyTribal.label>
+  <OrkPlayerColonyTribal.description>오크 부족 시작.</OrkPlayerColonyTribal.description>
+  <OrkPlayerColonyTribal.pawnsPlural>보이즈</OrkPlayerColonyTribal.pawnsPlural>
+  <OrkPlayerColonyTribalNoWeirdboyz.label>오크 부족</OrkPlayerColonyTribalNoWeirdboyz.label>
+  <OrkPlayerColonyTribalNoWeirdboyz.description>오크 부족 시작.</OrkPlayerColonyTribalNoWeirdboyz.description>
+  <OrkPlayerColonyTribalNoWeirdboyz.pawnsPlural>보이즈</OrkPlayerColonyTribalNoWeirdboyz.pawnsPlural>
+  <GrotPlayerColonyTribal.label>그롯 부족</GrotPlayerColonyTribal.label>
+  <GrotPlayerColonyTribal.description>그롯 부족 시작.</GrotPlayerColonyTribal.description>
+  <GrotPlayerColonyTribal.pawnsPlural>기츠</GrotPlayerColonyTribal.pawnsPlural>
+  <FeralOrkFaction.label>야생 오크 군단</FeralOrkFaction.label>
+  <FeralOrkFaction.description>야생 오크, 또는 와일드 보이즈(Wildboyz)는 우주에서 발생하는 오크 와아아아!(Ork WAAAGH!)에서 발생한 오크들입니다. 산업화 이전 수준의 기술과 문명만을 보유하고있지만, 매우 공격적입니다. 야생의 오크들은 언제나 와아아아! 이후에 나타납니다. 이미 한 행성을 점령했다면, 이들은 다시 다른 전투를 하기 위해 이동합니다. 대게 야생의 오크들은 우주에서 태어난 오크들이 방출한 곰팡이 번식 포자에서 자라난 새로운 오크 세대이며, 우주의 오크들이 이들을 버려둔 채 행성에 남겨지게된 개체들입니다.\n\n야생의 오크들은 우주 오크들로부터 파생되어 고립되어 발전된 기술에 대한 지식을 모두 잃은 채 야생 상태로 돌아다닙니다. 야생 오크들은 그들의 동족 그린스킨들보다 발전되지는 못했지만, 이들의 무기는 다양한 지역들로부터 노획해온... 사실상 그냥 쓸어담다시키 마구잡이로 주워온 쓰레기들을 덕지덕지 붙여놓은 형태입니다. 하지만 이 중 상당수는 실제로 적에게 물리적인 피해를 줄 수 있을만큼 정상적으로 작동하며, 이는 아무리 난장판으로 설계된 무기라도, 오크가 그것이 작동될 것이라고 믿으면 실제로 그렇게 되기 때문입니다.</FeralOrkFaction.description>
+  <FeralOrkFaction.pawnsPlural>야생 오크들</FeralOrkFaction.pawnsPlural>
+  <FeralOrkFaction.leaderTitle>야생 워보스</FeralOrkFaction.leaderTitle>
+
+  <!--1545178908_190519_Callistans(1.0)-->
+  <Callistan.label>캘리스탄 분해자</Callistan.label>
+  <Callistan.description>캘리스탄 분해자의 작은 공동체.\n\n이 사람들은 사냥과 재료 탐색을 위해 이곳을 방문했습니다.</Callistan.description>
+  <Callistan.pawnsPlural>캘리스탄</Callistan.pawnsPlural>
+  <Callistan.leaderTitle>하얀 송곳니</Callistan.leaderTitle>
+  <CallistanPlayerColony.label>캘리스탄 연방</CallistanPlayerColony.label>
+  <CallistanPlayerColony.description>당신의 공동체입니다.</CallistanPlayerColony.description>
+  <CallistanPlayerColony.pawnsPlural>정착민</CallistanPlayerColony.pawnsPlural>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <RRY_Xenomorph.label>제노모프 둥지</RRY_Xenomorph.label>
+  <RRY_Xenomorph.fixedName>제노모프의 둥지입니다.</RRY_Xenomorph.fixedName>
+  <RRY_Xenomorph.pawnsPlural>제노모프</RRY_Xenomorph.pawnsPlural>
+  <RRY_Yautja_PlayerColony.label>야우차 정착지</RRY_Yautja_PlayerColony.label>
+  <RRY_Yautja_PlayerColony.description>야우차 정착지로 시작합니다.</RRY_Yautja_PlayerColony.description>
+  <RRY_Yautja_PlayerColony.pawnsPlural>야우차(Yautja)</RRY_Yautja_PlayerColony.pawnsPlural>
+  <RRY_Yautja_PlayerUnblooded.label>야우차 신병(Unblooded)</RRY_Yautja_PlayerUnblooded.label>
+  <RRY_Yautja_PlayerUnblooded.description>첫 자율 사냥을 진행할 준비가 되었다고 간주되면, 당신은 알려지지 않은 행성으로 보내져 첫 번째 사냥을 끝마치고 자신의 뜻에 따라 부족들에게로 돌아가야 할 것입니다. 불명예 보다는 죽음을.</RRY_Yautja_PlayerUnblooded.description>
+  <RRY_Yautja_PlayerUnblooded.pawnsPlural>야우차(Yautja)</RRY_Yautja_PlayerUnblooded.pawnsPlural>
+  <RRY_Yautja_PlayerBlooded.label>야우차 훈련병(Blooded)</RRY_Yautja_PlayerBlooded.label>
+  <RRY_Yautja_PlayerBlooded.description>새로운 사냥터를 찾기 위한 정찰임무를 수행하던 중, 당신의 함선에 알 수 없는 폭발이 일어나 5명 밖에는 살아남지 못했습니다. 선택의 여지가 없어, 당신은 어쩔 수 없이 알려지지 않은 변방계에 착륙하였고, 당신의 부족으로 돌아가기 위해 노력하면서 새로운 위험을 극복해야만 합니다.</RRY_Yautja_PlayerBlooded.description>
+  <RRY_Yautja_PlayerBlooded.pawnsPlural>야우차(Yautja)</RRY_Yautja_PlayerBlooded.pawnsPlural>
+  <RRY_Yautja_PlayerBlooding.label>야우차 신병(Unblooded)</RRY_Yautja_PlayerBlooding.label>
+  <RRY_Yautja_PlayerBlooding.description>첫 자율 사냥을 진행할 준비가 되었다고 간주되면, 당신은 알려지지 않은 행성으로 보내져 첫 번째 사냥을 끝마치고 자신의 뜻에 따라 부족들에게로 돌아가야 할 것입니다. 불명예 보다는 죽음을.</RRY_Yautja_PlayerBlooding.description>
+  <RRY_Yautja_PlayerBlooding.pawnsPlural>야우차(Yautja)</RRY_Yautja_PlayerBlooding.pawnsPlural>
+  <RRY_Yautja_JungleClan.label>야우차(Yautja) 정글 부족</RRY_Yautja_JungleClan.label>
+  <RRY_Yautja_JungleClan.description>정글 부족은 모든 야우차 부족들 중 가장 흔하고 많이 볼 수 있는 이들일 것입니다. 이들은 엄격한 규율을 가진 무자비한 사냥꾼들입니다. 이들의 명예에 대한 탐구는 끝이 없으며, 막을 수 없습니다. 이들의 사냥으로부터 살아남을 수 있는 사람은 거의 없습니다.</RRY_Yautja_JungleClan.description>
+  <RRY_Yautja_JungleClan.pawnsPlural>야우치(Yautji)</RRY_Yautja_JungleClan.pawnsPlural>
+  <RRY_Yautja_JungleClan.leaderTitle>정글 부족 엘더</RRY_Yautja_JungleClan.leaderTitle>
+  <RRY_Yautja_BadBloodFaction.label>야우차 배드블러드</RRY_Yautja_BadBloodFaction.label>
+  <RRY_Yautja_BadBloodFaction.description>배드 블러드는 배신자, 버려진 자, 그리고 가장 최악일 경우 야우차 사회에서 불명예를 얻은 이들입니다. 이들은 일족으로부터 버림받았으며, 앙심을 품고 사냥감이 되어 쫓기게 됩니다. 이들은 생과 사냥에 대한 의지를 제외하면 어떠한 규칙이나 주인도 없는 혼돈 속에서 살아갑니다. 이들은 아우차 사회를 구성하는 어떤 명예나 규율도 따르지 않으며, 이들의 존재는 부족에게 있어 모욕으로 간주됩니다.</RRY_Yautja_BadBloodFaction.description>
+  <RRY_Yautja_BadBloodFaction.pawnsPlural>배드블러드 야우치(Yautji)</RRY_Yautja_BadBloodFaction.pawnsPlural>
+  <RRY_Yautja_BadBloodFaction.leaderTitle>배드블러드 야우치(Yautji)</RRY_Yautja_BadBloodFaction.leaderTitle>
+
+  <!--1571323744_190714_Crystalloid (Rewrite)-->
+  <PlayerCrystalloidColony.label>크리스탈로이드 정착지</PlayerCrystalloidColony.label>
+  <PlayerCrystalloidColony.description>당신의 변절한 크리스탈로이드 공동체입니다.</PlayerCrystalloidColony.description>
+  <PlayerCrystalloidColony.pawnsPlural>정착민</PlayerCrystalloidColony.pawnsPlural>
+  <FriendlyConstruct.label>아군 건설지</FriendlyConstruct.label>
+  <FriendlyConstruct.description>정착지가 소유하고있는 건설지입니다.</FriendlyConstruct.description>
+  <FriendlyConstruct.fixedName>건설지</FriendlyConstruct.fixedName>
+  <FriendlyConstruct.pawnsPlural>건설지</FriendlyConstruct.pawnsPlural>
+  <Crystal.label>크리스탈 공동체</Crystal.label>
+  <Crystal.description>사이오닉 군체의식으로 연결된 크리스탈 외계인의 건설지입니다.</Crystal.description>
+  <Crystal.fixedName>크리스탈 공동체</Crystal.fixedName>
+  <Crystal.pawnsPlural>크리스탈로이드</Crystal.pawnsPlural>
+
+  <!--1573177939_181125_Ratkin Backup-->
+  <RGK_FAC_Ratplayer.label>새로운 시작</RGK_FAC_Ratplayer.label>
+  <RGK_FAC_Ratplayer.description>랫킨 정착지</RGK_FAC_Ratplayer.description>
+  <RGK_FAC_Ratplayer.pawnsPlural>랫킨들</RGK_FAC_Ratplayer.pawnsPlural>
+
+  <!--1632244750_190708_Oni of the Rim-->
+  <OniSpacer.label>돌아온 발톱들</OniSpacer.label>
+  <OniSpacer.description>오니 종족으로만 구성된 신비로운 우주인들입니다. 이들은 많이 알려지진 않았지만, 다른 모든 이들과 통신을 거부하며 지상에 있는 자신들 종족의 부족들에게 일어나는 일들을 관찰하면서 각종 변방계 궤도에 숨어있습니다.</OniSpacer.description>
+  <OniSpacer.fixedName>돌아온 발톱들</OniSpacer.fixedName>
+  <OniSpacer.pawnsPlural>광신자</OniSpacer.pawnsPlural>
+  <OniFreeborn.label>오니 자유민 부족</OniFreeborn.label>
+  <OniFreeborn.description>탐색되고 발견된 신비로운 오니 부족입니다.</OniFreeborn.description>
+  <OniFreeborn.pawnsPlural>오니</OniFreeborn.pawnsPlural>
+  <OniFreeborn.leaderTitle>족장</OniFreeborn.leaderTitle>
+  <OniPlayerColony.label>오니 정착지</OniPlayerColony.label>
+  <OniPlayerColony.description>당신의 오니 정착지입니다.</OniPlayerColony.description>
+  <OniPlayerColony.pawnsPlural>오니</OniPlayerColony.pawnsPlural>
+  <OniTPlayerColony.label>오니 부족</OniTPlayerColony.label>
+  <OniTPlayerColony.description>당신의 오니 부족입니다.</OniTPlayerColony.description>
+  <OniTPlayerColony.pawnsPlural>오니</OniTPlayerColony.pawnsPlural>
+
+  <!--1706345856_190811_Warhammer Skaven-->
+  <EshinFaction.label>스케이븐 상인</EshinFaction.label>
+  <EshinFaction.description>자유로운 상인 클랜입니다. 이 스케이븐들은 스케이븐 치고는 다른 종족들과 다소 우호적이며, 중립적인 태도를 유지하려는 경향이 있습니다.</EshinFaction.description>
+  <EshinFaction.fixedName>클랜 상인</EshinFaction.fixedName>
+  <EshinFaction.leaderTitle>클린 리더</EshinFaction.leaderTitle>
+  <SkavenPlayerFaction.label>스케이븐 정착지</SkavenPlayerFaction.label>
+  <SkavenPlayerFaction.description>스케이븐의 정착지입니다.</SkavenPlayerFaction.description>
+  <UnderEmpireFaction.label>스케이븐 제국</UnderEmpireFaction.label>
+  <UnderEmpireFaction.description>스케이븐 사회의 최전선에 위치한 지하제국입니다. 워로드 클랜 아래에서 낙오한 스케이븐들이 거대 클랜을 이루어 변방계로 흘러들어왔습니다.</UnderEmpireFaction.description>
+  <UnderEmpireFaction.fixedName>지하제국</UnderEmpireFaction.fixedName>
+  <UnderEmpireFaction.pawnsPlural>스케이븐</UnderEmpireFaction.pawnsPlural>
+  <UnderEmpireFaction.leaderTitle>워로드</UnderEmpireFaction.leaderTitle>
+
+  <!--1726422863_190519_Creatures of Ki-->
+  <KijaOutcast.label>키자 외지인</KijaOutcast.label>
+  <KijaOutcast.description>한 무리의 키자 외지인들이 나타났습니다.</KijaOutcast.description>
+  <KijaOutcast.pawnsPlural>키자</KijaOutcast.pawnsPlural>
+  <KijaColonyPlayer.label>새로운 키자</KijaColonyPlayer.label>
+  <KijaColonyPlayer.description>당신만의 새로운 키자 개척지입니다.</KijaColonyPlayer.description>
+  <KijaColonyPlayer.pawnsPlural>개척민</KijaColonyPlayer.pawnsPlural>
+
+  <!--1728999127_190813_Forsakens-->
+  <Forsakens.label>버림받은 자들 연합체</Forsakens.label>
+  <Forsakens.description>...</Forsakens.description>
+  <Forsakens.pawnsPlural>버림받은 자들</Forsakens.pawnsPlural>
+  <Forsakens.leaderTitle>잊혀진 자들의 왕</Forsakens.leaderTitle>
+  <ForsakenPlayerColony.label>버림받은 자들 연합체</ForsakenPlayerColony.label>
+  <ForsakenPlayerColony.description>.....</ForsakenPlayerColony.description>
+  <ForsakenPlayerColony.pawnsPlural>정착민</ForsakenPlayerColony.pawnsPlural>
+
+  <!--1785657108_190811_Humanoid Project-->
+  <CorvianEmpire.label>아비안 정착지</CorvianEmpire.label>
+  <CorvianEmpire.description>아비안의 정착지입니다. 그들의 벽 뒤에서 무슨 일이 일어나는지는 아무도 모릅니다.</CorvianEmpire.description>
+  <CorvianEmpire.fixedName>아비안 자치령</CorvianEmpire.fixedName>
+  <CorvianEmpire.pawnsPlural>아비안 병사</CorvianEmpire.pawnsPlural>
+  <CorvianEmpire.leaderTitle>워밀리아</CorvianEmpire.leaderTitle>
+  <MagmaEmpire.label>볼카니안 정착지</MagmaEmpire.label>
+  <MagmaEmpire.description>볼카니안의 정착지입니다. 이들은 대체로 친절한 종족이지만, 위협을 받으면 결코 만만치않은 전투력을 결집시킬 수 있습니다.</MagmaEmpire.description>
+  <MagmaEmpire.fixedName>볼카니안 자치령</MagmaEmpire.fixedName>
+  <MagmaEmpire.pawnsPlural>볼카니안 병사</MagmaEmpire.pawnsPlural>
+  <MagmaEmpire.leaderTitle>데보런트</MagmaEmpire.leaderTitle>
+
+  <!--882126182_181000_Call of Cthulhu - Elder Things-->
+  <ElderThing_Faction.label>태고의 존재 사회</ElderThing_Faction.label>
+  <ElderThing_Faction.description>이 사회는 그들의 노예가 반란을 일으켰을 때 세상을 잃어버린 살아남은 외계인들이 모여 만들어졌습니다. 그 후로 그들은 정착지화 할 새로운 세계를 찾기 위해 이 공간을 차지했습니다.\n\n이들은 아름다운 예술작품과 넓은 실내에서 번창합니다. 그들은 또한 노예가 그들에게 평범한 임무를 수행하는 대신에 물건을 거래하는 것을 즐깁니다. 두꺼운 피부가 대부분의 피해를 막아내기 때문에 적을 처치하기 위한 무기를 발달시키지 않았으며, 대부분 사이오닉 공격으로 적을 충분히 압도할 수 있습니다.</ElderThing_Faction.description>
+  <ElderThing_Faction.fixedName>태고의 존재들 사회</ElderThing_Faction.fixedName>
+  <ElderThing_Faction.pawnsPlural>태고의 존재</ElderThing_Faction.pawnsPlural>
+  <ElderThing_Faction.leaderTitle>아르체치논(archechinon)</ElderThing_Faction.leaderTitle>
+  <PlayerElderThings.label>태고의 존재 생존자</PlayerElderThings.label>
+  <PlayerElderThings.description>당신의 정착지.</PlayerElderThings.description>
+  <PlayerElderThings.pawnsPlural>정착민</PlayerElderThings.pawnsPlural>
+
+</LanguageData>

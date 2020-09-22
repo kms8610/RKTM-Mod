@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BasicProsthetics.label>기본 보철물</BasicProsthetics.label>
+  <BasicProsthetics.description>인체의 모형을 이해하고 그 지식을 목공과 결합하여 기본적인 보철물을 만들 수 있습니다.</BasicProsthetics.description>
+  <SurrogateOrgans.label>생체조직 프린터</SurrogateOrgans.label>
+  <SurrogateOrgans.description>높은 수준의 의료 지식을 통해 손상된 장기를 대체할 수 있는 유지장치를 만들 수 있습니다.</SurrogateOrgans.description>
+  <RibReplacements.label>갈비뼈 대체</RibReplacements.label>
+  <RibReplacements.description>매우 작은 배급기를 갈비뼈에 넣어 볼 생각을 합니다.</RibReplacements.description>
+  <AdvancedBionics.label>고급 생체공학</AdvancedBionics.label>
+  <AdvancedBionics.description>일반 생체공학품을 고급부품으로 더 강화할 수 있으며, 생체공학 작업대에서 계획서가 추가됩니다.</AdvancedBionics.description>
+  <SyntheticOrgans.label>인공 장기</SyntheticOrgans.label>
+  <SyntheticOrgans.description>미소 기술의 더 깊은 연구를 통해 놀랍도록 잘 만들어진 인공 장기를 만들 수 있으며, 생체조직 프린터에서 계획서가 추가됩니다.</SyntheticOrgans.description>
+  <BrainSurgery.label>뇌 수술</BrainSurgery.label>
+  <BrainSurgery.description>뇌 수술을 할 수 있게 됩니다.</BrainSurgery.description>
+
+</LanguageData>

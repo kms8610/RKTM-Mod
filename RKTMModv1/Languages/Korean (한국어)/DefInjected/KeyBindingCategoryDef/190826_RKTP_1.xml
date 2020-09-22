@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1127530465_181027_Rimatomics-->
+  <Architect_Rimatomics.description>구상 메뉴의 "림아토믹"에 대한 단축키입니다</Architect_Rimatomics.description>
+  <Architect_Rimatomics.label>림아토믹 탭</Architect_Rimatomics.label>
+
+  <!--1140051385_181113_Smokeleaf_Industry-->
+  <Architect_MSI.description>구상 메뉴의 "연초잎 산업"에 대한 단축키입니다</Architect_MSI.description>
+  <Architect_MSI.label>연초잎 산업 탭</Architect_MSI.label>
+
+  <!--1355637255_190627_Room Sense-->
+  <RoomSense.label>방 감지</RoomSense.label>
+  <RoomSense.description>방 감지 모드의 바로가기 입니다.</RoomSense.description>
+
+  <!--1414438179_181027_ProjectRimFactory-->
+  <Architect_Automation.label>자동화 탭</Architect_Automation.label>
+  <Architect_Automation.description>구상 메뉴의 "자동화"에 대한 단축키입니다</Architect_Automation.description>
+
+  <!--1420979918_190627_Buildable Terrain-->
+  <Architect_terraforming.description>구상 메뉴의 "테라포밍"에 대한 단축키입니다</Architect_terraforming.description>
+  <Architect_terraforming.label>테라포밍</Architect_terraforming.label>
+
+  <!--1447372624_190816_Nano Repair Tech-->
+  <Architect_Ogre_NanoRepairTech_DesignationCategory.description>구상 메뉴의 "나노기술"에 대한 단축키입니다</Architect_Ogre_NanoRepairTech_DesignationCategory.description>
+  <Architect_Ogre_NanoRepairTech_DesignationCategory.label>나노기술</Architect_Ogre_NanoRepairTech_DesignationCategory.label>
+
+  <!--1505914869_190616_What the hack!-->
+  <Architect_WTH_Hacking.label>해킹</Architect_WTH_Hacking.label>
+  <Architect_WTH_Hacking.description>구상 메뉴의 "해킹"에 대한 단축키입니다</Architect_WTH_Hacking.description>
+
+  <!--1539311500_181027_Fertile Fields-->
+  <Architect_RFF_Farm.label>농사 탭</Architect_RFF_Farm.label>
+  <Architect_RFF_Farm.description>구상 메뉴의 "농사"에 대한 단축키입니다</Architect_RFF_Farm.description>
+  <Architect_RFF_Adds.description>구상 메뉴의 "지형 재구성"에 대한 단축키입니다</Architect_RFF_Adds.description>
+  <Architect_RFF_Adds.label>지형 재구성 탭</Architect_RFF_Adds.label>
+
+  <!--1541728186_181023_Floor Lights-->
+  <Architect_Lamps.description>구상 메뉴의 "조명"에 대한 단축키입니다</Architect_Lamps.description>
+  <Architect_Lamps.label>조명</Architect_Lamps.label>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Architect_Mizu.description>구상 메뉴의 "물"에 대한 단축키입니다</Architect_Mizu.description>
+  <Architect_Mizu.label>물</Architect_Mizu.label>
+
+  <!--1543561093_190621_MoreFloors-->
+  <Architect_MoreFloors.label>추가 바닥</Architect_MoreFloors.label>
+  <Architect_MoreFloors.description>구상 메뉴의 "추가 바닥"에 대한 단축키입니다</Architect_MoreFloors.description>
+
+  <!--1544944259_190628_More Furniture-->
+  <Architect_ANON2MF.label>가구+ 탭</Architect_ANON2MF.label>
+  <Architect_ANON2MF.description>구상 메뉴의 "가구+"에 대한 단축키입니다</Architect_ANON2MF.description>
+
+  <!--1545160307_190526_Glowstone-->
+  <Architect_GLO_Glowstone.label>발광석 탭</Architect_GLO_Glowstone.label>
+  <Architect_GLO_Glowstone.description>구상탭의 발광석탭 키설정</Architect_GLO_Glowstone.description>
+
+  <!--1547692203_190621_Fences And Floors-->
+  <Architect_Fences.label>울타리</Architect_Fences.label>
+  <Architect_Fences.description>구상 메뉴의 "울타리"에 대한 단축키입니다</Architect_Fences.description>
+
+  <!--1551135830_190814_RedistHeat-->
+  <Architect_Ductwork.label>환기배관</Architect_Ductwork.label>
+  <Architect_Ductwork.description>구상 메뉴의 "환기배관"에 대한 단축키입니다</Architect_Ductwork.description>
+
+  <!--1565942758_190818_Colony Leadership-->
+  <Architect_LeadershipModTab.description>구상 메뉴의 "리더십"에 대한 단축키입니다</Architect_LeadershipModTab.description>
+  <Architect_LeadershipModTab.label>리더십</Architect_LeadershipModTab.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <Architect_ReligionBuildings.description>구상 메뉴의 종교에 대한 목록입니다.</Architect_ReligionBuildings.description>
+  <Architect_ReligionBuildings.label>종교 탭</Architect_ReligionBuildings.label>
+
+  <!--1714572710_190606_Rimstro-->
+  <Architect_RS_Category.description>구상 메뉴의 "림스트로"에 대한 단축키입니다</Architect_RS_Category.description>
+  <Architect_RS_Category.label>림스트로</Architect_RS_Category.label>
+
+  <!--1715402900_190519_Replimat-->
+  <Architect_Replimat_Replimat.description>구상 메뉴의 '레플리맷' 부분에 대한 키 바인딩입니다.</Architect_Replimat_Replimat.description>
+  <Architect_Replimat_Replimat.label>레플리맷 탭</Architect_Replimat_Replimat.label>
+
+  <!--1718190143_190519_Vanilla Furniture Expanded-->
+  <Architect_AOMorefurniture.label>가구 확장</Architect_AOMorefurniture.label>
+  <Architect_AOMorefurniture.description>구상 메뉴의 "가구 확장"에 대한 단축키입니다.</Architect_AOMorefurniture.description>
+
+  <!--708455313_181029_BluePrint-->
+  <Architect_Blueprints.label>청사진</Architect_Blueprints.label>
+  <Architect_Blueprints.description>구상 메뉴의 "청사진"에 대한 단축키입니다</Architect_Blueprints.description>
+
+  <!--732569232_190814_Medieval Times-->
+  <Architect_MedTimes_Medieval.description>구상 메뉴의 "중세"에 대한 단축키입니다</Architect_MedTimes_Medieval.description>
+  <Architect_MedTimes_Medieval.label>중세 탭</Architect_MedTimes_Medieval.label>
+
+  <!--761219125_181029_Defensive Positions-->
+  <DefensivePositions.label>Defensive Positions</DefensivePositions.label>
+  <DefensivePositions.description>방어진형으로 바로 보내는 모드</DefensivePositions.description>
+
+  <!--763943290_190526_sd_goodnight-->
+  <Architect_sd_beds.label>침대 탭</Architect_sd_beds.label>
+  <Architect_sd_beds.description>건설 메뉴 "침대" 칸의 키 설정</Architect_sd_beds.description>
+
+  <!--769201959_190626_RIMKea-->
+  <Architect_RIMkea.description>구상 메뉴의 "림케아"에 대한 단축키입니다</Architect_RIMkea.description>
+  <Architect_RIMkea.label>림케아</Architect_RIMkea.label>
+
+  <!--833899765_190814_Dubs Skylights-->
+  <Architect_skylights.description>구상 메뉴의 "채광창"에 대한 단축키입니다</Architect_skylights.description>
+  <Architect_skylights.label>채광창</Architect_skylights.label>
+
+  <!--881100382_190628_More Planning-->
+  <Architect_Planning.description>구상 메뉴의 "계획"에 대한 단축키입니다</Architect_Planning.description>
+  <Architect_Planning.label>계획</Architect_Planning.label>
+
+  <!--88771613_190626_WM Smarter food selection8-->
+  <WMSFS_KeyBindings.description>스마터 푸드 셀렉션에 관련된 키 바인딩.</WMSFS_KeyBindings.description>
+
+  <!--88771613_190626_WM Smarter food selection9-->
+  <WMSFS_KeyBindings.label>WM 스마터 푸드 셀렉션</WMSFS_KeyBindings.label>
+
+  <!--973091113_190622_Centralized Climate Control-->
+  <Architect_CentralClimateControl.label>냉난방 시스템</Architect_CentralClimateControl.label>
+  <Architect_CentralClimateControl.description>구상 메뉴의 "냉난방 시스템"에 대한 단축키입니다</Architect_CentralClimateControl.description>
+
+  <!-- What The Hack?! -->
+  <Architect_Hacking.label>해킹 탭</Architect_Hacking.label>
+  <Architect_Hacking.description>구상 메뉴의 '해킹' 부분에 대한 키 바인딩입니다.</Architect_Hacking.description>
+
+</LanguageData>

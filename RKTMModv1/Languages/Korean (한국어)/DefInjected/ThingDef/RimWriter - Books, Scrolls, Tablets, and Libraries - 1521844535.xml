@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jecrell_Bookcase.label>높은 책장</Jecrell_Bookcase.label>
+  <Jecrell_Bookcase.description>책을 보관하고 목록으로 만드는 데 사용됩니다.</Jecrell_Bookcase.description>
+  <Jecrell_Bookcase_Blueprint.label>높은 책장 (청사진)</Jecrell_Bookcase_Blueprint.label>
+  <Jecrell_Bookcase_Frame.label>높은 책장 (건설 중)</Jecrell_Bookcase_Frame.label>
+  <Jecrell_Bookcase_Frame.description>책을 보관하고 목록으로 만드는 데 사용됩니다.</Jecrell_Bookcase_Frame.description>
+  <Jecrell_BookcaseShort.label>낮은 책장</Jecrell_BookcaseShort.label>
+  <Jecrell_BookcaseShort.description>책을 보관하고 목록으로 만드는 데 사용됩니다.</Jecrell_BookcaseShort.description>
+  <Jecrell_BookcaseShort_Blueprint.label>낮은 책장 (청사진)</Jecrell_BookcaseShort_Blueprint.label>
+  <Jecrell_BookcaseShort_Frame.label>낮은 책장 (건설 중)</Jecrell_BookcaseShort_Frame.label>
+  <Jecrell_BookcaseShort_Frame.description>책을 보관하고 목록으로 만드는 데 사용됩니다.</Jecrell_BookcaseShort_Frame.description>
+  <Jecrell_Book.label>책</Jecrell_Book.label>
+  <Jecrell_Book.description>페이지의 모음입니다.</Jecrell_Book.description>
+  <Jecrell_Guidebook.label>기술서</Jecrell_Guidebook.label>
+  <Jecrell_Guidebook.description>정착민의 전문성과 기술 향상에 도움이 되는 기술서입니다.</Jecrell_Guidebook.description>
+  <Jecrell_StoneShelf.label>석재 책꽂이</Jecrell_StoneShelf.label>
+  <Jecrell_StoneShelf.description>판이나 잡동사니들을 담을 수 있는 돌 선반입니다. 여기에 저장된 항목은 실외에서도 손상되지 않습니다.</Jecrell_StoneShelf.description>
+  <Jecrell_StoneShelf_Blueprint.label>석재 책꽂이 (청사진)</Jecrell_StoneShelf_Blueprint.label>
+  <Jecrell_StoneShelf_Blueprint_Install.label>석재 책꽂이 (청사진)</Jecrell_StoneShelf_Blueprint_Install.label>
+  <Jecrell_StoneShelf_Frame.label>석재 책꽂이 (건설 중)</Jecrell_StoneShelf_Frame.label>
+  <Jecrell_StoneShelf_Frame.description>판이나 잡동사니들을 담을 수 있는 돌 선반입니다. 여기에 저장된 항목은 실외에서도 손상되지 않습니다.</Jecrell_StoneShelf_Frame.description>
+  <Jecrell_BookJournal.label>학술지</Jecrell_BookJournal.label>
+  <Jecrell_BookJournal.description>분류되어 모은 학술지 페이지.</Jecrell_BookJournal.description>
+  <Jecrell_Paper.label>종이</Jecrell_Paper.label>
+  <Jecrell_Paper.description>목재로 만들어져 책을 만드는 데 쓰는 재료입니다.</Jecrell_Paper.description>
+  <Jecrell_Parchment.label>양피지</Jecrell_Parchment.label>
+  <Jecrell_Parchment.description>모피나 가죽으로 만들어져 책을 만드는 데 쓰는 오래 보존할 수 있는 재료입니다.</Jecrell_Parchment.description>
+  <Jecrell_ClothPaper.label>천 종이</Jecrell_ClothPaper.label>
+  <Jecrell_ClothPaper.description>직물 종이나 넝마 종이라고도 종종 부르는, 섬유로 만들어져 책을 만드는 데 쓰는 오래 보존할 수 있는 재료입니다.</Jecrell_ClothPaper.description>
+  <RimWriter_PapermakingBench.label>제지 작업대</RimWriter_PapermakingBench.label>
+  <RimWriter_PapermakingBench.description>종이를 만들 수 있는 작업대입니다. 다양한 종류의 종이, 양피지 등을 만들기 위한 수동 분쇄기, 반죽 수집기, 종이 틀, 종이 압착기 등 다양한 도구를 포함하고 있습니다.</RimWriter_PapermakingBench.description>
+  <RimWriter_PapermakingBench_Blueprint.label>제지 작업대 (청사진)</RimWriter_PapermakingBench_Blueprint.label>
+  <RimWriter_PapermakingBench_Blueprint_Install.label>제지 작업대 (청사진)</RimWriter_PapermakingBench_Blueprint_Install.label>
+  <RimWriter_PapermakingBench_Frame.label>제지 작업대 (건설 중)</RimWriter_PapermakingBench_Frame.label>
+  <RimWriter_PapermakingBench_Frame.description>종이를 만들 수 있는 작업대입니다. 다양한 종류의 종이, 양피지 등을 만들기 위한 수동 분쇄기, 반죽 수집기, 종이 틀, 종이 압착기 등 다양한 도구를 포함하고 있습니다.</RimWriter_PapermakingBench_Frame.description>
+  <RimWriter_PapermakingBenchElectric.label>전기 제지 작업대</RimWriter_PapermakingBenchElectric.label>
+  <RimWriter_PapermakingBenchElectric.description>종이를 만들 수 있는 작업대입니다. 반죽 수집기, 종이 틀, 종이 압착기가 포함되어 있습니다.</RimWriter_PapermakingBenchElectric.description>
+  <RimWriter_PapermakingBenchElectric_Blueprint.label>전기 제지 작업대 (청사진)</RimWriter_PapermakingBenchElectric_Blueprint.label>
+  <RimWriter_PapermakingBenchElectric_Blueprint_Install.label>전기 제지 작업대 (청사진)</RimWriter_PapermakingBenchElectric_Blueprint_Install.label>
+  <RimWriter_PapermakingBenchElectric_Frame.label>전기 제지 작업대 (건설 중)</RimWriter_PapermakingBenchElectric_Frame.label>
+  <RimWriter_PapermakingBenchElectric_Frame.description>종이를 만들 수 있는 작업대입니다. 반죽 수집기, 종이 틀, 종이 압착기가 포함되어 있습니다.</RimWriter_PapermakingBenchElectric_Frame.description>
+  <Jecrell_Scrollcase.label>높은 두루마리 보관대</Jecrell_Scrollcase.label>
+  <Jecrell_Scrollcase.description>두루마리를 보관하고 목록으로 만드는 데 사용됩니다.</Jecrell_Scrollcase.description>
+  <Jecrell_Scrollcase_Blueprint.label>높은 두루마리 보관대 (청사진)</Jecrell_Scrollcase_Blueprint.label>
+  <Jecrell_Scrollcase_Frame.label>높은 두루마리 보관대 (건설 중)</Jecrell_Scrollcase_Frame.label>
+  <Jecrell_Scrollcase_Frame.description>두루마리를 보관하고 목록으로 만드는 데 사용됩니다.</Jecrell_Scrollcase_Frame.description>
+  <Jecrell_ScrollcaseShort.label>낮은 두루마리 보관대</Jecrell_ScrollcaseShort.label>
+  <Jecrell_ScrollcaseShort.description>두루마리를 보관하고 목록으로 만드는 데 사용됩니다.</Jecrell_ScrollcaseShort.description>
+  <Jecrell_ScrollcaseShort_Blueprint.label>낮은 두루마리 보관대 (청사진)</Jecrell_ScrollcaseShort_Blueprint.label>
+  <Jecrell_ScrollcaseShort_Frame.label>낮은 두루마리 보관대 (건설 중)</Jecrell_ScrollcaseShort_Frame.label>
+  <Jecrell_ScrollcaseShort_Frame.description>두루마리를 보관하고 목록으로 만드는 데 사용됩니다.</Jecrell_ScrollcaseShort_Frame.description>
+  <Jecrell_LeatherScroll.label>두루마리</Jecrell_LeatherScroll.label>
+  <Jecrell_LeatherScroll.description>정착지에서 일어난 일들이 적힌 두루마리입니다.</Jecrell_LeatherScroll.description>
+  <Jecrell_Skillbook.label>기술서</Jecrell_Skillbook.label>
+  <Jecrell_Skillbook.description>정착민의 전문성과 기술 향상에 도움이 되는 기술서입니다.</Jecrell_Skillbook.description>
+  <Jecrell_Tablet.label>석판</Jecrell_Tablet.label>
+  <Jecrell_Tablet.description>돌을 깎아 만든 판에 정착지에서 일어난 일들이 적혀 있습니다.</Jecrell_Tablet.description>
+  <UnfinishedWriting.label>완성되지 않은 글</UnfinishedWriting.label>
+  <UnfinishedWritingTablet.label>완성되지 않은 글 (석판)</UnfinishedWritingTablet.label>
+  <UnfinishedWritingScroll.label>완성되지 않은 글 (두루마리)</UnfinishedWritingScroll.label>
+  <RimWriter_TableTypewriter.label>집필 작업대</RimWriter_TableTypewriter.label>
+  <RimWriter_TableTypewriter.description>타자기가 달린 작가의 작업대입니다.</RimWriter_TableTypewriter.description>
+  <RimWriter_TableTypewriter.comps.1.useLabel>글쓰기</RimWriter_TableTypewriter.comps.1.useLabel>
+  <RimWriter_TableTypewriter_Blueprint.label>집필 작업대 (청사진)</RimWriter_TableTypewriter_Blueprint.label>
+  <RimWriter_TableTypewriter_Blueprint_Install.label>집필 작업대 (청사진)</RimWriter_TableTypewriter_Blueprint_Install.label>
+  <RimWriter_TableTypewriter_Frame.label>집필 작업대 (건설 중)</RimWriter_TableTypewriter_Frame.label>
+  <RimWriter_TableTypewriter_Frame.description>타자기가 달린 작가의 작업대입니다.</RimWriter_TableTypewriter_Frame.description>
+  <RimWriter_TableWriting.label>작가의 작업대</RimWriter_TableWriting.label>
+  <RimWriter_TableWriting.description>깃펜, 가위, 자, 그리고 잉크 통을 갖춘 작가의 작업대입니다.</RimWriter_TableWriting.description>
+  <RimWriter_TableWriting.comps.1.useLabel>글쓰기</RimWriter_TableWriting.comps.1.useLabel>
+  <RimWriter_TableWriting_Blueprint.label>작가의 작업대 (청사진)</RimWriter_TableWriting_Blueprint.label>
+  <RimWriter_TableWriting_Blueprint_Install.label>작가의 작업대 (청사진)</RimWriter_TableWriting_Blueprint_Install.label>
+  <RimWriter_TableWriting_Frame.label>작가의 작업대 (건설 중)</RimWriter_TableWriting_Frame.label>
+  <RimWriter_TableWriting_Frame.description>깃펜, 가위, 자, 그리고 잉크 톤을 갖춘 작가의 작업대입니다.</RimWriter_TableWriting_Frame.description>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimPlas.Name>림플라스</RimPlas.Name>
+  <RimPlas.ResPct>필요 연구 비용 % :</RimPlas.ResPct>
+  <RimPlas.ResTip>이러한 변경 사항은 림월드를 다시 시작할 때만 적용됩니다.</RimPlas.ResTip>
+  <RimPlas.ResWarn>(경고 : %를 높이면 이전 값을 사용한 연구가 완료되지 않을 수도 있습니다.)</RimPlas.ResWarn>
+  <RimPlas.GVentMin>그래핀 환풍구 고정 최소 온도 (섭씨) [기본값 10] :</RimPlas.GVentMin>
+  <RimPlas.GVentMax>그래핀 환풍구 고정 최대 온도 (섭씨) [기본값 30] :</RimPlas.GVentMax>
+  <RimPlas.Fixed>고정 온도</RimPlas.Fixed>
+  <RimPlas.FixedDesc>켜짐 : 고정 ({0} C-{1} C 온도 범위)</RimPlas.FixedDesc>
+  <RimPlas.Boost>증폭</RimPlas.Boost>
+  <RimPlas.BoostDesc>전력과 제어 증폭.</RimPlas.BoostDesc>
+
+</LanguageData>

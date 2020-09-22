@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VG_Brewing.labelShort>양조</VG_Brewing.labelShort>
+  <VG_Brewing.pawnLabel>양조업자</VG_Brewing.pawnLabel>
+  <VG_Brewing.gerundLabel>양조</VG_Brewing.gerundLabel>
+  <VG_Brewing.description>술보리를 발효시켜 양조통을 채우거나 비우고, 탄산주 및 음료도 만듭니다.</VG_Brewing.description>
+  <VG_Brewing.verb>양조</VG_Brewing.verb>
+
+</LanguageData>

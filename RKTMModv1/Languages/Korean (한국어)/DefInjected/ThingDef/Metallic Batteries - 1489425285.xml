@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Battery_Silver.label>은 축전지</Battery_Silver.label>
+  <Battery_Silver.description>70% 효율로 900Wd의 전력을 저장할 수 있는 향상된 용량 및 효율을 위해 은으로 강화된 축전지. 비를 맞으면 단락됩니다.</Battery_Silver.description>
+  <Battery_Gold.label>금 축전지</Battery_Gold.label>
+  <Battery_Gold.description>100% 효율로 900Wd의 전력을 저장할 수 있는 최적의 효율을 위해 금으로 강화된 축전지. 비를 맞아도 단락되지 않습니다.</Battery_Gold.description>
+  <Battery_Plasteel.label>플라스틸 축전지</Battery_Plasteel.label>
+  <Battery_Plasteel.description>70% 효율로 1800Wd의 전력을 저장할 수 있는 향상된 용량 및 효율을 위해 플라스틸로 강화된 축전지. 비를 맞아도 단락되지 않습니다.</Battery_Plasteel.description>
+  <Battery_Uranium.label>우라늄 축전지</Battery_Uranium.label>
+  <Battery_Uranium.description>90% 효율로 1500Wd의 전력을 저장할 수 있는 향상된 용량 및 효율을 위해 우라늄으로 강화된 축전지. 비를 맞아도 단락되지 않습니다.</Battery_Uranium.description>
+  <Battery_Advanced.label>고급 축전지</Battery_Advanced.label>
+  <Battery_Advanced.description>100% 효율로 1800Wd의 전력을 저장할 수 있는 최적의 용량 및 효율을 위해 고급 부품 및 고가의 금속으로 강화된 축전지. 비를 맞아도 단락되지 않습니다. 고장이 나거나 보수가 필요하지 않습니다.</Battery_Advanced.description>
+
+</LanguageData>

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeAsphalt.label>아스팔트 제작</MakeAsphalt.label>
+  <MakeAsphalt.description>아스팔트 50개를 제작합니다.</MakeAsphalt.description>
+  <MakeAsphalt.jobString>아스팔트 제작 중</MakeAsphalt.jobString>
+  <Mould_RPComponentIndustrial.label>림플라스 부품 사출</Mould_RPComponentIndustrial.label>
+  <Mould_RPComponentIndustrial.description>림플라스로 부품을 사출합니다.</Mould_RPComponentIndustrial.description>
+  <Mould_RPComponentIndustrial.jobString>림플라스 부품 사출 중.</Mould_RPComponentIndustrial.jobString>
+  <Mould_RPComponentSpacer.label>림플라스 고급 부품 사출</Mould_RPComponentSpacer.label>
+  <Mould_RPComponentSpacer.description>림플라스로 고급 부품을 사출합니다.</Mould_RPComponentSpacer.description>
+  <Mould_RPComponentSpacer.jobString>림플라스 고급 부품 사출 중.</Mould_RPComponentSpacer.jobString>
+  <RimPlasMouldRPMAPart.label>림플라스 복합 분석기 부품 사출</RimPlasMouldRPMAPart.label>
+  <RimPlasMouldRPMAPart.description>림플라스로 복합 분석기 부품을 사출합니다.</RimPlasMouldRPMAPart.description>
+  <RimPlasMouldRPMAPart.jobString>림플라스 복합 분석기 부품 사출 중.</RimPlasMouldRPMAPart.jobString>
+  <RCP_RPMultiAnalyzer.label>림플라스 복합 분석기 제작</RCP_RPMultiAnalyzer.label>
+  <RCP_RPMultiAnalyzer.description>림플라스 복합 분석기를 제작합니다.</RCP_RPMultiAnalyzer.description>
+  <RCP_RPMultiAnalyzer.jobString>림플라스 복합 분석기 제작 중.</RCP_RPMultiAnalyzer.jobString>
+  <RCP_RimThermoPlas_Foam.label>림서모플라스 폼 사출</RCP_RimThermoPlas_Foam.label>
+  <RCP_RimThermoPlas_Foam.description>림서모플라스 폼 5개 사출</RCP_RimThermoPlas_Foam.description>
+  <RCP_RimThermoPlas_Foam.jobString>림서모플라스 폼 사출 중.</RCP_RimThermoPlas_Foam.jobString>
+  <MakeRimPlas.label>림플라스 제작</MakeRimPlas.label>
+  <MakeRimPlas.description>림플라스 25개를 제작합니다.</MakeRimPlas.description>
+  <MakeRimPlas.jobString>림플라스 제작 중</MakeRimPlas.jobString>
+  <MakeBulkRimPlas.label>대량의 림플라스 제작</MakeBulkRimPlas.label>
+  <MakeBulkRimPlas.description>림플라스 100개를 제작합니다.</MakeBulkRimPlas.description>
+  <MakeBulkRimPlas.jobString>림플라스 제작 중</MakeBulkRimPlas.jobString>
+  <Make_RPGrapheneNanoSuit.label>그래핀 나노슈트 제작</Make_RPGrapheneNanoSuit.label>
+  <Make_RPGrapheneNanoSuit.description>그래핀 나노슈트를 제작합니다.</Make_RPGrapheneNanoSuit.description>
+  <Make_RPGrapheneNanoSuit.jobString>그래핀 나노슈트 제작 중.</Make_RPGrapheneNanoSuit.jobString>
+  <Make_RPGrapheneShieldNanoSuit.label>그래핀 실드 나노슈트 제작</Make_RPGrapheneShieldNanoSuit.label>
+  <Make_RPGrapheneShieldNanoSuit.description>그래핀 실드 나노슈트를 제작합니다.</Make_RPGrapheneShieldNanoSuit.description>
+  <Make_RPGrapheneShieldNanoSuit.jobString>그래핀 실드 나노슈트 제작 중.</Make_RPGrapheneShieldNanoSuit.jobString>
+  <MakeCarboPitch.label>타르 제작</MakeCarboPitch.label>
+  <MakeCarboPitch.description>타르 100개를 제작합니다.</MakeCarboPitch.description>
+  <MakeCarboPitch.jobString>타르 제작 중.</MakeCarboPitch.jobString>
+  <RCP_CarboFibre.label>탄소 섬유 사출</RCP_CarboFibre.label>
+  <RCP_CarboFibre.description>탄소 섬유 100개를 사출합니다.</RCP_CarboFibre.description>
+  <RCP_CarboFibre.jobString>탄소 섬유 사출 중.</RCP_CarboFibre.jobString>
+  <RimPlasMakeCarboSynth.label>카보섬유 사출</RimPlasMakeCarboSynth.label>
+  <RimPlasMakeCarboSynth.description>카보섬유 25를 사출합니다.</RimPlasMakeCarboSynth.description>
+  <RimPlasMakeCarboSynth.jobString>카보섬유 사출 중</RimPlasMakeCarboSynth.jobString>
+  <RCP_Graphene.label>그래핀 사출</RCP_Graphene.label>
+  <RCP_Graphene.description>그래핀 25개를 사출합니다.</RCP_Graphene.description>
+  <RCP_Graphene.jobString>그래핀 사출 중</RCP_Graphene.jobString>
+  <RCP_BulkGraphene.label>대량의 그래핀 사출</RCP_BulkGraphene.label>
+  <RCP_BulkGraphene.description>그래핀 100개를 사출합니다.</RCP_BulkGraphene.description>
+  <RCP_BulkGraphene.jobString>그래핀 사출 중</RCP_BulkGraphene.jobString>
+  <RCP_CarboPlasteel.label>카보플라스틸 제작</RCP_CarboPlasteel.label>
+  <RCP_CarboPlasteel.description>카보플라스틸 25개를 제작합니다.</RCP_CarboPlasteel.description>
+  <RCP_CarboPlasteel.jobString>카보플라스틸 제작 중.</RCP_CarboPlasteel.jobString>
+  <RCP_BulkCarboPlasteel.label>대량의 카보플라스틸 제작</RCP_BulkCarboPlasteel.label>
+  <RCP_BulkCarboPlasteel.description>카보플라스틸 50개를 제작합니다.</RCP_BulkCarboPlasteel.description>
+  <RCP_BulkCarboPlasteel.jobString>카보플라스틸 제작 중.</RCP_BulkCarboPlasteel.jobString>
+  <RCP_Barrier.label>방벽 사출</RCP_Barrier.label>
+  <RCP_Barrier.description>림플라스 방벽을 사출합니다.</RCP_Barrier.description>
+  <RCP_Barrier.jobString>림플라스 물건 사출 중.</RCP_Barrier.jobString>
+  <RCP_AnimalSleepingBox.label>동물 상자 사출</RCP_AnimalSleepingBox.label>
+  <RCP_AnimalSleepingBox.description>림플라스 동물 상자를 사출합니다.</RCP_AnimalSleepingBox.description>
+  <RCP_AnimalSleepingBox.jobString>림플라스 물건 사출 중.</RCP_AnimalSleepingBox.jobString>
+  <RCP_Stool.label>의자 사출</RCP_Stool.label>
+  <RCP_Stool.description>림플라스 의자를 사출합니다.</RCP_Stool.description>
+  <RCP_Stool.jobString>림플라스 물건 사출 중.</RCP_Stool.jobString>
+  <RCP_DiningChair.label>식탁 의자 사출</RCP_DiningChair.label>
+  <RCP_DiningChair.description>림플라스 식탁 의자를 사출합니다.</RCP_DiningChair.description>
+  <RCP_DiningChair.jobString>림플라스 물건 사출 중.</RCP_DiningChair.jobString>
+  <RCP_DrugCabinet.label>약물 캐비닛 사출</RCP_DrugCabinet.label>
+  <RCP_DrugCabinet.description>림플라스 약물 캐비닛을 사출합니다.</RCP_DrugCabinet.description>
+  <RCP_DrugCabinet.jobString>림플라스 물건 사출 중.</RCP_DrugCabinet.jobString>
+  <RCP_EndTable.label>협탁 사출</RCP_EndTable.label>
+  <RCP_EndTable.description>림플라스 협탁을 사출합니다.</RCP_EndTable.description>
+  <RCP_EndTable.jobString>림플라스 물건 사출 중.</RCP_EndTable.jobString>
+  <RCP_Table_Tiny.label>식탁(1x1) 사출</RCP_Table_Tiny.label>
+  <RCP_Table_Tiny.description>림플라스 식탁(1x1)을 사출합니다.</RCP_Table_Tiny.description>
+  <RCP_Table_Tiny.jobString>림플라스 물건 사출 중.</RCP_Table_Tiny.jobString>
+  <RCP_Table_Small.label>식탁(1x2) 사출</RCP_Table_Small.label>
+  <RCP_Table_Small.description>림플라스 식탁(1x2)을 사출합니다.</RCP_Table_Small.description>
+  <RCP_Table_Small.jobString>림플라스 물건 사출 중.</RCP_Table_Small.jobString>
+  <RCP_PlantPot.label>화분 사출</RCP_PlantPot.label>
+  <RCP_PlantPot.description>림플라스 화분을 사출합니다.</RCP_PlantPot.description>
+  <RCP_PlantPot.jobString>림플라스 물건 사출 중.</RCP_PlantPot.jobString>
+  <RCP_Shelf.label>선반(1x2) 사출</RCP_Shelf.label>
+  <RCP_Shelf.description>림플라스 선반(1x2)을 사출합니다.</RCP_Shelf.description>
+  <RCP_Shelf.jobString>림플라스 물건 사출 중.</RCP_Shelf.jobString>
+  <RCP_Rack.label>선반(1x1) 사출</RCP_Rack.label>
+  <RCP_Rack.description>림플라스 선반(1x1)을 사출합니다.</RCP_Rack.description>
+  <RCP_Rack.jobString>림플라스 물건 사출 중.</RCP_Rack.jobString>
+  <RCP_Dresser.label>옷장 사출</RCP_Dresser.label>
+  <RCP_Dresser.description>림플라스 옷장을 사출합니다.</RCP_Dresser.description>
+  <RCP_Dresser.jobString>림플라스 물건 사출 중.</RCP_Dresser.jobString>
+  <RCP_GameOfUr.label>우르의 왕실 게임 사출</RCP_GameOfUr.label>
+  <RCP_GameOfUr.description>림플라스 우르의 왕실 게임을 사출합니다.</RCP_GameOfUr.description>
+  <RCP_GameOfUr.jobString>림플라스 물건들 사출</RCP_GameOfUr.jobString>
+  <RCP_ChessTable.label>체스 탁자 사출</RCP_ChessTable.label>
+  <RCP_ChessTable.description>림플라스 체스 탁자를 사출합니다.</RCP_ChessTable.description>
+  <RCP_ChessTable.jobString>림플라스 물건 사출 중.</RCP_ChessTable.jobString>
+  <RCP_RimPlas.label>림플라스 사출</RCP_RimPlas.label>
+  <RCP_RimPlas.description>약간의 림플라스를 사출합니다.</RCP_RimPlas.description>
+  <RCP_RimPlas.jobString>림플라스 물건 사출 중.</RCP_RimPlas.jobString>
+  <RCP_RimPoly.label>림폴리 사출</RCP_RimPoly.label>
+  <RCP_RimPoly.description>약간의 림폴리를 사출합니다.</RCP_RimPoly.description>
+  <RCP_RimPoly.jobString>림플라스 물건 사출 중.</RCP_RimPoly.jobString>
+  <RPButcherCorpseMechanoid.label>메카노이드 분해</RPButcherCorpseMechanoid.label>
+  <RPButcherCorpseMechanoid.description>사망한 메카노이드를 구성 요소별로 분해합니다.</RPButcherCorpseMechanoid.description>
+  <RPButcherCorpseMechanoid.jobString>메카노이드 분해 중.</RPButcherCorpseMechanoid.jobString>
+  <MakeRimRayon.label>림레이온 제작</MakeRimRayon.label>
+  <MakeRimRayon.description>림레이온을 제작합니다.</MakeRimRayon.description>
+  <MakeRimRayon.jobString>림레이온 제작 중.</MakeRimRayon.jobString>
+  <MakeSynthbase.label>합성 기초 제작</MakeSynthbase.label>
+  <MakeSynthbase.description>합성 기초를 제작합니다.</MakeSynthbase.description>
+  <MakeSynthbase.jobString>합성 기초 제작 중.</MakeSynthbase.jobString>
+  <RimPlasMakeSynthread.label>합성원단 제작</RimPlasMakeSynthread.label>
+  <RimPlasMakeSynthread.description>합성원단 25개를 제작합니다.</RimPlasMakeSynthread.description>
+  <RimPlasMakeSynthread.jobString>합성원단 제작 중.</RimPlasMakeSynthread.jobString>
+  <RimPlasBulkSynthread.label>대량의 합성원단 제작</RimPlasBulkSynthread.label>
+  <RimPlasBulkSynthread.description>합성원단 100개를 제작합니다.</RimPlasBulkSynthread.description>
+  <RimPlasBulkSynthread.jobString>합성원단 제작 중.</RimPlasBulkSynthread.jobString>
+  <RimPlasMakeDevilSynth.label>합성 악마가닥 제작</RimPlasMakeDevilSynth.label>
+  <RimPlasMakeDevilSynth.description>합성 악마가닥 25개를 제작합니다.</RimPlasMakeDevilSynth.description>
+  <RimPlasMakeDevilSynth.jobString>합성 악마가닥 제작 중.</RimPlasMakeDevilSynth.jobString>
+  <RimPlasBulkDevilSynth.label>대량의 합성 악마가닥 제작</RimPlasBulkDevilSynth.label>
+  <RimPlasBulkDevilSynth.description>합성 악마가닥 100개를 제작합니다.</RimPlasBulkDevilSynth.description>
+  <RimPlasBulkDevilSynth.jobString>합성 악마가닥 제작 중.</RimPlasBulkDevilSynth.jobString>
+  <RimPlasMakePlasteel.label>플라스틸 제작</RimPlasMakePlasteel.label>
+  <RimPlasMakePlasteel.description>플라스틸 25개를 제작합니다.</RimPlasMakePlasteel.description>
+  <RimPlasMakePlasteel.jobString>플라스틸 제작 중.</RimPlasMakePlasteel.jobString>
+  <RimPlasBulkPlasteel.label>대량의 플라스틸 제작</RimPlasBulkPlasteel.label>
+  <RimPlasBulkPlasteel.description>플라스틸 100개를 제작합니다.</RimPlasBulkPlasteel.description>
+  <RimPlasBulkPlasteel.jobString>플라스틸 제작 중.</RimPlasBulkPlasteel.jobString>
+  <RimPlasMakePlasteelWool.label>플라스틸 울 제작</RimPlasMakePlasteelWool.label>
+  <RimPlasMakePlasteelWool.description>플라스틸 울 25개를 제작합니다.</RimPlasMakePlasteelWool.description>
+  <RimPlasMakePlasteelWool.jobString>플라스틸 울 제작 중.</RimPlasMakePlasteelWool.jobString>
+  <RimPlasBulkPlasteelWool.label>대량의 플라스틸 울 제작</RimPlasBulkPlasteelWool.label>
+  <RimPlasBulkPlasteelWool.description>플라스틸 울 100개를 제작합니다.</RimPlasBulkPlasteelWool.description>
+  <RimPlasBulkPlasteelWool.jobString>플라스틸 울 제작 중.</RimPlasBulkPlasteelWool.jobString>
+  <RimPlasMakeHyperweave.label>초경조직 천 제작</RimPlasMakeHyperweave.label>
+  <RimPlasMakeHyperweave.description>초경조직 천 25개를 제작합니다.</RimPlasMakeHyperweave.description>
+  <RimPlasMakeHyperweave.jobString>초경조직 천 제작 중.</RimPlasMakeHyperweave.jobString>
+
+</LanguageData>

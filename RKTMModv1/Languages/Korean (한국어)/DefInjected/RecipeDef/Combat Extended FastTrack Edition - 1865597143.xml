@@ -1,0 +1,849 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeAmmo_100x695mmRCannonShell_HEAT.label>100x695mmR (대전차고폭탄) 대포탄 5발 제작</MakeAmmo_100x695mmRCannonShell_HEAT.label>
+  <MakeAmmo_100x695mmRCannonShell_HEAT.description>100x695mmR (대전차고폭탄) 대포탄 5발을 제작합니다.</MakeAmmo_100x695mmRCannonShell_HEAT.description>
+  <MakeAmmo_100x695mmRCannonShell_HEAT.jobString>100x695mmR (대전차고폭탄) 대포탄 제작 중.</MakeAmmo_100x695mmRCannonShell_HEAT.jobString>
+  <MakeAmmo_100x695mmRCannonShell_HE.label>100x695mmR (고폭탄) 대포탄 5발 제작</MakeAmmo_100x695mmRCannonShell_HE.label>
+  <MakeAmmo_100x695mmRCannonShell_HE.description>100x695mmR (고폭탄) 대포탄 5발을 제작합니다.</MakeAmmo_100x695mmRCannonShell_HE.description>
+  <MakeAmmo_100x695mmRCannonShell_HE.jobString>100x695mmR (고폭탄) 대포탄 제작 중.</MakeAmmo_100x695mmRCannonShell_HE.jobString>
+  <MakeAmmo_10mmAuto_FMJ.label>10mm 오토 (일반탄) 탄약 500발 제작</MakeAmmo_10mmAuto_FMJ.label>
+  <MakeAmmo_10mmAuto_FMJ.description>10mm 오토 (일반탄) 탄약 500발을 제작합니다.</MakeAmmo_10mmAuto_FMJ.description>
+  <MakeAmmo_10mmAuto_FMJ.jobString>10mm 오토 (일반탄) 탄약 제작 중.</MakeAmmo_10mmAuto_FMJ.jobString>
+  <MakeAmmo_10mmAuto_AP.label>10mm 오토 (철갑탄) 탄약 500발 제작</MakeAmmo_10mmAuto_AP.label>
+  <MakeAmmo_10mmAuto_AP.description>10mm 오토 (철갑탄) 탄약 500발을 제작합니다.</MakeAmmo_10mmAuto_AP.description>
+  <MakeAmmo_10mmAuto_AP.jobString>10mm 오토 (철갑탄) 탄약 제작 중.</MakeAmmo_10mmAuto_AP.jobString>
+  <MakeAmmo_10mmAuto_HP.label>10mm 오토 (HP탄) 탄약 500발 제작</MakeAmmo_10mmAuto_HP.label>
+  <MakeAmmo_10mmAuto_HP.description>10mm 오토 (HP탄) 탄약 500발을 제작합니다.</MakeAmmo_10mmAuto_HP.description>
+  <MakeAmmo_10mmAuto_HP.jobString>10mm 오토 (HP탄) 탄약 제작 중.</MakeAmmo_10mmAuto_HP.jobString>
+  <MakeAmmo_127x108mm_FMJ.label>12.7x108mm 소비에트 (일반탄) 200발 제작</MakeAmmo_127x108mm_FMJ.label>
+  <MakeAmmo_127x108mm_FMJ.description>12.7x108mm 소비에트 (일반탄) 탄약을 200발 제작합니다.</MakeAmmo_127x108mm_FMJ.description>
+  <MakeAmmo_127x108mm_FMJ.jobString>12.7x108mm 소비에트 (일반탄) 제작 중.</MakeAmmo_127x108mm_FMJ.jobString>
+  <MakeAmmo_127x108mm_HE.label>12.7x108mm 소비에트 (고폭탄) 200발 제작</MakeAmmo_127x108mm_HE.label>
+  <MakeAmmo_127x108mm_HE.description>12.7x108mm 소비에트 (고폭탄) 탄약을 200발 제작합니다.</MakeAmmo_127x108mm_HE.description>
+  <MakeAmmo_127x108mm_HE.jobString>12.7x108mm 소비에트 (고폭탄) 제작 중.</MakeAmmo_127x108mm_HE.jobString>
+  <MakeAmmo_127x108mm_Incendiary.label>12.7x108mm 소비에트 (철갑소이탄) 200발 제작</MakeAmmo_127x108mm_Incendiary.label>
+  <MakeAmmo_127x108mm_Incendiary.description>12.7x108mm 소비에트 (철갑소이탄) 탄약을 200발 제작합니다.</MakeAmmo_127x108mm_Incendiary.description>
+  <MakeAmmo_127x108mm_Incendiary.jobString>12.7x108mm 소비에트 (철갑소이탄) 제작 중.</MakeAmmo_127x108mm_Incendiary.jobString>
+  <MakeAmmo_127x55mmAR_FMJ.label>12.7x55mm AR (일반탄) 탄약 350발 제작</MakeAmmo_127x55mmAR_FMJ.label>
+  <MakeAmmo_127x55mmAR_FMJ.description>12.7x55mm AR (일반탄) 탄약을 350발 제작합니다.</MakeAmmo_127x55mmAR_FMJ.description>
+  <MakeAmmo_127x55mmAR_FMJ.jobString>12.7x55mm AR (일반탄) 탄약 제작 중.</MakeAmmo_127x55mmAR_FMJ.jobString>
+  <MakeAmmo_127x55mmAR_AP.label>12.7x55mm AR (철갑탄) 탄약 350발 제작</MakeAmmo_127x55mmAR_AP.label>
+  <MakeAmmo_127x55mmAR_AP.description>12.7x55mm AR (철갑탄) 탄약을 350발 제작합니다.</MakeAmmo_127x55mmAR_AP.description>
+  <MakeAmmo_127x55mmAR_AP.jobString>12.7x55mm AR (철갑탄) 탄약 제작 중.</MakeAmmo_127x55mmAR_AP.jobString>
+  <MakeAmmo_127x55mmAR_HP.label>12.7x55mm AR (HP탄) 탄약 350발 제작</MakeAmmo_127x55mmAR_HP.label>
+  <MakeAmmo_127x55mmAR_HP.description>12.7x55mm AR (HP탄) 탄약을 350발 제작합니다.</MakeAmmo_127x55mmAR_HP.description>
+  <MakeAmmo_127x55mmAR_HP.jobString>12.7x55mm AR (HP탄) 탄약 제작 중.</MakeAmmo_127x55mmAR_HP.jobString>
+  <MakeAmmo_127x55mmSniper_FMJ.label>12.7x55mm 저격탄 (일반탄)탄약 350발 제작</MakeAmmo_127x55mmSniper_FMJ.label>
+  <MakeAmmo_127x55mmSniper_FMJ.description>12.7x55mm 저격탄 (일반탄) 탄약을 350발 제작합니다.</MakeAmmo_127x55mmSniper_FMJ.description>
+  <MakeAmmo_127x55mmSniper_FMJ.jobString>12.7x55mm 저격탄 (일반탄) 탄약 제작 중.</MakeAmmo_127x55mmSniper_FMJ.jobString>
+  <MakeAmmo_127x55mmSniper_AP.label>12.7x55mm 저격탄 (철갑탄) 탄약 350발 제작</MakeAmmo_127x55mmSniper_AP.label>
+  <MakeAmmo_127x55mmSniper_AP.description>12.7x55mm 저격탄 (철갑탄) 탄약을 350발 제작합니다.</MakeAmmo_127x55mmSniper_AP.description>
+  <MakeAmmo_127x55mmSniper_AP.jobString>12.7x55mm 저격탄 (철갑탄) 탄약 제작 중.</MakeAmmo_127x55mmSniper_AP.jobString>
+  <MakeAmmo_127x55mmSniper_HP.label>12.7x55mm 저격탄 (HP탄) 탄약 350발 제작</MakeAmmo_127x55mmSniper_HP.label>
+  <MakeAmmo_127x55mmSniper_HP.description>12.7x55mm 저격탄 (HP탄) 탄약을 350발 제작합니다.</MakeAmmo_127x55mmSniper_HP.description>
+  <MakeAmmo_127x55mmSniper_HP.jobString>12.7x55mm 저격탄 (HP탄) 탄약 제작 중.</MakeAmmo_127x55mmSniper_HP.jobString>
+  <MakeAmmo_12Gauge_Buck.label>12 게이지 (벅샷) 200발 제작</MakeAmmo_12Gauge_Buck.label>
+  <MakeAmmo_12Gauge_Buck.description>12 게이지 (벅샷) 탄약을 200발 제작합니다.</MakeAmmo_12Gauge_Buck.description>
+  <MakeAmmo_12Gauge_Buck.jobString>12 게이지 (벅샷) 제작 중.</MakeAmmo_12Gauge_Buck.jobString>
+  <MakeAmmo_12Gauge_Slug.label>12 게이지 (슬러그탄) 200발 제작</MakeAmmo_12Gauge_Slug.label>
+  <MakeAmmo_12Gauge_Slug.description>12 게이지 (슬러그탄) 탄약을 200발 제작합니다.</MakeAmmo_12Gauge_Slug.description>
+  <MakeAmmo_12Gauge_Slug.jobString>12 게이지 (슬러그탄) 제작 중.</MakeAmmo_12Gauge_Slug.jobString>
+  <MakeAmmo_12Gauge_Beanbag.label>12 게이지 (고무탄) 200발 제작</MakeAmmo_12Gauge_Beanbag.label>
+  <MakeAmmo_12Gauge_Beanbag.description>12 게이지 (고무탄) 탄약을 200발 제작합니다.</MakeAmmo_12Gauge_Beanbag.description>
+  <MakeAmmo_12Gauge_Beanbag.jobString>12 게이지 (고무탄) 제작 중.</MakeAmmo_12Gauge_Beanbag.jobString>
+  <MakeAmmo_12Gauge_ElectroSlug.label>12 게이지 (EMP탄) 200발 제작</MakeAmmo_12Gauge_ElectroSlug.label>
+  <MakeAmmo_12Gauge_ElectroSlug.description>12 게이지 (EMP탄) 탄약을 200발 제작합니다.</MakeAmmo_12Gauge_ElectroSlug.description>
+  <MakeAmmo_12Gauge_ElectroSlug.jobString>12 게이지 (EMP탄) 제작 중.</MakeAmmo_12Gauge_ElectroSlug.jobString>
+  <MakeAmmo_12GaugeCharged.label>12 전자기 게이지탄 탄약 100발 제작</MakeAmmo_12GaugeCharged.label>
+  <MakeAmmo_12GaugeCharged.description>12 전자기 게이지탄 탄약을 100발 제작합니다.</MakeAmmo_12GaugeCharged.description>
+  <MakeAmmo_12GaugeCharged.jobString>12 전자기 게이지탄 탄약 제작 중.</MakeAmmo_12GaugeCharged.jobString>
+  <MakeAmmo_12GaugeCharged_Slug.label>12 전자기 게이지탄 (슬러그탄) 탄약 100발 제작</MakeAmmo_12GaugeCharged_Slug.label>
+  <MakeAmmo_12GaugeCharged_Slug.description>12 전자기 게이지탄 (슬러그탄) 탄약을 100발 제작합니다.</MakeAmmo_12GaugeCharged_Slug.description>
+  <MakeAmmo_12GaugeCharged_Slug.jobString>12 전자기 게이지탄 (슬러그탄) 탄약 제작 중.</MakeAmmo_12GaugeCharged_Slug.jobString>
+  <MakeAmmo_12GaugeCharged_Ion.label>12 전자기 게이지탄 (이온슬러그탄) 탄약 100발 제작</MakeAmmo_12GaugeCharged_Ion.label>
+  <MakeAmmo_12GaugeCharged_Ion.description>12 전자기 게이지탄 (이온전자탄) 탄약을 100발 제작합니다.</MakeAmmo_12GaugeCharged_Ion.description>
+  <MakeAmmo_12GaugeCharged_Ion.jobString>12 전자기 게이지탄 (이온전자탄) 탄약 제작 중.</MakeAmmo_12GaugeCharged_Ion.jobString>
+  <MakeAmmo_132x92mmSRTuF_FMJ.label>13.2x92mmSR TuF (일반탄) 탄약 350발 제작</MakeAmmo_132x92mmSRTuF_FMJ.label>
+  <MakeAmmo_132x92mmSRTuF_FMJ.description>13.2x92mmSR TuF (일반탄) 탄약을 350발 제작합니다.</MakeAmmo_132x92mmSRTuF_FMJ.description>
+  <MakeAmmo_132x92mmSRTuF_FMJ.jobString>13.2x92mmSR TuF (일반탄) 탄약 제작 중.</MakeAmmo_132x92mmSRTuF_FMJ.jobString>
+  <MakeAmmo_132x92mmSRTuF_AP.label>13.2x92mmSR TuF (철갑탄) 탄약 350발 제작</MakeAmmo_132x92mmSRTuF_AP.label>
+  <MakeAmmo_132x92mmSRTuF_AP.description>13.2x92mmSR TuF (철갑탄) 탄약을 350발 제작합니다.</MakeAmmo_132x92mmSRTuF_AP.description>
+  <MakeAmmo_132x92mmSRTuF_AP.jobString>13.2x92mmSR TuF (철갑탄) 탄약 제작 중.</MakeAmmo_132x92mmSRTuF_AP.jobString>
+  <MakeAmmo_13mmGyrojet_FMJ.label>13mm 자이로젯 (일반탄) 탄약 500발 제작</MakeAmmo_13mmGyrojet_FMJ.label>
+  <MakeAmmo_13mmGyrojet_FMJ.description>13mm 자이로젯 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_13mmGyrojet_FMJ.description>
+  <MakeAmmo_13mmGyrojet_FMJ.jobString>13mm 자이로젯 (일반탄) 탄약 제작 중.</MakeAmmo_13mmGyrojet_FMJ.jobString>
+  <MakeAmmo_145x114mm_FMJ.label>14.5x114mm 소비에트 (일반탄) 200발 제작</MakeAmmo_145x114mm_FMJ.label>
+  <MakeAmmo_145x114mm_FMJ.description>14.5x114mm 소비에트 (일반탄) 탄약을 200발 제작합니다.</MakeAmmo_145x114mm_FMJ.description>
+  <MakeAmmo_145x114mm_FMJ.jobString>14.5x114mm 소비에트 (일반탄) 제작 중.</MakeAmmo_145x114mm_FMJ.jobString>
+  <MakeAmmo_145x114mm_HE.label>14.5x114mm 소비에트 (고폭탄) 200발 제작</MakeAmmo_145x114mm_HE.label>
+  <MakeAmmo_145x114mm_HE.description>14.5x114mm 소비에트 (고폭탄) 탄약을 200발 제작합니다.</MakeAmmo_145x114mm_HE.description>
+  <MakeAmmo_145x114mm_HE.jobString>14.5x114mm 소비에트 (고폭탄) 제작 중.</MakeAmmo_145x114mm_HE.jobString>
+  <MakeAmmo_145x114mm_Incendiary.label>14.5x114mm 소비에트 (철갑소이탄) 200발 제작</MakeAmmo_145x114mm_Incendiary.label>
+  <MakeAmmo_145x114mm_Incendiary.description>14.5x114mm 소비에트 (철갑소이탄) 탄약을 200발 제작합니다.</MakeAmmo_145x114mm_Incendiary.description>
+  <MakeAmmo_145x114mm_Incendiary.jobString>14.5x114mm 소비에트 (철갑소이탄) 제작 중.</MakeAmmo_145x114mm_Incendiary.jobString>
+  <MakeAmmo_2Bore_FMJ.label>2-보어 (일반탄) 탄약 100발 제작</MakeAmmo_2Bore_FMJ.label>
+  <MakeAmmo_2Bore_FMJ.description>2-보어 (일반탄) 탄약 100발 제작합니다.</MakeAmmo_2Bore_FMJ.description>
+  <MakeAmmo_2Bore_FMJ.jobString>2-보어 (일반탄) 탄약 제작 중.</MakeAmmo_2Bore_FMJ.jobString>
+  <MakeAmmo_20Gauge_Buck.label>20 게이지 (벅샷) 포탄 200발 제작</MakeAmmo_20Gauge_Buck.label>
+  <MakeAmmo_20Gauge_Buck.description>20 게이지 (벅샷) 포탄 제작합니다.</MakeAmmo_20Gauge_Buck.description>
+  <MakeAmmo_20Gauge_Buck.jobString>20 게이지 (벅샷) 포탄 제작 중.</MakeAmmo_20Gauge_Buck.jobString>
+  <MakeAmmo_20Gauge_Slug.label>20 게이지 (슬러그탄) 포탄 200발 제작</MakeAmmo_20Gauge_Slug.label>
+  <MakeAmmo_20Gauge_Slug.description>20 게이지 (슬러그탄) 포탄 제작합니다.</MakeAmmo_20Gauge_Slug.description>
+  <MakeAmmo_20Gauge_Slug.jobString>20 게이지 (슬러그탄) 포탄 제작 중.</MakeAmmo_20Gauge_Slug.jobString>
+  <MakeAmmo_20Gauge_Beanbag.label>20 게이지 (고무탄) 포탄 200발 제작</MakeAmmo_20Gauge_Beanbag.label>
+  <MakeAmmo_20Gauge_Beanbag.description>20 게이지 (고무탄) 포탄 제작합니다.</MakeAmmo_20Gauge_Beanbag.description>
+  <MakeAmmo_20Gauge_Beanbag.jobString>20 게이지 (고무탄) 포탄 제작 중.</MakeAmmo_20Gauge_Beanbag.jobString>
+  <MakeAmmo_20Gauge_ElectroSlug.label>20 게이지 (EMP탄) 포탄 200발 제작</MakeAmmo_20Gauge_ElectroSlug.label>
+  <MakeAmmo_20Gauge_ElectroSlug.description>20 게이지 (EMP탄) 포탄 제작합니다.</MakeAmmo_20Gauge_ElectroSlug.description>
+  <MakeAmmo_20Gauge_ElectroSlug.jobString>20 게이지 (EMP탄) 포탄 제작 중.</MakeAmmo_20Gauge_ElectroSlug.jobString>
+  <MakeAmmo_20mmFliegerfaust_HE.label>20mm 플리거파우스트 (고폭탄) 로켓 9발 제작</MakeAmmo_20mmFliegerfaust_HE.label>
+  <MakeAmmo_20mmFliegerfaust_HE.description>20mm 플리거파우스트 (고폭탄) 로켓 제작합니다.</MakeAmmo_20mmFliegerfaust_HE.description>
+  <MakeAmmo_20mmFliegerfaust_HE.jobString>20mm 플리거파우스트 (고폭탄) 로켓 제작 중.</MakeAmmo_20mmFliegerfaust_HE.jobString>
+  <MakeAmmo_20x102mmNATO_Sabot.label>20x102mm 나토 (날탄) 탄약 200발 제작</MakeAmmo_20x102mmNATO_Sabot.label>
+  <MakeAmmo_20x102mmNATO_Sabot.description>20x102mm 나토 (날탄) 탄약 제작합니다.</MakeAmmo_20x102mmNATO_Sabot.description>
+  <MakeAmmo_20x102mmNATO_Sabot.jobString>20x102mm 나토 (날탄) 탄약 제작 중.</MakeAmmo_20x102mmNATO_Sabot.jobString>
+  <MakeAmmo_20x102mmNATO_HE.label>20x102mm 나토 (고폭탄) 탄약 200발 제작</MakeAmmo_20x102mmNATO_HE.label>
+  <MakeAmmo_20x102mmNATO_HE.description>20x102mm 나토 (고폭탄) 탄약 제작합니다.</MakeAmmo_20x102mmNATO_HE.description>
+  <MakeAmmo_20x102mmNATO_HE.jobString>20x102mm 나토 (고폭탄) 탄약 제작 중.</MakeAmmo_20x102mmNATO_HE.jobString>
+  <MakeAmmo_20x102mmNATO_Incendiary.label>20x102mm 나토 (철갑소이탄) 탄약 200발 제작</MakeAmmo_20x102mmNATO_Incendiary.label>
+  <MakeAmmo_20x102mmNATO_Incendiary.description>20x102mm 나토 (철갑소이탄) 탄약 제작합니다.</MakeAmmo_20x102mmNATO_Incendiary.description>
+  <MakeAmmo_20x102mmNATO_Incendiary.jobString>20x102mm 나토 (철갑소이탄) 탄약 제작 중.</MakeAmmo_20x102mmNATO_Incendiary.jobString>
+  <MakeAmmo_20x110mmHispano_FMJ.label>20x110mm 히스파노 (일반탄) 탄약 100발 제작</MakeAmmo_20x110mmHispano_FMJ.label>
+  <MakeAmmo_20x110mmHispano_FMJ.description>20x110mm 히스파노 (일반탄) 탄약 제작합니다.</MakeAmmo_20x110mmHispano_FMJ.description>
+  <MakeAmmo_20x110mmHispano_FMJ.jobString>20x110mm 히스파노 (일반탄) 탄약 제작 중.</MakeAmmo_20x110mmHispano_FMJ.jobString>
+  <MakeAmmo_20x110mmHispano_HE.label>20x110mm 히스파노 (고폭탄) 탄약 100발 제작</MakeAmmo_20x110mmHispano_HE.label>
+  <MakeAmmo_20x110mmHispano_HE.description>20x110mm 히스파노 (고폭탄) 탄약 제작합니다.</MakeAmmo_20x110mmHispano_HE.description>
+  <MakeAmmo_20x110mmHispano_HE.jobString>20x110mm 히스파노 (고폭탄) 탄약 제작 중.</MakeAmmo_20x110mmHispano_HE.jobString>
+  <MakeAmmo_20x110mmHispano_Incendiary.label>20x110mm 히스파노 (철갑소이탄) 탄약 100발 제작</MakeAmmo_20x110mmHispano_Incendiary.label>
+  <MakeAmmo_20x110mmHispano_Incendiary.description>20x110mm 히스파노 (철갑소이탄) 탄약 제작합니다.</MakeAmmo_20x110mmHispano_Incendiary.description>
+  <MakeAmmo_20x110mmHispano_Incendiary.jobString>20x110mm 히스파노 (철갑소이탄) 탄약 제작 중.</MakeAmmo_20x110mmHispano_Incendiary.jobString>
+  <MakeAmmo_20x42mmGrenade_HE.label>20x42mm (고폭탄) 유탄 50발 제작</MakeAmmo_20x42mmGrenade_HE.label>
+  <MakeAmmo_20x42mmGrenade_HE.description>20x42mm (고폭탄) 유탄 제작합니다.</MakeAmmo_20x42mmGrenade_HE.description>
+  <MakeAmmo_20x42mmGrenade_HE.jobString>20x42mm (고폭탄) 유탄 제작 중.</MakeAmmo_20x42mmGrenade_HE.jobString>
+  <MakeAmmo_20x42mmGrenade_EMP.label>20x42mm EMP 유탄 50발 제작</MakeAmmo_20x42mmGrenade_EMP.label>
+  <MakeAmmo_20x42mmGrenade_EMP.description>20x42mm EMP 유탄 제작합니다.</MakeAmmo_20x42mmGrenade_EMP.description>
+  <MakeAmmo_20x42mmGrenade_EMP.jobString>20x42mm EMP 유탄 제작 중.</MakeAmmo_20x42mmGrenade_EMP.jobString>
+  <MakeAmmo_20x82mmMauser_FMJ.label>20x82mm 마우저 (일반탄) 탄약 100발 제작</MakeAmmo_20x82mmMauser_FMJ.label>
+  <MakeAmmo_20x82mmMauser_FMJ.description>20x82mm 마우저 (일반탄) 탄약 제작합니다.</MakeAmmo_20x82mmMauser_FMJ.description>
+  <MakeAmmo_20x82mmMauser_FMJ.jobString>20x82mm 마우저 (일반탄) 탄약 제작 중.</MakeAmmo_20x82mmMauser_FMJ.jobString>
+  <MakeAmmo_20x82mmMauser_HE.label>20x82mm 마우저 (고폭탄) 탄약 100발 제작</MakeAmmo_20x82mmMauser_HE.label>
+  <MakeAmmo_20x82mmMauser_HE.description>20x82mm 마우저 (고폭탄) 탄약 제작합니다.</MakeAmmo_20x82mmMauser_HE.description>
+  <MakeAmmo_20x82mmMauser_HE.jobString>20x82mm 마우저 (고폭탄) 탄약 제작 중.</MakeAmmo_20x82mmMauser_HE.jobString>
+  <MakeAmmo_20x82mmMauser_Incendiary.label>20x82mm 마우저 (철갑소이탄) 탄약 100발 제작</MakeAmmo_20x82mmMauser_Incendiary.label>
+  <MakeAmmo_20x82mmMauser_Incendiary.description>20x82mm 마우저 (철갑소이탄) 탄약 제작합니다.</MakeAmmo_20x82mmMauser_Incendiary.description>
+  <MakeAmmo_20x82mmMauser_Incendiary.jobString>20x82mm 마우저 (철갑소이탄) 탄약 제작 중.</MakeAmmo_20x82mmMauser_Incendiary.jobString>
+  <MakeAmmo_20x99mmRShVAK_FMJ.label>20x99mmR ShVAK (일반탄) 탄약 100발 제작</MakeAmmo_20x99mmRShVAK_FMJ.label>
+  <MakeAmmo_20x99mmRShVAK_FMJ.description>20x99mmR ShVAK (일반탄) 탄약 제작합니다.</MakeAmmo_20x99mmRShVAK_FMJ.description>
+  <MakeAmmo_20x99mmRShVAK_FMJ.jobString>20x99mmR ShVAK (일반탄) 탄약 제작 중.</MakeAmmo_20x99mmRShVAK_FMJ.jobString>
+  <MakeAmmo_20x99mmRShVAK_HE.label>20x99mmR ShVAK (고폭탄) 탄약 100발 제작</MakeAmmo_20x99mmRShVAK_HE.label>
+  <MakeAmmo_20x99mmRShVAK_HE.description>20x99mmR ShVAK (고폭탄) 탄약 제작합니다.</MakeAmmo_20x99mmRShVAK_HE.description>
+  <MakeAmmo_20x99mmRShVAK_HE.jobString>20x99mmR ShVAK (고폭탄) 탄약 제작 중.</MakeAmmo_20x99mmRShVAK_HE.jobString>
+  <MakeAmmo_20x99mmRShVAK_Incendiary.label>20x99mmR ShVAK (철갑소이탄) 탄약 100발 제작</MakeAmmo_20x99mmRShVAK_Incendiary.label>
+  <MakeAmmo_20x99mmRShVAK_Incendiary.description>20x99mmR ShVAK (철갑소이탄) 탄약 제작합니다.</MakeAmmo_20x99mmRShVAK_Incendiary.description>
+  <MakeAmmo_20x99mmRShVAK_Incendiary.jobString>20x99mmR ShVAK (철갑소이탄) 탄약 제작 중.</MakeAmmo_20x99mmRShVAK_Incendiary.jobString>
+  <MakeAmmo_22LR_FMJ.label>.22 롱라이플 (일반탄) 500발 제작</MakeAmmo_22LR_FMJ.label>
+  <MakeAmmo_22LR_FMJ.description>.22 롱라이플 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_22LR_FMJ.description>
+  <MakeAmmo_22LR_FMJ.jobString>.22 롱라이플 (일반탄) 제작 중.</MakeAmmo_22LR_FMJ.jobString>
+  <MakeAmmo_22Short.label>.22 Short 탄약 500발 제작</MakeAmmo_22Short.label>
+  <MakeAmmo_22Short.description>.22 Short 탄약 제작합니다.</MakeAmmo_22Short.description>
+  <MakeAmmo_22Short.jobString>.22 Short 탄약 제작 중.</MakeAmmo_22Short.jobString>
+  <MakeAmmo_23x75mmR_Buck.label>23x75mmR (벅샷) 포탄 200발 제작</MakeAmmo_23x75mmR_Buck.label>
+  <MakeAmmo_23x75mmR_Buck.description>23x75mmR (벅샷) 포탄 제작합니다.</MakeAmmo_23x75mmR_Buck.description>
+  <MakeAmmo_23x75mmR_Buck.jobString>23x75mmR (벅샷) 포탄 제작 중.</MakeAmmo_23x75mmR_Buck.jobString>
+  <MakeAmmo_23x75mmR_Slug.label>23x75mmR (슬러그탄) 포탄 200발 제작</MakeAmmo_23x75mmR_Slug.label>
+  <MakeAmmo_23x75mmR_Slug.description>23x75mmR (슬러그탄) 포탄 제작합니다.</MakeAmmo_23x75mmR_Slug.description>
+  <MakeAmmo_23x75mmR_Slug.jobString>23x75mmR (슬러그탄) 포탄 제작 중.</MakeAmmo_23x75mmR_Slug.jobString>
+  <MakeAmmo_23x75mmR_Beanbag.label>23x75mmR (고무탄) 포탄 200발 제작</MakeAmmo_23x75mmR_Beanbag.label>
+  <MakeAmmo_23x75mmR_Beanbag.description>23x75mmR (고무탄) 포탄 제작합니다.</MakeAmmo_23x75mmR_Beanbag.description>
+  <MakeAmmo_23x75mmR_Beanbag.jobString>23x75mmR (고무탄) 포탄 제작 중.</MakeAmmo_23x75mmR_Beanbag.jobString>
+  <MakeAmmo_23x75mmR_ElectroSlug.label>23x75mmR (EMP탄) 포탄 200발 제작</MakeAmmo_23x75mmR_ElectroSlug.label>
+  <MakeAmmo_23x75mmR_ElectroSlug.description>23x75mmR (EMP탄) 포탄 제작합니다.</MakeAmmo_23x75mmR_ElectroSlug.description>
+  <MakeAmmo_23x75mmR_ElectroSlug.jobString>23x75mmR (EMP탄) 포탄 제작 중.</MakeAmmo_23x75mmR_ElectroSlug.jobString>
+  <MakeAmmo_25ACP_FMJ.label>.25 ACP 탄약 500발 제작</MakeAmmo_25ACP_FMJ.label>
+  <MakeAmmo_25ACP_FMJ.description>.25 ACP 탄약 제작합니다.</MakeAmmo_25ACP_FMJ.description>
+  <MakeAmmo_25ACP_FMJ.jobString>.25 ACP 탄약 제작 중.</MakeAmmo_25ACP_FMJ.jobString>
+  <MakeAmmo_25x137mmNATO_Sabot.label>25x137mm 나토 (날탄) 탄약 100발 제작</MakeAmmo_25x137mmNATO_Sabot.label>
+  <MakeAmmo_25x137mmNATO_Sabot.description>25x137mm 나토 (날탄) 탄약 제작합니다.</MakeAmmo_25x137mmNATO_Sabot.description>
+  <MakeAmmo_25x137mmNATO_Sabot.jobString>25x137mm 나토 (날탄) 탄약 제작 중.</MakeAmmo_25x137mmNATO_Sabot.jobString>
+  <MakeAmmo_25x137mmNATO_HE.label>25x137mm 나토 (고폭탄) 탄약 100발 제작</MakeAmmo_25x137mmNATO_HE.label>
+  <MakeAmmo_25x137mmNATO_HE.description>25x137mm 나토 (고폭탄) 탄약 제작합니다.</MakeAmmo_25x137mmNATO_HE.description>
+  <MakeAmmo_25x137mmNATO_HE.jobString>25x137mm 나토 (고폭탄) 탄약 제작 중.</MakeAmmo_25x137mmNATO_HE.jobString>
+  <MakeAmmo_25x137mmNATO_Incendiary.label>25x137mm 나토 (철갑소이탄) 탄약 100발 제작</MakeAmmo_25x137mmNATO_Incendiary.label>
+  <MakeAmmo_25x137mmNATO_Incendiary.description>25x137mm 나토 (철갑소이탄) 탄약 제작합니다.</MakeAmmo_25x137mmNATO_Incendiary.description>
+  <MakeAmmo_25x137mmNATO_Incendiary.jobString>25x137mm 나토 (철갑소이탄) 탄약 제작 중.</MakeAmmo_25x137mmNATO_Incendiary.jobString>
+  <MakeAmmo_25x40mmGrenade_HE.label>25x40mm 유탄 (고폭탄) 50발 제작</MakeAmmo_25x40mmGrenade_HE.label>
+  <MakeAmmo_25x40mmGrenade_HE.description>25x40mm 유탄 (고폭탄)을 50발 제작합니다.</MakeAmmo_25x40mmGrenade_HE.description>
+  <MakeAmmo_25x40mmGrenade_HE.jobString>25x40mm 유탄 (고폭탄) 제작 중.</MakeAmmo_25x40mmGrenade_HE.jobString>
+  <MakeAmmo_25x40mmGrenade_EMP.label>25x40mm 유탄 (EMP탄) 50발 제작</MakeAmmo_25x40mmGrenade_EMP.label>
+  <MakeAmmo_25x40mmGrenade_EMP.description>25x40mm 유탄 (EMP탄)을 50발 제작합니다.</MakeAmmo_25x40mmGrenade_EMP.description>
+  <MakeAmmo_25x40mmGrenade_EMP.jobString>25x40mm 유탄 (EMP탄) 제작 중.</MakeAmmo_25x40mmGrenade_EMP.jobString>
+  <MakeAmmo_25x59mmGrenade_HE.label>25x59mm (고폭탄) 유탄 50발 제작</MakeAmmo_25x59mmGrenade_HE.label>
+  <MakeAmmo_25x59mmGrenade_HE.description>25x59mm (고폭탄) 유탄 제작합니다.</MakeAmmo_25x59mmGrenade_HE.description>
+  <MakeAmmo_25x59mmGrenade_HE.jobString>25x59mm (고폭탄) 유탄 제작 중.</MakeAmmo_25x59mmGrenade_HE.jobString>
+  <MakeAmmo_25x59mmGrenade_HEAT.label>25x59mm (대전차고폭탄) 유탄 50발 제작</MakeAmmo_25x59mmGrenade_HEAT.label>
+  <MakeAmmo_25x59mmGrenade_HEAT.description>25x59mm (대전차고폭탄) 유탄 제작합니다.</MakeAmmo_25x59mmGrenade_HEAT.description>
+  <MakeAmmo_25x59mmGrenade_HEAT.jobString>25x59mm (대전차고폭탄) 유탄 제작 중.</MakeAmmo_25x59mmGrenade_HEAT.jobString>
+  <MakeAmmo_25x59mmGrenade_EMP.label>25x59mm EMP 유탄 50발 제작</MakeAmmo_25x59mmGrenade_EMP.label>
+  <MakeAmmo_25x59mmGrenade_EMP.description>25x59mm EMP 유탄 제작합니다.</MakeAmmo_25x59mmGrenade_EMP.description>
+  <MakeAmmo_25x59mmGrenade_EMP.jobString>25x59mm EMP 유탄 제작 중.</MakeAmmo_25x59mmGrenade_EMP.jobString>
+  <MakeAmmo_3006Springfield_FMJ.label>.30-06 스프링필드 탄약 (일반탄) 탄약 500발 제작</MakeAmmo_3006Springfield_FMJ.label>
+  <MakeAmmo_3006Springfield_FMJ.description>.30-06 스프링필드 탄약 (일반탄) 탄약 제작합니다.</MakeAmmo_3006Springfield_FMJ.description>
+  <MakeAmmo_3006Springfield_FMJ.jobString>.30-06 스프링필드 탄약 (일반탄) 탄약 제작 중.</MakeAmmo_3006Springfield_FMJ.jobString>
+  <MakeAmmo_3006Springfield_AP.label>.30-06 스프링필드 탄약 (철갑탄) 탄약 500발 제작</MakeAmmo_3006Springfield_AP.label>
+  <MakeAmmo_3006Springfield_AP.description>.30-06 스프링필드 탄약 (철갑탄) 탄약 제작합니다.</MakeAmmo_3006Springfield_AP.description>
+  <MakeAmmo_3006Springfield_AP.jobString>.30-06 스프링필드 탄약 (철갑탄) 탄약 제작 중.</MakeAmmo_3006Springfield_AP.jobString>
+  <MakeAmmo_3006Springfield_HP.label>.30-06 스프링필드 탄약 (HP탄) 탄약 500발 제작</MakeAmmo_3006Springfield_HP.label>
+  <MakeAmmo_3006Springfield_HP.description>.30-06 스프링필드 탄약 (HP탄) 탄약 제작합니다.</MakeAmmo_3006Springfield_HP.description>
+  <MakeAmmo_3006Springfield_HP.jobString>.30-06 스프링필드 탄약 (HP탄) 탄약 제작 중.</MakeAmmo_3006Springfield_HP.jobString>
+  <MakeAmmo_300AACBlackout_FMJ.label>.300 AAC 블랙아웃 (일반탄) 탄약 500발 제작</MakeAmmo_300AACBlackout_FMJ.label>
+  <MakeAmmo_300AACBlackout_FMJ.description>.300 AAC 블랙아웃 (일반탄) 탄약 제작합니다.</MakeAmmo_300AACBlackout_FMJ.description>
+  <MakeAmmo_300AACBlackout_FMJ.jobString>.300 AAC 블랙아웃 (일반탄) 탄약 제작 중.</MakeAmmo_300AACBlackout_FMJ.jobString>
+  <MakeAmmo_300AACBlackout_AP.label>.300 AAC 블랙아웃 (철갑탄) 탄약 500발 제작</MakeAmmo_300AACBlackout_AP.label>
+  <MakeAmmo_300AACBlackout_AP.description>.300 AAC 블랙아웃 (철갑탄) 탄약 제작합니다.</MakeAmmo_300AACBlackout_AP.description>
+  <MakeAmmo_300AACBlackout_AP.jobString>.300 AAC 블랙아웃 (철갑탄) 탄약 제작 중.</MakeAmmo_300AACBlackout_AP.jobString>
+  <MakeAmmo_300AACBlackout_HP.label>.300 AAC 블랙아웃 (HP탄) 탄약 500발 제작</MakeAmmo_300AACBlackout_HP.label>
+  <MakeAmmo_300AACBlackout_HP.description>.300 AAC 블랙아웃 (HP탄) 탄약 제작합니다.</MakeAmmo_300AACBlackout_HP.description>
+  <MakeAmmo_300AACBlackout_HP.jobString>.300 AAC 블랙아웃 (HP탄) 탄약 제작 중.</MakeAmmo_300AACBlackout_HP.jobString>
+  <MakeAmmo_300WinchesterMagnum_FMJ.label>.300 윈체스터 매그넘 (일반탄) 탄약 200발 제작</MakeAmmo_300WinchesterMagnum_FMJ.label>
+  <MakeAmmo_300WinchesterMagnum_FMJ.description>.300 윈체스터 매그넘 (일반탄) 탄약 제작합니다.</MakeAmmo_300WinchesterMagnum_FMJ.description>
+  <MakeAmmo_300WinchesterMagnum_FMJ.jobString>.300 윈체스터 매그넘 (일반탄) 탄약 제작 중.</MakeAmmo_300WinchesterMagnum_FMJ.jobString>
+  <MakeAmmo_300WinchesterMagnum_HP.label>.300 윈체스터 매그넘 (HP탄) 탄약 200발 제작</MakeAmmo_300WinchesterMagnum_HP.label>
+  <MakeAmmo_300WinchesterMagnum_HP.description>.300 윈체스터 매그넘 (HP탄) 탄약 제작합니다.</MakeAmmo_300WinchesterMagnum_HP.description>
+  <MakeAmmo_300WinchesterMagnum_HP.jobString>.300 윈체스터 매그넘 (HP탄) 탄약 제작 중.</MakeAmmo_300WinchesterMagnum_HP.jobString>
+  <MakeAmmo_300WinchesterMagnum_Incendiary.label>.300 윈체스터 매그넘 (철갑소이탄) 탄약 200발 제작</MakeAmmo_300WinchesterMagnum_Incendiary.label>
+  <MakeAmmo_300WinchesterMagnum_Incendiary.description>.300 윈체스터 매그넘 (철갑소이탄) 탄약 200발 제작합니다.</MakeAmmo_300WinchesterMagnum_Incendiary.description>
+  <MakeAmmo_300WinchesterMagnum_Incendiary.jobString>.300 윈체스터 매그넘 (철갑소이탄) 탄약 제작 중.</MakeAmmo_300WinchesterMagnum_Incendiary.jobString>
+  <MakeAmmo_303British_FMJ.label>.303 브리티쉬 (일반탄) 500발 제작</MakeAmmo_303British_FMJ.label>
+  <MakeAmmo_303British_FMJ.description>.303 브리티쉬 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_303British_FMJ.description>
+  <MakeAmmo_303British_FMJ.jobString>.303 브리티쉬 (일반탄) 제작 중.</MakeAmmo_303British_FMJ.jobString>
+  <MakeAmmo_303British_AP.label>.303 브리티쉬 (철갑탄) 500발 제작</MakeAmmo_303British_AP.label>
+  <MakeAmmo_303British_AP.description>.303 브리티쉬 (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_303British_AP.description>
+  <MakeAmmo_303British_AP.jobString>.303 브리티쉬 (철갑탄) 제작 중.</MakeAmmo_303British_AP.jobString>
+  <MakeAmmo_303British_HP.label>.303 브리티쉬 (HP탄) 500발 제작</MakeAmmo_303British_HP.label>
+  <MakeAmmo_303British_HP.description>.303 브리티쉬 (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_303British_HP.description>
+  <MakeAmmo_303British_HP.jobString>.303 브리티쉬 (HP탄) 제작 중.</MakeAmmo_303British_HP.jobString>
+  <MakeAmmo_30Carbine_FMJ.label>.30 카빈 (일반탄) 탄약 500발 제작</MakeAmmo_30Carbine_FMJ.label>
+  <MakeAmmo_30Carbine_FMJ.description>.30 카빈 (일반탄) 탄약 제작합니다.</MakeAmmo_30Carbine_FMJ.description>
+  <MakeAmmo_30Carbine_FMJ.jobString>.30 카빈 (일반탄) 탄약 제작 중.</MakeAmmo_30Carbine_FMJ.jobString>
+  <MakeAmmo_30Carbine_HP.label>.30 카빈 (HP탄) 탄약 500발 제작</MakeAmmo_30Carbine_HP.label>
+  <MakeAmmo_30Carbine_HP.description>.30 카빈 (HP탄) 탄약 제작합니다.</MakeAmmo_30Carbine_HP.description>
+  <MakeAmmo_30Carbine_HP.jobString>.30 카빈 (HP탄) 탄약 제작 중.</MakeAmmo_30Carbine_HP.jobString>
+  <MakeAmmo_30x29mmGrenade_HE.label>30x29mm 유탄 (고폭탄) 50발 제작</MakeAmmo_30x29mmGrenade_HE.label>
+  <MakeAmmo_30x29mmGrenade_HE.description>30x29mm 유탄 (고폭탄)을 50발 제작합니다.</MakeAmmo_30x29mmGrenade_HE.description>
+  <MakeAmmo_30x29mmGrenade_HE.jobString>30x29mm 유탄 (고폭탄) 제작 중.</MakeAmmo_30x29mmGrenade_HE.jobString>
+  <MakeAmmo_30x29mmGrenade_EMP.label>30x29mm 유탄 (EMP탄) 50발 제작</MakeAmmo_30x29mmGrenade_EMP.label>
+  <MakeAmmo_30x29mmGrenade_EMP.description>30x29mm 유탄 (EMP탄)을 50발 제작합니다.</MakeAmmo_30x29mmGrenade_EMP.description>
+  <MakeAmmo_30x29mmGrenade_EMP.jobString>30x29mm 유탄 (EMP탄) 제작 중.</MakeAmmo_30x29mmGrenade_EMP.jobString>
+  <MakeAmmo_30x64mmFuel_Incendiary.label>30x64mm 폭발탄 (소이탄) 50발 제작</MakeAmmo_30x64mmFuel_Incendiary.label>
+  <MakeAmmo_30x64mmFuel_Incendiary.description>30x64mm 폭발탄 (소이탄)을 50발 제작합니다.</MakeAmmo_30x64mmFuel_Incendiary.description>
+  <MakeAmmo_30x64mmFuel_Incendiary.jobString>30x64mm 폭발탄 (소이탄) 제작 중.</MakeAmmo_30x64mmFuel_Incendiary.jobString>
+  <MakeAmmo_30x64mmFuel_Thermobaric.label>30x64mm 폭발탄 (열압력탄) 50발 제작</MakeAmmo_30x64mmFuel_Thermobaric.label>
+  <MakeAmmo_30x64mmFuel_Thermobaric.description>30x64mm 폭발탄 (열압력탄)을 50발 제작합니다.</MakeAmmo_30x64mmFuel_Thermobaric.description>
+  <MakeAmmo_30x64mmFuel_Thermobaric.jobString>30x64mm 폭발탄 (열압력탄) 제작 중.</MakeAmmo_30x64mmFuel_Thermobaric.jobString>
+  <MakeAmmo_30x64mmFuel_Foam.label>30x64mm 폭발탄 (화재진압탄) 50발 제작</MakeAmmo_30x64mmFuel_Foam.label>
+  <MakeAmmo_30x64mmFuel_Foam.description>30x64mm 폭발탄 (화재진압탄)을 50발 제작합니다.</MakeAmmo_30x64mmFuel_Foam.description>
+  <MakeAmmo_30x64mmFuel_Foam.jobString>30x64mm 폭발탄 (화재진압탄) 제작 중.</MakeAmmo_30x64mmFuel_Foam.jobString>
+  <MakeAmmo_32ACP_FMJ.label>.32 ACP 500발 제작</MakeAmmo_32ACP_FMJ.label>
+  <MakeAmmo_32ACP_FMJ.description>.32 ACP 탄약을 500발 제작합니다.</MakeAmmo_32ACP_FMJ.description>
+  <MakeAmmo_32ACP_FMJ.jobString>.32 ACP 제작 중.</MakeAmmo_32ACP_FMJ.jobString>
+  <MakeAmmo_338Lapua_FMJ.label>.338 라푸아 매그넘 (일반탄) 200발 제작</MakeAmmo_338Lapua_FMJ.label>
+  <MakeAmmo_338Lapua_FMJ.description>.338 라푸아 매그넘 (일반탄) 탄약을 200발 제작합니다.</MakeAmmo_338Lapua_FMJ.description>
+  <MakeAmmo_338Lapua_FMJ.jobString>.338 라푸아 매그넘 (일반탄) 제작 중.</MakeAmmo_338Lapua_FMJ.jobString>
+  <MakeAmmo_338Lapua_HP.label>.338 라푸아 매그넘 (HP탄) 탄약 200발 제작</MakeAmmo_338Lapua_HP.label>
+  <MakeAmmo_338Lapua_HP.description>.338 라푸아 매그넘 (HP탄) 탄약 제작합니다.</MakeAmmo_338Lapua_HP.description>
+  <MakeAmmo_338Lapua_HP.jobString>.338 라푸아 매그넘 (HP탄) 탄약 제작 중.</MakeAmmo_338Lapua_HP.jobString>
+  <MakeAmmo_338Lapua_Incendiary.label>.338 라푸아 매그넘 (철갑소이탄) 200발 제작</MakeAmmo_338Lapua_Incendiary.label>
+  <MakeAmmo_338Lapua_Incendiary.description>.338 라푸아 매그넘 (철갑소이탄) 탄약을 200발 제작합니다.</MakeAmmo_338Lapua_Incendiary.description>
+  <MakeAmmo_338Lapua_Incendiary.jobString>.338 라푸아 매그넘 (철갑소이탄) 제작 중.</MakeAmmo_338Lapua_Incendiary.jobString>
+  <MakeAmmo_338Norma_FMJ.label>.338 노마 매그넘 (일반탄) 탄약 350발 제작</MakeAmmo_338Norma_FMJ.label>
+  <MakeAmmo_338Norma_FMJ.description>.338 노마 매그넘 (일반탄) 탄약 제작합니다.</MakeAmmo_338Norma_FMJ.description>
+  <MakeAmmo_338Norma_FMJ.jobString>.338 노마 매그넘 (일반탄) 탄약 제작 중.</MakeAmmo_338Norma_FMJ.jobString>
+  <MakeAmmo_338Norma_HP.label>.338 노마 매그넘 (HP탄) 탄약 350발 제작</MakeAmmo_338Norma_HP.label>
+  <MakeAmmo_338Norma_HP.description>.338 노마 매그넘 (HP탄) 탄약 제작합니다.</MakeAmmo_338Norma_HP.description>
+  <MakeAmmo_338Norma_HP.jobString>.338 노마 매그넘 (HP탄) 탄약 제작 중.</MakeAmmo_338Norma_HP.jobString>
+  <MakeAmmo_338Norma_Incendiary.label>.338 노마 매그넘 (철갑소이탄) 탄약 350발 제작</MakeAmmo_338Norma_Incendiary.label>
+  <MakeAmmo_338Norma_Incendiary.description>.338 노마 매그넘 (철갑소이탄) 탄약 제작합니다.</MakeAmmo_338Norma_Incendiary.description>
+  <MakeAmmo_338Norma_Incendiary.jobString>.338 노마 매그넘 (철갑소이탄) 탄약 제작 중.</MakeAmmo_338Norma_Incendiary.jobString>
+  <MakeAmmo_357Magnum_FMJ.label>.357 매그넘 (일반탄) 탄약 500발 제작</MakeAmmo_357Magnum_FMJ.label>
+  <MakeAmmo_357Magnum_FMJ.description>.357 매그넘 (일반탄) 탄약 제작합니다.</MakeAmmo_357Magnum_FMJ.description>
+  <MakeAmmo_357Magnum_FMJ.jobString>.357 매그넘 (일반탄) 탄약 제작 중.</MakeAmmo_357Magnum_FMJ.jobString>
+  <MakeAmmo_357Magnum_AP.label>.357 매그넘 (철갑탄) 탄약 500발 제작</MakeAmmo_357Magnum_AP.label>
+  <MakeAmmo_357Magnum_AP.description>.357 매그넘 (철갑탄) 탄약 제작합니다.</MakeAmmo_357Magnum_AP.description>
+  <MakeAmmo_357Magnum_AP.jobString>.357 매그넘 (철갑탄) 탄약 제작 중.</MakeAmmo_357Magnum_AP.jobString>
+  <MakeAmmo_357Magnum_HP.label>.357 매그넘 (HP탄) 탄약 500발 제작</MakeAmmo_357Magnum_HP.label>
+  <MakeAmmo_357Magnum_HP.description>.357 매그넘 (HP탄) 탄약 제작합니다.</MakeAmmo_357Magnum_HP.description>
+  <MakeAmmo_357Magnum_HP.jobString>.357 매그넘 (HP탄) 탄약 제작 중.</MakeAmmo_357Magnum_HP.jobString>
+  <MakeAmmo_357SIG_FMJ.label>.357 SIG (일반탄) 탄약 500발 제작</MakeAmmo_357SIG_FMJ.label>
+  <MakeAmmo_357SIG_FMJ.description>.357 SIG (일반탄) 탄약 제작합니다.</MakeAmmo_357SIG_FMJ.description>
+  <MakeAmmo_357SIG_FMJ.jobString>.357 SIG (일반탄) 탄약 제작 중.</MakeAmmo_357SIG_FMJ.jobString>
+  <MakeAmmo_357SIG_AP.label>.357 SIG (철갑탄) 탄약 500발 제작</MakeAmmo_357SIG_AP.label>
+  <MakeAmmo_357SIG_AP.description>.357 SIG (철갑탄) 탄약 제작합니다.</MakeAmmo_357SIG_AP.description>
+  <MakeAmmo_357SIG_AP.jobString>.357 SIG (철갑탄) 탄약 제작 중.</MakeAmmo_357SIG_AP.jobString>
+  <MakeAmmo_357SIG_HP.label>.357 SIG (HP탄) 탄약 500발 제작</MakeAmmo_357SIG_HP.label>
+  <MakeAmmo_357SIG_HP.description>.357 SIG (HP탄) 탄약 제작합니다.</MakeAmmo_357SIG_HP.description>
+  <MakeAmmo_357SIG_HP.jobString>.357 SIG (HP탄) 탄약 제작 중.</MakeAmmo_357SIG_HP.jobString>
+  <MakeAmmo_35x32mmSRGrenade_HE.label>35x32mmSR (고폭탄) 유탄 50발 제작</MakeAmmo_35x32mmSRGrenade_HE.label>
+  <MakeAmmo_35x32mmSRGrenade_HE.description>35x32mmSR (고폭탄) 유탄 제작합니다.</MakeAmmo_35x32mmSRGrenade_HE.description>
+  <MakeAmmo_35x32mmSRGrenade_HE.jobString>35x32mmSR (고폭탄) 유탄 제작 중.</MakeAmmo_35x32mmSRGrenade_HE.jobString>
+  <MakeAmmo_35x32mmSRGrenade_EMP.label>35x32mmSR EMP 유탄 50발 제작</MakeAmmo_35x32mmSRGrenade_EMP.label>
+  <MakeAmmo_35x32mmSRGrenade_EMP.description>35x32mmSR EMP 유탄 제작합니다.</MakeAmmo_35x32mmSRGrenade_EMP.description>
+  <MakeAmmo_35x32mmSRGrenade_EMP.jobString>35x32mmSR EMP 유탄 제작 중.</MakeAmmo_35x32mmSRGrenade_EMP.jobString>
+  <MakeAmmo_380ACP_FMJ.label>.380 ACP (일반탄) 탄약 500발 제작</MakeAmmo_380ACP_FMJ.label>
+  <MakeAmmo_380ACP_FMJ.description>.380 ACP (일반탄) 탄약 제작합니다.</MakeAmmo_380ACP_FMJ.description>
+  <MakeAmmo_380ACP_FMJ.jobString>.380 ACP (일반탄) 탄약 제작 중.</MakeAmmo_380ACP_FMJ.jobString>
+  <MakeAmmo_380ACP_AP.label>.380 ACP (철갑탄) 탄약 500발 제작</MakeAmmo_380ACP_AP.label>
+  <MakeAmmo_380ACP_AP.description>.380 ACP (철갑탄) 탄약 제작합니다.</MakeAmmo_380ACP_AP.description>
+  <MakeAmmo_380ACP_AP.jobString>.380 ACP (철갑탄) 탄약 제작 중.</MakeAmmo_380ACP_AP.jobString>
+  <MakeAmmo_380ACP_HP.label>.380 ACP (HP탄) 탄약 500발 제작</MakeAmmo_380ACP_HP.label>
+  <MakeAmmo_380ACP_HP.description>.380 ACP (HP탄) 탄약 제작합니다.</MakeAmmo_380ACP_HP.description>
+  <MakeAmmo_380ACP_HP.jobString>.380 ACP (HP탄) 탄약 제작 중.</MakeAmmo_380ACP_HP.jobString>
+  <MakeAmmo_38ACP_FMJ.label>.38 ACP 탄약 500발 제작</MakeAmmo_38ACP_FMJ.label>
+  <MakeAmmo_38ACP_FMJ.description>.38 ACP 탄약 제작합니다.</MakeAmmo_38ACP_FMJ.description>
+  <MakeAmmo_38ACP_FMJ.jobString>.38 ACP 탄약 제작 중.</MakeAmmo_38ACP_FMJ.jobString>
+  <MakeAmmo_38ACP_HP.label>.38 ACP (HP탄) 탄약 500발 제작</MakeAmmo_38ACP_HP.label>
+  <MakeAmmo_38ACP_HP.description>.38 ACP (HP탄) 탄약 제작합니다.</MakeAmmo_38ACP_HP.description>
+  <MakeAmmo_38ACP_HP.jobString>.38 ACP (HP탄) 탄약 제작 중.</MakeAmmo_38ACP_HP.jobString>
+  <MakeAmmo_38Special_FMJ.label>.38 스페셜 (일반탄) 500발 제작</MakeAmmo_38Special_FMJ.label>
+  <MakeAmmo_38Special_FMJ.description>.38 스페셜 (일반탄)을 500발 제작합니다.</MakeAmmo_38Special_FMJ.description>
+  <MakeAmmo_38Special_FMJ.jobString>.38 스페셜 (일반탄) 제작 중.</MakeAmmo_38Special_FMJ.jobString>
+  <MakeAmmo_38Special_AP.label>.38 스페셜 (철갑탄) 500발 제작</MakeAmmo_38Special_AP.label>
+  <MakeAmmo_38Special_AP.description>.38 스페셜 (철갑탄)을 500발 제작합니다.</MakeAmmo_38Special_AP.description>
+  <MakeAmmo_38Special_AP.jobString>.38 스페셜 (철갑탄) 제작 중.</MakeAmmo_38Special_AP.jobString>
+  <MakeAmmo_38Special_HP.label>.38 스페셜 (HP탄) 500발 제작</MakeAmmo_38Special_HP.label>
+  <MakeAmmo_38Special_HP.description>.38 스페셜 (HP탄)을 500발 제작합니다.</MakeAmmo_38Special_HP.description>
+  <MakeAmmo_38Special_HP.jobString>.38 스페셜 (HP탄) 제작 중.</MakeAmmo_38Special_HP.jobString>
+  <MakeAmmo_408CheyenneTactical_FMJ.label>.408 샤이엔 택티컬 (일반탄) 탄약 350발 제작</MakeAmmo_408CheyenneTactical_FMJ.label>
+  <MakeAmmo_408CheyenneTactical_FMJ.description>.408 샤이엔 택티컬 (일반탄) 탄약 제작합니다.</MakeAmmo_408CheyenneTactical_FMJ.description>
+  <MakeAmmo_408CheyenneTactical_FMJ.jobString>.408 샤이엔 택티컬 (일반탄) 탄약 제작 중.</MakeAmmo_408CheyenneTactical_FMJ.jobString>
+  <MakeAmmo_408CheyenneTactical_HP.label>.408 샤이엔 택티컬 (HP탄) 탄약 350발 제작</MakeAmmo_408CheyenneTactical_HP.label>
+  <MakeAmmo_408CheyenneTactical_HP.description>.408 샤이엔 택티컬 (HP탄) 탄약 제작합니다.</MakeAmmo_408CheyenneTactical_HP.description>
+  <MakeAmmo_408CheyenneTactical_HP.jobString>.408 샤이엔 택티컬 (HP탄) 탄약 제작 중.</MakeAmmo_408CheyenneTactical_HP.jobString>
+  <MakeAmmo_408CheyenneTactical_Incendiary.label>.408 샤이엔 택티컬 (철갑소이탄) 탄약 350발 제작</MakeAmmo_408CheyenneTactical_Incendiary.label>
+  <MakeAmmo_408CheyenneTactical_Incendiary.description>.408 샤이엔 택티컬 (철갑소이탄) 탄약 350발 제작합니다.</MakeAmmo_408CheyenneTactical_Incendiary.description>
+  <MakeAmmo_408CheyenneTactical_Incendiary.jobString>.408 샤이엔 택티컬 (철갑소이탄) 탄약 제작 중.</MakeAmmo_408CheyenneTactical_Incendiary.jobString>
+  <MakeAmmo_40Rimfire.label>.40 림파이어 500발 제작</MakeAmmo_40Rimfire.label>
+  <MakeAmmo_40Rimfire.description>.40 림파이어 탄약을 500발 제작합니다.</MakeAmmo_40Rimfire.description>
+  <MakeAmmo_40Rimfire.jobString>.40 림파이어 제작 중.</MakeAmmo_40Rimfire.jobString>
+  <MakeAmmo_40SW_FMJ.label>.40 SW (일반탄) 탄약 500발 제작</MakeAmmo_40SW_FMJ.label>
+  <MakeAmmo_40SW_FMJ.description>.40 SW (일반탄) 탄약 제작합니다.</MakeAmmo_40SW_FMJ.description>
+  <MakeAmmo_40SW_FMJ.jobString>.40 SW (일반탄) 탄약 제작 중.</MakeAmmo_40SW_FMJ.jobString>
+  <MakeAmmo_40SW_AP.label>.40 SW (철갑탄) 탄약 500발 제작</MakeAmmo_40SW_AP.label>
+  <MakeAmmo_40SW_AP.description>.40 SW (철갑탄) 탄약 제작합니다.</MakeAmmo_40SW_AP.description>
+  <MakeAmmo_40SW_AP.jobString>.40 SW (철갑탄) 탄약 제작 중.</MakeAmmo_40SW_AP.jobString>
+  <MakeAmmo_40SW_HP.label>.40 SW (HP탄) 탄약 500발 제작</MakeAmmo_40SW_HP.label>
+  <MakeAmmo_40SW_HP.description>.40 SW (HP탄) 탄약 500발을 제작합니다.</MakeAmmo_40SW_HP.description>
+  <MakeAmmo_40SW_HP.jobString>.40 SW (HP탄) 탄약 제작 중.</MakeAmmo_40SW_HP.jobString>
+  <MakeAmmo_40x46mmGrenade_HE.label>40x46mm 유탄 (고폭탄) 50발 제작</MakeAmmo_40x46mmGrenade_HE.label>
+  <MakeAmmo_40x46mmGrenade_HE.description>40x46mm 유탄 (고폭탄)을 50발 제작합니다.</MakeAmmo_40x46mmGrenade_HE.description>
+  <MakeAmmo_40x46mmGrenade_HE.jobString>40x46mm 유탄 (고폭탄) 제작 중.</MakeAmmo_40x46mmGrenade_HE.jobString>
+  <MakeAmmo_40x46mmGrenade_EMP.label>40x46mm 유탄 (EMP탄) 50발 제작</MakeAmmo_40x46mmGrenade_EMP.label>
+  <MakeAmmo_40x46mmGrenade_EMP.description>40x46mm 유탄 (EMP탄)을 50발 제작합니다.</MakeAmmo_40x46mmGrenade_EMP.description>
+  <MakeAmmo_40x46mmGrenade_EMP.jobString>40x46mm 유탄 (EMP탄) 제작 중.</MakeAmmo_40x46mmGrenade_EMP.jobString>
+  <MakeAmmo_40x47mmGrenade_HE.label>40x47mm (고폭탄) 유탄 50발 제작</MakeAmmo_40x47mmGrenade_HE.label>
+  <MakeAmmo_40x47mmGrenade_HE.description>40x47mm (고폭탄) 유탄 제작합니다.</MakeAmmo_40x47mmGrenade_HE.description>
+  <MakeAmmo_40x47mmGrenade_HE.jobString>40x47mm (고폭탄) 유탄 제작 중.</MakeAmmo_40x47mmGrenade_HE.jobString>
+  <MakeAmmo_40x47mmGrenade_EMP.label>40x47mm EMP 유탄 50발 제작</MakeAmmo_40x47mmGrenade_EMP.label>
+  <MakeAmmo_40x47mmGrenade_EMP.description>40x47mm EMP 유탄 제작합니다.</MakeAmmo_40x47mmGrenade_EMP.description>
+  <MakeAmmo_40x47mmGrenade_EMP.jobString>40x47mm EMP 유탄 제작 중.</MakeAmmo_40x47mmGrenade_EMP.jobString>
+  <MakeAmmo_40x53mmGrenade_HE.label>40x53mm (고폭탄) 유탄 50발 제작</MakeAmmo_40x53mmGrenade_HE.label>
+  <MakeAmmo_40x53mmGrenade_HE.description>40x53mm (고폭탄) 유탄 제작합니다.</MakeAmmo_40x53mmGrenade_HE.description>
+  <MakeAmmo_40x53mmGrenade_HE.jobString>40x53mm (고폭탄) 유탄 제작 중.</MakeAmmo_40x53mmGrenade_HE.jobString>
+  <MakeAmmo_40x53mmGrenade_EMP.label>40x53mm EMP 유탄 50발 제작</MakeAmmo_40x53mmGrenade_EMP.label>
+  <MakeAmmo_40x53mmGrenade_EMP.description>40x53mm EMP 유탄 제작합니다.</MakeAmmo_40x53mmGrenade_EMP.description>
+  <MakeAmmo_40x53mmGrenade_EMP.jobString>40x53mm EMP 유탄 제작 중.</MakeAmmo_40x53mmGrenade_EMP.jobString>
+  <MakeAmmo_40x53mmVOG25Grenade_HE.label>40x53mm VOG-25 (고폭탄) 유탄 50발 제작</MakeAmmo_40x53mmVOG25Grenade_HE.label>
+  <MakeAmmo_40x53mmVOG25Grenade_HE.description>40x53mm VOG-25 (고폭탄) 유탄 제작합니다.</MakeAmmo_40x53mmVOG25Grenade_HE.description>
+  <MakeAmmo_40x53mmVOG25Grenade_HE.jobString>40x53mm VOG-25 (고폭탄) 유탄 제작 중.</MakeAmmo_40x53mmVOG25Grenade_HE.jobString>
+  <MakeAmmo_40x53mmVOG25Grenade_EMP.label>40x53mm VOG-25 EMP 유탄 50발 제작</MakeAmmo_40x53mmVOG25Grenade_EMP.label>
+  <MakeAmmo_40x53mmVOG25Grenade_EMP.description>40x53mm VOG-25 EMP 유탄 제작합니다.</MakeAmmo_40x53mmVOG25Grenade_EMP.description>
+  <MakeAmmo_40x53mmVOG25Grenade_EMP.jobString>40x53mm VOG-25 EMP 유탄 제작 중.</MakeAmmo_40x53mmVOG25Grenade_EMP.jobString>
+  <MakeAmmo_410Bore_Buck.label>.410 보어 (벅샷) 200발 제작</MakeAmmo_410Bore_Buck.label>
+  <MakeAmmo_410Bore_Buck.description>.410 보어 (벅샷) 탄약을 200발 제작합니다.</MakeAmmo_410Bore_Buck.description>
+  <MakeAmmo_410Bore_Buck.jobString>.410 보어 (벅샷) 제작 중.</MakeAmmo_410Bore_Buck.jobString>
+  <MakeAmmo_44-40Winchester_FMJ.label>.44-40 윈체스터(일반탄) 500발 제작</MakeAmmo_44-40Winchester_FMJ.label>
+  <MakeAmmo_44-40Winchester_FMJ.description>.44-40 윈체스터(일반탄)을 500발 제작합니다.</MakeAmmo_44-40Winchester_FMJ.description>
+  <MakeAmmo_44-40Winchester_FMJ.jobString>.44-40 윈체스터(일반탄) 제작 중.</MakeAmmo_44-40Winchester_FMJ.jobString>
+  <MakeAmmo_44Magnum_FMJ.label>.44 매그넘 (일반탄) 500발 제작</MakeAmmo_44Magnum_FMJ.label>
+  <MakeAmmo_44Magnum_FMJ.description>.44 매그넘 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_44Magnum_FMJ.description>
+  <MakeAmmo_44Magnum_FMJ.jobString>.44 매그넘 (일반탄) 제작 중.</MakeAmmo_44Magnum_FMJ.jobString>
+  <MakeAmmo_44Magnum_AP.label>.44 매그넘 (철갑탄) 500발 제작</MakeAmmo_44Magnum_AP.label>
+  <MakeAmmo_44Magnum_AP.description>.44 매그넘 (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_44Magnum_AP.description>
+  <MakeAmmo_44Magnum_AP.jobString>.44 매그넘 (철갑탄) 제작 중.</MakeAmmo_44Magnum_AP.jobString>
+  <MakeAmmo_44Magnum_HP.label>.44 매그넘 (HP탄) 500발 제작</MakeAmmo_44Magnum_HP.label>
+  <MakeAmmo_44Magnum_HP.description>.44 매그넘 (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_44Magnum_HP.description>
+  <MakeAmmo_44Magnum_HP.jobString>.44 매그넘 (HP탄) 제작 중.</MakeAmmo_44Magnum_HP.jobString>
+  <MakeAmmo_454Casull_FMJ.label>.454 카슬 (일반탄) 탄약 500발 제작</MakeAmmo_454Casull_FMJ.label>
+  <MakeAmmo_454Casull_FMJ.description>.454 카슬 (일반탄) 탄약 제작합니다.</MakeAmmo_454Casull_FMJ.description>
+  <MakeAmmo_454Casull_FMJ.jobString>.454 카슬 (일반탄) 탄약 제작 중.</MakeAmmo_454Casull_FMJ.jobString>
+  <MakeAmmo_454Casull_AP.label>.454 카슬 (철갑탄) 탄약 500발 제작</MakeAmmo_454Casull_AP.label>
+  <MakeAmmo_454Casull_AP.description>.454 카슬 (철갑탄) 탄약 제작합니다.</MakeAmmo_454Casull_AP.description>
+  <MakeAmmo_454Casull_AP.jobString>.454 카슬 (철갑탄) 탄약 제작 중.</MakeAmmo_454Casull_AP.jobString>
+  <MakeAmmo_454Casull_HP.label>.454 카슬 (HP탄) 탄약 500발 제작</MakeAmmo_454Casull_HP.label>
+  <MakeAmmo_454Casull_HP.description>.454 카슬 (HP탄) 탄약 제작합니다.</MakeAmmo_454Casull_HP.description>
+  <MakeAmmo_454Casull_HP.jobString>.454 카슬 (HP탄) 탄약 제작 중.</MakeAmmo_454Casull_HP.jobString>
+  <MakeAmmo_4570Gov_FMJ.label>.45-70 거버먼트 탄약 (일반탄) 탄약 350발 제작</MakeAmmo_4570Gov_FMJ.label>
+  <MakeAmmo_4570Gov_FMJ.description>.45-70 거버먼트 탄약 (일반탄) 탄약 제작합니다.</MakeAmmo_4570Gov_FMJ.description>
+  <MakeAmmo_4570Gov_FMJ.jobString>.45-70 거버먼트 탄약 (일반탄) 탄약 제작 중.</MakeAmmo_4570Gov_FMJ.jobString>
+  <MakeAmmo_4570Gov_AP.label>.45-70 거버먼트 탄약 (철갑탄) 탄약 350발 제작</MakeAmmo_4570Gov_AP.label>
+  <MakeAmmo_4570Gov_AP.description>.45-70 거버먼트 탄약 (철갑탄) 탄약 제작합니다.</MakeAmmo_4570Gov_AP.description>
+  <MakeAmmo_4570Gov_AP.jobString>.45-70 거버먼트 탄약 (철갑탄) 탄약 제작 중.</MakeAmmo_4570Gov_AP.jobString>
+  <MakeAmmo_4570Gov_HP.label>.45-70 거버먼트 탄약 (HP탄) 탄약 350발 제작</MakeAmmo_4570Gov_HP.label>
+  <MakeAmmo_4570Gov_HP.description>.45-70 거버먼트 탄약 (HP탄) 탄약 제작합니다.</MakeAmmo_4570Gov_HP.description>
+  <MakeAmmo_4570Gov_HP.jobString>.45-70 거버먼트 탄약 (HP탄) 탄약 제작 중.</MakeAmmo_4570Gov_HP.jobString>
+  <MakeAmmo_45ACP_FMJ.label>.45 ACP (일반탄) 500발 제작</MakeAmmo_45ACP_FMJ.label>
+  <MakeAmmo_45ACP_FMJ.description>.45 ACP (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_45ACP_FMJ.description>
+  <MakeAmmo_45ACP_FMJ.jobString>.45 ACP (일반탄) 제작 중.</MakeAmmo_45ACP_FMJ.jobString>
+  <MakeAmmo_45ACP_AP.label>.45 ACP (철갑탄) 500발 제작</MakeAmmo_45ACP_AP.label>
+  <MakeAmmo_45ACP_AP.description>.45 ACP (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_45ACP_AP.description>
+  <MakeAmmo_45ACP_AP.jobString>.45 ACP (철갑탄) 제작 중.</MakeAmmo_45ACP_AP.jobString>
+  <MakeAmmo_45ACP_HP.label>.45 ACP (HP탄) 500발 제작</MakeAmmo_45ACP_HP.label>
+  <MakeAmmo_45ACP_HP.description>.45 ACP (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_45ACP_HP.description>
+  <MakeAmmo_45ACP_HP.jobString>.45 ACP (HP탄) 제작 중.</MakeAmmo_45ACP_HP.jobString>
+  <MakeAmmo_45Colt_FMJ.label>.45 콜트 (일반탄) 500발 제작</MakeAmmo_45Colt_FMJ.label>
+  <MakeAmmo_45Colt_FMJ.description>.45 콜트 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_45Colt_FMJ.description>
+  <MakeAmmo_45Colt_FMJ.jobString>.45 콜트 (일반탄) 제작 중.</MakeAmmo_45Colt_FMJ.jobString>
+  <MakeAmmo_45Colt_AP.label>.45 콜트 (철갑탄) 500발 제작</MakeAmmo_45Colt_AP.label>
+  <MakeAmmo_45Colt_AP.description>.45 콜트 (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_45Colt_AP.description>
+  <MakeAmmo_45Colt_AP.jobString>.45 콜트 (철갑탄) 제작 중.</MakeAmmo_45Colt_AP.jobString>
+  <MakeAmmo_45Colt_HP.label>.45 콜트 (HP탄) 500발 제작</MakeAmmo_45Colt_HP.label>
+  <MakeAmmo_45Colt_HP.description>.45 콜트 (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_45Colt_HP.description>
+  <MakeAmmo_45Colt_HP.jobString>.45 콜트 (HP탄) 제작 중.</MakeAmmo_45Colt_HP.jobString>
+  <MakeAmmo_46x30mm_FMJ.label>4.6x30mm (일반탄) 탄약 500발 제작</MakeAmmo_46x30mm_FMJ.label>
+  <MakeAmmo_46x30mm_FMJ.description>4.6x30mm (일반탄) 탄약 제작합니다.</MakeAmmo_46x30mm_FMJ.description>
+  <MakeAmmo_46x30mm_FMJ.jobString>4.6x30mm (일반탄) 탄약 제작 중.</MakeAmmo_46x30mm_FMJ.jobString>
+  <MakeAmmo_46x30mm_AP.label>4.6x30mm (철갑탄) 탄약 500발 제작</MakeAmmo_46x30mm_AP.label>
+  <MakeAmmo_46x30mm_AP.description>4.6x30mm (철갑탄) 탄약 제작합니다.</MakeAmmo_46x30mm_AP.description>
+  <MakeAmmo_46x30mm_AP.jobString>4.6x30mm (철갑탄) 탄약 제작 중.</MakeAmmo_46x30mm_AP.jobString>
+  <MakeAmmo_46x30mm_HP.label>4.6x30mm (HP탄) 탄약 500발 제작</MakeAmmo_46x30mm_HP.label>
+  <MakeAmmo_46x30mm_HP.description>4.6x30mm (HP탄) 탄약 제작합니다.</MakeAmmo_46x30mm_HP.description>
+  <MakeAmmo_46x30mm_HP.jobString>4.6x30mm (HP탄) 탄약 제작 중.</MakeAmmo_46x30mm_HP.jobString>
+  <MakeAmmo_473x33mmCaseless_FMJ.label>4.73x33mm 무탄피 (일반탄) 탄약 500발 제작</MakeAmmo_473x33mmCaseless_FMJ.label>
+  <MakeAmmo_473x33mmCaseless_FMJ.description>4.73x33mm 무탄피 (일반탄) 탄약 제작합니다.</MakeAmmo_473x33mmCaseless_FMJ.description>
+  <MakeAmmo_473x33mmCaseless_FMJ.jobString>4.73x33mm 무탄피 (일반탄) 탄약 제작 중.</MakeAmmo_473x33mmCaseless_FMJ.jobString>
+  <MakeAmmo_473x33mmCaseless_AP.label>4.73x33mm 무탄피 (철갑탄) 탄약 500발 제작</MakeAmmo_473x33mmCaseless_AP.label>
+  <MakeAmmo_473x33mmCaseless_AP.description>4.73x33mm 무탄피 (철갑탄) 탄약 제작합니다.</MakeAmmo_473x33mmCaseless_AP.description>
+  <MakeAmmo_473x33mmCaseless_AP.jobString>4.73x33mm 무탄피 (철갑탄) 탄약 제작 중.</MakeAmmo_473x33mmCaseless_AP.jobString>
+  <MakeAmmo_473x33mmCaseless_HP.label>4.73x33mm 무탄피 (HP탄) 탄약 500발 제작</MakeAmmo_473x33mmCaseless_HP.label>
+  <MakeAmmo_473x33mmCaseless_HP.description>4.73x33mm 무탄피 (HP탄) 탄약 제작합니다.</MakeAmmo_473x33mmCaseless_HP.description>
+  <MakeAmmo_473x33mmCaseless_HP.jobString>4.73x33mm 무탄피 (HP탄) 탄약 제작 중.</MakeAmmo_473x33mmCaseless_HP.jobString>
+  <MakeAmmo_500SWMagnum_FMJ.label>.500 S&amp;W 매그넘 (일반탄) 200발 제작</MakeAmmo_500SWMagnum_FMJ.label>
+  <MakeAmmo_500SWMagnum_FMJ.description>.500 S&amp;W 매그넘 (일반탄) 탄약을 200발 제작합니다.</MakeAmmo_500SWMagnum_FMJ.description>
+  <MakeAmmo_500SWMagnum_FMJ.jobString>.500 S&amp;W 매그넘 (일반탄) 제작 중.</MakeAmmo_500SWMagnum_FMJ.jobString>
+  <MakeAmmo_500SWMagnum_HP.label>.500 S&amp;W 매그넘 (HP탄) 200발 제작</MakeAmmo_500SWMagnum_HP.label>
+  <MakeAmmo_500SWMagnum_HP.description>.500 S&amp;W 매그넘 (HP탄) 탄약을 200발 제작합니다.</MakeAmmo_500SWMagnum_HP.description>
+  <MakeAmmo_500SWMagnum_HP.jobString>.500 S&amp;W 매그넘 (HP탄) 제작 중.</MakeAmmo_500SWMagnum_HP.jobString>
+  <MakeAmmo_50AE_HP.label>.50 AE (HP탄) 200발 제작</MakeAmmo_50AE_HP.label>
+  <MakeAmmo_50AE_HP.description>.50 AE (HP탄) 탄약을 200발 제작합니다.</MakeAmmo_50AE_HP.description>
+  <MakeAmmo_50AE_HP.jobString>.50 AE (HP탄) 제작 중.</MakeAmmo_50AE_HP.jobString>
+  <MakeAmmo_50AE_FMJ.label>.50 AE (일반탄) 200발 제작</MakeAmmo_50AE_FMJ.label>
+  <MakeAmmo_50AE_FMJ.description>.50 AE (일반탄) 탄약을 200발 제작합니다.</MakeAmmo_50AE_FMJ.description>
+  <MakeAmmo_50AE_FMJ.jobString>.50 AE (일반탄) 제작 중.</MakeAmmo_50AE_FMJ.jobString>
+  <MakeAmmo_50BMG_FMJ.label>.50 BMG (일반탄) 200발 제작</MakeAmmo_50BMG_FMJ.label>
+  <MakeAmmo_50BMG_FMJ.description>.50 BMG (일반탄) 탄약을 200발 제작합니다.</MakeAmmo_50BMG_FMJ.description>
+  <MakeAmmo_50BMG_FMJ.jobString>.50 BMG (일반탄) 제작 중.</MakeAmmo_50BMG_FMJ.jobString>
+  <MakeAmmo_50BMG_Sabot.label>.50 BMG (날탄) 200발 제작</MakeAmmo_50BMG_Sabot.label>
+  <MakeAmmo_50BMG_Sabot.description>.50 BMG (날탄) 탄약을 200발 제작합니다.</MakeAmmo_50BMG_Sabot.description>
+  <MakeAmmo_50BMG_Sabot.jobString>.50 BMG (날탄) 제작 중.</MakeAmmo_50BMG_Sabot.jobString>
+  <MakeAmmo_50BMG_HE.label>.50 BMG (고폭탄) 200발 제작</MakeAmmo_50BMG_HE.label>
+  <MakeAmmo_50BMG_HE.description>.50 BMG (고폭탄) 탄약을 200발 제작합니다.</MakeAmmo_50BMG_HE.description>
+  <MakeAmmo_50BMG_HE.jobString>.50 BMG (고폭탄) 제작 중.</MakeAmmo_50BMG_HE.jobString>
+  <MakeAmmo_50BMG_Incendiary.label>.50 BMG (철갑소이탄) 200발 제작</MakeAmmo_50BMG_Incendiary.label>
+  <MakeAmmo_50BMG_Incendiary.description>.50 BMG (철갑소이탄) 탄약을 200발 제작합니다.</MakeAmmo_50BMG_Incendiary.description>
+  <MakeAmmo_50BMG_Incendiary.jobString>.50 BMG (철갑소이탄) 제작 중.</MakeAmmo_50BMG_Incendiary.jobString>
+  <MakeAmmo_50mmType89MortarShell_HE.label>50mm 89식 (고폭탄) 박격포 포탄 5발 제작</MakeAmmo_50mmType89MortarShell_HE.label>
+  <MakeAmmo_50mmType89MortarShell_HE.description>50mm 89식 (고폭탄) 박격포 포탄 제작합니다.</MakeAmmo_50mmType89MortarShell_HE.description>
+  <MakeAmmo_50mmType89MortarShell_HE.jobString>50mm 89식 (고폭탄) 박격포 포탄 제작 중.</MakeAmmo_50mmType89MortarShell_HE.jobString>
+  <MakeAmmo_545x39mmSoviet_FMJ.label>5.45x39mm 소비에트 (일반탄) 500발 제작</MakeAmmo_545x39mmSoviet_FMJ.label>
+  <MakeAmmo_545x39mmSoviet_FMJ.description>5.45x39mm 소비에트 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_545x39mmSoviet_FMJ.description>
+  <MakeAmmo_545x39mmSoviet_FMJ.jobString>5.45x39mm 소비에트 (일반탄) 제작 중.</MakeAmmo_545x39mmSoviet_FMJ.jobString>
+  <MakeAmmo_545x39mmSoviet_AP.label>5.45x39mm 소비에트 (철갑탄) 500발 제작</MakeAmmo_545x39mmSoviet_AP.label>
+  <MakeAmmo_545x39mmSoviet_AP.description>5.45x39mm 소비에트 (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_545x39mmSoviet_AP.description>
+  <MakeAmmo_545x39mmSoviet_AP.jobString>5.45x39mm 소비에트 (철갑탄) 제작 중.</MakeAmmo_545x39mmSoviet_AP.jobString>
+  <MakeAmmo_545x39mmSoviet_HP.label>5.45x39mm 소비에트 (HP탄) 500발 제작</MakeAmmo_545x39mmSoviet_HP.label>
+  <MakeAmmo_545x39mmSoviet_HP.description>5.45x39mm 소비에트 (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_545x39mmSoviet_HP.description>
+  <MakeAmmo_545x39mmSoviet_HP.jobString>5.45x39mm 소비에트 (HP탄) 제작 중.</MakeAmmo_545x39mmSoviet_HP.jobString>
+  <MakeAmmo_556x45mmNATO_FMJ.label>5.56x45mm 나토 (일반탄) 500발 제작</MakeAmmo_556x45mmNATO_FMJ.label>
+  <MakeAmmo_556x45mmNATO_FMJ.description>5.56x45mm 나토 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_556x45mmNATO_FMJ.description>
+  <MakeAmmo_556x45mmNATO_FMJ.jobString>5.56x45mm 나토 (일반탄) 제작 중.</MakeAmmo_556x45mmNATO_FMJ.jobString>
+  <MakeAmmo_556x45mmNATO_AP.label>5.56x45mm 나토 (철갑탄) 500발 제작</MakeAmmo_556x45mmNATO_AP.label>
+  <MakeAmmo_556x45mmNATO_AP.description>5.56x45mm 나토 (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_556x45mmNATO_AP.description>
+  <MakeAmmo_556x45mmNATO_AP.jobString>5.56x45mm 나토 (철갑탄) 제작 중.</MakeAmmo_556x45mmNATO_AP.jobString>
+  <MakeAmmo_556x45mmNATO_HP.label>5.56x45mm 나토 (HP탄) 500발 제작</MakeAmmo_556x45mmNATO_HP.label>
+  <MakeAmmo_556x45mmNATO_HP.description>5.56x45mm 나토 (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_556x45mmNATO_HP.description>
+  <MakeAmmo_556x45mmNATO_HP.jobString>5.56x45mm 나토 (HP탄) 제작 중.</MakeAmmo_556x45mmNATO_HP.jobString>
+  <MakeAmmo_55Boys_FMJ.label>.55 보이스 (일반탄) 탄약 200발 제작</MakeAmmo_55Boys_FMJ.label>
+  <MakeAmmo_55Boys_FMJ.description>.55 보이스 (일반탄) 탄약 제작합니다.</MakeAmmo_55Boys_FMJ.description>
+  <MakeAmmo_55Boys_FMJ.jobString>.55 보이스 (일반탄) 탄약 제작 중.</MakeAmmo_55Boys_FMJ.jobString>
+  <MakeAmmo_55Boys_AP.label>.55 보이스 (철갑탄) 탄약 200발 제작</MakeAmmo_55Boys_AP.label>
+  <MakeAmmo_55Boys_AP.description>.55 보이스 (철갑탄) 탄약 제작합니다.</MakeAmmo_55Boys_AP.description>
+  <MakeAmmo_55Boys_AP.jobString>.55 보이스 (철갑탄) 탄약 제작 중.</MakeAmmo_55Boys_AP.jobString>
+  <MakeAmmo_5656SpencerRimfire.label>.56-56 스펜서 림파이어 500발 제작</MakeAmmo_5656SpencerRimfire.label>
+  <MakeAmmo_5656SpencerRimfire.description>.56-56 스펜서 림파이어 탄약을 500발 제작합니다.</MakeAmmo_5656SpencerRimfire.description>
+  <MakeAmmo_5656SpencerRimfire.jobString>.56-56 스펜서 림파이어 제작 중.</MakeAmmo_5656SpencerRimfire.jobString>
+  <MakeAmmo_58x21mmDAP92_FMJ.label>5.8x21mm DAP92 (일반탄) 탄약 500발 제작</MakeAmmo_58x21mmDAP92_FMJ.label>
+  <MakeAmmo_58x21mmDAP92_FMJ.description>5.8x21mm DAP92 (일반탄) 탄약 제작합니다.</MakeAmmo_58x21mmDAP92_FMJ.description>
+  <MakeAmmo_58x21mmDAP92_FMJ.jobString>5.8x21mm DAP92 (일반탄) 탄약 제작 중.</MakeAmmo_58x21mmDAP92_FMJ.jobString>
+  <MakeAmmo_58x21mmDAP92_AP.label>5.8x21mm DAP92 (철갑탄) 탄약 500발 제작</MakeAmmo_58x21mmDAP92_AP.label>
+  <MakeAmmo_58x21mmDAP92_AP.description>5.8x21mm DAP92 (철갑탄) 탄약 제작합니다.</MakeAmmo_58x21mmDAP92_AP.description>
+  <MakeAmmo_58x21mmDAP92_AP.jobString>5.8x21mm DAP92 (철갑탄) 탄약 제작 중.</MakeAmmo_58x21mmDAP92_AP.jobString>
+  <MakeAmmo_58x21mmDAP92_HP.label>5.8x21mm DAP92 (HP탄) 탄약 500발 제작</MakeAmmo_58x21mmDAP92_HP.label>
+  <MakeAmmo_58x21mmDAP92_HP.description>5.8x21mm DAP92 (HP탄) 탄약 제작합니다.</MakeAmmo_58x21mmDAP92_HP.description>
+  <MakeAmmo_58x21mmDAP92_HP.jobString>5.8x21mm DAP92 (HP탄) 탄약 제작 중.</MakeAmmo_58x21mmDAP92_HP.jobString>
+  <MakeAmmo_58x42mmDBP10_FMJ.label>5.8x42mm DBP10 (일반탄) 탄약 500발 제작</MakeAmmo_58x42mmDBP10_FMJ.label>
+  <MakeAmmo_58x42mmDBP10_FMJ.description>5.8x42mm DBP10 (일반탄) 탄약 제작합니다.</MakeAmmo_58x42mmDBP10_FMJ.description>
+  <MakeAmmo_58x42mmDBP10_FMJ.jobString>5.8x42mm DBP10 (일반탄) 탄약 제작 중.</MakeAmmo_58x42mmDBP10_FMJ.jobString>
+  <MakeAmmo_58x42mmDBP10_AP.label>5.8x42mm DBP10 (철갑탄) 탄약 500발 제작</MakeAmmo_58x42mmDBP10_AP.label>
+  <MakeAmmo_58x42mmDBP10_AP.description>5.8x42mm DBP10 (철갑탄) 탄약 제작합니다.</MakeAmmo_58x42mmDBP10_AP.description>
+  <MakeAmmo_58x42mmDBP10_AP.jobString>5.8x42mm DBP10 (철갑탄) 탄약 제작 중.</MakeAmmo_58x42mmDBP10_AP.jobString>
+  <MakeAmmo_58x42mmDBP10_HP.label>5.8x42mm DBP10 (HP탄) 탄약 500발 제작</MakeAmmo_58x42mmDBP10_HP.label>
+  <MakeAmmo_58x42mmDBP10_HP.description>5.8x42mm DBP10 (HP탄) 탄약 제작합니다.</MakeAmmo_58x42mmDBP10_HP.description>
+  <MakeAmmo_58x42mmDBP10_HP.jobString>5.8x42mm DBP10 (HP탄) 탄약 제작 중.</MakeAmmo_58x42mmDBP10_HP.jobString>
+  <MakeAmmo_600NitroExpress_FMJ.label>.600 니트로 익스프레스 (일반탄) 탄약 350발 제작</MakeAmmo_600NitroExpress_FMJ.label>
+  <MakeAmmo_600NitroExpress_FMJ.description>.600 니트로 익스프레스 (일반탄) 탄약 제작합니다.</MakeAmmo_600NitroExpress_FMJ.description>
+  <MakeAmmo_600NitroExpress_FMJ.jobString>.600 니트로 익스프레스 (일반탄) 탄약 제작 중.</MakeAmmo_600NitroExpress_FMJ.jobString>
+  <MakeAmmo_600NitroExpress_HP.label>.600 니트로 익스프레스 (HP탄) 탄약 350발 제작</MakeAmmo_600NitroExpress_HP.label>
+  <MakeAmmo_600NitroExpress_HP.description>.600 니트로 익스프레스 (HP탄) 탄약 제작합니다.</MakeAmmo_600NitroExpress_HP.description>
+  <MakeAmmo_600NitroExpress_HP.jobString>.600 니트로 익스프레스 (HP탄) 탄약 제작 중.</MakeAmmo_600NitroExpress_HP.jobString>
+  <MakeAmmo_65x50mmSRArisaka_FMJ.label>6.5x50mmSR 아리사카 (일반탄) 탄약 500발 제작</MakeAmmo_65x50mmSRArisaka_FMJ.label>
+  <MakeAmmo_65x50mmSRArisaka_FMJ.description>6.5x50mmSR 아리사카 (일반탄) 탄약 제작합니다.</MakeAmmo_65x50mmSRArisaka_FMJ.description>
+  <MakeAmmo_65x50mmSRArisaka_FMJ.jobString>6.5x50mmSR 아리사카 (일반탄) 탄약 제작 중.</MakeAmmo_65x50mmSRArisaka_FMJ.jobString>
+  <MakeAmmo_65x50mmSRArisaka_AP.label>6.5x50mmSR 아리사카 (철갑탄) 탄약 500발 제작</MakeAmmo_65x50mmSRArisaka_AP.label>
+  <MakeAmmo_65x50mmSRArisaka_AP.description>6.5x50mmSR 아리사카 (철갑탄) 탄약 제작합니다.</MakeAmmo_65x50mmSRArisaka_AP.description>
+  <MakeAmmo_65x50mmSRArisaka_AP.jobString>6.5x50mmSR 아리사카 (철갑탄) 탄약 제작 중.</MakeAmmo_65x50mmSRArisaka_AP.jobString>
+  <MakeAmmo_65x50mmSRArisaka_HP.label>6.5x50mmSR 아리사카 (HP탄) 탄약 500발 제작</MakeAmmo_65x50mmSRArisaka_HP.label>
+  <MakeAmmo_65x50mmSRArisaka_HP.description>6.5x50mmSR 아리사카 (HP탄) 탄약 제작합니다.</MakeAmmo_65x50mmSRArisaka_HP.description>
+  <MakeAmmo_65x50mmSRArisaka_HP.jobString>6.5x50mmSR 아리사카 (HP탄) 탄약 제작 중.</MakeAmmo_65x50mmSRArisaka_HP.jobString>
+  <MakeAmmo_6x18mmCharged.label>6x18mm 전자기탄 100발 제작</MakeAmmo_6x18mmCharged.label>
+  <MakeAmmo_6x18mmCharged.description>6x18mm 전자기탄을 100발 제작합니다.</MakeAmmo_6x18mmCharged.description>
+  <MakeAmmo_6x18mmCharged.jobString>6x18mm 전자기탄 제작 중.</MakeAmmo_6x18mmCharged.jobString>
+  <MakeAmmo_6x18mmCharged_AP.label>6x18mm 전자기탄 (집중입자탄) 100발 제작</MakeAmmo_6x18mmCharged_AP.label>
+  <MakeAmmo_6x18mmCharged_AP.description>6x18mm 전자기탄 (집중입자탄)을 100발 제작합니다.</MakeAmmo_6x18mmCharged_AP.description>
+  <MakeAmmo_6x18mmCharged_AP.jobString>6x18mm 전자기탄 (집중입자탄) 제작 중.</MakeAmmo_6x18mmCharged_AP.jobString>
+  <MakeAmmo_6x18mmCharged_Ion.label>6x18mm 전자기탄 (이온전자탄) 100발 제작</MakeAmmo_6x18mmCharged_Ion.label>
+  <MakeAmmo_6x18mmCharged_Ion.description>6x18mm 전자기탄 (이온전자탄)을 100발 제작합니다.</MakeAmmo_6x18mmCharged_Ion.description>
+  <MakeAmmo_6x18mmCharged_Ion.jobString>6x18mm 전자기탄 (이온전자탄) 제작 중.</MakeAmmo_6x18mmCharged_Ion.jobString>
+  <MakeAmmo_6x24mmCharged.label>6x24mm 전자기탄 100발 제작</MakeAmmo_6x24mmCharged.label>
+  <MakeAmmo_6x24mmCharged.description>6x24mm 전자기탄을 100발 제작합니다.</MakeAmmo_6x24mmCharged.description>
+  <MakeAmmo_6x24mmCharged.jobString>6x24mm 전자기탄 제작 중.</MakeAmmo_6x24mmCharged.jobString>
+  <MakeAmmo_6x24mmCharged_AP.label>6x24mm 전자기탄 (집중입자탄) 100발 제작</MakeAmmo_6x24mmCharged_AP.label>
+  <MakeAmmo_6x24mmCharged_AP.description>6x24mm 전자기탄 (집중입자탄)을 100발 제작합니다.</MakeAmmo_6x24mmCharged_AP.description>
+  <MakeAmmo_6x24mmCharged_AP.jobString>6x24mm 전자기탄 (집중입자탄) 제작 중.</MakeAmmo_6x24mmCharged_AP.jobString>
+  <MakeAmmo_6x24mmCharged_Ion.label>6x24mm 전자기탄 (이온전자탄) 100발 제작</MakeAmmo_6x24mmCharged_Ion.label>
+  <MakeAmmo_6x24mmCharged_Ion.description>6x24mm 전자기탄 (이온전자탄)을 100발 제작합니다.</MakeAmmo_6x24mmCharged_Ion.description>
+  <MakeAmmo_6x24mmCharged_Ion.jobString>6x24mm 전자기탄 (이온전자탄) 제작 중.</MakeAmmo_6x24mmCharged_Ion.jobString>
+  <MakeAmmo_792x51mmMauser_FMJ.label>7.92x57mm 마우저 (일반탄) 500발 제작</MakeAmmo_792x51mmMauser_FMJ.label>
+  <MakeAmmo_792x51mmMauser_FMJ.description>7.92x57mm 마우저 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_792x51mmMauser_FMJ.description>
+  <MakeAmmo_792x51mmMauser_FMJ.jobString>7.92x57mm 마우저 (일반탄) 제작 중.</MakeAmmo_792x51mmMauser_FMJ.jobString>
+  <MakeAmmo_792x51mmMauser_AP.label>7.92x57mm 마우저 (철갑탄) 500발 제작</MakeAmmo_792x51mmMauser_AP.label>
+  <MakeAmmo_792x51mmMauser_AP.description>7.92x57mm 마우저 (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_792x51mmMauser_AP.description>
+  <MakeAmmo_792x51mmMauser_AP.jobString>7.92x57mm 마우저 (철갑탄) 제작 중.</MakeAmmo_792x51mmMauser_AP.jobString>
+  <MakeAmmo_792x51mmMauser_HP.label>7.92x57mm 마우저 (HP탄) 500발 제작</MakeAmmo_792x51mmMauser_HP.label>
+  <MakeAmmo_792x51mmMauser_HP.description>7.92x57mm 마우저 (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_792x51mmMauser_HP.description>
+  <MakeAmmo_792x51mmMauser_HP.jobString>7.92x57mm 마우저 (HP탄) 제작 중.</MakeAmmo_792x51mmMauser_HP.jobString>
+  <MakeAmmo_70mmAPKWS_HEAT.label>70mm APKWS (대전차고폭탄) 로켓 5발 제작</MakeAmmo_70mmAPKWS_HEAT.label>
+  <MakeAmmo_70mmAPKWS_HEAT.description>70mm APKWS (대전차고폭탄) 로켓 제작합니다.</MakeAmmo_70mmAPKWS_HEAT.description>
+  <MakeAmmo_70mmAPKWS_HEAT.jobString>70mm APKWS (대전차고폭탄) 로켓 제작 중.</MakeAmmo_70mmAPKWS_HEAT.jobString>
+  <MakeAmmo_75x54mmFrench_FMJ.label>7.5x54mm 프랑스 (일반탄) 탄약 500발 제작</MakeAmmo_75x54mmFrench_FMJ.label>
+  <MakeAmmo_75x54mmFrench_FMJ.description>7.5x54mm 프랑스 (일반탄) 탄약 제작합니다.</MakeAmmo_75x54mmFrench_FMJ.description>
+  <MakeAmmo_75x54mmFrench_FMJ.jobString>7.5x54mm 프랑스 (일반탄) 탄약 제작 중.</MakeAmmo_75x54mmFrench_FMJ.jobString>
+  <MakeAmmo_75x54mmFrench_AP.label>7.5x54mm 프랑스 (철갑탄) 탄약 500발 제작</MakeAmmo_75x54mmFrench_AP.label>
+  <MakeAmmo_75x54mmFrench_AP.description>7.5x54mm 프랑스 (철갑탄) 탄약 제작합니다.</MakeAmmo_75x54mmFrench_AP.description>
+  <MakeAmmo_75x54mmFrench_AP.jobString>7.5x54mm 프랑스 (철갑탄) 탄약 제작 중.</MakeAmmo_75x54mmFrench_AP.jobString>
+  <MakeAmmo_75x54mmFrench_HP.label>7.5x54mm 프랑스 (HP탄) 탄약 500발 제작</MakeAmmo_75x54mmFrench_HP.label>
+  <MakeAmmo_75x54mmFrench_HP.description>7.5x54mm 프랑스 (HP탄) 탄약 제작합니다.</MakeAmmo_75x54mmFrench_HP.description>
+  <MakeAmmo_75x54mmFrench_HP.jobString>7.5x54mm 프랑스 (HP탄) 탄약 제작 중.</MakeAmmo_75x54mmFrench_HP.jobString>
+  <MakeAmmo_762x25mmTokarev_FMJ.label>7.62x25mm 토카레프 (일반탄) 500발 제작</MakeAmmo_762x25mmTokarev_FMJ.label>
+  <MakeAmmo_762x25mmTokarev_FMJ.description>7.62x25mm 토카레프 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_762x25mmTokarev_FMJ.description>
+  <MakeAmmo_762x25mmTokarev_FMJ.jobString>7.62x25mm 토카레프 (일반탄) 제작 중.</MakeAmmo_762x25mmTokarev_FMJ.jobString>
+  <MakeAmmo_762x25mmTokarev_AP.label>7.62x25mm 토카레프 (철갑탄) 500발 제작</MakeAmmo_762x25mmTokarev_AP.label>
+  <MakeAmmo_762x25mmTokarev_AP.description>7.62x25mm 토카레프 (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_762x25mmTokarev_AP.description>
+  <MakeAmmo_762x25mmTokarev_AP.jobString>7.62x25mm 토카레프 (철갑탄) 제작 중.</MakeAmmo_762x25mmTokarev_AP.jobString>
+  <MakeAmmo_762x25mmTokarev_HP.label>7.62x25mm 토카레프 (HP탄) 500발 제작</MakeAmmo_762x25mmTokarev_HP.label>
+  <MakeAmmo_762x25mmTokarev_HP.description>7.62x25mm 토카레프 (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_762x25mmTokarev_HP.description>
+  <MakeAmmo_762x25mmTokarev_HP.jobString>7.62x25mm 토카레프 (HP탄) 제작 중.</MakeAmmo_762x25mmTokarev_HP.jobString>
+  <MakeAmmo_762x38mmR_FMJ.label>7.62x38mmR (일반탄) 탄약 500발 제작</MakeAmmo_762x38mmR_FMJ.label>
+  <MakeAmmo_762x38mmR_FMJ.description>7.62x38mmR (일반탄) 탄약 제작합니다.</MakeAmmo_762x38mmR_FMJ.description>
+  <MakeAmmo_762x38mmR_FMJ.jobString>7.62x38mmR (일반탄) 탄약 제작 중.</MakeAmmo_762x38mmR_FMJ.jobString>
+  <MakeAmmo_762x39mmSoviet_FMJ.label>7.62x39mm 소비에트 (일반탄) 500발 제작</MakeAmmo_762x39mmSoviet_FMJ.label>
+  <MakeAmmo_762x39mmSoviet_FMJ.description>7.62x39mm 소비에트 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_762x39mmSoviet_FMJ.description>
+  <MakeAmmo_762x39mmSoviet_FMJ.jobString>7.62x39mm 소비에트 (일반탄) 제작 중.</MakeAmmo_762x39mmSoviet_FMJ.jobString>
+  <MakeAmmo_762x39mmSoviet_AP.label>7.62x39mm 소비에트 (철갑탄) 500발 제작</MakeAmmo_762x39mmSoviet_AP.label>
+  <MakeAmmo_762x39mmSoviet_AP.description>7.62x39mm 소비에트 (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_762x39mmSoviet_AP.description>
+  <MakeAmmo_762x39mmSoviet_AP.jobString>7.62x39mm 소비에트 (철갑탄) 제작 중.</MakeAmmo_762x39mmSoviet_AP.jobString>
+  <MakeAmmo_762x39mmSoviet_HP.label>7.62x39mm 소비에트 (HP탄) 500발 제작</MakeAmmo_762x39mmSoviet_HP.label>
+  <MakeAmmo_762x39mmSoviet_HP.description>7.62x39mm 소비에트 (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_762x39mmSoviet_HP.description>
+  <MakeAmmo_762x39mmSoviet_HP.jobString>7.62x39mm 소비에트 (HP탄) 제작 중.</MakeAmmo_762x39mmSoviet_HP.jobString>
+  <MakeAmmo_762x51mmNATO_FMJ.label>7.62x51mm 나토 (일반탄) 500발 제작</MakeAmmo_762x51mmNATO_FMJ.label>
+  <MakeAmmo_762x51mmNATO_FMJ.description>7.62x51mm 나토 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_762x51mmNATO_FMJ.description>
+  <MakeAmmo_762x51mmNATO_FMJ.jobString>7.62x51mm 나토 (일반탄) 제작 중.</MakeAmmo_762x51mmNATO_FMJ.jobString>
+  <MakeAmmo_762x51mmNATO_AP.label>7.62x51mm 나토 (철갑탄) 500발 제작</MakeAmmo_762x51mmNATO_AP.label>
+  <MakeAmmo_762x51mmNATO_AP.description>7.62x51mm 나토 (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_762x51mmNATO_AP.description>
+  <MakeAmmo_762x51mmNATO_AP.jobString>7.62x51mm 나토 (철갑탄) 제작 중.</MakeAmmo_762x51mmNATO_AP.jobString>
+  <MakeAmmo_762x51mmNATO_HP.label>7.62x51mm 나토 (HP탄) 500발 제작</MakeAmmo_762x51mmNATO_HP.label>
+  <MakeAmmo_762x51mmNATO_HP.description>7.62x51mm 나토 (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_762x51mmNATO_HP.description>
+  <MakeAmmo_762x51mmNATO_HP.jobString>7.62x51mm 나토 (HP탄) 제작 중.</MakeAmmo_762x51mmNATO_HP.jobString>
+  <MakeAmmo_762x51mmNATO_NL.label>7.62x51mm 나토 (신경제) 탄약 500발 제작</MakeAmmo_762x51mmNATO_NL.label>
+  <MakeAmmo_762x51mmNATO_NL.description>7.62x51mm 나토 (신경제) 탄약 제작합니다.</MakeAmmo_762x51mmNATO_NL.description>
+  <MakeAmmo_762x51mmNATO_NL.jobString>7.62x51mm 나토 (신경제) 탄약 제작 중.</MakeAmmo_762x51mmNATO_NL.jobString>
+  <MakeAmmo_762x54mmR_FMJ.label>7.62x54mmR (일반탄) 500발 제작</MakeAmmo_762x54mmR_FMJ.label>
+  <MakeAmmo_762x54mmR_FMJ.description>7.62x54mmR (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_762x54mmR_FMJ.description>
+  <MakeAmmo_762x54mmR_FMJ.jobString>7.62x54mmR (일반탄) 제작 중.</MakeAmmo_762x54mmR_FMJ.jobString>
+  <MakeAmmo_762x54mmR_AP.label>7.62x54mmR (철갑탄) 500발 제작</MakeAmmo_762x54mmR_AP.label>
+  <MakeAmmo_762x54mmR_AP.description>7.62x54mmR (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_762x54mmR_AP.description>
+  <MakeAmmo_762x54mmR_AP.jobString>7.62x54mmR (철갑탄) 제작 중.</MakeAmmo_762x54mmR_AP.jobString>
+  <MakeAmmo_762x54mmR_HP.label>7.62x54mmR (HP탄) 500발 제작</MakeAmmo_762x54mmR_HP.label>
+  <MakeAmmo_762x54mmR_HP.description>7.62x54mmR (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_762x54mmR_HP.description>
+  <MakeAmmo_762x54mmR_HP.jobString>7.62x54mmR (HP탄) 제작 중.</MakeAmmo_762x54mmR_HP.jobString>
+  <MakeAmmo_763x25mmMauser_FMJ.label>7.63x25mm 마우저 (일반탄) 탄약 500발 제작</MakeAmmo_763x25mmMauser_FMJ.label>
+  <MakeAmmo_763x25mmMauser_FMJ.description>7.63x25mm 마우저 (일반탄) 탄약 제작합니다.</MakeAmmo_763x25mmMauser_FMJ.description>
+  <MakeAmmo_763x25mmMauser_FMJ.jobString>7.63x25mm 마우저 (일반탄) 탄약 제작 중.</MakeAmmo_763x25mmMauser_FMJ.jobString>
+  <MakeAmmo_77x58mmArisaka_FMJ.label>7.7x58mm 아리사카 (일반탄) 탄약 500발 제작</MakeAmmo_77x58mmArisaka_FMJ.label>
+  <MakeAmmo_77x58mmArisaka_FMJ.description>7.7x58mm 아리사카 (일반탄) 탄약 제작합니다.</MakeAmmo_77x58mmArisaka_FMJ.description>
+  <MakeAmmo_77x58mmArisaka_FMJ.jobString>7.7x58mm 아리사카 (일반탄) 탄약 제작 중.</MakeAmmo_77x58mmArisaka_FMJ.jobString>
+  <MakeAmmo_77x58mmArisaka_AP.label>7.7x58mm 아리사카 (철갑탄) 탄약 500발 제작</MakeAmmo_77x58mmArisaka_AP.label>
+  <MakeAmmo_77x58mmArisaka_AP.description>7.7x58mm 아리사카 (철갑탄) 탄약 제작합니다.</MakeAmmo_77x58mmArisaka_AP.description>
+  <MakeAmmo_77x58mmArisaka_AP.jobString>7.7x58mm 아리사카 (철갑탄) 탄약 제작 중.</MakeAmmo_77x58mmArisaka_AP.jobString>
+  <MakeAmmo_77x58mmArisaka_HP.label>7.7x58mm 아리사카 (HP탄) 탄약 500발 제작</MakeAmmo_77x58mmArisaka_HP.label>
+  <MakeAmmo_77x58mmArisaka_HP.description>7.7x58mm 아리사카 (HP탄) 탄약 제작합니다.</MakeAmmo_77x58mmArisaka_HP.description>
+  <MakeAmmo_77x58mmArisaka_HP.jobString>7.7x58mm 아리사카 (HP탄) 탄약 제작 중.</MakeAmmo_77x58mmArisaka_HP.jobString>
+  <MakeAmmo_792x33mmKurz_FMJ.label>7.92x33mm 크루즈(일반탄) 탄약 500발 제작</MakeAmmo_792x33mmKurz_FMJ.label>
+  <MakeAmmo_792x33mmKurz_FMJ.description>7.92x33mm 크루즈(일반탄) 탄약 제작합니다.</MakeAmmo_792x33mmKurz_FMJ.description>
+  <MakeAmmo_792x33mmKurz_FMJ.jobString>7.92x33mm 크루즈(일반탄) 탄약 제작 중.</MakeAmmo_792x33mmKurz_FMJ.jobString>
+  <MakeShell_HighExplosive.label>81mm (고폭탄) 박격포 포탄 5발 제작</MakeShell_HighExplosive.label>
+  <MakeShell_HighExplosive.description>81mm (고폭탄) 박격포 포탄 제작합니다.</MakeShell_HighExplosive.description>
+  <MakeShell_HighExplosive.jobString>81mm (고폭탄) 박격포 포탄 제작 중.</MakeShell_HighExplosive.jobString>
+  <MakeShell_Incendiary.label>81mm (철갑소이탄) 박격포 포탄 5발 제작</MakeShell_Incendiary.label>
+  <MakeShell_Incendiary.description>81mm (철갑소이탄) 박격포 포탄 제작합니다.</MakeShell_Incendiary.description>
+  <MakeShell_Incendiary.jobString>81mm (철갑소이탄) 박격포 포탄 제작 중.</MakeShell_Incendiary.jobString>
+  <MakeShell_EMP.label>81mm EMP 박격포 포탄 5발 제작</MakeShell_EMP.label>
+  <MakeShell_EMP.description>81mm EMP 박격포 포탄 제작합니다.</MakeShell_EMP.description>
+  <MakeShell_EMP.jobString>81mm EMP 박격포 포탄 제작 중.</MakeShell_EMP.jobString>
+  <MakeShell_Firefoam.label>81mm (화재진압탄) 박격포 포탄 5발 제작</MakeShell_Firefoam.label>
+  <MakeShell_Firefoam.description>81mm (화재진압탄) 박격포 포탄 제작합니다.</MakeShell_Firefoam.description>
+  <MakeShell_Firefoam.jobString>81mm (화재진압탄) 박격포 포탄 제작 중.</MakeShell_Firefoam.jobString>
+  <MakeShell_Plasma.label>81mm (플라즈마) 박격포 포탄 5발 제작</MakeShell_Plasma.label>
+  <MakeShell_Plasma.description>81mm (플라즈마) 박격포 포탄 제작합니다.</MakeShell_Plasma.description>
+  <MakeShell_Plasma.jobString>81mm (플라즈마) 박격포 포탄 제작 중.</MakeShell_Plasma.jobString>
+  <MakeAmmo_83mmPIATGrenade_HEAT.label>83mm PIAT (대전차고폭탄) 유탄 5발 제작</MakeAmmo_83mmPIATGrenade_HEAT.label>
+  <MakeAmmo_83mmPIATGrenade_HEAT.description>83mm PIAT (대전차고폭탄) 유탄 제작합니다.</MakeAmmo_83mmPIATGrenade_HEAT.description>
+  <MakeAmmo_83mmPIATGrenade_HEAT.jobString>83mm PIAT (대전차고폭탄) 유탄 제작 중.</MakeAmmo_83mmPIATGrenade_HEAT.jobString>
+  <MakeAmmo_83mmPIATGrenade_HE.label>83mm PIAT (고폭탄) 유탄 5발 제작</MakeAmmo_83mmPIATGrenade_HE.label>
+  <MakeAmmo_83mmPIATGrenade_HE.description>83mm PIAT (고폭탄) 유탄 제작합니다.</MakeAmmo_83mmPIATGrenade_HE.description>
+  <MakeAmmo_83mmPIATGrenade_HE.jobString>83mm PIAT (고폭탄) 유탄 제작 중.</MakeAmmo_83mmPIATGrenade_HE.jobString>
+  <MakeAmmo_83mmSMAW_HEAT.label>83mm SMAW (대전차고폭탄) 로켓 5발 제작</MakeAmmo_83mmSMAW_HEAT.label>
+  <MakeAmmo_83mmSMAW_HEAT.description>83mm SMAW (대전차고폭탄) 로켓 제작합니다.</MakeAmmo_83mmSMAW_HEAT.description>
+  <MakeAmmo_83mmSMAW_HEAT.jobString>83mm SMAW (대전차고폭탄) 로켓 제작 중.</MakeAmmo_83mmSMAW_HEAT.jobString>
+  <MakeAmmo_83mmSMAW_Thermobaric.label>83mm SMAW (열압력탄) 로켓 5발 제작</MakeAmmo_83mmSMAW_Thermobaric.label>
+  <MakeAmmo_83mmSMAW_Thermobaric.description>83mm SMAW (열압력탄) 로켓 제작합니다.</MakeAmmo_83mmSMAW_Thermobaric.description>
+  <MakeAmmo_83mmSMAW_Thermobaric.jobString>83mm SMAW (열압력탄) 로켓 제작 중.</MakeAmmo_83mmSMAW_Thermobaric.jobString>
+  <MakeAmmo_84x246mmR_HEAT.label>84x246mmR 포탄 (대전차고폭탄) 5발 제작</MakeAmmo_84x246mmR_HEAT.label>
+  <MakeAmmo_84x246mmR_HEAT.description>84x246mmR 포탄 (대전차고폭탄)을 5발 제작합니다.</MakeAmmo_84x246mmR_HEAT.description>
+  <MakeAmmo_84x246mmR_HEAT.jobString>84x246mmR 포탄 (대전차고폭탄) 제작 중.</MakeAmmo_84x246mmR_HEAT.jobString>
+  <MakeAmmo_84x246mmR_HE.label>84x246mmR 포탄 (고폭탄) 5발 제작</MakeAmmo_84x246mmR_HE.label>
+  <MakeAmmo_84x246mmR_HE.description>84x246mmR 포탄 (고폭탄)을 5발 제작합니다.</MakeAmmo_84x246mmR_HE.description>
+  <MakeAmmo_84x246mmR_HE.jobString>84x246mmR 포탄 (고폭탄) 제작 중.</MakeAmmo_84x246mmR_HE.jobString>
+  <MakeAmmo_88mmRPzB_HEAT.label>88mm RPzB (대전차고폭탄) 로켓 5발 제작</MakeAmmo_88mmRPzB_HEAT.label>
+  <MakeAmmo_88mmRPzB_HEAT.description>88mm RPzB (대전차고폭탄) 로켓 제작합니다.</MakeAmmo_88mmRPzB_HEAT.description>
+  <MakeAmmo_88mmRPzB_HEAT.jobString>88mm RPzB (대전차고폭탄) 로켓 제작 중.</MakeAmmo_88mmRPzB_HEAT.jobString>
+  <MakeAmmo_8x22mmNambu_FMJ.label>8x22mm 남부 (일반탄) 탄약 500발 제작</MakeAmmo_8x22mmNambu_FMJ.label>
+  <MakeAmmo_8x22mmNambu_FMJ.description>8x22mm 남부 (일반탄) 탄약 제작합니다.</MakeAmmo_8x22mmNambu_FMJ.description>
+  <MakeAmmo_8x22mmNambu_FMJ.jobString>8x22mm 남부 (일반탄) 탄약 제작 중.</MakeAmmo_8x22mmNambu_FMJ.jobString>
+  <MakeAmmo_8x35mmCharged.label>8x35mm 전자기탄 100발 제작</MakeAmmo_8x35mmCharged.label>
+  <MakeAmmo_8x35mmCharged.description>8x35mm 전자기탄을 100발 제작합니다.</MakeAmmo_8x35mmCharged.description>
+  <MakeAmmo_8x35mmCharged.jobString>8x35mm 전자기탄 제작 중.</MakeAmmo_8x35mmCharged.jobString>
+  <MakeAmmo_8x35mmCharged_AP.label>8x35mm 전자기탄 (집중입자탄) 100발 제작</MakeAmmo_8x35mmCharged_AP.label>
+  <MakeAmmo_8x35mmCharged_AP.description>8x35mm 전자기탄 (집중입자탄)을 100발 제작합니다.</MakeAmmo_8x35mmCharged_AP.description>
+  <MakeAmmo_8x35mmCharged_AP.jobString>8x35mm 전자기탄 (집중입자탄) 제작 중.</MakeAmmo_8x35mmCharged_AP.jobString>
+  <MakeAmmo_8x35mmCharged_Ion.label>8x35mm 전자기탄 (이온전자탄) 100발 제작</MakeAmmo_8x35mmCharged_Ion.label>
+  <MakeAmmo_8x35mmCharged_Ion.description>8x35mm 전자기탄 (이온전자탄)을 100발 제작합니다.</MakeAmmo_8x35mmCharged_Ion.description>
+  <MakeAmmo_8x35mmCharged_Ion.jobString>8x35mm 전자기탄 (이온전자탄) 제작 중.</MakeAmmo_8x35mmCharged_Ion.jobString>
+  <MakeAmmo_8x50mmRLebel_FMJ.label>8x50mmR 레벨 (일반탄) 탄약 500발 제작</MakeAmmo_8x50mmRLebel_FMJ.label>
+  <MakeAmmo_8x50mmRLebel_FMJ.description>8x50mmR 레벨 (일반탄) 탄약 제작합니다.</MakeAmmo_8x50mmRLebel_FMJ.description>
+  <MakeAmmo_8x50mmRLebel_FMJ.jobString>8x50mmR 레벨 (일반탄) 탄약 제작 중.</MakeAmmo_8x50mmRLebel_FMJ.jobString>
+  <MakeAmmo_90mmCannonShell_HEAT.label>90mm 포탄 (대전차고폭탄) 5발 제작</MakeAmmo_90mmCannonShell_HEAT.label>
+  <MakeAmmo_90mmCannonShell_HEAT.description>90mm 포탄 (대전차고폭탄)을 5발 제작합니다.</MakeAmmo_90mmCannonShell_HEAT.description>
+  <MakeAmmo_90mmCannonShell_HEAT.jobString>90mm 포탄 (대전차고폭탄) 제작 중.</MakeAmmo_90mmCannonShell_HEAT.jobString>
+  <MakeAmmo_90mmCannonShell_HE.label>90mm 포탄 (고폭탄) 5발 제작</MakeAmmo_90mmCannonShell_HE.label>
+  <MakeAmmo_90mmCannonShell_HE.description>90mm 포탄 (고폭탄)을 5발 제작합니다.</MakeAmmo_90mmCannonShell_HE.description>
+  <MakeAmmo_90mmCannonShell_HE.jobString>90mm 포탄 (고폭탄) 제작 중.</MakeAmmo_90mmCannonShell_HE.jobString>
+  <MakeAmmo_90mmCannonShell_EMP.label>90mm 포탄 (EMP탄) 5발 제작</MakeAmmo_90mmCannonShell_EMP.label>
+  <MakeAmmo_90mmCannonShell_EMP.description>90mm 포탄 (EMP탄)을 5발 제작합니다.</MakeAmmo_90mmCannonShell_EMP.description>
+  <MakeAmmo_90mmCannonShell_EMP.jobString>90mm 포탄 (EMP탄) 제작 중.</MakeAmmo_90mmCannonShell_EMP.jobString>
+  <MakeAmmo_950JDJ_FMJ.label>.950 JDJ (일반탄) 탄약 100발 제작</MakeAmmo_950JDJ_FMJ.label>
+  <MakeAmmo_950JDJ_FMJ.description>.950 JDJ (일반탄) 탄약 제작합니다.</MakeAmmo_950JDJ_FMJ.description>
+  <MakeAmmo_950JDJ_FMJ.jobString>.950 JDJ (일반탄) 탄약 제작 중.</MakeAmmo_950JDJ_FMJ.jobString>
+  <MakeAmmo_9x18mmMakarov_FMJ.label>9x18mm 마카로프 (일반탄) 탄약 500발 제작</MakeAmmo_9x18mmMakarov_FMJ.label>
+  <MakeAmmo_9x18mmMakarov_FMJ.description>9x18mm 마카로프 (일반탄) 탄약 제작합니다.</MakeAmmo_9x18mmMakarov_FMJ.description>
+  <MakeAmmo_9x18mmMakarov_FMJ.jobString>9x18mm 마카로프 (일반탄) 탄약 제작 중.</MakeAmmo_9x18mmMakarov_FMJ.jobString>
+  <MakeAmmo_9x18mmMakarov_AP.label>9x18mm 마카로프 (철갑탄) 탄약 500발 제작</MakeAmmo_9x18mmMakarov_AP.label>
+  <MakeAmmo_9x18mmMakarov_AP.description>9x18mm 마카로프 (철갑탄) 탄약 제작합니다.</MakeAmmo_9x18mmMakarov_AP.description>
+  <MakeAmmo_9x18mmMakarov_AP.jobString>9x18mm 마카로프 (철갑탄) 탄약 제작 중.</MakeAmmo_9x18mmMakarov_AP.jobString>
+  <MakeAmmo_9x18mmMakarov_HP.label>9x18mm 마카로프 (HP탄) 탄약 500발 제작</MakeAmmo_9x18mmMakarov_HP.label>
+  <MakeAmmo_9x18mmMakarov_HP.description>9x18mm 마카로프 (HP탄) 탄약 제작합니다.</MakeAmmo_9x18mmMakarov_HP.description>
+  <MakeAmmo_9x18mmMakarov_HP.jobString>9x18mm 마카로프 (HP탄) 탄약 제작 중.</MakeAmmo_9x18mmMakarov_HP.jobString>
+  <MakeAmmo_9x19mmPara_FMJ.label>9x19mm 파라블럼 (일반탄) 500발 제작</MakeAmmo_9x19mmPara_FMJ.label>
+  <MakeAmmo_9x19mmPara_FMJ.description>9x19mm 파라블럼 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_9x19mmPara_FMJ.description>
+  <MakeAmmo_9x19mmPara_FMJ.jobString>9x19mm 파라블럼 (일반탄) 제작 중.</MakeAmmo_9x19mmPara_FMJ.jobString>
+  <MakeAmmo_9x19mmPara_AP.label>9x19mm 파라블럼 (철갑탄) 500발 제작</MakeAmmo_9x19mmPara_AP.label>
+  <MakeAmmo_9x19mmPara_AP.description>9x19mm 파라블럼 (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_9x19mmPara_AP.description>
+  <MakeAmmo_9x19mmPara_AP.jobString>9x19mm 파라블럼 (철갑탄) 제작 중.</MakeAmmo_9x19mmPara_AP.jobString>
+  <MakeAmmo_9x19mmPara_HP.label>9x19mm 파라블럼 (HP탄) 500발 제작</MakeAmmo_9x19mmPara_HP.label>
+  <MakeAmmo_9x19mmPara_HP.description>9x19mm 파라블럼 (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_9x19mmPara_HP.description>
+  <MakeAmmo_9x19mmPara_HP.jobString>9x19mm 파라블럼 (HP탄) 제작 중.</MakeAmmo_9x19mmPara_HP.jobString>
+  <MakeAmmo_9x19mmPara_NL.label>9x19mm 파라블럼 (신경제) 탄약 500발 제작</MakeAmmo_9x19mmPara_NL.label>
+  <MakeAmmo_9x19mmPara_NL.description>9x19mm 파라블럼 (신경제) 탄약 제작합니다.</MakeAmmo_9x19mmPara_NL.description>
+  <MakeAmmo_9x19mmPara_NL.jobString>9x19mm 파라블럼 (신경제) 탄약 제작 중.</MakeAmmo_9x19mmPara_NL.jobString>
+  <MakeAmmo_9x21mmGyurza_FMJ.label>9x21mm 구르자 (일반탄) 탄약 500발 제작</MakeAmmo_9x21mmGyurza_FMJ.label>
+  <MakeAmmo_9x21mmGyurza_FMJ.description>9x21mm 구르자 (일반탄) 탄약 제작합니다.</MakeAmmo_9x21mmGyurza_FMJ.description>
+  <MakeAmmo_9x21mmGyurza_FMJ.jobString>9x21mm 구르자 (일반탄) 탄약 제작 중.</MakeAmmo_9x21mmGyurza_FMJ.jobString>
+  <MakeAmmo_9x21mmGyurza_AP.label>9x21mm 구르자 (철갑탄) 탄약 500발 제작</MakeAmmo_9x21mmGyurza_AP.label>
+  <MakeAmmo_9x21mmGyurza_AP.description>9x21mm 구르자 (철갑탄) 탄약 제작합니다.</MakeAmmo_9x21mmGyurza_AP.description>
+  <MakeAmmo_9x21mmGyurza_AP.jobString>9x21mm 구르자 (철갑탄) 탄약 제작 중.</MakeAmmo_9x21mmGyurza_AP.jobString>
+  <MakeAmmo_9x21mmGyurza_HP.label>9x21mm 구르자 (HP탄) 탄약 500발 제작</MakeAmmo_9x21mmGyurza_HP.label>
+  <MakeAmmo_9x21mmGyurza_HP.description>9x21mm 구르자 (HP탄) 탄약 제작합니다.</MakeAmmo_9x21mmGyurza_HP.description>
+  <MakeAmmo_9x21mmGyurza_HP.jobString>9x21mm 구르자 (HP탄) 탄약 제작 중.</MakeAmmo_9x21mmGyurza_HP.jobString>
+  <MakeAmmo_9x39mmSoviet_FMJ.label>9x39mm 소비에트 (일반탄) 500발 제작</MakeAmmo_9x39mmSoviet_FMJ.label>
+  <MakeAmmo_9x39mmSoviet_FMJ.description>9x39mm 소비에트 (일반탄) 탄약을 500발 제작합니다.</MakeAmmo_9x39mmSoviet_FMJ.description>
+  <MakeAmmo_9x39mmSoviet_FMJ.jobString>9x39mm 소비에트 (일반탄) 제작 중.</MakeAmmo_9x39mmSoviet_FMJ.jobString>
+  <MakeAmmo_9x39mmSoviet_AP.label>9x39mm 소비에트 (철갑탄) 500발 제작</MakeAmmo_9x39mmSoviet_AP.label>
+  <MakeAmmo_9x39mmSoviet_AP.description>9x39mm 소비에트 (철갑탄) 탄약을 500발 제작합니다.</MakeAmmo_9x39mmSoviet_AP.description>
+  <MakeAmmo_9x39mmSoviet_AP.jobString>9x39mm 소비에트 (철갑탄) 제작 중.</MakeAmmo_9x39mmSoviet_AP.jobString>
+  <MakeAmmo_9x39mmSoviet_HP.label>9x39mm 소비에트 (HP탄) 500발 제작</MakeAmmo_9x39mmSoviet_HP.label>
+  <MakeAmmo_9x39mmSoviet_HP.description>9x39mm 소비에트 (HP탄) 탄약을 500발 제작합니다.</MakeAmmo_9x39mmSoviet_HP.description>
+  <MakeAmmo_9x39mmSoviet_HP.jobString>9x39mm 소비에트 (HP탄) 제작 중.</MakeAmmo_9x39mmSoviet_HP.jobString>
+  <MakeAmmo_Arrow_Stone.label>돌 화살 10개 제작</MakeAmmo_Arrow_Stone.label>
+  <MakeAmmo_Arrow_Stone.description>돌 화살 제작 중.</MakeAmmo_Arrow_Stone.description>
+  <MakeAmmo_Arrow_Stone.jobString>돌 화살 제작 중.</MakeAmmo_Arrow_Stone.jobString>
+  <MakeAmmo_Arrow_Steel.label>강철 화살 10개 제작</MakeAmmo_Arrow_Steel.label>
+  <MakeAmmo_Arrow_Steel.description>강철 화살 제작 중.</MakeAmmo_Arrow_Steel.description>
+  <MakeAmmo_Arrow_Steel.jobString>강철 화살 제작 중.</MakeAmmo_Arrow_Steel.jobString>
+  <MakeAmmo_Arrow_Plasteel.label>플라스틸 화살 10개 제작</MakeAmmo_Arrow_Plasteel.label>
+  <MakeAmmo_Arrow_Plasteel.description>플라스틸 화살 제작 중.</MakeAmmo_Arrow_Plasteel.description>
+  <MakeAmmo_Arrow_Plasteel.jobString>플라스틸 화살 제작 중.</MakeAmmo_Arrow_Plasteel.jobString>
+  <MakeAmmo_CrossbowBolt_Stone.label>돌 석궁 볼트 10개 제작</MakeAmmo_CrossbowBolt_Stone.label>
+  <MakeAmmo_CrossbowBolt_Stone.description>돌 석궁 볼트.</MakeAmmo_CrossbowBolt_Stone.description>
+  <MakeAmmo_CrossbowBolt_Stone.jobString>돌 석궁 볼트.</MakeAmmo_CrossbowBolt_Stone.jobString>
+  <MakeAmmo_CrossbowBolt_Steel.label>강철 석궁 볼트 10개 제작</MakeAmmo_CrossbowBolt_Steel.label>
+  <MakeAmmo_CrossbowBolt_Steel.description>강철 석궁 볼트.</MakeAmmo_CrossbowBolt_Steel.description>
+  <MakeAmmo_CrossbowBolt_Steel.jobString>강철 석궁 볼트.</MakeAmmo_CrossbowBolt_Steel.jobString>
+  <MakeAmmo_CrossbowBolt_Plasteel.label>플라스틸 석궁 볼트 10개 제작</MakeAmmo_CrossbowBolt_Plasteel.label>
+  <MakeAmmo_CrossbowBolt_Plasteel.description>플라스틸 석궁 볼트.</MakeAmmo_CrossbowBolt_Plasteel.description>
+  <MakeAmmo_CrossbowBolt_Plasteel.jobString>플라스틸 석궁 볼트.</MakeAmmo_CrossbowBolt_Plasteel.jobString>
+  <MakeAmmo_Flamethrower_Napalm.label>네이팜 x100</MakeAmmo_Flamethrower_Napalm.label>
+  <MakeAmmo_Flamethrower_Napalm.description>네이팜을 만듭니다.</MakeAmmo_Flamethrower_Napalm.description>
+  <MakeAmmo_Flamethrower_Napalm.jobString>네이팜.</MakeAmmo_Flamethrower_Napalm.jobString>
+  <MakeAmmo_Flamethrower_Prometheum.label>젤리형 프로메튬 x100</MakeAmmo_Flamethrower_Prometheum.label>
+  <MakeAmmo_Flamethrower_Prometheum.description>젤리형 프로메튬.</MakeAmmo_Flamethrower_Prometheum.description>
+  <MakeAmmo_Flamethrower_Prometheum.jobString>젤리형 프로메튬.</MakeAmmo_Flamethrower_Prometheum.jobString>
+  <MakeAmmo_FN57x28mm_FMJ.label>FN 5.7x28mm (일반탄) 250발 제작</MakeAmmo_FN57x28mm_FMJ.label>
+  <MakeAmmo_FN57x28mm_FMJ.description>FN 5.7x28mm (일반탄) 탄약을 250발 제작합니다.</MakeAmmo_FN57x28mm_FMJ.description>
+  <MakeAmmo_FN57x28mm_FMJ.jobString>FN 5.7x28mm (일반탄) 제작 중.</MakeAmmo_FN57x28mm_FMJ.jobString>
+  <MakeAmmo_FN57x28mm_AP.label>FN 5.7x28mm (철갑탄) 250발 제작</MakeAmmo_FN57x28mm_AP.label>
+  <MakeAmmo_FN57x28mm_AP.description>FN 5.7x28mm (철갑탄) 탄약을 250발 제작합니다.</MakeAmmo_FN57x28mm_AP.description>
+  <MakeAmmo_FN57x28mm_AP.jobString>FN 5.7x28mm (철갑탄) 제작 중.</MakeAmmo_FN57x28mm_AP.jobString>
+  <MakeAmmo_FN57x28mm_HP.label>FN 5.7x28mm (HP탄) 250발 제작</MakeAmmo_FN57x28mm_HP.label>
+  <MakeAmmo_FN57x28mm_HP.description>FN 5.7x28mm (HP탄) 탄약을 250발 제작합니다.</MakeAmmo_FN57x28mm_HP.description>
+  <MakeAmmo_FN57x28mm_HP.jobString>FN 5.7x28mm (HP탄) 제작 중.</MakeAmmo_FN57x28mm_HP.jobString>
+  <MakeAmmo_ForsakensArrows.label>포세이큰 화살 10개 제작</MakeAmmo_ForsakensArrows.label>
+  <MakeAmmo_ForsakensArrows.description>포세이큰 화살 제작합니다.</MakeAmmo_ForsakensArrows.description>
+  <MakeAmmo_ForsakensArrows.jobString>포세이큰 화살 제작 중.</MakeAmmo_ForsakensArrows.jobString>
+  <MakeAmmo_GreatArrow_Stone.label>돌 장궁 화살 10개 제작</MakeAmmo_GreatArrow_Stone.label>
+  <MakeAmmo_GreatArrow_Stone.description>돌 장궁 화살 제작합니다.</MakeAmmo_GreatArrow_Stone.description>
+  <MakeAmmo_GreatArrow_Stone.jobString>돌 장궁 화살 제작 중.</MakeAmmo_GreatArrow_Stone.jobString>
+  <MakeAmmo_GreatArrow_Steel.label>강철 장궁 화살 10개 제작</MakeAmmo_GreatArrow_Steel.label>
+  <MakeAmmo_GreatArrow_Steel.description>강철 장궁 화살 제작합니다.</MakeAmmo_GreatArrow_Steel.description>
+  <MakeAmmo_GreatArrow_Steel.jobString>강철 장궁 화살 제작 중.</MakeAmmo_GreatArrow_Steel.jobString>
+  <MakeAmmo_GreatArrow_Plasteel.label>플라스틸 장궁 화살 10개 제작</MakeAmmo_GreatArrow_Plasteel.label>
+  <MakeAmmo_GreatArrow_Plasteel.description>플라스틸 장궁 화살 제작합니다.</MakeAmmo_GreatArrow_Plasteel.description>
+  <MakeAmmo_GreatArrow_Plasteel.jobString>플라스틸 장궁 화살 제작 중.</MakeAmmo_GreatArrow_Plasteel.jobString>
+  <MakeAmmo_M6_HEAT.label>M6 (대전차고폭탄) 로켓 5발 제작</MakeAmmo_M6_HEAT.label>
+  <MakeAmmo_M6_HEAT.description>M6 (대전차고폭탄) 로켓 제작합니다.</MakeAmmo_M6_HEAT.description>
+  <MakeAmmo_M6_HEAT.jobString>M6 (대전차고폭탄) 로켓 제작 중.</MakeAmmo_M6_HEAT.jobString>
+  <MakeAmmo_M6A1_HEAT.label>M6A1 (대전차고폭탄) 로켓 5발 제작</MakeAmmo_M6A1_HEAT.label>
+  <MakeAmmo_M6A1_HEAT.description>M6A1 (대전차고폭탄) 로켓 제작합니다.</MakeAmmo_M6A1_HEAT.description>
+  <MakeAmmo_M6A1_HEAT.jobString>M6A1 (대전차고폭탄) 로켓 제작 중.</MakeAmmo_M6A1_HEAT.jobString>
+  <MakeAmmo_M6A3_HEAT.label>M6A3 (대전차고폭탄) 로켓 5발 제작</MakeAmmo_M6A3_HEAT.label>
+  <MakeAmmo_M6A3_HEAT.description>M6A3 (대전차고폭탄) 로켓 제작합니다.</MakeAmmo_M6A3_HEAT.description>
+  <MakeAmmo_M6A3_HEAT.jobString>M6A3 (대전차고폭탄) 로켓 제작 중.</MakeAmmo_M6A3_HEAT.jobString>
+  <MakeAmmo_M6A3_Incendiary.label>M6A3 (철갑소이탄) 로켓 5발 제작</MakeAmmo_M6A3_Incendiary.label>
+  <MakeAmmo_M6A3_Incendiary.description>M6A3 (철갑소이탄) 로켓 제작합니다.</MakeAmmo_M6A3_Incendiary.description>
+  <MakeAmmo_M6A3_Incendiary.jobString>M6A3 (철갑소이탄) 로켓 제작 중.</MakeAmmo_M6A3_Incendiary.jobString>
+  <MakeAmmo_M74_Incendiary.label>M74 (철갑소이탄) 로켓 4발 제작</MakeAmmo_M74_Incendiary.label>
+  <MakeAmmo_M74_Incendiary.description>4 M74 (철갑소이탄) 로켓 제작합니다.</MakeAmmo_M74_Incendiary.description>
+  <MakeAmmo_M74_Incendiary.jobString>M74 (철갑소이탄) 로켓 제작 중.</MakeAmmo_M74_Incendiary.jobString>
+
+  <MakeFragGrenade.label>파쇄 수류탄 10개 제작</MakeFragGrenade.label>
+  <MakeFragGrenade.description>파쇄 수류탄을 10개 제작합니다.</MakeFragGrenade.description>
+  <MakeFragGrenade.jobString>파쇄 수류탄 제작 중.</MakeFragGrenade.jobString>
+  <MakeMolotovCocktail.label>화염병 10개 제작</MakeMolotovCocktail.label>
+  <MakeMolotovCocktail.description>화염병을 10개 제작합니다.</MakeMolotovCocktail.description>
+  <MakeMolotovCocktail.jobString>화염병 제작 중.</MakeMolotovCocktail.jobString>
+  <MakeEMPGrenade.label>EMP 수류탄 10개 제작</MakeEMPGrenade.label>
+  <MakeEMPGrenade.description>EMP 수류탄을 10개 제작합니다.</MakeEMPGrenade.description>
+  <MakeEMPGrenade.jobString>EMP 수류탄 제작 중.</MakeEMPGrenade.jobString>
+  <MakeFlashbangGrenade.label>섬광탄 10개 제작</MakeFlashbangGrenade.label>
+  <MakeFlashbangGrenade.description>섬광탄을 10개 제작합니다.</MakeFlashbangGrenade.description>
+  <MakeFlashbangGrenade.jobString>섬광탄 제작 중.</MakeFlashbangGrenade.jobString>
+  <MakeStickBomb.label>점착폭탄 10개 제작</MakeStickBomb.label>
+  <MakeStickBomb.description>점착폭탄을 10개 제작합니다.</MakeStickBomb.description>
+  <MakeStickBomb.jobString>점착폭탄 제작 중.</MakeStickBomb.jobString>
+  <MakeSmokeGrenade.label>연막탄 10개 제작</MakeSmokeGrenade.label>
+  <MakeSmokeGrenade.description>연막탄을 10개 제작합니다.</MakeSmokeGrenade.description>
+  <MakeSmokeGrenade.jobString>연막탄 제작 중.</MakeSmokeGrenade.jobString>
+  <MakeFirefoamGrenade.label>화재진압 수류탄 10개 제작</MakeFirefoamGrenade.label>
+  <MakeFirefoamGrenade.description>화재진압 수류탄을 10개 제작합니다.</MakeFirefoamGrenade.description>
+  <MakeFirefoamGrenade.jobString>화재진압 수류탄 제작 중.</MakeFirefoamGrenade.jobString>
+  <MakeAmmo_RPG32Rocket_HEAT.label>RPG-32 (대전차고폭탄) 로켓 5발 제작</MakeAmmo_RPG32Rocket_HEAT.label>
+  <MakeAmmo_RPG32Rocket_HEAT.description>RPG-32 (대전차고폭탄) 로켓 제작합니다.</MakeAmmo_RPG32Rocket_HEAT.description>
+  <MakeAmmo_RPG32Rocket_HEAT.jobString>RPG-32 (대전차고폭탄) 로켓 제작 중.</MakeAmmo_RPG32Rocket_HEAT.jobString>
+  <MakeAmmo_RPG32Rocket_Thermobaric.label>RPG-32 (열압력탄) 로켓 5발 제작</MakeAmmo_RPG32Rocket_Thermobaric.label>
+  <MakeAmmo_RPG32Rocket_Thermobaric.description>RPG-32 (열압력탄) 로켓 제작합니다.</MakeAmmo_RPG32Rocket_Thermobaric.description>
+  <MakeAmmo_RPG32Rocket_Thermobaric.jobString>RPG-32 (열압력탄) 로켓 제작 중.</MakeAmmo_RPG32Rocket_Thermobaric.jobString>
+  <MakeAmmo_RPG7Grenade_HEAT.label>RPG-7 로켓탄 (대전차고폭탄) 5발 제작</MakeAmmo_RPG7Grenade_HEAT.label>
+  <MakeAmmo_RPG7Grenade_HEAT.description>RPG-7 로켓탄 (대전차고폭탄)을 5발 제작합니다.</MakeAmmo_RPG7Grenade_HEAT.description>
+  <MakeAmmo_RPG7Grenade_HEAT.jobString>RPG-7 로켓탄 (대전차고폭탄) 제작 중.</MakeAmmo_RPG7Grenade_HEAT.jobString>
+  <MakeAmmo_RPG7Grenade_Thermobaric.label>RPG-7 로켓탄 (열압력탄) 5발 제작</MakeAmmo_RPG7Grenade_Thermobaric.label>
+  <MakeAmmo_RPG7Grenade_Thermobaric.description>RPG-7 (열압력탄)로켓탄을 5발 제작합니다.</MakeAmmo_RPG7Grenade_Thermobaric.description>
+  <MakeAmmo_RPG7Grenade_Thermobaric.jobString>RPG-7 (열압력탄)로켓탄 제작 중.</MakeAmmo_RPG7Grenade_Thermobaric.jobString>
+  <MakeAmmo_RPG7Grenade_Frag.label>RPG-7 로켓탄 (파쇄탄) 5발 제작</MakeAmmo_RPG7Grenade_Frag.label>
+  <MakeAmmo_RPG7Grenade_Frag.description>RPG-7 로켓탄 (파쇄탄)을 5발 제작합니다.</MakeAmmo_RPG7Grenade_Frag.description>
+  <MakeAmmo_RPG7Grenade_Frag.jobString>RPG-7 로켓탄 (파쇄탄) 제작 중.</MakeAmmo_RPG7Grenade_Frag.jobString>
+  <MakeAmmo_SlingBullet_Stone.label>돌 슬링탄 10개 제작</MakeAmmo_SlingBullet_Stone.label>
+  <MakeAmmo_SlingBullet_Stone.description>돌 슬링탄 제작합니다.</MakeAmmo_SlingBullet_Stone.description>
+  <MakeAmmo_SlingBullet_Stone.jobString>돌 슬링탄 제작 중.</MakeAmmo_SlingBullet_Stone.jobString>
+  <MakeAmmo_SlingBullet_Steel.label>강철 슬링탄 10개 제작</MakeAmmo_SlingBullet_Steel.label>
+  <MakeAmmo_SlingBullet_Steel.description>강철 슬링탄 제작합니다.</MakeAmmo_SlingBullet_Steel.description>
+  <MakeAmmo_SlingBullet_Steel.jobString>강철 슬링탄 제작 중.</MakeAmmo_SlingBullet_Steel.jobString>
+  <MakeAmmo_SlingBullet_Plasteel.label>플라스틸 슬링탄 10개 제작</MakeAmmo_SlingBullet_Plasteel.label>
+  <MakeAmmo_SlingBullet_Plasteel.description>플라스틸 슬링탄 제작합니다.</MakeAmmo_SlingBullet_Plasteel.description>
+  <MakeAmmo_SlingBullet_Plasteel.jobString>플라스틸 슬링탄 제작 중.</MakeAmmo_SlingBullet_Plasteel.jobString>
+  <MakeAmmo_SPG9Grenade_HEAT.label>SPG-9 무반동총탄 (대전차고폭탄) 5발 제작</MakeAmmo_SPG9Grenade_HEAT.label>
+  <MakeAmmo_SPG9Grenade_HEAT.description>SPG-9 무반동총탄 (대전차고폭탄)을 5발 제작합니다.</MakeAmmo_SPG9Grenade_HEAT.description>
+  <MakeAmmo_SPG9Grenade_HEAT.jobString>SPG-9 무반동총탄 (대전차고폭탄) 제작 중.</MakeAmmo_SPG9Grenade_HEAT.jobString>
+  <MakeAmmo_SPG9Grenade_Frag.label>SPG-9 무반동총탄 (파쇄탄) 5발 제작</MakeAmmo_SPG9Grenade_Frag.label>
+  <MakeAmmo_SPG9Grenade_Frag.description>SPG-9 무반동총탄 (파쇄탄)을 5발 제작합니다.</MakeAmmo_SPG9Grenade_Frag.description>
+  <MakeAmmo_SPG9Grenade_Frag.jobString>SPG-9 무반동총탄 (파쇄탄) 제작 중.</MakeAmmo_SPG9Grenade_Frag.jobString>
+  <MakeAmmo_StreamlinedArrow_Stone.label>돌 유선형 화살 x15</MakeAmmo_StreamlinedArrow_Stone.label>
+  <MakeAmmo_StreamlinedArrow_Stone.description>돌 유선형 화살 제작합니다.</MakeAmmo_StreamlinedArrow_Stone.description>
+  <MakeAmmo_StreamlinedArrow_Stone.jobString>돌 유선형 화살 제작 중.</MakeAmmo_StreamlinedArrow_Stone.jobString>
+  <MakeAmmo_StreamlinedArrow_Steel.label>강철 유선형 화살 x15</MakeAmmo_StreamlinedArrow_Steel.label>
+  <MakeAmmo_StreamlinedArrow_Steel.description>강철 유선형 화살 제작합니다.</MakeAmmo_StreamlinedArrow_Steel.description>
+  <MakeAmmo_StreamlinedArrow_Steel.jobString>강철 유선형 화살 제작 중.</MakeAmmo_StreamlinedArrow_Steel.jobString>
+  <MakeAmmo_StreamlinedArrow_Plasteel.label>플라스틸 유선형 화살 x15</MakeAmmo_StreamlinedArrow_Plasteel.label>
+  <MakeAmmo_StreamlinedArrow_Plasteel.description>플라스틸 유선형 화살 제작합니다.</MakeAmmo_StreamlinedArrow_Plasteel.description>
+  <MakeAmmo_StreamlinedArrow_Plasteel.jobString>플라스틸 유선형 화살 제작 중.</MakeAmmo_StreamlinedArrow_Plasteel.jobString>
+  <MakeAmmo_TomahawkLAM.label>토마호크 미사일</MakeAmmo_TomahawkLAM.label>
+  <MakeAmmo_TomahawkLAM.description>토마호크 미사일을 제작합니다.</MakeAmmo_TomahawkLAM.description>
+  <MakeAmmo_TomahawkLAM.jobString>토마호크 미사일 제작 중.</MakeAmmo_TomahawkLAM.jobString>
+  <MakeAmmo_Xenn_Hot.label>젠 플라즈마 전지 x50</MakeAmmo_Xenn_Hot.label>
+  <MakeAmmo_Xenn_Hot.description>젠 플라즈마 전지 제작합니다.</MakeAmmo_Xenn_Hot.description>
+  <MakeAmmo_Xenn_Hot.jobString>젠 플라즈마 전지 제작 중.</MakeAmmo_Xenn_Hot.jobString>
+  <MakeAmmo_Xenn_Cold.label>젠 냉각 전지 x50</MakeAmmo_Xenn_Cold.label>
+  <MakeAmmo_Xenn_Cold.description>젠 냉각 전지 제작합니다.</MakeAmmo_Xenn_Cold.description>
+  <MakeAmmo_Xenn_Cold.jobString>젠 냉각 전지 제작 중.</MakeAmmo_Xenn_Cold.jobString>
+  <MakeAmmo_Xenn_Foam.label>젠 포말 전지 x50</MakeAmmo_Xenn_Foam.label>
+  <MakeAmmo_Xenn_Foam.description>젠 포말 전지 제작합니다.</MakeAmmo_Xenn_Foam.description>
+  <MakeAmmo_Xenn_Foam.jobString>젠 포말 전지 제작 중.</MakeAmmo_Xenn_Foam.jobString>
+
+</LanguageData>

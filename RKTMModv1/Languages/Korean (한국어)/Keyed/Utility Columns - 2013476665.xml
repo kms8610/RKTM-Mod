@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RWC_TooClose>기둥 근처에 다른 구조물이 있습니다! 해당 방향으로는 폭발할 수 없습니다.</RWC_TooClose>
+  <RWC_Obstructed>
+방해물 있음: {0}쪽으로 폭발 불가</RWC_Obstructed>
+
+</LanguageData>

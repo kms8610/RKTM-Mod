@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TMB_StatueOfAnimal1x.label>동물 조각상(1x1)</TMB_StatueOfAnimal1x.label>
+  <TMB_StatueOfAnimal1x.description>한 동물을 모델로한 조각상입니다.</TMB_StatueOfAnimal1x.description>
+  <TMB_StatueOfAnimal2x.label>동물 조각상(2x2)</TMB_StatueOfAnimal2x.label>
+  <TMB_StatueOfAnimal2x.description>한 동물을 모델로한 조각상입니다.</TMB_StatueOfAnimal2x.description>
+  <TMB_MinifiedStatueOfAnimal.label>동물 조각상 (축소됨)</TMB_MinifiedStatueOfAnimal.label>
+
+</LanguageData>

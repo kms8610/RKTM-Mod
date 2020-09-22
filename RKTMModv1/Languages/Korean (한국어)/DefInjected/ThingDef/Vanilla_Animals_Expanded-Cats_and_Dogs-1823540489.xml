@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AEXP_CatAbyssinian.label>아비시니안 고양이</AEXP_CatAbyssinian.label>
+  <AEXP_CatAbyssinian.description>날씬하고 날렵한 체형을 들 수 있는데, 길고 가는 다리와 폭이 넓고 긴 꼬리를 가진 고양이입니다.</AEXP_CatAbyssinian.description>
+  <AEXP_CatAbyssinian.tools.0.label>왼쪽 발톱</AEXP_CatAbyssinian.tools.0.label>
+  <AEXP_CatAbyssinian.tools.1.label>오른쪽 발톱</AEXP_CatAbyssinian.tools.1.label>
+  <AEXP_CatAbyssinian.tools.3.label>머리</AEXP_CatAbyssinian.tools.3.label>
+  <AEXP_CatAbyssinian_Leather.label>아비시니안 고양이 가죽</AEXP_CatAbyssinian_Leather.label>
+  <AEXP_CatAbyssinian_Leather.description>아비시니안 고양이 가죽</AEXP_CatAbyssinian_Leather.description>
+  <AEXP_CatAbyssinian_Leather.stuffProps.stuffAdjective>아비시니안 고양이 가죽</AEXP_CatAbyssinian_Leather.stuffProps.stuffAdjective>
+  <AEXP_CatAbyssinian_Meat.label>아비시니안 고양이 고기</AEXP_CatAbyssinian_Meat.label>
+  <AEXP_CatAbyssinian_Meat.description>아비시니안 고양이 고기</AEXP_CatAbyssinian_Meat.description>
+  <AEXP_CatAbyssinian_Corpse.label>아비시니안 고양이 시체</AEXP_CatAbyssinian_Corpse.label>
+  <AEXP_CatAbyssinian_Corpse.description>아비시니안 고양이 시체</AEXP_CatAbyssinian_Corpse.description>
+  <AEXP_CatBengal.label>벵갈 고양이</AEXP_CatBengal.label>
+  <AEXP_CatBengal.description>일반 집고양이와 야생 삶의 교배종입니다.</AEXP_CatBengal.description>
+  <AEXP_CatBengal.tools.0.label>왼쪽 발톱</AEXP_CatBengal.tools.0.label>
+  <AEXP_CatBengal.tools.1.label>오른쪽 발톱</AEXP_CatBengal.tools.1.label>
+  <AEXP_CatBengal.tools.3.label>머리</AEXP_CatBengal.tools.3.label>
+  <AEXP_CatBengal_Leather.label>벵갈 고양이 가죽</AEXP_CatBengal_Leather.label>
+  <AEXP_CatBengal_Leather.description>벵갈 고양이 가죽</AEXP_CatBengal_Leather.description>
+  <AEXP_CatBengal_Leather.stuffProps.stuffAdjective>벵갈 고양이 가죽</AEXP_CatBengal_Leather.stuffProps.stuffAdjective>
+  <AEXP_CatBengal_Meat.label>벵갈 고양이 고기</AEXP_CatBengal_Meat.label>
+  <AEXP_CatBengal_Meat.description>벵갈 고양이 고기</AEXP_CatBengal_Meat.description>
+  <AEXP_CatBengal_Corpse.label>벵갈 고양이 시체</AEXP_CatBengal_Corpse.label>
+  <AEXP_CatBengal_Corpse.description>벵갈 고양이 시체</AEXP_CatBengal_Corpse.description>
+  <AEXP_CatBritishShorthair.label>브리티시 쇼트헤어 고양이</AEXP_CatBritishShorthair.label>
+  <AEXP_CatBritishShorthair.description>외형상으로 얼굴이 다른 종들보다 빵빵하고 둥근 것이 특징인 영국 혈통의 고양이입니다.큰 가슴과 강력해 보이는 발톱 때문에 상대적으로 위협적으로 보이지만 실제로는 매우 얌전하고 온순합니다.</AEXP_CatBritishShorthair.description>
+  <AEXP_CatBritishShorthair.tools.0.label>왼쪽 발톱</AEXP_CatBritishShorthair.tools.0.label>
+  <AEXP_CatBritishShorthair.tools.1.label>오른쪽 발톱</AEXP_CatBritishShorthair.tools.1.label>
+  <AEXP_CatBritishShorthair.tools.3.label>머리</AEXP_CatBritishShorthair.tools.3.label>
+  <AEXP_CatBritishShorthair_Leather.label>브리티시 쇼트헤어 고양이 가죽</AEXP_CatBritishShorthair_Leather.label>
+  <AEXP_CatBritishShorthair_Leather.description>브리티시 쇼트헤어 고양이 가죽</AEXP_CatBritishShorthair_Leather.description>
+  <AEXP_CatBritishShorthair_Leather.stuffProps.stuffAdjective>브리티시 쇼트헤어 고양이 가죽</AEXP_CatBritishShorthair_Leather.stuffProps.stuffAdjective>
+  <AEXP_CatBritishShorthair_Meat.label>브리티시 쇼트헤어 고양이 고기</AEXP_CatBritishShorthair_Meat.label>
+  <AEXP_CatBritishShorthair_Meat.description>브리티시 쇼트헤어 고양이 고기</AEXP_CatBritishShorthair_Meat.description>
+  <AEXP_CatBritishShorthair_Corpse.label>브리티시 쇼트헤어 고양이 시체</AEXP_CatBritishShorthair_Corpse.label>
+  <AEXP_CatBritishShorthair_Corpse.description>브리티시 쇼트헤어 고양이 시체</AEXP_CatBritishShorthair_Corpse.description>
+  <AEXP_CatMaineCoon.label>메인 쿤</AEXP_CatMaineCoon.label>
+  <AEXP_CatMaineCoon.description>길들여진 고양이 중에서 가장 큰 고양이로 독특한 외모와 능숙한 사냥 기술을 가지고 있습니다. 크고 사교적인 고양이이기 때문에 '예의바른 거인' 이라는 별명이 있습니다.</AEXP_CatMaineCoon.description>
+  <AEXP_CatMaineCoon.tools.0.label>왼쪽 발톱</AEXP_CatMaineCoon.tools.0.label>
+  <AEXP_CatMaineCoon.tools.1.label>오른쪽 발톱</AEXP_CatMaineCoon.tools.1.label>
+  <AEXP_CatMaineCoon.tools.3.label>머리</AEXP_CatMaineCoon.tools.3.label>
+  <AEXP_CatMaineCoon_Leather.label>메인 쿤 가죽</AEXP_CatMaineCoon_Leather.label>
+  <AEXP_CatMaineCoon_Leather.description>메인 쿤 가죽</AEXP_CatMaineCoon_Leather.description>
+  <AEXP_CatMaineCoon_Leather.stuffProps.stuffAdjective>메인 쿤 가죽</AEXP_CatMaineCoon_Leather.stuffProps.stuffAdjective>
+  <AEXP_CatMaineCoon_Meat.label>메인 쿤 고기</AEXP_CatMaineCoon_Meat.label>
+  <AEXP_CatMaineCoon_Meat.description>메인 쿤 고기</AEXP_CatMaineCoon_Meat.description>
+  <AEXP_CatMaineCoon_Corpse.label>메인 쿤 시체</AEXP_CatMaineCoon_Corpse.label>
+  <AEXP_CatMaineCoon_Corpse.description>메인 쿤 시체</AEXP_CatMaineCoon_Corpse.description>
+  <AEXP_CatMunchkin.label>먼치킨 고양이</AEXP_CatMunchkin.label>
+  <AEXP_CatMunchkin.description>소시지 고양이라고도 하는 이 새로운 품종은 다리가 짧습니다. 상냥하고 장난기가 많으며, 사람을 잘 따르는 이 고양이는 게으른 사람들에게 완벽한 동반자입니다.</AEXP_CatMunchkin.description>
+  <AEXP_CatMunchkin.tools.0.label>왼쪽 발톱</AEXP_CatMunchkin.tools.0.label>
+  <AEXP_CatMunchkin.tools.1.label>오른쪽 발톱</AEXP_CatMunchkin.tools.1.label>
+  <AEXP_CatMunchkin.tools.3.label>머리</AEXP_CatMunchkin.tools.3.label>
+  <AEXP_CatMunchkin_Leather.label>먼치킨 고양이 가죽</AEXP_CatMunchkin_Leather.label>
+  <AEXP_CatMunchkin_Leather.description>먼치킨 고양이 가죽</AEXP_CatMunchkin_Leather.description>
+  <AEXP_CatMunchkin_Leather.stuffProps.stuffAdjective>먼치킨 고양이 가죽</AEXP_CatMunchkin_Leather.stuffProps.stuffAdjective>
+  <AEXP_CatMunchkin_Meat.label>먼치킨 고양이 고기</AEXP_CatMunchkin_Meat.label>
+  <AEXP_CatMunchkin_Meat.description>먼치킨 고양이 고기</AEXP_CatMunchkin_Meat.description>
+  <AEXP_CatMunchkin_Corpse.label>먼치킨 고양이 시체</AEXP_CatMunchkin_Corpse.label>
+  <AEXP_CatMunchkin_Corpse.description>먼치킨 고양이 시체</AEXP_CatMunchkin_Corpse.description>
+  <AEXP_CatNorwegianForest.label>노르웨이 숲 고양이</AEXP_CatNorwegianForest.label>
+  <AEXP_CatNorwegianForest.description>광택있고 물을 팅겨내는 모피 덕문에 매우 추운 기후에서도 생활할 수 있는 고양이입니다.</AEXP_CatNorwegianForest.description>
+  <AEXP_CatNorwegianForest.tools.0.label>왼쪽 발톱</AEXP_CatNorwegianForest.tools.0.label>
+  <AEXP_CatNorwegianForest.tools.1.label>오른쪽 발톱</AEXP_CatNorwegianForest.tools.1.label>
+  <AEXP_CatNorwegianForest.tools.3.label>머리</AEXP_CatNorwegianForest.tools.3.label>
+  <AEXP_CatNorwegianForest_Leather.label>노르웨이 숲 고양이 가죽</AEXP_CatNorwegianForest_Leather.label>
+  <AEXP_CatNorwegianForest_Leather.description>노르웨이 숲 고양이 가죽</AEXP_CatNorwegianForest_Leather.description>
+  <AEXP_CatNorwegianForest_Leather.stuffProps.stuffAdjective>노르웨이 숲 고양이 가죽</AEXP_CatNorwegianForest_Leather.stuffProps.stuffAdjective>
+  <AEXP_CatNorwegianForest_Meat.label>노르웨이 숲 고양이 고기</AEXP_CatNorwegianForest_Meat.label>
+  <AEXP_CatNorwegianForest_Meat.description>노르웨이 숲 고양이 고기</AEXP_CatNorwegianForest_Meat.description>
+  <AEXP_CatNorwegianForest_Corpse.label>노르웨이 숲 고양이 시체</AEXP_CatNorwegianForest_Corpse.label>
+  <AEXP_CatNorwegianForest_Corpse.description>노르웨이 숲 고양이 시체</AEXP_CatNorwegianForest_Corpse.description>
+  <AEXP_CatPersian.label>페르시안 고양이</AEXP_CatPersian.label>
+  <AEXP_CatPersian.description>긴 털을 가진 장모종의 대표적인 품종으로, 털이 가늘고 길어서 풍성한 고양이 입니다. 또한 지능적이고 민첩하여, 작은 설치류와 조류를 사냥하는 데 탁월합니다.</AEXP_CatPersian.description>
+  <AEXP_CatPersian.tools.0.label>왼쪽 발톱</AEXP_CatPersian.tools.0.label>
+  <AEXP_CatPersian.tools.1.label>오른쪽 발톱</AEXP_CatPersian.tools.1.label>
+  <AEXP_CatPersian.tools.3.label>머리</AEXP_CatPersian.tools.3.label>
+  <AEXP_CatPersian_Leather.label>페르시안 고양이 가죽</AEXP_CatPersian_Leather.label>
+  <AEXP_CatPersian_Leather.description>페르시안 고양이 가죽</AEXP_CatPersian_Leather.description>
+  <AEXP_CatPersian_Leather.stuffProps.stuffAdjective>페르시안 고양이 가죽</AEXP_CatPersian_Leather.stuffProps.stuffAdjective>
+  <AEXP_CatPersian_Meat.label>페르시안 고양이 고기</AEXP_CatPersian_Meat.label>
+  <AEXP_CatPersian_Meat.description>페르시안 고양이 고기</AEXP_CatPersian_Meat.description>
+  <AEXP_CatPersian_Corpse.label>페르시안 고양이 시체</AEXP_CatPersian_Corpse.label>
+  <AEXP_CatPersian_Corpse.description>페르시안 고양이 시체</AEXP_CatPersian_Corpse.description>
+  <AEXP_CatSiamese.label>샴 고양이</AEXP_CatSiamese.label>
+  <AEXP_CatSiamese.description>유럽과 미국 전역에서 인기를 끌었으며 현재는 대중적인 고양이 품종 중 하나입니다. 뚜렷한 삼각형 머리, 파란 눈 및 길고 근육질의 몸을 가졌으며 사회적인 성격으로 유명합니다.</AEXP_CatSiamese.description>
+  <AEXP_CatSiamese.tools.0.label>왼쪽 발톱</AEXP_CatSiamese.tools.0.label>
+  <AEXP_CatSiamese.tools.1.label>오른쪽 발톱</AEXP_CatSiamese.tools.1.label>
+  <AEXP_CatSiamese.tools.3.label>머리</AEXP_CatSiamese.tools.3.label>
+  <AEXP_CatSiamese_Leather.label>샴 고양이 가죽</AEXP_CatSiamese_Leather.label>
+  <AEXP_CatSiamese_Leather.description>샴 고양이 가죽</AEXP_CatSiamese_Leather.description>
+  <AEXP_CatSiamese_Leather.stuffProps.stuffAdjective>샴 고양이 가죽</AEXP_CatSiamese_Leather.stuffProps.stuffAdjective>
+  <AEXP_CatSiamese_Meat.label>샴 고양이 고기</AEXP_CatSiamese_Meat.label>
+  <AEXP_CatSiamese_Meat.description>샴 고양이 고기</AEXP_CatSiamese_Meat.description>
+  <AEXP_CatSiamese_Corpse.label>샴 고양이 시체</AEXP_CatSiamese_Corpse.label>
+  <AEXP_CatSiamese_Corpse.description>샴 고양이 시체</AEXP_CatSiamese_Corpse.description>
+  <AEXP_CatSomali.label>소말리아 고양이</AEXP_CatSomali.label>
+  <AEXP_CatSomali.description>소말리아 고양이가 돌연변이 유전자를 가지고 태어나, 단모종이 아닌 중장모종으로 긴 털을 가지고 태어난 고양이입니다. 덥수룩한 꼬리와 아몬드 모양의 눈을 가지고 있습니다.</AEXP_CatSomali.description>
+  <AEXP_CatSomali.tools.0.label>왼쪽 발톱</AEXP_CatSomali.tools.0.label>
+  <AEXP_CatSomali.tools.1.label>오른쪽 발톱</AEXP_CatSomali.tools.1.label>
+  <AEXP_CatSomali.tools.3.label>머리</AEXP_CatSomali.tools.3.label>
+  <AEXP_CatSomali_Leather.label>소말리아 고양이 가죽</AEXP_CatSomali_Leather.label>
+  <AEXP_CatSomali_Leather.description>소말리아 고양이 가죽</AEXP_CatSomali_Leather.description>
+  <AEXP_CatSomali_Leather.stuffProps.stuffAdjective>소말리아 고양이 가죽</AEXP_CatSomali_Leather.stuffProps.stuffAdjective>
+  <AEXP_CatSomali_Meat.label>소말리아 고양이 고기</AEXP_CatSomali_Meat.label>
+  <AEXP_CatSomali_Meat.description>소말리아 고양이 고기</AEXP_CatSomali_Meat.description>
+  <AEXP_CatSomali_Corpse.label>소말리아 고양이 시체</AEXP_CatSomali_Corpse.label>
+  <AEXP_CatSomali_Corpse.description>소말리아 고양이 시체</AEXP_CatSomali_Corpse.description>
+  <AEXP_CatSphynx.label>스핑크스</AEXP_CatSphynx.label>
+  <AEXP_CatSphynx.description>털이 짧거나 없는 것으로 알려진 이 고양이는 선택적 교배를 통해서 생겨났습니다. 만지만 따뜻하지만, 체온을 쉽게 잃기 때문에 따뜻한 곳에 주로 있습니다.</AEXP_CatSphynx.description>
+  <AEXP_CatSphynx.tools.0.label>왼쪽 발톱</AEXP_CatSphynx.tools.0.label>
+  <AEXP_CatSphynx.tools.1.label>오른쪽 발톱</AEXP_CatSphynx.tools.1.label>
+  <AEXP_CatSphynx.tools.3.label>머리</AEXP_CatSphynx.tools.3.label>
+  <AEXP_CatSphynx_Leather.label>스핑크스 가죽</AEXP_CatSphynx_Leather.label>
+  <AEXP_CatSphynx_Leather.description>스핑크스 가죽</AEXP_CatSphynx_Leather.description>
+  <AEXP_CatSphynx_Leather.stuffProps.stuffAdjective>스핑크스 가죽</AEXP_CatSphynx_Leather.stuffProps.stuffAdjective>
+  <AEXP_CatSphynx_Meat.label>스핑크스 고기</AEXP_CatSphynx_Meat.label>
+  <AEXP_CatSphynx_Meat.description>스핑크스 고기</AEXP_CatSphynx_Meat.description>
+  <AEXP_CatSphynx_Corpse.label>스핑크스 시체</AEXP_CatSphynx_Corpse.label>
+  <AEXP_CatSphynx_Corpse.description>스핑크스 시체</AEXP_CatSphynx_Corpse.description>
+  <AEXP_Beagle.label>비글</AEXP_Beagle.label>
+  <AEXP_Beagle.description>비글은 주로 토끼를 사냥하기 위해 개량된 품종입니다. 높은 지능과 충성심은 사냥할 때 소중한 동반자가 되어줍니다.</AEXP_Beagle.description>
+  <AEXP_Beagle.tools.0.label>왼쪽 발톱</AEXP_Beagle.tools.0.label>
+  <AEXP_Beagle.tools.1.label>오른쪽 발톱</AEXP_Beagle.tools.1.label>
+  <AEXP_Beagle.tools.2.label>귀엽고 작은 이빨</AEXP_Beagle.tools.2.label>
+  <AEXP_Beagle.tools.3.label>머리</AEXP_Beagle.tools.3.label>
+  <AEXP_Beagle_Leather.label>비글 가죽</AEXP_Beagle_Leather.label>
+  <AEXP_Beagle_Leather.description>비글 가죽</AEXP_Beagle_Leather.description>
+  <AEXP_Beagle_Leather.stuffProps.stuffAdjective>비글 가죽</AEXP_Beagle_Leather.stuffProps.stuffAdjective>
+  <AEXP_Beagle_Meat.label>비글 고기</AEXP_Beagle_Meat.label>
+  <AEXP_Beagle_Meat.description>비글 고기</AEXP_Beagle_Meat.description>
+  <AEXP_Beagle_Corpse.label>비글 시체</AEXP_Beagle_Corpse.label>
+  <AEXP_Beagle_Corpse.description>비글 시체</AEXP_Beagle_Corpse.description>
+  <AEXP_Chihuahua.label>치와와</AEXP_Chihuahua.label>
+  <AEXP_Chihuahua.description>쥐보다 조금 더 큰 가장 작은 개입니다. 다른 신들의 환생으로 여겨졌었으며, 오늘날에도 신성한 것으로 여깁니다.</AEXP_Chihuahua.description>
+  <AEXP_Chihuahua.tools.0.label>왼쪽 발톱</AEXP_Chihuahua.tools.0.label>
+  <AEXP_Chihuahua.tools.1.label>오른쪽 발톱</AEXP_Chihuahua.tools.1.label>
+  <AEXP_Chihuahua.tools.2.label>귀엽고 작은 이빨</AEXP_Chihuahua.tools.2.label>
+  <AEXP_Chihuahua.tools.3.label>머리</AEXP_Chihuahua.tools.3.label>
+  <AEXP_Chihuahua_Leather.label>치와와 가죽</AEXP_Chihuahua_Leather.label>
+  <AEXP_Chihuahua_Leather.description>치와와 가죽</AEXP_Chihuahua_Leather.description>
+  <AEXP_Chihuahua_Leather.stuffProps.stuffAdjective>치와와 가죽</AEXP_Chihuahua_Leather.stuffProps.stuffAdjective>
+  <AEXP_Chihuahua_Meat.label>치와와 고기</AEXP_Chihuahua_Meat.label>
+  <AEXP_Chihuahua_Meat.description>치와와 고기</AEXP_Chihuahua_Meat.description>
+  <AEXP_Chihuahua_Corpse.label>치와와 시체</AEXP_Chihuahua_Corpse.label>
+  <AEXP_Chihuahua_Corpse.description>치와와 시체</AEXP_Chihuahua_Corpse.description>
+  <AEXP_Corgi.label>코기</AEXP_Corgi.label>
+  <AEXP_Corgi.description>역사적으로 가축 방목에 사용된 코기는 세계에서 빠르게 인기를 얻었으며 왕족의 상징으로 여겨졌습니다.</AEXP_Corgi.description>
+  <AEXP_Corgi.tools.0.label>왼쪽 발톱</AEXP_Corgi.tools.0.label>
+  <AEXP_Corgi.tools.1.label>오른쪽 발톱</AEXP_Corgi.tools.1.label>
+  <AEXP_Corgi.tools.2.label>귀엽고 작은 이빨</AEXP_Corgi.tools.2.label>
+  <AEXP_Corgi.tools.3.label>머리</AEXP_Corgi.tools.3.label>
+  <AEXP_Corgi_Leather.label>코기 가죽</AEXP_Corgi_Leather.label>
+  <AEXP_Corgi_Leather.description>코기 가죽</AEXP_Corgi_Leather.description>
+  <AEXP_Corgi_Leather.stuffProps.stuffAdjective>코기 가죽</AEXP_Corgi_Leather.stuffProps.stuffAdjective>
+  <AEXP_Corgi_Meat.label>코기 고기</AEXP_Corgi_Meat.label>
+  <AEXP_Corgi_Meat.description>코기 고기</AEXP_Corgi_Meat.description>
+  <AEXP_Corgi_Corpse.label>코기 시체</AEXP_Corgi_Corpse.label>
+  <AEXP_Corgi_Corpse.description>코기 시체</AEXP_Corgi_Corpse.description>
+  <AEXP_FrenchBulldog.label>프렌치 불독</AEXP_FrenchBulldog.label>
+  <AEXP_FrenchBulldog.description>황소와 맞서 싸우기 위해 사용된 불독은 몸집이 작기 때문에 빠르고 민첩하며 치명적입니다.</AEXP_FrenchBulldog.description>
+  <AEXP_FrenchBulldog.tools.0.label>왼쪽 발톱</AEXP_FrenchBulldog.tools.0.label>
+  <AEXP_FrenchBulldog.tools.1.label>오른쪽 발톱</AEXP_FrenchBulldog.tools.1.label>
+  <AEXP_FrenchBulldog.tools.2.label>귀엽고 작은 이빨</AEXP_FrenchBulldog.tools.2.label>
+  <AEXP_FrenchBulldog.tools.3.label>머리</AEXP_FrenchBulldog.tools.3.label>
+  <AEXP_FrenchBulldog_Leather.label>프렌치 불독 가죽</AEXP_FrenchBulldog_Leather.label>
+  <AEXP_FrenchBulldog_Leather.description>프렌치 불독 가죽</AEXP_FrenchBulldog_Leather.description>
+  <AEXP_FrenchBulldog_Leather.stuffProps.stuffAdjective>프렌치 불독 가죽</AEXP_FrenchBulldog_Leather.stuffProps.stuffAdjective>
+  <AEXP_FrenchBulldog_Meat.label>프렌치 불독 고기</AEXP_FrenchBulldog_Meat.label>
+  <AEXP_FrenchBulldog_Meat.description>프렌치 불독 고기</AEXP_FrenchBulldog_Meat.description>
+  <AEXP_FrenchBulldog_Corpse.label>프렌치 불독 시체</AEXP_FrenchBulldog_Corpse.label>
+  <AEXP_FrenchBulldog_Corpse.description>프렌치 불독 시체</AEXP_FrenchBulldog_Corpse.description>
+  <AEXP_GermanShepherd.label>독일 셰퍼드</AEXP_GermanShepherd.label>
+  <AEXP_GermanShepherd.description>대형 작업견입니다. 훈련하기 쉽고 명령을 잘 듣는 경우가 많으며, 번화계의 경찰과 림월드의 농부가 함께 하는 경우가 많습니다.</AEXP_GermanShepherd.description>
+  <AEXP_GermanShepherd.tools.0.label>왼쪽 발톱</AEXP_GermanShepherd.tools.0.label>
+  <AEXP_GermanShepherd.tools.1.label>오른쪽 발톱</AEXP_GermanShepherd.tools.1.label>
+  <AEXP_GermanShepherd.tools.2.label>물기</AEXP_GermanShepherd.tools.2.label>
+  <AEXP_GermanShepherd.tools.3.label>머리</AEXP_GermanShepherd.tools.3.label>
+  <AEXP_GermanShepherd_Leather.label>독일 셰퍼드 가죽</AEXP_GermanShepherd_Leather.label>
+  <AEXP_GermanShepherd_Leather.description>독일 셰퍼드 가죽</AEXP_GermanShepherd_Leather.description>
+  <AEXP_GermanShepherd_Leather.stuffProps.stuffAdjective>독일 셰퍼드 가죽</AEXP_GermanShepherd_Leather.stuffProps.stuffAdjective>
+  <AEXP_GermanShepherd_Meat.label>독일 셰퍼드 고기</AEXP_GermanShepherd_Meat.label>
+  <AEXP_GermanShepherd_Meat.description>독일 셰퍼드 고기</AEXP_GermanShepherd_Meat.description>
+  <AEXP_GermanShepherd_Corpse.label>독일 셰퍼드 시체</AEXP_GermanShepherd_Corpse.label>
+  <AEXP_GermanShepherd_Corpse.description>독일 셰퍼드 시체</AEXP_GermanShepherd_Corpse.description>
+  <AEXP_GreatDane.label>그레이트 데인</AEXP_GreatDane.label>
+  <AEXP_GreatDane.description>가장 큰 개 중의 하나입니다. 품위있고 우아하며 강합니다.</AEXP_GreatDane.description>
+  <AEXP_GreatDane.tools.0.label>왼쪽 발톱</AEXP_GreatDane.tools.0.label>
+  <AEXP_GreatDane.tools.1.label>오른쪽 발톱</AEXP_GreatDane.tools.1.label>
+  <AEXP_GreatDane.tools.3.label>머리</AEXP_GreatDane.tools.3.label>
+  <AEXP_GreatDane_Leather.label>그레이트 데인 가죽</AEXP_GreatDane_Leather.label>
+  <AEXP_GreatDane_Leather.description>그레이트 데인 가죽</AEXP_GreatDane_Leather.description>
+  <AEXP_GreatDane_Leather.stuffProps.stuffAdjective>그레이트 데인 가죽</AEXP_GreatDane_Leather.stuffProps.stuffAdjective>
+  <AEXP_GreatDane_Meat.label>그레이트 데인 고기</AEXP_GreatDane_Meat.label>
+  <AEXP_GreatDane_Meat.description>그레이트 데인 고기</AEXP_GreatDane_Meat.description>
+  <AEXP_GreatDane_Corpse.label>그레이트 데인 시체</AEXP_GreatDane_Corpse.label>
+  <AEXP_GreatDane_Corpse.description>그레이트 데인 시체</AEXP_GreatDane_Corpse.description>
+  <AEXP_Poodle.label>푸들</AEXP_Poodle.label>
+  <AEXP_Poodle.description>역사적으로 조류 사냥에 사용되었던 개입니다.</AEXP_Poodle.description>
+  <AEXP_Poodle.tools.0.label>왼쪽 발톱</AEXP_Poodle.tools.0.label>
+  <AEXP_Poodle.tools.1.label>오른쪽 발톱</AEXP_Poodle.tools.1.label>
+  <AEXP_Poodle.tools.3.label>머리</AEXP_Poodle.tools.3.label>
+  <AEXP_Poodle_Leather.label>푸들 가죽</AEXP_Poodle_Leather.label>
+  <AEXP_Poodle_Leather.description>푸들 가죽</AEXP_Poodle_Leather.description>
+  <AEXP_Poodle_Leather.stuffProps.stuffAdjective>푸들 가죽</AEXP_Poodle_Leather.stuffProps.stuffAdjective>
+  <AEXP_Poodle_Meat.label>푸들 고기</AEXP_Poodle_Meat.label>
+  <AEXP_Poodle_Meat.description>푸들 고기</AEXP_Poodle_Meat.description>
+  <AEXP_Poodle_Corpse.label>푸들 시체</AEXP_Poodle_Corpse.label>
+  <AEXP_Poodle_Corpse.description>푸들 시체</AEXP_Poodle_Corpse.description>
+  <AEXP_Pug.label>퍼그</AEXP_Pug.label>
+  <AEXP_Pug.description>주름이 있고 짧은 입을 가진 얼굴과 꼬리가 꼬인 신체가 특징적인 작은 개입니다. 매우 사회적이고 친근한 것으로 알려져 있지만, 수년간의 유전자 변경으로 인해 수명이 매우 짧습니다. 그래도 퍼그들은 항상 주위 사람들에게 기운을 북돋아줍니다.</AEXP_Pug.description>
+  <AEXP_Pug.tools.0.label>왼쪽 발톱</AEXP_Pug.tools.0.label>
+  <AEXP_Pug.tools.1.label>오른쪽 발톱</AEXP_Pug.tools.1.label>
+  <AEXP_Pug.tools.2.label>귀엽고 작은 이빨</AEXP_Pug.tools.2.label>
+  <AEXP_Pug.tools.3.label>머리</AEXP_Pug.tools.3.label>
+  <AEXP_Pug_Leather.label>퍼그 가죽</AEXP_Pug_Leather.label>
+  <AEXP_Pug_Leather.description>퍼그 가죽</AEXP_Pug_Leather.description>
+  <AEXP_Pug_Leather.stuffProps.stuffAdjective>퍼그 가죽</AEXP_Pug_Leather.stuffProps.stuffAdjective>
+  <AEXP_Pug_Meat.label>퍼그 고기</AEXP_Pug_Meat.label>
+  <AEXP_Pug_Meat.description>퍼그 고기</AEXP_Pug_Meat.description>
+  <AEXP_Pug_Corpse.label>퍼그 시체</AEXP_Pug_Corpse.label>
+  <AEXP_Pug_Corpse.description>퍼그 시체</AEXP_Pug_Corpse.description>
+  <AEXP_Rottweiler.label>로트바일러</AEXP_Rottweiler.label>
+  <AEXP_Rottweiler.description>가장 오래된 길들여진 대형견 중의 하나입니다. 성실한 품종의 개이기 때문에 농부와 목축업자에게 완벽한 동반자입니다.</AEXP_Rottweiler.description>
+  <AEXP_Rottweiler.tools.0.label>왼쪽 발톱</AEXP_Rottweiler.tools.0.label>
+  <AEXP_Rottweiler.tools.1.label>오른쪽 발톱</AEXP_Rottweiler.tools.1.label>
+  <AEXP_Rottweiler.tools.3.label>머리</AEXP_Rottweiler.tools.3.label>
+  <AEXP_Rottweiler_Leather.label>로트바일러 가죽</AEXP_Rottweiler_Leather.label>
+  <AEXP_Rottweiler_Leather.description>로트바일러 가죽</AEXP_Rottweiler_Leather.description>
+  <AEXP_Rottweiler_Leather.stuffProps.stuffAdjective>로트바일러 가죽</AEXP_Rottweiler_Leather.stuffProps.stuffAdjective>
+  <AEXP_Rottweiler_Meat.label>로트바일러 고기</AEXP_Rottweiler_Meat.label>
+  <AEXP_Rottweiler_Meat.description>로트바일러 고기</AEXP_Rottweiler_Meat.description>
+  <AEXP_Rottweiler_Corpse.label>로트바일러 시체</AEXP_Rottweiler_Corpse.label>
+  <AEXP_Rottweiler_Corpse.description>로트바일러 시체</AEXP_Rottweiler_Corpse.description>
+  <AEXP_Shih-Tzu.label>시추</AEXP_Shih-Tzu.label>
+  <AEXP_Shih-Tzu.description>동양의 작은 개인 시추는 매우 길고 부드러운 털을 가지고 있습니다. 그들은 큰 쓸모는 없지만 사람들에게 큰 위로를 줍니다.</AEXP_Shih-Tzu.description>
+  <AEXP_Shih-Tzu.tools.0.label>왼쪽 발톱</AEXP_Shih-Tzu.tools.0.label>
+  <AEXP_Shih-Tzu.tools.1.label>오른쪽 발톱</AEXP_Shih-Tzu.tools.1.label>
+  <AEXP_Shih-Tzu.tools.2.label>귀엽고 작은 이빨</AEXP_Shih-Tzu.tools.2.label>
+  <AEXP_Shih-Tzu.tools.3.label>머리</AEXP_Shih-Tzu.tools.3.label>
+  <AEXP_Shih-Tzu_Leather.label>시추 가죽</AEXP_Shih-Tzu_Leather.label>
+  <AEXP_Shih-Tzu_Leather.description>시추 가죽</AEXP_Shih-Tzu_Leather.description>
+  <AEXP_Shih-Tzu_Leather.stuffProps.stuffAdjective>시추 가죽</AEXP_Shih-Tzu_Leather.stuffProps.stuffAdjective>
+  <AEXP_Shih-Tzu_Meat.label>시추 고기</AEXP_Shih-Tzu_Meat.label>
+  <AEXP_Shih-Tzu_Meat.description>시추 고기</AEXP_Shih-Tzu_Meat.description>
+  <AEXP_Shih-Tzu_Corpse.label>시추 시체</AEXP_Shih-Tzu_Corpse.label>
+  <AEXP_Shih-Tzu_Corpse.description>시추 시체</AEXP_Shih-Tzu_Corpse.description>
+  <AEXP_WelshTerrier.label>웰시 테리어</AEXP_WelshTerrier.label>
+  <AEXP_WelshTerrier.description>웰시 테리어는 작은 설치류, 여우 및 오소리 사냥에 적합한 사냥개입니다. 높은 지능으로 길을 잘 찾기 때문에, 곧잘 숲 속을 달리다가 집으로 돌아오곤 했습니다.</AEXP_WelshTerrier.description>
+  <AEXP_WelshTerrier.tools.0.label>왼쪽 발톱</AEXP_WelshTerrier.tools.0.label>
+  <AEXP_WelshTerrier.tools.1.label>오른쪽 발톱</AEXP_WelshTerrier.tools.1.label>
+  <AEXP_WelshTerrier.tools.3.label>머리</AEXP_WelshTerrier.tools.3.label>
+  <AEXP_WelshTerrier_Leather.label>웰시 테일러 가죽</AEXP_WelshTerrier_Leather.label>
+  <AEXP_WelshTerrier_Leather.description>웰시 테일러 가죽</AEXP_WelshTerrier_Leather.description>
+  <AEXP_WelshTerrier_Leather.stuffProps.stuffAdjective>웰시 테일러 가죽</AEXP_WelshTerrier_Leather.stuffProps.stuffAdjective>
+  <AEXP_WelshTerrier_Meat.label>웰시 테일러 고기</AEXP_WelshTerrier_Meat.label>
+  <AEXP_WelshTerrier_Meat.description>웰시 테일러 고기</AEXP_WelshTerrier_Meat.description>
+  <AEXP_WelshTerrier_Corpse.label>웰시 테일러 시체</AEXP_WelshTerrier_Corpse.label>
+  <AEXP_WelshTerrier_Corpse.description>웰시 테일러 시체</AEXP_WelshTerrier_Corpse.description>
+
+</LanguageData>

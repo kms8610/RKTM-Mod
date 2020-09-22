@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FO_FlameBreath.label>불꽃 숨결</FO_FlameBreath.label>
+  <FO_NightMilk.label>밤의 우유</FO_NightMilk.label>
+  <FO_NightMilk.description>매우 영양가있는 먹을거리지만, 색은 다소 꺼려집니다.</FO_NightMilk.description>
+  <Leather_Behemoth.label>베헤모스 비늘</Leather_Behemoth.label>
+  <Leather_Behemoth.description>드라코닉 갑피가 서로 겹겹이 쌓여있는 단단한 비늘입니다. 전투시에는 유난히 내구성이 뛰어나지만, 날씨로부터는 거의 보호받을 수 없습니다.</Leather_Behemoth.description>
+  <Leather_Behemoth.stuffProps.stuffAdjective>베헤모스 비늘</Leather_Behemoth.stuffProps.stuffAdjective>
+  <FO_NightWool.label>밤의 털</FO_NightWool.label>
+  <FO_NightWool.description>이 어두운 색깔의 털은 부드럽고, 가벼우며, 단열성이 매우 우수합니다. 다른 털보다 질기고 강합니다.</FO_NightWool.description>
+  <FO_NightWool.stuffProps.stuffAdjective>밤의 털</FO_NightWool.stuffProps.stuffAdjective>
+  <Leather_Night.label>밤의 가죽</Leather_Night.label>
+  <Leather_Night.description>가장 어두운 밤보다도 더욱 짙은 색을 띄는 두꺼운 가죽입니다. 매우 두껍고, 강하며, 보호에 탁월합니다.</Leather_Night.description>
+  <Leather_Night.stuffProps.stuffAdjective>밤의 가죽</Leather_Night.stuffProps.stuffAdjective>
+  <FO_RBehemoth.label>베헤모스</FO_RBehemoth.label>
+  <FO_RBehemoth.description>외행성계에서 유래한 것으로 여겨지는 버려진자들(Forsaken)의 생물입니다. 아주 오래 된 전설 속에서 종종 지능이 매우 뛰어나고 맹렬한 용으로 등장하며 파괴적인 화염을 뿜어내고 불가해한 힘으로 전 행성을 지배하는 모습으로 그려지고는 합니다. 또한 천둥이 이들의 목소리이며, 이들은 천둥소리와 함께 나타난다고도 합니다. 전설의 시대까지만 해도 이들은 수백의 개체가 있었지만, 지금은 고작 몇 개체밖에 남지않았습니다. 버려진자들은 그들이 세상의 마지막에 심판의 날이 오면 다시금 일어나 하늘을 어둡게 물들인다고 이야기하고는 합니다.</FO_RBehemoth.description>
+  <FO_RBehemoth.tools.0.label>왼쪽 용발톱</FO_RBehemoth.tools.0.label>
+  <FO_RBehemoth.tools.1.label>오른쪽 용발톱</FO_RBehemoth.tools.1.label>
+  <FO_RBehemoth.tools.2.label>날카로운 송곳니</FO_RBehemoth.tools.2.label>
+  <FO_RBehemoth.tools.3.label>포식</FO_RBehemoth.tools.3.label>
+  <FO_RBehemoth_Leather.label>베헤모스 가죽</FO_RBehemoth_Leather.label>
+  <FO_RBehemoth_Leather.description>베헤모스 가죽</FO_RBehemoth_Leather.description>
+  <FO_RBehemoth_Leather.stuffProps.stuffAdjective>베헤모스 가죽</FO_RBehemoth_Leather.stuffProps.stuffAdjective>
+  <FO_RBehemoth_Meat.label>베헤모스 고기</FO_RBehemoth_Meat.label>
+  <FO_RBehemoth_Meat.description>베헤모스 고기</FO_RBehemoth_Meat.description>
+  <FO_RBehemoth_Corpse.label>베헤모스 시체</FO_RBehemoth_Corpse.label>
+  <FO_RBehemoth_Corpse.description>베헤모스 시체</FO_RBehemoth_Corpse.description>
+  <FO_DarkVandal.label>어두운 파괴자</FO_DarkVandal.label>
+  <FO_DarkVandal.description>순수하게 근육으로 이루어진 생물인 어두운 파괴자는 그 놀라운 힘으로 익히 알려져있습니다. 이들은 종종 덤불 사이에서 무리지어 목격되고는 하며, 자신들의 무리에 대한 치열하고도 공격적인 보호행동으로 유명합니다. 이들을 도발한 많은 정착지들이 마지막으로 본 것은 분노한 근육덩어리 생물들이 벌이는 광란과 파괴의 행동들이었습니다. 이러한 악명 높은 평판에도 불구하고, 이 짐승에게서는 두꺼운 가죽이나 고기를 넉넉히 얻을 수 있을 뿐만 아니라 전사 사회의 통과 의례로서 여전히 수 많은 변방계 행성에서 사냥되고 있습니다.</FO_DarkVandal.description>
+  <FO_DarkVandal.tools.0.label>엄니</FO_DarkVandal.tools.0.label>
+  <FO_DarkVandal.tools.2.label>머리</FO_DarkVandal.tools.2.label>
+  <FO_DarkVandal_Leather.label>어두운 파괴자 가죽</FO_DarkVandal_Leather.label>
+  <FO_DarkVandal_Leather.description>어두운 파괴자 가죽</FO_DarkVandal_Leather.description>
+  <FO_DarkVandal_Leather.stuffProps.stuffAdjective>어두운 파괴자 가죽</FO_DarkVandal_Leather.stuffProps.stuffAdjective>
+  <FO_DarkVandal_Corpse.label>어두운 파괴자 시체</FO_DarkVandal_Corpse.label>
+  <FO_DarkVandal_Corpse.description>어두운 파괴자 시체</FO_DarkVandal_Corpse.description>
+  <FO_DuskProwler.label>황혼의 배회자</FO_DuskProwler.label>
+  <FO_DuskProwler.description>동물 무기화 실험이 실패한 결과, 황혼의 배회자는 빠른 속도를 필요로 하는 전쟁의 조건에 충족하도록 개조된 이상적인 살인기계가 되었습니다. 배회자의 사나운 성질은 등에 있는 근육의 돌출부에 의해 더욱 잘 발휘되는데, 이 돌출부는 속도를 위한 가속기이자 무기의 역할을 합니다. 심지어 요새화된 군사시설까지도 뚫을 수 있는 능력 때문에, 수 세기 전에 은하계 연합이 주도한 배회자들에 대한 체계적인 소탕으로 비교적 최근까지 멸종되었다고 알려져 있었습니다. 따라서, 오늘날 변방계에서 살아있는 배회자는 거의 목격되지 않고 있으며, 일부 신뢰하기 어려운 목격담만이 전해지고 있을 뿐입니다.</FO_DuskProwler.description>
+  <FO_DuskProwler.tools.0.label>아홉 꼬리</FO_DuskProwler.tools.0.label>
+  <FO_DuskProwler.tools.1.label>왼 발톱</FO_DuskProwler.tools.1.label>
+  <FO_DuskProwler.tools.2.label>오른 손톱</FO_DuskProwler.tools.2.label>
+  <FO_DuskProwler.tools.4.label>머리</FO_DuskProwler.tools.4.label>
+  <FO_DuskProwler_Leather.label>황혼의 배회자 가죽</FO_DuskProwler_Leather.label>
+  <FO_DuskProwler_Leather.description>황혼의 배회자 가죽</FO_DuskProwler_Leather.description>
+  <FO_DuskProwler_Leather.stuffProps.stuffAdjective>황혼의 배회자 가죽</FO_DuskProwler_Leather.stuffProps.stuffAdjective>
+  <FO_DuskProwler_Corpse.label>황혼의 배회자 시체</FO_DuskProwler_Corpse.label>
+  <FO_DuskProwler_Corpse.description>황혼의 배회자 시체</FO_DuskProwler_Corpse.description>
+  <FO_RMurkling.label>멀크링</FO_RMurkling.label>
+  <FO_RMurkling.description>나이트링의 먼 친척인 멀크링은 사실 나이트링과는 정 반대의 성격을 가지고 있습니다. 이들은 공격적이지도 않고, 유능한 사냥꾼도 아니며, 다만 상위 포식자들이 남긴 찌꺼기를 청소할 뿐입니다. 가장 두드러진 특징은 주둥이가 비정상적으로 길어진 구조인데, 이 신체구조는 무리 구성원들이 분리되어있는 동안 개별적인 통신이 가능한 진동 시퀀스를 생성하도록 진화된 결과물입니다. 이들의 신체적인 약점은 평균 이상의 지능으로 보완되며, 버려진 자들(Forsaken) 같은 지적 생물들을 능가할 정도입니다. 때문에 변방계 사이에서는 밤을 틈타 물건을 훔쳐가는 이들의 특성에 의해 '밤의 도둑'이라는 별명을 얻게 되었습니다.</FO_RMurkling.description>
+  <FO_RMurkling.tools.0.label>왼 발톱</FO_RMurkling.tools.0.label>
+  <FO_RMurkling.tools.1.label>오른 손톱</FO_RMurkling.tools.1.label>
+  <FO_RMurkling.tools.2.label>역병 운송체</FO_RMurkling.tools.2.label>
+  <FO_RMurkling.tools.3.label>독성 가득한 물기</FO_RMurkling.tools.3.label>
+  <FO_RMurkling.tools.4.label>머리</FO_RMurkling.tools.4.label>
+  <FO_RMurkling_Leather.label>멀크링 가죽</FO_RMurkling_Leather.label>
+  <FO_RMurkling_Leather.description>멀크링 가죽</FO_RMurkling_Leather.description>
+  <FO_RMurkling_Leather.stuffProps.stuffAdjective>멀크링 가죽</FO_RMurkling_Leather.stuffProps.stuffAdjective>
+  <FO_RMurkling_Corpse.label>멀크링 시체</FO_RMurkling_Corpse.label>
+  <FO_RMurkling_Corpse.description>멀크링 시체</FO_RMurkling_Corpse.description>
+  <FO_ShadowCharger.label>쉐도우 차저</FO_ShadowCharger.label>
+  <FO_ShadowCharger.description>강력하고 길쭉한 뿔러 알려진 생물인 쉐도우 차저는 실제로는 매우 수동적이며, 뿔은 개체간 결투나 짝짓기에만 사용됩니다. 하지만 다소 공격적인 이들의 이름은 짝짓기 기간동안 잠재적인 경쟁자에 대한 공격성에서 비롯되었습니다. 암컷들은 짝짓기를 위해 서로에게 돌진하고 뿔을 부딭치는 것을 볼 수 있습니다. 이들의 공격적인 특성과 속도로 인해 한때는 전투용 탑승물로도 사용되기도 했지만, 오늘날에는 크림같은 우유와 많은 양의 고기를 얻기 위해 변방계 곳곳에서 사육되고 있습니다.</FO_ShadowCharger.description>
+  <FO_ShadowCharger.tools.0.label>뿔</FO_ShadowCharger.tools.0.label>
+  <FO_ShadowCharger.tools.1.label>왼 발굽</FO_ShadowCharger.tools.1.label>
+  <FO_ShadowCharger.tools.2.label>오른 발굽</FO_ShadowCharger.tools.2.label>
+  <FO_ShadowCharger.tools.4.label>머리</FO_ShadowCharger.tools.4.label>
+  <FO_ShadowCharger_Leather.label>쉐도우 차저 가죽</FO_ShadowCharger_Leather.label>
+  <FO_ShadowCharger_Leather.description>쉐도우 차저 가죽</FO_ShadowCharger_Leather.description>
+  <FO_ShadowCharger_Leather.stuffProps.stuffAdjective>쉐도우 차저 가죽</FO_ShadowCharger_Leather.stuffProps.stuffAdjective>
+  <FO_ShadowCharger_Corpse.label>쉐도우 차저 시체</FO_ShadowCharger_Corpse.label>
+  <FO_ShadowCharger_Corpse.description>쉐도우 차저 시체</FO_ShadowCharger_Corpse.description>
+  <FO_Thunderox.label>썬더록스</FO_Thunderox.label>
+  <FO_Thunderox.description>변방계의 추운 지역에서 흔히 볼 수 있는 생물인 썬더록스는 얽히고 설킨 두꺼운 털과 굴곡지고 효과적인 뿔이 특징인 생물입니다. 이들은 뇌우가 치는 새벽이면 길게 울부짖는 성향이 있기에 이같은 이름을 얻게 되었습니다. 이들의 울음소리는 농민들과 방랑자들에게 피난처를 찾는 신호로 사용되고는 합니다. 이들은 진한 우유와 좋은 털, 질기지만 양이 충분한 고기를 위해 동토의 황무지와 농업 식민지에서 사육되고 있습니다.</FO_Thunderox.description>
+  <FO_Thunderox.tools.0.label>전투 말뚝</FO_Thunderox.tools.0.label>
+  <FO_Thunderox.tools.1.label>룬 뿔</FO_Thunderox.tools.1.label>
+  <FO_Thunderox.tools.2.label>왼 발굽</FO_Thunderox.tools.2.label>
+  <FO_Thunderox.tools.3.label>오른 발굽</FO_Thunderox.tools.3.label>
+  <FO_Thunderox_Leather.label>썬더록스 가죽</FO_Thunderox_Leather.label>
+  <FO_Thunderox_Leather.description>썬더록스 가죽</FO_Thunderox_Leather.description>
+  <FO_Thunderox_Leather.stuffProps.stuffAdjective>썬더록스 가죽</FO_Thunderox_Leather.stuffProps.stuffAdjective>
+  <FO_Thunderox_Corpse.label>썬더록스 시체</FO_Thunderox_Corpse.label>
+  <FO_Thunderox_Corpse.description>썬더록스 시체</FO_Thunderox_Corpse.description>
+
+</LanguageData>

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RNShell_HellfireWarhead.label>지옥불 탄두</RNShell_HellfireWarhead.label>
+  <RNShell_HellfireWarhead.description>지옥불 탄두. 일반적으로 항공기 또는 중세계 전쟁 병기에서 사용되는 이 폭탄은 대상 주위에서 화재를 일으키는 큰 검은 연기 폭발을 일으킵니다. 박격포에서 발사할 수 있습니다. 손상되면 폭발합니다.</RNShell_HellfireWarhead.description>
+  <RNBullet_Shell_hellfireWarhead.label>지옥불 탄두</RNBullet_Shell_hellfireWarhead.label>
+  <RHMH6LittleBird.label>MH-6 리틀 버드</RHMH6LittleBird.label>
+  <RHMH6LittleBird.description>보잉 A/MH-6M 리틀버드 (별명 킬러 에그)와 그 공격 개조형 AH-6은 미군의 특수 작전에 사용되는 소형 헬리콥터입니다. 원래 수정된 OH-6A를 기반으로 한 후에는 단일 5 날 메인 로터가 있는 MD 500E를 기반으로 했습니다. 최신 버전인 MH-6M은 MD 530F를 기반으로 하며 단일 6날 메인 로터와 4날 테일 로터를 갖추고 있습니다.
+
+6발의 탄두를 발사할 수 있습니다.
+최소 승객: 1
+최대 승객: 4</RHMH6LittleBird.description>
+  <RHUH1Huey.label>UH-1 휴이</RHUH1Huey.label>
+  <RHUH1Huey.description>UH-1 이로쿼이 (별명 "휴이")는 단일 블레이드 샤프트 엔진과 2날 메인 및 테일 로터가 장착된 다목적 군용 헬리콥터입니다. 벨 헬리콥터의 휴이 시리즈의 첫번째 모델은 미합중국 육군의 요청에 따라 의료 수송용과 다목적 용도로 1952년에 개발되었으며, 1956년에 첫 비행을 했습니다. UH-1은 최초의 터빈방식 엔진을 사용하는 헬리콥터로 1960년 이후로 16,000대 이상이 미군을 위해 생산되었습니다.
+
+6발의 탄두를 발사할 수 있습니다.
+최소 승객: 1
+최대 승객: 10</RHUH1Huey.description>
+  <RHMilMi8Hip.label>Mi-8 힙</RHMilMi8Hip.label>
+  <RHMilMi8Hip.description>Mil Mi-8 (러시아어: Ми-8, NATO 보고 이름: Hip)은 중형 트윈 터빈 헬리콥터로, 원래 소련에서 설계되었으며 현재 러시아에서 생산됩니다. 또한 일반적으로 수송 헬리콥터로 사용되나, 항공 지휘소, 무장 건쉽 및 정찰 플랫폼으로도 사용됩니다. 관련성이 높고 훨씬 강력한 Mil Mi-17과 함께 Mi-8은 세계 50개국 이상이 생산하는 세계에서 가장 많이 생산되는 헬리콥터 중 하나입니다.
+
+이 항공기는 폭격 항정에 적합하지 않습니다.
+최소 승객: 1
+최대 승객: 32</RHMilMi8Hip.description>
+  <RHMilMi17Hip.label>Mi-17 힙</RHMilMi17Hip.label>
+  <RHMilMi17Hip.description>Mil Mi-17 (NATO 보고 이름: Hip)은 카잔과 울란 우데에 있는 두 곳의 공장에서 생산되는 소련/러시아 헬리콥터입니다. 러시아에서는 Mi-8M 시리즈라고합니다. 중형 트윈 터빈 수송 헬리콥터입니다. 무장 건쉽 버전도 있습니다.
+
+기본 Mi-8 프레임에서 개발된 Mi-17에는 Mi-14 용으로 개발된 대형 Klimov TV3-117MT 엔진, 로터 및 변속기가 장착되어, 더 많은 적재 용량을 위한 동체 개량이 되었습니다. 
+
+8발의 탄두를 발사할 수 있습니다.
+최소 승객: 1
+최대 승객: 32</RHMilMi17Hip.description>
+  <RHUH60BlackHawk.label>UH-60 블랙 호크</RHUH60BlackHawk.label>
+  <RHUH60BlackHawk.description>시코르스키 UH-60 블랙 호크는 시코르스키 항공에서 제조한 4날, 트윈 엔진, 중형 다목적 수송 헬리콥터입니다. 시코르스키는 1972년 미군의 다목적 전술 수송기 체계(UTTAS) 경쟁을 위한 S-70 설계를 제출했습니다. 육군은 보잉 버톨의 YUH-61과의 플라이 오프 경쟁 후 프로토 타입을 YUH-60A로 지정하고 1976년 블랙 호크를 프로그램의 우승자로 선정했습니다.
+
+이 항공기는 폭격 항정에 적합하지 않습니다.
+최소 승객: 1
+최대 승객: 14</RHUH60BlackHawk.description>
+  <RHMilMi24Hind.label>Mi-24 하인드</RHMilMi24Hind.label>
+  <RHMilMi24Hind.description>Mil Mi-24 (러시아어: Миль Ми-24; NATO 보고 이름: Hind)는 대형 헬리콥터 건쉽, 공격 헬리콥터 및 8명의 승객을 위한 공간이 있는 저용량 병력 수송기입니다. 밀 모스크바 헬리콥터 공장에서 생산되며 1972년부터 48개국과 함께 소비에트 공군과 그 후계자가 운영해오고 있습니다.
+
+NATO계 수출 버전인 Mi-25 및 Mi-35는 "Hind D"및 "Hind E"로 문자 접미사로 표시됩니다.
+
+최대 8발의 탄두를 발사할 수 있습니다.
+최소 승객: 1
+최대 승객: 8</RHMilMi24Hind.description>
+  <RHAH64Apache.label>AH-64 아파치</RHAH64Apache.label>
+  <RHAH64Apache.description>보잉 AH-64 아파치는 테일 휠형 랜딩 기어 배열과 2명의 승무원을 위한 탠덤 조종석을 갖춘 미국의 트윈 터보 샤프트 공격 헬리콥터입니다. 타겟 획득 및 나이트 비전 시스템을 위한 코 장착 센서 제품군이 특징입니다. 항공기의 전방 동체 아래 주 랜딩 기어 사이에 장착되는 30mm (1.18 인치) M230 체인 건과 무기 및 물품 운반을 위해 스텁 윙 철탑에 장착된 4 개의 하드 포인트에 AGM-114 지옥 불 미사일과 하이드라 70 로켓 포드의 혼합으로 무장되어 있습니다. AH-64에는 전투 생존성을 향상시키기 위해 중요한 시스템이 중복되어 있습니다.
+
+16개의 탄두를 발사할 수 있습니다.
+최소 승객: 1
+최대 승객: 2</RHAH64Apache.description>
+  <RHAH1ZViper.label>AH-1Z 바이퍼</RHAH1ZViper.label>
+  <RHAH1ZViper.description>벨 AH-1Z 바이퍼는 미국 해병대를 위해 H-1 업그레이드 프로그램의 일부로 개발된 AH-1W 슈퍼코브라를 기반으로 한 미국의 트윈 엔진 공격 헬리콥터입니다. AH-1Z는 4개의 날개, 베어링이 없는 복합 메인 로터 시스템, 업그레이드된 변속기 및 새로운 목표 조준 시스템을 갖추고 있습니다. 다용도 벨 휴이 가족의 최신 멤버 중 하나인 AH-1Z는 군용 변형 문자의 알파벳 발음에 따라 "줄루 코브라"라고도 합니다.
+
+16개의 탄두를 발사할 수 있습니다.
+최소 승객: 1
+최대 승객: 2</RHAH1ZViper.description>
+  <RHCH46SeaKnight.label>CH-46 씨 나이트</RHCH46SeaKnight.label>
+  <RHCH46SeaKnight.description>보잉 베르톨 CH-46 씨 나이트는 트윈 터보 샤프트 엔진으로 구동되는 중형 리프트 탠덤 로터 수송 헬리콥터입니다. 버톨에 의해 설계되었으며 보잉의 버톨의 인수에 따라 보잉 버톨에서 제조되었습니다.
+
+원래 회사의 명칭은 버톨 모델 107로 지정된 씨 나이트의 개발은 1956년에 시작되었습니다. H-21 "날아다니는 바나나" 같은 1세대 회전익기의 후계 기종으로 구성되었으며, 피스톤 엔진으로 구동 대신 V-107 터보 샤프트 추진 엔진을 사용합니다.
+
+이 항공기는 폭격 항정에 적합하지 않습니다.
+최소 승객: 1
+최대 승객: 25</RHCH46SeaKnight.description>
+  <RHCH47Chinook.label>CH-47 치누크</RHCH47Chinook.label>
+  <RHCH47Chinook.description>보잉 CH-47 치누크는 미국의 회전날개 회사인 버톨이 개발하고 보잉 버톨 (이후 보잉 로터시스템즈라고 함)이 제조한 미국의 쌍둥이 엔진, 탠덤 로터, 대형 수송 헬리콥터입니다. CH-47은 서구의 중형 수송 헬리콥터 중 하나입니다. 치누크라는 이름은 현대 워싱턴주의 아메리카 원주민 치누크 족에서 따왔습니다.
+
+이 항공기는 폭격 항정에 적합하지 않습니다.
+최소 승객: 1
+최대 승객: 55</RHCH47Chinook.description>
+  <RHV22Osprey.label>V-22 오스프리</RHV22Osprey.label>
+  <RHV22Osprey.description>벨 보잉 V-22 오스프리는 수직 이륙 및 착륙 (VTOL)과 짧은 이륙 및 착륙 (STOL) 기능을 모두 갖춘 미국의 다중 목적 틸트로터 군용 ​​항공기입니다. 기존 헬리콥터의 기능과 터보프롭 항공기의 장거리 고속 크루즈 성능을 결합하도록 설계되었습니다.
+
+이 항공기는 폭격 항정에 적합하지 않습니다.
+최소 승객: 1
+최대 승객: 24</RHV22Osprey.description>
+  <RHCH53SeaStallion.label>CH-53 씨 스탤리온</RHCH53SeaStallion.label>
+  <RHCH53SeaStallion.description>CH-53 씨 스탤리온은 시코르스키 S-65 대형 수송 헬리콥터 제품군의 가장 일반적인 이름입니다. 원래 미국 해병대에서 사용하도록 개발되었으며 독일, 이란, 이스라엘 및 멕시코에서 운용 중입니다. 미국 공군은 베트남 전쟁 후반과 후기 베트남 전쟁 당시 HH-53 "슈퍼 졸리 그린 자이언트"를 운영하였으나 현재는 대부분을 MH-53 페이브 로우로 업데이트했습니다.
+
+이 항공기는 폭격 항정에 적합하지 않습니다.
+최소 승객: 1
+최대 승객: 55</RHCH53SeaStallion.description>
+  <RHMH6LittleBird_BomberRun.label>헬리콥터 폭격 중</RHMH6LittleBird_BomberRun.label>
+  <RHMH6LittleBird_Incoming.label>헬리콥터 이동 중</RHMH6LittleBird_Incoming.label>
+  <RHMH6LittleBird_Leaving.label>헬리콥터 이동 중</RHMH6LittleBird_Leaving.label>
+  <RHMH6LittleBird_Active.label>헬리콥터 활성화</RHMH6LittleBird_Active.label>
+  <RHMilMi8Hip_Incoming.label>헬리콥터 이동 중</RHMilMi8Hip_Incoming.label>
+  <RHMilMi8Hip_Leaving.label>헬리콥터 이동 중</RHMilMi8Hip_Leaving.label>
+  <RHMilMi8Hip_Active.label>헬리콥터 활성화</RHMilMi8Hip_Active.label>
+  <RHMilMi17Hip_BomberRun.label>헬리콥터 폭격 중</RHMilMi17Hip_BomberRun.label>
+  <RHMilMi17Hip_Incoming.label>헬리콥터 이동 중</RHMilMi17Hip_Incoming.label>
+  <RHMilMi17Hip_Leaving.label>헬리콥터 이동 중</RHMilMi17Hip_Leaving.label>
+  <RHMilMi17Hip_Active.label>헬리콥터 활성화</RHMilMi17Hip_Active.label>
+  <RHUH60BlackHawk_Incoming.label>헬리콥터 이동 중</RHUH60BlackHawk_Incoming.label>
+  <RHUH60BlackHawk_Leaving.label>헬리콥터 이동 중</RHUH60BlackHawk_Leaving.label>
+  <RHUH60BlackHawk_Active.label>헬리콥터 활성화</RHUH60BlackHawk_Active.label>
+  <RHUH1Huey_BomberRun.label>헬리콥터 폭격 중</RHUH1Huey_BomberRun.label>
+  <RHUH1Huey_Incoming.label>헬리콥터 이동 중</RHUH1Huey_Incoming.label>
+  <RHUH1Huey_Leaving.label>헬리콥터 이동 중</RHUH1Huey_Leaving.label>
+  <RHUH1Huey_Active.label>헬리콥터 활성화</RHUH1Huey_Active.label>
+  <RHMilMi24Hind_BomberRun.label>헬리콥터 폭격 중</RHMilMi24Hind_BomberRun.label>
+  <RHMilMi24Hind_Incoming.label>헬리콥터 이동 중</RHMilMi24Hind_Incoming.label>
+  <RHMilMi24Hind_Leaving.label>헬리콥터 이동 중</RHMilMi24Hind_Leaving.label>
+  <RHMilMi24Hind_Active.label>헬리콥터 활성화</RHMilMi24Hind_Active.label>
+  <RHAH64Apache_BomberRun.label>헬리콥터 폭격 중</RHAH64Apache_BomberRun.label>
+  <RHAH64Apache_Incoming.label>헬리콥터 이동 중</RHAH64Apache_Incoming.label>
+  <RHAH64Apache_Leaving.label>헬리콥터 이동 중</RHAH64Apache_Leaving.label>
+  <RHAH64Apache_Active.label>헬리콥터 활성화</RHAH64Apache_Active.label>
+  <RHAH1ZViper_BomberRun.label>헬리콥터 폭격 중</RHAH1ZViper_BomberRun.label>
+  <RHAH1ZViper_Incoming.label>헬리콥터 이동 중</RHAH1ZViper_Incoming.label>
+  <RHAH1ZViper_Leaving.label>헬리콥터 이동 중</RHAH1ZViper_Leaving.label>
+  <RHAH1ZViper_Active.label>헬리콥터 활성화</RHAH1ZViper_Active.label>
+  <RHCH46SeaKnight_Incoming.label>헬리콥터 이동 중</RHCH46SeaKnight_Incoming.label>
+  <RHCH46SeaKnight_Leaving.label>헬리콥터 이동 중</RHCH46SeaKnight_Leaving.label>
+  <RHCH46SeaKnight_Active.label>헬리콥터 활성화</RHCH46SeaKnight_Active.label>
+  <RHCH47Chinook_Incoming.label>헬리콥터 이동 중</RHCH47Chinook_Incoming.label>
+  <RHCH47Chinook_Leaving.label>헬리콥터 이동 중</RHCH47Chinook_Leaving.label>
+  <RHCH47Chinook_Active.label>헬리콥터 활성화</RHCH47Chinook_Active.label>
+  <RHV22Osprey_Incoming.label>헬리콥터 이동 중</RHV22Osprey_Incoming.label>
+  <RHV22Osprey_Leaving.label>헬리콥터 이동 중</RHV22Osprey_Leaving.label>
+  <RHV22Osprey_Active.label>헬리콥터 활성화</RHV22Osprey_Active.label>
+  <RHCH53SeaStallion_Incoming.label>헬리콥터 이동 중</RHCH53SeaStallion_Incoming.label>
+  <RHCH53SeaStallion_Leaving.label>헬리콥터 이동 중</RHCH53SeaStallion_Leaving.label>
+  <RHCH53SeaStallion_Active.label>헬리콥터 활성화</RHCH53SeaStallion_Active.label>
+
+</LanguageData>

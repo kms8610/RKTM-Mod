@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
+  <HallucinogenThoughts.stages.0.label>불안함</HallucinogenThoughts.stages.0.label>
+  <HallucinogenThoughts.stages.0.description>뭔가 이상해...</HallucinogenThoughts.stages.0.description>
+  <HallucinogenThoughts.stages.1.label>넓어지는 공포</HallucinogenThoughts.stages.1.label>
+  <HallucinogenThoughts.stages.1.description>난 정말 초조해... 왠지.</HallucinogenThoughts.stages.1.description>
+  <HallucinogenThoughts.stages.2.label>말할 수 없는 공포</HallucinogenThoughts.stages.2.label>
+  <HallucinogenThoughts.stages.2.description>나는 정말로 너무 무서워!</HallucinogenThoughts.stages.2.description>
+  <HallucinogenThoughts.stages.3.label>극심한 패닉</HallucinogenThoughts.stages.3.label>
+  <HallucinogenThoughts.stages.3.description>아...신이시여! 거대한 공포가 나를 집어삼키고 있습니다.</HallucinogenThoughts.stages.3.description>
+  <FearThoughts.stages.0.label>불안함</FearThoughts.stages.0.label>
+  <FearThoughts.stages.0.description>뭔가 이상해...</FearThoughts.stages.0.description>
+  <FearThoughts.stages.1.label>넓어지는 공포</FearThoughts.stages.1.label>
+  <FearThoughts.stages.1.description>난 정말 초조해... 왠지.</FearThoughts.stages.1.description>
+  <FearThoughts.stages.2.label>말할 수 없는 공포</FearThoughts.stages.2.label>
+  <FearThoughts.stages.2.description>나는 정말로 너무 무서워!</FearThoughts.stages.2.description>
+  <FearThoughts.stages.3.label>극심한 패닉</FearThoughts.stages.3.label>
+  <FearThoughts.stages.3.description>아...신이시여! 거대한 공포가 나를 집어삼키고 있습니다.</FearThoughts.stages.3.description>
+
+  <!--1673071343_190625_Jewelry-->
+  <WearingNecklace.stages.0.label>목걸이를 걸고 있음</WearingNecklace.stages.0.label>
+  <WearingNecklace.stages.0.description>나는 아주 값진 목걸이를 걸고 있어.</WearingNecklace.stages.0.description>
+  <WearingGoldBracelet.stages.0.label>금팔찌를 차고 있음</WearingGoldBracelet.stages.0.label>
+  <WearingGoldBracelet.stages.0.description>나는 금팔찌를 차고 있어.</WearingGoldBracelet.stages.0.description>
+  <WearingGemsBracelet.stages.0.label>보석이 박힌 금팔찌를 차고 있음</WearingGemsBracelet.stages.0.label>
+  <WearingGemsBracelet.stages.0.description>나는 아주 값진 보석이 박힌 금팔찌를 차고 있어.</WearingGemsBracelet.stages.0.description>
+  <WearingEarring.stages.0.label>귀걸이를 끼고 있음</WearingEarring.stages.0.label>
+  <WearingEarring.stages.0.description>나는 아주 값진 귀걸이를 끼고 있어.</WearingEarring.stages.0.description>
+
+  <!--1725545225_190714_CyberNet-->
+  <CNSootheSkinThought.stages.0.label>포근한 느낌 (비연결)</CNSootheSkinThought.stages.0.label>
+  <CNSootheSkinThought.stages.0.description>진정아우라 피부 근처에 있었는데, 연결이 끊어져있었어.</CNSootheSkinThought.stages.0.description>
+  <CNSootheSkinThought.stages.1.label>포근한 느낌 (스로틀)</CNSootheSkinThought.stages.1.label>
+  <CNSootheSkinThought.stages.1.description>진정아우라 피부 근처에 있어. 너무 기분이 좋아.</CNSootheSkinThought.stages.1.description>
+  <CNSootheSkinThought.stages.2.label>포근한 느낌 (정체됨)</CNSootheSkinThought.stages.2.label>
+  <CNSootheSkinThought.stages.2.description>진정아우라 피부 근처에 있어. 너무 기분이 좋아.</CNSootheSkinThought.stages.2.description>
+  <CNSootheSkinThought.stages.3.label>포근한 느낌 (연결됨)</CNSootheSkinThought.stages.3.label>
+  <CNSootheSkinThought.stages.3.description>진정아우라 피부 근처에 있어. 너무 기분이 좋아.</CNSootheSkinThought.stages.3.description>
+  <CNSootheSkinThought.stages.4.label>포근한 느낌 (오버클록)</CNSootheSkinThought.stages.4.label>
+  <CNSootheSkinThought.stages.4.description>진정아우라 피부 근처에 있어. 너무 기분이 좋아.</CNSootheSkinThought.stages.4.description>
+  <CNSootheSkinThought.stages.5.label>포근한 느낌 (슈퍼차지드)</CNSootheSkinThought.stages.5.label>
+  <CNSootheSkinThought.stages.5.description>진정아우라 피부 근처에 있어. 너무 기분이 좋아.</CNSootheSkinThought.stages.5.description>
+
+  <!--1833592062_190816_RimCuisine 2 Core-->
+  <RC2_CaffeineHigh.stages.0.label>기운이 남</RC2_CaffeineHigh.stages.0.label>
+  <RC2_CaffeineHigh.stages.0.description>피로 회복제로 카페인이 딱이지!</RC2_CaffeineHigh.stages.0.description>
+  <RC2_CaffeineHigh.stages.1.label>흥분함</RC2_CaffeineHigh.stages.1.label>
+  <RC2_CaffeineHigh.stages.1.description>이게 무슨 느낌이람!</RC2_CaffeineHigh.stages.1.description>
+  <RC2_CaffeineHigh.stages.2.label>초조해함</RC2_CaffeineHigh.stages.2.label>
+  <RC2_CaffeineHigh.stages.2.description>너무 많이 먹었나봐. 손이 떨리기 시작했어.</RC2_CaffeineHigh.stages.2.description>
+  <RC2_CaffeineHigh.stages.3.label>과용</RC2_CaffeineHigh.stages.3.label>
+  <RC2_CaffeineHigh.stages.3.description>손바닥은 젖었고, 무릎은 아프고, 팔은 무겁고, 엄마 스파게티!</RC2_CaffeineHigh.stages.3.description>
+  <RC2_CaffeineWithdrawal.stages.1.label>카페인 금단 현상</RC2_CaffeineWithdrawal.stages.1.label>
+  <RC2_CaffeineWithdrawal.stages.1.description>아, 카페인이 필요해. 머리가 아파서 집중하기 힘들어. 다들 좀 닥쳐줬으면 좋겠어.</RC2_CaffeineWithdrawal.stages.1.description>
+  <RC2_CaffeineHighTea.stages.0.label>기운이 남</RC2_CaffeineHighTea.stages.0.label>
+  <RC2_CaffeineHighTea.stages.0.description>피로 회복제로 카페인이 딱이지!</RC2_CaffeineHighTea.stages.0.description>
+  <RC2_CaffeineHighTea.stages.1.label>흥분함</RC2_CaffeineHighTea.stages.1.label>
+  <RC2_CaffeineHighTea.stages.1.description>이게 무슨 느낌이람!</RC2_CaffeineHighTea.stages.1.description>
+  <RC2_CaffeineHighTea.stages.2.label>초조해함</RC2_CaffeineHighTea.stages.2.label>
+  <RC2_CaffeineHighTea.stages.2.description>너무 많이 먹었나봐. 손이 떨리기 시작했어.</RC2_CaffeineHighTea.stages.2.description>
+  <RC2_CaffeineHighTea.stages.3.label>불안정함</RC2_CaffeineHighTea.stages.3.label>
+  <RC2_CaffeineHighTea.stages.3.description>손바닥은 젖었고, 무릎은 아프고, 팔은 무겁고, 엄마 스파게티!</RC2_CaffeineHighTea.stages.3.description>
+  <AteUncommonAsIngredient.stages.0.label>특별한 재료를 먹음</AteUncommonAsIngredient.stages.0.label>
+  <AteUncommonAsIngredient.stages.0.description>괜찮은 맛인데!</AteUncommonAsIngredient.stages.0.description>
+  <AteRareAsIngredient.stages.0.label>귀한 재료를 먹음</AteRareAsIngredient.stages.0.label>
+  <AteRareAsIngredient.stages.0.description>맛있었어!</AteRareAsIngredient.stages.0.description>
+  <AteExoticAsIngredient.stages.0.label>이국적인 재료를 먹음</AteExoticAsIngredient.stages.0.label>
+  <AteExoticAsIngredient.stages.0.description>으으음, 그 맛.. 질감.. 맛 좋았어..</AteExoticAsIngredient.stages.0.description>
+  <AtePoorAsIngredient.stages.0.label>빈약한 재료를 먹음</AtePoorAsIngredient.stages.0.label>
+  <AtePoorAsIngredient.stages.0.description>아, 별로 맛없었어.</AtePoorAsIngredient.stages.0.description>
+  <AteTofuAsIngredient.stages.0.label>두부를 먹음</AteTofuAsIngredient.stages.0.label>
+  <AteTofuAsIngredient.stages.0.description>윽 더러워. 이걸 고기 대체식이라고 부른다고? 진짜 고기를 달라고!</AteTofuAsIngredient.stages.0.description>
+  <AteChocolateAsIngredient.stages.0.label>초콜릿을 먹음</AteChocolateAsIngredient.stages.0.label>
+  <AteChocolateAsIngredient.stages.0.description>나는! 초콜릿이! 존나게! 좋아!</AteChocolateAsIngredient.stages.0.description>
+  <AteCheeseAsIngredient.stages.0.label>치즈를 재료로 먹음</AteCheeseAsIngredient.stages.0.label>
+  <AteCheeseAsIngredient.stages.0.description>황금이 흐르는 느낌이야! 아무리 먹어도 부족해!</AteCheeseAsIngredient.stages.0.description>
+  <AteExtravagantMeal.stages.0.label>호화로운 식사를 먹음</AteExtravagantMeal.stages.0.label>
+  <AteExtravagantMeal.stages.0.description>말그대로 호화로운 식사였어. 몸뿐만 아니라 영혼까지 배가 부른 느낌이야.</AteExtravagantMeal.stages.0.description>
+  <AteTastySnack.stages.0.label>맛있는 간식을 먹음</AteTastySnack.stages.0.label>
+  <AteTastySnack.stages.0.description>간식 또 먹고 싶은 걸!</AteTastySnack.stages.0.description>
+  <AteExoticSnack.stages.0.label>정말 맛있는 간식을 먹음</AteExoticSnack.stages.0.label>
+  <AteExoticSnack.stages.0.description>아까 먹었던 간식 정말 맛있었어!!</AteExoticSnack.stages.0.description>
+  <AteChocolate.stages.0.label>초콜릿을 먹음</AteChocolate.stages.0.label>
+  <AteChocolate.stages.0.description>음, 초콜릿!</AteChocolate.stages.0.description>
+  <DrankTastyDrink.stages.0.label>맛있는 음료수를 마심</DrankTastyDrink.stages.0.label>
+  <DrankTastyDrink.stages.0.description>음, 신선하구만!</DrankTastyDrink.stages.0.description>
+  <DrankRimCola.stages.0.label>맛있는 음료수를 마심</DrankRimCola.stages.0.label>
+  <DrankRimCola.stages.0.description>옴마야! 난 림콜라가 정말 좋아! 누가 싫어하겠어?</DrankRimCola.stages.0.description>
+  <AtePoorFood.stages.0.label>빈약한 음식을 먹음</AtePoorFood.stages.0.label>
+  <AtePoorFood.stages.0.description>으엑. 뭐 안먹는 것보다는 낫지만..</AtePoorFood.stages.0.description>
+  <AteUncommonFood.stages.0.label>특별한 음식을 먹음</AteUncommonFood.stages.0.label>
+  <AteUncommonFood.stages.0.description>음, 괜찮군!</AteUncommonFood.stages.0.description>
+  <AteRareFood.stages.0.label>희귀한 음식을 먹음</AteRareFood.stages.0.label>
+  <AteRareFood.stages.0.description>이것만 먹고 평생 살아도 될거같아!</AteRareFood.stages.0.description>
+  <AteExoticFood.stages.0.label>이국적인 음식을 먹음</AteExoticFood.stages.0.label>
+  <AteExoticFood.stages.0.description>이.. 이제 죽어도 좋아..</AteExoticFood.stages.0.description>
+  <RC2_AteCheese.stages.0.label>치즈를 먹음</RC2_AteCheese.stages.0.label>
+  <RC2_AteCheese.stages.0.description>으으음...치즈.. 정말 좋군...</RC2_AteCheese.stages.0.description>
+  <RC2_AteFlour.stages.0.label>곡물가루를 먹음</RC2_AteFlour.stages.0.label>
+  <RC2_AteFlour.stages.0.description>곡물가루를 생으로 먹어야 한다고? 으엑! 최소한 건빵으로라도 만들어 먹을 수는 없는 거야? 다들 이렇게 게을렀던가??</RC2_AteFlour.stages.0.description>
+  <RC2_AteSweetener.stages.0.label>감미료를 날로 먹음</RC2_AteSweetener.stages.0.label>
+  <RC2_AteSweetener.stages.0.description>으억, 너무 달잖아! 영양가는 확실히 많겠다만, 이런 걸 생으로 먹을 필요가 있는 거야? 최소한... 뭔가 만들어 먹을 수는 없어?? 벌써부터 이가 썩어들어가는 것 같잖아!</RC2_AteSweetener.stages.0.description>
+  <AteDurianDirect.stages.0.label>두리안을 먹음</AteDurianDirect.stages.0.label>
+  <AteDurianDirect.stages.0.description>커스타드에... 진한 아몬드향까지 넣은 것 같은 느낌이야. 아님 어쩌면... 차이브에 감미료까지? 냠!</AteDurianDirect.stages.0.description>
+
+  <!--1833592532_190816_RimCuisine 2 Bottling and Booze Expansion-->
+  <RC2_AmbrosiaInebriated.stages.0.label>꿀에 의한 술 기운</RC2_AmbrosiaInebriated.stages.0.label>
+  <RC2_AmbrosiaInebriated.stages.0.description>이걸 마시고 나니 기분이 풀렸어. 괜찮은 걸.</RC2_AmbrosiaInebriated.stages.0.description>
+  <RC2_AmbrosiaInebriated.stages.1.label>꿀에 푹 빠짐</RC2_AmbrosiaInebriated.stages.1.label>
+  <RC2_AmbrosiaInebriated.stages.1.description>나 약간 좀 비틀거리는데! 이거 재밌네.</RC2_AmbrosiaInebriated.stages.1.description>
+  <RC2_AmbrosiaInebriated.stages.2.label>꿀에 취함</RC2_AmbrosiaInebriated.stages.2.label>
+  <RC2_AmbrosiaInebriated.stages.2.description>누구도 날 막을 순 없다! 가즈아!</RC2_AmbrosiaInebriated.stages.2.description>
+  <RC2_AmbrosiaInebriated.stages.3.label>꿀에 꽐라가 됨</RC2_AmbrosiaInebriated.stages.3.label>
+  <RC2_AmbrosiaInebriated.stages.3.description>우우우! 뭐가 어떻게 된거야?</RC2_AmbrosiaInebriated.stages.3.description>
+  <RC2_AmbrosiaAlcoholWithdrawal.stages.1.label>암브로시아 꿀 금단 현상</RC2_AmbrosiaAlcoholWithdrawal.stages.1.label>
+  <RC2_AmbrosiaAlcoholWithdrawal.stages.1.description>몸이 떨려. 모든 것이 날 화나게 해. 암브로시아 꿀을 맛본 그 시간이 자꾸 생각나. 더 이상 기분 좋은 건 없어. 그게 필요해.</RC2_AmbrosiaAlcoholWithdrawal.stages.1.description>
+
+  <!--1833592940_190816_RimCuisine 2 Meals and Munchies Expansion-->
+  <AteExtravagantMeal.stages.0.label>호화로운 식사를 먹음</AteExtravagantMeal.stages.0.label>
+  <AteExtravagantMeal.stages.0.description>말그대로 호화로운 식사였어. 몸뿐만 아니라 영혼까지 배가 부른 느낌이야.</AteExtravagantMeal.stages.0.description>
+  <AteCannedMeal.stages.0.label>통조림 식사를 먹음</AteCannedMeal.stages.0.label>
+  <AteCannedMeal.stages.0.description>에. 통조림 식사는 갓 만든 것보다 맛있지도 않고, 좋지도 않은 걸.</AteCannedMeal.stages.0.description>
+  <AteCannedMeatAsIngredient.stages.0.label>고기 통조림을 먹음</AteCannedMeatAsIngredient.stages.0.label>
+  <AteCannedMeatAsIngredient.stages.0.description>이게 어떤 고기인지 알고 싶진 않지만, 이게 뭐든 간에, 이크.</AteCannedMeatAsIngredient.stages.0.description>
+  <AteCannedFruitAsIngredient.stages.0.label>과일 통조림을 먹음</AteCannedFruitAsIngredient.stages.0.label>
+  <AteCannedFruitAsIngredient.stages.0.description>그거 알아? 이거 별로 나쁘지 않아!</AteCannedFruitAsIngredient.stages.0.description>
+  <AteCannedVegetablesAsIngredient.stages.0.label>야채 통조림을 먹음</AteCannedVegetablesAsIngredient.stages.0.label>
+  <AteCannedVegetablesAsIngredient.stages.0.description>어, 더 나쁠 수 있지만, 맛이 진하긴 해.</AteCannedVegetablesAsIngredient.stages.0.description>
+  <AteFruitPreserves.stages.0.label>과일 보존식량을 먹음</AteFruitPreserves.stages.0.label>
+  <AteFruitPreserves.stages.0.description>얌!</AteFruitPreserves.stages.0.description>
+  <AteFruitPreservesAsIngredient.stages.0.label>과일 보존식량이 들어간 식사를 먹음</AteFruitPreservesAsIngredient.stages.0.label>
+  <AteFruitPreservesAsIngredient.stages.0.description>얌!</AteFruitPreservesAsIngredient.stages.0.description>
+  <AteIcecream.stages.0.label>아이스크림을 먹음</AteIcecream.stages.0.label>
+  <AteIcecream.stages.0.description>정말 달아, 아이스크림 마이쪙!</AteIcecream.stages.0.description>
+  <AteChocolateIcecream.stages.0.label>초콜릿 아이스크림을 먹음</AteChocolateIcecream.stages.0.label>
+  <AteChocolateIcecream.stages.0.description>정말 달아, 초콜릿 마이쪙!</AteChocolateIcecream.stages.0.description>
+
+  <!--1833593222_190816_RimCuisine 2 Smokes and Shrooms Expansion-->
+  <RC2_DreamstickHigh.stages.0.label>드림스틱 1단계</RC2_DreamstickHigh.stages.0.label>
+  <RC2_DreamstickHigh.stages.0.description>오 물건이잖아!</RC2_DreamstickHigh.stages.0.description>
+  <RC2_DreamstickHigh.stages.1.label>드림스틱 2단계</RC2_DreamstickHigh.stages.1.label>
+  <RC2_DreamstickHigh.stages.1.description>오 바로 그거야, 가보자고!</RC2_DreamstickHigh.stages.1.description>
+  <RC2_DreamstickHigh.stages.2.label>드림스틱 3단계</RC2_DreamstickHigh.stages.2.label>
+  <RC2_DreamstickHigh.stages.2.description>기분 좋아아아....</RC2_DreamstickHigh.stages.2.description>
+  <RC2_DreamstickHigh.stages.3.label>드림스틱 4단계</RC2_DreamstickHigh.stages.3.label>
+  <RC2_DreamstickHigh.stages.3.description>몸에 감각이 없어지기 시작했어...</RC2_DreamstickHigh.stages.3.description>
+  <RC2_DreamstickHigh.stages.4.label>드림스틱 5단계</RC2_DreamstickHigh.stages.4.label>
+  <RC2_DreamstickHigh.stages.4.description>오 이런, 아무것도 느낄수 없지만 여전히 쩐다고!</RC2_DreamstickHigh.stages.4.description>
+  <RC2_ShroomsHigh.stages.0.label>약한 환각 경험 중</RC2_ShroomsHigh.stages.0.label>
+  <RC2_ShroomsHigh.stages.0.description>오.. 나 지금.. 기분 좋아..</RC2_ShroomsHigh.stages.0.description>
+  <RC2_ShroomsHigh.stages.1.label>보통의 환각 경험 중</RC2_ShroomsHigh.stages.1.label>
+  <RC2_ShroomsHigh.stages.1.description>색깔이 들리고 소리가 보여! 우오와아아아아아!</RC2_ShroomsHigh.stages.1.description>
+  <RC2_ShroomsHigh.stages.2.label>강한 환각 경험 중</RC2_ShroomsHigh.stages.2.label>
+  <RC2_ShroomsHigh.stages.2.description>뭐가 현실이야? 누가 현실이야? 왜 현실이지? 난 취했다고 자식들아!</RC2_ShroomsHigh.stages.2.description>
+  <RC2_ShroomsWithdrawal.stages.1.label>환각 버섯 금단현상</RC2_ShroomsWithdrawal.stages.1.label>
+  <RC2_ShroomsWithdrawal.stages.1.description>뭐라고? 내가 바보냐 중독됐게! 니가 그걸 어떻게 알아?!</RC2_ShroomsWithdrawal.stages.1.description>
+  <RC2_SkagHigh.stages.0.label>스캐그 도핑함</RC2_SkagHigh.stages.0.label>
+  <RC2_SkagHigh.stages.0.description>좋아아아아....</RC2_SkagHigh.stages.0.description>
+  <RC2_SoldierPillWithdrawal.stages.1.label>군용 알약 금단 현상</RC2_SoldierPillWithdrawal.stages.1.label>
+  <RC2_SoldierPillWithdrawal.stages.1.description>아, 배고파...아무것도 성에 안 차.</RC2_SoldierPillWithdrawal.stages.1.description>
+  <RC2_SunshineHigh.stages.0.label>선샤인 작용 중</RC2_SunshineHigh.stages.0.label>
+  <RC2_SunshineHigh.stages.0.description>이봐... 나 취했다구...헤헤헤헤헤</RC2_SunshineHigh.stages.0.description>
+  <RC2_SunshineWithdrawal.stages.1.label>선샤인 금단 현상</RC2_SunshineWithdrawal.stages.1.label>
+  <RC2_SunshineWithdrawal.stages.1.description>이봐, 나 좀 깨워줘.. 여긴 너무 지겹다고!</RC2_SunshineWithdrawal.stages.1.description>
+  <RC2_TangoHigh.stages.0.label>탱고에 취함</RC2_TangoHigh.stages.0.label>
+  <RC2_TangoHigh.stages.0.description>이거 물건이군... 그래..</RC2_TangoHigh.stages.0.description>
+  <RC2_TangoWithdrawal.stages.1.label>탱고 금단 현상</RC2_TangoWithdrawal.stages.1.label>
+  <RC2_TangoWithdrawal.stages.1.description>우으으으으아아아아아아아아아아아!!</RC2_TangoWithdrawal.stages.1.description>
+  <RC2_NicotineWithdrawal.stages.1.label>니코틴 금단 현상</RC2_NicotineWithdrawal.stages.1.label>
+  <RC2_NicotineWithdrawal.stages.1.description>담배를 펴야돼!</RC2_NicotineWithdrawal.stages.1.description>
+  <RC2_VikoHigh.stages.0.label>비코에 취함</RC2_VikoHigh.stages.0.label>
+  <RC2_VikoHigh.stages.0.description>나 약했다고 친구. 기분 너무 좋아.</RC2_VikoHigh.stages.0.description>
+  <RC2_ZopeHigh.stages.0.label>조피에 취함</RC2_ZopeHigh.stages.0.label>
+  <RC2_ZopeHigh.stages.0.description>오! 이건 물건이야!</RC2_ZopeHigh.stages.0.description>
+  <RC2_ZopioidWithdrawal.stages.1.label>조피오이드 금단 현상</RC2_ZopioidWithdrawal.stages.1.label>
+  <RC2_ZopioidWithdrawal.stages.1.description>뭔가가 필요해! 몸전체가 따갑고 토할것만 같아.</RC2_ZopioidWithdrawal.stages.1.description>
+
+  <!--814732357_190622_GouRIMet-->
+  <BuffSoupThought.stages.0.label>따뜻한 수프를 먹었어.</BuffSoupThought.stages.0.label>
+  <BuffSoupThought.stages.0.description>낮잠을 자고싶어.</BuffSoupThought.stages.0.description>
+  <BuffBerryPieThought.stages.0.label>이 케이크는 가짜가 아니었어!</BuffBerryPieThought.stages.0.label>
+  <BuffBerryPieThought.stages.0.description>지금 낮잠을 자고싶어.</BuffBerryPieThought.stages.0.description>
+  <BuffMeatPieThought.stages.0.label>이 고기파이 안에 뭐가 들었는지 모르겠지만, 맛있어!</BuffMeatPieThought.stages.0.label>
+  <BuffMeatPieThought.stages.0.description>지금 낮잠을 자고싶어.</BuffMeatPieThought.stages.0.description>
+
+  <!--1554147049_190818_Zen Garden-->
+  <ZEN_DidNotEnjoyScenery.stages.0.label>풍경을 즐기지 못함</ZEN_DidNotEnjoyScenery.stages.0.label>
+  <ZEN_EnjoyedBeautifulScenery.stages.0.label>아름다운 풍경을 즐김</ZEN_EnjoyedBeautifulScenery.stages.0.label>
+  <ZEN_EnjoyedScenery.stages.0.label>풍경을 즐김</ZEN_EnjoyedScenery.stages.0.label>
+  <ZEN_EnjoyedBeautifulScenery.stages.0.description>앉아서 아름다운 풍경을 보며 긴장을 푸는 즐기며 좋은 순간을 보냈어.</ZEN_EnjoyedBeautifulScenery.stages.0.description>
+  <ZEN_EnjoyedScenery.stages.0.description>앉아서 풍경을 보며 긴장을 푸는 순간을 즐겼어.</ZEN_EnjoyedScenery.stages.0.description>
+  <ZEN_DidNotEnjoyScenery.stages.0.description>앉아서 풍경을 즐기려고 했지만 이 장소가 썩 좋은 곳이 아니라고 느꼈어.</ZEN_DidNotEnjoyScenery.stages.0.description>
+
+  <!--1761270139_190822_Underground Food-->
+  <UF_AlcavoraxHigh.stages.0.label>근질근질함</UF_AlcavoraxHigh.stages.0.label>
+  <UF_AlcavoraxHigh.stages.0.description>내 피부가 근질근질해. 참을 수 없어!</UF_AlcavoraxHigh.stages.0.description>
+
+</LanguageData>

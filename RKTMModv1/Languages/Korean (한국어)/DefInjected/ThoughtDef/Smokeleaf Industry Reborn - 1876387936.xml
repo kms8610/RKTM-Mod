@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Stoner.stages.0.label>약간 취함</Stoner.stages.0.label>
+  <Stoner.stages.0.description>나 취해 보여?</Stoner.stages.0.description>
+  <Stoner.stages.1.label>기분이 좋음</Stoner.stages.1.label>
+  <Stoner.stages.1.description>하하! 이런 젠장.</Stoner.stages.1.description>
+  <Stoner.stages.2.label>기분이 아주 좋음</Stoner.stages.2.label>
+  <Stoner.stages.2.description>이건. 정말. 굉장하군!</Stoner.stages.2.description>
+  <Stoner.stages.3.label>곤드레만드레</Stoner.stages.3.label>
+  <Stoner.stages.3.description>와우... 진짜 최고야...</Stoner.stages.3.description>
+  <Stoner.stages.4.label>인사불성, 정신착란</Stoner.stages.4.label>
+  <Stoner.stages.4.description>정신이 하나도 없군!</Stoner.stages.4.description>
+  <SLI_SmokeleafWithdrawal.stages.1.label>연초잎 금단현상</SLI_SmokeleafWithdrawal.stages.1.label>
+  <SLI_SmokeleafWithdrawal.stages.1.description>취 할때까지 날밤까는거야.</SLI_SmokeleafWithdrawal.stages.1.description>
+  <SmokeleafLotionRelief.stages.0.label>연초잎 로션을 사용함</SmokeleafLotionRelief.stages.0.label>
+  <SmokeleafLotionRelief.stages.0.description>쑤시고 아픈 게 싹 가셨어.</SmokeleafLotionRelief.stages.0.description>
+  <SmokeleafPillsBuzz.stages.0.label>연초잎 알약을 복용함</SmokeleafPillsBuzz.stages.0.label>
+  <SmokeleafPillsBuzz.stages.0.description>훨씬 낫네.</SmokeleafPillsBuzz.stages.0.description>
+  <AteInfusedMeal.stages.0.label>첨가 식품을 먹음</AteInfusedMeal.stages.0.label>
+  <AteInfusedMeal.stages.0.description>이 밥 맛있었어! 기분이 아주 좋아!</AteInfusedMeal.stages.0.description>
+  <IngestCannagar.stages.0.label>캐나가르 피움</IngestCannagar.stages.0.label>
+  <IngestCannagar.stages.0.description>캐나가르를 피웠어! 와 이걸 가지고 있다니, 정말 좋아!</IngestCannagar.stages.0.description>
+  <IngestDistillate.stages.0.label>증류액 마심</IngestDistillate.stages.0.label>
+  <IngestDistillate.stages.0.description>나는 증류액을 약간 마셨어. 이건 젠장하게 부드럽군.</IngestDistillate.stages.0.description>
+  <IngestCHO.stages.0.label>해쉬 기름 피움</IngestCHO.stages.0.label>
+  <IngestCHO.stages.0.description>해쉬 기름을 피웠어. 아주 독하네.</IngestCHO.stages.0.description>
+  <IngestHash.stages.0.label>해쉬 피움</IngestHash.stages.0.label>
+  <IngestHash.stages.0.description>해쉬를 피웠어. 꽤 독하지만, 효험은 있군.</IngestHash.stages.0.description>
+  <IngestCrudeJoint.stages.0.label>간이 조인트 피움</IngestCrudeJoint.stages.0.label>
+  <IngestCrudeJoint.stages.0.description>간이 조인트를 피웠어. 머리를 아프게 하는군.</IngestCrudeJoint.stages.0.description>
+  <IngestSmokeleafJoint.stages.0.label>조인트 피움</IngestSmokeleafJoint.stages.0.label>
+  <IngestSmokeleafJoint.stages.0.description>조인트를 피웠어. 괜찮은데...</IngestSmokeleafJoint.stages.0.description>
+  <IngestSmokeleafButter.stages.0.label>연초잎 버터 먹음</IngestSmokeleafButter.stages.0.label>
+  <IngestSmokeleafButter.stages.0.description>역겨워. 내가 그렇게 취하는데에 절박해?</IngestSmokeleafButter.stages.0.description>
+  <IngestRawSmokeleaf.stages.0.label>연초잎을 생으로 먹음</IngestRawSmokeleaf.stages.0.label>
+  <IngestRawSmokeleaf.stages.0.description>내가 뭐하는 짓이지? 애처롭네.</IngestRawSmokeleaf.stages.0.description>
+  <IngestSmokeleafBrownie.stages.0.label>연초잎 브라우니 먹음</IngestSmokeleafBrownie.stages.0.label>
+  <IngestSmokeleafBrownie.stages.0.description>오우. 특별한 브라우니!</IngestSmokeleafBrownie.stages.0.description>
+  <IngestSmokeleafCookie.stages.0.label>연초잎 쿠키 먹음</IngestSmokeleafCookie.stages.0.label>
+  <IngestSmokeleafCookie.stages.0.description>브라우니를 더 좋아하지만, 이것도 효과가 있네.</IngestSmokeleafCookie.stages.0.description>
+  <IngestSmokeleafNutriLeaf.stages.0.label>뉴트리잎 바 먹음</IngestSmokeleafNutriLeaf.stages.0.label>
+  <IngestSmokeleafNutriLeaf.stages.0.description>맛은 괜찮은거 같아.</IngestSmokeleafNutriLeaf.stages.0.description>
+  <IngestSmokeleafDeEnergyDrink.stages.0.label>연초잎 디-에너지 드링크 마심</IngestSmokeleafDeEnergyDrink.stages.0.label>
+  <IngestSmokeleafDeEnergyDrink.stages.0.description>소파가 필요해...</IngestSmokeleafDeEnergyDrink.stages.0.description>
+  <IngestSmokeleafSmoothie.stages.0.label>연초잎 스무디 마심</IngestSmokeleafSmoothie.stages.0.label>
+  <IngestSmokeleafSmoothie.stages.0.description>오우! 훌륭한데.</IngestSmokeleafSmoothie.stages.0.description>
+  <IngestSmokeleafCandy.stages.0.label>연초잎 사탕 먹음</IngestSmokeleafCandy.stages.0.label>
+  <IngestSmokeleafCandy.stages.0.description>너무 달콤해!</IngestSmokeleafCandy.stages.0.description>
+  <Catharsis_Mild.stages.0.label>카타르시스</Catharsis_Mild.stages.0.label>
+  <Catharsis_Mild.stages.0.description>기분이 조금 나아졌어.</Catharsis_Mild.stages.0.description>
+  <TinctureBuzz.stages.0.label>팅크제로 안정됨</TinctureBuzz.stages.0.label>
+  <TinctureBuzz.stages.0.description>약이 통증에 잘 듣네.</TinctureBuzz.stages.0.description>
+
+</LanguageData>

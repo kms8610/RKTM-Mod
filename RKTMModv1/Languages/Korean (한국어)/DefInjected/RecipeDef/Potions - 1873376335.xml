@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BottleCrafting.label>돌덩어리로 유리병 제작</BottleCrafting.label>
+  <BottleCrafting.description>돌 덩어리를 물약 정제용 유리 병으로 만듭니다.</BottleCrafting.description>
+  <BottleCrafting.jobString>돌덩어리로 유리병 제작 중.</BottleCrafting.jobString>
+  <DustUraniumMaking.label>우라늄 가루 제작</DustUraniumMaking.label>
+  <DustUraniumMaking.description>우라늄을 물약 정제에 사용하는 가루로 만듭니다.</DustUraniumMaking.description>
+  <DustUraniumMaking.jobString>가루 제작 중.</DustUraniumMaking.jobString>
+  <DustGoldMaking.label>금 가루 제작</DustGoldMaking.label>
+  <DustGoldMaking.description>금을 물약 정제에 사용하는 가루로 만듭니다.</DustGoldMaking.description>
+  <DustGoldMaking.jobString>가루 제작 중.</DustGoldMaking.jobString>
+  <DustJadeMaking.label>비취 가루 제작</DustJadeMaking.label>
+  <DustJadeMaking.description>비취를 물약 정제에 사용하는 가루로 만듭니다.</DustJadeMaking.description>
+  <DustJadeMaking.jobString>가루 제작 중.</DustJadeMaking.jobString>
+  <DustPlasteelMaking.label>플라스틸 가루 제작</DustPlasteelMaking.label>
+  <DustPlasteelMaking.description>플라스틸을 물약 정제에 사용하는 가루로 만듭니다.</DustPlasteelMaking.description>
+  <DustPlasteelMaking.jobString>가루 제작 중.</DustPlasteelMaking.jobString>
+  <DustWindDaisyMaking.label>바람 데이지 꽃 가루 제작</DustWindDaisyMaking.label>
+  <DustWindDaisyMaking.description>바람 데이지 꽃을 물약 정제에 사용하는 가루로 만듭니다.</DustWindDaisyMaking.description>
+  <DustWindDaisyMaking.jobString>가루 제작 중.</DustWindDaisyMaking.jobString>
+  <BrewingSaturation.label>포만의 물약 정제</BrewingSaturation.label>
+  <BrewingSaturation.description>포만의 물약을 정제합니다.</BrewingSaturation.description>
+  <BrewingSaturation.jobString>정제 중.</BrewingSaturation.jobString>
+  <BrewingSkills.label>기술의 물약 정제</BrewingSkills.label>
+  <BrewingSkills.description>기술의 물약을 정제합니다.</BrewingSkills.description>
+  <BrewingSkills.jobString>정제 중.</BrewingSkills.jobString>
+  <BrewingHealer.label>치유 물약 정제</BrewingHealer.label>
+  <BrewingHealer.description>치유 물약을 정제합니다.</BrewingHealer.description>
+  <BrewingHealer.jobString>정제 중.</BrewingHealer.jobString>
+  <BrewingLife.label>생명의 물약 정제</BrewingLife.label>
+  <BrewingLife.description>생명의 물약을 정제합니다.</BrewingLife.description>
+  <BrewingLife.jobString>정제 중.</BrewingLife.jobString>
+  <BrewingKnowledge.label>지식의 물약 정제</BrewingKnowledge.label>
+  <BrewingKnowledge.description>지식의 물약을 정제합니다.</BrewingKnowledge.description>
+  <BrewingKnowledge.jobString>정제 중.</BrewingKnowledge.jobString>
+  <BrewingLuciferium.label>루시페륨 물약 정제</BrewingLuciferium.label>
+  <BrewingLuciferium.description>루시페륨 물약을 정제합니다.</BrewingLuciferium.description>
+  <BrewingLuciferium.jobString>정제 중.</BrewingLuciferium.jobString>
+  <BrewingPain.label>진통의 물약 정제</BrewingPain.label>
+  <BrewingPain.description>진통의 물약을 정제합니다.</BrewingPain.description>
+  <BrewingConsciousness.label>의식의 물약 정제</BrewingConsciousness.label>
+  <BrewingConsciousness.description>의식의 물약을 정제합니다.</BrewingConsciousness.description>
+  <BrewingSight.label>시야의 물약 정제</BrewingSight.label>
+  <BrewingSight.description>시야의 물약을 정제합니다.</BrewingSight.description>
+  <BrewingMoving.label>이동 속도의 물약 정제</BrewingMoving.label>
+  <BrewingMoving.description>이동 속도의 물약을 정제합니다.</BrewingMoving.description>
+  <BrewingMetabolism.label>신진대사의 물약 정제</BrewingMetabolism.label>
+  <BrewingMetabolism.description>신진대사의 물약을 정제합니다.</BrewingMetabolism.description>
+  <BrewingBreathing.label>호흡의 물약 정제</BrewingBreathing.label>
+  <BrewingBreathing.description>호흡의 물약을 정제합니다.</BrewingBreathing.description>
+  <BrewingBloodFiltration.label>혈액 여과의 물약 정제</BrewingBloodFiltration.label>
+  <BrewingBloodFiltration.description>혈액 여과의 물약을 정제합니다.</BrewingBloodFiltration.description>
+  <BrewingBloodPumping.label>혈액 순환의 물약 정제</BrewingBloodPumping.label>
+  <BrewingBloodPumping.description>혈액 순환의 물약을 정제합니다.</BrewingBloodPumping.description>
+  <BrewingRest.label>휴식의 물약 정제</BrewingRest.label>
+  <BrewingRest.description>휴식의 물약을 정제합니다.</BrewingRest.description>
+  <BrewingManipulation.label>조작의 물약 정제</BrewingManipulation.label>
+  <BrewingManipulation.description>조작의 물약을 정제합니다.</BrewingManipulation.description>
+  <BrewingHunger.label>기아의 물약 정제</BrewingHunger.label>
+  <BrewingHunger.description>기아의 물약을 정제합니다.</BrewingHunger.description>
+  <ThrumboBoneExtracting.label>트럼보 뼈 추출</ThrumboBoneExtracting.label>
+  <ThrumboBoneExtracting.description>트럼보에서 물약 정제에 사용하는 뼈를 추출합니다.</ThrumboBoneExtracting.description>
+  <ThrumboBoneExtracting.jobString>뼈 추출 중.</ThrumboBoneExtracting.jobString>
+
+</LanguageData>

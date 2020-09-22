@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Copper.label>구리</Copper.label>
+  <Copper.description>흔한 원소 금속입니다. 인류가 사용법을 배운 가장 초기의 금속들 중 하나입니다.</Copper.description>
+  <Copper.stuffProps.stuffAdjective>구리</Copper.stuffProps.stuffAdjective>
+  <Tin.label>주석</Tin.label>
+  <Tin.description>흔한 원소 금속입니다. 매우 부드럽고 가벼운 금속으로, 녹는점이 낮습니다.</Tin.description>
+  <Tin.stuffProps.stuffAdjective>주석</Tin.stuffProps.stuffAdjective>
+  <Iron.label>철</Iron.label>
+  <Iron.description>원소 금속인 철은, 강철이 탄생하기 전까지 인류 문명에 의해 널리 사용되었습니다.</Iron.description>
+  <Iron.stuffProps.stuffAdjective>철</Iron.stuffProps.stuffAdjective>
+  <Titanium.label>티타늄</Titanium.label>
+  <Titanium.description>기술적으로 더 발달된 시대에 인간이 사용하는 원소 금속입니다. 강한 강도에도 불구하고 가볍고 작업하기 쉽습니다.</Titanium.description>
+  <Titanium.stuffProps.stuffAdjective>티타늄</Titanium.stuffProps.stuffAdjective>
+  <Bronze.label>청동</Bronze.label>
+  <Bronze.description>구리에서 추출한 합금이며 주석과 결합한 것입니다. 청동은 철보다 덜 튼튼하지만 훨씬 더 아름답다고 여겨집니다.</Bronze.description>
+  <Bronze.stuffProps.stuffAdjective>청동</Bronze.stuffProps.stuffAdjective>
+  <MineableCopper.label>구리 광석 층</MineableCopper.label>
+  <MineableCopper.description>구리의 자연 광맥입니다.</MineableCopper.description>
+  <MineableTin.label>주석 광석 층</MineableTin.label>
+  <MineableTin.description>주석의 자연 광맥입니다.</MineableTin.description>
+  <MineableIron.label>철 광석 층</MineableIron.label>
+  <MineableIron.description>철의 자연 광맥입니다.</MineableIron.description>
+  <MineableTitanium.label>티타늄 광석 층</MineableTitanium.label>
+  <MineableTitanium.description>티타늄의 자연광맥입니다.</MineableTitanium.description>
+
+</LanguageData>

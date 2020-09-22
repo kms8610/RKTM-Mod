@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChjAndroidLike.label>안드로이드</ChjAndroidLike.label>
+  <ChjAndroidUpgrade_Hulking.label>육중한 신체 업그레이드</ChjAndroidUpgrade_Hulking.label>
+  <ChjAndroidUpgrade_Agile.label>민첩한 신체 업그레이드</ChjAndroidUpgrade_Agile.label>
+  <ChjAndroidUpgrade_Super.label>완벽한 신체 업그레이드</ChjAndroidUpgrade_Super.label>
+  <ChjAndroidUpgrade_HyperweaveSkin.label>초경조직 피부 업그레이드</ChjAndroidUpgrade_HyperweaveSkin.label>
+  <ChjAndroidUpgrade_PlasteelSkin.label>플라스틸 피부 업그레이드</ChjAndroidUpgrade_PlasteelSkin.label>
+  <ChjAndroidUpgrade_DragonScales.label>용의 비늘 업그레이드</ChjAndroidUpgrade_DragonScales.label>
+  <ChjAndroidUpgrade_FighterModule.label>전투 장치</ChjAndroidUpgrade_FighterModule.label>
+  <ChjAndroidUpgrade_MedicalModule.label>의학 장치</ChjAndroidUpgrade_MedicalModule.label>
+  <ChjAndroidUpgrade_ConstructionModule.label>건설 장치</ChjAndroidUpgrade_ConstructionModule.label>
+  <ChjAndroidUpgrade_CrafterModule.label>제작 장치</ChjAndroidUpgrade_CrafterModule.label>
+  <ChjAndroidUpgrade_AgriculturalModule.label>농업 장치</ChjAndroidUpgrade_AgriculturalModule.label>
+  <ChjAndroidUpgrade_ScienceModule.label>과학 장치</ChjAndroidUpgrade_ScienceModule.label>
+  <ChjAndroidUpgrade_DiplomacyModule.label>외교 장치</ChjAndroidUpgrade_DiplomacyModule.label>
+  <ChjAndroidUpgrade_VanometricCell.label>배노메트릭 전지</ChjAndroidUpgrade_VanometricCell.label>
+  <ChjAndroidUpgrade_MechaniteHive.label>메카나이트 군집</ChjAndroidUpgrade_MechaniteHive.label>
+  <ChjAndroidUpgrade_BlackBox.label>기록장치</ChjAndroidUpgrade_BlackBox.label>
+  <ChjAndroidUpgrade_PsychicAttunement.label>초능력 관찰</ChjAndroidUpgrade_PsychicAttunement.label>
+  <ChjAndroidUpgrade_ArchotechAIModule.label>초월공학 장치</ChjAndroidUpgrade_ArchotechAIModule.label>
+  <ChjAndroidUpgrade_TechprofAIModule.label>기술전문 장치</ChjAndroidUpgrade_TechprofAIModule.label>
+  <ChjAndroidUpgrade_DroneCore.label>드론 정신</ChjAndroidUpgrade_DroneCore.label>
+  <ChjAndroidUpgrade_DroneCore.description>정신적으로 드로이드보다 좋지는 않지만 안드로이드의 이점을 얻습니다.</ChjAndroidUpgrade_DroneCore.description>
+  <ChjAndroidUpgrade_LoverCore.label>연인 정신</ChjAndroidUpgrade_LoverCore.label>
+  <ChjAndroidUpgrade_LoverCore.description>사랑의 노예입니다. 집착의 대상을 마음대로 바꿀 수 있습니다.</ChjAndroidUpgrade_LoverCore.description>
+  <ChjAndroidUpgrade_HotSwapCore.label>교체</ChjAndroidUpgrade_HotSwapCore.label>
+  <ChjAndroidUpgrade_HotSwapCore.description>신체 부위를 자유롭게 교환할 수 있습니다.</ChjAndroidUpgrade_HotSwapCore.description>
+  <ChjAndroidDroidFaultySupport.label>지원 결함</ChjAndroidDroidFaultySupport.label>
+  <ChjAndroidDroidFaultySupport.stages.1.label>극심함</ChjAndroidDroidFaultySupport.stages.1.label>
+  <ChjAndroidDroidFaultySupport.labelNoun>지원 결함</ChjAndroidDroidFaultySupport.labelNoun>
+  <ChjAndroidDroidWornOut.label>노후화</ChjAndroidDroidWornOut.label>
+  <ChjAndroidDroidWornOut.stages.1.label>가벼움</ChjAndroidDroidWornOut.stages.1.label>
+  <ChjAndroidDroidWornOut.stages.2.label>심각함</ChjAndroidDroidWornOut.stages.2.label>
+  <ChjAndroidDroidWornOut.stages.3.label>심각함</ChjAndroidDroidWornOut.stages.3.label>
+  <ChjAndroidDroidWornOut.stages.4.label>극심함</ChjAndroidDroidWornOut.stages.4.label>
+  <ChjAndroidDroidWornOut.labelNoun>노후화</ChjAndroidDroidWornOut.labelNoun>
+  <ChjAndroidDroidFaultyLightSensor.label>광센서 결함</ChjAndroidDroidFaultyLightSensor.label>
+  <ChjAndroidDroidFaultyLightSensor.stages.1.label>극심함</ChjAndroidDroidFaultyLightSensor.stages.1.label>
+  <ChjAndroidDroidFaultyLightSensor.labelNoun>광센서 결함</ChjAndroidDroidFaultyLightSensor.labelNoun>
+  <ChjAndroidDroidCorruptMemory.label>기억 손상</ChjAndroidDroidCorruptMemory.label>
+  <ChjAndroidDroidCorruptMemory.stages.1.label>극심함</ChjAndroidDroidCorruptMemory.stages.1.label>
+  <ChjCoolantLoss.label>냉각수 손실</ChjCoolantLoss.label>
+  <ChjCoolantLoss.stages.0.label>잠재됨</ChjCoolantLoss.stages.0.label>
+  <ChjCoolantLoss.stages.1.label>가벼움</ChjCoolantLoss.stages.1.label>
+  <ChjCoolantLoss.stages.2.label>진행됨</ChjCoolantLoss.stages.2.label>
+  <ChjCoolantLoss.stages.3.label>심각함</ChjCoolantLoss.stages.3.label>
+  <ChjCoolantLoss.stages.4.label>극심함</ChjCoolantLoss.stages.4.label>
+  <ChjOverheating.label>과열</ChjOverheating.label>
+  <ChjOverheating.stages.0.label>잠재됨</ChjOverheating.stages.0.label>
+  <ChjOverheating.stages.1.label>가벼움</ChjOverheating.stages.1.label>
+  <ChjOverheating.stages.2.label>진행됨</ChjOverheating.stages.2.label>
+  <ChjOverheating.stages.3.label>심각함</ChjOverheating.stages.3.label>
+  <ChjOverheating.stages.4.label>극심함</ChjOverheating.stages.4.label>
+  <ChjPowerShortage.label>전력 부족</ChjPowerShortage.label>
+  <ChjPowerShortage.stages.0.label>극심함</ChjPowerShortage.stages.0.label>
+  <ChjPowerFailure.label>동력 상실</ChjPowerFailure.label>
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MentalStateReason_Aspect>원인: {0}.</MentalStateReason_Aspect>
+  <GoodwillChangedReason_PawnTransformed>{memberLabel} 가 변이했습니다. {species}</GoodwillChangedReason_PawnTransformed>
+  <FactionLeaderTransformedLabel>{factionName} 의 {leaderTitle} 가 {species} 로 변이했습니다.</FactionLeaderTransformedLabel>
+  <FactionLeaderTransformedContent>TODO</FactionLeaderTransformedContent>
+  <GoodwillChangedReason_PawnReverted>{memberLabel} 는 더 이상 {species} 이 아님.</GoodwillChangedReason_PawnReverted>
+  <Sapient>인간화</Sapient>
+  <MostlySapient>어느정도 인간화됨</MostlySapient>
+  <Conflicted>수인화</Conflicted>
+  <MostlyFeral>어느정도 야생화됨</MostlyFeral>
+  <Feral>야생화</Feral>
+  <PermanentlyFeral>완전히 야생화됨</PermanentlyFeral>
+  <PawnmorpherModName>림변이체</PawnmorpherModName>
+  <enableFalloutCheckboxLabel>변이물질 낙진 활성화(작업중)</enableFalloutCheckboxLabel>
+  <enableFalloutCheckboxTooltip>변이물질 낙진 이벤트가 일어날 수 있으며 때때로 필드에 변이된 림이 스폰됨.</enableFalloutCheckboxTooltip>
+  <enableMutagenCheckboxLabel>변이체 함선 추락 활성화</enableMutagenCheckboxLabel>
+  <enableMutagenCheckboxTooltip>때때로 변이체 함선이 추락하는 이벤트가 발생하며 범위 내의 림을 변이시킬수 있음.</enableMutagenCheckboxTooltip>
+  <enableMutagenDiseasesCheckboxLabel>변이 질병 활성화</enableMutagenDiseasesCheckboxLabel>
+  <enableMutagenDiseasesCheckboxTooltip>변이 질병 이벤트가 활성화되며 감염될 시 림이 변이될 수 있음.</enableMutagenDiseasesCheckboxTooltip>
+  <enableMutagenMeteorCheckboxLabel>뮤토나이트 운석 이벤트 변이 활성화</enableMutagenMeteorCheckboxLabel>
+  <enableMutagenMeteorCheckboxTooltip>추락한 뮤토나이트 운석이 주변의 림들을 변이시킬수 있도록 허가함.</enableMutagenMeteorCheckboxTooltip>
+  <enableWildFormersCheckboxLabel>야생 변이체 림 활성화</enableWildFormersCheckboxLabel>
+  <enableWildFormersCheckboxTooltip>인간에서 변이된 동물들이 필드에 나타날 수 있도록 허가함, 그들을 혈청으로 되돌릴 수 있음.</enableWildFormersCheckboxTooltip>
+  <transformChanceSliderLabel>변이 물질이 림을 완전히 변이시킬 확률</transformChanceSliderLabel>
+  <formerChanceSliderLabel>동물로 완전히 변이한 인간이 필드에 등장할 확률</formerChanceSliderLabel>
+  <partialChanceSliderLabel>코크모프/카우모프의 알과 우유가 신체 일부를 돌연변이시키는 대신 완전히 변이시킬 확률</partialChanceSliderLabel>
+  <maxMutationThoughtsSliderLabel>림 간에 돌연변이 관련 상호작용이 나타날 확률</maxMutationThoughtsSliderLabel>
+  <TabMutations>변이체</TabMutations>
+  <MorphsITabHeader>변이</MorphsITabHeader>
+  <TraitsITabHeader>변이 양상</TraitsITabHeader>
+  <ProductionITabHeader>제작</ProductionITabHeader>
+  <MutationLogButtonText>기록</MutationLogButtonText>
+  <MutationLogHeader>변이 이력</MutationLogHeader>
+
+</LanguageData>

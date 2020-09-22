@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_SimplePinniped.label>기각류</AEXP_SimplePinniped.label>
+  <AEXP_SimplePinniped.corePart.parts.4.customLabel>왼쪽 폐</AEXP_SimplePinniped.corePart.parts.4.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.5.customLabel>오른쪽 폐</AEXP_SimplePinniped.corePart.parts.5.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.6.customLabel>왼쪽 신장</AEXP_SimplePinniped.corePart.parts.6.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.7.customLabel>오른쪽 신장</AEXP_SimplePinniped.corePart.parts.7.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.1.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.2.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.3.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.4.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.10.customLabel>왼쪽 앞 지느러미발</AEXP_SimplePinniped.corePart.parts.10.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.11.customLabel>오른쪽 앞 지느러미발</AEXP_SimplePinniped.corePart.parts.11.customLabel>
+  <AEXP_TuskedPinniped.label>상아가 있는 기각류</AEXP_TuskedPinniped.label>
+  <AEXP_TuskedPinniped.corePart.parts.4.customLabel>왼쪽 폐</AEXP_TuskedPinniped.corePart.parts.4.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.5.customLabel>오른쪽 폐</AEXP_TuskedPinniped.corePart.parts.5.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.6.customLabel>왼쪽 신장</AEXP_TuskedPinniped.corePart.parts.6.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.7.customLabel>오른쪽 신장</AEXP_TuskedPinniped.corePart.parts.7.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.1.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.2.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.3.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.4.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.0.customLabel>왼쪽 상아</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.0.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.1.customLabel>오른쪽 상아</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.1.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.10.customLabel>왼쪽 앞 지느러미발</AEXP_TuskedPinniped.corePart.parts.10.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.11.customLabel>오른쪽 앞 지느러미발</AEXP_TuskedPinniped.corePart.parts.11.customLabel>
+
+</LanguageData>

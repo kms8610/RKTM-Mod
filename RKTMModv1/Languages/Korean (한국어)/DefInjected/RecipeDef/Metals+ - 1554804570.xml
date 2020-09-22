@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeSteelFromIron.label>철을 강철로 제련</MakeSteelFromIron.label>
+  <MakeSteelFromIron.description>철을 정제해서 강철로 정련합니다.</MakeSteelFromIron.description>
+  <MakeSteelFromIron.jobString>철을 강철로 제련 중.</MakeSteelFromIron.jobString>
+  <MakeBronzeFromCopper.label>구리로 청동 제련</MakeBronzeFromCopper.label>
+  <MakeBronzeFromCopper.description>구리와 약간의 주석을 섞어서 청동을 만듭니다.</MakeBronzeFromCopper.description>
+  <MakeBronzeFromCopper.jobString>청동 제련 중.</MakeBronzeFromCopper.jobString>
+  <MakePlasteel.label>플라스틸 만들기</MakePlasteel.label>
+  <MakePlasteel.description>강철, 티타늄, 은과 화학연료를 사용하여 플라스틸을 만듭니다.</MakePlasteel.description>
+  <MakePlasteel.jobString>플라스틸 제련 중.</MakePlasteel.jobString>
+
+</LanguageData>

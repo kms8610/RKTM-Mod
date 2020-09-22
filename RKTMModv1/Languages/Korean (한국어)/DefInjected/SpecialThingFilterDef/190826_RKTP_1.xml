@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1120445716_190627_Reclaim, Reuse, Recycle-->
+  <R3_AllowHarvested.description>설치된 신체부위나 임플란트가 없는 시체를 허용합니다.</R3_AllowHarvested.description>
+  <R3_AllowUnharvested_Advanced.description>회수할 수 있는 고급 신체부위나 임플란트가 있는 시체를 허용합니다.</R3_AllowUnharvested_Advanced.description>
+  <R3_AllowUnharvested_Glittertech.description>회수할 수 있는 번화계 신체부위나 임플란트가 있는 시체를 허용합니다.</R3_AllowUnharvested_Glittertech.description>
+  <R3_AllowUnharvested_Primitive.description>회수할 수 있는 기초 신체부위나 임플란트가 있는 시체를 허용합니다.</R3_AllowUnharvested_Primitive.description>
+  <R3_AllowHarvested.label>적출된 시체 허용</R3_AllowHarvested.label>
+  <R3_AllowUnharvested_Advanced.label>적출되지 않은 시체 허용 (고급)</R3_AllowUnharvested_Advanced.label>
+  <R3_AllowUnharvested_Glittertech.label>적출되지 않은 시체 허용 (번화계)</R3_AllowUnharvested_Glittertech.label>
+  <R3_AllowUnharvested_Primitive.label>적출되지 않은 시체 허용 (기초)</R3_AllowUnharvested_Primitive.label>
+
+  <!--1204502413_190521_Harvest Organs Post Mortem-->
+  <ImpossibleToHarvestAnimal.description>적출 할 수 있는 기관이나 임플란트가 없는 시체를 허용합니다.</ImpossibleToHarvestAnimal.description>
+  <PossibleToHarvestAnimal.description>적출 할 수 있는 기관이나 임플란트가 남아있는 시체를 허용합니다.</PossibleToHarvestAnimal.description>
+  <HasBionics.description>이식물이 있는 시신만 허용합니다.</HasBionics.description>
+  <DoesntHaveBionics.description>이식물이 없는 시신만 허용합니다.</DoesntHaveBionics.description>
+  <ImpossibleToHarvest.description>적출 할 수 있는 기관이나 임플란트가 없는 시체를 허용합니다.</ImpossibleToHarvest.description>
+  <PossibleToHarvest.description>적출 할 수 있는 기관이나 임플란트가 남아있는 시체를 허용합니다.</PossibleToHarvest.description>
+  <HasBionics.label>생체공학 부위가 있는 인간 시체</HasBionics.label>
+  <DoesntHaveBionics.label>생체공학 부위가 없는 인간 시체</DoesntHaveBionics.label>
+  <ImpossibleToHarvest.label>적출 불가능한 시체</ImpossibleToHarvest.label>
+  <ImpossibleToHarvestAnimal.label>부검 불가능(동물)</ImpossibleToHarvestAnimal.label>
+  <PossibleToHarvest.label>적출 가능한 시체</PossibleToHarvest.label>
+  <PossibleToHarvestAnimal.label>부검 가능(동물)</PossibleToHarvestAnimal.label>
+
+</LanguageData>

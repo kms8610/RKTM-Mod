@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WandererJoinTitle>{0}의 방랑자 합류 요청</WandererJoinTitle>
+  <WandererJoinDesc>{1}, {0}(은)는 정착지 근처에서 방황하고 있으며, 정착지에 필요할 수도 있습니다. {0}(은)는 {2}살입니다.</WandererJoinDesc>
+  <WandererJoinAccept>수락</WandererJoinAccept>
+  <WandererJoinReject>거절</WandererJoinReject>
+  <PassionateFor>열정</PassionateFor>
+  <PassionateMajor> (열정적)</PassionateMajor>
+  <RaceInfo>(종족: {0})</RaceInfo>
+
+</LanguageData>

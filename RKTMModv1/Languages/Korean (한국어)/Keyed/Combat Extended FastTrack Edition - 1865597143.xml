@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CE_Outfits>의상</CE_Outfits>
+  <CE_Drugs>약물</CE_Drugs>
+  <CE_EditX>{0} 수정</CE_EditX>
+  <CE_MakeLoadout>상단 구성</CE_MakeLoadout>
+  <CE_ManageLoadouts>장비 관리</CE_ManageLoadouts>
+  <CE_CurrentLoadout>현재 장비</CE_CurrentLoadout>
+  <CE_Loadouts>장비</CE_Loadouts>
+  <CE_Weight>무게</CE_Weight>
+  <CE_Bulk>부피</CE_Bulk>
+  <CE_outfit>복장</CE_outfit>
+  <CE_drugs>약물 정책</CE_drugs>
+  <CE_loadout>장비</CE_loadout>
+  <CE_DetailedWeightTip>현재 무게: {1}\n허용 무게: {0}\n\n이동 속도 계수: {2}\n방해물 패널티: {3}</CE_DetailedWeightTip>
+  <CE_DetailedBulkTip>현재 부피: {1}\n허용 부피: {0}\n\n작업 속도 계수: {2}</CE_DetailedBulkTip>
+  <CE_DetailedBaseWeightTip>현재 무게: {1}\n허용 무게: {0}\n\n이동 속도 계수: {2}\n방해물 패널티: {3}</CE_DetailedBaseWeightTip>
+  <CE_DetailedBaseBulkTip>현재 부피: {1}\n허용 부피: {0}\n\n작업 속도 계수: {2}</CE_DetailedBaseBulkTip>
+  <CE_EmptyLoadoutName>아무것도</CE_EmptyLoadoutName>
+  <CE_NoLoadouts>장비 없음</CE_NoLoadouts>
+  <CE_SelectLoadout>장비 선택...</CE_SelectLoadout>
+  <CE_NewLoadout>새 장비</CE_NewLoadout>
+  <CE_DeleteLoadout>장비 삭제...</CE_DeleteLoadout>
+  <CE_CopyLoadout>장비 복사</CE_CopyLoadout>
+  <CE_NoLoadoutSelected>장비 선택 안됨</CE_NoLoadoutSelected>
+  <CE_DefaultLoadoutName>장비</CE_DefaultLoadoutName>
+  <CE_SourceRangedTip>원거리 무기 선택</CE_SourceRangedTip>
+  <CE_SourceMeleeTip>근접 무기 선택</CE_SourceMeleeTip>
+  <CE_SourceAmmoTip>탄약 선택</CE_SourceAmmoTip>
+  <CE_SourceMinifiedTip>기타 선택</CE_SourceMinifiedTip>
+  <CE_SourceGenericTip>종류에 상관없이 아무거나 선택</CE_SourceGenericTip>
+  <CE_SourceAllTip>모두 선택</CE_SourceAllTip>
+  <CE_SourceFilterTip>필터 선택</CE_SourceFilterTip>
+  <CE_DragToReorder>순서를 바꾸러면 드래그</CE_DragToReorder>
+  <CE_CountFieldTip>수량: {0}</CE_CountFieldTip>
+  <CE_DeleteFilter>제거</CE_DeleteFilter>
+  <CE_AddAmmoFor>탄약 추가: {0}</CE_AddAmmoFor>
+  <CE_DropExcess>초과물품 내려놓기</CE_DropExcess>
+  <CE_PickupMissingAndDropExcess>초과물품과 잃어버린 물건 찾아들기</CE_PickupMissingAndDropExcess>
+  <CE_DescDamage>피해량</CE_DescDamage>
+  <CE_DescExplosionRadius>폭발 반경</CE_DescExplosionRadius>
+  <CE_DescSecondaryExplosion>2차 폭발</CE_DescSecondaryExplosion>
+  <CE_DescFragRange>파편 사거리</CE_DescFragRange>
+  <CE_DescArmorPenetration>방어구 관통</CE_DescArmorPenetration>
+  <CE_DescPelletCount>파편 개수</CE_DescPelletCount>
+  <CE_DescSpreadMult>확산 인자</CE_DescSpreadMult>
+  <CE_SuppressedMote>제압!</CE_SuppressedMote>
+  <CE_HunkeringMote>포복!</CE_HunkeringMote>
+  <CE_CrouchWalking>제압됨(포복 중)</CE_CrouchWalking>
+  <CE_AutoFireLabel>자동</CE_AutoFireLabel>
+  <CE_BurstFireLabel>점사</CE_BurstFireLabel>
+  <CE_SingleFireLabel>단발</CE_SingleFireLabel>
+  <CE_SnapshotLabel>지향사격</CE_SnapshotLabel>
+  <CE_AimedShotLabel>조준사격</CE_AimedShotLabel>
+  <CE_SuppressFireLabel>제압사격</CE_SuppressFireLabel>
+  <CE_HoldFireLabel>사격 금지</CE_HoldFireLabel>
+  <CE_ToggleFireModeDesc>사격 방식 전환.</CE_ToggleFireModeDesc>
+  <CE_ToggleAimModeDesc>조준 방식 전환.</CE_ToggleAimModeDesc>
+  <CE_MarkedForArtillery>포격을 위해 표시됨, 만료까지</CE_MarkedForArtillery>
+  <CE_VisibilityError>시야확보 오차</CE_VisibilityError>
+  <CE_SmokeDensity>연막</CE_SmokeDensity>
+  <CE_LeadError>목표인식 오차</CE_LeadError>
+  <CE_RangeError>거리 오차</CE_RangeError>
+  <CE_Sway>무기 흔들림</CE_Sway>
+  <CE_Spread>탄 퍼짐</CE_Spread>
+  <CE_MissRadius>발사불가 반경</CE_MissRadius>
+  <CE_IndirectFire>간접 사격</CE_IndirectFire>
+  <CE_CoverHeight>엄폐물 높이</CE_CoverHeight>
+  <CE_TargetHeight>목표물 높이</CE_TargetHeight>
+  <CE_TargetWidth>목표물 폭</CE_TargetWidth>
+  <CE_ReloadingEquipment>장착</CE_ReloadingEquipment>
+  <CE_ReloadingInventory>저장됨</CE_ReloadingInventory>
+  <CE_ReloadingGenericAmmo>탄약</CE_ReloadingGenericAmmo>
+  <CE_ReloadingMote>재장전 {0}!</CE_ReloadingMote>
+  <CE_ReloadingTurretMote>포탑 재장전 {0}.</CE_ReloadingTurretMote>
+  <CE_MannedTurret>유인 포탑</CE_MannedTurret>
+  <CE_AutoTurret>자동 포탑</CE_AutoTurret>
+  <CE_UnloadLabel>장전안함</CE_UnloadLabel>
+  <CE_ReloadLabel>재장전</CE_ReloadLabel>
+  <CE_ReloadDesc>탄창을 갈아 끼웁니다.</CE_ReloadDesc>
+  <CE_TurretReloading>재장전중</CE_TurretReloading>
+  <CE_TakeFromOther_Equipping>장착중</CE_TakeFromOther_Equipping>
+  <CE_TakeFromOther_Taking>가지는중</CE_TakeFromOther_Taking>
+  <CE_CarriedWeight>운반 무게</CE_CarriedWeight>
+  <CE_CarriedBulk>운반 부피</CE_CarriedBulk>
+  <CE_Encumbered>초과중량</CE_Encumbered>
+  <CE_FinalModifier>최종 수정</CE_FinalModifier>
+  <CE_InventoryFull>인벤토리 꽉 참</CE_InventoryFull>
+  <CE_PickUp>줍기:</CE_PickUp>
+  <CE_PickUpHalf>절반 줍기:</CE_PickUpHalf>
+  <CE_CannotPickUp>주울 수 없음</CE_CannotPickUp>
+  <CE_OutOfAmmo>탄약 없음</CE_OutOfAmmo>
+  <CE_PutAway>버리기: {0}</CE_PutAway>
+  <CE_TamerInventoryFull>인벤토리가 가득차서 길들이기를 할 수 없습니다.</CE_TamerInventoryFull>
+  <CE_DropThingHaul>떨어뜨리기</CE_DropThingHaul>
+  <CE_Eat>섭취</CE_Eat>
+  <CE_HoldTrackerForget>강제된것 취소</CE_HoldTrackerForget>
+  <CE_ForcedHold>강제 됨</CE_ForcedHold>
+  <CE_Stabilize>응급처치: {0}</CE_Stabilize>
+  <CE_CannotStabilize>응급처치 할수 없음</CE_CannotStabilize>
+  <CE_NoMedicine>약품 없음</CE_NoMedicine>
+  <CE_MagazineSize>탄창 크기</CE_MagazineSize>
+  <CE_ReloadTime>재장전 시간</CE_ReloadTime>
+  <CE_AmmoSet>구경</CE_AmmoSet>
+  <CE_FireModes>사격 방식</CE_FireModes>
+  <CE_AimedBurstCount>연발 횟수</CE_AimedBurstCount>
+  <CE_UsedBy>사용처</CE_UsedBy>
+  <CE_ColonistHasShieldAndTwoHandedWeapon>정착민이 방패와 양손무기를 같이 가지고 있습니다.</CE_ColonistHasShieldAndTwoHandedWeapon>
+  <CE_ColonistHasShieldAndTwoHandedWeaponDesc>정착민중 한명이 방패와 양손무기를 같이 가지고 있습니다. 방패를 제거하거나 다른무기로 바꾸기 전에는 공격하지 않을 것 입니다.</CE_ColonistHasShieldAndTwoHandedWeaponDesc>
+  <CE_CoverHeightExplanation>물체의 높이. 이 높이까지는 총격을 막아주며, 정착민들은 대체로 이 정도 높이에서 웅크리고서 그 위를 쏘게 될 것입니다. 사격하는 정착민의 높이보다 높으면 발사할 수 없습니다. 몸 높이보다 높으면 완전히 가려질 것입니다. 기준선의 경우, 이는 각각 0.86/1.0을 의미합니다.</CE_CoverHeightExplanation>
+  <CE_EnableTutorText>CE는 장갑 역학의 작동 방식과 센터피드로부터 죽지 않는 방법과 같은 주제에 대한 몇 가지 튜토리얼 항목을 추가합니다. 참가자가 학습 도우미를 활성화하는 것은 처음 권장됩니다.</CE_EnableTutorText>
+  <CE_EnableTutorEnable>도움말을 사용할 수 있습니다.</CE_EnableTutorEnable>
+  <CE_EnableTutorDisable>위험 인지</CE_EnableTutorDisable>
+  <CE_Generic_Meal>음식 아무거나 챙기기</CE_Generic_Meal>
+  <CE_Generic_RawFood>생식 아무거나 챙기기</CE_Generic_RawFood>
+  <CE_Generic_Drugs>약물 아무거나 챙기기</CE_Generic_Drugs>
+  <CE_Generic_Ammo>맞는 탄약 챙기기: {0}</CE_Generic_Ammo>
+  <CE_Generic_Divider>/</CE_Generic_Divider>
+  <CE_LongEvent_BoundingBoxes>CombatExtended 경계 상자 생성</CE_LongEvent_BoundingBoxes>
+  <CE_Settings_HeaderGeneral>일반</CE_Settings_HeaderGeneral>
+  <CE_Settings_HeaderAmmo>탄약</CE_Settings_HeaderAmmo>
+  <CE_Settings_ShowCasings_Title>탄피 보이기</CE_Settings_ShowCasings_Title>
+  <CE_Settings_ShowCasings_Desc>무기 사격시에 탄피가 배출되는게 보입니다. 옵션을 끄면 성능이 향상됩니다.</CE_Settings_ShowCasings_Desc>
+  <CE_Settings_ShowTaunts_Title>전투시 도발문구 보이기</CE_Settings_ShowTaunts_Title>
+  <CE_Settings_ShowTaunts_Desc>정착민의 전투중 도발문구를 표시합니다.</CE_Settings_ShowTaunts_Desc>
+  <CE_Settings_AllowMeleeHunting_Title>근접 무기로 사냥 허용</CE_Settings_AllowMeleeHunting_Title>
+  <CE_Settings_AllowMeleeHunting_Desc>사냥꾼이 근접무기를 가지고 있다면 근접무기로 사냥을 허용합니다.</CE_Settings_AllowMeleeHunting_Desc>
+  <CE_Settings_EnableAmmoSystem_Title>탄약 시스템 활성화</CE_Settings_EnableAmmoSystem_Title>
+  <CE_Settings_EnableAmmoSystem_Desc>무기들은 탄약을 필요로하고 또한 특수한 탄약도 선택할 수 있습니다.\n\n경고: 기존의 정착지에서 이 설정을 변경하면 버그와 불안정을 초래할수 있으므로 위험을 감수해야 합니다.</CE_Settings_EnableAmmoSystem_Desc>
+  <CE_Settings_RightClickAmmoSelect_Title>마우스 우클릭으로 탄약 선택</CE_Settings_RightClickAmmoSelect_Title>
+  <CE_Settings_RightClickAmmoSelect_Desc>재장전 버튼을 우클릭 하면 탄약 선택 메뉴가 나타납니다.</CE_Settings_RightClickAmmoSelect_Desc>
+  <CE_Settings_AutoReloadOnChangeAmmo_Title>탄약 자동 재장전</CE_Settings_AutoReloadOnChangeAmmo_Title>
+  <CE_Settings_AutoReloadOnChangeAmmo_Desc>새로운 타입의 탄약이 선택되면 자동으로 재장전 합니다.</CE_Settings_AutoReloadOnChangeAmmo_Desc>
+  <CE_Settings_AutoTakeAmmo_Title>탄약 자동 장비</CE_Settings_AutoTakeAmmo_Title>
+  <CE_Settings_AutoTakeAmmo_Desc>장비가 따로 지정되지 않은 정착민이라 해도 착용한 무기의 탄약은 자동으로 가져옵니다.</CE_Settings_AutoTakeAmmo_Desc>
+  <CE_Settings_ShowCaliberOnGuns_Title>무기 구경 표시</CE_Settings_ShowCaliberOnGuns_Title>
+  <CE_Settings_ShowCaliberOnGuns_Desc>무기 이름 뒤에 사용 탄약의 구경이 표시됩니다.</CE_Settings_ShowCaliberOnGuns_Desc>
+  <CE_Settings_ReuseNeolithicProjectiles_Title>냉각 투사체 재사용</CE_Settings_ReuseNeolithicProjectiles_Title>
+  <CE_Settings_ReuseNeolithicProjectiles_Desc>냉각 투사체의 경우 다시 사용할 수 있는 기회가 주어집니다. 자동적으로 그것은 상호작용 금지가 되어있습니다.</CE_Settings_ReuseNeolithicProjectiles_Desc>
+  <CE_Settings_RealisticCookOff_Title>현실적인 과열</CE_Settings_RealisticCookOff_Title>
+  <CE_Settings_RealisticCookOff_Desc>탄창과 탄상자는 과열이 됐을 때 피해를 입히는 투사체가 생성되지 않습니다.</CE_Settings_RealisticCookOff_Desc>
+  <CE_TextMote_Riposted>되받아치기!</CE_TextMote_Riposted>
+  <CE_TextMote_Parried>반격!</CE_TextMote_Parried>
+  <CE_TextMote_Knockdown>넉다운!</CE_TextMote_Knockdown>
+  <CE_TextMote_CriticalHit>치명타 적중!</CE_TextMote_CriticalHit>
+
+</LanguageData>

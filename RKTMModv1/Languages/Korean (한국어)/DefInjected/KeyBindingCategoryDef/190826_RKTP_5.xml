@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1535875857_190622_Extended_Storage_Extended-->
+  <Architect_ExtendedStorageExtended_FurnitureStorage.label>저장소</Architect_ExtendedStorageExtended_FurnitureStorage.label>
+  <Architect_ExtendedStorageExtended_FurnitureStorage.description>구상 메뉴의 "저장소"에 대한 단축키입니다</Architect_ExtendedStorageExtended_FurnitureStorage.description>
+
+  <!--1550972678_190817_Defenses Expanded-->
+  <Architect_DefensesExpanded_CustomCategory.label>방어 시설</Architect_DefensesExpanded_CustomCategory.label>
+  <Architect_DefensesExpanded_CustomCategory.description>메뉴에 방어 시설 항목을 추가합니다.</Architect_DefensesExpanded_CustomCategory.description>
+
+  <!--1612962122_190714_Ofuton-->
+  <Architect_JPstyle.label>JP스타일</Architect_JPstyle.label>
+  <Architect_JPstyle.description>구상 메뉴의 "JP스타일"에 대한 단축키입니다</Architect_JPstyle.description>
+
+  <!--1725544583_190818_GlitterNet-->
+  <Architect_GlitterNet.label>글리터넷 탭</Architect_GlitterNet.label>
+  <Architect_GlitterNet.description>구상 메뉴의 "글리터넷"에 대한 단축키입니다</Architect_GlitterNet.description>
+
+  <!--1803445973_190813_Vanilla Fences-->
+  <Architect_Fence.label>울타리</Architect_Fence.label>
+  <Architect_Fence.description>주메뉴의 울타리 항목에 대한 키바인딩</Architect_Fence.description>
+
+  <!--1833592062_190816_RimCuisine 2 Core-->
+  <Architect_RC2_RimCuisine.label>림퀴진 탭</Architect_RC2_RimCuisine.label>
+  <Architect_RC2_RimCuisine.description>건축 메뉴의 림퀴진 항목을 참조하십시오.</Architect_RC2_RimCuisine.description>
+
+  <!--761379469_190814_Remote Tech-->
+  <rxRemoteTech.label>원격조작</rxRemoteTech.label>
+  <rxRemoteTech.description>원격으로 폭발물을 터트릴수 있습니다.</rxRemoteTech.description>
+  <rxDetonator.label>원격조작 폭발</rxDetonator.label>
+  <rxDetonator.description>원격조작 모드의 작업 바로가기.</rxDetonator.description>
+  <rxTools.label>원격조작 도구</rxTools.label>
+  <rxTools.description>정착민이 착용한 원격조작 모드의 아이템 활성화 바로가기</rxTools.description>
+  <Architect_rxRemoteTech.label>원격조작</Architect_rxRemoteTech.label>
+  <Architect_rxRemoteTech.description>구상 메뉴의 "원격조작"에 대한 단축키입니다</Architect_rxRemoteTech.description>
+
+  <!--1185307686_190818_VGP Garden Tools-->
+  <Architect_GardenTools.label>정원</Architect_GardenTools.label>
+  <Architect_GardenTools.description>구상 메뉴의 정원도구에 대한 목록입니다.</Architect_GardenTools.description>
+
+  <!--1542036108_190818_UN-Colony-->
+  <Architect_SadjuukUN-Building.description>구상 메뉴의 "UN-건물"에 대한 단축키입니다</Architect_SadjuukUN-Building.description>
+  <Architect_SadjuukUN-Industry.description>구상 메뉴의 "UN-산업"에 대한 단축키입니다</Architect_SadjuukUN-Industry.description>
+  <Architect_SadjuukUN-Building.label>UN-건물</Architect_SadjuukUN-Building.label>
+  <Architect_SadjuukUN-Industry.label>UN-산업</Architect_SadjuukUN-Industry.label>
+
+  <!--1547681343_190818_UN-Furniture-->
+  <Architect_SadjuukUN-Furniture.description>구상 메뉴의 "UN-가구"에 대한 단축키입니다</Architect_SadjuukUN-Furniture.description>
+  <Architect_SadjuukUN-Furniture.label>UN-가구</Architect_SadjuukUN-Furniture.label>
+
+  <!--1554147049_190818_Zen Garden-->
+  <Architect_ZEN_Decoration.label>장식</Architect_ZEN_Decoration.label>
+  <Architect_ZEN_Decoration.description>구상 메뉴의 "장식"에 대한 단축키입니다</Architect_ZEN_Decoration.description>
+
+  <!--1585057683_190824_Vee's decorating-->
+  <Architect_VeeDecoCategory.label>Vee데코</Architect_VeeDecoCategory.label>
+  <Architect_VeeDecoCategory.description>구상 메뉴의 "Vee데코"에 대한 단축키입니다.</Architect_VeeDecoCategory.description>
+
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Maidnukos.label>냥이</Maidnukos.label>
+  <Maidnukos.labelPlural>냥이</Maidnukos.labelPlural>
+  <Maidnukos.lifeStages.0.label>아기 냥이</Maidnukos.lifeStages.0.label>
+  <Maidnukos.lifeStages.0.labelPlural>아기 냥이</Maidnukos.lifeStages.0.labelPlural>
+  <Maidnukos.lifeStages.0.labelMale>아기 냥이</Maidnukos.lifeStages.0.labelMale>
+  <Maidnukos.lifeStages.0.labelMalePlural>아기 냥이</Maidnukos.lifeStages.0.labelMalePlural>
+  <Maidnukos.lifeStages.0.labelFemale>아기 냥이</Maidnukos.lifeStages.0.labelFemale>
+  <Maidnukos.lifeStages.0.labelFemalePlural>아기 냥이</Maidnukos.lifeStages.0.labelFemalePlural>
+  <Maidnukos.lifeStages.1.label>아이 냥이</Maidnukos.lifeStages.1.label>
+  <Maidnukos.lifeStages.1.labelPlural>아이 냥이</Maidnukos.lifeStages.1.labelPlural>
+  <Maidnukos.lifeStages.1.labelMale>아이 냥이</Maidnukos.lifeStages.1.labelMale>
+  <Maidnukos.lifeStages.1.labelMalePlural>아이 냥이</Maidnukos.lifeStages.1.labelMalePlural>
+  <Maidnukos.lifeStages.1.labelFemale>아이 냥이</Maidnukos.lifeStages.1.labelFemale>
+  <Maidnukos.lifeStages.1.labelFemalePlural>아이 냥이</Maidnukos.lifeStages.1.labelFemalePlural>
+  <Maidnukos.lifeStages.2.label>냥이</Maidnukos.lifeStages.2.label>
+  <Maidnukos.lifeStages.2.labelPlural>냥이</Maidnukos.lifeStages.2.labelPlural>
+  <Maidnukos.lifeStages.2.labelMale>집사 냥이</Maidnukos.lifeStages.2.labelMale>
+  <Maidnukos.lifeStages.2.labelMalePlural>집사 냥이</Maidnukos.lifeStages.2.labelMalePlural>
+  <Maidnukos.lifeStages.2.labelFemale>메이드 냥이</Maidnukos.lifeStages.2.labelFemale>
+  <Maidnukos.lifeStages.2.labelFemalePlural>메이드 냥이</Maidnukos.lifeStages.2.labelFemalePlural>
+  <Maidnukos.labelMale>냥이</Maidnukos.labelMale>
+  <Maidnukos.labelMalePlural>냥이</Maidnukos.labelMalePlural>
+  <Maidnukos.labelFemale>냥이</Maidnukos.labelFemale>
+  <Maidnukos.labelFemalePlural>여성 냥이</Maidnukos.labelFemalePlural>
+  <XmasMaidnukos.label>크리스마스 냥이</XmasMaidnukos.label>
+  <XmasMaidnukos.labelPlural>크리스마스 냥이</XmasMaidnukos.labelPlural>
+  <XmasMaidnukos.lifeStages.0.label>아기 냥이</XmasMaidnukos.lifeStages.0.label>
+  <XmasMaidnukos.lifeStages.0.labelPlural>아기 냥이</XmasMaidnukos.lifeStages.0.labelPlural>
+  <XmasMaidnukos.lifeStages.0.labelMale>아기 냥이</XmasMaidnukos.lifeStages.0.labelMale>
+  <XmasMaidnukos.lifeStages.0.labelMalePlural>아기 냥이</XmasMaidnukos.lifeStages.0.labelMalePlural>
+  <XmasMaidnukos.lifeStages.0.labelFemale>아기 냥이</XmasMaidnukos.lifeStages.0.labelFemale>
+  <XmasMaidnukos.lifeStages.0.labelFemalePlural>아기 냥이</XmasMaidnukos.lifeStages.0.labelFemalePlural>
+  <XmasMaidnukos.lifeStages.1.label>아이 냥이</XmasMaidnukos.lifeStages.1.label>
+  <XmasMaidnukos.lifeStages.1.labelPlural>아이 냥이</XmasMaidnukos.lifeStages.1.labelPlural>
+  <XmasMaidnukos.lifeStages.1.labelMale>아이 냥이</XmasMaidnukos.lifeStages.1.labelMale>
+  <XmasMaidnukos.lifeStages.1.labelMalePlural>아이 냥이</XmasMaidnukos.lifeStages.1.labelMalePlural>
+  <XmasMaidnukos.lifeStages.1.labelFemale>아이 냥이</XmasMaidnukos.lifeStages.1.labelFemale>
+  <XmasMaidnukos.lifeStages.1.labelFemalePlural>아이 냥이</XmasMaidnukos.lifeStages.1.labelFemalePlural>
+  <XmasMaidnukos.lifeStages.2.label>냥이</XmasMaidnukos.lifeStages.2.label>
+  <XmasMaidnukos.lifeStages.2.labelPlural>냥이</XmasMaidnukos.lifeStages.2.labelPlural>
+  <XmasMaidnukos.lifeStages.2.labelMale>집사 냥이</XmasMaidnukos.lifeStages.2.labelMale>
+  <XmasMaidnukos.lifeStages.2.labelMalePlural>집사 냥이</XmasMaidnukos.lifeStages.2.labelMalePlural>
+  <XmasMaidnukos.lifeStages.2.labelFemale>메이드 냥이</XmasMaidnukos.lifeStages.2.labelFemale>
+  <XmasMaidnukos.lifeStages.2.labelFemalePlural>메이드 냥이</XmasMaidnukos.lifeStages.2.labelFemalePlural>
+  <XmasMaidnukos.labelMale>크리스마스 냥이</XmasMaidnukos.labelMale>
+  <XmasMaidnukos.labelMalePlural>크리스마스 냥이</XmasMaidnukos.labelMalePlural>
+  <XmasMaidnukos.labelFemale>크리스마스 냥이</XmasMaidnukos.labelFemale>
+  <XmasMaidnukos.labelFemalePlural>크리스마스 냥이</XmasMaidnukos.labelFemalePlural>
+
+</LanguageData>

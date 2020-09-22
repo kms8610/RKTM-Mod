@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QE_NerveStapled.stages.0.label>신경 고정됨</QE_NerveStapled.stages.0.label>
+  <QE_NerveStapled.stages.0.description>뭔가 기분이 이상해. 난 복종해야 돼.</QE_NerveStapled.stages.0.description>
+  <QE_RecentlyNerveStapled.stages.0.label>최근에 신경이 고정됨</QE_RecentlyNerveStapled.stages.0.label>
+  <QE_RecentlyNerveStapled.stages.0.description>으아악! 나에게 무슨 일이 일어나고 있는거지!?</QE_RecentlyNerveStapled.stages.0.description>
+  <QE_NerveStapledResistance.stages.0.label>신경 고정됨 (저항)</QE_NerveStapledResistance.stages.0.label>
+  <QE_NerveStapledResistance.stages.0.description>으윽! 저항해야 돼. 근데 왜….</QE_NerveStapledResistance.stages.0.description>
+  <QE_NerveStapledPawn.stages.0.label>다른 사람의 신경이 고정됨</QE_NerveStapledPawn.stages.0.label>
+  <QE_NerveStapledPawn.stages.0.description>이건 끔찍한 일이야. 우리는 그들의 중 하나의 자유의지를 빼앗아 버렸어.</QE_NerveStapledPawn.stages.0.description>
+  <QE_NerveStapledColonist.stages.0.label>정착민의 신경이 고정됨</QE_NerveStapledColonist.stages.0.label>
+  <QE_NerveStapledColonist.stages.0.description>이건 끔찍한 일이야. 우리는 다른 사람의 것뿐만이 아니라, 우리들 중 하나의 자유의지도 빼앗아 버렸어.</QE_NerveStapledColonist.stages.0.description>
+  <QE_NerveStapledMe.stages.0.label>나의 신경이 고정됨</QE_NerveStapledMe.stages.0.label>
+  <QE_VatGrownCloneConfusion.stages.0.label>배양조에서 배양된 복제</QE_VatGrownCloneConfusion.stages.0.label>
+  <QE_VatGrownCloneConfusion.stages.0.description>이게 뭐야? 난 누구? 여기 있는 사람들은 누구? 난 왜 여기 있지? 왜 나랑 똑같이 생긴 사람이 있는거지?</QE_VatGrownCloneConfusion.stages.0.description>
+  <QE_VatGrownCloneAcceptance.stages.0.label>배양조에서 배양된 복제 (받아들임)</QE_VatGrownCloneAcceptance.stages.0.label>
+  <QE_VatGrownCloneAcceptance.stages.0.description>계속 살아가는 것 말고는 선택지가 없다고 생각해. 그냥 어쩔 수 없는 거야.</QE_VatGrownCloneAcceptance.stages.0.description>
+
+</LanguageData>

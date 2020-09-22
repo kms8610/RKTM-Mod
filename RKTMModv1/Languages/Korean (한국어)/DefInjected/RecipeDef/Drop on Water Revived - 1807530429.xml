@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DropCorpses.label>시체 버리기</DropCorpses.label>
+  <DropCorpses.description>시체에 콘크리트 블록을 묶고 경찰이 나타나기 전에 달리세요. 하지만 주의하세요, 물에 떨어뜨린 것들은 복구할 수 없습니다.</DropCorpses.description>
+  <DropCorpses.jobString>쉬...... 아무 일도 일어나지 않았습니다...</DropCorpses.jobString>
+  <DropApparel.label>의류 버리기</DropApparel.label>
+  <DropApparel.description>당신은 이것들이 필요하지 않으며, 정착민들은 이것들을 싫어합니다. 하지만 주의하세요, 물에 떨어뜨린 것들은 복구할 수 없습니다.</DropApparel.description>
+  <DropApparel.jobString>쉬...... 아무 일도 일어나지 않았습니다...</DropApparel.jobString>
+  <DropWeapons.label>무기 버리기</DropWeapons.label>
+  <DropWeapons.description>하루를 일했습니다... 하지만 주의하세요, 물에 떨어뜨린 것들은 복구할 수 없습니다.</DropWeapons.description>
+  <DropWeapons.jobString>쉬...... 아무 일도 일어나지 않았습니다...</DropWeapons.jobString>
+  <DropAnything.label>아무 거나 버리기</DropAnything.label>
+  <DropAnything.description>온난화에 대해서 들어본 적 있나요? 하지만 주의하세요, 물에 떨어뜨린 것들은 복구할 수 없습니다.</DropAnything.description>
+  <DropAnything.jobString>쉬...... 아무 일도 일어나지 않았습니다...</DropAnything.jobString>
+  <DropAnythingx25.label>아무 거나 버리기x25</DropAnythingx25.label>
+  <DropAnythingx25.description>온난화에 대해서 들어본 적 있나요? 하지만 주의하세요, 물에 떨어뜨린 것들은 복구할 수 없습니다.</DropAnythingx25.description>
+  <DropAnythingx25.jobString>쉬...... 아무 일도 일어나지 않았습니다...</DropAnythingx25.jobString>
+  <DropAnythingx75.label>아무 거나 버리기x75</DropAnythingx75.label>
+  <DropAnythingx75.description>온난화에 대해서 들어본 적 있나요? 하지만 주의하세요, 물에 떨어뜨린 것들은 복구할 수 없습니다.</DropAnythingx75.description>
+  <DropAnythingx75.jobString>쉬...... 아무 일도 일어나지 않았습니다...</DropAnythingx75.jobString>
+
+</LanguageData>

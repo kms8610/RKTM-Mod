@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TaserNeedle.label>테이저 바늘</TaserNeedle.label>
+  <TaserNeedle.deathMessage>{0}(은)는 바늘 갈래에 의해 죽었습니다.</TaserNeedle.deathMessage>
+
+</LanguageData>

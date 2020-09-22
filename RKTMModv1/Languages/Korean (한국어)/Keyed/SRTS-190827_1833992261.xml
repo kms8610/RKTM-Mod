@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>  <CommandAddFuel>연료 보급</CommandAddFuel>  <CommandAddFuelDesc>SRTS에 연료 보급</CommandAddFuelDesc>  <NonOilMsg>사용 가능한 화학 연료가 없습니다.</NonOilMsg>  <AddFuelDoneMsg>연료 주입 {0}, 현재 연료:{1}</AddFuelDoneMsg></LanguageData>

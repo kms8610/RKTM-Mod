@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GhostGearFab.label>유령 장비 제작 작업대</GhostGearFab.label>
+  <GhostGearFab.description>유령 장비 및 헤이와이어 기술 물품을 생산하기 위한 고급 도구와 작은 방사선 챔버가 장착된 작업대.</GhostGearFab.description>
+  <GGMineableGalena.label>압축된 방연석</GGMineableGalena.label>
+  <GGMineableGalena.description>방연석이 풍부한 광물 암석으로 납의 공급원으로 사용되는 천연 광물입니다.</GGMineableGalena.description>
+  <Bullet_GGShuriken.label>슈리켄</Bullet_GGShuriken.label>
+  <GGKnife_Thrown.label>GG 단검</GGKnife_Thrown.label>
+  <GGShuriken_Thrown.label>GG 슈리켄</GGShuriken_Thrown.label>
+  <GGDart_Thrown.label>GG 다트</GGDart_Thrown.label>
+  <Apparel_PowerArmorGhostGearHelmet.label>유령 장비 투구</Apparel_PowerArmorGhostGearHelmet.label>
+  <Apparel_PowerArmorGhostGearHelmet.description>고급 스마트 소재로 제작되어 일반 해병 장구보다 가볍고 보호 수준은 낮지만 환경 보호는 우수합니다.</Apparel_PowerArmorGhostGearHelmet.description>
+  <Apparel_PowerArmorGhostGear.label>유령 장비 갑옷</Apparel_PowerArmorGhostGear.label>
+  <Apparel_PowerArmorGhostGear.description>고급 스마트 소재로 제작되어 일반 파워 아머보다 가볍고 빠르지만 보호 수준은 낮습니다. 그러나 비상 사태에 대비하여 통합된 쉴드, 갈고리 및 EMP / 기절 /  연막탄이 장비되어 있습니다.</Apparel_PowerArmorGhostGear.description>
+  <Filth_GGCaltrops.label>GG 마름쇠</Filth_GGCaltrops.label>
+  <GGCaltropsPod.label>유령 장비 마름쇠 포드</GGCaltropsPod.label>
+  <GGCaltropsPod.description>이 포드에는 무언가 밟을 때 폭발할 작은 소형 장치가 많이 있습니다. 폭발은 밟은 상대의 종류에 따라 다릅니다.</GGCaltropsPod.description>
+  <Shell_GGCaltrops.label>GG 마름쇠 포탄</Shell_GGCaltrops.label>
+  <Shell_GGCaltrops.description>유령 장비 마름쇠로 채워진 가압 포탄. 박격포에서 발사하거나 함정으로 설치할 수 있습니다.</Shell_GGCaltrops.description>
+  <Bullet_Shell_GGCaltrops.label>GG 마름쇠 포탄</Bullet_Shell_GGCaltrops.label>
+  <TrapIED_GGCaltrops.label>마름쇠 함정</TrapIED_GGCaltrops.label>
+  <TrapIED_GGCaltrops.description>접촉 신관에 연결된 한 쌍의 GG 마름쇠 포탄. 주변 지형에 숨겨져 있기 때문에 다른 함정에 인접하여 배치할 수 없습니다. 동물들은 침착할 때 이 함정을 감지할 수 있습니다</TrapIED_GGCaltrops.description>
+  <GGAntiNerveToxin.label>항 신경 독</GGAntiNerveToxin.label>
+  <GGAntiNerveToxin.description>항 신경 독소 알약. 신경 독소 및 기타 형태의 메카나이트 병에 대한 면역을 제공합니다. 또한 신진 대사 기능을 향상시키지만 배고픔과 피로감을 증가시킵니다. 5일마다 복용해야 합니다.</GGAntiNerveToxin.description>
+  <GGHWEMPGrenades.label>헤이와이어 EMP 수류탄</GGHWEMPGrenades.label>
+  <GGHWEMPGrenades.description>전자 장비를 무력화 시키는 데 특화된 헤이와이어 메카나이트를 사용한 전자기 파장 수류탄. 메카나이트들은 메카나이트의 행동을 제어할 수 없습니다.</GGHWEMPGrenades.description>
+  <GGHWEMPGrenades.verbs.0.label>헤이와이어 EMP 수류탄 투척</GGHWEMPGrenades.verbs.0.label>
+  <Proj_GGHWEMPGrenade.label>헤이와이어 EMP 수류탄</Proj_GGHWEMPGrenade.label>
+  <Shell_GGHaywire.label>헤이와이어 포탄</Shell_GGHaywire.label>
+  <Shell_GGHaywire.description>헤이와이어가 가득 채워진 포탄. 박격포에서 발사하거나 함정으로 설치할 수 있습니다. 충격을 받으면 폭발합니다.</Shell_GGHaywire.description>
+  <Bullet_Shell_GGHaywire.label>헤이와이어 포탄</Bullet_Shell_GGHaywire.label>
+  <TrapIED_GGHaywire.label>급조 폭발물 헤이와이어 함정</TrapIED_GGHaywire.label>
+  <TrapIED_GGHaywire.description>접촉 신관에 연결된 헤이 와이어 포탄. 주변 지형에 숨겨져 있기 때문에 다른 함정에 인접하여 배치할 수 없습니다. 동물들은 침착할 때 이 함정을 감지할 수 있습니다.</TrapIED_GGHaywire.description>
+  <GGGalena.label>압축된 방연석</GGGalena.label>
+  <GGGalena.description>납의 공급원으로 사용되는 천연 미네랄.</GGGalena.description>
+  <GGLead.label>납</GGLead.label>
+  <GGLead.description>낮은 융점, 우수한 연성 및 높은 독성을 갖는 연질 금속.</GGLead.description>
+  <GGHWMechanites.label>헤이와이어 메카나이트</GGHWMechanites.label>
+  <GGHWMechanites.description>압축된 헤이와이어 메카나이트 용기. 이 메카나이트는 주로 헤이와이어 기술에 의해 메카나이트의 AI를 방해하는데 사용됩니다.</GGHWMechanites.description>
+  <RPHexane.label>헥세인</RPHexane.label>
+  <RPHexane.description>화학식은 C6H14이며, 탄소 원자 6개와 수소 원자 14개로 이루어진 메탄계 탄화수소이다. 50 ~ 70 °C (122 ~ 158 ° F)의 비점을 가진 순수한 무색의 무색 액체이며, 저렴하고 상대적으로 안전하고 비 반응성이며 쉽게 증발되는 무극성 용매로 널리 사용됩니다.</RPHexane.description>
+  <RPNerveToxin_Vial.label>신경 독 알약</RPNerveToxin_Vial.label>
+  <RPNerveToxin_Vial.description>특수 조작된 나나이트를 사용하여 만든 신경 독.</RPNerveToxin_Vial.description>
+  <Gun_GhostGear_Pistol.label>유령 자동권총</Gun_GhostGear_Pistol.label>
+  <Gun_GhostGear_Pistol.description>메카 나이트 신경 독소로 가득 찬 슈리켄 탄을 고속으로 발사합니다.</Gun_GhostGear_Pistol.description>
+  <Gun_GhostGear_Pistol.tools.0.label>개머리판</Gun_GhostGear_Pistol.tools.0.label>
+  <Gun_GhostGear_Pistol.tools.1.label>총열</Gun_GhostGear_Pistol.tools.1.label>
+  <Gun_GhostGear_Rifle.label>유령 라이플</Gun_GhostGear_Rifle.label>
+  <Gun_GhostGear_Rifle.description>메카 나이트 신경 독이 들어있는 슈리켄 탄을 빠르게 발사하는 다목적 무기.</Gun_GhostGear_Rifle.description>
+  <Gun_GhostGear_Rifle.tools.0.label>개머리판</Gun_GhostGear_Rifle.tools.0.label>
+  <Gun_GhostGear_Rifle.tools.1.label>총열</Gun_GhostGear_Rifle.tools.1.label>
+  <Melee_GhostGear_Katana.label>유령 카타나</Melee_GhostGear_Katana.label>
+  <Melee_GhostGear_Katana.description>메카나이트 신경 독이 묻어있는 매우 날카롭고 효과적인 검입니다.</Melee_GhostGear_Katana.description>
+  <Melee_GhostGear_Katana.tools.0.label>손잡이</Melee_GhostGear_Katana.tools.0.label>
+  <Melee_GhostGear_Katana.tools.1.label>검끝</Melee_GhostGear_Katana.tools.1.label>
+  <Melee_GhostGear_Katana.tools.2.label>검날</Melee_GhostGear_Katana.tools.2.label>
+  <Melee_GhostGear_Kukri.label>유령 쿠쿠리</Melee_GhostGear_Kukri.label>
+  <Melee_GhostGear_Kukri.description>메카나이트 신경 독이 묻어있는 매우 날카롭고 효과적인 검입니다.</Melee_GhostGear_Kukri.description>
+  <Melee_GhostGear_Kukri.tools.0.label>손잡이</Melee_GhostGear_Kukri.tools.0.label>
+  <Melee_GhostGear_Kukri.tools.1.label>검날</Melee_GhostGear_Kukri.tools.1.label>
+  <Melee_GhostGear_Kukri.tools.2.label>끝</Melee_GhostGear_Kukri.tools.2.label>
+  <GhostGearThrown_Dart.label>유령 다트</GhostGearThrown_Dart.label>
+  <GhostGearThrown_Dart.description>이 다트는 주로 주사로 고농도의 메카나이트 신경 신경 독을 주입하는 데 사용됩니다.</GhostGearThrown_Dart.description>
+  <GhostGearThrown_Dart.tools.0.label>끝</GhostGearThrown_Dart.tools.0.label>
+  <GhostGearThrown_Knife.label>유령 투척 단검</GhostGearThrown_Knife.label>
+  <GhostGearThrown_Knife.description>주로 메카나이트 신경 독을 주입하는 발사체로 사용되는 작고 날카로운 단검입니다.</GhostGearThrown_Knife.description>
+  <GhostGearThrown_Knife.tools.0.label>끝</GhostGearThrown_Knife.tools.0.label>
+  <GhostGearThrown_Shuriken.label>유령 슈리켄</GhostGearThrown_Shuriken.label>
+  <GhostGearThrown_Shuriken.description>메카나이트 신경 독이 묻어있는 투척형 무기입니다.</GhostGearThrown_Shuriken.description>
+  <GhostGearThrown_Shuriken.tools.0.label>끝</GhostGearThrown_Shuriken.tools.0.label>
+
+</LanguageData>

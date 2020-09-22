@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlayerLizardmanColony.label>리자드맨 부족</PlayerLizardmanColony.label>
+  <PlayerLizardmanColony.description>당신의 리자드맨들 입니다.</PlayerLizardmanColony.description>
+  <PlayerLizardmanColony.pawnsPlural>리자드맨</PlayerLizardmanColony.pawnsPlural>
+  <LizardmanTribe.label>리자드맨 부족</LizardmanTribe.label>
+  <LizardmanTribe.description>이 사람들은 수십 년에서 수백 년 동안 이 행성에서 살아왔으며, 자신들이 이전에 가지고 있던 기술의 대부분을 잃었습니다. 이들은 보통 간단한 기계 도구로 작업하고, 고급 화약 무기로 스스로를 방어합니다.
+
+이들은 무역과 외교, 생존에 주로 관심을 가집니다.</LizardmanTribe.description>
+  <LizardmanTribe.pawnsPlural>리자드맨</LizardmanTribe.pawnsPlural>
+  <LizardmanTribe.leaderTitle>족장</LizardmanTribe.leaderTitle>
+
+</LanguageData>

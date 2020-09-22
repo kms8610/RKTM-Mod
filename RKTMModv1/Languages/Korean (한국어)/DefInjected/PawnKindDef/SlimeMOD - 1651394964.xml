@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Syulipia_GoldenChicken.label>황금닭</Syulipia_GoldenChicken.label>
+  <Syulipia_GoldenChicken.labelPlural>황금닭들</Syulipia_GoldenChicken.labelPlural>
+  <Syulipia_GoldenChicken.lifeStages.0.label>황금닭</Syulipia_GoldenChicken.lifeStages.0.label>
+  <Syulipia_GoldenChicken.lifeStages.0.labelPlural>황금닭들</Syulipia_GoldenChicken.lifeStages.0.labelPlural>
+  <Syulipia_GoldenChicken.lifeStages.1.label>황금닭</Syulipia_GoldenChicken.lifeStages.1.label>
+  <Syulipia_GoldenChicken.lifeStages.1.labelPlural>황금닭들</Syulipia_GoldenChicken.lifeStages.1.labelPlural>
+  <Syulipia_GoldenChicken.lifeStages.2.label>황금닭</Syulipia_GoldenChicken.lifeStages.2.label>
+  <Syulipia_GoldenChicken.lifeStages.2.labelPlural>황금닭들</Syulipia_GoldenChicken.lifeStages.2.labelPlural>
+  <Syulipia_DarkSlime.label>다크 슬라임</Syulipia_DarkSlime.label>
+  <Syulipia_DarkSlime.labelPlural>다크 슬라임들</Syulipia_DarkSlime.labelPlural>
+  <Syulipia_DarkSlime.lifeStages.0.label>아기 다크 슬라임</Syulipia_DarkSlime.lifeStages.0.label>
+  <Syulipia_DarkSlime.lifeStages.0.labelPlural>아기 다크 슬라임들</Syulipia_DarkSlime.lifeStages.0.labelPlural>
+  <Syulipia_DarkSlime.lifeStages.0.labelMale>남성 다크 슬라임</Syulipia_DarkSlime.lifeStages.0.labelMale>
+  <Syulipia_DarkSlime.lifeStages.0.labelMalePlural>남성 다크 슬라임들</Syulipia_DarkSlime.lifeStages.0.labelMalePlural>
+  <Syulipia_DarkSlime.lifeStages.0.labelFemale>여성 다크 슬라임</Syulipia_DarkSlime.lifeStages.0.labelFemale>
+  <Syulipia_DarkSlime.lifeStages.0.labelFemalePlural>여성 다크 슬라임들</Syulipia_DarkSlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_DarkSlime.lifeStages.1.label>다크 슬라임</Syulipia_DarkSlime.lifeStages.1.label>
+  <Syulipia_DarkSlime.lifeStages.1.labelPlural>다크 슬라임들</Syulipia_DarkSlime.lifeStages.1.labelPlural>
+  <Syulipia_DarkSlime.lifeStages.1.labelMale>남성 다크 슬라임</Syulipia_DarkSlime.lifeStages.1.labelMale>
+  <Syulipia_DarkSlime.lifeStages.1.labelMalePlural>남성 다크 슬라임들</Syulipia_DarkSlime.lifeStages.1.labelMalePlural>
+  <Syulipia_DarkSlime.lifeStages.1.labelFemale>여성 다크 슬라임</Syulipia_DarkSlime.lifeStages.1.labelFemale>
+  <Syulipia_DarkSlime.lifeStages.1.labelFemalePlural>여성 다크 슬라임들</Syulipia_DarkSlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_DarkSlime.lifeStages.2.label>다크 슬라임</Syulipia_DarkSlime.lifeStages.2.label>
+  <Syulipia_DarkSlime.lifeStages.2.labelPlural>다크 슬라임들</Syulipia_DarkSlime.lifeStages.2.labelPlural>
+  <Syulipia_DarkSlime.lifeStages.2.labelMale>남성 다크 슬라임</Syulipia_DarkSlime.lifeStages.2.labelMale>
+  <Syulipia_DarkSlime.lifeStages.2.labelMalePlural>남성 다크 슬라임들</Syulipia_DarkSlime.lifeStages.2.labelMalePlural>
+  <Syulipia_DarkSlime.lifeStages.2.labelFemale>여성 다크 슬라임</Syulipia_DarkSlime.lifeStages.2.labelFemale>
+  <Syulipia_DarkSlime.lifeStages.2.labelFemalePlural>여성 다크 슬라임들</Syulipia_DarkSlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_DarkSlime.labelMale>남성 다크 슬라임</Syulipia_DarkSlime.labelMale>
+  <Syulipia_DarkSlime.labelMalePlural>남성 다크 슬라임들</Syulipia_DarkSlime.labelMalePlural>
+  <Syulipia_DarkSlime.labelFemale>여성 다크 슬라임</Syulipia_DarkSlime.labelFemale>
+  <Syulipia_DarkSlime.labelFemalePlural>여성 다크 슬라임들</Syulipia_DarkSlime.labelFemalePlural>
+  <Syulipia_HarmonySlime.label>하모니 슬라임</Syulipia_HarmonySlime.label>
+  <Syulipia_HarmonySlime.labelPlural>하모니 슬라임들</Syulipia_HarmonySlime.labelPlural>
+  <Syulipia_HarmonySlime.lifeStages.0.label>아기 하모니 슬라임</Syulipia_HarmonySlime.lifeStages.0.label>
+  <Syulipia_HarmonySlime.lifeStages.0.labelPlural>아기 하모니 슬라임들</Syulipia_HarmonySlime.lifeStages.0.labelPlural>
+  <Syulipia_HarmonySlime.lifeStages.0.labelMale>남성 하모니 슬라임</Syulipia_HarmonySlime.lifeStages.0.labelMale>
+  <Syulipia_HarmonySlime.lifeStages.0.labelMalePlural>남성 하모니 슬라임들</Syulipia_HarmonySlime.lifeStages.0.labelMalePlural>
+  <Syulipia_HarmonySlime.lifeStages.0.labelFemale>여성 하모니 슬라임</Syulipia_HarmonySlime.lifeStages.0.labelFemale>
+  <Syulipia_HarmonySlime.lifeStages.0.labelFemalePlural>여성 하모니 슬라임들</Syulipia_HarmonySlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_HarmonySlime.lifeStages.1.label>하모니 슬라임</Syulipia_HarmonySlime.lifeStages.1.label>
+  <Syulipia_HarmonySlime.lifeStages.1.labelPlural>하모니 슬라임들</Syulipia_HarmonySlime.lifeStages.1.labelPlural>
+  <Syulipia_HarmonySlime.lifeStages.1.labelMale>남성 하모니 슬라임</Syulipia_HarmonySlime.lifeStages.1.labelMale>
+  <Syulipia_HarmonySlime.lifeStages.1.labelMalePlural>남성 하모니 슬라임들</Syulipia_HarmonySlime.lifeStages.1.labelMalePlural>
+  <Syulipia_HarmonySlime.lifeStages.1.labelFemale>여성 하모니 슬라임</Syulipia_HarmonySlime.lifeStages.1.labelFemale>
+  <Syulipia_HarmonySlime.lifeStages.1.labelFemalePlural>여성 하모니 슬라임들</Syulipia_HarmonySlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_HarmonySlime.lifeStages.2.label>하모니 슬라임</Syulipia_HarmonySlime.lifeStages.2.label>
+  <Syulipia_HarmonySlime.lifeStages.2.labelPlural>하모니 슬라임들</Syulipia_HarmonySlime.lifeStages.2.labelPlural>
+  <Syulipia_HarmonySlime.lifeStages.2.labelMale>남성 하모니 슬라임</Syulipia_HarmonySlime.lifeStages.2.labelMale>
+  <Syulipia_HarmonySlime.lifeStages.2.labelMalePlural>남성 하모니 슬라임들</Syulipia_HarmonySlime.lifeStages.2.labelMalePlural>
+  <Syulipia_HarmonySlime.lifeStages.2.labelFemale>여성 하모니 슬라임</Syulipia_HarmonySlime.lifeStages.2.labelFemale>
+  <Syulipia_HarmonySlime.lifeStages.2.labelFemalePlural>여성 하모니 슬라임들</Syulipia_HarmonySlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_HarmonySlime.labelMale>남성 하모니 슬라임</Syulipia_HarmonySlime.labelMale>
+  <Syulipia_HarmonySlime.labelMalePlural>남성 하모니 슬라임들</Syulipia_HarmonySlime.labelMalePlural>
+  <Syulipia_HarmonySlime.labelFemale>여성 하모니 슬라임</Syulipia_HarmonySlime.labelFemale>
+  <Syulipia_HarmonySlime.labelFemalePlural>여성 하모니 슬라임들</Syulipia_HarmonySlime.labelFemalePlural>
+  <Syulipia_MeatSlime.label>미트 슬라임</Syulipia_MeatSlime.label>
+  <Syulipia_MeatSlime.labelPlural>미트 슬라임들</Syulipia_MeatSlime.labelPlural>
+  <Syulipia_MeatSlime.lifeStages.0.label>아기 미트 슬라임</Syulipia_MeatSlime.lifeStages.0.label>
+  <Syulipia_MeatSlime.lifeStages.0.labelPlural>아기 미트 슬라임들</Syulipia_MeatSlime.lifeStages.0.labelPlural>
+  <Syulipia_MeatSlime.lifeStages.0.labelMale>남성 미트 슬라임</Syulipia_MeatSlime.lifeStages.0.labelMale>
+  <Syulipia_MeatSlime.lifeStages.0.labelMalePlural>남성 미트 슬라임들</Syulipia_MeatSlime.lifeStages.0.labelMalePlural>
+  <Syulipia_MeatSlime.lifeStages.0.labelFemale>여성 미트 슬라임</Syulipia_MeatSlime.lifeStages.0.labelFemale>
+  <Syulipia_MeatSlime.lifeStages.0.labelFemalePlural>여성 미트 슬라임들</Syulipia_MeatSlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_MeatSlime.lifeStages.1.label>미트 슬라임</Syulipia_MeatSlime.lifeStages.1.label>
+  <Syulipia_MeatSlime.lifeStages.1.labelPlural>미트 슬라임들</Syulipia_MeatSlime.lifeStages.1.labelPlural>
+  <Syulipia_MeatSlime.lifeStages.1.labelMale>남성 미트 슬라임</Syulipia_MeatSlime.lifeStages.1.labelMale>
+  <Syulipia_MeatSlime.lifeStages.1.labelMalePlural>남성 미트 슬라임들</Syulipia_MeatSlime.lifeStages.1.labelMalePlural>
+  <Syulipia_MeatSlime.lifeStages.1.labelFemale>여성 미트 슬라임</Syulipia_MeatSlime.lifeStages.1.labelFemale>
+  <Syulipia_MeatSlime.lifeStages.1.labelFemalePlural>여성 미트 슬라임들</Syulipia_MeatSlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_MeatSlime.lifeStages.2.label>미트 슬라임</Syulipia_MeatSlime.lifeStages.2.label>
+  <Syulipia_MeatSlime.lifeStages.2.labelPlural>미트 슬라임들</Syulipia_MeatSlime.lifeStages.2.labelPlural>
+  <Syulipia_MeatSlime.lifeStages.2.labelMale>남성 미트 슬라임</Syulipia_MeatSlime.lifeStages.2.labelMale>
+  <Syulipia_MeatSlime.lifeStages.2.labelMalePlural>남성 미트 슬라임들</Syulipia_MeatSlime.lifeStages.2.labelMalePlural>
+  <Syulipia_MeatSlime.lifeStages.2.labelFemale>여성 미트 슬라임</Syulipia_MeatSlime.lifeStages.2.labelFemale>
+  <Syulipia_MeatSlime.lifeStages.2.labelFemalePlural>여성 미트 슬라임들</Syulipia_MeatSlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_MeatSlime.labelMale>남성 미트 슬라임</Syulipia_MeatSlime.labelMale>
+  <Syulipia_MeatSlime.labelMalePlural>남성 미트 슬라임들</Syulipia_MeatSlime.labelMalePlural>
+  <Syulipia_MeatSlime.labelFemale>여성 미트 슬라임</Syulipia_MeatSlime.labelFemale>
+  <Syulipia_MeatSlime.labelFemalePlural>여성 미트 슬라임들</Syulipia_MeatSlime.labelFemalePlural>
+  <Syulipia_MetalSlime.label>메탈 슬라임</Syulipia_MetalSlime.label>
+  <Syulipia_MetalSlime.labelPlural>메탈 슬라임들</Syulipia_MetalSlime.labelPlural>
+  <Syulipia_MetalSlime.lifeStages.0.label>아기 메탈 슬라임</Syulipia_MetalSlime.lifeStages.0.label>
+  <Syulipia_MetalSlime.lifeStages.0.labelPlural>아기 메탈 슬라임들</Syulipia_MetalSlime.lifeStages.0.labelPlural>
+  <Syulipia_MetalSlime.lifeStages.0.labelMale>남성 메탈 슬라임</Syulipia_MetalSlime.lifeStages.0.labelMale>
+  <Syulipia_MetalSlime.lifeStages.0.labelMalePlural>남성 메탈 슬라임들</Syulipia_MetalSlime.lifeStages.0.labelMalePlural>
+  <Syulipia_MetalSlime.lifeStages.0.labelFemale>여성 메탈 슬라임</Syulipia_MetalSlime.lifeStages.0.labelFemale>
+  <Syulipia_MetalSlime.lifeStages.0.labelFemalePlural>여성 메탈 슬라임들</Syulipia_MetalSlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_MetalSlime.lifeStages.1.label>메탈 슬라임</Syulipia_MetalSlime.lifeStages.1.label>
+  <Syulipia_MetalSlime.lifeStages.1.labelPlural>메탈 슬라임들</Syulipia_MetalSlime.lifeStages.1.labelPlural>
+  <Syulipia_MetalSlime.lifeStages.1.labelMale>남성 메탈 슬라임</Syulipia_MetalSlime.lifeStages.1.labelMale>
+  <Syulipia_MetalSlime.lifeStages.1.labelMalePlural>남성 메탈 슬라임들</Syulipia_MetalSlime.lifeStages.1.labelMalePlural>
+  <Syulipia_MetalSlime.lifeStages.1.labelFemale>여성 메탈 슬라임</Syulipia_MetalSlime.lifeStages.1.labelFemale>
+  <Syulipia_MetalSlime.lifeStages.1.labelFemalePlural>여성 메탈 슬라임들</Syulipia_MetalSlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_MetalSlime.lifeStages.2.label>메탈 슬라임</Syulipia_MetalSlime.lifeStages.2.label>
+  <Syulipia_MetalSlime.lifeStages.2.labelPlural>메탈 슬라임들</Syulipia_MetalSlime.lifeStages.2.labelPlural>
+  <Syulipia_MetalSlime.lifeStages.2.labelMale>남성 메탈 슬라임</Syulipia_MetalSlime.lifeStages.2.labelMale>
+  <Syulipia_MetalSlime.lifeStages.2.labelMalePlural>남성 메탈 슬라임들</Syulipia_MetalSlime.lifeStages.2.labelMalePlural>
+  <Syulipia_MetalSlime.lifeStages.2.labelFemale>여성 메탈 슬라임</Syulipia_MetalSlime.lifeStages.2.labelFemale>
+  <Syulipia_MetalSlime.lifeStages.2.labelFemalePlural>여성 메탈 슬라임들</Syulipia_MetalSlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_MetalSlime.labelMale>남성 메탈 슬라임</Syulipia_MetalSlime.labelMale>
+  <Syulipia_MetalSlime.labelMalePlural>남성 메탈 슬라임들</Syulipia_MetalSlime.labelMalePlural>
+  <Syulipia_MetalSlime.labelFemale>여성 메탈 슬라임</Syulipia_MetalSlime.labelFemale>
+  <Syulipia_MetalSlime.labelFemalePlural>여성 메탈 슬라임들</Syulipia_MetalSlime.labelFemalePlural>
+  <Syulipia_NormalSlime.label>노말 슬라임</Syulipia_NormalSlime.label>
+  <Syulipia_NormalSlime.labelPlural>노말 슬라임들</Syulipia_NormalSlime.labelPlural>
+  <Syulipia_NormalSlime.lifeStages.0.label>아기 노말 슬라임</Syulipia_NormalSlime.lifeStages.0.label>
+  <Syulipia_NormalSlime.lifeStages.0.labelPlural>아기 노말 슬라임들</Syulipia_NormalSlime.lifeStages.0.labelPlural>
+  <Syulipia_NormalSlime.lifeStages.0.labelMale>남성 노말 슬라임</Syulipia_NormalSlime.lifeStages.0.labelMale>
+  <Syulipia_NormalSlime.lifeStages.0.labelMalePlural>남성 노말 슬라임들</Syulipia_NormalSlime.lifeStages.0.labelMalePlural>
+  <Syulipia_NormalSlime.lifeStages.0.labelFemale>여성 노말 슬라임</Syulipia_NormalSlime.lifeStages.0.labelFemale>
+  <Syulipia_NormalSlime.lifeStages.0.labelFemalePlural>여성 노말 슬라임들</Syulipia_NormalSlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_NormalSlime.lifeStages.1.label>노말 슬라임</Syulipia_NormalSlime.lifeStages.1.label>
+  <Syulipia_NormalSlime.lifeStages.1.labelPlural>노말 슬라임들</Syulipia_NormalSlime.lifeStages.1.labelPlural>
+  <Syulipia_NormalSlime.lifeStages.1.labelMale>남성 노말 슬라임</Syulipia_NormalSlime.lifeStages.1.labelMale>
+  <Syulipia_NormalSlime.lifeStages.1.labelMalePlural>남성 노말 슬라임들</Syulipia_NormalSlime.lifeStages.1.labelMalePlural>
+  <Syulipia_NormalSlime.lifeStages.1.labelFemale>여성 노말 슬라임</Syulipia_NormalSlime.lifeStages.1.labelFemale>
+  <Syulipia_NormalSlime.lifeStages.1.labelFemalePlural>여성 노말 슬라임들</Syulipia_NormalSlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_NormalSlime.lifeStages.2.label>노말 슬라임</Syulipia_NormalSlime.lifeStages.2.label>
+  <Syulipia_NormalSlime.lifeStages.2.labelPlural>노말 슬라임들</Syulipia_NormalSlime.lifeStages.2.labelPlural>
+  <Syulipia_NormalSlime.lifeStages.2.labelMale>남성 노말 슬라임</Syulipia_NormalSlime.lifeStages.2.labelMale>
+  <Syulipia_NormalSlime.lifeStages.2.labelMalePlural>남성 노말 슬라임들</Syulipia_NormalSlime.lifeStages.2.labelMalePlural>
+  <Syulipia_NormalSlime.lifeStages.2.labelFemale>여성 노말 슬라임</Syulipia_NormalSlime.lifeStages.2.labelFemale>
+  <Syulipia_NormalSlime.lifeStages.2.labelFemalePlural>여성 노말 슬라임들</Syulipia_NormalSlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_NormalSlime.labelMale>남성 노말 슬라임</Syulipia_NormalSlime.labelMale>
+  <Syulipia_NormalSlime.labelMalePlural>남성 노말 슬라임들</Syulipia_NormalSlime.labelMalePlural>
+  <Syulipia_NormalSlime.labelFemale>여성 노말 슬라임</Syulipia_NormalSlime.labelFemale>
+  <Syulipia_NormalSlime.labelFemalePlural>여성 노말 슬라임들</Syulipia_NormalSlime.labelFemalePlural>
+  <Syulipia_PoisonSlime.label>포이즌 슬라임</Syulipia_PoisonSlime.label>
+  <Syulipia_PoisonSlime.labelPlural>포이즌 슬라임들</Syulipia_PoisonSlime.labelPlural>
+  <Syulipia_PoisonSlime.lifeStages.0.label>아기 포이즌 슬라임</Syulipia_PoisonSlime.lifeStages.0.label>
+  <Syulipia_PoisonSlime.lifeStages.0.labelPlural>아기 포이즌 슬라임들</Syulipia_PoisonSlime.lifeStages.0.labelPlural>
+  <Syulipia_PoisonSlime.lifeStages.0.labelMale>남성 포이즌 슬라임</Syulipia_PoisonSlime.lifeStages.0.labelMale>
+  <Syulipia_PoisonSlime.lifeStages.0.labelMalePlural>남성 포이즌 슬라임들</Syulipia_PoisonSlime.lifeStages.0.labelMalePlural>
+  <Syulipia_PoisonSlime.lifeStages.0.labelFemale>여성 포이즌 슬라임</Syulipia_PoisonSlime.lifeStages.0.labelFemale>
+  <Syulipia_PoisonSlime.lifeStages.0.labelFemalePlural>여성 포이즌 슬라임들</Syulipia_PoisonSlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_PoisonSlime.lifeStages.1.label>포이즌 슬라임</Syulipia_PoisonSlime.lifeStages.1.label>
+  <Syulipia_PoisonSlime.lifeStages.1.labelPlural>포이즌 슬라임들</Syulipia_PoisonSlime.lifeStages.1.labelPlural>
+  <Syulipia_PoisonSlime.lifeStages.1.labelMale>남성 포이즌 슬라임</Syulipia_PoisonSlime.lifeStages.1.labelMale>
+  <Syulipia_PoisonSlime.lifeStages.1.labelMalePlural>남성 포이즌 슬라임들</Syulipia_PoisonSlime.lifeStages.1.labelMalePlural>
+  <Syulipia_PoisonSlime.lifeStages.1.labelFemale>여성 포이즌 슬라임</Syulipia_PoisonSlime.lifeStages.1.labelFemale>
+  <Syulipia_PoisonSlime.lifeStages.1.labelFemalePlural>여성 포이즌 슬라임들</Syulipia_PoisonSlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_PoisonSlime.lifeStages.2.label>포이즌 슬라임</Syulipia_PoisonSlime.lifeStages.2.label>
+  <Syulipia_PoisonSlime.lifeStages.2.labelPlural>포이즌 슬라임들</Syulipia_PoisonSlime.lifeStages.2.labelPlural>
+  <Syulipia_PoisonSlime.lifeStages.2.labelMale>남성 포이즌 슬라임</Syulipia_PoisonSlime.lifeStages.2.labelMale>
+  <Syulipia_PoisonSlime.lifeStages.2.labelMalePlural>남성 포이즌 슬라임들</Syulipia_PoisonSlime.lifeStages.2.labelMalePlural>
+  <Syulipia_PoisonSlime.lifeStages.2.labelFemale>여성 포이즌 슬라임</Syulipia_PoisonSlime.lifeStages.2.labelFemale>
+  <Syulipia_PoisonSlime.lifeStages.2.labelFemalePlural>여성 포이즌 슬라임들</Syulipia_PoisonSlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_PoisonSlime.labelMale>남성 포이즌 슬라임</Syulipia_PoisonSlime.labelMale>
+  <Syulipia_PoisonSlime.labelMalePlural>남성 포이즌 슬라임들</Syulipia_PoisonSlime.labelMalePlural>
+  <Syulipia_PoisonSlime.labelFemale>여성 포이즌 슬라임</Syulipia_PoisonSlime.labelFemale>
+  <Syulipia_PoisonSlime.labelFemalePlural>여성 포이즌 슬라임들</Syulipia_PoisonSlime.labelFemalePlural>
+  <Syulipia_ShineSlime.label>샤인 슬라임</Syulipia_ShineSlime.label>
+  <Syulipia_ShineSlime.labelPlural>샤인 슬라임들</Syulipia_ShineSlime.labelPlural>
+  <Syulipia_ShineSlime.lifeStages.0.label>아기 샤인 슬라임</Syulipia_ShineSlime.lifeStages.0.label>
+  <Syulipia_ShineSlime.lifeStages.0.labelPlural>아기 샤인 슬라임들</Syulipia_ShineSlime.lifeStages.0.labelPlural>
+  <Syulipia_ShineSlime.lifeStages.0.labelMale>남성 샤인 슬라임</Syulipia_ShineSlime.lifeStages.0.labelMale>
+  <Syulipia_ShineSlime.lifeStages.0.labelMalePlural>남성 샤인 슬라임들</Syulipia_ShineSlime.lifeStages.0.labelMalePlural>
+  <Syulipia_ShineSlime.lifeStages.0.labelFemale>여성 샤인 슬라임</Syulipia_ShineSlime.lifeStages.0.labelFemale>
+  <Syulipia_ShineSlime.lifeStages.0.labelFemalePlural>여성 샤인 슬라임들</Syulipia_ShineSlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_ShineSlime.lifeStages.1.label>샤인 슬라임</Syulipia_ShineSlime.lifeStages.1.label>
+  <Syulipia_ShineSlime.lifeStages.1.labelPlural>샤인 슬라임들</Syulipia_ShineSlime.lifeStages.1.labelPlural>
+  <Syulipia_ShineSlime.lifeStages.1.labelMale>남성 샤인 슬라임</Syulipia_ShineSlime.lifeStages.1.labelMale>
+  <Syulipia_ShineSlime.lifeStages.1.labelMalePlural>남성 샤인 슬라임들</Syulipia_ShineSlime.lifeStages.1.labelMalePlural>
+  <Syulipia_ShineSlime.lifeStages.1.labelFemale>여성 샤인 슬라임</Syulipia_ShineSlime.lifeStages.1.labelFemale>
+  <Syulipia_ShineSlime.lifeStages.1.labelFemalePlural>여성 샤인 슬라임들</Syulipia_ShineSlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_ShineSlime.lifeStages.2.label>샤인 슬라임</Syulipia_ShineSlime.lifeStages.2.label>
+  <Syulipia_ShineSlime.lifeStages.2.labelPlural>샤인 슬라임들</Syulipia_ShineSlime.lifeStages.2.labelPlural>
+  <Syulipia_ShineSlime.lifeStages.2.labelMale>남성 샤인 슬라임</Syulipia_ShineSlime.lifeStages.2.labelMale>
+  <Syulipia_ShineSlime.lifeStages.2.labelMalePlural>남성 샤인 슬라임들</Syulipia_ShineSlime.lifeStages.2.labelMalePlural>
+  <Syulipia_ShineSlime.lifeStages.2.labelFemale>여성 샤인 슬라임</Syulipia_ShineSlime.lifeStages.2.labelFemale>
+  <Syulipia_ShineSlime.lifeStages.2.labelFemalePlural>여성 샤인 슬라임들</Syulipia_ShineSlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_ShineSlime.labelMale>남성 샤인 슬라임</Syulipia_ShineSlime.labelMale>
+  <Syulipia_ShineSlime.labelMalePlural>남성 샤인 슬라임들</Syulipia_ShineSlime.labelMalePlural>
+  <Syulipia_ShineSlime.labelFemale>여성 샤인 슬라임</Syulipia_ShineSlime.labelFemale>
+  <Syulipia_ShineSlime.labelFemalePlural>여성 샤인 슬라임들</Syulipia_ShineSlime.labelFemalePlural>
+  <Syulipia_ChocolateSlime.label>초코 슬라임</Syulipia_ChocolateSlime.label>
+  <Syulipia_ChocolateSlime.labelPlural>초코 슬라임들</Syulipia_ChocolateSlime.labelPlural>
+  <Syulipia_ChocolateSlime.lifeStages.0.label>아기 초코 슬라임</Syulipia_ChocolateSlime.lifeStages.0.label>
+  <Syulipia_ChocolateSlime.lifeStages.0.labelPlural>아기 초코 슬라임들</Syulipia_ChocolateSlime.lifeStages.0.labelPlural>
+  <Syulipia_ChocolateSlime.lifeStages.0.labelMale>남성 초코 슬라임</Syulipia_ChocolateSlime.lifeStages.0.labelMale>
+  <Syulipia_ChocolateSlime.lifeStages.0.labelMalePlural>남성 초코 슬라임들</Syulipia_ChocolateSlime.lifeStages.0.labelMalePlural>
+  <Syulipia_ChocolateSlime.lifeStages.0.labelFemale>여성 초코 슬라임</Syulipia_ChocolateSlime.lifeStages.0.labelFemale>
+  <Syulipia_ChocolateSlime.lifeStages.0.labelFemalePlural>여성 초코 슬라임들</Syulipia_ChocolateSlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_ChocolateSlime.lifeStages.1.label>초코 슬라임</Syulipia_ChocolateSlime.lifeStages.1.label>
+  <Syulipia_ChocolateSlime.lifeStages.1.labelPlural>초코 슬라임들</Syulipia_ChocolateSlime.lifeStages.1.labelPlural>
+  <Syulipia_ChocolateSlime.lifeStages.1.labelMale>남성 초코 슬라임</Syulipia_ChocolateSlime.lifeStages.1.labelMale>
+  <Syulipia_ChocolateSlime.lifeStages.1.labelMalePlural>남성 초코 슬라임들</Syulipia_ChocolateSlime.lifeStages.1.labelMalePlural>
+  <Syulipia_ChocolateSlime.lifeStages.1.labelFemale>여성 초코 슬라임</Syulipia_ChocolateSlime.lifeStages.1.labelFemale>
+  <Syulipia_ChocolateSlime.lifeStages.1.labelFemalePlural>여성 초코 슬라임들</Syulipia_ChocolateSlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_ChocolateSlime.lifeStages.2.label>초코 슬라임</Syulipia_ChocolateSlime.lifeStages.2.label>
+  <Syulipia_ChocolateSlime.lifeStages.2.labelPlural>초코 슬라임들</Syulipia_ChocolateSlime.lifeStages.2.labelPlural>
+  <Syulipia_ChocolateSlime.lifeStages.2.labelMale>남성 초코 슬라임</Syulipia_ChocolateSlime.lifeStages.2.labelMale>
+  <Syulipia_ChocolateSlime.lifeStages.2.labelMalePlural>남성 초코 슬라임들</Syulipia_ChocolateSlime.lifeStages.2.labelMalePlural>
+  <Syulipia_ChocolateSlime.lifeStages.2.labelFemale>여성 초코 슬라임</Syulipia_ChocolateSlime.lifeStages.2.labelFemale>
+  <Syulipia_ChocolateSlime.lifeStages.2.labelFemalePlural>여성 초코 슬라임들</Syulipia_ChocolateSlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_ChocolateSlime.labelMale>남성 초코 슬라임</Syulipia_ChocolateSlime.labelMale>
+  <Syulipia_ChocolateSlime.labelMalePlural>남성 초코 슬라임들</Syulipia_ChocolateSlime.labelMalePlural>
+  <Syulipia_ChocolateSlime.labelFemale>여성 초코 슬라임</Syulipia_ChocolateSlime.labelFemale>
+  <Syulipia_ChocolateSlime.labelFemalePlural>여성 초코 슬라임들</Syulipia_ChocolateSlime.labelFemalePlural>
+  <Syulipia_IceSlime.label>아이스 슬라임</Syulipia_IceSlime.label>
+  <Syulipia_IceSlime.labelPlural>아이스 슬라임들</Syulipia_IceSlime.labelPlural>
+  <Syulipia_IceSlime.lifeStages.0.label>아기 아이스 슬라임</Syulipia_IceSlime.lifeStages.0.label>
+  <Syulipia_IceSlime.lifeStages.0.labelPlural>아기 아이스 슬라임들</Syulipia_IceSlime.lifeStages.0.labelPlural>
+  <Syulipia_IceSlime.lifeStages.0.labelMale>남성 아이스 슬라임</Syulipia_IceSlime.lifeStages.0.labelMale>
+  <Syulipia_IceSlime.lifeStages.0.labelMalePlural>남성 아이스 슬라임들</Syulipia_IceSlime.lifeStages.0.labelMalePlural>
+  <Syulipia_IceSlime.lifeStages.0.labelFemale>여성 아이스 슬라임</Syulipia_IceSlime.lifeStages.0.labelFemale>
+  <Syulipia_IceSlime.lifeStages.0.labelFemalePlural>여성 아이스 슬라임들</Syulipia_IceSlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_IceSlime.lifeStages.1.label>아이스 슬라임</Syulipia_IceSlime.lifeStages.1.label>
+  <Syulipia_IceSlime.lifeStages.1.labelPlural>아이스 슬라임들</Syulipia_IceSlime.lifeStages.1.labelPlural>
+  <Syulipia_IceSlime.lifeStages.1.labelMale>남성 아이스 슬라임</Syulipia_IceSlime.lifeStages.1.labelMale>
+  <Syulipia_IceSlime.lifeStages.1.labelMalePlural>남성 아이스 슬라임들</Syulipia_IceSlime.lifeStages.1.labelMalePlural>
+  <Syulipia_IceSlime.lifeStages.1.labelFemale>여성 아이스 슬라임</Syulipia_IceSlime.lifeStages.1.labelFemale>
+  <Syulipia_IceSlime.lifeStages.1.labelFemalePlural>여성 아이스 슬라임들</Syulipia_IceSlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_IceSlime.lifeStages.2.label>아이스 슬라임</Syulipia_IceSlime.lifeStages.2.label>
+  <Syulipia_IceSlime.lifeStages.2.labelPlural>아이스 슬라임들</Syulipia_IceSlime.lifeStages.2.labelPlural>
+  <Syulipia_IceSlime.lifeStages.2.labelMale>남성 아이스 슬라임</Syulipia_IceSlime.lifeStages.2.labelMale>
+  <Syulipia_IceSlime.lifeStages.2.labelMalePlural>남성 아이스 슬라임들</Syulipia_IceSlime.lifeStages.2.labelMalePlural>
+  <Syulipia_IceSlime.lifeStages.2.labelFemale>여성 아이스 슬라임</Syulipia_IceSlime.lifeStages.2.labelFemale>
+  <Syulipia_IceSlime.lifeStages.2.labelFemalePlural>여성 아이스 슬라임들</Syulipia_IceSlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_IceSlime.labelMale>남성 아이스 슬라임</Syulipia_IceSlime.labelMale>
+  <Syulipia_IceSlime.labelMalePlural>남성 아이스 슬라임들</Syulipia_IceSlime.labelMalePlural>
+  <Syulipia_IceSlime.labelFemale>여성 아이스 슬라임</Syulipia_IceSlime.labelFemale>
+  <Syulipia_IceSlime.labelFemalePlural>여성 아이스 슬라임들</Syulipia_IceSlime.labelFemalePlural>
+  <Syulipia_MochiSlime.label>모찌 슬라임</Syulipia_MochiSlime.label>
+  <Syulipia_MochiSlime.labelPlural>모찌 슬라임들</Syulipia_MochiSlime.labelPlural>
+  <Syulipia_MochiSlime.lifeStages.0.label>아기 모찌 슬라임</Syulipia_MochiSlime.lifeStages.0.label>
+  <Syulipia_MochiSlime.lifeStages.0.labelPlural>아기 모찌 슬라임들</Syulipia_MochiSlime.lifeStages.0.labelPlural>
+  <Syulipia_MochiSlime.lifeStages.0.labelMale>남성 모찌 슬라임</Syulipia_MochiSlime.lifeStages.0.labelMale>
+  <Syulipia_MochiSlime.lifeStages.0.labelMalePlural>남성 모찌 슬라임들</Syulipia_MochiSlime.lifeStages.0.labelMalePlural>
+  <Syulipia_MochiSlime.lifeStages.0.labelFemale>여성 모찌 슬라임</Syulipia_MochiSlime.lifeStages.0.labelFemale>
+  <Syulipia_MochiSlime.lifeStages.0.labelFemalePlural>여성 모찌 슬라임들</Syulipia_MochiSlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_MochiSlime.lifeStages.1.label>모찌 슬라임</Syulipia_MochiSlime.lifeStages.1.label>
+  <Syulipia_MochiSlime.lifeStages.1.labelPlural>모찌 슬라임들</Syulipia_MochiSlime.lifeStages.1.labelPlural>
+  <Syulipia_MochiSlime.lifeStages.1.labelMale>남성 모찌 슬라임</Syulipia_MochiSlime.lifeStages.1.labelMale>
+  <Syulipia_MochiSlime.lifeStages.1.labelMalePlural>남성 모찌 슬라임들</Syulipia_MochiSlime.lifeStages.1.labelMalePlural>
+  <Syulipia_MochiSlime.lifeStages.1.labelFemale>여성 모찌 슬라임</Syulipia_MochiSlime.lifeStages.1.labelFemale>
+  <Syulipia_MochiSlime.lifeStages.1.labelFemalePlural>여성 모찌 슬라임들</Syulipia_MochiSlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_MochiSlime.lifeStages.2.label>모찌 슬라임</Syulipia_MochiSlime.lifeStages.2.label>
+  <Syulipia_MochiSlime.lifeStages.2.labelPlural>모찌 슬라임</Syulipia_MochiSlime.lifeStages.2.labelPlural>
+  <Syulipia_MochiSlime.lifeStages.2.labelMale>남성 모찌 슬라임들</Syulipia_MochiSlime.lifeStages.2.labelMale>
+  <Syulipia_MochiSlime.lifeStages.2.labelMalePlural>남성 모찌 슬라임들</Syulipia_MochiSlime.lifeStages.2.labelMalePlural>
+  <Syulipia_MochiSlime.lifeStages.2.labelFemale>여성 모찌 슬라임</Syulipia_MochiSlime.lifeStages.2.labelFemale>
+  <Syulipia_MochiSlime.lifeStages.2.labelFemalePlural>여성 모찌 슬라임들</Syulipia_MochiSlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_MochiSlime.labelMale>남성 모찌 슬라임</Syulipia_MochiSlime.labelMale>
+  <Syulipia_MochiSlime.labelMalePlural>남성 모찌 슬라임들</Syulipia_MochiSlime.labelMalePlural>
+  <Syulipia_MochiSlime.labelFemale>여성 모찌 슬라임</Syulipia_MochiSlime.labelFemale>
+  <Syulipia_MochiSlime.labelFemalePlural>여성 모찌 슬라임들</Syulipia_MochiSlime.labelFemalePlural>
+  <Syulipia_StarrySlime.label>스타리 슬라임</Syulipia_StarrySlime.label>
+  <Syulipia_StarrySlime.labelPlural>스타리 슬라임들</Syulipia_StarrySlime.labelPlural>
+  <Syulipia_StarrySlime.lifeStages.0.label>아기 스타리 슬라임</Syulipia_StarrySlime.lifeStages.0.label>
+  <Syulipia_StarrySlime.lifeStages.0.labelPlural>아기 스타리 슬라임들</Syulipia_StarrySlime.lifeStages.0.labelPlural>
+  <Syulipia_StarrySlime.lifeStages.0.labelMale>남성 스타리 슬라임</Syulipia_StarrySlime.lifeStages.0.labelMale>
+  <Syulipia_StarrySlime.lifeStages.0.labelMalePlural>남성 스타리 슬라임들</Syulipia_StarrySlime.lifeStages.0.labelMalePlural>
+  <Syulipia_StarrySlime.lifeStages.0.labelFemale>여성 스타리 슬라임</Syulipia_StarrySlime.lifeStages.0.labelFemale>
+  <Syulipia_StarrySlime.lifeStages.0.labelFemalePlural>여성 스타리 슬라임들</Syulipia_StarrySlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_StarrySlime.lifeStages.1.label>스타리 슬라임</Syulipia_StarrySlime.lifeStages.1.label>
+  <Syulipia_StarrySlime.lifeStages.1.labelPlural>스타리 슬라임들</Syulipia_StarrySlime.lifeStages.1.labelPlural>
+  <Syulipia_StarrySlime.lifeStages.1.labelMale>남성 스타리 슬라임</Syulipia_StarrySlime.lifeStages.1.labelMale>
+  <Syulipia_StarrySlime.lifeStages.1.labelMalePlural>남성 스타리 슬라임들</Syulipia_StarrySlime.lifeStages.1.labelMalePlural>
+  <Syulipia_StarrySlime.lifeStages.1.labelFemale>여성 스타리 슬라임</Syulipia_StarrySlime.lifeStages.1.labelFemale>
+  <Syulipia_StarrySlime.lifeStages.1.labelFemalePlural>여성 스타리 슬라임들</Syulipia_StarrySlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_StarrySlime.lifeStages.2.label>스타리 슬라임</Syulipia_StarrySlime.lifeStages.2.label>
+  <Syulipia_StarrySlime.lifeStages.2.labelPlural>스타리 슬라임들</Syulipia_StarrySlime.lifeStages.2.labelPlural>
+  <Syulipia_StarrySlime.lifeStages.2.labelMale>남성 스타리 슬라임</Syulipia_StarrySlime.lifeStages.2.labelMale>
+  <Syulipia_StarrySlime.lifeStages.2.labelMalePlural>남성 스타리 슬라임들</Syulipia_StarrySlime.lifeStages.2.labelMalePlural>
+  <Syulipia_StarrySlime.lifeStages.2.labelFemale>여성 스타리 슬라임</Syulipia_StarrySlime.lifeStages.2.labelFemale>
+  <Syulipia_StarrySlime.lifeStages.2.labelFemalePlural>여성 스타리 슬라임들</Syulipia_StarrySlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_StarrySlime.labelMale>남성 스타리 슬라임</Syulipia_StarrySlime.labelMale>
+  <Syulipia_StarrySlime.labelMalePlural>남성 스타리 슬라임들</Syulipia_StarrySlime.labelMalePlural>
+  <Syulipia_StarrySlime.labelFemale>여성 스타리 슬라임</Syulipia_StarrySlime.labelFemale>
+  <Syulipia_StarrySlime.labelFemalePlural>여성 스타리 슬라임들</Syulipia_StarrySlime.labelFemalePlural>
+  <Syulipia_TsuchiSlime.label>대지 슬라임</Syulipia_TsuchiSlime.label>
+  <Syulipia_TsuchiSlime.labelPlural>대지 슬라임들</Syulipia_TsuchiSlime.labelPlural>
+  <Syulipia_TsuchiSlime.lifeStages.0.label>아기 대지 슬라임</Syulipia_TsuchiSlime.lifeStages.0.label>
+  <Syulipia_TsuchiSlime.lifeStages.0.labelPlural>아기 대지 슬라임들</Syulipia_TsuchiSlime.lifeStages.0.labelPlural>
+  <Syulipia_TsuchiSlime.lifeStages.0.labelMale>남성 대지 슬라임</Syulipia_TsuchiSlime.lifeStages.0.labelMale>
+  <Syulipia_TsuchiSlime.lifeStages.0.labelMalePlural>남성 대지 슬라임들</Syulipia_TsuchiSlime.lifeStages.0.labelMalePlural>
+  <Syulipia_TsuchiSlime.lifeStages.0.labelFemale>여성 대지 슬라임</Syulipia_TsuchiSlime.lifeStages.0.labelFemale>
+  <Syulipia_TsuchiSlime.lifeStages.0.labelFemalePlural>여성 대지 슬라임들</Syulipia_TsuchiSlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_TsuchiSlime.lifeStages.1.label>대지 슬라임</Syulipia_TsuchiSlime.lifeStages.1.label>
+  <Syulipia_TsuchiSlime.lifeStages.1.labelPlural>대지 슬라임들</Syulipia_TsuchiSlime.lifeStages.1.labelPlural>
+  <Syulipia_TsuchiSlime.lifeStages.1.labelMale>남성 대지 슬라임</Syulipia_TsuchiSlime.lifeStages.1.labelMale>
+  <Syulipia_TsuchiSlime.lifeStages.1.labelMalePlural>남성 대지 슬라임들</Syulipia_TsuchiSlime.lifeStages.1.labelMalePlural>
+  <Syulipia_TsuchiSlime.lifeStages.1.labelFemale>여성 대지 슬라임</Syulipia_TsuchiSlime.lifeStages.1.labelFemale>
+  <Syulipia_TsuchiSlime.lifeStages.1.labelFemalePlural>여성 대지 슬라임들</Syulipia_TsuchiSlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_TsuchiSlime.lifeStages.2.label>대지 슬라임</Syulipia_TsuchiSlime.lifeStages.2.label>
+  <Syulipia_TsuchiSlime.lifeStages.2.labelPlural>대지 슬라임들</Syulipia_TsuchiSlime.lifeStages.2.labelPlural>
+  <Syulipia_TsuchiSlime.lifeStages.2.labelMale>남성 대지 슬라임</Syulipia_TsuchiSlime.lifeStages.2.labelMale>
+  <Syulipia_TsuchiSlime.lifeStages.2.labelMalePlural>남성 대지 슬라임들</Syulipia_TsuchiSlime.lifeStages.2.labelMalePlural>
+  <Syulipia_TsuchiSlime.lifeStages.2.labelFemale>여성 대지 슬라임</Syulipia_TsuchiSlime.lifeStages.2.labelFemale>
+  <Syulipia_TsuchiSlime.lifeStages.2.labelFemalePlural>여성 대지 슬라임들</Syulipia_TsuchiSlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_TsuchiSlime.labelMale>남성 대지 슬라임</Syulipia_TsuchiSlime.labelMale>
+  <Syulipia_TsuchiSlime.labelMalePlural>남성 대지 슬라임들</Syulipia_TsuchiSlime.labelMalePlural>
+  <Syulipia_TsuchiSlime.labelFemale>여성 대지 슬라임</Syulipia_TsuchiSlime.labelFemale>
+  <Syulipia_TsuchiSlime.labelFemalePlural>여성 대지 슬라임들</Syulipia_TsuchiSlime.labelFemalePlural>
+  <Syulipia_WrappingSlime.label>래핑 슬라임</Syulipia_WrappingSlime.label>
+  <Syulipia_WrappingSlime.labelPlural>래핑 슬라임들</Syulipia_WrappingSlime.labelPlural>
+  <Syulipia_WrappingSlime.lifeStages.0.label>래핑 슬라임</Syulipia_WrappingSlime.lifeStages.0.label>
+  <Syulipia_WrappingSlime.lifeStages.0.labelPlural>래핑 슬라임들</Syulipia_WrappingSlime.lifeStages.0.labelPlural>
+  <Syulipia_WrappingSlime.lifeStages.0.labelMale>남성 래핑 슬라임</Syulipia_WrappingSlime.lifeStages.0.labelMale>
+  <Syulipia_WrappingSlime.lifeStages.0.labelMalePlural>남성 래핑 슬라임들</Syulipia_WrappingSlime.lifeStages.0.labelMalePlural>
+  <Syulipia_WrappingSlime.lifeStages.0.labelFemale>여성 래핑 슬라임</Syulipia_WrappingSlime.lifeStages.0.labelFemale>
+  <Syulipia_WrappingSlime.lifeStages.0.labelFemalePlural>여성 래핑 슬라임들</Syulipia_WrappingSlime.lifeStages.0.labelFemalePlural>
+  <Syulipia_WrappingSlime.lifeStages.1.label>래핑 슬라임</Syulipia_WrappingSlime.lifeStages.1.label>
+  <Syulipia_WrappingSlime.lifeStages.1.labelPlural>래핑 슬라임들</Syulipia_WrappingSlime.lifeStages.1.labelPlural>
+  <Syulipia_WrappingSlime.lifeStages.1.labelMale>남성 래핑 슬라임</Syulipia_WrappingSlime.lifeStages.1.labelMale>
+  <Syulipia_WrappingSlime.lifeStages.1.labelMalePlural>남성 래핑 슬라임들</Syulipia_WrappingSlime.lifeStages.1.labelMalePlural>
+  <Syulipia_WrappingSlime.lifeStages.1.labelFemale>여성 래핑 슬라임</Syulipia_WrappingSlime.lifeStages.1.labelFemale>
+  <Syulipia_WrappingSlime.lifeStages.1.labelFemalePlural>여성 래핑 슬라임들</Syulipia_WrappingSlime.lifeStages.1.labelFemalePlural>
+  <Syulipia_WrappingSlime.lifeStages.2.label>래핑 슬라임</Syulipia_WrappingSlime.lifeStages.2.label>
+  <Syulipia_WrappingSlime.lifeStages.2.labelPlural>래핑 슬라임들</Syulipia_WrappingSlime.lifeStages.2.labelPlural>
+  <Syulipia_WrappingSlime.lifeStages.2.labelMale>남성 래핑 슬라임</Syulipia_WrappingSlime.lifeStages.2.labelMale>
+  <Syulipia_WrappingSlime.lifeStages.2.labelMalePlural>남성 래핑 슬라임들</Syulipia_WrappingSlime.lifeStages.2.labelMalePlural>
+  <Syulipia_WrappingSlime.lifeStages.2.labelFemale>여성 래핑 슬라임</Syulipia_WrappingSlime.lifeStages.2.labelFemale>
+  <Syulipia_WrappingSlime.lifeStages.2.labelFemalePlural>여성 래핑 슬라임들</Syulipia_WrappingSlime.lifeStages.2.labelFemalePlural>
+  <Syulipia_WrappingSlime.labelMale>남성 래핑 슬라임</Syulipia_WrappingSlime.labelMale>
+  <Syulipia_WrappingSlime.labelMalePlural>남성 래핑 슬라임들</Syulipia_WrappingSlime.labelMalePlural>
+  <Syulipia_WrappingSlime.labelFemale>여성 래핑 슬라임</Syulipia_WrappingSlime.labelFemale>
+  <Syulipia_WrappingSlime.labelFemalePlural>여성 래핑 슬라임들</Syulipia_WrappingSlime.labelFemalePlural>
+
+</LanguageData>

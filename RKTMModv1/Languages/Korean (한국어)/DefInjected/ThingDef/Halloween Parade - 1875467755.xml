@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HalloweenParadeFilthBlood.label>마법의 잔재</HalloweenParadeFilthBlood.label>
+  <FlowerGrave.label>꽃 무덤</FlowerGrave.label>
+  <FlowerGrave.description>괜찮은 마지막 휴식 장소. 식민지 주민들은 명상의 기쁨을 얻기 위해 무덤 전체를 방문할 것입니다.</FlowerGrave.description>
+  <FlowerTabletGrave.label>꽃 널판 무덤</FlowerTabletGrave.label>
+  <FlowerTabletGrave.description>괜찮은 마지막 휴식 장소. 식민지 주민들은 명상의 기쁨을 얻기 위해 무덤 전체를 방문할 것입니다.</FlowerTabletGrave.description>
+  <FlowerJPstyleGrave.label>일본식 꽃 무덤</FlowerJPstyleGrave.label>
+  <FlowerJPstyleGrave.description>괜찮은 마지막 휴식 장소. 식민지 주민들은 명상의 기쁨을 얻기 위해 무덤 전체를 방문 할 것입니다. 그런데 왜 그런 곳에 일본식 무덤이 있습니까?</FlowerJPstyleGrave.description>
+  <FlowerAncientCrossGrave.label>꽃 고대 십자가 무덤</FlowerAncientCrossGrave.label>
+  <FlowerAncientCrossGrave.description>괜찮은 마지막 휴식 장소. 식민지 주민들은 명상의 기쁨을 얻기 위해 무덤 전체를 방문할 것입니다.</FlowerAncientCrossGrave.description>
+  <CursedGrave.label>저주받은 무덤</CursedGrave.label>
+  <CursedGrave.description>괜찮은 마지막 휴식 장소. 식민지 주민들은 명상의 기쁨을 얻기 위해 무덤 전체를 방문할 것입니다.</CursedGrave.description>
+  <CursedGrave.comps.1.offMessage>조금 불편해 …</CursedGrave.comps.1.offMessage>
+  <CursedTabletGrave.label>저주받은 널판 무덤</CursedTabletGrave.label>
+  <CursedTabletGrave.description>괜찮은 마지막 휴식 장소. 식민지 주민들은 명상의 기쁨을 얻기 위해 무덤 전체를 방문할 것입니다.</CursedTabletGrave.description>
+  <CursedTabletGrave.comps.1.offMessage>조금 불편해 …</CursedTabletGrave.comps.1.offMessage>
+  <CursedJPstyleGrave.label>저주받은 일본식 꽃 무덤</CursedJPstyleGrave.label>
+  <CursedJPstyleGrave.description>괜찮은 마지막 휴식 장소. 식민지 주민들은 명상의 기쁨을 얻기 위해 무덤 전체를 방문 할 것입니다. 그런데 왜 그런 곳에 일본식 무덤이 있습니까?</CursedJPstyleGrave.description>
+  <CursedJPstyleGrave.comps.1.offMessage>조금 불편해 …</CursedJPstyleGrave.comps.1.offMessage>
+  <CursedAncientCrossGrave.label>저주받은 고대 십자가 무덤</CursedAncientCrossGrave.label>
+  <CursedAncientCrossGrave.description>괜찮은 마지막 휴식 장소. 식민지 주민들은 명상의 기쁨을 얻기 위해 무덤 전체를 방문할 것입니다.</CursedAncientCrossGrave.description>
+  <CursedAncientCrossGrave.comps.1.offMessage>조금 불편해 …</CursedAncientCrossGrave.comps.1.offMessage>
+  <ExorciseCandle.label>내쫓는 양초</ExorciseCandle.label>
+  <ExorciseCandle.description>허수아비의 촛불입니다. 마법의 힘이 실제로 작동하는지 여부는 알 수 없지만 신비한 푸른 불꽃에는 열이 없으며 주변을 밝게 비춥니다. 잠시 후 화상을 입을 수 있습니다.</ExorciseCandle.description>
+  <magic_candy.label>마법의 사탕</magic_candy.label>
+  <magic_candy.description>오래된 잭 오 랜턴의 마법 사탕. 이 사탕의 단맛은 마법의 힘이 무한대로 증가하여 먹을 때 뇌에 신비한 영향을 미치는 것으로 보입니다. 웃는 얼굴의 호박은 미소로 어려운 것을 극복하는 비결을 알고있었습니다.</magic_candy.description>
+  <magic_candy.comps.2.useLabel>사탕을 먹어서 {0} 기술을 배웁니다.</magic_candy.comps.2.useLabel>
+  <magic_marshmallow.label>마법의 마시멜로우</magic_marshmallow.label>
+  <magic_marshmallow.description>오래된 잭 오 랜턴의 마법의 마시멜로우. 마법의 힘이 무한대로 증가하는 이 마쉬멜로우는 먹을 때 입술에 부드럽고 온건하게 닿습니다. 슬픈 얼굴 호박은 통증을 알고 있기 때문에 통증을 치료하는 방법을 알고있었습니다.</magic_marshmallow.description>
+  <magic_marshmallow.comps.2.useLabel>마법의 마시멜로우 먹기</magic_marshmallow.comps.2.useLabel>
+  <magic_cookies.label>마법의 쿠키</magic_cookies.label>
+  <magic_cookies.description>오래된 잭 오 랜턴의 마법 쿠키. 마법의 힘이 무한대로 증가하는 이 쿠키는 먹을 때 바삭하고 바삭 바삭한 느낌으로 기분이 좋아집니다. 화난 얼굴 호박은 귀중한 사람을 빼앗아 다시 가져오는 방법을 알지 못했습니다.</magic_cookies.description>
+  <magic_cookies.comps.2.useLabel>마법의 쿠키 먹기</magic_cookies.comps.2.useLabel>
+  <PumpkinHull.label>호박 껍질</PumpkinHull.label>
+  <PumpkinHull.description>그것은 단지 호박 껍질입니다. 가축 사료로 쓸 수 있을 것 같습니다.</PumpkinHull.description>
+  <HalloweenCandy.label>핼로윈 사탕</HalloweenCandy.label>
+  <HalloweenCandy.description>화려한 포장의 사탕. 레몬, 망고, 포도, 카라멜 ... 많은 맛!</HalloweenCandy.description>
+  <ObakeMarshmallow.label>유령 마시멜로우</ObakeMarshmallow.label>
+  <ObakeMarshmallow.description>푹신한 부드러운 마시멜로. 먹기 전에 유령의 얼굴을 꼬집고 당기고 놀아요.</ObakeMarshmallow.description>
+  <PumpkinCookie.label>호박 쿠키</PumpkinCookie.label>
+  <PumpkinCookie.description>달콤한 호박이 많이 들어간 바삭 바삭한 쿠키. 다양한 표현의 얼굴이 코코아로 그려져 있습니다.</PumpkinCookie.description>
+  <AutumnMushroom.label>가을 버섯</AutumnMushroom.label>
+  <AutumnMushroom.description>움직이는 신비한 버섯이 버섯을 모았습니다. 약간 독성이 있는 색이 섞여 있지만 놀라울 정도로 맛있습니다.</AutumnMushroom.description>
+  <AutumnFruit.label>가을 과일</AutumnFruit.label>
+  <AutumnFruit.description>박쥐가 수집한 다양한 향기로운 과일. 모두 달콤하고 맛있습니다.</AutumnFruit.description>
+
+  <FunnyFungus.label>재미있는 버섯</FunnyFungus.label>
+  <FunnyFungus.description>오래된 숲의 마법과 함께 움직이기 시작한 신비한 버섯. 이상하게도, 산림 버섯은 창고에 열정적으로 모여서 인간을 위한 선물로 부드럽게 놓여있는 것 같습니다.</FunnyFungus.description>
+  <FunnyFungus.tools.0.label>머리</FunnyFungus.tools.0.label>
+
+  <Ghost.label>유령</Ghost.label>
+  <Ghost.description>할로윈의 마법으로 움직이기 시작한 천 유령입니다. 특히 나쁘지는 않지만 주변에 있을 때 주변 공기가 시원하게 느껴지는 것 같습니다. 부드럽게 떠다니는 마법의 힘이 짐을 운반하는 데 사용되는 것 같습니다...?</Ghost.description>
+  <Ghost.tools.0.label>왼손</Ghost.tools.0.label>
+  <Ghost.tools.1.label>오른손</Ghost.tools.1.label>
+
+  <HalloweenBat.label>핼로윈 박쥐</HalloweenBat.label>
+  <HalloweenBat.description>오래된 숲의 박쥐. 정말 친절하며 바구니에 숲의 과일을 모아서 사람을 위한 선물로 부드럽게 넣습니다.</HalloweenBat.description>
+  <HalloweenBat.tools.0.label>머리</HalloweenBat.tools.0.label>
+  <HalloweenBat_Leather.label>핼로윈 박쥐 가죽</HalloweenBat_Leather.label>
+  <HalloweenBat_Leather.description>핼로윈 박쥐 가죽</HalloweenBat_Leather.description>
+
+  <PumpkinAnger.label>화난 얼굴 잭 오 랜턴</PumpkinAnger.label>
+  <PumpkinAnger.description>누군가가 할로윈 시즌에 만든 호박 장식에 마법을 건 것 같습니다. 움직이기 시작한 이 호박은 특별히 아무 것도 하지 않지만 때로는 할로윈 사탕을 떨어뜨립니다. 성년의 화난 얼굴 호박 중 일부는 마법의 바삭한 호박 쿠키로 가득합니다 …</PumpkinAnger.description>
+  <PumpkinAnger.tools.0.label>머리</PumpkinAnger.tools.0.label>
+
+  <PumpkinSad.label>슬픈 얼굴 잭 오 랜턴</PumpkinSad.label>
+  <PumpkinSad.description>누군가가 할로윈 시즌에 만든 호박 장식에 마법을 건 것 같습니다. 움직이기 시작한 이 호박은 특별히 아무 것도 하지 않지만 때로는 할로윈 사탕을 떨어뜨립니다. 성년의 슬픈 얼굴 호박에는 마법의 솜털 유령 마시멜로가 많이 있습니다...</PumpkinSad.description>
+  <PumpkinSad.tools.0.label>머리</PumpkinSad.tools.0.label>
+
+  <PumpkinSmile.label>웃는 얼굴 잭 오 랜턴</PumpkinSmile.label>
+  <PumpkinSmile.description>누군가가 할로윈 시즌에 만든 호박 장식에 마법을 건 것 같습니다. 움직이기 시작한 이 호박은 특별히 아무 것도 하지 않지만 때로는 할로윈 사탕을 떨어뜨립니다. 성년의 웃는 얼굴 호박에는 마법의 화려한 사탕이 많이 있습니다...</PumpkinSmile.description>
+  <PumpkinSmile.tools.0.label>머리</PumpkinSmile.tools.0.label>
+
+  <Reaper.label>사신</Reaper.label>
+  <Reaper.description>기발하게 걷는 영혼을 수확하는 사신.</Reaper.description>
+  <Reaper.tools.0.label>왼손 발톱</Reaper.tools.0.label>
+  <Reaper.tools.1.label>오른손 낫</Reaper.tools.1.label>
+
+  <Scarecrow.label>허수아비</Scarecrow.label>
+  <Scarecrow.description>할로윈의 마법으로 움직이기 시작한 허수아비 유령. 신비로운 마법으로 뛰어다니고 있습니다. 어떤 이유로, 그것은 임무로 가득 차 있는 것 같습니다. 까마귀뿐만 아니라 악마도 제거하기 위해 가끔 내쫓는 양초를 설치하는 것 같습니다.</Scarecrow.description>
+  <Scarecrow.tools.0.label>왼손</Scarecrow.tools.0.label>
+  <Scarecrow.tools.1.label>오른손</Scarecrow.tools.1.label>
+
+</LanguageData>

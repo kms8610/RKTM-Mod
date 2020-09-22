@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchProject_RTEmergencyPower.label>비상 전원</ResearchProject_RTEmergencyPower.label>
+  <ResearchProject_RTEmergencyPower.description>인접한 전기 회로의 전원이 거의 소모되면 자동으로 켜지고, 연결된 축전지가 완전히 충전되면 다시 꺼지게 할 수 있습니다.\n\n그러나 이 모든 동작들은 즉각적인 것이 아니므로 스위치에 연결된 모든 회로에는 축전지가 하나 이상 있는 것이 좋습니다.</ResearchProject_RTEmergencyPower.description>
+
+</LanguageData>

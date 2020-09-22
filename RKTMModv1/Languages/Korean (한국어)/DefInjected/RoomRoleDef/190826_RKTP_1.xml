@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1076950211_190811_Therapy-->
+  <TherapyOffice.label>상담실</TherapyOffice.label>
+
+  <!--1440321094_190519_Auto Seller-->
+  <ASCommsRoom.label>통신실</ASCommsRoom.label>
+
+  <!--1543060282_181101_Additional Joy Objects-->
+  <AJO_Library.label>도서관</AJO_Library.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <Church.label>신전</Church.label>
+
+  <!--1778162471_190626_RazzleDazzle-->
+  <Theatre.label>극장</Theatre.label>
+  <ConcertHall.label>콘서트 홀</ConcertHall.label>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Cults_Temple.label>신전</Cults_Temple.label>
+
+  <!--1552507180_190814_Psychology-->
+  <Office.label>사무실</Office.label>
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Project Fallout - 725471844 -->
+  <PFBrahmin.labelMale>브라민</PFBrahmin.labelMale>
+  <PFBrahmin.labelMalePlural>브라민</PFBrahmin.labelMalePlural>
+  <PFBrahmin.labelFemale>브라민</PFBrahmin.labelFemale>
+  <PFBrahmin.labelFemalePlural>브라민</PFBrahmin.labelFemalePlural>
+  <PFBighorner.labelMale>빅호너</PFBighorner.labelMale>
+  <PFBighorner.labelMalePlural>빅호너</PFBighorner.labelMalePlural>
+  <PFBighorner.labelFemale>빅호너</PFBighorner.labelFemale>
+  <PFBighorner.labelFemalePlural>빅호너</PFBighorner.labelFemalePlural>
+
+  <!-- Vanilla Animals Expanded — Arid Shrubland - 1836900626 -->
+  <AEXP_Giraffe.labelPlural>기린들</AEXP_Giraffe.labelPlural>
+  <AEXP_Zebra.lifeStages.0.label>얼룩말</AEXP_Zebra.lifeStages.0.label>
+  <AEXP_Zebra.lifeStages.0.labelPlural>얼룩말</AEXP_Zebra.lifeStages.0.labelPlural>
+  <AEXP_Wildebeest.labelMale>누</AEXP_Wildebeest.labelMale>
+  <AEXP_Wildebeest.labelMalePlural>누</AEXP_Wildebeest.labelMalePlural>
+  <AEXP_Wildebeest.labelFemale>누</AEXP_Wildebeest.labelFemale>
+  <AEXP_Wildebeest.labelFemalePlural>누</AEXP_Wildebeest.labelFemalePlural>
+
+  <!-- Vanilla Animals Expanded — Boreal Forest - 1895364938 -->
+  <AEXP_ArcticCoyote.labelPlural>북극 코요테</AEXP_ArcticCoyote.labelPlural>
+
+  <!-- Vanilla Animals Expanded — Tundra - 1895364585 -->
+  <AEXP_Moose.label>무스</AEXP_Moose.label>
+  <AEXP_Moose.labelPlural>무스</AEXP_Moose.labelPlural>
+
+</LanguageData>

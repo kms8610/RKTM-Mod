@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <KLK_SYBbase.label>카무이 센케츠</KLK_SYBbase.label>
+  <KLK_SYBbase.description>류코의 교복입니다. 센케츠(Senketsu)는 네이비 블루와 레드의 교복인 것으로 보입니다. 피를 빨아들여 "카무이"모드로 바꿀 수 있으며, 가위 검으로 적의 옷을 파괴한 후 센케츠는 생명 섬유 동기화를 받고 출혈을 줄입니다.</KLK_SYBbase.description>
+  <KLK_SYBactive.label>카무이 센케츠(공개 형태)</KLK_SYBactive.label>
+  <KLK_SYBactive.description>완전히 생명 섬유로 만들어진 류코의 카무이. 카무이는 피를 먹어야 하고, 착용자는 단시간에 초능력을 얻게 됩니다. 가위검으로 적의 옷을 파괴한 후 센케츠는 센케츠는 생명 섬유 동기화를 받고 출혈을 줄입니다.</KLK_SYBactive.description>
+  <ScissorBlade.label>가위 검</ScissorBlade.label>
+  <ScissorBlade.description>류코의 무기, 가위의 칼날. 아버지가 남긴 유물입니다. 가위는 적의 옷을 파괴할 수 있습니다.</ScissorBlade.description>
+  <ScissorBlade.tools.0.label>손잡이</ScissorBlade.tools.0.label>
+  <ScissorBlade.tools.1.label>날</ScissorBlade.tools.1.label>
+  <ScissorBlade.tools.2.label>최고의 기술 - 가위 블레이드 제거 모드</ScissorBlade.tools.2.label>
+  <ScissorBlade.tools.3.label>섬유 손실</ScissorBlade.tools.3.label>
+
+</LanguageData>

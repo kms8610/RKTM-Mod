@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1140051385_181113_Smokeleaf_Industry-->
+  <AdvancedEdibles.label>고급 연초 식품</AdvancedEdibles.label>
+  <CHO.label>C.H.O.</CHO.label>
+  <CrudeJoint.label>간이 연초</CrudeJoint.label>
+  <Edibles.label>연초 식품</Edibles.label>
+  <Hash.label>해쉬</Hash.label>
+  <Cannagar.label>연초잎 시가</Cannagar.label>
+  <SmokeleafDistillate.label>연초잎 증류액</SmokeleafDistillate.label>
+
+  <!--1187010034_181028_Rim of Madness - Vampires-->
+  <ROMV_VitaeChemical.label>생명혈</ROMV_VitaeChemical.label>
+
+  <!--1364582731_190615_Medicines-->
+  <Adrenaline.label>아드레날린</Adrenaline.label>
+  <Joy.label>조이</Joy.label>
+  <Peyote.label>페요테</Peyote.label>
+  <opioid.label>아편</opioid.label>
+
+  <!--1485312620_190617_SYR - Coffee and Tee-->
+  <SyrCaffeine.label>카페인</SyrCaffeine.label>
+
+  <!--1543060282_181101_Additional Joy Objects-->
+  <Perodyne.label>페로다인</Perodyne.label>
+
+  <!--1559034352_181116_Diseases overhauled-->
+  <Mortracain.label>몰트라카인</Mortracain.label>
+  <Tranquiazepin.label>트랜퀴아제핀</Tranquiazepin.label>
+
+  <!--1560792909_181119_BloodTypes + BloodBag-->
+  <Blood.label>피</Blood.label>
+
+  <!--1563793492_190519_Milkable Colonists-->
+  <Lact-X.label>Lact-X</Lact-X.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <Faith.label>믿음</Faith.label>
+
+  <!--775650249_181117_RimMagic-->
+  <BloodChem.label>피</BloodChem.label>
+
+  <!--1552507180_190814_Psychology-->
+  <Methadone.label>메타돈</Methadone.label>
+
+</LanguageData>

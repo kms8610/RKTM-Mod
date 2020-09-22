@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimWriterNameUtility.rulePack.rulesStrings.0>book_name_numeric->[maybe_letter][Digit][maybe_letter]</RimWriterNameUtility.rulePack.rulesStrings.0>
+  <RimWriterNameUtility.rulePack.rulesStrings.1>book_name_numeric->[maybe_letter][Digit][Digit][maybe_letter]</RimWriterNameUtility.rulePack.rulesStrings.1>
+  <RimWriterNameUtility.rulePack.rulesStrings.2>book_name_numeric->[maybe_letter][Digit][Digit][Digit][maybe_letter]</RimWriterNameUtility.rulePack.rulesStrings.2>
+  <RimWriterNameUtility.rulePack.rulesStrings.3>book_name_numeric->[maybe_letter][RomanNumeral][maybe_letter]</RimWriterNameUtility.rulePack.rulesStrings.3>
+  <RimWriterNameUtility.rulePack.rulesStrings.4>book_name_numeric->[maybe_letter][RomanNumeral][Digit][maybe_letter]</RimWriterNameUtility.rulePack.rulesStrings.4>
+  <RimWriterNameUtility.rulePack.rulesStrings.5>book_name_numeric->[maybe_letter][Digit][RomanNumeral][maybe_letter]</RimWriterNameUtility.rulePack.rulesStrings.5>
+  <RimWriterNameUtility.rulePack.rulesStrings.6>book_name_numeric->[maybe_letter][Digit][RomanNumeral][Digit][maybe_letter]</RimWriterNameUtility.rulePack.rulesStrings.6>
+  <RimWriterNameUtility.rulePack.rulesStrings.7>book_name_numeric->[maybe_letter][RomanNumeral][Digit][RomanNumeral][maybe_letter]</RimWriterNameUtility.rulePack.rulesStrings.7>
+  <RimWriterNameUtility.rulePack.rulesStrings.8>book_name_numeric->[maybe_letter][RomanNumeral][Digit][Digit][RomanNumeral][maybe_letter]</RimWriterNameUtility.rulePack.rulesStrings.8>
+  <RimWriterNameUtility.rulePack.rulesStrings.9>maybe_letter(p=8)-></RimWriterNameUtility.rulePack.rulesStrings.9>
+  <RimWriterNameUtility.rulePack.rulesStrings.10>maybe_letter->[Letter]</RimWriterNameUtility.rulePack.rulesStrings.10>
+  <RimWriterNameUtility.rulePack.rulesStrings.11>maybe_letter->[Letter][Letter]</RimWriterNameUtility.rulePack.rulesStrings.11>
+  <RimWriterNameUtility.rulePack.rulesStrings.12>maybe_a(p=3)-></RimWriterNameUtility.rulePack.rulesStrings.12>
+  <RimWriterNameUtility.rulePack.rulesStrings.13>maybe_a->한</RimWriterNameUtility.rulePack.rulesStrings.13>
+  <RimWriterNameUtility.rulePack.rulesStrings.14>maybe_adjective(p=5)-></RimWriterNameUtility.rulePack.rulesStrings.14>
+  <RimWriterNameUtility.rulePack.rulesStrings.15>maybe_adjective(p=2)->[AdjectiveAngsty]</RimWriterNameUtility.rulePack.rulesStrings.15>
+  <RimWriterNameUtility.rulePack.rulesStrings.16>maybe_adjective->[AdjectiveBadass]</RimWriterNameUtility.rulePack.rulesStrings.16>
+  <RimWriterNameUtility.rulePack.rulesStrings.17>maybe_adjective->[Color]</RimWriterNameUtility.rulePack.rulesStrings.17>
+  <RimWriterNamerBook.rulePack.rulesStrings.0>r_art_name(p=4)->[ConceptAny]</RimWriterNamerBook.rulePack.rulesStrings.0>
+  <RimWriterNamerBook.rulePack.rulesStrings.1>r_art_name(p=4)->[BookTitle] [Trans] [ConceptAny]</RimWriterNamerBook.rulePack.rulesStrings.1>
+  <RimWriterNamerBook.rulePack.rulesStrings.2>r_art_name(p=4)->[BookTitle] [Trans] [ConceptAny]</RimWriterNamerBook.rulePack.rulesStrings.2>
+  <RimWriterNamerBook.rulePack.rulesStrings.3>r_art_name(p=4)->[maybe_a] [maybe_adjective] [BookTitle]</RimWriterNamerBook.rulePack.rulesStrings.3>
+  <RimWriterNamerBook.rulePack.rulesStrings.4>r_art_name->[maybe_a] [maybe_adjective] [ConceptAny]</RimWriterNamerBook.rulePack.rulesStrings.4>
+  <RimWriterNamerBook.rulePack.rulesStrings.5>r_art_name->[maybe_a] [maybe_adjective] [TerrainFeature]</RimWriterNamerBook.rulePack.rulesStrings.5>
+  <RimWriterNamerBook.rulePack.rulesStrings.6>r_art_name->[maybe_a] [maybe_adjective] [Vegetable]</RimWriterNamerBook.rulePack.rulesStrings.6>
+  <RimWriterNamerBook.rulePack.rulesStrings.7>r_art_name->[maybe_a] [maybe_adjective] [Game]</RimWriterNamerBook.rulePack.rulesStrings.7>
+  <RimWriterNamerBook.rulePack.rulesStrings.8>r_art_name->[maybe_a] [maybe_adjective] [Animal]</RimWriterNamerBook.rulePack.rulesStrings.8>
+  <RimWriterNamerBook.rulePack.rulesStrings.9>r_art_name->[maybe_a] [maybe_adjective] [Gore]</RimWriterNamerBook.rulePack.rulesStrings.9>
+  <RimWriterNamerBook.rulePack.rulesStrings.10>r_art_name->[maybe_a] [maybe_adjective] [NaturalObject]</RimWriterNamerBook.rulePack.rulesStrings.10>
+  <RimWriterNamerBook.rulePack.rulesStrings.11>r_art_name->[maybe_a] [maybe_adjective] [PersonFamily]</RimWriterNamerBook.rulePack.rulesStrings.11>
+  <RimWriterNamerBook.rulePack.rulesStrings.12>r_art_name->[maybe_a] [maybe_adjective] [Enemy]</RimWriterNamerBook.rulePack.rulesStrings.12>
+  <RimWriterNamerBook.rulePack.rulesStrings.13>r_art_name(p=6)->[ANYPAWN_nameIndef]의 [BookTitle]</RimWriterNamerBook.rulePack.rulesStrings.13>
+  <RimWriterNamerBook.rulePack.rulesStrings.14>r_art_name(p=3)->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]</RimWriterNamerBook.rulePack.rulesStrings.14>
+  <RimWriterNamerBook.rulePack.rulesStrings.15>r_art_name(p=3)->[ANYPAWN_nameIndef]의 [PersonalCharacteristic]</RimWriterNamerBook.rulePack.rulesStrings.15>
+  <RimWriterNamerBook.rulePack.rulesStrings.16>r_art_name(p=3)->[ANYPAWN_nameIndef]의 [PersonalCharacteristic]</RimWriterNamerBook.rulePack.rulesStrings.16>
+  <RimWriterNamerBook.rulePack.rulesStrings.17>r_art_name(p=3)->[ConceptAny] [Trans] [ANYPAWN_nameIndef]</RimWriterNamerBook.rulePack.rulesStrings.17>
+  <RimWriterNamerBook.rulePack.rulesStrings.18>r_art_name(p=3)->[maybe_a] [BookTitle] [Trans] [ANYPAWN_nameIndef]</RimWriterNamerBook.rulePack.rulesStrings.18>
+  <RimWriterNamerScroll.rulePack.rulesStrings.0>r_art_name(p=4)->[ConceptAny]</RimWriterNamerScroll.rulePack.rulesStrings.0>
+  <RimWriterNamerScroll.rulePack.rulesStrings.1>r_art_name(p=4)->[ScrollTitle] [Trans] [ConceptAny]</RimWriterNamerScroll.rulePack.rulesStrings.1>
+  <RimWriterNamerScroll.rulePack.rulesStrings.2>r_art_name(p=4)->[ScrollTitle] [Trans] [ConceptAny]</RimWriterNamerScroll.rulePack.rulesStrings.2>
+  <RimWriterNamerScroll.rulePack.rulesStrings.3>r_art_name(p=4)->[maybe_a] [maybe_adjective] [ScrollTitle]</RimWriterNamerScroll.rulePack.rulesStrings.3>
+  <RimWriterNamerScroll.rulePack.rulesStrings.4>r_art_name->[maybe_a] [maybe_adjective] [ConceptAny]</RimWriterNamerScroll.rulePack.rulesStrings.4>
+  <RimWriterNamerScroll.rulePack.rulesStrings.5>r_art_name->[maybe_a] [maybe_adjective] [TerrainFeature]</RimWriterNamerScroll.rulePack.rulesStrings.5>
+  <RimWriterNamerScroll.rulePack.rulesStrings.6>r_art_name->[maybe_a] [maybe_adjective] [Vegetable]</RimWriterNamerScroll.rulePack.rulesStrings.6>
+  <RimWriterNamerScroll.rulePack.rulesStrings.7>r_art_name->[maybe_a] [maybe_adjective] [Game]</RimWriterNamerScroll.rulePack.rulesStrings.7>
+  <RimWriterNamerScroll.rulePack.rulesStrings.8>r_art_name->[maybe_a] [maybe_adjective] [Animal]</RimWriterNamerScroll.rulePack.rulesStrings.8>
+  <RimWriterNamerScroll.rulePack.rulesStrings.9>r_art_name->[maybe_a] [maybe_adjective] [Gore]</RimWriterNamerScroll.rulePack.rulesStrings.9>
+  <RimWriterNamerScroll.rulePack.rulesStrings.10>r_art_name->[maybe_a] [maybe_adjective] [NaturalObject]</RimWriterNamerScroll.rulePack.rulesStrings.10>
+  <RimWriterNamerScroll.rulePack.rulesStrings.11>r_art_name->[maybe_a] [maybe_adjective] [PersonFamily]</RimWriterNamerScroll.rulePack.rulesStrings.11>
+  <RimWriterNamerScroll.rulePack.rulesStrings.12>r_art_name->[maybe_a] [maybe_adjective] [Enemy]</RimWriterNamerScroll.rulePack.rulesStrings.12>
+  <RimWriterNamerScroll.rulePack.rulesStrings.13>r_art_name(p=6)->[ANYPAWN_nameIndef]의 [ScrollTitle]</RimWriterNamerScroll.rulePack.rulesStrings.13>
+  <RimWriterNamerScroll.rulePack.rulesStrings.14>r_art_name(p=3)->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]</RimWriterNamerScroll.rulePack.rulesStrings.14>
+  <RimWriterNamerScroll.rulePack.rulesStrings.15>r_art_name(p=3)->[ANYPAWN_nameIndef]의 [PersonalCharacteristic]</RimWriterNamerScroll.rulePack.rulesStrings.15>
+  <RimWriterNamerScroll.rulePack.rulesStrings.16>r_art_name(p=3)->[ANYPAWN_nameIndef]의 [PersonalCharacteristic]</RimWriterNamerScroll.rulePack.rulesStrings.16>
+  <RimWriterNamerScroll.rulePack.rulesStrings.17>r_art_name(p=3)->[ConceptAny] [Trans] [ANYPAWN_nameIndef]</RimWriterNamerScroll.rulePack.rulesStrings.17>
+  <RimWriterNamerScroll.rulePack.rulesStrings.18>r_art_name(p=3)->[maybe_a] [ScrollTitle] [Trans] [ANYPAWN_nameIndef]</RimWriterNamerScroll.rulePack.rulesStrings.18>
+  <RimWriterNamerTablet.rulePack.rulesStrings.0>r_art_name(p=4)->[ConceptAny]</RimWriterNamerTablet.rulePack.rulesStrings.0>
+  <RimWriterNamerTablet.rulePack.rulesStrings.1>r_art_name(p=4)->[TabletTitle] [Trans] [ConceptAny]</RimWriterNamerTablet.rulePack.rulesStrings.1>
+  <RimWriterNamerTablet.rulePack.rulesStrings.2>r_art_name(p=4)->[TabletTitle] [Trans] [ConceptAny]</RimWriterNamerTablet.rulePack.rulesStrings.2>
+  <RimWriterNamerTablet.rulePack.rulesStrings.3>r_art_name(p=4)->[maybe_a] [maybe_adjective] [TabletTitle]</RimWriterNamerTablet.rulePack.rulesStrings.3>
+  <RimWriterNamerTablet.rulePack.rulesStrings.4>r_art_name->[maybe_a] [maybe_adjective] [ConceptAny]</RimWriterNamerTablet.rulePack.rulesStrings.4>
+  <RimWriterNamerTablet.rulePack.rulesStrings.5>r_art_name->[maybe_a] [maybe_adjective] [TerrainFeature]</RimWriterNamerTablet.rulePack.rulesStrings.5>
+  <RimWriterNamerTablet.rulePack.rulesStrings.6>r_art_name->[maybe_a] [maybe_adjective] [Vegetable]</RimWriterNamerTablet.rulePack.rulesStrings.6>
+  <RimWriterNamerTablet.rulePack.rulesStrings.7>r_art_name->[maybe_a] [maybe_adjective] [Game]</RimWriterNamerTablet.rulePack.rulesStrings.7>
+  <RimWriterNamerTablet.rulePack.rulesStrings.8>r_art_name->[maybe_a] [maybe_adjective] [Animal]</RimWriterNamerTablet.rulePack.rulesStrings.8>
+  <RimWriterNamerTablet.rulePack.rulesStrings.9>r_art_name->[maybe_a] [maybe_adjective] [Gore]</RimWriterNamerTablet.rulePack.rulesStrings.9>
+  <RimWriterNamerTablet.rulePack.rulesStrings.10>r_art_name->[maybe_a] [maybe_adjective] [NaturalObject]</RimWriterNamerTablet.rulePack.rulesStrings.10>
+  <RimWriterNamerTablet.rulePack.rulesStrings.11>r_art_name->[maybe_a] [maybe_adjective] [PersonFamily]</RimWriterNamerTablet.rulePack.rulesStrings.11>
+  <RimWriterNamerTablet.rulePack.rulesStrings.12>r_art_name->[maybe_a] [maybe_adjective] [Enemy]</RimWriterNamerTablet.rulePack.rulesStrings.12>
+  <RimWriterNamerTablet.rulePack.rulesStrings.13>r_art_name(p=6)->[ANYPAWN_nameIndef]의 [TabletTitle]</RimWriterNamerTablet.rulePack.rulesStrings.13>
+  <RimWriterNamerTablet.rulePack.rulesStrings.14>r_art_name(p=3)->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]</RimWriterNamerTablet.rulePack.rulesStrings.14>
+  <RimWriterNamerTablet.rulePack.rulesStrings.15>r_art_name(p=3)->[ANYPAWN_nameIndef]의 [PersonalCharacteristic]</RimWriterNamerTablet.rulePack.rulesStrings.15>
+  <RimWriterNamerTablet.rulePack.rulesStrings.16>r_art_name(p=3)->[ANYPAWN_nameIndef]의 [PersonalCharacteristic]</RimWriterNamerTablet.rulePack.rulesStrings.16>
+  <RimWriterNamerTablet.rulePack.rulesStrings.17>r_art_name(p=3)->[ConceptAny] [Trans] [ANYPAWN_nameIndef]</RimWriterNamerTablet.rulePack.rulesStrings.17>
+  <RimWriterNamerTablet.rulePack.rulesStrings.18>r_art_name(p=3)->[maybe_a] [TabletTitle] [Trans] [ANYPAWN_nameIndef]</RimWriterNamerTablet.rulePack.rulesStrings.18>
+  <RimWriterNamerJournal.rulePack.rulesStrings.0>r_art_name(p=4)->[JournalTitle] [Trans] [ConceptAny]</RimWriterNamerJournal.rulePack.rulesStrings.0>
+  <RimWriterNamerJournal.rulePack.rulesStrings.1>r_art_name(p=4)->[maybe_a] [maybe_adjective] [JournalTitle]</RimWriterNamerJournal.rulePack.rulesStrings.1>
+  <RimWriterNamerJournal.rulePack.rulesStrings.2>r_art_name(p=2)->[JournalTitle] [Trans] [ConceptAny] [journal_volume]</RimWriterNamerJournal.rulePack.rulesStrings.2>
+  <RimWriterNamerJournal.rulePack.rulesStrings.3>r_art_name->[book_name_numeric] [Trans] [ANYPAWN_nameIndef]</RimWriterNamerJournal.rulePack.rulesStrings.3>
+  <RimWriterNamerJournal.rulePack.rulesStrings.4>r_art_name(p=6)->[ANYPAWN_nameIndef]의 [JournalTitle]</RimWriterNamerJournal.rulePack.rulesStrings.4>
+  <RimWriterNamerJournal.rulePack.rulesStrings.5>r_art_name(p=3)->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]</RimWriterNamerJournal.rulePack.rulesStrings.5>
+  <RimWriterNamerJournal.rulePack.rulesStrings.6>r_art_name(p=3)->[ANYPAWN_nameIndef]의 [PersonalCharacteristic] [JournalTitle]</RimWriterNamerJournal.rulePack.rulesStrings.6>
+  <RimWriterNamerJournal.rulePack.rulesStrings.7>r_art_name(p=3)->[ConceptAny] [Trans] [ANYPAWN_nameIndef]</RimWriterNamerJournal.rulePack.rulesStrings.7>
+  <RimWriterNamerJournal.rulePack.rulesStrings.8>r_art_name(p=3)->[maybe_a] [JournalTitle] [Trans] [ANYPAWN_nameIndef]</RimWriterNamerJournal.rulePack.rulesStrings.8>
+  <RimWriterNamerJournal.rulePack.rulesStrings.9>journal_volume->제 [book_name_numeric]권</RimWriterNamerJournal.rulePack.rulesStrings.9>
+  <RimWriterNamerJournal.rulePack.rulesStrings.10>journal_volume->개정판 [book_name_numeric]판</RimWriterNamerJournal.rulePack.rulesStrings.10>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.0>book->책</RimWriterNamerWrittenBase.rulePack.rulesStrings.0>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.1>book->소설</RimWriterNamerWrittenBase.rulePack.rulesStrings.1>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.2>book->단편 소설</RimWriterNamerWrittenBase.rulePack.rulesStrings.2>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.3>book->두꺼운 책</RimWriterNamerWrittenBase.rulePack.rulesStrings.3>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.4>written->필기된</RimWriterNamerWrittenBase.rulePack.rulesStrings.4>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.5>written->인쇄된</RimWriterNamerWrittenBase.rulePack.rulesStrings.5>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.6>journal->학술지</RimWriterNamerWrittenBase.rulePack.rulesStrings.6>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.7>journal->일기</RimWriterNamerWrittenBase.rulePack.rulesStrings.7>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.8>journal->회고록</RimWriterNamerWrittenBase.rulePack.rulesStrings.8>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.9>journal->기록</RimWriterNamerWrittenBase.rulePack.rulesStrings.9>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.10>holds->담고 있습니다</RimWriterNamerWrittenBase.rulePack.rulesStrings.10>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.11>holds->담고 있습니다</RimWriterNamerWrittenBase.rulePack.rulesStrings.11>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.12>holds->포함합니다</RimWriterNamerWrittenBase.rulePack.rulesStrings.12>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.13>holds->포함합니다</RimWriterNamerWrittenBase.rulePack.rulesStrings.13>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.14>tells->이야기합니다</RimWriterNamerWrittenBase.rulePack.rulesStrings.14>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.15>tells->다시 들려줍니다</RimWriterNamerWrittenBase.rulePack.rulesStrings.15>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.16>tells->밝힙니다</RimWriterNamerWrittenBase.rulePack.rulesStrings.16>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.17>tells->설명합니다</RimWriterNamerWrittenBase.rulePack.rulesStrings.17>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.18>tells->언급합니다</RimWriterNamerWrittenBase.rulePack.rulesStrings.18>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.19>tells->드러냅니다</RimWriterNamerWrittenBase.rulePack.rulesStrings.19>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.20>tells->알려줍니다</RimWriterNamerWrittenBase.rulePack.rulesStrings.20>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.21>tells->알립니다</RimWriterNamerWrittenBase.rulePack.rulesStrings.21>
+  <RimWriterNamerWrittenBase.rulePack.rulesStrings.22>text->내용</RimWriterNamerWrittenBase.rulePack.rulesStrings.22>
+  <RimWriterArtDescription_Book.rulePack.rulesStrings.0>physical_description_root(p=500)->이 [BookTitle](은)는 [image](을)를 [tells]. [desc_sentence_group]</RimWriterArtDescription_Book.rulePack.rulesStrings.0>
+  <RimWriterArtDescription_Book.rulePack.rulesStrings.1>physical_description_root(p=500)->이 [BookTitle](은)는 한 [image]의 [text]을 [holds]. [desc_sentence_group]</RimWriterArtDescription_Book.rulePack.rulesStrings.1>
+  <RimWriterArtDescription_Book.rulePack.rulesStrings.2>physical_description_root(p=500)->이 [BookTitle](은)는 [image]에 관한 [text]입니다. [desc_sentence_group].</RimWriterArtDescription_Book.rulePack.rulesStrings.2>
+  <RimWriterArtDescription_Journal.rulePack.rulesStrings.0>physical_description_root(p=500)->이 [JournalTitle](은)는 [image](을)를 [tells]. [desc_sentence_group]</RimWriterArtDescription_Journal.rulePack.rulesStrings.0>
+  <RimWriterArtDescription_Journal.rulePack.rulesStrings.1>physical_description_root(p=500)->이 [JournalTitle](은)는 한 [image]에 관한 [text]을 [holds]. [desc_sentence_group]</RimWriterArtDescription_Journal.rulePack.rulesStrings.1>
+  <RimWriterArtDescription_Journal.rulePack.rulesStrings.2>physical_description_root(p=500)->이 [JournalTitle](은)는 [image]에 관한 [text]입니다. [desc_sentence_group]</RimWriterArtDescription_Journal.rulePack.rulesStrings.2>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.0>physical_description_root(p=500)->이 기술서는 몇몇 [simple] 규칙들을 [lays_out]. [rules_sentence_group].</RimWriterArtDescription_Guide.rulePack.rulesStrings.0>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.1>rules_sentence_group->[rule_one]. [exp] [rule_two]. [exp] [rule_three]</RimWriterArtDescription_Guide.rulePack.rulesStrings.1>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.2>rule_one->첫 번째 가르침은 [teaches_to] [rule]</RimWriterArtDescription_Guide.rulePack.rulesStrings.2>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.3>rule_two->다음 가르침은 [teaches_to] [rule]</RimWriterArtDescription_Guide.rulePack.rulesStrings.3>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.4>rule_two->그 다음 장에서는, [teaches_to] [rule]</RimWriterArtDescription_Guide.rulePack.rulesStrings.4>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.5>rule_two->그 후에는, [teaches_to] [rule]</RimWriterArtDescription_Guide.rulePack.rulesStrings.5>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.6>rule_three->가장 중요한 가르침은 [teaches_to] [rule]</RimWriterArtDescription_Guide.rulePack.rulesStrings.6>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.7>exp(p=3)->.</RimWriterArtDescription_Guide.rulePack.rulesStrings.7>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.8>exp->논리가 [hard_to_understand].</RimWriterArtDescription_Guide.rulePack.rulesStrings.8>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.9>exp->논증이 [hard_to_understand].</RimWriterArtDescription_Guide.rulePack.rulesStrings.9>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.10>exp->가르침이 [hard_to_understand].</RimWriterArtDescription_Guide.rulePack.rulesStrings.10>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.11>exp->이 부분은 [hard_to_understand].</RimWriterArtDescription_Guide.rulePack.rulesStrings.11>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.12>hard_to_understand->이해하기 어렵습니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.12>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.13>hard_to_understand->이해하기 쉽습니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.13>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.14>hard_to_understand->파악하기 어렵습니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.14>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.15>hard_to_understand->도통 앞뒤가 안맞습니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.15>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.16>hard_to_understand->막대 그림으로 설명되어 있습니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.16>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.17>hard_to_understand->순서도로 설명되어 있습니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.17>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.18>hard_to_understand->만화로 설명되어 있습니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.18>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.19>hard_to_understand->맞춤법 오류로 가득합니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.19>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.20>simple->간단한</RimWriterArtDescription_Guide.rulePack.rulesStrings.20>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.21>simple->쉬운</RimWriterArtDescription_Guide.rulePack.rulesStrings.21>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.22>simple->어려운</RimWriterArtDescription_Guide.rulePack.rulesStrings.22>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.23>simple->복잡한</RimWriterArtDescription_Guide.rulePack.rulesStrings.23>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.24>lays_out->제시합니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.24>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.25>lays_out->설립합니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.25>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.26>lays_out->확립합니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.26>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.27>lays_out->포함합니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.27>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.28>teaches->교육합니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.28>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.29>teaches->설명합니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.29>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.30>teaches->추천합니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.30>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.31>teaches->권장합니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.31>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.32>teaches->주의합니다</RimWriterArtDescription_Guide.rulePack.rulesStrings.32>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.33>teaches_to(p=0.5)->[teaches].</RimWriterArtDescription_Guide.rulePack.rulesStrings.33>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.34>teaches_to->[students]에게 [teaches].</RimWriterArtDescription_Guide.rulePack.rulesStrings.34>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.35>students->학생들</RimWriterArtDescription_Guide.rulePack.rulesStrings.35>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.36>students->누군가</RimWriterArtDescription_Guide.rulePack.rulesStrings.36>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.37>students->독자들</RimWriterArtDescription_Guide.rulePack.rulesStrings.37>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.38>rule->[situation] [Animal](을)를 절대 믿지 마라.</RimWriterArtDescription_Guide.rulePack.rulesStrings.38>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.39>rule->절대 [PersonJob](이)가 되지 마라.</RimWriterArtDescription_Guide.rulePack.rulesStrings.39>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.40>rule->[situation] [Character](을)를 절대 믿지 마라.</RimWriterArtDescription_Guide.rulePack.rulesStrings.40>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.41>rule->[situation] [PersonalCharacteristic]에 믿음을 가져라.</RimWriterArtDescription_Guide.rulePack.rulesStrings.41>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.42>rule->[situation] [Bodypart]에 믿음을 가져라.</RimWriterArtDescription_Guide.rulePack.rulesStrings.42>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.43>rule->[situation] [ConceptBadass](을)를 따르라.</RimWriterArtDescription_Guide.rulePack.rulesStrings.43>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.44>rule->[situation] [Weapon](을)를 항상 주변에 두어라.</RimWriterArtDescription_Guide.rulePack.rulesStrings.44>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.45>rule->[situation] [Vegetable](을)를 항상 주변에 두어라.</RimWriterArtDescription_Guide.rulePack.rulesStrings.45>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.46>rule->[NaturalObject]들은 항상 [AdjectiveAny]함을 이해하라.</RimWriterArtDescription_Guide.rulePack.rulesStrings.46>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.47>rule->[situation] 숨을 깊게 들이쉬어라.</RimWriterArtDescription_Guide.rulePack.rulesStrings.47>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.48>situation(p=2)-></RimWriterArtDescription_Guide.rulePack.rulesStrings.48>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.49>situation-> [enimal_adj] [enimal]들[surrounded_by]</RimWriterArtDescription_Guide.rulePack.rulesStrings.49>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.50>situation-> [ConceptAngsty](을)를 만났을 때에는</RimWriterArtDescription_Guide.rulePack.rulesStrings.50>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.51>situation-> [Character](와)과 [Vegetable] 사이에 있을 때에는</RimWriterArtDescription_Guide.rulePack.rulesStrings.51>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.52>situation-> [TerrainFeature]에 있을 때에는</RimWriterArtDescription_Guide.rulePack.rulesStrings.52>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.53>situation-> [Game](을)를 플레이할 때에는</RimWriterArtDescription_Guide.rulePack.rulesStrings.53>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.54>enimal->[Animal]</RimWriterArtDescription_Guide.rulePack.rulesStrings.54>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.55>enimal->[Enemy]</RimWriterArtDescription_Guide.rulePack.rulesStrings.55>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.56>enimal_adj->[Quantity_adjphrase]</RimWriterArtDescription_Guide.rulePack.rulesStrings.56>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.57>enimal_adj->[AdjectiveAny]</RimWriterArtDescription_Guide.rulePack.rulesStrings.57>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.58>surrounded_by->에게 포위되었을 때에는</RimWriterArtDescription_Guide.rulePack.rulesStrings.58>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.59>surrounded_by->(와)과 함께 갇혔을 때에는</RimWriterArtDescription_Guide.rulePack.rulesStrings.59>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.60>surrounded_by->에게 몰래 접근할 때에는</RimWriterArtDescription_Guide.rulePack.rulesStrings.60>
+  <RimWriterArtDescription_Guide.rulePack.rulesStrings.61>surrounded_by->의 밑에 숨을 때에는</RimWriterArtDescription_Guide.rulePack.rulesStrings.61>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.0>artextra_clause(p=500)->[text](이)가 [subimageplural](을)를 사랑스럽게 묘사하고 있습니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.0>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.1>artextra_clause(p=500)->[text]의 저자는 [subimageplural]에 집중합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.1>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.2>artextra_clause(p=500)->[subimagesingle](이)가 [book_trope][takes_part_in]</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.2>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.3>artextra_clause(p=500)->주인공들이 [subimageany] 앞에 있습니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.3>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.4>artextra_clause(p=500)->[text]의 끝은 [subimageany][book_endings_with]</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.4>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.5>artextra_clause(p=500)->[text]의 끝은 [book_endings]</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.5>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.6>artextra_clause(p=500)->[text]은 [Community]의 한 가운데에서 벌어집니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.6>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.7>artextra_clause(p=500)->[text]은 [Community]의 외곽에서 벌어집니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.7>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.8>artextra_clause(p=500)->[text]은 [TerrainFeature] 근처에 지어진 [Community] 안에서 벌어집니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.8>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.9>artextra_clause(p=500)->한 [Character](이)가 [book_trope][takes_part_in]</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.9>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.10>artextra_clause(p=500)->한 [Character] 우연히 [book_trope][takes_part_in]</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.10>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.11>artextra_clause(p=500)->한 [PAWN_adj] [Character](이)가 [book_trope][takes_part_in]</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.11>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.12>artextra_clause(p=500)->[Quantity_adjphrase] [Character]들이 [book_trope]에 연관됩니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.12>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.13>artextra_clause(p=500)->[Quantity_adjphrase] [PAWN_adj] [Character]들이 [book_trope]에 등장합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.13>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.14>artextra_clause(p=500)->한 [Animal](이)가 [book_trope][takes_part_in]</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.14>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.15>book_endings->[book_ending_adj] 결말로 끝납니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.15>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.16>book_endings->큰 파티와 함께 끝납니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.16>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.17>book_endings->모두가 살아남으며 [book_ending_adj] 결말로 끝납니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.17>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.18>book_endings->모두가 죽으며 [book_ending_adj] 결말로 끝납니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.18>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.19>book_endings->모두가 [book_food]를 먹으러 가는 결말로 끝납니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.19>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.20>book_endings->[book_ending_adj] 결말로 끝납니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.20>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.21>book_endings->모든 것이 꿈이었다는 결말로 끝납니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.21>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.22>book_endings->달콤씁쓸한 결말로 끝납니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.22>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.23>book_endings->모든 복선을 회수하지만… 과연 그럴까요?</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.23>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.24>book_ending_adj->행복한</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.24>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.25>book_ending_adj->슬픈</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.25>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.26>book_ending_adj->긴장되는</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.26>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.27>book_ending_adj->충격적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.27>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.28>book_ending_adj->반전있는</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.28>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.29>book_food->타코</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.29>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.30>book_food->샤와르마</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.30>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.31>book_food->햄버거</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.31>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.32>book_food->바비큐</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.32>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.33>book_food->채식 요리</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.33>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.34>book_endings_with->(와)과 행복한 결말을 맞습니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.34>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.35>book_endings_with->(와)과 긴장되는 결말을 맞습니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.35>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.36>book_endings_with->(와)과 충격적인 결말을 맞습니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.36>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.37>book_endings_with->(와)과 반전을 겪습니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.37>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.38>takes_part_in(p=500)->에 참여합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.38>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.39>takes_part_in(p=500)->에 연관됩니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.39>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.40>takes_part_in(p=500)->에 몰립니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.40>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.41>idles(p=500)->나타납니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.41>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.42>idles(p=500)->보여집니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.42>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.43>idles(p=500)->또렷해집니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.43>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.44>book_trope(p=500)->[Character]와 [Character]와의 삼각관계</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.44>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.45>book_trope(p=500)->[Character](을)를 암살하려는 음모</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.45>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.46>book_trope(p=500)->[ConceptAny](이)가 더 이상 존재하지 않는 미래로의 시간여행</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.46>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.47>book_trope(p=500)->[Character](와)과 함께 [TerrainFeature]에 조난당한 상황</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.47>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.48>book_trope(p=500)->[ConceptAny](을)를 [Animal]들에게 가르치는 상황</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.48>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.49>book_trope(p=500)->침대가 하나밖에 없는 방에서 [Character](와)과 밤을 보내는 상황</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.49>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.50>book_trope(p=500)->[ConceptAny]의 키스로만 풀 수 있는 저주</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.50>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.51>book_trope(p=500)->[ConceptAny](을)를 위해 [Character]를 납치하는 상황</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.51>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.52>book_trope(p=500)->곤란한 지경에 빠지지만, 갑자기 [book_deusex]에 의해 구출되는 상황</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.52>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.53>book_trope(p=500)->삶과 죽음의 기로</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.53>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.54>book_trope(p=500)->[ConceptAny]의 사이비 종교</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.54>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.55>book_trope(p=500)->세상을 구하는 상황</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.55>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.56>book_trope(p=500)->음모</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.56>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.57>book_trope(p=500)->[Character](와)과 도망치는 상황</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.57>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.58>book_deusex->[Animal]</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.58>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.59>book_deusex->[Character]</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.59>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.60>style_clause(p=504)->작품은 [ConceptAny](을)를 [symbolizes]</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.60>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.61>artextra_clause(p=500)->[subimagesingle] [book_trope](이)가 [ConceptAny](을)를 [symbolizes]</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.61>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.62>style_clause(p=500)->작품에는 [ConceptAny]의 개념이 주입되어 있으며 [artstyle_adj] 스타일로 쓰여졌습니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.62>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.63>style_clause(p=500)->작품은 [artstyle_adj] 스타일로 집필되었습니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.63>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.64>style_clause(p=500)->작품은 [artstyle_adj] 느낌이 나고 [composition] 구성으로 되어 있습니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.64>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.65>style_clause(p=500)->전반적으로 [composition] 구성입니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.65>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.66>style_clause(p=500)->[artstyle_adj], 그리고 [artstyle_adj] 요소가 있는 스타일입니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.66>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.67>style_clause(p=500)->[text]은 왠지 [ConceptAny](와)과 [ConceptAny](을)를 모두 표현합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.67>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.68>style_clause(p=500)->[text]은 [ConceptAny](와)과 [ConceptAny]의 대조를 보여줍니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.68>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.69>style_clause(p=500)->[text]의 [composition] 구조가 [artstyle_adj] 스타일과 거의 충돌합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.69>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.70>symbolizes(p=500)->상징합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.70>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.71>symbolizes(p=500)->상징하는 것 같습니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.71>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.72>symbolizes(p=500)->나타냅니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.72>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.73>symbolizes(p=500)->나타내는 것 같습니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.73>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.74>symbolizes(p=500)->표현하는 것 같습니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.74>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.75>symbolizes(p=500)->독자들에게 상기시켜줍니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.75>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.76>symbolizes(p=500)->대신해 감정을 표현합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.76>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.77>symbolizes(p=500)->독자가 생각하도록 합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.77>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.78>symbolizes(p=500)->통해 작가들을 대변합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.78>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.79>symbolizes(p=500)->암시합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.79>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.80>depicts(p=500)->서술합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.80>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.81>depicts(p=500)->보여줍니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.81>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.82>depicts(p=500)->묘사합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.82>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.83>depicts(p=500)->비슷합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.83>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.84>depicts(p=500)->분명히 보여줍니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.84>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.85>depicts(p=500)->표현합니다</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.85>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.86>depiction(p=500)->서술</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.86>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.87>depiction(p=500)->[text]</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.87>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.88>depiction(p=500)->묘사</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.88>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.89>depiction(p=500)->표현</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.89>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.90>depiction(p=500)->글</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.90>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.91>depiction(p=500)->작품</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.91>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.92>composition(p=500)->서술적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.92>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.93>composition(p=500)->설명적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.93>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.94>composition(p=500)->이야기체</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.94>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.95>composition(p=500)->불균형한</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.95>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.96>composition(p=500)->균형잡힌</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.96>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.97>composition(p=500)->역동적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.97>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.98>composition(p=500)->설득력 있는</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.98>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.99>composition(p=500)->무미건조한</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.99>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.100>composition(p=500)->집중된</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.100>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.101>artstyle_adj(p=500)->독창성 없는</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.101>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.102>artstyle_adj(p=500)->단순한</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.102>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.103>artstyle_adj(p=500)->복잡하고 현실적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.103>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.104>artstyle_adj(p=500)->비현실적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.104>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.105>artstyle_adj(p=500)->고전적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.105>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.106>artstyle_adj(p=500)->현대적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.106>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.107>artstyle_adj(p=500)->상징적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.107>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.108>artstyle_adj(p=500)->아마추어적이지만 끌리는</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.108>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.109>artstyle_adj(p=500)->디킨스 소설적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.109>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.110>artstyle_adj(p=500)->제인 오스틴 소설적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.110>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.111>artstyle_adj(p=500)->표현주의적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.111>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.112>artstyle_adj(p=500)->빅토리아시대적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.112>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.113>artstyle_adj(p=500)->오웰적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.113>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.114>artstyle_adj(p=500)->카프카적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.114>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.115>artstyle_adj(p=500)->개츠비적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.115>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.116>artstyle_adj(p=500)->잔인한</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.116>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.117>artstyle_adj(p=500)->추상적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.117>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.118>artstyle_adj(p=500)->초현실적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.118>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.119>artstyle_adj(p=500)->저속한</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.119>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.120>artstyle_adj(p=500)->미니멀리스트식</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.120>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.121>artstyle_adj(p=500)->코믹한</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.121>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.122>artstyle_adj(p=500)->순수주의적</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.122>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.123>artstyle_adj(p=500)->로맨틱한</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.123>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.124>artstyle_adj(p=500)->에로틱한</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.124>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.125>artstyle_adj(p=500)->감각적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.125>
+  <RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.126>artstyle_adj(p=500)->감동적인</RimWriterArtDescriptionUtility_Global.rulePack.rulesStrings.126>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.0>artextra_clause(p=500)->[text](이)가 [subimageplural](을)를 사랑스럽게 묘사하고 있습니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.0>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.1>artextra_clause(p=500)->[text]의 저자는 [subimageplural]에 집중합니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.1>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.2>artextra_clause(p=500)->주인공들이 [subimageany] 앞에 있습니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.2>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.3>artextra_clause(p=500)->[text](은)는 [Community]의 한 가운데에서 벌어집니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.3>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.4>artextra_clause(p=500)->[text](은)는 [Community]의 외곽에서 벌어집니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.4>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.5>artextra_clause(p=500)->[text](은)는 [TerrainFeature] 근처에 지어진 [Community] 안에서 벌어집니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.5>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.6>style_clause(p=504)->작품은 [ConceptAny](을)를 [symbolizes]</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.6>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.7>artextra_clause(p=500)->[subimagesingle] [book_trope] [ConceptAny](을)를 [symbolizes]</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.7>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.8>style_clause(p=500)->작품에는 [ConceptAny]의 개념이 주입되어 있으며 [artstyle_adj] 스타일로 쓰여졌습니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.8>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.9>style_clause(p=500)->작품은 [artstyle_adj] 스타일로 집필되었습니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.9>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.10>style_clause(p=500)->작품은 [artstyle_adj] 느낌이 나고 [composition] 구성으로 되어 있습니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.10>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.11>style_clause(p=500)->전반적으로 [composition] 구성입니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.11>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.12>style_clause(p=500)->[artstyle_adj], 그리고 [artstyle_adj] 요소가 있는 스타일입니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.12>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.13>style_clause(p=500)->[text]은 왠지 [ConceptAny](와)과 [ConceptAny](을)를 모두 표현합니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.13>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.14>style_clause(p=500)->[text]은 [ConceptAny](와)과 [ConceptAny]의 대조를 보여줍니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.14>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.15>style_clause(p=500)->[text]의 [composition] 구조가 [artstyle_adj] 스타일과 거의 충돌합니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.15>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.16>symbolizes(p=500)->상징합니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.16>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.17>symbolizes(p=500)->상징하는 것 같습니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.17>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.18>symbolizes(p=500)->나타냅니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.18>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.19>symbolizes(p=500)->나타내는 것 같습니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.19>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.20>symbolizes(p=500)->표현하는 것 같습니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.20>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.21>symbolizes(p=500)->독자들에게 상기시켜줍니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.21>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.22>symbolizes(p=500)->대신해 감정을 표현합니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.22>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.23>symbolizes(p=500)->독자가 생각하도록 합니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.23>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.24>symbolizes(p=500)->통해 작가들을 대변합니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.24>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.25>symbolizes(p=500)->암시합니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.25>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.26>depicts(p=500)->그립니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.26>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.27>depicts(p=500)->보여줍니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.27>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.28>depicts(p=500)->묘사합니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.28>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.29>depicts(p=500)->닮았습니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.29>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.30>depicts(p=500)->분명히 보여줍니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.30>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.31>depicts(p=500)->나타냅니다</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.31>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.32>depiction(p=500)->서술</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.32>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.33>depiction(p=500)->[text]</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.33>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.34>depiction(p=500)->묘사</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.34>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.35>depiction(p=500)->표현</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.35>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.36>depiction(p=500)->글</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.36>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.37>depiction(p=500)->작품</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.37>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.38>composition(p=500)->서술적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.38>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.39>composition(p=500)->설명적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.39>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.40>composition(p=500)->이야기체</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.40>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.41>composition(p=500)->불균형한</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.41>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.42>composition(p=500)->균형잡힌</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.42>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.43>composition(p=500)->역동적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.43>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.44>composition(p=500)->설득력 있는</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.44>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.45>composition(p=500)->무미건조한</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.45>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.46>composition(p=500)->집중된</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.46>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.47>artstyle_adj(p=500)->독창성 없는</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.47>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.48>artstyle_adj(p=500)->단순한</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.48>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.49>artstyle_adj(p=500)->복잡하고 현실적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.49>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.50>artstyle_adj(p=500)->비현실적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.50>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.51>artstyle_adj(p=500)->고전적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.51>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.52>artstyle_adj(p=500)->현대적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.52>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.53>artstyle_adj(p=500)->상징적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.53>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.54>artstyle_adj(p=500)->아마추어적이지만 끌리는</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.54>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.55>artstyle_adj(p=500)->디킨스 소설적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.55>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.56>artstyle_adj(p=500)->제인 오스틴 소설적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.56>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.57>artstyle_adj(p=500)->표현주의적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.57>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.58>artstyle_adj(p=500)->빅토리아시대적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.58>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.59>artstyle_adj(p=500)->오웰적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.59>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.60>artstyle_adj(p=500)->카프카적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.60>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.61>artstyle_adj(p=500)->개츠비적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.61>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.62>artstyle_adj(p=500)->잔인한</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.62>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.63>artstyle_adj(p=500)->추상적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.63>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.64>artstyle_adj(p=500)->초현실적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.64>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.65>artstyle_adj(p=500)->저속한</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.65>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.66>artstyle_adj(p=500)->미니멀리스트식</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.66>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.67>artstyle_adj(p=500)->코믹한</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.67>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.68>artstyle_adj(p=500)->순수주의적</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.68>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.69>artstyle_adj(p=500)->로맨틱한</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.69>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.70>artstyle_adj(p=500)->에로틱한</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.70>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.71>artstyle_adj(p=500)->감각적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.71>
+  <RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.72>artstyle_adj(p=500)->감동적인</RimWriterArtDescriptionUtility_Journal.rulePack.rulesStrings.72>
+
+</LanguageData>

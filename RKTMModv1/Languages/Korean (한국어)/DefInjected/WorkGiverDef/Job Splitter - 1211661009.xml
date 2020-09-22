@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <JS_NurseRescue.label>쓰러진 아군 구조</JS_NurseRescue.label>
+  <JS_NurseRescue.verb>구조</JS_NurseRescue.verb>
+  <JS_NurseRescue.gerund>구조</JS_NurseRescue.gerund>
+  <JS_NurseToBedToOperate.label>수술하기 위해 침대로 환자 이송</JS_NurseToBedToOperate.label>
+  <JS_NurseToBedToOperate.verb>이송</JS_NurseToBedToOperate.verb>
+  <JS_NurseToBedToOperate.gerund>이송</JS_NurseToBedToOperate.gerund>
+  <JS_NurseFeedHumanlikes.label>환자에게 식사 전달</JS_NurseFeedHumanlikes.label>
+  <JS_NurseFeedHumanlikes.verb>식사 전달</JS_NurseFeedHumanlikes.verb>
+  <JS_NurseFeedHumanlikes.gerund>식사 전달</JS_NurseFeedHumanlikes.gerund>
+  <JS_NurseFeedAnimals.label>동물 먹이기</JS_NurseFeedAnimals.label>
+  <JS_NurseFeedAnimals.verb>식사 전달</JS_NurseFeedAnimals.verb>
+  <JS_NurseFeedAnimals.gerund>식사 전달</JS_NurseFeedAnimals.gerund>
+  <JS_NurseVisitSickPawn.label>병문안</JS_NurseVisitSickPawn.label>
+  <JS_NurseVisitSickPawn.verb>병문안</JS_NurseVisitSickPawn.verb>
+  <JS_NurseVisitSickPawn.gerund>병문안</JS_NurseVisitSickPawn.gerund>
+  <JS_Refuel.label>연료 보충</JS_Refuel.label>
+  <JS_Refuel.verb>연료 보충</JS_Refuel.verb>
+  <JS_Refuel.gerund>연료 보충</JS_Refuel.gerund>
+  <JS_ButcherSlaughter.label>가축 도살</JS_ButcherSlaughter.label>
+  <JS_ButcherSlaughter.verb>도살</JS_ButcherSlaughter.verb>
+  <JS_ButcherSlaughter.gerund>도살</JS_ButcherSlaughter.gerund>
+  <JS_ButcherDoExecution.label>수감자 도축</JS_ButcherDoExecution.label>
+  <JS_ButcherDoExecution.verb>도축</JS_ButcherDoExecution.verb>
+  <JS_ButcherDoExecution.gerund>도축</JS_ButcherDoExecution.gerund>
+  <JS_ButcherDoBillsButcherFlesh.label>도축</JS_ButcherDoBillsButcherFlesh.label>
+  <JS_ButcherDoBillsButcherFlesh.verb>도축</JS_ButcherDoBillsButcherFlesh.verb>
+  <JS_ButcherDoBillsButcherFlesh.gerund>도축</JS_ButcherDoBillsButcherFlesh.gerund>
+  <JS_RepairBuildRoofs.label>지붕 건설</JS_RepairBuildRoofs.label>
+  <JS_RepairBuildRoofs.verb>지붕 건설</JS_RepairBuildRoofs.verb>
+  <JS_RepairBuildRoofs.gerund>지붕 건설</JS_RepairBuildRoofs.gerund>
+  <JS_DemoRemoveRoofs.label>지붕 해체</JS_DemoRemoveRoofs.label>
+  <JS_DemoRemoveRoofs.verb>지붕 해체</JS_DemoRemoveRoofs.verb>
+  <JS_DemoRemoveRoofs.gerund>지붕 해체</JS_DemoRemoveRoofs.gerund>
+  <JS_DemoDeconstruct.label>건물 해체</JS_DemoDeconstruct.label>
+  <JS_DemoDeconstruct.verb>해체</JS_DemoDeconstruct.verb>
+  <JS_DemoDeconstruct.gerund>해체</JS_DemoDeconstruct.gerund>
+  <JS_DemoUninstall.label>포장</JS_DemoUninstall.label>
+  <JS_DemoUninstall.verb>포장</JS_DemoUninstall.verb>
+  <JS_DemoUninstall.gerund>포장</JS_DemoUninstall.gerund>
+  <JS_DemoConstructRemoveFloors.label>바닥 제거</JS_DemoConstructRemoveFloors.label>
+  <JS_DemoConstructRemoveFloors.verb>바닥 제거</JS_DemoConstructRemoveFloors.verb>
+  <JS_DemoConstructRemoveFloors.gerund>바닥 제거</JS_DemoConstructRemoveFloors.gerund>
+  <JS_SupplyFrames.label>건설물에 자재를 공급</JS_SupplyFrames.label>
+  <JS_SupplyFrames.verb>자재 공급</JS_SupplyFrames.verb>
+  <JS_SupplyFrames.gerund>자재 공급</JS_SupplyFrames.gerund>
+  <JS_SupplyBlueprints.label>청사진에 자재를 공급</JS_SupplyBlueprints.label>
+  <JS_SupplyBlueprints.verb>자재 공급</JS_SupplyBlueprints.verb>
+  <JS_SupplyBlueprints.gerund>자재 공급</JS_SupplyBlueprints.gerund>
+  <JS_SupplyUninstall.label>구조물 배달</JS_SupplyUninstall.label>
+  <JS_SupplyUninstall.verb>배달</JS_SupplyUninstall.verb>
+  <JS_SupplyUninstall.gerund>배달</JS_SupplyUninstall.gerund>
+  <JS_MortifyingHaulCorpses.label>시체 운반</JS_MortifyingHaulCorpses.label>
+  <JS_MortifyingHaulCorpses.verb>운반</JS_MortifyingHaulCorpses.verb>
+  <JS_MortifyingHaulCorpses.gerund>운반</JS_MortifyingHaulCorpses.gerund>
+
+</LanguageData>

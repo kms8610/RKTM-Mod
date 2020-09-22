@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilDrilling.label>원유 시추</OilDrilling.label>
+  <OilDrilling.description>원유를 시추합니다.</OilDrilling.description>
+  <DeepOilWells.label>심층 시추</DeepOilWells.label>
+  <DeepOilWells.description>새 석유층에 접근하기 위해 더 깊은 구멍을 뚫습니다.</DeepOilWells.description>
+  <ChemfuelRefining.label>화학연료 정제</ChemfuelRefining.label>
+  <ChemfuelRefining.description>원유를 화학 연료로 정제하여 화학 연료 탱크에 저장합니다.</ChemfuelRefining.description>
+  <NeutroamineProduction.label>뉴트로아민</NeutroamineProduction.label>
+  <NeutroamineProduction.description>화학연료로부터 의약품 제작에 사용되는 뉴트로아민을 추출합니다.</NeutroamineProduction.description>
+  <SynthyleneProduction.label>신틸렌</SynthyleneProduction.label>
+  <SynthyleneProduction.description>화학연료로부터 색상 선택이 가능한 건축 자재인 신틸렌을 추출합니다.</SynthyleneProduction.description>
+  <Napalm.label>유지 소이탄</Napalm.label>
+  <Napalm.description>신틸렌으로 농축된 화학연료로 구성되어 있으며, 소이탄에 사용되는 끈적끈적한 가연성 젤리입니다.</Napalm.description>
+  <ArtificialFloors.label>인공 바닥재</ArtificialFloors.label>
+  <ArtificialFloors.description>신틸렌으로 인공 바닥재를 만듭니다.</ArtificialFloors.description>
+  <SynthyleneComponents.label>신틸렌 부품</SynthyleneComponents.label>
+  <SynthyleneComponents.description>신틸렌과 강철로 부품을 제작합니다.</SynthyleneComponents.description>
+  <SynthyleneAdvComponents.label>신틸렌 고급부품</SynthyleneAdvComponents.label>
+  <SynthyleneAdvComponents.description>강철의 보유량을 늘리기 위해 신틸렌을 사용해서 고급 부품을 만듭니다.</SynthyleneAdvComponents.description>
+  <SynthreadProduction.label>합성원단</SynthreadProduction.label>
+  <SynthreadProduction.description>화학연료 합성원단을 제작합니다.</SynthreadProduction.description>
+  <SynthamideProduction.label>신스아미드</SynthamideProduction.label>
+  <SynthamideProduction.description>신스아미드를 생산합니다. 신스아미드 섬유는 내열성과 내구도가 뛰어난 의복을 만드는 데 사용됩니다.</SynthamideProduction.description>
+  <SynthamideCompositeProduction.label>신스아미드 복합재</SynthamideCompositeProduction.label>
+  <SynthamideCompositeProduction.description>신스아미드 복합재를 생산합니다. 신스아미드 복합재는 고강도, 경량, 내화성 우주급 복합 재료입니다.</SynthamideCompositeProduction.description>
+  <PlasteelProduction.label>플라스틸</PlasteelProduction.label>
+  <PlasteelProduction.description>고강도 복합 소재 플라스틸을 만드는 비밀을 발견합니다.</PlasteelProduction.description>
+  <HyperweaveProduction.label>초경조직 천</HyperweaveProduction.label>
+  <HyperweaveProduction.description>초경조직 천 만드는 비밀을 발견합니다.</HyperweaveProduction.description>
+  <CE_FsxProduction.label>FSX 연료</CE_FsxProduction.label>
+  <CE_FsxProduction.description>저장된 화학연료로 FSX연료를 생산하여, 폭발물 또는 특수한 탄환을 제작하는 데 이용합니다.</CE_FsxProduction.description>
+
+</LanguageData>

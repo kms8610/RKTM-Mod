@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_Apparel_ContractorArmorHelmet.label>계약자 헬멧 제작</Make_Apparel_ContractorArmorHelmet.label>
+  <Make_Apparel_ContractorArmorHelmet.description>계약자 헬멧를 제작합니다.</Make_Apparel_ContractorArmorHelmet.description>
+  <Make_Apparel_ContractorArmorHelmet.jobString>계약자 헬멧 제작 중.</Make_Apparel_ContractorArmorHelmet.jobString>
+  <Make_Gun_LNF35L.label>LNF35L 쉐도우 제작</Make_Gun_LNF35L.label>
+  <Make_Gun_LNF35L.description>LNF35L 쉐도우를 제작합니다.</Make_Gun_LNF35L.description>
+  <Make_Gun_LNF35L.jobString>LNF35L 쉐도우 제작 중.</Make_Gun_LNF35L.jobString>
+  <Make_Gun_B3500A.label>B350A 테크 제작</Make_Gun_B3500A.label>
+  <Make_Gun_B3500A.description>B350A 테크를 제작합니다.</Make_Gun_B3500A.description>
+  <Make_Gun_B3500A.jobString>B350A 테크 제작 중.</Make_Gun_B3500A.jobString>
+  <Make_Gun_L45E.label>L45E 고스트 제작</Make_Gun_L45E.label>
+  <Make_Gun_L45E.description>L45E 고스트를 제작합니다.</Make_Gun_L45E.description>
+  <Make_Gun_L45E.jobString>L45E 고스트 제작 중.</Make_Gun_L45E.jobString>
+  <Make_Gun_M34A.label>M34A 스토커 제작</Make_Gun_M34A.label>
+  <Make_Gun_M34A.description>M34A 스토커를 제작합니다.</Make_Gun_M34A.description>
+  <Make_Gun_M34A.jobString>M34A 스토커 제작 중.</Make_Gun_M34A.jobString>
+  <Make_Gun_M168B.label>M168B 스펙터 제작</Make_Gun_M168B.label>
+  <Make_Gun_M168B.description>M168B 스펙터를 제작합니다.</Make_Gun_M168B.description>
+  <Make_Gun_M168B.jobString>M168B 스펙터 제작 중.</Make_Gun_M168B.jobString>
+  <Make_Gun_M340V.label>M340V 레이스 제작</Make_Gun_M340V.label>
+  <Make_Gun_M340V.description>M340V 레이스를 제작합니다.</Make_Gun_M340V.description>
+  <Make_Gun_M340V.jobString>M340V 레이스 제작 중.</Make_Gun_M340V.jobString>
+  <Make_Gun_MS700G.label>MS700G 트레이스 제작</Make_Gun_MS700G.label>
+  <Make_Gun_MS700G.description>MS700G 트레이스를 제작합니다.</Make_Gun_MS700G.description>
+  <Make_Gun_MS700G.jobString>MS700G 트레이스 제작 중.</Make_Gun_MS700G.jobString>
+
+</LanguageData>

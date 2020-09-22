@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RN_HellfireBomb.label>폭발</RN_HellfireBomb.label>
+  <RN_HellfireBomb.deathMessage>{0}(이)가 폭사했습니다.</RN_HellfireBomb.deathMessage>
+
+</LanguageData>

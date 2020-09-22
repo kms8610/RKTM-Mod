@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_TLTM_Bow_ThrumboLeather.label>트럼보 가죽 활 만들기</Make_TLTM_Bow_ThrumboLeather.label>
+  <Make_TLTM_Bow_ThrumboLeather.description>트럼보 가죽 활을 만듭니다.</Make_TLTM_Bow_ThrumboLeather.description>
+  <Make_TLTM_Bow_ThrumboLeather.jobString>트럼보 가죽 활 만드는 중.</Make_TLTM_Bow_ThrumboLeather.jobString>
+  <Make_TLTM_Bow_ThrumboHorn.label>트럼보 뿔 활 만들기</Make_TLTM_Bow_ThrumboHorn.label>
+  <Make_TLTM_Bow_ThrumboHorn.description>트럼보 뿔 활을 만듭니다.</Make_TLTM_Bow_ThrumboHorn.description>
+  <Make_TLTM_Bow_ThrumboHorn.jobString>트럼보 뿔 활을 만드는 중.</Make_TLTM_Bow_ThrumboHorn.jobString>
+  <Make_TLTM_LongSword.label>트럼보 장검 만들기</Make_TLTM_LongSword.label>
+  <Make_TLTM_LongSword.description>트럼보 장검을 만듭니다.</Make_TLTM_LongSword.description>
+  <Make_TLTM_LongSword.jobString>트럼보 장검 만드는 중.</Make_TLTM_LongSword.jobString>
+  <Make_TLTM_Hammer.label>트럼보 망치 만들기</Make_TLTM_Hammer.label>
+  <Make_TLTM_Hammer.description>트럼보 망치를 만듭니다.</Make_TLTM_Hammer.description>
+  <Make_TLTM_Hammer.jobString>트럼보 망치 만드는 중.</Make_TLTM_Hammer.jobString>
+
+</LanguageData>

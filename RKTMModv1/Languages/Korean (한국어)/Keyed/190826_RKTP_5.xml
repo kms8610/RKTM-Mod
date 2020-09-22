@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1420241138_190817_Simply More Bridges-->
+  <NoFloorsOnBridges>다리 위에 바닥을 지을 수 없습니다.</NoFloorsOnBridges>
+
+  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
+  <AU_NoTargets>사용 가능한 대상이 없습니다.</AU_NoTargets>
+  <AU_DISABLED>사용불가</AU_DISABLED>
+  <AU_Type>유형: </AU_Type>
+  <AU_TargetAoE>효과 범위</AU_TargetAoE>
+  <AU_TargetSelf>시전자</AU_TargetSelf>
+  <AU_TargetThing>다른 대상</AU_TargetThing>
+  <AU_TargetLocation>대상 위치</AU_TargetLocation>
+  <AU_Cooldown>재사용 대기시간:</AU_Cooldown>
+  <AU_Extra>추가 사항</AU_Extra>
+  <AU_MentalStateChance>정신상태 확률</AU_MentalStateChance>
+  <AU_EffectChance>효과 확률</AU_EffectChance>
+  <AU_PawnAbilityRecharging>{0}(은)는 재사용 대기 중입니다</AU_PawnAbilityRecharging>
+  <AU_AoEProperties>효과 범위 속성</AU_AoEProperties>
+  <AU_TargetClass>대상: </AU_TargetClass>
+  <AU_AoECharacters>인물</AU_AoECharacters>
+  <AU_AoEFriendlyFire>오인사격: </AU_AoEFriendlyFire>
+  <AU_AoEMaxTargets>최대 대상: </AU_AoEMaxTargets>
+  <AU_AoEStartsFromCaster>영창 시작: </AU_AoEStartsFromCaster>
+  <TST_BurnerBullet_SuccessMessage>{0}의 총이 과열되었습니다.</TST_BurnerBullet_SuccessMessage>
+  <ModName>아뎁투스 메카니쿠스: 아머</ModName>
+  <SpawnWithRaids>침입한 폰들에게 자살조끼를 뿌리고 싶으세요?</SpawnWithRaids>
+  <WearableExplosives_Label>폭파하기</WearableExplosives_Label>
+  <WearableExplosives_Desc>이 폰의 자살조끼를 폭파하세요.</WearableExplosives_Desc>
+
+  <!--1541893512_190817_CleaningStation-->
+  <CleaningStation_settings_cleanTime_label>틱당 청소 주기(1초 = 60 틱)</CleaningStation_settings_cleanTime_label>
+  <CleaningStation_settings_cleanTime_desc>60에서 3600 사이(포함). 변경값은 재실행 후 적용됩니다.</CleaningStation_settings_cleanTime_desc>
+  <CleaningStation_settings_cleanRadius_label>청소 범위</CleaningStation_settings_cleanRadius_label>
+  <CleaningStation_settings_cleanRadius_desc>1에서 50(포함)</CleaningStation_settings_cleanRadius_desc>
+  <CleaningStation_settings_useDynamicPower_label>동적인 전력 소비.</CleaningStation_settings_useDynamicPower_label>
+  <CleaningStation_settings_useDynamicPower_desc>이 기능을 활성화하면 다음 번에 청소 프로세스가 완료될 때 업데이트됩니다.\n이 기능을 해제하려면 다시 로드해야 합니다.</CleaningStation_settings_useDynamicPower_desc>
+  <CleaningStation_settings_powerConsumption_label>셀당 전력 소비량</CleaningStation_settings_powerConsumption_label>
+  <CleaningStation_settings_powerConsumption_desc>1 ~ 100(포함)\n이 값은 청소할 셀의 양과 함께 곱하며, 동적 전력 소비량이 활성화된 경우에만 사용됩니다.</CleaningStation_settings_powerConsumption_desc>
+
+  <!--1673071343_190625_Jewelry-->
+  <Kikohi_ViewJewelry>장신구</Kikohi_ViewJewelry>
+
+  <!--1725544583_190818_GlitterNet-->
+  <GlitterNet.Disconnected>작동하는 글리터넷 허브에 연결되지 않았습니다..</GlitterNet.Disconnected>
+  <GlitterNet.Malfunctioning>네트워크 오작동. 글리터넷 허브에서 정보를 확인하세요.</GlitterNet.Malfunctioning>
+  <GlitterNet.Functioning>연결된 글리터넷 허브. 효율성: {0}%</GlitterNet.Functioning>
+  <GlitterNet.MultipleHubs>너무 많은 허브가 연결됐습니다. 네트워크당 하나의 허브만 연결할 수 있습니다. 현재 허브 수: {0}</GlitterNet.MultipleHubs>
+  <GlitterNet.ProcessingPower>처리 능력: {0} 페타플롭</GlitterNet.ProcessingPower>
+  <GlitterNet.TotalProcessingPower>총 처리 능력: {0} 페타플롭</GlitterNet.TotalProcessingPower>
+  <GlitterNet.ProcessingUsage>처리 사용량: {0} 페타플롭</GlitterNet.ProcessingUsage>
+  <GlitterNet.ConnectedTo>현재 연결됨: {0}</GlitterNet.ConnectedTo>
+  <GlitterNet.TotalProcessingUsage>총 처리 사용량: {0} 페타플롭</GlitterNet.TotalProcessingUsage>
+  <GlitterNet.HubFunctioning>시스템 기능. 현재 효율성: {0}%</GlitterNet.HubFunctioning>
+  <GlitterNet.MalfunctioningPower>글리터넷 장치가 오작동합니다: 전원이 공급되지 않습니다.</GlitterNet.MalfunctioningPower>
+  <GlitterNet.MalfunctioningBroken>글리터넷 장치가 오작동합니다: 고장남.</GlitterNet.MalfunctioningBroken>
+  <GlitterNet.MalfunctioningTemp>글리터넷 장치가 오작동합니다: 과열. 최대 작동 온도: {0}</GlitterNet.MalfunctioningTemp>
+  <GlitterNet.ConnectedDevices>{0} 글리터넷 장치에 연결되었습니다.</GlitterNet.ConnectedDevices>
+  <GlitterNet.ConnectToNext>다음 건물에 연결합니다.</GlitterNet.ConnectToNext>
+  <GlitterNet.ConnectToNextDesc>이 적분기를 사용 가능한 다음 건물에 연결합니다.</GlitterNet.ConnectToNextDesc>
+  <GlitterNet.MaxSimultaneousProcessor>동시성 프로세서는 최대 동시 적분기를 {0}까지 향상시킵니다.</GlitterNet.MaxSimultaneousProcessor>
+  <GlitterNet.EfficiencyProcessor>효율 프로세서는 가능한 최대 효율성을 {0}까지 향상시킵니다.</GlitterNet.EfficiencyProcessor>
+  <GlitterNet.OverdriveProcessor>오버드라이브 프로세서는 효율성을 {0}까지 향상시키고, 프로세서 사용량을 {1}까지 향상시킵니다.</GlitterNet.OverdriveProcessor>
+  <GlitterNet.ProcessingPowerProcessor>오버헤드 프로세서는 프로세서 성능을 {0}까지 향상시킵니다.</GlitterNet.ProcessingPowerProcessor>
+  <GlitterNet.IntegratorsReport>글리터넷 적분기</GlitterNet.IntegratorsReport>
+  <GlitterNet.AwokenStatus>깨어남!</GlitterNet.AwokenStatus>
+  <GlitterNet.CurrentMood>현재 기분: {0}</GlitterNet.CurrentMood>
+  <GlitterNet.EnableSystemWake_title>시스템 웨이크(Wake)를 활성화합니다.</GlitterNet.EnableSystemWake_title>
+  <GlitterNet.EnableSystemWake_desc>시스템 웨이크(Wake)는 글리터넷의 스토리 라인입니다. 당신의 게임에 이 스토리 라인을 적용하고 싶다면, 이 설정을 활성화하세요. 이 설정은 게임 중에 언제든지 변경할 수 있습니다.</GlitterNet.EnableSystemWake_desc>
+  <GlitterNet.EnableThermalManagement_title>열 관리를 활성화합니다.</GlitterNet.EnableThermalManagement_title>
+  <GlitterNet.EnableThermalManagement_desc>열 관리가 활성화되면, 글리터넷 허브 프로세서 그리고 특정 프로세서가 생산하는 열과 최대 작동 온도를 가집니다. 열 관리를 활성화하려면 고급 온도 제어를 추가하는 다른 모드와 함께 사용하는 것이 좋습니다. 이 설정은 게임 중에 언제든지 변경할 수 있습니다.</GlitterNet.EnableThermalManagement_desc>
+  <GlitterNet.ShutoffTemperature_title>온도 차단</GlitterNet.ShutoffTemperature_title>
+  <GlitterNet.ShutoffTemperature_desc>열 관리가 활성화된 경우 온도 장치는 섭씨온도에서 종료됩니다.</GlitterNet.ShutoffTemperature_desc>
+  <GlitterNet.HeatProductionMultiplier_title>열 생산 증폭기</GlitterNet.HeatProductionMultiplier_title>
+  <GlitterNet.HeatProductionMultiplier_desc>열 관리가 활성화된 경우, 장치에 의해 생성되는 열은 이 값에 의해 확대됩니다.</GlitterNet.HeatProductionMultiplier_desc>
+  <GlitterNet.simultaneousSpecializedProcessorsTitle>동시 특수 프로세서</GlitterNet.simultaneousSpecializedProcessorsTitle>
+  <GlitterNet.simultaneousSpecializedProcessorsDesc>이 설정은 초기값으로 하나씩 허용되는 각 유형의 동시 특수 프로세서의 수를 제어합니다.</GlitterNet.simultaneousSpecializedProcessorsDesc>
+
+  <!--1725545225_190714_CyberNet-->
+  <CyberNet.Bandwidth>대역폭: {0} Tbps</CyberNet.Bandwidth>
+  <CyberNet.TotalBandwidth>총 대역폭: {0} Tbps</CyberNet.TotalBandwidth>
+  <CyberNet.TotalBandwidthUsage>총 대역폭 사용량: {0} Tbps</CyberNet.TotalBandwidthUsage>
+  <CyberNet.WirelessEfficiency>무선 효율성: {0}%</CyberNet.WirelessEfficiency>
+  <CyberNet.Interference>오직 하나의 네트워크만 무선으로 연결할 수 있습니다. 현재 무선 네트워크: {0}</CyberNet.Interference>
+  <CyberNet.PacketRouter>패킷 라우터는 사용 가능한 대역폭을 {0}만큼 증가시키고 무선 효율성을 {1}만큼 향상시킵니다</CyberNet.PacketRouter>
+  <CyberNet.ProstheticResourceUse>{0}PetaFLOPS를 사용합니다 \n{1}Tbps를 사용합니다</CyberNet.ProstheticResourceUse>
+
+  <!--761379469_190814_Remote Tech-->
+  <DetonatorTable_detonate_label>폭발</DetonatorTable_detonate_label>
+  <DetonatorTable_detonate_desc>범위내 같은 채널에 있는 모든 폭발물을 폭파시킵니다.</DetonatorTable_detonate_desc>
+  <DetonatorTable_inrange>범위내 장전된 폭발물을 폭파시킵니다</DetonatorTable_inrange>
+  <Detonator_detonatenow>격발</Detonator_detonatenow>
+  <Detonator_detonatenow_reserved>({0}(이)가 작업중)</Detonator_detonatenow_reserved>
+  <Detonator_detonateNow_label>격발</Detonator_detonateNow_label>
+  <RemoteExplosive_arm_label>장전</RemoteExplosive_arm_label>
+  <RemoteExplosive_arm_desc>장전되어 있을 경우, 원격폭발이 가능합니다</RemoteExplosive_arm_desc>
+  <RemoteExplosive_armed>장전</RemoteExplosive_armed>
+  <RemoteExplosive_notArmed>비장전</RemoteExplosive_notArmed>
+  <RemoteExplosive_currentChannel>현재 채널: {0}</RemoteExplosive_currentChannel>
+  <RemoteExplosive_channelChanger_label>채널 {0}{1}</RemoteExplosive_channelChanger_label>
+  <RemoteExplosive_channel_switching>(변경중)</RemoteExplosive_channel_switching>
+  <RemoteExplosive_detonatorChannelChanger_desc>기폭장치의 채널을 설정합니다. 같은 채널의 폭발물만 폭파시킬 수 있습니다</RemoteExplosive_detonatorChannelChanger_desc>
+  <RemoteExplosive_channelKeypad_buttonTip>{0}\n&lt;color=#888888>Shift-클릭으로 전투선택. &lt;/color></RemoteExplosive_channelKeypad_buttonTip>
+  <RemoteExplosive_autoReplace_label>자동 재장전</RemoteExplosive_autoReplace_label>
+  <RemoteExplosive_autoReplace_desc>활성화하면, 폭파 후 장전으로 자동 재배치합니다</RemoteExplosive_autoReplace_desc>
+  <DetonatorTable_component_label>채널 설치</DetonatorTable_component_label>
+  <DetonatorTable_component_desc>다른 채널에서 폭발물을 폭파시킬수 있도록 설치하십시오</DetonatorTable_component_desc>
+  <BillsTab_MainMaterial_label>주 구성품</BillsTab_MainMaterial_label>
+  <BillsTab_SecondaryMaterial_label>부 구성품</BillsTab_SecondaryMaterial_label>
+  <BillsTab_WorkAmount_label>작업량</BillsTab_WorkAmount_label>
+  <BillsTab_MaterialButton_component_mode>부품</BillsTab_MaterialButton_component_mode>
+  <BillsTab_MaterialButton_steel_mode>강철</BillsTab_MaterialButton_steel_mode>
+  <BillsTab_MaterialButton_silver_mode>은</BillsTab_MaterialButton_silver_mode>
+  <BillsTab_MaterialButton_sparkpowder_mode>스파크파우더</BillsTab_MaterialButton_sparkpowder_mode>
+  <BillsTab_Materials_info>이 버튼을 클릭하여 새로운 계획서가 작업할 자재를 선택할 수 있습니다. 비-표준 재료는 필요한 작업량을 증가시킵니다.</BillsTab_Materials_info>
+  <BillsTab_ResearchRequired>필요 연구량: {0}</BillsTab_ResearchRequired>
+  <FoamBlob_solidify_progress>응고중: {0}%</FoamBlob_solidify_progress>
+  <FoamWall_contents>내용: {0}</FoamWall_contents>
+  <FoamWall_smoothAction_label>다듬기</FoamWall_smoothAction_label>
+  <FoamWall_smoothAction_desc>벽을 다듬습니다</FoamWall_smoothAction_desc>
+  <GasCloud_statusReadout_high>{0} ({1}K, {2}% 퍼짐)</GasCloud_statusReadout_high>
+  <GasCloud_statusReadout_low>{0} ({1}, {2}% 퍼짐)</GasCloud_statusReadout_low>
+  <HediffRecovery_status_label>회복중</HediffRecovery_status_label>
+  <PortableDetonator_detonateChannel_label>폭파 (채널 {0})</PortableDetonator_detonateChannel_label>
+  <PortableDetonator_detonateChannel_desc>사거리 내에있는 모든 해당채널의 폭발물을 폭파시키거나 1채널의 폭발물을 폭파시킵니다(미연구시)</PortableDetonator_detonateChannel_desc>
+  <PortableDetonator_detonate_uses>남은사용량: {0}</PortableDetonator_detonate_uses>
+  <PortableDetonator_broke_msg>배터리를 모두 소모했습니다.</PortableDetonator_broke_msg>
+  <Detonator_notargets>해당채널의 비장전상태의 폭발물을 폭파시킬수 없습니다</Detonator_notargets>
+  <DetonatorManual_detonate_label>폭파</DetonatorManual_detonate_label>
+  <DetonatorManual_detonate_desc>같은 격발선에 연결된 모든 폭발물을 폭파시킵니다</DetonatorManual_detonate_desc>
+  <Wire_inspect_wet>젖음: {0}%</Wire_inspect_wet>
+  <Wire_inspect_dry>마름</Wire_inspect_dry>
+  <Wire_inspect_covered>덮힘</Wire_inspect_covered>
+  <Wire_inspect_exposed>드러남</Wire_inspect_exposed>
+  <Wire_dry_label>말리기</Wire_dry_label>
+  <Wire_dry_desc>림들에게 격발선을 말리도록 합니다.</Wire_dry_desc>
+  <Alert_wireFailure_label>격발 실패</Alert_wireFailure_label>
+  <Alert_wireFailure_desc>격발선이 젖거나 불타서 격발에 실패했습니다</Alert_wireFailure_desc>
+  <WireDesignator_label>격발선 선택</WireDesignator_label>
+  <WireDesignator_desc>범위내의 격발선을 선택합니다</WireDesignator_desc>
+  <Setting_forbidReplaced_label>청사진 자동배치 금지</Setting_forbidReplaced_label>
+  <Setting_forbidReplaced_desc>활성화 할경우, 청사진 자동배치가 지정된시간동안 금지상태로 유지됩니다</Setting_forbidReplaced_desc>
+  <Setting_forbidTimeout_label>청사진 금지시간</Setting_forbidTimeout_label>
+  <Setting_forbidTimeout_desc>청사진 자동배치를 얼마나 오래동안 금지시킬지를 선택합니다. (초단위)</Setting_forbidTimeout_desc>
+  <Setting_autoArmCombat_label>전투폭발물 자동장전</Setting_autoArmCombat_label>
+  <Setting_autoArmCombat_desc>활성화하면 전투폭발물이 배치될때 자동으로 활성화됩니다.</Setting_autoArmCombat_desc>
+  <Setting_autoArmMining_label>채굴폭발물 자동장전</Setting_autoArmMining_label>
+  <Setting_autoArmMining_desc>활성화하면 채굴폭발물이 배치될때 자동으로 활성화됩니다.</Setting_autoArmMining_desc>
+  <Setting_autoArmUtility_label>실용폭발물 자동장전</Setting_autoArmUtility_label>
+  <Setting_autoArmUtility_desc>활성화하면 실용폭발물이 배치될때 자동으로 활성화됩니다.</Setting_autoArmUtility_desc>
+  <Setting_lowerStandingCap_label>Lower standing cap</Setting_lowerStandingCap_label>
+  <Setting_lowerStandingCap_desc>활성화하면, 수면가스로 우호적인 세력들을 다운시킬 때, 우호도가 -100 아래로 떨어질 것입니다.</Setting_lowerStandingCap_desc>
+  <GasVent_ventedPerSecond>통풍구 용량: {0}/초</GasVent_ventedPerSecond>
+  <GasVent_blocked>막힘</GasVent_blocked>
+  <Upgrade_statModifierCategory>업그레이드 완료</Upgrade_statModifierCategory>
+  <Upgrade_labelPrefix>업그레이드: {0}</Upgrade_labelPrefix>
+  <Upgrade_descriptionEffects>효과:</Upgrade_descriptionEffects>
+  <Upgrade_descriptionCost>필요구성품:</Upgrade_descriptionCost>
+  <Upgrade_prerequisites>전제조건:</Upgrade_prerequisites>
+  <Upgrade_prerequisitesResearch>연구 ({0})</Upgrade_prerequisitesResearch>
+  <Upgrade_prerequisitesUpgrade>업그레이드 ({0})</Upgrade_prerequisitesUpgrade>
+  <Upgrade_prerequisitesSkill>건설스킬 ({0})</Upgrade_prerequisitesSkill>
+  <Upgrade_workProgress>진행도: {0}%</Upgrade_workProgress>
+  <Upgrade_deliveredIngredients>저장된 것: {0}</Upgrade_deliveredIngredients>
+  <Upgrade_installedUpgrades>업그레이드 설치:</Upgrade_installedUpgrades>
+  <Upgrade_missingMaterials>필요 {0}x {1}</Upgrade_missingMaterials>
+  <Upgrade_uneqip_message>업그레이드를 위해 소지품 비움.</Upgrade_uneqip_message>
+  <Upgrade_needSkills_message>업그레이드를 하려면 최소 {0} 의 건설스킬이 필요합니다.</Upgrade_needSkills_message>
+  <proxSensor_message>근접 센서가 목표를 탐지함: {0}</proxSensor_message>
+  <proxSensor_messageName>근접 센서 "{0}"가 적을 찾아냄: {1}</proxSensor_messageName>
+  <proxSensor_cooldown>쿨타임: {0} 초</proxSensor_cooldown>
+  <proxSensor_AIStatusCaption>AI 상태: {0}</proxSensor_AIStatusCaption>
+  <proxSensor_AIStatusValue>우호적</proxSensor_AIStatusValue>
+  <proxSensor_settings>센서 설정</proxSensor_settings>
+  <proxSensor_sName>센서 이름</proxSensor_sName>
+  <proxSensor_sCooldown>재탐지 지연시간 (초)</proxSensor_sCooldown>
+  <proxSensor_sSendMessage>탐지시 알림</proxSensor_sSendMessage>
+  <proxSensor_sMessageSound>대체메세지 사운드</proxSensor_sMessageSound>
+  <proxSensor_sSendWired>탐지시 격발 (유선)</proxSensor_sSendWired>
+  <proxSensor_sSendWireless>탐지시 격발 (무선)</proxSensor_sSendWireless>
+  <proxSensor_sDetectAnimals>동물 탐지</proxSensor_sDetectAnimals>
+  <proxSensor_sDetectFriendlies>아군 탐지</proxSensor_sDetectFriendlies>
+  <proxSensor_sDetectEnemies>적군 탐지</proxSensor_sDetectEnemies>
+  <proxSensor_sWirelessUpgrade>무선 업그레이드:</proxSensor_sWirelessUpgrade>
+  <proxSensor_sAIUpgrade>AI 업그레이드:</proxSensor_sAIUpgrade>
+  <buildGizmo_label>{0} 배치</buildGizmo_label>
+
+  <!--1769917767_190821_Taming Artifact-->
+  <LetterLabelForcedTame>{1_kind}(이)가 강제적으로 길들여졌습니다.</LetterLabelForcedTame>
+  <LetterArtifactTame>{0}(이)가 길들여졌습니다.</LetterArtifactTame>
+  <LetterLabelForcedTameFail>{1_kind}의 강제 조련에 실패했습니다.</LetterLabelForcedTameFail>
+  <LetterArtifactTameFailBerserk>{0}에 대한 길들이기가 실패해, 동물을 미치게 만들었습니다.</LetterArtifactTameFailBerserk>
+  <LetterArtifactTameFail>{0}의 길들이기가 실패했습니다.</LetterArtifactTameFail>
+
+  <!--1554147049_190818_Zen Garden-->
+  <ZEN_DisplayStat_GrowsInAllSeasons>모든 계절</ZEN_DisplayStat_GrowsInAllSeasons>
+  <ZEN_DesignatorOrchardZoneDesc>정착민들이 2차 자원을 수확 할수 있는 나무들을 키울 수 있는 구역을 만듭니다. 나무들이 어느정도 자라면 2차 자원을 수확할 것입니다.</ZEN_DesignatorOrchardZoneDesc>
+  <ZEN_DesignatorHarvestSecondaryDesc>정착민들이 2차 자원을 수확 할 수 있도록 지정하세요.</ZEN_DesignatorHarvestSecondaryDesc>
+  <ZEN_DisplayStat_LimitedGrowSeasons>성장 계절</ZEN_DisplayStat_LimitedGrowSeasons>
+  <ZEN_DesignatorHarvestSecondary>2차 수확</ZEN_DesignatorHarvestSecondary>
+  <ZEN_DisplayStat_MinPlantGrowth>식물 성장/분</ZEN_DisplayStat_MinPlantGrowth>
+  <ZEN_MustPlaceHeadOnUnrakedGravel>손질되지 않은 자갈 위에 놓아야 합니다.</ZEN_MustPlaceHeadOnUnrakedGravel>
+  <ZEN_MustDesignateHarvestableSecondary>2차 자원을 수확 할 수 있는 식물을 지정해야 합니다.</ZEN_MustDesignateHarvestableSecondary>
+  <ZEN_MustDesignatePlantsWithSecondary>2차 자원이 있는 식물을 지정해야 합니다.</ZEN_MustDesignatePlantsWithSecondary>
+  <ZEN_CannotGrowBadSeason>성장하지 않음 (적절한 계절이 아닙니다)</ZEN_CannotGrowBadSeason>
+  <ZEN_OrchardZone>과수원 구역</ZEN_OrchardZone>
+  <ZEN_DisplayStat_MinGrowthReport>이 자원은 식물이 특정 시점까지 자라야만 수확 할 수 있습니다.</ZEN_DisplayStat_MinGrowthReport>
+
+  <!--1561713784_190818_High Density Hydroponics-->
+  <HDHHighestGrowth>재배</HDHHighestGrowth>
+  <HDHPlantCount>재배중인 수경재배기</HDHPlantCount>
+
+  <!--1536615776_190822_Cargo Pod Transport-->
+  <CommandAddFuel>연료넣기</CommandAddFuel>
+  <CommandAddFuelDesc>화물 포드에 연료를 넣습니다.</CommandAddFuelDesc>
+  <NonOilMsg>사용 가능한 화학 연료가 없습니다.</NonOilMsg>
+  <AddFuelDoneMsg>{0}개의 연료 추가, 현재 연료:{1}</AddFuelDoneMsg>
+
+</LanguageData>

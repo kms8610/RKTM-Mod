@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LevelUpLabel>등급 상향! {0}의 {2} 기술 등급이 {1}에 도달했습니다.</LevelUpLabel>
+  <LevelUpLabelShort>{0}의 등급이 상향되었습니다!</LevelUpLabelShort>
+  <LevelUpLabelLong>등급 상향! {0}의 {2} 기술 등급이 {1}에 도달함 ({3})</LevelUpLabelLong>
+  <LevelUpSettingsLabel>등급 상향</LevelUpSettingsLabel>
+  <LevelUpTextMessageLabel>문자 메시지</LevelUpTextMessageLabel>
+  <LevelUpTextMessageLabelTooltip>등급이 상향되었을 때 텍스트 메시지 보이기</LevelUpTextMessageLabelTooltip>
+  <LevelUpLetterLabel>편지</LevelUpLetterLabel>
+  <LevelUpLetterLabelTooltip>등급이 상향되었을 때 편지 받기</LevelUpLetterLabelTooltip>
+  <LevelUpSoundEffectLabel>소리 효과</LevelUpSoundEffectLabel>
+  <LevelUpSoundEffectLabelTooltip>등급이 상향되었 때 소리 효과 재생</LevelUpSoundEffectLabelTooltip>
+  <LevelUpAnimationLabel>애니메이션</LevelUpAnimationLabel>
+  <LevelUpAnimationLabelTooltip>등급이 상향되었을 때 캐릭터에게 애니메이션 실행</LevelUpAnimationLabelTooltip>
+  <LevelUpLevelDesc>등급 설명문</LevelUpLevelDesc>
+  <LevelUpLevelDescTooltip>메시지에 기술 등급 달성에 대한 림월드의 설명을 포함시킵니다.</LevelUpLevelDescTooltip>
+  <LevelDownLabel>등급 하향! {0}의 {2} 기술 등급이 {1}이 되었습니다.</LevelDownLabel>
+  <LevelDownLabelShort>{0} 등급 하향</LevelDownLabelShort>
+  <LevelDownLabelLong>등급 하향! {0}의 {2} 기술 등급이 {1}이 되었습니다. ({3})</LevelDownLabelLong>
+  <LevelDownSettingsLabel>등급 하향</LevelDownSettingsLabel>
+  <LevelDownTextMessageLabel>문자 메시지</LevelDownTextMessageLabel>
+  <LevelDownTextMessageLabelTooltip>등급이 하향되었 때 문자 메시지 보이기</LevelDownTextMessageLabelTooltip>
+  <LevelDownLetterLabel>편지</LevelDownLetterLabel>
+  <LevelDownLetterLabelTooltip>등급이 하향되었 때 편지 받기</LevelDownLetterLabelTooltip>
+  <LevelDownSoundEffectLabel>소리 효과</LevelDownSoundEffectLabel>
+  <LevelDownSoundEffectLabelTooltip>등급이 하향되었 때 소리 효과 재생</LevelDownSoundEffectLabelTooltip>
+  <LevelDownAnimationLabel>애니메이션</LevelDownAnimationLabel>
+  <LevelDownAnimationLabelTooltip>등급이 하향되었 때 캐릭터에게 애니메이션 실행</LevelDownAnimationLabelTooltip>
+  <LevelDownLevelDesc>등급 설명문</LevelDownLevelDesc>
+  <LevelDownLevelDescTooltip>메시지에 기술 등급 달성에 대한 림월드의 설명을 포함시킵니다.</LevelDownLevelDescTooltip>
+  <Ignore10To9Label>등급이 10에서 9로 떨어지는 현상</Ignore10To9Label>
+  <Ignore10To9LabelTooltip>10에서 9로 기술 등급이 떨어지는 현상 무시.
+
+시간에 따른 경험치 하락으로 캐릭터의 기술 등급이 10이 되자마자 9로 등급이 떨어지는 현상을 고쳐줍니다.</Ignore10To9LabelTooltip>
+  <NotificationTimerLabel>알림 타이머 (실험)</NotificationTimerLabel>
+  <NotificationTimerLabelTooltip>실험 중
+
+이 기능은 실험 중이지만 아직은 정상 작동 됩니다.
+
+각 폰들의 기술등급 알람이 뜨는 간격의 최소 시간(초)입니다.
+
+짧은 시간 내에 같은 폰의 기술 등급이 오르고 내려갔을 때 알림을 더 적게 받을 수 있도록 수정하는 설정입니다.</NotificationTimerLabelTooltip>
+  <SoundChooseLabel>소리</SoundChooseLabel>
+  <TestPlaySound>소리 재생</TestPlaySound>
+  <Krafs.LevelUp.LevelUpMessage>{0}의 {2} 기술 등급이 {1}에 도달했습니다.</Krafs.LevelUp.LevelUpMessage>
+  <Krafs.LevelUp.LevelDownMessage>{0}의 {2} 기술 등급이 {1}에 도달했습니다.</Krafs.LevelUp.LevelDownMessage>
+  <Krafs.LevelUp.LevelUpLabel>등급 상향</Krafs.LevelUp.LevelUpLabel>
+  <Krafs.LevelUp.LevelDownLabel>등급 하향</Krafs.LevelUp.LevelDownLabel>
+
+</LanguageData>

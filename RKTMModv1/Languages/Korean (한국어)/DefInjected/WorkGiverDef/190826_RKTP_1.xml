@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1076950211_190811_Therapy-->
+  <Therapy.label>정착민 상담</Therapy.label>
+  <Therapy.verb>상담</Therapy.verb>
+  <Therapy.gerund>상담중</Therapy.gerund>
+
+  <!--1082915328_190627_Expanded Woodworking-->
+  <DoBillsWoodworking.label>목재 제작</DoBillsWoodworking.label>
+  <DoBillsWoodworking.verb>목공</DoBillsWoodworking.verb>
+  <DoBillsWoodworking.gerund>목공</DoBillsWoodworking.gerund>
+
+  <!--1089876213_190622_Omni Core Drill-->
+  <DoBillsCoreMine.label>깊은 중심부 채굴하기</DoBillsCoreMine.label>
+  <DoBillsCoreMine.verb>채굴</DoBillsCoreMine.verb>
+  <DoBillsCoreMine.gerund>에서 채굴 중.</DoBillsCoreMine.gerund>
+
+  <!--1120445716_190627_Reclaim, Reuse, Recycle-->
+  <R3_DoWorkHarvestCorpse.label>시체 적출</R3_DoWorkHarvestCorpse.label>
+  <R3_DoWorkRefurbish.label>신체부위 복원/소독</R3_DoWorkRefurbish.label>
+  <R3_DoWorkHarvestCorpse.verb>작업</R3_DoWorkHarvestCorpse.verb>
+  <R3_DoWorkRefurbish.verb>작업</R3_DoWorkRefurbish.verb>
+  <R3_DoWorkHarvestCorpse.gerund>작업</R3_DoWorkHarvestCorpse.gerund>
+  <R3_DoWorkRefurbish.gerund>작업</R3_DoWorkRefurbish.gerund>
+
+  <!--1140051385_181113_Smokeleaf_Industry-->
+  <DoBillsAutoTrimmer.label>연초잎 자동 손질</DoBillsAutoTrimmer.label>
+  <DoBillsProduceMedicinals.verb>의약품 생산</DoBillsProduceMedicinals.verb>
+  <DoBillsProduceMedicinals.label>의약품 작업대에서 연초잎 의약품 생산</DoBillsProduceMedicinals.label>
+  <DoBillsCultivationBench.verb>연초잎 제품 생산</DoBillsCultivationBench.verb>
+  <DoBillsCultivationBench.label>재배 작업대에서 연초잎 제품 생산</DoBillsCultivationBench.label>
+  <DoBillsProduceMedicinals.gerund>의약품 생산</DoBillsProduceMedicinals.gerund>
+  <DoBillsCultivationBench.gerund>연초잎 제품 생산</DoBillsCultivationBench.gerund>
+  <DoBillsAutoTrimmer.verb>연초잎 손질</DoBillsAutoTrimmer.verb>
+  <DoBillsAutoTrimmer.gerund>연초잎 손질</DoBillsAutoTrimmer.gerund>
+
+  <!--1157085076_190627_Locks-->
+  <Locks_Flick.label>문 잠금/잠금 해제</Locks_Flick.label>
+  <Locks_Flick.verb>잠금/잠금 해제</Locks_Flick.verb>
+  <Locks_Flick.gerund>잠그는 중/잠금 해제하는 중</Locks_Flick.gerund>
+
+  <!--1185278809_181023_VGP Soylent Production-->
+  <DoBillsSoylent.verb>제작</DoBillsSoylent.verb>
+  <DoBillsSoylent.label>소일렌트 만들기</DoBillsSoylent.label>
+  <DoBillsSoylent.gerund>제작중</DoBillsSoylent.gerund>
+
+  <!--1204502413_190521_Harvest Organs Post Mortem-->
+  <DoBillsMedicalHumanOperationOrgans.label>의학적 장기 적출</DoBillsMedicalHumanOperationOrgans.label>
+  <DoBillsMedicalHumanOperationOrgans.verb>수술</DoBillsMedicalHumanOperationOrgans.verb>
+  <DoBillsMedicalHumanOperationOrgans.gerund>수술</DoBillsMedicalHumanOperationOrgans.gerund>
+
+  <!--1214615921_190627_Medical Training-->
+  <IF_TrainingMedicine.label>의학 훈련</IF_TrainingMedicine.label>
+  <IF_TrainingMedicine.verb>훈련</IF_TrainingMedicine.verb>
+  <IF_TrainingMedicine.gerund>훈련</IF_TrainingMedicine.gerund>
+
+  <!--1231678757_190814_Technology Blueprints-->
+  <DoBillsCraftBlueprint.label>기술 청사진 제작</DoBillsCraftBlueprint.label>
+  <DoBillsCraftBlueprint.verb>기술 청사진 제작</DoBillsCraftBlueprint.verb>
+  <DoBillsCraftBlueprint.gerund>기술 청사진 제작</DoBillsCraftBlueprint.gerund>
+
+  <!--1279012058_190622_Pick Up And Haul-->
+  <HaulToInventory.verb>운반</HaulToInventory.verb>
+  <HaulToInventory.gerund>모아서 운반</HaulToInventory.gerund>
+  <HaulToInventory.label>물품 정리 및 운반</HaulToInventory.label>
+
+  <!--1304432145_190814_Clone Bay-->
+  <DoBillsGrinder.label>분쇄</DoBillsGrinder.label>
+  <DoBillsGrinder.verb>분쇄</DoBillsGrinder.verb>
+  <DoBillsGrinder.gerund>분쇄</DoBillsGrinder.gerund>
+
+  <!--1316188771_190621_Door Expanded-->
+  <PH_PressOrFlip.label>TargetA 사용</PH_PressOrFlip.label>
+  <PH_PressOrFlip.verb>사용</PH_PressOrFlip.verb>
+  <PH_PressOrFlip.gerund>사용</PH_PressOrFlip.gerund>
+
+  <!--1400245220_181030_Lord of the Rims - The Third Age-->
+  <LotR_DoSmithing.label>주조</LotR_DoSmithing.label>
+  <LotR_DoSmithing.verb>주조하기</LotR_DoSmithing.verb>
+  <LotR_DoSmithing.gerund>주조 중</LotR_DoSmithing.gerund>
+
+  <!--1402763255_181030_Lord of the Rims - Unlimited-->
+  <LotR_DoSmithing.label>주조</LotR_DoSmithing.label>
+  <LotR_DoSmithing.verb>주조하기</LotR_DoSmithing.verb>
+  <LotR_DoSmithing.gerund>주조 중</LotR_DoSmithing.gerund>
+
+  <!--1440321094_190519_Auto Seller-->
+  <ASBargain.verb>상인과 거래합니다.</ASBargain.verb>
+  <ASPawnBargain.verb>상인과 거래합니다.</ASPawnBargain.verb>
+  <ASBargain.label>상인과 거래하기</ASBargain.label>
+  <ASPawnBargain.label>상인과 거래하기</ASPawnBargain.label>
+  <ASBargain.gerund>거래하는 중.</ASBargain.gerund>
+  <ASPawnBargain.gerund>거래하는 중.</ASPawnBargain.gerund>
+  <ASDoBillsShoppingLists.label>무역 보고 장치로 쇼핑 목록을 작성하다</ASDoBillsShoppingLists.label>
+  <ASDoBillsShoppingLists.verb>인쇄합니다.</ASDoBillsShoppingLists.verb>
+  <ASDoBillsShoppingLists.gerund>인쇄하는 중.</ASDoBillsShoppingLists.gerund>
+
+  <!--1496570408_181117_VGP Garden Canning-->
+  <DoBillsCanningMachine.label>음식 통조림</DoBillsCanningMachine.label>
+  <DoBillsCanningMachine.verb>밀봉</DoBillsCanningMachine.verb>
+  <DoBillsCanningMachine.gerund>밀봉 중</DoBillsCanningMachine.gerund>
+  <Canning_WorkGiver_FillUniversalFermenter.verb>채우기</Canning_WorkGiver_FillUniversalFermenter.verb>
+  <Canning_WorkGiver_FillUniversalFermenter.label>통조림 기계 채우기</Canning_WorkGiver_FillUniversalFermenter.label>
+  <Canning_WorkGiver_FillUniversalFermenter.gerund>채우는 중</Canning_WorkGiver_FillUniversalFermenter.gerund>
+  <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.verb>꺼내기</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
+  <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.label>통조림 기계 생산품 꺼내기</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.label>
+  <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>꺼내는 중</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
+
+  <!--1498756997_190814_Maid Project-->
+  <MakeMaidCostumes.verb>재봉</MakeMaidCostumes.verb>
+  <MakeMaidCostumes.gerund>재봉</MakeMaidCostumes.gerund>
+  <MakeMaidCostumes.label>재봉</MakeMaidCostumes.label>
+
+  <!--1505332648_190519_Gods of Elona [1.0]-->
+  <DoBillsElona_altar.label>제단</DoBillsElona_altar.label>
+  <DoBillsElona_altar.verb>제단</DoBillsElona_altar.verb>
+  <DoBillsElona_altar.gerund>제단에서 기도합니다</DoBillsElona_altar.gerund>
+
+  <!--1505914869_190616_What the hack!-->
+  <WTH_DoBillsPortableDisassemblingBench.label>메카노이드 분해</WTH_DoBillsPortableDisassemblingBench.label>
+  <WTH_DoBillsPortableDisassemblingBench.verb>분해</WTH_DoBillsPortableDisassemblingBench.verb>
+  <WTH_DoBillsPortableDisassemblingBench.gerund>분해하기</WTH_DoBillsPortableDisassemblingBench.gerund>
+  <WTH_DoBillsMechanoidWorkshop.label>메카노이드 작업대에서 물건 제작</WTH_DoBillsMechanoidWorkshop.label>
+  <WTH_DoBillsMechanoidWorkshop.verb>제작</WTH_DoBillsMechanoidWorkshop.verb>
+  <WTH_DoBillsMechanoidWorkshop.gerund>제작하기</WTH_DoBillsMechanoidWorkshop.gerund>
+  <WTH_DoBillsMedicalMechanoidOperation.label>메카노이드 개조</WTH_DoBillsMedicalMechanoidOperation.label>
+  <WTH_DoBillsMedicalMechanoidOperation.verb>개조</WTH_DoBillsMedicalMechanoidOperation.verb>
+  <WTH_DoBillsMedicalMechanoidOperation.gerund>개조하기</WTH_DoBillsMedicalMechanoidOperation.gerund>
+  <WTH_HaulMechanoid.label>메카노이드 운반</WTH_HaulMechanoid.label>
+  <WTH_HaulMechanoid.verb>운반</WTH_HaulMechanoid.verb>
+  <WTH_HaulMechanoid.gerund>운반하기</WTH_HaulMechanoid.gerund>
+  <WTH_MaintainMechanoid.label>메카노이드 정비</WTH_MaintainMechanoid.label>
+  <WTH_MaintainMechanoid.verb>메카노이드 정비</WTH_MaintainMechanoid.verb>
+  <WTH_MaintainMechanoid.gerund>메카노이드 정비하기</WTH_MaintainMechanoid.gerund>
+  <WTH_MaintainMechanoid_Urgent.label>메카노이드 긴급정비</WTH_MaintainMechanoid_Urgent.label>
+  <WTH_MaintainMechanoid_Urgent.verb>메카노이드 긴급정비</WTH_MaintainMechanoid_Urgent.verb>
+  <WTH_MaintainMechanoid_Urgent.gerund>메카노이드 긴급정비하기</WTH_MaintainMechanoid_Urgent.gerund>
+  <WTH_HackRogueAI.label>로그 AI 해킹</WTH_HackRogueAI.label>
+  <WTH_HackRogueAI.verb>로그 AI 해킹</WTH_HackRogueAI.verb>
+  <WTH_HackRogueAI.gerund>로그 AI 해킹하기</WTH_HackRogueAI.gerund>
+
+  <!--1512478761_190627_Expanded Roofing-->
+  <PerformRoofMaintenance.label>지붕 보수 작업</PerformRoofMaintenance.label>
+  <PerformRoofMaintenance.verb>지붕 보수 작업</PerformRoofMaintenance.verb>
+  <PerformRoofMaintenance.gerund>지붕 보수 작업</PerformRoofMaintenance.gerund>
+
+  <!--1522429439_190628_Slave Outfits-->
+  <MakeSlaveOutfits.verb>제작</MakeSlaveOutfits.verb>
+  <MakeSlaveOutfits.gerund>제작 중</MakeSlaveOutfits.gerund>
+  <MakeSlaveOutfits.label>죄수복 만들기</MakeSlaveOutfits.label>
+
+  <!--1522917562_190628_Vanilla-like wheat-->
+  <VLW_DoBillsBake.verb>굽기</VLW_DoBillsBake.verb>
+  <VLW_DoBillsBake.label>굽기</VLW_DoBillsBake.label>
+  <VLW_DoBillsBake.gerund>굽는 중.</VLW_DoBillsBake.gerund>
+  <UF_WorkGiver_FillUniversalFermenter.verb>채우기</UF_WorkGiver_FillUniversalFermenter.verb>
+  <UF_WorkGiver_FillUniversalFermenter.label>발효통 채우기</UF_WorkGiver_FillUniversalFermenter.label>
+  <UF_WorkGiver_FillUniversalFermenter.gerund>채우는 중</UF_WorkGiver_FillUniversalFermenter.gerund>
+  <MillGrain.verb>가공</MillGrain.verb>
+  <MillGrain.label>밀 가공</MillGrain.label>
+  <MillGrain.gerund>가공하는 중.</MillGrain.gerund>
+  <UF_WorkGiver_TakeProductOutOfUniversalFermenter.verb>물품 꺼내기</UF_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
+  <UF_WorkGiver_TakeProductOutOfUniversalFermenter.label>발효통에서 물품을 꺼냅니다.</UF_WorkGiver_TakeProductOutOfUniversalFermenter.label>
+  <UF_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>물품 꺼내기</UF_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
+
+  <!--1523058989_190626_Camping Stuff-->
+  <DoBillsCookPortableStove.verb>요리</DoBillsCookPortableStove.verb>
+  <DoBillsCookPortableStove.label>휴대용 스토브에서 요리 중</DoBillsCookPortableStove.label>
+  <DoBillsCookPortableStove.gerund>조리</DoBillsCookPortableStove.gerund>
+
+  <!--1530267593_190701_Caravan Gear-->
+  <DoBillsCookAtCaravanStove.verb>요리</DoBillsCookAtCaravanStove.verb>
+  <DoBillsCookAtCaravanStove.label>휴대용 스토브에서 요리</DoBillsCookAtCaravanStove.label>
+  <DoBillsCookAtCaravanStove.gerund>요리</DoBillsCookAtCaravanStove.gerund>
+  <DoBillsCaravanBiofuelRefinery_TWB.verb>화학연료 정제</DoBillsCaravanBiofuelRefinery_TWB.verb>
+  <DoBillsCaravanBiofuelRefinery_TWB.gerund>화학연료 정제</DoBillsCaravanBiofuelRefinery_TWB.gerund>
+  <DoBillsCaravanBiofuelRefinery_TWB.label>휴대용 정제기에서 정제</DoBillsCaravanBiofuelRefinery_TWB.label>
+
+  <!--1539311500_181027_Fertile Fields-->
+  <ConstructFinishFramesGrowing.verb>밭 갈기</ConstructFinishFramesGrowing.verb>
+  <ConstructFinishFramesGrowing.gerund>밭 가는 중.</ConstructFinishFramesGrowing.gerund>
+  <ConstructDeliverResourcesToBlueprintsGrowing.label>토양을 개선하기 위해 자원을 이송하는 중</ConstructDeliverResourcesToBlueprintsGrowing.label>
+  <DeliverResourcesToBlueprintsGrowing.label>토양을 개선하기 위해 자원을 이송하는 중</DeliverResourcesToBlueprintsGrowing.label>
+  <DeliverResourcesToBlueprintsGrowing.verb>운반</DeliverResourcesToBlueprintsGrowing.verb>
+  <DeliverResourcesToBlueprintsGrowing.gerund>운반 중.</DeliverResourcesToBlueprintsGrowing.gerund>
+  <DoBillsUseRockMill.label>제분기 작업하기</DoBillsUseRockMill.label>
+  <ConstructFinishFramesGrowing.label>비료 주고 밭 갈기</ConstructFinishFramesGrowing.label>
+  <FillCompostBarrel.verb>퇴비 채우기</FillCompostBarrel.verb>
+  <FillCompostBarrel.label>퇴비 숙성고 채우기</FillCompostBarrel.label>
+  <FillCompostBarrel.gerund>퇴비 채우는 중.</FillCompostBarrel.gerund>
+  <DoBillsUseRockMill.verb>제분기 작업</DoBillsUseRockMill.verb>
+  <DoBillsUseRockMill.gerund>분쇄 중.</DoBillsUseRockMill.gerund>
+  <EmptyCompostBarrel.verb>비료 꺼내기</EmptyCompostBarrel.verb>
+  <EmptyCompostBarrel.label>퇴비 숙성고에서 비료 꺼내기</EmptyCompostBarrel.label>
+  <EmptyCompostBarrel.gerund>비료 꺼내는 중.</EmptyCompostBarrel.gerund>
+  <ConstructDeliverResourcesToBlueprintsGrowing.verb>개간하기</ConstructDeliverResourcesToBlueprintsGrowing.verb>
+  <ConstructDeliverResourcesToBlueprintsGrowing.gerund>개간 중.</ConstructDeliverResourcesToBlueprintsGrowing.gerund>
+
+  <!--1539311991_190814_Fishing-->
+  <WorkGiver_CatchFish.label>낚시하기</WorkGiver_CatchFish.label>
+  <WorkGiver_CatchFish.verb>낚시를 합니다.</WorkGiver_CatchFish.verb>
+  <WorkGiver_CatchFish.gerund>낚시하는 중.</WorkGiver_CatchFish.gerund>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu_DeliverWaterToPrisoner.verb>물을 전달</Mizu_DeliverWaterToPrisoner.verb>
+  <Mizu_DeliverWaterToPrisoner.label>죄수에게 물을 전달</Mizu_DeliverWaterToPrisoner.label>
+  <Mizu_DeliverWaterToPrisoner.gerund>물을 전달</Mizu_DeliverWaterToPrisoner.gerund>
+  <Mizu_DoBillWater.label>물을 길음</Mizu_DoBillWater.label>
+  <Mizu_DoBillWater.verb>긷다</Mizu_DoBillWater.verb>
+  <Mizu_DoBillWater.gerund>물을 길음</Mizu_DoBillWater.gerund>
+  <Mizu_DoBillIce.label>얼음을 채취함</Mizu_DoBillIce.label>
+  <Mizu_DoctorFeedWaterHumanlikes.verb>급수</Mizu_DoctorFeedWaterHumanlikes.verb>
+  <Mizu_DoctorFeedWaterAnimals.verb>급수</Mizu_DoctorFeedWaterAnimals.verb>
+  <Mizu_DoctorFeedWaterAnimals.label>동물에게 물을 먹임</Mizu_DoctorFeedWaterAnimals.label>
+  <Mizu_DoctorFeedWaterHumanlikes.label>환자에게 물을 먹임</Mizu_DoctorFeedWaterHumanlikes.label>
+  <Mizu_DoctorFeedWaterHumanlikes.gerund>급수중</Mizu_DoctorFeedWaterHumanlikes.gerund>
+  <Mizu_DoctorFeedWaterAnimals.gerund>급수 중</Mizu_DoctorFeedWaterAnimals.gerund>
+  <Mizu_GetSnow.label>눈 채취하기</Mizu_GetSnow.label>
+  <Mizu_GetSnow.verb>눈 채취</Mizu_GetSnow.verb>
+  <Mizu_GetSnow.gerund>눈 채취 중</Mizu_GetSnow.gerund>
+  <Mizu_DoBillIce.verb>채취</Mizu_DoBillIce.verb>
+  <Mizu_DoBillIce.gerund>채취 중</Mizu_DoBillIce.gerund>
+  <Mizu_Mop.label>대걸레</Mizu_Mop.label>
+  <Mizu_Mop.verb>닦기</Mizu_Mop.verb>
+  <Mizu_Mop.gerund>닦는 중.</Mizu_Mop.gerund>
+  <Mizu_NurseToHumanlikes.verb>간호</Mizu_NurseToHumanlikes.verb>
+  <Mizu_NurseToHumanlikes.label>환자 간호</Mizu_NurseToHumanlikes.label>
+  <Mizu_NurseToHumanlikes.gerund>간호하는 중</Mizu_NurseToHumanlikes.gerund>
+  <Mizu_CleanWater.verb>정수</Mizu_CleanWater.verb>
+  <Mizu_CleanWater.gerund>정수 중</Mizu_CleanWater.gerund>
+  <Mizu_CleanWater.label>깨끗한 물</Mizu_CleanWater.label>
+  <Mizu_SupplyWaterToToolDrawing.verb>물을 공급</Mizu_SupplyWaterToToolDrawing.verb>
+  <Mizu_SupplyWaterToToolCleaning.verb>물을 공급</Mizu_SupplyWaterToToolCleaning.verb>
+  <Mizu_SupplyWaterToToolDoctor.verb>물을 공급</Mizu_SupplyWaterToToolDoctor.verb>
+  <Mizu_SupplyWaterToToolDrawing.label>물 공급하기</Mizu_SupplyWaterToToolDrawing.label>
+  <Mizu_SupplyWaterToToolCleaning.label>물 공급하기</Mizu_SupplyWaterToToolCleaning.label>
+  <Mizu_SupplyWaterToToolDoctor.label>물 공급하기</Mizu_SupplyWaterToToolDoctor.label>
+  <Mizu_SupplyWaterToToolDrawing.gerund>물 공급하는 중.</Mizu_SupplyWaterToToolDrawing.gerund>
+  <Mizu_SupplyWaterToToolCleaning.gerund>물 공급하는 중.</Mizu_SupplyWaterToToolCleaning.gerund>
+  <Mizu_SupplyWaterToToolDoctor.gerund>물 공급하는 중.</Mizu_SupplyWaterToToolDoctor.gerund>
+  <Mizu_WaterFarm.verb>물 주기</Mizu_WaterFarm.verb>
+  <Mizu_WaterFarm.label>작물에 물 주기</Mizu_WaterFarm.label>
+  <Mizu_WaterFarm.gerund>물 주는 중</Mizu_WaterFarm.gerund>
+
+  <!--1542364782_190622_Smoked meat-->
+  <DoBillsSmokeMeat.verb>훈제</DoBillsSmokeMeat.verb>
+  <DoBillsSmokeMeat.label>고기 훈제</DoBillsSmokeMeat.label>
+  <DoBillsSmokeMeat.gerund>훈제</DoBillsSmokeMeat.gerund>
+
+  <!--1543060282_181101_Additional Joy Objects-->
+  <AJO_DoBillsArcadeConstruction.label>오락기 만들기</AJO_DoBillsArcadeConstruction.label>
+  <AJO_DoBillsArcadeConstruction.verb>만들기</AJO_DoBillsArcadeConstruction.verb>
+  <AJO_DoBillsArcadeConstruction.gerund>만드는 중</AJO_DoBillsArcadeConstruction.gerund>
+  <AJO_DoBillsMakePainting.verb>그림 그리기</AJO_DoBillsMakePainting.verb>
+  <AJO_DoBillsMakePainting.label>이젤에서 그림 그리기</AJO_DoBillsMakePainting.label>
+  <AJO_DoBillsMakePainting.gerund>그림 그리는 중</AJO_DoBillsMakePainting.gerund>
+  <AJO_DoBillsWritingTable.label>책 집필하기</AJO_DoBillsWritingTable.label>
+  <AJO_DoBillsWritingTable.verb>글쓰기</AJO_DoBillsWritingTable.verb>
+  <AJO_DoBillsWritingTable.gerund>글쓰기</AJO_DoBillsWritingTable.gerund>
+
+  <!--1543177113_190628_Quarry-->
+  <QRY_MineQuarry.label>채석장에서 자원을 채광</QRY_MineQuarry.label>
+  <QRY_MineQuarry.verb>채광</QRY_MineQuarry.verb>
+  <QRY_MineQuarry.gerund>채광</QRY_MineQuarry.gerund>
+
+  <!--1543561093_190621_MoreFloors-->
+  <DoBillsWeaveWool.label>방직</DoBillsWeaveWool.label>
+  <DoBillsWeaveWool.verb>방직</DoBillsWeaveWool.verb>
+  <DoBillsWeaveWool.gerund>방직</DoBillsWeaveWool.gerund>
+
+  <!--1543671683_190607_[1.0]ResourcePackCore-->
+  <DoBillsUseRPC_GatheringSpot_Ice.label>얼음판에서 얼음 채집</DoBillsUseRPC_GatheringSpot_Ice.label>
+  <DoBillsUseRPC_GatheringSpot_Dirt.label>토양에서 흙 채집</DoBillsUseRPC_GatheringSpot_Dirt.label>
+  <DoBillsUseRPC_GatheringSpot_Gravel.label>토양에서 자갈 채집</DoBillsUseRPC_GatheringSpot_Gravel.label>
+  <DoBillsUseRPC_GatheringSpot_Sand.label>토양에서 모래 채집</DoBillsUseRPC_GatheringSpot_Sand.label>
+  <DoBillsUseRPC_GatheringSpot_Dirt.gerund>채집하다</DoBillsUseRPC_GatheringSpot_Dirt.gerund>
+  <DoBillsUseRPC_GatheringSpot_Sand.gerund>채집하다</DoBillsUseRPC_GatheringSpot_Sand.gerund>
+  <DoBillsUseRPC_GatheringSpot_Gravel.gerund>채집하다</DoBillsUseRPC_GatheringSpot_Gravel.gerund>
+  <DoBillsUseRPC_GatheringSpot_Ice.gerund>채집하다</DoBillsUseRPC_GatheringSpot_Ice.gerund>
+
+  <!--1549446374_190519_Musical Instruments-->
+  <MusicPlay.verb>연주하기</MusicPlay.verb>
+  <MusicPlay.label>음악 연주하기</MusicPlay.label>
+  <MusicPlay.gerund>공연</MusicPlay.gerund>
+
+  <!--1563793492_190519_Milkable Colonists-->
+  <MilkHumanlike.verb>우유</MilkHumanlike.verb>
+  <MilkHumanlike.label>수인의 우유</MilkHumanlike.label>
+  <MilkHumanlike.gerund>착유</MilkHumanlike.gerund>
+
+  <!--1566269698_181119_Survival Tools-->
+  <FellTrees.verb>벌목</FellTrees.verb>
+  <FellTrees.label>나무를 쓰러트리다</FellTrees.label>
+  <FellTrees.gerund>벌목</FellTrees.gerund>
+
+  <!--1635565299_190714_Simple_Slavery-->
+  <DoEnslavement.label>포로 노예화</DoEnslavement.label>
+  <DoEnslavement.verb>노예화합니다</DoEnslavement.verb>
+  <DoEnslavement.gerund>노예화 하는 중</DoEnslavement.gerund>
+  <DoEmancipate.label>노예 해방</DoEmancipate.label>
+  <DoEmancipate.verb>해방시킵니다</DoEmancipate.verb>
+  <DoEmancipate.gerund>해방시키는 중</DoEmancipate.gerund>
+  <DoShackling.label>노예 족쇄</DoShackling.label>
+  <DoShackling.verb>족쇄를 조정합니다</DoShackling.verb>
+  <DoShackling.gerund>족쇄 조정 중</DoShackling.gerund>
+
+  <!--1671814939_190519_Beta Traps-->
+  <RearmTraps.verb>함정 재장전</RearmTraps.verb>
+  <RearmTraps.label>함정 재장전</RearmTraps.label>
+  <RearmTraps.gerund>함정 재장전하기</RearmTraps.gerund>
+
+  <!--1706030487_190519_Human Power Generator-->
+  <HPGMCycle.verb>자전거 타기</HPGMCycle.verb>
+  <HPGMCycle.gerund>자전거 타는 중</HPGMCycle.gerund>
+  <HPGMCycle.label>인력 발전기 가동</HPGMCycle.label>
+
+  <!--1778162471_190626_RazzleDazzle-->
+  <WorkGiver_Rehearser.verb>예행연습</WorkGiver_Rehearser.verb>
+  <WorkGiver_Rehearser.gerund>예행연습</WorkGiver_Rehearser.gerund>
+  <WorkGiver_PreparePerformance.verb>공연</WorkGiver_PreparePerformance.verb>
+  <WorkGiver_PreparePerformance.gerund>공연 준비</WorkGiver_PreparePerformance.gerund>
+  <WorkGiver_DoBillsAtGrandPiano.verb>음악 조율</WorkGiver_DoBillsAtGrandPiano.verb>
+  <WorkGiver_DoBillsAtGrandPiano.gerund>음악 조율</WorkGiver_DoBillsAtGrandPiano.gerund>
+
+  <!--715565262_181031_Colony Manager-->
+  <ManagerManage.verb>관리</ManagerManage.verb>
+  <ManagerManage.gerund>관리</ManagerManage.gerund>
+
+  <!--724600171_190621_Misc. MAI-->
+  <DoBillsAIPawnConstructor.label>Mai 건설</DoBillsAIPawnConstructor.label>
+  <DoBillsAIPawnConstructor.verb>채우기</DoBillsAIPawnConstructor.verb>
+  <DoBillsAIPawnConstructor.gerund>채우기</DoBillsAIPawnConstructor.gerund>
+  <DoBillsAIPawnInactive.label>Mai 활성화</DoBillsAIPawnInactive.label>
+  <DoBillsAIPawnInactive.verb>활성화</DoBillsAIPawnInactive.verb>
+  <DoBillsAIPawnInactive.gerund>활성화</DoBillsAIPawnInactive.gerund>
+  <DoBillsMedicalOperationAIPawn.label>Mai 작업</DoBillsMedicalOperationAIPawn.label>
+  <DoBillsMedicalOperationAIPawn.verb>작업</DoBillsMedicalOperationAIPawn.verb>
+  <DoBillsMedicalOperationAIPawn.gerund>작업</DoBillsMedicalOperationAIPawn.gerund>
+  <DoBillsMedicalOperationAIPawnE.label>MAI 작업</DoBillsMedicalOperationAIPawnE.label>
+  <DoBillsMedicalOperationAIPawnE.verb>작업</DoBillsMedicalOperationAIPawnE.verb>
+  <DoBillsMedicalOperationAIPawnE.gerund>작업</DoBillsMedicalOperationAIPawnE.gerund>
+
+  <!--724602224_190626_Misc. Robots-->
+  <DoBillAIRobotRepairAtStation.label>로봇 수리</DoBillAIRobotRepairAtStation.label>
+  <DoBillAIRobotRepairAtStation.verb>수리</DoBillAIRobotRepairAtStation.verb>
+  <DoBillAIRobotRepairAtStation.gerund>수리</DoBillAIRobotRepairAtStation.gerund>
+
+  <!--725576127_190626_Glitter Tech-->
+  <DoBillsMatterfab.label>물질 합성기 작동</DoBillsMatterfab.label>
+  <DoBillsMatterfab.verb>합성</DoBillsMatterfab.verb>
+  <DoBillsMatterfab.gerund>합성</DoBillsMatterfab.gerund>
+  <DoBillsElectrolysis.label>전기 분해기 작동</DoBillsElectrolysis.label>
+  <DoBillsElectrolysis.verb>전기 분해</DoBillsElectrolysis.verb>
+  <DoBillsElectrolysis.gerund>전기 분해</DoBillsElectrolysis.gerund>
+  <DoBillsRobassem.label>자동화 조립기 작동</DoBillsRobassem.label>
+  <DoBillsRobassem.verb>조립</DoBillsRobassem.verb>
+  <DoBillsRobassem.gerund>조립</DoBillsRobassem.gerund>
+  <DoBillsPharma.label>제약 작업대 작동</DoBillsPharma.label>
+  <DoBillsPharma.verb>제약</DoBillsPharma.verb>
+  <DoBillsPharma.gerund>제약</DoBillsPharma.gerund>
+
+  <!--726244033_181028_Fluffy Breakdowns-->
+  <FluffyBreakdowns_Maintenance.verb>관리</FluffyBreakdowns_Maintenance.verb>
+  <FluffyBreakdowns_Maintenance.label>부품 관리</FluffyBreakdowns_Maintenance.label>
+  <FluffyBreakdowns_Maintenance.gerund>관리중</FluffyBreakdowns_Maintenance.gerund>
+
+  <!--731732064_190622_Extended Storage-->
+  <ExtendedStorage_MergeStacks.label>창고 정리</ExtendedStorage_MergeStacks.label>
+  <ExtendedStorage_MergeStacks.verb>창고 정리</ExtendedStorage_MergeStacks.verb>
+  <ExtendedStorage_MergeStacks.gerund>창고 정리</ExtendedStorage_MergeStacks.gerund>
+
+  <!--732569232_190814_Medieval Times-->
+  <MedTimes_DoBillsButcher.verb>도축</MedTimes_DoBillsButcher.verb>
+  <MedTimes_DoBillsButcher.label>시체 도축하기</MedTimes_DoBillsButcher.label>
+  <MedTimes_DoBillsButcher.gerund>에서 도축 중.</MedTimes_DoBillsButcher.gerund>
+  <MedTimes_DoBillsDesk.verb>작문</MedTimes_DoBillsDesk.verb>
+  <MedTimes_DoBillsDesk.label>책상에서 예술 작품 작문하기</MedTimes_DoBillsDesk.label>
+  <MedTimes_DoBillsDesk.gerund>에서 작문 중.</MedTimes_DoBillsDesk.gerund>
+  <MedTimes_DoBillsCook.verb>조리</MedTimes_DoBillsCook.verb>
+  <MedTimes_DoBillsCook.gerund>에서 조리 중.</MedTimes_DoBillsCook.gerund>
+  <MedTimes_DoBillsCraftingStation.verb>만들기</MedTimes_DoBillsCraftingStation.verb>
+  <MedTimes_DoBillsCraftingStation.label>제작대에서 아이템을 만들기</MedTimes_DoBillsCraftingStation.label>
+  <MedTimes_DoBillsCraftingStation.gerund>에서 만드는 중.</MedTimes_DoBillsCraftingStation.gerund>
+  <MedTimes_DoBillsArtisanStation.verb>만들기</MedTimes_DoBillsArtisanStation.verb>
+  <MedTimes_DoBillsIceCreation.label>얼음블록을 만들기</MedTimes_DoBillsIceCreation.label>
+  <MedTimes_DoBillsArtisanStation.label>미술대에서 예술작품 만들기</MedTimes_DoBillsArtisanStation.label>
+  <MedTimes_DoBillsArtisanStation.gerund>에서 만드는 중.</MedTimes_DoBillsArtisanStation.gerund>
+  <MedTimes_DoBillsQuarry.label>절삭하기</MedTimes_DoBillsQuarry.label>
+  <MedTimes_DoBillsCremateCorpseBonfire.label>소각하기</MedTimes_DoBillsCremateCorpseBonfire.label>
+  <MedTimes_DoBillsIceCreation.verb>냉각</MedTimes_DoBillsIceCreation.verb>
+  <MedTimes_DoBillsIceCreation.gerund>에서 냉각 중.</MedTimes_DoBillsIceCreation.gerund>
+  <MedTimes_DoBillsIceGathering.verb>채집</MedTimes_DoBillsIceGathering.verb>
+  <MedTimes_DoBillsIceGathering.label>얼음블록을 채집하기</MedTimes_DoBillsIceGathering.label>
+  <MedTimes_DoBillsIceGathering.gerund>에서 채집 중.</MedTimes_DoBillsIceGathering.gerund>
+  <MedTimes_DoBillsCremateCorpseBonfire.verb>소각</MedTimes_DoBillsCremateCorpseBonfire.verb>
+  <MedTimes_DoBillsCremateCorpseBonfire.gerund>에서 소각 중.</MedTimes_DoBillsCremateCorpseBonfire.gerund>
+  <MedTimes_DoBillsEternityForge.verb>주입</MedTimes_DoBillsEternityForge.verb>
+  <MedTimes_DoBillsEternityForge.label>자가 복제 네이나이트 주입하기</MedTimes_DoBillsEternityForge.label>
+  <MedTimes_DoBillsEternityForge.gerund>에서 주입 중.</MedTimes_DoBillsEternityForge.gerund>
+  <MedTimes_DoBillsCook.label>조리대에서 음식 준비하기</MedTimes_DoBillsCook.label>
+  <MedTimes_DoBillsSmelter.verb>제련</MedTimes_DoBillsSmelter.verb>
+  <MedTimes_DoBillsSmelter.label>아이템을 제련하기</MedTimes_DoBillsSmelter.label>
+  <MedTimes_DoBillsSmelter.gerund>에서 제련 중.</MedTimes_DoBillsSmelter.gerund>
+  <MedTimes_DoBillsSmithing.verb>단조</MedTimes_DoBillsSmithing.verb>
+  <MedTimes_DoBillsSmithing.label>중세 아이템을 단조하기</MedTimes_DoBillsSmithing.label>
+  <MedTimes_DoBillsSmithing.gerund>에서 단조 중.</MedTimes_DoBillsSmithing.gerund>
+  <MedTimes_DoBillsQuarry.verb>절삭</MedTimes_DoBillsQuarry.verb>
+  <MedTimes_DoBillsQuarry.gerund>절삭</MedTimes_DoBillsQuarry.gerund>
+  <MedTimes_DoBillsTailoringStation.label>재봉대에서 아이템을 재단하기</MedTimes_DoBillsTailoringStation.label>
+  <MedTimes_DoBillsTailoringStation.verb>재봉</MedTimes_DoBillsTailoringStation.verb>
+  <MedTimes_DoBillsTailoringStation.gerund>재단</MedTimes_DoBillsTailoringStation.gerund>
+
+  <!--735241897_190519_MendAndRecycle-->
+  <DoBillsMending.label>수선</DoBillsMending.label>
+  <DoBillsMending.verb>수선</DoBillsMending.verb>
+  <DoBillsMending.gerund>수선</DoBillsMending.gerund>
+
+  <!--746425621_181026_A dog said-->
+  <DoBillsAnimalProsthetics.verb>동물 보철물을 제작합니다.</DoBillsAnimalProsthetics.verb>
+  <DoBillsAnimalProsthetics.label>동물 보철물 제작</DoBillsAnimalProsthetics.label>
+  <DoBillsAnimalProsthetics.gerund>동물 보철물 제작 중.</DoBillsAnimalProsthetics.gerund>
+
+  <!--747397788_190814_More Batteries-->
+  <DoBillspowercellcreator.label>파워 셀 만들기</DoBillspowercellcreator.label>
+  <DoBillspowercellcreator.verb>만들기</DoBillspowercellcreator.verb>
+  <DoBillspowercellcreator.gerund>만들기</DoBillspowercellcreator.gerund>
+
+  <!--747645520_190627_Misc. Robots++-->
+  <DoBills_RPP_Robotics.label>로봇 제작 조립대 작업 중</DoBills_RPP_Robotics.label>
+  <DoBills_RPP_Robotics.verb>생산</DoBills_RPP_Robotics.verb>
+  <DoBills_RPP_Robotics.gerund>생산</DoBills_RPP_Robotics.gerund>
+
+  <!--758810805_190811_FishIndustry-->
+  <WorkGiver_UseAquacultureBasin.verb>장치 관리</WorkGiver_UseAquacultureBasin.verb>
+  <WorkGiver_UseAquacultureBasin.gerund>장치 관리 중</WorkGiver_UseAquacultureBasin.gerund>
+  <WorkGiver_FishAtFishingPier.verb>낚시하기</WorkGiver_FishAtFishingPier.verb>
+  <WorkGiver_FishAtFishingPier.gerund>낚시하는 중</WorkGiver_FishAtFishingPier.gerund>
+  <WorkGiver_FishAtFishingZone.verb>낚시하기</WorkGiver_FishAtFishingZone.verb>
+  <WorkGiver_FishAtFishingZone.gerund>낚시하는 중</WorkGiver_FishAtFishingZone.gerund>
+
+  <!--775650249_181117_RimMagic-->
+  <DoBillsUseMagicWorkTable.verb>제작</DoBillsUseMagicWorkTable.verb>
+  <DoBillsUseMagicWorkTable.gerund>제작</DoBillsUseMagicWorkTable.gerund>
+  <DoBillsUseMagicWorkTable.label>제작 장소에서 목록을 장석합니다.</DoBillsUseMagicWorkTable.label>
+
+  <!--777197241_190628_Industrial Age - Objects and Furniture-->
+  <DoBillsCookWoodStoveFurnace.verb>조리</DoBillsCookWoodStoveFurnace.verb>
+  <DoBillsCookWoodStoveFurnace.label>장작 난로에서 조리</DoBillsCookWoodStoveFurnace.label>
+  <DoBillsCookWoodStoveFurnace.gerund>조리 중</DoBillsCookWoodStoveFurnace.gerund>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <ROM_InvestigateMysteriousObject.label>조사</ROM_InvestigateMysteriousObject.label>
+  <ROM_InvestigateMysteriousObject.verb>조사</ROM_InvestigateMysteriousObject.verb>
+  <ROM_InvestigateMysteriousObjectTree.label>조사</ROM_InvestigateMysteriousObjectTree.label>
+  <ROM_InvestigateMysteriousObjectTree.verb>조사</ROM_InvestigateMysteriousObjectTree.verb>
+  <ROM_InvestigateMysteriousObject.gerund>조사 중</ROM_InvestigateMysteriousObject.gerund>
+  <ROM_InvestigateMysteriousObjectTree.gerund>조사 중</ROM_InvestigateMysteriousObjectTree.gerund>
+  <LoadTransportersPawn.verb>열기</LoadTransportersPawn.verb>
+  <LoadTransportersPawn.label>화물칸 열기</LoadTransportersPawn.label>
+  <LoadTransportersPawn.gerund>여는 중</LoadTransportersPawn.gerund>
+  <PruneAndRepair.verb>가지 치기 및 수리</PruneAndRepair.verb>
+  <PruneAndRepair.gerund>가지 치기 및 수리 중</PruneAndRepair.gerund>
+  <PruneAndRepair.label>손상된 물건 수리</PruneAndRepair.label>
+
+  <!--83233353_190626_Dubs Rimkit-->
+  <FixBrokenDownBuildingWithKit.label>고장난 건물을 수리용품으로 수리</FixBrokenDownBuildingWithKit.label>
+  <FixBrokenDownBuildingWithKit.verb>망가진 부품을 수리용품으로 대체</FixBrokenDownBuildingWithKit.verb>
+  <FixBrokenDownBuildingWithKit.gerund>망가진 부품을 수리용품으로 대체중</FixBrokenDownBuildingWithKit.gerund>
+
+  <!--918227266_181112_Star Wars - Factions-->
+  <DoBills_PJ_Bench.verb>조립</DoBills_PJ_Bench.verb>
+  <DoBills_PJ_Bench.gerund>조립</DoBills_PJ_Bench.gerund>
+  <DoBills_PJ_Bench.label>진보된 폴리알로이 무기 및 갑옷 제조</DoBills_PJ_Bench.label>
+
+  <!--1185269798_190818_VGP Garden Fabrics-->
+  <DoBillsTableLoom.label>베틀로 짜기</DoBillsTableLoom.label>
+  <DoBillsTableLoom.verb>방직</DoBillsTableLoom.verb>
+  <DoBillsTableLoom.gerund>방직 중</DoBillsTableLoom.gerund>
+
+</LanguageData>

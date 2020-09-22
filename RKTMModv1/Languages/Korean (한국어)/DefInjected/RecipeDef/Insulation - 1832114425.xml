@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_INSSlab_Biomass.label>단열재 제작 (바이오매스)</Make_INSSlab_Biomass.label>
+  <Make_INSSlab_Biomass.description>단열재 제작 x5 (바이오매스).</Make_INSSlab_Biomass.description>
+  <Make_INSSlab_Biomass.jobString>단열재 제작 중.</Make_INSSlab_Biomass.jobString>
+  <MakeBulk_INSSlab_Biomass.label>단열재 (바이오 매스) 대량 제작</MakeBulk_INSSlab_Biomass.label>
+  <MakeBulk_INSSlab_Biomass.description>단열재 (바이오 매스)를 대량 제작합니다.</MakeBulk_INSSlab_Biomass.description>
+  <MakeBulk_INSSlab_Biomass.jobString>단열재 제작 중.</MakeBulk_INSSlab_Biomass.jobString>
+  <Make_INSSlab_Fibre.label>단열재 제작 (섬유)</Make_INSSlab_Fibre.label>
+  <Make_INSSlab_Fibre.description>단열재 제작 x5 (섬유).</Make_INSSlab_Fibre.description>
+  <Make_INSSlab_Fibre.jobString>단열재 제작 중.</Make_INSSlab_Fibre.jobString>
+  <MakeBulk_INSSlab_Fibre.label>단열재 (섬유) 대량 제작</MakeBulk_INSSlab_Fibre.label>
+  <MakeBulk_INSSlab_Fibre.description>단열재 (섬유)를 대량 제작합니다.</MakeBulk_INSSlab_Fibre.description>
+  <MakeBulk_INSSlab_Fibre.jobString>단열재 제작 중.</MakeBulk_INSSlab_Fibre.jobString>
+  <Recycle_INSSlab_Fibre.label>단열재 재활용 (섬유)</Recycle_INSSlab_Fibre.label>
+  <Recycle_INSSlab_Fibre.description>단열재 5개를 재활용 합니다. (섬유)</Recycle_INSSlab_Fibre.description>
+  <Recycle_INSSlab_Fibre.jobString>단열재 재활용 중.</Recycle_INSSlab_Fibre.jobString>
+  <Make_INSSlab_Polymer.label>단열재 제작 (중합체)</Make_INSSlab_Polymer.label>
+  <Make_INSSlab_Polymer.description>단열재 제작 x5 (중합체).</Make_INSSlab_Polymer.description>
+  <Make_INSSlab_Polymer.jobString>단열재 제작 중.</Make_INSSlab_Polymer.jobString>
+  <MakeBulk_INSSlab_Polymer.label>단열재 (중합체) 대량 제작</MakeBulk_INSSlab_Polymer.label>
+  <MakeBulk_INSSlab_Polymer.description>단열재 (중합체)를 대량 제작합니다.</MakeBulk_INSSlab_Polymer.description>
+  <MakeBulk_INSSlab_Polymer.jobString>단열재 제작 중.</MakeBulk_INSSlab_Polymer.jobString>
+  <Recycle_INSSlab_Polymer.label>단열재 재활용 (중합체)</Recycle_INSSlab_Polymer.label>
+  <Recycle_INSSlab_Polymer.description>단열재 5개를 재활용 합니다. (중합체)</Recycle_INSSlab_Polymer.description>
+  <Recycle_INSSlab_Polymer.jobString>단열재 재활용 중.</Recycle_INSSlab_Polymer.jobString>
+  <Make_INSSlab_Hyper.label>단열재 제작 (하이퍼)</Make_INSSlab_Hyper.label>
+  <Make_INSSlab_Hyper.description>단열재 제작 x5 (하이퍼).</Make_INSSlab_Hyper.description>
+  <Make_INSSlab_Hyper.jobString>단열재 제작 중.</Make_INSSlab_Hyper.jobString>
+  <MakeBulk_INSSlab_Hyper.label>단열재 대량 제작 (하이퍼)</MakeBulk_INSSlab_Hyper.label>
+  <MakeBulk_INSSlab_Hyper.description>단열재 (하이퍼)를 대량 제작합니다.</MakeBulk_INSSlab_Hyper.description>
+  <MakeBulk_INSSlab_Hyper.jobString>단열재 제작 중.</MakeBulk_INSSlab_Hyper.jobString>
+
+</LanguageData>

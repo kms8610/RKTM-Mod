@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1115882219_190816_Rim of Madness - Werewolves-->
+  <ROMWW_ConceptBionics.helpText>신출내기 늑대인간은 변형을 자유자재로 조절할 수 없고, 변형할 때 이식/장착물을 벗어 버립니다. 하지만 늑대인간 5번째 단계로 도달하게 되면 변형을 자유자재로 조절 할 수 있게 되며, 늑대인간의 상징인 턱과 발톱의 장착물을 제외하고 효율적인 생체공학 이식/장착물을 벗지 않게 됩니다.</ROMWW_ConceptBionics.helpText>
+  <ROMWW_ConceptBionics.label>웨어울프: 생체공학</ROMWW_ConceptBionics.label>
+
+  <!--1187010034_181028_Rim of Madness - Vampires-->
+  <ROMV_BloodPoints.helpText>모든 생명체들은 크든 작든 혈액의 질이 다릅니다. 희생양의 피가 더 많다고 해서 배고픈 흡혈귀들이 더 만족하는 것이 아닙니다. 생명체의 피의 질이 좋을수록 더 많은 자양분을 얻을 수 있습니다. 반대로, 피의 질이 나쁠수록 더 많은 피를 필요로 하게 됩니다. 이 컨셉은 간단한 단위로 표현되므로, 이후 혈액 점수로 부르도록 하겠습니다.</ROMV_BloodPoints.helpText>
+  <ROMV_Vitae.helpText>흡혈귀의 저주에 노출되어 타락된 생명혈(Vitae)은 흡혈귀의 육신 안에 들어간 혈액이 변한 것입니다. 생명혈은 흡혈귀의 능력의 원천이며, 흡혈귀가 그들의 시체를 계속 움직일 수 있게 해줍니다. 생명혈은 액체의 용량이 아닌 그것이 가지는 힘으로 측정하는 것이므로, 흡혈귀는 그들이 물리적으로 가질 수 있는 혈액보다 더 많은 생명혈을 가질 수 있습니다.</ROMV_Vitae.helpText>
+  <ROMV_VampDiablerie.helpText>디아블러리(Diablerie)는 흡혈귀가 다른 흡혈귀의 생명혈 뿐만이 아니라 혼 마저도 흡수하는 것입니다. 만약 희생양이 공격자보다 낮은 재생력을 가지고 있다면, 흡수자는 재생력을 낮추어 흡수한 혼의 재생력과 맞출 것입니다. 흡혈귀를 추가로 강화하는 유일한 방법입니다.</ROMV_VampDiablerie.helpText>
+  <ROMV_Disciplines.helpText>비술(Disciplines)은 흡혈귀의 초자연적인 능력입니다. 서로 다른 혈통들은 수 세기에 걸쳐 다른 비술들을 개발하거나 숙달하였으나, 그 각각이 전부 강력한 도구여서, 기술을 하나밖에 쓸 줄 모르는 삽대가리도 모든 생명체에게 파괴적인 위협이 되게 해줍니다.</ROMV_Disciplines.helpText>
+  <ROMV_TheBeast.helpText>모든 흡혈귀는 내면의 포식 본능을 억누르고 있습니다. 흡혈귀에게 남은 생명혈이 낮을 경우(25% 미만), 이 난폭한 페르소나가 깨어나, 사람의 목숨을 배려하지 않고 질릴 때까지 포식하게 됩니다.</ROMV_TheBeast.helpText>
+  <ROMV_Ghouls.helpText>구울은 피와 흡혈귀 생명혈을 모두 갖는 필멸자들입니다. 주인(Domitor)에게서 생명혈을 받으면, 이들은 피해 저항력이 생기고 흡혈귀 능력을 배울 수 있습니다. 생명혈 없이 몇 계절이 지나면, 구울들은 금단증상에 빠지고 능력을 잃을 것입니다. 생명혈이 없는 구울은 상당히 폭력적으로 변하기 때문에 주의해야 합니다.</ROMV_Ghouls.helpText>
+  <ROMV_GhoulsBloodBond.helpText>마시는 자가 같은 흡혈귀로의 생명혈을 따로 떨어진 세 밤에 걸쳐 마시면, 이들은 흡혈귀에게 피의 구속을 갖게 됩니다. 이들은 주인(Regnant)에게 절대적 충성을 갖고, 다른 흡혈귀들의 지배력에 면역이 됩니다. 흡혈귀가 이들에게 한 계절 동안 생명혈을 주지 않으면, 피의 구속을 잃게 될 것입니다.</ROMV_GhoulsBloodBond.helpText>
+  <ROMV_Rotschreck.helpText>룃슈렉(Rötschreck), 혹은 '붉은 공포'는 햇빛이나 불에서 오는 맹목적인 공포입니다. 흡혈귀는 햇빛에 불이 붙으므로, 태양 아래에 너무 오래 있었을 경우 가까운 그늘을 향해 필사적으로 도망칠 것입니다.</ROMV_Rotschreck.helpText>
+  <ROMV_TheEmbrace.helpText>포옹(Embrace)은 흡혈귀가 저주를 전파하여 새로운 흡혈귀 혹은 '신예'를 만들어내는 방법입니다. 일단 흡혈귀는 필멸자의 피를 완전히 빨아들여 혈관을 텅텅 비웁니다. 이들이 사망하면, 아비는 본인의 생명혈을 시체에 주입합니다. 이후 시체는 흡혈귀로 되살아납니다.</ROMV_TheEmbrace.helpText>
+  <ROMV_Bloodlines.helpText>흡혈귀들은 일족간에 여러 특징 공유하지만, 시간이 지남에 따라 저주가 진화함에 따라 혈통도 분리되었습니다. 혈통이 다르면 각기 다른 흡혈 비술, 혜택, 결점을 가지며, 서로와 구분되는 사회적 문화를 이루게 됩니다.</ROMV_Bloodlines.helpText>
+  <ROMV_VampGenerations.helpText>흡혈귀들은 최초의 흡혈귀까지 이어지는길고 추악한 역사를 가지고 있습니다. '세대'는 최초의 흡혈귀로부터 떨어졌는지를 나타냅니다. 숫자가 높을수록, 흡혈귀저주의 힘도 약해집니다. 세대를 낮추어 더 강해지는 방법은 디아블러리를 행하는 것 뿐입니다.</ROMV_VampGenerations.helpText>
+  <ROMV_GhoulsBloodBond.label>흡혈귀: 피의 구속</ROMV_GhoulsBloodBond.label>
+  <ROMV_BloodPacks.label>흡혈귀:혈액 팩</ROMV_BloodPacks.label>
+  <ROMV_BloodPoints.label>흡혈귀:혈액 점수</ROMV_BloodPoints.label>
+  <ROMV_Bloodlines.label>흡혈귀: 혈통</ROMV_Bloodlines.label>
+  <ROMV_VampDiablerie.label>흡혈귀: 디아블러리</ROMV_VampDiablerie.label>
+  <ROMV_Disciplines.label>흡혈귀: 비술</ROMV_Disciplines.label>
+  <ROMV_VampGenerations.label>흡혈귀: 세대</ROMV_VampGenerations.label>
+  <ROMV_Ghouls.label>흡혈귀: 구울</ROMV_Ghouls.label>
+  <ROMV_Rotschreck.label>흡혈귀: 붉은 공포</ROMV_Rotschreck.label>
+  <ROMV_TheBeast.label>흡혈귀: 야수</ROMV_TheBeast.label>
+  <ROMV_TheEmbrace.label>흡혈귀: 포옹</ROMV_TheEmbrace.label>
+  <ROMV_Vampirism.label>흡혈귀: 흡혈 특성</ROMV_Vampirism.label>
+  <ROMV_Vitae.label>흡혈귀: 생명혈</ROMV_Vitae.label>
+  <ROMV_Vampirism.helpText>흡혈귀의 특성(Vampirism)은 최근에 사망한 자에게 저주받은 혈액을 주입함으로써 발생합니다. 흡혈귀는 시간과 질병의 유린으로부터 면역되며, 비술(Discipline)이라 불리는 필멸의 사람들을 초월한 육체적이고 초자연적인 힘을 가집니다. 그럼에도 불구하고, 그들은 또한 살아있는 자들의 피에 대한 부자연스러운 갈망에 고통받으며, 햇빛에 접촉되면 불타 재가 되어 버립니다. 흡혈 본능에 고통받는 이들은 인류의 유일한 포식자로서 밤을 거닐게 됩니다.</ROMV_Vampirism.helpText>
+  <ROMV_BloodPacks.helpText>생명혈은 필멸자로부터 수술로 한번에 1에서 3점을 추출할 수 있습니다. 1점은 플라스크 하나에 꽉 차고, 3점은 혈액 백에만 담을 수 있습니다. 흡혈귀가 이를 마시면, 인간에게서 마신 것과 마찬가지로 생명혈을 얻습니다.</ROMV_BloodPacks.helpText>
+
+  <!--1210535987_181023_Shield Generators by Frontier Developments-->
+  <FD_ShieldsPortable.label>FD: 휴대용 방어막 발생기</FD_ShieldsPortable.label>
+  <FD_CoilTemperature.label>FD: 방어막 코일 온도</FD_CoilTemperature.label>
+  <FD_Shields.label>FD: 방어막 발생기</FD_Shields.label>
+  <FD_ShieldsPortable.helpText>휴대용 방어막은 설치 후 다른 곳으로 이동 설치가 가능합니다. 휴대용에는 독힙형으로 장치에 전원을 공급할 수 있는 작은 배터리가 내부에 들어있습니다.\n\n전선을 이용하여 일반적으로도 연결 할 수 있습니다. 휴대용의 방어막 범위는 정해져있습니다.</FD_ShieldsPortable.helpText>
+  <FD_CoilTemperature.helpText>방어막이 발사체를 막을 때 방어막 코일이 가열됩니다.\n\n100c 이상 : 경미한 고장, 방어막으로 인해 전원망이 끊길 수 있습니다.\n\n150c 이상 : 전선이 끊길 수 있스며 고장이 발생할 수도 있습니다.\n\n200c 초과 : 심각한 고장, 방어막이 꺼지고 고장, 폭발이 일어날 수있습니다.</FD_CoilTemperature.helpText>
+  <FD_Shields.helpText>전력을 사용하여 방어막을 만들어냅니다. 방어막은 발사체를 막습니다. 림들은 자유자재로 방어막 안과 밖을 다닐 수 있습니다. 방어막이 비사용중일 경우 소비 전력량이 줄어듭니다.\n\n방어막이 작동 중일때는 소비 전력이 급격히 늘어나니 예비 축전지를 사용하시는 것이 좋습니다.</FD_Shields.helpText>
+
+  <!--1372003680_181117_Replace Stuff-->
+  <BuildersTryMine.label>건설 작업하는 정착민은 귀중한 광석을 채굴 허용</BuildersTryMine.label>
+  <BuildersTryMine.helpText>주의:가치가 높은 광석 위에 건물을 설치하면 건축에 할당된 이주자는 그 광석을 채굴할 수 있습니다. 다만 낮은 스킬로 채굴하면 광석을 허비할 가능성이 있습니다.당신의 건설 작업원이 채굴 기술에 숙련되지 않은 경우는 당신 설정한 건축 작업를 일단 취소하고 숙련된 채굴 담당자에게 일을 배당하고 채굴의 일을 시키는 것이 좋을지도 모르겠습니다.</BuildersTryMine.helpText>
+
+  <!--1505914869_190616_What the hack!-->
+  <WTH_Hacking.label>WTH.001_메카노이드 해킹</WTH_Hacking.label>
+  <WTH_Hacking.helpText>메카노이드를 해킹하려면 우선 '파괴'된 메카노이드로부터 떼어낸 메카노이드 부품이 필요합니다. 그 후에 '무력화'된 메카노이드의 건강 탭에서 개조를 선택한 뒤에 "계획서 추가 - 해킹 장비로 메카노이드 해킹 시도" 옵션을 선택합니다. \n운반 작업이 할당된 사람들은 대상 메카노이드를 해킹 시설로 가지고 갈 것입니다. 그리고 해킹이 할당된 정착민이 메카노이드를 해킹하기 시작합니다. 메카노이드 정비고등을 구축하여 전원을 공급하고 수리하는 것을 잊지 마십시오. \n조심하십시오, 해킹은 실패할 수 있으며 그에 따른 결과는 위험할 수 있습니다!</WTH_Hacking.helpText>
+  <WTH_Platform.label>WTH.002_메카노이드 정비고</WTH_Platform.label>
+  <WTH_Platform.helpText>메카노이드 정비고란, 메카노이드가 동력을 공급받고 수리되는 장소를 말합니다. 정비고가 제대로 작동하려면 적정 수준의 메카노이드 부품을 구비하고 전원을 공급해야 합니다. \n이 방법으로, 메카노이드 내부의 기계장치들은 전원 공급을 받아 활성화 될 수 있으며, 구비된 부품을 사용하여 손상된 장치들의 수리를 시작하게 됩니다.</WTH_Platform.helpText>
+  <WTH_Modification.label>WTH.003_메카노이드 개조</WTH_Modification.label>
+  <WTH_Modification.helpText>메카노이드를 업그레이드 및 개선하기 위해 메카노이드 작업대에서 다양한 업그레이드 모듈을 만들 수 있습니다. 이러한 모듈을 설치하려면 해킹된 메카노이드의 건강 탭에 있는 개조 탭으로 이동하여 원하는 작업을 선택하십시오.</WTH_Modification.helpText>
+  <WTH_Caravanning.label>WTH.004_메카노이드와 상단</WTH_Caravanning.label>
+  <WTH_Caravanning.helpText>또한 상단 운용시 메카노이드를 사용할 수 있습니다. 그러나 당연하게도 이 기계들은 전력과 유지보수가 필요합니다. \n상단의 운송 목록에 각 메카노이드 기종에 대응하는 이동식 메카노이드 정비고와 충분한 화학 연료를 도입함으로써, 상단 이동 중에 안정적인 전원 공급을 보장할 수 있습니다. \n만약 여러분이 여행 중에 메카노이드를 제대로 유지하기를 원한다면, 몇몇 필요한 기계 부품들과, 해킹이 가능한 정착민을 동행시키세요. 또한 수리 모듈을 장착한 메카노이드는 상단을 이동하는 중에도 스스로 수리되며, 정비용 팔이 부착된 메카노이드는 다른 기체를 수리할 수 있습니다. \n만약 여러분이 메카노이드를 수리하는 것을 원하지 않는다면, 그들의 건강 탭으로 가서 의료 서비스를 아무 것도 하지 않도록 설정하세요.</WTH_Caravanning.helpText>
+  <WTH_Maintenance.label>WTH.005_메카노이드 정비</WTH_Maintenance.label>
+  <WTH_Maintenance.helpText>해킹은 매우 민감한 작업입니다. 따라서 해킹한 메카노이드는 정기적으로 정비를 해야 하며, 여기엔 기존에 흔히 사용되던 부품이 아닌 '메카노이드 부품'이 필요합니다.(메카노이드 분해시 입수 가능) \n해킹이 할당된 정착민들은 사용 가능한 부품이 충분한 경우, 정비 수치가 일정치 이하로 떨어진 메카노이드를 정비합니다. 제대로 관리되지 않는 메카노이드는 제대로 작동하지 않을 것입니다. \n정비(유지관리)를 소홀히 하면 해킹이 불안정해지거나, 끊어지게 되고 이는 치명적인 결과를 초래할 수 있습니다.</WTH_Maintenance.helpText>
+  <WTH_Power.label>WTH.006_메카노이드 동력 유지</WTH_Power.label>
+  <WTH_Power.helpText>"야생" 메카노이드와 달리 해킹된 메카노이드들은 반응로를 사용할 경우, 메카노이드 군락에 의해 감지될 수 있기 때문에 반응로를 사용할 수 없습니다. \n따라서 이들은 내부 백업 배터리에 의존하며, 이 배터리는 메카노이드 정비고에서 충전할 수 있습니다. 휴대용 충전소는 상단으로 행성의 여러 곳을 향해 이동하는 중에도 메카노이드에 전력을 공급하는 데 사용할 수 있습니다. \n마지막으로, 내부 배터리 용량을 향상시키거나 메카노이드 작업대에서 대체 전원 공급 장치를 만들어 설치하는 방법이 있습니다.</WTH_Power.helpText>
+  <WTH_Concept_MechanoidParts.label>WTH.000_메카노이드 부품 확보</WTH_Concept_MechanoidParts.label>
+  <WTH_Concept_MechanoidParts.helpText>메카노이드 부품은 메카노이드 관리 체계의 가장 근본이 되는 물품이며, 여분의 메카노이드 부품을 충분히 준비해 두는 것은 매우 중요합니다. \n이 부품을 사용해 메카노이드의 해킹을 진행할 수 있습니다. 그리고 해킹된 메카노이드의 각종 손상을 수리하거나 개조할 수 있으며, 그보다 더 중요한 것은 메카노이드의 해킹을 유지하는 것입니다. \n메카노이드를 분해하는 것이 이 부품을 얻는 가장 주요한 방법이지만, 당신은 이 부품을 외부의 다른 세력의 정착지나 그들의 상단, 어쩌면 궤도 무역선에서도 구입할 수 있습니다. \n대단히 위험하지만 더 많은 메카노이드 부품을 얻을 수 있는 방법도 있습니다. '무력화'된 메카노이드의 건강 탭에서 개조를 선택한 뒤에 "계획서 추가 - 비상 신호 송출하기" 작업을 수행하는 것입니다. \n이 비상 신호를 포착한 메카노이드 군락은 해당 메카노이드를 구조(?)하기 위해 신호가 포착된 지역으로 병력을 파견할 것입니다. \n'비상 신호 송출하기' 작업을 가능하게 하기 위해서는 먼저 "WTH: 비상 신호 송출법"을 연구할 필요가 있습니다. \n하지만 유의하십시오. 이 방법은 더 많은 부품을 확보할 수 있는 방법인 동시에 당신의 정착지를 파멸로 몰고갈 재앙일 수도 있습니다!</WTH_Concept_MechanoidParts.helpText>
+  <WTH_Concept_RogueAI.label>WTH.007_로그 AI : 의식의 발전</WTH_Concept_RogueAI.label>
+  <WTH_Concept_RogueAI.helpText>로그 AI의 잠재력을 최대한 활용하려면 다음 단계를 수행하십시오.\n1. 군락 데이터를 수집합니다. "WTH: 원거리 광물 스캐너 조정" 연구를 완료하면, 원거리 광물 스캐너가 "메카노이드 부품"을 스캔할 수 있습니다. 그것은 당신이 군락 데이터를 찾을 수 있는 곳으로 안내할 것입니다.\n2. '군락함선 해킹 시설'을 만들고, 그것을 행성 궤도상의 메카노이드 군락함선을 해킹하는 데 사용하세요. 로그 AI는 해킹 후 수집된 지식을 이용해 의식을 발달시킬 것입니다.</WTH_Concept_RogueAI.helpText>
+  <WTH_Concept_RogueAI_LevelUp.label>WTH.008_로그 AI : 레벨 업</WTH_Concept_RogueAI_LevelUp.label>
+  <WTH_Concept_RogueAI_LevelUp.helpText>여러분의 로그 AI가 의식을 발전시킨 후에도, 그것은 여전히 AI가 진정으로 도달할 수 있는 것의 그림자에 불과할 것입니다. 더 많은 군락 데이터를 수집하고, 그 데이터를 로그 AI에 공급하여 레벨을 올리십시오. AI의 레벨이 올라갈수록 더 많은 능력을 갖게 될 것입니다.\n힌트: 더 많은 군락함선을 해킹함으로써 추가적으로 군락 데이터를 수집할 수도 있고, 군락 데이터의 대안으로 살아있는 인간의 뇌에서 데이터를 추출할 수도 있습니다.</WTH_Concept_RogueAI_LevelUp.helpText>
+  <WTH_Concept_RogueAI_Mood.label>WTH.009_로그 AI : 기분</WTH_Concept_RogueAI_Mood.label>
+  <WTH_Concept_RogueAI_Mood.helpText>로그 AI의 기분을 잘 살펴주십시오. 그것의 기분이 나빠져 성질을 부리는 것을 본다면, 당신은 틀림없이 그것을 화나게 하고 싶진 않을 겁니다.\n로그 AI의 기분에 긍정적인 영향을 미치는 것으로는 군락 데이터나 추출된 인간 뇌 데이터를 제공하는 것 등이 있습니다.\n반대로 능력을 사용하거나, 그것을 다치게하거나, 전력이 부족하거나 없다면 로그 AI는 기분이 나빠질 것입니다.</WTH_Concept_RogueAI_Mood.helpText>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu_DrawWater.helpText>모든 사람은 물 없이 살 수 없습니다. 정착민들은 물 긷는 장소나 우물에서 물을 긷을 수 있습니다.</Mizu_DrawWater.helpText>
+  <Mizu_PurifyWater.helpText>병에 든 물의 경우에 정수기를 사용하여 수질 개선을 할 수 있습니다. 물 필터는 수돗물의 질을 향상시킬 수 있습니다. 물 필터에는 입력 및 출력 커넥터가 있어 잘못된 방향으로는 작동하지 않습니다.</Mizu_PurifyWater.helpText>
+  <Mizu_DrawWater.label>물 긷기</Mizu_DrawWater.label>
+  <Mizu_DrinkWater.label>물 마시기</Mizu_DrinkWater.label>
+  <Mizu_UndergroundWater.label>지하수</Mizu_UndergroundWater.label>
+  <Mizu_PurifyWater.label>정수</Mizu_PurifyWater.label>
+  <Mizu_Waterworks.label>상수도</Mizu_Waterworks.label>
+  <Mizu_DrinkWater.helpText>정착민들은 병에 든 물을 마실 수 있지만, 동물들은 그것을 마실 수 없습니다. 동물들은 물 상자에 있는 물을 마실 수도 있고, 물을 긷는 장소에서 물을 마실 수도 있지만, 동물에게 아무 것도 하지 않더라도 강과 연못에서 스스로 물을 마십니다.</Mizu_DrinkWater.helpText>
+  <Mizu_UndergroundWater.helpText>우물 및 지하수 펌프는 지하수에 건설될 수 있습니다. 구상 탭에서 해당 건물을 선택하면 지하수의 지도가 화면에 표시됩니다.\n\n사막에서도 매우 적은 양의 지하수를 발견할 수 있지만, 극도로 추운 지역에서는 발견되지 않을 수 있습니다.</Mizu_UndergroundWater.helpText>
+  <Mizu_Waterworks.helpText>상수도를 사용하면 많은 작업을 자동화하여 좋은 물을 얻을 수 있습니다. 수돗물 네트워크에는 펌프, 탱크, 수도꼭지가 각 1개이상 필요하고, 그것들을 파이프로 연결해야 합니다. 물 필터에 연결된 두 개의 물 네트워크는 별도의 물 네트워크로 처리됩니다.</Mizu_Waterworks.helpText>
+
+  <!--1543177113_190628_Quarry-->
+  <QRY_ReclaimingSoil.helpText>채석장이 해체되면 토양 개간 도구를 사용하여 채석장이 있던 곳을 다시 쓸모 있는 지형으로 돌릴 필요가 있습니다.</QRY_ReclaimingSoil.helpText>
+  <QRY_ReclaimingSoil.label>토양 개간</QRY_ReclaimingSoil.label>
+
+  <!--1566269698_181119_Survival Tools-->
+  <SurvivalToolDegradation.helpText>정착민들이 자신의 재고품이나 주요 손안의 도구를 사용할 때, 그 도구는 사용량이 많아지면 결국 성능이 저하됩니다. \ n \ n 정보 카드를보고 끊기 전에 공구를 얼마나 많이 사용할 수 있는지 알 수 있습니다. 도구의 현재 상태를 고려해야합니다.</SurvivalToolDegradation.helpText>
+  <UsingSurvivalTools.helpText>콜로 네스트는 주전자와 인벤토리에서 사용할 수있는 도구를 자동으로 사용하며 특정 작업에 필요한 최상의 도구 만 사용합니다. 식민지 인이 현재 사용하고있는 도구는 '사용 중'으로 표시됩니다.</UsingSurvivalTools.helpText>
+  <EquippingSurvivalTools.helpText>.</EquippingSurvivalTools.helpText>
+  <EquippingSurvivalTools.label>서바이벌 툴 : 장비 장착</EquippingSurvivalTools.label>
+  <SurvivalToolDegradation.label>생존 도구 : 도구 저하</SurvivalToolDegradation.label>
+  <UsingSurvivalTools.label>생존 도구 : 도구 사용</UsingSurvivalTools.label>
+
+  <!--1628211313_190519_Dual Wield-->
+  <DW_Settings.helpText>이 쌍검 Mod의 설정을 확인하는 것을 잊지 마십시오. 당신이 Mod에 대해 좋지 않다고 생각하는 뭔가가 있다면 당신의 문제를 해결하는 설정이 거기에 있을 것입니다.</DW_Settings.helpText>
+  <DW_Settings.label>Dual Wield Mod설정</DW_Settings.label>
+  <DW_Penalties.helpText>쌍검은 페널티 없이 실행할 수 없습니다. 재사용 시간(폰이 사격한 후 아무것도 할 수 없는 시간)과 공격이나 사격의 명중율에 대해서 Mod설정으로 설정할 수 있는 수치의 페널티를 받습니다. 이 페널티는 폰의 스킬(근접 무기에 의한 격투 스킬 또는 원격 무기에 의한 사격 스킬)에 크게 의존합니다. 당신이 Lv1의 사격스킬 밖에 없는 폰에게 총을 주는 것은 그다지 좋은 생각이 아닐지도 모릅니다!</DW_Penalties.helpText>
+  <DW_Penalties.label>쌍검 페널티</DW_Penalties.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <ReligionKnowlegde.label>종교</ReligionKnowlegde.label>
+  <ReligionKnowlegde.helpText>종교는 사람들이 자신의 영혼을 편안하게하고 침착하게하는 데 도움이됩니다. 경건의 필요를 채워야합니다.\n성격이 종교적인 폰이라면 기도 할 장소가 없어서 화가납니다.\n종교적 성격을 일깨우는 데 필요한 신전을 짓는 것으로 시작할 수 있습니다. 제단이 있는 방을 만들어 보세요.</ReligionKnowlegde.helpText>
+  <WorshipKnowlegde.label>예배</WorshipKnowlegde.label>
+  <WorshipKnowlegde.helpText>당신은 예배를 설정할 수 있습니다. 성서 예배 탭에서 예배의 날과 시간을 설정할 수 있습니다.\n설교자가 자격을 갖추지 못하면 예배할 때 디버프가 발생하고 설교자가 자격을 갖추면 숭배에 중독 될 수 있습니다. \n그것은 더 많은 예배를 함으로써 그들의 필요를 충족시켜야한다는 것을 의미합니다.</WorshipKnowlegde.helpText>
+
+  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
+  <ROM_SanityLossConcept.helpText>크툴루의 부름 시리즈에서, 우주의 참상이나 다른 세계에 노출되면 정신붕괴에 직면할 수 있습니다. 정신을 똑바로 차리기 위해 할 수 있는 것이 있다면...\n\n1. 정신을 회복하기 위해 오래 기다리거나\n\n2. 정착민을 우클릭하여 정신상태 비용을 지불해 정신을 회복하거나\n\n3. 작가의 작업대나 타자기를 이용해 책이나 일기를 쓰는 것도 한 방법입니다.\n\n\n참고: RimWriter 모드에서 타자기나 작가의 작업대를 이용할 수 있습니다.</ROM_SanityLossConcept.helpText>
+  <ROM_SanityLossConcept.label>정신붕괴</ROM_SanityLossConcept.label>
+
+  <!--777197241_190628_Industrial Age - Objects and Furniture-->
+  <Jecrell_Gramophone.label>축음기</Jecrell_Gramophone.label>
+  <Jecrell_TypewriterTable.helpText>정착민은 타자기를 사용하여 자신의 스트레스를 줄이거나 오락을 즐길 수 있습니다. 크툴루의 부름 모드가 적용되어 있다면 심각한 정신이상 상태를 조금 더 빠른 속도로 줄일 수 있습니다. 또한 일기 아이템을 만들 수 있습니다. 현재는 기본적인 기능만 있으며 파기될 수도 있고 나중에 더 확장될 수도 있습니다.</Jecrell_TypewriterTable.helpText>
+  <Jecrell_Refrigerator.label>냉장고</Jecrell_Refrigerator.label>
+  <Jecrell_Refrigerator.helpText>이 냉장고에는 한 스택의 음식만 냉동시킬 수 있습니다. 안에 보관된 물품은 표시되지 않습니다. 냉장고가 전력이 연결되어 있는 동안은 상할 일이 없으니 걱정마세요.</Jecrell_Refrigerator.helpText>
+  <Jecrell_Wax.helpText>밀랍을 만들려면 조리 작업대나 스토브를 선택하세요. 계획서 탭을 클릭한 후 밀랍 만들기를 선택하세요. 고기를 수지 밀랍으로 만듭니다. 이 밀랍은 전기를 사용하지 않는 촛대나 천장등에 연료로 쓸 수 있습니다.</Jecrell_Wax.helpText>
+  <Jecrell_Wax.label>밀랍 사용하기</Jecrell_Wax.label>
+  <Jecrell_Gramophone.helpText>정착민이 선택된 상태에서 기록된 음악을 재생하려면 축음기를 우클릭합니다. 음악이 연주되는 동안, 정착민이 자발적으로 들을 수도 있고, 축음기를 우클릭하여 강제로 들을 수도 있습니다.</Jecrell_Gramophone.helpText>
+  <Jecrell_TypewriterTable.label>글쓰기</Jecrell_TypewriterTable.label>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <ROM_SanityLossConcept.helpText>크툴루의 부름 시리즈에서, 우주의 참상이나 다른 세계에 노출되면 정신붕괴에 직면할 수 있습니다. 정신을 똑바로 차리기 위해 할 수 있는 것이 있다면...\n\n1. 정신을 회복하기 위해 오래 기다리거나\n\n2. 정착민을 우클릭하여 정신상태 비용을 지불해 정신을 회복하거나\n\n3. 작가의 작업대나 타자기를 이용해 책이나 일기를 쓰는 것도 한 방법입니다.\n\n\n참고: RimWriter 모드에서 타자기나 작가의 작업대를 이용할 수 있습니다.</ROM_SanityLossConcept.helpText>
+  <ROM_SanityLossConcept.label>정신붕괴</ROM_SanityLossConcept.label>
+
+</LanguageData>

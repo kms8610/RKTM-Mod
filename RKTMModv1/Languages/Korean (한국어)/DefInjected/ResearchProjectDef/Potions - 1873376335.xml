@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PSimpleBrewing.label>간단한 정제</PSimpleBrewing.label>
+  <PSimpleBrewing.description>가마솥을 만들고 약물 작업대에서 물약 재료를 준비하고 대장간에서 병을 만듭니다. 포만감의 물약을 정제합니다.</PSimpleBrewing.description>
+  <PStatBoost.label>능력치 물약</PStatBoost.label>
+  <PStatBoost.description>능력치 물약 정제</PStatBoost.description>
+  <PSkills.label>기술의 물약</PSkills.label>
+  <PSkills.description>기술의 물약을 정제합니다.</PSkills.description>
+  <PKnowledge.label>지식의 물약</PKnowledge.label>
+  <PKnowledge.description>지식의 물약을 정제합니다.</PKnowledge.description>
+  <PDrug.label>약품 물약</PDrug.label>
+  <PDrug.description>약품 물약을 정제합니다.</PDrug.description>
+  <PLuciferium.label>루시페륨 물약</PLuciferium.label>
+  <PLuciferium.description>루시페륨 물약을 정제합니다.</PLuciferium.description>
+  <PHealer.label>치유 물약</PHealer.label>
+  <PHealer.description>치유 물약을 정제합니다.</PHealer.description>
+  <PLife.label>생명의 물약</PLife.label>
+  <PLife.description>생명의 물약을 정제합니다.</PLife.description>
+
+</LanguageData>

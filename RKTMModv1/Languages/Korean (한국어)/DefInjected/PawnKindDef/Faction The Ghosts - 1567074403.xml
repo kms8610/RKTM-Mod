@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RH_TheGhosts_Scout.label>특수 부대원</RH_TheGhosts_Scout.label>
+  <RH_TheGhosts_Scout.labelPlural>특수 부대원들</RH_TheGhosts_Scout.labelPlural>
+  <RH_TheGhosts_Recon.label>특수 부대원</RH_TheGhosts_Recon.label>
+  <RH_TheGhosts_Recon.labelPlural>특수 부대원들</RH_TheGhosts_Recon.labelPlural>
+  <RH_TheGhosts_SMG.label>특수 부대원</RH_TheGhosts_SMG.label>
+  <RH_TheGhosts_SMG.labelPlural>특수 부대원들</RH_TheGhosts_SMG.labelPlural>
+  <RH_TheGhosts_SMG_TierII.label>특수 부대원</RH_TheGhosts_SMG_TierII.label>
+  <RH_TheGhosts_SMG_TierII.labelPlural>특수 부대원들</RH_TheGhosts_SMG_TierII.labelPlural>
+  <RH_TheGhosts_Marksman.label>특수 부대원</RH_TheGhosts_Marksman.label>
+  <RH_TheGhosts_Marksman.labelPlural>특수 부대원들</RH_TheGhosts_Marksman.labelPlural>
+  <RH_TheGhosts_Sniper.label>특수 부대원</RH_TheGhosts_Sniper.label>
+  <RH_TheGhosts_Sniper.labelPlural>특수 부대원들</RH_TheGhosts_Sniper.labelPlural>
+  <RH_TheGhosts_Assault.label>특수 부대원</RH_TheGhosts_Assault.label>
+  <RH_TheGhosts_Assault.labelPlural>특수 부대원들</RH_TheGhosts_Assault.labelPlural>
+  <RH_TheGhosts_Assault_TierII.label>특수 부대원</RH_TheGhosts_Assault_TierII.label>
+  <RH_TheGhosts_Assault_TierII.labelPlural>특수 부대원들</RH_TheGhosts_Assault_TierII.labelPlural>
+  <RH_TheGhosts_Gunner.label>특수 부대원</RH_TheGhosts_Gunner.label>
+  <RH_TheGhosts_Gunner.labelPlural>특수 부대원들</RH_TheGhosts_Gunner.labelPlural>
+  <RH_TheGhosts_Grenadier.label>특수 부대원</RH_TheGhosts_Grenadier.label>
+  <RH_TheGhosts_Grenadier.labelPlural>특수 부대원들</RH_TheGhosts_Grenadier.labelPlural>
+  <RH_TheGhosts_Boss.label>사령관</RH_TheGhosts_Boss.label>
+  <RH_TheGhosts_Boss.labelPlural>지휘관들</RH_TheGhosts_Boss.labelPlural>
+  <RH_TheGhosts_Elite.label>특수 부대원</RH_TheGhosts_Elite.label>
+  <RH_TheGhosts_Elite.labelPlural>특수 부대원</RH_TheGhosts_Elite.labelPlural>
+  <RH_TheGhosts_Trader.label>병참장교</RH_TheGhosts_Trader.label>
+  <RH_TheGhosts_Trader.labelPlural>병참장교들</RH_TheGhosts_Trader.labelPlural>
+  <RH_Tactical_GermanShepherd.label>저먼 셰퍼드</RH_Tactical_GermanShepherd.label>
+  <RH_Tactical_GermanShepherd.labelPlural>저먼 셰퍼드들</RH_Tactical_GermanShepherd.labelPlural>
+
+</LanguageData>

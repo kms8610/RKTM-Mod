@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BasicProstheses.label>기본 보철물</BasicProstheses.label>
+  <SimpleProstheses.label>간단한 보철물</SimpleProstheses.label>
+  <BionicProstheses.label>생체공학</BionicProstheses.label>
+  <AdvancedProstheses.label>고급 생체공학</AdvancedProstheses.label>
+  <GlitterworldParts.label>번화계 부품</GlitterworldParts.label>
+  <SurrogateOrgans.label>생체조직 프린터</SurrogateOrgans.label>
+  <SyntheticOrgans.label>인공 장기</SyntheticOrgans.label>
+
+</LanguageData>

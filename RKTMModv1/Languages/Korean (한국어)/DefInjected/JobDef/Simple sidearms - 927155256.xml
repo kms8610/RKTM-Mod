@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EquipSecondary.reportString>TargetA 휴대무기로 착용 중.</EquipSecondary.reportString>
+  <ReequipSecondary.reportString>TargetA 휴대무기로 재착용 중.</ReequipSecondary.reportString>
+  <ReequipSecondaryCombat.reportString>TargetA 휴대무기로 재착용 중.</ReequipSecondaryCombat.reportString>
+
+</LanguageData>

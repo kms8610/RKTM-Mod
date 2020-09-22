@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RockMill.label>돌 분쇄기</RockMill.label>
+  <RockMill.description>암석, 모래 및 흙을 분쇄하고 혼합하기 위한 전기식 분쇄기.</RockMill.description>
+  <RockMill_Blueprint.label>돌 분쇄기 (청사진)</RockMill_Blueprint.label>
+  <RockMill_Blueprint_Install.label>돌 분쇄기 (청사진)</RockMill_Blueprint_Install.label>
+  <RockMill_Frame.label>돌 분쇄기 (건설 중)</RockMill_Frame.label>
+  <RockMill_Frame.description>암석, 모래 및 흙을 분쇄하고 혼합하기 위한 전기식 분쇄기.</RockMill_Frame.description>
+  <RFFConcreteDoor.label>철근 콘크리트 문</RFFConcreteDoor.label>
+  <RFFConcreteDoor.description>방을 나눕니다. 수동으로 열리고 닫히며 지나가는 사람의 속도를 느리게 합니다.</RFFConcreteDoor.description>
+  <RFFConcreteDoor_Blueprint.label>철근 콘크리트 문 (청사진)</RFFConcreteDoor_Blueprint.label>
+  <RFFConcreteDoor_Frame.label>철근 콘크리트 문 (건설 중)</RFFConcreteDoor_Frame.label>
+  <RFFConcreteDoor_Frame.description>방을 나눕니다. 수동으로 열리고 닫히며 지나가는 사람의 속도를 느리게 합니다.</RFFConcreteDoor_Frame.description>
+  <RFFConcreteAutodoor.label>철근 콘크리트 자동문</RFFConcreteAutodoor.label>
+  <RFFConcreteAutodoor.description>방을 나눕니다. 자동으로 열리고 닫혀서 사람들은 속도를 늦추지 않고 문을 통과할 수 있습니다.</RFFConcreteAutodoor.description>
+  <RFFConcreteAutodoor_Blueprint.label>철근 콘크리트 자동문 (청사진)</RFFConcreteAutodoor_Blueprint.label>
+  <RFFConcreteAutodoor_Frame.label>철근 콘크리트 자동문 (건설 중)</RFFConcreteAutodoor_Frame.label>
+  <RFFConcreteAutodoor_Frame.description>방을 나눕니다. 자동으로 열리고 닫혀서 사람들은 속도를 늦추지 않고 문을 통과할 수 있습니다.</RFFConcreteAutodoor_Frame.description>
+  <RFFPlasticreteDoor.label>플라스틸-강화 콘크리트 문</RFFPlasticreteDoor.label>
+  <RFFPlasticreteDoor.description>방을 나눕니다. 자동으로 열리고 닫혀서 사람들은 속도를 늦추지 않고 문을 통과할 수 있습니다.</RFFPlasticreteDoor.description>
+  <RFFPlasticreteDoor_Blueprint.label>플라스틸-강화 콘크리트 문 (청사진)</RFFPlasticreteDoor_Blueprint.label>
+  <RFFPlasticreteDoor_Frame.label>플라스틸-강화 콘크리트 문 (건설 중)</RFFPlasticreteDoor_Frame.label>
+  <RFFPlasticreteDoor_Frame.description>방을 나눕니다. 자동으로 열리고 닫혀서 사람들은 속도를 늦추지 않고 문을 통과할 수 있습니다.</RFFPlasticreteDoor_Frame.description>
+  <RFFPlasticreteAutodoor.label>플라스틸-강화 콘크리트 자동문</RFFPlasticreteAutodoor.label>
+  <RFFPlasticreteAutodoor.description>방을 나눕니다. 자동으로 열리고 닫혀서 사람들은 속도를 늦추지 않고 문을 통과할 수 있습니다.</RFFPlasticreteAutodoor.description>
+  <RFFPlasticreteAutodoor_Blueprint.label>플라스틸-강화 콘크리트 자동문 (청사진)</RFFPlasticreteAutodoor_Blueprint.label>
+  <RFFPlasticreteAutodoor_Frame.label>플라스틸-강화 콘크리트 자동문 (건설 중)</RFFPlasticreteAutodoor_Frame.label>
+  <RFFPlasticreteAutodoor_Frame.description>방을 나눕니다. 자동으로 열리고 닫혀서 사람들은 속도를 늦추지 않고 문을 통과할 수 있습니다.</RFFPlasticreteAutodoor_Frame.description>
+  <RFFConcreteWall.label>콘크리트 벽</RFFConcreteWall.label>
+  <RFFConcreteWall.description>콘크리트 벽, 일반 석재 벽보다 강합니다.</RFFConcreteWall.description>
+  <RFFConcreteWall_Blueprint.label>콘크리트 벽 (청사진)</RFFConcreteWall_Blueprint.label>
+  <RFFConcreteWall_Frame.label>콘크리트 벽 (건설 중)</RFFConcreteWall_Frame.label>
+  <RFFConcreteWall_Frame.description>콘크리트 벽, 일반 석재 벽보다 강합니다.</RFFConcreteWall_Frame.description>
+  <RFFReinforcedConcreteWall.label>철근 콘크리트 벽</RFFReinforcedConcreteWall.label>
+  <RFFReinforcedConcreteWall.description>철근 콘크리트 벽. 기본 콘크리트나 돌벽보다 훨씬 강력하여 벙커 및 기타 보안이 강화된 장소에서 사용하기에 적합합니다.</RFFReinforcedConcreteWall.description>
+  <RFFReinforcedConcreteWall_Blueprint.label>철근 콘크리트 벽 (청사진)</RFFReinforcedConcreteWall_Blueprint.label>
+  <RFFReinforcedConcreteWall_Frame.label>철근 콘크리트 벽 (건설 중)</RFFReinforcedConcreteWall_Frame.label>
+  <RFFReinforcedConcreteWall_Frame.description>철근 콘크리트 벽. 기본 콘크리트나 돌벽보다 훨씬 강력하여 벙커 및 기타 보안이 강화된 장소에서 사용하기에 적합합니다.</RFFReinforcedConcreteWall_Frame.description>
+  <RFFPlasticreteWall.label>플라스틸-강화 콘크리트 벽</RFFPlasticreteWall.label>
+  <RFFPlasticreteWall.description>방어 강화의 궁극적인 이 거대한 강화 벽은 콘크리트, 강철 및 플라스틸로 된 층으로 구성됩니다.</RFFPlasticreteWall.description>
+  <RFFPlasticreteWall_Blueprint.label>플라스틸-강화 콘크리트 벽 (청사진)</RFFPlasticreteWall_Blueprint.label>
+  <RFFPlasticreteWall_Frame.label>플라스틸-강화 콘크리트 벽 (건설 중)</RFFPlasticreteWall_Frame.label>
+  <RFFPlasticreteWall_Frame.description>방어 강화의 궁극적인 이 거대한 강화 벽은 콘크리트, 강철 및 플라스틸로 된 층으로 구성됩니다.</RFFPlasticreteWall_Frame.description>
+  <Embrasure.label>총안</Embrasure.label>
+  <Embrasure.description>전쟁 시 폰이 서로를 쏠 수 있도록 개구부가 있는 통과할 수 없는 벽. (또한 영구적으로 열린 통풍구 역할을 하여 벽의 양쪽 온도를 동일하게합니다.)</Embrasure.description>
+  <Embrasure_Blueprint.label>총안 (청사진)</Embrasure_Blueprint.label>
+  <Embrasure_Frame.label>총안 (건설 중)</Embrasure_Frame.label>
+  <Embrasure_Frame.description>전쟁 시 폰이 서로를 쏠 수 있도록 개구부가 있는 통과할 수 없는 벽. (또한 영구적으로 열린 통풍구 역할을 하여 벽의 양쪽 온도를 동일하게합니다.)</Embrasure_Frame.description>
+  <BrickEmbrasure.label>벽돌 총안</BrickEmbrasure.label>
+  <BrickEmbrasure.description>전쟁 시 폰이 서로를 쏠 수 있도록 개구부가 있는 벽돌 벽. (또한 영구적으로 열린 통풍구 역할을 하여 벽의 양쪽 온도를 동일하게합니다.)</BrickEmbrasure.description>
+  <RFFConcreteEmbrasure.label>철근 콘크리트 총안</RFFConcreteEmbrasure.label>
+  <RFFConcreteEmbrasure.description>전쟁 시 폰이 서로를 쏠 수 있도록 개구부가 있는 벙커 벽. (또한 영구적으로 열린 통풍구 역할을 하여 벽의 양쪽 온도를 동일하게합니다.)</RFFConcreteEmbrasure.description>
+  <RFFConcreteEmbrasure_Blueprint.label>철근 콘크리트 총안 (청사진)</RFFConcreteEmbrasure_Blueprint.label>
+  <RFFConcreteEmbrasure_Frame.label>철근 콘크리트 총안 (건설 중)</RFFConcreteEmbrasure_Frame.label>
+  <RFFConcreteEmbrasure_Frame.description>전쟁 시 폰이 서로를 쏠 수 있도록 개구부가 있는 벙커 벽. (또한 영구적으로 열린 통풍구 역할을 하여 벽의 양쪽 온도를 동일하게합니다.)</RFFConcreteEmbrasure_Frame.description>
+  <RFFPlasticreteEmbrasure.label>플라스틸- 강화 콘크리트 총안</RFFPlasticreteEmbrasure.label>
+  <RFFPlasticreteEmbrasure.description>전쟁 시 폰이 서로를 쏠 수 있도록 개구부가 있는 플라스틸-강화 콘크리트 벙커 벽. (또한 영구적으로 열린 통풍구 역할을 하여 벽의 양쪽 온도를 동일하게합니다.)</RFFPlasticreteEmbrasure.description>
+  <RFFPlasticreteEmbrasure_Blueprint.label>플라스틸- 강화 콘크리트 총안 (청사진)</RFFPlasticreteEmbrasure_Blueprint.label>
+  <RFFPlasticreteEmbrasure_Frame.label>플라스틸- 강화 콘크리트 총안 (건설 중)</RFFPlasticreteEmbrasure_Frame.label>
+  <RFFPlasticreteEmbrasure_Frame.description>전쟁 시 폰이 서로를 쏠 수 있도록 개구부가 있는 벙커 벽. (또한 영구적으로 열린 통풍구 역할을 하여 벽의 양쪽 온도를 동일하게합니다.)</RFFPlasticreteEmbrasure_Frame.description>
+  <RFFCement.label>시멘트</RFFCement.label>
+  <RFFCement.description>시멘트는 다른 재료를 고정하고 경화시켜 접착시키는 건축에 사용되는 접착제입니다.</RFFCement.description>
+  <RFFConcrete.label>콘크리트</RFFConcrete.label>
+  <RFFConcrete.description>다목적 건축 자재. 콘크리트 바닥을 부을 때 직접 사용하거나 벽용 "신더"블록으로 만들 수 있습니다.</RFFConcrete.description>
+  <RFFBlocksConcrete.label>콘크리트 "신더" 블록</RFFBlocksConcrete.label>
+  <RFFBlocksConcrete.description>종종 콘크리트 블록으로 알려진 콘크리트 블록. 돌 블록으로 구성할 수 있는 것을 만들 때 사용할 수 있습니다. 콘크리트 블록 벽은 화강암 벽보다 약하지만 더 빨리 지을 수 있습니다.</RFFBlocksConcrete.description>
+  <RFFBlocksConcrete.stuffProps.stuffAdjective>신더 블록</RFFBlocksConcrete.stuffProps.stuffAdjective>
+  <CrushedRocks.label>부서진 바위들</CrushedRocks.label>
+  <CrushedRocks.description>보다 작은 조각으로 부서진 바위 조각입니다.</CrushedRocks.description>
+  <SandPile.label>모래 더미</SandPile.label>
+  <SandPile.description>사막이나 해변에서 파낼 수 있는 모래입니다.</SandPile.description>
+
+</LanguageData>

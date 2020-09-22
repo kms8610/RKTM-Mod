@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsOven.label>빵 제품</DoBillsOven.label>
+  <DoBillsOven.verb>굽기</DoBillsOven.verb>
+  <DoBillsOven.gerund>굽기</DoBillsOven.gerund>
+  <DoBillsCanningstove.label>통조림</DoBillsCanningstove.label>
+  <DoBillsCanningstove.verb>통조림 제작</DoBillsCanningstove.verb>
+  <DoBillsCanningstove.gerund>통조림 제작</DoBillsCanningstove.gerund>
+  <DoBillsBake.label>사탕</DoBillsBake.label>
+  <DoBillsBake.verb>사탕 만들기</DoBillsBake.verb>
+  <DoBillsBake.gerund>사탕 만들기</DoBillsBake.gerund>
+  <DoBillsGrindStone.label>곡물 빻기</DoBillsGrindStone.label>
+  <DoBillsGrindStone.verb>곡물 빻기</DoBillsGrindStone.verb>
+  <DoBillsGrindStone.gerund>곡물 빻기</DoBillsGrindStone.gerund>
+  <DoBillsUseSaltMine.label>암염 채취</DoBillsUseSaltMine.label>
+  <DoBillsUseSaltMine.verb>채굴</DoBillsUseSaltMine.verb>
+  <DoBillsUseSaltMine.gerund>채굴</DoBillsUseSaltMine.gerund>
+
+</LanguageData>

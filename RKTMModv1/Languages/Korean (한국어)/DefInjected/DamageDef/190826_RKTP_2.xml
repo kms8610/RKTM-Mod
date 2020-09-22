@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1113137502_190707_Genetic Rim-->
+  <GR_VeryToxicBite.label>독 이빨에 물림</GR_VeryToxicBite.label>
+  <GR_VeryToxicBite.deathMessage>{0}(은)는 물려죽었습니다.</GR_VeryToxicBite.deathMessage>
+  <GR_LightToxicBite.label>가벼운 독이빨에 물림</GR_LightToxicBite.label>
+  <GR_LightToxicBite.deathMessage>{0}(은)는 물려죽었습니다.</GR_LightToxicBite.deathMessage>
+  <GR_HairballProjectileDamage.label>털뭉치</GR_HairballProjectileDamage.label>
+  <GR_HairballProjectileDamage.deathMessage>{0}(은)는 물려 죽었습니다.</GR_HairballProjectileDamage.deathMessage>
+  <GR_GreatHairballProjectileDamage.label>커다란 털뭉치</GR_GreatHairballProjectileDamage.label>
+  <GR_GreatHairballProjectileDamage.deathMessage>{0}(은)는 물려 죽었습니다.</GR_GreatHairballProjectileDamage.deathMessage>
+  <GR_ToxicExplosion.label>독성 폭발</GR_ToxicExplosion.label>
+  <GR_ToxicExplosion.deathMessage>{0}(은)는 죽었습니다.</GR_ToxicExplosion.deathMessage>
+  <GR_HairballExplosion.label>털뭉치 폭발</GR_HairballExplosion.label>
+  <GR_HairballExplosion.deathMessage>{0}(은)는 고양이 털뭉치에 질식해 죽었습니다.</GR_HairballExplosion.deathMessage>
+  <GR_PlagueBite.label>역병 이빨에 물림</GR_PlagueBite.label>
+  <GR_PlagueBite.deathMessage>{0}(은)는 물려죽었습니다.</GR_PlagueBite.deathMessage>
+  <GR_MiniGrain.label>폭탄</GR_MiniGrain.label>
+  <GR_MiniGrain.deathMessage>{0}(은)는 폭사했습니다..</GR_MiniGrain.deathMessage>
+
+  <!--1138962461_190627_GeneticRim Cosmic Horrors Patch-->
+  <GR_PsionicExplosion.label>정신 폭발</GR_PsionicExplosion.label>
+  <GR_PsionicExplosion.deathMessage>{0}(은)는 정신적 충격으로 사망했습니다.</GR_PsionicExplosion.deathMessage>
+
+  <!--1206705240_190519_L-Slimes-->
+  <ColdBlunt.label>서늘한 타격</ColdBlunt.label>
+  <ColdBlunt.deathMessage>{0}(은)는 맞아죽었습니다.</ColdBlunt.deathMessage>
+  <HotBlunt.label>뜨거운 타격</HotBlunt.label>
+  <HotBlunt.deathMessage>{0}(은)는 맞아죽었습니다.</HotBlunt.deathMessage>
+  <RageBite.label>격렬한 타격</RageBite.label>
+  <RageBite.deathMessage>{0}(은)는 물려죽었습니다</RageBite.deathMessage>
+  <Ragebomb.label>고속 물체 타격</Ragebomb.label>
+  <Ragebomb.deathMessage>{0}(은)는 라게가(ragegas)에서 질식사했습니다.</Ragebomb.deathMessage>
+  <HellBlunt.label>지옥의 둔탁함</HellBlunt.label>
+  <HellBlunt.deathMessage>{0}(은)는 맞아죽었습니다.</HellBlunt.deathMessage>
+
+  <!--1430501911_190519_Infectious Creatures-->
+  <VenomBite.label>독성 물기</VenomBite.label>
+  <VenomBite.deathMessage>{0}(은)는 물려 죽었습니다.</VenomBite.deathMessage>
+  <MegaScarabBite.label>메가스캐럽 물기</MegaScarabBite.label>
+  <MegaScarabBite.deathMessage>{0}(은)는 물려 죽었습니다.</MegaScarabBite.deathMessage>
+  <SpelopedeCut.label>스펠로피드 물기</SpelopedeCut.label>
+  <SpelopedeCut.deathMessage>{0}(은)는 잘려 죽었습니다.</SpelopedeCut.deathMessage>
+  <MegaSpiderCut.label>메가스파이더 물기</MegaSpiderCut.label>
+  <MegaSpiderCut.deathMessage>{0}(은)는 잘려 죽었습니다.</MegaSpiderCut.deathMessage>
+  <PlagueBite.label>역병 물기</PlagueBite.label>
+  <PlagueBite.deathMessage>{0}(은)는 물려 죽었습니다.</PlagueBite.deathMessage>
+  <PlagueScratch.label>역병 긁힘</PlagueScratch.label>
+  <PlagueScratch.deathMessage>{0}(은)는 죽었습니다.</PlagueScratch.deathMessage>
+
+  <!--1542306804_190519_The Zerg!-->
+  <HydraStab.label>꿰뚤림</HydraStab.label>
+  <HydraStab.deathMessage>{0}(은)는 찔려죽었습니다.</HydraStab.deathMessage>
+
+  <!--1543566982_190606_Lost Forest-->
+  <LF_InjuryBase.deathMessage>{0}(은)는 사망했습니다.</LF_InjuryBase.deathMessage>
+  <LF_Bomb.label>폭탄</LF_Bomb.label>
+  <LF_Bomb.deathMessage>{0}(은)는 폭발로 사망했습니다.</LF_Bomb.deathMessage>
+  <LF_BombNeedleSpreader.label>폭탄</LF_BombNeedleSpreader.label>
+  <LF_BombNeedleSpreader.deathMessage>{0}(은)는 폭발로 사망했습니다.</LF_BombNeedleSpreader.deathMessage>
+  <LF_BombNeedleSpreaderS.label>폭탄</LF_BombNeedleSpreaderS.label>
+  <LF_BombNeedleSpreaderS.deathMessage>{0}(은)는 폭발로 사망했습니다.</LF_BombNeedleSpreaderS.deathMessage>
+  <LF_Coldgrasp.label>차가운 손아귀</LF_Coldgrasp.label>
+  <LF_Coldgrasp.deathMessage>{0}(은)는 차가운 손아귀에 의해 사망했습니다..</LF_Coldgrasp.deathMessage>
+  <LF_Iciclebash.label>아이시컬 배쉬</LF_Iciclebash.label>
+  <LF_Iciclebash.deathMessage>{0}(은)는 아이시컬 배쉬에 의해 사망했습니다.</LF_Iciclebash.deathMessage>
+  <LF_Glacialbite.label>글레이셜 바이트</LF_Glacialbite.label>
+  <LF_Glacialbite.deathMessage>{0}(은)는 글레이셜 바이트에 의해 사망했습니다.</LF_Glacialbite.deathMessage>
+  <LF_Hailblast.label>헤일 블라스트</LF_Hailblast.label>
+  <LF_Hailblast.deathMessage>{0}(은)는 헤일 블라스트에 의해 사망했습니다.</LF_Hailblast.deathMessage>
+  <LF_Cocytus.label>코카투스</LF_Cocytus.label>
+  <LF_Cocytus.deathMessage>{0}(은)는 영구적으로 코카투스에 냉동되었습니다.</LF_Cocytus.deathMessage>
+  <LF_Blazingsmash.label>블래이징 스매쉬</LF_Blazingsmash.label>
+  <LF_Blazingsmash.deathMessage>{0}(은)는 폭격을 받아 사망했습니다.</LF_Blazingsmash.deathMessage>
+  <LF_Burningcharge.label>버닝 차지</LF_Burningcharge.label>
+  <LF_Burningcharge.deathMessage>{0}(은)는 화상으로 인해 사망했습니다.</LF_Burningcharge.deathMessage>
+  <LF_Heatbite.label>힛 바이트</LF_Heatbite.label>
+  <LF_Heatbite.deathMessage>{0}(은)는 힛 바이트로 인해 사망했습니다.</LF_Heatbite.deathMessage>
+  <LF_Heatlance.label>힛 랜스</LF_Heatlance.label>
+  <LF_Heatlance.deathMessage>{0}(은)는 힛 랜스로 인해 사망했습니다.</LF_Heatlance.deathMessage>
+  <LF_Flareblast.label>플래어 블래스트</LF_Flareblast.label>
+  <LF_Flareblast.deathMessage>{0}(이)가 플래어 블래스트로 인해 연소되었습니다.</LF_Flareblast.deathMessage>
+  <LF_Inferno.label>인페르노</LF_Inferno.label>
+  <LF_Inferno.deathMessage>{0}(은)는 붉은 인페르노로 인해 재로 불태워졌습니다.</LF_Inferno.deathMessage>
+  <LF_Poisonstab.label>독침</LF_Poisonstab.label>
+  <LF_Poisonstab.deathMessage>{0}(은)는 독침으로 인해 목숨을 사망했습니다.</LF_Poisonstab.deathMessage>
+  <LF_ThornStab.label>가시 침</LF_ThornStab.label>
+  <LF_ThornStab.deathMessage>{0}(은)는 가시에 찔려 사망했습니다.</LF_ThornStab.deathMessage>
+  <LF_Deadlypoison.label>죽음의 독</LF_Deadlypoison.label>
+  <LF_Deadlypoison.deathMessage>{0}(은)는 치명적인 독을 앓다가 사망했습니다.</LF_Deadlypoison.deathMessage>
+  <LF_Sandblast.label>샌드 블래스트</LF_Sandblast.label>
+  <LF_Sandblast.deathMessage>{0}(은)는 샌드 블래스트로 인해 사망했습니다.</LF_Sandblast.deathMessage>
+  <LF_Armorbreak.label>갑옷 파괴</LF_Armorbreak.label>
+  <LF_Armorbreak.deathMessage>{0}(은)는 갑옷 파괴로 인해 사망했습니다.</LF_Armorbreak.deathMessage>
+  <LF_Armbreak.label>관절 파괴</LF_Armbreak.label>
+  <LF_Armbreak.deathMessage>{0}(은)는 관절 파괴로 인해 사망했습니다.</LF_Armbreak.deathMessage>
+  <LF_Legbreak.label>다리 파괴</LF_Legbreak.label>
+  <LF_Legbreak.deathMessage>{0}(은)는 다리 파괴의 충격으로 사망했습니다.</LF_Legbreak.deathMessage>
+  <LF_ArmorRavage.label>갑옷 유린</LF_ArmorRavage.label>
+  <LF_ArmorRavage.deathMessage>{0}(은)는 갑옷 유린의 충격으로 인해 사망했습니다.</LF_ArmorRavage.deathMessage>
+  <LF_MobilityRavage.label>다리 유린</LF_MobilityRavage.label>
+  <LF_MobilityRavage.deathMessage>{0}(은)는 다리 파괴의 충격으로 인해 사망했습니다.</LF_MobilityRavage.deathMessage>
+  <LF_Bloodleech.label>피 거머리</LF_Bloodleech.label>
+  <LF_Bloodleech.deathMessage>{0}(은)는 혈액 손실로 인해 사망했습니다.</LF_Bloodleech.deathMessage>
+  <LF_Famine.label>기근</LF_Famine.label>
+  <LF_Famine.deathMessage>{0}(은)는 영양실조로 사망했습니다.</LF_Famine.deathMessage>
+  <LF_Pestilence.label>역병</LF_Pestilence.label>
+  <LF_Pestilence.deathMessage>{0}(은)는 역병으로 사망했습니다.</LF_Pestilence.deathMessage>
+  <LF_DragonicSigil.label>용인</LF_DragonicSigil.label>
+  <LF_DragonicSigil.deathMessage>{0}(은)는 용인이 새겨져 사망했습니다.</LF_DragonicSigil.deathMessage>
+
+  <!--1821617793_190811_Magical Menagerie-->
+  <MM_ToxicBite.label>독성 물기</MM_ToxicBite.label>
+  <MM_ToxicBite.deathMessage>{0}(은)는 물려죽었습니다.</MM_ToxicBite.deathMessage>
+  <MM_FlamingBite.label>화염 물기</MM_FlamingBite.label>
+  <MM_FlamingBite.deathMessage>{0}(은)는 타죽었습니다.</MM_FlamingBite.deathMessage>
+  <MM_ToxicSting.label>독 꼬리</MM_ToxicSting.label>
+  <MM_ToxicSting.deathMessage>{0}(은)는 쏘여 죽었습니다.</MM_ToxicSting.deathMessage>
+  <MM_Grapple.label>잡기</MM_Grapple.label>
+  <MM_Grapple.deathMessage>{0}(은)는 붙잡혀 죽었습니다.</MM_Grapple.deathMessage>
+  <MM_BleedingWound.label>상처 출혈</MM_BleedingWound.label>
+  <MM_BleedingWound.deathMessage>{0}(은)는 출혈로 죽었습니다.</MM_BleedingWound.deathMessage>
+  <MM_UncontrollableBleeding.label>제어할 수 없는 출혈</MM_UncontrollableBleeding.label>
+  <MM_UncontrollableBleeding.deathMessage>{0}(은)는 출혈로 죽었습니다.</MM_UncontrollableBleeding.deathMessage>
+  <MM_ToxicBreath.label>독성 숨결</MM_ToxicBreath.label>
+  <MM_ToxicBreath.deathMessage>{0}(은)는 중독되어 죽었습니다.</MM_ToxicBreath.deathMessage>
+
+  <!--949283405_190618_AnimalCollabProj-->
+  <AcidBite.label>산성독</AcidBite.label>
+  <AcidBite.deathMessage>{0}(은)는 물려 산성 독으로 사망했습니다.</AcidBite.deathMessage>
+  <Sting.label>쏘임</Sting.label>
+  <Sting.deathMessage>{0}(은)는 쏘여 사망했습니다.</Sting.deathMessage>
+  <ScorpionSting.label>침 쏘임</ScorpionSting.label>
+  <ScorpionSting.deathMessage>{0}(은)는 쏘여 사망했습니다.</ScorpionSting.deathMessage>
+  <PlatypusSting.label>돌기 찔림</PlatypusSting.label>
+  <PlatypusSting.deathMessage>{0}(은)는 돌기에 찔려 사망했습니다.</PlatypusSting.deathMessage>
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <sd_medicaddons_medieval_surg_washpan.label>중세 수세식 냄비</sd_medicaddons_medieval_surg_washpan.label>
+  <sd_medicaddons_medieval_surg_washpan.description>당신의 의사를 청결하게 유지하기 위한 가장 간단한 장치, 침대 옆에 배치되어야 합니다. 한개의 침대는 동일한 종류의 것에만 연결될 수 있고, 여러개의 침대는 동일한 것을 사용할 수 있습니다.</sd_medicaddons_medieval_surg_washpan.description>
+  <sd_medicaddons_medieval_surg_instruments.label>중세 수술 기구</sd_medicaddons_medieval_surg_instruments.label>
+  <sd_medicaddons_medieval_surg_instruments.description>이러한 도구들을 사용하는 것에 대한 두려움은 당신의 정착민들의 회복 속도를 높일 것 입니다. 침대 옆에 배치되어야 합니다. 하나의 침대는 같은 종류의 것과 연결될 수 있습니다. 하지만 여러개의 침대는 같은 것을 사용할 수 있습니다.</sd_medicaddons_medieval_surg_instruments.description>
+  <sd_medicaddons_medieval_surg_lamp.label>전등</sd_medicaddons_medieval_surg_lamp.label>
+  <sd_medicaddons_medieval_surg_lamp.description>밝은 빛이 내리자 의사가 갑자기 그가 건강한 다리를 가졌다는 것을 깨닫게 되었다. 침대 옆에 배치되어야 합니다. 하나의 침대는 같은 종류의 것과 연결될 수 있습니다. 하지만 여러개의 침대는 같은 것을 사용할 수 있습니다.</sd_medicaddons_medieval_surg_lamp.description>
+  <sd_medicaddons_industrial_surg_instruments.label>산업용 외과 기구</sd_medicaddons_industrial_surg_instruments.label>
+  <sd_medicaddons_industrial_surg_instruments.description>이러한 기구들은 여전히 무섭게 보이지만, 여러분의 치료 가능성에 영향을 미치지는 않을 것입니다. 침대 옆에 배치되어야 합니다. 하나의 침대는 같은 종류의 것과 연결될 수 있다, 그러나 다수의 침대는 동일하게 사용할 수 있습니다.</sd_medicaddons_industrial_surg_instruments.description>
+  <sd_medicaddons_industrial_surg_lamp.label>산업용 수술등</sd_medicaddons_industrial_surg_lamp.label>
+  <sd_medicaddons_industrial_surg_lamp.description>만약 여러분이 수술 중에 열려 있는 신체에 서 있다면, 빛에 비춰 지는 빛은 완전히 새로운 의미를 갖게 됩니다. 침대 옆에 배치되어야 합니다. 하나의 침대는 같은 종류의 것과 연결될그러나 다수의 침대는 동일하게 사용할 수 있습니다.</sd_medicaddons_industrial_surg_lamp.description>
+  <sd_medicaddons_spacer_surg_vitalsmonitor.label>우주 바이탈 모니터</sd_medicaddons_spacer_surg_vitalsmonitor.label>
+  <sd_medicaddons_spacer_surg_vitalsmonitor.description>새롭고 향상된 기능: 일반적으로 환자를 모니터링할 수 있는 새로운 기능을 갖추고 있기 때문에 일반적인 바이탈 모니터와 별반 다를 바가 없습니다. 침대 옆에 배치되어야 합니다. 한개의 침대는 동일한 종류의 것에만 연결될 수 있지만, 여러개의 침대는 동일한 것을 사용할 수 있습니다.</sd_medicaddons_spacer_surg_vitalsmonitor.description>
+  <sd_medicaddons_spacer_surg_instruments.label>우주 수술 기구</sd_medicaddons_spacer_surg_instruments.label>
+  <sd_medicaddons_spacer_surg_instruments.description>여기서 플라즈마 절단기를 사용하면 효과가 있어야 합니다. 그다지 설득력이 없는 것처럼 들리겠지만, 환자는 고통을 느끼지 않을 것 입니다. 광고가 말하는 것이 바로 그것 입니다. 한개의 침대는 동일한 종류의 것에만 연결될 수 있지만, 여러개의 침대는 동일한 것을 사용할 수 있습니다.</sd_medicaddons_spacer_surg_instruments.description>
+  <sd_medicaddons_spacer_surg_lamp.label>우주 수술등</sd_medicaddons_spacer_surg_lamp.label>
+  <sd_medicaddons_spacer_surg_lamp.description>수술실에서 가장 최근에 나온 것은 말 그대로 떠오르는 빛의 볼이다. 한개의 침대는 동일한 종류의 것에만 연결될 수 있지만, 여러개의 침대는 동일한 것을 사용할 수 있습니다.</sd_medicaddons_spacer_surg_lamp.description>
+
+</LanguageData>

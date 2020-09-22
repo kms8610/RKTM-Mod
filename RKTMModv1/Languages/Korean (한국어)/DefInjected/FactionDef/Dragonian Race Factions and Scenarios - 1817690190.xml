@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_NPC.label>드래고니안 부족</Dragonian_NPC.label>
+  <Dragonian_NPC.description>드래고니안 부족입니다.</Dragonian_NPC.description>
+  <Dragonian_NPC.pawnsPlural>드래고니안</Dragonian_NPC.pawnsPlural>
+  <Dragonian_NPC.leaderTitle>우두머리</Dragonian_NPC.leaderTitle>
+  <Dragonian_Pirate.label>드래고니안 해적</Dragonian_Pirate.label>
+  <Dragonian_Pirate.description>드래고니안 해적입니다.</Dragonian_Pirate.description>
+  <Dragonian_Pirate.pawnsPlural>드래고니안</Dragonian_Pirate.pawnsPlural>
+  <Dragonian_Pirate.leaderTitle>우두머리</Dragonian_Pirate.leaderTitle>
+  <Dragonian_Player.label>드래고니안</Dragonian_Player.label>
+  <Dragonian_Player.description>야생 드래고니안 입니다.</Dragonian_Player.description>
+
+</LanguageData>

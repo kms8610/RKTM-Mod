@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Stage0b_RA.label>전쟁 초기 무기들</Stage0b_RA.label>
+  <Stage0b_RA.description>제3제국 기계 테이블과 Kar98K, Kar98K 총검 장착, Kar98K 스나이퍼, MP 35, MG 34, P08, 발터 PPK, M31 야전삽, S84/98 III 총검, M24 수류탄을 해금합니다.</Stage0b_RA.description>
+  <Stage1b_RA.label>전쟁 중기 무기들</Stage1b_RA.label>
+  <Stage1b_RA.description>Gew 43, Gew 43 조준경 장착, Kar98K 총류탄 장착, MP 40, FG 42, MG 42, P38, PzB 39을 해금합니다.</Stage1b_RA.description>
+  <Stage2b_RA.label>전쟁 말기 무기들</Stage2b_RA.label>
+  <Stage2b_RA.description>StG 44, StG 44 조준경 장착, 판저파우스트 60을 해금합니다.</Stage2b_RA.description>
+  <Stage2c_RA.label>국민돌격대</Stage2c_RA.label>
+  <Stage2c_RA.description>VG.1, 국민돌격권총, MP 3008, MP 507, 아인슈토스플라멘베르퍼 46 화염방사기를 해금합니다.</Stage2c_RA.description>
+  <Stage0a_RA.label>분대 화기 I</Stage0a_RA.label>
+  <Stage0a_RA.description>3,7cm PaK 36 and 7,5cm le.IG 18을 해금합니다.</Stage0a_RA.description>
+  <Stage1a_RA.label>분대 화기 II</Stage1a_RA.label>
+  <Stage1a_RA.description>MG 42 거치대 장착, 7,5cm PaK 40, 2cm Flak 38을 해금합니다.</Stage1a_RA.description>
+  <Stage1_RA.label>로켓 포병</Stage1_RA.label>
+  <Stage1_RA.description>15cm Nebelwerfer 41을 해금합니다.</Stage1_RA.description>
+  <Stage0c_RA.label>고급 광학 사이트</Stage0c_RA.label>
+  <Stage0c_RA.description>ZF39 (Kar98K) ZF4 (Gew 43, StG 44)조준경을 해금합니다.</Stage0c_RA.description>
+
+</LanguageData>

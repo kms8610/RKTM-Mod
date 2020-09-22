@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RadiologyCancer.label>암</RadiologyCancer.label>
+  <RadiologyRadiation.label>방사선</RadiologyRadiation.label>
+  <MutationEnhancedDex.label>향상된 손재주</MutationEnhancedDex.label>
+  <MutationEnhancedDex.description>방사선은 {PAWN_nameDef}의 PART에 힘줄과 근육을 강화시켜 {PAWN_nameDef}(을)를 더 숙련되도록 만들었습니다.</MutationEnhancedDex.description>
+  <MutationStrengthenedArm.label>강화된 팔</MutationStrengthenedArm.label>
+  <MutationStrengthenedArm.description>팔의 근육 조직이 돌연변이되어 부자연스럽게 성장하여 {PAWN_nameDef}의 힘과 통제력이 증가됩니다.</MutationStrengthenedArm.description>
+  <MutationRippedShoulders.label>떡 벌어진 어깨</MutationRippedShoulders.label>
+  <MutationRippedShoulders.description>{PAWN_nameDef}(은)는 어깨에 많은 양의 근육을 얻어 근접 전투에 더 숙달되었고 {PAWN_nameDef}의 외관이 전반적으로 개선되었습니다.</MutationRippedShoulders.description>
+  <MutationGreenThumb.label>녹색 엄지 손가락</MutationGreenThumb.label>
+  <MutationGreenThumb.description>{PAWN_nameDef}의 PART 피부가 녹색으로 변화되어 땅에 뿌린 모든 식물을 복돋우는 것으로 보입니다.</MutationGreenThumb.description>
+  <MutationTumorousHand.label>손가락 종양</MutationTumorousHand.label>
+  <MutationTumorousHand.description>방사선은 {PAWN_nameDef}의 손에 양성 종양이 자라게하여 신경과 근육 조직을 파괴하여 손가락에 고통을 주게 만들었습니다.</MutationTumorousHand.description>
+  <MutationWeakenedArm.label>약해진 팔</MutationWeakenedArm.label>
+  <MutationWeakenedArm.description>방사선은 {PAWN_nameDef}의 팔에있는 근육 조직이 악화되어 {PAWN_nameDef}의 힘과 통제력을 약화시켰습니다.</MutationWeakenedArm.description>
+  <MutationShootingBoost.label>떨리지 않는 손</MutationShootingBoost.label>
+  <MutationShootingBoost.description>{PAWN_nameDef}의 PART의 특정 돌연변이는 근접 공격력을 희생하는 대가로 뛰어난 사격 실력을 가지게 하였습니다.</MutationShootingBoost.description>
+  <MutationRottenHand.label>썩은 손</MutationRottenHand.label>
+  <MutationRottenHand.description>{PAWN_nameDef}의 PART는 썩고 떨어지는 단계에 가깝지만 정확히는 아닙니다, 때때로 조그마한 생명체가 피부를 이동하는 게 관찰될 수 있습니다.</MutationRottenHand.description>
+  <MutationHandBlade.label>칼날 손</MutationHandBlade.label>
+  <MutationHandBlade.description>{PAWN_nameDef}의 PART는 긴 칼날로 변이되어 조작과 관련된 작업의 능률은 감소하지만 근거리 무기로는 유용합니다.</MutationHandBlade.description>
+  <MutationBloodBlade.label>블러드 블레이드</MutationBloodBlade.label>
+  <MutationBloodBlade.description>{PAWN_nameDef}의 PART는 살갗이 벗겨진 긴 칼날로 변이되었는데, 이 칼날은 자기만의 삶을 사는 것 같습니다. 전투 환경에서 생물에게 먹이를 주는 즉시, 이 칼날은 영구적인 부상까지도 재생시킬 수 있는 매우 강력한 회복 효과를 낼 수 있습니다.</MutationBloodBlade.description>
+  <MutationBlink.label>점멸!</MutationBlink.label>
+  <MutationBlink.description>PART에 있는 알수없는 원인의 변형이 {PAWN_nameDef}(을)를 주기적으로 변화시켜 사라지게 하고, 랜디랜덤으로 다른 위치에서 다시 나타나게 합니다.</MutationBlink.description>
+  <MutationBlinkControlled.label>통제 가능한 점멸!</MutationBlinkControlled.label>
+  <MutationBlinkControlled.description>PART에 있는 알수없는 원인의 변형이 {PAWN_nameDef}의 의지대로 주기적으로 변화시켜 사라지게 하고 다른 위치에서 다시 나타나게 할수있습니다, 하지만 {PAWN_nameDef}(은)는 다시 나타나는 장소를 정할 수 없습니다.</MutationBlinkControlled.description>
+  <MutationBlinkAimed.label>조준 가능한 점멸!</MutationBlinkAimed.label>
+  <MutationBlinkAimed.description>PART에 있는 알수 없는 원인의 변형이 {PAWN_nameDef}의 의지대로 주기적으로 변화시켜 사라지게 하고 다른 위치에서 다시 나타나게 할 수 있습니다. {PAWN_nameDef}(은)는 다시 나타나는 장소를 정할 수 있습니다.</MutationBlinkAimed.description>
+  <MutationCarapace.label>등껍질</MutationCarapace.label>
+  <MutationCarapace.description>{PAWN_nameDef}의 뒤쪽에 단단한 갑각이 형성되어 뒤 그리고 옆으로 들어오는 모든 대미지를 절반으로 줄여줍니다.</MutationCarapace.description>
+  <MutationBattery.label>배터리</MutationBattery.label>
+  <MutationBattery.description>PART(은)는 이상하게 진화되어 희박한 공기를 통해 근처의 노출된 전선로부터 전기를 흡수하고 방출합니다.</MutationBattery.description>
+  <MutationBatteryLeg.label>배터리</MutationBatteryLeg.label>
+  <MutationBatteryLeg.description>PART(은)는 희박한 공기를 통해 근처에 노출된 전선의 전기를 흡수하도록 변형되어 {PAWN_nameDef}(이)가 더 빠르게 움직일 수 있도록 기능을 향상시킵니다. 그러나 노출된 전선이 없으면 기능이 더 나빠지게 됩니다.</MutationBatteryLeg.description>
+  <MutationBatteryHeart.label>배터리</MutationBatteryHeart.label>
+  <MutationBatteryHeart.description>PART(은)는 희박한 공기를 통해 근처의 노출된 전선으로부터 전기를 흡수하도록 변형되었으며 혈액순환을 향상시키는데 사용됩니다. 그러나 노출된 전선이 없으면 기능이 더 나빠지게됩니다.</MutationBatteryHeart.description>
+  <MutationBatteryBrain.label>배터리</MutationBatteryBrain.label>
+  <MutationBatteryBrain.description>PART(은)는 희박한얇은 공기를 통해 근처의 노출된 전선으로부터 전기를 흡수하도록 변형되었으며 전반적인 성능을 향상시키는데 사용합니다. 그러나 노출된 전선이 없으면 기능이 더 나빠집니다.</MutationBatteryBrain.description>
+  <MutationGlowRed.label>빨갛게 빛남</MutationGlowRed.label>
+  <MutationGlowRed.description>{PAWN_nameDef}의 PART(은)는 빨갛게 빛나고 있습니다.</MutationGlowRed.description>
+  <MutationGlowGreen.label>초록하게 빛남</MutationGlowGreen.label>
+  <MutationGlowGreen.description>{PAWN_nameDef}의 PART(은)는 초록하게 빛나고 있습니다.</MutationGlowGreen.description>
+  <MutationGlowBlue.label>푸르게 빛남</MutationGlowBlue.label>
+  <MutationGlowBlue.description>{PAWN_nameDef}의 PART(은)는 푸르게 빛나고 있습니다.</MutationGlowBlue.description>
+  <MutationGlow.label>빛남</MutationGlow.label>
+  <MutationGlow.description>{PAWN_nameDef}의 PART(은)는 빛나고 있습니다.</MutationGlow.description>
+  <MutationBloodlust.label>피의 갈망</MutationBloodlust.label>
+  <MutationBloodlust.description>{PAWN_nameDef}의 PART(은)는 신체 외부의 혈액 냄새를 감지할 수있는 방법과 이에 대한 특별한 갈증을 개발했습니다. 인근 피가 혈액 순환뿐만 아니라 혈액 펌핑 용량을 높입니다.</MutationBloodlust.description>
+  <MutationBerserkerMinor.label>콩팥위샘</MutationBerserkerMinor.label>
+  <MutationBerserkerMinor.description>{PAWN_nameDef}의 PART 내부에 여분의 부신 샘이 형성되어 있어, 다쳤을 때 용량을 크게 증가시켜줍니다.</MutationBerserkerMinor.description>
+  <MutationSuperSpeed.label>슈퍼 스피드</MutationSuperSpeed.label>
+  <MutationSuperSpeed.description>{PAWN_nameDef}의 다리의 근육과 힘줄을 더 세게 변형시키고 강화해 정착민에게 미친 속도와 민첩함을 갖게 해줍니다.</MutationSuperSpeed.description>
+  <MutationCrippledLeg.label>불구가 된 다리</MutationCrippledLeg.label>
+  <MutationCrippledLeg.description>{PAWN_nameDef}의 다리를 변형시켜주지만 잘못된 변형으로 기형이되고 약해져 {PAWN_nameDef}의 이동에 어려움을 줍니다.</MutationCrippledLeg.description>
+  <MutationNightDweller.label>야행성</MutationNightDweller.label>
+  <MutationNightDweller.description>{PAWN_nameDef}의 PART(은)는 돌이킬 수 없는 변화로 인해 신체가 야간에 더 일의 능률이 높아지고 낮에는 더 낮아집니다</MutationNightDweller.description>
+  <MutationEnhancedLungs.label>향상된 폐</MutationEnhancedLungs.label>
+  <MutationEnhancedLungs.description>방사선은 {PAWN_nameDef}의 폐와 횡경막에 있는 조직과 근육을 강화시켜 그의 호흡이 비인간적이게 만들었습니다.</MutationEnhancedLungs.description>
+  <MutationStrengthenedHeart.label>강화된 심장</MutationStrengthenedHeart.label>
+  <MutationStrengthenedHeart.description>근육 조직이 강화되어 {PAWN_nameDef}의 심장이 우월해지도록 만들어졌습니다.</MutationStrengthenedHeart.description>
+  <MutationSuperVision.label>슈퍼 시력</MutationSuperVision.label>
+  <MutationSuperVision.description>{PAWN_nameDef}의 눈이 변이 되었습니다, 그가 명확하고 예리하게 볼 수 있게 해줍니다. {PAWN_nameDef}의 시력이 더 좋아지고 조작이 향상됩니다.</MutationSuperVision.description>
+  <MutationEnhancedHearing.label>향상된 청력</MutationEnhancedHearing.label>
+  <MutationEnhancedHearing.description>{PAWN_nameDef}의 귀가 변이 되었습니다, 그가 명학하고 예리하게 들을 수 있게 해줍니다. {PAWN_nameDef}의 청력이 향상됩니다.</MutationEnhancedHearing.description>
+  <MutationBrain.label>뇌 변이</MutationBrain.label>
+  <MutationBrain.description>{PAWN_nameDef}의 뇌가 변이 되었습니다, 시냅스가 더 빠르고 효율적으로 일하게 함으로써 그를 전반적으로 향상시킵니다</MutationBrain.description>
+  <MutationDamagedLung.label>손상된 폐</MutationDamagedLung.label>
+  <MutationDamagedLung.description>방사선이 {PAWN_nameDef}의 폐 조직을 너무 파괴해 그는 숨쉬기가 어려워졌습니다.</MutationDamagedLung.description>
+  <MutationWeakenedHeart.label>약해진 심장</MutationWeakenedHeart.label>
+  <MutationWeakenedHeart.description>근육 조직을 방사선으로 인해 약해지고 손상되어 {PAWN_nameDef}의 심장의 효율성이 떨어집니다.</MutationWeakenedHeart.description>
+  <MutationDamagedVision.label>손상된 시력</MutationDamagedVision.label>
+  <MutationDamagedVision.description>{PAWN_nameDef}의 눈 조직이 손상됐습니다, 그는 쓸데없는 눈만 남았습니다. 만약 두 눈이 손상된다면 {PAWN_nameDef}(이)가 눈이 멀게 됩니다.</MutationDamagedVision.description>
+  <MutationDamagedHearing.label>손상된 청력</MutationDamagedHearing.label>
+  <MutationDamagedHearing.description>{PAWN_nameDef}의 귀 손상은 {PAWN_nameDef}의 불쌍한 청력을 남겼습니다.</MutationDamagedHearing.description>
+  <MutationBrainDamage.label>뇌진탕</MutationBrainDamage.label>
+  <MutationBrainDamage.description>{PAWN_nameDef}의 뇌 조직이 악화되어 시냅스가 더 느리고 효율적으로 일하게 되지 않아 그가 귀머거리가 되거나 벙어리가 됩니다.</MutationBrainDamage.description>
+  <MutationBloatedHeart.label>부어오른 심장</MutationBloatedHeart.label>
+  <MutationBloatedHeart.description>심장이 부풀어오른 피의 요새로 변했습니다. {PAWN_nameDef}는 혈액 순환이 엄청나게 증가하며, 상처를 입으면 더 많은 피를 흘립니다.</MutationBloatedHeart.description>
+  <MutationHorns.label>뿔</MutationHorns.label>
+  <MutationHorns.comps.0.tools.0.label>팁</MutationHorns.comps.0.tools.0.label>
+  <MutationHorns.description>뿔이 {PAWN_nameDef}의 PART에서 튀어나와 머리 장비를 쓸 수 없게 만들었습니다. 적어도 그것들은 근접무기로 사용될 수 있습니다.</MutationHorns.description>
+  <MutationPsionicShield.label>사이오닉 보호막</MutationPsionicShield.label>
+  <MutationPsionicShield.description>{PAWN_nameDef}(은)는 자기 주위에 사이오닉 보호막이 형성되여 원거리 및 근접 공격으로부터 보호됩니다.</MutationPsionicShield.description>
+  <MutationPsionicShieldSmall.label>작은 사이오닉 보호막</MutationPsionicShieldSmall.label>
+  <MutationPsionicShieldSmall.description>{PAWN_nameDef}(은)는 자기 주위에 사이오닉 보호막이 형성되여 원거리 및 근접 공격으로부터 보호됩니다.</MutationPsionicShieldSmall.description>
+  <MutationPsionicShieldLarge.label>큰 사이오닉 보호막</MutationPsionicShieldLarge.label>
+  <MutationPsionicShieldLarge.description>{PAWN_nameDef}(은)는 자기 주위에 사이오닉 보호막이 형성되여 원거리 및 근접 공격으로부터 보호됩니다.</MutationPsionicShieldLarge.description>
+  <MutationPsionicShieldHuge.label>엄청난 사이오닉 보호막</MutationPsionicShieldHuge.label>
+  <MutationPsionicShieldHuge.description>{PAWN_nameDef}(은)는 자기 주위에 사이오닉 보호막이 형성되여 원거리 및 근접 공격으로부터 보호됩니다.</MutationPsionicShieldHuge.description>
+  <MutationFireShield.label>화염 보호막</MutationFireShield.label>
+  <MutationFireShield.description>{PAWN_nameDef}(은)는 자기 주위에 화염 보호막이 형성되여 원거리 및 근접 공격으로부터 보호됩니다.</MutationFireShield.description>
+  <MutationRegeneration.label>재생</MutationRegeneration.label>
+  <MutationRegeneration.description>{PAWN_nameDef}의 PART(은)는 {PAWN_nameDef}의 건강을 최우선으로 고려하는 것으로 보이는 기생 미생물의 숙주가 되어 비인간적인 재생능력을 제공받습니다.</MutationRegeneration.description>
+  <MutationVomitMarbleBricks.label>대리석 제조기</MutationVomitMarbleBricks.label>
+  <MutationVomitMarbleBricks.description>{PAWN_nameDef}의 PART(은)는 대리석을 생산하도록 변형되었습니다. 그 일부는 구토 중에 배출됩니다. 대리석은 조각하기 쉬운 것으로 알려진 부드럽고 아름다운 돌입니다.</MutationVomitMarbleBricks.description>
+  <MutationVomitSilver.label>은 제조기</MutationVomitSilver.label>
+  <MutationVomitSilver.description>{PAWN_nameDef}의 PART(은)는 은을 생산하도록 변형되었습니다. 그 일부는 구토 중에 배출됩니다. 은은 주로 상품 통화로 사용됩니다.</MutationVomitSilver.description>
+  <MutationVomitSteel.label>강철 제조기</MutationVomitSteel.label>
+  <MutationVomitSteel.description>{PAWN_nameDef}의 PART(은)는 을 생산하도록 변형되었습니다. 그 일부는 구토 중에 배출됩니다. 강철은 철 탄소 금속 합금입니다.</MutationVomitSteel.description>
+  <MutationVomitComponent.label>부품 제조기</MutationVomitComponent.label>
+  <MutationVomitComponent.description>{PAWN_nameDef}의 PART(은)는 기타 기어, 커패시터, 회로 기판, 튜브, 휠, 센서, 와이어, 칩, 프로세서 및 기타 전자 및 산업 부품을 생산하도록 변형되었습니다. 일부 제품은 구토 중에 편리하게 배출되어 복잡한 기계 또는 전자 장치의 조립을 가능하게 합니다.</MutationVomitComponent.description>
+  <MutationBrewery.label>양조장</MutationBrewery.label>
+  <MutationBrewery.description>{PAWN_nameDef}의 PART에는 양조장으로 변형되어, 사실상 항상 술에 취해있도록 만들었습니다.</MutationBrewery.description>
+  <MutationVolatileArms.label>휘발성 물질</MutationVolatileArms.label>
+  <MutationVolatileArms.description>{PAWN_nameDef}의 PART에는 폭발 위험이 높은 물질의 임계 질량이 형성되었습니다. 직접적인 피해는 폭발의 원인이 될 수 있습니다.</MutationVolatileArms.description>
+
+</LanguageData>

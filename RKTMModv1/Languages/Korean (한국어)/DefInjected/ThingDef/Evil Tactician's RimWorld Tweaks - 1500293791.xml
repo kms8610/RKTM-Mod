@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_FSFurCoat.label>모피 코트</Apparel_FSFurCoat.label>
+  <Apparel_FSFurCoat.description>야수 패션 팬을 위한 지독하게 따뜻한 모피 코트! 죽은 동물의 가죽과 털의 중요한 부분과 조각을 싸서 겨울의 혹한으로부터 안전하게 보호를 합니다. 림월드의 부족민들이 선호하는 겨울 모습! (죽은 동물의 털은 하루 종일 흔들릴 정도로 무거우므로 움직임과 작업 속도에 대한 제한을 받습니다.)</Apparel_FSFurCoat.description>
+  <Apparel_FSDesertRobe.label>사막 로브</Apparel_FSDesertRobe.label>
+  <Apparel_FSDesertRobe.description>사막 로브는 더운 날을 위한 완벽한 옷입니다. 재봉틀에서 재봉하는 것은 쉬우며, 그물망을 중심으로 시원하고 선선한 바람이 불어 여름의 더위와 과도한 땀을 물리칠 수 있습니다. 림월드의 부족민들이 입는 대표적인 여름 옷 중의 하나입니다.</Apparel_FSDesertRobe.description>
+  <Apparel_FSFurHat.label>모피 모자</Apparel_FSFurHat.label>
+  <Apparel_FSFurHat.description>모피로 만든 이 모자는 테라(Terra)의 라-셰인(Ra-Shain) 평원의 고대 전사들이 착용한 모자들을 모방한 것입니다. 추운 날씨에 대한 보호가 완벽한 모자로써, 스타일리쉬하면서도 실용적입니다.</Apparel_FSFurHat.description>
+  <Apparel_FSDesertWrap.label>사막 머리 싸개</Apparel_FSDesertWrap.label>
+  <Apparel_FSDesertWrap.description>얼굴에 모래가 날리는 것에 지치셨습니까? 태양이 당신의 머리를 굽고 있나요? 더 이상 두려워 마세요! 사막 머리 싸개가 있습니다! 여름의 더위와 모래 그리고 전반적인 불쾌감으로부터 당신을 보호해 줄 것입니다. 하지만 주의하세요! 당신의 얼굴이 완전히 가려졌기 때문에, 당신은 사회적 상호작용에 약간 어려움을 겪을 것입니다.</Apparel_FSDesertWrap.description>
+  <ET_Apparel_WolfHood.label>늑대 후드</ET_Apparel_WolfHood.label>
+  <ET_Apparel_WolfHood.description>이 인상적인 두건은 전통적으로 부족장들이 외부인들을 감동시키기 위해 착용한 것입니다. 협상과 사회적 상호작용에 작은 힘을 실어주며, 부족장이 착용해야 합니다.</ET_Apparel_WolfHood.description>
+  <ET_Apparel_DeerHood.label>사슴 후드</ET_Apparel_DeerHood.label>
+  <ET_Apparel_DeerHood.description>이 두건은 전통적으로 한 부족의 사냥꾼들이 먹이를 혼동하기 위해 착용한 것입니다. 경고 - 먹이가 실제로 속았다는 보장은 없습니다. 조준과 사격 정확도에 아주 약간의 보정을 줍니다. 이 두건은 가죽으로 만들어졌고 사슴을 닮은 동물 뼈를 조각했습니다.</ET_Apparel_DeerHood.description>
+  <ET_Apparel_ScarabHood.label>메가스캐럽 후드</ET_Apparel_ScarabHood.label>
+  <ET_Apparel_ScarabHood.description>무시무시한 부족 전사들이 뛰어난 보호를 위해 사용하는 튼튼한 후드. 전사들에게 근접 전투에서의 훌륭한 보호를 제공합니다. 일단 당신이 이 괴물을 실제로 착용하는 것에 대한 두려움을 극복하면, 당신은 정신 붕괴를 겪을 확률이 줄어들 것입니다. 이 두건은 가죽으로 만들어졌고 동물 뼈를 조각했습니다.</ET_Apparel_ScarabHood.description>
+  <ET_Apparel_SpiderHelm.label>메가스파이더 투구</ET_Apparel_SpiderHelm.label>
+  <ET_Apparel_SpiderHelm.description>메가스파이더의 머리로 만들어진 정교한 헬멧입니다. 이걸 입으면 무엇인가가 좀 더 빨라진 듯한 느낌이 듭니다. 사회적인 상호작용은 시도하지 마세요, 바보같아 보입니다. 이 두건은 가죽으로 만들어졌고 동물 뼈를 조각했습니다.</ET_Apparel_SpiderHelm.description>
+  <ET_Apparel_SpelHelm.label>스펠로피드 투구</ET_Apparel_SpelHelm.label>
+  <ET_Apparel_SpelHelm.description>악몽같은 것처럼 무섭게 생긴 헬멧입니다. 이 헬멧은 전통적으로 치유와 제사에 사용되었습니다. 의사나 의사 행세를 하는 폰들에게 좋습니다. 파티에는 그다지 좋지 않습니다. 이 두건은 가죽으로 만들어졌고 동물 뼈를 조각했습니다.</ET_Apparel_SpelHelm.description>
+
+</LanguageData>

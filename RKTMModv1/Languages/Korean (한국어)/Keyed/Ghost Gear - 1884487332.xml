@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GhostGear.Name>유령 장비</GhostGear.Name>
+  <GhostGear.AllowRoofPunch>갈고리를 사용하여 지붕에 구멍을 뚫습니다.</GhostGear.AllowRoofPunch>
+  <GhostGear.AllowDanger>갈고리를 사용할 시 위험을 무시합니다.</GhostGear.AllowDanger>
+  <GhostGear.MinGhostDist>유령화 최소 거리 :</GhostGear.MinGhostDist>
+  <GhostGear.MaxGhostDist>유령화 최대 거리 :</GhostGear.MaxGhostDist>
+  <GhostGear.ShowConfusion>유령에 의한 혼란 상태 폰 표시</GhostGear.ShowConfusion>
+  <GhostGear.HWChance>헤이와이어 EMP의 메카노이드에게 영향을 줄 기본 확률 (%) :</GhostGear.HWChance>
+  <GhostGear.GHSpeed>갈고리 사용 시의 기본 속도 (%) :</GhostGear.GHSpeed>
+  <GhostGear.GHInj>지붕을 뚫을 때 상처를 입을 기본 확률 (%) :</GhostGear.GHInj>
+  <GhostGear.CaltropDuration>마비가 풀리기까지 남은 시간 :</GhostGear.CaltropDuration>
+  <GhostGear.DoAutoRearm>정착민이 유령 장비 갑옷의 마름쇠를 자동으로 재장착할 수 있게 허용합니다.</GhostGear.DoAutoRearm>
+  <GhostGear.ShowAutoRearmMsg>재장전 알림 메시지 표시 :</GhostGear.ShowAutoRearmMsg>
+  <GhostGear.ResPct>기본 연구 비용 %</GhostGear.ResPct>
+  <GhostGear.ResTip>주의 : 연구 비용 변경은 림월드를 다시 시작할 때만 적용됩니다.</GhostGear.ResTip>
+  <GhostGear.ResWarn>(경고 : %를 높이면 이전 값을 사용한 연구는 완료되지 않을 것입니다.)</GhostGear.ResWarn>
+  <GhostGear.ConfusedMsg>???!</GhostGear.ConfusedMsg>
+  <GhostGear.HayWired>헤이와이어</GhostGear.HayWired>
+  <GhostGear.RepulseLabel>리펄스 폭발</GhostGear.RepulseLabel>
+  <GhostGear.RepulseDesc>클릭하여 활성화</GhostGear.RepulseDesc>
+  <GhostGear.DoNothing>아무 것도 하지 않음</GhostGear.DoNothing>
+  <GhostGear.DoRepulse>활성화</GhostGear.DoRepulse>
+  <GhostGear.GrappleHook>잡기</GhostGear.GrappleHook>
+  <GhostGear.GrappleHookDesc>인접한 벽 위로 올라갈 때 사용합니다.</GhostGear.GrappleHookDesc>
+  <GhostGear.CaltropsLabel>마름쇠 : (사용 : {1})</GhostGear.CaltropsLabel>
+  <GhostGear.CaltropsDesc>마름쇠 메뉴 옵션을 위하여 클릭합니다.</GhostGear.CaltropsDesc>
+  <GhostGear.DoCaltrops>마름쇠 떨어뜨리기</GhostGear.DoCaltrops>
+  <GhostGear.CaltropsRearm>마름쇠 포드 재장전</GhostGear.CaltropsRearm>
+  <GhostGear.NoCaltropsFound>{0}에 사용할 마름쇠를 찾을 수 없습니다.</GhostGear.NoCaltropsFound>
+  <GhostGear.IsFullyRearmed>{0}은 이미 완전히 재장전 되어 있습니다.</GhostGear.IsFullyRearmed>
+  <GhostGear.CantDo>{0}은 {1}의 이유로 {2}를 재장전할 수 없습니다.</GhostGear.CantDo>
+  <GhostGear.ReasonNotFound>착용자를 찾을 수 없습니다.</GhostGear.ReasonNotFound>
+  <GhostGear.ReasonOnFire>화재가 발생했습니다.</GhostGear.ReasonOnFire>
+  <GhostGear.ReasonDead>사망했습니다.</GhostGear.ReasonDead>
+  <GhostGear.ReasonMental>정신적으로 문제가 발생했습니다.</GhostGear.ReasonMental>
+  <GhostGear.ReasonIncap>무능력해짐</GhostGear.ReasonIncap>
+  <GhostGear.ReasonOperate>그것을 사용할 수 없습니다.</GhostGear.ReasonOperate>
+  <GhostGear.CaltropsRearmed>{0}의 {1}(이)가 {4}의 {2} 의 {3}에 의해 재장전 되었습니다.</GhostGear.CaltropsRearmed>
+  <GhostGear.FullyRearmed>{0}의 {1}(이)가 {2}(으)로 완전히 재장전되었습니다.</GhostGear.FullyRearmed>
+
+</LanguageData>

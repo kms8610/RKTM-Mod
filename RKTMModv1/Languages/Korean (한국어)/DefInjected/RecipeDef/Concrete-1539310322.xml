@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeConcrete.label>콘크리트 30개 제작</MakeConcrete.label>
+  <MakeConcrete.description>부순 바위와 모래, 시멘트와 물을 섞어서 콘크리트를 만듭니다.</MakeConcrete.description>
+  <MakeConcrete.jobString>시멘트 섞는 중.</MakeConcrete.jobString>
+  <MakeConcrete5.label>콘크리트 150개 제작</MakeConcrete5.label>
+  <MakeConcrete5.description>부순 바위와 모래, 시멘트와 물을 섞어서 콘크리트를 만듭니다.</MakeConcrete5.description>
+  <MakeConcrete5.jobString>시멘트 섞는 중.</MakeConcrete5.jobString>
+  <MakeConcreteOneStep.label>콘크리트 30개 제작 (첫 단계)</MakeConcreteOneStep.label>
+  <MakeConcreteOneStep.description>돌 덩어리를 부서진 바위와 모래로 쪼개고 시멘트와 물과 결합하여 콘크리트를 만듭니다. (파쇄된 암석과 모래를 별도로 만든 다음 콘크리트와 결합하는 것보다 약간 더 많은 작업이 필요하지만 단 한 번의 단계일 뿐입니다.)</MakeConcreteOneStep.description>
+  <MakeConcreteOneStep.jobString>시멘트 섞는 중.</MakeConcreteOneStep.jobString>
+  <MakeConcreteBlocks.label>콘크리트 판 75개 제작</MakeConcreteBlocks.label>
+  <MakeConcreteBlocks.description>콘크리트 "신더"판 만들기.</MakeConcreteBlocks.description>
+  <MakeConcreteBlocks.jobString>콘크리트 판 제작 중.</MakeConcreteBlocks.jobString>
+  <MakeConcreteRM.label>콘크리트 30개 제작</MakeConcreteRM.label>
+  <MakeConcreteRM.description>부순 바위와 모래, 시멘트와 물을 섞어서 콘크리트를 만듭니다.</MakeConcreteRM.description>
+  <MakeConcreteRM.jobString>시멘트 섞는 중.</MakeConcreteRM.jobString>
+  <MakeConcrete5RM.label>콘크리트 150개 제작</MakeConcrete5RM.label>
+  <MakeConcrete5RM.description>부순 바위와 모래, 시멘트와 물을 섞어서 콘크리트를 만듭니다.</MakeConcrete5RM.description>
+  <MakeConcrete5RM.jobString>시멘트 섞는 중.</MakeConcrete5RM.jobString>
+  <MakeConcreteOneStepRM.label>콘크리트 30개 제작 (첫 단계)</MakeConcreteOneStepRM.label>
+  <MakeConcreteOneStepRM.description>돌 덩어리를 부서진 바위와 모래로 쪼개고 시멘트와 물과 결합하여 콘크리트를 만듭니다. (파쇄된 암석과 모래를 별도로 만든 다음 콘크리트와 결합하는 것보다 약간 더 많은 작업이 필요하지만 단 한 번의 단계일 뿐입니다.)</MakeConcreteOneStepRM.description>
+  <MakeConcreteOneStepRM.jobString>시멘트 섞는 중.</MakeConcreteOneStepRM.jobString>
+  <MakeConcreteBlocksRM.label>콘크리트 판 75개 제작</MakeConcreteBlocksRM.label>
+  <MakeConcreteBlocksRM.description>콘크리트 "신더"판 만들기.</MakeConcreteBlocksRM.description>
+  <MakeConcreteBlocksRM.jobString>콘크리트 판 제작 중</MakeConcreteBlocksRM.jobString>
+  <MakeCement.label>시멘트 4개 제작(덩어리에서)</MakeCement.label>
+  <MakeCement.description>시멘트를 만들기 위한 석회석 가열.</MakeCement.description>
+  <MakeCement.jobString>시멘트 제작 중</MakeCement.jobString>
+  <MakeCementBlock.label>시멘트 만들기 (판에서)</MakeCementBlock.label>
+  <MakeCementBlock.description>시멘트를 만들기 위한 석회석 가열.</MakeCementBlock.description>
+  <MakeCementBlock.jobString>시멘트 제작 중</MakeCementBlock.jobString>
+  <MakeCrushedRocksSlow.label>부순 바위 2개 만들기</MakeCrushedRocksSlow.label>
+  <MakeCrushedRocksSlow.description>돌 덩어리들을 부숴 부순 바위들로 만듭니다.</MakeCrushedRocksSlow.description>
+  <MakeCrushedRocksSlow.jobString>돌 덩어리들 부수는 중.</MakeCrushedRocksSlow.jobString>
+  <MakeCrushedRocksSlowBlock.label>부서진 바위 만들기 (석재에서)</MakeCrushedRocksSlowBlock.label>
+  <MakeCrushedRocksSlowBlock.description>석재를 부서진 바위로 쪼갭니다.</MakeCrushedRocksSlowBlock.description>
+  <MakeCrushedRocksSlowBlock.jobString>석재 깨는 중.</MakeCrushedRocksSlowBlock.jobString>
+  <MakeSandSlow.label>모래 제작</MakeSandSlow.label>
+  <MakeSandSlow.description>분쇄된 암석을 더 분해하여 모래를 만듭니다.</MakeSandSlow.description>
+  <MakeSandSlow.jobString>모래 제작 중.</MakeSandSlow.jobString>
+  <MakeCrushedRocks.label>부서진 바위 2개 제작</MakeCrushedRocks.label>
+  <MakeCrushedRocks.description>돌 덩어리들을 부숴 부순 바위들로 만듭니다.</MakeCrushedRocks.description>
+  <MakeCrushedRocks.jobString>돌 덩어리 깨는 중.</MakeCrushedRocks.jobString>
+  <MakeCrushedRocksBlock.label>부서진 바위 만들기 (석재에서)</MakeCrushedRocksBlock.label>
+  <MakeCrushedRocksBlock.description>석재를 부숴 부순 바위들로 만듭니다.</MakeCrushedRocksBlock.description>
+  <MakeCrushedRocksBlock.jobString>석재 깨는 중.</MakeCrushedRocksBlock.jobString>
+  <MakeSand.label>모래 제작</MakeSand.label>
+  <MakeSand.description>분쇄된 암석을 더 분해하여 모래를 만듭니다.</MakeSand.description>
+  <MakeSand.jobString>모래 제작 중.</MakeSand.jobString>
+  <MakeCrushedRocks5.label>부서진 바위 10개 만들기</MakeCrushedRocks5.label>
+  <MakeCrushedRocks5.description>돌 덩어리들을 부숴 부순 바위들로 만듭니다.</MakeCrushedRocks5.description>
+  <MakeCrushedRocks5.jobString>돌 덩어리 깨는 중.</MakeCrushedRocks5.jobString>
+  <MakeSand5.label>모래 5개 제작</MakeSand5.label>
+  <MakeSand5.description>분쇄된 암석을 더 분해하여 모래를 만듭니다.</MakeSand5.description>
+  <MakeSand5.jobString>모래 제작 중.</MakeSand5.jobString>
+  <Make_StoneBlocksAnyRM.label>아무 석재 만들기</Make_StoneBlocksAnyRM.label>
+  <Make_StoneBlocksAnyRM.description>바위 덩어리를 사용 가능한 석재로 가공합니다.</Make_StoneBlocksAnyRM.description>
+  <Make_StoneBlocksAnyRM.jobString>덩어리에서 석재 가공 중.</Make_StoneBlocksAnyRM.jobString>
+  <Make_StoneBlocksSandstoneRM.label>사암 석재 제작</Make_StoneBlocksSandstoneRM.label>
+  <Make_StoneBlocksSandstoneRM.description>사암 덩어리를 사용 가능한 석재로 가공합니다.</Make_StoneBlocksSandstoneRM.description>
+  <Make_StoneBlocksSandstoneRM.jobString>덩어리에서 석재 가공 중.</Make_StoneBlocksSandstoneRM.jobString>
+  <Make_StoneBlocksGraniteRM.label>화강암 석재 만들기</Make_StoneBlocksGraniteRM.label>
+  <Make_StoneBlocksGraniteRM.description>화강암 덩어리를 사용 가능한 석재로 가공합니다.</Make_StoneBlocksGraniteRM.description>
+  <Make_StoneBlocksGraniteRM.jobString>덩어리에서 석재 가공 중.</Make_StoneBlocksGraniteRM.jobString>
+  <Make_StoneBlocksLimestoneRM.label>석회암 석재 제작</Make_StoneBlocksLimestoneRM.label>
+  <Make_StoneBlocksLimestoneRM.description>석회암 덩어리를 사용 가능한 석재로 가공합니다.</Make_StoneBlocksLimestoneRM.description>
+  <Make_StoneBlocksLimestoneRM.jobString>덩어리에서 석재 가공 중.</Make_StoneBlocksLimestoneRM.jobString>
+  <Make_StoneBlocksSlateRM.label>점판암 석재 제작</Make_StoneBlocksSlateRM.label>
+  <Make_StoneBlocksSlateRM.description>점판암 덩어리를 사용 가능한 석재로 가공합니다.</Make_StoneBlocksSlateRM.description>
+  <Make_StoneBlocksSlateRM.jobString>덩어리에서 석재 가공 중.</Make_StoneBlocksSlateRM.jobString>
+  <Make_StoneBlocksMarbleRM.label>화강암 석재 제작</Make_StoneBlocksMarbleRM.label>
+  <Make_StoneBlocksMarbleRM.description>화강암 덩어리를 사용 가능한 석재로 가공합니다.</Make_StoneBlocksMarbleRM.description>
+  <Make_StoneBlocksMarbleRM.jobString>덩어리에서 석재 가공 중.</Make_StoneBlocksMarbleRM.jobString>
+
+</LanguageData>

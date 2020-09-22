@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Zombie.label>좀비</Zombie.label>
+  <Zombie.description>좀비입니다.</Zombie.description>
+  <Zombie.tools.0.label>이빨</Zombie.tools.0.label>
+  <Zombie.tools.1.label>왼쪽 주먹</Zombie.tools.1.label>
+  <Zombie.tools.2.label>오른쪽 주먹</Zombie.tools.2.label>
+  <Zombie_Corpse.label>좀비 시체</Zombie_Corpse.label>
+  <Zombie_Corpse.description>좀비의 시체입니다.</Zombie_Corpse.description>
+  <ElectricalField.label>전기장</ElectricalField.label>
+  <ElectricalField.tools.0.label>감전</ElectricalField.tools.0.label>
+  <ElectricalField.verbs.0.label>감전</ElectricalField.verbs.0.label>
+  <Apparel_BombVest.label>폭탄 조끼</Apparel_BombVest.label>
+  <Apparel_BombVest.description>폭발되는 조끼입니다.</Apparel_BombVest.description>
+  <StickyGoo.label>유독성의 끈적거리는 물질</StickyGoo.label>
+  <ZombieExtract.label>좀비 추출물</ZombieExtract.label>
+  <ZombieExtract.description>죽은 좀비의 소량 추출물입니다. 최대 100개의 추출물을 결합하여 감염된 신체 부위의 수술에 사용되는 좀비혈청을 제조합니다.</ZombieExtract.description>
+  <UnfinishedZombieSerum.label>미완성 좀비혈청</UnfinishedZombieSerum.label>
+  <Zombie10Serum.label>좀비혈청 10%</Zombie10Serum.label>
+  <Zombie10Serum.description>죽은 좀비로부터 얻은 혈청으로 수술을 통해 좀비 감염을 치료합니다. (성공률 10%)</Zombie10Serum.description>
+  <Zombie20Serum.label>좀비혈청 20%</Zombie20Serum.label>
+  <Zombie20Serum.description>죽은 좀비로부터 얻은 혈청으로 수술을 통해 좀비 감염을 치료합니다. (성공률 20%)</Zombie20Serum.description>
+  <Zombie30Serum.label>좀비혈청 30%</Zombie30Serum.label>
+  <Zombie30Serum.description>죽은 좀비로부터 얻은 혈청으로 수술을 통해 좀비 감염을 치료합니다. (성공률 30%)</Zombie30Serum.description>
+  <Zombie40Serum.label>좀비혈청 40%</Zombie40Serum.label>
+  <Zombie40Serum.description>죽은 좀비로부터 얻은 혈청으로 수술을 통해 좀비 감염을 치료합니다. (성공률 40%)</Zombie40Serum.description>
+  <Zombie50Serum.label>좀비혈청 50%</Zombie50Serum.label>
+  <Zombie50Serum.description>죽은 좀비로부터 얻은 혈청으로 수술을 통해 좀비 감염을 치료합니다. (성공률 50%)</Zombie50Serum.description>
+  <Zombie60Serum.label>좀비혈청 60%</Zombie60Serum.label>
+  <Zombie60Serum.description>죽은 좀비로부터 얻은 혈청으로 수술을 통해 좀비 감염을 치료합니다. (성공률 60%)</Zombie60Serum.description>
+  <Zombie70Serum.label>좀비혈청 70%</Zombie70Serum.label>
+  <Zombie70Serum.description>죽은 좀비로부터 얻은 혈청으로 수술을 통해 좀비 감염을 치료합니다. (성공률 70%)</Zombie70Serum.description>
+  <Zombie80Serum.label>좀비혈청 80%</Zombie80Serum.label>
+  <Zombie80Serum.description>죽은 좀비로부터 얻은 혈청으로 수술을 통해 좀비 감염을 치료합니다. (성공률 80%)</Zombie80Serum.description>
+  <Zombie90Serum.label>좀비혈청 90%</Zombie90Serum.label>
+  <Zombie90Serum.description>죽은 좀비로부터 얻은 혈청으로 수술을 통해 좀비 감염을 치료합니다. (성공률 90%)</Zombie90Serum.description>
+  <Zombie100Serum.label>좀비혈청 100%</Zombie100Serum.label>
+  <Zombie100Serum.description>죽은 좀비로부터 얻은 순수한 혈청으로 수술을 통해 좀비 감염을 치료합니다.</Zombie100Serum.description>
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CloseboardDesc>벽으로 보이는 충분한 높이의 크고 튼튼한 울타리입니다.</CloseboardDesc>
+  <SolidDesc>토끼를 막을 수 있을만큼 높은 나무 판자로 만든 울타리입니다.</SolidDesc>
+  <PicketDesc>정원을 자랑할 수 있는 울타리입니다.</PicketDesc>
+  <FarmDesc>가장 똑똑한 트럼보까지도 통제할 수 있는 농장 울타리입니다.</FarmDesc>
+  <BarDesc>구역을 나누거나 감옥으로 사용하기 위한 통제성이 강한 울타리입니다.</BarDesc>
+  <TallChainlinkDesc>쉽게 볼 수 있는 높은 강철 격자 울타리입니다.</TallChainlinkDesc>
+  <ShortBrickDesc>길 옆에 잘 어울리는 낮고 튼튼한 울타리입니다.</ShortBrickDesc>
+  <TallBrickDesc>집단의 공격을 버틸 수 있는 튼튼한 울타리입니다.</TallBrickDesc>
+  <CloseboardGateDesc>벽으로 보이는 충분한 높이의 크고 튼튼한 울타리입니다.</CloseboardGateDesc>
+  <SolidGateDesc>토끼를 막을 수 있을만큼 높은 나무 판자로 만든 울타리입니다.</SolidGateDesc>
+  <PicketGateDesc>정원을 자랑할 수 있는 울타리입니다.</PicketGateDesc>
+  <FarmGateDesc>가장 똑똑한 트럼보까지도 통제할 수 있는 농장 울타리입니다.</FarmGateDesc>
+  <BarGateDesc>구역을 나누거나 감옥으로 사용하기 위한 통제성이 강한 울타리입니다.</BarGateDesc>
+  <TallChainlinkGateDesc>쉽게 볼 수 있는 높은 강철 격자 울타리입니다.</TallChainlinkGateDesc>
+  <ShortBrickGateDesc>길 옆에 잘 어울리는 낮고 튼튼한 울타리입니다.</ShortBrickGateDesc>
+  <TallBrickGateDesc>집단의 공격을 버틸 수 있는 튼튼한 울타리입니다.</TallBrickGateDesc>
+  <RestartNote>중요: 변경사항을 적용하려면 재시작해야 됩니다.</RestartNote>
+  <CostDesc>비용: 울타리를 짓는데 필요한 자원의 양</CostDesc>
+  <MHPDesc>기본 내구도: 재료 계수에 곱해지는 울타리의 기본 내구도</MHPDesc>
+  <BDesc>미관: 울타리를 보는 즐거움을 나타내는 비율</BDesc>
+  <FPDesc>엄폐율 (%): 울타리가 제공하는 엄폐율의 백분율. 참고: 모래주머니는 65% 입니다.</FPDesc>
+  <PCDesc>경로 비용: 울타리를 통과하는데 필요한 이동 비용</PCDesc>
+  <PDesc>통과성: 울타리의 통과 가능 상태\n 1 = 불가능함 \n 2 = 통과만 가능 \n 3 = 위치 대기 가능</PDesc>
+  <FenceLinkable>울타리가 벽과 연결되도록 허용: </FenceLinkable>
+  <FenceRoofable>울타리가 지붕을 지탱하도록 허용: </FenceRoofable>
+
+</LanguageData>

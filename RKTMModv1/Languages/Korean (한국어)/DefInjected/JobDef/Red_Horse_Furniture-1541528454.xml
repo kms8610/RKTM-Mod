@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WatchWallOfShame.reportString>수치심의 벽을 감상하는 중.</WatchWallOfShame.reportString>
+  <UseMissionBoardRC.reportString>임무 보드 사용 중.</UseMissionBoardRC.reportString>
+  <UseRedPhoneRC.reportString>붉은 전화 사용 중.</UseRedPhoneRC.reportString>
+  <RedHorse_PlayMusicPlayer.reportString>음악 켜는 중.</RedHorse_PlayMusicPlayer.reportString>
+  <RedHorse_ListenToMusicPlayer.reportString>음악 듣는 중.</RedHorse_ListenToMusicPlayer.reportString>
+  <RedHorse_PlayAndListenToMusicPlayer.reportString>음악 듣는 중.</RedHorse_PlayAndListenToMusicPlayer.reportString>
+  <RedHorse_TurnOffMusicPlayer.reportString>음악 끄는 중.</RedHorse_TurnOffMusicPlayer.reportString>
+
+</LanguageData>

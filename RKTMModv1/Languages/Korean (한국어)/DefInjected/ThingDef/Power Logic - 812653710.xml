@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SupesPressureSensor.label>압력 센서 발판</SupesPressureSensor.label>
+  <SupesPressureSensor.description>누군가 밟으면 전원이 들어오고, 아무도 없으면 전원이 꺼지는 발판입니다.</SupesPressureSensor.description>
+  <SupesStackSensor.label>저장 센서 발판</SupesStackSensor.label>
+  <SupesStackSensor.description>이 스위치는 지정된 저장량을 넘으면 전원이 켜집니다.</SupesStackSensor.description>
+  <SupesProxSensor.label>근접 센서</SupesProxSensor.label>
+  <SupesProxSensor.description>누군가가 범위 내에 있으면 켜지고, 아무도 없으면 꺼지는 센서입니다. 범위가 제한적이지만, 전력을 소모하지 않습니다.</SupesProxSensor.description>
+  <SupesRemoteProxSensor.label>원격 근접 센서</SupesRemoteProxSensor.label>
+  <SupesRemoteProxSensor.description>발동되면 인접한 수신 스위치 또는 중계기에 신호를 보냅니다. 센서 범위를 확장할 수 있지만 전력 사용량이 증가합니다.</SupesRemoteProxSensor.description>
+  <SupesStayOnGate.label>연결 스위치</SupesStayOnGate.label>
+  <SupesStayOnGate.description>두 전력원이나 전선에 연결되면 전원을 켭니다.</SupesStayOnGate.description>
+  <SupesCurrentSensor.label>전류 센서 스위치</SupesCurrentSensor.label>
+  <SupesCurrentSensor.description>양의 전력량 또는 음의 전력량이 감지되면 켜집니다.</SupesCurrentSensor.description>
+  <SupesCutoffSwitch.label>축전기 센서 스위치</SupesCutoffSwitch.label>
+  <SupesCutoffSwitch.description>저장된 전력이 낮으면 스위치가 꺼집니다.</SupesCutoffSwitch.description>
+  <SupesLightSensor.label>빛 센서 스위치</SupesLightSensor.label>
+  <SupesLightSensor.description>특정 빛 기준이 감지되면 켜집니다.</SupesLightSensor.description>
+  <SupesHeatSensor.label>열 센서 스위치</SupesHeatSensor.label>
+  <SupesHeatSensor.description>기준 이상 또는 이하의 온도가 감지되면 발동됩니다.</SupesHeatSensor.description>
+  <SupesRemoteSwitch.label>원격 제어 스위치</SupesRemoteSwitch.label>
+  <SupesRemoteSwitch.description>같은 채널의 무선 신호가 감지되면 전원을 켭니다.</SupesRemoteSwitch.description>
+  <SupesSignalRepeater.label>신호 중계기</SupesSignalRepeater.label>
+  <SupesSignalRepeater.description>무선 신호를 수신하고 재송신하여 신호의 유효범위를 연장합니다.</SupesSignalRepeater.description>
+  <SupesSignalTransmitter.label>신호 송신기</SupesSignalTransmitter.label>
+  <SupesSignalTransmitter.description>전원이 켜지면 무선 신호를 전송합니다.</SupesSignalTransmitter.description>
+  <SupesRemoteDoor.label>원격 제어 문</SupesRemoteDoor.label>
+  <SupesRemoteDoor.description>방을 구분합니다. 무선 신호를 감지하고 매크로 세트를 실행할 수 있습니다. 이동시 속도 저하 없이 통과할 수 있는 자동문입니다.</SupesRemoteDoor.description>
+  <SupesRemoteFlicker.label>원격 깜박이</SupesRemoteFlicker.label>
+  <SupesRemoteFlicker.description>이 장치는 신호를 수신하면 인접한 장치를 깜박이게 합니다.</SupesRemoteFlicker.description>
+  <SupesRadar.label>레이더</SupesRadar.label>
+  <SupesRadar.description>반사된 전파를 감지하여 전파 및 범위 감지 또는 레이더를 통해 물체가 얼마나 먼 거리에 있는지 감지할 수 있습니다.</SupesRadar.description>
+  <SupesEntangledSwitch.label>얽힘 스위치</SupesEntangledSwitch.label>
+  <SupesEntangledSwitch.description>양자 얽힘으로 다른 스위치와 연결되는 스위치입니다. 얽힘 스위치는 한 번 얽히면 거리에 상관 없이 상대 스위치와 항상 반대 상태가 될 것입니다.</SupesEntangledSwitch.description>
+  <SupesZoneSwitch.label>지역 스위치</SupesZoneSwitch.label>
+  <SupesZoneSwitch.description>이 스위치는 영역 내 물건의 수를 계산합니다. 저장고의 경우, 숫자는 허용되는 품목으로 제한되며, 재배 지역의 경우는 성숙한 식물의 숫자입니다.</SupesZoneSwitch.description>
+  <SupesBaseGate.label>논리 게이트</SupesBaseGate.label>
+  <SupesBaseGate.description>두 전력원이 인접한 입력 소켓에 연결되면 전력을 통과시키는 게이트입니다. 연결 스위치와 비슷하지만, 이 스위치는 전력원을 구분한다는 점이 다릅니다.</SupesBaseGate.description>
+  <SupesInputSocket.label>입력 소켓</SupesInputSocket.label>
+  <SupesInputSocket.description>논리 게이트와 전선 사이에 연결하여 입력을 지정합니다.</SupesInputSocket.description>
+  <SupesGateInverter.label>인버터</SupesGateInverter.label>
+  <SupesGateInverter.description>인접한 논리 게이트의 출력을 반전시킵니다.정상 작동하려면 전력이 지속적으로 공급되어야 합니다.</SupesGateInverter.description>
+  <SupesFuse.label>보호 퓨즈</SupesFuse.label>
+  <SupesFuse.description>유리관 안에 매우 얇은 구리선을 넣어 만든 이 튜브는 축전기가 완전히 방전될 가능성을 절반으로 줄입니다. 축전지 그룹을 나눌 때 사용하거나 연속하여 설치하면 더 효과적입니다.</SupesFuse.description>
+
+</LanguageData>

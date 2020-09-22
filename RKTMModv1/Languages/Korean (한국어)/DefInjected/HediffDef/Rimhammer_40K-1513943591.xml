@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <N17RecafHigh.label>리카프</N17RecafHigh.label>
+  <N17RecafHigh.stages.0.label>진정시켜주고 활력을 줍니다</N17RecafHigh.stages.0.label>
+  <N17RecafHigh.labelNoun>리카프의 효과</N17RecafHigh.labelNoun>
+  <BlindedByProjector.label>프로젝터로 인해 눈이 멀었습니다</BlindedByProjector.label>
+  <N17RecafTolerance.label>르카프 내성</N17RecafTolerance.label>
+  <N17RecafTolerance.stages.0.label>약함</N17RecafTolerance.stages.0.label>
+  <N17RecafTolerance.stages.1.label>약함</N17RecafTolerance.stages.1.label>
+  <N17RecafTolerance.stages.2.label>강함</N17RecafTolerance.stages.2.label>
+  <N17RecafTolerance.stages.3.label>심각</N17RecafTolerance.stages.3.label>
+  <N17RecafAddiction.label>르카프 중독</N17RecafAddiction.label>
+  <N17RecafAddiction.stages.0.label>금단 현상</N17RecafAddiction.stages.0.label>
+  <RadiationPoisioning.label>방사능 중독</RadiationPoisioning.label>
+  <RadiationPoisioning.stages.0.label>초기</RadiationPoisioning.stages.0.label>
+  <RadiationPoisioning.stages.1.label>초기</RadiationPoisioning.stages.1.label>
+  <RadiationPoisioning.stages.2.label>사소함</RadiationPoisioning.stages.2.label>
+  <RadiationPoisioning.stages.3.label>진행됨</RadiationPoisioning.stages.3.label>
+  <RadiationPoisioning.stages.4.label>심각함</RadiationPoisioning.stages.4.label>
+  <RadiationPoisioning.stages.5.label>극심함</RadiationPoisioning.stages.5.label>
+  <PlasmaBurn.label>플라즈마 화상</PlasmaBurn.label>
+  <PlasmaBurn.comps.0.labelTendedWell>붕대 감음</PlasmaBurn.comps.0.labelTendedWell>
+  <PlasmaBurn.comps.0.labelTendedWellInner>봉합됨</PlasmaBurn.comps.0.labelTendedWellInner>
+  <PlasmaBurn.comps.0.labelSolidTendedWell>접합됨</PlasmaBurn.comps.0.labelSolidTendedWell>
+  <PlasmaBurn.injuryProps.destroyedLabel>불에 타버림</PlasmaBurn.injuryProps.destroyedLabel>
+  <PlasmaBurn.injuryProps.destroyedOutLabel>불에 타버림</PlasmaBurn.injuryProps.destroyedOutLabel>
+  <PlasmaBurn.labelNoun>플라즈마 화상</PlasmaBurn.labelNoun>
+  <LaserBurn.label>레이저 화상</LaserBurn.label>
+  <LaserBurn.comps.0.labelTendedWell>붕대 감음</LaserBurn.comps.0.labelTendedWell>
+  <LaserBurn.comps.0.labelTendedWellInner>봉합됨</LaserBurn.comps.0.labelTendedWellInner>
+  <LaserBurn.comps.0.labelSolidTendedWell>접합됨</LaserBurn.comps.0.labelSolidTendedWell>
+  <LaserBurn.injuryProps.destroyedLabel>불에 타버림</LaserBurn.injuryProps.destroyedLabel>
+  <LaserBurn.injuryProps.destroyedOutLabel>불에 타버림</LaserBurn.injuryProps.destroyedOutLabel>
+  <LaserBurn.labelNoun>레이저 화상</LaserBurn.labelNoun>
+  <MeltaBurn.label>멜타 화상</MeltaBurn.label>
+  <MeltaBurn.comps.0.labelTendedWell>붕대 감음</MeltaBurn.comps.0.labelTendedWell>
+  <MeltaBurn.comps.0.labelTendedWellInner>봉합됨</MeltaBurn.comps.0.labelTendedWellInner>
+  <MeltaBurn.comps.0.labelSolidTendedWell>접합됨</MeltaBurn.comps.0.labelSolidTendedWell>
+  <MeltaBurn.injuryProps.destroyedLabel>소각됨</MeltaBurn.injuryProps.destroyedLabel>
+  <MeltaBurn.injuryProps.destroyedOutLabel>소각됨</MeltaBurn.injuryProps.destroyedOutLabel>
+  <MeltaBurn.labelNoun>멜타 화상</MeltaBurn.labelNoun>
+  <GaussWound.label>가우스 상처</GaussWound.label>
+  <GaussWound.comps.0.labelTendedWell>붕대 감음</GaussWound.comps.0.labelTendedWell>
+  <GaussWound.comps.0.labelTendedWellInner>봉합됨</GaussWound.comps.0.labelTendedWellInner>
+  <GaussWound.comps.0.labelSolidTendedWell>접합됨</GaussWound.comps.0.labelSolidTendedWell>
+  <GaussWound.injuryProps.destroyedLabel>붕괴됨</GaussWound.injuryProps.destroyedLabel>
+  <GaussWound.injuryProps.destroyedOutLabel>붕괴됨</GaussWound.injuryProps.destroyedOutLabel>
+  <GaussWound.labelNoun>가우스 상처</GaussWound.labelNoun>
+  <RadiumGunshot.label>총상</RadiumGunshot.label>
+  <RadiumGunshot.comps.0.labelTendedWell>붕대 감음</RadiumGunshot.comps.0.labelTendedWell>
+  <RadiumGunshot.comps.0.labelTendedWellInner>봉합됨</RadiumGunshot.comps.0.labelTendedWellInner>
+  <RadiumGunshot.comps.0.labelSolidTendedWell>접합됨</RadiumGunshot.comps.0.labelSolidTendedWell>
+  <RadiumGunshot.injuryProps.destroyedLabel>총상으로 잃음</RadiumGunshot.injuryProps.destroyedLabel>
+  <RadiumGunshot.injuryProps.destroyedOutLabel>총상으로 잃음</RadiumGunshot.injuryProps.destroyedOutLabel>
+  <RadiumGunshot.labelNoun>방사성 총상</RadiumGunshot.labelNoun>
+  <GalvanicWound.label>갈바닉 총상</GalvanicWound.label>
+  <GalvanicWound.comps.0.labelTendedWell>붕대 감음</GalvanicWound.comps.0.labelTendedWell>
+  <GalvanicWound.comps.0.labelTendedWellInner>봉합됨</GalvanicWound.comps.0.labelTendedWellInner>
+  <GalvanicWound.comps.0.labelSolidTendedWell>접합됨</GalvanicWound.comps.0.labelSolidTendedWell>
+  <GalvanicWound.injuryProps.destroyedLabel>총상으로 잃음</GalvanicWound.injuryProps.destroyedLabel>
+  <GalvanicWound.injuryProps.destroyedOutLabel>총상으로 잃음</GalvanicWound.injuryProps.destroyedOutLabel>
+  <GalvanicWound.labelNoun>갈바닉 총상</GalvanicWound.labelNoun>
+  <TransuranicWound.label>트랜슈래닉 총상</TransuranicWound.label>
+  <TransuranicWound.comps.0.labelTendedWell>붕대 감음</TransuranicWound.comps.0.labelTendedWell>
+  <TransuranicWound.comps.0.labelTendedWellInner>봉합됨</TransuranicWound.comps.0.labelTendedWellInner>
+  <TransuranicWound.comps.0.labelSolidTendedWell>접합됨</TransuranicWound.comps.0.labelSolidTendedWell>
+  <TransuranicWound.injuryProps.destroyedLabel>총상으로 잃음</TransuranicWound.injuryProps.destroyedLabel>
+  <TransuranicWound.injuryProps.destroyedOutLabel>총상으로 잃음</TransuranicWound.injuryProps.destroyedOutLabel>
+  <TransuranicWound.labelNoun>트랜슈래닉 총상</TransuranicWound.labelNoun>
+  <OG_unConsciousness.label>의식 불명</OG_unConsciousness.label>
+  <OGHeatStab.label>찔림</OGHeatStab.label>
+  <OGHeatStab.comps.0.labelTendedWell>붕대 감음</OGHeatStab.comps.0.labelTendedWell>
+  <OGHeatStab.comps.0.labelTendedWellInner>봉합됨</OGHeatStab.comps.0.labelTendedWellInner>
+  <OGHeatStab.comps.0.labelSolidTendedWell>접합됨</OGHeatStab.comps.0.labelSolidTendedWell>
+  <OGHeatStab.injuryProps.destroyedLabel>녹아버림</OGHeatStab.injuryProps.destroyedLabel>
+  <OGHeatStab.injuryProps.destroyedOutLabel>녹아버림</OGHeatStab.injuryProps.destroyedOutLabel>
+  <hediff_PowerWeapon.label>디스럽션 필드</hediff_PowerWeapon.label>
+  <hediff_PowerWeapon.comps.0.labelTendedWell>붕대 감음</hediff_PowerWeapon.comps.0.labelTendedWell>
+  <hediff_PowerWeapon.comps.0.labelTendedWellInner>봉합됨</hediff_PowerWeapon.comps.0.labelTendedWellInner>
+  <hediff_PowerWeapon.comps.0.labelSolidTendedWell>접합됨</hediff_PowerWeapon.comps.0.labelSolidTendedWell>
+  <hediff_PowerWeapon.injuryProps.destroyedLabel>잘림</hediff_PowerWeapon.injuryProps.destroyedLabel>
+  <hediff_PowerWeapon.injuryProps.destroyedOutLabel>파괴됨</hediff_PowerWeapon.injuryProps.destroyedOutLabel>
+  <hediff_PowerMaul.label>기절함</hediff_PowerMaul.label>
+  <hediff_PowerMaul.injuryProps.destroyedLabel>파괴됨</hediff_PowerMaul.injuryProps.destroyedLabel>
+  <hediff_PowerMaul.injuryProps.destroyedOutLabel>튀겨짐</hediff_PowerMaul.injuryProps.destroyedOutLabel>
+  <NecrodermisRepair.label>네크로데미스 수리</NecrodermisRepair.label>
+  <NecronProtoBodypart.label>수리 중</NecronProtoBodypart.label>
+  <NecronCuredBodypart.label>신체부품 치유됨</NecronCuredBodypart.label>
+  <GaussPlasmaLoss.label>플라즈마 손실</GaussPlasmaLoss.label>
+  <GaussPlasmaLoss.stages.0.label>사소함</GaussPlasmaLoss.stages.0.label>
+  <GaussPlasmaLoss.stages.1.label>사소함</GaussPlasmaLoss.stages.1.label>
+  <GaussPlasmaLoss.stages.2.label>진행됨</GaussPlasmaLoss.stages.2.label>
+  <GaussPlasmaLoss.stages.3.label>심각함</GaussPlasmaLoss.stages.3.label>
+  <GaussPlasmaLoss.stages.4.label>극심함</GaussPlasmaLoss.stages.4.label>
+  <OrkoidHealing.label>오코이드 회복 중</OrkoidHealing.label>
+  <OrkProtoBodypart.label>재생 중</OrkProtoBodypart.label>
+  <OrkCuredBodypart.label>신체 회복됨</OrkCuredBodypart.label>
+
+</LanguageData>

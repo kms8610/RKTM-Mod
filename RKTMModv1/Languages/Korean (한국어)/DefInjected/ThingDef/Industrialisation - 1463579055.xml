@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ind_MineableCopper.label>구리 광석</Ind_MineableCopper.label>
+  <Ind_MineableCopper.description>고대에 붕괴된 건축물의 잔여물입니다. 구리가 풍부합니다.</Ind_MineableCopper.description>
+  <Ind_MineableAluminium.label>응축된 알루미늄</Ind_MineableAluminium.label>
+  <Ind_MineableAluminium.description>고대에 붕괴된 건축물의 잔여물입니다. 알루미늄이 풍부합니다.</Ind_MineableAluminium.description>
+  <Ind_IndustrialCable.label>산업용 전선</Ind_IndustrialCable.label>
+  <Ind_IndustrialCable.description>내구도 및 가연성이 보강된 전선으로 주위에 전력을 전달합니다. 벽이나 다른 건물 아래에 건설 할 수 있습니다.</Ind_IndustrialCable.description>
+  <Ind_IndustrialCable_Blueprint.label>산업용 전선 (청사진)</Ind_IndustrialCable_Blueprint.label>
+  <Ind_IndustrialCable_Frame.label>산업용 전선 (건설 중)</Ind_IndustrialCable_Frame.label>
+  <Ind_IndustrialCable_Frame.description>내구도 및 가연성이 보강된 전선으로 주위에 전력을 전달합니다. 벽이나 다른 건물 아래에 건설 할 수 있습니다.</Ind_IndustrialCable_Frame.description>
+  <Ind_IndustrialBattery.label>산업용 축전기</Ind_IndustrialBattery.label>
+  <Ind_IndustrialBattery.description>안정적이고 믿을수 있는 산업용 배터리로, 일반 배터리보다 효율적입니다. 더 나은 안전 설계로 인해 폭발하거나 방전되지 않을 것 입니다.</Ind_IndustrialBattery.description>
+  <Ind_IndustrialBattery_Blueprint.label>산업용 축전기 (청사진)</Ind_IndustrialBattery_Blueprint.label>
+  <Ind_IndustrialBattery_Blueprint_Install.label>산업용 축전기 (청사진)</Ind_IndustrialBattery_Blueprint_Install.label>
+  <Ind_IndustrialBattery_Frame.label>산업용 축전기 (건설 중)</Ind_IndustrialBattery_Frame.label>
+  <Ind_IndustrialBattery_Frame.description>안정적이고 믿을수 있는 산업용 배터리로, 일반 배터리보다 효율적입니다. 더 나은 안전 설계로 인해 폭발하거나 방전되지 않을 것 입니다.</Ind_IndustrialBattery_Frame.description>
+  <Ind_NuclearPowerPlant.label>원자력 발전기</Ind_NuclearPowerPlant.label>
+  <Ind_NuclearPowerPlant.description>20kW의 출력량을 지닌 소형 원자력 발전소입니다. 우라늅을 연료로 사용합니다.</Ind_NuclearPowerPlant.description>
+  <Ind_NuclearPowerPlant_Blueprint.label>원자력 발전기 (청사진)</Ind_NuclearPowerPlant_Blueprint.label>
+  <Ind_NuclearPowerPlant_Frame.label>원자력 발전기 (건설 중)</Ind_NuclearPowerPlant_Frame.label>
+  <Ind_NuclearPowerPlant_Frame.description>20kW의 출력량을 지닌 소형 원자력 발전소입니다. 우라늅을 연료로 사용합니다.</Ind_NuclearPowerPlant_Frame.description>
+  <Ind_ConcreteMixer.label>콘크리트 혼합기</Ind_ConcreteMixer.label>
+  <Ind_ConcreteMixer.description>콘크리트 혼합기입니다.</Ind_ConcreteMixer.description>
+  <Ind_ConcreteMixer_Blueprint.label>콘크리트 혼합기 (청사진)</Ind_ConcreteMixer_Blueprint.label>
+  <Ind_ConcreteMixer_Frame.label>콘크리트 혼합기 (건설 중)</Ind_ConcreteMixer_Frame.label>
+  <Ind_ConcreteMixer_Frame.description>콘크리트 혼합기입니다.</Ind_ConcreteMixer_Frame.description>
+  <Ind_ElectricArcFurnace.label>전기 아크로</Ind_ElectricArcFurnace.label>
+  <Ind_ElectricArcFurnace.description>강철 생산을 위한 전기 아크로입니다, 효율적이지만 전력 소비가 심합니다.</Ind_ElectricArcFurnace.description>
+  <Ind_ElectricArcFurnace_Blueprint.label>전기 아크로 (청사진)</Ind_ElectricArcFurnace_Blueprint.label>
+  <Ind_ElectricArcFurnace_Frame.label>전기 아크로 (건설 중)</Ind_ElectricArcFurnace_Frame.label>
+  <Ind_ElectricArcFurnace_Frame.description>강철 생산을 위한 전기 아크로입니다, 효율적이지만 전력 소비가 심합니다.</Ind_ElectricArcFurnace_Frame.description>
+  <Ind_DeepMine.label>심층부 광산</Ind_DeepMine.label>
+  <Ind_DeepMine.description>심층부 광산에서 다양한 종류의 자원을 캘 수 있습니다. 광산 구멍에만 지을 수 있습니다. (스카이드릴에게 플라스마 굴착을 지시하면, 곧 채굴 지점에 광산 구멍을 만들 것 입니다.)</Ind_DeepMine.description>
+  <Ind_DeepMine_Blueprint.label>심층부 광산 (청사진)</Ind_DeepMine_Blueprint.label>
+  <Ind_DeepMine_Frame.label>심층부 광산 (건설 중)</Ind_DeepMine_Frame.label>
+  <Ind_DeepMine_Frame.description>심층부 광산에서 다양한 종류의 자원을 캘 수 있습니다. 광산 구멍에만 지을 수 있습니다. (스카이드릴에게 플라스마 굴착을 지시하면, 곧 채굴 지점에 광산 구멍을 만들 것 입니다.)</Ind_DeepMine_Frame.description>
+  <Ind_Concrete.label>콘크리트</Ind_Concrete.label>
+  <Ind_Concrete.description>건설 자재로 자주 쓰입니다.</Ind_Concrete.description>
+  <Ind_Concrete.stuffProps.stuffAdjective>콘크리트</Ind_Concrete.stuffProps.stuffAdjective>
+  <Ind_HighGradeSteel.label>고강도 강철</Ind_HighGradeSteel.label>
+  <Ind_HighGradeSteel.description>더 단단한 건축물과 도구, 무기 등을 만들기 위해 사용되는 고강도 강철입니다.</Ind_HighGradeSteel.description>
+  <Ind_HighGradeSteel.stuffProps.stuffAdjective>고강도 강철</Ind_HighGradeSteel.stuffProps.stuffAdjective>
+  <Ind_Copper.label>구리</Ind_Copper.label>
+  <Ind_Copper.description>연한 성질의 아름다운 금속입니다. 대부분 예술 용도로 사용됩니다.</Ind_Copper.description>
+  <Ind_Copper.stuffProps.stuffAdjective>구리</Ind_Copper.stuffProps.stuffAdjective>
+  <Ind_Aluminium.label>알루미늄</Ind_Aluminium.label>
+  <Ind_Aluminium.description>은빛깔의 하얀 색을 띄는 금속으로, 부도체와 저밀도, 연성 금속의 성질을 가지며 부식하지 않는 성질로 주목받는 금속입니다.</Ind_Aluminium.description>
+  <Ind_Aluminium.stuffProps.stuffAdjective>알루미늅</Ind_Aluminium.stuffProps.stuffAdjective>
+  <Ind_SkydrillerCallmaker.label>스카이드릴 호출기</Ind_SkydrillerCallmaker.label>
+  <Ind_SkydrillerCallmaker.description>저궤도 플라즈마 드릴입니다. 호출을 하면 곧 플라즈마 드릴이 시작되고, 곧 광산 구멍을 만들어 낼 겁니다. 참고: 스카이드릴은 산을 뚫지 않으므로 산에 지정하지 마십시오.</Ind_SkydrillerCallmaker.description>
+  <Ind_SkydrillerCallmaker.comps.0.useLabel>스카이드릴 호출기 활성화</Ind_SkydrillerCallmaker.comps.0.useLabel>
+  <Ind_SkydrillerCallmaker_Blueprint_Install.label>스카이드릴 호출기 (청사진)</Ind_SkydrillerCallmaker_Blueprint_Install.label>
+  <Ind_MinifiedSkydrillerCallmaker.label>스카이드릴 호출기</Ind_MinifiedSkydrillerCallmaker.label>
+  <Ind_SkydrillerCallmaker_Calling.label>스카이드릴 호출기</Ind_SkydrillerCallmaker_Calling.label>
+  <Ind_SkydrillerCallmaker_Calling.description>저궤도 플라즈마 드릴입니다. 호출을 하면 곧 플라즈마 드릴이 시작되고, 곧 광산 구멍을 만들어 낼 겁니다. 참고: 스카이드릴은 산을 뚫지 않으므로 산에 지정하지 마십시오.</Ind_SkydrillerCallmaker_Calling.description>
+  <Ind_SkydrillerCallmaker_Drilling.label>플라즈마 드릴 작동</Ind_SkydrillerCallmaker_Drilling.label>
+  <Ind_MiningHole.label>광산 구멍</Ind_MiningHole.label>
+  <Ind_MiningHole.description>광산 구멍입니다.</Ind_MiningHole.description>
+  <Ind_CopperTile_Blueprint.label>구리 타일 (청사진)</Ind_CopperTile_Blueprint.label>
+  <Ind_CopperTile_Frame.label>구리 타일 (건설 중)</Ind_CopperTile_Frame.label>
+  <Ind_CopperTile_Frame.description>지형 건설이 진행 중입니다.</Ind_CopperTile_Frame.description>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GerzeeNeedFood.stages.0.label>출출함</GerzeeNeedFood.stages.0.label>
+  <GerzeeNeedFood.stages.0.description>간식... 먹고싶다.</GerzeeNeedFood.stages.0.description>
+  <GerzeeNeedFood.stages.1.label>허기짐</GerzeeNeedFood.stages.1.label>
+  <GerzeeNeedFood.stages.1.description>좀 있으면 밥먹을때야.</GerzeeNeedFood.stages.1.description>
+  <GerzeeNeedFood.stages.2.label>배가 비었음</GerzeeNeedFood.stages.2.label>
+  <GerzeeNeedFood.stages.2.description>음, 맞아. 지금은 정말로 음식 필요해.</GerzeeNeedFood.stages.2.description>
+  <GerzeeNeedFood.stages.3.label>굶주림</GerzeeNeedFood.stages.3.label>
+  <GerzeeNeedFood.stages.3.description>뭐라도 먹어야 되는데...</GerzeeNeedFood.stages.3.description>
+  <GerzeeNeedFood.stages.4.label>영양실조</GerzeeNeedFood.stages.4.label>
+  <GerzeeNeedFood.stages.4.description>음식... 음식밖엔 생각안나. 뱃가죽이 등가죽 붙었어... 난 죽는건가?</GerzeeNeedFood.stages.4.description>
+  <GerzeeNeedFood.stages.5.label>극심한 기아</GerzeeNeedFood.stages.5.label>
+  <GerzeeNeedFood.stages.5.description>먹을거... 움직이기가 힘들어... 먹을거 줘... 뱃속이 이렇게 아픈적 없었어. 기절할 것만 같아...</GerzeeNeedFood.stages.5.description>
+  <GerzeeNeedFood.stages.6.label>치명적인 기아</GerzeeNeedFood.stages.6.label>
+  <GerzeeNeedFood.stages.6.description>먹을거... 먹을걸 줘... 아무거나... 제발...</GerzeeNeedFood.stages.6.description>
+  <GerzeeNeedRoomSize.stages.0.label>밀폐된 실내</GerzeeNeedRoomSize.stages.0.label>
+  <GerzeeNeedRoomSize.stages.0.description>여긴 너무 좁아. 하지만 안전한거같아.</GerzeeNeedRoomSize.stages.0.description>
+  <GerzeeNeedRoomSize.stages.1.label>비좁은 실내</GerzeeNeedRoomSize.stages.1.label>
+  <GerzeeNeedRoomSize.stages.1.description>이 방은 정말 작아. 어디든 볼 수 있고, 숨을 곳도 없어. 여긴 안전해.</GerzeeNeedRoomSize.stages.1.description>
+  <GerzeeNeedRoomSize.stages.2.label>넓은 실내</GerzeeNeedRoomSize.stages.2.label>
+  <GerzeeNeedRoomSize.stages.2.description>이 방은 정말 넓다. 괜찮은 것 같다. 내 생각엔.</GerzeeNeedRoomSize.stages.2.description>
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SaturationHigh.label>포만의 물약에 취함</SaturationHigh.label>
+  <SaturationHigh.labelNoun>포만의 물약에 취함</SaturationHigh.labelNoun>
+  <PainHigh.label>진통의 물약에 취함</PainHigh.label>
+  <PainHigh.labelNoun>진통의 물약에 취함</PainHigh.labelNoun>
+  <ConsciousnessHigh.label>의식의 물약에 취함</ConsciousnessHigh.label>
+  <ConsciousnessHigh.labelNoun>의식의 물약에 취함</ConsciousnessHigh.labelNoun>
+  <SightHigh.label>시야의 물약에 취함</SightHigh.label>
+  <SightHigh.labelNoun>시야의 물약에 취함</SightHigh.labelNoun>
+  <MovingHigh.label>이동 속도의 물약에 취함</MovingHigh.label>
+  <MovingHigh.labelNoun>이동 속도의 물약에 취함</MovingHigh.labelNoun>
+  <MetabolismHigh.label>신진대사의 물약에 취함</MetabolismHigh.label>
+  <MetabolismHigh.labelNoun>신진대사의 물약에 취함</MetabolismHigh.labelNoun>
+  <BreathingHigh.label>호흡의 물약에 취함</BreathingHigh.label>
+  <BreathingHigh.labelNoun>호흡의 물약에 취함</BreathingHigh.labelNoun>
+  <BloodFiltrationHigh.label>혈액 여과의 물약에 취함</BloodFiltrationHigh.label>
+  <BloodFiltrationHigh.labelNoun>혈액 여과의 물약에 취함</BloodFiltrationHigh.labelNoun>
+  <BloodPumpingHigh.label>혈액 순환의 물약에 취함</BloodPumpingHigh.label>
+  <BloodPumpingHigh.labelNoun>혈액 순환의 물약에 취함</BloodPumpingHigh.labelNoun>
+  <RestHigh.label>휴식의 물약에 취함</RestHigh.label>
+  <RestHigh.labelNoun>휴식의 물약에 취함</RestHigh.labelNoun>
+  <ManipulationHigh.label>조작의 물약에 취함</ManipulationHigh.label>
+  <ManipulationHigh.labelNoun>조작의 물약에 취함</ManipulationHigh.labelNoun>
+  <HungerHigh.label>기아의 물약에 취함</HungerHigh.label>
+  <HungerHigh.labelNoun>기아의 물약에 취함</HungerHigh.labelNoun>
+
+</LanguageData>

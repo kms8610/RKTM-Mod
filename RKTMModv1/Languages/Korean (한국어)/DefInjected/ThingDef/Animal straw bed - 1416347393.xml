@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnimalStrawBedSmall.label>소형 동물용 밀짚 침대</AnimalStrawBedSmall.label>
+  <AnimalStrawBedSmall.description>소형 동물용 밀짚 침대로, 닭이나 토끼 등의 소형동물에 적합합니다.</AnimalStrawBedSmall.description>
+
+  <AnimalStrawBed.label>중형 동물용 밀짚 침대</AnimalStrawBed.label>
+  <AnimalStrawBed.description>중형 동물용 밀짚 침대로, 개부터 머팔로 등의 중형동물에 적합합니다.</AnimalStrawBed.description>
+
+  <AnimalStrawBedBig.label>대형 동물용 밀짚 침대</AnimalStrawBedBig.label>
+  <AnimalStrawBedBig.description>대형 동물용 밀짚 침대로, 트럼보나 코끼리 등의 대형동물에 적합합니다.</AnimalStrawBedBig.description>
+
+  <AnimalHMBedSmall.label>소형 동물용 약초 침대</AnimalHMBedSmall.label>
+  <AnimalHMBedSmall.description>동물들의 부상을 치료하고 수면의 질을 향상 시켜주며, 닭이나 토끼 등의 소형동물에 적합합니다.</AnimalHMBedSmall.description>
+
+  <AnimalHMBed.label>중형 동물용 약초 침대</AnimalHMBed.label>
+  <AnimalHMBed.description>동물들의 부상을 치료하고 수면의 질을 향상 시켜주며, 개부터 머팔로 등의 중형동물에 적합합니다.</AnimalHMBed.description>
+
+  <AnimalHMBedBig.label>대형 동물용 약초 침대</AnimalHMBedBig.label>
+  <AnimalHMBedBig.description>동물들의 부상을 치료하고 수면의 질을 향상 시켜주며, 트럼보나 코끼리 등의 대형동물에 적합합니다.</AnimalHMBedBig.description>
+
+  <AnimalHospitalBedSmall.label>소형 동물용 회복 침대</AnimalHospitalBedSmall.label>
+  <AnimalHospitalBedSmall.description>부상당한 동물들을 위한 의료용 침대로, 닭이나 토끼 등의 소형동물에 적합합니다.</AnimalHospitalBedSmall.description>
+
+  <AnimalHospitalBed.label>중형 동물용 회복 침대</AnimalHospitalBed.label>
+  <AnimalHospitalBed.description>부상당한 동물들을 위한 의료용 침대로, 개부터 머팔로 등의 중형동물에 적합합니다.</AnimalHospitalBed.description>
+
+  <AnimalHospitalBedBig.label>대형 동물용 회복 침대</AnimalHospitalBedBig.label>
+  <AnimalHospitalBedBig.description>부상당한 동물들을 위한 의료용 침대로, 트럼보나 코끼리 등의 대형동물에 적합합니다.</AnimalHospitalBedBig.description>
+
+</LanguageData>

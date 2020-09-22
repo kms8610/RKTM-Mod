@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GerzeeTribal.label>(전)노예</GerzeeTribal.label>
+  <GerzeeTribal.labelPlural>(전)노예</GerzeeTribal.labelPlural>
+  <GerzeeTribal.labelMale>남성 (전)노예</GerzeeTribal.labelMale>
+  <GerzeeTribal.labelMalePlural>남성 (전)노예</GerzeeTribal.labelMalePlural>
+  <GerzeeTribal.labelFemale>여성 (전)노예</GerzeeTribal.labelFemale>
+  <GerzeeTribal.labelFemalePlural>여성 (전)노예</GerzeeTribal.labelFemalePlural>
+  <GerzeeGuard.label>게르지 경비대</GerzeeGuard.label>
+  <GerzeeGuard.labelPlural>게르지 경비대</GerzeeGuard.labelPlural>
+  <GerzeeGuard.labelMale>남성 게르지 경비대</GerzeeGuard.labelMale>
+  <GerzeeGuard.labelMalePlural>남성 게르지 경비대</GerzeeGuard.labelMalePlural>
+  <GerzeeGuard.labelFemale>여성 게르지 경비대</GerzeeGuard.labelFemale>
+  <GerzeeGuard.labelFemalePlural>여성 게르지 경비대</GerzeeGuard.labelFemalePlural>
+  <GerzeeWarrior.label>게르지 전사</GerzeeWarrior.label>
+  <GerzeeWarrior.labelPlural>게르지 전사</GerzeeWarrior.labelPlural>
+  <GerzeeWarrior.labelMale>남성 게르지 전사</GerzeeWarrior.labelMale>
+  <GerzeeWarrior.labelMalePlural>남성 게르지 전사</GerzeeWarrior.labelMalePlural>
+  <GerzeeWarrior.labelFemale>여성 게르지 전사</GerzeeWarrior.labelFemale>
+  <GerzeeWarrior.labelFemalePlural>여성 게르지 전사</GerzeeWarrior.labelFemalePlural>
+  <GerzeeBeserker.label>복수심에 찬 광전사</GerzeeBeserker.label>
+  <GerzeeBeserker.labelPlural>복수심에 찬 광전사</GerzeeBeserker.labelPlural>
+  <GerzeeBeserker.labelMale>남성 복수심에 찬 광전사</GerzeeBeserker.labelMale>
+  <GerzeeBeserker.labelMalePlural>남성 복수심에 찬 광전사</GerzeeBeserker.labelMalePlural>
+  <GerzeeBeserker.labelFemale>여성 복수심에 찬 광전사</GerzeeBeserker.labelFemale>
+  <GerzeeBeserker.labelFemalePlural>여성 복수심에 찬 광전사</GerzeeBeserker.labelFemalePlural>
+  <GerzeeAltered.label>독해진 게르지</GerzeeAltered.label>
+  <GerzeeAltered.labelPlural>독해진 게르지</GerzeeAltered.labelPlural>
+  <GerzeeAltered.labelMale>남성 독해진 게르지</GerzeeAltered.labelMale>
+  <GerzeeAltered.labelMalePlural>남성 독해진 게르지</GerzeeAltered.labelMalePlural>
+  <GerzeeAltered.labelFemale>여성 독해진 게르지</GerzeeAltered.labelFemale>
+  <GerzeeAltered.labelFemalePlural>여성 독해진 게르지</GerzeeAltered.labelFemalePlural>
+  <GerzeeSlave.label>게르지 노예</GerzeeSlave.label>
+  <GerzeeSlave.labelPlural>게르지 노예</GerzeeSlave.labelPlural>
+  <GerzeeSlave.labelMale>남성 게르지 노예</GerzeeSlave.labelMale>
+  <GerzeeSlave.labelMalePlural>남성 게르지 노예</GerzeeSlave.labelMalePlural>
+  <GerzeeSlave.labelFemale>여성 게르지 노예</GerzeeSlave.labelFemale>
+  <GerzeeSlave.labelFemalePlural>여성 게르지 노예</GerzeeSlave.labelFemalePlural>
+  <GerzeeSpaceRefugee.label>난민</GerzeeSpaceRefugee.label>
+  <GerzeeSpaceRefugee.labelPlural>난민</GerzeeSpaceRefugee.labelPlural>
+  <GerzeeSpaceRefugee.labelMale>남성 난민</GerzeeSpaceRefugee.labelMale>
+  <GerzeeSpaceRefugee.labelMalePlural>남성 난민</GerzeeSpaceRefugee.labelMalePlural>
+  <GerzeeSpaceRefugee.labelFemale>여성 난민</GerzeeSpaceRefugee.labelFemale>
+  <GerzeeSpaceRefugee.labelFemalePlural>여성 난민</GerzeeSpaceRefugee.labelFemalePlural>
+  <GerzeeTrader.label>상인</GerzeeTrader.label>
+  <GerzeeTrader.labelPlural>상인</GerzeeTrader.labelPlural>
+  <GerzeeTrader.labelMale>남성 상인</GerzeeTrader.labelMale>
+  <GerzeeTrader.labelMalePlural>남성 상인</GerzeeTrader.labelMalePlural>
+  <GerzeeTrader.labelFemale>여성 상인</GerzeeTrader.labelFemale>
+  <GerzeeTrader.labelFemalePlural>여성 상인</GerzeeTrader.labelFemalePlural>
+  <GerzeeColonist.label>게르지</GerzeeColonist.label>
+  <GerzeeColonist.labelPlural>게르지</GerzeeColonist.labelPlural>
+  <GerzeeColonist.labelMale>남성 게르지</GerzeeColonist.labelMale>
+  <GerzeeColonist.labelMalePlural>남성 게르지</GerzeeColonist.labelMalePlural>
+  <GerzeeColonist.labelFemale>여성 게르지</GerzeeColonist.labelFemale>
+  <GerzeeColonist.labelFemalePlural>여성 게르지</GerzeeColonist.labelFemalePlural>
+
+</LanguageData>

@@ -1,0 +1,1175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1106719215_190814_Mechanoids Extraordinaire-->
+  <VespaME.label>베스파</VespaME.label>
+  <VespaME.corePart.parts.0.parts.0.parts.1.customLabel>왼쪽 시각 센서</VespaME.corePart.parts.0.parts.0.parts.1.customLabel>
+  <VespaME.corePart.parts.0.parts.0.parts.2.customLabel>오른쪽 시각 센서</VespaME.corePart.parts.0.parts.0.parts.2.customLabel>
+  <VespaME.corePart.parts.0.parts.0.parts.3.customLabel>왼쪽 청각 센서</VespaME.corePart.parts.0.parts.0.parts.3.customLabel>
+  <VespaME.corePart.parts.0.parts.0.parts.4.customLabel>오른쪽 청각 센서</VespaME.corePart.parts.0.parts.0.parts.4.customLabel>
+  <VespaME.corePart.parts.1.customLabel>왼쪽 기계 어깨</VespaME.corePart.parts.1.customLabel>
+  <VespaME.corePart.parts.1.parts.0.customLabel>왼쪽 기계 팔</VespaME.corePart.parts.1.parts.0.customLabel>
+  <VespaME.corePart.parts.1.parts.0.parts.0.customLabel>왼쪽 기계 손</VespaME.corePart.parts.1.parts.0.parts.0.customLabel>
+  <VespaME.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>왼쪽 새끼 손가락</VespaME.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+  <VespaME.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>왼쪽 가운데 손가락</VespaME.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+  <VespaME.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>왼쪽 집게 손가락</VespaME.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+  <VespaME.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>왼쪽 엄지 손가락</VespaME.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+  <VespaME.corePart.parts.2.customLabel>오른쪽 기계 어깨</VespaME.corePart.parts.2.customLabel>
+  <VespaME.corePart.parts.2.parts.0.customLabel>오른쪽 기계 팔</VespaME.corePart.parts.2.parts.0.customLabel>
+  <VespaME.corePart.parts.2.parts.0.parts.0.customLabel>오른쪽 기계 손</VespaME.corePart.parts.2.parts.0.parts.0.customLabel>
+  <VespaME.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>오른쪽 새끼 손가락</VespaME.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+  <VespaME.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>오른쪽 가운데 손가락</VespaME.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+  <VespaME.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>오른쪽 집게 손가락</VespaME.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+  <VespaME.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>오른쪽 엄지 손가락</VespaME.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+  <VespaME.corePart.parts.3.customLabel>왼다리</VespaME.corePart.parts.3.customLabel>
+  <VespaME.corePart.parts.3.parts.0.customLabel>왼발</VespaME.corePart.parts.3.parts.0.customLabel>
+  <VespaME.corePart.parts.4.customLabel>오른다리</VespaME.corePart.parts.4.customLabel>
+  <VespaME.corePart.parts.4.parts.0.customLabel>오른발</VespaME.corePart.parts.4.parts.0.customLabel>
+  <GoliathME.label>골리앗</GoliathME.label>
+  <GoliathME.corePart.parts.1.customLabel>왼쪽 시각 센서</GoliathME.corePart.parts.1.customLabel>
+  <GoliathME.corePart.parts.2.customLabel>오른쪽 시각 센서</GoliathME.corePart.parts.2.customLabel>
+  <GoliathME.corePart.parts.3.customLabel>왼쪽 청각 센서</GoliathME.corePart.parts.3.customLabel>
+  <GoliathME.corePart.parts.5.customLabel>오른쪽 청각 센서</GoliathME.corePart.parts.5.customLabel>
+  <GoliathME.corePart.parts.5.parts.0.customLabel>왼쪽 기계 팔</GoliathME.corePart.parts.5.parts.0.customLabel>
+  <GoliathME.corePart.parts.5.parts.0.parts.0.customLabel>왼쪽 기계 손</GoliathME.corePart.parts.5.parts.0.parts.0.customLabel>
+  <GoliathME.corePart.parts.5.parts.0.parts.0.parts.0.customLabel>왼쪽 새끼 손가락</GoliathME.corePart.parts.5.parts.0.parts.0.parts.0.customLabel>
+  <GoliathME.corePart.parts.5.parts.0.parts.0.parts.1.customLabel>왼쪽 가운데 손가락</GoliathME.corePart.parts.5.parts.0.parts.0.parts.1.customLabel>
+  <GoliathME.corePart.parts.5.parts.0.parts.0.parts.2.customLabel>왼쪽 집게 손가락</GoliathME.corePart.parts.5.parts.0.parts.0.parts.2.customLabel>
+  <GoliathME.corePart.parts.5.parts.0.parts.0.parts.3.customLabel>왼쪽 엄지 손가락</GoliathME.corePart.parts.5.parts.0.parts.0.parts.3.customLabel>
+  <GoliathME.corePart.parts.6.customLabel>오른쪽 기계 어깨</GoliathME.corePart.parts.6.customLabel>
+  <GoliathME.corePart.parts.6.parts.0.customLabel>오른쪽 기계 팔</GoliathME.corePart.parts.6.parts.0.customLabel>
+  <GoliathME.corePart.parts.6.parts.0.parts.0.customLabel>오른쪽 기계 손</GoliathME.corePart.parts.6.parts.0.parts.0.customLabel>
+  <GoliathME.corePart.parts.6.parts.0.parts.0.parts.0.customLabel>오른쪽 새끼 손가락</GoliathME.corePart.parts.6.parts.0.parts.0.parts.0.customLabel>
+  <GoliathME.corePart.parts.6.parts.0.parts.0.parts.1.customLabel>오른쪽 가운데 손가락</GoliathME.corePart.parts.6.parts.0.parts.0.parts.1.customLabel>
+  <GoliathME.corePart.parts.6.parts.0.parts.0.parts.2.customLabel>오른쪽 집게 손가락</GoliathME.corePart.parts.6.parts.0.parts.0.parts.2.customLabel>
+  <GoliathME.corePart.parts.6.parts.0.parts.0.parts.3.customLabel>오른쪽 엄지 손가락</GoliathME.corePart.parts.6.parts.0.parts.0.parts.3.customLabel>
+  <GoliathME.corePart.parts.7.customLabel>왼다리</GoliathME.corePart.parts.7.customLabel>
+  <GoliathME.corePart.parts.7.parts.0.customLabel>왼발</GoliathME.corePart.parts.7.parts.0.customLabel>
+  <GoliathME.corePart.parts.8.customLabel>오른다리</GoliathME.corePart.parts.8.customLabel>
+  <GoliathME.corePart.parts.8.parts.0.customLabel>오른발</GoliathME.corePart.parts.8.parts.0.customLabel>
+  <HoundME.label>하운드</HoundME.label>
+  <HoundME.corePart.parts.0.customLabel>왼쪽 확장 포트</HoundME.corePart.parts.0.customLabel>
+  <HoundME.corePart.parts.0.parts.0.customLabel>왼쪽 무기 고정대</HoundME.corePart.parts.0.parts.0.customLabel>
+  <HoundME.corePart.parts.1.customLabel>오른쪽 확장 포트</HoundME.corePart.parts.1.customLabel>
+  <HoundME.corePart.parts.1.parts.0.customLabel>오른쪽 무기 고정대</HoundME.corePart.parts.1.parts.0.customLabel>
+  <HoundME.corePart.parts.3.parts.0.parts.1.customLabel>왼쪽 시각 센서</HoundME.corePart.parts.3.parts.0.parts.1.customLabel>
+  <HoundME.corePart.parts.3.parts.0.parts.2.customLabel>오른쪽 시각 센서</HoundME.corePart.parts.3.parts.0.parts.2.customLabel>
+  <HoundME.corePart.parts.3.parts.0.parts.3.customLabel>왼쪽 청각 센서</HoundME.corePart.parts.3.parts.0.parts.3.customLabel>
+  <HoundME.corePart.parts.3.parts.0.parts.4.customLabel>오른쪽 청각 센서</HoundME.corePart.parts.3.parts.0.parts.4.customLabel>
+  <HoundME.corePart.parts.4.customLabel>왼쪽 앞다리</HoundME.corePart.parts.4.customLabel>
+  <HoundME.corePart.parts.4.parts.0.customLabel>왼쪽 앞발</HoundME.corePart.parts.4.parts.0.customLabel>
+  <HoundME.corePart.parts.5.customLabel>오른쪽 앞다리</HoundME.corePart.parts.5.customLabel>
+  <HoundME.corePart.parts.5.parts.0.customLabel>오른쪽 앞발</HoundME.corePart.parts.5.parts.0.customLabel>
+  <HoundME.corePart.parts.6.customLabel>왼쪽 뒷다리</HoundME.corePart.parts.6.customLabel>
+  <HoundME.corePart.parts.6.parts.0.customLabel>왼쪽 뒷발</HoundME.corePart.parts.6.parts.0.customLabel>
+  <HoundME.corePart.parts.7.customLabel>오른쪽 뒷다리</HoundME.corePart.parts.7.customLabel>
+  <HoundME.corePart.parts.7.parts.0.customLabel>오른쪽 뒷발</HoundME.corePart.parts.7.parts.0.customLabel>
+  <ChimeraME.label>키메라</ChimeraME.label>
+  <ChimeraME.corePart.parts.0.customLabel>왼쪽 확장 포트</ChimeraME.corePart.parts.0.customLabel>
+  <ChimeraME.corePart.parts.0.parts.0.customLabel>왼쪽 무기 고정대</ChimeraME.corePart.parts.0.parts.0.customLabel>
+  <ChimeraME.corePart.parts.1.customLabel>오른쪽 확장 포트</ChimeraME.corePart.parts.1.customLabel>
+  <ChimeraME.corePart.parts.1.parts.0.customLabel>오른쪽 무기 고정대</ChimeraME.corePart.parts.1.parts.0.customLabel>
+  <ChimeraME.corePart.parts.3.parts.0.parts.1.customLabel>왼쪽 시각 센서</ChimeraME.corePart.parts.3.parts.0.parts.1.customLabel>
+  <ChimeraME.corePart.parts.3.parts.0.parts.2.customLabel>오른쪽 시각 센서</ChimeraME.corePart.parts.3.parts.0.parts.2.customLabel>
+  <ChimeraME.corePart.parts.3.parts.0.parts.3.customLabel>왼쪽 청각 센서</ChimeraME.corePart.parts.3.parts.0.parts.3.customLabel>
+  <ChimeraME.corePart.parts.3.parts.0.parts.4.customLabel>오른쪽 청각 센서</ChimeraME.corePart.parts.3.parts.0.parts.4.customLabel>
+  <ChimeraME.corePart.parts.4.customLabel>왼다리</ChimeraME.corePart.parts.4.customLabel>
+  <ChimeraME.corePart.parts.4.parts.0.customLabel>왼발</ChimeraME.corePart.parts.4.parts.0.customLabel>
+  <ChimeraME.corePart.parts.5.customLabel>오른다리</ChimeraME.corePart.parts.5.customLabel>
+  <ChimeraME.corePart.parts.5.parts.0.customLabel>오른발</ChimeraME.corePart.parts.5.parts.0.customLabel>
+  <KrakenME.label>크라켄</KrakenME.label>
+  <KrakenME.corePart.parts.1.parts.1.customLabel>왼쪽 시각 센서</KrakenME.corePart.parts.1.parts.1.customLabel>
+  <KrakenME.corePart.parts.1.parts.2.customLabel>오른쪽 시각 센서</KrakenME.corePart.parts.1.parts.2.customLabel>
+  <KrakenME.corePart.parts.1.parts.3.customLabel>왼쪽 청각 센서</KrakenME.corePart.parts.1.parts.3.customLabel>
+  <KrakenME.corePart.parts.1.parts.4.customLabel>오른쪽 청각 센서</KrakenME.corePart.parts.1.parts.4.customLabel>
+  <KrakenME.corePart.parts.2.customLabel>왼쪽 상단 돌출구 포트</KrakenME.corePart.parts.2.customLabel>
+  <KrakenME.corePart.parts.2.parts.0.customLabel>왼쪽 상단 기계 촉수</KrakenME.corePart.parts.2.parts.0.customLabel>
+  <KrakenME.corePart.parts.3.customLabel>오른쪽 상단 돌출구 포트</KrakenME.corePart.parts.3.customLabel>
+  <KrakenME.corePart.parts.3.parts.0.customLabel>오른쪽 상단 기계 촉수</KrakenME.corePart.parts.3.parts.0.customLabel>
+  <KrakenME.corePart.parts.4.customLabel>왼쪽 하단 돌출구 포트</KrakenME.corePart.parts.4.customLabel>
+  <KrakenME.corePart.parts.4.parts.0.customLabel>왼쪽 하단 기계 촉수</KrakenME.corePart.parts.4.parts.0.customLabel>
+  <KrakenME.corePart.parts.5.customLabel>오른쪽 하단 돌출구 포트</KrakenME.corePart.parts.5.customLabel>
+  <KrakenME.corePart.parts.5.parts.0.customLabel>오른쪽 하단 기계 촉수</KrakenME.corePart.parts.5.parts.0.customLabel>
+
+  <!--1113137502_190707_Genetic Rim-->
+  <GR_BirdWithTeeth.label>이빨 달린 새</GR_BirdWithTeeth.label>
+  <GR_BirdWithTeeth.corePart.parts.4.customLabel>왼쪽 폐</GR_BirdWithTeeth.corePart.parts.4.customLabel>
+  <GR_BirdWithTeeth.corePart.parts.5.customLabel>오른쪽 폐</GR_BirdWithTeeth.corePart.parts.5.customLabel>
+  <GR_BirdWithTeeth.corePart.parts.6.customLabel>왼쪽 신장</GR_BirdWithTeeth.corePart.parts.6.customLabel>
+  <GR_BirdWithTeeth.corePart.parts.7.customLabel>오른쪽 신장</GR_BirdWithTeeth.corePart.parts.7.customLabel>
+  <GR_BirdWithTeeth.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</GR_BirdWithTeeth.corePart.parts.9.parts.0.parts.1.customLabel>
+  <GR_BirdWithTeeth.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</GR_BirdWithTeeth.corePart.parts.9.parts.0.parts.2.customLabel>
+  <GR_BirdWithTeeth.corePart.parts.10.customLabel>왼다리</GR_BirdWithTeeth.corePart.parts.10.customLabel>
+  <GR_BirdWithTeeth.corePart.parts.10.parts.0.customLabel>왼발</GR_BirdWithTeeth.corePart.parts.10.parts.0.customLabel>
+  <GR_BirdWithTeeth.corePart.parts.11.customLabel>오른다리</GR_BirdWithTeeth.corePart.parts.11.customLabel>
+  <GR_BirdWithTeeth.corePart.parts.11.parts.0.customLabel>오른발</GR_BirdWithTeeth.corePart.parts.11.parts.0.customLabel>
+  <GR_HornedBird.label>뿔 달린 새</GR_HornedBird.label>
+  <GR_HornedBird.corePart.parts.4.customLabel>왼쪽 폐</GR_HornedBird.corePart.parts.4.customLabel>
+  <GR_HornedBird.corePart.parts.5.customLabel>오른쪽 폐</GR_HornedBird.corePart.parts.5.customLabel>
+  <GR_HornedBird.corePart.parts.6.customLabel>왼쪽 신장</GR_HornedBird.corePart.parts.6.customLabel>
+  <GR_HornedBird.corePart.parts.7.customLabel>오른쪽 신장</GR_HornedBird.corePart.parts.7.customLabel>
+  <GR_HornedBird.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</GR_HornedBird.corePart.parts.9.parts.0.parts.1.customLabel>
+  <GR_HornedBird.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</GR_HornedBird.corePart.parts.9.parts.0.parts.2.customLabel>
+  <GR_HornedBird.corePart.parts.10.customLabel>왼다리</GR_HornedBird.corePart.parts.10.customLabel>
+  <GR_HornedBird.corePart.parts.10.parts.0.customLabel>왼발</GR_HornedBird.corePart.parts.10.parts.0.customLabel>
+  <GR_HornedBird.corePart.parts.11.customLabel>오른다리</GR_HornedBird.corePart.parts.11.customLabel>
+  <GR_HornedBird.corePart.parts.11.parts.0.customLabel>오른발</GR_HornedBird.corePart.parts.11.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithBeak.label>부리가 있는 사족 동물</GR_QuadrupedAnimalWithBeak.label>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.3.customLabel>왼쪽 폐</GR_QuadrupedAnimalWithBeak.corePart.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.4.customLabel>오른쪽 폐</GR_QuadrupedAnimalWithBeak.corePart.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.5.customLabel>왼쪽 신장</GR_QuadrupedAnimalWithBeak.corePart.parts.5.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.6.customLabel>오른쪽 신장</GR_QuadrupedAnimalWithBeak.corePart.parts.6.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.1.customLabel>왼쪽 눈</GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.1.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.2.customLabel>오른쪽 눈</GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.2.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.3.customLabel>왼쪽 귀</GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.4.customLabel>오른쪽 귀</GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.9.customLabel>왼쪽 앞다리</GR_QuadrupedAnimalWithBeak.corePart.parts.9.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.9.parts.0.customLabel>왼쪽 앞발톱</GR_QuadrupedAnimalWithBeak.corePart.parts.9.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.10.customLabel>오른쪽 앞다리</GR_QuadrupedAnimalWithBeak.corePart.parts.10.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.10.parts.0.customLabel>오른쪽 앞발톱</GR_QuadrupedAnimalWithBeak.corePart.parts.10.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.11.customLabel>왼쪽 뒷다리</GR_QuadrupedAnimalWithBeak.corePart.parts.11.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.11.parts.0.customLabel>왼쪽 뒷발톱</GR_QuadrupedAnimalWithBeak.corePart.parts.11.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.12.customLabel>오른쪽 뒷다리</GR_QuadrupedAnimalWithBeak.corePart.parts.12.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.12.parts.0.customLabel>오른쪽 뒷발톱</GR_QuadrupedAnimalWithBeak.corePart.parts.12.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.label>부리와 혹을 달고있는 사족보행 동물</GR_QuadrupedAnimalWithBeakandHump.label>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.3.customLabel>왼쪽 폐</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.4.customLabel>오른쪽 폐</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.5.customLabel>왼쪽 신장</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.5.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.6.customLabel>오른쪽 신장</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.6.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.1.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.2.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.10.customLabel>왼쪽 앞다리</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.10.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.10.parts.0.customLabel>왼쪽 앞발굽</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.10.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.11.customLabel>오른쪽 앞다리</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.11.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.11.parts.0.customLabel>오른쪽 앞발굽</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.11.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.12.customLabel>왼쪽 뒷다리</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.12.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발굽</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.12.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.13.customLabel>오른쪽 뒷다리</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.13.customLabel>
+  <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발굽</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.13.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.label>사족 동물</GR_QuadrupedAnimalWithPawsAndFangs.label>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.3.customLabel>왼쪽 폐</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.4.customLabel>오른쪽 폐</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.5.customLabel>왼쪽 신장</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.5.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.6.customLabel>오른쪽 신장</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.6.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.1.customLabel>왼쪽 눈</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.1.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.2.customLabel>오른쪽 눈</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.2.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.3.customLabel>왼쪽 귀</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.4.customLabel>오른쪽 귀</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.9.customLabel>왼쪽 앞다리</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.9.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.9.parts.0.customLabel>왼쪽 앞발톱</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.9.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.10.customLabel>오른쪽 앞다리</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.10.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.10.parts.0.customLabel>오른쪽 앞발톱</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.10.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.11.customLabel>왼쪽 뒷다리</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.11.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.11.parts.0.customLabel>왼쪽 뒷발톱</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.11.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.12.customLabel>오른쪽 뒷다리</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.12.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.12.parts.0.customLabel>오른쪽 뒷발톱</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.12.parts.0.customLabel>
+
+  <!--1136958577_190707_Dinosauria-->
+  <Theropod.label>수각류</Theropod.label>
+  <Theropod.corePart.parts.4.customLabel>왼쪽 폐</Theropod.corePart.parts.4.customLabel>
+  <Theropod.corePart.parts.5.customLabel>오른쪽 폐</Theropod.corePart.parts.5.customLabel>
+  <Theropod.corePart.parts.6.customLabel>왼쪽 신장</Theropod.corePart.parts.6.customLabel>
+  <Theropod.corePart.parts.7.customLabel>오른쪽 신장</Theropod.corePart.parts.7.customLabel>
+  <Theropod.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</Theropod.corePart.parts.9.parts.0.parts.1.customLabel>
+  <Theropod.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</Theropod.corePart.parts.9.parts.0.parts.2.customLabel>
+  <Theropod.corePart.parts.10.customLabel>왼다리</Theropod.corePart.parts.10.customLabel>
+  <Theropod.corePart.parts.10.parts.0.customLabel>왼발</Theropod.corePart.parts.10.parts.0.customLabel>
+  <Theropod.corePart.parts.11.customLabel>오른다리</Theropod.corePart.parts.11.customLabel>
+  <Theropod.corePart.parts.11.parts.0.customLabel>오른발</Theropod.corePart.parts.11.parts.0.customLabel>
+  <TheropodWithClaws.label>수각류</TheropodWithClaws.label>
+  <TheropodWithClaws.corePart.parts.4.customLabel>왼쪽 폐</TheropodWithClaws.corePart.parts.4.customLabel>
+  <TheropodWithClaws.corePart.parts.5.customLabel>오른쪽 폐</TheropodWithClaws.corePart.parts.5.customLabel>
+  <TheropodWithClaws.corePart.parts.6.customLabel>왼쪽 신장</TheropodWithClaws.corePart.parts.6.customLabel>
+  <TheropodWithClaws.corePart.parts.7.customLabel>오른쪽 신장</TheropodWithClaws.corePart.parts.7.customLabel>
+  <TheropodWithClaws.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</TheropodWithClaws.corePart.parts.9.parts.0.parts.1.customLabel>
+  <TheropodWithClaws.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</TheropodWithClaws.corePart.parts.9.parts.0.parts.2.customLabel>
+  <TheropodWithClaws.corePart.parts.10.customLabel>왼다리</TheropodWithClaws.corePart.parts.10.customLabel>
+  <TheropodWithClaws.corePart.parts.10.parts.0.customLabel>왼발</TheropodWithClaws.corePart.parts.10.parts.0.customLabel>
+  <TheropodWithClaws.corePart.parts.10.parts.1.customLabel>왼쪽 발톱</TheropodWithClaws.corePart.parts.10.parts.1.customLabel>
+  <TheropodWithClaws.corePart.parts.11.customLabel>오른다리</TheropodWithClaws.corePart.parts.11.customLabel>
+  <TheropodWithClaws.corePart.parts.11.parts.0.customLabel>오른발</TheropodWithClaws.corePart.parts.11.parts.0.customLabel>
+  <TheropodWithClaws.corePart.parts.11.parts.1.customLabel>오른쪽 발톱</TheropodWithClaws.corePart.parts.11.parts.1.customLabel>
+  <Knucklehead.label>너클헤드</Knucklehead.label>
+  <Knucklehead.corePart.parts.4.customLabel>왼쪽 폐</Knucklehead.corePart.parts.4.customLabel>
+  <Knucklehead.corePart.parts.5.customLabel>오른쪽 폐</Knucklehead.corePart.parts.5.customLabel>
+  <Knucklehead.corePart.parts.6.customLabel>왼쪽 신장</Knucklehead.corePart.parts.6.customLabel>
+  <Knucklehead.corePart.parts.7.customLabel>오른쪽 신장</Knucklehead.corePart.parts.7.customLabel>
+  <Knucklehead.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</Knucklehead.corePart.parts.9.parts.0.parts.1.customLabel>
+  <Knucklehead.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</Knucklehead.corePart.parts.9.parts.0.parts.2.customLabel>
+  <Knucklehead.corePart.parts.10.customLabel>왼다리</Knucklehead.corePart.parts.10.customLabel>
+  <Knucklehead.corePart.parts.10.parts.0.customLabel>왼발</Knucklehead.corePart.parts.10.parts.0.customLabel>
+  <Knucklehead.corePart.parts.11.customLabel>오른다리</Knucklehead.corePart.parts.11.customLabel>
+  <Knucklehead.corePart.parts.11.parts.0.customLabel>오른발</Knucklehead.corePart.parts.11.parts.0.customLabel>
+  <BipedalRunner.label>이족 주행</BipedalRunner.label>
+  <BipedalRunner.corePart.parts.4.customLabel>왼쪽 폐</BipedalRunner.corePart.parts.4.customLabel>
+  <BipedalRunner.corePart.parts.5.customLabel>오른쪽 폐</BipedalRunner.corePart.parts.5.customLabel>
+  <BipedalRunner.corePart.parts.6.customLabel>왼쪽 신장</BipedalRunner.corePart.parts.6.customLabel>
+  <BipedalRunner.corePart.parts.7.customLabel>오른쪽 신장</BipedalRunner.corePart.parts.7.customLabel>
+  <BipedalRunner.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</BipedalRunner.corePart.parts.9.parts.0.parts.1.customLabel>
+  <BipedalRunner.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</BipedalRunner.corePart.parts.9.parts.0.parts.2.customLabel>
+  <BipedalRunner.corePart.parts.10.customLabel>왼다리</BipedalRunner.corePart.parts.10.customLabel>
+  <BipedalRunner.corePart.parts.10.parts.0.customLabel>왼발</BipedalRunner.corePart.parts.10.parts.0.customLabel>
+  <BipedalRunner.corePart.parts.11.customLabel>오른다리</BipedalRunner.corePart.parts.11.customLabel>
+  <BipedalRunner.corePart.parts.11.parts.0.customLabel>오른발</BipedalRunner.corePart.parts.11.parts.0.customLabel>
+  <BipedalOther.label>이족 공룡</BipedalOther.label>
+  <BipedalOther.corePart.parts.4.customLabel>왼쪽 폐</BipedalOther.corePart.parts.4.customLabel>
+  <BipedalOther.corePart.parts.5.customLabel>오른쪽 폐</BipedalOther.corePart.parts.5.customLabel>
+  <BipedalOther.corePart.parts.6.customLabel>왼쪽 신장</BipedalOther.corePart.parts.6.customLabel>
+  <BipedalOther.corePart.parts.7.customLabel>오른쪽 신장</BipedalOther.corePart.parts.7.customLabel>
+  <BipedalOther.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</BipedalOther.corePart.parts.9.parts.0.parts.1.customLabel>
+  <BipedalOther.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</BipedalOther.corePart.parts.9.parts.0.parts.2.customLabel>
+  <BipedalOther.corePart.parts.10.customLabel>왼다리</BipedalOther.corePart.parts.10.customLabel>
+  <BipedalOther.corePart.parts.10.parts.0.customLabel>왼발</BipedalOther.corePart.parts.10.parts.0.customLabel>
+  <BipedalOther.corePart.parts.11.customLabel>오른다리</BipedalOther.corePart.parts.11.customLabel>
+  <BipedalOther.corePart.parts.11.parts.0.customLabel>오른발</BipedalOther.corePart.parts.11.parts.0.customLabel>
+  <BipedalOther.corePart.parts.12.customLabel>왼쪽 어깨</BipedalOther.corePart.parts.12.customLabel>
+  <BipedalOther.corePart.parts.12.parts.0.customLabel>왼팔</BipedalOther.corePart.parts.12.parts.0.customLabel>
+  <BipedalOther.corePart.parts.12.parts.0.parts.0.customLabel>왼쪽 앞발톱</BipedalOther.corePart.parts.12.parts.0.parts.0.customLabel>
+  <BipedalOther.corePart.parts.13.customLabel>오른쪽 어깨</BipedalOther.corePart.parts.13.customLabel>
+  <BipedalOther.corePart.parts.13.parts.0.customLabel>오른팔</BipedalOther.corePart.parts.13.parts.0.customLabel>
+  <BipedalOther.corePart.parts.13.parts.0.parts.0.customLabel>오른쪽 앞발톱</BipedalOther.corePart.parts.13.parts.0.parts.0.customLabel>
+  <BirdMimic.label>새 모방</BirdMimic.label>
+  <BirdMimic.corePart.parts.4.customLabel>왼쪽 폐</BirdMimic.corePart.parts.4.customLabel>
+  <BirdMimic.corePart.parts.5.customLabel>오른쪽 폐</BirdMimic.corePart.parts.5.customLabel>
+  <BirdMimic.corePart.parts.6.customLabel>왼쪽 신장</BirdMimic.corePart.parts.6.customLabel>
+  <BirdMimic.corePart.parts.7.customLabel>오른쪽 신장</BirdMimic.corePart.parts.7.customLabel>
+  <BirdMimic.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</BirdMimic.corePart.parts.9.parts.0.parts.1.customLabel>
+  <BirdMimic.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</BirdMimic.corePart.parts.9.parts.0.parts.2.customLabel>
+  <BirdMimic.corePart.parts.10.customLabel>왼다리</BirdMimic.corePart.parts.10.customLabel>
+  <BirdMimic.corePart.parts.10.parts.0.customLabel>왼발</BirdMimic.corePart.parts.10.parts.0.customLabel>
+  <BirdMimic.corePart.parts.10.parts.1.customLabel>왼발 발톱</BirdMimic.corePart.parts.10.parts.1.customLabel>
+  <BirdMimic.corePart.parts.11.customLabel>오른다리</BirdMimic.corePart.parts.11.customLabel>
+  <BirdMimic.corePart.parts.11.parts.0.customLabel>오른발</BirdMimic.corePart.parts.11.parts.0.customLabel>
+  <BirdMimic.corePart.parts.11.parts.1.customLabel>오른발 발톱</BirdMimic.corePart.parts.11.parts.1.customLabel>
+  <BirdMimic.corePart.parts.12.customLabel>왼쪽 어깨</BirdMimic.corePart.parts.12.customLabel>
+  <BirdMimic.corePart.parts.12.parts.0.customLabel>왼팔</BirdMimic.corePart.parts.12.parts.0.customLabel>
+  <BirdMimic.corePart.parts.12.parts.0.parts.0.customLabel>왼쪽 앞발톱</BirdMimic.corePart.parts.12.parts.0.parts.0.customLabel>
+  <BirdMimic.corePart.parts.13.customLabel>오른쪽 어깨</BirdMimic.corePart.parts.13.customLabel>
+  <BirdMimic.corePart.parts.13.parts.0.customLabel>오른팔</BirdMimic.corePart.parts.13.parts.0.customLabel>
+  <BirdMimic.corePart.parts.13.parts.0.parts.0.customLabel>오른쪽 앞발톱</BirdMimic.corePart.parts.13.parts.0.parts.0.customLabel>
+  <Ceratopsid.label>케라톱스과</Ceratopsid.label>
+  <Ceratopsid.corePart.parts.4.customLabel>왼쪽 폐</Ceratopsid.corePart.parts.4.customLabel>
+  <Ceratopsid.corePart.parts.5.customLabel>오른쪽 폐</Ceratopsid.corePart.parts.5.customLabel>
+  <Ceratopsid.corePart.parts.6.customLabel>왼쪽 신장</Ceratopsid.corePart.parts.6.customLabel>
+  <Ceratopsid.corePart.parts.7.customLabel>오른쪽 신장</Ceratopsid.corePart.parts.7.customLabel>
+  <Ceratopsid.corePart.parts.9.parts.0.parts.2.customLabel>왼쪽 눈</Ceratopsid.corePart.parts.9.parts.0.parts.2.customLabel>
+  <Ceratopsid.corePart.parts.9.parts.0.parts.3.customLabel>오른쪽 눈</Ceratopsid.corePart.parts.9.parts.0.parts.3.customLabel>
+  <Ceratopsid.corePart.parts.9.parts.0.parts.6.customLabel>왼쪽 뿔</Ceratopsid.corePart.parts.9.parts.0.parts.6.customLabel>
+  <Ceratopsid.corePart.parts.9.parts.0.parts.7.customLabel>오른쪽 뿔</Ceratopsid.corePart.parts.9.parts.0.parts.7.customLabel>
+  <Ceratopsid.corePart.parts.9.parts.0.parts.8.customLabel>앞쪽 뿔</Ceratopsid.corePart.parts.9.parts.0.parts.8.customLabel>
+  <Ceratopsid.corePart.parts.10.customLabel>왼쪽 앞다리</Ceratopsid.corePart.parts.10.customLabel>
+  <Ceratopsid.corePart.parts.10.parts.0.customLabel>왼쪽 앞발</Ceratopsid.corePart.parts.10.parts.0.customLabel>
+  <Ceratopsid.corePart.parts.11.customLabel>오른쪽 앞다리</Ceratopsid.corePart.parts.11.customLabel>
+  <Ceratopsid.corePart.parts.11.parts.0.customLabel>오른쪽 앞발</Ceratopsid.corePart.parts.11.parts.0.customLabel>
+  <Ceratopsid.corePart.parts.12.customLabel>왼쪽 뒷다리</Ceratopsid.corePart.parts.12.customLabel>
+  <Ceratopsid.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발</Ceratopsid.corePart.parts.12.parts.0.customLabel>
+  <Ceratopsid.corePart.parts.13.customLabel>오른쪽 뒷다리</Ceratopsid.corePart.parts.13.customLabel>
+  <Ceratopsid.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발</Ceratopsid.corePart.parts.13.parts.0.customLabel>
+  <Sauropod.label>용각류</Sauropod.label>
+  <Sauropod.corePart.parts.4.customLabel>왼쪽 폐</Sauropod.corePart.parts.4.customLabel>
+  <Sauropod.corePart.parts.5.customLabel>오른쪽 폐</Sauropod.corePart.parts.5.customLabel>
+  <Sauropod.corePart.parts.6.customLabel>왼쪽 신장</Sauropod.corePart.parts.6.customLabel>
+  <Sauropod.corePart.parts.7.customLabel>오른쪽 신장</Sauropod.corePart.parts.7.customLabel>
+  <Sauropod.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</Sauropod.corePart.parts.9.parts.0.parts.1.customLabel>
+  <Sauropod.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</Sauropod.corePart.parts.9.parts.0.parts.2.customLabel>
+  <Sauropod.corePart.parts.10.customLabel>왼쪽 앞다리</Sauropod.corePart.parts.10.customLabel>
+  <Sauropod.corePart.parts.10.parts.0.customLabel>왼쪽 앞발</Sauropod.corePart.parts.10.parts.0.customLabel>
+  <Sauropod.corePart.parts.11.customLabel>오른쪽 앞다리</Sauropod.corePart.parts.11.customLabel>
+  <Sauropod.corePart.parts.11.parts.0.customLabel>오른쪽 앞발</Sauropod.corePart.parts.11.parts.0.customLabel>
+  <Sauropod.corePart.parts.12.customLabel>왼쪽 뒷다리</Sauropod.corePart.parts.12.customLabel>
+  <Sauropod.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발</Sauropod.corePart.parts.12.parts.0.customLabel>
+  <Sauropod.corePart.parts.13.customLabel>오른쪽 뒷다리</Sauropod.corePart.parts.13.customLabel>
+  <Sauropod.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발</Sauropod.corePart.parts.13.parts.0.customLabel>
+  <ThyreophoraeWithSpikes.label>장순아목 검룡류</ThyreophoraeWithSpikes.label>
+  <ThyreophoraeWithSpikes.corePart.parts.4.customLabel>왼쪽 폐</ThyreophoraeWithSpikes.corePart.parts.4.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.5.customLabel>오른쪽 폐</ThyreophoraeWithSpikes.corePart.parts.5.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.6.customLabel>왼쪽 신장</ThyreophoraeWithSpikes.corePart.parts.6.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.7.customLabel>오른쪽 신장</ThyreophoraeWithSpikes.corePart.parts.7.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</ThyreophoraeWithSpikes.corePart.parts.9.parts.0.parts.1.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</ThyreophoraeWithSpikes.corePart.parts.9.parts.0.parts.2.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.10.customLabel>왼쪽 앞다리</ThyreophoraeWithSpikes.corePart.parts.10.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.10.parts.0.customLabel>왼쪽 앞발</ThyreophoraeWithSpikes.corePart.parts.10.parts.0.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.11.customLabel>오른쪽 앞다리</ThyreophoraeWithSpikes.corePart.parts.11.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.11.parts.0.customLabel>오른쪽 앞발</ThyreophoraeWithSpikes.corePart.parts.11.parts.0.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.12.customLabel>왼쪽 뒷다리</ThyreophoraeWithSpikes.corePart.parts.12.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발</ThyreophoraeWithSpikes.corePart.parts.12.parts.0.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.13.customLabel>오른쪽 뒷다리</ThyreophoraeWithSpikes.corePart.parts.13.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발</ThyreophoraeWithSpikes.corePart.parts.13.parts.0.customLabel>
+  <ThyreophoraeWithClub.label>장순아목 곡룡류</ThyreophoraeWithClub.label>
+  <ThyreophoraeWithClub.corePart.parts.4.customLabel>왼쪽 폐</ThyreophoraeWithClub.corePart.parts.4.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.5.customLabel>오른쪽 폐</ThyreophoraeWithClub.corePart.parts.5.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.6.customLabel>왼쪽 신장</ThyreophoraeWithClub.corePart.parts.6.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.7.customLabel>오른쪽 신장</ThyreophoraeWithClub.corePart.parts.7.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</ThyreophoraeWithClub.corePart.parts.9.parts.0.parts.1.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</ThyreophoraeWithClub.corePart.parts.9.parts.0.parts.2.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.10.customLabel>왼쪽 앞다리</ThyreophoraeWithClub.corePart.parts.10.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.10.parts.0.customLabel>왼쪽 앞발</ThyreophoraeWithClub.corePart.parts.10.parts.0.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.11.customLabel>오른쪽 앞다리</ThyreophoraeWithClub.corePart.parts.11.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.11.parts.0.customLabel>오른쪽 앞발</ThyreophoraeWithClub.corePart.parts.11.parts.0.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.12.customLabel>왼쪽 뒷다리</ThyreophoraeWithClub.corePart.parts.12.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발</ThyreophoraeWithClub.corePart.parts.12.parts.0.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.13.customLabel>오른쪽 뒷다리</ThyreophoraeWithClub.corePart.parts.13.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발</ThyreophoraeWithClub.corePart.parts.13.parts.0.customLabel>
+
+  <!--1138962461_190627_GeneticRim Cosmic Horrors Patch-->
+  <GR_Amorphous.label>무형</GR_Amorphous.label>
+  <GR_Amorphous.corePart.parts.2.customLabel>왼쪽 폐</GR_Amorphous.corePart.parts.2.customLabel>
+  <GR_Amorphous.corePart.parts.3.customLabel>오른쪽 폐</GR_Amorphous.corePart.parts.3.customLabel>
+  <GR_Amorphous.corePart.parts.4.customLabel>왼쪽 신장</GR_Amorphous.corePart.parts.4.customLabel>
+  <GR_Amorphous.corePart.parts.5.customLabel>오른쪽 신장</GR_Amorphous.corePart.parts.5.customLabel>
+  <GR_Amorphous.corePart.parts.7.parts.1.customLabel>왼쪽 눈</GR_Amorphous.corePart.parts.7.parts.1.customLabel>
+  <GR_Amorphous.corePart.parts.7.parts.2.customLabel>오른쪽 눈</GR_Amorphous.corePart.parts.7.parts.2.customLabel>
+  <GR_Hydra.label>히드라</GR_Hydra.label>
+  <GR_Hydra.corePart.parts.2.customLabel>왼쪽 폐</GR_Hydra.corePart.parts.2.customLabel>
+  <GR_Hydra.corePart.parts.3.customLabel>오른쪽 폐</GR_Hydra.corePart.parts.3.customLabel>
+  <GR_Hydra.corePart.parts.4.customLabel>왼쪽 신장</GR_Hydra.corePart.parts.4.customLabel>
+  <GR_Hydra.corePart.parts.5.customLabel>오른쪽 신장</GR_Hydra.corePart.parts.5.customLabel>
+  <GR_Hydra.corePart.parts.7.parts.1.customLabel>왼쪽 눈</GR_Hydra.corePart.parts.7.parts.1.customLabel>
+  <GR_Hydra.corePart.parts.7.parts.2.customLabel>오른쪽 눈</GR_Hydra.corePart.parts.7.parts.2.customLabel>
+  <GR_Hydra.corePart.parts.8.parts.1.customLabel>왼쪽 눈</GR_Hydra.corePart.parts.8.parts.1.customLabel>
+  <GR_Hydra.corePart.parts.8.parts.2.customLabel>오른쪽 눈</GR_Hydra.corePart.parts.8.parts.2.customLabel>
+  <GR_Hydra.corePart.parts.9.parts.1.customLabel>왼쪽 눈</GR_Hydra.corePart.parts.9.parts.1.customLabel>
+  <GR_Hydra.corePart.parts.9.parts.2.customLabel>오른쪽 눈</GR_Hydra.corePart.parts.9.parts.2.customLabel>
+  <GR_Hydra.corePart.parts.10.parts.1.customLabel>왼쪽 눈</GR_Hydra.corePart.parts.10.parts.1.customLabel>
+  <GR_Hydra.corePart.parts.10.parts.2.customLabel>오른쪽 눈</GR_Hydra.corePart.parts.10.parts.2.customLabel>
+  <GR_Hydra.corePart.parts.11.parts.1.customLabel>왼쪽 눈</GR_Hydra.corePart.parts.11.parts.1.customLabel>
+  <GR_Hydra.corePart.parts.11.parts.2.customLabel>오른쪽 눈</GR_Hydra.corePart.parts.11.parts.2.customLabel>
+  <GR_Hydra.corePart.parts.12.parts.1.customLabel>왼쪽 눈</GR_Hydra.corePart.parts.12.parts.1.customLabel>
+  <GR_Hydra.corePart.parts.12.parts.2.customLabel>오른쪽 눈</GR_Hydra.corePart.parts.12.parts.2.customLabel>
+
+  <!--1206705240_190519_L-Slimes-->
+  <Cyberslime.label>사이버 슬라임</Cyberslime.label>
+  <Cyberslime.corePart.parts.0.customLabel>AI 코어</Cyberslime.corePart.parts.0.customLabel>
+  <Slime.label>슬라임</Slime.label>
+  <Slime.corePart.parts.1.customLabel>왼쪽 점액관</Slime.corePart.parts.1.customLabel>
+  <Slime.corePart.parts.2.customLabel>중간 점액관</Slime.corePart.parts.2.customLabel>
+  <Slime.corePart.parts.3.customLabel>오른쪽 점액관</Slime.corePart.parts.3.customLabel>
+  <Slime.corePart.parts.4.customLabel>왼쪽 폐</Slime.corePart.parts.4.customLabel>
+  <Slime.corePart.parts.5.customLabel>오른쪽 폐</Slime.corePart.parts.5.customLabel>
+  <Slime.corePart.parts.6.customLabel>왼쪽 신장</Slime.corePart.parts.6.customLabel>
+  <Slime.corePart.parts.7.customLabel>오른쪽 신장</Slime.corePart.parts.7.customLabel>
+  <Slime.corePart.parts.10.customLabel>왼쪽 눈</Slime.corePart.parts.10.customLabel>
+  <Slime.corePart.parts.11.customLabel>오른쪽 눈</Slime.corePart.parts.11.customLabel>
+  <Slimemech.label>슬라임 메카</Slimemech.label>
+  <Slimemech.corePart.parts.0.customLabel>왼쪽 어께</Slimemech.corePart.parts.0.customLabel>
+  <Slimemech.corePart.parts.0.parts.0.customLabel>왼 팔</Slimemech.corePart.parts.0.parts.0.customLabel>
+  <Slimemech.corePart.parts.0.parts.0.parts.0.customLabel>왼쪽 칼날</Slimemech.corePart.parts.0.parts.0.parts.0.customLabel>
+  <Slimemech.corePart.parts.0.parts.0.parts.1.customLabel>왼 손</Slimemech.corePart.parts.0.parts.0.parts.1.customLabel>
+  <Slimemech.corePart.parts.0.parts.0.parts.1.parts.0.customLabel>왼쪽 새끼손가락</Slimemech.corePart.parts.0.parts.0.parts.1.parts.0.customLabel>
+  <Slimemech.corePart.parts.0.parts.0.parts.1.parts.1.customLabel>왼쪽 중지</Slimemech.corePart.parts.0.parts.0.parts.1.parts.1.customLabel>
+  <Slimemech.corePart.parts.0.parts.0.parts.1.parts.2.customLabel>왼쪽 검지</Slimemech.corePart.parts.0.parts.0.parts.1.parts.2.customLabel>
+  <Slimemech.corePart.parts.0.parts.0.parts.1.parts.3.customLabel>왼쪽 엄지</Slimemech.corePart.parts.0.parts.0.parts.1.parts.3.customLabel>
+  <Slimemech.corePart.parts.1.customLabel>오른쪽 어께</Slimemech.corePart.parts.1.customLabel>
+  <Slimemech.corePart.parts.1.parts.0.customLabel>오른 팔</Slimemech.corePart.parts.1.parts.0.customLabel>
+  <Slimemech.corePart.parts.1.parts.0.parts.0.customLabel>오른쪽 칼날</Slimemech.corePart.parts.1.parts.0.parts.0.customLabel>
+  <Slimemech.corePart.parts.1.parts.0.parts.1.customLabel>오른 손</Slimemech.corePart.parts.1.parts.0.parts.1.customLabel>
+  <Slimemech.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>오른쪽 새끼손가락</Slimemech.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>
+  <Slimemech.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>오른쪽 중지</Slimemech.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>
+  <Slimemech.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>오른쪽 검지</Slimemech.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>
+  <Slimemech.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>오른쪽 엄지</Slimemech.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>
+  <Slimemech.corePart.parts.4.customLabel>왼쪽 점액관</Slimemech.corePart.parts.4.customLabel>
+  <Slimemech.corePart.parts.5.customLabel>중간 점액관</Slimemech.corePart.parts.5.customLabel>
+  <Slimemech.corePart.parts.6.customLabel>오른쪽 점액관</Slimemech.corePart.parts.6.customLabel>
+  <Slimemech.corePart.parts.7.customLabel>왼쪽 폐</Slimemech.corePart.parts.7.customLabel>
+  <Slimemech.corePart.parts.8.customLabel>오른쪽 폐</Slimemech.corePart.parts.8.customLabel>
+  <Slimemech.corePart.parts.9.customLabel>왼쪽 신장</Slimemech.corePart.parts.9.customLabel>
+  <Slimemech.corePart.parts.10.customLabel>오른쪽 신장</Slimemech.corePart.parts.10.customLabel>
+  <Slimemech.corePart.parts.13.customLabel>왼쪽 눈</Slimemech.corePart.parts.13.customLabel>
+  <Slimemech.corePart.parts.14.customLabel>오른쪽 눈</Slimemech.corePart.parts.14.customLabel>
+
+  <!--1217424545_190627_Griffins for Rimworld-->
+  <Griffin.label>그리핀</Griffin.label>
+  <Griffin.corePart.parts.4.customLabel>왼쪽 폐</Griffin.corePart.parts.4.customLabel>
+  <Griffin.corePart.parts.5.customLabel>오른쪽 폐</Griffin.corePart.parts.5.customLabel>
+  <Griffin.corePart.parts.6.customLabel>왼쪽 신장</Griffin.corePart.parts.6.customLabel>
+  <Griffin.corePart.parts.7.customLabel>오른쪽 신장</Griffin.corePart.parts.7.customLabel>
+  <Griffin.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</Griffin.corePart.parts.9.parts.0.parts.1.customLabel>
+  <Griffin.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</Griffin.corePart.parts.9.parts.0.parts.2.customLabel>
+  <Griffin.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</Griffin.corePart.parts.9.parts.0.parts.3.customLabel>
+  <Griffin.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</Griffin.corePart.parts.9.parts.0.parts.4.customLabel>
+  <Griffin.corePart.parts.10.customLabel>왼쪽 앞다리</Griffin.corePart.parts.10.customLabel>
+  <Griffin.corePart.parts.10.parts.0.customLabel>왼쪽 앞발</Griffin.corePart.parts.10.parts.0.customLabel>
+  <Griffin.corePart.parts.11.customLabel>오른쪽 앞다리</Griffin.corePart.parts.11.customLabel>
+  <Griffin.corePart.parts.11.parts.0.customLabel>오른쪽 앞발</Griffin.corePart.parts.11.parts.0.customLabel>
+  <Griffin.corePart.parts.12.customLabel>왼쪽 뒷다리</Griffin.corePart.parts.12.customLabel>
+  <Griffin.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발</Griffin.corePart.parts.12.parts.0.customLabel>
+  <Griffin.corePart.parts.13.customLabel>오른쪽 뒷다리</Griffin.corePart.parts.13.customLabel>
+  <Griffin.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발</Griffin.corePart.parts.13.parts.0.customLabel>
+
+  <!--1342364585_190818_Star Wars Animal Collection-->
+  <Theropod.label>수각류</Theropod.label>
+  <Theropod.corePart.parts.4.customLabel>왼쪽 폐</Theropod.corePart.parts.4.customLabel>
+  <Theropod.corePart.parts.5.customLabel>오른쪽 폐</Theropod.corePart.parts.5.customLabel>
+  <Theropod.corePart.parts.6.customLabel>왼쪽 신장</Theropod.corePart.parts.6.customLabel>
+  <Theropod.corePart.parts.7.customLabel>오른쪽 신장</Theropod.corePart.parts.7.customLabel>
+  <Theropod.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</Theropod.corePart.parts.9.parts.0.parts.1.customLabel>
+  <Theropod.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</Theropod.corePart.parts.9.parts.0.parts.2.customLabel>
+  <Theropod.corePart.parts.10.customLabel>왼다리</Theropod.corePart.parts.10.customLabel>
+  <Theropod.corePart.parts.10.parts.0.customLabel>왼발</Theropod.corePart.parts.10.parts.0.customLabel>
+  <Theropod.corePart.parts.11.customLabel>오른다리</Theropod.corePart.parts.11.customLabel>
+  <Theropod.corePart.parts.11.parts.0.customLabel>오른발</Theropod.corePart.parts.11.parts.0.customLabel>
+  <TheropodWithClaws.label>수각류</TheropodWithClaws.label>
+  <TheropodWithClaws.corePart.parts.4.customLabel>왼쪽 폐</TheropodWithClaws.corePart.parts.4.customLabel>
+  <TheropodWithClaws.corePart.parts.5.customLabel>오른쪽 폐</TheropodWithClaws.corePart.parts.5.customLabel>
+  <TheropodWithClaws.corePart.parts.6.customLabel>왼쪽 신장</TheropodWithClaws.corePart.parts.6.customLabel>
+  <TheropodWithClaws.corePart.parts.7.customLabel>오른쪽 신장</TheropodWithClaws.corePart.parts.7.customLabel>
+  <TheropodWithClaws.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</TheropodWithClaws.corePart.parts.9.parts.0.parts.1.customLabel>
+  <TheropodWithClaws.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</TheropodWithClaws.corePart.parts.9.parts.0.parts.2.customLabel>
+  <TheropodWithClaws.corePart.parts.10.customLabel>왼다리</TheropodWithClaws.corePart.parts.10.customLabel>
+  <TheropodWithClaws.corePart.parts.10.parts.0.customLabel>왼발</TheropodWithClaws.corePart.parts.10.parts.0.customLabel>
+  <TheropodWithClaws.corePart.parts.11.customLabel>오른다리</TheropodWithClaws.corePart.parts.11.customLabel>
+  <TheropodWithClaws.corePart.parts.11.parts.0.customLabel>오른발</TheropodWithClaws.corePart.parts.11.parts.0.customLabel>
+  <Knucklehead.label>돌머리</Knucklehead.label>
+  <Knucklehead.corePart.parts.4.customLabel>왼쪽 폐</Knucklehead.corePart.parts.4.customLabel>
+  <Knucklehead.corePart.parts.5.customLabel>오른쪽 폐</Knucklehead.corePart.parts.5.customLabel>
+  <Knucklehead.corePart.parts.6.customLabel>왼쪽 신장</Knucklehead.corePart.parts.6.customLabel>
+  <Knucklehead.corePart.parts.7.customLabel>오른쪽 신장</Knucklehead.corePart.parts.7.customLabel>
+  <Knucklehead.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</Knucklehead.corePart.parts.9.parts.0.parts.1.customLabel>
+  <Knucklehead.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</Knucklehead.corePart.parts.9.parts.0.parts.2.customLabel>
+  <Knucklehead.corePart.parts.10.customLabel>왼다리</Knucklehead.corePart.parts.10.customLabel>
+  <Knucklehead.corePart.parts.10.parts.0.customLabel>왼발</Knucklehead.corePart.parts.10.parts.0.customLabel>
+  <Knucklehead.corePart.parts.11.customLabel>오른다리</Knucklehead.corePart.parts.11.customLabel>
+  <Knucklehead.corePart.parts.11.parts.0.customLabel>오른발</Knucklehead.corePart.parts.11.parts.0.customLabel>
+  <BipedalRunner.label>이족 보행</BipedalRunner.label>
+  <BipedalRunner.corePart.parts.4.customLabel>왼쪽 폐</BipedalRunner.corePart.parts.4.customLabel>
+  <BipedalRunner.corePart.parts.5.customLabel>오른쪽 폐</BipedalRunner.corePart.parts.5.customLabel>
+  <BipedalRunner.corePart.parts.6.customLabel>왼쪽 신장</BipedalRunner.corePart.parts.6.customLabel>
+  <BipedalRunner.corePart.parts.7.customLabel>오른쪽 신장</BipedalRunner.corePart.parts.7.customLabel>
+  <BipedalRunner.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</BipedalRunner.corePart.parts.9.parts.0.parts.1.customLabel>
+  <BipedalRunner.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</BipedalRunner.corePart.parts.9.parts.0.parts.2.customLabel>
+  <BipedalRunner.corePart.parts.10.customLabel>왼다리</BipedalRunner.corePart.parts.10.customLabel>
+  <BipedalRunner.corePart.parts.10.parts.0.customLabel>왼발</BipedalRunner.corePart.parts.10.parts.0.customLabel>
+  <BipedalRunner.corePart.parts.11.customLabel>오른다리</BipedalRunner.corePart.parts.11.customLabel>
+  <BipedalRunner.corePart.parts.11.parts.0.customLabel>오른발</BipedalRunner.corePart.parts.11.parts.0.customLabel>
+  <BipedalOther.label>이족 보행 공룡</BipedalOther.label>
+  <BipedalOther.corePart.parts.4.customLabel>왼쪽 폐</BipedalOther.corePart.parts.4.customLabel>
+  <BipedalOther.corePart.parts.5.customLabel>오른쪽 폐</BipedalOther.corePart.parts.5.customLabel>
+  <BipedalOther.corePart.parts.6.customLabel>왼쪽 신장</BipedalOther.corePart.parts.6.customLabel>
+  <BipedalOther.corePart.parts.7.customLabel>오른쪽 신장</BipedalOther.corePart.parts.7.customLabel>
+  <BipedalOther.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</BipedalOther.corePart.parts.9.parts.0.parts.1.customLabel>
+  <BipedalOther.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</BipedalOther.corePart.parts.9.parts.0.parts.2.customLabel>
+  <BipedalOther.corePart.parts.10.customLabel>왼다리</BipedalOther.corePart.parts.10.customLabel>
+  <BipedalOther.corePart.parts.10.parts.0.customLabel>왼발</BipedalOther.corePart.parts.10.parts.0.customLabel>
+  <BipedalOther.corePart.parts.11.customLabel>오른다리</BipedalOther.corePart.parts.11.customLabel>
+  <BipedalOther.corePart.parts.11.parts.0.customLabel>오른발</BipedalOther.corePart.parts.11.parts.0.customLabel>
+  <BirdMimic.label>흉내쟁이 새</BirdMimic.label>
+  <BirdMimic.corePart.parts.4.customLabel>왼쪽 폐</BirdMimic.corePart.parts.4.customLabel>
+  <BirdMimic.corePart.parts.5.customLabel>오른쪽 폐</BirdMimic.corePart.parts.5.customLabel>
+  <BirdMimic.corePart.parts.6.customLabel>왼쪽 신장</BirdMimic.corePart.parts.6.customLabel>
+  <BirdMimic.corePart.parts.7.customLabel>오른쪽 신장</BirdMimic.corePart.parts.7.customLabel>
+  <BirdMimic.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</BirdMimic.corePart.parts.9.parts.0.parts.1.customLabel>
+  <BirdMimic.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</BirdMimic.corePart.parts.9.parts.0.parts.2.customLabel>
+  <BirdMimic.corePart.parts.10.customLabel>왼다리</BirdMimic.corePart.parts.10.customLabel>
+  <BirdMimic.corePart.parts.10.parts.0.customLabel>왼발</BirdMimic.corePart.parts.10.parts.0.customLabel>
+  <BirdMimic.corePart.parts.11.customLabel>오른다리</BirdMimic.corePart.parts.11.customLabel>
+  <BirdMimic.corePart.parts.11.parts.0.customLabel>오른발</BirdMimic.corePart.parts.11.parts.0.customLabel>
+  <Ceratopsid.label>케라톱시드</Ceratopsid.label>
+  <Ceratopsid.corePart.parts.4.customLabel>왼쪽 폐</Ceratopsid.corePart.parts.4.customLabel>
+  <Ceratopsid.corePart.parts.5.customLabel>오른쪽 폐</Ceratopsid.corePart.parts.5.customLabel>
+  <Ceratopsid.corePart.parts.6.customLabel>왼쪽 신장</Ceratopsid.corePart.parts.6.customLabel>
+  <Ceratopsid.corePart.parts.7.customLabel>오른쪽 신장</Ceratopsid.corePart.parts.7.customLabel>
+  <Ceratopsid.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</Ceratopsid.corePart.parts.9.parts.0.parts.1.customLabel>
+  <Ceratopsid.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</Ceratopsid.corePart.parts.9.parts.0.parts.2.customLabel>
+  <Ceratopsid.corePart.parts.10.customLabel>왼쪽 앞다리</Ceratopsid.corePart.parts.10.customLabel>
+  <Ceratopsid.corePart.parts.10.parts.0.customLabel>왼쪽 앞발톱</Ceratopsid.corePart.parts.10.parts.0.customLabel>
+  <Ceratopsid.corePart.parts.11.customLabel>오른쪽 앞다리</Ceratopsid.corePart.parts.11.customLabel>
+  <Ceratopsid.corePart.parts.11.parts.0.customLabel>오른쪽 앞발톱</Ceratopsid.corePart.parts.11.parts.0.customLabel>
+  <Ceratopsid.corePart.parts.12.customLabel>왼쪽 뒷다리</Ceratopsid.corePart.parts.12.customLabel>
+  <Ceratopsid.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발톱</Ceratopsid.corePart.parts.12.parts.0.customLabel>
+  <Ceratopsid.corePart.parts.13.customLabel>오른쪽 뒷다리</Ceratopsid.corePart.parts.13.customLabel>
+  <Ceratopsid.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발톱</Ceratopsid.corePart.parts.13.parts.0.customLabel>
+  <Sauropod.label>유각류</Sauropod.label>
+  <Sauropod.corePart.parts.4.customLabel>왼쪽 폐</Sauropod.corePart.parts.4.customLabel>
+  <Sauropod.corePart.parts.5.customLabel>오른쪽 폐</Sauropod.corePart.parts.5.customLabel>
+  <Sauropod.corePart.parts.6.customLabel>왼쪽 신장</Sauropod.corePart.parts.6.customLabel>
+  <Sauropod.corePart.parts.7.customLabel>오른쪽 신장</Sauropod.corePart.parts.7.customLabel>
+  <Sauropod.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</Sauropod.corePart.parts.9.parts.0.parts.1.customLabel>
+  <Sauropod.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</Sauropod.corePart.parts.9.parts.0.parts.2.customLabel>
+  <Sauropod.corePart.parts.10.customLabel>왼쪽 앞다리</Sauropod.corePart.parts.10.customLabel>
+  <Sauropod.corePart.parts.10.parts.0.customLabel>왼쪽 앞발톱</Sauropod.corePart.parts.10.parts.0.customLabel>
+  <Sauropod.corePart.parts.11.customLabel>오른쪽 앞다리</Sauropod.corePart.parts.11.customLabel>
+  <Sauropod.corePart.parts.11.parts.0.customLabel>오른쪽 앞발톱</Sauropod.corePart.parts.11.parts.0.customLabel>
+  <Sauropod.corePart.parts.12.customLabel>왼쪽 뒷다리</Sauropod.corePart.parts.12.customLabel>
+  <Sauropod.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발톱</Sauropod.corePart.parts.12.parts.0.customLabel>
+  <Sauropod.corePart.parts.13.customLabel>오른쪽 뒷다리</Sauropod.corePart.parts.13.customLabel>
+  <Sauropod.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발톱</Sauropod.corePart.parts.13.parts.0.customLabel>
+  <ThyreophoraeWithSpikes.label>가시달린 장순아목</ThyreophoraeWithSpikes.label>
+  <ThyreophoraeWithSpikes.corePart.parts.4.customLabel>왼쪽 폐</ThyreophoraeWithSpikes.corePart.parts.4.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.5.customLabel>오른쪽 폐</ThyreophoraeWithSpikes.corePart.parts.5.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.6.customLabel>왼쪽 신장</ThyreophoraeWithSpikes.corePart.parts.6.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.7.customLabel>오른쪽 신장</ThyreophoraeWithSpikes.corePart.parts.7.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</ThyreophoraeWithSpikes.corePart.parts.9.parts.0.parts.1.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</ThyreophoraeWithSpikes.corePart.parts.9.parts.0.parts.2.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.10.customLabel>왼쪽 앞다리</ThyreophoraeWithSpikes.corePart.parts.10.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.10.parts.0.customLabel>왼발</ThyreophoraeWithSpikes.corePart.parts.10.parts.0.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.11.customLabel>오른쪽 앞다리</ThyreophoraeWithSpikes.corePart.parts.11.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.11.parts.0.customLabel>오른발</ThyreophoraeWithSpikes.corePart.parts.11.parts.0.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.12.customLabel>왼쪽 뒷다리</ThyreophoraeWithSpikes.corePart.parts.12.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발톱</ThyreophoraeWithSpikes.corePart.parts.12.parts.0.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.13.customLabel>오른쪽 뒷다리</ThyreophoraeWithSpikes.corePart.parts.13.customLabel>
+  <ThyreophoraeWithSpikes.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발톱</ThyreophoraeWithSpikes.corePart.parts.13.parts.0.customLabel>
+  <ThyreophoraeWithClub.label>몽둥이가 있는 장순아목</ThyreophoraeWithClub.label>
+  <ThyreophoraeWithClub.corePart.parts.4.customLabel>왼쪽 폐</ThyreophoraeWithClub.corePart.parts.4.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.5.customLabel>오른쪽 폐</ThyreophoraeWithClub.corePart.parts.5.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.6.customLabel>왼쪽 신장</ThyreophoraeWithClub.corePart.parts.6.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.7.customLabel>오른쪽 신장</ThyreophoraeWithClub.corePart.parts.7.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</ThyreophoraeWithClub.corePart.parts.9.parts.0.parts.1.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</ThyreophoraeWithClub.corePart.parts.9.parts.0.parts.2.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.10.customLabel>왼쪽 앞다리</ThyreophoraeWithClub.corePart.parts.10.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.10.parts.0.customLabel>왼쪽 뒷발톱</ThyreophoraeWithClub.corePart.parts.10.parts.0.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.11.customLabel>오른쪽 앞다리</ThyreophoraeWithClub.corePart.parts.11.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.11.parts.0.customLabel>오른쪽 앞발톱</ThyreophoraeWithClub.corePart.parts.11.parts.0.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.12.customLabel>왼쪽 뒷다리</ThyreophoraeWithClub.corePart.parts.12.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발톱</ThyreophoraeWithClub.corePart.parts.12.parts.0.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.13.customLabel>오른쪽 뒷다리</ThyreophoraeWithClub.corePart.parts.13.customLabel>
+  <ThyreophoraeWithClub.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발톱</ThyreophoraeWithClub.corePart.parts.13.parts.0.customLabel>
+  <Frog-dog_Body.label>프로그 도그 몸</Frog-dog_Body.label>
+  <Frog-dog_Body.corePart.parts.4.customLabel>왼쪽 폐</Frog-dog_Body.corePart.parts.4.customLabel>
+  <Frog-dog_Body.corePart.parts.5.customLabel>오른쪽 폐</Frog-dog_Body.corePart.parts.5.customLabel>
+  <Frog-dog_Body.corePart.parts.6.customLabel>왼쪽 신장</Frog-dog_Body.corePart.parts.6.customLabel>
+  <Frog-dog_Body.corePart.parts.7.customLabel>오른쪽 신장</Frog-dog_Body.corePart.parts.7.customLabel>
+  <Frog-dog_Body.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</Frog-dog_Body.corePart.parts.9.parts.0.parts.1.customLabel>
+  <Frog-dog_Body.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</Frog-dog_Body.corePart.parts.9.parts.0.parts.2.customLabel>
+  <Frog-dog_Body.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</Frog-dog_Body.corePart.parts.9.parts.0.parts.3.customLabel>
+  <Frog-dog_Body.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</Frog-dog_Body.corePart.parts.9.parts.0.parts.4.customLabel>
+  <Frog-dog_Body.corePart.parts.10.customLabel>왼쪽 앞다리</Frog-dog_Body.corePart.parts.10.customLabel>
+  <Frog-dog_Body.corePart.parts.10.parts.0.customLabel>왼쪽 앞다리 첫 번째 발톱</Frog-dog_Body.corePart.parts.10.parts.0.customLabel>
+  <Frog-dog_Body.corePart.parts.10.parts.1.customLabel>왼쪽 앞다리 두 번째 발톱</Frog-dog_Body.corePart.parts.10.parts.1.customLabel>
+  <Frog-dog_Body.corePart.parts.10.parts.2.customLabel>왼쪽 앞다리 세 번째 발톱</Frog-dog_Body.corePart.parts.10.parts.2.customLabel>
+  <Frog-dog_Body.corePart.parts.10.parts.3.customLabel>왼쪽 앞다리 네 번째 발톱</Frog-dog_Body.corePart.parts.10.parts.3.customLabel>
+  <Frog-dog_Body.corePart.parts.10.parts.4.customLabel>왼쪽 앞다리 다섯 번째 발톱</Frog-dog_Body.corePart.parts.10.parts.4.customLabel>
+  <Frog-dog_Body.corePart.parts.11.customLabel>오른쪽 앞다리</Frog-dog_Body.corePart.parts.11.customLabel>
+  <Frog-dog_Body.corePart.parts.11.parts.0.customLabel>오른쪽 앞다리 첫 번째 발톱</Frog-dog_Body.corePart.parts.11.parts.0.customLabel>
+  <Frog-dog_Body.corePart.parts.11.parts.1.customLabel>오른쪽 앞다리 두 번째 발톱</Frog-dog_Body.corePart.parts.11.parts.1.customLabel>
+  <Frog-dog_Body.corePart.parts.11.parts.2.customLabel>오른쪽 앞다리 세 번째 발톱</Frog-dog_Body.corePart.parts.11.parts.2.customLabel>
+  <Frog-dog_Body.corePart.parts.11.parts.3.customLabel>오른쪽 앞다리 네 번째 발톱</Frog-dog_Body.corePart.parts.11.parts.3.customLabel>
+  <Frog-dog_Body.corePart.parts.11.parts.4.customLabel>오른쪽 앞다리 다섯 번째 발톱</Frog-dog_Body.corePart.parts.11.parts.4.customLabel>
+  <HairBeast.label>짐승</HairBeast.label>
+  <HairBeast.corePart.parts.6.customLabel>왼쪽 폐</HairBeast.corePart.parts.6.customLabel>
+  <HairBeast.corePart.parts.7.customLabel>오른쪽 폐</HairBeast.corePart.parts.7.customLabel>
+  <HairBeast.corePart.parts.8.customLabel>왼쪽 신장</HairBeast.corePart.parts.8.customLabel>
+  <HairBeast.corePart.parts.9.customLabel>오른쪽 신장</HairBeast.corePart.parts.9.customLabel>
+  <HairBeast.corePart.parts.11.parts.0.parts.1.customLabel>왼쪽 눈</HairBeast.corePart.parts.11.parts.0.parts.1.customLabel>
+  <HairBeast.corePart.parts.11.parts.0.parts.2.customLabel>오른쪽 눈</HairBeast.corePart.parts.11.parts.0.parts.2.customLabel>
+  <HairBeast.corePart.parts.11.parts.0.parts.3.customLabel>왼쪽 귀</HairBeast.corePart.parts.11.parts.0.parts.3.customLabel>
+  <HairBeast.corePart.parts.11.parts.0.parts.4.customLabel>오른쪽 귀</HairBeast.corePart.parts.11.parts.0.parts.4.customLabel>
+  <HairBeast.corePart.parts.12.customLabel>왼쪽 어께</HairBeast.corePart.parts.12.customLabel>
+  <HairBeast.corePart.parts.12.parts.0.customLabel>왼쪽 쇄골</HairBeast.corePart.parts.12.parts.0.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.customLabel>왼팔</HairBeast.corePart.parts.12.parts.1.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.0.customLabel>왼쪽 상완골</HairBeast.corePart.parts.12.parts.1.parts.0.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.1.customLabel>왼쪽 요골</HairBeast.corePart.parts.12.parts.1.parts.1.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.2.customLabel>왼손</HairBeast.corePart.parts.12.parts.1.parts.2.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>왼쪽 새끼손가락</HairBeast.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.2.parts.0.parts.0.customLabel>왼쪽 새끼손가락 발톱</HairBeast.corePart.parts.12.parts.1.parts.2.parts.0.parts.0.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>왼쪽 약지</HairBeast.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.2.parts.1.parts.0.customLabel>왼쪽 약지 발톱</HairBeast.corePart.parts.12.parts.1.parts.2.parts.1.parts.0.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>왼쪽 중지</HairBeast.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.2.parts.2.parts.0.customLabel>왼쪽 중지 발톱</HairBeast.corePart.parts.12.parts.1.parts.2.parts.2.parts.0.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>왼쪽 검지</HairBeast.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.2.parts.3.parts.0.customLabel>왼쪽 검지 발톱</HairBeast.corePart.parts.12.parts.1.parts.2.parts.3.parts.0.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>왼쪽 엄지</HairBeast.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <HairBeast.corePart.parts.12.parts.1.parts.2.parts.4.parts.0.customLabel>왼쪽 엄지 발톱</HairBeast.corePart.parts.12.parts.1.parts.2.parts.4.parts.0.customLabel>
+  <HairBeast.corePart.parts.13.customLabel>오른쪽 어께</HairBeast.corePart.parts.13.customLabel>
+  <HairBeast.corePart.parts.13.parts.0.customLabel>오른쪽 쇄골</HairBeast.corePart.parts.13.parts.0.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.customLabel>오른팔</HairBeast.corePart.parts.13.parts.1.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.0.customLabel>오른쪽 상완골</HairBeast.corePart.parts.13.parts.1.parts.0.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.1.customLabel>오른쪽 요골</HairBeast.corePart.parts.13.parts.1.parts.1.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.2.customLabel>오른손</HairBeast.corePart.parts.13.parts.1.parts.2.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>오른쪽 새끼손가락</HairBeast.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.2.parts.0.parts.0.customLabel>오른쪽 새끼손가락 발톱</HairBeast.corePart.parts.13.parts.1.parts.2.parts.0.parts.0.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>오른쪽 약지</HairBeast.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.2.parts.1.parts.0.customLabel>오른쪽 약지 발톱</HairBeast.corePart.parts.13.parts.1.parts.2.parts.1.parts.0.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>오른쪽 중지</HairBeast.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.2.parts.2.parts.0.customLabel>오른쪽 중지 발톱</HairBeast.corePart.parts.13.parts.1.parts.2.parts.2.parts.0.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>오른쪽 검지</HairBeast.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.2.parts.3.parts.0.customLabel>오른쪽 검지 발톱</HairBeast.corePart.parts.13.parts.1.parts.2.parts.3.parts.0.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>오른쪽 엄지</HairBeast.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <HairBeast.corePart.parts.13.parts.1.parts.2.parts.4.parts.0.customLabel>오른쪽 엄지 발톱</HairBeast.corePart.parts.13.parts.1.parts.2.parts.4.parts.0.customLabel>
+  <HairBeast.corePart.parts.15.customLabel>왼다리</HairBeast.corePart.parts.15.customLabel>
+  <HairBeast.corePart.parts.15.parts.0.customLabel>왼쪽 대퇴골</HairBeast.corePart.parts.15.parts.0.customLabel>
+  <HairBeast.corePart.parts.15.parts.1.customLabel>왼쪽 정강이뼈</HairBeast.corePart.parts.15.parts.1.customLabel>
+  <HairBeast.corePart.parts.15.parts.2.customLabel>왼발</HairBeast.corePart.parts.15.parts.2.customLabel>
+  <HairBeast.corePart.parts.15.parts.2.parts.0.customLabel>왼쪽 새끼발가락</HairBeast.corePart.parts.15.parts.2.parts.0.customLabel>
+  <HairBeast.corePart.parts.15.parts.2.parts.1.customLabel>왼쪽 약지발가락</HairBeast.corePart.parts.15.parts.2.parts.1.customLabel>
+  <HairBeast.corePart.parts.15.parts.2.parts.2.customLabel>왼쪽 중지발가락</HairBeast.corePart.parts.15.parts.2.parts.2.customLabel>
+  <HairBeast.corePart.parts.15.parts.2.parts.3.customLabel>왼쪽 검지발가락</HairBeast.corePart.parts.15.parts.2.parts.3.customLabel>
+  <HairBeast.corePart.parts.15.parts.2.parts.4.customLabel>왼쪽 엄지발가락</HairBeast.corePart.parts.15.parts.2.parts.4.customLabel>
+  <HairBeast.corePart.parts.16.customLabel>오른다리</HairBeast.corePart.parts.16.customLabel>
+  <HairBeast.corePart.parts.16.parts.0.customLabel>오른쪽 대퇴골</HairBeast.corePart.parts.16.parts.0.customLabel>
+  <HairBeast.corePart.parts.16.parts.1.customLabel>오른쪽 정강이뼈</HairBeast.corePart.parts.16.parts.1.customLabel>
+  <HairBeast.corePart.parts.16.parts.2.customLabel>오른발</HairBeast.corePart.parts.16.parts.2.customLabel>
+  <HairBeast.corePart.parts.16.parts.2.parts.0.customLabel>오른쪽 새끼발가락</HairBeast.corePart.parts.16.parts.2.parts.0.customLabel>
+  <HairBeast.corePart.parts.16.parts.2.parts.1.customLabel>오른쪽 약지발가락</HairBeast.corePart.parts.16.parts.2.parts.1.customLabel>
+  <HairBeast.corePart.parts.16.parts.2.parts.2.customLabel>오른쪽 중지발가락</HairBeast.corePart.parts.16.parts.2.parts.2.customLabel>
+  <HairBeast.corePart.parts.16.parts.2.parts.3.customLabel>오른쪽 검지발가락</HairBeast.corePart.parts.16.parts.2.parts.3.customLabel>
+  <HairBeast.corePart.parts.16.parts.2.parts.4.customLabel>오른쪽 엄지발가락</HairBeast.corePart.parts.16.parts.2.parts.4.customLabel>
+
+  <!--1542306804_190519_The Zerg!-->
+  <Hydralisk.label>히드라리스크</Hydralisk.label>
+  <Hydralisk.corePart.parts.4.customLabel>왼쪽 폐</Hydralisk.corePart.parts.4.customLabel>
+  <Hydralisk.corePart.parts.5.customLabel>오른쪽 폐</Hydralisk.corePart.parts.5.customLabel>
+  <Hydralisk.corePart.parts.6.customLabel>왼쪽 신장</Hydralisk.corePart.parts.6.customLabel>
+  <Hydralisk.corePart.parts.7.customLabel>오른쪽 신장</Hydralisk.corePart.parts.7.customLabel>
+  <Hydralisk.corePart.parts.9.parts.1.parts.1.customLabel>왼쪽 눈</Hydralisk.corePart.parts.9.parts.1.parts.1.customLabel>
+  <Hydralisk.corePart.parts.9.parts.1.parts.2.customLabel>오른쪽 눈</Hydralisk.corePart.parts.9.parts.1.parts.2.customLabel>
+  <Zergling.label>저글링</Zergling.label>
+  <Zergling.corePart.parts.3.parts.0.parts.1.customLabel>왼쪽 눈</Zergling.corePart.parts.3.parts.0.parts.1.customLabel>
+  <Zergling.corePart.parts.3.parts.0.parts.2.customLabel>오른쪽 눈</Zergling.corePart.parts.3.parts.0.parts.2.customLabel>
+  <Zergling.corePart.parts.4.customLabel>왼다리</Zergling.corePart.parts.4.customLabel>
+  <Zergling.corePart.parts.4.parts.0.customLabel>왼발</Zergling.corePart.parts.4.parts.0.customLabel>
+  <Zergling.corePart.parts.5.customLabel>오른다리</Zergling.corePart.parts.5.customLabel>
+  <Zergling.corePart.parts.5.parts.0.customLabel>오른발</Zergling.corePart.parts.5.parts.0.customLabel>
+  <Zergling.corePart.parts.6.customLabel>오른쪽 앞다리</Zergling.corePart.parts.6.customLabel>
+  <Zergling.corePart.parts.7.customLabel>왼쪽 앞다리</Zergling.corePart.parts.7.customLabel>
+  <Zergling.corePart.parts.9.customLabel>왼쪽 동물 팔</Zergling.corePart.parts.9.customLabel>
+  <Zergling.corePart.parts.10.customLabel>오른쪽 동물 팔</Zergling.corePart.parts.10.customLabel>
+
+  <!--1543566982_190606_Lost Forest-->
+  <LF_HumanBeast.label>LF_수인</LF_HumanBeast.label>
+  <LF_HumanBeast.corePart.parts.6.customLabel>왼쪽 폐</LF_HumanBeast.corePart.parts.6.customLabel>
+  <LF_HumanBeast.corePart.parts.7.customLabel>오른쪽 폐</LF_HumanBeast.corePart.parts.7.customLabel>
+  <LF_HumanBeast.corePart.parts.8.customLabel>왼쪽 신장</LF_HumanBeast.corePart.parts.8.customLabel>
+  <LF_HumanBeast.corePart.parts.9.customLabel>오른쪽 신장</LF_HumanBeast.corePart.parts.9.customLabel>
+  <LF_HumanBeast.corePart.parts.12.parts.0.parts.1.customLabel>왼쪽 눈</LF_HumanBeast.corePart.parts.12.parts.0.parts.1.customLabel>
+  <LF_HumanBeast.corePart.parts.12.parts.0.parts.2.customLabel>오른쪽 눈</LF_HumanBeast.corePart.parts.12.parts.0.parts.2.customLabel>
+  <LF_HumanBeast.corePart.parts.12.parts.0.parts.3.customLabel>왼쪽 귀</LF_HumanBeast.corePart.parts.12.parts.0.parts.3.customLabel>
+  <LF_HumanBeast.corePart.parts.12.parts.0.parts.4.customLabel>오른쪽 귀</LF_HumanBeast.corePart.parts.12.parts.0.parts.4.customLabel>
+  <LF_HumanBeast.corePart.parts.13.customLabel>왼쪽 어깨</LF_HumanBeast.corePart.parts.13.customLabel>
+  <LF_HumanBeast.corePart.parts.13.parts.0.customLabel>왼쪽 쇄골</LF_HumanBeast.corePart.parts.13.parts.0.customLabel>
+  <LF_HumanBeast.corePart.parts.13.parts.1.customLabel>왼쪽 팔</LF_HumanBeast.corePart.parts.13.parts.1.customLabel>
+  <LF_HumanBeast.corePart.parts.13.parts.1.parts.0.customLabel>왼쪽 상완골</LF_HumanBeast.corePart.parts.13.parts.1.parts.0.customLabel>
+  <LF_HumanBeast.corePart.parts.13.parts.1.parts.1.customLabel>왼쪽 요골</LF_HumanBeast.corePart.parts.13.parts.1.parts.1.customLabel>
+  <LF_HumanBeast.corePart.parts.13.parts.1.parts.2.customLabel>왼쪽 손</LF_HumanBeast.corePart.parts.13.parts.1.parts.2.customLabel>
+  <LF_HumanBeast.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>왼쪽 새끼 손가락</LF_HumanBeast.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <LF_HumanBeast.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>왼쪽 넷째 손가락</LF_HumanBeast.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <LF_HumanBeast.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>왼쪽 가운뎃 손가락</LF_HumanBeast.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <LF_HumanBeast.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>왼쪽 집게 손가락</LF_HumanBeast.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <LF_HumanBeast.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>왼쪽 엄지 손가락</LF_HumanBeast.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <LF_HumanBeast.corePart.parts.14.customLabel>오른쪽 어깨</LF_HumanBeast.corePart.parts.14.customLabel>
+  <LF_HumanBeast.corePart.parts.14.parts.0.customLabel>오른쪽 쇄골</LF_HumanBeast.corePart.parts.14.parts.0.customLabel>
+  <LF_HumanBeast.corePart.parts.14.parts.1.customLabel>오른쪽 팔</LF_HumanBeast.corePart.parts.14.parts.1.customLabel>
+  <LF_HumanBeast.corePart.parts.14.parts.1.parts.0.customLabel>오른쪽 상완골</LF_HumanBeast.corePart.parts.14.parts.1.parts.0.customLabel>
+  <LF_HumanBeast.corePart.parts.14.parts.1.parts.1.customLabel>오른쪽 요골</LF_HumanBeast.corePart.parts.14.parts.1.parts.1.customLabel>
+  <LF_HumanBeast.corePart.parts.14.parts.1.parts.2.customLabel>오른쪽 손</LF_HumanBeast.corePart.parts.14.parts.1.parts.2.customLabel>
+  <LF_HumanBeast.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>오른쪽 새끼 손가락</LF_HumanBeast.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <LF_HumanBeast.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>오른쪽 넷째 손가락</LF_HumanBeast.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <LF_HumanBeast.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>오른쪽 가운뎃 손가락</LF_HumanBeast.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <LF_HumanBeast.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>오른쪽 집게 손가락</LF_HumanBeast.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <LF_HumanBeast.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>오른쪽 엄지 손가락</LF_HumanBeast.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <LF_HumanBeast.corePart.parts.16.customLabel>왼쪽 다리</LF_HumanBeast.corePart.parts.16.customLabel>
+  <LF_HumanBeast.corePart.parts.16.parts.0.customLabel>왼쪽 대퇴골</LF_HumanBeast.corePart.parts.16.parts.0.customLabel>
+  <LF_HumanBeast.corePart.parts.16.parts.1.customLabel>왼쪽 정강이뼈</LF_HumanBeast.corePart.parts.16.parts.1.customLabel>
+  <LF_HumanBeast.corePart.parts.16.parts.2.customLabel>왼쪽 발</LF_HumanBeast.corePart.parts.16.parts.2.customLabel>
+  <LF_HumanBeast.corePart.parts.16.parts.2.parts.0.customLabel>왼쪽 새끼 발가락</LF_HumanBeast.corePart.parts.16.parts.2.parts.0.customLabel>
+  <LF_HumanBeast.corePart.parts.16.parts.2.parts.1.customLabel>왼쪽 네번째 발가락</LF_HumanBeast.corePart.parts.16.parts.2.parts.1.customLabel>
+  <LF_HumanBeast.corePart.parts.16.parts.2.parts.2.customLabel>왼쪽 세번째 발가락</LF_HumanBeast.corePart.parts.16.parts.2.parts.2.customLabel>
+  <LF_HumanBeast.corePart.parts.16.parts.2.parts.3.customLabel>왼쪽 두번째 발가락</LF_HumanBeast.corePart.parts.16.parts.2.parts.3.customLabel>
+  <LF_HumanBeast.corePart.parts.16.parts.2.parts.4.customLabel>왼쪽 엄지발가락</LF_HumanBeast.corePart.parts.16.parts.2.parts.4.customLabel>
+  <LF_HumanBeast.corePart.parts.17.customLabel>오른쪽 다리</LF_HumanBeast.corePart.parts.17.customLabel>
+  <LF_HumanBeast.corePart.parts.17.parts.0.customLabel>오른쪽 대퇴골</LF_HumanBeast.corePart.parts.17.parts.0.customLabel>
+  <LF_HumanBeast.corePart.parts.17.parts.1.customLabel>오른쪽 정강이뼈</LF_HumanBeast.corePart.parts.17.parts.1.customLabel>
+  <LF_HumanBeast.corePart.parts.17.parts.2.customLabel>오른쪽 발</LF_HumanBeast.corePart.parts.17.parts.2.customLabel>
+  <LF_HumanBeast.corePart.parts.17.parts.2.parts.0.customLabel>오른쪽 새끼 발가락</LF_HumanBeast.corePart.parts.17.parts.2.parts.0.customLabel>
+  <LF_HumanBeast.corePart.parts.17.parts.2.parts.1.customLabel>오른쪽 네번째 발가락</LF_HumanBeast.corePart.parts.17.parts.2.parts.1.customLabel>
+  <LF_HumanBeast.corePart.parts.17.parts.2.parts.2.customLabel>오른쪽 세번째 발가락</LF_HumanBeast.corePart.parts.17.parts.2.parts.2.customLabel>
+  <LF_HumanBeast.corePart.parts.17.parts.2.parts.3.customLabel>오른쪽 두번째 발가락</LF_HumanBeast.corePart.parts.17.parts.2.parts.3.customLabel>
+  <LF_HumanBeast.corePart.parts.17.parts.2.parts.4.customLabel>오른쪽 엄지발가락</LF_HumanBeast.corePart.parts.17.parts.2.parts.4.customLabel>
+  <LF_HumanDragon.label>LF_용인</LF_HumanDragon.label>
+  <LF_HumanDragon.corePart.parts.8.customLabel>왼쪽 폐</LF_HumanDragon.corePart.parts.8.customLabel>
+  <LF_HumanDragon.corePart.parts.9.customLabel>오른쪽 폐</LF_HumanDragon.corePart.parts.9.customLabel>
+  <LF_HumanDragon.corePart.parts.10.customLabel>왼쪽 신장</LF_HumanDragon.corePart.parts.10.customLabel>
+  <LF_HumanDragon.corePart.parts.11.customLabel>오른쪽 신장</LF_HumanDragon.corePart.parts.11.customLabel>
+  <LF_HumanDragon.corePart.parts.14.parts.0.parts.1.customLabel>왼쪽 눈</LF_HumanDragon.corePart.parts.14.parts.0.parts.1.customLabel>
+  <LF_HumanDragon.corePart.parts.14.parts.0.parts.2.customLabel>오른쪽 눈</LF_HumanDragon.corePart.parts.14.parts.0.parts.2.customLabel>
+  <LF_HumanDragon.corePart.parts.14.parts.0.parts.3.customLabel>왼쪽 귀</LF_HumanDragon.corePart.parts.14.parts.0.parts.3.customLabel>
+  <LF_HumanDragon.corePart.parts.14.parts.0.parts.4.customLabel>오른쪽 귀</LF_HumanDragon.corePart.parts.14.parts.0.parts.4.customLabel>
+  <LF_HumanDragon.corePart.parts.15.customLabel>왼쪽 어깨</LF_HumanDragon.corePart.parts.15.customLabel>
+  <LF_HumanDragon.corePart.parts.15.parts.0.customLabel>왼쪽 쇄골</LF_HumanDragon.corePart.parts.15.parts.0.customLabel>
+  <LF_HumanDragon.corePart.parts.15.parts.1.customLabel>왼쪽 팔</LF_HumanDragon.corePart.parts.15.parts.1.customLabel>
+  <LF_HumanDragon.corePart.parts.15.parts.1.parts.0.customLabel>왼쪽 상완골</LF_HumanDragon.corePart.parts.15.parts.1.parts.0.customLabel>
+  <LF_HumanDragon.corePart.parts.15.parts.1.parts.1.customLabel>왼쪽 요골</LF_HumanDragon.corePart.parts.15.parts.1.parts.1.customLabel>
+  <LF_HumanDragon.corePart.parts.15.parts.1.parts.2.customLabel>왼쪽 손</LF_HumanDragon.corePart.parts.15.parts.1.parts.2.customLabel>
+  <LF_HumanDragon.corePart.parts.15.parts.1.parts.2.parts.0.customLabel>왼쪽 새끼 손가락</LF_HumanDragon.corePart.parts.15.parts.1.parts.2.parts.0.customLabel>
+  <LF_HumanDragon.corePart.parts.15.parts.1.parts.2.parts.1.customLabel>왼쪽 네번째 손가락</LF_HumanDragon.corePart.parts.15.parts.1.parts.2.parts.1.customLabel>
+  <LF_HumanDragon.corePart.parts.15.parts.1.parts.2.parts.2.customLabel>왼쪽 가운뎃 손가락</LF_HumanDragon.corePart.parts.15.parts.1.parts.2.parts.2.customLabel>
+  <LF_HumanDragon.corePart.parts.15.parts.1.parts.2.parts.3.customLabel>왼쪽 집게 손가락</LF_HumanDragon.corePart.parts.15.parts.1.parts.2.parts.3.customLabel>
+  <LF_HumanDragon.corePart.parts.15.parts.1.parts.2.parts.4.customLabel>왼쪽 엄지</LF_HumanDragon.corePart.parts.15.parts.1.parts.2.parts.4.customLabel>
+  <LF_HumanDragon.corePart.parts.16.customLabel>오른쪽 어깨</LF_HumanDragon.corePart.parts.16.customLabel>
+  <LF_HumanDragon.corePart.parts.16.parts.0.customLabel>오른쪽 쇄골</LF_HumanDragon.corePart.parts.16.parts.0.customLabel>
+  <LF_HumanDragon.corePart.parts.16.parts.1.customLabel>오른쪽 팔</LF_HumanDragon.corePart.parts.16.parts.1.customLabel>
+  <LF_HumanDragon.corePart.parts.16.parts.1.parts.0.customLabel>오른쪽 상완골</LF_HumanDragon.corePart.parts.16.parts.1.parts.0.customLabel>
+  <LF_HumanDragon.corePart.parts.16.parts.1.parts.1.customLabel>오른쪽 요골</LF_HumanDragon.corePart.parts.16.parts.1.parts.1.customLabel>
+  <LF_HumanDragon.corePart.parts.16.parts.1.parts.2.customLabel>오른쪽 손</LF_HumanDragon.corePart.parts.16.parts.1.parts.2.customLabel>
+  <LF_HumanDragon.corePart.parts.16.parts.1.parts.2.parts.0.customLabel>오른쪽 새끼 손가락</LF_HumanDragon.corePart.parts.16.parts.1.parts.2.parts.0.customLabel>
+  <LF_HumanDragon.corePart.parts.16.parts.1.parts.2.parts.1.customLabel>오른쪽 넷째 손가락</LF_HumanDragon.corePart.parts.16.parts.1.parts.2.parts.1.customLabel>
+  <LF_HumanDragon.corePart.parts.16.parts.1.parts.2.parts.2.customLabel>오른쪽 가운데 손가락</LF_HumanDragon.corePart.parts.16.parts.1.parts.2.parts.2.customLabel>
+  <LF_HumanDragon.corePart.parts.16.parts.1.parts.2.parts.3.customLabel>오른쪽 집게 손가락</LF_HumanDragon.corePart.parts.16.parts.1.parts.2.parts.3.customLabel>
+  <LF_HumanDragon.corePart.parts.16.parts.1.parts.2.parts.4.customLabel>오른쪽 엄지</LF_HumanDragon.corePart.parts.16.parts.1.parts.2.parts.4.customLabel>
+  <LF_HumanDragon.corePart.parts.18.customLabel>왼쪽 다리</LF_HumanDragon.corePart.parts.18.customLabel>
+  <LF_HumanDragon.corePart.parts.18.parts.0.customLabel>왼쪽 대퇴골</LF_HumanDragon.corePart.parts.18.parts.0.customLabel>
+  <LF_HumanDragon.corePart.parts.18.parts.1.customLabel>왼쪽 정강이뼈</LF_HumanDragon.corePart.parts.18.parts.1.customLabel>
+  <LF_HumanDragon.corePart.parts.18.parts.2.customLabel>왼쪽 발</LF_HumanDragon.corePart.parts.18.parts.2.customLabel>
+  <LF_HumanDragon.corePart.parts.18.parts.2.parts.0.customLabel>왼쪽 새끼 발가락</LF_HumanDragon.corePart.parts.18.parts.2.parts.0.customLabel>
+  <LF_HumanDragon.corePart.parts.18.parts.2.parts.1.customLabel>왼쪽 네번째 발가락</LF_HumanDragon.corePart.parts.18.parts.2.parts.1.customLabel>
+  <LF_HumanDragon.corePart.parts.18.parts.2.parts.2.customLabel>왼쪽 세번째 발가락</LF_HumanDragon.corePart.parts.18.parts.2.parts.2.customLabel>
+  <LF_HumanDragon.corePart.parts.18.parts.2.parts.3.customLabel>왼쪽 두번째 발가락</LF_HumanDragon.corePart.parts.18.parts.2.parts.3.customLabel>
+  <LF_HumanDragon.corePart.parts.18.parts.2.parts.4.customLabel>왼쪽 엄지 발가락</LF_HumanDragon.corePart.parts.18.parts.2.parts.4.customLabel>
+  <LF_HumanDragon.corePart.parts.19.customLabel>오른쪽 다리</LF_HumanDragon.corePart.parts.19.customLabel>
+  <LF_HumanDragon.corePart.parts.19.parts.0.customLabel>오른쪽 대퇴골</LF_HumanDragon.corePart.parts.19.parts.0.customLabel>
+  <LF_HumanDragon.corePart.parts.19.parts.1.customLabel>오른쪽 정강이뼈</LF_HumanDragon.corePart.parts.19.parts.1.customLabel>
+  <LF_HumanDragon.corePart.parts.19.parts.2.customLabel>오른쪽 발</LF_HumanDragon.corePart.parts.19.parts.2.customLabel>
+  <LF_HumanDragon.corePart.parts.19.parts.2.parts.0.customLabel>오른쪽 새끼 발가락</LF_HumanDragon.corePart.parts.19.parts.2.parts.0.customLabel>
+  <LF_HumanDragon.corePart.parts.19.parts.2.parts.1.customLabel>오른쪽 네번째 발가락</LF_HumanDragon.corePart.parts.19.parts.2.parts.1.customLabel>
+  <LF_HumanDragon.corePart.parts.19.parts.2.parts.2.customLabel>오른쪽 세번째 발가락</LF_HumanDragon.corePart.parts.19.parts.2.parts.2.customLabel>
+  <LF_HumanDragon.corePart.parts.19.parts.2.parts.3.customLabel>오른쪽 두번쨰 발가락</LF_HumanDragon.corePart.parts.19.parts.2.parts.3.customLabel>
+  <LF_HumanDragon.corePart.parts.19.parts.2.parts.4.customLabel>오른쪽 엄지 발가락</LF_HumanDragon.corePart.parts.19.parts.2.parts.4.customLabel>
+
+  <!--1590579367_190526_GeneticRim Megafauna Patch-->
+  <GR_MantisBird.label>사마귀새</GR_MantisBird.label>
+  <GR_MantisBird.corePart.parts.0.customLabel>왼쪽 겉날개</GR_MantisBird.corePart.parts.0.customLabel>
+  <GR_MantisBird.corePart.parts.1.customLabel>오른쪽 겉날개</GR_MantisBird.corePart.parts.1.customLabel>
+  <GR_MantisBird.corePart.parts.4.parts.0.parts.1.customLabel>왼쪽 눈</GR_MantisBird.corePart.parts.4.parts.0.parts.1.customLabel>
+  <GR_MantisBird.corePart.parts.4.parts.0.parts.2.customLabel>오른쪽 눈</GR_MantisBird.corePart.parts.4.parts.0.parts.2.customLabel>
+  <GR_MantisBird.corePart.parts.4.parts.0.parts.3.customLabel>왼쪽 더듬이</GR_MantisBird.corePart.parts.4.parts.0.parts.3.customLabel>
+  <GR_MantisBird.corePart.parts.4.parts.0.parts.4.customLabel>오른쪽 더듬이</GR_MantisBird.corePart.parts.4.parts.0.parts.4.customLabel>
+  <GR_MantisBird.corePart.parts.5.customLabel>앞좌측 사마귀 다리</GR_MantisBird.corePart.parts.5.customLabel>
+  <GR_MantisBird.corePart.parts.6.customLabel>앞우측 사마귀 다리</GR_MantisBird.corePart.parts.6.customLabel>
+  <GR_MantisBird.corePart.parts.7.customLabel>왼쪽 다리</GR_MantisBird.corePart.parts.7.customLabel>
+  <GR_MantisBird.corePart.parts.7.parts.0.customLabel>왼쪽 발톱</GR_MantisBird.corePart.parts.7.parts.0.customLabel>
+  <GR_MantisBird.corePart.parts.8.customLabel>오른쪽 다리</GR_MantisBird.corePart.parts.8.customLabel>
+  <GR_MantisBird.corePart.parts.8.parts.0.customLabel>오른쪽 발톱</GR_MantisBird.corePart.parts.8.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.label>네발짐승 동물</GR_QuadrupedAnimalWithPawsAndHorn.label>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.3.customLabel>왼쪽 폐</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.4.customLabel>오른쪽 폐</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.5.customLabel>왼쪽 콩팥</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.5.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.6.customLabel>오른쪽 콩팥</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.6.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.8.parts.0.parts.1.customLabel>왼쪽 눈</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.8.parts.0.parts.1.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.8.parts.0.parts.2.customLabel>오른쪽 눈</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.8.parts.0.parts.2.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.8.parts.0.parts.3.customLabel>왼쪽 귀</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.8.parts.0.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.8.parts.0.parts.4.customLabel>오른쪽 귀</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.8.parts.0.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.9.customLabel>왼쪽 앞디리</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.9.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.9.parts.0.customLabel>왼쪽 앞발</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.9.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.10.customLabel>오른쪽 앞다리</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.10.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.10.parts.0.customLabel>오른쪽 앞발</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.10.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.11.customLabel>왼쪽 뒷다리</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.11.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.11.parts.0.customLabel>왼쪽 뒷발</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.11.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.12.customLabel>오른쪽 뒷다리</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.12.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.12.parts.0.customLabel>오른쪽 뒷발</GR_QuadrupedAnimalWithPawsAndHorn.corePart.parts.12.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.label>네발짐승 동물</GR_QuadrupedAnimalWithPawsAndTusks.label>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.4.customLabel>왼쪽 폐</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.5.customLabel>오른쪽 폐</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.5.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.6.customLabel>왼쪽 콩팥</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.6.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.7.customLabel>오른쪽 콩팥</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.7.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.9.parts.0.parts.1.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.9.parts.0.parts.2.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.9.parts.0.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.9.parts.0.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.9.parts.0.parts.6.parts.0.customLabel>왼쪽 엄니</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.9.parts.0.parts.6.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.9.parts.0.parts.6.parts.1.customLabel>오른쪽 엄니</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.9.parts.0.parts.6.parts.1.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.10.customLabel>왼쪽 앞디리</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.10.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.10.parts.0.customLabel>왼쪽 앞발</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.10.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.11.customLabel>오른쪽 앞다리</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.11.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.11.parts.0.customLabel>오른쪽 앞발</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.11.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.12.customLabel>왼쪽 뒷다리</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.12.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.12.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.13.customLabel>오른쪽 뒷다리</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.13.customLabel>
+  <GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발</GR_QuadrupedAnimalWithPawsAndTusks.corePart.parts.13.parts.0.customLabel>
+
+  <!--1658356618_190519_GeneticRim Alpha Animals Patch-->
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 첫 째 눈</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.1.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.3.customLabel>오른쪽 첫 째 눈</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.10.customLabel>왼쪽 앞다리</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.10.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.10.customLabel>왼쪽 앞다리</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.10.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.10.parts.0.customLabel>왼쪽 앞발톱</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.10.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.10.parts.0.customLabel>왼쪽 앞발톱</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.10.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.11.customLabel>오른쪽 앞다리</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.11.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.11.customLabel>오른쪽 앞다리</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.11.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.11.parts.0.customLabel>오른쪽 앞발톱</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.11.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.11.parts.0.customLabel>오른쪽 앞발톱</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.11.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.4.customLabel>왼쪽 귀</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.5.customLabel>왼쪽 귀</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.5.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.2.customLabel>왼쪽 눈</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.2.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.6.customLabel>왼쪽 신장</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.6.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.6.customLabel>왼쪽 신장</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.6.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.4.customLabel>왼쪽 폐</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.4.customLabel>왼쪽 폐</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.label>사족 동물</GR_QuadrupedAnimalWithPawsHornAndTail.label>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.label>사족 동물</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.label>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발굽</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.12.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.12.customLabel>왼쪽 뒷다리</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.12.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.12.customLabel>왼쪽 뒷다리</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.12.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발톱</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.12.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발굽</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.13.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.13.customLabel>오른쪽 뒷다리</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.13.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.13.customLabel>오른쪽 뒷다리</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.13.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발톱</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.13.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.5.customLabel>오른쪽 귀</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.5.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.6.customLabel>오른쪽 귀</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.6.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.3.customLabel>오른쪽 눈</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.7.customLabel>오른쪽 신장</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.7.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.7.customLabel>오른쪽 신장</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.7.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.5.customLabel>오른쪽 폐</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.5.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.5.customLabel>오른쪽 폐</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.5.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.2.customLabel>왼쪽 둘 째 눈</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.2.customLabel>
+  <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 둘 째 눈</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.4.customLabel>
+
+  <!--1821617793_190811_Magical Menagerie-->
+  <MM_AhuizotlBody.label>꼬리에 손이 달린 사족 동물</MM_AhuizotlBody.label>
+  <MM_AhuizotlBody.corePart.parts.0.parts.0.customLabel>손</MM_AhuizotlBody.corePart.parts.0.parts.0.customLabel>
+  <MM_AhuizotlBody.corePart.parts.0.parts.0.parts.0.customLabel>오른쪽 새끼손가락</MM_AhuizotlBody.corePart.parts.0.parts.0.parts.0.customLabel>
+  <MM_AhuizotlBody.corePart.parts.0.parts.0.parts.1.customLabel>오른쪽 약지</MM_AhuizotlBody.corePart.parts.0.parts.0.parts.1.customLabel>
+  <MM_AhuizotlBody.corePart.parts.0.parts.0.parts.2.customLabel>오른쪽 중지</MM_AhuizotlBody.corePart.parts.0.parts.0.parts.2.customLabel>
+  <MM_AhuizotlBody.corePart.parts.0.parts.0.parts.3.customLabel>오른쪽 검지</MM_AhuizotlBody.corePart.parts.0.parts.0.parts.3.customLabel>
+  <MM_AhuizotlBody.corePart.parts.0.parts.0.parts.4.customLabel>오른쪽 엄지</MM_AhuizotlBody.corePart.parts.0.parts.0.parts.4.customLabel>
+  <MM_AhuizotlBody.corePart.parts.4.customLabel>왼쪽 폐</MM_AhuizotlBody.corePart.parts.4.customLabel>
+  <MM_AhuizotlBody.corePart.parts.5.customLabel>오른쪽 폐</MM_AhuizotlBody.corePart.parts.5.customLabel>
+  <MM_AhuizotlBody.corePart.parts.6.customLabel>왼쪽 신장</MM_AhuizotlBody.corePart.parts.6.customLabel>
+  <MM_AhuizotlBody.corePart.parts.7.customLabel>오른쪽 신장</MM_AhuizotlBody.corePart.parts.7.customLabel>
+  <MM_AhuizotlBody.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</MM_AhuizotlBody.corePart.parts.9.parts.0.parts.1.customLabel>
+  <MM_AhuizotlBody.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</MM_AhuizotlBody.corePart.parts.9.parts.0.parts.2.customLabel>
+  <MM_AhuizotlBody.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</MM_AhuizotlBody.corePart.parts.9.parts.0.parts.3.customLabel>
+  <MM_AhuizotlBody.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</MM_AhuizotlBody.corePart.parts.9.parts.0.parts.4.customLabel>
+  <MM_AhuizotlBody.corePart.parts.10.customLabel>왼쪽 앞다리</MM_AhuizotlBody.corePart.parts.10.customLabel>
+  <MM_AhuizotlBody.corePart.parts.10.parts.0.customLabel>왼쪽 앞발톱</MM_AhuizotlBody.corePart.parts.10.parts.0.customLabel>
+  <MM_AhuizotlBody.corePart.parts.11.customLabel>오른쪽 앞다리</MM_AhuizotlBody.corePart.parts.11.customLabel>
+  <MM_AhuizotlBody.corePart.parts.11.parts.0.customLabel>오른쪽 앞발톱</MM_AhuizotlBody.corePart.parts.11.parts.0.customLabel>
+  <MM_AhuizotlBody.corePart.parts.12.customLabel>왼쪽 뒷다리</MM_AhuizotlBody.corePart.parts.12.customLabel>
+  <MM_AhuizotlBody.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발톱</MM_AhuizotlBody.corePart.parts.12.parts.0.customLabel>
+  <MM_AhuizotlBody.corePart.parts.13.customLabel>오른쪽 뒷다리</MM_AhuizotlBody.corePart.parts.13.customLabel>
+  <MM_AhuizotlBody.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발톱</MM_AhuizotlBody.corePart.parts.13.parts.0.customLabel>
+  <MM_Chimera_Body.label>키메라</MM_Chimera_Body.label>
+  <MM_Chimera_Body.corePart.parts.0.parts.0.parts.1.customLabel>왼쪽 눈</MM_Chimera_Body.corePart.parts.0.parts.0.parts.1.customLabel>
+  <MM_Chimera_Body.corePart.parts.0.parts.0.parts.2.customLabel>오른쪽 눈</MM_Chimera_Body.corePart.parts.0.parts.0.parts.2.customLabel>
+  <MM_Chimera_Body.corePart.parts.2.parts.1.customLabel>왼쪽 눈</MM_Chimera_Body.corePart.parts.2.parts.1.customLabel>
+  <MM_Chimera_Body.corePart.parts.2.parts.2.customLabel>오른쪽 눈</MM_Chimera_Body.corePart.parts.2.parts.2.customLabel>
+  <MM_Chimera_Body.corePart.parts.2.parts.3.customLabel>왼쪽 귀</MM_Chimera_Body.corePart.parts.2.parts.3.customLabel>
+  <MM_Chimera_Body.corePart.parts.2.parts.4.customLabel>오른쪽 귀</MM_Chimera_Body.corePart.parts.2.parts.4.customLabel>
+  <MM_Chimera_Body.corePart.parts.5.customLabel>왼쪽 폐</MM_Chimera_Body.corePart.parts.5.customLabel>
+  <MM_Chimera_Body.corePart.parts.6.customLabel>오른쪽 폐</MM_Chimera_Body.corePart.parts.6.customLabel>
+  <MM_Chimera_Body.corePart.parts.7.customLabel>왼쪽 신장</MM_Chimera_Body.corePart.parts.7.customLabel>
+  <MM_Chimera_Body.corePart.parts.8.customLabel>오른쪽 신장</MM_Chimera_Body.corePart.parts.8.customLabel>
+  <MM_Chimera_Body.corePart.parts.10.parts.0.parts.1.customLabel>왼쪽 눈</MM_Chimera_Body.corePart.parts.10.parts.0.parts.1.customLabel>
+  <MM_Chimera_Body.corePart.parts.10.parts.0.parts.2.customLabel>오른쪽 눈</MM_Chimera_Body.corePart.parts.10.parts.0.parts.2.customLabel>
+  <MM_Chimera_Body.corePart.parts.10.parts.0.parts.3.customLabel>왼쪽 귀</MM_Chimera_Body.corePart.parts.10.parts.0.parts.3.customLabel>
+  <MM_Chimera_Body.corePart.parts.10.parts.0.parts.4.customLabel>오른쪽 귀</MM_Chimera_Body.corePart.parts.10.parts.0.parts.4.customLabel>
+  <MM_Chimera_Body.corePart.parts.11.customLabel>왼쪽 앞다리</MM_Chimera_Body.corePart.parts.11.customLabel>
+  <MM_Chimera_Body.corePart.parts.11.parts.0.customLabel>왼쪽 앞발톱</MM_Chimera_Body.corePart.parts.11.parts.0.customLabel>
+  <MM_Chimera_Body.corePart.parts.12.customLabel>오른쪽 앞다리</MM_Chimera_Body.corePart.parts.12.customLabel>
+  <MM_Chimera_Body.corePart.parts.12.parts.0.customLabel>오른쪽 앞발톱</MM_Chimera_Body.corePart.parts.12.parts.0.customLabel>
+  <MM_Chimera_Body.corePart.parts.13.customLabel>왼쪽 뒷다리</MM_Chimera_Body.corePart.parts.13.customLabel>
+  <MM_Chimera_Body.corePart.parts.13.parts.0.customLabel>왼쪽 뒷발톱</MM_Chimera_Body.corePart.parts.13.parts.0.customLabel>
+  <MM_Chimera_Body.corePart.parts.14.customLabel>오른쪽 뒷다리</MM_Chimera_Body.corePart.parts.14.customLabel>
+  <MM_Chimera_Body.corePart.parts.14.parts.0.customLabel>오른쪽 뒷발톱</MM_Chimera_Body.corePart.parts.14.parts.0.customLabel>
+  <MM_Hydra.label>히드라</MM_Hydra.label>
+  <MM_Hydra.corePart.parts.2.customLabel>왼쪽 폐</MM_Hydra.corePart.parts.2.customLabel>
+  <MM_Hydra.corePart.parts.3.customLabel>오른쪽 폐</MM_Hydra.corePart.parts.3.customLabel>
+  <MM_Hydra.corePart.parts.4.customLabel>왼쪽 신장</MM_Hydra.corePart.parts.4.customLabel>
+  <MM_Hydra.corePart.parts.5.customLabel>오른쪽 신장</MM_Hydra.corePart.parts.5.customLabel>
+  <MM_Hydra.corePart.parts.7.parts.1.customLabel>왼쪽 눈</MM_Hydra.corePart.parts.7.parts.1.customLabel>
+  <MM_Hydra.corePart.parts.7.parts.2.customLabel>오른쪽 눈</MM_Hydra.corePart.parts.7.parts.2.customLabel>
+  <MM_Hydra.corePart.parts.8.parts.1.customLabel>왼쪽 눈</MM_Hydra.corePart.parts.8.parts.1.customLabel>
+  <MM_Hydra.corePart.parts.8.parts.2.customLabel>오른쪽 눈</MM_Hydra.corePart.parts.8.parts.2.customLabel>
+  <MM_Hydra.corePart.parts.9.parts.1.customLabel>왼쪽 눈</MM_Hydra.corePart.parts.9.parts.1.customLabel>
+  <MM_Hydra.corePart.parts.9.parts.2.customLabel>오른쪽 눈</MM_Hydra.corePart.parts.9.parts.2.customLabel>
+  <MM_Hydra.corePart.parts.10.parts.1.customLabel>왼쪽 눈</MM_Hydra.corePart.parts.10.parts.1.customLabel>
+  <MM_Hydra.corePart.parts.10.parts.2.customLabel>오른쪽 눈</MM_Hydra.corePart.parts.10.parts.2.customLabel>
+  <MM_Hydra.corePart.parts.11.parts.1.customLabel>왼쪽 눈</MM_Hydra.corePart.parts.11.parts.1.customLabel>
+  <MM_Hydra.corePart.parts.11.parts.2.customLabel>오른쪽 눈</MM_Hydra.corePart.parts.11.parts.2.customLabel>
+  <MM_Hydra.corePart.parts.12.parts.1.customLabel>왼쪽 눈</MM_Hydra.corePart.parts.12.parts.1.customLabel>
+  <MM_Hydra.corePart.parts.12.parts.2.customLabel>오른쪽 눈</MM_Hydra.corePart.parts.12.parts.2.customLabel>
+  <MM_Hydra.corePart.parts.13.customLabel>왼쪽 앞다리</MM_Hydra.corePart.parts.13.customLabel>
+  <MM_Hydra.corePart.parts.13.parts.0.customLabel>왼쪽 앞발굽</MM_Hydra.corePart.parts.13.parts.0.customLabel>
+  <MM_Hydra.corePart.parts.14.customLabel>오른쪽 앞다리</MM_Hydra.corePart.parts.14.customLabel>
+  <MM_Hydra.corePart.parts.14.parts.0.customLabel>오른쪽 앞발굽</MM_Hydra.corePart.parts.14.parts.0.customLabel>
+  <MM_Hydra.corePart.parts.15.customLabel>왼쪽 뒷다리</MM_Hydra.corePart.parts.15.customLabel>
+  <MM_Hydra.corePart.parts.15.parts.0.customLabel>왼쪽 뒷발굽</MM_Hydra.corePart.parts.15.parts.0.customLabel>
+  <MM_Hydra.corePart.parts.16.customLabel>오른쪽 뒷다리</MM_Hydra.corePart.parts.16.customLabel>
+  <MM_Hydra.corePart.parts.16.parts.0.customLabel>오른쪽 뒷발굽</MM_Hydra.corePart.parts.16.parts.0.customLabel>
+  <MM_ManticoreBody.label>만티코어</MM_ManticoreBody.label>
+  <MM_ManticoreBody.corePart.parts.1.customLabel>왼쪽 날개</MM_ManticoreBody.corePart.parts.1.customLabel>
+  <MM_ManticoreBody.corePart.parts.2.customLabel>오른쪽 날개</MM_ManticoreBody.corePart.parts.2.customLabel>
+  <MM_ManticoreBody.corePart.parts.6.customLabel>왼쪽 폐</MM_ManticoreBody.corePart.parts.6.customLabel>
+  <MM_ManticoreBody.corePart.parts.7.customLabel>오른쪽 폐</MM_ManticoreBody.corePart.parts.7.customLabel>
+  <MM_ManticoreBody.corePart.parts.8.customLabel>왼쪽 신장</MM_ManticoreBody.corePart.parts.8.customLabel>
+  <MM_ManticoreBody.corePart.parts.9.customLabel>오른쪽 신장</MM_ManticoreBody.corePart.parts.9.customLabel>
+  <MM_ManticoreBody.corePart.parts.11.parts.0.parts.1.customLabel>왼쪽 눈</MM_ManticoreBody.corePart.parts.11.parts.0.parts.1.customLabel>
+  <MM_ManticoreBody.corePart.parts.11.parts.0.parts.2.customLabel>오른쪽 눈</MM_ManticoreBody.corePart.parts.11.parts.0.parts.2.customLabel>
+  <MM_ManticoreBody.corePart.parts.11.parts.0.parts.3.customLabel>왼쪽 귀</MM_ManticoreBody.corePart.parts.11.parts.0.parts.3.customLabel>
+  <MM_ManticoreBody.corePart.parts.11.parts.0.parts.4.customLabel>오른쪽 귀</MM_ManticoreBody.corePart.parts.11.parts.0.parts.4.customLabel>
+  <MM_ManticoreBody.corePart.parts.12.customLabel>왼쪽 앞다리</MM_ManticoreBody.corePart.parts.12.customLabel>
+  <MM_ManticoreBody.corePart.parts.12.parts.0.customLabel>왼쪽 앞발톱</MM_ManticoreBody.corePart.parts.12.parts.0.customLabel>
+  <MM_ManticoreBody.corePart.parts.13.customLabel>오른쪽 앞다리</MM_ManticoreBody.corePart.parts.13.customLabel>
+  <MM_ManticoreBody.corePart.parts.13.parts.0.customLabel>오른쪽 앞발톱</MM_ManticoreBody.corePart.parts.13.parts.0.customLabel>
+  <MM_ManticoreBody.corePart.parts.14.customLabel>왼쪽 뒷다리</MM_ManticoreBody.corePart.parts.14.customLabel>
+  <MM_ManticoreBody.corePart.parts.14.parts.0.customLabel>왼쪽 뒷발톱</MM_ManticoreBody.corePart.parts.14.parts.0.customLabel>
+  <MM_ManticoreBody.corePart.parts.15.customLabel>오른쪽 뒷다리</MM_ManticoreBody.corePart.parts.15.customLabel>
+  <MM_ManticoreBody.corePart.parts.15.parts.0.customLabel>오른쪽 뒷발톱</MM_ManticoreBody.corePart.parts.15.parts.0.customLabel>
+  <MM_PegasusBody.label>발굽과 날개가 달린 사족 동물</MM_PegasusBody.label>
+  <MM_PegasusBody.corePart.parts.1.customLabel>왼쪽 날개</MM_PegasusBody.corePart.parts.1.customLabel>
+  <MM_PegasusBody.corePart.parts.2.customLabel>오른쪽 날개</MM_PegasusBody.corePart.parts.2.customLabel>
+  <MM_PegasusBody.corePart.parts.5.customLabel>왼쪽 폐</MM_PegasusBody.corePart.parts.5.customLabel>
+  <MM_PegasusBody.corePart.parts.6.customLabel>오른쪽 폐</MM_PegasusBody.corePart.parts.6.customLabel>
+  <MM_PegasusBody.corePart.parts.7.customLabel>왼쪽 신장</MM_PegasusBody.corePart.parts.7.customLabel>
+  <MM_PegasusBody.corePart.parts.8.customLabel>오른쪽 신장</MM_PegasusBody.corePart.parts.8.customLabel>
+  <MM_PegasusBody.corePart.parts.10.parts.0.parts.1.customLabel>왼쪽 눈</MM_PegasusBody.corePart.parts.10.parts.0.parts.1.customLabel>
+  <MM_PegasusBody.corePart.parts.10.parts.0.parts.2.customLabel>오른쪽 눈</MM_PegasusBody.corePart.parts.10.parts.0.parts.2.customLabel>
+  <MM_PegasusBody.corePart.parts.10.parts.0.parts.3.customLabel>왼쪽 귀</MM_PegasusBody.corePart.parts.10.parts.0.parts.3.customLabel>
+  <MM_PegasusBody.corePart.parts.10.parts.0.parts.4.customLabel>오른쪽 귀</MM_PegasusBody.corePart.parts.10.parts.0.parts.4.customLabel>
+  <MM_PegasusBody.corePart.parts.11.customLabel>왼쪽 앞다리</MM_PegasusBody.corePart.parts.11.customLabel>
+  <MM_PegasusBody.corePart.parts.11.parts.0.customLabel>왼쪽 앞발굽</MM_PegasusBody.corePart.parts.11.parts.0.customLabel>
+  <MM_PegasusBody.corePart.parts.12.customLabel>오른쪽 앞다리</MM_PegasusBody.corePart.parts.12.customLabel>
+  <MM_PegasusBody.corePart.parts.12.parts.0.customLabel>오른쪽 앞발굽</MM_PegasusBody.corePart.parts.12.parts.0.customLabel>
+  <MM_PegasusBody.corePart.parts.13.customLabel>왼쪽 뒷다리</MM_PegasusBody.corePart.parts.13.customLabel>
+  <MM_PegasusBody.corePart.parts.13.parts.0.customLabel>왼쪽 뒷발굽</MM_PegasusBody.corePart.parts.13.parts.0.customLabel>
+  <MM_PegasusBody.corePart.parts.14.customLabel>오른쪽 뒷다리</MM_PegasusBody.corePart.parts.14.customLabel>
+  <MM_PegasusBody.corePart.parts.14.parts.0.customLabel>오른쪽 뒷발굽</MM_PegasusBody.corePart.parts.14.parts.0.customLabel>
+  <MM_QilinBody.label>발굽과 뿔이 달린 사족 동물</MM_QilinBody.label>
+  <MM_QilinBody.corePart.parts.3.customLabel>왼쪽 폐</MM_QilinBody.corePart.parts.3.customLabel>
+  <MM_QilinBody.corePart.parts.4.customLabel>오른쪽 폐</MM_QilinBody.corePart.parts.4.customLabel>
+  <MM_QilinBody.corePart.parts.5.customLabel>왼쪽 신장</MM_QilinBody.corePart.parts.5.customLabel>
+  <MM_QilinBody.corePart.parts.6.customLabel>오른쪽 신장</MM_QilinBody.corePart.parts.6.customLabel>
+  <MM_QilinBody.corePart.parts.8.parts.0.parts.2.customLabel>왼쪽 눈</MM_QilinBody.corePart.parts.8.parts.0.parts.2.customLabel>
+  <MM_QilinBody.corePart.parts.8.parts.0.parts.3.customLabel>오른쪽 눈</MM_QilinBody.corePart.parts.8.parts.0.parts.3.customLabel>
+  <MM_QilinBody.corePart.parts.8.parts.0.parts.4.customLabel>왼쪽 귀</MM_QilinBody.corePart.parts.8.parts.0.parts.4.customLabel>
+  <MM_QilinBody.corePart.parts.8.parts.0.parts.5.customLabel>오른쪽 귀</MM_QilinBody.corePart.parts.8.parts.0.parts.5.customLabel>
+  <MM_QilinBody.corePart.parts.9.customLabel>왼쪽 앞다리</MM_QilinBody.corePart.parts.9.customLabel>
+  <MM_QilinBody.corePart.parts.9.parts.0.customLabel>왼쪽 앞발굽</MM_QilinBody.corePart.parts.9.parts.0.customLabel>
+  <MM_QilinBody.corePart.parts.10.customLabel>오른쪽 앞다리</MM_QilinBody.corePart.parts.10.customLabel>
+  <MM_QilinBody.corePart.parts.10.parts.0.customLabel>오른쪽 앞발굽</MM_QilinBody.corePart.parts.10.parts.0.customLabel>
+  <MM_QilinBody.corePart.parts.11.customLabel>왼쪽 뒷다리</MM_QilinBody.corePart.parts.11.customLabel>
+  <MM_QilinBody.corePart.parts.11.parts.0.customLabel>왼쪽 뒷발굽</MM_QilinBody.corePart.parts.11.parts.0.customLabel>
+  <MM_QilinBody.corePart.parts.12.customLabel>오른쪽 뒷다리</MM_QilinBody.corePart.parts.12.customLabel>
+  <MM_QilinBody.corePart.parts.12.parts.0.customLabel>오른쪽 뒷발굽</MM_QilinBody.corePart.parts.12.parts.0.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.label>부리와 날개가 달린 사족 동물</MM_QuadrupedAnimalWithBeakAndWings.label>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.3.customLabel>왼쪽 폐</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.3.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.4.customLabel>오른쪽 폐</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.4.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.5.customLabel>왼쪽 신장</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.5.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.6.customLabel>오른쪽 신장</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.6.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.8.customLabel>오른쪽 날개</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.8.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.9.customLabel>왼쪽 날개</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.9.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.10.parts.0.parts.1.customLabel>왼쪽 눈</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.10.parts.0.parts.1.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.10.parts.0.parts.2.customLabel>오른쪽 눈</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.10.parts.0.parts.2.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.10.parts.0.parts.3.customLabel>왼쪽 귀</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.10.parts.0.parts.3.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.10.parts.0.parts.4.customLabel>오른쪽 귀</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.10.parts.0.parts.4.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.11.customLabel>왼쪽 앞다리</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.11.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.11.parts.0.customLabel>왼쪽 앞발톱</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.11.parts.0.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.12.customLabel>오른쪽 앞다리</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.12.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.12.parts.0.customLabel>오른쪽 앞발톱</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.12.parts.0.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.13.customLabel>왼쪽 뒷다리</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.13.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.13.parts.0.customLabel>왼쪽 뒷발톱</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.13.parts.0.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.14.customLabel>오른쪽 뒷다리</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.14.customLabel>
+  <MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.14.parts.0.customLabel>오른쪽 뒷발톱</MM_QuadrupedAnimalWithBeakAndWings.corePart.parts.14.parts.0.customLabel>
+  <MM_Wisp.label>위습</MM_Wisp.label>
+  <MM_MinotaurBody.label>미노타우르</MM_MinotaurBody.label>
+  <MM_MinotaurBody.corePart.parts.6.customLabel>왼쪽 폐</MM_MinotaurBody.corePart.parts.6.customLabel>
+  <MM_MinotaurBody.corePart.parts.7.customLabel>오른쪽 폐</MM_MinotaurBody.corePart.parts.7.customLabel>
+  <MM_MinotaurBody.corePart.parts.8.customLabel>왼쪽 신장</MM_MinotaurBody.corePart.parts.8.customLabel>
+  <MM_MinotaurBody.corePart.parts.9.customLabel>오른쪽 신장</MM_MinotaurBody.corePart.parts.9.customLabel>
+  <MM_MinotaurBody.corePart.parts.11.parts.0.parts.2.customLabel>왼쪽 눈</MM_MinotaurBody.corePart.parts.11.parts.0.parts.2.customLabel>
+  <MM_MinotaurBody.corePart.parts.11.parts.0.parts.3.customLabel>오른쪽 눈</MM_MinotaurBody.corePart.parts.11.parts.0.parts.3.customLabel>
+  <MM_MinotaurBody.corePart.parts.11.parts.0.parts.4.customLabel>왼쪽 귀</MM_MinotaurBody.corePart.parts.11.parts.0.parts.4.customLabel>
+  <MM_MinotaurBody.corePart.parts.11.parts.0.parts.5.customLabel>오른쪽 귀</MM_MinotaurBody.corePart.parts.11.parts.0.parts.5.customLabel>
+  <MM_MinotaurBody.corePart.parts.12.customLabel>왼쪽 어께</MM_MinotaurBody.corePart.parts.12.customLabel>
+  <MM_MinotaurBody.corePart.parts.12.parts.0.customLabel>왼쪽 쇄골</MM_MinotaurBody.corePart.parts.12.parts.0.customLabel>
+  <MM_MinotaurBody.corePart.parts.12.parts.1.customLabel>왼 팔</MM_MinotaurBody.corePart.parts.12.parts.1.customLabel>
+  <MM_MinotaurBody.corePart.parts.12.parts.1.parts.0.customLabel>왼쪽 상완골</MM_MinotaurBody.corePart.parts.12.parts.1.parts.0.customLabel>
+  <MM_MinotaurBody.corePart.parts.12.parts.1.parts.1.customLabel>왼쪽 요골</MM_MinotaurBody.corePart.parts.12.parts.1.parts.1.customLabel>
+  <MM_MinotaurBody.corePart.parts.12.parts.1.parts.2.customLabel>왼 손</MM_MinotaurBody.corePart.parts.12.parts.1.parts.2.customLabel>
+  <MM_MinotaurBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>왼쪽 새끼손가락</MM_MinotaurBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <MM_MinotaurBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>왼쪽 약지</MM_MinotaurBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <MM_MinotaurBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>왼쪽 중지</MM_MinotaurBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <MM_MinotaurBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>왼쪽 검지</MM_MinotaurBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <MM_MinotaurBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>왼쪽 엄지</MM_MinotaurBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <MM_MinotaurBody.corePart.parts.13.customLabel>오른쪽 어께</MM_MinotaurBody.corePart.parts.13.customLabel>
+  <MM_MinotaurBody.corePart.parts.13.parts.0.customLabel>오른쪽 쇄골</MM_MinotaurBody.corePart.parts.13.parts.0.customLabel>
+  <MM_MinotaurBody.corePart.parts.13.parts.1.customLabel>오른 팔</MM_MinotaurBody.corePart.parts.13.parts.1.customLabel>
+  <MM_MinotaurBody.corePart.parts.13.parts.1.parts.0.customLabel>오른쪽 상완골</MM_MinotaurBody.corePart.parts.13.parts.1.parts.0.customLabel>
+  <MM_MinotaurBody.corePart.parts.13.parts.1.parts.1.customLabel>오른쪽 요골</MM_MinotaurBody.corePart.parts.13.parts.1.parts.1.customLabel>
+  <MM_MinotaurBody.corePart.parts.13.parts.1.parts.2.customLabel>오른 손</MM_MinotaurBody.corePart.parts.13.parts.1.parts.2.customLabel>
+  <MM_MinotaurBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>오른쪽 새끼손가락</MM_MinotaurBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <MM_MinotaurBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>오른쪽 약지</MM_MinotaurBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <MM_MinotaurBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>오른쪽 중지</MM_MinotaurBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <MM_MinotaurBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>오른쪽 검지</MM_MinotaurBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <MM_MinotaurBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>오른쪽 엄지</MM_MinotaurBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <MM_MinotaurBody.corePart.parts.15.customLabel>왼다리</MM_MinotaurBody.corePart.parts.15.customLabel>
+  <MM_MinotaurBody.corePart.parts.15.parts.0.customLabel>왼쪽 대퇴골</MM_MinotaurBody.corePart.parts.15.parts.0.customLabel>
+  <MM_MinotaurBody.corePart.parts.15.parts.1.customLabel>왼쪽 정강이뼈</MM_MinotaurBody.corePart.parts.15.parts.1.customLabel>
+  <MM_MinotaurBody.corePart.parts.15.parts.2.customLabel>왼발</MM_MinotaurBody.corePart.parts.15.parts.2.customLabel>
+  <MM_MinotaurBody.corePart.parts.15.parts.2.parts.0.customLabel>왼쪽 새끼발가락</MM_MinotaurBody.corePart.parts.15.parts.2.parts.0.customLabel>
+  <MM_MinotaurBody.corePart.parts.15.parts.2.parts.1.customLabel>왼쪽 약지발가락</MM_MinotaurBody.corePart.parts.15.parts.2.parts.1.customLabel>
+  <MM_MinotaurBody.corePart.parts.15.parts.2.parts.2.customLabel>왼쪽 중지발가락</MM_MinotaurBody.corePart.parts.15.parts.2.parts.2.customLabel>
+  <MM_MinotaurBody.corePart.parts.15.parts.2.parts.3.customLabel>왼쪽 검지발가락</MM_MinotaurBody.corePart.parts.15.parts.2.parts.3.customLabel>
+  <MM_MinotaurBody.corePart.parts.15.parts.2.parts.4.customLabel>왼쪽 엄지발가락</MM_MinotaurBody.corePart.parts.15.parts.2.parts.4.customLabel>
+  <MM_MinotaurBody.corePart.parts.16.customLabel>오른다리</MM_MinotaurBody.corePart.parts.16.customLabel>
+  <MM_MinotaurBody.corePart.parts.16.parts.0.customLabel>오른쪽 대퇴골</MM_MinotaurBody.corePart.parts.16.parts.0.customLabel>
+  <MM_MinotaurBody.corePart.parts.16.parts.1.customLabel>오른쪽 정강이뼈</MM_MinotaurBody.corePart.parts.16.parts.1.customLabel>
+  <MM_MinotaurBody.corePart.parts.16.parts.2.customLabel>오른발</MM_MinotaurBody.corePart.parts.16.parts.2.customLabel>
+  <MM_MinotaurBody.corePart.parts.16.parts.2.parts.0.customLabel>오른쪽 새끼발가락</MM_MinotaurBody.corePart.parts.16.parts.2.parts.0.customLabel>
+  <MM_MinotaurBody.corePart.parts.16.parts.2.parts.1.customLabel>오른쪽 약지발가락</MM_MinotaurBody.corePart.parts.16.parts.2.parts.1.customLabel>
+  <MM_MinotaurBody.corePart.parts.16.parts.2.parts.2.customLabel>오른쪽 중지발가락</MM_MinotaurBody.corePart.parts.16.parts.2.parts.2.customLabel>
+  <MM_MinotaurBody.corePart.parts.16.parts.2.parts.3.customLabel>오른쪽 검지발가락</MM_MinotaurBody.corePart.parts.16.parts.2.parts.3.customLabel>
+  <MM_MinotaurBody.corePart.parts.16.parts.2.parts.4.customLabel>오른쪽 엄지발가락</MM_MinotaurBody.corePart.parts.16.parts.2.parts.4.customLabel>
+
+  <!--949283405_190618_AnimalCollabProj-->
+  <AntLike.label>개미 류</AntLike.label>
+  <AntLike.corePart.parts.0.customLabel>왼쪽 겉날개</AntLike.corePart.parts.0.customLabel>
+  <AntLike.corePart.parts.1.customLabel>오른쪽 겉날개</AntLike.corePart.parts.1.customLabel>
+  <AntLike.corePart.parts.4.parts.0.parts.1.customLabel>왼쪽 눈</AntLike.corePart.parts.4.parts.0.parts.1.customLabel>
+  <AntLike.corePart.parts.4.parts.0.parts.2.customLabel>오른쪽 눈</AntLike.corePart.parts.4.parts.0.parts.2.customLabel>
+  <AntLike.corePart.parts.4.parts.0.parts.3.customLabel>왼쪽 더듬이</AntLike.corePart.parts.4.parts.0.parts.3.customLabel>
+  <AntLike.corePart.parts.4.parts.0.parts.4.customLabel>왼쪽</AntLike.corePart.parts.4.parts.0.parts.4.customLabel>
+  <AntLike.corePart.parts.5.customLabel>왼쪽 앞다리</AntLike.corePart.parts.5.customLabel>
+  <AntLike.corePart.parts.6.customLabel>오른쪽 앞다리</AntLike.corePart.parts.6.customLabel>
+  <AntLike.corePart.parts.7.customLabel>왼쪽 중간다리</AntLike.corePart.parts.7.customLabel>
+  <AntLike.corePart.parts.8.customLabel>오른쪽 중간다리</AntLike.corePart.parts.8.customLabel>
+  <AntLike.corePart.parts.9.customLabel>왼쪽 뒷다리</AntLike.corePart.parts.9.customLabel>
+  <AntLike.corePart.parts.10.customLabel>오른쪽 중간다리</AntLike.corePart.parts.10.customLabel>
+  <SealLike.label>바다표범류</SealLike.label>
+  <SealLike.corePart.parts.3.customLabel>왼쪽 폐</SealLike.corePart.parts.3.customLabel>
+  <SealLike.corePart.parts.4.customLabel>오른쪽 폐</SealLike.corePart.parts.4.customLabel>
+  <SealLike.corePart.parts.5.customLabel>왼쪽 신장</SealLike.corePart.parts.5.customLabel>
+  <SealLike.corePart.parts.6.customLabel>오른쪽 신장</SealLike.corePart.parts.6.customLabel>
+  <SealLike.corePart.parts.8.parts.0.parts.1.customLabel>왼쪽 눈</SealLike.corePart.parts.8.parts.0.parts.1.customLabel>
+  <SealLike.corePart.parts.8.parts.0.parts.2.customLabel>오른쪽 눈</SealLike.corePart.parts.8.parts.0.parts.2.customLabel>
+  <SealLike.corePart.parts.8.parts.0.parts.3.customLabel>왼쪽 귀</SealLike.corePart.parts.8.parts.0.parts.3.customLabel>
+  <SealLike.corePart.parts.8.parts.0.parts.4.customLabel>오른쪽 귀</SealLike.corePart.parts.8.parts.0.parts.4.customLabel>
+  <SealLike.corePart.parts.9.customLabel>왼쪽</SealLike.corePart.parts.9.customLabel>
+  <WalrusLike.label>바다코끼리 류</WalrusLike.label>
+  <WalrusLike.corePart.parts.3.customLabel>왼쪽 폐</WalrusLike.corePart.parts.3.customLabel>
+  <WalrusLike.corePart.parts.4.customLabel>오른쪽 폐</WalrusLike.corePart.parts.4.customLabel>
+  <WalrusLike.corePart.parts.5.customLabel>왼쪽 신장</WalrusLike.corePart.parts.5.customLabel>
+  <WalrusLike.corePart.parts.6.customLabel>오른쪽 신장</WalrusLike.corePart.parts.6.customLabel>
+  <WalrusLike.corePart.parts.8.parts.0.parts.1.customLabel>왼쪽 눈</WalrusLike.corePart.parts.8.parts.0.parts.1.customLabel>
+  <WalrusLike.corePart.parts.8.parts.0.parts.2.customLabel>오른쪽 눈</WalrusLike.corePart.parts.8.parts.0.parts.2.customLabel>
+  <WalrusLike.corePart.parts.8.parts.0.parts.3.customLabel>왼쪽 귀</WalrusLike.corePart.parts.8.parts.0.parts.3.customLabel>
+  <WalrusLike.corePart.parts.8.parts.0.parts.4.customLabel>오른쪽 귀</WalrusLike.corePart.parts.8.parts.0.parts.4.customLabel>
+  <WalrusLike.corePart.parts.8.parts.0.parts.6.parts.0.customLabel>왼쪽 엄니</WalrusLike.corePart.parts.8.parts.0.parts.6.parts.0.customLabel>
+  <WalrusLike.corePart.parts.8.parts.0.parts.6.parts.1.customLabel>오른쪽 엄니</WalrusLike.corePart.parts.8.parts.0.parts.6.parts.1.customLabel>
+  <BodyLongnose.label>네발 동물</BodyLongnose.label>
+  <BodyLongnose.corePart.parts.4.customLabel>왼쪽 폐</BodyLongnose.corePart.parts.4.customLabel>
+  <BodyLongnose.corePart.parts.5.customLabel>오른쪽 폐</BodyLongnose.corePart.parts.5.customLabel>
+  <BodyLongnose.corePart.parts.6.customLabel>왼쪽 신장</BodyLongnose.corePart.parts.6.customLabel>
+  <BodyLongnose.corePart.parts.7.customLabel>오른쪽 신장</BodyLongnose.corePart.parts.7.customLabel>
+  <BodyLongnose.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</BodyLongnose.corePart.parts.9.parts.0.parts.1.customLabel>
+  <BodyLongnose.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</BodyLongnose.corePart.parts.9.parts.0.parts.2.customLabel>
+  <BodyLongnose.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</BodyLongnose.corePart.parts.9.parts.0.parts.3.customLabel>
+  <BodyLongnose.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</BodyLongnose.corePart.parts.9.parts.0.parts.4.customLabel>
+  <BodyLongnose.corePart.parts.10.customLabel>왼쪽 앞다리</BodyLongnose.corePart.parts.10.customLabel>
+  <BodyLongnose.corePart.parts.10.parts.0.customLabel>왼쪽 앞발</BodyLongnose.corePart.parts.10.parts.0.customLabel>
+  <BodyLongnose.corePart.parts.11.customLabel>오른쪽 앞다리</BodyLongnose.corePart.parts.11.customLabel>
+  <BodyLongnose.corePart.parts.11.parts.0.customLabel>오른쪽 앞발</BodyLongnose.corePart.parts.11.parts.0.customLabel>
+  <BodyLongnose.corePart.parts.12.customLabel>왼쪽 뒷다리</BodyLongnose.corePart.parts.12.customLabel>
+  <BodyLongnose.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발</BodyLongnose.corePart.parts.12.parts.0.customLabel>
+  <BodyLongnose.corePart.parts.13.customLabel>오른쪽 중간다리</BodyLongnose.corePart.parts.13.customLabel>
+  <BodyLongnose.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발</BodyLongnose.corePart.parts.13.parts.0.customLabel>
+  <PlatypusLike.label>오리너구리류</PlatypusLike.label>
+  <PlatypusLike.corePart.parts.4.customLabel>왼쪽 폐</PlatypusLike.corePart.parts.4.customLabel>
+  <PlatypusLike.corePart.parts.5.customLabel>오른쪽 폐</PlatypusLike.corePart.parts.5.customLabel>
+  <PlatypusLike.corePart.parts.6.customLabel>왼쪽 신장</PlatypusLike.corePart.parts.6.customLabel>
+  <PlatypusLike.corePart.parts.7.customLabel>오른쪽 신장</PlatypusLike.corePart.parts.7.customLabel>
+  <PlatypusLike.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</PlatypusLike.corePart.parts.9.parts.0.parts.1.customLabel>
+  <PlatypusLike.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</PlatypusLike.corePart.parts.9.parts.0.parts.2.customLabel>
+  <PlatypusLike.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</PlatypusLike.corePart.parts.9.parts.0.parts.3.customLabel>
+  <PlatypusLike.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</PlatypusLike.corePart.parts.9.parts.0.parts.4.customLabel>
+  <PlatypusLike.corePart.parts.10.customLabel>왼쪽 앞다리</PlatypusLike.corePart.parts.10.customLabel>
+  <PlatypusLike.corePart.parts.10.parts.0.customLabel>왼쪽 앞발</PlatypusLike.corePart.parts.10.parts.0.customLabel>
+  <PlatypusLike.corePart.parts.11.customLabel>오른쪽 앞다리</PlatypusLike.corePart.parts.11.customLabel>
+  <PlatypusLike.corePart.parts.11.parts.0.customLabel>오른쪽 앞발</PlatypusLike.corePart.parts.11.parts.0.customLabel>
+  <PlatypusLike.corePart.parts.12.customLabel>왼쪽 뒷다리</PlatypusLike.corePart.parts.12.customLabel>
+  <PlatypusLike.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발</PlatypusLike.corePart.parts.12.parts.0.customLabel>
+  <PlatypusLike.corePart.parts.13.customLabel>오른쪽 중간다리</PlatypusLike.corePart.parts.13.customLabel>
+  <PlatypusLike.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발</PlatypusLike.corePart.parts.13.parts.0.customLabel>
+  <ACPScorpionLike.label>전갈 류</ACPScorpionLike.label>
+  <ACPScorpionLike.corePart.parts.2.parts.0.parts.1.customLabel>왼쪽 눈</ACPScorpionLike.corePart.parts.2.parts.0.parts.1.customLabel>
+  <ACPScorpionLike.corePart.parts.2.parts.0.parts.2.customLabel>오른쪽 눈</ACPScorpionLike.corePart.parts.2.parts.0.parts.2.customLabel>
+  <ACPScorpionLike.corePart.parts.2.parts.0.parts.3.customLabel>왼쪽 더듬이</ACPScorpionLike.corePart.parts.2.parts.0.parts.3.customLabel>
+  <ACPScorpionLike.corePart.parts.2.parts.0.parts.4.customLabel>오른쪽 더듬이</ACPScorpionLike.corePart.parts.2.parts.0.parts.4.customLabel>
+  <ACPScorpionLike.corePart.parts.5.customLabel>왼쪽 앞다리</ACPScorpionLike.corePart.parts.5.customLabel>
+  <ACPScorpionLike.corePart.parts.6.customLabel>오른쪽 앞다리</ACPScorpionLike.corePart.parts.6.customLabel>
+  <ACPScorpionLike.corePart.parts.7.customLabel>왼쪽 중간 다리</ACPScorpionLike.corePart.parts.7.customLabel>
+  <ACPScorpionLike.corePart.parts.8.customLabel>오른쪽 중간 다리</ACPScorpionLike.corePart.parts.8.customLabel>
+  <ACPScorpionLike.corePart.parts.9.customLabel>왼쪽 뒷다리</ACPScorpionLike.corePart.parts.9.customLabel>
+  <ACPScorpionLike.corePart.parts.10.customLabel>오른쪽 뒷다리</ACPScorpionLike.corePart.parts.10.customLabel>
+  <BodyJackalope.label>네발동물</BodyJackalope.label>
+  <BodyJackalope.corePart.parts.4.customLabel>왼쪽 폐</BodyJackalope.corePart.parts.4.customLabel>
+  <BodyJackalope.corePart.parts.5.customLabel>오른쪽 폐</BodyJackalope.corePart.parts.5.customLabel>
+  <BodyJackalope.corePart.parts.6.customLabel>왼쪽 신장</BodyJackalope.corePart.parts.6.customLabel>
+  <BodyJackalope.corePart.parts.7.customLabel>오른쪽 신장</BodyJackalope.corePart.parts.7.customLabel>
+  <BodyJackalope.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</BodyJackalope.corePart.parts.9.parts.0.parts.1.customLabel>
+  <BodyJackalope.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</BodyJackalope.corePart.parts.9.parts.0.parts.2.customLabel>
+  <BodyJackalope.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</BodyJackalope.corePart.parts.9.parts.0.parts.3.customLabel>
+  <BodyJackalope.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</BodyJackalope.corePart.parts.9.parts.0.parts.4.customLabel>
+  <BodyJackalope.corePart.parts.10.customLabel>왼쪽 앞다리</BodyJackalope.corePart.parts.10.customLabel>
+  <BodyJackalope.corePart.parts.10.parts.0.customLabel>왼쪽 앞발</BodyJackalope.corePart.parts.10.parts.0.customLabel>
+  <BodyJackalope.corePart.parts.11.customLabel>오른쪽 앞다리</BodyJackalope.corePart.parts.11.customLabel>
+  <BodyJackalope.corePart.parts.11.parts.0.customLabel>오른쪽 앞발</BodyJackalope.corePart.parts.11.parts.0.customLabel>
+  <BodyJackalope.corePart.parts.12.customLabel>왼쪽 뒷다리</BodyJackalope.corePart.parts.12.customLabel>
+  <BodyJackalope.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발</BodyJackalope.corePart.parts.12.parts.0.customLabel>
+  <BodyJackalope.corePart.parts.13.customLabel>오른쪽 중간 다리</BodyJackalope.corePart.parts.13.customLabel>
+  <BodyJackalope.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발</BodyJackalope.corePart.parts.13.parts.0.customLabel>
+  <BodyQuilled.label>네발 동물</BodyQuilled.label>
+  <BodyQuilled.corePart.parts.4.customLabel>왼쪽 폐</BodyQuilled.corePart.parts.4.customLabel>
+  <BodyQuilled.corePart.parts.5.customLabel>오른쪽 폐</BodyQuilled.corePart.parts.5.customLabel>
+  <BodyQuilled.corePart.parts.6.customLabel>왼쪽 신장</BodyQuilled.corePart.parts.6.customLabel>
+  <BodyQuilled.corePart.parts.7.customLabel>오른쪽 신장</BodyQuilled.corePart.parts.7.customLabel>
+  <BodyQuilled.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</BodyQuilled.corePart.parts.9.parts.0.parts.1.customLabel>
+  <BodyQuilled.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</BodyQuilled.corePart.parts.9.parts.0.parts.2.customLabel>
+  <BodyQuilled.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</BodyQuilled.corePart.parts.9.parts.0.parts.3.customLabel>
+  <BodyQuilled.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</BodyQuilled.corePart.parts.9.parts.0.parts.4.customLabel>
+  <BodyQuilled.corePart.parts.10.customLabel>왼쪽 앞다리</BodyQuilled.corePart.parts.10.customLabel>
+  <BodyQuilled.corePart.parts.10.parts.0.customLabel>왼쪽 앞발</BodyQuilled.corePart.parts.10.parts.0.customLabel>
+  <BodyQuilled.corePart.parts.11.customLabel>오른쪽 앞다리</BodyQuilled.corePart.parts.11.customLabel>
+  <BodyQuilled.corePart.parts.11.parts.0.customLabel>오른쪽 앞발</BodyQuilled.corePart.parts.11.parts.0.customLabel>
+  <BodyQuilled.corePart.parts.12.customLabel>왼쪽 뒷다리</BodyQuilled.corePart.parts.12.customLabel>
+  <BodyQuilled.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발</BodyQuilled.corePart.parts.12.parts.0.customLabel>
+  <BodyQuilled.corePart.parts.13.customLabel>오른쪽 중간 다리</BodyQuilled.corePart.parts.13.customLabel>
+  <BodyQuilled.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발</BodyQuilled.corePart.parts.13.parts.0.customLabel>
+
+  <!--974867140_190519_USCM - Xenomorphs Faction-->
+  <Xenomorph.label>제노모프</Xenomorph.label>
+  <Xenomorph.corePart.parts.5.customLabel>등쪽 관</Xenomorph.corePart.parts.5.customLabel>
+  <Xenomorph.corePart.parts.7.parts.1.parts.2.parts.1.customLabel>왼쪽 넷째 손가락</Xenomorph.corePart.parts.7.parts.1.parts.2.parts.1.customLabel>
+  <Xenomorph.corePart.parts.7.parts.1.parts.2.parts.2.customLabel>왼쪽 가운데 손가락</Xenomorph.corePart.parts.7.parts.1.parts.2.parts.2.customLabel>
+  <Xenomorph.corePart.parts.7.parts.1.parts.2.parts.3.customLabel>왼쪽 집게 손가락</Xenomorph.corePart.parts.7.parts.1.parts.2.parts.3.customLabel>
+  <Xenomorph.corePart.parts.7.parts.1.parts.2.parts.4.customLabel>왼쪽 엄지 손가락</Xenomorph.corePart.parts.7.parts.1.parts.2.parts.4.customLabel>
+  <Xenomorph.corePart.parts.8.customLabel>오른쪽 어깨</Xenomorph.corePart.parts.8.customLabel>
+  <Xenomorph.corePart.parts.8.parts.0.customLabel>오른쪽 쇄골</Xenomorph.corePart.parts.8.parts.0.customLabel>
+  <Xenomorph.corePart.parts.8.parts.1.customLabel>오른쪽 팔</Xenomorph.corePart.parts.8.parts.1.customLabel>
+  <Xenomorph.corePart.parts.8.parts.1.parts.0.customLabel>좌뇌</Xenomorph.corePart.parts.8.parts.1.parts.0.customLabel>
+  <Xenomorph.corePart.parts.8.parts.1.parts.1.customLabel>오른쪽 요골</Xenomorph.corePart.parts.8.parts.1.parts.1.customLabel>
+  <Xenomorph.corePart.parts.8.parts.1.parts.2.customLabel>오른손</Xenomorph.corePart.parts.8.parts.1.parts.2.customLabel>
+  <Xenomorph.corePart.parts.6.parts.0.parts.2.customLabel>안쪽 턱</Xenomorph.corePart.parts.6.parts.0.parts.2.customLabel>
+  <Xenomorph.corePart.parts.8.parts.1.parts.2.parts.0.customLabel>오른쪽 새끼 손가락</Xenomorph.corePart.parts.8.parts.1.parts.2.parts.0.customLabel>
+  <Xenomorph.corePart.parts.8.parts.1.parts.2.parts.1.customLabel>오른쪽 넷째 손가락</Xenomorph.corePart.parts.8.parts.1.parts.2.parts.1.customLabel>
+  <Xenomorph.corePart.parts.8.parts.1.parts.2.parts.2.customLabel>오른쪽 가운데 손가락</Xenomorph.corePart.parts.8.parts.1.parts.2.parts.2.customLabel>
+  <Xenomorph.corePart.parts.8.parts.1.parts.2.parts.3.customLabel>오른쪽 집게 손가락</Xenomorph.corePart.parts.8.parts.1.parts.2.parts.3.customLabel>
+  <Xenomorph.corePart.parts.8.parts.1.parts.2.parts.4.customLabel>오른쪽 엄지 손가락</Xenomorph.corePart.parts.8.parts.1.parts.2.parts.4.customLabel>
+  <Xenomorph.corePart.parts.11.customLabel>왼다리</Xenomorph.corePart.parts.11.customLabel>
+  <Xenomorph.corePart.parts.11.parts.0.customLabel>왼쪽 대퇴골</Xenomorph.corePart.parts.11.parts.0.customLabel>
+  <Xenomorph.corePart.parts.11.parts.1.customLabel>왼쪽 정강이뼈</Xenomorph.corePart.parts.11.parts.1.customLabel>
+  <Xenomorph.corePart.parts.11.parts.2.customLabel>왼발</Xenomorph.corePart.parts.11.parts.2.customLabel>
+  <Xenomorph.corePart.parts.11.parts.2.parts.0.customLabel>왼쪽 새끼 발가락</Xenomorph.corePart.parts.11.parts.2.parts.0.customLabel>
+  <Xenomorph.corePart.parts.7.customLabel>왼쪽 어깨</Xenomorph.corePart.parts.7.customLabel>
+  <Xenomorph.corePart.parts.11.parts.2.parts.1.customLabel>왼쪽 넷째 발가락</Xenomorph.corePart.parts.11.parts.2.parts.1.customLabel>
+  <Xenomorph.corePart.parts.11.parts.2.parts.2.customLabel>왼쪽 셋째 발가락</Xenomorph.corePart.parts.11.parts.2.parts.2.customLabel>
+  <Xenomorph.corePart.parts.11.parts.2.parts.3.customLabel>왼쪽 둘째 발가락</Xenomorph.corePart.parts.11.parts.2.parts.3.customLabel>
+  <Xenomorph.corePart.parts.11.parts.2.parts.4.customLabel>왼쪽 엄지 발가락</Xenomorph.corePart.parts.11.parts.2.parts.4.customLabel>
+  <Xenomorph.corePart.parts.12.customLabel>오른다리</Xenomorph.corePart.parts.12.customLabel>
+  <Xenomorph.corePart.parts.12.parts.0.customLabel>오른쪽 대퇴골</Xenomorph.corePart.parts.12.parts.0.customLabel>
+  <Xenomorph.corePart.parts.12.parts.1.customLabel>오른쪽 정강이뼈</Xenomorph.corePart.parts.12.parts.1.customLabel>
+  <Xenomorph.corePart.parts.12.parts.2.customLabel>오른발</Xenomorph.corePart.parts.12.parts.2.customLabel>
+  <Xenomorph.corePart.parts.12.parts.2.parts.0.customLabel>오른쪽 새끼 발가락</Xenomorph.corePart.parts.12.parts.2.parts.0.customLabel>
+  <Xenomorph.corePart.parts.12.parts.2.parts.1.customLabel>오른쪽 넷째 발가락</Xenomorph.corePart.parts.12.parts.2.parts.1.customLabel>
+  <Xenomorph.corePart.parts.7.parts.0.customLabel>왼쪽 쇄골</Xenomorph.corePart.parts.7.parts.0.customLabel>
+  <Xenomorph.corePart.parts.12.parts.2.parts.2.customLabel>오른쪽 셋째 발가락</Xenomorph.corePart.parts.12.parts.2.parts.2.customLabel>
+  <Xenomorph.corePart.parts.12.parts.2.parts.3.customLabel>오른쪽 둘째 발가락</Xenomorph.corePart.parts.12.parts.2.parts.3.customLabel>
+  <Xenomorph.corePart.parts.12.parts.2.parts.4.customLabel>오른쪽 엄지 발가락</Xenomorph.corePart.parts.12.parts.2.parts.4.customLabel>
+  <Xenomorph.corePart.parts.7.parts.1.customLabel>왼쪽 팔</Xenomorph.corePart.parts.7.parts.1.customLabel>
+  <Xenomorph.corePart.parts.7.parts.1.parts.0.customLabel>좌뇌</Xenomorph.corePart.parts.7.parts.1.parts.0.customLabel>
+  <Xenomorph.corePart.parts.7.parts.1.parts.1.customLabel>왼쪽 요골</Xenomorph.corePart.parts.7.parts.1.parts.1.customLabel>
+  <Xenomorph.corePart.parts.7.parts.1.parts.2.customLabel>왼손</Xenomorph.corePart.parts.7.parts.1.parts.2.customLabel>
+  <Xenomorph.corePart.parts.7.parts.1.parts.2.parts.0.customLabel>왼쪽 새끼 손가락</Xenomorph.corePart.parts.7.parts.1.parts.2.parts.0.customLabel>
+
+</LanguageData>

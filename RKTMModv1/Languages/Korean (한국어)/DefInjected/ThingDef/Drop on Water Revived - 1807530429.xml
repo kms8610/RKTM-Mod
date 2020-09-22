@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DropSpot.label>버리는 곳</DropSpot.label>
+  <DropSpot.description>무언가와 문제가 있거나... 어떤 사람? 아무도 보지 않을 때 물에 버려버리세요.</DropSpot.description>
+  <DropSpot_Blueprint.label>버리는 곳 (청사진)</DropSpot_Blueprint.label>
+  <DropSpot_Frame.label>버리는 곳 (건설 중)</DropSpot_Frame.label>
+  <DropSpot_Frame.description>무언가와 문제가 있거나... 어떤 사람? 아무도 보지 않을 때 물에 버려버리세요.</DropSpot_Frame.description>
+
+</LanguageData>

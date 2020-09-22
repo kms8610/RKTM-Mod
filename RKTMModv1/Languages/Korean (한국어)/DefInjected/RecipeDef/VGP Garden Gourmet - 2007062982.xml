@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VG_Minesalt.label>암염 캐기</VG_Minesalt.label>
+  <VG_Minesalt.description>거친 돌에서 나온 암염. 많은 작업을 수행합니다.</VG_Minesalt.description>
+  <VG_Minesalt.jobString>암염 캐는 중.</VG_Minesalt.jobString>
+  <VG_Bulk20Minesalt.label>암염 캐기 x20</VG_Bulk20Minesalt.label>
+  <VG_Bulk20Minesalt.description>거친 돌에서 20개의 소금을 캐냅니다. 많은 작업량이 필요합니다.</VG_Bulk20Minesalt.description>
+  <VG_Bulk20Minesalt.jobString>암염 캐는 중.</VG_Bulk20Minesalt.jobString>
+  <BakeBread.label>빵 만들기 x3</BakeBread.label>
+  <BakeBread.description>빵을 굽습니다.
+
+제조량: 3개</BakeBread.description>
+  <BakeBread.jobString>빵 굽는 중.</BakeBread.jobString>
+  <Bakesweetroll.label>롤빵 만들기 x4</Bakesweetroll.label>
+  <Bakesweetroll.description>둥글게 말은 빵 위에 설탕을 뿌린 롤빵을 구워냅니다.
+
+제조량: 4개
+
+음식 효과: 의식, 이동</Bakesweetroll.description>
+  <Bakesweetroll.jobString>롤빵 굽는 중.</Bakesweetroll.jobString>
+  <Bakepizza.label>피자 만들기 x3</Bakepizza.label>
+  <Bakepizza.description>피자를 굽습니다.
+
+제조량: 3조각
+
+음식 효과: 의식, 신진대사</Bakepizza.description>
+  <Bakepizza.jobString>피자 굽는 중.</Bakepizza.jobString>
+  <BakeCookies.label>쿠키 만들기 x6</BakeCookies.label>
+  <BakeCookies.description>쿠키를 굽습니다.
+
+제조량 6조각</BakeCookies.description>
+  <BakeCookies.jobString>쿠기 굽는 중.</BakeCookies.jobString>
+  <BakeBlueberryPie.label>파이 만들기 x3</BakeBlueberryPie.label>
+  <BakeBlueberryPie.description>풍미가 좋은 파이를 구워냅니다.
+
+제조량: 3조각</BakeBlueberryPie.description>
+  <BakeBlueberryPie.jobString>파이 굽는 중.</BakeBlueberryPie.jobString>
+  <DryFruit.label>건과 만들기 x10</DryFruit.label>
+  <DryFruit.description>과일을 건조시켜 즙을 빼냅니다.</DryFruit.description>
+  <DryFruit.jobString>과일 건조시키는 중.</DryFruit.jobString>
+  <Bakepolenta.label>폴렌타 만들기</Bakepolenta.label>
+  <Bakepolenta.description>폴렌타 반죽을 구워냅니다.
+
+제조량: 1인분
+
+음식 효과: 조작, 신진대사</Bakepolenta.description>
+  <Bakepolenta.jobString>폴렌타 반죽을 굽는 중.</Bakepolenta.jobString>
+  <BakeCornbread.label>옥수수빵 만들기 x2</BakeCornbread.label>
+  <BakeCornbread.description>옥수수빵을 구워냅니다.
+
+제조량: 2개
+
+음식 효과: 의식, 이동</BakeCornbread.description>
+  <BakeCornbread.jobString>옥수수빵 굽는 중.</BakeCornbread.jobString>
+  <Bakemuffin.label>머핀 만들기 x6</Bakemuffin.label>
+  <Bakemuffin.description>머핀을 구워냅니다.
+
+제조량: 6개.
+
+음식 효과: 의식, 이동</Bakemuffin.description>
+  <Bakemuffin.jobString>머핀 굽는 중.</Bakemuffin.jobString>
+  <BakeMeatPie.label>고기 파이 만들기 x2</BakeMeatPie.label>
+  <BakeMeatPie.description>맛있는 파이를 구워냅니다.
+
+제조량: 2개</BakeMeatPie.description>
+  <BakeMeatPie.jobString>고기 파이 굽는 중.</BakeMeatPie.jobString>
+  <MakeChocolatemilk.label>초코우유 만들기</MakeChocolatemilk.label>
+  <MakeChocolatemilk.description>초콜렛과 우유를 섞어 만듭니다.
+
+제조량: 4개</MakeChocolatemilk.description>
+  <MakeChocolatemilk.jobString>초코우유 섞는 중.</MakeChocolatemilk.jobString>
+  <CraftFlour.label>곡물가루 만들기</CraftFlour.label>
+  <CraftFlour.description>곡물을 갈아 가루로 만듭니다.
+
+제조량: 5개</CraftFlour.description>
+  <CraftFlour.jobString>곡물을 빻는 중.</CraftFlour.jobString>
+  <CraftBulkFlour.label>곡물가루 만들기 x5</CraftBulkFlour.label>
+  <CraftBulkFlour.description>대량의 곡물을 갈아 가루로 만듭니다.
+
+제조량: 25개</CraftBulkFlour.description>
+  <CraftBulkFlour.jobString>곡물을 빻는 중.</CraftBulkFlour.jobString>
+  <CraftCornmeal.label>옥수수 전분 만들기</CraftCornmeal.label>
+  <CraftCornmeal.description>옥수수를 갈아 가루로 만듭니다.
+
+제조량: 5개</CraftCornmeal.description>
+  <CraftCornmeal.jobString>옥수수 빻는 중.</CraftCornmeal.jobString>
+  <CraftBulkCornMeal.label>옥수수 전분 만들기 x5</CraftBulkCornMeal.label>
+  <CraftBulkCornMeal.description>옥수수를 갈아 가루로 만듭니다.
+
+제조량: 25개</CraftBulkCornMeal.description>
+  <CraftBulkCornMeal.jobString>옥수수 빻는 중.</CraftBulkCornMeal.jobString>
+  <GroundSugar.label>설탕 만들기</GroundSugar.label>
+  <GroundSugar.description>설탕을 얻기 위해서 이 사탕수수를 마구 부수세요!
+
+제조량: 5개</GroundSugar.description>
+  <GroundSugar.jobString>사탕수수 빻는 중.</GroundSugar.jobString>
+  <CraftBulkSugar.label>설탕 만들기 x5</CraftBulkSugar.label>
+  <CraftBulkSugar.description>설탕을 얻기 위해서 이 사탕수수를 마구 부수세요!
+
+제조량: 25개</CraftBulkSugar.description>
+  <CraftBulkSugar.jobString>사탕수수 빻는 중.</CraftBulkSugar.jobString>
+  <GrillKabob.label>산적 만들기 x2</GrillKabob.label>
+  <GrillKabob.description>고기와 채소를 꼬챙이에 끼워 완벽하게 구운 요리입니다.
+
+제조량: 2개</GrillKabob.description>
+  <GrillKabob.jobString>산적 굽는 중.</GrillKabob.jobString>
+  <Grillsteak.label>스테이크 만들기 x2</Grillsteak.label>
+  <Grillsteak.description>불판 위에 고기를 구워 냈습니다.
+
+제조량: 2개</Grillsteak.description>
+  <Grillsteak.jobString>스테이크 굽는 중.</Grillsteak.jobString>
+  <GrillVegetables.label>야채구이 만들기 x2</GrillVegetables.label>
+  <GrillVegetables.description>불판위에 야채를 구워 냈습니다.
+
+제조량: 2개</GrillVegetables.description>
+  <GrillVegetables.jobString>야채 굽는 중.</GrillVegetables.jobString>
+  <CookGrillcheese.label>치즈 샌드위치 만들기 x2</CookGrillcheese.label>
+  <CookGrillcheese.description>두 장의 빵에 살짝 구운 치즈를 넣었습니다.
+
+요리량: 2개
+
+음식 효과: 신진대사</CookGrillcheese.description>
+  <CookGrillcheese.jobString>빵 굽는 중.</CookGrillcheese.jobString>
+  <GrillPolenta.label>폴렌타 만들기 x2</GrillPolenta.label>
+  <GrillPolenta.description>폴렌타 조각을 불에 굽습니다.
+
+요리량: 2접시
+
+음식 효과: 조작, 신진대사</GrillPolenta.description>
+  <GrillPolenta.jobString>폴렌타 굽는 중.</GrillPolenta.jobString>
+  <Cookgrilledsandwich.label>치즈버거 만들기 x2</Cookgrilledsandwich.label>
+  <Cookgrilledsandwich.description>구운 고기와 치즈를 빵조각 두개로 감싼 음식입니다.
+
+요리량: 2개
+
+음식 효과: 신진대사</Cookgrilledsandwich.description>
+  <Cookgrilledsandwich.jobString>치즈버거 만드는 중.</Cookgrilledsandwich.jobString>
+  <CookTacos.label>타코 만들기 x5</CookTacos.label>
+  <CookTacos.description>옥수수 껍질안에 있는 고기와 치즈입니다. 고기, 치즈, 전분이 필요합니다.
+
+요리량: 5인분
+
+음식 효과: 조작, 신진대사</CookTacos.description>
+  <CookTacos.jobString>타코 준비하는 중.</CookTacos.jobString>
+  <CookPorridge.label>죽 만들기 x2</CookPorridge.label>
+  <CookPorridge.description>곡물로 만든 간단한 죽입니다.
+
+요리량: 2접시
+
+음식 효과: 시력, 혈액여과</CookPorridge.description>
+  <CookPorridge.jobString>죽 만드는 중.</CookPorridge.jobString>
+  <Makesoymilk.label>두유 만들기 x7</Makesoymilk.label>
+  <Makesoymilk.description>콩으로 두유를 만듭니다.</Makesoymilk.description>
+  <Makesoymilk.jobString>두유 만드는 중.</Makesoymilk.jobString>
+  <MakesoymilkBulk.label>두유 만들기 x28</MakesoymilkBulk.label>
+  <MakesoymilkBulk.description>많은 콩을 눌러 짜 두유로 만듭니다.</MakesoymilkBulk.description>
+  <MakesoymilkBulk.jobString>두유 만드는 중.</MakesoymilkBulk.jobString>
+  <Makesoycheese.label>치즈 만들기 x2</Makesoycheese.label>
+  <Makesoycheese.description>우유로 치즈를 만듭니다.
+
+제조량: 2개</Makesoycheese.description>
+  <Makesoycheese.jobString>치즈 만드는 중.</Makesoycheese.jobString>
+  <MakeBulksoycheese.label>치즈 만들기 x4</MakeBulksoycheese.label>
+  <MakeBulksoycheese.description>우유로 치즈를 만듭니다.
+
+제조량: 8개</MakeBulksoycheese.description>
+  <MakeBulksoycheese.jobString>치즈 만드는 중.</MakeBulksoycheese.jobString>
+  <Maketofu.label>두부 만들기 x3</Maketofu.label>
+  <Maketofu.description>콩으로 두부를 만듭니다. 두부는 육류대신 사용하거나 날것으로도 먹을 수 있습니다.
+
+두부 3모를 만듭니다.</Maketofu.description>
+  <Maketofu.jobString>두부 만드는 중.</Maketofu.jobString>
+  <Makebulktofu.label>두부 만들기 x4</Makebulktofu.label>
+  <Makebulktofu.description>요리 스킬이 향상 되었으면 두부를 더 효율적으로 만들 수 있습니다!
+
+두부 12모를 만듭니다.</Makebulktofu.description>
+  <Makebulktofu.jobString>두부 만드는 중</Makebulktofu.jobString>
+  <MakePolenta.label>폴렌타 만들기 x2</MakePolenta.label>
+  <MakePolenta.description>옥수수 가루를 폴렌타로 만듭니다. 그대로 먹을 수도 있고, 다른 베이킹 요리로 사용하거나 구워 먹기도 합니다.
+
+플렌타 2조각을 만듭니다.</MakePolenta.description>
+  <MakePolenta.jobString>폴렌타 만드는 중.</MakePolenta.jobString>
+  <MakebulkPolenta.label>폴렌타 만들기 x5</MakebulkPolenta.label>
+  <MakebulkPolenta.description>옥수수 가루를 폴렌타로 만듭니다. 그대로 먹을 수도 있고, 다른 베이킹 요리로 사용하거나 구워 먹기도 합니다.
+
+플렌타 10조각을 만듭니다.</MakebulkPolenta.description>
+  <MakebulkPolenta.jobString>폴렌타 만드는 중.</MakebulkPolenta.jobString>
+  <PickleVegetable.label>피클 만들기 x10</PickleVegetable.label>
+  <PickleVegetable.description>부패 방지를 위해 소금에 절여서 보존합니다.
+
+제조량: 10개</PickleVegetable.description>
+  <PickleVegetable.jobString>야채 절이는 중.</PickleVegetable.jobString>
+  <BulkPickleVegetable.label>피클 만들기 x20</BulkPickleVegetable.label>
+  <BulkPickleVegetable.description>부패 방지를 위해 소금에 절여서 보존합니다.
+
+제조량: 20개</BulkPickleVegetable.description>
+  <BulkPickleVegetable.jobString>야채 절이는 중.</BulkPickleVegetable.jobString>
+  <SaltMeat.label>염장육 만들기 x10</SaltMeat.label>
+  <SaltMeat.description>상하지 않게 고기를 소금에 절입니다.
+
+제조량: 10개</SaltMeat.description>
+  <SaltMeat.jobString>고기 절이는 중.</SaltMeat.jobString>
+  <BulkSaltMeat.label>염장육 만들기 x40</BulkSaltMeat.label>
+  <BulkSaltMeat.description>상하지 않게 고기를 소금에 절입니다.
+
+제조량: 40개</BulkSaltMeat.description>
+  <BulkSaltMeat.jobString>고기 절이는 중.</BulkSaltMeat.jobString>
+  <VG_VeganEgg.label>채식용 계란</VG_VeganEgg.label>
+  <VG_VeganEgg.description>계란 대용품은 두부, 호박 또는 바나나로 만든 계란 모양의 음식 입니다. 제빵 및 다른 조리에 계란 대신 사용할 수 있습니다.
+
+제조량: 2개</VG_VeganEgg.description>
+  <VG_VeganEgg.jobString>음식 절이는 중.</VG_VeganEgg.jobString>
+  <VG_VeganEggBulk.label>채식용 계란 만들기 x4</VG_VeganEggBulk.label>
+  <VG_VeganEggBulk.description>계란 대용품은 두부, 호박 또는 바나나로 만든 계란 모양의 음식 입니다. 제빵 및 다른 조리에 계란 대신 사용할 수 있습니다.
+
+제조량: 8개</VG_VeganEggBulk.description>
+  <VG_VeganEggBulk.jobString>야채 절이는 중.</VG_VeganEggBulk.jobString>
+  <CookMakiRoll.label>김밥 만들기 x4</CookMakiRoll.label>
+  <CookMakiRoll.description>고기나 생식 재료를 이용해 쌀과 섞어 만든 다소 복잡한 좋은 식단입니다.
+
+제조량: 4개</CookMakiRoll.description>
+  <CookMakiRoll.jobString>좋은 식단 조리 중.</CookMakiRoll.jobString>
+  <Make_Nigiri.label>초밥 만들기 x4</Make_Nigiri.label>
+  <Make_Nigiri.description>쌀과 해산물 또는 두부로 만드는 좋은 식단입니다.
+
+제조량: 4개</Make_Nigiri.description>
+  <Make_Nigiri.jobString>좋은 식단 조리 중.</Make_Nigiri.jobString>
+  <MakeHardcandy.label>알사탕 만들기 x4</MakeHardcandy.label>
+  <MakeHardcandy.description>설탕으로 알사탕을 만듭니다.</MakeHardcandy.description>
+  <MakeHardcandy.jobString>알사탕 만드는 중.</MakeHardcandy.jobString>
+  <MakeCaramel.label>카라멜 만들기 x4</MakeCaramel.label>
+  <MakeCaramel.description>설탕으로 카라멜을 만듭니다.</MakeCaramel.description>
+  <MakeCaramel.jobString>카라멜 만드는 중.</MakeCaramel.jobString>
+  <MakeTaffy.label>엿 만들기 x4</MakeTaffy.label>
+  <MakeTaffy.description>설탕을 녹여 엿으로 만듭니다</MakeTaffy.description>
+  <MakeTaffy.jobString>엿 만드는 중.</MakeTaffy.jobString>
+  <MakeIcecream.label>아이스크림 만들기 x2</MakeIcecream.label>
+  <MakeIcecream.description>우유로 만든 맛있고 달콤한 언 간식입니다.
+
+제조량 2개
+
+음식 효과: 이동, 혈액순환</MakeIcecream.description>
+  <MakeIcecream.jobString>아이스크림 만드는 중.</MakeIcecream.jobString>
+  <MakeYogurt.label>요거트 만들기 x2</MakeYogurt.label>
+  <MakeYogurt.description>우유로 만든 맛있고 달콤한 간식입니다.
+
+제조량: 2개
+
+음식 효과: 시야, 혈액여과</MakeYogurt.description>
+  <MakeYogurt.jobString>요거트 만드는 중.</MakeYogurt.jobString>
+  <MakeSmoothie.label>스무디 만들기 x4</MakeSmoothie.label>
+  <MakeSmoothie.description>우유와 과일로 만든 달콤한 음료입니다.
+
+제조량: 4개
+
+음식 효과 : 시야, 이동</MakeSmoothie.description>
+  <MakeSmoothie.jobString>스무디 만드는 중.</MakeSmoothie.jobString>
+
+</LanguageData>

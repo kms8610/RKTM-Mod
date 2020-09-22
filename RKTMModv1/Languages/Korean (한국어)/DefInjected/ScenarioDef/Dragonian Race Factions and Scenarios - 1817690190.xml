@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_Wild_Scenario.label>야생 드래고니안 시나리오</Dragonian_Wild_Scenario.label>
+  <Dragonian_Wild_Scenario.description>야생 드래고니안 시나리오</Dragonian_Wild_Scenario.description>
+  <Dragonian_Wild_Scenario.scenario.name>야생 드래고니안</Dragonian_Wild_Scenario.scenario.name>
+  <Dragonian_Wild_Scenario.scenario.summary>야생 드래고니안은 자원이 풍부하지 않습니다. 당신이 살아남을 수 있을까요? 아마 불가능하겠죠. 상당히 복잡한 시나리오 입니다.</Dragonian_Wild_Scenario.scenario.summary>
+  <Dragonian_Wild_Scenario.scenario.description>당신이 마지막으로 기억하는 것은 당신이 동족과 함께 동굴에서 나와 세상을 탐험하기 시작한 과정뿐입니다. 하지만 얼마 지나지 않아 당신의 상단은 공격을 받게 됩니다. 공격 중에 멀리 도망 쳤지만 자원 없이 혼자 남겨졌습니다. 당신이 살아남을 수 있을까요? 아마 불가능하겠죠. 
+
+ 기술수준: 가축(어떠한 기술도 연구되지 않음). 
+
+ 상당히 복잡한 시나리오.</Dragonian_Wild_Scenario.scenario.description>
+  <Dragonian_Tribe_Scenario.label>드래고니안 부족 시나리오</Dragonian_Tribe_Scenario.label>
+  <Dragonian_Tribe_Scenario.description>드래고니안 부족 시나리오</Dragonian_Tribe_Scenario.description>
+  <Dragonian_Tribe_Scenario.scenario.name>드래고니안 부족</Dragonian_Tribe_Scenario.scenario.name>
+  <Dragonian_Tribe_Scenario.scenario.summary>드래고니안 부족은 자원이 부족합니다. 당신이 살아남을 수 있을까요? 아마 불가능하겠죠. 어려운 시나리오입니다.</Dragonian_Tribe_Scenario.scenario.summary>
+  <Dragonian_Tribe_Scenario.scenario.description>당신이 마지막으로 기억하는 것은 당신이 동족과 함께 동굴에서 나와 세상을 탐험하기 시작한 과정뿐입니다. 하지만 얼마 지나지 않아 당신의 상단은 공격을 받게 됩니다. 공격 중에 당신과 몇몇 부족들은 멀리 도망 쳤지만 자원이 부족합니다. 당신이 살아남을 수 있을까요? 아마 불가능하겠죠. 
+
+ 기술수준: 가축(어떠한 기술도 연구되지 않음). 
+
+ 복잡한 시나리오.</Dragonian_Tribe_Scenario.scenario.description>
+
+</LanguageData>

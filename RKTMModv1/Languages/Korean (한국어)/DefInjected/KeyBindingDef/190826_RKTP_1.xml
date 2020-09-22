@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1127530465_181027_Rimatomics-->
+  <MainTab_Rimatomics.label>림아토믹 탭 전환</MainTab_Rimatomics.label>
+
+  <!--1355637255_190627_Room Sense-->
+  <ToggleRoomSenseOverlay.label>방 감지 통계량 오버레이 전환</ToggleRoomSenseOverlay.label>
+
+  <!--761219125_181029_Defensive Positions-->
+  <DPSendAllColonists.label>모든 정착민 방어진형으로 보내기</DPSendAllColonists.label>
+  <DPSelectAllColonists.label>모든 정착민 선택</DPSelectAllColonists.label>
+  <DPSquad1.label>1팀 선택</DPSquad1.label>
+  <DPSquad2.label>2팀 선택</DPSquad2.label>
+  <DPSquad3.label>3팀 선택</DPSquad3.label>
+  <DPSquad4.label>4팀 선택</DPSquad4.label>
+  <DPSquad5.label>5팀 선택</DPSquad5.label>
+  <DPSquad6.label>6팀 선택</DPSquad6.label>
+  <DPSquad7.label>7팀 선택</DPSquad7.label>
+  <DPSquad8.label>8팀 선택</DPSquad8.label>
+  <DPSquad9.label>9팀 선택</DPSquad9.label>
+  <DefensivePositionGizmo.label>정착민을 방어진형으로 보내기</DefensivePositionGizmo.label>
+  <DPUndraftAll.label>모든 정착민 소집해제</DPUndraftAll.label>
+
+  <!--88771613_190626_WM Smarter food selection10-->
+  <WM_SFS_ToggleFoodScore.label>식사 점수 표시 모드 순환하여 표시합니다.</WM_SFS_ToggleFoodScore.label>
+
+  <!--1414302321_190818_Numbers-->
+  <MainTab_kNumbersOverviewTab.label>넘버즈 탭 전환 토글 키</MainTab_kNumbersOverviewTab.label>
+
+  <!--761379469_190814_Remote Tech-->
+  <rxRemoteTableDetonate.label>설치형 기폭장치: 기폭</rxRemoteTableDetonate.label>
+  <rxNextChannel.label>기폭장치, 폭발물: 채널 변경</rxNextChannel.label>
+  <rxArm.label>원격조작 장전</rxArm.label>
+  <rxAutoReplace.label>원격조작 자동 재배치</rxAutoReplace.label>
+  <rxPortableDetonatorDetonate.label>휴대용 기폭장치: 기폭</rxPortableDetonatorDetonate.label>
+
+</LanguageData>

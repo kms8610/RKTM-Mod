@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1505332648_190519_Gods of Elona [1.0]-->
+  <eIceBolt.label>얼음 화살</eIceBolt.label>
+
+  <!--1541353047_190628_Zombiefied-->
+  <ZombieBite.label>물림</ZombieBite.label>
+  <ZombieScratch.label>찢김</ZombieScratch.label>
+
+  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
+  <ROM_ScratchMonstrous.label>찢겨짐</ROM_ScratchMonstrous.label>
+  <ROM_ConstrictMonstrous.label>일그러짐</ROM_ConstrictMonstrous.label>
+  <ROM_Psychic.label>초능력</ROM_Psychic.label>
+  <ROM_BluntMonstrous.label>박살남</ROM_BluntMonstrous.label>
+  <ROM_Exsanguination.label>박살남</ROM_Exsanguination.label>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Cults_AcidTouch.label>산성 화상</Cults_AcidTouch.label>
+
+  <!--918200645_190816_Star Wars - Fully Functional Lightsabers-->
+  <PJ_SaberCut.label>광선검 베기</PJ_SaberCut.label>
+  <PJ_SaberStab.label>광선검 찌르기</PJ_SaberStab.label>
+
+  <!--918227266_181112_Star Wars - Factions-->
+  <PJ_VibroCut.label>바이브로 칼날 베기</PJ_VibroCut.label>
+  <PJ_VibroStab.label>바이브로 칼날 찌르기</PJ_VibroStab.label>
+
+</LanguageData>

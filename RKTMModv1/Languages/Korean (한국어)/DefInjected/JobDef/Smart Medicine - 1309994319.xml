@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StockUp.reportString>TargetA(을)를 소지하는 중.</StockUp.reportString>
+  <StockDown.reportString>TargetA(을)를 되돌려놓는 중.</StockDown.reportString>
+  <StockUpOnMedicine.reportString>TargetA(을)를 소지하는 중.</StockUpOnMedicine.reportString>
+  <StockDownOnMedicine.reportString>TargetA(을)를 되돌려놓는 중.</StockDownOnMedicine.reportString>
+
+</LanguageData>

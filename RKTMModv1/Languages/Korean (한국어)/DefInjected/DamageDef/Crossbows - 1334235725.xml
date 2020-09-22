@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--CROSSBOWS - 1334235725-->
+  <Bolt.label>볼트</Bolt.label>
+  <Bolt.deathMessage>{0}(이)가 볼트에 맞아 죽었습니다.</Bolt.deathMessage>
+
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--ROKA FOOD MOD - 1848303793-->
+  <TORmake_ddongguk.label>된장국 식단 만들기</TORmake_ddongguk.label>
+  <TORmake_ddongguk.description>똥국이라 불리는 된장국 식단을 만듭니다. 맛있지는 않지만 만들기 쉽습니다.</TORmake_ddongguk.description>
+  <TORmake_ddongguk.jobString>된장국 식단 만드는 중.</TORmake_ddongguk.jobString>
+  <TORmake_gunBBANG.label>건빵 만들기</TORmake_gunBBANG.label>
+  <TORmake_gunBBANG.description>건빵을 만듭니다. 만들기 쉽습니다.</TORmake_gunBBANG.description>
+  <TORmake_gunBBANG.jobString>건빵 만드는 중.</TORmake_gunBBANG.jobString>
+  <TORmake_kmre.label>전투식량 만들기</TORmake_kmre.label>
+  <TORmake_kmre.description>전투식량을 만듭니다. 즉각취식형 3형이 가장 맛있습니다.</TORmake_kmre.description>
+  <TORmake_kmre.jobString>전투식량 만드는 중.</TORmake_kmre.jobString>
+  <TORmake_Yukgaejang.label>육개장 만들기</TORmake_Yukgaejang.label>
+  <TORmake_Yukgaejang.description>한국 라면인 육개장을 만듭니다. 맵지만 맛있습니다.</TORmake_Yukgaejang.description>
+  <TORmake_Yukgaejang.jobString>육개장 만드는 중.</TORmake_Yukgaejang.jobString>
+  <TORmake_Vinylriceballs.label>짜요짜요 만들기</TORmake_Vinylriceballs.label>
+  <TORmake_Vinylriceballs.description>짜요짜요를 만듭니다. 이건 맛이 진짜 개같아요.</TORmake_Vinylriceballs.description>
+  <TORmake_Vinylriceballs.jobString>짜요짜요 만드는 중.</TORmake_Vinylriceballs.jobString>
+  <TORmake_Seaweed_soup_and_rice.label>미역국 식단 만들기</TORmake_Seaweed_soup_and_rice.label>
+  <TORmake_Seaweed_soup_and_rice.description>소세지 야채볶음이 있는 미역국 식단을 만듭니다. 맛이 괜찮아요.</TORmake_Seaweed_soup_and_rice.description>
+  <TORmake_Seaweed_soup_and_rice.jobString>미역국 식단 만드는 중.</TORmake_Seaweed_soup_and_rice.jobString>
+  <TORmake_Schnellchicken.label>슈넬치킨 만들기</TORmake_Schnellchicken.label>
+  <TORmake_Schnellchicken.description>냉동식품계의 존엄, 슈넬치킨을 만듭니다.</TORmake_Schnellchicken.description>
+  <TORmake_Schnellchicken.jobString>슈넬치킨 만드는 중.</TORmake_Schnellchicken.jobString>
+  <TORmake_Bubbling.label>뽀글이 만들기</TORmake_Bubbling.label>
+  <TORmake_Bubbling.description>봉지째 끓여먹는 한국군식 라면, 뽀글이를 만듭니다.</TORmake_Bubbling.description>
+  <TORmake_Bubbling.jobString>뽀글이 만드는 중.</TORmake_Bubbling.jobString>
+  <TORmake_BBANGSIK.label>군대리아 만들기</TORmake_BBANGSIK.label>
+  <TORmake_BBANGSIK.description>만들어 먹는 한국군식 햄버거 식단인 군대리아를 만듭니다. 꽤 맛있어요.</TORmake_BBANGSIK.description>
+  <TORmake_BBANGSIK.jobString>군대리아 만드는 중.</TORmake_BBANGSIK.jobString>
+
+</LanguageData>

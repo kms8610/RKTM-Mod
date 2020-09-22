@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1076950211_190811_Therapy-->
+  <ReceiveTherapy.reportString>심리치료 대기중.</ReceiveTherapy.reportString>
+  <PerformTherapy.reportString>TargetB(을)를 상담하는 중.</PerformTherapy.reportString>
+
+  <!--1115882219_190816_Rim of Madness - Werewolves-->
+  <ROM_ApplySilverTreatment.reportString>은도금 적용하기.</ROM_ApplySilverTreatment.reportString>
+
+  <!--1157085076_190627_Locks-->
+  <Locks_Flick.reportString>TargetA 잠금/잠금해제</Locks_Flick.reportString>
+
+  <!--1187010034_181028_Rim of Madness - Vampires-->
+  <ROMV_Diablerie.reportString>TargetA의 영혼을 흡수하려고 시도하는 중.</ROMV_Diablerie.reportString>
+  <ROMV_FeedAndDestroy.reportString>TargetA를 흡수 중.</ROMV_FeedAndDestroy.reportString>
+  <ROMV_ConsumeBlood.reportString>TargetA의 혈액을 섭취하는 중.</ROMV_ConsumeBlood.reportString>
+  <ROMV_DigAndHide.reportString>필사적으로 땅굴을 파는 중.</ROMV_DigAndHide.reportString>
+  <ROMV_Embrace.reportString>TargetA를 포옹하는 중.</ROMV_Embrace.reportString>
+  <ROMV_EnterTorpor.reportString>무기력 상태에 빠져드는 중.</ROMV_EnterTorpor.reportString>
+  <ROMV_Feed.reportString>TargetA를 흡혈하는 중.</ROMV_Feed.reportString>
+  <ROMV_Sip.reportString>TargetA를 살짝 흡혈하는 중.</ROMV_Sip.reportString>
+  <ROMV_GhoulBloodBond.reportString>TargetA에게 생명혈을 먹이는 중.</ROMV_GhoulBloodBond.reportString>
+  <ROMV_GotoSafety.reportString>이동중.</ROMV_GotoSafety.reportString>
+  <ROMV_FeedVampire.reportString>TargetA의 생명혈을 마시는 중.</ROMV_FeedVampire.reportString>
+  <ROMV_FeedAndReturn.reportString>TargetA의 피를 훔치는 중.</ROMV_FeedAndReturn.reportString>
+  <ROMV_BloodVomit.reportString>피를 토하는 중.</ROMV_BloodVomit.reportString>
+
+  <!--1211694919_181106_Nature's Pretty Sweet-->
+  <TKKN_DryOff.reportString>건조 중.</TKKN_DryOff.reportString>
+  <TKKN_GoSwimming.reportString>수영 중.</TKKN_GoSwimming.reportString>
+  <TKKN_RelaxSpring.reportString>샘에서 휴식 중.</TKKN_RelaxSpring.reportString>
+
+  <!--1231678757_190814_Technology Blueprints-->
+  <UseTechnologyBlueprint.reportString>기술 청사진 사용하기</UseTechnologyBlueprint.reportString>
+
+  <!--1279012058_190622_Pick Up And Haul-->
+  <HaulToInventory.reportString>TargetA(을)를 운반하기 위해 소지품에 넣는 중.</HaulToInventory.reportString>
+  <UnloadYourHauledInventory.reportString>물품 재고 정리 중.</UnloadYourHauledInventory.reportString>
+
+  <!--1316188771_190621_Door Expanded-->
+  <PH_PushButton.reportString>TargetA 누르는 중.</PH_PushButton.reportString>
+  <PH_FlipOrPress.reportString>TargetA 사용 중.</PH_FlipOrPress.reportString>
+
+  <!--1331961995_181029_Giddy-up! Ride and Roll-->
+  <RideToJob.reportString>작업시 탑승</RideToJob.reportString>
+
+  <!--1440321094_190519_Auto Seller-->
+  <JobDriver_AutoSell.reportString>TargetA에서의 거래</JobDriver_AutoSell.reportString>
+  <JobDriver_PawnAutoSell.reportString>TargetA와의 거래</JobDriver_PawnAutoSell.reportString>
+
+  <!--1465459039_190519_Rimlaser-->
+  <ChangeLaserColor.reportString>광선 색 변경</ChangeLaserColor.reportString>
+
+  <!--1496570408_181117_VGP Garden Canning-->
+  <Canning_FillUniversalFermenter.reportString>TargetA 채우는 중.</Canning_FillUniversalFermenter.reportString>
+  <Canning_TakeProductOutOfUniversalFermenter.reportString>TargetA 생산품 꺼내는 중.</Canning_TakeProductOutOfUniversalFermenter.reportString>
+
+  <!--1505914869_190616_What the hack!-->
+  <WTH_CarryToHackingTable.reportString>메카노이드를 해킹 작업대로 운송하는 중.</WTH_CarryToHackingTable.reportString>
+  <WTH_ClearHackingTable.reportString>해킹 작업대에서 메카노이드를 치우는 중.</WTH_ClearHackingTable.reportString>
+  <WTH_Mechanoid_Rest.reportString>메카노이드 설비에 연결 중.</WTH_Mechanoid_Rest.reportString>
+  <WTH_ControlMechanoid.reportString>메카노이드 제어하는 중.</WTH_ControlMechanoid.reportString>
+  <WTH_ControlMechanoid_Goto.reportString>메카노이드 제어하는 중. (이동 중)</WTH_ControlMechanoid_Goto.reportString>
+  <WTH_Ability.reportString>능력 사용하는 중.</WTH_Ability.reportString>
+  <WTH_Ability_SelfDestruct.reportString>자폭 능력 사용하는 중.</WTH_Ability_SelfDestruct.reportString>
+  <WTH_Ability_Repair.reportString>수리 능력 사용 하는중.</WTH_Ability_Repair.reportString>
+  <WTH_Ability_Overdrive.reportString>오버드라이브 능력 사용하는 중.</WTH_Ability_Overdrive.reportString>
+  <WTH_PerformMaintenance.reportString>메카노이드 유지관리 수행하는 중.</WTH_PerformMaintenance.reportString>
+  <WTH_HackRogueAI.reportString>로그 AI 해킹하는 중.</WTH_HackRogueAI.reportString>
+
+  <!--1512478761_190627_Expanded Roofing-->
+  <PerformRoofMaintenance.reportString>TargetA의 지붕 보수 작업 중.</PerformRoofMaintenance.reportString>
+
+  <!--1522917562_190628_Vanilla-like wheat-->
+  <FillUniversalFermenter.reportString>TargetA를 채우는 중.</FillUniversalFermenter.reportString>
+  <TakeProductOutOfUniversalFermenter.reportString>TargetA에서 물품을 꺼내는 중.</TakeProductOutOfUniversalFermenter.reportString>
+
+  <!--1523058989_190626_Camping Stuff-->
+  <DeployTent.reportString>천막 설치 중.</DeployTent.reportString>
+  <PackTent.reportString>천막 접는 중.</PackTent.reportString>
+  <RepairTent.reportString>천막 수리 중.</RepairTent.reportString>
+
+  <!--1539311500_181027_Fertile Fields-->
+  <FinishFrameGrowing.reportString>TargetA 제작 중.</FinishFrameGrowing.reportString>
+  <FinishFrameConstruction.reportString>TargetA 제작 중.</FinishFrameConstruction.reportString>
+  <FillCompostBarrel.reportString>TargetA에 퇴비를 채우는 중.</FillCompostBarrel.reportString>
+  <EmptyCompostBarrel.reportString>TargetA에서 비료를 꺼내는 중.</EmptyCompostBarrel.reportString>
+
+  <!--1539311991_190814_Fishing-->
+  <JobDef_CatchFish.reportString>낚시 중.</JobDef_CatchFish.reportString>
+
+  <!--1541287769_190814_Field Medic-->
+  <Stabilize.reportString>응급처치 중</Stabilize.reportString>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu_DrawFromTerrain.reportString>TargetA에서 목록 작성 중.</Mizu_DrawFromTerrain.reportString>
+  <Mizu_DrawFromWaterPool.reportString>TargetA에서 목록 작성 중.</Mizu_DrawFromWaterPool.reportString>
+  <Mizu_DrawFromWaterNet.reportString>TargetA에서 목록 작성 중.</Mizu_DrawFromWaterNet.reportString>
+  <Mizu_PourWater.reportString>TargetA에서 목록 작성 중.</Mizu_PourWater.reportString>
+  <Mizu_DrawWaterByPrisoner.reportString>TargetA에서 물 끌어올리는 중.</Mizu_DrawWaterByPrisoner.reportString>
+  <Mizu_DrinkWaterFromBuilding.reportString>TargetA에서 마시는 중.</Mizu_DrinkWaterFromBuilding.reportString>
+  <Mizu_DrinkWater.reportString>TargetA를 마시는 중.</Mizu_DrinkWater.reportString>
+  <Mizu_FeedWaterPatient.reportString>TargetA를 TargetB로 급송.</Mizu_FeedWaterPatient.reportString>
+  <Mizu_DeliverWater.reportString>TargetA를 TargetB로 급송.</Mizu_DeliverWater.reportString>
+  <Mizu_GetSnow.reportString>눈 채취 중.</Mizu_GetSnow.reportString>
+  <Mizu_Mop.reportString>TargetA(을)를 닦아내는 중.</Mizu_Mop.reportString>
+  <Mizu_Nurse.reportString>TargetA(을)를 간호하는 중.</Mizu_Nurse.reportString>
+  <Mizu_SupplyWaterToTool.reportString>TargetB에 물 공급하는 중.</Mizu_SupplyWaterToTool.reportString>
+  <Mizu_WaterFarm.reportString>TargetA에서 물 끌어올리는 중.</Mizu_WaterFarm.reportString>
+
+  <!--1543060282_181101_Additional Joy Objects-->
+  <AJO_Doodle.reportString>끄적여보는 중.</AJO_Doodle.reportString>
+  <AJO_InterpretArt.reportString>예술을 해석하는 중.</AJO_InterpretArt.reportString>
+  <AJO_PlayArcadeHomebrew.reportString>오락기 게임 플레이 중.</AJO_PlayArcadeHomebrew.reportString>
+  <AJO_PlayArcadeBG.reportString>바게트리스 플레이 중.</AJO_PlayArcadeBG.reportString>
+  <AJO_PlayArcadeCB.reportString>쿠킹 할매 플레이 중.</AJO_PlayArcadeCB.reportString>
+  <AJO_PlayDarts.reportString>다트 놀이 하는 중.</AJO_PlayDarts.reportString>
+  <AJO_PlayArcadeES.reportString>엘더 슈크림 플레이 중.</AJO_PlayArcadeES.reportString>
+  <AJO_PlayArcadeGD.reportString>글루텐독스 플레이 중.</AJO_PlayArcadeGD.reportString>
+  <AJO_PlayArcadeHL.reportString>핫바 라이프 플레이 중.</AJO_PlayArcadeHL.reportString>
+  <AJO_PlayArcadeMC.reportString>민트크래프트 플레이 중.</AJO_PlayArcadeMC.reportString>
+  <AJO_PlayArcadePS.reportString>식물 vs. 살라미 플레이 중.</AJO_PlayArcadePS.reportString>
+  <AJO_PlayArcadePK.reportString>싸이코 노트 플레이 중.</AJO_PlayArcadePK.reportString>
+  <AJO_PlayRimColony.reportString>림콜로니 놀이 하는 중.</AJO_PlayRimColony.reportString>
+  <AJO_PlayArcadeRS.reportString>꽐라 표류기 플레이 중.</AJO_PlayArcadeRS.reportString>
+  <AJO_PlayArcadeSP.reportString>스펠탕카 플레이 중.</AJO_PlayArcadeSP.reportString>
+  <AJO_PlayArcadeTZ.reportString>더 찜즈 플레이 중.</AJO_PlayArcadeTZ.reportString>
+  <AJO_PlayArcadeTV.reportString>트라우마 벤더 플레이 중.</AJO_PlayArcadeTV.reportString>
+  <AJO_ReadBook.reportString>앉아서 책을 읽는 중.</AJO_ReadBook.reportString>
+  <AJO_SkimBook.reportString>책을 훑어보는 중.</AJO_SkimBook.reportString>
+
+  <!--1543177113_190628_Quarry-->
+  <QRY_MineQuarry.reportString>채석장 작업 중.</QRY_MineQuarry.reportString>
+
+  <!--1549446374_190519_Musical Instruments-->
+  <MusicListen.reportString>음악 감상하기.</MusicListen.reportString>
+  <MusicPlayWork.reportString>공연 음악</MusicPlayWork.reportString>
+  <MusicPlayJoy.reportString>음악 연주하기.</MusicPlayJoy.reportString>
+  <TakeInstrument.reportString>악기 취득하기.</TakeInstrument.reportString>
+
+  <!--1552461911_190814_Expanded Incidents-->
+  <Sabotage.reportString>TargetA에서 망가진 부품 교체 중.</Sabotage.reportString>
+
+  <!--1563793492_190519_Milkable Colonists-->
+  <MilkHuman.reportString>TargetA에게서 착유 중.</MilkHuman.reportString>
+
+  <!--1564657272_181119_BioReactor-->
+  <CarryToBioReactor.reportString>TargetA를 바이오리액터에 넣는 중.</CarryToBioReactor.reportString>
+  <EnterBioReactor.reportString>바이오 리액터에 들어가는 중.</EnterBioReactor.reportString>
+
+  <!--1566269698_181119_Survival Tools-->
+  <FellTree.reportString>TargetA 벌목 중.</FellTree.reportString>
+  <FellTreeDesignated.reportString>TargetA 벌목 중.</FellTreeDesignated.reportString>
+  <HarvestTree.reportString>TargetA 벌목 중.</HarvestTree.reportString>
+  <HarvestTreeDesignated.reportString>TargetA 벌목 중.</HarvestTreeDesignated.reportString>
+
+  <!--1628211313_190519_Dual Wield-->
+  <DW_EquipOffhand.reportString>양손무기 장비중</DW_EquipOffhand.reportString>
+
+  <!--1635565299_190714_Simple_Slavery-->
+  <EnslavePrisoner.reportString>TargetA(을)를 노예로 만듭니다.</EnslavePrisoner.reportString>
+  <EmancipateSlave.reportString>TargetA(을)를 해방시킵니다.</EmancipateSlave.reportString>
+  <ShackleSlave.reportString>TargetA에게 족쇄를 조정합니다.</ShackleSlave.reportString>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <AttendWorship.reportString>예배에 참석하는 중.</AttendWorship.reportString>
+  <HoldWorship.reportString>에배 드리는 중.</HoldWorship.reportString>
+  <PrayToGod.reportString>신께 기도하는 중</PrayToGod.reportString>
+
+  <!--1671814939_190519_Beta Traps-->
+  <RearmTrapJob.reportString>함정 재장전하는 중.</RearmTrapJob.reportString>
+
+  <!--1706030487_190519_Human Power Generator-->
+  <HPGMcycling.reportString>TargetA 사용.</HPGMcycling.reportString>
+
+  <!--1746084920_190526_RimSlave-->
+  <Pleasure.reportString>TargetA에게 쾌락을 선사하는 중.</Pleasure.reportString>
+  <Salute.reportString>TargetA에게 인사를 하는 중.</Salute.reportString>
+  <Massage.reportString>TargetA(을)를 마사지하는 중.</Massage.reportString>
+  <BeInsulted.reportString>TargetA에게 모욕을 당하는 중.</BeInsulted.reportString>
+
+  <!--1761704409_190606_JetPack-->
+  <JPRefuel.reportString>TargetA로 제트팩을 재충전하는 중.</JPRefuel.reportString>
+
+  <!--1778162471_190626_RazzleDazzle-->
+  <JobDef_Rehearse.reportString>TargetA에서 리허설 중.</JobDef_Rehearse.reportString>
+  <JobDef_DoStartRehearsalDirectly.reportString>TargetA에서 리허설 중.</JobDef_DoStartRehearsalDirectly.reportString>
+  <JobDef_PerformPlay.reportString>연극 공연.</JobDef_PerformPlay.reportString>
+  <JobDef_DoRehearsePlayBill.reportString>연극 상연.</JobDef_DoRehearsePlayBill.reportString>
+  <JobDef_PrepareConcert.reportString>음악회 준비.</JobDef_PrepareConcert.reportString>
+  <JobDef_PerformMusic.reportString>음악 공연.</JobDef_PerformMusic.reportString>
+  <JobDef_PerformComedy.reportString>공연 준비</JobDef_PerformComedy.reportString>
+  <JobDef_FaceObject.reportString>우-!</JobDef_FaceObject.reportString>
+  <MuckAroundOnStage.reportString>공연장에서 빈둥대는 중.</MuckAroundOnStage.reportString>
+  <NoodleOnPiano.reportString>피아노 즉흥 연주 중.</NoodleOnPiano.reportString>
+
+  <!--715565262_181031_Colony Manager-->
+  <ManagingAtManagingStation.reportString>TargetA에서 필수적인 정착지 관리를 하는 중.</ManagingAtManagingStation.reportString>
+
+  <!--717575199_190626_Misc. Training-->
+  <UseMartialArtsTarget.reportString>무술 연마 중.</UseMartialArtsTarget.reportString>
+  <UseMartialArtsTarget_NonJoy.reportString>무술 연마 중.</UseMartialArtsTarget_NonJoy.reportString>
+  <ArcheryShootArrows.reportString>활 쏘는 중.</ArcheryShootArrows.reportString>
+  <UseShootingRange.reportString>사격훈련 중.</UseShootingRange.reportString>
+  <UseShootingRange_NonJoy.reportString>사격훈련 중.</UseShootingRange_NonJoy.reportString>
+
+  <!--719702781_190814_Misc. Incidents-->
+  <GotoCellAndDraft.reportString>모임장소로 가는 중.</GotoCellAndDraft.reportString>
+  <PlayTacticalComputer.reportString>림리스크(RimRisk) 재생</PlayTacticalComputer.reportString>
+  <PlayComputerTerminal.reportString>림넷(RimNet) 서핑</PlayComputerTerminal.reportString>
+
+  <!--724600171_190621_Misc. MAI-->
+  <AIPawn_FillConstructor.reportString>TargetB 채우는 중.</AIPawn_FillConstructor.reportString>
+  <AIPawn_Goto.reportString>이동 중.</AIPawn_Goto.reportString>
+  <AIPawn_Sedate.reportString>진정시키는 중.</AIPawn_Sedate.reportString>
+  <AIPawn_SedateAndRescue.reportString>이동 중.</AIPawn_SedateAndRescue.reportString>
+
+  <!--724602224_190626_Misc. Robots-->
+  <AIRobot_GoRecharge.reportString>TargetA로 이동 중.</AIRobot_GoRecharge.reportString>
+  <AIRobot_GoDespawn.reportString>TargetA로 이동 중.</AIRobot_GoDespawn.reportString>
+  <AIRobot_DeconstructDamagedRobot.reportString>TargetA 해체 중.</AIRobot_DeconstructDamagedRobot.reportString>
+  <AIRobot_RepairDamagedRobot.reportString>TargetB 복구 중.</AIRobot_RepairDamagedRobot.reportString>
+  <AIRobot_RepairStationRobot.reportString>TargetA에서 복구 중.</AIRobot_RepairStationRobot.reportString>
+
+  <!--726244033_181028_Fluffy Breakdowns-->
+  <FluffyBreakdowns_Maintenance.reportString>TargetA 관리 중.</FluffyBreakdowns_Maintenance.reportString>
+
+  <!--732569232_190814_Medieval Times-->
+  <MedTimes_AttendFire.reportString>불을 피우고 관리하는 중.</MedTimes_AttendFire.reportString>
+  <MedTimes_DeskJoyDraw.reportString>그림 그리기 연습 중.</MedTimes_DeskJoyDraw.reportString>
+  <MedTimes_Prayer_PangLi.reportString>진흙 호랑이 '팡리'에게 기도하는 중.</MedTimes_Prayer_PangLi.reportString>
+  <MedTimes_Prayer_RNG.reportString>주사위 신에게 기도하는 중.</MedTimes_Prayer_RNG.reportString>
+  <MedTimes_Prayer_Creator.reportString>창조주 '타이난'에게 기도하는 중.</MedTimes_Prayer_Creator.reportString>
+  <MedTimes_DeskJoyReading.reportString>책을 읽는 중.</MedTimes_DeskJoyReading.reportString>
+  <MedTimes_DeskJoyMagazine.reportString>더러운 잡지를 읽는 중.</MedTimes_DeskJoyMagazine.reportString>
+  <MedTimes_DeskJoyReadingShort.reportString>단편 소설을 읽는 중.</MedTimes_DeskJoyReadingShort.reportString>
+  <MedTimes_DeskJoyStory.reportString>단편 소설을 쓰는 중.</MedTimes_DeskJoyStory.reportString>
+  <MedTimes_DeskJoyWork.reportString>노트 작성 중.</MedTimes_DeskJoyWork.reportString>
+  <MedTimes_PCJoyLewd.reportString>PC로 부적절한 일을 하는 중…</MedTimes_PCJoyLewd.reportString>
+  <MedTimes_PCJoyModing.reportString>PC로 게임파일을 수정 중.</MedTimes_PCJoyModing.reportString>
+  <MedTimes_PCJoyCombatGame.reportString>PC로 격투게임 중.</MedTimes_PCJoyCombatGame.reportString>
+  <MedTimes_PCJoyFPS.reportString>PC로 1인칭 슈팅게임 중.</MedTimes_PCJoyFPS.reportString>
+  <MedTimes_PCJoyStrategy.reportString>PC로 전략게임 중.</MedTimes_PCJoyStrategy.reportString>
+  <MedTimes_PCJoyPersonalLogs.reportString>PC로 개인 기록을 기록 중.</MedTimes_PCJoyPersonalLogs.reportString>
+  <MedTimes_PCJoySurfing.reportString>PC로 옛 위성망에서 데이터저장소 찾는 중.</MedTimes_PCJoySurfing.reportString>
+  <MedTimes_PCJoyMovies.reportString>PC로 데이터저장소에서 영화 감상 중.</MedTimes_PCJoyMovies.reportString>
+  <MedTimes_WatchFire.reportString>불을 보는 중</MedTimes_WatchFire.reportString>
+  <MedTimes_DeskJoyPersonalLogs.reportString>개인 기록을 쓰는 중.</MedTimes_DeskJoyPersonalLogs.reportString>
+
+  <!--735241897_190519_MendAndRecycle-->
+  <Mend.reportString>TargetB를 수선하는 중.</Mend.reportString>
+  <Recycle.reportString>TargetB를 재활용하는 중.</Recycle.reportString>
+
+  <!--758810805_190811_FishIndustry-->
+  <JobDef_FishAtFishingPier.reportString>부두에서 낚시.</JobDef_FishAtFishingPier.reportString>
+  <JobDef_FishAtFishingZone.reportString>낚시하는 중.</JobDef_FishAtFishingZone.reportString>
+  <JobDef_AquacultureBasinHarvest.reportString>수확하는 중.</JobDef_AquacultureBasinHarvest.reportString>
+  <JobDef_AquacultureBasinChangeSpecies.reportString>종을 바꿉니다.</JobDef_AquacultureBasinChangeSpecies.reportString>
+  <JobDef_AquacultureBasinMaintain.reportString>유지 보수하는 중.</JobDef_AquacultureBasinMaintain.reportString>
+  <LookAtWater.reportString>물가를 바라보는 중.</LookAtWater.reportString>
+
+  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
+  <ROM_FillChthonianPit.reportString>구덩이를 채움.</ROM_FillChthonianPit.reportString>
+  <ROM_HaulChthonianSacrifice.reportString>TargetB(을)를 제물로 바침.</ROM_HaulChthonianSacrifice.reportString>
+
+  <!--777197241_190628_Industrial Age - Objects and Furniture-->
+  <ListenToGramophone.reportString>축음기 듣는 중.</ListenToGramophone.reportString>
+  <PlayAndListenToGramophone.reportString>축음기 듣는 중.</PlayAndListenToGramophone.reportString>
+  <TurnOffGramophone.reportString>축음기 정지 중.</TurnOffGramophone.reportString>
+  <PlayGramophone.reportString>축음기 재생 중.</PlayGramophone.reportString>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Cults_AttendSacrifice.reportString>번제에 참가하는 중.</Cults_AttendSacrifice.reportString>
+  <Cults_AttendWorship.reportString>설교를 들으며.</Cults_AttendWorship.reportString>
+  <Cults_EnterTransporterPawn.reportString>TargetA에 들어가는 중.</Cults_EnterTransporterPawn.reportString>
+  <Cults_GiveOffering.reportString>TargetA에서 헌금 모으는 중.</Cults_GiveOffering.reportString>
+  <Cults_HoldSacrifice.reportString>번제에 참가하는 중.</Cults_HoldSacrifice.reportString>
+  <Cults_HoldWorship.reportString>설교를 듣고.</Cults_HoldWorship.reportString>
+  <Cults_Investigate.reportString>TargetB 조사 중.</Cults_Investigate.reportString>
+  <Cults_PruneAndRepair.reportString>TargetA 가지치기 혹은 수리 중.</Cults_PruneAndRepair.reportString>
+  <Cults_ReflectOnResult.reportString>결과를 반영함.</Cults_ReflectOnResult.reportString>
+  <Cults_ReflectOnOffering.reportString>제안에 반영함.</Cults_ReflectOnOffering.reportString>
+  <Cults_ReflectOnWorship.reportString>예배에 반영함.</Cults_ReflectOnWorship.reportString>
+  <Cults_MidnightInquisition.reportString>스스로 일을 해결 중.</Cults_MidnightInquisition.reportString>
+  <Cults_WaitTiedDown.reportString>구속됨.</Cults_WaitTiedDown.reportString>
+  <CastAbilityVerb.reportString>능력 사용</CastAbilityVerb.reportString>
+  <CastAbilitySelf.reportString>능력 사용</CastAbilitySelf.reportString>
+  <Cults_WriteTheBook.reportString>착란에 빠짐.</Cults_WriteTheBook.reportString>
+
+  <!--83233353_190626_Dubs Rimkit-->
+  <BandageOthers.reportString>TargetA에게 붕대 감아주는 중.</BandageOthers.reportString>
+  <Bandage.reportString>붕대감는 중.</Bandage.reportString>
+  <FixBrokenDownBuildingRepairKit.reportString>TargetA의 파손된 부품 교체 중.</FixBrokenDownBuildingRepairKit.reportString>
+  <TendSelf.reportString>TargetA에서 치료 중.</TendSelf.reportString>
+
+  <!--918200645_190816_Star Wars - Fully Functional Lightsabers-->
+  <CastDeflectVerb.reportString>편향</CastDeflectVerb.reportString>
+  <GatherSlotItem.reportString>TargetA 장비 중</GatherSlotItem.reportString>
+
+  <!--918226861_190816_Star Wars - The Force-->
+  <PJ_ForceMeditationJob.reportString>포스 명상하기</PJ_ForceMeditationJob.reportString>
+  <CastAbilityVerb.reportString>능력 사용하기</CastAbilityVerb.reportString>
+  <CastAbilitySelf.reportString>능력 사용하기</CastAbilitySelf.reportString>
+
+  <!--918227266_181112_Star Wars - Factions-->
+  <CastDeflectVerb.reportString>편향</CastDeflectVerb.reportString>
+
+  <!--928992405_190519_1.0_Starship_Troopers_Arachnids-->
+  <ArachnidDeconstruct.reportString>해체 종.</ArachnidDeconstruct.reportString>
+  <WaitCombatBuilding.reportString>목표 지켜보는 중.</WaitCombatBuilding.reportString>
+  <WaitBuilding.reportString>서있는 중.</WaitBuilding.reportString>
+  <PlasmaBugWaitCombat.reportString>목표 지켜보는 중.</PlasmaBugWaitCombat.reportString>
+  <PlasmaBugWait.reportString>서있는 중.</PlasmaBugWait.reportString>
+  <ArachnidAttackBuilding.reportString>공격 중.</ArachnidAttackBuilding.reportString>
+
+  <!--950475543_190818_Rim of Madness - Arachnophobia-->
+  <ROMA_ConsumeCocoon.reportString>잡아먹는 중.</ROMA_ConsumeCocoon.reportString>
+  <ROMA_SpinPrey.reportString>TargetA 사냥하는 중.</ROMA_SpinPrey.reportString>
+  <ROMA_SpinWeb.reportString>거미줄 치는 중.</ROMA_SpinWeb.reportString>
+
+  <!--1552507180_190814_Psychology-->
+  <Abuse.reportString>TargetA에게 욕을 함.</Abuse.reportString>
+  <MakeAdvance.reportString>TargetA에게 추파를 던짐.</MakeAdvance.reportString>
+  <BreakHunt.reportString>TargetA 물색.</BreakHunt.reportString>
+
+</LanguageData>

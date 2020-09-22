@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1240656304_190617_Lighter Than Fast-->
+  <Mantle.label>덮개</Mantle.label>
+  <CephalicRegion.label>두족 부위</CephalicRegion.label>
+  <BaseTentacle.label>촉수 기본 부위</BaseTentacle.label>
+  <UpperTentacle.label>촉수 윗 부위</UpperTentacle.label>
+  <LowerTentacle.label>촉수 아랫 부위</LowerTentacle.label>
+  <TipTentacle.label>촉수 끝</TipTentacle.label>
+  <RightHandClawsGroup.label>오른 손 손톱</RightHandClawsGroup.label>
+  <LeftHandClawsGroup.label>왼 손 손톱</LeftHandClawsGroup.label>
+
+  <!--1294507772_190519_The Mantodean insectoid race-->
+  <AcidGland.label>독샘</AcidGland.label>
+  <Pincers.label>집게발</Pincers.label>
+  <Leftpincer.label>왼쪽 집게발</Leftpincer.label>
+  <Leftpincer.labelShort>집게발</Leftpincer.labelShort>
+  <Rightpincer.label>오른쪽 집게발</Rightpincer.label>
+  <Rightpincer.labelShort>집게발</Rightpincer.labelShort>
+
+  <!--1314474881_181118_Avali-->
+  <UpperHeadAvali.label>머리 상단</UpperHeadAvali.label>
+  <EarsAvali.label>귀</EarsAvali.label>
+  <TailAvali.label>꼬리</TailAvali.label>
+  <LeftHandTalons.label>왼손 발톱</LeftHandTalons.label>
+  <RightHandTalons.label>오른손 발톱</RightHandTalons.label>
+  <LeftFeetTalons.label>왼발 발톱</LeftFeetTalons.label>
+  <RightFeetTalons.label>오른발 발톱</RightFeetTalons.label>
+  <LeftFeetAvali.label>왼발</LeftFeetAvali.label>
+  <RightFeetAvali.label>오른발</RightFeetAvali.label>
+
+  <!--1365540920_190714_Black Widows-->
+  <BlackWidow_SpiderWaist.label>블랙 위도우 거미 몸통</BlackWidow_SpiderWaist.label>
+  <BlackWidowLegs.label>블랙 위도우 거미 다리</BlackWidowLegs.label>
+  <BWShoulders.label>블랙 위도우 어깨</BWShoulders.label>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <LotRD_Wings.label>양쪽 날개</LotRD_Wings.label>
+
+  <!--1416483638_190811_Orassans-->
+  <RightHandClawsGroup.label>오른 손톱</RightHandClawsGroup.label>
+  <LeftHandClawsGroup.label>왼 손톱</LeftHandClawsGroup.label>
+
+  <!--1514158118_190519_Avian Races-->
+  <AvianBeak.label>부리</AvianBeak.label>
+
+  <!--1541567184_181112_Ni'Hal-->
+  <TailAttackToolBlunt.label>꼬리</TailAttackToolBlunt.label>
+  <TailAttackToolStab.label>꼬리</TailAttackToolStab.label>
+  <RightHandClawsGroup.label>오른 손톱</RightHandClawsGroup.label>
+  <LeftHandClawsGroup.label>왼 손톱</LeftHandClawsGroup.label>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <RRY_Xeno_Tail_SpikeAttackTool.label>꼬리 침</RRY_Xeno_Tail_SpikeAttackTool.label>
+  <RRY_Xeno_Tail_AttackTool.label>꼬리</RRY_Xeno_Tail_AttackTool.label>
+  <RRY_Xeno_InnerTeeth.label>내부 이빨</RRY_Xeno_InnerTeeth.label>
+  <RRY_Xeno_Mandibles.label>곤충 턱</RRY_Xeno_Mandibles.label>
+  <RRY_Xeno_Hands.label>손</RRY_Xeno_Hands.label>
+  <RRY_Xeno_LeftHand.label>왼 손톱</RRY_Xeno_LeftHand.label>
+  <RRY_Xeno_LeftHand.labelShort>손톱</RRY_Xeno_LeftHand.labelShort>
+  <RRY_Xeno_RightHand.label>오른 손톱</RRY_Xeno_RightHand.label>
+  <RRY_Xeno_RightHand.labelShort>손톱</RRY_Xeno_RightHand.labelShort>
+  <RRY_Yautja_Mandibles.label>곤충 턱</RRY_Yautja_Mandibles.label>
+  <RRY_Yautja_LeftArm.label>왼 팔</RRY_Yautja_LeftArm.label>
+  <RRY_Yautja_RightArm.label>오른 팔</RRY_Yautja_RightArm.label>
+
+  <!--1571323744_190714_Crystalloid (Rewrite)-->
+  <OuterShellTool.label>껍질</OuterShellTool.label>
+  <PsyTool.label>사이오닉스</PsyTool.label>
+
+  <!--1632244750_190708_Oni of the Rim-->
+  <OniHorn.label>오니 뿔</OniHorn.label>
+
+  <!--1706345856_190811_Warhammer Skaven-->
+  <RatOgreBladeG.label>오른 칼날</RatOgreBladeG.label>
+
+  <!--1728999127_190813_Forsakens-->
+  <RightHandClawsGroup.label>오른 손 손톱</RightHandClawsGroup.label>
+  <LeftHandClawsGroup.label>왼 손 손톱</LeftHandClawsGroup.label>
+
+  <!--882126182_181000_Call of Cthulhu - Elder Things-->
+  <ElderThing_Head.label>머리 촉수</ElderThing_Head.label>
+  <ElderThing_Maw.label>위</ElderThing_Maw.label>
+  <ElderThing_Wings.label>날개</ElderThing_Wings.label>
+  <ElderThing_Arms.label>촉수 팔</ElderThing_Arms.label>
+  <ElderThing_Legs.label>촉수 다리</ElderThing_Legs.label>
+  <ElderThing_Mind.label>강한 지성</ElderThing_Mind.label>
+
+</LanguageData>

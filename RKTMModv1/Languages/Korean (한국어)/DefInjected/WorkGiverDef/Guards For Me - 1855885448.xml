@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GFM_DoStandguard.label>구역 보호</GFM_DoStandguard.label>
+  <GFM_DoStandguard.verb>구역 보호</GFM_DoStandguard.verb>
+  <GFM_DoStandguard.gerund>구역 보호</GFM_DoStandguard.gerund>
+  <GFM_DoPatrolGuard.label>순찰</GFM_DoPatrolGuard.label>
+  <GFM_DoPatrolGuard.verb>순찰로</GFM_DoPatrolGuard.verb>
+  <GFM_DoPatrolGuard.gerund>순찰로</GFM_DoPatrolGuard.gerund>
+  <GFM_DoBodyGuard.label>중요 인물 보호</GFM_DoBodyGuard.label>
+  <GFM_DoBodyGuard.verb>중요 인물 보호</GFM_DoBodyGuard.verb>
+  <GFM_DoBodyGuard.gerund>중요 인물 보호</GFM_DoBodyGuard.gerund>
+
+</LanguageData>

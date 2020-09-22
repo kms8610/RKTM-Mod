@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Synthmeat -->
+  <PlantSynthmeat.label>인공배양 고기 작물</PlantSynthmeat.label>
+  <PlantSynthmeat.description>풍부한 토양에서 번성하고 고기 대용품으로 사용될 수 있는 인공배양 고기를 생산하는 유전 공학 식물입니다. 이 식물은 꽤 연약해서 일단 수확되면 빨리 썩는 경향이 있습니다.</PlantSynthmeat.description>
+  <RawSynthmeat.label>인공배양 고기</RawSynthmeat.label>
+  <RawSynthmeat.description>인공배양 고기 입니다. 일반적인 고기의 훌륭한 대체품입니다.</RawSynthmeat.description>
+
+  <!-- [1.0] Tables+ -->
+  <TableLinkable.label>식탁 (연결가능)</TableLinkable.label>
+  <TableLinkable.description>의자가 있으면 여기서 밥을 먹습니다.</TableLinkable.description>
+  <StoolLinkable.label>의자 (연결가능)</StoolLinkable.label>
+  <StoolLinkable.description>앉을 수 있는 간단한 의자입니다. 이 의자는 이어붙일 수 있습니다.</StoolLinkable.description>
+
+  <!-- Small Comms Console [1.0] -->
+  <SmallCommsConsole_TWB.label>소형 통신기</SmallCommsConsole_TWB.label>
+  <SmallCommsConsole_TWB.description>쓸데없이 컸던 기존 통신기를 개량해 크기를 줄인 소형 통신기입니다. 멀리 떨어진 상인들과 거래를 하거나, 다른 세력들과의 외교에 필요합니다.</SmallCommsConsole_TWB.description>
+
+  <!-- Run and Hide -->
+  <BunkerSpot.label>대피 지점</BunkerSpot.label>
+  <BunkerSpot.description>정착민들이 위협에 직면했을 때, 도망칠 수 있는 안전한 장소를 지정합니다.\n 만약 정착민들이 위험으로부터 도망칠 수 있는 상태라면, 그들은 가장 가까운 대피 지점으로 달려갈 것입니다.</BunkerSpot.description>
+
+</LanguageData>

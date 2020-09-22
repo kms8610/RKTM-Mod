@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_Otter.label>수달</AEXP_Otter.label>
+  <AEXP_Otter.description>길고 날씬하며 반수생의 이 포유류는 주로 작은 물고기와 식물을 먹으며 생활합니다. 그들은 굉장히 훌륭한 수영선수이며 물속에서 오랫동안 숨을 쉴 수 있습니다.</AEXP_Otter.description>
+  <AEXP_Otter.tools.0.label>왼쪽 발톱</AEXP_Otter.tools.0.label>
+  <AEXP_Otter.tools.1.label>오른쪽 발톱</AEXP_Otter.tools.1.label>
+  <AEXP_Otter.tools.3.label>머리</AEXP_Otter.tools.3.label>
+  <AEXP_Otter_Leather.label>수달 가죽</AEXP_Otter_Leather.label>
+  <AEXP_Otter_Leather.description>수달 가죽입니다.</AEXP_Otter_Leather.description>
+  <AEXP_Otter_Leather.stuffProps.stuffAdjective>수달 가죽</AEXP_Otter_Leather.stuffProps.stuffAdjective>
+  <AEXP_Otter_Meat.label>수달 고기</AEXP_Otter_Meat.label>
+  <AEXP_Otter_Meat.description>수달 고기입니다.</AEXP_Otter_Meat.description>
+  <AEXP_Otter_Corpse.label>수달 시체</AEXP_Otter_Corpse.label>
+  <AEXP_Otter_Corpse.description>수달 시체입니다.</AEXP_Otter_Corpse.description>
+  <AEXP_ArcticCoyote.label>북극 코요테</AEXP_ArcticCoyote.label>
+  <AEXP_ArcticCoyote.description>툰드라와 아한대림에서 볼 수 있는 작은 갯과 동물입니다. 자기보다 훨씬 더 큰 먹이를 사냥할 수 있고 종종 늑대처럼 무리를 지어 발견됩니다.</AEXP_ArcticCoyote.description>
+  <AEXP_ArcticCoyote.tools.0.label>왼쪽 발톱</AEXP_ArcticCoyote.tools.0.label>
+  <AEXP_ArcticCoyote.tools.1.label>오른쪽 발톱</AEXP_ArcticCoyote.tools.1.label>
+  <AEXP_ArcticCoyote.tools.3.label>머리</AEXP_ArcticCoyote.tools.3.label>
+  <AEXP_ArcticCoyote_Leather.label>북극 코요테 가죽</AEXP_ArcticCoyote_Leather.label>
+  <AEXP_ArcticCoyote_Leather.description>북극 코요테 가죽입니다.</AEXP_ArcticCoyote_Leather.description>
+  <AEXP_ArcticCoyote_Leather.stuffProps.stuffAdjective>북극 코요테 가죽</AEXP_ArcticCoyote_Leather.stuffProps.stuffAdjective>
+  <AEXP_ArcticCoyote_Meat.label>북극 코요테 고기</AEXP_ArcticCoyote_Meat.label>
+  <AEXP_ArcticCoyote_Meat.description>북극 코요테 고기입니다.</AEXP_ArcticCoyote_Meat.description>
+  <AEXP_ArcticCoyote_Corpse.label>북극 코요테 시체</AEXP_ArcticCoyote_Corpse.label>
+  <AEXP_ArcticCoyote_Corpse.description>북극 코요테 시체입니다.</AEXP_ArcticCoyote_Corpse.description>
+  <AEXP_BlackBear.label>흑곰</AEXP_BlackBear.label>
+  <AEXP_BlackBear.description>추운 기후에 적응한 중간 크기의 잡식성 포유류입니다. 곰의 두꺼운 지방과 털은 겨울에 따뜻하게 해줍니다.\n흑곰은 주로 생선, 딸기, 꿀, 그리고 손질된 고기를 주식으로 삼지만, 가끔 직접 사냥할땐 엄청난 힘과 치명적인 발톱을 사용하여 사냥감을 쉽게 죽입니다. 특히 느릿느릿한 먹이를 발견하면 놀랍도록 빠르게 움직입니다.</AEXP_BlackBear.description>
+  <AEXP_BlackBear.tools.0.label>왼쪽 발톱</AEXP_BlackBear.tools.0.label>
+  <AEXP_BlackBear.tools.1.label>오른쪽 발톱</AEXP_BlackBear.tools.1.label>
+  <AEXP_BlackBear.tools.3.label>머리</AEXP_BlackBear.tools.3.label>
+  <AEXP_BlackBear_Leather.label>흑곰 가죽</AEXP_BlackBear_Leather.label>
+  <AEXP_BlackBear_Leather.description>흑곰 가죽입니다.</AEXP_BlackBear_Leather.description>
+  <AEXP_BlackBear_Leather.stuffProps.stuffAdjective>흑곰 가죽</AEXP_BlackBear_Leather.stuffProps.stuffAdjective>
+  <AEXP_BlackBear_Corpse.label>흑곰 시체</AEXP_BlackBear_Corpse.label>
+  <AEXP_BlackBear_Corpse.description>흑곰 시체입니다.</AEXP_BlackBear_Corpse.description>
+
+</LanguageData>

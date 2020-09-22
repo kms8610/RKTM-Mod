@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Stage0b_KA.label>기본 독일 무기들</Stage0b_KA.label>
+  <Stage0b_KA.description>이 기술로 카이저 기계 가공대와 Gew 98, C96, M1887 Feldspaten (야전삽), S98/08 총검과 M1915 슈틸한트그라나테를 제작할 수 있습니다.</Stage0b_KA.description>
+  <Stage1a_KA.label>분대 화기 I</Stage1a_KA.label>
+  <Stage1a_KA.description>7.92mm MG 08 중기관총 제작을 허가합니다.</Stage1a_KA.description>
+  <Stage1b_KA.label>향상된 독일 무기들</Stage1b_KA.label>
+  <Stage1b_KA.description>이 기술로 P08, P08포병형, M1873 사벨을 제작할 수 있습니다.</Stage1b_KA.description>
+  <Stage1c_KA.label>화염방사기</Stage1c_KA.label>
+  <Stage1c_KA.description>Wechselapparat (WEX), 경량 화염 방사기를 해금합니다.</Stage1c_KA.description>
+  <Stage2a_KA.label>분대 화기 II</Stage2a_KA.label>
+  <Stage2a_KA.description>7,7cm FK 96 n.A.야포를 제작할 수 있습니다.</Stage2a_KA.description>
+  <Stage2b_KA.label>고급 독일 무기들</Stage2b_KA.label>
+  <Stage2b_KA.description>이 기술로 MP18, M1916 젤프스트라더, MG 15 n.A를 제작할 수 있습니다.</Stage2b_KA.description>
+  <Stage3a_KA.label>독일 중형 곡사포</Stage3a_KA.label>
+  <Stage3a_KA.description>10,5cm leFH 16 야포</Stage3a_KA.description>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchAutoEnemySwitch.label>자동 위험 감지 스위치</ResearchAutoEnemySwitch.label>
+  <ResearchAutoEnemySwitch.description>전원 스위치의 위험 감지 기능을 연구합니다. 적을 발견하면 자동으로 전원 전환이 가능합니다.</ResearchAutoEnemySwitch.description>
+  <ResearchAutoPowerSwitch.label>자동 전원 스위치</ResearchAutoPowerSwitch.label>
+  <ResearchAutoPowerSwitch.description>전원 스위치의 동작 감지기를 연구합니다. 자동 전원 전환이 가능합니다.</ResearchAutoPowerSwitch.description>
+  <ResearchPowerConduitsInvisible.label>투명한 전선</ResearchPowerConduitsInvisible.label>
+  <ResearchPowerConduitsInvisible.description>전선을 눈에 안 보이게 숨기는 방법을 연구합니다.\n\n참고: 또한 손상으로부터 더 잘 보호됩니다.</ResearchPowerConduitsInvisible.description>
+
+</LanguageData>

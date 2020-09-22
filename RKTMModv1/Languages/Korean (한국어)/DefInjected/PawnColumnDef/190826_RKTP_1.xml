@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1331961995_181029_Giddy-up! Ride and Roll-->
+  <MountableByAnyone.headerTip>정착민 누구나 자동으로 탑승 가능합니다.</MountableByAnyone.headerTip>
+  <MountableByMaster.headerTip>동물의 주인만이 자동으로 탑승 가능합니다.</MountableByMaster.headerTip>
+
+  <!--1573233249_190901_Desynchronized: Tales and News (v1.6.2)-->
+  <KnownNewsCount.headerTip>해당 정착민이 알고있는 소식의 갯수입니다.</KnownNewsCount.headerTip>
+  <ForgottenNewsCount.headerTip>해당 정착민이 잊어버린 소식의 갯수입니다.</ForgottenNewsCount.headerTip>
+  <NewsKnowledgeButton.label>개인별 소식 살펴보기</NewsKnowledgeButton.label>
+
+  <!--715565817_190626_Medical Tab-->
+  <MedicalCare.label>의료 정책</MedicalCare.label>
+  <SelfTend.headerTip>자가 치료</SelfTend.headerTip>
+  <Bleeding.headerTip>출혈</Bleeding.headerTip>
+  <Diseases.headerTip>질병</Diseases.headerTip>
+  <Pain.label>고통</Pain.label>
+  <Pain.headerTip>고통</Pain.headerTip>
+
+  <!--725219116_190621_Work_Tab-->
+  <Mood.headerTip>기분</Mood.headerTip>
+  <Job.headerTip>작업</Job.headerTip>
+  <Favourite.headerTip>즐겨찾기</Favourite.headerTip>
+
+  <!--1414302321_190818_Numbers-->
+  <Numbers_Age.label>나이</Numbers_Age.label>
+  <Numbers_AnimalEggProgress.label>알 진행률</Numbers_AnimalEggProgress.label>
+  <Numbers_Milkfullness.label>유량</Numbers_Milkfullness.label>
+  <Numbers_AnimalWoolGrowth.label>털 진행률</Numbers_AnimalWoolGrowth.label>
+  <Numbers_Race.label>종족</Numbers_Race.label>
+  <Numbers_Backstory.label>칭호</Numbers_Backstory.label>
+  <Numbers_Equipment.label>장비</Numbers_Equipment.label>
+  <Numbers_Inventory.label>소지품</Numbers_Inventory.label>
+  <Numbers_JobCurrent.label>현재 작업</Numbers_JobCurrent.label>
+  <Numbers_JobQueued.label>대기 작업</Numbers_JobQueued.label>
+  <Numbers_MentalState.label>정신상태</Numbers_MentalState.label>
+  <Numbers_PrisonerInteraction.label>수감자 상호작용</Numbers_PrisonerInteraction.label>
+  <Numbers_PrisonerRecruitmentDifficulty.label>포섭률</Numbers_PrisonerRecruitmentDifficulty.label>
+  <Numbers_PrisonerResistance.label>잔여 저항</Numbers_PrisonerResistance.label>
+  <Numbers_Pain.label>고통</Numbers_Pain.label>
+  <Numbers_Bleedrate.label>출혈량</Numbers_Bleedrate.label>
+  <Numbers_NeedsTreatment.label>치료 필요</Numbers_NeedsTreatment.label>
+  <Numbers_Operations.label>수술</Numbers_Operations.label>
+  <Numbers_Forbidden.label>금지여부</Numbers_Forbidden.label>
+  <Numbers_Inspiration.label>영감</Numbers_Inspiration.label>
+  <Numbers_DiseaseProgress.label>질병 진행률</Numbers_DiseaseProgress.label>
+  <Numbers_DiseaseProgress.headerTip>질병 진행률</Numbers_DiseaseProgress.headerTip>
+  <Numbers_ManhunterOnTameFailChance.headerTip>길들이기 실패시 보복할 확률</Numbers_ManhunterOnTameFailChance.headerTip>
+  <Numbers_Wildness.label>야성</Numbers_Wildness.label>
+  <Numbers_TameChance.label>길들일 확률</Numbers_TameChance.label>
+  <Numbers_SelfTend.headerTip>자가 치료</Numbers_SelfTend.headerTip>
+  <Numbers_HediffList.headerTip>질병</Numbers_HediffList.headerTip>
+  <Numbers_Faction.label>세력</Numbers_Faction.label>
+
+</LanguageData>

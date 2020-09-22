@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimWriter_ReadABook.reportString>읽는 중.</RimWriter_ReadABook.reportString>
+  <RimWriter_ReturnBook.reportString>TargetA에 반납 중.</RimWriter_ReturnBook.reportString>
+  <RimWriter_FreeWrite.reportString>글쓰기 연습 중.</RimWriter_FreeWrite.reportString>
+  <RimWriter_AutoWrite.reportString>무의식적인 글쓰기 중.</RimWriter_AutoWrite.reportString>
+
+</LanguageData>

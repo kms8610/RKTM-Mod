@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GunComplex.label>기관총 포대</GunComplex.label>
+  <GunComplex.description>정착지 방어를 위한 수동 기관총 포대를 제작할 수 있습니다.</GunComplex.description>
+  <GunComplex_Blueprint.label>기관총 포대 (청사진)</GunComplex_Blueprint.label>
+  <GunComplex_Blueprint_Install.label>기관총 포대 (청사진)</GunComplex_Blueprint_Install.label>
+  <GunComplex_Frame.label>기관총 포대 (건설 중)</GunComplex_Frame.label>
+  <GunComplex_Frame.description>기관총 포대는 림 중 한 명을 세워 작동 시켜야 합니다. 전원이 따로 필요 없습니다. 폭발 주의하세요.</GunComplex_Frame.description>
+  <Bullet_GunComplex.label>기관총 포대 총알</Bullet_GunComplex.label>
+  <Gun_GunComplex.label>기관총 포대 총신</Gun_GunComplex.label>
+  <Gun_GunComplex.description>중 기관총</Gun_GunComplex.description>
+  <RocketComplex.label>로켓 포대</RocketComplex.label>
+  <RocketComplex.description>정착지 방어를 위한 수동 로켓 포대를 제작할 수 있습니다.</RocketComplex.description>
+  <RocketComplex_Blueprint.label>로켓 포대 (청사진)</RocketComplex_Blueprint.label>
+  <RocketComplex_Blueprint_Install.label>로켓 포대 (청사진)</RocketComplex_Blueprint_Install.label>
+  <RocketComplex_Frame.label>로켓 포대 (건설 중)</RocketComplex_Frame.label>
+  <RocketComplex_Frame.description>로켓 포대는 림 중 한 명을 세워 작동 시켜야 합니다. 그러나 다행이도 데미지를 극대화 한 폭발력으로 최전방에서 두려워하는 무기입니다. 파괴 될 때 반지름 3타일 범위로 폭발합니다..</RocketComplex_Frame.description>
+  <Bullet_ComplexRocket.label>로켓 포대 포탄</Bullet_ComplexRocket.label>
+  <Gun_RocketComplex.label>로켓 포대</Gun_RocketComplex.label>
+  <Gun_RocketComplex.description>두꺼운 평판에 설치된 로켓 포대입니다.</Gun_RocketComplex.description>
+  <MilitaryTurretGun.label>군용 선회 포탑</MilitaryTurretGun.label>
+  <MilitaryTurretGun.description>자동화 된 포탑으로 보다 강력하게 변했습니다. 더 긴 이중 배럴은 사거리가 늘어났고 더 넓은 범위를 집중 사격합니다. 파괴 될 때 반지름 4타일 범위로 폭발합니다.</MilitaryTurretGun.description>
+  <MilitaryTurretGun_Blueprint.label>군용 선회 포탑 (청사진)</MilitaryTurretGun_Blueprint.label>
+  <MilitaryTurretGun_Blueprint_Install.label>군용 선회 포탑 (청사진)</MilitaryTurretGun_Blueprint_Install.label>
+  <MilitaryTurretGun_Frame.label>군용 선회 포탑 (건설 중)</MilitaryTurretGun_Frame.label>
+  <MilitaryTurretGun_Frame.description>자동화 된 포탑으로 보다 강력하게 변했습니다. 더 긴 이중 배럴은 사거리가 늘어났고 더 넓은 범위를 집중 사격합니다. 파괴 될 때 반지름 4타일 범위로 폭발합니다.</MilitaryTurretGun_Frame.description>
+  <Gun_TurretMilitary.label>군용 선회 포탑 총신</Gun_TurretMilitary.label>
+  <Gun_TurretMilitary.description>포탑에 부착되기 위해 만들어진 총</Gun_TurretMilitary.description>
+  <ShredderTurretGun.label>파쇄 포탑</ShredderTurretGun.label>
+  <ShredderTurretGun.description>파쇄 포탑은 가까운 거리를 위해 설계되었습니다. 파괴 될 때 폭발하지 않으므로 실내 방어에 최적화 되어 있습니다. 유일한 단점은 일반적인 포탑보다 많은 공간이 필요합니다.</ShredderTurretGun.description>
+  <ShredderTurretGun_Blueprint.label>파쇄 포탑 (청사진)</ShredderTurretGun_Blueprint.label>
+  <ShredderTurretGun_Blueprint_Install.label>파쇄 포탑 (청사진)</ShredderTurretGun_Blueprint_Install.label>
+  <ShredderTurretGun_Frame.label>파쇄 포탑 (건설 중)</ShredderTurretGun_Frame.label>
+  <ShredderTurretGun_Frame.description>파쇄 포탑 가까운 거리를 위해 설계되었습니다. 파괴 될 때 폭발하지 않으므로 실내 방어에 최적화 되어 있습니다. 유일한 단점은 일반적인 포탑보다 많은 공간이 필요합니다.</ShredderTurretGun_Frame.description>
+  <Gun_TurretShredder.label>파쇄 포탑 총신</Gun_TurretShredder.label>
+  <Gun_TurretShredder.description>포탑에 부착된 파쇄 산탄총</Gun_TurretShredder.description>
+  <PrecisionTurretGun.label>정밀 포탑</PrecisionTurretGun.label>
+  <PrecisionTurretGun.description>고도로 보정 된 정밀 포탑. 진보 된 광학 기술로 만들어 매우 먼 거리에 있는 적을 정확하게 타격합니다. 파괴 될 때 드물게 반경 2.5타일 범위로 폭발합니다.</PrecisionTurretGun.description>
+  <PrecisionTurretGun_Blueprint.label>정밀 포탑 (청사진)</PrecisionTurretGun_Blueprint.label>
+  <PrecisionTurretGun_Blueprint_Install.label>정밀 포탑 (청사진)</PrecisionTurretGun_Blueprint_Install.label>
+  <PrecisionTurretGun_Frame.label>정밀 포탑 (건설 중)</PrecisionTurretGun_Frame.label>
+  <PrecisionTurretGun_Frame.description>고도로 보정 된 정밀 포탑. 진보 된 광학 기술로 만들어 매우 먼 거리에 있는 적을 정확하게 타격합니다. 파괴 될 때 드물게 반경 2.5타일 범위로 폭발합니다.</PrecisionTurretGun_Frame.description>
+  <Gun_TurretPrecision.label>정밀 포탑 총신</Gun_TurretPrecision.label>
+  <Gun_TurretPrecision.description>포탑에 부착된 정밀한 총</Gun_TurretPrecision.description>
+  <BlastTurretGun.label>폭발 포탑</BlastTurretGun.label>
+  <BlastTurretGun.description>폭발 포탑은 근거리 지역을 타격하기 위해 설계되었습니다. 3개의 폭발 수류탄을 쏘아 터트립니다. 파괴 될 때 반지름 3타일 범위로 폭발합니다.</BlastTurretGun.description>
+  <BlastTurretGun_Blueprint.label>폭발 포탑 (청사진)</BlastTurretGun_Blueprint.label>
+  <BlastTurretGun_Blueprint_Install.label>폭발 포탑 (청사진)</BlastTurretGun_Blueprint_Install.label>
+  <BlastTurretGun_Frame.label>폭발 포탑 (건설 중)</BlastTurretGun_Frame.label>
+  <BlastTurretGun_Frame.description>폭발 포탑은 근거리 지역을 타격하기 위해 설계되었습니다. 3개의 폭발 수류탄을 쏘아 터트립니다. 파괴 될 때 반지름 3타일 범위로 폭발합니다.</BlastTurretGun_Frame.description>
+  <Gun_BlastCharge.label>폭발 포탑 발사기</Gun_BlastCharge.label>
+  <Gun_BlastCharge.description>포탑에 부착 된 폭탄 발사기</Gun_BlastCharge.description>
+  <VulcanCannon.label>발칸 대포</VulcanCannon.label>
+  <VulcanCannon.description>발칸 대포를 제작할 수 있습니다.</VulcanCannon.description>
+  <VulcanCannon_Blueprint.label>발칸 대포 (청사진)</VulcanCannon_Blueprint.label>
+  <VulcanCannon_Frame.label>발칸 대포 (건설 중)</VulcanCannon_Frame.label>
+  <VulcanCannon_Frame.description>지속적으로 일정 거리를 타격하는 내구성 좋은 미니건 포대입니다. 꽤 먼거리를 타격 할 수 있지만 포탑 근처 지근 거리는 공격할 수 없습니다. 파괴 될 때 반경 5.1타일 범위로 폭발합니다.</VulcanCannon_Frame.description>
+  <Gun_VulcanCannon.label>발칸 대포 총신</Gun_VulcanCannon.label>
+  <Gun_VulcanCannon.description>포탑에 부착된 총</Gun_VulcanCannon.description>
+  <Turret_DevastatorMortarBomb.label>데바스테이터 박격포</Turret_DevastatorMortarBomb.label>
+  <Turret_DevastatorMortarBomb.description>빠른 속도, 정확도, 큰 폭발 반경을 일으키는 5개의 플라즈마 발사체를 자기 투석기로 발사합니다. 파괴 될 때 반경 10타일 범위로 EMP 폭발을 일으킵니다.</Turret_DevastatorMortarBomb.description>
+  <Turret_DevastatorMortarBomb_Blueprint.label>데바스테이터 박격포 (청사진)</Turret_DevastatorMortarBomb_Blueprint.label>
+  <Turret_DevastatorMortarBomb_Frame.label>데바스테이터 박격포 (건설 중)</Turret_DevastatorMortarBomb_Frame.label>
+  <Turret_DevastatorMortarBomb_Frame.description>빠른 속도, 정확도, 큰 폭발 반경을 일으키는 5개의 플라즈마 발사체를 자기 투석기로 발사합니다. 파괴 될 때 반경 10타일 범위로 EMP 폭발을 일으킵니다.</Turret_DevastatorMortarBomb_Frame.description>
+  <Bullet_DevastatorBomb.label>데바스테이터 폭발 포탄</Bullet_DevastatorBomb.label>
+  <Artillery_DevastatorBomb.label>데바스테이터 박격포</Artillery_DevastatorBomb.label>
+  <Artillery_DevastatorBomb.description>데바스테이터 발사기. 5개의 고속 발사체를 장거리로 발사합니다.</Artillery_DevastatorBomb.description>
+  <MilitaryTurretGunManned.label>유인 군용 선회 포탑</MilitaryTurretGunManned.label>
+  <MilitaryTurretGunManned.description>유인 조작 포탑으로 보다 강력하게 변했습니다. 더 긴 이중 배럴은 사거리가 늘어났고 더 넓은 범위를 집중 사격합니다. 파괴 될 때 반지름 4타일 범위로 폭발합니다. 이 포탑은 림이 직접 조작해야 합니다. 다만 무인 보다 더 적은 재료가 들어갑니다.</MilitaryTurretGunManned.description>
+  <MilitaryTurretGunManned_Blueprint.label>유인 군용 선회 포탑 (청사진)</MilitaryTurretGunManned_Blueprint.label>
+  <MilitaryTurretGunManned_Blueprint_Install.label>유인 군용 선회 포탑 (청사진)</MilitaryTurretGunManned_Blueprint_Install.label>
+  <MilitaryTurretGunManned_Frame.label>유인 군용 선회 포탑 (건설 중)</MilitaryTurretGunManned_Frame.label>
+  <MilitaryTurretGunManned_Frame.description>유인 조작 포탑으로 보다 강력하게 변했습니다. 더 긴 이중 배럴은 사거리가 늘어났고 더 넓은 범위를 집중 사격합니다. 파괴 될 때 반지름 4타일 범위로 폭발합니다. 이 포탑은 림이 직접 조작해야 합니다. 다만 무인 보다 더 적은 재료가 들어갑니다.</MilitaryTurretGunManned_Frame.description>
+  <Bullet_TurretMilitary.label>유인 군용 선회 포탑 포탄</Bullet_TurretMilitary.label>
+  <Gun_TurretMilitaryManned.label>유인 군용 선회 포탑 총신</Gun_TurretMilitaryManned.label>
+  <Gun_TurretMilitaryManned.description>포탑에 부착되기 위해 만들어진 총</Gun_TurretMilitaryManned.description>
+  <ShredderTurretGunManned.label>유인 파쇄 포탑</ShredderTurretGunManned.label>
+  <ShredderTurretGunManned.description>유인 파쇄 포탑은 가까운 거리를 위해 설계되었습니다. 파괴 될 때 폭발하지 않으므로 실내 방어에 최적화 되어 있습니다. 유일한 단점은 일반적인 포탑보다 많은 공간이 필요합니다. 이 포탑은 림이 직접 조작해야 합니다. 다만 무인 보다 더 적은 재료가 들어갑니다.</ShredderTurretGunManned.description>
+  <ShredderTurretGunManned_Blueprint.label>유인 파쇄 포탑 (청사진)</ShredderTurretGunManned_Blueprint.label>
+  <ShredderTurretGunManned_Blueprint_Install.label>유인 파쇄 포탑 (청사진)</ShredderTurretGunManned_Blueprint_Install.label>
+  <ShredderTurretGunManned_Frame.label>유인 파쇄 포탑 (건설 중)</ShredderTurretGunManned_Frame.label>
+  <ShredderTurretGunManned_Frame.description>유인 파쇄 포탑은 가까운 거리를 위해 설계되었습니다. 파괴 될 때 폭발하지 않으므로 실내 방어에 최적화 되어 있습니다. 유일한 단점은 일반적인 포탑보다 많은 공간이 필요합니다. 이 포탑은 림이 직접 조작해야 합니다. 다만 무인 보다 더 적은 재료가 들어갑니다.</ShredderTurretGunManned_Frame.description>
+  <Bullet_TurretShredder.label>유인 파쇄 포탑 포탄</Bullet_TurretShredder.label>
+  <Gun_TurretShredderManned.label>유인 파쇄 포탑 총신</Gun_TurretShredderManned.label>
+  <Gun_TurretShredderManned.description>포탑에 부착된 파쇄 산탄총</Gun_TurretShredderManned.description>
+  <PrecisionTurretGunManned.label>유인 정밀 포탑</PrecisionTurretGunManned.label>
+  <PrecisionTurretGunManned.description>고도로 보정 된 유인 정밀 포탑. 진보 된 광학 기술로 만들어 매우 먼 거리에 있는 적을 정확하게 타격합니다. 파괴 될 때 드물게 반경 2.5타일 범위로 폭발합니다. 이 포탑은 림이 직접 조작해야 합니다. 다만 무인 보다 더 적은 재료가 들어갑니다.</PrecisionTurretGunManned.description>
+  <PrecisionTurretGunManned_Blueprint.label>유인 정밀 포탑 (청사진)</PrecisionTurretGunManned_Blueprint.label>
+  <PrecisionTurretGunManned_Blueprint_Install.label>유인 정밀 포탑 (청사진)</PrecisionTurretGunManned_Blueprint_Install.label>
+  <PrecisionTurretGunManned_Frame.label>유인 정밀 포탑 (건설 중)</PrecisionTurretGunManned_Frame.label>
+  <PrecisionTurretGunManned_Frame.description>고도로 보정 된 유인 정밀 포탑. 진보 된 광학 기술로 만들어 매우 먼 거리에 있는 적을 정확하게 타격합니다. 파괴 될 때 드물게 반경 2.5타일 범위로 폭발합니다. 이 포탑은 림이 직접 조작해야 합니다. 다만 무인 보다 더 적은 재료가 들어갑니다.</PrecisionTurretGunManned_Frame.description>
+  <Bullet_TurretPrecision.label>유인 정밀 포탑 총알</Bullet_TurretPrecision.label>
+  <Gun_TurretPrecisionManned.label>유인 정밀 포탑 총신</Gun_TurretPrecisionManned.label>
+  <Gun_TurretPrecisionManned.description>포탑에 부착된 정밀한 총</Gun_TurretPrecisionManned.description>
+  <BlastTurretGunManned.label>유인 폭발 포탑</BlastTurretGunManned.label>
+  <BlastTurretGunManned.description>유인 폭발 포탑은 근거리 지역을 타격하기 위해 설계되었습니다. 3개의 폭발 수류탄을 쏘아 터트립니다. 파괴 될 때 반지름 3타일 범위로 폭발합니다. 이 포탑은 림이 직접 조작해야 합니다. 다만 무인 보다 더 적은 재료가 들어갑니다.</BlastTurretGunManned.description>
+  <BlastTurretGunManned_Blueprint.label>유인 폭발 포탑 (청사진)</BlastTurretGunManned_Blueprint.label>
+  <BlastTurretGunManned_Blueprint_Install.label>유인 폭발 포탑 (청사진)</BlastTurretGunManned_Blueprint_Install.label>
+  <BlastTurretGunManned_Frame.label>유인 폭발 포탑 (건설 중)</BlastTurretGunManned_Frame.label>
+  <BlastTurretGunManned_Frame.description>유인 폭발 포탑은 근거리 지역을 타격하기 위해 설계되었습니다. 3개의 폭발 수류탄을 쏘아 터트립니다. 파괴 될 때 반지름 3타일 범위로 폭발합니다. 이 포탑은 림이 직접 조작해야 합니다. 다만 무인 보다 더 적은 재료가 들어갑니다.</BlastTurretGunManned_Frame.description>
+  <Bullet_BlastCharge.label>폭발 장전</Bullet_BlastCharge.label>
+  <Gun_BlastChargeManned.label>유인 폭발 장전 대포</Gun_BlastChargeManned.label>
+  <Gun_BlastChargeManned.description>포탑에 부착 된 폭탄 발사기</Gun_BlastChargeManned.description>
+  <VulcanCannonManned.label>유인 발칸 대포</VulcanCannonManned.label>
+  <VulcanCannonManned.description>지속적으로 일정 거리를 타격하는 내구성 좋은 미니건 포대입니다. 꽤 먼거리를 타격 할 수 있지만 포탑 근처 지근 거리는 공격할 수 없습니다. 파괴 될 때 반경 5.1타일 범위로 폭발합니다. 이 포탑은 림이 직접 조작해야 합니다. 다만 무인 보다 더 적은 재료가 들어갑니다.</VulcanCannonManned.description>
+  <VulcanCannonManned_Blueprint.label>유인 발칸 대포 (청사진)</VulcanCannonManned_Blueprint.label>
+  <VulcanCannonManned_Frame.label>유인 발칸 대포 (건설 중)</VulcanCannonManned_Frame.label>
+  <VulcanCannonManned_Frame.description>지속적으로 일정 거리를 타격하는 내구성 좋은 미니건 포대입니다. 꽤 먼거리를 타격 할 수 있지만 포탑 근처 지근 거리는 공격할 수 없습니다. 파괴 될 때 반경 5.1타일 범위로 폭발합니다. 이 포탑은 림이 직접 조작해야 합니다. 다만 무인 보다 더 적은 재료가 들어갑니다.</VulcanCannonManned_Frame.description>
+  <Bullet_VulcanCannon.label>유인 발칸 대포 총알</Bullet_VulcanCannon.label>
+  <Gun_VulcanCannonManned.label>유인 발칸 대포 총신</Gun_VulcanCannonManned.label>
+  <Gun_VulcanCannonManned.description>포탑에 부착된 총</Gun_VulcanCannonManned.description>
+  <Mudmoat_Blueprint.label>진흙 해자 (청사진)</Mudmoat_Blueprint.label>
+  <Mudmoat_Frame.label>진흙 해자 (건설 중)</Mudmoat_Frame.label>
+  <Mudmoat_Frame.description>작업이 진행중 입니다.</Mudmoat_Frame.description>
+
+</LanguageData>

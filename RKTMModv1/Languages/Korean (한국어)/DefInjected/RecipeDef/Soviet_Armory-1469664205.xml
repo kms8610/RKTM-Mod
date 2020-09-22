@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_Gun_AKM_SA.label>AKM 돌격소총 제작</Make_Gun_AKM_SA.label>
+  <Make_Gun_AKM_SA.description>AKM 돌격소총을 제작합니다.</Make_Gun_AKM_SA.description>
+  <Make_Gun_AKM_SA.jobString>AKM 돌격소총 제작 중.</Make_Gun_AKM_SA.jobString>
+  <Make_Gun_AKMS_SA.label>AKMS 돌격소총 제작</Make_Gun_AKMS_SA.label>
+  <Make_Gun_AKMS_SA.description>AKMS 돌격소총을 제작합니다.</Make_Gun_AKMS_SA.description>
+  <Make_Gun_AKMS_SA.jobString>AKMS 돌격소총 제작 중.</Make_Gun_AKMS_SA.jobString>
+  <Make_Gun_AKS-74U_SA.label>AKS-74U 돌격소총 제작</Make_Gun_AKS-74U_SA.label>
+  <Make_Gun_AKS-74U_SA.description>AKS-74U 돌격소총을 제작합니다.</Make_Gun_AKS-74U_SA.description>
+  <Make_Gun_AKS-74U_SA.jobString>AKS-74U 돌격소총 제작 중.</Make_Gun_AKS-74U_SA.jobString>
+  <Make_Gun_RPK_SA.label>RPK 경기관총 제작</Make_Gun_RPK_SA.label>
+  <Make_Gun_RPK_SA.description>RPK 경기관총을 제작합니다.</Make_Gun_RPK_SA.description>
+  <Make_Gun_RPK_SA.jobString>RPK 경기관총 제작 중.</Make_Gun_RPK_SA.jobString>
+  <Make_Gun_SKS_SA.label>SKS 소총 제작</Make_Gun_SKS_SA.label>
+  <Make_Gun_SKS_SA.description>SKS 소총을 제작합니다.</Make_Gun_SKS_SA.description>
+  <Make_Gun_SKS_SA.jobString>SKS 소총 제작 중.</Make_Gun_SKS_SA.jobString>
+  <Make_Gun_Makarov_SA.label>마카로프 제작</Make_Gun_Makarov_SA.label>
+  <Make_Gun_Makarov_SA.description>마카로프를 제작합니다.</Make_Gun_Makarov_SA.description>
+  <Make_Gun_Makarov_SA.jobString>마카로프 제작 중.</Make_Gun_Makarov_SA.jobString>
+  <Make_Gun_AK-74M_SA.label>AK-74M 돌격소총 제작</Make_Gun_AK-74M_SA.label>
+  <Make_Gun_AK-74M_SA.description>AK-74M 돌격소총을 제작합니다.</Make_Gun_AK-74M_SA.description>
+  <Make_Gun_AK-74M_SA.jobString>AK-74M 돌격소총 제작 중.</Make_Gun_AK-74M_SA.jobString>
+  <Make_Gun_SVD_SA.label>SVD 드라구노프 제작</Make_Gun_SVD_SA.label>
+  <Make_Gun_SVD_SA.description>SVD 드라구노프 제작</Make_Gun_SVD_SA.description>
+  <Make_Gun_SVD_SA.jobString>SVD 드라구노프 제작 중.</Make_Gun_SVD_SA.jobString>
+  <Make_Gun_Saiga12K_SA.label>사이가12K 산탄총 제작</Make_Gun_Saiga12K_SA.label>
+  <Make_Gun_Saiga12K_SA.description>사이가12K 산탄총을 제작합니다.</Make_Gun_Saiga12K_SA.description>
+  <Make_Gun_Saiga12K_SA.jobString>사이가12K 산탄총 제작 중.</Make_Gun_Saiga12K_SA.jobString>
+  <Make_Gun_RPG_SA.label>RPG-7V2 대전차 로켓 제작</Make_Gun_RPG_SA.label>
+  <Make_Gun_RPG_SA.description>RPG-7V2 대전차 로켓을 제작합니다.</Make_Gun_RPG_SA.description>
+  <Make_Gun_RPG_SA.jobString>RPG-7V2 대전차 로켓 제작 중.</Make_Gun_RPG_SA.jobString>
+  <Make_Gun_AK-74_SA.label>AK-74 돌격소총 제작</Make_Gun_AK-74_SA.label>
+  <Make_Gun_AK-74_SA.description>AK-74 돌격소총을 제작합니다.</Make_Gun_AK-74_SA.description>
+  <Make_Gun_AK-74_SA.jobString>AK-74 돌격소총 제작 중.</Make_Gun_AK-74_SA.jobString>
+  <Make_Gun_RPO-Z_SA.label>RPO-Z 시멜 무반동총 제작</Make_Gun_RPO-Z_SA.label>
+  <Make_Gun_RPO-Z_SA.description>RPO-Z 시멜 무반동총을 제작합니다.</Make_Gun_RPO-Z_SA.description>
+  <Make_Gun_RPO-Z_SA.jobString>RPO-Z 시멜 무반동총 제작 중.</Make_Gun_RPO-Z_SA.jobString>
+  <Make_Gun_MR-444_SA.label>MR-444 권총 제작</Make_Gun_MR-444_SA.label>
+  <Make_Gun_MR-444_SA.description>MR-444 권총을 제작합니다.</Make_Gun_MR-444_SA.description>
+  <Make_Gun_MR-444_SA.jobString>MR-444 권총 제작 중.</Make_Gun_MR-444_SA.jobString>
+  <Make_Gun_PP-19_SA.label>PP-19 기관단총 제작</Make_Gun_PP-19_SA.label>
+  <Make_Gun_PP-19_SA.description>PP-19 기관단총을 제작합니다.</Make_Gun_PP-19_SA.description>
+  <Make_Gun_PP-19_SA.jobString>PP-19 기관단총 제작 중.</Make_Gun_PP-19_SA.jobString>
+  <Make_Gun_VSS_SA.label>VSS 빈토레즈 저격소총 제작</Make_Gun_VSS_SA.label>
+  <Make_Gun_VSS_SA.description>VSS 빈토레즈 저격소총을 제작합니다.</Make_Gun_VSS_SA.description>
+  <Make_Gun_VSS_SA.jobString>VSS 빈토레즈 저격소총 제작 중.</Make_Gun_VSS_SA.jobString>
+  <Make_Gun_RGS-50_SA.label>RGS-50 유탄발사기 제작</Make_Gun_RGS-50_SA.label>
+  <Make_Gun_RGS-50_SA.description>RGS-50 유탄발사기를 제작합니다.</Make_Gun_RGS-50_SA.description>
+  <Make_Gun_RGS-50_SA.jobString>RGS-50 유탄발사기 제작 중.</Make_Gun_RGS-50_SA.jobString>
+  <Make_Gun_PKM_SA.label>PKM 기관총 제작</Make_Gun_PKM_SA.label>
+  <Make_Gun_PKM_SA.description>PKM 기관총을 제작합니다.</Make_Gun_PKM_SA.description>
+  <Make_Gun_PKM_SA.jobString>PKM 기관총 제작 중.</Make_Gun_PKM_SA.jobString>
+
+</LanguageData>

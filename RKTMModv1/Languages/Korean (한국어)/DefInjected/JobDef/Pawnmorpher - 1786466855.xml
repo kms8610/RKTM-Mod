@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PMResurrect.reportString>TargetA 부활.</PMResurrect.reportString>
+  <EnterMutagenChamber.reportString>돌연변이 체임버에 들어감.</EnterMutagenChamber.reportString>
+  <CarryToMutagenChamber.reportString>돌연변이 체임버로 TargetA 운송.</CarryToMutagenChamber.reportString>
+  <PMLayEgg.reportString>산란함.</PMLayEgg.reportString>
+  <PMMilkSelf.reportString>직접 젖 짜는 중.</PMMilkSelf.reportString>
+  <PMDrainChemcyst.reportString>약물을 소비하는 중.</PMDrainChemcyst.reportString>
+  <PMShaveSelf.reportString>직접 면도중.</PMShaveSelf.reportString>
+  <PMMegaShaveSelf.reportString>직접 면도중.</PMMegaShaveSelf.reportString>
+  <PMHuntingForMushrooms.reportString>버섯을 수확하는 중.</PMHuntingForMushrooms.reportString>
+
+</LanguageData>

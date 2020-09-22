@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_EggAnacondaFertilized.label>아나콘다 알 (유정란)</AEXP_EggAnacondaFertilized.label>
+  <AEXP_EggAnacondaFertilized.description>수정된 아나콘다의 알입니다. 적합한 환경에서 새끼 아나콘다로 부화할 수 있습니다. 생으로 먹을 수는 있지만 조리했을 때 훨씬 훌륭합니다.</AEXP_EggAnacondaFertilized.description>
+  <AEXP_EggAlligatorFertilized.label>민물악어 알 (유정란)</AEXP_EggAlligatorFertilized.label>
+  <AEXP_EggAlligatorFertilized.description>수정된 민물악어의 알입니다. 적합한 환경에서 새끼 민물악어로 부화할 수 있습니다. 생으로 먹을 수는 있지만 조리했을 때 훨씬 훌륭합니다.</AEXP_EggAlligatorFertilized.description>
+  <AEXP_Alligator.label>민물악어</AEXP_Alligator.label>
+  <AEXP_Alligator.description>민물악어는 담수습지에 서식하는 큰 파충류입니다. 그들은 포식자의 정점이며 물고기, 양서류, 파충류, 새, 포유류를 잡아먹습니다. 다른 악어들처럼, 건강한 민물악어들도 평생동안 계속 자랄지도 모릅니다.</AEXP_Alligator.description>
+  <AEXP_Alligator_Leather.label>민물악어 가죽</AEXP_Alligator_Leather.label>
+  <AEXP_Alligator_Leather.description>민물악어의 가죽입니다.</AEXP_Alligator_Leather.description>
+  <AEXP_Alligator_Leather.stuffProps.stuffAdjective>민물악어 가죽</AEXP_Alligator_Leather.stuffProps.stuffAdjective>
+  <AEXP_Alligator_Meat.label>민물악어 고기</AEXP_Alligator_Meat.label>
+  <AEXP_Alligator_Meat.description>민물악어의 고기입니다.</AEXP_Alligator_Meat.description>
+  <AEXP_Alligator_Corpse.label>민물악어 시체</AEXP_Alligator_Corpse.label>
+  <AEXP_Alligator_Corpse.description>민물악어의 시체입니다.</AEXP_Alligator_Corpse.description>
+  <AEXP_Anaconda.label>아나콘다</AEXP_Anaconda.label>
+  <AEXP_Anaconda.description>아나콘다는 길이가 5미터에 이르는 가장 무겁고 긴 뱀 종 중 하나입니다. 주로 야행성이며 생애의 대부분을 물가 주변에서 보냅니다.</AEXP_Anaconda.description>
+  <AEXP_Anaconda.tools.1.label>머리</AEXP_Anaconda.tools.1.label>
+  <AEXP_Anaconda_Leather.label>아나콘다 가죽</AEXP_Anaconda_Leather.label>
+  <AEXP_Anaconda_Leather.description>아나콘다의 가죽입니다.</AEXP_Anaconda_Leather.description>
+  <AEXP_Anaconda_Leather.stuffProps.stuffAdjective>아나콘다 가죽</AEXP_Anaconda_Leather.stuffProps.stuffAdjective>
+  <AEXP_Anaconda_Corpse.label>아나콘다 시체</AEXP_Anaconda_Corpse.label>
+  <AEXP_Anaconda_Corpse.description>아나콘다의 시체입니다.</AEXP_Anaconda_Corpse.description>
+  <AEXP_IndianElephant.label>인도 코끼리</AEXP_IndianElephant.label>
+  <AEXP_IndianElephant.description>인도 코끼리는 진화가 많이 되지 않은 가장 큰 육지 동물 중 하나입니다. 일반적으로 인도 코끼리는 아프리카 코끼리보다 몸집이 작고 귀는 작지만 비교적 넓은 두개골과 더 큰 코를 가지고 있으며, 머리보다 몸통이 가장 높은 신체 지점을 가지고 있습니다.</AEXP_IndianElephant.description>
+  <AEXP_IndianElephant.tools.0.label>왼발</AEXP_IndianElephant.tools.0.label>
+  <AEXP_IndianElephant.tools.1.label>오른발</AEXP_IndianElephant.tools.1.label>
+  <AEXP_IndianElephant.tools.2.label>머리</AEXP_IndianElephant.tools.2.label>
+  <AEXP_IndianElephant_Leather.label>인도 코끼리 가죽</AEXP_IndianElephant_Leather.label>
+  <AEXP_IndianElephant_Leather.description>인도 코끼리의 가죽입니다.</AEXP_IndianElephant_Leather.description>
+  <AEXP_IndianElephant_Leather.stuffProps.stuffAdjective>인도 코끼리 가죽</AEXP_IndianElephant_Leather.stuffProps.stuffAdjective>
+  <AEXP_IndianElephant_Meat.label>인도 코끼리 고기</AEXP_IndianElephant_Meat.label>
+  <AEXP_IndianElephant_Meat.description>인도 코끼리의 고기입니다.</AEXP_IndianElephant_Meat.description>
+  <AEXP_IndianElephant_Corpse.label>인도 코끼리 시체</AEXP_IndianElephant_Corpse.label>
+  <AEXP_IndianElephant_Corpse.description>인도 코끼리의 시체입니다.</AEXP_IndianElephant_Corpse.description>
+
+</LanguageData>

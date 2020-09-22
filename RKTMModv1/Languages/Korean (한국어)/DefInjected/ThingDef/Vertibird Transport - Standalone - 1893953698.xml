@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Building_Vertihawk.label>XVH-01 버티호크</Building_Vertihawk.label>
+  <Building_Vertihawk.description>이전에는 "버티버드"병력 수송으로 알려진 XVB-02의 재작업 버전입니다. 새로운 형제 교리에 따라 표면 탐사를 우선 순위로 설정한 후, 회복된 버티버드 몇 마리가 버티호크 프로그램으로 알려진 과감한 수정 절차를 거칩니다. 이전 모델과 비교했을 때 주요 개선점은 클래식 4 칼날형 프로펠러를 2개의 하이브리드 파동 가속 팬 엔진으로 교체하여 수직이착륙 설계를 유지하면서, 아음속 비행 기능을 제공하며 가장 일반적인 유형의 침투를 가능하게 한다는 것입니다. XVH-01 버티호크 변종은 주로 행성 정찰 또는 신속한 부대 수송에 이용하고 있지만, 일부 황무지에서는 형제단의 지상군을 위한 단거리 항공 지원을 제공하는 것으로 알려졌습니다.</Building_Vertihawk.description>
+  <DRK_VertihawkModel.label>버티호크 모델</DRK_VertihawkModel.label>
+  <DRK_VertihawkModel.description>매우 정확하고, 멋지게 그려진 미니어처 버티호크 모델입니다. 조심히 다루세요.</DRK_VertihawkModel.description>
+  <Building_Vertibird.label>XVB-02 버티버드</Building_Vertibird.label>
+  <Building_Vertibird.description>버티버드는 2077년의 대전으로 이어질 수년간의 미국 군대를 위해 설계된 수직이착륙 항공기의 한 유형입니다. 가장 진보된 전쟁 전 모델은 XVB-02로 지정되었으며, 전쟁 전후에 알려지지 않은 명칭이 개발되었습니다. 버티버드의 수직이착륙 비행 기술은 고정익 항공기 속도로 착륙 구역에 접근하고 회전자를 수직으로 90도 기울여 호버링 비행 모드로 전환 할 수 있습니다. 버티버드의 설계는 정교하지만, 듀얼 로터 블레이드는 비행시 위험 요인으로 작용합니다. 항공기가 상당한 고도에서 단일 회전 오작동을 겪을 경우 버티버드의 기체와 다운 워시 분포로 인해 항공기가 극적으로 치명적인 충돌 사고가 발생합니다. 또한 비행 컨트롤러는 현대적이고, 반자율 인공 지능 장치가 지원되어, 인적 오류의 위험을 크게 줄이고, 완전히 경험이 없는 조종사라도 비행 상태를 유지할 수 있습니다.</Building_Vertibird.description>
+  <DRK_VertibirdModel.label>버티버드 모델</DRK_VertibirdModel.label>
+  <DRK_VertibirdModel.description>매우 정확하고, 멋지게 그려진 미니어처 버티호크 모델입니다. 조심히 다루세요.</DRK_VertibirdModel.description>
+  <VertibirdIncoming.label>버티버드(접근 중)</VertibirdIncoming.label>
+  <VertibirdLeaving.label>버티버드(떠나는 중)</VertibirdLeaving.label>
+  <VertihawkIncoming.label>버티호크(접근 중)</VertihawkIncoming.label>
+  <VertihawkLeaving.label>버티호크(떠나는 중)</VertihawkLeaving.label>
+  <ActiveVertibird.label>버티버드(시동)</ActiveVertibird.label>
+  <ActiveVertihawk.label>버티호크(시동)</ActiveVertihawk.label>
+
+</LanguageData>

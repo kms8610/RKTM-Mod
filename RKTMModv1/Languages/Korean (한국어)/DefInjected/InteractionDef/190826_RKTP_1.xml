@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1187010034_181028_Rim of Madness - Vampires-->
+  <ROMV_VampireDiablerieAttempt.label>내 혼을 흡수하려 함 (디아블레리)</ROMV_VampireDiablerieAttempt.label>
+  <ROMV_VampireDiablerieAttempt.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef](이)가 내 혼을 흡수하려 했어.</ROMV_VampireDiablerieAttempt.logRulesRecipient.rulesStrings.0>
+  <ROMV_VampireUnbondedDrink.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]에게서 피를 마심.</ROMV_VampireUnbondedDrink.logRulesRecipient.rulesStrings.0>
+  <ROMV_VampireBondedDrink.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]에게서 피를 마심.</ROMV_VampireBondedDrink.logRulesRecipient.rulesStrings.0>
+  <ROMV_VampireUnbondedDrink.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 피를 줌.</ROMV_VampireUnbondedDrink.logRulesInitiator.rulesStrings.0>
+  <ROMV_VampireBondedDrink.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 피를 줌.</ROMV_VampireBondedDrink.logRulesInitiator.rulesStrings.0>
+  <ROMV_VampireLore.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 흡혈귀에 관한 지식을 배움.</ROMV_VampireLore.logRulesRecipient.rulesStrings.0>
+  <ROMV_VampireLore.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef]와 흡혈귀에 관한 지식을 공유함.</ROMV_VampireLore.logRulesInitiator.rulesStrings.0>
+  <ROMV_VampireDiablerieAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef]의 혼을 흡수하려 함.</ROMV_VampireDiablerieAttempt.logRulesInitiator.rulesStrings.0>
+  <ROMV_VampireUnbondedDrink.label>흡혈귀 피를 공유함 (생명혈)</ROMV_VampireUnbondedDrink.label>
+  <ROMV_VampireBondedDrink.label>흡혈귀 피를 공유함 (생명혈)</ROMV_VampireBondedDrink.label>
+  <ROMV_VampireLore.label>흡혈귀 전설을 공유함</ROMV_VampireLore.label>
+
+  <!--1554149030_190519_[RF] Rumor Has It....-->
+  <ChattedAboutSomeone.label>누군가에 대한 이야기</ChattedAboutSomeone.label>
+  <CultureClash.label>문화 충돌</CultureClash.label>
+  <Apologize.label>평화</Apologize.label>
+  <MakePeace.label>평화</MakePeace.label>
+  <CultureClash.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 가 의도치않게 [RECIPIENT_nameDef]를 모욕했습니다.</CultureClash.logRulesInitiator.rulesStrings.0>
+  <Apologize.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 는 [RECIPIENT_nameDef]에게 사과했습니다.</Apologize.logRulesInitiator.rulesStrings.0>
+  <ChattedAboutSomeone.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 이 [RECIPIENT_nameDef]와 다른 정착민에 대한 대화를 나누었습니다.</ChattedAboutSomeone.logRulesInitiator.rulesStrings.0>
+  <RevealSecret.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 가 [RECIPIENT_nameDef] 에게 다른 정착민의 비밀을 털어놓았습니다.</RevealSecret.logRulesInitiator.rulesStrings.0>
+  <SharedSecret.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 는 [RECIPIENT_nameDef]과 비밀을 공유했습니다.</SharedSecret.logRulesInitiator.rulesStrings.0>
+  <SharedSecret.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 는 [RECIPIENT_nameDef]과 비밀을 공유했습니다.</SharedSecret.logRulesRecipient.rulesStrings.0>
+  <SpreadRumors.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 는 [RECIPIENT_nameDef]에게 소문을 퍼뜨렸습니다.</SpreadRumors.logRulesInitiator.rulesStrings.0>
+  <MakePeace.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 이 [RECIPIENT_nameDef] 에게 용서를 하도록 설득을 시도했습니다.</MakePeace.logRulesInitiator.rulesStrings.0>
+  <SpreadRumors.logRulesRecipient.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] 는 [INITIATOR_nameDef]로부터 소문을 들었습니다.</SpreadRumors.logRulesRecipient.rulesStrings.0>
+  <Apologize.logRulesRecipient.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]는 [INITIATOR_nameDef]에게 사과했습니다.</Apologize.logRulesRecipient.rulesStrings.0>
+  <MakePeace.logRulesRecipient.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] 는 [INITIATOR_nameDef] 에게 용서를 구했습니다.</MakePeace.logRulesRecipient.rulesStrings.0>
+  <CultureClash.logRulesRecipient.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] 는 [INITIATOR_nameDef]로부터 모욕을 당했습니다.</CultureClash.logRulesRecipient.rulesStrings.0>
+  <RevealSecret.logRulesRecipient.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] 는 [INITIATOR_nameDef]에 의해 정착민에 대한 비밀을 알게되었습니다.</RevealSecret.logRulesRecipient.rulesStrings.0>
+  <RevealSecret.label>비밀 공개</RevealSecret.label>
+  <SharedSecret.label>비밀 공유</SharedSecret.label>
+  <SpreadRumors.label>소문 퍼뜨림</SpreadRumors.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <WorshipInteraction.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 믿음에 대해 이야기 했습니다.</WorshipInteraction.logRulesInitiator.rulesStrings.3>
+  <ReligionTalk.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 자신의 믿음에 대해 이야기 했습니다.</ReligionTalk.logRulesInitiator.rulesStrings.0>
+  <WorshipInteraction.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 우리들의 신에 대해 이야기 했습니다.</WorshipInteraction.logRulesInitiator.rulesStrings.0>
+  <WorshipInteraction.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 인내와 믿음에 대해 이야기 했습니다.</WorshipInteraction.logRulesInitiator.rulesStrings.1>
+  <WorshipInteraction.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 종교적 가르침에 대해 이야기 했습니다.</WorshipInteraction.logRulesInitiator.rulesStrings.2>
+  <ReligionTalk.label>종교적 이야기</ReligionTalk.label>
+  <WorshipInteraction.label>worship</WorshipInteraction.label>
+
+  <!--1746084920_190526_RimSlave-->
+  <Pleasure.label>쾌락</Pleasure.label>
+  <Pleasure.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 쾌락을 선사함.</Pleasure.logRulesInitiator.rulesStrings.0>
+  <Pleasure.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]에 의해 오르가즘을 느낌.</Pleasure.logRulesRecipient.rulesStrings.0>
+  <Salute.label>인사를 받음</Salute.label>
+  <Salute.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 인사를 함.</Salute.logRulesInitiator.rulesStrings.0>
+  <Salute.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 인사를 받음.</Salute.logRulesRecipient.rulesStrings.0>
+  <Massage.label>마사지</Massage.label>
+  <Massage.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef](을)를 마사지 해줌.</Massage.logRulesInitiator.rulesStrings.0>
+  <Massage.logRulesRecipient.rulesStrings.0>r_logentry-> [other_nameShortIndef]에게 마사지를 받음.</Massage.logRulesRecipient.rulesStrings.0>
+  <BeInsulted.label>작업 노예를 모욕함</BeInsulted.label>
+  <BeInsulted.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 모욕을 당함</BeInsulted.logRulesInitiator.rulesStrings.0>
+  <BeInsulted.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]을 모욕함.</BeInsulted.logRulesRecipient.rulesStrings.0>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Cults_SafePreach.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 신념을 들음.</Cults_SafePreach.logRulesRecipient.rulesStrings.0>
+  <Cults_DangerPreach.logRulesInitiator.rulesStrings.0>r_logentry->불쾌한 [other_nameShortIndef]의 신념.</Cults_DangerPreach.logRulesInitiator.rulesStrings.0>
+  <Cults_SafePreach.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef](와)과 신념을 공유.</Cults_SafePreach.logRulesInitiator.rulesStrings.0>
+  <Cults_DangerPreach.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]의 종교적 생각에 불쾌함을 느낌.</Cults_DangerPreach.logRulesRecipient.rulesStrings.0>
+  <Cults_SafePreach.label>오컬트 신념 공유</Cults_SafePreach.label>
+  <Cults_DangerPreach.label>오컬트 신념 공유</Cults_DangerPreach.label>
+
+  <!--1552507180_190814_Psychology-->
+  <PrudeSeen.label>나체 목격</PrudeSeen.label>
+  <PrudeSeen.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 알몸을 봄.</PrudeSeen.logRulesInitiator.rulesStrings.0>
+  <Conversation.label>대화</Conversation.label>
+  <Conversation.logRulesInitiator.rulesStrings.0>r_logentry(p=4)->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [conversed].</Conversation.logRulesInitiator.rulesStrings.0>
+  <Conversation.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 말을 건넴.</Conversation.logRulesInitiator.rulesStrings.1>
+  <Conversation.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 화제를 건넴.</Conversation.logRulesInitiator.rulesStrings.2>
+  <Conversation.logRulesInitiator.rulesStrings.3>conversed(p=4)->이야기를 꺼냄</Conversation.logRulesInitiator.rulesStrings.3>
+  <Conversation.logRulesInitiator.rulesStrings.4>conversed->대화를 시작함</Conversation.logRulesInitiator.rulesStrings.4>
+  <Conversation.logRulesInitiator.rulesStrings.5>conversed->잡담을 건넴</Conversation.logRulesInitiator.rulesStrings.5>
+  <Conversation.logRulesInitiator.rulesStrings.6>conversed->화제를 꺼냄</Conversation.logRulesInitiator.rulesStrings.6>
+  <Conversation.logRulesInitiator.rulesStrings.7>conversed->무언가에 대해 토론을 시작함</Conversation.logRulesInitiator.rulesStrings.7>
+  <EndConversation.label>대화 종료</EndConversation.label>
+  <EndConversation.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](와)과 [RECIPIENT_nameDef]의 대화가 끝남.</EndConversation.logRulesInitiator.rulesStrings.0>
+  <HangOut.label>어울리기</HangOut.label>
+  <HangOut.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 함께 놀자고 제안함.</HangOut.logRulesInitiator.rulesStrings.0>
+  <PlanDate.label>데이트 계획</PlanDate.label>
+  <PlanDate.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](와)과 데이트하기로 함.</PlanDate.logRulesInitiator.rulesStrings.0>
+
+</LanguageData>

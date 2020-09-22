@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Administer_CPD_Syrup.label>당밀 투여</Administer_CPD_Syrup.label>
+  <Administer_CPD_Syrup.jobString>당밀을 투여하는 중.</Administer_CPD_Syrup.jobString>
+  <Administer_CPD_Nigori.label>니고리자케 투여</Administer_CPD_Nigori.label>
+  <Administer_CPD_Nigori.jobString>니고리자케(일본 술) 투여하는 중.</Administer_CPD_Nigori.jobString>
+  <Administer_CPD_Stout.label>스타우트 투여</Administer_CPD_Stout.label>
+  <Administer_CPD_Stout.jobString>스타우트(검은 맥주의 하나) 투여하는 중.</Administer_CPD_Stout.jobString>
+  <Administer_CPD_Vodka.label>보드카 투여</Administer_CPD_Vodka.label>
+  <Administer_CPD_Vodka.jobString>보드카를 투여하는 중.</Administer_CPD_Vodka.jobString>
+  <Administer_CPD_Whiskey.label>위스키 투여</Administer_CPD_Whiskey.label>
+  <Administer_CPD_Whiskey.jobString>위스키를 투여하는 중.</Administer_CPD_Whiskey.jobString>
+  <Administer_CPD_Wine.label>와인 투여</Administer_CPD_Wine.label>
+  <Administer_CPD_Wine.jobString>와인을 투여하는 중.</Administer_CPD_Wine.jobString>
+  <Administer_CPD_GreenDragon.label>그린 드래곤 투여</Administer_CPD_GreenDragon.label>
+  <Administer_CPD_GreenDragon.jobString>그린 드래곤 투여하는 중.</Administer_CPD_GreenDragon.jobString>
+  <Administer_CPD_DecafCoffee.label>디카페인 커피 투여</Administer_CPD_DecafCoffee.label>
+  <Administer_CPD_DecafCoffee.jobString>디카페인(카페인이 없는) 커피를 투여하는 중.</Administer_CPD_DecafCoffee.jobString>
+  <Administer_CPD_Coffee.label>쿠프로 커피 투여</Administer_CPD_Coffee.label>
+  <Administer_CPD_Coffee.jobString>쿠프로 커피를 투여하는 중.</Administer_CPD_Coffee.jobString>
+  <Administer_CPD_DECoffee.label>데드 아이 커피를 투여</Administer_CPD_DECoffee.label>
+  <Administer_CPD_DECoffee.jobString>데드 아이 커피(미국 커피점) 투여하는 중.</Administer_CPD_DECoffee.jobString>
+  <Administer_CPD_ThrumboEnergy.label>트럼보 에너지 투여</Administer_CPD_ThrumboEnergy.label>
+  <Administer_CPD_ThrumboEnergy.jobString>트럼보 에너지를 투여하는 중.</Administer_CPD_ThrumboEnergy.jobString>
+  <Administer_CPD_Koka.label>코카콜라 투여</Administer_CPD_Koka.label>
+  <Administer_CPD_Koka.jobString>코카콜라를 투여하는 중.</Administer_CPD_Koka.jobString>
+  <Administer_CPD_Peppi.label>페피콜라 투여</Administer_CPD_Peppi.label>
+  <Administer_CPD_Peppi.jobString>페피콜라를 투여하는 중.</Administer_CPD_Peppi.jobString>
+  <Administer_CPD_Chocolate.label>초콜렛 탄산음료 투여</Administer_CPD_Chocolate.label>
+  <Administer_CPD_Chocolate.jobString>초콜렛 탄산음료를 투여하는 중.</Administer_CPD_Chocolate.jobString>
+  <Administer_CPD_RootBeer.label>루트비어 투여</Administer_CPD_RootBeer.label>
+  <Administer_CPD_RootBeer.jobString>루트비어 투여 중.</Administer_CPD_RootBeer.jobString>
+  <Administer_CPD_Berry.label>딸기 탄산음료 투여</Administer_CPD_Berry.label>
+  <Administer_CPD_Berry.jobString>딸기 탄산음료를 투여하는 중.</Administer_CPD_Berry.jobString>
+  <Administer_CPD_Agave.label>용설란 탄산음료 투여</Administer_CPD_Agave.label>
+  <Administer_CPD_Agave.jobString>용설란 탄산음료를 투여하는 중.</Administer_CPD_Agave.jobString>
+  <Make_CPD_ThrumboEnergy.label>트럼보 에너지 만들기</Make_CPD_ThrumboEnergy.label>
+  <Make_CPD_ThrumboEnergy.description>트럼보 에너지를 만듭니다.</Make_CPD_ThrumboEnergy.description>
+  <Make_CPD_ThrumboEnergy.jobString>트럼보 에너지를 만드는 중.</Make_CPD_ThrumboEnergy.jobString>
+  <CPD_MakeStoutWort.label>스타우트 맥아즙 만들기</CPD_MakeStoutWort.label>
+  <CPD_MakeStoutWort.description>술보리로부터 맥아즙을 만듭니다.</CPD_MakeStoutWort.description>
+  <CPD_MakeStoutWort.jobString>스타우트 맥아즙 만드는 중.</CPD_MakeStoutWort.jobString>
+  <CPD_MakeCornWort.label>옥수수 발효액 만들기</CPD_MakeCornWort.label>
+  <CPD_MakeCornWort.description>옥수수로 발호액을 만듭니다.</CPD_MakeCornWort.description>
+  <CPD_MakeCornWort.jobString>옥수수 발효액을 만드는 중.</CPD_MakeCornWort.jobString>
+  <CPD_MakeRiceMash.label>쌀 당화액 만들기</CPD_MakeRiceMash.label>
+  <CPD_MakeRiceMash.description>니고리자케 양조를 위해서 쌀 당화액을 만듭니다.</CPD_MakeRiceMash.description>
+  <CPD_MakeRiceMash.jobString>쌀 당화액을 만드는 중.</CPD_MakeRiceMash.jobString>
+  <CPD_DistillVodka.label>보드카 증류</CPD_DistillVodka.label>
+  <CPD_DistillVodka.description>보드카를 마시기 위해 여과 및 증류를 합니다.</CPD_DistillVodka.description>
+  <CPD_DistillVodka.jobString>보드카 증류하는 중.</CPD_DistillVodka.jobString>
+  <CPD_MakeWineMust.label>딸기 와인 발효액 만들기</CPD_MakeWineMust.label>
+  <CPD_MakeWineMust.description>딸기로 와인 발효액을 만듭니다.</CPD_MakeWineMust.description>
+  <CPD_MakeWineMust.jobString>딸기 와인 발효액을 만드는 중.</CPD_MakeWineMust.jobString>
+  <CPD_MakeGreenDragonPrecursor.label>연초잎 알코올 추출물 만들기</CPD_MakeGreenDragonPrecursor.label>
+  <CPD_MakeGreenDragonPrecursor.description>연초잎 알코올 추출물을 만듭니다.</CPD_MakeGreenDragonPrecursor.description>
+  <CPD_MakeGreenDragonPrecursor.jobString>연초잎 알코올 추출물을 만드는 중.</CPD_MakeGreenDragonPrecursor.jobString>
+  <CPD_MakeCrateBeer.label>맥주 상자 만들기</CPD_MakeCrateBeer.label>
+  <CPD_MakeCrateBeer.description>알코올 병을 상자에 담으면 보관이 더 쉽습니다.</CPD_MakeCrateBeer.description>
+  <CPD_MakeCrateBeer.jobString>맥주를 상자에 담는 중.</CPD_MakeCrateBeer.jobString>
+  <CPD_EmptyCrateBeer.label>맥주 상자 비우기</CPD_EmptyCrateBeer.label>
+  <CPD_EmptyCrateBeer.description>모든 알코올 병을 상자에 꺼냅니다.</CPD_EmptyCrateBeer.description>
+  <CPD_EmptyCrateBeer.jobString>상자 비우는 중.</CPD_EmptyCrateBeer.jobString>
+  <CPD_MakeCrateStout.label>스타우트 상자 만들기</CPD_MakeCrateStout.label>
+  <CPD_MakeCrateStout.description>알코올 병을 상자에 담으면 보관이 더 쉽습니다.</CPD_MakeCrateStout.description>
+  <CPD_MakeCrateStout.jobString>스타우트를 상자에 담는 중.</CPD_MakeCrateStout.jobString>
+  <CPD_EmptyCrateStout.label>스타우트 상자 비우기</CPD_EmptyCrateStout.label>
+  <CPD_EmptyCrateStout.description>모든 알코올 병을 상자에서 꺼냅니다.</CPD_EmptyCrateStout.description>
+  <CPD_EmptyCrateStout.jobString>상자 비우는 중.</CPD_EmptyCrateStout.jobString>
+  <CPD_MakeCrateNigori.label>니고리자케 상자 만들기</CPD_MakeCrateNigori.label>
+  <CPD_MakeCrateNigori.description>알코올 병을 상자에 담으면 보관이 더 쉽습니다.</CPD_MakeCrateNigori.description>
+  <CPD_MakeCrateNigori.jobString>니고리자케를 상자에 담는 중.</CPD_MakeCrateNigori.jobString>
+  <CPD_EmptyCrateNigori.label>니고리자케 상자 비우기</CPD_EmptyCrateNigori.label>
+  <CPD_EmptyCrateNigori.description>모든 알코올 병을 상자에서 꺼냅니다.</CPD_EmptyCrateNigori.description>
+  <CPD_EmptyCrateNigori.jobString>상자 비우는 중.</CPD_EmptyCrateNigori.jobString>
+  <CPD_MakeCrateVodka.label>보드카 상자 만들기</CPD_MakeCrateVodka.label>
+  <CPD_MakeCrateVodka.description>알코올 병을 상자에 담으면 보관이 더 쉽습니다.</CPD_MakeCrateVodka.description>
+  <CPD_MakeCrateVodka.jobString>보드카를 상자에 담는 중.</CPD_MakeCrateVodka.jobString>
+  <CPD_EmptyCrateVodka.label>보드카 상자 비우기</CPD_EmptyCrateVodka.label>
+  <CPD_EmptyCrateVodka.description>모든 알코올 병을 상자에서 꺼냅니다.</CPD_EmptyCrateVodka.description>
+  <CPD_EmptyCrateVodka.jobString>상자 비우는 중.</CPD_EmptyCrateVodka.jobString>
+  <CPD_MakeCrateWhiskey.label>위스키 상자 만들기</CPD_MakeCrateWhiskey.label>
+  <CPD_MakeCrateWhiskey.description>알코올 병을 상자에 담으면 보관이 더 쉽습니다.</CPD_MakeCrateWhiskey.description>
+  <CPD_MakeCrateWhiskey.jobString>위스키를 상자에 담는 중.</CPD_MakeCrateWhiskey.jobString>
+  <CPD_EmptyCrateWhiskey.label>위스키 상자 비우기</CPD_EmptyCrateWhiskey.label>
+  <CPD_EmptyCrateWhiskey.description>모든 알코올 병을 상자에서 꺼냅니다.</CPD_EmptyCrateWhiskey.description>
+  <CPD_EmptyCrateWhiskey.jobString>상자 비우는 중.</CPD_EmptyCrateWhiskey.jobString>
+  <CPD_MakeCrateWine.label>와인 상자 만들기</CPD_MakeCrateWine.label>
+  <CPD_MakeCrateWine.description>알코올 병을 상자에 담으면 보관이 더 쉽습니다.</CPD_MakeCrateWine.description>
+  <CPD_MakeCrateWine.jobString>와인을 상자에 담는 중.</CPD_MakeCrateWine.jobString>
+  <CPD_EmptyCrateWine.label>와인 상자 비우기</CPD_EmptyCrateWine.label>
+  <CPD_EmptyCrateWine.description>모든 알코올 병을 상자에서 꺼냅니다.</CPD_EmptyCrateWine.description>
+  <CPD_EmptyCrateWine.jobString>상자 비우는 중.</CPD_EmptyCrateWine.jobString>
+  <CPD_MakeCrateGreenDragon.label>그린 드래곤 상자 만들기</CPD_MakeCrateGreenDragon.label>
+  <CPD_MakeCrateGreenDragon.description>알코올 병을 상자에 담으면 보관이 더 쉽습니다.</CPD_MakeCrateGreenDragon.description>
+  <CPD_MakeCrateGreenDragon.jobString>그린 드래곤을 상자에 담는 중.</CPD_MakeCrateGreenDragon.jobString>
+  <CPD_EmptyCrateGreenDragon.label>그린 드래곤 상자 비우기</CPD_EmptyCrateGreenDragon.label>
+  <CPD_EmptyCrateGreenDragon.description>모든 알코올 병을 상자에서 꺼냅니다.</CPD_EmptyCrateGreenDragon.description>
+  <CPD_EmptyCrateGreenDragon.jobString>상자 비우는 중.</CPD_EmptyCrateGreenDragon.jobString>
+  <CPD_MakeEmptyCrate.label>빈 알코올 상자 만들기</CPD_MakeEmptyCrate.label>
+  <CPD_MakeEmptyCrate.description>알코올을 보관할 상자를 만듭니다. 알코올 상자는 포장 후, 개봉하면 파괴됩니다.</CPD_MakeEmptyCrate.description>
+  <CPD_MakeEmptyCrate.jobString>빈 알코올 상자 만들기 중.</CPD_MakeEmptyCrate.jobString>
+  <CPD_RoastBeans.label>원두 볶기</CPD_RoastBeans.label>
+  <CPD_RoastBeans.description>커피를 만들기 위해 커피 원두를 볶습니다.</CPD_RoastBeans.description>
+  <CPD_RoastBeans.jobString>원두 볶는 중.</CPD_RoastBeans.jobString>
+  <CPD_RoastBeansBulk.label>원두 볶기 (대량)</CPD_RoastBeansBulk.label>
+  <CPD_RoastBeansBulk.description>커피를 만들기 위해 커피 원두를 볶습니다.</CPD_RoastBeansBulk.description>
+  <CPD_RoastBeansBulk.jobString>원두 볶는 중.</CPD_RoastBeansBulk.jobString>
+  <CPD_BrewCoffee.label>커피 끓이기</CPD_BrewCoffee.label>
+  <CPD_BrewCoffee.description>볶은 커피 원두를 갈아서 커피를 만듭니다.</CPD_BrewCoffee.description>
+  <CPD_BrewCoffee.jobString>커피 끓이는 중</CPD_BrewCoffee.jobString>
+  <CPD_BrewCoffeeBulk.label>커피 끓이기 (대량)</CPD_BrewCoffeeBulk.label>
+  <CPD_BrewCoffeeBulk.description>볶은 커피 원두를 갈아서 커피를 만듭니다.</CPD_BrewCoffeeBulk.description>
+  <CPD_BrewCoffeeBulk.jobString>커피 끓이는 중</CPD_BrewCoffeeBulk.jobString>
+  <CPD_BrewDecafCoffee.label>디카페인 커피 끓이기</CPD_BrewDecafCoffee.label>
+  <CPD_BrewDecafCoffee.description>볶은 커피 원두를 갈아서 담그고, 끓여 디카페인 커피를 만듭니다.</CPD_BrewDecafCoffee.description>
+  <CPD_BrewDecafCoffee.jobString>디카페인 커피 끓이는 중.</CPD_BrewDecafCoffee.jobString>
+  <CPD_BrewDecafCoffeeBulk.label>디카페인 커피 끓이기 (대량)</CPD_BrewDecafCoffeeBulk.label>
+  <CPD_BrewDecafCoffeeBulk.description>볶은 커피 원두를 갈아서 담그고, 끓여 디카페인 커피를 만듭니다.</CPD_BrewDecafCoffeeBulk.description>
+  <CPD_BrewDecafCoffeeBulk.jobString>디카페인 커피 끓이는 중.</CPD_BrewDecafCoffeeBulk.jobString>
+  <CPD_BrewDECoffee.label>데드 아이 커피 끓이기</CPD_BrewDECoffee.label>
+  <CPD_BrewDECoffee.description>볶은 커피 원두를 두 번 갈아서 누르고 조심스럽게 끊여 매우 진한 커피를 만듭니다.</CPD_BrewDECoffee.description>
+  <CPD_BrewDECoffee.jobString>데드 아이 커피 끓이기</CPD_BrewDECoffee.jobString>
+  <CPD_RootBeer.label>루트비어 양조</CPD_RootBeer.label>
+  <CPD_RootBeer.description>맛있는 껍질과 뿌리로 만든 탄산음료를 만듭니다.</CPD_RootBeer.description>
+  <CPD_RootBeer.jobString>루트비어 만드는 중.</CPD_RootBeer.jobString>
+  <CPD_BrewBerry.label>딸기 탄산음료 양조</CPD_BrewBerry.label>
+  <CPD_BrewBerry.description>딸기와 달콤한 당밀로 만든 탄산음료를 만듭니다.</CPD_BrewBerry.description>
+  <CPD_BrewBerry.jobString>딸기 탄산음료 만드는 중.</CPD_BrewBerry.jobString>
+  <CPD_BrewAgave.label>용설란 탄산음료 양조</CPD_BrewAgave.label>
+  <CPD_BrewAgave.description>용설란 꿀과 달콤한 당밀로 만든 탄산음료를 만듭니다.</CPD_BrewAgave.description>
+  <CPD_BrewAgave.jobString>용설란 탄산음료 만드는 중.</CPD_BrewAgave.jobString>
+  <CPD_BrewSimpleSyrup.label>간단한 당밀 양조</CPD_BrewSimpleSyrup.label>
+  <CPD_BrewSimpleSyrup.description>다량의 설탕을 함유한 식품을 졸여서 당밀을 추출합니다.</CPD_BrewSimpleSyrup.description>
+  <CPD_BrewSimpleSyrup.jobString>간단한 당밀을 만드는 중.</CPD_BrewSimpleSyrup.jobString>
+  <CPD_BrewSimpleSyrupBulk.label>간단한 당밀 양조 (대량)</CPD_BrewSimpleSyrupBulk.label>
+  <CPD_BrewSimpleSyrupBulk.description>다량의 설탕을 함유한 식품을 졸여서 당밀을 추출합니다.</CPD_BrewSimpleSyrupBulk.description>
+  <CPD_BrewSimpleSyrupBulk.jobString>간단한 당밀을 만드는 중.</CPD_BrewSimpleSyrupBulk.jobString>
+  <CPD_BrewChocolateSoda.label>초콜렛 탄산음료 양조</CPD_BrewChocolateSoda.label>
+  <CPD_BrewChocolateSoda.description>탄산음료에 초콜렛, 우유 및 당밀을 추가합니다.</CPD_BrewChocolateSoda.description>
+  <CPD_BrewChocolateSoda.jobString>초콜렛 탄산음료를 만드는 중.</CPD_BrewChocolateSoda.jobString>
+
+</LanguageData>

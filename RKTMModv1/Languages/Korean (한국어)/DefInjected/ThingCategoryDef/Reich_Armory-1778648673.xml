@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Reich_Armory_Cat.label>제3제국 병기고를 해금합니다.</Reich_Armory_Cat.label>
+  <Weapon_RA.label>무기</Weapon_RA.label>
+  <Misc_RA.label>기타</Misc_RA.label>
+  <Security_RA.label>방어</Security_RA.label>
+  <Shell_RA.label>포탄</Shell_RA.label>
+  <Shell_PaK_36_RA.label>3,7cm PaK 36 포탄</Shell_PaK_36_RA.label>
+  <Shell_PaK_40_RA.label>7,5cm PaK 40 포탄</Shell_PaK_40_RA.label>
+  <Shell_Nebelwerfer_41_RA.label>15cm 네벨베르퍼 41 포탄</Shell_Nebelwerfer_41_RA.label>
+  <Shell_leIG_18_RA.label>7,5cm le.IG 18 포탄</Shell_leIG_18_RA.label>
+  <Shell_Flak_38_RA.label>2cm Flak 38 포탄</Shell_Flak_38_RA.label>
+
+</LanguageData>

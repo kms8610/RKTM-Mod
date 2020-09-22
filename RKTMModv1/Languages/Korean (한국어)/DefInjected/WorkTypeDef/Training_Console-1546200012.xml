@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Training_con.label>훈련</Training_con.label>
+  <Training_con.description>기술 훈련.</Training_con.description>
+  <Training_con.labelShort>훈련</Training_con.labelShort>
+  <Training_con.pawnLabel>훈련자</Training_con.pawnLabel>
+  <Training_con.gerundLabel>훈련</Training_con.gerundLabel>
+  <Training_con.verb>훈련</Training_con.verb>
+
+</LanguageData>

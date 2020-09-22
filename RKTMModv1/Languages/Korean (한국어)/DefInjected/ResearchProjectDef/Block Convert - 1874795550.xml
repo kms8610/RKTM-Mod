@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StoneConversion.label>석재 변환</StoneConversion.label>
+  <StoneConversion.description>석재 벽돌을 다른 석재 벽돌로 변환할 수 있습니다.</StoneConversion.description>
+  <PoweredStoneConversion.label>전기 사용 석재 변환</PoweredStoneConversion.label>
+  <PoweredStoneConversion.description>석재 벽돌을 다른 석재 벽돌로 변환할 수 있습니다.</PoweredStoneConversion.description>
+
+</LanguageData>

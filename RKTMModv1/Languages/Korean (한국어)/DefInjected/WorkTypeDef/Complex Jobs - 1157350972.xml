@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FSFSurgeon.label>수술</FSFSurgeon.label>
+  <FSFSurgeon.description>인간 및 동물을 대상으로 수술을 합니다.</FSFSurgeon.description>
+  <FSFSurgeon.labelShort>수술</FSFSurgeon.labelShort>
+  <FSFSurgeon.pawnLabel>수술</FSFSurgeon.pawnLabel>
+  <FSFSurgeon.gerundLabel>수술</FSFSurgeon.gerundLabel>
+  <FSFSurgeon.verb>치료</FSFSurgeon.verb>
+  <FSFRearming.label>장전</FSFRearming.label>
+  <FSFRearming.description>포탑을 재장전합니다.</FSFRearming.description>
+  <FSFRearming.labelShort>장전</FSFRearming.labelShort>
+  <FSFRearming.pawnLabel>장전 작업자</FSFRearming.pawnLabel>
+  <FSFRearming.gerundLabel>장전</FSFRearming.gerundLabel>
+  <FSFRearming.verb>장전</FSFRearming.verb>
+  <FSFRefueling.label>연료 보충</FSFRefueling.label>
+  <FSFRefueling.description>나무나 화학연료로 작동하는 것들의 연료를 보충합니다.</FSFRefueling.description>
+  <FSFRefueling.labelShort>연료 보충</FSFRefueling.labelShort>
+  <FSFRefueling.pawnLabel>연료 보급자</FSFRefueling.pawnLabel>
+  <FSFRefueling.gerundLabel>연료 보충</FSFRefueling.gerundLabel>
+  <FSFRefueling.verb>연료 보충</FSFRefueling.verb>
+  <FSFTraining.label>조련</FSFTraining.label>
+  <FSFTraining.description>야생 동물을 길들이고, 가축을 훈련시킵니다.</FSFTraining.description>
+  <FSFTraining.labelShort>조련</FSFTraining.labelShort>
+  <FSFTraining.pawnLabel>조련사</FSFTraining.pawnLabel>
+  <FSFTraining.gerundLabel>조련</FSFTraining.gerundLabel>
+  <FSFTraining.verb>조련</FSFTraining.verb>
+  <FSFButcher.label>도축</FSFButcher.label>
+  <FSFButcher.description>가축을 도축해 육류로 가공하거나 사료등을 제작합니다.</FSFButcher.description>
+  <FSFButcher.labelShort>도축</FSFButcher.labelShort>
+  <FSFButcher.pawnLabel>도축자</FSFButcher.pawnLabel>
+  <FSFButcher.gerundLabel>도축</FSFButcher.gerundLabel>
+  <FSFButcher.verb>도축</FSFButcher.verb>
+  <FSFBrewing.label>양조</FSFBrewing.label>
+  <FSFBrewing.description>술보리로 맥아즙을 만들고, 발효통을 비우거나 채웁니다.</FSFBrewing.description>
+  <FSFBrewing.labelShort>양조</FSFBrewing.labelShort>
+  <FSFBrewing.pawnLabel>양조자</FSFBrewing.pawnLabel>
+  <FSFBrewing.gerundLabel>양조</FSFBrewing.gerundLabel>
+  <FSFBrewing.verb>양조</FSFBrewing.verb>
+  <FSFRepair.label>수리</FSFRepair.label>
+  <FSFRepair.description>손상되거나 파손된 건물, 물품을 수리합니다.</FSFRepair.description>
+  <FSFRepair.labelShort>수리</FSFRepair.labelShort>
+  <FSFRepair.pawnLabel>수리자</FSFRepair.pawnLabel>
+  <FSFRepair.gerundLabel>수리</FSFRepair.gerundLabel>
+  <FSFRepair.verb>수리</FSFRepair.verb>
+  <FSFDeconstruct.label>해체</FSFDeconstruct.label>
+  <FSFDeconstruct.description>건물이나 물체를, 해체하거나 제거합니다.</FSFDeconstruct.description>
+  <FSFDeconstruct.labelShort>해체</FSFDeconstruct.labelShort>
+  <FSFDeconstruct.pawnLabel>해체자</FSFDeconstruct.pawnLabel>
+  <FSFDeconstruct.gerundLabel>해체 / 제거</FSFDeconstruct.gerundLabel>
+  <FSFDeconstruct.verb>해체</FSFDeconstruct.verb>
+  <FSFHarvesting.label>수확</FSFHarvesting.label>
+  <FSFHarvesting.description>다 자란 작물을 수확합니다.</FSFHarvesting.description>
+  <FSFHarvesting.labelShort>수확</FSFHarvesting.labelShort>
+  <FSFHarvesting.pawnLabel>농부</FSFHarvesting.pawnLabel>
+  <FSFHarvesting.gerundLabel>수확</FSFHarvesting.gerundLabel>
+  <FSFHarvesting.verb>수확</FSFHarvesting.verb>
+  <FSFDrilling.label>심층 채굴</FSFDrilling.label>
+  <FSFDrilling.description>자원을 채굴하기 위해 심층 굴착기를 사용합니다.</FSFDrilling.description>
+  <FSFDrilling.labelShort>심층 채굴</FSFDrilling.labelShort>
+  <FSFDrilling.pawnLabel>광부</FSFDrilling.pawnLabel>
+  <FSFDrilling.gerundLabel>심층 채굴</FSFDrilling.gerundLabel>
+  <FSFDrilling.verb>심층 채굴</FSFDrilling.verb>
+  <FSFDrugs.label>약물 제조</FSFDrugs.label>
+  <FSFDrugs.description>약물 연구대에서 약물을 제조합니다.</FSFDrugs.description>
+  <FSFDrugs.labelShort>약물 제조</FSFDrugs.labelShort>
+  <FSFDrugs.pawnLabel>약사</FSFDrugs.pawnLabel>
+  <FSFDrugs.gerundLabel>약물 제조</FSFDrugs.gerundLabel>
+  <FSFDrugs.verb>제작</FSFDrugs.verb>
+  <FSFFabrication.label>조립 제작</FSFFabrication.label>
+  <FSFFabrication.description>조립 작업대에서 원자재로 무기, 갑옷, 생체 공학 및 구성 요소를 만듭니다.</FSFFabrication.description>
+  <FSFFabrication.labelShort>조립 제작</FSFFabrication.labelShort>
+  <FSFFabrication.pawnLabel>조립 제작자</FSFFabrication.pawnLabel>
+  <FSFFabrication.gerundLabel>조립 제작</FSFFabrication.gerundLabel>
+  <FSFFabrication.verb>제련</FSFFabrication.verb>
+  <FSFMachining.label>기계 제작</FSFMachining.label>
+  <FSFMachining.description>기계 작업대에서 원자재로 무기와 도구를 만듭니다.</FSFMachining.description>
+  <FSFMachining.labelShort>기계 제작</FSFMachining.labelShort>
+  <FSFMachining.pawnLabel>기술자</FSFMachining.pawnLabel>
+  <FSFMachining.gerundLabel>기계 제작</FSFMachining.gerundLabel>
+  <FSFMachining.verb>제련</FSFMachining.verb>
+  <FSFRefining.label>정제</FSFRefining.label>
+  <FSFRefining.description>연료 정제기에서 화학 연료를 정제합니다.</FSFRefining.description>
+  <FSFRefining.labelShort>정제</FSFRefining.labelShort>
+  <FSFRefining.pawnLabel>정제자</FSFRefining.pawnLabel>
+  <FSFRefining.gerundLabel>정제</FSFRefining.gerundLabel>
+  <FSFRefining.verb>정제</FSFRefining.verb>
+  <FSFSmelt.label>용해</FSFSmelt.label>
+  <FSFSmelt.description>전기로를 사용하여 덩어리나 무기를 녹여서 유용한 금속을 추출하거나, 녹여 없애버립니다.</FSFSmelt.description>
+  <FSFSmelt.labelShort>용해</FSFSmelt.labelShort>
+  <FSFSmelt.pawnLabel>용해자</FSFSmelt.pawnLabel>
+  <FSFSmelt.gerundLabel>용해</FSFSmelt.gerundLabel>
+  <FSFSmelt.verb>용해</FSFSmelt.verb>
+  <FSFStoneCut.label>석재 가공</FSFStoneCut.label>
+  <FSFStoneCut.description>바위 덩어리로 벽돌을 만듭니다.</FSFStoneCut.description>
+  <FSFStoneCut.labelShort>석재 가공</FSFStoneCut.labelShort>
+  <FSFStoneCut.pawnLabel>석재 가공자</FSFStoneCut.pawnLabel>
+  <FSFStoneCut.gerundLabel>석재 가공</FSFStoneCut.gerundLabel>
+  <FSFStoneCut.verb>석재 가공</FSFStoneCut.verb>
+  <FSFLoading.label>적재</FSFLoading.label>
+  <FSFLoading.description>운송 포드 및 상단에 짐을 적재합니다.</FSFLoading.description>
+  <FSFLoading.labelShort>적재</FSFLoading.labelShort>
+  <FSFLoading.pawnLabel>적재자</FSFLoading.pawnLabel>
+  <FSFLoading.gerundLabel>적재</FSFLoading.gerundLabel>
+  <FSFLoading.verb>적재</FSFLoading.verb>
+  <FSFCremating.label>소각</FSFCremating.label>
+  <FSFCremating.description>화장터, 모닥불을 이용해 의류, 약물 그리고 시체를 소각합니다.</FSFCremating.description>
+  <FSFCremating.labelShort>소각</FSFCremating.labelShort>
+  <FSFCremating.pawnLabel>소각자</FSFCremating.pawnLabel>
+  <FSFCremating.gerundLabel>소각</FSFCremating.gerundLabel>
+  <FSFCremating.verb>소각</FSFCremating.verb>
+  <FSFDeliver.label>전달</FSFDeliver.label>
+  <FSFDeliver.description>구조물 청사진에 필요한 건축 자재를 운반합니다.</FSFDeliver.description>
+  <FSFDeliver.labelShort>전달</FSFDeliver.labelShort>
+  <FSFDeliver.pawnLabel>짐꾼</FSFDeliver.pawnLabel>
+  <FSFDeliver.gerundLabel>전달</FSFDeliver.gerundLabel>
+  <FSFDeliver.verb>전달</FSFDeliver.verb>
+  <FSFScan.label>탐색</FSFScan.label>
+  <FSFScan.description>원거리 광물 스캐너를 사용하여 자원을 탐색하거나, 지면 투과 스캐너를 통해 탐색합니다.</FSFScan.description>
+  <FSFScan.labelShort>탐색</FSFScan.labelShort>
+  <FSFScan.pawnLabel>탐색자</FSFScan.pawnLabel>
+  <FSFScan.gerundLabel>탐색</FSFScan.gerundLabel>
+  <FSFScan.verb>광물 탐색</FSFScan.verb>
+
+</LanguageData>

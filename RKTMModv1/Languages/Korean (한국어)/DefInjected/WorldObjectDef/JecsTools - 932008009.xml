@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WorldObject_ProgressBar.label>진행 표시줄</WorldObject_ProgressBar.label>
+  <WorldObject_ProgressBar.description>플레이어가 이걸 보면 안됩니다.</WorldObject_ProgressBar.description>
+
+</LanguageData>

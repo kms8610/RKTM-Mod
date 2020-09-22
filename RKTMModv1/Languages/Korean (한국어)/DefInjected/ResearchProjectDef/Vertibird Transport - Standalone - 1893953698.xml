@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BoS_Vertibird.label>수직이착륙 항공기</BoS_Vertibird.label>
+  <BoS_Vertibird.description>고대 회로에 제어되는 특수 XVB-02 버티버드 부대 수송 항공기입니다. 선택된 자만이 사용할 수 있습니다.</BoS_Vertibird.description>
+  <BoS_Vertihawk.label>하이브리드 파동 가속 엔진</BoS_Vertihawk.label>
+  <BoS_Vertihawk.description>XVH-01 버티호크 병력 수송에 대한 실험적 청사진을 복구하십시오.</BoS_Vertihawk.description>
+
+</LanguageData>

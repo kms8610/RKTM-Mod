@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFAdvancedPowerArmor.label>고급 강화 갑옷</PFAdvancedPowerArmor.label>
+  <PFAdvancedPowerArmor.description>강화 갑옷 기술의 발전으로 인해 고도의 기술력을 요구하는 중장갑 방어구의 제작을 가능하게 해 줍니다. X-01 강화 갑옷 제작이 가능합니다.</PFAdvancedPowerArmor.description>
+  <PFEnergyWeapons.label>에너지 무기</PFEnergyWeapons.label>
+  <PFEnergyWeapons.description>렌즈에 초점을 맞춘 순수한 고전력 광선과 초전도를 수직으로 통과시킨 과열된 플라즈마 무기가 효과적임을 입증할 수 있었습니다. 기본 에너지 무기 제작이 가능합니다.</PFEnergyWeapons.description>
+  <PFSpecialEnergyWeapons.label>전문화된 에너지 무기</PFSpecialEnergyWeapons.label>
+  <PFSpecialEnergyWeapons.description>전문적이고 다양한 역할의 강력한 자석 에너지 무기를 보다 정확한 초점을 사용하여 훨씬 많은 에너지를 출력시킬 수 있습니다. 전문화된 에너지 무기 제작이 가능합니다.</PFSpecialEnergyWeapons.description>
+  <PFabricAug.label>직물 증강</PFabricAug.label>
+  <PFabricAug.description>재봉기술의 발전으로 볼트-테크의 의류 안전 기준에 도달할 수 있었습니다. 볼트 점프슈트 제작이 가능합니다.</PFabricAug.description>
+  <PFChemProduction.label>화학물질</PFChemProduction.label>
+  <PFChemProduction.description>엄격한 테스트를 거친 후 다양한 화학 약품에 대한 몇 가지 화학 공식이 개발되었습니다. 기본적인 화학물질 제작이 가능합니다.</PFChemProduction.description>
+  <PFBasicTurrets.label>기본 포탑</PFBasicTurrets.label>
+  <PFBasicTurrets.description>기본적인 프로그래밍을 사용하면 많은 복잡함에도 불구하고 더 좋은 포탑이 설계가 되어 상당한 발전을 이루게 됩니다. 기관총 포탑과 중기관총 포탑 제작이 가능합니다.</PFBasicTurrets.description>
+
+</LanguageData>

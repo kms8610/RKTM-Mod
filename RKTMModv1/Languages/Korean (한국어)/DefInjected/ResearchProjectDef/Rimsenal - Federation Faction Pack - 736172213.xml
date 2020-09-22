@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CrucibleTech.label>RS: 에너지 도가니</CrucibleTech.label>
+  <CrucibleTech.description>연방 무장을 제작할 수 있게 됩니다.</CrucibleTech.description>
+  <PlasmaTech.label>RS: 자성 플라즈마 격자망</PlasmaTech.label>
+  <PlasmaTech.description>플라즈마 병기를 제작할 수 있게 됩니다.</PlasmaTech.description>
+  <PlasmaMortarTech.label>플라즈마 가속기</PlasmaMortarTech.label>
+  <PlasmaMortarTech.description>플라즈마 구포를 제작할 때 필요한 기술입니다.</PlasmaMortarTech.description>
+
+</LanguageData>

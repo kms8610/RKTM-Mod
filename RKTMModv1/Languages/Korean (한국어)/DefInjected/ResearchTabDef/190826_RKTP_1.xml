@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1140051385_181113_Smokeleaf_Industry-->
+  <MSI.label>연초잎 산업</MSI.label>
+
+  <!--1204258045_190519_[XND] Genetically Engineered Plants-->
+  <XNDResearchTab.label>XND의 모드</XNDResearchTab.label>
+
+  <!--1204502413_190521_Harvest Organs Post Mortem-->
+  <Autopsy.label>부검</Autopsy.label>
+
+  <!--1231678757_190814_Technology Blueprints-->
+  <Blueprints.label>기술 청사진</Blueprints.label>
+
+  <!--1304432145_190814_Clone Bay-->
+  <LTFCloneBay.label>빠른 것보다 가볍게 - CloneBay</LTFCloneBay.label>
+
+  <!--1316188771_190621_Door Expanded-->
+  <Heron_ResearchTab.label>문 연구</Heron_ResearchTab.label>
+
+  <!--1447372624_190816_Nano Repair Tech-->
+  <Ogre_NanoTechResearchTab.label>나노기술 수리</Ogre_NanoTechResearchTab.label>
+
+  <!--1505332648_190519_Gods of Elona [1.0]-->
+  <The_Elona_Gods.label>엘로나의 신들</The_Elona_Gods.label>
+
+  <!--1505914869_190616_What the hack!-->
+  <WTH_ResearchTab.label>WTH: 메카노이드 해킹</WTH_ResearchTab.label>
+
+  <!--1512478761_190627_Expanded Roofing-->
+  <ExpandedRoofing.label>확장 지붕</ExpandedRoofing.label>
+
+  <!--1522429439_190628_Slave Outfits-->
+  <Uniforms.label>노예복</Uniforms.label>
+
+  <!--1541243129_190628_Rimperion-->
+  <SpaceTech.label>우주 기술</SpaceTech.label>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu_ResearchTab.label>식수</Mizu_ResearchTab.label>
+
+  <!--1542854752_181108_Weapon Tech-->
+  <WeaponDiversityResearchTab.label>웨폰 테크</WeaponDiversityResearchTab.label>
+
+  <!--1547881310_190814_Rimfall The Frontier-->
+  <ResearchRimfall.label>림폴</ResearchRimfall.label>
+
+  <!--1569056149_190519_Plasteel Surgery-->
+  <PS_ResearchTab.label>성형수술</PS_ResearchTab.label>
+
+  <!--1569879243_190606_More Mini-Turrets-->
+  <WDTurrets.label>포탑</WDTurrets.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <ReligionTab.label>종교</ReligionTab.label>
+
+  <!--1662902728_190526_Geyser_Cooking_station-->
+  <GeyserCooking.label>간헐천 요리</GeyserCooking.label>
+
+  <!--1715402900_190519_Replimat-->
+  <Replimat.label>레플리맷</Replimat.label>
+
+  <!--1772606627_190714_Fantastic Flora-->
+  <FF.label>판타스틱 식물계</FF.label>
+
+  <!--726884610_190818_ED-ShieldsBasic-->
+  <EnhancedDevelopment.label>강화 개발</EnhancedDevelopment.label>
+
+  <!--728314182_190621_RT Fuse-->
+  <RTMods.label>RT 모드</RTMods.label>
+
+  <!--732569232_190814_Medieval Times-->
+  <MedTimes_Medieval.label>중세</MedTimes_Medieval.label>
+
+  <!--747645520_190627_Misc. Robots++-->
+  <RPP_Reasearch_Tab.label>로봇 ++</RPP_Reasearch_Tab.label>
+
+  <!--758810805_190811_FishIndustry-->
+  <FishIndustry.label>양식업</FishIndustry.label>
+
+  <!--769201959_190626_RIMKea-->
+  <Rimkea.label>림케아</Rimkea.label>
+
+  <!--777197241_190628_Industrial Age - Objects and Furniture-->
+  <Estate_ResearchTab.label>산업시대</Estate_ResearchTab.label>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Cults_ResearchTab.label>오컬트 연구</Cults_ResearchTab.label>
+
+  <!--823626435_190622_Super Soil-->
+  <supersoil.label>우수한 토양</supersoil.label>
+
+  <!--848309750_190626_MiningCo. Alert speaker-->
+  <MiningCo.label>채광Co.</MiningCo.label>
+
+</LanguageData>

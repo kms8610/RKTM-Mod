@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cookjagabata.label>버터 감자찜</Cookjagabata.label>
+  <Cookjagabata.description>우유로 만든 버터를 찐 감자 위에 올립니다.</Cookjagabata.description>
+  <Cookjagabata.jobString>버터 감자찜 만드는 중</Cookjagabata.jobString>
+  <granola.label>그래놀라</granola.label>
+  <granola.description>곡물로 만든 시리얼과 달콤한 딸기를 넣고 우유를 붓습니다.</granola.description>
+  <granola.jobString>그래놀라 만드는 중</granola.jobString>
+  <creamstew.label>밀크 스튜</creamstew.label>
+  <creamstew.description>많은 야채와 고기를 우유에 담가 끓여 스튜를 만듭니다. 아주 맛있고 영양분이 풍부합니다.</creamstew.description>
+  <creamstew.jobString>밀크 스튜 만드는 중</creamstew.jobString>
+  <rennyuichigo.label>연유에 빠진 딸기</rennyuichigo.label>
+  <rennyuichigo.description>가당연유를 만들기 위해 우유를 끓인 뒤 딸기를 넣습니다.</rennyuichigo.description>
+  <rennyuichigo.jobString>연유에 빠진 딸기 만드는 중</rennyuichigo.jobString>
+  <milkmochi.label>우유모찌</milkmochi.label>
+  <milkmochi.description>식물을 빻아서 녹말가루를 만들고 우유와 섞어서 반죽하세요.</milkmochi.description>
+  <milkmochi.jobString>우유모찌 만드는 중</milkmochi.jobString>
+  <shortcake.label>딸기 케이크</shortcake.label>
+  <shortcake.description>곡물로 스펀지 케이크를 만들고 휘핑 크림을 듬뿍 바릅니다. 그리고 딸기로 예쁘게 장식합니다.</shortcake.description>
+  <shortcake.jobString>딸기 케이크 만드는 중</shortcake.jobString>
+
+</LanguageData>

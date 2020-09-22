@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RB_CentrifugeOrganicCombBulk.label>유기체 벌집 대량 분해</RB_CentrifugeOrganicCombBulk.label>
+  <RB_CentrifugeOrganicCombBulk.description>원심분리기에서 유기벌집을 대량 추출하여 꿀, 밀랍, 유기펄프를 얻습니다.</RB_CentrifugeOrganicCombBulk.description>
+  <RB_CentrifugeOrganicCombBulk.jobString>꿀과 밀랍, 유기펄프를 추출합니다.</RB_CentrifugeOrganicCombBulk.jobString>
+  <RB_CentrifugeHybernatingCombBulk.label>겨울잠 벌집 대량 분해</RB_CentrifugeHybernatingCombBulk.label>
+  <RB_CentrifugeHybernatingCombBulk.description>원심분리기에서 겨울잠 벌집을 대량 추출하여 유전자 벌꿀과 유전자 밀랍, 곰 유전물질을 추출합니다.</RB_CentrifugeHybernatingCombBulk.description>
+  <RB_CentrifugeHybernatingCombBulk.jobString>유전자 벌꿀, 유전자 밀랍, 곰 유전물질을 추출합니다.</RB_CentrifugeHybernatingCombBulk.jobString>
+  <RB_CentrifugeCluckingCombBulk.label>꼬꼬 벌집 대량 분해</RB_CentrifugeCluckingCombBulk.label>
+  <RB_CentrifugeCluckingCombBulk.description>원심분리기에서 꼬꼬 벌집을 대량 추출하여 벌 달걀과 유전자 밀랍, 닭 유전물질을 추출합니다.</RB_CentrifugeCluckingCombBulk.description>
+  <RB_CentrifugeCluckingCombBulk.jobString>벌 달걀, 유전자 밀랍, 닭 유전물질을 추출합니다.</RB_CentrifugeCluckingCombBulk.jobString>
+  <RB_CentrifugeExplodingCombBulk.label>폭발 벌집 대량 분해</RB_CentrifugeExplodingCombBulk.label>
+  <RB_CentrifugeExplodingCombBulk.description>원심분리기에서 폭탄 벌집을 대량 추출하여 유전자 벌꿀과 화학연료, 폭탄사슴 유전물질을 추출합니다.</RB_CentrifugeExplodingCombBulk.description>
+  <RB_CentrifugeExplodingCombBulk.jobString>유전자 벌꿀, 화학연료, 폭탄사슴 유전물질을 추출합니다.</RB_CentrifugeExplodingCombBulk.jobString>
+  <RB_CentrifugeHornedCombBulk.label>뿔난 벌집 대량 분해</RB_CentrifugeHornedCombBulk.label>
+  <RB_CentrifugeHornedCombBulk.description>원심분리기에서 뿔난 벌집을 대량 추출하여 유전자 벌꿀과 유전자 밀랍, 트럼보 유전물질을 추출합니다.</RB_CentrifugeHornedCombBulk.description>
+  <RB_CentrifugeHornedCombBulk.jobString>유전자 벌꿀, 유전자 밀랍, 트럼보 유전물질을 추출합니다.</RB_CentrifugeHornedCombBulk.jobString>
+  <RB_CentrifugeHoundCombBulk.label>사냥개벌 벌집 대량 분해</RB_CentrifugeHoundCombBulk.label>
+  <RB_CentrifugeHoundCombBulk.description>원심분리기에서 사냥개 벌집을 대량 추출하여 유전자 벌꿀과 유전자 밀랍, 개 유전물질을 추출합니다.</RB_CentrifugeHoundCombBulk.description>
+  <RB_CentrifugeHoundCombBulk.jobString>유전자 벌꿀, 유전자 밀랍 개 유전물질을 추출합니다.</RB_CentrifugeHoundCombBulk.jobString>
+  <RB_CentrifugeMechaCombBulk.label>메카 벌집 대량 분해</RB_CentrifugeMechaCombBulk.label>
+  <RB_CentrifugeMechaCombBulk.description>원심분리기에서 메카 벌집을 대량 추출하여 유전자 벌꿀과 유전자 밀랍, 메카노이드 활성 물질을 추출합니다.</RB_CentrifugeMechaCombBulk.description>
+  <RB_CentrifugeMechaCombBulk.jobString>유전자 벌꿀, 유전자 밀랍, 메카노이드 활성 물질을 추출합니다.</RB_CentrifugeMechaCombBulk.jobString>
+  <RB_CentrifugeMegaspideryCombBulk.label>큰거미벌 벌집 대량분해</RB_CentrifugeMegaspideryCombBulk.label>
+  <RB_CentrifugeMegaspideryCombBulk.description>원심분리기에서 큰거미 벌집을 대량 추출하여 곤충 젤리와 유전자 밀랍, 곤충 유전물질을 추출합니다.</RB_CentrifugeMegaspideryCombBulk.description>
+  <RB_CentrifugeMegaspideryCombBulk.jobString>곤충 젤리, 유전자 밀랍, 곤충 유전물질을 추출합니다.</RB_CentrifugeMegaspideryCombBulk.jobString>
+  <RB_CentrifugeMousyCombBulk.label>생쥐벌 벌집 대량분해</RB_CentrifugeMousyCombBulk.label>
+  <RB_CentrifugeMousyCombBulk.description>원심분리기에서 생쥐 벌집을 대량 추출하여 유전자 벌꿀과 유전자 밀랍, 쥐 유전물질을 추출합니다.</RB_CentrifugeMousyCombBulk.description>
+  <RB_CentrifugeMousyCombBulk.jobString>유전자 벌꿀, 유전자 밀랍, 쥐 유전물질을 추출합니다.</RB_CentrifugeMousyCombBulk.jobString>
+  <RB_CentrifugePurringCombBulk.label>냥 벌집 대량분해</RB_CentrifugePurringCombBulk.label>
+  <RB_CentrifugePurringCombBulk.description>원심분리기에서 냥벌 벌집을 대량 추출하여 유전자 벌꿀과 유전자 밀랍, 고양이 유전물질을 추출합니다.</RB_CentrifugePurringCombBulk.description>
+  <RB_CentrifugePurringCombBulk.jobString>유전자 벌꿀, 유전자 밀랍, 고양이 유전물질을 추출합니다.</RB_CentrifugePurringCombBulk.jobString>
+  <RB_CentrifugeScalyCombBulk.label>비늘 벌집 대량분해</RB_CentrifugeScalyCombBulk.label>
+  <RB_CentrifugeScalyCombBulk.description>원심분리기에서 비늘 벌집을 추출하여 유전자 벌꿀과 유전자 밀랍, 파충류 유전물질을 추출합니다.</RB_CentrifugeScalyCombBulk.description>
+  <RB_CentrifugeScalyCombBulk.jobString>유전자 벌꿀, 유전자 밀랍, 파충류 유전물질을 추출합니다.</RB_CentrifugeScalyCombBulk.jobString>
+  <RB_CentrifugeOrganicComb.label>유기체 벌집 추출</RB_CentrifugeOrganicComb.label>
+  <RB_CentrifugeOrganicComb.description>원심분리기에서 유기체 벌집을 추출하여 벌꿀, 밀랍, 유기펄프를 얻습니다.</RB_CentrifugeOrganicComb.description>
+  <RB_CentrifugeOrganicComb.jobString>벌꿀과 밀랍, 유기펄프를 추출합니다.</RB_CentrifugeOrganicComb.jobString>
+  <RB_CentrifugeHybernatingComb.label>겨울잠 벌집 추출</RB_CentrifugeHybernatingComb.label>
+  <RB_CentrifugeHybernatingComb.description>원심분리기에서 겨울잠 벌집을 추출하여 유전자 벌꿀과 유전자 밀랍, 곰 유전물질을 추출합니다.</RB_CentrifugeHybernatingComb.description>
+  <RB_CentrifugeHybernatingComb.jobString>유전자 벌꿀, 유전자 밀랍, 곰 유전물질을 추출합니다.</RB_CentrifugeHybernatingComb.jobString>
+  <RB_CentrifugeCattleComb.label>소떼 벌집 추출</RB_CentrifugeCattleComb.label>
+  <RB_CentrifugeCattleComb.description>원심분리기에서 소 벌집을 추출하여 우유와 털, 머팔로 유전물질을 추출합니다.</RB_CentrifugeCattleComb.description>
+  <RB_CentrifugeCattleComb.jobString>우유, 털, 머팔로 유전물질을 추출합니다.</RB_CentrifugeCattleComb.jobString>
+  <RB_CentrifugeCluckingComb.label>꼬꼬 벌집 추출</RB_CentrifugeCluckingComb.label>
+  <RB_CentrifugeCluckingComb.description>원심분리기에서 꼬꼬 벌집을 추출하여 벌 달걀과 유전자 밀랍, 닭 유전물질을 추출합니다.</RB_CentrifugeCluckingComb.description>
+  <RB_CentrifugeCluckingComb.jobString>벌 달걀, 유전자 밀랍, 닭 유전물질을 추출합니다.</RB_CentrifugeCluckingComb.jobString>
+  <RB_CentrifugeExplodingComb.label>폭탄 벌집 추출</RB_CentrifugeExplodingComb.label>
+  <RB_CentrifugeExplodingComb.description>원심분리기에서 폭탄 벌집을 추출하여 유전자 벌꿀과 화학연료, 폭탄사슴 유전물질을 추출합니다.</RB_CentrifugeExplodingComb.description>
+  <RB_CentrifugeExplodingComb.jobString>유전자 벌꿀, 화학연료, 폭탄사슴 유전물질을 추출합니다.</RB_CentrifugeExplodingComb.jobString>
+  <RB_CentrifugeHornedComb.label>뿔난 벌집 추출</RB_CentrifugeHornedComb.label>
+  <RB_CentrifugeHornedComb.description>원심분리기에서 뿔난 벌집을 추출하여 유전자 벌꿀과 유전자 밀랍, 트럼보 유전물질을 추출합니다.</RB_CentrifugeHornedComb.description>
+  <RB_CentrifugeHornedComb.jobString>유전자 벌꿀, 유전자 밀랍, 트럼보 유전물질을 추출합니다.</RB_CentrifugeHornedComb.jobString>
+  <RB_CentrifugeHoundComb.label>사냥개 벌집 추출</RB_CentrifugeHoundComb.label>
+  <RB_CentrifugeHoundComb.description>원심분리기에서 사냥개 벌집을 추출하여 유전자 벌꿀과 유전자 밀랍, 개 유전물질을 추출합니다.</RB_CentrifugeHoundComb.description>
+  <RB_CentrifugeHoundComb.jobString>유전자 벌꿀, 유전자 밀랍 개 유전물질을 추출합니다.</RB_CentrifugeHoundComb.jobString>
+  <RB_CentrifugeMechaComb.label>메카 벌집 추출</RB_CentrifugeMechaComb.label>
+  <RB_CentrifugeMechaComb.description>원심분리기에서 메카 벌집을 추출하여 유전자 벌꿀과 유전자 밀랍, 메카노이드 활성 물질을 추출합니다.</RB_CentrifugeMechaComb.description>
+  <RB_CentrifugeMechaComb.jobString>유전자 벌꿀, 유전자 밀랍, 메카노이드 활성 물질을 추출합니다.</RB_CentrifugeMechaComb.jobString>
+  <RB_CentrifugeMegaspideryComb.label>큰거미 벌집 추출</RB_CentrifugeMegaspideryComb.label>
+  <RB_CentrifugeMegaspideryComb.description>원심분리기에서 큰거미 벌집을 추출하여 곤충 젤리와 유전자 밀랍, 곤충 유전물질을 추출합니다.</RB_CentrifugeMegaspideryComb.description>
+  <RB_CentrifugeMegaspideryComb.jobString>곤충 젤리, 유전자 밀랍, 곤충 유전물질을 추출합니다.</RB_CentrifugeMegaspideryComb.jobString>
+  <RB_CentrifugeMousyComb.label>생쥐벌 벌집 추출</RB_CentrifugeMousyComb.label>
+  <RB_CentrifugeMousyComb.description>원심분리기에서 생쥐 벌집을 추출하여 유전자 벌꿀과 유전자 밀랍, 쥐 유전물질을 추출합니다.</RB_CentrifugeMousyComb.description>
+  <RB_CentrifugeMousyComb.jobString>유전자 벌꿀, 유전자 밀랍, 쥐 유전물질을 추출합니다.</RB_CentrifugeMousyComb.jobString>
+  <RB_CentrifugePurringComb.label>냥벌 벌집 추출</RB_CentrifugePurringComb.label>
+  <RB_CentrifugePurringComb.description>원심분리기에서 냥벌 벌집을 추출하여 유전자 벌꿀과 유전자 밀랍, 고양이 유전물질을 추출합니다.</RB_CentrifugePurringComb.description>
+  <RB_CentrifugePurringComb.jobString>유전자 벌꿀, 유전자 밀랍, 고양이 유전물질을 추출합니다.</RB_CentrifugePurringComb.jobString>
+  <RB_CentrifugeScalyComb.label>비늘 벌집 추출</RB_CentrifugeScalyComb.label>
+  <RB_CentrifugeScalyComb.description>원심분리기에서 비늘 벌집을 추출하여 유전자 벌꿀과 유전자 밀랍, 파충류 유전물질을 추출합니다.</RB_CentrifugeScalyComb.description>
+  <RB_CentrifugeScalyComb.jobString>유전자 벌꿀, 유전자 밀랍, 파충류 유전물질을 추출합니다.</RB_CentrifugeScalyComb.jobString>
+  <GR_ExtractBeeGenes.label>여러 벌에서 유전물질을 추출함</GR_ExtractBeeGenes.label>
+  <GR_ExtractBeeGenes.description>여러 벌에서 유전물질을 추출함</GR_ExtractBeeGenes.description>
+  <GR_ExtractBeeGenes.jobString>유전물질 추출</GR_ExtractBeeGenes.jobString>
+  <GR_OrganicBeeCreation.label>기본 유전자 벌 제작</GR_OrganicBeeCreation.label>
+  <GR_OrganicBeeCreation.description>나중에 다른생물과 교잡 할수 있는 유전적으로 향상된 기본 벌을 만듭니다.</GR_OrganicBeeCreation.description>
+  <GR_OrganicBeeCreation.jobString>기본 유전자 벌 제작</GR_OrganicBeeCreation.jobString>
+  <GR_CreateBearbeeIncubator.label>곰벌 배양기</GR_CreateBearbeeIncubator.label>
+  <GR_CreateBearbeeIncubator.description>배양기에 다음 유전물질들을 넣습니다. 곰과 벌</GR_CreateBearbeeIncubator.description>
+  <GR_CreateBearbeeIncubator.jobString>배양기 채우기</GR_CreateBearbeeIncubator.jobString>
+  <GR_CreateBoombeeIncubator.label>폭탄벌 배양기</GR_CreateBoombeeIncubator.label>
+  <GR_CreateBoombeeIncubator.description>배양기에 다음 유전물질들을 넣습니다. 폭탄사슴과 벌</GR_CreateBoombeeIncubator.description>
+  <GR_CreateBoombeeIncubator.jobString>배양기 채우기</GR_CreateBoombeeIncubator.jobString>
+  <GR_CreateCatbeeIncubator.label>고양이벌 배양기</GR_CreateCatbeeIncubator.label>
+  <GR_CreateCatbeeIncubator.description>배양기에 다음 유전물질들을 넣습니다. 고양이와 벌</GR_CreateCatbeeIncubator.description>
+  <GR_CreateCatbeeIncubator.jobString>배양기 채우기</GR_CreateCatbeeIncubator.jobString>
+  <GR_CreateChickenbeeIncubator.label>닭벌 배양기</GR_CreateChickenbeeIncubator.label>
+  <GR_CreateChickenbeeIncubator.description>배양기에 다음 유전물질들을 넣습니다. 닭과 벌</GR_CreateChickenbeeIncubator.description>
+  <GR_CreateChickenbeeIncubator.jobString>배양기 채우기</GR_CreateChickenbeeIncubator.jobString>
+  <GR_CreateSpiderbeeIncubator.label>거미벌 배양기</GR_CreateSpiderbeeIncubator.label>
+  <GR_CreateSpiderbeeIncubator.description>배양기에 다음 유전물질들을 넣습니다. 메가스파이더와 벌</GR_CreateSpiderbeeIncubator.description>
+  <GR_CreateSpiderbeeIncubator.jobString>배양기 채우기</GR_CreateSpiderbeeIncubator.jobString>
+  <GR_CreateMechabeeIncubator.label>메카벌 배양기</GR_CreateMechabeeIncubator.label>
+  <GR_CreateMechabeeIncubator.description>배양기에 다음 물질들을 넣습니다. 활성화 메카나이트와 벌 유전자.</GR_CreateMechabeeIncubator.description>
+  <GR_CreateMechabeeIncubator.jobString>배양기 채우기</GR_CreateMechabeeIncubator.jobString>
+  <GR_CreateMuffalobeeIncubator.label>머팔로벌 배양기</GR_CreateMuffalobeeIncubator.label>
+  <GR_CreateMuffalobeeIncubator.description>배양기에 다음 유전물질들을 넣습니다. 머팔로와 벌</GR_CreateMuffalobeeIncubator.description>
+  <GR_CreateMuffalobeeIncubator.jobString>배양기 채우기</GR_CreateMuffalobeeIncubator.jobString>
+  <GR_CreateLizardbeeIncubator.label>도마뱀벌 배양기</GR_CreateLizardbeeIncubator.label>
+  <GR_CreateLizardbeeIncubator.description>배양기에 다음 유전물질들을 넣습니다. 도마뱀과 벌</GR_CreateLizardbeeIncubator.description>
+  <GR_CreateLizardbeeIncubator.jobString>배양기 채우기</GR_CreateLizardbeeIncubator.jobString>
+  <GR_CreateMousebeeIncubator.label>쥐벌 배양기</GR_CreateMousebeeIncubator.label>
+  <GR_CreateMousebeeIncubator.description>배양기에 다음 유전물질들을 넣습니다. 쥐와 벌</GR_CreateMousebeeIncubator.description>
+  <GR_CreateMousebeeIncubator.jobString>배양기 채우기</GR_CreateMousebeeIncubator.jobString>
+  <GR_CreateThrumbeeIncubator.label>트럼보벌 배양기</GR_CreateThrumbeeIncubator.label>
+  <GR_CreateThrumbeeIncubator.description>배양기에 다음 유전물질들을 넣습니다. 트럼보와 벌</GR_CreateThrumbeeIncubator.description>
+  <GR_CreateThrumbeeIncubator.jobString>배양기 채우기</GR_CreateThrumbeeIncubator.jobString>
+  <GR_CreateWolfbeeIncubator.label>늑대벌 배양기</GR_CreateWolfbeeIncubator.label>
+  <GR_CreateWolfbeeIncubator.description>배양기에 다음 유전물질들을 넣습니다. 늑대와 벌</GR_CreateWolfbeeIncubator.description>
+  <GR_CreateWolfbeeIncubator.jobString>배양기 채우기</GR_CreateWolfbeeIncubator.jobString>
+  <RB_CreateGeneticTierResearch.label>유전자 티어의 벌 연구 제작</RB_CreateGeneticTierResearch.label>
+  <RB_CreateGeneticTierResearch.description>유전자 조작 벌을 만들기 위해 벌 조합을 연구합니다. 이 연구는 무작위이며 중복 된 결과를 얻을 수 있습니다.</RB_CreateGeneticTierResearch.description>
+  <RB_CreateGeneticTierResearch.jobString>벌 연구</RB_CreateGeneticTierResearch.jobString>
+  <GR_BaseIncubatorWaxRecipe.label>빈 상태의 밀랍 배양기 제작</GR_BaseIncubatorWaxRecipe.label>
+  <GR_BaseIncubatorWaxRecipe.description>유전자 밀랍과 유기 화합물을 사용하여 배양기를 제작</GR_BaseIncubatorWaxRecipe.description>
+  <GR_BaseIncubatorWaxRecipe.jobString>빈 상태의 밀랍 배양기 제작</GR_BaseIncubatorWaxRecipe.jobString>
+
+</LanguageData>

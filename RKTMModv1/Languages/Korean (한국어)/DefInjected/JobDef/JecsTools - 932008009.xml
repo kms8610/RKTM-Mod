@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CastAbilityVerb.reportString>능력 사용하는 중</CastAbilityVerb.reportString>
+  <CastAbilitySelf.reportString>능력 사용하는 중</CastAbilitySelf.reportString>
+  <CastDeflectVerb.reportString>꺾여지다</CastDeflectVerb.reportString>
+  <CompInstalledPart_InstallPart.reportString>targetA 설치중</CompInstalledPart_InstallPart.reportString>
+  <CompInstalledPart_UninstallPart.reportString>TargetA 포장 중.</CompInstalledPart_UninstallPart.reportString>
+  <GatherSlotItem.reportString>TargetA 장착 준비 중.</GatherSlotItem.reportString>
+  <CompVehicle_LoadPassenger.reportString>TargetA에 들어가는 중.</CompVehicle_LoadPassenger.reportString>
+  <CompVehicle_Assemble.reportString>targetA 조립중</CompVehicle_Assemble.reportString>
+
+</LanguageData>

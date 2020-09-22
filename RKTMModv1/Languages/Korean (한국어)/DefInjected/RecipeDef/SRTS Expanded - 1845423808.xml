@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_ShuttleComp_Plates.label>SRTS: 강판 만들기</Make_ShuttleComp_Plates.label>
+  <Make_ShuttleComp_Plates.description>SRTS: 강판을 만듭니다.</Make_ShuttleComp_Plates.description>
+  <Make_ShuttleComp_Plates.jobString>SRTS: 강판 만드는 중.</Make_ShuttleComp_Plates.jobString>
+  <Make_ShuttleComp_MechSystem.label>SRTS: 기계적인 구성요소 만들기</Make_ShuttleComp_MechSystem.label>
+  <Make_ShuttleComp_MechSystem.description>SRTS: 기계적인 구성요소를 만듭니다.</Make_ShuttleComp_MechSystem.description>
+  <Make_ShuttleComp_MechSystem.jobString>SRTS: 기계적인 구성요소 만드는 중.</Make_ShuttleComp_MechSystem.jobString>
+  <Make_ShuttleComp_ElectricSystem.label>SRTS: 전기적인 구성요소 만들기</Make_ShuttleComp_ElectricSystem.label>
+  <Make_ShuttleComp_ElectricSystem.description>SRTS: 전기적인 구성요소를 만듭니다.</Make_ShuttleComp_ElectricSystem.description>
+  <Make_ShuttleComp_ElectricSystem.jobString>SRTS: 전기적인 구성요소 만드는 중.</Make_ShuttleComp_ElectricSystem.jobString>
+  <Make_ShuttleComp_Engines.label>SRTS: 엔진 구성요소 만들기</Make_ShuttleComp_Engines.label>
+  <Make_ShuttleComp_Engines.description>SRTS: 엔진 구성요소를 만듭니다.</Make_ShuttleComp_Engines.description>
+  <Make_ShuttleComp_Engines.jobString>SRTS: 엔진 구성요소 만드는 중.</Make_ShuttleComp_Engines.jobString>
+  <Make_ShuttleComp_Structural.label>SRTS: 내부 구성요소 만들기</Make_ShuttleComp_Structural.label>
+  <Make_ShuttleComp_Structural.description>SRTS: 내부 구성요소를 만듭니다.</Make_ShuttleComp_Structural.description>
+  <Make_ShuttleComp_Structural.jobString>SRTS: 내부 구성요소 만드는 중.</Make_ShuttleComp_Structural.jobString>
+  <Make_ShuttleComp_MeshPlate.label>SRTS: 신경망 판 만들기</Make_ShuttleComp_MeshPlate.label>
+  <Make_ShuttleComp_MeshPlate.description>SRTS: 신경망 판을 만듭니다.</Make_ShuttleComp_MeshPlate.description>
+  <Make_ShuttleComp_MeshPlate.jobString>SRTS: 신경망 판 만드는 중.</Make_ShuttleComp_MeshPlate.jobString>
+  <Make_ShuttleComp_Reactor.label>SRTS: 핵 융합로 구성요소 만들기</Make_ShuttleComp_Reactor.label>
+  <Make_ShuttleComp_Reactor.description>SRTS: 핵 융합로 구성요소를 만듭니다.</Make_ShuttleComp_Reactor.description>
+  <Make_ShuttleComp_Reactor.jobString>SRTS: 핵 융합로 구성요소 만드는 중.</Make_ShuttleComp_Reactor.jobString>
+  <Make_ShuttleComp_DimShift.label>SRTS: 차원적인 구성요소 만들기</Make_ShuttleComp_DimShift.label>
+  <Make_ShuttleComp_DimShift.description>SRTS: 차원적인 구성요소를 만듭니다.</Make_ShuttleComp_DimShift.description>
+  <Make_ShuttleComp_DimShift.jobString>SRTS: 차원적인 구성요소 만드는 중.</Make_ShuttleComp_DimShift.jobString>
+
+</LanguageData>

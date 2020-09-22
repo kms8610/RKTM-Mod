@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SLI_SmokeleafHigh.label>연초잎에 취함</SLI_SmokeleafHigh.label>
+  <SLI_SmokeleafHigh.stages.0.label>약간 취함</SLI_SmokeleafHigh.stages.0.label>
+  <SLI_SmokeleafHigh.stages.1.label>기분이 좋음</SLI_SmokeleafHigh.stages.1.label>
+  <SLI_SmokeleafHigh.stages.2.label>기분이 아주 좋음</SLI_SmokeleafHigh.stages.2.label>
+  <SLI_SmokeleafHigh.stages.3.label>곤드레만드레</SLI_SmokeleafHigh.stages.3.label>
+  <SLI_SmokeleafHigh.stages.4.label>인사불성, 정신착란</SLI_SmokeleafHigh.stages.4.label>
+  <SLI_SmokeleafHigh.labelNoun>연초잎에 도취됨</SLI_SmokeleafHigh.labelNoun>
+  <SLI_SmokeleafTolerance.label>연초잎 내성</SLI_SmokeleafTolerance.label>
+  <SLI_SmokeleafTolerance.stages.0.label>약함</SLI_SmokeleafTolerance.stages.0.label>
+  <SLI_SmokeleafTolerance.stages.1.label>약함</SLI_SmokeleafTolerance.stages.1.label>
+  <SLI_SmokeleafTolerance.stages.2.label>큼</SLI_SmokeleafTolerance.stages.2.label>
+  <SLI_SmokeleafTolerance.stages.3.label>심각함</SLI_SmokeleafTolerance.stages.3.label>
+  <SLI_SmokeleafAddiction.label>연초잎 의존증</SLI_SmokeleafAddiction.label>
+  <SLI_SmokeleafAddiction.stages.1.label>금단현상</SLI_SmokeleafAddiction.stages.1.label>
+  <EdibleSickness.label>연초 식품 배탈</EdibleSickness.label>
+  <InfusedBuzz.label>첨가 음식으로 신남</InfusedBuzz.label>
+  <SmokeleafLotionHigh.label>연초잎 로션</SmokeleafLotionHigh.label>
+  <SmokeleafPillsHigh.label>연초잎 알약 마취</SmokeleafPillsHigh.label>
+  <SmokeleafTinctureHigh.label>연초잎 팅크제</SmokeleafTinctureHigh.label>
+
+</LanguageData>

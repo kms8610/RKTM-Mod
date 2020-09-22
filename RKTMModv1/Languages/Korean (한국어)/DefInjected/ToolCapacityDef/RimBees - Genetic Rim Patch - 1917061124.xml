@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RB_ToxicSting.label>독침</RB_ToxicSting.label>
+  <RB_VeryToxicSting.label>강력한 독침</RB_VeryToxicSting.label>
+  <RB_ChemfuelSting.label>화학연료침</RB_ChemfuelSting.label>
+  <RB_ParalyzingSting.label>마비침</RB_ParalyzingSting.label>
+  <RB_BlindingSting.label>실명침</RB_BlindingSting.label>
+
+</LanguageData>

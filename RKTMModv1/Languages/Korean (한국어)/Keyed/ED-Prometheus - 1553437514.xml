@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EDE_Dialog_Title_1_SignalDetection>이상한 신호</EDE_Dialog_Title_1_SignalDetection>
+  <EDE_Dialog_1_SignalDetection>통신 콘솔에서 이상한 신호가 감지되었습니다. 관리자는 정적 속에서 귀신 소리라도 들은 건가 생각했지만, 그들이 그것에 대해 잊으려고 노력했지만, 그것은 시간이 지날수록 점점 강해져갔습니다. 마침내, 그것은 분리해서 이해할 수 있을 정도로 강해졌습니다. 일종의 조난 호출인 것처럼 보이는 반복되는 자동 메시지였습니다. 그것은 약간의 세부 사항을 설명하지만, 그것을 보낸 사람은 도움이 절실히 필요하며 이 신호로 메시지를 수신할 수있는 능력을 상실했습니다. 그들이 당신과 접촉할 수 있다고 주장하는 장치에 대한 사양이 포함되어 있으며, 평균적인 번화계에서 사용할 수 있는 것 이상으로 매우 진보된 것으로 보입니다 다행히도 이 기계가 어떻게 동작하는지를 이해하지 못하더라도 어떻게 만들 수 있는지에 대한 설명은 굉장히 자세했습니다. 더 기술적인 식민지 전문가 중 한 명은 약간의 시간이 지나면 사양을 검토하고 식민지가 제작할 수 있는 기술로 이 기계를 제작할 수 있다고 생각합니다. 잠금 해제 된 연구- "이상한 신호 분석"</EDE_Dialog_1_SignalDetection>
+  <EDE_Dialog_Title_2_FirstContact>첫 접촉</EDE_Dialog_Title_2_FirstContact>
+  <EDE_Dialog_2_FirstContact>이상한 신호의 발신지와 접촉합니다. 다른 쪽의 목소리는 자신을 알렉스라 설명합니다. 그녀는 자신이 E.D.S.N이라는 실험적인 명령 조직에서 생존한 유일한 생존자라고 말합니다. 프로메테우스는 한 때 엄청나게 진보한 번화계의 거대한 모함이었으며, 전체 함대와 수많은 지상군을 지원하여 행성 전체의 시스템을 통제할 수 있다고 설명했습니다. 불행히도 현재의 상태에서는 외딴 것보다 조금 낫습니다. 전 영광의 모호한 그림자조차 아닙니다. 알 수 없는 재난으로 인해 알 수 없는 재난이 배에 닿아 최근 몇 년간 우주를 통해 이 태양계에 가까워질 때까지 이 별의 중력과 현재 상주하는 쇠퇴 궤도로 흘러 들어가는 표류를 일으켰습니다. 별과의 충돌이 머지 않았습니다. 이것은 천문 거리를 다루기 때문에 임박한 충돌은 1년 이상 떨어져 있습니다. 운 좋게도 스타트 시스템과의 만남으로 인해 알렉스는 깨어났지만 죽은 배에 갇혔습니다. 그녀는 지상 부대에 의해 사용되도록 설계된 장비에서 개방 주파수를 위해 송신기를 함께 뭉쳤습니다. 이것을 사용하여 그녀는 전송된 암호화된 지점 간 통신 시스템을 위해 트랜스 폰더를 만드는 방법에 대한 지침을 보냈습니다. Alex는 추진 시스템의 일부를 온라인으로 가져와 현재 림 월드의 궤도에 진입함으로써 우주선 (및 자신)을 구하기 위해 계획을 세웠지만 이를 위해서는 식민지의 도움이 필요합니다. 그녀에게 필요한 첫 번째는 자동 수리 시스템의 전원을 켜고 엔진에서 진단을 실행하는 데 필요한 에너지입니다. 이 선박은 지상 작업을 포함하여 장기적인 작업을 위해 설계되었기 때문에 많은 수의 조립된 건물과 행성 표면에 배치할 수 있는 시설이 있습니다. 이 중 하나는 지상 시설에서 현재 식민지로 보내지고 있는 프로메테우스로 전력을 보내는 데 사용할 수 있는 양자 전력 계전기입니다. 알렉스는 E.D.S.N. 프로메테우스를 구해주는 대신 대가로 온라인으로 배송 시스템을 사용할 수 있도록 식민지를 지원합니다. "양자 전력 배전기"가 떨어지면, 이것을 사용해서 프로메테우스를 충전한 다음 선박에 다시 한번 연락하십시오.</EDE_Dialog_2_FirstContact>
+  <EDE_Dialog_Title_3_InitialCharge>전원 공급</EDE_Dialog_Title_3_InitialCharge>
+  <EDE_Dialog_3_InitialCharge>E.D.S.N 프로메테우스로 전원 전송 중입니다. 현재 진행률 : {0} / {1}</EDE_Dialog_3_InitialCharge>
+  <EDE_Dialog_Title_4_NeedResources>금속 제공</EDE_Dialog_Title_4_NeedResources>
+  <EDE_Dialog_4_NeedResources>알렉스에게 연락하여 진단 결과를 확인하십시오. 그녀는 주요 엔진이 일부 재료로 인해 크게 손상되는 동안 2 차 기동 시스템을 온라인으로 전환할 수 있어야 한다는 것을 발견했습니다. 배가 급하게 이동하지는 않을 것이지만 이것은 위험을 피하기에 충분해야 합니다. 이를 위해 그녀는 이제 선박의 교체 부품을 구성할 수 있도록 지면 건물 제조 시스템을 수정했지만 이를 위해서는 원료, 특히 이 단계에서 금속이 필요합니다. 운 좋게도 운송 업체 빔 시스템을 수리하기에 충분한 재료를 얻을 수 있었습니다. 기존 트랜스 폰더를 수정하는 방법에 대한 지침을 제공하여 트랜스 포트 빔을 대상으로 하는 데 사용할 수 있습니다. 그런 다음 이 시스템을 사용하여 금속을 E.D.S.N. 프로메테우스에 제공하여 계산서 옵션을 사용하여 금속 운송용 태그를 지정하여 수리를 계속할 수 있습니다. 현재 진행률 : {0} / {1}</EDE_Dialog_4_NeedResources>
+  <EDE_Dialog_Title_5_ExecutingBurn>점화 실행</EDE_Dialog_Title_5_ExecutingBurn>
+  <EDE_Dialog_5_ExecutingBurn>필요한 재료와 충분한 전력을 공급한 후 선박은 안정적인 궤도에 진입하고 즉각적인 위험으로부터 벗어나기 위해 기동 엔진으로 장시간 점화를 실행니다.</EDE_Dialog_5_ExecutingBurn>
+  <EDE_Dialog_Title_6_ShipStabilised>선박 안정화</EDE_Dialog_Title_6_ShipStabilised>
+  <EDE_Dialog_6_ShipStabilised>선박에 전력을 공급하고 안정적인 궤도를 유지하면 식민지를 돕고 선박을 계속 복원하기 위해 온라인으로 가져올 선박 시스템의 우선 순위를 지정할 수 있습니다. \n이것들은 각각 재료 비용과 전력 비용이 있으며 식민지에 다른 보너스를 제공합니다.</EDE_Dialog_6_ShipStabilised>
+  <Fabrication>제작</Fabrication>
+  <Transponder>전송</Transponder>
+  <Shield>실드</Shield>
+  <SystemDescription_FabricationSystem>레벨 1:
+ * 건물 드롭 허용
+ * 퀘스트 잠금 해제
+
+레벨 2:
+ * 옴니젤의 변화
+
+레벨 3:
+ * 변환기 MK1
+
+레벨 4:
+ * 변환기 MK2
+
+레벨 5:
+ * 변환기 MK3
+
+레벨 6:
+ * 분자 보강</SystemDescription_FabricationSystem>
+  <SystemDescription_PowerDistribution>레벨 1:
+ * 표면 대 선박 시스템
+ * 퀘스트 잠금 해제
+
+레벨 2:
+ * 레이저 드릴
+
+레벨 3:
+ * 표면으로 선박 이동
+
+레벨 4: #NotImplimented#
+ * 선박 대 선박
+   * 무역선 호출
+   * 그들에게 에너지를 판매합니까?
+
+레벨 5: #NotImplimented#
+ * 제로 포인트 모듈
+   * 선박 전원 공급 장치에서 충전 가능하며 접지 설치에 전원을 공급하는 데 사용 가능
+   * 대규모 전력 저장 잠재력</SystemDescription_PowerDistribution>
+  <SystemDescription_PowerGeneration>레벨 1: #NotImplimented#
+ * 화학 연료 발생기 및 온라인으로 전환하여 선박으로 화학 연료를 공급할 수 있습니다.
+ * 연료 사용량이 증가함에 따라 전력을 증가시키기 위해 개별 반응기를 온라인으로 전환할 수 있습니다.
+ * 산소는 연료에 운송 태그가 부착된 경우 패키지에 포함됨.
+
+레벨 2: #NotImplimented#
+ * 태양열 발전기
+ * 개별 발전기는 수동 발전을 추가하도록 구성할 수 있습니다.
+   * 특정 수준까지
+
+레벨 3: #NotImplimented#
+ * 핵분열 원자로
+ * 우라늄 공급 필요
+
+레벨 4: #NotImplimented#
+ * 핵융합 발전
+ * 지도에서 추출하려면 H2O 공급이 필요합니까?
+   * 얼음 소행성 / 혜성을 채굴하는 드론</SystemDescription_PowerGeneration>
+  <SystemDescription_Regeneration>레벨 1: #NotImplimented#
+ * 구조물을 수리하기 위해 나노 물질을 사용하는 새로운 건물.
+
+레벨 2: #NotImplimented#
+ * 건물은 이제 구성 요소 고장을 수정할 수 있습니다.
+
+레벨 3: #NotImplimented#
+ * 나노 물질을 사용하여 폰들을 천천히 치료
+ * 새로운 건물?
+ * 동면관과 흡사함
+
+레벨 4: #NotImplimented#
+ * 폰의 잃어버린 부위 치료</SystemDescription_Regeneration>
+  <SystemDescription_Resourcing>레벨 1: #NotImplimented#
+ * 퀘스트에서 해금
+ * 나노 물질들은 소행성을 사용하여 선체 무결성을 향상시키기 위한 추가 정제되지 않은 리소스를 제공할 수 있습니다.
+
+레벨 2: #NotImplimented#
+ * 채굴 시스템이 온라인으로 전환되어 소행성이 채굴되어 RU의 수입을 얻을 수 있습니다.
+ * 전력 소비 비용?
+ * 속도를 높이기 위해 개별 유틸리티 드론을 만들 수 있습니까?
+
+레벨 3: #NotImplimented#
+ * 유틸리티 드론은 트랙터 빔을 사용하여 소행성을 해당 지역에 착륙시킬 수 있습니다.
+
+레벨 4: #NotImplimented#
+ * 유틸리티 드론 센서는 소행성의 함량을 결정하기 위해 향상되었습니다.</SystemDescription_Resourcing>
+  <SystemDescription_Shield>레벨 1:
+ * 실드 생성기 잠금해제
+
+레벨 2:
+ * 실드 업그레이드
+
+레벨 3:
+ * 개인 실드</SystemDescription_Shield>
+  <SystemDescription_Tactical>레벨 1: #NotImplimented#
+ * 빔 무기 언락
+   * 전원 레벨 4가 필요합니까?
+
+레벨 2: #NotImplimented#
+ * 폭격
+
+레벨 3: #NotImplimented#
+ * 정확한 위치로 소행성 유도 중.
+   * 원료 레벨 3이 필요합니다.
+
+레벨 4: #NotImplimented#
+ * 토네이도?
+
+레벨 5: #NotImplimented#
+ * 분류된 추가 토네이도?
+
+레벨 6: #NotImplimented#
+ * 안전 장치
+ * 적대적인 세력에 떨어지는 것보다 바람직한 기지의 파괴.</SystemDescription_Tactical>
+  <SystemDescription_Transport>레벨 1:
+ * 전송 장비 해금</SystemDescription_Transport>
+
+</LanguageData>

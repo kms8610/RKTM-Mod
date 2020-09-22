@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CPRippedAndTorn.label>죽임</CPRippedAndTorn.label>
+  <CPRippedAndTorn.deathMessage>{0}(이)가 갈가리 찢겨 죽었습니다.</CPRippedAndTorn.deathMessage>
+  <CPDummyDamage.label>글로리 킬 더미 피해</CPDummyDamage.label>
+  <CPDummyDamage.deathMessage>어떻게 한 거야?</CPDummyDamage.deathMessage>
+
+</LanguageData>

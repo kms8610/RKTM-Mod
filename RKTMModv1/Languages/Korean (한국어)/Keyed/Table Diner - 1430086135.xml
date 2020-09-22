@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TDiner.TableDiner>식탁</TDiner.TableDiner>
+  <TDiner.TableSearchDist>식탁 검색 거리:</TDiner.TableSearchDist>
+  <TDiner.overwriteNonDefault>기본값이 아닌 검색 거리 덮어쓰기</TDiner.overwriteNonDefault>
+  <TDiner.ApplyChanges>변경 내용 적용</TDiner.ApplyChanges>
+  <TDiner.displayRing>식탁의 범위 링 표시</TDiner.displayRing>
+  <TDiner.RadiusNote>참고: 식탁에서 표시한 반지름은 정확하지 않습니다. 폰들이 식사할 장소를 찾아다닐 때, 그들은 식탁이 아닌 의자를 찾습니다. 따라서 표시된 원과 실제 결과 사이에는 몇 개의 타일 차이가 있을 수 있습니다.</TDiner.RadiusNote>
+  <TDiner.VDefault>림월드 기본값으로 설정</TDiner.VDefault>
+  <TDiner.TDDefault>식탁 기본값으로 설정</TDiner.TDDefault>
+  <TDiner.Set>설정</TDiner.Set>
+  <TDiner.TabTable>식탁</TDiner.TabTable>
+  <TDiner.TRSlideLabel>식탁 반경</TDiner.TRSlideLabel>
+  <TDiner.ExtraFeatures>식탁 및 폰별 반지름 사용</TDiner.ExtraFeatures>
+  <TDiner.Ignored>무시됨</TDiner.Ignored>
+  <TDiner.ExtraDisabled>기능 사용 안 함. 탭을 제거하려면 림월드를 다시 시작해야합니다.</TDiner.ExtraDisabled>
+
+</LanguageData>

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Server_aBlue.label>기본 림북 광고 서버</Server_aBlue.label>
+  <Server_aBlue.description>당신이 림북에 포스트한 스토리들을 작은 커뮤니티가 팔로우 했습니다. 누군가가 당신이 귀여운 강아지와 노는 영상을 볼 때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+기본 림북 광고 서버는 작은 양의 은을 생산 합니다.</Server_aBlue.description>
+
+  <Server_bBlue.label>중급 림북 광고 서버</Server_bBlue.label>
+  <Server_bBlue.description>당신이 림북에 포스트한 스토리들을 큰 커뮤니티가 팔로우 했습니다. 누군가가 당신이 귀여운 강아지와 노는 영상을 볼 때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+중급 림북 광고 서버는 많은 양의 은을 생산 합니다.</Server_bBlue.description>
+
+  <Server_cBlue.label>고급 림북 광고 서버</Server_cBlue.label>
+  <Server_cBlue.description>당신이 림북에 포스트한 스토리들을 거대한 커뮤니티가 팔로우 했습니다. 누군가가 당신이 귀여운 강아지와 노는 영상을 볼 때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+고급 림북 광고 서버는 엄청난 양의 은을 생산 합니다.</Server_cBlue.description>
+
+  <Server_aGreen.label>기본 림티파이 광고 서버</Server_aGreen.label>
+  <Server_aGreen.description>당신이 림티파이에 포스트한 노래를 작은 커뮤니티가 들었습니다. 누군가가 당신의 테크노 리믹스를 들을 때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+기본 림티파이 광고 서버 는 작은 양의 강철을 생산합니다.</Server_aGreen.description>
+
+  <Server_bGreen.label>중급 림티파이 광고 서버</Server_bGreen.label>
+  <Server_bGreen.description>당신이 림티파이에 포스트한 노래를 큰 커뮤니티가 들었습니다. 누군가가 당신의 테크노 리믹스를 들을 때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+중급 림티파이 광고 서버는 많은 양의 강철을 생산합니다.</Server_bGreen.description>
+
+  <Server_cGreen.label>고급 림티파이 광고 서버</Server_cGreen.label>
+  <Server_cGreen.description>당신이 림티파이에 포스트한 노래를 거대한 커뮤니티가 들었습니다. 누군가가 당신의 테크노 리믹스를 들을 때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+고급 림티파이 광고 서버는 엄청난 양의 강철을 생산합니다.</Server_cGreen.description>
+
+  <Server_aOrange.label>기본 림허브 광고 서버</Server_aOrange.label>
+  <Server_aOrange.description>당신이 림허브에 포스트한 야릇한 비디오가 작은 커뮤니티를 기쁘게 했습니다. 누군가가 당신의 핫한 장면을 볼 때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+기본 림허브 광고 서버는 작은 양의 금을 생산합니다.</Server_aOrange.description>
+
+  <Server_bOrange.label>중급 림허브 광고 서버</Server_bOrange.label>
+  <Server_bOrange.description>당신이 림허브에 포스트한 야릇한 비디오가 큰 커뮤니티를 기쁘게 했습니다. 누군가가 당신의 핫한 장면을 볼 때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+중급 림허브 광고 서버는 많은 양의 금을 생산합니다.</Server_bOrange.description>
+
+  <Server_cOrange.label>고급 림허브 광고 서버</Server_cOrange.label>
+  <Server_cOrange.description>당신이 림허브에 포스트한 야릇한 비디오가 거대한 커뮤니티를 기쁘게 했습니다. 누군가가 당신의 핫한 장면을 볼 때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+고급 림허브 광고 서버는 엄청난 양의 금을 생산합니다.</Server_cOrange.description>
+
+  <Server_aPurple.label>기본 림위치 광고 서버</Server_aPurple.label>
+  <Server_aPurple.description>당신이 림위치에 포스트한 림월드 무편집 영상이 작은 커뮤니티를 기쁘게 했습니다. 누군가가 당신이 당신의 삶을 위해 살아남는 것을 볼 때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+기본 림위치 광고 서버는 작은 양의 우라늄을 생산합니다.</Server_aPurple.description>
+
+  <Server_bPurple.label>중급 림위치 광고 서버</Server_bPurple.label>
+  <Server_bPurple.description>당신이 림위치에 포스트한 림월드 무편집 영상이 큰 커뮤니티를 기쁘게 했습니다. 누군가가 당신이 당신의 삶을 위해 살아남는 것을 볼 때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+중급 림위치 광고 서버는 많은 양의 우라늄을 생산합니다.</Server_bPurple.description>
+
+  <Server_cPurple.label>고급 림위치 광고 서버</Server_cPurple.label>
+  <Server_cPurple.description>당신이 림위치에 포스트한 림월드 무편집 영상이 거대한 커뮤니티를 기쁘게 했습니다. 누군가가 당신이 당신의 삶을 위해 살아남는 것을 볼 때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+고급 림위치 광고 서버는 엄청난 양의 우라늄을 생산합니다.</Server_cPurple.description>
+
+  <Server_aRed.label>기본 림튜브 광고 서버</Server_aRed.label>
+  <Server_aRed.description>당신이 림튜브에 올린 장면이 작은 커뮤니티를 모았습니다. 누군가가 사진이나 영상을 짜집기한 아주 웃긴 밈을 볼때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+기본 림튜브 광고 서버는 작은 양의 플라스틸을 생산합니다.</Server_aRed.description>
+
+  <Server_bRed.label>중급 림튜브 광고 서버</Server_bRed.label>
+  <Server_bRed.description>당신이 림튜브에 올린 장면이 큰 커뮤니티를 모았습니다. 누군가가 사진이나 영상을 짜집기한 아주 웃긴 밈을 볼때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+중급 림튜브 서버는 많은 양의 플라스틸을 생산합니다.</Server_bRed.description>
+
+  <Server_cRed.label>고급 림튜브 광고 서버</Server_cRed.label>
+  <Server_cRed.description>당신이 림튜브에 올린 장면이 거대한 커뮤니티를 모았습니다. 누군가가 사진이나 영상을 짜집기한 아주 웃긴 밈을 볼때마다 광고가 뜹니다. 심지어 모두가 광고를 싫어한다 해도 그것은 유용할 겁니다. 뭐, 적어도 크리에이터에게는 말이죠.
+    
+고급 림튜브 광고 서버는 엄청난 양의 플라스틸을 생산합니다.</Server_cRed.description>
+
+  <TableBlue.label>림북 컨텐츠 스테이션</TableBlue.label>
+  <TableBlue.description>팔로워를 얻기 위해 림북 컨텐츠를 생산하고 포스트합니다.</TableBlue.description>
+
+  <TableGreen.label>림티파이 컨텐츠 스테이션</TableGreen.label>
+  <TableGreen.description>팔로워를 얻기 위해 림티파이 컨텐츠를 생산하고 포스트합니다.</TableGreen.description>
+
+  <TableOrange.label>림허브 컨텐츠 스테이션</TableOrange.label>
+  <TableOrange.description>팔로워를 얻기 위해 림허브 컨텐츠를 생산하고 포스트합니다.</TableOrange.description>
+
+  <TablePurple.label>림위치 컨텐츠 스테이션</TablePurple.label>
+  <TablePurple.description>팔로워를 얻기 위해 림위치 컨텐츠를 생산하고 포스트합니다.</TablePurple.description>
+
+  <TableRed.label>림튜브 컨텐츠 스테이션</TableRed.label>
+  <TableRed.description>팔로워를 얻기 위해 림튜브 컨텐츠를 생산하고 포스트합니다.</TableRed.description>
+
+  <FollowerBlue.label>림북 팔로워</FollowerBlue.label>
+  <FollowerBlue.description>당신의 림북 포스팅은 매혹적이었습니다.
+이 팔로워는 광고 수입을 받을 수 있는 서버를 만들 수 있게 합니다.</FollowerBlue.description>
+  <FollowerGreen.label>림티파이 팔로워</FollowerGreen.label>
+  <FollowerGreen.description>림티파이에 포스트된 당신의 음악이 히트를 쳤었습니다.
+이 팔로워는 광고 수입을 받을 수 있는 서버를 만들 수 있게 합니다.</FollowerGreen.description>
+  <FollowerOrange.label>림허브 팔로워</FollowerOrange.label>
+  <FollowerOrange.description>림허브에 포스트된 당신의 아릇한 비티오는 엄청 핫했습니다.
+이 팔로워는 광고 수입을 받을 수 있는 서버를 만들 수 있게 합니다.</FollowerOrange.description>
+  <FollowerPurple.label>림위치 팔로워</FollowerPurple.label>
+  <FollowerPurple.description>림위치에 포스트된 당신의 게임 무편집 영상은 엄청났습니다.
+이 팔로워는 광고 수입을 받을 수 있는 서버를 만들 수 있게 합니다.</FollowerPurple.description>
+  <FollowerRed.label>림튜브 팔로워</FollowerRed.label>
+  <FollowerRed.description>당신의 림튜브 비디오는 성공적이었습니다.
+이 팔로워는 광고 수입을 받을 수 있는 서버를 만들 수 있게 합니다.</FollowerRed.description>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InsulationBiomass.label>단열재 (바이오 매스)</InsulationBiomass.label>
+  <InsulationBiomass.description>바이오 매스로 벽과 문을 단열하는 기능 부여.</InsulationBiomass.description>
+  <InsulationFibres.label>단열재 (섬유)</InsulationFibres.label>
+  <InsulationFibres.description>섬유로 벽과 문을 단열하는 기능 부여.</InsulationFibres.description>
+  <InsulationPolymers.label>단열재 (중합체)</InsulationPolymers.label>
+  <InsulationPolymers.description>합성 중합체로 벽과 문을 단열하는 기능 부여.</InsulationPolymers.description>
+  <InsulationHyper.label>단열재 (하이퍼)</InsulationHyper.label>
+  <InsulationHyper.description>고급 물질로 벽과 문을 단열하는 기능 부여.</InsulationHyper.description>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SteelHorn.label>강철 뿔</SteelHorn.label>
+  <SteelHorn.labelNoun>강철 뿔</SteelHorn.labelNoun>
+  <ThrumboRage.label>원시의 분노</ThrumboRage.label>
+  <ThrumboRage.stages.0.label>괴로움</ThrumboRage.stages.0.label>
+  <ThrumboRage.stages.1.label>화남</ThrumboRage.stages.1.label>
+  <ThrumboRage.stages.2.label>분노</ThrumboRage.stages.2.label>
+  <ThrumboRage.stages.3.label>분노</ThrumboRage.stages.3.label>
+  <ThrumboRage.stages.4.label>맹렬함</ThrumboRage.stages.4.label>
+
+</LanguageData>

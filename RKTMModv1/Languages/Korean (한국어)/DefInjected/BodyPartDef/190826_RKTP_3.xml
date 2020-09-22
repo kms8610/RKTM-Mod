@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1240656304_190617_Lighter Than Fast-->
+  <Mantle.label>덮개</Mantle.label>
+  <CephalicRegion.label>두족 부위</CephalicRegion.label>
+  <LeftGills.label>왼쪽 아가미</LeftGills.label>
+  <RightGills.label>오른쪽 아가미</RightGills.label>
+  <LeftFunnel.label>왼쪽 깔때기</LeftFunnel.label>
+  <RightFunnel.label>오른쪽 깔때기</RightFunnel.label>
+  <SystemicHeart.label>사이버네틱 심장</SystemicHeart.label>
+  <BranchialHeart.label>아가미 심장</BranchialHeart.label>
+  <Base1Tentacle.label>기본 촉수 부위 #1</Base1Tentacle.label>
+  <Upper1Tentacle.label>윗 촉수 부위 #1</Upper1Tentacle.label>
+  <Lower1Tentacle.label>아랫 촉수 부위 #1</Lower1Tentacle.label>
+  <Tip1Tentacle.label>촉수 끝 #1</Tip1Tentacle.label>
+  <Base2Tentacle.label>기본 촉수 부위 #2</Base2Tentacle.label>
+  <Upper2Tentacle.label>윗 촉수 부위 #2</Upper2Tentacle.label>
+  <Lower2Tentacle.label>아랫 촉수 부위 #2</Lower2Tentacle.label>
+  <Tip2Tentacle.label>촉수 끝 #2</Tip2Tentacle.label>
+  <Base3Tentacle.label>기본 촉수 부위 #3</Base3Tentacle.label>
+  <Upper3Tentacle.label>윗 촉수 부위 #3</Upper3Tentacle.label>
+  <Lower3Tentacle.label>아랫 촉수 부위 #3</Lower3Tentacle.label>
+  <Tip3Tentacle.label>촉수 끝 #3</Tip3Tentacle.label>
+  <Base4Tentacle.label>기본 촉수 부위 #4</Base4Tentacle.label>
+  <Upper4Tentacle.label>윗 촉수 부위 #4</Upper4Tentacle.label>
+  <Lower4Tentacle.label>아랫 촉수 부위 #4</Lower4Tentacle.label>
+  <Tip4Tentacle.label>촉수 끝 #4</Tip4Tentacle.label>
+  <Base5Tentacle.label>기본 촉수 부위 #5</Base5Tentacle.label>
+  <Upper5Tentacle.label>윗 촉수 부위 #5</Upper5Tentacle.label>
+  <Lower5Tentacle.label>아랫 촉수 부위 #5</Lower5Tentacle.label>
+  <Tip5Tentacle.label>촉수 끝 #5</Tip5Tentacle.label>
+  <Base6Tentacle.label>기본 촉수 부위 #6</Base6Tentacle.label>
+  <Upper6Tentacle.label>윗 촉수 부위 #6</Upper6Tentacle.label>
+  <Lower6Tentacle.label>아랫 촉수 부위 #6</Lower6Tentacle.label>
+  <Tip6Tentacle.label>촉수 끝 #6</Tip6Tentacle.label>
+  <Base7Tentacle.label>기본 촉수 부위 #7</Base7Tentacle.label>
+  <Upper7Tentacle.label>윗 촉수 부위 #7</Upper7Tentacle.label>
+  <Lower7Tentacle.label>아랫 촉수 부위 #7</Lower7Tentacle.label>
+  <Tip7Tentacle.label>촉수 끝 #7</Tip7Tentacle.label>
+  <Base8Tentacle.label>기본 촉수 부위 #8</Base8Tentacle.label>
+  <Upper8Tentacle.label>윗 촉수 부위 #8</Upper8Tentacle.label>
+  <Lower8Tentacle.label>아랫 촉수 부위 #8</Lower8Tentacle.label>
+  <Tip8Tentacle.label>촉수 끝 #8</Tip8Tentacle.label>
+  <BodyPart_LTF_00Socket.label>소켓00</BodyPart_LTF_00Socket.label>
+  <BodyPart_LTF_01Socket.label>소켓01</BodyPart_LTF_01Socket.label>
+  <BodyPart_LTF_10Socket.label>소켓10</BodyPart_LTF_10Socket.label>
+  <BodyPart_LTF_11Socket.label>소켓11</BodyPart_LTF_11Socket.label>
+  <BodyPart_LTF_00CoreFiller.label>소켓00코어</BodyPart_LTF_00CoreFiller.label>
+  <BodyPart_LTF_01CoreFiller.label>소켓01코어</BodyPart_LTF_01CoreFiller.label>
+  <BodyPart_LTF_10CoreFiller.label>소켓10코어</BodyPart_LTF_10CoreFiller.label>
+  <BodyPart_LTF_11CoreFiller.label>소켓11코어</BodyPart_LTF_11CoreFiller.label>
+  <BodyPart_LTF_romFiller00.label>소켓00롬</BodyPart_LTF_romFiller00.label>
+  <BodyPart_LTF_01RomFiller.label>소켓01롬</BodyPart_LTF_01RomFiller.label>
+  <BodyPart_LTF_10RomFiller.label>소켓10롬</BodyPart_LTF_10RomFiller.label>
+  <BodyPart_LTF_11RomFiller.label>소켓11롬</BodyPart_LTF_11RomFiller.label>
+  <BodyPart_LTF_00Core.label>소켓00코어</BodyPart_LTF_00Core.label>
+  <BodyPart_LTF_rawRom.label>소켓00롬</BodyPart_LTF_rawRom.label>
+  <BodyPart_LTF_Hmi.label>인간형 기계 인터페이스</BodyPart_LTF_Hmi.label>
+  <BodyPart_LTF_RightClaws.label>오른 손톱</BodyPart_LTF_RightClaws.label>
+  <BodyPart_LTF_LeftClaws.label>왼 손톱</BodyPart_LTF_LeftClaws.label>
+  <BodyPart_LTF_MantisStache.label>맨티스 더듬이</BodyPart_LTF_MantisStache.label>
+  <BodyPart_LTF_SlugStache.label>슬러그 더듬이</BodyPart_LTF_SlugStache.label>
+
+  <!--1294507772_190519_The Mantodean insectoid race-->
+  <EyeSet.label>눈 무리</EyeSet.label>
+  <HearingAppendix.label>청음 부록</HearingAppendix.label>
+  <ShoulderManto.label>어께</ShoulderManto.label>
+  <Pedipalp.label>각수</Pedipalp.label>
+  <Pincer.label>집게발</Pincer.label>
+  <BreathingSac.label>호흡 주머니</BreathingSac.label>
+  <AcidGland.label>독샘</AcidGland.label>
+
+  <!--1314474881_181118_Avali-->
+  <HeadAvaliConceptual.label>머리</HeadAvaliConceptual.label>
+  <SkullAvaliConceptual.label>두개골</SkullAvaliConceptual.label>
+  <BrainAvaliConceptual.label>뇌</BrainAvaliConceptual.label>
+  <LeftUpperEarAvaliConceptual.label>왼쪽 상단 귀</LeftUpperEarAvaliConceptual.label>
+  <LeftLowerEarAvaliConceptual.label>왼쪽 하단 귀</LeftLowerEarAvaliConceptual.label>
+  <RightUpperEarAvaliConceptual.label>오른쪽 상단 귀</RightUpperEarAvaliConceptual.label>
+  <RightLowerEarAvaliConceptual.label>오른쪽 하단 귀</RightLowerEarAvaliConceptual.label>
+  <TailAvaliConceptual.label>꼬리</TailAvaliConceptual.label>
+  <LeftFeetAvaliConceptual.label>왼발</LeftFeetAvaliConceptual.label>
+  <RightFeetAvaliConceptual.label>오른발</RightFeetAvaliConceptual.label>
+  <TailAvali.label>꼬리</TailAvali.label>
+  <EarAvali.label>귀</EarAvali.label>
+
+  <!--1365540920_190714_Black Widows-->
+  <Core_Mind.label>핵심 정신</Core_Mind.label>
+  <BlackWidowFirstRightLeg.label>오른쪽 첫째 다리</BlackWidowFirstRightLeg.label>
+  <BlackWidowSecondRightLeg.label>오른쪽 둘째 다리</BlackWidowSecondRightLeg.label>
+  <BlackWidowThirdRightLeg.label>오른쪽 셋째 다리</BlackWidowThirdRightLeg.label>
+  <BlackWidowFourthRightLeg.label>오른쪽 넷째 다리</BlackWidowFourthRightLeg.label>
+  <BlackWidowFirstLeftLeg.label>왼쪽 첫째 다리</BlackWidowFirstLeftLeg.label>
+  <BlackWidowSecondLeftLeg.label>왼쪽 둘째 다리</BlackWidowSecondLeftLeg.label>
+  <BlackWidowThirdLeftLeg.label>왼쪽 셋째 다리</BlackWidowThirdLeftLeg.label>
+  <BlackWidowFourthLeftLeg.label>왼쪽 넷째 다리</BlackWidowFourthLeftLeg.label>
+  <BWBRShoulder.label>오른쪽 아래 어깨</BWBRShoulder.label>
+  <BWTRShoulder.label>오른쪽 윗 어깨</BWTRShoulder.label>
+  <BWBLShoulder.label>왼쪽 아래 어깨</BWBLShoulder.label>
+  <BWTLShoulder.label>왼쪽 윗 어깨</BWTLShoulder.label>
+  <Pedipalp.label>각수</Pedipalp.label>
+  <BlackWidow_Waist.label>블랙 위도우 거미 흉골</BlackWidow_Waist.label>
+  <BlackWidow_Abdomen.label>등뼈가 있는 블랙 위도우 거미 복부</BlackWidow_Abdomen.label>
+  <Brood_Mind.label>알을 품는 정신</Brood_Mind.label>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <LotRD_LeftWing.label>왼쪽 날개</LotRD_LeftWing.label>
+  <LotRD_RightWing.label>오른쪽 날개</LotRD_RightWing.label>
+
+  <!--1416483638_190811_Orassans-->
+  <OTail.label>오라산 꼬리</OTail.label>
+  <RightHandClaws.label>오른 손톱</RightHandClaws.label>
+  <LeftHandClaws.label>왼 손톱</LeftHandClaws.label>
+
+  <!--1514158118_190519_Avian Races-->
+  <AvianBeak.label>부리</AvianBeak.label>
+
+  <!--1541567184_181112_Ni'Hal-->
+  <RightHandClaws.label>오른 손톱</RightHandClaws.label>
+  <LeftHandClaws.label>오른 발톱</LeftHandClaws.label>
+
+  <!--1543164737_190714_Lanius-->
+  <LTF_LaniusLung.label>라니우스 폐</LTF_LaniusLung.label>
+
+  <!--1545178908_190519_Callistans(1.0)-->
+  <CTail.label>꼬리</CTail.label>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <RRY_Xeno_Torso.label>몸통</RRY_Xeno_Torso.label>
+  <RRY_Xeno_Shoulder.label>어께</RRY_Xeno_Shoulder.label>
+  <RRY_Xeno_Arm.label>팔</RRY_Xeno_Arm.label>
+  <RRY_Xeno_Hand.label>손</RRY_Xeno_Hand.label>
+  <RRY_Xeno_Finger.label>손가락</RRY_Xeno_Finger.label>
+  <RRY_Xeno_Mandible.label>하악골</RRY_Xeno_Mandible.label>
+  <RRY_Xeno_Waist.label>허리</RRY_Xeno_Waist.label>
+  <RRY_Xeno_Toe.label>발가락</RRY_Xeno_Toe.label>
+  <RRY_Xeno_Clavicle.label>쇄골</RRY_Xeno_Clavicle.label>
+  <RRY_Xeno_Sternum.label>흉골</RRY_Xeno_Sternum.label>
+  <RRY_Xeno_Humerus.label>상완골</RRY_Xeno_Humerus.label>
+  <RRY_Xeno_Radius.label>요골</RRY_Xeno_Radius.label>
+  <RRY_Xeno_Pelvis.label>골반</RRY_Xeno_Pelvis.label>
+  <RRY_Xeno_Femur.label>대퇴골</RRY_Xeno_Femur.label>
+  <RRY_Xeno_Tibia.label>정강이뼈</RRY_Xeno_Tibia.label>
+  <RRY_Xeno_Heart.label>심장</RRY_Xeno_Heart.label>
+  <RRY_Xeno_Lung.label>폐</RRY_Xeno_Lung.label>
+  <RRY_Xeno_Kidney.label>신장</RRY_Xeno_Kidney.label>
+  <RRY_Xeno_Liver.label>간</RRY_Xeno_Liver.label>
+  <RRY_Xeno_Stomach.label>위장</RRY_Xeno_Stomach.label>
+  <RRY_Xeno_Head.label>머리</RRY_Xeno_Head.label>
+  <RRY_Xeno_Skull.label>두개골</RRY_Xeno_Skull.label>
+  <RRY_Xeno_Brain.label>뇌</RRY_Xeno_Brain.label>
+  <RRY_Xeno_Eye.label>눈</RRY_Xeno_Eye.label>
+  <RRY_Xeno_Ear.label>청각 기관</RRY_Xeno_Ear.label>
+  <RRY_Xeno_Nose.label>코</RRY_Xeno_Nose.label>
+  <RRY_Xeno_Jaw.label>입</RRY_Xeno_Jaw.label>
+  <RRY_Xeno_InnerJaw.label>내부 입</RRY_Xeno_InnerJaw.label>
+  <RRY_Xeno_Tail.label>꼬리</RRY_Xeno_Tail.label>
+  <RRY_Xeno_Neck.label>목</RRY_Xeno_Neck.label>
+  <RRY_Xeno_Ribcage.label>갈비뼈</RRY_Xeno_Ribcage.label>
+  <RRY_Xeno_Spine.label>가시</RRY_Xeno_Spine.label>
+  <RRY_Xeno_Leg.label>다리</RRY_Xeno_Leg.label>
+  <RRY_Xeno_Foot.label>발</RRY_Xeno_Foot.label>
+  <RRY_Xeno_TailSpike.label>꼬리 침</RRY_Xeno_TailSpike.label>
+  <RRY_Xeno_Body.label>몸</RRY_Xeno_Body.label>
+  <RRY_Xeno_Beak.label>부리</RRY_Xeno_Beak.label>
+  <RRY_Xeno_InsectHead.label>머리</RRY_Xeno_InsectHead.label>
+  <RRY_Xeno_SnakeBody.label>몸</RRY_Xeno_SnakeBody.label>
+  <RRY_Xeno_SnakeHead.label>머리</RRY_Xeno_SnakeHead.label>
+  <RRY_Xeno_SnakeMouth.label>입</RRY_Xeno_SnakeMouth.label>
+  <RRY_Xeno_InsectHeart.label>심장</RRY_Xeno_InsectHeart.label>
+  <RRY_Xeno_InsectNostril.label>콧구멍</RRY_Xeno_InsectNostril.label>
+  <RRY_Xeno_InsectMouth.label>입</RRY_Xeno_InsectMouth.label>
+  <RRY_Xeno_Pronotum.label>전흉 배판</RRY_Xeno_Pronotum.label>
+  <RRY_Xeno_Shell.label>껍질</RRY_Xeno_Shell.label>
+  <RRY_Xeno_Elytra.label>겉날개</RRY_Xeno_Elytra.label>
+  <RRY_Xeno_FrontClaw.label>앞 손톱</RRY_Xeno_FrontClaw.label>
+  <RRY_Xeno_FrontClaw.labelShort>발톱</RRY_Xeno_FrontClaw.labelShort>
+  <RRY_Xeno_RearClaw.label>뒷 손톱</RRY_Xeno_RearClaw.label>
+  <RRY_Xeno_RearClaw.labelShort>발톱</RRY_Xeno_RearClaw.labelShort>
+  <RRY_Yautja_Mandible.label>하악골</RRY_Yautja_Mandible.label>
+  <RRY_Yautja_Mouth.label>입</RRY_Yautja_Mouth.label>
+
+  <!--1571323744_190714_Crystalloid (Rewrite)-->
+  <CrystalOuterShell.label>외피</CrystalOuterShell.label>
+  <CrystalInnerShell.label>내피</CrystalInnerShell.label>
+  <CrystalCore.label>코어</CrystalCore.label>
+  <CrystalMatrix.label>사이오닉 매트릭스</CrystalMatrix.label>
+  <CrystalOptic.label>광학</CrystalOptic.label>
+  <CrystalTorso.label>몸통</CrystalTorso.label>
+  <CrystalNeck.label>목</CrystalNeck.label>
+  <CrystalHead.label>머리</CrystalHead.label>
+  <CrystalLeftShoulder.label>왼쪽 어께</CrystalLeftShoulder.label>
+  <CrystalLeftArm.label>왼 팔</CrystalLeftArm.label>
+  <CrystalLeftHand.label>왼 손</CrystalLeftHand.label>
+  <CrystalLeftHandPinky.label>왼쪽 새끼손가락</CrystalLeftHandPinky.label>
+  <CrystalLeftHandRingFinger.label>왼쪽 약지</CrystalLeftHandRingFinger.label>
+  <CrystalLeftHandMiddleFinger.label>왼쪽 중지</CrystalLeftHandMiddleFinger.label>
+  <CrystalLeftHandIndexFinger.label>왼쪽 검지</CrystalLeftHandIndexFinger.label>
+  <CrystalLeftHandThumb.label>왼쪽 엄지</CrystalLeftHandThumb.label>
+  <CrystalRightShoulder.label>오른쪽 어께</CrystalRightShoulder.label>
+  <CrystalRightArm.label>오른 팔</CrystalRightArm.label>
+  <CrystalRightHand.label>오른 손</CrystalRightHand.label>
+  <CrystalRightHandPinky.label>오른쪽 새끼손가락</CrystalRightHandPinky.label>
+  <CrystalRightHandRingFinger.label>오른쪽 약지</CrystalRightHandRingFinger.label>
+  <CrystalRightHandMiddleFinger.label>오른쪽 중지</CrystalRightHandMiddleFinger.label>
+  <CrystalRightHandIndexFinger.label>오른쪽 검지</CrystalRightHandIndexFinger.label>
+  <CrystalRightHandThumb.label>오른쪽 엄지</CrystalRightHandThumb.label>
+  <CrystalLeftLeg.label>왼 다리</CrystalLeftLeg.label>
+  <CrystalLeftFoot.label>왼 발</CrystalLeftFoot.label>
+  <CrystalRightLeg.label>오른 다리</CrystalRightLeg.label>
+  <CrystalRightFoot.label>오른 발</CrystalRightFoot.label>
+  <CrystalExtractor.label>영양 추출기</CrystalExtractor.label>
+  <ColossusShell.label>껍질</ColossusShell.label>
+  <ColossusCore.label>코어</ColossusCore.label>
+  <ColossusBrainTop.label>상부 크리스탈 뇌</ColossusBrainTop.label>
+  <ColossusBrainMid.label>중부 크리스탈 뇌</ColossusBrainMid.label>
+  <ColossusBrainLeft.label>하부 왼쪽 크리스탈 뇌</ColossusBrainLeft.label>
+  <ColossusBrainRight.label>하부 오른쪽 크리스탈 뇌</ColossusBrainRight.label>
+  <PsionicNode.label>사이오닉 노드</PsionicNode.label>
+  <CrystalBrain.label>크리스탈 뇌</CrystalBrain.label>
+  <CrystalHeart.label>크리스탈 심장</CrystalHeart.label>
+  <CrystalHumanTorso.label>몸통</CrystalHumanTorso.label>
+  <CrystalHumanNeck.label>목</CrystalHumanNeck.label>
+  <CrystalHumanHead.label>머리</CrystalHumanHead.label>
+  <CrystalHumanShoulder.label>왼쪽 어께</CrystalHumanShoulder.label>
+  <CrystalHumanArm.label>왼 팔</CrystalHumanArm.label>
+  <CrystalHumanHand.label>왼 손</CrystalHumanHand.label>
+  <CrystalHumanFinger.label>손가락</CrystalHumanFinger.label>
+  <CrystalHumanLeg.label>왼 다리</CrystalHumanLeg.label>
+  <CrystalHumanFoot.label>발</CrystalHumanFoot.label>
+
+  <!--1573177939_181125_Ratkin Backup-->
+  <RGK_BP_RatTail.label>쥐 꼬리</RGK_BP_RatTail.label>
+
+  <!--1632244750_190708_Oni of the Rim-->
+  <OniHorn.label>뿔</OniHorn.label>
+
+  <!--1706345856_190811_Warhammer Skaven-->
+  <SkavenTail.label>꼬리</SkavenTail.label>
+  <RightSkavenHorn.label>오른쪽 뿔</RightSkavenHorn.label>
+  <RightSkavenHorn.labelShort>뿔</RightSkavenHorn.labelShort>
+  <LeftSkavenHorn.label>왼쪽 뿔</LeftSkavenHorn.label>
+  <LeftSkavenHorn.labelShort>뿔</LeftSkavenHorn.labelShort>
+  <SkavenHorn.label>뿔</SkavenHorn.label>
+  <RatOgreBlade.label>랫 오거 칼날</RatOgreBlade.label>
+
+  <!--1728999127_190813_Forsakens-->
+  <RightHandClaws.label>오른 손톱</RightHandClaws.label>
+  <LeftHandClaws.label>왼 손톱</LeftHandClaws.label>
+
+  <!--882126182_181000_Call of Cthulhu - Elder Things-->
+  <ElderThing_EatingTube.label>흡수 관</ElderThing_EatingTube.label>
+  <ElderThing_Maw.label>위</ElderThing_Maw.label>
+  <ElderThing_Eye.label>눈</ElderThing_Eye.label>
+  <ElderThing_HeartLungFirst.label>첫 번째 호흡 세포 송이</ElderThing_HeartLungFirst.label>
+  <ElderThing_HeartLungSecond.label>두 번째 호흡 세포 송이</ElderThing_HeartLungSecond.label>
+  <ElderThing_HeartLungThird.label>세 번째 호흡 세포 송이</ElderThing_HeartLungThird.label>
+  <ElderThing_HeartLungFourth.label>네 번째 호흡 세포 송이</ElderThing_HeartLungFourth.label>
+  <ElderThing_HeartLungFifth.label>다섯 번째 호흡 세포 송이</ElderThing_HeartLungFifth.label>
+  <ElderThing_PsionicLobe.label>사이오닉 대뇌피질</ElderThing_PsionicLobe.label>
+  <ElderThing_FrontalLobe.label>전두엽</ElderThing_FrontalLobe.label>
+  <ElderThing_ParietalLobe.label>두정엽</ElderThing_ParietalLobe.label>
+  <ElderThing_OccipitalLobe.label>후두엽</ElderThing_OccipitalLobe.label>
+  <ElderThing_TemporalLobe.label>측두엽</ElderThing_TemporalLobe.label>
+  <ElderThing_BrainStem.label>뇌간</ElderThing_BrainStem.label>
+  <ElderThing_HeadTentaclesFirst.label>첫 번째 머리촉수</ElderThing_HeadTentaclesFirst.label>
+  <ElderThing_HeadTentaclesSecond.label>두 번째 머리촉수</ElderThing_HeadTentaclesSecond.label>
+  <ElderThing_HeadTentaclesThird.label>세 번째 머리촉수</ElderThing_HeadTentaclesThird.label>
+  <ElderThing_HeadTentaclesFourth.label>네 번째 머리촉수</ElderThing_HeadTentaclesFourth.label>
+  <ElderThing_HeadTentaclesFifth.label>다섯 번째 머리촉수</ElderThing_HeadTentaclesFifth.label>
+  <ElderThing_TopRing.label>머리 고리</ElderThing_TopRing.label>
+  <ElderThing_WingFirst.label>첫 번째 날개</ElderThing_WingFirst.label>
+  <ElderThing_WingSecond.label>두 번째 날개</ElderThing_WingSecond.label>
+  <ElderThing_WingThird.label>세 번째 날개</ElderThing_WingThird.label>
+  <ElderThing_WingFourth.label>네 번째 날개</ElderThing_WingFourth.label>
+  <ElderThing_WingFifth.label>다섯 번째 날개</ElderThing_WingFifth.label>
+  <ElderThing_TentacleArmFirst.label>첫 번째 촉수 팔</ElderThing_TentacleArmFirst.label>
+  <ElderThing_TentacleArmSecond.label>두 번째 촉수 팔</ElderThing_TentacleArmSecond.label>
+  <ElderThing_TentacleArmThird.label>세 번째 촉수 팔</ElderThing_TentacleArmThird.label>
+  <ElderThing_TentacleArmFourth.label>네 번째 촉수 팔</ElderThing_TentacleArmFourth.label>
+  <ElderThing_TentacleArmFifth.label>다섯 번째 촉수 팔</ElderThing_TentacleArmFifth.label>
+  <ElderThing_TentacleGrasperFirst.label>첫 번째 말단 촉수</ElderThing_TentacleGrasperFirst.label>
+  <ElderThing_TentacleGrasperSecond.label>두 번째 말단 촉수</ElderThing_TentacleGrasperSecond.label>
+  <ElderThing_TentacleGrasperThird.label>세 번째 말단 촉수</ElderThing_TentacleGrasperThird.label>
+  <ElderThing_TentacleGrasperFourth.label>네 번째 말단 촉수</ElderThing_TentacleGrasperFourth.label>
+  <ElderThing_TentacleGrasperFifth.label>다섯 번째 말단 촉수</ElderThing_TentacleGrasperFifth.label>
+  <ElderThing_BottomRing.label>몸통 고리</ElderThing_BottomRing.label>
+  <ElderThing_TentacleLegFirst.label>첫 번째 촉수 다리</ElderThing_TentacleLegFirst.label>
+  <ElderThing_TentacleLegSecond.label>두 번째 촉수 다리</ElderThing_TentacleLegSecond.label>
+  <ElderThing_TentacleLegThird.label>세 번째 촉수 다리</ElderThing_TentacleLegThird.label>
+  <ElderThing_TentacleLegFourth.label>네 번째 촉수 다리</ElderThing_TentacleLegFourth.label>
+  <ElderThing_TentacleLegFifth.label>다섯 번째 촉수 다리</ElderThing_TentacleLegFifth.label>
+  <ElderThing_Xylem.label>(식물의)목질부 관</ElderThing_Xylem.label>
+  <ElderThing_Phloem.label>(식물의)체관부 관</ElderThing_Phloem.label>
+
+</LanguageData>

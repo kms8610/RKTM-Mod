@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BionicTacticalImplant.label>생체공학 뇌도우미</BionicTacticalImplant.label>
+  <BionicTacticalImplant.description>발달한 생체공학 컴퓨터로 인간의 뇌와 완벽하게 합쳐졌습니다.</BionicTacticalImplant.description>
+  <ElectronicTacticalImplant.label>전자공학 뇌도우미</ElectronicTacticalImplant.label>
+  <ElectronicTacticalImplant.description>직접적인 뇌-컴퓨터 인터페이스를 제공하는 고급 컴퓨터입니다.</ElectronicTacticalImplant.description>
+  <Bullet_RailgunMKI.label>레일건 탄환</Bullet_RailgunMKI.label>
+  <Gun_RailgunMKI.label>레일건</Gun_RailgunMKI.label>
+  <Gun_RailgunMKI.description>전자석 레일 시스템으로 이 무기는 초당 최대 35km의 초고속으로 발사체를 가속합니다.</Gun_RailgunMKI.description>
+  <Gun_RailgunMKI.tools.0.label>개머리판</Gun_RailgunMKI.tools.0.label>
+  <Gun_RailgunMKI.tools.1.label>총열</Gun_RailgunMKI.tools.1.label>
+
+</LanguageData>

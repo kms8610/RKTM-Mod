@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CPD_FermentingBarrel.label>쿠프로 발효통</CPD_FermentingBarrel.label>
+  <CPD_FermentingBarrel.description>다양한 유형의 알코올 음료를 만들기 위한 발효통입니다.</CPD_FermentingBarrel.description>
+  <CPD_FermentingBarrel_Blueprint.label>쿠프로 발효통 (청사진)</CPD_FermentingBarrel_Blueprint.label>
+  <CPD_FermentingBarrel_Blueprint_Install.label>쿠프로 발효통 (청사진)</CPD_FermentingBarrel_Blueprint_Install.label>
+  <CPD_FermentingBarrel_Frame.label>쿠프로 발효통 (건설 중)</CPD_FermentingBarrel_Frame.label>
+  <CPD_FermentingBarrel_Frame.description>다양한 유형의 알코올 음료를 만들기 위한 발효통입니다.</CPD_FermentingBarrel_Frame.description>
+  <CPD_FrassRoot.label>프래스 뿌리</CPD_FrassRoot.label>
+  <CPD_FrassRoot.description>루트비어로 제조하기 위해 수확된 프래스의 잘게 부스러진 뿌리입니다.</CPD_FrassRoot.description>
+  <CPD_StoutWort.label>스타우트 맥아즙</CPD_StoutWort.label>
+  <CPD_StoutWort.description>구운 술보리로 만든 맥아즙입니다. 마실 수 있는 스타우트가 되기 위해선 발호통에서 양조해야 됩니다.</CPD_StoutWort.description>
+  <CPD_CornWort.label>옥수수 발효액</CPD_CornWort.label>
+  <CPD_CornWort.description>옥수수로 만든 발효액입니다. 마실 수 있는 위스키가 되기 위해선 발효통에서 양조해야 됩니다.</CPD_CornWort.description>
+  <CPD_RiceMash.label>쌀 당화액</CPD_RiceMash.label>
+  <CPD_RiceMash.description>맷돌로 쌀밥을 갈고 담궈서 만듭니다. 마실수 있는 니고리자케가 되기 위해선 발효통에서 양조해야만 합니다.</CPD_RiceMash.description>
+  <CPD_VodkaPrecursor.label>증류되지 않은 보드카</CPD_VodkaPrecursor.label>
+  <CPD_VodkaPrecursor.description>발효된 보드카입니다. 완벽한 보드카가 되기 위해선 양조대에서 여과하고 증류해야 됩니다.</CPD_VodkaPrecursor.description>
+  <CPD_WineMust.label>와인 발효액</CPD_WineMust.label>
+  <CPD_WineMust.description>과일을 눌러서 즙으로 만들었습니다. 마시는 와인이 되기 위해선 발효통에서 양조해야 됩니다.</CPD_WineMust.description>
+  <CPD_GreenDragonPrecursor.label>연초잎 알코올 추출액</CPD_GreenDragonPrecursor.label>
+  <CPD_GreenDragonPrecursor.description>연초잎의 추출액과 보드카를 혼합했습니다. 그린 드래곤을 만들기 위해 발효통에서 양조되어야 합니다.</CPD_GreenDragonPrecursor.description>
+  <CPD_EmptyCrate.label>빈 상자</CPD_EmptyCrate.label>
+  <CPD_EmptyCrate.description>보관 또는 판매를 위해서 많은 술병을 담을 수 있는 상자입니다.</CPD_EmptyCrate.description>
+  <CPD_BeerCrate.label>맥주 상자</CPD_BeerCrate.label>
+  <CPD_BeerCrate.description>맥주 75 병이 들어있는 상자입니다.</CPD_BeerCrate.description>
+  <CPD_StoutCrate.label>스타우트 상자</CPD_StoutCrate.label>
+  <CPD_StoutCrate.description>스타우트 75 병이 들어있는 상자입니다.</CPD_StoutCrate.description>
+  <CPD_NigoriCrate.label>니고리자케 상자</CPD_NigoriCrate.label>
+  <CPD_NigoriCrate.description>니고리자케 75 병이 들어있는 상자입니다.</CPD_NigoriCrate.description>
+  <CPD_VodkaCrate.label>보드카 상자</CPD_VodkaCrate.label>
+  <CPD_VodkaCrate.description>보드카 75 병이 들어있는 상자입니다.</CPD_VodkaCrate.description>
+  <CPD_WhiskeyCrate.label>위스키 상자</CPD_WhiskeyCrate.label>
+  <CPD_WhiskeyCrate.description>위스키 75 병이 들어있는 상자입니다.</CPD_WhiskeyCrate.description>
+  <CPD_WineCrate.label>와인 상자</CPD_WineCrate.label>
+  <CPD_WineCrate.description>와인 75 병이 들어있는 상자입니다.</CPD_WineCrate.description>
+  <CPD_GreenDragonCrate.label>그린 드래곤 상자</CPD_GreenDragonCrate.label>
+  <CPD_GreenDragonCrate.description>그린 드래곤 75 병이 들어있는 상자입니다.</CPD_GreenDragonCrate.description>
+  <CPD_RawCoffeeBeans.label>생 커피 원두</CPD_RawCoffeeBeans.label>
+  <CPD_RawCoffeeBeans.description>생 커피 원두를 작게 포장해놨습니다.</CPD_RawCoffeeBeans.description>
+  <CPD_CoffeeBeans.label>볶은 커피 원두</CPD_CoffeeBeans.label>
+  <CPD_CoffeeBeans.description>볶은 커피 원두를 작게 포장해놨습니다.</CPD_CoffeeBeans.description>
+  <CPD_PlantFrassRoot.label>프래스 뿌리</CPD_PlantFrassRoot.label>
+  <CPD_PlantFrassRoot.description>때때로 지표면 위로 나오는 길고 엉성한 뿌리 식물입니다. 양조하면 맛있는 맛을 냅니다.</CPD_PlantFrassRoot.description>
+  <CPD_CoffeePlant.label>커피 관목</CPD_CoffeePlant.label>
+  <CPD_CoffeePlant.description>커피원두를 포함하는 열매가 열리는 식물입니다. 성장하는데 시간이 걸립니다.</CPD_CoffeePlant.description>
+  <CPD_DrinksTable.label>음료 작업대</CPD_DrinksTable.label>
+  <CPD_DrinksTable.description>다양한 음료를 양조하고 만들기 위한 작업대입니다. 전기가 없으면 70% 효율로 작동합니다.</CPD_DrinksTable.description>
+  <CPD_DrinksTable_Blueprint.label>음료 작업대 (청사진)</CPD_DrinksTable_Blueprint.label>
+  <CPD_DrinksTable_Blueprint_Install.label>음료 작업대 (청사진)</CPD_DrinksTable_Blueprint_Install.label>
+  <CPD_DrinksTable_Frame.label>음료 작업대 (건설 중)</CPD_DrinksTable_Frame.label>
+  <CPD_DrinksTable_Frame.description>다양한 음료를 양조하고 만들기 위한 작업대입니다. 전기가 없으면 70% 효율로 작동합니다.</CPD_DrinksTable_Frame.description>
+  <CPD_Syrup.label>당밀</CPD_Syrup.label>
+  <CPD_Syrup.description>다량의 설탕을 함유한 식물을 졸여서 만든 당밀이 병에 담겨있습니다.</CPD_Syrup.description>
+  <CPD_Syrup.tools.1.label>병목</CPD_Syrup.tools.1.label>
+  <CPD_Syrup.ingestible.ingestCommandString>{0} 마시기</CPD_Syrup.ingestible.ingestCommandString>
+  <CPD_Syrup.ingestible.ingestReportString>{0}을 마시는 중.</CPD_Syrup.ingestible.ingestReportString>
+  <CPD_Nigori.label>니고리자케</CPD_Nigori.label>
+  <CPD_Nigori.description>쌀로 만든 알코올 음료입니다.</CPD_Nigori.description>
+  <CPD_Nigori.tools.1.label>병목</CPD_Nigori.tools.1.label>
+  <CPD_Nigori.ingestible.ingestCommandString>{0} 마시기</CPD_Nigori.ingestible.ingestCommandString>
+  <CPD_Nigori.ingestible.ingestReportString>{0}를 마시는 중.</CPD_Nigori.ingestible.ingestReportString>
+  <CPD_Stout.label>스타우트</CPD_Stout.label>
+  <CPD_Stout.description>구운 술보리로 만든 알코올 음료입니다.</CPD_Stout.description>
+  <CPD_Stout.tools.1.label>병목</CPD_Stout.tools.1.label>
+  <CPD_Stout.ingestible.ingestCommandString>{0} 마시기</CPD_Stout.ingestible.ingestCommandString>
+  <CPD_Stout.ingestible.ingestReportString>{0}를 마시는 중.</CPD_Stout.ingestible.ingestReportString>
+  <CPD_Vodka.label>보드카</CPD_Vodka.label>
+  <CPD_Vodka.description>감자로 만든 알코올 음료입니다.</CPD_Vodka.description>
+  <CPD_Vodka.tools.1.label>병목</CPD_Vodka.tools.1.label>
+  <CPD_Vodka.ingestible.ingestCommandString>{0} 마시기</CPD_Vodka.ingestible.ingestCommandString>
+  <CPD_Vodka.ingestible.ingestReportString>{0}를 마시는 중.</CPD_Vodka.ingestible.ingestReportString>
+  <CPD_Whiskey.label>위스키</CPD_Whiskey.label>
+  <CPD_Whiskey.description>옥수수로 만든 알코올 음료입니다.</CPD_Whiskey.description>
+  <CPD_Whiskey.tools.1.label>병목</CPD_Whiskey.tools.1.label>
+  <CPD_Whiskey.ingestible.ingestCommandString>{0} 마시기</CPD_Whiskey.ingestible.ingestCommandString>
+  <CPD_Whiskey.ingestible.ingestReportString>{0}를 마시는 중.</CPD_Whiskey.ingestible.ingestReportString>
+  <CPD_Wine.label>와인</CPD_Wine.label>
+  <CPD_Wine.description>딸기로 만든 알코올 음료입니다.</CPD_Wine.description>
+  <CPD_Wine.tools.1.label>병목</CPD_Wine.tools.1.label>
+  <CPD_Wine.ingestible.ingestCommandString>{0} 마시기</CPD_Wine.ingestible.ingestCommandString>
+  <CPD_Wine.ingestible.ingestReportString>{0}을 마시는 중.</CPD_Wine.ingestible.ingestReportString>
+  <CPD_GreenDragon.label>그린 드래곤</CPD_GreenDragon.label>
+  <CPD_GreenDragon.description>연초잎으로 만든 알코올 음료입니다.</CPD_GreenDragon.description>
+  <CPD_GreenDragon.tools.1.label>병목</CPD_GreenDragon.tools.1.label>
+  <CPD_GreenDragon.ingestible.ingestCommandString>{0} 마시기</CPD_GreenDragon.ingestible.ingestCommandString>
+  <CPD_GreenDragon.ingestible.ingestReportString>{0}을 마시는 중.</CPD_GreenDragon.ingestible.ingestReportString>
+  <CPD_DecafCoffee.label>디카페인 커피</CPD_DecafCoffee.label>
+  <CPD_DecafCoffee.description>볶은 커피 원두를 사용해서 만든 카페인이 없는 커피입니다. 맛있게 마실 수 있습니다.</CPD_DecafCoffee.description>
+  <CPD_DecafCoffee.tools.1.label>병목</CPD_DecafCoffee.tools.1.label>
+  <CPD_DecafCoffee.ingestible.ingestCommandString>{0} 마시기</CPD_DecafCoffee.ingestible.ingestCommandString>
+  <CPD_DecafCoffee.ingestible.ingestReportString>{0}를 마시는 중.</CPD_DecafCoffee.ingestible.ingestReportString>
+  <CPD_Coffee.label>쿠프로 커피</CPD_Coffee.label>
+  <CPD_Coffee.description>볶은 커피 원두를 사용하여 만든 커피입니다. 맛있게 마실 수 있고 수면을 5% 향상시킵니다.</CPD_Coffee.description>
+  <CPD_Coffee.tools.1.label>병목</CPD_Coffee.tools.1.label>
+  <CPD_Coffee.ingestible.ingestCommandString>{0} 마시기</CPD_Coffee.ingestible.ingestCommandString>
+  <CPD_Coffee.ingestible.ingestReportString>{0}를 마시는 중.</CPD_Coffee.ingestible.ingestReportString>
+  <CPD_DECoffee.label>데드 아이 커피</CPD_DECoffee.label>
+  <CPD_DECoffee.description>볶은 커피 원두를 사용해 진한 커피를 만듭니다. 마시는 것은 그닥 즐겁지 않을지는 몰라도 수면을 회복시킵니다.\n\n-실제로 있는 미국 커피점-</CPD_DECoffee.description>
+  <CPD_DECoffee.tools.1.label>병목</CPD_DECoffee.tools.1.label>
+  <CPD_DECoffee.ingestible.ingestCommandString>{0} 마시기</CPD_DECoffee.ingestible.ingestCommandString>
+  <CPD_DECoffee.ingestible.ingestReportString>{0}를 마시는 중.</CPD_DECoffee.ingestible.ingestReportString>
+  <CPD_ThrumboEnergy.label>트럼보 에너지</CPD_ThrumboEnergy.label>
+  <CPD_ThrumboEnergy.description>독창적이고 이국적인 맛의 인기있는 에너지 음료로, 마시는 사람들의 수면을 20% 향상시킵니다.\n\n트럼보 기운을 느껴보세요!</CPD_ThrumboEnergy.description>
+  <CPD_ThrumboEnergy.tools.1.label>병목</CPD_ThrumboEnergy.tools.1.label>
+  <CPD_ThrumboEnergy.ingestible.ingestCommandString>{0} 마시기</CPD_ThrumboEnergy.ingestible.ingestCommandString>
+  <CPD_ThrumboEnergy.ingestible.ingestReportString>{0}를 마시는 중.</CPD_ThrumboEnergy.ingestible.ingestReportString>
+  <CPD_Koka.label>코카콜라</CPD_Koka.label>
+  <CPD_Koka.description>은하계 전체에 인기 있는 탄산음료입니다. 소량의 약물 성분 때문에 일부 지역에서는 금지되었습니다.</CPD_Koka.description>
+  <CPD_Koka.tools.1.label>병목</CPD_Koka.tools.1.label>
+  <CPD_Koka.ingestible.ingestCommandString>{0} 마시기</CPD_Koka.ingestible.ingestCommandString>
+  <CPD_Koka.ingestible.ingestReportString>{0}를 마시는 중.</CPD_Koka.ingestible.ingestReportString>
+  <CPD_Peppi.label>페피콜라</CPD_Peppi.label>
+  <CPD_Peppi.description>코카콜라의 강력한 버전인 페피 탄산음료는 자극적인 맛으로 유명합니다. 사냥꾼과 의사들한테 인기입니다.</CPD_Peppi.description>
+  <CPD_Peppi.tools.1.label>병목</CPD_Peppi.tools.1.label>
+  <CPD_Peppi.ingestible.ingestCommandString>{0} 마시기</CPD_Peppi.ingestible.ingestCommandString>
+  <CPD_Peppi.ingestible.ingestReportString>{0}를 마시는 중.</CPD_Peppi.ingestible.ingestReportString>
+  <CPD_Chocolate.label>초콜릿 탄산음료</CPD_Chocolate.label>
+  <CPD_Chocolate.description>탄산음료에 초콜릿, 우유를 혼합한 음료입니다. 차가울 때 최고의 맛을 냅니다.</CPD_Chocolate.description>
+  <CPD_Chocolate.tools.1.label>병목</CPD_Chocolate.tools.1.label>
+  <CPD_Chocolate.ingestible.ingestCommandString>{0} 마시기</CPD_Chocolate.ingestible.ingestCommandString>
+  <CPD_Chocolate.ingestible.ingestReportString>{0}를 마시는 중.</CPD_Chocolate.ingestible.ingestReportString>
+  <CPD_RootBeer.label>루트비어</CPD_RootBeer.label>
+  <CPD_RootBeer.description>나무와 식물의 뿌리로 양조하는 특이한 고대의 맥주입니다. 정착민들 사이에서 인기입니다.\n\n-실제로 존재하는 비알코올 탄산음료-</CPD_RootBeer.description>
+  <CPD_RootBeer.tools.1.label>병목</CPD_RootBeer.tools.1.label>
+  <CPD_RootBeer.ingestible.ingestCommandString>{0} 마시기</CPD_RootBeer.ingestible.ingestCommandString>
+  <CPD_RootBeer.ingestible.ingestReportString>{0}를 마시는 중.</CPD_RootBeer.ingestible.ingestReportString>
+  <CPD_Berry.label>딸기 탄산음료</CPD_Berry.label>
+  <CPD_Berry.description>달콤한 거품과 타르트의 완벽한 조화가 돋보이는 탄산음료입니다.</CPD_Berry.description>
+  <CPD_Berry.tools.1.label>병목</CPD_Berry.tools.1.label>
+  <CPD_Berry.ingestible.ingestCommandString>{0} 마시기</CPD_Berry.ingestible.ingestCommandString>
+  <CPD_Berry.ingestible.ingestReportString>{0}를 마시는 중.</CPD_Berry.ingestible.ingestReportString>
+  <CPD_Agave.label>용설란 탄산음료</CPD_Agave.label>
+  <CPD_Agave.description>용설란으로 가볍게 단맛을 낸 탄산음료입니다. 관목과 머팔로들에게 인기입니다.</CPD_Agave.description>
+  <CPD_Agave.tools.1.label>병목</CPD_Agave.tools.1.label>
+  <CPD_Agave.ingestible.ingestCommandString>{0} 마시기</CPD_Agave.ingestible.ingestCommandString>
+  <CPD_Agave.ingestible.ingestReportString>{0}를 마시는 중.</CPD_Agave.ingestible.ingestReportString>
+
+</LanguageData>

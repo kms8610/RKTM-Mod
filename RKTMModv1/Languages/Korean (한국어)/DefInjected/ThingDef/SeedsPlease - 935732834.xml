@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlantProcessingTable.label>식물 가공 작업대</PlantProcessingTable.label>
+  <PlantProcessingTable.description>식물 가공 활동을 하기 위한 작업대입니다.</PlantProcessingTable.description>
+  <RawCotton.label>목화 섬유</RawCotton.label>
+  <RawCotton.description>가공되지 않은 목화. 옷을 만들거나 거래에 사용됩니다.</RawCotton.description>
+  <RawDevilstrand.label>악마가닥</RawDevilstrand.label>
+  <RawDevilstrand.description>가공되지 않은 악마가닥. 옷을 만들거나 거래에 사용됩니다.</RawDevilstrand.description>
+  <RawHealroot.label>생약 재료</RawHealroot.label>
+  <RawHealroot.description>약뿌리에서 채취한 가공되지 않은 약뿌리입니다. 식물 가공 작업대에서 생약으로 가공해야 합니다.</RawHealroot.description>
+  <RawCocoaBeans.label>코코아 콩</RawCocoaBeans.label>
+  <RawCocoaBeans.description>코코아 콩으로 초콜릿을 만듭니다.</RawCocoaBeans.description>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ToddlerStageGerzee.label>갓난아기</ToddlerStageGerzee.label>
+  <ChildStageGerzee.label>어린이</ChildStageGerzee.label>
+  <TeenStageGerzee.label>청소년</TeenStageGerzee.label>
+  <AdultStageGerzee.label>어른</AdultStageGerzee.label>
+  <ElderStageGerzee.label>중년</ElderStageGerzee.label>
+  <AncientStageGerzee.label>노인</AncientStageGerzee.label>
+
+</LanguageData>

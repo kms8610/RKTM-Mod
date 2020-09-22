@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1301071669_190521_Cyberpunk-->
+  <AutumnBladeOrbit.label>어텀 블레이드 무기상인</AutumnBladeOrbit.label>
+  <Caravan_AutumnBlade.label>어텀 블레이드 상단</Caravan_AutumnBlade.label>
+  <CPTraderCaravan.label>어텀 블레이드 무역 상단</CPTraderCaravan.label>
+  <Orbital_CPTrader.label>어텀 블레이드 무역선</Orbital_CPTrader.label>
+  <Caravan_Corp_CP.label>기업 무역 상단</Caravan_Corp_CP.label>
+  <Caravan_CPTrader.label>사이버텍 상단</Caravan_CPTrader.label>
+  <CPTrader.label>사이버텍 바지선</CPTrader.label>
+
+  <!--1498573216_181028_Polarisbloc - Mechenemy-->
+  <Vanya_Caravan_BootyTrader.label>전리품 상인</Vanya_Caravan_BootyTrader.label>
+
+  <!--1500248421_181028_Polarisbloc - Security Force-->
+  <Caravan_SecuirityForce_BulkGoods.label>소매상</Caravan_SecuirityForce_BulkGoods.label>
+  <Visitor_SecuirityForce_Standard.label>상인</Visitor_SecuirityForce_Standard.label>
+
+  <!--1543060282_181101_Additional Joy Objects-->
+  <AJO_JoyTrader.label>오락 크루저</AJO_JoyTrader.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <Pilgrim_Standart.label>종교상인</Pilgrim_Standart.label>
+
+  <!--1720751798_190519_[RH] Faction Task Force 141 (1.0)-->
+  <RHCaravan_141_MilitiaSupplier.label>민병대 서포터</RHCaravan_141_MilitiaSupplier.label>
+  <RHVisitor_141_Standard.label>측량사</RHVisitor_141_Standard.label>
+
+  <!--1746084920_190526_RimSlave-->
+  <Orbital_Walkblem_Slavers.label>워크블렘 노예상인들</Orbital_Walkblem_Slavers.label>
+  <Visitor_Walkblem_Slavers.label>워크블렘 노예상인들</Visitor_Walkblem_Slavers.label>
+  <Caravan_Walkblem_Slavers.label>워크블렘 노예상인들 캐러밴</Caravan_Walkblem_Slavers.label>
+
+  <!--724602224_190626_Misc. Robots-->
+  <AIRobotsTrader.label>로봇 상인</AIRobotsTrader.label>
+
+  <!--725576127_190626_Glitter Tech-->
+  <BlackMarket.label>암상인</BlackMarket.label>
+
+  <!--726855894_190818_USCM - Core-->
+  <USCMTrader.label>USCM 군납 상인</USCMTrader.label>
+
+  <!--732569232_190814_Medieval Times-->
+  <MedTimes_Caravan_Combat.label>중세 무기 및 갑옷 상인</MedTimes_Caravan_Combat.label>
+  <MedTimes_Caravan_BulkGoods.label>중세 상인</MedTimes_Caravan_BulkGoods.label>
+
+  <!--759866027_190818_USCM - Colonial Marines Corps Faction-->
+  <USCM_Caravan.label>USCM 통신 소대</USCM_Caravan.label>
+  <USCM_Base_Trader.label>USCM 군납 상단</USCM_Base_Trader.label>
+
+  <!--918227266_181112_Star Wars - Factions-->
+  <PJ_ImpTrader_BulkGoods.label>제국 벌크 물자 공급자</PJ_ImpTrader_BulkGoods.label>
+  <PJ_ImpTrader_Slaver.label>제국의 노예</PJ_ImpTrader_Slaver.label>
+  <PJ_ImpTrader_CombatSupplier.label>제국 무기 공급 업체</PJ_ImpTrader_CombatSupplier.label>
+  <PJ_ImpTrader_Visitor.label>상인</PJ_ImpTrader_Visitor.label>
+
+</LanguageData>

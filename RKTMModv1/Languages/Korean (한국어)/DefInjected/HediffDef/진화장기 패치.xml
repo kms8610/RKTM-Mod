@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EvolvedSecondHeart.label>진화된 두번째 심장</EvolvedSecondHeart.label>
+  <EvolvedSecondHeart.labelNoun>진화된 두번째 심장</EvolvedSecondHeart.labelNoun>
+  <EvolvedPrimaryHeart.label>진화된 첫번째 심장</EvolvedPrimaryHeart.label>
+  <EvolvedPrimaryHeart.labelNoun>진화된 첫번째 심장</EvolvedPrimaryHeart.labelNoun>
+  <EvolvedKidney.label>진화된 신장</EvolvedKidney.label>
+  <EvolvedKidney.labelNoun>진화된 신장</EvolvedKidney.labelNoun>
+  <EvolvedLung.label>진화된 폐</EvolvedLung.label>
+  <EvolvedLung.labelNoun>진화된 폐</EvolvedLung.labelNoun>
+  <EvolvedThirdLung.label>진화된 세번째 폐</EvolvedThirdLung.label>
+  <EvolvedThirdLung.labelNoun>진화된 세번째 폐</EvolvedThirdLung.labelNoun>
+  <EvolvedStomach.label>진화된 위</EvolvedStomach.label>
+  <EvolvedStomach.labelNoun>진화된 위</EvolvedStomach.labelNoun>
+  <EvolvedLiver.label>진화된 간</EvolvedLiver.label>
+  <EvolvedLiver.labelNoun>진화된 간</EvolvedLiver.labelNoun>
+  <EvolvedBrain.label>진화된 뇌</EvolvedBrain.label>
+  <EvolvedBrain.labelNoun>진화된 뇌</EvolvedBrain.labelNoun>
+  <EvolvedEye.label>진화된 눈</EvolvedEye.label>
+  <EvolvedEye.labelNoun>진화된 눈</EvolvedEye.labelNoun>
+  <EvolvedPinions.label>진화된 날개</EvolvedPinions.label>
+  <EvolvedPinions.labelNoun>일부 진화된 날개</EvolvedPinions.labelNoun>
+  <EvolvedCombatGlands.label>진화된 전투 분비샘</EvolvedCombatGlands.label>
+  <EvolvedCombatGlands.labelNoun>일부 진화된 전투 분비샘</EvolvedCombatGlands.labelNoun>
+  <EvolvedLeg.label>진화된 다리</EvolvedLeg.label>
+  <EvolvedLeg.labelNoun>진화된 다리</EvolvedLeg.labelNoun>
+  <EvolvedNose.label>진화된 코</EvolvedNose.label>
+  <EvolvedNose.labelNoun>진화된 코</EvolvedNose.labelNoun>
+  <EvolvedLarnyx.label>진화된 후두</EvolvedLarnyx.label>
+  <EvolvedLarnyx.labelNoun>진화된 후두</EvolvedLarnyx.labelNoun>
+  <EvolvedEar.label>진화된 귀</EvolvedEar.label>
+  <EvolvedEar.labelNoun>진화된 귀</EvolvedEar.labelNoun>
+  <EvolvedRibcage.label>진화된 갈비뼈</EvolvedRibcage.label>
+  <EvolvedRibcage.labelNoun>진화된 갈비뼈</EvolvedRibcage.labelNoun>
+  <EvolvedCarapace.label>진화된 피부</EvolvedCarapace.label>
+  <EvolvedCarapace.labelNoun>일부 진화된 용의 피부</EvolvedCarapace.labelNoun>
+  <EvolvedPelt.label>진화된 가죽</EvolvedPelt.label>
+  <EvolvedPelt.labelNoun>일부 진화된 가죽</EvolvedPelt.labelNoun>
+  <EvolvedSpine.label>진화된 척추</EvolvedSpine.label>
+  <EvolvedSpine.labelNoun>진화된 척추</EvolvedSpine.labelNoun>
+  <EvolvedTail.label>진화된 꼬리</EvolvedTail.label>
+  <EvolvedTail.labelNoun>진화된 꼬리</EvolvedTail.labelNoun>
+  <EvolvedJaw.label>진화된 턱</EvolvedJaw.label>
+  <EvolvedJaw.labelNoun>진화된 턱</EvolvedJaw.labelNoun>
+  <EvolvedSpider.label>진화된 여분의 다리 클러스터</EvolvedSpider.label>
+  <EvolvedSpider.labelNoun>진화된 여분의 다리 클러스터</EvolvedSpider.labelNoun>
+  <EvolvedFilter.label>진화된 정신 필터</EvolvedFilter.label>
+  <EvolvedFilter.labelNoun>진화된 정신 필터</EvolvedFilter.labelNoun>
+  <EmpathicResonator.label>공감 공진기</EmpathicResonator.label>
+  <EmpathicResonator.labelNoun>공감 공진기</EmpathicResonator.labelNoun>
+  <ImmortalOrgan.label>라의 공포</ImmortalOrgan.label>
+  <ImmortalOrgan.labelNoun>생물학적으로 폰을 불멸로 만들어주는 장기.</ImmortalOrgan.labelNoun>
+  <Aging.label>노화</Aging.label>
+  <Aging.description>a dummy hediffDef to add a tooltip for the make ImmuneTo tag</Aging.description>
+  <LymphaticProliferator.label>림프 증식자</LymphaticProliferator.label>
+  <LymphaticProliferator.labelNoun>면역력을 크게 향상시켜 정상적인 감염물질에 대한 면역력을 높여주는 기관</LymphaticProliferator.labelNoun>
+  <EvolvedReproductiveOrgans.label>진화된 생식기</EvolvedReproductiveOrgans.label>
+  <EvolvedReproductiveOrgans.stages.0.label>새로 이식됨</EvolvedReproductiveOrgans.stages.0.label>
+  <EvolvedReproductiveOrgans.stages.1.label>부분적으로 적응</EvolvedReproductiveOrgans.stages.1.label>
+  <EvolvedArm.label>진화된 팔</EvolvedArm.label>
+  <EvolvedArm.labelNoun>진화된 팔</EvolvedArm.labelNoun>
+  <EvolvedArm_Secondary.label>진화된 팔(아래)</EvolvedArm_Secondary.label>
+  <EvolvedArm_Secondary.labelNoun>진화된 팔(아래)</EvolvedArm_Secondary.labelNoun>
+  <EvolvedArmSabre.label>진화된 팔 검</EvolvedArmSabre.label>
+  <EvolvedArmSabre.labelNoun>진화된 팔 검</EvolvedArmSabre.labelNoun>
+  <EvolvedArmSabre_Secondary.label>진화된 팔 검(아래)</EvolvedArmSabre_Secondary.label>
+  <EvolvedArmSabre_Secondary.labelNoun>진화된 팔 검(아래)</EvolvedArmSabre_Secondary.labelNoun>
+  <EvolvedArmMace.label>진화된 팔 둔기</EvolvedArmMace.label>
+  <EvolvedArmMace.labelNoun>진화된 팔 둔기</EvolvedArmMace.labelNoun>
+  <EvolvedArmMace_Secondary.label>진화된 팔 둔기(아래)</EvolvedArmMace_Secondary.label>
+  <EvolvedArmMace_Secondary.labelNoun>진화된 팔 둔기(아래)</EvolvedArmMace_Secondary.labelNoun>
+  <EvolvedArmClaw.label>진화된 팔 발톱</EvolvedArmClaw.label>
+  <EvolvedArmClaw.labelNoun>진화된 팔 발톱</EvolvedArmClaw.labelNoun>
+  <EvolvedArmClaw_Secondary.label>진화된 팔 발톱(아래)</EvolvedArmClaw_Secondary.label>
+  <EvolvedArmClaw_Secondary.labelNoun>진화된 팔 발톱(아래)</EvolvedArmClaw_Secondary.labelNoun>
+  <EvolvedArmTentacle.label>진화된 팔 촉수</EvolvedArmTentacle.label>
+  <EvolvedArmTentacle.labelNoun>진화된 팔 촉수</EvolvedArmTentacle.labelNoun>
+  <EvolvedArmTentacle_Secondary.label>진화된 팔 촉수(아래)</EvolvedArmTentacle_Secondary.label>
+  <EvolvedArmTentacle_Secondary.labelNoun>진화된 팔 촉수(아래)</EvolvedArmTentacle_Secondary.labelNoun>
+  <EvolvedArmShield.label>진화된 팔 방패</EvolvedArmShield.label>
+  <EvolvedArmShield.labelNoun>진화된 팔 방패</EvolvedArmShield.labelNoun>
+  <EvolvedArmShield_Secondary.label>진화된 팔 방패(아래)</EvolvedArmShield_Secondary.label>
+  <EvolvedArmShield_Secondary.labelNoun>진화된 팔 방패(아래)</EvolvedArmShield_Secondary.labelNoun>
+
+</LanguageData>

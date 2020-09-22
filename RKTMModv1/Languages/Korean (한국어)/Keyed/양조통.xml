@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- VGP_Garden_Drinks-190815_1188485723 -->
+  <VG_ContainsIngredient>{2} {0} / {1}</VG_ContainsIngredient>
+  <VG_ContainsProduct>{2} {0} / {1}</VG_ContainsProduct>
+  <VG_NoIngredient>재료가 필요함</VG_NoIngredient>
+  <VG_IdealSafeFermentingTemperature>적절한 (안전한) 발효 온도</VG_IdealSafeFermentingTemperature>
+  <VG_Finished>완료됨</VG_Finished>
+  <VG_Ideal>적절함</VG_Ideal>
+  <VG_Safe>안전함</VG_Safe>
+
+  <!--1833592062_190816_RimCuisine 2 Core-->
+  <NoFermentingIngredient>재료가 필요함</NoFermentingIngredient>
+  <FermentingBuildingContainsSomething>{0} / {1} {2}(이)가 들어있습니다.</FermentingBuildingContainsSomething>
+
+  <!--1833163132_190826_Ceramics-->
+  <NoFermentingIngredient>재료가 필요함</NoFermentingIngredient>
+  <FermentingBuildingContainsSomething>{0} / {1} {2}(이)가 들어있습니다.</FermentingBuildingContainsSomething>
+
+</LanguageData>

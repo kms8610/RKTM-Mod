@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1240656304_190617_Lighter Than Fast-->
+  <LTF_KrapChunks.label>그랩틸 파편</LTF_KrapChunks.label>
+
+  <!--1314474881_181118_Avali-->
+  <Texts.label>텍스트</Texts.label>
+
+  <!--1365540920_190714_Black Widows-->
+  <BWTextiles.label>블랙 위도우 직물</BWTextiles.label>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <LotRD_BuildingsDwarven.label>드워프</LotRD_BuildingsDwarven.label>
+
+  <!--1543896230_190714_Playable Feral Orkz-->
+  <OGOWeapons.label>오크 무기</OGOWeapons.label>
+  <OGOMelee.label>오크 근접무기</OGOMelee.label>
+  <OGOArmour.label>오크 갑옷</OGOArmour.label>
+  <OGOHeadgear.label>오크 헤드기어</OGOHeadgear.label>
+  <OGOGear.label>오키쉬 기어</OGOGear.label>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <RRY_Weapons.label>무기</RRY_Weapons.label>
+  <RRY_RangedWeapons.label>야우차 원거리 무기</RRY_RangedWeapons.label>
+  <RRY_MeleeWeapons.label>근접 무기</RRY_MeleeWeapons.label>
+  <RRY_Apparel.label>의복</RRY_Apparel.label>
+  <RRY_Armour.label>갑옷</RRY_Armour.label>
+  <RRY_Headgear.label>헤드기어</RRY_Headgear.label>
+  <RRY_Addons.label>갑옷 부착물</RRY_Addons.label>
+  <RRY_Equipment.label>장비</RRY_Equipment.label>
+  <RRY_Corpses_Yautja.label>야우차 시체</RRY_Corpses_Yautja.label>
+  <RRY_Corpses_Xenomorph.label>제노모프 시체</RRY_Corpses_Xenomorph.label>
+
+  <!--1785657108_190811_Humanoid Project-->
+  <AlienPlantRaw.label>외계식물 성분</AlienPlantRaw.label>
+  <AlienTechBionics.label>고급 생체공학</AlienTechBionics.label>
+  <StimulatorsTech.label>자극기</StimulatorsTech.label>
+  <FluxRaceMedicine.label>플럭스 의약품</FluxRaceMedicine.label>
+  <EnergyWeapons.label>에너지 무기</EnergyWeapons.label>
+
+</LanguageData>

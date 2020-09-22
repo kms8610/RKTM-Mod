@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ANN_Shocker.label>충격기</ANN_Shocker.label>
+  <ANN_Shocker.description>손바닥 내부의 둥근 충격기와 손가락 관절을 감싸는 티타늄 금속판으로 구성된 전투용 손 이식물입니다. 네 개의 손가락을 구부리고 엄지손가락을 뒤로 당기면 전기 펄스가 활성화됩니다. 신체에서 전력을 공급받습니다.</ANN_Shocker.description>
+  <CW_PowerFist.label>파워 피스트</CW_PowerFist.label>
+  <CW_PowerFist.description>유압을 통해 힘을 증가시키고 펀치를 날리기 위한 팔뚝에 연결된 거대한 기계화 장갑입니다. 전투에선 흉포 그 자체이며, 강력한 미니 서보 기구들은 마치 맨손을 달걀을 으스러뜨리듯 두개골을 으스러뜨릴 수 있습니다. 이 프로토타입의의 연장판은 숨겨진 하이테크 연구소에서 만들어졌고 그들의 지하 시설에서 생산되었습니다. 제국주의 시대에 개발되었지만, 몇몇 독립국가들의 의해 아직까지도 보존되고 있습니다.\n\n병사들을 강화하여 문을 따거나 필요한곳에 통로를 만들어 내는 능력을 부여합니다. 밀쳐내기와 연타 능력을 가지게 됩니다.\n\n"오직 죽음만이 의무를 끝낸다. 가진 것이 없는 사람이라도 목숨을 바칠 수 있다. 황제가 우리를 보호하듯이 우리도 그래야 한다. 내 어휘중에 평화라는 단어는 없다."</CW_PowerFist.description>
+  <CW_PowerFist.tools.0.label>연타</CW_PowerFist.tools.0.label>
+  <CW_PowerFist.tools.1.label>분쇄</CW_PowerFist.tools.1.label>
+  <CW_PowerFist.tools.2.label>넉백</CW_PowerFist.tools.2.label>
+  <CW_EnergyClaw.label>에너지 클로</CW_EnergyClaw.label>
+  <CW_EnergyClaw.description>접이식 발톱 확장 장치로 팔뚝에 연결된 거대한 기계화 장갑입니다. 이 무기 시스템은 근접 전투 시 유압 동력을 이용하기 위해서 향상된 서보 모터를 제어합니다. 여러 대상을 타격하고 금속을 버터처럼 관통 할 수 있습니다. \n\n에너지 클로는 스페이스 마린 클랜 중에서 오래된 베테랑이 선호했습니다. 그들 중 가장 용감한 이들은 탱크에 침입하거나 기계에 올라타 안에서 부터 파괴했습니다.</CW_EnergyClaw.description>
+  <CW_EnergyClaw.tools.0.label>에너지 파열</CW_EnergyClaw.tools.0.label>
+  <CW_EnergyClaw.tools.1.label>칼날</CW_EnergyClaw.tools.1.label>
+  <CW_EnergyClaw.tools.2.label>클로</CW_EnergyClaw.tools.2.label>
+  <CW_EnergyClaw.tools.3.label>회피 찌르기</CW_EnergyClaw.tools.3.label>
+  <CW_EnergySword.label>에너지 소드</CW_EnergySword.label>
+  <CW_EnergySword.description>베고 찌르기를 하면서 변동하는 동력검입니다. 집중된 에너지는 칼날을 중장갑 사이로 밀어 넣을 수 있게 해줍니다. 스페이스 마린을 위해 만들어졌습니다.</CW_EnergySword.description>
+  <CW_EnergySword.tools.0.label>손잡이</CW_EnergySword.tools.0.label>
+  <CW_EnergySword.tools.1.label>칼끝</CW_EnergySword.tools.1.label>
+  <CW_EnergySword.tools.2.label>칼날</CW_EnergySword.tools.2.label>
+  <CW_ChainSword.label>체인 소드</CW_ChainSword.label>
+  <CW_ChainSword.description>손잡이에 복합 서보 모터가 달린 맹렬한 파워 칼입니다. 그것의 가장자리는 다이아몬드 재질의 날카로운 이빨로 된 톱니바퀴로 둘러싸여 있다. 이 원형은 1대 1의 전투로 탱크를 파괴하기 위해 스페이스마린이 가져온 것입니다. 큰 피해를 입히지만 조작하기는 어렵습니다.</CW_ChainSword.description>
+  <CW_ChainSword.tools.0.label>손잡이</CW_ChainSword.tools.0.label>
+  <CW_ChainSword.tools.1.label>칼끝</CW_ChainSword.tools.1.label>
+  <CW_ChainSword.tools.2.label>칼날</CW_ChainSword.tools.2.label>
+  <CW_Gunslinger.label>펄스</CW_Gunslinger.label>
+  <CW_Pulse.label>펄스</CW_Pulse.label>
+  <CW_GunBlade.label>건 블레이드</CW_GunBlade.label>
+  <CW_GunBlade.description>안정적으로 칼날 장착이 가능한 인체공학적 권총입니다. 이 방식은 널리 알려진 과거의 총 설계에 근거하는것으로 이러한 무기 유형이 근접 전투 능력이 부족하다는 것에 대한 반례입니다.</CW_GunBlade.description>
+  <CW_GunBlade.tools.0.label>손잡이</CW_GunBlade.tools.0.label>
+  <CW_GunBlade.tools.1.label>칼끝</CW_GunBlade.tools.1.label>
+  <CW_GunBlade.tools.2.label>칼날</CW_GunBlade.tools.2.label>
+  <CW_GunBlade.verbs.0.label>총잡이</CW_GunBlade.verbs.0.label>
+  <CW_GunBlade.verbs.1.label>펄스 발사</CW_GunBlade.verbs.1.label>
+  <CW_RiotBreaker.label>시위 분쇄자</CW_RiotBreaker.label>
+  <CW_RiotBreaker.description>전자기 소총을 반동 흡수기가 장착된 자동 탄창 교체식 산탄총으로 개조한 것입니다. 대용량 탄창을 지원하며, 근거리에서의 화력은 아주 강력합니다. 매우 위험한 죄수가 있는 최고 보안 감옥을 위해 제작되었습니다.</CW_RiotBreaker.description>
+  <CW_RiotBreaker.tools.0.label>개머리판</CW_RiotBreaker.tools.0.label>
+  <CW_RiotBreaker.tools.1.label>총열</CW_RiotBreaker.tools.1.label>
+  <Bullet_BallisticShredder.label>중분쇄기</Bullet_BallisticShredder.label>
+  <CW_BallisticShredder.label>분쇄기</CW_BallisticShredder.label>
+  <CW_BallisticShredder.description>작지만 넓은 구경을 지닌 납탄 발사체입니다. 사거리가 매우 짧으나, 육중한 공격을 하고 쉽게 다룰 수 있습니다. 더 큰 탄창과 자세 안정장치를 통한 낮은 반동을 가지고 있습니다.</CW_BallisticShredder.description>
+  <CW_BallisticShredder.tools.0.label>손잡이</CW_BallisticShredder.tools.0.label>
+  <CW_BallisticShredder.tools.1.label>총열</CW_BallisticShredder.tools.1.label>
+  <Bullet_BallisticCombatGun.label>돌격 탄환</Bullet_BallisticCombatGun.label>
+  <CW_BallisticCombatGun.label>전투 소총</CW_BallisticCombatGun.label>
+  <CW_BallisticCombatGun.description>야전이나 도시 전투를 위한 범용 가스 작동식 돌격 소총입니다. 대구경 탄창용으로 설계되었습니다. 케이스는 내부에 있는 복잡한 발사 기관을 뒤덮고 있습니다. 더 많은 화력을 제공하며 더 빠른 휘둘 수 있고, 더 나은 정확성을 보장합니다.</CW_BallisticCombatGun.description>
+  <CW_BallisticCombatGun.tools.0.label>개머리판</CW_BallisticCombatGun.tools.0.label>
+  <CW_BallisticCombatGun.tools.1.label>총열</CW_BallisticCombatGun.tools.1.label>
+  <Bullet_BallisticEnforcer.label>집행자 탄환</Bullet_BallisticEnforcer.label>
+  <CW_BallisticEnforcer.label>집행자</CW_BallisticEnforcer.label>
+  <CW_BallisticEnforcer.description>야간 작전을 위한 에너지 보조 돌격 소총입니다. 이 버전은 컴퓨터 시스템과 통합되어 화력과 정확도를 높였습니다. 과열 방지를 위해서 천천히 발사합니다. 보통 기계를 이용해 제작되며, 인간이 직접 제작하기엔 어렵습니다.</CW_BallisticEnforcer.description>
+  <CW_BallisticEnforcer.tools.0.label>개머리판</CW_BallisticEnforcer.tools.0.label>
+  <CW_BallisticEnforcer.tools.1.label>총열</CW_BallisticEnforcer.tools.1.label>
+  <Bullet_DisruptorOrb.label>전하 구체</Bullet_DisruptorOrb.label>
+  <Bullet_UltraEMP.label>울트라 EMP</Bullet_UltraEMP.label>
+  <Bullet_StunningForce.label>기절</Bullet_StunningForce.label>
+  <Bullet_NonLethalCharge.label>비살상</Bullet_NonLethalCharge.label>
+  <CW_Disruptor.label>분열기</CW_Disruptor.label>
+  <CW_Disruptor.description>전자 구체 생성기가 달린 중무장 권총으로 단일 목표물을 분열 시킵니다. 조정 가능한 전력 시스템은 원래 비 치명적 타격을 위해 만들어졌으며 한 번의 적중으로 모든 인간형을 제압합니다. 교도소형 행성의 표준 감독 장비입니다. 이 업그레이드 버전은 다른 4가지 발사 모드를 활성화 할 수 있습니다.</CW_Disruptor.description>
+  <CW_Disruptor.tools.0.label>손잡이</CW_Disruptor.tools.0.label>
+  <CW_Disruptor.tools.1.label>총열</CW_Disruptor.tools.1.label>
+  <CW_Disruptor.tools.2.label>칼날</CW_Disruptor.tools.2.label>
+  <CW_Disruptor.verbs.0.label>전하 구체</CW_Disruptor.verbs.0.label>
+  <CW_Disruptor.verbs.1.label>울트라 EMP</CW_Disruptor.verbs.1.label>
+  <CW_Disruptor.verbs.2.label>기절</CW_Disruptor.verbs.2.label>
+  <CW_Disruptor.verbs.3.label>비살상</CW_Disruptor.verbs.3.label>
+  <Bullet_NapalmFlame.label>불바다</Bullet_NapalmFlame.label>
+  <Bullet_NapalmBlast.label>농축된 네이팜</Bullet_NapalmBlast.label>
+  <Bullet_NapalmWave.label>농축된 네이팜</Bullet_NapalmWave.label>
+  <CW_NapalmBlaster.label>네이팜 블래스터</CW_NapalmBlaster.label>
+  <CW_NapalmBlaster.description>네이팜 탱크가 부착된 중무장 화염방사기입니다. 이 기계식 방화 장치는 길고 제어 가능한 액체형태의 불을 발사하기 위해 개발되었습니다. 내장된 점화 제어기로 열 단계를 간단하게 조정할 수 있습니다.</CW_NapalmBlaster.description>
+  <CW_NapalmBlaster.tools.0.label>개머리판</CW_NapalmBlaster.tools.0.label>
+  <CW_NapalmBlaster.tools.1.label>총열</CW_NapalmBlaster.tools.1.label>
+  <CW_NapalmBlaster.verbs.0.label>파렌하이트</CW_NapalmBlaster.verbs.0.label>
+  <CW_NapalmBlaster.verbs.1.label>지옥불</CW_NapalmBlaster.verbs.1.label>
+  <CW_NapalmBlaster.verbs.2.label>업화</CW_NapalmBlaster.verbs.2.label>
+  <Bullet_DualEraser.label>쌍 탄환</Bullet_DualEraser.label>
+  <CW_DualEraser.label>이중 말소자</CW_DualEraser.label>
+  <CW_DualEraser.description>거대한 탄창이 달린 속사 권총 한 쌍입니다. 빠른 발사를 통한 엄청난 화력이 있지만 그만큼 정밀도가 낮습니다. 주로 좁은 골목길이 있는 범죄율이 높은 도시계에서 볼 수 있습니다. 인공두뇌와 결합하여 근접한 상대를 대상으로 더 빠르게 재장전이 가능합니다.\n\n아킴보(쌍권총술)를 위해 만들어졌습니다.</CW_DualEraser.description>
+  <CW_DualEraser.tools.0.label>손잡이</CW_DualEraser.tools.0.label>
+  <CW_DualEraser.tools.1.label>총열</CW_DualEraser.tools.1.label>
+  <CW_DualEraser.verbs.0.label>동시 발사</CW_DualEraser.verbs.0.label>
+  <CW_DualEraser.verbs.1.label>연사</CW_DualEraser.verbs.1.label>
+  <Bullet_Accelerator.label>특이점</Bullet_Accelerator.label>
+  <CW_Accelerator.label>가속기</CW_Accelerator.label>
+  <CW_Accelerator.description>인공두뇌용 중화기입니다. 이 무지막지한 내부 코일은 정확한 타이밍에 맞춰 켜졌다 꺼짐으로써, 복합 발사체가 자기력을 통해 총열을 따라 빠르게 가속되게 합니다. 전환 시 탄약을 교체합니다.</CW_Accelerator.description>
+  <CW_Accelerator.tools.0.label>개머리판</CW_Accelerator.tools.0.label>
+  <CW_Accelerator.tools.1.label>총열</CW_Accelerator.tools.1.label>
+  <CW_Accelerator.verbs.0.label>특이점</CW_Accelerator.verbs.0.label>
+  <CW_Accelerator.verbs.1.label>충전</CW_Accelerator.verbs.1.label>
+  <CW_Accelerator.verbs.2.label>연사</CW_Accelerator.verbs.2.label>
+  <Bullet_PlasmaBlast.label>플라즈마 블래스트</Bullet_PlasmaBlast.label>
+  <Bullet_PlasmaBurst.label>플라즈마 브랜드</Bullet_PlasmaBurst.label>
+  <CW_PlasmaGun.label>플라즈마 총</CW_PlasmaGun.label>
+  <CW_PlasmaGun.description>인공두뇌용 중화기입니다. 이 무지막지한 코일은 정확한 타이밍에 맞춰 켜졌다 꺼지면서 자기력을 통해 초소형 폭발 발사체가 총열을 따라 빠르게 가속되게 합니다. 뛰어난 화력으로 전차와 함선을 파괴할 수 있도록 설계되었습니다.</CW_PlasmaGun.description>
+  <CW_PlasmaGun.tools.0.label>개머리판</CW_PlasmaGun.tools.0.label>
+  <CW_PlasmaGun.tools.1.label>총열</CW_PlasmaGun.tools.1.label>
+  <CW_PlasmaGun.verbs.0.label>융해</CW_PlasmaGun.verbs.0.label>
+  <CW_PlasmaGun.verbs.1.label>블래스터</CW_PlasmaGun.verbs.1.label>
+  <Bullet_HavocGrenadeLauncher.label>양자 볼트</Bullet_HavocGrenadeLauncher.label>
+  <CW_HavocLauncher.label>하복 발사기</CW_HavocLauncher.label>
+  <CW_HavocLauncher.description>일부 인공두뇌를 탑재한 불한당들이 길거리에서의 전투을 위해 조립한 넓은 막대형 다중 발사기입니다. 이 설계도는 빠르게 몇몇 회사들의 손에 넘어갔고, 복제품을 만들어냈습니다. 이후 잘 훈련된 군대를 고용해, 이 무기의 발명가들에게 사용했습니다. 포탄이 폭발하면서 작은 독극물 구름을 남깁니다. 이 뭉친 형태의 독은 몇 초 안으로 생체 장기들을 파괴합니다. \n\n그 악명은 지금까지 널리 알려져 있습니다.</CW_HavocLauncher.description>
+  <CW_HavocLauncher.tools.0.label>개머리판</CW_HavocLauncher.tools.0.label>
+  <CW_HavocLauncher.tools.1.label>총열</CW_HavocLauncher.tools.1.label>
+  <Bullet_FerromagneticEraser.label>강자성 말소자</Bullet_FerromagneticEraser.label>
+  <Bullet_EnergyCarrier.label>에너지 운반체</Bullet_EnergyCarrier.label>
+  <CW_CoilGun.label>코일 소총</CW_CoilGun.label>
+  <CW_CoilGun.description>전자석을 하나의 코일로 사용하는 직선형 모터 중(重)발사체 가속기로, 강자성을 가속시키거나 발사체를 고속으로 발사하여 비교할 수 없는 갑옷 관통력을 제공합니다. 뛰어난 화력으로 전차와 함선을 파괴할 수 있도록 설계되었습니다.</CW_CoilGun.description>
+  <CW_CoilGun.tools.0.label>개머리판</CW_CoilGun.tools.0.label>
+  <CW_CoilGun.tools.1.label>총열</CW_CoilGun.tools.1.label>
+  <CW_CoilGun.verbs.0.label>전차 파괴자</CW_CoilGun.verbs.0.label>
+  <CW_CoilGun.verbs.1.label>소멸</CW_CoilGun.verbs.1.label>
+  <Bullet_ReconBolter.label>에너지 광선</Bullet_ReconBolter.label>
+  <CW_ReconBolter.label>정찰대용 볼터</CW_ReconBolter.label>
+  <CW_ReconBolter.description>인공두뇌 전쟁을 위해 고안된 무거운 에너지 강화 장치입니다. 센서식 목표 조준 시스템과 함께 제공되며, 사용자의 시각과 정확도를 향상시키는 조종계로 연결할 수 있습니다. 엄청나게 긴 범위를 가지고 있으며, 중무장된 외피를 뚫고 순식간에 살점을 녹여 증발시킵니다.</CW_ReconBolter.description>
+  <CW_ReconBolter.tools.0.label>개머리판</CW_ReconBolter.tools.0.label>
+  <CW_ReconBolter.tools.1.label>총열</CW_ReconBolter.tools.1.label>
+  <LaserImpactThing.label>먼지</LaserImpactThing.label>
+  <LaserMoteWorker.label>먼지</LaserMoteWorker.label>
+
+</LanguageData>

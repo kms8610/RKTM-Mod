@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1240656304_190617_Lighter Than Fast-->
+  <LTF_Research_EngieBench.label>엔지 관리 일정 수립</LTF_Research_EngieBench.label>
+  <LTF_Research_EngieBench.description>엔지 작업대를 만들 수 있습니다 : - 맨티스 인조 손톱 (대장간에서도 제작 가능) -엔지 롬 - 졸탄 보호막 매트 [생산 탭]</LTF_Research_EngieBench.description>
+  <LTF_Research_MantisBladeT0.label>맨티스 교류 지원</LTF_Research_MantisBladeT0.label>
+  <LTF_Research_MantisBladeT0.description>최악의 상황에서, 맨티스는 강철로 만든 발톱으로 상대방과 좋은 대화를 나눌 수 있을 것입니다. 그것은 위로가 되어줍니다. 합성 발톱 설치에 필요한 것. 최신 업데이트를 해주세요. [엔지 작업대] [전기 제작대] [연료 제작대] [수술 레시피]</LTF_Research_MantisBladeT0.description>
+  <LTF_Research_RockmanStove.label>락맨 체온 수도자</LTF_Research_RockmanStove.label>
+  <LTF_Research_RockmanStove.description>암석 난로는 화학연료를 통해 온기를 제공합니다. 또한 암석덩어리를 녹일 수 있습니다. [생산 탭]</LTF_Research_RockmanStove.description>
+  <LTF_Research_Slug.label>슬러그 초보자</LTF_Research_Slug.label>
+  <LTF_Research_Slug.description>베라위카 레시피와 분비물로 실크로 만듭니다. [도축 작업대] [재봉 작업대]</LTF_Research_Slug.description>
+  <LTF_Research_ZoltanShieldBench.label>졸탄 아원자층 이론</LTF_Research_ZoltanShieldBench.label>
+  <LTF_Research_ZoltanShieldBench.description>보호막과 투구를 만들 수 있는 작업대입니다. 보호매트를 효과적으로 충전하려면 졸탄 보호막 작업대가 필요합니다. [보안 탭]</LTF_Research_ZoltanShieldBench.description>
+  <LTF_Research_EngieT1Roms.label>엔지 T1 물품들</LTF_Research_EngieT1Roms.label>
+  <LTF_Research_EngieT1Roms.description>T1 롬 제작에 필요합니다. T1 롬 설치에 필요합니다. [엔지작업대] [수술 레시피]</LTF_Research_EngieT1Roms.description>
+  <LTF_Research_MantisBladeT1.label>맨티스 벼리기</LTF_Research_MantisBladeT1.label>
+  <LTF_Research_MantisBladeT1.description>플라스틸과 맨티스의 손톱을 조합하여 날카롭게 합니다. [엔지 작업대] [전기 제작대] [연료 제작대]</LTF_Research_MantisBladeT1.description>
+  <LTF_Research_SlugProducts.label>슬러그 아마추어</LTF_Research_SlugProducts.label>
+  <LTF_Research_SlugProducts.description>고문에 가까운 자연 요리법입니다. - 알 + 분비물 = 더 많은 분미물 - 알 + 고철 덩어리 = 더 많은 덩어리 - 수정란 + 고철 덩어리 = ??? 결과를 확인해보려면 알을 던져보는 방법도 있습니다. [도축 작업대]</LTF_Research_SlugProducts.description>
+  <LTF_Research_Shieldmet.label>보호매트</LTF_Research_Shieldmet.label>
+  <LTF_Research_Shieldmet.description>보호막과 투구를 만들 수 있는 작업대입니다. 손상된 보호매트는 보호막 작업대에서 보호막층을 충전하여 차폐층을 충전합니다. [엔지 작업대]</LTF_Research_Shieldmet.description>
+  <LTF_Research_EngieT2Roms.label>엔지 T2 물품들</LTF_Research_EngieT2Roms.label>
+  <LTF_Research_EngieT2Roms.description>T2 롬 제작에 필요합니다. T2 원예롬을 설치하면 원예가 최대 113%가 됩니다. [엔지 작업대]</LTF_Research_EngieT2Roms.description>
+  <LTF_Research_Mindcontrol.label>정신 조종 작업대</LTF_Research_Mindcontrol.label>
+  <LTF_Research_Mindcontrol.description>위대한 힘은 좋은 시설과 함께 나옵니다. 적들의 정신을 조종할 수 있습니다. [보안 탭]</LTF_Research_Mindcontrol.description>
+  <LTF_Research_EngieT3Roms.label>엔지 T3 물품들</LTF_Research_EngieT3Roms.label>
+  <LTF_Research_EngieT3Roms.description>T3 롬 제작에 필요합니다. T3 연구롬을 설치하면 연구가 최대 125%가 됩니다. [엔지 작업대]</LTF_Research_EngieT3Roms.description>
+
+  <!--1294507772_190519_The Mantodean insectoid race-->
+  <OrganicStructuresTech.label>유기 구조물</OrganicStructuresTech.label>
+  <OrganicStructuresTech.description>일반적인 맨토디안 둥지에서 발견되는 건출물의 한 종류로, 이들이 생산하는 곤충 젤리는 압축, 건조되어 점토와 비슷한 응집구조를 형성하도록 할 수 있습니다.</OrganicStructuresTech.description>
+  <GlowPodsTech.label>화학발광</GlowPodsTech.label>
+  <GlowPodsTech.description>일부 해파리와 곤충이 자연적으로 빛을 생성하는 화학적 과정을 이해하면 새로운 지속 가능한 광원을 만들 수 있습니다.</GlowPodsTech.description>
+  <JellyMakerTech.label>곤충 젤리 생산</JellyMakerTech.label>
+  <JellyMakerTech.description>맨토디안만의 기술로, 미생물을 활용하지 않고 날고기를 분해하는 화학물질로 곤충젤리를 만들어냅니다. 이렇게 유기물은 먹을 수 있는 녹색 끈끈한 풀로 바뀌며, 다른 많은 것들에도 유용하게 사용됩니다.</JellyMakerTech.description>
+  <BlueJellyTech.label>파란 젤리 혼합</BlueJellyTech.label>
+  <BlueJellyTech.description>생물의 기초 대사율을 획기적으로 높이는 청색 끈끈이 풀인 파란 젤리 뿐만 아니라 생물학 화학 작업대를 만들 수 있게 됩니다. 이를 섭취하면 몸에서 엄청난 에너지를 태우기 시작하며 몸이 얼어붇는 위협적인 환경에서도 더 안전해집니다. 효과는 12시간동안 지속됩니다.</BlueJellyTech.description>
+  <BioTurrets.label>생물학 포탑</BioTurrets.label>
+  <BioTurrets.description>생명은 있지만 지각은 없는 이 유기체들은 돌연변이에 노출된 이후 신경조직이 발달하였습니다. 이들은 식별 가능한 적에 대해 반사적으로 독성 산성액을 뱉어냅니다.</BioTurrets.description>
+  <BioTraps.label>생물학 함정</BioTraps.label>
+  <BioTraps.description>산성무기를 활용해 기초적인 함정을 만들어냅니다.</BioTraps.description>
+  <AcidRefinery.label>화학 정제</AcidRefinery.label>
+  <AcidRefinery.description>화학적인 발열반응을 연구하여 전력에 의존하지 않고 제련과 정제작업을 할 수 있는 방법을 알아냅니다.</AcidRefinery.description>
+  <MutagensBenchResearch.label>돌연변이 제작법</MutagensBenchResearch.label>
+  <MutagensBenchResearch.description>구조물의 생성을 위해 사용되는 돌연변이 인자를 추가적으로 연구하여, 치명적인 부작용이 없이 맨토디안에게 직접 사용할 수 있도록 안정화합니다.</MutagensBenchResearch.description>
+
+  <!--1314474881_181118_Avali-->
+  <AvaliClothes.label>아발리 의류</AvaliClothes.label>
+  <AvaliClothes.description>아발리 의류를 만드는 연구를 진행합니다.\n\n독특한 신체 크기와 구조 때문에 아발리만 착용할 수 있습니다.</AvaliClothes.description>
+  <AvaliPlants.label>아발리 재배</AvaliPlants.label>
+  <AvaliPlants.description>키리 과일, 나카티 알, 피루 정착지 등의 아발리 고향의 식물을 재배하고 요리할 수 있습니다.</AvaliPlants.description>
+  <AvaliLifeSupportBelt.label>생명 유지 벨트</AvaliLifeSupportBelt.label>
+  <AvaliLifeSupportBelt.description>아발리가 직접 흡입할 수 있는 공기 방울을 만드는 생명 유지 벨트를 만듭니다.</AvaliLifeSupportBelt.description>
+  <AvaliHolograms.label>아발리 홀로그램</AvaliHolograms.label>
+  <AvaliHolograms.description>작고 현대적인 홀로그램 텔레비전을 만드는 방법을 연구합니다.</AvaliHolograms.description>
+  <AvaliDoors.label>군용 문</AvaliDoors.label>
+  <AvaliDoors.description>군사 벙커, 대피소 및 생산 단지를 위해 특별히 설계된 슈퍼 내구성이 문을 건설하는 방법을 연구합니다.</AvaliDoors.description>
+  <AvaliLighting.label>아발리 LED 조명</AvaliLighting.label>
+  <AvaliLighting.description>매우 효율적인 LED 램프를 건설하는 방법을 연구합니다.</AvaliLighting.description>
+  <AvaliSurvivalGear.label>생존장비</AvaliSurvivalGear.label>
+  <AvaliSurvivalGear.description>기본 환경 지원 시스템으로, 기초적인 생존장비와 헤드셋을 만드는 방법을 연구합니다.\n\n아발리만 입을 수 있고, 아발리만 연구할 수 있습니다.</AvaliSurvivalGear.description>
+  <AvaliScoutArmor.label>정찰병 갑옷</AvaliScoutArmor.label>
+  <AvaliScoutArmor.description>기본 환경 지원 시스템으로, 정찰병 갑옷과 정찰병 HUD를 만드는 방법을 연구합니다.\n\n아발리만 입을 수 있고, 아발리만 연구할 수 있습니다.</AvaliScoutArmor.description>
+  <AvaliExoskeleton.label>아발리 강화복</AvaliExoskeleton.label>
+  <AvaliExoskeleton.description>작업속도와 보행속도를 높이는 강화복을 만드는 방법을 연구합니다. 기본 환경 지원 시스템을 포함합니다.\n\n아발리만 입을 수 있고, 아발리만 연구할 수 있습니다.</AvaliExoskeleton.description>
+  <AvaliGuardianArmor.label>수호자 전투복</AvaliGuardianArmor.label>
+  <AvaliGuardianArmor.description>고급 환경 지원 시스템과 "수호자" 전투복을 만드는 방법을 연구합니다. 많은 종류의 갑옷이 있지만, 매우 무겁고 전자적인 도움은 거의 제공하지 않습니다.\n\n아발리만 입을 수 있고, 아발리만 연구할 수 있습니다.</AvaliGuardianArmor.description>
+  <AvaliCombatArmor.label>표준 전투복</AvaliCombatArmor.label>
+  <AvaliCombatArmor.description>고급 환경 지원 시스템과 아발리 전투복을 만드는 방법을 연구합니다. 갑옷과 사용자 지원 시스템의 균형을 적절하게 맞췄습니다.\n\n아발리만 입을 수 있고, 아발리만 연구할 수 있습니다.</AvaliCombatArmor.description>
+  <AvaliHellcatArmor.label>마녀 전투복</AvaliHellcatArmor.label>
+  <AvaliHellcatArmor.description>고급 환경 지원 시스템과 "마녀" 전투복을 만드는 방법을 연구합니다. 사용자 지원 시스템으 가볍게 무장합니다.\n\n아발리만 입을 수 있고, 아발리만 연구할 수 있습니다.</AvaliHellcatArmor.description>
+  <AvaliPrinting.label>나노선반</AvaliPrinting.label>
+  <AvaliPrinting.description>아발리 나노선반에서 아발리 기술로 신속하게 제작할 수 있는 방법을 연구합니다.</AvaliPrinting.description>
+  <AvaliWeaving.label>나노베틀</AvaliWeaving.label>
+  <AvaliWeaving.description>그래핀과 나노섬유를 짜기 위해 나노베틀을 제작하는 방법을 연구합니다.</AvaliWeaving.description>
+  <AvaliAerogel.label>에어로겔 인쇄</AvaliAerogel.label>
+  <AvaliAerogel.description>에어로겔을 인쇄하는 방법을 연구합니다. 에어로겔은 거의 무게가 없지만 놀라운 구조적 특성을 가진 격자구조를 가지고 있습니다.</AvaliAerogel.description>
+  <AvaliPlasteel.label>플라스틸 생성</AvaliPlasteel.label>
+  <AvaliPlasteel.description>플라스틸을 만드는 방법을 연구합니다. 이것은 철과 탄소 나누섬유로 내구성이 좋고 유연한 복합 재료입니다.</AvaliPlasteel.description>
+  <AvaliMelee.label>아발리 근접무기</AvaliMelee.label>
+  <AvaliMelee.description>나노선반 또는 기계 작업대에서 에어로겔로 창이나 칼을 제작하는 방법을 연구합니다.</AvaliMelee.description>
+  <AvaliRocketLaunchers.label>아발리 로켓</AvaliRocketLaunchers.label>
+  <AvaliRocketLaunchers.description>"불화살" 로켓 발사기와 로켓을 생산하는 방법을 연구합니다.</AvaliRocketLaunchers.description>
+  <AvaliRailguns.label>고속 무기</AvaliRailguns.label>
+  <AvaliRailguns.description>나노선반에서 아발리 레일건 무기 대부분을 생산할 수 있습니다.</AvaliRailguns.description>
+  <AvaliMiniguns.label>하이브리드 미니건</AvaliMiniguns.label>
+  <AvaliMiniguns.description>"우박" 하이브리드 미니건을 만드는 방법을 연구합니다.</AvaliMiniguns.description>
+  <AvaliNanites.label>나노기계 신체개조</AvaliNanites.label>
+  <AvaliNanites.description>신체 강화 나노기계 주입기들을 제작하는 방법을 연구합니다.</AvaliNanites.description>
+  <AvaliCybernetics.label>아발리 인공두뇌학</AvaliCybernetics.label>
+  <AvaliCybernetics.description>사용자의 능력을 향상시키는 인공지능 팔라디를 제작할 수 있습니다.\n\n아발리만 연구할 수 있습니다.</AvaliCybernetics.description>
+  <AvaliCyberneticsAdvanced.label>고급 인공두뇌학</AvaliCyberneticsAdvanced.label>
+  <AvaliCyberneticsAdvanced.description>플라스틸로 제작한 고급 인공지능 이식물을 만드는 방법을 연구합니다. 패거리 손실의 영향을 억제할 수 있습니다.\n\n아발리만 연구할 수 있습니다.</AvaliCyberneticsAdvanced.description>
+  <AvaliAugments.label>증강</AvaliAugments.label>
+  <AvaliAugments.description>조립 작업대에서 최상위 신체 이식물을 제작할 수 있습니다. 아발리가 아니어도 사용할 수 있습니다.</AvaliAugments.description>
+  <AvaliShieldBelt.label>아발리 방어 벨트</AvaliShieldBelt.label>
+  <AvaliShieldBelt.description>아발리 방어 벨트를 만드는 방법을 연구합니다.\n\n인간의 표준 방어 벨트와 비교해서 3배 더 강한 방어영역을 제공하며, 충전 지속시간이 2배 더 많습니다.</AvaliShieldBelt.description>
+  <AvaliTurretSmall.label>레일건 포탑</AvaliTurretSmall.label>
+  <AvaliTurretSmall.description>아발리 "켈베로스"포탑을 만드는 방법을 연구합니다.\n\n사격 대기시간은 길지만, 매우 긴 범위에서 강력하고 정확한 포격을 할 수 있습니다. 모든 아발리 포탐은 레일건 기술을 사용하기 때문에 많은 전력을 소비합니다.</AvaliTurretSmall.description>
+  <AvaliTurretMedium.label>하이브리드 미니건 포탑</AvaliTurretMedium.label>
+  <AvaliTurretMedium.description>아발리 "리퍼" 하이브리드 미니건 포탑을 만드는 방법을 연구합니다.\n\n사격속도가 높지만 비교적 약하고 정확하지 않습니다.</AvaliTurretMedium.description>
+  <AvaliTurretLarge.label>로켓 발사기 포탑</AvaliTurretLarge.label>
+  <AvaliTurretLarge.description>아발리 "채찍" 로켓 발사기 포탑을 만드는 방법을 연구합니다.\n\n사거리와 정확도의 완벽한 균형을 유지한 채 사용자가 선택한 발사속도로 고가의 고성능 폭약을 발사합니다.</AvaliTurretLarge.description>
+  <AvaliAeroponics.label>기경법</AvaliAeroponics.label>
+  <AvaliAeroponics.description>전통적인 수경 재배에 비해서 초기 비용이 높은 모듈식 에어로포닉을 구축하여, 더 빠르고 에너지효율적인 성장을 가능하게 합니다.</AvaliAeroponics.description>
+
+  <!--1365540920_190714_Black Widows-->
+  <BWGardens.label>블랙 위도우 식물학</BWGardens.label>
+  <BWGardens.description>블랙 위도우들은 대개 거대한 지하 단지에서 집을 지으며, 일반적으로는 휴식과 사냥을 위해서만 햇빛 속에서 모습을 드러냅니다. 그 결과, 이들의 농업 또한 주로 햇빛이 들지 않는 환경에서 식물을 키우는데 초점이 맞춰져있습니다. 블랙 위도우의 정원흙과 묘지 덤불을 만들 수 있게 됩니다.</BWGardens.description>
+  <BWCorpseFlowers.label>블랙 위도우 시체꽃</BWCorpseFlowers.label>
+  <BWCorpseFlowers.description>블랙 위도우의 시체꽃은 죽은 인간형 생물의 잠재적인 심적 욕구를 먹고 자랍니다. 이들의 꽃은 위도우 정원의 어두운 집과 방들을 밝혀주어 다양한 식물들을 기를 수 있게 해주며, 수확시 가벼운 마약성 와인으로 발효할 수 있습니다. 꽃을 소비하면 그 사람의 기억을 환기시킬 수 있습니다.</BWCorpseFlowers.description>
+  <BWBionics.label>블랙 위도우 생체공학</BWBionics.label>
+  <BWBionics.description>블랙 위도우 군대에서 가장 위험한 병사들은 그들 스스로가 위험한 무기가 될 수 있도록 특별히 고안된 생체공학 보철물들로 강화된 이들입니다. 블랙 위도우 파쇄기 다리와 생체공학 각수를 만들 수 있게 됩니다.</BWBionics.description>
+  <BWWidowThrone.label>블랙 위도우 무덤 - 왕좌</BWWidowThrone.label>
+  <BWWidowThrone.description>리버 기술의 산물인 무덤 왕좌는 모든 블랙 위도우 제국 세계에서는 불법입니다. 그러나 제국의 군대 내부에서는 아직도 동면관의 위도우 재장초에 의해 생산된 재료로만 만들어질 수 있는 '왕좌 실크'를 여전히 많이 사용하고 있으며, 이로인해 멀리 떨어진 변방계의 불법적인 재벌들은 이를 생산하면서 호황을 누리고 있습니다.</BWWidowThrone.description>
+  <BWAbyssSilk.label>블랙 위도우 심연 실크 엮기</BWAbyssSilk.label>
+  <BWAbyssSilk.description>심연의 실크는 왕좌 실크와 위도우 실크를 엮어낸 복합 실크로, 놀랍도록 아름답고 탄력있는 귀중한 물건입니다. 가장 뛰어난 방직공만이 이것을 만들 수 있으며, 만드는 데에는 끔찍한 희생을 필요로 합니다.</BWAbyssSilk.description>
+
+  <!--1400227853_190602_Lord of the Rims - Hobbits-->
+  <LotRH_WeaponsOne.label>쿠두크!(Kuduk : 호빗)</LotRH_WeaponsOne.label>
+  <LotRH_WeaponsOne.description>&lt;i>호빗들s!&lt;/i>\n\n급할 때 무기로 사용할 수 있는 호빗의 도구가 잠금해제됩니다.:\n- 호빗 쇠스랑\n- 호빗 발목도끼</LotRH_WeaponsOne.description>
+  <LotRH_WeaponsTwo.label>호빗 검</LotRH_WeaponsTwo.label>
+  <LotRH_WeaponsTwo.description>&lt;i>대부분의 사람들에겐 그냥 멋있는 칼일 뿐이지만, 호빗들에겐 이 검은 전쟁을 위해 만들어진 적절한 무기입니다!\n가장 모험적인 호빗들만이 이러한 무기가 존재한다는 것을 알고있습니다.&lt;/i>\n\n적당한 호빗 무기를 잠금해제합니다.:\n- 호빗 바스켓힐트 검</LotRH_WeaponsTwo.description>
+  <LotRH_ApparelOne.label>호빗 전통의복</LotRH_ApparelOne.label>
+  <LotRH_ApparelOne.description>&lt;i>중간계의 어떤 다른 종족들보다도 짧고, 종종 게으르고 둥근 체형의 호빗들은 특별한 옷을 필요로 합니다.&lt;/i>\n\n편안한 크기의 호빗 의류를 잠금해제합니다.:\n- 호빗 드레스\n- 호빗 셔츠와 조끼\n- 호빗 바지\n- 호빗 자켓\n- 호빗 후드 달린 망토\n- 호빗 여행자 가방</LotRH_ApparelOne.description>
+  <LotRH_StructuresOne.label>호빗의 구덩이, 스미엘(Smial)</LotRH_StructuresOne.label>
+  <LotRH_StructuresOne.description>&lt;i>바닥에 난 구멍의 지하에는 호빗이 살고있습니다. 고약하고, 더럽고, 젖은 구멍, 벌레의 똥구멍이나 진흙냄새로 가득찬 구멍, 앉을 수도 없고, 먹을 것도 전혀 없는 건조하고 헐벗은 모래구멍도 아닙니다.: 그것은 호빗의 구멍이었고, 이는 편안한 주거용 건물임을 의미했씁니다.&lt;/i>\n\n잠금해제:\n- 흙 언덕</LotRH_StructuresOne.description>
+  <LotRH_StructuresTwo.label>호빗 문</LotRH_StructuresTwo.label>
+  <LotRH_StructuresTwo.description>호빗 구멍에 맞는 문을 만들 수 있습니다.\n\n잠금해제:\n- 호빗 문\n- 호빗 아치</LotRH_StructuresTwo.description>
+  <LotRH_StructuresThree.label>파티 나무</LotRH_StructuresThree.label>
+  <LotRH_StructuresThree.description>멋진 나무입니다! 모임이나 연설을 하기에 이상적인 장소입니다!\n\n잠금해제:\n- 파티 나무 재배</LotRH_StructuresThree.description>
+  <LotRH_PipeweedOne.label>호빗 파이프 담배</LotRH_PipeweedOne.label>
+  <LotRH_PipeweedOne.description>&lt;i>달콤한 갈레나스(Galenas)&lt;/i>\n\n가장 유명한 호빗, 토볼드 혼블러가 처음으로 배재한 향긋하고 부드러운 식물입니다.\n\n잠금해제:\n- 호빗 파이프 담배와 그릇</LotRH_PipeweedOne.description>
+
+  <!--1400234784_190526_Lord of the Rims - Elves-->
+  <LotRE_WeaponsOne.label>쿠엔디(Quendi)</LotRE_WeaponsOne.label>
+  <LotRE_WeaponsOne.description>&amp;lt;i&amp;gt;엘프들!&amp;lt;/i&amp;gt;\n\n가장 기본적인 엘프의 무기가 잠금해제됩니다.:\n- 엘프 흰색 칼\n- 어둠숲나무 엘프 활</LotRE_WeaponsOne.description>
+  <LotRE_WeaponsTwo.label>라초 칼라드!(Lacho calad:화염의 빛)</LotRE_WeaponsTwo.label>
+  <LotRE_WeaponsTwo.description>&amp;lt;i&amp;gt;엘프의 전쟁 도구들!&amp;lt;/i&amp;gt;\n\n일반적인 엘프의 무기가 잠금해제됩니다.:\n- 엘프 세이버\n- 갈라드림 엘프 활</LotRE_WeaponsTwo.description>
+  <LotRE_WeaponsThree.label>드레고 모른!(Drego morn:달아나는 밤)</LotRE_WeaponsThree.label>
+  <LotRE_WeaponsThree.description>&lt;i>엘프가 당신을 겨눈다!&lt;/i>\n\n중간계 첫 번째 자손의 합당한 무기를 잠금해제합니다.:\n- 엘프 랑\n- 리븐델 활</LotRE_WeaponsThree.description>
+  <LotRE_ArmorOne.label>쿠엔디(Quendi) 의상</LotRE_ArmorOne.label>
+  <LotRE_ArmorOne.description>에루 일루바타르(Eru Ilúvatar)의 피조물로서, 엘프들은 에루(Eru)의 아이들이나 인간, 드워프들과는 조금 다른 형태를 지녔습니다. 한마디로, 엘프의 체형에는 조금 특수한 재봉이 필요합니다. 엘프의 편안한 복장이 잠금해제됩니다.:\n- 엘프 망토\n- 엘프 로브</LotRE_ArmorOne.description>
+  <LotRE_ArmorTwo.label>둥근방패와 갑옷 단조</LotRE_ArmorTwo.label>
+  <LotRE_ArmorTwo.description>전쟁의 참상에 대비해, 엘프들에게 갑옷과 투구를 준비하도록 합니다.:\n- 팔라스 엘프 갑옷과 투구\n- 실반 엘프 갑옷과 투구\n- 엘프 둥근방패</LotRE_ArmorTwo.description>
+  <LotRE_ArmorThree.label>선조의 갑옷</LotRE_ArmorThree.label>
+  <LotRE_ArmorThree.description>믿을 수 없는 엘프 품질의 갑옷들로 엘프를 보호합니다.:\n- 갈라드림 엘프 갑옷과 투구</LotRE_ArmorThree.description>
+  <LotRE_ArmorFour.label>놀도르(Ñoldor:엘프 일족)의 갑옷</LotRE_ArmorFour.label>
+  <LotRE_ArmorFour.description>박아넣고, 세기고, 제조하여 일루바타르(Ilúvatar)의 자손들에게 걸맞는 뛰어난 품질의 갑옷을 잠금해제합니다. :\n- 놀도르 엘프 갑옷과 투구, 그리고 방패\n- 엘프 왕관</LotRE_ArmorFour.description>
+  <LotRE_FurnitureOne.label>엘프 가구</LotRE_FurnitureOne.label>
+  <LotRE_FurnitureOne.description>엘프의 가구는 엘프들만큼이나 우아합니다.:\n- 엘프 식탁 (2x2)\n- 엘프 의자\n- 엘프 라운지 침대</LotRE_FurnitureOne.description>
+  <LotRE_FurnitureTwo.label>엘프 조명</LotRE_FurnitureTwo.label>
+  <LotRE_FurnitureTwo.description>어두운 장소에서 빛을 제공하기위해 엘프 촛대를 잠금해제합니다.:\n- 엘프 나뭇가지 촛대</LotRE_FurnitureTwo.description>
+  <LotRE_FurnitureThree.label>엘프 고급 가구</LotRE_FurnitureThree.label>
+  <LotRE_FurnitureThree.description>엘프들만이 만들 수 있는 높은 품질의 가구입니다.:\n- 엘프 고급 침대</LotRE_FurnitureThree.description>
+  <LotRE_StructuresOne.label>엘프들만이 만들 수 있는 높은 품질의 가구입니다.:\n- 엘프 고급 침대</LotRE_StructuresOne.label>
+  <LotRE_StructuresOne.description>엘프 자신들만큼이나 우아한 울타리입니다.:\n- 엘프 장식 울타리\n- 엘프 장식 울타리와 문</LotRE_StructuresOne.description>
+  <LotRE_StructuresTwo.label>우드랜드 난로</LotRE_StructuresTwo.label>
+  <LotRE_StructuresTwo.description>정교한 엘프 세공이 들어간 벽을 만들 수 있습니다.:\n- 엘프 조각된 벽</LotRE_StructuresTwo.description>
+  <LotRE_StructuresThree.label>엘프 요새화</LotRE_StructuresThree.label>
+  <LotRE_StructuresThree.description>엘프들이 만든 문은 아름답고 강합니다.:\n- 엘프 관문\n- 엘프 조각된 총안구</LotRE_StructuresThree.description>
+  <LotRE_RecipesOne.label>엘프의 식빵</LotRE_RecipesOne.label>
+  <LotRE_RecipesOne.description>렘바스로 만든 빵으로, 한 번 먹으면 성인 인간의 위장을 채우거나 호빗의 위장을 4분의 1 정도는 채우기에 충분합니다.:\n- 렘바스 가루\n- 렘바스 빵 덩어리\n- 렘바스</LotRE_RecipesOne.description>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <LotRD_WeaponsOne.label>카자드!(Khazâd!)</LotRD_WeaponsOne.label>
+  <LotRD_WeaponsOne.description>&amp;lt;i&amp;gt;드워프들!&amp;lt;/i&amp;gt;\n\n가장 기본적인 드워프의 무기가 잠금해제됩니다.:\n- 드워프 작업도끼\n- 드워프 창</LotRD_WeaponsOne.description>
+  <LotRD_WeaponsTwo.label>바루크 카자드!(Baruk Khazâd!)</LotRD_WeaponsTwo.label>
+  <LotRD_WeaponsTwo.description>&amp;lt;i&amp;gt;도끼를 든 드워프들이!&amp;lt;/i&amp;gt;\n\n일반적인 드워프의 무기가 잠금해제됩니다.:\n- 드워프 검\n- 드워프 활</LotRD_WeaponsTwo.description>
+  <LotRD_WeaponsThree.label>카자드 에이-메뉴!(Khazâd ai-mênu!)</LotRD_WeaponsThree.label>
+  <LotRD_WeaponsThree.description>&lt;i>네놈 잡으러 간다!&lt;/i>\n\n'아울레(Aulë)'의 아이들에게 합당한 무기를 잠금해제합니다.:\n- 드워프 양손도끼\n- 드워프 귀족 검\n- 드워프 석궁</LotRD_WeaponsThree.description>
+  <LotRD_ArmorOne.label>아울레온나르(Aulëonnar)의 의복</LotRD_ArmorOne.label>
+  <LotRD_ArmorOne.description>아울레의 아이들로서, 드워프들은 에루 일루바타르(Eru Ilúvatar)의 아이들이나 인간, 엘프들과는 조금 다른 형태를 지녔습니다. 한마디로, 드워프의 체형에는 조금 특수한 재봉이 필요합니다. 다음과 같은 편안한 드워프 복장이 잠금해제됩니다.:\n- 드워프 튜닉\n- 드워프 바지</LotRD_ArmorOne.description>
+  <LotRD_ArmorTwo.label>방패 제작 및 사슬갑옷</LotRD_ArmorTwo.label>
+  <LotRD_ArmorTwo.description>전쟁의 참상에 대비해, 드워프들에게 갑옷과 투구를 준비하도록 합니다.:\n- 긴수염 드워프 체인코트와 투구\n- 드워프 방패</LotRD_ArmorTwo.description>
+  <LotRD_ArmorThree.label>강철 언덕의 갑옷</LotRD_ArmorThree.label>
+  <LotRD_ArmorThree.description>강철 언덕의 드워프들에게서 영감을 받아 제작된 갑옷들로 드워프들을 무장시킵니다.:\n- 언덕 드워프 갑옷과 투구\n- 언덕 드워프 방패</LotRD_ArmorThree.description>
+  <LotRD_ArmorFour.label>지하 산악 왕국의 갑옷</LotRD_ArmorFour.label>
+  <LotRD_ArmorFour.description>아울레의 아이들로서, 드워프들은 에루 일루바타르(Eru Ilúvatar)의 아이들이나 인간, 엘프들과는 조금 다른 형태를 지녔습니다. 한마디로, 드워프의 체형에는 조금 특수한 재봉이 필요합니다. 다음과 같은 편안한 드워프 복장이 잠금해제됩니다.:\n- 드워프 튜닉\n- 드워프 바지</LotRD_ArmorFour.description>
+  <LotRD_FurnitureOne.label>드워프 가구</LotRD_FurnitureOne.label>
+  <LotRD_FurnitureOne.description>드워프들의 기술력으로, 일반적인 드워프 풍의 가구들을 만들 수 있게됩니다.:\n- 드워프 의자\n- 드워프 식탁\n- 드워프 협탁\n- 드워프 옷장\n- 드워프 놀이 탁자</LotRD_FurnitureOne.description>
+  <LotRD_FurnitureTwo.label>드워프 조명</LotRD_FurnitureTwo.label>
+  <LotRD_FurnitureTwo.description>어두운 지하에 빛을 밝히기 위한 드워프들의 가구들을 잠금해제합니다.:\n- 드워프 샹들리에\n- 드워프 촛대\n- 드워프 화로상자</LotRD_FurnitureTwo.description>
+  <LotRD_FurnitureThree.label>이든 딘(Ithildin)</LotRD_FurnitureThree.label>
+  <LotRD_FurnitureThree.description>미스릴 합금을 사용하여 특수한 조명을 만듭니다.:\n- 드워프 샹들리에\n- 드워프 촛대\n- 드워프 화로상자</LotRD_FurnitureThree.description>
+  <LotRD_StructuresOne.label>드워프 요새</LotRD_StructuresOne.label>
+  <LotRD_StructuresOne.description>드워프라는 이름에 걸맞는 강력한 문과 튼튼한 벽을 만들 수 있게 합니다.:\n- 드워프 강화 문\n- 드워프 강화 벽</LotRD_StructuresOne.description>
+  <LotRD_StructuresTwo.label>거대한 정문</LotRD_StructuresTwo.label>
+  <LotRD_StructuresTwo.description>중앙 홀에 적들이 침입하는 것을 막기위한 거대한 문을 만들 수 있게 합니다.:\n- 드워프 강화 문\n- 드워프 강화 벽</LotRD_StructuresTwo.description>
+  <LotRD_Kingdom.label>드워프 왕국</LotRD_Kingdom.label>
+  <LotRD_Kingdom.description>&lt;i>그는 왕좌에 앉은 왕이었다네\n돌로 만든 기둥이 빼곡한 홀에서\n 금빛의 지붕과 은빛의 바닥에 둘러싸인채,\n룬으로 강화된 문 뒤에 있었다네. - 두린의 노래 중 -&lt;/i>\n\n진정한 왕국을 재건하십시오. 다음과 같은 건물과 의복을 잠금해제합니다.:\n- 드워프 왕좌\n- 드워프 왕의 왕관\n- 언덕 드워프 왕의 투구</LotRD_Kingdom.description>
+  <LotRD_Brewing.label>드워프 양조주</LotRD_Brewing.label>
+  <LotRD_Brewing.description>생 꿀뿌리를 이용해 벌꿀 술을 만드는 기적을 잠금해제합니다.:\n\n- 발효통(벌꿀술)</LotRD_Brewing.description>
+  <LotRD_ToyMaking.label>드워프 장난감 제작</LotRD_ToyMaking.label>
+  <LotRD_ToyMaking.description>대장간에서 다음과같은 장난감을 만들 수 있습니다.:\n- 퍼즐 상자\n- 대리석 미로\n- 엘프 인형</LotRD_ToyMaking.description>
+
+  <!--1416483638_190811_Orassans-->
+  <BetharianScanning.label>베사리안 스캐닝</BetharianScanning.label>
+  <BetharianScanning.description>심층 스캐너에 베사리안 스톤을 스캐닝할 수 있는 기능을 추가합니다.</BetharianScanning.description>
+  <DeepDrillBoring.label>베사리안 천공기</DeepDrillBoring.label>
+  <DeepDrillBoring.description>베사리안 스톤을 발굴할 수 있는 천공기를 만들 수 있습니다.</DeepDrillBoring.description>
+  <BetherianPower.label>베사리안 발전기</BetherianPower.label>
+  <BetherianPower.description>베사리안 스톤을 이용해 전력을 생산하는 발전기를 만들 수 있습니다.</BetherianPower.description>
+  <ShieldAssembly.label>보호막 생성기</ShieldAssembly.label>
+  <ShieldAssembly.description>궤도 폭격을 방지할 수 있는 보호막 생성기를 만들 수 있습니다.</ShieldAssembly.description>
+  <OMachining.label>고급 기계가공</OMachining.label>
+  <OMachining.description>기계가공 공정의 발전으로 오라산 무기와 갑옷을 만들 수 있습니다.</OMachining.description>
+  <OPoweredArmor.label>오라산 외골격</OPoweredArmor.label>
+  <OPoweredArmor.description>고급 외골격 프레임을 이용한 오라산 외골격 방어구와 헬멧을 만들 수 있습니다.</OPoweredArmor.description>
+  <OChargedShot.label>오라산 무기체계</OChargedShot.label>
+  <OChargedShot.description>펄스 충전 에너지/발사체의 비밀을 풀어냅니다. 충전형 소총을 만들 수 있습니다.</OChargedShot.description>
+
+  <!--1543896230_190714_Playable Feral Orkz-->
+  <OrkTekBase.label>오키쉬 컬쳐</OrkTekBase.label>
+  <OrkTekBase.description>오키쉬 '컬쳐'에 대한 기본적인 이해</OrkTekBase.description>
+  <OrkishBrutality.label>아키쉬 야만성</OrkishBrutality.label>
+  <OrkishBrutality.description>기본적인 수준의 오키쉬 근접무기들을 만들 수 있습니다.</OrkishBrutality.description>
+  <OrkishArmour.label>오키쉬 갑옷</OrkishArmour.label>
+  <OrkishArmour.description>기본적인 수준의 오키쉬 갑옷을 만들 수 있습니다.</OrkishArmour.description>
+  <OrkishExtremeBrutality.label>오키쉬 극단적인 야만성</OrkishExtremeBrutality.label>
+  <OrkishExtremeBrutality.description>더욱 야만적인 수준의 오키쉬 근접무기들을 만들 수 있습니다.</OrkishExtremeBrutality.description>
+  <OrkishEavyArmour.label>오키쉬 에비 갑옷</OrkishEavyArmour.label>
+  <OrkishEavyArmour.description>더 향상된 오키쉬 갑옷을 만들 수 있습니다.</OrkishEavyArmour.description>
+
+  <!--1545178908_190519_Callistans(1.0)-->
+  <CallistanSalvaging.label>기본 분해</CallistanSalvaging.label>
+  <CallistanSalvaging.description>분해자 장비를 기지 내에 건설할 수 있게 됩니다. 메카노이드를 사냥할 시간이군요.</CallistanSalvaging.description>
+  <CallistanFood.label>식품 가공</CallistanFood.label>
+  <CallistanFood.description>맛있는 고기로 정착민들의 배고픔을 채워보세요!</CallistanFood.description>
+  <CallistanWeapons.label>분해자 무기</CallistanWeapons.label>
+  <CallistanWeapons.description>분해한 메카노이드 부품을 통해서 무기를 만들 수 있는 법을 알게됩니다.</CallistanWeapons.description>
+  <CallistanMesh.label>분해자 직조</CallistanMesh.label>
+  <CallistanMesh.description>분해한 메카노이드 부품을 통해서 강화된 옷을 만들어 낼 수 있습니다.</CallistanMesh.description>
+  <CallistanPower.label>동력 코어 조작</CallistanPower.label>
+  <CallistanPower.description>메카노이드 코어에 숨겨진 잠재력을 끌어올립니다. 기지에 전력을 보급하는데에 이용할 수 있습니다.</CallistanPower.description>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <RRY_XenomorphCrafting.label>제노모프 제작법</RRY_XenomorphCrafting.label>
+  <RRY_XenomorphCrafting.description>제노모프의 신체 부위를 활용해 기본적인 무기와 방어구를 만듭니다.</RRY_XenomorphCrafting.description>
+  <RRY_YautjaTechBase.label>야우차 기초 기술</RRY_YautjaTechBase.label>
+  <RRY_YautjaTechBase.description>기본적인 수준의 야우차 장비들을 만들 수 있습니다.</RRY_YautjaTechBase.description>
+  <RRY_YautjaTechMid.label>야우차 공통 기술</RRY_YautjaTechMid.label>
+  <RRY_YautjaTechMid.description>일반적인 수준의 야우차 장비들을 만들 수 있습니다.</RRY_YautjaTechMid.description>
+  <RRY_YautjaTechHigh.label>야우차 향상된 기술</RRY_YautjaTechHigh.label>
+  <RRY_YautjaTechHigh.description>눞은 수준의 야우차 장비들을 만들 수 있습니다.</RRY_YautjaTechHigh.description>
+  <RRY_YautjaMelee_Basic.label>야우차 간단한 근접 무기</RRY_YautjaMelee_Basic.label>
+  <RRY_YautjaMelee_Basic.description>기본적인 수준의 야우차 근접무기들을 만들 수 있습니다.</RRY_YautjaMelee_Basic.description>
+  <RRY_YautjaMelee_Special.label>야우차 특수 근접 무기</RRY_YautjaMelee_Special.label>
+  <RRY_YautjaMelee_Special.description>전문적인 수준의 야우차 근접무기들을 만들 수 있습니다.</RRY_YautjaMelee_Special.description>
+  <RRY_YautjaRanged_Basic.label>야우차 간단한 원거리 무기</RRY_YautjaRanged_Basic.label>
+  <RRY_YautjaRanged_Basic.description>기본적인 수준의 야우차 원거리 무기들을 만들 수 있습니다.</RRY_YautjaRanged_Basic.description>
+  <RRY_YautjaRanged_Med.label>야우차 원거리 무기</RRY_YautjaRanged_Med.label>
+  <RRY_YautjaRanged_Med.description>일반적인 수준의 야우차 원거리 무기들을 만들 수 있습니다.</RRY_YautjaRanged_Med.description>
+  <RRY_YautjaRanged_Adv.label>야우차 고급형 원거리 무기</RRY_YautjaRanged_Adv.label>
+  <RRY_YautjaRanged_Adv.description>고급형의 야우차 원거리 무기들을 만들 수 있습니다.</RRY_YautjaRanged_Adv.description>
+  <RRY_YautjaMediComp.label>의학 화합물</RRY_YautjaMediComp.label>
+  <RRY_YautjaMediComp.description>손목 칼날 건틀렛에 의학적 화합물을 추가합니다.</RRY_YautjaMediComp.description>
+  <RRY_YautjaHealthShard.label>재생 주사기</RRY_YautjaHealthShard.label>
+  <RRY_YautjaHealthShard.description>손목 칼날 건틀렛 의학적 화합물에 재생 주사기를 추가합니다.</RRY_YautjaHealthShard.description>
+  <RRY_YautjaCloakGenerator.label>은폐장 발생기</RRY_YautjaCloakGenerator.label>
+  <RRY_YautjaCloakGenerator.description>손목 칼날 건틀렛에 은폐장 발생기를추가합니다.</RRY_YautjaCloakGenerator.description>
+  <RRY_Yautja_Traps.label>기본적인 야우차 함정</RRY_Yautja_Traps.label>
+  <RRY_Yautja_Traps.description>기본형 야우차 함정(재장전)을 만들 수 있습니다.</RRY_Yautja_Traps.description>
+
+  <!--1571323744_190714_Crystalloid (Rewrite)-->
+  <CrystalloidProduction.label>결정질 재구성</CrystalloidProduction.label>
+  <CrystalloidProduction.description>수정에 다른 모양을 취하도록 조작해 용도를 크게 확대시킬 수 있도록 합니다.</CrystalloidProduction.description>
+  <CrystalloidPower.label>사이오닉 에너지 태핑</CrystalloidPower.label>
+  <CrystalloidPower.description>잠재적인 사이오닉 필드를 전기 에너지로 만들 수 있습니다.</CrystalloidPower.description>
+  <ShardWeapons.label>파편 무기</ShardWeapons.label>
+  <ShardWeapons.description>결정체 파편을 발사해 목표물을 조각내버리는 무기를 제작합니다.</ShardWeapons.description>
+  <CrystalloidWeaving.label>결정질 방직</CrystalloidWeaving.label>
+  <CrystalloidWeaving.description>수정을 얇은 가득으로 만들어 옷감으로 만들 수 있습니다.</CrystalloidWeaving.description>
+  <PsionicWeapons.label>사이오닉 무기</PsionicWeapons.label>
+  <PsionicWeapons.description>사이오닉 무기는 총알과는 다른 방식으로 갑옷을 입은 적에게 효과적으로 피해를 입힐 수 있습니다.</PsionicWeapons.description>
+  <CrystalloidConstructs.label>크리스탈로이드 기본 건축</CrystalloidConstructs.label>
+  <CrystalloidConstructs.description>조작이 가능한 간단한 프리즘 구조체로 정착지를 방어하는데 도움이 되는 구조물을 만들 수 있습니다.</CrystalloidConstructs.description>
+  <CrystalloidConstructs2.label>고급 건축설계</CrystalloidConstructs2.label>
+  <CrystalloidConstructs2.description>프리즘보다 훨씬 더 많은 화력을 확보한 구조물을 만들 수 있습니다.</CrystalloidConstructs2.description>
+
+  <!--1632244750_190708_Oni of the Rim-->
+  <OniDevilstrand.label>오니가닥</OniDevilstrand.label>
+  <OniDevilstrand.description>악마가닥과 오니의 깃털을 결합해 엮은 직물입니다. 이들이 결합되면서 독특한 화학작용이 일어나, 악마가닥의 방호력이 더욱 개선됩니다. 고대 오니의 털실처럼 튼튼하다는 소문이 있습니다.</OniDevilstrand.description>
+  <OniNewPlants.label>오니 식물 씨 뿌리기</OniNewPlants.label>
+  <OniNewPlants.description>오니가 재배할 수 있는 변종 식물을 파종하는 방법을 배웁니다.:깃털잎, 악마의 숨결, 요카이 고추.\n\n정착민들에게 어떻게 재배하는지 가르치고 연구하기 위해서는 오니가 필요합니다.</OniNewPlants.description>
+  <YokaiPepperNarcotic.label>요카이 마취약</YokaiPepperNarcotic.label>
+  <YokaiPepperNarcotic.description>요카이 마취약은 요카이 고추와 연초잎으로부터 농축액을 추출하고 혼합한 다음 곱게 갈아 약초와 혼합한 약입니다. 또한 다트 무기를 만들 수 있게 됩니다.</YokaiPepperNarcotic.description>
+  <OniamineBasic.label>오니아민 생산</OniamineBasic.label>
+  <OniamineBasic.description>오니 뿔 조각과 깃털을 오니 약을 합성하는데 기초로 사용되는 독특한 화학물질인 오니아민으로 만들 수 있게 됩니다. 이 연구로 극도의 중독성을 자랑하는 마약인 오니 더스트의 생산도 가능해집니다.</OniamineBasic.description>
+  <OniamineAdvanced.label>오니아민 추출</OniamineAdvanced.label>
+  <OniamineAdvanced.description>오니 가죽에서 오니 약을 합성하는데 기초로 사용되는 독특한 화학물질인 오니아민으로 만들 수 있게 됩니다. 또한 연구시, 오니 고기에서도 오니아민을 추출할 수 있게 됩니다.</OniamineAdvanced.description>
+  <OniCombatDrug.label>가벼운 소마</OniCombatDrug.label>
+  <OniCombatDrug.description>오니아민을 기초로 삼아 제작장소나 약물 실험대에서 독특한 오니 약물을 합성할 수 있게 됩니다. 이 약물은 강력한 효과를 제공하지만, 매우 짧은 시간동안만 지속됩니다. 몸의 붉은 소마, 건강의 녹색 소마, 정신의 푸른 소마를 생산할 수 있습니다. 중독에 걸렸을 경우, 소마는 상호 호환이 가능해 어떤 가벼운 소마라도 중독을 진정시킬 수 있습니다.</OniCombatDrug.description>
+  <OniBlackTalonDrug.label>검은 소마</OniBlackTalonDrug.label>
+  <OniBlackTalonDrug.description>오니는 위험할 정도로 중독성이 강한 오니 더스트를 기초로 해서 매우 강력한 약물을 제조할 수 있으며, 이 약물은 오직 오니만이 제만들 수 있습니다. 하지만 다른 소마와는 달리, 이 중독은 다른 소마로는 진정시킬 수 없습니다. 오직 검은 소마만이 중독을 진정시킬 수 있습니다. \n\n오직 오니만이 연구할 수 있습니다.</OniBlackTalonDrug.description>
+
+  <!--1706345856_190811_Warhammer Skaven-->
+  <SkavenStart.label>스케이븐 연구대</SkavenStart.label>
+  <SkavenStart.description>스케이븐 기술을 연구할 수 있습니다.</SkavenStart.description>
+  <SkavenWeaponsOne.label>쇠뇌</SkavenWeaponsOne.label>
+  <SkavenWeaponsOne.description>쇠뇌를 잠금해제합니다.</SkavenWeaponsOne.description>
+  <SkavenWeaponsTwo.label>중량 근접무기</SkavenWeaponsTwo.label>
+  <SkavenWeaponsTwo.description>플레일과 스케이븐 도끼창을 잠금해제합니다.</SkavenWeaponsTwo.description>
+  <SkavenCloth.label>천 의복</SkavenCloth.label>
+  <SkavenCloth.description>낮은 단계의 스케이븐 의복입니다. 후드와 튜닉, 넝마 옷을 만듭니다.</SkavenCloth.description>
+  <SkavenArmour.label>갑옷 의복</SkavenArmour.label>
+  <SkavenArmour.description>중간 단계의 스케이븐 의복입니다. 패딩 갑옷과 투구, 로브를 만듭니다.</SkavenArmour.description>
+  <SkavenHeavyArmour.label>중갑옷 의복</SkavenHeavyArmour.label>
+  <SkavenHeavyArmour.description>스톰버민 갑옷을 잠금해제합니다.</SkavenHeavyArmour.description>
+  <SkavenHeavyWeapon.label>실험용 무기</SkavenHeavyWeapon.label>
+  <SkavenHeavyWeapon.description>레틀링 건, 화학액품 병, 독약, 독성 함정을 잠금해제합니다.</SkavenHeavyWeapon.description>
+  <SkavenWarpLightning.label>워프-라이트닝</SkavenWarpLightning.label>
+  <SkavenWarpLightning.description>워프 라이트닝 포탑과 워프스톤 배터리를 잠금해제합니다.</SkavenWarpLightning.description>
+  <SkavenMountedGuns.label>고정형 총</SkavenMountedGuns.label>
+  <SkavenMountedGuns.description>워프록 제자일을 잠금해제합니다.</SkavenMountedGuns.description>
+
+  <!--1728999127_190813_Forsakens-->
+  <ForsakenWeapons.label>잊혀진 무기의 제조법</ForsakenWeapons.label>
+  <ForsakenWeapons.description>버림받은 자들의 길을 배우고, 무기를 생산할 수 있습니다.</ForsakenWeapons.description>
+  <ForsakenArmors.label>잊혀진 갑주의 제조법</ForsakenArmors.label>
+  <ForsakenArmors.description>버림받은 자들의 길을 배우고, 갑주를 생산할 수 있습니다.</ForsakenArmors.description>
+  <ForsakenDrugs.label>잊혀진 약물의 제조법</ForsakenDrugs.label>
+  <ForsakenDrugs.description>버림받은 자들의 길을 배우고, 약물을 생산할 수 있습니다.</ForsakenDrugs.description>
+
+  <!--1785657108_190811_Humanoid Project-->
+  <BasicAlienPlants.label>기본 식물</BasicAlienPlants.label>
+  <BasicAlienPlants.description>소름끼치는 튤립과 푸른 심장 식물을 키우는 법을 연구합니다. 식품 생산에 유용합니다.</BasicAlienPlants.description>
+  <IntermidiateAlienPlants.label>고급 식물</IntermidiateAlienPlants.label>
+  <IntermidiateAlienPlants.description>악몽 찔레꽃과 마그마타이트 식물을 키우는 법을 연구합니다. 식품 생산과 플럭스 의약품을 제조하는데 유용합니다.</IntermidiateAlienPlants.description>
+  <SporeAlienPlants.label>포자 식물</SporeAlienPlants.label>
+  <SporeAlienPlants.description>불사조 향나무와 데몬 릴리를 키우는 법을 연구합니다. 식품 생산에 유용합니다.</SporeAlienPlants.description>
+  <VenomousAlienPlants.label>독성 식물\</VenomousAlienPlants.label>
+  <VenomousAlienPlants.description>독성 개종용 식물을 키우는 법을 연구합니다. 이 식물은 특수한 식품의 생산과 고급 자극기에 사용될 수 있습니다.</VenomousAlienPlants.description>
+  <MasterAlienPlants.label>식물 마스터</MasterAlienPlants.label>
+  <MasterAlienPlants.description>망자 담쟁이를 재배하는 법을 연구합니다. 이 식물의 액체는 어떤 림에게도 극도로 강력한 능력을 부여할 수 있는 고급 시뮬레이터를 만드는데 사용될 수 있습니다. 또한 고급 합성 식품을 생산하는데 사용될 수 있습니다.</MasterAlienPlants.description>
+  <DragonAlienPlants.label>용 식물</DragonAlienPlants.label>
+  <DragonAlienPlants.description>용 식물을 키우는 법을 연구합니다. 이 식물의 액체는 어떤 림에게도 극도로 강력한 능력을 부여할 수 있는 고급 시뮬레이터를 만드는데 사용될 수 있습니다. (수경재배로만 재배 가능합니다.)</DragonAlienPlants.description>
+  <AlienFoodPatternGreen.label>켈레롤(Cerelor) 모방 고기</AlienFoodPatternGreen.label>
+  <AlienFoodPatternGreen.description>켈레롤(Cerelor) 식물 기반 구조로 인공 식품을 만드는 법을 연구합니다. (기본형 외계 식물에서 만들 수 있습니다.)</AlienFoodPatternGreen.description>
+  <AlienFoodPatternLightGreen.label>코롤레온(Coroleon) 태생 고기</AlienFoodPatternLightGreen.label>
+  <AlienFoodPatternLightGreen.description>산소가 풍부한 대기에 적합한 콜로레온(Coroleon) 구조로 만들어진 인공 음식을 만드는 법을 연구합니다. (포자 식물로 만들 수 있습니다)</AlienFoodPatternLightGreen.description>
+  <AlienFoodPatternBlue.label>아비리온(Avirion) 합성 고기</AlienFoodPatternBlue.label>
+  <AlienFoodPatternBlue.description>메탄 대기에 적합한 아비리온(Avirion) 구조의 인공 음식을 만드는 법을 연구합니다. (고급 식물로 만들 수 있습니다)</AlienFoodPatternBlue.description>
+  <AlienFoodPatternDark.label>실릴리온(Silrilion) 합성 고기</AlienFoodPatternDark.label>
+  <AlienFoodPatternDark.description>황산이 풍부한 대기에에 적합한 실릴리온(Silrilion) 구조로 만들어진 인공음식을 만드는 법을 연구합니다. (독성 식물로 만들 수 있습니다)</AlienFoodPatternDark.description>
+  <AlienFoodMixedSimple.label>고급 생체공학 고기</AlienFoodMixedSimple.label>
+  <AlienFoodMixedSimple.description>더 나은 영영과 물질 전달을 위해 혼합된 구조의 인공 음식을 만드는 법을 연구합니다. (마스터 식물로 만들 수 있습니다)</AlienFoodMixedSimple.description>
+  <AlienFoodMixedAdvanced.label>고기 복제</AlienFoodMixedAdvanced.label>
+  <AlienFoodMixedAdvanced.description>최고의 영양과 물질 전달을 위해 만들어지는 첨단 혼합 구조 인공 식품을 만드는 법을 연구합니다. (마스터 식물로 만들 수 있습니다)</AlienFoodMixedAdvanced.description>
+  <AlienPlants.label>외계 식물학</AlienPlants.label>
+  <AlienPlants.description>외계 식물의 기초적인 생리를 연구합니다. 그것은 합성 식품과 극도로 발달된 자극기 및 생체공학 생산에 유용합니다.</AlienPlants.description>
+  <FoodProduction.label>생체공학 음식의 기초</FoodProduction.label>
+  <FoodProduction.description>1티어 외계 식물에서 음식물을 합성하는 법을 연구합니다.</FoodProduction.description>
+  <BioLabRes.label>생체공학 실험대</BioLabRes.label>
+  <BioLabRes.description>합성식품과 첨단 생체공학을 생산하기 위한 복잡한 하이테크 생체공학 실험대를 만드는 법을 연구합니다. 경고! 이 건물은 많은 에너지를 소모합니다.</BioLabRes.description>
+  <EnergyBenchRes.label>코스모스 작업대</EnergyBenchRes.label>
+  <EnergyBenchRes.description>고급 작업대를 통해 에너지 기반 무기를 제작할 수 있습니다. 경고! 이 건물은 많은 에너지를 소모합니다.</EnergyBenchRes.description>
+  <FluxResearchBlue.label>플럭스 소총</FluxResearchBlue.label>
+  <FluxResearchBlue.description>기초 단계의 플럭스 에너지 소총을 만드는 방법을 연구합니다. 중장거리에서 강력합니다.</FluxResearchBlue.description>
+  <FluxResearchOrange.label>고급 플럭스 소총</FluxResearchOrange.label>
+  <FluxResearchOrange.description>보다 고급 단계의 플럭스 에너지 소총을 만드는 방법을 연구합니다. 빠른 발사 속도와 향상된 안정 제어기능을 제공합니다.</FluxResearchOrange.description>
+  <PhaseResearch.label>위상 무기</PhaseResearch.label>
+  <PhaseResearch.description>매우 유용한 위상 테크 권총 제조법에 대해 연구합니다. 중, 단거리에서 모두 유용합니다.</PhaseResearch.description>
+  <CosmosPistolResearch.label>코스모스 권총</CosmosPistolResearch.label>
+  <CosmosPistolResearch.description>코스모스 테크가 개발한 코스모스, 에너지 권총의 제조법에 대해 연구합니다. 코스모스 에너지 권총은 중,단거리에서 우수한 정밀도를 제공합니다.</CosmosPistolResearch.description>
+  <CosmosRifleResearch.label>코스모스 소총</CosmosRifleResearch.label>
+  <CosmosRifleResearch.description>코스모스 에너지 소총을 만다는 법을 연구합니다. 암흑 에너지 기반의 돌격 소총은 중거리까지 목표물을 정확하고 지속적으로 사격할 수 있습니다.</CosmosRifleResearch.description>
+  <CosmosSniperResearch.label>코스모스 저격총</CosmosSniperResearch.label>
+  <CosmosSniperResearch.description>코스모스 에너지 저격총의 제조법을 연구합니다. 여러 외부 환경과 대기중의 조건에서도 견딜 수 있는 신비한 복합체가 특징입니다.</CosmosSniperResearch.description>
+  <CosmosBionicResBase.label>기본 생체공학</CosmosBionicResBase.label>
+  <CosmosBionicResBase.description>잃어버린 신체 부위 또는 턱, 폐, 눈, 손과 같은 기존 부위를 대체하는 유용한 생체 공학 제조법에 대해 연구합니다.</CosmosBionicResBase.description>
+  <CosmosBionicResPlus.label>향상된 생체공학</CosmosBionicResPlus.label>
+  <CosmosBionicResPlus.description>척추, 위, 귀, 다리 및 발과 같은 기존 신체부위를 개선하거나 대체하는 유용한 첨단 생체공학 제조법에 대해 연구합니다.</CosmosBionicResPlus.description>
+  <CosmosBionicResPro.label>코스모스 테크 생체공학</CosmosBionicResPro.label>
+  <CosmosBionicResPro.description>매우 유용한 최첨단 코스모스 테크 생체공학 제조법에 대해 연구합니다. 이것은 신장, 간, 심장, 뇌와같은 신체 부위와 신체능력을 크게 향상시킬 수 있습니다.</CosmosBionicResPro.description>
+  <LightningResRed.label>심장 자극기</LightningResRed.label>
+  <LightningResRed.description>매우 무겁고, 믿을 수 없을 정도로 강력한 아이템의 제조법에 대해 연구합니다. 불안정하지만 강력한 볼트 스트라이크를 시전할 수 있는 능력을 부여합니다. 영향을 주는 타일은 "3x 칸". 입니다. (림의 건강에 부작용이 발생합니다.. 또한 이 연구를 통해 심장 자극기를 만드는 데 사용되는 새로운 유형의 플럭스 의약품을 제조할 수 있게 됩니다. (플럭스 의약품은 인상적인 속도와 능률로 림을 치유하는데 사용될 수 있습니다.)</LightningResRed.description>
+  <LightningResGreen.label>능력 자극기</LightningResGreen.label>
+  <LightningResGreen.description>강력하고 매우 불안정한 보철물을 제조하는 방법을 연구합니다. 타일에 거대한 충격을 가하는 "거대 번개 공격"을 시전할 수 있는 능력을 부여합니다. 또한 이 연구를 통해 능력 자극기와 성장 자극기를 만드는 데 사용되는 새로운 유형의 고급 플럭스 의약품을 제조할 수 있게 됩니다. (능력 자극기 보철물은 림의 건강에 매우 큰 부작용을 발생시킵니다.)</LightningResGreen.description>
+  <SpecialResViolet.label>성장 자극기</SpecialResViolet.label>
+  <SpecialResViolet.description>BO-001 성장 자극기의 제조법을 연구합니다. 이 보철물은 없어진 신체부위를 재생할 수 있는 능력을 부여하며, 여기서 멈추지 않고 장착한 이의 건강에 거의 부작용이 없이 인상적인 속도로 모든 부상을 치료할 수 있게 해줍니다.</SpecialResViolet.description>
+
+  <!--882126182_181000_Call of Cthulhu - Elder Things-->
+  <ElderThingLaserGun.label>태고의 레이저 총</ElderThingLaserGun.label>
+  <ElderThingLaserGun.description>태고의 존재가 사용하는 레이저 총을 생산할 수 있는 기술입니다. 오직 태고의 존재들만 연구할 수 있습니다.</ElderThingLaserGun.description>
+
+</LanguageData>

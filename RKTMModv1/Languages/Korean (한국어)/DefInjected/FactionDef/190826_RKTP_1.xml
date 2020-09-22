@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1115882219_190816_Rim of Madness - Werewolves-->
+  <ROM_WerewolfClan.description>일반적인 사람들과는 조금 다른 삶을 사는 신비한 집단입니다. 이 마을 주변의 사람들은 달이 모습을 드러내는 날이면 비명소리와 함께 울부짖는 소리, 혹은 이상한 울음소리가 들려온다고 주장하고는 합니다.</ROM_WerewolfClan.description>
+  <ROM_WerewolfClan.leaderTitle>알파</ROM_WerewolfClan.leaderTitle>
+  <ROM_WerewolfClan.label>늑대 무리</ROM_WerewolfClan.label>
+  <ROM_WerewolfClan.pawnsPlural>늑대 무리</ROM_WerewolfClan.pawnsPlural>
+
+  <!--1187010034_181028_Rim of Madness - Vampires-->
+  <ROMV_Anarch.label>아나크</ROMV_Anarch.label>
+  <ROMV_Anarch.fixedName>아나크 운동</ROMV_Anarch.fixedName>
+  <ROMV_Anarch.pawnsPlural>아나크들</ROMV_Anarch.pawnsPlural>
+  <ROMV_Anarch.description>아나크(Anarch)들은 카인파 사회의 현상 유지에 반대하는 흡혈귀들입니다. 이를 따르는 집단은 아나크 운동(Anarch Movement)이라 불립니다.</ROMV_Anarch.description>
+  <ROMV_Anarch.leaderTitle>남작</ROMV_Anarch.leaderTitle>
+  <ROMV_Sabbat.leaderTitle>우두머리</ROMV_Sabbat.leaderTitle>
+  <ROMV_Camarilla.label>카마릴라</ROMV_Camarilla.label>
+  <ROMV_Camarilla.fixedName>카마릴라</ROMV_Camarilla.fixedName>
+  <ROMV_LegendaryVampires.label>전설의 흡혈귀</ROMV_LegendaryVampires.label>
+  <ROMV_LegendaryVampires.pawnsPlural>전설의 흡혈귀</ROMV_LegendaryVampires.pawnsPlural>
+  <ROMV_LegendaryVampires.description>전설의 일족으로, 세계를 만들고 파괴할 수 있는 힘을 가진 흡혈귀들입니다.</ROMV_LegendaryVampires.description>
+  <ROMV_Camarilla.pawnsPlural>외지인들</ROMV_Camarilla.pawnsPlural>
+  <ROMV_Camarilla.leaderTitle>왕자</ROMV_Camarilla.leaderTitle>
+  <ROMV_Sabbat.label>사바트</ROMV_Sabbat.label>
+  <ROMV_Sabbat.pawnsPlural>사바트</ROMV_Sabbat.pawnsPlural>
+  <ROMV_Camarilla.description>카마릴라(Camarilla)는 가장 큰 흡혈귀 혈족으로, 모든 흡혈귀를 표면상 대표하고 보호하는 느슨한 조직입니다. 이들의 목표는 일족 사회의 현상 유지입니다. 더 자세히 말하면, 구조와 전통의 대부분은 중세 봉건주의 유럽의 카인파 사회를 닮았으며, 그렇기에 혈족 사회를 전복하고자 하는 사바트(Sabbat)와 아나크(Anarch)와는 대립합니다.</ROMV_Camarilla.description>
+  <ROMV_Sabbat.description>사바트(Sabbat)들은 전통을 거부하는 카인파의 느슨한 조직입니다. 사바트는 카마릴라와 달리 선조와 카인을 믿습니다. 세계의 종말인 게헤나가 찾아올 때 자신들이 카인의 군세가 될 것이라고 믿기에, 이들은 카인의 검이라고도 알려져 있습니다.</ROMV_Sabbat.description>
+  <ROMV_LegendaryVampires.fixedName>지하세계</ROMV_LegendaryVampires.fixedName>
+
+  <!--1204015134_190714_RimGate - Jaffa, Kree!-->
+  <JaffaApophis.label>서펜트 자파</JaffaApophis.label>
+  <JaffaApophis.description>아포피스는 한때 매우 강력한 고아울드의 시스템 로드였습니다. 최고 시스탬 로드인 '라'의 동생이었던 아포피스는 본래 소함대를 지휘했지만, 그는 자신의 통치 기간동안 살해당한 여러 시스템 로드들의 세력을 흡수해 힘을 키웠습니다.</JaffaApophis.description>
+  <JaffaApophis.fixedName>시스템 로드 아포피스</JaffaApophis.fixedName>
+  <JaffaApophis.pawnsPlural>자파</JaffaApophis.pawnsPlural>
+  <JaffaApophis.leaderTitle>제 1 전성기</JaffaApophis.leaderTitle>
+  <JaffaAnubis.label>자칼 자파</JaffaAnubis.label>
+  <JaffaAnubis.description>아누비스는 고아울드 역사상 가장 강력한 자입니다. 한때는 강력한 시스템 로드였던 아누비스는 그의 행동이 고아울드 사이에서도 말 할 수 없는 것들이었기 때문에 다른 이들에 의해 추방되었습니다. 그는 죽었다고 생각되었으나 간신히 탈출하여 오마 데살라를 속여 그를 승천하도록 도왔습니다.</JaffaAnubis.description>
+  <JaffaAnubis.fixedName>시스템 로드 아누비스</JaffaAnubis.fixedName>
+  <JaffaAnubis.pawnsPlural>자파</JaffaAnubis.pawnsPlural>
+  <JaffaAnubis.leaderTitle>제 1 전성기</JaffaAnubis.leaderTitle>
+  <JaffaRa.label>호루스 자파</JaffaRa.label>
+  <JaffaRa.description>라는 이집트 태양신을 형상화한 고아울드의 시스템 로드이며, 타우리(Tau'ri)를 처음으로 발견하였습니다. 그는 하토르의 동료였습니다. 또한 아들은 헤루우르, 동생은 아포피스였습니다. 그의 엘리트 자파는 호루스 가드들입니다. 그의 권력과 원위, 교활함 때문에 '라'는 가장 강력한 시스템 군주 입니다.</JaffaRa.description>
+  <JaffaRa.fixedName>시스템 로드 라</JaffaRa.fixedName>
+  <JaffaRa.pawnsPlural>자파</JaffaRa.pawnsPlural>
+  <JaffaRa.leaderTitle>제 1 전성기</JaffaRa.leaderTitle>
+
+  <!--1400245220_181030_Lord of the Rims - The Third Age-->
+  <LotRPlayerColony.label>중세 마을</LotRPlayerColony.label>
+  <LotRPlayerColony.pawnsPlural>주민들</LotRPlayerColony.pawnsPlural>
+  <LotRPlayerColony.description>당신의 공동체입니다.</LotRPlayerColony.description>
+
+  <!--1402763255_181030_Lord of the Rims - Unlimited-->
+  <LotRPlayerColony.label>중세 마을</LotRPlayerColony.label>
+  <LotRPlayerColony.pawnsPlural>주민들</LotRPlayerColony.pawnsPlural>
+  <LotRPlayerColony.description>당신의 공동체입니다.</LotRPlayerColony.description>
+
+  <!--1498573216_181028_Polarisbloc - Mechenemy-->
+  <Vanya_AdvMechanoid.description>고도의 첨단기술을 가진 항성계 메카노이드입니다. 이들은 림월드에서 방위군을 습격하기 위해 오랜시간동안 약점을 찾으면서 기다려왔습니다.</Vanya_AdvMechanoid.description>
+  <Vanya_AdvMechanoid.label>첨단 메카노이드</Vanya_AdvMechanoid.label>
+  <Vanya_AdvMechanoid.pawnsPlural>첨단 메카노이드</Vanya_AdvMechanoid.pawnsPlural>
+  <Vanya_AdvMechanoid.fixedName>첨단 메카노이드</Vanya_AdvMechanoid.fixedName>
+  <Vanya_ChaserArmada.leaderTitle>함장</Vanya_ChaserArmada.leaderTitle>
+  <Vanya_ChaserArmada.label>체이서 함대</Vanya_ChaserArmada.label>
+  <Vanya_ChaserArmada.fixedName>체이서 함대</Vanya_ChaserArmada.fixedName>
+  <Vanya_ChaserArmada.pawnsPlural>은하 전사</Vanya_ChaserArmada.pawnsPlural>
+  <Vanya_ChaserArmada.description>메카노이드를 전멸시키기 위해 림월드에 오랜 시간동안 체류하고 있는 인간계의 정예 함대이며 국경지대의 수호자입니다. 이들은 메카노이드들에게 저항할 의지가 없는 작은 세력들에게는 관심도 없습니다.</Vanya_ChaserArmada.description>
+
+  <!--1500248421_181028_Polarisbloc - Security Force-->
+  <Polaribloc_SecuirityForce.leaderTitle>지휘관</Polaribloc_SecuirityForce.leaderTitle>
+  <Polaribloc_SecuirityForce.label>보안 유지군</Polaribloc_SecuirityForce.label>
+  <Polaribloc_SecuirityForce.fixedName>보안 유지군</Polaribloc_SecuirityForce.fixedName>
+  <Polaribloc_SecuirityForce.pawnsPlural>군인</Polaribloc_SecuirityForce.pawnsPlural>
+  <Polaribloc_SecuirityForce.description>폴라리스 블록사에 소속되어 있으며 보안과 안전을 지원합니다. 이와 동시에, 폴라리스 블록사에 의해 알려지지 않은 임무를 수행하는 명령을 받고 있습니다.</Polaribloc_SecuirityForce.description>
+
+  <!--1539314714_190519_[RF] Tribal Raiders-->
+  <TribalRaiders.description>약탈을 업으로 삼는 부족민들입니다.\n\n이들은 씨를 뿌리지도 않고, 건물을 짓지도 않으며, 거래도 하지 않습니다. 이들은 주로 근처에 있는 더 잘 사는 집단을 습격하고 강탈함으로써 생활을 유지합니다.\n\n이들의 기술 수준은 석기시대에 불과하지만, 피에 대한 갈증만은 전설적이라 할만 합니다.</TribalRaiders.description>
+  <TribalRaiders.leaderTitle>약탈자 추장</TribalRaiders.leaderTitle>
+  <TribalRaiders.pawnsPlural>약탈자</TribalRaiders.pawnsPlural>
+  <TribalRaiders.label>약탈자 부족민</TribalRaiders.label>
+
+  <!--1541353047_190628_Zombiefied-->
+  <Zombie.description>공격적이고 거슬리는 좀비입니다.</Zombie.description>
+  <Zombie.label>좀비</Zombie.label>
+  <Zombie.fixedName>좀비</Zombie.fixedName>
+  <Zombie.pawnsPlural>좀비</Zombie.pawnsPlural>
+
+  <!--1553741992_190818_Jernfalk's Skeletal Legion-->
+  <Skeletal_Legion.label>스켈레톤 군단</Skeletal_Legion.label>
+  <Skeletal_Legion.pawnsPlural>스켈레톤</Skeletal_Legion.pawnsPlural>
+  <Skeletal_Legion.fixedName>스켈레톤 군단</Skeletal_Legion.fixedName>
+
+  <!--1554149030_190519_[RF] Rumor Has It....-->
+  <SplinterColony.description>당신의 파벌들이 독립해 세운 정착지입니다.</SplinterColony.description>
+  <SplinterColony.pawnsPlural>정착민</SplinterColony.pawnsPlural>
+  <SplinterColony.leaderTitle>최고수상</SplinterColony.leaderTitle>
+  <SplinterColony.label>분열된 정착지</SplinterColony.label>
+
+  <!--1720751798_190519_[RH] Faction Task Force 141 (1.0)-->
+  <RH_141TaskForce.leaderTitle>사령관</RH_141TaskForce.leaderTitle>
+  <RH_141TaskForce.pawnsPlural>특수부대</RH_141TaskForce.pawnsPlural>
+  <RH_141TaskForce.label>특수작전단</RH_141TaskForce.label>
+  <RH_141TaskForce.fixedName>태스크 포스 141</RH_141TaskForce.fixedName>
+  <RH_141TaskForce.description>"The One-Four-One"이라고 불리는 태스크 포스 141은 영국, 호주, 미국, 캐나다 및 기타 외국 요원으로 구성된 다국적 특수 작전 부대로, 일반적으로 이전 특수 작전 경험이 있는 사람들입니다.\n\n특히 제 3 차 세계 대전 중, 사기꾼 중장은 전쟁 범죄에 대한 느슨한 목적을 묶는 방법으로 태스크 포스 141을 배신했다. 그 후 태스크 포스 141의 나머지 모든 구성원은 제거되거나 위기가 끝날 때 실행되었습니다.\n\n태스크 포스 141은 전쟁 중 나토 동맹국과 러시아 연방에 의해 사냥을 당했지만 시베리아에서 보리스 보르셰프스키 러시아 대통령과 그의 딸 알레나를 구출한 후 태스크 포스 141이 복직되었고 그들의 이름은 나토와 러시아가 공식적으로 그들의 행동을 승인했다.</RH_141TaskForce.description>
+
+  <!--1746084920_190526_RimSlave-->
+  <Dothraki.label>야생 도트라키 떼</Dothraki.label>
+  <Dothraki.fixedName>도트라키 칼라사르</Dothraki.fixedName>
+  <Dothraki.pawnsPlural>도트라키들</Dothraki.pawnsPlural>
+  <WalkblemSlavers.label>워크블렘 노예상인들 지주</WalkblemSlavers.label>
+  <WalkblemSlavers.description>워크블렘 노예상인들은 번화나 많은 행성계에서 불법으로 여겨지는것에도 불구하고 림월드에서 성공의 발판은 마련한 노예상인들입니다.\n\n그들은 림월드에 흔한 일반 노예들과 더불어 그들만의 특별한 소유의 노예들을 판매한다. 그들은 정치에 전혀 관심이 없으며 그들의 노예를 파는데 어떠한 형식의 재산을 마다하지 않는다.</WalkblemSlavers.description>
+  <WalkblemSlavers.pawnsPlural>워크블렘 노예상인들</WalkblemSlavers.pawnsPlural>
+  <WalkblemSlavers.leaderTitle>최고경영자</WalkblemSlavers.leaderTitle>
+
+  <!--1775170117_190816_RimCities-->
+  <Keanu_Faction.label>전설</Keanu_Faction.label>
+  <Keanu_Faction.fixedName>전설</Keanu_Faction.fixedName>
+  <Keanu_Faction.pawnsPlural>전설</Keanu_Faction.pawnsPlural>
+
+  <!--725576127_190626_Glitter Tech-->
+  <Commando.label>특공대원</Commando.label>
+  <Commando.description>특공대원 부대입니다.</Commando.description>
+  <Commando.pawnsPlural>특곧대원</Commando.pawnsPlural>
+  <Commando.leaderTitle>특공대장</Commando.leaderTitle>
+  <OrionCo.label>오리온 주식회사</OrionCo.label>
+  <OrionCo.description>오리온 주식회사.</OrionCo.description>
+  <OrionCo.fixedName>오리온 사</OrionCo.fixedName>
+  <OrionCo.pawnsPlural>오리온 주식회사 부대</OrionCo.pawnsPlural>
+  <OrionCo.leaderTitle>이사</OrionCo.leaderTitle>
+
+  <!--732569232_190814_Medieval Times-->
+  <MedTimes_Faction_Warband.pawnsPlural>병사</MedTimes_Faction_Warband.pawnsPlural>
+  <MedTimes_Faction_Societies.pawnsPlural>주민</MedTimes_Faction_Societies.pawnsPlural>
+  <MedTimes_Faction_Societies.description>오랫동안 세상에서 살았던 사람들, 그들은 부족 사회를 거쳐 중세 사회로 진화했습는다. 그들은 현대 기술을 모르는 것은 아니지만 일반적으로 편리와 사용성을 위해 중세 기술을 사용합니다.</MedTimes_Faction_Societies.description>
+  <MedTimes_Faction_Societies.leaderTitle>귀족 지도자</MedTimes_Faction_Societies.leaderTitle>
+  <MedTimes_Faction_Core.pawnsPlural>중세 시민</MedTimes_Faction_Core.pawnsPlural>
+  <MedTimes_Faction_Societies.label>중세 사회</MedTimes_Faction_Societies.label>
+  <MedTimes_Faction_Warband.label>중세 전투단</MedTimes_Faction_Warband.label>
+  <MedTimes_Faction_Warband.description>중세 사회에서 추방당한 다양한 부류로, 결속되어 전쟁의 숭배자들로 구성되어 있습니다. 그들은 현대 기술을 모르는 것은 아니지만 일반적으로 편리와 사용성을 위해 중세 기술을 사용합니다. 이들은 야만적이고 무자비한 것으로 알려져 있습니다.</MedTimes_Faction_Warband.description>
+  <MedTimes_Faction_Warbourne.description>워번 광신도는 폭력, 죽음, 보복의 수호 성자인 팡리를 숭배합니다. 그들은 영광스러운 전투에서 자신들의 죽음을 찾으면서, 한때 팡리가 그랬던 것처럼 함께 모여 세상을 돌아다닙니다.</MedTimes_Faction_Warbourne.description>
+  <MedTimes_Faction_Warbourne.pawnsPlural>방랑자</MedTimes_Faction_Warbourne.pawnsPlural>
+  <MedTimes_Faction_Warbourne.fixedName>워번 광신도</MedTimes_Faction_Warbourne.fixedName>
+  <MedTimes_Faction_Warbourne.label>워번 방랑자</MedTimes_Faction_Warbourne.label>
+  <MedTimes_Faction_Warband.leaderTitle>전투단장</MedTimes_Faction_Warband.leaderTitle>
+
+  <!--759866027_190818_USCM - Colonial Marines Corps Faction-->
+  <USCM.pawnsPlural>정착지 해병대</USCM.pawnsPlural>
+  <USCM.leaderTitle>지휘관</USCM.leaderTitle>
+  <USCM.description>USCM은 미주 연합군 사령부의 주요한 요소이며, 우주에서 적대적인 구역을 강제로 진압하는 유일한 수단입니다. 먼 나라에 전력을 과시하는 것은 국가 안보에 필수적인 요소이며, 따라서 USCM의 다목적성과 대응성은 어떤 위기에서도 항상 핵심 전력으로 기능합니다.</USCM.description>
+  <USCM.label>USCM(United States Colonial Marines)</USCM.label>
+
+  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
+  <ROM_StarVampire.description>...</ROM_StarVampire.description>
+  <ROM_StarSpawn.description>르뤼에의 침몰한 도시에 죽은 듯이 누워있는 올드 원, 크툴루의 후손입니다.</ROM_StarSpawn.description>
+  <ROM_Chthonian.label>크토니안</ROM_Chthonian.label>
+  <ROM_Chthonian.pawnsPlural>크토니안</ROM_Chthonian.pawnsPlural>
+  <ROM_Chthonian.description>크토니안은 얇은 껍질로 덮인 굴찍훈 버레 모양의 몸으로, 거대한 오징어를 닮은 것으로 묘사됩니다. 그들은 오징어와 비슷한 외형에도 불구하고, 육지에서 살며 물에 닿으면 피해를 입는 몸을 가지고 있습니다. 그들은 천년이상 살 수 있으며, 자신들의 젊은 개체들을 보호합니다. 그들이 내는 소리는 각 개체마다 고유의 음색을 가졌으며 그것을 이용해 깊은 지하에서 의사소통 하는 것으로 알려져 있습니다. 가장 강력하고 큰 슈드뮤엘을 신으로써 섬깁니다.</ROM_Chthonian.description>
+  <ROM_CosmicHorrors.label>코즈믹 호러</ROM_CosmicHorrors.label>
+  <ROM_CosmicHorrors.description>우주에서 인간을 제거하려고 하지만, 시간과 공간이 부족합니다.</ROM_CosmicHorrors.description>
+  <ROM_DeepOne.label>딥 원</ROM_DeepOne.label>
+  <ROM_DeepOne.pawnsPlural>딥 원</ROM_DeepOne.pawnsPlural>
+  <ROM_DeepOne.description>딥 원들은 턱 뼈를 이용하 머리를 물어 뜯기 전에 먼저 빨아들이는 것을 좋아합니다.</ROM_DeepOne.description>
+  <ROM_DeepOne.fixedName>데빌 리프</ROM_DeepOne.fixedName>
+  <ROM_CosmicHorrors.pawnsPlural>호러</ROM_CosmicHorrors.pawnsPlural>
+  <ROM_Chthonian.fixedName>그하른의 잃어버린 도시</ROM_Chthonian.fixedName>
+  <ROM_MiGo.pawnsPlural>미고</ROM_MiGo.pawnsPlural>
+  <ROM_MiGo.description>미고는 외계인 뇌 수술을 전문으로 하는 머리가 없는 갑각생물로, 그들은 함정을 피할 수 있으니 조심하세요.</ROM_MiGo.description>
+  <ROM_MiGo.label>미고 아웃포스트</ROM_MiGo.label>
+  <ROM_Shoggoth.fixedName>광기의 산</ROM_Shoggoth.fixedName>
+  <ROM_StarVampire.fixedName>아우터 스페이스</ROM_StarVampire.fixedName>
+  <ROM_MiGo.fixedName>미고의 전초기지</ROM_MiGo.fixedName>
+  <ROM_Shoggoth.label>쇼고스</ROM_Shoggoth.label>
+  <ROM_Shoggoth.pawnsPlural>쇼고스</ROM_Shoggoth.pawnsPlural>
+  <ROM_Shoggoth.description>쇼고스는 사지, 기관, 입, 촉수를 자유로이 변형시킬 수 있는 거대하한 몸을 가지고 있습니다.</ROM_Shoggoth.description>
+  <ROM_StarVampire.label>스타 뱀파이어</ROM_StarVampire.label>
+  <ROM_StarVampire.pawnsPlural>스타 뱀파이어</ROM_StarVampire.pawnsPlural>
+  <ROM_StarSpawn.label>크툴루의 스타스폰</ROM_StarSpawn.label>
+  <ROM_StarSpawn.pawnsPlural>크툴루의 스타스폰</ROM_StarSpawn.pawnsPlural>
+  <ROM_StarSpawn.fixedName>리뤼에의 침몰한 도시</ROM_StarSpawn.fixedName>
+  <ROM_CosmicHorrors.fixedName>알려지지 않음</ROM_CosmicHorrors.fixedName>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <ROM_DeepOneAlt.label>딥-원</ROM_DeepOneAlt.label>
+  <ROM_DeepOneAlt.description>...</ROM_DeepOneAlt.description>
+  <ROM_DeepOneAlt.fixedName>곤충들</ROM_DeepOneAlt.fixedName>
+  <ROM_DeepOneAlt.pawnsPlural>딥-원</ROM_DeepOneAlt.pawnsPlural>
+  <Cults_Sailors.description>바다에서 일하며 사는 사람들 입니다.</Cults_Sailors.description>
+  <Cults_Sailors.fixedName>선원</Cults_Sailors.fixedName>
+  <Cults_Sailors.label>선원</Cults_Sailors.label>
+  <Cults_Sailors.pawnsPlural>선원</Cults_Sailors.pawnsPlural>
+
+  <!--918226861_190816_Star Wars - The Force-->
+  <PJ_GhostFaction.label>포스 고스트</PJ_GhostFaction.label>
+  <PJ_GhostFaction.fixedName>포스 고스트들</PJ_GhostFaction.fixedName>
+  <PJ_GhostFaction.pawnsPlural>포스 고스트들</PJ_GhostFaction.pawnsPlural>
+  <PJ_GhostFaction.description>포스와 하나가 된 이전 제다이 마스터들. 이전 모습을 간직하고 있습니다.</PJ_GhostFaction.description>
+
+  <!--918227266_181112_Star Wars - Factions-->
+  <PJ_RebelFac.description>팔파틴 황제와 그의 은하계 제국 제거라는 공통된 목표를 가진 세력들의 느슨한 동맹</PJ_RebelFac.description>
+  <PJ_Bounty.leaderTitle>두목</PJ_Bounty.leaderTitle>
+  <PJ_Bounty.description>그늘진 지하 세계에서 홛동하는 유형의 그룹</PJ_Bounty.description>
+  <PJ_GalacticEmpire.pawnsPlural>제국 군인</PJ_GalacticEmpire.pawnsPlural>
+  <PJ_RebelFac.leaderTitle>리더</PJ_RebelFac.leaderTitle>
+  <PJ_GalacticEmpire.leaderTitle>총독</PJ_GalacticEmpire.leaderTitle>
+  <PJ_RebelFac.pawnsPlural>반란군</PJ_RebelFac.pawnsPlural>
+  <PJ_Bounty.pawnsPlural>인간 쓰레기</PJ_Bounty.pawnsPlural>
+  <PJ_GalacticEmpire.label>은하계 제국</PJ_GalacticEmpire.label>
+  <PJ_GalacticEmpire.fixedName>은하계 제국</PJ_GalacticEmpire.fixedName>
+  <PJ_GalacticEmpire.description>최초의 은하계 제국, 새로운 질서, 제국이라고 불리는 은하계 제국은 전쟁의 여파로 기존에 있던 은하계 공화국을 대체한 헌법 군주국 및 파시스트 정부였습니다.</PJ_GalacticEmpire.description>
+  <PJ_RebelFac.label>반란군 동맹</PJ_RebelFac.label>
+  <PJ_Bounty.label>인간쓰레기와 악당들의 비참한 벌집</PJ_Bounty.label>
+
+  <!--928992405_190519_1.0_Starship_Troopers_Arachnids-->
+  <Arachnid.label>아라크니드</Arachnid.label>
+  <Arachnid.description>일반적으로 공격적이며 거슬리는 곤충들입니다.</Arachnid.description>
+  <Arachnid.fixedName>아라크니드</Arachnid.fixedName>
+  <Arachnid.pawnsPlural>아라크니드</Arachnid.pawnsPlural>
+
+</LanguageData>

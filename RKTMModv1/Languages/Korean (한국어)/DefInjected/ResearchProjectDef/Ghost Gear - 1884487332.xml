@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimPlas_GhostGear.label>유령 장비</RimPlas_GhostGear.label>
+  <RimPlas_GhostGear.description>복잡한 그래핀 기반 장비를 제작할 수 있습니다.</RimPlas_GhostGear.description>
+  <RimPlas_GGCaltrops.label>마름쇠 (유령 장비)</RimPlas_GGCaltrops.label>
+  <RimPlas_GGCaltrops.description>유령 장비 마름쇠를 제작할 수 있습니다.</RimPlas_GGCaltrops.description>
+  <RimPlas_NerveToxin.label>나나이트 신경 독</RimPlas_NerveToxin.label>
+  <RimPlas_NerveToxin.description>나나이트 신경 독소를 만드는 능력을 부여합니다. 이 독소는 신경 작용을 공격하는 데 사용될 수 있습니다. 독성 면역으로 완화될 수 있습니다.</RimPlas_NerveToxin.description>
+  <RimPlas_Haywire.label>헤이와이어 기술</RimPlas_Haywire.label>
+  <RimPlas_Haywire.description>헤이와이어 기술을 사용할 수 있는 능력을 부여합니다. 헤이와이어 기술을 사용하여 메카노이드를 비활성화하고 기절시킬 수 있습니다.</RimPlas_Haywire.description>
+
+</LanguageData>

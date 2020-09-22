@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LS_BlackPoison.label>독</LS_BlackPoison.label>
+  <LS_BlackPoison.stages.0.label>사소함</LS_BlackPoison.stages.0.label>
+  <LS_BlackPoison.stages.1.label>사소함</LS_BlackPoison.stages.1.label>
+  <LS_BlackPoison.stages.2.label>진행됨</LS_BlackPoison.stages.2.label>
+  <LS_BlackPoison.stages.3.label>심각함</LS_BlackPoison.stages.3.label>
+  <LS_BlackPoison.stages.4.label>극심함</LS_BlackPoison.stages.4.label>
+  <LS_BleedOut.label>출혈</LS_BleedOut.label>
+  <LS_BleedOut.stages.0.label>사소함</LS_BleedOut.stages.0.label>
+  <LS_BleedOut.stages.1.label>사소함</LS_BleedOut.stages.1.label>
+  <LS_BleedOut.stages.2.label>진행됨</LS_BleedOut.stages.2.label>
+  <LS_BleedOut.stages.3.label>심각함</LS_BleedOut.stages.3.label>
+  <LS_BleedOut.stages.4.label>극심함</LS_BleedOut.stages.4.label>
+  <LS_BleedOut.stages.5.label>쏟아짐</LS_BleedOut.stages.5.label>
+  <LS_CloudStrife.label>폭풍</LS_CloudStrife.label>
+  <LS_CloudStrife.stages.0.label>사소함</LS_CloudStrife.stages.0.label>
+  <LS_CloudStrife.stages.1.label>사소함</LS_CloudStrife.stages.1.label>
+  <LS_CloudStrife.stages.2.label>진행됨</LS_CloudStrife.stages.2.label>
+  <LS_CloudStrife.stages.3.label>심각함</LS_CloudStrife.stages.3.label>
+  <LS_CloudStrife.stages.4.label>극심함</LS_CloudStrife.stages.4.label>
+  <LS_CloudStrife.stages.5.label>내상입음</LS_CloudStrife.stages.5.label>
+  <LS_ColdHeart.label>얼어붙는 추위</LS_ColdHeart.label>
+  <LS_LiquidFire.label>흐르는 불</LS_LiquidFire.label>
+  <LS_LiquidFire.stages.0.label>불이 붙음</LS_LiquidFire.stages.0.label>
+  <LS_LiquidFire.stages.1.label>불이 붙음</LS_LiquidFire.stages.1.label>
+  <LS_LiquidFire.stages.2.label>불탐</LS_LiquidFire.stages.2.label>
+  <LS_LiquidFire.stages.3.label>꺼지지 않음</LS_LiquidFire.stages.3.label>
+  <LS_LiquidFire.stages.4.label>악마같음</LS_LiquidFire.stages.4.label>
+  <LS_LiquidFire.stages.5.label>재만 남음</LS_LiquidFire.stages.5.label>
+
+</LanguageData>

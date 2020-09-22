@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Turret_STRifleEmp.label>사냥용 소총좌</Turret_STRifleEmp.label>
+  <Turret_STRifleEmp.description>사냥용 소총이 장착된 고정된 총좌. 정착민이 작동해야 합니다.</Turret_STRifleEmp.description>
+  <Turret_STRifleEmp_Blueprint.label>사냥용 소총좌 (청사진)</Turret_STRifleEmp_Blueprint.label>
+  <Turret_STRifleEmp_Frame.label>사냥용 소총좌 (건설 중)</Turret_STRifleEmp_Frame.label>
+  <Turret_STRifleEmp_Frame.description>사냥용 소총이 장착된 고정된 총좌. 정착민이 작동해야 합니다.</Turret_STRifleEmp_Frame.description>
+  <Bullet_STRifleEmp.label>사냥용 소총좌 탄환</Bullet_STRifleEmp.label>
+  <Gun_STRifleEmp.label>사냥용 소총</Gun_STRifleEmp.label>
+  <Gun_STRifleEmp.description>단단한 물체 위에 사냥용 소총을 장착했습니다.</Gun_STRifleEmp.description>
+  <Turret_STMGEmp.label>기관총 포좌</Turret_STMGEmp.label>
+  <Turret_STMGEmp.description>기관총이 장착된 고정된 포좌. 정착민이 작동해야 합니다.</Turret_STMGEmp.description>
+  <Turret_STMGEmp_Blueprint.label>기관총 포좌 (청사진)</Turret_STMGEmp_Blueprint.label>
+  <Turret_STMGEmp_Frame.label>기관총 포좌 (건설 중)</Turret_STMGEmp_Frame.label>
+  <Turret_STMGEmp_Frame.description>기관총이 장착된 고정된 포좌. 정착민이 작동해야 합니다.</Turret_STMGEmp_Frame.description>
+  <Bullet_STMGEmp.label>기관총 포좌 탄환</Bullet_STMGEmp.label>
+  <Gun_STMGEmp.label>기관총</Gun_STMGEmp.label>
+  <Gun_STMGEmp.description>단단한 물체 위에 기관총을 장착했습니다.</Gun_STMGEmp.description>
+  <Turret_StunningTurret.label>기절포탑</Turret_StunningTurret.label>
+  <Turret_StunningTurret.description>짧은 시간 동안 상대를 기절하도록 설계된 휴대용 자동 포탑. 많이 사용한 후에는 포신을 교체하는 데 강철이 필요합니다. 이 포탑은 피해를 주지 않으며, 파괴될 때 폭발하지 않습니다.</Turret_StunningTurret.description>
+  <Turret_StunningTurret_Blueprint.label>기절포탑 (청사진)</Turret_StunningTurret_Blueprint.label>
+  <Turret_StunningTurret_Blueprint_Install.label>기절포탑 (청사진)</Turret_StunningTurret_Blueprint_Install.label>
+  <Turret_StunningTurret_Frame.label>기절포탑 (건설 중)</Turret_StunningTurret_Frame.label>
+  <Turret_StunningTurret_Frame.description>짧은 시간 동안 상대를 기절하도록 설계된 휴대용 자동 포탑. 많이 사용한 후에는 포신을 교체하는 데 강철이 필요합니다. 이 포탑은 피해를 주지 않으며, 파괴될 때 폭발하지 않습니다.</Turret_StunningTurret_Frame.description>
+  <Bullet_StunningTurret.label>기절 탄</Bullet_StunningTurret.label>
+  <Gun_StunningTurret.label>기절포탑 총</Gun_StunningTurret.label>
+  <Gun_StunningTurret.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_StunningTurret.description>
+  <Gun_StunningTurretUpgraded.label>기절포탑 총</Gun_StunningTurretUpgraded.label>
+  <Gun_StunningTurretUpgraded.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_StunningTurretUpgraded.description>
+  <Turret_TazingTurret.label>테이저 포탑</Turret_TazingTurret.label>
+  <Turret_TazingTurret.description>대상을 무력화하도록 설계된 휴대용 자동 포탑. 많은 사용 후 포신을 교환할 때에 강철이 필요합니다. 이 포탑은 가벼운 피해를 입히고 대상을 쓰러뜨리려고 합니다. 폭발하지 않습니다.</Turret_TazingTurret.description>
+  <Turret_TazingTurret_Blueprint.label>테이저 포탑 (청사진)</Turret_TazingTurret_Blueprint.label>
+  <Turret_TazingTurret_Blueprint_Install.label>테이저 포탑 (청사진)</Turret_TazingTurret_Blueprint_Install.label>
+  <Turret_TazingTurret_Frame.label>테이저 포탑 (건설 중)</Turret_TazingTurret_Frame.label>
+  <Turret_TazingTurret_Frame.description>대상을 무력화하도록 설계된 휴대용 자동 포탑. 많은 사용 후 포신을 교환할 때에 강철이 필요합니다. 이 포탑은 가벼운 피해를 입히고 대상을 쓰러뜨리려고 합니다. 폭발하지 않습니다.</Turret_TazingTurret_Frame.description>
+  <Bullet_TazingTurret.label>테이저 탄약통</Bullet_TazingTurret.label>
+  <Gun_TazingTurret.label>테이저 포탑 총</Gun_TazingTurret.label>
+  <Gun_TazingTurret.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_TazingTurret.description>
+  <Gun_TazingTurretUpgraded.label>테이저 포탑 총</Gun_TazingTurretUpgraded.label>
+  <Gun_TazingTurretUpgraded.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_TazingTurretUpgraded.description>
+  <Turret_SniperTurret.label>저격포탑</Turret_SniperTurret.label>
+  <Turret_SniperTurret.description>장거리에서 대상을 제거하도록 설계된 휴대용 자동 포탑. 대량 사용 시 포신 교환에 강철이 필요합니다. 손상되면 4타일의 범위로 폭발할 수 있습니다.</Turret_SniperTurret.description>
+  <Turret_SniperTurret_Blueprint.label>저격포탑 (청사진)</Turret_SniperTurret_Blueprint.label>
+  <Turret_SniperTurret_Blueprint_Install.label>저격포탑 (청사진)</Turret_SniperTurret_Blueprint_Install.label>
+  <Turret_SniperTurret_Frame.label>저격포탑 (건설 중)</Turret_SniperTurret_Frame.label>
+  <Turret_SniperTurret_Frame.description>장거리에서 대상을 제거하도록 설계된 휴대용 자동 포탑. 대량 사용 시 포신 교환에 강철이 필요합니다. 손상되면 4타일의 범위로 폭발할 수 있습니다.</Turret_SniperTurret_Frame.description>
+  <Bullet_SniperTurret.label>저격포탑 탄환</Bullet_SniperTurret.label>
+  <Gun_SniperTurret.label>저격포탑 총</Gun_SniperTurret.label>
+  <Gun_SniperTurret.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_SniperTurret.description>
+  <Turret_StandardTurret.label>기본 포탑</Turret_StandardTurret.label>
+  <Turret_StandardTurret.description>전투중 설계된 휴대용 자동 포탑. 대량 사용 시 포신 교환에 강철이 필요합니다. 손상되면 4타일의 범위로 폭발할 수 있습니다.</Turret_StandardTurret.description>
+  <Turret_StandardTurret_Blueprint.label>기본 포탑 (청사진)</Turret_StandardTurret_Blueprint.label>
+  <Turret_StandardTurret_Blueprint_Install.label>기본 포탑 (청사진)</Turret_StandardTurret_Blueprint_Install.label>
+  <Turret_StandardTurret_Frame.label>기본 포탑 (건설 중)</Turret_StandardTurret_Frame.label>
+  <Turret_StandardTurret_Frame.description>전투중 설계된 휴대용 자동 포탑. 대량 사용 시 포신 교환에 강철이 필요합니다. 손상되면 4타일의 범위로 폭발할 수 있습니다.</Turret_StandardTurret_Frame.description>
+  <Bullet_StandardTurret.label>기본 포탑 탄환</Bullet_StandardTurret.label>
+  <Gun_StandardTurret.label>기본 포탑 총</Gun_StandardTurret.label>
+  <Gun_StandardTurret.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_StandardTurret.description>
+  <Turret_EnergyTurret.label>에너지 포탑</Turret_EnergyTurret.label>
+  <Turret_EnergyTurret.description>레이저를 발사하도록 설계된 휴대용 자동 포탑. 탄약이 필요하지 않지만 800 와트의 전력이 필요합니다. 연속 발사 속도는 높지만 피해를 입히면 낮은 위력으로 인해 화상을 입을 수 있습니다. 놀라운 억압과 혼돈. 손상되면 6타일 범위로 폭발할 수 있습니다.</Turret_EnergyTurret.description>
+  <Turret_EnergyTurret_Blueprint.label>에너지 포탑 (청사진)</Turret_EnergyTurret_Blueprint.label>
+  <Turret_EnergyTurret_Blueprint_Install.label>에너지 포탑 (청사진)</Turret_EnergyTurret_Blueprint_Install.label>
+  <Turret_EnergyTurret_Frame.label>에너지 포탑 (건설 중)</Turret_EnergyTurret_Frame.label>
+  <Turret_EnergyTurret_Frame.description>레이저를 발사하도록 설계된 휴대용 자동 포탑. 탄약이 필요하지 않지만 800 와트의 전력이 필요합니다. 연속 발사 속도는 높지만 피해를 입히면 낮은 위력으로 인해 화상을 입을 수 있습니다. 놀라운 억압과 혼돈. 손상되면 6타일 범위로 폭발할 수 있습니다.</Turret_EnergyTurret_Frame.description>
+  <Bullet_EnergyTurret.label>에너지 포탑 레이저</Bullet_EnergyTurret.label>
+  <Bullet_EnergyTurretUpgraded.label>에너지 포탑 레이저</Bullet_EnergyTurretUpgraded.label>
+  <Gun_EnergyTurret.label>에너지 포탑 총</Gun_EnergyTurret.label>
+  <Gun_EnergyTurret.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_EnergyTurret.description>
+  <Gun_EnergyTurretUpgraded.label>에너지 포탑 총</Gun_EnergyTurretUpgraded.label>
+  <Gun_EnergyTurretUpgraded.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_EnergyTurretUpgraded.description>
+  <Turret_HeavyTurret.label>대형 포탑</Turret_HeavyTurret.label>
+  <Turret_HeavyTurret.description>중형 목표를 대상으로 설계된 휴대용 자동 포탑. 무제한으로 사격합니다. 대량 사용 시 포신 교환에 강철이 필요합니다. 손상되면 6타일의 범위로 폭발할 수 있습니다.</Turret_HeavyTurret.description>
+  <Turret_HeavyTurret_Blueprint.label>대형 포탑 (청사진)</Turret_HeavyTurret_Blueprint.label>
+  <Turret_HeavyTurret_Blueprint_Install.label>대형 포탑 (청사진)</Turret_HeavyTurret_Blueprint_Install.label>
+  <Turret_HeavyTurret_Frame.label>대형 포탑 (건설 중)</Turret_HeavyTurret_Frame.label>
+  <Turret_HeavyTurret_Frame.description>중형 목표를 대상으로 설계된 휴대용 자동 포탑. 무제한으로 사격합니다. 대량 사용 시 포신 교환에 강철이 필요합니다. 손상되면 6타일의 범위로 폭발할 수 있습니다.</Turret_HeavyTurret_Frame.description>
+  <Bullet_HeavyTurret.label>대형 포탑 탄환</Bullet_HeavyTurret.label>
+  <Gun_HeavyTurret.label>대형 포탑 총</Gun_HeavyTurret.label>
+  <Gun_HeavyTurret.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_HeavyTurret.description>
+  <Turret_ShredderTurret.label>쇄절 포탑</Turret_ShredderTurret.label>
+  <Turret_ShredderTurret.description>방어구가 없거나 방어력이 낮은 적을 상대로 설계된 휴대용 자동 포탑. 대량 사용 시 포신 교환에 강철이 필요합니다. 손상되면 2타일의 범위로 폭발할 수 있습니다.</Turret_ShredderTurret.description>
+  <Turret_ShredderTurret_Blueprint.label>쇄절 포탑 (청사진)</Turret_ShredderTurret_Blueprint.label>
+  <Turret_ShredderTurret_Blueprint_Install.label>쇄절 포탑 (청사진)</Turret_ShredderTurret_Blueprint_Install.label>
+  <Turret_ShredderTurret_Frame.label>쇄절 포탑 (건설 중)</Turret_ShredderTurret_Frame.label>
+  <Turret_ShredderTurret_Frame.description>방어구가 없거나 방어력이 낮은 적을 상대로 설계된 휴대용 자동 포탑. 대량 사용 시 포신 교환에 강철이 필요합니다. 손상되면 2타일의 범위로 폭발할 수 있습니다.</Turret_ShredderTurret_Frame.description>
+  <Bullet_ShredderTurret.label>쇄절 포탑 탄환</Bullet_ShredderTurret.label>
+  <Gun_ShredderTurret.label>쇄절 포탑 총</Gun_ShredderTurret.label>
+  <Gun_ShredderTurret.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_ShredderTurret.description>
+  <Turret_ConcussiveTurret.label>충격 포탑</Turret_ConcussiveTurret.label>
+  <Turret_ConcussiveTurret.description>폭발하는 탄환을 발사하게 설계된 휴대용 자동 포탑. 대량 사용 시 포신 교환에 강철이 필요합니다. 손상되면 6타일의 범위로 폭발할 수 있습니다.</Turret_ConcussiveTurret.description>
+  <Turret_ConcussiveTurret_Blueprint.label>충격 포탑 (청사진)</Turret_ConcussiveTurret_Blueprint.label>
+  <Turret_ConcussiveTurret_Blueprint_Install.label>충격 포탑 (청사진)</Turret_ConcussiveTurret_Blueprint_Install.label>
+  <Turret_ConcussiveTurret_Frame.label>충격 포탑 (건설 중)</Turret_ConcussiveTurret_Frame.label>
+  <Turret_ConcussiveTurret_Frame.description>폭발하는 탄환을 발사하게 설계된 휴대용 자동 포탑. 대량 사용 시 포신 교환에 강철이 필요합니다. 손상되면 6타일의 범위로 폭발할 수 있습니다.</Turret_ConcussiveTurret_Frame.description>
+  <Bullet_ConcussiveTurret.label>충격 포탑 탄환</Bullet_ConcussiveTurret.label>
+  <Gun_ConcussiveTurret.label>충격 포탑 총</Gun_ConcussiveTurret.label>
+  <Gun_ConcussiveTurret.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_ConcussiveTurret.description>
+  <Turret_STEMPTurret.label>EMP 포탑</Turret_STEMPTurret.label>
+  <Turret_STEMPTurret.description>메카노이드를 상대하도록 설계된 휴대용 자동 포탑. 생물적인 목표물에는 효과적이지 않습니다. 손상되면 6타일 범위로 폭발할 수 있습니다.</Turret_STEMPTurret.description>
+  <Turret_STEMPTurret_Blueprint.label>EMP 포탑 (청사진)</Turret_STEMPTurret_Blueprint.label>
+  <Turret_STEMPTurret_Blueprint_Install.label>EMP 포탑 (청사진)</Turret_STEMPTurret_Blueprint_Install.label>
+  <Turret_STEMPTurret_Frame.label>EMP 포탑 (건설 중)</Turret_STEMPTurret_Frame.label>
+  <Turret_STEMPTurret_Frame.description>메카노이드를 상대하도록 설계된 휴대용 자동 포탑. 생물적인 목표물에는 효과적이지 않습니다. 손상되면 6타일 범위로 폭발할 수 있습니다.</Turret_STEMPTurret_Frame.description>
+  <Bullet_EMPTurret.label>EMP 포탄 탄환</Bullet_EMPTurret.label>
+  <Gun_EMPTurret.label>EMP 포탄 총</Gun_EMPTurret.label>
+  <Gun_EMPTurret.description>전자동 소구경 기관총이 장착된 포탑입니다.</Gun_EMPTurret.description>
+
+</LanguageData>

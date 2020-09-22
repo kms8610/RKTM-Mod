@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Belt_Flak_38_HEFIT_RA.label>2cm 고폭파편소이예광탄(HEFI-T) 탄띠</Belt_Flak_38_HEFIT_RA.label>
+  <Belt_Flak_38_HEFIT_RA.description>폭발성이 높은 탄환들이 연결된 탄띠. 손상시 폭발합니다.</Belt_Flak_38_HEFIT_RA.description>
+  <Bullet_Flak_38_HEFIT_RA.label>AA 탄환</Bullet_Flak_38_HEFIT_RA.label>
+  <TableRA.label>제3제국 기계 테이블</TableRA.label>
+  <TableRA.description>제3제국 병기고 모드의 무기와 다른 것들을 조립하기 위한 작업소입니다.</TableRA.description>
+  <TableRA_Blueprint.label>제3제국 기계 테이블 (청사진)</TableRA_Blueprint.label>
+  <TableRA_Blueprint_Install.label>제3제국 기계 테이블 (청사진)</TableRA_Blueprint_Install.label>
+  <TableRA_Frame.label>제3제국 기계 테이블 (건설 중)</TableRA_Frame.label>
+  <TableRA_Frame.description>제3제국 병기고 모드의 무기와 다른 것들을 조립하기 위한 작업소입니다.</TableRA_Frame.description>
+  <Turret_Flak_38_Camo_RA.label>2cm Flak 38 포탑 (위장 도색)</Turret_Flak_38_Camo_RA.label>
+  <Turret_Flak_38_Camo_RA.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Turret_Flak_38_Camo_RA.description>
+  <Turret_Flak_38_Camo_RA_Blueprint.label>2cm Flak 38 포탑 (위장 도색) (청사진)</Turret_Flak_38_Camo_RA_Blueprint.label>
+  <Turret_Flak_38_Camo_RA_Blueprint_Install.label>2cm Flak 38 포탑 (위장 도색) (청사진)</Turret_Flak_38_Camo_RA_Blueprint_Install.label>
+  <Turret_Flak_38_Camo_RA_Frame.label>2cm Flak 38 포탑 (위장 도색) (건설 중)</Turret_Flak_38_Camo_RA_Frame.label>
+  <Turret_Flak_38_Camo_RA_Frame.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Turret_Flak_38_Camo_RA_Frame.description>
+  <Gun_Flak_38_Camo_RA.label>2cm Flak 38</Gun_Flak_38_Camo_RA.label>
+  <Gun_Flak_38_Camo_RA.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Gun_Flak_38_Camo_RA.description>
+  <Turret_Flak_38_Dunkelgelb_RA.label>2cm Flak 38 포탑 (진한 노랑)</Turret_Flak_38_Dunkelgelb_RA.label>
+  <Turret_Flak_38_Dunkelgelb_RA.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Turret_Flak_38_Dunkelgelb_RA.description>
+  <Turret_Flak_38_Dunkelgelb_RA_Blueprint.label>2cm Flak 38 포탑 (진한 노랑) (청사진)</Turret_Flak_38_Dunkelgelb_RA_Blueprint.label>
+  <Turret_Flak_38_Dunkelgelb_RA_Blueprint_Install.label>2cm Flak 38 포탑 (진한 노랑) (청사진)</Turret_Flak_38_Dunkelgelb_RA_Blueprint_Install.label>
+  <Turret_Flak_38_Dunkelgelb_RA_Frame.label>2cm Flak 38 포탑 (진한 노랑) (건설 중)</Turret_Flak_38_Dunkelgelb_RA_Frame.label>
+  <Turret_Flak_38_Dunkelgelb_RA_Frame.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Turret_Flak_38_Dunkelgelb_RA_Frame.description>
+  <Gun_Flak_38_Dunkelgelb_RA.label>2cm Flak 38</Gun_Flak_38_Dunkelgelb_RA.label>
+  <Gun_Flak_38_Dunkelgelb_RA.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Gun_Flak_38_Dunkelgelb_RA.description>
+  <Turret_Flak_38_Panzergrau_RA.label>2cm Flak 38 포탑 (탱크 회색)</Turret_Flak_38_Panzergrau_RA.label>
+  <Turret_Flak_38_Panzergrau_RA.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Turret_Flak_38_Panzergrau_RA.description>
+  <Turret_Flak_38_Panzergrau_RA_Blueprint.label>2cm Flak 38 포탑 (탱크 회색) (청사진)</Turret_Flak_38_Panzergrau_RA_Blueprint.label>
+  <Turret_Flak_38_Panzergrau_RA_Blueprint_Install.label>2cm Flak 38 포탑 (탱크 회색) (청사진)</Turret_Flak_38_Panzergrau_RA_Blueprint_Install.label>
+  <Turret_Flak_38_Panzergrau_RA_Frame.label>2cm Flak 38 포탑 (탱크 회색) (건설 중)</Turret_Flak_38_Panzergrau_RA_Frame.label>
+  <Turret_Flak_38_Panzergrau_RA_Frame.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Turret_Flak_38_Panzergrau_RA_Frame.description>
+  <Gun_Flak_38_Panzergrau_RA.label>2cm Flak 38 탱크 회색 도색</Gun_Flak_38_Panzergrau_RA.label>
+  <Gun_Flak_38_Panzergrau_RA.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Gun_Flak_38_Panzergrau_RA.description>
+  <ZF39_RA.label>ZF39 조준경</ZF39_RA.label>
+  <ZF39_RA.description>Kar98K용 망원조준경 입니다.</ZF39_RA.description>
+  <ZF4_RA.label>ZF4 조준경</ZF4_RA.label>
+  <ZF4_RA.description>Gew 43과 StG 44용 망원조준경 입니다.</ZF4_RA.description>
+  <Schiessbecher_RA.label>총류탄</Schiessbecher_RA.label>
+  <Schiessbecher_RA.description>Kar98K에 장착하는 총류탄 발사기입니다.</Schiessbecher_RA.description>
+  <Kar98K_Ammo_RA.label>7,92mm 고품질 탄약 상자</Kar98K_Ammo_RA.label>
+  <Kar98K_Ammo_RA.description>정밀 사격에 완벽한 7,92mm 마우저 고품질 탄약 팩.</Kar98K_Ammo_RA.description>
+  <Shell_PaK_40_HE_RA.label>7,5cm 고폭탄</Shell_PaK_40_HE_RA.label>
+  <Shell_PaK_40_HE_RA.description>폭발물이 가득 들어있습니다. 충격을 받으면 폭발합니다.</Shell_PaK_40_HE_RA.description>
+  <Shell_PaK_40_APHECBC_RA.label>7,5cm 저저항피모철갑유탄</Shell_PaK_40_APHECBC_RA.label>
+  <Shell_PaK_40_APHECBC_RA.description>대전차용 고폭탄입니다. 경금속 피모와 유선형 캡이 씌워져 있습니다.</Shell_PaK_40_APHECBC_RA.description>
+  <Shell_PaK_40_APCR_RA.label>7,5cm 경심철갑탄</Shell_PaK_40_APCR_RA.label>
+  <Shell_PaK_40_APCR_RA.description>중앙에 심이 들어있고, 겉은 심보다 약한 철갑탄입니다.</Shell_PaK_40_APCR_RA.description>
+  <Bullet_PaK_40_HE_RA.label>고폭탄</Bullet_PaK_40_HE_RA.label>
+  <Bullet_PaK_40_APHECBC_RA.label>저저항피모철갑유탄</Bullet_PaK_40_APHECBC_RA.label>
+  <Bullet_PaK_40_APCR_RA.label>경심철갑탄</Bullet_PaK_40_APCR_RA.label>
+  <Turret_PaK_40_Camo_RA.label>7,5cm PaK 40 (위장 도색)</Turret_PaK_40_Camo_RA.label>
+  <Turret_PaK_40_Camo_RA.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Turret_PaK_40_Camo_RA.description>
+  <Turret_PaK_40_Camo_RA_Blueprint.label>7,5cm PaK 40 (위장 도색) (청사진)</Turret_PaK_40_Camo_RA_Blueprint.label>
+  <Turret_PaK_40_Camo_RA_Blueprint_Install.label>7,5cm PaK 40 (위장 도색) (청사진)</Turret_PaK_40_Camo_RA_Blueprint_Install.label>
+  <Turret_PaK_40_Camo_RA_Frame.label>7,5cm PaK 40 (위장 도색) (건설 중)</Turret_PaK_40_Camo_RA_Frame.label>
+  <Turret_PaK_40_Camo_RA_Frame.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Turret_PaK_40_Camo_RA_Frame.description>
+  <Artillery_PaK_40_Camo_RA.label>7,5cm PaK 40 포탑</Artillery_PaK_40_Camo_RA.label>
+  <Artillery_PaK_40_Camo_RA.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Artillery_PaK_40_Camo_RA.description>
+  <Turret_PaK_40_Dunkelgelb_RA.label>7,5cm PaK 40 포탑 (진한 노랑)</Turret_PaK_40_Dunkelgelb_RA.label>
+  <Turret_PaK_40_Dunkelgelb_RA.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Turret_PaK_40_Dunkelgelb_RA.description>
+  <Turret_PaK_40_Dunkelgelb_RA_Blueprint.label>7,5cm PaK 40 포탑 (진한 노랑) (청사진)</Turret_PaK_40_Dunkelgelb_RA_Blueprint.label>
+  <Turret_PaK_40_Dunkelgelb_RA_Blueprint_Install.label>7,5cm PaK 40 포탑 (진한 노랑) (청사진)</Turret_PaK_40_Dunkelgelb_RA_Blueprint_Install.label>
+  <Turret_PaK_40_Dunkelgelb_RA_Frame.label>7,5cm PaK 40 포탑 (진한 노랑) (건설 중)</Turret_PaK_40_Dunkelgelb_RA_Frame.label>
+  <Turret_PaK_40_Dunkelgelb_RA_Frame.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Turret_PaK_40_Dunkelgelb_RA_Frame.description>
+  <Artillery_PaK_40_Dunkelgelb_RA.label>7,5cm PaK 40 포탑</Artillery_PaK_40_Dunkelgelb_RA.label>
+  <Artillery_PaK_40_Dunkelgelb_RA.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Artillery_PaK_40_Dunkelgelb_RA.description>
+  <Turret_PaK_40_Panzergrau_RA.label>7,5cm PaK 40 포탑 (탱크 회색)</Turret_PaK_40_Panzergrau_RA.label>
+  <Turret_PaK_40_Panzergrau_RA.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Turret_PaK_40_Panzergrau_RA.description>
+  <Turret_PaK_40_Panzergrau_RA_Blueprint.label>7,5cm PaK 40 포탑 (탱크 회색) (청사진)</Turret_PaK_40_Panzergrau_RA_Blueprint.label>
+  <Turret_PaK_40_Panzergrau_RA_Blueprint_Install.label>7,5cm PaK 40 포탑 (탱크 회색) (청사진)</Turret_PaK_40_Panzergrau_RA_Blueprint_Install.label>
+  <Turret_PaK_40_Panzergrau_RA_Frame.label>7,5cm PaK 40 포탑 (탱크 회색) (건설 중)</Turret_PaK_40_Panzergrau_RA_Frame.label>
+  <Turret_PaK_40_Panzergrau_RA_Frame.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Turret_PaK_40_Panzergrau_RA_Frame.description>
+  <Artillery_PaK_40_Panzergrau_RA.label>7,5cm PaK 40 포</Artillery_PaK_40_Panzergrau_RA.label>
+  <Artillery_PaK_40_Panzergrau_RA.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Artillery_PaK_40_Panzergrau_RA.description>
+  <Turret_leIG_18_RA.label>7,5cm le.IG 18 포탑</Turret_leIG_18_RA.label>
+  <Turret_leIG_18_RA.description>제2차 세계대전 당시 사용했던 독일 웨흐르마흐트의 보병지원포였습니다.</Turret_leIG_18_RA.description>
+  <Turret_leIG_18_RA_Blueprint.label>7,5cm le.IG 18 포탑 (청사진)</Turret_leIG_18_RA_Blueprint.label>
+  <Turret_leIG_18_RA_Blueprint_Install.label>7,5cm le.IG 18 포탑 (청사진)</Turret_leIG_18_RA_Blueprint_Install.label>
+  <Turret_leIG_18_RA_Frame.label>7,5cm le.IG 18 포탑 (건설 중)</Turret_leIG_18_RA_Frame.label>
+  <Turret_leIG_18_RA_Frame.description>제2차 세계대전 당시 사용했던 독일 웨흐르마흐트의 보병지원포였습니다.</Turret_leIG_18_RA_Frame.description>
+  <Artillery_leIG_18_RA.label>7,5cm le.IG 18 포</Artillery_leIG_18_RA.label>
+  <Artillery_leIG_18_RA.description>제2차 세계대전 당시 사용했던 독일 웨흐르마흐트의 보병지원포였습니다.</Artillery_leIG_18_RA.description>
+  <Shell_leIG_18_HE_RA.label>7,5cm le.IG 18 고폭탄</Shell_leIG_18_HE_RA.label>
+  <Shell_leIG_18_HE_RA.description>폭발물이 가득 들어있습니다. 충격을 받으면 폭발합니다.</Shell_leIG_18_HE_RA.description>
+  <Shell_leIG_18_HEAT_RA.label>7,5cm le.IG 18 대전차고폭탄</Shell_leIG_18_HEAT_RA.label>
+  <Shell_leIG_18_HEAT_RA.description>폭발물이 가득 들어있는 대전차용 포탄입니다. 충격을 받으면 폭발합니다.</Shell_leIG_18_HEAT_RA.description>
+  <Bullet_leIG_18_HE_RA.label>고폭탄</Bullet_leIG_18_HE_RA.label>
+  <Bullet_leIG_18_HEAT_RA.label>대전차고폭탄</Bullet_leIG_18_HEAT_RA.label>
+  <Turret_MG_42_RA.label>거치된 MG42</Turret_MG_42_RA.label>
+  <Turret_MG_42_RA.description>저렴하고 제작이 용이하도록 설계된 MG 42는 신뢰성이 높고 조작이 용이하다는 것이 입증되었습니다. 기본 발사속도는 분당 평균 1,200발로, MG 34의 경우 약 850발, M19 브라우닝이나 브렌과 같은 다른 일반 기관총의 경우 450~600발 정도로 빠른 사격속도로 유명합니다. 이 능력은 진압용 화력을 제공하는 데 매우 효과적이었으며, 그 독특한 소리는 "히틀러의 전기톱"이라는 별명을 얻게 했습니다.</Turret_MG_42_RA.description>
+  <Turret_MG_42_RA_Blueprint.label>거치된 MG42 (청사진)</Turret_MG_42_RA_Blueprint.label>
+  <Turret_MG_42_RA_Blueprint_Install.label>거치된 MG42 (청사진)</Turret_MG_42_RA_Blueprint_Install.label>
+  <Turret_MG_42_RA_Frame.label>거치된 MG42 (건설 중)</Turret_MG_42_RA_Frame.label>
+  <Turret_MG_42_RA_Frame.description>저렴하고 제작이 용이하도록 설계된 MG 42는 신뢰성이 높고 조작이 용이하다는 것이 입증되었습니다. 기본 발사속도는 분당 평균 1,200발로, MG 34의 경우 약 850발, M19 브라우닝이나 브렌과 같은 다른 일반 기관총의 경우 450~600발 정도로 빠른 사격속도로 유명합니다. 이 능력은 진압용 화력을 제공하는 데 매우 효과적이었으며, 그 독특한 소리는 "히틀러의 전기톱"이라는 별명을 얻게 했습니다.</Turret_MG_42_RA_Frame.description>
+  <Gun_MG_42_T_RA.label>거치된 MG42</Gun_MG_42_T_RA.label>
+  <Gun_MG_42_T_RA.description>저렴하고 제작이 용이하도록 설계된 MG 42는 신뢰성이 높고 조작이 용이하다는 것이 입증되었습니다. 기본 발사속도는 분당 평균 1,200발로, MG 34의 경우 약 850발, M19 브라우닝이나 브렌과 같은 다른 일반 기관총의 경우 450~600발 정도로 빠른 사격속도로 유명합니다. 이 능력은 진압용 화력을 제공하는 데 매우 효과적이었으며, 그 독특한 소리는 "히틀러의 전기톱"이라는 별명을 얻게 했습니다.</Gun_MG_42_T_RA.description>
+  <Turret_Nebelwerfer_41_KA.label>15cm 네벨베르퍼 41 포탑</Turret_Nebelwerfer_41_KA.label>
+  <Turret_Nebelwerfer_41_KA.description>15cm NbW 41은 2차 세계대전에 사용된 독일의 다연장로켓입니다. 독일 화학군단 네벨트루펜 부대에서 운용했는데, 이 부대는 독가스와 연막탄 투사기에 대한 책임을 지고 있었으며, 전쟁 중 고폭탄을 전달하는 데도 사용되었습니다. 네벨베르퍼라는 이름은 "연막탄 투사기"로 가장 잘 번역됩니다. 연합군은 특유의 사운드로 인해 '비명지르는 미미'나 '흐느끼는 미니'라는 별명을 붙였다.</Turret_Nebelwerfer_41_KA.description>
+  <Turret_Nebelwerfer_41_KA_Blueprint.label>15cm 네벨베르퍼 41 포탑 (청사진)</Turret_Nebelwerfer_41_KA_Blueprint.label>
+  <Turret_Nebelwerfer_41_KA_Blueprint_Install.label>15cm 네벨베르퍼 41 포탑 (청사진)</Turret_Nebelwerfer_41_KA_Blueprint_Install.label>
+  <Turret_Nebelwerfer_41_KA_Frame.label>15cm 네벨베르퍼 41 포탑 (건설 중)</Turret_Nebelwerfer_41_KA_Frame.label>
+  <Turret_Nebelwerfer_41_KA_Frame.description>15cm NbW 41은 2차 세계대전에 사용된 독일의 다연장로켓입니다. 독일 화학군단 네벨트루펜 부대에서 운용했는데, 이 부대는 독가스와 연막탄 투사기에 대한 책임을 지고 있었으며, 전쟁 중 고폭탄을 전달하는 데도 사용되었습니다. 네벨베르퍼라는 이름은 "연막탄 투사기"로 가장 잘 번역됩니다. 연합군은 특유의 사운드로 인해 '비명지르는 미미'나 '흐느끼는 미니'라는 별명을 붙였다.</Turret_Nebelwerfer_41_KA_Frame.description>
+  <Artillery_Nebelwerfer_41_RA.label>15cm 네벨베르퍼 41</Artillery_Nebelwerfer_41_RA.label>
+  <Artillery_Nebelwerfer_41_RA.description>15cm NbW 41은 2차 세계대전에 사용된 독일의 다연장로켓입니다. 독일 화학군단 네벨트루펜 부대에서 운용했는데, 이 부대는 독가스와 연막탄 투사기에 대한 책임을 지고 있었으며, 전쟁 중 고폭탄을 전달하는 데도 사용되었습니다. 네벨베르퍼라는 이름은 "연막탄 투사기"로 가장 잘 번역됩니다. 연합군은 특유의 사운드로 인해 '비명지르는 미미'나 '흐느끼는 미니'라는 별명을 붙였다.</Artillery_Nebelwerfer_41_RA.description>
+  <Shell_Nebelwerfer_41_HE_RA.label>15cm 고폭탄 로켓</Shell_Nebelwerfer_41_HE_RA.label>
+  <Shell_Nebelwerfer_41_HE_RA.description>폭발물이 가득 들어있는 로켓입니다. 충격을 받으면 폭발합니다.</Shell_Nebelwerfer_41_HE_RA.description>
+  <Bullet_Nebelwerfer_41_HE_RA.label>고폭탄 로켓</Bullet_Nebelwerfer_41_HE_RA.label>
+  <Shell_PaK_36_HE_RA.label>3,7cm 고폭탄</Shell_PaK_36_HE_RA.label>
+  <Shell_PaK_36_HE_RA.description>폭발물이 가득 들어있습니다. 충격을 받으면 폭발합니다.</Shell_PaK_36_HE_RA.description>
+  <Shell_PaK_36_APCR_RA.label>3,7cm 경심철갑탄</Shell_PaK_36_APCR_RA.label>
+  <Shell_PaK_36_APCR_RA.description>중앙에 심이 들어있고, 겉은 심보다 약한 철갑탄입니다.</Shell_PaK_36_APCR_RA.description>
+  <Bullet_PaK_36_HE_RA.label>고폭탄</Bullet_PaK_36_HE_RA.label>
+  <Bullet_PaK_36_APCR_RA.label>경심철갑탄</Bullet_PaK_36_APCR_RA.label>
+  <Turret_PaK_36_RA.label>3,7cm PaK 36 포탑</Turret_PaK_36_RA.label>
+  <Turret_PaK_36_RA.description>제2차 세계대전 때 사용한 3,7cm의 독일 대전차포입니다. 1942년까지 베흐마흐트 기갑 부대의 주력 대전차 무기였습니다. 1933년 라인메탈에 의해 개발되었으며, 1936년 독일 육군에 처음 배치되었으며, 1939년 9월 전쟁이 시작될 때까지 9120대를 배치하였고, 전쟁 중에 추가로 5339대를 생산했습니다.</Turret_PaK_36_RA.description>
+  <Turret_PaK_36_RA_Blueprint.label>3,7cm PaK 36 포탑 (청사진)</Turret_PaK_36_RA_Blueprint.label>
+  <Turret_PaK_36_RA_Blueprint_Install.label>3,7cm PaK 36 포탑 (청사진)</Turret_PaK_36_RA_Blueprint_Install.label>
+  <Turret_PaK_36_RA_Frame.label>3,7cm PaK 36 포탑 (건설 중)</Turret_PaK_36_RA_Frame.label>
+  <Turret_PaK_36_RA_Frame.description>제2차 세계대전 때 사용한 3,7cm의 독일 대전차포입니다. 1942년까지 베흐마흐트 기갑 부대의 주력 대전차 무기였습니다. 1933년 라인메탈에 의해 개발되었으며, 1936년 독일 육군에 처음 배치되었으며, 1939년 9월 전쟁이 시작될 때까지 9120대를 배치하였고, 전쟁 중에 추가로 5339대를 생산했습니다.</Turret_PaK_36_RA_Frame.description>
+  <Artillery_PaK_36_RA.label>3,7cm PaK 36 포</Artillery_PaK_36_RA.label>
+  <Artillery_PaK_36_RA.description>제2차 세계대전 때 사용한 3,7cm의 독일 대전차포입니다. 1942년까지 베흐마흐트 기갑 부대의 주력 대전차 무기였습니다. 1933년 라인메탈에 의해 개발되었으며, 1936년 독일 육군에 처음 배치되었으며, 1939년 9월 전쟁이 시작될 때까지 9120대를 배치하였고, 전쟁 중에 추가로 5339대를 생산했습니다.</Artillery_PaK_36_RA.description>
+  <Bullet_900mm_RA.label>권총 탄환</Bullet_900mm_RA.label>
+  <Bullet_792mm_RA.label>소총 탄환</Bullet_792mm_RA.label>
+  <Bullet_792mm_MG_RA.label>소총 탄환</Bullet_792mm_MG_RA.label>
+  <Bullet_792mm_Kurz_RA.label>소총 탄환</Bullet_792mm_Kurz_RA.label>
+  <Bullet_Faustpatrone_RA.label>로켓</Bullet_Faustpatrone_RA.label>
+  <Bullet_792mm_Sniper_RA.label>소총 탄환</Bullet_792mm_Sniper_RA.label>
+  <Bullet_792mm_AT_RA.label>소총 탄환</Bullet_792mm_AT_RA.label>
+  <Bullet_765mm_RA.label>권총 탄환</Bullet_765mm_RA.label>
+  <Bullet_Flame_RA.label>화염</Bullet_Flame_RA.label>
+  <Proj_M24_RA.label>m24 수류탄</Proj_M24_RA.label>
+  <Bullet_Schiessbecher_RA.label>총류탄</Bullet_Schiessbecher_RA.label>
+  <Gun_StG_44_Scope_RA.label>StG 44 조준경 장착</Gun_StG_44_Scope_RA.label>
+  <Gun_StG_44_Scope_RA.description>StG 44는 비교적 짧은 카트리지, 제어 가능한 자동 사격, 더 빠른 사격 속도를 가진 전투 소총보다 더 작은 설계, 그리고 몇 백 미터 이내에 목표물을 타격할 수 있는 기능을 갖춘 최초의 성공적인 돌격소총이었습니다. StG 44는 특히 동부 전선에서 그 역할을 효과적으로 수행하여 표준 보병 소총에 비해 상당히 많은 화력을 제공했습니다. 전쟁에 큰 영향을 미치기에는 너무 늦었지만, 전쟁이 끝난 지 2년 후에 도입된 소련 AK에 영향을 주었습니다. 이 소총의 영향은 현대의 돌격 소총에서도 여전히 볼 수 있습니다.</Gun_StG_44_Scope_RA.description>
+  <Gun_StG_44_Scope_RA.tools.0.label>개머리판</Gun_StG_44_Scope_RA.tools.0.label>
+  <Gun_StG_44_RA.label>StG 44</Gun_StG_44_RA.label>
+  <Gun_StG_44_RA.description>StG 44는 비교적 짧은 카트리지, 제어 가능한 자동 사격, 더 빠른 사격 속도를 가진 전투 소총보다 더 작은 설계, 그리고 몇 백 미터 이내에 목표물을 타격할 수 있는 기능을 갖춘 최초의 성공적인 돌격소총이었습니다. StG 44는 특히 동부 전선에서 그 역할을 효과적으로 수행하여 표준 보병 소총에 비해 상당히 많은 화력을 제공했습니다. 전쟁에 큰 영향을 미치기에는 너무 늦었지만, 전쟁이 끝난 지 2년 후에 도입된 소련 AK에 영향을 주었습니다. 이 소총의 영향은 현대의 돌격 소총에서도 여전히 볼 수 있습니다.</Gun_StG_44_RA.description>
+  <Gun_StG_44_RA.tools.0.label>개머리판</Gun_StG_44_RA.tools.0.label>
+  <Gun_FG_42_RA.label>FG 42</Gun_FG_42_RA.label>
+  <Gun_FG_42_RA.description>폴스미르예게르웨르 42는 제2차 세계대전 당시 나치 독일에서 생산된 선택 사격형 자동 소총입니다. 이 무기는 1942년 폴스처미르제거 공수 보병대의 사용을 위해 특별히 개발되었으며, 전쟁이 끝날 때까지 매우 제한된 숫자로 사용되었습니다. 경기관총의 특성과 화력을 Kar98k 소총보다 크지 않은 경량 형태로 조합했습니다. 제2차 세계대전의 가장 진보된 무기 설계 중 하나로 여겨지는 FG 42는 전후 소규모 무기 개발에 영향을 미쳤으며, 대부분의 설계는 M60 기관총을 개발하면서 미 육군에 의해 모방되었습니다.</Gun_FG_42_RA.description>
+  <Gun_FG_42_RA.tools.0.label>개머리판</Gun_FG_42_RA.tools.0.label>
+  <Gun_MP_507_RA.label>MP 507</Gun_MP_507_RA.label>
+  <Gun_MP_507_RA.description>1944년 구스틀로프-베르케의 카를 바르니츠케가 Primitiv-Waffen-Programm(원시 무기 프로그램)을 위해 설계한 것으로, 국민돌격대가 사용하고자 했던 것입니다. 구스틀로프의 생산은 1945년 1월부터 전쟁이 끝날 때까지 이루어졌고, 대략 10,000개가 만들어졌습니다. 이 무기는 이전의 StG 44 돌격 소총과 동일한 7,92×33mm Kurz 카트리지를 사용했으며, 또한 동일한 분리형 30라운드 박스 매거진을 사용하였습니다.</Gun_MP_507_RA.description>
+  <Gun_MP_507_RA.tools.0.label>개머리판</Gun_MP_507_RA.tools.0.label>
+  <Gun_MP_40_RA.label>MP 40</Gun_MP_40_RA.label>
+  <Gun_MP_40_RA.description>1938년 하인리히 폴머가 전신인 MP 38의 영감을 받아 디자인한 이 기관단총은 보병(특히 소대와 분대 지휘관)과 낙하산병들에 의해 많이 사용되었습니다. 고급스럽고 현대적인 특징으로 인해 군인들 사이에서 인기가 있었고 전후 세계 각지의 나라에서 인기가 있었습니다. 후고 슈마이서는 무기의 설계나 제작에 관여하지 않았지만 연합군으로부터 종종 "슈마이서"라고 잘못 불렸습니다.</Gun_MP_40_RA.description>
+  <Gun_MP_40_RA.tools.0.label>개머리판</Gun_MP_40_RA.tools.0.label>
+  <Gun_MP_35_RA.label>MP 35</Gun_MP_35_RA.label>
+  <Gun_MP_35_RA.description>MP 35는 제2차 세계 대전 전후 독일 경찰, 무장친위대, 독일 국방군에서 사용된 보조 기관총이었습니다. 1930년대 초 에밀 베르그만에 의해 개발되어 슐(Sull)에 있는 베르크만사에서 제조되었습니다(최초의 서브 머신 건 중 하나인 MP 18 또한).</Gun_MP_35_RA.description>
+  <Gun_MP_35_RA.tools.0.label>개머리판</Gun_MP_35_RA.tools.0.label>
+  <Gun_MP_3008_RA.label>MP 3008</Gun_MP_3008_RA.label>
+  <Gun_MP_3008_RA.description>일명 ' Volksmaschinenpistole'로도 알려진 이 무기는 수직 탄창을 제외하고는 스텐 Mk II 기관총의 하위 호환에 가깝습니다. 일부는 추가로 권총 손잡이을 가지고 있었습니다. MP 3008은 독일이 붕괴 위기에 처했을 때 고안된 비상 조치였습니다. 원자재 부족에 허덕이는 독일인들은 표준 소형 기관총인 MP 40에 비해 훨씬 저렴한 대체품을 생산하려고 했었습니다.</Gun_MP_3008_RA.description>
+  <Gun_MP_3008_RA.tools.0.label>개머리판</Gun_MP_3008_RA.tools.0.label>
+  <Gun_P38_RA.label>P38</Gun_P38_RA.label>
+  <Gun_P38_RA.description>발터 P38은 칼 발터 GmbH가 제2차 세계대전이 시작될 때 1942년에 생산 중단될 루거 P08의 대체 목적으로 독일 국방군 지급용 권총으로 개발한 9mm 반자동 권총입니다.</Gun_P38_RA.description>
+  <Gun_P38_RA.tools.0.label>손잡이</Gun_P38_RA.tools.0.label>
+  <Gun_P08_RA.label>P08</Gun_P08_RA.label>
+  <Gun_P08_RA.description>흔히 그냥 루거로 알려진 피스톨 파라벨럼은 1898년부터 1948년까지 여러 모델과 여러 국가에서 생산된 토글 잠금식 반자동 권총이다. 이 디자인은 보르하르트 오토매틱 피스톨의 개량형으로 게오르그 루거에 의해 처음 특허를 받았으며, 독일 무기 제조업체 DMW(Deutsche Waffen und Munitionsfabriken)에 의해 파라벨럼 자동 피스톨, 보르하르트-루거 시스템으로 제작되었습니다.</Gun_P08_RA.description>
+  <Gun_P08_RA.tools.0.label>손잡이</Gun_P08_RA.tools.0.label>
+  <Gun_PPK_RA.label>PPK</Gun_PPK_RA.label>
+  <Gun_PPK_RA.description>PP와 PPK는 세계 최초로 성공한 이중 동작 반자동 권총에 속합니다. 여전히 발터가 제작하고 있으며, 널리 복사되었습니다. 그 디자인은 다른 권총들을 고무시켰는데, 그 중에서도 소비에트 마카로프와 아메리칸 어큐-텍 AT-380 II에 영감을 주었습니다. PP와 PPK는 신뢰할 수 있고 숨길 수 있다는 이유로 유럽 경찰과 민간인들에게 인기가 있었습니다. 제2차 세계대전 당시 독일군은 물론 루프트와프(Luftwaffe)까지 사용했었습니다.</Gun_PPK_RA.description>
+  <Gun_PPK_RA.tools.0.label>손잡이</Gun_PPK_RA.tools.0.label>
+  <Gun_Volkspistole_RA.label>국민돌격권총</Gun_Volkspistole_RA.label>
+  <Gun_Volkspistole_RA.description>국민돌격권총은 최소한의 가공된 부품으로 단순한 강철 압착기로 조립된 비상형 독일의 권총 설계였습니다. 제2차 세계대전이 끝나기 전에 프로토타입만 제작되었습니다. 이 프로토타입들은 총알이 총구를 떠날 때까지 추진제 가스를 앞으로 유도하여 배럴을 지연시키는 특이한 잠금 장치를 가지고 있었습니다.</Gun_Volkspistole_RA.description>
+  <Gun_Volkspistole_RA.tools.0.label>손잡이</Gun_Volkspistole_RA.tools.0.label>
+  <Gun_MG_42_RA.label>MG 42</Gun_MG_42_RA.label>
+  <Gun_MG_42_RA.description>저렴하고 제작이 용이하도록 설계된 MG 42는 신뢰성이 높고 조작이 용이하다는 것이 입증되었습니다. 기본 발사속도는 분당 평균 1,200발로, MG 34의 경우 약 850발, M19 브라우닝이나 브렌과 같은 다른 일반 기관총의 경우 450~600발 정도로 빠른 사격속도로 유명합니다. 이 능력은 진압용 화력을 제공하는 데 매우 효과적이었으며, 그 독특한 소리는 "히틀러의 전기톱"이라는 별명을 얻게 했습니다.</Gun_MG_42_RA.description>
+  <Gun_MG_42_RA.tools.0.label>개머리판</Gun_MG_42_RA.tools.0.label>
+  <Gun_MG_34_RA.label>MG 34</Gun_MG_34_RA.label>
+  <Gun_MG_34_RA.description>MG 34 다용도 기관총은 7,92×57mm Mauser 탄띠나 드럼 탄창을 사용했고, 거의 틀림없이 배치 당시 세계에서 가장 진보된 기관총이었습니다. MG 34는 휴대성과 중 기관총 역할 , 대공 지원, 그리고 저격 능력까지 제공할 수 있도록 잘 구상되고 개발되었다. 한 사람이 휴대할 수 있을 만큼 가볍고 높은 화력과 탁월한 이동성과 조합은 타의 추종을 불허했습니다. 1936년 히틀러가 베르사유 조약을 거부한 후 많은 수의 제작에 들어갔으며, 스페인 내전에서 프랑코 민족주의자들을 돕는 독일군에 의해 첫 전투 시험을 받았습니다.</Gun_MG_34_RA.description>
+  <Gun_MG_34_RA.tools.0.label>개머리판</Gun_MG_34_RA.tools.0.label>
+  <Gun_Kar98K_Sniper_RA.label>Kar98K 스나이퍼</Gun_Kar98K_Sniper_RA.label>
+  <Gun_Kar98K_Sniper_RA.description>1898년형 단기병총( Karabiner 98 kurz)는 1935년 독일 국방군의 제식 소총으로 채택된 7,92×57mm 마우저 탄을 사용하는 볼트액션 소총입니다. 마우저 탄종을 쓰는 병기들 중 거의 마지막에 해당됩니다. 제2차 세계대전 당시 반자동소총으로 보완되었지만, 1945년 전쟁이 끝날 때까지 독일의 제식 소총으로 남아 있었습니다.</Gun_Kar98K_Sniper_RA.description>
+  <Gun_Kar98K_Sniper_RA.tools.0.label>개머리판</Gun_Kar98K_Sniper_RA.tools.0.label>
+  <Gun_Kar98K_Schiessbecher_RA.label>Kar98K 총류탄</Gun_Kar98K_Schiessbecher_RA.label>
+  <Gun_Kar98K_Schiessbecher_RA.description>1898년형 단기병총( Karabiner 98 kurz)는 1935년 독일 국방군의 제식 소총으로 채택된 7,92×57mm 마우저 탄을 사용하는 볼트액션 소총입니다. 마우저 탄종을 쓰는 병기들 중 거의 마지막에 해당됩니다. 제2차 세계대전 당시 반자동소총으로 보완되었지만, 1945년 전쟁이 끝날 때까지 독일의 제식 소총으로 남아 있었습니다.</Gun_Kar98K_Schiessbecher_RA.description>
+  <Gun_Kar98K_Schiessbecher_RA.tools.0.label>개머리판</Gun_Kar98K_Schiessbecher_RA.tools.0.label>
+  <Gun_Kar98K_Bayonet_RA.label>Kar98K 총검 장착</Gun_Kar98K_Bayonet_RA.label>
+  <Gun_Kar98K_Bayonet_RA.description>1898년형 단기병총( Karabiner 98 kurz)는 1935년 독일 국방군의 제식 소총으로 채택된 7,92×57mm 마우저 탄을 사용하는 볼트액션 소총입니다. 마우저 탄종을 쓰는 병기들 중 거의 마지막에 해당됩니다. 제2차 세계대전 당시 반자동소총으로 보완되었지만, 1945년 전쟁이 끝날 때까지 독일의 제식 소총으로 남아 있었습니다.</Gun_Kar98K_Bayonet_RA.description>
+  <Gun_Kar98K_Bayonet_RA.tools.0.label>개머리판</Gun_Kar98K_Bayonet_RA.tools.0.label>
+  <Gun_Kar98K_Bayonet_RA.tools.1.label>총검</Gun_Kar98K_Bayonet_RA.tools.1.label>
+  <Gun_Kar98K_RA.label>Kar98K</Gun_Kar98K_RA.label>
+  <Gun_Kar98K_RA.description>1898년형 단기병총( Karabiner 98 kurz)는 1935년 독일 국방군의 제식 소총으로 채택된 7,92×57mm 마우저 탄을 사용하는 볼트액션 소총입니다. 마우저 탄종을 쓰는 병기들 중 거의 마지막에 해당됩니다. 제2차 세계대전 당시 반자동소총으로 보완되었지만, 1945년 전쟁이 끝날 때까지 독일의 제식 소총으로 남아 있었습니다.</Gun_Kar98K_RA.description>
+  <Gun_Kar98K_RA.tools.0.label>개머리판</Gun_Kar98K_RA.tools.0.label>
+  <Gun_VG1_RA.label>VG.1</Gun_VG1_RA.label>
+  <Gun_VG1_RA.description>국민돌격소총 VG.1은 수동식 볼트 액션 라이플입니다. 이 시스템은 간단한 회전 볼트를 사용하며, 두 개의 전면 러그가 제공하는 잠금 장치와 함께 주강 리시버의 절단을 체결하여 추가적인 안전성을 제공합니다. 이 구조는 원래 G.43 소총용으로 개발된 분리형 박스 탄창에서 나온 것입니다.</Gun_VG1_RA.description>
+  <Gun_VG1_RA.tools.0.label>개머리판</Gun_VG1_RA.tools.0.label>
+  <Gun_Gew_Scope_43_RA.label>Gew 43 조준경 장착</Gun_Gew_Scope_43_RA.label>
+  <Gun_Gew_Scope_43_RA.description>게베어 43 혹은 카라비너 43은 제2차 세계대전 중반 등장한 7,92×57mm 마우저 탄을 쓰는 독일의 반자동소총입니다. 설계는 초기 G41(W)의 설계에 기초했지만, 소련 토카레프 SVT-40과 유사한 개선된 단타 피스톤 가스 시스템을 통합하였으며, 혁신적인 양산 기법을 통합하였습니다.</Gun_Gew_Scope_43_RA.description>
+  <Gun_Gew_Scope_43_RA.tools.0.label>개머리판</Gun_Gew_Scope_43_RA.tools.0.label>
+  <Gun_Gew_43_RA.label>Gew 43</Gun_Gew_43_RA.label>
+  <Gun_Gew_43_RA.description>게베어 43 혹은 카라비너 43은 제2차 세계대전 중반 등장한 7,92×57mm 마우저 탄을 쓰는 독일의 반자동소총입니다. 설계는 초기 G41(W)의 설계에 기초했지만, 소련 토카레프 SVT-40과 유사한 개선된 단타 피스톤 가스 시스템을 통합하였으며, 혁신적인 양산 기법을 통합하였습니다.</Gun_Gew_43_RA.description>
+  <Gun_Gew_43_RA.tools.0.label>개머리판</Gun_Gew_43_RA.tools.0.label>
+  <Gun_Panzerfaust_60_RA.label>판저파우스트 60</Gun_Panzerfaust_60_RA.label>
+  <Gun_Panzerfaust_60_RA.description>판저파우스트는 제2차 세계대전때 값싼 독일 대전차 무기로, 고폭탄 탄두를 발사하는 소형 1회용 사전 탑재 발사관으로 구성돼 있으며, 한 명의 병사가 운용할 예정이었습니다.</Gun_Panzerfaust_60_RA.description>
+  <Gun_PzB_39_RA.label>PzB 39</Gun_PzB_39_RA.label>
+  <Gun_PzB_39_RA.description>판저뷕세 39는 제2차 세계대전에 사용된 독일의 대전차소총입니다. 판저뷕세38 소총의 개량형입니다.</Gun_PzB_39_RA.description>
+  <Gun_PzB_39_RA.tools.0.label>개머리판</Gun_PzB_39_RA.tools.0.label>
+  <Gun_Eintossflammenwerfer_46_RA.label>아인슈토스플라멘베르퍼 46</Gun_Eintossflammenwerfer_46_RA.label>
+  <Gun_Eintossflammenwerfer_46_RA.description>아인슈토스플라멘베르퍼 46은 1944년에 처음 선을 보인 제2차 세계대전에서 사용된 1회용 화염방사기입니다. 값싸고 대량 생산이 가능하도록 설계되었습니다. 이 1회용 무기는 최대 27m의 불꽃을 0.5초간 발사했습니다. 국민돌격대 또는 베어울프(지원부대)에게도 지급되었고, 공수부대에도 지급되었었습니다.</Gun_Eintossflammenwerfer_46_RA.description>
+  <Weapon_M24_RA.label>M24 슈틸한트그라나테 수류탄</Weapon_M24_RA.label>
+  <Weapon_M24_RA.description>독일산 수류탄은 독특한 디자인의 수류탄이었습니다. 제1차 세계대전 당시 독일군의 주된 문제였고, 2차 대전 당시의 나치 독일의 문제 중 하나이기도 했습니다. 그 독특한 외형으로 인해 영국군에게 '막대 수류탄' 혹은 '감자 으깨기' 등으로 불렸습니다.</Weapon_M24_RA.description>
+  <Weapon_M24_RA.verbs.0.label>파편 수류탄 투척</Weapon_M24_RA.verbs.0.label>
+  <MeleeWeapon_Feldspaten.label>M31 야전삽</MeleeWeapon_Feldspaten.label>
+  <MeleeWeapon_Feldspaten.description>M31 야전삽입니다.</MeleeWeapon_Feldspaten.description>
+  <MeleeWeapon_Feldspaten.tools.0.label>손잡이</MeleeWeapon_Feldspaten.tools.0.label>
+  <MeleeWeapon_Feldspaten.tools.1.label>날끝</MeleeWeapon_Feldspaten.tools.1.label>
+  <MeleeWeapon_S84_98_III_RA.label>S84/98 III 총검 장착</MeleeWeapon_S84_98_III_RA.label>
+  <MeleeWeapon_S84_98_III_RA.description>S84/98 III는 초기 제1차 세계 대전 때의 S84/98과는 다른 점으로, 플래시 가드가 더 작았다. 그러나 S84/98 시리즈를 다른 총검의 예와 차별화시킨 것은 그것이 톱니바퀴가 아니라는 것이었습니다. 이는 독일군이 칼날이 꽂히지 않고 적으로부터 무기를 제거하고 가능한 한 신속하고 효율적으로 다음 표적을 교전할 수 있다는 것을 의미했습니다.</MeleeWeapon_S84_98_III_RA.description>
+  <MeleeWeapon_S84_98_III_RA.tools.0.label>손잡이</MeleeWeapon_S84_98_III_RA.tools.0.label>
+  <MeleeWeapon_S84_98_III_RA.tools.1.label>날끝</MeleeWeapon_S84_98_III_RA.tools.1.label>
+
+</LanguageData>

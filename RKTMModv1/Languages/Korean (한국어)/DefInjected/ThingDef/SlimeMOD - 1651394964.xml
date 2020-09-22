@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Filth_BloodSyulipian.label>흘러나온 마혈</Filth_BloodSyulipian.label>
+  <Syulipia_SlimeCandle.label>슬라임 양초</Syulipia_SlimeCandle.label>
+  <Syulipia_SlimeCandle.description>슬라임을 본뜬 양초.</Syulipia_SlimeCandle.description>
+  <Syulipia_SlimeCandle_Blueprint.label>슬라임 앙초 (청사진)</Syulipia_SlimeCandle_Blueprint.label>
+  <Syulipia_SlimeCandle_Blueprint_Install.label>슬라임 양초 (청사진)</Syulipia_SlimeCandle_Blueprint_Install.label>
+  <Syulipia_SlimeCandle_Frame.label>슬라임 양초 (건설중)</Syulipia_SlimeCandle_Frame.label>
+  <Syulipia_SlimeCandle_Frame.description>슬라임을 본뜬 양초.</Syulipia_SlimeCandle_Frame.description>
+  <Syulipia_SlimeLamp.label>슬라임 램프</Syulipia_SlimeLamp.label>
+  <Syulipia_SlimeLamp.description>슬라임을 본뜬 램프.</Syulipia_SlimeLamp.description>
+  <Syulipia_SlimeLamp_Blueprint.label>슬라임 램프 (청사진)</Syulipia_SlimeLamp_Blueprint.label>
+  <Syulipia_SlimeLamp_Blueprint_Install.label>슬라임 램프 (청사진)</Syulipia_SlimeLamp_Blueprint_Install.label>
+  <Syulipia_SlimeLamp_Frame.label>슬라임 램프 (건설중)</Syulipia_SlimeLamp_Frame.label>
+  <Syulipia_SlimeLamp_Frame.description>슬라임을 본뜬 램프.</Syulipia_SlimeLamp_Frame.description>
+  <Syulipia_SlimeLamp_S.label>별빛의 슬라임 램프</Syulipia_SlimeLamp_S.label>
+  <Syulipia_SlimeLamp_S.description>별빛으로 주위를 비추는 슬라임을 본뜬 램프.</Syulipia_SlimeLamp_S.description>
+  <Syulipia_SlimeLamp_S_Blueprint.label>별빛의 슬라임 램프 (청사진)</Syulipia_SlimeLamp_S_Blueprint.label>
+  <Syulipia_SlimeLamp_S_Blueprint_Install.label>별빛의 슬라임 램프 (청사진)</Syulipia_SlimeLamp_S_Blueprint_Install.label>
+  <Syulipia_SlimeLamp_S_Frame.label>별빛의 슬라임 램프 (건설중)</Syulipia_SlimeLamp_S_Frame.label>
+  <Syulipia_SlimeLamp_S_Frame.description>별빛으로 주위를 비추는 슬라임을 본뜬 램프.</Syulipia_SlimeLamp_S_Frame.description>
+  <Syulipia_AlchemyPot.label>연금술의 솥</Syulipia_AlchemyPot.label>
+  <Syulipia_AlchemyPot.description>기이한 온도의 수상한 액체가 담겨있다.</Syulipia_AlchemyPot.description>
+  <Syulipia_AlchemyPot_Blueprint.label>연금술의 솥 (청사진)</Syulipia_AlchemyPot_Blueprint.label>
+  <Syulipia_AlchemyPot_Blueprint_Install.label>연금술의 솥 (청사진)</Syulipia_AlchemyPot_Blueprint_Install.label>
+  <Syulipia_AlchemyPot_Frame.label>연금술의 솥 (건설중)</Syulipia_AlchemyPot_Frame.label>
+  <Syulipia_AlchemyPot_Frame.description>기이한 온도의 수상한 액체가 담겨있다.</Syulipia_AlchemyPot_Frame.description>
+  <Syulipia_Kitchen.label>이세계의 조리대</Syulipia_Kitchen.label>
+  <Syulipia_Kitchen.description>이상한 음식을 조리하는 작업대.</Syulipia_Kitchen.description>
+  <Syulipia_Kitchen_Blueprint.label>이세계의 조리대 (청사진)</Syulipia_Kitchen_Blueprint.label>
+  <Syulipia_Kitchen_Blueprint_Install.label>이세계의 조리대 (청사진)</Syulipia_Kitchen_Blueprint_Install.label>
+  <Syulipia_Kitchen_Frame.label>이세계의 조리대 (건설중)</Syulipia_Kitchen_Frame.label>
+  <Syulipia_Kitchen_Frame.description>이상한 음식을 조리하는 작업대.</Syulipia_Kitchen_Frame.description>
+  <Syulipia_SummonsBoard.label>소환판</Syulipia_SummonsBoard.label>
+  <Syulipia_SummonsBoard.description>이상한 문양이 새겨진 판.</Syulipia_SummonsBoard.description>
+  <Syulipia_SummonsBoard_Blueprint.label>소환판 (청사진)</Syulipia_SummonsBoard_Blueprint.label>
+  <Syulipia_SummonsBoard_Blueprint_Install.label>소환판 (청사진)</Syulipia_SummonsBoard_Blueprint_Install.label>
+  <Syulipia_SummonsBoard_Frame.label>소환판 (건설중)</Syulipia_SummonsBoard_Frame.label>
+  <Syulipia_SummonsBoard_Frame.description>이상한 문양이 새겨진 판.</Syulipia_SummonsBoard_Frame.description>
+  <Syulipia_Workbench.label>보석 가공대</Syulipia_Workbench.label>
+  <Syulipia_Workbench.description>보석 가공을 위한 돌 책상.</Syulipia_Workbench.description>
+  <Syulipia_Workbench_Blueprint.label>보석 가공대 (청사진)</Syulipia_Workbench_Blueprint.label>
+  <Syulipia_Workbench_Blueprint_Install.label>보석 가공대 (청사진)</Syulipia_Workbench_Blueprint_Install.label>
+  <Syulipia_Workbench_Frame.label>보석 가공대 (건설중)</Syulipia_Workbench_Frame.label>
+  <Syulipia_Workbench_Frame.description>보석 가공을 위한 돌 책상.</Syulipia_Workbench_Frame.description>
+  <Syulipia_Mochibags.label>모찌 샌드백</Syulipia_Mochibags.label>
+  <Syulipia_Mochibags.description>모찌 블록을 쌓아 만든 샌드백.</Syulipia_Mochibags.description>
+  <Syulipia_Mochibags_Blueprint.label>모찌 샌드백 (청사진)</Syulipia_Mochibags_Blueprint.label>
+  <Syulipia_Mochibags_Frame.label>모찌 샌드백 (건설중)</Syulipia_Mochibags_Frame.label>
+  <Syulipia_Mochibags_Frame.description>모찌 블록을 쌓아 만든 샌드백.</Syulipia_Mochibags_Frame.description>
+  <Syulipia_Shelf.label>컬러 박스</Syulipia_Shelf.label>
+  <Syulipia_Shelf.description>물건을 넣어두기 위한 상자.</Syulipia_Shelf.description>
+  <Syulipia_Shelf_Blueprint.label>컬러 박스 (청사진)</Syulipia_Shelf_Blueprint.label>
+  <Syulipia_Shelf_Blueprint_Install.label>컬러 박스 (청사진)</Syulipia_Shelf_Blueprint_Install.label>
+  <Syulipia_Shelf_Frame.label>컬러 박스 (건설중)</Syulipia_Shelf_Frame.label>
+  <Syulipia_Shelf_Frame.description>물건을 넣어두기 위한 상자.</Syulipia_Shelf_Frame.description>
+  <Syulipia_Neurotrainer.label>기술 향상의 마법서</Syulipia_Neurotrainer.label>
+  <Syulipia_Neurotrainer.description>능력 향상의 비술이 담긴 마법서.</Syulipia_Neurotrainer.description>
+  <Syulipia_Neurotrainer.comps.1.useLabel>{0} 기술을 학습 중.</Syulipia_Neurotrainer.comps.1.useLabel>
+  <Syulipia_Resurrector.label>이세계수의 결정</Syulipia_Resurrector.label>
+  <Syulipia_Resurrector.description>잃어버린 생명조차 소생시키는 금지된 약물.</Syulipia_Resurrector.description>
+  <Syulipia_Resurrector.comps.1.useLabel>이세계수의 결정</Syulipia_Resurrector.comps.1.useLabel>
+  <Syulipia_Healer.label>이세계수의 물방울</Syulipia_Healer.label>
+  <Syulipia_Healer.description>손실된 신체를 재생하는 마법의 약물.</Syulipia_Healer.description>
+  <Syulipia_Healer.comps.1.useLabel>이세계수의 물방울</Syulipia_Healer.comps.1.useLabel>
+  <Syulipia_SlimeBlock.label>슬라임 블록</Syulipia_SlimeBlock.label>
+  <Syulipia_SlimeBlock.description>슬라임 덩어리.</Syulipia_SlimeBlock.description>
+  <Syulipia_SlimeBlock.tools.0.label>목재</Syulipia_SlimeBlock.tools.0.label>
+  <Syulipia_SlimeBlock.stuffProps.stuffAdjective>슬라임 블록</Syulipia_SlimeBlock.stuffProps.stuffAdjective>
+  <Syulipia_SlimeBlock_Ice.label>아이스 슬라임 블록</Syulipia_SlimeBlock_Ice.label>
+  <Syulipia_SlimeBlock_Ice.description>매끈매끈한 생물의 덩어리.</Syulipia_SlimeBlock_Ice.description>
+  <Syulipia_SlimeBlock_Ice.tools.0.label>목재</Syulipia_SlimeBlock_Ice.tools.0.label>
+  <Syulipia_SlimeBlock_Ice.stuffProps.stuffAdjective>아이스 슬라임 블록</Syulipia_SlimeBlock_Ice.stuffProps.stuffAdjective>
+  <Syulipia_SlimeBlock_Mochi.label>모찌 슬라임 블록</Syulipia_SlimeBlock_Mochi.label>
+  <Syulipia_SlimeBlock_Mochi.description>부들부들한 생물의 덩어리.</Syulipia_SlimeBlock_Mochi.description>
+  <Syulipia_SlimeBlock_Mochi.tools.0.label>목재</Syulipia_SlimeBlock_Mochi.tools.0.label>
+  <Syulipia_SlimeBlock_Mochi.stuffProps.stuffAdjective>모찌 슬라임 블록</Syulipia_SlimeBlock_Mochi.stuffProps.stuffAdjective>
+  <Syulipia_SlimeBlock_Cacao.label>카카오 블록</Syulipia_SlimeBlock_Cacao.label>
+  <Syulipia_SlimeBlock_Cacao.description>달콤한 향이 나지만 너무 딱딱하고 쓰다.\n가공하면 먹을 수 있을 것 같다는 생각도 든다.</Syulipia_SlimeBlock_Cacao.description>
+  <Syulipia_SlimeBlock_Cacao.tools.0.label>목재</Syulipia_SlimeBlock_Cacao.tools.0.label>
+  <Syulipia_SlimeBlock_Cacao.stuffProps.stuffAdjective>카카오</Syulipia_SlimeBlock_Cacao.stuffProps.stuffAdjective>
+  <Syulipia_LeatherCord.label>가죽 끈</Syulipia_LeatherCord.label>
+  <Syulipia_LeatherCord.description>가죽으로 만든 끈.</Syulipia_LeatherCord.description>
+  <Wool_Syulipia.label>카카오 섬유</Wool_Syulipia.label>
+  <Wool_Syulipia.description>슬라임에서 뽑은 섬유.</Wool_Syulipia.description>
+  <Wool_Syulipia.stuffProps.stuffAdjective>카카오 섬유</Wool_Syulipia.stuffProps.stuffAdjective>
+  <Leather_Syulipia.label>슈리피아 가죽</Leather_Syulipia.label>
+  <Leather_Syulipia.description>이세계의 생물의 가죽.</Leather_Syulipia.description>
+  <Leather_Syulipia.stuffProps.stuffAdjective>슈리피아 가죽</Leather_Syulipia.stuffProps.stuffAdjective>
+  <EggSyulipia_GoldenChickenUnfertilized.label>이상한 알</EggSyulipia_GoldenChickenUnfertilized.label>
+  <EggSyulipia_GoldenChickenUnfertilized.description>약간 생명의 기운이 느껴지지만 뭔가 태어날 것 같지는 않다.</EggSyulipia_GoldenChickenUnfertilized.description>
+  <EggSyulipia_GoldenChickenFertilized.label>황금알</EggSyulipia_GoldenChickenFertilized.label>
+  <EggSyulipia_GoldenChickenFertilized.description>"황금닭"이 태어난다.</EggSyulipia_GoldenChickenFertilized.description>
+  <EggSyulipia_NormalSlimeFertilized.label>노말 슬라임의 알</EggSyulipia_NormalSlimeFertilized.label>
+  <EggSyulipia_NormalSlimeFertilized.description>"노말 슬라임"이 태어난다.</EggSyulipia_NormalSlimeFertilized.description>
+  <EggSyulipia_PoisonSlimeFertilized.label>포이즌 슬라임의 알</EggSyulipia_PoisonSlimeFertilized.label>
+  <EggSyulipia_PoisonSlimeFertilized.description>"포이즌 슬라임"이 태어난다.</EggSyulipia_PoisonSlimeFertilized.description>
+  <EggSyulipia_MetalSlimeFertilized.label>메탈 슬라임의 알</EggSyulipia_MetalSlimeFertilized.label>
+  <EggSyulipia_MetalSlimeFertilized.description>"메탈 슬라임"이 태어난다.</EggSyulipia_MetalSlimeFertilized.description>
+  <EggSyulipia_HarmonySlimeFertilized.label>하모니 슬라임의 알</EggSyulipia_HarmonySlimeFertilized.label>
+  <EggSyulipia_HarmonySlimeFertilized.description>"하모니 슬라임"이 태어난다.</EggSyulipia_HarmonySlimeFertilized.description>
+  <EggSyulipia_MeatSlimeFertilized.label>미트 슬라임의 알</EggSyulipia_MeatSlimeFertilized.label>
+  <EggSyulipia_MeatSlimeFertilized.description>"미트 슬라임"이 태어난다.</EggSyulipia_MeatSlimeFertilized.description>
+  <EggSyulipia_ShineSlimeFertilized.label>샤인 슬라임의 알</EggSyulipia_ShineSlimeFertilized.label>
+  <EggSyulipia_ShineSlimeFertilized.description>"샤인 슬라임"이 태어난다.</EggSyulipia_ShineSlimeFertilized.description>
+  <EggSyulipia_DarkSlimeFertilized.label>다크 슬라임의 알</EggSyulipia_DarkSlimeFertilized.label>
+  <EggSyulipia_DarkSlimeFertilized.description>"다크 슬라임"이 태어난다.</EggSyulipia_DarkSlimeFertilized.description>
+  <EggSyulipia_IceSlimeFertilized.label>아이스 슬라임의 알</EggSyulipia_IceSlimeFertilized.label>
+  <EggSyulipia_IceSlimeFertilized.description>"아이스 슬라임"이 태어난다.</EggSyulipia_IceSlimeFertilized.description>
+  <EggSyulipia_MochiSlimeFertilized.label>모찌 슬라임의 알</EggSyulipia_MochiSlimeFertilized.label>
+  <EggSyulipia_MochiSlimeFertilized.description>"모찌 슬라임"이 태어난다.</EggSyulipia_MochiSlimeFertilized.description>
+  <EggSyulipia_WrappingSlimeFertilized.label>래퍼 슬라임의 알</EggSyulipia_WrappingSlimeFertilized.label>
+  <EggSyulipia_WrappingSlimeFertilized.description>"래퍼 슬라임"이 태어난다.</EggSyulipia_WrappingSlimeFertilized.description>
+  <EggSyulipia_TsuchiSlimeFertilized.label>대지 슬라임의 알</EggSyulipia_TsuchiSlimeFertilized.label>
+  <EggSyulipia_TsuchiSlimeFertilized.description>"대지 슬라임"이 태어난다.</EggSyulipia_TsuchiSlimeFertilized.description>
+  <EggSyulipia_ChocolateSlimeFertilized.label>초코 슬라임의 알</EggSyulipia_ChocolateSlimeFertilized.label>
+  <EggSyulipia_ChocolateSlimeFertilized.description>"초코 슬라임"이 태어난다.</EggSyulipia_ChocolateSlimeFertilized.description>
+  <EggSyulipia_StarrySlimeFertilized.label>스타리 슬라임의 알</EggSyulipia_StarrySlimeFertilized.label>
+  <EggSyulipia_StarrySlimeFertilized.description>"스타리 슬라임"이 태어난다.</EggSyulipia_StarrySlimeFertilized.description>
+  <SyulipianMilk.label>슈리피아 우유</SyulipianMilk.label>
+  <SyulipianMilk.description>이세계 "슈리피아"의 우유.</SyulipianMilk.description>
+  <SlimeWater.label>슬라임 워터</SlimeWater.label>
+  <SlimeWater.description>슬라임에서 채취한 비상식량. 맛도 없고 냄새도 없지만 오래 보존할 수 있다.</SlimeWater.description>
+  <SlimeWine.label>슈리피아 와인</SlimeWine.label>
+  <SlimeWine.description>포이즌 슬라임의 체액. 알콜 성분은 없다.</SlimeWine.description>
+  <SlimeHerbs.label>슬러임 허브</SlimeHerbs.label>
+  <SlimeHerbs.description>회복용 액체.</SlimeHerbs.description>
+  <Syulia_Chocolate.label>생 초콜릿</Syulia_Chocolate.label>
+  <Syulia_Chocolate.description>매끄러운 초콜릿.</Syulia_Chocolate.description>
+  <Syulipia_Lunchpack.label>화려한 도시락</Syulipia_Lunchpack.label>
+  <Syulipia_Lunchpack.description>애정과 영양이 듬뿍 담긴 도시락.</Syulipia_Lunchpack.description>
+  <Syulipia_Paper.label>종이</Syulipia_Paper.label>
+  <Syulipia_Paper.description>나무로 만든 종이.</Syulipia_Paper.description>
+  <Syulipia_Ink_Magic.label>마법의 잉크</Syulipia_Ink_Magic.label>
+  <Syulipia_Ink_Magic.description>마법서를 제작하기 위한 잉크.</Syulipia_Ink_Magic.description>
+  <Syulipia_Ink_Magic.stuffProps.stuffAdjective>마법의 잉크</Syulipia_Ink_Magic.stuffProps.stuffAdjective>
+  <Syulipia_StarLight.label>별빛</Syulipia_StarLight.label>
+  <Syulipia_StarLight.description>별 모양의 조각. 희미하게 빛나고 있다.</Syulipia_StarLight.description>
+  <Syulipia_GoldenChicken.label>황금닭</Syulipia_GoldenChicken.label>
+  <Syulipia_GoldenChicken.description>어디선가 나타난 거룩한 암탉.\n잠을 자지도 않고 먹지도 않는다.\n이상한 알을 낳는 것 같다.</Syulipia_GoldenChicken.description>
+  <Syulipia_GoldenChicken.tools.0.label>발톱</Syulipia_GoldenChicken.tools.0.label>
+  <Syulipia_GoldenChicken.tools.1.label>부리</Syulipia_GoldenChicken.tools.1.label>
+  <Syulipia_GoldenChicken.tools.2.label>머리</Syulipia_GoldenChicken.tools.2.label>
+  <Syulipia_GoldenChicken_Leather.label>황금닭 가죽</Syulipia_GoldenChicken_Leather.label>
+  <Syulipia_GoldenChicken_Leather.description>홤금닭의 가죽.</Syulipia_GoldenChicken_Leather.description>
+  <Syulipia_GoldenChicken_Leather.stuffProps.stuffAdjective>황금닭 가죽</Syulipia_GoldenChicken_Leather.stuffProps.stuffAdjective>
+  <Syulipia_GoldenChicken_Corpse.label>황금닭 시체</Syulipia_GoldenChicken_Corpse.label>
+  <Syulipia_GoldenChicken_Corpse.description>황금닭의 시체.</Syulipia_GoldenChicken_Corpse.description>
+  <Syulipia_DarkSlime.label>다크 슬라임</Syulipia_DarkSlime.label>
+  <Syulipia_DarkSlime.description>이세계 "슐리피아"의 슬라임들 중 전투에 특화된 개체.\n그러나 항상 부들부들 떨고 있다.</Syulipia_DarkSlime.description>
+  <Syulipia_DarkSlime.tools.0.label>머리</Syulipia_DarkSlime.tools.0.label>
+  <Syulipia_DarkSlime_Corpse.label>다크 슬라임 시체</Syulipia_DarkSlime_Corpse.label>
+  <Syulipia_DarkSlime_Corpse.description>다크 슬라임 시체.</Syulipia_DarkSlime_Corpse.description>
+  <Syulipia_HarmonySlime.label>하모니 슬라임</Syulipia_HarmonySlime.label>
+  <Syulipia_HarmonySlime.description>이세계 "슐리피아"의 슬라임.\n체내에서 약물을 합성하고 있다.</Syulipia_HarmonySlime.description>
+  <Syulipia_HarmonySlime.tools.0.label>머리</Syulipia_HarmonySlime.tools.0.label>
+  <Syulipia_HarmonySlime_Corpse.label>하모니 슬라임 시체</Syulipia_HarmonySlime_Corpse.label>
+  <Syulipia_HarmonySlime_Corpse.description>하모니 슬라임 시체.</Syulipia_HarmonySlime_Corpse.description>
+  <Syulipia_MeatSlime.label>미트 슬라임</Syulipia_MeatSlime.label>
+  <Syulipia_MeatSlime.description>이세계 "슐리피아"의 슬라임.\n와작 와작 먹고 고기를 생성할 수 있다.</Syulipia_MeatSlime.description>
+  <Syulipia_MeatSlime.tools.0.label>머리</Syulipia_MeatSlime.tools.0.label>
+  <Syulipia_MeatSlime_Corpse.label>미트 슬라임 시체</Syulipia_MeatSlime_Corpse.label>
+  <Syulipia_MeatSlime_Corpse.description>미트 슬라임 시체.</Syulipia_MeatSlime_Corpse.description>
+  <Syulipia_MetalSlime.label>메탈 슬라임</Syulipia_MetalSlime.label>
+  <Syulipia_MetalSlime.description>이세계 "슐리피아"의 광석으로 이루어진 슬라임.\n어떻게 슬라임이 단단할수가 있지?</Syulipia_MetalSlime.description>
+  <Syulipia_MetalSlime.tools.0.label>머리</Syulipia_MetalSlime.tools.0.label>
+  <Syulipia_MetalSlime_Corpse.label>메탈 슬라임 시체</Syulipia_MetalSlime_Corpse.label>
+  <Syulipia_MetalSlime_Corpse.description>메탈 슬라임 시체.</Syulipia_MetalSlime_Corpse.description>
+  <Syulipia_NormalSlime.label>노말 슬라임</Syulipia_NormalSlime.label>
+  <Syulipia_NormalSlime.description>이세계 "슐리피아"의 슬라임중 가장 정상적인 개체.\n"나는 나쁜 슬라임이 아니야!"</Syulipia_NormalSlime.description>
+  <Syulipia_NormalSlime.tools.0.label>머리</Syulipia_NormalSlime.tools.0.label>
+  <Syulipia_NormalSlime_Corpse.label>노말 슬라임 시체</Syulipia_NormalSlime_Corpse.label>
+  <Syulipia_NormalSlime_Corpse.description>노말 슬라임 시체.</Syulipia_NormalSlime_Corpse.description>
+  <Syulipia_PoisonSlime.label>포이즌 슬라임</Syulipia_PoisonSlime.label>
+  <Syulipia_PoisonSlime.description>이세계 "슐리피아"의 은은한 포도향이 나는 슬라임.</Syulipia_PoisonSlime.description>
+  <Syulipia_PoisonSlime.tools.0.label>머리</Syulipia_PoisonSlime.tools.0.label>
+  <Syulipia_PoisonSlime_Corpse.label>포이즌 슬라임 시체</Syulipia_PoisonSlime_Corpse.label>
+  <Syulipia_PoisonSlime_Corpse.description>포이즌 슬라임 시체.</Syulipia_PoisonSlime_Corpse.description>
+  <Syulipia_ShineSlime.label>샤인 슬라임</Syulipia_ShineSlime.label>
+  <Syulipia_ShineSlime.description>이세계 "슐리피아"의 슬라임.\n민첩한 움직임으로 짐을 나른다.</Syulipia_ShineSlime.description>
+  <Syulipia_ShineSlime.tools.0.label>머리</Syulipia_ShineSlime.tools.0.label>
+  <Syulipia_ShineSlime_Corpse.label>샤인 슬라임 시체</Syulipia_ShineSlime_Corpse.label>
+  <Syulipia_ShineSlime_Corpse.description>샤인 슬라임 시체.</Syulipia_ShineSlime_Corpse.description>
+  <Syulipia_ChocolateSlime.label>초코 슬라임</Syulipia_ChocolateSlime.label>
+  <Syulipia_ChocolateSlime.description>이세계 "슐리피아"의 달콤한 개체.</Syulipia_ChocolateSlime.description>
+  <Syulipia_ChocolateSlime.tools.0.label>머리</Syulipia_ChocolateSlime.tools.0.label>
+  <Syulipia_ChocolateSlime_Corpse.label>초코 슬라임 시체</Syulipia_ChocolateSlime_Corpse.label>
+  <Syulipia_ChocolateSlime_Corpse.description>초코 슬라임 시체.</Syulipia_ChocolateSlime_Corpse.description>
+  <Syulipia_IceSlime.label>아이스 슬라임</Syulipia_IceSlime.label>
+  <Syulipia_IceSlime.description>이세계 "슐리피아"의 맨들맨들한 개체.\n더위에 약한 것 같다.</Syulipia_IceSlime.description>
+  <Syulipia_IceSlime.tools.0.label>머리</Syulipia_IceSlime.tools.0.label>
+  <Syulipia_IceSlime_Corpse.label>아이스 슬라임 시체</Syulipia_IceSlime_Corpse.label>
+  <Syulipia_IceSlime_Corpse.description>아이스 슬라임 시체.</Syulipia_IceSlime_Corpse.description>
+  <Syulipia_MochiSlime.label>모찌 슬라임</Syulipia_MochiSlime.label>
+  <Syulipia_MochiSlime.description>이세계 "슐리피아"의 흩어진... 슬라임?\n추위에 약한 것 같다.</Syulipia_MochiSlime.description>
+  <Syulipia_MochiSlime.tools.0.label>머리</Syulipia_MochiSlime.tools.0.label>
+  <Syulipia_MochiSlime_Corpse.label>모찌 슬라임 시체</Syulipia_MochiSlime_Corpse.label>
+  <Syulipia_MochiSlime_Corpse.description>모찌 슬라임 시체.</Syulipia_MochiSlime_Corpse.description>
+  <Syulipia_StarrySlime.label>스타리 슬라임</Syulipia_StarrySlime.label>
+  <Syulipia_StarrySlime.description>이세계 "슐리피아"의 슬라임.\n예로부터 운세를 점칠때 사용되어왔다.</Syulipia_StarrySlime.description>
+  <Syulipia_StarrySlime.tools.0.label>머리</Syulipia_StarrySlime.tools.0.label>
+  <Syulipia_StarrySlime_Corpse.label>스타리 슬라임 시체</Syulipia_StarrySlime_Corpse.label>
+  <Syulipia_StarrySlime_Corpse.description>스타리 슬라임 시체.</Syulipia_StarrySlime_Corpse.description>
+  <Syulipia_TsuchiSlime.label>대지 슬라임</Syulipia_TsuchiSlime.label>
+  <Syulipia_TsuchiSlime.description>이세계 "슐리피아"의 버섯에 기생...된 슬라임?</Syulipia_TsuchiSlime.description>
+  <Syulipia_TsuchiSlime.tools.0.label>머리</Syulipia_TsuchiSlime.tools.0.label>
+  <Syulipia_TsuchiSlime_Corpse.label>대지 슬라임 시체</Syulipia_TsuchiSlime_Corpse.label>
+  <Syulipia_TsuchiSlime_Corpse.description>대지 슬라임 시체.</Syulipia_TsuchiSlime_Corpse.description>
+  <Syulipia_WrappingSlime.label>래퍼 슬라임</Syulipia_WrappingSlime.label>
+  <Syulipia_WrappingSlime.description>이세계 "슐리피아"의 슬라임중 상냥한 개체.\n도와주는 것도 좋아함.</Syulipia_WrappingSlime.description>
+  <Syulipia_WrappingSlime.tools.0.label>머리</Syulipia_WrappingSlime.tools.0.label>
+  <Syulipia_WrappingSlime_Corpse.label>래퍼 슬라임 시체</Syulipia_WrappingSlime_Corpse.label>
+  <Syulipia_WrappingSlime_Corpse.description>래퍼 슬라임 시체.</Syulipia_WrappingSlime_Corpse.description>
+  <Syulipia_Flooring_B_Blueprint.label>바닥（파랑） (청사진)</Syulipia_Flooring_B_Blueprint.label>
+  <Syulipia_Flooring_B_Frame.label>바닥（파랑） (건설중)</Syulipia_Flooring_B_Frame.label>
+  <Syulipia_Flooring_B_Frame.description>지형 건설중</Syulipia_Flooring_B_Frame.description>
+  <Syulipia_Flooring_W_Blueprint.label>바닥（하양） (청사진)</Syulipia_Flooring_W_Blueprint.label>
+  <Syulipia_Flooring_W_Frame.label>바닥（하양） (건설중)</Syulipia_Flooring_W_Frame.label>
+  <Syulipia_Flooring_W_Frame.description>지형 건설중</Syulipia_Flooring_W_Frame.description>
+  <Syulipia_Flooring_K_Blueprint.label>바닥（웬지） (청사진)</Syulipia_Flooring_K_Blueprint.label>
+  <Syulipia_Flooring_K_Frame.label>바닥（웬지） (건설중)</Syulipia_Flooring_K_Frame.label>
+  <Syulipia_Flooring_K_Frame.description>지형 건설중</Syulipia_Flooring_K_Frame.description>
+  <Syulipia_Flooring_R_Blueprint.label>바닥（자작） (청사진)</Syulipia_Flooring_R_Blueprint.label>
+  <Syulipia_Flooring_R_Frame.label>바닥（자작） (건설중)</Syulipia_Flooring_R_Frame.label>
+  <Syulipia_Flooring_R_Frame.description>지형 건설중</Syulipia_Flooring_R_Frame.description>
+  <Syulipia_Parquet_B_Blueprint.label>목재 바닥（파랑） (청사진)</Syulipia_Parquet_B_Blueprint.label>
+  <Syulipia_Parquet_B_Frame.label>목재 바닥（파랑） (건설중)</Syulipia_Parquet_B_Frame.label>
+  <Syulipia_Parquet_B_Frame.description>지형 건설중</Syulipia_Parquet_B_Frame.description>
+  <Syulipia_Parquet_W_Blueprint.label>목재 바닥（하양） (청사진)</Syulipia_Parquet_W_Blueprint.label>
+  <Syulipia_Parquet_W_Frame.label>목재 바닥（하양） (건설중)</Syulipia_Parquet_W_Frame.label>
+  <Syulipia_Parquet_W_Frame.description>지형 건설중</Syulipia_Parquet_W_Frame.description>
+  <Syulipia_Parquet_K_Blueprint.label>목재 바닥（웬지） (청사진)</Syulipia_Parquet_K_Blueprint.label>
+  <Syulipia_Parquet_K_Frame.label>목재 바닥（웬지） (건설중)</Syulipia_Parquet_K_Frame.label>
+  <Syulipia_Parquet_K_Frame.description>지형 건설중</Syulipia_Parquet_K_Frame.description>
+  <Syulipia_Parquet_R_Blueprint.label>목재 바닥（자작） (청사진)</Syulipia_Parquet_R_Blueprint.label>
+  <Syulipia_Parquet_R_Frame.label>목재 바닥（자작） (건설중)</Syulipia_Parquet_R_Frame.label>
+  <Syulipia_Parquet_R_Frame.description>지형 건설중</Syulipia_Parquet_R_Frame.description>
+  <Syulipia_Carpet_W_Blueprint.label>아가일 카펫（하양） (청사진)</Syulipia_Carpet_W_Blueprint.label>
+  <Syulipia_Carpet_W_Frame.label>아가일 카펫（하양） (건설중)</Syulipia_Carpet_W_Frame.label>
+  <Syulipia_Carpet_W_Frame.description>지형 건설중</Syulipia_Carpet_W_Frame.description>
+  <Syulipia_Carpet_K_Blueprint.label>아가일 카펫（검정） (청사진)</Syulipia_Carpet_K_Blueprint.label>
+  <Syulipia_Carpet_K_Frame.label>아가일 카펫（검정） (건설중)</Syulipia_Carpet_K_Frame.label>
+  <Syulipia_Carpet_K_Frame.description>지형 건설중</Syulipia_Carpet_K_Frame.description>
+  <Syulipia_Carpet_R_Blueprint.label>아가일 카펫（빨강） (청사진)</Syulipia_Carpet_R_Blueprint.label>
+  <Syulipia_Carpet_R_Frame.label>아가일 카펫（빨강） (건설중)</Syulipia_Carpet_R_Frame.label>
+  <Syulipia_Carpet_R_Frame.description>지형 건설중</Syulipia_Carpet_R_Frame.description>
+  <Syulipia_Carpet_B_Blueprint.label>아가일 카펫（파랑） (청사진)</Syulipia_Carpet_B_Blueprint.label>
+  <Syulipia_Carpet_B_Frame.label>아가일 카펫（파랑） (건설중)</Syulipia_Carpet_B_Frame.label>
+  <Syulipia_Carpet_B_Frame.description>지형 건설중</Syulipia_Carpet_B_Frame.description>
+  <Syulipia_Carpet_G_Blueprint.label>아가일 카펫（초록） (청사진)</Syulipia_Carpet_G_Blueprint.label>
+  <Syulipia_Carpet_G_Frame.label>아가일 카펫（초록） (건설중)</Syulipia_Carpet_G_Frame.label>
+  <Syulipia_Carpet_G_Frame.description>지형 건설중</Syulipia_Carpet_G_Frame.description>
+  <Syulipia_Carpet_V_Blueprint.label>아가일 카펫（보라） (청사진)</Syulipia_Carpet_V_Blueprint.label>
+  <Syulipia_Carpet_V_Frame.label>아가일 카펫（보라） (건설중)</Syulipia_Carpet_V_Frame.label>
+  <Syulipia_Carpet_V_Frame.description>지형 건설중</Syulipia_Carpet_V_Frame.description>
+  <Syulipia_Carpet_P_Blueprint.label>아가일 카펫（분홍） (청사진)</Syulipia_Carpet_P_Blueprint.label>
+  <Syulipia_Carpet_P_Frame.label>아가일 카펫（분홍） (건설중)</Syulipia_Carpet_P_Frame.label>
+  <Syulipia_Carpet_P_Frame.description>지형 건설중</Syulipia_Carpet_P_Frame.description>
+  <Syulipia_SlimeTile_Blueprint.label>슬라임 타일 (청사진)</Syulipia_SlimeTile_Blueprint.label>
+  <Syulipia_SlimeTile_Frame.label>슬라임 타일 (건설중)</Syulipia_SlimeTile_Frame.label>
+  <Syulipia_SlimeTile_Frame.description>지형 건설중</Syulipia_SlimeTile_Frame.description>
+  <Syulipia_SlimeTile_Ice_Blueprint.label>아이스 슬라임 타일 (청사진)</Syulipia_SlimeTile_Ice_Blueprint.label>
+  <Syulipia_SlimeTile_Ice_Frame.label>아이스 슬라임 타일 (건설중)</Syulipia_SlimeTile_Ice_Frame.label>
+  <Syulipia_SlimeTile_Ice_Frame.description>지형 건설중</Syulipia_SlimeTile_Ice_Frame.description>
+  <Syulipia_SlimeTile_Mochi_Blueprint.label>모찌 타일 (청사진)</Syulipia_SlimeTile_Mochi_Blueprint.label>
+  <Syulipia_SlimeTile_Mochi_Frame.label>모찌 타일 (건설중)</Syulipia_SlimeTile_Mochi_Frame.label>
+  <Syulipia_SlimeTile_Mochi_Frame.description>지형 건설중</Syulipia_SlimeTile_Mochi_Frame.description>
+  <Syulipia_Soil_Blueprint.label>밭 (청사진)</Syulipia_Soil_Blueprint.label>
+  <Syulipia_Soil_Frame.label>밭 (건설중)</Syulipia_Soil_Frame.label>
+  <Syulipia_Soil_Frame.description>지형 건설중</Syulipia_Soil_Frame.description>
+
+</LanguageData>

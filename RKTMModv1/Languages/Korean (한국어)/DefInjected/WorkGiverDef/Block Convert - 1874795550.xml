@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsConvertStone.label>석재 변환</DoBillsConvertStone.label>
+  <DoBillsConvertStone.gerund>제작 중</DoBillsConvertStone.gerund>
+  <DoBillsConvertStone.verb>제작</DoBillsConvertStone.verb>
+  <DoBillsConvertStoneElec.label>석재 변환</DoBillsConvertStoneElec.label>
+  <DoBillsConvertStoneElec.gerund>제작 중</DoBillsConvertStoneElec.gerund>
+  <DoBillsConvertStoneElec.verb>제작</DoBillsConvertStoneElec.verb>
+
+</LanguageData>

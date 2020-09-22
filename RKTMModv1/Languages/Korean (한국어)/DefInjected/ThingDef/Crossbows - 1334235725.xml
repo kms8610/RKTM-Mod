@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Crossbow_Light.label>석궁</Crossbow_Light.label>
+  <Crossbow_Light.description>가벼운 석궁입니다. 소형 볼트를 고속으로 발사합니다.</Crossbow_Light.description>
+  <Crossbow_Light.tools.0.label>활대</Crossbow_Light.tools.0.label>
+  <Crossbow_Light.tools.1.label>개머리판</Crossbow_Light.tools.1.label>
+  <Light_Bolt.label>소형 볼트</Light_Bolt.label>
+  <Crossbow_Heavy.label>대형 석궁</Crossbow_Heavy.label>
+  <Crossbow_Heavy.description>무거운 대형 석궁입니다. 매우 빠른 속도로 대형 볼트를 발사합니다. 판금 갑옷을 뚫는 성능 때문에 기사들은 이 무기를 두려워했습니다.</Crossbow_Heavy.description>
+  <Crossbow_Heavy.tools.0.label>활대</Crossbow_Heavy.tools.0.label>
+  <Crossbow_Heavy.tools.1.label>개머리판</Crossbow_Heavy.tools.1.label>
+  <Heavy_Bolt.label>대형 볼트</Heavy_Bolt.label>
+
+</LanguageData>

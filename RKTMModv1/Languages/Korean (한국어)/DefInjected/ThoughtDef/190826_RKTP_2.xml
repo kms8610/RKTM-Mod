@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1113137502_190707_Genetic Rim-->
+  <GR_ElectroEggHigh.stages.0.label>활성 메카나이트</GR_ElectroEggHigh.stages.0.label>
+  <GR_ElectroEggHigh.stages.0.description>메카노이드의 알이라니, 생각보다 나쁘지 않은데. 온 몸에 메카노이드의 힘이 느껴지는거같아!</GR_ElectroEggHigh.stages.0.description>
+  <GR_ElectroEggWithdrawal.stages.1.label>활성 메카나이트 중단</GR_ElectroEggWithdrawal.stages.1.label>
+  <GR_ElectroEggWithdrawal.stages.1.description>온 몸이 가려워... 메카노이드가... 내게서 사라졌어...</GR_ElectroEggWithdrawal.stages.1.description>
+  <GR_FeatherdustHigh.stages.0.label>깃털가루 흡입</GR_FeatherdustHigh.stages.0.label>
+  <GR_FeatherdustHigh.stages.0.description>과학적인 혐오에서 떨어져나온 깃털이라고 하던데... 기분 좋은데?</GR_FeatherdustHigh.stages.0.description>
+  <GR_FeatherdustWithdrawal.stages.1.label>깃털가루 중단</GR_FeatherdustWithdrawal.stages.1.label>
+  <GR_FeatherdustWithdrawal.stages.1.description>한 대 빨 수만 있다면...</GR_FeatherdustWithdrawal.stages.1.description>
+  <GR_RoyalJellyHigh.stages.0.label>로열 젤리의 열기</GR_RoyalJellyHigh.stages.0.label>
+  <GR_RoyalJellyHigh.stages.0.description>로열 젤리는 정말 맛있어... 더 먹고싶어!</GR_RoyalJellyHigh.stages.0.description>
+  <GR_RoyalJellyWithdrawal.stages.1.label>로열 젤리 중단</GR_RoyalJellyWithdrawal.stages.1.label>
+  <GR_RoyalJellyWithdrawal.stages.1.description>아, 로열 젤리가 먹고싶어...!</GR_RoyalJellyWithdrawal.stages.1.description>
+  <GR_WearingThrumboHorn.stages.0.label>트럼보 뿔을 달고있음</GR_WearingThrumboHorn.stages.0.label>
+  <GR_WearingThrumboHorn.stages.0.description>정말 멋진데?</GR_WearingThrumboHorn.stages.0.description>
+  <GR_WearingBunnyEars.stages.0.label>토끼 귀를 달고있음</GR_WearingBunnyEars.stages.0.label>
+  <GR_WearingBunnyEars.stages.0.description>귀여워!!!</GR_WearingBunnyEars.stages.0.description>
+  <GR_HeWearsAntennae.stages.0.label>곤충 더듬이를 달고 있음</GR_HeWearsAntennae.stages.0.label>
+  <GR_HeWearsAntennae.stages.0.description>정보가... 너무 많아...! 멈춰줘!</GR_HeWearsAntennae.stages.0.description>
+  <GR_DamnMammaries.stages.0.label>젖소 같음</GR_DamnMammaries.stages.0.label>
+  <GR_DamnMammaries.stages.0.description>내가 짐승같은 젖을 달고있다니! 이건 정말 끔찍한 농담같아!</GR_DamnMammaries.stages.0.description>
+  <GR_AteRatMilk.stages.0.label>그 우유는 대체 뭐지?</GR_AteRatMilk.stages.0.label>
+  <GR_AteRatMilk.stages.0.description>방금 내가 쥐 젖을 마신거야? 진짜로? 진짜로???</GR_AteRatMilk.stages.0.description>
+  <AA_BeenPsionicallyNuzzled.stages.0.label>초능력 교감</AA_BeenPsionicallyNuzzled.stages.0.label>
+  <AA_BeenPsionicallyNuzzled.stages.0.description>이 예쁜 여우가 애교를 부릴 땐 꼭 홀리는 것만 같다니까...</AA_BeenPsionicallyNuzzled.stages.0.description>
+
+  <!--1206705240_190519_L-Slimes-->
+  <MixedSlimedrugWithdrawl.stages.1.label>혼합 마약 슬라임 투여 중지됨</MixedSlimedrugWithdrawl.stages.1.label>
+  <MixedSlimedrugWithdrawl.stages.1.description>그걸 줘... 난 그 점액질이 필요해! 그걸 먹어야만 살 수 있어!</MixedSlimedrugWithdrawl.stages.1.description>
+  <SlimedrugWithdrawl.stages.1.label>슬라임 마약 투여중단됨</SlimedrugWithdrawl.stages.1.label>
+  <SlimedrugWithdrawl.stages.1.description>그걸 줘...! 그 점액질! 난 그걸 원해! 그게 있어야만 난 살아있을 수 있어!</SlimedrugWithdrawl.stages.1.description>
+
+  <!--1543566982_190606_Lost Forest-->
+  <LF_Thought_HotSpringJoy.stages.0.label>온천으로 상쾌해짐.</LF_Thought_HotSpringJoy.stages.0.label>
+  <LF_Thought_HotSpringJoy.stages.0.description>내 몸과 마음이 온천에서 따뜻해졌고 아직도 좀 따뜻해진 느낌이네.</LF_Thought_HotSpringJoy.stages.0.description>
+  <LF_Thought_HotSpringJoy.stages.1.label>온천으로 상쾌해짐</LF_Thought_HotSpringJoy.stages.1.label>
+  <LF_Thought_HotSpringJoy.stages.1.description>내 몸과 마음이 온천에서 따뜻해졌어. 편안한 따뜻함이야.</LF_Thought_HotSpringJoy.stages.1.description>
+  <LF_Thought_HotSpringJoy.stages.2.label>온천으로 상쾌해짐</LF_Thought_HotSpringJoy.stages.2.label>
+  <LF_Thought_HotSpringJoy.stages.2.description>내 몸과 마음이 온천에서 따뜻해졌어. 그것은 매우 신선했어!</LF_Thought_HotSpringJoy.stages.2.description>
+  <LF_Thought_HolyWoodSapling.stages.0.label>맑은 산들바람</LF_Thought_HolyWoodSapling.stages.0.label>
+  <LF_Thought_HolyWoodSapling.stages.0.description>이곳의 공기는 신선해! 나를 자연에 개방된 기분으로 만든어.</LF_Thought_HolyWoodSapling.stages.0.description>
+
+</LanguageData>

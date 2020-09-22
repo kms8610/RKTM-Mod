@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BiomesIslands_Bananas.label>바나나</BiomesIslands_Bananas.label>
+  <BiomesIslands_Bananas.description>껍질이 두껍고 부드러운 과육을 가진 길고 노란 과일.</BiomesIslands_Bananas.description>
+  <BiomesIslands_Devilsclaw.label>악마발톱 잎</BiomesIslands_Devilsclaw.label>
+  <BiomesIslands_Devilsclaw.description>악마발톱 나무에서 나는 식용 잎.</BiomesIslands_Devilsclaw.description>
+  <BiomesIslands_Oranges.label>오렌지</BiomesIslands_Oranges.label>
+  <BiomesIslands_Oranges.description>달콤한 즙을 가진 주황색 둥근 과일.</BiomesIslands_Oranges.description>
+  <BiomesIslands_Coconuts.label>코코넛</BiomesIslands_Coconuts.label>
+  <BiomesIslands_Coconuts.description>단단한 껍질과 부드러운 과육을 가진 크고 둥근 과일</BiomesIslands_Coconuts.description>
+  <BiomesIslands_Pineapples.label>파인애플</BiomesIslands_Pineapples.label>
+  <BiomesIslands_Pineapples.description>뾰족하고 단단한 껍질과 상큼한 과육을 가진 과일</BiomesIslands_Pineapples.description>
+  <BiomesIslands_EggKiwiFertilized.label>키위 유정란</BiomesIslands_EggKiwiFertilized.label>
+  <BiomesIslands_EggKiwiFertilized.description>수정된 키위 알. 새끼 키위가 부화할 수 있습니다. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggKiwiFertilized.description>
+  <BiomesIslands_EggRimCrabFertilized.label>게 수정란</BiomesIslands_EggRimCrabFertilized.label>
+  <BiomesIslands_EggRimCrabFertilized.description>수정된 게 알. 새끼 게가 부화할 수 있습니다. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggRimCrabFertilized.description>
+  <BiomesIslands_EggOmegaDodoUnfertilized.label>오메가도도 무정란</BiomesIslands_EggOmegaDodoUnfertilized.label>
+  <BiomesIslands_EggOmegaDodoUnfertilized.description>수정되지 않은 오메가도도 알. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggOmegaDodoUnfertilized.description>
+  <BiomesIslands_EggOmegaDodoFertilized.label>오메가도도 수정란</BiomesIslands_EggOmegaDodoFertilized.label>
+  <BiomesIslands_EggOmegaDodoFertilized.description>수정된 오메가도도 알. 새끼 도도 부화할 수 있습니다. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggOmegaDodoFertilized.description>
+  <BiomesIslands_EggSeagullFertilized.label>갈매기 수정란</BiomesIslands_EggSeagullFertilized.label>
+  <BiomesIslands_EggSeagullFertilized.description>수정된 갈매기 알. 새끼 갈매기가 부화할 수 있습니다. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggSeagullFertilized.description>
+  <BiomesIslands_EggGigantacondaFertilized.label>거대 아나콘다 수정란</BiomesIslands_EggGigantacondaFertilized.label>
+  <BiomesIslands_EggGigantacondaFertilized.description>수정된 거대 아나콘다 알. 새끼 거대 아나콘다가 부화할 수 있습니다. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggGigantacondaFertilized.description>
+  <BiomesIslands_EggFlamingoFertilized.label>플라밍고 수정란</BiomesIslands_EggFlamingoFertilized.label>
+  <BiomesIslands_EggFlamingoFertilized.description>수정된 플라밍고 알. 새끼 플라밍고 부화할 수 있습니다. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggFlamingoFertilized.description>
+  <BiomesIslands_EggSeaTurtleFertilized.label>바다거북 수정란</BiomesIslands_EggSeaTurtleFertilized.label>
+  <BiomesIslands_EggSeaTurtleFertilized.description>수정된 바다거북 알. 새끼 바다거북이 부화할 수 있습니다. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggSeaTurtleFertilized.description>
+  <BiomesIslands_EggMarineIguanaFertilized.label>바다 이구아나 수정란</BiomesIslands_EggMarineIguanaFertilized.label>
+  <BiomesIslands_EggMarineIguanaFertilized.description>수정된 바다 이구아나 알. 새끼 바다이구아나가 부화할 수 있습니다. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggMarineIguanaFertilized.description>
+  <BiomesIslands_EggGreenGeckoFertilized.label>초록 도마뱀붙이 수정란</BiomesIslands_EggGreenGeckoFertilized.label>
+  <BiomesIslands_EggGreenGeckoFertilized.description>수정된 바다 이구아나 알. 새끼 도마뱀붙이가 부화할 수 있습니다. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggGreenGeckoFertilized.description>
+  <BiomesIslands_EggTreeFrogFertilized.label>청개구리 수정란</BiomesIslands_EggTreeFrogFertilized.label>
+  <BiomesIslands_EggTreeFrogFertilized.description>수정된 바다 이구아나 알. 새끼 올챙이가 부화할 수 있습니다. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggTreeFrogFertilized.description>
+  <BiomesIslands_EggMegamantisFertilized.label>메가맨티스 수정란</BiomesIslands_EggMegamantisFertilized.label>
+  <BiomesIslands_EggMegamantisFertilized.description>수정된 메가맨티스 알. 새끼 메가맨티스가 부화할 수 있습니다. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggMegamantisFertilized.description>
+  <BiomesIslands_EggHermitCrabFertilized.label>소라게 수정란</BiomesIslands_EggHermitCrabFertilized.label>
+  <BiomesIslands_EggHermitCrabFertilized.description>수정된 소라게 알. 새끼 소라게가 부화할 수 있습니다. 날것으로 먹을 수 있지만 요리하는게 더 좋습니다.</BiomesIslands_EggHermitCrabFertilized.description>
+  <BiomesIslands_Leather_Flamingo.label>플라밍고 가죽</BiomesIslands_Leather_Flamingo.label>
+  <BiomesIslands_Leather_Flamingo.description>플라밍고에서 얻은 밝은 핑크색 가죽. 일반적인 새 가죽보다 다소 질깁니다.</BiomesIslands_Leather_Flamingo.description>
+  <BiomesIslands_CoconutPalm.label>코코넛 나무</BiomesIslands_CoconutPalm.label>
+  <BiomesIslands_CoconutPalm.description>매우 넒은 잎사귀를 가진 키 큰 나무. 코코넛 열매를 얻을 수 있습니다.</BiomesIslands_CoconutPalm.description>
+  <BiomesIslands_BananaPlant.label>바나나 나무</BiomesIslands_BananaPlant.label>
+  <BiomesIslands_BananaPlant.description>약초로 종종 착각하는 큰 꽃이 피는 나무. 바나나를 얻을 수 있습니다.</BiomesIslands_BananaPlant.description>
+  <BiomesIslands_DevilsClawTree.label>악마발톱</BiomesIslands_DevilsClawTree.label>
+  <BiomesIslands_DevilsClawTree.description>식용 가능한 잎을 가진 열대 나무.</BiomesIslands_DevilsClawTree.description>
+  <BiomesIslands_OrangeTree.label>오렌지 나무</BiomesIslands_OrangeTree.label>
+  <BiomesIslands_OrangeTree.description>키가 크고 부드러운 가시를 가진 나무. 오렌지를 얻을 수 있습니다.</BiomesIslands_OrangeTree.description>
+  <BiomesIslands_Pineappleplant.label>파인애플</BiomesIslands_Pineappleplant.label>
+  <BiomesIslands_Pineappleplant.description>두껍고 뾰족한 껍질을 가진 상큼한 과일.</BiomesIslands_Pineappleplant.description>
+  <BiomesIslands_KiwiBird.label>키위</BiomesIslands_KiwiBird.label>
+  <BiomesIslands_KiwiBird.description>모아새의 사촌으로 알려졌지만 사실 코끼리새와 더 가까운 새. 날개는 퇴화했지만 대신 다리가 잘 발달되어 있습니다.</BiomesIslands_KiwiBird.description>
+  <BiomesIslands_KiwiBird.tools.0.label>발톱</BiomesIslands_KiwiBird.tools.0.label>
+  <BiomesIslands_KiwiBird.tools.1.label>부리</BiomesIslands_KiwiBird.tools.1.label>
+  <BiomesIslands_KiwiBird.tools.2.label>머리</BiomesIslands_KiwiBird.tools.2.label>
+  <BiomesIslands_Seagull.label>갈매기</BiomesIslands_Seagull.label>
+  <BiomesIslands_Seagull.description>바다에 사는 시끄러운 새.</BiomesIslands_Seagull.description>
+  <BiomesIslands_Seagull.tools.0.label>발톱</BiomesIslands_Seagull.tools.0.label>
+  <BiomesIslands_Seagull.tools.1.label>부리</BiomesIslands_Seagull.tools.1.label>
+  <BiomesIslands_Seagull.tools.2.label>머리</BiomesIslands_Seagull.tools.2.label>
+  <BiomesIslands_OmegaDodo.label>오메가도도</BiomesIslands_OmegaDodo.label>
+  <BiomesIslands_OmegaDodo.description>도도새는 한때 멸종했었지만 과학자들의 노력으로 부활했습니다. 오메가도도는 유전자 조작으로 크기를 키운 도도새로 평범한 도도새보다 더 많은 고기를 얻을 수 있습니다.</BiomesIslands_OmegaDodo.description>
+  <BiomesIslands_OmegaDodo.tools.0.label>발톱</BiomesIslands_OmegaDodo.tools.0.label>
+  <BiomesIslands_OmegaDodo.tools.1.label>부리</BiomesIslands_OmegaDodo.tools.1.label>
+  <BiomesIslands_OmegaDodo.tools.2.label>머리</BiomesIslands_OmegaDodo.tools.2.label>
+  <BiomesIslands_Flamingo.label>플라밍고</BiomesIslands_Flamingo.label>
+  <BiomesIslands_Flamingo.description>주식인 크릴새우 때문에 분홍색을 띄는 새. 따듯한 기후와 얕은 물을 좋아합니다.</BiomesIslands_Flamingo.description>
+  <BiomesIslands_Flamingo.tools.0.label>발톱</BiomesIslands_Flamingo.tools.0.label>
+  <BiomesIslands_Flamingo.tools.1.label>부리</BiomesIslands_Flamingo.tools.1.label>
+  <BiomesIslands_Flamingo.tools.2.label>머리</BiomesIslands_Flamingo.tools.2.label>
+  <BiomesIslands_RimCrab.label>게</BiomesIslands_RimCrab.label>
+  <BiomesIslands_RimCrab.description>따듯한 바다에서 사는 잡종 게들입니다. 큰 무리를 지어 다니면서 작은 섬들을 싹슬이 합니다. 고기는 매우 맛있지만 껍질때문에 손질이 힘듭니다. 하지만 게 껍질은 매우 유용함니다.</BiomesIslands_RimCrab.description>
+  <BiomesIslands_RimCrab.tools.0.label>집게</BiomesIslands_RimCrab.tools.0.label>
+  <BiomesIslands_RimCrab.tools.1.label>머리</BiomesIslands_RimCrab.tools.1.label>
+  <BiomesIslands_HermitCrab.label>소라게</BiomesIslands_HermitCrab.label>
+  <BiomesIslands_HermitCrab.description>소라나 조개 껍데기로 몸을 보호하는 게. 무리지어 다닙니다. 매우 단단한 껍질을 가지고 있습니다.</BiomesIslands_HermitCrab.description>
+  <BiomesIslands_HermitCrab.tools.0.label>집게</BiomesIslands_HermitCrab.tools.0.label>
+  <BiomesIslands_HermitCrab.tools.1.label>머리</BiomesIslands_HermitCrab.tools.1.label>
+  <BiomesIslands_Megamantis.label>메가멘티스</BiomesIslands_Megamantis.label>
+  <BiomesIslands_Megamantis.description>유전자 조작으로 탄생한 거대 사마귀. 아마도 실험실에서 탈출해 번성한것 같습니다. 열대섬에 적응한 이 생물체는 포식자의 정점이 되었습니다.</BiomesIslands_Megamantis.description>
+  <BiomesIslands_Megamantis.tools.0.label>턱</BiomesIslands_Megamantis.tools.0.label>
+  <BiomesIslands_Megamantis.tools.1.label>왼쪽 낫</BiomesIslands_Megamantis.tools.1.label>
+  <BiomesIslands_Megamantis.tools.2.label>오른쪽 낫</BiomesIslands_Megamantis.tools.2.label>
+  <BiomesIslands_Megamantis.tools.3.label>머리</BiomesIslands_Megamantis.tools.3.label>
+  <BiomesIslands_Treefrog.label>청개구리</BiomesIslands_Treefrog.label>
+  <BiomesIslands_Treefrog.description>특유의 색과 강한 독으로 포식자들에게서 자신을 보호하는 작은 개구리.</BiomesIslands_Treefrog.description>
+  <BiomesIslands_Treefrog.tools.1.label>머리</BiomesIslands_Treefrog.tools.1.label>
+  <BiomesIslands_Gigantaconda.label>거대 아나콘다</BiomesIslands_Gigantaconda.label>
+  <BiomesIslands_Gigantaconda.description>사람을 삼킬 수 있을만큼 커다란 뱀. 거대 아나콘다는 먹이감을 통째로 조여 으스러트린 후 한입에 삼킵니다.</BiomesIslands_Gigantaconda.description>
+  <BiomesIslands_Gigantaconda.tools.0.label>송곳니</BiomesIslands_Gigantaconda.tools.0.label>
+  <BiomesIslands_Gigantaconda.tools.1.label>머리</BiomesIslands_Gigantaconda.tools.1.label>
+  <BiomesIslands_SeaTurtle.label>바다거북</BiomesIslands_SeaTurtle.label>
+  <BiomesIslands_SeaTurtle.description>매우 단단한 등딱지를 가진 바다에 사는 거북입니다. 느리다는 약점이 있지만 이들의 부리는 뭐든 물어 뜯을 수 있고 등딱지는 어떤 공격이든 보호해냅니다.</BiomesIslands_SeaTurtle.description>
+  <BiomesIslands_SeaTurtle.tools.0.label>부리</BiomesIslands_SeaTurtle.tools.0.label>
+  <BiomesIslands_SeaTurtle.tools.1.label>머리</BiomesIslands_SeaTurtle.tools.1.label>
+  <BiomesIslands_MarineIguana.label>바다 이구아나</BiomesIslands_MarineIguana.label>
+  <BiomesIslands_MarineIguana.description>바다에 사는 이구아나입니다.</BiomesIslands_MarineIguana.description>
+  <BiomesIslands_MarineIguana.tools.0.label>왼쪽 발톱</BiomesIslands_MarineIguana.tools.0.label>
+  <BiomesIslands_MarineIguana.tools.1.label>오른쪽 발톱</BiomesIslands_MarineIguana.tools.1.label>
+  <BiomesIslands_MarineIguana.tools.3.label>머리</BiomesIslands_MarineIguana.tools.3.label>
+  <BiomesIslands_GreenGecko.label>초록 도마뱀붙이</BiomesIslands_GreenGecko.label>
+  <BiomesIslands_GreenGecko.description>혀로 자신의 눈을 햩고 꼬리를 흔드는 작고 귀여운 도마뱀들. 아무리 매끄러운 벽이라도 잘 붙어서 기어다닙니다.</BiomesIslands_GreenGecko.description>
+  <BiomesIslands_GreenGecko.tools.0.label>머리</BiomesIslands_GreenGecko.tools.0.label>
+  <BiomesIslands_CoralRock.label>산호석</BiomesIslands_CoralRock.label>
+  <BiomesIslands_CoralRock.description>바닷속 산호가 굳어서 만들어진 덩어리입니다.</BiomesIslands_CoralRock.description>
+  <BiomesIslands_SmoothedCoral.label>매끄러운 산호</BiomesIslands_SmoothedCoral.label>
+  <BiomesIslands_SmoothedCoral.description>매끄럽게 다듬은 산호입니다.</BiomesIslands_SmoothedCoral.description>
+  <BiomesIslands_ChunkCoral.label>산호 덩어리</BiomesIslands_ChunkCoral.label>
+  <BiomesIslands_BlocksCoral.label>산호 벽돌</BiomesIslands_BlocksCoral.label>
+  <BiomesIslands_BlocksCoral.description>벽돌 모양으로 다듬은 산호.</BiomesIslands_BlocksCoral.description>
+  <BiomesIslands_BlocksCoral.stuffProps.stuffAdjective>산호</BiomesIslands_BlocksCoral.stuffProps.stuffAdjective>
+
+</LanguageData>

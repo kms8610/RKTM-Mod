@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallSimpleProstheticWing.label>동물용 날개 보철물 설치</InstallSimpleProstheticWing.label>
+  <InstallSimpleProstheticWing.description>날개 보철물을 설치합니다. 의료레벨 4 이상을 요구합니다.</InstallSimpleProstheticWing.description>
+  <InstallSimpleProstheticWing.jobString>날개 보철물 설치중.</InstallSimpleProstheticWing.jobString>
+  <InstallBionicWing.label>동물용 생체공학 날개 설치</InstallBionicWing.label>
+  <InstallBionicWing.description>생체공학 날개를 설치합니다. 의료레벨 8 이상을 요구합니다.</InstallBionicWing.description>
+  <InstallBionicWing.jobString>생체공학 날개 설치중.</InstallBionicWing.jobString>
+  <MakeSimpleProstheticWing.label>동물용 날개 보철물 제작</MakeSimpleProstheticWing.label>
+  <MakeSimpleProstheticWing.description>날개 보철물을 제작합니다.</MakeSimpleProstheticWing.description>
+  <MakeSimpleProstheticWing.jobString>날개 보철물 제작 중.</MakeSimpleProstheticWing.jobString>
+  <MakeBionicWing.label>동물용 생체공학 날개 제작</MakeBionicWing.label>
+  <MakeBionicWing.description>생체공학 날개를 제작합니다.</MakeBionicWing.description>
+  <MakeBionicWing.jobString>생체공학 날개 제작 중.</MakeBionicWing.jobString>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MantisLike.label>사마귓과</MantisLike.label>
+  <MantisLike.corePart.parts.0.customLabel>왼쪽 겉날개</MantisLike.corePart.parts.0.customLabel>
+  <MantisLike.corePart.parts.1.customLabel>오른쪽 겉날개</MantisLike.corePart.parts.1.customLabel>
+  <MantisLike.corePart.parts.4.parts.0.parts.1.customLabel>왼쪽 눈</MantisLike.corePart.parts.4.parts.0.parts.1.customLabel>
+  <MantisLike.corePart.parts.4.parts.0.parts.2.customLabel>오른쪽 눈</MantisLike.corePart.parts.4.parts.0.parts.2.customLabel>
+  <MantisLike.corePart.parts.4.parts.0.parts.3.customLabel>왼쪽 더듬이</MantisLike.corePart.parts.4.parts.0.parts.3.customLabel>
+  <MantisLike.corePart.parts.4.parts.0.parts.4.customLabel>오른쪽 더듬이</MantisLike.corePart.parts.4.parts.0.parts.4.customLabel>
+  <MantisLike.corePart.parts.5.customLabel>왼쪽 앞다리</MantisLike.corePart.parts.5.customLabel>
+  <MantisLike.corePart.parts.5.parts.0.customLabel>왼쪽 낫</MantisLike.corePart.parts.5.parts.0.customLabel>
+  <MantisLike.corePart.parts.6.customLabel>오른쪽 앞다리</MantisLike.corePart.parts.6.customLabel>
+  <MantisLike.corePart.parts.6.parts.0.customLabel>오른쪽 낫</MantisLike.corePart.parts.6.parts.0.customLabel>
+  <MantisLike.corePart.parts.7.customLabel>왼쪽 가운뎃다리</MantisLike.corePart.parts.7.customLabel>
+  <MantisLike.corePart.parts.8.customLabel>오른쪽 가운뎃다리</MantisLike.corePart.parts.8.customLabel>
+  <MantisLike.corePart.parts.9.customLabel>왼쪽 뒷다리</MantisLike.corePart.parts.9.customLabel>
+  <MantisLike.corePart.parts.10.customLabel>오른쪽 뒷다리</MantisLike.corePart.parts.10.customLabel>
+
+</LanguageData>

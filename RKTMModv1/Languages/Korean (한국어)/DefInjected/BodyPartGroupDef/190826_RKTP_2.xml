@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1106719215_190814_Mechanoids Extraordinaire-->
+  <UpperLeftMechaTentacleME.label>왼쪽 상단 기계 촉수</UpperLeftMechaTentacleME.label>
+  <UpperLeftMechaTentacleME.labelShort>기계 촉수</UpperLeftMechaTentacleME.labelShort>
+  <UpperRightMechaTentacleME.label>오른쪽 상단 기계 촉수</UpperRightMechaTentacleME.label>
+  <UpperRightMechaTentacleME.labelShort>기계 촉수</UpperRightMechaTentacleME.labelShort>
+  <LowerLeftMechaTentacleME.label>왼쪽 하단 기계 촉수</LowerLeftMechaTentacleME.label>
+  <LowerLeftMechaTentacleME.labelShort>기계 촉수</LowerLeftMechaTentacleME.labelShort>
+  <LowerRightMechaTentacleME.label>오른쪽 하단 기계 촉수</LowerRightMechaTentacleME.label>
+  <LowerRightMechaTentacleME.labelShort>기계 촉수</LowerRightMechaTentacleME.labelShort>
+  <TailBladeME.label>칼날 꼬리</TailBladeME.label>
+  <FrontLeftMechanicalPawME.label>왼쪽 앞발</FrontLeftMechanicalPawME.label>
+  <FrontLeftMechanicalPawME.labelShort>발</FrontLeftMechanicalPawME.labelShort>
+  <FrontRightMechanicalPawME.label>오른쪽 앞발</FrontRightMechanicalPawME.label>
+  <FrontRightMechanicalPawME.labelShort>발</FrontRightMechanicalPawME.labelShort>
+
+  <!--1113137502_190707_Genetic Rim-->
+  <GR_FangsAttackTool.label>이빨</GR_FangsAttackTool.label>
+
+  <!--1136958577_190707_Dinosauria-->
+  <TailAttackTool.label>꼬리</TailAttackTool.label>
+  <ArmClawAttackTool.label>팔 발톱</ArmClawAttackTool.label>
+  <FootClawAttackTool.label>갈고리 발톱</FootClawAttackTool.label>
+  <LeftLeg.label>왼쪽 다리</LeftLeg.label>
+  <RightLeg.label>오른쪽 다리</RightLeg.label>
+
+  <!--1206705240_190519_L-Slimes-->
+  <MechaniteSwarm.label>메카니트 무리</MechaniteSwarm.label>
+  <Slimebody.label>슬라임 몸체</Slimebody.label>
+
+  <!--1342364585_190818_Star Wars Animal Collection-->
+  <LeftFingerClaw.label>왼쪽 손가락 발톱</LeftFingerClaw.label>
+  <LeftFingerClaw.labelShort>손가락 발톱</LeftFingerClaw.labelShort>
+  <RightFingerClaw.label>오른쪽 손가락 발톱</RightFingerClaw.label>
+  <RightFingerClaw.labelShort>손가락 발톱</RightFingerClaw.labelShort>
+  <TailAttackTool.label>꼬리</TailAttackTool.label>
+  <LeftArmClawAttackTool.label>왼발톱</LeftArmClawAttackTool.label>
+  <RightArmClawAttackTool.label>오른발톱</RightArmClawAttackTool.label>
+  <LeftLegClawAttackTool.label>왼발톱</LeftLegClawAttackTool.label>
+  <RightLegClawAttackTool.label>오른발톱</RightLegClawAttackTool.label>
+  <LeftLeg.label>왼다리</LeftLeg.label>
+  <RightLeg.label>오른다리</RightLeg.label>
+
+  <!--1542306804_190519_The Zerg!-->
+  <TailAttackTool.label>꼬리</TailAttackTool.label>
+  <ArmClawAttackTool.label>손톱</ArmClawAttackTool.label>
+  <ArmScytheAttackTool.label>낫</ArmScytheAttackTool.label>
+
+  <!--1543566982_190606_Lost Forest-->
+  <LF_TailAttackTool.label>꼬리</LF_TailAttackTool.label>
+  <LF_LeftLegAttackTool.label>왼쪽 다리</LF_LeftLegAttackTool.label>
+  <LF_RightLegAttackTool.label>오른쪽 다리</LF_RightLegAttackTool.label>
+  <LF_LeftWingAttackTool.label>왼쪽 날개</LF_LeftWingAttackTool.label>
+  <LF_RightWingAttackTool.label>오른쪽 날개</LF_RightWingAttackTool.label>
+
+  <!--1821617793_190811_Magical Menagerie-->
+  <MM_AttackTail.label>전갈 꼬리</MM_AttackTail.label>
+  <MM_Pseudopods.label>위족</MM_Pseudopods.label>
+
+  <!--949283405_190618_AnimalCollabProj-->
+  <Flippers.label>지느러미</Flippers.label>
+  <Antlers.label>뿔</Antlers.label>
+  <Spurs.label>돌기</Spurs.label>
+  <Bill.label>부리</Bill.label>
+  <Quills.label>가시</Quills.label>
+  <StingerAttackTool.label>침</StingerAttackTool.label>
+  <PincerAttackTool.label>집게발</PincerAttackTool.label>
+
+  <!--974867140_190519_USCM - Xenomorphs Faction-->
+  <XenomorphTail.label>꼬리</XenomorphTail.label>
+  <InnerJaw.label>안쪽 턱</InnerJaw.label>
+
+</LanguageData>

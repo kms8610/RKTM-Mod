@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PCauldron.label>가마솥</PCauldron.label>
+  <PCauldron.description>여러 물약을 정제하는 데 사용되는 금속 가마솥.</PCauldron.description>
+  <PlasteelDust.label>플라스틸 가루</PlasteelDust.label>
+  <PlasteelDust.description>고급 우주 기술 구조 재료. 플라스틸 가루는 물약 정제시 재료로 사용됩니다. 별로 강하지 않습니다.</PlasteelDust.description>
+  <GoldDust.label>금 가루</GoldDust.label>
+  <GoldDust.description>가장 매혹적인 금속. 금 가루는 물약 정제시 재료로 사용됩니다. 별로 강하지 않습니다.</GoldDust.description>
+  <JadeDust.label>비취 가루</JadeDust.label>
+  <JadeDust.description>아름다운 녹색 가루. 비취 가루는 물약 정제시 재료로 사용됩니다. 별로 강하지 않습니다.</JadeDust.description>
+  <UraniumDust.label>우라늄 가루</UraniumDust.label>
+  <UraniumDust.description>어두운 색깔의 가루. 우라늄 가루는 물약 정제시 재료로 사용됩니다. 별로 강하지 않습니다.</UraniumDust.description>
+  <WindDaisyBloom.label>바람 데이지 꽃</WindDaisyBloom.label>
+  <WindDaisyBloom.description>바람 데이지 꽃. 오랫동안 잊혀진 세계의 마법사들이 사용하는 아름답고 마법의 식물.</WindDaisyBloom.description>
+  <WindDaisyDust.label>바람 데이지 가루</WindDaisyDust.label>
+  <WindDaisyDust.description>바람 데이지 가루는 물약 정제시 재료로 사용됩니다.</WindDaisyDust.description>
+  <PGlassBottle.label>유리병</PGlassBottle.label>
+  <PGlassBottle.description>물약 정제에 사용되는 간단한 유리 병.</PGlassBottle.description>
+  <PPotionSkills.label>기술의 물약</PPotionSkills.label>
+  <PPotionSkills.description>특정 기술을 훈련시키는 물약.</PPotionSkills.description>
+  <PPotionSkills.comps.2.useLabel>{0} 기술의 물약으로 기술을 배웁니다.</PPotionSkills.comps.2.useLabel>
+  <PPotionHealer.label>치유 물약</PPotionHealer.label>
+  <PPotionHealer.description>건강 상태를 치료하는 물약. 주어진 시간 안에 한가지 제일 나쁜 건강 상태를 치료합니다. 달리 치료할 수 없는 건강 상태에서도 작동합니다. 필요에 따라 새로운 사지나 장기를 생성할 수도 있습니다.</PPotionHealer.description>
+  <PPotionHealer.comps.1.useLabel>치유 물약 사용</PPotionHealer.comps.1.useLabel>
+  <PPotionLife.label>생명의 물약</PPotionLife.label>
+  <PPotionLife.description>죽은 자를 부활시키는 물약. 불행하게도, 부활한 사람들은 때때로 뇌 손상, 실명 또는 점진적인 정신병인 상태로 돌아옵니다. 더 신선한 몸에 물약이 투여될 때 결과가 더 좋습니다. 시체가 보존되면 사망한지 오래되었더라도 부활할 수 있습니다.</PPotionLife.description>
+  <PPotionLife.comps.1.useLabel>생명의 물약 사용</PPotionLife.comps.1.useLabel>
+  <PPotionKnowledge.label>지식의 물약</PPotionKnowledge.label>
+  <PPotionKnowledge.description>가르침의 물약. 물약을 사용하면 현재 연구중인 기술을 즉시 무료로 배울 수 있습니다.</PPotionKnowledge.description>
+  <PPotionKnowledge.comps.1.useLabel>지식의 물약 사용</PPotionKnowledge.comps.1.useLabel>
+  <PPotionLuciferium.label>루시페륨 물약</PPotionLuciferium.label>
+  <PPotionLuciferium.description>모든 면에서 신체의 기능을 크게 향상시키는 물약. 시간이 지남에 따라 오래된 상처나 뇌 손상을 치료할 수는 있지만 잃어버린 사지를 재생성할 수는 없습니다. 불행히도, 5-6 일마다 규칙적인 복용을 하지 않는다면, 물약은 응집력을 잃어 연속적인 맹렬한 분노와 결국 죽음을 초래합니다. \n\n 첫 번째 투약 후에는 물약을 제거할 방법이 없습니다.</PPotionLuciferium.description>
+  <PPotionSaturation.label>포만의 물약</PPotionSaturation.label>
+  <PPotionSaturation.description>생존 상황에서 사용하기 위해 정제된 물약. 결코 썩지 않지만 외부에 방치하면 성능이 저하될 수 있습니다. 여행할 때에 좋습니다.</PPotionSaturation.description>
+  <PPotionWakeUp.label>웨이크업 물약</PPotionWakeUp.label>
+  <PPotionWakeUp.description>웨이크 업 물약은 휴식의 필요를 채우고 사용자가 피로를 느끼지 않고 장시간 작업할 수 있도록 합니다. 그러나 반복적으로 사용하면 중독이 발생하여 정신력이 떨어지고 정신 붕괴를 일으킬 수도 있습니다.</PPotionWakeUp.description>
+  <PPotionGoJuice.label>고주스 물약</PPotionGoJuice.label>
+  <PPotionGoJuice.description>고주스 물약은 통증을 차단하고 이동 속도를 높이며 사용자의 근접 및 사격 능력을 향상시킵니다.</PPotionGoJuice.description>
+  <PPotionGoJuice.ingestible.ingestCommandString>{0} 주사하기</PPotionGoJuice.ingestible.ingestCommandString>
+  <PPotionGoJuice.ingestible.ingestReportString>{0} 주사 중.</PPotionGoJuice.ingestible.ingestReportString>
+  <PPotionYayo.label>야요 물약</PPotionYayo.label>
+  <PPotionYayo.description>취했을 때, 매우 행복감이 뛰어나고, 사용자의 휴식 필요성을 극적으로 감소시키고, 통증을 억제합니다. 모든 형태의 정신병자처럼, 그것은 조잡한 플레이크만큼 중독적이지는 않지만 중독성이 있습니다.</PPotionYayo.description>
+  <PPotionYayo.ingestible.ingestCommandString>{0} 흡입</PPotionYayo.ingestible.ingestCommandString>
+  <PPotionYayo.ingestible.ingestReportString>{0} 흡입 중.</PPotionYayo.ingestible.ingestReportString>
+  <PPotionFlake.label>플레이크 물약</PPotionFlake.label>
+  <PPotionFlake.description>강력한 기분 좋은 상태를 만들기 위해 마실 수 있는 엷은 황백색의 사이카이트. 저렴하게 생산할 수 있고  사용하면 매우 즐겁지만 중독성이 높습니다. 플레이크는 생명, 지역 사회 및 전체 사회를 파괴하는 것으로 알려져 있습니다</PPotionFlake.description>
+  <PPotionFlake.ingestible.ingestCommandString>{0} 피우기</PPotionFlake.ingestible.ingestCommandString>
+  <PPotionFlake.ingestible.ingestReportString>{0} 피우는 중.</PPotionFlake.ingestible.ingestReportString>
+  <PPotionPain.label>진통의 물약</PPotionPain.label>
+  <PPotionPain.description>짧은 시간 동안 통증을 줄이는 물약.</PPotionPain.description>
+  <PPotionPain.ingestible.ingestCommandString>{0} 마시기</PPotionPain.ingestible.ingestCommandString>
+  <PPotionPain.ingestible.ingestReportString>{0} 마시는 중.</PPotionPain.ingestible.ingestReportString>
+  <PPotionConsciousness.label>의식의 물약</PPotionConsciousness.label>
+  <PPotionConsciousness.description>짧은 시간 동안 의식을 증가시키는 물약.</PPotionConsciousness.description>
+  <PPotionConsciousness.ingestible.ingestCommandString>{0} 마시기</PPotionConsciousness.ingestible.ingestCommandString>
+  <PPotionConsciousness.ingestible.ingestReportString>{0} 마시는 중.</PPotionConsciousness.ingestible.ingestReportString>
+  <PPotionSight.label>시력의 물약</PPotionSight.label>
+  <PPotionSight.description>짧은 시간 시력을 증가시키는 물약.</PPotionSight.description>
+  <PPotionSight.ingestible.ingestCommandString>{0} 마시기</PPotionSight.ingestible.ingestCommandString>
+  <PPotionSight.ingestible.ingestReportString>{0} 마시는 중.</PPotionSight.ingestible.ingestReportString>
+  <PPotionMoving.label>이동 속도의 물약</PPotionMoving.label>
+  <PPotionMoving.description>짧은 시간 동안 이동 속도를 증가시키는 물약.</PPotionMoving.description>
+  <PPotionMoving.ingestible.ingestCommandString>{0} 마시기</PPotionMoving.ingestible.ingestCommandString>
+  <PPotionMoving.ingestible.ingestReportString>{0} 마시는 중.</PPotionMoving.ingestible.ingestReportString>
+  <PPotionMetabolism.label>신진대사의 물약</PPotionMetabolism.label>
+  <PPotionMetabolism.description>짧은 시간 동안 신진 대사를 증가시키는 물약.</PPotionMetabolism.description>
+  <PPotionMetabolism.ingestible.ingestCommandString>{0} 마시기</PPotionMetabolism.ingestible.ingestCommandString>
+  <PPotionMetabolism.ingestible.ingestReportString>{0} 마시는 중.</PPotionMetabolism.ingestible.ingestReportString>
+  <PPotionBreathing.label>호흡의 물약</PPotionBreathing.label>
+  <PPotionBreathing.description>짧은 시간 동안 호흡을 증가시키는 물약.</PPotionBreathing.description>
+  <PPotionBreathing.ingestible.ingestCommandString>{0} 마시기</PPotionBreathing.ingestible.ingestCommandString>
+  <PPotionBreathing.ingestible.ingestReportString>{0} 마시는 중.</PPotionBreathing.ingestible.ingestReportString>
+  <PPotionBloodFiltration.label>혈액 여과의 물약</PPotionBloodFiltration.label>
+  <PPotionBloodFiltration.description>짧은 시간 동안 혈액 여과를 증가시키는 물약.</PPotionBloodFiltration.description>
+  <PPotionBloodFiltration.ingestible.ingestCommandString>{0} 마시기</PPotionBloodFiltration.ingestible.ingestCommandString>
+  <PPotionBloodFiltration.ingestible.ingestReportString>{0} 마시는 중.</PPotionBloodFiltration.ingestible.ingestReportString>
+  <PPotionBloodPumping.label>혈액 순환의 물약</PPotionBloodPumping.label>
+  <PPotionBloodPumping.description>짧은 시간 동안 혈액 순환을 증가시키는 물약.</PPotionBloodPumping.description>
+  <PPotionBloodPumping.ingestible.ingestCommandString>{0} 마시기</PPotionBloodPumping.ingestible.ingestCommandString>
+  <PPotionBloodPumping.ingestible.ingestReportString>{0} 마시는 중.</PPotionBloodPumping.ingestible.ingestReportString>
+  <PPotionRest.label>휴식의 물약</PPotionRest.label>
+  <PPotionRest.description>짧은 시간동안 피로도를 줄여주는 물약.</PPotionRest.description>
+  <PPotionRest.ingestible.ingestCommandString>{0} 마시기</PPotionRest.ingestible.ingestCommandString>
+  <PPotionRest.ingestible.ingestReportString>{0} 마시는 중.</PPotionRest.ingestible.ingestReportString>
+  <PPotionManipulation.label>조작의 물약</PPotionManipulation.label>
+  <PPotionManipulation.description>짧은 시간 동안 조작을 증가시키는 물약.</PPotionManipulation.description>
+  <PPotionManipulation.ingestible.ingestCommandString>{0} 마시기</PPotionManipulation.ingestible.ingestCommandString>
+  <PPotionManipulation.ingestible.ingestReportString>{0} 마시는 중.</PPotionManipulation.ingestible.ingestReportString>
+  <PPotionHunger.label>기아의 물약</PPotionHunger.label>
+  <PPotionHunger.description>짧은 시간 동안 배고픔을 증가시키는 물약. 왜 사용하겠습니까?</PPotionHunger.description>
+  <PPotionHunger.ingestible.ingestCommandString>{0} 마시기</PPotionHunger.ingestible.ingestCommandString>
+  <PPotionHunger.ingestible.ingestReportString>{0} 마시는 중.</PPotionHunger.ingestible.ingestReportString>
+  <WindDaisy.label>바람 데이지</WindDaisy.label>
+  <WindDaisy.description>오랫동안 잊혀진 세계에서 온 마법 같은 아름다운 꽃. 바람 데이지를 파종 및 수확하는 것은 섬세한 싹때문에 매우 노동 집약적인 작업입니다. 이 곷의 가루는 다른 물약들을 정제하는 데 사용됩니다.</WindDaisy.description>
+  <PThrumboBone.label>트럼보 뼈</PThrumboBone.label>
+  <PThrumboBone.description>물약 정제에 사용하는 트럼보의 거대한 뼈입니다.</PThrumboBone.description>
+
+</LanguageData>

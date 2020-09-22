@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Closeboard.label>연판 울타리</Closeboard.label>
+  <Closeboard.description>정원을 보호하기 위한 나무 울타리입니다.</Closeboard.description>
+  <Closeboard_Blueprint.label>연판 울타리 (청사진)</Closeboard_Blueprint.label>
+  <Closeboard_Frame.label>연판 울타리 (건설 중)</Closeboard_Frame.label>
+  <Closeboard_Frame.description>정원을 보호하기 위한 나무 울타리입니다.</Closeboard_Frame.description>
+  <CloseboardGateHori.label>연판 대문 (수평)</CloseboardGateHori.label>
+  <CloseboardGateHori.description>정원을 보호하기 위한 나무 울타리입니다.</CloseboardGateHori.description>
+  <CloseboardGateHori_Blueprint.label>연판 대문 (수평) (청사진)</CloseboardGateHori_Blueprint.label>
+  <CloseboardGateHori_Frame.label>연판 대문 (수평) (건설 중)</CloseboardGateHori_Frame.label>
+  <CloseboardGateHori_Frame.description>정원을 보호하기 위한 나무 울타리입니다.</CloseboardGateHori_Frame.description>
+  <CloseboardGateVerti.label>연판 대문 (수직)</CloseboardGateVerti.label>
+  <CloseboardGateVerti.description>정원을 보호하기 위한 나무 울타리입니다.</CloseboardGateVerti.description>
+  <CloseboardGateVerti_Blueprint.label>연판 대문 (수직) (청사진)</CloseboardGateVerti_Blueprint.label>
+  <CloseboardGateVerti_Frame.label>연판 대문 (수직) (건설 중)</CloseboardGateVerti_Frame.label>
+  <CloseboardGateVerti_Frame.description>정원을 보호하기 위한 나무 울타리입니다.</CloseboardGateVerti_Frame.description>
+  <Solid.label>견고한 울타리</Solid.label>
+  <Solid.description>정원을 보호하기 위한 나무 울타리입니다.</Solid.description>
+  <Solid_Blueprint.label>견고한 울타리 (청사진)</Solid_Blueprint.label>
+  <Solid_Frame.label>견고한 울타리 (건설 중)</Solid_Frame.label>
+  <Solid_Frame.description>정원을 보호하기 위한 나무 울타리입니다.</Solid_Frame.description>
+  <SolidGateHori.label>견고한 대문 (수평)</SolidGateHori.label>
+  <SolidGateHori.description>정원을 보호하기 위한 나무 울타리입니다.</SolidGateHori.description>
+  <SolidGateHori_Blueprint.label>견고한 대문 (수평) (청사진)</SolidGateHori_Blueprint.label>
+  <SolidGateHori_Frame.label>견고한 대문 (수평) (건설 중)</SolidGateHori_Frame.label>
+  <SolidGateHori_Frame.description>정원을 보호하기 위한 나무 울타리입니다.</SolidGateHori_Frame.description>
+  <SolidGateVerti.label>견고한 대문 (수직)</SolidGateVerti.label>
+  <SolidGateVerti.description>정원을 보호하기 위한 나무 울타리입니다.</SolidGateVerti.description>
+  <SolidGateVerti_Blueprint.label>견고한 대문 (수직) (청사진)</SolidGateVerti_Blueprint.label>
+  <SolidGateVerti_Frame.label>견고한 대문 (수직) (건설 중)</SolidGateVerti_Frame.label>
+  <SolidGateVerti_Frame.description>정원을 보호하기 위한 나무 울타리입니다.</SolidGateVerti_Frame.description>
+  <Picket.label>말뚝 울타리</Picket.label>
+  <Picket.description>정원을 보호하기 위한 나무 울타리입니다.</Picket.description>
+  <Picket_Blueprint.label>말뚝 울타리 (청사진)</Picket_Blueprint.label>
+  <Picket_Frame.label>말뚝 울타리 (건설 중)</Picket_Frame.label>
+  <Picket_Frame.description>정원을 보호하기 위한 나무 울타리입니다.</Picket_Frame.description>
+  <PicketGateHori.label>말뚝 대문 (수평)</PicketGateHori.label>
+  <PicketGateHori.description>정원을 보호하기 위한 나무 울타리입니다.</PicketGateHori.description>
+  <PicketGateHori_Blueprint.label>말뚝 대문 (수평) (청사진)</PicketGateHori_Blueprint.label>
+  <PicketGateHori_Frame.label>말뚝 대문 (수평) (건설 중)</PicketGateHori_Frame.label>
+  <PicketGateHori_Frame.description>정원을 보호하기 위한 나무 울타리입니다.</PicketGateHori_Frame.description>
+  <PicketGateVerti.label>말뚝 대문 (수직)</PicketGateVerti.label>
+  <PicketGateVerti.description>정원을 보호하기 위한 나무 울타리입니다.</PicketGateVerti.description>
+  <PicketGateVerti_Blueprint.label>말뚝 대문 (수직) (청사진)</PicketGateVerti_Blueprint.label>
+  <PicketGateVerti_Frame.label>말뚝 대문 (수직) (건설 중)</PicketGateVerti_Frame.label>
+  <PicketGateVerti_Frame.description>정원을 보호하기 위한 나무 울타리입니다.</PicketGateVerti_Frame.description>
+  <Farm.label>농장 울타리</Farm.label>
+  <Farm.description>정원을 보호하기 위한 나무 울타리입니다.</Farm.description>
+  <Farm_Blueprint.label>농장 울타리 (청사진)</Farm_Blueprint.label>
+  <Farm_Frame.label>농장 울타리 (건설 중)</Farm_Frame.label>
+  <Farm_Frame.description>정원을 보호하기 위한 나무 울타리입니다.</Farm_Frame.description>
+  <FarmGateHori.label>농장 대문 (수평)</FarmGateHori.label>
+  <FarmGateHori.description>정원을 보호하기 위한 나무 울타리입니다.</FarmGateHori.description>
+  <FarmGateHori_Blueprint.label>농장 대문 (수평) (청사진)</FarmGateHori_Blueprint.label>
+  <FarmGateHori_Frame.label>농장 대문 (수평) (건설 중)</FarmGateHori_Frame.label>
+  <FarmGateHori_Frame.description>정원을 보호하기 위한 나무 울타리입니다.</FarmGateHori_Frame.description>
+  <FarmGateVerti.label>농장 대문 (수직)</FarmGateVerti.label>
+  <FarmGateVerti.description>정원을 보호하기 위한 나무 울타리입니다.</FarmGateVerti.description>
+  <FarmGateVerti_Blueprint.label>농장 대문 (수직) (청사진)</FarmGateVerti_Blueprint.label>
+  <FarmGateVerti_Frame.label>농장 대문 (수직) (건설 중)</FarmGateVerti_Frame.label>
+  <FarmGateVerti_Frame.description>정원을 보호하기 위한 나무 울타리입니다.</FarmGateVerti_Frame.description>
+  <Bar.label>가로장 울타리</Bar.label>
+  <Bar.description>정원을 보호하기 위한 금속 울타리입니다.</Bar.description>
+  <Bar_Blueprint.label>가로장 울타리 (청사진)</Bar_Blueprint.label>
+  <Bar_Frame.label>가로장 울타리 (건설 중)</Bar_Frame.label>
+  <Bar_Frame.description>정원을 보호하기 위한 금속 울타리입니다.</Bar_Frame.description>
+  <BarGateHori.label>가로장 대문 (수평)</BarGateHori.label>
+  <BarGateHori.description>정원을 보호하기 위한 금속 울타리입니다.</BarGateHori.description>
+  <BarGateHori_Blueprint.label>가로장 대문 (수평) (청사진)</BarGateHori_Blueprint.label>
+  <BarGateHori_Frame.label>가로장 대문 (수평) (건설 중)</BarGateHori_Frame.label>
+  <BarGateHori_Frame.description>정원을 보호하기 위한 금속 울타리입니다.</BarGateHori_Frame.description>
+  <BarGateVerti.label>가로장 대문 (수직)</BarGateVerti.label>
+  <BarGateVerti.description>정원을 보호하기 위한 금속 울타리입니다.</BarGateVerti.description>
+  <BarGateVerti_Blueprint.label>가로장 대문 (수직) (청사진)</BarGateVerti_Blueprint.label>
+  <BarGateVerti_Frame.label>가로장 대문 (수직) (건설 중)</BarGateVerti_Frame.label>
+  <BarGateVerti_Frame.description>정원을 보호하기 위한 금속 울타리입니다.</BarGateVerti_Frame.description>
+  <TallChainLink.label>철조망 울타리</TallChainLink.label>
+  <TallChainLink.description>정원을 보호하기 위한 금속 울타리입니다.</TallChainLink.description>
+  <TallChainLink_Blueprint.label>철조망 울타리 (청사진)</TallChainLink_Blueprint.label>
+  <TallChainLink_Frame.label>철조망 울타리 (건설 중)</TallChainLink_Frame.label>
+  <TallChainLink_Frame.description>정원을 보호하기 위한 금속 울타리입니다.</TallChainLink_Frame.description>
+  <ChainlinkGateHori.label>철조망 대문 (수평)</ChainlinkGateHori.label>
+  <ChainlinkGateHori.description>정원을 보호하기 위한 금속 울타리입니다.</ChainlinkGateHori.description>
+  <ChainlinkGateHori_Blueprint.label>철조망 대문 (수평) (청사진)</ChainlinkGateHori_Blueprint.label>
+  <ChainlinkGateHori_Frame.label>철조망 대문 (수평) (건설 중)</ChainlinkGateHori_Frame.label>
+  <ChainlinkGateHori_Frame.description>정원을 보호하기 위한 금속 울타리입니다.</ChainlinkGateHori_Frame.description>
+  <ChainlinkGateVerti.label>철조망 대문 (수직)</ChainlinkGateVerti.label>
+  <ChainlinkGateVerti.description>정원을 보호하기 위한 금속 울타리입니다.</ChainlinkGateVerti.description>
+  <ChainlinkGateVerti_Blueprint.label>철조망 대문 (수직) (청사진)</ChainlinkGateVerti_Blueprint.label>
+  <ChainlinkGateVerti_Frame.label>철조망 대문 (수직) (건설 중)</ChainlinkGateVerti_Frame.label>
+  <ChainlinkGateVerti_Frame.description>정원을 보호하기 위한 금속 울타리입니다.</ChainlinkGateVerti_Frame.description>
+  <ShortBrick.label>벽돌 울타리 (낮음)</ShortBrick.label>
+  <ShortBrick.description>정원을 보호하기 위한 석재 울타리입니다.</ShortBrick.description>
+  <ShortBrick_Blueprint.label>벽돌 울타리 (낮음) (청사진)</ShortBrick_Blueprint.label>
+  <ShortBrick_Frame.label>벽돌 울타리 (낮음) (건설 중)</ShortBrick_Frame.label>
+  <ShortBrick_Frame.description>정원을 보호하기 위한 석재 울타리입니다.</ShortBrick_Frame.description>
+  <TallBrick.label>벽돌 울타리 (높음)</TallBrick.label>
+  <TallBrick.description>정원을 보호하기 위한 석재 울타리입니다.</TallBrick.description>
+  <TallBrick_Blueprint.label>벽돌 울타리 (높음) (청사진)</TallBrick_Blueprint.label>
+  <TallBrick_Frame.label>벽돌 울타리 (높음) (건설 중)</TallBrick_Frame.label>
+  <TallBrick_Frame.description>정원을 보호하기 위한 석재 울타리입니다.</TallBrick_Frame.description>
+
+</LanguageData>

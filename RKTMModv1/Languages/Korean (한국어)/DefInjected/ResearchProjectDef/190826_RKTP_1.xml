@@ -1,0 +1,776 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1120445716_190627_Reclaim, Reuse, Recycle-->
+  <R3_AdvancedHarvesting.label>고급 적출</R3_AdvancedHarvesting.label>
+  <R3_AdvancedRefurbishment.label>고급 신체부위 복원</R3_AdvancedRefurbishment.label>
+  <R3_BasicHarvesting.label>기초 적출</R3_BasicHarvesting.label>
+  <R3_BasicRefurbishment.label>기초적인 신체부위 복원</R3_BasicRefurbishment.label>
+  <R3_GlittertechHarvesting.label>번화계 적출</R3_GlittertechHarvesting.label>
+  <R3_GlittertechRefurbishment.label>번화계 신체부위 복원</R3_GlittertechRefurbishment.label>
+  <R3_AdvancedHarvesting.description>시체에서 강화 신체부위를 회수하는 방법을 연구합니다.</R3_AdvancedHarvesting.description>
+  <R3_BasicHarvesting.description>시체에서 기초 신체부위를 회수하는 방법을 연구합니다.</R3_BasicHarvesting.description>
+  <R3_GlittertechHarvesting.description>시체에서 번화계 신체부위를 회수하는 방법을 연구합니다.</R3_GlittertechHarvesting.description>
+  <R3_AdvancedRefurbishment.description>고급 신체부위를 소독 &amp; 복원하는 방법을 연구합니다.</R3_AdvancedRefurbishment.description>
+  <R3_BasicRefurbishment.description>기초적인 신체부위를 소독 &amp; 복원하는 방법을 연구합니다.</R3_BasicRefurbishment.description>
+  <R3_GlittertechRefurbishment.description>번화계 신체부위를 소독 &amp; 복원하는 방법을 연구합니다.</R3_GlittertechRefurbishment.description>
+
+  <!--1140051385_181113_Smokeleaf_Industry-->
+  <IndustrialSmokeleafProcessing.description>연초 잎의 마펄프와 씨앗에서 새로운 연료가 만들어졌습니다. 요리사들은 새 레시피 몇 개를 배웠고 새로운 직물을 만들 수 있는 방법도 발견되었습니다.</IndustrialSmokeleafProcessing.description>
+  <AdvancedSmokeleafCultivation.label>고급 연초잎 재배</AdvancedSmokeleafCultivation.label>
+  <AdvancedSmokeleafProcessing.label>고급 연초잎 가공</AdvancedSmokeleafProcessing.label>
+  <SmokeleafGlittertech.description>수준 높이 발전된 연초잎 부산물들이 우리 연구자들의 심도있는 연구를 통해 개발되었습니다.</SmokeleafGlittertech.description>
+  <IndustrialSmokeleafCultivation.label>산업 연초잎 재배</IndustrialSmokeleafCultivation.label>
+  <IndustrialSmokeleafProcessing.label>산업 연초잎 가공</IndustrialSmokeleafProcessing.label>
+  <AdvancedSmokeleafProcessing.description>연초잎의 화합물들을 추출하고 농축하는 새로운 방법들이 개발되었습니다. 덕분에, 새로운 식품과 오락용 약물들을 만들 수 있었습니다. 고급 재생 금속도 개발되었습니다.</AdvancedSmokeleafProcessing.description>
+  <AdvancedSmokeleafCultivation.description>우리 엔지니어들이 연초잎의 재배와 가공을 도울 수 있는 새로운 기계를 개발하였습니다.</AdvancedSmokeleafCultivation.description>
+  <SmokeleafPharmacology.description>연구자들이 연초잎의 유익한 화합물을 분리해내 현대 의학에 부작용 없이 적용할 수 있습니다.</SmokeleafPharmacology.description>
+  <SmokeleafCultivation.label>연초잎 재배</SmokeleafCultivation.label>
+  <SmokeleafGlittertech.label>연초잎 번화계 기술</SmokeleafGlittertech.label>
+  <SmokeleafPharmacology.label>연초잎 약리학</SmokeleafPharmacology.label>
+  <SmokeleafProcessing.label>연초잎 가공</SmokeleafProcessing.label>
+  <SmokeleafProcessing.description>요리사들이 연구…해본 결과 약간 흥미로운 결과를 얻었습니다. 첨가 식품을 만들 수 있습니다. 적절한 도구만 있다면, 연초잎의 마펄프로 몇몇 새로운 재료들을 만들 수 있다는 것도 알게 되었습니다.</SmokeleafProcessing.description>
+  <IndustrialSmokeleafCultivation.description>재배 작업대가 개발되어, 연초잎을 새로운 형태로 대량 가공할 수 있게 되었습니다. 손질 도구들에서 더 쉽게 접근할 수 있는 저장시설이 만들어졌고, 전기세가 절약되는 새 재배 램프도 발명되었습니다.</IndustrialSmokeleafCultivation.description>
+  <SmokeleafCultivation.description>연초잎을 분리하는 과정입니다. 연초잎 싹, 씨앗과 마펄프를 생산합니다. 연초를 말아 만들 수 있습니다.</SmokeleafCultivation.description>
+
+  <!--1164753788_190814_Fast Moisture Pumps-->
+  <WDMoisturePumpAdvanced.label>고급 흡습 펌프</WDMoisturePumpAdvanced.label>
+  <WDMoisturePumpAdvanced.description>습지를 더 빠르게 건조시키는 고급 흡습 펌프를 건설할 수 있습니다.</WDMoisturePumpAdvanced.description>
+
+  <!--1180720179_190617_[KV] Animal Costumes-->
+  <AnimalTailsAndEars.label>(코스튬)동물 꼬리와 귀</AnimalTailsAndEars.label>
+  <AnimalTailsAndEars.description>동물의 꼬리와 귀 모양을 본뜬 악세서리 제작이 가능해집니다.</AnimalTailsAndEars.description>
+  <CombatAnimalTailsAndEars.label>(코스튬) 전투용 동물 꼬리와 귀</CombatAnimalTailsAndEars.label>
+  <CombatAnimalTailsAndEars.description>동물의 꼬리와 귀 모양을 본뜬 전투용 악세서리 제작이 가능해집니다.</CombatAnimalTailsAndEars.description>
+  <AnimalCostumes.label>(코스튬) 동물 코스튬</AnimalCostumes.label>
+  <AnimalCostumes.description>동물의 특성을 본뜬 복장 제작이 가능해집니다.</AnimalCostumes.description>
+  <CombatAnimalCostumes.label>(코스튬) 전투용 동물 코스튬</CombatAnimalCostumes.label>
+  <CombatAnimalCostumes.description>동물의 특성을 본뜬 전투용 복장 제작이 가능해집니다.</CombatAnimalCostumes.description>
+
+  <!--1180720427_190622_Weapon Storage-->
+  <Mending.label>무기 수리</Mending.label>
+  <Mending.description>손상된 무기를 수리 할 수 있습니다.</Mending.description>
+
+  <!--1185278809_181023_VGP Soylent Production-->
+  <soylentmakingadvanced.label>고급 소일렌트 생산</soylentmakingadvanced.label>
+  <soylentmaking.description>식물, 동물제품, 그리고 고열량 플랑크톤으로부터 소일렌트를 생산하는 기계 건설을 허용합니다.</soylentmaking.description>
+  <soylentmakingadvanced.description>최대 15%까지 생산 시간을 단축해서 소일렌트를 대량 생산하고 소일렌트와 페미컨을 이용해 많은 재료를 들여 간단한 보존식량을 만들 수 있습니다.</soylentmakingadvanced.description>
+  <soylentmaking.label>소일렌트 생산</soylentmaking.label>
+
+  <!--1185281838_181022_VGP_Xtra_Trees_and_Flowers-->
+  <Xtraflower.description>추가된 꽃의 재배를 연구합니다.</Xtraflower.description>
+  <Xtraflower.label>꽃 추가</Xtraflower.label>
+
+  <!--1204258045_190519_[XND] Genetically Engineered Plants-->
+  <Artiveg.description>자연에 병존하는 유전적으로 개조된 두 종류의 식물을 재배할 수 있습니다.</Artiveg.description>
+  <Branchvine.description>나무같은 성질을 가진 빠르게 자라는 덩굴 식물인 잔가지 덩굴을 재배할 수 있습니다.</Branchvine.description>
+  <Artiveg.label>인조 채소</Artiveg.label>
+  <Branchvine.label>잔가지 덩굴</Branchvine.label>
+  <Rocketree.description>수확 시 화학연료를 많이 생산하는 휘발성이 강한 식물인 로켓 나무를 재배할 수 있습니다.</Rocketree.description>
+  <Rocketree.label>로켓 나무</Rocketree.label>
+
+  <!--1204502413_190521_Harvest Organs Post Mortem-->
+  <AdvancedAutopsy.label>고급 부검</AdvancedAutopsy.label>
+  <AdvancedAutopsy.description>고급 절차를 통해 보다 인간적이고 정확한 장기 적출이 가능합니다.</AdvancedAutopsy.description>
+  <AnimalAutopsy.description>죽은 동물의 생체공학 부위를 의학적으로 적출할 수 있습니다.</AnimalAutopsy.description>
+  <AnimalAutopsy.label>동물 부검</AnimalAutopsy.label>
+  <BasicAutopsy.label>기초적인 부검</BasicAutopsy.label>
+  <GlitterworldAutopsy.label>번화계 부검</GlitterworldAutopsy.label>
+  <BasicAutopsy.description>의식에 자주 사용되는 장기를 얻기 위한 최초의 장기 적출 사례입니다. 그러나 꽤 야만적이군요. 이 연구는 부검 테이블의 잠금을 해제합니다.</BasicAutopsy.description>
+  <GlitterworldAutopsy.description>올바른 도구, 교육 및 기술을 통해 번화계와 같은 성공 확률로 인간의 장기를 보존하며 장기를 적출할 수 있습니다.</GlitterworldAutopsy.description>
+
+  <!--1210535987_181023_Shield Generators by Frontier Developments-->
+  <ShieldGeneratorPortable.description>소형 배터리를 내장하고 있는 휴대용 방어막 발생기</ShieldGeneratorPortable.description>
+  <ShieldGeneratorLarge.label>대형 방어막 발생기</ShieldGeneratorLarge.label>
+  <ShieldGeneratorPortable.label>휴대용 방어막</ShieldGeneratorPortable.label>
+  <ShieldGenerator.label>방어막 발생기</ShieldGenerator.label>
+  <ShieldGeneratorLarge.description>더 큰 방어막 발생기는 일반 방어막 발생기보다 범위가 넓고 내구성이 더 좋습니다.</ShieldGeneratorLarge.description>
+  <ShieldGenerator.description>이 방어막 발생기는 발사체를 막아 궁극적인 방어력을 제공합니다. 또한 박격포, 적대적인 포드 낙하, 운석 낙하, 궤도 빔 폭격기 등을 방어할 수 있습니다.</ShieldGenerator.description>
+
+  <!--1231678757_190814_Technology Blueprints-->
+  <IndustrialBlueprint.description>산업 시대 기술 청사진을 만듭니다. 산업 시대 청사진을 만들기 위해선 산업 및 그 이전 시대의 기술에 대해 잘 이해하고 있어야 합니다.</IndustrialBlueprint.description>
+  <MedievalBlueprint.description>중세 시대 기술 청사진을 만듭니다. 중세 시대의 청사진을 만들기 위해서는 중세 및 그 이전 시대의 기술에 대해 잘 이해하고 있어야 합니다.</MedievalBlueprint.description>
+  <NeolithicBlueprint.description>신석기 시대 기술 청사진을 만듭니다. 신석기 시대의 청사진을 만들기 위해서는 신석기 시대의 기술에 대해 잘 이해하고 있어야 합니다.</NeolithicBlueprint.description>
+  <SpacerBlueprint.description>우주 시대 기술 청사진을 만듭니다. 우주 시대 청사진을 만들기 위해선 알려진 모든 시대의 기술을 잘 이해하고 있어야 합니다.</SpacerBlueprint.description>
+  <IndustrialBlueprint.label>산업 기술 청사진</IndustrialBlueprint.label>
+  <MedievalBlueprint.label>중세 기술 청사진</MedievalBlueprint.label>
+  <NeolithicBlueprint.label>신석기 기술 청사진</NeolithicBlueprint.label>
+  <SpacerBlueprint.label>우주 기술 청사진</SpacerBlueprint.label>
+
+  <!--1233893175_190627_[KV] Infinite Storage-->
+  <InfiniteStorage.description>단순하게 저장고를 만드는 방법을 연구합니다.</InfiniteStorage.description>
+  <InfiniteStorage.label>무한 저장고</InfiniteStorage.label>
+
+  <!--1283484513_190519_Farmable Neutroamine-->
+  <NeutroaleafPlanting.description>뉴트로아잎을 재배하는 법을 익힙니다.</NeutroaleafPlanting.description>
+  <NeutroaleafRefining.description>뉴트로아잎에서 뉴트로아민을 정제하는 법을 익힙니다. 의약품에 유용한 재료입니다.</NeutroaleafRefining.description>
+  <NeutroaleafPlanting.label>뉴트로아잎 재배</NeutroaleafPlanting.label>
+  <NeutroaleafRefining.label>뉴트로아잎 정제</NeutroaleafRefining.label>
+
+  <!--1304432145_190814_Clone Bay-->
+  <LTF_Research_CloneBay_CloneVat.label>클론 배양기</LTF_Research_CloneBay_CloneVat.label>
+  <LTF_Research_CloneBay_MeatGrinder.label>고기 분쇄기</LTF_Research_CloneBay_MeatGrinder.label>
+  <LTF_Research_CloneBay_Phenodrill.label>페노드릴</LTF_Research_CloneBay_Phenodrill.label>
+  <LTF_Research_CloneBay_MeatGrinder.description>클론 배양기에 영양분을 제공하는 고기 분쇄기입니다.</LTF_Research_CloneBay_MeatGrinder.description>
+  <LTF_Research_CloneBay_Phenodrill.description>죽은 정착민으로 처리하기 위해 스캔하고 등록해야 합니다.</LTF_Research_CloneBay_Phenodrill.description>
+  <LTF_Research_CloneBay_CloneVat.description>클론을 생성하는 데 필요합니다.</LTF_Research_CloneBay_CloneVat.description>
+
+  <!--1316188771_190621_Door Expanded-->
+  <ProjectHeron_Curtains.label>간단한 커튼</ProjectHeron_Curtains.label>
+  <ProjectHeron_Curtains.description>일반 문보다 훨씬 빠르게 열리지만 실내 온도도 천천히 방출하는 커튼 제작에 필요한 연구입니다.</ProjectHeron_Curtains.description>
+  <ProjectHeron_PrisonDoors.label>포로수용소</ProjectHeron_PrisonDoors.label>
+  <ProjectHeron_PrisonDoors.description>감옥을 만들기 위한 기본적인 문입니다.</ProjectHeron_PrisonDoors.description>
+  <ProjectHeron_RemoteDoors.label>원격 문</ProjectHeron_RemoteDoors.label>
+  <ProjectHeron_RemoteDoors.description>원격 문과 그걸 조작할 수 있는 버튼과 레버를 사용 가능하게 해주는 연구입니다.</ProjectHeron_RemoteDoors.description>
+  <ProjectHeron_Gates.label>경첩과 관문</ProjectHeron_Gates.label>
+  <ProjectHeron_Gates.description>경첩 및 잠금 기술을 통해 대형 관문을 건설할 수 있습니다.</ProjectHeron_Gates.description>
+  <ProjectHeron_BlastDoors.label>방폭 문</ProjectHeron_BlastDoors.label>
+  <ProjectHeron_BlastDoors.description>기밀 구조로 제작되어 폭발을 흡수하는 방폭 문을 건설할 수 있습니다.</ProjectHeron_BlastDoors.description>
+
+  <!--1363721847_190621_Jelly Farm-->
+  <JellyFarmR.description>인공적인 곤충 군락으로, 천연 곤충 군락과 발광 주머니의 일부를 사용해서 만들 수 있습니다.</JellyFarmR.description>
+  <JellyFarmR.label>젤리 농장</JellyFarmR.label>
+
+  <!--1364582731_190615_Medicines-->
+  <CrimsonBulbRefining.label>진홍색 구근 정제</CrimsonBulbRefining.label>
+  <CrimsonBulbRefining.description>이 식물에 있는 생화학적 중합체를 추출해 내는 방법을 연구합니다.</CrimsonBulbRefining.description>
+  <OpioidRefining.label>아편 정제</OpioidRefining.label>
+  <OpioidRefining.description>더 강한 효과가 있는 아편을 합성하는 법과 양귀비 유액을 모르핀으로 정제하는 방법을 연구합니다.</OpioidRefining.description>
+
+  <!--1417354001_190519_Advanced Shield Belts-->
+  <HeavyShieldBelts.description>발전된 벨트로서 최대 충전량이 증가합니다.</HeavyShieldBelts.description>
+  <HeavyShieldBelts.label>헤비 실드 벨트</HeavyShieldBelts.label>
+  <QRShieldBelts.description>빠른 충전이 가능한 실드 벨트, 재충전 속도가 빠르게 증가합니다.</QRShieldBelts.description>
+  <QRShieldBelts.label>급속 충전 실드 벨트</QRShieldBelts.label>
+  <RangedShieldBelts.label>원거리 실드 벨트</RangedShieldBelts.label>
+  <RangedShieldBelts.description>원거리 싸움이 가능하게 해주는 실드 벨트, 첨단 마이크로 칩을 사용하면 처리 능력이 향상되므로 벨트가 들어오고 나가는 발사체를 구별 할 수 있습니다.</RangedShieldBelts.description>
+
+  <!--1426296659_190626_advanced powergeneration-->
+  <sd_adv_powergen_research_adv_geo.label>고급 지열 발전</sd_adv_powergen_research_adv_geo.label>
+  <sd_adv_powergen_research_nuclear_power.label>고급 원자력 발전</sd_adv_powergen_research_nuclear_power.label>
+  <sd_adv_powergen_research_adv_solar.label>고급 태양광 발전</sd_adv_powergen_research_adv_solar.label>
+  <sd_adv_powergen_research_adv_wind_turbine.label>고급 풍력 발전</sd_adv_powergen_research_adv_wind_turbine.label>
+  <sd_adv_powergen_research_adv_geo.description>고급 지열 발전기를 지을 수 있게 됩니다.</sd_adv_powergen_research_adv_geo.description>
+  <sd_adv_powergen_research_nuclear_power.description>고급 원자력 발전기를 지을 수 있게 됩니다.</sd_adv_powergen_research_nuclear_power.description>
+  <sd_adv_powergen_research_adv_solar.description>고급 태양광 발전기를 지을 수 있게 됩니다.</sd_adv_powergen_research_adv_solar.description>
+  <sd_adv_powergen_research_adv_wind_turbine.description>고급 풍력 발전기를 지을 수 있게 됩니다.</sd_adv_powergen_research_adv_wind_turbine.description>
+
+  <!--1447372624_190816_Nano Repair Tech-->
+  <Ogre_NanoTech.description>나노기술 수리 가구 건설을 할 수 있습니다. (침대 및 선반) 침대는 정착민들이 잠자는 동안 장비된 의류를 수리하고, 선반은 보관된 의류를 수리합니다. 모든 가구는 전력 및 연료 공급이 필요한 나노기술 나노나이트를 갖추고 있습니다. 나노기술 연료는 바이오 연료 정제기와 추가 연구 진행 시 가공 작업대에서 만들 수 있습니다.</Ogre_NanoTech.description>
+  <Ogre_NanoTech_Weapons.description>나노기술 가구에서 사용되는 확장 팔 통합하기 위해 나노나이트를 교체합니다. 이 수정으로, 전력 요구량이 증가하면서 의류 외에도 무기류를 수리할 수 있게 되었습니다.</Ogre_NanoTech_Weapons.description>
+  <Ogre_NanoTech_Breakdown.label>의상 분해</Ogre_NanoTech_Breakdown.label>
+  <Ogre_NanoTech_Breakdown.description>다음의 연구를 통해, 바이오연료 정제기에서 의류를 수많은 화학물질로 분해해서 나노기술 연료로 정제할 수 있게 됩니다. 이 과정은 매우 파괴적이며, 의상 분해에서 얻은 대부분의 유용한 화학물질은 손실됩니다.</Ogre_NanoTech_Breakdown.description>
+  <Ogre_NanoTech_Advanced.description>나노기술 가구에서 사용되는 나노나이트를 추가로 변경하여 전기 차폐를 크게 높일 수 있습니다. 이것은 나노나이트가 더 높은 전력에서 작동할 수 있게 해주며, 의상 수리 속도를 높이고 무기 수리율을 크게 증가시킵니다.</Ogre_NanoTech_Advanced.description>
+  <Ogre_NanoTech_Refine.description>나노기술 연료 베이스와 옷감/가죽을 추가로 정제해서 나노기술 연료로 만듭니다. 이 과정은 화학 연료를 촉매제로 필요로 합니다.</Ogre_NanoTech_Refine.description>
+  <Ogre_NanoTech_Weapons.label>나노나이트 확장 팔</Ogre_NanoTech_Weapons.label>
+  <Ogre_NanoTech.label>나노 수리기술</Ogre_NanoTech.label>
+  <Ogre_NanoTech_Refine.label>나노기술 정제</Ogre_NanoTech_Refine.label>
+  <Ogre_NanoTech_Advanced.label>전력 차폐</Ogre_NanoTech_Advanced.label>
+
+  <!--1465459039_190519_Rimlaser-->
+  <RimlaserLasers.description>방사선의 방출 촉진으로 빛 증폭을 사용하는 무기를 제작한다. 이것들에는 또한 진보된 부품들이 필요하고, 당신은 또한 레이저 무기를 만들기 위해 희귀한 결정체도 필요하다는 것을 알아두시오.</RimlaserLasers.description>
+  <RimlaserLaserTurrets.description>대형 광선에 몸통을 장착합니다.</RimlaserLaserTurrets.description>
+  <RimlaserLasers.label>광선</RimlaserLasers.label>
+  <RimlaserLaserTurrets.label>광선 포탑</RimlaserLaserTurrets.label>
+
+  <!--1496570408_181117_VGP Garden Canning-->
+  <VG_CanningFactory.label>통조림 기계</VG_CanningFactory.label>
+  <VG_CanningTable.label>통조림 작업대</VG_CanningTable.label>
+  <VG_CanningFactory.description>음식을 보존하기 위해 캔에 담아 포장을 할 수 있는 자동화된 기계를 연구합니다.\n\n통조림 자동화 기능으로 음식과 식사를 통조림으로 만들 수 있습니다.</VG_CanningFactory.description>
+  <VG_CanningTable.description>음식을 보존하기 위해 캔에 담아 포장을 하는 방법을 연구합니다.\n\n통조림 작업대를 이용해 음식과 식사를 통조림으로 만들 수 있습니다.</VG_CanningTable.description>
+
+  <!--1498756997_190814_Maid Project-->
+  <MaidTech.description>다양한 일에 도움이 되는 메이드복을 만들 수 있습니다.</MaidTech.description>
+  <MaidTech.label>메이드복 연구</MaidTech.label>
+
+  <!--1500248421_181028_Polarisbloc - Security Force-->
+  <PolarisShield.description>폴라리스 방어벨트 - II 제조법을 습득합니다. 데이터가 기밀사항으로 처리되어 있어 메모리를 풀어야만 폴라리스 방어 기술을 얻을 수 있습니다.</PolarisShield.description>
+  <PolarisShield.label>폴라리스 방어 기술</PolarisShield.label>
+
+  <!--1502471438_190520_Anti-Air Artillery-->
+  <ADAHuge.label>대형 대공포</ADAHuge.label>
+  <ADAHit.label>궤도 방위 파동포</ADAHit.label>
+  <ADAHuge.description>범위내로 강하하는 적 수송기들과 추락하는 외계함선을 요격할 수 있는 대형 대공포를 건설하는 방법에 대해 연구합니다.</ADAHuge.description>
+  <ADAMiddle.description>범위내로 강하하는 적 수송기 및 박격포탄을 요격할 수 있는 중형 대공포를 건설하는 방법에 대해 연구합니다.</ADAMiddle.description>
+  <ADASmall.description>범위내로 날아오는 적의 박격포 탄을 요격할 수 있는 소형 대공포를 건설하는 방법에 대해 연구합니다.</ADASmall.description>
+  <ADAHit.description>행성 궤도 전역을 방위할 수 있는 궤도 방위 파동포를 건설할 수 있는 기술을 연구합니다. 이 가공할 구조물은 대공포 기술을 총망라한 궁극의 대공포입니다. 사용자가 원한다면 궤도에 들어선 무역선을 격추할 수 있습니다. 그리고....</ADAHit.description>
+  <ADAMiddle.label>중형 대공포</ADAMiddle.label>
+  <ADASmall.label>소형 대공포</ADASmall.label>
+
+  <!--1505332648_190519_Gods of Elona [1.0]-->
+  <EhekatlofLuck.label>행운의 에헤카틀</EhekatlofLuck.label>
+  <EhekatlofLuck.description>행운의 에헤카틀</EhekatlofLuck.description>
+  <EythofInfidel.label>무의 에이스</EythofInfidel.label>
+  <EythofInfidel.description>무의 에이스</EythofInfidel.description>
+  <ItzpaltofElement.label>원소의 이츠펄트</ItzpaltofElement.label>
+  <ItzpaltofElement.description>원소의 이츠펄트</ItzpaltofElement.description>
+  <JureofHealing.label>치유의 쥬아</JureofHealing.label>
+  <JureofHealing.description>치유의 쥬아</JureofHealing.description>
+  <KumiromiofHarvest.label>수확의 쿠미로미</KumiromiofHarvest.label>
+  <KumiromiofHarvest.description>수확의 쿠미로미</KumiromiofHarvest.description>
+  <LulwyofWind.label>바람의 룰위</LulwyofWind.label>
+  <LulwyofWind.description>바람의 룰위</LulwyofWind.description>
+  <ManiofMachine.label>기계의 마니</ManiofMachine.label>
+  <ManiofMachine.description>기계의 마니</ManiofMachine.description>
+  <OpatosofEarth.label>대지의 오파토스</OpatosofEarth.label>
+  <OpatosofEarth.description>대지의 오파토스</OpatosofEarth.description>
+
+  <!--1505914869_190616_What the hack!-->
+  <WTH_HackingBasics.label>WTH: 메카노이드 해킹 기초</WTH_HackingBasics.label>
+  <WTH_HackingBasics.description>메카노이드를 해킹할 수있는 기초 기술을 연구합니다. 해킹 작업대와 메카노이드 정비고를 만들 수 있습니다.\n해킹 작업대는 메카노이드의 시스템을 해킹할 수 있는 설비이며, 해킹이 성공해 메카노이드가 재활성화 되면 정착민과 아군 대신 적을 공격합니다.\n메카노이드 정비고는 메카노이드의 유지보수 및 충전용 발전소로 이용됩니다.</WTH_HackingBasics.description>
+  <WTH_PortableChemfuelPlatform.label>WTH: 휴대용 충전소</WTH_PortableChemfuelPlatform.label>
+  <WTH_PortableChemfuelPlatform.description>세계를 탐험하는 동안 메카노이드에 전력을 공급할 수 있는 휴대용 화학 연료 충전소를 만드는 법을 연구합니다.\n또한, 메카노이드 장치를 위한 임시 전원 해결책을 설치/제거할 수도 있습니다.</WTH_PortableChemfuelPlatform.description>
+  <WTH_PortableDisassemblingBench.label>WTH: 휴대용 분해 작업대</WTH_PortableDisassemblingBench.label>
+  <WTH_PortableDisassemblingBench.description>세계를 탐험하는 동안 메카노이드를 분해하는데 사용되는 튼튼한 휴대용 작업대를 만드는 법을 연구합니다.\n이 작업대는 전력에 의존하지 않으므로 이동간에 사용하기 편리하지만, 그 대신 효율성이 약간 떨어집니다.</WTH_PortableDisassemblingBench.description>
+  <WTH_MechanoidWorkshop.label>WTH: 메카노이드 작업대</WTH_MechanoidWorkshop.label>
+  <WTH_MechanoidWorkshop.description>고급 메카노이드 칩을 분해하여 사용가능한 메카노이드 부품으로 만들 수 있는 메카노이드 작업대를 만드는 법을 연구합니다.\n또한 이 작업대에서 모든 종류의 메카노이드 관련 모듈 제작 및 업그레이드를 진행할 수 있습니다.</WTH_MechanoidWorkshop.description>
+  <WTH_WorkModules.label>WTH: 작업 모듈</WTH_WorkModules.label>
+  <WTH_WorkModules.description>메카노이드를 운반, 청소, 소방 및 재배와 같은 몇 가지 간단한 작업을 수행할 수 있게하는 여러 업그레이드 모듈을 연구합니다.\n메카노이드는 전투만을 위해 설계되었으며, 간단한 집안일을 수행하도록 개조하는 것은 아마도 그들의 창조자에 대한 모욕일 것입니다.</WTH_WorkModules.description>
+  <WTH_SpeedModule.label>WTH: 속도 모듈</WTH_SpeedModule.label>
+  <WTH_SpeedModule.description>메카노이드의 이동 속도를 증가시키는 것을 목표로 하는 업그레이드 모듈을 연구합니다.\n메카노이드는 제한된 반응로 용량으로 작동하도록 만들어졌습니다. 그리고 에너지 효율을 높이기 위해, 그들의 이동 시스템은 일정한 이동 속도로만 움직이도록 설계되었습니다.\n약간의 해킹과 일부 하드웨어를 추가하면 하드웨어에 손상을 주지 않고, 이 속도를 설계 사양 이상으로 높일 수 있습니다.\n해당 모듈 사용시, 메카노이드의 전력 소비량이 증가합니다.</WTH_SpeedModule.description>
+  <WTH_ArmorModule.label>WTH: 장갑 모듈</WTH_ArmorModule.label>
+  <WTH_ArmorModule.description>메카노이드의 방어도를 증가시키는 것을 목표로 하는 업그레이드 모듈을 연구합니다.\n중요한 부분을 보호하기 위해, 메카노이드의 외부 장갑 층 아래에 얇은 플라스틸 나노 섬유 층을 삽입합니다.\n해당 모듈 사용시, 이동 속도 패널티를 대가로 방어도(날카로움/둔탁함)를 증가시킵니다.</WTH_ArmorModule.description>
+  <WTH_OpticSensorModule.label>WTH: 광학 센서 모듈</WTH_OpticSensorModule.label>
+  <WTH_OpticSensorModule.description>메카노이드의 시력을 향상시키는 것을 목표로 하는 업그레이드 모듈을 연구합니다.\n메카노이드측 센서 기술은 현재의 인간측 센서 기술보다 더 발전되었습니다. 그러나 행성을 배회하는 메카노이드에 존재하는 센서는 일반적으로 수백 년의 연식을 가지고 있습니다. 인상깊게도 이러한 센서는 장착된 후, 수백 년이 지난 후에도 여전히 작동합니다. 다만 시간이 지남에 따라 품질이 저하되는 것은 피할 수 없습니다.\n인간이 만든 센서를 추가하는 것은 본래 그들의 것보다 열등한 물건임에도 불구하고, 메카노이드의 시력을 향상시킬 수 있습니다. \n해당 모듈 사용시, 메카노이드의 전력 소비량이 약간 증가합니다.</WTH_OpticSensorModule.description>
+  <WTH_CargoModule.label>WTH: 화물 모듈</WTH_CargoModule.label>
+  <WTH_CargoModule.description>메카노이드의 운반 능력을 크게 향상시키는 것을 목표로 하는 업그레이드 모듈을 연구합니다.\n화물 모듈의 크기는 사용할 메카노이드에 맞춰 조정할 수 있지만, 여전히 부피가 큽니다.\n해당 모듈 사용시, 메카노이드의 조작에 약간의 패널티를 받습니다.</WTH_CargoModule.description>
+  <WTH_HackingRemoteControl.label>WTH: 원격제어 벨트</WTH_HackingRemoteControl.label>
+  <WTH_HackingRemoteControl.description>메카노이드 작업대에서 만들 수 있는 메카노이드 원격제어 벨트 제조법을 구상하고, 이 벨트를 사용하여 정착민들이 직접 메카노이드를 제어하는 방법에 대해 알아봅니다.\n마지막으로 여러분의 '비폭력적'인 (즉 결격사항에 전투가 있는) 정착민들은 별다른 죄책감 없이 전투에 참여할 수 있습니다.\n결국, 메카노이드가 적에게 불의 심판을 내리는 것이지, 그들이 죽이는 것은 아니까요. 그렇죠?</WTH_HackingRemoteControl.description>
+  <WTH_RepairModule.label>WTH: 수리 모듈</WTH_RepairModule.label>
+  <WTH_RepairModule.description>메카노이드가 자가 수리를할 수있게 하는 모듈에 대해 연구합니다.\n이 수리 모듈은 메카노이드의 반응로에 설치할 수 있습니다. 이 모듈은 메카노이드 부품들을 적재할 수 있고, 매우 빠르게 메카노이드 부품으로부터 많은 양의 전력을 끌어낼 수 있습니다.\n전력과 부품을 통해 메카노이드의 내부 부속품들을 수리할 수 있으며, 수리 모듈을 사용하여 손상을 수리할 수 있는 기계 부품이 활성화되면 일시적으로 메카노이드의 행동이 제한됩니다.</WTH_RepairModule.description>
+  <WTH_RepairArm.label>WTH: 정비용 팔</WTH_RepairArm.label>
+  <WTH_RepairArm.description>메카노이드에 설치할 수 있는 정비용 팔에 대해 연구합니다.\n정비용 팔은 수리 모듈이 설치된 메카노이드에게 장착할 수 있습니다.\n섬세한 공정을 통해 만들어진 이 팔은 수리 모듈에 의해 복원된 기계적 성질을 다른 메카노이드 기체에 전달할 수 있으며, 그 결과 다른 메카노이드의 손상을 수리할 수 있습니다.\n하지만 이 팔은 전투에는 적합하지 않습니다.</WTH_RepairArm.description>
+  <WTH_SelfDestruct.label>WTH: 자폭 모듈</WTH_SelfDestruct.label>
+  <WTH_SelfDestruct.description>두 개의 고폭탄과 활성화 시 단락되는 와이어로 구성된 간단한 모듈을 연구합니다.\n유사시 메카노이드를 자폭시킬 수 있으며, 플라스틸 보호장치는 폭발물이 의도치 않게 터지는 것을 방지합니다.\n마지막까지 정착지에 헌신하는 메카노이드에게 축복을! ^~^7</WTH_SelfDestruct.description>
+  <WTH_TurretModule.label>WTH: 포탑 모듈</WTH_TurretModule.label>
+  <WTH_TurretModule.description>메카노이드에 탑재하기 위해 포탑과 박격포에 구조적인 지지와 인터페이스를 모두 제공하는 모듈을 연구합니다.\n더 많은 종류의 포탑을 탑재하려면 공돌이를 더 갈아넣어서 관련 연구를 진행해야합니다.</WTH_TurretModule.description>
+  <WTH_TurretModule_GunTurrets.label>WTH: 총기 포탑 탑재</WTH_TurretModule_GunTurrets.label>
+  <WTH_TurretModule_GunTurrets.description>메카노이드의 포탑 모듈에 총기 포탑을 탑재하는 방법에 대해 알아봅니다.\n건설 후 포장할 수 있는 모든 총기 포탑들은 이 포탑 모듈에 탑재할 수 있습니다.\n이 모듈은 대형 메카노이드에만 탑재할 수 있습니다.</WTH_TurretModule_GunTurrets.description>
+  <WTH_TurretModule_Mortars.label>WTH: 박격포 탑재</WTH_TurretModule_Mortars.label>
+  <WTH_TurretModule_Mortars.description>메카노이드의 포탑 모듈에 박격포를 탑재하는 방법에 대해 알아봅니다. 박격포는 여전히 정착민들에 의해 수동으로 작동되어야 하고, 메카노이드로부터 어떠한 전력도 끌어내지 않습니다.\n이 업그레이드는 기존 박격포(설치, 도난시 문제 또는 필요한 공간 감소)와 비교하면 몇 가지 이점이 있습니다.\n뭐 어찌됬든, 우리측 메카노이드에 박격포 몇 개를 탑재하면 우리의 적들도 아주 좋아 죽을 것입니다. 진짜로요!</WTH_TurretModule_Mortars.description>
+  <WTH_BatteryExpansionModule.label>WTH: 배터리 확장 모듈</WTH_BatteryExpansionModule.label>
+  <WTH_BatteryExpansionModule.description>약간의 기동성을 희생하는 대가로 메카노이드에 추가 배터리 용량을 제공하는 모듈에 대해 연구합니다.</WTH_BatteryExpansionModule.description>
+  <WTH_OverdriveModule.label>WTH: 오버드라이브 모듈</WTH_OverdriveModule.label>
+  <WTH_OverdriveModule.description>메카노이드를 오버클러킹하여, 일시적으로 전원 네트워크를 오버드라이브 시킬 수있는 업그레이드 모듈을 연구합니다.\n능력 활성화시 짧은 시간 동안 메카노이드의 이동 속도, 발사 속도 및 의식이 크게 향상됩니다.\n이 절차는 많은 전력을 소비하고, 이로인해 하드웨어 안전 한계를 초과하므로 예상치 못한 결과를 초래할 수 있습니다.</WTH_OverdriveModule.description>
+  <WTH_VanometricModule.label>WTH: 베노메트릭 모듈</WTH_VanometricModule.label>
+  <WTH_VanometricModule.description>약간의 기동성을 희생하는 대가로 메카노이드에 무한히 전력을 공급하는 베노메트릭 모듈에 대해 연구합니다.</WTH_VanometricModule.description>
+  <WTH_BeltModule.label>WTH: 벨트 모듈</WTH_BeltModule.label>
+  <WTH_BeltModule.description>메카노이드에 설치할 수 있는 벨트 모듈에 대해 연구합니다. 사람에 의해 일반적으로 착용되는 방어 벨트나 연막 벨트와 같은 기술적으로 진보된 벨트의 인터페이스로 기능하여,\n이 모듈이 설치된 메카노이드에 방어/연막 벨트를 장착할 수 있습니다.</WTH_BeltModule.description>
+  <WTH_HackingAdvanced.label>WTH: AI 보조통제장치</WTH_HackingAdvanced.label>
+  <WTH_HackingAdvanced.description>인공자아핵을 조정한 장치를 메카노이드에 삽입하는 방법에 대해 연구합니다.\n이로써 AI 보조통제장치가 삽입된 메카노이드는 모든 전투 상황에 대응하여 완벽히 제어될 수 있습니다.</WTH_HackingAdvanced.description>
+  <WTH_InduceEmergencySignal.label>WTH: 비상 신호 송출법</WTH_InduceEmergencySignal.label>
+  <WTH_InduceEmergencySignal.description>정착민들이 의도적으로 '무력화된' 메카노이드의 자기 방어 메커니즘을 일부 조작하여, "비상 신호 송출하기" 작업을 진행 하는 것이 가능해집니다.\n이 작업은 해당 메카노이드의 비상 신호를 인근의 메카노이드 군락에 송출하여, 메카노이드 습격을 유도합니다.\n...이 방법은 분명히 메카노이드를 끌어들일 수 있고, 치명적인 결과를 초래할 수 있습니다. 그러나 위험을 감수할 만큼 많은 메카노이드 기계 부품을 얻을 수 있을 겁니다.</WTH_InduceEmergencySignal.description>
+  <WTH_LRMSTuning.label>WTH: 원거리 광물 스캐너 조정</WTH_LRMSTuning.label>
+  <WTH_LRMSTuning.description>원거리 광물 스캐너가 고밀도의 메카노이드 부품을 스캔할 수 있도록, 스캐너를 조정하는 방법에 대해 연구합니다.\n물론 부품이 그냥 땅에 놓여 있지는 않을겁니다. 아마 그것들은 메카노이드에 붙어있을 가능성이 더 높습니다. 멀쩡히 움직이는 메카노이드들 말입니다.\n만약 우리가 군락 데이터를 찾고 있다면, 이 장소들은 수색하기에 좋은 장소입니다.</WTH_LRMSTuning.description>
+  <WTH_RogueAI.label>WTH: 로그 AI</WTH_RogueAI.label>
+  <WTH_RogueAI.description>메카노이드 기술에 기반을 둔, 잠재적으로 매우 강력한 AI를 만드는 법을 연구합니다.\n기본적으로 아직 의식이 발달하진 않았습니다. 의식을 가지게하려면, 행성 궤도상의 메카노이드 군락함선에서 찾을 수 있는 데이터에 접근할 필요가 있습니다.\n이 AI가 의식을 갖게될 경우. 더 많은 데이터를 갈망하게 되겠지만, 그와 더불어 매우 강력하고 위험한 사이버 무기가 될 수 있을 것입니다.\n또 의식이 없을지라도, 이 AI는 우리의 기존 메카노이드 정비고를 보다 조직적이고 유기적으로 조정하여, 기존에 비해 메카노이드들을 더 효과적으로 관리할 수 있을 것입니다.\n간단히 요약하자면, AI 인근에 위치한 메카노이드 정비고의 자원 효율과 수리 속도가 약간 증가될 것입니다.</WTH_RogueAI.description>
+  <WTH_HiveshipHackingFacility.label>WTH: 군락함선 해킹 시설</WTH_HiveshipHackingFacility.label>
+  <WTH_HiveshipHackingFacility.description>행성 궤도를 선회하는 메카노이드 군락함선을 해킹하기 위해 필요한 해킹 시설을 건설하는 방법에 대해 연구합니다.\n메카노이드 해킹 분야의 최첨단 기술이 집약된 이 시설은 로그 AI가 행성 궤도를 도는 메카노이드 군락함선에 악성 코드를 전송하여, 함선에 존재할 베일에 쌓인 첨단 지식을 얻기 위해 필요한 시설입니다. 로그 AI의 의식을 형성하기 위해서는 이 지식이 반드시 필요합니다.\n로그 AI가 동일한 지도에서 만들어진 후에만 활성화 될 수 있습니다.</WTH_HiveshipHackingFacility.description>
+  <WTH_ExtractBrainData.label>WTH: 인간 뇌 데이터 추출</WTH_ExtractBrainData.label>
+  <WTH_ExtractBrainData.description>살아있는 인간의 뇌에서 모든 데이터를 추출하여, 메카노이드 기술을 이용해 저장하는 끔찍한 수술법에 대해 연구합니다. 뇌의 주인이 지능이 높을수록 더 많은 데이터를 추출할 수 있습니다.\n이것은 로그 AI에 필요한 데이터를 얻는 빠른 방법이지만, 도덕적인 정착민들은 분명히 그것을 좋아하진 않을 겁니다.\n보다 인간 친화적인 대안은 원거리 광물 스캐너를 조정하여, 세계 지도에서 고밀도의 메카노이드 신호가 포착되는 장소를 찾는 것입니다.</WTH_ExtractBrainData.description>
+
+  <!--1512478761_190627_Expanded Roofing-->
+  <SolarRoofProduction.description>지붕형 태양광 패널과 변압 기능을 가진 태양광 발전 컨트롤러를 사용할 수 있습니다.</SolarRoofProduction.description>
+  <ThickStoneRoofProduction.description>드랍 포드를 방어할 수 있는 두꺼운 지붕을 설치할 수 있습니다.</ThickStoneRoofProduction.description>
+  <TransparentRoofProduction.description>실내 재배장에 설치할 수 있는 채광창입니다.</TransparentRoofProduction.description>
+  <ThickStoneRoofRemoval.description>두꺼운 지붕을 제거할 수 있습니다.</ThickStoneRoofRemoval.description>
+  <SolarRoofProduction.label>태양광 지붕</SolarRoofProduction.label>
+  <ThickStoneRoofRemoval.label>두꺼운 지붕 제거</ThickStoneRoofRemoval.label>
+  <ThickStoneRoofProduction.label>두꺼운 지붕 설치</ThickStoneRoofProduction.label>
+  <TransparentRoofProduction.label>채광창</TransparentRoofProduction.label>
+
+  <!--1517502911_190627_Advanced Cooling-->
+  <AdvCooler.label>고급 냉방기</AdvCooler.label>
+  <AdvCooler.description>열을 내뿜지 않는 진보된 냉방기를 건설할 수 있습니다.</AdvCooler.description>
+
+  <!--1518932357_181022_Giddy-up! Mechanoids-->
+  <GU_Mech_GiddyUpModule.label>기승 모듈</GU_Mech_GiddyUpModule.label>
+  <GU_Mech_GiddyUpModule.description>이 모듈은 탑재하면 메카노이드용의 안장과 조종용 인터페이스의 양쪽 모두로서 기능합니다. 메카노이드에 터렛이 탑재되어 있지 않은 경우에 탑승자가 전투시에 탈 수 있습니다.이것은 "Giddy-up!Battle Mechs"의 모드 설정으로 기승 가능한 메카노이드에만 탑재할 수 있습니다.</GU_Mech_GiddyUpModule.description>
+
+  <!--1522429439_190628_Slave Outfits-->
+  <NeolithicUniform.description>이 행성의 모든 사람들은 누더기를 이 옷으로 만드는 법을 알고 있습니다.</NeolithicUniform.description>
+  <VictorianUniform.description>인류 최초의 산업 혁명 시대로 거슬러 올라가 흥미로운 디자인을 이끌어 낸 광범위한 빅토리아 시대의 유니폼을 만들 수 있습니다.</VictorianUniform.description>
+  <IndustrialUniform.label>산업 유니폼</IndustrialUniform.label>
+  <MedievalUniform.label>중세 유니폼</MedievalUniform.label>
+  <NeolithicUniform.label>신석기 유니폼</NeolithicUniform.label>
+  <IndustrialUniform.description>당신의 정착민 중 한 명이 도시계 공장에서 흔히 사용되는 유니폼을 기억했고 손으로 그것을 만들었습니다. 공장 유니폼을 생산합니다.</IndustrialUniform.description>
+  <SpacerUniform.label>우주 유니폼</SpacerUniform.label>
+  <VictorianUniform.label>빅토리안 유니폼</VictorianUniform.label>
+  <SpacerUniform.description>우리 연구자는 일부 우주 비행사 회사가 그들만의 유니폼을 가지고 있다는 것을 알아챘고, 그래서 그 유니폼을 복제하기 위해 주문했습니다. 우주 노예복을 만들 수 있습니다.</SpacerUniform.description>
+  <MedievalUniform.description>우리 재단사는 누더기 옷 개선 작업을 계속 하고 있으며, 지구의 중세 시대 옷과 비슷한 옷을 만드는 데 성공했습니다. 중세 농민의 튜닉을 생산할 수 있습니다.</MedievalUniform.description>
+
+  <!--1522917562_190628_Vanilla-like wheat-->
+  <AdvancedGrainMilling.label>고급 곡물 가공</AdvancedGrainMilling.label>
+  <WheatFarming.description>밀 농사와 기초적인 가공을 가능하게 합니다.</WheatFarming.description>
+  <AdvancedGrainMilling.description>고급 제분기를 제작하여 효율성을 높일 수 있습니다.</AdvancedGrainMilling.description>
+  <WheatFarming.label>밀 농사</WheatFarming.label>
+
+  <!--1526049935_190814_Metro Armory-->
+  <Pneumatics.description>간단한 공기압축식 무기를 만들 수 있습니다.</Pneumatics.description>
+  <Pneumatics.label>공기압축식</Pneumatics.label>
+
+  <!--1529637152_190628_Cryptorestore Caskets-->
+  <Cryptorestore.description>다량의 루시페륨을 사용하여 정착민을 회춘시킬 수 있는 크립토 복원기를 만들 수 있게 됩니다.</Cryptorestore.description>
+  <Cryptorestore.label>크립토 복원기</Cryptorestore.label>
+
+  <!--1539311500_181027_Fertile Fields-->
+  <RFF_Farming.label>농업</RFF_Farming.label>
+  <RFF_Terraforming.label>지형 재구성</RFF_Terraforming.label>
+  <RFF_Terraforming.description>다양한 지형과 배수 방법에 대한 지식을 연구합니다. 모든 지형을 마음대로 주무를 수 있게 됩니다. 적지 않은 재료와 노동력이 필요하겠지만요.</RFF_Terraforming.description>
+  <RFF_Farming.description>이 연구는 보다 나은 농사 방법을 연구합니다. 비료로 토양의 질을 향상시킬 수 있으며, 불모지 위에도 흙을 깔아 작물 재배가 가능하도록 합니다.</RFF_Farming.description>
+
+  <!--1541243129_190628_Rimperion-->
+  <NegativeRecoil.label>네기티브 리코일</NegativeRecoil.label>
+  <NegativeRecoil.description>총 발사시 생성 되는 에너지를 이용하여 반동을 제어합니다.</NegativeRecoil.description>
+
+  <!--1541794953_190622_Glitterworld Medicine Craftable-->
+  <GlitterworldMedicineProduction.label>번화계 약품 제작</GlitterworldMedicineProduction.label>
+  <GlitterworldMedicineProduction.description>약품과 루시페륨으로 번화계 약품을 생산합니다. 어렵고, 시간이 많이 걸립니다.</GlitterworldMedicineProduction.description>
+
+  <!--1541795146_190622_Luciferium craftable-->
+  <LuciferiumProduction.label>루시페륨 생산</LuciferiumProduction.label>
+  <LuciferiumProduction.description>모든 면에서 신체의 기능을 극적으로 향상시키는 번화계 메카나이트가 포홤된 진보된 약인 루시페륨을 생산합니다. 매 5~6일마다 적정량을 투여하지 않으면 메카나이트의 결합에 문제가 생겨 결국 죽음을 초래하게 됩니다.</LuciferiumProduction.description>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu_Waterworks.description>파이프, 밸프, 수도꼭지, 탱키 및 몇몇 유형의 펌프를 만들 수 있습니다.</Mizu_Waterworks.description>
+  <Mizu_DeepUndergroundWater.description>깊은 층에 있는 지하수를 끌어올리기 위한 펌프를 만들 수 있습니다.</Mizu_DeepUndergroundWater.description>
+  <Mizu_WaterFacility.description>물을 사용하는 다양한 시설을 만들 수 있습니다.</Mizu_WaterFacility.description>
+  <Mizu_WaterFilter.description>상수도용 정수 필터를 만들 수 있습니다.</Mizu_WaterFilter.description>
+  <Mizu_CleanWater.description>정수기를 만들 수 있습니다.</Mizu_CleanWater.description>
+  <Mizu_CleanWater.label>깨끗한 물</Mizu_CleanWater.label>
+  <Mizu_DeepUndergroundWater.label>깊은 지하수</Mizu_DeepUndergroundWater.label>
+  <Mizu_UndergroundWater.description>얕은 층의 지하수를 길어오기 위한 원시적인 우물을 만들 수 있습니다.</Mizu_UndergroundWater.description>
+  <Mizu_UndergroundWater.label>지하수</Mizu_UndergroundWater.label>
+  <Mizu_WaterFacility.label>급수 시설</Mizu_WaterFacility.label>
+  <Mizu_WaterFilter.label>정수 필터</Mizu_WaterFilter.label>
+  <Mizu_Waterworks.label>상수도</Mizu_Waterworks.label>
+
+  <!--1542048177_190602_High Tech Laboratory Facilities (Continued)-->
+  <TranscendentTech.label>고급 외골격 시스템</TranscendentTech.label>
+  <TranscendentTech.description>전투원을 위한 첨단 기계화 외골격 개발을 위해 축척된 연구 지식과 기술을 접목합니다.</TranscendentTech.description>
+
+  <!--1542854752_181108_Weapon Tech-->
+  <Grenades.description>복잡한 수류탄을 기계 작업대에서 조립합니다.</Grenades.description>
+  <GrenadeLaunchers.description>단조/기계 작업대에서 훌륭한 금속 튜브를 제작하여 대형 폭발물을 발사합니다.</GrenadeLaunchers.description>
+  <GrenadeLaunchers.label>유탄발사기</GrenadeLaunchers.label>
+  <Grenades.label>수류탄</Grenades.label>
+  <Optics.description>소총에 달리는 광학장비를 생산하는 법을 배웁니다.</Optics.description>
+  <Optics.label>광학장비</Optics.label>
+
+  <!--1543060282_181101_Additional Joy Objects-->
+  <AJO_ArcadeConstruction.description>정착민들이 게임 카트리지를 복사하고 오락기를 조립할 수 있게 합니다.</AJO_ArcadeConstruction.description>
+  <AJO_TemperaPainting.description>스펙타고 색소와 계란을 섞어 더 효율적인 물감을 만들 수 있게 합니다.</AJO_TemperaPainting.description>
+  <AJO_ArcadeConstruction.label>오락기 건설</AJO_ArcadeConstruction.label>
+  <AJO_PerodyneProduction.description>행복감을 유발하는 진통제인 페로다인을 제조하는 법을 배웁니다.</AJO_PerodyneProduction.description>
+  <AJO_PerodyneProduction.label>페로다인 제조</AJO_PerodyneProduction.label>
+  <AJO_TemperaPainting.label>템페라 물감</AJO_TemperaPainting.label>
+
+  <!--1546657623_190628_Tiny Workbenchs-->
+  <TWB_TinyWorkBenchs.description>작은 잡업대를 허용합니다. 사이즈가 작아 작업대를 만드는데 자원이 적게들지만 약하고 제작속도가 느립니다</TWB_TinyWorkBenchs.description>
+  <TWB_TinyWorkBenchs.label>작은 작업대</TWB_TinyWorkBenchs.label>
+
+  <!--1547692203_190621_Fences And Floors-->
+  <FutureFlooring.description>센서, 컴포넌트, 네트워킹 통합 개념의 "스마트"한 바닥재를 연구합니다.</FutureFlooring.description>
+  <FutureFlooring.label>스마트 바닥재</FutureFlooring.label>
+
+  <!--1547881310_190814_Rimfall The Frontier-->
+  <TFAdvancedArms.label>진보된 화기</TFAdvancedArms.label>
+  <TFAntiTitan.description>장갑형 표적을 위해 설계된 휴대용 대전차 무기를 만들 수 있게 합니다.</TFAntiTitan.description>
+  <TFAdvancedArms.description>더 정교한 소형화기를 만들 수 있게 합니다.</TFAdvancedArms.description>
+  <TFAntiMateriel.description>크라베르 대물저격소총을 만들 수 있게 합니다. 살아있는 표적에 사용하는 것은 비윤리적이라고 하는 사람들도 있을 것입니다.</TFAntiMateriel.description>
+  <TFAntiTitan.label>대전차 무기</TFAntiTitan.label>
+  <TFAntiMateriel.label>대물저격소총 제작</TFAntiMateriel.label>
+  <TFRefinedArms.description>철저한 품질 관리를 통해 몇몇 화기의 개량형을 만듭니다.</TFRefinedArms.description>
+  <TFRefinedArms.label>화기 개량</TFRefinedArms.label>
+  <MilitiaGruntKit.label>프론티어 저항군 보병 키트</MilitiaGruntKit.label>
+  <MilitiaGruntKit.description>프론티어 저항군이 착용하는 장비를 만들 수 있습니다.</MilitiaGruntKit.description>
+  <TFPChargeRifle.label>정밀 충전식 소총 설계</TFPChargeRifle.label>
+  <TFPChargeRifle.description>최첨단 대전차 무기인 정밀 충전식 소총을 설계합니다. '전자기 탄환' 기술에서 추가 연구가 필요합니다.</TFPChargeRifle.description>
+
+  <!--1549446374_190519_Musical Instruments-->
+  <ElectricInstruments.description>전기로 증폭 된 악기를 만듭니다.</ElectricInstruments.description>
+  <PrimitiveInstruments.description>조각가의 탁자에 기본적인 바람과 타악기를 만듭니다.</PrimitiveInstruments.description>
+  <StringedInstruments.description>조각가의 테이블에서 튜닝 된 현악기를 만듭니다.</StringedInstruments.description>
+  <ElectricInstruments.label>전자 악기</ElectricInstruments.label>
+  <PrimitiveInstruments.label>원시 악기</PrimitiveInstruments.label>
+  <StringedInstruments.label>현악기</StringedInstruments.label>
+
+  <!--1551135830_190814_RedistHeat-->
+  <RH_TemperatureControlCooling.description>산업용 냉방기를 건설할 수 있습니다.</RH_TemperatureControlCooling.description>
+  <RH_TemperatureControlHeating.description>산업용 난방기를 건설할 수 있습니다.</RH_TemperatureControlHeating.description>
+  <RH_TemperatureControlCooling.label>산업 냉방</RH_TemperatureControlCooling.label>
+  <RH_TemperatureControlHeating.label>산업 난방</RH_TemperatureControlHeating.label>
+
+  <!--1557222016_190519_RWBY Weapons-->
+  <DustWeapons.label>더스트 웨폰</DustWeapons.label>
+  <DustWeapons.description>그냥 무기냐고? 이건 우리의 연장선이야! 우리의 일부야! 아, 정말 멋져. - 루비 로즈</DustWeapons.description>
+
+  <!--1559034352_181116_Diseases overhauled-->
+  <TranquAnalgetProduction.label>진통제 및 진정제 조제</TranquAnalgetProduction.label>
+  <MethylanphenamidProduction.description>인식능력과 학습 능력을 올려주는 약물 인 메틸랜페나미드를 생산하는 방법을 연구합니다.</MethylanphenamidProduction.description>
+  <TranquAnalgetProduction.description>스트레스를 줄이는 약물과 진통제를 만드는 방법을 연구합니다.</TranquAnalgetProduction.description>
+  <TritoxylonProduction.description>면연력을 증가시켜주는 트리톡실리온을 만드는 방법을 연구합니다.</TritoxylonProduction.description>
+  <MethylanphenamidProduction.label>메틸랜페나미드 조제</MethylanphenamidProduction.label>
+  <TritoxylonProduction.label>트리톡실리온 조제</TritoxylonProduction.label>
+
+  <!--1569056149_190519_Plasteel Surgery-->
+  <PS_Research_Laryngoplasty.description>후두 재건 수술은 사람의 목소리를 바꾸거나 회복시킬 수 있습니다. 거슬리는 목소리, 거친 숨소리, 또는 망상된 후두부위증으로 고생하는 사람들에게 매우 유용합니다.</PS_Research_Laryngoplasty.description>
+  <PS_AdvancedFacialResearch.label>고급 성형</PS_AdvancedFacialResearch.label>
+  <PS_Research_ImmuneBoost.description>인슐린에 대한 한 통의 플라스틸병을 혼동하는 불상사가 있은 후, 연구원들은 혈류에 있는 동안에도 플라스틸의 자기 살균 특성이 효력을 발휘한다는 것을 발견했습니다. 이것은 면역 증강 절차의 발달로 이어집니다. 병약한 사람들에게 필수적입니다.</PS_Research_ImmuneBoost.description>
+  <PS_BasicResearch.label>초급 성형</PS_BasicResearch.label>
+  <PS_BodyModResearch.label>신체 개조</PS_BodyModResearch.label>
+  <PS_Research_ImmuneBoost.label>면역력 강화</PS_Research_ImmuneBoost.label>
+  <PS_IntermediateResearch.label>중급 성형</PS_IntermediateResearch.label>
+  <PS_Research_Laryngoplasty.label>음성 수술</PS_Research_Laryngoplasty.label>
+  <PS_SexModResearch.description>생물학적 성별의 변화에 대한 연구입니다. 성전환 수술을 할 수 있습니다. 이 수술은 순전히 내부적인 수술이며 외관에는 영향을 미치지 않습니다..</PS_SexModResearch.description>
+  <PS_BodyModResearch.description>무게와 체격의 변화에 대한 연구입니다. 환자의 신체 유형을 변경할 수 있습니다.</PS_BodyModResearch.description>
+  <PS_IntermediateResearch.description>중간 단게의 성형기술에 관한 연구. 이제 못생긴 얼굴을 좀더 잘 고쳐봅시다!</PS_IntermediateResearch.description>
+  <PS_AdvancedFacialResearch.description>발전된 성형기술에 관한 연구. 이제 못생긴 얼굴은 존재하지 않습니다!</PS_AdvancedFacialResearch.description>
+  <PS_BasicResearch.description>가장 기본적인 성형기술에 관한 연구. 이제 못생긴 얼굴을 고쳐봅시다!</PS_BasicResearch.description>
+  <PS_SexModResearch.label>성 전환 수술</PS_SexModResearch.label>
+
+  <!--1569879243_190606_More Mini-Turrets-->
+  <WDHighCaliberTurrets.description>대구경 기관총 포탑을 건설할 수 있게 됩니다.</WDHighCaliberTurrets.description>
+  <WDMachinegunTurrets.description>소구경 기관총 포탑을 건설할 수 있게 됩니다.</WDMachinegunTurrets.description>
+  <WDMinigunTurrets.description>미니건 포탑을 건설할 수 있게 됩니다.</WDMinigunTurrets.description>
+  <WDShotgunTurrets.description>산탄총 포탑을 건설할 수 있게 됩니다.</WDShotgunTurrets.description>
+  <WDHighCaliberTurrets.label>대구경 기관총 포탑</WDHighCaliberTurrets.label>
+  <WDMachinegunTurrets.label>소구경 기관총 포탑</WDMachinegunTurrets.label>
+  <WDMinigunTurrets.label>미니건 포탑</WDMinigunTurrets.label>
+  <WDShotgunTurrets.label>산탄총 포탑</WDShotgunTurrets.label>
+
+  <!--1573465547_190519_[WD] Simple Concrete 1.0-->
+  <WDReinforcedConcrete.description>전기 제련소에서 콘크리트 벽돌을 만들 수 있습니다.</WDReinforcedConcrete.description>
+  <WDReinforcedConcrete.label>콘크리트 연구</WDReinforcedConcrete.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <ReligionStuff.description>신전을 위한 제단과 낭독대를 만듭니다.</ReligionStuff.description>
+  <ReligionStuff.label>신전 가구</ReligionStuff.label>
+  <ReligionRelics.description>종교 유물을 제작합니다.</ReligionRelics.description>
+  <ReligionRelics.label>유물 제작</ReligionRelics.label>
+
+  <!--1662902728_190526_Geyser_Cooking_station-->
+  <GeyserCookingtwo.label>고급 간헐천 요리</GeyserCookingtwo.label>
+  <GeyserCookingone.label>간헐천 요리</GeyserCookingone.label>
+  <GeyserCookingtwo.description>강화 간헐천 요리대</GeyserCookingtwo.description>
+  <GeyserCookingone.description>저 간헐천은 매우 뜨거워 보이는군요. 요리에 사용할 수 있을지도 모릅니다.</GeyserCookingone.description>
+
+  <!--1688004964_190707_Defensive Machine Gun Turret Pack-->
+  <RecoilOperation.label>리코일 장치</RecoilOperation.label>
+  <RecoilOperation.description>M2 브라우닝과 같은 강력한 화력을 지닌 기관총을 제작합니다.</RecoilOperation.description>
+
+  <!--1715402900_190519_Replimat-->
+  <MolecularNutrientResequencing.description>가공되지 않은 영양분 원료를 보다 다양한 고급 식사로 전환할 수 있는, 영양죽 배급기의 진보된 형태인 '레플리맷' 식품 복제 시스템을 연구합니다.\n이 시스템은 기존의 전력망을 따라 영양분 공급 및 원료 수송을할 수 있는 시스템 고유의 배관을 자동으로 배치합니다.</MolecularNutrientResequencing.description>
+  <MolecularNutrientResequencing.label>분자 영양소 재배열</MolecularNutrientResequencing.label>
+
+  <!--1723521547_190606_Mechanoid Power-->
+  <MPC_MechanoidPowerSource.label>메카노이드 동력원</MPC_MechanoidPowerSource.label>
+  <MPC_MechanoidPowerSource.description>메카노이드들은 수백 년 동안 스스로 동력을 공급할 수 있었습니다. 그것들을 연구해 그들의 동력원을 사용하는 방법을 밝혀낼 것입니다.</MPC_MechanoidPowerSource.description>
+
+  <!--1741117080_190526_Grenades Expanded-->
+  <Alchemy.label>연금술</Alchemy.label>
+  <Alchemy.description>인근 숲의 드루이드 집회에 가입할 수 있는 권리를 부여합니다.</Alchemy.description>
+  <Explosives_TNT.description>니트로글리세린같은 폭발물을 만들기 위한 화학 결합을 연구합니다.</Explosives_TNT.description>
+  <Explosives_TNT.label>TNT</Explosives_TNT.label>
+
+  <!--1756856110_190607_Real Fog of War Extended-->
+  <SurveillanceCameraAdv.label>첨단 카메라</SurveillanceCameraAdv.label>
+  <SurveillanceCameraAdv.description>첨단 감시 카메라를 제작할 수 있습니다.</SurveillanceCameraAdv.description>
+  <SurveillanceCameraArmored.description>장갑 감시 카메라를 제작할 수 있습니다.</SurveillanceCameraArmored.description>
+  <SurveillanceCameraArmored.label>장갑 카메라</SurveillanceCameraArmored.label>
+
+  <!--1761704409_190606_JetPack-->
+  <PowArmJetPack.description>강화갑옷을 위한 제트팩 장비를 만듭니다</PowArmJetPack.description>
+  <PowArmJetPack.label>강화갑옷 제트팩</PowArmJetPack.label>
+
+  <!--1772606627_190714_Fantastic Flora-->
+  <FantasticFlora.label>판타스틱 식물계</FantasticFlora.label>
+  <FantasticFlora.description>판타스틱 식물계 식물을 심을 수 있게 됩니다.</FantasticFlora.description>
+  <FantasticFloraII.label>판타스틱 식물계 II</FantasticFloraII.label>
+  <FantasticFloraII.description>판타스틱 식물계 나무를 심을 수 있게 됩니다.</FantasticFloraII.description>
+  <AlienAgriculture.label>외계종 농업</AlienAgriculture.label>
+  <AlienAgriculture.description>변방계 식물의 유전학을 연구해 새로운 유향의 식용 작물을 배양합니다. \n\n변방계 식물의 씨를 뿌리고 키울 수 있게 됩니다. \n\n브리크 열매 나무와 버셧나무 등을 키울 수 있게 됩니다.</AlienAgriculture.description>
+
+  <!--715565262_181031_Colony Manager-->
+  <AdvancedManagingSoftware.label>상급 관리 소프트웨어</AdvancedManagingSoftware.label>
+  <ManagingSoftware.label>기초 관리 소프트웨어</ManagingSoftware.label>
+  <PowerManagement.description>정착지의 전력 사용량을 확인하는 관리 소프트웨어를 개발합니다.</PowerManagement.description>
+  <AdvancedManagingSoftware.description>정착지 관리를 위한 상급 관리 소프트웨어를 개발합니다. 인공지능의 진보와 정착지를 잘 아는 컴퓨터는 정착지를 잘 아는 슈퍼 컴퓨터를 만들어 냈으며, 이 슈퍼 컴퓨터에는 플러피(솜털같은)OS가 미리 탑재되어 있습니다. 몇몇 정착민들이 문 개폐, 에어컨 시스템의 고장, 전기 제련소가 갑자기 켜지는 것을 보고했음에도 불구하고, 제작자는 플러피(솜털같은)OS가 정착민을 죽이도록 프로그래밍되지 않았다고 보증합니다.</AdvancedManagingSoftware.description>
+  <ManagingSoftware.description>정착지 관리를 위한 기초 관리 소프트웨어를 개발합니다. 버그가 없다는 것이 보증된 관리 소프트웨어가 미리 탑재된 컴퓨터가 있는 관리자 책상을 만들 수 있게 됩니다.</ManagingSoftware.description>
+  <PowerManagement.label>전력 관리</PowerManagement.label>
+
+  <!--719702781_190814_Misc. Incidents-->
+  <ResearchSatelliteComputerTerminal.description>전술 컴퓨터에 연결해 추가 기능을 제공할 수 있는 위성 컴퓨터 단말기를 제작할 수 있습니다.\n물론 이것도 게임기로도 사용할 수 있습니다.</ResearchSatelliteComputerTerminal.description>
+  <ResearchTacticalComputer.description>다양한 정보를 제공하는 전술 컴퓨터를 제작할 수 있으며, 주변지역을 자동으로 스캔하여 조사할 수 있는 흥미로운 장소를 검색할 수도 있습니다.\n아니면 그냥 게임기로도 사용할 수 있습니다.</ResearchTacticalComputer.description>
+  <ResearchSatelliteComputerTerminal.label>컴퓨터 터미널</ResearchSatelliteComputerTerminal.label>
+  <ResearchTacticalComputerImprovedSensors.label>개선된 컴퓨터 센서</ResearchTacticalComputerImprovedSensors.label>
+  <ResearchTacticalComputerImprovedSensors.description>전술 컴퓨터의 센서를 향상시킵니다.\n더 많은 정보를 얻을 수 있습니다.</ResearchTacticalComputerImprovedSensors.description>
+  <ResearchTacticalComputer.label>전술 컴퓨터</ResearchTacticalComputer.label>
+
+  <!--722086956_190622_ED-Laser Drill-->
+  <Research_LaserSteamGeyser_Drill.label>레이저 증기 간헐천 드릴</Research_LaserSteamGeyser_Drill.label>
+  <Research_LaserSteamGeyser_Filler.label>레이저 증기 간헐천 필러</Research_LaserSteamGeyser_Filler.label>
+  <Research_LaserSteamGeyser_Drill.description>레이저를 사용하여 행성 깊은 곳의 있는 증기와 마그마 망을 뚫습니다.</Research_LaserSteamGeyser_Drill.description>
+  <Research_LaserSteamGeyser_Filler.description>레이저로 석재를 녹여 증기 간헐천 구멍을 채우고 표면을 만듭니다.</Research_LaserSteamGeyser_Filler.description>
+
+  <!--724600171_190621_Misc. MAI-->
+  <AIPawnBaseResearch.label>모바일 AI</AIPawnBaseResearch.label>
+  <AIPawnBaseResearch.description>모바일 인공 지능을 구축하는 데 필요한 기본 사항을 연구합니다. 이 유닛은 당신과 당신의 정착지를 지원할 수 있습니다.</AIPawnBaseResearch.description>
+  <AIPawnAdvResearchConstruction.label>AI : 건설</AIPawnAdvResearchConstruction.label>
+  <AIPawnAdvResearchConstruction.description>인공 지능으로 건물을 짓는 방법을 연구합니다.</AIPawnAdvResearchConstruction.description>
+  <AIPawnAdvResearchCooking.label>AI: 요리</AIPawnAdvResearchCooking.label>
+  <AIPawnAdvResearchCooking.description>인공 지능이 요리 할 수있는 방법을 연구합니다.</AIPawnAdvResearchCooking.description>
+  <AIPawnAdvResearchIntellectual.label>AI: 연구</AIPawnAdvResearchIntellectual.label>
+  <AIPawnAdvResearchIntellectual.description>인공 지능의 연구능력을 개발합니다.</AIPawnAdvResearchIntellectual.description>
+  <AIPawnAdvResearchCaring.label>AI: 의학</AIPawnAdvResearchCaring.label>
+  <AIPawnAdvResearchCaring.description>인공 지능이 정착민을 간호하는 방법을 연구합니다.</AIPawnAdvResearchCaring.description>
+  <AIPawnAdvResearchCombat.label>AI: 전투전술</AIPawnAdvResearchCombat.label>
+  <AIPawnAdvResearchCombat.description>인공 지능이 전투 전술을 사용하는 방법을 연구합니다.</AIPawnAdvResearchCombat.description>
+  <AIPawnAdvResearchSocial.label>AI: 사교</AIPawnAdvResearchSocial.label>
+  <AIPawnAdvResearchSocial.description>인공 지능을 인간과 사회적으로 연결하는 방법을 연구합니다.</AIPawnAdvResearchSocial.description>
+  <AIPawnAdvResearchAnimals.label>AI: 조련</AIPawnAdvResearchAnimals.label>
+  <AIPawnAdvResearchAnimals.description>인공 지능이 동물을 다룰수 있게 연구합니다.</AIPawnAdvResearchAnimals.description>
+  <AIPawnAdvResearchMining.label>AI: 채광</AIPawnAdvResearchMining.label>
+  <AIPawnAdvResearchMining.description>인공 지능이 채광을 하는 방법을 연구합니다.</AIPawnAdvResearchMining.description>
+  <AIPawnAdvResearchCrafting.label>AI: 제작</AIPawnAdvResearchCrafting.label>
+  <AIPawnAdvResearchCrafting.description>인공 지능이 공학적으로 제작을 할 수 있도록 연구합니다.</AIPawnAdvResearchCrafting.description>
+
+  <!--725576127_190626_Glitter Tech-->
+  <MetalFab.label>금속 조립</MetalFab.label>
+  <MetalFab.description>티타늄과 같은 새로운 금속들로 벽을 만들 수 있습니다.</MetalFab.description>
+  <AdvancedArmor.label>고성능 기갑</AdvancedArmor.label>
+  <AdvancedArmor.description>구조물에 매우 강력한 방어 기갑을 구축하는 방법을 연구합니다. 또한 방폭문을 건설할 수 있습니다.</AdvancedArmor.description>
+  <TWindows.label>티타늄 창문</TWindows.label>
+  <TWindows.description>티타늄 벽에 창문을 만들어, 초광속 비행 도중 우주선의 선체강도를 약화시키지 않고, 화사하게 만들어 줍니다.</TWindows.description>
+  <TLights.label>티타늄 벽면 조명</TLights.label>
+  <TLights.description>티타늄 벽에 조명을 추가 할 수 있습니다.</TLights.description>
+  <EMRGDefense.label>전자기 분해</EMRGDefense.label>
+  <EMRGDefense.description>EMRG-1 소총으로 무장한 포탑을 건설할 수 있습니다.</EMRGDefense.description>
+  <DynElect.label>동적 전자기학</DynElect.label>
+  <DynElect.description>전자기 부품을 이용하여 고급 건축물을 만들 수 있습니다. 또한 번화계에서 볼 수 있는 고급 발전기와 첨단 기술을 사용할 수 있게 됩니다.</DynElect.description>
+  <ElectroPlasmatics.label>전자플라즈마학</ElectroPlasmatics.label>
+  <ElectroPlasmatics.description>자기장을 이용하여 플라즈마를 다룰 수 있게 됩니다. 막대한 플라즈마의 힘을 이용하는 초고도 기술을 사용할 수 있게 됩니다.</ElectroPlasmatics.description>
+  <AdvancedFact.label>고급 공정</AdvancedFact.label>
+  <AdvancedFact.description>고급 조립 공정의 기본을 이해하는 첫 번째 단계는 정착민들이 최신 조립 기계에 접근을 허용하는 것입니다.</AdvancedFact.description>
+  <RoboticEngineering.label>자동화 공정</RoboticEngineering.label>
+  <RoboticEngineering.description>복잡한 정밀 조립기계와 번화계에서 사용하는 기계를 만드는데 필요한 정교한 로봇 공학 기술을 사용할 수 있게 됩니다.</RoboticEngineering.description>
+  <Electrolysis.label>전기 분해</Electrolysis.label>
+  <Electrolysis.description>전기 분해를 공학적으로 활용할 수 있게 합니다. 화합물을 기본 단위로 분해할 수 있습니다.</Electrolysis.description>
+  <AtomicD.label>원자 분해</AtomicD.label>
+  <AtomicD.description>원자 단위 공정의 첫번째 열쇠입니다. 원자 크기에서 물질을 제조하거나, 물질을 소립자 단위로 분해하는 공정을 다룰 수 있게 됩니다.</AtomicD.description>
+  <AtomicA.label>원자 조립</AtomicA.label>
+  <AtomicA.description>원자 단위 공정의 마지막 열쇠입니다. 소립자 크기에서 물질을 제조하는 방법에 대한 완전한 이해를 제공합니다. 대부분의 공정은 여전히 전력 요구 측면에서 활용 불가능 하지만, 몇가지 공정은 활용가능 합니다.</AtomicA.description>
+  <Pharmaceuticals.label>고급 제약</Pharmaceuticals.label>
+  <Pharmaceuticals.description>약재보다 효과적이지 않은 생약을 대신할 수 있는 고급 의약품을 제작, 혼합 및 생산합니다.</Pharmaceuticals.description>
+
+  <!--725747149_190622_Tilled Soil-->
+  <terrainRehab.description>부드러운 돌 또는 다른 지형에 흙을 쌓아 지하 온실을 만들 수 있습니다.</terrainRehab.description>
+  <terrainRehab.label>지형 재활용</terrainRehab.label>
+
+  <!--726121441_190621_Furnance-->
+  <Furnace.description>밀폐된 공간을 고온으로 빠르게 가열하는 용광로를 건설할 수 있습니다.</Furnace.description>
+  <Furnace.label>용광로</Furnace.label>
+
+  <!--726244033_181028_Fluffy Breakdowns-->
+  <FluffyBreakdowns_ComponentLifetimeTwo.description>자가수리 기능의 나노로봇이 주입된 복합 재료를 사용하면 부품 수명을 더욱 늘릴 수 있습니다.</FluffyBreakdowns_ComponentLifetimeTwo.description>
+  <FluffyBreakdowns_ComponentLifetimeOne.description>부품에 열처리된 강철을 사용하면 내구성을 크게 늘릴 수 있습니다.</FluffyBreakdowns_ComponentLifetimeOne.description>
+  <FluffyBreakdowns_ComponentLifetimeOne.label>경화 부품</FluffyBreakdowns_ComponentLifetimeOne.label>
+  <FluffyBreakdowns_ComponentLifetimeTwo.label>나노로봇 주입 부품</FluffyBreakdowns_ComponentLifetimeTwo.label>
+
+  <!--726884610_190818_ED-ShieldsBasic-->
+  <Building_ShieldFortress_research.description>1차 코일 시스템을 수직 구성으로 집중시킴으로써, 보호막 범위를 확장시킬 수 있습니다. 또한 화재 진압모드의 유연성을 포기하고 넓은 지역을 커버해 드롭포드와 로켓의 종단속도에 영향을 줘서 포격이 실패하도록 합니다. 항공시스템을 교란시킬 수 있는 능력을 확보합니다.</Building_ShieldFortress_research.description>
+  <Building_ShieldFortress_research.label>포트리스 보호막</Building_ShieldFortress_research.label>
+  <Building_ShieldStandard_research.description>자기장 보호막 필드는 모든 발사체를 느리게 하고, 증발점까지 가열합니다.\n\n기본 원리는 와류 제동이지만, 복잡한 계산 시스템을 통해 외부로 발사하는 물체는 보호막을 무시할 수 있습니다.</Building_ShieldStandard_research.description>
+  <Building_ShieldSmall_research.description>일부 보호막 발생기는 정착민들만 보호할 목적으로 작은 부품들로 교체되어 보호막 필드의 크기를 줄였습니다.</Building_ShieldSmall_research.description>
+  <Building_ShieldSIF_research.description>이 생성기는 큰 원형 보호막을 만들지 않고, 각각의 벽과 문 객체 위에 작은 개별적인 보호막을 만듭니다.</Building_ShieldSIF_research.description>
+  <Building_ShieldSIF_research.label>SIF 보호막 생성기</Building_ShieldSIF_research.label>
+  <Building_ShieldSmall_research.label>작은 보호막</Building_ShieldSmall_research.label>
+  <Building_ShieldStandard_research.label>표준 보호막 생성기</Building_ShieldStandard_research.label>
+
+  <!--728314182_190621_RT Fuse-->
+  <ResearchProject_RTCircuitBreakers.description>회로 차단기를 제작 할 수 있게 됩니다. 배터리와 연결된 전력망 어디에든 설치할 수 있습니다. 각각의 퓨즈는 최대 1800Wd의 전력을 소모함으로써 안전하게 방전시킬 수 있으며 방전 시마다 수동으로 재설정해야 합니다.</ResearchProject_RTCircuitBreakers.description>
+  <ResearchProject_RTBasicFuses.description>임시로 쓸 퓨즈를 제작할 수 있게 됩니다. 배터리와 연결된 전력망 어디에든 설치할 수 있습니다. 각각의 퓨즈는 최대 1800Wd의 전력을 소모함으로써 안전하게 방전시킬 수 있습니다. 하지만 방전 시마다 부품 1개를 들여 수리해야 합니다.</ResearchProject_RTBasicFuses.description>
+  <ResearchProject_RTBasicFuses.label>기초 퓨즈</ResearchProject_RTBasicFuses.label>
+  <ResearchProject_RTCircuitBreakers.label>회로 차단기</ResearchProject_RTCircuitBreakers.label>
+
+  <!--732569232_190814_Medieval Times-->
+  <MedTimes_AdvancedMedievalSmithing.label>고급 대장장이 기술</MedTimes_AdvancedMedievalSmithing.label>
+  <MedTimes_MedievalCrafting.label>제작 기술</MedTimes_MedievalCrafting.label>
+  <MedTimes_MedievalDefenses.label>방어 체계</MedTimes_MedievalDefenses.label>
+  <MedTimes_MedievalFoodStorage.label>식품 저장 기술</MedTimes_MedievalFoodStorage.label>
+  <MedTimes_IceSculpting.label>얼음 조각</MedTimes_IceSculpting.label>
+  <MedTimes_ImprovedMedievalDefenses.label>향상된 방어 체계</MedTimes_ImprovedMedievalDefenses.label>
+  <MedTimes_MedievalTechnologies.label>중세 기술</MedTimes_MedievalTechnologies.label>
+  <MedTimes_MedievalTailoring.label>재봉 기술</MedTimes_MedievalTailoring.label>
+  <MedTimes_MedievalCrafting.description>중세 생활을 위한 도구와 아이템을 만들 수 있습니다. 그 장인의 작업대는 다양한 무역 상품들과 중세 생활과 방어에 필요한 물품들을 제작할 수 있게 해줍니다.</MedTimes_MedievalCrafting.description>
+  <MedTimes_IceSculpting.description>새로운 자원인 얼음으로 벽을 만들 수 있습니다. 정착민 중 한 명이 어느 날 일어나서 "만약 우리가 얼음을 파낸다면?"이라고 생각해냈습니다. 만약 기온이 영하인 얼어붙은 북쪽 땅에서 살고 있다면, 얼음으로 된 성을 만드는 것도 가능하고 심지어 다양한 얼음조각들로 장식할 수도 있지만, 만약 여러분이 빙점 이상의 온도에서 산다면 이것은 쓸모없는 짓일 겁니다.</MedTimes_IceSculpting.description>
+  <MedTimes_ImprovedMedievalDefenses.description>총안벽과 머더홀 그리고 투석기를 사용할 수 있습니다.</MedTimes_ImprovedMedievalDefenses.description>
+  <MedTimes_AdvancedMedievalSmithing.description>온도가 높을수록 장비의 품질도 높아집니다. 더 좋은 무기와 판금 갑옷과 아바레스트를 사용할 수 있으며, 특정한 무기들을 사용해 당신의 적을 박살낼 수 있을겁니다.</MedTimes_AdvancedMedievalSmithing.description>
+  <MedTimes_MedievalFoodStorage.description>식품 저장 기술을 배울 수 있습니다. 식품 준비 작업대에서 스튜를 대량으로 준비할 수 있게 해주며 치즈를 만들 수 있습니다. 심지어 얼음을 만들어 아이스박스에 넣음으로써 음식이 썪지 않도록 시원하게 유지할 수 있습니다.</MedTimes_MedievalFoodStorage.description>
+  <MedTimes_MedievalDefenses.description>정착지를 위해 중세풍의 방어시설 만드는 법을 배울 수 있습니다. 총안흉벽, 발리스타, 강철 마름쇠 등 여러도구를 효과적으로 사용할 경우 당신의 힘에 도전할 수 있는 사람은 거의 없을 것입니다.</MedTimes_MedievalDefenses.description>
+  <MedTimes_MedievalTechnologies.description>중세 시대와 관련된 기술의 길을 시작하십시오. 중세 시대의 삶의 길과 전쟁이 여기서 시작됩니다. 이 기술은 돌 난로에서 스튜 만들기 및 가정 난방의 기본을 제공합니다. 훈제장은 건조된 과일과 육포를 사용하여 겨울을 보낼 수 있게 해줄 것이며, 대장장이는 몇 가지 기본적인 무기와 갑옷을 제작할 수 있게 해줄 것입니다. 가로등과 화로를 통해 중세 시대에 맞는 광원을 만들 수 있습니다.</MedTimes_MedievalTechnologies.description>
+  <MedTimes_MedievalTailoring.description>재봉 작업대를 사용하여 중세 생활에 꼭 필요한 옷을 만들 수 있습니다. 낡은 옷을 재활용하는 데도 꽤 효과적입니다.</MedTimes_MedievalTailoring.description>
+
+  <!--735241897_190519_MendAndRecycle-->
+  <Mending.description>손상된 아이템을 수선하거나 수리합니다.</Mending.description>
+  <Mending.label>수선</Mending.label>
+
+  <!--746425621_181026_A dog said-->
+  <AnimalBionics.label>생체공학 동물</AnimalBionics.label>
+  <AnimalHeal.label>동물 치료</AnimalHeal.label>
+  <AnimalHeal.description>동물의 오래된 상처를 치료하는 방법을 연구합니다.</AnimalHeal.description>
+  <AnimalBionics.description>생체공학 동물 이식물을 제작하고 사용하는 법을 연구합니다.</AnimalBionics.description>
+  <SimpleAnimalProsthetics.description>간단한 동물 보철물을 제작하고 사용하는 법을 연구합니다.</SimpleAnimalProsthetics.description>
+  <SimpleAnimalProsthetics.label>간단한 동물 보철물</SimpleAnimalProsthetics.label>
+
+  <!--747397788_190814_More Batteries-->
+  <MidtierBattery.label>고급 축전지</MidtierBattery.label>
+  <VeryAdvancedBattery.label>초월공학 축전지</VeryAdvancedBattery.label>
+  <VeryAdvancedBattery.description>초월공학 기술로 만들어진 축전지,</VeryAdvancedBattery.description>
+  <SpecificComponents.description>정착민들이 특수 부품을 만들고 식별하는 방법을 연구합니다.</SpecificComponents.description>
+  <AdvancedBattery.label>번화계 축전지</AdvancedBattery.label>
+  <LowtierBattery.label>향상된 축전지</LowtierBattery.label>
+  <ArchotechPowerStorage.description>초월공학 기술로 초월공학 축전지를 건축하는데 사용하는 가장 강력한 축전지 셀을 만드는 방법에 대해 연구합니다.</ArchotechPowerStorage.description>
+  <SpecificComponents.label>특수 부품</SpecificComponents.label>
+  <LowtierBattery.description>이 축전지는 축전지보다 약간 더 효율적이며, 더 많은 전력을 저장할 수 있습니다.</LowtierBattery.description>
+  <MidtierBattery.description>이 축전지는 향상된 축전지보다 약간 더 효율적이며, 더 많은 전력을 저장할 수 있습니다.</MidtierBattery.description>
+  <AdvancedBattery.description>이 축전지는 고급 축전지보다 약간 더 효율적이며, 더 많은 전력을 저장할 수 있습니다.</AdvancedBattery.description>
+  <ArchotechPowerStorage.label>초월 전력 셀</ArchotechPowerStorage.label>
+
+  <!--747645520_190627_Misc. Robots++-->
+  <RPP_Research_Omni_V.label>반물질 논리회로\n옴닉로봇</RPP_Research_Omni_V.label>
+  <RPP_Research_Builder_All.label>건설로봇</RPP_Research_Builder_All.label>
+  <RPP_Research_Cleaner_All.label>청소로봇</RPP_Research_Cleaner_All.label>
+  <RPP_Research_Crafter_All.label>제작로봇</RPP_Research_Crafter_All.label>
+  <RPP_Research_ER_All.label>구조로봇</RPP_Research_ER_All.label>
+  <RPP_Research_Hauler_All.label>운반로봇</RPP_Research_Hauler_All.label>
+  <RPP_Research_Kitchen_All.label>조리로봇</RPP_Research_Kitchen_All.label>
+  <RPP_Research_Cleaner_All.description>청소로봇을 생산할 수 있습니다.\n운반 및 청소 로봇은 동일한 티어의 모든 다른 로봇보다 이동속도가 빠릅니다.</RPP_Research_Cleaner_All.description>
+  <RPP_Research_Builder_All.description>건설, 해체, 채굴 및 수리가 가능한 건설로봇을 생산할 수 있습니다.</RPP_Research_Builder_All.description>
+  <RPP_Research_Crafter_All.description>제작, 재단 및 재련이 가능한 제작로봇을 생산할 수 있습니다.</RPP_Research_Crafter_All.description>
+  <RPP_Research_ER_All.description>환자를 치료하고 소방이 가능한 구조로봇을 생산할 수 있습니다.</RPP_Research_ER_All.description>
+  <RPP_Research_Hauler_All.description>운반로봇을 생산할 수 있습니다.\n운반 및 청소 로봇은 동일한 티어의 모든 다른 로봇보다 이동속도가 빠릅니다.</RPP_Research_Hauler_All.description>
+  <RPP_Research_Kitchen_All.description>농사를 짓고 요리를 할수있는 조리로봇을 생산할 수 있습니다.</RPP_Research_Kitchen_All.description>
+  <RPP_Research_Omni_V.description>5티어:\n그 누구도 따라갈수 없는 작업속도로 거의 모든일을 해내는 옴닉로봇을 생산할 수 있습니다.</RPP_Research_Omni_V.description>
+  <RPP_Research_Matrix_IV.label>로봇 테크 :\n고급 논리회로</RPP_Research_Matrix_IV.label>
+  <RPP_Research_Matrix_V.label>로봇 테크 :\n반물질 논리회로\n(최종 테크)(NP=P)</RPP_Research_Matrix_V.label>
+  <RPP_Research_Matrix_II.label>로봇 테크 :\n기본 논리회로</RPP_Research_Matrix_II.label>
+  <RPP_Research_Fundamentals.label>로봇 테크 :\n기초</RPP_Research_Fundamentals.label>
+  <RPP_Research_Matrix_III.label>로봇 테크 :\n심화 논리회로</RPP_Research_Matrix_III.label>
+  <RPP_Research_Matrix_I.label>로봇 테크 :\n단순 논리회로</RPP_Research_Matrix_I.label>
+  <RPP_Research_Fundamentals.description>0티어 :\n로봇 공학 및 자동화에 대한 개념을 연구합니다.</RPP_Research_Fundamentals.description>
+  <RPP_Research_Matrix_I.description>1티어 : 아마추어급 로봇 생산에 필요한 심플 로봇 매트릭스를 제작할 수 있으며 기본 논리회로 연구(2티어)가 가능해집니다.</RPP_Research_Matrix_I.description>
+  <RPP_Research_Matrix_II.description>2티어 : 전문가급 로봇 생산에 필요한 베이직 로봇 매트릭스를 제작할 수 있으며 심화 논리회로 연구(3티어)가 가능해집니다. 이 테크 계열의 로봇은 이전보다 더 빠르며 가연성이 낮습니다.</RPP_Research_Matrix_II.description>
+  <RPP_Research_Matrix_III.description>3티어 : 마스터급 로봇 생산에 필요한 중급 로봇 매트릭스를 제작할 수 있으며 고급 논리회로 연구(4티어)가 가능해집니다. 이 테크 계열의 로봇은 이전보다 더 빠르며 가연성이 낮습니다.</RPP_Research_Matrix_III.description>
+  <RPP_Research_Matrix_IV.description>4티어 : 시스템 마스터급 로봇 생산에 필요한 고급 매트릭스를 제작할 수 있으며 반물질 논리회로 연구(5티어)가 가능해집니다. 이 테크 계열의 로봇은 이전보다 더 빠르며 가연성이 낮습니다.</RPP_Research_Matrix_IV.description>
+  <RPP_Research_Matrix_V.description>5티어 : 기존의 논리회로에 대한 개념을 확실히 박살내버리는 차원이 다른 기술입니다. 이 테크 계열의 로봇은 말로 설명할 필요가 없을거 같습니다. 직접 경험 해 보십시오!</RPP_Research_Matrix_V.description>
+
+  <!--758810805_190811_FishIndustry-->
+  <ResearchAquaculture.label>양식업</ResearchAquaculture.label>
+  <ResearchAquaculture.description>양식장은 맛있는 해산물을 생산하기에 완벽합니다. 양식업을 할 수 있는 수경법을 배웁니다.</ResearchAquaculture.description>
+
+  <!--763943290_190526_sd_goodnight-->
+  <sd_goodnight_research_medieval_beds.label>중세시대 침대</sd_goodnight_research_medieval_beds.label>
+  <sd_goodnight_research_medieval_beds.description>왕처럼 살진 못하더라도, 잘순 있죠.</sd_goodnight_research_medieval_beds.description>
+  <sd_goodnight_research_industrial_beds.label>산업시대 침대</sd_goodnight_research_industrial_beds.label>
+  <sd_goodnight_research_industrial_beds.description>취침에 새로운 의미를 더합니다. 정착민들이 뛰어다닐 시간을 늘려주죠</sd_goodnight_research_industrial_beds.description>
+  <sd_goodnight_research_spacer_beds.label>우주시대 침대</sd_goodnight_research_spacer_beds.label>
+  <sd_goodnight_research_spacer_beds.description>공식 단어인 "미래적인 침대 연구"의 이름 하에, 과학자들은 취침이 진정 무엇인지 발견하게 될 것입니다.</sd_goodnight_research_spacer_beds.description>
+
+  <!--769201959_190626_RIMKea-->
+  <MilleniumLineFurniture.label>밀레니엄 라인 가구</MilleniumLineFurniture.label>
+  <RustikaFurniture.description>수정되지 않은 달걀 날로 먹을 수도 있지만, 요리해서 먹는게 훨씬 낫습니다. 정착민들은 그 동물이 누웠을 때 이와같은 색깔이었다고 맹세합니다.</RustikaFurniture.description>
+  <MilleniumLineFurniture.description>정착민들 중 하나가 고대 전자잡지로 가득 찬 구식 데이터 스틱을 발견했습니다. 회수 가능한 데이터를 조사해본다면, 림케아 Magazine #4120호를 발견할 수 있을 것입니다. 이를 이용해서 새로운 "미래의"림케아 밀레니엄 라인, 지금 바로 건설하세요!</MilleniumLineFurniture.description>
+  <RustikaFurniture.label>루스티카 가구</RustikaFurniture.label>
+
+  <!--774577413_190707_Quantum Cooling-->
+  <QC_Research_QuantumCooler_I.label>양자 시제품</QC_Research_QuantumCooler_I.label>
+  <QC_Research_QuantumCooler_I.description>시제 양자 냉방기를 해금에 필요합니다. 정말로 실현될 수 있을까요?</QC_Research_QuantumCooler_I.description>
+  <QC_Research_QuantumCooler_II.label>양자 냉방기</QC_Research_QuantumCooler_II.label>
+  <QC_Research_QuantumCooler_II.description>양자 냉방기 해금에 필요합니다. 엔트로피의 교환 없는 감소법을 찾기 위해 양자역학을 연구합니다.</QC_Research_QuantumCooler_II.description>
+  <QC_Research_QuantumHeater_II.label>양자 난로</QC_Research_QuantumHeater_II.label>
+  <QC_Research_QuantumHeater_II.description>양자 난로 해금에 필요합니다. 보다 소형화된 발열원소를 찾기 위해 양자역학을 연구합니다.</QC_Research_QuantumHeater_II.description>
+
+  <!--777197241_190628_Industrial Age - Objects and Furniture-->
+  <Estate_TechEdisonLights.description>텅스텐 필라멘트로 전기등을 만들 수 있습니다.</Estate_TechEdisonLights.description>
+  <Estate_TechRefrigeratorBasic.description>전기를 이용해 음식을 냉장 보관할 수 있습니다.</Estate_TechRefrigeratorBasic.description>
+  <Estate_TechWoodStoveFurnace.description>방의 온도를 올릴수도 있고 조리도 가능한 목재를 연료로 사용하는 난로를 만들 수 있습니다.</Estate_TechWoodStoveFurnace.description>
+  <Estate_TechMusicMed.description>두 지점에서 연락을 주고 받을 수 있는 기본적인 라디오 시스템을 사용할 수 있습니다.</Estate_TechMusicMed.description>
+  <Estate_TechMusicLow.description>구시대의 음악 재생기인 축음기를 만들 수 있습니다.</Estate_TechMusicLow.description>
+  <Estate_TechCandleLights.description>조리 작업대로 만든 밀랍을 이용해 촛대나 천장등에 연료로 사용할 수 있습니다.</Estate_TechCandleLights.description>
+  <Estate_TechMusicMed.label>라디오</Estate_TechMusicMed.label>
+  <Estate_TechArcLamps.label>탄소 아크 조명</Estate_TechArcLamps.label>
+  <Industrial_Telegraph.description>전신 중계기의 비밀을 발견습니다. 다른 세력과 전신 중계기를 이용해 연락을 취할 수 있습니다.</Industrial_Telegraph.description>
+  <Estate_TechRefrigeratorBasic.label>냉장 보관</Estate_TechRefrigeratorBasic.label>
+  <Estate_TechGasLights.label>가스 조명</Estate_TechGasLights.label>
+  <Estate_TechGasLights.description>가스를 사용하여 간단한 조명 장치를 관리할 수 있습니다.</Estate_TechGasLights.description>
+  <Estate_TechMusicLow.label>음반 재생기</Estate_TechMusicLow.label>
+  <Industrial_Telegraph.label>전신 중계기</Industrial_Telegraph.label>
+  <Estate_TechEdisonLights.label>텅스텐 전등</Estate_TechEdisonLights.label>
+  <Estate_TechArcLamps.description>간단한 전압 발화장치를 사용해 전력을 사용하는 등을 만들 수 있습니다.</Estate_TechArcLamps.description>
+  <Estate_TechCandleLights.label>밀랍 연료 조명</Estate_TechCandleLights.label>
+  <Estate_TechWoodStoveFurnace.label>장작 난로</Estate_TechWoodStoveFurnace.label>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Forbidden_Reports.description>가장 최근의 의식 결과를 자세히 보여주는 창을 제단에 추가합니다.</Forbidden_Reports.description>
+  <Forbidden_Obelisks.description>오벨리스크를 건선할 수 있습니다.</Forbidden_Obelisks.description>
+  <Forbidden_Attire.description>다양한 가면과 두건, 의복을 제작할 수 있습니다. 적절한 의복을 착용하면 의식의 성공확률이 증가합니다.</Forbidden_Attire.description>
+  <Forbidden_Sculptures.description>외부의 존재에게 헌정하기 위한 신비로운 조각상을 디자인하고 창작할 수 있습니다.</Forbidden_Sculptures.description>
+  <Forbidden_Altar.description>제단을 만들어 이 세상너머의 존재들을 위한 의식을 할 수 있습니다.</Forbidden_Altar.description>
+  <Forbidden_Human.description>인신공양의 제단으로 증축하여 우주의 존재들로부터 이익을 얻을 수 있습니다.</Forbidden_Human.description>
+  <Forbidden_Sacrifice.description>차원의 존재에 대해 더 큰 감사를 표하기 위해 제단을 희생의 제단으로 증축합니다.</Forbidden_Sacrifice.description>
+  <Forbidden_Altar.label>제단</Forbidden_Altar.label>
+  <Forbidden_Sacrifice.label>희생의 제단</Forbidden_Sacrifice.label>
+  <Forbidden_Reports.label>연대기</Forbidden_Reports.label>
+  <Forbidden_Studies.label>이상한 기호 해독</Forbidden_Studies.label>
+  <Forbidden_Studies.description>더 많은 연구를 할 수 있도록 몇가지의 부호를 해독합니다.</Forbidden_Studies.description>
+  <Forbidden_Human.label>인신공양</Forbidden_Human.label>
+  <Forbidden_Obelisks.label>오벨리스크 건설</Forbidden_Obelisks.label>
+  <Forbidden_Deities.label>신적 조사</Forbidden_Deities.label>
+  <Forbidden_Deities.description>새로운 신들을 발견하기 위한 연구를 반복합니다.</Forbidden_Deities.description>
+  <Forbidden_Lore.description>연구를 하면서 사교기술과 숭배심을 향상시키기 위한 연구를 반복합니다.\n\n이 연구는 전도사가 될 폰에게 권장합니다.</Forbidden_Lore.description>
+  <Forbidden_Attire.label>의례복</Forbidden_Attire.label>
+  <Forbidden_Sculptures.label>조각상</Forbidden_Sculptures.label>
+  <Forbidden_Lore.label>성공적 숭배학습</Forbidden_Lore.label>
+
+  <!--823626435_190622_Super Soil-->
+  <supersoil.description>흙에 영양소를 추가하는 기초 균사체 네트워크를 통해 작물을 더 빠르게 재배합니다.</supersoil.description>
+  <hypersoil.description>식물의 목질부로 파고들어 영양소와 효소를 직접적으로 전달하는 대단히 진보된 균사체 네트워크를 이용해 작물을 비정상적으로 빠르게 재배합니다.</hypersoil.description>
+  <megasoil.description>작물을 비옥하게 하는 생물공학으로 조정된 균사체의 도움으로 작물을 매우 빠르게 재배합니다.</megasoil.description>
+  <hypersoil.label>과도한 토양</hypersoil.label>
+  <ultrasoil.description>쉽지도 않고 효율적이지도 않을테지만, 우리는 더 진보된 (정말로 매우매우 진보된) 균사제 개발에 발을 들였습니다. 슬프게도 여기에 필요한 재료들을 알게되면 사람들을 그다지 좋아하지 않겠지요.</ultrasoil.description>
+  <megasoil.label>특출난 토양</megasoil.label>
+  <supersoil.label>우수한 토양</supersoil.label>
+  <ultrasoil.label>극단적인 토양</ultrasoil.label>
+
+  <!--836245605_190607_Real Fog of War-->
+  <SurveillanceCamera.description>감시 카메라를 만들 수 있습니다.</SurveillanceCamera.description>
+  <SurveillanceCamera.label>감시 카메라</SurveillanceCamera.label>
+
+  <!--848309750_190626_MiningCo. Alert speaker-->
+  <ResearchAlertSpeaker.label>경보 스피커</ResearchAlertSpeaker.label>
+  <ResearchAlertSpeaker.description>정착지가 공격을 받을 때 정착민들에게 경고하고 아드레날린을 분비시키도록 하는 경보 스피커입니다.</ResearchAlertSpeaker.description>
+
+  <!--928368180_190628_[FSF] Lightweight Building Polymer-->
+  <FSFPolymerResearch.description>유동적으로 정착지를 구축하기 위해 제작된 정교한 경량 중합체를 연구합니다.</FSFPolymerResearch.description>
+  <FSFPolymerResearch.label>경량 중합체</FSFPolymerResearch.label>
+
+  <!--943925765_190628_Fast regen-->
+  <DevBed.label>동물용 악마가닥 침대</DevBed.label>
+  <CyberBed.description>강력한 인공지능 핵이 내장된 침대입니다. 치료 품질이 크게 향상되어 상처 치유 속도와 항체 생성 속도를 높여줍니다.</CyberBed.description>
+  <GlitBed.description>간단한 컴퓨터가 내장된 침대입니다. 약초보다 부상 치유 속도를 더 빠르게 증진시켜줍니다.</GlitBed.description>
+  <CyberBed.label>인공지능 침대</CyberBed.label>
+  <DevBed.description>루시페륨 메카나이트를 사용하는 고급 의료용 동물침대를 연구합니다. 이 침대는 동물의 휴식 효과와 회복 속도를 상당히 증가시킵니다.</DevBed.description>
+  <GlitBed.label>의료기계 침대</GlitBed.label>
+
+  <!--955561873_190628_MiningCo. Projector-->
+  <ResearchProjector.description>프로젝터 타워와 포탑을 건설하여, 야간 또는 어두운 동굴에서 주위의 적을 막으세요.</ResearchProjector.description>
+  <ResearchProjector.label>프로젝터</ResearchProjector.label>
+
+  <!--1185269798_190818_VGP Garden Fabrics-->
+  <VG_ClothI.label>합성원단</VG_ClothI.label>
+  <VG_ClothI.description>합성원단을 짜는 방법을 연구합니다.\n재단기에서 합성원단이 가능해집니다.</VG_ClothI.description>
+  <VG_ClothII.label>초경조직</VG_ClothII.label>
+  <VG_ClothII.description>초경조직을 짜는 방법을 연구합니다.\n재단기에서 초경조직이 가능해집니다.</VG_ClothII.description>
+
+</LanguageData>

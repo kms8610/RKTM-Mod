@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CPD_Drinks.label>쿠프로 음료</CPD_Drinks.label>
+  <CPD_Alcohol.label>쿠프로 알코올 음료</CPD_Alcohol.label>
+  <CPD_Sodas.label>쿠프로 탄산음료</CPD_Sodas.label>
+  <CPD_Energy.label>에너지 음료</CPD_Energy.label>
+  <CrateBase.label>알코올 상자</CrateBase.label>
+
+</LanguageData>

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_Gorilla.label>고릴라</AEXP_Gorilla.label>
+  <AEXP_Gorilla.labelPlural>고릴라들</AEXP_Gorilla.labelPlural>
+  <AEXP_Gorilla.lifeStages.0.label>고릴라</AEXP_Gorilla.lifeStages.0.label>
+  <AEXP_Gorilla.lifeStages.0.labelPlural>고릴라들</AEXP_Gorilla.lifeStages.0.labelPlural>
+  <AEXP_Gorilla.lifeStages.0.labelMale>수컷 고릴라</AEXP_Gorilla.lifeStages.0.labelMale>
+  <AEXP_Gorilla.lifeStages.0.labelMalePlural>수컷 고릴라들</AEXP_Gorilla.lifeStages.0.labelMalePlural>
+  <AEXP_Gorilla.lifeStages.0.labelFemale>암컷 고릴라</AEXP_Gorilla.lifeStages.0.labelFemale>
+  <AEXP_Gorilla.lifeStages.0.labelFemalePlural>암컷 고릴라들</AEXP_Gorilla.lifeStages.0.labelFemalePlural>
+  <AEXP_Gorilla.lifeStages.1.label>고릴라</AEXP_Gorilla.lifeStages.1.label>
+  <AEXP_Gorilla.lifeStages.1.labelPlural>고릴라들</AEXP_Gorilla.lifeStages.1.labelPlural>
+  <AEXP_Gorilla.lifeStages.1.labelMale>수컷 고릴라</AEXP_Gorilla.lifeStages.1.labelMale>
+  <AEXP_Gorilla.lifeStages.1.labelMalePlural>수컷 고릴라들</AEXP_Gorilla.lifeStages.1.labelMalePlural>
+  <AEXP_Gorilla.lifeStages.1.labelFemale>암컷 고릴라</AEXP_Gorilla.lifeStages.1.labelFemale>
+  <AEXP_Gorilla.lifeStages.1.labelFemalePlural>암컷 고릴라들</AEXP_Gorilla.lifeStages.1.labelFemalePlural>
+  <AEXP_Gorilla.lifeStages.2.label>고릴라</AEXP_Gorilla.lifeStages.2.label>
+  <AEXP_Gorilla.lifeStages.2.labelPlural>고릴라들</AEXP_Gorilla.lifeStages.2.labelPlural>
+  <AEXP_Gorilla.lifeStages.2.labelMale>수컷 고릴라</AEXP_Gorilla.lifeStages.2.labelMale>
+  <AEXP_Gorilla.lifeStages.2.labelMalePlural>수컷 고릴라들</AEXP_Gorilla.lifeStages.2.labelMalePlural>
+  <AEXP_Gorilla.lifeStages.2.labelFemale>암컷 고릴라</AEXP_Gorilla.lifeStages.2.labelFemale>
+  <AEXP_Gorilla.lifeStages.2.labelFemalePlural>암컷 고릴라들</AEXP_Gorilla.lifeStages.2.labelFemalePlural>
+  <AEXP_Gorilla.labelMale>수컷 고릴라</AEXP_Gorilla.labelMale>
+  <AEXP_Gorilla.labelMalePlural>수컷 고릴라들</AEXP_Gorilla.labelMalePlural>
+  <AEXP_Gorilla.labelFemale>암컷 고릴라</AEXP_Gorilla.labelFemale>
+  <AEXP_Gorilla.labelFemalePlural>암컷 고릴라들</AEXP_Gorilla.labelFemalePlural>
+  <AEXP_Jaguar.label>재규어</AEXP_Jaguar.label>
+  <AEXP_Lemur.label>여우원숭이</AEXP_Lemur.label>
+  <AEXP_Lemur.labelPlural>여우원숭이들</AEXP_Lemur.labelPlural>
+  <AEXP_Lemur.lifeStages.0.label>여우원숭이</AEXP_Lemur.lifeStages.0.label>
+  <AEXP_Lemur.lifeStages.0.labelPlural>여우원숭이</AEXP_Lemur.lifeStages.0.labelPlural>
+  <AEXP_Lemur.lifeStages.0.labelMale>수컷 여우원숭이</AEXP_Lemur.lifeStages.0.labelMale>
+  <AEXP_Lemur.lifeStages.0.labelMalePlural>수컷 여우원숭이들</AEXP_Lemur.lifeStages.0.labelMalePlural>
+  <AEXP_Lemur.lifeStages.0.labelFemale>암컷 여우원숭이</AEXP_Lemur.lifeStages.0.labelFemale>
+  <AEXP_Lemur.lifeStages.0.labelFemalePlural>암컷 여우원숭이들</AEXP_Lemur.lifeStages.0.labelFemalePlural>
+  <AEXP_Lemur.lifeStages.1.label>여우원숭이</AEXP_Lemur.lifeStages.1.label>
+  <AEXP_Lemur.lifeStages.1.labelPlural>여우원숭이</AEXP_Lemur.lifeStages.1.labelPlural>
+  <AEXP_Lemur.lifeStages.1.labelMale>수컷 여우원숭이</AEXP_Lemur.lifeStages.1.labelMale>
+  <AEXP_Lemur.lifeStages.1.labelMalePlural>수컷 여우원숭이들</AEXP_Lemur.lifeStages.1.labelMalePlural>
+  <AEXP_Lemur.lifeStages.1.labelFemale>암컷 여우원숭이</AEXP_Lemur.lifeStages.1.labelFemale>
+  <AEXP_Lemur.lifeStages.1.labelFemalePlural>암컷 여우원숭이들</AEXP_Lemur.lifeStages.1.labelFemalePlural>
+  <AEXP_Lemur.lifeStages.2.label>여우원숭이</AEXP_Lemur.lifeStages.2.label>
+  <AEXP_Lemur.lifeStages.2.labelPlural>여우원숭이</AEXP_Lemur.lifeStages.2.labelPlural>
+  <AEXP_Lemur.lifeStages.2.labelMale>수컷 여우원숭이</AEXP_Lemur.lifeStages.2.labelMale>
+  <AEXP_Lemur.lifeStages.2.labelMalePlural>수컷 여우원숭이들</AEXP_Lemur.lifeStages.2.labelMalePlural>
+  <AEXP_Lemur.lifeStages.2.labelFemale>암컷 여우원숭이</AEXP_Lemur.lifeStages.2.labelFemale>
+  <AEXP_Lemur.lifeStages.2.labelFemalePlural>암컷 여우원숭이들</AEXP_Lemur.lifeStages.2.labelFemalePlural>
+  <AEXP_Lemur.labelMale>수컷 여우원숭이</AEXP_Lemur.labelMale>
+  <AEXP_Lemur.labelMalePlural>수컷 여우원숭이들</AEXP_Lemur.labelMalePlural>
+  <AEXP_Lemur.labelFemale>암컷 여우원숭이</AEXP_Lemur.labelFemale>
+  <AEXP_Lemur.labelFemalePlural>암컷 여우원숭이들</AEXP_Lemur.labelFemalePlural>
+  <AEXP_Mandrill.label>개코원숭이</AEXP_Mandrill.label>
+  <AEXP_Mandrill.labelPlural>개코원숭이들</AEXP_Mandrill.labelPlural>
+  <AEXP_Mandrill.lifeStages.0.label>개코원숭이</AEXP_Mandrill.lifeStages.0.label>
+  <AEXP_Mandrill.lifeStages.0.labelPlural>개코원숭이</AEXP_Mandrill.lifeStages.0.labelPlural>
+  <AEXP_Mandrill.lifeStages.0.labelMale>수컷 개코원숭이</AEXP_Mandrill.lifeStages.0.labelMale>
+  <AEXP_Mandrill.lifeStages.0.labelMalePlural>수컷 개코원숭이들</AEXP_Mandrill.lifeStages.0.labelMalePlural>
+  <AEXP_Mandrill.lifeStages.0.labelFemale>암컷 개코원숭이</AEXP_Mandrill.lifeStages.0.labelFemale>
+  <AEXP_Mandrill.lifeStages.0.labelFemalePlural>암컷 개코원숭이들</AEXP_Mandrill.lifeStages.0.labelFemalePlural>
+  <AEXP_Mandrill.lifeStages.1.label>개코원숭이</AEXP_Mandrill.lifeStages.1.label>
+  <AEXP_Mandrill.lifeStages.1.labelPlural>개코원숭이</AEXP_Mandrill.lifeStages.1.labelPlural>
+  <AEXP_Mandrill.lifeStages.1.labelMale>수컷 개코원숭이</AEXP_Mandrill.lifeStages.1.labelMale>
+  <AEXP_Mandrill.lifeStages.1.labelMalePlural>수컷 개코원숭이들</AEXP_Mandrill.lifeStages.1.labelMalePlural>
+  <AEXP_Mandrill.lifeStages.1.labelFemale>암컷 개코원숭이</AEXP_Mandrill.lifeStages.1.labelFemale>
+  <AEXP_Mandrill.lifeStages.1.labelFemalePlural>암컷 개코원숭이들</AEXP_Mandrill.lifeStages.1.labelFemalePlural>
+  <AEXP_Mandrill.lifeStages.2.label>개코원숭이</AEXP_Mandrill.lifeStages.2.label>
+  <AEXP_Mandrill.lifeStages.2.labelPlural>개코원숭이</AEXP_Mandrill.lifeStages.2.labelPlural>
+  <AEXP_Mandrill.lifeStages.2.labelMale>수컷 개코원숭이</AEXP_Mandrill.lifeStages.2.labelMale>
+  <AEXP_Mandrill.lifeStages.2.labelMalePlural>수컷 개코원숭이들</AEXP_Mandrill.lifeStages.2.labelMalePlural>
+  <AEXP_Mandrill.lifeStages.2.labelFemale>암컷 개코원숭이</AEXP_Mandrill.lifeStages.2.labelFemale>
+  <AEXP_Mandrill.lifeStages.2.labelFemalePlural>암컷 개코원숭이들</AEXP_Mandrill.lifeStages.2.labelFemalePlural>
+  <AEXP_Mandrill.labelMale>수컷 개코원숭이</AEXP_Mandrill.labelMale>
+  <AEXP_Mandrill.labelMalePlural>수컷 개코원숭이들</AEXP_Mandrill.labelMalePlural>
+  <AEXP_Mandrill.labelFemale>암컷 개코원숭이</AEXP_Mandrill.labelFemale>
+  <AEXP_Mandrill.labelFemalePlural>암컷 개코원숭이들</AEXP_Mandrill.labelFemalePlural>
+  <AEXP_Tapir.label>맥</AEXP_Tapir.label>
+  <AEXP_Tapir.labelPlural>맥들</AEXP_Tapir.labelPlural>
+  <AEXP_Tapir.lifeStages.0.label>맥</AEXP_Tapir.lifeStages.0.label>
+  <AEXP_Tapir.lifeStages.0.labelPlural>맥</AEXP_Tapir.lifeStages.0.labelPlural>
+  <AEXP_Tapir.lifeStages.0.labelMale>수컷 맥</AEXP_Tapir.lifeStages.0.labelMale>
+  <AEXP_Tapir.lifeStages.0.labelMalePlural>수컷 맥들</AEXP_Tapir.lifeStages.0.labelMalePlural>
+  <AEXP_Tapir.lifeStages.0.labelFemale>암컷 맥</AEXP_Tapir.lifeStages.0.labelFemale>
+  <AEXP_Tapir.lifeStages.0.labelFemalePlural>암컷 맥들</AEXP_Tapir.lifeStages.0.labelFemalePlural>
+  <AEXP_Tapir.lifeStages.1.label>맥</AEXP_Tapir.lifeStages.1.label>
+  <AEXP_Tapir.lifeStages.1.labelPlural>맥</AEXP_Tapir.lifeStages.1.labelPlural>
+  <AEXP_Tapir.lifeStages.1.labelMale>수컷 맥</AEXP_Tapir.lifeStages.1.labelMale>
+  <AEXP_Tapir.lifeStages.1.labelMalePlural>수컷 맥들</AEXP_Tapir.lifeStages.1.labelMalePlural>
+  <AEXP_Tapir.lifeStages.1.labelFemale>암컷 맥</AEXP_Tapir.lifeStages.1.labelFemale>
+  <AEXP_Tapir.lifeStages.1.labelFemalePlural>암컷 맥들</AEXP_Tapir.lifeStages.1.labelFemalePlural>
+  <AEXP_Tapir.lifeStages.2.label>맥</AEXP_Tapir.lifeStages.2.label>
+  <AEXP_Tapir.lifeStages.2.labelPlural>맥</AEXP_Tapir.lifeStages.2.labelPlural>
+  <AEXP_Tapir.lifeStages.2.labelMale>수컷 맥</AEXP_Tapir.lifeStages.2.labelMale>
+  <AEXP_Tapir.lifeStages.2.labelMalePlural>수컷 맥들</AEXP_Tapir.lifeStages.2.labelMalePlural>
+  <AEXP_Tapir.lifeStages.2.labelFemale>암컷 맥</AEXP_Tapir.lifeStages.2.labelFemale>
+  <AEXP_Tapir.lifeStages.2.labelFemalePlural>암컷 맥들</AEXP_Tapir.lifeStages.2.labelFemalePlural>
+  <AEXP_Tapir.labelMale>수컷 맥</AEXP_Tapir.labelMale>
+  <AEXP_Tapir.labelMalePlural>수컷 맥들</AEXP_Tapir.labelMalePlural>
+  <AEXP_Tapir.labelFemale>암컷 맥</AEXP_Tapir.labelFemale>
+  <AEXP_Tapir.labelFemalePlural>암컷 맥들</AEXP_Tapir.labelFemalePlural>
+  <AEXP_Tiger.label>호랑이</AEXP_Tiger.label>
+  <AEXP_Tiger.labelPlural>호랑이들</AEXP_Tiger.labelPlural>
+  <AEXP_Tiger.lifeStages.0.label>호랑이</AEXP_Tiger.lifeStages.0.label>
+  <AEXP_Tiger.lifeStages.0.labelPlural>호랑이</AEXP_Tiger.lifeStages.0.labelPlural>
+  <AEXP_Tiger.lifeStages.0.labelMale>수컷 호랑이</AEXP_Tiger.lifeStages.0.labelMale>
+  <AEXP_Tiger.lifeStages.0.labelMalePlural>수컷 호랑이들</AEXP_Tiger.lifeStages.0.labelMalePlural>
+  <AEXP_Tiger.lifeStages.0.labelFemale>암컷 호랑이</AEXP_Tiger.lifeStages.0.labelFemale>
+  <AEXP_Tiger.lifeStages.0.labelFemalePlural>암컷 호랑이들</AEXP_Tiger.lifeStages.0.labelFemalePlural>
+  <AEXP_Tiger.lifeStages.1.label>호랑이</AEXP_Tiger.lifeStages.1.label>
+  <AEXP_Tiger.lifeStages.1.labelPlural>호랑이</AEXP_Tiger.lifeStages.1.labelPlural>
+  <AEXP_Tiger.lifeStages.1.labelMale>수컷 호랑이</AEXP_Tiger.lifeStages.1.labelMale>
+  <AEXP_Tiger.lifeStages.1.labelMalePlural>수컷 호랑이들</AEXP_Tiger.lifeStages.1.labelMalePlural>
+  <AEXP_Tiger.lifeStages.1.labelFemale>암컷 호랑이</AEXP_Tiger.lifeStages.1.labelFemale>
+  <AEXP_Tiger.lifeStages.1.labelFemalePlural>암컷 호랑이들</AEXP_Tiger.lifeStages.1.labelFemalePlural>
+  <AEXP_Tiger.lifeStages.2.label>호랑이</AEXP_Tiger.lifeStages.2.label>
+  <AEXP_Tiger.lifeStages.2.labelPlural>호랑이</AEXP_Tiger.lifeStages.2.labelPlural>
+  <AEXP_Tiger.lifeStages.2.labelMale>수컷 호랑이</AEXP_Tiger.lifeStages.2.labelMale>
+  <AEXP_Tiger.lifeStages.2.labelMalePlural>수컷 호랑이들</AEXP_Tiger.lifeStages.2.labelMalePlural>
+  <AEXP_Tiger.lifeStages.2.labelFemale>암컷 호랑이</AEXP_Tiger.lifeStages.2.labelFemale>
+  <AEXP_Tiger.lifeStages.2.labelFemalePlural>암컷 호랑이들</AEXP_Tiger.lifeStages.2.labelFemalePlural>
+  <AEXP_Tiger.labelMale>수컷 호랑이</AEXP_Tiger.labelMale>
+  <AEXP_Tiger.labelMalePlural>수컷 호랑이들</AEXP_Tiger.labelMalePlural>
+  <AEXP_Tiger.labelFemale>암컷 호랑이</AEXP_Tiger.labelFemale>
+  <AEXP_Tiger.labelFemalePlural>암컷 호랑이들</AEXP_Tiger.labelFemalePlural>
+
+</LanguageData>

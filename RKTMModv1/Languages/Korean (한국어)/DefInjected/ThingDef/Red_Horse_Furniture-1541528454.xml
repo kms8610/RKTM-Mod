@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RNApparel_511TacTec_Contractor.label>5.11 Tactec 방탄복 (계약자)</RNApparel_511TacTec_Contractor.label>
+  <RNApparel_511TacTec_Contractor.description>5.11사는 TACTEC 플레이트 캐리어를 도입하였습니다. 처음엔 크로스핏에 중량 조끼로 판매되었지만, 5.11사는 TACTEC 플레이트 캐리어를 전투에 시간을 쓰지 않는 사람들에게 무거워빠진 것들을 입는 것보다 여기에 수백 달러를 쓰는게 더 나을 것이라고 설득하여 판매했습니다(사실, 그 가격은 방탄판을 제외한 가격이였습니다.). Crye Precision사의 장비를 살 여유가 없던 전장의 대원들은 인체공학적이고 가벼운 기능을 보고 대안책으로 이를 택했습니다. 5.11사 덕분에 대원들의 지갑은 지켜질 수 있었죠.</RNApparel_511TacTec_Contractor.description>
+  <RNApparel_PTABravoHelmet_ANVIL.label>올리브색 PT A-Bravo 방탄모</RNApparel_PTABravoHelmet_ANVIL.label>
+  <RNApparel_PTABravoHelmet_ANVIL.description>Pro-Tec A-Bravo는 원래는 Pro-Tec사에서 스포츠용 헬멧으로 만들어진 것들 중 하나였습니다. 이 모델은 현재는 공개적인 방법으로는 구매할 수 없습니다.  미국 국방성이  미군이나 미경찰을 위해 대량 구매하는것이 유일하며, 웹사이트에는 이렇게 적혀있습니다. "미 군사와 연방 정부에게만 판매합니다. 사적인 주문은 현재 받지 않습니다. MADE IN USA."</RNApparel_PTABravoHelmet_ANVIL.description>
+  <RNApparel_combats_ATACSFG.label>A-TACS FG 전투복</RNApparel_combats_ATACSFG.label>
+  <RNApparel_combats_ATACSFG.description>전투복, 필드 유니폼, 또는 배틀 드레스는 행사 같은곳에서 입는 옷과는 달리 전투에서 사용하는 의류입니다. 미국 영어에선 Fatigues, 피곤함 이란 용어가 사용되기도 했는데, 이는 원래 군인의 작업복에 대한 용어였습니다. 전투복은 일반적으론 바탕에 비슷하게 보이기 위해 녹색, 갈색 음영 같은 단색이나 어지러운 패턴으로 위장되어있습니다.</RNApparel_combats_ATACSFG.description>
+  <RNApparel_Parka_ATACSFG.label>A-TACS FG 위장색 파카</RNApparel_Parka_ATACSFG.label>
+  <RNApparel_Parka_ATACSFG.description>가장 추운 온도에서도 따뜻하게 지낼 수 있는 파카입니다. A-TACS FG 위장색이 칠해졌습니다.</RNApparel_Parka_ATACSFG.description>
+  <CP_AmmoStool.label>탄약통 의자</CP_AmmoStool.label>
+  <CP_AmmoStool.description>군에는 의자에 필요한 예산이 충분하지 않지만 탄약고에 빈 탄약통이 많이 있어서..</CP_AmmoStool.description>
+  <CP_AmmoStool_Blueprint.label>탄약통 의자 (청사진)</CP_AmmoStool_Blueprint.label>
+  <CP_AmmoStool_Blueprint_Install.label>탄약통 의자 (청사진)</CP_AmmoStool_Blueprint_Install.label>
+  <CP_AmmoStool_Frame.label>탄약통 의자 (건설 중)</CP_AmmoStool_Frame.label>
+  <CP_AmmoStool_Frame.description>군에는 의자에 필요한 예산이 충분하지 않지만 탄약고에 빈 탄약통이 많이 있어서..</CP_AmmoStool_Frame.description>
+  <CP_CanvasChair.label>접이식 캔버스 의자</CP_CanvasChair.label>
+  <CP_CanvasChair.description>휴대성이 뛰어난 접이식 의자로, 탄약통보다 앉기 편합니다.</CP_CanvasChair.description>
+  <CP_CanvasChair_Blueprint.label>접이식 캔버스 의자 (청사진)</CP_CanvasChair_Blueprint.label>
+  <CP_CanvasChair_Blueprint_Install.label>접이식 캔버스 의자 (청사진)</CP_CanvasChair_Blueprint_Install.label>
+  <CP_CanvasChair_Frame.label>접이식 캔버스 의자 (건설 중)</CP_CanvasChair_Frame.label>
+  <CP_CanvasChair_Frame.description>휴대성이 뛰어난 접이식 의자로, 탄약통보다 앉기 편합니다.</CP_CanvasChair_Frame.description>
+  <CP_ChairforceChair.label>Chairfoece'</CP_ChairforceChair.label>
+  <CP_ChairforceChair.description>진짜 전투원들이 현장에 있는 동안 하루종일 앉아 있을 수 있는 편안하지만 저렴한 의자를 찾고 있다면, 이것은 여러분을 위한 의자 입니다.</CP_ChairforceChair.description>
+  <CP_ChairforceChair_Blueprint.label>Chairforce' (청사진)</CP_ChairforceChair_Blueprint.label>
+  <CP_ChairforceChair_Blueprint_Install.label>Chairforce' (청사진)</CP_ChairforceChair_Blueprint_Install.label>
+  <CP_ChairforceChair_Frame.label>Chairforce' (건설 중)</CP_ChairforceChair_Frame.label>
+  <CP_ChairforceChair_Frame.description>진짜 전투원들이 현장에 있는 동안 하루종일 앉아 있을 수 있는 편안하지만 저렴한 의자를 찾고 있다면, 이것은 여러분을 위한 의자 입니다.</CP_ChairforceChair_Frame.description>
+  <CP_ArmchairCommander.label>사령관 안락의자</CP_ArmchairCommander.label>
+  <CP_ArmchairCommander.description>이 의자는 많은 사람들을 죽음으로 인도할 전문가의 것으로. 매우 편안한 의자입니다.</CP_ArmchairCommander.description>
+  <CP_ArmchairCommander_Blueprint.label>사령관 안락의자 (청사진)</CP_ArmchairCommander_Blueprint.label>
+  <CP_ArmchairCommander_Blueprint_Install.label>사령관 안락의자 (청사진)</CP_ArmchairCommander_Blueprint_Install.label>
+  <CP_ArmchairCommander_Frame.label>사령관 안락의자(건설 중)</CP_ArmchairCommander_Frame.label>
+  <CP_ArmchairCommander_Frame.description>이 의자는 많은 사람들을 죽음으로 인도할 전문가의 것으로. 매우 편안한 의자입니다.</CP_ArmchairCommander_Frame.description>
+  <CP_MilitaryCotBed.label>군용 면 침대</CP_MilitaryCotBed.label>
+  <CP_MilitaryCotBed.description>잠잘 때도 전술툴을 봐야 하기 때문에 매트리스가 없는 아늑한 접이식 침대.</CP_MilitaryCotBed.description>
+  <CP_MilitaryCotBed_Blueprint.label>군용 면 침대 (청사진)</CP_MilitaryCotBed_Blueprint.label>
+  <CP_MilitaryCotBed_Blueprint_Install.label>군용 면 침대 (청사진)</CP_MilitaryCotBed_Blueprint_Install.label>
+  <CP_MilitaryCotBed_Frame.label>군용 면 침대 (건설 중)</CP_MilitaryCotBed_Frame.label>
+  <CP_MilitaryCotBed_Frame.description>잠잘 때도 전술툴을 봐야 하기 때문에 매트리스가 없는 아늑한 접이식 침대.</CP_MilitaryCotBed_Frame.description>
+  <CP_DoubleMilitaryCotBed.label>2인용 군용 면 침대</CP_DoubleMilitaryCotBed.label>
+  <CP_DoubleMilitaryCotBed.description>두 개의 접이식 요람 침대가 함께 놓여 있고, 최대한의 안락함을 위해 크고 편안한 M81 삼림지대 카모 우비 담요가 함께 있습니다. 두 사람이 사용할 수 있습니다.</CP_DoubleMilitaryCotBed.description>
+  <CP_DoubleMilitaryCotBed_Blueprint.label>2인용 군용 면 침대 (청사진)</CP_DoubleMilitaryCotBed_Blueprint.label>
+  <CP_DoubleMilitaryCotBed_Blueprint_Install.label>2인용 군용 면 침대 (청사진)</CP_DoubleMilitaryCotBed_Blueprint_Install.label>
+  <CP_DoubleMilitaryCotBed_Frame.label>2인용 군용 면 침대 (건설 중)</CP_DoubleMilitaryCotBed_Frame.label>
+  <CP_DoubleMilitaryCotBed_Frame.description>두 개의 접이식 요람 침대가 함께 놓여 있고, 최대한의 안락함을 위해 크고 편안한 M81 삼림지대 카모 우비 담요가 함께 있습니다. 두 사람이 사용할 수 있습니다.</CP_DoubleMilitaryCotBed_Frame.description>
+  <CP_M81Bedroll.label>M81 침낭</CP_M81Bedroll.label>
+  <CP_M81Bedroll.description>침낭은 사람을 위한 절연 덮개로서, 본질적으로 경량 이불을 지퍼나 이와 유사한 수단으로 닫아 관을 형성할 수 있으며, 사람이 실외에서 자고 있는 상황에서는 경량, 휴대용 침구 역할을 합니다. M81 위장색이 칠해졌습니다</CP_M81Bedroll.description>
+  <CP_M81Bedroll_Blueprint.label>M81 침낭 (청사진)</CP_M81Bedroll_Blueprint.label>
+  <CP_M81Bedroll_Blueprint_Install.label>M81 침낭 (청사진)</CP_M81Bedroll_Blueprint_Install.label>
+  <CP_M81Bedroll_Frame.label>M81 침낭 (건설 중)</CP_M81Bedroll_Frame.label>
+  <CP_M81Bedroll_Frame.description>침낭은 사람을 위한 절연 덮개로서, 본질적으로 경량 이불을 지퍼나 이와 유사한 수단으로 닫아 관을 형성할 수 있으며, 사람이 실외에서 자고 있는 상황에서는 경량, 휴대용 침구 역할을 합니다. M81 위장색이 칠해졌습니다</CP_M81Bedroll_Frame.description>
+  <CP_M81MulticamBedroll.label>멀티캠 침낭</CP_M81MulticamBedroll.label>
+  <CP_M81MulticamBedroll.description>침낭은 사람을 위한 절연 덮개로서, 본질적으로 경량 이불을 지퍼나 이와 유사한 수단으로 닫아 관을 형성할 수 있으며, 사람이 실외에서 자고 있는 상황에서는 경량, 휴대용 침구 역할을 합니다. 멀티캠 위장색이 칠해졌습니다.</CP_M81MulticamBedroll.description>
+  <CP_M81MulticamBedroll_Blueprint.label>멀티캠 침낭 (청사진)</CP_M81MulticamBedroll_Blueprint.label>
+  <CP_M81MulticamBedroll_Blueprint_Install.label>멀티캠 침낭 (청사진)</CP_M81MulticamBedroll_Blueprint_Install.label>
+  <CP_M81MulticamBedroll_Frame.label>멀티캠 침낭 (건설 중)</CP_M81MulticamBedroll_Frame.label>
+  <CP_M81MulticamBedroll_Frame.description>침낭은 사람을 위한 절연 덮개로서, 본질적으로 경량 이불을 지퍼나 이와 유사한 수단으로 닫아 관을 형성할 수 있으며, 사람이 실외에서 자고 있는 상황에서는 경량, 휴대용 침구 역할을 합니다. 멀티캠 위장색이 칠해졌습니다.</CP_M81MulticamBedroll_Frame.description>
+  <CP_DoubleCamoBedroll.label>2인용 침낭</CP_DoubleCamoBedroll.label>
+  <CP_DoubleCamoBedroll.description>카모 침낭 두 개가 함께 놓여 있고, 최대한의 안락함을 위해 크고 편안한 M81 삼림지대 카모 우비 담요가 있습니다. 두 사람이 사용할 수 있습니다.</CP_DoubleCamoBedroll.description>
+  <CP_DoubleCamoBedroll_Blueprint.label>2인용 침낭</CP_DoubleCamoBedroll_Blueprint.label>
+  <CP_DoubleCamoBedroll_Blueprint_Install.label>2인용 침낭</CP_DoubleCamoBedroll_Blueprint_Install.label>
+  <CP_DoubleCamoBedroll_Frame.label>2인용 침낭 (건설 중)</CP_DoubleCamoBedroll_Frame.label>
+  <CP_DoubleCamoBedroll_Frame.description>카모 침낭 두 개가 함께 놓여 있고, 최대한의 안락함을 위해 크고 편안한 M81 삼림지대 카모 우비 담요가 있습니다. 두 사람이 사용할 수 있습니다.</CP_DoubleCamoBedroll_Frame.description>
+  <CP_AmmoCrateTable1x2c.label>탄약통 테이블(1x2)</CP_AmmoCrateTable1x2c.label>
+  <CP_AmmoCrateTable1x2c.description>의자가 있다면 이 위에서 식사를 합니다.</CP_AmmoCrateTable1x2c.description>
+  <CP_AmmoCrateTable1x2c_Blueprint.label>탄약통 테이블(1x2) (청사진)</CP_AmmoCrateTable1x2c_Blueprint.label>
+  <CP_AmmoCrateTable1x2c_Blueprint_Install.label>탄약통 테이블(1x2) (청사진)</CP_AmmoCrateTable1x2c_Blueprint_Install.label>
+  <CP_AmmoCrateTable1x2c_Frame.label>탄약통 테이블(1x2) (건설 중)</CP_AmmoCrateTable1x2c_Frame.label>
+  <CP_AmmoCrateTable1x2c_Frame.description>의자가 있다면 이 위에서 식사를 합니다.</CP_AmmoCrateTable1x2c_Frame.description>
+  <CP_FootlockerSmall.label>풋록커</CP_FootlockerSmall.label>
+  <CP_FootlockerSmall.description>"이병, 왜 네 풋록커가 안 잠겨있지? 내가 증오하는 게 이 세상에 하나 있다면, 그건 자물쇠가 채워지지 않은 풋록커야, 너도 알지? 만약 그게 이 세상에 존재하지 않을 거라고 생각했다면?!" - 거니는 이제 이 "깨끗한" 막사는 마치 토네이도가 지나간 것처럼 보일 것입니다. 이 모든 것은 다 달랑 발걸이를 잠글 수 없는 한 사람 때문입니다. 화장대처럼 군용 침대의 편안함을 높여줍니다. 면 침대에만 허용됩니다.</CP_FootlockerSmall.description>
+  <CP_FootlockerSmall_Blueprint.label>풋록커 (청사진)</CP_FootlockerSmall_Blueprint.label>
+  <CP_FootlockerSmall_Blueprint_Install.label>풋록커 (청사진)</CP_FootlockerSmall_Blueprint_Install.label>
+  <CP_FootlockerSmall_Frame.label>풋록커 (건설 중)</CP_FootlockerSmall_Frame.label>
+  <CP_FootlockerSmall_Frame.description>"이병, 왜 네 풋록커가 안 잠겨있지? 내가 증오하는 게 이 세상에 하나 있다면, 그건 자물쇠가 채워지지 않은 풋록커야, 너도 알지? 만약 그게 이 세상에 존재하지 않을 거라고 생각했다면?!" - 거니는 이제 이 "깨끗한" 막사는 마치 토네이도가 지나간 것처럼 보일 것입니다. 이 모든 것은 다 달랑 발걸이를 잠글 수 없는 한 사람 때문입니다. 화장대처럼 군용 침대의 편안함을 높여줍니다. 면 침대에만 허용됩니다.</CP_FootlockerSmall_Frame.description>
+  <CP_OfficeLamp.label>사무실 등</CP_OfficeLamp.label>
+  <CP_OfficeLamp.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLamp.description>
+  <CP_OfficeLamp_Blueprint.label>사무실 등 (청사진)</CP_OfficeLamp_Blueprint.label>
+  <CP_OfficeLamp_Blueprint_Install.label>사무실 등 (청사진)</CP_OfficeLamp_Blueprint_Install.label>
+  <CP_OfficeLamp_Frame.label>사무실 등 (건설 중)</CP_OfficeLamp_Frame.label>
+  <CP_OfficeLamp_Frame.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLamp_Frame.description>
+  <CP_OfficeLampBlue.label>사무실 등 (파란색)</CP_OfficeLampBlue.label>
+  <CP_OfficeLampBlue.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLampBlue.description>
+  <CP_OfficeLampBlue_Blueprint.label>사무실 등 (파란색) (청사진)</CP_OfficeLampBlue_Blueprint.label>
+  <CP_OfficeLampBlue_Blueprint_Install.label>사무실 등 (파란색) (청사진)</CP_OfficeLampBlue_Blueprint_Install.label>
+  <CP_OfficeLampBlue_Frame.label>사무실 등 (파란색) (건설 중)</CP_OfficeLampBlue_Frame.label>
+  <CP_OfficeLampBlue_Frame.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLampBlue_Frame.description>
+  <CP_OfficeLampGreen.label>사무실 등 (초록색)</CP_OfficeLampGreen.label>
+  <CP_OfficeLampGreen.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLampGreen.description>
+  <CP_OfficeLampGreen_Blueprint.label>사무실 등 (초록색) (청사진)</CP_OfficeLampGreen_Blueprint.label>
+  <CP_OfficeLampGreen_Blueprint_Install.label>사무실 등 (초록색) (청사진)</CP_OfficeLampGreen_Blueprint_Install.label>
+  <CP_OfficeLampGreen_Frame.label>사무실 등 (초록색) (건설 중)</CP_OfficeLampGreen_Frame.label>
+  <CP_OfficeLampGreen_Frame.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLampGreen_Frame.description>
+  <CP_OfficeLampOrange.label>사무실 등 (오렌지색)</CP_OfficeLampOrange.label>
+  <CP_OfficeLampOrange.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLampOrange.description>
+  <CP_OfficeLampOrange_Blueprint.label>사무실 등 (오렌지색) (청사진)</CP_OfficeLampOrange_Blueprint.label>
+  <CP_OfficeLampOrange_Blueprint_Install.label>사무실 등 (오렌지색) (청사진)</CP_OfficeLampOrange_Blueprint_Install.label>
+  <CP_OfficeLampOrange_Frame.label>사무실 등 (오렌지색) (건설 중)</CP_OfficeLampOrange_Frame.label>
+  <CP_OfficeLampOrange_Frame.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLampOrange_Frame.description>
+  <CP_OfficeLampPurple.label>사무실 등 (보라색)</CP_OfficeLampPurple.label>
+  <CP_OfficeLampPurple.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLampPurple.description>
+  <CP_OfficeLampPurple_Blueprint.label>사무실 등 (보라색) (청사진)</CP_OfficeLampPurple_Blueprint.label>
+  <CP_OfficeLampPurple_Blueprint_Install.label>사무실 등 (보라색) (청사진)</CP_OfficeLampPurple_Blueprint_Install.label>
+  <CP_OfficeLampPurple_Frame.label>사무실 등 (보라색) (건설 중)</CP_OfficeLampPurple_Frame.label>
+  <CP_OfficeLampPurple_Frame.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLampPurple_Frame.description>
+  <CP_OfficeLampRed.label>사무실 등 (빨간색)</CP_OfficeLampRed.label>
+  <CP_OfficeLampRed.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLampRed.description>
+  <CP_OfficeLampRed_Blueprint.label>사무실 등 (빨간색) (청사진)</CP_OfficeLampRed_Blueprint.label>
+  <CP_OfficeLampRed_Blueprint_Install.label>사무실 등 (빨간색) (청사진)</CP_OfficeLampRed_Blueprint_Install.label>
+  <CP_OfficeLampRed_Frame.label>사무실 등 (빨간색) (건설 중)</CP_OfficeLampRed_Frame.label>
+  <CP_OfficeLampRed_Frame.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLampRed_Frame.description>
+  <CP_OfficeLampYellow.label>사무실 등 (노란색)</CP_OfficeLampYellow.label>
+  <CP_OfficeLampYellow.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLampYellow.description>
+  <CP_OfficeLampYellow_Blueprint.label>사무실 등 (노란색) (청사진)</CP_OfficeLampYellow_Blueprint.label>
+  <CP_OfficeLampYellow_Blueprint_Install.label>사무실 등 (노란색) (청사진)</CP_OfficeLampYellow_Blueprint_Install.label>
+  <CP_OfficeLampYellow_Frame.label>사무실 등 (노란색) (건설 중)</CP_OfficeLampYellow_Frame.label>
+  <CP_OfficeLampYellow_Frame.description>지역을 밝히는 전기 스탠딩 램프입니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_OfficeLampYellow_Frame.description>
+  <CP_FloodlightSmall.label>작은 전광판</CP_FloodlightSmall.label>
+  <CP_FloodlightSmall.description>투광 조명등은 넓은 비주얼을 가진, 고강도 인공 조명입니다. 낮은 조도 조건에서 야외 운동 경기가 열리는 동안 야외 운동장을 밝히는 데 종종 사용됩니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_FloodlightSmall.description>
+  <CP_FloodlightSmall_Blueprint.label>작은 전광판 (청사진)</CP_FloodlightSmall_Blueprint.label>
+  <CP_FloodlightSmall_Blueprint_Install.label>작은 전광판 (청사진)</CP_FloodlightSmall_Blueprint_Install.label>
+  <CP_FloodlightSmall_Frame.label>작은 전광판 (건설 중)</CP_FloodlightSmall_Frame.label>
+  <CP_FloodlightSmall_Frame.description>투광 조명등은 넓은 비주얼을 가진, 고강도 인공 조명입니다. 낮은 조도 조건에서 야외 운동 경기가 열리는 동안 야외 운동장을 밝히는 데 종종 사용됩니다. 사람들은 전속력으로 움직이고 일하기 위해 빛이 필요합니다.</CP_FloodlightSmall_Frame.description>
+  <CP_MedicalStretcher.label>의료 들것</CP_MedicalStretcher.label>
+  <CP_MedicalStretcher.description>병원에서 사용하기 위해 특별히 고안된 침대. 환자에게 맞춰서 조절이 가능하고 내장된 장비로 장식되어 일반 침대보다 의료 결과를 개선해 줍니다.</CP_MedicalStretcher.description>
+  <CP_MedicalStretcher_Blueprint.label>의료 들것 (청사진)</CP_MedicalStretcher_Blueprint.label>
+  <CP_MedicalStretcher_Blueprint_Install.label>의료 들것 (청사진)</CP_MedicalStretcher_Blueprint_Install.label>
+  <CP_MedicalStretcher_Frame.label>의료 들것 (건설 중)</CP_MedicalStretcher_Frame.label>
+  <CP_MedicalStretcher_Frame.description>병원에서 사용하기 위해 특별히 고안된 침대. 환자에게 맞춰서 조절이 가능하고 내장된 장비로 장식되어 일반 침대보다 의료 결과를 개선해 줍니다.</CP_MedicalStretcher_Frame.description>
+  <CP_MedicalBed.label>의료 침대</CP_MedicalBed.label>
+  <CP_MedicalBed.description>병원에서 사용하기 위해 특별히 고안된 침대. 환자에게 맞춰서 조절이 가능하고 내장된 장비로 장식되어 일반 침대보다 의료 결과를 개선해 줍니다.</CP_MedicalBed.description>
+  <CP_MedicalBed_Blueprint.label>의료 침대 (청사진)</CP_MedicalBed_Blueprint.label>
+  <CP_MedicalBed_Blueprint_Install.label>의료 침대 (청사진)</CP_MedicalBed_Blueprint_Install.label>
+  <CP_MedicalBed_Frame.label>의료 침대 (건설 중)</CP_MedicalBed_Frame.label>
+  <CP_MedicalBed_Frame.description>병원에서 사용하기 위해 특별히 고안된 침대. 환자에게 맞춰서 조절이 가능하고 내장된 장비로 장식되어 일반 침대보다 의료 결과를 개선해 줍니다.</CP_MedicalBed_Frame.description>
+  <CP_IVSupport.label>IV support</CP_IVSupport.label>
+  <CP_IVSupport.description>정맥내요법(IV)은 액체 물질을 정맥에 직접 전달하는 치료법입니다. 정맥 투여 경로는 주사(고압에서 주사기를 사용하는 경우) 또는 주입(일반적으로 중력에 의해 공급되는 압력만 사용)에 사용할 수 있습니다.</CP_IVSupport.description>
+  <CP_IVSupport_Blueprint.label>IV support (청사진)</CP_IVSupport_Blueprint.label>
+  <CP_IVSupport_Blueprint_Install.label>IV support (청사진)</CP_IVSupport_Blueprint_Install.label>
+  <CP_IVSupport_Frame.label>IV support (건설 중)</CP_IVSupport_Frame.label>
+  <CP_IVSupport_Frame.description>정맥내요법(IV)은 액체 물질을 정맥에 직접 전달하는 치료법입니다. 정맥 투여 경로는 주사(고압에서 주사기를 사용하는 경우) 또는 주입(일반적으로 중력에 의해 공급되는 압력만 사용)에 사용할 수 있습니다.</CP_IVSupport_Frame.description>
+  <CP_InstrumentTable.label>기구 테이블</CP_InstrumentTable.label>
+  <CP_InstrumentTable.description>수술 기구는 수술이나 수술 중에 특정 동작을 수행하거나 생물학적 조직을 수정하는 등의 원하는 효과를 수행하거나 그것을 보기 위한 접근을 제공하기 위해 특별히 설계된 도구 또는 장치입니다.</CP_InstrumentTable.description>
+  <CP_InstrumentTable_Blueprint.label>기구 테이블(청사진)</CP_InstrumentTable_Blueprint.label>
+  <CP_InstrumentTable_Blueprint_Install.label>기구 테이블(청사진)</CP_InstrumentTable_Blueprint_Install.label>
+  <CP_InstrumentTable_Frame.label>기구 테이블 (건설 중)</CP_InstrumentTable_Frame.label>
+  <CP_InstrumentTable_Frame.description>수술 기구는 수술이나 수술 중에 특정 동작을 수행하거나 생물학적 조직을 수정하는 등의 원하는 효과를 수행하거나 그것을 보기 위한 접근을 제공하기 위해 특별히 설계된 도구 또는 장치입니다.</CP_InstrumentTable_Frame.description>
+  <CP_UltrasoundMachine.label>초음파 기계</CP_UltrasoundMachine.label>
+  <CP_UltrasoundMachine.description>초음파는 많은 다른 분야에서 사용됩니다. 초음파 장치는 물체를 감지하고 거리를 측정하는데 사용됩니다. 초음파 영상이나 초음파 촬영은 의학에서 자주 사용됩니다. 제품 및 구조물의 비파괴시험에서는 보이지 않는 결함을 감지하기 위해 초음파를 사용합니다. 일반적으로는 초음파는 화학 공정을 촉진하고 세척하는 데 사용됩니다. 박쥐나 포충과 같은 동물들은 먹이와 장애물을 찾기 위해 초음파를 사용합니다.</CP_UltrasoundMachine.description>
+  <CP_UltrasoundMachine_Blueprint.label>초음파 기계 (청사진)</CP_UltrasoundMachine_Blueprint.label>
+  <CP_UltrasoundMachine_Blueprint_Install.label>초음파 기계 (청사진)</CP_UltrasoundMachine_Blueprint_Install.label>
+  <CP_UltrasoundMachine_Frame.label>초음파 기계 (건설 중)</CP_UltrasoundMachine_Frame.label>
+  <CP_UltrasoundMachine_Frame.description>초음파는 많은 다른 분야에서 사용됩니다. 초음파 장치는 물체를 감지하고 거리를 측정하는데 사용됩니다. 초음파 영상이나 초음파 촬영은 의학에서 자주 사용됩니다. 제품 및 구조물의 비파괴시험에서는 보이지 않는 결함을 감지하기 위해 초음파를 사용합니다. 일반적으로는 초음파는 화학 공정을 촉진하고 세척하는 데 사용됩니다. 박쥐나 포충과 같은 동물들은 먹이와 장애물을 찾기 위해 초음파를 사용합니다.</CP_UltrasoundMachine_Frame.description>
+  <CP_VitalSigns.label>생명 징후 감시기</CP_VitalSigns.label>
+  <CP_VitalSigns.description>생명 징후 모니터를 만듭니다. 혈압과 심박수를 포함한 몇 가지 중요한 파라미터의 모니터링을 위한 통합 시스템을 갖춘 마취기.</CP_VitalSigns.description>
+  <CP_VitalSigns_Blueprint.label>생명 징후 감시기 (청사진)</CP_VitalSigns_Blueprint.label>
+  <CP_VitalSigns_Blueprint_Install.label>생명 징후 감시기 (청사진)</CP_VitalSigns_Blueprint_Install.label>
+  <CP_VitalSigns_Frame.label>생명 징후 감시기 (건설 중)</CP_VitalSigns_Frame.label>
+  <CP_VitalSigns_Frame.description>생명 징후 모니터를 만듭니다. 혈압과 심박수를 포함한 몇 가지 중요한 파라미터의 모니터링을 위한 통합 시스템을 갖춘 마취기.</CP_VitalSigns_Frame.description>
+  <CP_MedicalVentilator.label>의료 인공 호흡기</CP_MedicalVentilator.label>
+  <CP_MedicalVentilator.description>의료용 인공호흡기(또는 단순히 맥락에서 인공호흡기)는 기계식 인공호흡기, 즉 호흡 가능한 공기를 폐 안팎으로 이동시켜 물리적으로 숨을 쉴 수 없거나 호흡이 불충분한 환자에게 호흡을 제공하도록 설계된 기계입니다.</CP_MedicalVentilator.description>
+  <CP_MedicalVentilator_Blueprint.label>의료 인공 호흡기 (청사진)</CP_MedicalVentilator_Blueprint.label>
+  <CP_MedicalVentilator_Blueprint_Install.label>의료 인공 호흡기 (청사진)</CP_MedicalVentilator_Blueprint_Install.label>
+  <CP_MedicalVentilator_Frame.label>의료 인공 호흡기 (건설 중)</CP_MedicalVentilator_Frame.label>
+  <CP_MedicalVentilator_Frame.description>의료용 인공호흡기(또는 단순히 맥락에서 인공호흡기)는 기계식 인공호흡기, 즉 호흡 가능한 공기를 폐 안팎으로 이동시켜 물리적으로 숨을 쉴 수 없거나 호흡이 불충분한 환자에게 호흡을 제공하도록 설계된 기계입니다.</CP_MedicalVentilator_Frame.description>
+  <CP_MailboxTradeBeacon.label>우편함 무역 표지</CP_MailboxTradeBeacon.label>
+  <CP_MailboxTradeBeacon.description>현재 거래에 필요합니다. 비고: 은을 궤도선에 보낼 수는 없다. 이것은 마치 궤도 무역 신호기와 같습다. 전력 비용이 들지 않고, 마이크로 전자 공학 연구가 필요하지 않다는 것을 제외하면 말입니다. 왜냐하면 사람들은 마침내 운송이 어떻게 작동하는지 기억하기 때문입니다. 실내에 배치 가능합니다.</CP_MailboxTradeBeacon.description>
+  <CP_MailboxTradeBeacon_Blueprint.label>우편함 무역 표지 (청사진)</CP_MailboxTradeBeacon_Blueprint.label>
+  <CP_MailboxTradeBeacon_Blueprint_Install.label>우편함 무역 표지 (청사진)</CP_MailboxTradeBeacon_Blueprint_Install.label>
+  <CP_MailboxTradeBeacon_Frame.label>우편함 무역 표지 (건설 중)</CP_MailboxTradeBeacon_Frame.label>
+  <CP_MailboxTradeBeacon_Frame.description>현재 거래에 필요합니다. 비고: 은을 궤도선에 보낼 수는 없다. 이것은 마치 궤도 무역 신호기와 같습다. 전력 비용이 들지 않고, 마이크로 전자 공학 연구가 필요하지 않다는 것을 제외하면 말입니다. 왜냐하면 사람들은 마침내 운송이 어떻게 작동하는지 기억하기 때문입니다. 실내에 배치 가능합니다.</CP_MailboxTradeBeacon_Frame.description>
+  <CP_PCCommsStation.label>통신 PC 책상</CP_PCCommsStation.label>
+  <CP_PCCommsStation.description>외교나 카라반 요청을 위해 다른 파벌들과 온라인 접촉을 허용하지만, 이 통신 데스크는 외계 행성 거래를 위한 오르비탈 선박에는 도달할 수 없습니다.</CP_PCCommsStation.description>
+  <CP_PCCommsStation_Blueprint.label>통신 PC 책상 (청사진)</CP_PCCommsStation_Blueprint.label>
+  <CP_PCCommsStation_Blueprint_Install.label>통신 PC 책상 (청사진)</CP_PCCommsStation_Blueprint_Install.label>
+  <CP_PCCommsStation_Frame.label>통신 PC 책상 (건설 중)</CP_PCCommsStation_Frame.label>
+  <CP_PCCommsStation_Frame.description>외교나 카라반 요청을 위해 다른 파벌들과 온라인 접촉을 허용하지만, 이 통신 데스크는 외계 행성 거래를 위한 오르비탈 선박에는 도달할 수 없습니다.</CP_PCCommsStation_Frame.description>
+  <CP_ResearchStation.label>PC연구 책상</CP_ResearchStation.label>
+  <CP_ResearchStation.description>온라인 아카이브를 통해 정보를 수집하는 데 사용되는 개인용 컴퓨터, 귀중한 파일 및 기타 장비가 있는 책상. 이러한 현대적 시대 설정의 한계 때문에, 그것은 오직 계층 2 기술까지만 연구할 수 있습니다.</CP_ResearchStation.description>
+  <CP_ResearchStation_Blueprint.label>PC연구 책상 (청사진)</CP_ResearchStation_Blueprint.label>
+  <CP_ResearchStation_Frame.label>PC연구 책상 (건설 중)</CP_ResearchStation_Frame.label>
+  <CP_ResearchStation_Frame.description>온라인 아카이브를 통해 정보를 수집하는 데 사용되는 개인용 컴퓨터, 귀중한 파일 및 기타 장비가 있는 책상. 이러한 현대적 시대 설정의 한계 때문에, 그것은 오직 계층 2 기술까지만 연구할 수 있습니다.</CP_ResearchStation_Frame.description>
+  <CP_BlackHatStation.label>블랙 햇 연구소</CP_BlackHatStation.label>
+  <CP_BlackHatStation.description>검은 모자 해킹 작전에 쓰이는 책상입니다. 익명의 의뢰인이 주는 무해한 연방범죄에서 높은 수준의 연방범죄까지 그 일에 충분히 지능적일 경우, 사용자들은 다양한 온라인 계약을 통해 동전을 얻을 수 있습니다. PC 옆에는 '레인메이커'라는 이름의 기계가 있는데 워프 기술을 통해 클라이언트 기기로부터 물리적인 결제를 받습니다. 추적 불가능한 거래에 적합합니다.</CP_BlackHatStation.description>
+  <CP_BlackHatStation_Blueprint.label>블랙 햇 연구소 (청사진)</CP_BlackHatStation_Blueprint.label>
+  <CP_BlackHatStation_Blueprint_Install.label>블랙 햇 연구소 (청사진)</CP_BlackHatStation_Blueprint_Install.label>
+  <CP_BlackHatStation_Frame.label>블랙 햇 연구소 (건설 중)</CP_BlackHatStation_Frame.label>
+  <CP_BlackHatStation_Frame.description>검은 모자 해킹 작전에 쓰이는 책상입니다. 익명의 의뢰인이 주는 무해한 연방범죄에서 높은 수준의 연방범죄까지 그 일에 충분히 지능적일 경우, 사용자들은 다양한 온라인 계약을 통해 동전을 얻을 수 있습니다. PC 옆에는 '레인메이커'라는 이름의 기계가 있는데 워프 기술을 통해 클라이언트 기기로부터 물리적인 결제를 받습니다. 추적 불가능한 거래에 적합합니다.</CP_BlackHatStation_Frame.description>
+  <CP_ServerTower.label>서버 타워</CP_ServerTower.label>
+  <CP_ServerTower.description>컴퓨팅에서 서버는 "클라이언트"라고 불리는 다른 프로그램이나 장치에 대한 기능을 제공하는 컴퓨터 프로그램이나 장치입니다. 이 장비는 PC 연구소와 블랙 햇 연구소의 연구 속도와 작업 속도를 높일 것입니다.</CP_ServerTower.description>
+  <CP_ServerTower_Blueprint.label>서버 타워 (청사진)</CP_ServerTower_Blueprint.label>
+  <CP_ServerTower_Blueprint_Install.label>서버 타워 (청사진)</CP_ServerTower_Blueprint_Install.label>
+  <CP_ServerTower_Frame.label>서버 타워 (건설 중)</CP_ServerTower_Frame.label>
+  <CP_ServerTower_Frame.description>컴퓨팅에서 서버는 "클라이언트"라고 불리는 다른 프로그램이나 장치에 대한 기능을 제공하는 컴퓨터 프로그램이나 장치입니다. 이 장비는 PC 연구소와 블랙 햇 연구소의 연구 속도와 작업 속도를 높일 것입니다.</CP_ServerTower_Frame.description>
+  <MissionBoardRC.label>임무 보드</MissionBoardRC.label>
+  <MissionBoardRC.description>새로운 미션을 찾기 위한 임무보드 입니다.</MissionBoardRC.description>
+  <MissionBoardRC_Blueprint.label>임무 보드 (청사진)</MissionBoardRC_Blueprint.label>
+  <MissionBoardRC_Blueprint_Install.label>임무 보드 (청사진)</MissionBoardRC_Blueprint_Install.label>
+  <MissionBoardRC_Frame.label>임무 보드 (건설 중)</MissionBoardRC_Frame.label>
+  <MissionBoardRC_Frame.description>새로운 미션을 찾기 위한 임무보드 입니다.</MissionBoardRC_Frame.description>
+  <CP_WallOfShame.label>수치심의 벽</CP_WallOfShame.label>
+  <CP_WallOfShame.description>군의 전통으로 수치심의 벽에는 파트너를 유혹하는 남자들에게 붙여진 병사의 별칭인 '조디'가 그려져 있다. 때때로 군인들은 친구들의 사진을 장난으로 치부할 가치가 있는 것이 아니라 굴욕으로 치부하기도 합니다.</CP_WallOfShame.description>
+  <CP_WallOfShame_Blueprint.label>수치심의 벽 (청사진)</CP_WallOfShame_Blueprint.label>
+  <CP_WallOfShame_Blueprint_Install.label>수치심의 벽 (청사진)</CP_WallOfShame_Blueprint_Install.label>
+  <CP_WallOfShame_Frame.label>수치심의 벽 (건설 중)</CP_WallOfShame_Frame.label>
+  <CP_WallOfShame_Frame.description>군의 전통으로 수치심의 벽에는 파트너를 유혹하는 남자들에게 붙여진 병사의 별칭인 '조디'가 그려져 있다. 때때로 군인들은 친구들의 사진을 장난으로 치부할 가치가 있는 것이 아니라 굴욕으로 치부하기도 합니다.</CP_WallOfShame_Frame.description>
+  <TacticalDieselGenerator.label>군용 화학연료 발전기</TacticalDieselGenerator.label>
+  <TacticalDieselGenerator.description>화학 연료를 사용해서 전기를 생산합니다. 일반 화학 연료 발전기의 5배를 소비할 수 있으며, 연료는 더 느린 속도로 소비하지만 발전기가 손상되면 폭발 반경이 더 커집니다.</TacticalDieselGenerator.description>
+  <TacticalDieselGenerator_Blueprint.label>군용 화학연료 발전기 (청사진)</TacticalDieselGenerator_Blueprint.label>
+  <TacticalDieselGenerator_Frame.label>군용 화학연료 발전기 (건설 중)</TacticalDieselGenerator_Frame.label>
+  <TacticalDieselGenerator_Frame.description>화학 연료를 사용해서 전기를 생산합니다. 일반 화학 연료 발전기의 5배를 소비할 수 있으며, 연료는 더 느린 속도로 소비하지만 발전기가 손상되면 폭발 반경이 더 커집니다.</TacticalDieselGenerator_Frame.description>
+  <PortableDieselGenerator.label>휴대용 화학연료 발전기</PortableDieselGenerator.label>
+  <PortableDieselGenerator.description>화학 연료를 사용해서 전기를 생산합니다. 작고 휴대가 가능한 전력 공급원입니다만, 수동으로 연료를 공급해야 합니다. 일반 화학연료 발전기보다 더 느린 속도로 연료를 소비합니다.</PortableDieselGenerator.description>
+  <PortableDieselGenerator_Blueprint.label>휴대용 화학연료 발전기 (청사진)</PortableDieselGenerator_Blueprint.label>
+  <PortableDieselGenerator_Blueprint_Install.label>휴대용 화학연료 발전기 (청사진)</PortableDieselGenerator_Blueprint_Install.label>
+  <PortableDieselGenerator_Frame.label>휴대용 화학연료 발전기 (건설 중)</PortableDieselGenerator_Frame.label>
+  <PortableDieselGenerator_Frame.description>화학 연료를 사용해서 전기를 생산합니다. 작고 휴대가 가능한 전력 공급원입니다만, 수동으로 연료를 공급해야 합니다. 일반 화학연료 발전기보다 더 느린 속도로 연료를 소비합니다.</PortableDieselGenerator_Frame.description>
+  <RedPhoneRC.label>붉은 전화</RedPhoneRC.label>
+  <RedPhoneRC.description>지원군을 부르기 위한 붉은 전화입니다.</RedPhoneRC.description>
+  <RedPhoneRC_Blueprint.label>붉은 전화 (청사진)</RedPhoneRC_Blueprint.label>
+  <RedPhoneRC_Blueprint_Install.label>붉은 전화 (청사진)</RedPhoneRC_Blueprint_Install.label>
+  <RedPhoneRC_Frame.label>붉은 전화 (건설 중)</RedPhoneRC_Frame.label>
+  <RedPhoneRC_Frame.description>지원군을 부르기 위한 붉은 전화입니다.</RedPhoneRC_Frame.description>
+  <MilitaryRadioRC.label>군용 라디오</MilitaryRadioRC.label>
+  <MilitaryRadioRC.description>지원군을 부르기 위한 군사용 라디오 입니다. 이 군 통신망은 빗속의 누전으로부터 차폐가 되어 있지만, 붉은 전화보다 더 많은 전력을 소비합니다.</MilitaryRadioRC.description>
+  <MilitaryRadioRC_Blueprint.label>군용 라디오 (청사진)</MilitaryRadioRC_Blueprint.label>
+  <MilitaryRadioRC_Blueprint_Install.label>군용 라디오 (청사진)</MilitaryRadioRC_Blueprint_Install.label>
+  <MilitaryRadioRC_Frame.label>군용 라디오 (건설 중)</MilitaryRadioRC_Frame.label>
+  <MilitaryRadioRC_Frame.description>지원군을 부르기 위한 군사용 라디오 입니다. 이 군 통신망은 빗속의 누전으로부터 차폐가 되어 있지만, 붉은 전화보다 더 많은 전력을 소비합니다.</MilitaryRadioRC_Frame.description>
+  <CP_PortableStove.label>휴대용 난로</CP_PortableStove.label>
+  <CP_PortableStove.description>열을 생산하고, 요리와 도축이 가능한 휴대용 난로. 재보급 가능.</CP_PortableStove.description>
+  <CP_PortableStove_Blueprint.label>휴대용 난로 (청사진)</CP_PortableStove_Blueprint.label>
+  <CP_PortableStove_Blueprint_Install.label>휴대용 난로 (청사진)</CP_PortableStove_Blueprint_Install.label>
+  <CP_PortableStove_Frame.label>휴대용 난로 (건설 중)</CP_PortableStove_Frame.label>
+  <CP_PortableStove_Frame.description>열을 생산하고, 요리와 도축이 가능한 휴대용 난로. 재보급 가능.</CP_PortableStove_Frame.description>
+  <RNVRTraining.label>가상현실 훈련기(아케이드)</RNVRTraining.label>
+  <RNVRTraining.description>몰입도가 높은 VR(가상현실) 경험을 이용해 훈련시키는 기계.</RNVRTraining.description>
+  <RNVRTraining_Blueprint.label>가상현실 훈련기(아케이드) (청사진)</RNVRTraining_Blueprint.label>
+  <RNVRTraining_Blueprint_Install.label>가상현실 훈련기(아케이드) (청사진)</RNVRTraining_Blueprint_Install.label>
+  <RNVRTraining_Frame.label>가상현실 훈련기(아케이드) (건설 중)</RNVRTraining_Frame.label>
+  <RNVRTraining_Frame.description>몰입도가 높은 VR(가상현실) 경험을 이용해 훈련시키는 기계.</RNVRTraining_Frame.description>
+  <RNVRTraining_II.label>가상현실 훈련기(아케이드 II)</RNVRTraining_II.label>
+  <RNVRTraining_II.description>몰입도가 높은 VR(가상현실) 경험을 이용해 훈련시키는 기계.</RNVRTraining_II.description>
+  <RNVRTraining_II_Blueprint.label>가상현실 훈련기(아케이드 II) (청사진)</RNVRTraining_II_Blueprint.label>
+  <RNVRTraining_II_Blueprint_Install.label>가상현실 훈련기(아케이드 II) (청사진)</RNVRTraining_II_Blueprint_Install.label>
+  <RNVRTraining_II_Frame.label>가상현실 훈련기(아케이드 II) (건설 중)</RNVRTraining_II_Frame.label>
+  <RNVRTraining_II_Frame.description>몰입도가 높은 VR(가상현실) 경험을 이용해 훈련시키는 기계.</RNVRTraining_II_Frame.description>
+  <RNVRTraining_Portal.label>가상현실 훈련기 (Arpeture Science)</RNVRTraining_Portal.label>
+  <RNVRTraining_Portal.description>몰입도가 높은 VR(가상현실) 경험을 이용해 훈련시키는 기계. 이 더 발전된 버전은 더 많은 전력을 필요로 하지만, 학습 결과는 현대 버전보다 더 빠릅니다.</RNVRTraining_Portal.description>
+  <RNVRTraining_Portal_Blueprint.label>가상현실 훈련기 (Arpeture Science) (청사진)</RNVRTraining_Portal_Blueprint.label>
+  <RNVRTraining_Portal_Blueprint_Install.label>가상현실 훈련기 (Arpeture Science) (청사진)</RNVRTraining_Portal_Blueprint_Install.label>
+  <RNVRTraining_Portal_Frame.label>가상현실 훈련기 (Arpeture Science) (건설 중)</RNVRTraining_Portal_Frame.label>
+  <RNVRTraining_Portal_Frame.description>몰입도가 높은 VR(가상현실) 경험을 이용해 훈련시키는 기계. 이 더 발전된 버전은 더 많은 전력을 필요로 하지만, 학습 결과는 현대 버전보다 더 빠릅니다.</RNVRTraining_Portal_Frame.description>
+  <RNVendingMachine.label>자판기</RNVendingMachine.label>
+  <RNVendingMachine.description>굿즈용 은화 슬롯이 있는 자판기.</RNVendingMachine.description>
+  <RNVendingMachine_Blueprint.label>자판기 (청사진)</RNVendingMachine_Blueprint.label>
+  <RNVendingMachine_Frame.label>자판기 (건설 중)</RNVendingMachine_Frame.label>
+  <RNVendingMachine_Frame.description>굿즈용 은화 슬롯이 있는 자판기.</RNVendingMachine_Frame.description>
+  <RNVendingMachine_MaxiBuns.label>밀러의 맥시 번 자판기</RNVendingMachine_MaxiBuns.label>
+  <RNVendingMachine_MaxiBuns.description>Diamond Dogs X.O.에 의해 만들어진 자동판매기로, 이보다 더 빠른 패스트 푸드는 없었습니다. 메탈기어를 능가하기 위한  카즈히라 밀러의 무기로, 인터랙티브 오더를 위한 "빅 보스" 캐치프레이즈를 가지고 있으며, 연구 결과에 따르면 이것이 고객의 사기를 향상시킨다고 합니다.</RNVendingMachine_MaxiBuns.description>
+  <RNVendingMachine_MaxiBuns_Blueprint.label>밀러의 맥시 번 자판기 (청사진)</RNVendingMachine_MaxiBuns_Blueprint.label>
+  <RNVendingMachine_MaxiBuns_Frame.label>밀러의 맥시 번 자판기 (건설 중)</RNVendingMachine_MaxiBuns_Frame.label>
+  <RNVendingMachine_MaxiBuns_Frame.description>Diamond Dogs X.O.에 의해 만들어진 자동판매기로, 이보다 더 빠른 패스트 푸드는 없었습니다. 메탈기어를 능가하기 위한  카즈히라 밀러의 무기로, 인터랙티브 오더를 위한 "빅 보스" 캐치프레이즈를 가지고 있으며, 연구 결과에 따르면 이것이 고객의 사기를 향상시킨다고 합니다.</RNVendingMachine_MaxiBuns_Frame.description>
+  <RNVendingMachine_NukaCola.label>누카 콜라 자판기</RNVendingMachine_NukaCola.label>
+  <RNVendingMachine_NukaCola.description>누카 콜라 회사의 자판기. 상큼한 누카 콜라를 뽑을 수 있는 동전 투입구가 있습니다.</RNVendingMachine_NukaCola.description>
+  <RNVendingMachine_NukaCola_Blueprint.label>누카 콜라 자판기 (청사진)</RNVendingMachine_NukaCola_Blueprint.label>
+  <RNVendingMachine_NukaCola_Frame.label>누카 콜라 자판기 (건설 중)</RNVendingMachine_NukaCola_Frame.label>
+  <RNVendingMachine_NukaCola_Frame.description>누카 콜라 회사의 자판기. 상큼한 누카 콜라를 뽑을 수 있는 동전 투입구가 있습니다.</RNVendingMachine_NukaCola_Frame.description>
+  <RNVendingMachine_Surplus.label>여분의 장비 자판기</RNVendingMachine_Surplus.label>
+  <RNVendingMachine_Surplus.description>기본적인 군사적 필요를 위한 여분의 장비 자판기입니다.</RNVendingMachine_Surplus.description>
+  <RNVendingMachine_Surplus_Blueprint.label>여분의 장비 자판기 (청사진)</RNVendingMachine_Surplus_Blueprint.label>
+  <RNVendingMachine_Surplus_Frame.label>여분의 장비 자판기 (건설 중)</RNVendingMachine_Surplus_Frame.label>
+  <RNVendingMachine_Surplus_Frame.description>기본적인 군사적 필요를 위한 여분의 장비 자판기입니다.</RNVendingMachine_Surplus_Frame.description>
+  <RNVendingMachine_Survival.label>전투식량 자판기</RNVendingMachine_Survival.label>
+  <RNVendingMachine_Survival.description>전투식량을 살 수 있는 자판기입니다.</RNVendingMachine_Survival.description>
+  <RNVendingMachine_Survival_Blueprint.label>전투식량 자판기 (청사진)</RNVendingMachine_Survival_Blueprint.label>
+  <RNVendingMachine_Survival_Frame.label>전투식량 자판기 (건설 중)</RNVendingMachine_Survival_Frame.label>
+  <RNVendingMachine_Survival_Frame.description>전투식량을 살 수 있는 자판기입니다.</RNVendingMachine_Survival_Frame.description>
+  <CP_HoboStew.label>호보 스튜</CP_HoboStew.label>
+  <CP_HoboStew.description>멀리건 스튜는 1900년대 초 미국 호보들이 캠프에서 준비했다고 전해지는 음식입니다.</CP_HoboStew.description>
+  <CP_Chips_Salted.label>감자 칩</CP_Chips_Salted.label>
+  <CP_Chips_Salted.description>스낵류인 감자 칩을 만듭니다. 소금이 미리 쳐져 있습니다.</CP_Chips_Salted.description>
+  <CP_Chips_CheeseAndOnion.label>감자 칩 (치즈와 양파)</CP_Chips_CheeseAndOnion.label>
+  <CP_Chips_CheeseAndOnion.description>스낵류인 감자 칩을 만듭니다. 치즈와 양파가 곁들여져 있습니다.</CP_Chips_CheeseAndOnion.description>
+  <CP_Chocolate_DailyMilk.label>초콜렛 (데일리 밀크)</CP_Chocolate_DailyMilk.label>
+  <CP_Chocolate_DailyMilk.description>브래드베리 데일리 밀크는 브래드버리가 제조한 밀크 초콜릿 브랜드 입니다. 데일리 밀크 라인의 모든 제품은 밀크 초콜릿으로 만들어집니다.</CP_Chocolate_DailyMilk.description>
+  <CP_EnergyBar_RiceKrispies.label>에너지 바(라이스 크리스피스)</CP_EnergyBar_RiceKrispies.label>
+  <CP_EnergyBar_RiceKrispies.description>라이스 크리스피스는 에너지 바로 쓸 수 있는 아침 시리얼이다.</CP_EnergyBar_RiceKrispies.description>
+  <CP_Sweets_Harrybos.label>풍선껌 (해리보스)</CP_Sweets_Harrybos.label>
+  <CP_Sweets_Harrybos.description>풍선껌의 대명사, 해리보스 한 통입니다.</CP_Sweets_Harrybos.description>
+  <RNMedicine_IFAK_Multicam.label>IFAK</RNMedicine_IFAK_Multicam.label>
+  <RNMedicine_IFAK_Multicam.description>개인 응급 처치 키트. 산업 시대의 의료 장비 한 세트. 입니다. 기본 약품, 봉합 및 뼈 고정 도구, 진단 장치, 각종 패드와 약을 포함하고 있습니다.</RNMedicine_IFAK_Multicam.description>
+  <RNMedicine_MedicBag.label>위생병 가방</RNMedicine_MedicBag.label>
+  <RNMedicine_MedicBag.description>구급대원을 위한 의료용 가방. 산업 시대의 의료 장비 한 세트. 입니다. 기본 약품, 봉합 및 뼈 설정 도구, 진단 장치, 다양한 패드, 다양한 용액 및 다양한 질병을 다루는 기타 전문 장비가 포함되어 있습니다.</RNMedicine_MedicBag.description>
+  <CP_MaxiCola.label>맥시 콜라</CP_MaxiCola.label>
+  <CP_MaxiCola.description>용병들 사이에서 인기 있는 청량음료로, 카즈히라 밀러가 만들었습니다. 이 음료에는 전투에 매우 효과적인 나노기계가 포함되어 있지만, 이 음료수는 중독성이 매우 강할 수 있습니다. 나노머신들은 과다 복용을 해도 건강에 아무런 위험이 없지만, 일단 배출이 시작되면 그 이득을 잊지 못합니다.</CP_MaxiCola.description>
+  <CP_MaxiCola.ingestible.ingestCommandString>{0} 마시기</CP_MaxiCola.ingestible.ingestCommandString>
+  <CP_MaxiCola.ingestible.ingestReportString>{0} 마시는 중.</CP_MaxiCola.ingestible.ingestReportString>
+  <Maxi_Burger.label>맥시 버거</Maxi_Burger.label>
+  <Maxi_Burger.description>고도로 훈련되고 전문화된 다이아몬드 도그 연구 개발팀과 함께 수년을 보낸 민간 군사기업 개척자 베네딕트 카주히라 밀러가 개발한 맥시 번즈 프랜차이즈 햄버거입니다..</Maxi_Burger.description>
+  <Maxi_Fries.label>맥시 프라이</Maxi_Fries.label>
+  <Maxi_Fries.description>맥시 번의 큰 감자튀김 입니다. 다른 사이즈는 필요 없습니다. 밀러의 맥시 번즈에서 나온 오래된 가족 요리법.</Maxi_Fries.description>
+  <Maxi_Breakfast.label>맥시 조식</Maxi_Breakfast.label>
+  <Maxi_Breakfast.description>빅 보스' 아침, 혹은 '맥시 조식'은 밀러의 '맥시 번즈'의 옛 가족 요리법인 팬케익과 아이스크림으로 구성된 식사입니다.</Maxi_Breakfast.description>
+  <Maxi_Meal.label>맥시 식사</Maxi_Meal.label>
+  <Maxi_Meal.description>전설적인 맥시 버거를 포함한 식사입니다. 유명 식품 평론가 "코드 토커"가 10대 10으로 평가했는데, 이 레시피는 완성되기까지 수년이 걸렸는데, 이 레시피는 맥시 번즈 프랜차이즈의 시작이었습니다.</Maxi_Meal.description>
+  <Maxi_Salad.label>맥시 샐러드</Maxi_Salad.label>
+  <Maxi_Salad.description>"라 파즈 봄바" 또는 맥시 샐러드에는 크로아상자와 신선하고 유기적이며 100% 채식주의 재료가 포함되어 있습니다. 거부권: 이 거부권을 읽는 즉시, 여러분은 맥시 번이 맥시 번 샐러드나 "라 파즈 봄바"에 있을 수 있는 비 장기적인 나노머신과 그 후에 얻은 초인적인 힘에 대해 책임을 지지 않는다는 것에 동의한다. 농담입니다, 인공 재료는 전혀 없어요. 이 샐러드는 네 뱃속에 폭탄처럼 들어 있을 겁니다! 좋은 쪽으로 말이죠..</Maxi_Salad.description>
+  <RN_MRE_Civilian.label>전투식량</RN_MRE_Civilian.label>
+  <RN_MRE_Civilian.description>준비된 식량. 생존 상황에서 사용하기 위해 제조된 고품질 포장 식사입니다. 그것은 결코 썩지 않지만, 밖에 내버려두면 악화될 수 있습니다. 여행할 때 좋습니다.</RN_MRE_Civilian.description>
+  <RN_MRE_British.label>영국군 전투식량</RN_MRE_British.label>
+  <RN_MRE_British.description>준비된 식량. 생존 상황에서 사용하기 위해 제조된 고품질 포장 식사입니다. 그것은 결코 썩지 않지만, 밖에 내버려두면 악화될 수 있습니다. 여행할 때 좋습니다.</RN_MRE_British.description>
+  <RN_MRE_Canadian.label>캐나다군 전투식량</RN_MRE_Canadian.label>
+  <RN_MRE_Canadian.description>준비된 식량. 생존 상황에서 사용하기 위해 제조된 고품질 포장 식사입니다. 그것은 결코 썩지 않지만, 밖에 내버려두면 악화될 수 있습니다. 여행할 때 좋습니다.</RN_MRE_Canadian.description>
+  <RN_MRE_Russian.label>러시아군 전투식량</RN_MRE_Russian.label>
+  <RN_MRE_Russian.description>준비된 식량. 생존 상황에서 사용하기 위해 제조된 고품질 포장 식사입니다. 그것은 결코 썩지 않지만, 밖에 내버려두면 악화될 수 있습니다. 여행할 때 좋습니다.</RN_MRE_Russian.description>
+  <RN_MRE_USArmy.label>미군 전투식량</RN_MRE_USArmy.label>
+  <RN_MRE_USArmy.description>준비된 식량. 생존 상황에서 사용하기 위해 제조된 고품질 포장 식사입니다. 그것은 결코 썩지 않지만, 밖에 내버려두면 악화될 수 있습니다. 여행할 때 좋습니다.</RN_MRE_USArmy.description>
+  <RN_MRE_USMC.label>미해병대 전투식량</RN_MRE_USMC.label>
+  <RN_MRE_USMC.description>준비된 식량. 고급 패키지.. 대체 뭐야? 이럴 순 없어, 이건 음식 같지 않아.</RN_MRE_USMC.description>
+  <CP_NukaCola.label>누카 콜라</CP_NukaCola.label>
+  <CP_NukaCola.description>누카콜라사에서 생산한 누카콜라는 대전 전 세계에서 가장 인기 있는 청량음료였습니다. 전쟁이 끝난 후에도 이 전쟁 전에 가장 좋아했던 많은 병들이 여전히 살아남았고, 누카콜라는 종말론 이후의 세계에서 가장 인기 있는 청량 음료 중 하나로 남아 있습니다.</CP_NukaCola.description>
+  <CP_NukaCola.ingestible.ingestCommandString>{0} 마시기</CP_NukaCola.ingestible.ingestCommandString>
+  <CP_NukaCola.ingestible.ingestReportString>{0} 마시는 중.</CP_NukaCola.ingestible.ingestReportString>
+  <CP_NukaColaQuantum.label>누카 콜라 퀀텀</CP_NukaColaQuantum.label>
+  <CP_NukaColaQuantum.description>누카콜라사에서 생산한 누카콜라는 대전 전 세계에서 가장 인기 있는 청량음료였습니다. 전쟁이 끝난 후에도 이 전쟁 전에 가장 좋아했던 많은 병들이 여전히 살아남았고, 누카콜라는 종말론 이후의 세계에서 가장 인기 있는 청량 음료 중 하나로 남아 있습니다. 2077년, 누카콜라 퀀텀이라는 새로운 버전이 소개되었습니다. 광고에 따르면, 칼로리 두 배, 탄수화물 두 배, 카페인 두 배, 그리고 맛도 두 배였습니다.</CP_NukaColaQuantum.description>
+  <CP_NukaColaQuantum.ingestible.ingestCommandString>{0} 마시기</CP_NukaColaQuantum.ingestible.ingestCommandString>
+  <CP_NukaColaQuantum.ingestible.ingestReportString>{0} 마시는 중.</CP_NukaColaQuantum.ingestible.ingestReportString>
+  <RedHorse_TacticoolRefrigerator.label>전술용 냉장고</RedHorse_TacticoolRefrigerator.label>
+  <RedHorse_TacticoolRefrigerator.description>여기에 저장된 식량은 외부에서도 변질되지 않습니다.</RedHorse_TacticoolRefrigerator.description>
+  <RedHorse_TacticoolRefrigerator_Blueprint.label>전술용 냉장고 (청사진)</RedHorse_TacticoolRefrigerator_Blueprint.label>
+  <RedHorse_TacticoolRefrigerator_Frame.label>전술용 냉장고 (건설 중)</RedHorse_TacticoolRefrigerator_Frame.label>
+  <RedHorse_TacticoolRefrigerator_Frame.description>여기에 저장된 식량은 외부에서도 변질되지 않습니다.</RedHorse_TacticoolRefrigerator_Frame.description>
+  <RedHorse_TacticoolRadio.label>라디오 (택띠껄)</RedHorse_TacticoolRadio.label>
+  <RedHorse_TacticoolRadio.description>강철 의자 인상적인 택티쿨한 라디오입니다.</RedHorse_TacticoolRadio.description>
+  <RedHorse_TacticoolRadio_Blueprint.label>라디오 (택띠껄) (청사진)</RedHorse_TacticoolRadio_Blueprint.label>
+  <RedHorse_TacticoolRadio_Blueprint_Install.label>라디오 (택띠껄) (청사진)</RedHorse_TacticoolRadio_Blueprint_Install.label>
+  <RedHorse_TacticoolRadio_Frame.label>라디오 (택띠껄) (건설 중)</RedHorse_TacticoolRadio_Frame.label>
+  <RedHorse_TacticoolRadio_Frame.description>강철 의자 인상적인 택티쿨한 라디오입니다.</RedHorse_TacticoolRadio_Frame.description>
+  <RedHorse_STALKERRadio.label>라디오 (STALKER)</RedHorse_STALKERRadio.label>
+  <RedHorse_STALKERRadio.description>소련군 탄약통 인상적인 소비에트 라디오입니다.</RedHorse_STALKERRadio.description>
+  <RedHorse_STALKERRadio_Blueprint.label>라디오 (STALKER) (청사진)</RedHorse_STALKERRadio_Blueprint.label>
+  <RedHorse_STALKERRadio_Blueprint_Install.label>라디오 (STALKER) (청사진)</RedHorse_STALKERRadio_Blueprint_Install.label>
+  <RedHorse_STALKERRadio_Frame.label>라디오 (STALKER) (건설 중)</RedHorse_STALKERRadio_Frame.label>
+  <RedHorse_STALKERRadio_Frame.description>소련군 탄약통 인상적인 소비에트 라디오입니다.</RedHorse_STALKERRadio_Frame.description>
+  <RedHorse_PortalRadio.label>라디오 (Portal)</RedHorse_PortalRadio.label>
+  <RedHorse_PortalRadio.description>정육면체의 결합입니다. 인상적인 애퍼처 사이언스의 라디오입니다.</RedHorse_PortalRadio.description>
+  <RedHorse_PortalRadio_Blueprint.label>라디오 (Portal) (청사진)</RedHorse_PortalRadio_Blueprint.label>
+  <RedHorse_PortalRadio_Blueprint_Install.label>라디오 (Portal) (청사진)</RedHorse_PortalRadio_Blueprint_Install.label>
+  <RedHorse_PortalRadio_Frame.label>라디오 (Portal) (건설 중)</RedHorse_PortalRadio_Frame.label>
+  <RedHorse_PortalRadio_Frame.description>정육면체의 결합입니다. 인상적인 애퍼처 사이언스의 라디오입니다.</RedHorse_PortalRadio_Frame.description>
+  <RedHorse_FalloutRadio.label>라디오 (Fallout)</RedHorse_FalloutRadio.label>
+  <RedHorse_FalloutRadio.description>볼트-텍 박스입니다. 인상전인 전쟁 전의 라디오입니다.</RedHorse_FalloutRadio.description>
+  <RedHorse_FalloutRadio_Blueprint.label>라디오 (Fallout) (청사진)</RedHorse_FalloutRadio_Blueprint.label>
+  <RedHorse_FalloutRadio_Blueprint_Install.label>라디오 (Fallout) (청사진)</RedHorse_FalloutRadio_Blueprint_Install.label>
+  <RedHorse_FalloutRadio_Frame.label>라디오 (Fallout) (건설 중)</RedHorse_FalloutRadio_Frame.label>
+  <RedHorse_FalloutRadio_Frame.description>볼트-텍 박스입니다. 인상전인 전쟁 전의 라디오입니다.</RedHorse_FalloutRadio_Frame.description>
+
+</LanguageData>

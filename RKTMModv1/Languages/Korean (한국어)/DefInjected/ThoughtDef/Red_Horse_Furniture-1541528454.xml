@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AteHoboStew.stages.0.label>호보 스튜 먹기</AteHoboStew.stages.0.label>
+  <AteHoboStew.stages.0.description>호보찌개에 들어가는 재료는 많지 않지만, 확실히 맛있어!</AteHoboStew.stages.0.description>
+  <CP_MaxiColaHigh.stages.0.label>맥시 콜라에 취함</CP_MaxiColaHigh.stages.0.label>
+  <CP_MaxiColaHigh.stages.0.description>나노머신들의 아들!</CP_MaxiColaHigh.stages.0.description>
+  <CP_MaxiColaWithdrawal.stages.1.label>맥시 콜라 배출</CP_MaxiColaWithdrawal.stages.1.label>
+  <CP_MaxiColaWithdrawal.stages.1.description>왜 우리가 아직 여기 있지? 맥시 콜라를 마시는 것을 즉시 중단하시겠습니까? 매일 밤 카페인, 설탕, 심지어 나노기계를 느낄 수 있어 잃어버린 몸... 잃은 동지들... 상처는 멈추지 않을 거야... 그들은 모두 아직 거기 있는 것 같아. 너도 느끼잖아, 그렇지?\n</CP_MaxiColaWithdrawal.stages.1.description>
+  <CP_NukaColaHigh.stages.0.label>누카 콜라에 취함.</CP_NukaColaHigh.stages.0.label>
+  <CP_NukaColaHigh.stages.0.description>전쟁은 절대 변하지 않아. 전쟁처럼, 누카콜라는 늘 똑같지!</CP_NukaColaHigh.stages.0.description>
+  <CP_NukaColaWithdrawal.stages.1.label>누카 콜라 배출</CP_NukaColaWithdrawal.stages.1.label>
+  <CP_NukaColaWithdrawal.stages.1.description>전쟁.. 전쟁은 절대 변하지 않아. 그렇지 않아? 혼란스러워. 난 그냥 누카 콜라를 원한다고!</CP_NukaColaWithdrawal.stages.1.description>
+  <CP_NukaColaQuantumHigh.stages.0.label>누카 콜라 퀀텀에 취함.</CP_NukaColaQuantumHigh.stages.0.label>
+  <CP_NukaColaQuantumHigh.stages.0.description>방금 희귀한 누카콜라 퀀텀을 마셨어. 방사능이 느껴져!</CP_NukaColaQuantumHigh.stages.0.description>
+  <CP_NukaColaQuantumWithdrawal.stages.1.label>누카 콜라 퀀텀 배출</CP_NukaColaQuantumWithdrawal.stages.1.label>
+  <CP_NukaColaQuantumWithdrawal.stages.1.description>내가 신비한 낯선 사람을 보고 있는 것일까?! 아! 나를 고치기 위해서 누카콜라 퀀텀이 필요해!</CP_NukaColaQuantumWithdrawal.stages.1.description>
+  <AteMaxiDessert.stages.0.label>맥시 샐러드 섭취</AteMaxiDessert.stages.0.label>
+  <AteMaxiDessert.stages.0.description>바이올린 현을 먹은 것 같아!</AteMaxiDessert.stages.0.description>
+  <AteMaxiBreakfast.stages.0.label>맥시 아침요리 섭취</AteMaxiBreakfast.stages.0.label>
+  <AteMaxiBreakfast.stages.0.description>팬케이크는 전술적인 이점을 전혀 주지 않지만, 그건 멋진 아침 식사였습니다.. 이는 꽤 좋은 점입니다.</AteMaxiBreakfast.stages.0.description>
+  <AteMaxiBucket.stages.0.label>맥시 버킷 섭취</AteMaxiBucket.stages.0.label>
+  <AteMaxiBucket.stages.0.description>하늘에 새가 날아다닌다\n날 위한 후라이드 치킨이 온다...\n\n달콤한 맛을 낸, 맥시 빵:\n내가 살기위해; 먹여줘..\n\n배가 너무 고파..\n여전히 내 영혼이 원하고 있어</AteMaxiBucket.stages.0.description>
+  <AteMaxiMeal.stages.0.label>맥시 요리 섭취</AteMaxiMeal.stages.0.label>
+  <AteMaxiMeal.stages.0.description>밤새 어둠과 적막으로 얼마나 스릴이 넘치던지.. 내가 찾고 있는 게 얼마나 설레는지, 그리고 너에게 녹아버릴 것 같아. 무엇이 내 마음의 두려움인지.. 하지만 넌 정말 최고잖아! 명예를 위해서가 아니라 밀러의 맥시 번 식사를 위해서 내 목숨을 바친다!</AteMaxiMeal.stages.0.description>
+  <AteMaxiBurger.stages.0.label>맥시 버거 섭취</AteMaxiBurger.stages.0.label>
+  <AteMaxiBurger.stages.0.description>햄버거에 대한 욕망이.. 후우우우우우우?!</AteMaxiBurger.stages.0.description>
+  <AteMaxiFries.stages.0.label>맥시 프라이 섭취</AteMaxiFries.stages.0.label>
+  <AteMaxiFries.stages.0.description>메탈기어를 능가하는 감자튀김.</AteMaxiFries.stages.0.description>
+  <AteMaxiSpaghetti.stages.0.label>맥시 스파게티 섭취</AteMaxiSpaghetti.stages.0.label>
+  <AteMaxiSpaghetti.stages.0.description>손바닥에 땀이 나고, 무릎이 약하고, 팔이 무겁다. 보스, 그를 뽑아낼 겁니까? 밀러의 스파게티</AteMaxiSpaghetti.stages.0.description>
+  <AteMaxiSalad.stages.0.label>맥시 샐러드 섭취</AteMaxiSalad.stages.0.label>
+  <AteMaxiSalad.stages.0.description>샐러드... 샐러드는 변화를 담고 있어. 이제는 더 이상 유기농 성분과 비인공적인 맛에 관한 것이 아니야. 맥시 번즈와 자판기가 벌이는 끝없는 대리전이다.</AteMaxiSalad.stages.0.description>
+  <AteMaxiPizza.stages.0.label>맥시 피자 섭취</AteMaxiPizza.stages.0.label>
+  <AteMaxiPizza.stages.0.description>메탈 기어를 능가하는 피자.</AteMaxiPizza.stages.0.description>
+  <AteCivvyMREMeal.stages.0.label>MRE 섭취</AteCivvyMREMeal.stages.0.label>
+  <AteCivvyMREMeal.stages.0.description>이 MRE들은 맛은 좋지만 해병대가 사용하는 MRE가 가장 맛있다고 들었어.</AteCivvyMREMeal.stages.0.description>
+  <AteBritishMREMeal.stages.0.label>영국군 MRE 섭취</AteBritishMREMeal.stages.0.label>
+  <AteBritishMREMeal.stages.0.description>이런, 이게 제대로 된 소린가? 저 피투성이의 양키들과 기름진 크레파스는 그들이 쓰레기를 치우고 있다는 것을 이해할 필요가 있어.\n\n친근하게 느껴지는 마음이야.</AteBritishMREMeal.stages.0.description>
+  <AteCanadianMREMeal.stages.0.label>캐나다군 MRE 섭취</AteCanadianMREMeal.stages.0.label>
+  <AteCanadianMREMeal.stages.0.description>정말 맛있었어, 미국 음식으로 야단법석이 뭔지 모르겠어.\n\n음식 고마워, 좋은 하루 보내.</AteCanadianMREMeal.stages.0.description>
+  <AteRussianMREMeal.stages.0.label>러시아군 MRE 섭취</AteRussianMREMeal.stages.0.label>
+  <AteRussianMREMeal.stages.0.description>슬라브 음식은 항상 양키놈들 음식보단 훌륭하단다, 이것들아.</AteRussianMREMeal.stages.0.description>
+  <AteUSArmyMREMeal.stages.0.label>미군 MRE 섭취</AteUSArmyMREMeal.stages.0.label>
+  <AteUSArmyMREMeal.stages.0.description>군대에서 차우는 아주 괜찮대, 비스킷이 테이블에서 뛰어내려 내 친구를 죽였다고! 후우우아!\n\n난 그저 우리가 해병대가 먹는 이상한 쓰레기를 먹지 않아서 다행이야.</AteUSArmyMREMeal.stages.0.description>
+  <AteUSMCMREMeal.stages.0.label>미군 해병대 MRE 섭취</AteUSMCMREMeal.stages.0.label>
+  <AteUSMCMREMeal.stages.0.description>엄마, 엄마 모르시겠어요? 이 군대가 저에게 어떤 짓을 했는지? 언제나 충성을! 해내지 못하면 죽는다! 우우-라!</AteUSMCMREMeal.stages.0.description>
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1485312620_190617_SYR - Coffee and Tee-->
+  <Luxury.label>사치품 소비</Luxury.label>
+
+  <!--1543060282_181101_Additional Joy Objects-->
+  <AJO_Passive.label>캐주얼 오락</AJO_Passive.label>
+  <AJO_Study.label>공부</AJO_Study.label>
+
+  <!--1549446374_190519_Musical Instruments-->
+  <Music.label>음악 감상</Music.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <PrayingKind.label>기도</PrayingKind.label>
+
+  <!--717575199_190626_Misc. Training-->
+  <Gaming_MartialArts.label>무술</Gaming_MartialArts.label>
+  <Gaming_Shooting.label>사격</Gaming_Shooting.label>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Worship.label>예배</Worship.label>
+
+</LanguageData>

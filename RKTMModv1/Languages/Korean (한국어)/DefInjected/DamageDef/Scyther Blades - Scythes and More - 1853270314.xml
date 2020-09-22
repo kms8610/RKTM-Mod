@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ToxicRip.label>독성 베기</ToxicRip.label>
+  <ToxicRip.deathMessage>{0}(은)는 잘려죽었습니다.</ToxicRip.deathMessage>
+
+</LanguageData>

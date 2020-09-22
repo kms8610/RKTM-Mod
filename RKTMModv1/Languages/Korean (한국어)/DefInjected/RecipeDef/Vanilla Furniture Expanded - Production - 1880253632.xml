@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_CookBulkSimple.label>간단한 식사 준비 (x3)</VFE_CookBulkSimple.label>
+  <VFE_CookBulkSimple.description>한 가지 재료로 만든 세 끼의 간단하고 쉬운 요리입니다.</VFE_CookBulkSimple.description>
+  <VFE_CookBulkSimple.jobString>간단한 식사 조리 중.</VFE_CookBulkSimple.jobString>
+  <VFE_CookBulkFine.label>좋은 식사 준비 (x3)</VFE_CookBulkFine.label>
+  <VFE_CookBulkFine.description>야채나 과일과 고기를 사용해 만든 세 끼의 다소 복잡한 요리입니다.</VFE_CookBulkFine.description>
+  <VFE_CookBulkFine.jobString>좋은 식사 조리 중.</VFE_CookBulkFine.jobString>
+  <VFE_CookBulkLavish.label>호화로운 식사 준비 (x3)</VFE_CookBulkLavish.label>
+  <VFE_CookBulkLavish.description>육류와 식물성 재료를 사용해 매우 복잡하게 조리한 세 끼의 요리입니다. 사용하는 식재료의 대부분이 낭비됩니다.</VFE_CookBulkLavish.description>
+  <VFE_CookBulkLavish.jobString>호화로운 식사 조리 중.</VFE_CookBulkLavish.jobString>
+  <VFE_CookBulkSurvival.label>보존 식량 만들기 (x3)</VFE_CookBulkSurvival.label>
+  <VFE_CookBulkSurvival.description>육류와 식물성 재료를 사용해 포장된 보존 식량을 3개 만듭니다. 약간의 식재료가 낭비됩니다.</VFE_CookBulkSurvival.description>
+  <VFE_CookBulkSurvival.jobString>보존 식량 조리 중.</VFE_CookBulkSurvival.jobString>
+
+</LanguageData>

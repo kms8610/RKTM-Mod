@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimWriter_MakeJournalAtTypewriter.label>타자기로 학술지 저술하기</RimWriter_MakeJournalAtTypewriter.label>
+  <RimWriter_MakeJournalAtTypewriter.description>종이나 양피지 같은 납작한 문구류를 하나로 묶는 작업입니다. 타자기로 타이핑해서 학술지를 작성합니다.\n학술지는 소설적인 요소를 가질 수 있는 책과는 달리, 사건이나 연구에 대한 구체적인 설명을 담고 있습니다.</RimWriter_MakeJournalAtTypewriter.description>
+  <RimWriter_MakeJournalAtTypewriter.jobString>학술지 저술 중.</RimWriter_MakeJournalAtTypewriter.jobString>
+  <RimWriter_MakeBookAtTypewriter.label>타자기로 책 저술하기</RimWriter_MakeBookAtTypewriter.label>
+  <RimWriter_MakeBookAtTypewriter.description>종이나 양피지 같은 납작한 문구류를 하나로 묶는 작업입니다. 타자기로 타이핑해서 책을 작성합니다.</RimWriter_MakeBookAtTypewriter.description>
+  <RimWriter_MakeBookAtTypewriter.jobString>책 저술 중.</RimWriter_MakeBookAtTypewriter.jobString>
+  <RimWriter_MakeJournalAtTable.label>책상에서 학술지 저술하기</RimWriter_MakeJournalAtTable.label>
+  <RimWriter_MakeJournalAtTable.description>종이나 양피지 같은 납작한 문구류를 하나로 묶는 작업입니다. 책상에서 잉크로 학술지를 작성합니다.\n학술지는 소설적인 요소를 가질 수 있는 책과는 달리, 사건이나 연구에 대한 구체적인 설명을 담고 있습니다.</RimWriter_MakeJournalAtTable.description>
+  <RimWriter_MakeJournalAtTable.jobString>학술지 저술 중.</RimWriter_MakeJournalAtTable.jobString>
+  <RimWriter_MakeBookAtTable.label>책상에서 책 저술하기</RimWriter_MakeBookAtTable.label>
+  <RimWriter_MakeBookAtTable.description>종이나 양피지 같은 납작한 문구류를 하나로 묶는 작업입니다. 책상에서 잉크로 책을 작성합니다.</RimWriter_MakeBookAtTable.description>
+  <RimWriter_MakeBookAtTable.jobString>책 저술 중.</RimWriter_MakeBookAtTable.jobString>
+  <RimWriter_MakeJournalByHand.label>손으로 학술지 저술하기</RimWriter_MakeJournalByHand.label>
+  <RimWriter_MakeJournalByHand.description>종이나 양피지 같은 납작한 문구류를 하나로 묶는 작업입니다. 제작장소에서 손으로 학술지를 작성합니다.\n학술지는 소설적인 요소를 가질 수 있는 책과는 달리, 사건이나 연구에 대한 구체적인 설명을 담고 있습니다.</RimWriter_MakeJournalByHand.description>
+  <RimWriter_MakeJournalByHand.jobString>학술지 저술 중.</RimWriter_MakeJournalByHand.jobString>
+  <RimWriter_MakeBook.label>손으로 책 저술하기</RimWriter_MakeBook.label>
+  <RimWriter_MakeBook.description>종이나 양피지 같은 납작한 문구류를 하나로 묶는 작업입니다. 제작장소에서 손으로 책을 작성합니다.</RimWriter_MakeBook.description>
+  <RimWriter_MakeBook.jobString>책 저술 중.</RimWriter_MakeBook.jobString>
+  <RimWriter_BurnBooks.label>책 태우기</RimWriter_BurnBooks.label>
+  <RimWriter_BurnBooks.description>불필요한 책을 논란 없이 태워 없애버립니다.</RimWriter_BurnBooks.description>
+  <RimWriter_BurnBooks.jobString>책 태우는 중.</RimWriter_BurnBooks.jobString>
+  <RimWriter_BurnScrolls.label>두루마리 태우기</RimWriter_BurnScrolls.label>
+  <RimWriter_BurnScrolls.description>불필요한 두루마리를 논란 없이 태워 없애버립니다.</RimWriter_BurnScrolls.description>
+  <RimWriter_BurnScrolls.jobString>두루마리 태우는 중.</RimWriter_BurnScrolls.jobString>
+  <RimWriter_MakePageFast.label>제지작업대에서 종이 100장 만들기</RimWriter_MakePageFast.label>
+  <RimWriter_MakePageFast.description>목재로 종이 100장을 만듭니다.</RimWriter_MakePageFast.description>
+  <RimWriter_MakePageFast.jobString>종이 만드는 중.</RimWriter_MakePageFast.jobString>
+  <RimWriter_MakePage.label>제지작업대에서 종이 100장 만들기</RimWriter_MakePage.label>
+  <RimWriter_MakePage.description>목재로 종이 100장을 만듭니다.</RimWriter_MakePage.description>
+  <RimWriter_MakePage.jobString>종이 만드는 중.</RimWriter_MakePage.jobString>
+  <RimWriter_MakeParchmentFast.label>제지작업대에서 양피지 100장 만들기</RimWriter_MakeParchmentFast.label>
+  <RimWriter_MakeParchmentFast.description>가죽으로 양피지 100장을 만듭니다.</RimWriter_MakeParchmentFast.description>
+  <RimWriter_MakeParchmentFast.jobString>양피지 만드는 중.</RimWriter_MakeParchmentFast.jobString>
+  <RimWriter_MakeParchment.label>제지작업대에서 양피지 100장 만들기</RimWriter_MakeParchment.label>
+  <RimWriter_MakeParchment.description>가죽으로 양피지 100장을 만듭니다.</RimWriter_MakeParchment.description>
+  <RimWriter_MakeParchment.jobString>양피지 만드는 중.</RimWriter_MakeParchment.jobString>
+  <RimWriter_MakeClothPaperFast.label>제지작업대에서 천 종이 100장 만들기</RimWriter_MakeClothPaperFast.label>
+  <RimWriter_MakeClothPaperFast.description>옷감으로 천 종이 100장을 만듭니다.</RimWriter_MakeClothPaperFast.description>
+  <RimWriter_MakeClothPaperFast.jobString>천 종이 만드는 중.</RimWriter_MakeClothPaperFast.jobString>
+  <RimWriter_MakeClothPaper.label>제지작업대에서 천 종이 100장 만들기</RimWriter_MakeClothPaper.label>
+  <RimWriter_MakeClothPaper.description>옷감으로 천 종이 100장을 만듭니다.</RimWriter_MakeClothPaper.description>
+  <RimWriter_MakeClothPaper.jobString>천 종이 만드는 중.</RimWriter_MakeClothPaper.jobString>
+
+</LanguageData>

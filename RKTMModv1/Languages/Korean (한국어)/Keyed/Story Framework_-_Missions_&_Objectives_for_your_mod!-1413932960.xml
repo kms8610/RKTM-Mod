@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PawnList_SMO>다음과 같은 정착지 거주민들은 이 목표를 달성할 수 있습니다.\n\n{0}</PawnList_SMO>
+  <PawnListEmpty_SMO>현재 이 목적을 달성할 수 있는 거주민들이 없습니다. 적어도 한 명은 있어야 합니다:\n{0}</PawnListEmpty_SMO>
+  <Stations_SMO>이 목표에 가장 적합한 정착지는 다음과 같습니다: {0} \n그러나 다음과 같은 정착지도 사용할 수 있습니다:</Stations_SMO>
+  <SkillRequirementsInfo_SMO>이 목표는 적어도 당신의 정착민 중에서 한 명이, 하나 이상의 특정 기술을 갖추도록 요구합니다:</SkillRequirementsInfo_SMO>
+  <ExtraStations_SMO>당신은 다른 정착지도 목적을 위해 사용할 수 있습니다: {0}</ExtraStations_SMO>
+  <MissionTimer_SMO>타이머</MissionTimer_SMO>
+  <InfoCard_SMO>목표에 대한 자세한 정보를 얻습니다.</InfoCard_SMO>
+  <WorkAmount_SMO>남은 작업</WorkAmount_SMO>
+  <Timer_SMO>남은 시간</Timer_SMO>
+  <Item_SMO>아이템</Item_SMO>
+  <Chance_SMO>기회</Chance_SMO>
+  <LockedSettingsToolTip_SMO>잠긴 미션을 '미션' 탭에서 볼 것인지 여부를 선택합니다.</LockedSettingsToolTip_SMO>
+  <LockedSettings_SMO>잠긴 미션 표시</LockedSettings_SMO>
+  <Locked_SMO>잠긴 미션</Locked_SMO>
+  <Settings_SMO>설정</Settings_SMO>
+  <ShowExtraInfo_SMO>추가 정보 표시</ShowExtraInfo_SMO>
+  <ShowExtraInfoToolTip_SMO>현재 선택된 임무와 목표에 대한 추가 정보를 오른쪽에 표시할지 여부를 선택합니다.</ShowExtraInfoToolTip_SMO>
+  <TimerAlertMinHours_SMO>타이머 경고 임계값</TimerAlertMinHours_SMO>
+  <TimerAlert_SMO>시간이 없어요!</TimerAlert_SMO>
+  <TimerAlertDesc_SMO>타이머가 다 끝나 가고 있습니다:\n{0}</TimerAlertDesc_SMO>
+  <Mission_SMO>미션 {0}(을)를 실패하면</Mission_SMO>
+  <Objective_SMO>목표 {0}(을)를 실패하면</Objective_SMO>
+  <MissionFailed_SMO>미션 {0}: 실패됨.</MissionFailed_SMO>
+  <ObjectiveFailed_SMO>목표 {0}: 실패됨.</ObjectiveFailed_SMO>
+  <FailCon_ObjectiveFail>이 목표를 실패했습니다</FailCon_ObjectiveFail>
+  <FailCon_ObjectiveDone>이 목표를 수행합니다</FailCon_ObjectiveDone>
+  <FailCon_MissionFail>이 미션을 실패했습니다</FailCon_MissionFail>
+  <FailCon_MissionDone>이 미션을 수행합니다</FailCon_MissionDone>
+  <FailCon_DeadColonists>정착민을 잃었습니다</FailCon_DeadColonists>
+  <FailCon_Targets>물건들을 잃어버렸습니다</FailCon_Targets>
+  <FailCon_TargetsAny>물건들을 모두 잃어버렸습니다</FailCon_TargetsAny>
+  <ScenPart_SMO>다음과 같은 미션들로 시작합니다</ScenPart_SMO>
+  <LockedMissions_SMO>잠긴 미션</LockedMissions_SMO>
+  <UnlockedMissions_SMO>미션 시작</UnlockedMissions_SMO>
+  <FinishedMissions_SMO>완료된 미션</FinishedMissions_SMO>
+  <ReachTravel_SMO>목적지에 도착했습니다.</ReachTravel_SMO>
+  <ExploreTravel_SMO>지정된 지도를 탐색합니다.</ExploreTravel_SMO>
+  <TradeTravel_SMO>지정된 세력과 거래합니다.</TradeTravel_SMO>
+  <RaidTravel_SMO>지정된 세력을 습격합니다.</RaidTravel_SMO>
+  <TradeBuy_SMO>{0}개 이상의 은으로 구입합니다.</TradeBuy_SMO>
+  <TradeSell_SMO>{0}개 이상의 은으로 판매합니다.</TradeSell_SMO>
+  <TravelDistance_SMO>최소 거리: {0} 타일</TravelDistance_SMO>
+  <TravelDestination_SMO>불림</TravelDestination_SMO>
+  <TileBiome_SMO>기후</TileBiome_SMO>
+  <TileA_SMO>와 함께</TileA_SMO>
+  <Tile_SMO>와 함께</Tile_SMO>
+  <MissionInfoMain_SMO>{0}(은)는 현재 잠겨 있으며 먼저 몇 가지 조건을 충족해야 합니다.</MissionInfoMain_SMO>
+  <MissionInfoMainAny_SMO>{0}(은)는 현재 잠겨 있으며 먼저 다음과 같은 조건 중 하나를 충족해야 합니다.</MissionInfoMainAny_SMO>
+  <MissionInfoResearch_SMO>목록에 있는 모든 연구 프로젝트를 끝내세요</MissionInfoResearch_SMO>
+  <MissionInfoResearchAny_SMO>목록에 있는 연구 프로젝트 중 하나를 끝내세요</MissionInfoResearchAny_SMO>
+  <MissionInfoMissions_SMO>목록에 있는 모든 미션을 끝내세요</MissionInfoMissions_SMO>
+  <MissionInfoMissionsAny_SMO>목록에 있는 미션 중 하나를 끝내세요</MissionInfoMissionsAny_SMO>
+  <MissionInfoObjectives_SMO>목록에 있는 모든 목표를 끝내세요</MissionInfoObjectives_SMO>
+  <MissionInfoObjectivesAny_SMO>목록에 있는 목표 중 하나를 끝내세요</MissionInfoObjectivesAny_SMO>
+  <MissionInfoThings_SMO>목록에 있는 모든 항목을 소유하세요</MissionInfoThings_SMO>
+  <MissionInfoThingsAny_SMO>목록에 있는 항목 중 하나를 소유하세요</MissionInfoThingsAny_SMO>
+  <MissionInfoJobs_SMO>추가적으로, 폰이 필요합니다.</MissionInfoJobs_SMO>
+  <ThingValueInfo_SMO>양:	{0}\n재료:	{1}\n품질:	{2}</ThingValueInfo_SMO>
+  <Any_SMO>아무나</Any_SMO>
+  <AnyPawn_SMO>폰들</AnyPawn_SMO>
+  <SkillReq_SMO>사용 가능한 폰</SkillReq_SMO>
+  <SkillReqPlural_SMO>사용 가능한 폰들</SkillReqPlural_SMO>
+  <ReqResearch_SMO>요구됨</ReqResearch_SMO>
+  <ReqConstructOrCraft_SMO>설명된 대상을 건설하세요.</ReqConstructOrCraft_SMO>
+  <ReqConstructOrCraftAny_SMO>설명된 대상 중 하나를 건설하세요.</ReqConstructOrCraftAny_SMO>
+  <ReqConstructOrCraftPlural_SMO>여러 가지를 건설하세요.</ReqConstructOrCraftPlural_SMO>
+  <ReqOwn_SMO>설명된 아이템 중 하나를 소유하세요.</ReqOwn_SMO>
+  <ReqOwnPlural_SMO>여러 아이템을 소유하세요.</ReqOwnPlural_SMO>
+  <ReqDestroy_SMO>설명된 것들 중 하나를 파괴하세요.</ReqDestroy_SMO>
+  <ReqDestroyPlural_SMO>설명된 모든 것을 파괴하세요.</ReqDestroyPlural_SMO>
+  <ReqKill_SMO>설명된 존재 중 하나를 죽이세요.</ReqKill_SMO>
+  <ReqKillPlural_SMO>설명된 모든 존재들을 죽이세요.</ReqKillPlural_SMO>
+  <ReqWait_Label_SMO>타이머가 떨어질 때까지 기다리세요.</ReqWait_Label_SMO>
+  <ReqRecruit_SMO>설명된 폰을 모집하세요.</ReqRecruit_SMO>
+  <ReqRecruitAny_SMO>설명된 폰 중 하나를 모집하세요.</ReqRecruitAny_SMO>
+  <ReqTravelReach_SMO>지정된 목적지에 도달하세요.</ReqTravelReach_SMO>
+  <ReqTravelExplore_SMO>새로운 지도를 탐색하세요.</ReqTravelExplore_SMO>
+  <ReqTravelRaid_SMO>하나 이상의 세력을 습격하세요.</ReqTravelRaid_SMO>
+  <ReqTravelTrade_SMO>하나 이상의 진영과 거래하세요.</ReqTravelTrade_SMO>
+  <CompletedRewards_SMO>완료 보상</CompletedRewards_SMO>
+  <FailedRewards_SMO>실패 보상</FailedRewards_SMO>
+  <Missions_SMO>미션</Missions_SMO>
+  <Themes_SMO>테마</Themes_SMO>
+  <MissionAlert_SMO>새로운 미션!</MissionAlert_SMO>
+  <MissionAlertDesc_SMO>새로운 미션을 할 수 있습니다.\n\n미션 탭에서 확인하세요!</MissionAlertDesc_SMO>
+  <FinishedObjective_SMO>완료한 목표</FinishedObjective_SMO>
+  <FailedObjective_SMO>실패한 목표</FailedObjective_SMO>
+  <FinishedMission_SMO>완료한 미션</FinishedMission_SMO>
+  <FailedMission_SMO>실패한 미션</FailedMission_SMO>
+  <AnyStuff_SMO>물건</AnyStuff_SMO>
+  <ThingSettingsConstructOrCraft_SMO>다음과 같은 특징을 가진 아이템을 만들 필요가 있습니다.</ThingSettingsConstructOrCraft_SMO>
+  <ThingSettingsMapCheck_SMO>지도에서 다음과 같은 특징을 가진 아이템이 필요합니다.</ThingSettingsMapCheck_SMO>
+  <ThingSettingsOwn_SMO>다음과 같은 특징을 가진 아이템을 소유해야 합니다.</ThingSettingsOwn_SMO>
+  <ThingSettingsDestroy_SMO>다음과 같은 특징을 가진 아이템을 파괴해야 합니다.</ThingSettingsDestroy_SMO>
+  <ThingSettingsStuff_SMO>재료 구성: {0}</ThingSettingsStuff_SMO>
+  <ThingSettingsQuality_SMO>최소 품질: {0}</ThingSettingsQuality_SMO>
+  <PawnSettingsMapCheck_SMO>지도에 다음과 같은 특징이 있는 폰이 필요합니다.</PawnSettingsMapCheck_SMO>
+  <PawnSettingsKill_SMO>다음과 같은 특징으로 폰을 죽여야 합니다.</PawnSettingsKill_SMO>
+  <PawnSettingsRecruit_SMO>다음과 같은 특징을 가진 폰을 모집해야 합니다.</PawnSettingsRecruit_SMO>
+  <PawnSettingsKind_SMO>종족: {0}</PawnSettingsKind_SMO>
+  <PawnSettingsFaction_SMO>출신 세력: {0}</PawnSettingsFaction_SMO>
+  <PawnSettingsGender_SMO>성별: {0}</PawnSettingsGender_SMO>
+  <MapCheckCount_SMO>현재 개수: {0}</MapCheckCount_SMO>
+  <BarInput_SMO>목표에 대한 현재 지도를 확인하려면 여기를 클릭하세요.</BarInput_SMO>
+  <ObjectiveJob_SMO>현재 작업 중</ObjectiveJob_SMO>
+  <ConstructOrCraft_SMO>이 목표는 다음과 같은 구조물과 아이템을 구성해야 합니다.</ConstructOrCraft_SMO>
+  <ConstructOrCraftAny_SMO>이 목적을 위해서는 다음과 같은 구조물과 아이템을 구성해야 합니다.</ConstructOrCraftAny_SMO>
+  <Destroy_SMO>이 목적을 위해서는 다음과 같은 구조물과 아이템을 파괴해야 합니다.</Destroy_SMO>
+  <DestroyAny_SMO>이 목적을 위해서는 다음과 같은 구조물과 아이템 중 하나를 파괴해야 합니다.</DestroyAny_SMO>
+  <Kill_SMO>이 목적을 위해서는 다음과 같은 생물과 사람을 죽여야 합니다.</Kill_SMO>
+  <KillAny_SMO>이 목적을 위해서는 다음과 같은 생물과 사람 중 한명을 죽여야 합니다.</KillAny_SMO>
+  <Own_SMO>이 목적을 위해서는 다음과 같은 물건을 소지해야 합니다.</Own_SMO>
+  <MapCheck_SMO>이 목적을 위해서는 지도에 특정한 물건이나 폰을 가지고 있어야 합니다.</MapCheck_SMO>
+  <OwnAny_SMO>이 목적을 위해서는 다음과 같은 물건 중 하나를 소유해야 합니다.</OwnAny_SMO>
+  <Recruit_SMO>이 목적을 위해서는 다음과 같은 사람을 소집해야 합니다.</Recruit_SMO>
+  <RecruitAny_SMO>이 목적을 위해서는 다음과 같은 사람 중 한 명을 소집해야 합니다.</RecruitAny_SMO>
+  <Research_SMO></Research_SMO>
+  <OType_SMO>목표 종류</OType_SMO>
+  <Wait_Label>대기</Wait_Label>
+  <ConstructOrCraft_Label>건설</ConstructOrCraft_Label>
+  <Destroy_Label>파괴</Destroy_Label>
+  <Kill_Label>살해</Kill_Label>
+  <Own_Label>소유</Own_Label>
+  <MapCheck_Label>지도 확인</MapCheck_Label>
+  <Recruit_Label>모집</Recruit_Label>
+  <Research_Label>연구</Research_Label>
+  <Travel_Label>여행</Travel_Label>
+  <None_Label>없음</None_Label>
+  <Raid_SMO>습격이 왔습니다!</Raid_SMO>
+  <RaidDesc_SMO>당신의 지도에 습격이 왔습니다. 그들이 보유한 항목:\n{0}</RaidDesc_SMO>
+  <OState_SMO>목표 상태</OState_SMO>
+  <Active_SMO>활성화</Active_SMO>
+  <Inactive_SMO>비활성화</Inactive_SMO>
+  <Finished_SMO>완료함</Finished_SMO>
+  <Failed_SMO>실패함</Failed_SMO>
+  <Reward_SMO>보상!</Reward_SMO>
+  <RewardDesc_SMO>{0}(을)를 완료 한 것에 대한 보상을 받았습니다!</RewardDesc_SMO>
+  <StartingItems_SMO>시작 아이템!</StartingItems_SMO>
+  <StartingItemsDesc_SMO>{0}에 대한 시작 아이템을 받았습니다!</StartingItemsDesc_SMO>
+  <Appear_SMO>뭔가가 나타났습니다!</Appear_SMO>
+  <AppearDesc_SMO>{0}(이)가 지도에 표시되었습니다!</AppearDesc_SMO>
+  <AppearPlural_SMO>일이 생겼습니다!</AppearPlural_SMO>
+  <AppearDescPlural_SMO>당신의 지도에 물건들의 목록이 나타났습니다!</AppearDescPlural_SMO>
+  <Skyfaller_SMO>물체 충돌!</Skyfaller_SMO>
+  <SkyfallerPlural_SMO>물체가 충돌하고 있습니다!</SkyfallerPlural_SMO>
+  <SkyfallerDesc_SMO>{0}(이)가 하늘에서 떨어졌습니다!</SkyfallerDesc_SMO>
+  <SkyfallerDescPlural_SMO>여러 물체가 하늘에서 떨어졌습니다!</SkyfallerDescPlural_SMO>
+  <ResearchIncident_SMO>연구 해금!</ResearchIncident_SMO>
+  <ResearchIncidentDesc_SMO>다음 연구 프로젝트가 해금되었습니다:\n{0}</ResearchIncidentDesc_SMO>
+
+</LanguageData>

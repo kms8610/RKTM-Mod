@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Oven.label>오븐</Oven.label>
+  <Oven.description>베이킹 요리를 할 수 있는 오븐입니다.</Oven.description>
+  <Oven_Blueprint.label>오븐 (청사진)</Oven_Blueprint.label>
+  <Oven_Blueprint_Install.label>오븐 (청사진)</Oven_Blueprint_Install.label>
+  <Oven_Frame.label>오븐 (건설 중)</Oven_Frame.label>
+  <Oven_Frame.description>베이킹 요리를 할 수 있는 오븐입니다.</Oven_Frame.description>
+  <ElectricOven.label>전기 오븐</ElectricOven.label>
+  <ElectricOven.description>베이킹 요리를 할 수 있는 전기 오븐입니다.</ElectricOven.description>
+  <ElectricOven_Blueprint.label>전기 오븐 (청사진)</ElectricOven_Blueprint.label>
+  <ElectricOven_Blueprint_Install.label>전기 오븐 (청사진)</ElectricOven_Blueprint_Install.label>
+  <ElectricOven_Frame.label>전기 오븐 (건설 중)</ElectricOven_Frame.label>
+  <ElectricOven_Frame.description>베이킹 요리를 할 수 있는 전기 오븐입니다.</ElectricOven_Frame.description>
+  <HandCanningstove.label>식료 가공대</HandCanningstove.label>
+  <HandCanningstove.description>각종 식자재를 가공 할 수 있는 조리대입니다. 전기 식료 가공대에 비해 40％ 감소된 작업 효율을 보입니다.</HandCanningstove.description>
+  <HandCanningstove_Blueprint.label>식료 가공대 (청사진)</HandCanningstove_Blueprint.label>
+  <HandCanningstove_Blueprint_Install.label>식료 가공대 (청사진)</HandCanningstove_Blueprint_Install.label>
+  <HandCanningstove_Frame.label>식료 가공대 (건설 중)</HandCanningstove_Frame.label>
+  <HandCanningstove_Frame.description>각종 식자재를 가공 할 수 있는 조리대입니다. 전기 식료 가공대에 비해 40％ 감소된 작업 효율을 보입니다.</HandCanningstove_Frame.description>
+  <Canningstove.label>전기 식료 가공대</Canningstove.label>
+  <Canningstove.description>전기를 사용하여 각종 식자재를 가공 할 수 있는 조리대입니다.</Canningstove.description>
+  <Canningstove_Blueprint.label>전기 식료 가공대 (청사진)</Canningstove_Blueprint.label>
+  <Canningstove_Blueprint_Install.label>전기 식료 가공대 (청사진)</Canningstove_Blueprint_Install.label>
+  <Canningstove_Frame.label>전기 식료 가공대 (건설 중)</Canningstove_Frame.label>
+  <Canningstove_Frame.description>전기를 사용하여 각종 식자재를 가공 할 수 있는 조리대입니다.</Canningstove_Frame.description>
+  <FueledCandyTable.label>사탕 제조대</FueledCandyTable.label>
+  <FueledCandyTable.description>맛있는 간식을 만들어 보세요.</FueledCandyTable.description>
+  <FueledCandyTable_Blueprint.label>사탕 제조대 (청사진)</FueledCandyTable_Blueprint.label>
+  <FueledCandyTable_Blueprint_Install.label>사탕 제조대 (청사진)</FueledCandyTable_Blueprint_Install.label>
+  <FueledCandyTable_Frame.label>사탕 제조대 (건설 중)</FueledCandyTable_Frame.label>
+  <FueledCandyTable_Frame.description>맛있는 간식을 만들어 보세요.</FueledCandyTable_Frame.description>
+  <CandyTable.label>전기 사탕 제조대</CandyTable.label>
+  <CandyTable.description>맛있는 간식을 만들어 보세요.</CandyTable.description>
+  <CandyTable_Blueprint.label>전기 사탕 제조대 (청사진)</CandyTable_Blueprint.label>
+  <CandyTable_Blueprint_Install.label>전기 사탕 제조대 (청사진)</CandyTable_Blueprint_Install.label>
+  <CandyTable_Frame.label>전기 사탕 제조대 (건설 중)</CandyTable_Frame.label>
+  <CandyTable_Frame.description>맛있는 간식을 만들어보아요.</CandyTable_Frame.description>
+  <CookingTools.label>조리 도구</CookingTools.label>
+  <CookingTools.description>작업 속도를 14％ 향상시킵니다. 조리기구 근처에 놓아보세요. 근처에 있는 조리기구의 작업능률을 높여줍니다.</CookingTools.description>
+  <CookingTools_Blueprint.label>조리 도구 (청사진)</CookingTools_Blueprint.label>
+  <CookingTools_Blueprint_Install.label>조리 도구 (청사진)</CookingTools_Blueprint_Install.label>
+  <CookingTools_Frame.label>조리 도구 (건설 중)</CookingTools_Frame.label>
+  <CookingTools_Frame.description>작업 속도를 14％ 향상시킵니다. 조리기구 근처에 놓아보세요. 근처에 있는 조리기구의 작업능률을 높여줍니다.</CookingTools_Frame.description>
+  <GrindStone.label>맷돌</GrindStone.label>
+  <GrindStone.description>작은 돌덩이지만 식재료를 갈아내는 힘은 일품입니다.</GrindStone.description>
+  <GrindStone_Blueprint.label>맷돌 (청사진)</GrindStone_Blueprint.label>
+  <GrindStone_Blueprint_Install.label>맷돌 (청사진)</GrindStone_Blueprint_Install.label>
+  <GrindStone_Frame.label>맷돌 (건설 중)</GrindStone_Frame.label>
+  <GrindStone_Frame.description>작은 돌덩이지만 식재료를 갈아내는 힘은 일품입니다.</GrindStone_Frame.description>
+  <ElectricGrindStone.label>전기 맷돌</ElectricGrindStone.label>
+  <ElectricGrindStone.description>작은 돌덩이지만 전기의 힘으로 작물들을 빠르게 갈아버립니다.</ElectricGrindStone.description>
+  <ElectricGrindStone_Blueprint.label>전기 맷돌 (청사진)</ElectricGrindStone_Blueprint.label>
+  <ElectricGrindStone_Blueprint_Install.label>전기 맷돌 (청사진)</ElectricGrindStone_Blueprint_Install.label>
+  <ElectricGrindStone_Frame.label>전기 맷돌 (건설 중)</ElectricGrindStone_Frame.label>
+  <ElectricGrindStone_Frame.description>작은 돌덩이지만 전기의 힘으로 작물들을 빠르게 갈아버립니다.</ElectricGrindStone_Frame.description>
+  <MineableSalt.label>암염</MineableSalt.label>
+  <MineableSalt.description>시간이 흐를수록 굳어졌습니다.</MineableSalt.description>
+  <ChunkSalt.label>소금</ChunkSalt.label>
+  <ChunkSalt.description>소금은 식품 보존에 사용됩니다.</ChunkSalt.description>
+  <VG_SaltMine.label>암염갱</VG_SaltMine.label>
+  <VG_SaltMine.description>소금을 파내기 위한 장소로 거친 바닥에 설치하세요.</VG_SaltMine.description>
+  <VG_SaltMine_Blueprint.label>암염갱 (청사진)</VG_SaltMine_Blueprint.label>
+  <VG_SaltMine_Frame.label>암염갱 (건설중)</VG_SaltMine_Frame.label>
+  <VG_SaltMine_Frame.description>소금을 파내기 위한 장소로 거친 바닥에 설치하세요.</VG_SaltMine_Frame.description>
+  <Plantwheat.label>밀</Plantwheat.label>
+  <Plantwheat.description>밀은 곡물가루로 만들 수 있는 곡물입니다.</Plantwheat.description>
+  <Plantsugarcane.label>사탕수수</Plantsugarcane.label>
+  <Plantsugarcane.description>수확물을 가공하여 설탕을 만들 수 있습니다.</Plantsugarcane.description>
+  <cookie.label>쿠키</cookie.label>
+  <cookie.description>참신한 베이킹 요리입니다!</cookie.description>
+  <BlueberryPie.label>과일 파이 조각</BlueberryPie.label>
+  <BlueberryPie.description>과일 파이의 조각입니다.</BlueberryPie.description>
+  <driedfruit.label>건과</driedfruit.label>
+  <driedfruit.description>과일의 수분을 제거하였습니다.</driedfruit.description>
+  <Bread.label>빵</Bread.label>
+  <Bread.description>아주 간단한 베이킹 요리입니다. 빵은 사람들이 아주 오래 전부터 즐겨오던 음식 중 하나입니다.</Bread.description>
+  <sweetbun.label>롤빵</sweetbun.label>
+  <sweetbun.description>달콤한 설탕으로 덮인 롤빵입니다.
+
+음식 효과: 의식, 이동</sweetbun.description>
+  <grilledcheese.label>치즈 샌드위치</grilledcheese.label>
+  <grilledcheese.description>두 장의 빵조각에 치즈를 끼워넣었습니다.
+
+음식 효과: 신진대사</grilledcheese.description>
+  <grilledmeat.label>치즈버거</grilledmeat.label>
+  <grilledmeat.description>두 장의 빵조각에 치즈와 고기가 들어간 버거입니다.
+
+음식 효과: 신진대사</grilledmeat.description>
+  <pizza.label>피자</pizza.label>
+  <pizza.description>30분이면 피자 한 판이 뚝딱!
+
+음식 효과: 의식, 신진대사</pizza.description>
+  <Porridge.label>죽</Porridge.label>
+  <Porridge.description>곡물로 만든 간단한 요리입니다.
+
+음식 효과: 시력, 혈액여과</Porridge.description>
+  <yogurt.label>요거트</yogurt.label>
+  <yogurt.description>우유를 발효시켜 만듭니다.
+
+음식 효과: 시력, 혈액여과</yogurt.description>
+  <icecream.label>아이스크림</icecream.label>
+  <icecream.description>우유를 얼려서 만듭니다.
+
+음식 효과: 이동, 혈액순환</icecream.description>
+  <smoothie.label>스무디</smoothie.label>
+  <smoothie.description>과일과 우유로 만든 산듯한 음료입니다.
+
+음식 효과: 시력, 이동</smoothie.description>
+  <Tacos.label>타코</Tacos.label>
+  <Tacos.description>고기에 옥수수와 치즈를 첨가해 만들었습니다.
+
+음식 효과: 조작, 신진대사</Tacos.description>
+  <Grilledsteak.label>스테이크</Grilledsteak.label>
+  <Grilledsteak.description>불판을 이용해서 요리한 좋은 먹거리입니다.</Grilledsteak.description>
+  <Grilledveg.label>야채구이</Grilledveg.label>
+  <Grilledveg.description>야채를 불판 위에서 구워냅니다.</Grilledveg.description>
+  <Kabob.label>산적</Kabob.label>
+  <Kabob.description>육류 또는 야채를 꼬챙이에 끼워 완벽하게 구워냈습니다.</Kabob.description>
+  <grilledpolenta.label>폴렌타 구이</grilledpolenta.label>
+  <grilledpolenta.description>폴렌타 조각을 불판에 구워 만듭니다.
+
+음식 효과: 조작, 혈액여과</grilledpolenta.description>
+  <bakedpolenta.label>폴렌타</bakedpolenta.label>
+  <bakedpolenta.description>옥수수로 만든 폴렌타를 오븐에 구운 빵입니다.
+
+음식 효과: 조작, 혈액여과</bakedpolenta.description>
+  <Cornbread.label>옥수수빵</Cornbread.label>
+  <Cornbread.description>옥수수로 만든 빵입니다.</Cornbread.description>
+  <muffin.label>머핀</muffin.label>
+  <muffin.description>과일로 만든 머핀입니다.
+
+음식 효과: 의식, 이동</muffin.description>
+  <meatpie.label>고기 파이</meatpie.label>
+  <meatpie.description>고기를 채워넣고 간단히 구운 요리입니다.</meatpie.description>
+  <Rawwheat.label>밀</Rawwheat.label>
+  <Rawwheat.description>기본 곡물 식재료입니다. 곡물가루로 만들 수 있습니다.</Rawwheat.description>
+  <Rawsugarcane.label>사탕수수</Rawsugarcane.label>
+  <Rawsugarcane.description>사탕수수에서 수확할 수 있습니다.</Rawsugarcane.description>
+  <cheese.label>치즈</cheese.label>
+  <cheese.description>치즈 한 덩어리.</cheese.description>
+  <Sugar.label>설탕</Sugar.label>
+  <Sugar.description>사탕수수로 만들 수 있습니다. 각종 요리에 사용됩니다.</Sugar.description>
+  <Flour.label>곡물가루</Flour.label>
+  <Flour.description>곡물가루입니다. 각종 요리에 사용됩니다.</Flour.description>
+  <Cornmeal.label>옥수수 전분</Cornmeal.label>
+  <Cornmeal.description>옥수수 가루. 각종 요리에 사용됩니다.</Cornmeal.description>
+  <VeganEgg.label>채식용 계란</VeganEgg.label>
+  <VeganEgg.description>채식용 계란은 두부, 호박 또는 바나나로 만든 계란 모양의 제품입니다. 제빵 및 다른 조리에서 계란 대신 사용 가능합니다.</VeganEgg.description>
+  <MakiRoll.label>김밥</MakiRoll.label>
+  <MakiRoll.description>쌀, 육류, 채소, 달걀들을 이용해 조리한 김밥입니다.</MakiRoll.description>
+  <Nigiri.label>초밥</Nigiri.label>
+  <Nigiri.description>쌀을 작고 둥글게 만든 뒤 생선살이나 다른 해산물로 그 위를 덮어서 만듭니다.</Nigiri.description>
+  <Caramel.label>카라멜</Caramel.label>
+  <Caramel.description>설탕으로 만든 간단한 간식입니다.</Caramel.description>
+  <Hardcandy.label>알사탕</Hardcandy.label>
+  <Hardcandy.description>설탕으로 만든 알사탕입니다.</Hardcandy.description>
+  <Taffy.label>엿</Taffy.label>
+  <Taffy.description>설탕을 녹여 만든 엿 입니다.</Taffy.description>
+  <Chocomilk.label>초콜릿 우유</Chocomilk.label>
+  <Chocomilk.description>초콜릿을 첨가한 우유입니다.</Chocomilk.description>
+  <SaltedMeat.label>염장육</SaltedMeat.label>
+  <SaltedMeat.description>소금으로 절인 고기입니다.</SaltedMeat.description>
+  <Rawtofu.label>두부</Rawtofu.label>
+  <Rawtofu.description>콩으로 만든 단백질이 풍부한 두부입니다. 그대로 먹어도 맛있습니다.</Rawtofu.description>
+  <RawPolenta.label>폴렌타</RawPolenta.label>
+  <RawPolenta.description>수수가루로 만들어 내는 죽요리의 일종인 폴렌타입니다. 기본적으로 죽으로 먹으나, 소스로서 사용되거나 구이로도 사용되는 등 활용도가 많습니다.</RawPolenta.description>
+  <PickledVeg.label>피클</PickledVeg.label>
+  <PickledVeg.description>소금에 절인 야채입니다.</PickledVeg.description>
+
+</LanguageData>

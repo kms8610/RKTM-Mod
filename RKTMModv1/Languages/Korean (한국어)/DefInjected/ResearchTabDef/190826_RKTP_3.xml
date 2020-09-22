@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1240656304_190617_Lighter Than Fast-->
+  <LTF.label>FTL 기술</LTF.label>
+
+  <!--1294507772_190519_The Mantodean insectoid race-->
+  <OrganicManto.label>유기체 공학</OrganicManto.label>
+
+  <!--1314474881_181118_Avali-->
+  <Avali.label>아발리</Avali.label>
+
+  <!--1365540920_190714_Black Widows-->
+  <BlackWidowResearch.label>블랙 위도우</BlackWidowResearch.label>
+
+  <!--1400227853_190602_Lord of the Rims - Hobbits-->
+  <LotRH_HobbitsTab.label>쿠두크(Kuduk), 호빗들</LotRH_HobbitsTab.label>
+
+  <!--1400234784_190526_Lord of the Rims - Elves-->
+  <LotRE_ElvesTab.label>쿠엔디(Quendi), 엘프들</LotRE_ElvesTab.label>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <LotRD_DwarvesTab.label>카자드(Khazâd), 드워프들</LotRD_DwarvesTab.label>
+
+  <!--1416483638_190811_Orassans-->
+  <OrassanResearch.label>오라산</OrassanResearch.label>
+
+  <!--1543896230_190714_Playable Feral Orkz-->
+  <OGAMA_RTab.label>아뎁투스 메카니쿠스 : 병기</OGAMA_RTab.label>
+
+  <!--1545178908_190519_Callistans(1.0)-->
+  <CallistanResearch.label>캘리스탄 분해법</CallistanResearch.label>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <RRY_RTab.label>야우차 &amp; 제노모프</RRY_RTab.label>
+
+  <!--1571323744_190714_Crystalloid (Rewrite)-->
+  <CrystalloidResearch.label>크리스탈로이드 사이오닉 기술</CrystalloidResearch.label>
+
+  <!--1632244750_190708_Oni of the Rim-->
+  <OniResearch.label>오니</OniResearch.label>
+
+  <!--1706345856_190811_Warhammer Skaven-->
+  <SkavenReTab.label>스케이븐</SkavenReTab.label>
+
+  <!--1728999127_190813_Forsakens-->
+  <Forsakens.label>버림받은 자들</Forsakens.label>
+
+  <!--1785657108_190811_Humanoid Project-->
+  <AlienProduction.label>고급 생산</AlienProduction.label>
+  <AdvancedProduction.label>코스모스 테크</AdvancedProduction.label>
+
+</LanguageData>

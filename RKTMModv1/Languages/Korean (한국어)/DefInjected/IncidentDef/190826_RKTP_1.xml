@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1187010034_181028_Rim of Madness - Vampires-->
+  <ROMV_QuestAncientVampireCrypt.letterText>장엄하고 강력한 흡혈귀의 묘지가 발견되었습니다. 우리가 감히 이들에게 맞설 수 있을까요?</ROMV_QuestAncientVampireCrypt.letterText>
+  <ROMV_QuestAncientVampireCrypt.label>고대 흡혈귀 묘당</ROMV_QuestAncientVampireCrypt.label>
+  <ROMV_QuestAncientVampireCrypt.letterLabel>고대 흡혈귀 묘당</ROMV_QuestAncientVampireCrypt.letterLabel>
+
+  <!--1210535987_181023_Shield Generators by Frontier Developments-->
+  <HeatSinkOverTemperatureBreakdown.label>고온에 의해 방열판 고장</HeatSinkOverTemperatureBreakdown.label>
+
+  <!--1211694919_181106_Nature's Pretty Sweet-->
+  <TKKN_Disease_Common_Cold.letterText>{0}명의 {1}(이)가 {2}(을)를 앓고 있습니다.\n\n의사와 의료용 침대가 있는지 확인하세요. 가능한 많은 시간을 침대에서 보내고 적절한 치료를 해주세요.\n\n질병에 걸린 {1}:\n\n{3}</TKKN_Disease_Common_Cold.letterText>
+  <TKKN_Disease_Allergies.letterText>{0}명의 {1}(이)가 {2}(을)를 앓고 있습니다.\n\n의사와 의료용 침대가 있는지 확인하세요. 가능한 많은 시간을 침대에서 보내고 적절한 치료를 해주세요.\n\n질병에 걸린 {1}:\n\n{3}</TKKN_Disease_Allergies.letterText>
+  <TKKN_Disease_Animal_Common_Cold.letterText>{0}마리의 동물들이 {2}(을)를 앓고 있습니다.\n\n가능한 많이 쉬도록 하고 적절한 치료를 해주세요.\n\n질병에 걸린 동물들:\n\n{3}</TKKN_Disease_Animal_Common_Cold.letterText>
+  <TKKN_Disease_Animal_Allergies.letterText>{0}마리의 동물들이 {2}(을)를 앓고 있습니다.\n\n가능한 많이 쉬도록 하고 적절한 치료를 해주세요.\n\n질병에 걸린 동물들:\n\n{3}</TKKN_Disease_Animal_Allergies.letterText>
+  <TKKN_DustDevil.letterText>먼지 바람이 발생했습니다!\n\n토네이도보다 파괴적이지는 않지만, 피하는 것이 좋습니다.</TKKN_DustDevil.letterText>
+  <TKKN_SpecialHerdMigration.letterText>큰 {0} 무리가 이 곳을 통과하고 있습니다.\n\n먼저 자극하지 않으면 공격하지 않을 것입니다.</TKKN_SpecialHerdMigration.letterText>
+  <TKKN_Disease_Allergies.label>알레르기</TKKN_Disease_Allergies.label>
+  <TKKN_Disease_Animal_Allergies.label>알레르기 (동물)</TKKN_Disease_Animal_Allergies.label>
+  <TKKN_Disease_Allergies.letterLabel>알레르기</TKKN_Disease_Allergies.letterLabel>
+  <TKKN_Disease_Animal_Allergies.letterLabel>동물 알레르기</TKKN_Disease_Animal_Allergies.letterLabel>
+  <TKKN_Disease_Animal_Common_Cold.letterLabel>동물 질병 (독감)</TKKN_Disease_Animal_Common_Cold.letterLabel>
+  <TKKN_SpecialHerdMigration.letterLabel>동물 이주: {0}</TKKN_SpecialHerdMigration.letterLabel>
+  <TKKN_Disease_Common_Cold.label>감기</TKKN_Disease_Common_Cold.label>
+  <TKKN_Disease_Animal_Common_Cold.label>감기 (동물)</TKKN_Disease_Animal_Common_Cold.label>
+  <TKKN_Disease_Common_Cold.letterLabel>질병 (감기)</TKKN_Disease_Common_Cold.letterLabel>
+  <TKKN_Drought.label>가뭄</TKKN_Drought.label>
+  <TKKN_Drought.letterLabel>가뭄</TKKN_Drought.letterLabel>
+  <TKKN_DustDevil.letterLabel>먼지 바람!</TKKN_DustDevil.letterLabel>
+  <TKKN_DustDevil.label>먼지 바람</TKKN_DustDevil.label>
+  <TKKN_SpecialHerdMigration.label>집단 이주</TKKN_SpecialHerdMigration.label>
+  <TKKN_LavaEruption.label>용암 분출!</TKKN_LavaEruption.label>
+  <TKKN_Superbloom.label>슈퍼블룸</TKKN_Superbloom.label>
+  <TKKN_Drought.letterText>주 오랫동안 비가 오지 않고 있습니다...</TKKN_Drought.letterText>
+  <TKKN_Superbloom.letterLabel>TKKN_NPS_Superbloom</TKKN_Superbloom.letterLabel>
+  <TKKN_Superbloom.letterText>TKKN_NPS_SuperbloomTxt</TKKN_Superbloom.letterText>
+  <TKKN_WildFlowerBloom.letterLabel>TKKN_NPS_WildFlowerBloom</TKKN_WildFlowerBloom.letterLabel>
+  <TKKN_WildFlowerBloom.letterText>TKKN_NPS_WildFlowerBloomTxt</TKKN_WildFlowerBloom.letterText>
+  <TKKN_WildFlowerBloom.label>야생화</TKKN_WildFlowerBloom.label>
+
+  <!--1338280929_190526_Advanced Biomes-->
+  <VolcanoVolcanicEruption.letterText>근처의 화산이 폭발하고 대기권에 재가 뿜어져 나오기 시작했습니다.\n\n대기권의 재가 태양을 보기 어렵게 할 것 입니다. 온도는 떨어지고 식물은 햇빛을 받지 못해 고통받을 것 입니다. 며칠 안에 지나갈 수도 있고, 아니면 몇 주 정도 걸릴 수도 있습니다.</VolcanoVolcanicEruption.letterText>
+  <PoisonSpores.label>독 포자</PoisonSpores.label>
+  <PoisonSpores.letterText>독성이 있는 식물들이 유독성 포자 구름을 모든 지역에 방출했습니다.\n\n지붕 아래에 있지 않고, 독가스가 가득한 대기권 밖에 있는 사람이나 생물은 서서히 병들게 될 것입니다.\n\n그것은 어느 곳에서든 며칠에서 한 시즌을 넘나들 때까지 지속될 것입니다.</PoisonSpores.letterText>
+  <PoisonSpores.letterLabel>독 포자</PoisonSpores.letterLabel>
+  <VolcanoVolcanicEruption.label>화산 분출</VolcanoVolcanicEruption.label>
+  <VolcanoVolcanicEruption.letterLabel>화산 분출</VolcanoVolcanicEruption.letterLabel>
+
+  <!--1458148305_190519_Meteors-->
+  <MeteorShower.label>유성우</MeteorShower.label>
+  <MeteorStorm.label>유성폭풍</MeteorStorm.label>
+
+  <!--1498572835_190818_Polarisbloc - Storyteller incidents pack-->
+  <Polaris_Dekigokoro.letterText>{0}(은)는 이런 삶을 원한게 아니었다고 생각하며 존재의 이유를 찾기 위해 방황을 하게 됩니다.</Polaris_Dekigokoro.letterText>
+  <Polaris_QuestTradeShipPodCrash.letterText>{2}의 {1}, {0}(이)가 멀지 않은 곳에 상선이 추락했다고 알려주었으며 화물들을 가지러 갈 수 있습니다.\n\n이 상선은 {3}\n\n불행히도 다른 사람들도 알아챘기 때문에 {4}일까지 가지 않으면 사라지고 없을 것입니다.\n\n주의하세요 - 귀중품은 항상 위험이 도사리고 있습니다. {5}</Polaris_QuestTradeShipPodCrash.letterText>
+  <Polaris_PowerOverload.letterText>과부하로 인해 전력선이 버티지 못하고 터져버렸습니다.</Polaris_PowerOverload.letterText>
+  <Polaris_Dekigokoro.label>우발심</Polaris_Dekigokoro.label>
+  <Polaris_Dekigokoro.letterLabel>우발심</Polaris_Dekigokoro.letterLabel>
+  <Polaris_HarvestBenediction.label>데메테르의 축복</Polaris_HarvestBenediction.label>
+  <Polaris_HarvestBenediction.letterLabel>데메테르의 축복</Polaris_HarvestBenediction.letterLabel>
+  <Polaris_TurretDisturbed.letterText>메카노이드에 의해 포탑이 해킹되어 아군을 공격하려 합니다.</Polaris_TurretDisturbed.letterText>
+  <Polaris_PowerOverload.label>과부하</Polaris_PowerOverload.label>
+  <Polaris_PowerOverload.letterLabel>과부하</Polaris_PowerOverload.letterLabel>
+  <Polaris_ConduitFusing.label>합선</Polaris_ConduitFusing.label>
+  <Polaris_ConduitFusing.letterLabel>합선</Polaris_ConduitFusing.letterLabel>
+  <Polaris_ConduitFusing.letterText>전력 합선으로 인한 방전이 발생했습니다.</Polaris_ConduitFusing.letterText>
+  <Polaris_HarvestBenediction.letterText>알려지지 않은 존재로부터 정착지의 작물이 축복을 받아 성장합니다.</Polaris_HarvestBenediction.letterText>
+  <Polaris_TradeShipCrash.label>상선 추락</Polaris_TradeShipCrash.label>
+  <Polaris_QuestTradeShipPodCrash.label>기회: 상선 추락</Polaris_QuestTradeShipPodCrash.label>
+  <Polaris_QuestTradeShipPodCrash.letterLabel>기회: 상선 추락</Polaris_QuestTradeShipPodCrash.letterLabel>
+  <Polaris_TurretDisturbed.label>포탑 교란</Polaris_TurretDisturbed.label>
+  <Polaris_TurretDisturbed.letterLabel>포탑 교란</Polaris_TurretDisturbed.letterLabel>
+
+  <!--1505914869_190616_What the hack!-->
+  <WTH_RoamingMechanoids.label>배회하는 메카노이드들</WTH_RoamingMechanoids.label>
+  <WTH_RoamingMechanoids.letterText>인근 마을에서 라디오를 통해 우리에게 연락해왔습니다. 그 마을 사람들 중 일부가 메카노이드들에게 공격을 받았다고합니다.\n그들은 우리 정착지에 경고해주기 위해, 어디에서 그 사고가 발생했는지 설명해주었습니다. 지도에 위치가 표시되어 있습니다만, 경고를 무시하고 해당 장소를 방문할 수 있습니다.\n어쩌면 메카노이드 부품을 추가로 확보할 수도 있고, 아니면... 몇 사람들을 죽일 수 있는 좋은 기회(?)가 되겠지요.</WTH_RoamingMechanoids.letterText>
+  <WTH_RoamingMechanoids.letterLabel>배회하는 메카노이드들</WTH_RoamingMechanoids.letterLabel>
+
+  <!--1541353047_190628_Zombiefied-->
+  <QuestZombieCamp.letterText>{2}의 {1}, {0}의 메세지를 수신했습니다.\n\n근처 캠프에 좀비들이 넘쳐나고 있으며 이들 모두를 제거 하길원합니다.\n\n만약 성공한다면, 관계는 향상될것이고 다음 보상을 받을 수 있습니다:\n\n{3}</QuestZombieCamp.letterText>
+  <QuestZombieCamp.label>좀비 캠프</QuestZombieCamp.label>
+  <QuestZombieCamp.letterLabel>좀비 캠프</QuestZombieCamp.letterLabel>
+  <ZombieHorde.label>좀비 무리</ZombieHorde.label>
+  <ZombiePack.label>좀비 무리</ZombiePack.label>
+
+  <!--1543723640_190818_RimCuisine-->
+  <BeeSwarm.letterText>벌 무리가 도착했습니다! 벌들은 콜로니 근처 나무에 정착할 것 입니다. 벌들을 주시하세요! 벌들의 벌집을 얻으면 양봉장을 건설할 수 있게 됩니다.</BeeSwarm.letterText>
+  <BeeSwarm.label>벌 떼!</BeeSwarm.label>
+  <BeeSwarm.letterLabel>벌 떼!</BeeSwarm.letterLabel>
+
+  <!--1552146295_190519_Real Ruins-->
+  <Quest_PristineRuins.letterText>{2}의 {1}, {0}(이)가 우리에게 메시지를 보냈습니다.\n\n정찰병들이 오랫동안 버려져있던 유적을 발견했습니다. 옛 거주자들이 어디로, 왜 사라졌는지는 아무도 모를 일이니, 무슨일이 벌어질지 각오해야합니다. 소문은 빨리 퍼지기 때문에, 그 보물을 원하는 사람이 우리뿐이 아닐 수 있습니다. 또한 그 보물이 무엇인지는 알 수 없기 때문에, 적대적인 세력이 있을 수도 있습니다. 서두르세요. {3}일이 지나면 우리는 맨 벽 이외엔 아무것도 얻지 못할 것입니다.</Quest_PristineRuins.letterText>
+  <Quest_PristineRuins.label>근방의 유적 발견</Quest_PristineRuins.label>
+  <Quest_PristineRuins.letterLabel>근방에서 발견된 고대 유적</Quest_PristineRuins.letterLabel>
+  <SmallRuinsFound.label>작은 유적 발견</SmallRuinsFound.label>
+
+  <!--1552461911_190814_Expanded Incidents-->
+  <Clique.label>세력 형성</Clique.label>
+  <Quarrel.label>동료 싸움</Quarrel.label>
+  <Homesick.label>향수병</Homesick.label>
+  <HomesickCured.label>향수병 극복</HomesickCured.label>
+  <Sabotage.label>사보타주</Sabotage.label>
+  <Thief.label>도둑</Thief.label>
+
+  <!--1554149030_190519_[RF] Rumor Has It....-->
+  <Defection.letterText>한 정착민이 사회적으로 고립되어 다른 팩션으로 떠나기로 마음먹었습니다.</Defection.letterText>
+  <MadWithLoneliness.letterText>한 정착민이 심각한 사회적 고립으로인해 정신적으로 단절되었습니다!</MadWithLoneliness.letterText>
+  <SplinterFaction.letterText>정착지의 정착민 그룹이 독립을 결정하고 새로운 팩션을 형성하기 위해 떠나버렸습니다.</SplinterFaction.letterText>
+  <Brawl.label>분노한 말다툼</Brawl.label>
+  <Defection.label>변절</Defection.label>
+  <Defection.letterLabel>변절자!</Defection.letterLabel>
+  <MadWithLoneliness.letterLabel>외로움!</MadWithLoneliness.letterLabel>
+  <MadWithLoneliness.label>외로움에 미침</MadWithLoneliness.label>
+  <FriendsQuarrel.label>다툼</FriendsQuarrel.label>
+  <SplinterFaction.label>분열된 팩션</SplinterFaction.label>
+  <SplinterFaction.letterLabel>분열된 팩션</SplinterFaction.letterLabel>
+
+  <!--1559034352_181116_Diseases overhauled-->
+  <Disease_CommonCold.letterText>{1}의 {0}(이)가 {2}에 걸렸습니다.\n\n의료 침대와 의사가 있는지 확인하세요. 감염자가 적절한 치료를 받고 충분한 휴식을 취하고 있는지 확인하세요.\n\n{1}(이)가 다음과 같은 병에 걸렸습니다.:\n\n{3}</Disease_CommonCold.letterText>
+  <Disease_KindredDickVirus.letterText>{1}의 {0}(이)가 {2}에 걸렸습니다.\n\n의료 침대와 의사가 있는지 확인하세요. 감염자가 적절한 치료를 받고 충분한 휴식을 취하고 있는지 확인하세요.\n\n{1}(이)가 다음과 같은 병에 걸렸습니다.:\n\n{3}</Disease_KindredDickVirus.letterText>
+  <Disease_Tuberculosis.letterText>{1}의 {0}(이)가 {2}에 걸렸습니다.\n\n의료 침대와 의사가 있는지 확인하세요. 감염자가 적절한 치료를 받고 충분한 휴식을 취하고 있는지 확인하세요.\n\n{1}(이)가 다음과 같은 병에 걸렸습니다.:\n\n{3}</Disease_Tuberculosis.letterText>
+  <Disease_VoightBernsteinDisease.letterText>{1}의 {0}(이)가 {2}에 걸렸습니다.\n\n의료 침대와 의사가 있는지 확인하세요. 감염자가 적절한 치료를 받고 충분한 휴식을 취하고 있는지 확인하세요.\n\n{1}(이)가 다음과 같은 병에 걸렸습니다.:\n\n{3}</Disease_VoightBernsteinDisease.letterText>
+  <Disease_NewReschianFever.letterText>{1}의 {0}(이)가 {2}에 걸렸습니다.\n\n의료 침대와 의사가 있는지 확인하세요. 감염자가 적절한 치료를 받고 충분한 휴식을 취하고 있는지 확인하세요.\n\n{1}(이)가 다음과 같은 병에 걸렸습니다.:\n\n{3}</Disease_NewReschianFever.letterText>
+  <Disease_LymphaticMechanites.letterText>{1}의 {0}(이)가 {2}에 걸렸습니다.\n\n의료 침대와 의사가 있는지 확인하세요. 감염자가 적절한 치료를 받고 충분한 휴식을 취하고 있는지 확인하세요.\n\n{1}(이)가 다음과 같은 병에 걸렸습니다.:\n\n{3}</Disease_LymphaticMechanites.letterText>
+  <Disease_BrainWorm.letterText>{1}의 {0}(이)가 {2}에 걸렸습니다.\n\n의료 침대와 의사가 있는지 확인하세요. 감염자가 적절한 치료를 받고 충분한 휴식을 취하고 있는지 확인하세요.\n\n{1}(이)가 다음과 같은 병에 걸렸습니다.:\n\n{3}</Disease_BrainWorm.letterText>
+  <Disease_HeartWorm.letterText>{1}의 {0}(이)가 {2}에 걸렸습니다.\n\n의료 침대와 의사가 있는지 확인하세요. 감염자가 적절한 치료를 받고 충분한 휴식을 취하고 있는지 확인하세요.\n\n{1}(이)가 다음과 같은 병에 걸렸습니다.:\n\n{3}</Disease_HeartWorm.letterText>
+  <Disease_LungWorms.letterText>{1}의 {0}(이)가 {2}에 걸렸습니다.\n\n의료 침대와 의사가 있는지 확인하세요. 감염자가 적절한 치료를 받고 충분한 휴식을 취하고 있는지 확인하세요.\n\n{1}(이)가 다음과 같은 병에 걸렸습니다.:\n\n{3}</Disease_LungWorms.letterText>
+  <Disease_BrainWorm.label>뇌 기생충</Disease_BrainWorm.label>
+  <Disease_CommonCold.label>감기</Disease_CommonCold.label>
+  <Disease_HeartWorm.label>심장 기생충</Disease_HeartWorm.label>
+  <Disease_KindredDickVirus.label>킨드레드-딕 바이러스</Disease_KindredDickVirus.label>
+  <Disease_LungWorms.label>폐 기생충</Disease_LungWorms.label>
+  <Disease_LymphaticMechanites.label>림프계 메카나이트</Disease_LymphaticMechanites.label>
+  <Disease_NewReschianFever.label>신종 대장균 열병</Disease_NewReschianFever.label>
+  <Disease_Tuberculosis.label>결핵</Disease_Tuberculosis.label>
+  <Disease_VoightBernsteinDisease.label>보이트-번스타인병</Disease_VoightBernsteinDisease.label>
+
+  <!--1585165593_190606_Chemical Weather-->
+  <ChemicalRain.letterText>마약 제조에 사용되는 화학물질을 운반하던 해적 우주선이 알려지지 않은 물체에 의해 격추되어 화물이 행성 위로 떨어졌습니다.\n\n지붕 밖 동식물과 사람은 피부를 통해 순수 화학물질이 흡수하게 됩니다.\n\n짧으면 몇 시간에서 길면 며칠간 지속됩니다.</ChemicalRain.letterText>
+  <ChemicalSnow.letterText>마약 제조에 사용되는 화학물질을 운반하던 해적 우주선이 알려지지 않은 물체에 의해 격추되어 화물이 행성 위로 떨어졌습니다.\n\n지붕 밖 동식물과 사람은 피부를 통해 순수 화학물질이 흡수하게 됩니다.\n\n짧으면 몇 시간에서 길면 며칠간 지속됩니다.</ChemicalSnow.letterText>
+  <ChemicalFog.letterText>마약 제조에 사용되는 화학물질을 운반하던 해적 우주선이 알려지지 않은 물체에 의해 격추되어 화물이 행성 위로 떨어졌습니다.\n\n지붕 밖 동식물과 사람은 피부를 통해 순수 화학물질이 흡수하게 됩니다.\n\n짧으면 몇 시간에서 길면 며칠간 지속됩니다.</ChemicalFog.letterText>
+  <ChemicalFog.letterLabel>화학적인 안개</ChemicalFog.letterLabel>
+  <ChemicalRain.letterLabel>화학적인 비</ChemicalRain.letterLabel>
+  <ChemicalSnow.letterLabel>화학적인 눈</ChemicalSnow.letterLabel>
+  <ChemicalRain.label>화학적인 날씨</ChemicalRain.label>
+  <ChemicalSnow.label>화학적인 날씨</ChemicalSnow.label>
+  <ChemicalFog.label>화학적인 날씨</ChemicalFog.label>
+
+  <!--1638467041_190606_More Crashed Ship Parts-->
+  <DolinskajaLightningShipPartCrash.letterText>고대 함선의 커다란 잔해가 근처에 추락했습니다.\n\n이 함선 잔해는 뜻밖에도, 이 행성의 기상조절 위성에 접속하고 있는 것으로 보입니다. 대규모의 번개 폭풍이 정착지를 강타합니다.\n\n최대한 빠르게 파괴하세요.</DolinskajaLightningShipPartCrash.letterText>
+  <DolinskajaFireShipPartCrash.letterText>고대 함선의 커다란 잔해가 근처에 추락했습니다.\n\n정착민들은 수 마일 떨어진 곳에서 오는 열기를 느끼기 시작합니다. 함선 내부의 화염파가 뿜어져 나오며, 주위의 모든 것을 태워버리고 있습니다.\n\n최대한 빠르게 파괴하세요.</DolinskajaFireShipPartCrash.letterText>
+  <DolinskajaFireShipPartCrash.letterLabel>불의 함선</DolinskajaFireShipPartCrash.letterLabel>
+  <DolinskajaLightningShipPartCrash.letterLabel>번개 함선</DolinskajaLightningShipPartCrash.letterLabel>
+  <DolinskajaFireShipPartCrash.label>불의 함선 잔해 충돌</DolinskajaFireShipPartCrash.label>
+  <DolinskajaLightningShipPartCrash.label>번개 함선 잔해 충돌</DolinskajaLightningShipPartCrash.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <ReligiousProvidence.letterLabel>종교 신자가 됨</ReligiousProvidence.letterLabel>
+  <ReligiousProvidence.letterText>믿고 따르게 됨</ReligiousProvidence.letterText>
+  <PilgrimGroup.label>순례자</PilgrimGroup.label>
+  <ReligiousProvidence.label>신자</ReligiousProvidence.label>
+
+  <!--1663092248_190310_Disasters-->
+  <Quest_ItemStash_Brewery.letterText>{2}의 {1}, {0}(이)가 우리에게서 멀지 않은 곳에 버려진 양조장이 있다고 알려왔습니다. 그 안에서 다음과 같은 아이템을 찾을 수 있습니다.:\n\n{3}\n\n하지만, 서두르지 않으면 다른 사람들이 {4}일 후에 물건들을 가져갈 것입니다. \n\n주의하십시오. 이와 같은 버려진 전초기지 근처에는 위험이 도사리고 있습니다. {0}(은)는 {5}라고도 말했습니다.</Quest_ItemStash_Brewery.letterText>
+  <Quest_ItemStash_DrugLab.letterText>{2}의 {1}, {0}(이)가 우리에게서 멀지 않은 곳에 버려진 약품 연구실이 있다고 알려왔습니다. 그 안에서 다음과 같은 아이템을 찾을 수 있습니다.:\n\n{3}\n\n하지만, 서두르지 않으면 다른 사람들이 {4}일 후에 물건들을 가져갈 것입니다. \n\n주의하십시오. 이와 같은 버려진 전초기지 근처에는 위험이 도사리고 있습니다. {0}(은)는 {5}라고도 말했습니다.</Quest_ItemStash_DrugLab.letterText>
+  <QuestItemStash_FoodDepot.letterText>{2}의 {1}, {0}(이)가 우리에게서 멀지 않은 곳에 버려진 식량고가 있다고 알려왔습니다. 그 안에서 다음과 같은 아이템을 찾을 수 있습니다.:\n\n{3}\n\n하지만, 서두르지 않으면 다른 사람들이 {4}일 후에 물건들을 가져갈 것입니다. \n\n주의하십시오. 이와 같은 버려진 전초기지 근처에는 위험이 도사리고 있습니다. {0}(은)는 {5}라고도 말했습니다.</QuestItemStash_FoodDepot.letterText>
+  <QuestItemStash_WoodCutter.letterText>{2}의 {1}, {0}(이)가 우리에게서 멀지 않은 곳에 낡은 목공소가 있다고 알려왔습니다. 그 안에서 다음과 같은 아이템을 찾을 수 있습니다.:\n\n{3}\n\n하지만, 서두르지 않으면 다른 사람들이 {4}일 후에 물건들을 가져갈 것입니다. \n\n주의하십시오. 이와 같은 버려진 전초기지 근처에는 위험이 도사리고 있습니다. {0}(은)는 {5}라고도 말했습니다.</QuestItemStash_WoodCutter.letterText>
+  <Quest_ItemStash_Brewery.label>버려진 양조장</Quest_ItemStash_Brewery.label>
+  <Quest_ItemStash_Brewery.letterLabel>버려진 양조장</Quest_ItemStash_Brewery.letterLabel>
+  <Quest_ItemStash_DrugLab.label>버려진 약품 연구실</Quest_ItemStash_DrugLab.label>
+  <Quest_ItemStash_DrugLab.letterLabel>버려진 약품 연구실</Quest_ItemStash_DrugLab.letterLabel>
+  <QuestItemStash_FoodDepot.label>버려진 식량고</QuestItemStash_FoodDepot.label>
+  <QuestItemStash_FoodDepot.letterLabel>버려진 식량고</QuestItemStash_FoodDepot.letterLabel>
+  <QuestItemStash_WoodCutter.label>낡은 목공소</QuestItemStash_WoodCutter.label>
+  <QuestItemStash_WoodCutter.letterLabel>낡은 목공소</QuestItemStash_WoodCutter.letterLabel>
+
+  <!--1715402900_190519_Replimat-->
+  <ReplimatMalfunctionKibble.letterText>{0}가 오작동하여 대량의 동물 사료를 생산하고 있습니다.</ReplimatMalfunctionKibble.letterText>
+  <ReplimatSpill.letterText>{0}가 오작동하여 영양분 원료가 사방으로 유출되었습니다.</ReplimatSpill.letterText>
+  <ReplimatMalfunctionKibble.label>레플리맷 [고장]</ReplimatMalfunctionKibble.label>
+  <ReplimatMalfunctionKibble.letterLabel>레플리맷 [고장]\n(사료)</ReplimatMalfunctionKibble.letterLabel>
+  <ReplimatSpill.label>레플리맷 [유출]</ReplimatSpill.label>
+  <ReplimatSpill.letterLabel>레플리맷 [유출]</ReplimatSpill.letterLabel>
+
+  <!--1718390789_190606_VeteranColonist-->
+  <VeteranWildManWandersIn.letterLabel>{PAWN_kind} 방황 중</VeteranWildManWandersIn.letterLabel>
+  <Quest_DownedRefugee_VeteranColonist.letterText>{PAWN_nameDef}(이)가 라디오로 접촉해왔습니다. {PAWN_pronoun}는 부상을 당해 움직일 수 없다며 도움을 요청했습니다. {PAWN_pronoun}는 도움이 없다면 {0}일 내로 사망합니다.\n\n{PAWN_nameDef}(은)는 {1}살의 {2} 이며, 구조를 해주면 합류하겠다며 약속을 했습니다.\n\n{3}.</Quest_DownedRefugee_VeteranColonist.letterText>
+  <WandererJoin_VeteranColonist.letterText>{PAWN_nameDef}(이)라는 이름의 방랑자 {PAWN_kind}(이)가 도착하여 정착지에 합류하려고 합니다. {PAWN_pronoun}는 {PAWN_title}입니다.\n\n{PAWN_pronoun}는 정착지에 기여할 생각이 있지만, 자발적으로 떠나지는 않을 것입니다. 만약 {PAWN_nameDef}(을)를 원하지 않는다면 {PAWN_objective} 추방하거나, 노예로 팔거나, 그냥 죽일수도 있습니다. 하지만 정착민 생각도 과연 그럴까요.</WandererJoin_VeteranColonist.letterText>
+  <VeteranWildManWandersIn.letterText>야생 동물들 사이에서 함께 살고있는 사람이 근처에서 방황하고 있습니다. {PAWN_pronoun}는 {0}(이)라고 불리웁니다.\n\n원한다면 {PAWN_objective} 길들일 수 있습니다.</VeteranWildManWandersIn.letterText>
+  <Quest_PrisonerRescue_VeteranColonist.letterText>{0} 세력의 수감자 한 명이 라디오 단말기를 훔쳐 접촉해왔습니다!\n\n{PAWN_nameDef}(은)는 주변에서 무장경비의 감시를 받고 있지만 {PAWN_objective} 구출하면 정착지에 합류할 것입니다. {PAWN_pronoun}는 {1}살 {2}입니다.\n\n{3}</Quest_PrisonerRescue_VeteranColonist.letterText>
+  <RefugeeChased_VeteranColonist.label>쫓기는 난민(*)</RefugeeChased_VeteranColonist.label>
+  <Quest_DownedRefugee_VeteranColonist.label>기회: 쓰러진 피난민(*)</Quest_DownedRefugee_VeteranColonist.label>
+  <Quest_DownedRefugee_VeteranColonist.letterLabel>기회: 쓰러진 피난민(*)</Quest_DownedRefugee_VeteranColonist.letterLabel>
+  <Quest_PrisonerRescue_VeteranColonist.label>기회: 수감자 구출(*)</Quest_PrisonerRescue_VeteranColonist.label>
+  <Quest_PrisonerRescue_VeteranColonist.letterLabel>기회: 수감자 구출(*)</Quest_PrisonerRescue_VeteranColonist.letterLabel>
+  <WandererJoin_VeteranColonist.label>방랑자 합류(*)</WandererJoin_VeteranColonist.label>
+  <WandererJoin_VeteranColonist.letterLabel>방랑자 합류(*)</WandererJoin_VeteranColonist.letterLabel>
+  <VeteranWildManWandersIn.label>방황하는 야생인간(*)</VeteranWildManWandersIn.label>
+
+  <!--1723521547_190606_Mechanoid Power-->
+  <MPC_PowerShipPartCrash.letterText>고대 함선의 커다란 잔해가 근처에 추락했습니다.\n\n끔찍한 일들을 시키려는 함선의 정신파를 정착민들이 느끼기 시작합니다. 내부에 탑재된 적대적인 인공자아의 정신조작 능력인 것으로 보입니다.\n\n최대한 빠르게 파괴하세요.</MPC_PowerShipPartCrash.letterText>
+  <MPC_PowerShipPartCrash.letterLabel>발전형 함선</MPC_PowerShipPartCrash.letterLabel>
+  <MPC_PowerShipPartCrash.label>발전형 함선 잔해 충돌</MPC_PowerShipPartCrash.label>
+
+  <!--1741117080_190526_Grenades Expanded-->
+  <CrazyRabbitIncident.label>살인 토끼들이 미쳤습니다!</CrazyRabbitIncident.label>
+
+  <!--1746084920_190526_RimSlave-->
+  <RimSlaves5_0UpdateNote.label>림슬레이브즈 모드 5.0 업데이트 노트</RimSlaves5_0UpdateNote.label>
+
+  <!--1775170117_190816_RimCities-->
+  <Quest_City_Sabotage.label>도시 사보타지 퀘스트</Quest_City_Sabotage.label>
+  <Quest_City_Sabotage.letterText>게릴라 세력이 {0}의 도시 {1}을(를) 공격할 작정입니다. 당신은 {1}의 모든 터렛을 해제해서 도움을 주는 선택을 할 수 있습니다. \n\n공격을 시작할때까지 공격자의 정체는 비밀로 유지될 것 입니다. \n\n이 임무를 완료하면 당신의 기지에 대한 두 세력이 가진 의견이 극적으로 바뀔 것을 기대하세요.</Quest_City_Sabotage.letterText>
+  <Quest_City_Sabotage.letterLabel>사보타지 기회</Quest_City_Sabotage.letterLabel>
+  <Quest_City_Assault.label>연합 공격 퀘스트</Quest_City_Assault.label>
+  <Quest_City_Assault.letterText>{0}이(가) {1}의 정착지인 {2}을(를) 공격할 예정입니다. 당신이 참여하길 선택한다면, {0}은(는) 당신이 정복된 도시를 차지하도록 허락할 것입니다.</Quest_City_Assault.letterText>
+  <Quest_City_Assault.letterLabel>연합 공격</Quest_City_Assault.letterLabel>
+  <Quest_City_Assassinate.label>암살 퀘스트</Quest_City_Assassinate.label>
+  <Quest_City_Assassinate.letterText>{0}의 암살을 요구하는 미스터리한 인물이 당신의 기지에 접촉했습니다. {1}은 {2}의 시민에 높은 영향력을 가지고, 현재 {3} 도시에서 살고있습니다. \n\n어떤 고전 게임에서 나오는 대머리 바코드 아저씨처럼 창의적이고 간접적인 암살은 외교적 파장을 막을 것입니다.</Quest_City_Assassinate.letterText>
+  <Quest_City_Assassinate.letterLabel>암살 퀘스트</Quest_City_Assassinate.letterLabel>
+  <Quest_City_Assassinate.questParts.1.letter>암살 목표</Quest_City_Assassinate.questParts.1.letter>
+  <Quest_City_Assassinate.questParts.2.letter>목표 도주</Quest_City_Assassinate.questParts.2.letter>
+  <Quest_City_Defend.label>도시 방어 퀘스트</Quest_City_Defend.label>
+  <Quest_City_Defend.letterText>{2}이(가) {0}에게 집중 포위를 받고 있고, 지원이 절실히 필요합니다. 당신이 {2}을(를) 성공적으로 방어한다면, 그들의 감사에 표시로 당신의 기지에게 이 도시가 주어질 것 입니다.</Quest_City_Defend.letterText>
+  <Quest_City_Defend.letterLabel>도시가 공격받고 있습니다</Quest_City_Defend.letterLabel>
+  <Quest_City_Defend.questParts.1.letter>침입자들이 도망갑니다</Quest_City_Defend.questParts.1.letter>
+  <Quest_City_Defend.questParts.2.letter>도시가 함락됐습니다</Quest_City_Defend.questParts.2.letter>
+  <Quest_City_PrisonBreak.label>탈옥 퀘스트</Quest_City_PrisonBreak.label>
+  <Quest_City_PrisonBreak.letterText>{1}의 포로들이 탈옥 계획을 창안했습니다. 당신이 돕는 것을 선택한다면, 그들은 석방되는 즉시 당신의 기지에 들어올 것 입니다. 불행하게도, 그들의 억류자는 제보를 받았고 당신의 도착에 대비하고 있습니다. 포로가 탈출하기 전에 당신이 {1}에 진입한다면, {0}으로부터 적대적인 반응이 발생할 것이 예상됩니다.</Quest_City_PrisonBreak.letterText>
+  <Quest_City_PrisonBreak.letterLabel>감옥 플롯</Quest_City_PrisonBreak.letterLabel>
+  <Quest_City_PrisonBreak.questParts.0.letter>포로들이 탈옥했습니다</Quest_City_PrisonBreak.questParts.0.letter>
+  <Keanu_WickDog.label>강아지가 도착함</Keanu_WickDog.label>
+  <Keanu_WickDog.letterText>사랑스러운 강아지가 당신의 기지를 돌아다닙니다.</Keanu_WickDog.letterText>
+  <Keanu_WickDog.letterLabel>강아지가 도착함</Keanu_WickDog.letterLabel>
+  <Keanu_WickRevenge.label>강아지에 대한 복수</Keanu_WickRevenge.label>
+  <Keanu_WickRevenge.letterText>비글이 죽자, 한 남자가 복수와 유혈을 찾아 나서고 있습니다. 살고 싶으면 도망치세요!</Keanu_WickRevenge.letterText>
+  <Keanu_WickRevenge.letterLabel>강아지에 대한 복수</Keanu_WickRevenge.letterLabel>
+
+  <!--1778162471_190626_RazzleDazzle-->
+  <RAZSubscription.label>구독 끊김(subscription drop)</RAZSubscription.label>
+
+  <!--719702781_190814_Misc. Incidents-->
+  <ArtefactFound.label>유물 발견</ArtefactFound.label>
+  <Battlefield.label>전쟁터</Battlefield.label>
+  <CrashedCryptoSleepCasket.label>추락한 탈출 포드</CrashedCryptoSleepCasket.label>
+
+  <!--758810805_190811_FishIndustry-->
+  <MicroFungus.label>미세 곰팡이</MicroFungus.label>
+
+  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
+  <ROM_StarVampireAttack.letterLabel>냉기</ROM_StarVampireAttack.letterLabel>
+  <ROM_ChthonianPit.letterText>당신의 정착지 근처에 거대한 싱크 홀이 생겼습니다.\n\n거대한 짐승이 당신의 정착지를 보이지 않는 손가락으로 정신을 긁어 모으려 하고 있습니다.\n\n그것은 희생을 요구합니다. 먹이를 주거나 빨리 파괴하세요.</ROM_ChthonianPit.letterText>
+  <ROM_StarVampireAttack.letterText>기분나쁜 침묵이 땅으로부터 밀려옵니다. 뭔가 다가오고 있습니다.</ROM_StarVampireAttack.letterText>
+  <ROM_DarkYoung.label>다크 영</ROM_DarkYoung.label>
+  <ROM_RaidCosmicHorrors.label>공포 습격</ROM_RaidCosmicHorrors.label>
+  <ROM_StarVampireAttack.label>스타 뱀파이어 공격</ROM_StarVampireAttack.label>
+  <ROM_ChthonianPit.letterLabel>기괴한 싱크 홀</ROM_ChthonianPit.letterLabel>
+  <ROM_ChthonianPit.label>기괴한 싱크 홀 (크토니안)</ROM_ChthonianPit.label>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Cults_SpellOrthogenesis.description>[Game Ending Spell]\n딥-원의 거대한 도시들에 들어갈 당신의 정착지, 그리고 그들은 곧 하나가 되고, 다곤 무리와 함께 딥-원과 통합될 수 있음을 깨달았습니다.</Cults_SpellOrthogenesis.description>
+  <Cults_SpellTransdimensionalConvergence.description>[Game Ending Spell]\n슈브-니구라스가 세계의 생물을 변화시키면서 이 차원을 완전히 침식하도록 허용하세요.</Cults_SpellTransdimensionalConvergence.description>
+  <Cults_SpellCallToDarkness.description>[Game Ending Spell]\n은혜를 갚기 위한 어둠의 소리가 들려옵니다.</Cults_SpellCallToDarkness.description>
+  <Cults_SpellAwakenCthulhu.description>[Game Ending Spell]\n크툴루의 각성 효과는 알려지지 않았습니다.</Cults_SpellAwakenCthulhu.description>
+  <Cults_BastSpellPassageToAaru.description>[Game Ending Spell]\n바스트는 이 작은 정착지가 아루로 갈 자격이 있다고 생각합니다.</Cults_BastSpellPassageToAaru.description>
+  <Cults_SpellAbsorptionByCarcosa.description>[Game Ending Spell]\n작은 정착지는 하스터가 자신의 영역에 들어가 카르코사에 흡수될 만한 가치가 있다고 판단합니다.</Cults_SpellAbsorptionByCarcosa.description>
+  <Cults_SpellPilgrimageToKadath.description>[Game Ending Spell]\n꿈의 세계에서 니알라토텝과 계약하시겠습니까?</Cults_SpellPilgrimageToKadath.description>
+  <Cults_SpellBlight.letterText>잿더미가 들판을 강타합니다.</Cults_SpellBlight.letterText>
+  <Cults_SpellDoubleTheFun.letterText>섬광 폭풍이 이곳을 덮칩니다.</Cults_SpellDoubleTheFun.letterText>
+  <Cults_SpellFlashstorm.letterText>섬광 폭풍이 이곳을 덮칩니다.</Cults_SpellFlashstorm.letterText>
+  <Cults_SpellAuroraEffect.letterText>웅장한 오로라가 나타납니다.</Cults_SpellAuroraEffect.letterText>
+  <Cults_SpellDarkEmissary.description>새로운 종교인이 이 정착지에 합류합니다.</Cults_SpellDarkEmissary.description>
+  <Cults_SpellVisionsOfCarcosa.description>정착민 중 일부는 꿈속에서 잃어버린 도시인 카르코사를 5-6시간 방문한 뒤 꿈에서 깰 것입니다.</Cults_SpellVisionsOfCarcosa.description>
+  <Cults_SpellStarVampireVisit.letterText>별을 빨아먹는 흡혈귀가 우리의 현실의 베일을 꿰뚫습니다.</Cults_SpellStarVampireVisit.letterText>
+  <Cults_SpellAbsorptionByCarcosa.label>카르코사의 흡수</Cults_SpellAbsorptionByCarcosa.label>
+  <Cults_SpellChaosTheory.description>니알라토텝에게 거래를 받아들여 삶을 바꿔보십시오. 이것은 실행자로부터 모든 기능을 제거하고 전체 배경을 변경합니다.</Cults_SpellChaosTheory.description>
+  <Cults_SpellTheKingInYellow.description>악명 높은 연극인, "노란옷의 왕"을 재현하십시오. 내용에 빠진 사람들은 즉시 숭배하기 시작할 것입니다.</Cults_SpellTheKingInYellow.description>
+  <Cults_SpellTransmogrifyPets.description>슈브 니구라스가 당신의 사랑하는 애완 동물의 유전자 구조를 자신의 산란에 어울리는 몸으로 변형시킵니다.</Cults_SpellTransmogrifyPets.description>
+  <Cults_SpellForbiddenKnowledge.letterLabel>금지 된 지식을 허락해 달라고 요청하세요.</Cults_SpellForbiddenKnowledge.letterLabel>
+  <Cults_SpellPilgrimageToKadath.letterLabel>그의 많은 보자들 중 하나를 달라고 요청하십시오.</Cults_SpellPilgrimageToKadath.letterLabel>
+  <Cults_SpellDefendTheBrood.letterLabel>자신을 보호해달라고 요청했습니다</Cults_SpellDefendTheBrood.letterLabel>
+  <Cults_SpellTerrestrialInsanityWave.letterLabel>적을 혼란에 빠뜨리라고 요청하세요.</Cults_SpellTerrestrialInsanityWave.letterLabel>
+  <Cults_SpellTransdimensionalConvergence.letterLabel>장벽을 허물고 길을 열어 보려합니다.</Cults_SpellTransdimensionalConvergence.letterLabel>
+  <Cults_SpellElixerOfPower.letterLabel>강력한 힘을 영혼과 맞바꿉니다</Cults_SpellElixerOfPower.letterLabel>
+  <Cults_SpellSummonByakhee.letterLabel>그가 원한다면 자신의 별의 끔찍한 말 중 하나를 보내줄 것입니다.</Cults_SpellSummonByakhee.letterLabel>
+  <Cults_SpellAbsorptionByCarcosa.letterLabel>너의 작은 정착지를 바라보면서 선택해 달라고 외칩니다.</Cults_SpellAbsorptionByCarcosa.letterLabel>
+  <Cults_BastSpellPassageToAaru.letterLabel>그리고 애원하며 부르짖으니 그녀가 작은 정착지를 바라보고는 자격이 있다고 생각했습니다</Cults_BastSpellPassageToAaru.letterLabel>
+  <Cults_BastSpellInspiration.letterLabel>그리고 그녀의 존재를 느낌</Cults_BastSpellInspiration.letterLabel>
+  <Cults_BastSpellFelineAspect.letterLabel>그리고 그녀의 존재를 느낌</Cults_BastSpellFelineAspect.letterLabel>
+  <Cults_SpellStarryWisdom.letterLabel>타락한 자에게 빛과 교환 할 꿈의 댓가를 주거라.</Cults_SpellStarryWisdom.letterLabel>
+  <Cults_BastSpellSummonGuardian.letterLabel>그리고 적들을 무찌르도록</Cults_BastSpellSummonGuardian.letterLabel>
+  <Cults_SpellFormlessSpawn.letterLabel>그를 설득하여 하인을 빌려주었습니다</Cults_SpellFormlessSpawn.letterLabel>
+  <Cults_SpellChaosTheory.letterLabel>과거의 실수를 바로 잡을 기회를 원합니다.</Cults_SpellChaosTheory.letterLabel>
+  <Cults_SpellVisionsOfCarcosa.letterLabel>멀리 떨어진 카르코사의 몽롱한 첨탑의 난간에서 그는 소원을 빌었습니다.</Cults_SpellVisionsOfCarcosa.letterLabel>
+  <Cults_SpellTheKingInYellow.letterLabel>그리고 가면을 쓰지 않은 방문객과 뒤따라 오는 자들에게 운명의 이야기를 속삭이도록 간청하세요.</Cults_SpellTheKingInYellow.letterLabel>
+  <Cults_SpellBlackIchor.letterLabel>배고픔에 굶주리며 식욕을 채우기 위해 도움을 요청하고 있었습니다</Cults_SpellBlackIchor.letterLabel>
+  <Cults_BastSpellInspiration.letterText>그리고 신도들이 영감을 받았습니다.</Cults_BastSpellInspiration.letterText>
+  <Cults_SpellCallToDarkness.letterLabel>신을 데려오기 위해 세상의 종말을 고하며 소리를 지릅니다</Cults_SpellCallToDarkness.letterLabel>
+  <Cults_SpellAspectOfCthulhu.label>크툴루의 이면</Cults_SpellAspectOfCthulhu.label>
+  <Cults_SpellAuroraEffect.label>오로라</Cults_SpellAuroraEffect.label>
+  <Cults_SpellAwakenCthulhu.label>깨어난 크툴루</Cults_SpellAwakenCthulhu.label>
+  <Cults_BastSpellInspiration.description>바스트는 모두에게 영감을 주며 정착민들에게 미소를 지었습니다</Cults_BastSpellInspiration.description>
+  <Cults_SpellSleeperOfNKai.letterText>검은색 덩굴손이 땅을 뚫고 흘러나와 작은 형체가 됐으며 배고픔에 굶주리고 있습니다.</Cults_SpellSleeperOfNKai.letterText>
+  <Cults_SpellWombBetweenWorlds.letterText>포도 덩굴과 같은 촉수가 땅에서 분출하는 것을 목격합니다. 행성은 마치 새로운 괴물을 낳는 것처럼 열리고 찢어지고 있습니다.</Cults_SpellWombBetweenWorlds.letterText>
+  <Cults_SpellBlackIchor.label>검은 영액</Cults_SpellBlackIchor.label>
+  <Cults_SpellBlight.label>마름병</Cults_SpellBlight.label>
+  <Cults_SpellBlight.letterLabel>마름병</Cults_SpellBlight.letterLabel>
+  <Cults_SpellBountyOfTheSea.label>바다의 현상금</Cults_SpellBountyOfTheSea.label>
+  <Cults_SpellElixerOfPower.description>특수한 영액을 가져오면 강력한 힘을 얻을 수 있습니다.</Cults_SpellElixerOfPower.description>
+  <Cults_SpellDefendTheBrood.description>정착지를 지키기 위한 방어단을 조직합니다. 조직하기에 앞서, 다곤과 계약해야 합니다.</Cults_SpellDefendTheBrood.description>
+  <Cults_SpellTreasuresOfTheDeep.description>고대 우주선에서 잃어버린 은, 금과 같은 귀중한 자원들로 보물상자들을 채워 넣었습니다.</Cults_SpellTreasuresOfTheDeep.description>
+  <Cults_SpellBlackIchor.description>정착민들이 배고픔을 채워주고 기분을 좋게 해주자 향긋한 검은 영액을 가져다 주었습니다.</Cults_SpellBlackIchor.description>
+  <Cults_SpellCallToDarkness.label>어둠의 부름</Cults_SpellCallToDarkness.label>
+  <Cults_SpellMotherOfGoats.letterText>멀리서 염소 비명소리가 들립니다.</Cults_SpellMotherOfGoats.letterText>
+  <Cults_SpellDarkEmissary.letterText>방문자의 도착을 느낄 수 있습니다.</Cults_SpellDarkEmissary.letterText>
+  <Cults_SpellOrbitalInsanityWave.description>이 행성 궤도 주위로 강력한 파동이 발생합니다. 이로 인해 우주선들이 주변에서 충돌하게 됩니다.</Cults_SpellOrbitalInsanityWave.description>
+  <Cults_SpellTerrestrialInsanityWave.description>이 지역에 강력한 파동이 발생합니다. 모든 인간형 적들은 무시무시한 정신병을 가지고 환각을 보게 될 것입니다.</Cults_SpellTerrestrialInsanityWave.description>
+  <Cults_SpellChaosTheory.label>혼돈 이론</Cults_SpellChaosTheory.label>
+  <Cults_SpellTerrestrialInsanityWave.letterText>크툴루가 원수를 광기에 빠뜨려 승리의 기쁨을 선사합니다.</Cults_SpellTerrestrialInsanityWave.letterText>
+  <Cults_SpellBountyOfTheSea.description>다곤은 먼 바다의 표면에서 배를 찢고 신천한 시체를 가져옵니다.</Cults_SpellBountyOfTheSea.description>
+  <Cults_SpellDarkEmissary.label>은밀한 밀정</Cults_SpellDarkEmissary.label>
+  <Cults_DebugSpawnCultPreacher.letterText>디버그 - 절대 사용하지 마세요</Cults_DebugSpawnCultPreacher.letterText>
+  <Cults_DebugSpawnCultPreacher.label>디버그: 전도사 소환</Cults_DebugSpawnCultPreacher.label>
+  <Cults_SpellDefendTheBrood.label>방어단 경비병</Cults_SpellDefendTheBrood.label>
+  <Cults_SpellSunkenShip.description>멀리 떨어진 우주에서 정착지까지 난파선의 일부가 날아와, 해체시 목재, 강철, 프라스틸 등을 제공할 수 있습니다.</Cults_SpellSunkenShip.description>
+  <Cults_BastSpellInspiration.label>신의 열정</Cults_BastSpellInspiration.label>
+  <Cults_BastSpellPassageToAaru.letterText>가면을 쓰고 자유</Cults_BastSpellPassageToAaru.letterText>
+  <Cults_SpellAbsorptionByCarcosa.letterText>가면을 쓰고 자유를 얻습니다.</Cults_SpellAbsorptionByCarcosa.letterText>
+  <Cults_SpellDoubleTheFun.label>재미 두배</Cults_SpellDoubleTheFun.label>
+  <Cults_SpellEclipse.label>일식</Cults_SpellEclipse.label>
+  <Cults_SpellEclipse.letterLabel>일식</Cults_SpellEclipse.letterLabel>
+  <Cults_SpellEcstaticFrenzy.label>황홀한 광란</Cults_SpellEcstaticFrenzy.label>
+  <Cults_SpellElixerOfPower.label>힘의 엘릭서</Cults_SpellElixerOfPower.label>
+  <Cults_BastSpellFavor.label>호의</Cults_BastSpellFavor.label>
+  <Cults_SpellFavor.label>호의</Cults_SpellFavor.label>
+  <Cults_SpellAwakenCthulhu.letterText>위대한 크툴루가 깨어나자마자 마음이 찢어지는 것을 느낍니다. 현실의 감각이 더 얇고, 또 얇아집니다.</Cults_SpellAwakenCthulhu.letterText>
+  <Cults_SpellVisionsOfCarcosa.letterText>그들은 하이데가 멀리 떨어진 카르코사의 검은 별 아래의 앉아서 자신들을 끌어당기기 위해 수면의 덩굴손을 뻗는 것을 느꼈습니다.</Cults_SpellVisionsOfCarcosa.letterText>
+  <Cults_BastSpellFelineAspect.label>묘상</Cults_BastSpellFelineAspect.label>
+  <Cults_BastSpellFavor.letterText>우주와 시공간을 초월한 존재가 연결되어 있음을 느꼈고</Cults_BastSpellFavor.letterText>
+  <Cults_SpellFavor.letterText>초자연적인 존재가 공간과 시간을 넘어 자신들과 연결되어 있다고 느낍니다.</Cults_SpellFavor.letterText>
+  <Cults_SpellPsionicGrowth.letterText>그들의 머리에 강력한 압력을 느꼈습니다. 곧 그들은 새롭고 이상한 눈으로 세상을 보게 되었습니다.</Cults_SpellPsionicGrowth.letterText>
+  <Cults_SpellOrbitalInsanityWave.letterText>마치 크툴루가 손을 뻗어 우주선을 약탈한 것이라고 느꼈습니다.</Cults_SpellOrbitalInsanityWave.letterText>
+  <Cults_SpellFertility.label>풍요 의식</Cults_SpellFertility.label>
+  <Cults_SpellPilgrimageToKadath.letterText>긴 길의 시작에서 낯선 사람을 앞에두고 손짓합니다.</Cults_SpellPilgrimageToKadath.letterText>
+  <Cults_SpellDoubleTheFun.letterLabel>섬광 폭풍</Cults_SpellDoubleTheFun.letterLabel>
+  <Cults_SpellFlashstorm.label>섬광 폭풍</Cults_SpellFlashstorm.label>
+  <Cults_SpellFlashstorm.letterLabel>섬광 폭풍</Cults_SpellFlashstorm.letterLabel>
+  <Cults_SpellFoodSpoilage.label>음식 부패</Cults_SpellFoodSpoilage.label>
+  <Cults_SpellForbiddenKnowledge.label>금지된 지식</Cults_SpellForbiddenKnowledge.label>
+  <Cults_SpellPsionicGrowth.description>정착림의 두뇌안에 종양을 심고 성장시켜, 강력한 사이오닉 근접 공격을 가할 수 있게 합니다.</Cults_SpellPsionicGrowth.description>
+  <Cults_SpellForbiddenKnowledge.description>현재 연구하는 프로젝트에 상당한 보너스를 줍니다.</Cults_SpellForbiddenKnowledge.description>
+  <Cults_SpellStarryWisdom.letterText>진실의 마음을 열었습니다.</Cults_SpellStarryWisdom.letterText>
+  <Cults_SpellBountyOfTheSea.letterText>추락과 비명소리와 함께 상품을 배달해 줍니다.</Cults_SpellBountyOfTheSea.letterText>
+  <Cults_SpellDefendTheBrood.letterText>멀리서 삐걱거리는 소리가 들립니다. 그리고 합창을 하며And then another, and then a chorus</Cults_SpellDefendTheBrood.letterText>
+  <Cults_SpellForbiddenKnowledge.letterText>속삼임을 통해 비밀을 은밀하게 듣습니다.</Cults_SpellForbiddenKnowledge.letterText>
+  <Cults_SpellBlackIchor.letterText>섬뜩할 정도로 검은 액체가 흘러나와 유역을 채우며 기이한 속삭임이 들렸습니다</Cults_SpellBlackIchor.letterText>
+  <Cults_SpellOrthogenesis.letterText>땅이 울리고, 길고 날카로운 까악 까악 우는 소리가 들립니다. 바다에서 손짓하며 부르고 있습니다.</Cults_SpellOrthogenesis.letterText>
+  <Cults_SpellSummonByakhee.letterText>소름끼치는 비명 소리와 거친 날개 소리가 들립니다.</Cults_SpellSummonByakhee.letterText>
+  <Cults_SpellCallToDarkness.letterText>영면자를 깨우기 보단, 이 세계의 재단을 부수고, 꿈쩍도 하지 않는 두꺼비 신의 아래에서 큰 붕괴를 일으켜 죽음의 영역을 가져옵니다</Cults_SpellCallToDarkness.letterText>
+  <Cults_SpellSunkenShip.letterText>우주에서 안개가 걷히는 모습을 볼 수 있습니다.</Cults_SpellSunkenShip.letterText>
+  <Cults_SpellChaosTheory.letterText>다시 태어나기 전 까지 시간을 되돌려 삶을 다시 살아갑니다.</Cults_SpellChaosTheory.letterText>
+  <CultSeedIncident_TreeOfNightmares.letterText>그것은 영혼을 통하여 모든것을 꿰뚫어 보는 것 같습니다.</CultSeedIncident_TreeOfNightmares.letterText>
+  <CultSeedIncident_NightmareMonolith.letterText>그것은 영혼을 통하여 모든것을 꿰뚫어 보는 것 같습니다.</CultSeedIncident_NightmareMonolith.letterText>
+  <Cults_SpellTreasuresOfTheDeep.letterText>그저 존재했었다는 증거로써, 그들이 남긴 보물을 발견한다.</Cults_SpellTreasuresOfTheDeep.letterText>
+  <Cults_SpellAspectOfCthulhu.letterText>크툴루의 축복을 받은 사람을 보고 두려움에 주위를 살핍니다.</Cults_SpellAspectOfCthulhu.letterText>
+  <Cults_SpellTransmogrifyPets.letterText>선택한 생물의 피부가 부풀어 오르고, 아래쪽의 변화가 계속됩니다. 그것은 시선을 도리며 무언가를 움츠러 댑니다.</Cults_SpellTransmogrifyPets.letterText>
+  <Cults_BastSpellFavor.description>이익을 바라지 않고 제물을 바칩니다.</Cults_BastSpellFavor.description>
+  <Cults_SpellFavor.description>어떤 이득도 원하지 않는, 순수한 희생입니다.</Cults_SpellFavor.description>
+  <Cults_BastSpellSanctuary.letterLabel>적들이 도망을 쳐도 부질한 짓임을</Cults_BastSpellSanctuary.letterLabel>
+  <CultSeedIncident_NightmareMonolith.label>모노리스</CultSeedIncident_NightmareMonolith.label>
+  <CultSeedIncident_NightmareMonolith.letterLabel>모노리스</CultSeedIncident_NightmareMonolith.letterLabel>
+  <Cults_SpellMotherOfGoats.label>염소의 어머니</Cults_SpellMotherOfGoats.label>
+  <Cults_SpellNeedAHand.label>도움의 요청</Cults_SpellNeedAHand.label>
+  <Cults_SpellNoLongerDomesticated.label>야생화</Cults_SpellNoLongerDomesticated.label>
+  <Cults_SpellNeedAHand.letterText>그들의 공포에, 그들은 곧 자신들이 아니게 되었습니다.</Cults_SpellNeedAHand.letterText>
+  <Cults_SpellOrbitalInsanityWave.label>궤도 밖 광기 파동</Cults_SpellOrbitalInsanityWave.label>
+  <Cults_SpellOrthogenesis.label>정향 진화</Cults_SpellOrthogenesis.label>
+  <Cults_SpellSunkenShip.letterLabel>절망과 욕심에서 벗어나, 우주에서 부를 나눕니다.</Cults_SpellSunkenShip.letterLabel>
+  <Cults_SpellTreasuresOfTheDeep.letterLabel>절망 또는 탐욕으로부터, 우주로부터 부에서 부를 배달합니다.</Cults_SpellTreasuresOfTheDeep.letterLabel>
+  <Cults_SpellBountyOfTheSea.letterLabel>절망이나 욕심에서 벗어나, 바다에서 부를 나눠줍니다.</Cults_SpellBountyOfTheSea.letterLabel>
+  <Cults_BastSpellPassageToAaru.label>아루로 가는 길</Cults_BastSpellPassageToAaru.label>
+  <Cults_SpellPilgrimageToKadath.label>카다스 순례</Cults_SpellPilgrimageToKadath.label>
+  <Cults_BastSpellSanctuary.description>많은 적세력으로부터 정착지를 보호합니다</Cults_BastSpellSanctuary.description>
+  <Cults_SpellPsionicGrowth.label>사이오닉 성장</Cults_SpellPsionicGrowth.label>
+  <Cults_SpellFormlessSpawn.description>정착지를 돕기위해 검은 영액에서 나온 존재는 차토구아의 무형의 낙태아입니다.</Cults_SpellFormlessSpawn.description>
+  <Cults_SpellRatsInTheWalls.label>벽에 있는 쥐</Cults_SpellRatsInTheWalls.label>
+  <Cults_SpellUnspeakableOath.letterText>노란 옷의 가면을 쓴 사람은 더 이상 자신의 삶이 자신의 것이 아니라는 것을 깨닫습니다.</Cults_SpellUnspeakableOath.letterText>
+  <Cults_SpellReanimator.label>소생</Cults_SpellReanimator.label>
+  <Cults_SpellReincarnation.label>환생</Cults_SpellReincarnation.label>
+  <Cults_SpellReincarnation.letterLabel>환생</Cults_SpellReincarnation.letterLabel>
+  <Cults_SpellTransdimensionalConvergence.letterText>장벽을 허물고 더 높은 차원을 열어 어머니의 여신이 낮은 곳까지 내려옵니다.</Cults_SpellTransdimensionalConvergence.letterText>
+  <Cults_BastSpellSanctuary.label>성역</Cults_BastSpellSanctuary.label>
+  <Cults_SpellRatsInTheWalls.letterText>핡퀴고, 긁는 소리와 함께 무수한 쥐가 마침내 마루판을 뚫고 나왔다.</Cults_SpellRatsInTheWalls.letterText>
+  <Cults_SpellElixerOfPower.letterText>극심한 굶주림의 고통에 시달리고 있을때 벽에서 흘러나오는 강력한 힘이 담긴 특수한 영액을 보고 작은 그릇에 담았습니다</Cults_SpellElixerOfPower.letterText>
+  <Cults_BastSpellSummonGuardian.letterText>애완동물이 빛의 섬광에 흡수되며 사나운 짐승으로 변형되는 것을 보았습니다</Cults_BastSpellSummonGuardian.letterText>
+  <Cults_SpellFormlessSpawn.letterText>검은 영액이 격렬하게 폭발했습니다 -- 과연 살아있을까요?</Cults_SpellFormlessSpawn.letterText>
+  <Cults_BastSpellSanctuary.letterText>적들이 도망치는 동안 안도의 한숨을</Cults_BastSpellSanctuary.letterText>
+  <Cults_SpellSleeperOfNKai.label>운'카이의 영면자</Cults_SpellSleeperOfNKai.label>
+  <Cults_SpellTheKingInYellow.letterText>열정적으로 미소짓습니다. 이번 연극이 어떻게 끝나는 지는 알 수도, 기다릴 수도 없습니다.</Cults_SpellTheKingInYellow.letterText>
+  <Cults_SpellNoLongerDomesticated.letterText>정착지의 동물 중 일부는 광기를 통해 야생화되었습니다.</Cults_SpellNoLongerDomesticated.letterText>
+  <Cults_SpellFoodSpoilage.letterText>그 어떤 음식점은 신비하게도 모든 음식이 썩어 먹지 못하게 됩니다.</Cults_SpellFoodSpoilage.letterText>
+  <Cults_SpellFoodSpoilage.letterLabel>음식 부패</Cults_SpellFoodSpoilage.letterLabel>
+  <Cults_SpellStarryWisdom.label>별빛의 지혜</Cults_SpellStarryWisdom.label>
+  <CultIncident_StarsAreRight.label>질서의 별</CultIncident_StarsAreRight.label>
+  <CultIncident_StarsAreWrong.label>부정한 별</CultIncident_StarsAreWrong.label>
+  <Cults_SpellSummonByakhee.description>방어와 수송을 위한 비야키를 소환하세요.</Cults_SpellSummonByakhee.description>
+  <Cults_SpellSummonByakhee.label>비야키 소환</Cults_SpellSummonByakhee.label>
+  <Cults_SpellFormlessSpawn.label>무형의 낙태아 소환</Cults_SpellFormlessSpawn.label>
+  <Cults_BastSpellSummonGuardian.label>수호자 소환</Cults_BastSpellSummonGuardian.label>
+  <Cults_SpellStarVampireVisit.label>소환 별을 빨아먹는 흡혈귀</Cults_SpellStarVampireVisit.label>
+  <Cults_SpellFertility.description>힘든 시기를 이겨내기 위해 정착지를 지원하기 위한 풍요 토템을 소환합니다.</Cults_SpellFertility.description>
+  <Cults_SpellMotherOfGoats.description>당신의 식량을 찾는 사냥꾼들에게 사냥을 위한 검은 염소 떼를 소환합니다.</Cults_SpellMotherOfGoats.description>
+  <Cults_SpellWombBetweenWorlds.description>슈브 니구라스가 필요 없다고 여길 때까지 어둡고 어린 몬스터를 분출하는 포털을 불러 당신을 섬기게 합니다.</Cults_SpellWombBetweenWorlds.description>
+  <Cults_SpellSleeperOfNKai.description>습격자를 단번에 잠재울 우상을 소환했습니다.</Cults_SpellSleeperOfNKai.description>
+  <Cults_SpellSunkenShip.label>침몰한 배</Cults_SpellSunkenShip.label>
+  <Cults_SpellTerrestrialInsanityWave.label>지상의 광기 파동</Cults_SpellTerrestrialInsanityWave.label>
+  <Cults_SpellTheKingInYellow.label>노란옷의 왕, Act I</Cults_SpellTheKingInYellow.label>
+  <Cults_SpellVisionsOfCarcosa.label>노란옷의 왕, Act II</Cults_SpellVisionsOfCarcosa.label>
+  <CultIncident_StarsAreRight.letterText>행성들이 정렬되기 시작합니다. 다른 세상의 '무엇'은 정착림들을 부르고 있는 것 같습니다.</CultIncident_StarsAreRight.letterText>
+  <Cults_SpellReincarnation.letterText>나뭇가지와 나무의 몸통 부분으로 희생 제단이 변화되어 파괴되었습니다. 그것은 마치 사람의 사악한 모습 그 자체입니다.</Cults_SpellReincarnation.letterText>
+  <Cults_SpellAspectOfCthulhu.description>정착림 중 한명의 사지 중 하나가 강력한 촉수로 변이했습니다.</Cults_SpellAspectOfCthulhu.description>
+  <CultIncident_StarsAreRight.letterLabel>올곧은 별</CultIncident_StarsAreRight.letterLabel>
+  <CultIncident_StarsAreWrong.letterLabel>별의 타락</CultIncident_StarsAreWrong.letterLabel>
+  <Cults_SpellEcstaticFrenzy.letterText>그들의 열렬한 의식을 통해, 당신의 이교도들은 동물처럼 야생화되어 서로 싸우게 되었습니다.</Cults_SpellEcstaticFrenzy.letterText>
+  <Cults_SpellAwakenCthulhu.letterLabel>그의 긴 잠에서 깨어나 세계를 지배하기 시작합니다.</Cults_SpellAwakenCthulhu.letterLabel>
+  <Cults_SpellAspectOfCthulhu.letterLabel>다른세계의 일부를 부여받았습니다.</Cults_SpellAspectOfCthulhu.letterLabel>
+  <Cults_SpellPsionicGrowth.letterLabel>사이오닉 힘을 받았습니다.</Cults_SpellPsionicGrowth.letterLabel>
+  <Cults_BastSpellFavor.letterLabel>알아차림</Cults_BastSpellFavor.letterLabel>
+  <Cults_SpellFavor.letterLabel>눈치를 챔</Cults_SpellFavor.letterLabel>
+  <Cults_SpellTransmogrifyPets.letterLabel>짐승들에게 다른 차원의 생물학을 부여해 축복합니다.</Cults_SpellTransmogrifyPets.letterLabel>
+  <Cults_SpellFertility.letterLabel>농작물을 축복합니다.</Cults_SpellFertility.letterLabel>
+  <Cults_SpellMotherOfGoats.letterLabel>식량을 축복합니다.</Cults_SpellMotherOfGoats.letterLabel>
+  <Cults_SpellDarkEmissary.letterLabel>당신의 종교가 더 강해지고 있습니다.</Cults_SpellDarkEmissary.letterLabel>
+  <Cults_SpellOrthogenesis.letterLabel>축복이 시작되었습니다. 초대장이 주어졌습니다.</Cults_SpellOrthogenesis.letterLabel>
+  <Cults_SpellSleeperOfNKai.letterLabel>토템의 힘의 대가로 배고픔을 달래주었고</Cults_SpellSleeperOfNKai.letterLabel>
+  <Cults_SpellOrbitalInsanityWave.letterLabel>사람들을 그의 꿈과 공허로 인도합니다.</Cults_SpellOrbitalInsanityWave.letterLabel>
+  <Cults_SpellWombBetweenWorlds.letterLabel>강력한 동료를 소환합니다.</Cults_SpellWombBetweenWorlds.letterLabel>
+  <Cults_SpellUnspeakableOath.letterLabel>결코 그의 이름을 말할 수 없는 맹세를 합니다.</Cults_SpellUnspeakableOath.letterLabel>
+  <Cults_SpellTransdimensionalConvergence.label>차원 융합</Cults_SpellTransdimensionalConvergence.label>
+  <Cults_BastSpellSummonGuardian.description>귀여운 고양이들을 수호자로 변형시켰습니다.</Cults_BastSpellSummonGuardian.description>
+  <Cults_SpellStarryWisdom.description>집행자의 마음을 정신병자의 정신으로 바꿉니다. 정신병자도 식인종으로 변할 것입니다.</Cults_SpellStarryWisdom.description>
+  <Cults_SpellTransmogrifyPets.label>애완동물의 변형</Cults_SpellTransmogrifyPets.label>
+  <Cults_BastSpellFelineAspect.description>설교자를 고양이 같은 발톱과 우아한 모습으로 변형시켰습니다.</Cults_BastSpellFelineAspect.description>
+  <Cults_SpellTreasuresOfTheDeep.label>깊은 보물</Cults_SpellTreasuresOfTheDeep.label>
+  <CultSeedIncident_TreeOfNightmares.label>악몽의 나무</CultSeedIncident_TreeOfNightmares.label>
+  <CultSeedIncident_TreeOfNightmares.letterLabel>악몽의 나무</CultSeedIncident_TreeOfNightmares.letterLabel>
+  <CultIncident_StarsAreWrong.letterText>우주의 법칙에서 벗어난 별이 마치 경멸과 증오에 찬 모습으로 우리를 자극하는 것 같습니다. 이 기간 동안에는 희생의식을 진행하지 않는 것이 좋을 것 같습니다.</CultIncident_StarsAreWrong.letterText>
+  <Cults_SpellEclipse.letterText>보이지 않는 힘에 의해 행성의 달 중 하나가 태양 앞에 섰습니다. 일식이 시작되었습니다.</Cults_SpellEclipse.letterText>
+  <Cults_SpellUnspeakableOath.label>말할수 없는 맹세</Cults_SpellUnspeakableOath.label>
+  <Cults_BastSpellFelineAspect.letterText>손톱이 발톱으로 변하며 비정상적으로 민첨해짐을 느끼는 것을 볼 수 있었습니다</Cults_BastSpellFelineAspect.letterText>
+  <CultSeedIncident_TreeOfNightmares.description>이게 뭐야?</CultSeedIncident_TreeOfNightmares.description>
+  <CultSeedIncident_NightmareMonolith.description>이게 뭐야?</CultSeedIncident_NightmareMonolith.description>
+  <Cults_SpellUnspeakableOath.description>시전자는 하스터의 도움을 받을 수 있지만, 죽고나서는 몸의 자유를 잃고 그의 도구와 장난감이 됩니다.</Cults_SpellUnspeakableOath.description>
+  <Cults_SpellFertility.letterText>검은 염소와 희생 제물로 완전히 떠오르는 토템을 목격했습니다.</Cults_SpellFertility.letterText>
+  <Cults_SpellWombBetweenWorlds.label>세계의 자궁</Cults_SpellWombBetweenWorlds.label>
+  <Cults_SpellReanimator.letterText>제물로 인해 죽은 사람이 살아났습니다</Cults_SpellReanimator.letterText>
+
+  <!--928992405_190519_1.0_Starship_Troopers_Arachnids-->
+  <ArachnidAllOutAssault.label>아라크니드 총 공세</ArachnidAllOutAssault.label>
+  <ArachnidWarriorsSiege.label>아라크니드 워리어 버그 공성</ArachnidWarriorsSiege.label>
+  <ArachnidGiantBugsAssault.label>아라크니드 자이언트 버그 공세</ArachnidGiantBugsAssault.label>
+  <ArachnidEscortedGiantsAssault.label>아라크니드 자이언트 버그 호위 공세</ArachnidEscortedGiantsAssault.label>
+  <ArachnidScorpionBugThreat.label>아라크니드 스콜피온 버그 위협</ArachnidScorpionBugThreat.label>
+  <ArachnidTankerBugThreat.label>아라크니드 탱커 버그 위협</ArachnidTankerBugThreat.label>
+  <ArachnidPlasmaSupportedAssault.label>아라크니드 플라즈마 지원 공세</ArachnidPlasmaSupportedAssault.label>
+  <ArachnidPlasmaBombardment.label>아라크니드 플라즈마 버그 폭격</ArachnidPlasmaBombardment.label>
+  <ArachnidFireAssault.label>아라크니드 화염 공세</ArachnidFireAssault.label>
+  <ArachnidSustainedAirRaid.label>아라크니드 지속 공습</ArachnidSustainedAirRaid.label>
+  <ArachnidAirRaid.label>아라크니드 공습</ArachnidAirRaid.label>
+  <ArachnidAirInfiltrationHopper.label>아라크니드 호퍼 버그 공습 침투</ArachnidAirInfiltrationHopper.label>
+  <ArachnidAirInfiltrationFireFly.label>아라크니드 파이어플라이 버그 공습 침투</ArachnidAirInfiltrationFireFly.label>
+  <ArachnidPlasmaGrenadierAssault.label>아라크니드 플라즈마 그레네이더 버그 공세</ArachnidPlasmaGrenadierAssault.label>
+  <ArachnidWarriorsRaid.label>아라크니드 워리어 버그 습격</ArachnidWarriorsRaid.label>
+  <ArachnidWarriorsEncirclement.label>아라크니드 워리어 버그 포위</ArachnidWarriorsEncirclement.label>
+  <ArachnidBombardierBombardment.label>아라크니드 폭탄먼지벌레 폭격</ArachnidBombardierBombardment.label>
+  <ArachnidBombardierEntrapment.label>아라크니드 폭탄먼지벌레 함정</ArachnidBombardierEntrapment.label>
+  <ArachnidInfestation.label>아라크니드 침입</ArachnidInfestation.label>
+  <ArachnidInfestation.letterText>아라크니드 둥지가 드러났습니다!\n\n이것은 천천히 벌레를 낳고 둥지를 추가로 생산합니다. 전 지역을 오염되게 하고 싶지 않다면 병력을 투입해서 파괴해야 합니다. 하지만 조심하십시오. 벌레들이 둥지을 방어할 것입니다.</ArachnidInfestation.letterText>
+  <ArachnidInfestation.letterLabel>아라크니드 침입</ArachnidInfestation.letterLabel>
+  <Arachnid5_0UpdateNote.label>아라크니드 모드 5.0 업데이트 노트</Arachnid5_0UpdateNote.label>
+
+  <!--950475543_190818_Rim of Madness - Arachnophobia-->
+  <ROM_GiantSpiders.label>거대한 거미들</ROM_GiantSpiders.label>
+
+  <!--1552507180_190814_Psychology-->
+  <Election.label>선거</Election.label>
+
+</LanguageData>

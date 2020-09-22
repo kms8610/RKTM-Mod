@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AU_NoTargets>사용 가능한 대상이 없습니다.</AU_NoTargets>
+  <AU_DISABLED>사용불가</AU_DISABLED>
+  <AU_Type>유형: </AU_Type>
+  <AU_TargetAoE>효과 범위</AU_TargetAoE>
+  <AU_TargetSelf>시전자</AU_TargetSelf>
+  <AU_TargetThing>다른 대상</AU_TargetThing>
+  <AU_TargetLocation>대상 위치</AU_TargetLocation>
+  <AU_Cooldown>재사용 대기시간: </AU_Cooldown>
+  <AU_Extra>추가 사항</AU_Extra>
+  <AU_MentalStateChance>정신상태 확률</AU_MentalStateChance>
+  <AU_EffectChance>영향 확률</AU_EffectChance>
+  <AU_PawnAbilityRecharging>{0}의 재충전 시간 필요함</AU_PawnAbilityRecharging>
+  <AU_AoEProperties>효과 범위 속성</AU_AoEProperties>
+  <AU_TargetClass>대상: </AU_TargetClass>
+  <AU_AoECharacters>인물</AU_AoECharacters>
+  <AU_AoEFriendlyFire>오인사격: </AU_AoEFriendlyFire>
+  <AU_AoEMaxTargets>최대 대상: </AU_AoEMaxTargets>
+  <AU_AoEStartsFromCaster>영창 시작: </AU_AoEStartsFromCaster>
+  <DeactivatedWarning>경고: 현재 {0}의 무기가 비활성되었습니다!</DeactivatedWarning>
+  <DeflectChance>Deflect chance</DeflectChance>
+  <DeflectChanceEx>Determines how often this weapon returns projectiles back at the attacker.</DeflectChanceEx>
+  <MaxDeflectChance>Max deflect chance</MaxDeflectChance>
+  <MaxDeflectChanceEx>For each point in {0}, the user gains a {1} chance of deflecting the projectile back the target. {2} is the maximum possible deflection chance.
+  </MaxDeflectChanceEx>
+  <DeflectChancePerLevel>Deflect % per {0} skill</DeflectChancePerLevel>
+  <DeflectChancePerLevelEx>For each level in {0}, the user gains this much % chance to deflect a projectile.</DeflectChancePerLevelEx>
+  <BaseDeflectChance>Base deflect chance</BaseDeflectChance>
+  <StatsReport_DeflectionExplanation>Stat is displayed in the following format:
+Deflection chance equals ( Base chance + ( Skill Level * % per Skill Level) / Manipulation Efficiency
+
+</StatsReport_DeflectionExplanation>
+  <StatsReport_DeflectChance>Deflect chance</StatsReport_DeflectChance>
+  <StatsReport_BaseDeflectChance>Base deflect chance</StatsReport_BaseDeflectChance>
+  <StatsReport_SkillLevel>기술 수준</StatsReport_SkillLevel>
+  <StatsReport_DeflectPerSkillLevel>기술 수준당 % 무시</StatsReport_DeflectPerSkillLevel>
+  <StatsReport_ManipulationModifier>Manipulation modifier</StatsReport_ManipulationModifier>
+  <CompInstalledPart_Install>설치</CompInstalledPart_Install>
+  <CompInstalledPart_Uninstall>{0} 제거</CompInstalledPart_Uninstall>
+  <CompInstalledPart_Installed>{0} installed the {1} onto {2}</CompInstalledPart_Installed>
+  <CompInstalledPart_Uninstalled>{0} uninstalled the {1} from {2}</CompInstalledPart_Uninstalled>
+  <CompVehicle_CannotSplitWhileInVehicles>Cannot split caravan while colonists are in vehicles.</CompVehicle_CannotSplitWhileInVehicles>
+  <CompVehicle_CannotMove>{0} is currently incapable of movement.</CompVehicle_CannotMove>
+  <CompVehicle_LowFuel>연료 낮음</CompVehicle_LowFuel>
+  <MessageCaravanRunOutOfFuel>{0} has run out of fuel ({1}). {0} will now move at a quarter of normal speed.</MessageCaravanRunOutOfFuel>
+  <MessagePawnLeftVehicle>{0} has left the vehicle ({1}) due to {2} needs.</MessagePawnLeftVehicle>
+  <DaysWorthOfFuelInfo>{0} 일치 연료 운반</DaysWorthOfFuelInfo>
+  <InfiniteDaysWorthOfFuelInfo>연료 충분함</InfiniteDaysWorthOfFuelInfo>
+  <DaysWorthOfFuelTooltip>An approximate number of days before the caravan runs out of fuel.
+
+This takes into account all vehicles in the caravan and shows the worst case scenario. This means that after this many days, at least one vehicle will be out of fuel.</DaysWorthOfFuelTooltip>
+  <DaysWorthOfFuelWarningDialog_NoFuel>Your caravan isn't carrying fuel and will be unable to travel at full speed.
+
+Are you sure you want to form this caravan?</DaysWorthOfFuelWarningDialog_NoFuel>
+  <DaysWorthOfFuelWarningDialog>Your caravan is only carrying {0} days worth of fuel and will run out of fuel very quickly.
+
+Are you sure you want to form this caravan?</DaysWorthOfFuelWarningDialog>
+  <CaravanOutOfFuel>연료 부족</CaravanOutOfFuel>
+  <CaravanVehicleNoFuelWarningDialog>상단 차량에 연료를 공급해야 합니다.</CaravanVehicleNoFuelWarningDialog>
+  <CompVehicle_VehicleSection>차량</CompVehicle_VehicleSection>
+  <CompVehicle_LoadUnload>{0} 적재/비우기</CompVehicle_LoadUnload>
+  <CompVehicle_Unload>{0} 비우기</CompVehicle_Unload>
+  <CompVehicle_Load>{0} 적재</CompVehicle_Load>
+  <CompVehicle_LoadUnloadDesc>Load or eject one {0}.</CompVehicle_LoadUnloadDesc>
+  <CompVehicle_LoadDesc>Load one {0}</CompVehicle_LoadDesc>
+  <CompVehicle_UnloadDesc>Unload one {0}</CompVehicle_UnloadDesc>
+  <CompVehicle_DisabledDesc>The vehicle disabled, destroyed, or simply too damaged and cannot be loaded.</CompVehicle_DisabledDesc>
+  <JecsTools_WorldObjectConst_AbandonReason>because no caravan is available at this location</JecsTools_WorldObjectConst_AbandonReason>
+  <JecsTools_WorldObjectConst_ResourcesNeeded>Resources: {0}</JecsTools_WorldObjectConst_ResourcesNeeded>
+  <JecsTools_WorldObjectConst_NotEnoughThings>Missing Specific Items. Need {1}x {2}, have only {0}</JecsTools_WorldObjectConst_NotEnoughThings>
+  <JecsTools_WorldObjectConst_NotEnoughStuff>Missing {2} Stuff. Need {1}x, have only {0}</JecsTools_WorldObjectConst_NotEnoughStuff>
+  <JecsTools_WorldObjectConst_NotEnoughResources>Failed to build {0} due to lack of resources</JecsTools_WorldObjectConst_NotEnoughResources>
+  <JTGrapple_Success>잡기 성공</JTGrapple_Success>
+  <JTGrapple_Failed>잡기 실패</JTGrapple_Failed>
+  <JTGrapple_DownedGrapple>Downed Attack: Grapple Success</JTGrapple_DownedGrapple>
+  <JTGrapple_SneakGrapple>Sneak Attack: Grapple Success</JTGrapple_SneakGrapple>
+  <JTGrapple_PrisonerGrapple>Restrained Victim: Grapple Success</JTGrapple_PrisonerGrapple>
+  <JTGrapple_SleepingGrapple>Sleeping Victim: Grapple Success</JTGrapple_SleepingGrapple>
+  <JT_PlaceWorker_UnderCeiling>지붕 아래에 설치해야 합니다.</JT_PlaceWorker_UnderCeiling>
+  <JT_PlaceWorker_OnTopOfWalls>벽에 설치해야 합니다.</JT_PlaceWorker_OnTopOfWalls>
+  <JT_DamageSoaked>{0} 흡수</JT_DamageSoaked>
+  <JT_HI_DamageSoaked>흡수량: {0}</JT_HI_DamageSoaked>
+  <JT_HI_Knockback>밀치기 확률: {0}</JT_HI_Knockback>
+  <JT_HI_ExtraDamages>추가 피해: </JT_HI_ExtraDamages>
+  <JT_HI_KnockbackExplosive>폭발물</JT_HI_KnockbackExplosive>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FO_PlaguedBite.label>역병 물기</FO_PlaguedBite.label>
+  <FO_PlaguedBite.deathMessage>{0}(은)는 물려죽었습니다.</FO_PlaguedBite.deathMessage>
+
+</LanguageData>

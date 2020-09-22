@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MechanicalArmoredCentipede.label>중장갑 센티피드</MechanicalArmoredCentipede.label>
+  <MechanicalArmoredCentipede.corePart.parts.1.parts.1.customLabel>왼쪽 시각 센서</MechanicalArmoredCentipede.corePart.parts.1.parts.1.customLabel>
+  <MechanicalArmoredCentipede.corePart.parts.1.parts.2.customLabel>오른쪽 시각 센서</MechanicalArmoredCentipede.corePart.parts.1.parts.2.customLabel>
+  <MechanicalArmoredCentipede.corePart.parts.1.parts.3.customLabel>왼쪽 청각 센서</MechanicalArmoredCentipede.corePart.parts.1.parts.3.customLabel>
+  <MechanicalArmoredCentipede.corePart.parts.1.parts.4.customLabel>오른쪽 청각 센서</MechanicalArmoredCentipede.corePart.parts.1.parts.4.customLabel>
+  <AdvMechanicalArmoredCentipede.label>개량형 중장갑 센티피드</AdvMechanicalArmoredCentipede.label>
+  <AdvMechanicalArmoredCentipede.corePart.parts.0.parts.1.customLabel>왼쪽 시각 센서</AdvMechanicalArmoredCentipede.corePart.parts.0.parts.1.customLabel>
+  <AdvMechanicalArmoredCentipede.corePart.parts.0.parts.2.customLabel>오른쪽 시각 센서</AdvMechanicalArmoredCentipede.corePart.parts.0.parts.2.customLabel>
+  <AdvMechanicalArmoredCentipede.corePart.parts.0.parts.3.customLabel>왼쪽 청각 센서</AdvMechanicalArmoredCentipede.corePart.parts.0.parts.3.customLabel>
+  <AdvMechanicalArmoredCentipede.corePart.parts.0.parts.4.customLabel>오른쪽 청각 센서</AdvMechanicalArmoredCentipede.corePart.parts.0.parts.4.customLabel>
+  <MechShielder.label>실더</MechShielder.label>
+  <MechShielder.corePart.parts.0.parts.0.parts.1.customLabel>왼쪽 시각 센서</MechShielder.corePart.parts.0.parts.0.parts.1.customLabel>
+  <MechShielder.corePart.parts.0.parts.0.parts.2.customLabel>오른쪽 시각 센서</MechShielder.corePart.parts.0.parts.0.parts.2.customLabel>
+  <MechShielder.corePart.parts.0.parts.0.parts.3.customLabel>왼쪽 청각 센서</MechShielder.corePart.parts.0.parts.0.parts.3.customLabel>
+  <MechShielder.corePart.parts.0.parts.0.parts.4.customLabel>오른쪽 청각 센서</MechShielder.corePart.parts.0.parts.0.parts.4.customLabel>
+  <MechShielder.corePart.parts.1.customLabel>왼쪽 어깨</MechShielder.corePart.parts.1.customLabel>
+  <MechShielder.corePart.parts.1.parts.0.customLabel>왼팔</MechShielder.corePart.parts.1.parts.0.customLabel>
+  <MechShielder.corePart.parts.1.parts.0.parts.0.customLabel>왼쪽 1번 장갑판</MechShielder.corePart.parts.1.parts.0.parts.0.customLabel>
+  <MechShielder.corePart.parts.1.parts.0.parts.1.customLabel>왼쪽 2번 장갑판</MechShielder.corePart.parts.1.parts.0.parts.1.customLabel>
+  <MechShielder.corePart.parts.1.parts.0.parts.2.customLabel>왼쪽 3번 장갑판</MechShielder.corePart.parts.1.parts.0.parts.2.customLabel>
+  <MechShielder.corePart.parts.2.customLabel>오른쪽 어깨</MechShielder.corePart.parts.2.customLabel>
+  <MechShielder.corePart.parts.2.parts.0.customLabel>오른팔</MechShielder.corePart.parts.2.parts.0.customLabel>
+  <MechShielder.corePart.parts.2.parts.0.parts.0.customLabel>오른쪽 1번 장갑판</MechShielder.corePart.parts.2.parts.0.parts.0.customLabel>
+  <MechShielder.corePart.parts.2.parts.0.parts.1.customLabel>오른쪽 2번 장갑판</MechShielder.corePart.parts.2.parts.0.parts.1.customLabel>
+  <MechShielder.corePart.parts.2.parts.0.parts.2.customLabel>오른쪽 3번 장갑판</MechShielder.corePart.parts.2.parts.0.parts.2.customLabel>
+  <MechShielder.corePart.parts.3.customLabel>왼다리</MechShielder.corePart.parts.3.customLabel>
+  <MechShielder.corePart.parts.3.parts.0.customLabel>왼발</MechShielder.corePart.parts.3.parts.0.customLabel>
+  <MechShielder.corePart.parts.4.customLabel>오른다리</MechShielder.corePart.parts.4.customLabel>
+  <MechShielder.corePart.parts.4.parts.0.customLabel>오른발</MechShielder.corePart.parts.4.parts.0.customLabel>
+
+</LanguageData>

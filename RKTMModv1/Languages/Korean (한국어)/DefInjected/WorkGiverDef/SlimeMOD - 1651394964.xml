@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Syulipia_Crafting.label>공예 경험치</Syulipia_Crafting.label>
+  <Syulipia_Crafting.verb>도축</Syulipia_Crafting.verb>
+  <Syulipia_Crafting.gerund>도축 장소 -</Syulipia_Crafting.gerund>
+  <Syulipia_Cooking.label>요리 경험치</Syulipia_Cooking.label>
+  <Syulipia_Cooking.verb>도축</Syulipia_Cooking.verb>
+  <Syulipia_Cooking.gerund>도축 장소 -</Syulipia_Cooking.gerund>
+
+</LanguageData>

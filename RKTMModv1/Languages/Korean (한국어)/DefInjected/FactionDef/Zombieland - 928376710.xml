@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Zombies.label>좀비</Zombies.label>
+  <Zombies.description>죽었지만 되살아난 존재들입니다.</Zombies.description>
+  <Zombies.fixedName>좀비</Zombies.fixedName>
+  <Zombies.pawnsPlural>좀비</Zombies.pawnsPlural>
+
+</LanguageData>

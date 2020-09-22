@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmeltBlade.label>사이더 칼날 제련</SmeltBlade.label>
+  <SmeltBlade.description>사이더 칼날을 금속으로 녹여냅니다.</SmeltBlade.description>
+  <SmeltBlade.jobString>사이더 칼날 제련하는 중.</SmeltBlade.jobString>
+  <Make_MeleeWeapon_ScytherSword.label>사이더 소드 제작</Make_MeleeWeapon_ScytherSword.label>
+  <Make_MeleeWeapon_ScytherSword.description>사이더 소드를 제작합니다.</Make_MeleeWeapon_ScytherSword.description>
+  <Make_MeleeWeapon_ScytherSword.jobString>사이더 소드를 제작하는 중.</Make_MeleeWeapon_ScytherSword.jobString>
+  <Make_MeleeWeapon_BasicScythe.label>기본형 대낫 제작</Make_MeleeWeapon_BasicScythe.label>
+  <Make_MeleeWeapon_BasicScythe.description>기본형 대낫을 제작합니다.</Make_MeleeWeapon_BasicScythe.description>
+  <Make_MeleeWeapon_BasicScythe.jobString>기본형 대낫을 제작하는 중.</Make_MeleeWeapon_BasicScythe.jobString>
+  <Make_MeleeWeapon_ScytherScythe.label>사이더 대낫 제작</Make_MeleeWeapon_ScytherScythe.label>
+  <Make_MeleeWeapon_ScytherScythe.description>사이더 대낫을 제작합니다.</Make_MeleeWeapon_ScytherScythe.description>
+  <Make_MeleeWeapon_ScytherScythe.jobString>사이더 대낫을 제작하는 중.</Make_MeleeWeapon_ScytherScythe.jobString>
+  <Make_MeleeWeapon_Scythe_ToxicRipper.label>독성 리퍼 제작</Make_MeleeWeapon_Scythe_ToxicRipper.label>
+  <Make_MeleeWeapon_Scythe_ToxicRipper.description>독성 리퍼를 제작합니다.</Make_MeleeWeapon_Scythe_ToxicRipper.description>
+  <Make_MeleeWeapon_Scythe_ToxicRipper.jobString>독성 리퍼를 제작하는 중.</Make_MeleeWeapon_Scythe_ToxicRipper.jobString>
+  <Make_MeleeWeapon_Scythe_JadeDragon.label>옥룡 제작</Make_MeleeWeapon_Scythe_JadeDragon.label>
+  <Make_MeleeWeapon_Scythe_JadeDragon.description>옥룡을 제작합니다.</Make_MeleeWeapon_Scythe_JadeDragon.description>
+  <Make_MeleeWeapon_Scythe_JadeDragon.jobString>옥룡을 제작하는 중.</Make_MeleeWeapon_Scythe_JadeDragon.jobString>
+  <Make_MeleeWeapon_Scythe_ThrumboThorn.label>트럼보 가시 제작</Make_MeleeWeapon_Scythe_ThrumboThorn.label>
+  <Make_MeleeWeapon_Scythe_ThrumboThorn.description>트럼보 가시를 제작합니다.</Make_MeleeWeapon_Scythe_ThrumboThorn.description>
+  <Make_MeleeWeapon_Scythe_ThrumboThorn.jobString>트럼보 가시를 제작하는 중.</Make_MeleeWeapon_Scythe_ThrumboThorn.jobString>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmokeleafFarmer.degreeDatas.0.label>연초잎 농부</SmokeleafFarmer.degreeDatas.0.label>
+  <SmokeleafFarmer.degreeDatas.0.description>[PAWN_nameDef](은)는 원예와 연초잎에 열정을 가지고 있습니다. [PAWN_pronoun]는 식물을 심을 때마다 기분 보너스를 얻습니다.</SmokeleafFarmer.degreeDatas.0.description>
+  <Stoner.degreeDatas.0.label>떨쟁이</Stoner.degreeDatas.0.label>
+  <Stoner.degreeDatas.0.description>[PAWN_nameDef](은)는 연초잎에 높은 내성을 가지고 있습니다. [PAWN_pronoun]는 금단현상에 거의 시달리지 않습니다.</Stoner.degreeDatas.0.description>
+
+</LanguageData>

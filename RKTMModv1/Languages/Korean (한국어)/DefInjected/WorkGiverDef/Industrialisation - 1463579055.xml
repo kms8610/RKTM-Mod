@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ind_DoBillsMixconcrete.label>콘크리트 혼합기에서 일하기</Ind_DoBillsMixconcrete.label>
+  <Ind_DoBillsMixconcrete.verb>만들기</Ind_DoBillsMixconcrete.verb>
+  <Ind_DoBillsMixconcrete.gerund>만들기</Ind_DoBillsMixconcrete.gerund>
+  <Ind_DoBillsDeepMine.label>심층부 광산에서 일하기</Ind_DoBillsDeepMine.label>
+  <Ind_DoBillsDeepMine.verb>채굴</Ind_DoBillsDeepMine.verb>
+  <Ind_DoBillsDeepMine.gerund>채굴</Ind_DoBillsDeepMine.gerund>
+  <Ind_DoBillsElectricArcFurnace.label>전기 아크로에서 일하기</Ind_DoBillsElectricArcFurnace.label>
+  <Ind_DoBillsElectricArcFurnace.verb>제련</Ind_DoBillsElectricArcFurnace.verb>
+  <Ind_DoBillsElectricArcFurnace.gerund>제련</Ind_DoBillsElectricArcFurnace.gerund>
+
+</LanguageData>

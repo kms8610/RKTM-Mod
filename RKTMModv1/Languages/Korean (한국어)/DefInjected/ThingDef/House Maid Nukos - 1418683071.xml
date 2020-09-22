@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MaidnukosHair.label>냥이 머리카락</MaidnukosHair.label>
+  <MaidnukosHair.description>장식품으로 최고의 소재인 냥이의 머리카락으로 굉장히 얇고 부드러우며, 매력적인 색상입니다.</MaidnukosHair.description>
+  <MaidnukosHair.stuffProps.stuffAdjective>냥이 머리카락</MaidnukosHair.stuffProps.stuffAdjective>
+  <MaidnukosMilk.label>냥이 모유</MaidnukosMilk.label>
+  <MaidnukosMilk.description>냥이의 모유입니다. 약간 과일 맛이 나며 비타민이 풍부합니다.</MaidnukosMilk.description>
+  <Nukoidbell.label>냥이 식별 방울</Nukoidbell.label>
+  <Nukoidbell.description>냥이의 식별용 방울입니다. 내부의 칩에는 10086 엑사바이트의 정보가 들어 있습니다. 액세서리로 장착할 수 있습니다.</Nukoidbell.description>
+  <xmasantlers.label>크리스마스 뿔</xmasantlers.label>
+  <xmasantlers.description>머리에 착용할 수 있는 한 쌍의 축제용 뿔입니다. 착용자가 크리스마스 냥이처럼 느끼도록 하여 이동 속도를 높입니다.</xmasantlers.description>
+  <Maidnukos.label>냥이</Maidnukos.label>
+  <Maidnukos.description>3100년대, 먼 번화계에서 고양이를 좋아하는 유전공학자들은 유전자 접합 기술을 사용하여 인간과 고양이의 최고의 자질을 결합했습니다. 냥이는 이 기술의 결과물입니다.\n\n냥이는 인간보다 훨씬 빠르게 성숙하지만, 수명의 절반 정도는 여전히 남아 있습니다. 냥이들은 인간만큼 자라거나 힘이 세지는 않지만, 더욱 민첩하고, 속도를 증가시킬 수 있습니다. 냥이는 인간에게 단순한 일을 훈련으로 할 수 있을 정도의 지능을 갖고 있습니다. 그들은 또한 아름답고 그들의 주인에게 애정을 갖고 있습니다.\n\n먼 영원한 제국과 여러 번화계에서 냥이들은 도움을 주는 인기 있는 애완동물입니다. 하지만 약간의 야생 무리가 수많은 다른 세계에 살고 있습니다.</Maidnukos.description>
+  <Maidnukos.tools.0.label>이빨</Maidnukos.tools.0.label>
+  <Maidnukos.tools.1.label>왼쪽 주먹</Maidnukos.tools.1.label>
+  <Maidnukos.tools.2.label>오른쪽 주먹</Maidnukos.tools.2.label>
+  <Maidnukos.tools.3.label>머리</Maidnukos.tools.3.label>
+  <Maidnukos_Leather.label>냥이 가죽</Maidnukos_Leather.label>
+  <Maidnukos_Leather.description>냥이의 가죽입니다.</Maidnukos_Leather.description>
+  <Maidnukos_Leather.stuffProps.stuffAdjective>냥이 가죽</Maidnukos_Leather.stuffProps.stuffAdjective>
+  <Maidnukos_Meat.label>냥이 고기</Maidnukos_Meat.label>
+  <Maidnukos_Meat.description>냥이의 고기입니다.</Maidnukos_Meat.description>
+  <Maidnukos_Corpse.label>냥이 시체</Maidnukos_Corpse.label>
+  <Maidnukos_Corpse.description>냥이의 시체입니다.</Maidnukos_Corpse.description>
+
+</LanguageData>

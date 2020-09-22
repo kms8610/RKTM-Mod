@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OG_ThrumboRoyalF.label>왕실 트럼보</OG_ThrumboRoyalF.label>
+  <OG_ThrumboRoyalF.description>이 장엄한 생물은 그들을 만난 림 월드 정착민들에 의해 왕실 트럼보로 불리우게 되었습니다. 일반 트럼보 보다 훨씬 드물며, 도자기 같은 뿔은 희귀품 수집가들이 엄청난 가격에 사려 할 것입니다. 또한 왕실 트럼보는 천천히 자라나지만 고급스러운 털실을 깎을 수 있으며, 암컷은 보기 드문 진미인 이국적인 우유를 생산합니다.</OG_ThrumboRoyalF.description>
+  <OG_ThrumboRoyalF.tools.0.label>뿔</OG_ThrumboRoyalF.tools.0.label>
+  <OG_ThrumboRoyalF.tools.2.label>왼쪽 발굽</OG_ThrumboRoyalF.tools.2.label>
+  <OG_ThrumboRoyalF.tools.3.label>오른쪽 발굽</OG_ThrumboRoyalF.tools.3.label>
+  <OG_ThrumboRoyalF.tools.4.label>머리</OG_ThrumboRoyalF.tools.4.label>
+  <OG_ThrumboRoyalF_Leather.label>왕실 트럼보 가죽</OG_ThrumboRoyalF_Leather.label>
+  <OG_ThrumboRoyalF_Leather.description>왕실 트럼보 가죽입니다.</OG_ThrumboRoyalF_Leather.description>
+  <OG_ThrumboRoyalF_Leather.stuffProps.stuffAdjective>왕실 트럼보 가죽</OG_ThrumboRoyalF_Leather.stuffProps.stuffAdjective>
+
+  <OG_ThrumboRoyalM.label>왕실 트럼보</OG_ThrumboRoyalM.label>
+  <OG_ThrumboRoyalM.description>이 장엄한 생물은 그들을 만난 림 월드 정착민들에 의해 왕실 트럼보로 불리우게 되었습니다. 일반 트럼보 보다 훨씬 드물며, 도자기 같은 뿔은 희귀품 수집가들이 엄청난 가격에 사려 할 것입니다. 또한 왕실 트럼보는 천천히 자라나지만 고급스러운 털실을 깎을 수 있으며, 암컷은 보기 드문 진미인 이국적인 우유를 생산합니다.</OG_ThrumboRoyalM.description>
+  <OG_ThrumboRoyalM.tools.0.label>뿔</OG_ThrumboRoyalM.tools.0.label>
+  <OG_ThrumboRoyalM.tools.2.label>왼쪽 발굽</OG_ThrumboRoyalM.tools.2.label>
+  <OG_ThrumboRoyalM.tools.3.label>오른쪽 발굽</OG_ThrumboRoyalM.tools.3.label>
+  <OG_ThrumboRoyalM.tools.4.label>머리</OG_ThrumboRoyalM.tools.4.label>
+  <OG_ThrumboRoyalM_Leather.label>왕실 트럼보 가죽</OG_ThrumboRoyalM_Leather.label>
+  <OG_ThrumboRoyalM_Leather.description>왕실 트럼보 가죽입니다.</OG_ThrumboRoyalM_Leather.description>
+  <OG_ThrumboRoyalM_Leather.stuffProps.stuffAdjective>왕실 트럼보 가죽</OG_ThrumboRoyalM_Leather.stuffProps.stuffAdjective>
+
+  <OG_ThrumboRoyalHornF.label>암컷 왕실 트럼보 뿔</OG_ThrumboRoyalHornF.label>
+  <OG_ThrumboRoyalHornF.description>암컷 왕실 트럼보의 뿔입니다. 바위처럼 단단하지만, 면도날처럼 날카롭습니다. 거진 대부분의 시장에서 값을 매길 수 없습니다. 이것은 진정한 트로피이며 치명적인 근접 무기입니다.</OG_ThrumboRoyalHornF.description>
+  <OG_ThrumboRoyalHornF.tools.0.label>뿔끝</OG_ThrumboRoyalHornF.tools.0.label>
+  <OG_ThrumboRoyalHornF.tools.1.label>뿔날</OG_ThrumboRoyalHornF.tools.1.label>
+
+  <OG_ThrumboRoyalHornM.label>수컷 왕실 트럼보 뿔</OG_ThrumboRoyalHornM.label>
+  <OG_ThrumboRoyalHornM.description>수컷 왕실 트럼보의 뿔입니다. 바위처럼 단단하지만, 면도날처럼 날카롭습니다. 거진 대부분의 시장에서 값을 매길 수 없습니다. 이것은 진정한 트로피이며 치명적인 근접 무기입니다.</OG_ThrumboRoyalHornM.description>
+  <OG_ThrumboRoyalHornM.tools.0.label>뿔끝</OG_ThrumboRoyalHornM.tools.0.label>
+  <OG_ThrumboRoyalHornM.tools.1.label>뿔날</OG_ThrumboRoyalHornM.tools.1.label>
+
+  <OG_ThrumboRoyalLeather.label>왕실 트럼보 모피</OG_ThrumboRoyalLeather.label>
+  <OG_ThrumboRoyalLeather.description>트럼보의 털가죽입니다. 매우 고급스럽고 내구성이 뛰어납니다. 단열 및 강도를 위한 최고급 공예품에 사용됩니다.</OG_ThrumboRoyalLeather.description>
+  <OG_ThrumboRoyalLeather.stuffProps.stuffAdjective>왕실 트럼보 모피</OG_ThrumboRoyalLeather.stuffProps.stuffAdjective>
+
+  <OG_ThrumboRoyalWool.label>왕실 트럼보 털실</OG_ThrumboRoyalWool.label>
+  <OG_ThrumboRoyalWool.description>왕족 트럼보의 놀랍도록 부드럽고 섬세한 털입니다. 매우 따뜻합니다.</OG_ThrumboRoyalWool.description>
+  <OG_ThrumboRoyalWool.stuffProps.stuffAdjective>왕실 트럼보 털실</OG_ThrumboRoyalWool.stuffProps.stuffAdjective>
+
+  <OG_ThrumboRoyalMilk.label>왕실 트럼보 우유</OG_ThrumboRoyalMilk.label>
+  <OG_ThrumboRoyalMilk.description>왕실 트럼보의 우유입니다.</OG_ThrumboRoyalMilk.description>
+
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <C81_MakeStdCanX5.label>일반 깡통 5개 만들기</C81_MakeStdCanX5.label>
+  <C81_MakeStdCanX5.description>일반 통조림용 깡통을 5개 만듭니다.</C81_MakeStdCanX5.description>
+  <C81_MakeStdCanX5.jobString>깡통 만드는 중.</C81_MakeStdCanX5.jobString>
+  <C81_MakeStdCanX20.label>일반 깡통 20개 만들기</C81_MakeStdCanX20.label>
+  <C81_MakeStdCanX20.description>일반 통조림용 깡통을 20개 만듭니다.</C81_MakeStdCanX20.description>
+  <C81_MakeStdCanX20.jobString>깡통 만드는 중.</C81_MakeStdCanX20.jobString>
+  <C81_MakeAdvCanX5.label>보존용 깡통 5 개 만들기</C81_MakeAdvCanX5.label>
+  <C81_MakeAdvCanX5.description>보존용 깡통 5개를 만듭니다.</C81_MakeAdvCanX5.description>
+  <C81_MakeAdvCanX5.jobString>깡통 만드는 중.</C81_MakeAdvCanX5.jobString>
+  <C81_MakeAdvCanX20.label>보존용 깡통 20개 만들기</C81_MakeAdvCanX20.label>
+  <C81_MakeAdvCanX20.description>보존용 깡통 20개를 만듭니다.</C81_MakeAdvCanX20.description>
+  <C81_MakeAdvCanX20.jobString>깡통 만드는 중.</C81_MakeAdvCanX20.jobString>
+  <C81_CanMeatX1.label>고기 통조림 (1x 깡통)</C81_CanMeatX1.label>
+  <C81_CanMeatX1.description>고기를 손질하여, 좋은 부분을 보관하고 나중에 요리하세요.</C81_CanMeatX1.description>
+  <C81_CanMeatX1.jobString>고기 통조림 만드는 중.</C81_CanMeatX1.jobString>
+  <C81_CanMeatX4.label>고기 통조림 (4x 깡통)</C81_CanMeatX4.label>
+  <C81_CanMeatX4.description>고기를 손질하여, 좋은 부분을 보관하고 나중에 요리하세요.</C81_CanMeatX4.description>
+  <C81_CanMeatX4.jobString>고기 통조림 만드는 중.</C81_CanMeatX4.jobString>
+  <C81_CanVegsX1.label>야채 통조림 (1x 깡통)</C81_CanVegsX1.label>
+  <C81_CanVegsX1.description>야채를 손질하여, 좋은 부분을 보관하고 나중에 요리하세요.</C81_CanVegsX1.description>
+  <C81_CanVegsX1.jobString>야채 통조림 만드는 중.</C81_CanVegsX1.jobString>
+  <C81_CanVegsX4.label>야채 통조림 (4x 깡통)</C81_CanVegsX4.label>
+  <C81_CanVegsX4.description>야채를 손질하여, 좋은 부분을 보관하고 나중에 요리하세요.</C81_CanVegsX4.description>
+  <C81_CanVegsX4.jobString>야채 통조림 만드는 중.</C81_CanVegsX4.jobString>
+  <C81_PreserveMeatX1.label>고기 보존 통조림 (1x 깡통)</C81_PreserveMeatX1.label>
+  <C81_PreserveMeatX1.description>고기를 깨끗이 손질하고, 양념한 다음, 좋은 부분을 멸균한 보존 깡통에 보관하여 나중에 요리하세요.</C81_PreserveMeatX1.description>
+  <C81_PreserveMeatX1.jobString>고기 보존 통조림 만드는 중.</C81_PreserveMeatX1.jobString>
+  <C81_PreserveMeatX4.label>고기 보존 통조림 (4x 깡통)</C81_PreserveMeatX4.label>
+  <C81_PreserveMeatX4.description>고기를 깨끗이 손질하고, 양념한 다음, 좋은 부분을 멸균한 보존 깡통에 보관하여 나중에 요리하세요.</C81_PreserveMeatX4.description>
+  <C81_PreserveMeatX4.jobString>고기 보존 통조림 만드는 중.</C81_PreserveMeatX4.jobString>
+  <C81_PreserveVegsX1.label>야채 보존 통조림 (1x 깡통)</C81_PreserveVegsX1.label>
+  <C81_PreserveVegsX1.description>야채를 깨끗이 손질하고, 양념한 다음, 좋은 부분을 멸균한 보존 깡통에 보관하여 나중에 요리하세요.</C81_PreserveVegsX1.description>
+  <C81_PreserveVegsX1.jobString>야채 통조림 만드는 중.</C81_PreserveVegsX1.jobString>
+  <C81_PreserveVegsX4.label>야채 보존 통조림 (4x 깡통)</C81_PreserveVegsX4.label>
+  <C81_PreserveVegsX4.description>야채를 깨끗이 손질하고, 양념한 다음, 좋은 부분을 멸균한 보존 깡통에 보관하여 나중에 요리하세요.</C81_PreserveVegsX4.description>
+  <C81_PreserveVegsX4.jobString>야채 통조림 만드는 중.</C81_PreserveVegsX4.jobString>
+
+</LanguageData>

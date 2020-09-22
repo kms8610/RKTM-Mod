@@ -1,0 +1,977 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UlthweGuardianArmor.label>울쓰웨 가디언 아머</UlthweGuardianArmor.label>
+  <UlthweGuardianArmor.description>엘다 가디언이 주로 입는 아머입니다.</UlthweGuardianArmor.description>
+  <UlthweBansheeArmor.label>울쓰웨 밴쉬 아머</UlthweBansheeArmor.label>
+  <UlthweBansheeArmor.description>엘다 밴쉬가 주로 입는 아머입니다.</UlthweBansheeArmor.description>
+  <UlthweAutarchArmor.label>울쓰웨 아우터크 아머</UlthweAutarchArmor.label>
+  <UlthweAutarchArmor.description>엘다 아우터크가 주로 입는 아머입니다.</UlthweAutarchArmor.description>
+  <UlthweRangerArmor.label>울쓰웨 레인저 아머</UlthweRangerArmor.label>
+  <UlthweRangerArmor.description>엘다 레인저가 주로 입는 아머입니다.</UlthweRangerArmor.description>
+  <UlthweFarseerArmor.label>울쓰웨 파시어 아머</UlthweFarseerArmor.label>
+  <UlthweFarseerArmor.description>엘다 파시어가 주로 입는 아머입니다.</UlthweFarseerArmor.description>
+  <UlthweGuardianHelmet.label>울쓰웨 가디언 헬멧</UlthweGuardianHelmet.label>
+  <UlthweGuardianHelmet.description>엘다 가디언이 주로 쓰는 헬멧입니다.</UlthweGuardianHelmet.description>
+  <UlthweBansheeHelmet.label>울쓰웨 밴쉬 헬멧</UlthweBansheeHelmet.label>
+  <UlthweBansheeHelmet.description>엘다 밴쉬가 주로 쓰는 헬멧입니다.</UlthweBansheeHelmet.description>
+  <UlthweRangerHelmet.label>울쓰웨 레인저 헬멧</UlthweRangerHelmet.label>
+  <UlthweRangerHelmet.description>엘다 레인저가 주로 쓰는 헬멧입니다.</UlthweRangerHelmet.description>
+  <UlthweAutarchHelmet.label>울쓰웨 아우터크 헬멧</UlthweAutarchHelmet.label>
+  <UlthweAutarchHelmet.description>엘다 아우터크가 주로 쓰는 헬멧입니다.</UlthweAutarchHelmet.description>
+  <UlthweHeadgear.label>울쓰웨 헤드기어</UlthweHeadgear.label>
+  <UlthweHeadgear.description>몇몇 엘다들은 턱 그리고 종종 가슴에 이러한 헤드기를 착용합니다. 특별히 방어에 효과적이게 보이지는 않지만, 뭔가 알 수 없는 목적이 있어 보입니다.</UlthweHeadgear.description>
+  <UlthweRangerHood.label>울쓰웨 레인저 후드</UlthweRangerHood.label>
+  <UlthweRangerHood.description>엘다 가디언이 주로 입는 후드입니다.</UlthweRangerHood.description>
+  <AlaitocGuardianArmor.label>알라이톡 가디언 아머</AlaitocGuardianArmor.label>
+  <AlaitocGuardianArmor.description>엘다 가디언이 주로 입는 아머입니다.</AlaitocGuardianArmor.description>
+  <AlaitocBansheeArmor.label>알라이톡 밴쉬 아머</AlaitocBansheeArmor.label>
+  <AlaitocBansheeArmor.description>엘다 밴쉬가 주로 입는 아머입니다.</AlaitocBansheeArmor.description>
+  <AlaitocAutarchArmor.label>알라이톡 아우터크 아머</AlaitocAutarchArmor.label>
+  <AlaitocAutarchArmor.description>엘다 아우터크가 주로 입는 아머입니다.</AlaitocAutarchArmor.description>
+  <AlaitocRangerArmor.label>알라이톡 레인저 아머</AlaitocRangerArmor.label>
+  <AlaitocRangerArmor.description>엘다 레인저가 주로 입는 아머입니다.</AlaitocRangerArmor.description>
+  <AlaitocFarseerArmor.label>알라이톡 파시어 아머</AlaitocFarseerArmor.label>
+  <AlaitocFarseerArmor.description>엘다 파시어가 주로 입는 아머입니다.</AlaitocFarseerArmor.description>
+  <AlaitocGuardianHelmet.label>알라이톡 가디언 헬멧</AlaitocGuardianHelmet.label>
+  <AlaitocGuardianHelmet.description>엘다 가디언이 주로 쓰는 헬멧입니다.</AlaitocGuardianHelmet.description>
+  <AlaitocBansheeHelmet.label>알라이톡 밴쉬 헬멧</AlaitocBansheeHelmet.label>
+  <AlaitocBansheeHelmet.description>엘다 밴쉬가 주로 쓰는 헬멧입니다.</AlaitocBansheeHelmet.description>
+  <AlaitocRangerHelmet.label>알라이톡 레인저 헬멧</AlaitocRangerHelmet.label>
+  <AlaitocRangerHelmet.description>엘다 레인저가 주로 쓰는 헬멧입니다.</AlaitocRangerHelmet.description>
+  <AlaitocAutarchHelmet.label>알라이톡 아우터크 헬멧</AlaitocAutarchHelmet.label>
+  <AlaitocAutarchHelmet.description>엘다 아우터크가 주로 쓰는 헬멧입니다.</AlaitocAutarchHelmet.description>
+  <AlaitocHeadgear.label>알라이톡 헤드기어</AlaitocHeadgear.label>
+  <AlaitocHeadgear.description>몇몇 엘다들은 턱 그리고 종종 가슴에 이러한 헤드기를 착용합니다. 특별히 방어에 효과적이게 보이지는 않지만, 뭔가 알 수 없는 목적이 있어 보입니다.</AlaitocHeadgear.description>
+  <AlaitocRangerHood.label>알라이톡 레인저 후드</AlaitocRangerHood.label>
+  <AlaitocRangerHood.description>엘다 가디언이 주로 입는 후드입니다.</AlaitocRangerHood.description>
+  <CadianUniform.label>카디안 군복</CadianUniform.label>
+  <CadianUniform.description>카디안이 입는 전신 군복으로, 일반적으로 그들의 아머 안에 입습니다.</CadianUniform.description>
+  <CadianTrenchcoat.label>카디안 트렌치코트</CadianTrenchcoat.label>
+  <CadianTrenchcoat.description>임페리얼 가드가 가끔 입는 트렌치코트는 일반적인 군복보다 약간 더 방한 기능을 제공해줍니다.</CadianTrenchcoat.description>
+  <CadianArmor.label>카디안 아머</CadianArmor.label>
+  <CadianArmor.description>임페리얼 가드 연대가 주로 입는 아머입니다.</CadianArmor.description>
+  <KasrkinArmor.label>카스킨 아머</KasrkinArmor.label>
+  <KasrkinArmor.description>임페리얼 가드 연대에서 카스킨 부대가 주로 입는 아머입니다.</KasrkinArmor.description>
+  <CadianHelmet.label>카디안 헬멧</CadianHelmet.label>
+  <CadianHelmet.description>임페리얼 가드 카디안 연대가 주로 쓰는 헬멧입니다.</CadianHelmet.description>
+  <CadianHelmetGoggles.label>카디안 헬멧 (고글)</CadianHelmetGoggles.label>
+  <CadianHelmetGoggles.description>임페리얼 가드 카디안 연대가 주로 쓰는 헬멧입니다.</CadianHelmetGoggles.description>
+  <CadianHelmetGasGoggles.label>카디안 헬멧 (방독면 amp; 고글)</CadianHelmetGasGoggles.label>
+  <CadianHelmetGasGoggles.description>임페리얼 가드 카디안 연대가 주로 쓰는 헬멧입니다.</CadianHelmetGasGoggles.description>
+  <CadianHelmetGas.label>카디안 헬멧 (방독면)</CadianHelmetGas.label>
+  <CadianHelmetGas.description>임페리얼 가드 카디안 연대가 주로 쓰는 헬멧입니다.</CadianHelmetGas.description>
+  <CadianFieldCap.label>카디안 필드 캡</CadianFieldCap.label>
+  <CadianFieldCap.description>임페리얼 가드 카디안 연대가 주로 쓰는 모자입니다.</CadianFieldCap.description>
+  <CadianOfficerCap.label>카디안 장교 모자</CadianOfficerCap.label>
+  <CadianOfficerCap.description>임페리얼 가드 카디안 장교가 주로 쓰는 모자입니다.</CadianOfficerCap.description>
+  <CadianHelmetMask.label>카디안 헬멧 (방한모)</CadianHelmetMask.label>
+  <CadianHelmetMask.description>임페리얼 가드 카디안 연대가 주로 쓰는 헬멧입니다. 추위를 막아주는 작은 이점을 줍니다.</CadianHelmetMask.description>
+  <KasrkinHelmet.label>카스킨 헬멧 (방독면 amp; 고글)</KasrkinHelmet.label>
+  <KasrkinHelmet.description>임페리얼 가드 연대에서 카스킨 부대가 주로 쓰는 헬멧입니다.</KasrkinHelmet.description>
+  <CommissarUniform.label>커미사르 제복</CommissarUniform.label>
+  <CommissarUniform.description>커미사르를 위한 전신 제복입니다. 표준적으로 배급되는 임페리얼 가드 장비와 동등한 장갑층을 가지고 있습니다.</CommissarUniform.description>
+  <KriegCommissarUniform.label>크리그 커미사르 제복</KriegCommissarUniform.label>
+  <KriegCommissarUniform.description>커미사르를 위한 전신 제복입니다. 표준적으로 배급되는 임페리얼 가드 장비와 동등한 장갑층을 가지고 있습니다.</KriegCommissarUniform.description>
+  <SteelLegionCommissarUniform.label>스틸 리전 커미사르 제복</SteelLegionCommissarUniform.label>
+  <SteelLegionCommissarUniform.description>커미사르를 위한 전신 제복입니다. 표준적으로 배급되는 임페리얼 가드 장비와 동등한 장갑층을 가지고 있습니다.</SteelLegionCommissarUniform.description>
+  <CommissarCap.label>커미사르 모자</CommissarCap.label>
+  <CommissarCap.description>커미사르와 어울리는 모자로, 존경심을 요구합니다. 그렇지 않다면, 대가리에 바람구멍이 날 테니까요.</CommissarCap.description>
+  <KriegCommissarCap.label>크리그 커미사르 모자</KriegCommissarCap.label>
+  <KriegCommissarCap.description>커미사르와 어울리는 모자로, 존경심을 요구합니다. 그렇지 않다면, 대가리에 바람구멍이 날 테니까요.</KriegCommissarCap.description>
+  <SteelLegionCommissarCap.label>틸 리전 커미사르 모자</SteelLegionCommissarCap.label>
+  <SteelLegionCommissarCap.description>커미사르와 어울리는 모자로, 존경심을 요구합니다. 그렇지 않다면, 대가리에 바람구멍이 날 테니까요.</SteelLegionCommissarCap.description>
+  <KriegUniform.label>크리그 군복</KriegUniform.label>
+  <KriegUniform.description>데스 코어 오브 크리그가 입는 전신 군복으로, 일반적으로 그들의 아머 안에 입습니다.</KriegUniform.description>
+  <KriegSniperUniform.label>크리그 저격수 군복</KriegSniperUniform.label>
+  <KriegSniperUniform.description>데스 코어 오브 크리그 저격수가 입는 전신 군복으로, 일반적으로 그들의 아머 안에 입습니다.</KriegSniperUniform.description>
+  <KriegArmor.label>크리그 기갑 벨트</KriegArmor.label>
+  <KriegArmor.description>데스 코어 오브 크리그가 주로 입는 경잡갑입니다.</KriegArmor.description>
+  <KriegHeavyArmor.label>크리그 아머</KriegHeavyArmor.label>
+  <KriegHeavyArmor.description>데스 코어 오브 크리그가 주로 입는 경잡갑입니다.</KriegHeavyArmor.description>
+  <KriegHelmet.label>크리그 헬멧</KriegHelmet.label>
+  <KriegHelmet.description>데스 코어 오브 크리그가 주로 쓰는 헬멧입니다.</KriegHelmet.description>
+  <KriegHeavyHelmet.label>크리그 헬멧 (헤비)</KriegHeavyHelmet.label>
+  <KriegHeavyHelmet.description>데스 코어 오브 크리그 척탄병이 주로 쓰는 더 단단한 헬멧입니다.</KriegHeavyHelmet.description>
+  <KriegSniperHelmet.label>크리그 헬멧 (저격수)</KriegSniperHelmet.label>
+  <KriegSniperHelmet.description>데스 코어 오브 크리그 저격수가 주로 쓰는 헬멧입니다.</KriegSniperHelmet.description>
+  <KriegPickelhaubeGasmask.label>크리그 피켈하우베 (방독면)</KriegPickelhaubeGasmask.label>
+  <KriegPickelhaubeGasmask.description>데스 코어 오브 크리그가 주로 행사에만 착용하는 의례용 헬멧입니다.</KriegPickelhaubeGasmask.description>
+  <KriegPickelhaube.label>크리그 피켈하우베</KriegPickelhaube.label>
+  <KriegPickelhaube.description>데스 코어 오브 크리그가 주로 행사에만 착용하는 의례용 헬멧입니다.</KriegPickelhaube.description>
+  <GuevesaUniformSacea.label>궤'베사 군복 (샤'시아)</GuevesaUniformSacea.label>
+  <GuevesaUniformSacea.description>궤'베사가 입는 전신 군복으로, 일반적으로 그들의 아머 안에 입습니다.</GuevesaUniformSacea.description>
+  <GuevesaArmorSacea.label>궤'베사 아머 (샤'시아)</GuevesaArmorSacea.label>
+  <GuevesaArmorSacea.description>궤'베사가 주로 입는 아머입니다.</GuevesaArmorSacea.description>
+  <GuevesaHelmetSacea.label>궤'베사 헬멧 (샤'시아)</GuevesaHelmetSacea.label>
+  <GuevesaHelmetSacea.description>궤'베사가 주로 쓰는 헬멧입니다.</GuevesaHelmetSacea.description>
+  <SteelLegionUniform.label>스틸 리전 군복</SteelLegionUniform.label>
+  <SteelLegionUniform.description>스틸 리전이 입는 전신 군복으로, 일반적으로 그들의 아머 안에 입습니다.</SteelLegionUniform.description>
+  <SteelLegionCamoUniform.label>스틸 리전 군복 (카모)</SteelLegionCamoUniform.label>
+  <SteelLegionCamoUniform.description>스틸 리전이 입는 전신 군복으로, 일반적으로 그들의 아머 안에 입습니다.</SteelLegionCamoUniform.description>
+  <SteelLegionArmor.label>스틸 리전 벨트</SteelLegionArmor.label>
+  <SteelLegionArmor.description>스틸 리전이 주로 입는 가벼운 벨트입니다.</SteelLegionArmor.description>
+  <SteelLegionHelmet.label>스틸 리전 헬멧</SteelLegionHelmet.label>
+  <SteelLegionHelmet.description>스틸 리전이 주로 쓰는 헬멧입니다.</SteelLegionHelmet.description>
+  <SteelLegionHelmetGasmask.label>스틸 리전 헬멧 (방독면)</SteelLegionHelmetGasmask.label>
+  <SteelLegionHelmetGasmask.description>스틸 리전이 주로 쓰는 헬멧입니다. 방독면이 부착돼있습니다.</SteelLegionHelmetGasmask.description>
+  <SteelLegionOfficerHelmet.label>스틸 리전 장교 헬멧</SteelLegionOfficerHelmet.label>
+  <SteelLegionOfficerHelmet.description>스틸 리전이 장교가 주로 쓰는 튼튼한 헬멧입니다. 방독면이 부착돼있습니다.</SteelLegionOfficerHelmet.description>
+  <SteelLegionCap.label>스틸 리전 필드 캡</SteelLegionCap.label>
+  <SteelLegionCap.description>아마겟돈 스틸 리전 연대가 주로 쓰는 모자입니다.</SteelLegionCap.description>
+  <SteelLegionCapGasmask.label>스틸 리전 필드 캡 (방독면)</SteelLegionCapGasmask.label>
+  <SteelLegionCapGasmask.description>아마겟돈 스틸 리전 연대가 주로 쓰는 모자입니다. 방독면이 부착돼있습니다.</SteelLegionCapGasmask.description>
+  <GuevesaUniform.label>궤'베사 군복</GuevesaUniform.label>
+  <GuevesaUniform.description>궤'베사가 입는 전신 군복으로, 일반적으로 그들의 아머 안에 입습니다.</GuevesaUniform.description>
+  <GuevesaArmor.label>궤'베사 아머</GuevesaArmor.label>
+  <GuevesaArmor.description>궤'베사가 주로 입는 아머입니다.</GuevesaArmor.description>
+  <GuevesaHelmet.label>궤'베사 헬멧</GuevesaHelmet.label>
+  <GuevesaHelmet.description>궤'베사가 주로 쓰는 헬멧입니다.</GuevesaHelmet.description>
+  <ValhallanUniform.label>발할라 군복</ValhallanUniform.label>
+  <ValhallanUniform.description>발할라 아이스 워리어가 입는 전신 군복으로, 일반적으로 그들의 아머 안에 입습니다.</ValhallanUniform.description>
+  <ValhallanArmor.label>발할라 아머</ValhallanArmor.label>
+  <ValhallanArmor.description>임페리얼 가드 발할라 연대가 주로 입는 아머입니다.</ValhallanArmor.description>
+  <ValhallanHelmet.label>발할라 헬멧</ValhallanHelmet.label>
+  <ValhallanHelmet.description>임페리얼 가드 발할라 연대가 주로 쓰는 헬멧입니다. 작은 방한 기능을 제공합니다.</ValhallanHelmet.description>
+  <ValhallanFurhat.label>발할라 퍼햇</ValhallanFurhat.label>
+  <ValhallanFurhat.description>임페리얼 가드 발할라 연대가 주로 쓰는 헬멧입니다. 작은 방한 기능을 제공합니다.</ValhallanFurhat.description>
+  <ValhallanFurhatMask.label>발할라 퍼햇 (마스크를 씀)</ValhallanFurhatMask.label>
+  <ValhallanFurhatMask.description>임페리얼 가드 발할라 연대가 주로 쓰는 헬멧입니다. 작은 방한 기능을 제공합니다.</ValhallanFurhatMask.description>
+  <ValhallanHelmetGas.label>발할라 헬멧 (방독면)</ValhallanHelmetGas.label>
+  <ValhallanHelmetGas.description>임페리얼 가드 발할라 연대가 주로 쓰는 헬멧입니다. 작은 방한 기능을 제공합니다.</ValhallanHelmetGas.description>
+  <ValhallanHelmetMask.label>발할라 헬멧 (방한모)</ValhallanHelmetMask.label>
+  <ValhallanHelmetMask.description>임페리얼 가드 발할라 연대가 주로 쓰는 헬멧입니다. 작은 방한 기능을 제공합니다.</ValhallanHelmetMask.description>
+  <KrootLeathers.label>크룻 가죽옷</KrootLeathers.label>
+  <KrootLeathers.description>크룻 전신을 덮어주는 옷입니다.</KrootLeathers.description>
+  <KrootCloak.label>크룻 망토</KrootCloak.label>
+  <KrootCloak.description>추위로부터 보호해주는 망토입니다.</KrootCloak.description>
+  <KrootHeavyArmour.label>크룻 아머</KrootHeavyArmour.label>
+  <KrootHeavyArmour.description>그들의 몸을 대부분 덮어서, 강한 충격으로부터 보호해주는 단단한 가죽 아머입니다.</KrootHeavyArmour.description>
+  <KrootTrustedArmour.label>크룻 트러스티드 아머 (타'우)</KrootTrustedArmour.label>
+  <KrootTrustedArmour.description>이 아머는 타우에게 가장 충성스러운 크룻에게만 주어지는 아머로, 그들과 타우 사이에 신뢰를 상징합니다.</KrootTrustedArmour.description>
+  <KrootTrustedArmourSacea.label>크룻 트러스티드 아머 (샤'시아)</KrootTrustedArmourSacea.label>
+  <KrootTrustedArmourSacea.description>이 아머는 타우에게 가장 충성스러운 크룻에게만 주어지는 아머로, 그들과 타우 사이에 신뢰를 상징합니다.</KrootTrustedArmourSacea.description>
+  <OrkClothingLight.label>오크 경갑 전투복</OrkClothingLight.label>
+  <OrkClothingLight.description>어뚼 오크는 봐쥐만 입눈껄 쪼아환똬. 끄리고, 울뚱불뚱한 끈육과 뽁끈을 뽀여주고, 쩍을 둴둴 떨걔한다.</OrkClothingLight.description>
+  <OrkClothingMedium.label>오크 평갑 전투복</OrkClothingMedium.label>
+  <OrkClothingMedium.description>이 옫은 피부룰 쪼끔만 과리눈걸 조아화는 오크뜰울 위한꺼다.</OrkClothingMedium.description>
+  <OrkClothingHeavy.label>오크 중갑 전투복</OrkClothingHeavy.label>
+  <OrkClothingHeavy.description>이 옫은 피부룰 쪼끔만 과리눈걸 조아화는 오크뜰울 위한꺼다.</OrkClothingHeavy.description>
+  <OrkRobe.label>오크 로브</OrkRobe.label>
+  <OrkRobe.description>이 옫은 위어드 보이즈와 끄녀썩둘에 싸이킥 눙력을 위한꺼다.</OrkRobe.description>
+  <OrkKommandoBandolier.label>오크 코만도 탄띠</OrkKommandoBandolier.label>
+  <OrkKommandoBandolier.description>이 옫은 코만도뚤이 입눈 옸인뒈, 이 꾜활핞 놈둘은 멍쳥한 휴미에게 둘퀴지 않울려고 둴 입눈걸 쪼아한따.</OrkKommandoBandolier.description>
+  <OrkLightArmorRed.label>오크 라이트 아머 (빨간색)</OrkLightArmorRed.label>
+  <OrkLightArmorRed.description>스피드 뽀이즈가 입는 아머돠. 빨간쌕으뤄 칠해써 더 빨리 달륄 쑤 있똬.</OrkLightArmorRed.description>
+  <OrkMediumArmorRed.label>오크 미디엄 아머 (빨간색)</OrkMediumArmorRed.label>
+  <OrkMediumArmorRed.description>스피드 뽀이즈가 입는 아머돠. 빨간쌕으뤄 칠해써 더 빨리 달륄 쑤 있똬.</OrkMediumArmorRed.description>
+  <OrkHeavyArmorRed.label>오크 헤비 아머 (빨간색)</OrkHeavyArmorRed.label>
+  <OrkHeavyArmorRed.description>스피드 뽀이즈가 입는 아머돠. 빨간쌕으뤄 칠해써 더 빨리 달륄 쑤 있똬.</OrkHeavyArmorRed.description>
+  <OrkRedHelmet.label>오크 헬멧 (빨간색)</OrkRedHelmet.label>
+  <OrkRedHelmet.description>뽀이즈에 머리통을 쥐켜쭈눈 금솏 조깍이돠.</OrkRedHelmet.description>
+  <OrkRedHelmetHorned.label>오크 뿔 헬멧 (빨간색)</OrkRedHelmetHorned.label>
+  <OrkRedHelmetHorned.description>뽀이즈에 머리통을 쥐켜쭈눈 금솏 조깍이돠.</OrkRedHelmetHorned.description>
+  <OrkGasmask.label>오크 방독면</OrkGasmask.label>
+  <OrkGasmask.description>뽀이즈에 머리통을 쥐켜쭈눈 금솏 조깍이돠. 궤돠과, 이거눈 뽀이즈가 둭쉉 환경에써도 쑴쉴 수 읻게 해쭌다.</OrkGasmask.description>
+  <OrkRedBandana.label>오크 반다나 (빨간색)</OrkRedBandana.label>
+  <OrkRedBandana.description>끄냥 천 쪼가리쥐뫈, 아무걷도 입쥐 않는꺼 뽀돤 낟똬!</OrkRedBandana.description>
+  <OrkKommandoGoggles.label>오크 코만도 고글</OrkKommandoGoggles.label>
+  <OrkKommandoGoggles.description>끄냥 빤쫙꺼리눈 안꼉이쥐만, 없눈꺼 뽀돤 낟똬!</OrkKommandoGoggles.description>
+  <OrkGoggles.label>오크 고글</OrkGoggles.label>
+  <OrkGoggles.description>뽀이즈에 머리통을 쥐켜쭈눈 금솏 조깍이돠.</OrkGoggles.description>
+  <OrkRedJaw.label>오크 곱 (빨간색)</OrkRedJaw.label>
+  <OrkRedJaw.description>뽀이즈에 머리통을 쥐켜쭈눈 금솏 조깍이돠.</OrkRedJaw.description>
+  <TauCombatArmorSacea.label>타우 컴뱃 아머 (샤'시아)</TauCombatArmorSacea.label>
+  <TauCombatArmorSacea.description>타우 불 카스트가 주로 입는 아머입니다.</TauCombatArmorSacea.description>
+  <TauScoutArmorSacea.label>타우 스카웃 아머 (샤'시아)</TauScoutArmorSacea.label>
+  <TauScoutArmorSacea.description>타우 불 카스트 스카웃이 주로 입는 아머입니다..</TauScoutArmorSacea.description>
+  <TauCombatHelmetSacea.label>타우 컴뱃 헬멧 (샤'시아)</TauCombatHelmetSacea.label>
+  <TauCombatHelmetSacea.description>타우 불 카스트가 주로 쓰는 헬멧입니다.</TauCombatHelmetSacea.description>
+  <SororitasArmor.label>소로리타스 아머</SororitasArmor.label>
+  <SororitasArmor.description>파워 아머는 파워 컴뱃 아머의 발전된 형태로, 단순히 평범한 인간들이 입기 위해 만들었지만, 주로 스페이스 마린과 카오스 스페이스 마린이 입습니다. 이것은 세라마이트 불투명 흡수층에 싸여진 모양의 아다만티움과 플라스틸판으로 구성된 완벽한 밀폐형 컴뱃 아머입니다.</SororitasArmor.description>
+  <BlackTemplarsArmor.label>블랙 템플러 아머</BlackTemplarsArmor.label>
+  <BlackTemplarsApothecaryArmor.label>블랙 템플러 아포세카리 아머</BlackTemplarsApothecaryArmor.label>
+  <BlackTemplarsSgtArmor.label>블랙 템플러 서전트 아머</BlackTemplarsSgtArmor.label>
+  <BlackTemplarsTermArmor.label>블랙 템플러 터미네이터 아머</BlackTemplarsTermArmor.label>
+  <BlackTemplarsCmdrArmor.label>블랙 템플러 사령관 아머</BlackTemplarsCmdrArmor.label>
+  <BlackTemplarsHelmet.label>블랙 템플러 헬멧</BlackTemplarsHelmet.label>
+  <BlackTemplarsApothecaryHelmet.label>블랙 템플러 아포세카리 헬멧</BlackTemplarsApothecaryHelmet.label>
+  <BlackTemplarsSgtHelmet.label>블랙 템플러 서전트 헬멧</BlackTemplarsSgtHelmet.label>
+  <BlackTemplarsTermHelmet.label>블랙 템플러 터미네이터 헬멧</BlackTemplarsTermHelmet.label>
+  <BloodRavensArmor.label>블러드 레이븐 아머</BloodRavensArmor.label>
+  <BloodRavensApothecaryArmor.label>블러드 레이븐 아포세카리 아머</BloodRavensApothecaryArmor.label>
+  <BloodRavensSgtArmor.label>블러드 레이븐 서전트 아머</BloodRavensSgtArmor.label>
+  <BloodRavensTermArmor.label>블러드 레이븐 터미네이터 아머</BloodRavensTermArmor.label>
+  <BloodRavensCmdrArmor.label>블러드 레이븐 사령관 아머</BloodRavensCmdrArmor.label>
+  <BloodRavensHelmet.label>블러드 레이븐 헬멧</BloodRavensHelmet.label>
+  <BloodRavensApothecaryHelmet.label>블러드 레이븐 아포세카리 헬멧</BloodRavensApothecaryHelmet.label>
+  <BloodRavensSgtHelmet.label>블러드 레이븐 서전트 헬멧</BloodRavensSgtHelmet.label>
+  <BloodRavensTermHelmet.label>블러드 레이븐 터미네이터 헬멧</BloodRavensTermHelmet.label>
+  <BloodRavensCmdrHelmet.label>블러드 레이븐 사령관 헬멧</BloodRavensCmdrHelmet.label>
+  <SalamandersArmor.label>샐러맨더 아머</SalamandersArmor.label>
+  <SalamandersApothecaryArmor.label>샐러맨더 아포세카리 아머</SalamandersApothecaryArmor.label>
+  <SalamandersSgtArmor.label>샐러맨더 서전트 아머</SalamandersSgtArmor.label>
+  <SalamandersTermArmor.label>샐러맨더 터미네이터 아머</SalamandersTermArmor.label>
+  <SalamandersCmdrArmor.label>샐러맨더 사령관 아머</SalamandersCmdrArmor.label>
+  <SalamandersHelmet.label>샐러맨더 헬멧</SalamandersHelmet.label>
+  <SalamandersApothecaryHelmet.label>샐러맨더 아포세카리 헬멧</SalamandersApothecaryHelmet.label>
+  <SalamandersSgtHelmet.label>샐러맨더 서전트 헬멧</SalamandersSgtHelmet.label>
+  <SalamandersTermHelmet.label>샐러맨더 터미네이터 헬멧</SalamandersTermHelmet.label>
+  <SalamandersCmdrHelmet.label>샐러맨더 사령관 헬멧</SalamandersCmdrHelmet.label>
+  <SpaceWolvesArmor.label>스페이스 울브즈 아머</SpaceWolvesArmor.label>
+  <SpaceWolvesApothecaryArmor.label>스페이스 울브즈 아포세카리 아머</SpaceWolvesApothecaryArmor.label>
+  <SpaceWolvesSgtArmor.label>스페이스 울브즈 서전트 아머</SpaceWolvesSgtArmor.label>
+  <SpaceWolvesTermArmor.label>스페이스 울브즈 터미네이터 아머</SpaceWolvesTermArmor.label>
+  <SpaceWolvesCmdrArmor.label>스페이스 울브즈 사령관 아머</SpaceWolvesCmdrArmor.label>
+  <SpaceWolvesHelmet.label>스페이스 울브즈 헬멧</SpaceWolvesHelmet.label>
+  <SpaceWolvesApothecaryHelmet.label>스페이스 울브즈 아포세카리 헬멧</SpaceWolvesApothecaryHelmet.label>
+  <SpaceWolvesSgtHelmet.label>스페이스 울브즈 서전트 헬멧</SpaceWolvesSgtHelmet.label>
+  <SpaceWolvesTermHelmet.label>스페이스 울브즈 터미네이터 헬멧</SpaceWolvesTermHelmet.label>
+  <SpaceWolvesCmdrHelmet.label>스페이스 울브즈 사령관 헬멧</SpaceWolvesCmdrHelmet.label>
+  <UltramarineArmor.label>울트라마린 아머</UltramarineArmor.label>
+  <UltramarineArmor.description>파워 아머는 파워 컴뱃 아머의 발전된 형태로, 단순히 평범한 인간들이 입기 위해 만들었지만, 주로 스페이스 마린과 카오스 스페이스 마린이 입습니다. 이것은 세라마이트 불투명 흡수층에 싸여진 모양의 아다만티움과 플라스틸판으로 구성된 완벽한 밀폐형 컴뱃 아머입니다.</UltramarineArmor.description>
+  <UltramarineApothecaryArmor.label>울트라마린 아포세카리 아머</UltramarineApothecaryArmor.label>
+  <UltramarineSgtArmor.label>울트라마린 서전트 아머</UltramarineSgtArmor.label>
+  <UltramarineTermArmor.label>울트라마린 터미네이터 아머</UltramarineTermArmor.label>
+  <UltramarineCmdrArmor.label>울트라마린 사령관 아머</UltramarineCmdrArmor.label>
+  <UltramarineHelmet.label>울트라마린 헬멧</UltramarineHelmet.label>
+  <UltramarineHelmet.description>파워 아머는 파워 컴뱃 아머의 발전된 형태로, 단순히 평범한 인간들이 입기 위해 만들었지만, 주로 스페이스 마린과 카오스 스페이스 마린이 입습니다. 이것은 세라마이트 불투명 흡수층에 싸여진 모양의 아다만티움과 플라스틸판으로 구성된 완벽한 밀폐형 컴뱃 아머입니다.</UltramarineHelmet.description>
+  <UltramarineApothecaryHelmet.label>울트라마린 아포세카리 헬멧</UltramarineApothecaryHelmet.label>
+  <UltramarineSgtHelmet.label>울트라마린 서전트 헬멧</UltramarineSgtHelmet.label>
+  <UltramarineTermHelmet.label>울트라마린 터미네이터 헬멧</UltramarineTermHelmet.label>
+  <UltramarineCmdrHelmet.label>울트라마린 사령관 헬멧</UltramarineCmdrHelmet.label>
+  <TauCombatArmor.label>타우 컴뱃 아머</TauCombatArmor.label>
+  <TauCombatArmor.description>타우 불의 카스트가 주로 입는 아머입니다.</TauCombatArmor.description>
+  <TauScoutArmor.label>타우 스카웃 아머</TauScoutArmor.label>
+  <TauScoutArmor.description>타우 불의 카스트 스카웃이 주로 입는 아머입니다.</TauScoutArmor.description>
+  <TauCombatHelmet.label>타우 컴뱃 헬멧</TauCombatHelmet.label>
+  <TauCombatHelmet.description>타우 불의 카스트가 주로 쓰는 헬멧입니다.</TauCombatHelmet.description>
+  <VespidArmour.label>베스피드 컴뱃 아머 (타'우)</VespidArmour.label>
+  <VespidArmour.description>타우가 베스피드에게 보급하는 아머는 일반적으로 많이 입지 않지만, 외골격의 몇 가지 약점 중 하나를 보호하기 위해 고안됐습니다.</VespidArmour.description>
+  <VespidArmourSacea.label>베스피드 컴뱃 아머 (샤'시아)</VespidArmourSacea.label>
+  <VespidArmourSacea.description>타우가 베스피드에게 보급하는 아머는 일반적으로 많이 입지 않지만, 외골격의 몇 가지 약점 중 하나를 보호하기 위해 고안됐습니다.</VespidArmourSacea.description>
+  <Aegis_Wall_Base.label>이지스 벽</Aegis_Wall_Base.label>
+  <Aegis_Wall_Base.description>지나갈 수 있으며, 사격이 가능한 방어방벽입니다.</Aegis_Wall_Base.description>
+  <Aegis_Wall_Base_Blueprint.label>이지스 벽 (청사진)</Aegis_Wall_Base_Blueprint.label>
+  <Aegis_Wall_Base_Frame.label>이지스 벽 (건설 중)</Aegis_Wall_Base_Frame.label>
+  <Aegis_Wall_Base_Frame.description>지나갈 수 있으며, 사격이 가능한 방어방벽입니다.</Aegis_Wall_Base_Frame.description>
+  <ELD_Aegis.label>엘다 이지스 벽</ELD_Aegis.label>
+  <ELD_Aegis.description>지나갈 수 있으며, 사격이 가능한 방어방벽입니다.</ELD_Aegis.description>
+  <ELD_Aegis_Blueprint.label>엘다 이지스 벽 (청사진)</ELD_Aegis_Blueprint.label>
+  <ELD_Aegis_Frame.label>엘다 이지스 벽 (건설 중)</ELD_Aegis_Frame.label>
+  <ELD_Aegis_Frame.description>지나갈 수 있으며, 사격이 가능한 방어방벽입니다.</ELD_Aegis_Frame.description>
+  <IG_Aegis.label>IG 이지스 벽</IG_Aegis.label>
+  <IG_Aegis.description>지나갈 수 있으며, 사격이 가능한 방어방벽입니다.</IG_Aegis.description>
+  <IG_Aegis_Blueprint.label>IG 이지스 벽 (청사진)</IG_Aegis_Blueprint.label>
+  <IG_Aegis_Frame.label>IG 이지스 벽 (건설 중)</IG_Aegis_Frame.label>
+  <IG_Aegis_Frame.description>지나갈 수 있으며, 사격이 가능한 방어방벽입니다.</IG_Aegis_Frame.description>
+  <NEC_Aegis_Green.label>네크론 이지스 벽 (녹색)</NEC_Aegis_Green.label>
+  <NEC_Aegis_Green.description>지나갈 수 없는 방어용 레이저 벽으로, 사격이 가능합니다.</NEC_Aegis_Green.description>
+  <NEC_Aegis_Green_Blueprint.label>네크론 이지스 벽 (녹색) (청사진)</NEC_Aegis_Green_Blueprint.label>
+  <NEC_Aegis_Green_Frame.label>네크론 이지스 벽 (녹색) (건설 중)</NEC_Aegis_Green_Frame.label>
+  <NEC_Aegis_Green_Frame.description>지나갈 수 없는 방어용 레이저 벽으로, 사격이 가능합니다.</NEC_Aegis_Green_Frame.description>
+  <NEC_Aegis_Blue.label>네크론 이지스 벽 (파란색)</NEC_Aegis_Blue.label>
+  <NEC_Aegis_Blue.description>지나갈 수 없는 방어용 레이저 벽으로, 사격이 가능합니다.</NEC_Aegis_Blue.description>
+  <NEC_Aegis_Blue_Blueprint.label>네크론 이지스 벽 (파란색) (청사진)</NEC_Aegis_Blue_Blueprint.label>
+  <NEC_Aegis_Blue_Frame.label>네크론 이지스 벽 (파란색) (건설 중)</NEC_Aegis_Blue_Frame.label>
+  <NEC_Aegis_Blue_Frame.description>지나갈 수 없는 방어용 레이저 벽으로, 사격이 가능합니다.</NEC_Aegis_Blue_Frame.description>
+  <NEC_Aegis_Orange.label>네크론 이지스 벽 (주황색)</NEC_Aegis_Orange.label>
+  <NEC_Aegis_Orange.description>지나갈 수 없는 방어용 레이저 벽으로, 사격이 가능합니다.</NEC_Aegis_Orange.description>
+  <NEC_Aegis_Orange_Blueprint.label>네크론 이지스 벽 (주황색) (청사진)</NEC_Aegis_Orange_Blueprint.label>
+  <NEC_Aegis_Orange_Frame.label>네크론 이지스 벽 (주황색) (건설 중)</NEC_Aegis_Orange_Frame.label>
+  <NEC_Aegis_Orange_Frame.description>지나갈 수 없는 방어용 레이저 벽으로, 사격이 가능합니다.</NEC_Aegis_Orange_Frame.description>
+  <TAU_Aegis.label>타우 이지스 벽</TAU_Aegis.label>
+  <TAU_Aegis.description>지나갈 수 없는 방어용 레이저 벽으로, 사격이 가능합니다.</TAU_Aegis.description>
+  <TAU_Aegis_Blueprint.label>타우 이지스 벽 (청사진)</TAU_Aegis_Blueprint.label>
+  <TAU_Aegis_Frame.label>타우 이지스 벽 (건설 중)</TAU_Aegis_Frame.label>
+  <TAU_Aegis_Frame.description>지나갈 수 없는 방어용 레이저 벽으로, 사격이 가능합니다.</TAU_Aegis_Frame.description>
+  <SpacemarineConversionDeviceRH.label>스페이스 마린 진시드 인식기</SpacemarineConversionDeviceRH.label>
+  <SpacemarineConversionDeviceRH.description>내부에서 스페이스 마린으로 개조하기 위한 자동화 장치입니다. 그 과정은 아주 흥미롭고 종종 친근하게 지냈던 사람조차 낯설게 느끼도록 만듭니다. 심지어, 스페이스 마린 개조실에 들었갔다가 나온 사람을, 같은 사람으로 인식하기 어려운 경우도 있습니다.</SpacemarineConversionDeviceRH.description>
+  <SpacemarineConversionDeviceRH_Blueprint.label>페이스 마린 진시드 인식기 (청사진)</SpacemarineConversionDeviceRH_Blueprint.label>
+  <SpacemarineConversionDeviceRH_Frame.label>스페이스 마린 진시드 인식기 (건설 중)</SpacemarineConversionDeviceRH_Frame.label>
+  <SpacemarineConversionDeviceRH_Frame.description>내부에서 스페이스 마린으로 개조하기 위한 자동화 장치입니다. 그 과정은 아주 흥미롭고 종종 친근하게 지냈던 사람조차 낯설게 느끼도록 만듭니다. 심지어, 스페이스 마린 개조실에 들었갔다가 나온 사람을, 같은 사람으로 인식하기 어려운 경우도 있습니다.</SpacemarineConversionDeviceRH_Frame.description>
+  <RegicideTable.label>레지사이드 탁자</RegicideTable.label>
+  <RegicideTable.description>레지사이드는 인류 제국에 대중적으로 퍼진 탁자 위에서 하는 보드게임입니다. 그것은 보드와 보드 게임에서 사용하는 말 혹은 가상의 홀로그램 디스플레이로 사용합니다. 고대 인류의 체스 게임과 비슷하고, 특정한 말만 보이는 '후디드' 보드에서 플레이할 수 있어, 게임을 더욱 복잡하게 만들 수 있습니다. 레지사이드는 지적 능력을 훈련시킵니다.</RegicideTable.description>
+  <RegicideTable_Blueprint.label>레지사이드 탁자 (청사진)</RegicideTable_Blueprint.label>
+  <RegicideTable_Blueprint_Install.label>레지사이드 탁자 (청사진)</RegicideTable_Blueprint_Install.label>
+  <RegicideTable_Frame.label>레지사이드 탁자 (건설 중)</RegicideTable_Frame.label>
+  <RegicideTable_Frame.description>레지사이드는 인류 제국에 대중적으로 퍼진 탁자 위에서 하는 보드게임입니다. 그것은 보드와 보드 게임에서 사용하는 말 혹은 가상의 홀로그램 디스플레이로 사용합니다. 고대 인류의 체스 게임과 비슷하고, 특정한 말만 보이는 '후디드' 보드에서 플레이할 수 있어, 게임을 더욱 복잡하게 만들 수 있습니다. 레지사이드는 지적 능력을 훈련시킵니다.</RegicideTable_Frame.description>
+  <ParadoxPokerTable.label>패러독스 포커 탁자</ParadoxPokerTable.label>
+  <ParadoxPokerTable.description>매주 토요일 밤, 어김없이 황제, 젠취, 세고라크 그리고 디시버가 함께 술과 안주를 들고 모여 앉아서, 또 한번 스릴있는 패러독스 포커를 함께 즐깁니다.</ParadoxPokerTable.description>
+  <ParadoxPokerTable_Blueprint.label>패러독스 포커 탁자 (청사진)</ParadoxPokerTable_Blueprint.label>
+  <ParadoxPokerTable_Blueprint_Install.label>패러독스 포커 탁자 (청사진)</ParadoxPokerTable_Blueprint_Install.label>
+  <ParadoxPokerTable_Frame.label>패러독스 포커 탁자 (건설 중)</ParadoxPokerTable_Frame.label>
+  <ParadoxPokerTable_Frame.description>매주 토요일 밤, 어김없이 황제, 젠취, 세고라크 그리고 디시버가 함께 술과 안주를 들고 모여 앉아서, 또 한번 스릴있는 패러독스 포커를 함께 즐깁니다.</ParadoxPokerTable_Frame.description>
+  <NecronFloorLamp_Green.label>네크론 플로어 램프 (초록색)</NecronFloorLamp_Green.label>
+  <NecronFloorLamp_Green.description>초록색으로 빛나는 네크로데미스 바닥판입니다.</NecronFloorLamp_Green.description>
+  <NecronFloorLamp_Green_Blueprint.label>네크론 플로어 램프 (초록색) (청사진)</NecronFloorLamp_Green_Blueprint.label>
+  <NecronFloorLamp_Green_Blueprint_Install.label>네크론 플로어 램프 (초록색) (청사진)</NecronFloorLamp_Green_Blueprint_Install.label>
+  <NecronFloorLamp_Green_Frame.label>네크론 플로어 램프 (초록색) (건설 중)</NecronFloorLamp_Green_Frame.label>
+  <NecronFloorLamp_Green_Frame.description>초록색으로 빛나는 네크로데미스 바닥판입니다.</NecronFloorLamp_Green_Frame.description>
+  <NecronFloorLamp_Blue.label>네크론 플로어 램프 (파란색)</NecronFloorLamp_Blue.label>
+  <NecronFloorLamp_Blue.description>파란색으로 빛나는 네크로데미스 바닥판입니다.</NecronFloorLamp_Blue.description>
+  <NecronFloorLamp_Blue_Blueprint.label>네크론 플로어 램프 (파란색) (청사진)</NecronFloorLamp_Blue_Blueprint.label>
+  <NecronFloorLamp_Blue_Blueprint_Install.label>네크론 플로어 램프 (파란색) (청사진)</NecronFloorLamp_Blue_Blueprint_Install.label>
+  <NecronFloorLamp_Blue_Frame.label>네크론 플로어 램프 (파란색) (건설 중)</NecronFloorLamp_Blue_Frame.label>
+  <NecronFloorLamp_Blue_Frame.description>파란색으로 빛나는 네크로데미스 바닥판입니다.</NecronFloorLamp_Blue_Frame.description>
+  <NecronFloorLamp_Orange.label>네크론 플로어 램프 (주황색)</NecronFloorLamp_Orange.label>
+  <NecronFloorLamp_Orange.description>주황색으로 빛나는 네크로데미스 바닥판입니다.</NecronFloorLamp_Orange.description>
+  <NecronFloorLamp_Orange_Blueprint.label>네크론 플로어 램프 (주황색) (청사진)</NecronFloorLamp_Orange_Blueprint.label>
+  <NecronFloorLamp_Orange_Blueprint_Install.label>네크론 플로어 램프 (주황색) (청사진)</NecronFloorLamp_Orange_Blueprint_Install.label>
+  <NecronFloorLamp_Orange_Frame.label>네크론 플로어 램프 (주황색) (건설 중)</NecronFloorLamp_Orange_Frame.label>
+  <NecronFloorLamp_Orange_Frame.description>주황색으로 빛나는 네크로데미스 바닥판입니다.</NecronFloorLamp_Orange_Frame.description>
+  <N17ReinforcementBeaconIG.label>궤도 통신 어레이</N17ReinforcementBeaconIG.label>
+  <N17ReinforcementBeaconIG.description>행성에 있는 모든 연합 세력과 연락할 수 있는 강력한 무선 송신소입니다.</N17ReinforcementBeaconIG.description>
+  <N17ReinforcementBeaconIG_Blueprint.label>궤도 통신 어레이 (청사진)</N17ReinforcementBeaconIG_Blueprint.label>
+  <N17ReinforcementBeaconIG_Blueprint_Install.label>궤도 통신 어레이 (청사진)</N17ReinforcementBeaconIG_Blueprint_Install.label>
+  <N17ReinforcementBeaconIG_Frame.label>궤도 통신 어레이 (건설 중)</N17ReinforcementBeaconIG_Frame.label>
+  <N17ReinforcementBeaconIG_Frame.description>행성에 있는 모든 연합 세력과 연락할 수 있는 강력한 무선 송신소입니다.</N17ReinforcementBeaconIG_Frame.description>
+  <NecronSarcophagus.label>네크론 석관</NecronSarcophagus.label>
+  <NecronSarcophagus.description>네크론이 잠들어 있는 동력실입니다.</NecronSarcophagus.description>
+  <NecronSarcophagus_Blueprint.label>네크론 석관 (청사진)</NecronSarcophagus_Blueprint.label>
+  <NecronSarcophagus_Blueprint_Install.label>네크론 석관 (청사진)</NecronSarcophagus_Blueprint_Install.label>
+  <NecronSarcophagus_Frame.label>네크론 석관 (건설 중)</NecronSarcophagus_Frame.label>
+  <NecronSarcophagus_Frame.description>네크론이 잠들어 있는 동력실입니다.</NecronSarcophagus_Frame.description>
+  <GaussConduit.label>가우스 전선관</GaussConduit.label>
+  <GaussConduit.description>전력 전도를 위한 네크론 가우스 전선관입니다. 네크로데미스로 덮여 있는 이 전선관은 네크론의 다른 구조물과 비슷한 내구성을 가집니다.</GaussConduit.description>
+  <GaussConduit_Blueprint.label>가우스 전선관 (청사진)</GaussConduit_Blueprint.label>
+  <GaussConduit_Frame.label>가우스 전선관 (건설 중)</GaussConduit_Frame.label>
+  <GaussConduit_Frame.description>전력 전도를 위한 네크론 가우스 전선관입니다. 네크로데미스로 덮여 있는 이 전선관은 네크론의 다른 구조물과 비슷한 내구성을 가집니다.</GaussConduit_Frame.description>
+  <GaussConduitGlowing.label>가우스 전선관 (녹색)</GaussConduitGlowing.label>
+  <GaussConduitGlowing.description>전력 전도를 위한 네크론 녹색 가우스 전선관입니다. 네크로데미스로 덮여 있는 이 전선관은 네크론의 다른 구조물과 비슷한 내구성을 가집니다. 아주 적은 양의 전력을 사용해서 작게 빛을 발생시킵니다.</GaussConduitGlowing.description>
+  <GaussConduitGlowing_Blueprint.label>가우스 전선관 (녹색) (청사진)</GaussConduitGlowing_Blueprint.label>
+  <GaussConduitGlowing_Frame.label>가우스 전선관 (녹색) (건설 중)</GaussConduitGlowing_Frame.label>
+  <GaussConduitGlowing_Frame.description>전력 전도를 위한 네크론 녹색 가우스 전선관입니다. 네크로데미스로 덮여 있는 이 전선관은 네크론의 다른 구조물과 비슷한 내구성을 가집니다. 아주 적은 양의 전력을 사용해서 작게 빛을 발생시킵니다.</GaussConduitGlowing_Frame.description>
+  <GaussConduitGlowingOrange.label>가우스 전선관 (주황색)</GaussConduitGlowingOrange.label>
+  <GaussConduitGlowingOrange.description>전력 전도를 위한 네크론 주황색 가우스 전선관입니다. 네크로데미스로 덮여 있는 이 전선관은 네크론의 다른 구조물과 비슷한 내구성을 가집니다. 아주 적은 양의 전력을 사용해서 작게 빛을 발생시킵니다.</GaussConduitGlowingOrange.description>
+  <GaussConduitGlowingOrange_Blueprint.label>가우스 전선관 (주황색) (청사진)</GaussConduitGlowingOrange_Blueprint.label>
+  <GaussConduitGlowingOrange_Frame.label>가우스 전선관 (주황색) (건설 중)</GaussConduitGlowingOrange_Frame.label>
+  <GaussConduitGlowingOrange_Frame.description>전력 전도를 위한 네크론 주황색 가우스 전선관입니다. 네크로데미스로 덮여 있는 이 전선관은 네크론의 다른 구조물과 비슷한 내구성을 가집니다. 아주 적은 양의 전력을 사용해서 작게 빛을 발생시킵니다.</GaussConduitGlowingOrange_Frame.description>
+  <GaussConduitGlowingBlue.label>가우스 전선관 (파란색)</GaussConduitGlowingBlue.label>
+  <GaussConduitGlowingBlue.description>전력 전도를 위한 네크론 파란색 가우스 전선관입니다. 네크로데미스로 덮여 있는 이 전선관은 네크론의 다른 구조물과 비슷한 내구성을 가집니다. 아주 적은 양의 전력을 사용해서 작게 빛을 발생시킵니다.</GaussConduitGlowingBlue.description>
+  <GaussConduitGlowingBlue_Blueprint.label>가우스 전선관 (파란색) (청사진)</GaussConduitGlowingBlue_Blueprint.label>
+  <GaussConduitGlowingBlue_Frame.label>가우스 전선관 (파란색) (건설 중)</GaussConduitGlowingBlue_Frame.label>
+  <GaussConduitGlowingBlue_Frame.description>전력 전도를 위한 네크론 파란색 가우스 전선관입니다. 네크로데미스로 덮여 있는 이 전선관은 네크론의 다른 구조물과 비슷한 내구성을 가집니다. 아주 적은 양의 전력을 사용해서 작게 빛을 발생시킵니다.</GaussConduitGlowingBlue_Frame.description>
+  <GaussGenerator_A_Small.label>소형 가우스 발전기</GaussGenerator_A_Small.label>
+  <GaussGenerator_A_Small.description>열역학 법칙을 씹어먹는 무한동력 발전기입니다. 우주의 미개한 종족이 보기에는 그냥 마법과 다름 없습니다.</GaussGenerator_A_Small.description>
+  <GaussGenerator_A_Small_Blueprint.label>소형 가우스 발전기 (청사진)</GaussGenerator_A_Small_Blueprint.label>
+  <GaussGenerator_A_Small_Frame.label>소형 가우스 발전기 (건설 중)</GaussGenerator_A_Small_Frame.label>
+  <GaussGenerator_A_Small_Frame.description>열역학 법칙을 씹어먹는 무한동력 발전기입니다. 우주의 미개한 종족이 보기에는 그냥 마법과 다름 없습니다.</GaussGenerator_A_Small_Frame.description>
+  <GaussGenerator_B_Large.label>대형 가우스 발전기</GaussGenerator_B_Large.label>
+  <GaussGenerator_B_Large.description>열역학 법칙을 씹어먹는 무한동력 발전기입니다. 우주의 미개한 종족이 보기에는 그냥 마법과 다름 없습니다. 메모: 증기 간헌철에 설치되어야만 합니다</GaussGenerator_B_Large.description>
+  <GaussGenerator_B_Large_Blueprint.label>대형 가우스 발전기 (청사진)</GaussGenerator_B_Large_Blueprint.label>
+  <GaussGenerator_B_Large_Frame.label>대형 가우스 발전기 (건설 중)</GaussGenerator_B_Large_Frame.label>
+  <GaussGenerator_B_Large_Frame.description>열역학 법칙을 씹어먹는 무한동력 발전기입니다. 우주의 미개한 종족이 보기에는 그냥 마법과 다름 없습니다. 메모: 증기 간헌철에 설치되어야만 합니다</GaussGenerator_B_Large_Frame.description>
+  <EldGenerator_A_Small.label>소형 엘다 발전기</EldGenerator_A_Small.label>
+  <EldGenerator_A_Small.description>우리의 전력 발전기는 하등한 종족들이 측은할 정도로 애써 시도하는 것들보다 훨씬 대단하지. 우리 발전기의 위엄을 느끼도록!</EldGenerator_A_Small.description>
+  <EldGenerator_A_Small_Blueprint.label>소형 엘다 발전기 (청사진)</EldGenerator_A_Small_Blueprint.label>
+  <EldGenerator_A_Small_Frame.label>소형 엘다 발전기 (건설 중)</EldGenerator_A_Small_Frame.label>
+  <EldGenerator_A_Small_Frame.description>우리의 전력 발전기는 하등한 종족들이 측은할 정도로 애써 시도하는 것들보다 훨씬 대단하지. 우리 발전기의 위엄을 느끼도록!</EldGenerator_A_Small_Frame.description>
+  <EldGenerator_B_Large.label>대형 엘다 발전기</EldGenerator_B_Large.label>
+  <EldGenerator_B_Large.description>O우리의 전력 발전기는 하등한 종족들이 측은할 정도로 애써 시도하는 것들보다 훨씬 대단하지. 우리 발전기의 위엄을 느끼도록! 메모: 증기 간헌철에 설치되어야만 합니다</EldGenerator_B_Large.description>
+  <EldGenerator_B_Large_Blueprint.label>대형 엘다 발전기 (청사진)</EldGenerator_B_Large_Blueprint.label>
+  <EldGenerator_B_Large_Frame.label>대형 엘다 발전기 (건설 중)</EldGenerator_B_Large_Frame.label>
+  <EldGenerator_B_Large_Frame.description>우리의 전력 발전기는 하등한 종족들이 측은할 정도로 애써 시도하는 것들보다 훨씬 대단하지. 우리 발전기의 위엄을 느끼도록! 메모: 증기 간헌철에 설치되어야만 합니다</EldGenerator_B_Large_Frame.description>
+  <ImpGenerator_A_Small.label>소형 제국 전력기</ImpGenerator_A_Small.label>
+  <ImpGenerator_A_Small.description>제국의 대부분 알려지지 않은 기술을 통해 에너지를 생산합니다. 일단, 그것이 뭔지는 모르겠지만, 그들이 알아야할 것은 그것이 제대로 작동한다는 겁니다.</ImpGenerator_A_Small.description>
+  <ImpGenerator_A_Small_Blueprint.label>소형 제국 전력기 (청사진)</ImpGenerator_A_Small_Blueprint.label>
+  <ImpGenerator_A_Small_Frame.label>소형 제국 전력기 (건설 중)</ImpGenerator_A_Small_Frame.label>
+  <ImpGenerator_A_Small_Frame.description>제국의 대부분 알려지지 않은 기술을 통해 에너지를 생산합니다. 일단, 그것이 뭔지는 모르겠지만, 그들이 알아야할 것은 그것이 제대로 작동한다는 겁니다.</ImpGenerator_A_Small_Frame.description>
+  <ImpGenerator_B_Large.label>대형 제국 전력기</ImpGenerator_B_Large.label>
+  <ImpGenerator_B_Large.description>제국의 대부분 알려지지 않은 기술을 통해 에너지를 생산합니다. 일단, 그것이 뭔지는 모르겠지만, 그들이 알아야할 것은 그것이 제대로 작동한다는 겁니다. 메모: 증기 간헌철에 설치되어야만 합니다</ImpGenerator_B_Large.description>
+  <ImpGenerator_B_Large_Blueprint.label>대형 제국 전력기 (청사진)</ImpGenerator_B_Large_Blueprint.label>
+  <ImpGenerator_B_Large_Frame.label>대형 제국 전력기 (건설 중)</ImpGenerator_B_Large_Frame.label>
+  <ImpGenerator_B_Large_Frame.description>제국의 대부분 알려지지 않은 기술을 통해 에너지를 생산합니다. 일단, 그것이 뭔지는 모르겠지만, 그들이 알아야할 것은 그것이 제대로 작동한다는 겁니다. 메모: 증기 간헌철에 설치되어야만 합니다</ImpGenerator_B_Large_Frame.description>
+  <OrkGenerator_A_Small.label>소형 오크 발전기</OrkGenerator_A_Small.label>
+  <OrkGenerator_A_Small.description>우뤼에 좡비를 짝뒁쉬키눈데 퓔요환 전렦울 만뚠다!</OrkGenerator_A_Small.description>
+  <OrkGenerator_A_Small_Blueprint.label>소형 오크 발전기 (청사진)</OrkGenerator_A_Small_Blueprint.label>
+  <OrkGenerator_A_Small_Frame.label>소형 오크 발전기 (건설 중)</OrkGenerator_A_Small_Frame.label>
+  <OrkGenerator_A_Small_Frame.description>우뤼에 좡비를 짝뒁쉬키눈데 퓔요환 전렦울 만뚠다!</OrkGenerator_A_Small_Frame.description>
+  <OrkGenerator_B_Large.label>대형 오크 발전기</OrkGenerator_B_Large.label>
+  <OrkGenerator_B_Large.description>우뤼눈 둬 마눈 쩐귀가 필요훼서, 그뤠숴, 더 크게 만둘얻돠!메뭐: 쭝귀 갅헍철에 숼츼되어야 한따</OrkGenerator_B_Large.description>
+  <OrkGenerator_B_Large_Blueprint.label>대형 오크 발전기 (청사진)</OrkGenerator_B_Large_Blueprint.label>
+  <OrkGenerator_B_Large_Frame.label>대형 오크 발전기 (건설 중)</OrkGenerator_B_Large_Frame.label>
+  <OrkGenerator_B_Large_Frame.description>우뤼눈 둬 마눈 쩐귀가 필요훼서, 그뤠숴, 더 크게 만둘얻돠! 메뭐: 쭝귀 갅헍철에 숼츼되어야 한따</OrkGenerator_B_Large_Frame.description>
+  <TauGenerator_A_Small.label>소형 타우 발전기</TauGenerator_A_Small.label>
+  <TauGenerator_A_Small.description>타우 소형 발전기로, 타우 종족의 젊음을 고려하면, 이러한 작은 건물에서 꽤 괜찮은 전력을 생산합니다.</TauGenerator_A_Small.description>
+  <TauGenerator_A_Small_Blueprint.label>소형 타우 발전기 (청사진)</TauGenerator_A_Small_Blueprint.label>
+  <TauGenerator_A_Small_Frame.label>소형 타우 발전기 (건설 중)</TauGenerator_A_Small_Frame.label>
+  <TauGenerator_A_Small_Frame.description>타우 소형 발전기로, 타우 종족의 젊음을 고려하면, 이러한 작은 건물에서 꽤 괜찮은 전력을 생산합니다.</TauGenerator_A_Small_Frame.description>
+  <TauGenerator_B_Large.label>대형 타우 발전기</TauGenerator_B_Large.label>
+  <TauGenerator_B_Large.description>일반적인 거대 플라즈마 발전기로, 거대한 크기와 어울리는 많은 양의 전력을 쏟아냅니다. 메모: 증기 간헌철에 설치되어야만 합니다</TauGenerator_B_Large.description>
+  <TauGenerator_B_Large_Blueprint.label>대형 타우 발전기 (청사진)</TauGenerator_B_Large_Blueprint.label>
+  <TauGenerator_B_Large_Frame.label>대형 타우 발전기 (건설 중)</TauGenerator_B_Large_Frame.label>
+  <TauGenerator_B_Large_Frame.description>일반적인 거대 플라즈마 발전기로, 거대한 크기와 어울리는 많은 양의 전력을 쏟아냅니다. 메모: 증기 간헌철에 설치되어야만 합니다</TauGenerator_B_Large_Frame.description>
+  <ImperialRefinery.label>제국 정제기</ImperialRefinery.label>
+  <ImperialRefinery.description>세라마이트와 다른 제국 자원들을 다양한 형태로 정제합니다.</ImperialRefinery.description>
+  <ImperialRefinery_Blueprint.label>제국 정제기 (청사진)</ImperialRefinery_Blueprint.label>
+  <ImperialRefinery_Frame.label>제국 정제기 (건설 중)</ImperialRefinery_Frame.label>
+  <ImperialRefinery_Frame.description>세라마이트와 다른 제국 자원들을 다양한 형태로 정제합니다.</ImperialRefinery_Frame.description>
+  <NecronFabricationAltar.label>네크론 가공 제단</NecronFabricationAltar.label>
+  <NecronFabricationAltar.description>네크론 아이템과 건축물을 원시 에너지를 이용해 가공합니다.</NecronFabricationAltar.description>
+  <NecronFabricationAltar_Blueprint.label>네크론 가공 제단 (청사진)</NecronFabricationAltar_Blueprint.label>
+  <NecronFabricationAltar_Frame.label>네크론 가공 제단 (건설 중)</NecronFabricationAltar_Frame.label>
+  <NecronFabricationAltar_Frame.description>네크론 아이템과 건축물을 원시 에너지를 이용해 가공합니다.</NecronFabricationAltar_Frame.description>
+  <NecronResearchBench.label>네크론 연구 기록 보관소</NecronResearchBench.label>
+  <NecronResearchBench.description>네크론의 연구 작업대입니다. 그들의 모든 연구는 이곳에서 이루어 집니다.</NecronResearchBench.description>
+  <NecronResearchBench_Blueprint.label>네크론 연구 기록 보관소 (청사진)</NecronResearchBench_Blueprint.label>
+  <NecronResearchBench_Frame.label>네크론 연구 기록 보관소 (건설 중)</NecronResearchBench_Frame.label>
+  <NecronResearchBench_Frame.description>네크론의 연구 작업대입니다. 그들의 모든 연구는 이곳에서 이루어 집니다.</NecronResearchBench_Frame.description>
+  <IGQuadpodBolter.label>이동식 헤비볼터</IGQuadpodBolter.label>
+  <IGQuadpodBolter.description>헤비볼터가 장착된 이동식 무기 포대입니다.</IGQuadpodBolter.description>
+  <IGQuadpodBolter_Blueprint.label>이동식 헤비볼터 (청사진)</IGQuadpodBolter_Blueprint.label>
+  <IGQuadpodBolter_Blueprint_Install.label>이동식 헤비 볼터 (청사진)</IGQuadpodBolter_Blueprint_Install.label>
+  <IGQuadpodBolter_Frame.label>이동식 헤비볼터 (건설 중)</IGQuadpodBolter_Frame.label>
+  <IGQuadpodBolter_Frame.description>헤비볼터가 장착된 이동식 무기 포대입니다.</IGQuadpodBolter_Frame.description>
+  <Gun_IGQuadpodBolter.label>이동식 볼터</Gun_IGQuadpodBolter.label>
+  <Gun_IGQuadpodBolter.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGQuadpodBolter.description>
+  <IGQuadpodAutocannon.label>이동식 오토캐논</IGQuadpodAutocannon.label>
+  <IGQuadpodAutocannon.description>오토캐논이 장착된 이동식 무기 포대입니다.</IGQuadpodAutocannon.description>
+  <IGQuadpodAutocannon_Blueprint.label>이동식 오토캐논 (청사진)</IGQuadpodAutocannon_Blueprint.label>
+  <IGQuadpodAutocannon_Blueprint_Install.label>이동식 오토캐논 (청사진)</IGQuadpodAutocannon_Blueprint_Install.label>
+  <IGQuadpodAutocannon_Frame.label>이동식 오토캐논 (건설 중)</IGQuadpodAutocannon_Frame.label>
+  <IGQuadpodAutocannon_Frame.description>오토캐논이 장착된 이동식 무기 포대입니다.</IGQuadpodAutocannon_Frame.description>
+  <Gun_IGQuadpodAutocannon.label>이동식 오토캐논</Gun_IGQuadpodAutocannon.label>
+  <Gun_IGQuadpodAutocannon.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGQuadpodAutocannon.description>
+  <IGQuadpodLascannon.label>이동식 라스캐논</IGQuadpodLascannon.label>
+  <IGQuadpodLascannon.description>라스캐논이 장착된 이동식 무기 포대입니다.</IGQuadpodLascannon.description>
+  <IGQuadpodLascannon_Blueprint.label>이동식 라스캐논 (청사진)</IGQuadpodLascannon_Blueprint.label>
+  <IGQuadpodLascannon_Blueprint_Install.label>이동식 라스캐논 (청사진)</IGQuadpodLascannon_Blueprint_Install.label>
+  <IGQuadpodLascannon_Frame.label>이동식 라스캐논 (건설 중)</IGQuadpodLascannon_Frame.label>
+  <IGQuadpodLascannon_Frame.description>라스캐논이 장착된 이동식 무기 포대입니다.</IGQuadpodLascannon_Frame.description>
+  <Gun_IGQuadpodLascannon.label>이동식 라스캐논</Gun_IGQuadpodLascannon.label>
+  <Gun_IGQuadpodLascannon.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGQuadpodLascannon.description>
+  <IGQuadpodMissile.label>이동식 미사일 런처</IGQuadpodMissile.label>
+  <IGQuadpodMissile.description>미사일 런처가 장착된 이동식 무기 포대입니다.</IGQuadpodMissile.description>
+  <IGQuadpodMissile_Blueprint.label>이동식 미사일 런처 (청사진)</IGQuadpodMissile_Blueprint.label>
+  <IGQuadpodMissile_Blueprint_Install.label>이동식 미사일 런처 (청사진)</IGQuadpodMissile_Blueprint_Install.label>
+  <IGQuadpodMissile_Frame.label>이동식 미사일 런처 (건설 중)</IGQuadpodMissile_Frame.label>
+  <IGQuadpodMissile_Frame.description>미사일 런처가 장착된 이동식 무기 포대입니다.</IGQuadpodMissile_Frame.description>
+  <Bullet_IGQuadpodMissile.label>로켓</Bullet_IGQuadpodMissile.label>
+  <Gun_IGQuadpodMissile.label>이동식 미사일</Gun_IGQuadpodMissile.label>
+  <Gun_IGQuadpodMissile.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGQuadpodMissile.description>
+  <IGSabreAutocannon.label>세이버 오토캐논</IGSabreAutocannon.label>
+  <IGSabreAutocannon.description>요새화된 세이버 터렛입니다. 아무 멋진 업그레이드입니다.</IGSabreAutocannon.description>
+  <IGSabreAutocannon_Blueprint.label>세이버 오토캐논 (청사진)</IGSabreAutocannon_Blueprint.label>
+  <IGSabreAutocannon_Blueprint_Install.label>세이버 오토캐논 (청사진)</IGSabreAutocannon_Blueprint_Install.label>
+  <IGSabreAutocannon_Frame.label>세이버 오토캐논 (건설 중)</IGSabreAutocannon_Frame.label>
+  <IGSabreAutocannon_Frame.description>요새화된 세이버 터렛입니다. 아무 멋진 업그레이드입니다.</IGSabreAutocannon_Frame.description>
+  <Bullet_IGSabreAutocannon.label>IG 유도탄</Bullet_IGSabreAutocannon.label>
+  <Gun_IGSabreAutocannon.label>세이버 오토캐논</Gun_IGSabreAutocannon.label>
+  <Gun_IGSabreAutocannon.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGSabreAutocannon.description>
+  <IGSabreBolter.label>세이버 볼터</IGSabreBolter.label>
+  <IGSabreBolter.description>요새화된 세이버 터렛입니다. 아무 멋진 업그레이드입니다..</IGSabreBolter.description>
+  <IGSabreBolter_Blueprint.label>세이버 볼터 (청사진)</IGSabreBolter_Blueprint.label>
+  <IGSabreBolter_Blueprint_Install.label>세이버 볼터 (청사진)</IGSabreBolter_Blueprint_Install.label>
+  <IGSabreBolter_Frame.label>세이버 볼터 (건설 중)</IGSabreBolter_Frame.label>
+  <IGSabreBolter_Frame.description>요새화된 세이버 터렛입니다. 아무 멋진 업그레이드입니다..</IGSabreBolter_Frame.description>
+  <Gun_IGSabreBolter.label>세이버 볼터</Gun_IGSabreBolter.label>
+  <Gun_IGSabreBolter.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGSabreBolter.description>
+  <IGSabreLascannon.label>세이버 라스캐논</IGSabreLascannon.label>
+  <IGSabreLascannon.description>요새화된 세이버 터렛입니다. 아무 멋진 업그레이드입니다..</IGSabreLascannon.description>
+  <IGSabreLascannon_Blueprint.label>세이버 라스캐논 (청사진)</IGSabreLascannon_Blueprint.label>
+  <IGSabreLascannon_Blueprint_Install.label>세이버 라스캐논 (청사진)</IGSabreLascannon_Blueprint_Install.label>
+  <IGSabreLascannon_Frame.label>세이버 라스캐논 (건설 중)</IGSabreLascannon_Frame.label>
+  <IGSabreLascannon_Frame.description>요새화된 세이버 터렛입니다. 아무 멋진 업그레이드입니다..</IGSabreLascannon_Frame.description>
+  <Bullet_IGSabreLascannon.label>라스 블래스트</Bullet_IGSabreLascannon.label>
+  <Gun_IGSabreLascannon.label>세이버 라스캐논</Gun_IGSabreLascannon.label>
+  <Gun_IGSabreLascannon.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGSabreLascannon.description>
+  <IGSabreProjector.label>세이버 탐조등</IGSabreProjector.label>
+  <IGSabreProjector.description>세이버 터렛 섀시에 장착된 탐조등입니다. 자동적으로 근처에 있는 적을 비춥니다. 지붕 아래에 실치할 수 있습니다.</IGSabreProjector.description>
+  <IGSabreProjector_Blueprint.label>세이버 탐조등 (청사진)</IGSabreProjector_Blueprint.label>
+  <IGSabreProjector_Blueprint_Install.label>세이버 탐조등 (청사진)</IGSabreProjector_Blueprint_Install.label>
+  <IGSabreProjector_Frame.label>세이버 탐조등 (건설 중)</IGSabreProjector_Frame.label>
+  <IGSabreProjector_Frame.description>세이버 터렛 섀시에 장착된 탐조등입니다. 자동적으로 근처에 있는 적을 비춥니다. 지붕 아래에 실치할 수 있습니다.</IGSabreProjector_Frame.description>
+  <IGSabreProjectorLight.label>탐조등 빛</IGSabreProjectorLight.label>
+  <IGSabreProjectorLight.description>탐조등 빛입니다.</IGSabreProjectorLight.description>
+  <ConstructStation_Scarab.label>스카라브 플랫폼</ConstructStation_Scarab.label>
+  <ConstructStation_Scarab.description>바닥에 설치되는 소형 장치로, 스카라브가 필요하지 않거나 에너지를 충전할 필요가 있을 때, 스카라브를 내부로 도킹을 할 수 있게 해줍니다.(아주 간단한 업무를 수행할 수 있는 스카라브를 내보냅니다.)</ConstructStation_Scarab.description>
+  <ConstructStation_Scarab_Blueprint.label>스카라브 플랫폼 (청사진)</ConstructStation_Scarab_Blueprint.label>
+  <ConstructStation_Scarab_Blueprint_Install.label>스카라브 플랫폼 (청사진)</ConstructStation_Scarab_Blueprint_Install.label>
+  <ConstructStation_Scarab_Frame.label>스카라브 플랫폼 (건설 중)</ConstructStation_Scarab_Frame.label>
+  <ConstructStation_Scarab_Frame.description>바닥에 설치되는 소형 장치로, 스카라브가 필요하지 않거나 에너지를 충전할 필요가 있을 때, 스카라브를 내부로 도킹을 할 수 있게 해줍니다.(아주 간단한 업무를 수행할 수 있는 스카라브를 내보냅니다.)</ConstructStation_Scarab_Frame.description>
+  <IGStationaryMBC.label>주력 캐논 포좌</IGStationaryMBC.label>
+  <IGStationaryMBC.description>구식이지만 이단자에게 고통을 주는 것만큼은, 믿을 만한 디자인입니다.</IGStationaryMBC.description>
+  <IGStationaryMBC_Blueprint.label>주력 캐논 포좌 (청사진)</IGStationaryMBC_Blueprint.label>
+  <IGStationaryMBC_Frame.label>주력 캐논 포좌 (건설 중)</IGStationaryMBC_Frame.label>
+  <IGStationaryMBC_Frame.description>구식이지만 이단자에게 고통을 주는 것만큼은, 믿을 만한 디자인입니다.</IGStationaryMBC_Frame.description>
+  <Bullet_IGStationaryMBC.label>젠스윅 총알</Bullet_IGStationaryMBC.label>
+  <Gun_IGStationaryMBC.label>주력 캐논</Gun_IGStationaryMBC.label>
+  <Gun_IGStationaryMBC.description>정교하게 제작된 캐논이 포탑에 부착됐습니다.</Gun_IGStationaryMBC.description>
+  <IGStationaryFlamer.label>헤비 플레이머 포좌</IGStationaryFlamer.label>
+  <IGStationaryFlamer.description>구식이지만 이단자에게 고통을 주는 것만큼은, 믿을 만한 디자인입니다.</IGStationaryFlamer.description>
+  <IGStationaryFlamer_Blueprint.label>헤비 플레이머 포좌 (청사진)</IGStationaryFlamer_Blueprint.label>
+  <IGStationaryFlamer_Frame.label>헤비 플레이머 포좌 (건설 중)</IGStationaryFlamer_Frame.label>
+  <IGStationaryFlamer_Frame.description>구식이지만 이단자에게 고통을 주는 것만큼은, 믿을 만한 디자인입니다.</IGStationaryFlamer_Frame.description>
+  <Bullet_IGStationaryFlamer.label>불타는 프로메튬</Bullet_IGStationaryFlamer.label>
+  <Gun_IGStationaryFlamer.label>주력 캐논</Gun_IGStationaryFlamer.label>
+  <Gun_IGStationaryFlamer.description>정교하게 제작된 캐논이 포탑에 부착됐습니다.</Gun_IGStationaryFlamer.description>
+  <IGStationaryPlasma.label>헤비 플라즈마 포좌</IGStationaryPlasma.label>
+  <IGStationaryPlasma.description>구식이지만 이단자에게 고통을 주는 것만큼은, 믿을 만한 디자인입니다.</IGStationaryPlasma.description>
+  <IGStationaryPlasma_Blueprint.label>헤비 플라즈마 포좌 (청사진)</IGStationaryPlasma_Blueprint.label>
+  <IGStationaryPlasma_Frame.label>헤비 플라즈마 포좌 (건설 중)</IGStationaryPlasma_Frame.label>
+  <IGStationaryPlasma_Frame.description>구식이지만 이단자에게 고통을 주는 것만큼은, 믿을 만한 디자인입니다.</IGStationaryPlasma_Frame.description>
+  <Bullet_IGStationaryPlasma.label>플라즈마 볼트</Bullet_IGStationaryPlasma.label>
+  <Gun_IGStationaryPlasma.label>주력 캐논</Gun_IGStationaryPlasma.label>
+  <Gun_IGStationaryPlasma.description>정교하게 제작된 캐논이 포탑에 부착됐습니다.</Gun_IGStationaryPlasma.description>
+  <IGTarantulaBolter.label>타란툴라 헤비볼터</IGTarantulaBolter.label>
+  <IGTarantulaBolter.description>헤비볼터로 구성된 이동식 무기 포대입니다.</IGTarantulaBolter.description>
+  <IGTarantulaBolter_Blueprint.label>타란툴라 헤비볼터 (청사진)</IGTarantulaBolter_Blueprint.label>
+  <IGTarantulaBolter_Frame.label>타란툴라 헤비볼터 (건설 중)</IGTarantulaBolter_Frame.label>
+  <IGTarantulaBolter_Frame.description>헤비볼터로 구성된 이동식 무기 포대입니다.</IGTarantulaBolter_Frame.description>
+  <Gun_IGTarantulaBolter.label>타란툴라 헤비볼터</Gun_IGTarantulaBolter.label>
+  <Gun_IGTarantulaBolter.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGTarantulaBolter.description>
+  <IGTarantulaMissile.label>타란툴라 미사일 포대</IGTarantulaMissile.label>
+  <IGTarantulaMissile.description>미사일 런처가 장착된 이동식 무기 포대입니다.</IGTarantulaMissile.description>
+  <IGTarantulaMissile_Blueprint.label>타란툴라 미사일 포대 (청사진)</IGTarantulaMissile_Blueprint.label>
+  <IGTarantulaMissile_Blueprint_Install.label>타란툴라 미사일 포대 (청사진)</IGTarantulaMissile_Blueprint_Install.label>
+  <IGTarantulaMissile_Frame.label>타란툴라 미사일 포대 (건설 중)</IGTarantulaMissile_Frame.label>
+  <IGTarantulaMissile_Frame.description>미사일 런처가 장착된 이동식 무기 포대입니다.</IGTarantulaMissile_Frame.description>
+  <Bullet_IGTarantulaMissile.label>로켓</Bullet_IGTarantulaMissile.label>
+  <Gun_IGTarantulaMissile.label>타란툴라 미사일</Gun_IGTarantulaMissile.label>
+  <Gun_IGTarantulaMissile.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGTarantulaMissile.description>
+  <IGTarantulaLascannon.label>타란툴라 라스캐논</IGTarantulaLascannon.label>
+  <IGTarantulaLascannon.description>이중 라스캐논으로 구성된 이동식 무기 포대입니다.</IGTarantulaLascannon.description>
+  <IGTarantulaLascannon_Blueprint.label>타란툴라 라스캐논 (청사진)</IGTarantulaLascannon_Blueprint.label>
+  <IGTarantulaLascannon_Frame.label>타란툴라 라스캐논 (건설 중)</IGTarantulaLascannon_Frame.label>
+  <IGTarantulaLascannon_Frame.description>이중 라스캐논으로 구성된 이동식 무기 포대입니다.</IGTarantulaLascannon_Frame.description>
+  <Gun_IGTarantulaLascannon.label>타란툴라 라스캐논</Gun_IGTarantulaLascannon.label>
+  <Gun_IGTarantulaLascannon.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGTarantulaLascannon.description>
+  <ELDBrightlance.label>브라이트랜스 터렛</ELDBrightlance.label>
+  <ELDBrightlance.description>소형 브라이트랜스 타워로, 극심한 전력을 요구합니다.</ELDBrightlance.description>
+  <ELDBrightlance_Blueprint.label>브라이트랜스 터렛 (청사진)</ELDBrightlance_Blueprint.label>
+  <ELDBrightlance_Frame.label>브라이트랜스 터렛 (건설 중)</ELDBrightlance_Frame.label>
+  <ELDBrightlance_Frame.description>소형 브라이트랜스 타워로, 극심한 전력을 요구합니다.</ELDBrightlance_Frame.description>
+  <Bullet_ELDBrightlance.label>엘다 브라이트랜스 빔</Bullet_ELDBrightlance.label>
+  <Gun_ELDBrightlance.label>엘다 브라이트랜스 캐논</Gun_ELDBrightlance.label>
+  <Gun_ELDBrightlance.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_ELDBrightlance.description>
+  <ELDVibrocannon.label>비브로 캐논 터렛</ELDVibrocannon.label>
+  <ELDVibrocannon.description>소닉 기술이 기반이된 엘다 헤비 웨폰입니다. 특별한 구역이 공명하는 소닉파를 만들고 직행으로 뚫어버립니다.</ELDVibrocannon.description>
+  <ELDVibrocannon_Blueprint.label>비브로 캐논 터렛 (청사진)</ELDVibrocannon_Blueprint.label>
+  <ELDVibrocannon_Frame.label>비브로 캐논 터렛 (건설 중)</ELDVibrocannon_Frame.label>
+  <ELDVibrocannon_Frame.description>소닉 기술이 기반이된 엘다 헤비 웨폰입니다. 특별한 구역이 공명하는 소닉파를 만들고 직행으로 뚫어버립니다.</ELDVibrocannon_Frame.description>
+  <Bullet_ELDVibrocannon.label>엘다 진동파</Bullet_ELDVibrocannon.label>
+  <Gun_ELDVibrocannon.label>비브로 캐논 터렛</Gun_ELDVibrocannon.label>
+  <Gun_ELDVibrocannon.description>정교하게 제작된 가우스 캐논이 포탑에 부착됐습니다.</Gun_ELDVibrocannon.description>
+  <TAURailgun.label>타우 레일건 터렛</TAURailgun.label>
+  <TAURailgun.description>요새화된 이중 레일건 타워입니다. 매우 내구성 있지만 전력이 많이 듭니다.</TAURailgun.description>
+  <TAURailgun_Blueprint.label>타우 레일건 터렛 (청사진)</TAURailgun_Blueprint.label>
+  <TAURailgun_Frame.label>타우 레일건 터렛 (건설 중)</TAURailgun_Frame.label>
+  <TAURailgun_Frame.description>요새화된 이중 레일건 타워입니다. 매우 내구성 있지만 전력이 많이 듭니다.</TAURailgun_Frame.description>
+  <Bullet_TAURailgun.label>타우 레일 볼트</Bullet_TAURailgun.label>
+  <Gun_TAURailgun.label>타우 레일건</Gun_TAURailgun.label>
+  <Gun_TAURailgun.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_TAURailgun.description>
+  <TAUMisslePod.label>타우 미사일 터렛</TAUMisslePod.label>
+  <TAUMisslePod.description>요새화된 이중 미사일 포드 타워입니다.</TAUMisslePod.description>
+  <TAUMisslePod_Blueprint.label>타우 미사일 터렛 (청사진)</TAUMisslePod_Blueprint.label>
+  <TAUMisslePod_Frame.label>타우 미사일 터렛 (건설 중)</TAUMisslePod_Frame.label>
+  <TAUMisslePod_Frame.description>요새화된 이중 미사일 포드 타워입니다.</TAUMisslePod_Frame.description>
+  <Bullet_TAUMisslePod.label>타우 미사일 포드</Bullet_TAUMisslePod.label>
+  <Gun_TAUMisslePod.label>타우 미사일 포드</Gun_TAUMisslePod.label>
+  <Gun_TAUMisslePod.description>정교하게 제작된 미사일 포드가 포탑에 부착됐습니다.</Gun_TAUMisslePod.description>
+  <TAUGaussCannon.label>타우 가우스 캐논 터렛</TAUGaussCannon.label>
+  <TAUGaussCannon.description>요새화된 가우스 캐논 타워입니다. 주류 방어 무기입니다.</TAUGaussCannon.description>
+  <TAUGaussCannon_Blueprint.label>타우 가우스 캐논 터렛 (청사진)</TAUGaussCannon_Blueprint.label>
+  <TAUGaussCannon_Frame.label>타우 가우스 캐논 터렛 (건설 중)</TAUGaussCannon_Frame.label>
+  <TAUGaussCannon_Frame.description>요새화된 가우스 캐논 타워입니다. 주류 방어 무기입니다.</TAUGaussCannon_Frame.description>
+  <Bullet_TAUGaussCannon.label>타우 가우스 볼트</Bullet_TAUGaussCannon.label>
+  <Gun_TAUGaussCannon.label>타우 가우스 캐논</Gun_TAUGaussCannon.label>
+  <Gun_TAUGaussCannon.description>정교하게 제작된 가우스 캐논이 포탑에 부착됐습니다.</Gun_TAUGaussCannon.description>
+  <IGWheeledBolter.label>바퀴 달린 헤비볼터</IGWheeledBolter.label>
+  <IGWheeledBolter.description>헤비볼터가 장착된 바퀴 달린 무기 포대입니다.</IGWheeledBolter.description>
+  <IGWheeledBolter_Blueprint.label>바퀴 달린 헤비볼터 (청사진)</IGWheeledBolter_Blueprint.label>
+  <IGWheeledBolter_Blueprint_Install.label>바퀴 달린 헤비볼터 (청사진)</IGWheeledBolter_Blueprint_Install.label>
+  <IGWheeledBolter_Frame.label>바퀴 달린 헤비볼터 (건설 중)</IGWheeledBolter_Frame.label>
+  <IGWheeledBolter_Frame.description>헤비볼터가 장착된 바퀴 달린 무기 포대입니다.</IGWheeledBolter_Frame.description>
+  <Gun_IGWheeledBolter.label>바퀴 달린 볼터</Gun_IGWheeledBolter.label>
+  <Gun_IGWheeledBolter.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGWheeledBolter.description>
+  <IGWheeledAutocannon.label>바퀴 달린 오토캐논</IGWheeledAutocannon.label>
+  <IGWheeledAutocannon.description>오토캐논이 장착된 바퀴 달린 무기 포대입니다.</IGWheeledAutocannon.description>
+  <IGWheeledAutocannon_Blueprint.label>바퀴 달린 오토캐논 (청사진)</IGWheeledAutocannon_Blueprint.label>
+  <IGWheeledAutocannon_Blueprint_Install.label>바퀴 달린 오토캐논 (청사진)</IGWheeledAutocannon_Blueprint_Install.label>
+  <IGWheeledAutocannon_Frame.label>바퀴 달린 오토캐논 (건설 중)</IGWheeledAutocannon_Frame.label>
+  <IGWheeledAutocannon_Frame.description>오토캐논이 장착된 바퀴 달린 무기 포대입니다.</IGWheeledAutocannon_Frame.description>
+  <Gun_IGWheeledAutocannon.label>바퀴 달린 오토캐논</Gun_IGWheeledAutocannon.label>
+  <Gun_IGWheeledAutocannon.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGWheeledAutocannon.description>
+  <IGWheeledLascannon.label>바퀴 달린 라스캐논</IGWheeledLascannon.label>
+  <IGWheeledLascannon.description>라스캐논이 장착된 바퀴 달린 무기 포대입니다.</IGWheeledLascannon.description>
+  <IGWheeledLascannon_Blueprint.label>바퀴 달린 라스캐논 (청사진)</IGWheeledLascannon_Blueprint.label>
+  <IGWheeledLascannon_Blueprint_Install.label>바퀴 달린 라스캐논 (청사진)</IGWheeledLascannon_Blueprint_Install.label>
+  <IGWheeledLascannon_Frame.label>바퀴 달린 라스캐논 (건설 중)</IGWheeledLascannon_Frame.label>
+  <IGWheeledLascannon_Frame.description>라스캐논이 장착된 바퀴 달린 무기 포대입니다.</IGWheeledLascannon_Frame.description>
+  <Gun_IGWheeledLascannon.label>바퀴 달린 라스캐논</Gun_IGWheeledLascannon.label>
+  <Gun_IGWheeledLascannon.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGWheeledLascannon.description>
+  <IGWheeledStubber.label>바퀴 달린 스터버</IGWheeledStubber.label>
+  <IGWheeledStubber.description>스터버가 장착된 바퀴 달린 무기 포대입니다.</IGWheeledStubber.description>
+  <IGWheeledStubber_Blueprint.label>바퀴 달린 스터버 (청사진)</IGWheeledStubber_Blueprint.label>
+  <IGWheeledStubber_Blueprint_Install.label>바퀴 달린 스터버 (청사진)</IGWheeledStubber_Blueprint_Install.label>
+  <IGWheeledStubber_Frame.label>바퀴 달린 스터버 (건설 중)</IGWheeledStubber_Frame.label>
+  <IGWheeledStubber_Frame.description>스터버가 장착된 바퀴 달린 무기 포대입니다.</IGWheeledStubber_Frame.description>
+  <Gun_IGWheeledStubber.label>바퀴 달린 스터버</Gun_IGWheeledStubber.label>
+  <Gun_IGWheeledStubber.description>정교하게 제작된 총이 포탑에 부착됐습니다.</Gun_IGWheeledStubber.description>
+  <Amasec.label>아마섹</Amasec.label>
+  <Amasec.description>아마섹은 와인으로 증류된 인기 있는 술입니다. 화염병으로 사용하기엔 거의 적합하지 않은 질낮은 양조부터 훌륭한 황제의 서번트에게만 어울리는 잘 숙성되고 풍미있는 브랜드에 이르기까지 다양합니다.</Amasec.description>
+  <Amasec.tools.0.label>병</Amasec.tools.0.label>
+  <Amasec.tools.1.label>병목</Amasec.tools.1.label>
+  <Amasec.ingestible.ingestCommandString>{0} 마시기</Amasec.ingestible.ingestCommandString>
+  <Amasec.ingestible.ingestReportString>{0} 마시는 중.</Amasec.ingestible.ingestReportString>
+  <Dammassine.label>다마신</Dammassine.label>
+  <Dammassine.description>아몬드 냄새가 나는 달콤한 허브 맛을 가진 술입니다.</Dammassine.description>
+  <Dammassine.tools.0.label>병</Dammassine.tools.0.label>
+  <Dammassine.tools.1.label>병목</Dammassine.tools.1.label>
+  <Dammassine.ingestible.ingestCommandString>{0} 마시기</Dammassine.ingestible.ingestCommandString>
+  <Dammassine.ingestible.ingestReportString>{0} 마시는 중.</Dammassine.ingestible.ingestReportString>
+  <EstufagemiWine.label>이스투파게미 와인</EstufagemiWine.label>
+  <EstufagemiWine.description>농업 행성인 이스타 베라크룩스에서 증류되는 톡 쏘는 듯한 술입니다.</EstufagemiWine.description>
+  <EstufagemiWine.tools.0.label>병</EstufagemiWine.tools.0.label>
+  <EstufagemiWine.tools.1.label>병목</EstufagemiWine.tools.1.label>
+  <EstufagemiWine.ingestible.ingestCommandString>{0} 마시기</EstufagemiWine.ingestible.ingestCommandString>
+  <EstufagemiWine.ingestible.ingestReportString>{0} 마시는 중.</EstufagemiWine.ingestible.ingestReportString>
+  <Gleece.label>글리스</Gleece.label>
+  <Gleece.description>글리스는 뜨겁거나 차갑게 제공되는 비싼 술입니다. 글리 나무의 열매를 증류하여 만들고 글리스는 글리 나무의 원산지인 파라곤의 달들에서 가장 인기 있습니다. 글리스는 다양한 품질을 가지고 있는데, 가장 비싼 브랜드는 보통 파라곤을 통치하는 서로 다른 산업 집단의 총수들에게 제공됩니다.</Gleece.description>
+  <Gleece.tools.0.label>병</Gleece.tools.0.label>
+  <Gleece.tools.1.label>병목</Gleece.tools.1.label>
+  <Gleece.ingestible.ingestCommandString>{0} 마시기</Gleece.ingestible.ingestCommandString>
+  <Gleece.ingestible.ingestReportString>{0} 마시는 중.</Gleece.ingestible.ingestReportString>
+  <GorskWhiteGyn.label>고스크 화이트 진</GorskWhiteGyn.label>
+  <GorskWhiteGyn.description>펭스월드 하이브의 매그나고르스크에서 유래하여 개조기관 냉각수를 증류한(이런 이유로 이름이 고스크 화이트 진입니다.), 부식성을 가진 차갑고 흐릿한 알코올은 매우 강력한 증류이며 3중으로 증류된 아마섹이 제공할 수 있는 것보다 훨씬 강력한 자극에 대한 취향을 가진 사람들이 선호합니다. 고스크 화이트눈 너의 머리가 늪에 빠진 것처럼 만들 뿐만 아니라, 희석된 척도로서 오염된 물과 음식의 영황을 완화할 수 있습니다. 이러한 "진 믹스"는 메탈리카 인페르니스, 루커리스의 솔로몬 루커리스 그리고 소트 워렌즈 오브 트랑크에서 고스크 화이트에서 여전히 악명 높은 음료라고 알려져 있지만, 강력한 느낌 때문에 가장 인기 있습니다</GorskWhiteGyn.description>
+  <GorskWhiteGyn.tools.0.label>병</GorskWhiteGyn.tools.0.label>
+  <GorskWhiteGyn.tools.1.label>병목</GorskWhiteGyn.tools.1.label>
+  <GorskWhiteGyn.ingestible.ingestCommandString>{0} 마시기</GorskWhiteGyn.ingestible.ingestCommandString>
+  <GorskWhiteGyn.ingestible.ingestReportString>{0} 마시는 중.</GorskWhiteGyn.ingestible.ingestReportString>
+  <OldFoiz.label>올드 포이즈</OldFoiz.label>
+  <OldFoiz.description>제국에서 남녀노소 모두가 즐기는 가장 인기있는 술입니다.</OldFoiz.description>
+  <OldFoiz.tools.0.label>병</OldFoiz.tools.0.label>
+  <OldFoiz.tools.1.label>병목</OldFoiz.tools.1.label>
+  <OldFoiz.ingestible.ingestCommandString>{0} 마시기</OldFoiz.ingestible.ingestCommandString>
+  <OldFoiz.ingestible.ingestReportString>{0} 마시는 중.</OldFoiz.ingestible.ingestReportString>
+  <Raenka.label>라엔카</Raenka.label>
+  <Raenka.description>라엔카는 폴리 주스를 발효시킨 다음에, 아마섹통을 사용해서 정성스럽게 증류시켜서 만든, 높이 평가되는 브랜디입니다. 몇몇 퓨덜 월드에서, 리엔카는 주요 수출품이며 연간 매출의 상단 부분을 확보하고 있습니다. 풍부하고, 짙은 노란빛과 미묘한 향미로 상을 받은 라엔카 감정가들은 매 계절마다 숙성 단계와 빈티지를 공개하는 지역에서 뉴스를 열심히 시청합니다. 많은 무역가들은 적게 만들지만, 발효장에서 리큐어의 평범한 공급을 원하지 않는 조바심 많은 구매자들의 특별한 요청으로 인해, 라엔카 한 통 옮기는 것으로 상당한 수익을 얻습니다.</Raenka.description>
+  <Raenka.tools.0.label>병</Raenka.tools.0.label>
+  <Raenka.tools.1.label>병목</Raenka.tools.1.label>
+  <Raenka.ingestible.ingestCommandString>{0} 마시기</Raenka.ingestible.ingestCommandString>
+  <Raenka.ingestible.ingestReportString>{0} 마시는 중.</Raenka.ingestible.ingestReportString>
+  <Rahzvod.label>라즈봇</Rahzvod.label>
+  <Rahzvod.description>보스트로야에서 강력한 보드카 같은 술로, 보스트로야 퍼스트본의 임페리얼 가드 연대 사이에서 보통 공통적으로 배급됩니다.</Rahzvod.description>
+  <Rahzvod.tools.0.label>병</Rahzvod.tools.0.label>
+  <Rahzvod.tools.1.label>병목</Rahzvod.tools.1.label>
+  <Rahzvod.ingestible.ingestCommandString>{0} 마시기</Rahzvod.ingestible.ingestCommandString>
+  <Rahzvod.ingestible.ingestReportString>{0} 마시는 중.</Rahzvod.ingestible.ingestReportString>
+  <Rotgut.label>로거트</Rotgut.label>
+  <Rotgut.description>제국에 있는 많은 종류와 크기를 가진 술들로, 대부분의 문화에서 적어도 한 종류의 발효액으로 유명합니다. 이러한 보다 기본적인 양조 술에 대한 두루뭉술한 용어(특히 여행자들 사이에서)는 저질스러운 술을 진탕 마시는 것입니다.</Rotgut.description>
+  <Rotgut.tools.0.label>병</Rotgut.tools.0.label>
+  <Rotgut.tools.1.label>병목</Rotgut.tools.1.label>
+  <Rotgut.ingestible.ingestCommandString>{0} 마시기</Rotgut.ingestible.ingestCommandString>
+  <Rotgut.ingestible.ingestReportString>{0} 마시는 중.</Rotgut.ingestible.ingestReportString>
+  <SpiritTonic.label>스피릿 토닉</SpiritTonic.label>
+  <SpiritTonic.description>조시안 리치의 먼스크 행성에서 유래한 스피릿 토닉은 주로 북부 대륙에서 생산되는 술입니다. 이 술의 재료는 잘 알려지지 않았습니다; 행성 지역에 들끓는 작은 설치류의 시체들이 주요 재료일 수도 있다는 소문들이 있지만, 이러한 소문은 정확히 증명되지 않았습니다. 그럼에도 불구하고, 스피릿 토닉은 끔찍한 맛으로 악명 높아서, 정확히 무엇이 있는지에 대한 많은 이론들이 고무되고 있습니다. 스피릿 토닉을 조롱하는 사람들에게 "겁쟁이 주스"라고 알려진 이것은 악취 나는 액체를 마시는 사람의 "용기"를 측정하는데 소비되고 있습니다. 먼스크의 토착민은 벌컥벌컬 이 술을 마시면 극심한 공포의 둔해질 수 있고 거의 모든 전사들이 사냥을 하거나, 전쟁을 하거나, 배우자와 만나기 전에 이 술을 마신다고 믿고 있습니다.</SpiritTonic.description>
+  <SpiritTonic.tools.0.label>병</SpiritTonic.tools.0.label>
+  <SpiritTonic.tools.1.label>병목</SpiritTonic.tools.1.label>
+  <SpiritTonic.ingestible.ingestCommandString>{0} 마시기</SpiritTonic.ingestible.ingestCommandString>
+  <SpiritTonic.ingestible.ingestReportString>{0} 마시는 중.</SpiritTonic.ingestible.ingestReportString>
+  <FilthBloodEldar.label>피</FilthBloodEldar.label>
+  <FilthBloodKroot.label>피</FilthBloodKroot.label>
+  <FilthBloodNecron.label>가우스 냉각수</FilthBloodNecron.label>
+  <FilthBloodOrk.label>피</FilthBloodOrk.label>
+  <FilthBloodTau.label>피</FilthBloodTau.label>
+  <FilthBloodTerran.label>피</FilthBloodTerran.label>
+  <FilthBloodVespid.label>피</FilthBloodVespid.label>
+  <Plant_N17Recaf.label>르카프 잎 식물</Plant_N17Recaf.label>
+  <Plant_N17Recaf.description>르카프 잎을 수확할 수 있는 녹색 잎 식물입니다. 이 잎으로 달콤하고 따뜻한 르카프를 끓일 수 있습니다.</Plant_N17Recaf.description>
+  <N17RawRecaf.label>르카프 잎</N17RawRecaf.label>
+  <N17RawRecaf.description>수확한 르카프 잎입니다. 르카프로 끓여질 준비가 잘 됐습니다.</N17RawRecaf.description>
+  <N17Recaf.label>르카프</N17Recaf.label>
+  <N17Recaf.description>뜨겁게 끓여진 맛있는 르카프 한 잔입니다. 몸을 진정시켜주고, 스트레스 감소 효과가 있습니다. 즉, 르카프를 마시면 음식 섭취를 줄이고, 오락동안 더 많은 즐거움을 즐거움을 의미합니다.</N17Recaf.description>
+  <N17Recaf.ingestible.ingestCommandString>{0} 마시기</N17Recaf.ingestible.ingestCommandString>
+  <N17Recaf.ingestible.ingestReportString>{0} 마시는 중.</N17Recaf.ingestible.ingestReportString>
+  <EggKnarlocFertilized.label>날록 알</EggKnarlocFertilized.label>
+  <EggKnarlocFertilized.description>수정된 날록 알입니다. 적합한 환경에서 새끼 날록으로 부화할 수 있습니다. 알을 훔쳐가면 어미가 격분할지 모릅니다.</EggKnarlocFertilized.description>
+  <EggGreaterKnarlocFertilized.label>그레이트 날록 알</EggGreaterKnarlocFertilized.label>
+  <EggGreaterKnarlocFertilized.description>수정된 그레이트 날록 알입니다. 적합한 환경에서 그레이트 날록으로 부화할 수 있습니다. 알을 훔쳐가면 어미가 격분할지 모릅니다.</EggGreaterKnarlocFertilized.description>
+  <EggKrootHoundFertilized.label>크룻 하운드 알</EggKrootHoundFertilized.label>
+  <EggKrootHoundFertilized.description>수정된 크룻 하운드 알입니다. 적합한 환경에서 새끼 크룻 하운드로 부화할 수 있습니다.</EggKrootHoundFertilized.description>
+  <Necrodermis.label>네크로데미스</Necrodermis.label>
+  <Necrodermis.description>네크론이 순수한 가우스 에너지로 만든 금속으로, 그들이 이루어낸 모든 것에 사용됩니다. 네크론의 몸을 구성하는 금속입니다.</Necrodermis.description>
+  <Necrodermis.stuffProps.stuffAdjective>네크로데미스</Necrodermis.stuffProps.stuffAdjective>
+  <GaussCrystal.label>가우스 크리스탈</GaussCrystal.label>
+  <GaussCrystal.description>이것은 자연적으로 성장하는 것처럼 보이는, 에너지로 가득찬 크리스탈입니다. 네크론이 장비, 건축물에 주로 사용하고, 그들의 에너지원을 만드는 데까지 사용합니다.</GaussCrystal.description>
+  <InactiveScarab.label>비활성 스카라브</InactiveScarab.label>
+  <InactiveScarab.description>비활성 스카라브입니다. 스카라브 플랫폼에 설치하면 작동합니다.</InactiveScarab.description>
+  <Leather_Tau.label>타우 가죽</Leather_Tau.label>
+  <Leather_Tau.description>무두질되고 건조된 타우 가죽입니다. 대부분의 사람들은 이 옷감을 매우 끔찍하게 생각할 테지만, 몇몇은 매혹적이라고 생각할 것입니다. 특별히 우수한 특성은 없습니다.</Leather_Tau.description>
+  <Leather_Tau.stuffProps.stuffAdjective>타우 가죽</Leather_Tau.stuffProps.stuffAdjective>
+  <Leather_Kroot.label>크룻 가죽</Leather_Kroot.label>
+  <Leather_Kroot.description>무두질되고 건조된 크룻 가죽입니다. 대부분의 사람들은 이 옷감을 매우 끔찍하게 생각할 테지만, 몇몇은 매혹적이라고 생각할 것입니다. 특별히 우수한 특성은 없습니다.</Leather_Kroot.description>
+  <Leather_Kroot.stuffProps.stuffAdjective>크룻 가죽</Leather_Kroot.stuffProps.stuffAdjective>
+  <Leather_Knarloc.label>날록 가죽</Leather_Knarloc.label>
+  <Leather_Knarloc.description>이 가죽을 유래한 날록만큼 튼튼한 가죽입니다. 사냥의 유산으로, 날룩의 가죽으로 옷을 만들어 입는 것은 분명히 귄위가 있는 일입니다. 이 가죽은 특히 열을 잘 막아주는 전열 처리에 뛰어납니다.</Leather_Knarloc.description>
+  <Leather_Knarloc.stuffProps.stuffAdjective>날록 가죽</Leather_Knarloc.stuffProps.stuffAdjective>
+  <Leather_KrootHound.label>크룻 하운드 가죽</Leather_KrootHound.label>
+  <Leather_KrootHound.description>어느정도 튼튼한 크룻 하운드 가죽입니다. 다른 가죽에 비해 약간 더 단단하며, 모든 종류의 온도에서 보호 해주지만, 이 유형은 열을 더 잘 막아줍니다.</Leather_KrootHound.description>
+  <Leather_KrootHound.stuffProps.stuffAdjective>크룻 하운드 가죽</Leather_KrootHound.stuffProps.stuffAdjective>
+  <Leather_Vespid.label>키틴질 가죽</Leather_Vespid.label>
+  <Leather_Vespid.description>베스피드의 가죽은 이상하고, 가죽이기엔 충분히 부드럽지 않고, 키틴이라고 하기에도 충분히 단단않습니다. 하지만, 이것은 추운 날씨에서 착용자를 보호하기 위해서 훌룡할 정도로 유연하고 두껍습니다.</Leather_Vespid.description>
+  <Leather_Vespid.stuffProps.stuffAdjective>키틴질 가죽</Leather_Vespid.stuffProps.stuffAdjective>
+  <Leather_Eldar.label>엘다 가죽</Leather_Eldar.label>
+  <Leather_Eldar.description>무두질되고 건조된 엘다 가죽입니다. 대부분의 사람들은 이 옷감을 매우 끔찍하게 생각할 테지만, 몇몇은 매혹적이라고 생각할 것입니다. 특별히 우수한 특성은 없습니다.</Leather_Eldar.description>
+  <Leather_Eldar.stuffProps.stuffAdjective>엘다 가죽</Leather_Eldar.stuffProps.stuffAdjective>
+  <Leather_Ork.label>오크 가죽</Leather_Ork.label>
+  <Leather_Ork.description>무두질되고 건조된 오크 가죽입니다. 대부분의 사람들은 이 옷감을 매우 끔찍하게 생각할 테지만, 몇몇은 매혹적이라고 생각할 것입니다. 특별히 우수한 특성은 없습니다.</Leather_Ork.description>
+  <Leather_Ork.stuffProps.stuffAdjective>오크 가죽</Leather_Ork.stuffProps.stuffAdjective>
+  <OrkCrudeChoppa.label>때추웅 많뚠 오크 쵸파</OrkCrudeChoppa.label>
+  <OrkCrudeChoppa.description>쵸파는 오크에 뭐둔 귽접무귀얘 주어쥐눈 뫌이돠. 툭휘, 무궈운 콸가 도끼에 주어지지. 슬러가 보이즈는 더 줘운 쵸파룰 솨귀 위훼숴 니빨울 충부니 모울 때까쥐 항상 슬러가와 쵸파룰 무귀로 둘고 돠뉘쥐. 쵸파에눈 봑잡환 부분이 거이 없돠. 왜냐화멵 돼부붅이 콸이나 도뀌가튼 뭐양울 과쥔 놜콰로운 고춸 조곽이긔 뙈문이돠. 그러놔, 둬 봘쩐뙨 쵸파눈, 쫑쫑 돼충 만둔 체인소드가툰 모숩울 붜여주지.</OrkCrudeChoppa.description>
+  <OrkCrudeChoppa.tools.0.label>손잡이</OrkCrudeChoppa.tools.0.label>
+  <OrkCrudeChoppa.tools.1.label>칼날</OrkCrudeChoppa.tools.1.label>
+  <OrkBigChoppa.label>오크 빅 쵸파</OrkBigChoppa.label>
+  <OrkBigChoppa.description>뾰족뾰족한 강철 톱니를 가진 거대한 도끼인 빅 쵸파는 중요한 세부 요소들 보다는 그들의 순수한 무게로 더 많이 결정됩니다. 빅 쵸파는 두 손 무기이고, 오크 놉과 워보스가 휘두릅니다. 일부 대형 초파에는 일반적으로 쓰이는 도끼날 대신 소음을 내는 쇠톱날이나 원형톱이 설치되기도 합니다.</OrkBigChoppa.description>
+  <OrkBigChoppa.tools.0.label>손잡이</OrkBigChoppa.tools.0.label>
+  <OrkBigChoppa.tools.1.label>칼날</OrkBigChoppa.tools.1.label>
+  <SMPowerFist.label>파워 피스트</SMPowerFist.label>
+  <SMPowerFist.description>파워 피스트(파워 글로브라고 알려지)는 근본적으로 크기가 크고, 에너지장을 장갑 주변에 발생시키는 장갑을 두르고 있는 건틀렛입니다. 파워 피스트는 닿는 모든 고체 물질을 끔찍하게 파괴시킬 수 있습니다. 이 무기는 카오스 군대(특히 카오스 스페이스 마린)와 마찬가지로 인류 제국의 근접 무기로 많이 애용됩니다. 특히 로열리스트 스페이스 마린의 상징적인 무기입니다.파워 피스트는 크고 전투 속도가 느리므로, 사용자는 반격을 가하기 전에는 적의 공격을 기꺼이 감수해야만 합니다. 하지만, 파워 피스트는 파워 아머의 기계식 보조 기구에서 제공하는 파워 때문이긴 하지만, 사용자의 힘을 엄청나게 강화시킵니다. 다루기 힘든 성격의 단점은 종종 한계를 훨씬 더 가치있게 만듭니다. 이 단점들을 감수한 덕분에, 파괴적인 에너지장과 순수한 물리적 단단함의 조합은 스페이스 마린을 가루로 만들어버리고, 가장 보호가 잘 이루어져 있는 차량의 장갑판도 산산이 부셔버릴 수 있습니다. 그리고 거대한 괴생명체를 근접전에서 부상입히고 죽일 수 있습니다;평범한 적들에 대한 파워 피스트의 잔혹한 효과는 말할 필요도 없습니다. 파워 피스트는 보통 스페이스 마린 택티컬 드레드노트(터미네이터) 아머에 장착되어있습니다.</SMPowerFist.description>
+  <SMPowerFist.tools.0.label>주먹</SMPowerFist.tools.0.label>
+  <EldarPowerSword.label>엘다 파워 소드</EldarPowerSword.label>
+  <EldarPowerSword.description>파워소드는 다양한 길이와 디자인을 가진 검 모양 파워 웨폰입니다. 다양한 재료로 만들어지지만, 보통 아다만티움을 사용합니다. 자루에 있는 컨트롤을 만져서 파워 셀이 활성화되면, 칼날은 파괴적인 에너지를 가진 치명적인 코로나에 둘러싸입니다. 이 에너지장 덕분에 파워소드의 칼날이 적의 살과 뼈, 그리고 장갑판으로 구성된 대부분을 조각내 버리게 해주고 임페리얼의 근접 전투 무기로 매우 효과적이게 만들어줍니다. 파워 소드는 임페리얼 가드맨 병단과 아뎁투스 아스타르테스의 스페이스 마린을 포함한, 임페리얼의 구성원 모두가 무기로 사용합니다. 엘다, 그들의 친족 다크엘다, 그리고 네크론같은 제노들도 이 무기의 제조법을 알고 있습니다.</EldarPowerSword.description>
+  <EldarPowerSword.tools.0.label>손잡이</EldarPowerSword.tools.0.label>
+  <EldarPowerSword.tools.1.label>칼끝</EldarPowerSword.tools.1.label>
+  <EldarPowerSword.tools.2.label>칼날</EldarPowerSword.tools.2.label>
+  <CommissarSword.label>커미사르 소드</CommissarSword.label>
+  <CommissarSword.description>오래됐지만 효율적인 디자인을 가진 이것은 커미사르에게 할당됩니다.</CommissarSword.description>
+  <CommissarSword.tools.0.label>손잡이</CommissarSword.tools.0.label>
+  <CommissarSword.tools.1.label>칼끝</CommissarSword.tools.1.label>
+  <CommissarSword.tools.2.label>칼날</CommissarSword.tools.2.label>
+  <KriegShovel.label>야전삽</KriegShovel.label>
+  <KriegShovel.description>데스 코어 오브 크리그의 영원한 친구 야전삽은 만능 친구입니다. 땅굴을 파거나 진지를 강화할 때 쓰거나, 위급하면 적의 목을 내리쳐서 잘라버리거나 적의 다양한 몸들을 절단 시킬 수 있습니다.</KriegShovel.description>
+  <KriegShovel.tools.0.label>손잡이</KriegShovel.tools.0.label>
+  <KriegShovel.tools.1.label>칼끝</KriegShovel.tools.1.label>
+  <KriegShovel.tools.2.label>칼날</KriegShovel.tools.2.label>
+  <Chainsword.label>체인소드</Chainsword.label>
+  <Chainsword.description>체인소드는 인류제국의 군대에서 가장 선호되는 근접 전투 무기입니다. 체인소드는 근본적으로 전기톱처럼 단날을 따라서 작동하는 강력한 톱날을 가진 칼입니다. 사용되는 무기 버전 대부분은 단분자 커터 혹은 그렇지 않으면 극도로 날카로운 톱날들이 달려있습니다. 체인소드는 교묘한 무기가 아니며, 휘두르는 것 그 자체로 전술입니다;그들은 그저 원시적인 칼날로 단순히 자르거나, 자른 곳을 물고, 찢어서 내장을 터뜨리기 위해 설계된 끔찍한 전쟁도구입니다. 이 무기는 톱날이 돌아갈때 마치, 화난듯이 윙윙거리는 소음을 만들고, 그들이 아머를 갈아버릴때 비명을 지르는 음의 높이는 점점 심해집니다. 현대 전기톱과 다르지 않게, 가볍고 한 손으로 휘두를 수 있습니다.</Chainsword.description>
+  <Chainsword.tools.0.label>손잡이</Chainsword.tools.0.label>
+  <Chainsword.tools.1.label>칼끝</Chainsword.tools.1.label>
+  <Chainsword.tools.2.label>칼날</Chainsword.tools.2.label>
+  <KrootBlade.label>크룻 블레이드</KrootBlade.label>
+  <KrootBlade.description>오래된 물건이지만, 생물을 죽이는데 효율적인 칼입니다. 크룻 사냥꾼들이 특별히 사용하기 위해 만들어진 무기입니다.</KrootBlade.description>
+  <KrootBlade.tools.0.label>손잡이</KrootBlade.tools.0.label>
+  <KrootBlade.tools.1.label>칼끝</KrootBlade.tools.1.label>
+  <KrootBlade.tools.2.label>칼날</KrootBlade.tools.2.label>
+  <NecronHyperphaseSword.label>하이퍼페이즈 소드</NecronHyperphaseSword.label>
+  <NecronHyperphaseSword.description>하이퍼페이즈 소드는 차원을 가로질러 진동하는 에너지 블레이드고 쉽게 아머와 육체를 관통해 필수적인 내부장기들을 잘라버릴 수 있는 네크론의 근접 무기입니다. 하이퍼페이즈 소드는 파워 웨폰 무기 종류보다 아득히 멀리 진보된 무기입니다.\n\n하이퍼페이즈 소드는 네크론의 왕족, 예를 들어 네크론 오버로드, 네크론 로드, 네크론 디스트로이어 로드, 그리고 그들이 가장 선호했던 리치가드의 장비에서만 오로지 찾을 수 있습니다.</NecronHyperphaseSword.description>
+  <NecronHyperphaseSword.tools.0.label>손잡이</NecronHyperphaseSword.tools.0.label>
+  <NecronHyperphaseSword.tools.1.label>칼끝</NecronHyperphaseSword.tools.1.label>
+  <NecronHyperphaseSword.tools.2.label>칼날</NecronHyperphaseSword.tools.2.label>
+  <MineableCeramite.label>세라마이트 원석</MineableCeramite.label>
+  <MineableCeramite.description>세라마이트 원석</MineableCeramite.description>
+  <RawCeramite.label>세라마이트 원석</RawCeramite.label>
+  <RawCeramite.description>세라마이트는 열과 충격에 강한 세라믹 소재로 인류 제국 전체에 널리 쓰이고 있습니다.</RawCeramite.description>
+  <CeramiteLowGrade.label>하급 세라마이트</CeramiteLowGrade.label>
+  <CeramiteLowGrade.description>임페리얼 가드 아머 그리고 무기를 제조하고, 또한 건축물에 사용되는 하급 세라마이트입니다.</CeramiteLowGrade.description>
+  <CeramiteLowGrade.stuffProps.stuffAdjective>하급 세라마이트</CeramiteLowGrade.stuffProps.stuffAdjective>
+  <CeramiteMedGrade.label>중급 세라마이트</CeramiteMedGrade.label>
+  <CeramiteMedGrade.description>임페리얼 가드 아머 그리고 무기를 제조하고, 또한 건축물에 사용되는 중급 세라마이트입니다.</CeramiteMedGrade.description>
+  <CeramiteMedGrade.stuffProps.stuffAdjective>중급 세라마이트</CeramiteMedGrade.stuffProps.stuffAdjective>
+  <CeramiteHighGrade.label>상급 세라마이트</CeramiteHighGrade.label>
+  <CeramiteHighGrade.description>임페리얼 가드 아머 그리고 무기를 제조하고, 또한 건축물에 사용되는 상급 세라마이트입니다.</CeramiteHighGrade.description>
+  <CeramiteHighGrade.stuffProps.stuffAdjective>상급 세라마이트</CeramiteHighGrade.stuffProps.stuffAdjective>
+  <GreaterKnarloc.label>그레이트 날록</GreaterKnarloc.label>
+  <GreaterKnarloc.description>크룻들의 유전적으로 퇴화된 하위종으로, 그들의 종족 지성이 남아있더라도 그들은 거의 없고, 그들의 현재 형태를 유지한 크룻에 의해 단순한 동물로 사육되고 있습니다. 보통, 짐동물 혹은 앉을 자리를 제공해줍니다. 알 수 없는 이유로 특히 커 보입니다.</GreaterKnarloc.description>
+  <GreaterKnarloc.tools.0.label>왼쪽 발톱</GreaterKnarloc.tools.0.label>
+  <GreaterKnarloc.tools.1.label>오른쪽 발톱</GreaterKnarloc.tools.1.label>
+  <GreaterKnarloc.tools.2.label>이빨</GreaterKnarloc.tools.2.label>
+  <GreaterKnarloc_Leather.label>그레이트 날록 가죽</GreaterKnarloc_Leather.label>
+  <GreaterKnarloc_Leather.description>그레이트 날록 가죽</GreaterKnarloc_Leather.description>
+  <GreaterKnarloc_Leather.stuffProps.stuffAdjective>그레이트 날록 가죽</GreaterKnarloc_Leather.stuffProps.stuffAdjective>
+  <GreaterKnarloc_Meat.label>그레이트 날록 고기</GreaterKnarloc_Meat.label>
+  <GreaterKnarloc_Meat.description>그레이트 날록 고기</GreaterKnarloc_Meat.description>
+  <GreaterKnarloc_Corpse.label>그레이트 날록 시체</GreaterKnarloc_Corpse.label>
+  <GreaterKnarloc_Corpse.description>그레이트 날록 시체</GreaterKnarloc_Corpse.description>
+  <Knarloc.label>날록</Knarloc.label>
+  <Knarloc.description>크룻들의 유전적으로 퇴화된 하위종으로, 그들의 종족 지성이 남아있더라도 그들은 거의 없고, 그들의 현재 형태를 유지한 크룻에 의해 단순한 동물로 사육되고 있습니다. 보통, 짐동물 혹은 앉을 자리를 제공해줍니다.</Knarloc.description>
+  <Knarloc.tools.0.label>왼쪽 발톱</Knarloc.tools.0.label>
+  <Knarloc.tools.1.label>오른쪽 발톱</Knarloc.tools.1.label>
+  <Knarloc.tools.2.label>이빨</Knarloc.tools.2.label>
+  <Knarloc_Leather.label>날록 가죽</Knarloc_Leather.label>
+  <Knarloc_Leather.description>날록 가죽</Knarloc_Leather.description>
+  <Knarloc_Leather.stuffProps.stuffAdjective>날록 가죽</Knarloc_Leather.stuffProps.stuffAdjective>
+  <Knarloc_Meat.label>날록 고기</Knarloc_Meat.label>
+  <Knarloc_Meat.description>날록 고기</Knarloc_Meat.description>
+  <Knarloc_Corpse.label>날록 시체</Knarloc_Corpse.label>
+  <Knarloc_Corpse.description>날록 시체</Knarloc_Corpse.description>
+  <KrootHound.label>크룻 하운드</KrootHound.label>
+  <KrootHound.description>사악하고 기이한 발톱과 터무니없이 강한 치악력을 가진 '개'같은 근육질의 생물입니다. 그들은 오직 고기 혹은 시체만 먹습니다. 크룻 하운드는 크룻들의 유전적으로 퇴화된 하위종으로, 이 크룻족이 얼마나 많은 생각을 간직하고 있는지는 알 수 없지만, 그들이 이 형태를 취하기 위해 먹어치운 야생 사냥개보다 더 지적인 것은 의심스럽습니다. 야생에서 방해를 받으면 공격 할 가능성이 매우 높습니다.</KrootHound.description>
+  <KrootHound.tools.0.label>왼쪽 발톱</KrootHound.tools.0.label>
+  <KrootHound.tools.1.label>오른쪽 발톱</KrootHound.tools.1.label>
+  <KrootHound.tools.2.label>날카로운 이빨</KrootHound.tools.2.label>
+  <KrootHound.tools.3.label>머리</KrootHound.tools.3.label>
+  <KrootHound_Leather.label>크룻 하운드 가죽</KrootHound_Leather.label>
+  <KrootHound_Leather.description>크룻 하운드 가죽</KrootHound_Leather.description>
+  <KrootHound_Leather.stuffProps.stuffAdjective>크룻 하운드 가죽</KrootHound_Leather.stuffProps.stuffAdjective>
+  <KrootHound_Meat.label>크룻 하운드 고기</KrootHound_Meat.label>
+  <KrootHound_Meat.description>크룻 하운드 고기</KrootHound_Meat.description>
+  <KrootHound_Corpse.label>크룻 하운드 시체</KrootHound_Corpse.label>
+  <KrootHound_Corpse.description>크룻 하운드 시체</KrootHound_Corpse.description>
+  <ConstructScarab.label>카놉텍 스캐럽</ConstructScarab.label>
+  <ConstructScarab.description>가장 간단한 작업을 수행할 수 있는, 네크론 카놉텍 스캐럽입니다.</ConstructScarab.description>
+  <ConstructScarab.tools.0.label>머리</ConstructScarab.tools.0.label>
+  <ConstructScarab_Corpse.label>카놉텍 스캐럽 시체</ConstructScarab_Corpse.label>
+  <ConstructScarab_Corpse.description>카놉텍 스캐럽 시체</ConstructScarab_Corpse.description>
+  <SMBoltGun.label>볼터</SMBoltGun.label>
+  <SMBoltGun.description>볼트건이라고 불리는 볼터 종류는 인류 제국이 사용하는 휴대용 대인 살상용 무기입니다. 구어체로 볼트라고 불리는, 운동성을 가진 폭발성 총알을 발사하는 강력하는 돌격 무기입니다. 당연히 볼터는 아뎁투스 아스타르테스와 아주 밀접한 무기입니다. 그러나, 스페이스 마린이 일반적인 사용자임에도 불구하고, 임페리움 전역의 군 조직에서 사용되는 것을 찾아볼 수 있습니다. 멋지게 관통하는 폭발성 탄환이 적을 뚫고 지나가 산산조각 내버리는 이 무기는, 아주 무시무시합니다. 배신자 군단의 카오스 스페이스 마린은 호루스 헤러시 이전에, 사용하던 볼터입니다. 그러기에 오늘날 로얄리스트 스페이스 마린이 사용하는 양식보다 일반적으로 오래된 유형을 사용합니다.</SMBoltGun.description>
+  <SMBoltGun.tools.0.label>개머리판</SMBoltGun.tools.0.label>
+  <SMBoltGun.tools.1.label>총열</SMBoltGun.tools.1.label>
+  <N17_Bullet_BoltGun.label>볼트</N17_Bullet_BoltGun.label>
+  <SMFlamer.label>플레이머</SMFlamer.label>
+  <SMFlamer.description>플레임 건"이라고도 알려진 플레이머는 다양한 디자인과 양식으로 도입된 플레이머 무기입니다. 하지만, 모든 플레이머는 엄폐한 적들을 쫓아내버리고 적들을 발사된 불길 속에 밀어넣어 버립니다. 플레이머에서 가장 흔한 종류 두 가지 유형은 플레이머의 총열 아래에 분리 가능한 연료 금속 용기가 있거나, 호스로 연결된 백팩 금속 용기를 가지고 있습니다. 플레이머는 러나, 엘다, 오크 그리고 타우로 알려진 제노 종족들이 비슷한 무기를 만들어 사용한다고 알려져 있지만, 스페이스 마린 어썰트 분대같은 어썰트 군단이 가장 흔히 사용하는 무기입니다.</SMFlamer.description>
+  <SMFlamer.tools.0.label>개머리판</SMFlamer.tools.0.label>
+  <SMFlamer.tools.1.label>총열</SMFlamer.tools.1.label>
+  <N17_Bullet_Flamer.label>불타는 프로메튬</N17_Bullet_Flamer.label>
+  <SMMeltaGun.label>멜타건</SMMeltaGun.label>
+  <SMMeltaGun.description>"퓨전 건", "멜터", "쿠커"라고도 불리는 멜타건은 강력하고, 수만 도의 온도를 가진 열에너지 빔을 생산하는 강력한 단거리 대전차 무기입니다. 멜타건은 스페이스 마린, 임페리얼 가드맨, 그리고 아뎁타 소로리타스의 오더 밀리턴트같은 인류제국의 또 다른 군대들이 사용합니다. 멜타웨폰은 총열이 짧더라도 지가나는 거의 모든 물질을 녹일 수 있는, 파괴적이고 강렬한 열폭발을 방출합니다. 멜타건은 대부분의 유형의 멜타 웨폰처럼 탄약 캐니스터에서 고도로 가압된 가스를 불안정한 분자상태에서 핵융합을 일으키고 그 결과로 총열 아래로 에너지를 모이게 합니다. 멜타 웨폰 사용은 멜타 빔이 공기 중의 수분을 끓여버리는 듯이 항상 독특한 쉿쉿 소리를 동반하며, 포효하며 폭발하는 빔이 목표를 새까맣게 타버린 찌꺼기 혹은 녹아버린 슬래그로 만들어 버립니다. 멜타건은 제국의 최고 대전차 무기로 최고이며, 멜타건의 위력을 버틸 수 있는 탈 것은 거의 없습니다.</SMMeltaGun.description>
+  <SMMeltaGun.tools.0.label>개머리판</SMMeltaGun.tools.0.label>
+  <SMMeltaGun.tools.1.label>총열</SMMeltaGun.tools.1.label>
+  <N17_Bullet_MeltaGun.label>멜타 블래스트</N17_Bullet_MeltaGun.label>
+  <EldarShurikenPistol.label>엘다 슈리켄 피스톨</EldarShurikenPistol.label>
+  <EldarShurikenPistol.description>엘다 렉시콘에서 무렉[murekh]으로 알려진 슈리켄 피스톨은 슈리켄 캐터펄트의 소형화 권총 버전입니다. 인간들 사이에서 이 무기는 "슬링어" 또는 "슬링 피스톨"이라고 불립니다. 짧은 총구의 길이와 적은 수용력때문에 무기의 효율성이 줄어들고, 사거리가 짧아지고 발사 속도와 파워가 약해졌습니다. 슈리켄 피스톨에서 발사하는 투사체는 슈리켄 캐터펄트에서 사용하는 것과 동일합니다: 단분자성 디스크 탄막은 적의 살과 뼈를 곧게 잘라냅니다. 어떤 엘다 영웅들과 전사들, 예를 들어 스트라이킹 스콜피온 아스펙트 워리어는 그들의 주 무기로 슈리켄 피스톨을 사용합니다. 보통 엘다들은 보조 무기로 슈리켄 피스톨을 사용합니다.</EldarShurikenPistol.description>
+  <EldarShurikenPistol.tools.0.label>개머리판</EldarShurikenPistol.tools.0.label>
+  <EldarShurikenPistol.tools.1.label>총열</EldarShurikenPistol.tools.1.label>
+  <N17_Bullet_EShurikenPistol.label>소형 슈리켄</N17_Bullet_EShurikenPistol.label>
+  <Eldar_Gun_EShurikenCatapult.label>엘다 슈리켄 캐터펄트</Eldar_Gun_EShurikenCatapult.label>
+  <Eldar_Gun_EShurikenCatapult.description>엘다 렉시콘에서 툴리언[tuelean]이라고 불리는 슈리켄 캐터펄트는 엘다 가디언들 보병대들이 사용하는 가장 기초적인 무기입니다. 엘다의 많은 기술들처럼, 슈리켄 캐터펄트는 크래프트월드의 물리적인 뼈대를 형성한 레이스본과 똑같은 정신 작용에 의해 발달됐습니다. 이전에 전사의 길을 걸었던, 본싱어의 장인 집단들이 자신의 고향을 지키는 엘다들을 위해 무기를 만드는 임무를 맡고, 레이스본을 가공하는 역활을 맡습니다. 크래프트월드의 모든 주민들은 갈등의 시기 속, 가디언 민병대로 들어가기 위해 슈리켄 캐터펄트 사용법을 훈련받습니다. 전쟁이 끊임없는 시기인 41만년, 대부분의 크래프트월드는 엘다들이 원하지 않더라도, 이 위험한 무기들을 훈련하도록 강요하고 있습니다.</Eldar_Gun_EShurikenCatapult.description>
+  <Eldar_Gun_EShurikenCatapult.tools.0.label>개머리판</Eldar_Gun_EShurikenCatapult.tools.0.label>
+  <Eldar_Gun_EShurikenCatapult.tools.1.label>총열</Eldar_Gun_EShurikenCatapult.tools.1.label>
+  <N17_Bullet_EShurikenCatapult.label>중형 슈리켄</N17_Bullet_EShurikenCatapult.label>
+  <EldarRangerLongrifle.label>엘다 레인저의 저격소총</EldarRangerLongrifle.label>
+  <EldarRangerLongrifle.description>레인저의 저격소총은 엘다의 레인저들과 패스파인더가 가장 선호하는 무기입니다. 이 무기는 긴-총열을 가진 라이플로, 겉보기에는 임페리얼의 스나이퍼 라이플과 임페리얼의 라스-라이플과 비슷합니다. 정확히 장갑에 맞은 곳이 어디든간에 뚫어버릴 수 있는 에너지 볼트를 발사할 수 있습니다. 대량으로 생산되는 임페리얼의 무기와 달리, 이 강력한 엘다 무기는 아이 사이트와 손잡이에 특별히 주의를 기울인 본싱어가 손주 제작해 만듭니다. 덕분에 사용자에게 완벽하게 적응한 무기를 만듭니다. 레인저의 저격소총은 [Gyrostatic Arm]을 사용하여 무기를 안정적으로 유지하며, 매우 작은 인종은 그들의 저격소총과 함께, 다루기 힘든 2각대를 제공받습니다. [Gyrostatic Arm]은 또한 반동을 제거합니다. 인공 크리스탈을 사용하는 임페리얼의 레이저-기술이 장거리에 발사되는 빔을 유지하기 위해 노력하는 반면에, 사이킥적으로 발달된 크리스탈을 사용하는 엘다의 레이저 무기는 일관성 있는 빽빽한 빔을 훨씬 더 멀리 발사하는게 가능합니다. 그리고 숙련된 사용자가 먼 거리에서 아머의 약한 부분을 뚫도록 해줍니다.</EldarRangerLongrifle.description>
+  <EldarRangerLongrifle.tools.0.label>개머리판</EldarRangerLongrifle.tools.0.label>
+  <EldarRangerLongrifle.tools.1.label>총열</EldarRangerLongrifle.tools.1.label>
+  <N17_Bullet_ERangerLR.label>저격소총 총알</N17_Bullet_ERangerLR.label>
+  <LasPistol.label>라스피스톨</LasPistol.label>
+  <LasPistol.description>라스피스톨은 라스건의 피스톨 버전이고, 전자기 에너지 광자의 코히렌트 빔을 발사하는 이런 무기는 대부분의 물질을 관통해 태워버릴 수 있습니다. 라스피스톨은 보통 손잡이안에 배치되는 소형 파워팩에 의해 구동됩니다. 이 무기는 흔히 장교나 임페리얼 가드의 커미사르가, 파워 소드 혹은 체인소드같은 근접 무기와 함께 사용합니다. 라스피스톨은 한 손으로 사용하고 남은 손으로는 근접무기를 휘두를 수 있도록 만들어졌습니다. 라스피스톨은 테크 프리스트 엔지니어들과 생션드 사이커들에게 가장 선호되는 무기입니다.\n\n라스피스톨은 라스건과 비슷한 양의 피해를 숙련된 사용자의 손에서 낼 수 있지만, 라스피스톨의 변형된 소총 형태에 비해 범위가 크게 줄어들었습니다. 라스피스톨은 라스건의 발사 옵션이 없어서, 오직 단발로만 발사할 수 있습니다.</LasPistol.description>
+  <LasPistol.tools.0.label>개머리판</LasPistol.tools.0.label>
+  <LasPistol.tools.1.label>총열</LasPistol.tools.1.label>
+  <N17_Bullet_LasPistol.label>라스피스톨 블래스트</N17_Bullet_LasPistol.label>
+  <LasGun.label>칸트라엘 패턴 라스라이플</LasGun.label>
+  <LasGun.description>M36 칸트라엘 패턴 라스라이플은 카디안이 표준적으로 사용하는 변종으로, M35 표준 패턴의 스코프가 없어져서 사거리가 약간 줄어들었습니다.</LasGun.description>
+  <LasGun.tools.0.label>개머리판</LasGun.tools.0.label>
+  <LasGun.tools.1.label>총열</LasGun.tools.1.label>
+  <LasGun.tools.2.label>총검</LasGun.tools.2.label>
+  <N17_Bullet_LasGun.label>라스건 블래스트</N17_Bullet_LasGun.label>
+  <VossLasGun.label>보스 패턴 라스건</VossLasGun.label>
+  <VossLasGun.description>보스 패턴 라스건은 아무겟돈 스틸 리전이 사용하는 개머리판이 없는 라스라이플입니다. 개머리판이 없어서 정확성이 일반적인 라스건보다 떨어지고, 스코프도 없어져서 사거리도 약간 줄어들었습니다.</VossLasGun.description>
+  <VossLasGun.tools.0.label>개머리판</VossLasGun.tools.0.label>
+  <VossLasGun.tools.1.label>총열</VossLasGun.tools.1.label>
+  <VossLasGun.tools.2.label>총검</VossLasGun.tools.2.label>
+  <VossLasGun.tools.3.label>총열</VossLasGun.tools.3.label>
+  <VossLasGun.tools.4.label>총검</VossLasGun.tools.4.label>
+  <LasGunValhallan.label>M35 표준 라스라이플</LasGunValhallan.label>
+  <LasGunValhallan.description>스코프가 달린 표준 패턴 라스라이플입니다.</LasGunValhallan.description>
+  <LasGunValhallan.tools.0.label>개머리판</LasGunValhallan.tools.0.label>
+  <LasGunValhallan.tools.1.label>총열</LasGunValhallan.tools.1.label>
+  <LasGunValhallan.tools.2.label>총검</LasGunValhallan.tools.2.label>
+  <Hellgun.label>헬건</Hellgun.label>
+  <Hellgun.description>핫-샷 라스건이라고도 불리는 헬건은 가장 발전되고 목표물에게 더욱 강력한 레이저를 발사하기 위해 만들어진, 파워풀한 레이저 발생기 시스템을 가지고 있습니다. 이 시스템은 헬건을 평균적으로 지급되는 라스건에 비해 더 출력이 높고 긴 사거리를 가진 우수한 무기로 만들어줍니다. 그러나, 출력이 높을수록 우수한 품질의 파워 셀 또는 별도의 백팩 전원 공급 장치를 사용해야 합니다. 그리고 복잡한 무기 내부의 작동은 더 많은 시간과 제조하기 위해 표준 라스건보다 많은 자원을 요구합니다. 헬건은 이 분야에서 가장 비용이 비싸기에 대부분의 아스트라 밀리타룸 연대의 평균적인 군인들에게 보급되지 않습니다.</Hellgun.description>
+  <Hellgun.tools.0.label>개머리판</Hellgun.tools.0.label>
+  <Hellgun.tools.1.label>총열</Hellgun.tools.1.label>
+  <N17_Bullet_Hellgun.label>헬건 블래스트</N17_Bullet_Hellgun.label>
+  <N17_Bullet_LongLas.label>롱-라스 블래스트</N17_Bullet_LongLas.label>
+  <LongLas.label>롱-라스</LongLas.label>
+  <LongLas.description>임페리얼 가드의 명사수들에게 가장 선호받고, 일반적으로 스나이퍼 라스건이라고 알려진 롱-라스는, 사거리와 정확성을 증가시키기 위해서 평균적인 라스건의 구조를 특별히 수정한 버전입니다. 게다가 경외할 만한 라스건의 많은 변형들 뿐 아니라, 하나의 다른 무기로 간주하기에 충분한 종류의 무기들도 있습니다. 그러한 무기 중 하나는, 롱 라스건이라고 더 잘 알려진 스나이퍼 라스건입니다. 이러한 무기는 사격술, 잠복 작전 그리고 정찰하는 것에 뛰어난 아스트라 밀리타룸의 가드맨에게만 보급되는데, 이러한 무기는 생산하기 어렵고 제대로 활용하기 위해서는 더 많은 훈련과 지능이 필요합니다.</LongLas.description>
+  <LongLas.tools.0.label>개머리판</LongLas.tools.0.label>
+  <LongLas.tools.1.label>총열</LongLas.tools.1.label>
+  <N17_Bullet_BoltPistol.label>피스톨 볼트</N17_Bullet_BoltPistol.label>
+  <BoltPistol.label>볼트 피스톨</BoltPistol.label>
+  <BoltPistol.description>볼트 피스톨은 가장 스페이스 마린이 사용하는 볼터 중에서 가장 작은 버전입니다. 그리고 임페리얼의 다른 군대들 예를 들어 아뎁타 소로리타스의 오더 밀리턴트와 아스트라 밀리타룸의 특정 멤버 그리고 임페리얼 네이비 또한 사용합니다. 실용적이고 강력한 휴대용 무기인 볼트 피스톨은 3만년 이후로 제국의 많은 군대에게 보급되었습니다. 현재 스페이스 마린에서 사용되고 있는 표준 양식은 마크 III입니다. 볼트 피스톨은 제국의 군대와 마찬가지로 카오스 스페이스 마린도 사용합니다. 볼트 피스톨은 스페이스 마린 장교, 스페이스 마린 베테랑, 스페이스 마린 어썰트 분대에 의해 근접 무기와 함께 사용되고, 그들을 근접 전투의 전문가로 만들어줍니다.</BoltPistol.description>
+  <BoltPistol.tools.0.label>개머리판</BoltPistol.tools.0.label>
+  <KriegAntiMatRifle.label>크리그 대물 저격총</KriegAntiMatRifle.label>
+  <KriegAntiMatRifle.description>데스 코어 오브 크리그의 저격수가 사용하는 특별한 소총입니다.</KriegAntiMatRifle.description>
+  <KriegAntiMatRifle.tools.0.label>개머리판</KriegAntiMatRifle.tools.0.label>
+  <KriegAntiMatRifle.tools.1.label>총열</KriegAntiMatRifle.tools.1.label>
+  <Bullet_KriegAntiMatRifle.label>차지샷</Bullet_KriegAntiMatRifle.label>
+  <KriegShotgun.label>크리그 샷건</KriegShotgun.label>
+  <KriegShotgun.description>빽빽이 들어찬 아주 작은 총알들을 방출하는 구식 디자인의 샷건입니다. 하지만, 근거리에서는 치명적입니다.</KriegShotgun.description>
+  <KriegShotgun.tools.0.label>개머리판</KriegShotgun.tools.0.label>
+  <KriegShotgun.tools.1.label>총열</KriegShotgun.tools.1.label>
+  <Bullet_KriegShotgun.label>샷건 블래스트</Bullet_KriegShotgun.label>
+  <KriegLasCarbine.label>루시우스-패턴 No.98 라스라이플</KriegLasCarbine.label>
+  <KriegLasCarbine.description>데스 코어 오브 크리그가 사용하는 라스건 기술의 변형입니다. 정확도 측면에서 거의 동일하지만 발사 속도가 느립니다. 그 결과로 한 발 한 발은 더 강해졌지만, 전체적으로는 데스 코어만 훨씬 선호합니다.</KriegLasCarbine.description>
+  <KriegLasCarbine.tools.0.label>개머리판</KriegLasCarbine.tools.0.label>
+  <KriegLasCarbine.tools.1.label>총열</KriegLasCarbine.tools.1.label>
+  <KriegLasCarbine.tools.2.label>총검</KriegLasCarbine.tools.2.label>
+  <N17_Bullet_LasCarbine.label>라스건 블래스트</N17_Bullet_LasCarbine.label>
+  <KrootRifle.label>크룻 라이플</KrootRifle.label>
+  <KrootRifle.description>크룻 라이플은 크룻이 사용하는 기본적인 무기입니다. 이 무기는 화학적 반응에 의해 나아가는 단단한 총알을 발사함으로써 작동하지만, 타우가 펄스 총알을 발사하게 개조하여 볼트건과 동등하게 만들었습니다. 이것은 총구와 개머리판 근처에 칼날이 달려있으며, 이전의 크룻 파이팅 스태브로 되돌아 가는 것으로, 믿을 수 없는 속도로 근접전에서 적들을 갈기갈기 찢을 수 있게 합니다. 그러나 여전히 꽤 부피가 크며, 필요하지는 않지만, 결코 다른 무기와 함께 쓰이지 않습니다.</KrootRifle.description>
+  <KrootRifle.tools.0.label>개머리판 칼날</KrootRifle.tools.0.label>
+  <KrootRifle.tools.1.label>총열 칼날</KrootRifle.tools.1.label>
+  <N17_Bullet_TKrootRifle.label>크룻 총알</N17_Bullet_TKrootRifle.label>
+  <NecronGaussFlayer.label>네크론 가우스 플레이어</NecronGaussFlayer.label>
+  <NecronGaussFlayer.description>가우스 플레이어는 네크론 가우스 웨폰의 일종으로, 목표물을 분자 단위로 없앨 수 있고, 목표를 수 초만에 원자로 증발시켜 버릴 수 있습니다. 가우스 플레이어는 개머리판이 달려있는 라이플같은 무기이며, 투명한 튜브에 위험하고 알 수 없는 비리디언 에너지를 발사하고, 때로는 원형 모양의 머즐 밑에 도끼 같은 총검이 달려있습니다.\n\n기존의 에너지 무기와는 다르게, 가우스 플레이어는 절단 빔이나 순수한 전자기력의 완전한 볼트 또는 아원자 입자를 보내지 않습니다. 대신에 녹색빛의 번개가 치는 듯한 분자 분해 빔을 방출합니다. 그것은 살, 갑옷 그리고 뼈같은 모든 것을, 아무것도 남기지 않습니다. 가우스 플레이어에 맞는 것은 아마 엄청나게 고통스럽고, 희생자들은 빔에 의해 발생한 전신성 쇼크 공격으로 인해 죽음에 이르게 될 것 입니다.</NecronGaussFlayer.description>
+  <NecronGaussFlayer.tools.0.label>손잡이</NecronGaussFlayer.tools.0.label>
+  <NecronGaussFlayer.tools.1.label>총칼</NecronGaussFlayer.tools.1.label>
+  <N17_Bullet_GaussFlayer.label>가우스 블래스트</N17_Bullet_GaussFlayer.label>
+  <NecronGaussBlaster.label>네크론 가우스 블래스터</NecronGaussBlaster.label>
+  <NecronGaussBlaster.description>가우스 블래스터는 소름끼치는 네크론 가우스 웨폰의 일종으로, 목표물을 분자 단위로 없앨 수 있고, 목표를 수 초만에 원자로 증발시켜 버릴 수 있습니다. 가우스 블래스터는 보통 가우스 플레이어보다 훨씬 크고, 무기에서 발사되는 위험하고 알 수 없는 비리디언 에너지를 포함한 투명한 튜브로 이어지는 두 개의 배럴을 특징으로 합니다. 때로는 원형 모양의 머즐 밑에 도끼 같은 총검이 달려있습니다.\n\n기존의 에너지 무기와는 다르게, 가우스 블래스터는 절단 빔이나 순수한 전자기력의 완전한 볼트 또는 아원자 입자를 보내지 않습니다. 대신에 녹색빛의 번개가 치는 듯한 분자 분해 빔을 방출합니다. 그것은 살, 갑옷 그리고 뼈같은 모든 것을, 아무것도 남기지 않습니다. 가우스 블래스터에 맞는 것은 아마 엄청나게 고통스럽고, 희생자들은 빔에 의해 발생한 전신성 쇼크 공격으로 죽음에 이르게 될 것 입니다.</NecronGaussBlaster.description>
+  <N17_Bullet_GaussBlaster.label>네크론 가우스 블래스트</N17_Bullet_GaussBlaster.label>
+  <NecronStaffOfLight.label>네크론의 스태프 오브 라이트</NecronStaffOfLight.label>
+  <NecronStaffOfLight.description>네크론의 스태프 오브 라이트는 네크론 왕실의 강력한 무기일 뿐만아니라, 계급과 권위를 상징하는 신비로운 네크론의 기술입니다. 전통적인 네크론티르 스태프의 모양처럼 화려한 헤드기어가 달려있고, 실제로는 손잡이에 발전기 막대가 숨겨져있습니다; 그리고 크레스트에서 섬세하게 조정된 초점조정장치를 사용하여, 타는 듯이 번쩍이는 비리디언 에너지를 빠른 속도로 적을 향해 휘두르도록 사용자를 촉발시킵니다. 이 빔은 아스타르테스의 파워 아마도 쉽게 뚫어버릴 만큼 강력합니다. 사정 거리에서 엄청난 에너지 폭발을 일으킬 뿐만 아니라, 스패트 오브 라이트는 근접전에서 파워 웨폰과 비슷한 역할을 수행합니다. 스태프 오브 라이트는 네크론 로드, 네크론 오버로드, 네크론 디스트로이어 로드의 소지품을 포함한, 네크론 왕족들의 무기로만 발견됩니다. 그러나, 불특정 존재인 크립텍들 또한 그들의 마도술같은 기술로 전장에서 스태프 오브 라이프를 휘두릅니다.</NecronStaffOfLight.description>
+  <NecronStaffOfLight.tools.0.label>머리</NecronStaffOfLight.tools.0.label>
+  <NecronStaffOfLight.tools.1.label>총열</NecronStaffOfLight.tools.1.label>
+  <N17_Bullet_StaffOfLight.label>네크론 라이트 블래스트</N17_Bullet_StaffOfLight.label>
+  <OrkSlugga.label>슬러가</OrkSlugga.label>
+  <OrkSlugga.description>슬러가는 스페이스 마린의 볼트 피스톨과 동등한 오크 무기입니다. 보통 쵸파와 함께 다뤄지고, 이 둘을 다루는 슬러가 떼를 슬러가 보이즈라고 합니다. 오크의 무기는 곧 망가질 듯한 특성때문에, 모든 슬러가는 다르지만, 대부분의 슬러가는 반자동, 거대한 구경을 가진 사이드 암입니다. 제국에서 사용하는 무기만큼 정교하지는 않지만, 슬러가는 다른 무기에 못지 않게 효과적이며, 제대로 사용한다면 가장 진보된 사이드 암일 것 입니다. 근접전에 초점을 맞춘 오크가 그것을 쓰는 것에 관심을 갖는한, 슬러가의 효과는 거의 중요하지 않습니다. 왜냐하면 단순히 크고, 발사할 때 시끄러운 소리만 내기만 하면 되기 때문입니다.</OrkSlugga.description>
+  <OrkSlugga.tools.0.label>손잡이</OrkSlugga.tools.0.label>
+  <OrkSlugga.tools.1.label>총열</OrkSlugga.tools.1.label>
+  <N17_Bullet_Slugga.label>슬러가 슬러그</N17_Bullet_Slugga.label>
+  <OrkShoota.label>슈타</OrkShoota.label>
+  <OrkShoota.description>슈타는 오크가 사용하는 운동성, 탄도 무기입니다. 이 무기를 사용하는 것은 효율성 때문이 아니라 무기가 만드는 소음의 양과 피해량이 크기 때문에 선택됐습니다. 가장 최고의 슈타는 귀청이 터질 정도로 치명적입니다. 슬러가 같은 슈타는 정확도가 매우 떨어집니다. 이건 정확도보다 피해량과 엄청난 소음의 흥미를 가지는 오크들에게 어울립니다. 슈타의 소음은 오크의 사기를 증가시키고 적의 사기를 떨어뜨리고, 여러개의 개의 슈타에서 발생하는 압도적인 소음에서 도망치게 됩니다. 그럼에도 불구하고, 쇼타 보이즈 무리들은 그들의 목표물을 향한 엄청난 양의 화력으로 부족한 정확성을 보충합니다.</OrkShoota.description>
+  <N17_Bullet_Shoota.label>슈타 슬러그</N17_Bullet_Shoota.label>
+  <OrkBigShoota.label>빅 슈타</OrkBigShoota.label>
+  <OrkBigShoota.description>빅 슈타는 방아쇠를 당길때 스파크가 튀기는, 시끄럽고, 무겁고, 커다란 구경의 미니건입니다. 아주 간단하게 빅 슈타는 거대한 구경의 슈타이며 넓은 사거리와 잠재적으로 슈타에 버금가는 피해량을 가지고 있습니다. 빅 슈타는 또한 근접전을 위해 총검이 붙여져 있습니다. 빅 슈타는 일반적인 슈타보다 두 배의 사거리를 가지고 있습니다. 빅 슈타는 전장에서 거의 보기 힘듭니다. 평균적으로 오크 떼에서는 10명당 1명의 오크가 빅슈타로 무장하고 있고, 30명의 오크 보이즈 군단에서는 평균 3명의 오크들이 무장하고 있습니다.</OrkBigShoota.description>
+  <N17_Bullet_BigShoota.label>빅 슈타 슬러그</N17_Bullet_BigShoota.label>
+  <TauPulseCarbine.label>타우 펄스 카빈</TauPulseCarbine.label>
+  <TauPulseCarbine.description>펄스 카빈은 펄스 유도장을 활용하여 짧은 거리에 걸쳐 치명적인 마이크로-플라즈마 폭발을 촉진시키는 타우의 펄스 무기입니다. 펄스 카빈은 타우 펄스 라이플의 아주 가볍고 짧은 총열은 가진 버전이며, 카빈의 피해량은 타우가 만나왔던 모든 고등한 종족의 표준 무기들보다 압도적입니다. 이 무기는 특정한 타우 인원들이 기본적인 방어 수단이자 절박한 상황에서 사용하는 무기입니다. 펄스 카빈은 펄스 라이플의 긴 사거리를 희생하는 대신 훌륭한 휴대성과 하단에 광자 유탄 발사기가 부착되어 있습니다.</TauPulseCarbine.description>
+  <TauPulseCarbine.tools.0.label>개머리판</TauPulseCarbine.tools.0.label>
+  <TauPulseCarbine.tools.1.label>총열</TauPulseCarbine.tools.1.label>
+  <TauCarbinePulse.label>플라즈마 펄스</TauCarbinePulse.label>
+  <TauPulseRifle.label>타우 펄스 라이플</TauPulseRifle.label>
+  <TauPulseRifle.description>펄스 라이플은 타우의 가공할 주력 보병 무기이고, 펄스 유도장을 활용하여 짧은 거리에 걸쳐 치명적인 마이크로-플라즈마 폭발을 촉진시키는 타우의 펄스 무기입니다. 펄스 라이플은 파이어 워리어의 주력 무기이며, 사거리와 피해량은 타우가 만나왔던 모든 종족의 표준 무기보다 압도적입니다. 크룻 셰이퍼 또한 때때로 전장에서 펄스 라이플을 사용하게 해준다고 알려져 있고, 반면에 테트라는 트윈 링크드 펄스 파이플들을 자기 방어를 기반으로한 무기로서 장착하고 있습니다.</TauPulseRifle.description>
+  <TauPulseRifle.tools.0.label>개머리판</TauPulseRifle.tools.0.label>
+  <TauPulseRifle.tools.1.label>총열</TauPulseRifle.tools.1.label>
+  <TauRiflePulse.label>플라즈마 펄스</TauRiflePulse.label>
+  <TauIonRifle.label>타우 이온 라이플</TauIonRifle.label>
+  <TauIonRifle.description>이온 라이플은 타우 제국의 '세 번째 천체들의 확장' 기간 동안 보병들이 사용하기 위해 개발된 실험적인 타우 이온 웨폰입니다. 이온 라이플은 타우 레일 라이플과 비슷한 크키고, 먼 거리에서 고에너지 이온 스트림으로 적과 교전할 수 있는 강력한 무기로, 살과 강철을 평등하게 증발시켜 버립니다. 이 고에너지 입자는 전자기장으로 가속되고 원자 수준에서 에너지를 직접 전달한 결과 목표물에게 폭발적인 반응을 보입니다.</TauIonRifle.description>
+  <TauIonRifle.tools.0.label>개머리판</TauIonRifle.tools.0.label>
+  <TauIonRifle.tools.1.label>총열</TauIonRifle.tools.1.label>
+  <N17_Bullet_TIonRifle.label>이온 라이플 빔</N17_Bullet_TIonRifle.label>
+  <TauRailRifle.label>타우 레일 라이플</TauRailRifle.label>
+  <TauRailRifle.description>레일 라이플은 전자기적으로 유도된 선형 가속을 사용하여 발사체를 초음속으로 발사하는 타우의 탄도 레일 무기입니다. 강력한 무기인 레일 라이플은 비록 보병들이 휴대하기 위해 크기가 작아졌지만, 거대한 레일건, 헤비 레일 라이플과 같은 기술을 사용합니다. 엄청난 사거리를 가지고 있고 거대한 피해를 입히는 이 무기의 진짜 강점은 아머 관통 능력입니다. 레일 라이플의 발사체는 심지어 터미네이터 아머도 쉽께 관통할 수 있습니다. 헌신적인 엘리트 보병 킬러로서, 레일 라이플의 일제 사격에서 어떻게든 살아남은 적 부대는, 이러한 치명적인 화력에 직면하여 아무것도 할 수 없게 된 이후에, 일시적으로 꼼짝 못하게 됩니다.</TauRailRifle.description>
+  <TauRailRifle.tools.0.label>개머리판</TauRailRifle.tools.0.label>
+  <TauRailRifle.tools.1.label>총열</TauRailRifle.tools.1.label>
+  <N17_Bullet_TRailRifle.label>레일 라이플 슬러그</N17_Bullet_TRailRifle.label>
+  <TauBurstCannon.label>타우 버스트 캐논</TauBurstCannon.label>
+  <TauBurstCannon.description>버스트 캐논은 다수의 총열이 형성된 타우의 펄스 무기이며, 플라즈마 라이플에서 발견된 것과 동일한 플라즈마 유도 기술을 통해 플라즈마 마이크로 펄스를 근광속까지 가속시킬 수 있습니다. 열응력을 완하시키기 위해 회전하는 4개의 총열을 가지고 있는 버스트 캐논은 비록 대부분의 펄스 무기들이 가지고 있는 장거리를 희생했지만, 맹렬한 발사 속도를 유지할 수 있습니다. 그러나, 이러한 사거리 문제점은 버스트 캐논의 휴대성과 일반적으로 무장한 부대의 기동성에 의해 상쇄됩니다.</TauBurstCannon.description>
+  <TauBurstCannon.tools.0.label>총열</TauBurstCannon.tools.0.label>
+  <N17_Bullet_TBurstCannon.label>버스트 펄스</N17_Bullet_TBurstCannon.label>
+  <N17_Bullet_TNeutronBlaster.label>중성자포</N17_Bullet_TNeutronBlaster.label>
+  <TauNeutronBlaster.label>타우 중성자포</TauNeutronBlaster.label>
+  <TauNeutronBlaster.description>중성자포는 베스피드만이 사용할 수 있는 독특하고 강력한 무기로, 외계 종족의 독특한 무기를 대표합니다. 베스피드와 타우 기술의 하이브리드인 중성자포 대부분은 타우가 제조합니다. 왜냐하면 베스피드는 아직 중성자포를 직접 제작하기 위한 기술적인 시설을 가지고 있지 못했기 때문입니다. 무기의 총열에 장착된 것은, 베스피드의 구름바다의 가장 깊은 곳에 있는, 베스피드 홈월드 최대의 종유석 섬들 중 가장 낮은 곳에서 수확되는 매우 활발하고 불안정한 크리스탈입니다. 그런 깊은 곳에서, 대기압은 온갖 종류의 이국적이고, 기괴하고, 독특한 크리스탈을 형성을 만들어 냅니다. 이러한 깊이에서 순수한 크리스탈을 수확할 수 있는 체질은 가지고 있는 것은, 종의 지도자 계급인 거대한 암컷 베시프드 뿐입니다.</TauNeutronBlaster.description>
+  <NecronTileDarkGold_Blueprint.label>네크로데미스 타일 (어두운색/ 금 테두리) (청사진)</NecronTileDarkGold_Blueprint.label>
+  <NecronTileDarkGold_Frame.label>네크로데미스 타일 (어두운색/ 금 테두리) (건설 중)</NecronTileDarkGold_Frame.label>
+  <NecronTileDarkGold_Frame.description>작업이 진행중 입니다.</NecronTileDarkGold_Frame.description>
+  <NecronTileBrightGold_Blueprint.label>네크로데미스 타일 (밝은색/ 금 테두리) (청사진)</NecronTileBrightGold_Blueprint.label>
+  <NecronTileBrightGold_Frame.label>네크로데미스 타일 (밝은색/ 금 테두리) (건설 중)</NecronTileBrightGold_Frame.label>
+  <NecronTileBrightGold_Frame.description>작업이 진행중 입니다.</NecronTileBrightGold_Frame.description>
+  <NecronTileNeutralGold_Blueprint.label>네크로데미스 타일 (중간색/ 금 테두리) (청사진)</NecronTileNeutralGold_Blueprint.label>
+  <NecronTileNeutralGold_Frame.label>네크로데미스 타일 (중간색/ 금 테두리) (건설 중)</NecronTileNeutralGold_Frame.label>
+  <NecronTileNeutralGold_Frame.description>작업이 진행중 입니다.</NecronTileNeutralGold_Frame.description>
+  <NecronTileDark_Blueprint.label>네크로데미스 타일 (어두운색) (청사진)</NecronTileDark_Blueprint.label>
+  <NecronTileDark_Frame.label>네크로데미스 타일 (어두운색) (건설 중)</NecronTileDark_Frame.label>
+  <NecronTileDark_Frame.description>작업이 진행중 입니다.</NecronTileDark_Frame.description>
+  <NecronTileBright_Blueprint.label>네크로데미스 타일 (밝은색) (청사진)</NecronTileBright_Blueprint.label>
+  <NecronTileBright_Frame.label>네크로데미스 타일 (밝은색) (건설 중)</NecronTileBright_Frame.label>
+  <NecronTileBright_Frame.description>작업이 진행중 입니다.</NecronTileBright_Frame.description>
+  <NecronTileNeutral_Blueprint.label>네크로데미스 타일 (중간색) (청사진)</NecronTileNeutral_Blueprint.label>
+  <NecronTileNeutral_Frame.label>네크로데미스 타일 (중간색) (건설 중)</NecronTileNeutral_Frame.label>
+  <NecronTileNeutral_Frame.description>작업이 진행중 입니다.</NecronTileNeutral_Frame.description>
+  <NecronTileGlower_Blueprint.label>네크로데미스 타일 (윤기 나는) (청사진)</NecronTileGlower_Blueprint.label>
+  <NecronTileGlower_Frame.label>네크로데미스 타일 (윤기 나는) (건설 중)</NecronTileGlower_Frame.label>
+  <NecronTileGlower_Frame.description>작업이 진행중 입니다.</NecronTileGlower_Frame.description>
+
+</LanguageData>

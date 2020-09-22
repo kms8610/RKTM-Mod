@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TwelveSevenShell.label>12.7cm SprGr 고폭탄</TwelveSevenShell.label>
+  <TwelveSevenShell.description>이 탄약을 사용하는 포탑: 12.7cm SK C/34 함포</TwelveSevenShell.description>
+  <SIGShellHE.label>150mm I Gr 33 고폭탄</SIGShellHE.label>
+  <SIGShellHE.description>이 탄약을 사용하는 포탑: sIG 33 곡사포</SIGShellHE.description>
+  <Turret_15cmSIG.label>15cm sIG 33 곡사포</Turret_15cmSIG.label>
+  <Turret_15cmSIG.description>탄종: 150mm I gr 33 유탄(폭발 반경 4미터)\n최소사거리: 15미터, 최대사거리: 150미터\n사격방식: 단발사격, 재장전 시간 30초\n벽을 넘어 사격할 수 있음.\n파괴될 때 2블록 반경의 폭발이 일어남</Turret_15cmSIG.description>
+  <Turret_15cmSIG_Blueprint.label>15cm sIG 33 곡사포 (청사진)</Turret_15cmSIG_Blueprint.label>
+  <Turret_15cmSIG_Frame.label>15cm sIG 33 곡사포 (건설 중)</Turret_15cmSIG_Frame.label>
+  <Turret_15cmSIG_Frame.description>탄종: 150mm I gr 33 유탄(폭발 반경 4미터)\n최소사거리: 15미터, 최대사거리: 150미터\n사격방식: 단발사격, 재장전 시간 30초\n벽을 넘어 사격할 수 있음.\n파괴될 때 2블록 반경의 폭발이 일어남</Turret_15cmSIG_Frame.description>
+  <FlakTwentyMag.label>20발들이 20mm 소이철갑탄 탄창</FlakTwentyMag.label>
+  <FlakTwentyMag.description>이 탄약을 사용하는 포탑: 20mm Flak 38 대공기관포</FlakTwentyMag.description>
+  <Bullet_20mmAutocannonTurret.label>20발들이 20mm 소이철갑탄 탄창</Bullet_20mmAutocannonTurret.label>
+  <Gun_20mmAutocannonTurret.label>포탑 총</Gun_20mmAutocannonTurret.label>
+  <Gun_20mmAutocannonTurret.description>이걸 보게 된다면 버그 걸린 것입니다.</Gun_20mmAutocannonTurret.description>
+  <SixPounderShellAP.label>6파운더 MK-8T 피모철갑탄</SixPounderShellAP.label>
+  <SixPounderShellAP.description>이 탄약을 사용하는 포탑: 6파운더 포</SixPounderShellAP.description>
+  <Turret_6PdrCannon.label>6파운더(57mm) 포</Turret_6PdrCannon.label>
+  <Turret_6PdrCannon.description>탄종: 57mm MK-8T 철갑탄\n최소사거리: 3미터, 최대사거리: 70미터\n사격방식: 단발 사격, 재장전 시간 4초\n파괴될 때 폭발하지 않음.</Turret_6PdrCannon.description>
+  <Turret_6PdrCannon_Blueprint.label>6파운더(57mm) 포 (청사진)</Turret_6PdrCannon_Blueprint.label>
+  <Turret_6PdrCannon_Frame.label>6파운더(57mm) 포 (건설 중)</Turret_6PdrCannon_Frame.label>
+  <Turret_6PdrCannon_Frame.description>탄종: 57mm MK-8T 철갑탄\n최소사거리: 3미터, 최대사거리: 70미터\n사격방식: 단발 사격, 재장전 시간 4초\n파괴될 때 폭발하지 않음.</Turret_6PdrCannon_Frame.description>
+  <OneHundredFiftyShell.label>15cm SprGr 고폭탄</OneHundredFiftyShell.label>
+  <OneHundredFiftyShell.description>이 탄약을 사용하는 포탑: 15cm KC/36 함포</OneHundredFiftyShell.description>
+  <Turret_150mmCannon.label>15cm KC/36 함포</Turret_150mmCannon.label>
+  <Turret_150mmCannon.description>유인 수동장전식 15cm KC/36 함포\n탄종: 15cm SprGr 고폭탄\n최소사거리: 20미터, 최대사거리: 180미터\n사격방식: 단발 사격, 재장전 시간 15초\n소비 전력: 300W\n벽을 넘어 사격 가능, 지붕 아래 설치할 수 없습니다.\n파괴될 때 3블록 반경으로 폭발함.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_150mmCannon.description>
+  <Turret_150mmCannon_Blueprint.label>15cm KC/36 함포 (청사진)</Turret_150mmCannon_Blueprint.label>
+  <Turret_150mmCannon_Frame.label>15cm KC/36 함포 (건설 중)</Turret_150mmCannon_Frame.label>
+  <Turret_150mmCannon_Frame.description>유인 수동장전식 15cm KC/36 함포\n탄종: 15cm SprGr 고폭탄\n최소사거리: 20미터, 최대사거리: 180미터\n사격방식: 단발 사격, 재장전 시간 15초\n소비 전력: 300W\n벽을 넘어 사격 가능, 지붕 아래 설치할 수 없습니다.\n파괴될 때 3블록 반경으로 폭발함.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_150mmCannon_Frame.description>
+  <NinePointTwoInchShellHE.label>9.2 Inch(288mm) Mk.I 고폭탄</NinePointTwoInchShellHE.label>
+  <NinePointTwoInchShellHE.description>이 탄약을 사용하는 포탑: BL 9.2인치(288mm) 곡사포</NinePointTwoInchShellHE.description>
+  <Turret_288mmHowitzer.label>9.2 Inch(288mm) Mk.I 곡사포</Turret_288mmHowitzer.label>
+  <Turret_288mmHowitzer.description>탄종: 9.2인치(288mm) Mk.I 고폭탄(폭발 반경 6미터)\n최소사거리: 20미터, 최대사거리: 250미터\n사격방식: 단발사격, 재장전 시간 50초\n벽을 넘어 사격할 수 있음.\n파괴될 때 2블록 반경의 폭발이 일어남</Turret_288mmHowitzer.description>
+  <Turret_288mmHowitzer_Blueprint.label>9.2 Inch(288mm) Mk.I 곡사포 (청사진)</Turret_288mmHowitzer_Blueprint.label>
+  <Turret_288mmHowitzer_Frame.label>9.2 Inch(288mm) Mk.I 곡사포 (건설 중)</Turret_288mmHowitzer_Frame.label>
+  <Turret_288mmHowitzer_Frame.description>탄종: 9.2인치(288mm) Mk.I 고폭탄(폭발 반경 6미터)\n최소사거리: 20미터, 최대사거리: 250미터\n사격방식: 단발사격, 재장전 시간 50초\n벽을 넘어 사격할 수 있음.\n파괴될 때 2블록 반경의 폭발이 일어남</Turret_288mmHowitzer_Frame.description>
+  <BoforsClip.label>4발들이 40mm 철갑탄 클립</BoforsClip.label>
+  <BoforsClip.description>이 탄약을 사용하는 포탑: Flak 28 보포스 대공기관포</BoforsClip.description>
+  <Bullet_40mmAutocannonTurret.label>4발들이 40mm 철갑탄 클립</Bullet_40mmAutocannonTurret.label>
+  <Gun_40mmAutocannonTurret.label>포탑 총</Gun_40mmAutocannonTurret.label>
+  <Gun_40mmAutocannonTurret.description>이걸 보게 된다면 버그 걸린 것입니다.</Gun_40mmAutocannonTurret.description>
+  <SeventyFiveShellAP.label>75mm PzGr 39 철갑유탄</SeventyFiveShellAP.label>
+  <SeventyFiveShellAP.description>이 탄약을 사용하는 포탑: Pak 40 대전차포</SeventyFiveShellAP.description>
+  <Turret_75mmCannon.label>75mm Pak 40 대전차포</Turret_75mmCannon.label>
+  <Turret_75mmCannon.description>탄종: 75mm PzGr 39 철갑유탄\n최소사거리: 3미터, 최대사거리: 90미터\n사격방식: 단발사격, 재장전 시간 5초\n파괴될 때 폭발하지 않음.</Turret_75mmCannon.description>
+  <Turret_75mmCannon_Blueprint.label>75mm Pak 40 (청사진)</Turret_75mmCannon_Blueprint.label>
+  <Turret_75mmCannon_Blueprint_Install.label>75mm Pak 40 (청사진)</Turret_75mmCannon_Blueprint_Install.label>
+  <Turret_75mmCannon_Frame.label>75mm Pak 40 (건설 중)</Turret_75mmCannon_Frame.label>
+  <Turret_75mmCannon_Frame.description>탄종: 75mm PzGr 39 철갑유탄\n최소사거리: 3미터, 최대사거리: 90미터\n사격방식: 단발사격, 재장전 시간 5초\n파괴될 때 폭발하지 않음.</Turret_75mmCannon_Frame.description>
+  <JOnetwentysevenShell.label>127mm 1식 고폭탄</JOnetwentysevenShell.label>
+  <JOnetwentysevenShell.description>이 탄약을 사용하는 포탑: 5식 12.7cm 연장포</JOnetwentysevenShell.description>
+  <Bullet_Twin127mmNavalgunTurret.label>127mm 1식 고폭탄</Bullet_Twin127mmNavalgunTurret.label>
+  <RardenShell.label>30mm HS831A 철갑탄</RardenShell.label>
+  <RardenShell.description>이 탄약을 사용하는 포탑: L21A1 RARDEN 기관포</RardenShell.description>
+  <Bullet_30mm_AP.label>30mm HS831A 철갑탄</Bullet_30mm_AP.label>
+  <Turret_RARDEN_Autocannon.label>L21A1 RARDEN 기관포</Turret_RARDEN_Autocannon.label>
+  <Turret_RARDEN_Autocannon.description>탄종: 30mm HS831A 철갑탄\n최소사거리: 3미터, 최대사거리: 70미터\n사격방식: 분당 92발꼴로 6발 발사 후 1.5초간 냉각\n탄약 수용량: 3발들이 100클립\n파괴될 때 1블록 반경으로 폭발</Turret_RARDEN_Autocannon.description>
+  <Turret_RARDEN_Autocannon_Blueprint.label>L21A1 RARDEN (청사진)</Turret_RARDEN_Autocannon_Blueprint.label>
+  <Turret_RARDEN_Autocannon_Frame.label>L21A1 RARDEN (건설 중)</Turret_RARDEN_Autocannon_Frame.label>
+  <Turret_RARDEN_Autocannon_Frame.description>탄종: 30mm HS831A 철갑탄\n최소사거리: 3미터, 최대사거리: 70미터\n사격방식: 분당 92발꼴로 6발 발사 후 1.5초간 냉각\n탄약 수용량: 3발들이 100클립\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 기관포 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_RARDEN_Autocannon_Frame.description>
+  <TurretGun_RARDEN_Autocannon.label>포탑 총</TurretGun_RARDEN_Autocannon.label>
+  <TurretGun_RARDEN_Autocannon.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_RARDEN_Autocannon.description>
+  <SixHundredMilShell.label>600mm 콘크리트 파괴 고폭탄</SixHundredMilShell.label>
+  <SixHundredMilShell.description>이 탄약을 사용하는 포탑: 칼 박격포</SixHundredMilShell.description>
+  <Turret_600Howitzer.label>60cm 칼 자주박격포</Turret_600Howitzer.label>
+  <Turret_600Howitzer.description>탄종: 60cm 콘크리트 파괴 고폭탄(폭발 반경 8미터)\n최소사거리: 25미터, 최대사거리: 400미터\n사격방식: 단발사격, 재장전 시간 120초\n소비 전력: 500W\n벽을 넘어 사격할 수 있음.\n파괴될 때 4블록 반경의 폭발이 일어남</Turret_600Howitzer.description>
+  <Turret_600Howitzer_Blueprint.label>60cm 칼 자주박격포 (청사진)</Turret_600Howitzer_Blueprint.label>
+  <Turret_600Howitzer_Frame.label>60cm 칼 자주박격포 (건설 중)</Turret_600Howitzer_Frame.label>
+  <Turret_600Howitzer_Frame.description>탄종: 60cm 콘크리트 파괴 고폭탄(폭발 반경 8미터)\n최소사거리: 25미터, 최대사거리: 400미터\n사격방식: 단발사격, 재장전 시간 120초\n소비 전력: 500W\n벽을 넘어 사격할 수 있음.\n파괴될 때 4블록 반경의 폭발이 일어남</Turret_600Howitzer_Frame.description>
+  <EightyEightShellAP.label>88mm PzGr 39 철갑유탄</EightyEightShellAP.label>
+  <EightyEightShellAP.description>이 탄약을 사용하는 포탑: Flak 41 대공포</EightyEightShellAP.description>
+  <Turret_88mmCannon.label>88mm Flak 41 대공포</Turret_88mmCannon.label>
+  <Turret_88mmCannon.description>유인 88mm 대공포\n탄종: 88mm Pzgr 39 철갑유탄\n최소사거리: 3미터, 최대사거리: 100미터\n사격방식: 단발사격, 재장전 시간 10초\n파괴될 때 폭발하지 않음.</Turret_88mmCannon.description>
+  <Turret_88mmCannon_Blueprint.label>88mm Flak 41 (청사진)</Turret_88mmCannon_Blueprint.label>
+  <Turret_88mmCannon_Frame.label>88mm Flak 41 (건설 중)</Turret_88mmCannon_Frame.label>
+  <Turret_88mmCannon_Frame.description>유인 88mm 대공포\n탄종: 88mm Pzgr 39 철갑유탄\n최소사거리: 3미터, 최대사거리: 100미터\n사격방식: 단발사격, 재장전 시간 10초\n파괴될 때 폭발하지 않음.</Turret_88mmCannon_Frame.description>
+  <Twin127mmNavalgun.label>5식 12.7cm 함포</Twin127mmNavalgun.label>
+  <Twin127mmNavalgun.description>유인 5식 12.7mm 2연장 함포\n탄종: 88mm Pzgr 39 철갑유탄\n최소사거리: 15미터, 최대사거리: 250미터\n사격방식: 2발 일제사격, 재장전 시간 14초\n탄약 수용량: 80발(내부 탄약고)\n소비 전력: 1900W\n벽을 넘어 사격 가능, 지붕 아래 설치할 수 없습니다.\n파괴될 때 4블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Twin127mmNavalgun.description>
+  <Twin127mmNavalgun_Blueprint.label>5식 12.7cm 함포(청사진)</Twin127mmNavalgun_Blueprint.label>
+  <Twin127mmNavalgun_Frame.label>5식 12.7cm 함포(건설 중)</Twin127mmNavalgun_Frame.label>
+  <Twin127mmNavalgun_Frame.description>유인 5식 12.7mm 2연장 함포\n탄종: 88mm Pzgr 39 철갑유탄\n최소사거리: 15미터, 최대사거리: 250미터\n사격방식: 2발 일제사격, 재장전 시간 14초\n탄약 수용량: 80발(내부 탄약고)\n소비 전력: 1900W\n벽을 넘어 사격 가능, 지붕 아래 설치할 수 없습니다.\n파괴될 때 4블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Twin127mmNavalgun_Frame.description>
+  <Gun_Twin127mmNavalgunTurret.label>대형 포탑</Gun_Twin127mmNavalgunTurret.label>
+  <Gun_Twin127mmNavalgunTurret.description>자동 장전이 가능한 대구경 기관포가 장착된 포탑입니다.</Gun_Twin127mmNavalgunTurret.description>
+  <OneHundredShellAP.label>100mm BR-412D 철갑탄</OneHundredShellAP.label>
+  <OneHundredShellAP.description>이 탄약을 사용하는 포탑: BS-3, T-54</OneHundredShellAP.description>
+  <Bullet_100mm_AP.label>100mm BR-412D 철갑탄</Bullet_100mm_AP.label>
+  <Turret_BS3_Cannon.label>100mm BS-3 대전차포</Turret_BS3_Cannon.label>
+  <Turret_BS3_Cannon.description>탄종: 100mm BR-412D 철갑탄\n최소사거리: 3미터, 최대사거리: 100미터\n사격방식: 단발사격, 재장전 시간 10초</Turret_BS3_Cannon.description>
+  <Turret_BS3_Cannon_Blueprint.label>100mm BS-3 (청사진)</Turret_BS3_Cannon_Blueprint.label>
+  <Turret_BS3_Cannon_Blueprint_Install.label>100mm BS-3 (청사진)</Turret_BS3_Cannon_Blueprint_Install.label>
+  <Turret_BS3_Cannon_Frame.label>100mm BS-3 (건설 중)</Turret_BS3_Cannon_Frame.label>
+  <Turret_BS3_Cannon_Frame.description>탄종: 100mm BR-412D 철갑탄\n최소사거리: 3미터, 최대사거리: 100미터\n사격방식: 단발사격, 재장전 시간 10초</Turret_BS3_Cannon_Frame.description>
+  <TurretGun_BS3_Cannon.label>포탑 총</TurretGun_BS3_Cannon.label>
+  <TurretGun_BS3_Cannon.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_BS3_Cannon.description>
+  <GvozdikaShell.label>122mm OF-462 고폭탄</GvozdikaShell.label>
+  <GvozdikaShell.description>이 탄약을 사용하는 포탑: 2S1 그보즈디카 포탑</GvozdikaShell.description>
+  <Bullet_OF-462122mm_HE.label>122mm OF-462 고폭탄</Bullet_OF-462122mm_HE.label>
+  <Turret_Gvozdika_Howitzer.label>2S1 그보즈디카 포탑</Turret_Gvozdika_Howitzer.label>
+  <Turret_Gvozdika_Howitzer.description>탄종: 122mm OF-462 고폭탄(폭발 반경 2미터)\n최소사거리: 20미터, 최대사거리: 150미터\n사격방식: 단발사격, 재장전 시간 15초\n탄약 수용량: 40발\n파괴될 때 2블록 반경의 폭발이 일어남</Turret_Gvozdika_Howitzer.description>
+  <Turret_Gvozdika_Howitzer_Blueprint.label>2S1 그보즈디카 포탑 (청사진)</Turret_Gvozdika_Howitzer_Blueprint.label>
+  <Turret_Gvozdika_Howitzer_Frame.label>2S1 그보즈디카 포탑 (건설 중)</Turret_Gvozdika_Howitzer_Frame.label>
+  <Turret_Gvozdika_Howitzer_Frame.description>탄종: 122mm OF-462 고폭탄(폭발 반경 2미터)\n최소사거리: 20미터, 최대사거리: 150미터\n사격방식: 단발사격, 재장전 시간 15초\n탄약 수용량: 40발\n파괴될 때 2블록 반경의 폭발이 일어남</Turret_Gvozdika_Howitzer_Frame.description>
+  <TurretGun_Gvozdika_Howitzer.label>포탑 총</TurretGun_Gvozdika_Howitzer.label>
+  <TurretGun_Gvozdika_Howitzer.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_Gvozdika_Howitzer.description>
+  <Turret_KC36T_Navalgun.label>15cm KC/36T 함포</Turret_KC36T_Navalgun.label>
+  <Turret_KC36T_Navalgun.description>유인 15cm KC/36T 2연장 함포\n탄종: 15cm SprGr 고폭탄\n최소사거리: 20미터, 최대사거리: 300미터\n사격방식: 2발 일제사격, 재장전 시간 18초\n탄약 수용량: 75발(내부 탄약고)\n소비 전력: 2000W\n벽을 넘어 사격 가능, 지붕 아래 설치할 수 없습니다.\n파괴될 때 4블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_KC36T_Navalgun.description>
+  <Turret_KC36T_Navalgun_Blueprint.label>15cm KC/36T 함포 (청사진)</Turret_KC36T_Navalgun_Blueprint.label>
+  <Turret_KC36T_Navalgun_Frame.label>15cm KC/36T 함포 (건설 중)</Turret_KC36T_Navalgun_Frame.label>
+  <Turret_KC36T_Navalgun_Frame.description>유인 15cm KC/36T 2연장 함포\n탄종: 15cm SprGr 고폭탄\n최소사거리: 20미터, 최대사거리: 300미터\n사격방식: 2발 일제사격, 재장전 시간 18초\n탄약 수용량: 75발(내부 탄약고)\n소비 전력: 2000W\n벽을 넘어 사격 가능, 지붕 아래 설치할 수 없습니다.\n파괴될 때 4블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_KC36T_Navalgun_Frame.description>
+  <TurretGun_KC36T_Navalgun.label>포탑 총</TurretGun_KC36T_Navalgun.label>
+  <TurretGun_KC36T_Navalgun.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_KC36T_Navalgun.description>
+  <KugelblitzShell.label>30mm SprGr 철갑탄</KugelblitzShell.label>
+  <KugelblitzShell.description>이 탄약을 사용하는 포탑: MK 103 2연장 대공기관포</KugelblitzShell.description>
+  <Bullet_Kugel30mm_AP.label>30mm SprGr 철갑탄</Bullet_Kugel30mm_AP.label>
+  <Turret_Kugelblitz_Autocannon.label>MK103 연장대공기관포</Turret_Kugelblitz_Autocannon.label>
+  <Turret_Kugelblitz_Autocannon.description>탄종: 30mm SprGr 철갑탄\n최소사거리: 3미터, 최대사거리: 70미터\n사격방식: 분당 300발꼴로 연사\n탄약 수용량: 200발\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Kugelblitz_Autocannon.description>
+  <Turret_Kugelblitz_Autocannon_Blueprint.label>MK103 연장대공기관포 (청사진)</Turret_Kugelblitz_Autocannon_Blueprint.label>
+  <Turret_Kugelblitz_Autocannon_Frame.label>MK103 연장대공기관포 (건설 중)</Turret_Kugelblitz_Autocannon_Frame.label>
+  <Turret_Kugelblitz_Autocannon_Frame.description>탄종: 30mm SprGr 철갑탄\n최소사거리: 3미터, 최대사거리: 70미터\n사격방식: 분당 300발꼴로 연사\n탄약 수용량: 200발\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Kugelblitz_Autocannon_Frame.description>
+  <TurretGun_Kugelblitz_Autocannon.label>포탑 총</TurretGun_Kugelblitz_Autocannon.label>
+  <TurretGun_Kugelblitz_Autocannon.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_Kugelblitz_Autocannon.description>
+  <OneTwentyEightShellAP.label>128mm PzGr 철갑유탄</OneTwentyEightShellAP.label>
+  <OneTwentyEightShellAP.description>128mm 철갑탄.</OneTwentyEightShellAP.description>
+  <Bullet_128mm_AP.label>128mm 철갑탄</Bullet_128mm_AP.label>
+  <Turret_Pak44_Cannon.label>128mm Pak 44 대전차포</Turret_Pak44_Cannon.label>
+  <Turret_Pak44_Cannon.description>탄종: 128mm Pzgr 철갑유탄\n최소사거리: 3미터, 최대사거리: 110미터\n사격방식: 단발사격, 재장전 시간 11초\n탄약 수용량: 80발(내부 탄약고)\n지붕 아래 설치할 수 없습니다.</Turret_Pak44_Cannon.description>
+  <Turret_Pak44_Cannon_Blueprint.label>128mm Pak 44 대전차포 (청사진)</Turret_Pak44_Cannon_Blueprint.label>
+  <Turret_Pak44_Cannon_Blueprint_Install.label>128mm Pak 44 대전차포 (청사진)</Turret_Pak44_Cannon_Blueprint_Install.label>
+  <Turret_Pak44_Cannon_Frame.label>128mm Pak 44 대전차포 (건설 중)</Turret_Pak44_Cannon_Frame.label>
+  <Turret_Pak44_Cannon_Frame.description>탄종: 128mm Pzgr 철갑유탄\n최소사거리: 3미터, 최대사거리: 110미터\n사격방식: 단발사격, 재장전 시간 11초\n탄약 수용량: 80발(내부 탄약고)\n지붕 아래 설치할 수 없습니다.</Turret_Pak44_Cannon_Frame.description>
+  <TurretGun_Pak44_Cannon.label>포탑 총</TurretGun_Pak44_Cannon.label>
+  <TurretGun_Pak44_Cannon.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_Pak44_Cannon.description>
+  <AkatsiyaShell.label>152mm OF-540 고폭탄</AkatsiyaShell.label>
+  <AkatsiyaShell.description>이 탄약을 사용하는 포탑: 2S3 Msta 자주포</AkatsiyaShell.description>
+  <Bullet_OF-540152mm_HE.label>152mm OF-540 고폭탄</Bullet_OF-540152mm_HE.label>
+  <Turret_Akatsiya_Howitzer.label>2S3 아카치야 자주포</Turret_Akatsiya_Howitzer.label>
+  <Turret_Akatsiya_Howitzer.description>탄종: 152mm OF-540 고폭탄\n최소사거리: 20미터, 최대사거리: 180미터\n사격방식: 단발 사격, 재장전 시간 15초\n탄약 수용량: 46발\n파괴될 때 2블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Akatsiya_Howitzer.description>
+  <Turret_Akatsiya_Howitzer_Blueprint.label>2S3 아카치야 자주포 (청사진)</Turret_Akatsiya_Howitzer_Blueprint.label>
+  <Turret_Akatsiya_Howitzer_Frame.label>2S3 아카치야 자주포 (건설 중)</Turret_Akatsiya_Howitzer_Frame.label>
+  <Turret_Akatsiya_Howitzer_Frame.description>탄종: 152mm OF-540 고폭탄\n최소사거리: 20미터, 최대사거리: 180미터\n사격방식: 단발 사격, 재장전 시간 15초\n탄약 수용량: 46발\n파괴될 때 2블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Akatsiya_Howitzer_Frame.description>
+  <TurretGun_Akatsiya_Howitzer.label>포탑 총</TurretGun_Akatsiya_Howitzer.label>
+  <TurretGun_Akatsiya_Howitzer.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_Akatsiya_Howitzer.description>
+  <TwentyThreeShellHE.label>20.3cm SprGr 고폭탄</TwentyThreeShellHE.label>
+  <TwentyThreeShellHE.description>이 탄약을 사용하는 포탑: 20.3cm SK C/34 함포</TwentyThreeShellHE.description>
+  <Bullet_203SprGr203mm_HE.label>20.3cm SprGr 고폭탄</Bullet_203SprGr203mm_HE.label>
+  <Turret_SKC34_Navalgun.label>20.3cm SK C/34 함포</Turret_SKC34_Navalgun.label>
+  <Turret_SKC34_Navalgun.description>유인 203mm SK C/34 2연장 함포\n탄종: 20.3cm SprGr 고폭탄\n최소사거리: 15미터, 최대사거리: 350미터\n사격방식: 2발 일제사격, 재장전 시간 19초\n탄약 수용량: 55발(내부 탄약고)\n소비 전력: 2200W\n벽을 넘어 사격 가능, 지붕 아래 설치할 수 없습니다.\n파괴될 때 5블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_SKC34_Navalgun.description>
+  <Turret_SKC34_Navalgun_Blueprint.label>20.3cm SK C/34 (청사진)</Turret_SKC34_Navalgun_Blueprint.label>
+  <Turret_SKC34_Navalgun_Frame.label>20.3cm SK C/34 함포 (건설 중)</Turret_SKC34_Navalgun_Frame.label>
+  <Turret_SKC34_Navalgun_Frame.description>유인 203mm SK C/34 2연장 함포\n탄종: 20.3cm SprGr 고폭탄\n최소사거리: 15미터, 최대사거리: 350미터\n사격방식: 2발 일제사격, 재장전 시간 19초\n탄약 수용량: 55발(내부 탄약고)\n소비 전력: 2200W\n벽을 넘어 사격 가능, 지붕 아래 설치할 수 없습니다.\n파괴될 때 5블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_SKC34_Navalgun_Frame.description>
+  <TurretGun_SKC34_Navalgun.label>포탑 총</TurretGun_SKC34_Navalgun.label>
+  <TurretGun_SKC34_Navalgun.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_SKC34_Navalgun.description>
+  <LongFortyMilShell.label>40mm M811 철갑탄</LongFortyMilShell.label>
+  <LongFortyMilShell.description>이 탄약을 사용하는 포탑: M247 대공기관포</LongFortyMilShell.description>
+  <Bullet_Long40mm_AP.label>40mm M811 철갑탄</Bullet_Long40mm_AP.label>
+  <Turret_M247_Autocannon.label>M247 포탑</Turret_M247_Autocannon.label>
+  <Turret_M247_Autocannon.description>탄종: 40mm M811 철갑탄\n최소사거리: 4미터, 최대사거리: 80미터\n사격방식: 분당 600발꼴로 발사\n탄약 수용량: 580발\n전력 사용량: 200W\n지붕 아래 배치 불가\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 기관포 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_M247_Autocannon.description>
+  <Turret_M247_Autocannon_Blueprint.label>M247 포탑 (청사진)</Turret_M247_Autocannon_Blueprint.label>
+  <Turret_M247_Autocannon_Frame.label>M247 포탑 (건설 중)</Turret_M247_Autocannon_Frame.label>
+  <Turret_M247_Autocannon_Frame.description>탄종: 40mm M811 철갑탄\n최소사거리: 4미터, 최대사거리: 80미터\n사격방식: 분당 600발꼴로 발사\n탄약 수용량: 580발\n전력 사용량: 200W\n지붕 아래 배치 불가\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 기관포 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_M247_Autocannon_Frame.description>
+  <TurretGun_M247_Autocannon.label>포탑 총</TurretGun_M247_Autocannon.label>
+  <TurretGun_M247_Autocannon.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_M247_Autocannon.description>
+  <MarkSixtyFour.label>127mm Mk.64 철갑탄</MarkSixtyFour.label>
+  <MarkSixtyFour.description>이 탄약을 사용하는 포탑: 마크 16, 마크 45, 오토브레다 127/54 함포</MarkSixtyFour.description>
+  <Bullet_MK64127mm_AP.label>127mm Mk.64 철갑탄</Bullet_MK64127mm_AP.label>
+  <Turret_Mark16_Navalgun.label>5인치 54구경장 (12.7 cm) 마크 16 함포</Turret_Mark16_Navalgun.label>
+  <Turret_Mark16_Navalgun.description>유인 127mm Mark 16 함포\n탄종: 127mm Mk.64 철갑탄\n최소사거리: 15미터, 최대사거리: 150미터\n사격방식: 단발 사격, 재장전 시간 4초\n탄약 수용량: 50발(내부 탄약고)\n소비 전력: 1100W\n벽을 넘어 사격 가능, 지붕 아래 설치할 수 없습니다.\n파괴될 때 2블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Mark16_Navalgun.description>
+  <Turret_Mark16_Navalgun_Blueprint.label>5"/54 (12.7 cm) Mark 16 함포 (청사진)</Turret_Mark16_Navalgun_Blueprint.label>
+  <Turret_Mark16_Navalgun_Frame.label>5"/54 (12.7 cm) Mark 16 함포 (건설 중)</Turret_Mark16_Navalgun_Frame.label>
+  <Turret_Mark16_Navalgun_Frame.description>유인 127mm Mark 16 함포\n탄종: 127mm Mk.64 철갑탄\n최소사거리: 15미터, 최대사거리: 150미터\n사격방식: 단발 사격, 재장전 시간 4초\n탄약 수용량: 50발(내부 탄약고)\n소비 전력: 1100W\n벽을 넘어 사격 가능, 지붕 아래 설치할 수 없습니다.\n파괴될 때 2블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Mark16_Navalgun_Frame.description>
+  <TurretGun_Mark16_Navalgun.label>포탑 총</TurretGun_Mark16_Navalgun.label>
+  <TurretGun_Mark16_Navalgun.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_Mark16_Navalgun.description>
+  <Turret_Msta_Howitzer.label>2S19 Msta 자주포</Turret_Msta_Howitzer.label>
+  <Turret_Msta_Howitzer.description>탄종: 152mm OF-540 고폭탄(폭발 반경 4미터)\n최소사거리: 20미터, 최대사거리: 220미터\n사격방식: 단발 사격, 재장전 시간 9초\n탄약 수용량: 50발\n소비 전력: 500W\n파괴될 때 2블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Msta_Howitzer.description>
+  <Turret_Msta_Howitzer_Blueprint.label>2S19 Msta (청사진)</Turret_Msta_Howitzer_Blueprint.label>
+  <Turret_Msta_Howitzer_Frame.label>2S19 Msta (건설 중)</Turret_Msta_Howitzer_Frame.label>
+  <Turret_Msta_Howitzer_Frame.description>탄종: 152mm OF-540 고폭탄(폭발 반경 4미터)\n최소사거리: 20미터, 최대사거리: 220미터\n사격방식: 단발 사격, 재장전 시간 9초\n탄약 수용량: 50발\n소비 전력: 500W\n파괴될 때 2블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Msta_Howitzer_Frame.description>
+  <TurretGun_Msta_Howitzer.label>포탑 총</TurretGun_Msta_Howitzer.label>
+  <TurretGun_Msta_Howitzer.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_Msta_Howitzer.description>
+  <OneFiftyFiveShell.label>155mm M795 고폭탄</OneFiftyFiveShell.label>
+  <OneFiftyFiveShell.description>이 탄약을 사용하는 포탑: GCT 155cm AUF1 자주포</OneFiftyFiveShell.description>
+  <Bullet_M795155mm_HE.label>155mm M795 고폭탄</Bullet_M795155mm_HE.label>
+  <FlakThirtySeven.label>37mm PzGr 철갑탄</FlakThirtySeven.label>
+  <FlakThirtySeven.description>이 탄약을 사용하는 포탑: Flak M42 대공포</FlakThirtySeven.description>
+  <Bullet_37mmAutocannonTurret.label>37mm PzGr 철갑탄</Bullet_37mmAutocannonTurret.label>
+  <Gun_37mmAutocannonTurret.label>포탑 총</Gun_37mmAutocannonTurret.label>
+  <Gun_37mmAutocannonTurret.description>이걸 보게 된다면 버그 걸린 것입니다.</Gun_37mmAutocannonTurret.description>
+  <NinetyShellAP.label>90mm M82 피모철갑탄</NinetyShellAP.label>
+  <NinetyShellAP.description>90mm 철갑탄.</NinetyShellAP.description>
+  <Bullet_90mm_AP.label>90mm M82 피모철갑탄</Bullet_90mm_AP.label>
+  <Turret_M26_Cannon.label>M26 퍼싱 포탑</Turret_M26_Cannon.label>
+  <Turret_M26_Cannon.description>탄종: 90mm M82 피모철갑탄\n최소사거리: 4미터, 최대사거리: 90미터\n사격방식: 단발 사격, 재장전 시간 8초\n탄약 수용량: 70발\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_M26_Cannon.description>
+  <Turret_M26_Cannon_Blueprint.label>M26 퍼싱 포탑 (청사진)</Turret_M26_Cannon_Blueprint.label>
+  <Turret_M26_Cannon_Frame.label>M26 퍼싱 포탑 (건설 중)</Turret_M26_Cannon_Frame.label>
+  <Turret_M26_Cannon_Frame.description>탄종: 90mm M82 피모철갑탄\n최소사거리: 4미터, 최대사거리: 90미터\n사격방식: 단발 사격, 재장전 시간 8초\n탄약 수용량: 70발\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_M26_Cannon_Frame.description>
+  <TurretGun_M26_Cannon.label>포탑 총</TurretGun_M26_Cannon.label>
+  <TurretGun_M26_Cannon.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_M26_Cannon.description>
+  <Turret_T54_Cannon.label>T-54 포탑</Turret_T54_Cannon.label>
+  <Turret_T54_Cannon.description>탄종: 100mm BR-412 철갑탄\n최소사거리: 4미터, 최대사거리: 95미터\n사격방식: 단발 사격, 재장전 시간 7.1초\n탄약 수용량: 34발\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_T54_Cannon.description>
+  <Turret_T54_Cannon_Blueprint.label>T-54 포탑 (청사진)</Turret_T54_Cannon_Blueprint.label>
+  <Turret_T54_Cannon_Frame.label>T-54 포탑 (건설 중)</Turret_T54_Cannon_Frame.label>
+  <Turret_T54_Cannon_Frame.description>탄종: 100mm BR-412 철갑탄\n최소사거리: 4미터, 최대사거리: 95미터\n사격방식: 단발 사격, 재장전 시간 7.1초\n탄약 수용량: 34발\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_T54_Cannon_Frame.description>
+  <TurretGun_T54_Cannon.label>포탑 총</TurretGun_T54_Cannon.label>
+  <TurretGun_T54_Cannon.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_T54_Cannon.description>
+  <OneOSixShellHEAT.label>2x M344 성형작약탄</OneOSixShellHEAT.label>
+  <OneOSixShellHEAT.description>이 탄약을 사용하는 포탑: M40 무반동총</OneOSixShellHEAT.description>
+  <Bullet_106mm_HEAT.label>2x M344 성형작약탄</Bullet_106mm_HEAT.label>
+  <Turret_Mark45_Navalgun.label>5인치 54구경장 (12.7 cm) 마크 45 함포</Turret_Mark45_Navalgun.label>
+  <Turret_Mark45_Navalgun.description>유인 127mm Mark 45 함포. Mark 16 함포보다 정밀합니다.\n탄종: 127mm Mk.64 철갑탄\n최소사거리: 15미터, 최대사거리: 200미터\n사격방식: 단발 사격, 재장전 시간 3초\n탄약 수용량: 50발(내부 탄약고)\n소비 전력: 1200W\n벽을 넘어 사격 불가, 지붕 아래 설치할 수 없습니다.\n파괴될 때 2블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Mark45_Navalgun.description>
+  <Turret_Mark45_Navalgun_Blueprint.label>5"/54 (12.7 cm) Mark 45 함포 (청사진)</Turret_Mark45_Navalgun_Blueprint.label>
+  <Turret_Mark45_Navalgun_Frame.label>5"/54 (12.7 cm) Mark 45 함포 (건설 중)</Turret_Mark45_Navalgun_Frame.label>
+  <Turret_Mark45_Navalgun_Frame.description>유인 127mm Mark 45 함포. Mark 16 함포보다 정밀합니다.\n탄종: 127mm Mk.64 철갑탄\n최소사거리: 15미터, 최대사거리: 200미터\n사격방식: 단발 사격, 재장전 시간 3초\n탄약 수용량: 50발(내부 탄약고)\n소비 전력: 1200W\n벽을 넘어 사격 불가, 지붕 아래 설치할 수 없습니다.\n파괴될 때 2블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Mark45_Navalgun_Frame.description>
+  <TurretGun_Mark45_Navalgun.label>포탑 총</TurretGun_Mark45_Navalgun.label>
+  <TurretGun_Mark45_Navalgun.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_Mark45_Navalgun.description>
+  <Turret_GCT_Howitzer.label>GCT 155mm AUF1 자주포</Turret_GCT_Howitzer.label>
+  <Turret_GCT_Howitzer.description>탄종: 155mm M795 고폭탄(폭발 반경 5미터)\n최소사거리: 20미터, 최대사거리: 300미터\n사격방식: 분당 12발꼴로 3발 사격, 이후 냉각 9초\n탄약 수용량: 42발\n소비 전력: 1000W\n파괴될 때 2블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_GCT_Howitzer.description>
+  <Turret_GCT_Howitzer_Blueprint.label>GCT 155mm AUF1 자주포 (청사진)</Turret_GCT_Howitzer_Blueprint.label>
+  <Turret_GCT_Howitzer_Frame.label>GCT 155mm AUF1 자주포 (건설 중)</Turret_GCT_Howitzer_Frame.label>
+  <Turret_GCT_Howitzer_Frame.description>탄종: 155mm M795 고폭탄(폭발 반경 5미터)\n최소사거리: 20미터, 최대사거리: 300미터\n사격방식: 분당 12발꼴로 3발 사격, 이후 냉각 9초\n탄약 수용량: 42발\n소비 전력: 1000W\n파괴될 때 2블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_GCT_Howitzer_Frame.description>
+  <TurretGun_GCT_Howitzer.label>포탑 총</TurretGun_GCT_Howitzer.label>
+  <TurretGun_GCT_Howitzer.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_GCT_Howitzer.description>
+  <RheinmetallTwentyMilShell.label>20mm HS827 철갑탄</RheinmetallTwentyMilShell.label>
+  <RheinmetallTwentyMilShell.description>이 탄약을 사용하는 포탑: 라인메탈 Mk.20 RH-202 기관포</RheinmetallTwentyMilShell.description>
+  <Bullet_20mm_AP.label>20mm HS827 철갑탄</Bullet_20mm_AP.label>
+  <Turret_RH202_Autocannon.label>라인메탈 Mk 20 RH-202 기관포</Turret_RH202_Autocannon.label>
+  <Turret_RH202_Autocannon.description>탄종: 20mm HS827 철갑탄\n최소사거리: 3미터, 최대사거리: 70미터\n사격방식: 분당 720발꼴로 15발 발사 후 1.5초간 냉각\n탄약 수용량: 1250발\n전력 사용량: 500W\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_RH202_Autocannon.description>
+  <Turret_RH202_Autocannon_Blueprint.label>라인메탈 Mk 20 RH-202 기관포 (청사진)</Turret_RH202_Autocannon_Blueprint.label>
+  <Turret_RH202_Autocannon_Frame.label>라인메탈 Mk 20 RH-202 기관포 (건설 중)</Turret_RH202_Autocannon_Frame.label>
+  <Turret_RH202_Autocannon_Frame.description>탄종: 20mm HS827 철갑탄\n최소사거리: 3미터, 최대사거리: 70미터\n사격방식: 분당 720발꼴로 15발 발사 후 1.5초간 냉각\n탄약 수용량: 1250발\n전력 사용량: 500W\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_RH202_Autocannon_Frame.description>
+  <TurretGun_RH202_Autocannon.label>포탑 총</TurretGun_RH202_Autocannon.label>
+  <TurretGun_RH202_Autocannon.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_RH202_Autocannon.description>
+  <OneOFiveShellAP.label>105mm DM23 날개안정분리철갑탄</OneOFiveShellAP.label>
+  <OneOFiveShellAP.description>이 탄약을 사용하는 포탑: 레오파르트 1A5</OneOFiveShellAP.description>
+  <Bullet_105mm_APFSDS.label>105mm DM23 날개안정분리철갑탄</Bullet_105mm_APFSDS.label>
+  <Turret_M40_Cannon.label>M40 무반동총</Turret_M40_Cannon.label>
+  <Turret_M40_Cannon.description>탄종: 106mm M344 성형작약탄\n최소사거리: 4미터, 최대사거리: 100미터\n사격방식: 2발 일제사격, 재장전 시간 5초</Turret_M40_Cannon.description>
+  <Turret_M40_Cannon_Blueprint.label>M40 무반동총 (청사진)</Turret_M40_Cannon_Blueprint.label>
+  <Turret_M40_Cannon_Frame.label>M40 무반동총 (건설 중)</Turret_M40_Cannon_Frame.label>
+  <Turret_M40_Cannon_Frame.description>탄종: 106mm M344 성형작약탄\n최소사거리: 4미터, 최대사거리: 100미터\n사격방식: 2발 일제사격, 재장전 시간 5초</Turret_M40_Cannon_Frame.description>
+  <TurretGun_M40_Cannon.label>포탑 총</TurretGun_M40_Cannon.label>
+  <TurretGun_M40_Cannon.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_M40_Cannon.description>
+  <Turret_Otobreda127_Navalgun.label>오토브레다 127/54 컴팩트 함포</Turret_Otobreda127_Navalgun.label>
+  <Turret_Otobreda127_Navalgun.description>유인 127mm 오토브레다 컴팩트 함포\n탄종: 127mm Mk.64 철갑탄\n최소사거리: 10미터, 최대사거리: 200미터\n사격방식: 단발 사격, 재장전 시간 4초\n탄약 수용량: 85발(내부 탄약고)\n소비 전력: 1200W\n벽을 넘어 사격 가능, 지붕 아래 설치할 수 없습니다.\n파괴될 때 2블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Otobreda127_Navalgun.description>
+  <Turret_Otobreda127_Navalgun_Blueprint.label>오토브레다 127/54 컴팩트 (청사진)</Turret_Otobreda127_Navalgun_Blueprint.label>
+  <Turret_Otobreda127_Navalgun_Frame.label>오토브레다 127/54 컴팩트 (건설 중)</Turret_Otobreda127_Navalgun_Frame.label>
+  <Turret_Otobreda127_Navalgun_Frame.description>유인 127mm 오토브레다 컴팩트 함포\n탄종: 127mm Mk.64 철갑탄\n최소사거리: 10미터, 최대사거리: 200미터\n사격방식: 단발 사격, 재장전 시간 4초\n탄약 수용량: 85발(내부 탄약고)\n소비 전력: 1200W\n벽을 넘어 사격 가능, 지붕 아래 설치할 수 없습니다.\n파괴될 때 2블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Otobreda127_Navalgun_Frame.description>
+  <TurretGun_Otobreda127_Navalgun.label>포탑 총</TurretGun_Otobreda127_Navalgun.label>
+  <TurretGun_Otobreda127_Navalgun.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_Otobreda127_Navalgun.description>
+  <ShipunovShell.label>30mm 3UOF8 철갑탄</ShipunovShell.label>
+  <ShipunovShell.description>이 탄약을 사용하는 포탑: 시푸노프 2A42</ShipunovShell.description>
+  <Bullet_Shipunov30mm_AP.label>30mm 3UOF8 철갑탄</Bullet_Shipunov30mm_AP.label>
+  <Turret_Shipunov_Autocannon.label>시푸노프 2A42 기관포</Turret_Shipunov_Autocannon.label>
+  <Turret_Shipunov_Autocannon.description>탄종: 30mm 3UOF8 소이고폭탄\n최소사거리: 3미터, 최대사거리: 70미터\n사격방식: 분당 514발꼴로 8발 발사 후 1초간 냉각\n탄약 수용량: 500발\n전력 사용량: 100W\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 기관포 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Shipunov_Autocannon.description>
+  <Turret_Shipunov_Autocannon_Blueprint.label>시푸노프 2A42 기관포 (청사진)</Turret_Shipunov_Autocannon_Blueprint.label>
+  <Turret_Shipunov_Autocannon_Frame.label>시푸노프 2A42 기관포 (건설 중)</Turret_Shipunov_Autocannon_Frame.label>
+  <Turret_Shipunov_Autocannon_Frame.description>탄종: 30mm 3UOF8 소이고폭탄\n최소사거리: 3미터, 최대사거리: 70미터\n사격방식: 분당 514발꼴로 8발 발사 후 1초간 냉각\n탄약 수용량: 500발\n전력 사용량: 100W\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 기관포 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Shipunov_Autocannon_Frame.description>
+  <TurretGun_Shipunov_Autocannon.label>포탑 총</TurretGun_Shipunov_Autocannon.label>
+  <TurretGun_Shipunov_Autocannon.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_Shipunov_Autocannon.description>
+  <OneHundredmmShell.label>100mm OEA F1 철갑탄</OneHundredmmShell.label>
+  <OneHundredmmShell.description>이 탄약을 사용하는 포탑: Modele 53 함포</OneHundredmmShell.description>
+  <Bullet_100mmNavalgunTurret.label>100mm OEA F1 철갑탄</Bullet_100mmNavalgunTurret.label>
+  <Gun_100mmNavalgunTurret.label>대형 포탑</Gun_100mmNavalgunTurret.label>
+  <Gun_100mmNavalgunTurret.description>자동 장전이 가능한 대구경 기관포가 장착된 포탑입니다.</Gun_100mmNavalgunTurret.description>
+  <Turret_Leo1A5_Cannon.label>레오파르트 1A5 포탑</Turret_Leo1A5_Cannon.label>
+  <Turret_Leo1A5_Cannon.description>탄종: 105mm DM23 날개안정분리철갑탄\n최소사거리: 4미터, 최대사거리: 110미터\n사격방식: 단발 사격, 재장전 시간 6.5초\n탄약 수용량: 55발(내부 탄약고)\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Leo1A5_Cannon.description>
+  <Turret_Leo1A5_Cannon_Blueprint.label>레오파르트 1A5 포탑 (청사진)</Turret_Leo1A5_Cannon_Blueprint.label>
+  <Turret_Leo1A5_Cannon_Frame.label>레오파르트 1A5 포탑 (건설 중)</Turret_Leo1A5_Cannon_Frame.label>
+  <Turret_Leo1A5_Cannon_Frame.description>탄종: 105mm DM23 날개안정분리철갑탄\n최소사거리: 4미터, 최대사거리: 110미터\n사격방식: 단발 사격, 재장전 시간 6.5초\n탄약 수용량: 55발(내부 탄약고)\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Leo1A5_Cannon_Frame.description>
+  <TurretGun_Leo1A5_Cannon.label>포탑 총</TurretGun_Leo1A5_Cannon.label>
+  <TurretGun_Leo1A5_Cannon.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_Leo1A5_Cannon.description>
+  <SIDAMShell.label>25mm PMB090 날개안정분리철갑탄</SIDAMShell.label>
+  <SIDAMShell.description>이 탄약을 사용하는 포탑: SIDAM 대공기관포</SIDAMShell.description>
+  <Bullet_25mm_APFSDS.label>25mm PMB090 날개안정분리철갑탄</Bullet_25mm_APFSDS.label>
+  <Turret_SIDAM_Autocannon.label>SIDAM 25 대공기관포</Turret_SIDAM_Autocannon.label>
+  <Turret_SIDAM_Autocannon.description>탄종: 25mm PMB090 날개안정분리철갑탄\n최소사거리: 2미터, 최대사거리: 80미터\n사격방식: 분당 1200발꼴로 20발 발사 후 1초간 냉각\n탄약 수용량: 600발\n전력 사용량: 500W\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 기관포 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_SIDAM_Autocannon.description>
+  <Turret_SIDAM_Autocannon_Blueprint.label>SIDAM 25 대공기관포 (청사진)</Turret_SIDAM_Autocannon_Blueprint.label>
+  <Turret_SIDAM_Autocannon_Frame.label>SIDAM 25 대공기관포 (건설 중)</Turret_SIDAM_Autocannon_Frame.label>
+  <Turret_SIDAM_Autocannon_Frame.description>탄종: 25mm PMB090 날개안정분리철갑탄\n최소사거리: 2미터, 최대사거리: 80미터\n사격방식: 분당 1200발꼴로 20발 발사 후 1초간 냉각\n탄약 수용량: 600발\n전력 사용량: 500W\n파괴될 때 1블록 반경으로 폭발\n정착민과 이 기관포 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_SIDAM_Autocannon_Frame.description>
+  <TurretGun_SIDAM_Autocannon.label>포탑 총</TurretGun_SIDAM_Autocannon.label>
+  <TurretGun_SIDAM_Autocannon.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_SIDAM_Autocannon.description>
+  <TAKShell.label>120mm TAK 120mm 철갑탄</TAKShell.label>
+  <TAKShell.description>이 탄약을 사용하는 포탑: TAK 120 함포</TAKShell.description>
+  <Bullet_120mmNavalgunTurret.label>120mm TAK 120mm 철갑탄</Bullet_120mmNavalgunTurret.label>
+  <Gun_120mmNavalgunTurret.label>대형 포탑</Gun_120mmNavalgunTurret.label>
+  <Gun_120mmNavalgunTurret.description>자동 장전이 가능한 대구경 기관포가 장착된 포탑입니다.</Gun_120mmNavalgunTurret.description>
+  <NavalSeventySix.label>OTO 76mm 철갑탄</NavalSeventySix.label>
+  <NavalSeventySix.description>이 탄약을 사용하는 포탑: 오토멜라라 76mm 함포</NavalSeventySix.description>
+  <Bullet_76AP76mm_AP.label>OTO 76mm 철갑탄</Bullet_76AP76mm_AP.label>
+  <Turret_Otomelara76_Navalgun.label>오토멜라라 76mm 함포</Turret_Otomelara76_Navalgun.label>
+  <Turret_Otomelara76_Navalgun.description>유인 76mm 오토브레다 컴팩트 함포\n탄종: OTO 76mm 철갑탄\n최소사거리: 10미터, 최대사거리: 200미터\n사격방식: 분당 100발 속도로 10발 사격, 냉각시간 2초\n탄약 수용량: 200발(내부 탄약고)\n소비 전력: 2300W\n벽을 넘어 사격 불가, 지붕 아래 설치할 수 없습니다.\n파괴될 때 2블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Otomelara76_Navalgun.description>
+  <Turret_Otomelara76_Navalgun_Blueprint.label>오토멜라라 76mm 함포 (청사진)</Turret_Otomelara76_Navalgun_Blueprint.label>
+  <Turret_Otomelara76_Navalgun_Frame.label>오토멜라라 76mm 함포 (건설 중)</Turret_Otomelara76_Navalgun_Frame.label>
+  <Turret_Otomelara76_Navalgun_Frame.description>유인 76mm 오토브레다 컴팩트 함포\n탄종: OTO 76mm 철갑탄\n최소사거리: 10미터, 최대사거리: 200미터\n사격방식: 분당 100발 속도로 10발 사격, 냉각시간 2초\n탄약 수용량: 200발(내부 탄약고)\n소비 전력: 2300W\n벽을 넘어 사격 불가, 지붕 아래 설치할 수 없습니다.\n파괴될 때 2블록 반경의 폭발이 일어남.\n정착민과 이 포탑 사이에 벽을 만들어 정착민을 보호할 수 있습니다.</Turret_Otomelara76_Navalgun_Frame.description>
+  <TurretGun_Otobreda76_Navalgun.label>포탑 총</TurretGun_Otobreda76_Navalgun.label>
+  <TurretGun_Otobreda76_Navalgun.description>이걸 보게 된다면 버그 걸린 것입니다.</TurretGun_Otobreda76_Navalgun.description>
+  <CNCmachine.label>CNC 기계</CNCmachine.label>
+  <CNCmachine.description>CNC 기계는 크고 작은 대구경 주포탑을 가공 및 생산하는 데 사용됩니다. 1200W의 전력을 소모하며 작업속도를 늘리기 위해 CNC 모듈을 최대 4개까지 장착할 수 있습니다.</CNCmachine.description>
+  <CNCmachine_Blueprint.label>CNC 기계 (청사진)</CNCmachine_Blueprint.label>
+  <CNCmachine_Blueprint_Install.label>CNC 기계 (청사진)</CNCmachine_Blueprint_Install.label>
+  <CNCmachine_Frame.label>CNC 기계 (건설 중)</CNCmachine_Frame.label>
+  <CNCmachine_Frame.description>CNC 기계는 크고 작은 대구경 주포탑을 가공 및 생산하는 데 사용됩니다. 1200W의 전력을 소모하며 작업속도를 늘리기 위해 CNC 모듈을 최대 4개까지 장착할 수 있습니다.</CNCmachine_Frame.description>
+  <CNCmodule.label>CNC 모듈</CNCmodule.label>
+  <CNCmodule.description>CNC 기계 옆에 배치되었을 때 작업속도를 50% 향상시킵니다. CNC 기계만이 최대 4개까지의 CNC 모듈을 연결할 수 있습니다. 1300W의 전력을 소모합니다.</CNCmodule.description>
+  <CNCmodule_Blueprint.label>CNC 모듈 (청사진)</CNCmodule_Blueprint.label>
+  <CNCmodule_Blueprint_Install.label>CNC 모듈 (청사진)</CNCmodule_Blueprint_Install.label>
+  <CNCmodule_Frame.label>CNC 모듈 (건설 중)</CNCmodule_Frame.label>
+  <CNCmodule_Frame.description>CNC 기계 옆에 배치되었을 때 작업속도를 50% 향상시킵니다. CNC 기계만이 최대 4개까지의 CNC 모듈을 연결할 수 있습니다. 1300W의 전력을 소모합니다.</CNCmodule_Frame.description>
+  <CompositeAlloy.label>복합 합금</CompositeAlloy.label>
+  <CompositeAlloy.description>여러 합금을 섞은 복합 구조로 매우 단단하고 내구성 있는 강판입니다.</CompositeAlloy.description>
+  <CompositeAlloy.stuffProps.stuffAdjective>복합 합금</CompositeAlloy.stuffProps.stuffAdjective>
+  <Apparel_CompositeFlakVest.label>복합 방탄조끼</Apparel_CompositeFlakVest.label>
+  <Apparel_CompositeFlakVest.description>복합 합금으로 만들어진 방탄조끼입니다. 대구경 철갑탄과 화염에 대한 눈에 띄는 방호 효과를 지닙니다.</Apparel_CompositeFlakVest.description>
+  <Apparel_CompositeFlakPants.label>복합 방탄바지</Apparel_CompositeFlakPants.label>
+  <Apparel_CompositeFlakPants.description>복합 합금으로 만들어진 방탄바지입니다. 대구경 철갑탄과 화염에 대한 눈에 띄는 방호 효과를 지닙니다.</Apparel_CompositeFlakPants.description>
+  <Apparel_CompositeFlakJacket.label>복합 방탄재킷</Apparel_CompositeFlakJacket.label>
+  <Apparel_CompositeFlakJacket.description>복합 합금으로 만들어진 방탄재킷입니다. 대구경 철갑탄과 화염에 대한 눈에 띄는 방호 효과를 지닙니다.</Apparel_CompositeFlakJacket.description>
+  <Apparel_CompositeAdvancedHelmet.label>복합 강화 방탄모 만들기</Apparel_CompositeAdvancedHelmet.label>
+  <Apparel_CompositeAdvancedHelmet.description>복합 합금으로 만들어진 강화 강화 방탄모입니다. 대구경 철갑탄과 화염에 대한 눈에 띄는 방호 효과를 지닙니다.</Apparel_CompositeAdvancedHelmet.description>
+  <Apparel_CompositePowerArmorHelmet.label>복합 강화장갑 방탄모</Apparel_CompositePowerArmorHelmet.label>
+  <Apparel_CompositePowerArmorHelmet.description>복합 합금으로 만들어진 강화장갑 방탄모입니다. 대구경 철갑탄과 화염에 대한 눈에 띄는 방호 효과를 지닙니다.</Apparel_CompositePowerArmorHelmet.description>
+  <Apparel_CompositePowerArmor.label>복합 강화갑옷</Apparel_CompositePowerArmor.label>
+  <Apparel_CompositePowerArmor.description>복합 합금으로 만들어진 강화갑옷입니다. 대구경 철갑탄과 화염에 대한 눈에 띄는 방호 효과를 지닙니다.</Apparel_CompositePowerArmor.description>
+  <FCSComputer.label>자동화 사격통제 컴퓨터</FCSComputer.label>
+  <FCSComputer.description>자동화 사격통제체계와 통합된 컴퓨터입니다.</FCSComputer.description>
+  <Bullet_Mechanoid_Railgun.label>메카노이드 레일건 탄환</Bullet_Mechanoid_Railgun.label>
+  <Gun_Mechanoid_Railgun.label>메카노이드 레일건</Gun_Mechanoid_Railgun.label>
+  <Gun_Mechanoid_Railgun.description>메카노이드가 만든 대구경 전자기 레일건입니다.</Gun_Mechanoid_Railgun.description>
+  <Gun_Mechanoid_Railgun.tools.0.label>총열</Gun_Mechanoid_Railgun.tools.0.label>
+  <Bullet_Mechanoid_Autocannon.label>메카노이드 기관포 탄환</Bullet_Mechanoid_Autocannon.label>
+  <Gun_Mechanoid_Autocannon.label>메카노이드 기관포</Gun_Mechanoid_Autocannon.label>
+  <Gun_Mechanoid_Autocannon.description>메카노이드가 만든 40mm 기관포입니다.</Gun_Mechanoid_Autocannon.description>
+  <Gun_Mechanoid_Autocannon.tools.0.label>총열</Gun_Mechanoid_Autocannon.tools.0.label>
+  <Mech_ArmoredCentipede.label>중장갑 센티피드</Mech_ArmoredCentipede.label>
+  <Mech_ArmoredCentipede.description>수십 개의 작은 다리로 기어 다니는 중무장한 전투용 메카노이드입니다. 이 부류의 센티피드 메카노이드는 소구경 총기와 중구경 기관총에 대한 방호력을 확보하기 위해 추가적인 외부 증가장갑을 착용하였습니다.</Mech_ArmoredCentipede.description>
+  <Mech_ArmoredCentipede.tools.0.label>머리</Mech_ArmoredCentipede.tools.0.label>
+  <Mech_ArmoredCentipede_Corpse.label>중장갑 센티피드 시체</Mech_ArmoredCentipede_Corpse.label>
+  <Mech_ArmoredCentipede_Corpse.description>중장갑 센티피드 시체</Mech_ArmoredCentipede_Corpse.description>
+  <Mech_AdvArmoredCentipede.label>개량형 중장갑 센티피드</Mech_AdvArmoredCentipede.label>
+  <Mech_AdvArmoredCentipede.description>수십 개의 작은 다리로 기어다니는, 철저히 중무장한 전투용 메카노이드입니다. 이 부류의 센티피드 메카노이드는 다른 센티피드들과는 다른 원자재로 제작되었습니다. 그 무게 때문에 매우 둔하지만, 이 녀석을 사살하기 위해서는 조금 많이 커다란 대포가 필요할 겁니다.</Mech_AdvArmoredCentipede.description>
+  <Mech_AdvArmoredCentipede.tools.0.label>머리</Mech_AdvArmoredCentipede.tools.0.label>
+  <Mech_AdvArmoredCentipede_Corpse.label>개량형 중장갑 센티피드 시체</Mech_AdvArmoredCentipede_Corpse.label>
+  <Mech_AdvArmoredCentipede_Corpse.description>개량형 중장갑 센티피드 시체</Mech_AdvArmoredCentipede_Corpse.description>
+  <Mech_Shielder.label>실더</Mech_Shielder.label>
+  <Mech_Shielder.description>사이더와 비슷해 보이지만 한 쌍의 낫 대신 육각형 방패판을 장비했습니다. 사이더만큼 빠르게 움직이지만 훨씬 많은 손상을 버틸 수 있습니다.</Mech_Shielder.description>
+  <Mech_Shielder.tools.0.label>왼쪽 장갑판</Mech_Shielder.tools.0.label>
+  <Mech_Shielder.tools.1.label>오른쪽 장갑판</Mech_Shielder.tools.1.label>
+  <Mech_Shielder.tools.2.label>머리</Mech_Shielder.tools.2.label>
+  <Mech_Shielder_Corpse.label>실더 시체</Mech_Shielder_Corpse.label>
+  <Mech_Shielder_Corpse.description>실더 시체</Mech_Shielder_Corpse.description>
+  <U20mmAutocannon.label>무인 20mm Flak 38 대공기관포</U20mmAutocannon.label>
+  <U20mmAutocannon.description>무인화된 20mm Flak 38 대공기관포탑\n탄종: 20발들이 20mm 철갑소이탄 탄창\n최소사거리: 2미터, 최대사거리: 40미터\n사격방식: 분당 150발꼴로 발사\n탄약 수용량: 8탄창\n소비 전력: 200W\n파괴될 때 1블록 반경으로 폭발</U20mmAutocannon.description>
+  <U20mmAutocannon_Blueprint.label>무인 20mm 38 대공기관포 (청사진)</U20mmAutocannon_Blueprint.label>
+  <U20mmAutocannon_Frame.label>무인 20mm 38 대공기관포 (건설 중)</U20mmAutocannon_Frame.label>
+  <U20mmAutocannon_Frame.description>무인화된 20mm Flak 38 대공기관포탑\n탄종: 20발들이 20mm 철갑소이탄 탄창\n최소사거리: 2미터, 최대사거리: 40미터\n사격방식: 분당 150발꼴로 발사\n탄약 수용량: 8탄창\n소비 전력: 200W\n파괴될 때 1블록 반경으로 폭발</U20mmAutocannon_Frame.description>
+  <U20mmAutocannonGun.label>대형 포탑</U20mmAutocannonGun.label>
+  <U20mmAutocannonGun.description>자동 장전이 가능한 대구경 기관포가 장착된 포탑입니다.</U20mmAutocannonGun.description>
+  <Turret_U6PdrCannon.label>무인 6파운더 포</Turret_U6PdrCannon.label>
+  <Turret_U6PdrCannon.description>탄종: 57mm MK-8T 철갑탄\n최소사거리: 5미터, 최대사거리: 80미터\n사격방식: 단발 사격, 재장전 시간 4초\n소비 전력: 300W\n파괴될 때 2블록 반경의 폭발이 일어남.</Turret_U6PdrCannon.description>
+  <Turret_U6PdrCannon_Blueprint.label>무인 6파운더 포(청사진)</Turret_U6PdrCannon_Blueprint.label>
+  <Turret_U6PdrCannon_Frame.label>무인 6파운더 포(건설 중)</Turret_U6PdrCannon_Frame.label>
+  <Turret_U6PdrCannon_Frame.description>탄종: 57mm MK-8T 철갑탄\n최소사거리: 5미터, 최대사거리: 80미터\n사격방식: 단발 사격, 재장전 시간 4초\n소비 전력: 300W\n파괴될 때 2블록 반경의 폭발이 일어남.</Turret_U6PdrCannon_Frame.description>
+  <U6PdrCannon.label>대형 포탑</U6PdrCannon.label>
+  <U6PdrCannon.description>자동 장전이 가능한 대구경 기관포가 장착된 포탑입니다.</U6PdrCannon.description>
+
+</LanguageData>

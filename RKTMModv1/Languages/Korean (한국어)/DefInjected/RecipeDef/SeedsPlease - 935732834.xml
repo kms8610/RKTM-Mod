@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExtractSeedRice.label>벼 씨앗 추출</ExtractSeedRice.label>
+  <ExtractSeedRice.description>벼 씨앗을 추출합니다.</ExtractSeedRice.description>
+  <ExtractSeedRice.jobString>씨앗 추출 중.</ExtractSeedRice.jobString>
+  <ExtractSeedPotato.label>감자 씨앗 추출</ExtractSeedPotato.label>
+  <ExtractSeedPotato.description>감자 씨앗을 추출합니다.</ExtractSeedPotato.description>
+  <ExtractSeedPotato.jobString>씨앗 추출 중.</ExtractSeedPotato.jobString>
+  <ExtractSeedCorn.label>옥수수 씨앗 추출</ExtractSeedCorn.label>
+  <ExtractSeedCorn.description>옥수수 씨앗을 추출합니다.</ExtractSeedCorn.description>
+  <ExtractSeedCorn.jobString>씨앗 추출 중.</ExtractSeedCorn.jobString>
+  <ExtractSeedStrawberry.label>딸기 씨앗 추출</ExtractSeedStrawberry.label>
+  <ExtractSeedStrawberry.description>딸기 씨앗을 추출합니다.</ExtractSeedStrawberry.description>
+  <ExtractSeedStrawberry.jobString>씨앗 추출 중.</ExtractSeedStrawberry.jobString>
+  <ExtractSeedHaygrass.label>목초 씨앗 추출</ExtractSeedHaygrass.label>
+  <ExtractSeedHaygrass.description>목초 씨앗을 추출합니다.</ExtractSeedHaygrass.description>
+  <ExtractSeedHaygrass.jobString>씨앗 추출 중.</ExtractSeedHaygrass.jobString>
+  <ExtractSeedHops.label>술보리 씨앗 추출</ExtractSeedHops.label>
+  <ExtractSeedHops.description>술보리 씨앗을 추출합니다.</ExtractSeedHops.description>
+  <ExtractSeedHops.jobString>씨앗 추출 중.</ExtractSeedHops.jobString>
+  <ExtractSeedSmokeleaf.label>연초 씨앗 추출</ExtractSeedSmokeleaf.label>
+  <ExtractSeedSmokeleaf.description>연초 씨앗을 추출합니다.</ExtractSeedSmokeleaf.description>
+  <ExtractSeedSmokeleaf.jobString>씨앗 추출 중.</ExtractSeedSmokeleaf.jobString>
+  <ExtractSeedPsychoid.label>광이풀 씨앗 추출</ExtractSeedPsychoid.label>
+  <ExtractSeedPsychoid.description>광이풀 씨앗을 추출합니다.</ExtractSeedPsychoid.description>
+  <ExtractSeedPsychoid.jobString>씨앗 추출 중.</ExtractSeedPsychoid.jobString>
+  <ExtractSeedCotton.label>목화 씨앗 추출</ExtractSeedCotton.label>
+  <ExtractSeedCotton.description>목화 씨앗을 추출합니다.</ExtractSeedCotton.description>
+  <ExtractSeedCotton.jobString>씨앗 추출 중.</ExtractSeedCotton.jobString>
+  <ProcessRawCotton.label>목화에서 면 짜기</ProcessRawCotton.label>
+  <ProcessRawCotton.description>면 원료로 면을 짭니다.</ProcessRawCotton.description>
+  <ProcessRawCotton.jobString>식물 가공 중.</ProcessRawCotton.jobString>
+  <ExtractSeedDevilstrand.label>악마가닥 씨앗 추출</ExtractSeedDevilstrand.label>
+  <ExtractSeedDevilstrand.description>악마가닥 씨앗을 추출합니다.</ExtractSeedDevilstrand.description>
+  <ExtractSeedDevilstrand.jobString>씨앗 추출 중.</ExtractSeedDevilstrand.jobString>
+  <ProcessRawDevilstrand.label>악마가닥 원료로 악마가닥 원단 짜기</ProcessRawDevilstrand.label>
+  <ProcessRawDevilstrand.description>악마가닥 원료로 악마가닥 원단을 짭니다.</ProcessRawDevilstrand.description>
+  <ProcessRawDevilstrand.jobString>식물 가공 중.</ProcessRawDevilstrand.jobString>
+  <ExtractSeedHealroot.label>악뿌리 씨앗 추출</ExtractSeedHealroot.label>
+  <ExtractSeedHealroot.description>약뿌리 씨앗을 추출합니다.</ExtractSeedHealroot.description>
+  <ExtractSeedHealroot.jobString>씨앗 추출 중.</ExtractSeedHealroot.jobString>
+  <ProcessRawHealroot.label>생약 만들기</ProcessRawHealroot.label>
+  <ProcessRawHealroot.description>생약 원료로 생약을 만듭니다.</ProcessRawHealroot.description>
+  <ProcessRawHealroot.jobString>식물 가공 중.</ProcessRawHealroot.jobString>
+  <ProcessRawHealrootBulk.label>생약 만들기 (x5)</ProcessRawHealrootBulk.label>
+  <ProcessRawHealrootBulk.description>생약 원료로 생약을 만듭니다.</ProcessRawHealrootBulk.description>
+  <ProcessRawHealrootBulk.jobString>식물 가공 중.</ProcessRawHealrootBulk.jobString>
+  <ExtractSeed_Cocoa.label>코코아 씨앗 추출</ExtractSeed_Cocoa.label>
+  <ExtractSeed_Cocoa.description>코코아 콩에서 씨앗을 추출합니다.</ExtractSeed_Cocoa.description>
+  <ExtractSeed_Cocoa.jobString>씨앗 추출 중.</ExtractSeed_Cocoa.jobString>
+  <ProcessRawCocoa.label>초콜릿 만들기</ProcessRawCocoa.label>
+  <ProcessRawCocoa.description>코코아 콩을 갈아서 초콜릿으로 만듭니다.</ProcessRawCocoa.description>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CP_DoBillsVendingMachines.label>자판기에서 물건 사기</CP_DoBillsVendingMachines.label>
+  <CP_DoBillsVendingMachines.verb>자판기에서 사기</CP_DoBillsVendingMachines.verb>
+  <CP_DoBillsVendingMachines.gerund>물건 구매</CP_DoBillsVendingMachines.gerund>
+  <DoBillsCPPortableStove.label>휴대용 난로에서 요리하기</DoBillsCPPortableStove.label>
+  <DoBillsCPPortableStove.verb>요리 만들기</DoBillsCPPortableStove.verb>
+  <DoBillsCPPortableStove.gerund>요리 만들기</DoBillsCPPortableStove.gerund>
+  <DoBillsHaulCPPortableStove.label>휴대용 난로에 재료 넣기</DoBillsHaulCPPortableStove.label>
+  <DoBillsHaulCPPortableStove.verb>휴대용 난로에 재료 운반</DoBillsHaulCPPortableStove.verb>
+  <DoBillsHaulCPPortableStove.gerund>작업</DoBillsHaulCPPortableStove.gerund>
+  <DoBillsBlackHatStation.label>컴퓨터 작업 하기</DoBillsBlackHatStation.label>
+  <DoBillsBlackHatStation.verb>컴퓨터 작업 하기</DoBillsBlackHatStation.verb>
+  <DoBillsBlackHatStation.gerund>작업</DoBillsBlackHatStation.gerund>
+  <DoBillsVRTraining.label>콘솔에서 VR 훈련</DoBillsVRTraining.label>
+  <DoBillsVRTraining.verb>콘솔에서 VR 훈련</DoBillsVRTraining.verb>
+  <DoBillsVRTraining.gerund>훈련</DoBillsVRTraining.gerund>
+
+</LanguageData>

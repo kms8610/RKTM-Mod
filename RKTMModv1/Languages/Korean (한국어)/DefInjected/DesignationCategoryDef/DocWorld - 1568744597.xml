@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DZ_Animals.label>동물</DZ_Animals.label>
+  <DZ_Animals.description>동물과 관련된 모든 것입니다.</DZ_Animals.description>
+  <DZ_Beds.label>침대</DZ_Beds.label>
+  <DZ_Beds.description>당신의 정착민이 쉬는 장소입니다.</DZ_Beds.description>
+  <DZ_Culinary.label>조리</DZ_Culinary.label>
+  <DZ_Culinary.description>요리와 양조입니다.</DZ_Culinary.description>
+  <DZ_Fences.label>울타리</DZ_Fences.label>
+  <DZ_Fences.description>벽은 아니지만, 여전히 장애물입니다.</DZ_Fences.description>
+  <DZ_Husbandry.label>농업</DZ_Husbandry.label>
+  <DZ_Husbandry.description>모든 농업 및 가축의 욕구에 적합합니다.</DZ_Husbandry.description>
+  <DZ_Industrial.label>산업</DZ_Industrial.label>
+  <DZ_Industrial.description>모든 산업 생산에 적합합니다.</DZ_Industrial.description>
+  <DZ_Storage.label>저장</DZ_Storage.label>
+  <DZ_Storage.description>물품을 보관할 수 있는 가구입니다.</DZ_Storage.description>
+  <DZ_Lighting.label>조명</DZ_Lighting.label>
+  <DZ_Lighting.description>조명</DZ_Lighting.description>
+
+</LanguageData>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make10Kibble.label>동물사료 준비 (×10)</Make10Kibble.label>
+  <Make10Kibble.description>생고기와 채소를 섞어 사료를 만듭니다.</Make10Kibble.description>
+  <Make10Kibble.jobString>사료 준비 중.</Make10Kibble.jobString>
+  <Make20Kibble.label>동물사료 준비 (×20)</Make20Kibble.label>
+  <Make20Kibble.description>생고기와 채소를 섞어 사료를 만듭니다.</Make20Kibble.description>
+  <Make20Kibble.jobString>사료 준비 중.</Make20Kibble.jobString>
+  <Make10Pemmican.label>페미컨 만들기 (×10)</Make10Pemmican.label>
+  <Make10Pemmican.description>식물성, 동물성 재료를 섞어 만든 보존 식품입니다. 맛은 뛰어나지 않지만 냉장 없이도 1년 이상 멀쩡합니다.</Make10Pemmican.description>
+  <Make10Pemmican.jobString>페미컨 만드는 중.</Make10Pemmican.jobString>
+  <Make20Pemmican.label>페미컨 만들기 (×20)</Make20Pemmican.label>
+  <Make20Pemmican.description>식물성, 동물성 재료를 섞어 만든 보존 식품입니다. 맛은 뛰어나지 않지만 냉장 없이도 1년 이상 멀쩡합니다.</Make20Pemmican.description>
+  <Make20Pemmican.jobString>페미컨 만드는 중.</Make20Pemmican.jobString>
+  <Make10Wort.label>맥아즙 만들기 (×10)</Make10Wort.label>
+  <Make10Wort.description>홉으로 맥아즙을 만듭니다.</Make10Wort.description>
+  <Make10Wort.jobString>맥아즙 만드는 중.</Make10Wort.jobString>
+  <Make20Wort.label>맥아즙 만들기 (×20)</Make20Wort.label>
+  <Make20Wort.description>홉으로 맥아즙을 만듭니다.</Make20Wort.description>
+  <Make20Wort.jobString>맥아즙 만드는 중.</Make20Wort.jobString>
+  <Cook5MealSimple.label>간단한 음식 준비 (5개)</Cook5MealSimple.label>
+  <Cook5MealSimple.description>한 가지 재료로 만든 간단하고 쉬운 요리입니다.</Cook5MealSimple.description>
+  <Cook5MealSimple.jobString>간단한 음식 조리 중.</Cook5MealSimple.jobString>
+  <Cook10MealSimple.label>간단한 음식 준비 (10개)</Cook10MealSimple.label>
+  <Cook10MealSimple.description>한 가지 재료로 만든 간단하고 쉬운 요리입니다.</Cook10MealSimple.description>
+  <Cook10MealSimple.jobString>간단한 음식 조리 중.</Cook10MealSimple.jobString>
+  <Cook20MealSimple.label>간단한 음식 준비 (20개)</Cook20MealSimple.label>
+  <Cook20MealSimple.description>한 가지 재료로 만든 간단하고 쉬운 요리입니다.</Cook20MealSimple.description>
+  <Cook20MealSimple.jobString>간단한 음식 조리 중.</Cook20MealSimple.jobString>
+  <Cook50MealSimple.label>간단한 음식 준비 (50개)</Cook50MealSimple.label>
+  <Cook50MealSimple.description>한 가지 재료로 만든 간단하고 쉬운 요리입니다.</Cook50MealSimple.description>
+  <Cook50MealSimple.jobString>간단한 음식 조리 중.</Cook50MealSimple.jobString>
+  <Cook5MealFine.label>좋은 식사 준비 (5개)</Cook5MealFine.label>
+  <Cook5MealFine.description>야채나 과일과 고기를 사용해 만든 다소 복잡한 요리입니다.</Cook5MealFine.description>
+  <Cook5MealFine.jobString>괜찮은 음식 조리 중.</Cook5MealFine.jobString>
+  <Cook10MealFine.label>좋은 식사 준비 (10개)</Cook10MealFine.label>
+  <Cook10MealFine.description>야채나 과일과 고기를 사용해 만든 다소 복잡한 요리입니다.</Cook10MealFine.description>
+  <Cook10MealFine.jobString>괜찮은 음식 조리 중.</Cook10MealFine.jobString>
+  <Cook20MealFine.label>좋은 식사 준비 (20개)</Cook20MealFine.label>
+  <Cook20MealFine.description>야채나 과일과 고기를 사용해 만든 다소 복잡한 요리입니다.</Cook20MealFine.description>
+  <Cook20MealFine.jobString>괜찮은 음식 조리 중.</Cook20MealFine.jobString>
+  <Cook50MealFine.label>좋은 식사 준비 (50개)</Cook50MealFine.label>
+  <Cook50MealFine.description>야채나 과일과 고기를 사용해 만든 다소 복잡한 요리입니다.</Cook50MealFine.description>
+  <Cook50MealFine.jobString>괜찮은 음식 조리 중.</Cook50MealFine.jobString>
+  <Cook5MealLavish.label>호화로운 식사 준비 (5개)</Cook5MealLavish.label>
+  <Cook5MealLavish.description>육류와 식물성 재료를 사용해 매우 복잡하게 조리한 요리입니다. 사용하는 식재료의 대부분이 낭비됩니다.</Cook5MealLavish.description>
+  <Cook5MealLavish.jobString>호화로운 음식 조리 중.</Cook5MealLavish.jobString>
+  <Cook10MealLavish.label>호화로운 식사 준비 (10개)</Cook10MealLavish.label>
+  <Cook10MealLavish.description>육류와 식물성 재료를 사용해 매우 복잡하게 조리한 요리입니다. 사용하는 식재료의 대부분이 낭비됩니다.</Cook10MealLavish.description>
+  <Cook10MealLavish.jobString>호화로운 음식 조리 중.</Cook10MealLavish.jobString>
+  <Cook20MealLavish.label>호화로운 식사 준비 (20개)</Cook20MealLavish.label>
+  <Cook20MealLavish.description>육류와 식물성 재료를 사용해 매우 복잡하게 조리한 요리입니다. 사용하는 식재료의 대부분이 낭비됩니다.</Cook20MealLavish.description>
+  <Cook20MealLavish.jobString>호화로운 음식 조리 중.</Cook20MealLavish.jobString>
+  <Cook50MealLavish.label>호화로운 식사 준비 (50개)</Cook50MealLavish.label>
+  <Cook50MealLavish.description>육류와 식물성 재료를 사용해 매우 복잡하게 조리한 요리입니다. 사용하는 식재료의 대부분이 낭비됩니다.</Cook50MealLavish.description>
+  <Cook50MealLavish.jobString>호화로운 음식 조리 중.</Cook50MealLavish.jobString>
+  <Cook5MealSurvival.label>보존 식량 제작 (5개)</Cook5MealSurvival.label>
+  <Cook5MealSurvival.description>육류와 식물성 재료를 사용해 포장된 보존 식량을 만듭니다. 사용하는 식재료의 대부분이 낭비됩니다.</Cook5MealSurvival.description>
+  <Cook5MealSurvival.jobString>보존 식량 조리 중.</Cook5MealSurvival.jobString>
+  <Cook10MealSurvival.label>보존 식량 제작 (10개)</Cook10MealSurvival.label>
+  <Cook10MealSurvival.description>육류와 식물성 재료를 사용해 포장된 보존 식량을 만듭니다. 사용하는 식재료의 대부분이 낭비됩니다.</Cook10MealSurvival.description>
+  <Cook10MealSurvival.jobString>보존 식량 조리 중.</Cook10MealSurvival.jobString>
+  <Cook20MealSurvival.label>보존 식량 제작 (20개)</Cook20MealSurvival.label>
+  <Cook20MealSurvival.description>육류와 식물성 재료를 사용해 포장된 보존 식량을 만듭니다. 사용하는 식재료의 대부분이 낭비됩니다.</Cook20MealSurvival.description>
+  <Cook20MealSurvival.jobString>보존 식량 조리 중.</Cook20MealSurvival.jobString>
+  <Cook50MealSurvival.label>보존 식량 제작 (50개)</Cook50MealSurvival.label>
+  <Cook50MealSurvival.description>육류와 식물성 재료를 사용해 포장된 보존 식량을 만듭니다. 사용하는 식재료의 대부분이 낭비됩니다.</Cook50MealSurvival.description>
+  <Cook50MealSurvival.jobString>보존 식량 조리 중.</Cook50MealSurvival.jobString>
+
+</LanguageData>

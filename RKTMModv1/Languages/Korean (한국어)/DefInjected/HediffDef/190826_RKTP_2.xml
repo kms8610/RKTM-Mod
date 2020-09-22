@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1106719215_190814_Mechanoids Extraordinaire-->
+  <MechaTentacleME.label>기계 촉수</MechaTentacleME.label>
+  <MechaTentacleME.comps.0.tools.0.label>기계 촉수</MechaTentacleME.comps.0.tools.0.label>
+  <MechaTentacleME.labelNoun>기계 촉수.</MechaTentacleME.labelNoun>
+
+  <!--1113137502_190707_Genetic Rim-->
+  <GR_AgePillsTaken.label>나이 약</GR_AgePillsTaken.label>
+  <GR_ElectroEggHigh.label>활성 메카나이트 흡입</GR_ElectroEggHigh.label>
+  <GR_ElectroEggHigh.labelNoun>활성 메카나이트 흡입</GR_ElectroEggHigh.labelNoun>
+  <GR_ElectroEggTolerance.label>활성 메카나이트 내성</GR_ElectroEggTolerance.label>
+  <GR_ElectroEggTolerance.stages.0.label>사소함</GR_ElectroEggTolerance.stages.0.label>
+  <GR_ElectroEggTolerance.stages.1.label>사소함</GR_ElectroEggTolerance.stages.1.label>
+  <GR_ElectroEggTolerance.stages.2.label>심각함</GR_ElectroEggTolerance.stages.2.label>
+  <GR_ElectroEggTolerance.stages.3.label>극심함</GR_ElectroEggTolerance.stages.3.label>
+  <GR_ElectroEggAddiction.label>활성 메카나이트 중독</GR_ElectroEggAddiction.label>
+  <GR_ElectroEggAddiction.stages.1.label>중단</GR_ElectroEggAddiction.stages.1.label>
+  <GR_FeatherdustHigh.label>깃털가루에 취함</GR_FeatherdustHigh.label>
+  <GR_FeatherdustTolerance.label>깃털가루 내성</GR_FeatherdustTolerance.label>
+  <GR_FeatherdustTolerance.stages.0.label>사소함</GR_FeatherdustTolerance.stages.0.label>
+  <GR_FeatherdustTolerance.stages.1.label>적음</GR_FeatherdustTolerance.stages.1.label>
+  <GR_FeatherdustTolerance.stages.2.label>심각함</GR_FeatherdustTolerance.stages.2.label>
+  <GR_FeatherdustTolerance.stages.3.label>극심함</GR_FeatherdustTolerance.stages.3.label>
+  <GR_FeatherdustAddiction.label>깃털가루 의존성</GR_FeatherdustAddiction.label>
+  <GR_FeatherdustAddiction.stages.1.label>투여 중지</GR_FeatherdustAddiction.stages.1.label>
+  <GR_BearHybridGenes.label>곰 유전자 (곰 회복력)</GR_BearHybridGenes.label>
+  <GR_BoomalopeHybridGenes.label>폭산사슴 유전자 (화학연료 생산)</GR_BoomalopeHybridGenes.label>
+  <GR_CatHybridGenes.label>고양이 유전자 (날카로운 시야)</GR_CatHybridGenes.label>
+  <GR_ChickenHybridGenes.label>닭 유전자 (새 같은 호기심)</GR_ChickenHybridGenes.label>
+  <GR_MuffaloHybridGenes.label>머팔로 유전자 (야생의 조화)</GR_MuffaloHybridGenes.label>
+  <GR_WolfHybridGenes.label>늑대 유전자 (늑대의 속도)</GR_WolfHybridGenes.label>
+  <GR_RodentHybridGenes.label>소형동물 유전자 (번식력)</GR_RodentHybridGenes.label>
+  <GR_ReptileHybridGenes.label>파충류 유전자 (냉혈)</GR_ReptileHybridGenes.label>
+  <GR_InsectoidHybridGenes.label>곤충 유전자 (곤충사회)</GR_InsectoidHybridGenes.label>
+  <GR_ThrumboHybridGenes.label>트럼보 유전자 (동물 친화성)</GR_ThrumboHybridGenes.label>
+  <GR_MechanoidHybridGenes.label>메카노이드 유전자 (플라스틸 피부)</GR_MechanoidHybridGenes.label>
+  <GR_ToxicDamage.label>독 피해</GR_ToxicDamage.label>
+  <GR_ToxicDamage.stages.0.label>극미함-숨겨짐</GR_ToxicDamage.stages.0.label>
+  <GR_ToxicDamage.stages.1.label>경미함</GR_ToxicDamage.stages.1.label>
+  <GR_ToxicDamage.stages.2.label>사소함</GR_ToxicDamage.stages.2.label>
+  <GR_ToxicDamage.stages.3.label>중간</GR_ToxicDamage.stages.3.label>
+  <GR_ToxicDamage.stages.4.label>심각함</GR_ToxicDamage.stages.4.label>
+  <GR_ToxicDamage.stages.5.label>극심함</GR_ToxicDamage.stages.5.label>
+  <GR_HairballDamage.label>털뭉치 피해</GR_HairballDamage.label>
+  <GR_HairballDamage.stages.0.label>초기-숨겨짐</GR_HairballDamage.stages.0.label>
+  <GR_HairballDamage.stages.1.label>초기</GR_HairballDamage.stages.1.label>
+  <GR_HairballDamage.stages.2.label>경미함</GR_HairballDamage.stages.2.label>
+  <GR_HairballDamage.stages.3.label>보통</GR_HairballDamage.stages.3.label>
+  <GR_HairballDamage.stages.4.label>심각함</GR_HairballDamage.stages.4.label>
+  <GR_HairballDamage.stages.5.label>극심함</GR_HairballDamage.stages.5.label>
+  <GR_HairballDamage.stages.6.label>구역질</GR_HairballDamage.stages.6.label>
+  <GR_Kamikaze.label>갑작스런 폭발</GR_Kamikaze.label>
+  <GR_Kamikaze.stages.0.label>초기-숨겨짐</GR_Kamikaze.stages.0.label>
+  <GR_Kamikaze.stages.1.label>치명적임</GR_Kamikaze.stages.1.label>
+  <GR_AdrenalineBurst.label>아드레날린 분출</GR_AdrenalineBurst.label>
+  <GR_AdrenalineBurst.stages.1.label>지침</GR_AdrenalineBurst.stages.1.label>
+  <GR_Stamina.label>증가된 체력</GR_Stamina.label>
+  <GR_Stamina.stages.1.label>지침</GR_Stamina.stages.1.label>
+  <GR_CatReflexes.label>고양이의 반사작용</GR_CatReflexes.label>
+  <GR_CatReflexes.stages.1.label>기진맥진</GR_CatReflexes.stages.1.label>
+  <GR_KeenSenses.label>예민한 감각</GR_KeenSenses.label>
+  <GR_KeenSenses.stages.1.label>기진맥진</GR_KeenSenses.stages.1.label>
+  <GR_InsectClouds.label>곤충 구름 분출</GR_InsectClouds.label>
+  <GR_InsectClouds.stages.1.label>회복 중</GR_InsectClouds.stages.1.label>
+  <GR_Burrowing.label>지하 굴착</GR_Burrowing.label>
+  <GR_Burrowing.stages.1.label>회복 중</GR_Burrowing.stages.1.label>
+  <GR_Stampeding.label>몰림</GR_Stampeding.label>
+  <GR_Stampeding.stages.1.label>회복중</GR_Stampeding.stages.1.label>
+  <GR_CausedPoisonCloud.label>최근 독구름 배출</GR_CausedPoisonCloud.label>
+  <GR_CausedPoisonCloud.stages.0.label>회복 중</GR_CausedPoisonCloud.stages.0.label>
+  <GR_CausedHorror.label>최근 그 남자가 알 수 없는 광기를 불러일으킴</GR_CausedHorror.label>
+  <GR_CausedHorror.stages.0.label>회복중</GR_CausedHorror.stages.0.label>
+  <GR_CausedPowerBeam.label>최근에 궤도 동력 빔을 사용함</GR_CausedPowerBeam.label>
+  <GR_CausedPowerBeam.stages.0.label>충전재</GR_CausedPowerBeam.stages.0.label>
+  <GR_VentedExhaust.label>최근 독구름 배출</GR_VentedExhaust.label>
+  <GR_VentedExhaust.stages.0.label>회복중</GR_VentedExhaust.stages.0.label>
+  <GR_NoPain.label>통증 없음</GR_NoPain.label>
+  <GR_MeleeDodge.label>근접전 회피</GR_MeleeDodge.label>
+  <GR_LightSustenance.label>햇빛의 양</GR_LightSustenance.label>
+  <GR_LightSustenance.stages.0.label>초기-숨겨짐</GR_LightSustenance.stages.0.label>
+  <GR_LightSustenance.stages.1.label>적당한 빛</GR_LightSustenance.stages.1.label>
+  <GR_LightSustenance.stages.2.label>적절한 수준의 빛</GR_LightSustenance.stages.2.label>
+  <GR_LightSustenance.stages.3.label>주변의 열악한 빛</GR_LightSustenance.stages.3.label>
+  <GR_LightSustenance.stages.4.label>빛 부족</GR_LightSustenance.stages.4.label>
+  <GR_LightSustenance.stages.5.label>극도의 생계유지</GR_LightSustenance.stages.5.label>
+  <GR_BearLeg.label>동물 보철물: 곰 다리 (티어 1)</GR_BearLeg.label>
+  <GR_BearLeg.comps.0.tools.0.label>동물 보철물: 곰 다리 (티어 1)</GR_BearLeg.comps.0.tools.0.label>
+  <GR_LizardLeg.label>동물 보철물: 도마뱀 다리 (티어 2)</GR_LizardLeg.label>
+  <GR_LizardLeg.comps.0.tools.0.label>동물 보철물: 도마뱀 다리 (티어 2)</GR_LizardLeg.comps.0.tools.0.label>
+  <GR_ThrumboLeg.label>동물 보철물: 트럼보 다리 (티어 3)</GR_ThrumboLeg.label>
+  <GR_ThrumboLeg.comps.0.tools.0.label>동물 보철물: 트럼보 다리 (티어 3)</GR_ThrumboLeg.comps.0.tools.0.label>
+  <GR_ScytherTail.label>동물 보철물: 낫 꼬리 (티어 2)</GR_ScytherTail.label>
+  <GR_ScytherTail.comps.0.tools.0.label>동물 보철물: 낫 꼬리 (티어 2)</GR_ScytherTail.comps.0.tools.0.label>
+  <GR_MechaTail.label>동물 보철물: 메카노이드 꼬리 (티어 3)</GR_MechaTail.label>
+  <GR_MechaTail.comps.0.tools.0.label>동물 보철물: 메카노이드 꼬리 (티어 3)</GR_MechaTail.comps.0.tools.0.label>
+  <GR_CanidEye.label>동물 보철물: 갯과의 눈 (티어 1)</GR_CanidEye.label>
+  <GR_InsectileEye.label>동물 보철물: 곤충의 눈 (티어 2)</GR_InsectileEye.label>
+  <GR_ThrumboEye.label>동물 보철물: 생체공학 트럼보 눈 (티어 3)</GR_ThrumboEye.label>
+  <GR_RodentEar.label>동물 보철물: 소형동물 귀 (티어 1)</GR_RodentEar.label>
+  <GR_MothTympanalOrgan.label>동물 보철물: 곤충의 고막 (티어 2)</GR_MothTympanalOrgan.label>
+  <GR_MechaReceptors.label>동물 보철물: 메카노이드 청각 수용체 (티어 3)</GR_MechaReceptors.label>
+  <GR_RodentNose.label>동물 보철물: 소형동물 코 (티어 1)</GR_RodentNose.label>
+  <GR_InsectoidPheromones.label>동물 보철물: 곤충 페로몬 (티어 2)</GR_InsectoidPheromones.label>
+  <GR_MiniatureThrumboHorn.label>동물 보철물: 소형 트럼보 뿔 (티어 3)</GR_MiniatureThrumboHorn.label>
+  <GR_MiniatureThrumboHorn.comps.0.tools.0.label>동물 보철물: 소형 트럼보 뿔 (티어 3)</GR_MiniatureThrumboHorn.comps.0.tools.0.label>
+  <GR_WolfJaws.label>동물 보철물: 늑대 턱 (티어 1)</GR_WolfJaws.label>
+  <GR_InsectMandibles.label>동물 보철물: 곤충 턱뼈 (티어 2)</GR_InsectMandibles.label>
+  <GR_InsectMandibles.comps.0.tools.0.label>동물 보철물: 곤충 턱뼈 (티어 2)</GR_InsectMandibles.comps.0.tools.0.label>
+  <GR_ThrumboJaws.label>동물 보철물: 생체공학 트럼보 턱 (티어 3)</GR_ThrumboJaws.label>
+  <GR_ThrumboJaws.comps.0.tools.0.label>동물 보철물: 생체공학 트럼보 턱 (티어 3)</GR_ThrumboJaws.comps.0.tools.0.label>
+  <GR_MuffaloSpine.label>동물 보철물: 머팔로 등뼈 (티어 1)</GR_MuffaloSpine.label>
+  <GR_CrocodileSpine.label>동물 보철물: 악어 등뼈 (티어 2)</GR_CrocodileSpine.label>
+  <GR_MechaSpine.label>동물 보철물: 메카노이드 강철 프레임 (티어 3)</GR_MechaSpine.label>
+  <GR_ChickenBrains.label>동물 보철물: 닭 뇌 (티어 1)</GR_ChickenBrains.label>
+  <GR_MonitorLizardBrain.label>동물 보철물: 큰 도마뱀 뇌 (티어 2)</GR_MonitorLizardBrain.label>
+  <GR_ThrumboBrain.label>동물 보철물: 생체공학 트럼보 뇌 (티어 3)</GR_ThrumboBrain.label>
+  <GR_BoomalopeHeart.label>동물 보철물: 폭탄사슴 심장 (티어 1)</GR_BoomalopeHeart.label>
+  <GR_ChitinousHeart.label>동물 보철물: 키틴질 심장 (티어 2)</GR_ChitinousHeart.label>
+  <GR_MechaHeart.label>동물 보철물: 메카노이드 동력장치 (티어 3)</GR_MechaHeart.label>
+  <GR_MuffaloLung.label>동물 보철물: 머팔로 폐 (티어 1)</GR_MuffaloLung.label>
+  <GR_BearLiver.label>동물 보철물: 곰 간 (티어 1)</GR_BearLiver.label>
+  <GR_ChickenKidney.label>동물 보철물: 닭 콩팥 (티어 1)</GR_ChickenKidney.label>
+  <GR_BoomalopeStomach.label>동물 보철물: 폭탄사슴 위장 (티어 1)</GR_BoomalopeStomach.label>
+  <GR_BearClaws.label>곰 발톱</GR_BearClaws.label>
+  <GR_BearClaws.comps.0.tools.0.label>곰 발톱</GR_BearClaws.comps.0.tools.0.label>
+  <GR_DiggingBearClaws.label>인간형 보철물: 채굴 곰 발톱</GR_DiggingBearClaws.label>
+  <GR_BearMuscleTissue.label>인간형 보철물: 곰 근육조직</GR_BearMuscleTissue.label>
+  <GR_HibernationModule.label>인간형 보철물: 동면 모듈</GR_HibernationModule.label>
+  <GR_Ovipositor.label>산란관</GR_Ovipositor.label>
+  <GR_MuffaloMammaries.label>인간형 보철물: 머팔로 젖</GR_MuffaloMammaries.label>
+  <GR_MuffaloMuscles.label>머팔로 강화 근육</GR_MuffaloMuscles.label>
+  <GR_MuffaloSkin.label>인간형 보철물: 머팔로 피부</GR_MuffaloSkin.label>
+  <GR_BoomalopeNodules.label>폭탄사슴 혹</GR_BoomalopeNodules.label>
+  <GR_ChemfuelStomach.label>인간형 보철물: 화학연료 위장</GR_ChemfuelStomach.label>
+  <GR_ChemfuelHeart.label>인간형 보철물: 화학연료 심장</GR_ChemfuelHeart.label>
+  <GR_WolfMuscularFibers.label>늑대 근육질 섬유</GR_WolfMuscularFibers.label>
+  <GR_DevouringJaws.label>인간형 보철물: 파괴적인 턱</GR_DevouringJaws.label>
+  <GR_NeuronReinforcement.label>인간형 보철물: 강화 신경세포</GR_NeuronReinforcement.label>
+  <GR_MousePheromones.label>인간형 보철물: 쥐 페로몬</GR_MousePheromones.label>
+  <GR_MoleratNerveDampener.label>인간형 보철물: 두더지 신경 완충제</GR_MoleratNerveDampener.label>
+  <GR_BunnyEars.label>토끼 귀</GR_BunnyEars.label>
+  <GR_InsectoidAntennae.label>곤충 더듬이</GR_InsectoidAntennae.label>
+  <GR_PsychicDampeners.label>인간형 보철물: 정신감응 완충기</GR_PsychicDampeners.label>
+  <GR_KidneyToxicFilters.label>인간형 보철물: 신장 독성 필터</GR_KidneyToxicFilters.label>
+  <GR_HumanThrumboHorn.label>트럼보 뿔</GR_HumanThrumboHorn.label>
+  <GR_HumanThrumboHorn.comps.0.tools.0.label>트럼보 뿔</GR_HumanThrumboHorn.comps.0.tools.0.label>
+  <GR_ThrumboSkin.label>인간형 보철물: 트럼보 피부</GR_ThrumboSkin.label>
+  <GR_VenomousFangs.label>독이 있는 송곳니</GR_VenomousFangs.label>
+  <GR_VenomousFangs.comps.0.tools.0.label>독이 있는 송곳니</GR_VenomousFangs.comps.0.tools.0.label>
+  <GR_IguanaScales.label>인간형 보철물: 이구아나 비늘</GR_IguanaScales.label>
+  <GR_ChickenRimPox.label>림폭스(rimpox)</GR_ChickenRimPox.label>
+  <GR_ChickenRimPox.stages.0.label>사소함</GR_ChickenRimPox.stages.0.label>
+  <GR_ChickenRimPox.stages.1.label>심각함</GR_ChickenRimPox.stages.1.label>
+  <GR_ChickenRimPox.stages.2.label>극심함</GR_ChickenRimPox.stages.2.label>
+  <GR_PoisonAmpouleDrank.label>독 앰플</GR_PoisonAmpouleDrank.label>
+  <GR_RoyalJellyHigh.label>로열 젤리 온기</GR_RoyalJellyHigh.label>
+  <GR_RoyalJellyTolerance.label>로열 젤리 내성</GR_RoyalJellyTolerance.label>
+  <GR_RoyalJellyTolerance.stages.0.label>극미함</GR_RoyalJellyTolerance.stages.0.label>
+  <GR_RoyalJellyTolerance.stages.1.label>사소함</GR_RoyalJellyTolerance.stages.1.label>
+  <GR_RoyalJellyTolerance.stages.2.label>큼</GR_RoyalJellyTolerance.stages.2.label>
+  <GR_RoyalJellyTolerance.stages.3.label>심각함</GR_RoyalJellyTolerance.stages.3.label>
+  <GR_RoyalJellyAddiction.label>로열 젤리 탐닉</GR_RoyalJellyAddiction.label>
+  <GR_RoyalJellyAddiction.stages.1.label>투여 중지</GR_RoyalJellyAddiction.stages.1.label>
+  <GR_VirulentPoisonDrank.label>유독성 물약</GR_VirulentPoisonDrank.label>
+
+  <!--1206705240_190519_L-Slimes-->
+  <MixedSlimedrug.label>혼합 슬라임마약</MixedSlimedrug.label>
+  <MixedSlimedrugAddiction.label>혼합 슬라임마약 중독</MixedSlimedrugAddiction.label>
+  <MixedSlimedrugAddiction.stages.1.label>투여 중지</MixedSlimedrugAddiction.stages.1.label>
+  <RageFilled.label>격렬한 분노</RageFilled.label>
+  <RageFilled.stages.0.label>짜증</RageFilled.stages.0.label>
+  <RageFilled.stages.1.label>화남</RageFilled.stages.1.label>
+  <RageFilled.stages.2.label>정신나감</RageFilled.stages.2.label>
+  <RageFilled.labelNoun>정신나감</RageFilled.labelNoun>
+  <Slimedrug.label>슬라임마약</Slimedrug.label>
+  <SlimedrugAddiction.label>슬라임마약 중독</SlimedrugAddiction.label>
+  <SlimedrugAddiction.stages.1.label>투여중지</SlimedrugAddiction.stages.1.label>
+
+  <!--1430501911_190519_Infectious Creatures-->
+  <SwampFever.label>열병</SwampFever.label>
+  <SwampFever.stages.0.label>경미함</SwampFever.stages.0.label>
+  <SwampFever.stages.1.label>경미함</SwampFever.stages.1.label>
+  <SwampFever.stages.2.label>심각함</SwampFever.stages.2.label>
+  <SwampFever.stages.3.label>극심함</SwampFever.stages.3.label>
+  <RatPlagueMain.label>역병</RatPlagueMain.label>
+  <RatPlagueMain.stages.0.label>경미함</RatPlagueMain.stages.0.label>
+  <RatPlagueMain.stages.1.label>심각함</RatPlagueMain.stages.1.label>
+  <RatPlagueMain.stages.2.label>극심함</RatPlagueMain.stages.2.label>
+  <RatPlagueMain.stages.3.label>극심함</RatPlagueMain.stages.3.label>
+  <VenomPoisoning.label>독성 감염</VenomPoisoning.label>
+  <VenomPoisoning.stages.0.label>초기</VenomPoisoning.stages.0.label>
+  <VenomPoisoning.stages.1.label>경미함</VenomPoisoning.stages.1.label>
+  <VenomPoisoning.stages.2.label>보통</VenomPoisoning.stages.2.label>
+  <VenomPoisoning.stages.3.label>심각함</VenomPoisoning.stages.3.label>
+  <VenomPoisoning.stages.4.label>극심함</VenomPoisoning.stages.4.label>
+  <SpelopedeSickness.label>스펠로피드 신경독</SpelopedeSickness.label>
+  <SpelopedeSickness.stages.0.label>경미함</SpelopedeSickness.stages.0.label>
+  <SpelopedeSickness.stages.1.label>보통</SpelopedeSickness.stages.1.label>
+  <SpelopedeSickness.stages.2.label>심각함</SpelopedeSickness.stages.2.label>
+  <SpelopedeSickness.stages.3.label>극심함</SpelopedeSickness.stages.3.label>
+  <MegaSpiderParalysis.label>메가스파이더 마비독</MegaSpiderParalysis.label>
+  <MegaSpiderParalysis.stages.0.label>경미함</MegaSpiderParalysis.stages.0.label>
+  <MegaSpiderParalysis.stages.1.label>보통</MegaSpiderParalysis.stages.1.label>
+  <MegaSpiderParalysis.stages.2.label>심각함</MegaSpiderParalysis.stages.2.label>
+  <MegaSpiderParalysis.stages.3.label>극심함</MegaSpiderParalysis.stages.3.label>
+  <SnakeVenom.label>뱀 독</SnakeVenom.label>
+  <SnakeVenom.stages.0.label>초기</SnakeVenom.stages.0.label>
+  <SnakeVenom.stages.1.label>초기</SnakeVenom.stages.1.label>
+  <SnakeVenom.stages.2.label>경미함</SnakeVenom.stages.2.label>
+  <SnakeVenom.stages.3.label>보통</SnakeVenom.stages.3.label>
+  <SnakeVenom.stages.4.label>심각함</SnakeVenom.stages.4.label>
+  <SnakeVenom.stages.5.label>극심함</SnakeVenom.stages.5.label>
+  <MegaScarabVenom.label>메가스케럽 독</MegaScarabVenom.label>
+  <MegaScarabVenom.stages.0.label>초기</MegaScarabVenom.stages.0.label>
+  <MegaScarabVenom.stages.1.label>초기</MegaScarabVenom.stages.1.label>
+  <MegaScarabVenom.stages.2.label>경미함</MegaScarabVenom.stages.2.label>
+  <MegaScarabVenom.stages.3.label>보통</MegaScarabVenom.stages.3.label>
+  <MegaScarabVenom.stages.4.label>심각함</MegaScarabVenom.stages.4.label>
+  <MegaScarabVenom.stages.5.label>극심함</MegaScarabVenom.stages.5.label>
+  <SpelopedeVenom.label>스펠로피드 독</SpelopedeVenom.label>
+  <SpelopedeVenom.stages.0.label>초기</SpelopedeVenom.stages.0.label>
+  <SpelopedeVenom.stages.1.label>초기</SpelopedeVenom.stages.1.label>
+  <SpelopedeVenom.stages.2.label>경미함</SpelopedeVenom.stages.2.label>
+  <SpelopedeVenom.stages.3.label>보통</SpelopedeVenom.stages.3.label>
+  <SpelopedeVenom.stages.4.label>심각함</SpelopedeVenom.stages.4.label>
+  <SpelopedeVenom.stages.5.label>극심함</SpelopedeVenom.stages.5.label>
+  <MegaSpiderVenom.label>메가스파이더 독</MegaSpiderVenom.label>
+  <MegaSpiderVenom.stages.0.label>초기</MegaSpiderVenom.stages.0.label>
+  <MegaSpiderVenom.stages.1.label>초기</MegaSpiderVenom.stages.1.label>
+  <MegaSpiderVenom.stages.2.label>경미함</MegaSpiderVenom.stages.2.label>
+  <MegaSpiderVenom.stages.3.label>보통</MegaSpiderVenom.stages.3.label>
+  <MegaSpiderVenom.stages.4.label>심각함</MegaSpiderVenom.stages.4.label>
+  <MegaSpiderVenom.stages.5.label>극심함</MegaSpiderVenom.stages.5.label>
+  <RatPlague.label>쥐 병균</RatPlague.label>
+  <RatPlague.stages.0.label>초기</RatPlague.stages.0.label>
+  <RatPlague.stages.1.label>초기</RatPlague.stages.1.label>
+  <RatPlague.stages.2.label>경미함</RatPlague.stages.2.label>
+  <RatPlague.stages.3.label>보통</RatPlague.stages.3.label>
+  <RatPlague.stages.4.label>심각함</RatPlague.stages.4.label>
+  <RatPlague.stages.5.label>극심함</RatPlague.stages.5.label>
+
+  <!--1542306804_190519_The Zerg!-->
+  <ZergAdrenalinePassive.label>아드레날린</ZergAdrenalinePassive.label>
+  <ZergRageousAdrenalinePassive.label>격렬한 아드레날린</ZergRageousAdrenalinePassive.label>
+  <ZergBerserkPassive.label>버서크</ZergBerserkPassive.label>
+  <ZergPainKillerPassive.label>통증 완화</ZergPainKillerPassive.label>
+
+  <!--1543566982_190606_Lost Forest-->
+  <Hed_PhitonToxic.label>식물독</Hed_PhitonToxic.label>
+  <Hed_PhitonToxic.stages.0.label>작은</Hed_PhitonToxic.stages.0.label>
+  <Hed_PhitonToxic.stages.1.label>보통</Hed_PhitonToxic.stages.1.label>
+  <Hed_PhitonToxic.stages.2.label>심각</Hed_PhitonToxic.stages.2.label>
+  <Hed_DeadlyPoison.label>치명적인 독</Hed_DeadlyPoison.label>
+  <Hed_DeadlyPoison.stages.0.label>작은</Hed_DeadlyPoison.stages.0.label>
+  <Hed_DeadlyPoison.stages.1.label>보통</Hed_DeadlyPoison.stages.1.label>
+  <Hed_DeadlyPoison.stages.2.label>심각</Hed_DeadlyPoison.stages.2.label>
+  <Hed_Blind.label>실명</Hed_Blind.label>
+  <Hed_Blind.stages.0.label>작은</Hed_Blind.stages.0.label>
+  <Hed_Blind.stages.1.label>심각</Hed_Blind.stages.1.label>
+  <Hed_DarkFog.label>어둠의 안개</Hed_DarkFog.label>
+  <Hed_DarkFog.stages.0.label>작은</Hed_DarkFog.stages.0.label>
+  <Hed_DarkFog.stages.1.label>심각</Hed_DarkFog.stages.1.label>
+  <Hed_Armorbreak.label>갑옷 피해</Hed_Armorbreak.label>
+  <Hed_Armorbreak.stages.0.label>작은</Hed_Armorbreak.stages.0.label>
+  <Hed_Armorbreak.stages.1.label>중간</Hed_Armorbreak.stages.1.label>
+  <Hed_Armorbreak.stages.2.label>심각</Hed_Armorbreak.stages.2.label>
+  <Hed_Armbreak.label>팔 피해</Hed_Armbreak.label>
+  <Hed_Armbreak.stages.0.label>작은</Hed_Armbreak.stages.0.label>
+  <Hed_Armbreak.stages.1.label>보통</Hed_Armbreak.stages.1.label>
+  <Hed_Armbreak.stages.2.label>심각</Hed_Armbreak.stages.2.label>
+  <Hed_Legbreak.label>다리 피해</Hed_Legbreak.label>
+  <Hed_Legbreak.stages.0.label>작은</Hed_Legbreak.stages.0.label>
+  <Hed_Legbreak.stages.1.label>중간</Hed_Legbreak.stages.1.label>
+  <Hed_Legbreak.stages.2.label>심각</Hed_Legbreak.stages.2.label>
+  <Hed_ArmorRavage.label>갑옷 피해</Hed_ArmorRavage.label>
+  <Hed_ArmorRavage.stages.0.label>작은</Hed_ArmorRavage.stages.0.label>
+  <Hed_ArmorRavage.stages.1.label>보통</Hed_ArmorRavage.stages.1.label>
+  <Hed_ArmorRavage.stages.2.label>심각</Hed_ArmorRavage.stages.2.label>
+  <Hed_MobilityRavage.label>이동성 피해</Hed_MobilityRavage.label>
+  <Hed_MobilityRavage.stages.0.label>작은</Hed_MobilityRavage.stages.0.label>
+  <Hed_MobilityRavage.stages.1.label>보통</Hed_MobilityRavage.stages.1.label>
+  <Hed_MobilityRavage.stages.2.label>심각</Hed_MobilityRavage.stages.2.label>
+  <Hed_Cocytus.label>빙결 지옥</Hed_Cocytus.label>
+  <Hed_Cocytus.stages.0.label>떨림</Hed_Cocytus.stages.0.label>
+  <Hed_Cocytus.stages.1.label>떨림</Hed_Cocytus.stages.1.label>
+  <Hed_Cocytus.stages.2.label>얼음</Hed_Cocytus.stages.2.label>
+  <Hed_Cocytus.stages.3.label>깊게 얼음</Hed_Cocytus.stages.3.label>
+  <Hed_DragonicSigil.label>용인</Hed_DragonicSigil.label>
+  <Hed_DragonicSigil.stages.0.label>봉인</Hed_DragonicSigil.stages.0.label>
+  <Hed_DragonicSigil.stages.1.label>첫번쨰 봉인</Hed_DragonicSigil.stages.1.label>
+  <Hed_DragonicSigil.stages.2.label>두번째 봉인</Hed_DragonicSigil.stages.2.label>
+  <HedOmikuji.label>행운 전병 식사</HedOmikuji.label>
+  <HedOmikuji.stages.0.label>식사 중: 행운 전병</HedOmikuji.stages.0.label>
+  <HedMysteriousHerb.label>신비한 허브 식사</HedMysteriousHerb.label>
+  <HedMysteriousHerb.stages.0.label>식사 중: 신비한 허브</HedMysteriousHerb.stages.0.label>
+  <HedNutChocolate.label>너트 초콜릿 식사</HedNutChocolate.label>
+  <HedNutChocolate.stages.0.label>식사 중: 너트 초콜릿</HedNutChocolate.stages.0.label>
+  <Hed_LFBathing.label>입욕</Hed_LFBathing.label>
+  <Hed_HotSpringWarmth.label>온천 온기</Hed_HotSpringWarmth.label>
+  <Hed_HotSpringWarmth.stages.0.label>약간 따뜻한</Hed_HotSpringWarmth.stages.0.label>
+  <Hed_HotSpringWarmth.stages.1.label>따뜻한</Hed_HotSpringWarmth.stages.1.label>
+  <Hed_HotSpringWarmth.stages.2.label>매우 따듯한</Hed_HotSpringWarmth.stages.2.label>
+  <Hed_ColdSpringCoolness.label>냉천 냉기</Hed_ColdSpringCoolness.label>
+  <Hed_ColdSpringCoolness.stages.0.label>약간 시원한</Hed_ColdSpringCoolness.stages.0.label>
+  <Hed_ColdSpringCoolness.stages.1.label>시원한</Hed_ColdSpringCoolness.stages.1.label>
+  <Hed_ColdSpringCoolness.stages.2.label>매우 시원한</Hed_ColdSpringCoolness.stages.2.label>
+
+  <!--1821617793_190811_Magical Menagerie-->
+  <MM_ToxicBite.label>독성 증식</MM_ToxicBite.label>
+  <MM_ToxicBite.stages.0.label>초기</MM_ToxicBite.stages.0.label>
+  <MM_ToxicBite.stages.1.label>초기</MM_ToxicBite.stages.1.label>
+  <MM_ToxicBite.stages.2.label>경미함</MM_ToxicBite.stages.2.label>
+  <MM_ToxicBite.stages.3.label>보통</MM_ToxicBite.stages.3.label>
+  <MM_ToxicBite.stages.4.label>심각함</MM_ToxicBite.stages.4.label>
+  <MM_ToxicBite.stages.5.label>극도</MM_ToxicBite.stages.5.label>
+  <MM_AcidicBurn.label>산성 화상</MM_AcidicBurn.label>
+  <MM_AcidicBurn.comps.0.labelTendedWell>붕대감음</MM_AcidicBurn.comps.0.labelTendedWell>
+  <MM_AcidicBurn.comps.0.labelTendedWellInner>봉합됨</MM_AcidicBurn.comps.0.labelTendedWellInner>
+  <MM_AcidicBurn.comps.0.labelSolidTendedWell>설정</MM_AcidicBurn.comps.0.labelSolidTendedWell>
+  <MM_AcidicBurn.injuryProps.destroyedLabel>타버림</MM_AcidicBurn.injuryProps.destroyedLabel>
+  <MM_AcidicBurn.injuryProps.destroyedOutLabel>데인 흉터</MM_AcidicBurn.injuryProps.destroyedOutLabel>
+  <MM_AcidicBurn.labelNoun>산성 화상</MM_AcidicBurn.labelNoun>
+  <MM_Grabbed.label>조이기</MM_Grabbed.label>
+  <MM_Grabbed.stages.0.label>초기</MM_Grabbed.stages.0.label>
+  <MM_Grabbed.stages.1.label>부분적으로 고정된</MM_Grabbed.stages.1.label>
+  <MM_Grabbed.stages.2.label>조이기</MM_Grabbed.stages.2.label>
+  <MM_Grabbed.stages.3.label>꽉 조이기</MM_Grabbed.stages.3.label>
+  <MM_BleedingWound.label>상처 출혈</MM_BleedingWound.label>
+  <MM_BleedingWound.stages.0.label>상처 출혈, 사소함</MM_BleedingWound.stages.0.label>
+  <MM_BleedingWound.stages.1.label>상처 출혈, 보통</MM_BleedingWound.stages.1.label>
+  <MM_BleedingWound.stages.2.label>상처 출혈, 심각함</MM_BleedingWound.stages.2.label>
+  <MM_OpenWound.label>열린 상처</MM_OpenWound.label>
+  <MM_OpenWound.comps.0.labelTendedWell>붕대감음</MM_OpenWound.comps.0.labelTendedWell>
+  <MM_OpenWound.comps.0.labelTendedWellInner>봉합됨</MM_OpenWound.comps.0.labelTendedWellInner>
+  <MM_OpenWound.comps.0.labelSolidTendedWell>설정</MM_OpenWound.comps.0.labelSolidTendedWell>
+  <MM_OpenWound.injuryProps.destroyedLabel>끊어짐</MM_OpenWound.injuryProps.destroyedLabel>
+  <MM_OpenWound.injuryProps.destroyedOutLabel>잘려짐</MM_OpenWound.injuryProps.destroyedOutLabel>
+  <MM_OpenWound.labelNoun>열린 상처</MM_OpenWound.labelNoun>
+
+  <!--949283405_190618_AnimalCollabProj-->
+  <AcidBurn.label>산성독</AcidBurn.label>
+  <AcidBurn.comps.0.labelTendedWell>붕대 감음</AcidBurn.comps.0.labelTendedWell>
+  <AcidBurn.comps.0.labelTendedWellInner>치료됨</AcidBurn.comps.0.labelTendedWellInner>
+  <AcidBurn.comps.0.labelSolidTendedWell>접합됨</AcidBurn.comps.0.labelSolidTendedWell>
+  <AcidBurn.injuryProps.destroyedLabel>산성독으로 녹아 없어짐</AcidBurn.injuryProps.destroyedLabel>
+  <AcidBurn.injuryProps.destroyedOutLabel>산성독으로 녹아 없어짐</AcidBurn.injuryProps.destroyedOutLabel>
+  <AcidBurn.labelNoun>산성 화상</AcidBurn.labelNoun>
+  <Sting.label>쏘임</Sting.label>
+  <Sting.comps.0.labelTendedWell>붕대 감음</Sting.comps.0.labelTendedWell>
+  <Sting.comps.0.labelTendedWellInner>치료함</Sting.comps.0.labelTendedWellInner>
+  <Sting.comps.0.labelSolidTendedWell>접합됨</Sting.comps.0.labelSolidTendedWell>
+  <Sting.injuryProps.destroyedLabel>끊어짐</Sting.injuryProps.destroyedLabel>
+  <Sting.injuryProps.destroyedOutLabel>잘림</Sting.injuryProps.destroyedOutLabel>
+  <Sting.labelNoun>찔린 상처</Sting.labelNoun>
+  <PlatypusVenom.label>오리너구리 독</PlatypusVenom.label>
+  <PlatypusVenom.stages.0.label>가벼움</PlatypusVenom.stages.0.label>
+  <PlatypusVenom.stages.1.label>심각함</PlatypusVenom.stages.1.label>
+  <PlatypusVenom.stages.2.label>극심함</PlatypusVenom.stages.2.label>
+  <ScorpionVenom.label>전갈독</ScorpionVenom.label>
+  <ScorpionVenom.stages.0.label>가벼움</ScorpionVenom.stages.0.label>
+  <ScorpionVenom.stages.1.label>심각함</ScorpionVenom.stages.1.label>
+  <ScorpionVenom.stages.2.label>극심함</ScorpionVenom.stages.2.label>
+  <ToxicVenom.label>독</ToxicVenom.label>
+  <ToxicVenom.stages.0.label>초기</ToxicVenom.stages.0.label>
+  <ToxicVenom.stages.1.label>중기</ToxicVenom.stages.1.label>
+  <ToxicVenom.stages.2.label>말기</ToxicVenom.stages.2.label>
+
+</LanguageData>

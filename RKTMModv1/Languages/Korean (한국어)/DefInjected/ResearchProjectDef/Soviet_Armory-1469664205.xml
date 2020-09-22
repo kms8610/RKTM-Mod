@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Stage0_SA.label>기본 소비에트 강선 제작</Stage0_SA.label>
+  <Stage0_SA.description>이 기술로 소비에트 무기 가공대를 만들 수 있고, AKM 돌격소총, AKMS 돌격소총, RPK 경기관총과 SKS 소총을 만들 수 있습니다.</Stage0_SA.description>
+  <Stage1_SA.label>개선된 소비에트 강선 제작</Stage1_SA.label>
+  <Stage1_SA.description>이 기술로 AK-74 돌격소총, AKS-74U 돌격소총, 마카로프 권총, VSS 빈토레즈 저격소총, PKM 기관총을 만들 수 있습니다.</Stage1_SA.description>
+  <Stage1a_SA.label>차량용 무기 I</Stage1a_SA.label>
+  <Stage1a_SA.description>12,7mm NSV Utyos 중 기관총을 만들 수 있습니다.</Stage1a_SA.description>
+  <Stage1c_SA.label>저격 소총 기술</Stage1c_SA.label>
+  <Stage1c_SA.description>스코프가 장착된 SVD 드라구노프 저격소총을 해금합니다.</Stage1c_SA.description>
+  <Stage1b_SA.label>소비에트 중형 무기 기술</Stage1b_SA.label>
+  <Stage1b_SA.description>RPG-7V2 대전차로켓, RPO-Z 시멜 무반동총, RGS-50 유탄발사기를 해금합니다.</Stage1b_SA.description>
+  <Stage2_SA.label>고급 소비에트 강선 제작</Stage2_SA.label>
+  <Stage2_SA.description>이 기술로 AK-74M 돌격소총, Saiga 12K 산탄총, PP-19 경기관총, MR-444 권총을 만들 수 있습니다.</Stage2_SA.description>
+  <Stage2a_SA.label>차량용 무기 II</Stage2a_SA.label>
+  <Stage2a_SA.description>AGS-17 Plamya 자동 유탄 발사기를 만들 수 있습니다.</Stage2a_SA.description>
+
+</LanguageData>

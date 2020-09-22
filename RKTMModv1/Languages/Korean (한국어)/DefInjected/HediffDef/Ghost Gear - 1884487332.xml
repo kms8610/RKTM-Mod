@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GGShurikenCut.label>슈리켄 베기</GGShurikenCut.label>
+  <GGShurikenCut.labelNoun>슈리켄 베기</GGShurikenCut.labelNoun>
+  <GGShurikenCut.injuryProps.destroyedLabel>끊어짐</GGShurikenCut.injuryProps.destroyedLabel>
+  <GGShurikenCut.injuryProps.destroyedOutLabel>잘림</GGShurikenCut.injuryProps.destroyedOutLabel>
+  <GGShurikenCut.comps.2.2>접합됨</GGShurikenCut.comps.2.2>
+  <GGShurikenCut.comps.0.labelTendedWell>붕대 감음</GGShurikenCut.comps.0.labelTendedWell>
+  <GGShurikenCut.comps.1.labelTendedWellInner>봉합됨</GGShurikenCut.comps.1.labelTendedWellInner>
+  <GGShurikenCut.comps.0.permanentLabel>베인 흉터</GGShurikenCut.comps.0.permanentLabel>
+  <GGStab.label>GG 찌르기</GGStab.label>
+  <GGStab.labelNoun>찔린 상처</GGStab.labelNoun>
+  <GGStab.injuryProps.destroyedLabel>끊어짐</GGStab.injuryProps.destroyedLabel>
+  <GGStab.injuryProps.destroyedOutLabel>잘림</GGStab.injuryProps.destroyedOutLabel>
+  <GGStab.comps.2.2>접합됨</GGStab.comps.2.2>
+  <GGStab.comps.0.labelTendedWell>붕대 감음</GGStab.comps.0.labelTendedWell>
+  <GGStab.comps.1.labelTendedWellInner>봉합됨</GGStab.comps.1.labelTendedWellInner>
+  <GGStab.comps.0.permanentLabel>찔린 흉터</GGStab.comps.0.permanentLabel>
+  <GGStabDart.label>GG 다트 찌르기</GGStabDart.label>
+  <GGStabDart.labelNoun>찔린 상처</GGStabDart.labelNoun>
+  <GGStabDart.injuryProps.destroyedLabel>끊어짐</GGStabDart.injuryProps.destroyedLabel>
+  <GGStabDart.injuryProps.destroyedOutLabel>잘림</GGStabDart.injuryProps.destroyedOutLabel>
+  <GGStabDart.comps.2.2>접합됨</GGStabDart.comps.2.2>
+  <GGStabDart.comps.0.labelTendedWell>붕대 감음</GGStabDart.comps.0.labelTendedWell>
+  <GGStabDart.comps.1.labelTendedWellInner>봉합됨</GGStabDart.comps.1.labelTendedWellInner>
+  <GGStabDart.comps.0.permanentLabel>찔린 흉터</GGStabDart.comps.0.permanentLabel>
+  <GGMStab.labelNoun>찔린 상처</GGMStab.labelNoun>
+  <GGMStab.injuryProps.destroyedLabel>끊어짐</GGMStab.injuryProps.destroyedLabel>
+  <GGMStab.injuryProps.destroyedOutLabel>잘림</GGMStab.injuryProps.destroyedOutLabel>
+  <GGMStab.comps.2.2>접합됨</GGMStab.comps.2.2>
+  <GGMStab.comps.0.labelTendedWell>붕대 감음</GGMStab.comps.0.labelTendedWell>
+  <GGMStab.comps.1.labelTendedWellInner>봉합됨</GGMStab.comps.1.labelTendedWellInner>
+  <GGMStab.comps.0.permanentLabel>찔린 흉터</GGMStab.comps.0.permanentLabel>
+  <GGMCut.labelNoun>근접 베기</GGMCut.labelNoun>
+  <GGMCut.injuryProps.destroyedLabel>끊어짐</GGMCut.injuryProps.destroyedLabel>
+  <GGMCut.injuryProps.destroyedOutLabel>잘림</GGMCut.injuryProps.destroyedOutLabel>
+  <GGMCut.comps.2.2>접합됨</GGMCut.comps.2.2>
+  <GGMCut.comps.0.labelTendedWell>붕대 감음</GGMCut.comps.0.labelTendedWell>
+  <GGMCut.comps.1.labelTendedWellInner>봉합됨</GGMCut.comps.1.labelTendedWellInner>
+  <GGMCut.comps.0.permanentLabel>베인 흉터</GGMCut.comps.0.permanentLabel>
+  <GGNerveToxin.label>신경 독</GGNerveToxin.label>
+  <GGNerveToxin.stages.0.label>회복기</GGNerveToxin.stages.0.label>
+  <GGAntiNerveToxin_High.label>항 신경 독</GGAntiNerveToxin_High.label>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimWriter_Writings.label>글</RimWriter_Writings.label>
+  <RimWriter_BookMaterials.label>책 재료</RimWriter_BookMaterials.label>
+  <RimWriter_Tablets.label>석판</RimWriter_Tablets.label>
+  <RimWriter_Books.label>책</RimWriter_Books.label>
+  <RimWriter_Scrolls.label>두루마리</RimWriter_Scrolls.label>
+
+</LanguageData>

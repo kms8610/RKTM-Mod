@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1140051385_181113_Smokeleaf_Industry-->
+  <Chemical_AdvancedEdibles.label>고급 연초 식품</Chemical_AdvancedEdibles.label>
+  <Chemical_Edibles.description>연초 식품이 너무 좋아서, 이 정착민은 금단현상을 피하기 위해 주기적으로 약물을 사용해야 합니다.</Chemical_Edibles.description>
+  <Chemical_AdvancedEdibles.description>고급 연초 식품이 너무 좋아서, 이 정착민은 금단현상을 피하기 위해 주기적으로 약물을 사용해야 합니다.</Chemical_AdvancedEdibles.description>
+  <Chemical_CHO.description>C.H.O. 의존증으로 인해, 이 정착민은 금단현상을 피하기 위해 주기적으로 약물을 사용해야 합니다.</Chemical_CHO.description>
+  <Chemical_SmokeleafDistillate.description>연초이 증류액 의존증으로 인해, 이 정착민은 금단현상을 피하기 위해 주기적으로 약물을 사용해야 합니다.</Chemical_SmokeleafDistillate.description>
+  <Chemical_Hash.description>해쉬 의존증으로 인해, 이 정착민은 금단현상을 피하기 위해 주기적으로 약물을 사용해야 합니다.</Chemical_Hash.description>
+  <Chemical_Cannagar.description>연초잎 시가 의존증으로 인해, 이 정착민은 금단현상을 피하기 위해 주기적으로 약물을 사용해야 합니다.</Chemical_Cannagar.description>
+  <Chemical_CrudeJoint.description>연초 의존증으로 인해, 이 정착민은 금단현상을 피하기 위해 주기적으로 약물을 사용해야 합니다.</Chemical_CrudeJoint.description>
+  <Chemical_CHO.label>C.H.O.</Chemical_CHO.label>
+  <Chemical_CrudeJoint.label>간이 연초</Chemical_CrudeJoint.label>
+  <Chemical_Edibles.label>연초 식품</Chemical_Edibles.label>
+  <Chemical_Hash.label>해쉬</Chemical_Hash.label>
+  <Chemical_Cannagar.label>연초잎 시가</Chemical_Cannagar.label>
+  <Chemical_SmokeleafDistillate.label>연초잎 증류액</Chemical_SmokeleafDistillate.label>
+
+  <!--1187010034_181028_Rim of Madness - Vampires-->
+  <ROMV_Blood.label>혈액</ROMV_Blood.label>
+  <ROMV_Chemical_Vitae.description>한 번 맛보았던 생명혈의 맛을 잊지 못하여, 이 자는 이제 폭력적인 금단현상을 피하기 위해 주기적으로 흡혈귀의 피를 섭취해야 합니다.</ROMV_Chemical_Vitae.description>
+  <ROMV_Chemical_Vitae.label>생명혈 갈망</ROMV_Chemical_Vitae.label>
+  <ROMV_Blood.description>생물의 혈액량을 나타냅니다. 하루에 1씩 회복됩니다. 게이지가 바닥나면, 생물이 사망합니다.</ROMV_Blood.description>
+
+  <!--1364582731_190615_Medicines-->
+  <Chemical_Adrenaline.label>아드레날린</Chemical_Adrenaline.label>
+  <Chemical_Adrenaline.description>아드레날린 중독으로 인한 금단 현상을 피하려면 주기적인 주입이 필요합니다.</Chemical_Adrenaline.description>
+  <Chemical_Joy.label>조이</Chemical_Joy.label>
+  <Chemical_Joy.description>조이 중독으로 인한 금단 현상을 피하려면 주기적인 주입이 필요합니다.</Chemical_Joy.description>
+  <Chemical_Peyote.label>페요테</Chemical_Peyote.label>
+  <Chemical_Peyote.description>페요테 중독으로 인한 금단 현상을 피하려면 주기적인 주입이 필요합니다.</Chemical_Peyote.description>
+  <opioid.label>아편</opioid.label>
+  <opioid.description>아편 중독으로 인한 금단 현상을 피하려면 주기적인 주입이 필요합니다.</opioid.description>
+
+  <!--1485312620_190617_SYR - Coffee and Tee-->
+  <Chemical_SyrCaffeine.label>카페인</Chemical_SyrCaffeine.label>
+  <Chemical_SyrCaffeine.description>카페인 중독으로, 이 환자는 금단 증상을 피하기 위해 정기적으로 약물을 섭취해야만 합니다.</Chemical_SyrCaffeine.description>
+
+  <!--1505914869_190616_What the hack!-->
+  <WTH_Mechanoid_Power.label>전력</WTH_Mechanoid_Power.label>
+  <WTH_Mechanoid_Power.description>해킹된 메카노이드는 군락과의 연결이 끊어지고, 군락이 반응로를 통해 제공하는 무한한 전력을 사용할 수 없게됩니다.\n결국 해킹된 메카노이드는 메카노이드 정비고(또는 충전소)에서 재충전이 가능한 내부 백업 배터리에 의존하게 됩니다.</WTH_Mechanoid_Power.description>
+  <WTH_Mechanoid_Maintenance.label>정비</WTH_Mechanoid_Maintenance.label>
+  <WTH_Mechanoid_Maintenance.description>해킹은 매우 민감한 작업입니다. 해킹한 부품은 정기적으로 점검하고 교체해야 합니다.\n제대로 관리되지 않은 부품들은 수준 이하의 기능을 할 뿐만 아니라, 정착지에 위험하기까지 합니다.\n손상된 부품은 정비 수치를 더 빠르게 악화시킵니다.</WTH_Mechanoid_Maintenance.description>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu_Water.label>물</Mizu_Water.label>
+  <Mizu_Water.description>최근에 생물이 섭취한 물의 양입니다. 0이 될 경우, 생물은 점점 탈수되어 결국 죽게 될 것입니다.</Mizu_Water.description>
+
+  <!--1543060282_181101_Additional Joy Objects-->
+  <Chemical_Perodyne.description>페로다인 의존증의 심화로 인해, 이 정착민은 금단현상을 피하기 위해 주기적으로 약물을 섭취해야 합니다.</Chemical_Perodyne.description>
+  <Chemical_Perodyne.label>페로다인</Chemical_Perodyne.label>
+
+  <!--1559034352_181116_Diseases overhauled-->
+  <Chemical_Mortracain.description>몰트라카인 중독으로 인해 금단현상을 피하기 위해서는 정기적으로 약을 복용 해야합니다.</Chemical_Mortracain.description>
+  <Chemical_Tranquiazepin.description>트란키아제핀 중독으로 인해 금단현상을 피하기 위해서는 정기적으로 약을 복용 해야합니다.</Chemical_Tranquiazepin.description>
+  <Chemical_Mortracain.label>몰트라카인</Chemical_Mortracain.label>
+  <Chemical_Tranquiazepin.label>트란키아제핀</Chemical_Tranquiazepin.label>
+
+  <!--1563793492_190519_Milkable Colonists-->
+  <Chemical_Lact-X.description>Lact-X 중독 현상, 금단 증상을 피하려면 정기적(3일 간격)으로 약물이 투여할 필요가 있습니다.</Chemical_Lact-X.description>
+  <Chemical_Lact-X.label>Lact-X</Chemical_Lact-X.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <Religion_Need.description>신앙심 때문에. 죄책감을 느끼지 않으려면 정기적으로 예배에 참석해야 합니다.</Religion_Need.description>
+  <Religion_Need.label>종교활동 욕구</Religion_Need.label>
+
+  <!--775650249_181117_RimMagic-->
+  <need_blood.label>피</need_blood.label>
+  <need_blood.description>이 사람은 흡혈귀이며, 살아남기 위해 피를 필요로 합니다. 혹은 마실 것을 잘못 택한 평범한 사람일지도요.</need_blood.description>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <CultMindedness.label>숭배 의식</CultMindedness.label>
+  <CultMindedness.description>이 종교적 의식은 개척자를 받아들이는 것이 종교활동과 가까운 행동임을 보여줍니다. 광신자의 행동이나 종교 활동으로\n\nIF의 수치가 주요 임계값을 초과하면 정착지에 합류하며,\n\nIF의 수치가 부적함 임계값을 초과하면 정착민이 적대적이 될 수 있습니다.</CultMindedness.description>
+
+  <!--918226861_190816_Star Wars - The Force-->
+  <PJ_ForcePool.description>정착지인의 현재 포스 풀 레벨</PJ_ForcePool.description>
+  <PJ_ForcePool.label>포스 풀</PJ_ForcePool.label>
+
+  <!--1552507180_190814_Psychology-->
+  <Chemical_Methadone.label>메타돈</Chemical_Methadone.label>
+  <Chemical_Methadone.description>메타돈 중독으로 인한 금단현상을 피하려면 주기적인 복용이 필요합니다.</Chemical_Methadone.description>
+
+</LanguageData>

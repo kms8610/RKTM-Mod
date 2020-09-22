@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1136436925_190814_Holy Washer-->
+  <HollyWash.label>세탁</HollyWash.label>
+  <HollyWash.verb>세탁</HollyWash.verb>
+  <HollyWash.gerund>세탁</HollyWash.gerund>
+
+  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
+  <DoBillsImperialMachining.label>임페리얼 자원 제작</DoBillsImperialMachining.label>
+  <DoBillsImperialMachining.verb>자원 제작</DoBillsImperialMachining.verb>
+  <DoBillsImperialMachining.gerund>자원 제작</DoBillsImperialMachining.gerund>
+  <DoBillsEldarMachining.label>엘다 자원 제작</DoBillsEldarMachining.label>
+  <DoBillsEldarMachining.verb>자원 제작</DoBillsEldarMachining.verb>
+  <DoBillsEldarMachining.gerund>자원 제작</DoBillsEldarMachining.gerund>
+  <DoBillsOrkMachining.label>오크 자원 제작</DoBillsOrkMachining.label>
+  <DoBillsOrkMachining.verb>자원 제작</DoBillsOrkMachining.verb>
+  <DoBillsOrkMachining.gerund>자원 제작</DoBillsOrkMachining.gerund>
+  <DoBillsTauMachining.label>타우 자원 제작</DoBillsTauMachining.label>
+  <DoBillsTauMachining.verb>자원 제작</DoBillsTauMachining.verb>
+  <DoBillsTauMachining.gerund>자원 제작</DoBillsTauMachining.gerund>
+  <VG_WorkGiver_TakeProductOutOfUniversalFermenter.label>발효조에서 제품 꺼내기</VG_WorkGiver_TakeProductOutOfUniversalFermenter.label>
+  <VG_WorkGiver_TakeProductOutOfUniversalFermenter.verb>제품 꺼내기</VG_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
+  <VG_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>제품 꺼내기</VG_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
+  <VG_WorkGiver_FillUniversalFermenter.label>발효조 채우기</VG_WorkGiver_FillUniversalFermenter.label>
+  <VG_WorkGiver_FillUniversalFermenter.verb>채우기</VG_WorkGiver_FillUniversalFermenter.verb>
+  <VG_WorkGiver_FillUniversalFermenter.gerund>채우기</VG_WorkGiver_FillUniversalFermenter.gerund>
+
+  <!--1584460699_190815_Craftable Synthetics-->
+  <DoBillsMakeSynthetics.label>합성직물 재단</DoBillsMakeSynthetics.label>
+  <DoBillsMakeSynthetics.verb>재단</DoBillsMakeSynthetics.verb>
+  <DoBillsMakeSynthetics.gerund>재단</DoBillsMakeSynthetics.gerund>
+
+  <!--1833592062_190816_RimCuisine 2 Core-->
+  <RC2_DoBillsQuernstone.label>익히지 않은 음식 빻기</RC2_DoBillsQuernstone.label>
+  <RC2_DoBillsQuernstone.verb>빻기</RC2_DoBillsQuernstone.verb>
+  <RC2_DoBillsQuernstone.gerund>빻기</RC2_DoBillsQuernstone.gerund>
+  <TakeBeerOutOfFermentingBarrel2.label>생산건물에서 생산품 꺼내기</TakeBeerOutOfFermentingBarrel2.label>
+  <TakeBeerOutOfFermentingBarrel2.verb>꺼내기</TakeBeerOutOfFermentingBarrel2.verb>
+  <TakeBeerOutOfFermentingBarrel2.gerund>꺼내기</TakeBeerOutOfFermentingBarrel2.gerund>
+  <FillFermentingBarrel2.label>생산건물에 채우기</FillFermentingBarrel2.label>
+  <FillFermentingBarrel2.verb>채우기</FillFermentingBarrel2.verb>
+  <FillFermentingBarrel2.gerund>채우기</FillFermentingBarrel2.gerund>
+
+  <!--1833592532_190816_RimCuisine 2 Bottling and Booze Expansion-->
+  <RC_DoBillsBrew.label>술을 양조하고 증류합니다.</RC_DoBillsBrew.label>
+  <RC_DoBillsBrew.verb>양조하기</RC_DoBillsBrew.verb>
+  <RC_DoBillsBrew.gerund>양조하기</RC_DoBillsBrew.gerund>
+  <TakeBeerOutOfFermentingBarrel3.label>발효된 통에서 꺼내기</TakeBeerOutOfFermentingBarrel3.label>
+  <TakeBeerOutOfFermentingBarrel3.verb>통에서 꺼내기</TakeBeerOutOfFermentingBarrel3.verb>
+  <TakeBeerOutOfFermentingBarrel3.gerund>통에서 꺼내기</TakeBeerOutOfFermentingBarrel3.gerund>
+  <FillFermentingBarrel3.label>발효통 채우기</FillFermentingBarrel3.label>
+  <FillFermentingBarrel3.verb>발효통 채우기</FillFermentingBarrel3.verb>
+  <FillFermentingBarrel3.gerund>발효통 채우기</FillFermentingBarrel3.gerund>
+
+  <!--1833592940_190816_RimCuisine 2 Meals and Munchies Expansion-->
+  <RC2_DoBillsCannery.label>제조기로 통조림 만들기</RC2_DoBillsCannery.label>
+  <RC2_DoBillsCannery.verb>통조림을 만듭니다</RC2_DoBillsCannery.verb>
+  <RC2_DoBillsCannery.gerund>통조림 만들기</RC2_DoBillsCannery.gerund>
+  <RC2_DoBillsCookomatic.label>쿡-오-매틱으로 식사 준비하기</RC2_DoBillsCookomatic.label>
+  <RC2_DoBillsCookomatic.verb>요리를 준비합니다.</RC2_DoBillsCookomatic.verb>
+  <RC2_DoBillsCookomatic.gerund>요리 중</RC2_DoBillsCookomatic.gerund>
+
+  <!--736583577_190815_Neutrainer and AI Persona Core Crafting-->
+  <DoBillsMakeNeurotrainer.label>혈청 제작</DoBillsMakeNeurotrainer.label>
+  <DoBillsMakeNeurotrainer.verb>제작</DoBillsMakeNeurotrainer.verb>
+  <DoBillsMakeNeurotrainer.gerund>제작 중</DoBillsMakeNeurotrainer.gerund>
+
+  <!--761379469_190814_Remote Tech-->
+  <rxDetonateExplosives.label>폭발물 격발</rxDetonateExplosives.label>
+  <rxDetonateExplosives.verb>격발</rxDetonateExplosives.verb>
+  <rxDetonateExplosives.gerund>격발</rxDetonateExplosives.gerund>
+  <rxSwitchThings.label>원격폭발물 전환</rxSwitchThings.label>
+  <rxSwitchThings.verb>전환</rxSwitchThings.verb>
+  <rxSwitchThings.gerund>전환</rxSwitchThings.gerund>
+  <rxInstallUpgrade.label>업그레이드 설치</rxInstallUpgrade.label>
+  <rxInstallUpgrade.verb>업그레이드</rxInstallUpgrade.verb>
+  <rxInstallUpgrade.gerund>업그레이드</rxInstallUpgrade.gerund>
+  <rxDoBillsBench.label>원격폭탄 제작</rxDoBillsBench.label>
+  <rxDoBillsBench.verb>제작</rxDoBillsBench.verb>
+  <rxDoBillsBench.gerund>제작</rxDoBillsBench.gerund>
+  <rxDoBillsCraftFire.label>폭발물재료 제작</rxDoBillsCraftFire.label>
+  <rxDoBillsCraftFire.verb>작업</rxDoBillsCraftFire.verb>
+  <rxDoBillsCraftFire.gerund>작업</rxDoBillsCraftFire.gerund>
+  <rxDryOffDetonatorWire.label>격발선 말리기</rxDryOffDetonatorWire.label>
+  <rxDryOffDetonatorWire.verb>말리기</rxDryOffDetonatorWire.verb>
+  <rxDryOffDetonatorWire.gerund>말리기</rxDryOffDetonatorWire.gerund>
+  <rxSmoothFoamWall.label>거품벽 다듬기</rxSmoothFoamWall.label>
+  <rxSmoothFoamWall.verb>거품벽 다듬기</rxSmoothFoamWall.verb>
+  <rxSmoothFoamWall.gerund>다듬기</rxSmoothFoamWall.gerund>
+
+  <!--728381322_190818_Apparello 2-->
+  <DoBillsMakeApparello.verb>수선하기</DoBillsMakeApparello.verb>
+  <DoBillsMakeApparello.gerund>수선하기</DoBillsMakeApparello.gerund>
+  <DoBillsMakeApparello.label>의류 수선하기</DoBillsMakeApparello.label>
+
+  <!--1528894129_190818_Mechanite Forge Reborn-->
+  <DoBillsMechaniteForge.label>메카나이트 포지 사용</DoBillsMechaniteForge.label>
+  <DoBillsMechaniteForge.verb>제작</DoBillsMechaniteForge.verb>
+  <DoBillsMechaniteForge.gerund>제작</DoBillsMechaniteForge.gerund>
+
+  <!--1542036108_190818_UN-Colony-->
+  <DoBillsSadjuukConstructionMachinery.verb>작업</DoBillsSadjuukConstructionMachinery.verb>
+  <DoBillsSadjuukRefineryA.verb>작업</DoBillsSadjuukRefineryA.verb>
+  <DoBillsSadjuukRefineryB.verb>작업</DoBillsSadjuukRefineryB.verb>
+  <DoBillsSadjuukRefineryC.verb>작업</DoBillsSadjuukRefineryC.verb>
+  <DoBillsSadjuukMetalworkingBench.verb>작업</DoBillsSadjuukMetalworkingBench.verb>
+  <DoBillsSadjuukMetalworkingLineB.verb>작업</DoBillsSadjuukMetalworkingLineB.verb>
+  <DoBillsSadjuukAssemblyLineB.verb>작업</DoBillsSadjuukAssemblyLineB.verb>
+  <DoBillsSadjuukBessemerConverter.verb>작업</DoBillsSadjuukBessemerConverter.verb>
+  <DoBillsSadjuukOpenHearthFurnace.verb>작업</DoBillsSadjuukOpenHearthFurnace.verb>
+  <DoBillsSadjuukElectricArcFurnace.verb>작업</DoBillsSadjuukElectricArcFurnace.verb>
+  <DoBillsSadjuukConstructionMachinery.gerund>작업</DoBillsSadjuukConstructionMachinery.gerund>
+  <DoBillsSadjuukRefineryA.gerund>작업</DoBillsSadjuukRefineryA.gerund>
+  <DoBillsSadjuukRefineryB.gerund>작업</DoBillsSadjuukRefineryB.gerund>
+  <DoBillsSadjuukRefineryC.gerund>작업</DoBillsSadjuukRefineryC.gerund>
+  <DoBillsSadjuukMetalworkingBench.gerund>작업</DoBillsSadjuukMetalworkingBench.gerund>
+  <DoBillsSadjuukMetalworkingLineB.gerund>작업</DoBillsSadjuukMetalworkingLineB.gerund>
+  <DoBillsSadjuukAssemblyLineB.gerund>작업</DoBillsSadjuukAssemblyLineB.gerund>
+  <DoBillsSadjuukBessemerConverter.gerund>작업</DoBillsSadjuukBessemerConverter.gerund>
+  <DoBillsSadjuukOpenHearthFurnace.gerund>작업</DoBillsSadjuukOpenHearthFurnace.gerund>
+  <DoBillsSadjuukElectricArcFurnace.gerund>작업</DoBillsSadjuukElectricArcFurnace.gerund>
+
+  <!--1554147049_190818_Zen Garden-->
+  <ZEN_GrowerHarvestSecondary.verb>수확</ZEN_GrowerHarvestSecondary.verb>
+  <ZEN_GrowerHarvestSecondary.label>식물에서 2차 자원을 수확</ZEN_GrowerHarvestSecondary.label>
+  <ZEN_GrowerHarvestSecondary.gerund>수확 하는중</ZEN_GrowerHarvestSecondary.gerund>
+  <ZEN_GrowerSowSecondary.verb>씨 뿌리기</ZEN_GrowerSowSecondary.verb>
+  <ZEN_GrowerSowSecondary.label>과수원 식물 뿌리기</ZEN_GrowerSowSecondary.label>
+  <ZEN_GrowerSowSecondary.gerund>씨 뿌리는 중</ZEN_GrowerSowSecondary.gerund>
+
+  <!--1564455773_190818_Resource Replicator-->
+  <DoBillsReplicate.verb>복제</DoBillsReplicate.verb>
+  <DoBillsReplicate.label>자원 복제</DoBillsReplicate.label>
+  <DoBillsReplicate.gerund>복제</DoBillsReplicate.gerund>
+
+  <!--1833163132_190826_Ceramics-->
+  <DoBillsCollectClay.label>진흙 모으기</DoBillsCollectClay.label>
+  <DoBillsCollectClay.verb>채굴</DoBillsCollectClay.verb>
+  <DoBillsCollectClay.gerund>모으는 중</DoBillsCollectClay.gerund>
+  <UnloadKiln.label>벽돌 꺼내기</UnloadKiln.label>
+  <UnloadKiln.verb>운반</UnloadKiln.verb>
+  <UnloadKiln.gerund>벽돌 꺼내는 중</UnloadKiln.gerund>
+  <LoadKiln.label>젖거나 굽지 않은 벽돌 채워넣기</LoadKiln.label>
+  <LoadKiln.verb>운반</LoadKiln.verb>
+  <LoadKiln.gerund>젖거나 굽지 않은 벽돌 채워넣기</LoadKiln.gerund>
+  <DoBillsCeramics.label>세라믹 작업대에서 물건 만들기</DoBillsCeramics.label>
+  <DoBillsCeramics.verb>제작</DoBillsCeramics.verb>
+  <DoBillsCeramics.gerund>에서 작업 중</DoBillsCeramics.gerund>
+
+  <!--1561492240_190826_Rimmu-Nation - Clothing (All Craftable!)-->
+  <DoBillsMakeRNApparel.label>의류 제작중</DoBillsMakeRNApparel.label>
+  <DoBillsMakeRNApparel.verb>재단 중</DoBillsMakeRNApparel.verb>
+  <DoBillsMakeRNApparel.gerund>재단</DoBillsMakeRNApparel.gerund>
+
+  <!-- Training Console 1.0 -->
+  <DoBillsTrain.label>훈련용 콘솔 사용</DoBillsTrain.label>
+  <DoBillsTrain.verb>사용</DoBillsTrain.verb>
+  <DoBillsTrain.gerund>사용하기</DoBillsTrain.gerund>
+
+  <!-- Girls' frontline Weapon Pack -->
+  <DoBillsGFTable.label>IOP 작업대에서 물건 제작</DoBillsGFTable.label>
+  <DoBillsGFTable.verb>제작</DoBillsGFTable.verb>
+  <DoBillsGFTable.gerund>제작하기</DoBillsGFTable.gerund>
+
+</LanguageData>

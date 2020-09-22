@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1424438685_190815_Medical IV's-->
+  <AntibioticsHediff.label>항생제</AntibioticsHediff.label>
+  <PainkillerHediff.label>진통제</PainkillerHediff.label>
+  <IV_BloodTransfusion.label>정맥 주사 (혈액)</IV_BloodTransfusion.label>
+  <IV_Painkiller.label>정맥 주사 (진통제)</IV_Painkiller.label>
+  <IV_Food.label>정맥 주사 (영양제)</IV_Food.label>
+  <IV_Antibiotics.label>정맥 주사 (항생제)</IV_Antibiotics.label>
+  <IV_Anesthetic.label>정맥 주사 (마취제)</IV_Anesthetic.label>
+
+  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
+  <OGGrenadeFlashHediff.label>눈이 멈</OGGrenadeFlashHediff.label>
+  <OGGrenadeFlashHediff.labelNoun>눈이 멈</OGGrenadeFlashHediff.labelNoun>
+  <AcidGas.label>산성가스</AcidGas.label>
+  <AcidGas.stages.0.label>초기</AcidGas.stages.0.label>
+  <AcidGas.stages.1.label>가벼움</AcidGas.stages.1.label>
+  <AcidGas.stages.2.label>진행됨</AcidGas.stages.2.label>
+  <AcidGas.stages.3.label>심각함</AcidGas.stages.3.label>
+  <ToxicGas.label>독가스</ToxicGas.label>
+  <ToxicGas.stages.0.label>초기</ToxicGas.stages.0.label>
+  <ToxicGas.stages.1.label>가벼움</ToxicGas.stages.1.label>
+  <ToxicGas.stages.2.label>진행됨</ToxicGas.stages.2.label>
+  <ToxicGas.stages.3.label>심각함</ToxicGas.stages.3.label>
+  <ToxicGas.stages.4.label>극심함</ToxicGas.stages.4.label>
+  <RageGas.label>분노가스</RageGas.label>
+  <RageGas.stages.0.label>초기</RageGas.stages.0.label>
+  <RageGas.stages.1.label>가벼움</RageGas.stages.1.label>
+  <RageGas.stages.2.label>진행됨</RageGas.stages.2.label>
+  <RageGas.stages.3.label>심각함</RageGas.stages.3.label>
+  <RageGas.stages.4.label>극심함</RageGas.stages.4.label>
+  <TearGas.label>최루가스</TearGas.label>
+  <TearGas.stages.0.label>초기</TearGas.stages.0.label>
+  <TearGas.stages.1.label>가벼움</TearGas.stages.1.label>
+  <TearGas.stages.2.label>심각함</TearGas.stages.2.label>
+  <TearGas.stages.3.label>극심함</TearGas.stages.3.label>
+  <TearGas.stages.4.label>눈이 멈</TearGas.stages.4.label>
+  <SleepGas.label>수면가스</SleepGas.label>
+  <SleepGas.stages.0.label>졸림</SleepGas.stages.0.label>
+  <SleepGas.stages.1.label>피곤함</SleepGas.stages.1.label>
+  <SleepGas.stages.2.label>탈진함</SleepGas.stages.2.label>
+  <SleepGas.stages.3.label>의식을 잃음</SleepGas.stages.3.label>
+  <SleepGas.stages.4.label>혼수상태</SleepGas.stages.4.label>
+  <FearGas.label>공포가스</FearGas.label>
+  <FearGas.stages.0.label>가벼움</FearGas.stages.0.label>
+  <FearGas.stages.1.label>가벼움</FearGas.stages.1.label>
+  <FearGas.stages.2.label>심각함</FearGas.stages.2.label>
+  <FearGas.stages.3.label>극심함</FearGas.stages.3.label>
+  <HallucinogenGas.label>환각가스</HallucinogenGas.label>
+  <HallucinogenGas.stages.0.label>초기</HallucinogenGas.stages.0.label>
+  <HallucinogenGas.stages.1.label>가벼움</HallucinogenGas.stages.1.label>
+  <HallucinogenGas.stages.2.label>진행됨</HallucinogenGas.stages.2.label>
+  <HallucinogenGas.stages.3.label>심각함</HallucinogenGas.stages.3.label>
+  <HallucinogenGas.stages.4.label>극심함</HallucinogenGas.stages.4.label>
+  <OG_unConsciousness.label>의식 불명</OG_unConsciousness.label>
+  <hediff_Pacifier.label>감전</hediff_Pacifier.label>
+  <hediff_Pacifier.stages.0.label>가벼움</hediff_Pacifier.stages.0.label>
+  <hediff_Pacifier.stages.1.label>심각함</hediff_Pacifier.stages.1.label>
+  <hediff_Pacifier.stages.2.label>극심함</hediff_Pacifier.stages.2.label>
+  <hediff_Pacifier.injuryProps.destroyedLabel>파괴됨</hediff_Pacifier.injuryProps.destroyedLabel>
+  <hediff_Pacifier.injuryProps.destroyedOutLabel>불붙음</hediff_Pacifier.injuryProps.destroyedOutLabel>
+  <Toxins.label>독성 축적</Toxins.label>
+  <Toxins.stages.0.label>초기</Toxins.stages.0.label>
+  <Toxins.stages.1.label>초기</Toxins.stages.1.label>
+  <Toxins.stages.2.label>가벼움</Toxins.stages.2.label>
+  <Toxins.stages.3.label>진행됨</Toxins.stages.3.label>
+  <Toxins.stages.4.label>심각함</Toxins.stages.4.label>
+  <Toxins.stages.5.label>극심함</Toxins.stages.5.label>
+  <RadiationPoisioning.label>방사능 중독</RadiationPoisioning.label>
+  <RadiationPoisioning.stages.0.label>초기</RadiationPoisioning.stages.0.label>
+  <RadiationPoisioning.stages.1.label>초기</RadiationPoisioning.stages.1.label>
+  <RadiationPoisioning.stages.2.label>가벼움</RadiationPoisioning.stages.2.label>
+  <RadiationPoisioning.stages.3.label>진행됨</RadiationPoisioning.stages.3.label>
+  <RadiationPoisioning.stages.4.label>심각함</RadiationPoisioning.stages.4.label>
+  <RadiationPoisioning.stages.5.label>극심함</RadiationPoisioning.stages.5.label>
+  <BrainDamageModerate.label>뇌손상</BrainDamageModerate.label>
+  <BrainDamageSevere.label>심각한 뇌손상</BrainDamageSevere.label>
+  <FWPsychicShock.label>정신충격</FWPsychicShock.label>
+  <FWPsychicShock.labelNoun>정신충격</FWPsychicShock.labelNoun>
+  <PsychicInterfearance.label>정신간섭</PsychicInterfearance.label>
+  <PsychicInterfearance.labelNoun>정신간섭</PsychicInterfearance.labelNoun>
+  <PlasmaBurn.label>플라즈마 화상</PlasmaBurn.label>
+  <PlasmaBurn.comps.0.labelTendedWell>붕대 감음</PlasmaBurn.comps.0.labelTendedWell>
+  <PlasmaBurn.comps.0.labelTendedWellInner>봉합됨</PlasmaBurn.comps.0.labelTendedWellInner>
+  <PlasmaBurn.comps.0.labelSolidTendedWell>접합됨</PlasmaBurn.comps.0.labelSolidTendedWell>
+  <PlasmaBurn.injuryProps.destroyedLabel>불에 타버림</PlasmaBurn.injuryProps.destroyedLabel>
+  <PlasmaBurn.injuryProps.destroyedOutLabel>불에 타버림</PlasmaBurn.injuryProps.destroyedOutLabel>
+  <PlasmaBurn.labelNoun>플라즈마 화상</PlasmaBurn.labelNoun>
+  <LaserBurn.label>레이저 화상</LaserBurn.label>
+  <LaserBurn.comps.0.labelTendedWell>붕대 감음</LaserBurn.comps.0.labelTendedWell>
+  <LaserBurn.comps.0.labelTendedWellInner>봉합됨</LaserBurn.comps.0.labelTendedWellInner>
+  <LaserBurn.comps.0.labelSolidTendedWell>접합됨</LaserBurn.comps.0.labelSolidTendedWell>
+  <LaserBurn.injuryProps.destroyedLabel>불에 타버림</LaserBurn.injuryProps.destroyedLabel>
+  <LaserBurn.injuryProps.destroyedOutLabel>불에 타버림</LaserBurn.injuryProps.destroyedOutLabel>
+  <LaserBurn.labelNoun>레이저 화상</LaserBurn.labelNoun>
+  <MeltaBurn.label>멜타 화상</MeltaBurn.label>
+  <MeltaBurn.comps.0.labelTendedWell>붕대 감음</MeltaBurn.comps.0.labelTendedWell>
+  <MeltaBurn.comps.0.labelTendedWellInner>봉합됨</MeltaBurn.comps.0.labelTendedWellInner>
+  <MeltaBurn.comps.0.labelSolidTendedWell>접합됨</MeltaBurn.comps.0.labelSolidTendedWell>
+  <MeltaBurn.injuryProps.destroyedLabel>소각됨</MeltaBurn.injuryProps.destroyedLabel>
+  <MeltaBurn.injuryProps.destroyedOutLabel>소각됨</MeltaBurn.injuryProps.destroyedOutLabel>
+  <MeltaBurn.labelNoun>멜타 화상</MeltaBurn.labelNoun>
+  <ElectricalBurn.label>전기 화상</ElectricalBurn.label>
+  <ElectricalBurn.comps.0.labelTendedWell>붕대 감음</ElectricalBurn.comps.0.labelTendedWell>
+  <ElectricalBurn.comps.0.labelTendedWellInner>봉합됨</ElectricalBurn.comps.0.labelTendedWellInner>
+  <ElectricalBurn.comps.0.labelSolidTendedWell>접합됨</ElectricalBurn.comps.0.labelSolidTendedWell>
+  <ElectricalBurn.injuryProps.destroyedLabel>불에 타버림</ElectricalBurn.injuryProps.destroyedLabel>
+  <ElectricalBurn.injuryProps.destroyedOutLabel>불에 타버림</ElectricalBurn.injuryProps.destroyedOutLabel>
+  <ElectricalBurn.labelNoun>전기 화상</ElectricalBurn.labelNoun>
+  <RadiumGunshot.label>총상</RadiumGunshot.label>
+  <RadiumGunshot.comps.0.labelTendedWell>붕대 감음</RadiumGunshot.comps.0.labelTendedWell>
+  <RadiumGunshot.comps.0.labelTendedWellInner>봉합됨</RadiumGunshot.comps.0.labelTendedWellInner>
+  <RadiumGunshot.comps.0.labelSolidTendedWell>접합됨</RadiumGunshot.comps.0.labelSolidTendedWell>
+  <RadiumGunshot.injuryProps.destroyedLabel>총상으로 잃음</RadiumGunshot.injuryProps.destroyedLabel>
+  <RadiumGunshot.injuryProps.destroyedOutLabel>총상으로 잃음</RadiumGunshot.injuryProps.destroyedOutLabel>
+  <RadiumGunshot.labelNoun>방사선 총상</RadiumGunshot.labelNoun>
+  <GalvanicWound.label>갈바니 총상</GalvanicWound.label>
+  <GalvanicWound.comps.0.labelTendedWell>붕대 감음</GalvanicWound.comps.0.labelTendedWell>
+  <GalvanicWound.comps.0.labelTendedWellInner>봉합됨</GalvanicWound.comps.0.labelTendedWellInner>
+  <GalvanicWound.comps.0.labelSolidTendedWell>접합됨</GalvanicWound.comps.0.labelSolidTendedWell>
+  <GalvanicWound.injuryProps.destroyedLabel>총상으로 잃음</GalvanicWound.injuryProps.destroyedLabel>
+  <GalvanicWound.injuryProps.destroyedOutLabel>총상으로 잃음</GalvanicWound.injuryProps.destroyedOutLabel>
+  <GalvanicWound.labelNoun>갈바니 총상</GalvanicWound.labelNoun>
+  <TransuranicWound.label>트랜슈래닉 총상</TransuranicWound.label>
+  <TransuranicWound.comps.0.labelTendedWell>붕대 감음</TransuranicWound.comps.0.labelTendedWell>
+  <TransuranicWound.comps.0.labelTendedWellInner>봉합됨</TransuranicWound.comps.0.labelTendedWellInner>
+  <TransuranicWound.comps.0.labelSolidTendedWell>접합됨</TransuranicWound.comps.0.labelSolidTendedWell>
+  <TransuranicWound.injuryProps.destroyedLabel>총상으로 잃음</TransuranicWound.injuryProps.destroyedLabel>
+  <TransuranicWound.injuryProps.destroyedOutLabel>총상으로 잃음</TransuranicWound.injuryProps.destroyedOutLabel>
+  <TransuranicWound.labelNoun>트랜슈래닉 총상</TransuranicWound.labelNoun>
+  <GaussWound.label>가우스 상처</GaussWound.label>
+  <GaussWound.comps.0.labelTendedWell>붕대 감음</GaussWound.comps.0.labelTendedWell>
+  <GaussWound.comps.0.labelTendedWellInner>봉합됨</GaussWound.comps.0.labelTendedWellInner>
+  <GaussWound.comps.0.labelSolidTendedWell>접합됨</GaussWound.comps.0.labelSolidTendedWell>
+  <GaussWound.injuryProps.destroyedLabel>붕괴됨</GaussWound.injuryProps.destroyedLabel>
+  <GaussWound.injuryProps.destroyedOutLabel>붕괴됨</GaussWound.injuryProps.destroyedOutLabel>
+  <GaussWound.labelNoun>가우스 상처</GaussWound.labelNoun>
+  <PowerCut.label>파워 웨폰(베임)</PowerCut.label>
+  <PowerCut.injuryProps.destroyedLabel>끊어짐</PowerCut.injuryProps.destroyedLabel>
+  <PowerCut.injuryProps.destroyedOutLabel>잘림</PowerCut.injuryProps.destroyedOutLabel>
+  <PowerCut.labelNoun>베임</PowerCut.labelNoun>
+  <PowerStab.label>파워 웨폰(찔림)</PowerStab.label>
+  <PowerStab.injuryProps.destroyedLabel>끊어짐</PowerStab.injuryProps.destroyedLabel>
+  <PowerStab.injuryProps.destroyedOutLabel>잘림</PowerStab.injuryProps.destroyedOutLabel>
+  <PowerStab.labelNoun>찔린 상처</PowerStab.labelNoun>
+  <PowerBlunt.label>파워 웨폰(뭉개짐)</PowerBlunt.label>
+  <PowerBlunt.injuryProps.destroyedLabel>으스러짐</PowerBlunt.injuryProps.destroyedLabel>
+  <PowerBlunt.labelNoun>으스러진 상처</PowerBlunt.labelNoun>
+  <ForceCut.label>포스 웨폰(베임)</ForceCut.label>
+  <ForceCut.injuryProps.destroyedLabel>끊어짐</ForceCut.injuryProps.destroyedLabel>
+  <ForceCut.injuryProps.destroyedOutLabel>잘림</ForceCut.injuryProps.destroyedOutLabel>
+  <ForceCut.labelNoun>베임</ForceCut.labelNoun>
+  <ForceStab.label>포스 웨폰(찔림)</ForceStab.label>
+  <ForceStab.injuryProps.destroyedLabel>끊어짐</ForceStab.injuryProps.destroyedLabel>
+  <ForceStab.injuryProps.destroyedOutLabel>잘림</ForceStab.injuryProps.destroyedOutLabel>
+  <ForceStab.labelNoun>찔린 상처</ForceStab.labelNoun>
+  <ForceBlunt.label>포스 웨폰(뭉개짐)</ForceBlunt.label>
+  <ForceBlunt.injuryProps.destroyedLabel>으스러짐</ForceBlunt.injuryProps.destroyedLabel>
+  <ForceBlunt.labelNoun>으스러진 상처</ForceBlunt.labelNoun>
+  <OGI_HeDiff_ServoArm.label>서보-암</OGI_HeDiff_ServoArm.label>
+  <OGI_HeDiff_ServoArm.comps.0.tools.0.label>서보-암</OGI_HeDiff_ServoArm.comps.0.tools.0.label>
+  <OGI_HeDiff_ServoArm.stages.0.label>초기</OGI_HeDiff_ServoArm.stages.0.label>
+  <OGI_HeDiff_ServoArm.labelNoun>서보-암 공격</OGI_HeDiff_ServoArm.labelNoun>
+  <OGE_HeDiff_BansheeScream.label>밴시의 비명</OGE_HeDiff_BansheeScream.label>
+  <OGE_HeDiff_BansheeScream.comps.0.tools.0.label>밴시의 비명</OGE_HeDiff_BansheeScream.comps.0.tools.0.label>
+  <OGE_HeDiff_BansheeScream.stages.0.label>초기</OGE_HeDiff_BansheeScream.stages.0.label>
+  <OGE_HeDiff_BansheeScream.labelNoun>밴시 음파 공격</OGE_HeDiff_BansheeScream.labelNoun>
+  <OGE_HeDiff_InbuiltShurikenCatapult.label>내장된 슈리켄 캐터펄트</OGE_HeDiff_InbuiltShurikenCatapult.label>
+  <OGE_HeDiff_InbuiltShurikenCatapult.stages.0.label>초기</OGE_HeDiff_InbuiltShurikenCatapult.stages.0.label>
+  <OGE_HeDiff_InbuiltShurikenCatapult.labelNoun>축적된 슈리켄 캐터펄트(Inbuilt Shuriken Catapult)</OGE_HeDiff_InbuiltShurikenCatapult.labelNoun>
+
+  <!--1718191613_190705_Vanilla_Furniture_Expanded_-_Medical_Module-->
+  <Minor_CryptoSickness.label>동면병 (사소함)</Minor_CryptoSickness.label>
+
+  <!--1725545225_190714_CyberNet-->
+  <CNAdvancedNetworkedArm.label>고급 네트워크 팔</CNAdvancedNetworkedArm.label>
+  <CNAdvancedNetworkedArm.comps.1.tools.0.label>주먹</CNAdvancedNetworkedArm.comps.1.tools.0.label>
+  <CNAdvancedNetworkedArm.stages.0.label>비연결</CNAdvancedNetworkedArm.stages.0.label>
+  <CNAdvancedNetworkedArm.stages.1.label>스로틀</CNAdvancedNetworkedArm.stages.1.label>
+  <CNAdvancedNetworkedArm.stages.2.label>정체됨</CNAdvancedNetworkedArm.stages.2.label>
+  <CNAdvancedNetworkedArm.stages.3.label>연결됨</CNAdvancedNetworkedArm.stages.3.label>
+  <CNAdvancedNetworkedArm.stages.4.label>오버클록</CNAdvancedNetworkedArm.stages.4.label>
+  <CNAdvancedNetworkedArm.stages.5.label>슈퍼차지드</CNAdvancedNetworkedArm.stages.5.label>
+  <CNAdvancedNetworkedArm.labelNoun>고급 네트워크 팔</CNAdvancedNetworkedArm.labelNoun>
+  <CNAdvancedNetworkedLeg.label>고급 네트워크 다리</CNAdvancedNetworkedLeg.label>
+  <CNAdvancedNetworkedLeg.stages.0.label>비연결</CNAdvancedNetworkedLeg.stages.0.label>
+  <CNAdvancedNetworkedLeg.stages.1.label>스로틀</CNAdvancedNetworkedLeg.stages.1.label>
+  <CNAdvancedNetworkedLeg.stages.2.label>정체됨</CNAdvancedNetworkedLeg.stages.2.label>
+  <CNAdvancedNetworkedLeg.stages.3.label>연결됨</CNAdvancedNetworkedLeg.stages.3.label>
+  <CNAdvancedNetworkedLeg.stages.4.label>오버클록</CNAdvancedNetworkedLeg.stages.4.label>
+  <CNAdvancedNetworkedLeg.stages.5.label>슈퍼차지드</CNAdvancedNetworkedLeg.stages.5.label>
+  <CNAdvancedNetworkedLeg.labelNoun>고급 네트워크 다리</CNAdvancedNetworkedLeg.labelNoun>
+  <CNAdvancedNetworkedEye.label>고급 네트워크 눈</CNAdvancedNetworkedEye.label>
+  <CNAdvancedNetworkedEye.stages.0.label>비연결</CNAdvancedNetworkedEye.stages.0.label>
+  <CNAdvancedNetworkedEye.stages.1.label>스로틀</CNAdvancedNetworkedEye.stages.1.label>
+  <CNAdvancedNetworkedEye.stages.2.label>정체됨</CNAdvancedNetworkedEye.stages.2.label>
+  <CNAdvancedNetworkedEye.stages.3.label>연결됨</CNAdvancedNetworkedEye.stages.3.label>
+  <CNAdvancedNetworkedEye.stages.4.label>오버클록</CNAdvancedNetworkedEye.stages.4.label>
+  <CNAdvancedNetworkedEye.stages.5.label>슈퍼차지드</CNAdvancedNetworkedEye.stages.5.label>
+  <CNAdvancedNetworkedEye.labelNoun>고급 네트워크 눈</CNAdvancedNetworkedEye.labelNoun>
+  <CNAdvancedNetworkedSpine.label>고급 네트워크 척추</CNAdvancedNetworkedSpine.label>
+  <CNAdvancedNetworkedSpine.stages.0.label>비연결</CNAdvancedNetworkedSpine.stages.0.label>
+  <CNAdvancedNetworkedSpine.stages.1.label>스로틀</CNAdvancedNetworkedSpine.stages.1.label>
+  <CNAdvancedNetworkedSpine.stages.2.label>정체됨</CNAdvancedNetworkedSpine.stages.2.label>
+  <CNAdvancedNetworkedSpine.stages.3.label>연결됨</CNAdvancedNetworkedSpine.stages.3.label>
+  <CNAdvancedNetworkedSpine.stages.4.label>오버클록</CNAdvancedNetworkedSpine.stages.4.label>
+  <CNAdvancedNetworkedSpine.stages.5.label>슈퍼차지드</CNAdvancedNetworkedSpine.stages.5.label>
+  <CNAdvancedNetworkedSpine.labelNoun>고급 네트워크 척추</CNAdvancedNetworkedSpine.labelNoun>
+  <CNAdvancedNetworkedHeart.label>고급 네트워크 심장</CNAdvancedNetworkedHeart.label>
+  <CNAdvancedNetworkedHeart.stages.0.label>비연결</CNAdvancedNetworkedHeart.stages.0.label>
+  <CNAdvancedNetworkedHeart.stages.1.label>스로틀</CNAdvancedNetworkedHeart.stages.1.label>
+  <CNAdvancedNetworkedHeart.stages.2.label>정체됨</CNAdvancedNetworkedHeart.stages.2.label>
+  <CNAdvancedNetworkedHeart.stages.3.label>연결됨</CNAdvancedNetworkedHeart.stages.3.label>
+  <CNAdvancedNetworkedHeart.stages.4.label>오버클록</CNAdvancedNetworkedHeart.stages.4.label>
+  <CNAdvancedNetworkedHeart.stages.5.label>슈퍼차지드</CNAdvancedNetworkedHeart.stages.5.label>
+  <CNAdvancedNetworkedHeart.labelNoun>고급 네트워크 심장</CNAdvancedNetworkedHeart.labelNoun>
+  <CNAdvancedNetworkedStomach.label>고급 네트워크 위</CNAdvancedNetworkedStomach.label>
+  <CNAdvancedNetworkedStomach.stages.0.label>비연결</CNAdvancedNetworkedStomach.stages.0.label>
+  <CNAdvancedNetworkedStomach.stages.1.label>스로틀</CNAdvancedNetworkedStomach.stages.1.label>
+  <CNAdvancedNetworkedStomach.stages.2.label>정체됨</CNAdvancedNetworkedStomach.stages.2.label>
+  <CNAdvancedNetworkedStomach.stages.3.label>연결됨</CNAdvancedNetworkedStomach.stages.3.label>
+  <CNAdvancedNetworkedStomach.stages.4.label>오버클록</CNAdvancedNetworkedStomach.stages.4.label>
+  <CNAdvancedNetworkedStomach.stages.5.label>슈퍼차지드</CNAdvancedNetworkedStomach.stages.5.label>
+  <CNAdvancedNetworkedStomach.labelNoun>고급 네트워크 위</CNAdvancedNetworkedStomach.labelNoun>
+  <CNAdvancedNetworkedEar.label>고급 네트워크 귀</CNAdvancedNetworkedEar.label>
+  <CNAdvancedNetworkedEar.stages.0.label>비연결</CNAdvancedNetworkedEar.stages.0.label>
+  <CNAdvancedNetworkedEar.stages.1.label>스로틀</CNAdvancedNetworkedEar.stages.1.label>
+  <CNAdvancedNetworkedEar.stages.2.label>정체됨</CNAdvancedNetworkedEar.stages.2.label>
+  <CNAdvancedNetworkedEar.stages.3.label>연결됨</CNAdvancedNetworkedEar.stages.3.label>
+  <CNAdvancedNetworkedEar.stages.4.label>오버클록</CNAdvancedNetworkedEar.stages.4.label>
+  <CNAdvancedNetworkedEar.stages.5.label>슈퍼차지드</CNAdvancedNetworkedEar.stages.5.label>
+  <CNAdvancedNetworkedEar.labelNoun>고급 네트워크 귀</CNAdvancedNetworkedEar.labelNoun>
+  <CNFiltrationBloodEnhancement.label>혈액여과 향상제</CNFiltrationBloodEnhancement.label>
+  <CNFiltrationBloodEnhancement.stages.0.label>비연결</CNFiltrationBloodEnhancement.stages.0.label>
+  <CNFiltrationBloodEnhancement.stages.1.label>스로틀</CNFiltrationBloodEnhancement.stages.1.label>
+  <CNFiltrationBloodEnhancement.stages.2.label>정체됨</CNFiltrationBloodEnhancement.stages.2.label>
+  <CNFiltrationBloodEnhancement.stages.3.label>연결됨</CNFiltrationBloodEnhancement.stages.3.label>
+  <CNFiltrationBloodEnhancement.stages.4.label>오버클록</CNFiltrationBloodEnhancement.stages.4.label>
+  <CNFiltrationBloodEnhancement.stages.5.label>슈퍼차지드</CNFiltrationBloodEnhancement.stages.5.label>
+  <CNFiltrationBloodEnhancement.labelNoun>혈액여과 향상제</CNFiltrationBloodEnhancement.labelNoun>
+  <CNMetabolicBloodEnhancement.label>물질대사 혈액 향상제</CNMetabolicBloodEnhancement.label>
+  <CNMetabolicBloodEnhancement.stages.0.label>비연결</CNMetabolicBloodEnhancement.stages.0.label>
+  <CNMetabolicBloodEnhancement.stages.1.label>스로틀</CNMetabolicBloodEnhancement.stages.1.label>
+  <CNMetabolicBloodEnhancement.stages.2.label>정체됨</CNMetabolicBloodEnhancement.stages.2.label>
+  <CNMetabolicBloodEnhancement.stages.3.label>연결됨</CNMetabolicBloodEnhancement.stages.3.label>
+  <CNMetabolicBloodEnhancement.stages.4.label>오버클록</CNMetabolicBloodEnhancement.stages.4.label>
+  <CNMetabolicBloodEnhancement.stages.5.label>슈퍼차지드</CNMetabolicBloodEnhancement.stages.5.label>
+  <CNMetabolicBloodEnhancement.labelNoun>물질대사 혈액 향상제</CNMetabolicBloodEnhancement.labelNoun>
+  <CNSynthBloodBloodReplacement.label>신스블러드 혈액 대체제</CNSynthBloodBloodReplacement.label>
+  <CNSynthBloodBloodReplacement.stages.0.label>비연결</CNSynthBloodBloodReplacement.stages.0.label>
+  <CNSynthBloodBloodReplacement.stages.1.label>스로틀</CNSynthBloodBloodReplacement.stages.1.label>
+  <CNSynthBloodBloodReplacement.stages.2.label>정체됨</CNSynthBloodBloodReplacement.stages.2.label>
+  <CNSynthBloodBloodReplacement.stages.3.label>연결됨</CNSynthBloodBloodReplacement.stages.3.label>
+  <CNSynthBloodBloodReplacement.stages.4.label>오버클록</CNSynthBloodBloodReplacement.stages.4.label>
+  <CNSynthBloodBloodReplacement.stages.5.label>슈퍼차지드</CNSynthBloodBloodReplacement.stages.5.label>
+  <CNSynthBloodBloodReplacement.labelNoun>인공혈 혈액 대체</CNSynthBloodBloodReplacement.labelNoun>
+  <CNEnergyMaxBloodReplacement.label>에너지맥스 혈액 대체제</CNEnergyMaxBloodReplacement.label>
+  <CNEnergyMaxBloodReplacement.stages.0.label>비연결</CNEnergyMaxBloodReplacement.stages.0.label>
+  <CNEnergyMaxBloodReplacement.stages.1.label>스로틀</CNEnergyMaxBloodReplacement.stages.1.label>
+  <CNEnergyMaxBloodReplacement.stages.2.label>정체됨</CNEnergyMaxBloodReplacement.stages.2.label>
+  <CNEnergyMaxBloodReplacement.stages.3.label>연결됨</CNEnergyMaxBloodReplacement.stages.3.label>
+  <CNEnergyMaxBloodReplacement.stages.4.label>오버클록</CNEnergyMaxBloodReplacement.stages.4.label>
+  <CNEnergyMaxBloodReplacement.stages.5.label>슈퍼차지드</CNEnergyMaxBloodReplacement.stages.5.label>
+  <CNEnergyMaxBloodReplacement.labelNoun>에너지맥스 혈액 대체</CNEnergyMaxBloodReplacement.labelNoun>
+  <CNHyperClotBloodReplacement.label>하이퍼클롯 혈액 대체제</CNHyperClotBloodReplacement.label>
+  <CNHyperClotBloodReplacement.stages.0.label>비연결</CNHyperClotBloodReplacement.stages.0.label>
+  <CNHyperClotBloodReplacement.stages.1.label>스로틀</CNHyperClotBloodReplacement.stages.1.label>
+  <CNHyperClotBloodReplacement.stages.2.label>정체됨</CNHyperClotBloodReplacement.stages.2.label>
+  <CNHyperClotBloodReplacement.stages.3.label>연결됨</CNHyperClotBloodReplacement.stages.3.label>
+  <CNHyperClotBloodReplacement.stages.4.label>오버클록</CNHyperClotBloodReplacement.stages.4.label>
+  <CNHyperClotBloodReplacement.stages.5.label>슈퍼차지드</CNHyperClotBloodReplacement.stages.5.label>
+  <CNHyperClotBloodReplacement.labelNoun>하이퍼클롯 혈액 대체제</CNHyperClotBloodReplacement.labelNoun>
+  <CNThermControlBloodReplacement.label>열조절 혈액 대체제</CNThermControlBloodReplacement.label>
+  <CNThermControlBloodReplacement.stages.0.label>비연결</CNThermControlBloodReplacement.stages.0.label>
+  <CNThermControlBloodReplacement.stages.1.label>스로틀</CNThermControlBloodReplacement.stages.1.label>
+  <CNThermControlBloodReplacement.stages.2.label>정체됨</CNThermControlBloodReplacement.stages.2.label>
+  <CNThermControlBloodReplacement.stages.3.label>연결됨</CNThermControlBloodReplacement.stages.3.label>
+  <CNThermControlBloodReplacement.stages.4.label>오버클록</CNThermControlBloodReplacement.stages.4.label>
+  <CNThermControlBloodReplacement.stages.5.label>슈퍼차지드</CNThermControlBloodReplacement.stages.5.label>
+  <CNThermControlBloodReplacement.labelNoun>열조절 혈액 대체제</CNThermControlBloodReplacement.labelNoun>
+  <CNNetworkedArm.label>네트워크 팔</CNNetworkedArm.label>
+  <CNNetworkedArm.comps.1.tools.0.label>주먹</CNNetworkedArm.comps.1.tools.0.label>
+  <CNNetworkedArm.stages.0.label>비연결</CNNetworkedArm.stages.0.label>
+  <CNNetworkedArm.stages.1.label>스로틀</CNNetworkedArm.stages.1.label>
+  <CNNetworkedArm.stages.2.label>정체됨</CNNetworkedArm.stages.2.label>
+  <CNNetworkedArm.stages.3.label>연결됨</CNNetworkedArm.stages.3.label>
+  <CNNetworkedArm.stages.4.label>오버클록</CNNetworkedArm.stages.4.label>
+  <CNNetworkedArm.stages.5.label>슈퍼차지드</CNNetworkedArm.stages.5.label>
+  <CNNetworkedArm.labelNoun>네트워크 팔</CNNetworkedArm.labelNoun>
+  <CNNetworkedLeg.label>네트워크 다리</CNNetworkedLeg.label>
+  <CNNetworkedLeg.stages.0.label>비연결</CNNetworkedLeg.stages.0.label>
+  <CNNetworkedLeg.stages.1.label>스로틀</CNNetworkedLeg.stages.1.label>
+  <CNNetworkedLeg.stages.2.label>정체됨</CNNetworkedLeg.stages.2.label>
+  <CNNetworkedLeg.stages.3.label>연결됨</CNNetworkedLeg.stages.3.label>
+  <CNNetworkedLeg.stages.4.label>오버클록</CNNetworkedLeg.stages.4.label>
+  <CNNetworkedLeg.stages.5.label>슈퍼차지드</CNNetworkedLeg.stages.5.label>
+  <CNNetworkedLeg.labelNoun>네트워크 다리</CNNetworkedLeg.labelNoun>
+  <CNNetworkedEye.label>네트워크 눈</CNNetworkedEye.label>
+  <CNNetworkedEye.stages.0.label>비연결</CNNetworkedEye.stages.0.label>
+  <CNNetworkedEye.stages.1.label>스로틀</CNNetworkedEye.stages.1.label>
+  <CNNetworkedEye.stages.2.label>정체됨</CNNetworkedEye.stages.2.label>
+  <CNNetworkedEye.stages.3.label>연결됨</CNNetworkedEye.stages.3.label>
+  <CNNetworkedEye.stages.4.label>오버클록</CNNetworkedEye.stages.4.label>
+  <CNNetworkedEye.stages.5.label>슈퍼차지드</CNNetworkedEye.stages.5.label>
+  <CNNetworkedEye.labelNoun>네트워크 눈</CNNetworkedEye.labelNoun>
+  <CNNetworkedSpine.label>네트워크 척추</CNNetworkedSpine.label>
+  <CNNetworkedSpine.stages.0.label>비연결</CNNetworkedSpine.stages.0.label>
+  <CNNetworkedSpine.stages.1.label>스로틀</CNNetworkedSpine.stages.1.label>
+  <CNNetworkedSpine.stages.2.label>정체됨</CNNetworkedSpine.stages.2.label>
+  <CNNetworkedSpine.stages.3.label>연결됨</CNNetworkedSpine.stages.3.label>
+  <CNNetworkedSpine.stages.4.label>오버클록</CNNetworkedSpine.stages.4.label>
+  <CNNetworkedSpine.stages.5.label>슈퍼차지드</CNNetworkedSpine.stages.5.label>
+  <CNNetworkedSpine.labelNoun>네트워크 척추</CNNetworkedSpine.labelNoun>
+  <CNNetworkedHeart.label>네트워크 심장</CNNetworkedHeart.label>
+  <CNNetworkedHeart.stages.0.label>비연결</CNNetworkedHeart.stages.0.label>
+  <CNNetworkedHeart.stages.1.label>스로틀</CNNetworkedHeart.stages.1.label>
+  <CNNetworkedHeart.stages.2.label>정체됨</CNNetworkedHeart.stages.2.label>
+  <CNNetworkedHeart.stages.3.label>연결됨</CNNetworkedHeart.stages.3.label>
+  <CNNetworkedHeart.stages.4.label>오버클록</CNNetworkedHeart.stages.4.label>
+  <CNNetworkedHeart.stages.5.label>슈퍼차지드</CNNetworkedHeart.stages.5.label>
+  <CNNetworkedHeart.labelNoun>네트워크 심장</CNNetworkedHeart.labelNoun>
+  <CNNetworkedStomach.label>네트워크 위</CNNetworkedStomach.label>
+  <CNNetworkedStomach.stages.0.label>비연결</CNNetworkedStomach.stages.0.label>
+  <CNNetworkedStomach.stages.1.label>스로틀</CNNetworkedStomach.stages.1.label>
+  <CNNetworkedStomach.stages.2.label>정체됨</CNNetworkedStomach.stages.2.label>
+  <CNNetworkedStomach.stages.3.label>연결됨</CNNetworkedStomach.stages.3.label>
+  <CNNetworkedStomach.stages.4.label>오버클록</CNNetworkedStomach.stages.4.label>
+  <CNNetworkedStomach.stages.5.label>슈퍼차지드</CNNetworkedStomach.stages.5.label>
+  <CNNetworkedStomach.labelNoun>네트워크 위</CNNetworkedStomach.labelNoun>
+  <CNNetworkedEar.label>네트워크 귀</CNNetworkedEar.label>
+  <CNNetworkedEar.stages.0.label>비연결</CNNetworkedEar.stages.0.label>
+  <CNNetworkedEar.stages.1.label>스로틀</CNNetworkedEar.stages.1.label>
+  <CNNetworkedEar.stages.2.label>정체됨</CNNetworkedEar.stages.2.label>
+  <CNNetworkedEar.stages.3.label>연결됨</CNNetworkedEar.stages.3.label>
+  <CNNetworkedEar.stages.4.label>오버클록</CNNetworkedEar.stages.4.label>
+  <CNNetworkedEar.stages.5.label>슈퍼차지드</CNNetworkedEar.stages.5.label>
+  <CNNetworkedEar.labelNoun>네트워크 귀</CNNetworkedEar.labelNoun>
+  <CNBrainDamageRepairSystem.label>뇌 손상 수리 시스템</CNBrainDamageRepairSystem.label>
+  <CNBrainDamageRepairSystem.stages.0.label>비연결</CNBrainDamageRepairSystem.stages.0.label>
+  <CNBrainDamageRepairSystem.stages.1.label>스로틀</CNBrainDamageRepairSystem.stages.1.label>
+  <CNBrainDamageRepairSystem.stages.2.label>정체됨</CNBrainDamageRepairSystem.stages.2.label>
+  <CNBrainDamageRepairSystem.stages.3.label>연결됨</CNBrainDamageRepairSystem.stages.3.label>
+  <CNBrainDamageRepairSystem.stages.4.label>오버클록</CNBrainDamageRepairSystem.stages.4.label>
+  <CNBrainDamageRepairSystem.stages.5.label>슈퍼차지드</CNBrainDamageRepairSystem.stages.5.label>
+  <CNBrainDamageRepairSystem.labelNoun>뇌 손상 수리 시스템</CNBrainDamageRepairSystem.labelNoun>
+  <CNCombatOptimizationImplant.label>전투 최적화 보철물</CNCombatOptimizationImplant.label>
+  <CNCombatOptimizationImplant.stages.0.label>비연결</CNCombatOptimizationImplant.stages.0.label>
+  <CNCombatOptimizationImplant.stages.1.label>스로틀</CNCombatOptimizationImplant.stages.1.label>
+  <CNCombatOptimizationImplant.stages.2.label>정체됨</CNCombatOptimizationImplant.stages.2.label>
+  <CNCombatOptimizationImplant.stages.3.label>연결됨</CNCombatOptimizationImplant.stages.3.label>
+  <CNCombatOptimizationImplant.stages.4.label>오버클록</CNCombatOptimizationImplant.stages.4.label>
+  <CNCombatOptimizationImplant.stages.5.label>슈퍼차지드</CNCombatOptimizationImplant.stages.5.label>
+  <CNCombatOptimizationImplant.labelNoun>전투 최적화 보철물</CNCombatOptimizationImplant.labelNoun>
+  <CNPhasedSleepImplant.label>위상 수면 보철물</CNPhasedSleepImplant.label>
+  <CNPhasedSleepImplant.stages.0.label>비연결</CNPhasedSleepImplant.stages.0.label>
+  <CNPhasedSleepImplant.stages.1.label>스로틀</CNPhasedSleepImplant.stages.1.label>
+  <CNPhasedSleepImplant.stages.2.label>정체됨</CNPhasedSleepImplant.stages.2.label>
+  <CNPhasedSleepImplant.stages.3.label>연결됨</CNPhasedSleepImplant.stages.3.label>
+  <CNPhasedSleepImplant.stages.4.label>오버클록</CNPhasedSleepImplant.stages.4.label>
+  <CNPhasedSleepImplant.stages.5.label>슈퍼차지드</CNPhasedSleepImplant.stages.5.label>
+  <CNPhasedSleepImplant.labelNoun>위상 수면 보철물</CNPhasedSleepImplant.labelNoun>
+  <CNMemoryEnhancementImplant.label>기억 향상 보철물</CNMemoryEnhancementImplant.label>
+  <CNMemoryEnhancementImplant.stages.0.label>비연결</CNMemoryEnhancementImplant.stages.0.label>
+  <CNMemoryEnhancementImplant.stages.1.label>스로틀</CNMemoryEnhancementImplant.stages.1.label>
+  <CNMemoryEnhancementImplant.stages.2.label>정체됨</CNMemoryEnhancementImplant.stages.2.label>
+  <CNMemoryEnhancementImplant.stages.3.label>연결됨</CNMemoryEnhancementImplant.stages.3.label>
+  <CNMemoryEnhancementImplant.stages.4.label>오버클록</CNMemoryEnhancementImplant.stages.4.label>
+  <CNMemoryEnhancementImplant.stages.5.label>슈퍼차지드</CNMemoryEnhancementImplant.stages.5.label>
+  <CNMemoryEnhancementImplant.labelNoun>기억 향상 보철물</CNMemoryEnhancementImplant.labelNoun>
+  <CNSocialAnalyzerImplant.label>사교 분석기 보철물</CNSocialAnalyzerImplant.label>
+  <CNSocialAnalyzerImplant.stages.0.label>비연결</CNSocialAnalyzerImplant.stages.0.label>
+  <CNSocialAnalyzerImplant.stages.1.label>스로틀</CNSocialAnalyzerImplant.stages.1.label>
+  <CNSocialAnalyzerImplant.stages.2.label>정체됨</CNSocialAnalyzerImplant.stages.2.label>
+  <CNSocialAnalyzerImplant.stages.3.label>연결됨</CNSocialAnalyzerImplant.stages.3.label>
+  <CNSocialAnalyzerImplant.stages.4.label>오버클록</CNSocialAnalyzerImplant.stages.4.label>
+  <CNSocialAnalyzerImplant.stages.5.label>슈퍼차지드</CNSocialAnalyzerImplant.stages.5.label>
+  <CNSocialAnalyzerImplant.labelNoun>사교 분석기 보철물</CNSocialAnalyzerImplant.labelNoun>
+  <CNConsciousnessEnhancementImplant.label>의식 향상 보철물</CNConsciousnessEnhancementImplant.label>
+  <CNConsciousnessEnhancementImplant.stages.0.label>비연결</CNConsciousnessEnhancementImplant.stages.0.label>
+  <CNConsciousnessEnhancementImplant.stages.1.label>스로틀</CNConsciousnessEnhancementImplant.stages.1.label>
+  <CNConsciousnessEnhancementImplant.stages.2.label>정체됨</CNConsciousnessEnhancementImplant.stages.2.label>
+  <CNConsciousnessEnhancementImplant.stages.3.label>연결됨</CNConsciousnessEnhancementImplant.stages.3.label>
+  <CNConsciousnessEnhancementImplant.stages.4.label>오버클록</CNConsciousnessEnhancementImplant.stages.4.label>
+  <CNConsciousnessEnhancementImplant.stages.5.label>슈퍼차지드</CNConsciousnessEnhancementImplant.stages.5.label>
+  <CNConsciousnessEnhancementImplant.labelNoun>의식 향상 보철물</CNConsciousnessEnhancementImplant.labelNoun>
+  <CNReflexNSE.label>반사 NSE</CNReflexNSE.label>
+  <CNReflexNSE.stages.0.label>비연결</CNReflexNSE.stages.0.label>
+  <CNReflexNSE.stages.1.label>스로틀</CNReflexNSE.stages.1.label>
+  <CNReflexNSE.stages.2.label>정체됨</CNReflexNSE.stages.2.label>
+  <CNReflexNSE.stages.3.label>연결됨</CNReflexNSE.stages.3.label>
+  <CNReflexNSE.stages.4.label>오버클록</CNReflexNSE.stages.4.label>
+  <CNReflexNSE.stages.5.label>슈퍼차지드</CNReflexNSE.stages.5.label>
+  <CNReflexNSE.labelNoun>반사 NSE</CNReflexNSE.labelNoun>
+  <CNComfortNSE.label>포근한 NSE</CNComfortNSE.label>
+  <CNComfortNSE.stages.0.label>비연결</CNComfortNSE.stages.0.label>
+  <CNComfortNSE.stages.1.label>스로틀</CNComfortNSE.stages.1.label>
+  <CNComfortNSE.stages.2.label>정체됨</CNComfortNSE.stages.2.label>
+  <CNComfortNSE.stages.3.label>연결됨</CNComfortNSE.stages.3.label>
+  <CNComfortNSE.stages.4.label>오버클록</CNComfortNSE.stages.4.label>
+  <CNComfortNSE.stages.5.label>슈퍼차지드</CNComfortNSE.stages.5.label>
+  <CNComfortNSE.labelNoun>포근한 NSE</CNComfortNSE.labelNoun>
+  <CNSpeedNSE.label>스피드 NSE</CNSpeedNSE.label>
+  <CNSpeedNSE.stages.0.label>비연결</CNSpeedNSE.stages.0.label>
+  <CNSpeedNSE.stages.1.label>스로틀</CNSpeedNSE.stages.1.label>
+  <CNSpeedNSE.stages.2.label>정체됨</CNSpeedNSE.stages.2.label>
+  <CNSpeedNSE.stages.3.label>연결됨</CNSpeedNSE.stages.3.label>
+  <CNSpeedNSE.stages.4.label>오버클록</CNSpeedNSE.stages.4.label>
+  <CNSpeedNSE.stages.5.label>슈퍼차지드</CNSpeedNSE.stages.5.label>
+  <CNSpeedNSE.labelNoun>스피드 NSE</CNSpeedNSE.labelNoun>
+  <CNRhinoHideSkinReplacement.label>코뿔소가죽 피부 대체제</CNRhinoHideSkinReplacement.label>
+  <CNRhinoHideSkinReplacement.stages.0.label>비연결</CNRhinoHideSkinReplacement.stages.0.label>
+  <CNRhinoHideSkinReplacement.stages.1.label>스로틀</CNRhinoHideSkinReplacement.stages.1.label>
+  <CNRhinoHideSkinReplacement.stages.2.label>정체됨</CNRhinoHideSkinReplacement.stages.2.label>
+  <CNRhinoHideSkinReplacement.stages.3.label>연결됨</CNRhinoHideSkinReplacement.stages.3.label>
+  <CNRhinoHideSkinReplacement.stages.4.label>오버클록</CNRhinoHideSkinReplacement.stages.4.label>
+  <CNRhinoHideSkinReplacement.stages.5.label>슈퍼차지드</CNRhinoHideSkinReplacement.stages.5.label>
+  <CNRhinoHideSkinReplacement.labelNoun>코뿔소가죽 피부 대체제</CNRhinoHideSkinReplacement.labelNoun>
+  <CNShockTouchSkinReplacement.label>충격작용 피부 대체제</CNShockTouchSkinReplacement.label>
+  <CNShockTouchSkinReplacement.stages.0.label>비연결</CNShockTouchSkinReplacement.stages.0.label>
+  <CNShockTouchSkinReplacement.stages.1.label>스로틀</CNShockTouchSkinReplacement.stages.1.label>
+  <CNShockTouchSkinReplacement.stages.2.label>정체됨</CNShockTouchSkinReplacement.stages.2.label>
+  <CNShockTouchSkinReplacement.stages.3.label>연결됨</CNShockTouchSkinReplacement.stages.3.label>
+  <CNShockTouchSkinReplacement.stages.4.label>오버클록</CNShockTouchSkinReplacement.stages.4.label>
+  <CNShockTouchSkinReplacement.stages.5.label>슈퍼차지드</CNShockTouchSkinReplacement.stages.5.label>
+  <CNShockTouchSkinReplacement.labelNoun>충격작용 피부 대체제</CNShockTouchSkinReplacement.labelNoun>
+  <CNSootheAuraSkinReplacement.label>진정아우라 피부 대체제</CNSootheAuraSkinReplacement.label>
+  <CNSootheAuraSkinReplacement.stages.0.label>비연결</CNSootheAuraSkinReplacement.stages.0.label>
+  <CNSootheAuraSkinReplacement.stages.1.label>스로틀</CNSootheAuraSkinReplacement.stages.1.label>
+  <CNSootheAuraSkinReplacement.stages.2.label>정체됨</CNSootheAuraSkinReplacement.stages.2.label>
+  <CNSootheAuraSkinReplacement.stages.3.label>연결됨</CNSootheAuraSkinReplacement.stages.3.label>
+  <CNSootheAuraSkinReplacement.stages.4.label>오버클록</CNSootheAuraSkinReplacement.stages.4.label>
+  <CNSootheAuraSkinReplacement.stages.5.label>슈퍼차지드</CNSootheAuraSkinReplacement.stages.5.label>
+  <CNSootheAuraSkinReplacement.labelNoun>진정아우라 피부 대체제</CNSootheAuraSkinReplacement.labelNoun>
+
+  <!--1833592062_190816_RimCuisine 2 Core-->
+  <RC2_Caffeine.label>카페인에 취함</RC2_Caffeine.label>
+  <RC2_Caffeine.stages.0.label>기운이 남</RC2_Caffeine.stages.0.label>
+  <RC2_Caffeine.stages.1.label>흥분함</RC2_Caffeine.stages.1.label>
+  <RC2_Caffeine.stages.2.label>초조해함</RC2_Caffeine.stages.2.label>
+  <RC2_Caffeine.stages.3.label>과용</RC2_Caffeine.stages.3.label>
+  <RC2_Caffeine.labelNoun>카페인 복용</RC2_Caffeine.labelNoun>
+  <RC2_CaffeineTolerance.label>카페인 내성</RC2_CaffeineTolerance.label>
+  <RC2_CaffeineTolerance.stages.0.label>약함</RC2_CaffeineTolerance.stages.0.label>
+  <RC2_CaffeineTolerance.stages.1.label>약함</RC2_CaffeineTolerance.stages.1.label>
+  <RC2_CaffeineTolerance.stages.2.label>큼</RC2_CaffeineTolerance.stages.2.label>
+  <RC2_CaffeineTolerance.stages.3.label>심각</RC2_CaffeineTolerance.stages.3.label>
+  <RC2_CaffeineAddiction.label>카페인 중독</RC2_CaffeineAddiction.label>
+  <RC2_CaffeineAddiction.stages.1.label>금단 현상</RC2_CaffeineAddiction.stages.1.label>
+  <RC2_CaffeineTea.label>차로 인해 취함</RC2_CaffeineTea.label>
+  <RC2_CaffeineTea.stages.0.label>기운이 남</RC2_CaffeineTea.stages.0.label>
+  <RC2_CaffeineTea.stages.1.label>흥분함</RC2_CaffeineTea.stages.1.label>
+  <RC2_CaffeineTea.stages.2.label>초조해함</RC2_CaffeineTea.stages.2.label>
+  <RC2_CaffeineTea.stages.3.label>불안정함</RC2_CaffeineTea.stages.3.label>
+  <RC2_CaffeineTea.labelNoun>차 복용</RC2_CaffeineTea.labelNoun>
+
+  <!--1833592532_190816_RimCuisine 2 Bottling and Booze Expansion-->
+  <RC2_HotCocoa.label>따뜻한 코코아</RC2_HotCocoa.label>
+  <RC2_HotCocoa.labelNoun>따뜻한 코코아</RC2_HotCocoa.labelNoun>
+  <RC2_IcedTea.label>시원한 아이스티</RC2_IcedTea.label>
+  <RC2_AmbrosiaAlcoholHigh.label>암브로시아 꿀</RC2_AmbrosiaAlcoholHigh.label>
+  <RC2_AmbrosiaAlcoholHigh.stages.0.label>따뜻한 꿀</RC2_AmbrosiaAlcoholHigh.stages.0.label>
+  <RC2_AmbrosiaAlcoholHigh.stages.1.label>꿀 기운</RC2_AmbrosiaAlcoholHigh.stages.1.label>
+  <RC2_AmbrosiaAlcoholHigh.stages.2.label>꿀에 취함</RC2_AmbrosiaAlcoholHigh.stages.2.label>
+  <RC2_AmbrosiaAlcoholHigh.stages.3.label>꿀에 흥분함</RC2_AmbrosiaAlcoholHigh.stages.3.label>
+  <RC2_AmbrosiaAlcoholAddiction.label>암브로시아 중독</RC2_AmbrosiaAlcoholAddiction.label>
+  <RC2_AmbrosiaAlcoholAddiction.stages.1.label>암브로시아 금단 현상</RC2_AmbrosiaAlcoholAddiction.stages.1.label>
+
+  <!--1833592940_190816_RimCuisine 2 Meals and Munchies Expansion-->
+  <RC2_Icecream.label>아이스크림때문에 시원함</RC2_Icecream.label>
+
+  <!--1833593222_190816_RimCuisine 2 Smokes and Shrooms Expansion-->
+  <RC2_BlueSkyHigh.label>블루스카이에 취함</RC2_BlueSkyHigh.label>
+  <RC2_BlueSkyHigh.labelNoun>블루스카이에 취함</RC2_BlueSkyHigh.labelNoun>
+  <RC2_DreamstickHigh.label>드림스틱에 취함</RC2_DreamstickHigh.label>
+  <RC2_DreamstickHigh.stages.0.label>드림스틱 1단계</RC2_DreamstickHigh.stages.0.label>
+  <RC2_DreamstickHigh.stages.1.label>드림스틱 2단계</RC2_DreamstickHigh.stages.1.label>
+  <RC2_DreamstickHigh.stages.2.label>드림스틱 3단계</RC2_DreamstickHigh.stages.2.label>
+  <RC2_DreamstickHigh.stages.3.label>드림스틱 4단계</RC2_DreamstickHigh.stages.3.label>
+  <RC2_DreamstickHigh.stages.4.label>드림스틱 5단계</RC2_DreamstickHigh.stages.4.label>
+  <RC2_FloxacineHigh.label>프록사신</RC2_FloxacineHigh.label>
+  <RC2_FloxacineTolerance.label>프록사신 내성</RC2_FloxacineTolerance.label>
+  <RC2_FloxacineTolerance.stages.0.label>약함</RC2_FloxacineTolerance.stages.0.label>
+  <RC2_FloxacineTolerance.stages.1.label>약함</RC2_FloxacineTolerance.stages.1.label>
+  <RC2_FloxacineTolerance.stages.2.label>큼</RC2_FloxacineTolerance.stages.2.label>
+  <RC2_FloxacineTolerance.stages.3.label>심각</RC2_FloxacineTolerance.stages.3.label>
+  <RC2_FloxacineAddiction.label>프록사신 내성</RC2_FloxacineAddiction.label>
+  <RC2_FloxacineAddiction.stages.1.label>금단 현상</RC2_FloxacineAddiction.stages.1.label>
+  <RC2_ShroomsHigh.label>환각버섯에 취함</RC2_ShroomsHigh.label>
+  <RC2_ShroomsHigh.stages.0.label>약한 환각 경험 중</RC2_ShroomsHigh.stages.0.label>
+  <RC2_ShroomsHigh.stages.1.label>보통의 환각 경험 중</RC2_ShroomsHigh.stages.1.label>
+  <RC2_ShroomsHigh.stages.2.label>강한 환각 경험 중</RC2_ShroomsHigh.stages.2.label>
+  <RC2_ShroomsTolerance.label>환각버섯 내성</RC2_ShroomsTolerance.label>
+  <RC2_ShroomsTolerance.stages.0.label>약함</RC2_ShroomsTolerance.stages.0.label>
+  <RC2_ShroomsTolerance.stages.1.label>약함</RC2_ShroomsTolerance.stages.1.label>
+  <RC2_ShroomsTolerance.stages.2.label>큼</RC2_ShroomsTolerance.stages.2.label>
+  <RC2_ShroomsTolerance.stages.3.label>심각</RC2_ShroomsTolerance.stages.3.label>
+  <RC2_ShroomsAddiction.label>환각버섯 중독</RC2_ShroomsAddiction.label>
+  <RC2_ShroomsAddiction.stages.1.label>금단 현상</RC2_ShroomsAddiction.stages.1.label>
+  <RC2_SkagHigh.label>스캐그에 취함</RC2_SkagHigh.label>
+  <RC2_SkagHigh.stages.0.label>스캐그에 취함</RC2_SkagHigh.stages.0.label>
+  <RC2_SoldierPillHigh.label>군용 알약</RC2_SoldierPillHigh.label>
+  <RC2_SoldierPillHigh.stages.0.label>군용 알약 저하</RC2_SoldierPillHigh.stages.0.label>
+  <RC2_SoldierPillHigh.stages.1.label>군용 알약에 의한 활동</RC2_SoldierPillHigh.stages.1.label>
+  <RC2_SoldierPillTolerance.label>군용 알약 내성</RC2_SoldierPillTolerance.label>
+  <RC2_SoldierPillTolerance.stages.0.label>약함</RC2_SoldierPillTolerance.stages.0.label>
+  <RC2_SoldierPillTolerance.stages.1.label>약함</RC2_SoldierPillTolerance.stages.1.label>
+  <RC2_SoldierPillTolerance.stages.2.label>큼</RC2_SoldierPillTolerance.stages.2.label>
+  <RC2_SoldierPillTolerance.stages.3.label>심각</RC2_SoldierPillTolerance.stages.3.label>
+  <RC2_SoldierPillAddiction.label>군용 알약 중독</RC2_SoldierPillAddiction.label>
+  <RC2_SoldierPillAddiction.stages.1.label>금단 현상</RC2_SoldierPillAddiction.stages.1.label>
+  <RC2_SunshineHigh.label>선샤인 작용 중</RC2_SunshineHigh.label>
+  <RC2_SunshineTolerance.label>선샤인 내성</RC2_SunshineTolerance.label>
+  <RC2_SunshineTolerance.stages.0.label>약함</RC2_SunshineTolerance.stages.0.label>
+  <RC2_SunshineTolerance.stages.1.label>약함</RC2_SunshineTolerance.stages.1.label>
+  <RC2_SunshineTolerance.stages.2.label>큼</RC2_SunshineTolerance.stages.2.label>
+  <RC2_SunshineTolerance.stages.3.label>심각</RC2_SunshineTolerance.stages.3.label>
+  <RC2_SunshineAddiction.label>선샤인 중독</RC2_SunshineAddiction.label>
+  <RC2_SunshineAddiction.stages.1.label>금단 현상</RC2_SunshineAddiction.stages.1.label>
+  <RC2_TangoHigh.label>탱고에 취함</RC2_TangoHigh.label>
+  <RC2_TangoTolerance.label>탱고 내성</RC2_TangoTolerance.label>
+  <RC2_TangoTolerance.stages.0.label>약함</RC2_TangoTolerance.stages.0.label>
+  <RC2_TangoTolerance.stages.1.label>약함</RC2_TangoTolerance.stages.1.label>
+  <RC2_TangoTolerance.stages.2.label>큼</RC2_TangoTolerance.stages.2.label>
+  <RC2_TangoTolerance.stages.3.label>심각</RC2_TangoTolerance.stages.3.label>
+  <RC2_TangoAddiction.label>탱고 중독</RC2_TangoAddiction.label>
+  <RC2_TangoAddiction.stages.1.label>금단 현상</RC2_TangoAddiction.stages.1.label>
+  <RC2_NicotineTolerance.label>니코틴 내성</RC2_NicotineTolerance.label>
+  <RC2_NicotineTolerance.stages.0.label>약함</RC2_NicotineTolerance.stages.0.label>
+  <RC2_NicotineTolerance.stages.1.label>약함</RC2_NicotineTolerance.stages.1.label>
+  <RC2_NicotineTolerance.stages.2.label>큼</RC2_NicotineTolerance.stages.2.label>
+  <RC2_NicotineTolerance.stages.3.label>심각</RC2_NicotineTolerance.stages.3.label>
+  <RC2_NicotineAddiction.label>니코틴 중독</RC2_NicotineAddiction.label>
+  <RC2_NicotineAddiction.stages.1.label>금단 현상</RC2_NicotineAddiction.stages.1.label>
+  <RC2_VikoHigh.label>비코에 취함</RC2_VikoHigh.label>
+  <RC2_VikoHigh.stages.0.label>비코에 취함</RC2_VikoHigh.stages.0.label>
+  <RC2_ZopeHigh.label>조피에 취함</RC2_ZopeHigh.label>
+  <RC2_ZopeHigh.stages.0.label>조피에 취함</RC2_ZopeHigh.stages.0.label>
+  <RC2_ZopioidTolerance.label>조피오이드 내성</RC2_ZopioidTolerance.label>
+  <RC2_ZopioidTolerance.stages.0.label>약함</RC2_ZopioidTolerance.stages.0.label>
+  <RC2_ZopioidTolerance.stages.1.label>약함</RC2_ZopioidTolerance.stages.1.label>
+  <RC2_ZopioidTolerance.stages.2.label>큼</RC2_ZopioidTolerance.stages.2.label>
+  <RC2_ZopioidTolerance.stages.3.label>심각</RC2_ZopioidTolerance.stages.3.label>
+  <RC2_ZopioidAddiction.label>조피오이드 중독</RC2_ZopioidAddiction.label>
+  <RC2_ZopioidAddiction.stages.1.label>금단 현상</RC2_ZopioidAddiction.stages.1.label>
+
+  <!--761379469_190814_Remote Tech-->
+  <rxSleepingGas.label>수면가스</rxSleepingGas.label>
+  <rxSleepingGas.stages.0.label>.</rxSleepingGas.stages.0.label>
+  <rxSleepingGas.stages.1.label>지침</rxSleepingGas.stages.1.label>
+  <rxSleepingGas.stages.2.label>나른함</rxSleepingGas.stages.2.label>
+  <rxSleepingGas.stages.3.label>졸림</rxSleepingGas.stages.3.label>
+  <rxSleepingGas.stages.4.label>잠듬</rxSleepingGas.stages.4.label>
+
+  <!--814732357_190622_GouRIMet-->
+  <BuffSoup.label>훌륭한 수프!</BuffSoup.label>
+  <BuffSoup.stages.0.label>수프를 먹었습니다.</BuffSoup.stages.0.label>
+  <BuffBerryPie.label>이 케이크는 가짜가 아니었어!</BuffBerryPie.label>
+  <BuffBerryPie.stages.0.label>딸기파이를 먹었습니다.</BuffBerryPie.stages.0.label>
+  <BuffMeatPie.label>군침이 흐르는 고기파이</BuffMeatPie.label>
+  <BuffMeatPie.stages.0.label>고기파이를 먹었습니다.</BuffMeatPie.stages.0.label>
+  <BuffHotCocoa.label>따뜻한 코코아</BuffHotCocoa.label>
+  <BuffHotCocoa.stages.0.label>따뜻한 코코아가 담긴 컵입니다.</BuffHotCocoa.stages.0.label>
+  <BuffHotTea.label>따뜻한 차</BuffHotTea.label>
+  <BuffHotTea.stages.0.label>따뜻한 차가 담긴 컵입니다.</BuffHotTea.stages.0.label>
+
+  <!--1528894129_190818_Mechanite Forge Reborn-->
+  <MFAngeliumHigh.label>세라피움</MFAngeliumHigh.label>
+  <MFProtoBodypart.label>재생 중</MFProtoBodypart.label>
+  <MFCuredBodypart.label>치유된 신체조직</MFCuredBodypart.label>
+  <MFBastionHigh.label>바스티온</MFBastionHigh.label>
+  <MFBastionHigh.stages.0.label>실드파손</MFBastionHigh.stages.0.label>
+  <MFBastionHigh.stages.1.label>낮은실드</MFBastionHigh.stages.1.label>
+  <MFBastionHigh.stages.2.label>중간실드</MFBastionHigh.stages.2.label>
+  <MFBastionHigh.stages.3.label>풀실드</MFBastionHigh.stages.3.label>
+  <MFHerculiumHigh.label>허큘리움</MFHerculiumHigh.label>
+  <MFPeithiumHigh.label>피티움</MFPeithiumHigh.label>
+  <MFHealingFactorHigh.label>트롤블러드</MFHealingFactorHigh.label>
+
+  <!--1842983803_190826_Mental Shield Crystal-->
+  <Psychic_silence.label>파동 침묵</Psychic_silence.label>
+  <Psychic_silence.labelNoun>정신 방어막</Psychic_silence.labelNoun>
+
+  <!--1745038195_190824_RimTaser Reloaded-->
+  <PainSensitivity.label>통증 민감도</PainSensitivity.label>
+  <PainSensitivity.stages.0.label>살짝-숨겨짐</PainSensitivity.stages.0.label>
+  <PainSensitivity.stages.1.label>어느 정도-숨겨짐</PainSensitivity.stages.1.label>
+  <PainSensitivity.stages.2.label>다소-숨겨짐</PainSensitivity.stages.2.label>
+  <PainSensitivity.stages.3.label>많이-숨겨짐</PainSensitivity.stages.3.label>
+  <PainSensitivity.stages.4.label>어째서?-숨겨짐</PainSensitivity.stages.4.label>
+  <PainSensitivity.labelNoun>통증 민감도 증가</PainSensitivity.labelNoun>
+  <Tazed.label>기절함</Tazed.label>
+  <Tazed.stages.0.label>살짝 - 강도: 1</Tazed.stages.0.label>
+  <Tazed.stages.1.label>어느 정도 - 강도: 2</Tazed.stages.1.label>
+  <Tazed.stages.2.label>다소 - 강도: 3</Tazed.stages.2.label>
+  <Tazed.stages.3.label>심각함 - 강도: 4</Tazed.stages.3.label>
+  <Tazed.stages.4.label>치명적 - 강도: 5</Tazed.stages.4.label>
+  <Tazed.injuryProps.destroyedLabel>안락사</Tazed.injuryProps.destroyedLabel>
+  <Tazed.injuryProps.destroyedOutLabel>안락사</Tazed.injuryProps.destroyedOutLabel>
+  <Tazed.labelNoun>과도한 전류</Tazed.labelNoun>
+
+  <!--1761270139_190822_Underground Food-->
+  <UF_AlcavoraxHigh.label>알카보락스</UF_AlcavoraxHigh.label>
+
+  <!--1614231085_190824_Vee's decorating Abyss-->
+  <VAHedLavishHumanMeal.label>호화로운 인육 음식을 먹음</VAHedLavishHumanMeal.label>
+
+</LanguageData>

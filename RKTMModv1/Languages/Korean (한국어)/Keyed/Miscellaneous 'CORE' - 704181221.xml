@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ColonistGroups_GroupSaved>{1} 명의 정착민으로 이루어진 {0} 분대가 저장되었습니다.</ColonistGroups_GroupSaved>
+  <ColonistGroups_GroupNotSet_PositionMode>{0}분대가 지정되지 않았습니다. 소집된 정착민들을 선택하고 Shift+{1}로 지정하십시오.</ColonistGroups_GroupNotSet_PositionMode>
+  <ColonistGroups_GroupInvalid_PositionMode>{0}분대가 지정되지 못했습니다. 소집된 정착민을 발견하지 못했습니다.</ColonistGroups_GroupInvalid_PositionMode>
+  <ColonistGroups_GroupNotSet_SelectionMode>{0}분대가 지정되지 않았습니다. Shift+{1} 로 선택한 정착민들을 지정하십시오.</ColonistGroups_GroupNotSet_SelectionMode>
+  <ColonistGroups_GroupInvalid_SelectionMode>{0}분대가 지정되지 않았습니다. 선택된 정착민이 없습니다.</ColonistGroups_GroupInvalid_SelectionMode>
+  <ColonistGroups_GroupPositioned>{0}분대가 지정된 위치로 가고 있습니다.</ColonistGroups_GroupPositioned>
+  <ColonistGroups_GroupSelected>{0}분대가 선택되었습니다.</ColonistGroups_GroupSelected>
+  <ColonistGroups_PawnsUndrafted>지정된 임무가 없는 정착민의 징집이 해제되었습니다.</ColonistGroups_PawnsUndrafted>
+  <ColonistGroups_GroupSelectionActive>선택 모드가 활성화 되었습니다.</ColonistGroups_GroupSelectionActive>
+  <ColonistGroups_GroupPositioningActive>위치 모드가 활성화 되었습니다.</ColonistGroups_GroupPositioningActive>
+  <ColonistGroups_GameStartHelp_prt1>다방면: 정착민 분대</ColonistGroups_GameStartHelp_prt1>
+  <ColonistGroups_GameStartHelp_prt2>숫자키 6, 7, 8, 9로 정착민들이 어디로 가야 하는지 지정할 수 있습니다.
+이렇게 사용하세요:
+위치를 지정하고 싶은 정착민을 선택 후 목표 지점에 세워두십시오. 그 후에 SHIFT+6을 누르면(분대 1) 그 정착민들의 위치가 저장됩니다.
+저장한 위치를 불러오려면 6을 누르십시오. 같은 방법으로 6, 7, 8, 9도 할 수 있습니다.
+
+참고: 만약 선택 모드(SHIFT+0으로 설정)가 활성화된 경우, 선택만 되고 위치로 이동하지 않습니다.</ColonistGroups_GameStartHelp_prt2>
+  <ColonistGroups_GameStartHelp_prt3>숫자키 0에는 두가지 기능이 있습니다.
+0을 누르면 징집된 정착민들 중 아무 행동도 하지 않는 정착민들의 징집이 풀립니다.
+SHIFT+0으로 선택 모드와 위치 모드를 설정하십시오.
+
+또한, 백스페이스도 있습니다.
+백스페이스 키를 사용하면 임의의 주거구역으로 카메라가 이동합니다.
+일종의 정착지 바로가기 키입니다.
+
+모든 단축키는 키보드 구성에서 변경할 수 있습니다.</ColonistGroups_GameStartHelp_prt3>
+  <ColonistGroups_GameStartHelp_openHelp>SHIFT+K로 다시 열 수 있습니다.</ColonistGroups_GameStartHelp_openHelp>
+  <ColonistGroups_Letter_InfoOpenHelp>정보</ColonistGroups_Letter_InfoOpenHelp>
+  <ColonistGroups_Message_InfoOpenHelp>원할 때 언제든지 다방면: 정착민 분대에 대한 도움말을 열 수 있습니다.
+
+SHIFT + K를 누르면 표시됩니다.</ColonistGroups_Message_InfoOpenHelp>
+  <ColonistSelections_ModOptions_Category>다방면: 정착민 분대</ColonistSelections_ModOptions_Category>
+  <ColonistSelections_ModOptions_ShowGroupIcons>아이콘 표시</ColonistSelections_ModOptions_ShowGroupIcons>
+  <ColonistSelections_ModOptions_ShowGroupIcons_ToolTip>이를 비활성화 하면 모든 정착민 그룹 아이콘이 숨겨집니다.</ColonistSelections_ModOptions_ShowGroupIcons_ToolTip>
+  <ColonistSelections_ModOptions_SizeGroupIconsPercent>화면 해상도와 관련된 아이콘 크기</ColonistSelections_ModOptions_SizeGroupIconsPercent>
+  <ColonistSelections_ModOptions_StartPosGroupIconsX>아이콘 위치 X는 화면 해상도에 영향을 받습니다.</ColonistSelections_ModOptions_StartPosGroupIconsX>
+  <ColonistSelections_ModOptions_StartPosGroupIconsY>아이콘 위치 Y는 화면 해상도에 영향을 받습니다.</ColonistSelections_ModOptions_StartPosGroupIconsY>
+  <ColonistSelection_Icon_ToggleGroupIcons>정착민 그룹 아이콘 토글</ColonistSelection_Icon_ToggleGroupIcons>
+  <ColonistSelection_Icon_Click2CallGroupX>클릭하여 {0} 분대를 호출하십시오. ({1} 정착민)
+Shift + 클릭하면 {0} 분대를 설정합니다.
+키: {2} / Shift + K로 도움말을 엽니다.</ColonistSelection_Icon_Click2CallGroupX>
+  <ColonistSelection_Icon_Click2ReleaseAll>빈둥거리는 모든 정착민들을 해제하려면 클릭하십시오.
+Shift + 클릭하면 분대 모드를 전환합니다.
+키: {0} / Shift + K로 도움말을 엽니다.</ColonistSelection_Icon_Click2ReleaseAll>
+
+</LanguageData>

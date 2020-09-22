@@ -1,0 +1,2058 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1115882219_190816_Rim of Madness - Werewolves-->
+  <ROM_Werewolf.label>발톱</ROM_Werewolf.label>
+  <ROM_Werewolf.labelPlural>발톱</ROM_Werewolf.labelPlural>
+  <ROM_WolfHandler.label>세력</ROM_WolfHandler.label>
+  <ROM_WolfHandler.labelPlural>세력</ROM_WolfHandler.labelPlural>
+  <ROM_WerewolfFang.label>송곳니</ROM_WerewolfFang.label>
+  <ROM_WerewolfFang.labelPlural>송곳니</ROM_WerewolfFang.labelPlural>
+  <ROM_WerewolfAlpha.label>머리</ROM_WerewolfAlpha.label>
+  <ROM_WerewolfAlpha.labelPlural>손</ROM_WerewolfAlpha.labelPlural>
+  <ROM_WerewolfNewBlood.label>새로운 피</ROM_WerewolfNewBlood.label>
+  <ROM_WerewolfNewBlood.labelPlural>새로운 피</ROM_WerewolfNewBlood.labelPlural>
+  <ROM_WerewolfStraggler.label>낙오자</ROM_WerewolfStraggler.label>
+  <ROM_WerewolfStraggler.labelPlural>낙오자</ROM_WerewolfStraggler.labelPlural>
+
+  <!--1180720179_190617_[KV] Animal Costumes-->
+  <Town_Guard_Cat.label>도시 고양이 경비대</Town_Guard_Cat.label>
+  <Town_Guard_Cat.labelPlural>도시 고양이 경비대</Town_Guard_Cat.labelPlural>
+  <Town_Guard_Dog.label>도시 개 경비대</Town_Guard_Dog.label>
+  <Town_Guard_Dog.labelPlural>도시 개 경비대</Town_Guard_Dog.labelPlural>
+  <Town_Trader_Tanooki.label>도시 상인</Town_Trader_Tanooki.label>
+  <Town_Trader_Tanooki.labelPlural>도시 상인</Town_Trader_Tanooki.labelPlural>
+  <Elite_Guard_Cat.label>도시 고양이 경비대</Elite_Guard_Cat.label>
+  <Elite_Guard_Cat.labelPlural>도시 고양이 경비대</Elite_Guard_Cat.labelPlural>
+  <Elite_Guard_Dog.label>도시 개 경비대</Elite_Guard_Dog.label>
+  <Elite_Guard_Dog.labelPlural>도시 개 경비대</Elite_Guard_Dog.labelPlural>
+  <Elite_Trader_Tanooki.label>도시 상인</Elite_Trader_Tanooki.label>
+  <Elite_Trader_Tanooki.labelPlural>도시 상인</Elite_Trader_Tanooki.labelPlural>
+  <Tribal_Warrior_Cat.label>고양이 전사</Tribal_Warrior_Cat.label>
+  <Tribal_Warrior_Cat.labelPlural>고양이 전사</Tribal_Warrior_Cat.labelPlural>
+  <Tribal_Hunter_Dog.label>개 사냥꾼</Tribal_Hunter_Dog.label>
+  <Tribal_Hunter_Dog.labelPlural>개 사냥꾼</Tribal_Hunter_Dog.labelPlural>
+  <Tribal_Trader_Tanooki.label>상인</Tribal_Trader_Tanooki.label>
+  <Tribal_Trader_Tanooki.labelPlural>상인</Tribal_Trader_Tanooki.labelPlural>
+  <Tribal_CatBerserker.label>광전사</Tribal_CatBerserker.label>
+  <Tribal_CatBerserker.labelPlural>광전사</Tribal_CatBerserker.labelPlural>
+  <Tribal_DogHeavyArcher.label>중갑 궁수</Tribal_DogHeavyArcher.label>
+  <Tribal_DogHeavyArcher.labelPlural>중갑 궁수</Tribal_DogHeavyArcher.labelPlural>
+  <Tribal_Cheif_Trader_Tanooki.label>상인</Tribal_Cheif_Trader_Tanooki.label>
+  <Tribal_Cheif_Trader_Tanooki.labelPlural>상인</Tribal_Cheif_Trader_Tanooki.labelPlural>
+
+  <!--1187010034_181028_Rim of Madness - Vampires-->
+  <ROMV_AbyssalArmKind.label>심연의 촉수</ROMV_AbyssalArmKind.label>
+  <ROMV_AbyssalArmKind.lifeStages.0.label>심연의 촉수</ROMV_AbyssalArmKind.lifeStages.0.label>
+  <ROMV_AbyssalArmKind.lifeStages.1.label>심연의 촉수</ROMV_AbyssalArmKind.lifeStages.1.label>
+  <ROMV_AbyssalArmKind.lifeStages.2.label>심연의 촉수</ROMV_AbyssalArmKind.lifeStages.2.label>
+  <ROMV_AbyssalArmKind.labelPlural>심연의 촉수들</ROMV_AbyssalArmKind.labelPlural>
+  <ROMV_AbyssalArmKind.lifeStages.0.labelPlural>심연의 촉수들</ROMV_AbyssalArmKind.lifeStages.0.labelPlural>
+  <ROMV_AbyssalArmKind.lifeStages.1.labelPlural>심연의 촉수들</ROMV_AbyssalArmKind.lifeStages.1.labelPlural>
+  <ROMV_AbyssalArmKind.lifeStages.2.labelPlural>심연의 촉수들</ROMV_AbyssalArmKind.lifeStages.2.labelPlural>
+  <ROMV_AncientVampireKind.label>고대 흡혈귀</ROMV_AncientVampireKind.label>
+  <ROMV_AncientVampireKind.labelPlural>고대 흡혈귀들</ROMV_AncientVampireKind.labelPlural>
+  <ROMV_BatKind.label>박쥐</ROMV_BatKind.label>
+  <ROMV_BatKind.lifeStages.0.label>박쥐</ROMV_BatKind.lifeStages.0.label>
+  <ROMV_BatKind.lifeStages.0.labelPlural>박쥐</ROMV_BatKind.lifeStages.0.labelPlural>
+  <ROMV_BatKind.lifeStages.1.label>박쥐</ROMV_BatKind.lifeStages.1.label>
+  <ROMV_BatKind.lifeStages.1.labelPlural>박쥐</ROMV_BatKind.lifeStages.1.labelPlural>
+  <ROMV_BatKind.lifeStages.2.label>박쥐</ROMV_BatKind.lifeStages.2.label>
+  <ROMV_BatKind.lifeStages.2.labelPlural>박쥐</ROMV_BatKind.lifeStages.2.labelPlural>
+  <ROMV_BatKind.labelPlural>박쥐들</ROMV_BatKind.labelPlural>
+  <ROMV_BloodMistKind.label>핏빛 안개</ROMV_BloodMistKind.label>
+  <ROMV_BloodMistKind.lifeStages.0.label>핏빛 안개</ROMV_BloodMistKind.lifeStages.0.label>
+  <ROMV_BloodMistKind.lifeStages.1.label>핏빛 안개</ROMV_BloodMistKind.lifeStages.1.label>
+  <ROMV_BloodMistKind.lifeStages.2.label>핏빛 안개</ROMV_BloodMistKind.lifeStages.2.label>
+  <ROMV_BloodMistKind.labelPlural>핏빛 안개들</ROMV_BloodMistKind.labelPlural>
+  <ROMV_BloodMistKind.lifeStages.0.labelPlural>핏빛 안개들</ROMV_BloodMistKind.lifeStages.0.labelPlural>
+  <ROMV_BloodMistKind.lifeStages.1.labelPlural>핏빛 안개들</ROMV_BloodMistKind.lifeStages.1.labelPlural>
+  <ROMV_BloodMistKind.lifeStages.2.labelPlural>핏빛 안개들</ROMV_BloodMistKind.lifeStages.2.labelPlural>
+  <ROMV_BondedMortalKind.label>구속된 필멸자</ROMV_BondedMortalKind.label>
+  <ROMV_BondedMortalKind.labelPlural>구속된 필멸자들</ROMV_BondedMortalKind.labelPlural>
+  <ROMV_AbyssalArmKind.lifeStages.0.labelFemale>암컷 심연의 촉수</ROMV_AbyssalArmKind.lifeStages.0.labelFemale>
+  <ROMV_AbyssalArmKind.lifeStages.1.labelFemale>암컷 심연의 촉수</ROMV_AbyssalArmKind.lifeStages.1.labelFemale>
+  <ROMV_AbyssalArmKind.lifeStages.2.labelFemale>암컷 심연의 촉수</ROMV_AbyssalArmKind.lifeStages.2.labelFemale>
+  <ROMV_AbyssalArmKind.labelFemale>암컷 심연의 촉수</ROMV_AbyssalArmKind.labelFemale>
+  <ROMV_AbyssalArmKind.lifeStages.0.labelFemalePlural>암컷 심연의 촉수들</ROMV_AbyssalArmKind.lifeStages.0.labelFemalePlural>
+  <ROMV_AbyssalArmKind.lifeStages.1.labelFemalePlural>암컷 심연의 촉수들</ROMV_AbyssalArmKind.lifeStages.1.labelFemalePlural>
+  <ROMV_AbyssalArmKind.lifeStages.2.labelFemalePlural>암컷 심연의 촉수들</ROMV_AbyssalArmKind.lifeStages.2.labelFemalePlural>
+  <ROMV_AbyssalArmKind.labelFemalePlural>암컷 심연의 촉수들</ROMV_AbyssalArmKind.labelFemalePlural>
+  <ROMV_BatKind.lifeStages.0.labelFemale>암컷 박쥐</ROMV_BatKind.lifeStages.0.labelFemale>
+  <ROMV_BatKind.lifeStages.1.labelFemale>암컷 박쥐</ROMV_BatKind.lifeStages.1.labelFemale>
+  <ROMV_BatKind.lifeStages.2.labelFemale>암컷 박쥐</ROMV_BatKind.lifeStages.2.labelFemale>
+  <ROMV_BatKind.labelFemale>암컷 박쥐</ROMV_BatKind.labelFemale>
+  <ROMV_BatKind.lifeStages.0.labelFemalePlural>암컷 박쥐들</ROMV_BatKind.lifeStages.0.labelFemalePlural>
+  <ROMV_BatKind.lifeStages.1.labelFemalePlural>암컷 박쥐들</ROMV_BatKind.lifeStages.1.labelFemalePlural>
+  <ROMV_BatKind.lifeStages.2.labelFemalePlural>암컷 박쥐들</ROMV_BatKind.lifeStages.2.labelFemalePlural>
+  <ROMV_BatKind.labelFemalePlural>암컷 박쥐들</ROMV_BatKind.labelFemalePlural>
+  <ROMV_BloodMistKind.lifeStages.0.labelFemale>암컷 핏빛 안개</ROMV_BloodMistKind.lifeStages.0.labelFemale>
+  <ROMV_BloodMistKind.lifeStages.1.labelFemale>암컷 핏빛 안개</ROMV_BloodMistKind.lifeStages.1.labelFemale>
+  <ROMV_BloodMistKind.lifeStages.2.labelFemale>암컷 핏빛 안개</ROMV_BloodMistKind.lifeStages.2.labelFemale>
+  <ROMV_BloodMistKind.labelFemale>암컷 핏빛 안개</ROMV_BloodMistKind.labelFemale>
+  <ROMV_BloodMistKind.lifeStages.0.labelFemalePlural>암컷 핏빛 안개들</ROMV_BloodMistKind.lifeStages.0.labelFemalePlural>
+  <ROMV_BloodMistKind.lifeStages.1.labelFemalePlural>암컷 핏빛 안개들</ROMV_BloodMistKind.lifeStages.1.labelFemalePlural>
+  <ROMV_BloodMistKind.lifeStages.2.labelFemalePlural>암컷 핏빛 안개들</ROMV_BloodMistKind.lifeStages.2.labelFemalePlural>
+  <ROMV_BloodMistKind.labelFemalePlural>암컷 핏빛 안개들</ROMV_BloodMistKind.labelFemalePlural>
+  <ROMV_MistKind.lifeStages.0.labelFemale>암컷 안개</ROMV_MistKind.lifeStages.0.labelFemale>
+  <ROMV_MistKind.lifeStages.1.labelFemale>암컷 안개</ROMV_MistKind.lifeStages.1.labelFemale>
+  <ROMV_MistKind.lifeStages.2.labelFemale>암컷 안개</ROMV_MistKind.lifeStages.2.labelFemale>
+  <ROMV_MistKind.labelFemale>암컷 안개</ROMV_MistKind.labelFemale>
+  <ROMV_MistKind.lifeStages.0.labelFemalePlural>암컷 안개들</ROMV_MistKind.lifeStages.0.labelFemalePlural>
+  <ROMV_MistKind.lifeStages.1.labelFemalePlural>암컷 안개들</ROMV_MistKind.lifeStages.1.labelFemalePlural>
+  <ROMV_MistKind.lifeStages.2.labelFemalePlural>암컷 안개들</ROMV_MistKind.lifeStages.2.labelFemalePlural>
+  <ROMV_MistKind.labelFemalePlural>암컷 안개들</ROMV_MistKind.labelFemalePlural>
+  <ROMV_MonstrosityA.labelFemalePlural>암컷 괴물들</ROMV_MonstrosityA.labelFemalePlural>
+  <ROMV_MonstrosityA.lifeStages.0.labelFemale>암컷 괴물</ROMV_MonstrosityA.lifeStages.0.labelFemale>
+  <ROMV_MonstrosityA.lifeStages.1.labelFemale>암컷 괴물</ROMV_MonstrosityA.lifeStages.1.labelFemale>
+  <ROMV_MonstrosityA.lifeStages.2.labelFemale>암컷 괴물</ROMV_MonstrosityA.lifeStages.2.labelFemale>
+  <ROMV_MonstrosityA.labelFemale>암컷 괴물</ROMV_MonstrosityA.labelFemale>
+  <ROMV_MonstrosityA.lifeStages.0.labelFemalePlural>암컷 괴물들</ROMV_MonstrosityA.lifeStages.0.labelFemalePlural>
+  <ROMV_MonstrosityA.lifeStages.1.labelFemalePlural>암컷 괴물들</ROMV_MonstrosityA.lifeStages.1.labelFemalePlural>
+  <ROMV_MonstrosityA.lifeStages.2.labelFemalePlural>암컷 괴물들</ROMV_MonstrosityA.lifeStages.2.labelFemalePlural>
+  <ROMV_BatSpectralKind.lifeStages.0.labelFemale>암컷 유령 박쥐</ROMV_BatSpectralKind.lifeStages.0.labelFemale>
+  <ROMV_BatSpectralKind.lifeStages.1.labelFemale>암컷 유령 박쥐</ROMV_BatSpectralKind.lifeStages.1.labelFemale>
+  <ROMV_BatSpectralKind.lifeStages.2.labelFemale>암컷 유령 박쥐</ROMV_BatSpectralKind.lifeStages.2.labelFemale>
+  <ROMV_BatSpectralKind.labelFemale>암컷 유령 박쥐</ROMV_BatSpectralKind.labelFemale>
+  <ROMV_BatSpectralKind.lifeStages.0.labelFemalePlural>암컷 유령 박쥐들</ROMV_BatSpectralKind.lifeStages.0.labelFemalePlural>
+  <ROMV_BatSpectralKind.lifeStages.1.labelFemalePlural>암컷 유령 박쥐들</ROMV_BatSpectralKind.lifeStages.1.labelFemalePlural>
+  <ROMV_BatSpectralKind.lifeStages.2.labelFemalePlural>암컷 유령 박쥐들</ROMV_BatSpectralKind.lifeStages.2.labelFemalePlural>
+  <ROMV_BatSpectralKind.labelFemalePlural>암컷 유령 박쥐들</ROMV_BatSpectralKind.labelFemalePlural>
+  <ROMV_WolfSpectral.lifeStages.1.labelFemale>암컷 유령 늑대</ROMV_WolfSpectral.lifeStages.1.labelFemale>
+  <ROMV_WolfSpectral.lifeStages.2.labelFemale>암컷 유령 늑대</ROMV_WolfSpectral.lifeStages.2.labelFemale>
+  <ROMV_WolfSpectral.labelFemale>암컷 유령 늑대</ROMV_WolfSpectral.labelFemale>
+  <ROMV_WolfSpectral.lifeStages.0.labelFemalePlural>암컷 새끼 유령 늑대들</ROMV_WolfSpectral.lifeStages.0.labelFemalePlural>
+  <ROMV_WolfSpectral.lifeStages.0.labelFemale>암컷 새끼 유령 늑대</ROMV_WolfSpectral.lifeStages.0.labelFemale>
+  <ROMV_WolfSpectral.lifeStages.1.labelFemalePlural>암컷 유령 늑대들</ROMV_WolfSpectral.lifeStages.1.labelFemalePlural>
+  <ROMV_WolfSpectral.lifeStages.2.labelFemalePlural>암컷 유령 늑대들</ROMV_WolfSpectral.lifeStages.2.labelFemalePlural>
+  <ROMV_WolfSpectral.labelFemalePlural>암컷 유령 늑대들</ROMV_WolfSpectral.labelFemalePlural>
+  <ROMV_FirstVampireKind.label>시조 흡혈귀</ROMV_FirstVampireKind.label>
+  <ROMV_FirstVampireKind.labelPlural>시조 흡혈귀들</ROMV_FirstVampireKind.labelPlural>
+  <ROMV_GhoulKind.label>구울</ROMV_GhoulKind.label>
+  <ROMV_GhoulKind.labelPlural>구울들</ROMV_GhoulKind.labelPlural>
+  <ROMV_GreaterVampireKind.label>상급 흡혈귀</ROMV_GreaterVampireKind.label>
+  <ROMV_GreaterVampireKind.labelPlural>상급 흡혈귀들</ROMV_GreaterVampireKind.labelPlural>
+  <ROMV_LesserGhoulKind.label>하급 구울</ROMV_LesserGhoulKind.label>
+  <ROMV_LesserGhoulKind.labelPlural>하급 구울들</ROMV_LesserGhoulKind.labelPlural>
+  <ROMV_LesserVampireKind.label>하급 흡혈귀</ROMV_LesserVampireKind.label>
+  <ROMV_LesserVampireKind.labelPlural>하급 흡혈귀들</ROMV_LesserVampireKind.labelPlural>
+  <ROMV_AbyssalArmKind.lifeStages.0.labelMale>수컷 심연의 촉수</ROMV_AbyssalArmKind.lifeStages.0.labelMale>
+  <ROMV_AbyssalArmKind.lifeStages.1.labelMale>수컷 심연의 촉수</ROMV_AbyssalArmKind.lifeStages.1.labelMale>
+  <ROMV_AbyssalArmKind.lifeStages.2.labelMale>수컷 심연의 촉수</ROMV_AbyssalArmKind.lifeStages.2.labelMale>
+  <ROMV_AbyssalArmKind.labelMale>수컷 심연의 촉수</ROMV_AbyssalArmKind.labelMale>
+  <ROMV_AbyssalArmKind.lifeStages.0.labelMalePlural>수컷 심연의 촉수들</ROMV_AbyssalArmKind.lifeStages.0.labelMalePlural>
+  <ROMV_AbyssalArmKind.lifeStages.1.labelMalePlural>수컷 심연의 촉수들</ROMV_AbyssalArmKind.lifeStages.1.labelMalePlural>
+  <ROMV_AbyssalArmKind.lifeStages.2.labelMalePlural>수컷 심연의 촉수들</ROMV_AbyssalArmKind.lifeStages.2.labelMalePlural>
+  <ROMV_AbyssalArmKind.labelMalePlural>수컷 심연의 촉수들</ROMV_AbyssalArmKind.labelMalePlural>
+  <ROMV_BatKind.lifeStages.0.labelMale>수컷 박쥐</ROMV_BatKind.lifeStages.0.labelMale>
+  <ROMV_BatKind.lifeStages.1.labelMale>수컷 박쥐</ROMV_BatKind.lifeStages.1.labelMale>
+  <ROMV_BatKind.lifeStages.2.labelMale>수컷 박쥐</ROMV_BatKind.lifeStages.2.labelMale>
+  <ROMV_BatKind.labelMale>수컷 박쥐</ROMV_BatKind.labelMale>
+  <ROMV_BatKind.lifeStages.0.labelMalePlural>수컷 박쥐들</ROMV_BatKind.lifeStages.0.labelMalePlural>
+  <ROMV_BatKind.lifeStages.1.labelMalePlural>수컷 박쥐들</ROMV_BatKind.lifeStages.1.labelMalePlural>
+  <ROMV_BatKind.lifeStages.2.labelMalePlural>수컷 박쥐들</ROMV_BatKind.lifeStages.2.labelMalePlural>
+  <ROMV_BatKind.labelMalePlural>수컷 박쥐들</ROMV_BatKind.labelMalePlural>
+  <ROMV_BloodMistKind.lifeStages.0.labelMale>수컷 핏빛 안개</ROMV_BloodMistKind.lifeStages.0.labelMale>
+  <ROMV_BloodMistKind.lifeStages.1.labelMale>수컷 핏빛 안개</ROMV_BloodMistKind.lifeStages.1.labelMale>
+  <ROMV_BloodMistKind.lifeStages.2.labelMale>수컷 핏빛 안개</ROMV_BloodMistKind.lifeStages.2.labelMale>
+  <ROMV_BloodMistKind.labelMale>수컷 핏빛 안개</ROMV_BloodMistKind.labelMale>
+  <ROMV_BloodMistKind.lifeStages.0.labelMalePlural>수컷 핏빛 안개들</ROMV_BloodMistKind.lifeStages.0.labelMalePlural>
+  <ROMV_BloodMistKind.lifeStages.1.labelMalePlural>수컷 핏빛 안개들</ROMV_BloodMistKind.lifeStages.1.labelMalePlural>
+  <ROMV_BloodMistKind.lifeStages.2.labelMalePlural>수컷 핏빛 안개들</ROMV_BloodMistKind.lifeStages.2.labelMalePlural>
+  <ROMV_BloodMistKind.labelMalePlural>수컷 핏빛 안개들</ROMV_BloodMistKind.labelMalePlural>
+  <ROMV_MistKind.lifeStages.0.labelMale>수컷 안개</ROMV_MistKind.lifeStages.0.labelMale>
+  <ROMV_MistKind.lifeStages.1.labelMale>수컷 안개</ROMV_MistKind.lifeStages.1.labelMale>
+  <ROMV_MistKind.lifeStages.2.labelMale>수컷 안개</ROMV_MistKind.lifeStages.2.labelMale>
+  <ROMV_MistKind.labelMale>수컷 안개</ROMV_MistKind.labelMale>
+  <ROMV_MistKind.lifeStages.0.labelMalePlural>수컷 안개들</ROMV_MistKind.lifeStages.0.labelMalePlural>
+  <ROMV_MistKind.lifeStages.1.labelMalePlural>수컷 안개들</ROMV_MistKind.lifeStages.1.labelMalePlural>
+  <ROMV_MistKind.lifeStages.2.labelMalePlural>수컷 안개들</ROMV_MistKind.lifeStages.2.labelMalePlural>
+  <ROMV_MistKind.labelMalePlural>수컷 안개들</ROMV_MistKind.labelMalePlural>
+  <ROMV_MonstrosityA.labelMalePlural>수컷 괴물들</ROMV_MonstrosityA.labelMalePlural>
+  <ROMV_MonstrosityA.lifeStages.0.labelMale>수컷 괴물</ROMV_MonstrosityA.lifeStages.0.labelMale>
+  <ROMV_MonstrosityA.lifeStages.1.labelMale>수컷 괴물</ROMV_MonstrosityA.lifeStages.1.labelMale>
+  <ROMV_MonstrosityA.lifeStages.2.labelMale>수컷 괴물</ROMV_MonstrosityA.lifeStages.2.labelMale>
+  <ROMV_MonstrosityA.labelMale>수컷 괴물</ROMV_MonstrosityA.labelMale>
+  <ROMV_MonstrosityA.lifeStages.0.labelMalePlural>수컷 괴물들</ROMV_MonstrosityA.lifeStages.0.labelMalePlural>
+  <ROMV_MonstrosityA.lifeStages.1.labelMalePlural>수컷 괴물들</ROMV_MonstrosityA.lifeStages.1.labelMalePlural>
+  <ROMV_MonstrosityA.lifeStages.2.labelMalePlural>수컷 괴물들</ROMV_MonstrosityA.lifeStages.2.labelMalePlural>
+  <ROMV_PrinceVampireKind.labelMale>남성 왕자</ROMV_PrinceVampireKind.labelMale>
+  <ROMV_PrinceVampireKind.labelMalePlural>남성 왕자들</ROMV_PrinceVampireKind.labelMalePlural>
+  <ROMV_BatSpectralKind.lifeStages.0.labelMale>수컷 유령 박쥐</ROMV_BatSpectralKind.lifeStages.0.labelMale>
+  <ROMV_BatSpectralKind.lifeStages.1.labelMale>수컷 유령 박쥐</ROMV_BatSpectralKind.lifeStages.1.labelMale>
+  <ROMV_BatSpectralKind.lifeStages.2.labelMale>수컷 유령 박쥐</ROMV_BatSpectralKind.lifeStages.2.labelMale>
+  <ROMV_BatSpectralKind.labelMale>수컷 유령 박쥐</ROMV_BatSpectralKind.labelMale>
+  <ROMV_BatSpectralKind.lifeStages.0.labelMalePlural>수컷 유령 박쥐들</ROMV_BatSpectralKind.lifeStages.0.labelMalePlural>
+  <ROMV_BatSpectralKind.lifeStages.1.labelMalePlural>수컷 유령 박쥐들</ROMV_BatSpectralKind.lifeStages.1.labelMalePlural>
+  <ROMV_BatSpectralKind.lifeStages.2.labelMalePlural>수컷 유령 박쥐들</ROMV_BatSpectralKind.lifeStages.2.labelMalePlural>
+  <ROMV_BatSpectralKind.labelMalePlural>수컷 유령 박쥐들</ROMV_BatSpectralKind.labelMalePlural>
+  <ROMV_WolfSpectral.lifeStages.1.labelMale>수컷 유령 늑대</ROMV_WolfSpectral.lifeStages.1.labelMale>
+  <ROMV_WolfSpectral.lifeStages.2.labelMale>수컷 유령 늑대</ROMV_WolfSpectral.lifeStages.2.labelMale>
+  <ROMV_WolfSpectral.labelMale>수컷 유령 늑대</ROMV_WolfSpectral.labelMale>
+  <ROMV_WolfSpectral.lifeStages.0.labelMalePlural>수컷 새끼 유령 늑대들</ROMV_WolfSpectral.lifeStages.0.labelMalePlural>
+  <ROMV_WolfSpectral.lifeStages.0.labelMale>수컷 새끼 유령 늑대</ROMV_WolfSpectral.lifeStages.0.labelMale>
+  <ROMV_WolfSpectral.lifeStages.1.labelMalePlural>수컷 유령 늑대들</ROMV_WolfSpectral.lifeStages.1.labelMalePlural>
+  <ROMV_WolfSpectral.lifeStages.2.labelMalePlural>수컷 유령 늑대들</ROMV_WolfSpectral.lifeStages.2.labelMalePlural>
+  <ROMV_WolfSpectral.labelMalePlural>수컷 유령 늑대들</ROMV_WolfSpectral.labelMalePlural>
+  <ROMV_MistKind.label>안개</ROMV_MistKind.label>
+  <ROMV_MistKind.lifeStages.0.label>안개</ROMV_MistKind.lifeStages.0.label>
+  <ROMV_MistKind.lifeStages.1.label>안개</ROMV_MistKind.lifeStages.1.label>
+  <ROMV_MistKind.lifeStages.2.label>안개</ROMV_MistKind.lifeStages.2.label>
+  <ROMV_MistKind.labelPlural>안개들</ROMV_MistKind.labelPlural>
+  <ROMV_MistKind.lifeStages.0.labelPlural>안개들</ROMV_MistKind.lifeStages.0.labelPlural>
+  <ROMV_MistKind.lifeStages.1.labelPlural>안개들</ROMV_MistKind.lifeStages.1.labelPlural>
+  <ROMV_MistKind.lifeStages.2.labelPlural>안개들</ROMV_MistKind.lifeStages.2.labelPlural>
+  <ROMV_MonstrosityA.labelPlural>괴물들</ROMV_MonstrosityA.labelPlural>
+  <ROMV_MonstrosityA.lifeStages.0.labelPlural>괴물들</ROMV_MonstrosityA.lifeStages.0.labelPlural>
+  <ROMV_MonstrosityA.lifeStages.1.labelPlural>괴물들</ROMV_MonstrosityA.lifeStages.1.labelPlural>
+  <ROMV_MonstrosityA.lifeStages.2.labelPlural>괴물들</ROMV_MonstrosityA.lifeStages.2.labelPlural>
+  <ROMV_MonstrosityA.label>괴물</ROMV_MonstrosityA.label>
+  <ROMV_MonstrosityA.lifeStages.0.label>괴물</ROMV_MonstrosityA.lifeStages.0.label>
+  <ROMV_MonstrosityA.lifeStages.1.label>괴물</ROMV_MonstrosityA.lifeStages.1.label>
+  <ROMV_MonstrosityA.lifeStages.2.label>괴물</ROMV_MonstrosityA.lifeStages.2.label>
+  <ROMV_PrinceVampireKind.label>왕자</ROMV_PrinceVampireKind.label>
+  <ROMV_PrinceVampireKind.labelPlural>왕자들</ROMV_PrinceVampireKind.labelPlural>
+  <ROMV_PrinceVampireKind.labelFemale>공주</ROMV_PrinceVampireKind.labelFemale>
+  <ROMV_PrinceVampireKind.labelFemalePlural>공주들</ROMV_PrinceVampireKind.labelFemalePlural>
+  <ROMV_BatSpectralKind.label>유령 박쥐</ROMV_BatSpectralKind.label>
+  <ROMV_BatSpectralKind.lifeStages.0.label>유령 박쥐</ROMV_BatSpectralKind.lifeStages.0.label>
+  <ROMV_BatSpectralKind.lifeStages.0.labelPlural>유령 박쥐</ROMV_BatSpectralKind.lifeStages.0.labelPlural>
+  <ROMV_BatSpectralKind.lifeStages.1.label>유령 박쥐</ROMV_BatSpectralKind.lifeStages.1.label>
+  <ROMV_BatSpectralKind.lifeStages.1.labelPlural>유령 박쥐</ROMV_BatSpectralKind.lifeStages.1.labelPlural>
+  <ROMV_BatSpectralKind.lifeStages.2.label>유령 박쥐</ROMV_BatSpectralKind.lifeStages.2.label>
+  <ROMV_BatSpectralKind.lifeStages.2.labelPlural>유령 박쥐</ROMV_BatSpectralKind.lifeStages.2.labelPlural>
+  <ROMV_BatSpectralKind.labelPlural>유령 박쥐들</ROMV_BatSpectralKind.labelPlural>
+  <ROMV_WolfSpectral.label>유령 늑대</ROMV_WolfSpectral.label>
+  <ROMV_WolfSpectral.lifeStages.1.label>유령 늑대</ROMV_WolfSpectral.lifeStages.1.label>
+  <ROMV_WolfSpectral.lifeStages.2.label>유령 늑대</ROMV_WolfSpectral.lifeStages.2.label>
+  <ROMV_WolfSpectral.lifeStages.0.labelPlural>새끼 유령 늑대들</ROMV_WolfSpectral.lifeStages.0.labelPlural>
+  <ROMV_WolfSpectral.lifeStages.0.label>새끼 유령 늑대</ROMV_WolfSpectral.lifeStages.0.label>
+  <ROMV_WolfSpectral.labelPlural>유령 늑대들</ROMV_WolfSpectral.labelPlural>
+  <ROMV_WolfSpectral.lifeStages.1.labelPlural>유령 늑대들</ROMV_WolfSpectral.lifeStages.1.labelPlural>
+  <ROMV_WolfSpectral.lifeStages.2.labelPlural>유령 늑대들</ROMV_WolfSpectral.lifeStages.2.labelPlural>
+  <ROMV_ThinbloodVampireKind.label>옅은피 흡혈귀</ROMV_ThinbloodVampireKind.label>
+  <ROMV_ThinbloodVampireKind.labelPlural>옅은피 흡혈귀들</ROMV_ThinbloodVampireKind.labelPlural>
+  <ROMV_VampireKind.label>흡혈귀</ROMV_VampireKind.label>
+  <ROMV_VampireKind.labelPlural>흡혈귀들</ROMV_VampireKind.labelPlural>
+
+  <!--1204015134_190714_RimGate - Jaffa, Kree!-->
+  <JaffaWarrior01.label>자파 전사</JaffaWarrior01.label>
+  <JaffaWarrior01.labelPlural>자파 전사</JaffaWarrior01.labelPlural>
+  <JaffaWarrior01.labelMale>남성 자파 전사</JaffaWarrior01.labelMale>
+  <JaffaWarrior01.labelMalePlural>남성 자파 전사</JaffaWarrior01.labelMalePlural>
+  <JaffaWarrior01.labelFemale>여성 자파 전사</JaffaWarrior01.labelFemale>
+  <JaffaWarrior01.labelFemalePlural>여성 자파 전사</JaffaWarrior01.labelFemalePlural>
+  <JaffaWarrior02.label>자파 전사</JaffaWarrior02.label>
+  <JaffaWarrior02.labelPlural>자파 전사</JaffaWarrior02.labelPlural>
+  <JaffaWarrior02.labelMale>남성 자파 전사</JaffaWarrior02.labelMale>
+  <JaffaWarrior02.labelMalePlural>남성 자파 전사</JaffaWarrior02.labelMalePlural>
+  <JaffaWarrior02.labelFemale>여성 자파 전사</JaffaWarrior02.labelFemale>
+  <JaffaWarrior02.labelFemalePlural>여성 자파 전사</JaffaWarrior02.labelFemalePlural>
+  <JaffaWarrior03.label>자파 전사</JaffaWarrior03.label>
+  <JaffaWarrior03.labelPlural>자파 전사</JaffaWarrior03.labelPlural>
+  <JaffaWarrior03.labelMale>남성 자파 전사</JaffaWarrior03.labelMale>
+  <JaffaWarrior03.labelMalePlural>남성 자파 전사</JaffaWarrior03.labelMalePlural>
+  <JaffaWarrior03.labelFemale>여성 자파 전사</JaffaWarrior03.labelFemale>
+  <JaffaWarrior03.labelFemalePlural>여성 자파 전사</JaffaWarrior03.labelFemalePlural>
+  <SerpentGuard.label>서펜트 경비대</SerpentGuard.label>
+  <SerpentGuard.labelPlural>서펜트 경비대</SerpentGuard.labelPlural>
+  <SerpentGuard.labelMale>남성 서펜트 경비대</SerpentGuard.labelMale>
+  <SerpentGuard.labelMalePlural>남성 서펜트 경비대</SerpentGuard.labelMalePlural>
+  <SerpentGuard.labelFemale>여성 서펜트 경비대</SerpentGuard.labelFemale>
+  <SerpentGuard.labelFemalePlural>여성 서펜트 경비대</SerpentGuard.labelFemalePlural>
+  <HorusGuard.label>호루스 경비대</HorusGuard.label>
+  <HorusGuard.labelPlural>호루스 경비대</HorusGuard.labelPlural>
+  <HorusGuard.labelMale>남성 호루스 경비대</HorusGuard.labelMale>
+  <HorusGuard.labelMalePlural>남성 호루스 경비대</HorusGuard.labelMalePlural>
+  <HorusGuard.labelFemale>여성 호루ㅡ스 경비대</HorusGuard.labelFemale>
+  <HorusGuard.labelFemalePlural>여성 호루ㅡ스 경비대</HorusGuard.labelFemalePlural>
+  <JackalGuard.label>자칼 경비대</JackalGuard.label>
+  <JackalGuard.labelPlural>자칼 경비대</JackalGuard.labelPlural>
+  <JackalGuard.labelMale>남성 자칼 경비대</JackalGuard.labelMale>
+  <JackalGuard.labelMalePlural>남성 자칼 경비대</JackalGuard.labelMalePlural>
+  <JackalGuard.labelFemale>여성 자칼 경비대</JackalGuard.labelFemale>
+  <JackalGuard.labelFemalePlural>여성 자칼 경비대</JackalGuard.labelFemalePlural>
+
+  <!--1211694919_181106_Nature's Pretty Sweet-->
+  <TKKN_crab.lifeStages.0.labelFemale>암컷 거대 게</TKKN_crab.lifeStages.0.labelFemale>
+  <TKKN_crab.lifeStages.1.labelFemale>암컷 거대 게</TKKN_crab.lifeStages.1.labelFemale>
+  <TKKN_crab.lifeStages.2.labelFemale>암컷 거대 게</TKKN_crab.lifeStages.2.labelFemale>
+  <TKKN_crab.labelFemale>암컷 거대 게</TKKN_crab.labelFemale>
+  <TKKN_crab.lifeStages.0.labelFemalePlural>암컷 거대 게들</TKKN_crab.lifeStages.0.labelFemalePlural>
+  <TKKN_crab.lifeStages.1.labelFemalePlural>암컷 거대 게들</TKKN_crab.lifeStages.1.labelFemalePlural>
+  <TKKN_crab.lifeStages.2.labelFemalePlural>암컷 거대 게들</TKKN_crab.lifeStages.2.labelFemalePlural>
+  <TKKN_crab.labelFemalePlural>암컷 거대 게들</TKKN_crab.labelFemalePlural>
+  <TKKN_giantsnail.lifeStages.0.labelFemale>암컷 거대 달팽이</TKKN_giantsnail.lifeStages.0.labelFemale>
+  <TKKN_giantsnail.lifeStages.1.labelFemale>암컷 거대 달팽이</TKKN_giantsnail.lifeStages.1.labelFemale>
+  <TKKN_giantsnail.lifeStages.2.labelFemale>암컷 거대 달팽이</TKKN_giantsnail.lifeStages.2.labelFemale>
+  <TKKN_giantsnail.labelFemale>암컷 거대 달팽이</TKKN_giantsnail.labelFemale>
+  <TKKN_giantsnail.lifeStages.0.labelFemalePlural>암컷 거대 달팽이들</TKKN_giantsnail.lifeStages.0.labelFemalePlural>
+  <TKKN_giantsnail.lifeStages.1.labelFemalePlural>암컷 거대 달팽이들</TKKN_giantsnail.lifeStages.1.labelFemalePlural>
+  <TKKN_giantsnail.lifeStages.2.labelFemalePlural>암컷 거대 달팽이들</TKKN_giantsnail.lifeStages.2.labelFemalePlural>
+  <TKKN_giantsnail.labelFemalePlural>암컷 거대 달팽이들</TKKN_giantsnail.labelFemalePlural>
+  <TKKN_petlavarock.lifeStages.0.labelFemale>암컷 애완용 용암 조약돌</TKKN_petlavarock.lifeStages.0.labelFemale>
+  <TKKN_petlavarock.lifeStages.0.labelFemalePlural>암컷 애완용 용암 조약돌들</TKKN_petlavarock.lifeStages.0.labelFemalePlural>
+  <TKKN_petlavarock.lifeStages.1.labelFemalePlural>암컷 애완용 용암 바위들</TKKN_petlavarock.lifeStages.1.labelFemalePlural>
+  <TKKN_petlavarock.lifeStages.2.labelFemalePlural>암컷 애완용 용암 바위들</TKKN_petlavarock.lifeStages.2.labelFemalePlural>
+  <TKKN_salamanders.lifeStages.0.labelFemale>암컷 샐러맨더</TKKN_salamanders.lifeStages.0.labelFemale>
+  <TKKN_salamanders.lifeStages.1.labelFemale>암컷 샐러맨더</TKKN_salamanders.lifeStages.1.labelFemale>
+  <TKKN_salamanders.lifeStages.2.labelFemale>암컷 샐러맨더</TKKN_salamanders.lifeStages.2.labelFemale>
+  <TKKN_salamanders.labelFemale>암컷 샐러맨더</TKKN_salamanders.labelFemale>
+  <TKKN_salamanders.lifeStages.0.labelFemalePlural>암컷 샐러맨더들</TKKN_salamanders.lifeStages.0.labelFemalePlural>
+  <TKKN_salamanders.lifeStages.1.labelFemalePlural>암컷 샐러맨더들</TKKN_salamanders.lifeStages.1.labelFemalePlural>
+  <TKKN_salamanders.lifeStages.2.labelFemalePlural>암컷 샐러맨더들</TKKN_salamanders.lifeStages.2.labelFemalePlural>
+  <TKKN_salamanders.labelFemalePlural>암컷 샐러맨더들</TKKN_salamanders.labelFemalePlural>
+  <TKKN_Tumbleweed.lifeStages.0.labelFemale>암컷 회전초</TKKN_Tumbleweed.lifeStages.0.labelFemale>
+  <TKKN_Tumbleweed.lifeStages.0.labelFemalePlural>암컷 회전초들</TKKN_Tumbleweed.lifeStages.0.labelFemalePlural>
+  <TKKN_Tumbleweed.lifeStages.1.labelFemalePlural>암컷 회전초들</TKKN_Tumbleweed.lifeStages.1.labelFemalePlural>
+  <TKKN_Tumbleweed.lifeStages.2.labelFemalePlural>암컷 회전초들</TKKN_Tumbleweed.lifeStages.2.labelFemalePlural>
+  <TKKN_crab.label>거대 게</TKKN_crab.label>
+  <TKKN_crab.lifeStages.0.label>거대 게</TKKN_crab.lifeStages.0.label>
+  <TKKN_crab.lifeStages.0.labelPlural>거대 게</TKKN_crab.lifeStages.0.labelPlural>
+  <TKKN_crab.lifeStages.1.label>거대 게</TKKN_crab.lifeStages.1.label>
+  <TKKN_crab.lifeStages.1.labelPlural>거대 게</TKKN_crab.lifeStages.1.labelPlural>
+  <TKKN_crab.lifeStages.2.label>거대 게</TKKN_crab.lifeStages.2.label>
+  <TKKN_crab.lifeStages.2.labelPlural>거대 게</TKKN_crab.lifeStages.2.labelPlural>
+  <TKKN_crab.labelPlural>거대 게들</TKKN_crab.labelPlural>
+  <TKKN_giantsnail.label>거대 달팽이</TKKN_giantsnail.label>
+  <TKKN_giantsnail.lifeStages.0.label>거대 달팽이</TKKN_giantsnail.lifeStages.0.label>
+  <TKKN_giantsnail.lifeStages.1.label>거대 달팽이</TKKN_giantsnail.lifeStages.1.label>
+  <TKKN_giantsnail.lifeStages.1.labelPlural>거대 달팽이</TKKN_giantsnail.lifeStages.1.labelPlural>
+  <TKKN_giantsnail.lifeStages.2.label>거대 달팽이</TKKN_giantsnail.lifeStages.2.label>
+  <TKKN_giantsnail.lifeStages.2.labelPlural>거대 달팽이</TKKN_giantsnail.lifeStages.2.labelPlural>
+  <TKKN_giantsnail.labelPlural>거대 달팽이들</TKKN_giantsnail.labelPlural>
+  <TKKN_giantsnail.lifeStages.0.labelPlural>거대 달팽이들</TKKN_giantsnail.lifeStages.0.labelPlural>
+  <TKKN_crab.lifeStages.0.labelMale>수컷 거대 게</TKKN_crab.lifeStages.0.labelMale>
+  <TKKN_crab.lifeStages.1.labelMale>수컷 거대 게</TKKN_crab.lifeStages.1.labelMale>
+  <TKKN_crab.lifeStages.2.labelMale>수컷 거대 게</TKKN_crab.lifeStages.2.labelMale>
+  <TKKN_crab.labelMale>수컷 거대 게</TKKN_crab.labelMale>
+  <TKKN_crab.lifeStages.0.labelMalePlural>수컷 거대 게들</TKKN_crab.lifeStages.0.labelMalePlural>
+  <TKKN_crab.lifeStages.1.labelMalePlural>수컷 거대 게들</TKKN_crab.lifeStages.1.labelMalePlural>
+  <TKKN_crab.lifeStages.2.labelMalePlural>수컷 거대 게들</TKKN_crab.lifeStages.2.labelMalePlural>
+  <TKKN_crab.labelMalePlural>수컷 거대 게들</TKKN_crab.labelMalePlural>
+  <TKKN_giantsnail.lifeStages.0.labelMale>수컷 거대 달팽이</TKKN_giantsnail.lifeStages.0.labelMale>
+  <TKKN_giantsnail.lifeStages.1.labelMale>수컷 거대 달팽이</TKKN_giantsnail.lifeStages.1.labelMale>
+  <TKKN_giantsnail.lifeStages.2.labelMale>수컷 거대 달팽이</TKKN_giantsnail.lifeStages.2.labelMale>
+  <TKKN_giantsnail.labelMale>수컷 거대 달팽이</TKKN_giantsnail.labelMale>
+  <TKKN_giantsnail.lifeStages.0.labelMalePlural>수컷 거대 달팽이들</TKKN_giantsnail.lifeStages.0.labelMalePlural>
+  <TKKN_giantsnail.lifeStages.1.labelMalePlural>수컷 거대 달팽이들</TKKN_giantsnail.lifeStages.1.labelMalePlural>
+  <TKKN_giantsnail.lifeStages.2.labelMalePlural>수컷 거대 달팽이들</TKKN_giantsnail.lifeStages.2.labelMalePlural>
+  <TKKN_giantsnail.labelMalePlural>수컷 거대 달팽이들</TKKN_giantsnail.labelMalePlural>
+  <TKKN_petlavarock.lifeStages.0.labelMale>수컷 애완용 용암 조약돌</TKKN_petlavarock.lifeStages.0.labelMale>
+  <TKKN_petlavarock.lifeStages.0.labelMalePlural>수컷 애완용 용암 조약돌들</TKKN_petlavarock.lifeStages.0.labelMalePlural>
+  <TKKN_petlavarock.lifeStages.1.labelMalePlural>수컷 애완용 용암 바위들</TKKN_petlavarock.lifeStages.1.labelMalePlural>
+  <TKKN_petlavarock.lifeStages.2.labelMalePlural>수컷 애완용 용암 바위들</TKKN_petlavarock.lifeStages.2.labelMalePlural>
+  <TKKN_salamanders.lifeStages.0.labelMale>수컷 샐러맨더</TKKN_salamanders.lifeStages.0.labelMale>
+  <TKKN_salamanders.lifeStages.1.labelMale>수컷 샐러맨더</TKKN_salamanders.lifeStages.1.labelMale>
+  <TKKN_salamanders.lifeStages.2.labelMale>수컷 샐러맨더</TKKN_salamanders.lifeStages.2.labelMale>
+  <TKKN_salamanders.labelMale>수컷 샐러맨더</TKKN_salamanders.labelMale>
+  <TKKN_salamanders.lifeStages.0.labelMalePlural>수컷 샐러맨더들</TKKN_salamanders.lifeStages.0.labelMalePlural>
+  <TKKN_salamanders.lifeStages.1.labelMalePlural>수컷 샐러맨더들</TKKN_salamanders.lifeStages.1.labelMalePlural>
+  <TKKN_salamanders.lifeStages.2.labelMalePlural>수컷 샐러맨더들</TKKN_salamanders.lifeStages.2.labelMalePlural>
+  <TKKN_salamanders.labelMalePlural>수컷 샐러맨더들</TKKN_salamanders.labelMalePlural>
+  <TKKN_Tumbleweed.lifeStages.0.labelMale>수컷 회전초</TKKN_Tumbleweed.lifeStages.0.labelMale>
+  <TKKN_Tumbleweed.lifeStages.0.labelMalePlural>수컷 회전초들</TKKN_Tumbleweed.lifeStages.0.labelMalePlural>
+  <TKKN_Tumbleweed.lifeStages.1.labelMalePlural>수컷 회전초들</TKKN_Tumbleweed.lifeStages.1.labelMalePlural>
+  <TKKN_Tumbleweed.lifeStages.2.labelMalePlural>수컷 회전초들</TKKN_Tumbleweed.lifeStages.2.labelMalePlural>
+  <TKKN_petlavarock.lifeStages.0.label>애완용 용암 조약돌</TKKN_petlavarock.lifeStages.0.label>
+  <TKKN_petlavarock.lifeStages.0.labelPlural>애완용 용암 조약돌들</TKKN_petlavarock.lifeStages.0.labelPlural>
+  <TKKN_petlavarock.label>애완용 용암 바위</TKKN_petlavarock.label>
+  <TKKN_petlavarock.lifeStages.1.label>애완용 용암 바위</TKKN_petlavarock.lifeStages.1.label>
+  <TKKN_petlavarock.lifeStages.1.labelPlural>애완용 용암 바위</TKKN_petlavarock.lifeStages.1.labelPlural>
+  <TKKN_petlavarock.lifeStages.1.labelMale>애완용 용암 바위</TKKN_petlavarock.lifeStages.1.labelMale>
+  <TKKN_petlavarock.lifeStages.1.labelFemale>애완용 용암 바위</TKKN_petlavarock.lifeStages.1.labelFemale>
+  <TKKN_petlavarock.lifeStages.2.label>애완용 용암 바위</TKKN_petlavarock.lifeStages.2.label>
+  <TKKN_petlavarock.lifeStages.2.labelPlural>애완용 용암 바위</TKKN_petlavarock.lifeStages.2.labelPlural>
+  <TKKN_petlavarock.lifeStages.2.labelMale>애완용 용암 바위</TKKN_petlavarock.lifeStages.2.labelMale>
+  <TKKN_petlavarock.lifeStages.2.labelFemale>애완용 용암 바위</TKKN_petlavarock.lifeStages.2.labelFemale>
+  <TKKN_petlavarock.labelMale>애완용 용암 바위</TKKN_petlavarock.labelMale>
+  <TKKN_petlavarock.labelFemale>애완용 용암 바위</TKKN_petlavarock.labelFemale>
+  <TKKN_petlavarock.labelPlural>애완용 용암 바위들</TKKN_petlavarock.labelPlural>
+  <TKKN_petlavarock.labelMalePlural>애완용 용암 바위들</TKKN_petlavarock.labelMalePlural>
+  <TKKN_petlavarock.labelFemalePlural>애완용 용암 바위들</TKKN_petlavarock.labelFemalePlural>
+  <TKKN_salamanders.label>샐러맨더</TKKN_salamanders.label>
+  <TKKN_salamanders.lifeStages.0.label>샐러맨더</TKKN_salamanders.lifeStages.0.label>
+  <TKKN_salamanders.lifeStages.0.labelPlural>샐러맨더</TKKN_salamanders.lifeStages.0.labelPlural>
+  <TKKN_salamanders.lifeStages.1.label>샐러맨더</TKKN_salamanders.lifeStages.1.label>
+  <TKKN_salamanders.lifeStages.1.labelPlural>샐러맨더</TKKN_salamanders.lifeStages.1.labelPlural>
+  <TKKN_salamanders.lifeStages.2.label>샐러맨더</TKKN_salamanders.lifeStages.2.label>
+  <TKKN_salamanders.lifeStages.2.labelPlural>샐러맨더</TKKN_salamanders.lifeStages.2.labelPlural>
+  <TKKN_salamanders.labelPlural>샐러맨더들</TKKN_salamanders.labelPlural>
+  <TKKN_Tumbleweed.lifeStages.0.label>회전초</TKKN_Tumbleweed.lifeStages.0.label>
+  <TKKN_Tumbleweed.lifeStages.0.labelPlural>회전초들</TKKN_Tumbleweed.lifeStages.0.labelPlural>
+  <TKKN_Tumbleweed.label>회전초</TKKN_Tumbleweed.label>
+  <TKKN_Tumbleweed.lifeStages.1.label>회전초</TKKN_Tumbleweed.lifeStages.1.label>
+  <TKKN_Tumbleweed.lifeStages.1.labelPlural>회전초</TKKN_Tumbleweed.lifeStages.1.labelPlural>
+  <TKKN_Tumbleweed.lifeStages.1.labelMale>회전초</TKKN_Tumbleweed.lifeStages.1.labelMale>
+  <TKKN_Tumbleweed.lifeStages.1.labelFemale>회전초</TKKN_Tumbleweed.lifeStages.1.labelFemale>
+  <TKKN_Tumbleweed.lifeStages.2.label>회전초</TKKN_Tumbleweed.lifeStages.2.label>
+  <TKKN_Tumbleweed.lifeStages.2.labelPlural>회전초</TKKN_Tumbleweed.lifeStages.2.labelPlural>
+  <TKKN_Tumbleweed.lifeStages.2.labelMale>회전초</TKKN_Tumbleweed.lifeStages.2.labelMale>
+  <TKKN_Tumbleweed.lifeStages.2.labelFemale>회전초</TKKN_Tumbleweed.lifeStages.2.labelFemale>
+  <TKKN_Tumbleweed.labelMale>회전초</TKKN_Tumbleweed.labelMale>
+  <TKKN_Tumbleweed.labelFemale>회전초</TKKN_Tumbleweed.labelFemale>
+  <TKKN_Tumbleweed.labelPlural>회전초들</TKKN_Tumbleweed.labelPlural>
+  <TKKN_Tumbleweed.labelMalePlural>회전초들</TKKN_Tumbleweed.labelMalePlural>
+  <TKKN_Tumbleweed.labelFemalePlural>회전초들</TKKN_Tumbleweed.labelFemalePlural>
+
+  <!--1301071669_190521_Cyberpunk-->
+  <TribalArcher.label>궁수</TribalArcher.label>
+  <TribalArcher.labelPlural>궁수들</TribalArcher.labelPlural>
+  <TribalBerserker.label>광전사</TribalBerserker.label>
+  <TribalBerserker.labelPlural>광전사들</TribalBerserker.labelPlural>
+  <Centipede.label>센티피드</Centipede.label>
+  <Centipede.labelPlural>센티피드들</Centipede.labelPlural>
+  <TribalChief.label>족장</TribalChief.label>
+  <TribalChief.labelPlural>족장들</TribalChief.labelPlural>
+  <MercenaryElite.labelPlural>엘리트 용병들</MercenaryElite.labelPlural>
+  <MercenaryElite.label>엘리트 용병</MercenaryElite.label>
+  <GrenadierEMP.label>EMP 척탄병</GrenadierEMP.label>
+  <GrenadierEMP.labelPlural>EMP 척탄병들</GrenadierEMP.labelPlural>
+  <Centipede.labelFemale>암컷 센티피드</Centipede.labelFemale>
+  <Centipede.labelFemalePlural>암컷 센티피드들</Centipede.labelFemalePlural>
+  <Scyther.labelFemale>암컷 사이더</Scyther.labelFemale>
+  <Scyther.labelFemalePlural>암컷 사이더들</Scyther.labelFemalePlural>
+  <GrenadierDestructive.label>척탄병</GrenadierDestructive.label>
+  <GrenadierDestructive.labelPlural>척탄병들</GrenadierDestructive.labelPlural>
+  <TribalHeavyArcher.label>장갑 궁병</TribalHeavyArcher.label>
+  <TribalHeavyArcher.labelPlural>장갑 궁병들</TribalHeavyArcher.labelPlural>
+  <MercenaryHeavy.labelPlural>중화기 용병들</MercenaryHeavy.labelPlural>
+  <MercenaryHeavy.label>중화기 용병</MercenaryHeavy.label>
+  <TribalHunter.label>사냥꾼</TribalHunter.label>
+  <TribalHunter.labelPlural>사냥꾼들</TribalHunter.labelPlural>
+  <Centipede.labelMale>수컷 센티피드</Centipede.labelMale>
+  <Centipede.labelMalePlural>수컷 센티피드들</Centipede.labelMalePlural>
+  <Scyther.labelMale>수컷 사이더</Scyther.labelMale>
+  <Scyther.labelMalePlural>수컷 사이더들</Scyther.labelMalePlural>
+  <MercenaryGunner.label>용병 총잡이</MercenaryGunner.label>
+  <MercenaryGunner.labelPlural>용병 총잡이들</MercenaryGunner.labelPlural>
+  <MercenarySlasher.label>용병 칼잡이</MercenarySlasher.label>
+  <MercenarySlasher.labelPlural>용병 칼잡이들</MercenarySlasher.labelPlural>
+  <MercenarySniper.label>용병 저격수</MercenarySniper.label>
+  <MercenarySniper.labelPlural>용병 저격수들</MercenarySniper.labelPlural>
+  <Scyther.label>사이더</Scyther.label>
+  <Scyther.labelPlural>사이더들</Scyther.labelPlural>
+  <SpaceSoldier.label>우주 해병</SpaceSoldier.label>
+  <SpaceSoldier.labelPlural>우주 해병들</SpaceSoldier.labelPlural>
+  <TownCouncilman.label>마을 의원</TownCouncilman.label>
+  <TownCouncilman.labelPlural>마을 의원들</TownCouncilman.labelPlural>
+  <TownGuard.label>마을 경비병</TownGuard.label>
+  <TownGuard.labelPlural>마을 경비병들</TownGuard.labelPlural>
+  <TownTrader.label>마을 상인</TownTrader.label>
+  <TownTrader.labelPlural>마을 상인들</TownTrader.labelPlural>
+  <TribalTrader.label>상인</TribalTrader.label>
+  <TribalTrader.labelPlural>상인들</TribalTrader.labelPlural>
+  <TribalWarrior.label>전사</TribalWarrior.label>
+  <TribalWarrior.labelPlural>전사들</TribalWarrior.labelPlural>
+
+  <!--1338280929_190526_Advanced Biomes-->
+  <PoisonDeer.lifeStages.0.labelMale>독 수사슴</PoisonDeer.lifeStages.0.labelMale>
+  <PoisonDeer.lifeStages.1.labelMale>독 수사슴</PoisonDeer.lifeStages.1.labelMale>
+  <PoisonDeer.lifeStages.2.labelMale>독 수사슴</PoisonDeer.lifeStages.2.labelMale>
+  <PoisonDeer.labelMale>독 수사슴</PoisonDeer.labelMale>
+  <MutantCow.lifeStages.1.labelMale>수컷 돌연변이 소</MutantCow.lifeStages.1.labelMale>
+  <MutantCow.lifeStages.2.labelMale>수컷 돌연변이 소</MutantCow.lifeStages.2.labelMale>
+  <MutantCow.labelMale>수컷 돌연변이 소</MutantCow.labelMale>
+  <MutantCow.labelMalePlural>돌연변이 소</MutantCow.labelMalePlural>
+  <PoisonButterfly.labelPlural>독나비들</PoisonButterfly.labelPlural>
+  <PoisonButterfly.lifeStages.0.labelPlural>독나비들</PoisonButterfly.lifeStages.0.labelPlural>
+  <PoisonButterfly.lifeStages.1.labelPlural>독나비들</PoisonButterfly.lifeStages.1.labelPlural>
+  <PoisonButterfly.lifeStages.2.labelPlural>독나비들</PoisonButterfly.lifeStages.2.labelPlural>
+  <PoisonButterfly.label>독나비</PoisonButterfly.label>
+  <PoisonButterfly.lifeStages.0.label>독나비</PoisonButterfly.lifeStages.0.label>
+  <PoisonButterfly.lifeStages.0.labelMale>독나비</PoisonButterfly.lifeStages.0.labelMale>
+  <PoisonButterfly.lifeStages.0.labelFemale>독나비</PoisonButterfly.lifeStages.0.labelFemale>
+  <PoisonButterfly.lifeStages.1.label>독나비</PoisonButterfly.lifeStages.1.label>
+  <PoisonButterfly.lifeStages.1.labelMale>독나비</PoisonButterfly.lifeStages.1.labelMale>
+  <PoisonButterfly.lifeStages.1.labelFemale>독나비</PoisonButterfly.lifeStages.1.labelFemale>
+  <PoisonButterfly.lifeStages.2.label>독나비</PoisonButterfly.lifeStages.2.label>
+  <PoisonButterfly.lifeStages.2.labelMale>독나비</PoisonButterfly.lifeStages.2.labelMale>
+  <PoisonButterfly.lifeStages.2.labelFemale>독나비</PoisonButterfly.lifeStages.2.labelFemale>
+  <PoisonButterfly.labelMale>독나비</PoisonButterfly.labelMale>
+  <PoisonButterfly.labelFemale>독나비</PoisonButterfly.labelFemale>
+  <MutantCow.lifeStages.0.label>돌연변이 소 새끼</MutantCow.lifeStages.0.label>
+  <MutantCow.lifeStages.0.labelPlural>돌연변이 소 새끼</MutantCow.lifeStages.0.labelPlural>
+  <MutantCow.label>돌연변이 소</MutantCow.label>
+  <MutantCow.lifeStages.1.label>돌연변이 소</MutantCow.lifeStages.1.label>
+  <MutantCow.lifeStages.1.labelPlural>돌연변이 소</MutantCow.lifeStages.1.labelPlural>
+  <MutantCow.lifeStages.1.labelFemale>돌연변이 소</MutantCow.lifeStages.1.labelFemale>
+  <MutantCow.lifeStages.2.label>돌연변이 소</MutantCow.lifeStages.2.label>
+  <MutantCow.lifeStages.2.labelPlural>돌연변이 소</MutantCow.lifeStages.2.labelPlural>
+  <MutantCow.lifeStages.2.labelFemale>돌연변이 소</MutantCow.lifeStages.2.labelFemale>
+  <MutantCow.labelFemale>돌연변이 소</MutantCow.labelFemale>
+  <MutantCow.labelPlural>돌연변이 소들</MutantCow.labelPlural>
+  <MutantCow.labelFemalePlural>돌연변이 소들</MutantCow.labelFemalePlural>
+  <PoisonDeer.label>독사슴</PoisonDeer.label>
+  <PoisonDeer.labelPlural>독사슴</PoisonDeer.labelPlural>
+  <PoisonDeer.lifeStages.0.label>독사슴</PoisonDeer.lifeStages.0.label>
+  <PoisonDeer.lifeStages.0.labelPlural>독사슴</PoisonDeer.lifeStages.0.labelPlural>
+  <PoisonDeer.lifeStages.1.label>독사슴</PoisonDeer.lifeStages.1.label>
+  <PoisonDeer.lifeStages.1.labelPlural>독사슴</PoisonDeer.lifeStages.1.labelPlural>
+  <PoisonDeer.lifeStages.2.label>독사슴</PoisonDeer.lifeStages.2.label>
+  <PoisonDeer.lifeStages.2.labelPlural>독사슴</PoisonDeer.lifeStages.2.labelPlural>
+  <PoisonDeer.lifeStages.0.labelFemale>독 암사슴</PoisonDeer.lifeStages.0.labelFemale>
+  <PoisonDeer.lifeStages.1.labelFemale>독 암사슴</PoisonDeer.lifeStages.1.labelFemale>
+  <PoisonDeer.lifeStages.2.labelFemale>독 암사슴</PoisonDeer.lifeStages.2.labelFemale>
+  <PoisonDeer.labelFemale>독 암사슴</PoisonDeer.labelFemale>
+  <PoisonButterfly.labelFemalePlural>암컷 독나비들</PoisonButterfly.labelFemalePlural>
+  <PoisonButterfly.lifeStages.0.labelFemalePlural>암컷 독나비들</PoisonButterfly.lifeStages.0.labelFemalePlural>
+  <PoisonButterfly.lifeStages.1.labelFemalePlural>암컷 독나비들</PoisonButterfly.lifeStages.1.labelFemalePlural>
+  <PoisonButterfly.lifeStages.2.labelFemalePlural>암컷 독나비들</PoisonButterfly.lifeStages.2.labelFemalePlural>
+  <MutantCow.lifeStages.0.labelFemale>암컷 돌연변이 소 새끼</MutantCow.lifeStages.0.labelFemale>
+  <MutantCow.lifeStages.0.labelFemalePlural>암컷 돌연변이 소 새끼들</MutantCow.lifeStages.0.labelFemalePlural>
+  <MutantCow.lifeStages.1.labelFemalePlural>암컷 돌연변이 소들</MutantCow.lifeStages.1.labelFemalePlural>
+  <MutantCow.lifeStages.2.labelFemalePlural>암컷 돌연변이 소들</MutantCow.lifeStages.2.labelFemalePlural>
+  <PoisonDeer.labelFemalePlural>암컷 독사슴</PoisonDeer.labelFemalePlural>
+  <PoisonDeer.lifeStages.0.labelFemalePlural>암컷 독사슴들</PoisonDeer.lifeStages.0.labelFemalePlural>
+  <PoisonDeer.lifeStages.1.labelFemalePlural>암컷 독사슴들</PoisonDeer.lifeStages.1.labelFemalePlural>
+  <PoisonDeer.lifeStages.2.labelFemalePlural>암컷 독사슴들</PoisonDeer.lifeStages.2.labelFemalePlural>
+  <PoisonRat.lifeStages.0.labelFemale>암컷 독쥐</PoisonRat.lifeStages.0.labelFemale>
+  <PoisonRat.lifeStages.1.labelFemale>암컷 독쥐</PoisonRat.lifeStages.1.labelFemale>
+  <PoisonRat.lifeStages.2.labelFemale>암컷 독쥐</PoisonRat.lifeStages.2.labelFemale>
+  <PoisonRat.labelFemale>암컷 독쥐</PoisonRat.labelFemale>
+  <PoisonRat.lifeStages.0.labelFemalePlural>암컷 독쥐들</PoisonRat.lifeStages.0.labelFemalePlural>
+  <PoisonRat.lifeStages.1.labelFemalePlural>암컷 독쥐들</PoisonRat.lifeStages.1.labelFemalePlural>
+  <PoisonRat.lifeStages.2.labelFemalePlural>암컷 독쥐들</PoisonRat.lifeStages.2.labelFemalePlural>
+  <PoisonRat.labelFemalePlural>암컷 독쥐들</PoisonRat.labelFemalePlural>
+  <PoisonButterfly.labelMalePlural>수컷 독나비들</PoisonButterfly.labelMalePlural>
+  <PoisonButterfly.lifeStages.0.labelMalePlural>수컷 독나비들</PoisonButterfly.lifeStages.0.labelMalePlural>
+  <PoisonButterfly.lifeStages.1.labelMalePlural>수컷 독나비들</PoisonButterfly.lifeStages.1.labelMalePlural>
+  <PoisonButterfly.lifeStages.2.labelMalePlural>수컷 독나비들</PoisonButterfly.lifeStages.2.labelMalePlural>
+  <MutantCow.lifeStages.0.labelMale>수컷 돌연변이 소 새끼</MutantCow.lifeStages.0.labelMale>
+  <MutantCow.lifeStages.0.labelMalePlural>수컷 돌연변이 소 새끼들</MutantCow.lifeStages.0.labelMalePlural>
+  <MutantCow.lifeStages.1.labelMalePlural>수컷 돌연변이 소들</MutantCow.lifeStages.1.labelMalePlural>
+  <MutantCow.lifeStages.2.labelMalePlural>수컷 돌연변이 소들</MutantCow.lifeStages.2.labelMalePlural>
+  <PoisonDeer.labelMalePlural>수컷 독사슴</PoisonDeer.labelMalePlural>
+  <PoisonDeer.lifeStages.0.labelMalePlural>수컷 독사슴들</PoisonDeer.lifeStages.0.labelMalePlural>
+  <PoisonDeer.lifeStages.1.labelMalePlural>수컷 독사슴들</PoisonDeer.lifeStages.1.labelMalePlural>
+  <PoisonDeer.lifeStages.2.labelMalePlural>수컷 독사슴들</PoisonDeer.lifeStages.2.labelMalePlural>
+  <PoisonRat.lifeStages.0.labelMale>수컷 독쥐</PoisonRat.lifeStages.0.labelMale>
+  <PoisonRat.lifeStages.1.labelMale>수컷 독쥐</PoisonRat.lifeStages.1.labelMale>
+  <PoisonRat.lifeStages.2.labelMale>수컷 독쥐</PoisonRat.lifeStages.2.labelMale>
+  <PoisonRat.labelMale>수컷 독쥐</PoisonRat.labelMale>
+  <PoisonRat.lifeStages.0.labelMalePlural>수컷 독쥐들</PoisonRat.lifeStages.0.labelMalePlural>
+  <PoisonRat.lifeStages.1.labelMalePlural>수컷 독쥐들</PoisonRat.lifeStages.1.labelMalePlural>
+  <PoisonRat.lifeStages.2.labelMalePlural>수컷 독쥐들</PoisonRat.lifeStages.2.labelMalePlural>
+  <PoisonRat.labelMalePlural>수컷 독쥐들</PoisonRat.labelMalePlural>
+  <PoisonRat.label>독쥐</PoisonRat.label>
+  <PoisonRat.lifeStages.0.label>독쥐</PoisonRat.lifeStages.0.label>
+  <PoisonRat.lifeStages.0.labelPlural>독쥐</PoisonRat.lifeStages.0.labelPlural>
+  <PoisonRat.lifeStages.1.label>독쥐</PoisonRat.lifeStages.1.label>
+  <PoisonRat.lifeStages.1.labelPlural>독쥐</PoisonRat.lifeStages.1.labelPlural>
+  <PoisonRat.lifeStages.2.label>독쥐</PoisonRat.lifeStages.2.label>
+  <PoisonRat.lifeStages.2.labelPlural>독쥐</PoisonRat.lifeStages.2.labelPlural>
+  <PoisonRat.labelPlural>독쥐들</PoisonRat.labelPlural>
+
+  <!--1400245220_181030_Lord of the Rims - The Third Age-->
+  <LotR_MedievalVillager.label>주민</LotR_MedievalVillager.label>
+  <LotR_MedievalVillager.labelPlural>주민들</LotR_MedievalVillager.labelPlural>
+
+  <!--1402763255_181030_Lord of the Rims - Unlimited-->
+  <LotR_MedievalVillager.label>당신의 공동체입니다.</LotR_MedievalVillager.label>
+  <LotR_MedievalVillager.labelPlural>주민들</LotR_MedievalVillager.labelPlural>
+
+  <!--1498573216_181028_Polarisbloc - Mechenemy-->
+  <VanyaPK_DroidAlpha.label>자폭 드로이드 알파</VanyaPK_DroidAlpha.label>
+  <VanyaPK_DroidAlpha.labelPlural>자폭 드로이드 알파</VanyaPK_DroidAlpha.labelPlural>
+  <VanyaPK_DroidFortress.label>수호자</VanyaPK_DroidFortress.label>
+  <VanyaPK_DroidFortress.labelPlural>수호자</VanyaPK_DroidFortress.labelPlural>
+  <VanyaPK_DroidBetaEX.label>중장갑 휴머노이드 베타-2</VanyaPK_DroidBetaEX.label>
+  <VanyaPK_DroidBetaEX.labelPlural>중장갑 휴머노이드 베타-2</VanyaPK_DroidBetaEX.labelPlural>
+  <VanyaPK_DroidBeta.label>휴머노이드 베타</VanyaPK_DroidBeta.label>
+  <VanyaPK_DroidBeta.labelPlural>휴머노이드 베타</VanyaPK_DroidBeta.labelPlural>
+  <VanyaPK_CASlugger.label>체이서 함대 포병</VanyaPK_CASlugger.label>
+  <VanyaPK_CASlugger.labelPlural>체이서 함대 포병</VanyaPK_CASlugger.labelPlural>
+  <VanyaPK_CAElite.label>체이서 함대 정예</VanyaPK_CAElite.label>
+  <VanyaPK_CAElite.labelPlural>체이서 함대 정예</VanyaPK_CAElite.labelPlural>
+  <VanyaPK_CAGunner.label>체이서 함대 총사</VanyaPK_CAGunner.label>
+  <VanyaPK_CAGunner.labelPlural>체이서 함대 총사</VanyaPK_CAGunner.labelPlural>
+  <VanyaPK_CAFighter.label>체이서 함대 전사</VanyaPK_CAFighter.label>
+  <VanyaPK_CAFighter.labelPlural>체이서 함대 전사</VanyaPK_CAFighter.labelPlural>
+  <VanyaPK_DroidGammaEX.label>중장갑 울프로이드 감마-2</VanyaPK_DroidGammaEX.label>
+  <VanyaPK_DroidGammaEX.labelPlural>중장갑 울프로이드 감마-2</VanyaPK_DroidGammaEX.labelPlural>
+  <VanyaPK_DroidGamma.label>울프로이드 감마</VanyaPK_DroidGamma.label>
+  <VanyaPK_DroidGamma.labelPlural>울프로이드 감마</VanyaPK_DroidGamma.labelPlural>
+  <VanyaPK_DroidRuler.label>심문관</VanyaPK_DroidRuler.label>
+  <VanyaPK_DroidRuler.labelPlural>심문관</VanyaPK_DroidRuler.labelPlural>
+
+  <!--1500248421_181028_Polarisbloc - Security Force-->
+  <Polarisbloc_SFCaptain.label>장교</Polarisbloc_SFCaptain.label>
+  <Polarisbloc_SFCaptain.labelPlural>장교</Polarisbloc_SFCaptain.labelPlural>
+  <Polarisbloc_SFCommander.label>지휘관</Polarisbloc_SFCommander.label>
+  <Polarisbloc_SFCommander.labelPlural>지휘관</Polarisbloc_SFCommander.labelPlural>
+  <Polarisbloc_SFSoldier.label>군인</Polarisbloc_SFSoldier.label>
+  <Polarisbloc_SFSoldier.labelPlural>군인</Polarisbloc_SFSoldier.labelPlural>
+
+  <!--1505332648_190519_Gods of Elona [1.0]-->
+  <eAndroid.label>안드로이드</eAndroid.label>
+  <eAndroid.labelPlural>안드로이드들</eAndroid.labelPlural>
+  <eBlackangel.label>흑천사</eBlackangel.label>
+  <eBlackangel.labelPlural>흑천사들</eBlackangel.labelPlural>
+  <eBlackcat.label>검은 고양이</eBlackcat.label>
+  <eBlackcat.labelPlural>검은 고양이들</eBlackcat.labelPlural>
+  <eCutefairy.label>요정씨</eCutefairy.label>
+  <eCutefairy.labelPlural>요정씨들</eCutefairy.labelPlural>
+  <eDefender.label>수호자</eDefender.label>
+  <eDefender.labelPlural>수호자들</eDefender.labelPlural>
+  <eExile.label>추방자</eExile.label>
+  <eExile.labelPlural>추방자들</eExile.labelPlural>
+  <eGoldenknight.label>황금 기사</eGoldenknight.label>
+  <eGoldenknight.labelPlural>황금 기사들</eGoldenknight.labelPlural>
+  <eGwen.label>그웬</eGwen.label>
+  <eGwen.labelPlural>그웬들</eGwen.labelPlural>
+  <eYoungercatsister.label>고양이 여동생</eYoungercatsister.label>
+  <eYoungercatsister.labelPlural>고양이 여동생들</eYoungercatsister.labelPlural>
+  <eYoungersister.label>여동생</eYoungersister.label>
+  <eYoungersister.labelPlural>여동생들</eYoungersister.labelPlural>
+
+  <!--1509102551_190627_Faction Control-->
+  <YoungTribalWarrior.label>젊은 부족 전사</YoungTribalWarrior.label>
+  <YoungTribalWarrior.labelPlural>젊은 부족 전사들</YoungTribalWarrior.labelPlural>
+
+  <!--1539314714_190519_[RF] Tribal Raiders-->
+  <YoungTribalWarrior.label>젊은 전사</YoungTribalWarrior.label>
+  <YoungTribalWarrior.labelPlural>젊은 전사</YoungTribalWarrior.labelPlural>
+
+  <!--1541353047_190628_Zombiefied-->
+
+  <Zombie.label>좀비</Zombie.label>
+  <Zombie.labelPlural>좀비들</Zombie.labelPlural>
+
+  <!--1541620640_190628_HousekeeperAssistanceCat-->
+  <HousekeeperCat.lifeStages.1.labelFemale>여성 청소 고양이</HousekeeperCat.lifeStages.1.labelFemale>
+  <HousekeeperCat.lifeStages.2.labelFemale>여성 청소 고양이</HousekeeperCat.lifeStages.2.labelFemale>
+  <HousekeeperCat.labelFemale>여성 청소 고양이</HousekeeperCat.labelFemale>
+  <HousekeeperCat.lifeStages.1.labelFemalePlural>여성 청소 고양이</HousekeeperCat.lifeStages.1.labelFemalePlural>
+  <HousekeeperCat.lifeStages.2.labelFemalePlural>여성 청소 고양이</HousekeeperCat.lifeStages.2.labelFemalePlural>
+  <HousekeeperCat.labelFemalePlural>여성 청소 고양이</HousekeeperCat.labelFemalePlural>
+  <HousekeeperCat.lifeStages.0.labelFemale>여성 청소 고양이</HousekeeperCat.lifeStages.0.labelFemale>
+  <HousekeeperCat.lifeStages.0.labelFemalePlural>여성 청소 고양이</HousekeeperCat.lifeStages.0.labelFemalePlural>
+  <HousekeeperCat.label>청소 고양이</HousekeeperCat.label>
+  <HousekeeperCat.lifeStages.1.label>청소 고양이</HousekeeperCat.lifeStages.1.label>
+  <HousekeeperCat.lifeStages.2.label>청소 고양이</HousekeeperCat.lifeStages.2.label>
+  <HousekeeperCat.labelPlural>청소 고양이</HousekeeperCat.labelPlural>
+  <HousekeeperCat.lifeStages.1.labelPlural>청소 고양이</HousekeeperCat.lifeStages.1.labelPlural>
+  <HousekeeperCat.lifeStages.2.labelPlural>청소 고양이</HousekeeperCat.lifeStages.2.labelPlural>
+  <HousekeeperCat.lifeStages.0.label>청소 고양이</HousekeeperCat.lifeStages.0.label>
+  <HousekeeperCat.lifeStages.0.labelPlural>청소 고양이</HousekeeperCat.lifeStages.0.labelPlural>
+  <HousekeeperCat.lifeStages.1.labelMale>남성 청소 고양이</HousekeeperCat.lifeStages.1.labelMale>
+  <HousekeeperCat.lifeStages.2.labelMale>남성 청소 고양이</HousekeeperCat.lifeStages.2.labelMale>
+  <HousekeeperCat.labelMale>남성 청소 고양이</HousekeeperCat.labelMale>
+  <HousekeeperCat.lifeStages.1.labelMalePlural>남성 청소 고양이</HousekeeperCat.lifeStages.1.labelMalePlural>
+  <HousekeeperCat.lifeStages.2.labelMalePlural>남성 청소 고양이</HousekeeperCat.lifeStages.2.labelMalePlural>
+  <HousekeeperCat.labelMalePlural>남성 청소 고양이</HousekeeperCat.labelMalePlural>
+  <HousekeeperCat.lifeStages.0.labelMale>남성 청소 고양이</HousekeeperCat.lifeStages.0.labelMale>
+  <HousekeeperCat.lifeStages.0.labelMalePlural>남성 청소 고양이</HousekeeperCat.lifeStages.0.labelMalePlural>
+
+  <!--1553741992_190818_Jernfalk's Skeletal Legion-->
+  <SL_Hero.label>죽은 영웅</SL_Hero.label>
+  <SL_Hero.labelPlural>죽은 영웅</SL_Hero.labelPlural>
+  <SL_Archer.label>해골 궁수</SL_Archer.label>
+  <SL_Archer.labelPlural>해골 궁수</SL_Archer.labelPlural>
+  <SL_Peon.label>해골 보병</SL_Peon.label>
+  <SL_Peon.labelPlural>해골 보병</SL_Peon.labelPlural>
+  <SL_Runner.label>해골 질주자</SL_Runner.label>
+  <SL_Runner.labelPlural>해골 질주자</SL_Runner.labelPlural>
+
+  <!--1573217648_181121_Dragonian-->
+  <DR_PAWN_Dragonian.label>드래고니안</DR_PAWN_Dragonian.label>
+
+  <!--1714572710_190606_Rimstro-->
+  <RS_Bubblelamb.label>거품양</RS_Bubblelamb.label>
+  <RS_Bubblelamb.lifeStages.0.label>거품양</RS_Bubblelamb.lifeStages.0.label>
+  <RS_Bubblelamb.lifeStages.1.label>거품양</RS_Bubblelamb.lifeStages.1.label>
+  <RS_Bubblelamb.lifeStages.1.labelPlural>거품양</RS_Bubblelamb.lifeStages.1.labelPlural>
+  <RS_Bubblelamb.lifeStages.2.label>거품양</RS_Bubblelamb.lifeStages.2.label>
+  <RS_Bubblelamb.lifeStages.2.labelPlural>거품양</RS_Bubblelamb.lifeStages.2.labelPlural>
+  <RS_Bubblelamb.labelPlural>거품양</RS_Bubblelamb.labelPlural>
+  <RS_Bubblelamb.lifeStages.0.labelPlural>거품양</RS_Bubblelamb.lifeStages.0.labelPlural>
+  <RS_Bubblelamb.lifeStages.0.labelFemale>암컷 거품양</RS_Bubblelamb.lifeStages.0.labelFemale>
+  <RS_Bubblelamb.lifeStages.1.labelFemale>암컷 거품양</RS_Bubblelamb.lifeStages.1.labelFemale>
+  <RS_Bubblelamb.lifeStages.2.labelFemale>암컷 거품양</RS_Bubblelamb.lifeStages.2.labelFemale>
+  <RS_Bubblelamb.labelFemale>암컷 거품양</RS_Bubblelamb.labelFemale>
+  <RS_Bubblelamb.lifeStages.0.labelFemalePlural>암컷 거품양</RS_Bubblelamb.lifeStages.0.labelFemalePlural>
+  <RS_Bubblelamb.lifeStages.1.labelFemalePlural>암컷 거품양</RS_Bubblelamb.lifeStages.1.labelFemalePlural>
+  <RS_Bubblelamb.lifeStages.2.labelFemalePlural>암컷 거품양</RS_Bubblelamb.lifeStages.2.labelFemalePlural>
+  <RS_Bubblelamb.labelFemalePlural>암컷 거품양</RS_Bubblelamb.labelFemalePlural>
+  <RS_Toruffle.lifeStages.0.labelFemale>암컷 송로거북</RS_Toruffle.lifeStages.0.labelFemale>
+  <RS_Toruffle.lifeStages.1.labelFemale>암컷 송로거북</RS_Toruffle.lifeStages.1.labelFemale>
+  <RS_Toruffle.lifeStages.2.labelFemale>암컷 송로거북</RS_Toruffle.lifeStages.2.labelFemale>
+  <RS_Toruffle.labelFemale>암컷 송로거북</RS_Toruffle.labelFemale>
+  <RS_Toruffle.lifeStages.0.labelFemalePlural>암컷 송로거북</RS_Toruffle.lifeStages.0.labelFemalePlural>
+  <RS_Toruffle.lifeStages.1.labelFemalePlural>암컷 송로거북</RS_Toruffle.lifeStages.1.labelFemalePlural>
+  <RS_Toruffle.lifeStages.2.labelFemalePlural>암컷 송로거북</RS_Toruffle.lifeStages.2.labelFemalePlural>
+  <RS_Toruffle.labelFemalePlural>암컷 송로거북</RS_Toruffle.labelFemalePlural>
+  <RS_Bubblelamb.lifeStages.0.labelMale>수컷 거품양</RS_Bubblelamb.lifeStages.0.labelMale>
+  <RS_Bubblelamb.lifeStages.1.labelMale>수컷 거품양</RS_Bubblelamb.lifeStages.1.labelMale>
+  <RS_Bubblelamb.lifeStages.2.labelMale>수컷 거품양</RS_Bubblelamb.lifeStages.2.labelMale>
+  <RS_Bubblelamb.labelMale>수컷 거품양</RS_Bubblelamb.labelMale>
+  <RS_Bubblelamb.lifeStages.0.labelMalePlural>수컷 거품양</RS_Bubblelamb.lifeStages.0.labelMalePlural>
+  <RS_Bubblelamb.lifeStages.1.labelMalePlural>수컷 거품양</RS_Bubblelamb.lifeStages.1.labelMalePlural>
+  <RS_Bubblelamb.lifeStages.2.labelMalePlural>수컷 거품양</RS_Bubblelamb.lifeStages.2.labelMalePlural>
+  <RS_Bubblelamb.labelMalePlural>수컷 거품양</RS_Bubblelamb.labelMalePlural>
+  <RS_Toruffle.lifeStages.0.labelMale>수컷 송로거북</RS_Toruffle.lifeStages.0.labelMale>
+  <RS_Toruffle.lifeStages.1.labelMale>수컷 송로거북</RS_Toruffle.lifeStages.1.labelMale>
+  <RS_Toruffle.lifeStages.2.labelMale>수컷 송로거북</RS_Toruffle.lifeStages.2.labelMale>
+  <RS_Toruffle.labelMale>수컷 송로거북</RS_Toruffle.labelMale>
+  <RS_Toruffle.lifeStages.0.labelMalePlural>수컷 송로거북</RS_Toruffle.lifeStages.0.labelMalePlural>
+  <RS_Toruffle.lifeStages.1.labelMalePlural>수컷 송로거북</RS_Toruffle.lifeStages.1.labelMalePlural>
+  <RS_Toruffle.lifeStages.2.labelMalePlural>수컷 송로거북</RS_Toruffle.lifeStages.2.labelMalePlural>
+  <RS_Toruffle.labelMalePlural>수컷 송로거북</RS_Toruffle.labelMalePlural>
+  <RS_Toruffle.label>송로거북</RS_Toruffle.label>
+  <RS_Toruffle.lifeStages.0.label>송로거북</RS_Toruffle.lifeStages.0.label>
+  <RS_Toruffle.lifeStages.0.labelPlural>송로거북</RS_Toruffle.lifeStages.0.labelPlural>
+  <RS_Toruffle.lifeStages.1.label>송로거북</RS_Toruffle.lifeStages.1.label>
+  <RS_Toruffle.lifeStages.1.labelPlural>송로거북</RS_Toruffle.lifeStages.1.labelPlural>
+  <RS_Toruffle.lifeStages.2.label>송로거북</RS_Toruffle.lifeStages.2.label>
+  <RS_Toruffle.lifeStages.2.labelPlural>송로거북</RS_Toruffle.lifeStages.2.labelPlural>
+  <RS_Toruffle.labelPlural>송로거북</RS_Toruffle.labelPlural>
+
+  <!--1720751798_190519_[RH] Faction Task Force 141 (1.0)-->
+  <RH_141TaskForce_Trader.label>딜러</RH_141TaskForce_Trader.label>
+  <RH_141TaskForce_Trader.labelPlural>딜러</RH_141TaskForce_Trader.labelPlural>
+  <RH_141TaskForce_CQB.label>special forces</RH_141TaskForce_CQB.label>
+  <RH_141TaskForce_CQB_TierII.label>특수부대</RH_141TaskForce_CQB_TierII.label>
+  <RH_141TaskForce_Marksman.label>특수부대</RH_141TaskForce_Marksman.label>
+  <RH_141TaskForce_Marksman_TierII.label>특수부대</RH_141TaskForce_Marksman_TierII.label>
+  <RH_141TaskForce_Sniper.label>특수부대</RH_141TaskForce_Sniper.label>
+  <RH_141TaskForce_Assault.label>특수부대</RH_141TaskForce_Assault.label>
+  <RH_141TaskForce_Assault_TierII.label>특수부대</RH_141TaskForce_Assault_TierII.label>
+  <RH_141TaskForce_Gunner.label>특수부대</RH_141TaskForce_Gunner.label>
+  <RH_141TaskForce_Grenadier.label>특수부대</RH_141TaskForce_Grenadier.label>
+  <RH_141TaskForce_Boss.label>특수부대</RH_141TaskForce_Boss.label>
+  <RH_141TaskForce_Boss.labelPlural>특수부대</RH_141TaskForce_Boss.labelPlural>
+  <RH_141TaskForce_Elite.label>특수부대</RH_141TaskForce_Elite.label>
+  <RH_141TaskForce_Elite.labelPlural>특수부대</RH_141TaskForce_Elite.labelPlural>
+  <RH_141TaskForce_CQB.labelPlural>special forcess</RH_141TaskForce_CQB.labelPlural>
+  <RH_141TaskForce_CQB_TierII.labelPlural>특수부대</RH_141TaskForce_CQB_TierII.labelPlural>
+  <RH_141TaskForce_Marksman.labelPlural>특수부대</RH_141TaskForce_Marksman.labelPlural>
+  <RH_141TaskForce_Marksman_TierII.labelPlural>특수부대</RH_141TaskForce_Marksman_TierII.labelPlural>
+  <RH_141TaskForce_Sniper.labelPlural>특수부대</RH_141TaskForce_Sniper.labelPlural>
+  <RH_141TaskForce_Assault.labelPlural>특수부대</RH_141TaskForce_Assault.labelPlural>
+  <RH_141TaskForce_Assault_TierII.labelPlural>특수부대</RH_141TaskForce_Assault_TierII.labelPlural>
+  <RH_141TaskForce_Gunner.labelPlural>특수부대</RH_141TaskForce_Gunner.labelPlural>
+  <RH_141TaskForce_Grenadier.labelPlural>특수부대</RH_141TaskForce_Grenadier.labelPlural>
+
+  <!--1741117080_190526_Grenades Expanded-->
+  <KillerRabbit.lifeStages.0.labelFemale>암컷 살인 토끼</KillerRabbit.lifeStages.0.labelFemale>
+  <KillerRabbit.lifeStages.1.labelFemale>암컷 살인 토끼</KillerRabbit.lifeStages.1.labelFemale>
+  <KillerRabbit.lifeStages.2.labelFemale>암컷 살인 토끼</KillerRabbit.lifeStages.2.labelFemale>
+  <KillerRabbit.labelFemale>암컷 살인 토끼</KillerRabbit.labelFemale>
+  <KillerRabbit.lifeStages.0.labelFemalePlural>암컷 살인 토끼</KillerRabbit.lifeStages.0.labelFemalePlural>
+  <KillerRabbit.lifeStages.1.labelFemalePlural>암컷 살인 토끼</KillerRabbit.lifeStages.1.labelFemalePlural>
+  <KillerRabbit.lifeStages.2.labelFemalePlural>암컷 살인 토끼</KillerRabbit.lifeStages.2.labelFemalePlural>
+  <KillerRabbit.labelFemalePlural>암컷 살인 토끼</KillerRabbit.labelFemalePlural>
+  <KillerRabbit.label>살인 토끼</KillerRabbit.label>
+  <KillerRabbit.lifeStages.0.label>살인 토끼</KillerRabbit.lifeStages.0.label>
+  <KillerRabbit.lifeStages.0.labelPlural>살인 토끼</KillerRabbit.lifeStages.0.labelPlural>
+  <KillerRabbit.lifeStages.1.label>살인 토끼</KillerRabbit.lifeStages.1.label>
+  <KillerRabbit.lifeStages.1.labelPlural>살인 토끼</KillerRabbit.lifeStages.1.labelPlural>
+  <KillerRabbit.lifeStages.2.label>살인 토끼</KillerRabbit.lifeStages.2.label>
+  <KillerRabbit.lifeStages.2.labelPlural>살인 토끼</KillerRabbit.lifeStages.2.labelPlural>
+  <KillerRabbit.labelPlural>살인 토끼들</KillerRabbit.labelPlural>
+  <KillerRabbit.lifeStages.0.labelMale>수컷 살인 토끼</KillerRabbit.lifeStages.0.labelMale>
+  <KillerRabbit.lifeStages.1.labelMale>수컷 살인 토끼</KillerRabbit.lifeStages.1.labelMale>
+  <KillerRabbit.lifeStages.2.labelMale>수컷 살인 토끼</KillerRabbit.lifeStages.2.labelMale>
+  <KillerRabbit.labelMale>수컷 살인 토끼</KillerRabbit.labelMale>
+  <KillerRabbit.lifeStages.0.labelMalePlural>수컷 살인 토끼</KillerRabbit.lifeStages.0.labelMalePlural>
+  <KillerRabbit.lifeStages.1.labelMalePlural>수컷 살인 토끼</KillerRabbit.lifeStages.1.labelMalePlural>
+  <KillerRabbit.lifeStages.2.labelMalePlural>수컷 살인 토끼</KillerRabbit.lifeStages.2.labelMalePlural>
+  <KillerRabbit.labelMalePlural>수컷 살인 토끼</KillerRabbit.labelMalePlural>
+
+  <!--1746084920_190526_RimSlave-->
+  <Dothraki1_Mounted.label>도트라키</Dothraki1_Mounted.label>
+  <Dothraki1_Mounted.labelPlural>도트라키들</Dothraki1_Mounted.labelPlural>
+  <Dothraki1_Mounted.lifeStages.0.label>도트락</Dothraki1_Mounted.lifeStages.0.label>
+  <Dothraki1_Mounted.lifeStages.0.labelPlural>도트락들</Dothraki1_Mounted.lifeStages.0.labelPlural>
+  <Dothraki1_Mounted.lifeStages.1.label>코</Dothraki1_Mounted.lifeStages.1.label>
+  <Dothraki1_Mounted.lifeStages.1.labelPlural>코들</Dothraki1_Mounted.lifeStages.1.labelPlural>
+  <Dothraki1_Mounted.lifeStages.2.label>칼</Dothraki1_Mounted.lifeStages.2.label>
+  <Dothraki1_Mounted.lifeStages.2.labelPlural>칼들</Dothraki1_Mounted.lifeStages.2.labelPlural>
+  <Dothraki2_Mounted.label>도트라키</Dothraki2_Mounted.label>
+  <Dothraki2_Mounted.labelPlural>도트라키들</Dothraki2_Mounted.labelPlural>
+  <Dothraki2_Mounted.lifeStages.0.label>도트락</Dothraki2_Mounted.lifeStages.0.label>
+  <Dothraki2_Mounted.lifeStages.0.labelPlural>도트락들</Dothraki2_Mounted.lifeStages.0.labelPlural>
+  <Dothraki2_Mounted.lifeStages.1.label>코</Dothraki2_Mounted.lifeStages.1.label>
+  <Dothraki2_Mounted.lifeStages.1.labelPlural>코들</Dothraki2_Mounted.lifeStages.1.labelPlural>
+  <Dothraki2_Mounted.lifeStages.2.label>칼</Dothraki2_Mounted.lifeStages.2.label>
+  <Dothraki2_Mounted.lifeStages.2.labelPlural>칼들</Dothraki2_Mounted.lifeStages.2.labelPlural>
+  <Dothraki3_Mounted.label>도트라키</Dothraki3_Mounted.label>
+  <Dothraki3_Mounted.labelPlural>도트라키들</Dothraki3_Mounted.labelPlural>
+  <Dothraki3_Mounted.lifeStages.0.label>도트락</Dothraki3_Mounted.lifeStages.0.label>
+  <Dothraki3_Mounted.lifeStages.0.labelPlural>도트락들</Dothraki3_Mounted.lifeStages.0.labelPlural>
+  <Dothraki3_Mounted.lifeStages.1.label>코</Dothraki3_Mounted.lifeStages.1.label>
+  <Dothraki3_Mounted.lifeStages.1.labelPlural>코들</Dothraki3_Mounted.lifeStages.1.labelPlural>
+  <Dothraki3_Mounted.lifeStages.2.label>칼</Dothraki3_Mounted.lifeStages.2.label>
+  <Dothraki3_Mounted.lifeStages.2.labelPlural>칼들</Dothraki3_Mounted.lifeStages.2.labelPlural>
+  <Dothraki4_Mounted.label>도트라키</Dothraki4_Mounted.label>
+  <Dothraki4_Mounted.labelPlural>도트라키들</Dothraki4_Mounted.labelPlural>
+  <Dothraki4_Mounted.lifeStages.0.label>도트락</Dothraki4_Mounted.lifeStages.0.label>
+  <Dothraki4_Mounted.lifeStages.0.labelPlural>도트락들</Dothraki4_Mounted.lifeStages.0.labelPlural>
+  <Dothraki4_Mounted.lifeStages.1.label>코</Dothraki4_Mounted.lifeStages.1.label>
+  <Dothraki4_Mounted.lifeStages.1.labelPlural>코들</Dothraki4_Mounted.lifeStages.1.labelPlural>
+  <Dothraki4_Mounted.lifeStages.2.label>칼</Dothraki4_Mounted.lifeStages.2.label>
+  <Dothraki4_Mounted.lifeStages.2.labelPlural>칼들</Dothraki4_Mounted.lifeStages.2.labelPlural>
+  <Dothraki5_Mounted.label>도트라키</Dothraki5_Mounted.label>
+  <Dothraki5_Mounted.labelPlural>도트라키들</Dothraki5_Mounted.labelPlural>
+  <Dothraki5_Mounted.lifeStages.0.label>도트락</Dothraki5_Mounted.lifeStages.0.label>
+  <Dothraki5_Mounted.lifeStages.0.labelPlural>도트락들</Dothraki5_Mounted.lifeStages.0.labelPlural>
+  <Dothraki5_Mounted.lifeStages.1.label>코</Dothraki5_Mounted.lifeStages.1.label>
+  <Dothraki5_Mounted.lifeStages.1.labelPlural>코들</Dothraki5_Mounted.lifeStages.1.labelPlural>
+  <Dothraki5_Mounted.lifeStages.2.label>칼</Dothraki5_Mounted.lifeStages.2.label>
+  <Dothraki5_Mounted.lifeStages.2.labelPlural>칼들</Dothraki5_Mounted.lifeStages.2.labelPlural>
+  <Dothraki6_Mounted.label>도트라키</Dothraki6_Mounted.label>
+  <Dothraki6_Mounted.labelPlural>도트라키들</Dothraki6_Mounted.labelPlural>
+  <Dothraki6_Mounted.lifeStages.0.label>도트락</Dothraki6_Mounted.lifeStages.0.label>
+  <Dothraki6_Mounted.lifeStages.0.labelPlural>도트락들</Dothraki6_Mounted.lifeStages.0.labelPlural>
+  <Dothraki6_Mounted.lifeStages.1.label>코</Dothraki6_Mounted.lifeStages.1.label>
+  <Dothraki6_Mounted.lifeStages.1.labelPlural>코들</Dothraki6_Mounted.lifeStages.1.labelPlural>
+  <Dothraki6_Mounted.lifeStages.2.label>칼</Dothraki6_Mounted.lifeStages.2.label>
+  <Dothraki6_Mounted.lifeStages.2.labelPlural>칼들</Dothraki6_Mounted.lifeStages.2.labelPlural>
+  <Dothraki1_Unmounted.label>불명예스러운 도트라키</Dothraki1_Unmounted.label>
+  <Dothraki1_Unmounted.labelPlural>불명예스러운 도트라키들</Dothraki1_Unmounted.labelPlural>
+  <Dothraki1_Unmounted.lifeStages.0.label>불명예스러운 도트락</Dothraki1_Unmounted.lifeStages.0.label>
+  <Dothraki1_Unmounted.lifeStages.0.labelPlural>불명예스러운 도트락들</Dothraki1_Unmounted.lifeStages.0.labelPlural>
+  <Dothraki1_Unmounted.lifeStages.1.label>불명예스러운 코</Dothraki1_Unmounted.lifeStages.1.label>
+  <Dothraki1_Unmounted.lifeStages.1.labelPlural>불명예스러운 코들</Dothraki1_Unmounted.lifeStages.1.labelPlural>
+  <Dothraki1_Unmounted.lifeStages.2.label>불명예스러운 칼</Dothraki1_Unmounted.lifeStages.2.label>
+  <Dothraki1_Unmounted.lifeStages.2.labelPlural>불명예스러운 칼들</Dothraki1_Unmounted.lifeStages.2.labelPlural>
+  <Dothraki2_Unmounted.label>불명예스러운 도트라키</Dothraki2_Unmounted.label>
+  <Dothraki2_Unmounted.labelPlural>불명예스러운 도트라키들</Dothraki2_Unmounted.labelPlural>
+  <Dothraki2_Unmounted.lifeStages.0.label>불명예스러운 도트락</Dothraki2_Unmounted.lifeStages.0.label>
+  <Dothraki2_Unmounted.lifeStages.0.labelPlural>불명예스러운 도트락들</Dothraki2_Unmounted.lifeStages.0.labelPlural>
+  <Dothraki2_Unmounted.lifeStages.1.label>불명예스러운 코</Dothraki2_Unmounted.lifeStages.1.label>
+  <Dothraki2_Unmounted.lifeStages.1.labelPlural>불명예스러운 코들</Dothraki2_Unmounted.lifeStages.1.labelPlural>
+  <Dothraki2_Unmounted.lifeStages.2.label>불명예스러운 칼</Dothraki2_Unmounted.lifeStages.2.label>
+  <Dothraki2_Unmounted.lifeStages.2.labelPlural>불명예스러운 칼들</Dothraki2_Unmounted.lifeStages.2.labelPlural>
+  <Dothraki3_Unmounted.label>불명예스러운 도트라키</Dothraki3_Unmounted.label>
+  <Dothraki3_Unmounted.labelPlural>불명예스러운 도트라키들</Dothraki3_Unmounted.labelPlural>
+  <Dothraki3_Unmounted.lifeStages.0.label>불명예스러운 도트락</Dothraki3_Unmounted.lifeStages.0.label>
+  <Dothraki3_Unmounted.lifeStages.0.labelPlural>불명예스러운 도트락들</Dothraki3_Unmounted.lifeStages.0.labelPlural>
+  <Dothraki3_Unmounted.lifeStages.1.label>불명예스러운 코</Dothraki3_Unmounted.lifeStages.1.label>
+  <Dothraki3_Unmounted.lifeStages.1.labelPlural>불명예스러운 코들</Dothraki3_Unmounted.lifeStages.1.labelPlural>
+  <Dothraki3_Unmounted.lifeStages.2.label>불명예스러운 칼</Dothraki3_Unmounted.lifeStages.2.label>
+  <Dothraki3_Unmounted.lifeStages.2.labelPlural>불명예스러운 칼들</Dothraki3_Unmounted.lifeStages.2.labelPlural>
+  <Dothraki4_Unmounted.label>불명예스러운 도트라키</Dothraki4_Unmounted.label>
+  <Dothraki4_Unmounted.labelPlural>불명예스러운 도트라키들</Dothraki4_Unmounted.labelPlural>
+  <Dothraki4_Unmounted.lifeStages.0.label>불명예스러운 도트락</Dothraki4_Unmounted.lifeStages.0.label>
+  <Dothraki4_Unmounted.lifeStages.0.labelPlural>불명예스러운 도트락들</Dothraki4_Unmounted.lifeStages.0.labelPlural>
+  <Dothraki4_Unmounted.lifeStages.1.label>불명예스러운 코</Dothraki4_Unmounted.lifeStages.1.label>
+  <Dothraki4_Unmounted.lifeStages.1.labelPlural>불명예스러운 코들</Dothraki4_Unmounted.lifeStages.1.labelPlural>
+  <Dothraki4_Unmounted.lifeStages.2.label>불명예스러운 칼</Dothraki4_Unmounted.lifeStages.2.label>
+  <Dothraki4_Unmounted.lifeStages.2.labelPlural>불명예스러운 칼들</Dothraki4_Unmounted.lifeStages.2.labelPlural>
+  <Dothraki5_Unmounted.label>불명예스러운 도트라키</Dothraki5_Unmounted.label>
+  <Dothraki5_Unmounted.labelPlural>불명예스러운 도트라키들</Dothraki5_Unmounted.labelPlural>
+  <Dothraki5_Unmounted.lifeStages.0.label>불명예스러운 도트락</Dothraki5_Unmounted.lifeStages.0.label>
+  <Dothraki5_Unmounted.lifeStages.0.labelPlural>불명예스러운 도트락들</Dothraki5_Unmounted.lifeStages.0.labelPlural>
+  <Dothraki5_Unmounted.lifeStages.1.label>불명예스러운 코</Dothraki5_Unmounted.lifeStages.1.label>
+  <Dothraki5_Unmounted.lifeStages.1.labelPlural>불명예스러운 코들</Dothraki5_Unmounted.lifeStages.1.labelPlural>
+  <Dothraki5_Unmounted.lifeStages.2.label>불명예스러운 칼</Dothraki5_Unmounted.lifeStages.2.label>
+  <Dothraki5_Unmounted.lifeStages.2.labelPlural>불명예스러운 칼들</Dothraki5_Unmounted.lifeStages.2.labelPlural>
+  <Dothraki6_Unmounted.label>불명예스러운 도트라키</Dothraki6_Unmounted.label>
+  <Dothraki6_Unmounted.labelPlural>불명예스러운 도트라키들</Dothraki6_Unmounted.labelPlural>
+  <Dothraki6_Unmounted.lifeStages.0.label>불명예스러운 도트락</Dothraki6_Unmounted.lifeStages.0.label>
+  <Dothraki6_Unmounted.lifeStages.0.labelPlural>불명예스러운 도트락들</Dothraki6_Unmounted.lifeStages.0.labelPlural>
+  <Dothraki6_Unmounted.lifeStages.1.label>불명예스러운 코</Dothraki6_Unmounted.lifeStages.1.label>
+  <Dothraki6_Unmounted.lifeStages.1.labelPlural>불명예스러운 코들</Dothraki6_Unmounted.lifeStages.1.labelPlural>
+  <Dothraki6_Unmounted.lifeStages.2.label>불명예스러운 칼</Dothraki6_Unmounted.lifeStages.2.label>
+  <Dothraki6_Unmounted.lifeStages.2.labelPlural>불명예스러운 칼들</Dothraki6_Unmounted.lifeStages.2.labelPlural>
+  <Dothraki1_Horse.label>도트락 말</Dothraki1_Horse.label>
+  <Dothraki1_Horse.labelPlural>도트락 말들</Dothraki1_Horse.labelPlural>
+  <Dothraki1_Horse.lifeStages.0.label>도트락 말</Dothraki1_Horse.lifeStages.0.label>
+  <Dothraki1_Horse.lifeStages.0.labelPlural>도트락 말</Dothraki1_Horse.lifeStages.0.labelPlural>
+  <Dothraki1_Horse.lifeStages.0.labelMale>수컷 도트락 말</Dothraki1_Horse.lifeStages.0.labelMale>
+  <Dothraki1_Horse.lifeStages.0.labelMalePlural>수컷 도트락 말들</Dothraki1_Horse.lifeStages.0.labelMalePlural>
+  <Dothraki1_Horse.lifeStages.0.labelFemale>암컷 도트락 말</Dothraki1_Horse.lifeStages.0.labelFemale>
+  <Dothraki1_Horse.lifeStages.0.labelFemalePlural>암컷 도트락 말들</Dothraki1_Horse.lifeStages.0.labelFemalePlural>
+  <Dothraki1_Horse.lifeStages.1.label>도트락 말</Dothraki1_Horse.lifeStages.1.label>
+  <Dothraki1_Horse.lifeStages.1.labelPlural>도트락 말</Dothraki1_Horse.lifeStages.1.labelPlural>
+  <Dothraki1_Horse.lifeStages.1.labelMale>수컷 도트락 말</Dothraki1_Horse.lifeStages.1.labelMale>
+  <Dothraki1_Horse.lifeStages.1.labelMalePlural>수컷 도트락 말들</Dothraki1_Horse.lifeStages.1.labelMalePlural>
+  <Dothraki1_Horse.lifeStages.1.labelFemale>암컷 도트락 말</Dothraki1_Horse.lifeStages.1.labelFemale>
+  <Dothraki1_Horse.lifeStages.1.labelFemalePlural>암컷 도트락 말들</Dothraki1_Horse.lifeStages.1.labelFemalePlural>
+  <Dothraki1_Horse.lifeStages.2.label>도트락 말</Dothraki1_Horse.lifeStages.2.label>
+  <Dothraki1_Horse.lifeStages.2.labelPlural>도트락 말</Dothraki1_Horse.lifeStages.2.labelPlural>
+  <Dothraki1_Horse.lifeStages.2.labelMale>수컷 도트락 말</Dothraki1_Horse.lifeStages.2.labelMale>
+  <Dothraki1_Horse.lifeStages.2.labelMalePlural>수컷 도트락 말들</Dothraki1_Horse.lifeStages.2.labelMalePlural>
+  <Dothraki1_Horse.lifeStages.2.labelFemale>암컷 도트락 말</Dothraki1_Horse.lifeStages.2.labelFemale>
+  <Dothraki1_Horse.lifeStages.2.labelFemalePlural>암컷 도트락 말들</Dothraki1_Horse.lifeStages.2.labelFemalePlural>
+  <Dothraki1_Horse.labelMale>수컷 도트락 말</Dothraki1_Horse.labelMale>
+  <Dothraki1_Horse.labelMalePlural>수컷 도트락 말들</Dothraki1_Horse.labelMalePlural>
+  <Dothraki1_Horse.labelFemale>암컷 도트락 말</Dothraki1_Horse.labelFemale>
+  <Dothraki1_Horse.labelFemalePlural>암컷 도트락 말들</Dothraki1_Horse.labelFemalePlural>
+  <Dothraki2_Horse.label>도트락 말</Dothraki2_Horse.label>
+  <Dothraki2_Horse.labelPlural>도트락 말들</Dothraki2_Horse.labelPlural>
+  <Dothraki2_Horse.lifeStages.0.label>도트락 말</Dothraki2_Horse.lifeStages.0.label>
+  <Dothraki2_Horse.lifeStages.0.labelPlural>도트락 말</Dothraki2_Horse.lifeStages.0.labelPlural>
+  <Dothraki2_Horse.lifeStages.0.labelMale>수컷 도트락 말</Dothraki2_Horse.lifeStages.0.labelMale>
+  <Dothraki2_Horse.lifeStages.0.labelMalePlural>수컷 도트락 말들</Dothraki2_Horse.lifeStages.0.labelMalePlural>
+  <Dothraki2_Horse.lifeStages.0.labelFemale>암컷 도트락 말</Dothraki2_Horse.lifeStages.0.labelFemale>
+  <Dothraki2_Horse.lifeStages.0.labelFemalePlural>암컷 도트락 말들</Dothraki2_Horse.lifeStages.0.labelFemalePlural>
+  <Dothraki2_Horse.lifeStages.1.label>도트락 말</Dothraki2_Horse.lifeStages.1.label>
+  <Dothraki2_Horse.lifeStages.1.labelPlural>도트락 말</Dothraki2_Horse.lifeStages.1.labelPlural>
+  <Dothraki2_Horse.lifeStages.1.labelMale>수컷 도트락 말</Dothraki2_Horse.lifeStages.1.labelMale>
+  <Dothraki2_Horse.lifeStages.1.labelMalePlural>수컷 도트락 말들</Dothraki2_Horse.lifeStages.1.labelMalePlural>
+  <Dothraki2_Horse.lifeStages.1.labelFemale>암컷 도트락 말</Dothraki2_Horse.lifeStages.1.labelFemale>
+  <Dothraki2_Horse.lifeStages.1.labelFemalePlural>암컷 도트락 말들</Dothraki2_Horse.lifeStages.1.labelFemalePlural>
+  <Dothraki2_Horse.lifeStages.2.label>도트락 말</Dothraki2_Horse.lifeStages.2.label>
+  <Dothraki2_Horse.lifeStages.2.labelPlural>도트락 말</Dothraki2_Horse.lifeStages.2.labelPlural>
+  <Dothraki2_Horse.lifeStages.2.labelMale>수컷 도트락 말</Dothraki2_Horse.lifeStages.2.labelMale>
+  <Dothraki2_Horse.lifeStages.2.labelMalePlural>수컷 도트락 말들</Dothraki2_Horse.lifeStages.2.labelMalePlural>
+  <Dothraki2_Horse.lifeStages.2.labelFemale>암컷 도트락 말</Dothraki2_Horse.lifeStages.2.labelFemale>
+  <Dothraki2_Horse.lifeStages.2.labelFemalePlural>암컷 도트락 말들</Dothraki2_Horse.lifeStages.2.labelFemalePlural>
+  <Dothraki2_Horse.labelMale>수컷 도트락 말</Dothraki2_Horse.labelMale>
+  <Dothraki2_Horse.labelMalePlural>수컷 도트락 말들</Dothraki2_Horse.labelMalePlural>
+  <Dothraki2_Horse.labelFemale>암컷 도트락 말</Dothraki2_Horse.labelFemale>
+  <Dothraki2_Horse.labelFemalePlural>암컷 도트락 말들</Dothraki2_Horse.labelFemalePlural>
+  <Dothraki3_Horse.label>도트락 말</Dothraki3_Horse.label>
+  <Dothraki3_Horse.labelPlural>도트락 말들</Dothraki3_Horse.labelPlural>
+  <Dothraki3_Horse.lifeStages.0.label>도트락 말</Dothraki3_Horse.lifeStages.0.label>
+  <Dothraki3_Horse.lifeStages.0.labelPlural>도트락 말</Dothraki3_Horse.lifeStages.0.labelPlural>
+  <Dothraki3_Horse.lifeStages.0.labelMale>수컷 도트락 말</Dothraki3_Horse.lifeStages.0.labelMale>
+  <Dothraki3_Horse.lifeStages.0.labelMalePlural>수컷 도트락 말들</Dothraki3_Horse.lifeStages.0.labelMalePlural>
+  <Dothraki3_Horse.lifeStages.0.labelFemale>암컷 도트락 말</Dothraki3_Horse.lifeStages.0.labelFemale>
+  <Dothraki3_Horse.lifeStages.0.labelFemalePlural>암컷 도트락 말들</Dothraki3_Horse.lifeStages.0.labelFemalePlural>
+  <Dothraki3_Horse.lifeStages.1.label>도트락 말</Dothraki3_Horse.lifeStages.1.label>
+  <Dothraki3_Horse.lifeStages.1.labelPlural>도트락 말</Dothraki3_Horse.lifeStages.1.labelPlural>
+  <Dothraki3_Horse.lifeStages.1.labelMale>수컷 도트락 말</Dothraki3_Horse.lifeStages.1.labelMale>
+  <Dothraki3_Horse.lifeStages.1.labelMalePlural>수컷 도트락 말들</Dothraki3_Horse.lifeStages.1.labelMalePlural>
+  <Dothraki3_Horse.lifeStages.1.labelFemale>암컷 도트락 말</Dothraki3_Horse.lifeStages.1.labelFemale>
+  <Dothraki3_Horse.lifeStages.1.labelFemalePlural>암컷 도트락 말들</Dothraki3_Horse.lifeStages.1.labelFemalePlural>
+  <Dothraki3_Horse.lifeStages.2.label>도트락 말</Dothraki3_Horse.lifeStages.2.label>
+  <Dothraki3_Horse.lifeStages.2.labelPlural>도트락 말</Dothraki3_Horse.lifeStages.2.labelPlural>
+  <Dothraki3_Horse.lifeStages.2.labelMale>수컷 도트락 말</Dothraki3_Horse.lifeStages.2.labelMale>
+  <Dothraki3_Horse.lifeStages.2.labelMalePlural>수컷 도트락 말들</Dothraki3_Horse.lifeStages.2.labelMalePlural>
+  <Dothraki3_Horse.lifeStages.2.labelFemale>암컷 도트락 말</Dothraki3_Horse.lifeStages.2.labelFemale>
+  <Dothraki3_Horse.lifeStages.2.labelFemalePlural>암컷 도트락 말들</Dothraki3_Horse.lifeStages.2.labelFemalePlural>
+  <Dothraki3_Horse.labelMale>수컷 도트락 말</Dothraki3_Horse.labelMale>
+  <Dothraki3_Horse.labelMalePlural>수컷 도트락 말들</Dothraki3_Horse.labelMalePlural>
+  <Dothraki3_Horse.labelFemale>암컷 도트락 말</Dothraki3_Horse.labelFemale>
+  <Dothraki3_Horse.labelFemalePlural>암컷 도트락 말들</Dothraki3_Horse.labelFemalePlural>
+  <RS_Unsullied.label>무오병</RS_Unsullied.label>
+  <RS_Unsullied.labelPlural>무오병들</RS_Unsullied.labelPlural>
+  <RS_Unsullied.lifeStages.0.label>무오병 보병</RS_Unsullied.lifeStages.0.label>
+  <RS_Unsullied.lifeStages.0.labelPlural>무오병 보병들</RS_Unsullied.lifeStages.0.labelPlural>
+  <RS_Unsullied.lifeStages.1.label>무오병 장관</RS_Unsullied.lifeStages.1.label>
+  <RS_Unsullied.lifeStages.1.labelPlural>무오병 장관들</RS_Unsullied.lifeStages.1.labelPlural>
+  <RS_Unsullied.lifeStages.2.label>무오병 사령관</RS_Unsullied.lifeStages.2.label>
+  <RS_Unsullied.lifeStages.2.labelPlural>무오병 사령관들</RS_Unsullied.lifeStages.2.labelPlural>
+  <RS_Sally1.label>샐리</RS_Sally1.label>
+  <RS_Sally1.labelPlural>샐리들</RS_Sally1.labelPlural>
+  <RS_Sally1.lifeStages.0.label>어린 샐리</RS_Sally1.lifeStages.0.label>
+  <RS_Sally1.lifeStages.0.labelPlural>어린 샐리들</RS_Sally1.lifeStages.0.labelPlural>
+  <RS_Sally1.lifeStages.1.label>청소년 샐리</RS_Sally1.lifeStages.1.label>
+  <RS_Sally1.lifeStages.1.labelPlural>청소년 샐리들</RS_Sally1.lifeStages.1.labelPlural>
+  <RS_Sally1.lifeStages.2.label>샐리</RS_Sally1.lifeStages.2.label>
+  <RS_Sally1.lifeStages.2.labelPlural>샐리</RS_Sally1.lifeStages.2.labelPlural>
+  <RS_Sally2.label>샐리</RS_Sally2.label>
+  <RS_Sally2.labelPlural>샐리들</RS_Sally2.labelPlural>
+  <RS_Sally2.lifeStages.0.label>어린 샐리</RS_Sally2.lifeStages.0.label>
+  <RS_Sally2.lifeStages.0.labelPlural>어린 샐리들</RS_Sally2.lifeStages.0.labelPlural>
+  <RS_Sally2.lifeStages.1.label>청소년 샐리</RS_Sally2.lifeStages.1.label>
+  <RS_Sally2.lifeStages.1.labelPlural>청소년 샐리들</RS_Sally2.lifeStages.1.labelPlural>
+  <RS_Sally2.lifeStages.2.label>샐리</RS_Sally2.lifeStages.2.label>
+  <RS_Sally2.lifeStages.2.labelPlural>샐리</RS_Sally2.lifeStages.2.labelPlural>
+  <RS_Sally3.label>샐리</RS_Sally3.label>
+  <RS_Sally3.labelPlural>샐리들</RS_Sally3.labelPlural>
+  <RS_Sally3.lifeStages.0.label>어린 샐리</RS_Sally3.lifeStages.0.label>
+  <RS_Sally3.lifeStages.0.labelPlural>어린 샐리들</RS_Sally3.lifeStages.0.labelPlural>
+  <RS_Sally3.lifeStages.1.label>청소년 샐리</RS_Sally3.lifeStages.1.label>
+  <RS_Sally3.lifeStages.1.labelPlural>청소년 샐리들</RS_Sally3.lifeStages.1.labelPlural>
+  <RS_Sally3.lifeStages.2.label>샐리</RS_Sally3.lifeStages.2.label>
+  <RS_Sally3.lifeStages.2.labelPlural>샐리</RS_Sally3.lifeStages.2.labelPlural>
+  <RS_WorkSlave1.label>작업 노예</RS_WorkSlave1.label>
+  <RS_WorkSlave1.labelPlural>작업 노예들</RS_WorkSlave1.labelPlural>
+  <RS_WorkSlave1.lifeStages.0.label>어린 작업 노예</RS_WorkSlave1.lifeStages.0.label>
+  <RS_WorkSlave1.lifeStages.0.labelPlural>어린 작업 노예들</RS_WorkSlave1.lifeStages.0.labelPlural>
+  <RS_WorkSlave1.lifeStages.1.label>청소년 작업 노예</RS_WorkSlave1.lifeStages.1.label>
+  <RS_WorkSlave1.lifeStages.1.labelPlural>청소년 작업 노예들</RS_WorkSlave1.lifeStages.1.labelPlural>
+  <RS_WorkSlave1.lifeStages.2.label>작업 노예</RS_WorkSlave1.lifeStages.2.label>
+  <RS_WorkSlave1.lifeStages.2.labelPlural>작업 노예</RS_WorkSlave1.lifeStages.2.labelPlural>
+  <RS_WorkSlave2.label>작업 노예</RS_WorkSlave2.label>
+  <RS_WorkSlave2.labelPlural>작업 노예들</RS_WorkSlave2.labelPlural>
+  <RS_WorkSlave2.lifeStages.0.label>어린 작업 노예</RS_WorkSlave2.lifeStages.0.label>
+  <RS_WorkSlave2.lifeStages.0.labelPlural>어린 작업 노예들</RS_WorkSlave2.lifeStages.0.labelPlural>
+  <RS_WorkSlave2.lifeStages.1.label>청소년 작업 노예</RS_WorkSlave2.lifeStages.1.label>
+  <RS_WorkSlave2.lifeStages.1.labelPlural>청소년 작업 노예들</RS_WorkSlave2.lifeStages.1.labelPlural>
+  <RS_WorkSlave2.lifeStages.2.label>작업 노예</RS_WorkSlave2.lifeStages.2.label>
+  <RS_WorkSlave2.lifeStages.2.labelPlural>작업 노예</RS_WorkSlave2.lifeStages.2.labelPlural>
+  <RS_WorkSlave3.label>작업 노예</RS_WorkSlave3.label>
+  <RS_WorkSlave3.labelPlural>작업 노예들</RS_WorkSlave3.labelPlural>
+  <RS_WorkSlave3.lifeStages.0.label>어린 작업 노예</RS_WorkSlave3.lifeStages.0.label>
+  <RS_WorkSlave3.lifeStages.0.labelPlural>어린 작업 노예들</RS_WorkSlave3.lifeStages.0.labelPlural>
+  <RS_WorkSlave3.lifeStages.1.label>청소년 작업 노예</RS_WorkSlave3.lifeStages.1.label>
+  <RS_WorkSlave3.lifeStages.1.labelPlural>청소년 작업 노예들</RS_WorkSlave3.lifeStages.1.labelPlural>
+  <RS_WorkSlave3.lifeStages.2.label>작업 노예</RS_WorkSlave3.lifeStages.2.label>
+  <RS_WorkSlave3.lifeStages.2.labelPlural>작업 노예</RS_WorkSlave3.lifeStages.2.labelPlural>
+  <RS_WorkSlave4.label>작업 노예</RS_WorkSlave4.label>
+  <RS_WorkSlave4.labelPlural>작업 노예들</RS_WorkSlave4.labelPlural>
+  <RS_WorkSlave4.lifeStages.0.label>어린 작업 노예</RS_WorkSlave4.lifeStages.0.label>
+  <RS_WorkSlave4.lifeStages.0.labelPlural>어린 작업 노예들</RS_WorkSlave4.lifeStages.0.labelPlural>
+  <RS_WorkSlave4.lifeStages.1.label>청소년 작업 노예</RS_WorkSlave4.lifeStages.1.label>
+  <RS_WorkSlave4.lifeStages.1.labelPlural>청소년 작업 노예들</RS_WorkSlave4.lifeStages.1.labelPlural>
+  <RS_WorkSlave4.lifeStages.2.label>작업 노예</RS_WorkSlave4.lifeStages.2.label>
+  <RS_WorkSlave4.lifeStages.2.labelPlural>작업 노예</RS_WorkSlave4.lifeStages.2.labelPlural>
+  <RS_Maiden1.label>처녀</RS_Maiden1.label>
+  <RS_Maiden1.labelPlural>처녀들</RS_Maiden1.labelPlural>
+  <RS_Maiden1.lifeStages.0.label>어린 처녀</RS_Maiden1.lifeStages.0.label>
+  <RS_Maiden1.lifeStages.0.labelPlural>어린 처녀들</RS_Maiden1.lifeStages.0.labelPlural>
+  <RS_Maiden1.lifeStages.1.label>청소년 처녀</RS_Maiden1.lifeStages.1.label>
+  <RS_Maiden1.lifeStages.1.labelPlural>청소년 처녀들</RS_Maiden1.lifeStages.1.labelPlural>
+  <RS_Maiden1.lifeStages.2.label>처녀</RS_Maiden1.lifeStages.2.label>
+  <RS_Maiden1.lifeStages.2.labelPlural>처녀</RS_Maiden1.lifeStages.2.labelPlural>
+  <RS_Maiden2.label>처녀</RS_Maiden2.label>
+  <RS_Maiden2.labelPlural>처녀들</RS_Maiden2.labelPlural>
+  <RS_Maiden2.lifeStages.0.label>어린 처녀</RS_Maiden2.lifeStages.0.label>
+  <RS_Maiden2.lifeStages.0.labelPlural>어린 처녀들</RS_Maiden2.lifeStages.0.labelPlural>
+  <RS_Maiden2.lifeStages.1.label>청소년 처녀</RS_Maiden2.lifeStages.1.label>
+  <RS_Maiden2.lifeStages.1.labelPlural>청소년 처녀들</RS_Maiden2.lifeStages.1.labelPlural>
+  <RS_Maiden2.lifeStages.2.label>처녀</RS_Maiden2.lifeStages.2.label>
+  <RS_Maiden2.lifeStages.2.labelPlural>처녀</RS_Maiden2.lifeStages.2.labelPlural>
+
+  <!--1775170117_190816_RimCities-->
+  <Keanu_Pawn.label>전설</Keanu_Pawn.label>
+  <Keanu_Pawn.labelPlural>전설</Keanu_Pawn.labelPlural>
+  <Keanu_Dog.label>비글</Keanu_Dog.label>
+  <Keanu_Dog.labelPlural>비글</Keanu_Dog.labelPlural>
+  <Keanu_Dog.lifeStages.0.label>비글 강아지</Keanu_Dog.lifeStages.0.label>
+  <Keanu_Dog.lifeStages.0.labelPlural>비글 강아지</Keanu_Dog.lifeStages.0.labelPlural>
+  <Keanu_Dog.lifeStages.0.labelMale>남성 비글 강아지</Keanu_Dog.lifeStages.0.labelMale>
+  <Keanu_Dog.lifeStages.0.labelMalePlural>남성 글 강아지</Keanu_Dog.lifeStages.0.labelMalePlural>
+  <Keanu_Dog.lifeStages.0.labelFemale>여성 비글 강아지</Keanu_Dog.lifeStages.0.labelFemale>
+  <Keanu_Dog.lifeStages.0.labelFemalePlural>여성 비글 강아지</Keanu_Dog.lifeStages.0.labelFemalePlural>
+  <Keanu_Dog.lifeStages.1.label>비글</Keanu_Dog.lifeStages.1.label>
+  <Keanu_Dog.lifeStages.1.labelPlural>비글</Keanu_Dog.lifeStages.1.labelPlural>
+  <Keanu_Dog.lifeStages.1.labelMale>남성 비글</Keanu_Dog.lifeStages.1.labelMale>
+  <Keanu_Dog.lifeStages.1.labelMalePlural>남성 비글</Keanu_Dog.lifeStages.1.labelMalePlural>
+  <Keanu_Dog.lifeStages.1.labelFemale>여성 비글</Keanu_Dog.lifeStages.1.labelFemale>
+  <Keanu_Dog.lifeStages.1.labelFemalePlural>여성 비글</Keanu_Dog.lifeStages.1.labelFemalePlural>
+  <Keanu_Dog.lifeStages.2.label>비글</Keanu_Dog.lifeStages.2.label>
+  <Keanu_Dog.lifeStages.2.labelPlural>비글</Keanu_Dog.lifeStages.2.labelPlural>
+  <Keanu_Dog.lifeStages.2.labelMale>남성 비글</Keanu_Dog.lifeStages.2.labelMale>
+  <Keanu_Dog.lifeStages.2.labelMalePlural>남성 비글</Keanu_Dog.lifeStages.2.labelMalePlural>
+  <Keanu_Dog.lifeStages.2.labelFemale>여성 비글</Keanu_Dog.lifeStages.2.labelFemale>
+  <Keanu_Dog.lifeStages.2.labelFemalePlural>여성 비글</Keanu_Dog.lifeStages.2.labelFemalePlural>
+  <Keanu_Dog.labelMale>남성 비글</Keanu_Dog.labelMale>
+  <Keanu_Dog.labelMalePlural>남성 비글</Keanu_Dog.labelMalePlural>
+  <Keanu_Dog.labelFemale>여성 비글</Keanu_Dog.labelFemale>
+  <Keanu_Dog.labelFemalePlural>여성 비글</Keanu_Dog.labelFemalePlural>
+
+  <!--724600171_190621_Misc. MAI-->
+  <AIPawn.label>A.I.</AIPawn.label>
+  <AIPawn.labelPlural>향상된 AI</AIPawn.labelPlural>
+  <AIPawnE.label>향상된 AI</AIPawnE.label>
+  <AIPawnE.labelPlural>향상된 AI</AIPawnE.labelPlural>
+
+  <!--724602224_190626_Misc. Robots-->
+  <AIRobot_Hauler.label>운반로봇</AIRobot_Hauler.label>
+  <AIRobot_Hauler.labelPlural>운반로봇</AIRobot_Hauler.labelPlural>
+  <AIRobot_Hauler.labelMale>운반로봇</AIRobot_Hauler.labelMale>
+  <AIRobot_Hauler.labelMalePlural>운반로봇</AIRobot_Hauler.labelMalePlural>
+  <AIRobot_Hauler.labelFemale>운반로봇</AIRobot_Hauler.labelFemale>
+  <AIRobot_Hauler.labelFemalePlural>운반로봇</AIRobot_Hauler.labelFemalePlural>
+  <AIRobot_Cleaner.label>청소로봇</AIRobot_Cleaner.label>
+  <AIRobot_Cleaner.labelPlural>청소로봇</AIRobot_Cleaner.labelPlural>
+  <AIRobot_Cleaner.labelMale>청소로봇</AIRobot_Cleaner.labelMale>
+  <AIRobot_Cleaner.labelMalePlural>청소로봇</AIRobot_Cleaner.labelMalePlural>
+  <AIRobot_Cleaner.labelFemale>청소로봇</AIRobot_Cleaner.labelFemale>
+  <AIRobot_Cleaner.labelFemalePlural>청소로봇</AIRobot_Cleaner.labelFemalePlural>
+
+  <!--725576127_190626_Glitter Tech-->
+  <Commando.label>특공대원</Commando.label>
+  <Commando.labelPlural>특공대원</Commando.labelPlural>
+  <CommandoH.label>중무장 특공대원</CommandoH.label>
+  <CommandoH.labelPlural>중무장 특공대원</CommandoH.labelPlural>
+  <CommandoScout.label>특공정찰대원</CommandoScout.label>
+  <CommandoScout.labelPlural>특공정찰대원</CommandoScout.labelPlural>
+  <OCSoldier.label>오리온 전투원</OCSoldier.label>
+  <OCSoldier.labelPlural>오리온 전투원</OCSoldier.labelPlural>
+  <OCHeavy.label>오리온 중무장 전투원</OCHeavy.label>
+  <OCHeavy.labelPlural>오리온 중무장 전투원</OCHeavy.labelPlural>
+  <OCPeaceKeeper.label>오리온 피스키퍼</OCPeaceKeeper.label>
+  <OCPeaceKeeper.labelPlural>오리온 피스키퍼</OCPeaceKeeper.labelPlural>
+  <OCDirector.label>오리온 이사</OCDirector.label>
+  <OCDirector.labelPlural>오리온 이사</OCDirector.labelPlural>
+  <OCTank.label>오리온 주력전차</OCTank.label>
+  <OCTank.labelPlural>오리온 주력전차</OCTank.labelPlural>
+
+  <!--732569232_190814_Medieval Times-->
+  <MedTimes_Society_Archer.label>궁병</MedTimes_Society_Archer.label>
+  <MedTimes_Warband_Archer.label>궁병</MedTimes_Warband_Archer.label>
+  <MedTimes_Society_Archer.labelPlural>궁병</MedTimes_Society_Archer.labelPlural>
+  <MedTimes_Warband_Archer.labelPlural>궁병</MedTimes_Warband_Archer.labelPlural>
+  <MedTimes_Warband_Conscript.label>수습용병</MedTimes_Warband_Conscript.label>
+  <MedTimes_Warband_Conscript.labelPlural>수습용병</MedTimes_Warband_Conscript.labelPlural>
+  <MedTimes_Warbourne_Berserker.label>광전사</MedTimes_Warbourne_Berserker.label>
+  <MedTimes_Warbourne_Berserker_Cheap.label>광전사</MedTimes_Warbourne_Berserker_Cheap.label>
+  <MedTimes_Warbourne_Berserker.labelPlural>광전사들</MedTimes_Warbourne_Berserker.labelPlural>
+  <MedTimes_Warbourne_Berserker_Cheap.labelPlural>광전사들</MedTimes_Warbourne_Berserker_Cheap.labelPlural>
+  <MedTimes_Society_Conscript.label>징집병</MedTimes_Society_Conscript.label>
+  <MedTimes_Society_Conscript.labelPlural>징집병</MedTimes_Society_Conscript.labelPlural>
+  <MedTimes_Warband_RoyalGuard.label>데스가드</MedTimes_Warband_RoyalGuard.label>
+  <MedTimes_Warband_RoyalGuard.labelPlural>데스가드</MedTimes_Warband_RoyalGuard.labelPlural>
+  <MedTimes_Warband_Knight.label>오명의 기사</MedTimes_Warband_Knight.label>
+  <MedTimes_Warband_Knight.labelPlural>오명의 기사</MedTimes_Warband_Knight.labelPlural>
+  <MedTimes_Warband_EliteBowman.label>고용 정예궁병</MedTimes_Warband_EliteBowman.label>
+  <MedTimes_Warband_EliteBowman_Cheap.label>하급 고용 정예궁병</MedTimes_Warband_EliteBowman_Cheap.label>
+  <MedTimes_Warband_EliteBowman.labelPlural>고용 정예궁병</MedTimes_Warband_EliteBowman.labelPlural>
+  <MedTimes_Warband_EliteBowman_Cheap.labelPlural>하급 고용 정예궁병</MedTimes_Warband_EliteBowman_Cheap.labelPlural>
+  <MedTimes_Society_Knight.label>기사</MedTimes_Society_Knight.label>
+  <MedTimes_Society_Knight.labelPlural>기사</MedTimes_Society_Knight.labelPlural>
+  <MedTimes_Society_GodKing.label>군주</MedTimes_Society_GodKing.label>
+  <MedTimes_Society_GodKing.labelPlural>군주</MedTimes_Society_GodKing.labelPlural>
+  <MedTimes_Society_ManAtArms.label>중기병</MedTimes_Society_ManAtArms.label>
+  <MedTimes_Society_ManAtArms_Cheap.label>하급 중기병</MedTimes_Society_ManAtArms_Cheap.label>
+  <MedTimes_Society_ManAtArms.labelPlural>중기병</MedTimes_Society_ManAtArms.labelPlural>
+  <MedTimes_Society_ManAtArms_Cheap.labelPlural>하급 중기병</MedTimes_Society_ManAtArms_Cheap.labelPlural>
+  <MedTimes_Society_EliteBowman.label>정예궁병</MedTimes_Society_EliteBowman.label>
+  <MedTimes_Society_EliteBowman_Cheap.label>하급 정예궁병</MedTimes_Society_EliteBowman_Cheap.label>
+  <MedTimes_Society_EliteBowman.labelPlural>정예궁병</MedTimes_Society_EliteBowman.labelPlural>
+  <MedTimes_Society_EliteBowman_Cheap.labelPlural>하급 정예궁병</MedTimes_Society_EliteBowman_Cheap.labelPlural>
+  <MedTimes_Society_Peasant.label>농노</MedTimes_Society_Peasant.label>
+  <MedTimes_Warband_Peasant.label>농노</MedTimes_Warband_Peasant.label>
+  <MedTimes_Society_Peasant.labelPlural>농노</MedTimes_Society_Peasant.labelPlural>
+  <MedTimes_Warband_Peasant.labelPlural>농노</MedTimes_Warband_Peasant.labelPlural>
+  <MedTimes_Society_RoyalGuard.label>근위병</MedTimes_Society_RoyalGuard.label>
+  <MedTimes_Society_RoyalGuard.labelPlural>근위병</MedTimes_Society_RoyalGuard.labelPlural>
+  <MedTimes_Society_Sapper.label>공병</MedTimes_Society_Sapper.label>
+  <MedTimes_Warband_Sapper.label>공병</MedTimes_Warband_Sapper.label>
+  <MedTimes_Society_Sapper.labelPlural>공병</MedTimes_Society_Sapper.labelPlural>
+  <MedTimes_Warband_Sapper.labelPlural>공병</MedTimes_Warband_Sapper.labelPlural>
+  <MedTimes_Warband_ManAtArms.label>용병</MedTimes_Warband_ManAtArms.label>
+  <MedTimes_Warband_ManAtArms_Cheap.label>하급 용병</MedTimes_Warband_ManAtArms_Cheap.label>
+  <MedTimes_Warband_ManAtArms.labelPlural>용병</MedTimes_Warband_ManAtArms.labelPlural>
+  <MedTimes_Warband_ManAtArms_Cheap.labelPlural>하급 용병</MedTimes_Warband_ManAtArms_Cheap.labelPlural>
+  <MedTimes_Society_Trader.label>행상인</MedTimes_Society_Trader.label>
+  <MedTimes_Warband_Trader.label>행상인</MedTimes_Warband_Trader.label>
+  <MedTimes_Society_Trader.labelPlural>행상인</MedTimes_Society_Trader.labelPlural>
+  <MedTimes_Warband_Trader.labelPlural>행상인</MedTimes_Warband_Trader.labelPlural>
+  <MedTimes_Warbourne_ManAtArms.label>워번 신도</MedTimes_Warbourne_ManAtArms.label>
+  <MedTimes_Warbourne_ManAtArms.labelPlural>워번 신도들</MedTimes_Warbourne_ManAtArms.labelPlural>
+  <MedTimes_Warband_Warlord.label>전투단장</MedTimes_Warband_Warlord.label>
+  <MedTimes_Warband_Warlord.labelPlural>전투단장</MedTimes_Warband_Warlord.labelPlural>
+
+  <!--747645520_190627_Misc. Robots++-->
+  <RPP_Bot_Builder_I.label>건설로봇 (1티어)</RPP_Bot_Builder_I.label>
+  <RPP_Bot_Builder_I.labelPlural>건설로봇 (1티어)</RPP_Bot_Builder_I.labelPlural>
+  <RPP_Bot_Builder_II.label>건설로봇 (2티어)</RPP_Bot_Builder_II.label>
+  <RPP_Bot_Builder_II.labelPlural>건설로봇 (2티어)</RPP_Bot_Builder_II.labelPlural>
+  <RPP_Bot_Builder_III.label>건설로봇 (3티어)</RPP_Bot_Builder_III.label>
+  <RPP_Bot_Builder_III.labelPlural>건설로봇 (3티어)</RPP_Bot_Builder_III.labelPlural>
+  <RPP_Bot_Builder_IV.label>건설로봇 (4티어)</RPP_Bot_Builder_IV.label>
+  <RPP_Bot_Builder_IV.labelPlural>건설로봇 (4티어)</RPP_Bot_Builder_IV.labelPlural>
+  <RPP_Bot_Builder_V.label>건설로봇 (5티어)</RPP_Bot_Builder_V.label>
+  <RPP_Bot_Builder_V.labelPlural>건설로봇 (5티어)</RPP_Bot_Builder_V.labelPlural>
+  <AIRobot_Cleaner.label>청소로봇 (1티어)</AIRobot_Cleaner.label>
+  <AIRobot_Cleaner.labelPlural>청소로봇 (1티어)</AIRobot_Cleaner.labelPlural>
+  <AIRobot_Cleaner_II.label>청소로봇 (2티어)</AIRobot_Cleaner_II.label>
+  <AIRobot_Cleaner_II.labelPlural>청소로봇 (2티어)</AIRobot_Cleaner_II.labelPlural>
+  <AIRobot_Cleaner_III.label>청소로봇 (3티어)</AIRobot_Cleaner_III.label>
+  <AIRobot_Cleaner_III.labelPlural>청소로봇 (3티어)</AIRobot_Cleaner_III.labelPlural>
+  <AIRobot_Cleaner_IV.label>청소로봇 (4티어)</AIRobot_Cleaner_IV.label>
+  <AIRobot_Cleaner_IV.labelPlural>청소로봇 (4티어)</AIRobot_Cleaner_IV.labelPlural>
+  <AIRobot_Cleaner_V.label>청소로봇 (5티어)</AIRobot_Cleaner_V.label>
+  <AIRobot_Cleaner_V.labelPlural>청소로봇 (5티어)</AIRobot_Cleaner_V.labelPlural>
+  <RPP_Bot_Crafter_I.label>제작로봇 (1티어)</RPP_Bot_Crafter_I.label>
+  <RPP_Bot_Crafter_I.labelPlural>제작로봇 (1티어)</RPP_Bot_Crafter_I.labelPlural>
+  <RPP_Bot_Crafter_II.label>제작로봇 (2티어)</RPP_Bot_Crafter_II.label>
+  <RPP_Bot_Crafter_II.labelPlural>제작로봇 (2티어)</RPP_Bot_Crafter_II.labelPlural>
+  <RPP_Bot_Crafter_III.label>제작로봇 (3티어)</RPP_Bot_Crafter_III.label>
+  <RPP_Bot_Crafter_III.labelPlural>제작로봇 (3티어)</RPP_Bot_Crafter_III.labelPlural>
+  <RPP_Bot_Crafter_IV.label>제작로봇 (4티어)</RPP_Bot_Crafter_IV.label>
+  <RPP_Bot_Crafter_IV.labelPlural>제작로봇 (4티어)</RPP_Bot_Crafter_IV.labelPlural>
+  <RPP_Bot_Crafter_V.label>제작로봇 (5티어)</RPP_Bot_Crafter_V.label>
+  <RPP_Bot_Crafter_V.labelPlural>제작로봇 (5티어)</RPP_Bot_Crafter_V.labelPlural>
+  <RPP_Bot_ER_I.label>구조로봇 (1티어)</RPP_Bot_ER_I.label>
+  <RPP_Bot_ER_I.labelPlural>구조로봇 (1티어)</RPP_Bot_ER_I.labelPlural>
+  <RPP_Bot_ER_II.label>구조로봇 (2티어)</RPP_Bot_ER_II.label>
+  <RPP_Bot_ER_II.labelPlural>구조로봇 (2티어)</RPP_Bot_ER_II.labelPlural>
+  <RPP_Bot_ER_III.label>구조로봇 (3티어)</RPP_Bot_ER_III.label>
+  <RPP_Bot_ER_III.labelPlural>구조로봇 (3티어)</RPP_Bot_ER_III.labelPlural>
+  <RPP_Bot_ER_IV.label>구조로봇 (4티어)</RPP_Bot_ER_IV.label>
+  <RPP_Bot_ER_IV.labelPlural>구조로봇 (4티어)</RPP_Bot_ER_IV.labelPlural>
+  <RPP_Bot_ER_V.label>구조로봇 (5티어)</RPP_Bot_ER_V.label>
+  <RPP_Bot_ER_V.labelPlural>구조로봇 (5티어)</RPP_Bot_ER_V.labelPlural>
+  <RPP_Bot_Builder_I.labelFemale>건설로봇 (1티어)</RPP_Bot_Builder_I.labelFemale>
+  <RPP_Bot_Builder_I.labelFemalePlural>건설로봇 (1티어)</RPP_Bot_Builder_I.labelFemalePlural>
+  <RPP_Bot_Builder_II.labelFemale>건설로봇 (2티어)</RPP_Bot_Builder_II.labelFemale>
+  <RPP_Bot_Builder_II.labelFemalePlural>건설로봇 (2티어)</RPP_Bot_Builder_II.labelFemalePlural>
+  <RPP_Bot_Builder_III.labelFemale>건설로봇 (3티어)</RPP_Bot_Builder_III.labelFemale>
+  <RPP_Bot_Builder_III.labelFemalePlural>건설로봇 (3티어)</RPP_Bot_Builder_III.labelFemalePlural>
+  <RPP_Bot_Builder_IV.labelFemale>건설로봇 (4티어)</RPP_Bot_Builder_IV.labelFemale>
+  <RPP_Bot_Builder_IV.labelFemalePlural>건설로봇 (4티어)</RPP_Bot_Builder_IV.labelFemalePlural>
+  <RPP_Bot_Builder_V.labelFemale>건설로봇 (5티어)</RPP_Bot_Builder_V.labelFemale>
+  <RPP_Bot_Builder_V.labelFemalePlural>건설로봇 (5티어)</RPP_Bot_Builder_V.labelFemalePlural>
+  <AIRobot_Cleaner.labelFemale>청소로봇 (1티어)</AIRobot_Cleaner.labelFemale>
+  <AIRobot_Cleaner.labelFemalePlural>청소로봇 (1티어)</AIRobot_Cleaner.labelFemalePlural>
+  <AIRobot_Cleaner_II.labelFemale>청소로봇 (2티어)</AIRobot_Cleaner_II.labelFemale>
+  <AIRobot_Cleaner_II.labelFemalePlural>청소로봇 (2티어)</AIRobot_Cleaner_II.labelFemalePlural>
+  <AIRobot_Cleaner_III.labelFemale>청소로봇 (3티어)</AIRobot_Cleaner_III.labelFemale>
+  <AIRobot_Cleaner_III.labelFemalePlural>청소로봇 (3티어)</AIRobot_Cleaner_III.labelFemalePlural>
+  <AIRobot_Cleaner_IV.labelFemale>청소로봇 (4티어)</AIRobot_Cleaner_IV.labelFemale>
+  <AIRobot_Cleaner_IV.labelFemalePlural>청소로봇 (4티어)</AIRobot_Cleaner_IV.labelFemalePlural>
+  <AIRobot_Cleaner_V.labelFemale>청소로봇 (5티어)</AIRobot_Cleaner_V.labelFemale>
+  <AIRobot_Cleaner_V.labelFemalePlural>청소로봇 (5티어)</AIRobot_Cleaner_V.labelFemalePlural>
+  <RPP_Bot_Crafter_I.labelFemale>제작로봇 (1티어)</RPP_Bot_Crafter_I.labelFemale>
+  <RPP_Bot_Crafter_I.labelFemalePlural>제작로봇 (1티어)</RPP_Bot_Crafter_I.labelFemalePlural>
+  <RPP_Bot_Crafter_II.labelFemale>제작로봇 (2티어)</RPP_Bot_Crafter_II.labelFemale>
+  <RPP_Bot_Crafter_II.labelFemalePlural>제작로봇 (2티어)</RPP_Bot_Crafter_II.labelFemalePlural>
+  <RPP_Bot_Crafter_III.labelFemale>제작로봇 (3티어)</RPP_Bot_Crafter_III.labelFemale>
+  <RPP_Bot_Crafter_III.labelFemalePlural>제작로봇 (3티어)</RPP_Bot_Crafter_III.labelFemalePlural>
+  <RPP_Bot_Crafter_IV.labelFemale>제작로봇 (4티어)</RPP_Bot_Crafter_IV.labelFemale>
+  <RPP_Bot_Crafter_IV.labelFemalePlural>제작로봇 (4티어)</RPP_Bot_Crafter_IV.labelFemalePlural>
+  <RPP_Bot_Crafter_V.labelFemale>제작로봇 (5티어)</RPP_Bot_Crafter_V.labelFemale>
+  <RPP_Bot_Crafter_V.labelFemalePlural>제작로봇 (5티어)</RPP_Bot_Crafter_V.labelFemalePlural>
+  <RPP_Bot_ER_I.labelFemale>구조로봇 (1티어)</RPP_Bot_ER_I.labelFemale>
+  <RPP_Bot_ER_I.labelFemalePlural>구조로봇 (1티어)</RPP_Bot_ER_I.labelFemalePlural>
+  <RPP_Bot_ER_II.labelFemale>구조로봇 (2티어)</RPP_Bot_ER_II.labelFemale>
+  <RPP_Bot_ER_II.labelFemalePlural>구조로봇 (2티어)</RPP_Bot_ER_II.labelFemalePlural>
+  <RPP_Bot_ER_III.labelFemale>구조로봇 (3티어)</RPP_Bot_ER_III.labelFemale>
+  <RPP_Bot_ER_III.labelFemalePlural>구조로봇 (3티어)</RPP_Bot_ER_III.labelFemalePlural>
+  <RPP_Bot_ER_IV.labelFemale>구조로봇 (4티어)</RPP_Bot_ER_IV.labelFemale>
+  <RPP_Bot_ER_IV.labelFemalePlural>구조로봇 (4티어)</RPP_Bot_ER_IV.labelFemalePlural>
+  <RPP_Bot_ER_V.labelFemale>구조로봇 (5티어)</RPP_Bot_ER_V.labelFemale>
+  <RPP_Bot_ER_V.labelFemalePlural>구조로봇 (5티어)</RPP_Bot_ER_V.labelFemalePlural>
+  <AIRobot_Hauler.labelFemale>운반로봇 (1티어)</AIRobot_Hauler.labelFemale>
+  <AIRobot_Hauler.labelFemalePlural>운반로봇 (1티어)</AIRobot_Hauler.labelFemalePlural>
+  <AIRobot_Hauler_II.labelFemale>운반로봇 (2티어)</AIRobot_Hauler_II.labelFemale>
+  <AIRobot_Hauler_II.labelFemalePlural>운반로봇 (2티어)</AIRobot_Hauler_II.labelFemalePlural>
+  <AIRobot_Hauler_III.labelFemale>운반로봇 (3티어)</AIRobot_Hauler_III.labelFemale>
+  <AIRobot_Hauler_III.labelFemalePlural>운반로봇 (3티어)</AIRobot_Hauler_III.labelFemalePlural>
+  <AIRobot_Hauler_IV.labelFemale>운반로봇 (4티어)</AIRobot_Hauler_IV.labelFemale>
+  <AIRobot_Hauler_IV.labelFemalePlural>운반로봇 (4티어)</AIRobot_Hauler_IV.labelFemalePlural>
+  <AIRobot_Hauler_V.labelFemale>운반로봇 (5티어)</AIRobot_Hauler_V.labelFemale>
+  <AIRobot_Hauler_V.labelFemalePlural>운반로봇 (5티어)</AIRobot_Hauler_V.labelFemalePlural>
+  <RPP_Bot_Kitchen_I.labelFemale>조리로봇 (1티어)</RPP_Bot_Kitchen_I.labelFemale>
+  <RPP_Bot_Kitchen_I.labelFemalePlural>조리로봇 (1티어)</RPP_Bot_Kitchen_I.labelFemalePlural>
+  <RPP_Bot_Kitchen_II.labelFemale>조리로봇 (2티어)</RPP_Bot_Kitchen_II.labelFemale>
+  <RPP_Bot_Kitchen_II.labelFemalePlural>조리로봇 (2티어)</RPP_Bot_Kitchen_II.labelFemalePlural>
+  <RPP_Bot_Kitchen_III.labelFemale>조리로봇 (3티어)</RPP_Bot_Kitchen_III.labelFemale>
+  <RPP_Bot_Kitchen_III.labelFemalePlural>조리로봇 (3티어)</RPP_Bot_Kitchen_III.labelFemalePlural>
+  <RPP_Bot_Kitchen_IV.labelFemale>조리로봇 (4티어)</RPP_Bot_Kitchen_IV.labelFemale>
+  <RPP_Bot_Kitchen_IV.labelFemalePlural>조리로봇 (4티어)</RPP_Bot_Kitchen_IV.labelFemalePlural>
+  <RPP_Bot_Kitchen_V.labelFemale>조리로봇 (5티어)</RPP_Bot_Kitchen_V.labelFemale>
+  <RPP_Bot_Kitchen_V.labelFemalePlural>조리로봇 (5티어)</RPP_Bot_Kitchen_V.labelFemalePlural>
+  <RPP_Bot_Omni_V.labelFemale>옴닉로봇 (5티어)</RPP_Bot_Omni_V.labelFemale>
+  <RPP_Bot_Omni_V.labelFemalePlural>옴닉로봇 (5티어)</RPP_Bot_Omni_V.labelFemalePlural>
+  <AIRobot_Hauler.label>운반로봇 (1티어)</AIRobot_Hauler.label>
+  <AIRobot_Hauler.labelPlural>운반로봇 (1티어)</AIRobot_Hauler.labelPlural>
+  <AIRobot_Hauler_II.label>운반로봇 (2티어)</AIRobot_Hauler_II.label>
+  <AIRobot_Hauler_II.labelPlural>운반로봇 (2티어)</AIRobot_Hauler_II.labelPlural>
+  <AIRobot_Hauler_III.label>운반로봇 (3티어)</AIRobot_Hauler_III.label>
+  <AIRobot_Hauler_III.labelPlural>운반로봇 (3티어)</AIRobot_Hauler_III.labelPlural>
+  <AIRobot_Hauler_IV.label>운반로봇 (4티어)</AIRobot_Hauler_IV.label>
+  <AIRobot_Hauler_IV.labelPlural>운반로봇 (4티어)</AIRobot_Hauler_IV.labelPlural>
+  <AIRobot_Hauler_V.label>운반로봇 (5티어)</AIRobot_Hauler_V.label>
+  <AIRobot_Hauler_V.labelPlural>운반로봇 (5티어)</AIRobot_Hauler_V.labelPlural>
+  <RPP_Bot_Kitchen_I.label>조리로봇 (1티어)</RPP_Bot_Kitchen_I.label>
+  <RPP_Bot_Kitchen_I.labelPlural>조리로봇 (1티어)</RPP_Bot_Kitchen_I.labelPlural>
+  <RPP_Bot_Kitchen_II.label>조리로봇 (2티어)</RPP_Bot_Kitchen_II.label>
+  <RPP_Bot_Kitchen_II.labelPlural>조리로봇 (2티어)</RPP_Bot_Kitchen_II.labelPlural>
+  <RPP_Bot_Kitchen_III.label>조리로봇 (3티어)</RPP_Bot_Kitchen_III.label>
+  <RPP_Bot_Kitchen_III.labelPlural>조리로봇 (3티어)</RPP_Bot_Kitchen_III.labelPlural>
+  <RPP_Bot_Kitchen_IV.label>조리로봇 (4티어)</RPP_Bot_Kitchen_IV.label>
+  <RPP_Bot_Kitchen_IV.labelPlural>조리로봇 (4티어)</RPP_Bot_Kitchen_IV.labelPlural>
+  <RPP_Bot_Kitchen_V.label>조리로봇 (5티어)</RPP_Bot_Kitchen_V.label>
+  <RPP_Bot_Kitchen_V.labelPlural>조리로봇 (5티어)</RPP_Bot_Kitchen_V.labelPlural>
+  <RPP_Bot_Builder_I.labelMale>건설로봇 (1티어)</RPP_Bot_Builder_I.labelMale>
+  <RPP_Bot_Builder_I.labelMalePlural>건설로봇 (1티어)</RPP_Bot_Builder_I.labelMalePlural>
+  <RPP_Bot_Builder_II.labelMale>건설로봇 (2티어)</RPP_Bot_Builder_II.labelMale>
+  <RPP_Bot_Builder_II.labelMalePlural>건설로봇 (2티어)</RPP_Bot_Builder_II.labelMalePlural>
+  <RPP_Bot_Builder_III.labelMale>건설로봇 (3티어)</RPP_Bot_Builder_III.labelMale>
+  <RPP_Bot_Builder_III.labelMalePlural>건설로봇 (3티어)</RPP_Bot_Builder_III.labelMalePlural>
+  <RPP_Bot_Builder_IV.labelMale>건설로봇 (4티어)</RPP_Bot_Builder_IV.labelMale>
+  <RPP_Bot_Builder_IV.labelMalePlural>건설로봇 (4티어)</RPP_Bot_Builder_IV.labelMalePlural>
+  <RPP_Bot_Builder_V.labelMale>건설로봇 (5티어)</RPP_Bot_Builder_V.labelMale>
+  <RPP_Bot_Builder_V.labelMalePlural>건설로봇 (5티어)</RPP_Bot_Builder_V.labelMalePlural>
+  <AIRobot_Cleaner.labelMale>청소로봇 (1티어)</AIRobot_Cleaner.labelMale>
+  <AIRobot_Cleaner.labelMalePlural>청소로봇 (1티어)</AIRobot_Cleaner.labelMalePlural>
+  <AIRobot_Cleaner_II.labelMale>청소로봇 (2티어)</AIRobot_Cleaner_II.labelMale>
+  <AIRobot_Cleaner_II.labelMalePlural>청소로봇 (2티어)</AIRobot_Cleaner_II.labelMalePlural>
+  <AIRobot_Cleaner_III.labelMale>청소로봇 (3티어)</AIRobot_Cleaner_III.labelMale>
+  <AIRobot_Cleaner_III.labelMalePlural>청소로봇 (3티어)</AIRobot_Cleaner_III.labelMalePlural>
+  <AIRobot_Cleaner_IV.labelMale>청소로봇 (4티어)</AIRobot_Cleaner_IV.labelMale>
+  <AIRobot_Cleaner_IV.labelMalePlural>청소로봇 (4티어)</AIRobot_Cleaner_IV.labelMalePlural>
+  <AIRobot_Cleaner_V.labelMale>청소로봇 (5티어)</AIRobot_Cleaner_V.labelMale>
+  <AIRobot_Cleaner_V.labelMalePlural>청소로봇 (5티어)</AIRobot_Cleaner_V.labelMalePlural>
+  <RPP_Bot_Crafter_I.labelMale>제작로봇 (1티어)</RPP_Bot_Crafter_I.labelMale>
+  <RPP_Bot_Crafter_I.labelMalePlural>제작로봇 (1티어)</RPP_Bot_Crafter_I.labelMalePlural>
+  <RPP_Bot_Crafter_II.labelMale>제작로봇 (2티어)</RPP_Bot_Crafter_II.labelMale>
+  <RPP_Bot_Crafter_II.labelMalePlural>제작로봇 (2티어)</RPP_Bot_Crafter_II.labelMalePlural>
+  <RPP_Bot_Crafter_III.labelMale>제작로봇 (3티어)</RPP_Bot_Crafter_III.labelMale>
+  <RPP_Bot_Crafter_III.labelMalePlural>제작로봇 (3티어)</RPP_Bot_Crafter_III.labelMalePlural>
+  <RPP_Bot_Crafter_IV.labelMale>제작로봇 (4티어)</RPP_Bot_Crafter_IV.labelMale>
+  <RPP_Bot_Crafter_IV.labelMalePlural>제작로봇 (4티어)</RPP_Bot_Crafter_IV.labelMalePlural>
+  <RPP_Bot_Crafter_V.labelMale>제작로봇 (5티어)</RPP_Bot_Crafter_V.labelMale>
+  <RPP_Bot_Crafter_V.labelMalePlural>제작로봇 (5티어)</RPP_Bot_Crafter_V.labelMalePlural>
+  <RPP_Bot_ER_I.labelMale>구조로봇 (1티어)</RPP_Bot_ER_I.labelMale>
+  <RPP_Bot_ER_I.labelMalePlural>구조로봇 (1티어)</RPP_Bot_ER_I.labelMalePlural>
+  <RPP_Bot_ER_II.labelMale>구조로봇 (2티어)</RPP_Bot_ER_II.labelMale>
+  <RPP_Bot_ER_II.labelMalePlural>구조로봇 (2티어)</RPP_Bot_ER_II.labelMalePlural>
+  <RPP_Bot_ER_III.labelMale>구조로봇 (3티어)</RPP_Bot_ER_III.labelMale>
+  <RPP_Bot_ER_III.labelMalePlural>구조로봇 (3티어)</RPP_Bot_ER_III.labelMalePlural>
+  <RPP_Bot_ER_IV.labelMale>구조로봇 (4티어)</RPP_Bot_ER_IV.labelMale>
+  <RPP_Bot_ER_IV.labelMalePlural>구조로봇 (4티어)</RPP_Bot_ER_IV.labelMalePlural>
+  <RPP_Bot_ER_V.labelMale>구조로봇 (5티어)</RPP_Bot_ER_V.labelMale>
+  <RPP_Bot_ER_V.labelMalePlural>구조로봇 (5티어)</RPP_Bot_ER_V.labelMalePlural>
+  <AIRobot_Hauler.labelMale>운반로봇 (1티어)</AIRobot_Hauler.labelMale>
+  <AIRobot_Hauler.labelMalePlural>운반로봇 (1티어)</AIRobot_Hauler.labelMalePlural>
+  <AIRobot_Hauler_II.labelMale>운반로봇 (2티어)</AIRobot_Hauler_II.labelMale>
+  <AIRobot_Hauler_II.labelMalePlural>운반로봇 (2티어)</AIRobot_Hauler_II.labelMalePlural>
+  <AIRobot_Hauler_III.labelMale>운반로봇 (3티어)</AIRobot_Hauler_III.labelMale>
+  <AIRobot_Hauler_III.labelMalePlural>운반로봇 (3티어)</AIRobot_Hauler_III.labelMalePlural>
+  <AIRobot_Hauler_IV.labelMale>운반로봇 (4티어)</AIRobot_Hauler_IV.labelMale>
+  <AIRobot_Hauler_IV.labelMalePlural>운반로봇 (4티어)</AIRobot_Hauler_IV.labelMalePlural>
+  <AIRobot_Hauler_V.labelMale>운반로봇 (5티어)</AIRobot_Hauler_V.labelMale>
+  <AIRobot_Hauler_V.labelMalePlural>운반로봇 (5티어)</AIRobot_Hauler_V.labelMalePlural>
+  <RPP_Bot_Kitchen_I.labelMale>조리로봇 (1티어)</RPP_Bot_Kitchen_I.labelMale>
+  <RPP_Bot_Kitchen_I.labelMalePlural>조리로봇 (1티어)</RPP_Bot_Kitchen_I.labelMalePlural>
+  <RPP_Bot_Kitchen_II.labelMale>조리로봇 (2티어)</RPP_Bot_Kitchen_II.labelMale>
+  <RPP_Bot_Kitchen_II.labelMalePlural>조리로봇 (2티어)</RPP_Bot_Kitchen_II.labelMalePlural>
+  <RPP_Bot_Kitchen_III.labelMale>조리로봇 (3티어)</RPP_Bot_Kitchen_III.labelMale>
+  <RPP_Bot_Kitchen_III.labelMalePlural>조리로봇 (3티어)</RPP_Bot_Kitchen_III.labelMalePlural>
+  <RPP_Bot_Kitchen_IV.labelMale>조리로봇 (4티어)</RPP_Bot_Kitchen_IV.labelMale>
+  <RPP_Bot_Kitchen_IV.labelMalePlural>조리로봇 (4티어)</RPP_Bot_Kitchen_IV.labelMalePlural>
+  <RPP_Bot_Kitchen_V.labelMale>조리로봇 (5티어)</RPP_Bot_Kitchen_V.labelMale>
+  <RPP_Bot_Kitchen_V.labelMalePlural>조리로봇 (5티어)</RPP_Bot_Kitchen_V.labelMalePlural>
+  <RPP_Bot_Omni_V.labelMale>옴닉로봇 (5티어)</RPP_Bot_Omni_V.labelMale>
+  <RPP_Bot_Omni_V.labelMalePlural>옴닉로봇 (5티어)</RPP_Bot_Omni_V.labelMalePlural>
+  <RPP_Bot_Omni_V.label>옴닉로봇 (5티어)</RPP_Bot_Omni_V.label>
+  <RPP_Bot_Omni_V.labelPlural>옴닉로봇 (5티어)</RPP_Bot_Omni_V.labelPlural>
+
+  <!--758810805_190811_FishIndustry-->
+  <PawnKindDefFishSduiggles.label>오징어</PawnKindDefFishSduiggles.label>
+  <PawnKindDefFishSduiggles.labelPlural>오징어</PawnKindDefFishSduiggles.labelPlural>
+  <PawnKindDefFishSduiggles.lifeStages.0.label>오징어</PawnKindDefFishSduiggles.lifeStages.0.label>
+  <PawnKindDefFishSduiggles.lifeStages.0.labelPlural>오징어</PawnKindDefFishSduiggles.lifeStages.0.labelPlural>
+  <PawnKindDefFishSduiggles.lifeStages.0.labelMale>수컷 오징어</PawnKindDefFishSduiggles.lifeStages.0.labelMale>
+  <PawnKindDefFishSduiggles.lifeStages.0.labelMalePlural>수컷 오징어</PawnKindDefFishSduiggles.lifeStages.0.labelMalePlural>
+  <PawnKindDefFishSduiggles.lifeStages.0.labelFemale>암컷 오징어</PawnKindDefFishSduiggles.lifeStages.0.labelFemale>
+  <PawnKindDefFishSduiggles.lifeStages.0.labelFemalePlural>암컷 오징어</PawnKindDefFishSduiggles.lifeStages.0.labelFemalePlural>
+  <PawnKindDefFishSduiggles.lifeStages.1.label>오징어</PawnKindDefFishSduiggles.lifeStages.1.label>
+  <PawnKindDefFishSduiggles.lifeStages.1.labelPlural>오징어</PawnKindDefFishSduiggles.lifeStages.1.labelPlural>
+  <PawnKindDefFishSduiggles.lifeStages.1.labelMale>수컷 오징어</PawnKindDefFishSduiggles.lifeStages.1.labelMale>
+  <PawnKindDefFishSduiggles.lifeStages.1.labelMalePlural>수컷 오징어</PawnKindDefFishSduiggles.lifeStages.1.labelMalePlural>
+  <PawnKindDefFishSduiggles.lifeStages.1.labelFemale>암컷 오징어</PawnKindDefFishSduiggles.lifeStages.1.labelFemale>
+  <PawnKindDefFishSduiggles.lifeStages.1.labelFemalePlural>암컷 오징어</PawnKindDefFishSduiggles.lifeStages.1.labelFemalePlural>
+  <PawnKindDefFishSduiggles.lifeStages.2.label>오징어</PawnKindDefFishSduiggles.lifeStages.2.label>
+  <PawnKindDefFishSduiggles.lifeStages.2.labelPlural>오징어</PawnKindDefFishSduiggles.lifeStages.2.labelPlural>
+  <PawnKindDefFishSduiggles.lifeStages.2.labelMale>수컷 오징어</PawnKindDefFishSduiggles.lifeStages.2.labelMale>
+  <PawnKindDefFishSduiggles.lifeStages.2.labelMalePlural>수컷 오징어</PawnKindDefFishSduiggles.lifeStages.2.labelMalePlural>
+  <PawnKindDefFishSduiggles.lifeStages.2.labelFemale>암컷 오징어</PawnKindDefFishSduiggles.lifeStages.2.labelFemale>
+  <PawnKindDefFishSduiggles.lifeStages.2.labelFemalePlural>암컷 오징어</PawnKindDefFishSduiggles.lifeStages.2.labelFemalePlural>
+  <PawnKindDefFishSduiggles.labelMale>수컷 오징어</PawnKindDefFishSduiggles.labelMale>
+  <PawnKindDefFishSduiggles.labelMalePlural>수컷 오징어</PawnKindDefFishSduiggles.labelMalePlural>
+  <PawnKindDefFishSduiggles.labelFemale>암컷 오징어</PawnKindDefFishSduiggles.labelFemale>
+  <PawnKindDefFishSduiggles.labelFemalePlural>암컷 오징어</PawnKindDefFishSduiggles.labelFemalePlural>
+  <PawnKindDefFishSeasnake.label>장어</PawnKindDefFishSeasnake.label>
+  <PawnKindDefFishSeasnake.labelPlural>장어</PawnKindDefFishSeasnake.labelPlural>
+  <PawnKindDefFishSeasnake.lifeStages.0.label>장어</PawnKindDefFishSeasnake.lifeStages.0.label>
+  <PawnKindDefFishSeasnake.lifeStages.0.labelPlural>장어</PawnKindDefFishSeasnake.lifeStages.0.labelPlural>
+  <PawnKindDefFishSeasnake.lifeStages.0.labelMale>수컷 장어</PawnKindDefFishSeasnake.lifeStages.0.labelMale>
+  <PawnKindDefFishSeasnake.lifeStages.0.labelMalePlural>수컷 장어</PawnKindDefFishSeasnake.lifeStages.0.labelMalePlural>
+  <PawnKindDefFishSeasnake.lifeStages.0.labelFemale>암컷 장어</PawnKindDefFishSeasnake.lifeStages.0.labelFemale>
+  <PawnKindDefFishSeasnake.lifeStages.0.labelFemalePlural>암컷 장어</PawnKindDefFishSeasnake.lifeStages.0.labelFemalePlural>
+  <PawnKindDefFishSeasnake.lifeStages.1.label>장어</PawnKindDefFishSeasnake.lifeStages.1.label>
+  <PawnKindDefFishSeasnake.lifeStages.1.labelPlural>장어</PawnKindDefFishSeasnake.lifeStages.1.labelPlural>
+  <PawnKindDefFishSeasnake.lifeStages.1.labelMale>수컷 장어</PawnKindDefFishSeasnake.lifeStages.1.labelMale>
+  <PawnKindDefFishSeasnake.lifeStages.1.labelMalePlural>수컷 장어</PawnKindDefFishSeasnake.lifeStages.1.labelMalePlural>
+  <PawnKindDefFishSeasnake.lifeStages.1.labelFemale>암컷 장어</PawnKindDefFishSeasnake.lifeStages.1.labelFemale>
+  <PawnKindDefFishSeasnake.lifeStages.1.labelFemalePlural>암컷 장어</PawnKindDefFishSeasnake.lifeStages.1.labelFemalePlural>
+  <PawnKindDefFishSeasnake.lifeStages.2.label>장어</PawnKindDefFishSeasnake.lifeStages.2.label>
+  <PawnKindDefFishSeasnake.lifeStages.2.labelPlural>장어</PawnKindDefFishSeasnake.lifeStages.2.labelPlural>
+  <PawnKindDefFishSeasnake.lifeStages.2.labelMale>수컷 장어</PawnKindDefFishSeasnake.lifeStages.2.labelMale>
+  <PawnKindDefFishSeasnake.lifeStages.2.labelMalePlural>수컷 장어</PawnKindDefFishSeasnake.lifeStages.2.labelMalePlural>
+  <PawnKindDefFishSeasnake.lifeStages.2.labelFemale>암컷 장어</PawnKindDefFishSeasnake.lifeStages.2.labelFemale>
+  <PawnKindDefFishSeasnake.lifeStages.2.labelFemalePlural>암컷 장어</PawnKindDefFishSeasnake.lifeStages.2.labelFemalePlural>
+  <PawnKindDefFishSeasnake.labelMale>수컷 장어</PawnKindDefFishSeasnake.labelMale>
+  <PawnKindDefFishSeasnake.labelMalePlural>수컷 장어</PawnKindDefFishSeasnake.labelMalePlural>
+  <PawnKindDefFishSeasnake.labelFemale>암컷 장어</PawnKindDefFishSeasnake.labelFemale>
+  <PawnKindDefFishSeasnake.labelFemalePlural>암컷 장어</PawnKindDefFishSeasnake.labelFemalePlural>
+  <PawnKindDefFishMashgon.label>새우</PawnKindDefFishMashgon.label>
+  <PawnKindDefFishMashgon.labelPlural>새우</PawnKindDefFishMashgon.labelPlural>
+  <PawnKindDefFishMashgon.lifeStages.0.label>새우</PawnKindDefFishMashgon.lifeStages.0.label>
+  <PawnKindDefFishMashgon.lifeStages.0.labelPlural>새우</PawnKindDefFishMashgon.lifeStages.0.labelPlural>
+  <PawnKindDefFishMashgon.lifeStages.0.labelMale>수컷 새우</PawnKindDefFishMashgon.lifeStages.0.labelMale>
+  <PawnKindDefFishMashgon.lifeStages.0.labelMalePlural>수컷 새우</PawnKindDefFishMashgon.lifeStages.0.labelMalePlural>
+  <PawnKindDefFishMashgon.lifeStages.0.labelFemale>암컷 새우</PawnKindDefFishMashgon.lifeStages.0.labelFemale>
+  <PawnKindDefFishMashgon.lifeStages.0.labelFemalePlural>암컷 새우</PawnKindDefFishMashgon.lifeStages.0.labelFemalePlural>
+  <PawnKindDefFishMashgon.lifeStages.1.label>새우</PawnKindDefFishMashgon.lifeStages.1.label>
+  <PawnKindDefFishMashgon.lifeStages.1.labelPlural>새우</PawnKindDefFishMashgon.lifeStages.1.labelPlural>
+  <PawnKindDefFishMashgon.lifeStages.1.labelMale>수컷 새우</PawnKindDefFishMashgon.lifeStages.1.labelMale>
+  <PawnKindDefFishMashgon.lifeStages.1.labelMalePlural>수컷 새우</PawnKindDefFishMashgon.lifeStages.1.labelMalePlural>
+  <PawnKindDefFishMashgon.lifeStages.1.labelFemale>암컷 새우</PawnKindDefFishMashgon.lifeStages.1.labelFemale>
+  <PawnKindDefFishMashgon.lifeStages.1.labelFemalePlural>암컷 새우</PawnKindDefFishMashgon.lifeStages.1.labelFemalePlural>
+  <PawnKindDefFishMashgon.lifeStages.2.label>새우</PawnKindDefFishMashgon.lifeStages.2.label>
+  <PawnKindDefFishMashgon.lifeStages.2.labelPlural>새우</PawnKindDefFishMashgon.lifeStages.2.labelPlural>
+  <PawnKindDefFishMashgon.lifeStages.2.labelMale>수컷 새우</PawnKindDefFishMashgon.lifeStages.2.labelMale>
+  <PawnKindDefFishMashgon.lifeStages.2.labelMalePlural>수컷 새우</PawnKindDefFishMashgon.lifeStages.2.labelMalePlural>
+  <PawnKindDefFishMashgon.lifeStages.2.labelFemale>암컷 새우</PawnKindDefFishMashgon.lifeStages.2.labelFemale>
+  <PawnKindDefFishMashgon.lifeStages.2.labelFemalePlural>암컷 새우</PawnKindDefFishMashgon.lifeStages.2.labelFemalePlural>
+  <PawnKindDefFishMashgon.labelMale>수컷 새우</PawnKindDefFishMashgon.labelMale>
+  <PawnKindDefFishMashgon.labelMalePlural>수컷 새우</PawnKindDefFishMashgon.labelMalePlural>
+  <PawnKindDefFishMashgon.labelFemale>암컷 새우</PawnKindDefFishMashgon.labelFemale>
+  <PawnKindDefFishMashgon.labelFemalePlural>암컷 새우</PawnKindDefFishMashgon.labelFemalePlural>
+  <PawnKindDefFishBlueblade.label>참치</PawnKindDefFishBlueblade.label>
+  <PawnKindDefFishBlueblade.labelPlural>참치</PawnKindDefFishBlueblade.labelPlural>
+  <PawnKindDefFishBlueblade.lifeStages.0.label>참치</PawnKindDefFishBlueblade.lifeStages.0.label>
+  <PawnKindDefFishBlueblade.lifeStages.0.labelPlural>참치</PawnKindDefFishBlueblade.lifeStages.0.labelPlural>
+  <PawnKindDefFishBlueblade.lifeStages.0.labelMale>수컷 참치</PawnKindDefFishBlueblade.lifeStages.0.labelMale>
+  <PawnKindDefFishBlueblade.lifeStages.0.labelMalePlural>수컷 참치</PawnKindDefFishBlueblade.lifeStages.0.labelMalePlural>
+  <PawnKindDefFishBlueblade.lifeStages.0.labelFemale>암컷 참치</PawnKindDefFishBlueblade.lifeStages.0.labelFemale>
+  <PawnKindDefFishBlueblade.lifeStages.0.labelFemalePlural>암컷 참치</PawnKindDefFishBlueblade.lifeStages.0.labelFemalePlural>
+  <PawnKindDefFishBlueblade.lifeStages.1.label>참치</PawnKindDefFishBlueblade.lifeStages.1.label>
+  <PawnKindDefFishBlueblade.lifeStages.1.labelPlural>참치</PawnKindDefFishBlueblade.lifeStages.1.labelPlural>
+  <PawnKindDefFishBlueblade.lifeStages.1.labelMale>수컷 참치</PawnKindDefFishBlueblade.lifeStages.1.labelMale>
+  <PawnKindDefFishBlueblade.lifeStages.1.labelMalePlural>수컷 참치</PawnKindDefFishBlueblade.lifeStages.1.labelMalePlural>
+  <PawnKindDefFishBlueblade.lifeStages.1.labelFemale>암컷 참치</PawnKindDefFishBlueblade.lifeStages.1.labelFemale>
+  <PawnKindDefFishBlueblade.lifeStages.1.labelFemalePlural>암컷 참치</PawnKindDefFishBlueblade.lifeStages.1.labelFemalePlural>
+  <PawnKindDefFishBlueblade.lifeStages.2.label>참치</PawnKindDefFishBlueblade.lifeStages.2.label>
+  <PawnKindDefFishBlueblade.lifeStages.2.labelPlural>참치</PawnKindDefFishBlueblade.lifeStages.2.labelPlural>
+  <PawnKindDefFishBlueblade.lifeStages.2.labelMale>수컷 참치</PawnKindDefFishBlueblade.lifeStages.2.labelMale>
+  <PawnKindDefFishBlueblade.lifeStages.2.labelMalePlural>수컷 참치</PawnKindDefFishBlueblade.lifeStages.2.labelMalePlural>
+  <PawnKindDefFishBlueblade.lifeStages.2.labelFemale>암컷 참치</PawnKindDefFishBlueblade.lifeStages.2.labelFemale>
+  <PawnKindDefFishBlueblade.lifeStages.2.labelFemalePlural>암컷 참치</PawnKindDefFishBlueblade.lifeStages.2.labelFemalePlural>
+  <PawnKindDefFishBlueblade.labelMale>수컷 참치</PawnKindDefFishBlueblade.labelMale>
+  <PawnKindDefFishBlueblade.labelMalePlural>수컷 참치</PawnKindDefFishBlueblade.labelMalePlural>
+  <PawnKindDefFishBlueblade.labelFemale>암컷 참치</PawnKindDefFishBlueblade.labelFemale>
+  <PawnKindDefFishBlueblade.labelFemalePlural>암컷 참치</PawnKindDefFishBlueblade.labelFemalePlural>
+  <PawnKindDefFishTailteeth.label>곰치</PawnKindDefFishTailteeth.label>
+  <PawnKindDefFishTailteeth.labelPlural>곰치</PawnKindDefFishTailteeth.labelPlural>
+  <PawnKindDefFishTailteeth.lifeStages.0.label>곰치</PawnKindDefFishTailteeth.lifeStages.0.label>
+  <PawnKindDefFishTailteeth.lifeStages.0.labelPlural>곰치</PawnKindDefFishTailteeth.lifeStages.0.labelPlural>
+  <PawnKindDefFishTailteeth.lifeStages.0.labelMale>수컷 곰치</PawnKindDefFishTailteeth.lifeStages.0.labelMale>
+  <PawnKindDefFishTailteeth.lifeStages.0.labelMalePlural>수컷 곰치</PawnKindDefFishTailteeth.lifeStages.0.labelMalePlural>
+  <PawnKindDefFishTailteeth.lifeStages.0.labelFemale>암컷 곰치</PawnKindDefFishTailteeth.lifeStages.0.labelFemale>
+  <PawnKindDefFishTailteeth.lifeStages.0.labelFemalePlural>암컷 곰치</PawnKindDefFishTailteeth.lifeStages.0.labelFemalePlural>
+  <PawnKindDefFishTailteeth.lifeStages.1.label>곰치</PawnKindDefFishTailteeth.lifeStages.1.label>
+  <PawnKindDefFishTailteeth.lifeStages.1.labelPlural>곰치</PawnKindDefFishTailteeth.lifeStages.1.labelPlural>
+  <PawnKindDefFishTailteeth.lifeStages.1.labelMale>수컷 곰치</PawnKindDefFishTailteeth.lifeStages.1.labelMale>
+  <PawnKindDefFishTailteeth.lifeStages.1.labelMalePlural>수컷 곰치</PawnKindDefFishTailteeth.lifeStages.1.labelMalePlural>
+  <PawnKindDefFishTailteeth.lifeStages.1.labelFemale>암컷 곰치</PawnKindDefFishTailteeth.lifeStages.1.labelFemale>
+  <PawnKindDefFishTailteeth.lifeStages.1.labelFemalePlural>암컷 곰치</PawnKindDefFishTailteeth.lifeStages.1.labelFemalePlural>
+  <PawnKindDefFishTailteeth.lifeStages.2.label>곰치</PawnKindDefFishTailteeth.lifeStages.2.label>
+  <PawnKindDefFishTailteeth.lifeStages.2.labelPlural>곰치</PawnKindDefFishTailteeth.lifeStages.2.labelPlural>
+  <PawnKindDefFishTailteeth.lifeStages.2.labelMale>수컷 곰치</PawnKindDefFishTailteeth.lifeStages.2.labelMale>
+  <PawnKindDefFishTailteeth.lifeStages.2.labelMalePlural>수컷 곰치</PawnKindDefFishTailteeth.lifeStages.2.labelMalePlural>
+  <PawnKindDefFishTailteeth.lifeStages.2.labelFemale>암컷 곰치</PawnKindDefFishTailteeth.lifeStages.2.labelFemale>
+  <PawnKindDefFishTailteeth.lifeStages.2.labelFemalePlural>암컷 곰치</PawnKindDefFishTailteeth.lifeStages.2.labelFemalePlural>
+  <PawnKindDefFishTailteeth.labelMale>수컷 곰치</PawnKindDefFishTailteeth.labelMale>
+  <PawnKindDefFishTailteeth.labelMalePlural>수컷 곰치</PawnKindDefFishTailteeth.labelMalePlural>
+  <PawnKindDefFishTailteeth.labelFemale>암컷 곰치</PawnKindDefFishTailteeth.labelFemale>
+  <PawnKindDefFishTailteeth.labelFemalePlural>암컷 곰치</PawnKindDefFishTailteeth.labelFemalePlural>
+
+  <!--759866027_190818_USCM - Colonial Marines Corps Faction-->
+  <USCM_Leader.label>지휘관</USCM_Leader.label>
+  <USCM_Leader.labelPlural>지휘관</USCM_Leader.labelPlural>
+  <USCMCorporal.label>상등병</USCMCorporal.label>
+  <USCMCorporal.labelPlural>상등병</USCMCorporal.labelPlural>
+  <USCMPrivateFirstClass.label>일등병</USCMPrivateFirstClass.label>
+  <USCMPrivateFirstClassArtillery.label>일등병</USCMPrivateFirstClassArtillery.label>
+  <USCMPrivateFirstClassBurner.label>일등병</USCMPrivateFirstClassBurner.label>
+  <USCMPrivateFirstClassSniper.label>일등병</USCMPrivateFirstClassSniper.label>
+  <USCMPrivateFirstClass.labelPlural>일등병</USCMPrivateFirstClass.labelPlural>
+  <USCMPrivateFirstClassArtillery.labelPlural>일등병</USCMPrivateFirstClassArtillery.labelPlural>
+  <USCMPrivateFirstClassBurner.labelPlural>일등병</USCMPrivateFirstClassBurner.labelPlural>
+  <USCMPrivateFirstClassSniper.labelPlural>일등병</USCMPrivateFirstClassSniper.labelPlural>
+  <USCMLanceCorporal.label>랜스 상등병</USCMLanceCorporal.label>
+  <USCMLanceCorporal.labelPlural>랜스 상등병</USCMLanceCorporal.labelPlural>
+  <USCM_Negociator.label>통신장교</USCM_Negociator.label>
+  <USCM_Negociator.labelPlural>통신장교</USCM_Negociator.labelPlural>
+  <USCMPrivate.label>이등병</USCMPrivate.label>
+  <USCMPrivate.labelPlural>이등병</USCMPrivate.labelPlural>
+  <USCMSergeant.label>병장</USCMSergeant.label>
+  <USCMSergeant.labelPlural>병장</USCMSergeant.labelPlural>
+
+  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
+  <ROM_Chthonian.label>크토니안</ROM_Chthonian.label>
+  <ROM_Chthonian.lifeStages.0.label>크토니안</ROM_Chthonian.lifeStages.0.label>
+  <ROM_Chthonian.lifeStages.0.labelPlural>크토니안</ROM_Chthonian.lifeStages.0.labelPlural>
+  <ROM_Chthonian.lifeStages.1.label>크토니안</ROM_Chthonian.lifeStages.1.label>
+  <ROM_Chthonian.lifeStages.1.labelPlural>크토니안</ROM_Chthonian.lifeStages.1.labelPlural>
+  <ROM_Chthonian.lifeStages.2.label>크토니안</ROM_Chthonian.lifeStages.2.label>
+  <ROM_Chthonian.lifeStages.2.labelPlural>크토니안</ROM_Chthonian.lifeStages.2.labelPlural>
+  <ROM_ChthonianLarva.label>크토니안 유충</ROM_ChthonianLarva.label>
+  <ROM_ChthonianLarva.lifeStages.0.label>크토니안 유충</ROM_ChthonianLarva.lifeStages.0.label>
+  <ROM_ChthonianLarva.labelPlural>크토니안 유충</ROM_ChthonianLarva.labelPlural>
+  <ROM_ChthonianLarva.lifeStages.0.labelPlural>크토니안 유충</ROM_ChthonianLarva.lifeStages.0.labelPlural>
+  <ROM_Chthonian.labelPlural>크토니안</ROM_Chthonian.labelPlural>
+  <ROM_DarkYoung.label>다크-영</ROM_DarkYoung.label>
+  <ROM_DarkYoung.lifeStages.0.label>다크-영</ROM_DarkYoung.lifeStages.0.label>
+  <ROM_DarkYoung.lifeStages.0.labelPlural>다크-영</ROM_DarkYoung.lifeStages.0.labelPlural>
+  <ROM_DarkYoung.lifeStages.1.label>다크-영</ROM_DarkYoung.lifeStages.1.label>
+  <ROM_DarkYoung.lifeStages.1.labelPlural>다크-영</ROM_DarkYoung.lifeStages.1.labelPlural>
+  <ROM_DarkYoung.lifeStages.2.label>다크-영</ROM_DarkYoung.lifeStages.2.label>
+  <ROM_DarkYoung.lifeStages.2.labelPlural>다크-영</ROM_DarkYoung.lifeStages.2.labelPlural>
+  <ROM_DarkYoung.lifeStages.3.label>다크-영</ROM_DarkYoung.lifeStages.3.label>
+  <ROM_DarkYoung.lifeStages.3.labelPlural>다크-영</ROM_DarkYoung.lifeStages.3.labelPlural>
+  <ROM_DarkYoung.labelPlural>다크-영</ROM_DarkYoung.labelPlural>
+  <ROM_DeepOne.label>딥 원</ROM_DeepOne.label>
+  <ROM_DeepOne.lifeStages.0.label>딥 원</ROM_DeepOne.lifeStages.0.label>
+  <ROM_DeepOne.lifeStages.0.labelPlural>딥 원</ROM_DeepOne.lifeStages.0.labelPlural>
+  <ROM_DeepOne.lifeStages.1.label>딥 원</ROM_DeepOne.lifeStages.1.label>
+  <ROM_DeepOne.lifeStages.1.labelPlural>딥 원</ROM_DeepOne.lifeStages.1.labelPlural>
+  <ROM_DeepOne.lifeStages.2.label>딥 원</ROM_DeepOne.lifeStages.2.label>
+  <ROM_DeepOne.lifeStages.2.labelPlural>딥 원</ROM_DeepOne.lifeStages.2.labelPlural>
+  <ROM_DeepOne.lifeStages.3.label>딥 원</ROM_DeepOne.lifeStages.3.label>
+  <ROM_DeepOne.lifeStages.3.labelPlural>딥 원</ROM_DeepOne.lifeStages.3.labelPlural>
+  <ROM_DeepOne.labelPlural>딥 원</ROM_DeepOne.labelPlural>
+  <ROM_Chthonian.lifeStages.0.labelFemale>암컷 크토니안</ROM_Chthonian.lifeStages.0.labelFemale>
+  <ROM_Chthonian.lifeStages.1.labelFemale>암컷 크토니안</ROM_Chthonian.lifeStages.1.labelFemale>
+  <ROM_Chthonian.lifeStages.2.labelFemale>암컷 크토니안</ROM_Chthonian.lifeStages.2.labelFemale>
+  <ROM_Chthonian.labelFemale>암컷 크토니안</ROM_Chthonian.labelFemale>
+  <ROM_ChthonianLarva.lifeStages.0.labelFemale>암컷 크토니안 유충</ROM_ChthonianLarva.lifeStages.0.labelFemale>
+  <ROM_ChthonianLarva.labelFemale>암컷 크토니안 유충</ROM_ChthonianLarva.labelFemale>
+  <ROM_ChthonianLarva.lifeStages.0.labelFemalePlural>암컷 크토니안 유충</ROM_ChthonianLarva.lifeStages.0.labelFemalePlural>
+  <ROM_ChthonianLarva.labelFemalePlural>암컷 크토니안 유충</ROM_ChthonianLarva.labelFemalePlural>
+  <ROM_Chthonian.lifeStages.0.labelFemalePlural>암컷 크토니안</ROM_Chthonian.lifeStages.0.labelFemalePlural>
+  <ROM_Chthonian.lifeStages.1.labelFemalePlural>암컷 크토니안</ROM_Chthonian.lifeStages.1.labelFemalePlural>
+  <ROM_Chthonian.lifeStages.2.labelFemalePlural>암컷 크토니안</ROM_Chthonian.lifeStages.2.labelFemalePlural>
+  <ROM_Chthonian.labelFemalePlural>암컷 크토니안</ROM_Chthonian.labelFemalePlural>
+  <ROM_DarkYoung.lifeStages.0.labelFemale>암컷 다크-영</ROM_DarkYoung.lifeStages.0.labelFemale>
+  <ROM_DarkYoung.lifeStages.1.labelFemale>암컷 다크-영</ROM_DarkYoung.lifeStages.1.labelFemale>
+  <ROM_DarkYoung.lifeStages.2.labelFemale>암컷 다크-영</ROM_DarkYoung.lifeStages.2.labelFemale>
+  <ROM_DarkYoung.lifeStages.3.labelFemale>암컷 다크-영</ROM_DarkYoung.lifeStages.3.labelFemale>
+  <ROM_DarkYoung.labelFemale>암컷 다크-영</ROM_DarkYoung.labelFemale>
+  <ROM_DarkYoung.lifeStages.0.labelFemalePlural>암컷 다크-영</ROM_DarkYoung.lifeStages.0.labelFemalePlural>
+  <ROM_DarkYoung.lifeStages.1.labelFemalePlural>암컷 다크-영</ROM_DarkYoung.lifeStages.1.labelFemalePlural>
+  <ROM_DarkYoung.lifeStages.2.labelFemalePlural>암컷 다크-영</ROM_DarkYoung.lifeStages.2.labelFemalePlural>
+  <ROM_DarkYoung.lifeStages.3.labelFemalePlural>암컷 다크-영</ROM_DarkYoung.lifeStages.3.labelFemalePlural>
+  <ROM_DarkYoung.labelFemalePlural>암컷 다크-영</ROM_DarkYoung.labelFemalePlural>
+  <ROM_DeepOne.lifeStages.0.labelFemale>딥 원</ROM_DeepOne.lifeStages.0.labelFemale>
+  <ROM_DeepOne.lifeStages.1.labelFemale>딥 원</ROM_DeepOne.lifeStages.1.labelFemale>
+  <ROM_DeepOne.lifeStages.2.labelFemale>딥 원</ROM_DeepOne.lifeStages.2.labelFemale>
+  <ROM_DeepOne.lifeStages.3.labelFemale>딥 원</ROM_DeepOne.lifeStages.3.labelFemale>
+  <ROM_DeepOne.labelFemale>딥 원</ROM_DeepOne.labelFemale>
+  <ROM_DeepOne.lifeStages.0.labelFemalePlural>딥 원</ROM_DeepOne.lifeStages.0.labelFemalePlural>
+  <ROM_DeepOne.lifeStages.1.labelFemalePlural>딥 원</ROM_DeepOne.lifeStages.1.labelFemalePlural>
+  <ROM_DeepOne.lifeStages.2.labelFemalePlural>딥 원</ROM_DeepOne.lifeStages.2.labelFemalePlural>
+  <ROM_DeepOne.lifeStages.3.labelFemalePlural>딥 원</ROM_DeepOne.lifeStages.3.labelFemalePlural>
+  <ROM_DeepOne.labelFemalePlural>딥 원</ROM_DeepOne.labelFemalePlural>
+  <ROM_DeepOneGreat.lifeStages.0.labelFemale>암컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.0.labelFemale>
+  <ROM_DeepOneGreat.lifeStages.1.labelFemale>암컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.1.labelFemale>
+  <ROM_DeepOneGreat.lifeStages.2.labelFemale>암컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.2.labelFemale>
+  <ROM_DeepOneGreat.lifeStages.3.labelFemale>암컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.3.labelFemale>
+  <ROM_DeepOneGreat.labelFemale>암컷 그레이트 딥 원</ROM_DeepOneGreat.labelFemale>
+  <ROM_DeepOneGreat.lifeStages.0.labelFemalePlural>암컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.0.labelFemalePlural>
+  <ROM_DeepOneGreat.lifeStages.1.labelFemalePlural>암컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.1.labelFemalePlural>
+  <ROM_DeepOneGreat.lifeStages.2.labelFemalePlural>암컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.2.labelFemalePlural>
+  <ROM_DeepOneGreat.lifeStages.3.labelFemalePlural>암컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.3.labelFemalePlural>
+  <ROM_DeepOneGreat.labelFemalePlural>암컷 그레이트 딥 원</ROM_DeepOneGreat.labelFemalePlural>
+  <ROM_StarSpawnOfCthulhu.lifeStages.0.labelFemale>암컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.0.labelFemale>
+  <ROM_StarSpawnOfCthulhu.lifeStages.1.labelFemale>암컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.1.labelFemale>
+  <ROM_StarSpawnOfCthulhu.lifeStages.2.labelFemale>암컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.2.labelFemale>
+  <ROM_StarSpawnOfCthulhu.lifeStages.3.labelFemale>암컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.3.labelFemale>
+  <ROM_StarSpawnOfCthulhu.labelFemale>암컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.labelFemale>
+  <ROM_StarSpawnOfCthulhu.lifeStages.0.labelFemalePlural>암컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.0.labelFemalePlural>
+  <ROM_StarSpawnOfCthulhu.lifeStages.1.labelFemalePlural>암컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.1.labelFemalePlural>
+  <ROM_StarSpawnOfCthulhu.lifeStages.2.labelFemalePlural>암컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.2.labelFemalePlural>
+  <ROM_StarSpawnOfCthulhu.lifeStages.3.labelFemalePlural>암컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.3.labelFemalePlural>
+  <ROM_StarSpawnOfCthulhu.labelFemalePlural>암컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.labelFemalePlural>
+  <ROM_DeepOneGreat.label>그레이트 딥 원</ROM_DeepOneGreat.label>
+  <ROM_DeepOneGreat.lifeStages.0.label>그레이트 딥 원</ROM_DeepOneGreat.lifeStages.0.label>
+  <ROM_DeepOneGreat.lifeStages.0.labelPlural>그레이트 딥 원</ROM_DeepOneGreat.lifeStages.0.labelPlural>
+  <ROM_DeepOneGreat.lifeStages.1.label>그레이트 딥 원</ROM_DeepOneGreat.lifeStages.1.label>
+  <ROM_DeepOneGreat.lifeStages.1.labelPlural>그레이트 딥 원</ROM_DeepOneGreat.lifeStages.1.labelPlural>
+  <ROM_DeepOneGreat.lifeStages.2.label>그레이트 딥 원</ROM_DeepOneGreat.lifeStages.2.label>
+  <ROM_DeepOneGreat.lifeStages.2.labelPlural>그레이트 딥 원</ROM_DeepOneGreat.lifeStages.2.labelPlural>
+  <ROM_DeepOneGreat.lifeStages.3.label>그레이트 딥 원</ROM_DeepOneGreat.lifeStages.3.label>
+  <ROM_DeepOneGreat.lifeStages.3.labelPlural>그레이트 딥 원</ROM_DeepOneGreat.lifeStages.3.labelPlural>
+  <ROM_DeepOneGreat.labelPlural>그레이트 딥 원</ROM_DeepOneGreat.labelPlural>
+  <ROM_Chthonian.lifeStages.0.labelMale>수컷 크토니안</ROM_Chthonian.lifeStages.0.labelMale>
+  <ROM_Chthonian.lifeStages.1.labelMale>수컷 크토니안</ROM_Chthonian.lifeStages.1.labelMale>
+  <ROM_Chthonian.lifeStages.2.labelMale>수컷 크토니안</ROM_Chthonian.lifeStages.2.labelMale>
+  <ROM_Chthonian.labelMale>수컷 크토니안</ROM_Chthonian.labelMale>
+  <ROM_ChthonianLarva.lifeStages.0.labelMale>수컷 크토니안 유충</ROM_ChthonianLarva.lifeStages.0.labelMale>
+  <ROM_ChthonianLarva.labelMale>수컷 크토니안 유충</ROM_ChthonianLarva.labelMale>
+  <ROM_ChthonianLarva.lifeStages.0.labelMalePlural>수컷 크토니안 유충</ROM_ChthonianLarva.lifeStages.0.labelMalePlural>
+  <ROM_ChthonianLarva.labelMalePlural>수컷 크토니안 유충</ROM_ChthonianLarva.labelMalePlural>
+  <ROM_Chthonian.lifeStages.0.labelMalePlural>수컷 크토니안</ROM_Chthonian.lifeStages.0.labelMalePlural>
+  <ROM_Chthonian.lifeStages.1.labelMalePlural>수컷 크토니안</ROM_Chthonian.lifeStages.1.labelMalePlural>
+  <ROM_Chthonian.lifeStages.2.labelMalePlural>수컷 크토니안</ROM_Chthonian.lifeStages.2.labelMalePlural>
+  <ROM_Chthonian.labelMalePlural>수컷 크토니안</ROM_Chthonian.labelMalePlural>
+  <ROM_DarkYoung.lifeStages.0.labelMale>수컷 다크-영</ROM_DarkYoung.lifeStages.0.labelMale>
+  <ROM_DarkYoung.lifeStages.1.labelMale>수컷 다크-영</ROM_DarkYoung.lifeStages.1.labelMale>
+  <ROM_DarkYoung.lifeStages.2.labelMale>수컷 다크-영</ROM_DarkYoung.lifeStages.2.labelMale>
+  <ROM_DarkYoung.lifeStages.3.labelMale>수컷 다크-영</ROM_DarkYoung.lifeStages.3.labelMale>
+  <ROM_DarkYoung.labelMale>수컷 다크-영</ROM_DarkYoung.labelMale>
+  <ROM_DarkYoung.lifeStages.0.labelMalePlural>수컷 다크-영</ROM_DarkYoung.lifeStages.0.labelMalePlural>
+  <ROM_DarkYoung.lifeStages.1.labelMalePlural>수컷 다크-영</ROM_DarkYoung.lifeStages.1.labelMalePlural>
+  <ROM_DarkYoung.lifeStages.2.labelMalePlural>수컷 다크-영</ROM_DarkYoung.lifeStages.2.labelMalePlural>
+  <ROM_DarkYoung.lifeStages.3.labelMalePlural>수컷 다크-영</ROM_DarkYoung.lifeStages.3.labelMalePlural>
+  <ROM_DarkYoung.labelMalePlural>수컷 다크-영</ROM_DarkYoung.labelMalePlural>
+  <ROM_DeepOne.lifeStages.0.labelMale>딥 원</ROM_DeepOne.lifeStages.0.labelMale>
+  <ROM_DeepOne.lifeStages.1.labelMale>딥 원</ROM_DeepOne.lifeStages.1.labelMale>
+  <ROM_DeepOne.lifeStages.2.labelMale>딥 원</ROM_DeepOne.lifeStages.2.labelMale>
+  <ROM_DeepOne.lifeStages.3.labelMale>딥 원</ROM_DeepOne.lifeStages.3.labelMale>
+  <ROM_DeepOne.labelMale>딥 원</ROM_DeepOne.labelMale>
+  <ROM_DeepOne.lifeStages.0.labelMalePlural>딥 원</ROM_DeepOne.lifeStages.0.labelMalePlural>
+  <ROM_DeepOne.lifeStages.1.labelMalePlural>딥 원</ROM_DeepOne.lifeStages.1.labelMalePlural>
+  <ROM_DeepOne.lifeStages.2.labelMalePlural>딥 원</ROM_DeepOne.lifeStages.2.labelMalePlural>
+  <ROM_DeepOne.lifeStages.3.labelMalePlural>딥 원</ROM_DeepOne.lifeStages.3.labelMalePlural>
+  <ROM_DeepOne.labelMalePlural>딥 원</ROM_DeepOne.labelMalePlural>
+  <ROM_DeepOneGreat.lifeStages.0.labelMale>수컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.0.labelMale>
+  <ROM_DeepOneGreat.lifeStages.1.labelMale>수컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.1.labelMale>
+  <ROM_DeepOneGreat.lifeStages.2.labelMale>수컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.2.labelMale>
+  <ROM_DeepOneGreat.lifeStages.3.labelMale>수컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.3.labelMale>
+  <ROM_DeepOneGreat.labelMale>수컷 그레이트 딥 원</ROM_DeepOneGreat.labelMale>
+  <ROM_DeepOneGreat.lifeStages.0.labelMalePlural>수컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.0.labelMalePlural>
+  <ROM_DeepOneGreat.lifeStages.1.labelMalePlural>수컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.1.labelMalePlural>
+  <ROM_DeepOneGreat.lifeStages.2.labelMalePlural>수컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.2.labelMalePlural>
+  <ROM_DeepOneGreat.lifeStages.3.labelMalePlural>수컷 그레이트 딥 원</ROM_DeepOneGreat.lifeStages.3.labelMalePlural>
+  <ROM_DeepOneGreat.labelMalePlural>수컷 그레이트 딥 원</ROM_DeepOneGreat.labelMalePlural>
+  <ROM_StarSpawnOfCthulhu.lifeStages.0.labelMale>수컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.0.labelMale>
+  <ROM_StarSpawnOfCthulhu.lifeStages.1.labelMale>수컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.1.labelMale>
+  <ROM_StarSpawnOfCthulhu.lifeStages.2.labelMale>수컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.2.labelMale>
+  <ROM_StarSpawnOfCthulhu.lifeStages.3.labelMale>수컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.3.labelMale>
+  <ROM_StarSpawnOfCthulhu.labelMale>수컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.labelMale>
+  <ROM_StarSpawnOfCthulhu.lifeStages.0.labelMalePlural>수컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.0.labelMalePlural>
+  <ROM_StarSpawnOfCthulhu.lifeStages.1.labelMalePlural>수컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.1.labelMalePlural>
+  <ROM_StarSpawnOfCthulhu.lifeStages.2.labelMalePlural>수컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.2.labelMalePlural>
+  <ROM_StarSpawnOfCthulhu.lifeStages.3.labelMalePlural>수컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.3.labelMalePlural>
+  <ROM_StarSpawnOfCthulhu.labelMalePlural>수컷 크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.labelMalePlural>
+  <ROM_MiGoCaster.label>미고 캐스터</ROM_MiGoCaster.label>
+  <ROM_MiGoCaster.lifeStages.0.label>미고 캐스터</ROM_MiGoCaster.lifeStages.0.label>
+  <ROM_MiGoCaster.lifeStages.0.labelPlural>미고 캐스터</ROM_MiGoCaster.lifeStages.0.labelPlural>
+  <ROM_MiGoCaster.lifeStages.1.label>미고 캐스터</ROM_MiGoCaster.lifeStages.1.label>
+  <ROM_MiGoCaster.lifeStages.1.labelPlural>미고 캐스터</ROM_MiGoCaster.lifeStages.1.labelPlural>
+  <ROM_MiGoCaster.lifeStages.2.label>미고 캐스터</ROM_MiGoCaster.lifeStages.2.label>
+  <ROM_MiGoCaster.lifeStages.2.labelPlural>미고 캐스터</ROM_MiGoCaster.lifeStages.2.labelPlural>
+  <ROM_MiGoCaster.lifeStages.3.label>미고 캐스터</ROM_MiGoCaster.lifeStages.3.label>
+  <ROM_MiGoCaster.lifeStages.3.labelPlural>미고 캐스터</ROM_MiGoCaster.lifeStages.3.labelPlural>
+  <ROM_MiGoCaster.labelPlural>미고 캐스터</ROM_MiGoCaster.labelPlural>
+  <ROM_MiGo.label>미고 드론</ROM_MiGo.label>
+  <ROM_MiGo.lifeStages.0.label>미고 드론</ROM_MiGo.lifeStages.0.label>
+  <ROM_MiGo.lifeStages.0.labelPlural>미고 드론</ROM_MiGo.lifeStages.0.labelPlural>
+  <ROM_MiGo.lifeStages.1.label>미고 드론</ROM_MiGo.lifeStages.1.label>
+  <ROM_MiGo.lifeStages.1.labelPlural>미고 드론</ROM_MiGo.lifeStages.1.labelPlural>
+  <ROM_MiGo.lifeStages.2.label>미고 드론</ROM_MiGo.lifeStages.2.label>
+  <ROM_MiGo.lifeStages.2.labelPlural>미고 드론</ROM_MiGo.lifeStages.2.labelPlural>
+  <ROM_MiGo.lifeStages.3.label>미고 드론</ROM_MiGo.lifeStages.3.label>
+  <ROM_MiGo.lifeStages.3.labelPlural>미고 드론</ROM_MiGo.lifeStages.3.labelPlural>
+  <ROM_MiGo.labelPlural>미고 드론</ROM_MiGo.labelPlural>
+  <ROM_Shoggoth.label>쇼고스</ROM_Shoggoth.label>
+  <ROM_Shoggoth.lifeStages.0.label>쇼고스</ROM_Shoggoth.lifeStages.0.label>
+  <ROM_Shoggoth.lifeStages.0.labelPlural>쇼고스</ROM_Shoggoth.lifeStages.0.labelPlural>
+  <ROM_Shoggoth.lifeStages.1.label>쇼고스</ROM_Shoggoth.lifeStages.1.label>
+  <ROM_Shoggoth.lifeStages.1.labelPlural>쇼고스</ROM_Shoggoth.lifeStages.1.labelPlural>
+  <ROM_Shoggoth.lifeStages.2.label>쇼고스</ROM_Shoggoth.lifeStages.2.label>
+  <ROM_Shoggoth.lifeStages.2.labelPlural>쇼고스</ROM_Shoggoth.lifeStages.2.labelPlural>
+  <ROM_Shoggoth.lifeStages.3.label>쇼고스</ROM_Shoggoth.lifeStages.3.label>
+  <ROM_Shoggoth.lifeStages.3.labelPlural>쇼고스</ROM_Shoggoth.lifeStages.3.labelPlural>
+  <ROM_ShoggothColossal.label>거대한 쇼고스</ROM_ShoggothColossal.label>
+  <ROM_ShoggothColossal.lifeStages.0.label>거대한 쇼고스</ROM_ShoggothColossal.lifeStages.0.label>
+  <ROM_ShoggothColossal.lifeStages.0.labelPlural>거대한 쇼고스</ROM_ShoggothColossal.lifeStages.0.labelPlural>
+  <ROM_ShoggothColossal.lifeStages.1.label>거대한 쇼고스</ROM_ShoggothColossal.lifeStages.1.label>
+  <ROM_ShoggothColossal.lifeStages.1.labelPlural>거대한 쇼고스</ROM_ShoggothColossal.lifeStages.1.labelPlural>
+  <ROM_ShoggothColossal.lifeStages.2.label>거대한 쇼고스</ROM_ShoggothColossal.lifeStages.2.label>
+  <ROM_ShoggothColossal.lifeStages.2.labelPlural>거대한 쇼고스</ROM_ShoggothColossal.lifeStages.2.labelPlural>
+  <ROM_ShoggothColossal.lifeStages.3.label>거대한 쇼고스</ROM_ShoggothColossal.lifeStages.3.label>
+  <ROM_ShoggothColossal.lifeStages.3.labelPlural>거대한 쇼고스</ROM_ShoggothColossal.lifeStages.3.labelPlural>
+  <ROM_ShoggothColossal.labelPlural>거대한 쇼고스</ROM_ShoggothColossal.labelPlural>
+  <ROM_ShoggothTiny.label>작은 쇼고스</ROM_ShoggothTiny.label>
+  <ROM_ShoggothTiny.lifeStages.0.label>작은 쇼고스</ROM_ShoggothTiny.lifeStages.0.label>
+  <ROM_ShoggothTiny.lifeStages.0.labelPlural>작은 쇼고스</ROM_ShoggothTiny.lifeStages.0.labelPlural>
+  <ROM_ShoggothTiny.lifeStages.1.label>작은 쇼고스</ROM_ShoggothTiny.lifeStages.1.label>
+  <ROM_ShoggothTiny.lifeStages.1.labelPlural>작은 쇼고스</ROM_ShoggothTiny.lifeStages.1.labelPlural>
+  <ROM_ShoggothTiny.lifeStages.2.label>작은 쇼고스</ROM_ShoggothTiny.lifeStages.2.label>
+  <ROM_ShoggothTiny.lifeStages.2.labelPlural>작은 쇼고스</ROM_ShoggothTiny.lifeStages.2.labelPlural>
+  <ROM_ShoggothTiny.lifeStages.3.label>작은 쇼고스</ROM_ShoggothTiny.lifeStages.3.label>
+  <ROM_ShoggothTiny.lifeStages.3.labelPlural>작은 쇼고스</ROM_ShoggothTiny.lifeStages.3.labelPlural>
+  <ROM_ShoggothTiny.labelPlural>작은 쇼고스</ROM_ShoggothTiny.labelPlural>
+  <ROM_Shoggoth.labelPlural>쇼고스</ROM_Shoggoth.labelPlural>
+  <ROM_StarVampire.label>스타-뱀파이어</ROM_StarVampire.label>
+  <ROM_StarVampire.lifeStages.0.label>스타-뱀파이어</ROM_StarVampire.lifeStages.0.label>
+  <ROM_StarVampire.lifeStages.0.labelPlural>스타-뱀파이어</ROM_StarVampire.lifeStages.0.labelPlural>
+  <ROM_StarVampire.lifeStages.1.label>스타-뱀파이어</ROM_StarVampire.lifeStages.1.label>
+  <ROM_StarVampire.lifeStages.1.labelPlural>스타-뱀파이어</ROM_StarVampire.lifeStages.1.labelPlural>
+  <ROM_StarVampire.lifeStages.2.label>스타-뱀파이어</ROM_StarVampire.lifeStages.2.label>
+  <ROM_StarVampire.lifeStages.2.labelPlural>스타-뱀파이어</ROM_StarVampire.lifeStages.2.labelPlural>
+  <ROM_StarVampire.lifeStages.3.label>스타-뱀파이어</ROM_StarVampire.lifeStages.3.label>
+  <ROM_StarVampire.lifeStages.3.labelPlural>스타-뱀파이어</ROM_StarVampire.lifeStages.3.labelPlural>
+  <ROM_StarVampireAlbino.label>스타-뱀파이어</ROM_StarVampireAlbino.label>
+  <ROM_StarVampireAlbino.lifeStages.0.label>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.0.label>
+  <ROM_StarVampireAlbino.lifeStages.0.labelPlural>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.0.labelPlural>
+  <ROM_StarVampireAlbino.lifeStages.1.label>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.1.label>
+  <ROM_StarVampireAlbino.lifeStages.1.labelPlural>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.1.labelPlural>
+  <ROM_StarVampireAlbino.lifeStages.2.label>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.2.label>
+  <ROM_StarVampireAlbino.lifeStages.2.labelPlural>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.2.labelPlural>
+  <ROM_StarVampireAlbino.lifeStages.3.label>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.3.label>
+  <ROM_StarVampireAlbino.lifeStages.3.labelPlural>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.3.labelPlural>
+  <ROM_StarVampireAlbino.lifeStages.4.label>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.4.label>
+  <ROM_StarVampireAlbino.lifeStages.4.labelPlural>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.4.labelPlural>
+  <ROM_StarVampireAlbino.lifeStages.5.label>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.5.label>
+  <ROM_StarVampireAlbino.lifeStages.5.labelPlural>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.5.labelPlural>
+  <ROM_StarVampireAlbino.lifeStages.6.label>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.6.label>
+  <ROM_StarVampireAlbino.lifeStages.6.labelPlural>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.6.labelPlural>
+  <ROM_StarVampireAlbino.lifeStages.7.label>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.7.label>
+  <ROM_StarVampireAlbino.lifeStages.7.labelPlural>스타-뱀파이어</ROM_StarVampireAlbino.lifeStages.7.labelPlural>
+  <ROM_StarVampireAbberation.label>스타-뱀파이어</ROM_StarVampireAbberation.label>
+  <ROM_StarVampireAbberation.lifeStages.0.label>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.0.label>
+  <ROM_StarVampireAbberation.lifeStages.0.labelPlural>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.0.labelPlural>
+  <ROM_StarVampireAbberation.lifeStages.1.label>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.1.label>
+  <ROM_StarVampireAbberation.lifeStages.1.labelPlural>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.1.labelPlural>
+  <ROM_StarVampireAbberation.lifeStages.2.label>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.2.label>
+  <ROM_StarVampireAbberation.lifeStages.2.labelPlural>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.2.labelPlural>
+  <ROM_StarVampireAbberation.lifeStages.3.label>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.3.label>
+  <ROM_StarVampireAbberation.lifeStages.3.labelPlural>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.3.labelPlural>
+  <ROM_StarVampireAbberation.lifeStages.4.label>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.4.label>
+  <ROM_StarVampireAbberation.lifeStages.4.labelPlural>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.4.labelPlural>
+  <ROM_StarVampireAbberation.lifeStages.5.label>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.5.label>
+  <ROM_StarVampireAbberation.lifeStages.5.labelPlural>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.5.labelPlural>
+  <ROM_StarVampireAbberation.lifeStages.6.label>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.6.label>
+  <ROM_StarVampireAbberation.lifeStages.6.labelPlural>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.6.labelPlural>
+  <ROM_StarVampireAbberation.lifeStages.7.label>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.7.label>
+  <ROM_StarVampireAbberation.lifeStages.7.labelPlural>스타-뱀파이어</ROM_StarVampireAbberation.lifeStages.7.labelPlural>
+  <ROM_StarVampireNight.label>스타-뱀파이어</ROM_StarVampireNight.label>
+  <ROM_StarVampireNight.lifeStages.0.label>스타-뱀파이어</ROM_StarVampireNight.lifeStages.0.label>
+  <ROM_StarVampireNight.lifeStages.0.labelPlural>스타-뱀파이어</ROM_StarVampireNight.lifeStages.0.labelPlural>
+  <ROM_StarVampireNight.lifeStages.1.label>스타-뱀파이어</ROM_StarVampireNight.lifeStages.1.label>
+  <ROM_StarVampireNight.lifeStages.1.labelPlural>스타-뱀파이어</ROM_StarVampireNight.lifeStages.1.labelPlural>
+  <ROM_StarVampireNight.lifeStages.2.label>스타-뱀파이어</ROM_StarVampireNight.lifeStages.2.label>
+  <ROM_StarVampireNight.lifeStages.2.labelPlural>스타-뱀파이어</ROM_StarVampireNight.lifeStages.2.labelPlural>
+  <ROM_StarVampireNight.lifeStages.3.label>스타-뱀파이어</ROM_StarVampireNight.lifeStages.3.label>
+  <ROM_StarVampireNight.lifeStages.3.labelPlural>스타-뱀파이어</ROM_StarVampireNight.lifeStages.3.labelPlural>
+  <ROM_StarVampireNight.lifeStages.4.label>스타-뱀파이어</ROM_StarVampireNight.lifeStages.4.label>
+  <ROM_StarVampireNight.lifeStages.4.labelPlural>스타-뱀파이어</ROM_StarVampireNight.lifeStages.4.labelPlural>
+  <ROM_StarVampireNight.lifeStages.5.label>스타-뱀파이어</ROM_StarVampireNight.lifeStages.5.label>
+  <ROM_StarVampireNight.lifeStages.5.labelPlural>스타-뱀파이어</ROM_StarVampireNight.lifeStages.5.labelPlural>
+  <ROM_StarVampireNight.lifeStages.6.label>스타-뱀파이어</ROM_StarVampireNight.lifeStages.6.label>
+  <ROM_StarVampireNight.lifeStages.6.labelPlural>스타-뱀파이어</ROM_StarVampireNight.lifeStages.6.labelPlural>
+  <ROM_StarVampireNight.lifeStages.7.label>스타-뱀파이어</ROM_StarVampireNight.lifeStages.7.label>
+  <ROM_StarVampireNight.lifeStages.7.labelPlural>스타-뱀파이어</ROM_StarVampireNight.lifeStages.7.labelPlural>
+  <ROM_StarVampire.labelPlural>스타-뱀파이어</ROM_StarVampire.labelPlural>
+  <ROM_StarVampireAlbino.labelPlural>스타-뱀파이어</ROM_StarVampireAlbino.labelPlural>
+  <ROM_StarVampireAbberation.labelPlural>스타-뱀파이어</ROM_StarVampireAbberation.labelPlural>
+  <ROM_StarVampireNight.labelPlural>스타-뱀파이어</ROM_StarVampireNight.labelPlural>
+  <ROM_StarSpawnOfCthulhu.label>크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.label>
+  <ROM_StarSpawnOfCthulhu.lifeStages.0.label>크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.0.label>
+  <ROM_StarSpawnOfCthulhu.lifeStages.0.labelPlural>크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.0.labelPlural>
+  <ROM_StarSpawnOfCthulhu.lifeStages.1.label>크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.1.label>
+  <ROM_StarSpawnOfCthulhu.lifeStages.1.labelPlural>크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.1.labelPlural>
+  <ROM_StarSpawnOfCthulhu.lifeStages.2.label>크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.2.label>
+  <ROM_StarSpawnOfCthulhu.lifeStages.2.labelPlural>크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.2.labelPlural>
+  <ROM_StarSpawnOfCthulhu.lifeStages.3.label>크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.3.label>
+  <ROM_StarSpawnOfCthulhu.lifeStages.3.labelPlural>크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.lifeStages.3.labelPlural>
+  <ROM_StarSpawnOfCthulhu.labelPlural>크툴루의 스타-스폰</ROM_StarSpawnOfCthulhu.labelPlural>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <Cults_BlackGoat.label>검은 염소</Cults_BlackGoat.label>
+  <Cults_BlackGoat.lifeStages.0.label>검은 염소</Cults_BlackGoat.lifeStages.0.label>
+  <Cults_BlackGoat.lifeStages.0.labelPlural>검은 염소</Cults_BlackGoat.lifeStages.0.labelPlural>
+  <Cults_BlackGoat.lifeStages.1.label>검은 염소</Cults_BlackGoat.lifeStages.1.label>
+  <Cults_BlackGoat.lifeStages.1.labelPlural>검은 염소</Cults_BlackGoat.lifeStages.1.labelPlural>
+  <Cults_BlackGoat.lifeStages.2.label>검은 염소</Cults_BlackGoat.lifeStages.2.label>
+  <Cults_BlackGoat.lifeStages.2.labelPlural>검은 염소</Cults_BlackGoat.lifeStages.2.labelPlural>
+  <Cults_BlackGoat.labelPlural>검은 염소</Cults_BlackGoat.labelPlural>
+  <Cults_Byakhee.label>비야키</Cults_Byakhee.label>
+  <Cults_Byakhee.lifeStages.0.label>비야키</Cults_Byakhee.lifeStages.0.label>
+  <Cults_Byakhee.lifeStages.0.labelPlural>비야키</Cults_Byakhee.lifeStages.0.labelPlural>
+  <Cults_Byakhee.lifeStages.1.label>비야키</Cults_Byakhee.lifeStages.1.label>
+  <Cults_Byakhee.lifeStages.1.labelPlural>비야키</Cults_Byakhee.lifeStages.1.labelPlural>
+  <Cults_Byakhee.lifeStages.2.label>비야키</Cults_Byakhee.lifeStages.2.label>
+  <Cults_Byakhee.lifeStages.2.labelPlural>비야키</Cults_Byakhee.lifeStages.2.labelPlural>
+  <Cults_Byakhee.lifeStages.3.label>비야키</Cults_Byakhee.lifeStages.3.label>
+  <Cults_Byakhee.lifeStages.3.labelPlural>비야키</Cults_Byakhee.lifeStages.3.labelPlural>
+  <Cults_Byakhee.labelPlural>비야키</Cults_Byakhee.labelPlural>
+  <Cults_BlackGoat.lifeStages.0.labelFemale>암컷 검은 염소</Cults_BlackGoat.lifeStages.0.labelFemale>
+  <Cults_BlackGoat.lifeStages.1.labelFemale>암컷 검은 염소</Cults_BlackGoat.lifeStages.1.labelFemale>
+  <Cults_BlackGoat.lifeStages.2.labelFemale>암컷 검은 염소</Cults_BlackGoat.lifeStages.2.labelFemale>
+  <Cults_BlackGoat.labelFemale>암컷 검은 염소</Cults_BlackGoat.labelFemale>
+  <Cults_BlackGoat.lifeStages.0.labelFemalePlural>암컷 검은 염소</Cults_BlackGoat.lifeStages.0.labelFemalePlural>
+  <Cults_BlackGoat.lifeStages.1.labelFemalePlural>암컷 검은 염소</Cults_BlackGoat.lifeStages.1.labelFemalePlural>
+  <Cults_BlackGoat.lifeStages.2.labelFemalePlural>암컷 검은 염소</Cults_BlackGoat.lifeStages.2.labelFemalePlural>
+  <Cults_BlackGoat.labelFemalePlural>암컷 검은 염소</Cults_BlackGoat.labelFemalePlural>
+  <Cults_Byakhee.lifeStages.0.labelFemale>암컷 비야키</Cults_Byakhee.lifeStages.0.labelFemale>
+  <Cults_Byakhee.lifeStages.1.labelFemale>암컷 비야키</Cults_Byakhee.lifeStages.1.labelFemale>
+  <Cults_Byakhee.lifeStages.2.labelFemale>암컷 비야키</Cults_Byakhee.lifeStages.2.labelFemale>
+  <Cults_Byakhee.lifeStages.3.labelFemale>암컷 비야키</Cults_Byakhee.lifeStages.3.labelFemale>
+  <Cults_Byakhee.labelFemale>암컷 비야키</Cults_Byakhee.labelFemale>
+  <Cults_Byakhee.lifeStages.0.labelFemalePlural>암컷 비야키</Cults_Byakhee.lifeStages.0.labelFemalePlural>
+  <Cults_Byakhee.lifeStages.1.labelFemalePlural>암컷 비야키</Cults_Byakhee.lifeStages.1.labelFemalePlural>
+  <Cults_Byakhee.lifeStages.2.labelFemalePlural>암컷 비야키</Cults_Byakhee.lifeStages.2.labelFemalePlural>
+  <Cults_Byakhee.lifeStages.3.labelFemalePlural>암컷 비야키</Cults_Byakhee.lifeStages.3.labelFemalePlural>
+  <Cults_Byakhee.labelFemalePlural>암컷 비야키</Cults_Byakhee.labelFemalePlural>
+  <Cults_FormlessSpawn.lifeStages.0.labelFemale>암컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.0.labelFemale>
+  <Cults_FormlessSpawn.lifeStages.1.labelFemale>암컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.1.labelFemale>
+  <Cults_FormlessSpawn.lifeStages.2.labelFemale>암컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.2.labelFemale>
+  <Cults_FormlessSpawn.lifeStages.3.labelFemale>암컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.3.labelFemale>
+  <Cults_FormlessSpawn.labelFemale>암컷 무형의 낙태아</Cults_FormlessSpawn.labelFemale>
+  <Cults_FormlessSpawn.lifeStages.0.labelFemalePlural>암컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.0.labelFemalePlural>
+  <Cults_FormlessSpawn.lifeStages.1.labelFemalePlural>암컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.1.labelFemalePlural>
+  <Cults_FormlessSpawn.lifeStages.2.labelFemalePlural>암컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.2.labelFemalePlural>
+  <Cults_FormlessSpawn.lifeStages.3.labelFemalePlural>암컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.3.labelFemalePlural>
+  <Cults_FormlessSpawn.labelFemalePlural>암컷 무형의 낙태아</Cults_FormlessSpawn.labelFemalePlural>
+  <GuardianBast.lifeStages.0.labelFemale>암컷 수호자</GuardianBast.lifeStages.0.labelFemale>
+  <GuardianBast.lifeStages.1.labelFemale>암컷 수호자</GuardianBast.lifeStages.1.labelFemale>
+  <GuardianBast.lifeStages.2.labelFemale>암컷 수호자</GuardianBast.lifeStages.2.labelFemale>
+  <GuardianBast.labelFemale>암컷 수호자</GuardianBast.labelFemale>
+  <GuardianBast.lifeStages.0.labelFemalePlural>암컷 수호자</GuardianBast.lifeStages.0.labelFemalePlural>
+  <GuardianBast.lifeStages.1.labelFemalePlural>암컷 수호자</GuardianBast.lifeStages.1.labelFemalePlural>
+  <GuardianBast.lifeStages.2.labelFemalePlural>암컷 수호자</GuardianBast.lifeStages.2.labelFemalePlural>
+  <GuardianBast.labelFemalePlural>암컷 수호자</GuardianBast.labelFemalePlural>
+  <Cults_FormlessSpawn.label>무형의 낙태아</Cults_FormlessSpawn.label>
+  <Cults_FormlessSpawn.lifeStages.0.label>무형의 낙태아</Cults_FormlessSpawn.lifeStages.0.label>
+  <Cults_FormlessSpawn.lifeStages.0.labelPlural>무형의 낙태아</Cults_FormlessSpawn.lifeStages.0.labelPlural>
+  <Cults_FormlessSpawn.lifeStages.1.label>무형의 낙태아</Cults_FormlessSpawn.lifeStages.1.label>
+  <Cults_FormlessSpawn.lifeStages.1.labelPlural>무형의 낙태아</Cults_FormlessSpawn.lifeStages.1.labelPlural>
+  <Cults_FormlessSpawn.lifeStages.2.label>무형의 낙태아</Cults_FormlessSpawn.lifeStages.2.label>
+  <Cults_FormlessSpawn.lifeStages.2.labelPlural>무형의 낙태아</Cults_FormlessSpawn.lifeStages.2.labelPlural>
+  <Cults_FormlessSpawn.lifeStages.3.label>무형의 낙태아</Cults_FormlessSpawn.lifeStages.3.label>
+  <Cults_FormlessSpawn.lifeStages.3.labelPlural>무형의 낙태아</Cults_FormlessSpawn.lifeStages.3.labelPlural>
+  <Cults_FormlessSpawn.labelPlural>무형의 낙태아</Cults_FormlessSpawn.labelPlural>
+  <GuardianBast.label>수호자</GuardianBast.label>
+  <GuardianBast.lifeStages.0.label>수호자</GuardianBast.lifeStages.0.label>
+  <GuardianBast.lifeStages.0.labelPlural>수호자</GuardianBast.lifeStages.0.labelPlural>
+  <GuardianBast.lifeStages.1.label>수호자</GuardianBast.lifeStages.1.label>
+  <GuardianBast.lifeStages.1.labelPlural>수호자</GuardianBast.lifeStages.1.labelPlural>
+  <GuardianBast.lifeStages.2.label>수호자</GuardianBast.lifeStages.2.label>
+  <GuardianBast.lifeStages.2.labelPlural>수호자</GuardianBast.lifeStages.2.labelPlural>
+  <GuardianBast.labelPlural>수호자</GuardianBast.labelPlural>
+  <Cults_BlackGoat.lifeStages.0.labelMale>수컷 검은 염소</Cults_BlackGoat.lifeStages.0.labelMale>
+  <Cults_BlackGoat.lifeStages.1.labelMale>수컷 검은 염소</Cults_BlackGoat.lifeStages.1.labelMale>
+  <Cults_BlackGoat.lifeStages.2.labelMale>수컷 검은 염소</Cults_BlackGoat.lifeStages.2.labelMale>
+  <Cults_BlackGoat.labelMale>수컷 검은 염소</Cults_BlackGoat.labelMale>
+  <Cults_BlackGoat.lifeStages.0.labelMalePlural>수컷 검은 염소</Cults_BlackGoat.lifeStages.0.labelMalePlural>
+  <Cults_BlackGoat.lifeStages.1.labelMalePlural>수컷 검은 염소</Cults_BlackGoat.lifeStages.1.labelMalePlural>
+  <Cults_BlackGoat.lifeStages.2.labelMalePlural>수컷 검은 염소</Cults_BlackGoat.lifeStages.2.labelMalePlural>
+  <Cults_BlackGoat.labelMalePlural>수컷 검은 염소</Cults_BlackGoat.labelMalePlural>
+  <Cults_Byakhee.lifeStages.0.labelMale>수컷 비야키</Cults_Byakhee.lifeStages.0.labelMale>
+  <Cults_Byakhee.lifeStages.1.labelMale>수컷 비야키</Cults_Byakhee.lifeStages.1.labelMale>
+  <Cults_Byakhee.lifeStages.2.labelMale>수컷 비야키</Cults_Byakhee.lifeStages.2.labelMale>
+  <Cults_Byakhee.lifeStages.3.labelMale>수컷 비야키</Cults_Byakhee.lifeStages.3.labelMale>
+  <Cults_Byakhee.labelMale>수컷 비야키</Cults_Byakhee.labelMale>
+  <Cults_Byakhee.lifeStages.0.labelMalePlural>수컷 비야키</Cults_Byakhee.lifeStages.0.labelMalePlural>
+  <Cults_Byakhee.lifeStages.1.labelMalePlural>수컷 비야키</Cults_Byakhee.lifeStages.1.labelMalePlural>
+  <Cults_Byakhee.lifeStages.2.labelMalePlural>수컷 비야키</Cults_Byakhee.lifeStages.2.labelMalePlural>
+  <Cults_Byakhee.lifeStages.3.labelMalePlural>수컷 비야키</Cults_Byakhee.lifeStages.3.labelMalePlural>
+  <Cults_Byakhee.labelMalePlural>수컷 비야키</Cults_Byakhee.labelMalePlural>
+  <Cults_FormlessSpawn.lifeStages.0.labelMale>수컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.0.labelMale>
+  <Cults_FormlessSpawn.lifeStages.1.labelMale>수컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.1.labelMale>
+  <Cults_FormlessSpawn.lifeStages.2.labelMale>수컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.2.labelMale>
+  <Cults_FormlessSpawn.lifeStages.3.labelMale>수컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.3.labelMale>
+  <Cults_FormlessSpawn.labelMale>수컷 무형의 낙태아</Cults_FormlessSpawn.labelMale>
+  <Cults_FormlessSpawn.lifeStages.0.labelMalePlural>수컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.0.labelMalePlural>
+  <Cults_FormlessSpawn.lifeStages.1.labelMalePlural>수컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.1.labelMalePlural>
+  <Cults_FormlessSpawn.lifeStages.2.labelMalePlural>수컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.2.labelMalePlural>
+  <Cults_FormlessSpawn.lifeStages.3.labelMalePlural>수컷 무형의 낙태아</Cults_FormlessSpawn.lifeStages.3.labelMalePlural>
+  <Cults_FormlessSpawn.labelMalePlural>수컷 무형의 낙태아</Cults_FormlessSpawn.labelMalePlural>
+  <GuardianBast.lifeStages.0.labelMale>수컷 수호자</GuardianBast.lifeStages.0.labelMale>
+  <GuardianBast.lifeStages.1.labelMale>수컷 수호자</GuardianBast.lifeStages.1.labelMale>
+  <GuardianBast.lifeStages.2.labelMale>수컷 수호자</GuardianBast.lifeStages.2.labelMale>
+  <GuardianBast.labelMale>수컷 수호자</GuardianBast.labelMale>
+  <GuardianBast.lifeStages.0.labelMalePlural>수컷 수호자</GuardianBast.lifeStages.0.labelMalePlural>
+  <GuardianBast.lifeStages.1.labelMalePlural>수컷 수호자</GuardianBast.lifeStages.1.labelMalePlural>
+  <GuardianBast.lifeStages.2.labelMalePlural>수컷 수호자</GuardianBast.lifeStages.2.labelMalePlural>
+  <GuardianBast.labelMalePlural>수컷 수호자</GuardianBast.labelMalePlural>
+  <ReanimatedCorpse.label>소생</ReanimatedCorpse.label>
+  <ReanimatedCorpse.labelPlural>소생</ReanimatedCorpse.labelPlural>
+  <Cults_Sailor.label>선원</Cults_Sailor.label>
+  <Cults_Sailor.labelPlural>선원</Cults_Sailor.labelPlural>
+
+  <!--846222458_190818_More Mechanoids-->
+  <Mech_Assaulter.label>어썰터</Mech_Assaulter.label>
+  <Mech_Assaulter.labelPlural>어썰터</Mech_Assaulter.labelPlural>
+  <Mech_Crawler.label>크롤러</Mech_Crawler.label>
+  <Mech_Crawler.labelPlural>크롤러</Mech_Crawler.labelPlural>
+  <Mech_Flamebot.label>플레임봇</Mech_Flamebot.label>
+  <Mech_Flamebot.labelPlural>플레임봇</Mech_Flamebot.labelPlural>
+  <Mech_Mammoth.label>매머드</Mech_Mammoth.label>
+  <Mech_Mammoth.labelPlural>매머드</Mech_Mammoth.labelPlural>
+  <Mech_Skullywag.label>스컬리왜그</Mech_Skullywag.label>
+  <Mech_Skullywag.labelPlural>스컬리왜그</Mech_Skullywag.labelPlural>
+
+  <!--918200645_190816_Star Wars - Fully Functional Lightsabers-->
+  <MercenarySaber.label>현상금 사냥꾼 용병</MercenarySaber.label>
+  <MercenarySaber.labelPlural>현상금 사냥꾼 용병</MercenarySaber.labelPlural>
+
+  <!--918226861_190816_Star Wars - The Force-->
+  <PJ_ForceGhost.label>포스 고스트</PJ_ForceGhost.label>
+  <PJ_ForceGhost.labelPlural>포스 고스트들</PJ_ForceGhost.labelPlural>
+
+  <!--918227266_181112_Star Wars - Factions-->
+  <SWFactions_ATATKind.label>AT-AT</SWFactions_ATATKind.label>
+  <SWFactions_ATATKind.labelPlural>AT-ATs</SWFactions_ATATKind.labelPlural>
+  <SWFactions_WalkerKind.label>AT-ST</SWFactions_WalkerKind.label>
+  <SWFactions_WalkerKind.labelPlural>AT-STs</SWFactions_WalkerKind.labelPlural>
+  <PJ_ScumBoss.label>두목</PJ_ScumBoss.label>
+  <PJ_ScumBoss.labelPlural>두목들</PJ_ScumBoss.labelPlural>
+  <PJ_BountyHunter.label>현상금 사냥꾼</PJ_BountyHunter.label>
+  <PJ_BountyHunter.labelPlural>현상금 사냥꾼들</PJ_BountyHunter.labelPlural>
+  <PJ_ImpCommander.label>사령관</PJ_ImpCommander.label>
+  <PJ_ImpCommander.labelPlural>사령관들</PJ_ImpCommander.labelPlural>
+  <ImpBase.label>제국주의자</ImpBase.label>
+  <SWFactions_SpeederKindImp.label>제국 순찰 스피더</SWFactions_SpeederKindImp.label>
+  <SWFactions_SpeederKindImp.labelPlural>제국 순찰 스피더들</SWFactions_SpeederKindImp.labelPlural>
+  <PJ_ImpTrader.label>제국 프로비져너</PJ_ImpTrader.label>
+  <PJ_ImpTrader.labelPlural>제국 프로비져너들</PJ_ImpTrader.labelPlural>
+  <ImpBase.labelPlural>제국주의자들</ImpBase.labelPlural>
+  <PJ_RebCouncilman.label>반란군 사령관</PJ_RebCouncilman.label>
+  <PJ_RebCouncilman.labelPlural>반란군 사령관들</PJ_RebCouncilman.labelPlural>
+  <PJ_RebNadeSoldier.label>반란군 척탄병</PJ_RebNadeSoldier.label>
+  <PJ_RebNadeSoldier.labelPlural>반란군 척탄병들</PJ_RebNadeSoldier.labelPlural>
+  <PJ_RebGuard.label>반란군 경비병</PJ_RebGuard.label>
+  <PJ_RebGuard.labelPlural>반란군 경비병들</PJ_RebGuard.labelPlural>
+  <PJ_RebMerc.label>반란군 용병</PJ_RebMerc.label>
+  <PJ_RebMerc.labelPlural>반란군 용병</PJ_RebMerc.labelPlural>
+  <SWFactions_SpeederKindReb.label>반란군 순찰 스피더</SWFactions_SpeederKindReb.label>
+  <SWFactions_SpeederKindReb.labelPlural>반란군 순찰 스피더들</SWFactions_SpeederKindReb.labelPlural>
+  <PJ_RebSoldier.label>반란군 군인</PJ_RebSoldier.label>
+  <PJ_RebLAVSoldier.label>반란군 군인</PJ_RebLAVSoldier.label>
+  <PJ_RebPilot.label>반란군 조종사</PJ_RebPilot.label>
+  <PJ_RebSoldier.labelPlural>반란군 군인들</PJ_RebSoldier.labelPlural>
+  <PJ_RebLAVSoldier.labelPlural>반란군 군인들</PJ_RebLAVSoldier.labelPlural>
+  <PJ_RebPilot.labelPlural>반란군 조종사들</PJ_RebPilot.labelPlural>
+  <PJ_RebTrader.label>반란군 상인</PJ_RebTrader.label>
+  <PJ_RebTrader.labelPlural>반란군 상인들</PJ_RebTrader.labelPlural>
+  <PJ_Ruffian.label>악당</PJ_Ruffian.label>
+  <PJ_Ruffian.labelPlural>악당들</PJ_Ruffian.labelPlural>
+  <PJ_ScoutTrooper.label>정찰트루퍼</PJ_ScoutTrooper.label>
+  <PJ_ScoutTrooper.labelPlural>정찰트루퍼들</PJ_ScoutTrooper.labelPlural>
+  <PJ_ImpSoldier.label>군인</PJ_ImpSoldier.label>
+  <PJ_ScumSoldier.label>군인</PJ_ScumSoldier.label>
+  <PJ_ImpSoldier.labelPlural>군인들</PJ_ImpSoldier.labelPlural>
+  <PJ_ScumSoldier.labelPlural>군인들</PJ_ScumSoldier.labelPlural>
+  <PJ_Stormtrooper.label>스톰트루퍼</PJ_Stormtrooper.label>
+  <PJ_StormtrooperSO.label>스톰트루퍼 장교</PJ_StormtrooperSO.label>
+  <PJ_StormtrooperSO.labelPlural>스톰트루퍼 장교들</PJ_StormtrooperSO.labelPlural>
+  <PJ_Stormtrooper.labelPlural>스톰트루퍼들</PJ_Stormtrooper.labelPlural>
+  <PJ_ImpInspector.label>세금 감사관</PJ_ImpInspector.label>
+  <PJ_ImpInspector.labelPlural>세금 감사관들</PJ_ImpInspector.labelPlural>
+  <PJ_ImpTaxOfficer.label>세금 책임자</PJ_ImpTaxOfficer.label>
+  <PJ_ImpTaxOfficer.labelPlural>세금 책임자들</PJ_ImpTaxOfficer.labelPlural>
+  <PJ_RebVillager.label>마을 사람</PJ_RebVillager.label>
+  <PJ_RebVillager.labelPlural>마을 사람들</PJ_RebVillager.labelPlural>
+
+  <!--928992405_190519_1.0_Starship_Troopers_Arachnids-->
+  <ScorpionBug.labelPlural>스콜피온 버그</ScorpionBug.labelPlural>
+  <ScorpionBug.lifeStages.0.label>스콜피온 버그</ScorpionBug.lifeStages.0.label>
+  <ScorpionBug.lifeStages.0.labelPlural>스콜피온 버그</ScorpionBug.lifeStages.0.labelPlural>
+  <ScorpionBug.lifeStages.1.label>스콜피온 버그</ScorpionBug.lifeStages.1.label>
+  <ScorpionBug.lifeStages.1.labelPlural>스콜피온 버그</ScorpionBug.lifeStages.1.labelPlural>
+  <ScorpionBug.lifeStages.2.label>스콜피온 버그</ScorpionBug.lifeStages.2.label>
+  <ScorpionBug.lifeStages.2.labelPlural>스콜피온 버그</ScorpionBug.lifeStages.2.labelPlural>
+  <FireFlyBug.label>파이어플라이 버그</FireFlyBug.label>
+  <FireFlyBug.labelPlural>파이어플라이 버그</FireFlyBug.labelPlural>
+  <FireFlyBug.lifeStages.0.label>파이어플라이 버그</FireFlyBug.lifeStages.0.label>
+  <FireFlyBug.lifeStages.0.labelPlural>파이어플라이 버그</FireFlyBug.lifeStages.0.labelPlural>
+  <FireFlyBug.lifeStages.1.label>파이어플라이 버그</FireFlyBug.lifeStages.1.label>
+  <FireFlyBug.lifeStages.1.labelPlural>파이어플라이 버그</FireFlyBug.lifeStages.1.labelPlural>
+  <FireFlyBug.lifeStages.2.label>파이어플라이 버그</FireFlyBug.lifeStages.2.label>
+  <FireFlyBug.lifeStages.2.labelPlural>파이어플라이 버그</FireFlyBug.lifeStages.2.labelPlural>
+  <BombardierBug.label>폭탄먼지벌레</BombardierBug.label>
+  <BombardierBug.labelPlural>폭탄먼지벌레</BombardierBug.labelPlural>
+  <BombardierBug.lifeStages.0.label>폭탄먼지벌레</BombardierBug.lifeStages.0.label>
+  <BombardierBug.lifeStages.0.labelPlural>폭탄먼지벌레</BombardierBug.lifeStages.0.labelPlural>
+  <BombardierBug.lifeStages.1.label>폭탄먼지벌레</BombardierBug.lifeStages.1.label>
+  <BombardierBug.lifeStages.1.labelPlural>폭탄먼지벌레</BombardierBug.lifeStages.1.labelPlural>
+  <BombardierBug.lifeStages.2.label>폭탄먼지벌레</BombardierBug.lifeStages.2.label>
+  <BombardierBug.lifeStages.2.labelPlural>폭탄먼지벌레</BombardierBug.lifeStages.2.labelPlural>
+  <PlasmaBug.label>플라즈마 버그</PlasmaBug.label>
+  <PlasmaBug.labelPlural>플라즈마 버그</PlasmaBug.labelPlural>
+  <PlasmaBug.lifeStages.0.label>플라즈마 버그</PlasmaBug.lifeStages.0.label>
+  <PlasmaBug.lifeStages.0.labelPlural>플라즈마 버그</PlasmaBug.lifeStages.0.labelPlural>
+  <PlasmaBug.lifeStages.1.label>플라즈마 버그</PlasmaBug.lifeStages.1.label>
+  <PlasmaBug.lifeStages.1.labelPlural>플라즈마 버그</PlasmaBug.lifeStages.1.labelPlural>
+  <PlasmaBug.lifeStages.2.label>플라즈마 버그</PlasmaBug.lifeStages.2.label>
+  <PlasmaBug.lifeStages.2.labelPlural>플라즈마 버그</PlasmaBug.lifeStages.2.labelPlural>
+  <PlasmaGrenadierBug.label>플라즈마 그레네이더 버그</PlasmaGrenadierBug.label>
+  <PlasmaGrenadierBug.labelPlural>플라즈마 그레네이더 버그</PlasmaGrenadierBug.labelPlural>
+  <PlasmaGrenadierBug.lifeStages.0.label>플라즈마 그레네이더 버그</PlasmaGrenadierBug.lifeStages.0.label>
+  <PlasmaGrenadierBug.lifeStages.0.labelPlural>플라즈마 그레네이더 버그</PlasmaGrenadierBug.lifeStages.0.labelPlural>
+  <PlasmaGrenadierBug.lifeStages.1.label>플라즈마 그레네이더 버그</PlasmaGrenadierBug.lifeStages.1.label>
+  <PlasmaGrenadierBug.lifeStages.1.labelPlural>플라즈마 그레네이더 버그</PlasmaGrenadierBug.lifeStages.1.labelPlural>
+  <PlasmaGrenadierBug.lifeStages.2.label>플라즈마 그레네이더 버그</PlasmaGrenadierBug.lifeStages.2.label>
+  <PlasmaGrenadierBug.lifeStages.2.labelPlural>플라즈마 그레네이더 버그</PlasmaGrenadierBug.lifeStages.2.labelPlural>
+  <HopperBug.label>호퍼 버그</HopperBug.label>
+  <HopperBug.labelPlural>호퍼 버그</HopperBug.labelPlural>
+  <HopperBug.lifeStages.0.label>호퍼 버그</HopperBug.lifeStages.0.label>
+  <HopperBug.lifeStages.0.labelPlural>호퍼 버그</HopperBug.lifeStages.0.labelPlural>
+  <HopperBug.lifeStages.1.label>호퍼 버그</HopperBug.lifeStages.1.label>
+  <HopperBug.lifeStages.1.labelPlural>호퍼 버그</HopperBug.lifeStages.1.labelPlural>
+  <HopperBug.lifeStages.2.label>호퍼 버그</HopperBug.lifeStages.2.label>
+  <HopperBug.lifeStages.2.labelPlural>호퍼 버그</HopperBug.lifeStages.2.labelPlural>
+  <WarriorBug.label>워리어 버그</WarriorBug.label>
+  <WarriorBug.labelPlural>워리어 버그</WarriorBug.labelPlural>
+  <WarriorBug.lifeStages.0.label>워리어 버그</WarriorBug.lifeStages.0.label>
+  <WarriorBug.lifeStages.0.labelPlural>워리어 버그</WarriorBug.lifeStages.0.labelPlural>
+  <WarriorBug.lifeStages.1.label>워리어 버그</WarriorBug.lifeStages.1.label>
+  <WarriorBug.lifeStages.1.labelPlural>워리어 버그</WarriorBug.lifeStages.1.labelPlural>
+  <WarriorBug.lifeStages.2.label>워리어 버그</WarriorBug.lifeStages.2.label>
+  <WarriorBug.lifeStages.2.labelPlural>워리어 버그</WarriorBug.lifeStages.2.labelPlural>
+  <WarriorBugHive.label>워리어 버그</WarriorBugHive.label>
+  <WarriorBugHive.labelPlural>워리어 버그</WarriorBugHive.labelPlural>
+  <WarriorBugHive.lifeStages.0.label>워리어 버그</WarriorBugHive.lifeStages.0.label>
+  <WarriorBugHive.lifeStages.0.labelPlural>워리어 버그</WarriorBugHive.lifeStages.0.labelPlural>
+  <WarriorBugHive.lifeStages.1.label>워리어 버그</WarriorBugHive.lifeStages.1.label>
+  <WarriorBugHive.lifeStages.1.labelPlural>워리어 버그</WarriorBugHive.lifeStages.1.labelPlural>
+  <WarriorBugHive.lifeStages.2.label>워리어 버그</WarriorBugHive.lifeStages.2.label>
+  <WarriorBugHive.lifeStages.2.labelPlural>워리어 버그</WarriorBugHive.lifeStages.2.labelPlural>
+  <TankerBug.label>탱커 버그</TankerBug.label>
+  <TankerBug.labelPlural>탱커 버그</TankerBug.labelPlural>
+  <TankerBug.lifeStages.0.label>탱커 버그</TankerBug.lifeStages.0.label>
+  <TankerBug.lifeStages.0.labelPlural>탱커 버그</TankerBug.lifeStages.0.labelPlural>
+  <TankerBug.lifeStages.1.label>탱커 버그</TankerBug.lifeStages.1.label>
+  <TankerBug.lifeStages.1.labelPlural>탱커 버그</TankerBug.lifeStages.1.labelPlural>
+  <TankerBug.lifeStages.2.label>탱커 버그</TankerBug.lifeStages.2.label>
+  <TankerBug.lifeStages.2.labelPlural>탱커 버그</TankerBug.lifeStages.2.labelPlural>
+  <ScorpionBug.label>스콜피온 버그</ScorpionBug.label>
+
+  <!--950475543_190818_Rim of Madness - Arachnophobia-->
+  <ROMA_SpiderKindGiant.lifeStages.2.labelFemale>암컷 거대 거미</ROMA_SpiderKindGiant.lifeStages.2.labelFemale>
+  <ROMA_SpiderKindGiant.labelFemale>암컷 거대 거미</ROMA_SpiderKindGiant.labelFemale>
+  <ROMA_SpiderKindGiant.lifeStages.0.labelFemale>암컷 거대 새끼 거미</ROMA_SpiderKindGiant.lifeStages.0.labelFemale>
+  <ROMA_SpiderKindGiant.lifeStages.0.labelFemalePlural>암컷 거대 새끼 거미</ROMA_SpiderKindGiant.lifeStages.0.labelFemalePlural>
+  <ROMA_SpiderKindGiant.lifeStages.2.labelFemalePlural>암컷 거대 거미</ROMA_SpiderKindGiant.lifeStages.2.labelFemalePlural>
+  <ROMA_SpiderKindGiant.labelFemalePlural>암컷 거대 거미</ROMA_SpiderKindGiant.labelFemalePlural>
+  <ROMA_SpiderKindGiant.lifeStages.1.labelFemale>암컷 아성체 거대 거미</ROMA_SpiderKindGiant.lifeStages.1.labelFemale>
+  <ROMA_SpiderKindGiant.lifeStages.1.labelFemalePlural>암컷 아성체 거대 거미</ROMA_SpiderKindGiant.lifeStages.1.labelFemalePlural>
+  <ROMA_SpiderKind.lifeStages.1.labelFemale>암컷 거미 아성체</ROMA_SpiderKind.lifeStages.1.labelFemale>
+  <ROMA_SpiderKind.lifeStages.1.labelFemalePlural>암컷 거미 아성체</ROMA_SpiderKind.lifeStages.1.labelFemalePlural>
+  <ROMA_SpiderKind.lifeStages.2.labelFemale>암컷 거미</ROMA_SpiderKind.lifeStages.2.labelFemale>
+  <ROMA_SpiderKind.labelFemale>암컷 거미</ROMA_SpiderKind.labelFemale>
+  <ROMA_SpiderKind.lifeStages.0.labelFemale>암컷 새끼 거미</ROMA_SpiderKind.lifeStages.0.labelFemale>
+  <ROMA_SpiderKind.lifeStages.0.labelFemalePlural>암컷 새끼 거미</ROMA_SpiderKind.lifeStages.0.labelFemalePlural>
+  <ROMA_SpiderKind.lifeStages.2.labelFemalePlural>암컷 거미</ROMA_SpiderKind.lifeStages.2.labelFemalePlural>
+  <ROMA_SpiderKind.labelFemalePlural>암컷 거미</ROMA_SpiderKind.labelFemalePlural>
+  <ROMA_SpiderKindGiantQueen.lifeStages.0.label>거대 여왕 새끼 거미</ROMA_SpiderKindGiantQueen.lifeStages.0.label>
+  <ROMA_SpiderKindGiantQueen.lifeStages.0.labelPlural>거대 여왕 새끼 거미</ROMA_SpiderKindGiantQueen.lifeStages.0.labelPlural>
+  <ROMA_SpiderKindGiant.label>거대 거미</ROMA_SpiderKindGiant.label>
+  <ROMA_SpiderKindGiant.lifeStages.2.label>거대 거미</ROMA_SpiderKindGiant.lifeStages.2.label>
+  <ROMA_SpiderKindGiant.lifeStages.2.labelPlural>거대 거미</ROMA_SpiderKindGiant.lifeStages.2.labelPlural>
+  <ROMA_SpiderKindGiantQueen.label>거대 여왕 거미</ROMA_SpiderKindGiantQueen.label>
+  <ROMA_SpiderKindGiantQueen.lifeStages.2.label>거대 여왕 거미</ROMA_SpiderKindGiantQueen.lifeStages.2.label>
+  <ROMA_SpiderKindGiantQueen.lifeStages.2.labelPlural>거대 여왕 거미</ROMA_SpiderKindGiantQueen.lifeStages.2.labelPlural>
+  <ROMA_SpiderKindGiantQueen.labelPlural>거대 여왕 거미</ROMA_SpiderKindGiantQueen.labelPlural>
+  <ROMA_SpiderKindGiant.lifeStages.0.label>거대 새끼 거미</ROMA_SpiderKindGiant.lifeStages.0.label>
+  <ROMA_SpiderKindGiant.lifeStages.0.labelPlural>거대 새끼 거미</ROMA_SpiderKindGiant.lifeStages.0.labelPlural>
+  <ROMA_SpiderKindGiant.labelPlural>거대 거미</ROMA_SpiderKindGiant.labelPlural>
+  <ROMA_SpiderKindGiantQueen.lifeStages.1.label>거대 여왕 거미 아성체</ROMA_SpiderKindGiantQueen.lifeStages.1.label>
+  <ROMA_SpiderKindGiantQueen.lifeStages.1.labelPlural>거대 여왕 거미 아성체</ROMA_SpiderKindGiantQueen.lifeStages.1.labelPlural>
+  <ROMA_SpiderKindGiant.lifeStages.1.label>거대 거미 아성체</ROMA_SpiderKindGiant.lifeStages.1.label>
+  <ROMA_SpiderKindGiant.lifeStages.1.labelPlural>아성체 거대 거미</ROMA_SpiderKindGiant.lifeStages.1.labelPlural>
+  <ROMA_SpiderKind.lifeStages.1.label>거미 아성체</ROMA_SpiderKind.lifeStages.1.label>
+  <ROMA_SpiderKind.lifeStages.1.labelPlural>거미 아성체</ROMA_SpiderKind.lifeStages.1.labelPlural>
+  <ROMA_SpiderKindGiant.lifeStages.2.labelMale>수컷 거대 거미</ROMA_SpiderKindGiant.lifeStages.2.labelMale>
+  <ROMA_SpiderKindGiant.labelMale>수컷 거대 거미</ROMA_SpiderKindGiant.labelMale>
+  <ROMA_SpiderKindGiant.lifeStages.0.labelMale>수컷 거대 새끼 거미</ROMA_SpiderKindGiant.lifeStages.0.labelMale>
+  <ROMA_SpiderKindGiant.lifeStages.0.labelMalePlural>수컷 거대 새끼 거미</ROMA_SpiderKindGiant.lifeStages.0.labelMalePlural>
+  <ROMA_SpiderKindGiant.lifeStages.2.labelMalePlural>수컷 거대 거미</ROMA_SpiderKindGiant.lifeStages.2.labelMalePlural>
+  <ROMA_SpiderKindGiant.labelMalePlural>수컷 거대 거미</ROMA_SpiderKindGiant.labelMalePlural>
+  <ROMA_SpiderKindGiant.lifeStages.1.labelMale>수컷 아성체 거대 거미</ROMA_SpiderKindGiant.lifeStages.1.labelMale>
+  <ROMA_SpiderKindGiant.lifeStages.1.labelMalePlural>수컷 아성체 거대 거미</ROMA_SpiderKindGiant.lifeStages.1.labelMalePlural>
+  <ROMA_SpiderKind.lifeStages.1.labelMale>수컷 거미 아성체</ROMA_SpiderKind.lifeStages.1.labelMale>
+  <ROMA_SpiderKind.lifeStages.1.labelMalePlural>수컷 거미 아성체</ROMA_SpiderKind.lifeStages.1.labelMalePlural>
+  <ROMA_SpiderKind.lifeStages.2.labelMale>수컷 거미</ROMA_SpiderKind.lifeStages.2.labelMale>
+  <ROMA_SpiderKind.labelMale>수컷 거미</ROMA_SpiderKind.labelMale>
+  <ROMA_SpiderKind.lifeStages.0.labelMale>수컷 새끼 거미</ROMA_SpiderKind.lifeStages.0.labelMale>
+  <ROMA_SpiderKind.lifeStages.0.labelMalePlural>수컷 새끼 거미</ROMA_SpiderKind.lifeStages.0.labelMalePlural>
+  <ROMA_SpiderKind.lifeStages.2.labelMalePlural>수컷 거미</ROMA_SpiderKind.lifeStages.2.labelMalePlural>
+  <ROMA_SpiderKind.labelMalePlural>수컷 거미</ROMA_SpiderKind.labelMalePlural>
+  <ROMA_SpiderKind.label>거미</ROMA_SpiderKind.label>
+  <ROMA_SpiderKind.lifeStages.2.label>거미</ROMA_SpiderKind.lifeStages.2.label>
+  <ROMA_SpiderKind.lifeStages.2.labelPlural>거미</ROMA_SpiderKind.lifeStages.2.labelPlural>
+  <ROMA_SpiderKind.lifeStages.0.label>새끼 거미</ROMA_SpiderKind.lifeStages.0.label>
+  <ROMA_SpiderKind.lifeStages.0.labelPlural>새끼 거미</ROMA_SpiderKind.lifeStages.0.labelPlural>
+  <ROMA_SpiderKind.labelPlural>거미</ROMA_SpiderKind.labelPlural>
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_BeeHybrid_Bearbee.label>곰벌</GR_BeeHybrid_Bearbee.label>
+  <GR_BeeHybrid_Bearbee.labelPlural>곰벌들</GR_BeeHybrid_Bearbee.labelPlural>
+  <GR_BeeHybrid_Boombee.label>폭탄벌</GR_BeeHybrid_Boombee.label>
+  <GR_BeeHybrid_Boombee.labelPlural>폭탄벌들</GR_BeeHybrid_Boombee.labelPlural>
+  <GR_BeeHybrid_Catbee.label>고양이벌</GR_BeeHybrid_Catbee.label>
+  <GR_BeeHybrid_Catbee.labelPlural>고양이벌들</GR_BeeHybrid_Catbee.labelPlural>
+  <GR_BeeHybrid_Chickenbee.label>닭벌</GR_BeeHybrid_Chickenbee.label>
+  <GR_BeeHybrid_Chickenbee.labelPlural>닭벌들</GR_BeeHybrid_Chickenbee.labelPlural>
+  <GR_BeeHybrid_Spiderbee.label>거미벌</GR_BeeHybrid_Spiderbee.label>
+  <GR_BeeHybrid_Spiderbee.labelPlural>거미벌들</GR_BeeHybrid_Spiderbee.labelPlural>
+  <GR_BeeHybrid_Mechabee.label>메카벌</GR_BeeHybrid_Mechabee.label>
+  <GR_BeeHybrid_Mechabee.labelPlural>메카벌들</GR_BeeHybrid_Mechabee.labelPlural>
+  <GR_BeeHybrid_Muffalobee.label>머팔로벌</GR_BeeHybrid_Muffalobee.label>
+  <GR_BeeHybrid_Muffalobee.labelPlural>머팔로벌들</GR_BeeHybrid_Muffalobee.labelPlural>
+  <GR_BeeHybrid_Lizardbee.label>도마뱀벌</GR_BeeHybrid_Lizardbee.label>
+  <GR_BeeHybrid_Lizardbee.labelPlural>도마뱀벌들</GR_BeeHybrid_Lizardbee.labelPlural>
+  <GR_BeeHybrid_Mousebee.label>쥐벌</GR_BeeHybrid_Mousebee.label>
+  <GR_BeeHybrid_Mousebee.labelPlural>쥐벌들</GR_BeeHybrid_Mousebee.labelPlural>
+  <GR_BeeHybrid_Thrumbee.label>트럼보벌</GR_BeeHybrid_Thrumbee.label>
+  <GR_BeeHybrid_Thrumbee.labelPlural>트럼보벌들</GR_BeeHybrid_Thrumbee.labelPlural>
+  <GR_BeeHybrid_Wolfbee.label>늑대벌</GR_BeeHybrid_Wolfbee.label>
+  <GR_BeeHybrid_Wolfbee.labelPlural>늑대벌들</GR_BeeHybrid_Wolfbee.labelPlural>
+
+</LanguageData>

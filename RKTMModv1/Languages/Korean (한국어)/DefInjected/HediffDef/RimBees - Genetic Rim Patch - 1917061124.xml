@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RB_ToxicBuildup.label>중독됨</RB_ToxicBuildup.label>
+  <RB_ToxicBuildup.stages.0.label>초기</RB_ToxicBuildup.stages.0.label>
+  <RB_ToxicBuildup.stages.1.label>초기</RB_ToxicBuildup.stages.1.label>
+  <RB_ToxicBuildup.stages.2.label>사소함</RB_ToxicBuildup.stages.2.label>
+  <RB_ToxicBuildup.stages.3.label>보통</RB_ToxicBuildup.stages.3.label>
+  <RB_ToxicBuildup.stages.4.label>심각함</RB_ToxicBuildup.stages.4.label>
+  <RB_ToxicBuildup.stages.5.label>극심함</RB_ToxicBuildup.stages.5.label>
+  <RB_ChemfuelBuildup.label>화학연료 주입됨</RB_ChemfuelBuildup.label>
+  <RB_ChemfuelBuildup.stages.0.label>초기</RB_ChemfuelBuildup.stages.0.label>
+  <RB_ChemfuelBuildup.stages.1.label>초기</RB_ChemfuelBuildup.stages.1.label>
+  <RB_ChemfuelBuildup.stages.2.label>사소함</RB_ChemfuelBuildup.stages.2.label>
+  <RB_ChemfuelBuildup.stages.3.label>보통</RB_ChemfuelBuildup.stages.3.label>
+  <RB_ChemfuelBuildup.stages.4.label>심각함</RB_ChemfuelBuildup.stages.4.label>
+  <RB_ChemfuelBuildup.stages.5.label>극심함</RB_ChemfuelBuildup.stages.5.label>
+  <RB_BlindingBuildup.label>실명독</RB_BlindingBuildup.label>
+  <RB_BlindingBuildup.stages.0.label>초기-잠재됨</RB_BlindingBuildup.stages.0.label>
+  <RB_BlindingBuildup.stages.1.label>초기</RB_BlindingBuildup.stages.1.label>
+  <RB_BlindingBuildup.stages.2.label>사소함</RB_BlindingBuildup.stages.2.label>
+  <RB_BlindingBuildup.stages.3.label>보통</RB_BlindingBuildup.stages.3.label>
+  <RB_BlindingBuildup.stages.4.label>심각함</RB_BlindingBuildup.stages.4.label>
+  <RB_BlindingBuildup.stages.5.label>극심함</RB_BlindingBuildup.stages.5.label>
+  <RB_BlindingBuildup.stages.6.label>극심함</RB_BlindingBuildup.stages.6.label>
+  <RB_ParalysisBuildup.label>마비</RB_ParalysisBuildup.label>
+  <RB_ParalysisBuildup.stages.0.label>초기</RB_ParalysisBuildup.stages.0.label>
+  <RB_ParalysisBuildup.stages.1.label>마비</RB_ParalysisBuildup.stages.1.label>
+  <RB_ParalysisBuildup.stages.2.label>심각한 마비</RB_ParalysisBuildup.stages.2.label>
+  <RB_ParalysisBuildup.stages.3.label>극심한 마비</RB_ParalysisBuildup.stages.3.label>
+  <RB_Stamina.label>힘이 증가함 (꿀 효과)</RB_Stamina.label>
+
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimPlas_CarboSynth.label>탄소 합성물</RimPlas_CarboSynth.label>
+  <RimPlas_CarboSynth.description>새로운 재료를 사용할 수 있는 능력을 부여합니다.</RimPlas_CarboSynth.description>
+  <RimPlas_Graphene.label>그래핀</RimPlas_Graphene.label>
+  <RimPlas_Graphene.description>새로운 재료를 사용할 수 있는 능력을 부여합니다.</RimPlas_Graphene.description>
+  <RimPlas_BulkGraphene.label>대량의 그래핀</RimPlas_BulkGraphene.label>
+  <RimPlas_BulkGraphene.description>그래핀을 대량으로 사용할 수 있는 능력을 부여합니다.</RimPlas_BulkGraphene.description>
+  <RimPlas_CarbonComposites.label>탄소 복합재</RimPlas_CarbonComposites.label>
+  <RimPlas_CarbonComposites.description>새로운 재료를 사용할 수 있는 능력을 부여합니다.</RimPlas_CarbonComposites.description>
+  <RimPlas_CarbonCompositesBulk.label>탄소 복합재 대량 제작</RimPlas_CarbonCompositesBulk.label>
+  <RimPlas_CarbonCompositesBulk.description>탄소 복합재를 대량으로 만들 수있는 기능을 부여합니다.</RimPlas_CarbonCompositesBulk.description>
+  <RimPlas_Components.label>림플라스 부품 제작</RimPlas_Components.label>
+  <RimPlas_Components.description>림플라스 버전의 부품을 제작하는 기능을 부여합니다.</RimPlas_Components.description>
+  <RimPlas_AdvComponents.label>림플라스 고급 부품 제작</RimPlas_AdvComponents.label>
+  <RimPlas_AdvComponents.description>림플라스 버전의 고급 부품을 제작하는 기능을 부여합니다.</RimPlas_AdvComponents.description>
+  <RimPlas_MultiAnalyzer.label>림플라스 복합분석기 건설</RimPlas_MultiAnalyzer.label>
+  <RimPlas_MultiAnalyzer.description>림플라스 버전의 복합분석기를 제작하는 기능을 부여합니다.</RimPlas_MultiAnalyzer.description>
+  <RimThermoPlas.label>림서모플라스</RimThermoPlas.label>
+  <RimThermoPlas.description>새로운 재료를 사용할 수 있는 능력을 부여합니다.</RimThermoPlas.description>
+  <RPSecurityDoors.label>그래핀 보안 문</RPSecurityDoors.label>
+  <RPSecurityDoors.description>지능형 보안 문을 제작할 수 있는 능력을 부여합니다.</RPSecurityDoors.description>
+  <RimPlas_AdvIntelMats.label>고급 지능형 재료</RimPlas_AdvIntelMats.label>
+  <RimPlas_AdvIntelMats.description>고급 사출 성형으로 복잡한 재료를 만들 수 있습니다.</RimPlas_AdvIntelMats.description>
+  <RimPlas.label>림플라스</RimPlas.label>
+  <RimPlas.description>새로운 재료를 사용할 수 있는 능력을 부여합니다.</RimPlas.description>
+  <RimPlas_Bulk.label>대량의 림플라스</RimPlas_Bulk.label>
+  <RimPlas_Bulk.description>림플라스를 대량으로 만들 수 있는 기능을 부여합니다.</RimPlas_Bulk.description>
+  <RimPlas_SemiSynth.label>반합성</RimPlas_SemiSynth.label>
+  <RimPlas_SemiSynth.description>새로운 재료를 사용할 수 있는 능력을 부여합니다.</RimPlas_SemiSynth.description>
+  <RimPlas_InjMld.label>사출 성형</RimPlas_InjMld.label>
+  <RimPlas_InjMld.description>사출 성형을 사용하여 가구를 만들 수 있습니다.</RimPlas_InjMld.description>
+  <RimPlas_AdvInjMld.label>고급 사출 성형</RimPlas_AdvInjMld.label>
+  <RimPlas_AdvInjMld.description>사출 성형으로 복잡한 재료를 만들 수 있습니다.</RimPlas_AdvInjMld.description>
+  <RimPlas_Synth.label>합성 섬유</RimPlas_Synth.label>
+  <RimPlas_Synth.description>합성 섬유를 만드는 능력을 부여합니다.</RimPlas_Synth.description>
+  <RimPlas_Synth_Bulk.label>대량의 합성 섬유</RimPlas_Synth_Bulk.label>
+  <RimPlas_Synth_Bulk.description>대량의 합성 섬유 제작 능력을 부여합니다.</RimPlas_Synth_Bulk.description>
+  <RimPlas_Synth_Plasteel.label>합성 플라스틸</RimPlas_Synth_Plasteel.label>
+  <RimPlas_Synth_Plasteel.description>플라스틸을 제작할 수 있는 능력을 부여합니다.</RimPlas_Synth_Plasteel.description>
+  <RimPlas_Synth_Plasteel_Bulk.label>대량의 합성 플라스틸</RimPlas_Synth_Plasteel_Bulk.label>
+  <RimPlas_Synth_Plasteel_Bulk.description>대량의 플라스틸을 제작할 수 있는 능력을 부여합니다.</RimPlas_Synth_Plasteel_Bulk.description>
+
+</LanguageData>

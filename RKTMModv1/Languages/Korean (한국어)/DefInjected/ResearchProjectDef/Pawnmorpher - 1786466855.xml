@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MutagenExtraction.label>돌연변이 추출</MutagenExtraction.label>
+  <MutagenExtraction.description>부분적으로 변이된 림으로부터 생성된 알과 우유를 활용해 메카나이트를 추출할 수 있게 됩니다. 이것은 약물 작업대에서 진행할 수 있습니다.</MutagenExtraction.description>
+  <MutagenicPlantSowing.label>돌연변이 유발 식물</MutagenicPlantSowing.label>
+  <MutagenicPlantSowing.description>식물을 뮤토나이트에 노출시킴으로써, 그 식물의 새롭고 '개선된' 변종을 재배할 수 있게 됩니다.</MutagenicPlantSowing.description>
+  <SerumSynthesis.label>혈청 합성</SerumSynthesis.label>
+  <SerumSynthesis.description>메카나이트 구성요소를 신중하게 재조정하면 우리가 원하는 돌연변이 혈청을 만들 수 있게 됩니다. 이것은 메카나이트 반죽이 필요하며, 기본적인 메카나이트 혈청을 제작할 수 있게 됩니다.</SerumSynthesis.description>
+  <AdvancedSerumSynthesis.label>목적성 혈청</AdvancedSerumSynthesis.label>
+  <AdvancedSerumSynthesis.description>보다 진보된 기술을 사용하여 생산과 전투라는 두 가지 다른 종류 목표를 가진 돌연변이를 만들 수 있습니다. 또한 약물 작업대가 아닌 보다 전문화된 돌연변이 작업대를 만들 수 있습니다. 생산은 림들을 더욱 유용하게 만들어 우유와 알을 만드는데 사용될 수 있습니다.</AdvancedSerumSynthesis.description>
+  <PowerfulSerumSynthesis.label>강력한 혈청</PowerfulSerumSynthesis.label>
+  <PowerfulSerumSynthesis.description>아직까지는 혈청이 림의 크기와 안정성이 대략 비슷하게 유지되는 듯 합니다. 하지만 조금 다른 방향으로 연구하면, 엄청난 배고픔을 감수하고 크기를 늘릴 수 있는 혈청을 만들 수 있을 것입니다. 다소 불안정할 수 있습니다.</PowerfulSerumSynthesis.description>
+  <AdvancedExtraction.label>고급 합성</AdvancedExtraction.label>
+  <AdvancedExtraction.description>공예에 능숙한 림으로, 돌연변이 메카나이트 구성요소를 다양한 용도로 변경할 수 있게 되며, 돌연변이 유발 효과를 무효화할 수 있게 됩니다. 이렇게 하면 치료 혈청과 부활형청과 같은 비-돌연변이 메카나이트혈청을 만들 수 있을 것입니다.</AdvancedExtraction.description>
+  <Injectors.label>주사기</Injectors.label>
+  <Injectors.description>관련된 메카나이트의 실제 유전자를 분리하면 특정 동물에 대한 뚜렷한 돌연변이를 만들 수 있습니다. 현실은 우리가 원하는 무엇이든 될 수 있을 것입니다.</Injectors.description>
+  <MutagenChambers.label>체임버</MutagenChambers.label>
+  <MutagenChambers.description>림들이 들어가거나 운반해 넣을 수 있는 돌연변이 물질을 사용할 수 있습니다. 일반적으로 훨씬 짧은 시간에, 그리고 메카나이트 반죽 한 병을 사용하지만 이들을 무작위 동물로 변형시킵니다. 하지만 우리는 누군가를 동물로 바꾸기 전에, 그 동물의 유전자 정보를 수집해야 합니다. 아곳은 볼트 액션으로 작동하는 소총에 '인식표'탄환을 발사하여 맞은 대상의 유전자 코드를 우리의 데이터베이스에 추가하면 가능합니다.</MutagenChambers.description>
+  <AdvancedMutagenChambers.label>고급 체임버</AdvancedMutagenChambers.label>
+  <AdvancedMutagenChambers.description>더욱 큰 짐승들을 위한, 더욱 큰 체임버 입니다. 이번 연구를 위해서는 다른 조절기도 만들어야 한다는 점에 유의하세요. 다행히도 이 연구는 조절기를 잠금해제합니다.</AdvancedMutagenChambers.description>
+  <ChamberModulator.label>체임버 조절기</ChamberModulator.label>
+  <ChamberModulator.description>분명히 최고 과학자들은 상대방에게서 무엇이 나올지를 결정할 수 있기를 원했기에, 이것을 고안하는데는 오랜 시간이 걸리지 않았습니다. 이 연구는 조절기의 잠금을 해제합니다. 그러면 이미 체임버에 들어있는 동물을 선택해서 림을 변환시킬 수 있게 됩니다. 또한 조절기를 통해 두 개의 포드를 함께 연결할 수도 있습니다. 연결된 체임버에 두 명의 림이 있다면 다른 옵션을 사용할 수도 있습니다.</ChamberModulator.description>
+  <MutagenicWeapons.label>돌연변이 무기</MutagenicWeapons.label>
+  <MutagenicWeapons.description>돌연변이를 일으키는 암석을 무기에 주입하여 목표물을 완전히 죽이는 대신 변이시키는 무기를 만들 수 있습니다. 물론, 희생자는 그 결과에 행복해하지 않을지도 모릅니다.</MutagenicWeapons.description>
+  <PowerfulInjectors.label>강력한 주사기</PowerfulInjectors.label>
+  <PowerfulInjectors.description>이 작업에 필요한 주입기에 반죽의 양을 맞추는 것은 어려운 일일 수 있지만, 잘만 조절하면 특정 유형의 강력한 야수를 만들 수 있게 됩니다.</PowerfulInjectors.description>
+  <Stabilisation.label>돌연변이 안정화</Stabilisation.label>
+  <Stabilisation.description>돌연변이 물질에 뉴트로아민이 주입되면 흥미로운 효과가 나타납니다. 이론화된 다른 것들 중, 림이 더이상의 변이를 겪지 않도록 막는 것이 가능할지도 모릅니다.</Stabilisation.description>
+  <Reversion.label>회귀</Reversion.label>
+  <Reversion.description>이는 메카나이트가 변형 이전 림에 대한 정보들을 저장하기 때문에 가능합니다. 이를 통해, 변이체들을 다시 인간으로 바꾸는 것이 가능할 것입니다. 하지만 영구적인 야생화에는 도움이 되지 않습니다.</Reversion.description>
+  <LozengeProduction.label>부스터 사탕</LozengeProduction.label>
+  <LozengeProduction.description>우리는 이제 돌연변이 물질을 부스터 알약으로 만들 수 있습니다. 그것은 우리의 코크/카우모프의 생산성을 향상시킬 것입니다.</LozengeProduction.description>
+
+</LanguageData>

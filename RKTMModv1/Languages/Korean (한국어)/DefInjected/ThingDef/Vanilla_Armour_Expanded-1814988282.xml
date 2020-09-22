@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAE_Footwear_PlateBoots.label>판금 부츠</VAE_Footwear_PlateBoots.label>
+  <VAE_Footwear_PlateBoots.description>간단한 판금 부츠 한 켤레입니다. 무게 때문에 착용자의 속도가 늦어집니다.</VAE_Footwear_PlateBoots.description>
+  <VAE_Footwear_MarineBoots.label>해병 부츠</VAE_Footwear_MarineBoots.label>
+  <VAE_Footwear_MarineBoots.description>플라스틸로 도금된 판금과 강화된 보조동력이 달린 한 쌍의 해병 부츠입니다.</VAE_Footwear_MarineBoots.description>
+  <VAE_Handwear_PlateGloves.label>판금 장갑</VAE_Handwear_PlateGloves.label>
+  <VAE_Handwear_PlateGloves.description>단순한 판금 장갑 한 켤레입니다. 무게 때문에 착용자의 속도가 느려집니다.</VAE_Handwear_PlateGloves.description>
+  <VAE_Handwear_MarineGloves.label>해병 장갑</VAE_Handwear_MarineGloves.label>
+  <VAE_Handwear_MarineGloves.description>향상된 그립 보조 기능과 반동 안정 장치 세트가 내장된 한 쌍의 해병 장갑입니다.</VAE_Handwear_MarineGloves.description>
+  <VAE_Apparel_BulletproofVest.label>강화 방탄조끼</VAE_Apparel_BulletproofVest.label>
+  <VAE_Apparel_BulletproofVest.description>가슴과 등에 케블라 판이 삽입된 조끼입니다. 총상에는 매우 효과적이지만 근접 무기에 대해서는 아무런 효과가 없습니다.</VAE_Apparel_BulletproofVest.description>
+  <VAE_Apparel_GhillieSuit.label>길리 슈트</VAE_Apparel_GhillieSuit.label>
+  <VAE_Apparel_GhillieSuit.description>환경과 유사하게 설계된 위장복입니다. 사용자에게 정확한 조준 시간을 제공하지만 방어력은 거의 없습니다.</VAE_Apparel_GhillieSuit.description>
+  <VAE_Apparel_AdvancedVest.label>고급 조끼</VAE_Apparel_AdvancedVest.label>
+  <VAE_Apparel_AdvancedVest.description>플라스틸로 보강된 복잡한 디자인의 경량 전투 조끼입니다. 팔다리를 보호해주진 않아요.</VAE_Apparel_AdvancedVest.description>
+  <VAE_Apparel_HAZMATSuit.label>화생방보호의</VAE_Apparel_HAZMATSuit.label>
+  <VAE_Apparel_HAZMATSuit.description>정신파 및 독성 효과로부터 완전히 보호할 수 있는 전신 불침투성 보호 장비입니다.\n\n착용자의 움직임과 조작을 제한할 뿐 아니라 어떠한 형태의 공격에도 방어할 수 없습니다.</VAE_Apparel_HAZMATSuit.description>
+  <VAE_Apparel_Gambeson.label>누비 갑옷</VAE_Apparel_Gambeson.label>
+  <VAE_Apparel_Gambeson.description>추운 기후에서 중간 정도의 방한 효과를 제공하는 패딩 처리된 방어 재킷입니다.</VAE_Apparel_Gambeson.description>
+  <VAE_Apparel_QuiltedVest.label>누비 조끼</VAE_Apparel_QuiltedVest.label>
+  <VAE_Apparel_QuiltedVest.description>이 누비로 된 방어 조끼는 추가 보호를 위해 갑옷 아래에 착용해야 합니다.</VAE_Apparel_QuiltedVest.description>
+  <VAE_Apparel_LightPlateArmor.label>경장갑 판금갑옷</VAE_Apparel_LightPlateArmor.label>
+  <VAE_Apparel_LightPlateArmor.description>가슴과 어깨에 단단한 판을 덮고 있는 갑옷입니다.</VAE_Apparel_LightPlateArmor.description>
+  <VAE_Apparel_PlateShoulderpads.label>판금 어깨 보호대</VAE_Apparel_PlateShoulderpads.label>
+  <VAE_Apparel_PlateShoulderpads.description>간단한 금속 어깨 보호대입니다.</VAE_Apparel_PlateShoulderpads.description>
+  <VAE_Apparel_Chestplate.label>흉갑</VAE_Apparel_Chestplate.label>
+  <VAE_Apparel_Chestplate.description>착용자를 대부분의 손상으로부터 보호해주지만, 착용자의 움직임을 상당히 제한하는 가슴 방어구입니다.</VAE_Apparel_Chestplate.description>
+  <VAE_Apparel_Chainmail.label>사슬갑옷</VAE_Apparel_Chainmail.label>
+  <VAE_Apparel_Chainmail.description>작은 금속 고리를 서로 연결해 그물처럼 만든 갑옷입니다.\n\n이 갑옷은 꽤 무거워서 착용자의 속도를 늦춥니다.</VAE_Apparel_Chainmail.description>
+  <VAE_Apparel_PlateHelmet.label>판금 투구</VAE_Apparel_PlateHelmet.label>
+  <VAE_Apparel_PlateHelmet.description>날카로운 공격에 대해 적당한 보호를 제공하는 금속 투구입니다.</VAE_Apparel_PlateHelmet.description>
+  <VAE_Apparel_WoodenArmor.label>나무 갑옷</VAE_Apparel_WoodenArmor.label>
+  <VAE_Apparel_WoodenArmor.description>통나무와 널빤지가 앞뒤를 덮고 있는 조끼입니다. 구경이 작은 총과 날카로운 근접무기에는 효과적이지만 둔기 및 소총에는 전혀 쓸모가 없습니다.</VAE_Apparel_WoodenArmor.description>
+  <VAE_Headgear_StoneWarMask.label>석재 전쟁 가면</VAE_Headgear_StoneWarMask.label>
+  <VAE_Headgear_StoneWarMask.description>예술적으로 무시무시한 전쟁 가면입니다. 착용자의 얼굴을 숨기고 더 자신감있게 만듭니다. 돌로 만들어 졌기 때문에 내구성이 뛰어나지만, 엄청나게 무겁습니다.</VAE_Headgear_StoneWarMask.description>
+  <VAE_Headgear_LightMarineHelmet.label>경장갑 해병 방탄모</VAE_Headgear_LightMarineHelmet.label>
+  <VAE_Headgear_LightMarineHelmet.description>경장갑 해병 방탄복의 방탄모로, 안면 전반부가 노출되어 있음에도 불구하고 착용자에게 고도의 상황 인식과 보호를 제공합니다.\n\n종종 제국 정찰대가 이런 방탄모를 자주 사용합니다.</VAE_Headgear_LightMarineHelmet.description>
+  <VAE_Apparel_LightMarineArmor.label>경장갑 해병 방탄복</VAE_Apparel_LightMarineArmor.label>
+  <VAE_Apparel_LightMarineArmor.description>가벼운 반동 방탄복 한 벌입니다. 얇은 플라스틸 판은 구경이 작은 총과 근접 공격을 막는 데 효과적이며 동시에 착용자가 감지되지 않고 빠르게 이동할 수 있도록 해줍니다.\n\n종종 제국 정찰대가 이런 방탄복을 자주 사용합니다.</VAE_Apparel_LightMarineArmor.description>
+  <VAE_Headgear_HeavyMarineHelmet.label>중장갑 해병 방탄모</VAE_Headgear_HeavyMarineHelmet.label>
+  <VAE_Headgear_HeavyMarineHelmet.description>중장갑 해병 방탄복의 방탄모로, 플라스틸로 이중 레이어 도금을 했으며 시각의 제한과 같은 약점을 없애기 위해 HUD 디스플레이 카메라가 내장되어 있습니다.\n\n이런 방탄모는 제국 돌격대들이 메카노이드 습격 때 사용하는 경우가 많은데, 이는 군인을 인간병기로 만들어 주기 때문입니다.</VAE_Headgear_HeavyMarineHelmet.description>
+  <VAE_Apparel_HeavyMarineArmor.label>중장갑 해병 방탄복</VAE_Apparel_HeavyMarineArmor.label>
+  <VAE_Apparel_HeavyMarineArmor.description>무거운 반동 방탄복 한 벌입니다. 이중으로 된 플라스틸 조직 판은 발사체와 폭발 모두에서 놀라울 정도로 효과적입니다. 신경기억 보조장치는 사람이 방탄복을 입고도 쉽게 움직일 수 있도록 해줍니다. 폭발 보호막이 내장되어 있어 착용자는 로켓에 직접 부딪혀도 살아남을 수 있으며, 이 때 보호막은 재충전할 시간이 필요합니다.\n\n이런 방탄복은 제국 돌격대들이 메카노이드 습격 때 사용하는 경우가 많은데, 이는 군인을 인간병기로 만들어 주기 때문입니다.</VAE_Apparel_HeavyMarineArmor.description>
+  <VAE_Headgear_Balaclava.label>안면마스크</VAE_Headgear_Balaclava.label>
+  <VAE_Headgear_Balaclava.description>전면 방직 마스크입니다. 안면인식을 어렵게 합니다.</VAE_Headgear_Balaclava.description>
+  <VAE_Headgear_NightVisionGoggles.label>야간투시경</VAE_Headgear_NightVisionGoggles.label>
+  <VAE_Headgear_NightVisionGoggles.description>야간에 착용자가 보다 정밀하게 무기를 조준할 수 있는 고글 세트입니다.</VAE_Headgear_NightVisionGoggles.description>
+  <VAE_Headgear_BallisticGoggles.label>탄도 고글</VAE_Headgear_BallisticGoggles.label>
+  <VAE_Headgear_BallisticGoggles.description>총상을 막을 수 있는 강화 고글 한 쌍입니다.</VAE_Headgear_BallisticGoggles.description>
+  <VAE_Headgear_GhillieHood.label>길리 후드</VAE_Headgear_GhillieHood.label>
+  <VAE_Headgear_GhillieHood.description>환경과 유사하게 설계된 위장 후드입니다. 사용자에게 정확한 조준 시간을 제공하지만 방어력은 거의 없습니다.</VAE_Headgear_GhillieHood.description>
+  <VAE_Headgear_HAZMATMask.label>화생방마스크</VAE_Headgear_HAZMATMask.label>
+  <VAE_Headgear_HAZMATMask.description>화생방보호의와 함께 정신파 및 독성 효과로부터 완전히 보호할 수 있는 전면 마스크입니다.</VAE_Headgear_HAZMATMask.description>
+
+</LanguageData>

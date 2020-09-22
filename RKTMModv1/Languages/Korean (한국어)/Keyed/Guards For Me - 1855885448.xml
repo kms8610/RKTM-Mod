@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GFM_DoStandguard>구역 지키기</GFM_DoStandguard>
+  <GFM_DoPatrolGuard>경로 순찰</GFM_DoPatrolGuard>
+  <GFM_DoBodyGuard>중요 인물 보호</GFM_DoBodyGuard>
+  <GFM_GuardSpotDirLeft>왼쪽</GFM_GuardSpotDirLeft>
+  <GFM_GuardSpotDirRight>오른쪽</GFM_GuardSpotDirRight>
+  <GFM_GuardSpotDirTop>위쪽</GFM_GuardSpotDirTop>
+  <GFM_GuardSpotDirBottom>아래쪽</GFM_GuardSpotDirBottom>
+  <GFM_patrolAlpha>검은색 순찰</GFM_patrolAlpha>
+  <GFM_patrolBeta>붉은색 순찰</GFM_patrolBeta>
+  <GFM_patrolGamma>주황색 순찰</GFM_patrolGamma>
+  <GFM_patrolDelta>노란색 순찰</GFM_patrolDelta>
+  <GFM_patrolEpsilon>초록색 순찰</GFM_patrolEpsilon>
+  <GFM_patrolZeta>파란색 순찰</GFM_patrolZeta>
+  <GFM_patrolEta>보라색 순찰</GFM_patrolEta>
+  <GFM_patrolTheta>분홍색 순찰</GFM_patrolTheta>
+  <GFM_patrolIota>회색 순찰</GFM_patrolIota>
+  <GFM_patrol>순찰</GFM_patrol>
+  <GFM_GuardMode>경비 태세</GFM_GuardMode>
+  <GFM_GuardModeDesc>경비지점에서 자동으로 할당받을 수 있도록 허용합니다.</GFM_GuardModeDesc>
+  <GFM_GuardSpotAffectedPawn>근무 경비원 : {0}</GFM_GuardSpotAffectedPawn>
+  <GFM_GuardSpotClearAffectedPawn>보호 취소</GFM_GuardSpotClearAffectedPawn>
+  <GFM_GuardSpotAffectGuard>경비 할당</GFM_GuardSpotAffectGuard>
+  <GFM_GuardSpotAffectGuardDesc>경비 지점에 경비원을 배치합니다.</GFM_GuardSpotAffectGuardDesc>
+  <GFM_GuardAttackOnlyNearThreats>근처 위협만</GFM_GuardAttackOnlyNearThreats>
+  <GFM_GuardAttackOnlyNearThreatsDesc>활성화하면 근처 위협만 공격하도록 경호원에게 지정할 수 있습니다.</GFM_GuardAttackOnlyNearThreatsDesc>
+  <GFM_GuardStopAll>모든 경호 중단</GFM_GuardStopAll>
+  <GFM_GuardStopAllDesc>이 정착민에 대한 모든 경호를 멈춥니다.</GFM_GuardStopAllDesc>
+  <GFM_GuardStop>경호 중단</GFM_GuardStop>
+  <GFM_GuardStopDesc>경호원이 이 정착민에 대한 경호를 멈춥니다.</GFM_GuardStopDesc>
+  <GFM_Guard>경호</GFM_Guard>
+  <GFM_GuardDesc>용병에게 특정한 정착민의 경호를 지정할 수 있고, 해당 정착민을 따라다니며 보호합니다.</GFM_GuardDesc>
+  <GFM_AlertWaypointsInfo>순찰로를 제거하려면 'DEL' 을 누르세요.</GFM_AlertWaypointsInfo>
+  <GFM_AlertWaypointsInfoDesc>현재 선택된 순찰대의 모든 순찰로를 제거하려면 'DEL'을 누르십시오</GFM_AlertWaypointsInfoDesc>
+  <GFM_AlertWaypointsInfo2>'백스페이스'를 눌러서 마지막 순찰 경로를 제거하십시오.</GFM_AlertWaypointsInfo2>
+  <GFM_AlertWaypointsInfo2Desc>'백스페이스'를 눌러 가장 최근의 순찰 경로를 제거하십시오.</GFM_AlertWaypointsInfo2Desc>
+  <GFM_MsgPatrolDestroyed>현재 순찰로가 삭제되었습니다</GFM_MsgPatrolDestroyed>
+  <GFM_MsgPatrolLastWaypointDestroyed>최근에 지정한 순찰 경로가 삭제되었습니다</GFM_MsgPatrolLastWaypointDestroyed>
+  <GFM_SettingsSectionGeneral>기본:</GFM_SettingsSectionGeneral>
+  <GFM_SettingsEndPathMode>경비원이 순찰로 끝에 도달했을 때:</GFM_SettingsEndPathMode>
+  <GFM_SettingsEndPathMode1>방향을 반대로 순찰을 시작합니다</GFM_SettingsEndPathMode1>
+  <GFM_SettingsEndPathMode2>첫 번째 순찰 경로로 되돌아갑니다</GFM_SettingsEndPathMode2>
+  <GFM_SettingsJobStop>작업 중지</GFM_SettingsJobStop>
+  <GFM_SettingsFoodMinimumThresholdStopJob>음식 최소 임계값 ({0}%)</GFM_SettingsFoodMinimumThresholdStopJob>
+  <GFM_SettingsRestMinimumThresholdStopJob>휴식 최소 임계값 ({0}%)</GFM_SettingsRestMinimumThresholdStopJob>
+  <GFM_SettingsBladderMinimumThresholdStopJob>배변 최소 임계값 (Dubs bad Hygiene 모드) ({0}%)</GFM_SettingsBladderMinimumThresholdStopJob>
+  <GFM_SettingsHygieneMinimumThresholdStopJob>위생 최소 임계값 (Dubs bad Hygiene 모드) ({0}%)</GFM_SettingsHygieneMinimumThresholdStopJob>
+  <GFM_SettingsPatrolWalkMode>순찰을 하는 보행 방식</GFM_SettingsPatrolWalkMode>
+  <GFM_SettingsPatrolWalkModeWalk>걷기</GFM_SettingsPatrolWalkModeWalk>
+  <GFM_SettingsPatrolWalkModeJog>가볍게 뛰기</GFM_SettingsPatrolWalkModeJog>
+  <GFM_SettingsPatrolWalkModeSprint>질주</GFM_SettingsPatrolWalkModeSprint>
+  <GFM_SettingsHideIcon>기호 숨기기</GFM_SettingsHideIcon>
+  <GFM_SettingsHideGuardSpot>경비 지점 숨기기</GFM_SettingsHideGuardSpot>
+  <GFM_SettingsGuardAsJob>"경비" 기능을 작업으로 제공 (작업 창의 기능 활성화)</GFM_SettingsGuardAsJob>
+  <GFM_SettingsStandGuardAreFixed>경비원은 반격할 때 경비 지점에서 움직이지 않음 (원거리 공격만 해당)</GFM_SettingsStandGuardAreFixed>
+  <GFM_SettingsDisableJobDisplay>수행된 경비 작업을 검사 창에 따로 표시하지 않음</GFM_SettingsDisableJobDisplay>
+  <GFM_SettingsExterminatorGuard>몰살 모드를 활성화 (추가로 모든 야생 동물을 경비원이 공격함)</GFM_SettingsExterminatorGuard>
+
+</LanguageData>

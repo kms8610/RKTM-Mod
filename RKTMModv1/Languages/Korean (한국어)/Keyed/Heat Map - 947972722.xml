@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FALCHM.OverlayOpacity>표시 투명도</FALCHM.OverlayOpacity>
+  <FALCHM.OverlayOpacityDesc>표시를 더 투명하게 만드려면 이 값을 줄이세요.</FALCHM.OverlayOpacityDesc>
+  <FALCHM.UpdateDelay>표시의 갱신 지연율</FALCHM.UpdateDelay>
+  <FALCHM.UpdateDelayDesc>게임이 일시 중지되지 않은 상태에서, 갱신의 지연 간격이 낮을수록 표시가 더 정확해지지만, 컴퓨터의 성능에 영향을 줄 수 있습니다.</FALCHM.UpdateDelayDesc>
+  <FALCHM.ShowOutDoorThermometer>실외 온도계 표시</FALCHM.ShowOutDoorThermometer>
+  <FALCHM.ShowOutDoorThermometerDesc>화면 오른쪽 상단에 현재 실외 온도계를 표시합니다.</FALCHM.ShowOutDoorThermometerDesc>
+  <FALCHM.ThermometerOpacity>온도계 투명도</FALCHM.ThermometerOpacity>
+  <FALCHM.ThermometerOpacityDesc>실외 온도계의 배경색을 더 투명하게 만드려면 이 값을 줄이세요.</FALCHM.ThermometerOpacityDesc>
+  <FALCHM.ThermometerTooltip>실외 온도계. 클릭하면 온도 표시로 전환됩니다. 이 온도계는 모드 설정에서 표시를 비활성화 할 수 있습니다.</FALCHM.ThermometerTooltip>
+  <FALCHM.ShowHeatMap>온도 표시 보기</FALCHM.ShowHeatMap>
+  <FALCHM.UseCustomeRange>사용자 정의 범위</FALCHM.UseCustomeRange>
+  <FALCHM.UseCustomeRangeDesc>비활성시 색상 표시가 게임에서 정의한, 인간에게 안락한 온도 범위에 자동 적용됩니다.\n\n활성화하면 현재 온도 단위로, 표시의 파란색과 빨간색에 대한 사용자 지정 온도 범위를 설정할 수 있습니다.</FALCHM.UseCustomeRangeDesc>
+  <FALCHM.CustomRangeMin>사용자 정의 최소 범위</FALCHM.CustomRangeMin>
+  <FALCHM.CustomRangeMinDesc>파란색 표시의 최소값입니다. 이 아래의 온도는 파란색이며, 현재 온도 단위 기준입니다.</FALCHM.CustomRangeMinDesc>
+  <FALCHM.CustomRangeMax>사용자 정의 최대 범위</FALCHM.CustomRangeMax>
+  <FALCHM.CustomRangeMaxDesc>붉은색 표시의 최대값입니다. 이보다 높은 온도는 붉은색이며, 현재 온도 단위 기준입니다.</FALCHM.CustomRangeMaxDesc>
+  <FALCHM.ShowTemperatureOverRooms>방 온도 표시</FALCHM.ShowTemperatureOverRooms>
+  <FALCHM.ShowTemperatureOverRoomsDesc>온도 표시가 켜져 있을 때, 실내 중앙에 숫자로 온도를 표시합니다.</FALCHM.ShowTemperatureOverRoomsDesc>
+
+</LanguageData>

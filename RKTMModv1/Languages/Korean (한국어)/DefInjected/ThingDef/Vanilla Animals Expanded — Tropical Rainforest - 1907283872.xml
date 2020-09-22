@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_Leather_Tiger.label>호랑이 가죽</AEXP_Leather_Tiger.label>
+  <AEXP_Leather_Tiger.description>지구에서 호랑이는 종종 고급스러운 가죽 때문에 밀렵꾼들의 표적이 되었는데, 그 때문에 호랑이를 거의 멸종으로 몰고 갔습니다. 변경계의 무법천지에서 온전한 호랑이 가죽은 정착지 간의 거래를 위한 또 다른 이국적인 상품으로 여겨집니다.</AEXP_Leather_Tiger.description>
+  <AEXP_Leather_Tiger.stuffProps.stuffAdjective>호랑이 가죽</AEXP_Leather_Tiger.stuffProps.stuffAdjective>
+  <AEXP_Gorilla.label>고릴라</AEXP_Gorilla.label>
+  <AEXP_Gorilla.description>이 지상에 사는 초식 유인원은 현존하는 영장류 중에서 가장 큰 것으로 침팬지와 보노보 다음으로 인간과 가장 가까운 종입니다. 모든 유인원과 마찬가지로 고릴라의 팔은 다리보다 깁니다. 고릴라들은 대개 놀랄 정도로 수줍어하지만, 그들의 사회집단이 위협을 받을 경우 가슴을 치면서 돌진하여 공격성을 보일 수 있습니다.</AEXP_Gorilla.description>
+  <AEXP_Gorilla.tools.0.label>왼쪽 주먹</AEXP_Gorilla.tools.0.label>
+  <AEXP_Gorilla.tools.1.label>오른쪽 주먹</AEXP_Gorilla.tools.1.label>
+  <AEXP_Gorilla.tools.3.label>머리</AEXP_Gorilla.tools.3.label>
+  <AEXP_Gorilla_Leather.label>고릴라 가죽</AEXP_Gorilla_Leather.label>
+  <AEXP_Gorilla_Leather.description>고릴라의 가죽입니다.</AEXP_Gorilla_Leather.description>
+  <AEXP_Gorilla_Leather.stuffProps.stuffAdjective>고릴라 가죽</AEXP_Gorilla_Leather.stuffProps.stuffAdjective>
+  <AEXP_Gorilla_Meat.label>영장류 고기</AEXP_Gorilla_Meat.label>
+  <AEXP_Gorilla_Meat.description>영장류의 고기입니다.</AEXP_Gorilla_Meat.description>
+  <AEXP_Gorilla_Corpse.label>고릴라 시체</AEXP_Gorilla_Corpse.label>
+  <AEXP_Gorilla_Corpse.description>고릴라의 시체입니다.</AEXP_Gorilla_Corpse.description>
+  <AEXP_Jaguar.label>재규어</AEXP_Jaguar.label>
+  <AEXP_Jaguar.description>거대한 고양잇과 종이자, 지구의 표범과에 속하는 유일한 종입니다. 이 얼룩 고양이는 표범과 매우 비슷하지만, 보통 더 크며 튼튼합니다. 재규어는 주로 덤불 속에서 단독생활을 하며 수영을 즐깁니다. 매복에 능하고 먹이 사슬의 꼭대기에 있는 포식자입니다.</AEXP_Jaguar.description>
+  <AEXP_Jaguar.tools.0.label>왼쪽 발톱</AEXP_Jaguar.tools.0.label>
+  <AEXP_Jaguar.tools.1.label>오른쪽 발톱</AEXP_Jaguar.tools.1.label>
+  <AEXP_Jaguar.tools.3.label>머리</AEXP_Jaguar.tools.3.label>
+  <AEXP_Jaguar_Leather.label>재규어 가죽</AEXP_Jaguar_Leather.label>
+  <AEXP_Jaguar_Leather.description>재규어의 가죽입니다.</AEXP_Jaguar_Leather.description>
+  <AEXP_Jaguar_Leather.stuffProps.stuffAdjective>재규어 가죽</AEXP_Jaguar_Leather.stuffProps.stuffAdjective>
+  <AEXP_Jaguar_Meat.label>재규어 고기</AEXP_Jaguar_Meat.label>
+  <AEXP_Jaguar_Meat.description>재규어의 고기입니다.</AEXP_Jaguar_Meat.description>
+  <AEXP_Jaguar_Corpse.label>재규어 시체</AEXP_Jaguar_Corpse.label>
+  <AEXP_Jaguar_Corpse.description>재규어의 시체입니다.</AEXP_Jaguar_Corpse.description>
+  <AEXP_Lemur.label>여우원숭이</AEXP_Lemur.label>
+  <AEXP_Lemur.description>여우원숭이는 나무 위에서 사는 야행성의 작은 영장류입니다. 뾰족한 콧구멍, 큰 눈, 그리고 긴 꼬리를 가진 여우원숭이는 사회적인 생물체이지만, 도구를 사용할 만큼 똑똑하지 않기 때문에 다른 영장류들보다 지능이 떨어지는 것으로 보입니다.</AEXP_Lemur.description>
+  <AEXP_Lemur.tools.0.label>왼쪽 주먹</AEXP_Lemur.tools.0.label>
+  <AEXP_Lemur.tools.1.label>오른쪽 주먹</AEXP_Lemur.tools.1.label>
+  <AEXP_Lemur.tools.3.label>머리</AEXP_Lemur.tools.3.label>
+  <AEXP_Lemur_Leather.label>여우원숭이 가죽</AEXP_Lemur_Leather.label>
+  <AEXP_Lemur_Leather.description>여우원숭이의 가죽입니다.</AEXP_Lemur_Leather.description>
+  <AEXP_Lemur_Leather.stuffProps.stuffAdjective>여우원숭이 가죽</AEXP_Lemur_Leather.stuffProps.stuffAdjective>
+  <AEXP_Lemur_Corpse.label>여우원숭이 시체</AEXP_Lemur_Corpse.label>
+  <AEXP_Lemur_Corpse.description>여우원숭이의 시체입니다.</AEXP_Lemur_Corpse.description>
+  <AEXP_Mandrill.label>개코원숭이</AEXP_Mandrill.label>
+  <AEXP_Mandrill.description>개코원숭이는 가장 큰 원숭이 중 하나입니다. 그들은 열대우림에서만 사는 수줍고 독창적인 영장류입니다. 또한 얼굴에 푸른 색과 붉은 색의 피부와 밝은 색조의 엉덩이로 쉽게 식별 할 수 있어서 매우 화려하며, 아마도 다른 포유동물보다 더 다채로울 것입니다.</AEXP_Mandrill.description>
+  <AEXP_Mandrill.tools.0.label>왼쪽 주먹</AEXP_Mandrill.tools.0.label>
+  <AEXP_Mandrill.tools.1.label>오른쪽 주먹</AEXP_Mandrill.tools.1.label>
+  <AEXP_Mandrill.tools.3.label>머리</AEXP_Mandrill.tools.3.label>
+  <AEXP_Mandrill_Leather.label>개코원숭이 가죽</AEXP_Mandrill_Leather.label>
+  <AEXP_Mandrill_Leather.description>개코원숭이의 가죽입니다.</AEXP_Mandrill_Leather.description>
+  <AEXP_Mandrill_Leather.stuffProps.stuffAdjective>개코원숭이 가죽</AEXP_Mandrill_Leather.stuffProps.stuffAdjective>
+  <AEXP_Mandrill_Corpse.label>개코원숭이 시체</AEXP_Mandrill_Corpse.label>
+  <AEXP_Mandrill_Corpse.description>개코원숭이의 시체입니다.</AEXP_Mandrill_Corpse.description>
+  <AEXP_Tapir.label>맥</AEXP_Tapir.label>
+  <AEXP_Tapir.description>돼지와 비슷한 모양의 큰 초식성 포유동물이며, 짧은 코 주둥이를 가진 맥은 정글과 숲 지역에 서식합니다.</AEXP_Tapir.description>
+  <AEXP_Tapir.tools.1.label>머리</AEXP_Tapir.tools.1.label>
+  <AEXP_Tapir_Leather.label>맥 가죽</AEXP_Tapir_Leather.label>
+  <AEXP_Tapir_Leather.description>맥의 가죽입니다.</AEXP_Tapir_Leather.description>
+  <AEXP_Tapir_Leather.stuffProps.stuffAdjective>맥 가죽</AEXP_Tapir_Leather.stuffProps.stuffAdjective>
+  <AEXP_Tapir_Corpse.label>맥 시체</AEXP_Tapir_Corpse.label>
+  <AEXP_Tapir_Corpse.description>맥의 시체입니다.</AEXP_Tapir_Corpse.description>
+  <AEXP_Tiger.label>호랑이</AEXP_Tiger.label>
+  <AEXP_Tiger.description>호랑이는 고양잇과 중에서도 가장 큰 종입니다. 붉은 오렌지색 모피에 어두운 세로 줄무늬가 나있으며 밑으로 갈수록 털이 더 밝습니다. 야생에서 호랑이는 대부분 크고 작은 포유류를 잡아먹고 살며, 자기만의 영토 안에서 독립생활을 하는 정점의 포식자입니다.</AEXP_Tiger.description>
+  <AEXP_Tiger.tools.0.label>왼쪽 발톱</AEXP_Tiger.tools.0.label>
+  <AEXP_Tiger.tools.1.label>오른쪽 발톱</AEXP_Tiger.tools.1.label>
+  <AEXP_Tiger.tools.3.label>머리</AEXP_Tiger.tools.3.label>
+  <AEXP_Tiger_Leather.label>호랑이 가죽</AEXP_Tiger_Leather.label>
+  <AEXP_Tiger_Leather.description>호랑이의 가죽입니다.</AEXP_Tiger_Leather.description>
+  <AEXP_Tiger_Leather.stuffProps.stuffAdjective>호랑이 가죽</AEXP_Tiger_Leather.stuffProps.stuffAdjective>
+  <AEXP_Tiger_Meat.label>호랑이 고기</AEXP_Tiger_Meat.label>
+  <AEXP_Tiger_Meat.description>호랑이의 고기입니다.</AEXP_Tiger_Meat.description>
+  <AEXP_Tiger_Corpse.label>호랑이 시체</AEXP_Tiger_Corpse.label>
+  <AEXP_Tiger_Corpse.description>호랑이의 시체입니다.</AEXP_Tiger_Corpse.description>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFBrahmin.label>브라민</PFBrahmin.label>
+  <PFBighorner.label>빅호너</PFBighorner.label>
+  <PFGiantGecko.label>자이언트 게코</PFGiantGecko.label>
+  <PFRadscorpion.label>방사능 전갈</PFRadscorpion.label>
+  <PFRadroach.label>방사능 바퀴</PFRadroach.label>
+  <PFMoleRat.label>땅두더지</PFMoleRat.label>
+  <PFVaultDweller.label>볼트 거주민</PFVaultDweller.label>
+  <PFVaultScientist.label>볼트 과학자</PFVaultScientist.label>
+  <PFVaultOverseer.label>볼트 오버시어</PFVaultOverseer.label>
+  <PFVaultMerchant.label>볼트 상인</PFVaultMerchant.label>
+  <PFVaultSecurityGuard.label>볼트 경비원</PFVaultSecurityGuard.label>
+
+</LanguageData>

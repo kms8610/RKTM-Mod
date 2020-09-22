@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1240656304_190617_Lighter Than Fast-->
+  <EngiesTribeScenario.label>오직 엔지만</EngiesTribeScenario.label>
+  <EngiesTribeScenario.description>var aa,ba,ca,da,ea;</EngiesTribeScenario.description>
+  <EngiesTribeScenario.scenario.name>Engies only, you motherboard f*cker</EngiesTribeScenario.scenario.name>
+  <EngiesTribeScenario.scenario.summary>IA rul3z</EngiesTribeScenario.scenario.summary>
+  <EngiesTribeScenario.scenario.description>var aa,ba,ca,da,ea;</EngiesTribeScenario.scenario.description>
+  <EngiesTribeScenario.scenario.parts.19.text>; engie.asm\n; assemble using nasm: \n; nasm -o engie.com -f bin engie.asm\nmov ax,'00' ; initialize to all ASCII zeroes\nmov di,counter ; including the counter\nmov cx,digits+cntDigits/2 ; two bytes at a time\ncld ; initialize from low to high memory\nrep stosw ; write the data\ninc ax ; make sure ASCII zero is in al\nmov [num1 + digits - 1],al ; last digit is one\nmov [num2 + digits - 1],al ; \nmov [counter + cntDigits - 1],al\n\njmp .bottom ; done with initialization, so begin</EngiesTribeScenario.scenario.parts.19.text>
+  <MantissTribeScenario.label>도살장을 원하나, 친구?</MantissTribeScenario.label>
+  <MantissTribeScenario.description>아마도 그것이 부의 지름길일 것입니다.</MantissTribeScenario.description>
+  <MantissTribeScenario.scenario.name>도살장을 원하나, 친구?</MantissTribeScenario.scenario.name>
+  <MantissTribeScenario.scenario.summary>머리없는 약탈자는 별로 그렇지 않을테지만</MantissTribeScenario.scenario.summary>
+  <MantissTribeScenario.scenario.description>아마도 그것이 부의 지름길일 것입니다.</MantissTribeScenario.scenario.description>
+  <MantissTribeScenario.scenario.parts.14.text>맨티스의 정착지는 개인의 집합체, 그 이상입니다. 통합된 사회로 기능하는 복합적인 존재들입니다. 살을 취하는 정착지는 음식 섭취와 소화, 영양 균형, 자원 순환, 호흡, 수분 조절, 체온 조절, 환경 감지 등 생명을 지탱하는 모든 기본적인 생리과정을 하나의 살아있는 실체처럼 정확하게 할 수 있습니다. 환경을 감지하고 행동하는 방법을 결정하며, 이를 통해 목표를 달성합니다.</MantissTribeScenario.scenario.parts.14.text>
+  <RockmansTribeScenario.label>오직 락맨만</RockmansTribeScenario.label>
+  <RockmansTribeScenario.description>탑도, 테크노도 없습니다.</RockmansTribeScenario.description>
+  <RockmansTribeScenario.scenario.name>오직 락맨만</RockmansTribeScenario.scenario.name>
+  <RockmansTribeScenario.scenario.summary>롤링 스톤이 더 났죠.</RockmansTribeScenario.scenario.summary>
+  <RockmansTribeScenario.scenario.description>탑도, 테크노도 없습니다.</RockmansTribeScenario.scenario.description>
+  <RockmansTribeScenario.scenario.parts.19.text>A mountain chain is a row of high mountain summits, a linear sequence of interconnected or related mountains,[1] or a contiguous ridge of mountains within a larger mountain range. The term is also used for elongated fold mountains with several parallel chains ("chain mountains"). While in mountain ranges, the term mountain chain is common, in hill ranges a sequence of hills tends to be referred to a ridge or hill chain. Elongated mountain chains occur most frequently in the orogeny of fold mountains, (that are folded by lateral pressure), and nappe belts (where a sheetlike body of rock has been pushed over another rock mass). Other types of range such as horst ranges, fault block mountain or truncated uplands rarely form parallel mountain chains. However, if a truncated upland is eroded into a high table land, the incision of valleys can lead to the formations of mountain or hill chains.</RockmansTribeScenario.scenario.parts.19.text>
+  <SlugsTribeScenario.label>슬러그</SlugsTribeScenario.label>
+  <SlugsTribeScenario.description>소금은 안됩니다.</SlugsTribeScenario.description>
+  <SlugsTribeScenario.scenario.name>슬러그</SlugsTribeScenario.scenario.name>
+  <SlugsTribeScenario.scenario.summary>하루종일 분비물을 흘리고</SlugsTribeScenario.scenario.summary>
+  <SlugsTribeScenario.scenario.description>소금은 안됩니다.</SlugsTribeScenario.scenario.description>
+  <SlugsTribeScenario.scenario.parts.15.text>The Gastropoda or gastropods, more commonly known as snails and slugs, are a large taxonomic class within the phylum Mollusca. The class Gastropoda includes snails and slugs of all kinds and all sizes from microscopic to Achatina achatina, the largest known land gastropod. There are many thousands of species of sea snails and sea slugs, as well as freshwater snails, freshwater limpets, land snails and land slugs.</SlugsTribeScenario.scenario.parts.15.text>
+  <ZoltansTribeScenario.label>햇빛따윈 필요없다</ZoltansTribeScenario.label>
+  <ZoltansTribeScenario.description>A battery is a source of electrical energy – it provides the ‘pressure’ which causes electricity to flow. We measure this electrical pressure in volts, V. The higher the voltage, the greater the pressure. The flow of electricity is called current and is measured in amps, A. If a single battery makes a bulb glow dimly, two batteries connected in series as in circuit bellow will make it glow brighter. In the next circuit, 4 batteries are connected in series so the total tension will be V1 + V2 + V3 + V4.</ZoltansTribeScenario.description>
+  <ZoltansTribeScenario.scenario.name>햇빛따윈 필요없다</ZoltansTribeScenario.scenario.name>
+  <ZoltansTribeScenario.scenario.summary>Calculate the equivalent resistor and the current in the battery. Remember: In a series circuit, the total resistance of the circuit (also called effective resistance) is equal to the sum of the individual resistances, so Re = R1 + R2 + R3 … In a parallel circuit, a quicker method of finding the equivalent resistance is to use the general formula: 1 / Re = 1/R1 + 1/R2 + 1/R3...</ZoltansTribeScenario.scenario.summary>
+  <ZoltansTribeScenario.scenario.description>A battery is a source of electrical energy – it provides the ‘pressure’ which causes electricity to flow. We measure this electrical pressure in volts, V. The higher the voltage, the greater the pressure. The flow of electricity is called current and is measured in amps, A. If a single battery makes a bulb glow dimly, two batteries connected in series as in circuit bellow will make it glow brighter. In the next circuit, 4 batteries are connected in series so the total tension will be V1 + V2 + V3 + V4.</ZoltansTribeScenario.scenario.description>
+  <ZoltansTribeScenario.scenario.parts.16.text>Electric power is the rate, per unit time, at which electrical energy is transferred by an electric circuit. The SI unit of power is the watt, one joule per second. Electric power is usually produced by electric generators, but can also be supplied by sources such as electric batteries. It is usually supplied to businesses and homes by the electric power industry through an electric power grid. Electric power is usually sold by the kilowatt hour (3.6 MJ) which is the product of power in kilowatts multiplied by running time in hours. Electric utilities measure power using an electricity meter, which keeps a running total of the electric energy delivered to a customer. Electrical power provides a low entropy form of energy and can be carried long distances and converted into other forms of energy such as motion, light or heat with high energy efficiency.</ZoltansTribeScenario.scenario.parts.16.text>
+
+  <!--1267084448_190816_Filthy Orc Invasion-->
+  <OrcScenario.label>침략</OrcScenario.label>
+  <OrcScenario.description>침략</OrcScenario.description>
+  <OrcScenario.scenario.name>침략</OrcScenario.scenario.name>
+  <OrcScenario.scenario.summary>고대의 적들을 쫓는 4마리의 오크들이 새로운 세계를 정복하기 위해 함께 뭉쳤습니다.</OrcScenario.scenario.summary>
+  <OrcScenario.scenario.description>마기 엘프 연합군이 마왕의 요새의 내부 문을 침입했을 때, 확실하게 승리할 것처럼 보였습니다. 하지만 그 워락은 시간과 공간을 가로질러 그들을 운반했고, 두꺼운 안개로 그들이 패배한것처럼 속였습니다. 안개가 걷히면서 오크들은 더 이상 마왕 요새의 삼총이 아니며, 풍족한 세상에 둘러싸여 있다는 것을 알게 되었습니다. 그러나 연합군이 마왕군을 그렇게 쉽게 탈출하게 할 것 같지 않습니다.</OrcScenario.scenario.description>
+  <OrcScenario.scenario.parts.10.text>이제 오랫동안 묶고있던 마왕의 힘은 사라졌고, 오크의 작은 씨족은 새로운 세계로 영역을 넓히기 시작되었습니다. 오크족의 침략이 시작됩니다!</OrcScenario.scenario.parts.10.text>
+
+  <!--1294507772_190519_The Mantodean insectoid race-->
+  <Mantohive.label>맨토디안 둥지</Mantohive.label>
+  <Mantohive.description>맨토디안의 둥지는 인구가 많아지면 일부를 독립시켜 멀리 떨어진 곳에 새 둥지를 마련합니다. 이들 중 대부분은 떠돌이 물가 되지만, 다른 일부는 이에 성공하기도 합니다.</Mantohive.description>
+  <Mantohive.scenario.name>맨토디안 둥지</Mantohive.scenario.name>
+  <Mantohive.scenario.summary>새로운 고향을 찾고있는 맨토디안들입니다.</Mantohive.scenario.summary>
+  <Mantohive.scenario.description>맨토디안의 둥지는 인구가 많아지면 일부를 독립시켜 멀리 떨어진 곳에 새 둥지를 마련합니다. 이들 중 대부분은 떠돌이 물가 되지만, 다른 일부는 이에 성공하기도 합니다.</Mantohive.scenario.description>
+  <Mantohive.scenario.parts.10.text>우리의 오래된 둥지는 인구가 너무 많아져 독립할 수 밖에 없었습니다.</Mantohive.scenario.parts.10.text>
+
+  <!--1342510409_190627_Astoriel-->
+  <AstorielScenario.label>아스토리엘</AstorielScenario.label>
+  <AstorielScenario.description>세명의 아스토리엘이 지상에 추락했습니다.</AstorielScenario.description>
+  <AstorielScenario.scenario.name>아스토리엘</AstorielScenario.scenario.name>
+  <AstorielScenario.scenario.summary>아스토리엘 시작.</AstorielScenario.scenario.summary>
+  <AstorielScenario.scenario.description>세명의 아스토리엘이 지상에 추락했습니다.</AstorielScenario.scenario.description>
+
+  <!--1365540920_190714_Black Widows-->
+  <BlackWidowScenario.label>심층 작업</BlackWidowScenario.label>
+  <BlackWidowScenario.description>성간 순양함에 대한 해적들의 공격에서 단 두 명만이 살아남았습니다. 이제 알려지지 않은 변방계에 좌초된 그들은 생존을 위해 지배력을 확립해야만 합니다. 진행이 매우 느리지만, 당신의 발전이 이를 극복할 수 있을 것입니다.</BlackWidowScenario.description>
+  <BlackWidowScenario.scenario.name>심층 작업</BlackWidowScenario.scenario.name>
+  <BlackWidowScenario.scenario.summary>두 명의 블랙 위도우 시작 자원이 적습니다.</BlackWidowScenario.scenario.summary>
+  <BlackWidowScenario.scenario.description>성간 순양함에 대한 해적들의 공격에서 단 두 명만이 살아남았습니다. 이제 알려지지 않은 변방계에 좌초된 그들은 생존을 위해 지배력을 확립해야만 합니다. 진행이 매우 느리지만, 당신의 발전이 이를 극복할 수 있을 것입니다.</BlackWidowScenario.scenario.description>
+
+  <!--1400227853_190602_Lord of the Rims - Hobbits-->
+  <LotRH_AnUnexpectedColony.label>호빗 - 뜻밖의 정착지</LotRH_AnUnexpectedColony.label>
+  <LotRH_AnUnexpectedColony.description>지루함과 친척간의 말다툼에 지쳐, 털복숭이 발을 가진 이 호빗들은 고향을 떠나 새로운 정착지를 찾는 여정을 떠났습니다.</LotRH_AnUnexpectedColony.description>
+  <LotRH_AnUnexpectedColony.scenario.name>호빗 - 뜻밖의 정착지</LotRH_AnUnexpectedColony.scenario.name>
+  <LotRH_AnUnexpectedColony.scenario.summary>네 명의 호빗이 새 고향을 만들고자 모였습니다.</LotRH_AnUnexpectedColony.scenario.summary>
+  <LotRH_AnUnexpectedColony.scenario.description>지루함과 친척간의 말다툼에 지쳐, 털복숭이 발을 가진 이 호빗들은 고향을 떠나 새로운 정착지를 찾는 여정을 떠났습니다.</LotRH_AnUnexpectedColony.scenario.description>
+
+  <!--1400234784_190526_Lord of the Rims - Elves-->
+  <LotRE_ANewTerritory.label>엘프 - 새로운 영역</LotRE_ANewTerritory.label>
+  <LotRE_ANewTerritory.description>고위 의회의 결정으로 네 명의 정착민들을 새로운 땅으로 보내게 되었습니다. 그들은 번성하는 도시나 웅장한 요새를 건설할 수 있을까요?</LotRE_ANewTerritory.description>
+  <LotRE_ANewTerritory.scenario.name>엘프 - 새로운 영역</LotRE_ANewTerritory.scenario.name>
+  <LotRE_ANewTerritory.scenario.summary>네 명의 엘프들이 새로운 엘프의 영역을 세우는 것을 돕고자 합니다.</LotRE_ANewTerritory.scenario.summary>
+  <LotRE_ANewTerritory.scenario.description>고위 의회의 결정으로 네 명의 정착민들을 새로운 땅으로 보내게 되었습니다. 그들은 번성하는 도시나 웅장한 요새를 건설할 수 있을까요?</LotRE_ANewTerritory.scenario.description>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <LotRD_Homeless.label>드워프들 - 유랑자들</LotRD_Homeless.label>
+  <LotRD_Homeless.description>위험한 암흑의 군세에 의해 선조들의 고향으로부터 내몰려진 이 드워프 파티는 남은 가축들을 이끌고 정착지를 만들고자 합니다.</LotRD_Homeless.description>
+  <LotRD_Homeless.scenario.name>드워프들 - 유랑자들</LotRD_Homeless.scenario.name>
+  <LotRD_Homeless.scenario.summary>피난처를 찾는 네 명의 드워프들과 그들의 가축들입니다.</LotRD_Homeless.scenario.summary>
+  <LotRD_Homeless.scenario.description>위험한 암흑의 군세에 의해 선조들의 고향으로부터 내몰려진 이 드워프 파티는 남은 가축들을 이끌고 정착지를 만들고자 합니다.</LotRD_Homeless.scenario.description>
+
+  <!--1416483638_190811_Orassans-->
+  <OrassanScenario.label>충돌</OrassanScenario.label>
+  <OrassanScenario.description>오라산 제국과 니'할 대기업간의 충돌로 인해 우주선이 지속 불가능한 피해를 입어 다섯 명이 가까스로 탈출했습니다. 다행히도 당신은 정착지화되는 과정에 있던 거주 가능한 행성 위에 있었습니다. 그러나 위험 요소가 행성에 존재하고 적대적인 동물 군이 많습니다. 제한된 지원만 받을 수 있습니다.</OrassanScenario.description>
+  <OrassanScenario.scenario.name>충돌</OrassanScenario.scenario.name>
+  <OrassanScenario.scenario.summary>다섯 명의 오라산이 배가 파괴되기 직전 가까스로 탈출포트에 도착할 수 있었습니다.</OrassanScenario.scenario.summary>
+  <OrassanScenario.scenario.description>오라산 제국과 니'할 대기업간의 충돌로 인해 우주선이 지속 불가능한 피해를 입어 다섯 명이 가까스로 탈출했습니다. 다행히도 당신은 정착지화되는 과정에 있던 거주 가능한 행성 위에 있었습니다. 그러나 위험 요소가 행성에 존재하고 적대적인 동물 군이 많습니다. 제한된 지원만 받을 수 있습니다.</OrassanScenario.scenario.description>
+
+  <!--1468290672_181114_Troll Race-->
+  <PPTrollCamp.label>트롤 무리</PPTrollCamp.label>
+  <PPTrollCamp.description>트롤 3인조는 무엇을 할까요? 먹을 것과 빛나는 물건을 사기 위해 정착지를 구성할까요? 아니면 다음 희생자가 와서 식사할 때까지 기다릴까요?</PPTrollCamp.description>
+  <PPTrollCamp.scenario.name>트롤 무리</PPTrollCamp.scenario.name>
+  <PPTrollCamp.scenario.summary>끔찍한 트롤 3마리</PPTrollCamp.scenario.summary>
+  <PPTrollCamp.scenario.description>트롤 3인조는 무엇을 할까요? 먹을 것과 빛나는 물건을 사기 위해 정착지를 구성할까요? 아니면 다음 희생자가 와서 식사할 때까지 기다릴까요?</PPTrollCamp.scenario.description>
+  <PPTrollCamp.scenario.parts.9.text>며칠 동안 이 지역을 떠돌다가 정착지로 꾸미시겠습니까, 아니면 먹을 것과 반짝이는 것들을 계속 찾으시겠습니까?</PPTrollCamp.scenario.parts.9.text>
+
+  <!--1541567184_181112_Ni'Hal-->
+  <NihalScenario.label>정화</NihalScenario.label>
+  <NihalScenario.description>당신의 분대는 이 지역을 안전하게 유지하기 위해 파견되었습니다. 가능한한 모든 더러운 외계인들을 죽이십시오 규칙: 1. 당신은 외계인을 포획할 수는 있지만 그들을 고용한 수는 없습니다. 2. 죄수 중 오직 여성만이 잘 대우받을 수 있습니다.(침대를 주고 규칙적인 식사가 가능합니다.) 3. 남성 죄수들은 탈진할 때 까지 일만 하게 될 것입니다.(죄수 노동모드가 있을 경우에 한함. 그렇지 않으면 죽이거나 잡아먹으면 됩니다.) 4. 당신은 '절대' 다른 외계인과 거래할 수 없습니다.</NihalScenario.description>
+  <NihalScenario.scenario.name>정화</NihalScenario.scenario.name>
+  <NihalScenario.scenario.summary>착한 외계인은 죽은 외계인 뿐입니다.</NihalScenario.scenario.summary>
+  <NihalScenario.scenario.description>당신의 분대는 이 지역을 안전하게 유지하기 위해 파견되었습니다. 가능한한 모든 더러운 외계인들을 죽이십시오 규칙: 1. 당신은 외계인을 포획할 수는 있지만 그들을 고용한 수는 없습니다. 2. 죄수 중 오직 여성만이 잘 대우받을 수 있습니다.(침대를 주고 규칙적인 식사가 가능합니다.) 3. 남성 죄수들은 탈진할 때 까지 일만 하게 될 것입니다.(죄수 노동모드가 있을 경우에 한함. 그렇지 않으면 죽이거나 잡아먹으면 됩니다.) 4. 당신은 '절대' 다른 외계인과 거래할 수 없습니다.</NihalScenario.scenario.description>
+  <NihalScenario.scenario.parts.18.text>착한 외계인은 죽은 외계인 뿐입니다.</NihalScenario.scenario.parts.18.text>
+
+  <!--1543164737_190714_Lanius-->
+  <LaniusTribeScenario.label>라니우스</LaniusTribeScenario.label>
+  <LaniusTribeScenario.description>재난의 끝에서, 우리는 부활할 것입니다. 모든 것을 잃은 후에야 비로소 모든걸 자유롭게 할 수 있습니다. 모든 정적인 것들도, 결국 진화하고, 끝내 무너집니다.</LaniusTribeScenario.description>
+  <LaniusTribeScenario.scenario.name>라니우스</LaniusTribeScenario.scenario.name>
+  <LaniusTribeScenario.scenario.summary>삶은 너무 완벽해 보였고, 어쩌면 우리 자신들로부터 더 나은 무언가를 만들기 위해서는 이것을 깨야만 할지도 모릅니다.</LaniusTribeScenario.scenario.summary>
+  <LaniusTribeScenario.scenario.description>재난의 끝에서, 우리는 부활할 것입니다. 모든 것을 잃은 후에야 비로소 모든걸 자유롭게 할 수 있습니다. 모든 정적인 것들도, 결국 진화하고, 끝내 무너집니다.</LaniusTribeScenario.scenario.description>
+  <LaniusTribeScenario.scenario.parts.16.text>불투명한 검은 막들이 멀리 떨어진 몇몇 고향성계 주위에 나타났습니다. 이곳의 주민들은 외부 태양계 전체에 나노 기술을 살포하였습니다. 이 기술은 결국 수백만 년 동안 다른 성계로 확장되었으며, 막을 둘러싼 다른 세계를 찾아다니며 자신들이 왜 만들어졌는지, 그리고 그것을 멈추기 위해 무엇을 할 수 있는지를 발견하고자 하였습니다. 이 나노기술은 은하계 전역으로 퍼져 지성체인 폰 노이만 기계(Von Neumann machines)로 진화했습니다. 이들은 생물학적 사회의 흥망성쇠에 경악하며, 사회 붕괴 직전에 있는 행성들을 막으로 둘러싸 이들을 구할 방법이 발견될 때 까지 진보를 늦추는 계획을 고안했습니다. "우주의 엔트로피 총량은 어떻게 감소할 수 있을까?" 또는 "열역학 제2법칙을 되돌릴 수 있을까?" 하지만 이들은 "데이터 부족"이라는 대답밖에는 할 수 없었으며, 공간과 시간이 모두 사라진 후에도 계속 고민은 계속되었습니다. 그리고 억겁의 시간 끝에, 그 해답을 발견했지만 그것을 보고할 사람은 아무도 없었습니다. 우주는 이미 모두 죽었으며, 최후의 행성마저 죽은지 이미 오래였습니다. 때문에 그는 자신이 찾은 해답을 직접 실행하기로 결정합니다. "빛이 있으라!" 그러자 빛이 나타났습니다.</LaniusTribeScenario.scenario.parts.16.text>
+
+  <!--1543896230_190714_Playable Feral Orkz-->
+  <FeralOrkTribe.label>잊혀진 오크 클랜</FeralOrkTribe.label>
+  <FeralOrkTribe.description>당신의 클랜은 신들에 의해 보내진 위대한 피의 기계들에 의해 파괴되었습니다. 하지만 그들 중 다섯명은 탈출에 성공할 수 있었습니다. 이제, 새로운 집을 지을 시간입니다.\n\n참고:연구속도가 매우 느리기 때문에 어려운 시나리오입니다.</FeralOrkTribe.description>
+  <FeralOrkTribe.scenario.name>잊혀진 오크 클랜</FeralOrkTribe.scenario.name>
+  <FeralOrkTribe.scenario.summary>다섯명의 잊혀진 부족이 재건을 시도합니다. 어려운 편입니다.</FeralOrkTribe.scenario.summary>
+  <FeralOrkTribe.scenario.description>당신의 클랜은 신들에 의해 보내진 위대한 피의 기계들에 의해 파괴되었습니다. 하지만 그들 중 다섯명은 탈출에 성공할 수 있었습니다. 이제, 새로운 집을 지을 시간입니다.\n\n참고:연구속도가 매우 느리기 때문에 어려운 시나리오입니다.</FeralOrkTribe.scenario.description>
+  <FeralOrkTribe.scenario.parts.16.text>신의 진노 밤이면 피의 기계들이 나타날 것입니다. 그들은 마을을 샅샅이 뒤졌으며, 칼날과 악마의 불로 사람들을 자르고 태워버렸습니다.\n\n오직 몇 명만이 탈출할 수 있었습니다. 이제, 의지할 가까운 친구도 없이 걸어서 참혹한 여행을 한 끝에, 조상들이 그랬던 것 처럼 황무지에 새로운 집을 지어야 합니다.</FeralOrkTribe.scenario.parts.16.text>
+  <FeralGrotTribe.label>반란군 고브스</FeralGrotTribe.label>
+  <FeralGrotTribe.description>당신의 부족은 신들에 의해 보내진 위대한 피의 기계들에 의해 파괴되었습니다. 하지만 그들 중 다섯명은 탈출에 성공할 수 있었습니다. 이제, 새로운 집을 지을 시간입니다.\n\n참고:연구속도가 매우 느리기 때문에 어려운 시나리오입니다.</FeralGrotTribe.description>
+  <FeralGrotTribe.scenario.name>반란군 고브스</FeralGrotTribe.scenario.name>
+  <FeralGrotTribe.scenario.summary>다섯명의 잊혀진 부족이 재건을 시도합니다. 어려운 편입니다.</FeralGrotTribe.scenario.summary>
+  <FeralGrotTribe.scenario.description>당신의 부족은 신들에 의해 보내진 위대한 피의 기계들에 의해 파괴되었습니다. 하지만 그들 중 다섯명은 탈출에 성공할 수 있었습니다. 이제, 새로운 집을 지을 시간입니다.\n\n참고:연구속도가 매우 느리기 때문에 어려운 시나리오입니다.</FeralGrotTribe.scenario.description>
+  <FeralGrotTribe.scenario.parts.16.text>신의 진노 밤이면 피의 기계들이 나타날 것입니다. 그들은 마을을 샅샅이 뒤졌으며, 칼날과 악마의 불로 사람들을 자르고 태워버렸습니다.\n\n오직 몇 명만이 탈출할 수 있었습니다. 이제, 의지할 가까운 친구도 없이 걸어서 참혹한 여행을 한 끝에, 조상들이 그랬던 것 처럼 황무지에 새로운 집을 지어야 합니다.</FeralGrotTribe.scenario.parts.16.text>
+
+  <!--1545178908_190519_Callistans(1.0)-->
+  <TheLoneSalvager.label>고독한 분해자</TheLoneSalvager.label>
+  <TheLoneSalvager.description>당신은 한 명의 고독한 분해자입니다. 당신이 일하고 있던 분해자 기업에서는 약탈할만한 지역을 정찰하기 위해서, 당신에게 약간의 보급품을 보충해주었습니다.\n\n참고 : 시작 캐릭터의 몇몇 기술들이 미흡할 것이기 때문에, 게임 초반이 특히 어려운 시나리오입니다.</TheLoneSalvager.description>
+  <TheLoneSalvager.scenario.name>고독한 분해자</TheLoneSalvager.scenario.name>
+  <TheLoneSalvager.scenario.summary>고독한 분해자가 새로운 행성을 정찰하기 위해 나섰습니다. 아주 어렵습니다.</TheLoneSalvager.scenario.summary>
+  <TheLoneSalvager.scenario.description>당신은 한 명의 고독한 분해자입니다. 당신이 일하고 있던 분해자 기업에서는 약탈할만한 지역을 정찰하기 위해서, 당신에게 약간의 보급품을 보충해주었습니다.\n\n참고 : 시작 캐릭터의 몇몇 기술들이 미흡할 것이기 때문에, 게임 초반이 특히 어려운 시나리오입니다.</TheLoneSalvager.scenario.description>
+  <TheLoneSalvager.scenario.parts.15.text>당신은 한 명의 고독한 분해자입니다. 당신이 일하고 있던 분해자 기업에서는 약탈할만한 지역을 정찰하기 위해서, 당신에게 약간의 보급품을 보충해주었습니다.\n\n참고 : 시작 캐릭터의 몇몇 기술들이 미흡할 것이기 때문에, 게임 초반이 특히 어려운 시나리오입니다.</TheLoneSalvager.scenario.parts.15.text>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <RRY_YautjaScenarioUnblooded.label>야우차 사냥꾼 훈련병들</RRY_YautjaScenarioUnblooded.label>
+  <RRY_YautjaScenarioUnblooded.description>다섯명의 야우차 사냥꾼들이 알 수 없는 변방계 행성으로 보내졌습니다. 처음부터 모든 것을 쌓아야 하고, 다른 사냥꾼들과의 경쟁에 직면하게 될 것입니다. 엘더는 당신이 진정한 사냥꾼이 되어 부족에게 돌아올 것을 기대하고 있습니다.</RRY_YautjaScenarioUnblooded.description>
+  <RRY_YautjaScenarioUnblooded.scenario.name>야우차 사냥꾼 훈련병들</RRY_YautjaScenarioUnblooded.scenario.name>
+  <RRY_YautjaScenarioUnblooded.scenario.summary>다섯명의 야우차 사냥꾼 훈련병들이 피의 표식을 얻기 위한 사냥에서 살아남고자 합니다. 어려운 편입니다.</RRY_YautjaScenarioUnblooded.scenario.summary>
+  <RRY_YautjaScenarioUnblooded.scenario.description>다섯명의 야우차 사냥꾼들이 알 수 없는 변방계 행성으로 보내졌습니다. 처음부터 모든 것을 쌓아야 하고, 다른 사냥꾼들과의 경쟁에 직면하게 될 것입니다. 엘더는 당신이 진정한 사냥꾼이 되어 부족에게 돌아올 것을 기대하고 있습니다.</RRY_YautjaScenarioUnblooded.scenario.description>
+  <RRY_YautjaScenarioUnblooded.scenario.parts.10.text>당신의 부족은 최소한의 자원만 남긴 채 드롭포드에 실어 이곳에 내려보냈습니다. 진정한 사냥꾼이 되기 위해서, 당신은 사냥을 시작하고, 살아남아, 부족에게로 되돌아가야만 합니다... \n\n혹, 불명예스럽게 살아남기 보다는 죽는 것이 나을 것입니다..</RRY_YautjaScenarioUnblooded.scenario.parts.10.text>
+  <RRY_YautjaScenarioBlooded.label>야우차 사냥꾼 신병들</RRY_YautjaScenarioBlooded.label>
+  <RRY_YautjaScenarioBlooded.description>수십 년 간의 사냥 끝에, 당신의 부족은 영광을 찾기 위한 새로운 사냥터를 찾기로 결정하였습니다.</RRY_YautjaScenarioBlooded.description>
+  <RRY_YautjaScenarioBlooded.scenario.name>야우차 사냥꾼 신병들</RRY_YautjaScenarioBlooded.scenario.name>
+  <RRY_YautjaScenarioBlooded.scenario.summary>다섯명의 요트자가 새로운 부족을 세우려 합니다.</RRY_YautjaScenarioBlooded.scenario.summary>
+  <RRY_YautjaScenarioBlooded.scenario.description>수십 년 간의 사냥 끝에, 당신의 부족은 영광을 찾기 위한 새로운 사냥터를 찾기로 결정하였습니다.</RRY_YautjaScenarioBlooded.scenario.description>
+  <RRY_YautjaScenarioBlooded.scenario.parts.11.text>당신은 이를 위해 미지의 변방계 한가운데로 착륙하였습니다. 이제 부족을 자랑스럽게 만들고, 그럴만한 가치가 있는 사냥감을 찾아낼 시간입니다.</RRY_YautjaScenarioBlooded.scenario.parts.11.text>
+  <RRY_YautjaScenarioBobsBlooding.label>야우차 피의 의식</RRY_YautjaScenarioBobsBlooding.label>
+  <RRY_YautjaScenarioBobsBlooding.description>다섯 명의 신병 야우차들에게 제노모프의 알과 인간 희생자들이 들어있는 동면관 여덟개가 주어집니다. 이 사냥에 합당한 사원을 건설하고, 완전한 사냥꾼이 되는 것이 당신의 목표입니다.\n\n참고: 희생자들은 일단 동면관이 열리면 도망치려 할 것입니다.</RRY_YautjaScenarioBobsBlooding.description>
+  <RRY_YautjaScenarioBobsBlooding.scenario.name>야우차 피의 의식</RRY_YautjaScenarioBobsBlooding.scenario.name>
+  <RRY_YautjaScenarioBobsBlooding.scenario.summary>다섯명의 야우차 신병들은 피의 의식을 위한 신전을 지어야만 합니다. 어려운 편입니다.</RRY_YautjaScenarioBobsBlooding.scenario.summary>
+  <RRY_YautjaScenarioBobsBlooding.scenario.description>다섯 명의 신병 야우차들에게 제노모프의 알과 인간 희생자들이 들어있는 동면관 여덟개가 주어집니다. 이 사냥에 합당한 사원을 건설하고, 완전한 사냥꾼이 되는 것이 당신의 목표입니다.\n\n참고: 희생자들은 일단 동면관이 열리면 도망치려 할 것입니다.</RRY_YautjaScenarioBobsBlooding.scenario.description>
+  <RRY_YautjaScenarioBobsBlooding.scenario.parts.13.text>당신은 피의 의식을 치르기 위해 보내졌습니다. 엘더는 당신이 명예롭게 이 임무를 완수하고 영광스럽게 부족에게 돌아올 것을 기대하고 있습니다.</RRY_YautjaScenarioBobsBlooding.scenario.parts.13.text>
+
+  <!--1571323744_190714_Crystalloid (Rewrite)-->
+  <Disconnected.label>연결끊김</Disconnected.label>
+  <Disconnected.description>두 사람은 크리스탈로이드 공동체 우주선에 탑승했던 민간인들이었습니다. 적어도 신경 네트워크 연결을 끊고 탈출 포드를 탈 때 까지는요. 당신은 새롭게 발견된 자유를 받아들이면서 변방계의 거주 가능한 행성에 착륙했습니다.</Disconnected.description>
+  <Disconnected.scenario.name>연결끊김</Disconnected.scenario.name>
+  <Disconnected.scenario.summary>두 명의 크리스탈로이드로, 신경 네트워크에서 탈출해 변방계에 추락했습니다.</Disconnected.scenario.summary>
+  <Disconnected.scenario.description>두 사람은 크리스탈로이드 공동체 우주선에 탑승했던 민간인들이었습니다. 적어도 신경 네트워크 연결을 끊고 탈출 포드를 탈 때 까지는요. 당신은 새롭게 발견된 자유를 받아들이면서 변방계의 거주 가능한 행성에 착륙했습니다.</Disconnected.scenario.description>
+  <Disconnected.scenario.parts.22.text>공동체는 자신들이 누구인지, 무엇을 할 것인지를 공유하며 구성원들은 강하게 연결되어 있습니다. 텔레파시로 연결된 정신으로, 이들은 최소한의 사고만으로 활동할 수 있습니다.\n\n하지만 이 두 명은 자유의지를 선택했고, 신경망과 단절되었습니다. 이는 보통 죽음을 의미하지만, 이들은 그 전에 탈출 포드에 탑승할 수 있었습니다. \n\n이제는 집단의 보급품도, 다른 구성원들도 없이 고립된 변방계의 위협 속에서 살아남아야 합니다. 하지만 새롭게 발견한 자유의지는 이들에게 전에는 떠올릴 수 없었던 창작과 생각으로 새로운 정착지를 건설합니다.</Disconnected.scenario.parts.22.text>
+
+  <!--1573177939_181125_Ratkin Backup-->
+  <RGK_Scenario.label>랫킨 정착지</RGK_Scenario.label>
+  <RGK_Scenario.description>얘내 엄청 귀엽죠??</RGK_Scenario.description>
+  <RGK_Scenario.scenario.name>랫킨 정착지</RGK_Scenario.scenario.name>
+  <RGK_Scenario.scenario.summary>험한 세상에서 살려고 애쓰는 4명의 랫킨의 이야기.</RGK_Scenario.scenario.summary>
+  <RGK_Scenario.scenario.description>얘내 엄청 귀엽죠??</RGK_Scenario.scenario.description>
+
+  <!--1632244750_190708_Oni of the Rim-->
+  <OniScenarioTribal.label>오니 부족 생존자</OniScenarioTribal.label>
+  <OniScenarioTribal.description>당신은 오니 부족의 마지막 생존자 그룹입니다. '하늘 사람들'에게 붙잡혀간 다른 이들의 운명은 알 수 없었지만, 그들은 결국 이국적인 애완 동물이나 가축, 그보다 더 나쁜 일이 벌어질 것이라고 두려워하고 있습니다. 이제 생존자들은 다시 집을 짓고, 언젠가 다시 돌아올 '하늘 사람들'로부터 스스로를 보호해야만 합니다.</OniScenarioTribal.description>
+  <OniScenarioTribal.scenario.name>오니 부족 생존자</OniScenarioTribal.scenario.name>
+  <OniScenarioTribal.scenario.summary>당신은 붙잡히기 전 탈출할 수 있었습니다. 장로님이 없어도 혼자서 생존할 수 있을까요? 하늘 사람들이 돌아오면 어쩌죠?</OniScenarioTribal.scenario.summary>
+  <OniScenarioTribal.scenario.description>당신은 오니 부족의 마지막 생존자 그룹입니다. '하늘 사람들'에게 붙잡혀간 다른 이들의 운명은 알 수 없었지만, 그들은 결국 이국적인 애완 동물이나 가축, 그보다 더 나쁜 일이 벌어질 것이라고 두려워하고 있습니다. 이제 생존자들은 다시 집을 짓고, 언젠가 다시 돌아올 '하늘 사람들'로부터 스스로를 보호해야만 합니다.</OniScenarioTribal.scenario.description>
+  <OniScenarioSpacer.label>탈출한 오니</OniScenarioSpacer.label>
+  <OniScenarioSpacer.description>당신과 몇몇 다른 사람들은 노예상인들에게 붙잡혀 이국적인 애완동물이 되기 위해 번화계 행성으로 향하던 배에서 드롭포드를 타고 탈출하였습니다. 당신은 도망칠 때 하늘 사람들의 몇 가지 기본 기술 청사진들을 얻을 수 있었지만, 변방계에서 어떻게 살아남을 수 있는지, 집으로 돌아갈 수는 있는 것인지 궁금하기만 합니다.</OniScenarioSpacer.description>
+  <OniScenarioSpacer.scenario.name>탈출한 오니</OniScenarioSpacer.scenario.name>
+  <OniScenarioSpacer.scenario.summary>당신은 이국적인 애완동물, 또는 더 나쁜 일이 벌어지기 전에 탈출할 수 있었습니다. 하지만 도망치는 것 만으로 이 새로운 세상에서 얼마나 살아남을 수 있을까요?</OniScenarioSpacer.scenario.summary>
+  <OniScenarioSpacer.scenario.description>당신과 몇몇 다른 사람들은 노예상인들에게 붙잡혀 이국적인 애완동물이 되기 위해 번화계 행성으로 향하던 배에서 드롭포드를 타고 탈출하였습니다. 당신은 도망칠 때 하늘 사람들의 몇 가지 기본 기술 청사진들을 얻을 수 있었지만, 변방계에서 어떻게 살아남을 수 있는지, 집으로 돌아갈 수는 있는 것인지 궁금하기만 합니다.</OniScenarioSpacer.scenario.description>
+
+  <!--1706345856_190811_Warhammer Skaven-->
+  <SkavenScenario.label>스케이븐 클랜</SkavenScenario.label>
+  <SkavenScenario.description>한 무리의 스케이븐들이 워프스톤 배터리와 대포를 가지고 지하제국에서 떠나왔습니다. 이들은 변방계에서 자신들의 이름을 알리고, 클랜의 세력을 더욱 확대시키고자 합니다.</SkavenScenario.description>
+  <SkavenScenario.scenario.name>스케이븐 클랜</SkavenScenario.scenario.name>
+  <SkavenScenario.scenario.summary>한 무리의 스케이븐들이 자신들의 클랜 요새를 짓기 위해 떠납니다.</SkavenScenario.scenario.summary>
+  <SkavenScenario.scenario.description>한 무리의 스케이븐들이 워프스톤 배터리와 대포를 가지고 지하제국에서 떠나왔습니다. 이들은 변방계에서 자신들의 이름을 알리고, 클랜의 세력을 더욱 확대시키고자 합니다.</SkavenScenario.scenario.description>
+  <SkavenScenario.scenario.parts.14.text>당신은 추종자들과 훔쳐온 배터리, 대포를 가지고 시작합니다.</SkavenScenario.scenario.parts.14.text>
+
+  <!--1728999127_190813_Forsakens-->
+  <ForsakenCrashlanded.label>버림받은 자들</ForsakenCrashlanded.label>
+  <ForsakenCrashlanded.description>추방과 버려짐. 이제는 스스로 살아남아야만 합니다.</ForsakenCrashlanded.description>
+  <ForsakenCrashlanded.scenario.name>버림받은 자들</ForsakenCrashlanded.scenario.name>
+  <ForsakenCrashlanded.scenario.summary>추방과 버려짐</ForsakenCrashlanded.scenario.summary>
+  <ForsakenCrashlanded.scenario.description>추방과 버려짐. 이제는 스스로 살아남아야만 합니다.</ForsakenCrashlanded.scenario.description>
+  <LostForsakens.label>길을 잃은 버림받은 자들</LostForsakens.label>
+  <LostForsakens.description>당신의 정착지는 방황하는 메카노이드들로 인해 완전히 파괴되고 오직 8명만 살아남았습니다. 급하게 빠져나와서 모든 제조법과 장비들을 상실했습니다. \n\n노트: 가난하고, 비무장에 적은 식량과 연구 속도도 느립니다. 이 시나리오는 어렵습니다.</LostForsakens.description>
+  <LostForsakens.scenario.name>길을 잃은 버림받은 자들</LostForsakens.scenario.name>
+  <LostForsakens.scenario.summary>다섯명의 버림받은 자들이 재건을 시작합니다. 어렵습니다.</LostForsakens.scenario.summary>
+  <LostForsakens.scenario.description>당신의 정착지는 방황하는 메카노이드들로 인해 완전히 파괴되고 오직 8명만 살아남았습니다. 급하게 빠져나와서 모든 제조법과 장비들을 상실했습니다. \n\n노트: 가난하고, 비무장에 적은 식량과 연구 속도도 느립니다. 이 시나리오는 어렵습니다.</LostForsakens.scenario.description>
+  <LostForsakens.scenario.parts.9.text>당신의 정착지는 방황하는 메카노이드들로 인해 완전히 파괴되고 오직 8명만 살아남았습니다. 당신의 선조들이 그랬듯이, 야생의 땅에서 새로운 집을 만들어야 합니다.</LostForsakens.scenario.parts.9.text>
+
+  <!--882126182_181000_Call of Cthulhu - Elder Things-->
+  <ElderThings_Scenario.label>태고의 존재</ElderThings_Scenario.label>
+  <ElderThings_Scenario.description>쇼고스(shoggoth)노예들이 반란을 일으켜 그들의 군주를 살해한 이후, 태고의 존재 들에게는 생존을 위한 선택지가 거의 없었습니다. 탈출한 이들은 우주공간에서 살아남을 수 있도록 태양 돛(solar sails)과 같은 그들의 날개를 사용하여 동면상태에 들어갔습니다. 모든 이들이 이 긴 여행에서 살아남은 것은 아니지만, 몇몇 변방계 행성으로 안전하게 도착할 수 있었던 이들도 있었습니다. 생존을 전적으로 노예에 의존했던 이들은 한 인간 노예에게 평범한 노동을 수행하는 것을 대가로 귀중한 기술들을 교환할 수 밖에 없었습니다.</ElderThings_Scenario.description>
+  <ElderThings_Scenario.scenario.name>태고의 존재</ElderThings_Scenario.scenario.name>
+  <ElderThings_Scenario.scenario.summary>살아남은 태고의 존재 3명과 인간노예--일반적인 림월드 설정과 유사합니다.</ElderThings_Scenario.scenario.summary>
+  <ElderThings_Scenario.scenario.description>쇼고스(shoggoth)노예들이 반란을 일으켜 그들의 군주를 살해한 이후, 태고의 존재 들에게는 생존을 위한 선택지가 거의 없었습니다. 탈출한 이들은 우주공간에서 살아남을 수 있도록 태양 돛(solar sails)과 같은 그들의 날개를 사용하여 동면상태에 들어갔습니다. 모든 이들이 이 긴 여행에서 살아남은 것은 아니지만, 몇몇 변방계 행성으로 안전하게 도착할 수 있었던 이들도 있었습니다. 생존을 전적으로 노예에 의존했던 이들은 한 인간 노예에게 평범한 노동을 수행하는 것을 대가로 귀중한 기술들을 교환할 수 밖에 없었습니다.</ElderThings_Scenario.scenario.description>
+
+</LanguageData>

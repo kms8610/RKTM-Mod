@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GerzeeSlaveSurvivors.label>게르지 노예 생존자</GerzeeSlaveSurvivors.label>
+  <GerzeeSlaveSurvivors.description>도망친 게르지들이 세운 정착지입니다. 모두 함께 살아나가야 합니다.</GerzeeSlaveSurvivors.description>
+  <GerzeeSlaveSurvivors.fixedName>자유로운 게르지</GerzeeSlaveSurvivors.fixedName>
+  <GerzeeSlaveSurvivors.pawnsPlural>게르지</GerzeeSlaveSurvivors.pawnsPlural>
+  <GerzeeSlaveSurvivors.leaderTitle>무리 안내자</GerzeeSlaveSurvivors.leaderTitle>
+  <GerzeeWrathful.label>게르지의 분노</GerzeeWrathful.label>
+  <GerzeeWrathful.description>수 년간 노예생활로 학대를 받아 정신적으로 문제가 생긴 게르지는 이제 부족의 일원이 아닌 다른 것들을 얼마든지 다치게 만들 수 있게 되었습니다.</GerzeeWrathful.description>
+  <GerzeeWrathful.fixedName>게르지의 분노</GerzeeWrathful.fixedName>
+  <GerzeeWrathful.pawnsPlural>게르지</GerzeeWrathful.pawnsPlural>
+  <GerzeeWrathful.leaderTitle>대장</GerzeeWrathful.leaderTitle>
+
+</LanguageData>

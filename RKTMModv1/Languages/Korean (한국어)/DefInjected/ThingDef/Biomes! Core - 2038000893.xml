@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BiomesCore_FruitTreeBase.label>과일 나무</BiomesCore_FruitTreeBase.label>
+  <BiomesCore_FruitTreeBase.description>먹을 수 있는 과일이 열리는 나무.</BiomesCore_FruitTreeBase.description>
+  <BiomesCore_CrabThingBase.label>갑각류</BiomesCore_CrabThingBase.label>
+  <BiomesCore_CrabThingBase.description>갑각류</BiomesCore_CrabThingBase.description>
+  <BiomesCore_ChitinBase.label>키틴질</BiomesCore_ChitinBase.label>
+  <BiomesCore_ChitinBase.description>단단한 키틴질 껍데기.</BiomesCore_ChitinBase.description>
+  <BiomesCore_CrabShell.label>게 껍데기</BiomesCore_CrabShell.label>
+  <BiomesCore_CrabShell.description>갑각류에서 얻을 수 있는 단단한 키틴질 껍데기.</BiomesCore_CrabShell.description>
+  <BiomesCore_GreenChitin.label>초록색 키틴질</BiomesCore_GreenChitin.label>
+  <BiomesCore_GreenChitin.description>초록색 곤충에게서 얻을 수 있는 단단한 키틴질 껍데기.</BiomesCore_GreenChitin.description>
+
+</LanguageData>

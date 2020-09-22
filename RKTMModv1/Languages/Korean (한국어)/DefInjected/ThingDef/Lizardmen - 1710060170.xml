@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_Lizardman_LightArmor.label>리자드맨 어깨 보호대</Apparel_Lizardman_LightArmor.label>
+  <Apparel_Lizardman_LightArmor.description>.</Apparel_Lizardman_LightArmor.description>
+  <Apparel_Lizardman_LeatherArmor.label>리자드맨 가죽 갑옷</Apparel_Lizardman_LeatherArmor.label>
+  <Apparel_Lizardman_LeatherArmor.description>.</Apparel_Lizardman_LeatherArmor.description>
+  <Apparel_Lizardman_PlateArmor.label>리자드맨 판금 갑옷</Apparel_Lizardman_PlateArmor.label>
+  <Apparel_Lizardman_PlateArmor.description>.</Apparel_Lizardman_PlateArmor.description>
+  <Apparel_Lizardman_Wear.label>리자드맨 가리개</Apparel_Lizardman_Wear.label>
+  <Apparel_Lizardman_Wear.description>.</Apparel_Lizardman_Wear.description>
+  <Apparel_Lizardman_Helm.label>리자드맨 기사의 투구</Apparel_Lizardman_Helm.label>
+  <Apparel_Lizardman_Helm.description>.</Apparel_Lizardman_Helm.description>
+  <LizardmanPyramid.label>유산</LizardmanPyramid.label>
+  <LizardmanPyramid.description>.</LizardmanPyramid.description>
+  <Lizardman_Sword.label>리자드맨 대검</Lizardman_Sword.label>
+  <Lizardman_Sword.description>.</Lizardman_Sword.description>
+  <Lizardman_Sword.tools.0.label>검끝</Lizardman_Sword.tools.0.label>
+  <Lizardman_Sword.tools.1.label>검날</Lizardman_Sword.tools.1.label>
+  <Lizardman_Club.label>리자드맨 둔기</Lizardman_Club.label>
+  <Lizardman_Club.description>.</Lizardman_Club.description>
+  <Lizardman_Club.tools.0.label>손잡이</Lizardman_Club.tools.0.label>
+  <Lizardman_Club.tools.1.label>망치</Lizardman_Club.tools.1.label>
+  <Lizardman_Spear.label>리자드맨 장창</Lizardman_Spear.label>
+  <Lizardman_Spear.description>.</Lizardman_Spear.description>
+  <Lizardman_Spear.tools.0.label>장대</Lizardman_Spear.tools.0.label>
+  <Lizardman_Spear.tools.1.label>창끝</Lizardman_Spear.tools.1.label>
+
+</LanguageData>

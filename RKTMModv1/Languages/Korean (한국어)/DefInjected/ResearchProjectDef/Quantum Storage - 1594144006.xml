@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchProject_RTStockpileCapacityUpgrade_1.label>양자 저장량 1</ResearchProject_RTStockpileCapacityUpgrade_1.label>
+  <ResearchProject_RTStockpileCapacityUpgrade_1.description>양자 저장소는 이제 한 공간당 1개 이상의 품목 5겹 또는 2개 이상의 덩어리 10겹을 저장할 수 있습니다.</ResearchProject_RTStockpileCapacityUpgrade_1.description>
+  <ResearchProject_RTStockpileCapacityUpgrade_2.label>양자 저장량 2</ResearchProject_RTStockpileCapacityUpgrade_2.label>
+  <ResearchProject_RTStockpileCapacityUpgrade_2.description>양자 저장소는 이제 한 공간당 1개 이상의 품목 6겹 또는 2개 이상의 덩어리 12겹을 저장할 수 있습니다.</ResearchProject_RTStockpileCapacityUpgrade_2.description>
+  <ResearchProject_RTStockpileCapacityUpgrade_3.label>양자 저장량 3</ResearchProject_RTStockpileCapacityUpgrade_3.label>
+  <ResearchProject_RTStockpileCapacityUpgrade_3.description>양자 저장소는 이제 한 공간당 1개 이상의 품목 7겹 또는 2개 이상의 덩어리 14겹을 저장할 수 있습니다.</ResearchProject_RTStockpileCapacityUpgrade_3.description>
+  <ResearchProject_RTStockpileCapacityUpgrade_4.label>양자 저장량 4</ResearchProject_RTStockpileCapacityUpgrade_4.label>
+  <ResearchProject_RTStockpileCapacityUpgrade_4.description>양자 저장소는 이제 한 공간당 1개 이상의 품목 8겹 또는 2개 이상의 덩어리 16겹을 저장할 수 있습니다.</ResearchProject_RTStockpileCapacityUpgrade_4.description>
+  <ResearchProject_RTQuantumChunkStorage.label>덩어리 양자 저장</ResearchProject_RTQuantumChunkStorage.label>
+  <ResearchProject_RTQuantumChunkStorage.description>양자 저장소에 돌덩어리와 고철 덩어리를 저장할 수 있습니다.
+
+모든 양자 저장 장치에는 전환 방식이 있어, 품목을 저장하고 덩어리를 저장하는 방식을 자유롭게 전환할 수 있지만, 단 스위치 조작을 하려면 정착민이 수동으로 해야 합니다.
+
+덩어리는 저장이 필요한 다른 품목들보다 구조가 간단하여, 세부 사항을 유지하는데 어렵지 않으므로, 훨씬 효율적으로 쌓을 수 있습니다.
+
+불행하지만, 공간당 하나의 덩어리만 자유롭게 접근 가능하다는 뜻이기도 합니다. 나머지는 '심층 저장' 상태로 전환되며, 저장구역에 공간이 생겨야 빠져나옵니다.
+
+그럼에도 여전히 안정적으로 중첩되며 단순히 유지를 위한 전력이 필요한 것도 아닙니다. 참고로 덩어리로 가득 찬 저장구역을 품목 방식으로 전환하게 되면 엉망이 될 수도 있습니다.</ResearchProject_RTQuantumChunkStorage.description>
+  <ResearchProject_RTQuantumRelay.label>양자 중계기</ResearchProject_RTQuantumRelay.label>
+  <ResearchProject_RTQuantumRelay.description>양자 중계기의 건설 허용: 정착지 어디에서나 양자 창고와 연결하여 품목과 덩어리들을 주고받을 수 있는 독립형 장치입니다.
+
+전력이 공급되면, 중계기는 인접한 저장구역 (및 저장 건물)의 공간을 탐색하고 연결된 창고로 물품을 보냅니다. 단 창고가 해당 구역을 허용하고 탐색 된 공간보다 우선순위가 높거나 같아야 합니다.
+
+동시에, 중계기의 우선순위가 창고의 우선순위보다 높거나 같은 경우, 연결된 창고는 중계기 필터에 정의되는 대로 품목을 보내려고 시도합니다.</ResearchProject_RTQuantumRelay.description>
+  <ResearchProject_RTQuantumStockpile.label>양자 저장소</ResearchProject_RTQuantumStockpile.label>
+  <ResearchProject_RTQuantumStockpile.description>양자 저장소 건설 허용: 지정된 공간에 하나의 품목 또는 여러 개의 품목을 저장하기 위해 저장구역에 배치되는 장치입니다.
+
+전력이 공급되면, 이 저장소는 인접한 구역을 탐색하고, 구역의 신호가 허용하는 한 공간당 최대 4개 품목을 가져옵니다.
+
+품목들은 착실하게 쌓여있어, 각각 접근하기 쉬우며, 전력 공급이 차단되더라도 재앙은 일어나지 않습니다.</ResearchProject_RTQuantumStockpile.description>
+  <ResearchProject_RTQuantumWarehouse.label>양자 창고</ResearchProject_RTQuantumWarehouse.label>
+  <ResearchProject_RTQuantumWarehouse.description>양자 창고의 건설 허용: 저장구역에 배치되는 장치는 양자 저장소 외에도 모든 구역이 망으로 연결되어 있습니다.
+
+전력이 공급되면, 구역의 창고는 모든 품목이 골고루 쌓여 여기저기 흩어지는 것을 최소화합니다. 덩어리 저장을 연구하면, 구역에 있는 모든 덩어리를 덩어리 저장 방식에서 모든 덩어리를 수용할 공간이 있는 저장구역으로 전송됩니다.</ResearchProject_RTQuantumWarehouse.description>
+
+</LanguageData>

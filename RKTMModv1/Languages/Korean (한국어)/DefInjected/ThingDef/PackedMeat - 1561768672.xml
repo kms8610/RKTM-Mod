@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <avRegularMeatPack.label>고기 뭉치</avRegularMeatPack.label>
+  <avRegularMeatPack.description>손질된 날고기입니다. 생으로 먹거나 요리할 수 있습니다.</avRegularMeatPack.description>
+  <avOddMeatPack.label>이상한 고기 뭉치</avOddMeatPack.label>
+  <avOddMeatPack.description>손질된 날고기입니다. 필요하다면, 생으로 먹거나 요리할 수 있습니다. 굉장히 맛이 없습니다.</avOddMeatPack.description>
+  <avMysteriousMeatPack.label>수상한 고기 뭉치</avMysteriousMeatPack.label>
+  <avMysteriousMeatPack.description>손질된 날고기입니다. 대부분의 사람들이 이 생각을 싫어하지만, 생으로 먹거나 요리할 수 있습니다.</avMysteriousMeatPack.description>
+
+</LanguageData>

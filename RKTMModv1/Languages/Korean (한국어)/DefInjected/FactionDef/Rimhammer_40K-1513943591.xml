@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AstartesPlayerColony.label>아스타르테스 정착지</AstartesPlayerColony.label>
+  <AstartesPlayerColony.description>당신의 기지입니다.</AstartesPlayerColony.description>
+  <AstartesPlayerColony.pawnsPlural>아스타르테스 정착민</AstartesPlayerColony.pawnsPlural>
+  <EldarPlayerColony.label>엘다 정착지</EldarPlayerColony.label>
+  <EldarPlayerColony.description>당신의 기지입니다.</EldarPlayerColony.description>
+  <EldarPlayerColony.pawnsPlural>정착민들</EldarPlayerColony.pawnsPlural>
+  <KrootPlayerColonyTribal.label>크릇 부족</KrootPlayerColonyTribal.label>
+  <KrootPlayerColonyTribal.description>크릇 부족으로 시작합니다.</KrootPlayerColonyTribal.description>
+  <KrootPlayerColonyTribal.pawnsPlural>크릇 부족민</KrootPlayerColonyTribal.pawnsPlural>
+  <NecronPlayerColony.label>네크론 무덤</NecronPlayerColony.label>
+  <NecronPlayerColony.description>당신의 정착지입니다.</NecronPlayerColony.description>
+  <NecronPlayerColony.pawnsPlural>네크론</NecronPlayerColony.pawnsPlural>
+  <OrkPlayerColony.label>오크 정착지</OrkPlayerColony.label>
+  <OrkPlayerColony.description>당신의 정착지입니다.</OrkPlayerColony.description>
+  <OrkPlayerColony.pawnsPlural>오크 정착민</OrkPlayerColony.pawnsPlural>
+  <SororitasPlayerColony.label>소로리타스 정착지</SororitasPlayerColony.label>
+  <SororitasPlayerColony.description>당신의 정착지입니다.</SororitasPlayerColony.description>
+  <SororitasPlayerColony.pawnsPlural>소로리타스 정착민</SororitasPlayerColony.pawnsPlural>
+  <TauPlayerColony.label>타우 정착지</TauPlayerColony.label>
+  <TauPlayerColony.description>당신의 정착지입니다.</TauPlayerColony.description>
+  <TauPlayerColony.pawnsPlural>타우 정착민</TauPlayerColony.pawnsPlural>
+  <TerranPlayerColony.label>테란 정착지</TerranPlayerColony.label>
+  <TerranPlayerColony.description>당신의 정착지입니다.</TerranPlayerColony.description>
+  <TerranPlayerColony.pawnsPlural>테란 정착민</TerranPlayerColony.pawnsPlural>
+  <ValhallanPlayerColony.label>발할라 정착지</ValhallanPlayerColony.label>
+  <ValhallanPlayerColony.description>당신의 정착지입니다.</ValhallanPlayerColony.description>
+  <ValhallanPlayerColony.pawnsPlural>발할라 정착민</ValhallanPlayerColony.pawnsPlural>
+  <KriegPlayerColony.label>크리그 정착지</KriegPlayerColony.label>
+  <KriegPlayerColony.description>당신의 정착지입니다.</KriegPlayerColony.description>
+  <KriegPlayerColony.pawnsPlural>크리그 정착민</KriegPlayerColony.pawnsPlural>
+  <SteelLegionPlayerColony.label>스틸 리전 정착지</SteelLegionPlayerColony.label>
+  <SteelLegionPlayerColony.description>당신의 정착지입니다.</SteelLegionPlayerColony.description>
+  <SteelLegionPlayerColony.pawnsPlural>스틸 리전 정착민</SteelLegionPlayerColony.pawnsPlural>
+  <BlackTemplars.label>블랙 템플러</BlackTemplars.label>
+  <BlackTemplars.description>블랙 템플러는 임페리얼 피스트들의 진 시드와 그들의 프라이마크인 로갈 돈에서 유래한 충성파 세컨드 파운딩 스페이스 마린입니다. 그들의 기원은 호루스 헤러시 동안 임페리얼 피스트들의 테라 방어로 거슬러 올라갈 수 있습니다. 그 이후로, 블랙 템플러는 인류 제국이 인류의 황제에게 충성을 증명하는 것으로 알려진 가장 긴 크루세이드에 올랐습니다. 이들은 코덱스 아스타르테스에 헌신하는 챕터가 아니며, 대부분의 아뎁투스 아스타르테스의 표준과는 매우 다른 챕터 구조와 챕터 문화를 가지고 있습니다. 호루스 헤러시 이후, 임페리얼 피스트들의 프라이마크인 로갈 돈은 스페이스 마린 분대가 더 작은 챕터로 분열되는 것에 저항했습니다. 돈은 임페리얼 피스트들이 이단자라는 낙인이 찍혔을 때 비로소, 그가 아끼는 분대를 챕터로 세분화시킬 수 있었습니다. 이 시대에 태어난 새로운 챕터들 중 하나가 블랙 템플러입니다. 황제에게 충성을 증명하기 위해, 챕터 블랙 템플러의 첫번째 마스터-하이 마샬 지기스문트는 거대한 전쟁 함대를 모아 제국 역사상 가장 위대한 스페이스 마린 십자군을 시작했습니다. 그것은 10,000년 동안 지속되었습니다.</BlackTemplars.description>
+  <BlackTemplars.fixedName>블랙 템플러</BlackTemplars.fixedName>
+  <BlackTemplars.pawnsPlural>아스타르테스</BlackTemplars.pawnsPlural>
+  <BlackTemplars.leaderTitle>사령관</BlackTemplars.leaderTitle>
+  <BloodRavens.label>블러드 레이븐</BloodRavens.label>
+  <BloodRavens.description>블러드 레이븐은 파운딩과 기원이 알려지지 않은 충성파 스페이스 마린 챕터입니다. 블레드 레이븐의 기원은 베일에 싸여 있으며, 호루스 헤러시와 관련된 어두운 진실과 묶여있는 것으로 추정됩니다. 이 이해하기 어려운 챕터는 언제나 지식을 추구했고 고대 설화 수집을 했습니다. 그것은 블레드 레이븐의 진시드를 이식한 직후, 네오파이트의 많은 비율이 사이킥 능력을 발달시켰기 때문에, 다른 스페이스 마린 챕터에 있는 이 계급들 중에서, 유별나게 많은 수의 라이브러리안들을 생산합니다.</BloodRavens.description>
+  <BloodRavens.fixedName>블러드 레이븐</BloodRavens.fixedName>
+  <BloodRavens.pawnsPlural>아스타르테스</BloodRavens.pawnsPlural>
+  <BloodRavens.leaderTitle>사령관</BloodRavens.leaderTitle>
+  <Salamanders.label>샐러맨더</Salamanders.label>
+  <Salamanders.description>샐러맨더는 스페이스 마린의 충성파 퍼스트 파운딩 챕터 중 하나입니다. 그들은 원래 위대한 성전과 호루스 헤러시 때, 제국의 XVIII 스페이스 마린 군단으로 활동했고, 그들의 프라이마크가 돌아오기 전 얼마 동안 "드래곤 워리어"로 알려져 있었습니다. 그들의 고향은 화산이 요동치는 죽음의 세계 녹턴입니다. 한 챕터로서 샐러맨더는 대부분의 다른 스페이린 마린과 다르게 민간인 사상자를 이례적으로 신경쓰고 있으며, 자신들의 가장 중요한 임무가 자신들의 손이 닿는 한, 인류 황제의 신민들을 보호하는 것이라고 믿고 있습니다. 이것은 샐러맨더가 스페이스 마린이 된 후에도, 그들의 가족과 그들의 고향 사람들과 계속 교류하는 유일한 챕터 중 하나이기 때문에, 녹턴 사람들과 유별나게 밀접한 관계를 가지게 되어, 만들어진 태도입니다. 예를 들어, 샐러맨더가 녹턴 사람들 사이에서 클랜 리더 역할을 하고, 챕터 사업상 녹턴의 달, 프로메테우스에 있는 챕터의 요새-사원에 머무를 필요가 없을 때, 그들과 함께 사는 것이 드문 일이 아닙니다. 샐러맨더와 사람들 전체는 프로메테우스 컬트라고 불리는 제국 컬트의 변종으로 고수됨으로써 정의됩니다.</Salamanders.description>
+  <Salamanders.fixedName>샐러맨더</Salamanders.fixedName>
+  <Salamanders.pawnsPlural>아스타르테스</Salamanders.pawnsPlural>
+  <Salamanders.leaderTitle>사령관</Salamanders.leaderTitle>
+  <SpaceWolves.label>스페이스 울브즈</SpaceWolves.label>
+  <SpaceWolves.description>그들의 주브지크 방언으로 블카 펜리카 또는 "펜리스의 늑대"로 알려진 스페이스 울브즈는 원래 20개의 퍼스트 퍼운딩 스페이스 마린 챕터 중 하나였으며, 한때 유명했던 프라이마크 리만 러스가 이끌었습니다. 원래 위대한 성전인 시작될 때, 황제에 의해 길러진 아스타르테스 VI 군단인, 스페이스 울브즈는 반권위주의적인 방식과 그들의 고향인 펜리스의 잔혹하고 야만적인 문화를 가지고 있을뿐만 아니라 챕터의 조직에서 코덱스 아스타르테스를 극단적으로 일탈한 것으로 유명합니다. 호루스 헤러시와 그 결과로 아뎁투스 아스타르테스의 세컨드 파운딩이 일어난 이후, 스페이스 울브즈 군단은 두 개의 챕터로 분리됐습니다:새로운 스페이스 울프 군단은 코덱스 아스타르테스의 명령을 따르지 않고 모체 군단의 이름을 그대로 계승했습니다. 그리고 세컨드 챕터는 울프 브라더스라는 이름을 가졌습니다. 울프 브라더스는 창립 직후 진시드가 마구 돌연변이가 일어나서 고통을 받았습니다. 그리고 결국, 해체되었습니다. 제국에 다른 스페이스 울프 챕터의 계승자가 있는지 여부는 현재 알려지지 않았습니다.</SpaceWolves.description>
+  <SpaceWolves.fixedName>스페이스 울브즈</SpaceWolves.fixedName>
+  <SpaceWolves.pawnsPlural>아스타르테스</SpaceWolves.pawnsPlural>
+  <SpaceWolves.leaderTitle>사령관</SpaceWolves.leaderTitle>
+  <Ultramarines.label>울트라마린</Ultramarines.label>
+  <Ultramarines.description>울트라마린은 인류 제국에 모든 스페이스 마린 챕터 중에서 가장 강력하고 명예로운 자들 중 하나로 여겨지며, 호루스 헤러시 이후 제국을 거의 홀로 지탱하는 역할을 해왔습니다. 고도로 훈련되고 용감한 전사인, 울트라마린은 그들의 프라이마크 로부트 길리먼의 가르침을 10,000년 동안 충실히 이행했습니다. 울트라마린은 본래 세컨드 파운딩 개혁이 이전에 XIII 스페이스 마린 군단이였으며,  호루스 헤러시 이후에 길리먼의 명령에 따라 제국을 재편성했습니다.</Ultramarines.description>
+  <Ultramarines.fixedName>울트라마린</Ultramarines.fixedName>
+  <Ultramarines.pawnsPlural>아스타르테스</Ultramarines.pawnsPlural>
+  <Ultramarines.leaderTitle>사령관</Ultramarines.leaderTitle>
+  <IGCadian412.label>412번째 카디안 연대</IGCadian412.label>
+  <IGCadian412.description>412번째 카디안은 도미나투스로 알려진 오랫동안 잃어버린 임페라토르급 타이탄을 되찾기 위해서 얻어붙은 세계 로른 V 군사 작전에 참여했습니다.</IGCadian412.description>
+  <IGCadian412.fixedName>412번째 카디안 연대</IGCadian412.fixedName>
+  <IGCadian412.pawnsPlural>카디안</IGCadian412.pawnsPlural>
+  <IGCadian412.leaderTitle>커미사르</IGCadian412.leaderTitle>
+  <CWUlthwe.label>울쓰웨</CWUlthwe.label>
+  <CWUlthwe.description>풀네임이 울타나시 셸웨(엘다의 언어에서 울타나시의 노래나는 뜻)인, 울쓰웨는 엘다의 멸망에서 살아남은 거대한 엘다 크래프트 월드 중 하나입니다. 다른 크래프트월드들이 속삭이길, 울쓰웨의 엘다는 아이 오브 테러에 가까이 있는 것에 저주 받았으며, 그들의 싸이킥 능력의 가능성이 과장되게 표현됩니다. 울쓰웨는 그들이 자신들의 종족의 생존을 위한 보호자와 완전한 파괴를 대신해야 한다고 알고있습니다. 이 크래프트 월드의 룬 문자 "이샤의 눈"은 이샤의 슬픔을 나타내며, 생명의 여신이 엘다에게 강림했다는 믿음을 상징합니다. 이샤는 신들의 왕인 아슈리만이 그녀의 필멸자 아이들과 헤어지라고 할 때 비통하게 울었다고 합니다. 바울이 그녀의 눈물을 넣어 단조한 눈부신 스피릿 스톤들로 그녀의 비탄이 공허로 빠지지 못하게 만들었습니다. 현재, 울쓰웨의 전사들은 그들이 오래전에 잃어버린 신을 가슴 아프게 상기시키는 이 상징을 인장으로 씁니다.</CWUlthwe.description>
+  <CWUlthwe.fixedName>울쓰웨</CWUlthwe.fixedName>
+  <CWUlthwe.pawnsPlural>울쓰웨</CWUlthwe.pawnsPlural>
+  <CWUlthwe.leaderTitle>파시어</CWUlthwe.leaderTitle>
+  <CWAlaitoc.label>알라이톡</CWAlaitoc.label>
+  <CWAlaitoc.description>알라이톡은 다른 크래프트 월드보다 더 멀리있는 싸움터에 그들의 영향력을 행사하는 엘다 아수랴니 크래프트 월드로, 그들의 눈과 귀의 역할을 하기 위해 은하계를 가로지르는 요원들을 보냅니다. 전쟁터에서 그들의 군대는 가능한 모든 곳에서 조용히 그리고 간교하게 죽이면서, 폭력보다 조용함과 그리고 속임수를 선호합니다. 알라이톡의 룬 문자는 케인의 검이 붉은 달을 가로지르는 모습을 묘사합니다;엘다네쉬 가문의 상징은 천상의 전쟁을 일으킨 암울한 기억에서 비롯됐습니다. 붉은 달은 지금도 엘다에게 좋지 않은 징조이며, 신들을 불쾌하게 여기는 필멸자들의 운명을 상키시켜주는 것으로 사용됩니다. 알라이톡과 그들의 군대는 파란색과 노란색으로 연관되어 있습니다. 크래프트 월드는 현재 고대 아엘다리 제국의 심장부였던 울티마 세그멘툼에 있는 것으로 알려져 있습니다.</CWAlaitoc.description>
+  <CWAlaitoc.fixedName>알라이톡</CWAlaitoc.fixedName>
+  <CWAlaitoc.pawnsPlural>알라이톡</CWAlaitoc.pawnsPlural>
+  <CWAlaitoc.leaderTitle>파시어</CWAlaitoc.leaderTitle>
+  <OrkEvilSunz.label>이블선즈</OrkEvilSunz.label>
+  <OrkEvilSunz.description>이쁠 썬쮸는 꽈속에만 줜념하고 전튜 중에 갸능한 큰 쏘리를 냬눈 "클랜"이지. 고프 클랜이 폭력과 공격을 조아하듓이 우리, 이불 썬주도 솤도를 엄청 종아한타고. 이뿔 썬주는 "붉은 건 더 빨리 까지"라는 일반적인 옼스 격언을 우리뒬의 클랜 뭐토로 삼는다. 우리 이블선쭈는 뽀이즈들이 줜뚜에서 탈 수 있는 워 바이크, 워 버기 긔리고 트럮같은 존내 빠른 짜동차를 선물로 주지. 이동성이 뛰어난 워 밴드룰 도와줄려고 우리 이뿕 선즈는 엄청 많은  멕보이를 가쥐고 있지, 이꺼 전뿌가 우릐가 가쥐고 있는 존내 멌진 차들을 줘종하고 잒동시끼기 위해서 있다. 지굼까지 가장 많은 스피드 프릭뜰은 이블 썬쥬 클랜에서 나오지. 우릐눈 뇌를 떨게 하는 스피드를 싸랑하는 옼크돠. 그건, 우릐가 전투에 띄어 들때, 쓰릴에 즁둭뒈게 한다고. 그런데, 우리 스피드광보다 더 미쪄버린 뽀이즈가 있다. 아쭈 뭣찐 친군데, 플라이보즈라고 한돠. 이 췬구는 스피드를 너무 샤랑해서 궝중으로 날라갔고, 오크의 줜투기 그리고 파이타보마를 쪼줭한다.</OrkEvilSunz.description>
+  <OrkEvilSunz.fixedName>이블선즈</OrkEvilSunz.fixedName>
+  <OrkEvilSunz.pawnsPlural>오크</OrkEvilSunz.pawnsPlural>
+  <OrkEvilSunz.leaderTitle>워보스</OrkEvilSunz.leaderTitle>
+  <IGKrieg143.label>143번째 크리그 연대</IGKrieg143.label>
+  <IGKrieg143.description>데스 코어 143번째는 149번쨰와 150번째 시즈 레지먼트와 함께 812.M41에서 88번째 시즈 군대의 12번째 줄 코어에 배속되어, 브락스 공성전으로 알려진 악명 높은 군사 작전에 참여했습니다. 143번째 시즈 레지먼트는 브락스에  첫번째로 상륙한 데스 코어 오브 크리그 연대입니다. 149번과 150번 시즈 레지먼트는 830.M41에서 지구에 있는 카오스 군대가 무력화되면서 마침내 철수했습니다.</IGKrieg143.description>
+  <IGKrieg143.fixedName>143번쨰 크리그 연대</IGKrieg143.fixedName>
+  <IGKrieg143.pawnsPlural>데스 코어</IGKrieg143.pawnsPlural>
+  <IGKrieg143.leaderTitle>커미사르</IGKrieg143.leaderTitle>
+  <KrootTribal.label>크룻 일가친척 부족</KrootTribal.label>
+  <KrootTribal.description>페크에서 온 크룻 부족은, 이러한 수준 낮은 기술력으로 그들의 고향에서 이렇게 멀리까지 왔는지 알 수 없지만, 그들은 타우 제국의 도움을 받고 있는 것으로 보입니다.</KrootTribal.description>
+  <KrootTribal.fixedName>크룻 일가친척</KrootTribal.fixedName>
+  <KrootTribal.pawnsPlural>크룻</KrootTribal.pawnsPlural>
+  <KrootTribal.leaderTitle>샤퍼</KrootTribal.leaderTitle>
+  <SaceaSept.label>샤'시아 일족</SaceaSept.label>
+  <SaceaSept.description>젊지만 발전된 타우 종족 세력입니다.</SaceaSept.description>
+  <SaceaSept.fixedName>샤'시아 일족</SaceaSept.fixedName>
+  <SaceaSept.pawnsPlural>타우</SaceaSept.pawnsPlural>
+  <SaceaSept.leaderTitle>아운'오</SaceaSept.leaderTitle>
+  <Sautekh.label>사우테크 왕조</Sautekh.label>
+  <Sautekh.description>생체변환 이전 시대, 사우테크 왕조는 모든 네크론티르 왕조에서 세 번째로 강력한 왕조로 평가됐습니다. 우연한 기회나 계획을 통해, 사우테크의 핵심 세계는 영겁의 세월에서 다른 왕조보다 더 잘 살아남았습니다. 이제, 이 네크론 왕조는 은하에 어떠한 종족보다 강력하며, 그 고귀함은 고대 네크론 제국을 부활시리켜는 새로운 팽창의 물결을 일으키기 위해서 공격적으로 나섭니다.</Sautekh.description>
+  <Sautekh.fixedName>사우테크 왕조</Sautekh.fixedName>
+  <Sautekh.pawnsPlural>네크론</Sautekh.pawnsPlural>
+  <Sautekh.leaderTitle>오버로드</Sautekh.leaderTitle>
+  <MartyredLady.label>우리의 순교한 레이디</MartyredLady.label>
+  <MartyredLady.description>우리의 순교한 레이디는 3만 6천년 아뎁타 소로리타스의 주요 수녀원이 테라와 오필리아 VII 사이에서 분리되어, 그 중에서도 우리의 순교한 레이디가 만들어졌을 때, 에클레시아키 알렉시스 XXII(대개혁가 세바스티안 토르의 오래된 후계자)가 성 셀레스틴를 기리기 위해 세운 아뎁타 소로리타스의 오더 밀리턴트, 혹은 시스터즈 오브 배틀 중 하나입니다.</MartyredLady.description>
+  <MartyredLady.fixedName>우리의 순교한 레이디</MartyredLady.fixedName>
+  <MartyredLady.pawnsPlural>시스터</MartyredLady.pawnsPlural>
+  <MartyredLady.leaderTitle>사령관</MartyredLady.leaderTitle>
+  <IGSteelLegion808.label>808번째 스틸리전</IGSteelLegion808.label>
+  <IGSteelLegion808.description>아마겟돈 808번째 스틸리전은 공격적이고 강인한 장교들로 유명합니다. 그들의 지휘 방식은 적에게 기습적으로 혹은 엄청나게 빠르게 접근하기 위해서 평범하지 않고, 때로는 상당히 위험한 행동을 시도하여 상당한 명성을 얻었습니다. 이 연대는 제국 크루세이드가 나선팔 최전선으로 진입하는 동안 처음으로 관심을 받았는데, 이때 간프 마그나 행성에서 오크 군단과 격렬하게 전투를 벌이게 되었습니다. 현지 오크 몹들의 원시적인 무기와 장비에도 불구하고, 그들은 놀랍게도 지형을 교활하게 사용해서 808째에 걸쳐 몇 번의 승리를 거두었고, 연대의 수송 차량을 일련의 좁은 통로에서 발을 묶어서, 그들이 가진 특유의 잔혹성으로 좁은 통로에 있는 제국 병사들을 학살했습니다. 808번째는 그들의 손실에서 회복됐고 후에 더 성공적인 교전을 입증했고, 간프 마그나에 있는 모든 오크가 사라진 것을 보고, 그린스킨들에게 복수하겠다고 맹세했습니다. 하지만 곧 다시 재배치됐지만, 그들의 분노는 오크의 검은 피에서 꺼지지 않았습니다. 808번째는 최근 행성 시스크에서 기이한 교전을 목격했습니다. 원래 훈련을 의미했던, 키메라 호송대 스틸리전이 북쪽 대륙의 외곽 부분을 순찰 중이었는데, 그 때 대못이 박힌 파워 아머를 입은 거대한 인물이 이끄는 불량 사이커와 돌연변이들을 마주쳤습니다. 뒤이어 벌어진 전투는 악몽과도 같았습니다. 갑작스러운 지진으로 인해 수 많은 키메라가 고철덩어리가 됐고, 스틸리전은 어쩔 수 없이 키메라에서 내렸습니다. 아마겟돈 군대는 적의 사이커의 예상을 뚫고, 살아있는 불의 참호를 넘고, 움직이는 슬라임의 공격에 저항하며 맞서 싸웠습니다. 돌연변이들과 워밴드의 지휘관들은 스틸리전에게 심각한 사상자를 내게 했지만, 독성 환경에서 살아남을 수 있는 그들의 능력은 맹습에서 살아남을 수 있게 했고, 피로스의 승리라고 주장했습니다. 어떠한 가드맨들도 이런 위업을 이룰 수 없었을 것이고, 808번째의 깃발은 시스크의 에클레시아르키 고위 성직자들부터 그들의 용맹을 기리는 축복을 받았습니다.</IGSteelLegion808.description>
+  <IGSteelLegion808.fixedName>808번째 스틸리전</IGSteelLegion808.fixedName>
+  <IGSteelLegion808.pawnsPlural>스틸리전</IGSteelLegion808.pawnsPlural>
+  <IGSteelLegion808.leaderTitle>커미사르</IGSteelLegion808.leaderTitle>
+  <TauEmpire.label>타우 제국</TauEmpire.label>
+  <TauEmpire.description>젊지만 발전된 타우 종족 세력입니다.</TauEmpire.description>
+  <TauEmpire.fixedName>타우 제국</TauEmpire.fixedName>
+  <TauEmpire.pawnsPlural>타우</TauEmpire.pawnsPlural>
+  <TauEmpire.leaderTitle>아운'오</TauEmpire.leaderTitle>
+  <IGValhallan597.label>597번째 발할라 연대</IGValhallan597.label>
+  <IGValhallan597.description>발할라 아이스 워리어의 597번째 분대는 941.M41에서 형성됐고, 그들은 사이파스 케인 커미사르의 오랜 세월 동안 본거지 연대로 유명합니다.</IGValhallan597.description>
+  <IGValhallan597.fixedName>597번째 발할라 연대</IGValhallan597.fixedName>
+  <IGValhallan597.pawnsPlural>발할라</IGValhallan597.pawnsPlural>
+  <IGValhallan597.leaderTitle>커미사르</IGValhallan597.leaderTitle>
+
+</LanguageData>

@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1240656304_190617_Lighter Than Fast-->
+  <MindlessSelfIndulgenceHigh.label>무의식적인 자기 허세에 취함</MindlessSelfIndulgenceHigh.label>
+  <MSITolerance.label>MSI 내성</MSITolerance.label>
+  <MSITolerance.stages.0.label>사소함</MSITolerance.stages.0.label>
+  <MSITolerance.stages.1.label>사소함</MSITolerance.stages.1.label>
+  <MSITolerance.stages.2.label>심각함</MSITolerance.stages.2.label>
+  <MSITolerance.stages.3.label>극심함</MSITolerance.stages.3.label>
+  <MSIAddiction.label>MSI 중독</MSIAddiction.label>
+  <MSIAddiction.stages.1.label>중단</MSIAddiction.stages.1.label>
+  <Hediff_LTF_EngieChemfuelLeak.label>연료 누출</Hediff_LTF_EngieChemfuelLeak.label>
+  <Hediff_LTF_EngieChemfuelLeak.labelNoun>인게임에서 이 문장을 보면 제보바람 slugHeDiff.labelNoun</Hediff_LTF_EngieChemfuelLeak.labelNoun>
+  <Hediff_LTF_01Cooler.label>쿨러1</Hediff_LTF_01Cooler.label>
+  <Hediff_LTF_02Cooler.label>쿨러2</Hediff_LTF_02Cooler.label>
+  <Hediff_LTF_04Cooler.label>쿨러4</Hediff_LTF_04Cooler.label>
+  <Hediff_LTF_02Core.label>코어02두얼</Hediff_LTF_02Core.label>
+  <Hediff_LTF_04Core.label>코어04쿼드</Hediff_LTF_04Core.label>
+  <Hediff_LTF_08Core.label>코어08옥타</Hediff_LTF_08Core.label>
+  <Hediff_LTF_16Core.label>코어16헥사</Hediff_LTF_16Core.label>
+  <Hediff_LTF_32Core.label>코어32</Hediff_LTF_32Core.label>
+  <Hediff_LTF_64Core.label>코어64</Hediff_LTF_64Core.label>
+  <Hediff_LTF_constructRom.label>건설 롬1</Hediff_LTF_constructRom.label>
+  <Hediff_LTF_construct2Rom.label>건설 롬2</Hediff_LTF_construct2Rom.label>
+  <Hediff_LTF_construct3Rom.label>건설 롬3</Hediff_LTF_construct3Rom.label>
+  <Hediff_LTF_cookRom.label>요리 롬1</Hediff_LTF_cookRom.label>
+  <Hediff_LTF_cook2Rom.label>요리 롬2</Hediff_LTF_cook2Rom.label>
+  <Hediff_LTF_cookKrom.label>요리 크롬1</Hediff_LTF_cookKrom.label>
+  <Hediff_LTF_craftRom.label>제작 롬1</Hediff_LTF_craftRom.label>
+  <Hediff_LTF_craft2Rom.label>제작 롬2</Hediff_LTF_craft2Rom.label>
+  <Hediff_LTF_craft3Rom.label>제작 롬3</Hediff_LTF_craft3Rom.label>
+  <Hediff_LTF_growRom.label>원예 롬1</Hediff_LTF_growRom.label>
+  <Hediff_LTF_grow2Rom.label>원예 롬2</Hediff_LTF_grow2Rom.label>
+  <Hediff_LTF_medicineRom.label>의학 롬1</Hediff_LTF_medicineRom.label>
+  <Hediff_LTF_medicine2Rom.label>의학 롬2</Hediff_LTF_medicine2Rom.label>
+  <Hediff_LTF_medicineKrom.label>의학 크롬1</Hediff_LTF_medicineKrom.label>
+  <Hediff_LTF_miningRom.label>채굴 롬01</Hediff_LTF_miningRom.label>
+  <Hediff_LTF_mining2Rom.label>채굴 롬02</Hediff_LTF_mining2Rom.label>
+  <Hediff_LTF_researchRom.label>연구 롬1</Hediff_LTF_researchRom.label>
+  <Hediff_LTF_research2Rom.label>연구 롬2</Hediff_LTF_research2Rom.label>
+  <Hediff_LTF_researchKrom.label>연구 크롬1</Hediff_LTF_researchKrom.label>
+  <Hediff_LTF_socialRom.label>사회 롬1</Hediff_LTF_socialRom.label>
+  <Hediff_LTF_social2Rom.label>사회 롬2</Hediff_LTF_social2Rom.label>
+  <Hediff_LTF_tamingRom.label>조련 롬1</Hediff_LTF_tamingRom.label>
+  <Hediff_LTF_taming2Rom.label>조련 롬2</Hediff_LTF_taming2Rom.label>
+  <Hediff_LTF_LeftSteelClaws.label>왼쪽 강철 손톱</Hediff_LTF_LeftSteelClaws.label>
+  <Hediff_LTF_RightSteelClaws.label>오른쪽 강철 손톱</Hediff_LTF_RightSteelClaws.label>
+  <Hediff_LTF_LeftPlasteelClaws.label>왼쪽 플라스틸 손톱</Hediff_LTF_LeftPlasteelClaws.label>
+  <Hediff_LTF_RightPlasteelClaws.label>오른쪽 플라스틸 손톱</Hediff_LTF_RightPlasteelClaws.label>
+  <Hediff_LTF_MindBreak.label>정신 붕괴</Hediff_LTF_MindBreak.label>
+  <Hediff_LTF_MindBreak.stages.0.label>정신붕괴</Hediff_LTF_MindBreak.stages.0.label>
+  <Hediff_LTF_MindBreak.labelNoun>단계적 붕괴</Hediff_LTF_MindBreak.labelNoun>
+  <Hediff_LTF_FactionChange.label>정신 조종</Hediff_LTF_FactionChange.label>
+  <Hediff_LTF_FactionChange.labelNoun>단계적 노예화</Hediff_LTF_FactionChange.labelNoun>
+  <Hediff_LTF_SlugLowExugation.label>Dew sceptical</Hediff_LTF_SlugLowExugation.label>
+  <Hediff_LTF_SlugLowExugation.labelNoun>인게임에서 이 문장을 보면 제보바람 slugHeDiff.labelNoun</Hediff_LTF_SlugLowExugation.labelNoun>
+  <Hediff_LTF_SlugMedExugation.label>Dew volonteer</Hediff_LTF_SlugMedExugation.label>
+  <Hediff_LTF_SlugMedExugation.labelNoun>인게임에서 이 문장을 보면 제보바람 slugHeDiff.labelNoun</Hediff_LTF_SlugMedExugation.labelNoun>
+  <Hediff_LTF_SlugHighExugation.label>Dewkward</Hediff_LTF_SlugHighExugation.label>
+  <Hediff_LTF_SlugHighExugation.labelNoun>인게임에서 이 문장을 보면 제보바람 slugHeDiff.labelNoun</Hediff_LTF_SlugHighExugation.labelNoun>
+  <Hediff_LTF_SlugInsectExugation.label>Hive</Hediff_LTF_SlugInsectExugation.label>
+  <Hediff_LTF_SlugInsectExugation.labelNoun>인게임에서 이 문장을 보면 제보바람 slugHeDiff.labelNoun</Hediff_LTF_SlugInsectExugation.labelNoun>
+  <Hediff_LTF_SlugRottingExugation.label>Rotting flesh</Hediff_LTF_SlugRottingExugation.label>
+  <Hediff_LTF_SlugRottingExugation.labelNoun>인게임에서 이 문장을 보면 제보바람 slugHeDiff.labelNoun</Hediff_LTF_SlugRottingExugation.labelNoun>
+  <Hediff_LTF_SlugYayo.label>Yayo factory</Hediff_LTF_SlugYayo.label>
+  <Hediff_LTF_SlugYayo.labelNoun>인게임에서 이 문장을 보면 제보바람 slugHeDiff.labelNoun</Hediff_LTF_SlugYayo.labelNoun>
+  <Hediff_LTF_ZoltanEgg.label>matter time c[_]</Hediff_LTF_ZoltanEgg.label>
+  <Hediff_LTF_ZoltanEgg.labelNoun>인게임에서 이 문장을 보면 제보바람 slugHeDiff.labelNoun</Hediff_LTF_ZoltanEgg.labelNoun>
+  <LTF_SlugDewBeeraweckaHigh.label>슬러그 분비물 베라위카에 취함</LTF_SlugDewBeeraweckaHigh.label>
+  <LTF_SlugDewBeeraweckaTolerance.label>슬러그 분비물 베라위카 내성</LTF_SlugDewBeeraweckaTolerance.label>
+  <LTF_SlugDewBeeraweckaTolerance.stages.0.label>사소함</LTF_SlugDewBeeraweckaTolerance.stages.0.label>
+  <LTF_SlugDewBeeraweckaTolerance.stages.1.label>사소함</LTF_SlugDewBeeraweckaTolerance.stages.1.label>
+  <LTF_SlugDewBeeraweckaTolerance.stages.2.label>심각함</LTF_SlugDewBeeraweckaTolerance.stages.2.label>
+  <LTF_SlugDewBeeraweckaTolerance.stages.3.label>극심함</LTF_SlugDewBeeraweckaTolerance.stages.3.label>
+  <LTF_SlugDewBeeraweckaAddiction.label>슬러그 분비물 베라위카 중단</LTF_SlugDewBeeraweckaAddiction.label>
+  <LTF_SlugDewBeeraweckaAddiction.stages.1.label>중단</LTF_SlugDewBeeraweckaAddiction.stages.1.label>
+
+  <!--1294507772_190519_The Mantodean insectoid race-->
+  <bluejellyingestion.label>파란 젤리 섭취</bluejellyingestion.label>
+  <bluejellyingestion.labelNoun>파란 젤리를 섭취</bluejellyingestion.labelNoun>
+  <ProstheticMantoLeg.label>맨토디안 보철 다리</ProstheticMantoLeg.label>
+  <ProstheticMantoLeg.labelNoun>맨토디안 보철 다리</ProstheticMantoLeg.labelNoun>
+  <MutatedMantoLeg.label>맨토디안 변종 다리</MutatedMantoLeg.label>
+  <MutatedMantoLeg.labelNoun>맨토디안 변종 다리</MutatedMantoLeg.labelNoun>
+  <MutatedCombatPincer.label>변종 팔 (붉은색)</MutatedCombatPincer.label>
+  <MutatedCombatPincer.comps.0.tools.0.label>집게발</MutatedCombatPincer.comps.0.tools.0.label>
+  <MutatedCombatPincer.labelNoun>변종이 된 멘토디안의 팔</MutatedCombatPincer.labelNoun>
+  <MutatedPincer.label>변종 팔 (초록색)</MutatedPincer.label>
+  <MutatedPincer.comps.0.tools.0.label>집게발</MutatedPincer.comps.0.tools.0.label>
+  <MutatedPincer.labelNoun>변종이 된 멘토디안의 팔</MutatedPincer.labelNoun>
+  <MutatedEyeSet.label>변종 눈 무리</MutatedEyeSet.label>
+  <MutatedEyeSet.labelNoun>변종 눈 무리</MutatedEyeSet.labelNoun>
+  <MutatedMarrowLight.label>변종 골격 구조</MutatedMarrowLight.label>
+  <MutatedMarrowLight.labelNoun>맨토디안의 변종 골격 구조</MutatedMarrowLight.labelNoun>
+  <MutatedMarrowHeavy.label>변종 밀집 골격 구조</MutatedMarrowHeavy.label>
+  <MutatedMarrowHeavy.labelNoun>맨토디안의 변종 밀집 골격 구조</MutatedMarrowHeavy.labelNoun>
+  <MutatedBreathingSac.label>변종 호흡 주머니</MutatedBreathingSac.label>
+  <MutatedBreathingSac.labelNoun>변종 호흡 주머니</MutatedBreathingSac.labelNoun>
+  <MutatedAcidGland.label>변종 독샘</MutatedAcidGland.label>
+  <MutatedAcidGland.labelNoun>변종 독샘</MutatedAcidGland.labelNoun>
+  <MutatedPedipalp.label>변종 팔 (푸른색)</MutatedPedipalp.label>
+  <MutatedPedipalp.labelNoun>변종이 된 멘토디안의 팔</MutatedPedipalp.labelNoun>
+
+  <!--1314474881_181118_Avali-->
+  <AmmoniaPoisoning.label>암모니아 중독</AmmoniaPoisoning.label>
+  <AmmoniaPoisoning.stages.0.label>경미함</AmmoniaPoisoning.stages.0.label>
+  <AmmoniaPoisoning.stages.1.label>사소함</AmmoniaPoisoning.stages.1.label>
+  <AmmoniaPoisoning.stages.2.label>심각함</AmmoniaPoisoning.stages.2.label>
+  <AmmoniaPoisoning.stages.3.label>극심함</AmmoniaPoisoning.stages.3.label>
+  <CyberneticAvaliTail.label>인공지능 아발리 꼬리</CyberneticAvaliTail.label>
+  <CyberneticAvaliTail.labelNoun>인공지능 아발리 꼬리</CyberneticAvaliTail.labelNoun>
+  <CyberneticAvaliBody.label>인공지능 아발리 몸통</CyberneticAvaliBody.label>
+  <CyberneticAvaliBody.labelNoun>인공지능 아발리 몸통</CyberneticAvaliBody.labelNoun>
+  <CyberneticAvaliHead.label>인공지능 아발리 머리</CyberneticAvaliHead.label>
+  <CyberneticAvaliHead.comps.0.tools.0.label>이빨</CyberneticAvaliHead.comps.0.tools.0.label>
+  <CyberneticAvaliHead.labelNoun>인공지능 아발리 머리</CyberneticAvaliHead.labelNoun>
+  <CyberneticAvaliLeg.label>인공지능 아발리 다리</CyberneticAvaliLeg.label>
+  <CyberneticAvaliLeg.comps.0.tools.0.label>다리</CyberneticAvaliLeg.comps.0.tools.0.label>
+  <CyberneticAvaliLeg.comps.0.tools.1.label>다리 발톱</CyberneticAvaliLeg.comps.0.tools.1.label>
+  <CyberneticAvaliLeg.labelNoun>인공지능 아발리 다리</CyberneticAvaliLeg.labelNoun>
+  <CyberneticAvaliArm.label>인공지능 아발리 팔</CyberneticAvaliArm.label>
+  <CyberneticAvaliArm.comps.0.tools.0.label>주먹</CyberneticAvaliArm.comps.0.tools.0.label>
+  <CyberneticAvaliArm.comps.0.tools.1.label>손 발톱</CyberneticAvaliArm.comps.0.tools.1.label>
+  <CyberneticAvaliArm.labelNoun>인공지능 아발리 팔</CyberneticAvaliArm.labelNoun>
+  <ClothAvaliTail.label>천 꼬리</ClothAvaliTail.label>
+  <ClothAvaliTail.labelNoun>천 꼬리</ClothAvaliTail.labelNoun>
+  <ClothAvaliEar.label>천 귀</ClothAvaliEar.label>
+  <ClothAvaliEar.labelNoun>천 귀</ClothAvaliEar.labelNoun>
+  <AvaliDroneDeactivate.label>비활성화</AvaliDroneDeactivate.label>
+  <AvaliSightAugment.label>아발리 시력 보강</AvaliSightAugment.label>
+  <AvaliSightAugment.labelNoun>아발리 시력 보강</AvaliSightAugment.labelNoun>
+  <AvaliHearingAugment.label>아발리 청각 보강</AvaliHearingAugment.label>
+  <AvaliHearingAugment.labelNoun>아발리 청각 보강</AvaliHearingAugment.labelNoun>
+  <AvaliCoolAugment.label>아발리 냉각 보강</AvaliCoolAugment.label>
+  <AvaliCoolAugment.labelNoun>아발리 냉각 보강</AvaliCoolAugment.labelNoun>
+  <AvaliHeatAugment.label>아발리 보온 보강</AvaliHeatAugment.label>
+  <AvaliHeatAugment.labelNoun>아발리 보온 보강</AvaliHeatAugment.labelNoun>
+  <AvaliEnviromentalAugment.label>아발리 생명 유지 보강</AvaliEnviromentalAugment.label>
+  <AvaliEnviromentalAugment.labelNoun>아발리 생명 유지 보강</AvaliEnviromentalAugment.labelNoun>
+  <AvaliPackLossAugment.label>아발리 광기예방 보강</AvaliPackLossAugment.label>
+  <AvaliPackLossAugment.labelNoun>아발리 광기예방 보강</AvaliPackLossAugment.labelNoun>
+  <PlasteelAvaliTalons.label>플라스틸 아발리 발톱</PlasteelAvaliTalons.label>
+  <PlasteelAvaliTalons.comps.0.tools.0.label>플라스틸 아발리 발톱</PlasteelAvaliTalons.comps.0.tools.0.label>
+  <PlasteelAvaliTalons.labelNoun>플라스틸 아발리 발톱</PlasteelAvaliTalons.labelNoun>
+  <AvaliBasicLiveSupport.label>기본 온도 조절 및 생명 유지 시스템</AvaliBasicLiveSupport.label>
+  <AvaliBasicLifeSupportDamaged.label>기본 온도 조절 및 생명 유지 시스템</AvaliBasicLifeSupportDamaged.label>
+  <OxygenAtmosphere.label>산소 대기</OxygenAtmosphere.label>
+  <OxygenAtmosphere.stages.0.label>사망까지 10시간</OxygenAtmosphere.stages.0.label>
+  <OxygenAtmosphere.stages.1.label>사망까지 9시간</OxygenAtmosphere.stages.1.label>
+  <OxygenAtmosphere.stages.2.label>사망까지 8시간</OxygenAtmosphere.stages.2.label>
+  <OxygenAtmosphere.stages.3.label>사망까지 7시간</OxygenAtmosphere.stages.3.label>
+  <OxygenAtmosphere.stages.4.label>사망까지 6시간</OxygenAtmosphere.stages.4.label>
+  <OxygenAtmosphere.stages.5.label>사망까지 5시간</OxygenAtmosphere.stages.5.label>
+  <OxygenAtmosphere.stages.6.label>사망까지 4시간</OxygenAtmosphere.stages.6.label>
+  <OxygenAtmosphere.stages.7.label>사망까지 3시간</OxygenAtmosphere.stages.7.label>
+  <OxygenAtmosphere.stages.8.label>사망까지 2시간</OxygenAtmosphere.stages.8.label>
+  <OxygenAtmosphere.stages.9.label>사망까지 1시간</OxygenAtmosphere.stages.9.label>
+  <AvaliBiology.label>아발리 생물학</AvaliBiology.label>
+  <ToxicImmunity.label>독성 면역</ToxicImmunity.label>
+  <AvaliAgeTracker.label>아발리 키트 연령 추적기</AvaliAgeTracker.label>
+  <CantTalk.label>이야기할 수 없음</CantTalk.label>
+  <AvaliSugarEffect.label>아발리 설탕 효과</AvaliSugarEffect.label>
+  <AvaliHasEgg.label>알을 품음</AvaliHasEgg.label>
+  <AvaliHasEgg.comps.0.discoverLetterLabel>{0}(이)가 곧 알을 낳습니다</AvaliHasEgg.comps.0.discoverLetterLabel>
+  <AvaliHasEgg.comps.0.discoverLetterText>{0}(이)가 곧 알을 낳습니다!</AvaliHasEgg.comps.0.discoverLetterText>
+  <AvaliHasEgg.stages.0.label>알 형성 시작</AvaliHasEgg.stages.0.label>
+  <AvaliHasEgg.stages.1.label>알 거의 형성됨</AvaliHasEgg.stages.1.label>
+  <AvaliHasEgg.stages.2.label>알 형성</AvaliHasEgg.stages.2.label>
+  <AvaliHasEgg.labelNoun>알을 가짐</AvaliHasEgg.labelNoun>
+  <AvaliCaresOfEgg.label>알을 돌봄</AvaliCaresOfEgg.label>
+  <GuardianNanites.label>수호자 nanites</GuardianNanites.label>
+  <ImmunityNanites.label>면역 증강 나노기계</ImmunityNanites.label>
+  <AvaliPackExploration.label>탐사 세력</AvaliPackExploration.label>
+  <AvaliPackMilitary.label>군사 세력</AvaliPackMilitary.label>
+  <AvaliPackHunting.label>사냥꾼 세력</AvaliPackHunting.label>
+  <AvaliPackScientific.label>과학 세력</AvaliPackScientific.label>
+  <AvaliPackIndustrial.label>산업 세력</AvaliPackIndustrial.label>
+  <AvaliPackArtistical.label>예술 세력</AvaliPackArtistical.label>
+
+  <!--1365540920_190714_Black Widows-->
+  <BionicRightPedipalp.label>생체공학 오른쪽 각수</BionicRightPedipalp.label>
+  <BionicRightPedipalp.comps.0.tools.0.label>생체공학 오른쪽 각수</BionicRightPedipalp.comps.0.tools.0.label>
+  <BionicRightPedipalp.comps.0.tools.1.label>생체공학 오른쪽 각수</BionicRightPedipalp.comps.0.tools.1.label>
+  <BionicLeftPedipalp.label>생체공학 왼쪽 각수</BionicLeftPedipalp.label>
+  <BionicLeftPedipalp.comps.0.tools.0.label>생체공학 왼쪽 각수</BionicLeftPedipalp.comps.0.tools.0.label>
+  <BionicLeftPedipalp.comps.0.tools.1.label>생체공학 왼쪽 각수</BionicLeftPedipalp.comps.0.tools.1.label>
+  <SimpleProstheticSpiderLeg.label>거미 다리 보철물</SimpleProstheticSpiderLeg.label>
+  <SimpleProstheticSpiderLeg.labelNoun>거미 다리의 보철물</SimpleProstheticSpiderLeg.labelNoun>
+  <BlackWidowShredderLeg.label>파쇄 다리</BlackWidowShredderLeg.label>
+  <BlackWidowShredderLeg.comps.0.tools.0.label>파쇄 다리</BlackWidowShredderLeg.comps.0.tools.0.label>
+  <BlackWidowShredderLeg.labelNoun>생체공학 파쇄 다리</BlackWidowShredderLeg.labelNoun>
+  <BlackWidowSleipnirArm.label>슬레이프니르 계급 위도우의 팔</BlackWidowSleipnirArm.label>
+  <BlackWidowSleipnirArm.comps.0.tools.0.label>주먹</BlackWidowSleipnirArm.comps.0.tools.0.label>
+  <BlackWidowSleipnirArm.labelNoun>슬레이프니르 그물망 생체공학 블랙 위도우 팔</BlackWidowSleipnirArm.labelNoun>
+  <BlackWidowSleipnirArm.description>슬레이프니르는 팔꿈치에서 완전히 다른 기능을 하는 2개의 팔과 손으로 나뉘어져있어 전례없는 조작능력을 부여하는 생체공학 팔입니다.</BlackWidowSleipnirArm.description>
+  <BlackWidowHeartMind.label>블랙 위도우 하트 마인드</BlackWidowHeartMind.label>
+  <BlackWidowHeartMind.labelNoun>하트 마인드'라고도 불리우는 생체공학으로 증폭된 블랙 위도우의 코어 마인드</BlackWidowHeartMind.labelNoun>
+  <BlackWidowIntegratedBroodMind.label>통합된 브루드 마인드</BlackWidowIntegratedBroodMind.label>
+  <BlackWidowIntegratedBroodMind.description>브루드 마인드로 알려진 독립적인 정신들은 조작에는 별로 관여하지 않지만, 위도우가 자신의 몸을 더 좋은 집으로 만들고 보호할 수 있도록 몸을 변형시킬 수 있게 됩니다. 생체공학 자궁 정신 차폐는 위도우의 생물학적 자궁을 초월공학 품질의 기계화 집으로 대체합니다. 이 집은 그녀의 브로드 마인드의 작동에는 거의 영향을 주지 않지만, 그 에너지를 증폭시켜 위도우들이 소량의 손상은 부차적으로 주입된 사이오닉 실드로 막아낼 수 있도록 만들어줍니다. 브루드 마인드 또한 이러한 것을 즐기기 때문에 영구히 군체의식을 증폭시킵니다.</BlackWidowIntegratedBroodMind.description>
+  <BW_SlashDamage.label>위도우 자상 출혈</BW_SlashDamage.label>
+  <BW_SlashDamage.stages.0.label>초기</BW_SlashDamage.stages.0.label>
+  <BW_SlashDamage.stages.1.label>초기</BW_SlashDamage.stages.1.label>
+  <BW_SlashDamage.stages.2.label>경미함</BW_SlashDamage.stages.2.label>
+  <BW_SlashDamage.stages.3.label>보통</BW_SlashDamage.stages.3.label>
+  <BW_SlashDamage.stages.4.label>심각함</BW_SlashDamage.stages.4.label>
+  <BW_SlashDamage.stages.5.label>극도</BW_SlashDamage.stages.5.label>
+  <BW_PunctureDamage.label>찌르기 분쇄</BW_PunctureDamage.label>
+  <BW_PunctureDamage.injuryProps.destroyedLabel>흔적도 없음</BW_PunctureDamage.injuryProps.destroyedLabel>
+  <BW_PunctureDamage.injuryProps.destroyedOutLabel>흔적도 없음</BW_PunctureDamage.injuryProps.destroyedOutLabel>
+  <BW_MindBlastDamage.label>정신 폭발 질명</BW_MindBlastDamage.label>
+  <BW_MindBlastDamage.injuryProps.destroyedLabel>흔적도 없이 폭발함</BW_MindBlastDamage.injuryProps.destroyedLabel>
+  <BW_MindBlastDamage.injuryProps.destroyedOutLabel>흔적도 없이 폭발함</BW_MindBlastDamage.injuryProps.destroyedOutLabel>
+  <WombMind.label>브루드 마인드</WombMind.label>
+  <WombMind.description>회색 어미(Gray Mother)의 알을 품는 정신(brood mind)입니다. 어미 자신과는 별개의 지성을 가지고 있습니다. 위도우의 몸을 생명유지장치로 사용하는 대신, 알을 품는 정신은 그녀의 의식과 연결되어 위도우에게 더 큰 사이오닉 힘과 인지력을 부여합니다.</WombMind.description>
+  <CoreMind.label>코어 마인드</CoreMind.label>
+  <CoreMind.description>회색 어미(Gray Mother)의 핵심 정신(core mind)으로, 다른 정신의 존재로인해 위축되어있습니다.</CoreMind.description>
+  <MatingPsychosis.label>교배 강박증</MatingPsychosis.label>
+  <MatingPsychosis.labelNoun>위도우가 이상해보입니다.</MatingPsychosis.labelNoun>
+  <MemoryHigh.label>시체꽃의 기억에 취함</MemoryHigh.label>
+  <MemoryHigh.labelNoun>시체꽃의 기억에 취함</MemoryHigh.labelNoun>
+  <MemoryTolerance.label>기억의 와인 내성</MemoryTolerance.label>
+  <MemoryTolerance.stages.0.label>사소함</MemoryTolerance.stages.0.label>
+  <MemoryTolerance.stages.1.label>사소함</MemoryTolerance.stages.1.label>
+  <MemoryTolerance.stages.2.label>심각함</MemoryTolerance.stages.2.label>
+  <MemoryTolerance.stages.3.label>극심함</MemoryTolerance.stages.3.label>
+  <MemoryAddiction.label>기억의 와인 중독</MemoryAddiction.label>
+  <MemoryAddiction.stages.1.label>기억 중단</MemoryAddiction.stages.1.label>
+
+  <!--1400227853_190602_Lord of the Rims - Hobbits-->
+  <LotRH_PipeweedHigh.label>호빗 파이프 담배에 취함</LotRH_PipeweedHigh.label>
+  <LotRH_PipeweedChemTolerance.label>호빗 파이프 담배 내성</LotRH_PipeweedChemTolerance.label>
+  <LotRH_PipeweedChemTolerance.stages.0.label>작음</LotRH_PipeweedChemTolerance.stages.0.label>
+  <LotRH_PipeweedChemTolerance.stages.1.label>작음</LotRH_PipeweedChemTolerance.stages.1.label>
+  <LotRH_PipeweedChemTolerance.stages.2.label>큼</LotRH_PipeweedChemTolerance.stages.2.label>
+  <LotRH_PipeweedChemTolerance.stages.3.label>거대함</LotRH_PipeweedChemTolerance.stages.3.label>
+  <LotRH_PipeweedChemAddiction.label>호빗 파이프 담배 의존증</LotRH_PipeweedChemAddiction.label>
+  <LotRH_PipeweedChemAddiction.stages.1.label>금단현상</LotRH_PipeweedChemAddiction.stages.1.label>
+
+  <!--1400234784_190526_Lord of the Rims - Elves-->
+  <LotRE_HadElfBread.label>엘프 빵을 먹었습니다.</LotRE_HadElfBread.label>
+  <LotRE_HadElfBread.stages.0.label>배부름: 엘프 빵</LotRE_HadElfBread.stages.0.label>
+
+  <!--1416483638_190811_Orassans-->
+  <ClothTail.label>헝겊 꼬리</ClothTail.label>
+  <BionicTail.label>생체공학 꼬리</BionicTail.label>
+  <PlasteelClaws.label>플라스틸 발톱</PlasteelClaws.label>
+  <PlasteelClaws.comps.0.tools.0.label>플라스틸 발톱</PlasteelClaws.comps.0.tools.0.label>
+  <Catberries.label>고양이 눈 열매</Catberries.label>
+  <Catberries.stages.0.label>달아오름</Catberries.stages.0.label>
+  <Catberries.stages.1.label>어지러움</Catberries.stages.1.label>
+  <Catberries.stages.2.label>깨어남</Catberries.stages.2.label>
+  <Catberries.stages.3.label>취함</Catberries.stages.3.label>
+  <Catberries.labelNoun>과즙</Catberries.labelNoun>
+  <CatberryTolerance.label>고양이 눈 열매 내성</CatberryTolerance.label>
+  <CatberryTolerance.stages.0.label>적음</CatberryTolerance.stages.0.label>
+  <CatberryTolerance.stages.1.label>보통</CatberryTolerance.stages.1.label>
+  <CatberryTolerance.stages.2.label>큼</CatberryTolerance.stages.2.label>
+  <CatberryTolerance.stages.3.label>극단적</CatberryTolerance.stages.3.label>
+  <CateyeTolerance.label>고양이 눈 열매 내성</CateyeTolerance.label>
+  <CateyeTolerance.stages.0.label>적음</CateyeTolerance.stages.0.label>
+  <CateyeTolerance.stages.1.label>보통</CateyeTolerance.stages.1.label>
+  <CateyeTolerance.stages.2.label>큼</CateyeTolerance.stages.2.label>
+  <CateyeTolerance.stages.3.label>극단적</CateyeTolerance.stages.3.label>
+  <CateyeAddiction.label>고양이 눈 열매 중독</CateyeAddiction.label>
+  <CateyeAddiction.stages.1.label>사용 중지</CateyeAddiction.stages.1.label>
+  <CatnipHigh.label>캣닢에 취함</CatnipHigh.label>
+  <CatnipTolerance.label>캣닢 내성</CatnipTolerance.label>
+  <CatnipTolerance.stages.0.label>적음</CatnipTolerance.stages.0.label>
+  <CatnipTolerance.stages.1.label>보통</CatnipTolerance.stages.1.label>
+  <CatnipTolerance.stages.2.label>큼</CatnipTolerance.stages.2.label>
+  <CatnipTolerance.stages.3.label>극단적</CatnipTolerance.stages.3.label>
+  <CatnipAddiction.label>캣닢 의존도</CatnipAddiction.label>
+  <CatnipAddiction.stages.1.label>사용 중지</CatnipAddiction.stages.1.label>
+
+  <!--1514158118_190519_Avian Races-->
+  <WoodenBeak.label>나무 부리</WoodenBeak.label>
+  <WoodenBeak.comps.0.tools.0.label>조류 부리</WoodenBeak.comps.0.tools.0.label>
+  <WoodenBeak.labelNoun>나무 부리</WoodenBeak.labelNoun>
+  <BionicBeak.label>생체공학 부리</BionicBeak.label>
+  <BionicBeak.comps.0.tools.0.label>조류 부리</BionicBeak.comps.0.tools.0.label>
+  <BionicBeak.labelNoun>생체공학 부리</BionicBeak.labelNoun>
+
+  <!--1541567184_181112_Ni'Hal-->
+  <PlasteelClaws.label>플라스틸 손톱</PlasteelClaws.label>
+  <PlasteelClaws.comps.0.tools.0.label>플라스틸 손톱</PlasteelClaws.comps.0.tools.0.label>
+
+  <!--1543164737_190714_Lanius-->
+  <Hediff_LTF_LaniusRegularOxygenMetabolism.label>산소 부족</Hediff_LTF_LaniusRegularOxygenMetabolism.label>
+  <Hediff_LTF_Asphixia.label>기절</Hediff_LTF_Asphixia.label>
+  <Hediff_LTF_Asphixia.stages.0.label>경미함</Hediff_LTF_Asphixia.stages.0.label>
+  <Hediff_LTF_Asphixia.stages.1.label>심각함</Hediff_LTF_Asphixia.stages.1.label>
+  <Hediff_LTF_Asphixia.stages.2.label>심각함</Hediff_LTF_Asphixia.stages.2.label>
+  <Hediff_LTF_Asphixia.stages.3.label>극도</Hediff_LTF_Asphixia.stages.3.label>
+
+  <!--1545178908_190519_Callistans(1.0)-->
+  <BionicCallistanTail.label>생체공학 캘리스탄 꼬리</BionicCallistanTail.label>
+  <ClothTail.label>캘리스탄 가죽 꼬리</ClothTail.label>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <RRY_FaceHuggerInfection.label>페이스허거</RRY_FaceHuggerInfection.label>
+  <RRY_FaceHuggerInfection.comps.0.discoverLetterLabel>제노모프 페이스허거</RRY_FaceHuggerInfection.comps.0.discoverLetterLabel>
+  <RRY_FaceHuggerInfection.comps.0.discoverLetterText>[PAWN_nameDef](은)는 페이스허거에게 [PAWN_possessive] 얼굴을 공격당했습니다. [PAWN_possessive] 온 몸이 마비되었지만, 아직 살아는 있습니다. 그를 살리기 위해서 어떤 시도든 해야만 하겠지만, 페이스허거를 제거하려는 시도는 그 숙주를 죽게 만들 수 있습니다.</RRY_FaceHuggerInfection.comps.0.discoverLetterText>
+  <RRY_FaceHuggerInfection.stages.0.label>수태 직전</RRY_FaceHuggerInfection.stages.0.label>
+  <RRY_FaceHuggerInfection.stages.1.label>수태됨</RRY_FaceHuggerInfection.stages.1.label>
+  <RRY_FaceHuggerInfection.stages.2.label>수태 진행됨</RRY_FaceHuggerInfection.stages.2.label>
+  <RRY_XenomorphImpregnation.label>제노모프 배아</RRY_XenomorphImpregnation.label>
+  <RRY_XenomorphImpregnation.comps.0.discoverLetterLabel>제노모프 수태</RRY_XenomorphImpregnation.comps.0.discoverLetterLabel>
+  <RRY_XenomorphImpregnation.comps.0.discoverLetterText>[PAWN_nameDef]에게 붙어있던 페이스허거가 순간적으로 격렬하게 몸을 떨며 경련을 일으켰습니다... 아직 붙어있지만... 무언가 일어난게 틀림없습니다...</RRY_XenomorphImpregnation.comps.0.discoverLetterText>
+  <RRY_XenomorphImpregnation.stages.0.label>수태 진행됨</RRY_XenomorphImpregnation.stages.0.label>
+  <RRY_XenomorphImpregnation.stages.1.label>임신 초기</RRY_XenomorphImpregnation.stages.1.label>
+  <RRY_XenomorphImpregnation.stages.2.label>임신 중기</RRY_XenomorphImpregnation.stages.2.label>
+  <RRY_XenomorphImpregnation.stages.3.label>임신 말기</RRY_XenomorphImpregnation.stages.3.label>
+  <RRY_XenomorphImpregnation.stages.4.label>폭발 직전</RRY_XenomorphImpregnation.stages.4.label>
+  <RRY_XenomorphImpregnation.stages.5.label>터져나온 흉부 상처</RRY_XenomorphImpregnation.stages.5.label>
+  <RRY_XenomorphImpregnation.labelNoun>제노모프 수태</RRY_XenomorphImpregnation.labelNoun>
+  <RRY_HiddenXenomorphImpregnation.label>제노모프 수태</RRY_HiddenXenomorphImpregnation.label>
+  <RRY_HiddenXenomorphImpregnation.stages.0.label>수태 진행됨</RRY_HiddenXenomorphImpregnation.stages.0.label>
+  <RRY_HiddenXenomorphImpregnation.stages.1.label>임신 초기</RRY_HiddenXenomorphImpregnation.stages.1.label>
+  <RRY_HiddenXenomorphImpregnation.stages.2.label>임신 중기</RRY_HiddenXenomorphImpregnation.stages.2.label>
+  <RRY_HiddenXenomorphImpregnation.stages.3.label>임신 말기</RRY_HiddenXenomorphImpregnation.stages.3.label>
+  <RRY_HiddenXenomorphImpregnation.stages.4.label>폭발 직전</RRY_HiddenXenomorphImpregnation.stages.4.label>
+  <RRY_HiddenXenomorphImpregnation.stages.5.label>터져나온 흉부 상처</RRY_HiddenXenomorphImpregnation.stages.5.label>
+  <RRY_HiddenXenomorphImpregnation.labelNoun>제노모프 수태</RRY_HiddenXenomorphImpregnation.labelNoun>
+  <RRY_NeomorphImpregnation.label>네오모프 수태</RRY_NeomorphImpregnation.label>
+  <RRY_NeomorphImpregnation.stages.0.label>수태 진행됨</RRY_NeomorphImpregnation.stages.0.label>
+  <RRY_NeomorphImpregnation.stages.1.label>임신 초기</RRY_NeomorphImpregnation.stages.1.label>
+  <RRY_NeomorphImpregnation.stages.2.label>임신 중기</RRY_NeomorphImpregnation.stages.2.label>
+  <RRY_NeomorphImpregnation.stages.3.label>임신 말기</RRY_NeomorphImpregnation.stages.3.label>
+  <RRY_NeomorphImpregnation.stages.4.label>폭발 직전</RRY_NeomorphImpregnation.stages.4.label>
+  <RRY_NeomorphImpregnation.stages.5.label>터져나온 흉부 상처</RRY_NeomorphImpregnation.stages.5.label>
+  <RRY_NeomorphImpregnation.labelNoun>네오모프 수태</RRY_NeomorphImpregnation.labelNoun>
+  <RRY_HiddenNeomorphImpregnation.label>네오모프 수태</RRY_HiddenNeomorphImpregnation.label>
+  <RRY_HiddenNeomorphImpregnation.stages.0.label>수태 진행됨</RRY_HiddenNeomorphImpregnation.stages.0.label>
+  <RRY_HiddenNeomorphImpregnation.stages.1.label>임신 초기</RRY_HiddenNeomorphImpregnation.stages.1.label>
+  <RRY_HiddenNeomorphImpregnation.stages.2.label>임신 중기</RRY_HiddenNeomorphImpregnation.stages.2.label>
+  <RRY_HiddenNeomorphImpregnation.stages.3.label>임신 말기</RRY_HiddenNeomorphImpregnation.stages.3.label>
+  <RRY_HiddenNeomorphImpregnation.stages.4.label>폭발 직전</RRY_HiddenNeomorphImpregnation.stages.4.label>
+  <RRY_HiddenNeomorphImpregnation.stages.5.label>터져나온 흉부 상처</RRY_HiddenNeomorphImpregnation.stages.5.label>
+  <RRY_HiddenNeomorphImpregnation.labelNoun>네오모프 수태</RRY_HiddenNeomorphImpregnation.labelNoun>
+  <RRY_XenoAcidBurn.label>산성 화상</RRY_XenoAcidBurn.label>
+  <RRY_XenoAcidBurn.comps.0.labelTendedWell>붕대감음</RRY_XenoAcidBurn.comps.0.labelTendedWell>
+  <RRY_XenoAcidBurn.comps.0.labelTendedWellInner>봉합됨</RRY_XenoAcidBurn.comps.0.labelTendedWellInner>
+  <RRY_XenoAcidBurn.comps.0.labelSolidTendedWell>설정</RRY_XenoAcidBurn.comps.0.labelSolidTendedWell>
+  <RRY_XenoAcidBurn.injuryProps.destroyedLabel>타버림</RRY_XenoAcidBurn.injuryProps.destroyedLabel>
+  <RRY_XenoAcidBurn.injuryProps.destroyedOutLabel>데인 흉터</RRY_XenoAcidBurn.injuryProps.destroyedOutLabel>
+  <RRY_XenoAcidBurn.labelNoun>산성 화상</RRY_XenoAcidBurn.labelNoun>
+  <RRY_Impaled.label>찔림</RRY_Impaled.label>
+  <RRY_Impaled.comps.0.labelTendedWell>붕대감음</RRY_Impaled.comps.0.labelTendedWell>
+  <RRY_Impaled.comps.0.labelTendedWellInner>봉합됨</RRY_Impaled.comps.0.labelTendedWellInner>
+  <RRY_Impaled.comps.0.labelSolidTendedWell>설정</RRY_Impaled.comps.0.labelSolidTendedWell>
+  <RRY_Impaled.injuryProps.destroyedLabel>끊어짐</RRY_Impaled.injuryProps.destroyedLabel>
+  <RRY_Impaled.injuryProps.destroyedOutLabel>잘려짐</RRY_Impaled.injuryProps.destroyedOutLabel>
+  <RRY_Impaled.labelNoun>찔린 상처</RRY_Impaled.labelNoun>
+  <RRY_WristbladeHeDiff.label>손날</RRY_WristbladeHeDiff.label>
+  <RRY_WristbladeHeDiff.comps.0.tools.0.label>손날</RRY_WristbladeHeDiff.comps.0.tools.0.label>
+  <RRY_WristbladeHeDiff.stages.0.label>초기</RRY_WristbladeHeDiff.stages.0.label>
+  <RRY_WristbladeHeDiff.labelNoun>손날</RRY_WristbladeHeDiff.labelNoun>
+  <RRY_EmergingChestburster.label>소름끼침</RRY_EmergingChestburster.label>
+  <RRY_EmergingChestburster.labelNoun>소름끼침</RRY_EmergingChestburster.labelNoun>
+  <RRY_Hediff_PinnedCombistaff.label>고정됨</RRY_Hediff_PinnedCombistaff.label>
+  <RRY_Hediff_PinnedCombistaff.labelNoun>소름끼침</RRY_Hediff_PinnedCombistaff.labelNoun>
+  <RRY_HeDiff_TurretIsOn.label>숄더 캐논 상태</RRY_HeDiff_TurretIsOn.label>
+  <RRY_HeDiff_TurretIsOn.labelNoun>숄더 캐논</RRY_HeDiff_TurretIsOn.labelNoun>
+  <RRY_Hediff_Cloaked.label>잠행</RRY_Hediff_Cloaked.label>
+  <RRY_Hediff_Cloaked.stages.0.label>숨겨짐</RRY_Hediff_Cloaked.stages.0.label>
+  <RRY_Hediff_Xenomorph_Hidden.label>숨겨짐</RRY_Hediff_Xenomorph_Hidden.label>
+  <RRY_Hediff_BouncedProjectile.label>잠행</RRY_Hediff_BouncedProjectile.label>
+  <RRY_Hediff_BouncedProjectile.stages.0.label>숨겨짐</RRY_Hediff_BouncedProjectile.stages.0.label>
+  <RRY_Hediff_Cocooned.label>고치에 싸임</RRY_Hediff_Cocooned.label>
+  <RRY_Hediff_Cocooned.labelNoun>제노모프에 의해 고치에 싸임</RRY_Hediff_Cocooned.labelNoun>
+  <RRY_Hediff_Pinned.label>고정됨</RRY_Hediff_Pinned.label>
+  <RRY_Hediff_Pinned.labelNoun>자리에 고정됨</RRY_Hediff_Pinned.labelNoun>
+  <RRY_Hediff_Unblooded.label>신병(Unblooded)</RRY_Hediff_Unblooded.label>
+  <RRY_Hediff_Unblooded.stages.0.label>초기</RRY_Hediff_Unblooded.stages.0.label>
+  <RRY_Hediff_Unblooded.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_Unblooded.labelNoun>
+  <RRY_Hediff_BloodedUM.label>표식없는 신병(Blooded)</RRY_Hediff_BloodedUM.label>
+  <RRY_Hediff_BloodedUM.stages.2.label>표식없음</RRY_Hediff_BloodedUM.stages.2.label>
+  <RRY_Hediff_BloodedUM.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedUM.labelNoun>
+  <RRY_Hediff_BloodedM.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedM.label>
+  <RRY_Hediff_BloodedM.stages.0.label>짐승</RRY_Hediff_BloodedM.stages.0.label>
+  <RRY_Hediff_BloodedM.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedM.labelNoun>
+  <RRY_Hediff_BloodedMHuman.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMHuman.label>
+  <RRY_Hediff_BloodedMHuman.stages.0.label>인간</RRY_Hediff_BloodedMHuman.stages.0.label>
+  <RRY_Hediff_BloodedMHuman.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMHuman.labelNoun>
+  <RRY_Hediff_BloodedMWorthyHuman.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMWorthyHuman.label>
+  <RRY_Hediff_BloodedMWorthyHuman.stages.0.label>가치있는 인간</RRY_Hediff_BloodedMWorthyHuman.stages.0.label>
+  <RRY_Hediff_BloodedMWorthyHuman.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMWorthyHuman.labelNoun>
+  <RRY_Hediff_BloodedMHumanlike.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMHumanlike.label>
+  <RRY_Hediff_BloodedMHumanlike.stages.0.label>외계인</RRY_Hediff_BloodedMHumanlike.stages.0.label>
+  <RRY_Hediff_BloodedMHumanlike.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMHumanlike.labelNoun>
+  <RRY_Hediff_BloodedMWorthyHumanlike.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMWorthyHumanlike.label>
+  <RRY_Hediff_BloodedMWorthyHumanlike.stages.0.label>가치있는 외계인</RRY_Hediff_BloodedMWorthyHumanlike.stages.0.label>
+  <RRY_Hediff_BloodedMWorthyHumanlike.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMWorthyHumanlike.labelNoun>
+  <RRY_Hediff_BloodedMMechanoid.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMMechanoid.label>
+  <RRY_Hediff_BloodedMMechanoid.stages.0.label>메카노이드</RRY_Hediff_BloodedMMechanoid.stages.0.label>
+  <RRY_Hediff_BloodedMMechanoid.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMMechanoid.labelNoun>
+  <RRY_Hediff_BloodedMXenomorph.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMXenomorph.label>
+  <RRY_Hediff_BloodedMXenomorph.stages.0.label>제노모프</RRY_Hediff_BloodedMXenomorph.stages.0.label>
+  <RRY_Hediff_BloodedMXenomorph.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMXenomorph.labelNoun>
+  <RRY_Hediff_BloodedMXenomorphQueen.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMXenomorphQueen.label>
+  <RRY_Hediff_BloodedMXenomorphQueen.stages.0.label>제노모프</RRY_Hediff_BloodedMXenomorphQueen.stages.0.label>
+  <RRY_Hediff_BloodedMXenomorphQueen.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMXenomorphQueen.labelNoun>
+  <RRY_Hediff_BloodedMPredalien.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMPredalien.label>
+  <RRY_Hediff_BloodedMPredalien.stages.0.label>제노모프</RRY_Hediff_BloodedMPredalien.stages.0.label>
+  <RRY_Hediff_BloodedMPredalien.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMPredalien.labelNoun>
+  <RRY_Hediff_BloodedMBadBlood.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMBadBlood.label>
+  <RRY_Hediff_BloodedMBadBlood.stages.0.label>배드블러드(Badblood)</RRY_Hediff_BloodedMBadBlood.stages.0.label>
+  <RRY_Hediff_BloodedMBadBlood.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMBadBlood.labelNoun>
+  <RRY_Hediff_BloodedMHound.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMHound.label>
+  <RRY_Hediff_BloodedMHound.stages.0.label>하운드</RRY_Hediff_BloodedMHound.stages.0.label>
+  <RRY_Hediff_BloodedMHound.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMHound.labelNoun>
+  <RRY_Hediff_BloodedMThrumbo.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMThrumbo.label>
+  <RRY_Hediff_BloodedMThrumbo.stages.0.label>트럼보</RRY_Hediff_BloodedMThrumbo.stages.0.label>
+  <RRY_Hediff_BloodedMThrumbo.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMThrumbo.labelNoun>
+  <RRY_Hediff_BloodedMCrusher.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMCrusher.label>
+  <RRY_Hediff_BloodedMCrusher.stages.0.label>크러셔</RRY_Hediff_BloodedMCrusher.stages.0.label>
+  <RRY_Hediff_BloodedMCrusher.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMCrusher.labelNoun>
+  <RRY_Hediff_BloodedMGroTye.label>표식있는 신병(Blooded)</RRY_Hediff_BloodedMGroTye.label>
+  <RRY_Hediff_BloodedMGroTye.stages.0.label>그로티에(Gro'tye)</RRY_Hediff_BloodedMGroTye.stages.0.label>
+  <RRY_Hediff_BloodedMGroTye.labelNoun>야우차 신병(Unblooded)</RRY_Hediff_BloodedMGroTye.labelNoun>
+
+  <!--1571323744_190714_Crystalloid (Rewrite)-->
+  <CrystalConstructIchorLoss.label>이코르 상실</CrystalConstructIchorLoss.label>
+  <CrystalConstructIchorLoss.stages.0.label>경미함</CrystalConstructIchorLoss.stages.0.label>
+  <CrystalConstructIchorLoss.stages.1.label>경미함</CrystalConstructIchorLoss.stages.1.label>
+  <CrystalConstructIchorLoss.stages.2.label>보통</CrystalConstructIchorLoss.stages.2.label>
+  <CrystalConstructIchorLoss.stages.3.label>심각함</CrystalConstructIchorLoss.stages.3.label>
+  <CrystalConstructIchorLoss.stages.4.label>극도</CrystalConstructIchorLoss.stages.4.label>
+  <CrystalloidIchorLoss.label>이코르 상실</CrystalloidIchorLoss.label>
+  <CrystalloidIchorLoss.stages.0.label>경미함</CrystalloidIchorLoss.stages.0.label>
+  <CrystalloidIchorLoss.stages.1.label>경미함</CrystalloidIchorLoss.stages.1.label>
+  <CrystalloidIchorLoss.stages.2.label>보통</CrystalloidIchorLoss.stages.2.label>
+  <CrystalloidIchorLoss.stages.3.label>심각함</CrystalloidIchorLoss.stages.3.label>
+  <CrystalloidIchorLoss.stages.4.label>극도</CrystalloidIchorLoss.stages.4.label>
+  <CrystalloidPsionicBoost.label>사이오닉 부스트</CrystalloidPsionicBoost.label>
+  <CrystalloidPsionicBoost.stages.0.label>숨겨짐</CrystalloidPsionicBoost.stages.0.label>
+  <CrystalloidPsionicBoost.stages.1.label>사소함</CrystalloidPsionicBoost.stages.1.label>
+  <CrystalloidPsionicBoost.stages.2.label>보통</CrystalloidPsionicBoost.stages.2.label>
+  <CrystalloidPsionicBoost.stages.3.label>강함</CrystalloidPsionicBoost.stages.3.label>
+  <CrystalloidPsionicBoost.stages.4.label>극도</CrystalloidPsionicBoost.stages.4.label>
+  <CrystalPsionics.label>사이오닉</CrystalPsionics.label>
+  <CrystalPsionics.stages.0.label>발현</CrystalPsionics.stages.0.label>
+  <CrystalPsionics.stages.1.label>1단계</CrystalPsionics.stages.1.label>
+  <CrystalPsionics.stages.2.label>2단계</CrystalPsionics.stages.2.label>
+  <CrystalPsionics.stages.3.label>3단계</CrystalPsionics.stages.3.label>
+  <CrystalPsionics.stages.4.label>4단계</CrystalPsionics.stages.4.label>
+  <CrystalPsionics.stages.5.label>5단계</CrystalPsionics.stages.5.label>
+  <CrystalPsionics.stages.6.label>6단계</CrystalPsionics.stages.6.label>
+  <CrystalPsionics.stages.7.label>준동</CrystalPsionics.stages.7.label>
+  <CrystalPsionics.stages.8.label>발동</CrystalPsionics.stages.8.label>
+
+  <!--1632244750_190708_Oni of the Rim-->
+  <FeatherleafHigh.label>깃털잎에 취함</FeatherleafHigh.label>
+  <FeatherleafHigh.labelNoun>깃털잎에 취함</FeatherleafHigh.labelNoun>
+  <FeatherleafTolerance.label>깃털잎 내성</FeatherleafTolerance.label>
+  <FeatherleafTolerance.stages.0.label>사소함</FeatherleafTolerance.stages.0.label>
+  <FeatherleafTolerance.stages.1.label>사소함</FeatherleafTolerance.stages.1.label>
+  <FeatherleafTolerance.stages.2.label>심각함</FeatherleafTolerance.stages.2.label>
+  <FeatherleafTolerance.stages.3.label>극심함</FeatherleafTolerance.stages.3.label>
+  <FeatherleafAddiction.label>깃털잎 의존성</FeatherleafAddiction.label>
+  <FeatherleafAddiction.stages.1.label>중단</FeatherleafAddiction.stages.1.label>
+  <FeatherleafHighOni.label>오니의 깃털잎</FeatherleafHighOni.label>
+  <OniPassive.label>오니 몸통</OniPassive.label>
+  <OniFeatherShedding.label>빠진 깃털잎</OniFeatherShedding.label>
+  <OniHornShedding.label>떨어진 뿔 파편</OniHornShedding.label>
+  <Bioniconihorn.label>생체공학 오니 뿔</Bioniconihorn.label>
+  <Bioniconihorn.comps.0.tools.0.label>뿔</Bioniconihorn.comps.0.tools.0.label>
+  <Bioniconihorn.labelNoun>생체공학 오니 뿔</Bioniconihorn.labelNoun>
+  <goldhorn.label>금 뿔</goldhorn.label>
+  <goldhorn.comps.0.tools.0.label>뿔</goldhorn.comps.0.tools.0.label>
+  <goldhorn.labelNoun>금 뿔</goldhorn.labelNoun>
+  <Steelhorn.label>강철 뿔</Steelhorn.label>
+  <Steelhorn.comps.0.tools.0.label>뿔</Steelhorn.comps.0.tools.0.label>
+  <Steelhorn.labelNoun>강철 뿔</Steelhorn.labelNoun>
+  <AteOniMeal.label>오니 음식 보충</AteOniMeal.label>
+  <OniHigh.label>오니 더스트 흡입</OniHigh.label>
+  <OniDustAddiction.label>오니 더스트 중독</OniDustAddiction.label>
+  <OniDustAddiction.stages.1.label>중단</OniDustAddiction.stages.1.label>
+  <OniPillTolerance.label>소마 내성</OniPillTolerance.label>
+  <OniPillTolerance.stages.0.label>사소함</OniPillTolerance.stages.0.label>
+  <OniPillTolerance.stages.1.label>사소함</OniPillTolerance.stages.1.label>
+  <OniPillTolerance.stages.2.label>심각함</OniPillTolerance.stages.2.label>
+  <OniPillTolerance.stages.3.label>극심함</OniPillTolerance.stages.3.label>
+  <OniPillAddiction.label>소마 중독</OniPillAddiction.label>
+  <OniPillAddiction.stages.1.label>중단</OniPillAddiction.stages.1.label>
+  <OniBlackTalonHigh.label>검은 소마 부스트</OniBlackTalonHigh.label>
+  <OniBlackTalonHigh.stages.0.label>장애</OniBlackTalonHigh.stages.0.label>
+  <OniBlackTalonHigh.stages.1.label>활성화</OniBlackTalonHigh.stages.1.label>
+  <OniPillBlackTalonTolerance.label>오니 검은 발톱 약 내성</OniPillBlackTalonTolerance.label>
+  <OniPillBlackTalonTolerance.stages.0.label>사소함</OniPillBlackTalonTolerance.stages.0.label>
+  <OniPillBlackTalonTolerance.stages.1.label>사소함</OniPillBlackTalonTolerance.stages.1.label>
+  <OniPillBlackTalonTolerance.stages.2.label>심각함</OniPillBlackTalonTolerance.stages.2.label>
+  <OniPillBlackTalonTolerance.stages.3.label>극심함</OniPillBlackTalonTolerance.stages.3.label>
+  <OniPillBlackTalonAddiction.label>검은 소마 중독</OniPillBlackTalonAddiction.label>
+  <OniPillBlackTalonAddiction.stages.1.label>중단</OniPillBlackTalonAddiction.stages.1.label>
+  <OniBodyHigh.label>몸의 붉은 소마</OniBodyHigh.label>
+  <OniBodyHigh.stages.0.label>장애</OniBodyHigh.stages.0.label>
+  <OniBodyHigh.stages.1.label>활성화</OniBodyHigh.stages.1.label>
+  <OniHealthHigh.label>건강 증진의 녹색 소마</OniHealthHigh.label>
+  <OniHealthHigh.stages.0.label>장애</OniHealthHigh.stages.0.label>
+  <OniHealthHigh.stages.1.label>활성화</OniHealthHigh.stages.1.label>
+  <OniMindHigh.label>정신의 소마</OniMindHigh.label>
+  <OniShearedAngry.label>깃털에 베임</OniShearedAngry.label>
+  <OniShearedAngry.stages.0.label>재성장</OniShearedAngry.stages.0.label>
+  <OniShearedAngry.stages.1.label>회복중</OniShearedAngry.stages.1.label>
+  <OniShearedAngry.stages.2.label>상처난 피부</OniShearedAngry.stages.2.label>
+  <OniShearedAngry.stages.3.label>신선함</OniShearedAngry.stages.3.label>
+  <YokaiNarcoticDrugged.label>요카이 마취약 투여</YokaiNarcoticDrugged.label>
+  <YokaiNarcoticDrugged.stages.1.label>낮음</YokaiNarcoticDrugged.stages.1.label>
+  <YokaiNarcoticDrugged.stages.2.label>중간</YokaiNarcoticDrugged.stages.2.label>
+  <YokaiNarcoticDrugged.stages.3.label>높음</YokaiNarcoticDrugged.stages.3.label>
+  <YokaiNarcoticDrugged.stages.4.label>극도의</YokaiNarcoticDrugged.stages.4.label>
+  <YokaiNarcoticDrugged.stages.5.label>극심한</YokaiNarcoticDrugged.stages.5.label>
+  <YokaiNarcoticDrugged.stages.6.label>치명적인</YokaiNarcoticDrugged.stages.6.label>
+
+  <!--1647782348_190519_Xenohumans - Gen-spliced Xenos on the Rim-->
+  <SoldiermorphHeDiffXH.label>개조군인</SoldiermorphHeDiffXH.label>
+  <DesignermateHeDiffXH.label>디자이너 메이트</DesignermateHeDiffXH.label>
+  <WolfmanHeDiffXH.label>늑대인간</WolfmanHeDiffXH.label>
+  <ScalemanHeDiffXH.label>비늘인간</ScalemanHeDiffXH.label>
+
+  <!--1706345856_190811_Warhammer Skaven-->
+  <SkaveOgreDenture.label>틀니</SkaveOgreDenture.label>
+  <SkaveOgreDenture.labelNoun>틀니</SkaveOgreDenture.labelNoun>
+  <SkavenOgreSteelLeg.label>보철 다리</SkavenOgreSteelLeg.label>
+  <SkavenOgreSteelLeg.labelNoun>보철 다리</SkavenOgreSteelLeg.labelNoun>
+  <SkavenOgreBlade.label>보철 칼날</SkavenOgreBlade.label>
+  <SkavenOgreBlade.comps.0.tools.0.label>칼날</SkavenOgreBlade.comps.0.tools.0.label>
+  <SkavenOgreBlade.labelNoun>보철 칼날</SkavenOgreBlade.labelNoun>
+  <SkavenOgrePlate.label>강철 판금</SkavenOgrePlate.label>
+  <SkavenOgrePlate.labelNoun>강철 판금</SkavenOgrePlate.labelNoun>
+  <SkavenProdBurn.label>전기 화상</SkavenProdBurn.label>
+  <SkavenProdBurn.comps.0.labelTendedWell>붕대감음</SkavenProdBurn.comps.0.labelTendedWell>
+  <SkavenProdBurn.comps.0.labelTendedWellInner>봉합됨</SkavenProdBurn.comps.0.labelTendedWellInner>
+  <SkavenProdBurn.comps.0.labelSolidTendedWell>설정</SkavenProdBurn.comps.0.labelSolidTendedWell>
+  <SkavenProdBurn.injuryProps.destroyedLabel>타버림</SkavenProdBurn.injuryProps.destroyedLabel>
+  <SkavenProdBurn.injuryProps.destroyedOutLabel>데인 흉터</SkavenProdBurn.injuryProps.destroyedOutLabel>
+  <SkavenProdBurn.labelNoun>화상</SkavenProdBurn.labelNoun>
+
+  <!--1728999127_190813_Forsakens-->
+  <RazorHigh.label>라조르 흡입</RazorHigh.label>
+  <RazorHigh.labelNoun>라조르에 취함</RazorHigh.labelNoun>
+  <RazorTolerance.label>라조르 내성</RazorTolerance.label>
+  <RazorTolerance.stages.0.label>사소함</RazorTolerance.stages.0.label>
+  <RazorTolerance.stages.1.label>사소함</RazorTolerance.stages.1.label>
+  <RazorTolerance.stages.2.label>심각함</RazorTolerance.stages.2.label>
+  <RazorTolerance.stages.3.label>극심함</RazorTolerance.stages.3.label>
+  <RazorAddiction.label>라조르 중독</RazorAddiction.label>
+  <RazorAddiction.stages.1.label>중단</RazorAddiction.stages.1.label>
+  <VitaminfHigh.label>비타민 f 흡입</VitaminfHigh.label>
+  <VitaminfHigh.labelNoun>비타민 f 에 취함</VitaminfHigh.labelNoun>
+  <VitaminfTolerance.label>비타민 f 내성</VitaminfTolerance.label>
+  <VitaminfTolerance.stages.0.label>사소함</VitaminfTolerance.stages.0.label>
+  <VitaminfTolerance.stages.1.label>사소함</VitaminfTolerance.stages.1.label>
+  <VitaminfTolerance.stages.2.label>심각함</VitaminfTolerance.stages.2.label>
+  <VitaminfTolerance.stages.3.label>극심함</VitaminfTolerance.stages.3.label>
+  <VitaminfAddiction.label>비타민 f 중독</VitaminfAddiction.label>
+  <VitaminfAddiction.stages.1.label>중단</VitaminfAddiction.stages.1.label>
+
+  <!--1785657108_190811_Humanoid Project-->
+  <AddAlienJaw.label>생체공학 턱</AddAlienJaw.label>
+  <AddAlienJaw.comps.1.tools.0.label>생체공학 이빨</AddAlienJaw.comps.1.tools.0.label>
+  <AddAlienJaw.stages.0.label>설치됨</AddAlienJaw.stages.0.label>
+  <AddAlienJaw.stages.1.label>고정됨</AddAlienJaw.stages.1.label>
+  <AddAlienJaw.labelNoun>생체공학 턱</AddAlienJaw.labelNoun>
+  <AddAlienBrain.label>코스모스-테크 뇌</AddAlienBrain.label>
+  <AddAlienBrain.stages.0.label>연결됨</AddAlienBrain.stages.0.label>
+  <AddAlienBrain.stages.1.label>링크됨</AddAlienBrain.stages.1.label>
+  <AddAlienBrain.stages.2.label>연동됨</AddAlienBrain.stages.2.label>
+  <AddAlienBrain.stages.3.label>통합됨</AddAlienBrain.stages.3.label>
+  <AddAlienBrain.labelNoun>코스모스 테크 뇌</AddAlienBrain.labelNoun>
+  <AddAlienEar.label>고급 생체공학 귀</AddAlienEar.label>
+  <AddAlienEar.stages.0.label>퓨즈</AddAlienEar.stages.0.label>
+  <AddAlienEar.stages.1.label>적응</AddAlienEar.stages.1.label>
+  <AddAlienEar.stages.2.label>규정됨</AddAlienEar.stages.2.label>
+  <AddAlienEar.stages.3.label>통합됨</AddAlienEar.stages.3.label>
+  <AddAlienEar.labelNoun>고급 생체공학 귀</AddAlienEar.labelNoun>
+  <AddAlienEye.label>생체공학 눈</AddAlienEye.label>
+  <AddAlienEye.stages.0.label>연결됨</AddAlienEye.stages.0.label>
+  <AddAlienEye.stages.1.label>링크됨</AddAlienEye.stages.1.label>
+  <AddAlienEye.stages.2.label>연동됨</AddAlienEye.stages.2.label>
+  <AddAlienEye.stages.3.label>통합됨</AddAlienEye.stages.3.label>
+  <AddAlienEye.labelNoun>생체공학 눈</AddAlienEye.labelNoun>
+  <AddAlienFoot.label>고급 생체공학 눈</AddAlienFoot.label>
+  <AddAlienFoot.stages.0.label>설치됨</AddAlienFoot.stages.0.label>
+  <AddAlienFoot.stages.1.label>자리잡음</AddAlienFoot.stages.1.label>
+  <AddAlienFoot.stages.2.label>안정됨</AddAlienFoot.stages.2.label>
+  <AddAlienFoot.labelNoun>고급 생체공학 발</AddAlienFoot.labelNoun>
+  <AddAlienHand.label>생체공학 손</AddAlienHand.label>
+  <AddAlienHand.comps.1.tools.0.label>노식 펀치</AddAlienHand.comps.1.tools.0.label>
+  <AddAlienHand.stages.0.label>설치됨</AddAlienHand.stages.0.label>
+  <AddAlienHand.stages.1.label>안정됨</AddAlienHand.stages.1.label>
+  <AddAlienHand.labelNoun>생체공학 손</AddAlienHand.labelNoun>
+  <AddAlienHeart.label>코스모스-테크 심장</AddAlienHeart.label>
+  <AddAlienHeart.stages.0.label>자리잡음</AddAlienHeart.stages.0.label>
+  <AddAlienHeart.stages.1.label>연결됨</AddAlienHeart.stages.1.label>
+  <AddAlienHeart.stages.2.label>안정됨</AddAlienHeart.stages.2.label>
+  <AddAlienHeart.stages.3.label>연동됨</AddAlienHeart.stages.3.label>
+  <AddAlienHeart.stages.4.label>뿌리박음</AddAlienHeart.stages.4.label>
+  <AddAlienHeart.labelNoun>코스모스-테크 심장</AddAlienHeart.labelNoun>
+  <AddAlienKidney.label>코스모스-테크 신장</AddAlienKidney.label>
+  <AddAlienKidney.stages.0.label>설치됨</AddAlienKidney.stages.0.label>
+  <AddAlienKidney.stages.1.label>뿌리박음</AddAlienKidney.stages.1.label>
+  <AddAlienKidney.labelNoun>코스모스-테크 신장</AddAlienKidney.labelNoun>
+  <AddAlienLeg.label>고급 생체공학 다리</AddAlienLeg.label>
+  <AddAlienLeg.stages.0.label>설치됨</AddAlienLeg.stages.0.label>
+  <AddAlienLeg.stages.1.label>고정됨</AddAlienLeg.stages.1.label>
+  <AddAlienLeg.labelNoun>고급 생체공학 다리</AddAlienLeg.labelNoun>
+  <AddAlienLiver.label>코스모스-테크 간</AddAlienLiver.label>
+  <AddAlienLiver.stages.0.label>설치됨</AddAlienLiver.stages.0.label>
+  <AddAlienLiver.stages.1.label>자리잡음</AddAlienLiver.stages.1.label>
+  <AddAlienLiver.labelNoun>코스모스-테크 간</AddAlienLiver.labelNoun>
+  <AddAlienLung.label>생체공학 폐</AddAlienLung.label>
+  <AddAlienLung.stages.0.label>자리잡음</AddAlienLung.stages.0.label>
+  <AddAlienLung.stages.1.label>고정됨</AddAlienLung.stages.1.label>
+  <AddAlienLung.stages.2.label>뿌리박음</AddAlienLung.stages.2.label>
+  <AddAlienLung.labelNoun>생체공학 폐</AddAlienLung.labelNoun>
+  <AddAlienSpine.label>고급 생체공학 척추</AddAlienSpine.label>
+  <AddAlienSpine.stages.0.label>연결됨</AddAlienSpine.stages.0.label>
+  <AddAlienSpine.stages.1.label>링크됨</AddAlienSpine.stages.1.label>
+  <AddAlienSpine.stages.2.label>고정됨</AddAlienSpine.stages.2.label>
+  <AddAlienSpine.labelNoun>고급 생체공학 척추</AddAlienSpine.labelNoun>
+  <AddAlienStomach.label>고급 생체공학 위</AddAlienStomach.label>
+  <AddAlienStomach.stages.0.label>설치됨</AddAlienStomach.stages.0.label>
+  <AddAlienStomach.stages.1.label>설치됨</AddAlienStomach.stages.1.label>
+  <AddAlienStomach.labelNoun>고급 생체공학 위</AddAlienStomach.labelNoun>
+  <CosmosBionicsSpecial.label>성장 자극기 BO-001</CosmosBionicsSpecial.label>
+  <CosmosRegrowingTech.label>재성장</CosmosRegrowingTech.label>
+  <CosmosTech.label>치료된 몸 부위</CosmosTech.label>
+  <LaserShot.label>불탐</LaserShot.label>
+  <LaserShot.comps.0.labelTendedWell>붕대감음</LaserShot.comps.0.labelTendedWell>
+  <LaserShot.comps.0.labelTendedWellInner>봉합됨</LaserShot.comps.0.labelTendedWellInner>
+  <LaserShot.comps.0.labelSolidTendedWell>설정</LaserShot.comps.0.labelSolidTendedWell>
+  <LaserShot.injuryProps.destroyedLabel>증발됨</LaserShot.injuryProps.destroyedLabel>
+  <LaserShot.injuryProps.destroyedOutLabel>증발됨</LaserShot.injuryProps.destroyedOutLabel>
+  <LaserShot.labelNoun>레이저 화상</LaserShot.labelNoun>
+  <AvianRaceWorkerHypothermia.label>아비안 냉기 저항</AvianRaceWorkerHypothermia.label>
+  <AvianRaceWorkerHypothermia.stages.0.label>서리</AvianRaceWorkerHypothermia.stages.0.label>
+  <AvianRaceWorkerHypothermia.stages.1.label>눈</AvianRaceWorkerHypothermia.stages.1.label>
+  <AvianRaceWorkerHypothermia.stages.2.label>얼음</AvianRaceWorkerHypothermia.stages.2.label>
+  <AvianRaceWorkerHypothermia.stages.3.label>겨울</AvianRaceWorkerHypothermia.stages.3.label>
+  <AvianRaceWorkerHypothermia.stages.4.label>극지</AvianRaceWorkerHypothermia.stages.4.label>
+  <AvianHeatResistence.label>아비안 온기 저항</AvianHeatResistence.label>
+  <AvianHeatResistence.stages.0.label>따뜻함</AvianHeatResistence.stages.0.label>
+  <AvianHeatResistence.stages.1.label>따뜻함</AvianHeatResistence.stages.1.label>
+  <AvianHeatResistence.stages.2.label>더운</AvianHeatResistence.stages.2.label>
+  <AvianHeatResistence.stages.3.label>뜨거운</AvianHeatResistence.stages.3.label>
+  <AvianHeatResistence.stages.4.label>불타는</AvianHeatResistence.stages.4.label>
+  <MagmaHeatWorker.label>볼카니안 열기 절연</MagmaHeatWorker.label>
+  <MagmaHeatWorker.stages.0.label>초기</MagmaHeatWorker.stages.0.label>
+  <MagmaHeatWorker.stages.1.label>따뜻함</MagmaHeatWorker.stages.1.label>
+  <MagmaHeatWorker.stages.2.label>끓어오름</MagmaHeatWorker.stages.2.label>
+  <MagmaHeatWorker.stages.3.label>뜨거운</MagmaHeatWorker.stages.3.label>
+  <MagmaHeatWorker.stages.4.label>불탐</MagmaHeatWorker.stages.4.label>
+  <MagmaHeatWorker.stages.5.label>발광</MagmaHeatWorker.stages.5.label>
+  <MagmaRaceHypothermia.label>볼카니안 냉기 절연</MagmaRaceHypothermia.label>
+  <MagmaRaceHypothermia.stages.0.label>눈</MagmaRaceHypothermia.stages.0.label>
+  <MagmaRaceHypothermia.stages.1.label>얼음</MagmaRaceHypothermia.stages.1.label>
+  <MagmaRaceHypothermia.stages.2.label>시원함</MagmaRaceHypothermia.stages.2.label>
+  <MagmaRaceHypothermia.stages.3.label>불쾌함</MagmaRaceHypothermia.stages.3.label>
+  <MagmaRaceHypothermia.stages.4.label>극지</MagmaRaceHypothermia.stages.4.label>
+  <NovaBurn.label>불탐</NovaBurn.label>
+  <NovaBurn.comps.0.labelTendedWell>붕대감음</NovaBurn.comps.0.labelTendedWell>
+  <NovaBurn.comps.0.labelTendedWellInner>봉합됨</NovaBurn.comps.0.labelTendedWellInner>
+  <NovaBurn.comps.0.labelSolidTendedWell>설정</NovaBurn.comps.0.labelSolidTendedWell>
+  <NovaBurn.injuryProps.destroyedLabel>증발됨</NovaBurn.injuryProps.destroyedLabel>
+  <NovaBurn.injuryProps.destroyedOutLabel>증발됨</NovaBurn.injuryProps.destroyedOutLabel>
+  <NovaBurn.labelNoun>화상</NovaBurn.labelNoun>
+  <AvianHeDiff.label>아비안 훈련</AvianHeDiff.label>
+  <MagmaRaceHeDiff.label>볼카니안 훈련</MagmaRaceHeDiff.label>
+  <BlueMagmaRaceHeDiff.label>볼카니안 훈련</BlueMagmaRaceHeDiff.label>
+  <GreenStormHediff.label>능력 자극기</GreenStormHediff.label>
+  <GreenStormHediff.stages.0.label>온기 5%</GreenStormHediff.stages.0.label>
+  <GreenStormHediff.stages.1.label>온기 10%</GreenStormHediff.stages.1.label>
+  <GreenStormHediff.stages.2.label>온기 20%</GreenStormHediff.stages.2.label>
+  <GreenStormHediff.stages.3.label>온기 30%</GreenStormHediff.stages.3.label>
+  <GreenStormHediff.stages.4.label>온기 40%</GreenStormHediff.stages.4.label>
+  <GreenStormHediff.stages.5.label>온기 60%</GreenStormHediff.stages.5.label>
+  <GreenStormHediff.stages.6.label>온기 75%</GreenStormHediff.stages.6.label>
+  <GreenStormHediff.stages.7.label>지나친 과열</GreenStormHediff.stages.7.label>
+  <GreenStormHediff.stages.8.label>과열 위험</GreenStormHediff.stages.8.label>
+  <GreenStormHediff.labelNoun>능력 자극기 보철물</GreenStormHediff.labelNoun>
+  <RedLightningImpact.label>불안정한 심장 자극기</RedLightningImpact.label>
+  <RedLightningImpact.stages.0.label>0.1</RedLightningImpact.stages.0.label>
+  <RedLightningImpact.stages.1.label>0.25</RedLightningImpact.stages.1.label>
+  <RedLightningImpact.stages.2.label>0.35</RedLightningImpact.stages.2.label>
+  <RedLightningImpact.stages.3.label>0.5</RedLightningImpact.stages.3.label>
+  <RedLightningImpact.stages.4.label>0.75</RedLightningImpact.stages.4.label>
+  <RedLightningImpact.stages.5.label>1</RedLightningImpact.stages.5.label>
+  <RedLightningImpact.labelNoun>불안정한 자극기</RedLightningImpact.labelNoun>
+
+  <!--882126182_181000_Call of Cthulhu - Elder Things-->
+  <ET_BionicWing.label>생체공학 촉수 다리</ET_BionicWing.label>
+  <ElderThing_Psionic.label>사이오닉</ElderThing_Psionic.label>
+  <ElderThing_Psionic.comps.0.labelTendedWell>붕대감음</ElderThing_Psionic.comps.0.labelTendedWell>
+  <ElderThing_Psionic.comps.0.labelTendedWellInner>봉합됨</ElderThing_Psionic.comps.0.labelTendedWellInner>
+  <ElderThing_Psionic.comps.0.labelSolidTendedWell>응고</ElderThing_Psionic.comps.0.labelSolidTendedWell>
+  <ElderThing_Psionic.injuryProps.destroyedLabel>파열됨</ElderThing_Psionic.injuryProps.destroyedLabel>
+  <ElderThing_IntracranialPressureBuildup.label>두개 내압</ElderThing_IntracranialPressureBuildup.label>
+  <ElderThing_IntracranialPressureBuildup.stages.0.label>초기-잠복</ElderThing_IntracranialPressureBuildup.stages.0.label>
+  <ElderThing_IntracranialPressureBuildup.stages.1.label>초기</ElderThing_IntracranialPressureBuildup.stages.1.label>
+  <ElderThing_IntracranialPressureBuildup.stages.2.label>사소함</ElderThing_IntracranialPressureBuildup.stages.2.label>
+  <ElderThing_IntracranialPressureBuildup.stages.3.label>심함</ElderThing_IntracranialPressureBuildup.stages.3.label>
+  <ElderThing_IntracranialPressureBuildup.stages.4.label>심각함</ElderThing_IntracranialPressureBuildup.stages.4.label>
+  <ElderThing_IntracranialPressureBuildup.stages.5.label>극심함</ElderThing_IntracranialPressureBuildup.stages.5.label>
+
+</LanguageData>

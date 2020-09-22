@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GGWaitConfused.reportString>혼란됨(유령)</GGWaitConfused.reportString>
+  <GGFleeConfused.reportString>도주중(유령)</GGFleeConfused.reportString>
+  <GGGrappleHook.reportString>갈고리 사용 중.</GGGrappleHook.reportString>
+  <HWAttackPawn.reportString>TargetA 공격 중(헤이와이어)</HWAttackPawn.reportString>
+  <HWAttackThing.reportString>TargetA 공격 중(헤이와이어)</HWAttackThing.reportString>
+  <HWBreakDown.reportString>TargetA 공격 중(헤이와이어)</HWBreakDown.reportString>
+  <HWExplosion.reportString>폭발(헤이와이어)</HWExplosion.reportString>
+  <HWWander.reportString>방황중(헤이와이어)</HWWander.reportString>
+  <GGRearmCaltrops.reportString>TargetA에서 방어구 재보급 중.</GGRearmCaltrops.reportString>
+
+</LanguageData>

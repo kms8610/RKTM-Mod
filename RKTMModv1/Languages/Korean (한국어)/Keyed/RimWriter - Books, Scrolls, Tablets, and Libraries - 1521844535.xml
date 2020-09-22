@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimWriter_ApplySettings>설정 적용</RimWriter_ApplySettings>
+  <RimWriter_ComplexRecipes>간단한 제작법 사용</RimWriter_ComplexRecipes>
+  <RimWriter_ComplexRecipesTip>간단한 제작법을 사용하면, 더 짧은 게임시간을 위해 책을 만드는 단계가 축소됩니다.</RimWriter_ComplexRecipesTip>
+  <RimWriter_Read>{0} 읽기</RimWriter_Read>
+  <RimWriter_NoInternalStorage>저장공간을 사용할 수 없음.</RimWriter_NoInternalStorage>
+  <RimWriter_CannotRead>{0}(을)를 읽을 수 없음.</RimWriter_CannotRead>
+  <RimWriter_GuideTitleWithAuthor>{0}의 {1} 기술서</RimWriter_GuideTitleWithAuthor>
+  <RimWriter_GuideTitle>{0} 기술서</RimWriter_GuideTitle>
+  <RimWriter_GuideSkillDesc>이 특별한 기술서는 {0} 기술을 {1}의 효율로 설명합니다.</RimWriter_GuideSkillDesc>
+  <RimWriter_Destroy>폐기하기</RimWriter_Destroy>
+  <RimWriter_DestroyDesc>{0}(을)를 전혀 존재하지 않았던 것처럼 신속하게 폐기합니다... 아마도 작은 쓰레기가 남을 것입니다.</RimWriter_DestroyDesc>
+  <RimWriter_Inventory>소지품</RimWriter_Inventory>
+  <RimWriter_XSlotsForBooks>총 {0}권의 책을 보관할 수 있습니다.</RimWriter_XSlotsForBooks>
+  <RimWriter_BookTitle>{1}의 {0}</RimWriter_BookTitle>
+  <RimWriter_RetrieveBook>책 찾기</RimWriter_RetrieveBook>
+  <RimWriter_RetrieveBookDesc>책장에서 특별한 책을 찾아서 꺼냅니다.</RimWriter_RetrieveBookDesc>
+  <RimWriter_ContainsXBooks>{0}권의 책이 들어있음</RimWriter_ContainsXBooks>
+
+</LanguageData>

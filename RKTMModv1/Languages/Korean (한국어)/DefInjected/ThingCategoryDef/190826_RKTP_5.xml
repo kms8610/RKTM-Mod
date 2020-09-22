@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1535875857_190622_Extended_Storage_Extended-->
+  <ExtendedStorageExtended_BuildingsFurnitureStorage.label>저장소</ExtendedStorageExtended_BuildingsFurnitureStorage.label>
+  <AnimalFeed.label>동물 먹이</AnimalFeed.label>
+
+  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
+  <OGIWeapons.label>임페리얼 무기</OGIWeapons.label>
+  <OGIRanged.label>임페리얼 근접 무기</OGIRanged.label>
+  <OGIMelee.label>임페리얼 원거리 무기</OGIMelee.label>
+  <OGIGrens.label>임페리얼 수류탄</OGIGrens.label>
+  <OGISub.label>임페리얼</OGISub.label>
+  <OGIArmour.label>임페리얼 보호구</OGIArmour.label>
+  <OGIApparel.label>임페리얼 옷</OGIApparel.label>
+  <OGIHeadgear.label>임페리얼 머리장비</OGIHeadgear.label>
+  <OGIAddons.label>임페리얼 추가 보호구</OGIAddons.label>
+  <OGIWargear.label>임페리얼 무기</OGIWargear.label>
+  <Ammunition.label>군수품</Ammunition.label>
+  <OGIAmmunition.label>임페리얼 군수품</OGIAmmunition.label>
+  <OGIMissiles.label>임페리얼 미사일</OGIMissiles.label>
+  <OGAMWeapons.label>메카니쿠스 웨폰</OGAMWeapons.label>
+  <OGAMRanged.label>메카니쿠스 원거리 무기</OGAMRanged.label>
+  <OGAMMelee.label>메카니쿠스 근접 무기</OGAMMelee.label>
+  <OGAMGrens.label>메카니쿠스 수류탄</OGAMGrens.label>
+  <OGAMSub.label>아뎁투스 메카니쿠스</OGAMSub.label>
+  <OGAMApparel.label>메카니쿠스 옷</OGAMApparel.label>
+  <OGAMArmour.label>메카니쿠스 보호구</OGAMArmour.label>
+  <OGAMHeadgear.label>메카니쿠스 머리장비</OGAMHeadgear.label>
+  <OGAMAddons.label>메카니쿠스 추가 보호구</OGAMAddons.label>
+  <OGAMWargear.label>메카니쿠스 무기</OGAMWargear.label>
+  <OGEWeapons.label>엘다 무기</OGEWeapons.label>
+  <OGERanged.label>엘다 원거리 무기</OGERanged.label>
+  <OGEMelee.label>엘다 근접 무기</OGEMelee.label>
+  <OGDEWeapons.label>다크 엘다 무기</OGDEWeapons.label>
+  <OGDERanged.label>다크 엘다 원거리 무기</OGDERanged.label>
+  <OGDEMelee.label>다크 엘다 근접 무기</OGDEMelee.label>
+  <OGTWeapons.label>타우 무기</OGTWeapons.label>
+  <OGTRanged.label>타우 원거리 무기</OGTRanged.label>
+  <OGKRanged.label>타우 원거리 무기</OGKRanged.label>
+  <OGTMelee.label>타우 근접 무기</OGTMelee.label>
+  <OGCWeapons.label>카오스 무기</OGCWeapons.label>
+  <OGCRanged.label>카오스 원거리 무기</OGCRanged.label>
+  <OGCMelee.label>카오스 근접 무기</OGCMelee.label>
+  <OGOWeapons.label>오크 무기</OGOWeapons.label>
+  <OGORanged.label>오크 원거리 무기</OGORanged.label>
+  <OGOMelee.label>오크 근접 무기</OGOMelee.label>
+  <OGNWeapons.label>네크론 무기</OGNWeapons.label>
+  <OGNRanged.label>네크론 원거리 무기</OGNRanged.label>
+  <OGNMelee.label>네크론 근접 무기</OGNMelee.label>
+
+  <!--1612746332_190707_Girls' frontline Apparel Pack-->
+  <GF_costumes.label>그리폰 의상</GF_costumes.label>
+
+  <!--1638556887_190622_[Ods] Star Ship Troopers Powersuits!-->
+  <SSTPowersuitsCats.label>SST 파워슈트 장비</SSTPowersuitsCats.label>
+  <SSTPowersuits_Clothing.label>스타쉽 트루퍼스 슈트</SSTPowersuits_Clothing.label>
+  <SSTPowersuits_Armor.label>스타쉽 트루퍼스 바디 아머</SSTPowersuits_Armor.label>
+  <SSTPowersuits_PowerArmor.label>스타쉽 트루퍼스 파워슈트</SSTPowersuits_PowerArmor.label>
+  <SSTPowersuits_Hats.label>스타쉽 트루퍼스 파워슈트 헤드기어</SSTPowersuits_Hats.label>
+
+  <!--1663737210_190815_Synthetic Leather-->
+  <SyntheLeathers.label>합성원단 가죽</SyntheLeathers.label>
+  <UltrasynthLeather.label>초합성원단 가죽</UltrasynthLeather.label>
+  <cheeryQualityFabric.label>고급 재료</cheeryQualityFabric.label>
+
+  <!--1673071343_190625_Jewelry-->
+  <Jewelry.label>장신구</Jewelry.label>
+  <Necklace.label>목걸이</Necklace.label>
+  <Ring.label>반지</Ring.label>
+  <Bracelet.label>팔찌</Bracelet.label>
+  <Earrings.label>귀걸이</Earrings.label>
+  <Gems.label>보석</Gems.label>
+
+  <!--1704214153_190617_WD_Expanded_Artillery-->
+  <WDHeavyShells.label>대구경 포탄</WDHeavyShells.label>
+  <WDCannonShells.label>대포용 포탄</WDCannonShells.label>
+
+  <!--1725545225_190714_CyberNet-->
+  <CyberNetNetworkedProsthetics.label>네트워크 보철물</CyberNetNetworkedProsthetics.label>
+
+  <!--1833592062_190816_RimCuisine 2 Core-->
+  <RC2_FoodMealsJoy.label>간식</RC2_FoodMealsJoy.label>
+  <RC2_DrinkMealsJoy.label>음료</RC2_DrinkMealsJoy.label>
+  <RC2_GrainsRaw.label>곡류</RC2_GrainsRaw.label>
+  <RC2_VegetablesRaw.label>채소류</RC2_VegetablesRaw.label>
+  <RC2_FruitsRaw.label>과일</RC2_FruitsRaw.label>
+  <RC2_SweetsRaw.label>감미료</RC2_SweetsRaw.label>
+  <RC2_FoodProcessed.label>가공된 재료</RC2_FoodProcessed.label>
+  <RC2_MeatProcessed.label>가공된 육류</RC2_MeatProcessed.label>
+  <RC2_PlantFoodProcessed.label>가공된 채식</RC2_PlantFoodProcessed.label>
+  <RC2_GrainsProcessed.label>가공된 곡류</RC2_GrainsProcessed.label>
+  <RC2_VegetablesProcessed.label>가공된 야채</RC2_VegetablesProcessed.label>
+  <RC2_FruitProcessed.label>가공된 과일</RC2_FruitProcessed.label>
+  <RC2_SweetsProcessed.label>가공된 감미료</RC2_SweetsProcessed.label>
+  <RC2_AnimalProductProcessed.label>가공된 동물의 생산물</RC2_AnimalProductProcessed.label>
+
+  <!--1833592532_190816_RimCuisine 2 Bottling and Booze Expansion-->
+  <RC2_Alcohol.label>술</RC2_Alcohol.label>
+  <RC2_AlcoholPrecursors.label>술 주정</RC2_AlcoholPrecursors.label>
+
+  <!--761379469_190814_Remote Tech-->
+  <rxExplosives.label>폭발</rxExplosives.label>
+  <rxExplosivesIngredients.label>성분</rxExplosivesIngredients.label>
+
+  <!--728381322_190818_Apparello 2-->
+  <ApparelloHandlingSet.label>조련</ApparelloHandlingSet.label>
+  <Apparellohats.label>머리 덮개</Apparellohats.label>
+  <Apparellosets.label>의류 세트</Apparellosets.label>
+  <ApparelloSetMelodie.label>격투</ApparelloSetMelodie.label>
+  <ApparelloWombatSet.label>전투</ApparelloWombatSet.label>
+  <ApparelloConstructionSet.label>건설</ApparelloConstructionSet.label>
+  <ApparelloSetCookie.label>요리</ApparelloSetCookie.label>
+  <ApparelloSetCrafterer.label>제작</ApparelloSetCrafterer.label>
+  <Apparelloeyehats.label>눈 장식</Apparelloeyehats.label>
+  <ApparelloGrowerSet.label>재배</ApparelloGrowerSet.label>
+  <ApparelloSetRachel.label>사격</ApparelloSetRachel.label>
+  <ApparelloMedicalSet.label>의학</ApparelloMedicalSet.label>
+  <Accessorellocategory.label>기타</Accessorellocategory.label>
+  <Apparellopanties.label>바지</Apparellopanties.label>
+  <ApparelloRarities.label>희귀 장비</ApparelloRarities.label>
+  <ApparelloResearchSet.label>연구</ApparelloResearchSet.label>
+  <ApparelloSocialSet.label>사교</ApparelloSocialSet.label>
+  <ApparelloSomerset.label>여름 의복</ApparelloSomerset.label>
+  <ApparelloWinterwald.label>겨울 의복</ApparelloWinterwald.label>
+  <ApparelloCrafterSet.label>작업</ApparelloCrafterSet.label>
+
+  <!--1561492240_190826_Rimmu-Nation - Clothing (All Craftable!)-->
+  <RNApparel_Main.label>Rimmu-Nation 의류</RNApparel_Main.label>
+  <RNApparel_Casual.label>캐주얼</RNApparel_Casual.label>
+  <RNApparel_Belts.label>장신구</RNApparel_Belts.label>
+  <RNApparel_Combat.label>전투복</RNApparel_Combat.label>
+  <RNApparel_BodyArmor.label>방탄복</RNApparel_BodyArmor.label>
+  <RNApparel_Formal.label>정장 셔츠</RNApparel_Formal.label>
+  <RNApparel_ShellCasual.label>캐주얼 자켓</RNApparel_ShellCasual.label>
+  <RNApparel_ShellCombat.label>전투용 자켓</RNApparel_ShellCombat.label>
+  <RNApparel_ShellFormal.label>정장 자켓</RNApparel_ShellFormal.label>
+  <RNHeadgear_Main.label>Rimmu-Nation 머리 장비</RNHeadgear_Main.label>
+  <RNHeadgear_Hats.label>모자</RNHeadgear_Hats.label>
+  <RNHeadgear_Helmets.label>방탄모</RNHeadgear_Helmets.label>
+  <RNHeadgear_Masks.label>마스크</RNHeadgear_Masks.label>
+  <RNApparel_Handwear.label>장갑</RNApparel_Handwear.label>
+  <RNApparel_Footwear.label>신발</RNApparel_Footwear.label>
+
+  <!-- Girls' frontline Weapon Pack -->
+  <GFWeapons.label>소녀전선 무기</GFWeapons.label>
+
+</LanguageData>

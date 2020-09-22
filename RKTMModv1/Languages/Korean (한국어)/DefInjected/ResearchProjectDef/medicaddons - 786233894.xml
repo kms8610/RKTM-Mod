@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <sd_medicaddons_research_medieval_med.label>중세 의료</sd_medicaddons_research_medieval_med.label>
+  <sd_medicaddons_research_medieval_med.description>새로운 방법은 당신의 의료구역을 중세스타일로 확립하는 것 입니다.</sd_medicaddons_research_medieval_med.description>
+  <sd_medicaddons_research_industrial_med.label>산업 의료</sd_medicaddons_research_industrial_med.label>
+  <sd_medicaddons_research_industrial_med.description>당신의 정착지에 있는 병원 구역을 설치하는 것은 당신의 정착민들의 생존 가능성을 높일 것 입니다. 새로운 방법은 당신의 의학 분야를 다소 문명화시키는 것 입니다.</sd_medicaddons_research_industrial_med.description>
+  <sd_medicaddons_research_spacer_med.label>우주 의료</sd_medicaddons_research_spacer_med.label>
+  <sd_medicaddons_research_spacer_med.description>당신의 최신 기술의 진보는 당신의 정착지의 모든 부분에서 보여져야 합니다. 새로운 방법은 우주선처럼 당신의 의료 영역을 설치하는 것 입니다.</sd_medicaddons_research_spacer_med.description>
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Repair.tableTab>아이템</Repair.tableTab>
+  <Repair.tabSuspend>정지</Repair.tabSuspend>
+  <Repair.tabStockpile>비축량 운반하기</Repair.tabStockpile>
+  <Repair.tabOutside>외부 아이템</Repair.tabOutside>
+  <Repair.tabSearch>수색 반경:</Repair.tabSearch>
+  <Repair.BenchNoItems>수리할 아이템을 찾을 수 없습니다.</Repair.BenchNoItems>
+  <Repair.BenchNoMats>아이템을 수리하기 위한 재료가 없습니다.</Repair.BenchNoMats>
+  <Repair.Mcm.ResourceModePrefix>자원</Repair.Mcm.ResourceModePrefix>
+  <Repair.Mcm.ResourceModeTip>아이템을 수리 하기 위해서 자원을 사용합니다.</Repair.Mcm.ResourceModeTip>
+  <Repair.Mcm.RepairRateText>틱 당 / HP</Repair.Mcm.RepairRateText>
+  <Repair.Mcm.RepairRateTip>1 HP를 수리하는 데 걸리는 틱 (60 틱 = 1초).</Repair.Mcm.RepairRateTip>
+  <Repair.Mcm.HpPerPackText>HP / 수리 도구</Repair.Mcm.HpPerPackText>
+  <Repair.Mcm.HpPerPackTip>수리도구 하나가 수리하는 체력입니다.</Repair.Mcm.HpPerPackTip>
+  <Repair.Mcm.SkillMultText>폰 능력 배율</Repair.Mcm.SkillMultText>
+  <Repair.Mcm.SkillMultTip>수리한 HP 당 얻는 능력 배율입니다. 이것은 인게임에서 보는 수치가 아니라, 기본 능력 증가입니다 (기본값: 0.55).</Repair.Mcm.SkillMultTip>
+  <Repair.Mcm.PercentModeText>퍼센트 모드</Repair.Mcm.PercentModeText>
+  <Repair.Mcm.PercentModeTip>수리 도구가 정해진 HP양 대신 HP비율로 수리합니다.</Repair.Mcm.PercentModeTip>
+
+</LanguageData>

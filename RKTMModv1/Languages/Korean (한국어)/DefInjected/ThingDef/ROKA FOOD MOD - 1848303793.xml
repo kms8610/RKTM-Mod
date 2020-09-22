@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TOR_ddongguk.label>된장국 식단</TOR_ddongguk.label>
+  <TOR_ddongguk.description>밥과 된장국입니다만. 맛있지는 않지만 만들기 쉽습니다. ... 한국군은 이걸 '똥'국이라 부릅니다.</TOR_ddongguk.description>
+  <TOR_gunBBANG.label>건빵</TOR_gunBBANG.label>
+  <TOR_gunBBANG.description>건빵입니다. 만들기 쉽습니다.</TOR_gunBBANG.description>
+  <TOR_kmre.label>전투식량</TOR_kmre.label>
+  <TOR_kmre.description>전투식량입니다. 즉각취식형 3형이 가장 맛있습니다. 초코볼 빼먹지 마세요.</TOR_kmre.description>
+  <TOR_Yukgaejang.label>육개장</TOR_Yukgaejang.label>
+  <TOR_Yukgaejang.description>한국 라면인 육개장입니다. 맵지만 맛있습니다.</TOR_Yukgaejang.description>
+  <TOR_BBANGSIK.label>군대리아</TOR_BBANGSIK.label>
+  <TOR_BBANGSIK.description>만들어 먹는 한국군식 햄버거 식단인 군대리아입니다. 보기보다 꽤 맛있습니다.</TOR_BBANGSIK.description>
+  <TOR_Bubbling.label>뽀글이</TOR_Bubbling.label>
+  <TOR_Bubbling.description>봉지째 끓여먹는 한국군식 라면, 뽀글이를 만듭니다. 밤에 먹을 때가 가장 맛있어요.</TOR_Bubbling.description>
+  <TOR_Schnellchicken.label>슈넬치킨</TOR_Schnellchicken.label>
+  <TOR_Schnellchicken.description>냉동식품계의 존엄, 슈넬치킨입니다.</TOR_Schnellchicken.description>
+  <TOR_Seaweed_soup_and_rice.label>미역국 식단</TOR_Seaweed_soup_and_rice.label>
+  <TOR_Seaweed_soup_and_rice.description>소세지 야채볶음이 있는 미역국 식단입니다. 맛이 꽤 괜찮습니다. 특히 소세지요!</TOR_Seaweed_soup_and_rice.description>
+  <TOR_Vinylriceballs.label>짜요짜요</TOR_Vinylriceballs.label>
+  <TOR_Vinylriceballs.description>비닐에 담긴 혐오스러운 비주얼의 식단입니다. 이건 맛이 진짜 개같애요.</TOR_Vinylriceballs.description>
+
+</LanguageData>

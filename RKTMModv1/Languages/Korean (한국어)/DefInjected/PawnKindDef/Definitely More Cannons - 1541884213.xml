@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mech_ArmoredCentipede.label>중장갑 센티피드</Mech_ArmoredCentipede.label>
+  <Mech_ArmoredCentipede.labelPlural>중장갑 센티피드들</Mech_ArmoredCentipede.labelPlural>
+  <Mech_AdvArmoredCentipede.label>개량형 중장갑 센티피드</Mech_AdvArmoredCentipede.label>
+  <Mech_AdvArmoredCentipede.labelPlural>개량형 중장갑 센티피드들</Mech_AdvArmoredCentipede.labelPlural>
+  <Mech_Shielder.label>실더</Mech_Shielder.label>
+  <Mech_Shielder.labelPlural>실더들</Mech_Shielder.labelPlural>
+
+</LanguageData>

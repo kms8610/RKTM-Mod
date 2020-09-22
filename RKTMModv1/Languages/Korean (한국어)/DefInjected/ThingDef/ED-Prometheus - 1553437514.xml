@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Table_MK1_Replicator.label>마크 1 물질 복제기</Table_MK1_Replicator.label>
+  <Table_MK1_Replicator.description>고급 물질 복제 장치</Table_MK1_Replicator.description>
+  <Table_MK2_Replicator.label>마크 2 물질 복제기</Table_MK2_Replicator.label>
+  <Table_MK2_Replicator.description>고급 물질 복제 장치</Table_MK2_Replicator.description>
+  <Table_MK3_Replicator.label>마크 3 물질 복제기</Table_MK3_Replicator.label>
+  <Table_MK3_Replicator.description>고급 물질 복제 장치</Table_MK3_Replicator.description>
+  <MolecularCompressor.label>분자 강화 압축기</MolecularCompressor.label>
+  <MolecularCompressor.description>고급 물질 복제 장치</MolecularCompressor.description>
+  <QuantumPowerRelay.label>양자 전력 계전기</QuantumPowerRelay.label>
+  <QuantumPowerRelay.description>나중에 사용하기 위해 전기를 저장합니다. 충전된 배터리는 비나 불에 노출되면 폭발합니다.</QuantumPowerRelay.description>
+  <LaserDrill.label>레이저 드릴 조준기</LaserDrill.label>
+  <LaserDrill.description>선상 무기 시스템의 정확한 방향이 증기 간헐천을 생성하거나 파괴할 수 있도록 세부적인 지표면 스캔을 수행합니다. 경고, 무기 시스템의 강한 열은 화재를 일으키는 것으로 알려져 있습니다.</LaserDrill.description>
+  <LaserDrillVisual.label>레이저 드릴 표시</LaserDrillVisual.label>
+  <PrometheusQuestLock.label>프로메테우스 퀘스트 잠금</PrometheusQuestLock.label>
+  <PrometheusQuestLock.description>퀘스트 진행에 대한 연구 잠금을 위한 더미 건물.</PrometheusQuestLock.description>
+  <Building_ED_ShieldGenerator.label>실드 생성기</Building_ED_ShieldGenerator.label>
+  <Building_ED_ShieldGenerator.description>중요한 지상 건물를 보호하도록 설계된 실드를 만듭니다. 다양한 확장 모듈로 업그레이드 할 수 있습니다.</Building_ED_ShieldGenerator.description>
+  <Building_ShieldGenerator.label>실드 생성기</Building_ShieldGenerator.label>
+  <Building_ShieldGenerator.description>중요한 지상 건물를 보호하도록 설계된 실드를 만듭니다. 다양한 확장 모듈로 업그레이드 할 수 있습니다.</Building_ShieldGenerator.description>
+  <ShieldUpgrade.label>실드 업그레이드</ShieldUpgrade.label>
+  <ShieldUpgrade.description>실드를 업그레이드 합니다.</ShieldUpgrade.description>
+  <ShieldModuleCapacitor.label>실드: 콘덴서</ShieldModuleCapacitor.label>
+  <ShieldModuleCapacitor.description>실드 콘덴서 : 커패시터 실드 생성기의 최대 실드 내구력을 증가시킵니다. 이를 통해 오프라인으로 전환하기 전에 더 많은 영향을 흡수할 수 있습니다.</ShieldModuleCapacitor.description>
+  <ShieldModuleHorizontalProjector.label>실드 : 수평 프로젝터</ShieldModuleHorizontalProjector.label>
+  <ShieldModuleHorizontalProjector.description>실드 모듈 : 수평 프로젝터 실드 생성기에서 실드 필드를 확장할 수있는 최대 거리를 늘려단일 실드 생성기로 효과적으로 보호 할 수 있는 영역을 늘립니다.</ShieldModuleHorizontalProjector.description>
+  <ShieldModuleVerticalProjector.label>실드 : 수직 프로젝터</ShieldModuleVerticalProjector.label>
+  <ShieldModuleVerticalProjector.description>실드 모듈 : 수직 프로젝터 실드 필드를 수직으로 확장하여 드롭 포드의 안전한 착륙을 방지 할 수 있습니다</ShieldModuleVerticalProjector.description>
+  <ShieldModuleOrbitalDatalink.label>실드 : 궤도 데이터 링크</ShieldModuleOrbitalDatalink.label>
+  <ShieldModuleOrbitalDatalink.description>실드 모듈 : 궤도 데이터 링크 실드 제너레이터를 궤도에 배치된 향상된 전술 센서에 연결하여 우호적이고 적대적인 접점을 차별화하여 무기 발사 및 드롭포드 배치를 포함한 우호적인 조작을 방해할 수 있습니다.</ShieldModuleOrbitalDatalink.description>
+  <ShieldModulePowerConverter.label>실드 : 전력 변환기</ShieldModulePowerConverter.label>
+  <ShieldModulePowerConverter.description>실드 모듈 : 전력 변환기 실드 필드의 내구력이 느리게 감소하여 주 전원이 중단되는 경우에도 실드 생성기가 계속 작동합니다.</ShieldModulePowerConverter.description>
+  <Building_Shield_Charger.label>나노 실드 충전소</Building_Shield_Charger.label>
+  <Building_Shield_Charger.description>식민지 주민과 애완 동물에 나노 방패를 추가하고 재충전합니다. 총 전력량에서 가져옵니다.</Building_Shield_Charger.description>
+  <Building_EDSN_Transponder.label>EDSN 트랜스폰더</Building_EDSN_Transponder.label>
+  <Building_EDSN_Transponder.description>E.D.S.N. 프로메테우스와 통신하는 기능을 제공합니다.</Building_EDSN_Transponder.description>
+
+  <OmniGel.label>옴니 젤</OmniGel.label>
+  <OmniGel.description>정제하여 무엇이든 됩니다.</OmniGel.description>
+  <ResourceUnit.label>자원 유닛</ResourceUnit.label>
+  <ResourceUnit.description>제조에 사용되는 EDSN 스타쉽 및 시설에 즉시 운송하기 위해 포장된 재료.</ResourceUnit.description>
+  <NanoMaterial.label>나노 소재</NanoMaterial.label>
+  <NanoMaterial.description>선박 시스템을 온라인 상태로 만드는 데 사용됩니다.</NanoMaterial.description>
+  <CompressedSteel.label>압축 강철</CompressedSteel.label>
+  <CompressedSteel.description>다양한 구조, 무기 및 기계 제작에 사용되는 철-탄소 금속 합금.</CompressedSteel.description>
+  <CompressedSteel.stuffProps.stuffAdjective>압축 강철</CompressedSteel.stuffProps.stuffAdjective>
+  <CompressedPlasteel.label>압축 플라스틸</CompressedPlasteel.label>
+  <CompressedPlasteel.description>고급 우주 기술 건설 재료 플라스틸은 독특한 분자 구조로 인해 매우 강력합니다.</CompressedPlasteel.description>
+  <CompressedPlasteel.stuffProps.stuffAdjective>압축 플라스틸</CompressedPlasteel.stuffProps.stuffAdjective>
+  <CompressedWoodLog.label>압축 목재</CompressedWoodLog.label>
+  <CompressedWoodLog.description>나무나 다른 섬유질 식물에서 나온 목재. 건물 건설과 무기 제작에 유용합니다. 캠프 파이어와 발전기에 좋은 연료이며 화학연료로 정제 될 수 있습니다. 극단적일 경우, 목재는 무기나 나무로 사용될 수 있습니다.</CompressedWoodLog.description>
+  <CompressedWoodLog.tools.0.label>통나무</CompressedWoodLog.tools.0.label>
+  <CompressedWoodLog.stuffProps.stuffAdjective>압축 목재</CompressedWoodLog.stuffProps.stuffAdjective>
+  <PlantOmniGel.label>옴니젤 나무</PlantOmniGel.label>
+  <PlantOmniGel.description>옴니젤 나무입니다.</PlantOmniGel.description>
+  <CompressedBlocksSandstone.label>압축 사암 석재</CompressedBlocksSandstone.label>
+  <CompressedBlocksSandstone.description>단단한 사암 석재. 사암은 비교적 부드럽고 쪼개지기 쉬운 돌입니다.</CompressedBlocksSandstone.description>
+  <CompressedBlocksSandstone.stuffProps.stuffAdjective>압축 사암</CompressedBlocksSandstone.stuffProps.stuffAdjective>
+  <CompressedBlocksGranite.label>압축 화강암</CompressedBlocksGranite.label>
+  <CompressedBlocksGranite.description>단단한 화강암 석재. 화강암은 매우 단단한 돌입니다.</CompressedBlocksGranite.description>
+  <CompressedBlocksGranite.stuffProps.stuffAdjective>압축 화강암</CompressedBlocksGranite.stuffProps.stuffAdjective>
+  <CompressedBlocksLimestone.label>압축 석회암 석재</CompressedBlocksLimestone.label>
+  <CompressedBlocksLimestone.description>단단한 석회암 석재</CompressedBlocksLimestone.description>
+  <CompressedBlocksLimestone.stuffProps.stuffAdjective>압축 석회암 석재</CompressedBlocksLimestone.stuffProps.stuffAdjective>
+  <CompressedBlocksSlate.label>압축 점판암 석재</CompressedBlocksSlate.label>
+  <CompressedBlocksSlate.description>단단한 점판암 석재입니다. 쉽게 부서지는 둔탁한 바위입니다.</CompressedBlocksSlate.description>
+  <CompressedBlocksSlate.stuffProps.stuffAdjective>압축 점판암 석재</CompressedBlocksSlate.stuffProps.stuffAdjective>
+  <CompressedBlocksMarble.label>압축 대리석 석재</CompressedBlocksMarble.label>
+  <CompressedBlocksMarble.description>단단한 대리석 석재입니다. 대리석은 부드럽고 아름다운 석재로 조각하기 쉽습니다.</CompressedBlocksMarble.description>
+  <CompressedBlocksMarble.stuffProps.stuffAdjective>압축 대리석 석재</CompressedBlocksMarble.stuffProps.stuffAdjective>
+
+</LanguageData>

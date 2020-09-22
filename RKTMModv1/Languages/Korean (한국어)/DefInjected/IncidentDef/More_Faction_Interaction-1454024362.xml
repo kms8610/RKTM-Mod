@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MFI_HerdMigration_Ambush.label>동물무리 이주</MFI_HerdMigration_Ambush.label>
+  <MFI_HerdMigration_Ambush.letterText>{0} 무리가 지역을 통과 중입니다.\n\n사냥 시간입니다.</MFI_HerdMigration_Ambush.letterText>
+  <MFI_HerdMigration_Ambush.letterLabel>동물무리 이주: {0}</MFI_HerdMigration_Ambush.letterLabel>
+  <MFI_ReverseTradeRequest.label>상단 요청</MFI_ReverseTradeRequest.label>
+  <MFI_ReverseTradeRequest.letterLabel>상단 요청</MFI_ReverseTradeRequest.letterLabel>
+  <MFI_PirateExtortion.label>해적의 강요</MFI_PirateExtortion.label>
+  <MFI_PirateExtortion.letterLabel>해적의 통행료 요구</MFI_PirateExtortion.letterLabel>
+  <MFI_WoundedCombatants.label>부상당한 전투원</MFI_WoundedCombatants.label>
+  <MFI_RoadWorks.label>도로 포장</MFI_RoadWorks.label>
+  <MFI_DiplomaticMarriage.label>정략 결혼</MFI_DiplomaticMarriage.label>
+  <MFI_DiplomaticMarriage.letterLabel>정략 결혼</MFI_DiplomaticMarriage.letterLabel>
+  <MFI_MysticalShaman.label>신비로운 주술사</MFI_MysticalShaman.label>
+  <MFI_MysticalShaman.letterLabel>신비로운 주술사</MFI_MysticalShaman.letterLabel>
+  <MFI_HuntersLodge.label>사냥꾼의 오두막</MFI_HuntersLodge.label>
+  <MFI_HuntersLodge.letterText>당신은 {0}의 {1} 여름 파티에 초대받았습니다. {2}. 현장에는 요리에 필요한 시설이 모두 갖춰져 있으며, 그들은 여러분에게 참석을 제안했습니다. 이 제안은 {3}일 후에 만료됩니다.</MFI_HuntersLodge.letterText>
+  <MFI_HuntersLodge.letterLabel>사냥꾼의 오두막</MFI_HuntersLodge.letterLabel>
+  <MFI_SettlementBaseAttack.label>세력 거점이 공격 받음</MFI_SettlementBaseAttack.label>
+  <MFI_BumperCropRequest.label>수확 요청</MFI_BumperCropRequest.label>
+  <MFI_Quest_PeaceTalks.label>전쟁이 다가온다?</MFI_Quest_PeaceTalks.label>
+  <MFI_Quest_PeaceTalks.letterText>당신은 {1}의 {0}에 속한 [PAWN_nameDef]에게서 메시지를 받았습니다. 그들의 세력은 최근 다른 세력과 외교적 충돌을 겪었으며 당신이 그들과 {2} 사이의 중재를 맡아주기를 요청합니다. 그들은 인근의 중립 지역을 선택하고 중재를 위해 당신을 초대했습니다.\n\n그들의 세력과의 관계를 개선할 수 있는 좋은 기회가 될 수 있겠지만, 주의하십시오 - 서툰 협상가는 좋은 결과보다 더 큰 피해를 초래하고 상대를 화나게 할 수도 있습니다.\n\n이들의 제안은 {3}일 후 만료될 것이며, [PAWN_nameDef](은)는 최악의 사태를 우려하고 있습니다.</MFI_Quest_PeaceTalks.letterText>
+  <MFI_Quest_PeaceTalks.letterLabel>세력간의 불안</MFI_Quest_PeaceTalks.letterLabel>
+  <MFI_AnnualExpo.label>연례 박람회</MFI_AnnualExpo.label>
+  <MFI_AnnualExpo.letterLabel>연례 박람회</MFI_AnnualExpo.letterLabel>
+  <MFI_QuestSpreadingPirateCamp.label>도적 캠프의 확산</MFI_QuestSpreadingPirateCamp.label>
+  <MFI_QuestSpreadingPirateCamp.letterText>{2}의 {1}에 속한 {0}(이)가 우리에게 도발적인 메시지를 보내 왔습니다.\n\n그들은 또 다른 도적 캠프를 세웠다고 전합니다.</MFI_QuestSpreadingPirateCamp.letterText>
+  <MFI_QuestSpreadingPirateCamp.letterLabel>도적 캠프의 확산</MFI_QuestSpreadingPirateCamp.letterLabel>
+
+</LanguageData>

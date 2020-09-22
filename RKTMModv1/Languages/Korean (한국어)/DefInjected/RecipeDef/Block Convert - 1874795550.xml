@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <C2Slate.label>아무 석재나 점판암으로 변환</C2Slate.label>
+  <C2Slate.description>다른 석재들을 점판암 석재로 만듭니다.</C2Slate.description>
+  <C2Granite.label>아무 석재나 화강암으로 변환</C2Granite.label>
+  <C2Granite.description>다른 석재들을 화강암 석재로 만듭니다.</C2Granite.description>
+  <C2Limestone.label>아무 석재나 석회암으로 변환</C2Limestone.label>
+  <C2Limestone.description>다른 석재들을 석회암 석재로 만듭니다.</C2Limestone.description>
+  <C2Marble.label>아무 석재나 대리석으로 변환</C2Marble.label>
+  <C2Marble.description>다른 석재들을 대리석 석재로 만듭니다.</C2Marble.description>
+  <C2Sandstone.label>아무 석재나 사암으로 변환</C2Sandstone.label>
+  <C2Sandstone.description>다른 석재들을 사암 석재로 만듭니다.</C2Sandstone.description>
+  <C210Slate.label>아무 석재나 점판암으로 변환 (x10)</C210Slate.label>
+  <C210Slate.description>다른 석재들을 점판암 석재로 만듭니다.</C210Slate.description>
+  <C210Granite.label>아무 석재나 화강암으로 변환 (x10)</C210Granite.label>
+  <C210Granite.description>다른 석재들을 화강암 석재로 만듭니다.</C210Granite.description>
+  <C210Limestone.label>아무 석재나 석회암으로 변환 (x10)</C210Limestone.label>
+  <C210Limestone.description>다른 석재들을 석회암 석재로 만듭니다.</C210Limestone.description>
+  <C210Marble.label>아무 석재나 대리석으로 변환 (x10)</C210Marble.label>
+  <C210Marble.description>다른 석재들을 대리석 석재로 만듭니다.</C210Marble.description>
+  <C210Sandstone.label>아무 석재나 사암으로 변환 (x10)</C210Sandstone.label>
+  <C210Sandstone.description>다른 석재들을 사암 석재로 만듭니다.</C210Sandstone.description>
+  <C225Slate.label>아무 석재나 점판암으로 변환 (x25)</C225Slate.label>
+  <C225Slate.description>다른 석재들을 점판암 석재로 만듭니다.</C225Slate.description>
+  <C225Granite.label>아무 석재나 화강암으로 변환 (x25)</C225Granite.label>
+  <C225Granite.description>다른 석재들을 화강암 석재로 만듭니다.</C225Granite.description>
+  <C225Limestone.label>아무 석재나 석회암으로 변환 (x25)</C225Limestone.label>
+  <C225Limestone.description>다른 석재들을 석회암 석재로 만듭니다.</C225Limestone.description>
+  <C225Marble.label>아무 석재나 대리석으로 변환 (x25)</C225Marble.label>
+  <C225Marble.description>다른 석재들을 대리석 석재로 만듭니다.</C225Marble.description>
+  <C225Sandstone.label>아무 석재나 사암으로 변환 (x25)</C225Sandstone.label>
+  <C225Sandstone.description>다른 석재들을 사암 석재로 만듭니다.</C225Sandstone.description>
+  <C250Slate.label>아무 석재나 점판암으로 변환 (x50)</C250Slate.label>
+  <C250Slate.description>다른 석재들을 점판암 석재로 만듭니다.</C250Slate.description>
+  <C250Granite.label>아무 석재나 화강암으로 변환 (x50)</C250Granite.label>
+  <C250Granite.description>다른 석재들을 화강암 석재로 만듭니다.</C250Granite.description>
+  <C250Limestone.label>아무 석재나 석회암으로 변환 (x50)</C250Limestone.label>
+  <C250Limestone.description>다른 석재들을 석회암 석재로 만듭니다.</C250Limestone.description>
+  <C250Marble.label>아무 석재나 대리석으로 변환 (x50)</C250Marble.label>
+  <C250Marble.description>다른 석재들을 대리석 석재로 만듭니다.</C250Marble.description>
+  <C250Sandstone.label>아무 석재나 사암으로 변환 (x50)</C250Sandstone.label>
+  <C250Sandstone.description>다른 석재들을 사암 석재로 만듭니다.</C250Sandstone.description>
+  <C2100Slate.label>아무 석재나 점판암으로 변환 (x100)</C2100Slate.label>
+  <C2100Slate.description>다른 석재들을 점판암 석재로 만듭니다.</C2100Slate.description>
+  <C2100Granite.label>아무 석재나 화강암으로 변환 (x100)</C2100Granite.label>
+  <C2100Granite.description>다른 석재들을 화강암 석재로 만듭니다.</C2100Granite.description>
+  <C2100Limestone.label>아무 석재나 석회암으로 변환 (x100)</C2100Limestone.label>
+  <C2100Limestone.description>다른 석재들을 석회암 석재로 만듭니다.</C2100Limestone.description>
+  <C2100Marble.label>아무 석재나 대리석으로 변환 (x100)</C2100Marble.label>
+  <C2100Marble.description>다른 석재들을 대리석 석재로 만듭니다.</C2100Marble.description>
+  <C2100Sandstone.label>아무 석재나 사암으로 변환 (x100)</C2100Sandstone.label>
+  <C2100Sandstone.description>다른 석재들을 사암 석재로 만듭니다.</C2100Sandstone.description>
+  <C2SlateE.label>아무 석재나 점판암으로 변환</C2SlateE.label>
+  <C2SlateE.description>다른 석재들을 점판암 석재로 만듭니다.</C2SlateE.description>
+  <C2GraniteE.label>아무 석재나 화강암으로 변환</C2GraniteE.label>
+  <C2GraniteE.description>다른 석재들을 화강암 석재로 만듭니다.</C2GraniteE.description>
+  <C2LimestoneE.label>아무 석재나 석회암으로 변환</C2LimestoneE.label>
+  <C2LimestoneE.description>다른 석재들을 석회암 석재로 만듭니다.</C2LimestoneE.description>
+  <C2MarbleE.label>아무 석재나 대리석으로 변환</C2MarbleE.label>
+  <C2MarbleE.description>다른 석재들을 대리석 석재로 만듭니다.</C2MarbleE.description>
+  <C2SandstoneE.label>아무 석재나 사암으로 변환</C2SandstoneE.label>
+  <C2SandstoneE.description>다른 석재들을 사암 석재로 만듭니다.</C2SandstoneE.description>
+  <C210SlateE.label>아무 석재나 점판암으로 변환 (x10)</C210SlateE.label>
+  <C210SlateE.description>다른 석재들을 점판암 석재로 만듭니다.</C210SlateE.description>
+  <C210GraniteE.label>아무 석재나 화강암으로 변환 (x10)</C210GraniteE.label>
+  <C210GraniteE.description>다른 석재들을 화강암 석재로 만듭니다.</C210GraniteE.description>
+  <C210LimestoneE.label>아무 석재나 석회암으로 변환 (x10)</C210LimestoneE.label>
+  <C210LimestoneE.description>다른 석재들을 석회암 석재로 만듭니다.</C210LimestoneE.description>
+  <C210MarbleE.label>아무 석재나 대리석으로 변환 (x10)</C210MarbleE.label>
+  <C210MarbleE.description>다른 석재들을 대리석 석재로 만듭니다.</C210MarbleE.description>
+  <C210SandstoneE.label>아무 석재나 사암으로 변환 (x10)</C210SandstoneE.label>
+  <C210SandstoneE.description>다른 석재들을 사암 석재로 만듭니다.</C210SandstoneE.description>
+  <C225SlateE.label>아무 석재나 점판암으로 변환 (x25)</C225SlateE.label>
+  <C225SlateE.description>다른 석재들을 점판암 석재로 만듭니다.</C225SlateE.description>
+  <C225GraniteE.label>아무 석재나 화강암으로 변환 (x25)</C225GraniteE.label>
+  <C225GraniteE.description>다른 석재들을 화강암 석재로 만듭니다.</C225GraniteE.description>
+  <C225LimestoneE.label>아무 석재나 석회암으로 변환 (x25)</C225LimestoneE.label>
+  <C225LimestoneE.description>다른 석재들을 석회암 석재로 만듭니다.</C225LimestoneE.description>
+  <C225MarbleE.label>아무 석재나 대리석으로 변환 (x25)</C225MarbleE.label>
+  <C225MarbleE.description>다른 석재들을 대리석 석재로 만듭니다.</C225MarbleE.description>
+  <C225SandstoneE.label>아무 석재나 사암으로 변환 (x25)</C225SandstoneE.label>
+  <C225SandstoneE.description>다른 석재들을 사암 석재로 만듭니다.</C225SandstoneE.description>
+  <C250SlateE.label>아무 석재나 점판암으로 변환 (x50)</C250SlateE.label>
+  <C250SlateE.description>다른 석재들을 점판암 석재로 만듭니다.</C250SlateE.description>
+  <C250GraniteE.label>아무 석재나 화강암으로 변환 (x50)</C250GraniteE.label>
+  <C250GraniteE.description>다른 석재들을 화강암 석재로 만듭니다.</C250GraniteE.description>
+  <C250LimestoneE.label>아무 석재나 석회암으로 변환 (x50)</C250LimestoneE.label>
+  <C250LimestoneE.description>다른 석재들을 석회암 석재로 만듭니다.</C250LimestoneE.description>
+  <C250MarbleE.label>아무 석재나 대리석으로 변환 (x50)</C250MarbleE.label>
+  <C250MarbleE.description>다른 석재들을 대리석 석재로 만듭니다.</C250MarbleE.description>
+  <C250SandstoneE.label>아무 석재나 사암으로 변환 (x50)</C250SandstoneE.label>
+  <C250SandstoneE.description>다른 석재들을 사암 석재로 만듭니다.</C250SandstoneE.description>
+  <C2100SlateE.label>아무 석재나 점판암으로 변환 (x100)</C2100SlateE.label>
+  <C2100SlateE.description>다른 석재들을 점판암 석재로 만듭니다.</C2100SlateE.description>
+  <C2100GraniteE.label>아무 석재나 화강암으로 변환 (x100)</C2100GraniteE.label>
+  <C2100GraniteE.description>다른 석재들을 화강암 석재로 만듭니다.</C2100GraniteE.description>
+  <C2100LimestoneE.label>아무 석재나 석회암으로 변환 (x100)</C2100LimestoneE.label>
+  <C2100LimestoneE.description>다른 석재들을 석회암 석재로 만듭니다.</C2100LimestoneE.description>
+  <C2100MarbleE.label>아무 석재나 대리석으로 변환 (x100)</C2100MarbleE.label>
+  <C2100MarbleE.description>다른 석재들을 대리석 석재로 만듭니다.</C2100MarbleE.description>
+  <C2100SandstoneE.label>아무 석재나 사암으로 변환 (x100)</C2100SandstoneE.label>
+  <C2100SandstoneE.description>다른 석재들을 사암 석재로 만듭니다.</C2100SandstoneE.description>
+
+</LanguageData>

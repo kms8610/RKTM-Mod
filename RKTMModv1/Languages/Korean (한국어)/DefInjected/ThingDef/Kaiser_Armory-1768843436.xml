@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Gun_C96_KA.label>C96</Gun_C96_KA.label>
+  <Gun_C96_KA.description>마우저 C96은 원래 1896년부터 1937년까지 독일의 무기 제조업체인 마우저가 생산한 반자동 권총입니다. 이 총의 무면허 복제품은 20세기 전반 스페인과 중국에서도 제작되었습니다.</Gun_C96_KA.description>
+  <Gun_C96_KA.tools.0.label>손잡이</Gun_C96_KA.tools.0.label>
+  <Gun_Gew_98_Bayonet_KA.label>게베어 98 - 총검 장작</Gun_Gew_98_Bayonet_KA.label>
+  <Gun_Gew_98_Bayonet_KA.description>게베어 98은 독일 볼트 액션 소총으로, 마우저가 5-라운드 클립 장착 매거진을 카트리지 형식으로 만든 것입니다. 1898년부터 1935년까지 독일군 제식 소총으로 사용되었으며, 같은 기본 설계를 사용한 단축형 무기인 카라비너 98k로 대체되었습니다.\nGewehr 98의 7.92×57mm 마우저 카트리지를 장착한 스트리퍼 클립을 사용하는 방식은 영국, 일본 및 미국 등 많은 국가에서 곧 채택된 여러 볼트 액션 엔지니어링 개념을 성공적으로 결합 및 개선하였습니다.</Gun_Gew_98_Bayonet_KA.description>
+  <Gun_Gew_98_Bayonet_KA.tools.1.label>총검</Gun_Gew_98_Bayonet_KA.tools.1.label>
+  <Gun_Gew_98_Bayonet_KA.tools.0.label>손잡이</Gun_Gew_98_Bayonet_KA.tools.0.label>
+  <Gun_Gew_98_KA.label>게베어 98</Gun_Gew_98_KA.label>
+  <Gun_Gew_98_KA.description>게베어 98은 독일 볼트 액션 소총으로, 마우저가 5-라운드 클립 장착 매거진을 카트리지 형식으로 만든 것입니다. 1898년부터 1935년까지 독일군 제식 소총으로 사용되었으며, 같은 기본 설계를 사용한 단축형 무기인 카라비너 98k로 대체되었습니다.\nGewehr 98의 7.92×57mm 마우저 카트리지를 장착한 스트리퍼 클립을 사용하는 방식은 영국, 일본 및 미국 등 많은 국가에서 곧 채택된 여러 볼트 액션 엔지니어링 개념을 성공적으로 결합 및 개선하였습니다.</Gun_Gew_98_KA.description>
+  <Gun_Gew_98_KA.tools.0.label>개머리판</Gun_Gew_98_KA.tools.0.label>
+  <Gun_M1916_Selbstlader_KA.label>M1916 젤프스트라더</Gun_M1916_Selbstlader_KA.label>
+  <Gun_M1916_Selbstlader_KA.description>젤프스트라더는 1916년에 20발들이 탄창으로 제작되었습니다 ; 이 소총은 당시 인상적인 화력으로 주목받았습니다. 하지만, 높은 제조비용과 신뢰성 문제, 리코일의 반발력 문제때문에 오직 1000정만 생산되었습니다.</Gun_M1916_Selbstlader_KA.description>
+  <Gun_M1916_Selbstlader_KA.tools.0.label>개머리판</Gun_M1916_Selbstlader_KA.tools.0.label>
+  <Gun_MG_15_KA.label>MG 15 n.A.</Gun_MG_15_KA.label>
+  <Gun_MG_15_KA.description>전장에서의 무기 취급법은 중요합니다만, 맥심 무기들에게는 예외였습니다. 베르그만 MG 15 n.A는 독일군의 소총과 중기관총 사이의 틈을 메우는 중요한 무기였습니다. 베르그만이 도입되기 전까지 독일 제국군이 사용하던 유일한 다른 경기관총은 매드슨 경기관총의 여러 모델이었습니다.</Gun_MG_15_KA.description>
+  <Gun_MG_15_KA.tools.0.label>개머리판</Gun_MG_15_KA.tools.0.label>
+  <Gun_MP_18_KA.label>MP 18</Gun_MP_18_KA.label>
+  <Gun_MP_18_KA.description>MP18은 베르크만사의 후고 슈마이서가 개발해낸 기관단총입니다. 1918년 제1차 세계대전 당시 독일군에 의해 참호전투 전문 공격집단인 슈투름트루펜의 1차 무기로 도입되었습니다. 비록 MP 18 생산이 1920년대에 끝났지만, 이 총의 디자인은 1920년에서 1960년 사이에 제작된 대부분의 서브 머신 건들의 기초를 형성했습니다.</Gun_MP_18_KA.description>
+  <Gun_MP_18_KA.tools.0.label>개머리판</Gun_MP_18_KA.tools.0.label>
+  <Gun_P08_Artillerie_KA.label>P08 포병형</Gun_P08_Artillerie_KA.label>
+  <Gun_P08_Artillerie_KA.description>더 긴 배럴, 향상된 가늠자, 32발들이 드럼형 탄창, 8인치 배럴 및 탈착식 목재 개머리판이 있는 P08.</Gun_P08_Artillerie_KA.description>
+  <Gun_P08_Artillerie_KA.tools.0.label>개머리판</Gun_P08_Artillerie_KA.tools.0.label>
+  <Gun_P08_KA.label>P08</Gun_P08_KA.label>
+  <Gun_P08_KA.description>흔히 그냥 루거로 알려진 피스톨 파라벨럼은 1898년부터 1948년까지 여러 모델과 여러 국가에서 생산된 토글 잠금식 반자동 권총입니다. 이 디자인은 보르하르트 오토매틱 피스톨의 개량형으로 게오르그 루거에 의해 처음 특허를 받았으며, 독일 무기 제조업체 Deutsche Waffen- und Munitionsfabriken Aktien-Gesellschaft에 의해 파라벨럼 자동 피스톨, 보르하르트-루거 시스템으로 제작되었다.</Gun_P08_KA.description>
+  <Gun_P08_KA.tools.0.label>손잡이</Gun_P08_KA.tools.0.label>
+  <Gun_WEX_KA.label>WEX 화염방사기</Gun_WEX_KA.label>
+  <Gun_WEX_KA.description>독일군은 1917년 이전의 클라이프 화염방사기를 대체하기 위해 작은 화염방사기를 도입했습니다. Wechselapparat - 이하 WEX에는 도넛 모양의 배낭 연료통이 있고 가운데에는 구형의 추진제 컨테니어가 있습니다. 이 디자인은 2차 세계 대전 전에 업데이트되어 화염방사기 모델 35가 되었습니다.</Gun_WEX_KA.description>
+  <Gun_WEX_KA.tools.0.label>손잡이</Gun_WEX_KA.tools.0.label>
+  <MeleeWeapon_Feldspaten.label>M1887 Feldspaten (야전삽)</MeleeWeapon_Feldspaten.label>
+  <MeleeWeapon_Feldspaten.description>M1887 야전삽은 대부분의 보병들이 휴대했으며, 야전 작업에 활용했습니다. 참호의 아슬아슬한 틈바구니에서 소총과 고정 총검은 효과적인 사용을 위해 너무 긴 경우가 많았고, 종종 이런 연장들을 근접 전투에 투입하기도 했습니다. 1915년부터, 양측의 병사들은 무기로 사용하기 위해 삽의 가장자리를 일상적으로 갈았습니다.</MeleeWeapon_Feldspaten.description>
+  <MeleeWeapon_Feldspaten.tools.1.label>모서리</MeleeWeapon_Feldspaten.tools.1.label>
+  <MeleeWeapon_Feldspaten.tools.0.label>손잡이</MeleeWeapon_Feldspaten.tools.0.label>
+  <MeleeWeapon_S98_05_KA.label>S98/05 총검</MeleeWeapon_S98_05_KA.label>
+  <MeleeWeapon_S98_05_KA.description>S98 / 05 총검은 독일 총검의 전형적인 총검으로, 종종 “높은 귀”라고 불리는  총구 링의 흔적만 가지고 있었습니다. 총검은 칼날을 소총에 고정하기 위해 칼자루 장착 길이에 의존했습니다.</MeleeWeapon_S98_05_KA.description>
+  <MeleeWeapon_S98_05_KA.tools.1.label>끝</MeleeWeapon_S98_05_KA.tools.1.label>
+  <MeleeWeapon_S98_05_KA.tools.0.label>손잡이</MeleeWeapon_S98_05_KA.tools.0.label>
+  <MeleeWeapon_Sabel.label>M1873 사브르</MeleeWeapon_Sabel.label>
+  <MeleeWeapon_Sabel.description>1873년 도입되었으며, 포병 연대가 사용하였습니다.</MeleeWeapon_Sabel.description>
+  <MeleeWeapon_Sabel.tools.0.label>손잡이</MeleeWeapon_Sabel.tools.0.label>
+  <MeleeWeapon_Sabel.tools.1.label>끝</MeleeWeapon_Sabel.tools.1.label>
+  <Weapon_M1915_KA.label>M1915 슈틸한트그라나테</Weapon_M1915_KA.label>
+  <Weapon_M1915_KA.description>슈틸한트그라나테는 독특한 디자인의 독일 수류탄이었습니다. 이 독특한 디자인은 제 1 차 세계 대전 중 독일 제국의 일반적인 문제였으며, 제 2 차 세계 대전 동안 나치 독일군의 광범위한 문제가 되었습니다. 매우 독특한 외관으로 인해 영국 육군은 "스틱 수류탄" 또는 "포테이토 매셔"라고 불렸습니다.</Weapon_M1915_KA.description>
+  <Weapon_M1915_KA.verbs.0.label>파편 수류탄 투척</Weapon_M1915_KA.verbs.0.label>
+  <Artillery_FK_96_KA.label>7,7cm FK 96 n.A. 곡사포</Artillery_FK_96_KA.label>
+  <Artillery_FK_96_KA.description>이 곡사포는 이전의 7.7cm FK 96의 포신을 새로운 반동 시스템, 약실, 운반용 바퀴와 결합시킨 것입니다. 기존의 FK 96s을 오랜 시간에 걸쳐 업그레이드 시켰습니다.</Artillery_FK_96_KA.description>
+  <Artillery_leFH_16_KA.label>10,5cm leFH 16 야포</Artillery_leFH_16_KA.label>
+  <Artillery_leFH_16_KA.description>10,5 cm 16호 경곡사포는 10, 5 cm 경곡사포 98/09의 후속 모델로, 1916년에 도입되었습니다. 보다 긴 배럴과 그에 따른 더 긴 범위가 특징입니다.</Artillery_leFH_16_KA.description>
+  <Bullet_763mm_KA.label>권총 탄환</Bullet_763mm_KA.label>
+  <Bullet_792mm_KA.label>소총 탄환</Bullet_792mm_KA.label>
+  <Bullet_792mm_MG_KA.label>소총 탄환</Bullet_792mm_MG_KA.label>
+  <Bullet_900mm_KA.label>권총 탄환</Bullet_900mm_KA.label>
+  <Bullet_FK_96_AP_KA.label>철갑탄</Bullet_FK_96_AP_KA.label>
+  <Bullet_FK_96_HE_KA.label>고폭탄</Bullet_FK_96_HE_KA.label>
+  <Bullet_Flame_KA.label>화염</Bullet_Flame_KA.label>
+  <Bullet_leFH_16_HE_KA.label>포탄</Bullet_leFH_16_HE_KA.label>
+  <Gun_MG_08_KA.label>맥심 MG 08</Gun_MG_08_KA.label>
+  <Gun_MG_08_KA.description>하이람 S. 맥심의 1884년에 만들어진 맥심 기관총의 파생형으로, 세계 1차 대전 당시의 독일군의 기본 기관총입니다. 전쟁중 여러 파생형이 만들어졌습니다.</Gun_MG_08_KA.description>
+  <Proj_M1915_KA.label>M1915 수류탄</Proj_M1915_KA.label>
+  <Shell_105cm_HE_KA.label>10.5cm 고폭탄</Shell_105cm_HE_KA.label>
+  <Shell_105cm_HE_KA.description>가연성 물질로 가득 찬 포탄입니다. 손상되면 폭발합니다.</Shell_105cm_HE_KA.description>
+  <Shell_77cm_AP_KA.label>7,7cm 철갑탄</Shell_77cm_AP_KA.label>
+  <Shell_77cm_AP_KA.description>폭발성 충전제가 없는 포탄입니다. 훨씬 더 많은 장갑을 뚫고 들어갈 수 있지만, 맞은 후에 폭발하지는 않습니다.</Shell_77cm_AP_KA.description>
+  <Shell_77cm_HE_KA.label>7,7cm 고폭탄</Shell_77cm_HE_KA.label>
+  <Shell_77cm_HE_KA.description>가연성 물질로 가득 찬 포탄입니다. 손상되면 폭발합니다.</Shell_77cm_HE_KA.description>
+  <TableKA.label>카이저 기계 테이블</TableKA.label>
+  <TableKA.description>카이저 병기고 모드의 무기 및 기타 물건을 조립하는 기계 테이블입니다.</TableKA.description>
+  <Turret_FK_96_KA.label>7,7cm FK 96 n.A.</Turret_FK_96_KA.label>
+  <Turret_FK_96_KA.description>이 곡사포는 이전의 7.7cm FK 96의 포신을 새로운 반동 시스템, 약실, 운반용 바퀴와 결합시킨 것입니다. 기존의 FK 96s을 오랜 시간에 걸쳐 업그레이드 시켰습니다.</Turret_FK_96_KA.description>
+  <Turret_leFH_16_KA.label>10,5cm leFH 16</Turret_leFH_16_KA.label>
+  <Turret_leFH_16_KA.description>10,5 cm 16호 경곡사포는 10, 5 cm 경곡사포 98/09의 후속 모델로, 1916년에 도입되었습니다. 보다 긴 배럴과 그에 따른 더 긴 사거리가 특징입니다.</Turret_leFH_16_KA.description>
+  <Turret_MG_08_KA.label>MG 08</Turret_MG_08_KA.label>
+  <Turret_MG_08_KA.description>하이람 S. 맥심의 1884년에 만들어진 맥심 기관총의 파생형으로, 세계 1차 대전 당시의 독일군의 기본 기관총입니다. 전쟁중 여러 파생형이 만들어졌습니다.</Turret_MG_08_KA.description>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_SingleBedding.label>침구 세트 만들기</Make_SingleBedding.label>
+  <Make_SingleBedding.description>침구 세트를 만듭니다.</Make_SingleBedding.description>
+  <Make_SingleBedding.jobString>침구 세트 만드는 중.</Make_SingleBedding.jobString>
+  <Make_DoubleBedding.label>큰 침구 세트 만들기</Make_DoubleBedding.label>
+  <Make_DoubleBedding.description>큰 침구 세트를 만듭니다.</Make_DoubleBedding.description>
+  <Make_DoubleBedding.jobString>큰 침구 세트를 만드는 중.</Make_DoubleBedding.jobString>
+
+</LanguageData>

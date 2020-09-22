@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableSA.label>소비에트 병기 테이블</TableSA.label>
+  <TableSA.description>소련과 러시아 연방의 영광스러운 무기를 조립하기 위한 작업소(자신을 속이지 마라, 기본적으로 같은 것이지만 이름은 다르다)</TableSA.description>
+  <TableSA_Blueprint.label>소비에트 병기 테이블 (청사진)</TableSA_Blueprint.label>
+  <TableSA_Blueprint_Install.label>소비에트 병기 테이블 (청사진)</TableSA_Blueprint_Install.label>
+  <TableSA_Frame.label>소비에트 병기 테이블 (건설 중)</TableSA_Frame.label>
+  <TableSA_Frame.description>소련과 러시아 연방의 영광스러운 무기를 조립하기 위한 작업소(자신을 속이지 마라, 기본적으로 같은 것이지만 이름은 다르다)</TableSA_Frame.description>
+  <Turret_AGS.label>AGS-17 Plamya 포탑</Turret_AGS.label>
+  <Turret_AGS.description>삼각대가 장착된 30MM 자동 유탄 발사기입니다.</Turret_AGS.description>
+  <Turret_AGS_Blueprint.label>AGS-17 Plamya 포탑 (청사진)</Turret_AGS_Blueprint.label>
+  <Turret_AGS_Blueprint_Install.label>AGS-17 Plamya 포탑 (청사진)</Turret_AGS_Blueprint_Install.label>
+  <Turret_AGS_Frame.label>AGS-17 Plamya 포탑 (건설 중)</Turret_AGS_Frame.label>
+  <Turret_AGS_Frame.description>삼각대가 장착된 30MM 자동 유탄 발사기입니다.</Turret_AGS_Frame.description>
+  <Bullet_300mm.label>유탄 발사기 탄환</Bullet_300mm.label>
+  <Gun_AGS.label>거치된 AGS 17 Plamya</Gun_AGS.label>
+  <Gun_AGS.description>삼각대가 장착된 30MM 자동 유탄 발사기입니다.</Gun_AGS.description>
+  <Turret_NSV.label>거치된 NSV Utyos</Turret_NSV.label>
+  <Turret_NSV.description>삼각대가 장착된 12,7mm 중기관총입니다.</Turret_NSV.description>
+  <Turret_NSV_Blueprint.label>거치된 NSV Utyos (청사진)</Turret_NSV_Blueprint.label>
+  <Turret_NSV_Blueprint_Install.label>거치된 NSV Utyos (청사진)</Turret_NSV_Blueprint_Install.label>
+  <Turret_NSV_Frame.label>거치된 NSV Utyos (건설 중)</Turret_NSV_Frame.label>
+  <Turret_NSV_Frame.description>삼각대가 장착된 12,7mm 중기관총입니다.</Turret_NSV_Frame.description>
+  <Bullet_1270mm.label>중기관총 탄환</Bullet_1270mm.label>
+  <Gun_NSV.label>거치된 NSV</Gun_NSV.label>
+  <Gun_NSV.description>삼각대가 장착된 12,7mm 중기관총입니다.</Gun_NSV.description>
+  <Bullet_762mm.label>소총 탄환</Bullet_762mm.label>
+  <Bullet_545mm.label>경기관총 탄환</Bullet_545mm.label>
+  <Bullet_900mm.label>권총 탄환</Bullet_900mm.label>
+  <Bullet_762mmR.label>저격소총 탄환</Bullet_762mmR.label>
+  <Bullet_12G.label>샷건 탄환</Bullet_12G.label>
+  <Bullet_PG-7M.label>로켓</Bullet_PG-7M.label>
+  <Bullet_RPO-Z.label>소이탄</Bullet_RPO-Z.label>
+  <Bullet_900mm_wtm.label>권총 탄환</Bullet_900mm_wtm.label>
+  <Bullet_50mm.label>수류탄</Bullet_50mm.label>
+  <Gun_AKM_SA.label>AKM 돌격소총</Gun_AKM_SA.label>
+  <Gun_AKM_SA.description>값싸고 믿을만한 AK의 약간 현대화된 버전입니다.</Gun_AKM_SA.description>
+  <Gun_AKM_SA.tools.0.label>개머리판</Gun_AKM_SA.tools.0.label>
+  <Gun_AKMS_SA.label>AKMS 돌격소총</Gun_AKMS_SA.label>
+  <Gun_AKMS_SA.description>AKM에 접철식 개머리판을 붙였습니다.</Gun_AKMS_SA.description>
+  <Gun_AKMS_SA.tools.0.label>개머리판</Gun_AKMS_SA.tools.0.label>
+  <Gun_AKS-74U_SA.label>AKS-74U 단축형 돌격소총</Gun_AKS-74U_SA.label>
+  <Gun_AKS-74U_SA.description>소형 무기가 필요한 운전사, 전차병 등을 위해 설계된 AK-74의 단축 버전.</Gun_AKS-74U_SA.description>
+  <Gun_AKS-74U_SA.tools.0.label>개머리판</Gun_AKS-74U_SA.tools.0.label>
+  <Gun_RPK_SA.label>RPK 경기관총</Gun_RPK_SA.label>
+  <Gun_RPK_SA.description>AKM에 더 큰 탄통과 더 긴 총열, 받침대를 붙였습니다. 경기관총처럼 사용합니다.</Gun_RPK_SA.description>
+  <Gun_RPK_SA.tools.0.label>개머리판</Gun_RPK_SA.tools.0.label>
+  <Gun_SKS_SA.label>SKS 소총</Gun_SKS_SA.label>
+  <Gun_SKS_SA.description>반자동 소총. 정확한 사격이 가능해서 장거리 사격에 사용할 수 있습니다.</Gun_SKS_SA.description>
+  <Gun_SKS_SA.tools.0.label>개머리판</Gun_SKS_SA.tools.0.label>
+  <Gun_Makarov_SA.label>마카로프 권총</Gun_Makarov_SA.label>
+  <Gun_Makarov_SA.description>마카로프 권총은 경찰이 가장 좋아하는 무기였지만, 당신이 원한다면 사용 가능합니다.</Gun_Makarov_SA.description>
+  <Gun_Makarov_SA.tools.0.label>손잡이</Gun_Makarov_SA.tools.0.label>
+  <Gun_AK-74M_SA.label>AK-74M 돌격소총</Gun_AK-74M_SA.label>
+  <Gun_AK-74M_SA.description>폴리머 개머리판을 장착한 AK-74의 현대화 버전입니다.</Gun_AK-74M_SA.description>
+  <Gun_AK-74M_SA.tools.0.label>개머리판</Gun_AK-74M_SA.tools.0.label>
+  <Gun_SVD_SA.label>SVD 드라구노프 저격소총</Gun_SVD_SA.label>
+  <Gun_SVD_SA.description>스코프가 달린 반자동 저격소총입니다. 사용자에 따라 치명적인 무기가 됩니다.</Gun_SVD_SA.description>
+  <Gun_SVD_SA.tools.0.label>개머리판</Gun_SVD_SA.tools.0.label>
+  <Gun_Saiga12K_SA.label>사이가12K 산탄총</Gun_Saiga12K_SA.label>
+  <Gun_Saiga12K_SA.description>12-게이지 탄을 사용하는 전투산탄총입니다. 박스 탄창이 장착되어 있습니다.</Gun_Saiga12K_SA.description>
+  <Gun_Saiga12K_SA.tools.0.label>개머리판</Gun_Saiga12K_SA.tools.0.label>
+  <Gun_RPG_SA.label>RPG-7V2 대전차로켓</Gun_RPG_SA.label>
+  <Gun_RPG_SA.description>RPG-7의 견고성, 단순성, 낮은 비용, 그리고 효과성은 그것을 세계에서 가장 널리 사용되는 대장갑 무기로 만들었습니다.</Gun_RPG_SA.description>
+  <Gun_RPG_SA.tools.0.label>개머리판</Gun_RPG_SA.tools.0.label>
+  <Gun_AK-74_SA.label>AK-74 돌격소총</Gun_AK-74_SA.label>
+  <Gun_AK-74_SA.description>5,45mm 탄을 사용하는 새로운 AK 시리즈입니다.</Gun_AK-74_SA.description>
+  <Gun_AK-74_SA.tools.0.label>개머리판</Gun_AK-74_SA.tools.0.label>
+  <Gun_RPO-Z_SA.label>RPO-Z 시멜 무반동총</Gun_RPO-Z_SA.label>
+  <Gun_RPO-Z_SA.description>단독 사용, 사람이 운반 가능한 로켓 런처입니다. 소이탄을 사용합니다. 식민지인들은 명령 없이는 사격하지 않습니다.</Gun_RPO-Z_SA.description>
+  <Gun_MR-444_SA.label>MR-444 권총</Gun_MR-444_SA.label>
+  <Gun_MR-444_SA.description>MR-444 바기라는 구형 마카로프를 대체하기 위한 새로운 권총 모델입니다.</Gun_MR-444_SA.description>
+  <Gun_MR-444_SA.tools.0.label>손잡이</Gun_MR-444_SA.tools.0.label>
+  <Gun_PP-19_SA.label>PP-19 기관단총</Gun_PP-19_SA.label>
+  <Gun_PP-19_SA.description>근거리에서의 강력한 화력 덕에 대테러 부대와 많은 특수부대에서 주로 사용합니다.</Gun_PP-19_SA.description>
+  <Gun_PP-19_SA.tools.0.label>개머리판</Gun_PP-19_SA.tools.0.label>
+  <Gun_VSS_SA.label>VSS 빈토레즈 저격소총</Gun_VSS_SA.label>
+  <Gun_VSS_SA.description>이 위력적인 저격소총은 주로 첩보나 비밀 작전을 위해 스페츠나츠 부대에서 사용했습니다.</Gun_VSS_SA.description>
+  <Gun_VSS_SA.tools.0.label>개머리판</Gun_VSS_SA.tools.0.label>
+  <Gun_RGS-50_SA.label>RGS-50 유탄발사기</Gun_RGS-50_SA.label>
+  <Gun_RGS-50_SA.description>단발, 비강선식 50mm 유탄 발사기입니다.</Gun_RGS-50_SA.description>
+  <Gun_RGS-50_SA.tools.0.label>개머리판</Gun_RGS-50_SA.tools.0.label>
+  <Gun_PKM_SA.label>PKM 기관총</Gun_PKM_SA.label>
+  <Gun_PKM_SA.description>PKM은 PK 기관총의 현대화 개량형입니다. 개량은 주로 무게를 줄이고 쉬운 생산성과 더 쉬운 운용을 목표로 진행되었습니다.</Gun_PKM_SA.description>
+  <Gun_PKM_SA.tools.0.label>개머리판</Gun_PKM_SA.tools.0.label>
+
+</LanguageData>

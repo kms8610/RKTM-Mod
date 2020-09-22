@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThrumboWool.label>트럼보 털실</ThrumboWool.label>
+  <ThrumboWool.description>희귀하고 아름다우며, 매우 뛰어난 단열을 제공합니다. 이러한 트럼보 털실로 제작된 옷들은 사치의 대명사입니다.</ThrumboWool.description>
+  <ThrumboWool.stuffProps.stuffAdjective>트럼보 털실</ThrumboWool.stuffProps.stuffAdjective>
+  <ThrumboMilk.label>트럼보 우유</ThrumboMilk.label>
+  <ThrumboMilk.description>이 희귀하고 장수하는 동물의 우유는 부드럽고 매료시키며, 위장 속에 특수한 성분을 함유하고 있어 신체의 면역력을 향상합니다. 덕분에 세계적인 귀족들만이 누릴 수 있는 호사스러운 음료입니다.</ThrumboMilk.description>
+
+</LanguageData>

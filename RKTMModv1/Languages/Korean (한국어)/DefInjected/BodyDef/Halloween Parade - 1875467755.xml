@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Pumpkin.label>호박</Pumpkin.label>
+  <Pumpkin.corePart.parts.2.customLabel>왼쪽 폐</Pumpkin.corePart.parts.2.customLabel>
+  <Pumpkin.corePart.parts.3.customLabel>오른쪽 폐</Pumpkin.corePart.parts.3.customLabel>
+  <Pumpkin.corePart.parts.4.customLabel>왼쪽 신장</Pumpkin.corePart.parts.4.customLabel>
+  <Pumpkin.corePart.parts.5.customLabel>오른쪽 신장</Pumpkin.corePart.parts.5.customLabel>
+  <Pumpkin.corePart.parts.7.customLabel>핵심</Pumpkin.corePart.parts.7.customLabel>
+  <Pumpkin.corePart.parts.7.parts.0.parts.0.customLabel>껍질</Pumpkin.corePart.parts.7.parts.0.parts.0.customLabel>
+  <Pumpkin.corePart.parts.7.parts.0.parts.1.customLabel>왼쪽 눈</Pumpkin.corePart.parts.7.parts.0.parts.1.customLabel>
+  <Pumpkin.corePart.parts.7.parts.0.parts.2.customLabel>오른쪽 눈</Pumpkin.corePart.parts.7.parts.0.parts.2.customLabel>
+  <Pumpkin.corePart.parts.8.customLabel>왼쪽 다리</Pumpkin.corePart.parts.8.customLabel>
+  <Pumpkin.corePart.parts.8.parts.0.customLabel>왼쪽 발</Pumpkin.corePart.parts.8.parts.0.customLabel>
+  <Pumpkin.corePart.parts.9.customLabel>오른다리</Pumpkin.corePart.parts.9.customLabel>
+  <Pumpkin.corePart.parts.9.parts.0.customLabel>오른발</Pumpkin.corePart.parts.9.parts.0.customLabel>
+  <Pumpkin.corePart.customLabel>몸</Pumpkin.corePart.customLabel>
+
+</LanguageData>

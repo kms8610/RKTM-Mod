@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chitchat.label>잡담</Chitchat.label>
+  <Chitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](와)과 사교적인 인사를 나눔.</Chitchat.logRulesInitiator.rulesStrings.1>
+  <Chitchat.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](을)를 지나치며 인사를 함.</Chitchat.logRulesInitiator.rulesStrings.2>
+  <Chitchat.logRulesInitiator.rulesStrings.3>r_logentry(p=0.2)->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 손을 흔듦.</Chitchat.logRulesInitiator.rulesStrings.3>
+
+</LanguageData>

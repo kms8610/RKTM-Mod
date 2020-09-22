@@ -1,0 +1,1583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1115882219_190816_Rim of Madness - Werewolves-->
+  <ROM_HispoClaw.comps.0.tools.0.label>발톱</ROM_HispoClaw.comps.0.tools.0.label>
+  <ROM_GlabroClaw.comps.0.tools.0.label>발톱</ROM_GlabroClaw.comps.0.tools.0.label>
+  <ROM_CrinosClaw.comps.0.tools.0.label>발톱</ROM_CrinosClaw.comps.0.tools.0.label>
+  <ROM_LupusClaw.comps.0.tools.0.label>발톱</ROM_LupusClaw.comps.0.tools.0.label>
+  <ROM_MetisClaw.comps.0.tools.0.label>발톱</ROM_MetisClaw.comps.0.tools.0.label>
+  <ROM_GlabroJaw.comps.0.tools.0.label>이빨</ROM_GlabroJaw.comps.0.tools.0.label>
+  <ROM_CrinosJaw.comps.0.tools.0.label>이빨</ROM_CrinosJaw.comps.0.tools.0.label>
+  <ROM_HispoJaw.comps.0.tools.0.label>이빨</ROM_HispoJaw.comps.0.tools.0.label>
+  <ROM_LupusJaw.comps.0.tools.0.label>이빨</ROM_LupusJaw.comps.0.tools.0.label>
+  <ROM_MetisJaw.comps.0.tools.0.label>이빨</ROM_MetisJaw.comps.0.tools.0.label>
+  <ROM_CrinosClaw.label>늑대인간 발톱 (야수형)</ROM_CrinosClaw.label>
+  <ROM_GlabroClaw.label>늑대인간 발톱 (인간형)</ROM_GlabroClaw.label>
+  <ROM_HispoClaw.label>늑대인간 발톱 (인랑형)</ROM_HispoClaw.label>
+  <ROM_LupusClaw.label>늑대 발톱 (늑대형)</ROM_LupusClaw.label>
+  <ROM_MetisClaw.label>늑대인간 발톱 (잡종)</ROM_MetisClaw.label>
+  <ROM_CrinosHediff.label>늑대인간 변신 (야수형)</ROM_CrinosHediff.label>
+  <ROM_GlabroHediff.label>늑대인간 변신 (인간형)</ROM_GlabroHediff.label>
+  <ROM_HispoHediff.label>늑대인간 변신 (인랑형)</ROM_HispoHediff.label>
+  <ROM_LupusHediff.label>늑대 변신 (늑대형)</ROM_LupusHediff.label>
+  <ROM_MetisHediff.label>늑대인간 변신 (잡종)</ROM_MetisHediff.label>
+  <ROM_CrinosJaw.label>늑대인간 이빨 (야수형)</ROM_CrinosJaw.label>
+  <ROM_GlabroJaw.label>늑대인간 이빨 (인간형)</ROM_GlabroJaw.label>
+  <ROM_HispoJaw.label>늑대인간 이빨 (인랑형)</ROM_HispoJaw.label>
+  <ROM_LupusJaw.label>늑대 이빨 (늑대형)</ROM_LupusJaw.label>
+  <ROM_MetisJaw.label>늑대인간 이빨 (잡종)</ROM_MetisJaw.label>
+
+  <!--1140051385_181113_Smokeleaf_Industry-->
+  <CrudeJointHigh.labelNoun>연초 도취</CrudeJointHigh.labelNoun>
+  <AdvancedEdiblesAddiction.label>고급 연초 식품 의존증</AdvancedEdiblesAddiction.label>
+  <AdvancedEdiblesTolerance.label>고급 연초 식품 내성</AdvancedEdiblesTolerance.label>
+  <CHOHigh.label>화학연료 해쉬 기름에 취함</CHOHigh.label>
+  <CHOAddiction.label>CHO 의존증</CHOAddiction.label>
+  <CHOTolerance.label>CHO 내성</CHOTolerance.label>
+  <CrudeJointAddiction.label>간이 연초 의존증</CrudeJointAddiction.label>
+  <CrudeJointTolerance.label>간이 연초 의존증</CrudeJointTolerance.label>
+  <EdibleSickness.label>연초 식품 배탈</EdibleSickness.label>
+  <EdiblesAddiction.label>연초 식품 의존증</EdiblesAddiction.label>
+  <EdiblesTolerance.label>연초 식품 내성</EdiblesTolerance.label>
+  <HashAddiction.label>해쉬 의존증</HashAddiction.label>
+  <HashTolerance.label>해쉬 내성</HashTolerance.label>
+  <InfusedBuzz.label>첨가 음식으로 신남</InfusedBuzz.label>
+  <CannagarTolerance.stages.2.label>큼</CannagarTolerance.stages.2.label>
+  <CHOTolerance.stages.2.label>큼</CHOTolerance.stages.2.label>
+  <CrudeJointTolerance.stages.2.label>큼</CrudeJointTolerance.stages.2.label>
+  <SmokeleafDistillateTolerance.stages.2.label>큼</SmokeleafDistillateTolerance.stages.2.label>
+  <HashTolerance.stages.2.label>큼</HashTolerance.stages.2.label>
+  <EdiblesTolerance.stages.2.label>큼</EdiblesTolerance.stages.2.label>
+  <AdvancedEdiblesTolerance.stages.2.label>큼</AdvancedEdiblesTolerance.stages.2.label>
+  <SmokeleafDistillateHigh.label>증류액에 취함</SmokeleafDistillateHigh.label>
+  <CannagarTolerance.stages.3.label>심각함</CannagarTolerance.stages.3.label>
+  <CHOTolerance.stages.3.label>심각함</CHOTolerance.stages.3.label>
+  <CrudeJointTolerance.stages.3.label>심각함</CrudeJointTolerance.stages.3.label>
+  <SmokeleafDistillateTolerance.stages.3.label>심각함</SmokeleafDistillateTolerance.stages.3.label>
+  <HashTolerance.stages.3.label>심각함</HashTolerance.stages.3.label>
+  <EdiblesTolerance.stages.3.label>심각함</EdiblesTolerance.stages.3.label>
+  <AdvancedEdiblesTolerance.stages.3.label>심각함</AdvancedEdiblesTolerance.stages.3.label>
+  <AdvancedEdiblesHigh.label>연초 식품에 뿅감</AdvancedEdiblesHigh.label>
+  <HashHigh.label>해쉬에 취함</HashHigh.label>
+  <CannagarTolerance.stages.0.label>약함</CannagarTolerance.stages.0.label>
+  <CannagarTolerance.stages.1.label>약함</CannagarTolerance.stages.1.label>
+  <CHOTolerance.stages.1.label>약함</CHOTolerance.stages.1.label>
+  <CrudeJointTolerance.stages.0.label>약함</CrudeJointTolerance.stages.0.label>
+  <CrudeJointTolerance.stages.1.label>약함</CrudeJointTolerance.stages.1.label>
+  <SmokeleafDistillateTolerance.stages.1.label>약함</SmokeleafDistillateTolerance.stages.1.label>
+  <HashTolerance.stages.1.label>약함</HashTolerance.stages.1.label>
+  <EdiblesTolerance.stages.1.label>약함</EdiblesTolerance.stages.1.label>
+  <AdvancedEdiblesTolerance.stages.1.label>약함</AdvancedEdiblesTolerance.stages.1.label>
+  <CannagarAddiction.label>연초잎 시가 의존증</CannagarAddiction.label>
+  <CannagarTolerance.label>연초잎 시가 내성</CannagarTolerance.label>
+  <SmokeleafDistillateAddiction.label>연초잎 증류액 의존증</SmokeleafDistillateAddiction.label>
+  <SmokeleafDistillateTolerance.label>연초잎 증류액 내성</SmokeleafDistillateTolerance.label>
+  <SmokeleafLotionHigh.label>연초잎 로션</SmokeleafLotionHigh.label>
+  <SmokeleafPillsHigh.label>연초잎 알약 마취</SmokeleafPillsHigh.label>
+  <SmokeleafTinctureHigh.label>연초잎 팅크제</SmokeleafTinctureHigh.label>
+  <CannagarHigh.label>연초잎 시가에 취함</CannagarHigh.label>
+  <CrudeJointHigh.label>간이 연초에 취함</CrudeJointHigh.label>
+  <EdiblesHigh.label>연초 식품에 취함</EdiblesHigh.label>
+  <CannagarHigh.labelNoun>취함</CannagarHigh.labelNoun>
+  <CannagarAddiction.stages.1.label>금단현상</CannagarAddiction.stages.1.label>
+  <CHOAddiction.stages.1.label>금단현상</CHOAddiction.stages.1.label>
+  <CrudeJointAddiction.stages.1.label>금단현상</CrudeJointAddiction.stages.1.label>
+  <SmokeleafDistillateAddiction.stages.1.label>금단현상</SmokeleafDistillateAddiction.stages.1.label>
+  <HashAddiction.stages.1.label>금단현상</HashAddiction.stages.1.label>
+  <EdiblesAddiction.stages.1.label>금단현상</EdiblesAddiction.stages.1.label>
+  <AdvancedEdiblesAddiction.stages.1.label>금단현상</AdvancedEdiblesAddiction.stages.1.label>
+
+  <!--1187010034_181028_Rim of Madness - Vampires-->
+  <ROM_VampirismRandom.stages.1.label>10-13세대 (보통)</ROM_VampirismRandom.stages.1.label>
+  <ROM_VampirismTzimisce.stages.1.label>10-13세대 (보통)</ROM_VampirismTzimisce.stages.1.label>
+  <ROM_VampirismLasombra.stages.1.label>10-13세대 (보통)</ROM_VampirismLasombra.stages.1.label>
+  <ROM_VampirismTremere.stages.1.label>10-13세대 (보통)</ROM_VampirismTremere.stages.1.label>
+  <ROM_VampirismPijavica.stages.1.label>10-13세대 (보통)</ROM_VampirismPijavica.stages.1.label>
+  <ROM_VampirismGargoyle.stages.1.label>10-13세대 (보통)</ROM_VampirismGargoyle.stages.1.label>
+  <ROM_VampirismVentrue.stages.1.label>10-13세대 (보통)</ROM_VampirismVentrue.stages.1.label>
+  <ROM_VampirismGangrel.stages.1.label>10-13세대 (보통)</ROM_VampirismGangrel.stages.1.label>
+  <ROM_VampirismNosferatu.stages.1.label>10-13세대 (보통)</ROM_VampirismNosferatu.stages.1.label>
+  <ROM_VampirismRandom.stages.3.label>5-6세대 (매우 강함)</ROM_VampirismRandom.stages.3.label>
+  <ROM_VampirismTzimisce.stages.3.label>5-6세대 (매우 강함)</ROM_VampirismTzimisce.stages.3.label>
+  <ROM_VampirismLasombra.stages.3.label>5-6세대 (매우 강함)</ROM_VampirismLasombra.stages.3.label>
+  <ROM_VampirismTremere.stages.3.label>5-6세대 (매우 강함)</ROM_VampirismTremere.stages.3.label>
+  <ROM_VampirismPijavica.stages.3.label>5-6세대 (매우 강함)</ROM_VampirismPijavica.stages.3.label>
+  <ROM_VampirismGargoyle.stages.3.label>5-6세대 (매우 강함)</ROM_VampirismGargoyle.stages.3.label>
+  <ROM_VampirismVentrue.stages.3.label>5-6세대 (매우 강함)</ROM_VampirismVentrue.stages.3.label>
+  <ROM_VampirismGangrel.stages.3.label>5-6세대 (매우 강함)</ROM_VampirismGangrel.stages.3.label>
+  <ROM_VampirismNosferatu.stages.3.label>5-6세대 (매우 강함)</ROM_VampirismNosferatu.stages.3.label>
+  <ROM_VampirismRandom.stages.2.label>7-9세대 (강함)</ROM_VampirismRandom.stages.2.label>
+  <ROM_VampirismTzimisce.stages.2.label>7-9세대 (강함)</ROM_VampirismTzimisce.stages.2.label>
+  <ROM_VampirismLasombra.stages.2.label>7-9세대 (강함)</ROM_VampirismLasombra.stages.2.label>
+  <ROM_VampirismTremere.stages.2.label>7-9세대 (강함)</ROM_VampirismTremere.stages.2.label>
+  <ROM_VampirismPijavica.stages.2.label>7-9세대 (강함)</ROM_VampirismPijavica.stages.2.label>
+  <ROM_VampirismGargoyle.stages.2.label>7-9세대 (강함)</ROM_VampirismGargoyle.stages.2.label>
+  <ROM_VampirismVentrue.stages.2.label>7-9세대 (강함)</ROM_VampirismVentrue.stages.2.label>
+  <ROM_VampirismGangrel.stages.2.label>7-9세대 (강함)</ROM_VampirismGangrel.stages.2.label>
+  <ROM_VampirismNosferatu.stages.2.label>7-9세대 (강함)</ROM_VampirismNosferatu.stages.2.label>
+  <ROMV_VitaeHigh.labelNoun>생명력 희열</ROMV_VitaeHigh.labelNoun>
+  <ROM_Generations_Ancillae.label>중진</ROM_Generations_Ancillae.label>
+  <ROM_Generations_Antediluvian.label>선조</ROM_Generations_Antediluvian.label>
+  <ROMV_BatFormHediff.label>박쥐 형태 (변신)</ROMV_BatFormHediff.label>
+  <ROMV_BlackMetamorphosisHediff.label>검은 변신</ROMV_BlackMetamorphosisHediff.label>
+  <ROMV_BloodShieldHediff.label>피의 방패 (마술)</ROMV_BloodShieldHediff.label>
+  <ROMV_Presence_BloodLustHediff.label>유혈 충동</ROMV_Presence_BloodLustHediff.label>
+  <ROM_GhoulHediff.stages.1.label>구속됨</ROM_GhoulHediff.stages.1.label>
+  <ROM_GhoulHediff.stages.3.label>고대 흡혈귀에게 구속됨</ROM_GhoulHediff.stages.3.label>
+  <ROM_GhoulHediff.stages.2.label>원숙한 흡혈귀에게 구속됨</ROM_GhoulHediff.stages.2.label>
+  <ROM_GhoulHediff.stages.4.label>강력한 흡혈귀에게 구속됨</ROM_GhoulHediff.stages.4.label>
+  <ROMV_PresenceICooldownHediff.label>매료됨 (존재감 I)</ROMV_PresenceICooldownHediff.label>
+  <ROMV_PresenceIICooldownHediff.label>매료됨 (존재감 II)</ROMV_PresenceIICooldownHediff.label>
+  <ROMV_PresenceIIICooldownHediff.label>매료됨 (존재감 III)</ROMV_PresenceIIICooldownHediff.label>
+  <ROMV_PresenceIVCooldownHediff.label>매료됨 (존재감 IV)</ROMV_PresenceIVCooldownHediff.label>
+  <ROM_Generations_TheThree.label>카인의 후예</ROM_Generations_TheThree.label>
+  <ROMV_CoolantLoss.label>냉각수 소실</ROMV_CoolantLoss.label>
+  <ROMV_CoolantLoss.labelNoun>냉각수 소실</ROMV_CoolantLoss.labelNoun>
+  <ROMV_TheBeast.stages.0.label>갈망</ROMV_TheBeast.stages.0.label>
+  <ROMV_CrocodileTongueHediff.label>악어의 혀 (점수)</ROMV_CrocodileTongueHediff.label>
+  <ROMV_DrainHediff.label>흡수됨</ROMV_DrainHediff.label>
+  <ROM_Generations_Elder.label>장로</ROM_Generations_Elder.label>
+  <ROMV_CoolantLoss.stages.2.label>극심</ROMV_CoolantLoss.stages.2.label>
+  <ROMV_SunExposure.stages.3.label>극심함</ROMV_SunExposure.stages.3.label>
+  <ROMV_Fangs.label>송곳니</ROMV_Fangs.label>
+  <ROMV_Fangs.comps.0.tools.0.label>송곳니</ROMV_Fangs.comps.0.tools.0.label>
+  <ROMV_FeralClaw.comps.0.tools.0.label>짐승의 발톱</ROMV_FeralClaw.comps.0.tools.0.label>
+  <ROMV_FeralClaw.label>짐승의 발톱 (변신)</ROMV_FeralClaw.label>
+  <ROM_Generations_Caine.label>최초의 흡혈귀, 최초의 살인자</ROM_Generations_Caine.label>
+  <ROMV_FortitudeIHediff.label>불굴 I (피해 흡수)</ROMV_FortitudeIHediff.label>
+  <ROMV_FortitudeIIHediff.label>불굴 II (피해 흡수)</ROMV_FortitudeIIHediff.label>
+  <ROMV_FortitudeIIIHediff.label>불굴 III (피해 흡수)</ROMV_FortitudeIIIHediff.label>
+  <ROMV_FortitudeIVHediff.label>불굴 IV (피해 흡수)</ROMV_FortitudeIVHediff.label>
+  <ROM_GhoulHediff.label>구울</ROM_GhoulHediff.label>
+  <ROMV_HeightenedSensesHediff.label>고양된 감각 (점술)</ROMV_HeightenedSensesHediff.label>
+  <ROMV_HiddenForceHediff.label>숨겨진 힘 (혼란)</ROMV_HiddenForceHediff.label>
+  <ROMV_HideHediff.label>숨음 (혼란)</ROMV_HideHediff.label>
+  <ROMV_TheBeast.stages.1.label>배고픔</ROMV_TheBeast.stages.1.label>
+  <ROMV_SunExposure.stages.0.label>초기</ROMV_SunExposure.stages.0.label>
+  <ROMV_InvisibilityHediff.label>투명화 (혼란)</ROMV_InvisibilityHediff.label>
+  <ROMV_VitaeTolerance.stages.2.label>큼</ROMV_VitaeTolerance.stages.2.label>
+  <ROMV_LightWeightHediff.label>가벼움 (비행)</ROMV_LightWeightHediff.label>
+  <ROMV_CorruptFormHediff_Sight.label>해진 피부</ROMV_CorruptFormHediff_Sight.label>
+  <ROMV_CorruptFormHediff_Sight.injuryProps.destroyedLabel>부패되어 잃음</ROMV_CorruptFormHediff_Sight.injuryProps.destroyedLabel>
+  <ROMV_CorruptFormHediff_Legs.injuryProps.destroyedLabel>부패되어 잃음</ROMV_CorruptFormHediff_Legs.injuryProps.destroyedLabel>
+  <ROMV_CorruptFormHediff_Arms.injuryProps.destroyedLabel>부패되어 잃음</ROMV_CorruptFormHediff_Arms.injuryProps.destroyedLabel>
+  <ROMV_CoolantLoss.stages.1.label>중대</ROMV_CoolantLoss.stages.1.label>
+  <ROMV_VitaeTolerance.stages.3.label>심각함</ROMV_VitaeTolerance.stages.3.label>
+  <ROM_Generations_Methuselah.label>므두셀라</ROM_Generations_Methuselah.label>
+  <ROMV_CoolantLoss.stages.0.label>경미</ROMV_CoolantLoss.stages.0.label>
+  <ROMV_SunExposure.stages.1.label>경미함</ROMV_SunExposure.stages.1.label>
+  <ROMV_MistFormHediff.label>안개 형태 (변신)</ROMV_MistFormHediff.label>
+  <ROM_Generations_Neonate.label>신예</ROM_Generations_Neonate.label>
+  <ROMV_NightwispRavens.label>밤까마귀들</ROMV_NightwispRavens.label>
+  <ROMV_PerfectFormHediff.label>완벽한 형태 (변천)</ROMV_PerfectFormHediff.label>
+  <ROMV_PossessionHediff.label>홀림</ROMV_PossessionHediff.label>
+  <ROMV_Presence_BloodLustHediff.stages.0.label>존재감 IV</ROMV_Presence_BloodLustHediff.stages.0.label>
+  <ROMV_MindReadingHediff.label>마음 읽기 (운세)</ROMV_MindReadingHediff.label>
+  <ROMV_SunExposure.stages.2.label>심각함</ROMV_SunExposure.stages.2.label>
+  <ROMV_SleepHediff.label>수면 (깊은 트랜스)</ROMV_SleepHediff.label>
+  <ROMV_VitaeTolerance.stages.0.label>작음</ROMV_VitaeTolerance.stages.0.label>
+  <ROMV_VitaeTolerance.stages.1.label>작음</ROMV_VitaeTolerance.stages.1.label>
+  <ROMV_CorruptFormHediff_Legs.label>뼈와 살이 분리됨</ROMV_CorruptFormHediff_Legs.label>
+  <ROMV_TheBeast.stages.2.label>굶주림</ROMV_TheBeast.stages.2.label>
+  <ROMV_CorruptFormHediff_Sight.comps.0.labelTendedWell>봉합됨</ROMV_CorruptFormHediff_Sight.comps.0.labelTendedWell>
+  <ROMV_CorruptFormHediff_Sight.comps.0.labelTendedWellInner>봉함됨</ROMV_CorruptFormHediff_Sight.comps.0.labelTendedWellInner>
+  <ROMV_SunExposure.label>햇빛에 노출됨</ROMV_SunExposure.label>
+  <ROMV_PresenceIHediff.label>초자연적인 매력 (존재감 I)</ROMV_PresenceIHediff.label>
+  <ROMV_PresenceIIHediff.label>초자연적인 매력 (존재감 II)</ROMV_PresenceIIHediff.label>
+  <ROMV_PresenceIIIHediff.label>초자연적인 매력 (존재감 III)</ROMV_PresenceIIIHediff.label>
+  <ROMV_PresenceIVHediff.label>초자연적인 매력 (존재감 IV)</ROMV_PresenceIVHediff.label>
+  <ROMV_PotenceIHediff.label>초자연적인 힘 (잠재력 I)</ROMV_PotenceIHediff.label>
+  <ROMV_PotenceIIHediff.label>초자연적인 힘 (잠재력 II)</ROMV_PotenceIIHediff.label>
+  <ROMV_PotenceIIIHediff.label>초자연적인 힘 (잠재력 III)</ROMV_PotenceIIIHediff.label>
+  <ROMV_PotenceIVHediff.label>초자연적인 힘 (잠재력 IV)</ROMV_PotenceIVHediff.label>
+  <ROMV_CorruptFormHediff_Legs.comps.0.labelTendedWell>붕대 감음</ROMV_CorruptFormHediff_Legs.comps.0.labelTendedWell>
+  <ROMV_CorruptFormHediff_Legs.comps.0.labelTendedWellInner>붕대 감음</ROMV_CorruptFormHediff_Legs.comps.0.labelTendedWellInner>
+  <ROMV_CorruptFormHediff_Arms.comps.0.labelTendedWell>붕대 감음</ROMV_CorruptFormHediff_Arms.comps.0.labelTendedWell>
+  <ROMV_CorruptFormHediff_Arms.comps.0.labelTendedWellInner>붕대 감음</ROMV_CorruptFormHediff_Arms.comps.0.labelTendedWellInner>
+  <ROMV_TenebrousFormHediff.label>그림자 형태 (그림자)</ROMV_TenebrousFormHediff.label>
+  <ROMV_TheBeast.label>흡혈귀: 야수</ROMV_TheBeast.label>
+  <ROM_Generations_Thinblood.label>옅은피</ROM_Generations_Thinblood.label>
+  <ROM_VampirismRandom.stages.0.label>옅은피 (가장 약함)</ROM_VampirismRandom.stages.0.label>
+  <ROM_VampirismTzimisce.stages.0.label>옅은피 (가장 약함)</ROM_VampirismTzimisce.stages.0.label>
+  <ROM_VampirismLasombra.stages.0.label>옅은피 (가장 약함)</ROM_VampirismLasombra.stages.0.label>
+  <ROM_VampirismTremere.stages.0.label>옅은피 (가장 약함)</ROM_VampirismTremere.stages.0.label>
+  <ROM_VampirismPijavica.stages.0.label>옅은피 (가장 약함)</ROM_VampirismPijavica.stages.0.label>
+  <ROM_VampirismGargoyle.stages.0.label>옅은피 (가장 약함)</ROM_VampirismGargoyle.stages.0.label>
+  <ROM_VampirismVentrue.stages.0.label>옅은피 (가장 약함)</ROM_VampirismVentrue.stages.0.label>
+  <ROM_VampirismGangrel.stages.0.label>옅은피 (가장 약함)</ROM_VampirismGangrel.stages.0.label>
+  <ROM_VampirismNosferatu.stages.0.label>옅은피 (가장 약함)</ROM_VampirismNosferatu.stages.0.label>
+  <ROMV_CorruptFormHediff_Arms.label>인대가 찢어짐</ROMV_CorruptFormHediff_Arms.label>
+  <ROM_GhoulHediff.stages.0.label>구속풀림</ROM_GhoulHediff.stages.0.label>
+  <ROMV_TheBeast.stages.3.label>풀려남</ROMV_TheBeast.stages.3.label>
+  <ROM_Vampirism.label>흡혈귀</ROM_Vampirism.label>
+  <ROM_VampirismGangrel.label>흡혈귀 (갱그렐/Gangrel)</ROM_VampirismGangrel.label>
+  <ROM_VampirismGargoyle.label>흡혈귀 (가고일/Gargoyle)</ROM_VampirismGargoyle.label>
+  <ROM_VampirismLasombra.label>흡혈귀 (라솜브라/Lasombra)</ROM_VampirismLasombra.label>
+  <ROM_VampirismNosferatu.label>흡혈귀 (노스페라투/Nosferatu)</ROM_VampirismNosferatu.label>
+  <ROM_VampirismPijavica.label>흡혈귀 (피야비차/Pijavica)</ROM_VampirismPijavica.label>
+  <ROM_VampirismRandom.label>흡혈귀 (랜덤)</ROM_VampirismRandom.label>
+  <ROM_VampirismTremere.label>흡혈귀 (트레미어/Tremere)</ROM_VampirismTremere.label>
+  <ROM_VampirismTzimisce.label>흡혈귀 (지미셰/Tzimisce)</ROM_VampirismTzimisce.label>
+  <ROM_VampirismVentrue.label>흡혈귀 (벤트루/Ventrue)</ROM_VampirismVentrue.label>
+  <ROMV_VitaeAddiction.label>생명혈 중독</ROMV_VitaeAddiction.label>
+  <ROMV_VitaeHigh.label>생명혈 희열</ROMV_VitaeHigh.label>
+  <ROMV_VitaeTolerance.label>생명혈 내성</ROMV_VitaeTolerance.label>
+  <ROMV_WarFormHediff.label>전쟁 형태 (변신)</ROMV_WarFormHediff.label>
+  <ROMV_VitaeAddiction.stages.1.label>금단현상</ROMV_VitaeAddiction.stages.1.label>
+  <ROMV_ZuloFormHediff.label>줄로 형태 (변천)</ROMV_ZuloFormHediff.label>
+
+  <!--1211694919_181106_Nature's Pretty Sweet-->
+  <TKKN_Allergies.label>알레르기</TKKN_Allergies.label>
+  <TKKN_Animal_Allergies.label>알레르기</TKKN_Animal_Allergies.label>
+  <TKKN_CommonCold.label>감기</TKKN_CommonCold.label>
+  <TKKN_Animal_Common_Cold.label>감기</TKKN_Animal_Common_Cold.label>
+  <TKKN_Wetness.stages.1.label>축축한</TKKN_Wetness.stages.1.label>
+  <TKKN_Drowning.label>익사 위험</TKKN_Drowning.label>
+  <TKKN_Drowning.stages.2.label>익사</TKKN_Drowning.stages.2.label>
+  <TKKN_Wetness.stages.0.label>마른</TKKN_Wetness.stages.0.label>
+  <TKKN_CommonCold.stages.2.label>말기</TKKN_CommonCold.stages.2.label>
+  <TKKN_Animal_Common_Cold.stages.2.label>말기</TKKN_Animal_Common_Cold.stages.2.label>
+  <TKKN_Drowning.stages.1.label>허우적 거리는</TKKN_Drowning.stages.1.label>
+  <TKKN_CommonCold.stages.1.label>중기</TKKN_CommonCold.stages.1.label>
+  <TKKN_Animal_Common_Cold.stages.1.label>중기</TKKN_Animal_Common_Cold.stages.1.label>
+  <TKKN_CommonCold.stages.0.label>초기</TKKN_CommonCold.stages.0.label>
+  <TKKN_Animal_Common_Cold.stages.0.label>초기</TKKN_Animal_Common_Cold.stages.0.label>
+  <TKKN_coldspring_chill_out.label>냉천에서 휴식</TKKN_coldspring_chill_out.label>
+  <TKKN_hotspring_chill_out.label>온천에서 휴식</TKKN_hotspring_chill_out.label>
+  <TKKN_coldspring_chill_out.labelNoun>냉천에서 휴식함</TKKN_coldspring_chill_out.labelNoun>
+  <TKKN_hotspring_chill_out.labelNoun>온천에서 휴식함</TKKN_hotspring_chill_out.labelNoun>
+  <TKKN_Wetness.stages.4.label>흠뻑 젖은</TKKN_Wetness.stages.4.label>
+  <TKKN_Wetness.stages.2.label>질척한</TKKN_Wetness.stages.2.label>
+  <TKKN_Allergies.stages.0.label>머리를 틀어잡고 눈을 부릅뜨고 있음</TKKN_Allergies.stages.0.label>
+  <TKKN_Animal_Allergies.stages.0.label>머리를 틀어잡고 눈을 부릅뜨고 있음</TKKN_Animal_Allergies.stages.0.label>
+  <TKKN_Drowning.stages.0.label>물에 빠짐</TKKN_Drowning.stages.0.label>
+  <TKKN_Wetness.stages.3.label>젖은</TKKN_Wetness.stages.3.label>
+  <TKKN_Wetness.label>젖은 정도</TKKN_Wetness.label>
+
+  <!--1220397176_190626_Anesthetic Gun Mod[1.0]-->
+  <Hediff_AnestheticBullet.label>마취탄</Hediff_AnestheticBullet.label>
+  <Hediff_AnestheticBullet.stages.0.label>초기</Hediff_AnestheticBullet.stages.0.label>
+  <Hediff_AnestheticBullet.stages.1.label>초기</Hediff_AnestheticBullet.stages.1.label>
+  <Hediff_AnestheticBullet.stages.2.label>초기</Hediff_AnestheticBullet.stages.2.label>
+  <Hediff_AnestheticBullet.stages.3.label>초기</Hediff_AnestheticBullet.stages.3.label>
+  <Hediff_AnestheticBullet.stages.4.label>경미함</Hediff_AnestheticBullet.stages.4.label>
+  <Hediff_AnestheticBullet.stages.5.label>경미함</Hediff_AnestheticBullet.stages.5.label>
+  <Hediff_AnestheticBullet.stages.6.label>경미함</Hediff_AnestheticBullet.stages.6.label>
+  <Hediff_AnestheticBullet.stages.7.label>심각함</Hediff_AnestheticBullet.stages.7.label>
+  <Hediff_AnestheticBullet.stages.8.label>극심함</Hediff_AnestheticBullet.stages.8.label>
+  <Hediff_AnestheticBullet.stages.9.label>극심함</Hediff_AnestheticBullet.stages.9.label>
+  <Hediff_AnestheticBullet.stages.10.label>극심함</Hediff_AnestheticBullet.stages.10.label>
+
+  <!--1301071669_190521_Cyberpunk-->
+  <AdrenalBooster_CP.label>콩팥위샘 부스터</AdrenalBooster_CP.label>
+  <ArmoredArm_CP.label>사이버 기갑 팔</ArmoredArm_CP.label>
+  <ArmoredLeg_CP.label>사이버 기갑 다리</ArmoredLeg_CP.label>
+  <BigKnucks_CP.label>빅 너클</BigKnucks_CP.label>
+  <Cowlplate_CP.label>머리 철판</Cowlplate_CP.label>
+  <BuzzHand_CP.label>사이버 팔과 원형 톱날 손</BuzzHand_CP.label>
+  <DrillHand_CP.label>사이버 팔과 드릴 손</DrillHand_CP.label>
+  <HammerHand_CP.label>사이버 팔과 망치 손</HammerHand_CP.label>
+  <MedHand_CP.label>사이버 팔과 의학용 손</MedHand_CP.label>
+  <ToolHand_CP.label>사이버 팔과 도구 수납형 손</ToolHand_CP.label>
+  <CAAmplifiedHearing_CP.label>사이버오디오 청력 증폭기</CAAmplifiedHearing_CP.label>
+  <CyberHand_CP.label>사이버 손</CyberHand_CP.label>
+  <CyberJaw_CP.label>사이버 턱</CyberJaw_CP.label>
+  <CyberJawK9_CP.label>사이버 턱 K9</CyberJawK9_CP.label>
+  <SkateFoot_CP.label>사이버 다리와 스케이트 발</SkateFoot_CP.label>
+  <COTargettingScope_CP.label>사이버옵틱 조준경</COTargettingScope_CP.label>
+  <EnhancedAntibodies_CP.label>강화 항체</EnhancedAntibodies_CP.label>
+  <CyberLung_CP.label>강화 폐</CyberLung_CP.label>
+  <CyberLung2_CP.label>강화 폐 시리즈 2</CyberLung2_CP.label>
+  <Faceplate_CP.label>얼굴 철판</Faceplate_CP.label>
+  <GraftedMuscle_CP.label>인공 근육</GraftedMuscle_CP.label>
+  <LightningFist_CP.label>라이트닝 피스트</LightningFist_CP.label>
+  <Nanosurgeons_CP.label>나노의료기</Nanosurgeons_CP.label>
+  <Optishield_CP.label>옵티 실드</Optishield_CP.label>
+  <CyberHeart2_CP.label>페이스세터 2000 심장</CyberHeart2_CP.label>
+  <CyberHeart_CP.label>페이스세터 스포츠 심장</CyberHeart_CP.label>
+  <PowerJaw_CP.label>강화 턱</PowerJaw_CP.label>
+  <Rippers_CP.label>리퍼</Rippers_CP.label>
+  <Scratchers_CP.label>스크래쳐</Scratchers_CP.label>
+  <SkinWeave_CP.label>직조 피부</SkinWeave_CP.label>
+  <Speedware.label>스피드웨어</Speedware.label>
+  <CyberFoot_CP.label>사이버 발</CyberFoot_CP.label>
+  <SubdermalArmor_CP.label>피하 방어구</SubdermalArmor_CP.label>
+  <CyberLiver_CP.label>티-맥스 사이버 간</CyberLiver_CP.label>
+  <CyberLiver2_CP.label>티-맥스 사이버 간 II</CyberLiver2_CP.label>
+  <Thermaskin_CP.label>보온 피부</Thermaskin_CP.label>
+  <Torsoplate_CP.label>몸체 철판</Torsoplate_CP.label>
+  <ToxinBinders_CP.label>독소 억제기</ToxinBinders_CP.label>
+  <Wolvers_CP.label>울버즈</Wolvers_CP.label>
+
+  <!--1338280929_190526_Advanced Biomes-->
+  <PoisonBuildup.stages.5.label>극심함</PoisonBuildup.stages.5.label>
+  <PoisonBuildup.stages.1.label>초기</PoisonBuildup.stages.1.label>
+  <PoisonBuildup.stages.0.label>초기-숨겨짐</PoisonBuildup.stages.0.label>
+  <PoisonBuildup.stages.2.label>약함</PoisonBuildup.stages.2.label>
+  <PoisonBuildup.stages.3.label>중간</PoisonBuildup.stages.3.label>
+  <PoisonBuildup.label>독극물 중독</PoisonBuildup.label>
+  <PoisonBuildup.stages.4.label>심각함</PoisonBuildup.stages.4.label>
+
+  <!--1364582731_190615_Medicines-->
+  <AdrenalineHigh.label>아드레날린 주입됨</AdrenalineHigh.label>
+  <AdrenalineHigh.labelNoun>아드레날린에 취함</AdrenalineHigh.labelNoun>
+  <AdrenalineTolerance.label>아드레날린 내성</AdrenalineTolerance.label>
+  <AdrenalineTolerance.stages.0.label>약함</AdrenalineTolerance.stages.0.label>
+  <AdrenalineTolerance.stages.1.label>약함</AdrenalineTolerance.stages.1.label>
+  <AdrenalineTolerance.stages.2.label>강함</AdrenalineTolerance.stages.2.label>
+  <AdrenalineTolerance.stages.3.label>심각</AdrenalineTolerance.stages.3.label>
+  <AdrenalineAddiction.label>아드레날린 중독</AdrenalineAddiction.label>
+  <AdrenalineAddiction.stages.1.label>금단 현상</AdrenalineAddiction.stages.1.label>
+  <AniracetamHigh.label>애니라세탐</AniracetamHigh.label>
+  <AntiToxHigh.label>안티톡스</AntiToxHigh.label>
+  <CyanideHigh.label>청산가리</CyanideHigh.label>
+  <CyanideHigh.stages.0.label>호흡 곤란</CyanideHigh.stages.0.label>
+  <CyanideHigh.stages.1.label>떨림</CyanideHigh.stages.1.label>
+  <CyanideHigh.stages.2.label>전율</CyanideHigh.stages.2.label>
+  <CyanideHigh.stages.3.label>경련</CyanideHigh.stages.3.label>
+  <CyanideHigh.stages.4.label>사망</CyanideHigh.stages.4.label>
+  <opioid3High.label>헤로인에 취함</opioid3High.label>
+  <opioid3High.labelNoun>헤로인에 취함</opioid3High.labelNoun>
+  <HydraHigh.label>히드라</HydraHigh.label>
+  <JoyHigh.label>조이에 취함</JoyHigh.label>
+  <JoyHigh.labelNoun>조이에 취함</JoyHigh.labelNoun>
+  <JoyTolerance.label>조이 내성</JoyTolerance.label>
+  <JoyTolerance.stages.0.label>약함</JoyTolerance.stages.0.label>
+  <JoyTolerance.stages.1.label>약함</JoyTolerance.stages.1.label>
+  <JoyTolerance.stages.2.label>강함</JoyTolerance.stages.2.label>
+  <JoyTolerance.stages.3.label>심각</JoyTolerance.stages.3.label>
+  <JoyAddiction.label>조이 중독</JoyAddiction.label>
+  <JoyAddiction.stages.1.label>금단 현상</JoyAddiction.stages.1.label>
+  <MonolithHigh.label>유전적 재구축</MonolithHigh.label>
+  <MonolithHigh.stages.0.label>비활성화</MonolithHigh.stages.0.label>
+  <MonolithHigh.stages.1.label>활성화</MonolithHigh.stages.1.label>
+  <MonolithHigh.stages.2.label>낮은 활성도</MonolithHigh.stages.2.label>
+  <MonolithHigh.stages.3.label>높은 활성도</MonolithHigh.stages.3.label>
+  <GeneticDeath.label>유전적 과부하</GeneticDeath.label>
+  <GeneticDeath.stages.0.label>약함</GeneticDeath.stages.0.label>
+  <GeneticDeath.stages.1.label>위험</GeneticDeath.stages.1.label>
+  <GeneticDeath.stages.2.label>치명적</GeneticDeath.stages.2.label>
+  <GeneticCollapse.label>유전적 붕괴</GeneticCollapse.label>
+  <GeneticCollapse.stages.0.label>약함</GeneticCollapse.stages.0.label>
+  <GeneticCollapse.stages.1.label>보통</GeneticCollapse.stages.1.label>
+  <GeneticCollapse.stages.2.label>치명적</GeneticCollapse.stages.2.label>
+  <HeartMod.label>장기 개선</HeartMod.label>
+  <HeartMod.stages.0.label>작음</HeartMod.stages.0.label>
+  <HeartMod.stages.1.label>큼</HeartMod.stages.1.label>
+  <HeartMod.stages.2.label>완전한 대체</HeartMod.stages.2.label>
+  <LungMod.label>장기 개선</LungMod.label>
+  <LungMod.stages.0.label>작음</LungMod.stages.0.label>
+  <LungMod.stages.1.label>큼</LungMod.stages.1.label>
+  <LungMod.stages.2.label>완전한 대체</LungMod.stages.2.label>
+  <LiverMod.label>장기 개선</LiverMod.label>
+  <LiverMod.stages.0.label>작음</LiverMod.stages.0.label>
+  <LiverMod.stages.1.label>큼</LiverMod.stages.1.label>
+  <LiverMod.stages.2.label>완전한 대체</LiverMod.stages.2.label>
+  <KidneyMod.label>장기 개선</KidneyMod.label>
+  <KidneyMod.stages.0.label>작음</KidneyMod.stages.0.label>
+  <KidneyMod.stages.1.label>큼</KidneyMod.stages.1.label>
+  <KidneyMod.stages.2.label>완전한 대체</KidneyMod.stages.2.label>
+  <StomachMod.label>장기 개선</StomachMod.label>
+  <StomachMod.stages.0.label>작음</StomachMod.stages.0.label>
+  <StomachMod.stages.1.label>큼</StomachMod.stages.1.label>
+  <StomachMod.stages.2.label>완전한 대체</StomachMod.stages.2.label>
+  <EyeMod.label>감각 기관 개선</EyeMod.label>
+  <EyeMod.stages.0.label>작음</EyeMod.stages.0.label>
+  <EyeMod.stages.1.label>큼</EyeMod.stages.1.label>
+  <EyeMod.stages.2.label>완전한 대체</EyeMod.stages.2.label>
+  <EarMod.label>감각 기관 개선</EarMod.label>
+  <EarMod.stages.0.label>작음</EarMod.stages.0.label>
+  <EarMod.stages.1.label>큼</EarMod.stages.1.label>
+  <EarMod.stages.2.label>완전한 대체</EarMod.stages.2.label>
+  <BrainMod.label>감각 기관 개선</BrainMod.label>
+  <BrainMod.stages.0.label>작음</BrainMod.stages.0.label>
+  <BrainMod.stages.1.label>큼</BrainMod.stages.1.label>
+  <BrainMod.stages.2.label>완전한 대체</BrainMod.stages.2.label>
+  <OsteoMod.label>골 조직 개선</OsteoMod.label>
+  <OsteoMod.stages.0.label>작음</OsteoMod.stages.0.label>
+  <OsteoMod.stages.1.label>큼</OsteoMod.stages.1.label>
+  <OsteoMod.stages.2.label>완전한 대체</OsteoMod.stages.2.label>
+  <SpineMod.label>골 조직 개선</SpineMod.label>
+  <SpineMod.stages.0.label>작음</SpineMod.stages.0.label>
+  <SpineMod.stages.1.label>큼</SpineMod.stages.1.label>
+  <SpineMod.stages.2.label>완전한 대체</SpineMod.stages.2.label>
+  <PelvisMod.label>골 조직 개선</PelvisMod.label>
+  <PelvisMod.stages.0.label>작음</PelvisMod.stages.0.label>
+  <PelvisMod.stages.1.label>큼</PelvisMod.stages.1.label>
+  <PelvisMod.stages.2.label>완전한 대체</PelvisMod.stages.2.label>
+  <LimbMod.label>근육 조직 개선</LimbMod.label>
+  <LimbMod.stages.0.label>작음</LimbMod.stages.0.label>
+  <LimbMod.stages.1.label>큼</LimbMod.stages.1.label>
+  <LimbMod.stages.2.label>완전한 대체</LimbMod.stages.2.label>
+  <Limb2Mod.label>근육 조직 개선</Limb2Mod.label>
+  <Limb2Mod.stages.0.label>작음</Limb2Mod.stages.0.label>
+  <Limb2Mod.stages.1.label>큼</Limb2Mod.stages.1.label>
+  <Limb2Mod.stages.2.label>완전한 대체</Limb2Mod.stages.2.label>
+  <ChestMod.label>근육 조직 개선</ChestMod.label>
+  <ChestMod.stages.0.label>작음</ChestMod.stages.0.label>
+  <ChestMod.stages.1.label>큼</ChestMod.stages.1.label>
+  <ChestMod.stages.2.label>완전한 대체</ChestMod.stages.2.label>
+  <opioid2High.label>모르핀에 취함</opioid2High.label>
+  <opioid2High.labelNoun>모르핀에 취함</opioid2High.labelNoun>
+  <PenicillinHigh.label>페니실린</PenicillinHigh.label>
+  <PeyoteHigh.label>페요테 과실에 취함</PeyoteHigh.label>
+  <PeyoteHigh.labelNoun>페요테에 취함</PeyoteHigh.labelNoun>
+  <PeyoteTolerance.label>페요테 내성</PeyoteTolerance.label>
+  <PeyoteTolerance.stages.0.label>약함</PeyoteTolerance.stages.0.label>
+  <PeyoteTolerance.stages.1.label>약함</PeyoteTolerance.stages.1.label>
+  <PeyoteTolerance.stages.2.label>강함</PeyoteTolerance.stages.2.label>
+  <PeyoteTolerance.stages.3.label>심각</PeyoteTolerance.stages.3.label>
+  <PeyoteAddiction.label>페요테 중독</PeyoteAddiction.label>
+  <PeyoteAddiction.stages.1.label>금단 현상</PeyoteAddiction.stages.1.label>
+  <opioidHigh.label>아편에 취함</opioidHigh.label>
+  <opioidHigh.labelNoun>아편에 취함</opioidHigh.labelNoun>
+  <opioidTolerance.label>아편 내성</opioidTolerance.label>
+  <opioidTolerance.stages.0.label>약함</opioidTolerance.stages.0.label>
+  <opioidTolerance.stages.1.label>약함</opioidTolerance.stages.1.label>
+  <opioidTolerance.stages.2.label>강함</opioidTolerance.stages.2.label>
+  <opioidTolerance.stages.3.label>심각</opioidTolerance.stages.3.label>
+  <opioidAddiction.label>아편 중독</opioidAddiction.label>
+  <opioidAddiction.stages.1.label>금단 현상</opioidAddiction.stages.1.label>
+  <TeaHigh.label>장미차</TeaHigh.label>
+  <SaltsHigh.label>후자극제</SaltsHigh.label>
+  <NumbingHigh.label>가시풀</NumbingHigh.label>
+  <NumbingHigh.stages.0.label>뱃속에 나비가 있는것 같군.</NumbingHigh.stages.0.label>
+  <NumbingHigh.stages.1.label>약간 감각이 없음</NumbingHigh.stages.1.label>
+  <NumbingHigh.stages.2.label>적당히 감각이 없음</NumbingHigh.stages.2.label>
+  <NumbingHigh.stages.3.label>많이 감각이 없음</NumbingHigh.stages.3.label>
+  <NumbingHigh.stages.4.label>마비되기 직전</NumbingHigh.stages.4.label>
+  <NumbingSerumHigh.label>가시풀 혈청</NumbingSerumHigh.label>
+  <NumbingSerumHigh.stages.0.label>뱃속에 나비가 있는것 같군.</NumbingSerumHigh.stages.0.label>
+  <NumbingSerumHigh.stages.1.label>약간의 진통제 효과</NumbingSerumHigh.stages.1.label>
+  <NumbingSerumHigh.stages.2.label>적당한 진통제 효과</NumbingSerumHigh.stages.2.label>
+  <NumbingSerumHigh.stages.3.label>강한 진통제 효과</NumbingSerumHigh.stages.3.label>
+  <NumbingSerumHigh.stages.4.label>마취됨</NumbingSerumHigh.stages.4.label>
+  <TyroxHigh.label>타이록스</TyroxHigh.label>
+
+  <!--1485312620_190617_SYR - Coffee and Tee-->
+  <SyrCaffeineTolerance.label>카페인 내성</SyrCaffeineTolerance.label>
+  <SyrCaffeineTolerance.stages.0.label>사소함</SyrCaffeineTolerance.stages.0.label>
+  <SyrCaffeineTolerance.stages.1.label>사소함</SyrCaffeineTolerance.stages.1.label>
+  <SyrCaffeineTolerance.stages.2.label>심각함</SyrCaffeineTolerance.stages.2.label>
+  <SyrCaffeineTolerance.stages.3.label>극심함</SyrCaffeineTolerance.stages.3.label>
+  <SyrCaffeineAddiction.label>카페인 중독</SyrCaffeineAddiction.label>
+  <SyrCaffeineAddiction.stages.1.label>금단 현상</SyrCaffeineAddiction.stages.1.label>
+  <SyrCoffeeHigh.label>커피</SyrCoffeeHigh.label>
+  <SyrCoffeeHigh.stages.0.label>활력이 넘침</SyrCoffeeHigh.stages.0.label>
+  <SyrCoffeeHigh.stages.1.label>흥분함</SyrCoffeeHigh.stages.1.label>
+  <SyrCoffeeHigh.labelNoun>커피의 효과</SyrCoffeeHigh.labelNoun>
+  <SyrHotChocolateHigh.label>핫 초코</SyrHotChocolateHigh.label>
+  <SyrHotChocolateHigh.stages.0.label>열기</SyrHotChocolateHigh.stages.0.label>
+  <SyrHotChocolateHigh.labelNoun>핫 초코의 효과</SyrHotChocolateHigh.labelNoun>
+  <SyrTeaHigh.label>차</SyrTeaHigh.label>
+  <SyrTeaHigh.stages.0.label>차분해짐</SyrTeaHigh.stages.0.label>
+  <SyrTeaHigh.labelNoun>차의 효과</SyrTeaHigh.labelNoun>
+
+  <!--1498573216_181028_Polarisbloc - Mechenemy-->
+  <Vanya_IgnoreBleed.comps.0.labelTendedWell>붕대감음</Vanya_IgnoreBleed.comps.0.labelTendedWell>
+  <Vanya_IgnoreBleed.label>출혈</Vanya_IgnoreBleed.label>
+  <Vanya_IgnoreBleed.injuryProps.destroyedLabel>끊어짐</Vanya_IgnoreBleed.injuryProps.destroyedLabel>
+  <Vanya_IgnoreBleed.injuryProps.destroyedOutLabel>잘림</Vanya_IgnoreBleed.injuryProps.destroyedOutLabel>
+  <Vanya_CombatRations.label>군용 식량</Vanya_CombatRations.label>
+  <Vanya_IgnoreBleed.comps.0.labelSolidTendedWell>접합됨</Vanya_IgnoreBleed.comps.0.labelSolidTendedWell>
+  <Vanya_StabPowerCore.label>안정-전력 핵</Vanya_StabPowerCore.label>
+  <Vanya_IgnoreBleed.comps.0.labelTendedWellInner>봉합됨</Vanya_IgnoreBleed.comps.0.labelTendedWellInner>
+  <Vanya_ConsciousnessCube.label>의식관</Vanya_ConsciousnessCube.label>
+
+  <!--1500248421_181028_Polarisbloc - Security Force-->
+  <Polarisbloc_EmergencyFood.label>군용 식량</Polarisbloc_EmergencyFood.label>
+
+  <!--1505914869_190616_What the hack!-->
+  <WTH_ShutDown.label>전원 정지</WTH_ShutDown.label>
+  <WTH_ShutDown.labelNoun>전원을 정지합니다.</WTH_ShutDown.labelNoun>
+  <WTH_HeavilyDamaged.label>심각한 손상</WTH_HeavilyDamaged.label>
+  <WTH_HeavilyDamaged.labelNoun>상당한 피해</WTH_HeavilyDamaged.labelNoun>
+  <WTH_DestroyedModule.label>파괴된 모듈</WTH_DestroyedModule.label>
+  <WTH_RegeneratedPart.label>부위 재생</WTH_RegeneratedPart.label>
+  <WTH_RegeneratedPart.labelNoun>파손된 부위를 대체하도록 부품을 재생성합니다.</WTH_RegeneratedPart.labelNoun>
+  <WTH_SpeedModule.label>속도 모듈</WTH_SpeedModule.label>
+  <WTH_CargoModule.label>화물 모듈</WTH_CargoModule.label>
+  <WTH_OpticSensorModule.label>광학 센서 모듈</WTH_OpticSensorModule.label>
+  <WTH_ArmorModule.label>장갑 모듈</WTH_ArmorModule.label>
+  <WTH_GrowingModule.label>재배 모듈</WTH_GrowingModule.label>
+  <WTH_FirefightingModule.label>소방 모듈</WTH_FirefightingModule.label>
+  <WTH_CleaningModule.label>청소 모듈</WTH_CleaningModule.label>
+  <WTH_HaulingModule.label>운반 모듈</WTH_HaulingModule.label>
+  <WTH_BatteryExpansionModule.label>확장된 배터리</WTH_BatteryExpansionModule.label>
+  <WTH_VanometricModule.label>베노메트릭 모듈</WTH_VanometricModule.label>
+  <WTH_SelfDestruct.label>자폭 모듈</WTH_SelfDestruct.label>
+  <WTH_OverdriveModule.label>오버드라이브 모듈</WTH_OverdriveModule.label>
+  <WTH_Overdrive.label>오버드라이브</WTH_Overdrive.label>
+  <WTH_Overdrive_GoneTooFar.label>과부화</WTH_Overdrive_GoneTooFar.label>
+  <WTH_RepairModule.label>수리 모듈</WTH_RepairModule.label>
+  <WTH_BeltModule.label>벨트 모듈</WTH_BeltModule.label>
+  <WTH_TurretModule.label>포탑 모듈</WTH_TurretModule.label>
+  <WTH_MountedTurret.label>포탑 탑재됨</WTH_MountedTurret.label>
+  <WTH_RepairArm.label>정비용 팔</WTH_RepairArm.label>
+  <WTH_RepairArm.comps.0.tools.0.label>주먹</WTH_RepairArm.comps.0.tools.0.label>
+  <WTH_RepairArm.labelNoun>정비용 팔</WTH_RepairArm.labelNoun>
+  <WTH_SelfDestructed.label>폭발함</WTH_SelfDestructed.label>
+  <WTH_Repairing.label>메카나이트 수리</WTH_Repairing.label>
+  <WTH_ReplacedAI.label>대체된 AI</WTH_ReplacedAI.label>
+  <WTH_TargetingHacked.label>해킹됨</WTH_TargetingHacked.label>
+  <WTH_BackupBattery.label>백업 배터리로 가동</WTH_BackupBattery.label>
+  <WTH_LocomotionHacked.label>해킹된 이동 시스템</WTH_LocomotionHacked.label>
+  <WTH_TargetingHackedPoorly.label>잘못된 해킹</WTH_TargetingHackedPoorly.label>
+  <WTH_TargetingDestroyed.label>파괴됨</WTH_TargetingDestroyed.label>
+  <WTH_LowMaintenance.label>약간의 정비 부족</WTH_LowMaintenance.label>
+  <WTH_VeryLowMaintenance.label>심각한 정비 부족</WTH_VeryLowMaintenance.label>
+  <WTH_VeryLowPower.label>매우 낮은 전력</WTH_VeryLowPower.label>
+  <WTH_NoPower.label>전력 고갈</WTH_NoPower.label>
+
+  <!--1507137970_190622_Prosthetic Didgets-->
+  <BionicFinger.label>생체공학 손가락</BionicFinger.label>
+  <BionicToe.label>생체공학 발가락</BionicToe.label>
+  <ProstheticFinger.label>간단한 인공 손가락</ProstheticFinger.label>
+  <ProstheticToe.label>간단한 인공 발가락</ProstheticToe.label>
+
+  <!--1518932357_181022_Giddy-up! Mechanoids-->
+  <GU_Mech_GiddyUpModule.label>기승 모듈 탑재</GU_Mech_GiddyUpModule.label>
+
+  <!--1541353047_190628_Zombiefied-->
+  <ZombieWoundInfection.labelNoun>좀비 감염</ZombieWoundInfection.labelNoun>
+  <ZombieWoundInfection.stages.2.label>극심함</ZombieWoundInfection.stages.2.label>
+  <ZombieWoundInfection.stages.3.label>극심함</ZombieWoundInfection.stages.3.label>
+  <ZombieWoundInfection.stages.1.label>심각함</ZombieWoundInfection.stages.1.label>
+  <ZombieWoundInfection.stages.0.label>가벼움</ZombieWoundInfection.stages.0.label>
+  <ZombieWoundInfection.label>좀비 감염</ZombieWoundInfection.label>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu_Dehydration.label>탈수</Mizu_Dehydration.label>
+  <Mizu_DrankSeaWater.label>바닷물을 마심</Mizu_DrankSeaWater.label>
+  <Mizu_Dehydration.stages.4.label>극심한</Mizu_Dehydration.stages.4.label>
+  <Mizu_IcecreamHeadache.label>아이스크림 두통</Mizu_IcecreamHeadache.label>
+  <Mizu_Dehydration.stages.1.label>사소함</Mizu_Dehydration.stages.1.label>
+  <Mizu_Dehydration.stages.2.label>심함</Mizu_Dehydration.stages.2.label>
+  <Mizu_Nursed.label>간호됨</Mizu_Nursed.label>
+  <Mizu_Dehydration.stages.3.label>심각한</Mizu_Dehydration.stages.3.label>
+  <Mizu_Dehydration.stages.0.label>경미함</Mizu_Dehydration.stages.0.label>
+
+  <!--1543060282_181101_Additional Joy Objects-->
+  <PerodyneHigh.stages.2.label>취함</PerodyneHigh.stages.2.label>
+  <PerodyneHigh.stages.1.label>편안함</PerodyneHigh.stages.1.label>
+  <PerodyneHigh.stages.4.label>붕뜸</PerodyneHigh.stages.4.label>
+  <AJO_SpectagoTea.stages.0.label>초기</AJO_SpectagoTea.stages.0.label>
+  <PerodyneHigh.stages.0.label>초기</PerodyneHigh.stages.0.label>
+  <PerodyneTolerance.stages.2.label>보통</PerodyneTolerance.stages.2.label>
+  <PerodyneTolerance.stages.3.label>심각함</PerodyneTolerance.stages.3.label>
+  <PerodyneHigh.stages.3.label>띵함</PerodyneHigh.stages.3.label>
+  <PerodyneHigh.label>페로다인</PerodyneHigh.label>
+  <PerodyneAddiction.label>페로다인 의존증</PerodyneAddiction.label>
+  <PerodyneTolerance.label>페로다인 내성</PerodyneTolerance.label>
+  <AJO_SpectagoTea.stages.2.label>진정됨</AJO_SpectagoTea.stages.2.label>
+  <PerodyneTolerance.stages.0.label>약함</PerodyneTolerance.stages.0.label>
+  <PerodyneTolerance.stages.1.label>약함</PerodyneTolerance.stages.1.label>
+  <AJO_SpectagoTea.label>스펙타고 차</AJO_SpectagoTea.label>
+  <AJO_SpectagoTea.stages.1.label>따뜻함</AJO_SpectagoTea.stages.1.label>
+  <PerodyneHigh.stages.5.label>꽐라됨</PerodyneHigh.stages.5.label>
+  <PerodyneAddiction.stages.1.label>금단현상</PerodyneAddiction.stages.1.label>
+
+  <!--1552452572_190814_Death Rattle-->
+  <IntestinalFailure.label>장기 부전</IntestinalFailure.label>
+  <IntestinalFailure.stages.2.label>임상사</IntestinalFailure.stages.2.label>
+  <LiverFailure.label>급성 간 부전</LiverFailure.label>
+  <LiverFailure.stages.1.label>임상사</LiverFailure.stages.1.label>
+  <KidneyFailure.label>급성 신 부전</KidneyFailure.label>
+  <KidneyFailure.stages.1.label>임상사</KidneyFailure.stages.1.label>
+  <ClinicalDeathNoHeartbeat.label>심정지</ClinicalDeathNoHeartbeat.label>
+  <ClinicalDeathNoHeartbeat.stages.1.label>임상사</ClinicalDeathNoHeartbeat.stages.1.label>
+  <ClinicalDeathAsphyxiation.label>질식</ClinicalDeathAsphyxiation.label>
+  <ClinicalDeathAsphyxiation.stages.1.label>임상사</ClinicalDeathAsphyxiation.stages.1.label>
+  <Coma.label>혼수 상태</Coma.label>
+  <BrainDamage.label>뇌 손상</BrainDamage.label>
+  <SevereBrainDamage.label>심각한 뇌 손상</SevereBrainDamage.label>
+  <VegetativeState.label>식물 인간</VegetativeState.label>
+
+  <!--1552461911_190814_Expanded Incidents-->
+  <Saboteur.stages.0.label>숨겨짐</Saboteur.stages.0.label>
+  <PotentialSaboteur.stages.0.label>숨겨짐</PotentialSaboteur.stages.0.label>
+  <Thief.stages.0.label>숨겨짐</Thief.stages.0.label>
+  <PotentialSaboteur.label>사보타르 가능성</PotentialSaboteur.label>
+  <Saboteur.label>사보타르</Saboteur.label>
+  <Thief.label>도둑</Thief.label>
+
+  <!--1557222016_190519_RWBY Weapons-->
+  <Shock.labelNoun>감전</Shock.labelNoun>
+  <RWBY_Thermos_Caffeine.stages.2.label>암전</RWBY_Thermos_Caffeine.stages.2.label>
+  <Shock.comps.0.labelTendedWell>치유</Shock.comps.0.labelTendedWell>
+  <Shock.comps.0.labelTendedWellInner>치유</Shock.comps.0.labelTendedWellInner>
+  <RWBY_Thermos_Caffeine.stages.1.label>높음</RWBY_Thermos_Caffeine.stages.1.label>
+  <RWBY_Thermos_Caffeine.stages.0.label>초기</RWBY_Thermos_Caffeine.stages.0.label>
+  <Shock.comps.0.labelSolidTendedWell>설정</Shock.comps.0.labelSolidTendedWell>
+  <Shock.label>쇼크</Shock.label>
+  <Shock.injuryProps.destroyedLabel>쇼크 받음</Shock.injuryProps.destroyedLabel>
+  <Shock.injuryProps.destroyedOutLabel>쇼크 줌</Shock.injuryProps.destroyedOutLabel>
+  <RWBY_Thermos_Caffeine.label>테르모스 카페인</RWBY_Thermos_Caffeine.label>
+
+  <!--1559034352_181116_Diseases overhauled-->
+  <Appendicitis.label>급성 충수염</Appendicitis.label>
+  <InducedComa5Days.stages.1.label>약 5일 째</InducedComa5Days.stages.1.label>
+  <InducedComa30Days.stages.1.label>약 반년 째</InducedComa30Days.stages.1.label>
+  <InducedComa15Days.stages.1.label>약 1계절 째</InducedComa15Days.stages.1.label>
+  <InducedComa2Days.stages.1.label>약 2일 째</InducedComa2Days.stages.1.label>
+  <CerebralArteryStenosis.label>동맥 폐색</CerebralArteryStenosis.label>
+  <InducedComa2Days.stages.0.label>각성</InducedComa2Days.stages.0.label>
+  <InducedComa5Days.stages.0.label>각성</InducedComa5Days.stages.0.label>
+  <InducedComa15Days.stages.0.label>각성</InducedComa15Days.stages.0.label>
+  <InducedComa30Days.stages.0.label>각성</InducedComa30Days.stages.0.label>
+  <InducedComaForever.stages.0.label>각성</InducedComaForever.stages.0.label>
+  <ComaTimed.stages.0.label>각성</ComaTimed.stages.0.label>
+  <HepatitisK.stages.2.label>안정적</HepatitisK.stages.2.label>
+  <BardelSyndrome.label>바르델 증후군</BardelSyndrome.label>
+  <BenignGrowth.label>양성 종양</BenignGrowth.label>
+  <BloodCancer.label>백혈병</BloodCancer.label>
+  <BrainDamage.label>뇌손상</BrainDamage.label>
+  <BrainWorm.label>뇌 기생충</BrainWorm.label>
+  <CampbellsDisease.label>캠프벨병</CampbellsDisease.label>
+  <CentralPathwayImpairments.label>중추 신경 장애</CentralPathwayImpairments.label>
+  <Chawbaecks.label>츄벡스</Chawbaecks.label>
+  <ComaTimed.label>혼수상태</ComaTimed.label>
+  <ComaForever.label>혼수상태</ComaForever.label>
+  <CommonCold.label>감기</CommonCold.label>
+  <Stroke.stages.1.label>쇠약</Stroke.stages.1.label>
+  <ComaTimed.stages.1.label>극심</ComaTimed.stages.1.label>
+  <ComaForever.stages.0.label>극심</ComaForever.stages.0.label>
+  <DetoxaminHigh.label>디톡사민 효과</DetoxaminHigh.label>
+  <BadBack.stages.4.label>가벼움</BadBack.stages.4.label>
+  <Cataract.stages.4.label>가벼움</Cataract.stages.4.label>
+  <HearingLoss.stages.4.label>가벼움</HearingLoss.stages.4.label>
+  <EncapsulatedMuscleParasites.label>피포성 병원균</EncapsulatedMuscleParasites.label>
+  <EncapsulatedMalaria.label>피포성 병원균</EncapsulatedMalaria.label>
+  <EncapsulatedPlague.label>피포성 병원균</EncapsulatedPlague.label>
+  <EncapsulatedTuberculosis.label>피포성 병원균</EncapsulatedTuberculosis.label>
+  <EpsteinBarrVirus.label>C형 엡스테인-바 바이러스</EpsteinBarrVirus.label>
+  <Unease.stages.5.label>극심함</Unease.stages.5.label>
+  <BloodLoss.stages.5.label>극심함</BloodLoss.stages.5.label>
+  <Heatstroke.stages.5.label>극심함</Heatstroke.stages.5.label>
+  <Hypothermia.stages.5.label>극심함</Hypothermia.stages.5.label>
+  <Malnutrition.stages.5.label>극심함</Malnutrition.stages.5.label>
+  <Alzheimers.stages.5.label>극심함</Alzheimers.stages.5.label>
+  <Appendicitis.stages.2.label>극심함</Appendicitis.stages.2.label>
+  <Asthma.stages.4.label>극심함</Asthma.stages.4.label>
+  <BadBack.stages.9.label>극심함</BadBack.stages.9.label>
+  <BenignGrowth.stages.5.label>극심함</BenignGrowth.stages.5.label>
+  <BloodCancer.stages.6.label>극심함</BloodCancer.stages.6.label>
+  <Cataract.stages.9.label>극심함</Cataract.stages.9.label>
+  <CerebralArteryStenosis.stages.6.label>극심함</CerebralArteryStenosis.stages.6.label>
+  <Chawbaecks.stages.7.label>극심함</Chawbaecks.stages.7.label>
+  <Cirrhosis.stages.5.label>극심함</Cirrhosis.stages.5.label>
+  <Flu.stages.3.label>극심함</Flu.stages.3.label>
+  <Frail.stages.3.label>극심함</Frail.stages.3.label>
+  <HansenKampffDisease.stages.7.label>극심함</HansenKampffDisease.stages.7.label>
+  <HearingLoss.stages.9.label>극심함</HearingLoss.stages.9.label>
+  <HeartArteryBlockage.stages.6.label>극심함</HeartArteryBlockage.stages.6.label>
+  <Inflammation.stages.7.label>극심함</Inflammation.stages.7.label>
+  <KindredDickVirus.stages.6.label>극심함</KindredDickVirus.stages.6.label>
+  <Malaria.stages.4.label>극심함</Malaria.stages.4.label>
+  <Migraine.stages.5.label>극심함</Migraine.stages.5.label>
+  <MultipleSclerosis.stages.6.label>극심함</MultipleSclerosis.stages.6.label>
+  <Necrosis.stages.6.label>극심함</Necrosis.stages.6.label>
+  <NewReschianFever.stages.5.label>극심함</NewReschianFever.stages.5.label>
+  <Osteoporosis.stages.8.label>극심함</Osteoporosis.stages.8.label>
+  <Parkinsons.stages.6.label>극심함</Parkinsons.stages.6.label>
+  <PeripheralPathwayObstructionStage1.stages.7.label>극심함</PeripheralPathwayObstructionStage1.stages.7.label>
+  <PeripheralPathwayObstructionStage2.stages.7.label>극심함</PeripheralPathwayObstructionStage2.stages.7.label>
+  <PeripheralPathwayObstructionStageLS3.stages.7.label>극심함</PeripheralPathwayObstructionStageLS3.stages.7.label>
+  <PeripheralPathwayObstructionStageLS4.stages.7.label>극심함</PeripheralPathwayObstructionStageLS4.stages.7.label>
+  <PeripheralPathwayObstructionStageLL3.stages.7.label>극심함</PeripheralPathwayObstructionStageLL3.stages.7.label>
+  <PeripheralPathwayObstructionStageRS3.stages.7.label>극심함</PeripheralPathwayObstructionStageRS3.stages.7.label>
+  <PeripheralPathwayObstructionStageRS4.stages.7.label>극심함</PeripheralPathwayObstructionStageRS4.stages.7.label>
+  <PeripheralPathwayObstructionStageRL3.stages.7.label>극심함</PeripheralPathwayObstructionStageRL3.stages.7.label>
+  <Plague.stages.5.label>극심함</Plague.stages.5.label>
+  <SecondaryDamage.stages.4.label>극심함</SecondaryDamage.stages.4.label>
+  <Sepsis.stages.7.label>극심함</Sepsis.stages.7.label>
+  <Toothache.stages.4.label>극심함</Toothache.stages.4.label>
+  <Tuberculosis.stages.5.label>극심함</Tuberculosis.stages.5.label>
+  <VoightBernsteinDisease.stages.6.label>극심함</VoightBernsteinDisease.stages.6.label>
+  <VoightBernsteinDiseaseTumors.stages.5.label>극심함</VoightBernsteinDiseaseTumors.stages.5.label>
+  <WoundInfection.stages.5.label>극심함</WoundInfection.stages.5.label>
+  <HepatitisK.stages.0.label>극심함 거부 반응</HepatitisK.stages.0.label>
+  <HepatitisK.stages.4.label>극심함 바이러스 활동</HepatitisK.stages.4.label>
+  <BloodLoss.stages.6.label>치명적</BloodLoss.stages.6.label>
+  <Heatstroke.stages.6.label>치명적</Heatstroke.stages.6.label>
+  <Hypothermia.stages.6.label>치명적</Hypothermia.stages.6.label>
+  <Malnutrition.stages.6.label>치명적</Malnutrition.stages.6.label>
+  <Stroke.stages.2.label>치명적</Stroke.stages.2.label>
+  <ToxicBuildup.stages.6.label>치명적</ToxicBuildup.stages.6.label>
+  <Alzheimers.stages.6.label>치명적</Alzheimers.stages.6.label>
+  <Appendicitis.stages.3.label>치명적</Appendicitis.stages.3.label>
+  <Asthma.stages.5.label>치명적</Asthma.stages.5.label>
+  <BloodCancer.stages.7.label>치명적</BloodCancer.stages.7.label>
+  <CerebralArteryStenosis.stages.7.label>치명적</CerebralArteryStenosis.stages.7.label>
+  <HeartArteryBlockage.stages.7.label>치명적</HeartArteryBlockage.stages.7.label>
+  <Inflammation.stages.8.label>치명적</Inflammation.stages.8.label>
+  <KindredDickVirus.stages.7.label>치명적</KindredDickVirus.stages.7.label>
+  <Plague.stages.6.label>치명적</Plague.stages.6.label>
+  <Sepsis.stages.8.label>치명적</Sepsis.stages.8.label>
+  <SleepingSickness.stages.5.label>치명적</SleepingSickness.stages.5.label>
+  <WoundInfection.stages.6.label>치명적</WoundInfection.stages.6.label>
+  <Unease.label>불안증</Unease.label>
+  <BadBack.stages.10.label>치명적</BadBack.stages.10.label>
+  <Cataract.stages.10.label>치명적</Cataract.stages.10.label>
+  <Chawbaecks.stages.8.label>치명적</Chawbaecks.stages.8.label>
+  <Cirrhosis.stages.6.label>치명적</Cirrhosis.stages.6.label>
+  <HansenKampffDisease.stages.8.label>치명적</HansenKampffDisease.stages.8.label>
+  <HearingLoss.stages.10.label>치명적</HearingLoss.stages.10.label>
+  <Necrosis.stages.7.label>치명적</Necrosis.stages.7.label>
+  <Osteoporosis.stages.9.label>치명적</Osteoporosis.stages.9.label>
+  <PeripheralPathwayObstructionStage1.stages.8.label>치명적</PeripheralPathwayObstructionStage1.stages.8.label>
+  <PeripheralPathwayObstructionStage2.stages.8.label>치명적</PeripheralPathwayObstructionStage2.stages.8.label>
+  <PeripheralPathwayObstructionStageLS3.stages.8.label>치명적</PeripheralPathwayObstructionStageLS3.stages.8.label>
+  <PeripheralPathwayObstructionStageLS4.stages.8.label>치명적</PeripheralPathwayObstructionStageLS4.stages.8.label>
+  <PeripheralPathwayObstructionStageLL3.stages.8.label>치명적</PeripheralPathwayObstructionStageLL3.stages.8.label>
+  <PeripheralPathwayObstructionStageRS3.stages.8.label>치명적</PeripheralPathwayObstructionStageRS3.stages.8.label>
+  <PeripheralPathwayObstructionStageRS4.stages.8.label>치명적</PeripheralPathwayObstructionStageRS4.stages.8.label>
+  <PeripheralPathwayObstructionStageRL3.stages.8.label>치명적</PeripheralPathwayObstructionStageRL3.stages.8.label>
+  <VoightBernsteinDisease.stages.7.label>치명적</VoightBernsteinDisease.stages.7.label>
+  <VoightBernsteinDiseaseTumors.stages.6.label>치명적</VoightBernsteinDiseaseTumors.stages.6.label>
+  <BadBack.stages.8.label>극심함</BadBack.stages.8.label>
+  <Cataract.stages.8.label>극심함</Cataract.stages.8.label>
+  <HearingLoss.stages.8.label>극심함</HearingLoss.stages.8.label>
+  <HansenKampffDisease.label>한센병</HansenKampffDisease.label>
+  <HeartWorm.label>심장 기생충</HeartWorm.label>
+  <HepatitisK.label>K형 간염</HepatitisK.label>
+  <Unease.stages.0.label>숨겨짐</Unease.stages.0.label>
+  <CerebralArteryStenosis.stages.0.label>숨겨짐</CerebralArteryStenosis.stages.0.label>
+  <EpsteinBarrVirus.stages.0.label>숨겨짐</EpsteinBarrVirus.stages.0.label>
+  <Osteoporosis.stages.0.label>숨겨짐</Osteoporosis.stages.0.label>
+  <SuicidePreparation.stages.0.label>숨겨짐</SuicidePreparation.stages.0.label>
+  <Hyperthyroidism.label>갑상선 기능 항진증</Hyperthyroidism.label>
+  <Hypothyroidism.label>갑상선 기능 저하증</Hypothyroidism.label>
+  <InducedComa2Days.label>인위적 혼수상태</InducedComa2Days.label>
+  <InducedComa5Days.label>인위적 혼수상태</InducedComa5Days.label>
+  <InducedComa15Days.label>인위적 혼수상태</InducedComa15Days.label>
+  <InducedComa30Days.label>인위적 혼수상태</InducedComa30Days.label>
+  <InducedComaForever.label>인위적 혼수상태</InducedComaForever.label>
+  <Inflammation.label>염증</Inflammation.label>
+  <BadBack.stages.0.label>초기</BadBack.stages.0.label>
+  <BenignGrowth.stages.0.label>초기</BenignGrowth.stages.0.label>
+  <BloodCancer.stages.0.label>초기</BloodCancer.stages.0.label>
+  <Cataract.stages.0.label>초기</Cataract.stages.0.label>
+  <CerebralArteryStenosis.stages.1.label>초기</CerebralArteryStenosis.stages.1.label>
+  <Chawbaecks.stages.0.label>초기</Chawbaecks.stages.0.label>
+  <Cirrhosis.stages.0.label>초기</Cirrhosis.stages.0.label>
+  <Dementia.stages.0.label>초기</Dementia.stages.0.label>
+  <HansenKampffDisease.stages.0.label>초기</HansenKampffDisease.stages.0.label>
+  <HearingLoss.stages.0.label>초기</HearingLoss.stages.0.label>
+  <Inflammation.stages.0.label>초기</Inflammation.stages.0.label>
+  <KindredDickVirus.stages.0.label>초기</KindredDickVirus.stages.0.label>
+  <MultipleSclerosis.stages.0.label>초기</MultipleSclerosis.stages.0.label>
+  <Necrosis.stages.0.label>초기</Necrosis.stages.0.label>
+  <NewReschianFever.stages.0.label>초기</NewReschianFever.stages.0.label>
+  <Osteoporosis.stages.1.label>초기</Osteoporosis.stages.1.label>
+  <PeripheralPathwayObstructionStage1.stages.0.label>초기</PeripheralPathwayObstructionStage1.stages.0.label>
+  <PeripheralPathwayObstructionStage2.stages.0.label>초기</PeripheralPathwayObstructionStage2.stages.0.label>
+  <PeripheralPathwayObstructionStageLS3.stages.0.label>초기</PeripheralPathwayObstructionStageLS3.stages.0.label>
+  <PeripheralPathwayObstructionStageLS4.stages.0.label>초기</PeripheralPathwayObstructionStageLS4.stages.0.label>
+  <PeripheralPathwayObstructionStageLL3.stages.0.label>초기</PeripheralPathwayObstructionStageLL3.stages.0.label>
+  <PeripheralPathwayObstructionStageRS3.stages.0.label>초기</PeripheralPathwayObstructionStageRS3.stages.0.label>
+  <PeripheralPathwayObstructionStageRS4.stages.0.label>초기</PeripheralPathwayObstructionStageRS4.stages.0.label>
+  <PeripheralPathwayObstructionStageRL3.stages.0.label>초기</PeripheralPathwayObstructionStageRL3.stages.0.label>
+  <Sepsis.stages.0.label>초기</Sepsis.stages.0.label>
+  <Toothache.stages.0.label>초기</Toothache.stages.0.label>
+  <Tuberculosis.stages.0.label>초기</Tuberculosis.stages.0.label>
+  <VoightBernsteinDisease.stages.0.label>초기</VoightBernsteinDisease.stages.0.label>
+  <FibrousMechanites.stages.2.label>극심한 고통</FibrousMechanites.stages.2.label>
+  <SensoryMechanites.stages.2.label>극심한 고통</SensoryMechanites.stages.2.label>
+  <LymphaticMechanites.stages.2.label>극심한 고통</LymphaticMechanites.stages.2.label>
+  <KindredDickVirus.label>킨드레드-딕 바이러스</KindredDickVirus.label>
+  <MortracainTolerance.stages.2.label>큼</MortracainTolerance.stages.2.label>
+  <TranquiazepinTolerance.stages.2.label>큼</TranquiazepinTolerance.stages.2.label>
+  <Dead.label>치명적인 뇌 손상</Dead.label>
+  <LungWorms.label>폐 기생충</LungWorms.label>
+  <LymphaticMechanites.label>림프계 메카나이트</LymphaticMechanites.label>
+  <Unease.stages.3.label>심각함</Unease.stages.3.label>
+  <DrugOverdose.stages.3.label>극심함</DrugOverdose.stages.3.label>
+  <Appendicitis.stages.1.label>심각함</Appendicitis.stages.1.label>
+  <BadBack.stages.5.label>심각함</BadBack.stages.5.label>
+  <BenignGrowth.stages.3.label>심각함</BenignGrowth.stages.3.label>
+  <BloodCancer.stages.3.label>심각함</BloodCancer.stages.3.label>
+  <Cataract.stages.5.label>심각함</Cataract.stages.5.label>
+  <CerebralArteryStenosis.stages.4.label>심각함</CerebralArteryStenosis.stages.4.label>
+  <Chawbaecks.stages.4.label>심각함</Chawbaecks.stages.4.label>
+  <Cirrhosis.stages.3.label>심각함</Cirrhosis.stages.3.label>
+  <CryptosleepSickness.stages.2.label>심각함</CryptosleepSickness.stages.2.label>
+  <Dementia.stages.3.label>심각함</Dementia.stages.3.label>
+  <Frail.stages.2.label>심각함</Frail.stages.2.label>
+  <HansenKampffDisease.stages.4.label>심각함</HansenKampffDisease.stages.4.label>
+  <HearingLoss.stages.5.label>심각함</HearingLoss.stages.5.label>
+  <Inflammation.stages.4.label>심각함</Inflammation.stages.4.label>
+  <KindredDickVirus.stages.3.label>심각함</KindredDickVirus.stages.3.label>
+  <Malaria.stages.3.label>심각함</Malaria.stages.3.label>
+  <Migraine.stages.3.label>심각함</Migraine.stages.3.label>
+  <MultipleSclerosis.stages.3.label>심각함</MultipleSclerosis.stages.3.label>
+  <Necrosis.stages.3.label>심각함</Necrosis.stages.3.label>
+  <NewReschianFever.stages.3.label>심각함</NewReschianFever.stages.3.label>
+  <Osteoporosis.stages.5.label>심각함</Osteoporosis.stages.5.label>
+  <Parkinsons.stages.3.label>심각함</Parkinsons.stages.3.label>
+  <PeripheralPathwayObstructionStage1.stages.4.label>심각함</PeripheralPathwayObstructionStage1.stages.4.label>
+  <PeripheralPathwayObstructionStage2.stages.4.label>심각함</PeripheralPathwayObstructionStage2.stages.4.label>
+  <PeripheralPathwayObstructionStageLS3.stages.4.label>심각함</PeripheralPathwayObstructionStageLS3.stages.4.label>
+  <PeripheralPathwayObstructionStageLS4.stages.4.label>심각함</PeripheralPathwayObstructionStageLS4.stages.4.label>
+  <PeripheralPathwayObstructionStageLL3.stages.4.label>심각함</PeripheralPathwayObstructionStageLL3.stages.4.label>
+  <PeripheralPathwayObstructionStageRS3.stages.4.label>심각함</PeripheralPathwayObstructionStageRS3.stages.4.label>
+  <PeripheralPathwayObstructionStageRS4.stages.4.label>심각함</PeripheralPathwayObstructionStageRS4.stages.4.label>
+  <PeripheralPathwayObstructionStageRL3.stages.4.label>심각함</PeripheralPathwayObstructionStageRL3.stages.4.label>
+  <SecondaryDamage.stages.2.label>심각함</SecondaryDamage.stages.2.label>
+  <Sepsis.stages.4.label>심각함</Sepsis.stages.4.label>
+  <Toothache.stages.3.label>심각함</Toothache.stages.3.label>
+  <Tuberculosis.stages.3.label>심각함</Tuberculosis.stages.3.label>
+  <VoightBernsteinDisease.stages.3.label>심각함</VoightBernsteinDisease.stages.3.label>
+  <VoightBernsteinDiseaseTumors.stages.2.label>심각함</VoightBernsteinDiseaseTumors.stages.2.label>
+  <HepatitisK.stages.1.label>심각함 거부 반응</HepatitisK.stages.1.label>
+  <HepatitisK.stages.3.label>심각함 바이러스 활동</HepatitisK.stages.3.label>
+  <MortracainTolerance.stages.3.label>심각</MortracainTolerance.stages.3.label>
+  <TranquiazepinTolerance.stages.3.label>심각</TranquiazepinTolerance.stages.3.label>
+  <MethylanphenamidHigh.label>메틸랜페나미드 효과</MethylanphenamidHigh.label>
+  <Migraine.label>편두통</Migraine.label>
+  <LymphaticMechanites.stages.0.label>가벼운 고통</LymphaticMechanites.stages.0.label>
+  <Unease.stages.1.label>가벼움</Unease.stages.1.label>
+  <Appendicitis.stages.0.label>가벼움</Appendicitis.stages.0.label>
+  <BadBack.stages.2.label>가벼움</BadBack.stages.2.label>
+  <BenignGrowth.stages.1.label>가벼움</BenignGrowth.stages.1.label>
+  <BloodCancer.stages.1.label>가벼움</BloodCancer.stages.1.label>
+  <Cataract.stages.2.label>가벼움</Cataract.stages.2.label>
+  <CerebralArteryStenosis.stages.2.label>가벼움</CerebralArteryStenosis.stages.2.label>
+  <Chawbaecks.stages.2.label>가벼움</Chawbaecks.stages.2.label>
+  <Cirrhosis.stages.1.label>가벼움</Cirrhosis.stages.1.label>
+  <CryptosleepSickness.stages.0.label>가벼움</CryptosleepSickness.stages.0.label>
+  <Dementia.stages.1.label>가벼움</Dementia.stages.1.label>
+  <Frail.stages.0.label>가벼움</Frail.stages.0.label>
+  <HansenKampffDisease.stages.2.label>가벼움</HansenKampffDisease.stages.2.label>
+  <HearingLoss.stages.2.label>가벼움</HearingLoss.stages.2.label>
+  <Inflammation.stages.2.label>가벼움</Inflammation.stages.2.label>
+  <KindredDickVirus.stages.1.label>가벼움</KindredDickVirus.stages.1.label>
+  <Migraine.stages.1.label>가벼움</Migraine.stages.1.label>
+  <MultipleSclerosis.stages.1.label>가벼움</MultipleSclerosis.stages.1.label>
+  <Necrosis.stages.1.label>가벼움</Necrosis.stages.1.label>
+  <NewReschianFever.stages.1.label>가벼움</NewReschianFever.stages.1.label>
+  <Osteoporosis.stages.3.label>가벼움</Osteoporosis.stages.3.label>
+  <Parkinsons.stages.1.label>가벼움</Parkinsons.stages.1.label>
+  <PeripheralPathwayObstructionStage1.stages.2.label>가벼움</PeripheralPathwayObstructionStage1.stages.2.label>
+  <PeripheralPathwayObstructionStage2.stages.2.label>가벼움</PeripheralPathwayObstructionStage2.stages.2.label>
+  <PeripheralPathwayObstructionStageLS3.stages.2.label>가벼움</PeripheralPathwayObstructionStageLS3.stages.2.label>
+  <PeripheralPathwayObstructionStageLS4.stages.2.label>가벼움</PeripheralPathwayObstructionStageLS4.stages.2.label>
+  <PeripheralPathwayObstructionStageLL3.stages.2.label>가벼움</PeripheralPathwayObstructionStageLL3.stages.2.label>
+  <PeripheralPathwayObstructionStageRS3.stages.2.label>가벼움</PeripheralPathwayObstructionStageRS3.stages.2.label>
+  <PeripheralPathwayObstructionStageRS4.stages.2.label>가벼움</PeripheralPathwayObstructionStageRS4.stages.2.label>
+  <PeripheralPathwayObstructionStageRL3.stages.2.label>가벼움</PeripheralPathwayObstructionStageRL3.stages.2.label>
+  <SecondaryDamage.stages.0.label>가벼움</SecondaryDamage.stages.0.label>
+  <Sepsis.stages.2.label>가벼움</Sepsis.stages.2.label>
+  <Toothache.stages.1.label>가벼움</Toothache.stages.1.label>
+  <Tuberculosis.stages.1.label>가벼움</Tuberculosis.stages.1.label>
+  <VoightBernsteinDisease.stages.1.label>가벼움</VoightBernsteinDisease.stages.1.label>
+  <VoightBernsteinDiseaseTumors.stages.0.label>가벼움</VoightBernsteinDiseaseTumors.stages.0.label>
+  <Unease.stages.2.label>가벼움</Unease.stages.2.label>
+  <BadBack.stages.3.label>가벼움</BadBack.stages.3.label>
+  <BenignGrowth.stages.2.label>가벼움</BenignGrowth.stages.2.label>
+  <BloodCancer.stages.2.label>가벼움</BloodCancer.stages.2.label>
+  <Cataract.stages.3.label>가벼움</Cataract.stages.3.label>
+  <CerebralArteryStenosis.stages.3.label>가벼움</CerebralArteryStenosis.stages.3.label>
+  <Chawbaecks.stages.3.label>가벼움</Chawbaecks.stages.3.label>
+  <Cirrhosis.stages.2.label>가벼움</Cirrhosis.stages.2.label>
+  <CryptosleepSickness.stages.1.label>가벼움</CryptosleepSickness.stages.1.label>
+  <Dementia.stages.2.label>가벼움</Dementia.stages.2.label>
+  <Frail.stages.1.label>가벼움</Frail.stages.1.label>
+  <HansenKampffDisease.stages.3.label>가벼움</HansenKampffDisease.stages.3.label>
+  <HearingLoss.stages.3.label>가벼움</HearingLoss.stages.3.label>
+  <Inflammation.stages.3.label>가벼움</Inflammation.stages.3.label>
+  <KindredDickVirus.stages.2.label>가벼움</KindredDickVirus.stages.2.label>
+  <Migraine.stages.2.label>가벼움</Migraine.stages.2.label>
+  <MultipleSclerosis.stages.2.label>가벼움</MultipleSclerosis.stages.2.label>
+  <Necrosis.stages.2.label>가벼움</Necrosis.stages.2.label>
+  <NewReschianFever.stages.2.label>가벼움</NewReschianFever.stages.2.label>
+  <Osteoporosis.stages.4.label>가벼움</Osteoporosis.stages.4.label>
+  <Parkinsons.stages.2.label>가벼움</Parkinsons.stages.2.label>
+  <PeripheralPathwayObstructionStage1.stages.3.label>가벼움</PeripheralPathwayObstructionStage1.stages.3.label>
+  <PeripheralPathwayObstructionStage2.stages.3.label>가벼움</PeripheralPathwayObstructionStage2.stages.3.label>
+  <PeripheralPathwayObstructionStageLS3.stages.3.label>가벼움</PeripheralPathwayObstructionStageLS3.stages.3.label>
+  <PeripheralPathwayObstructionStageLS4.stages.3.label>가벼움</PeripheralPathwayObstructionStageLS4.stages.3.label>
+  <PeripheralPathwayObstructionStageLL3.stages.3.label>가벼움</PeripheralPathwayObstructionStageLL3.stages.3.label>
+  <PeripheralPathwayObstructionStageRS3.stages.3.label>가벼움</PeripheralPathwayObstructionStageRS3.stages.3.label>
+  <PeripheralPathwayObstructionStageRS4.stages.3.label>가벼움</PeripheralPathwayObstructionStageRS4.stages.3.label>
+  <PeripheralPathwayObstructionStageRL3.stages.3.label>가벼움</PeripheralPathwayObstructionStageRL3.stages.3.label>
+  <SecondaryDamage.stages.1.label>가벼움</SecondaryDamage.stages.1.label>
+  <Sepsis.stages.3.label>가벼움</Sepsis.stages.3.label>
+  <Toothache.stages.2.label>가벼움</Toothache.stages.2.label>
+  <Tuberculosis.stages.2.label>가벼움</Tuberculosis.stages.2.label>
+  <VoightBernsteinDisease.stages.2.label>가벼움</VoightBernsteinDisease.stages.2.label>
+  <VoightBernsteinDiseaseTumors.stages.1.label>가벼움</VoightBernsteinDiseaseTumors.stages.1.label>
+  <LymphaticMechanites.stages.1.label>심각한 고통</LymphaticMechanites.stages.1.label>
+  <MortracainHigh.label>몰트라카인 효과</MortracainHigh.label>
+  <MortracainAddiction.label>몰트라카인 중독</MortracainAddiction.label>
+  <MortracainTolerance.label>몰트라카인 내성</MortracainTolerance.label>
+  <MultipleSclerosis.label>다발성 경화증</MultipleSclerosis.label>
+  <Necrosis.label>괴사</Necrosis.label>
+  <NewReschianFever.label>신종 대장균 열병</NewReschianFever.label>
+  <Osteoporosis.label>골다공증</Osteoporosis.label>
+  <Stroke.stages.0.label>고통</Stroke.stages.0.label>
+  <StomachUlcer.stages.1.label>고통</StomachUlcer.stages.1.label>
+  <Parkinsons.label>파킨슨병</Parkinsons.label>
+  <PeripheralPathwayObstruction.label>말초 신경 장애</PeripheralPathwayObstruction.label>
+  <PeripheralPathwayObstructionStage1.label>말초 신경 장애</PeripheralPathwayObstructionStage1.label>
+  <PeripheralPathwayObstructionStage2.label>말초 신경 장애</PeripheralPathwayObstructionStage2.label>
+  <PeripheralPathwayObstructionStageLS3.label>말초 신경 장애</PeripheralPathwayObstructionStageLS3.label>
+  <PeripheralPathwayObstructionStageLS4.label>말초 신경 장애</PeripheralPathwayObstructionStageLS4.label>
+  <PeripheralPathwayObstructionStageLL3.label>말초 신경 장애</PeripheralPathwayObstructionStageLL3.label>
+  <PeripheralPathwayObstructionStageRS3.label>말초 신경 장애</PeripheralPathwayObstructionStageRS3.label>
+  <PeripheralPathwayObstructionStageRS4.label>말초 신경 장애</PeripheralPathwayObstructionStageRS4.label>
+  <PeripheralPathwayObstructionStageRL3.label>말초 신경 장애</PeripheralPathwayObstructionStageRL3.label>
+  <PTSD.label>외상 후 스트레스 장애</PTSD.label>
+  <PsoriasisInterna.label>국지적 건선</PsoriasisInterna.label>
+  <Psoriasis.label>건선</Psoriasis.label>
+  <SecondaryDamage.label>이차 손상</SecondaryDamage.label>
+  <Sepsis.label>패혈증</Sepsis.label>
+  <BadBack.stages.6.label>심각함</BadBack.stages.6.label>
+  <BloodCancer.stages.4.label>심각함</BloodCancer.stages.4.label>
+  <Cataract.stages.6.label>심각함</Cataract.stages.6.label>
+  <Chawbaecks.stages.5.label>심각함</Chawbaecks.stages.5.label>
+  <HansenKampffDisease.stages.5.label>심각함</HansenKampffDisease.stages.5.label>
+  <HearingLoss.stages.6.label>심각함</HearingLoss.stages.6.label>
+  <Inflammation.stages.5.label>심각함</Inflammation.stages.5.label>
+  <KindredDickVirus.stages.4.label>심각함</KindredDickVirus.stages.4.label>
+  <MultipleSclerosis.stages.4.label>심각함</MultipleSclerosis.stages.4.label>
+  <Necrosis.stages.4.label>심각함</Necrosis.stages.4.label>
+  <Osteoporosis.stages.6.label>심각함</Osteoporosis.stages.6.label>
+  <Parkinsons.stages.4.label>심각함</Parkinsons.stages.4.label>
+  <PeripheralPathwayObstructionStage1.stages.5.label>심각함</PeripheralPathwayObstructionStage1.stages.5.label>
+  <PeripheralPathwayObstructionStage2.stages.5.label>심각함</PeripheralPathwayObstructionStage2.stages.5.label>
+  <PeripheralPathwayObstructionStageLS3.stages.5.label>심각함</PeripheralPathwayObstructionStageLS3.stages.5.label>
+  <PeripheralPathwayObstructionStageLS4.stages.5.label>심각함</PeripheralPathwayObstructionStageLS4.stages.5.label>
+  <PeripheralPathwayObstructionStageLL3.stages.5.label>심각함</PeripheralPathwayObstructionStageLL3.stages.5.label>
+  <PeripheralPathwayObstructionStageRS3.stages.5.label>심각함</PeripheralPathwayObstructionStageRS3.stages.5.label>
+  <PeripheralPathwayObstructionStageRS4.stages.5.label>심각함</PeripheralPathwayObstructionStageRS4.stages.5.label>
+  <PeripheralPathwayObstructionStageRL3.stages.5.label>심각함</PeripheralPathwayObstructionStageRL3.stages.5.label>
+  <Sepsis.stages.5.label>심각함</Sepsis.stages.5.label>
+  <VoightBernsteinDisease.stages.4.label>심각함</VoightBernsteinDisease.stages.4.label>
+  <VoightBernsteinDiseaseTumors.stages.3.label>심각함</VoightBernsteinDiseaseTumors.stages.3.label>
+  <Unease.stages.4.label>심각함</Unease.stages.4.label>
+  <Alzheimers.stages.4.label>심각함</Alzheimers.stages.4.label>
+  <Asthma.stages.3.label>심각함</Asthma.stages.3.label>
+  <BadBack.stages.7.label>심각함</BadBack.stages.7.label>
+  <BenignGrowth.stages.4.label>심각함</BenignGrowth.stages.4.label>
+  <BloodCancer.stages.5.label>심각함</BloodCancer.stages.5.label>
+  <Cataract.stages.7.label>심각함</Cataract.stages.7.label>
+  <CerebralArteryStenosis.stages.5.label>심각함</CerebralArteryStenosis.stages.5.label>
+  <Chawbaecks.stages.6.label>심각함</Chawbaecks.stages.6.label>
+  <Cirrhosis.stages.4.label>심각함</Cirrhosis.stages.4.label>
+  <HansenKampffDisease.stages.6.label>심각함</HansenKampffDisease.stages.6.label>
+  <HearingLoss.stages.7.label>심각함</HearingLoss.stages.7.label>
+  <HeartArteryBlockage.stages.5.label>심각함</HeartArteryBlockage.stages.5.label>
+  <Inflammation.stages.6.label>심각함</Inflammation.stages.6.label>
+  <KindredDickVirus.stages.5.label>심각함</KindredDickVirus.stages.5.label>
+  <Migraine.stages.4.label>심각함</Migraine.stages.4.label>
+  <MultipleSclerosis.stages.5.label>심각함</MultipleSclerosis.stages.5.label>
+  <Necrosis.stages.5.label>심각함</Necrosis.stages.5.label>
+  <NewReschianFever.stages.4.label>심각함</NewReschianFever.stages.4.label>
+  <Osteoporosis.stages.7.label>심각함</Osteoporosis.stages.7.label>
+  <Parkinsons.stages.5.label>심각함</Parkinsons.stages.5.label>
+  <PeripheralPathwayObstructionStage1.stages.6.label>심각함</PeripheralPathwayObstructionStage1.stages.6.label>
+  <PeripheralPathwayObstructionStage2.stages.6.label>심각함</PeripheralPathwayObstructionStage2.stages.6.label>
+  <PeripheralPathwayObstructionStageLS3.stages.6.label>심각함</PeripheralPathwayObstructionStageLS3.stages.6.label>
+  <PeripheralPathwayObstructionStageLS4.stages.6.label>심각함</PeripheralPathwayObstructionStageLS4.stages.6.label>
+  <PeripheralPathwayObstructionStageLL3.stages.6.label>심각함</PeripheralPathwayObstructionStageLL3.stages.6.label>
+  <PeripheralPathwayObstructionStageRS3.stages.6.label>심각함</PeripheralPathwayObstructionStageRS3.stages.6.label>
+  <PeripheralPathwayObstructionStageRS4.stages.6.label>심각함</PeripheralPathwayObstructionStageRS4.stages.6.label>
+  <PeripheralPathwayObstructionStageRL3.stages.6.label>심각함</PeripheralPathwayObstructionStageRL3.stages.6.label>
+  <Plague.stages.4.label>심각함</Plague.stages.4.label>
+  <SecondaryDamage.stages.3.label>심각함</SecondaryDamage.stages.3.label>
+  <Sepsis.stages.6.label>심각함</Sepsis.stages.6.label>
+  <Tuberculosis.stages.4.label>심각함</Tuberculosis.stages.4.label>
+  <VoightBernsteinDisease.stages.5.label>심각함</VoightBernsteinDisease.stages.5.label>
+  <VoightBernsteinDiseaseTumors.stages.4.label>심각함</VoightBernsteinDiseaseTumors.stages.4.label>
+  <WoundInfection.stages.4.label>심각함</WoundInfection.stages.4.label>
+  <MortracainTolerance.stages.0.label>약함</MortracainTolerance.stages.0.label>
+  <MortracainTolerance.stages.1.label>약함</MortracainTolerance.stages.1.label>
+  <TranquiazepinTolerance.stages.0.label>약함</TranquiazepinTolerance.stages.0.label>
+  <TranquiazepinTolerance.stages.1.label>약함</TranquiazepinTolerance.stages.1.label>
+  <BadBack.stages.1.label>초기</BadBack.stages.1.label>
+  <Cataract.stages.1.label>초기</Cataract.stages.1.label>
+  <Chawbaecks.stages.1.label>초기</Chawbaecks.stages.1.label>
+  <HansenKampffDisease.stages.1.label>초기</HansenKampffDisease.stages.1.label>
+  <HearingLoss.stages.1.label>초기</HearingLoss.stages.1.label>
+  <Inflammation.stages.1.label>초기</Inflammation.stages.1.label>
+  <Osteoporosis.stages.2.label>초기</Osteoporosis.stages.2.label>
+  <PeripheralPathwayObstructionStage1.stages.1.label>초기</PeripheralPathwayObstructionStage1.stages.1.label>
+  <Sepsis.stages.1.label>초기</Sepsis.stages.1.label>
+  <PeripheralPathwayObstructionStage2.stages.1.label>가벼움</PeripheralPathwayObstructionStage2.stages.1.label>
+  <PeripheralPathwayObstructionStageLS3.stages.1.label>가벼움</PeripheralPathwayObstructionStageLS3.stages.1.label>
+  <PeripheralPathwayObstructionStageLS4.stages.1.label>가벼움</PeripheralPathwayObstructionStageLS4.stages.1.label>
+  <PeripheralPathwayObstructionStageLL3.stages.1.label>가벼움</PeripheralPathwayObstructionStageLL3.stages.1.label>
+  <PeripheralPathwayObstructionStageRS3.stages.1.label>가벼움</PeripheralPathwayObstructionStageRS3.stages.1.label>
+  <PeripheralPathwayObstructionStageRS4.stages.1.label>가벼움</PeripheralPathwayObstructionStageRS4.stages.1.label>
+  <PeripheralPathwayObstructionStageRL3.stages.1.label>가벼움</PeripheralPathwayObstructionStageRL3.stages.1.label>
+  <BardelSyndrome.stages.0.label>0 단계: 잠재적</BardelSyndrome.stages.0.label>
+  <CampbellsDisease.stages.0.label>0 단계: 잠재적</CampbellsDisease.stages.0.label>
+  <CampbellsDisease.stages.1.label>1 단계: 인지력 억제</CampbellsDisease.stages.1.label>
+  <BardelSyndrome.stages.1.label>1 단계: 혼란</BardelSyndrome.stages.1.label>
+  <CampbellsDisease.stages.2.label>2 단계: 환각증상</CampbellsDisease.stages.2.label>
+  <BardelSyndrome.stages.2.label>2 단계: 정신장애</BardelSyndrome.stages.2.label>
+  <CampbellsDisease.stages.3.label>3 단계: 망상증</CampbellsDisease.stages.3.label>
+  <BardelSyndrome.stages.3.label>3 단계: 겁먹음</BardelSyndrome.stages.3.label>
+  <CampbellsDisease.stages.4.label>4 단계: 정신분열</CampbellsDisease.stages.4.label>
+  <BardelSyndrome.stages.4.label>4 단계: 분노</BardelSyndrome.stages.4.label>
+  <StomachUlcer.label>위궤양</StomachUlcer.label>
+  <Stroke.label>뇌졸중</Stroke.label>
+  <Stupor.label>혼미상태</Stupor.label>
+  <SuicideBrain.label>자살 (두부파열)</SuicideBrain.label>
+  <SuicideStomach.label>자살 (독)</SuicideStomach.label>
+  <SuicideHeart.label>자살 (출혈)</SuicideHeart.label>
+  <SuicideLung.label>자살 (질식)</SuicideLung.label>
+  <SuicideAttempt.label>자살 시도</SuicideAttempt.label>
+  <SuicidePreparation.label>자살 준비</SuicidePreparation.label>
+  <Migraine.stages.0.label>잠재적</Migraine.stages.0.label>
+  <StomachUlcer.stages.0.label>잠재적</StomachUlcer.stages.0.label>
+  <Toothache.label>치통</Toothache.label>
+  <TranquiazepinHigh.label>트란키아제핀 효과</TranquiazepinHigh.label>
+  <TranquiazepinAddiction.label>트란키아제핀 중독</TranquiazepinAddiction.label>
+  <TranquiazepinTolerance.label>트란키아제핀 내성</TranquiazepinTolerance.label>
+  <TraumaSavant1.label>정신적 외상</TraumaSavant1.label>
+  <TraumaSavant2.label>정신적 외상</TraumaSavant2.label>
+  <TraumaSavant3.label>정신적 외상</TraumaSavant3.label>
+  <TraumaSavant4.label>정신적 외상</TraumaSavant4.label>
+  <TraumaSavant5.label>정신적 외상</TraumaSavant5.label>
+  <TraumaSavant6.label>정신적 외상</TraumaSavant6.label>
+  <TraumaSavant7.label>정신적 외상</TraumaSavant7.label>
+  <TritoxylonHigh.label>트리톡실리온 약효</TritoxylonHigh.label>
+  <Tuberculosis.label>결핵</Tuberculosis.label>
+  <BrainDamage.stages.0.label>무의식</BrainDamage.stages.0.label>
+  <InducedComaForever.stages.1.label>알 수 없는 기간</InducedComaForever.stages.1.label>
+  <VegetableBrothHigh.label>야채 스톡 효과</VegetableBrothHigh.label>
+  <VoightBernsteinDisease.label>보이트-번스타인병</VoightBernsteinDisease.label>
+  <VoightBernsteinDiseaseTumors.label>보이트-번스타인 종양</VoightBernsteinDiseaseTumors.label>
+  <MortracainAddiction.stages.1.label>금단현상</MortracainAddiction.stages.1.label>
+  <TranquiazepinAddiction.stages.1.label>금단현상</TranquiazepinAddiction.stages.1.label>
+
+  <!--1559136016_181118_Crafted Mutants-->
+  <AdditionalAdvancedBionicArm.label>추가 고급 생체공학 팔</AdditionalAdvancedBionicArm.label>
+  <AdditionalAdvancedBionicEar.label>추가 고급 생체공학 귀</AdditionalAdvancedBionicEar.label>
+  <AdditionalAdvancedPowerArm.label>추가 고급 동력 팔</AdditionalAdvancedPowerArm.label>
+  <AdditionalBionicArm.label>추가 생체공학 팔</AdditionalBionicArm.label>
+  <AdditionalBionicEar.label>추가 생체공학 귀</AdditionalBionicEar.label>
+  <AdditionalPowerArm.label>추가 동력 팔</AdditionalPowerArm.label>
+  <AdditionalSyntheticKidney.label>부가적인 합성 신장</AdditionalSyntheticKidney.label>
+  <AdditionalSyntheticLung.label>추가 합성 폐</AdditionalSyntheticLung.label>
+  <SecondSyntheticHeart.label>부가적인 합성 심방</SecondSyntheticHeart.label>
+  <AdditionalArm.label>추가 팔</AdditionalArm.label>
+  <AdditionalEar.label>추가 귀</AdditionalEar.label>
+  <AdditionalKidney.label>추가 신장</AdditionalKidney.label>
+  <AdditionalLung.label>추가 폐</AdditionalLung.label>
+  <SecondHeart.label>부가적인 심방</SecondHeart.label>
+  <AIChip.label>인공지능 칩</AIChip.label>
+  <AIPersonaCore.label>인공지능 핵</AIPersonaCore.label>
+  <BrainStimulator.label>두뇌 자극기</BrainStimulator.label>
+  <CentipedeTail.label>지네 꼬리</CentipedeTail.label>
+  <MuscleStimulatorArms.label>팔근육 자극기</MuscleStimulatorArms.label>
+  <MuscleStimulatorLegs.label>다리근육 자극기</MuscleStimulatorLegs.label>
+  <SecondSyntheticSpleen.label>두 번째 합성 비장</SecondSyntheticSpleen.label>
+  <SecondSyntheticStomach.label>두 번째 합성 위</SecondSyntheticStomach.label>
+  <SecondSpleen.label>두 번째 비장</SecondSpleen.label>
+  <SecondStomach.label>두 번째 위</SecondStomach.label>
+  <AdditionalAdvancedBionicSpine.label>고급 생체공학 척추</AdditionalAdvancedBionicSpine.label>
+  <AdditionalBionicSpine.label>생체공학 척추</AdditionalBionicSpine.label>
+  <SurrogateHeart.label>심장 유지장치</SurrogateHeart.label>
+  <SurrogateKidney.label>신장 유지장치</SurrogateKidney.label>
+  <SurrogateLiver.label>간 유지장치</SurrogateLiver.label>
+  <SurrogateLung.label>폐 유지장치</SurrogateLung.label>
+  <SurrogateSpleen.label>비장 유지장치</SurrogateSpleen.label>
+  <SurrogateStomach.label>위 유지장치</SurrogateStomach.label>
+  <SyntheticHeart.label>합성 심장</SyntheticHeart.label>
+  <SyntheticKidney.label>합성 신장</SyntheticKidney.label>
+  <SyntheticLiver.label>합성 간</SyntheticLiver.label>
+  <SyntheticLung.label>합성 폐</SyntheticLung.label>
+  <SyntheticSpleen.label>합성 비장</SyntheticSpleen.label>
+  <SyntheticStomach.label>합성 위</SyntheticStomach.label>
+  <TacticalCorneaImplant.label>전술 각막</TacticalCorneaImplant.label>
+  <ThirdAdvancedBionicEye.label>추가 고급 생체공학 눈</ThirdAdvancedBionicEye.label>
+  <ThirdAdvancedBionicLeg.label>추가 고급 생체공학 다리</ThirdAdvancedBionicLeg.label>
+  <ThirdBionicEye.label>추가 생체공학 눈</ThirdBionicEye.label>
+  <ThirdBionicLeg.label>추가 생체공학 다리</ThirdBionicLeg.label>
+  <SecondSyntheticLiver.label>두 번째 합성 간</SecondSyntheticLiver.label>
+  <ThirdEye.label>세 번째 눈</ThirdEye.label>
+  <ThirdLeg.label>세 번째 다리</ThirdLeg.label>
+  <SecondLiver.label>두 번째 간</SecondLiver.label>
+
+  <!--1560792909_181119_BloodTypes + BloodBag-->
+  <BloodType.label>혈액형</BloodType.label>
+
+  <!--1563793492_190519_Milkable Colonists-->
+  <Lact-XHigh.labelNoun>Lact-X에 취함</Lact-XHigh.labelNoun>
+  <Lact-XHigh.label>Lact-X에 취함</Lact-XHigh.label>
+  <Lact-XAddiction.label>Lact-X 중독</Lact-XAddiction.label>
+  <Lact-XTolerance.label>Lact-X 내성</Lact-XTolerance.label>
+  <Lactating_Drug.label>모유분비 됨 (약물투여)</Lactating_Drug.label>
+  <Lactating_Natural.label>모유분비 됨 (자연현상)</Lactating_Natural.label>
+  <Lactating_Permanent.label>모유분비 중 (영구적)</Lactating_Permanent.label>
+  <Lact-XTolerance.stages.2.label>강함</Lact-XTolerance.stages.2.label>
+  <Lact-XTolerance.stages.3.label>심각</Lact-XTolerance.stages.3.label>
+  <Lact-XTolerance.stages.0.label>약함</Lact-XTolerance.stages.0.label>
+  <Lact-XTolerance.stages.1.label>약함</Lact-XTolerance.stages.1.label>
+  <Lact-XAddiction.stages.1.label>금단현상</Lact-XAddiction.stages.1.label>
+
+  <!--1569056149_190519_Plasteel Surgery-->
+  <PS_HediffDefs_BotchedLaryngoplasty.label>망가진 후두부 성형술</PS_HediffDefs_BotchedLaryngoplasty.label>
+
+  <!--1585165593_190606_Chemical Weather-->
+  <ChemicalBuildup.stages.5.label>흡수</ChemicalBuildup.stages.5.label>
+  <AlcoholHigh.stages.5.label>인사불성</AlcoholHigh.stages.5.label>
+  <ChemicalBuildup.label>화학물질 축적</ChemicalBuildup.label>
+  <ChemicalBuildup.stages.4.label>증가</ChemicalBuildup.stages.4.label>
+  <ChemicalBuildup.stages.2.label>강함</ChemicalBuildup.stages.2.label>
+  <ChemicalBuildup.stages.3.label>심각</ChemicalBuildup.stages.3.label>
+  <ChemicalBuildup.stages.1.label>약함</ChemicalBuildup.stages.1.label>
+
+  <!--1601812699_190519_More Medications - Reborn-->
+  <AdhdMedication.label>ADHD 약물</AdhdMedication.label>
+  <Antidepressants.label>항우울제</Antidepressants.label>
+  <MedicalDrink.label>의료용 음료</MedicalDrink.label>
+  <Multivitamins.label>종합 비타민제</Multivitamins.label>
+  <Painkillers.label>소염 진통제</Painkillers.label>
+  <SleepingPills.label>수면제</SleepingPills.label>
+
+  <!--1635565299_190714_Simple_Slavery-->
+  <Enslaved.label>노예됨 (숨겨짐)</Enslaved.label>
+  <SlaveMemory.label>종속 기억 (숨겨짐)</SlaveMemory.label>
+  <Hediff_EmancipateFix.label>특정 버그를 수정합니다</Hediff_EmancipateFix.label>
+  <Crypto_Stasis.label>정지 암호화 상태</Crypto_Stasis.label>
+  <Electrocuted.label>감전됨</Electrocuted.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <ReligionAddiction.stages.1.label>우울함</ReligionAddiction.stages.1.label>
+  <ReligionTolerance.stages.2.label>강함</ReligionTolerance.stages.2.label>
+  <ReligionTolerance.stages.3.label>심각</ReligionTolerance.stages.3.label>
+  <ReligionAddiction.label>종교활동 욕구</ReligionAddiction.label>
+  <ReligionTolerance.label>종교 허용</ReligionTolerance.label>
+  <ReligionTolerance.stages.0.label>약함</ReligionTolerance.stages.0.label>
+  <ReligionTolerance.stages.1.label>약함</ReligionTolerance.stages.1.label>
+
+  <!--1684913377_190519_More Diseases-->
+  <FlatFeet.stages.0.label>1기</FlatFeet.stages.0.label>
+  <FlatFeet.stages.1.label>2기</FlatFeet.stages.1.label>
+  <FlatFeet.stages.2.label>3기</FlatFeet.stages.2.label>
+  <FlatFeet.stages.3.label>4기</FlatFeet.stages.3.label>
+  <ChronicTonsillitis.labelNoun>만성 편도염</ChronicTonsillitis.labelNoun>
+  <Diabetes.labelNoun>당뇨병</Diabetes.labelNoun>
+  <FlatFeet.labelNoun>평발</FlatFeet.labelNoun>
+  <GastricUlcer.labelNoun>위궤양</GastricUlcer.labelNoun>
+  <HeartFailure.labelNoun>심부전</HeartFailure.labelNoun>
+  <MitralValveProlapse.labelNoun>승모판 탈출증</MitralValveProlapse.labelNoun>
+  <PermanentHeadache.labelNoun>지속적 두통</PermanentHeadache.labelNoun>
+  <AIDS.label>후천 면역 결핍증</AIDS.label>
+  <ChronicTonsillitis.label>만성 편도염</ChronicTonsillitis.label>
+  <Diabetes.label>당뇨병</Diabetes.label>
+  <AIDS.stages.3.label>극심함</AIDS.stages.3.label>
+  <Tonsillitis.stages.3.label>극심함</Tonsillitis.stages.3.label>
+  <Smallpox.stages.2.label>극심함</Smallpox.stages.2.label>
+  <FlatFeet.label>평발</FlatFeet.label>
+  <GastricUlcer.label>위궤양</GastricUlcer.label>
+  <HeartFailure.label>심부전</HeartFailure.label>
+  <Diabetes.stages.3.label>치명적</Diabetes.stages.3.label>
+  <Diabetes.stages.1.label>심각함</Diabetes.stages.1.label>
+  <Diabetes.stages.2.label>심각함</Diabetes.stages.2.label>
+  <GastricUlcer.stages.1.label>심각함</GastricUlcer.stages.1.label>
+  <AIDS.stages.1.label>심각함</AIDS.stages.1.label>
+  <AIDS.stages.2.label>심각함</AIDS.stages.2.label>
+  <Tonsillitis.stages.1.label>심각함</Tonsillitis.stages.1.label>
+  <Tonsillitis.stages.2.label>심각함</Tonsillitis.stages.2.label>
+  <Smallpox.stages.1.label>심각함</Smallpox.stages.1.label>
+  <Diabetes.stages.0.label>가벼움</Diabetes.stages.0.label>
+  <GastricUlcer.stages.0.label>가벼움</GastricUlcer.stages.0.label>
+  <AIDS.stages.0.label>가벼움</AIDS.stages.0.label>
+  <Tonsillitis.stages.0.label>가벼움</Tonsillitis.stages.0.label>
+  <Smallpox.stages.0.label>가벼움</Smallpox.stages.0.label>
+  <MitralValveProlapse.label>승모판 탈출증</MitralValveProlapse.label>
+  <PermanentHeadache.label>지속적 두통</PermanentHeadache.label>
+  <GastricUlcer.stages.2.label>극심함</GastricUlcer.stages.2.label>
+  <Smallpox.label>천연두</Smallpox.label>
+  <SmallpoxScars.label>천연두 흉터</SmallpoxScars.label>
+  <Tonsillitis.label>편도염</Tonsillitis.label>
+
+  <!--1709963396_190519_Down For Me-->
+  <aRandomKiwi_DFM_WTBD.label>쓰러진 척하는 중</aRandomKiwi_DFM_WTBD.label>
+  <aRandomKiwi_DFM_WTBD.labelNoun>고통에 겨워 쓰러진 척 합니다.</aRandomKiwi_DFM_WTBD.labelNoun>
+
+  <!--1714572710_190606_Rimstro-->
+  <RS_power_up.stages.0.label>건강식을 먹음</RS_power_up.stages.0.label>
+  <RS_heal_up.stages.0.label>영양가 있는 식사를 함</RS_heal_up.stages.0.label>
+  <RS_work_up.stages.0.label>특별한 식사를 함</RS_work_up.stages.0.label>
+  <RS_heal_up.label>기운 회복</RS_heal_up.label>
+  <RS_power_up.label>전투 강화</RS_power_up.label>
+  <RS_work_up.label>맑은 정신</RS_work_up.label>
+
+  <!--1741117080_190526_Grenades Expanded-->
+  <Trunken_hediff_ToxicBrew.label>&lt;color=#07a60e>독성 가스&lt;/color></Trunken_hediff_ToxicBrew.label>
+  <Trunken_hediff_Stings.label>&lt;color=#0ff51a>말벌 독&lt;/color></Trunken_hediff_Stings.label>
+  <Trunken_hediff_Poison.label>&lt;color=#11bf6b>중독&lt;/color></Trunken_hediff_Poison.label>
+  <Trunken_hediff_Plasma.label>&lt;color=#22a1b5>플라즈마 낙인&lt;/color></Trunken_hediff_Plasma.label>
+  <Trunken_hediff_Chemicals.label>&lt;color=#54bf11>화학적 화상&lt;/color></Trunken_hediff_Chemicals.label>
+  <Trunken_hediff_Shrapnels.label>&lt;color=#c48b0e>파편&lt;/color></Trunken_hediff_Shrapnels.label>
+  <Trunken_hediff_Shrapnels.labelNoun>파편으로 인한 상처</Trunken_hediff_Shrapnels.labelNoun>
+  <Trunken_hediff_Shrapnels.comps.0.labelTendedWell>붕대 감음</Trunken_hediff_Shrapnels.comps.0.labelTendedWell>
+  <Trunken_hediff_Shrapnels.injuryProps.destroyedLabel>끊어짐</Trunken_hediff_Shrapnels.injuryProps.destroyedLabel>
+  <Trunken_hediff_Plasma.injuryProps.destroyedLabel>끊어짐</Trunken_hediff_Plasma.injuryProps.destroyedLabel>
+  <Trunken_hediff_Shrapnels.injuryProps.destroyedOutLabel>잘림</Trunken_hediff_Shrapnels.injuryProps.destroyedOutLabel>
+  <Trunken_hediff_Plasma.injuryProps.destroyedOutLabel>잘림</Trunken_hediff_Plasma.injuryProps.destroyedOutLabel>
+  <Trunken_hediff_Stings.injuryProps.destroyedLabel>죽어버림</Trunken_hediff_Stings.injuryProps.destroyedLabel>
+  <Trunken_hediff_Stings.injuryProps.destroyedOutLabel>죽어버림</Trunken_hediff_Stings.injuryProps.destroyedOutLabel>
+  <Trunken_hediff_Stings.stages.4.label>극심함</Trunken_hediff_Stings.stages.4.label>
+  <Trunken_hediff_Chemicals.stages.4.label>극심함</Trunken_hediff_Chemicals.stages.4.label>
+  <Trunken_hediff_Stings.stages.0.label>사소함</Trunken_hediff_Stings.stages.0.label>
+  <Trunken_hediff_Chemicals.stages.0.label>사소함</Trunken_hediff_Chemicals.stages.0.label>
+  <Trunken_hediff_Stings.stages.1.label>가벼움</Trunken_hediff_Stings.stages.1.label>
+  <Trunken_hediff_Chemicals.stages.1.label>가벼움</Trunken_hediff_Chemicals.stages.1.label>
+  <Trunken_hediff_Stings.stages.2.label>진행됨</Trunken_hediff_Stings.stages.2.label>
+  <Trunken_hediff_Chemicals.stages.2.label>진행됨</Trunken_hediff_Chemicals.stages.2.label>
+  <Trunken_hediff_ToxicBrew.injuryProps.destroyedLabel>그을려버림</Trunken_hediff_ToxicBrew.injuryProps.destroyedLabel>
+  <Trunken_hediff_Chemicals.injuryProps.destroyedLabel>그을려버림</Trunken_hediff_Chemicals.injuryProps.destroyedLabel>
+  <Trunken_hediff_ToxicBrew.injuryProps.destroyedOutLabel>그을려버림</Trunken_hediff_ToxicBrew.injuryProps.destroyedOutLabel>
+  <Trunken_hediff_Chemicals.injuryProps.destroyedOutLabel>그을려버림</Trunken_hediff_Chemicals.injuryProps.destroyedOutLabel>
+  <Trunken_hediff_Stings.stages.3.label>심각함</Trunken_hediff_Stings.stages.3.label>
+  <Trunken_hediff_Chemicals.stages.3.label>심각함</Trunken_hediff_Chemicals.stages.3.label>
+  <Trunken_hediff_Shrapnels.comps.0.labelSolidTendedWell>접합됨</Trunken_hediff_Shrapnels.comps.0.labelSolidTendedWell>
+  <Trunken_hediff_Shrapnels.comps.0.labelTendedWellInner>봉합됨</Trunken_hediff_Shrapnels.comps.0.labelTendedWellInner>
+
+  <!--1777036482_190714_Moloy Traits-->
+  <MT_ConductorIsNear.label>지도자가 가까이에 있음</MT_ConductorIsNear.label>
+  <MT_ConductorIsNear.labelNoun>가까운 지도자</MT_ConductorIsNear.labelNoun>
+  <MT_CommanderIsNear.label>지휘관이 가까이에 있음</MT_CommanderIsNear.label>
+  <MT_CommanderIsNear.labelNoun>가까운 지휘관</MT_CommanderIsNear.labelNoun>
+
+  <!--725576127_190626_Glitter Tech-->
+  <GTHeart.label>인공지능 심장</GTHeart.label>
+  <GTLung.label>인공지능 폐</GTLung.label>
+  <GTKidney.label>인공지능 신장</GTKidney.label>
+  <GTLiver.label>인공지능 간</GTLiver.label>
+  <GTStomach.label>인공지능 위</GTStomach.label>
+  <GTDentures.label>고급 생체공학 틀니</GTDentures.label>
+  <GTArm.label>고급 생체공학 팔</GTArm.label>
+  <GTHand.label>고급 생체공학 손</GTHand.label>
+  <GTLeg.label>고급 생체공학 다리</GTLeg.label>
+  <GTFoot.label>고급 생체공학 발</GTFoot.label>
+  <GTEye.label>고급 생체공학 눈</GTEye.label>
+  <GTEar.label>고급 생체공학 귀</GTEar.label>
+  <HeatStab.label>찔림</HeatStab.label>
+  <HeatStab.comps.0.labelTendedWell>붕대로 감음</HeatStab.comps.0.labelTendedWell>
+  <HeatStab.comps.0.labelTendedWellInner>봉합함</HeatStab.comps.0.labelTendedWellInner>
+  <HeatStab.comps.0.labelSolidTendedWell>접합함</HeatStab.comps.0.labelSolidTendedWell>
+  <HeatStab.injuryProps.destroyedLabel>파괴됨</HeatStab.injuryProps.destroyedLabel>
+  <HeatStab.injuryProps.destroyedOutLabel>완파됨</HeatStab.injuryProps.destroyedOutLabel>
+  <OCExo.label>오리온 외골격</OCExo.label>
+
+  <!--746425621_181026_A dog said-->
+  <AnimalBrainStimulator.label>동물 두뇌 증폭기</AnimalBrainStimulator.label>
+  <BionicArmAnimal.label>생체공학 동물 팔</BionicArmAnimal.label>
+  <BionicArmAnimal.comps.0.tools.0.label>생체공학 동물 팔</BionicArmAnimal.comps.0.tools.0.label>
+  <EarAnimalBionic.label>생체공학 동물 귀 이식물</EarAnimalBionic.label>
+  <BionicEyeAnimal.label>생체공학 동물 눈</BionicEyeAnimal.label>
+  <BionicAnimalHeart.label>생체공학 동물 심장</BionicAnimalHeart.label>
+  <JawAnimalBionic.comps.0.tools.0.label>생체공학 동물 턱</JawAnimalBionic.comps.0.tools.0.label>
+  <JawAnimalBionic.label>생체공학 동물 턱 이식물</JawAnimalBionic.label>
+  <BionicAnimalKidney.label>생체공학 동물 신장</BionicAnimalKidney.label>
+  <BionicLegAnimal.label>생체공학 동물 다리</BionicLegAnimal.label>
+  <BionicLegAnimal.comps.0.tools.0.label>생체공학 동물 다리</BionicLegAnimal.comps.0.tools.0.label>
+  <BionicAnimalLiver.label>생체공학 동물 간</BionicAnimalLiver.label>
+  <BionicAnimalLung.label>생체공학 동물 폐</BionicAnimalLung.label>
+  <SpineAnimalBionic.label>생체 동물용 척추</SpineAnimalBionic.label>
+  <BionicAnimalStomach.label>생체공학 동물 위</BionicAnimalStomach.label>
+  <SimpleProstheticArmAnimal.comps.0.tools.0.label>동물 팔 보철물</SimpleProstheticArmAnimal.comps.0.tools.0.label>
+  <ProstheticTail.label>꼬리 보철물</ProstheticTail.label>
+  <SimpleProstheticLegAnimal.comps.0.tools.0.label>동물 의족</SimpleProstheticLegAnimal.comps.0.tools.0.label>
+  <EarAnimalSimple.label>간단한 동물 귀 이식물</EarAnimalSimple.label>
+  <JawAnimalSimple.label>간단한 동물 턱 이식물</JawAnimalSimple.label>
+  <NoseAnimalSimple.label>간단한 동물 코</NoseAnimalSimple.label>
+  <SpineAnimalSimple.label>간단한 동물 척추</SpineAnimalSimple.label>
+  <SimpleProstheticArmAnimal.label>간단한 동물 의수</SimpleProstheticArmAnimal.label>
+  <SimpleProstheticLegAnimal.label>간단한 동물 의족</SimpleProstheticLegAnimal.label>
+
+  <!--751049133_190622_The Birds and the Bees-->
+  <BionicReproductiveOrgans.label>생체공학 생식기</BionicReproductiveOrgans.label>
+  <Menopause.stages.1.label>호르몬에 의한 폐경</Menopause.stages.1.label>
+  <Impotence.label>발기부전</Impotence.label>
+  <SimpleProstheticReproductiveOrgans.label>간단한 인공 생식기</SimpleProstheticReproductiveOrgans.label>
+  <Impotence.stages.2.label>극심함</Impotence.stages.2.label>
+  <Menopause.label>폐경</Menopause.label>
+  <Impotence.stages.1.label>경미함</Impotence.stages.1.label>
+  <Neutered.label>중성화</Neutered.label>
+  <Impotence.stages.0.label>증상 발현</Impotence.stages.0.label>
+  <Menopause.stages.0.label>증상 발현</Menopause.stages.0.label>
+
+  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
+  <ROM_Exsanguination.comps.0.labelTendedWell>붕대 감음</ROM_Exsanguination.comps.0.labelTendedWell>
+  <ROM_Psionic.comps.0.labelTendedWell>붕대 감음</ROM_Psionic.comps.0.labelTendedWell>
+  <ROM_StarVampireDescent.label>하강 중</ROM_StarVampireDescent.label>
+  <ROM_CosmicHorrorImmunities.label>엘드리치 면역</ROM_CosmicHorrorImmunities.label>
+  <ROM_GutWorms.stages.5.label>극심함</ROM_GutWorms.stages.5.label>
+  <ROM_IntracranialPressure.stages.5.label>극심함</ROM_IntracranialPressure.stages.5.label>
+  <ROM_SanityLoss.stages.4.label>극심함</ROM_SanityLoss.stages.4.label>
+  <ROM_Psionic.injuryProps.destroyedLabel>함몰됨</ROM_Psionic.injuryProps.destroyedLabel>
+  <ROM_GutWorms.stages.1.label>초기</ROM_GutWorms.stages.1.label>
+  <ROM_IntracranialPressure.stages.1.label>초기</ROM_IntracranialPressure.stages.1.label>
+  <ROM_SanityLoss.stages.0.label>초기-감춰짐</ROM_SanityLoss.stages.0.label>
+  <ROM_IntracranialPressure.stages.0.label>초기-감춰짐</ROM_IntracranialPressure.stages.0.label>
+  <ROM_IntracranialPressure.label>두개 내압</ROM_IntracranialPressure.label>
+  <ROM_GutWorms.stages.3.label>보통</ROM_GutWorms.stages.3.label>
+  <ROM_SanityLoss.stages.2.label>보통</ROM_SanityLoss.stages.2.label>
+  <ROM_GutWorms.stages.2.label>가벼움</ROM_GutWorms.stages.2.label>
+  <ROM_IntracranialPressure.stages.2.label>가벼움</ROM_IntracranialPressure.stages.2.label>
+  <ROM_SanityLoss.stages.1.label>가벼움</ROM_SanityLoss.stages.1.label>
+  <ROM_IntracranialPressure.stages.3.label>보통</ROM_IntracranialPressure.stages.3.label>
+  <ROM_Psionic.label>사이오닉</ROM_Psionic.label>
+  <ROM_SanityLoss.label>정신 붕괴</ROM_SanityLoss.label>
+  <ROM_IntracranialPressure.stages.4.label>심각함</ROM_IntracranialPressure.stages.4.label>
+  <ROM_Exsanguination.comps.0.labelSolidTendedWell>접합됨</ROM_Exsanguination.comps.0.labelSolidTendedWell>
+  <ROM_Psionic.comps.0.labelSolidTendedWell>접합됨</ROM_Psionic.comps.0.labelSolidTendedWell>
+  <ROM_GutWorms.stages.4.label>심각함</ROM_GutWorms.stages.4.label>
+  <ROM_SanityLoss.stages.3.label>심각함</ROM_SanityLoss.stages.3.label>
+  <ROM_GutWorms.label>기괴한 벌레</ROM_GutWorms.label>
+  <ROM_Exsanguination.injuryProps.destroyedLabel>빨아냄</ROM_Exsanguination.injuryProps.destroyedLabel>
+  <ROM_Exsanguination.comps.0.labelTendedWellInner>봉합됨</ROM_Exsanguination.comps.0.labelTendedWellInner>
+  <ROM_Psionic.comps.0.labelTendedWellInner>봉합됨</ROM_Psionic.comps.0.labelTendedWellInner>
+  <ROM_GutWorms.stages.0.label>초기-감춰짐</ROM_GutWorms.stages.0.label>
+  <ROM_Exsanguination.label>흡혈</ROM_Exsanguination.label>
+
+  <!--775650249_181117_RimMagic-->
+  <MagicAVampirismHediff.injuryProps.destroyedLabel>Ascendant Vampire</MagicAVampirismHediff.injuryProps.destroyedLabel>
+  <MagicAVampirismHediff.injuryProps.destroyedOutLabel>Ascendant Vampire</MagicAVampirismHediff.injuryProps.destroyedOutLabel>
+  <MagicAVampirismHediff.label>Ascendant Vampirism</MagicAVampirismHediff.label>
+  <MagicFrostbite.comps.0.labelTendedWell>붕대 감음</MagicFrostbite.comps.0.labelTendedWell>
+  <BloodAddiction.label>영원한 피의 갈망</BloodAddiction.label>
+  <BloodHigh.label>신선한 피</BloodHigh.label>
+  <MagicFrostbite.label>동상</MagicFrostbite.label>
+  <MagicFrostbite.injuryProps.destroyedLabel>동상으로 잃음</MagicFrostbite.injuryProps.destroyedLabel>
+  <MagicEMPCondition.injuryProps.destroyedLabel>흔적도 없는</MagicEMPCondition.injuryProps.destroyedLabel>
+  <MagicEMPCondition.injuryProps.destroyedOutLabel>흔적도 없이 사라짐</MagicEMPCondition.injuryProps.destroyedOutLabel>
+  <MagicEMPCondition.label>잔혹한 번개 마법</MagicEMPCondition.label>
+  <MagicRotCondition.label>부패</MagicRotCondition.label>
+  <MagicRotCondition.injuryProps.destroyedLabel>부패됨</MagicRotCondition.injuryProps.destroyedLabel>
+  <MagicRotCondition.injuryProps.destroyedOutLabel>부패됨</MagicRotCondition.injuryProps.destroyedOutLabel>
+  <MagicFrostbite.comps.0.labelSolidTendedWell>응고</MagicFrostbite.comps.0.labelSolidTendedWell>
+  <SunParalysisHediff.label>태양 마비</SunParalysisHediff.label>
+  <SunParalysisHediff.injuryProps.destroyedLabel>태양 마비</SunParalysisHediff.injuryProps.destroyedLabel>
+  <SunParalysisHediff.injuryProps.destroyedOutLabel>태양 마비</SunParalysisHediff.injuryProps.destroyedOutLabel>
+  <MagicFrostbite.comps.0.labelTendedWellInner>봉합함</MagicFrostbite.comps.0.labelTendedWellInner>
+  <BloodAddiction.stages.1.label>충족되지 않음</BloodAddiction.stages.1.label>
+  <MagicVampirismHediff.injuryProps.destroyedLabel>흡혈귀</MagicVampirismHediff.injuryProps.destroyedLabel>
+  <MagicVampirismHediff.injuryProps.destroyedOutLabel>흡혈귀</MagicVampirismHediff.injuryProps.destroyedOutLabel>
+  <MagicVampirismHediff.label>흡혈증</MagicVampirismHediff.label>
+
+  <!--815039373_181117_Call of Cthulhu - Cults-->
+  <BastClaws.labelNoun>발톱달린 손</BastClaws.labelNoun>
+  <Cults_AcidBurn.label>산화상</Cults_AcidBurn.label>
+  <Cults_AcidBurn.labelNoun>산화상</Cults_AcidBurn.labelNoun>
+  <Cults_AcidBurn.comps.0.labelTendedWell>붕대감음</Cults_AcidBurn.comps.0.labelTendedWell>
+  <Cults_Psionic.comps.0.labelTendedWell>붕대감음</Cults_Psionic.comps.0.labelTendedWell>
+  <Cults_BlackIchor.label>차토구아의 피</Cults_BlackIchor.label>
+  <Cults_MonstrousBody.comps.0.tools.0.label>신체</Cults_MonstrousBody.comps.0.tools.0.label>
+  <Cults_AcidBurn.injuryProps.destroyedLabel>녹아버림</Cults_AcidBurn.injuryProps.destroyedLabel>
+  <Cults_AcidBurn.injuryProps.destroyedOutLabel>녹아버림</Cults_AcidBurn.injuryProps.destroyedOutLabel>
+  <BastClaws.label>발톱</BastClaws.label>
+  <BastClaws.comps.0.tools.0.label>발톱</BastClaws.comps.0.tools.0.label>
+  <Cults_Psionic.label>파괴</Cults_Psionic.label>
+  <Cults_CthulhidTentacle.label>크툴리드 촉수</Cults_CthulhidTentacle.label>
+  <IntracranialPressureBuildup.stages.5.label>극심함</IntracranialPressureBuildup.stages.5.label>
+  <Cults_SanityLoss.stages.4.label>극심함</Cults_SanityLoss.stages.4.label>
+  <BastCatLikeAspect.label>고양잇과</BastCatLikeAspect.label>
+  <Cults_CthulhidEyestalk.label>끔찍한 눈썹</Cults_CthulhidEyestalk.label>
+  <Cults_Psionic.injuryProps.destroyedLabel>함몰됨</Cults_Psionic.injuryProps.destroyedLabel>
+  <IntracranialPressureBuildup.stages.1.label>초기</IntracranialPressureBuildup.stages.1.label>
+  <Cults_SanityLoss.stages.0.label>긴장함-감춰짐</Cults_SanityLoss.stages.0.label>
+  <IntracranialPressureBuildup.stages.0.label>초기-감춰짐</IntracranialPressureBuildup.stages.0.label>
+  <IntracranialPressureBuildup.label>두개내압</IntracranialPressureBuildup.label>
+  <Cults_SanityLoss.stages.2.label>보통</Cults_SanityLoss.stages.2.label>
+  <IntracranialPressureBuildup.stages.2.label>가벼움</IntracranialPressureBuildup.stages.2.label>
+  <Cults_SanityLoss.stages.1.label>가벼움</Cults_SanityLoss.stages.1.label>
+  <IntracranialPressureBuildup.stages.3.label>보통</IntracranialPressureBuildup.stages.3.label>
+  <Cults_MonstrousBody.label>비정상적인 심장</Cults_MonstrousBody.label>
+  <Cults_MonstrousBrain.label>괴물같은 뇌</Cults_MonstrousBrain.label>
+  <Cults_PsionicBrain.label>사이오닉 두뇌</Cults_PsionicBrain.label>
+  <Cults_SanityLoss.label>정신 붕괴</Cults_SanityLoss.label>
+  <IntracranialPressureBuildup.stages.4.label>심각함</IntracranialPressureBuildup.stages.4.label>
+  <Cults_AcidBurn.comps.0.labelSolidTendedWell>접합함</Cults_AcidBurn.comps.0.labelSolidTendedWell>
+  <Cults_Psionic.comps.0.labelSolidTendedWell>응고됨</Cults_Psionic.comps.0.labelSolidTendedWell>
+  <Cults_SanityLoss.stages.3.label>심각함</Cults_SanityLoss.stages.3.label>
+  <Cults_SleepHediff.label>깊은 잠에 취함</Cults_SleepHediff.label>
+  <Cults_AcidBurn.comps.0.labelTendedWellInner>봉합함</Cults_AcidBurn.comps.0.labelTendedWellInner>
+  <Cults_Psionic.comps.0.labelTendedWellInner>봉합함</Cults_Psionic.comps.0.labelTendedWellInner>
+  <Cults_TentacleArm.label>촉수</Cults_TentacleArm.label>
+
+  <!--846222458_190818_More Mechanoids-->
+  <Paralyze.stages.3.label>기절</Paralyze.stages.3.label>
+  <Paralyze.stages.0.label>어지러움</Paralyze.stages.0.label>
+  <JackhammerArm.label>팔목 드릴</JackhammerArm.label>
+  <Paralyze.label>마비</Paralyze.label>
+  <Paralyze.stages.1.label>부분 마비</Paralyze.stages.1.label>
+  <Paralyze.stages.2.label>심각한 마비</Paralyze.stages.2.label>
+  <SpikeArm.label>팔목 스파이크</SpikeArm.label>
+
+  <!--846645227_190626_Riot Control-->
+  <RC_Bruise.labelNoun>타박상</RC_Bruise.labelNoun>
+  <RC_Bruise.comps.0.labelTendedWell>붕대</RC_Bruise.comps.0.labelTendedWell>
+  <RC_Bruise.label>타박상</RC_Bruise.label>
+  <RC_Bruise.injuryProps.destroyedLabel>파괴됨</RC_Bruise.injuryProps.destroyedLabel>
+  <RC_Bruise.comps.0.labelSolidTendedWell>맞춤</RC_Bruise.comps.0.labelSolidTendedWell>
+  <RC_Bruise.comps.0.labelTendedWellInner>봉합</RC_Bruise.comps.0.labelTendedWellInner>
+
+  <!--848309750_190626_MiningCo. Alert speaker-->
+  <HediffAdrenalineSmall.description>경보가 울렸어! 무슨 일이 일어난건지 가봐야겠어.</HediffAdrenalineSmall.description>
+  <HediffAdrenalineMedium.label>아드레날린 분비</HediffAdrenalineMedium.label>
+  <HediffAdrenalineSmall.label>아드레날린 소량 분비</HediffAdrenalineSmall.label>
+  <HediffAdrenalineMedium.description>정착지가 공격받고 있어! 우리의 삶을 지켜야해! 모두 전투 위치로!</HediffAdrenalineMedium.description>
+
+  <!--918200645_190816_Star Wars - Fully Functional Lightsabers-->
+  <PJ_LightsaberEnergy.comps.0.labelTendedWell>붕대 감음</PJ_LightsaberEnergy.comps.0.labelTendedWell>
+  <PJ_BarabRads.comps.0.labelTendedWell>붕대 감음</PJ_BarabRads.comps.0.labelTendedWell>
+  <PJ_FirkZap.comps.0.labelTendedWell>붕대 감음</PJ_FirkZap.comps.0.labelTendedWell>
+  <PJ_SonicBoom.comps.0.labelTendedWell>붕대 감음</PJ_SonicBoom.comps.0.labelTendedWell>
+  <PJ_BarabRads.label>바랍 화상</PJ_BarabRads.label>
+  <PJ_BarabRads.injuryProps.destroyedLabel>타 버림</PJ_BarabRads.injuryProps.destroyedLabel>
+  <PJ_FirkZap.injuryProps.destroyedLabel>타 버림</PJ_FirkZap.injuryProps.destroyedLabel>
+  <PJ_BarabRads.injuryProps.destroyedOutLabel>타 버림</PJ_BarabRads.injuryProps.destroyedOutLabel>
+  <PJ_FirkZap.injuryProps.destroyedOutLabel>타 버림</PJ_FirkZap.injuryProps.destroyedOutLabel>
+  <PJ_LightsaberEnergy.label>에너지 화상</PJ_LightsaberEnergy.label>
+  <PJ_FirkZap.label>퍼크란 충격 화상</PJ_FirkZap.label>
+  <PJ_LightsaberEnergy.comps.0.labelSolidTendedWell>치료를 하다</PJ_LightsaberEnergy.comps.0.labelSolidTendedWell>
+  <PJ_SonicBoom.injuryProps.destroyedLabel>흔적 없음</PJ_SonicBoom.injuryProps.destroyedLabel>
+  <PJ_LightsaberEnergy.injuryProps.destroyedLabel>얇게 베임</PJ_LightsaberEnergy.injuryProps.destroyedLabel>
+  <PJ_LightsaberEnergy.injuryProps.destroyedOutLabel>얇게 베임</PJ_LightsaberEnergy.injuryProps.destroyedOutLabel>
+  <PJ_SonicBoom.label>음파 골절</PJ_SonicBoom.label>
+  <PJ_BarabRads.comps.0.labelSolidTendedWell>경향 있음</PJ_BarabRads.comps.0.labelSolidTendedWell>
+  <PJ_FirkZap.comps.0.labelSolidTendedWell>경향 있음</PJ_FirkZap.comps.0.labelSolidTendedWell>
+  <PJ_SonicBoom.comps.0.labelSolidTendedWell>경향 있음</PJ_SonicBoom.comps.0.labelSolidTendedWell>
+  <PJ_LightsaberEnergy.comps.0.labelTendedWellInner>치료 됨</PJ_LightsaberEnergy.comps.0.labelTendedWellInner>
+  <PJ_BarabRads.comps.0.labelTendedWellInner>치료 됨</PJ_BarabRads.comps.0.labelTendedWellInner>
+  <PJ_FirkZap.comps.0.labelTendedWellInner>치료 됨</PJ_FirkZap.comps.0.labelTendedWellInner>
+  <PJ_SonicBoom.comps.0.labelTendedWellInner>치료 됨</PJ_SonicBoom.comps.0.labelTendedWellInner>
+  <PJ_SonicBoom.injuryProps.destroyedOutLabel>증발함</PJ_SonicBoom.injuryProps.destroyedOutLabel>
+
+  <!--918226861_190816_Star Wars - The Force-->
+  <PJ_ForceBurn.labelNoun>포스 화상 상처</PJ_ForceBurn.labelNoun>
+  <PJ_NoAir.label>질식사</PJ_NoAir.label>
+  <PJ_NoAir.labelNoun>기절</PJ_NoAir.labelNoun>
+  <PJ_ChokeCrush.comps.0.labelTendedWell>붕대를 감다</PJ_ChokeCrush.comps.0.labelTendedWell>
+  <PJ_ForceBurn.comps.0.labelTendedWell>붕대를 감다</PJ_ForceBurn.comps.0.labelTendedWell>
+  <PJ_ForceBurn.injuryProps.destroyedLabel>화상</PJ_ForceBurn.injuryProps.destroyedLabel>
+  <PJ_NoAir.stages.3.label>질식하는</PJ_NoAir.stages.3.label>
+  <PJ_NoAir.stages.0.label>자백</PJ_NoAir.stages.0.label>
+  <PJ_NoAir.stages.1.label>자백</PJ_NoAir.stages.1.label>
+  <PJ_ChokeCrush.label>부서진</PJ_ChokeCrush.label>
+  <PJ_ChokeCrush.injuryProps.destroyedLabel>부서지다</PJ_ChokeCrush.injuryProps.destroyedLabel>
+  <PJ_ForceBurn.label>포스 화상</PJ_ForceBurn.label>
+  <PJ_ForceDefenseHediff.label>포스 디펜스</PJ_ForceDefenseHediff.label>
+  <PJ_Rage.label>포스 레이지</PJ_Rage.label>
+  <PJ_ForceSpeedHediff_One.label>포스 스피드</PJ_ForceSpeedHediff_One.label>
+  <PJ_ForceSpeedHediff_Two.label>포스 스피드</PJ_ForceSpeedHediff_Two.label>
+  <PJ_ForceSpeedHediff_Three.label>포스 스피드</PJ_ForceSpeedHediff_Three.label>
+  <PJ_ForceWielderHD.label>포스 사용자</PJ_ForceWielderHD.label>
+  <PJ_NoAir.stages.2.label>숨 막힘</PJ_NoAir.stages.2.label>
+  <PJ_ForceWielderHD.stages.0.label>숨겨짐</PJ_ForceWielderHD.stages.0.label>
+  <PJ_MindTrick.label>마인드 트릭</PJ_MindTrick.label>
+  <PJ_ChokeCrush.comps.0.labelSolidTendedWell>놓다</PJ_ChokeCrush.comps.0.labelSolidTendedWell>
+  <PJ_ForceBurn.comps.0.labelSolidTendedWell>놓다</PJ_ForceBurn.comps.0.labelSolidTendedWell>
+  <PJ_NoAir.stages.4.label>질식 시키는</PJ_NoAir.stages.4.label>
+  <PJ_ChokeCrush.comps.0.labelTendedWellInner>봉합 하다</PJ_ChokeCrush.comps.0.labelTendedWellInner>
+  <PJ_ForceBurn.comps.0.labelTendedWellInner>봉합 하다</PJ_ForceBurn.comps.0.labelTendedWellInner>
+
+  <!--918227266_181112_Star Wars - Factions-->
+  <PJ_AcBurn.label>산성 화상</PJ_AcBurn.label>
+  <PJ_VibroSonic.comps.0.labelTendedWell>붕대 감음</PJ_VibroSonic.comps.0.labelTendedWell>
+  <PJ_BBurn.comps.0.labelTendedWell>붕대 감음</PJ_BBurn.comps.0.labelTendedWell>
+  <PJ_BBurn.injuryProps.destroyedLabel>폭발함</PJ_BBurn.injuryProps.destroyedLabel>
+  <PJ_BBurn.injuryProps.destroyedOutLabel>폭발함</PJ_BBurn.injuryProps.destroyedOutLabel>
+  <PJ_BBurn.label>블래스터 화상</PJ_BBurn.label>
+  <PJ_AcBurn.injuryProps.destroyedLabel>녹아 내림</PJ_AcBurn.injuryProps.destroyedLabel>
+  <PJ_AcBurn.injuryProps.destroyedOutLabel>녹아 내림</PJ_AcBurn.injuryProps.destroyedOutLabel>
+  <PJ_AcBurn.comps.0.labelTendedWell>무력화 됨</PJ_AcBurn.comps.0.labelTendedWell>
+  <PJ_VibroSonic.comps.0.labelSolidTendedWell>응고 됨</PJ_VibroSonic.comps.0.labelSolidTendedWell>
+  <PJ_VibroSonic.injuryProps.destroyedLabel>얇게 베임</PJ_VibroSonic.injuryProps.destroyedLabel>
+  <PJ_VibroSonic.injuryProps.destroyedOutLabel>얇게 베임</PJ_VibroSonic.injuryProps.destroyedOutLabel>
+  <PJ_VibroSonic.label>음파</PJ_VibroSonic.label>
+  <PJ_VibroSonic.comps.0.labelTendedWellInner>봉합 함</PJ_VibroSonic.comps.0.labelTendedWellInner>
+  <PJ_BBurn.comps.0.labelTendedWellInner>봉합 함</PJ_BBurn.comps.0.labelTendedWellInner>
+  <PJ_AcBurn.comps.0.labelTendedWellInner>치료 됨</PJ_AcBurn.comps.0.labelTendedWellInner>
+  <PJ_BBurn.comps.0.labelSolidTendedWell>적당히 됨</PJ_BBurn.comps.0.labelSolidTendedWell>
+  <PJ_AcBurn.comps.0.labelSolidTendedWell>적당히 됨</PJ_AcBurn.comps.0.labelSolidTendedWell>
+
+  <!--950475543_190818_Rim of Madness - Arachnophobia-->
+  <ROMA_Neurotoxin.stages.5.label>극심함</ROMA_Neurotoxin.stages.5.label>
+  <ROMA_Neurotoxin.stages.0.label>초기</ROMA_Neurotoxin.stages.0.label>
+  <ROMA_Neurotoxin.stages.1.label>초기</ROMA_Neurotoxin.stages.1.label>
+  <ROMA_Neurotoxin.stages.2.label>가벼움</ROMA_Neurotoxin.stages.2.label>
+  <ROMA_Neurotoxin.stages.3.label>보통</ROMA_Neurotoxin.stages.3.label>
+  <ROMA_Neurotoxin.label>신경 독</ROMA_Neurotoxin.label>
+  <ROMA_Neurotoxin.stages.4.label>심각함</ROMA_Neurotoxin.stages.4.label>
+
+  <!--955561873_190628_MiningCo. Projector-->
+  <BlindedByProjector.label>프로젝터에 눈이 멀음</BlindedByProjector.label>
+
+  <!--964388988_190621_gas and shalls-->
+  <AcidGas.label>부식 가스</AcidGas.label>
+  <AcidGas.stages.0.label>옷이 녹음</AcidGas.stages.0.label>
+  <AcidGas.stages.1.label>피부가 녹음</AcidGas.stages.1.label>
+  <AcidGas.stages.2.label>근육이 녹음</AcidGas.stages.2.label>
+  <AcidGas.stages.3.label>뼈가 드러남</AcidGas.stages.3.label>
+  <ToxicGas.label>유독 가스</ToxicGas.label>
+  <ToxicGas.stages.0.label>미약한 가스 중독</ToxicGas.stages.0.label>
+  <ToxicGas.stages.1.label>약한 가스 중독</ToxicGas.stages.1.label>
+  <ToxicGas.stages.2.label>가스 중독</ToxicGas.stages.2.label>
+  <ToxicGas.stages.3.label>심각한 가스 중독</ToxicGas.stages.3.label>
+  <ToxicGas.stages.4.label>극도의 가스 중독</ToxicGas.stages.4.label>
+  <RageGas.label>분노 가스</RageGas.label>
+  <RageGas.stages.0.label>짜증남</RageGas.stages.0.label>
+  <RageGas.stages.1.label>화남</RageGas.stages.1.label>
+  <RageGas.stages.2.label>매우 화남</RageGas.stages.2.label>
+  <RageGas.stages.3.label>격노</RageGas.stages.3.label>
+  <RageGas.stages.4.label>광분</RageGas.stages.4.label>
+  <TearGas.label>최루 가스</TearGas.label>
+  <TearGas.stages.0.label>눈이 따가움</TearGas.stages.0.label>
+  <TearGas.stages.1.label>눈물남</TearGas.stages.1.label>
+  <TearGas.stages.2.label>눈이 매움</TearGas.stages.2.label>
+  <TearGas.stages.3.label>눈이 아픔</TearGas.stages.3.label>
+  <TearGas.stages.4.label>실명</TearGas.stages.4.label>
+  <SleepGas.label>수면 가스</SleepGas.label>
+  <SleepGas.stages.0.label>졸림</SleepGas.stages.0.label>
+  <SleepGas.stages.1.label>나른함</SleepGas.stages.1.label>
+  <SleepGas.stages.2.label>피곤함</SleepGas.stages.2.label>
+  <SleepGas.stages.3.label>실신함</SleepGas.stages.3.label>
+  <SleepGas.stages.4.label>혼수 상태</SleepGas.stages.4.label>
+  <FearGas.label>공포 가스</FearGas.label>
+  <FearGas.stages.0.label>두려움</FearGas.stages.0.label>
+  <FearGas.stages.1.label>공포</FearGas.stages.1.label>
+  <FearGas.stages.2.label>심각한 공포</FearGas.stages.2.label>
+  <FearGas.stages.3.label>극도의 공포</FearGas.stages.3.label>
+
+  <!--1552507180_190814_Psychology-->
+  <HoldingConversation.label>대화</HoldingConversation.label>
+  <HoldingConversation.stages.0.label>hidden</HoldingConversation.stages.0.label>
+  <Mayor.label>지도자</Mayor.label>
+  <Mayor.stages.0.label>hidden</Mayor.stages.0.label>
+  <PlannedDate.label>데이트</PlannedDate.label>
+  <PlannedDate.stages.0.label>hidden</PlannedDate.stages.0.label>
+  <PlannedFuneral.label>장례식</PlannedFuneral.label>
+  <PlannedFuneral.stages.0.label>hidden</PlannedFuneral.stages.0.label>
+  <Anxiety.label>불안장애</Anxiety.label>
+  <Anxiety.stages.0.label>치료됨</Anxiety.stages.0.label>
+  <Anxiety.stages.1.label>가벼움</Anxiety.stages.1.label>
+  <Anxiety.stages.2.label>가벼움</Anxiety.stages.2.label>
+  <Anxiety.stages.3.label>심각함</Anxiety.stages.3.label>
+  <Anxiety.stages.4.label>심각함</Anxiety.stages.4.label>
+  <Anxiety.stages.5.label>극심함</Anxiety.stages.5.label>
+  <RecoveringPyromaniac.label>방화광 치료</RecoveringPyromaniac.label>
+  <DrugFree.label>약품없음</DrugFree.label>
+  <Antidepressants.label>항우울제</Antidepressants.label>
+  <SleepingPills.label>처방된 진정제</SleepingPills.label>
+  <MethadoneHigh.label>메타돈</MethadoneHigh.label>
+  <MethadoneTolerance.label>메타돈 내성</MethadoneTolerance.label>
+  <MethadoneTolerance.stages.0.label>약함</MethadoneTolerance.stages.0.label>
+  <MethadoneTolerance.stages.1.label>약함</MethadoneTolerance.stages.1.label>
+  <MethadoneTolerance.stages.2.label>큼</MethadoneTolerance.stages.2.label>
+  <MethadoneTolerance.stages.3.label>심각</MethadoneTolerance.stages.3.label>
+  <MethadoneAddiction.label>메타돈 중독</MethadoneAddiction.label>
+  <MethadoneAddiction.stages.1.label>금단현상</MethadoneAddiction.stages.1.label>
+
+</LanguageData>

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ActiveTab_desc></ActiveTab_desc>
+  <ActiveTab_title>구성</ActiveTab_title>
+  <ToolAutoSwitch_desc>폰의 현재 작업에 대한 능력치 효과가 있는 무기나 도구로 전환</ToolAutoSwitch_desc>
+  <ToolAutoSwitch_title>도구 자동전환 사용</ToolAutoSwitch_title>
+  <OptimalMelee_desc>대상의 방어력을 계산하여 자동으로 DPS가 더 높은 근접무기로 전환</OptimalMelee_desc>
+  <OptimalMelee_title>최상의 근접무기</OptimalMelee_title>
+  <CQCAutoSwitch_desc>근거리에서 공격 받을 때 정착민이 근접 무기로 전환</CQCAutoSwitch_desc>
+  <CQCAutoSwitch_title>근접 무기 자동 전환</CQCAutoSwitch_title>
+  <CQCFistSwitch_desc>무기를 사용하지 않을 때도 전환</CQCFistSwitch_desc>
+  <CQCFistSwitch_title>맨손 전투시 자동 전환</CQCFistSwitch_title>
+  <CQCTargetOnly_desc>정착민이 현재 대상의 공격에만 반응</CQCTargetOnly_desc>
+  <CQCTargetOnly_title>대상의 공격에만 전환</CQCTargetOnly_title>
+  <DropMode_desc>무기를 인벤토리로 옮기는 대신 바닥에 떨어뜨리는 기준</DropMode_desc>
+  <DropMode_title>무기 떨어뜨리는 기준</DropMode_title>
+  <ReEquipBest_desc>무기를 떨어뜨린 후 재장착 할 때, 가까운 무기 대신 가장 성능이 좋은 무기를 찾아 장착합니다.</ReEquipBest_desc>
+  <ReEquipBest_title>최상 무기 재장착 허용</ReEquipBest_title>
+  <LimitCarryInfo_desc></LimitCarryInfo_desc>
+  <LimitCarryInfo_title>*항상 정착민의 운반 능력에 의해 제한됩니다</LimitCarryInfo_title>
+  <CEOverrideInfo_desc></CEOverrideInfo_desc>
+  <CEOverrideInfo_title>CE 시스템에 의해 비활성화되었습니다.</CEOverrideInfo_title>
+  <LimitModeAmountMelee_desc>모든 근접 휴대무기의 제한</LimitModeAmountMelee_desc>
+  <LimitModeAmountMelee_title>근접 휴대무기 제한</LimitModeAmountMelee_title>
+  <LimitModeAmountRanged_desc>모든 원거리 휴대무기의 제한</LimitModeAmountRanged_desc>
+  <LimitModeAmountRanged_title>원거리 휴대무기 제한</LimitModeAmountRanged_title>
+  <LimitModeAmount_desc>모든 휴대무기의 제한</LimitModeAmount_desc>
+  <LimitModeAmount_title>모든 휴대무기 제한</LimitModeAmount_title>
+  <LimitModeSingleMelee_desc>특정 근접 휴대무기의 제한</LimitModeSingleMelee_desc>
+  <LimitModeSingleMelee_title>특정한 휴대무기 제한 (근접)</LimitModeSingleMelee_title>
+  <LimitModeSingleRanged_desc>특정 원거리 휴대무기의 제한</LimitModeSingleRanged_desc>
+  <LimitModeSingleRanged_title>특정한 휴대무기 제한 (원거리)</LimitModeSingleRanged_title>
+  <LimitModeSingle_desc>특정 휴대무기의 제한</LimitModeSingle_desc>
+  <LimitModeSingle_title>특정한 휴대무기 제한</LimitModeSingle_title>
+  <LimitModeAmountTotal_title>모든 휴대무기의 제한</LimitModeAmountTotal_title>
+  <LimitModeAmountTotal_desc>모든 휴대무기의 제한</LimitModeAmountTotal_desc>
+  <MaximumMassAmountAbsolute_desc>정착민이 지닐 수 있는 휴대무기의 최대 무게입니다.</MaximumMassAmountAbsolute_desc>
+  <MaximumMassAmountAbsolute_title>휴대무기 최대 무게</MaximumMassAmountAbsolute_title>
+  <MaximumMassAmountRelative_desc>폰의 운반능력에 비례하여 지닐 수 있는 휴대무기 최대 무게의 비율입니다.</MaximumMassAmountRelative_desc>
+  <MaximumMassAmountRelative_title>휴대무기 최대 무게 비율</MaximumMassAmountRelative_title>
+  <MaximumMassSingleAbsolute_desc>정착민이 지닐 수 있는 특정 휴대무기의 최대 무게입니다.</MaximumMassSingleAbsolute_desc>
+  <MaximumMassSingleAbsolute_title>휴대무기 최대 무게 (특정)</MaximumMassSingleAbsolute_title>
+  <MaximumMassSingleRelative_desc>폰의 운반능력에 비례하여 지닐 수 있는 특정 휴대무기 최대 무게의 비율입니다.</MaximumMassSingleRelative_desc>
+  <MaximumMassSingleRelative_title>휴대무기 최대 무게 비율 (특정)</MaximumMassSingleRelative_title>
+  <MaximumSlots_desc>정착민이 무게에 상관없이 휴대할 수 있는 갯수입니다.</MaximumSlots_desc>
+  <MaximumSlots_title>공간</MaximumSlots_title>
+  <RangedCombatAutoSwitchMaxWarmup_desc>휴대무기로 전환하기 위한 거리에 따른 값입니다.</RangedCombatAutoSwitchMaxWarmup_desc>
+  <RangedCombatAutoSwitchMaxWarmup_title>원거리 전투시 자동 전환 최대비율</RangedCombatAutoSwitchMaxWarmup_title>
+  <RangedCombatAutoSwitch_desc>원거리 공격을 할때 정착민이 범위에 적합한 원거리 휴대무기로 전환합니다.</RangedCombatAutoSwitch_desc>
+  <RangedCombatAutoSwitch_title>최상의 원거리 무기 사용</RangedCombatAutoSwitch_title>
+  <SeparateModes_desc>근접 무기와 원거리 무기의 제한된 사항을 분리할 수 있습니다.</SeparateModes_desc>
+  <SeparateModes_title>근접/원거리 분리</SeparateModes_title>
+  <SidearmSelection_desc></SidearmSelection_desc>
+  <SidearmSelection_title>휴대무기 선택</SidearmSelection_title>
+  <SingleshotAutoSwitch_desc>일회용 무기를 모두 소비한 후 휴대무기로 전환합니다.</SingleshotAutoSwitch_desc>
+  <SingleshotAutoSwitch_title>일회용 무기 자동 전환</SingleshotAutoSwitch_title>
+  <SpeedSelectionBiasMelee_desc>공속이 빠른 무기를 선택하는 성향이 강해집니다.</SpeedSelectionBiasMelee_desc>
+  <SpeedSelectionBiasMelee_title>속도 편향 (근접)</SpeedSelectionBiasMelee_title>
+  <SpeedSelectionBiasRanged_desc>조준시간이 빠른 무기를 선택하는 성향이 강해집니다.</SpeedSelectionBiasRanged_desc>
+  <SpeedSelectionBiasRanged_title>속도 편향 (원거리)</SpeedSelectionBiasRanged_title>
+  <WeaponMatch_desc>현재 조건에 맞는 무기들입니다.</WeaponMatch_desc>
+  <WeaponMatch_title></WeaponMatch_title>
+  <SidearmSpawnChance_desc>주무기와 휴대무기를 가지고 정착민이 등장할 확률입니다.</SidearmSpawnChance_desc>
+  <SidearmSpawnChance_title>휴대무기 착용 확률</SidearmSpawnChance_title>
+  <SidearmSpawnChanceDropoff_desc>추가적인 휴대무기 당 휴대무기 생성확률이 감소되는 양입니다.</SidearmSpawnChanceDropoff_desc>
+  <SidearmSpawnChanceDropoff_title>추가 생성확률 감소</SidearmSpawnChanceDropoff_title>
+  <SidearmBudgetMultiplier_desc>주요 무기를 기반으로 하여 휴대무기가 가지는 가치입니다.</SidearmBudgetMultiplier_desc>
+  <SidearmBudgetMultiplier_title>휴대무기 가치 계수</SidearmBudgetMultiplier_title>
+  <SidearmBudgetDropoff_desc>추가적인 휴대무기 당 감소되는 가치의 양입니다.</SidearmBudgetDropoff_desc>
+  <SidearmBudgetDropoff_title>추가 휴대무기 가치 감소</SidearmBudgetDropoff_title>
+  <ColonistDefaultWeaponMode_desc>플레이어가 조종하는 폰의 무기 선호 기본값입니다.</ColonistDefaultWeaponMode_desc>
+  <ColonistDefaultWeaponMode_title>정착민 무기 방식 기본값</ColonistDefaultWeaponMode_title>
+  <NPCDefaultWeaponMode_desc>NPC 폰의 무기 선호 기본값입니다.</NPCDefaultWeaponMode_desc>
+  <NPCDefaultWeaponMode_title>NPC 무기 방식 기본값</NPCDefaultWeaponMode_title>
+  <PrimaryWeaponMode_option_Ranged>원거리</PrimaryWeaponMode_option_Ranged>
+  <PrimaryWeaponMode_option_Melee>격투</PrimaryWeaponMode_option_Melee>
+  <PrimaryWeaponMode_option_BySkill>기술</PrimaryWeaponMode_option_BySkill>
+  <PrimaryWeaponMode_option_ByGenerated>기본</PrimaryWeaponMode_option_ByGenerated>
+  <LimitModeSingle_option_None>제한 없음</LimitModeSingle_option_None>
+  <LimitModeSingle_option_RelativeWeight>상대적</LimitModeSingle_option_RelativeWeight>
+  <LimitModeSingle_option_AbsoluteWeight>절대적</LimitModeSingle_option_AbsoluteWeight>
+  <LimitModeSingle_option_Selection>특정</LimitModeSingle_option_Selection>
+  <LimitModeAmount_option_MaximumCarryWeightOnly>제한 없음</LimitModeAmount_option_MaximumCarryWeightOnly>
+  <LimitModeAmount_option_RelativeWeight>상대적</LimitModeAmount_option_RelativeWeight>
+  <LimitModeAmount_option_AbsoluteWeight>절대적</LimitModeAmount_option_AbsoluteWeight>
+  <LimitModeAmount_option_Slots>공간</LimitModeAmount_option_Slots>
+  <ActiveTab_option_Folded>&lt;</ActiveTab_option_Folded>
+  <ActiveTab_option_Presets>사전설정</ActiveTab_option_Presets>
+  <ActiveTab_option_Automation>자동전환</ActiveTab_option_Automation>
+  <ActiveTab_option_Allowances>제한</ActiveTab_option_Allowances>
+  <ActiveTab_option_Spawning>생성</ActiveTab_option_Spawning>
+  <ActiveTab_option_Misc>기타</ActiveTab_option_Misc>
+  <DropMode_option_Never>없음</DropMode_option_Never>
+  <DropMode_option_InDistress>근접</DropMode_option_InDistress>
+  <DropMode_option_InCombat>원거리</DropMode_option_InCombat>
+  <DropMode_option_Always>항상</DropMode_option_Always>
+  <PresetExport_title></PresetExport_title>
+  <PresetExport_desc></PresetExport_desc>
+  <PresetExport_label>적용된 설정을 클립보드에 복사</PresetExport_label>
+  <PresetCustom_title>사용자 설정</PresetCustom_title>
+  <PresetCustom_desc>사용자 지정 설정입니다. 변경시 자동으로 선택됩니다.</PresetCustom_desc>
+  <PresetCustom_label></PresetCustom_label>
+  <Preset0_title>비활성화</Preset0_title>
+  <Preset0_desc>모든 옵션이 비활성화됩니다. 모드 기능의 일부만을 사용하는 구성에 적합한 설정입니다.</Preset0_desc>
+  <Preset0_label></Preset0_label>
+  <Preset1half_title>가볍게</Preset1half_title>
+  <Preset1half_desc>하나의 근접 무기를 휴대무기로 허용합니다.</Preset1half_desc>
+  <Preset1half_label></Preset1half_label>
+  <Preset1_title>장착용</Preset1_title>
+  <Preset1_desc>휴대무기의 착용만 허용하지 다른 기능은 없습니다. 단순히 장비칸 확장이라 생각하면 됩니다.</Preset1_desc>
+  <Preset1_label></Preset1_label>
+  <Preset2_title>기본</Preset2_title>
+  <Preset2_desc>간단한 설정입니다. 정착민은 몇 가지 가벼운 무기를 사용할 수 있고 적절한 상황에서 사용하려 할것입니다.</Preset2_desc>
+  <Preset2_label></Preset2_label>
+  <Preset3_title>고급</Preset3_title>
+  <Preset3_desc>정착민은 무기 선택에 있어서 창의적으로 행동 하지만, 여전히 위험한 림월드에서 생존하기에는 일반 사람들이 기대할 수 있는 범위 내에 머물러 있습니다.</Preset3_desc>
+  <Preset3_label></Preset3_label>
+  <Preset4_title>초월</Preset4_title>
+  <Preset4_desc>다 가져와! 미니건? 두개 가져와! 창이라고? 내 가방에 종류별로 가지고 있지!</Preset4_desc>
+  <Preset4_label></Preset4_label>
+  <Preset5_title>전투광</Preset5_title>
+  <Preset5_desc>모두를 위한 근접 휴대무기입니다.</Preset5_desc>
+  <Preset5_label></Preset5_label>
+  <SidearmPickupFail_NoFreeSpace>빈 공간 없음</SidearmPickupFail_NoFreeSpace>
+  <SidearmPickupFail_TooHeavyForSidearm>너무 무거운 장비</SidearmPickupFail_TooHeavyForSidearm>
+  <SidearmPickupFail_TooHeavyForSidearmMelee>너무 무거운 근접 장비</SidearmPickupFail_TooHeavyForSidearmMelee>
+  <SidearmPickupFail_TooHeavyForSidearmRanged>너무 무거운 원거리 장비</SidearmPickupFail_TooHeavyForSidearmRanged>
+  <SidearmPickupFail_SidearmsTooHeavy>휴대무기가 너무 무거움</SidearmPickupFail_SidearmsTooHeavy>
+  <SidearmPickupFail_SidearmsTooHeavyMelee>근접 휴대무기가 너무 무거움</SidearmPickupFail_SidearmsTooHeavyMelee>
+  <SidearmPickupFail_SidearmsTooHeavyRanged>원거리 휴대무기가 너무 무거움</SidearmPickupFail_SidearmsTooHeavyRanged>
+  <SidearmPickupFail_SidearmsTooHeavyInTotal>휴대무기가 너무 무거움</SidearmPickupFail_SidearmsTooHeavyInTotal>
+  <SidearmPickupFail_NotASidearm>휴대무기 아님</SidearmPickupFail_NotASidearm>
+  <SidearmPickupFail_NotASidearmMelee>근접 휴대무기 아님</SidearmPickupFail_NotASidearmMelee>
+  <SidearmPickupFail_NotASidearmRanged>원거리 휴대무기 아님</SidearmPickupFail_NotASidearmRanged>
+  <SidearmPickupFail_AllSlotsFull>공간 가득 참</SidearmPickupFail_AllSlotsFull>
+  <SidearmPickupFail_MeleeSlotsFull>근거리 공간 가득 참</SidearmPickupFail_MeleeSlotsFull>
+  <SidearmPickupFail_RangedSlotsFull>원거리 공간 가득 참</SidearmPickupFail_RangedSlotsFull>
+  <SidearmPickupFail_NotAToolForPacifist>도구아님 {0}(은)는 싸울 수 없음</SidearmPickupFail_NotAToolForPacifist>
+  <SidearmPickupPass>문제 없음</SidearmPickupPass>
+  <AsSidearm> (휴대무기)</AsSidearm>
+  <AsTool> 도구</AsTool>
+  <Preset_option_NoneApplied>없음</Preset_option_NoneApplied>
+  <Preset_option_Custom>사용자 설정</Preset_option_Custom>
+  <Preset_option_Lite>가볍게</Preset_option_Lite>
+  <Preset_option_Disabled>비활성화</Preset_option_Disabled>
+  <Preset_option_LoadoutOnly>장착용</Preset_option_LoadoutOnly>
+  <Preset_option_Basic>기본</Preset_option_Basic>
+  <Preset_option_Advanced>고급</Preset_option_Advanced>
+  <Preset_option_Excessive>초월</Preset_option_Excessive>
+  <Preset_option_Brawler>전투광</Preset_option_Brawler>
+  <WeaponListKind_option_Both>둘 다</WeaponListKind_option_Both>
+  <WeaponListKind_option_Melee>근거리</WeaponListKind_option_Melee>
+  <WeaponListKind_option_Ranged>원거리</WeaponListKind_option_Ranged>
+  <TribalWeapons>부족</TribalWeapons>
+  <NonTribalWeapons>부족 아님</NonTribalWeapons>
+  <ConsideredSidearms>휴대무기</ConsideredSidearms>
+  <NotConsideredSidearms>휴대무기 아님</NotConsideredSidearms>
+  <LockedWeaponSwitch>자동전환 꺼짐 (원거리)</LockedWeaponSwitch>
+  <UnlockedWeaponSwitch>자동전환 켜짐 (원거리)</UnlockedWeaponSwitch>
+  <WeaponSwitchAutolockOn>자동전환 잠금 켜짐</WeaponSwitchAutolockOn>
+  <WeaponSwitchAutolockOff>자동전환 잠금 꺼짐</WeaponSwitchAutolockOff>
+  <DrawSidearm_gizmoTitle>휴대무기</DrawSidearm_gizmoTitle>
+  <SidearmPreference_Ranged>원거리 무기 사용</SidearmPreference_Ranged>
+  <SidearmPreference_Skill>기술이나 열정에 따라 무기 사용</SidearmPreference_Skill>
+  <SidearmPreference_Melee>근접 무기 사용</SidearmPreference_Melee>
+  <DrawSidearm_gizmoTooltipRanged>좌클릭: 기본값으로 {0} 원거리 무기 설정
+우클릭: {0} 떨어뜨리기</DrawSidearm_gizmoTooltipRanged>
+  <DrawSidearm_gizmoTooltipMelee>좌클릭: 선호하는 {0} 근접무기 설정
+우클릭: {0} 떨어뜨리기</DrawSidearm_gizmoTooltipMelee>
+  <DrawSidearm_gizmoTooltipRangedDefault>좌클릭: {0} 강제 사용
+우클릭: {0} 기본 원거리 무기 설정해제</DrawSidearm_gizmoTooltipRangedDefault>
+  <DrawSidearm_gizmoTooltipMeleePreferred>좌클릭: {0} 강제사용
+우클릭: {0} 선호하는 근접 무기 해제</DrawSidearm_gizmoTooltipMeleePreferred>
+  <DrawSidearm_gizmoTooltipForced>우클릭: {0} 강제 사용 해제</DrawSidearm_gizmoTooltipForced>
+  <DrawSidearm_gizmoTooltipWhileDrafted>좌클릭: 전투가 끝날 때까지 {0} 강제사용</DrawSidearm_gizmoTooltipWhileDrafted>
+  <DrawSidearm_gizmoTooltipForcedWhileDrafted>우클릭: {0} 강제 사용 해제</DrawSidearm_gizmoTooltipForcedWhileDrafted>
+  <DrawSidearm_gizmoTooltipMemory>우클릭: {0} 지우기</DrawSidearm_gizmoTooltipMemory>
+  <DrawSidearm_gizmoTooltipMemoryWhileDrafted>소집 중인 동안 상호작용 없음</DrawSidearm_gizmoTooltipMemoryWhileDrafted>
+  <DrawSidearm_gizmoTooltipUnarmed>좌클릭: 맨손 전투를 기본 근접전투로 설정</DrawSidearm_gizmoTooltipUnarmed>
+  <DrawSidearm_gizmoTooltipUnarmedPreferred>좌클릭: 맨손 전투 강제사용
+우클릭: 기본 근접전투 설정의 맨손 전투 제거</DrawSidearm_gizmoTooltipUnarmedPreferred>
+  <DrawSidearm_gizmoTooltipUnarmedForced>우클릭: 맨손 전투 강제사용 제거</DrawSidearm_gizmoTooltipUnarmedForced>
+  <DrawSidearm_gizmoTooltipUnarmedWhileDrafted>좌클릭: 전투가 끝날 때까지 맨손전투 강제사용</DrawSidearm_gizmoTooltipUnarmedWhileDrafted>
+  <DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>우클릭: 맨손 전투 강제사용 제거</DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>
+  <Alert_MissingSidearm_label>정착민 휴대무기 잃어버림</Alert_MissingSidearm_label>
+  <Alert_MissingPrimary_label>정착민 주무기 잃어버림</Alert_MissingPrimary_label>
+  <Alert_MissingSidearm_desc>이 정착민은 하나 또는 그 이상의 휴대무기를 잃어버렸습니다:
+
+{0}</Alert_MissingSidearm_desc>
+  <Alert_MissingPrimary_desc>이 정착민은 주무기를 잃어버렸습니다:
+
+{0}</Alert_MissingPrimary_desc>
+  <DropMode_option_Panic>근접</DropMode_option_Panic>
+  <DropMode_option_PanicOrRange>원거리</DropMode_option_PanicOrRange>
+  <SidearmsEnableNeolithicExtension_desc>부족들에게도 더 많은 휴대무기를 사용하도록 허용합니다.</SidearmsEnableNeolithicExtension_desc>
+  <SidearmsEnableNeolithicExtension_title>원시의 축복</SidearmsEnableNeolithicExtension_title>
+  <SidearmsNeolithicExtension_desc></SidearmsNeolithicExtension_desc>
+  <SidearmsNeolithicExtension_title>부족들이 사용할 휴대무기들</SidearmsNeolithicExtension_title>
+
+</LanguageData>

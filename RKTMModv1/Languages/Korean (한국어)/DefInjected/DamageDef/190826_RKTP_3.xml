@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1267084448_190816_Filthy Orc Invasion-->
+  <RangedHack.label>잘림</RangedHack.label>
+  <RangedHack.deathMessage>{0}(은)는 쪼개져 죽었습니다.</RangedHack.deathMessage>
+
+  <!--1294507772_190519_The Mantodean insectoid race-->
+  <MantoPoison.label>독</MantoPoison.label>
+  <MantoPoison.deathMessage>{0}(은)는 중독되어 죽었습니다.</MantoPoison.deathMessage>
+  <MantoPoisonTrap.label>독</MantoPoisonTrap.label>
+  <MantoPoisonTrap.deathMessage>{0}(은)는 중독되어 죽었습니다.</MantoPoisonTrap.deathMessage>
+
+  <!--1314474881_181118_Avali-->
+  <PlasmaCut.label>플라스마 절단</PlasmaCut.label>
+  <PlasmaCut.deathMessage>{0}(이)가 잘려 죽었습니다.</PlasmaCut.deathMessage>
+  <PlasmaBullet.label>플라스마 총알</PlasmaBullet.label>
+  <PlasmaBullet.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</PlasmaBullet.deathMessage>
+  <PlasmaBomb.label>플라스마 폭탄</PlasmaBomb.label>
+  <PlasmaBomb.deathMessage>{0}(이)가 폭사했습니다.</PlasmaBomb.deathMessage>
+  <EMPOrb.label>에너지 오브</EMPOrb.label>
+  <EMPOrb.deathMessage>{0}(이)가 EMP에 휩쓸려 죽었습니다.</EMPOrb.deathMessage>
+
+  <!--1365540920_190714_Black Widows-->
+  <BW_Slash.label>블랙 위도우 강타</BW_Slash.label>
+  <BW_Slash.deathMessage>{0}(은)는 물려죽었습니다.</BW_Slash.deathMessage>
+  <BW_Puncture.label>블랙 위도우 찌르기</BW_Puncture.label>
+  <BW_Puncture.deathMessage>{0}(은)는 찔려죽었습니다.</BW_Puncture.deathMessage>
+
+  <!--1416483638_190811_Orassans-->
+  <OFrostbite.label>동상</OFrostbite.label>
+  <OFrostbite.deathMessage>{0}(은)는 동상에 걸렸습니다.</OFrostbite.deathMessage>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <RRY_XenoTailWhipBlunt.label>둔기</RRY_XenoTailWhipBlunt.label>
+  <RRY_XenoTailWhipBlunt.deathMessage>{0}(은)는 맞아죽었습니다.</RRY_XenoTailWhipBlunt.deathMessage>
+  <RRY_AcidDamage.label>산성</RRY_AcidDamage.label>
+  <RRY_AcidDamage.deathMessage>{0}(은)는 타죽었습니다.</RRY_AcidDamage.deathMessage>
+  <RRY_AcidBurn.label>산성 화상</RRY_AcidBurn.label>
+  <RRY_AcidBurn.deathMessage>{0}(은)는 타죽었습니다.</RRY_AcidBurn.deathMessage>
+  <RRY_EmergingChestbursterDD.label>채스트버스터</RRY_EmergingChestbursterDD.label>
+  <RRY_EmergingChestbursterDD.deathMessage>{0}(은)는 가슴이 뚫려 죽었습니다.</RRY_EmergingChestbursterDD.deathMessage>
+  <RRY_Bomb.label>폭탄</RRY_Bomb.label>
+  <RRY_Bomb.deathMessage>{0}(은)는 폭사했습니다..</RRY_Bomb.deathMessage>
+  <RRY_BombSuper.label>폭탄</RRY_BombSuper.label>
+  <RRY_BombSuper.deathMessage>{0}(은)는 폭사했습니다..</RRY_BombSuper.deathMessage>
+  <RRY_Plasma.label>플라즈마</RRY_Plasma.label>
+  <RRY_Plasma.deathMessage>{0}(은)는 플라즈마 볼트에 타죽었습니다.</RRY_Plasma.deathMessage>
+  <RRY_RangedCut.label>절단</RRY_RangedCut.label>
+  <RRY_RangedCut.deathMessage>{0}(은)는 잘려 죽었습니다.</RRY_RangedCut.deathMessage>
+  <RRY_RangedStab.label>관통</RRY_RangedStab.label>
+  <RRY_RangedStab.deathMessage>{0}(은)는 찔려 죽었습니다.</RRY_RangedStab.deathMessage>
+  <RRY_RangedStab_Combi.label>관통</RRY_RangedStab_Combi.label>
+  <RRY_RangedStab_Combi.deathMessage>{0}(은)는 찔려 죽었습니다.</RRY_RangedStab_Combi.deathMessage>
+
+  <!--1571323744_190714_Crystalloid (Rewrite)-->
+  <Psionic.label>사이오닉</Psionic.label>
+  <Psionic.deathMessage>{0}(은)는 쏘여 죽었습니다.</Psionic.deathMessage>
+  <ShardExplosion.label>조각</ShardExplosion.label>
+  <ShardExplosion.deathMessage>{0}(은)는 파편 폭발로 죽었습니다.</ShardExplosion.deathMessage>
+  <PsyBlast.label>사이오닉 폭발</PsyBlast.label>
+  <PsyBlast.deathMessage>{0}(은)는 뇌 폭발로 죽었습니다.</PsyBlast.deathMessage>
+
+  <!--1632244750_190708_Oni of the Rim-->
+  <OniDart.label>오니 화살</OniDart.label>
+  <OniDart.deathMessage>{0}(은)는 쏘여죽었습니다.</OniDart.deathMessage>
+  <Onithrowin.label>오니 전쟁 단검</Onithrowin.label>
+  <Onithrowin.deathMessage>{0}(은)는 날아온 단검에 맞아 죽었습니다.</Onithrowin.deathMessage>
+
+  <!--1706345856_190811_Warhammer Skaven-->
+  <SkavenPoison.label>화학적 화상</SkavenPoison.label>
+  <SkavenPoison.deathMessage>{0}(은)는 질식사했습니다.</SkavenPoison.deathMessage>
+  <SkavenBlunt.label>둔기</SkavenBlunt.label>
+  <SkavenBlunt.deathMessage>{0}(은)는 맞아죽었습니다.</SkavenBlunt.deathMessage>
+  <SkavenBullet.label>탄약</SkavenBullet.label>
+  <SkavenBullet.deathMessage>{0}(은)는 쏘여 죽었습니다.</SkavenBullet.deathMessage>
+  <SkavenShockProd.label>전기 화상</SkavenShockProd.label>
+  <SkavenShockProd.deathMessage>{0}(은)는 쇼크로 죽었습니다.</SkavenShockProd.deathMessage>
+
+  <!--1728999127_190813_Forsakens-->
+  <HydraBlast.label>하이드라블래스트</HydraBlast.label>
+  <HydraBlast.deathMessage>{0}(이)가 하이드라블래스트로 사망했습니다.</HydraBlast.deathMessage>
+
+  <!--1785657108_190811_Humanoid Project-->
+  <BlueFire.label>불탐</BlueFire.label>
+  <BlueFire.deathMessage>{0}(은)는 불타죽었습니다.</BlueFire.deathMessage>
+  <RedFire.label>불탐</RedFire.label>
+  <RedFire.deathMessage>{0}(은)는 불타죽었습니다</RedFire.deathMessage>
+  <GreenFire.label>불탐</GreenFire.label>
+  <GreenFire.deathMessage>{0}(은)는 불타죽었습니다</GreenFire.deathMessage>
+  <LaserImpact.label>레이저</LaserImpact.label>
+  <LaserImpact.deathMessage>{0}(은)는 에너지 무기에의해 죽었습니다.</LaserImpact.deathMessage>
+  <LaserHit.label>피부 화상</LaserHit.label>
+  <LaserHit.deathMessage>{0}(은)는 타죽었습니다.</LaserHit.deathMessage>
+
+  <!--882126182_181000_Call of Cthulhu - Elder Things-->
+  <ElderThing_Psychic.label>사이오닉 공격</ElderThing_Psychic.label>
+  <ElderThing_Psychic.deathMessage>{0}(은)는 사이오닉 충격으로 사망했습니다.</ElderThing_Psychic.deathMessage>
+  <ElderThing_PsionicBlastDamage.label>사이오닉 폭발</ElderThing_PsionicBlastDamage.label>
+  <ElderThing_PsionicBlastDamage.deathMessage>{0}(은)는 사망했습니다.</ElderThing_PsionicBlastDamage.deathMessage>
+
+</LanguageData>

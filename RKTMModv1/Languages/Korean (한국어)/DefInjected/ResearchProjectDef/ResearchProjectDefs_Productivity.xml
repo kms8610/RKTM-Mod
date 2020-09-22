@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ProductivityI.label>생산성 I</ProductivityI.label>
+	<ProductivityI.description>정착지가 생산성을 향상하기 위해 할 수 있는 것은 꽤 많습니다. 전역 작업 속도를 5% 향상합니다.</ProductivityI.description>
+
+    <ProductivityII.label>생산성 II</ProductivityII.label>
+	<ProductivityII.description>전역 작업 속도를 5% 향상합니다.</ProductivityII.description>
+
+	<ProductivityIII.label>생산성 III</ProductivityIII.label>
+	<ProductivityIII.description>전역 작업 속도를 10% 향상하고 이동 속도를 5% 향상합니다.</ProductivityIII.description>
+
+	<ProductivityIV.label>생산성 IV</ProductivityIV.label>
+	<ProductivityIV.description>전역 작업 속도를 10% 향상하고 이동 속도를 10% 향상합니다.</ProductivityIV.description>
+
+	<ProductivityV.label>생산성 V</ProductivityV.label>
+	<ProductivityV.description>전역 작업 속도를 10% 향상하고 이동 속도를 10% 향상합니다.</ProductivityV.description>
+
+	<ProductivityRepeatable.label>생산성 (반복 가능)</ProductivityRepeatable.label>
+	<ProductivityRepeatable.description>연구할 때마다 전역 작업 속도를 1%, 이동 속도를 1% 향상합니다. 이 연구는 반복 가능하며, 밸런스를 위해 연구가 끝낼 때마다 비용이 20%씩 증가할 것입니다. 이 연구를 반복한 횟수: 0</ProductivityRepeatable.description>
+
+	<AdvGrowingI.label>효과적인 농사 I</AdvGrowingI.label>
+	<AdvGrowingI.description>재배 속도를 5% 증가시킵니다.</AdvGrowingI.description>
+
+	<AdvGrowingII.label>효과적인 농사 II</AdvGrowingII.label>
+	<AdvGrowingII.description>재배 속도를 7.5% 증가시킵니다.</AdvGrowingII.description>
+
+	<AdvGrowingIII.label>효과적인 농사 III</AdvGrowingIII.label>
+	<AdvGrowingIII.description>재배 속도를 7.5%, 재배 수확량을 2.5% 증가시킵니다.</AdvGrowingIII.description>
+
+	<AdvGrowingIV.label>효과적인 농사 IV</AdvGrowingIV.label>
+	<AdvGrowingIV.description>재배 속도를 12.5%, 재배 수확량을 5% 증가시킵니다.</AdvGrowingIV.description>
+
+</LanguageData>

@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1082915328_190627_Expanded Woodworking-->
+  <WoodLumber.label>재목</WoodLumber.label>
+  <WoodTypes.label>나무 종류</WoodTypes.label>
+
+  <!--1120445716_190627_Reclaim, Reuse, Recycle-->
+  <BodyPartsMangled_Advanced.label>손상된 고급 신체부위</BodyPartsMangled_Advanced.label>
+  <BodyPartsNonSterile_Advanced.label>비살균된 고급 신체부위</BodyPartsNonSterile_Advanced.label>
+  <BodyPartsMangled_Glittertech.label>손상된 번화계 신체부위</BodyPartsMangled_Glittertech.label>
+  <BodyPartsNonSterile_Glittertech.label>비살균된 번화계 신체부위</BodyPartsNonSterile_Glittertech.label>
+  <BodyPartsMangled.label>손상된 신체부위</BodyPartsMangled.label>
+  <BodyPartsNonSterile.label>비살균된 신체부위</BodyPartsNonSterile.label>
+  <BodyPartsMangled_Primitive.label>손상된 기초 신체부위</BodyPartsMangled_Primitive.label>
+  <BodyPartsNonSterile_Primitive.label>비살균된 기초 신체부위</BodyPartsNonSterile_Primitive.label>
+  <BodyPartsReclaimed.label>회수된 신체부위</BodyPartsReclaimed.label>
+
+  <!--1135542536_190818_Shear Those Corpses Vanilla-->
+  <FiberRaw.label>잡털</FiberRaw.label>
+
+  <!--1135543265_190818_Shear Those Corpses ACP-->
+  <FiberRaw.label>잡털</FiberRaw.label>
+
+  <!--1140051385_181113_Smokeleaf_Industry-->
+  <SmokeleafIndCatDrugs.label>연초잎 의약품</SmokeleafIndCatDrugs.label>
+  <SmokeleafIndCatEdibles.label>연초잎 식품</SmokeleafIndCatEdibles.label>
+
+  <!--1187010034_181028_Rim of Madness - Vampires-->
+  <ROMV_Blood.label>혈액 팩들</ROMV_Blood.label>
+
+  <!--1231678757_190814_Technology Blueprints-->
+  <TechnologyBlueprints.label>기술 청사진</TechnologyBlueprints.label>
+
+  <!--1301071669_190521_Cyberpunk-->
+  <CPApparels.label>사이버펑크 의류</CPApparels.label>
+  <CPHeadgears.label>사이버펑크 헬멧</CPHeadgears.label>
+  <CPWeapons.label>사이버펑크 무기</CPWeapons.label>
+
+  <!--1400245220_181030_Lord of the Rims - The Third Age-->
+  <LotR_MeatRawSalted.label>소금절임 고기</LotR_MeatRawSalted.label>
+
+  <!--1402763255_181030_Lord of the Rims - Unlimited-->
+  <LotR_MeatRawSalted.label>소금절임 고기</LotR_MeatRawSalted.label>
+
+  <!--1498573216_181028_Polarisbloc - Mechenemy-->
+  <Vanya_WeaponMech.label>메카노이드 무기</Vanya_WeaponMech.label>
+
+  <!--1498756997_190814_Maid Project-->
+  <MaidProject.label>메이드 프로젝트</MaidProject.label>
+
+  <!--1513614894_190519_Slightly More Realistic Wool Production-->
+  <fleeceCategory.label>털뭉치</fleeceCategory.label>
+
+  <!--1522917562_190628_Vanilla-like wheat-->
+  <VLW_CategoryProcessed.label>가공된 곡물</VLW_CategoryProcessed.label>
+
+  <!--1526049935_190814_Metro Armory-->
+  <MetroArmoryMelee.label>근접</MetroArmoryMelee.label>
+  <MetroArmoryRanged.label>원거리</MetroArmoryRanged.label>
+  <MetroArmory.label>메트로</MetroArmory.label>
+
+  <!--1532531127_190622_Vanya Shield-->
+  <Vanya_Shield.label>반야 방어 벨트</Vanya_Shield.label>
+
+  <!--1539311991_190814_Fishing-->
+  <CorpsesFish.label>물고기의 시체</CorpsesFish.label>
+
+  <!--1541243129_190628_Rimperion-->
+  <RimperionWeapons.label>하이페리온 무기</RimperionWeapons.label>
+
+  <!--1541353047_190628_Zombiefied-->
+  <CorpsesZombie.label>좀비 시체</CorpsesZombie.label>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu_H2O.label>식수</Mizu_H2O.label>
+  <Mizu_Ices.label>얼음</Mizu_Ices.label>
+  <Mizu_Snows.label>눈</Mizu_Snows.label>
+  <Mizu_Tools.label>도구</Mizu_Tools.label>
+  <Mizu_Waters.label>물</Mizu_Waters.label>
+
+  <!--1543060282_181101_Additional Joy Objects-->
+  <AJO_Arcades.label>오락기</AJO_Arcades.label>
+  <AJO_artCat.label>예술</AJO_artCat.label>
+  <AJO_ArcadeCarts.label>카트리지</AJO_ArcadeCarts.label>
+
+  <!--1547881310_190814_Rimfall The Frontier-->
+  <MilitiaGruntKit.label>저항군 보병 키트</MilitiaGruntKit.label>
+  <RimfallKit.label>타이탄폴 키트</RimfallKit.label>
+  <TitanfallWeapons.label>타이탄폴 무기들</TitanfallWeapons.label>
+
+  <!--1549446374_190519_Musical Instruments-->
+  <MusicalInstruments.label>악기</MusicalInstruments.label>
+
+  <!--1566269698_181119_Survival Tools-->
+  <SurvivalToolsSpacer.label>고급 도구</SurvivalToolsSpacer.label>
+  <SurvivalToolsNeolithic.label>기본 도구</SurvivalToolsNeolithic.label>
+  <SurvivalToolsIndustrial.label>현대 도구</SurvivalToolsIndustrial.label>
+  <SurvivalTools.label>도구들</SurvivalTools.label>
+
+  <!--1567775191_181119_[N17] Thaumrim-->
+  <CCultArmour.label>갑옷</CCultArmour.label>
+  <CCultClothing.label>의상</CCultClothing.label>
+  <CCultWeapons.label>크림슨 이교도</CCultWeapons.label>
+  <CCultApparel.label>크림슨 이교도</CCultApparel.label>
+  <CCultMelee.label>근거리 무기</CCultMelee.label>
+  <CCultRanged.label>원거리 무기</CCultRanged.label>
+
+  <!--1588616696_190526_[1.0] Combat Shields-->
+  <Shield.label>방패</Shield.label>
+
+  <!--1645324706_190519_Religions of Rimworld-->
+  <ReligiousBuilding.label>종교</ReligiousBuilding.label>
+
+  <!--1720751798_190519_[RH] Faction Task Force 141 (1.0)-->
+  <RNApparel_Belts.label>장신구</RNApparel_Belts.label>
+  <RN_Airstrikes.label>공습호출기</RN_Airstrikes.label>
+  <RN_AKStyle.label>AK계 소총</RN_AKStyle.label>
+  <RN_AMR.label>대물저격총</RN_AMR.label>
+  <RN_ARStyle.label>AR계 소총</RN_ARStyle.label>
+  <RN_AssaultRifle.label>돌격소총</RN_AssaultRifle.label>
+  <RN_MiscRanged.label>칼과 활</RN_MiscRanged.label>
+  <RNApparel_BodyArmor.label>방탄복</RNApparel_BodyArmor.label>
+  <RN_BoltAction.label>샷건</RN_BoltAction.label>
+  <RN_BullpupStyle.label>스트라이튼 라이플</RN_BullpupStyle.label>
+  <RNApparel_Casual.label>캐주얼</RNApparel_Casual.label>
+  <RNApparel_ShellCasual.label>캐주얼 자켓</RNApparel_ShellCasual.label>
+  <RNApparel_ShellCombat.label>전투용 자켓</RNApparel_ShellCombat.label>
+  <RNApparel_Combat.label>전투복</RNApparel_Combat.label>
+  <RN_DMR.label>저격소총</RN_DMR.label>
+  <RNApparel_Formal.label>정장 셔츠</RNApparel_Formal.label>
+  <RNApparel_ShellFormal.label>정장 자켓</RNApparel_ShellFormal.label>
+  <RN_GrenadeLaunchers.label>유탄발사기</RN_GrenadeLaunchers.label>
+  <RNHeadgear_Hats.label>모자</RNHeadgear_Hats.label>
+  <RNHeadgear_Helmets.label>방탄모</RNHeadgear_Helmets.label>
+  <RN_Grenades.label>살살용 수류탄</RN_Grenades.label>
+  <RN_LMGMain.label>기관총</RN_LMGMain.label>
+  <RNHeadgear_Masks.label>마스크</RNHeadgear_Masks.label>
+  <RN_MREFoodMeals.label>군용 식량</RN_MREFoodMeals.label>
+  <RN_GrenadesNL.label>비살상용 수류탄</RN_GrenadesNL.label>
+  <RN_OldieRifle.label>스트라이튼 라이플</RN_OldieRifle.label>
+  <RN_OneTimeUseThrown.label>일회용 폭탄</RN_OneTimeUseThrown.label>
+  <RN_OneTimeUseLaunchers.label>일회용발사기</RN_OneTimeUseLaunchers.label>
+  <RN_Pistols.label>권총</RN_Pistols.label>
+  <RN_Revolvers.label>리볼버</RN_Revolvers.label>
+  <RNApparel_Main.label>Rimmu-Nation 의류</RNApparel_Main.label>
+  <RNHeadgear_Main.label>Rimmu-Nation 머리 장비</RNHeadgear_Main.label>
+  <RN_MeleeMain.label>Rimmu-Nation 근접 무기</RN_MeleeMain.label>
+  <RN_RangedMain.label>Rimmu-Nation 원거리 무기</RN_RangedMain.label>
+  <RN_RocketLaunchers.label>로켓발사기</RN_RocketLaunchers.label>
+  <RN_ShotgunsMain.label>샷건</RN_ShotgunsMain.label>
+  <RN_PDWMain.label>돌격총</RN_PDWMain.label>
+  <RN_SpacerMain.label>SF 무기</RN_SpacerMain.label>
+
+  <!--1772606627_190714_Fantastic Flora-->
+  <FruitFoodRaw.label>과일</FruitFoodRaw.label>
+
+  <!--1778162471_190626_RazzleDazzle-->
+  <Art.label>예술</Art.label>
+
+  <!--719702781_190814_Misc. Incidents-->
+  <Computer.label>컴퓨터</Computer.label>
+
+  <!--724600171_190621_Misc. MAI-->
+  <Robots.label>로봇</Robots.label>
+
+  <!--724602224_190626_Misc. Robots-->
+  <Robots.label>로봇</Robots.label>
+
+  <!--726855894_190818_USCM - Core-->
+  <USCMApparels.label>USCM 의상</USCMApparels.label>
+  <USCMHeadgears.label>USCM 머리장비</USCMHeadgears.label>
+  <USCMWeapons.label>USCM 무기</USCMWeapons.label>
+
+  <!--726859932_190818_USCM - Turret-->
+  <USCMTurrets.label>USCM 보안 장비</USCMTurrets.label>
+
+  <!--732569232_190814_Medieval Times-->
+  <Accessories.label>장신구</Accessories.label>
+  <BodyArmour.label>방어구</BodyArmour.label>
+  <HeadArmour.label>방어구</HeadArmour.label>
+  <HandArmour.label>방어구</HandArmour.label>
+  <FootArmour.label>방어구</FootArmour.label>
+  <WeaponsMelee_Art.label>유물</WeaponsMelee_Art.label>
+  <WeaponsRanged_Art.label>유물</WeaponsRanged_Art.label>
+  <BodyArmour_Art.label>유물</BodyArmour_Art.label>
+  <HeadArmour_Art.label>유물</HeadArmour_Art.label>
+  <HandArmour_Art.label>유물</HandArmour_Art.label>
+  <FootArmour_Art.label>유물</FootArmour_Art.label>
+  <Accessories_Art.label>유물</Accessories_Art.label>
+  <Bodygear.label>몸통 장비</Bodygear.label>
+  <Footgear.label>발 장비</Footgear.label>
+  <WeaponsRangedGrenades_Leg.label>수류탄</WeaponsRangedGrenades_Leg.label>
+  <WeaponsRangedGrenades_Art.label>수류탄</WeaponsRangedGrenades_Art.label>
+  <WeaponsRangedGrenades_Nanite.label>수류탄</WeaponsRangedGrenades_Nanite.label>
+  <Handgear.label>손 장비</Handgear.label>
+  <WeaponsMelee_Leg.label>전설</WeaponsMelee_Leg.label>
+  <WeaponsRanged_Leg.label>전설</WeaponsRanged_Leg.label>
+  <BodyArmour_Leg.label>전설</BodyArmour_Leg.label>
+  <HeadArmour_Leg.label>전설</HeadArmour_Leg.label>
+  <HandArmour_Leg.label>전설</HandArmour_Leg.label>
+  <FootArmour_Leg.label>전설</FootArmour_Leg.label>
+  <Accessories_Leg.label>전설</Accessories_Leg.label>
+  <MedArtillary.label>중세 무장</MedArtillary.label>
+  <WeaponsMelee_Nan.label>나나이트</WeaponsMelee_Nan.label>
+  <WeaponsRanged_Nan.label>나나이트</WeaponsRanged_Nan.label>
+  <BodyArmour_Nan.label>나나이트</BodyArmour_Nan.label>
+  <HeadArmour_Nan.label>나나이트</HeadArmour_Nan.label>
+  <HandArmour_Nan.label>나나이트</HandArmour_Nan.label>
+  <FootArmour_Nan.label>나나이트</FootArmour_Nan.label>
+  <Accessories_Nan.label>나나이트</Accessories_Nan.label>
+  <Outergear.label>머리 장비</Outergear.label>
+  <TradeGoods.label>무역품</TradeGoods.label>
+
+  <!--746425621_181026_A dog said-->
+  <BodyPartsAnimalArtificial.label>동물 신체 부위</BodyPartsAnimalArtificial.label>
+
+  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
+  <ROM_CosmicHorrorCorpses.label>괴물 시체</ROM_CosmicHorrorCorpses.label>
+  <ROM_StrangeMeatRaw.label>이상한 생고기</ROM_StrangeMeatRaw.label>
+
+  <!--839005762_190628_Humanoid Alien Races-->
+  <alienCorpseCategory.label>외계인 시체</alienCorpseCategory.label>
+
+  <!--918200645_190816_Star Wars - Fully Functional Lightsabers-->
+  <PJ_KyberCrytalsRare.label>크리스탈 아티팩트</PJ_KyberCrytalsRare.label>
+  <PJ_KyberCrystals.label>세이버 크리스탈</PJ_KyberCrystals.label>
+
+  <!--918227266_181112_Star Wars - Factions-->
+  <PJ_VibroMotors.label>진동 칼날 모터</PJ_VibroMotors.label>
+
+  <!--950475543_190818_Rim of Madness - Arachnophobia-->
+  <ROMA_Cocoons.label>고치</ROMA_Cocoons.label>
+
+  <!--1185269798_190818_VGP Garden Fabrics-->
+  <GardenFabrics.label>미가공 직물</GardenFabrics.label>
+
+</LanguageData>

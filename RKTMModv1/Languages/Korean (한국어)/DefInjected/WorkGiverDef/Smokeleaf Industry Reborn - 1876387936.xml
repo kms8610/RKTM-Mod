@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsAutoTrimmer.label>연초잎 자동 손질</DoBillsAutoTrimmer.label>
+  <DoBillsAutoTrimmer.verb>연초잎 손질</DoBillsAutoTrimmer.verb>
+  <DoBillsAutoTrimmer.gerund>연초잎 손질</DoBillsAutoTrimmer.gerund>
+  <DoBillsCultivationBench.label>재배 작업대에서 연초잎 제품 생산</DoBillsCultivationBench.label>
+  <DoBillsCultivationBench.verb>연초잎 제품 생산</DoBillsCultivationBench.verb>
+  <DoBillsCultivationBench.gerund>연초잎 제품 생산</DoBillsCultivationBench.gerund>
+  <DoBillsProduceMedicinals.label>의약품 작업대에서 연초잎 의약품 생산</DoBillsProduceMedicinals.label>
+  <DoBillsProduceMedicinals.verb>의약품 생산</DoBillsProduceMedicinals.verb>
+  <DoBillsProduceMedicinals.gerund>의약품 생산</DoBillsProduceMedicinals.gerund>
+
+</LanguageData>

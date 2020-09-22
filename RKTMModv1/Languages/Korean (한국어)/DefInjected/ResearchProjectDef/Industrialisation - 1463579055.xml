@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ind_ConcreteProduction.label>Ind: 콘크리트 생산</Ind_ConcreteProduction.label>
+  <Ind_ConcreteProduction.description>콘크리트를 만들 수 있습니다.</Ind_ConcreteProduction.description>
+  <Ind_IndustrialBatteries.label>Ind: 산업용 축전기</Ind_IndustrialBatteries.label>
+  <Ind_IndustrialBatteries.description>산업용 축전기를 만들 수 있습니다.</Ind_IndustrialBatteries.description>
+  <Ind_NuclearPower.label>Ind: 원자력</Ind_NuclearPower.label>
+  <Ind_NuclearPower.description>원자력 발전기를 지을 수 있습니다.</Ind_NuclearPower.description>
+
+</LanguageData>

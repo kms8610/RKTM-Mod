@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BiomesIslands_KiwiBird.label>키위</BiomesIslands_KiwiBird.label>
+  <BiomesIslands_KiwiBird.labelPlural>키위들</BiomesIslands_KiwiBird.labelPlural>
+  <BiomesIslands_Seagull.label>갈매기</BiomesIslands_Seagull.label>
+  <BiomesIslands_Seagull.labelPlural>갈매기들</BiomesIslands_Seagull.labelPlural>
+  <BiomesIslands_OmegaDodo.label>오메가도도</BiomesIslands_OmegaDodo.label>
+  <BiomesIslands_OmegaDodo.labelPlural>오메가도도들</BiomesIslands_OmegaDodo.labelPlural>
+  <BiomesIslands_Flamingo.label>플라밍고</BiomesIslands_Flamingo.label>
+  <BiomesIslands_Flamingo.labelPlural>플라밍고들</BiomesIslands_Flamingo.labelPlural>
+  <BiomesIslands_RimCrab.label>게</BiomesIslands_RimCrab.label>
+  <BiomesIslands_RimCrab.labelPlural>게들</BiomesIslands_RimCrab.labelPlural>
+  <BiomesIslands_HermitCrab.label>소라게</BiomesIslands_HermitCrab.label>
+  <BiomesIslands_HermitCrab.labelPlural>소라게들</BiomesIslands_HermitCrab.labelPlural>
+  <BiomesIslands_Megamantis.label>메가맨티스</BiomesIslands_Megamantis.label>
+  <BiomesIslands_Megamantis.labelPlural>메가맨티스들</BiomesIslands_Megamantis.labelPlural>
+  <BiomesIslands_Treefrog.label>청개구리</BiomesIslands_Treefrog.label>
+  <BiomesIslands_Treefrog.labelPlural>청개구리들</BiomesIslands_Treefrog.labelPlural>
+  <BiomesIslands_Gigantaconda.label>거대 아나콘다</BiomesIslands_Gigantaconda.label>
+  <BiomesIslands_Gigantaconda.labelPlural>거대 아나콘다들</BiomesIslands_Gigantaconda.labelPlural>
+  <BiomesIslands_SeaTurtle.label>바다거북</BiomesIslands_SeaTurtle.label>
+  <BiomesIslands_SeaTurtle.labelPlural>바다거북들</BiomesIslands_SeaTurtle.labelPlural>
+  <BiomesIslands_MarineIguana.label>바다 이구아나</BiomesIslands_MarineIguana.label>
+  <BiomesIslands_MarineIguana.labelPlural>바다 이구아나들</BiomesIslands_MarineIguana.labelPlural>
+  <BiomesIslands_GreenGecko.label>초록 도마뱀붙이</BiomesIslands_GreenGecko.label>
+  <BiomesIslands_GreenGecko.labelPlural>초록 도마뱀붙이들</BiomesIslands_GreenGecko.labelPlural>
+
+</LanguageData>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ind_MakeConcreteFromAny.label>돌 덩어리로 콘크리트 만들기</Ind_MakeConcreteFromAny.label>
+  <Ind_MakeConcreteFromAny.description>돌 덩어리에서 콘크리트를 만들어 냅니다.</Ind_MakeConcreteFromAny.description>
+  <Ind_MakeConcreteFromAny.jobString>돌 덩어리에서 콘크리트 만들어 내기.</Ind_MakeConcreteFromAny.jobString>
+  <Ind_MakeConcreteFromSandstone.label>사암 덩어리로 콘크리트 만들기</Ind_MakeConcreteFromSandstone.label>
+  <Ind_MakeConcreteFromSandstone.description>돌 덩어리에서 콘크리트를 만들어 냅니다.</Ind_MakeConcreteFromSandstone.description>
+  <Ind_MakeConcreteFromSandstone.jobString>돌 덩어리에서 콘크리트 만들어 내기.</Ind_MakeConcreteFromSandstone.jobString>
+  <Ind_MakeConcreteFromGranite.label>화강암 덩어리로 콘크리트 만들기</Ind_MakeConcreteFromGranite.label>
+  <Ind_MakeConcreteFromGranite.description>돌 덩어리에서 콘크리트를 만들어 냅니다.</Ind_MakeConcreteFromGranite.description>
+  <Ind_MakeConcreteFromGranite.jobString>돌 덩어리에서 콘크리트 만들어 내기.</Ind_MakeConcreteFromGranite.jobString>
+  <Ind_MakeConcreteFromLimestone.label>석회암 덩어리로 콘크리트 만들기</Ind_MakeConcreteFromLimestone.label>
+  <Ind_MakeConcreteFromLimestone.description>덩어리에서 콘크리트를 만들어 냅니다.</Ind_MakeConcreteFromLimestone.description>
+  <Ind_MakeConcreteFromLimestone.jobString>돌 덩어리에서 콘크리트 만들어 내기.</Ind_MakeConcreteFromLimestone.jobString>
+  <Ind_MakeConcreteFromSlate.label>점판암 덩어리로 콘크리트 만들기</Ind_MakeConcreteFromSlate.label>
+  <Ind_MakeConcreteFromSlate.description>덩어리에서 콘크리트를 만들어 냅니다.</Ind_MakeConcreteFromSlate.description>
+  <Ind_MakeConcreteFromSlate.jobString>돌 덩어리에서 콘크리트 만들어 내기.</Ind_MakeConcreteFromSlate.jobString>
+  <Ind_MakeConcreteFromMarble.label>대리석 덩어리로 콘크리트 만들기</Ind_MakeConcreteFromMarble.label>
+  <Ind_MakeConcreteFromMarble.description>덩어리에서 콘크리트를 만들어 냅니다.</Ind_MakeConcreteFromMarble.description>
+  <Ind_MakeConcreteFromMarble.jobString>돌 덩어리에서 콘크리트 만들어 내기.</Ind_MakeConcreteFromMarble.jobString>
+  <Ind_MakeHighGradeSteelEAF.label>고강도 강철 제련하기</Ind_MakeHighGradeSteelEAF.label>
+  <Ind_MakeHighGradeSteelEAF.description>전기 아크로를 사용하여 강철로부터 고강도 강철을 제련합니다.</Ind_MakeHighGradeSteelEAF.description>
+  <Ind_MakeHighGradeSteelEAF.jobString>고강도 강철 제련하기.</Ind_MakeHighGradeSteelEAF.jobString>
+  <Ind_DeepMineSteel.label>심층부 강철 채굴</Ind_DeepMineSteel.label>
+  <Ind_DeepMineSteel.description>심층부에서 강철을 채굴합니다.</Ind_DeepMineSteel.description>
+  <Ind_DeepMineSteel.jobString>심층부에서 채굴 중.</Ind_DeepMineSteel.jobString>
+  <Ind_DeepMineCopper.label>심층부 구리 채굴</Ind_DeepMineCopper.label>
+  <Ind_DeepMineCopper.description>심층부에서 강철을 채굴합니다.</Ind_DeepMineCopper.description>
+  <Ind_DeepMineCopper.jobString>심층부에서 채굴 중.</Ind_DeepMineCopper.jobString>
+  <Ind_DeepMineAluminium.label>심층부 알루미늄 채굴</Ind_DeepMineAluminium.label>
+  <Ind_DeepMineAluminium.description>심층부에서 강철을 채굴합니다.</Ind_DeepMineAluminium.description>
+  <Ind_DeepMineAluminium.jobString>심층부에서 채굴 중.</Ind_DeepMineAluminium.jobString>
+  <Ind_DeepMinePlasteel.label>심층부 플라스틸 채굴</Ind_DeepMinePlasteel.label>
+  <Ind_DeepMinePlasteel.description>심층부에서 플라스틸을 채굴합니다.</Ind_DeepMinePlasteel.description>
+  <Ind_DeepMinePlasteel.jobString>심층부에서 채굴 중.</Ind_DeepMinePlasteel.jobString>
+  <Ind_DeepMineSilver.label>심층부 은 채굴</Ind_DeepMineSilver.label>
+  <Ind_DeepMineSilver.description>심층부에서 은을 채굴합니다.</Ind_DeepMineSilver.description>
+  <Ind_DeepMineSilver.jobString>심층부에서 채굴 중.</Ind_DeepMineSilver.jobString>
+  <Ind_DeepMineGold.label>심층부 금 채굴</Ind_DeepMineGold.label>
+  <Ind_DeepMineGold.description>심층부에서 금을 채굴합니다.</Ind_DeepMineGold.description>
+  <Ind_DeepMineGold.jobString>심층부에서 채굴 중.</Ind_DeepMineGold.jobString>
+  <Ind_DeepMineUranium.label>심층부 우라늄 채굴</Ind_DeepMineUranium.label>
+  <Ind_DeepMineUranium.description>심층부에서 우라늅을 채굴합니다.</Ind_DeepMineUranium.description>
+  <Ind_DeepMineUranium.jobString>심층부에서 채굴 중.</Ind_DeepMineUranium.jobString>
+  <Ind_DeepMineJade.label>심층부 비취 채굴</Ind_DeepMineJade.label>
+  <Ind_DeepMineJade.description>심층부에서 비취를 채굴합니다.</Ind_DeepMineJade.description>
+  <Ind_DeepMineJade.jobString>심층부에서 채굴 중.</Ind_DeepMineJade.jobString>
+  <Ind_DeepMineChunkSandstone.label>심층부 사암 덩어리 채굴</Ind_DeepMineChunkSandstone.label>
+  <Ind_DeepMineChunkSandstone.description>심층부에서 사암 덩어리를 채굴합니다.</Ind_DeepMineChunkSandstone.description>
+  <Ind_DeepMineChunkSandstone.jobString>심층부에서 채굴 중.</Ind_DeepMineChunkSandstone.jobString>
+  <Ind_DeepMineChunkGranite.label>심층부 화강암 채굴</Ind_DeepMineChunkGranite.label>
+  <Ind_DeepMineChunkGranite.description>심층부에서 화강암 덩어리를 채굴합니다.</Ind_DeepMineChunkGranite.description>
+  <Ind_DeepMineChunkGranite.jobString>심층부에서 채굴 중.</Ind_DeepMineChunkGranite.jobString>
+  <Ind_DeepMineChunkLimestone.label>심층부 석회암 채굴</Ind_DeepMineChunkLimestone.label>
+  <Ind_DeepMineChunkLimestone.description>심층부에서 석회암 덩어리를 채굴합니다.</Ind_DeepMineChunkLimestone.description>
+  <Ind_DeepMineChunkLimestone.jobString>심층부에서 채굴 중.</Ind_DeepMineChunkLimestone.jobString>
+  <Ind_DeepMineChunkSlate.label>심층부 점판암 채굴</Ind_DeepMineChunkSlate.label>
+  <Ind_DeepMineChunkSlate.description>심층부에서 점판암 덩어리를 채굴합니다.</Ind_DeepMineChunkSlate.description>
+  <Ind_DeepMineChunkSlate.jobString>심층부에서 채굴 중.</Ind_DeepMineChunkSlate.jobString>
+  <Ind_DeepMineChunkMarble.label>심층부 대리석 채굴</Ind_DeepMineChunkMarble.label>
+  <Ind_DeepMineChunkMarble.description>심층부에서 대리석 덩어리를 채굴합니다.</Ind_DeepMineChunkMarble.description>
+  <Ind_DeepMineChunkMarble.jobString>심층부에서 채굴 중.</Ind_DeepMineChunkMarble.jobString>
+
+</LanguageData>

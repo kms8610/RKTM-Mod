@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FO_Behemoth.label>베헤모스</FO_Behemoth.label>
+  <FO_Behemoth.labelPlural>베헤모스</FO_Behemoth.labelPlural>
+  <FO_Behemoth.lifeStages.0.label>베헤모스</FO_Behemoth.lifeStages.0.label>
+  <FO_Behemoth.lifeStages.0.labelPlural>베헤모스</FO_Behemoth.lifeStages.0.labelPlural>
+  <FO_Behemoth.lifeStages.0.labelMale>수컷 베헤모스</FO_Behemoth.lifeStages.0.labelMale>
+  <FO_Behemoth.lifeStages.0.labelMalePlural>수컷 베헤모스</FO_Behemoth.lifeStages.0.labelMalePlural>
+  <FO_Behemoth.lifeStages.0.labelFemale>암컷 베헤모스</FO_Behemoth.lifeStages.0.labelFemale>
+  <FO_Behemoth.lifeStages.0.labelFemalePlural>암컷 베헤모스</FO_Behemoth.lifeStages.0.labelFemalePlural>
+  <FO_Behemoth.lifeStages.1.label>베헤모스</FO_Behemoth.lifeStages.1.label>
+  <FO_Behemoth.lifeStages.1.labelPlural>베헤모스</FO_Behemoth.lifeStages.1.labelPlural>
+  <FO_Behemoth.lifeStages.1.labelMale>수컷 베헤모스</FO_Behemoth.lifeStages.1.labelMale>
+  <FO_Behemoth.lifeStages.1.labelMalePlural>수컷 베헤모스</FO_Behemoth.lifeStages.1.labelMalePlural>
+  <FO_Behemoth.lifeStages.1.labelFemale>암컷 베헤모스</FO_Behemoth.lifeStages.1.labelFemale>
+  <FO_Behemoth.lifeStages.1.labelFemalePlural>암컷 베헤모스</FO_Behemoth.lifeStages.1.labelFemalePlural>
+  <FO_Behemoth.lifeStages.2.label>베헤모스</FO_Behemoth.lifeStages.2.label>
+  <FO_Behemoth.lifeStages.2.labelPlural>베헤모스</FO_Behemoth.lifeStages.2.labelPlural>
+  <FO_Behemoth.lifeStages.2.labelMale>수컷 베헤모스</FO_Behemoth.lifeStages.2.labelMale>
+  <FO_Behemoth.lifeStages.2.labelMalePlural>수컷 베헤모스</FO_Behemoth.lifeStages.2.labelMalePlural>
+  <FO_Behemoth.lifeStages.2.labelFemale>암컷 베헤모스</FO_Behemoth.lifeStages.2.labelFemale>
+  <FO_Behemoth.lifeStages.2.labelFemalePlural>암컷 베헤모스</FO_Behemoth.lifeStages.2.labelFemalePlural>
+  <FO_Behemoth.labelMale>수컷 베헤모스</FO_Behemoth.labelMale>
+  <FO_Behemoth.labelMalePlural>수컷 베헤모스</FO_Behemoth.labelMalePlural>
+  <FO_Behemoth.labelFemale>암컷 베헤모스</FO_Behemoth.labelFemale>
+  <FO_Behemoth.labelFemalePlural>암컷 베헤모스</FO_Behemoth.labelFemalePlural>
+  <FO_DarkVandal.label>어두운 파괴자</FO_DarkVandal.label>
+  <FO_DarkVandal.labelPlural>어두운 파괴자</FO_DarkVandal.labelPlural>
+  <FO_DarkVandal.lifeStages.0.label>어두운 파괴자</FO_DarkVandal.lifeStages.0.label>
+  <FO_DarkVandal.lifeStages.0.labelPlural>어두운 파괴자</FO_DarkVandal.lifeStages.0.labelPlural>
+  <FO_DarkVandal.lifeStages.0.labelMale>수컷 어두운 파괴자</FO_DarkVandal.lifeStages.0.labelMale>
+  <FO_DarkVandal.lifeStages.0.labelMalePlural>수컷 어두운 파괴자</FO_DarkVandal.lifeStages.0.labelMalePlural>
+  <FO_DarkVandal.lifeStages.0.labelFemale>암컷 어두운 파괴자</FO_DarkVandal.lifeStages.0.labelFemale>
+  <FO_DarkVandal.lifeStages.0.labelFemalePlural>암컷 어두운 파괴자</FO_DarkVandal.lifeStages.0.labelFemalePlural>
+  <FO_DarkVandal.lifeStages.1.label>어두운 파괴자</FO_DarkVandal.lifeStages.1.label>
+  <FO_DarkVandal.lifeStages.1.labelPlural>어두운 파괴자</FO_DarkVandal.lifeStages.1.labelPlural>
+  <FO_DarkVandal.lifeStages.1.labelMale>수컷 어두운 파괴자</FO_DarkVandal.lifeStages.1.labelMale>
+  <FO_DarkVandal.lifeStages.1.labelMalePlural>수컷 어두운 파괴자</FO_DarkVandal.lifeStages.1.labelMalePlural>
+  <FO_DarkVandal.lifeStages.1.labelFemale>암컷 어두운 파괴자</FO_DarkVandal.lifeStages.1.labelFemale>
+  <FO_DarkVandal.lifeStages.1.labelFemalePlural>암컷 어두운 파괴자</FO_DarkVandal.lifeStages.1.labelFemalePlural>
+  <FO_DarkVandal.lifeStages.2.label>어두운 파괴자</FO_DarkVandal.lifeStages.2.label>
+  <FO_DarkVandal.lifeStages.2.labelPlural>어두운 파괴자</FO_DarkVandal.lifeStages.2.labelPlural>
+  <FO_DarkVandal.lifeStages.2.labelMale>수컷 어두운 파괴자</FO_DarkVandal.lifeStages.2.labelMale>
+  <FO_DarkVandal.lifeStages.2.labelMalePlural>수컷 어두운 파괴자</FO_DarkVandal.lifeStages.2.labelMalePlural>
+  <FO_DarkVandal.lifeStages.2.labelFemale>암컷 어두운 파괴자</FO_DarkVandal.lifeStages.2.labelFemale>
+  <FO_DarkVandal.lifeStages.2.labelFemalePlural>암컷 어두운 파괴자</FO_DarkVandal.lifeStages.2.labelFemalePlural>
+  <FO_DarkVandal.labelMale>수컷 어두운 파괴자</FO_DarkVandal.labelMale>
+  <FO_DarkVandal.labelMalePlural>수컷 어두운 파괴자</FO_DarkVandal.labelMalePlural>
+  <FO_DarkVandal.labelFemale>암컷 어두운 파괴자</FO_DarkVandal.labelFemale>
+  <FO_DarkVandal.labelFemalePlural>암컷 어두운 파괴자</FO_DarkVandal.labelFemalePlural>
+  <FO_DuskProwler.label>황혼의 배회자</FO_DuskProwler.label>
+  <FO_DuskProwler.labelPlural>황혼의 배회자</FO_DuskProwler.labelPlural>
+  <FO_DuskProwler.lifeStages.0.label>황혼의 배회자 새끼</FO_DuskProwler.lifeStages.0.label>
+  <FO_DuskProwler.lifeStages.0.labelPlural>황혼의 배회자 새끼</FO_DuskProwler.lifeStages.0.labelPlural>
+  <FO_DuskProwler.lifeStages.0.labelMale>수컷 황혼의 배회자 새끼</FO_DuskProwler.lifeStages.0.labelMale>
+  <FO_DuskProwler.lifeStages.0.labelMalePlural>수컷 황혼의 배회자 새끼</FO_DuskProwler.lifeStages.0.labelMalePlural>
+  <FO_DuskProwler.lifeStages.0.labelFemale>암컷 황혼의 배회자 새끼</FO_DuskProwler.lifeStages.0.labelFemale>
+  <FO_DuskProwler.lifeStages.0.labelFemalePlural>암컷 황혼의 배회자 새끼</FO_DuskProwler.lifeStages.0.labelFemalePlural>
+  <FO_DuskProwler.lifeStages.1.label>황혼의 배회자</FO_DuskProwler.lifeStages.1.label>
+  <FO_DuskProwler.lifeStages.1.labelPlural>황혼의 배회자</FO_DuskProwler.lifeStages.1.labelPlural>
+  <FO_DuskProwler.lifeStages.1.labelMale>수컷 황혼의 배회자</FO_DuskProwler.lifeStages.1.labelMale>
+  <FO_DuskProwler.lifeStages.1.labelMalePlural>수컷 황혼의 배회자</FO_DuskProwler.lifeStages.1.labelMalePlural>
+  <FO_DuskProwler.lifeStages.1.labelFemale>암컷 황혼의 배회자</FO_DuskProwler.lifeStages.1.labelFemale>
+  <FO_DuskProwler.lifeStages.1.labelFemalePlural>암컷 황혼의 배회자</FO_DuskProwler.lifeStages.1.labelFemalePlural>
+  <FO_DuskProwler.lifeStages.2.label>황혼의 배회자</FO_DuskProwler.lifeStages.2.label>
+  <FO_DuskProwler.lifeStages.2.labelPlural>황혼의 배회자</FO_DuskProwler.lifeStages.2.labelPlural>
+  <FO_DuskProwler.lifeStages.2.labelMale>수컷 황혼의 배회자</FO_DuskProwler.lifeStages.2.labelMale>
+  <FO_DuskProwler.lifeStages.2.labelMalePlural>수컷 황혼의 배회자</FO_DuskProwler.lifeStages.2.labelMalePlural>
+  <FO_DuskProwler.lifeStages.2.labelFemale>암컷 황혼의 배회자</FO_DuskProwler.lifeStages.2.labelFemale>
+  <FO_DuskProwler.lifeStages.2.labelFemalePlural>암컷 황혼의 배회자</FO_DuskProwler.lifeStages.2.labelFemalePlural>
+  <FO_DuskProwler.labelMale>수컷 황혼의 배회자</FO_DuskProwler.labelMale>
+  <FO_DuskProwler.labelMalePlural>수컷 황혼의 배회자</FO_DuskProwler.labelMalePlural>
+  <FO_DuskProwler.labelFemale>암컷 황혼의 배회자</FO_DuskProwler.labelFemale>
+  <FO_DuskProwler.labelFemalePlural>암컷 황혼의 배회자</FO_DuskProwler.labelFemalePlural>
+  <FO_Murkling.label>멀크링</FO_Murkling.label>
+  <FO_Murkling.labelPlural>멀크링</FO_Murkling.labelPlural>
+  <FO_Murkling.lifeStages.0.label>멀크링</FO_Murkling.lifeStages.0.label>
+  <FO_Murkling.lifeStages.0.labelPlural>멀크링</FO_Murkling.lifeStages.0.labelPlural>
+  <FO_Murkling.lifeStages.0.labelMale>수컷 멀크링</FO_Murkling.lifeStages.0.labelMale>
+  <FO_Murkling.lifeStages.0.labelMalePlural>수컷 멀크링</FO_Murkling.lifeStages.0.labelMalePlural>
+  <FO_Murkling.lifeStages.0.labelFemale>암컷 멀크링</FO_Murkling.lifeStages.0.labelFemale>
+  <FO_Murkling.lifeStages.0.labelFemalePlural>암컷 멀크링</FO_Murkling.lifeStages.0.labelFemalePlural>
+  <FO_Murkling.lifeStages.1.label>멀크링</FO_Murkling.lifeStages.1.label>
+  <FO_Murkling.lifeStages.1.labelPlural>멀크링</FO_Murkling.lifeStages.1.labelPlural>
+  <FO_Murkling.lifeStages.1.labelMale>수컷 멀크링</FO_Murkling.lifeStages.1.labelMale>
+  <FO_Murkling.lifeStages.1.labelMalePlural>수컷 멀크링</FO_Murkling.lifeStages.1.labelMalePlural>
+  <FO_Murkling.lifeStages.1.labelFemale>암컷 멀크링</FO_Murkling.lifeStages.1.labelFemale>
+  <FO_Murkling.lifeStages.1.labelFemalePlural>암컷 멀크링</FO_Murkling.lifeStages.1.labelFemalePlural>
+  <FO_Murkling.lifeStages.2.label>멀크링</FO_Murkling.lifeStages.2.label>
+  <FO_Murkling.lifeStages.2.labelPlural>멀크링</FO_Murkling.lifeStages.2.labelPlural>
+  <FO_Murkling.lifeStages.2.labelMale>수컷 멀크링</FO_Murkling.lifeStages.2.labelMale>
+  <FO_Murkling.lifeStages.2.labelMalePlural>수컷 멀크링</FO_Murkling.lifeStages.2.labelMalePlural>
+  <FO_Murkling.lifeStages.2.labelFemale>암컷 멀크링</FO_Murkling.lifeStages.2.labelFemale>
+  <FO_Murkling.lifeStages.2.labelFemalePlural>암컷 멀크링</FO_Murkling.lifeStages.2.labelFemalePlural>
+  <FO_Murkling.labelMale>수컷 멀크링</FO_Murkling.labelMale>
+  <FO_Murkling.labelMalePlural>수컷 멀크링</FO_Murkling.labelMalePlural>
+  <FO_Murkling.labelFemale>암컷 멀크링</FO_Murkling.labelFemale>
+  <FO_Murkling.labelFemalePlural>암컷 멀크링</FO_Murkling.labelFemalePlural>
+  <FO_ShadowCharger.label>쉐도우 차저</FO_ShadowCharger.label>
+  <FO_ShadowCharger.labelPlural>쉐도우 차저</FO_ShadowCharger.labelPlural>
+  <FO_ShadowCharger.lifeStages.0.label>쉐도우 차저 송아지</FO_ShadowCharger.lifeStages.0.label>
+  <FO_ShadowCharger.lifeStages.0.labelPlural>쉐도우 차저 송아지</FO_ShadowCharger.lifeStages.0.labelPlural>
+  <FO_ShadowCharger.lifeStages.0.labelMale>수컷 쉐도우 차저 송아지</FO_ShadowCharger.lifeStages.0.labelMale>
+  <FO_ShadowCharger.lifeStages.0.labelMalePlural>수컷 쉐도우 차저 송아지</FO_ShadowCharger.lifeStages.0.labelMalePlural>
+  <FO_ShadowCharger.lifeStages.0.labelFemale>암컷 쉐도우 차저 송아지</FO_ShadowCharger.lifeStages.0.labelFemale>
+  <FO_ShadowCharger.lifeStages.0.labelFemalePlural>암컷 쉐도우 차저 송아지</FO_ShadowCharger.lifeStages.0.labelFemalePlural>
+  <FO_ShadowCharger.lifeStages.1.label>쉐도우 차저</FO_ShadowCharger.lifeStages.1.label>
+  <FO_ShadowCharger.lifeStages.1.labelPlural>쉐도우 차저</FO_ShadowCharger.lifeStages.1.labelPlural>
+  <FO_ShadowCharger.lifeStages.1.labelMale>수컷 쉐도우 차저</FO_ShadowCharger.lifeStages.1.labelMale>
+  <FO_ShadowCharger.lifeStages.1.labelMalePlural>수컷 쉐도우 차저</FO_ShadowCharger.lifeStages.1.labelMalePlural>
+  <FO_ShadowCharger.lifeStages.1.labelFemale>암컷 쉐도우 차저</FO_ShadowCharger.lifeStages.1.labelFemale>
+  <FO_ShadowCharger.lifeStages.1.labelFemalePlural>암컷 쉐도우 차저</FO_ShadowCharger.lifeStages.1.labelFemalePlural>
+  <FO_ShadowCharger.lifeStages.2.label>쉐도우 차저</FO_ShadowCharger.lifeStages.2.label>
+  <FO_ShadowCharger.lifeStages.2.labelPlural>쉐도우 차저</FO_ShadowCharger.lifeStages.2.labelPlural>
+  <FO_ShadowCharger.lifeStages.2.labelMale>수컷 쉐도우 차저</FO_ShadowCharger.lifeStages.2.labelMale>
+  <FO_ShadowCharger.lifeStages.2.labelMalePlural>수컷 쉐도우 차저</FO_ShadowCharger.lifeStages.2.labelMalePlural>
+  <FO_ShadowCharger.lifeStages.2.labelFemale>암컷 쉐도우 차저</FO_ShadowCharger.lifeStages.2.labelFemale>
+  <FO_ShadowCharger.lifeStages.2.labelFemalePlural>암컷 쉐도우 차저</FO_ShadowCharger.lifeStages.2.labelFemalePlural>
+  <FO_ShadowCharger.labelMale>수컷 쉐도우 차저</FO_ShadowCharger.labelMale>
+  <FO_ShadowCharger.labelMalePlural>수컷 쉐도우 차저</FO_ShadowCharger.labelMalePlural>
+  <FO_ShadowCharger.labelFemale>암컷 쉐도우 차저</FO_ShadowCharger.labelFemale>
+  <FO_ShadowCharger.labelFemalePlural>암컷 쉐도우 차저</FO_ShadowCharger.labelFemalePlural>
+  <FO_Thunderox.label>썬더록스</FO_Thunderox.label>
+  <FO_Thunderox.labelPlural>썬더록스</FO_Thunderox.labelPlural>
+  <FO_Thunderox.lifeStages.0.label>썬더록스 새끼</FO_Thunderox.lifeStages.0.label>
+  <FO_Thunderox.lifeStages.0.labelPlural>썬더록스 성장기</FO_Thunderox.lifeStages.0.labelPlural>
+  <FO_Thunderox.lifeStages.0.labelMale>수컷 썬더록스 새끼</FO_Thunderox.lifeStages.0.labelMale>
+  <FO_Thunderox.lifeStages.0.labelMalePlural>수컷 썬더록스 성장기</FO_Thunderox.lifeStages.0.labelMalePlural>
+  <FO_Thunderox.lifeStages.0.labelFemale>암컷 썬더록스 새끼</FO_Thunderox.lifeStages.0.labelFemale>
+  <FO_Thunderox.lifeStages.0.labelFemalePlural>암컷 썬더록스 성장기</FO_Thunderox.lifeStages.0.labelFemalePlural>
+  <FO_Thunderox.lifeStages.1.label>썬더록스</FO_Thunderox.lifeStages.1.label>
+  <FO_Thunderox.lifeStages.1.labelPlural>썬더록스</FO_Thunderox.lifeStages.1.labelPlural>
+  <FO_Thunderox.lifeStages.1.labelMale>수컷 썬더록스</FO_Thunderox.lifeStages.1.labelMale>
+  <FO_Thunderox.lifeStages.1.labelMalePlural>수컷 썬더록스</FO_Thunderox.lifeStages.1.labelMalePlural>
+  <FO_Thunderox.lifeStages.1.labelFemale>암컷 썬더록스</FO_Thunderox.lifeStages.1.labelFemale>
+  <FO_Thunderox.lifeStages.1.labelFemalePlural>암컷 썬더록스</FO_Thunderox.lifeStages.1.labelFemalePlural>
+  <FO_Thunderox.lifeStages.2.label>썬더록스</FO_Thunderox.lifeStages.2.label>
+  <FO_Thunderox.lifeStages.2.labelPlural>썬더록스</FO_Thunderox.lifeStages.2.labelPlural>
+  <FO_Thunderox.lifeStages.2.labelMale>수컷 썬더록스</FO_Thunderox.lifeStages.2.labelMale>
+  <FO_Thunderox.lifeStages.2.labelMalePlural>수컷 썬더록스</FO_Thunderox.lifeStages.2.labelMalePlural>
+  <FO_Thunderox.lifeStages.2.labelFemale>암컷 썬더록스</FO_Thunderox.lifeStages.2.labelFemale>
+  <FO_Thunderox.lifeStages.2.labelFemalePlural>암컷 썬더록스</FO_Thunderox.lifeStages.2.labelFemalePlural>
+  <FO_Thunderox.labelMale>수컷 썬더록스</FO_Thunderox.labelMale>
+  <FO_Thunderox.labelMalePlural>수컷 썬더록스</FO_Thunderox.labelMalePlural>
+  <FO_Thunderox.labelFemale>암컷 썬더록스</FO_Thunderox.labelFemale>
+  <FO_Thunderox.labelFemalePlural>암컷 썬더록스</FO_Thunderox.labelFemalePlural>
+
+</LanguageData>

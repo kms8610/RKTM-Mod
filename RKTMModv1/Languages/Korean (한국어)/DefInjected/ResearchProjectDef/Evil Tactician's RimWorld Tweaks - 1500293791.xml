@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ET_Neutroamine_Research.label>뉴트로아민 합성</ET_Neutroamine_Research.label>
+  <ET_Neutroamine_Research.description>광이풀과 생약에서 뉴트로아민을 합성하는 방법을 배웁니다. 뉴트로아민은 의약품과 약물의 추가 성분입니다.</ET_Neutroamine_Research.description>
+  <ET_Luciferium_Research.label>루시페륨 합성</ET_Luciferium_Research.label>
+  <ET_Luciferium_Research.description>광이풀과 뉴트로아민에서 루시페륨을 합성하는 방법을 배웁니다. 루시페륨은 강력하지만 치명적인 중독성을 가진 약물입니다.</ET_Luciferium_Research.description>
+  <ET_Ultratech_Research.label>번화계 약품 제작</ET_Ultratech_Research.label>
+  <ET_Ultratech_Research.description>뉴트로아민, 루시페륨과 약품을 결합하여 최고의 약품을 생산합니다. 고도로 숙련된 의료 전문가가 필요합니다.</ET_Ultratech_Research.description>
+  <ET_RefinePlasteel_Research.label>플라스틸 정제</ET_RefinePlasteel_Research.label>
+  <ET_RefinePlasteel_Research.description>강철과 화학연료로 플라스틸을 정제합니다. 노동 집약적인 프로세스이지만 고급 장비를 생산하려면 필요한 프로세스입니다.</ET_RefinePlasteel_Research.description>
+
+</LanguageData>

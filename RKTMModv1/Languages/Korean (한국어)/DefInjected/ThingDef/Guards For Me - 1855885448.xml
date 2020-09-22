@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GFM_GuardSpot.label>경비 지점</GFM_GuardSpot.label>
+  <GFM_GuardSpot.description>경비원이 보호해야 되는 지점을 지정합니다.</GFM_GuardSpot.description>
+  <GFM_GuardSpot_Blueprint.label>경비 지점 (청사진)</GFM_GuardSpot_Blueprint.label>
+  <GFM_GuardSpot_Frame.label>경비 지점 (건설 중)</GFM_GuardSpot_Frame.label>
+  <GFM_GuardSpot_Frame.description>경비원이 보호해야 되는 지점을 지정합니다.</GFM_GuardSpot_Frame.description>
+  <GFM_WPPatrolAlpha.label>순찰로 알파</GFM_WPPatrolAlpha.label>
+  <GFM_WPPatrolAlpha.description>순찰로를 구성하는 특정지점</GFM_WPPatrolAlpha.description>
+  <GFM_WPPatrolAlpha_Blueprint.label>순찰로 알파 (청사진)</GFM_WPPatrolAlpha_Blueprint.label>
+  <GFM_WPPatrolAlpha_Frame.label>순찰로 알파 (건설 중)</GFM_WPPatrolAlpha_Frame.label>
+  <GFM_WPPatrolAlpha_Frame.description>순찰로를 구성하는 특정지점</GFM_WPPatrolAlpha_Frame.description>
+  <GFM_WPPatrolBeta.label>순찰로 베타</GFM_WPPatrolBeta.label>
+  <GFM_WPPatrolBeta.description>순찰로를 구성하는 특정지점</GFM_WPPatrolBeta.description>
+  <GFM_WPPatrolBeta_Blueprint.label>순찰로 베타 (청사진)</GFM_WPPatrolBeta_Blueprint.label>
+  <GFM_WPPatrolBeta_Frame.label>순찰로 베타 (건설 중)</GFM_WPPatrolBeta_Frame.label>
+  <GFM_WPPatrolBeta_Frame.description>순찰로를 구성하는 특정지점</GFM_WPPatrolBeta_Frame.description>
+  <GFM_WPPatrolGamma.label>순찰로 감마</GFM_WPPatrolGamma.label>
+  <GFM_WPPatrolGamma.description>순찰로를 구성하는 특정지점</GFM_WPPatrolGamma.description>
+  <GFM_WPPatrolGamma_Blueprint.label>순찰로 감마 (청사진)</GFM_WPPatrolGamma_Blueprint.label>
+  <GFM_WPPatrolGamma_Frame.label>순찰로 감마 (건설 중)</GFM_WPPatrolGamma_Frame.label>
+  <GFM_WPPatrolGamma_Frame.description>순찰로를 구성하는 특정지점</GFM_WPPatrolGamma_Frame.description>
+  <GFM_WPPatrolDelta.label>순찰로 델타</GFM_WPPatrolDelta.label>
+  <GFM_WPPatrolDelta.description>순찰로를 구성하는 특정지점</GFM_WPPatrolDelta.description>
+  <GFM_WPPatrolDelta_Blueprint.label>순찰로 델타 (청사진)</GFM_WPPatrolDelta_Blueprint.label>
+  <GFM_WPPatrolDelta_Frame.label>순찰로 델타 (건설 중)</GFM_WPPatrolDelta_Frame.label>
+  <GFM_WPPatrolDelta_Frame.description>순찰로를 구성하는 특정지점</GFM_WPPatrolDelta_Frame.description>
+  <GFM_WPPatrolEpsilon.label>순찰로 엡실론</GFM_WPPatrolEpsilon.label>
+  <GFM_WPPatrolEpsilon.description>순찰로를 구성하는 특정지점</GFM_WPPatrolEpsilon.description>
+  <GFM_WPPatrolEpsilon_Blueprint.label>순찰로 엡실론 (청사진)</GFM_WPPatrolEpsilon_Blueprint.label>
+  <GFM_WPPatrolEpsilon_Frame.label>순찰로 엡실론 (건설 중)</GFM_WPPatrolEpsilon_Frame.label>
+  <GFM_WPPatrolEpsilon_Frame.description>순찰로를 구성하는 특정지점</GFM_WPPatrolEpsilon_Frame.description>
+  <GFM_WPPatrolZeta.label>순찰로 제타</GFM_WPPatrolZeta.label>
+  <GFM_WPPatrolZeta.description>순찰로를 구성하는 특정지점</GFM_WPPatrolZeta.description>
+  <GFM_WPPatrolZeta_Blueprint.label>순찰로 제타 (청사진)</GFM_WPPatrolZeta_Blueprint.label>
+  <GFM_WPPatrolZeta_Frame.label>순찰로 제타 (건설 중)</GFM_WPPatrolZeta_Frame.label>
+  <GFM_WPPatrolZeta_Frame.description>순찰로를 구성하는 특정지점</GFM_WPPatrolZeta_Frame.description>
+  <GFM_WPPatrolEta.label>순찰로 에타</GFM_WPPatrolEta.label>
+  <GFM_WPPatrolEta.description>순찰로를 구성하는 특정지점</GFM_WPPatrolEta.description>
+  <GFM_WPPatrolEta_Blueprint.label>순찰로 에타 (청사진)</GFM_WPPatrolEta_Blueprint.label>
+  <GFM_WPPatrolEta_Frame.label>순찰로 에타 (건설 중)</GFM_WPPatrolEta_Frame.label>
+  <GFM_WPPatrolEta_Frame.description>순찰로를 구성하는 특정지점</GFM_WPPatrolEta_Frame.description>
+  <GFM_WPPatrolTheta.label>순찰로 세타</GFM_WPPatrolTheta.label>
+  <GFM_WPPatrolTheta.description>순찰로를 구성하는 특정지점</GFM_WPPatrolTheta.description>
+  <GFM_WPPatrolTheta_Blueprint.label>순찰로 세타 (청사진)</GFM_WPPatrolTheta_Blueprint.label>
+  <GFM_WPPatrolTheta_Frame.label>순찰로 세타 (건설 중)</GFM_WPPatrolTheta_Frame.label>
+  <GFM_WPPatrolTheta_Frame.description>순찰로를 구성하는 특정지점</GFM_WPPatrolTheta_Frame.description>
+  <GFM_WPPatrolIota.label>순찰로 로타</GFM_WPPatrolIota.label>
+  <GFM_WPPatrolIota.description>순찰로를 구성하는 특정지점</GFM_WPPatrolIota.description>
+  <GFM_WPPatrolIota_Blueprint.label>순찰로 로타 (청사진)</GFM_WPPatrolIota_Blueprint.label>
+  <GFM_WPPatrolIota_Frame.label>순찰로 로타 (건설 중)</GFM_WPPatrolIota_Frame.label>
+  <GFM_WPPatrolIota_Frame.description>순찰로를 구성하는 특정지점</GFM_WPPatrolIota_Frame.description>
+
+</LanguageData>

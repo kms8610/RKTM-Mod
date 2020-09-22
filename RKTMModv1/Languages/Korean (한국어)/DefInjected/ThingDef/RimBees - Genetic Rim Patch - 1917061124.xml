@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RB_Quill.label>깃</RB_Quill.label>
+  <RB_BeeBomb.label>벌 껍질</RB_BeeBomb.label>
+  <GR_BeesGenePod.label>벌 유전자포드</GR_BeesGenePod.label>
+  <GR_BeesGenePod.description>벌 유전자 샘플들은 이 연구소에서 배양되고 합성됩니다.</GR_BeesGenePod.description>
+  <RB_RandomGeneticResearch.label>벌 연구 (완료되지 않음)</RB_RandomGeneticResearch.label>
+  <RB_RandomGeneticResearch.description>이 연구는 작업 중입니다.</RB_RandomGeneticResearch.description>
+  <RB_ResearchPapersOrgWood.label>벌 연구 자료 (유전자)</RB_ResearchPapersOrgWood.label>
+  <RB_ResearchPapersOrgWool.label>벌 연구 자료 (유전자)</RB_ResearchPapersOrgWool.label>
+  <RB_ResearchPapersOrgEgg.label>벌 연구 자료 (유전자)</RB_ResearchPapersOrgEgg.label>
+  <RB_ResearchPapersOrgOily.label>벌 연구 자료 (유전자)</RB_ResearchPapersOrgOily.label>
+  <RB_ResearchPapersOrgPsy.label>벌 연구 자료 (유전자)</RB_ResearchPapersOrgPsy.label>
+  <RB_ResearchPapersOrgPet.label>벌 연구 자료 (유전자)</RB_ResearchPapersOrgPet.label>
+  <RB_ResearchPapersOrgElec.label>벌 연구 자료 (유전자)</RB_ResearchPapersOrgElec.label>
+  <RB_ResearchPapersOrgInsect.label>벌 연구 자료 (유전자)</RB_ResearchPapersOrgInsect.label>
+  <RB_ResearchPapersOrgAgri.label>벌 연구 자료 (유전자)</RB_ResearchPapersOrgAgri.label>
+  <RB_ResearchPapersOrgDesert.label>벌 연구 자료 (유전자)</RB_ResearchPapersOrgDesert.label>
+  <RB_Bee_Organic_Drone.label>유기체 일벌</RB_Bee_Organic_Drone.label>
+  <RB_Bee_Organic_Drone.description>유기체 벌들은 주위의 식물로부터 셀룰로스를 추출하여 벌집에서 추출할수있는 유기펄프를 생산하도록 유전자가 조작되었습니다. 
+
+벌 특성:
+
+생산 주기: 24 시간
+야간 활동: 하지 않음
+우천시 활동: 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: 0ºC
+최대 활동 기온: 30ºC</RB_Bee_Organic_Drone.description>
+  <RB_Bee_Organic_Queen.label>유기체 여왕벌</RB_Bee_Organic_Queen.label>
+  <RB_Bee_Organic_Queen.description>유기체 벌들은 주위의 식물로부터 셀룰로스를 추출하여 벌집에서 추출할수있는 유기펄프를 생산하도록 유전자가 조작되었습니다.
+
+벌 특성:
+
+생산 주기: 24 시간
+야간 활동: 하지 않음
+우천시 활동: 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: 0ºC
+최대 활동 기온: 30ºC</RB_Bee_Organic_Queen.description>
+  <RB_Bee_Cattle_Drone.label>소벌 일벌</RB_Bee_Cattle_Drone.label>
+  <RB_Bee_Cattle_Drone.description>소벌들은 머팔로 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 하얗고 두꺼운 가죽으로 덮여있고, 우유를 생산하며, 털과 머팔로 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: -15ºC
+최대 활동 기온: 30ºC</RB_Bee_Cattle_Drone.description>
+  <RB_Bee_Cattle_Queen.label>소벌 여왕벌</RB_Bee_Cattle_Queen.label>
+  <RB_Bee_Cattle_Queen.description>소벌들은 머팔로 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 하얗고 두꺼운 가죽으로 덮여있고, 우유를 생산하며, 털과 머팔로 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: -15ºC
+최대 활동 기온: 30ºC</RB_Bee_Cattle_Queen.description>
+  <RB_Bee_Clucking_Drone.label>꼬꼬벌 일벌</RB_Bee_Clucking_Drone.label>
+  <RB_Bee_Clucking_Drone.description>꼬꼬벌들은 닭 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 깃털로 싸여있고, 달걀과 닭 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: 0ºC
+최대 활동 기온: 30ºC</RB_Bee_Clucking_Drone.description>
+  <RB_Bee_Clucking_Queen.label>꼬꼬벌 여왕벌</RB_Bee_Clucking_Queen.label>
+  <RB_Bee_Clucking_Queen.description>꼬꼬벌들은 닭 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 깃털로 싸여있고, 달걀과 닭 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: 0ºC
+최대 활동 기온: 30ºC</RB_Bee_Clucking_Queen.description>
+  <RB_Bee_Exploding_Drone.label>폭발벌 일벌</RB_Bee_Exploding_Drone.label>
+  <RB_Bee_Exploding_Drone.description>폭발벌들은 폭발사슴 유전자가 이들의 유전자에 접합되어 있습니다. 이 벌들은 화학 연료와 폭발사슴 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 화학 연료
+최소 활동 기온: 0ºC
+최대 활동 기온: 30ºC</RB_Bee_Exploding_Drone.description>
+  <RB_Bee_Exploding_Queen.label>폭발벌 여왕벌</RB_Bee_Exploding_Queen.label>
+  <RB_Bee_Exploding_Queen.description>폭발벌들은 폭발사슴 유전자가 이들의 유전자에 접합되어 있습니다. 이 벌들은 화학 연료와 폭발사슴 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 화학 연료
+최소 활동 기온: 0ºC
+최대 활동 기온: 30ºC</RB_Bee_Exploding_Queen.description>
+  <RB_Bee_Horned_Drone.label>뿔벌 일벌</RB_Bee_Horned_Drone.label>
+  <RB_Bee_Horned_Drone.description>뿔벌들은 트럼보 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 벌집생산에 아주 많은 시간을 소요합니다, 하지만 이들은 트럼보 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 20 days
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: -30ºC
+최대 활동 기온: 30ºC</RB_Bee_Horned_Drone.description>
+  <RB_Bee_Horned_Queen.label>뿔벌 여왕벌</RB_Bee_Horned_Queen.label>
+  <RB_Bee_Horned_Queen.description>뿔벌들은 트럼보 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 벌집생산에 아주 많은 시간을 소요합니다, 하지만 이들은 트럼보 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 20 days
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: -30ºC
+최대 활동 기온: 30ºC</RB_Bee_Horned_Queen.description>
+  <RB_Bee_Hound_Drone.label>사냥개벌 일벌</RB_Bee_Hound_Drone.label>
+  <RB_Bee_Hound_Drone.description>사냥개벌들은 늑대 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 개과 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: -5ºC
+최대 활동 기온: 30ºC</RB_Bee_Hound_Drone.description>
+  <RB_Bee_Hound_Queen.label>사냥개벌 여왕벌</RB_Bee_Hound_Queen.label>
+  <RB_Bee_Hound_Queen.description>사냥개벌들은 늑대 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 개과 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: -5ºC
+최대 활동 기온: 30ºC</RB_Bee_Hound_Queen.description>
+  <RB_Bee_Hybernating_Drone.label>겨울잠벌 일벌</RB_Bee_Hybernating_Drone.label>
+  <RB_Bee_Hybernating_Drone.description>겨울잠벌들은 회색곰 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 폭신한 모피를 가지고 있으며 곰 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: -10ºC
+최대 활동 기온: 30ºC</RB_Bee_Hybernating_Drone.description>
+  <RB_Bee_Hybernating_Queen.label>겨울잠벌 여왕벌</RB_Bee_Hybernating_Queen.label>
+  <RB_Bee_Hybernating_Queen.description>겨울잠벌들은 회색곰 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 폭신한 모피를 가지고 있으며 곰 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: -10ºC
+최대 활동 기온: 30ºC</RB_Bee_Hybernating_Queen.description>
+  <RB_Bee_Mecha_Drone.label>메카벌 일벌</RB_Bee_Mecha_Drone.label>
+  <RB_Bee_Mecha_Drone.description>이들은 벌크기의 메카노이드들 입니다. 분명히 정착지의 지배하에 있습니다. 메카벌들은 메카노이드 혼종을 생산하는데 쓰이는 메카노이드 활성물질을 생산합니다, 하지만 그 시간이 매우 오래 소요될 것입니다. 그들이 작업을 시작하려면 주위에 고급 부품 재고품들이 있어야 합니다.
+
+벌 특성:
+
+생산 주기: 30 일
+야간 활동: 하지 않음
+우천시 활동함
+특수 작물 : 고급 부품
+최소 활동 기온: -10ºC
+최대 활동 기온: 30ºC</RB_Bee_Mecha_Drone.description>
+  <RB_Bee_Mecha_Queen.label>메카벌 여왕벌</RB_Bee_Mecha_Queen.label>
+  <RB_Bee_Mecha_Queen.description>이들은 벌크기의 메카노이드들 입니다. 분명히 정착지의 지배하에 있습니다. 메카벌들은 메카노이드 혼종을 생산하는데 쓰이는 메카노이드 활성물질을 생산합니다, 하지만 그 시간이 매우 오래 소요될 것입니다. 그들이 작업을 시작하려면 주위에 고급 부품 재고품들이 있어야 합니다.
+
+벌 특성:
+
+생산 주기: 30 일
+야간 활동: 하지 않음
+우천시 활동함
+특수 작물 : 고급 부품
+최소 활동 기온: -10ºC
+최대 활동 기온: 30ºC</RB_Bee_Mecha_Queen.description>
+  <RB_Bee_Megaspidery_Drone.label>큰거미벌 일벌</RB_Bee_Megaspidery_Drone.label>
+  <RB_Bee_Megaspidery_Drone.description>큰거미벌들은 외계 곤충 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 키틴질 껍질로 덮여있으며, 곤충 젤리와 살충물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: 0ºC
+최대 활동 기온: 40ºC</RB_Bee_Megaspidery_Drone.description>
+  <RB_Bee_Megaspidery_Queen.label>큰거미벌 여왕벌</RB_Bee_Megaspidery_Queen.label>
+  <RB_Bee_Megaspidery_Queen.description>큰거미벌들은 외계 곤충 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 키틴질 껍질로 덮여있으며, 곤충 젤리와 살충물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: 0ºC
+최대 활동 기온: 40ºC</RB_Bee_Megaspidery_Queen.description>
+  <RB_Bee_Mousy_Drone.label>생쥐벌 일벌</RB_Bee_Mousy_Drone.label>
+  <RB_Bee_Mousy_Drone.description>생쥐벌들은 쥐 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 설치류 유전물질을 생산할 것이며, 그리고 시끄러운 소음으로 집중을 흐뜨려놓습니다.
+
+벌 특성:
+
+생산 주기: 48 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: 0ºC
+최대 활동 기온: 30ºC</RB_Bee_Mousy_Drone.description>
+  <RB_Bee_Mousy_Queen.label>생쥐벌 여왕벌</RB_Bee_Mousy_Queen.label>
+  <RB_Bee_Mousy_Queen.description>생쥐벌들은 쥐 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 설치류 유전물질을 생산할 것이며, 그리고 시끄러운 소음으로 집중을 흐뜨려놓습니다.
+
+벌 특성:
+
+생산 주기: 48 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: 0ºC
+최대 활동 기온: 30ºC</RB_Bee_Mousy_Queen.description>
+  <RB_Bee_Purring_Drone.label>냥벌 일벌</RB_Bee_Purring_Drone.label>
+  <RB_Bee_Purring_Drone.description>냥벌들은 고양이 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 고양잇과 유전물질을 생산할 것이며, 인터넷에 많은 영상도 업로드하게될 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동함
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: 0ºC
+최대 활동 기온: 30ºC</RB_Bee_Purring_Drone.description>
+  <RB_Bee_Purring_Queen.label>냥벌 여왕벌</RB_Bee_Purring_Queen.label>
+  <RB_Bee_Purring_Queen.description>냥벌들은 고양이 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 고양잇과 유전물질을 생산할 것이며, 인터넷에 많은 영상도 업로드하게될 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동함
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: 0ºC
+최대 활동 기온: 30ºC</RB_Bee_Purring_Queen.description>
+  <RB_Bee_Scaly_Drone.label>비늘벌 일벌</RB_Bee_Scaly_Drone.label>
+  <RB_Bee_Scaly_Drone.description>비늘벌들은 파충류 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 거친 비늘로 덮여있으며 파충류 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: 0ºC
+최대 활동 기온: 50ºC</RB_Bee_Scaly_Drone.description>
+  <RB_Bee_Scaly_Queen.label>비늘벌 여왕벌</RB_Bee_Scaly_Queen.label>
+  <RB_Bee_Scaly_Queen.description>비늘벌들은 파충류 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 거친 비늘로 덮여있으며 파충류 유전물질을 생산할 것입니다.
+
+벌 특성:
+
+생산 주기: 72 시간
+야간 활동: 하지 않음
+우천시 활동 : 하지 않음
+특수 작물 : 필요 없음
+최소 활동 기온: 0ºC
+최대 활동 기온: 50ºC</RB_Bee_Scaly_Queen.description>
+  <RB_Organic_Honeycomb.label>유기체 벌집</RB_Organic_Honeycomb.label>
+  <RB_Organic_Honeycomb.description>이 벌집은 유기체 벌들이 생산하였습니다. 유기체 벌에서는 주위의 식물로부터 셀룰로스를 추출하여 벌집에서 추출할 수 있는 유기 펄프를 생산하도록 유전자가 조작되었습니다. 벌집에서는 꿀과 유전자 밀랍, 그리고 유기 펄프를 추출 할 수 있습니다.</RB_Organic_Honeycomb.description>
+  <RB_Cattle_Honeycomb.label>소떼 벌집</RB_Cattle_Honeycomb.label>
+  <RB_Cattle_Honeycomb.description>이 벌집은 소벌들이 생산하였습니다. 소벌들은 머팔로 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 하얗고 두꺼운 가죽으로 덮여있고, 우유를 생산하며, 털과 머팔로 유전물질을 생산할 것입니다. 벌집에서는 우유와 털, 그리고 머팔로 유전물질을 추출 할 수 있습니다.</RB_Cattle_Honeycomb.description>
+  <RB_Clucking_Honeycomb.label>꼬꼬 벌집</RB_Clucking_Honeycomb.label>
+  <RB_Clucking_Honeycomb.description>이 벌집은 꼬꼬벌들이 생산하였습니다. 꼬꼬벌들은 닭 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 깃털로 싸여있고, 달걀과 닭 유전물질을 생산할 것입니다. 벌집에서는 벌 달걀과 유전자 밀랍, 그리고 닭 유전물질을 추출 할 수 있습니다.</RB_Clucking_Honeycomb.description>
+  <RB_Exploding_Honeycomb.label>폭발 벌집</RB_Exploding_Honeycomb.label>
+  <RB_Exploding_Honeycomb.description>이 벌집은 폭발벌들이 생산하였습니다. 폭발벌들은 폭발사슴 유전자가 이들의 유전자에 접합되어 있습니다. 이 벌들은 화학 연료와 폭발사슴 유전물질을 생산할 것입니다. 벌집에서는 유전자 벌꿀과 화학연료, 그리고 폭발사슴 유전물질을 추출 할 수 있습니다.</RB_Exploding_Honeycomb.description>
+  <RB_Horned_Honeycomb.label>뿔난 벌집</RB_Horned_Honeycomb.label>
+  <RB_Horned_Honeycomb.description>이 벌집은 뿔벌들이 생산하였습니다. 뿔벌들은 트럼보 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 벌집생산에 아주 많은 시간을 소요합니다, 하지만 이들은 트럼보 유전물질을 생산할 것입니다. 벌집에서는 유전자 벌꿀과 유전자 밀랍, 그리고 트럼보 유전물질을 추출 할 수 있습니다.</RB_Horned_Honeycomb.description>
+  <RB_Hound_Honeycomb.label>사냥개 벌집</RB_Hound_Honeycomb.label>
+  <RB_Hound_Honeycomb.description>이 벌집은 사냥개벌들이 생산하였습니다. 사냥개벌들은 늑대 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 개과 유전물질을 생산할 것입니다. 벌집에서는 유전자 벌꿀과 유전자 밀랍, 그리고 개과 유전물질을 추출 할 수 있습니다.</RB_Hound_Honeycomb.description>
+  <RB_Hybernating_Honeycomb.label>겨울잠 벌집</RB_Hybernating_Honeycomb.label>
+  <RB_Hybernating_Honeycomb.description>이 벌집은 곰벌들이 생산하였습니다. 겨울잠벌들은 회색곰 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 폭신한 모피를 가지고 있으며 곰 유전물질을 생산할 것입니다. 벌집에서는 유전자 벌꿀과 유전자 밀랍, 그리고 곰 유전물질을 추출 할 수 있습니다.</RB_Hybernating_Honeycomb.description>
+  <RB_Mecha_Honeycomb.label>메카 벌집</RB_Mecha_Honeycomb.label>
+  <RB_Mecha_Honeycomb.description>이 벌집은 메카벌들이 생산하였습니다. 이들은 벌크기의 메카노이드들 입니다. 분명히 정착지의 지배하에 있습니다. 메카벌들은 메카노이드 혼종을 생산하는데 쓰이는 메카노이드 활성물질을 생산합니다, 하지만 그 시간이 매우 오래 소요될 것입니다. 그들이 작업을 시작하려면 주위에 고급 부품 재고품들이 있어야 합니다. 벌집에서는 유전자 벌꿀과 유전자 밀랍, 메카노이드 활성물질을 추출 할 수 있습니다.</RB_Mecha_Honeycomb.description>
+  <RB_Megaspidery_Honeycomb.label>큰거미 벌집</RB_Megaspidery_Honeycomb.label>
+  <RB_Megaspidery_Honeycomb.description>이 벌집은 큰거미벌들이 생산하였습니다. 큰거미벌들은 외계 곤충 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 키틴질 껍질로 덮여있으며, 곤충 젤리와 곤충 유전물질을 생산할 것입니다. 벌집에서는 곤충젤리와 유전자 밀랍, 그리고 살충물질을 추출 할 수 있습니다.</RB_Megaspidery_Honeycomb.description>
+  <RB_Mousy_Honeycomb.label>생쥐 벌집</RB_Mousy_Honeycomb.label>
+  <RB_Mousy_Honeycomb.description>이 벌집은 생쥐벌들이 생산하였습니다. 생쥐벌들은 쥐 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 설치류 유전물질을 생산할 것이며, 그리고 시끄러운 소음으로 집중을 흐뜨려놓습니다. 벌집에서는 유전자 벌꿀과 유전자 밀랍, 그리고 쥐 유전물질을 추출 할 수 있습니다.</RB_Mousy_Honeycomb.description>
+  <RB_Purring_Honeycomb.label>냥 벌집</RB_Purring_Honeycomb.label>
+  <RB_Purring_Honeycomb.description>이 벌집은 냥벌들이 생산하였습니다. 냥벌들은 고양이 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 고양잇과 유전물질을 생산할 것이며, 인터넷에 많은 영상도 업로드하게될 것입니다. 벌집에서는 유전자 벌꿀과 유전자 밀랍, 그리고 고양잇과 유전물질을 추출 할 수 있습니다.</RB_Purring_Honeycomb.description>
+  <RB_Scaly_Honeycomb.label>비늘 벌집</RB_Scaly_Honeycomb.label>
+  <RB_Scaly_Honeycomb.description>비늘벌들은 파충류 유전자가 이들의 유전자에 접합되어 있습니다. 이들은 거친 비늘로 덮여있으며 파충류 유전물질을 생산할 것입니다. 벌집에서는 유전자 벌꿀과 유전자 밀랍, 그리고 파충류 유전물질을 추출 할 수 있습니다.</RB_Scaly_Honeycomb.description>
+  <RB_GeneticHoney.label>유전자 벌꿀</RB_GeneticHoney.label>
+  <RB_GeneticHoney.description>이 유전자 벌꿀은 유전자 조작 벌집에서 추출되었습니다, 또한 입맛을 잃게 하는 매우 이상한 녹색 톤을 가지고 있습니다 굉장히 빠르게 상하지만 부작용을 일으키지 않는 강력한 신체 강화 약물의 기능도 겸하고 있습니다, 이 꿀은 날로 먹거나 다른 재료로 요리할 수 있으며 그 특성은 그대로 옮겨집니다.</RB_GeneticHoney.description>
+  <GR_BearbeeIncubator.label>곰벌 인큐베이터</GR_BearbeeIncubator.label>
+  <GR_BearbeeIncubator.description>이 인큐베이터는 유전자 변형 유기체가 부화할 준비가 될때까지 섭씨 0도와 50도 사이의 온도에서 유지되어야 합니다 배아는 곰, 벌의 혼종으로 자라날 것입니다.</GR_BearbeeIncubator.description>
+  <GR_BoombeeIncubator.label>폭탄벌 인큐베이터</GR_BoombeeIncubator.label>
+  <GR_BoombeeIncubator.description>이 인큐베이터는 유전자 변형 유기체가 부화할 준비가 될때까지 섭씨 0도와 50도 사이의 온도에서 유지되어야 합니다 배아는 폭탄사슴, 벌의 혼종으로 자라날 것입니다.</GR_BoombeeIncubator.description>
+  <GR_CatbeeIncubator.label>고양이벌 인큐베이터</GR_CatbeeIncubator.label>
+  <GR_CatbeeIncubator.description>이 인큐베이터는 유전자 변형 유기체가 부화할 준비가 될때까지 섭씨 0도와 50도 사이의 온도에서 유지되어야 합니다 배안느 고양이, 벌의 혼종으로 자라날 것입니다.</GR_CatbeeIncubator.description>
+  <GR_ChickenbeeIncubator.label>닭벌 인큐베이터</GR_ChickenbeeIncubator.label>
+  <GR_ChickenbeeIncubator.description>이 인큐베이터는 유전자 변형 유기체가 부화할 준비가 될때까지 섭씨 0도와 50도 사이의 온도에서 유지되어야 합니다 배아는 닭, 벌의 혼종으로 자라날 것입니다.</GR_ChickenbeeIncubator.description>
+  <GR_SpiderbeeIncubator.label>거미벌 인큐베이터</GR_SpiderbeeIncubator.label>
+  <GR_SpiderbeeIncubator.description>이 인큐베이터는 유전자 변형 유기체가 부화할 준비가 될때까지 섭씨 0도와 50도 사이의 온도에서 유지되어야 합니다 배아는 거미, 벌의 혼종으로 자라날 것입니다.</GR_SpiderbeeIncubator.description>
+  <GR_MechabeeIncubator.label>메카벌 인큐베이터</GR_MechabeeIncubator.label>
+  <GR_MechabeeIncubator.description>이 인큐베이터는 유전자 변형 유기체가 부화할 준비가 될때까지 섭씨 0도와 50도 사이의 온도에서 유지되어야 합니다 메카노이드, 벌의 혼종으로 자라날 것입니다.</GR_MechabeeIncubator.description>
+  <GR_MuffalobeeIncubator.label>머팔로벌 인큐베이터</GR_MuffalobeeIncubator.label>
+  <GR_MuffalobeeIncubator.description>이 인큐베이터는 유전자 변형 유기체가 부화할 준비가 될때까지 섭씨 0도와 50도 사이의 온도에서 유지되어야 합니다 배아는 머팔로, 벌의 혼종으로 자라날 것입니다.</GR_MuffalobeeIncubator.description>
+  <GR_LizardbeeIncubator.label>도마뱀벌 인큐베이터</GR_LizardbeeIncubator.label>
+  <GR_LizardbeeIncubator.description>이 인큐베이터는 유전자 변형 유기체가 부화할 준비가 될때까지 섭씨 0도와 50도 사이의 온도에서 유지되어야 합니다 배아는 도마뱀, 벌의 혼종으로 자라날 것입니다.</GR_LizardbeeIncubator.description>
+  <GR_MousebeeIncubator.label>생쥐벌 인큐베이터</GR_MousebeeIncubator.label>
+  <GR_MousebeeIncubator.description>이 인큐베이터는 유전자 변형 유기체가 부화할 준비가 될때까지 섭씨 0도와 50도 사이의 온도에서 유지되어야 합니다 배아는 생쥐, 벌의 혼종으로 자라날 것입니다.</GR_MousebeeIncubator.description>
+  <GR_ThrumbeeIncubator.label>트럼보벌 인큐베이터</GR_ThrumbeeIncubator.label>
+  <GR_ThrumbeeIncubator.description>이 인큐베이터는 유전자 변형 유기체가 부화할 준비가 될때까지 섭씨 0도와 50도 사이의 온도에서 유지되어야 합니다 배아는 트럼보, 벌의 혼종으로 자라날 것입니다.</GR_ThrumbeeIncubator.description>
+  <GR_WolfbeeIncubator.label>늑대벌 인큐베이터</GR_WolfbeeIncubator.label>
+  <GR_WolfbeeIncubator.description>이 인큐베이터는 유전자 변형 유기체가 부화할 준비가 될때까지 섭씨 0도와 50도 사이의 온도에서 유지되어야 합니다 배아는 늑대, 벌의 혼종으로 자라날 것입니다.</GR_WolfbeeIncubator.description>
+  <RB_BeeEggsActive.label>벌 달걀 (유정란)</RB_BeeEggsActive.label>
+  <RB_BeeEggsActive.description>수정된 상태의 벌 달걀입니다. 날로 먹을 수 있습니다, 하지만 분명히, 당연히 익혀 먹는것이 더 좋습니다. 만약 모든 것이 잘 풀린다면, 꼬꼬벌로 부화할 수도 있겠죠.</RB_BeeEggsActive.description>
+  <GR_BeeGenetic.label>벌 유전물질</GR_BeeGenetic.label>
+  <GR_BeeGenetic.description>벌들에게서 뽑아낸 유전물질이 있는 혈청입니다.</GR_BeeGenetic.description>
+  <RB_Bee_Leather.label>벌 가죽</RB_Bee_Leather.label>
+  <RB_Bee_Leather.description>딱딱한 곤충 키틴이 두꺼운 가죽 층 위에 놓여 있습니다, 전투에서 상당히 견고하지만 날씨로부터 거의 보호받을 수 없습니다. </RB_Bee_Leather.description>
+  <RB_Bee_Leather.stuffProps.stuffAdjective>벌 가죽</RB_Bee_Leather.stuffProps.stuffAdjective>
+  <RB_Genewax.label>유전자 밀랍</RB_Genewax.label>
+  <RB_Genewax.description>유전자 밀랍은 유전자가 조작된 벌들에게서 얻을 수 있습니다. 일반 밀랍보다는 내성이 훨씬 떨어집니다. 하지만 강철을 대신하여 인큐베이터를 구축하는 데 사용할 수 있습니다.</RB_Genewax.description>
+  <GR_BeeHybrid_Bearbee.label>곰벌</GR_BeeHybrid_Bearbee.label>
+  <GR_BeeHybrid_Bearbee.description>곰 / 벌 혼종입니다. 이 거대한 혼종 벌은 격렬하고 공격적입니다. 제대로 훈련되면 악의적인 공격을 해대는 매우 강력한 공격동물의 역할을합니다.
+
+유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 이들은 또한 매우 강한 독을 가지고 있습니다. 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요. </GR_BeeHybrid_Bearbee.description>
+  <GR_BeeHybrid_Bearbee.tools.1.label>발톱</GR_BeeHybrid_Bearbee.tools.1.label>
+  <GR_BeeHybrid_Bearbee_Leather.label>곰벌 가죽</GR_BeeHybrid_Bearbee_Leather.label>
+  <GR_BeeHybrid_Bearbee_Leather.description>곰벌 가죽</GR_BeeHybrid_Bearbee_Leather.description>
+  <GR_BeeHybrid_Bearbee_Leather.stuffProps.stuffAdjective>곰벌 가죽</GR_BeeHybrid_Bearbee_Leather.stuffProps.stuffAdjective>
+  <GR_BeeHybrid_Bearbee_Meat.label>혼종 벌 고기</GR_BeeHybrid_Bearbee_Meat.label>
+  <GR_BeeHybrid_Bearbee_Meat.description>혼종 벌 고기</GR_BeeHybrid_Bearbee_Meat.description>
+  <GR_BeeHybrid_Bearbee_Corpse.label>곰벌 시체</GR_BeeHybrid_Bearbee_Corpse.label>
+  <GR_BeeHybrid_Bearbee_Corpse.description>곰벌 시체</GR_BeeHybrid_Bearbee_Corpse.description>
+  <GR_BeeHybrid_Boombee.label>폭탄벌</GR_BeeHybrid_Boombee.label>
+  <GR_BeeHybrid_Boombee.description>폭발사슴 / 벌 혼종입니다. 이 혼종 벌은 화학 포자로 덮여 있으며 매우 불안정합니다.
+
+유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 폭탄벌은 가지고 있는 침으로 독액 대신 화학연료를 주입합니다. 매우 고통스럽죠. 또한 과학적인 관점에서 볼 때 엄청나게 멍청한데, 이들은 죽으면 폭발합니다, 그리고 무리를 짓고 다니죠. 참... 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요.</GR_BeeHybrid_Boombee.description>
+  <GR_BeeHybrid_Boombee.tools.1.label>발톱</GR_BeeHybrid_Boombee.tools.1.label>
+  <GR_BeeHybrid_Boombee_Leather.label>폭탄벌 가죽</GR_BeeHybrid_Boombee_Leather.label>
+  <GR_BeeHybrid_Boombee_Leather.description>폭탄벌 가죽</GR_BeeHybrid_Boombee_Leather.description>
+  <GR_BeeHybrid_Boombee_Leather.stuffProps.stuffAdjective>폭탄벌 가죽</GR_BeeHybrid_Boombee_Leather.stuffProps.stuffAdjective>
+  <GR_BeeHybrid_Boombee_Corpse.label>폭탄벌 시체</GR_BeeHybrid_Boombee_Corpse.label>
+  <GR_BeeHybrid_Boombee_Corpse.description>폭탄벌 시체</GR_BeeHybrid_Boombee_Corpse.description>
+  <GR_BeeHybrid_Catbee.label>고양이벌</GR_BeeHybrid_Catbee.label>
+  <GR_BeeHybrid_Catbee.description>고양이 / 벌 혼종입니다. 이 민첩한 고양이 벌은 적을 죽일 수 있는 애정 어린 애완동물입니다.
+
+유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 고양이벌은 실명침을 가지고 있습니다. 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요.</GR_BeeHybrid_Catbee.description>
+  <GR_BeeHybrid_Catbee.tools.1.label>발톱</GR_BeeHybrid_Catbee.tools.1.label>
+  <GR_BeeHybrid_Catbee_Leather.label>고양이벌 가죽</GR_BeeHybrid_Catbee_Leather.label>
+  <GR_BeeHybrid_Catbee_Leather.description>고양이벌 가죽</GR_BeeHybrid_Catbee_Leather.description>
+  <GR_BeeHybrid_Catbee_Leather.stuffProps.stuffAdjective>고양이벌 가죽</GR_BeeHybrid_Catbee_Leather.stuffProps.stuffAdjective>
+  <GR_BeeHybrid_Catbee_Corpse.label>고양이벌 시체</GR_BeeHybrid_Catbee_Corpse.label>
+  <GR_BeeHybrid_Catbee_Corpse.description>고양이벌 시체</GR_BeeHybrid_Catbee_Corpse.description>
+  <GR_BeeHybrid_Chickenbee.label>닭벌</GR_BeeHybrid_Chickenbee.label>
+  <GR_BeeHybrid_Chickenbee.description>닭 / 벌 혼종입니다. 대부분의 닭 혼종들이 그렇듯이, 자체적으로 강력하지는 않지만 충분히 많은 수가 모이면 실제로 귀찮은 일로 발전할 수 있습니다.
+
+유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 닭벌은 매우 이상적인 달걀 제조기입니다. 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요.</GR_BeeHybrid_Chickenbee.description>
+  <GR_BeeHybrid_Chickenbee.tools.1.label>발톱</GR_BeeHybrid_Chickenbee.tools.1.label>
+  <GR_BeeHybrid_Chickenbee_Leather.label>닭벌 가죽</GR_BeeHybrid_Chickenbee_Leather.label>
+  <GR_BeeHybrid_Chickenbee_Leather.description>닭벌 가죽</GR_BeeHybrid_Chickenbee_Leather.description>
+  <GR_BeeHybrid_Chickenbee_Leather.stuffProps.stuffAdjective>닭벌 가죽</GR_BeeHybrid_Chickenbee_Leather.stuffProps.stuffAdjective>
+  <GR_BeeHybrid_Chickenbee_Corpse.label>닭벌 시체</GR_BeeHybrid_Chickenbee_Corpse.label>
+  <GR_BeeHybrid_Chickenbee_Corpse.description>닭벌 시체</GR_BeeHybrid_Chickenbee_Corpse.description>
+  <GR_BeeHybrid_Spiderbee.label>거미벌</GR_BeeHybrid_Spiderbee.label>
+  <GR_BeeHybrid_Spiderbee.description>메가스파이더 / 벌 혼종입니다. 원 종에서는 재현할 수 없는 강력하고 방어적인 혼종입니다. 위험한 원거리 공격을 할 수 있습니다.
+
+유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 이들은 매우 강력한 독침을 광범위하게 원거리에서 뿌려댑니다. 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요.</GR_BeeHybrid_Spiderbee.description>
+  <GR_BeeHybrid_Spiderbee.tools.1.label>발톱</GR_BeeHybrid_Spiderbee.tools.1.label>
+  <GR_BeeHybrid_Spiderbee.tools.2.label>하악골</GR_BeeHybrid_Spiderbee.tools.2.label>
+  <GR_BeeHybrid_Spiderbee_Corpse.label>거미벌 시체</GR_BeeHybrid_Spiderbee_Corpse.label>
+  <GR_BeeHybrid_Spiderbee_Corpse.description>거미벌 시체</GR_BeeHybrid_Spiderbee_Corpse.description>
+  <GR_BeeHybrid_Mechabee.label>메카벌</GR_BeeHybrid_Mechabee.label>
+  <GR_BeeHybrid_Mechabee.description>메카노이드 / 벌 혼종입니다. 이 사이버네틱 한 혼종 벌은 벌 캐논을 장착하고 있습니다. 꿀벌을 쏘는 대포입니다. 네, 그게 다예요. 모든 메카 노이드 혼종과 마찬가지로 먹을 필요가 없으며 번식할 수 없고 노화되지 않습니다. 유기 성분을 재충전하려면 약간 쉬어야 합니다.
+
+유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 이들은 강력한 침을 가지고 있습니다, 아 맞아, 벌 캐논도요. 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요.</GR_BeeHybrid_Mechabee.description>
+  <GR_BeeHybrid_Mechabee_Corpse.label>메카벌 시체</GR_BeeHybrid_Mechabee_Corpse.label>
+  <GR_BeeHybrid_Mechabee_Corpse.description>메카벌 시체</GR_BeeHybrid_Mechabee_Corpse.description>
+  <GR_BeeHybrid_Muffalobee.label>머팔로벌</GR_BeeHybrid_Muffalobee.label>
+  <GR_BeeHybrid_Muffalobee.description>머팔로 / 벌 혼종입니다. 이 온순한 혼종 벌은 지형 이동 제한을 무시하기 때문에 다목적 상단 운송용으로 적합합니다. 벌집뿐만 아니라 털과 우유 또한 생산합니다.
+
+유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 이들은 매우 강력한 침을 가지고 있습니다. 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요.</GR_BeeHybrid_Muffalobee.description>
+  <GR_BeeHybrid_Muffalobee.tools.1.label>발톱</GR_BeeHybrid_Muffalobee.tools.1.label>
+  <GR_BeeHybrid_Muffalobee_Leather.label>머팔로벌 가죽</GR_BeeHybrid_Muffalobee_Leather.label>
+  <GR_BeeHybrid_Muffalobee_Leather.description>머팔로벌 가죽</GR_BeeHybrid_Muffalobee_Leather.description>
+  <GR_BeeHybrid_Muffalobee_Leather.stuffProps.stuffAdjective>머팔로벌 가죽</GR_BeeHybrid_Muffalobee_Leather.stuffProps.stuffAdjective>
+  <GR_BeeHybrid_Muffalobee_Corpse.label>머팔로벌 시체</GR_BeeHybrid_Muffalobee_Corpse.label>
+  <GR_BeeHybrid_Muffalobee_Corpse.description>머팔로벌 시체</GR_BeeHybrid_Muffalobee_Corpse.description>
+  <GR_BeeHybrid_Lizardbee.label>도마뱀벌</GR_BeeHybrid_Lizardbee.label>
+  <GR_BeeHybrid_Lizardbee.description>도마뱀 / 벌 혼종입니다. 이 혼종 벌은 비늘로 덮여있으며 이는 튼튼한 자연 갑옷을 가지고 있다는 것을 의미합니다.
+
+유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 도마뱀벌은 매우 강력한 독을 가지고 있습니다. 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요.</GR_BeeHybrid_Lizardbee.description>
+  <GR_BeeHybrid_Lizardbee.tools.1.label>발톱</GR_BeeHybrid_Lizardbee.tools.1.label>
+  <GR_BeeHybrid_Lizardbee_Leather.label>도마뱀벌 가죽</GR_BeeHybrid_Lizardbee_Leather.label>
+  <GR_BeeHybrid_Lizardbee_Leather.description>도마뱀벌 가죽</GR_BeeHybrid_Lizardbee_Leather.description>
+  <GR_BeeHybrid_Lizardbee_Leather.stuffProps.stuffAdjective>도마뱀벌 가죽</GR_BeeHybrid_Lizardbee_Leather.stuffProps.stuffAdjective>
+  <GR_BeeHybrid_Lizardbee_Corpse.label>도마뱀벌 시체</GR_BeeHybrid_Lizardbee_Corpse.label>
+  <GR_BeeHybrid_Lizardbee_Corpse.description>도마뱀벌 시체</GR_BeeHybrid_Lizardbee_Corpse.description>
+  <GR_BeeHybrid_Mousebee.label>쥐벌</GR_BeeHybrid_Mousebee.label>
+  <GR_BeeHybrid_Mousebee.description>쥐/ 벌 혼종입니다. 이 작은 혼종 벌은 매우 빨리 불어납니다.
+
+유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 눈깜짝할새 불어납니다. 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요.</GR_BeeHybrid_Mousebee.description>
+  <GR_BeeHybrid_Mousebee.tools.1.label>발톱</GR_BeeHybrid_Mousebee.tools.1.label>
+  <GR_BeeHybrid_Mousebee_Leather.label>쥐벌 가죽</GR_BeeHybrid_Mousebee_Leather.label>
+  <GR_BeeHybrid_Mousebee_Leather.description>쥐벌 가죽</GR_BeeHybrid_Mousebee_Leather.description>
+  <GR_BeeHybrid_Mousebee_Leather.stuffProps.stuffAdjective>쥐벌 가죽</GR_BeeHybrid_Mousebee_Leather.stuffProps.stuffAdjective>
+  <GR_BeeHybrid_Mousebee_Corpse.label>쥐벌 시체</GR_BeeHybrid_Mousebee_Corpse.label>
+  <GR_BeeHybrid_Mousebee_Corpse.description>쥐벌 시체</GR_BeeHybrid_Mousebee_Corpse.description>
+  <GR_BeeHybrid_Thrumbee.label>트럼보벌</GR_BeeHybrid_Thrumbee.label>
+  <GR_BeeHybrid_Thrumbee.description>트럼보 / 벌 혼종입니다. 이 거대한 혼종 벌은 매우 지능적이며 훈련을 받으면 정착지 방어의 중추가 될 수 있습니다.
+
+유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 이들은 매우 강력한 침을 가지고 있습니다. 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요.</GR_BeeHybrid_Thrumbee.description>
+  <GR_BeeHybrid_Thrumbee.tools.0.label>뿔</GR_BeeHybrid_Thrumbee.tools.0.label>
+  <GR_BeeHybrid_Thrumbee.tools.2.label>발톱</GR_BeeHybrid_Thrumbee.tools.2.label>
+  <GR_BeeHybrid_Thrumbee_Leather.label>트럼보벌 가죽</GR_BeeHybrid_Thrumbee_Leather.label>
+  <GR_BeeHybrid_Thrumbee_Leather.description>트럼보벌 가죽</GR_BeeHybrid_Thrumbee_Leather.description>
+  <GR_BeeHybrid_Thrumbee_Leather.stuffProps.stuffAdjective>트럼보벌 가죽</GR_BeeHybrid_Thrumbee_Leather.stuffProps.stuffAdjective>
+  <GR_BeeHybrid_Thrumbee_Corpse.label>트럼보벌 시체</GR_BeeHybrid_Thrumbee_Corpse.label>
+  <GR_BeeHybrid_Thrumbee_Corpse.description>트럼보벌 시체</GR_BeeHybrid_Thrumbee_Corpse.description>
+  <GR_BeeHybrid_Wolfbee.label>늑대벌</GR_BeeHybrid_Wolfbee.label>
+  <GR_BeeHybrid_Wolfbee.description>늑대 / 벌 혼종입니다. 거친 지형을 무시할 수 있는 능력으로 인해 림들에게서 가장 두려운 비행 포식자입니다. 가장 빠른 생물 중 하나이며 침입자를 추적하는데 매우 적합합니다.
+
+유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 늑대벌은 먹이를 마비시킬수있는 강력한 침을 가지고 있습니다. 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요.</GR_BeeHybrid_Wolfbee.description>
+  <GR_BeeHybrid_Wolfbee.tools.1.label>발톱</GR_BeeHybrid_Wolfbee.tools.1.label>
+  <GR_BeeHybrid_Wolfbee_Leather.label>늑대벌 가죽</GR_BeeHybrid_Wolfbee_Leather.label>
+  <GR_BeeHybrid_Wolfbee_Leather.description>늑대벌 가죽</GR_BeeHybrid_Wolfbee_Leather.description>
+  <GR_BeeHybrid_Wolfbee_Leather.stuffProps.stuffAdjective>늑대벌 가죽</GR_BeeHybrid_Wolfbee_Leather.stuffProps.stuffAdjective>
+  <GR_BeeHybrid_Wolfbee_Corpse.label>늑대벌 시체</GR_BeeHybrid_Wolfbee_Corpse.label>
+  <GR_BeeHybrid_Wolfbee_Corpse.description>늑대벌 시체</GR_BeeHybrid_Wolfbee_Corpse.description>
+
+</LanguageData>

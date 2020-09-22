@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Syulipia_Flooring_B.label>바닥재（티크）</Syulipia_Flooring_B.label>
+  <Syulipia_Flooring_B.description>바닥재</Syulipia_Flooring_B.description>
+  <Syulipia_Flooring_W.label>바닥재（자작）</Syulipia_Flooring_W.label>
+  <Syulipia_Flooring_W.description>바닥재</Syulipia_Flooring_W.description>
+  <Syulipia_Flooring_K.label>바닥재（웬지）</Syulipia_Flooring_K.label>
+  <Syulipia_Flooring_K.description>바닥재</Syulipia_Flooring_K.description>
+  <Syulipia_Flooring_R.label>바닥재（자단）</Syulipia_Flooring_R.label>
+  <Syulipia_Flooring_R.description>바닥재</Syulipia_Flooring_R.description>
+  <Syulipia_Parquet_B.label>목재 바닥（티크）</Syulipia_Parquet_B.label>
+  <Syulipia_Parquet_B.description>목재 바닥</Syulipia_Parquet_B.description>
+  <Syulipia_Parquet_W.label>목재 바닥（자작）</Syulipia_Parquet_W.label>
+  <Syulipia_Parquet_W.description>목재 바닥</Syulipia_Parquet_W.description>
+  <Syulipia_Parquet_K.label>목재 바닥（웬지）</Syulipia_Parquet_K.label>
+  <Syulipia_Parquet_K.description>목재 바닥</Syulipia_Parquet_K.description>
+  <Syulipia_Parquet_R.label>목재 바닥（자단）</Syulipia_Parquet_R.label>
+  <Syulipia_Parquet_R.description>목재 바닥</Syulipia_Parquet_R.description>
+  <Syulipia_Carpet_W.label>아가일 카펫（하양）</Syulipia_Carpet_W.label>
+  <Syulipia_Carpet_W.description>아가일 무늬의 카펫</Syulipia_Carpet_W.description>
+  <Syulipia_Carpet_K.label>아가일 카펫（검정）</Syulipia_Carpet_K.label>
+  <Syulipia_Carpet_K.description>아가일 무늬의 카펫</Syulipia_Carpet_K.description>
+  <Syulipia_Carpet_R.label>아가일 카펫（빨강）</Syulipia_Carpet_R.label>
+  <Syulipia_Carpet_R.description>아가일 무늬의 카펫</Syulipia_Carpet_R.description>
+  <Syulipia_Carpet_B.label>아가일 카펫（파랑）</Syulipia_Carpet_B.label>
+  <Syulipia_Carpet_B.description>아가일 무늬의 카펫</Syulipia_Carpet_B.description>
+  <Syulipia_Carpet_G.label>아가일 카펫（초록）</Syulipia_Carpet_G.label>
+  <Syulipia_Carpet_G.description>아가일 무늬의 카펫</Syulipia_Carpet_G.description>
+  <Syulipia_Carpet_V.label>아가일 카펫（보라）</Syulipia_Carpet_V.label>
+  <Syulipia_Carpet_V.description>아가일 무늬의 카펫</Syulipia_Carpet_V.description>
+  <Syulipia_Carpet_P.label>아가일 카펫（분홍）</Syulipia_Carpet_P.label>
+  <Syulipia_Carpet_P.description>아가일 무늬의 카펫</Syulipia_Carpet_P.description>
+  <Syulipia_SlimeTile.label>슬라임 블록 타일</Syulipia_SlimeTile.label>
+  <Syulipia_SlimeTile.description>슬라임 블록으로 만든 바닥.\n이동속도가 감소한다.</Syulipia_SlimeTile.description>
+  <Syulipia_SlimeTile_Ice.label>아이스 슬라임 블록 타일</Syulipia_SlimeTile_Ice.label>
+  <Syulipia_SlimeTile_Ice.description>아이스 슬라임 블록으로 만든 바닥.\n이동속도가 상승한다.</Syulipia_SlimeTile_Ice.description>
+  <Syulipia_SlimeTile_Mochi.label>모찌 슬러임 블록 타일</Syulipia_SlimeTile_Mochi.label>
+  <Syulipia_SlimeTile_Mochi.description>모찌 슬라임 블록으로 만든 바닥.\n이동속도가 크게 감소한다.</Syulipia_SlimeTile_Mochi.description>
+  <Syulipia_Soil.label>밭</Syulipia_Soil.label>
+  <Syulipia_Soil.description>슬라임의 양분으로 식물의 성장을 촉진하는 밭을 만든다.</Syulipia_Soil.description>
+
+</LanguageData>

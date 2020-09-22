@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WDWoodFiredHeater.label>나무 땔감 난로</WDWoodFiredHeater.label>
+  <WDWoodFiredHeater.description>나무를 태워 난방합니다. 나무는 수동으로 보충해야 합니다.</WDWoodFiredHeater.description>
+  <WDWoodFiredHeater_Blueprint.label>나무 땔감 난로 (청사진)</WDWoodFiredHeater_Blueprint.label>
+  <WDWoodFiredHeater_Blueprint_Install.label>나무 땔감 난로 (청사진)</WDWoodFiredHeater_Blueprint_Install.label>
+  <WDWoodFiredHeater_Frame.label>나무 땔감 난로 (건설 중)</WDWoodFiredHeater_Frame.label>
+  <WDWoodFiredHeater_Frame.description>나무를 태워 난방합니다. 나무는 수동으로 보충해야 합니다.</WDWoodFiredHeater_Frame.description>
+  <WDChemfuelPoweredHeater.label>화학연료 난로</WDChemfuelPoweredHeater.label>
+  <WDChemfuelPoweredHeater.description>화학연료를 사용해 난방합니다. 화학연료는 수동으로 보충해야 합니다.</WDChemfuelPoweredHeater.description>
+  <WDChemfuelPoweredHeater_Blueprint.label>화학연료 난방 (청사진)</WDChemfuelPoweredHeater_Blueprint.label>
+  <WDChemfuelPoweredHeater_Blueprint_Install.label>화학연료 난방 (청사진)</WDChemfuelPoweredHeater_Blueprint_Install.label>
+  <WDChemfuelPoweredHeater_Frame.label>화학연료 난방 (건설 중)</WDChemfuelPoweredHeater_Frame.label>
+  <WDChemfuelPoweredHeater_Frame.description>화학연료를 사용해 난방합니다. 화학연료는 수동으로 보충해야 합니다.</WDChemfuelPoweredHeater_Frame.description>
+
+</LanguageData>

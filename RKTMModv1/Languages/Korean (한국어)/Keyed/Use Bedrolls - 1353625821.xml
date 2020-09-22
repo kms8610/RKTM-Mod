@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TD.UseBedrolls>침구 사용</TD.UseBedrolls>
+  <TD.CarriedBy>{0}(이)가 운반</TD.CarriedBy>
+  <TD.TravelerOwned>상단의 {0}</TD.TravelerOwned>
+  <TD.PickBackUpBed>예비침구 소지</TD.PickBackUpBed>
+  <TD.ExplainHomeBeds>침구 사용 모드는 상단을 꾸렸을 때, 정착지에서 할당된 침대를 기억합니다. 기본적으로 바닐라 게임은 세계지도로 나간 정착민도 침대 소유권을 유지하지만, 나간 정착민이 무엇이든 다른 침대를 사용하는 순간 기존 소유권이 해제됩니다. 침구 사용 모드는 나갔던 정착민이 돌아왔을 때 침대가 할당되지 않았다면, 나가기 전의 기존 침대 소유권으로 복원합니다.</TD.ExplainHomeBeds>
+  <TD.SettingReclaimAggresively>해당 침대가 다른 정착민에게 이미 할당된 경우에도, 기존 침대 소유권을 복원함</TD.SettingReclaimAggresively>
+  <TD.SettingReclaimAggresivelyDesc>분명히 말하지만, 당신은 의료용 또는 수감자용 침대를 할당받을 수는 없습니다</TD.SettingReclaimAggresivelyDesc>
+  <TD.SettingUnAssignOnExit>세계 지도로 나갈 때 침대 할당을 해제함</TD.SettingUnAssignOnExit>
+  <TD.SettingUnAssignOnExitDesc>당신의 상단이 새로운 정착지를 구성하려고 할 때 사용하는 확실한 선택입니다. 그리고 당신이 위의 설정을 사용하여 소유권을 복원해도 문제가 되지 않습니다.</TD.SettingUnAssignOnExitDesc>
+  <TD.SettingFarFromBed>할당된 침대가 너무 멀면 침구 사용</TD.SettingFarFromBed>
+  <TD.SettingFarFromBedAmount>할당된 침대가 지정된 거리 안에 없으면 소지품의 침구를 사용함:</TD.SettingFarFromBedAmount>
+  <TD.SettingAlsoColonies>정착지 지도에서 해당 모드 사용</TD.SettingAlsoColonies>
+  <TD.SettingAlsoColoniesDesc>실제로, 이 모드는 상단 운용에 사용되어야 하지만, 세계 지도가 아닌 정착지 지도에서도 똑같이 작동합니다. 하지만 정착지에서, 당신은 유용하게 사용하는 할당된 침대가 이미 있을 것이고, 어쨌든 이것은 의도한 사항이 아니므로 기본값으로 비활성화합니다. 그러나 당신이 원한다면 다시 활성화할 수도 있습니다.</TD.SettingAlsoColoniesDesc>
+  <TD.UseBedrollsUpdated>침구 사용 업데이트</TD.UseBedrollsUpdated>
+  <TD.UpdateNewsColonyMaps>어이! 속보야. 모드를 정착지 지도에서도 사용할지 정하는 새 설정 항목이 추가되었어. 기본값으로 비활성이기 때문에, {0}(은)는 더 이상 해체된 침대를 찾지 않을 거야.</TD.UpdateNewsColonyMaps>
+
+</LanguageData>

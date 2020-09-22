@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <avPackMeat40.label>고기 포장하기 x40</avPackMeat40.label>
+  <avPackMeat40.description>날고기를 포장하여 저장 공간을 보다 효율적으로 사용할 수 있게 합니다.</avPackMeat40.description>
+  <avPackMeat40.jobString>고기 포장 중.</avPackMeat40.jobString>
+  <avPackMeat10.label>고기 포장하기 x10</avPackMeat10.label>
+  <avPackMeat10.description>날고기를 포장하여 저장 공간을 보다 효율적으로 사용할 수 있게 합니다.</avPackMeat10.description>
+  <avPackMeat10.jobString>고기 포장 중.</avPackMeat10.jobString>
+  <avPackMeat.label>고기 포장하기</avPackMeat.label>
+  <avPackMeat.description>날고기를 포장하여 저장 공간을 보다 효율적으로 사용할 수 있게 합니다.</avPackMeat.description>
+  <avPackMeat.jobString>고기 포장 중.</avPackMeat.jobString>
+
+</LanguageData>

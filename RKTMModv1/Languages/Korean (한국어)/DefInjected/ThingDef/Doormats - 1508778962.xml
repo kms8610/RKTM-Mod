@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoorMatLeather.label>소형 흙털이</DoorMatLeather.label>
+  <DoorMatLeather.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLeather.description>
+  <DoorMatLeather_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLeather_Frame.description>
+  <DoorMatMediumLeather.label>중형 흙털이</DoorMatMediumLeather.label>
+  <DoorMatMediumLeather.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatMediumLeather.description>
+  <DoorMatMediumLeather_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatMediumLeather_Frame.description>
+  <DoorMatBigLeather.label>대형 흙털이</DoorMatBigLeather.label>
+  <DoorMatBigLeather.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBigLeather.description>
+  <DoorMatBigLeather_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBigLeather_Frame.description>
+  <DoorMatLinkedLeather.label>연결형 흙털이</DoorMatLinkedLeather.label>
+  <DoorMatLinkedLeather.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLinkedLeather.description>
+  <DoorMatLinkedLeather_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLinkedLeather_Frame.description>
+  <DoorMatRed.label>소형 흙털이 (적색)</DoorMatRed.label>
+  <DoorMatRed.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatRed.description>
+  <DoorMatRed_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatRed_Frame.description>
+  <DoorMatOrange.label>소형 흙털이 (주황색)</DoorMatOrange.label>
+  <DoorMatOrange.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatOrange.description>
+  <DoorMatOrange_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatOrange_Frame.description>
+  <DoorMatGreen.label>소형 흙털이 (녹색)</DoorMatGreen.label>
+  <DoorMatGreen.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatGreen.description>
+  <DoorMatGreen_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatGreen_Frame.description>
+  <DoorMatTeal.label>소형 흙털이 (청록색)</DoorMatTeal.label>
+  <DoorMatTeal.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatTeal.description>
+  <DoorMatTeal_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatTeal_Frame.description>
+  <DoorMatBlue.label>소형 흙털이 (청색)</DoorMatBlue.label>
+  <DoorMatBlue.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBlue.description>
+  <DoorMatBlue_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBlue_Frame.description>
+  <DoorMatMediumRed.label>중형 흙털이 (적색)</DoorMatMediumRed.label>
+  <DoorMatMediumRed.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatMediumRed.description>
+  <DoorMatMediumRed_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatMediumRed_Frame.description>
+  <DoorMatMediumOrange.label>중형 흙털이 (주황색)</DoorMatMediumOrange.label>
+  <DoorMatMediumOrange.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatMediumOrange.description>
+  <DoorMatMediumOrange_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatMediumOrange_Frame.description>
+  <DoorMatMediumGreen.label>중형 흙털이 (녹색)</DoorMatMediumGreen.label>
+  <DoorMatMediumGreen.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatMediumGreen.description>
+  <DoorMatMediumGreen_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatMediumGreen_Frame.description>
+  <DoorMatMediumTeal.label>중형 흙털이 (청록색)</DoorMatMediumTeal.label>
+  <DoorMatMediumTeal.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatMediumTeal.description>
+  <DoorMatMediumTeal_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatMediumTeal_Frame.description>
+  <DoorMatMediumBlue.label>중형 흙털이 (청색)</DoorMatMediumBlue.label>
+  <DoorMatMediumBlue.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatMediumBlue.description>
+  <DoorMatMediumBlue_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatMediumBlue_Frame.description>
+  <DoorMatBigRed.label>대형 흙털이 (적색)</DoorMatBigRed.label>
+  <DoorMatBigRed.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBigRed.description>
+  <DoorMatBigRed_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBigRed_Frame.description>
+  <DoorMatBigOrange.label>대형 흙털이 (주황색)</DoorMatBigOrange.label>
+  <DoorMatBigOrange.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBigOrange.description>
+  <DoorMatBigOrange_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBigOrange_Frame.description>
+  <DoorMatBigGreen.label>대형 흙털이 (녹색)</DoorMatBigGreen.label>
+  <DoorMatBigGreen.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBigGreen.description>
+  <DoorMatBigGreen_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBigGreen_Frame.description>
+  <DoorMatBigTeal.label>대형 흙털이 (청록색)</DoorMatBigTeal.label>
+  <DoorMatBigTeal.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBigTeal.description>
+  <DoorMatBigTeal_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBigTeal_Frame.description>
+  <DoorMatBigBlue.label>대형 흙털이 (청색)</DoorMatBigBlue.label>
+  <DoorMatBigBlue.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBigBlue.description>
+  <DoorMatBigBlue_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatBigBlue_Frame.description>
+  <DoorMatLinkedRed.label>연결형 흙털이 (적색)</DoorMatLinkedRed.label>
+  <DoorMatLinkedRed.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLinkedRed.description>
+  <DoorMatLinkedRed_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLinkedRed_Frame.description>
+  <DoorMatLinkedOrange.label>연결형 흙털이 (주황색)</DoorMatLinkedOrange.label>
+  <DoorMatLinkedOrange.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLinkedOrange.description>
+  <DoorMatLinkedOrange_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLinkedOrange_Frame.description>
+  <DoorMatLinkedGreen.label>연결형 흙털이 (녹색)</DoorMatLinkedGreen.label>
+  <DoorMatLinkedGreen.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLinkedGreen.description>
+  <DoorMatLinkedGreen_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLinkedGreen_Frame.description>
+  <DoorMatLinkedTeal.label>연결형 흙털이 (청록색)</DoorMatLinkedTeal.label>
+  <DoorMatLinkedTeal.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLinkedTeal.description>
+  <DoorMatLinkedTeal_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLinkedTeal_Frame.description>
+  <DoorMatLinkedBlue.label>연결형 흙털이 (청색)</DoorMatLinkedBlue.label>
+  <DoorMatLinkedBlue.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLinkedBlue.description>
+  <DoorMatLinkedBlue_Frame.description>당신의 발을 깨끗하게 해주는 흙털이입니다.</DoorMatLinkedBlue_Frame.description>
+
+</LanguageData>

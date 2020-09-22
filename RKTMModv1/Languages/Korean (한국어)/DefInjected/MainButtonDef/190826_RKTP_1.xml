@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1208781538_190519_DaysMatter-->
+  <WiseClock_DaysMatter.description>기념할만한 날을 추가하거나 제거합니다.</WiseClock_DaysMatter.description>
+  <WiseClock_DaysMatter.label>기념일</WiseClock_DaysMatter.label>
+
+  <!--1365242717_190811_Pharmacist-->
+  <Pharmacist.label>약사</Pharmacist.label>
+  <Pharmacist.description>모든 상처가 항상 같지는 않습니다; 약의 사용 시기에 맞게 약품 정책을 작성하세요.</Pharmacist.description>
+
+  <!--1440321094_190519_Auto Seller-->
+  <AutoSell.label>자동 판매</AutoSell.label>
+  <AutoSell.description>규칙을 작성해 판매합니다.</AutoSell.description>
+
+  <!--1505914869_190616_What the hack!-->
+  <WTH_Tab_Mechanoids.label>메카노이드</WTH_Tab_Mechanoids.label>
+  <WTH_Tab_Mechanoids.description>해킹된 메카노이드에 대한 개요로, 적절한 작업 모듈이 설치된 메카노이드의 작업 우선 순위를 설정할 수 있습니다.</WTH_Tab_Mechanoids.description>
+
+  <!--1509278793_181029_Inventory Tab-->
+  <Inventory.label>인벤토리</Inventory.label>
+  <Inventory.description>정착지에 저장된 모든 항목을 표시합니다.</Inventory.description>
+
+  <!--1573233249_190616_Desynchronized: Tales and News (v1.6.2)-->
+  <DesynchronizedTab.label>소식</DesynchronizedTab.label>
+  <DesynchronizedTab.description>정착지에서 소식이 어떻게 순환되고 있는지에 대한 개요를 제공합니다.</DesynchronizedTab.description>
+
+  <!--715565262_181031_Colony Manager-->
+  <Fluffy_Manager.description>정착민들이 어떤 종류의 작업을 하고, 어떤 우선순위로 할 것인가를 정할 수 있습니다.</Fluffy_Manager.description>
+  <Fluffy_Manager.label>관리자</Fluffy_Manager.label>
+
+  <!--715565817_190626_Medical Tab-->
+  <MedicalTab.label>의료</MedicalTab.label>
+  <MedicalTab.description>정착민, 가축과 포로들의 건강 상태를 확인하고 수술을 지시하고 의료 정책을 할당합니다.</MedicalTab.description>
+
+  <!--724602224_190626_Misc. Robots-->
+  <AIRobots.label>로봇</AIRobots.label>
+  <AIRobots.description>정착지의 활성화 된 로봇입니다.</AIRobots.description>
+
+  <!--962732083_190818_RuntimeGC-->
+  <RGC_UI.description>No_Need_To_Translate_This_File_Because_This_Text_Is_Replaced_In_Dll</RGC_UI.description>
+  <RGC_UI.label>런타임 GC</RGC_UI.label>
+
+  <!--974066449_181029_Weaponstats-->
+  <Bodlosh_WeaponStats.label>무기 정보</Bodlosh_WeaponStats.label>
+  <Bodlosh_WeaponStats.description>무기 정보</Bodlosh_WeaponStats.description>
+
+  <!--1414302321_190818_Numbers-->
+  <kNumbersOverviewTab.label>넘버즈</kNumbersOverviewTab.label>
+  <kNumbersOverviewTab.description>모든 정착민, 죄수의 상태를 한 눈에 확인할 수 있습니다.</kNumbersOverviewTab.description>
+
+</LanguageData>

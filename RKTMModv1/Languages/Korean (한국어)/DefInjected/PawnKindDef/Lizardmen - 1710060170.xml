@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LizardmanTribe.label>리자드맨</LizardmanTribe.label>
+  <LizardmanWarrior.label>전사</LizardmanWarrior.label>
+  <LizardmanTrader.label>상인</LizardmanTrader.label>
+  <LizardmanBerserker.label>광전사</LizardmanBerserker.label>
+  <LizardmanArcher.label>궁수</LizardmanArcher.label>
+  <LizardmanThunderer.label>사수</LizardmanThunderer.label>
+  <LizardmanBomber.label>파괴자</LizardmanBomber.label>
+  <LizardmanKnight.label>기사</LizardmanKnight.label>
+
+</LanguageData>

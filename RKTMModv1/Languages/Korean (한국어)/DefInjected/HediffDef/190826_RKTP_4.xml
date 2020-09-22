@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1742245843_190816_Evolved Organs-->
+  <EvolvedSecondHeart.label>진화된 두번째 심장</EvolvedSecondHeart.label>
+  <EvolvedSecondHeart.labelNoun>진화된 두번째 심장</EvolvedSecondHeart.labelNoun>
+  <EvolvedPrimaryHeart.label>진화된 첫번째 심장</EvolvedPrimaryHeart.label>
+  <EvolvedPrimaryHeart.labelNoun>진화된 첫번째 심장</EvolvedPrimaryHeart.labelNoun>
+  <EvolvedKidney.label>진화된 신장</EvolvedKidney.label>
+  <EvolvedKidney.labelNoun>진화된 신장</EvolvedKidney.labelNoun>
+  <EvolvedLung.label>진화된 폐</EvolvedLung.label>
+  <EvolvedLung.labelNoun>진화된 폐</EvolvedLung.labelNoun>
+  <EvolvedThirdLung.label>진화된 세번째 폐</EvolvedThirdLung.label>
+  <EvolvedThirdLung.labelNoun>진화된 세번째 폐</EvolvedThirdLung.labelNoun>
+  <EvolvedStomach.label>진화된 위</EvolvedStomach.label>
+  <EvolvedStomach.labelNoun>진화된 위</EvolvedStomach.labelNoun>
+  <EvolvedLiver.label>진화된 간</EvolvedLiver.label>
+  <EvolvedLiver.labelNoun>진화된 간</EvolvedLiver.labelNoun>
+  <EvolvedBrain.label>진화된 뇌</EvolvedBrain.label>
+  <EvolvedBrain.labelNoun>진화된 뇌</EvolvedBrain.labelNoun>
+  <EvolvedEye.label>진화된 눈</EvolvedEye.label>
+  <EvolvedEye.labelNoun>진화된 눈</EvolvedEye.labelNoun>
+  <EvolvedPinions.label>진화된 날개</EvolvedPinions.label>
+  <EvolvedPinions.labelNoun>일부 진화된 날개</EvolvedPinions.labelNoun>
+  <EvolvedCombatGlands.label>진화된 전투 분비샘</EvolvedCombatGlands.label>
+  <EvolvedCombatGlands.labelNoun>일부 진화된 전투 분비샘</EvolvedCombatGlands.labelNoun>
+  <EvolvedLeg.label>진화된 다리</EvolvedLeg.label>
+  <EvolvedLeg.labelNoun>진화된 다리</EvolvedLeg.labelNoun>
+  <EvolvedNose.label>진화된 코</EvolvedNose.label>
+  <EvolvedNose.labelNoun>진화된 코</EvolvedNose.labelNoun>
+  <EvolvedLarnyx.label>진화된 후두</EvolvedLarnyx.label>
+  <EvolvedLarnyx.labelNoun>진화된 후두</EvolvedLarnyx.labelNoun>
+  <EvolvedEar.label>진화된 귀</EvolvedEar.label>
+  <EvolvedEar.labelNoun>진화된 귀</EvolvedEar.labelNoun>
+  <EvolvedRibcage.label>진화된 갈비뼈</EvolvedRibcage.label>
+  <EvolvedRibcage.labelNoun>진화된 갈비뼈</EvolvedRibcage.labelNoun>
+  <EvolvedCarapace.label>진화된 피부</EvolvedCarapace.label>
+  <EvolvedCarapace.labelNoun>일부 진화된 용의 피부</EvolvedCarapace.labelNoun>
+  <EvolvedPelt.label>진화된 가죽</EvolvedPelt.label>
+  <EvolvedPelt.labelNoun>일부 진화된 가죽</EvolvedPelt.labelNoun>
+  <EvolvedSpine.label>진화된 척추</EvolvedSpine.label>
+  <EvolvedSpine.labelNoun>진화된 척추</EvolvedSpine.labelNoun>
+  <EvolvedTail.label>진화된 꼬리</EvolvedTail.label>
+  <EvolvedTail.labelNoun>진화된 꼬리</EvolvedTail.labelNoun>
+  <EvolvedJaw.label>진화된 턱</EvolvedJaw.label>
+  <EvolvedJaw.labelNoun>진화된 턱</EvolvedJaw.labelNoun>
+  <EvolvedSpider.label>진화된 거미 다리들</EvolvedSpider.label>
+  <EvolvedSpider.labelNoun>진화된 거미 다리들</EvolvedSpider.labelNoun>
+  <EvolvedFilter.label>진화된 정신 필터</EvolvedFilter.label>
+  <EvolvedFilter.labelNoun>진화된 정신 필터</EvolvedFilter.labelNoun>
+  <EmpathicResonator.label>공감 공진기</EmpathicResonator.label>
+  <EmpathicResonator.labelNoun>공감 공진기</EmpathicResonator.labelNoun>
+  <ImmortalOrgan.label>라의 공포</ImmortalOrgan.label>
+  <ImmortalOrgan.labelNoun>생물학적으로 폰을 불멸로 만들어주는 장기.</ImmortalOrgan.labelNoun>
+  <Aging.label>노화</Aging.label>
+  <LymphaticProliferator.label>림프 증식자</LymphaticProliferator.label>
+  <LymphaticProliferator.labelNoun>면역력을 크게 향상시켜 정상적인 감염물질에 대한 면역력을 높여주는 기관</LymphaticProliferator.labelNoun>
+  <EvolvedArm.label>진화된 팔</EvolvedArm.label>
+  <EvolvedArm.labelNoun>진화된 팔</EvolvedArm.labelNoun>
+  <EvolvedArm_Secondary.label>진화된 팔</EvolvedArm_Secondary.label>
+  <EvolvedArm_Secondary.labelNoun>진화된 팔</EvolvedArm_Secondary.labelNoun>
+  <EvolvedArmSabre.label>진화된 팔 검</EvolvedArmSabre.label>
+  <EvolvedArmSabre.labelNoun>진화된 팔 검</EvolvedArmSabre.labelNoun>
+  <EvolvedArmSabre_Secondary.label>진화된 팔 검</EvolvedArmSabre_Secondary.label>
+  <EvolvedArmSabre_Secondary.labelNoun>진화된 팔 검</EvolvedArmSabre_Secondary.labelNoun>
+  <EvolvedArmMace.label>진화된 팔 둔기</EvolvedArmMace.label>
+  <EvolvedArmMace.labelNoun>진화된 팔 둔기</EvolvedArmMace.labelNoun>
+  <EvolvedArmMace_Secondary.label>진화된 팔 둔기</EvolvedArmMace_Secondary.label>
+  <EvolvedArmMace_Secondary.labelNoun>진화된 팔 둔기</EvolvedArmMace_Secondary.labelNoun>
+  <EvolvedArmClaw.label>진화된 팔 발톱</EvolvedArmClaw.label>
+  <EvolvedArmClaw.labelNoun>진화된 팔 발톱</EvolvedArmClaw.labelNoun>
+  <EvolvedArmClaw_Secondary.label>진화된 팔 발톱</EvolvedArmClaw_Secondary.label>
+  <EvolvedArmClaw_Secondary.labelNoun>진화된 팔 발톱</EvolvedArmClaw_Secondary.labelNoun>
+  <EvolvedArmTentacle.label>진화된 팔 촉수</EvolvedArmTentacle.label>
+  <EvolvedArmTentacle.labelNoun>진화된 팔 촉수</EvolvedArmTentacle.labelNoun>
+  <EvolvedArmTentacle_Secondary.label>진화된 팔 촉수</EvolvedArmTentacle_Secondary.label>
+  <EvolvedArmTentacle_Secondary.labelNoun>진화된 팔 촉수</EvolvedArmTentacle_Secondary.labelNoun>
+  <EvolvedArmShield.label>진화된 팔 방패</EvolvedArmShield.label>
+  <EvolvedArmShield.labelNoun>진화된 팔 방패</EvolvedArmShield.labelNoun>
+  <EvolvedArmShield_Secondary.label>진화된 팔 방패</EvolvedArmShield_Secondary.label>
+  <EvolvedArmShield_Secondary.labelNoun>진화된 팔 방패</EvolvedArmShield_Secondary.labelNoun>
+
+  <!--850429707_190626_RBSE-->
+  <BionicFoot.labelNoun>생체공학 발</BionicFoot.labelNoun>
+  <BionicHand.labelNoun>생체공학 손</BionicHand.labelNoun>
+  <BionicJaw.labelNoun>생체공학 턱</BionicJaw.labelNoun>
+  <PowerArm.labelNoun>동력 팔</PowerArm.labelNoun>
+  <SpinalFusion.labelNoun>척추 결합</SpinalFusion.labelNoun>
+  <HookHand.labelNoun>갈고리 손</HookHand.labelNoun>
+  <SimpleProstheticFoot.labelNoun>간단한 인공 발</SimpleProstheticFoot.labelNoun>
+  <SimpleProstheticHand.labelNoun>간단한 인공 손</SimpleProstheticHand.labelNoun>
+  <SyntheticLung.stages.0.label>적응 중</SyntheticLung.stages.0.label>
+  <SyntheticLung.stages.1.label>적응 중</SyntheticLung.stages.1.label>
+  <SyntheticLiver.stages.0.label>적응 중</SyntheticLiver.stages.0.label>
+  <SyntheticLiver.stages.1.label>적응 중</SyntheticLiver.stages.1.label>
+  <SyntheticKidney.stages.0.label>적응 중</SyntheticKidney.stages.0.label>
+  <SyntheticKidney.stages.1.label>적응 중</SyntheticKidney.stages.1.label>
+  <SyntheticHeart.stages.0.label>적응 중</SyntheticHeart.stages.0.label>
+  <SyntheticHeart.stages.1.label>적응 중</SyntheticHeart.stages.1.label>
+  <SyntheticStomach.stages.0.label>적응 중</SyntheticStomach.stages.0.label>
+  <SyntheticStomach.stages.1.label>적응 중</SyntheticStomach.stages.1.label>
+  <AdvancedBionicArm.label>고급 생체공학 팔</AdvancedBionicArm.label>
+  <AdvancedBionicEar.label>고급 생체공학 귀</AdvancedBionicEar.label>
+  <AdvancedBionicEye.label>고급 생체공학 눈</AdvancedBionicEye.label>
+  <AdvancedBionicFoot.label>고급 생체공학 발</AdvancedBionicFoot.label>
+  <AdvancedBionicHand.label>고급 생체공학 손</AdvancedBionicHand.label>
+  <AdvancedBionicLeg.label>고급 생체공학 다리</AdvancedBionicLeg.label>
+  <AdvancedBionicSpine.label>고급 생체공학 척추</AdvancedBionicSpine.label>
+  <AdvancedPowerArm.label>고급 동력 팔</AdvancedPowerArm.label>
+  <AdvancedBionicArm.labelNoun>고급 생체공학 팔</AdvancedBionicArm.labelNoun>
+  <AdvancedBionicEar.labelNoun>고급 생체공학 귀</AdvancedBionicEar.labelNoun>
+  <AdvancedBionicEye.labelNoun>고급 생체공학 눈</AdvancedBionicEye.labelNoun>
+  <AdvancedBionicFoot.labelNoun>고급 생체공학 발</AdvancedBionicFoot.labelNoun>
+  <AdvancedBionicHand.labelNoun>고급 생체공학 손</AdvancedBionicHand.labelNoun>
+  <AdvancedBionicLeg.labelNoun>고급 생체공학 다리</AdvancedBionicLeg.labelNoun>
+  <AdvancedBionicSpine.labelNoun>고급 생체공학 척추</AdvancedBionicSpine.labelNoun>
+  <AdvancedPowerArm.labelNoun>고급 동력 팔</AdvancedPowerArm.labelNoun>
+  <ArtificialClavicle.labelNoun>인공 쇄골</ArtificialClavicle.labelNoun>
+  <ArtificialFemur.labelNoun>인공 대퇴골</ArtificialFemur.labelNoun>
+  <ArtificialHumerus.labelNoun>인공 상완골</ArtificialHumerus.labelNoun>
+  <ArtificialNose.labelNoun>인공 코</ArtificialNose.labelNoun>
+  <ArtificialPelvis.labelNoun>인공 골반</ArtificialPelvis.labelNoun>
+  <ArtificialRadius.labelNoun>인공 요골</ArtificialRadius.labelNoun>
+  <ArtificialRibcage.labelNoun>인공 갈비뼈</ArtificialRibcage.labelNoun>
+  <ArtificialSternum.labelNoun>인공 흉골</ArtificialSternum.labelNoun>
+  <ArtificialTibia.labelNoun>인공 경골</ArtificialTibia.labelNoun>
+  <ExoskeletonSuit.labelNoun>외골격 장갑</ExoskeletonSuit.labelNoun>
+  <ArtificialClavicle.label>인공 쇄골</ArtificialClavicle.label>
+  <ArtificialFemur.label>인공 대퇴골</ArtificialFemur.label>
+  <ArtificialHumerus.label>인공 상완골</ArtificialHumerus.label>
+  <ArtificialNose.label>인공 코</ArtificialNose.label>
+  <ArtificialPelvis.label>인공 골반</ArtificialPelvis.label>
+  <ArtificialRadius.label>인공 요골</ArtificialRadius.label>
+  <ArtificialRibcage.label>인공 갈비뼈</ArtificialRibcage.label>
+  <ArtificialSternum.label>인공 흉골</ArtificialSternum.label>
+  <ArtificialTibia.label>인공 경골</ArtificialTibia.label>
+  <BionicFoot.label>생체공학 발</BionicFoot.label>
+  <BionicHand.label>생체공학 손</BionicHand.label>
+  <BionicJaw.label>생체공학 턱</BionicJaw.label>
+  <ChronicKidneyDisease.label>만성 신장병</ChronicKidneyDisease.label>
+  <ChronicStomachDisorder.label>만성 위장 장애</ChronicStomachDisorder.label>
+  <CongenitalHeartDefect.label>선천성 심장 결함</CongenitalHeartDefect.label>
+  <Cortexaugmentor.label>대뇌피질 증진기</Cortexaugmentor.label>
+  <Stomach.stages.3.label>극심한 거부반응</Stomach.stages.3.label>
+  <Heart.stages.3.label>극심한 거부반응</Heart.stages.3.label>
+  <Liver.stages.3.label>극심한 거부반응</Liver.stages.3.label>
+  <Kidney.stages.3.label>극심한 거부반응</Kidney.stages.3.label>
+  <Lung.stages.3.label>극심한 거부반응</Lung.stages.3.label>
+  <ExoskeletonSuit.label>외골격 장갑</ExoskeletonSuit.label>
+  <ChronicKidneyDisease.stages.4.label>극심함</ChronicKidneyDisease.stages.4.label>
+  <AdvancedPowerArm.comps.0.tools.0.label>주먹</AdvancedPowerArm.comps.0.tools.0.label>
+  <AdvancedBionicArm.comps.0.tools.0.label>주먹</AdvancedBionicArm.comps.0.tools.0.label>
+  <AdvancedBionicHand.comps.0.tools.0.label>주먹</AdvancedBionicHand.comps.0.tools.0.label>
+  <PowerArm.comps.0.tools.0.label>주먹</PowerArm.comps.0.tools.0.label>
+  <BionicHand.comps.0.tools.0.label>주먹</BionicHand.comps.0.tools.0.label>
+  <HookHand.comps.0.tools.0.label>주먹</HookHand.comps.0.tools.0.label>
+  <SimpleProstheticHand.comps.0.tools.0.label>주먹</SimpleProstheticHand.comps.0.tools.0.label>
+  <Heart.label>심장 이식</Heart.label>
+  <HookHand.label>갈고리 손</HookHand.label>
+  <Hyporegulator.label>시상하부 조절기</Hyporegulator.label>
+  <Kidney.label>신장 이식</Kidney.label>
+  <Liver.label>간 이식</Liver.label>
+  <Lung.label>폐 이식</Lung.label>
+  <ChronicKidneyDisease.stages.3.label>심각함</ChronicKidneyDisease.stages.3.label>
+  <CongenitalHeartDefect.stages.1.label>심각함</CongenitalHeartDefect.stages.1.label>
+  <Stomach.stages.0.label>가벼운 거부반응</Stomach.stages.0.label>
+  <Heart.stages.0.label>가벼운 거부반응</Heart.stages.0.label>
+  <Liver.stages.0.label>가벼운 거부반응</Liver.stages.0.label>
+  <Kidney.stages.0.label>가벼운 거부반응</Kidney.stages.0.label>
+  <Lung.stages.0.label>가벼운 거부반응</Lung.stages.0.label>
+  <ChronicKidneyDisease.stages.0.label>가벼움</ChronicKidneyDisease.stages.0.label>
+  <ChronicKidneyDisease.stages.1.label>가벼움</ChronicKidneyDisease.stages.1.label>
+  <ChronicKidneyDisease.stages.2.label>보통</ChronicKidneyDisease.stages.2.label>
+  <CongenitalHeartDefect.stages.0.label>보통</CongenitalHeartDefect.stages.0.label>
+  <Stomach.stages.1.label>보통의 거부반응</Stomach.stages.1.label>
+  <Heart.stages.1.label>보통의 거부반응</Heart.stages.1.label>
+  <Liver.stages.1.label>보통의 거부반응</Liver.stages.1.label>
+  <Kidney.stages.1.label>보통의 거부반응</Kidney.stages.1.label>
+  <Lung.stages.1.label>보통의 거부반응</Lung.stages.1.label>
+  <Neurostimulator.label>신경자극기</Neurostimulator.label>
+  <PowerArm.label>동력 팔</PowerArm.label>
+  <Stomach.stages.2.label>심각한 거부반응</Stomach.stages.2.label>
+  <Heart.stages.2.label>심각한 거부반응</Heart.stages.2.label>
+  <Liver.stages.2.label>심각한 거부반응</Liver.stages.2.label>
+  <Kidney.stages.2.label>심각한 거부반응</Kidney.stages.2.label>
+  <Lung.stages.2.label>심각한 거부반응</Lung.stages.2.label>
+  <SimpleProstheticFoot.label>간단한 인공 발</SimpleProstheticFoot.label>
+  <SimpleProstheticHand.label>간단한 인공 손</SimpleProstheticHand.label>
+  <SpinalFusion.label>척추 결합</SpinalFusion.label>
+  <Stomach.label>위 이식</Stomach.label>
+  <SyntheticHeart.label>합성 심장</SyntheticHeart.label>
+  <SyntheticKidney.label>합성 신장</SyntheticKidney.label>
+  <SyntheticLiver.label>합성 간</SyntheticLiver.label>
+  <SyntheticLung.label>합성 폐</SyntheticLung.label>
+  <SyntheticStomach.label>합성 위</SyntheticStomach.label>
+
+  <!--1798703154_190813_Common Ailments-->
+  <CA_CommonCold.label>감기</CA_CommonCold.label>
+  <CA_CommonCold.stages.0.label>약한</CA_CommonCold.stages.0.label>
+  <CA_CommonCold.stages.1.label>가벼운</CA_CommonCold.stages.1.label>
+  <CA_CommonCold.stages.2.label>심각한</CA_CommonCold.stages.2.label>
+  <CA_Conjunctivitis.label>결막염</CA_Conjunctivitis.label>
+  <CA_Conjunctivitis.stages.0.label>약한</CA_Conjunctivitis.stages.0.label>
+  <CA_Conjunctivitis.stages.1.label>가벼운</CA_Conjunctivitis.stages.1.label>
+  <CA_Conjunctivitis.stages.2.label>심각한</CA_Conjunctivitis.stages.2.label>
+  <CA_Earache.label>이통</CA_Earache.label>
+  <CA_Earache.stages.0.label>가벼운</CA_Earache.stages.0.label>
+  <CA_Earache.stages.1.label>심각한</CA_Earache.stages.1.label>
+  <CA_Earache.stages.2.label>결막염</CA_Earache.stages.2.label>
+  <CA_Hayfever.label>건초열</CA_Hayfever.label>
+  <CA_Hayfever.stages.0.label>약한</CA_Hayfever.stages.0.label>
+  <CA_Hayfever.stages.1.label>가벼운</CA_Hayfever.stages.1.label>
+  <CA_Hayfever.stages.2.label>심각한</CA_Hayfever.stages.2.label>
+  <CA_Headache.label>두통</CA_Headache.label>
+  <CA_Indigestion.label>소화불량</CA_Indigestion.label>
+  <CA_Indegestion.label>Def 제거하기</CA_Indegestion.label>
+  <CA_Knick_Hand.label>베인 상처 (손)</CA_Knick_Hand.label>
+  <CA_Knick_Hand.stages.0.label>회복중</CA_Knick_Hand.stages.0.label>
+  <CA_Knick_Hand.labelNoun>베인 상처</CA_Knick_Hand.labelNoun>
+  <CA_Knick_Arm.label>베인 상처 (팔)</CA_Knick_Arm.label>
+  <CA_Knick_Arm.stages.0.label>회복중</CA_Knick_Arm.stages.0.label>
+  <CA_Knick_Arm.labelNoun>베인 상처</CA_Knick_Arm.labelNoun>
+  <CA_Knick_Foot.label>베인 상처 (발)</CA_Knick_Foot.label>
+  <CA_Knick_Foot.stages.0.label>회복중</CA_Knick_Foot.stages.0.label>
+  <CA_Knick_Foot.labelNoun>베인 상처</CA_Knick_Foot.labelNoun>
+  <CA_Knick_Leg.label>베인 상처 (다리)</CA_Knick_Leg.label>
+  <CA_Knick_Leg.stages.0.label>회복중</CA_Knick_Leg.stages.0.label>
+  <CA_Knick_Leg.labelNoun>베인 상처</CA_Knick_Leg.labelNoun>
+  <CA_Migraine.label>편두통</CA_Migraine.label>
+  <CA_Minor_STD.label>가벼운 성병</CA_Minor_STD.label>
+  <CA_Minor_STD.stages.0.label>약한</CA_Minor_STD.stages.0.label>
+  <CA_Minor_STD.stages.1.label>가벼운</CA_Minor_STD.stages.1.label>
+  <CA_Minor_STD.stages.2.label>심각한</CA_Minor_STD.stages.2.label>
+  <CA_Restless.label>약한 불면증</CA_Restless.label>
+  <CA_Sinusitis.label>축농증</CA_Sinusitis.label>
+  <CA_SkinRash.label>뾰루지</CA_SkinRash.label>
+  <CA_SoreThroat.label>인후염</CA_SoreThroat.label>
+  <CA_Sprain_Hand.label>접질림 (손)</CA_Sprain_Hand.label>
+  <CA_Sprain_Hand.stages.0.label>회복중</CA_Sprain_Hand.stages.0.label>
+  <CA_Sprain_Hand.labelNoun>접질림</CA_Sprain_Hand.labelNoun>
+  <CA_Sprain_Arm.label>접질림 (팔)</CA_Sprain_Arm.label>
+  <CA_Sprain_Arm.stages.0.label>회복중</CA_Sprain_Arm.stages.0.label>
+  <CA_Sprain_Arm.labelNoun>접질림</CA_Sprain_Arm.labelNoun>
+  <CA_Sprain_Foot.label>접질림 (발)</CA_Sprain_Foot.label>
+  <CA_Sprain_Foot.stages.0.label>회복중</CA_Sprain_Foot.stages.0.label>
+  <CA_Sprain_Foot.labelNoun>접질림</CA_Sprain_Foot.labelNoun>
+  <CA_Sprain_Leg.label>접질림 (다리)</CA_Sprain_Leg.label>
+  <CA_Sprain_Leg.stages.0.label>회복중</CA_Sprain_Leg.stages.0.label>
+  <CA_Sprain_Leg.labelNoun>접질림</CA_Sprain_Leg.labelNoun>
+
+</LanguageData>

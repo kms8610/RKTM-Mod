@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--JECSTOOLS - 932008009-->
+  <Laser.label>화상</Laser.label>
+  <Laser.deathMessage>{0}(이)가 총알에 맞아 죽었습니다.</Laser.deathMessage>
+
+</LanguageData>

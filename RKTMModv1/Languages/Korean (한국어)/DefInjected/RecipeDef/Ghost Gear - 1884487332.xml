@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeGGCaltropsPod.label>유령 장비 마름쇠 포드 제작</MakeGGCaltropsPod.label>
+  <MakeGGCaltropsPod.description>유령 장비 마름쇠 포드 1개를 제작합니다.</MakeGGCaltropsPod.description>
+  <MakeGGCaltropsPod.jobString>유령 장비 마름쇠 포드 제작 중.</MakeGGCaltropsPod.jobString>
+  <MakeBulkGGCaltropsPod.label>대량의 유령 장비 마름쇠 포드 제작</MakeBulkGGCaltropsPod.label>
+  <MakeBulkGGCaltropsPod.description>유령 장비 마름쇠 포드 3개를 제작합니다.</MakeBulkGGCaltropsPod.description>
+  <MakeBulkGGCaltropsPod.jobString>유령 장비 마름쇠 포드 제작 중.</MakeBulkGGCaltropsPod.jobString>
+  <MakeBulkGGCaltropsShell.label>대량의 유령 장비 마름쇠 제작</MakeBulkGGCaltropsShell.label>
+  <MakeBulkGGCaltropsShell.description>유령 장비 마름쇠 4개를 제작합니다.</MakeBulkGGCaltropsShell.description>
+  <MakeBulkGGCaltropsShell.jobString>유령 장비 마름쇠 제작 중.</MakeBulkGGCaltropsShell.jobString>
+  <MakeAntiNerveToxin.label>항 신경 독 제작</MakeAntiNerveToxin.label>
+  <MakeAntiNerveToxin.description>항 신경 독 알약 2개를 제작합니다.</MakeAntiNerveToxin.description>
+  <MakeAntiNerveToxin.jobString>항 신경 독 알약 제작 중</MakeAntiNerveToxin.jobString>
+  <MakeBulkAntiNerveToxin.label>대량의 항 신경 독 알약 제작</MakeBulkAntiNerveToxin.label>
+  <MakeBulkAntiNerveToxin.description>항 신경 독 알약 4개를 제작합니다.</MakeBulkAntiNerveToxin.description>
+  <MakeBulkAntiNerveToxin.jobString>항 신경 독 알약 제작 중</MakeBulkAntiNerveToxin.jobString>
+  <MakeBulkGGHaywireShell.label>대량의 헤이와이어 메카나이트 포탄 제작</MakeBulkGGHaywireShell.label>
+  <MakeBulkGGHaywireShell.description>헤이와이어 메카나이트 포탄 4개를 제작합니다.</MakeBulkGGHaywireShell.description>
+  <MakeBulkGGHaywireShell.jobString>헤이와이어 포탄 제작 중.</MakeBulkGGHaywireShell.jobString>
+  <MakeGGLead.label>납 제련</MakeGGLead.label>
+  <MakeGGLead.description>납 5개를 제련합니다.</MakeGGLead.description>
+  <MakeGGLead.jobString>납 제련 중.</MakeGGLead.jobString>
+  <MakeGGHWMechanites.label>헤이와이어 메카나이트 제작</MakeGGHWMechanites.label>
+  <MakeGGHWMechanites.description>헤이와이어 메카나이트 1개를 제작합니다.</MakeGGHWMechanites.description>
+  <MakeGGHWMechanites.jobString>헤이와이어 메카나이트 제작 중.</MakeGGHWMechanites.jobString>
+  <MakeRPHexane.label>헥세인 제작</MakeRPHexane.label>
+  <MakeRPHexane.description>헥세인 25개 제작</MakeRPHexane.description>
+  <MakeRPHexane.jobString>헥세인 제작 중</MakeRPHexane.jobString>
+  <MakeRPNerveToxin_Vial.label>신경 독 약병 제작</MakeRPNerveToxin_Vial.label>
+  <MakeRPNerveToxin_Vial.description>신경 독 약병 1개를 제작합니다.</MakeRPNerveToxin_Vial.description>
+  <MakeRPNerveToxin_Vial.jobString>신경 독 약병 제작 중.</MakeRPNerveToxin_Vial.jobString>
+
+</LanguageData>

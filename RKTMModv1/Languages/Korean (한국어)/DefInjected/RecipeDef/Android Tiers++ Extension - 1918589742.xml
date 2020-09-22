@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_DisassembleAndroid.label>죽은 안드로이드 시체 분해</ATPP_DisassembleAndroid.label>
+  <ATPP_DisassembleAndroid.description>죽은 안드로이드의 부품을 분해합니다.</ATPP_DisassembleAndroid.description>
+  <ATPP_DisassembleAndroid.jobString>안드로이드 분해 중.</ATPP_DisassembleAndroid.jobString>
+  <ATPP_Make_NanitesHydraulicSerum.label>나나이트 슬롯 제작(유압형)</ATPP_Make_NanitesHydraulicSerum.label>
+  <ATPP_Make_NanitesHydraulicSerum.description>안드로이드 유압 나나이트 혈청을 만들어 안드로이드를 고칠 수 있습니다. (노년기 관련).</ATPP_Make_NanitesHydraulicSerum.description>
+  <ATPP_Make_NanitesHydraulicSerum.jobString>안드로이드 나나이트 혈청 제작</ATPP_Make_NanitesHydraulicSerum.jobString>
+  <ATPP_Make_NanitesCPUSerum.label>나나이트 슬롯 제작(CPU)</ATPP_Make_NanitesCPUSerum.label>
+  <ATPP_Make_NanitesCPUSerum.description>안드로이드 CPU 나나이트 혈청을 만들어 안드로이드를 고칠 수 있습니다. (노년기 관련).</ATPP_Make_NanitesCPUSerum.description>
+  <ATPP_Make_NanitesCPUSerum.jobString>안드로이드 나나이트 혈청 제작</ATPP_Make_NanitesCPUSerum.jobString>
+  <ATPP_Make_NanitesCoolingSerum.label>나나이트 슬롯 제작(냉각형)</ATPP_Make_NanitesCoolingSerum.label>
+  <ATPP_Make_NanitesCoolingSerum.description>안드로이드 냉각형 나나이트 혈청을 만들어 안드로이드를 고칠 수 있습니다. (노년기 관련).</ATPP_Make_NanitesCoolingSerum.description>
+  <ATPP_Make_NanitesCoolingSerum.jobString>안드로이드 나나이트 혈청 제작</ATPP_Make_NanitesCoolingSerum.jobString>
+  <ATPP_Make_NanitesFrameSerum.label>나나이트 슬롯 제작(뼈대)</ATPP_Make_NanitesFrameSerum.label>
+  <ATPP_Make_NanitesFrameSerum.description>안드로이드 뼈대 나나이트 혈청을 만들어 안드로이드를 고칠 수 있습니다. (노년기 관련).</ATPP_Make_NanitesFrameSerum.description>
+  <ATPP_Make_NanitesFrameSerum.jobString>안드로이드 나나이트 혈청 제작</ATPP_Make_NanitesFrameSerum.jobString>
+  <ATPP_Make_VX1Chip.label>VX1 신경 칩 제작</ATPP_Make_VX1Chip.label>
+  <ATPP_Make_VX1Chip.description>호스트가 대리로 안드로이드 시리즈를 원격으로 제어할 수 있도록 VX1 칩을 제작합니다.</ATPP_Make_VX1Chip.description>
+  <ATPP_Make_VX1Chip.jobString>VX1 신경 칩 제작하는 중.</ATPP_Make_VX1Chip.jobString>
+  <ATPP_Make_VX2Chip.label>VX2 신경 칩 제작</ATPP_Make_VX2Chip.label>
+  <ATPP_Make_VX2Chip.description>호스트가 대리로 안드로이드 시리즈를 원격으로 제어할 수 있도록 VX2 칩을 제작합니다.</ATPP_Make_VX2Chip.description>
+  <ATPP_Make_VX2Chip.jobString>VX2 신경 칩 제작하는 중.</ATPP_Make_VX2Chip.jobString>
+  <ATPP_InstallVX2Chip.label>VX2 신경 칩 이식</ATPP_InstallVX2Chip.label>
+  <ATPP_InstallVX2Chip.description>VX2 신경 칩을 이식하여 호스트가 원격으로 대리 안드로이드 시리즈와 중복/허용 마인드를 제어할 수 있도록 합니다.</ATPP_InstallVX2Chip.description>
+  <ATPP_InstallVX2Chip.jobString>VX2 신경 칩 이식하는 중.</ATPP_InstallVX2Chip.jobString>
+  <ATPP_InstallVX2ChipOnAndroid.label>VX2 신경 칩 이식</ATPP_InstallVX2ChipOnAndroid.label>
+  <ATPP_InstallVX2ChipOnAndroid.description>VX2 신경 칩을 이식하여 호스트가 원격으로 대리 안드로이드 시리즈와 중복/허용 마인드를 제어할 수 있도록 합니다.</ATPP_InstallVX2ChipOnAndroid.description>
+  <ATPP_InstallVX2ChipOnAndroid.jobString>VX2 신경 칩 이식하는 중.</ATPP_InstallVX2ChipOnAndroid.jobString>
+  <ATPP_InstallVX1Chip.label>VX1 신경 칩 이식</ATPP_InstallVX1Chip.label>
+  <ATPP_InstallVX1Chip.description>VX1 신경 칩을 이식하여 호스트가 원격으로 대리 안드로이드 시리즈를 제어할 수 있도록 합니다.</ATPP_InstallVX1Chip.description>
+  <ATPP_InstallVX1Chip.jobString>VX1 신경 칩 이식하는 중.</ATPP_InstallVX1Chip.jobString>
+  <ATPP_InstallVX1ChipOnAndroid.label>VX1 신경 칩 이식</ATPP_InstallVX1ChipOnAndroid.label>
+  <ATPP_InstallVX1ChipOnAndroid.description>VX1 신경 칩을 이식하여 호스트가 원격으로 대리 안드로이드 시리즈를 제어할 수 있도록 합니다.</ATPP_InstallVX1ChipOnAndroid.description>
+  <ATPP_InstallVX1ChipOnAndroid.jobString>VX1 신경 칩 이식하는 중.</ATPP_InstallVX1ChipOnAndroid.jobString>
+  <ATPP_CreateS1.label>T1 대리 안드로이드 작성 (S1)</ATPP_CreateS1.label>
+  <ATPP_CreateS1.description>플라스틸 및 부품을 사용해 출고전 아무것도 없는 상태인 S1 대리 안드로이드를 제작합니다.</ATPP_CreateS1.description>
+  <ATPP_CreateS1.jobString>대리 안드로이드 S1 제작하는 중</ATPP_CreateS1.jobString>
+  <ATPP_CreateS2.label>T2 대리 안드로이드 작성 (S2)</ATPP_CreateS2.label>
+  <ATPP_CreateS2.description>플라스틸 및 부품을 사용해 출고전 아무것도 없는 상태인 S2 대리 안드로이드를 제작합니다.</ATPP_CreateS2.description>
+  <ATPP_CreateS2.jobString>대리 안드로이드 S2 제작하는 중</ATPP_CreateS2.jobString>
+  <ATPP_CreateS3.label>T3 대리 안드로이드 작성 (S3)</ATPP_CreateS3.label>
+  <ATPP_CreateS3.description>플라스틸 및 부품을 사용해 출고전 아무것도 없는 상태인 S3 대리 안드로이드를 제작합니다.</ATPP_CreateS3.description>
+  <ATPP_CreateS3.jobString>대리 안드로이드 S3 제작하는 중</ATPP_CreateS3.jobString>
+  <ATPP_CreateS4.label>T4 대리 안드로이드 작성 (S4)</ATPP_CreateS4.label>
+  <ATPP_CreateS4.description>플라스틸 및 부품을 사용해 출고전 아무것도 없는 상태인 S4 대리 안드로이드를 제작합니다.</ATPP_CreateS4.description>
+  <ATPP_CreateS4.jobString>대리 안드로이드 S4 제작하는 중</ATPP_CreateS4.jobString>
+
+</LanguageData>

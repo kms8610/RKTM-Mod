@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RadiologyIrradiate.label>방사능 발생 장치 사용</RadiologyIrradiate.label>
+  <RadiologyIrradiate.verb>방사능 발생 장치 사용</RadiologyIrradiate.verb>
+  <RadiologyIrradiate.gerund>방사능 발생 장치 사용</RadiologyIrradiate.gerund>
+  <WorkGiverRadiologyIrradiatePrisoner.label>수감자를 방사선 조사장치로 이송</WorkGiverRadiologyIrradiatePrisoner.label>
+  <WorkGiverRadiologyIrradiatePrisoner.verb>수감자 이송</WorkGiverRadiologyIrradiatePrisoner.verb>
+  <WorkGiverRadiologyIrradiatePrisoner.gerund>수감자 이송</WorkGiverRadiologyIrradiatePrisoner.gerund>
+
+</LanguageData>

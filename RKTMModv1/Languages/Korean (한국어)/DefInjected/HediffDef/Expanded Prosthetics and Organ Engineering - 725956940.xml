@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdvancedPowerArm.label>강화 동력 팔</AdvancedPowerArm.label>
+  <AdvancedPowerArm.comps.0.tools.0.label>생체공학 주먹</AdvancedPowerArm.comps.0.tools.0.label>
+  <AdvancedPowerArm.labelNoun>강화 동력 팔</AdvancedPowerArm.labelNoun>
+  <AdvancedBionicArm.label>강화 생체공학 팔</AdvancedBionicArm.label>
+  <AdvancedBionicArm.comps.0.tools.0.label>생체공학 주먹</AdvancedBionicArm.comps.0.tools.0.label>
+  <AdvancedBionicArm.labelNoun>강화 생체공학 팔</AdvancedBionicArm.labelNoun>
+  <AdvancedBionicLeg.label>강화 생체공학 다리</AdvancedBionicLeg.label>
+  <AdvancedBionicLeg.labelNoun>강화 생체공학 다리</AdvancedBionicLeg.labelNoun>
+  <AdvancedBionicHand.label>강화 생체공학 손</AdvancedBionicHand.label>
+  <AdvancedBionicHand.comps.0.tools.0.label>생체공학 주먹</AdvancedBionicHand.comps.0.tools.0.label>
+  <AdvancedBionicHand.labelNoun>강화 생체공학 손</AdvancedBionicHand.labelNoun>
+  <AdvancedBionicFoot.label>강화 생체공학 발</AdvancedBionicFoot.label>
+  <AdvancedBionicFoot.labelNoun>강화 생체공학 발</AdvancedBionicFoot.labelNoun>
+  <AdvancedBionicEar.label>강화 생체공학 귀</AdvancedBionicEar.label>
+  <AdvancedBionicEar.labelNoun>강화 생체공학 귀</AdvancedBionicEar.labelNoun>
+  <AdvancedBionicJaw.label>강화 생체공학 턱</AdvancedBionicJaw.label>
+  <AdvancedBionicJaw.labelNoun>강화 생체공학 턱</AdvancedBionicJaw.labelNoun>
+  <AdvancedBionicEye.label>강화 생체공학 눈</AdvancedBionicEye.label>
+  <AdvancedBionicEye.labelNoun>강화 생체공학 눈</AdvancedBionicEye.labelNoun>
+  <AdvancedBionicSpine.label>강화 생체공학 척추</AdvancedBionicSpine.label>
+  <AdvancedBionicSpine.labelNoun>강화 생체공학 척추</AdvancedBionicSpine.labelNoun>
+  <ExoskeletonSuit.label>외골격 장갑</ExoskeletonSuit.label>
+  <ExoskeletonSuit.labelNoun>외골격 장갑</ExoskeletonSuit.labelNoun>
+  <SteelArm.label>강철 팔</SteelArm.label>
+  <SteelArm.comps.0.tools.0.label>강철 주먹</SteelArm.comps.0.tools.0.label>
+  <SteelArm.labelNoun>강철 팔</SteelArm.labelNoun>
+  <EyePatch.label>안대</EyePatch.label>
+  <EyePatch.labelNoun>안대</EyePatch.labelNoun>
+  <HookHand.label>갈고리 손</HookHand.label>
+  <HookHand.comps.0.tools.0.label>갈고리 손</HookHand.comps.0.tools.0.label>
+  <HookHand.labelNoun>갈고리 손</HookHand.labelNoun>
+  <denture.label>틀니</denture.label>
+  <denture.labelNoun>틀니</denture.labelNoun>
+  <EarBandage.label>귀 밴드</EarBandage.label>
+  <EarBandage.labelNoun>귀 밴드</EarBandage.labelNoun>
+  <PowerArm.label>동력 팔</PowerArm.label>
+  <PowerArm.comps.0.tools.0.label>생체공학 주먹</PowerArm.comps.0.tools.0.label>
+  <PowerArm.labelNoun>동력 팔</PowerArm.labelNoun>
+  <BionicHand.label>생체공학 손</BionicHand.label>
+  <BionicHand.comps.0.tools.0.label>생체공학 주먹</BionicHand.comps.0.tools.0.label>
+  <BionicHand.labelNoun>생체공학 손</BionicHand.labelNoun>
+  <BionicFoot.label>생체공학 발</BionicFoot.label>
+  <BionicFoot.labelNoun>생체공학 발</BionicFoot.labelNoun>
+  <BionicJaw.label>생체공학 턱</BionicJaw.label>
+  <BionicJaw.labelNoun>생체공학 턱</BionicJaw.labelNoun>
+  <SilentJaw.label>무음 턱</SilentJaw.label>
+  <SilentJaw.labelNoun>무음 턱</SilentJaw.labelNoun>
+  <MedicalRib.label>내장형 의료기기</MedicalRib.label>
+  <MedicalRib.labelNoun>내장형 의료기기</MedicalRib.labelNoun>
+  <DruggedRib.label>알콜 주입기</DruggedRib.label>
+  <DruggedRib.labelNoun>알콜 주입기</DruggedRib.labelNoun>
+  <AdrenalineRib.label>아드레날린 촉진기</AdrenalineRib.label>
+  <AdrenalineRib.labelNoun>아드레날린 촉진기</AdrenalineRib.labelNoun>
+  <PainkillerRib.label>진통제 촉진기</PainkillerRib.label>
+  <PainkillerRib.labelNoun>진통제 촉진기</PainkillerRib.labelNoun>
+  <MuscleStimulatorArms.label>팔근육 자극기</MuscleStimulatorArms.label>
+  <MuscleStimulatorLegs.label>다리근육 자극기</MuscleStimulatorLegs.label>
+  <TacticalCorneaImplant.label>전술 각막</TacticalCorneaImplant.label>
+  <ConstructorCore.label>건설 보조 인공지능</ConstructorCore.label>
+  <FarmerCore.label>재배 보조 인공지능</FarmerCore.label>
+  <MinerCore.label>채굴 보조 인공지능</MinerCore.label>
+  <DoctorCore.label>의학 보조 인공지능</DoctorCore.label>
+  <DiplomatCore.label>사교 보조 인공지능</DiplomatCore.label>
+  <Stomach.label>위</Stomach.label>
+  <Heart.label>심장</Heart.label>
+  <Nose.label>코</Nose.label>
+  <Arm.label>팔</Arm.label>
+  <Leg.label>다리</Leg.label>
+  <Jaw.label>턱</Jaw.label>
+  <Eye.label>눈</Eye.label>
+  <GoldenEye.label>황금 의안</GoldenEye.label>
+  <LightReceptor.label>인공 각막</LightReceptor.label>
+  <SimpleProstheticHand.label>간단한 의수 (손)</SimpleProstheticHand.label>
+  <SimpleProstheticHand.comps.0.tools.0.label>생체공학 주먹</SimpleProstheticHand.comps.0.tools.0.label>
+  <SimpleProstheticFoot.label>간단한 의족 (발)</SimpleProstheticFoot.label>
+  <ArtificialNose.label>인공 코</ArtificialNose.label>
+  <HydraulicJaw.label>유압식 턱</HydraulicJaw.label>
+  <ArtificialPelvis.label>인공 골반</ArtificialPelvis.label>
+  <ArtificialClavicle.label>인공 쇄골</ArtificialClavicle.label>
+  <BrainStimulator.label>두뇌 증폭기</BrainStimulator.label>
+  <SurrogateLung.label>폐 유지장치</SurrogateLung.label>
+  <SurrogateStomach.label>위 유지장치</SurrogateStomach.label>
+  <SurrogateLiver.label>간 유지장치</SurrogateLiver.label>
+  <SurrogateKidney.label>신장 유지장치</SurrogateKidney.label>
+  <SurrogateHeart.label>심장 유지장치</SurrogateHeart.label>
+  <AIChip.label>인공지능 칩</AIChip.label>
+  <AIChip.labelNoun>인공지능 칩</AIChip.labelNoun>
+  <AIPersonaCore.label>인공자아 핵</AIPersonaCore.label>
+  <AIPersonaCore.labelNoun>인공자아 핵</AIPersonaCore.labelNoun>
+  <SyntheticLung.label>인공 폐</SyntheticLung.label>
+  <SyntheticLung.labelNoun>인공 폐</SyntheticLung.labelNoun>
+  <SyntheticStomach.label>인공 위</SyntheticStomach.label>
+  <SyntheticStomach.labelNoun>인공 위</SyntheticStomach.labelNoun>
+  <SyntheticLiver.label>인공 간</SyntheticLiver.label>
+  <SyntheticLiver.labelNoun>인공 간</SyntheticLiver.labelNoun>
+  <SyntheticKidney.label>인공 신장</SyntheticKidney.label>
+  <SyntheticKidney.labelNoun>인공 신장</SyntheticKidney.labelNoun>
+  <SyntheticHeart.label>인공 심장</SyntheticHeart.label>
+  <SyntheticHeart.labelNoun>인공 심장</SyntheticHeart.labelNoun>
+
+</LanguageData>

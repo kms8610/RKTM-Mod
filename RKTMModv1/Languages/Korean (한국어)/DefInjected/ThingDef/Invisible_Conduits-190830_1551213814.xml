@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PowerConduitInvisible.label>투명한 전선</PowerConduitInvisible.label>
+  <PowerConduitInvisible.description>전력을 송전하기 위한 지하 전선입니다. 벽과 다른 건물 아래에 배치할 수 있습니다.</PowerConduitInvisible.description>
+  <PowerConduitInvisible_Blueprint.label>보이지 않는 전선 (청사진)</PowerConduitInvisible_Blueprint.label>
+  <PowerConduitInvisible_Frame.label>투명한 전선 (건설 중)</PowerConduitInvisible_Frame.label>
+  <PowerConduitInvisible_Frame.description>전력을 송전하기 위한 지하 전선입니다. 벽과 다른 건물 아래에 배치할 수 있습니다.</PowerConduitInvisible_Frame.description>
+
+</LanguageData>

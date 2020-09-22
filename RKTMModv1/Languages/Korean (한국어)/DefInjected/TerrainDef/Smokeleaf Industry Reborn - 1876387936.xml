@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BrickHempcrete.label>떨크리트 벽돌</BrickHempcrete.label>
+  <BrickHempcrete.description>성에 온 듯한 느낌을 주는 다듬어지고, 사려깊게 깎은 돌 타일입니다. 보기 예쁘지만, 시공에 긴 시간이 걸립니다.</BrickHempcrete.description>
+  <FlagstoneHempcrete.label>떨크리트 판석</FlagstoneHempcrete.label>
+  <FlagstoneHempcrete.description>거칠게 깎은 돌 타일입니다. 아주 예쁘지는 않지만, 도로나 실외 보행로의 좋은 표면이 됩니다. 판석은 해체해도 자재를 회수할 수 없습니다.</FlagstoneHempcrete.description>
+  <Hempcrete.label>떨크리트</Hempcrete.label>
+  <Hempcrete.description>성에 온 듯한 느낌을 주는 다듬어지고, 사려깊게 깎은 돌 타일입니다. 보기 예쁘지만, 시공에 긴 시간이 걸립니다.</Hempcrete.description>
+  <HempcreteTile.label>떨크리트 타일</HempcreteTile.label>
+  <HempcreteTile.description>큰 떨크리트 타일입니다. 예쁘지만, 노동력과 자재가 많이 들어갑니다.</HempcreteTile.description>
+  <HempcretePlate.label>떨크리트 판석</HempcretePlate.label>
+  <HempcretePlate.description>큰 떨크리트 타일입니다. 예쁘지만, 노동력과 자재가 많이 들어갑니다.</HempcretePlate.description>
+  <HempcretePath.label>떨크리트 길</HempcretePath.label>
+  <HempcretePath.description>부드러운 떨크리트 덩어리로 만든 불규칙해 보이는 길입니다.</HempcretePath.description>
+  <CarpetHemp.label>대마 카펫</CarpetHemp.label>
+  <CarpetHemp.description>대마 섬유로 엮은 튼튼한 카펫입니다. 내화성이 약간 있습니다.</CarpetHemp.description>
+  <CarpetDevilsleaf.label>악마잎 카펫</CarpetDevilsleaf.label>
+  <CarpetDevilsleaf.description>악마잎 섬유로 엮든 카펫입니다. 내화성이 약간 있습니다.</CarpetDevilsleaf.description>
+  <HempStalkFloor.label>대마 줄기 바닥</HempStalkFloor.label>
+  <HempStalkFloor.description>연초잎 줄기로 만든 판자로 된 아름다운 바닥입니다. 불을 조심하세요.</HempStalkFloor.description>
+
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1111335237_190621_Fallout_Vault_Structures__Floors-->
+  <WWVaultS_ResearchTab.label>방공호</WWVaultS_ResearchTab.label>
+
+  <!--1424438685_190815_Medical IV's-->
+  <MedicalIV.label>의료용 IV 시리즈</MedicalIV.label>
+
+  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
+  <OGAMA_RTab.label>아뎁투스 메카니쿠스: 아머</OGAMA_RTab.label>
+
+  <!--1584460699_190815_Craftable Synthetics-->
+  <SynthCraft.label>합성직물 제작</SynthCraft.label>
+
+  <!--1663737210_190815_Synthetic Leather-->
+  <cheerySyntheLeatherTab.label>합성원단 가죽</cheerySyntheLeatherTab.label>
+
+  <!--1673071343_190625_Jewelry-->
+  <Jewelery.label>장신구</Jewelery.label>
+
+  <!--1677752791_190817_Advanced Parka Mod-->
+  <Parka.label>고급 파카</Parka.label>
+
+  <!--1725544583_190818_GlitterNet-->
+  <GlitterNet.label>글리터넷</GlitterNet.label>
+
+  <!--1833592062_190816_RimCuisine 2 Core-->
+  <RimCuisine.label>림퀴진</RimCuisine.label>
+
+  <!--761379469_190814_Remote Tech-->
+  <rxRemoteTech.label>원격조작</rxRemoteTech.label>
+
+  <!--728381322_190818_Apparello 2-->
+  <ApparelTab.label>의류</ApparelTab.label>
+
+  <!--1528894129_190818_Mechanite Forge Reborn-->
+  <MechaniteForge.label>메카나이트 포지</MechaniteForge.label>
+
+  <!--1542036108_190818_UN-Colony-->
+  <SadjuukColonizationTab.label>UN 정착지건설</SadjuukColonizationTab.label>
+
+  <!--1536615776_190822_Cargo Pod Transport-->
+  <CargoPod.label>화물 포드 수송</CargoPod.label>
+
+  <!--1745038195_190824_RimTaser Reloaded-->
+  <Rimtasers_Tasers.label>림테이저</Rimtasers_Tasers.label>
+
+  <!--1761270139_190822_Underground Food-->
+  <UF_XenofungusTab.label>지하 식량</UF_XenofungusTab.label>
+
+</LanguageData>

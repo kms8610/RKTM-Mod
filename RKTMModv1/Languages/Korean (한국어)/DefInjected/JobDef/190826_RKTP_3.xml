@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1240656304_190617_Lighter Than Fast-->
+  <UseEmpathyBox.reportString>예술품 관람.</UseEmpathyBox.reportString>
+  <JobDriver_LTF_MindMine.reportString>TargetA에 대해 알아가는 중.</JobDriver_LTF_MindMine.reportString>
+  <LTF_OperateShieldBench.reportString>TargetA 실드 레이어 합성 중.</LTF_OperateShieldBench.reportString>
+
+  <!--1267084448_190816_Filthy Orc Invasion-->
+  <Wrestle.reportString>레슬링 하는 중.</Wrestle.reportString>
+
+  <!--1314474881_181118_Avali-->
+  <GotoForLovinAvali.reportString>이동 중.</GotoForLovinAvali.reportString>
+  <LovinAvali.reportString>사랑을 나누는 중.</LovinAvali.reportString>
+  <LovinAvaliPartner.reportString>사랑을 나누는 중.</LovinAvaliPartner.reportString>
+  <GotoLayAvaliEgg.reportString>알을 낳기 위해 이동 중.</GotoLayAvaliEgg.reportString>
+  <LayAvaliEgg.reportString>알 낳는 중.</LayAvaliEgg.reportString>
+  <CheckAvaliEgg.reportString>알 관리 중.</CheckAvaliEgg.reportString>
+  <SingsAlone.reportString>노래 중.</SingsAlone.reportString>
+  <SingsSocial.reportString>노래 중.</SingsSocial.reportString>
+  <UseRunningTrack.reportString>육상 트랙 사용 중.</UseRunningTrack.reportString>
+  <SingKaraoke.reportString>노래방에서 노래 중.</SingKaraoke.reportString>
+  <TranslateText.reportString>번역 중.</TranslateText.reportString>
+  <ReadText.reportString>독서 중.</ReadText.reportString>
+  <DecipherText.reportString>해독 중.</DecipherText.reportString>
+  <TakeDownedOrDeadPawn.reportString>TargetA 이송 중.</TakeDownedOrDeadPawn.reportString>
+  <HackBindedThing.reportString>TargetA 해킹 중.</HackBindedThing.reportString>
+
+  <!--1365540920_190714_Black Widows-->
+  <MilkyLover.reportString>TargetA에서 실크 수집하는 중.</MilkyLover.reportString>
+  <MilkySelf.reportString>자신에게서 실크 수집하는 중.</MilkySelf.reportString>
+  <FillUniversalFermenter.reportString>TargetA(을)를 채우는 중.</FillUniversalFermenter.reportString>
+  <TakeProductOutOfUniversalFermenter.reportString>TargetA에서 생산물을 가져오는 중.</TakeProductOutOfUniversalFermenter.reportString>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <LotRD_PlayGameTable.reportString>놀이 하는 중.</LotRD_PlayGameTable.reportString>
+  <LotRD_SolvePuzzleBox.reportString>퍼즐 푸는 중.</LotRD_SolvePuzzleBox.reportString>
+  <LotRD_PlayWithDoll.reportString>TargetA와 함께 놀이 하는 중.</LotRD_PlayWithDoll.reportString>
+  <LotRD_FillFermentingBarrel.reportString>TargetA 채우는 중.</LotRD_FillFermentingBarrel.reportString>
+  <LotRD_TakeMeadOutOfFermentingBarrel.reportString>TargetA에서 드워프 벌꿀 술 꺼내는 중.</LotRD_TakeMeadOutOfFermentingBarrel.reportString>
+
+  <!--1568400124_190615_Alien Vs Predator-->
+  <RRY_Job_LayXenomorphEgg.reportString>알 낳기.</RRY_Job_LayXenomorphEgg.reportString>
+  <RRY_Job_XenomorphKidnap.reportString>TargetA 납치 중.</RRY_Job_XenomorphKidnap.reportString>
+  <RRY_Job_PredalienImpregnate.reportString>TargetA에게 수태 중.</RRY_Job_PredalienImpregnate.reportString>
+  <RRY_Job_MaintainLike.reportString>TargetA(을)를 부양하는 중.</RRY_Job_MaintainLike.reportString>
+  <RRY_Job_ConstructHiveWall.reportString>거미줄로 감싸는 중.</RRY_Job_ConstructHiveWall.reportString>
+  <RRY_Yautja_MarkSelf.reportString>스스로 표식을 새기는 중.</RRY_Yautja_MarkSelf.reportString>
+  <RRY_Yautja_TakeTrophy.reportString>전리품 회수 중.</RRY_Yautja_TakeTrophy.reportString>
+  <RRY_Yautja_TendSelf.reportString>상처 관리 중.</RRY_Yautja_TendSelf.reportString>
+  <RRY_Yautja_HealthShard.reportString>체력 재생기 사용 중.</RRY_Yautja_HealthShard.reportString>
+  <RRY_Yautja_HealthShardRestock.reportString>체력 재생기 채우는 중.</RRY_Yautja_HealthShardRestock.reportString>
+  <RRY_Yautja_RearmTrapJob.reportString>대상을 재무장 하는 중.</RRY_Yautja_RearmTrapJob.reportString>
+
+  <!--1571323744_190714_Crystalloid (Rewrite)-->
+  <UseChimes.reportString>선율을 감상함.</UseChimes.reportString>
+
+  <!--1785657108_190811_Humanoid Project-->
+  <BlueVomit.reportString>메롱..</BlueVomit.reportString>
+  <StormMark.reportString>유령 차원에서 헤메는 중.</StormMark.reportString>
+
+</LanguageData>

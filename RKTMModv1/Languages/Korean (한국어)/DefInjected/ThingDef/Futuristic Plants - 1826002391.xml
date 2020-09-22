@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Plant_SuperRice.label>슈퍼 쌀</Plant_SuperRice.label>
+  <Plant_SuperRice.description>대량의 쌀을 빠르게 생산하고 역병에 저항하는 유전자 변형 쌀</Plant_SuperRice.description>
+  <Plant_UberPotato.label>오버 감자</Plant_UberPotato.label>
+  <Plant_UberPotato.description>지나치게 열성적인 마케팅 담당자가 이름을 딴 이 감자 품종은 추가 수확량, 빠른 성장 및 내광성으로 작물의 수준을 급이 다르게 끌어올립니다.</Plant_UberPotato.description>
+  <Plant_Fuelpod.label>연료 포드</Plant_Fuelpod.label>
+  <Plant_Fuelpod.description>복숭아의 유도체를 수정하여 쥬스 대신 화학 연료로 채워져 있습니다. 압착하여 화학 연료로 만들거나... 물론 던질 수 있습니다. 이 식물들은 굉장히 가연성이 높으니 조심하세요.</Plant_Fuelpod.description>
+  <Plant_Oilpeach.label>기름 복숭아</Plant_Oilpeach.label>
+  <Plant_Oilpeach.description>과일 주스에 기름이 들어있는 특이한 식물. 이 과일의 에너지는 씨앗이 자라면서 내부에서 흡수되거나... 화학 연료로 만들 수 있습니다. 키우기 쉽고 GMO가 없어서 어떤 정착지에서든 재배할 수 있습니다. 작은 불을 내기 위해 불을 붙여 던질 수 있습니다. 불도 복숭아 냄새가 납니다!</Plant_Oilpeach.description>
+  <Plant_Infrarose.label>인프라로즈</Plant_Infrarose.label>
+  <Plant_Infrarose.description>우주에서 가장 아름다운 꽃(아마도 과장)으로 널리 알려진 이 꽃은 모든 에너지를 아름다운 색상과 복잡한 패턴으로 만드는 대신 깨지기 쉽고 연약하게 만듭니다.</Plant_Infrarose.description>
+  <Plant_Tanglevine.label>쿠즈 덩굴</Plant_Tanglevine.label>
+  <Plant_Tanglevine.description>매우 두껍게 자라며 통과하기 어려운 형태로 수정된 쿠즈 덩굴입니다. 침입자들이 느려지게 하기 위해 킬박스에 심으세요.</Plant_Tanglevine.description>
+  <Proj_Fuelpod.label>빛나는 연료 포드</Proj_Fuelpod.label>
+  <Fuelpod.label>연료 포드</Fuelpod.label>
+  <Fuelpod.description>작은 연료포드입니다. 복숭아와 비슷하지만, 화학 연료가 차 있습니다. 압착하여 화학 연료로 만들거나 불을 붙인 다음 즉석 수류탄처럼 사용할 수 있습니다. 껍질에 불이 붙는다면...콰쾅!</Fuelpod.description>
+  <Fuelpod.verbs.0.label>연료 포드 던지기</Fuelpod.verbs.0.label>
+  <Oilpeach.label>기름 복숭아</Oilpeach.label>
+  <Oilpeach.description>복숭아처럼 보이고 복숭아처럼 느껴지지만 휘발유 맛이 납니다. 소량의 화학 연료을 추출하기 위해 압착하거나 작은 불을 내기 위해 불을 붙여 던질 수 있습니다.</Oilpeach.description>
+  <Oilpeach.verbs.0.label>기름복숭아 던지기</Oilpeach.verbs.0.label>
+
+</LanguageData>

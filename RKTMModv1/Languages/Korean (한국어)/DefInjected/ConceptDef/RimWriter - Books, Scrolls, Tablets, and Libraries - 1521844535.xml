@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimWriter_PaperMaking.label>종이 제작</RimWriter_PaperMaking.label>
+  <RimWriter_PaperMaking.helpText>종이와 양피지는 제지 작업대에서 만들 수 있습니다. 종이는 목재로 만들 수 있고, 양피지는 가죽으로 만들 수 있습니다. 둘 다 책을 만드는 재료로 사용됩니다.</RimWriter_PaperMaking.helpText>
+  <RimWriter_BookBurning.label>책 태우기</RimWriter_BookBurning.label>
+  <RimWriter_BookBurning.helpText>책과 양피지는 정착지 정착민들을 즐겁게 할 수 있지만, 해로운 사상으로 이끌거나 지도자를 전복시키려는 시도들로 이어질 수도 있습니다.\n\n만약 여러분이 정착지의 프롤레타리아 계급을 억압하고 싶거나, 혹은 '화씨 451'의 한 장면을 재연하고 싶다면, 여러분에게는 캠프파이어나 전기 소각로에서 이 책들을 태울 수 있는 선택권이 있습니다.</RimWriter_BookBurning.helpText>
+  <Jecrell_TypewriterTable.label>글쓰기</Jecrell_TypewriterTable.label>
+  <Jecrell_TypewriterTable.helpText>정착민들은 타자기를 사용하여 창작의 기쁨을 얻고 스트레스를 줄일 수 있습니다. "크툴루의 부름" 모드가 활성화되면, 이 제작대는 정신이상의 심각성을 더 빠른 속도로 줄일 것입니다. 또한 정착민들은 논문 항목도 만들 수 있습니다. 현재는 초보적인 단계이며, 파괴될 수 있습니다. 나중에는 더 확장될 것입니다.</Jecrell_TypewriterTable.helpText>
+
+</LanguageData>

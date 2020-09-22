@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BurialUrn.label>유골함</BurialUrn.label>
+  <BurialUrn.description>망자를 기리고 모시기 위해 유골을 넣어놓은 항아리입니다.</BurialUrn.description>
+  <BurialUrn_Blueprint.label>유골함 (청사진)</BurialUrn_Blueprint.label>
+  <BurialUrn_Frame.label>유골함 (건설중)</BurialUrn_Frame.label>
+  <BurialUrn_Frame.description>망자를 기리고 모시기 위해 유골을 넣어놓은 항아리입니다.</BurialUrn_Frame.description>
+
+</LanguageData>

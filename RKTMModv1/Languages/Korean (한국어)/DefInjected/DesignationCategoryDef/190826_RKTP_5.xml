@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1535875857_190622_Extended_Storage_Extended-->
+  <ExtendedStorageExtended_FurnitureStorage.label>저장소</ExtendedStorageExtended_FurnitureStorage.label>
+  <ExtendedStorageExtended_FurnitureStorage.description>다른 물건들을 저장하기위한 것들입니다.</ExtendedStorageExtended_FurnitureStorage.description>
+
+  <!--1550972678_190817_Defenses Expanded-->
+  <DefensesExpanded_CustomCategory.label>방어 시설</DefensesExpanded_CustomCategory.label>
+  <DefensesExpanded_CustomCategory.description>방어 확장 모드의 시설물을 추가합니다.</DefensesExpanded_CustomCategory.description>
+
+  <!--1612962122_190714_Ofuton-->
+  <JPstyle.label>JP스타일</JPstyle.label>
+  <JPstyle.description>일본풍의 물건입니다</JPstyle.description>
+
+  <!--1725544583_190818_GlitterNet-->
+  <GlitterNet.label>글리터넷</GlitterNet.label>
+  <GlitterNet.description>모든 글리터넷 건물</GlitterNet.description>
+
+  <!--1803445973_190813_Vanilla Fences-->
+  <Fence.label>울타리</Fence.label>
+  <Fence.description>바깥 풍경의 고양이</Fence.description>
+
+  <!--1833592062_190816_RimCuisine 2 Core-->
+  <RC2_RimCuisine.label>림퀴진</RC2_RimCuisine.label>
+
+  <!--761379469_190814_Remote Tech-->
+  <rxRemoteTech.label>원격조작</rxRemoteTech.label>
+  <rxRemoteTech.description>원격으로 폭발물을 터트릴수 있습니다.</rxRemoteTech.description>
+
+  <!--1542036108_190818_UN-Colony-->
+  <SadjuukUN-Building.description>UN 및 UNSC 정착지건설 프로그램의 이용 가능한 기술</SadjuukUN-Building.description>
+  <SadjuukUN-Industry.description>UN 및 UNSC 정착지건설 프로그램의 이용 가능한 기술</SadjuukUN-Industry.description>
+  <SadjuukUN-Building.label>UN-건물</SadjuukUN-Building.label>
+  <SadjuukUN-Industry.label>UN-산업</SadjuukUN-Industry.label>
+
+  <!--1547681343_190818_UN-Furniture-->
+  <SadjuukUN-Furniture.description>UN 및 UNSC 정착지건설 프로그램의 이용 가능한 기술</SadjuukUN-Furniture.description>
+  <SadjuukUN-Furniture.label>UN-가구</SadjuukUN-Furniture.label>
+
+  <!--1554147049_190818_Zen Garden-->
+  <ZEN_Decoration.label>장식</ZEN_Decoration.label>
+  <ZEN_Decoration.description>젠 정원 장식들</ZEN_Decoration.description>
+
+  <!--1585057683_190824_Vee's decorating-->
+  <VeeDecoCategory.label>Vee데코</VeeDecoCategory.label>
+
+</LanguageData>

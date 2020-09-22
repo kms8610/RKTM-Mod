@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BulkRollCrudeSmokeleafJointCraftingSpot.label>간이 연초잎 조인트 만들기 (x5)</BulkRollCrudeSmokeleafJointCraftingSpot.label>
+  <BulkRollCrudeSmokeleafJointCraftingSpot.description>한번에 더 많은 간이 조인트를 말아 만듭니다.</BulkRollCrudeSmokeleafJointCraftingSpot.description>
+  <BulkRollCrudeSmokeleafJointCraftingSpot.jobString>연초잎 조인트 만드는 중</BulkRollCrudeSmokeleafJointCraftingSpot.jobString>
+  <BulkRollSmokeleafJointDrugLab.label>연초잎 조인트 만들기 (x5)</BulkRollSmokeleafJointDrugLab.label>
+  <BulkRollSmokeleafJointDrugLab.description>한번에 더 많은 조인트를 말아 만듭니다.</BulkRollSmokeleafJointDrugLab.description>
+  <BulkRollSmokeleafJointDrugLab.jobString>연초잎 조인트 만드는 중</BulkRollSmokeleafJointDrugLab.jobString>
+  <BulkMakeSmokeleafHash.label>연초잎 해쉬 만들기 (x5)</BulkMakeSmokeleafHash.label>
+  <BulkMakeSmokeleafHash.description>연초잎 해쉬를 대량으로 만듭니다.</BulkMakeSmokeleafHash.description>
+  <BulkMakeSmokeleafHash.jobString>연초잎 해쉬 만드는 중</BulkMakeSmokeleafHash.jobString>
+  <BulkMakeCHO.label>화학연료 해쉬 기름 만들기 (x5)</BulkMakeCHO.label>
+  <BulkMakeCHO.description>화학연료 해쉬 기름을 대량으로 만듭니다.</BulkMakeCHO.description>
+  <BulkMakeCHO.jobString>화학연료 해쉬 기름 만드는 중</BulkMakeCHO.jobString>
+  <BulkMakeSmokeleafDistillate.label>연초잎 증류액 만들기 (x5)</BulkMakeSmokeleafDistillate.label>
+  <BulkMakeSmokeleafDistillate.description>연초잎 증류액을 대량으로 만듭니다.</BulkMakeSmokeleafDistillate.description>
+  <BulkMakeSmokeleafDistillate.jobString>연초잎 증류액 추출 중</BulkMakeSmokeleafDistillate.jobString>
+  <BulkMakeSmokeleafCannagar.label>연초잎 캐나가르 만들기 (x5)</BulkMakeSmokeleafCannagar.label>
+  <BulkMakeSmokeleafCannagar.description>연초잎 케나가르를 대량으로 만듭니다.</BulkMakeSmokeleafCannagar.description>
+  <BulkMakeSmokeleafCannagar.jobString>연초잎 케나가르 만드는 중</BulkMakeSmokeleafCannagar.jobString>
+  <BulkMakeSmokeleafTincture.label>연초잎 팅크제 만들기 (x5)</BulkMakeSmokeleafTincture.label>
+  <BulkMakeSmokeleafTincture.description>연초잎 팅크제를 대량으로 만듭니다.</BulkMakeSmokeleafTincture.description>
+  <BulkMakeSmokeleafTincture.jobString>연초잎 팅크제 만드는 중</BulkMakeSmokeleafTincture.jobString>
+  <BulkMakeSmokeleafPills.label>연초잎 알약 만들기 (x5)</BulkMakeSmokeleafPills.label>
+  <BulkMakeSmokeleafPills.description>연초잎 알약을 대량으로 만듭니다.</BulkMakeSmokeleafPills.description>
+  <BulkMakeSmokeleafPills.jobString>연초잎 알약 만드는 중</BulkMakeSmokeleafPills.jobString>
+  <BulkMakeSmokeleafLotion.label>연초잎 로션 만들기 (x5)</BulkMakeSmokeleafLotion.label>
+  <BulkMakeSmokeleafLotion.description>연초잎 로션을 대량으로 만듭니다.</BulkMakeSmokeleafLotion.description>
+  <BulkMakeSmokeleafLotion.jobString>연초잎 로션 만드는 중</BulkMakeSmokeleafLotion.jobString>
+  <ExtractCBD.label>CBD 추출</ExtractCBD.label>
+  <ExtractCBD.description>연초잎 싹에서 CBD를 추출합니다.</ExtractCBD.description>
+  <ExtractCBD.jobString>CBD 추출 중</ExtractCBD.jobString>
+  <BulkExtractCBD.label>CBD 추출 (x5)</BulkExtractCBD.label>
+  <BulkExtractCBD.description>연초잎 싹에서 CBD를 대량으로 추출합니다.</BulkExtractCBD.description>
+  <BulkExtractCBD.jobString>CBD 추출 중</BulkExtractCBD.jobString>
+  <BulkInfusedMedicine.label>첨가 약품 만들기 (x5)</BulkInfusedMedicine.label>
+  <BulkInfusedMedicine.description>첨가 약품을 대량으로 만듭니다.</BulkInfusedMedicine.description>
+  <BulkInfusedMedicine.jobString>첨가 약품 만드는 중</BulkInfusedMedicine.jobString>
+  <AutoTrimSmokeleaf.label>연초잎 자동 손질</AutoTrimSmokeleaf.label>
+  <AutoTrimSmokeleaf.description>대량의 연초잎을 아주 빠르게 다듬습니다. 기계 공정으로 인해 소량의 연초잎 싹과 씨앗이 손실됩니다.</AutoTrimSmokeleaf.description>
+  <AutoTrimSmokeleaf.jobString>연초잎 손질 중.</AutoTrimSmokeleaf.jobString>
+  <BulkAutoTrimSmokeleaf.label>연초잎 대량 자동 손질</BulkAutoTrimSmokeleaf.label>
+  <BulkAutoTrimSmokeleaf.description>대량의 연초잎을 아주 빠르게 다듬습니다. 기계 공정으로 인해 소량의 연초잎 싹과 씨앗이 손실됩니다.</BulkAutoTrimSmokeleaf.description>
+  <BulkAutoTrimSmokeleaf.jobString>연초잎 손질 중.</BulkAutoTrimSmokeleaf.jobString>
+  <TrimSmokeleafCraftingSpot.label>연초잎 손질</TrimSmokeleafCraftingSpot.label>
+  <TrimSmokeleafCraftingSpot.description>연초잎을 다듬어 유용한 성분으로 만듭니다.</TrimSmokeleafCraftingSpot.description>
+  <TrimSmokeleafCraftingSpot.jobString>연초잎 손질 중.</TrimSmokeleafCraftingSpot.jobString>
+  <BulkTrimSmokeleafCraftingSpot.label>연초잎 대량 손질</BulkTrimSmokeleafCraftingSpot.label>
+  <BulkTrimSmokeleafCraftingSpot.description>연초잎을 대량으로 다듬어 유용한 성분으로 만듭니다.</BulkTrimSmokeleafCraftingSpot.description>
+  <BulkTrimSmokeleafCraftingSpot.jobString>연초잎 손질 중.</BulkTrimSmokeleafCraftingSpot.jobString>
+  <TrimSmokeleafDrugLab.label>연초잎 손질</TrimSmokeleafDrugLab.label>
+  <TrimSmokeleafDrugLab.description>연초잎을 다듬어 유용한 성분으로 만듭니다.</TrimSmokeleafDrugLab.description>
+  <TrimSmokeleafDrugLab.jobString>연초잎 손질 중.</TrimSmokeleafDrugLab.jobString>
+  <BulkTrimSmokeleafDrugLab.label>연초잎 대량 손질</BulkTrimSmokeleafDrugLab.label>
+  <BulkTrimSmokeleafDrugLab.description>연초잎을 대량으로 다듬어 유용한 성분으로 만듭니다.</BulkTrimSmokeleafDrugLab.description>
+  <BulkTrimSmokeleafDrugLab.jobString>연초잎 손질 중.</BulkTrimSmokeleafDrugLab.jobString>
+  <TrimSmokeleafCultLab.label>연초잎 손질</TrimSmokeleafCultLab.label>
+  <TrimSmokeleafCultLab.description>연초잎을 전문적으로 다듬어 대량의 유용한 성분으로 만듭니다.</TrimSmokeleafCultLab.description>
+  <TrimSmokeleafCultLab.jobString>연초잎 손질 중.</TrimSmokeleafCultLab.jobString>
+  <BulkTrimSmokeleafCultLab.label>연초잎 대량 손질</BulkTrimSmokeleafCultLab.label>
+  <BulkTrimSmokeleafCultLab.description>연초잎을 전문적으로 다듬어 대량의 유용한 성분으로 만듭니다.</BulkTrimSmokeleafCultLab.description>
+  <BulkTrimSmokeleafCultLab.jobString>연초잎 손질 중.</BulkTrimSmokeleafCultLab.jobString>
+  <BulkCraftHempFibers.label>대마 직물 만들기</BulkCraftHempFibers.label>
+  <BulkCraftHempFibers.description>대마 섬유를 가공해 튼튼한 직물을 만듭니다.</BulkCraftHempFibers.description>
+  <BulkCraftHempFibers.jobString>대마 직물 만드는 중.</BulkCraftHempFibers.jobString>
+  <BulkCraftDevilsleafFibers.label>악마잎 직물 만들기</BulkCraftDevilsleafFibers.label>
+  <BulkCraftDevilsleafFibers.description>대마 섬유를 가공해 극도로 튼튼하고 열기에 강한 직물을 만듭니다.</BulkCraftDevilsleafFibers.description>
+  <BulkCraftDevilsleafFibers.jobString>악마잎 직물 만드는 중.</BulkCraftDevilsleafFibers.jobString>
+  <BulkCraftHempBiocomposite.label>대마 생체복합재료 만들기</BulkCraftHempBiocomposite.label>
+  <BulkCraftHempBiocomposite.description>대마 섬유와 대마 생체석탄을 가공해 가벼운 생체복합재료를 만듭니다.</BulkCraftHempBiocomposite.description>
+  <BulkCraftHempBiocomposite.jobString>대마 생체복합재료 만드는 중.</BulkCraftHempBiocomposite.jobString>
+  <BulkCraftHempBiocoal.label>대마 생체석탄 만들기</BulkCraftHempBiocoal.label>
+  <BulkCraftHempBiocoal.description>대마 섬유를 초고열로 가열해 탄화시킵니다.</BulkCraftHempBiocoal.description>
+  <BulkCraftHempBiocoal.jobString>대마 생체석탄 만드는 중.</BulkCraftHempBiocoal.jobString>
+  <BulkCraftNanosheet.label>대마 나노시트 만들기</BulkCraftNanosheet.label>
+  <BulkCraftNanosheet.description>대마 생체석탄과 대마 섬유를 가공해 고급 나노시트를 만듭니다.</BulkCraftNanosheet.description>
+  <BulkCraftNanosheet.jobString>대마 나노시트 만드는 중.</BulkCraftNanosheet.jobString>
+  <MakeBulkHempoline.label>대마 연료 만들기</MakeBulkHempoline.label>
+  <MakeBulkHempoline.description>대마 섬유와 씨앗을 압착하여 대마 연료를 만듭니다.</MakeBulkHempoline.description>
+  <MakeBulkHempoline.jobString>대마 씨앗으로 대마 연료 만드는 중.</MakeBulkHempoline.jobString>
+  <MakeBulkChemfuelFromSmokeleafProducts.label>대마 연료로 화학연료 만들기</MakeBulkChemfuelFromSmokeleafProducts.label>
+  <MakeBulkChemfuelFromSmokeleafProducts.description>대마 연료를 정제해 화학연료를 만듭니다.</MakeBulkChemfuelFromSmokeleafProducts.description>
+  <MakeBulkChemfuelFromSmokeleafProducts.jobString>연초잎 생기름으로 화학연료 정제 중.</MakeBulkChemfuelFromSmokeleafProducts.jobString>
+  <MakeHempcreteBlocks.label>떨크리트 벽돌 만들기</MakeHempcreteBlocks.label>
+  <MakeHempcreteBlocks.description>대마 제품을 압착해 떨크리트 벽돌을 만듭니다.</MakeHempcreteBlocks.description>
+  <MakeHempcreteBlocks.jobString>떨크리트 벽돌 만드는 중.</MakeHempcreteBlocks.jobString>
+  <CraftHempFlour.label>떨가루 빻기</CraftHempFlour.label>
+  <CraftHempFlour.description>연초잎 씨앗을 가공해 제빵용 가루로 만듭니다.</CraftHempFlour.description>
+  <CraftHempFlour.jobString>떨가루 빻는 중.</CraftHempFlour.jobString>
+  <BulkCraftHempFlour.label>떨가루 빻기 (대량)</BulkCraftHempFlour.label>
+  <BulkCraftHempFlour.description>대량의 연초잎 씨앗을 가공해 제빵용 가루로 만듭니다.</BulkCraftHempFlour.description>
+  <BulkCraftHempFlour.jobString>떨가루 빻는 중.</BulkCraftHempFlour.jobString>
+  <CraftSmokeleafSeedOil.label>연초씨유 짜기</CraftSmokeleafSeedOil.label>
+  <CraftSmokeleafSeedOil.description>연초잎 씨앗을 기름으로 짜냅니다.</CraftSmokeleafSeedOil.description>
+  <CraftSmokeleafSeedOil.jobString>연초씨유 짜는 중.</CraftSmokeleafSeedOil.jobString>
+  <BulkCraftSmokeleafSeedOil.label>연초씨유 짜기 (대량)</BulkCraftSmokeleafSeedOil.label>
+  <BulkCraftSmokeleafSeedOil.description>대량의 연초잎 씨앗을 기름으로 짜냅니다.</BulkCraftSmokeleafSeedOil.description>
+  <BulkCraftSmokeleafSeedOil.jobString>연초씨유 짜는 중.</BulkCraftSmokeleafSeedOil.jobString>
+  <MakeHempMilk.label>대마 우유 만들기</MakeHempMilk.label>
+  <MakeHempMilk.description>물에 적신 씨앗을 빻아 "우유"를 만듭니다.</MakeHempMilk.description>
+  <MakeHempMilk.jobString>대마 우유 만드는 중.</MakeHempMilk.jobString>
+  <MakeHempMilkBulk.label>대마 우유 만들기 (대량)</MakeHempMilkBulk.label>
+  <MakeHempMilkBulk.description>물에 적신 씨앗을 빻아 "우유"를 대량으로 만듭니다.</MakeHempMilkBulk.description>
+  <MakeHempMilkBulk.jobString>대마 우유 만드는 중.</MakeHempMilkBulk.jobString>
+  <MakeHempProtein.label>대마 단백질 만들기</MakeHempProtein.label>
+  <MakeHempProtein.description>씨앗을 고운 가루로 빻아 단백질 보충제를 만듭니다.</MakeHempProtein.description>
+  <MakeHempProtein.jobString>대마 단백질 만들기</MakeHempProtein.jobString>
+  <MakeHempProteinBulk.label>대마 단백질 만들기 (대량)</MakeHempProteinBulk.label>
+  <MakeHempProteinBulk.description>대량의 씨앗을 고운 가루로 빻아 단백질 보충제를 만듭니다.</MakeHempProteinBulk.description>
+  <MakeHempProteinBulk.jobString>대마 단백질 만들기</MakeHempProteinBulk.jobString>
+  <MakeSmokeleafButter.label>연초잎 버터 만들기</MakeSmokeleafButter.label>
+  <MakeSmokeleafButter.description>연초잎 싹과 우유를 끓여 첨가된 버터를 만듭니다.</MakeSmokeleafButter.description>
+  <MakeSmokeleafButter.jobString>버터 만드는 중.</MakeSmokeleafButter.jobString>
+  <MakeSmokeleafButterBulk.label>연초잎 버터 만들기 (대량)</MakeSmokeleafButterBulk.label>
+  <MakeSmokeleafButterBulk.description>연초잎 싹과 우유를 끓여 첨가된 버터를 만듭니다.</MakeSmokeleafButterBulk.description>
+  <MakeSmokeleafButterBulk.jobString>버터 만드는 중.</MakeSmokeleafButterBulk.jobString>
+  <BakeSmokeleafCookies.label>연초잎 쿠키 굽기</BakeSmokeleafCookies.label>
+  <BakeSmokeleafCookies.description>맛있는 "특수" 쿠키를 굽습니다.</BakeSmokeleafCookies.description>
+  <BakeSmokeleafCookies.jobString>쿠키 굽는 중.</BakeSmokeleafCookies.jobString>
+  <BakeSmokeleafCookiesBulk.label>연초잎 쿠키 굽기 (대량)</BakeSmokeleafCookiesBulk.label>
+  <BakeSmokeleafCookiesBulk.description>맛있는 "특수" 쿠키를 굽습니다.</BakeSmokeleafCookiesBulk.description>
+  <BakeSmokeleafCookiesBulk.jobString>쿠키 굽는 중.</BakeSmokeleafCookiesBulk.jobString>
+  <BakeSmokeleafBrownies.label>연초잎 브라우니 굽기</BakeSmokeleafBrownies.label>
+  <BakeSmokeleafBrownies.description>맛있는 "특수" 브라우니를 굽습니다.</BakeSmokeleafBrownies.description>
+  <BakeSmokeleafBrownies.jobString>브라우니 굽는 중.</BakeSmokeleafBrownies.jobString>
+  <BakeSmokeleafBrowniesBulk.label>연초잎 브라우니 굽기 (대량)</BakeSmokeleafBrowniesBulk.label>
+  <BakeSmokeleafBrowniesBulk.description>맛있는 "특수" 브라우니를 굽습니다.</BakeSmokeleafBrowniesBulk.description>
+  <BakeSmokeleafBrowniesBulk.jobString>브라우니 굽는 중.</BakeSmokeleafBrowniesBulk.jobString>
+  <MakeSmokeleafNutriLeafBar.label>뉴트리잎 바 만들기</MakeSmokeleafNutriLeafBar.label>
+  <MakeSmokeleafNutriLeafBar.description>뉴트리잎 바를 만듭니다.</MakeSmokeleafNutriLeafBar.description>
+  <MakeSmokeleafNutriLeafBar.jobString>뉴트리잎 바 만드는 중.</MakeSmokeleafNutriLeafBar.jobString>
+  <MakeSmokeleafNutriLeafBarBulk.label>뉴트리잎 바 만들기 (대량)</MakeSmokeleafNutriLeafBarBulk.label>
+  <MakeSmokeleafNutriLeafBarBulk.description>뉴트리잎 바를 만듭니다.</MakeSmokeleafNutriLeafBarBulk.description>
+  <MakeSmokeleafNutriLeafBarBulk.jobString>뉴트리잎 바 만드는 중.</MakeSmokeleafNutriLeafBarBulk.jobString>
+  <MakeSmokeleafDeEnergyDrink.label>연초잎 디-에너지 드링크 만들기</MakeSmokeleafDeEnergyDrink.label>
+  <MakeSmokeleafDeEnergyDrink.description>리키가 만들던 연초잎 음료인데… 5시간 디-에너지 라고 부르곤 했습니다. 아마 꽤 강할 것 같습니다.</MakeSmokeleafDeEnergyDrink.description>
+  <MakeSmokeleafDeEnergyDrink.jobString>디-에너지 드링크 만드는 중.</MakeSmokeleafDeEnergyDrink.jobString>
+  <MakeSmokeleafDeEnergyDrinkBulk.label>연초잎 디-에너지 드링크 만들기 (대량)</MakeSmokeleafDeEnergyDrinkBulk.label>
+  <MakeSmokeleafDeEnergyDrinkBulk.description>리키가 만들던 연초잎 음료인데… 5시간 디-에너지 라고 부르곤 했습니다. 아마 꽤 강할 것 같습니다.</MakeSmokeleafDeEnergyDrinkBulk.description>
+  <MakeSmokeleafDeEnergyDrinkBulk.jobString>디-에너지 드링크 만드는 중.</MakeSmokeleafDeEnergyDrinkBulk.jobString>
+  <MakeSmokeleafSmoothie.label>연초잎 스무디 만들기</MakeSmokeleafSmoothie.label>
+  <MakeSmokeleafSmoothie.description>딸기를 증류액과 섞어 맛있는 연초잎 스무디를 만듭니다.</MakeSmokeleafSmoothie.description>
+  <MakeSmokeleafSmoothie.jobString>연초잎 스무디 만드는 중.</MakeSmokeleafSmoothie.jobString>
+  <MakeSmokeleafSmoothieBulk.label>연초잎 스무디 만들기 (대량)</MakeSmokeleafSmoothieBulk.label>
+  <MakeSmokeleafSmoothieBulk.description>딸기를 증류액과 섞어 맛있는 연초잎 스무디를 만듭니다.</MakeSmokeleafSmoothieBulk.description>
+  <MakeSmokeleafSmoothieBulk.jobString>연초잎 스무디 만드는 중.</MakeSmokeleafSmoothieBulk.jobString>
+  <MakeSmokeleafCandy.label>연초잎 사탕 만들기</MakeSmokeleafCandy.label>
+  <MakeSmokeleafCandy.description>과일 주스, 증류액과 연초씨유를 끓인 시럽을 단단한 사탕으로 만듭니다.</MakeSmokeleafCandy.description>
+  <MakeSmokeleafCandy.jobString>연초잎 사탕 만드는 중.</MakeSmokeleafCandy.jobString>
+  <MakeSmokeleafCandyBulk.label>연초잎 사탕 만들기 (대량)</MakeSmokeleafCandyBulk.label>
+  <MakeSmokeleafCandyBulk.description>과일 주스, 증류액과 연초씨유를 끓인 시럽을 단단한 사탕으로 만듭니다.</MakeSmokeleafCandyBulk.description>
+  <MakeSmokeleafCandyBulk.jobString>연초잎 사탕 만드는 중.</MakeSmokeleafCandyBulk.jobString>
+  <CookMealInfused.label>첨가 식사 만들기</CookMealInfused.label>
+  <CookMealInfused.description>연초잎 버터를 조금 섞어 행복한 식사를 만듭니다.</CookMealInfused.description>
+  <CookMealInfused.jobString>첨가 식사 만드는 중.</CookMealInfused.jobString>
+  <BulkCookMealInfused.label>첨가 식사 만들기 (대량)</BulkCookMealInfused.label>
+  <BulkCookMealInfused.description>연초잎 버터를 조금 섞어 행복한 식사를 만듭니다. 5인분.</BulkCookMealInfused.description>
+  <BulkCookMealInfused.jobString>첨가 식사 만드는 중.</BulkCookMealInfused.jobString>
+  <Administer_SmokeleafCannagar.label>연초잎 캐나가르 투여</Administer_SmokeleafCannagar.label>
+  <Administer_SmokeleafCannagar.jobString>연초잎 캐나가르 투여 중.</Administer_SmokeleafCannagar.jobString>
+  <Administer_CHO.label>화학연료 해쉬 기름 투여</Administer_CHO.label>
+  <Administer_CHO.jobString>화학연료 해쉬 기름 투여 중.</Administer_CHO.jobString>
+  <Administer_CrudeSmokeleafJoint.label>간이 연초잎 조인트 투여</Administer_CrudeSmokeleafJoint.label>
+  <Administer_CrudeSmokeleafJoint.jobString>간이 연초잎 조인트 투여 중.</Administer_CrudeSmokeleafJoint.jobString>
+  <Administer_SmokeleafDistillate.label>연초잎 증류액 투여</Administer_SmokeleafDistillate.label>
+  <Administer_SmokeleafDistillate.jobString>연초잎 증류액 투여 중.</Administer_SmokeleafDistillate.jobString>
+  <Administer_SmokeleafHash.label>연초잎 해쉬 투여</Administer_SmokeleafHash.label>
+  <Administer_SmokeleafHash.jobString>연초잎 해쉬 투여 중.</Administer_SmokeleafHash.jobString>
+  <Administer_SmokeleafLotion.label>연초잎 로션 투여</Administer_SmokeleafLotion.label>
+  <Administer_SmokeleafLotion.jobString>연초잎 로션 투여 중.</Administer_SmokeleafLotion.jobString>
+  <Administer_SmokeleafPills.label>연초잎 알약 투여</Administer_SmokeleafPills.label>
+  <Administer_SmokeleafPills.jobString>연초잎 알약 투여 중.</Administer_SmokeleafPills.jobString>
+  <Administer_SmokeleafTincture.label>연초잎 팅크제 투여</Administer_SmokeleafTincture.label>
+  <Administer_SmokeleafTincture.jobString>연초잎 팅크제 투여 중.</Administer_SmokeleafTincture.jobString>
+  <Administer_SmokeleafButter.label>연초잎 버터 투여</Administer_SmokeleafButter.label>
+  <Administer_SmokeleafButter.jobString>연초잎 버터 투여 중.</Administer_SmokeleafButter.jobString>
+  <Administer_SmokeleafBrownie.label>연초잎 브라우니 투여</Administer_SmokeleafBrownie.label>
+  <Administer_SmokeleafBrownie.jobString>연초잎 브라우니 투여 중.</Administer_SmokeleafBrownie.jobString>
+  <Administer_SmokeleafCookie.label>연초잎 쿠키 투여</Administer_SmokeleafCookie.label>
+  <Administer_SmokeleafCookie.jobString>연초잎 쿠키 투여 중.</Administer_SmokeleafCookie.jobString>
+  <Administer_SmokeleafNutriLeaf.label>뉴트리잎 바 투여 (연초잎)</Administer_SmokeleafNutriLeaf.label>
+  <Administer_SmokeleafNutriLeaf.jobString>뉴트리잎 바 투여 중 (연초잎).</Administer_SmokeleafNutriLeaf.jobString>
+  <Administer_SmokeleafDeEnergyDrink.label>연초잎 디-에너지 드링크 투여</Administer_SmokeleafDeEnergyDrink.label>
+  <Administer_SmokeleafDeEnergyDrink.jobString>연초잎 디-에너지 드링크 투여 중.</Administer_SmokeleafDeEnergyDrink.jobString>
+  <Administer_SmokeleafSmoothie.label>연초잎 스무디 투여</Administer_SmokeleafSmoothie.label>
+  <Administer_SmokeleafSmoothie.jobString>연초잎 스무디 투여 중.</Administer_SmokeleafSmoothie.jobString>
+  <Administer_SmokeleafCandy.label>연초잎 사탕 투여</Administer_SmokeleafCandy.label>
+  <Administer_SmokeleafCandy.jobString>연초잎 사탕 투여 중.</Administer_SmokeleafCandy.jobString>
+  <Administer_SmokeleafBuds.label>연초잎 싹 투입</Administer_SmokeleafBuds.label>
+  <Administer_SmokeleafBuds.jobString>연초잎 싹 투여 중.</Administer_SmokeleafBuds.jobString>
+  <Make_SmokeleafCannagar.label>연초잎 캐나가르 만들기</Make_SmokeleafCannagar.label>
+  <Make_SmokeleafCannagar.description>연초잎 캐나가르를 만듭니다.</Make_SmokeleafCannagar.description>
+  <Make_SmokeleafCannagar.jobString>연초잎 캐나가르 만드는 중.</Make_SmokeleafCannagar.jobString>
+  <Make_CHO.label>화학연료 해쉬 기름 만들기</Make_CHO.label>
+  <Make_CHO.description>화학연료 해쉬 기름을 만듭니다.</Make_CHO.description>
+  <Make_CHO.jobString>화학연료 해쉬 기름 만드는 중.</Make_CHO.jobString>
+  <Make_CrudeSmokeleafJoint.label>간이 연초잎 조인트 만들기</Make_CrudeSmokeleafJoint.label>
+  <Make_CrudeSmokeleafJoint.description>간이 연초잎 조인트를 만듭니다.</Make_CrudeSmokeleafJoint.description>
+  <Make_CrudeSmokeleafJoint.jobString>간이 연초잎 조인트 만드는 중.</Make_CrudeSmokeleafJoint.jobString>
+  <Make_SmokeleafDistillate.label>연초잎 증류액 만들기</Make_SmokeleafDistillate.label>
+  <Make_SmokeleafDistillate.description>연초잎 증류액을 만듭니다.</Make_SmokeleafDistillate.description>
+  <Make_SmokeleafDistillate.jobString>연초잎 증류액 만드는 중.</Make_SmokeleafDistillate.jobString>
+  <Make_SmokeleafHash.label>연초잎 해쉬 만들기</Make_SmokeleafHash.label>
+  <Make_SmokeleafHash.description>연초잎 해쉬를 만듭니다.</Make_SmokeleafHash.description>
+  <Make_SmokeleafHash.jobString>연초잎 해쉬 만드는 중.</Make_SmokeleafHash.jobString>
+  <Make_SmokeleafLotion.label>연초잎 로션 만들기</Make_SmokeleafLotion.label>
+  <Make_SmokeleafLotion.description>연초잎 로션을 만듭니다.</Make_SmokeleafLotion.description>
+  <Make_SmokeleafLotion.jobString>연초잎 로션 만드는 중.</Make_SmokeleafLotion.jobString>
+  <Make_SmokeleafPills.label>연초잎 알약 만들기</Make_SmokeleafPills.label>
+  <Make_SmokeleafPills.description>연초잎 알약을 만듭니다.</Make_SmokeleafPills.description>
+  <Make_SmokeleafPills.jobString>연초잎 알약 만드는 중.</Make_SmokeleafPills.jobString>
+  <Make_SmokeleafTincture.label>연초잎 팅크제 만들기</Make_SmokeleafTincture.label>
+  <Make_SmokeleafTincture.description>연초잎 팅크제를 만듭니다.</Make_SmokeleafTincture.description>
+  <Make_SmokeleafTincture.jobString>연초잎 팅크제 만드는 중.</Make_SmokeleafTincture.jobString>
+  <Make_InfusedMedicine.label>첨가 약품 만들기</Make_InfusedMedicine.label>
+  <Make_InfusedMedicine.description>첨가 약품을 만듭니다.</Make_InfusedMedicine.description>
+  <Make_InfusedMedicine.jobString>첨가 약품 만드는 중.</Make_InfusedMedicine.jobString>
+
+</LanguageData>

@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Zombieland_Settings>항목 위에 마우스를 가져다대면 도움말이 나타납니다. 모든 설정은 게임 내에서 변경될 수 있고 즉시 적용되며, 게임과 함께 저장됩니다. 새 게임의 기본값을 설정하려면 기본화면 (환경설정/모드 설정/좀비랜드) 에서 설정을 변경하십시오.</Zombieland_Settings>
+  <WhenDoZombiesSpawn_Help>좀비 랜드에서는 끝없는 좀비의 침략에 직면하게됩니다. 이 설정은 게임의 전체 흐름과 리듬을 제어합니다. 세 가지 모드는 매우 다르므로 플레이 스타일에 맞는 것을 선택하고 작동 방식을 이해해야 합니다. 좀비의 수에는 상한이 있습니다. 자세한 내용은 "지도의 좀비"를 참조하십시오.</WhenDoZombiesSpawn_Help>
+  <SpawnWhenType_AllTheTime_Help>좀비가 끊임없이 생성됩니다. 그들을 죽이면 죽일수록 더 많이 올 것입니다. 이것은 모든 면에 영향을 미치는 전지전능한 힘이 좀비를 만드는 도전적인 모드입니다.</SpawnWhenType_AllTheTime_Help>
+  <SpawnWhenType_WhenDark_Help>좀비는 어두운 곳에서만 생성됩니다. 이것은 말 그대로 어두운 곳을 의미하며 낮에도 어두운 부분을 포함합니다. 조명을 설치해 밝게 만들어 안전 지역을 만듦으로써 제어할 수 있습니다.</SpawnWhenType_WhenDark_Help>
+  <SpawnWhenType_InEventsOnly_Help>전통적인 방법으로 좀비를 집단으로 생성합니다. 집단의 규모와 생성 시기는 현재 정착지의 여러 측면에 달려있습니다. 좀비랜드의 사건은 림월드의 사건과 완전히 독립적이며 빈도를 변경하지 않습니다.</SpawnWhenType_InEventsOnly_Help>
+  <HowDoZombiesSpawn_Help>좀비랜드의 좀비는 항상 땅에서 나옵니다. 부드러운 지면을 파고 들기 때문에 현재 지도에서 부드러운 지형이 있는지 확인하세요. (참고로 빙상에서는 없습니다)</HowDoZombiesSpawn_Help>
+  <SpawnHowType_AllOverTheMap_Help>당신은 지도 전체에 좀비가 생성되게 설정할 수 있습니다. 숙련된 플레이어에게 권장됩니다. 안전한 지역을 만들기 위해서 바닥이나 벽을 이용해야 됩니다. 좀비랜드를 플레이 하기 어렵게 하려면 이 설정을 '어두울 때'와 조합하세요. 당신이 설정한 재배 구역을 조심하세요!</SpawnHowType_AllOverTheMap_Help>
+  <SpawnHowType_FromTheEdges_Help>지도의 가장자리에서 생성되는 전통적인 방식을 선호하는 경우 이 설정이 적합합니다.</SpawnHowType_FromTheEdges_Help>
+  <WhatDoZombiesAttack_Help>좀비는 공격받을 때 외에는 공격자처럼 행동하지 않습니다. 그들은 감각에 의해 감지되었을 때만 광분하는 영혼이 없는 방랑자입니다. 이 설정을 사용하여 좀비가 공격하는 생물 유형을 정의할 수 있습니다.</WhatDoZombiesAttack_Help>
+  <AttackMode_Everything_Help>좀비가 동물을 포함한 움직이는 생물체들을 추적하고 공격합니다. 포탑과 같은 고정식 무기는 주의를 끌지 않습니다.</AttackMode_Everything_Help>
+  <AttackMode_OnlyHumans_Help>이것은 좀비가 행동하는 일반적인 방식입니다. 뇌에 대한 그들의 욕구는 진영에 상관없이 인간을 사냥하게 합니다.</AttackMode_OnlyHumans_Help>
+  <AttackMode_OnlyColonists_Help>좀비가 정착지 주민 외의 다른 사람을 공격하는 것을 막으려면 이 설정을 선택하세요. 정착민 외의 사람에게 공격을 받으면 반격할 수 있지만 먼저 공격하지 않습니다.</AttackMode_OnlyColonists_Help>
+  <EnemiesAttackZombies_Help>이 설정을 끄면 적들은 좀비를 무시하고 피할 것입니다. 켜면 적들은 좀비가 위험하다고 생각하며 그들과의 전투에 최선을 다할 것입니다. 행운을 빕니다!</EnemiesAttackZombies_Help>
+  <AnimalsAttackZombies_Help>이 설정을 켜면 동물이 사냥 당하거나 공격적이 되었을 때 좀비를 공격합니다. 동물이 좀비를 무시하게 하려면 이 설정을 끄십시오.</AnimalsAttackZombies_Help>
+  <WhatDoZombiesSmash_Help>좀비가 근처 건물이나 물체를 때릴 수 있습니다. 정교한 공격을 계획하진 않지만 시간이 지남에 따라 당신의 방어를 약하게 할 수 있습니다.</WhatDoZombiesSmash_Help>
+  <SmashMode_Nothing_Help>좀비가 생물만 공격하게 합니다. 벽, 건물, 포탑 등은 무시합니다.</SmashMode_Nothing_Help>
+  <SmashMode_DoorsOnly_Help>이 설정을 사용하면 좀비는 문의 사용법을 대략적으로 알 수 있기 때문에 문을 공격합니다. 그들은 공격받을 경우 문에 가까운 좀비들은 문을 공격하기 시작합니다. 격노한 좀비들은 더욱 많은 피해를 문에 입히기 위해 노력할 것입니다.</SmashMode_DoorsOnly_Help>
+  <SmashMode_AnyBuilding_Help>좀비가 모든 것을 공격하게 하려면 이 설정을 사용하십시오. 그들은 근처에 있는 모든 것을 공격합니다. 심지어 고대의 위험까지도요. 이것은 게임의 어려움을 크게 증가시킵니다.</SmashMode_AnyBuilding_Help>
+  <SmashOnlyWhenAgitated_Help>사물과 좀비의 상호작용을 제한하려면 이 설정을 선택하십시오. 이것은 평상시 방황하는 좀비가 흔적을 발견하거나 당신이나 당신의 소음을 감지할 때까지 적대적이지 않게 만들어 줍니다. (그들이 알아차리면 당신에게 알림을 표시합니다)</SmashOnlyWhenAgitated_Help>
+  <NewGameTitle_Help>좀비랜드는 처음에 정착지가 준비할 시간을 줍니다. 이 기간을 너무 연장하진 마십시오. 많은 초보자가 많은 일수를 연장하여 정착지를  강하게 만들고 많은 식민지 주민과 무기를 사용하는 실수를 저지릅니다. 때가 되면 좀비랜드는 엄청난 수의 좀비가 나와서 게임을 빨리 끝내버립니다! (좀비 수는 항상 정착지의 힘과 관련이 있습니다) 좀비가 일찍 생성되게 하여 이 게임 방식을 제대로 즐기십시오.</NewGameTitle_Help>
+  <DaysBeforeZombiesCome_Help>좀비가 처음 나타날 때까지의 기간입니다. 시간이 끝난 후에도 설정에 따라 다음날 밤이나 이벤트까지 시간이 걸릴 수 있습니다.</DaysBeforeZombiesCome_Help>
+  <ZombiesOnTheMap_Help>좀비랜드에는 주어진 시간에 지도 상에 있어야 될 좀비 수를 결정하는 내부 알고리즘이 있습니다. 이는 많은 내부 사항이 있습니다. 정착지의 수, 싸울 수 있는 유능한 정착민, 무기와 방어구, 이야기꾼의 난이도와 기타 등등 있습니다. 이 숫자는 임의적일 수 있으며, 게임이 너무 많이 지연되는 것을 방지하기 위해서 최대 제한을 설정할 수 있습니다. 좀비랜드는 지도 상에 많은 좀비를 배치하도록 설계되었으며 소수의 좀비를 가지고 노는 것은 아마도 당신이 원하는 것이 아닐 것입니다.</ZombiesOnTheMap_Help>
+  <MaximumNumberOfZombies_Help>지도 상에서 좀비의 최대 숫자. 정착지에 따라 실제 수치는 더 적을수도 있습니다.</MaximumNumberOfZombies_Help>
+  <ColonyMultiplier_Help>때때로 좀비가 너무 적다고 느낄 수도 있습니다. 예를 들어 아주 적은 정착민들로만 플레이 하고 싶지만 좀비의 수가 많기를 원한다면 이 계수를 사용하세요. 정착지가 방어할 수 있는 능력이 X배 더 높다고 좀비랜드에 알리도록 설정할 수 있습니다. 이것은 당신이 정말로 도전을 원할 때 좀비의 수를 증가시키도록 도와줍니다. (그러나 좀비 최대 숫자는 항상 먼저 적용됩니다)</ColonyMultiplier_Help>
+  <ZombieEventTitle_Help>'사건으로만'으로 설정했거나, 다른 설정이라도 때로는 좀비랜드는 좀비 습격을 유발합니다. 이것은 습격 사건과는 달리 더 많은 수의 좀비가 등장하며 집단 크기에 따라 광분하고 당신을 추적할 수도 있습니다.</ZombieEventTitle_Help>
+  <ZombiesPerColonistInEvent_Help>사건의 규모를 제어하기 위해 정착민 당 할당할 좀비 수를 지정할 수 있습니다. 이것은 지도 상 좀비의 전체 한계를 변경하지 않으며 현재 좀비 수가 이미 전체 제한 또는 좀비랜드가 현재 정착지 크기에 대해 결정한 수에 가까운 경우 영향을 적게 미칩니다. 여기에 실제로 큰 수를 넣으면 이 설정은 미적용됩니다. 적은 수를 설정할수록 전체 전투 규모는 줄어듭니다. 특히 전투 가능한 정착민이 적을수록 더욱 그렇습니다.</ZombiesPerColonistInEvent_Help>
+  <ExtraDaysBetweenEvents_Help>일반적으로 좀비 사건은 자동으로 발생됩니다. 실제 간격은 몇 가지 내부 요인에 따라 다릅니다. 이것이 너무 빈번하다고 생각되면 이 설정을 사용하여 사건 간격을 조정할 수 있습니다.</ExtraDaysBetweenEvents_Help>
+  <ZombieSpeedTitle_Help>좀비 속도는 난이도를 가장 균형있게 조절할 수 있는 설정입니다. 좀비랜드가 너무 어렵다고 생각되면 속도를 크게 낮추세요. 빠른 좀비는 대부분 매우 치명적입니다. 평상시 방황하는 좀비와 나를 추적하기 시작한 좀비를 위한 두 가지 속도 설정이 있습니다.</ZombieSpeedTitle_Help>
+  <MoveSpeedIdle_Help>좀비의 정상적인 보행 속도입니다. 광분하거나 추적을 개시한 좀비는 제외됩니다.</MoveSpeedIdle_Help>
+  <MoveSpeedTracking_Help>좀비가 광분하거나 추적을 시작하면 이 속도 설정을 사용합니다. 이것은 일반적으로 정착민과 가까이 있을 때에도 발생하므로 이 값을 높게 설정하면 갑작스러운 좀비 접촉을 매우 조심해야 됩니다.</MoveSpeedTracking_Help>
+  <ZombieDamageFactorTitle_Help>좀비가 대상을 공격할 때 입히는 피해량을 설정합니다.</ZombieDamageFactorTitle_Help>
+  <ZombieDamageFactor_Help>높은 계수는 피해량을 증가시켜 상대방을 쉽게 제압시킵니다. 메카노이드 습격에 매우 유용하지만 당신의 벽과 문이 더 빨리 망가집니다.</ZombieDamageFactor_Help>
+  <ZombieGameTweaks_Help>이 설정은 좀비와 게임 플레이의 균형을 맞추기 위해 게임에 대한 기타 조정이 포함되어 있습니다.</ZombieGameTweaks_Help>
+  <ReduceTurretConsumption_Help>좀비의 일정한 습격은 포탑이 많은 강철을 소비하게 합니다. 이 설정을 사용하여 포탑을 작동시키는데 드는 강철의 양을 조정할 수 있습니다. 이 설정은 축소 설정입니다. 숫자가 클수록 소비량이 적습니다.</ReduceTurretConsumption_Help>
+  <ZombieInfections_Help>좀비의 주요 위험은 감염입니다. 어떤 식으로든 좀비와의 접촉을 피해야 합니다. 일반적인 상처는 무해하지만 물린 상처는 항상 치명적인 감염의 위험이 있습니다. 보다 쉬운 게임을 원한다면 감염 위험을 5% 로 줄이십시오. 월드워Z 스타일의 게임을 원하신다면 이를 100% 로 설정하고 즉시 잠복을 위해 다른 설정에서 지연을 제거하세요.\n\n좀비랜드는 4단계 감염 단계가 있습니다. 각 단계는 '알 수 없음' (또는 정상적인 흰색)으로 시작되며, 상처를 치료하더라도 첫 번째 기간이 지나면 감염이 드러납니다. 그 후 상처/신체 부위가 감염(주황색)되거나 되지 않습니다(흰색). 감염은 절단(신체 부위가 허용하는 경우) 또는 매우 우수한 치료로만 멈출 수 있습니다. 두 번째 단계 이 후 감염은 세 번째 단계(빨간색)에 들어갑니다. 여기에선 오직 절단으로만 제거할 수 있습니다. 마지막 단계는 정착민이 매우 강력한(?) 좀비가 되는 것으로 끝납니다. (이름이 유지되고 특수 좀비가 될 수도 있습니다)</ZombieInfections_Help>
+  <ZombieBiteInfectionChance_Help>이 것은 좀비에 물린 신체 부위가 감염될 확률입니다. 물린 상처는 감염 확률이 있지만 그 외 상처에는 없습니다.</ZombieBiteInfectionChance_Help>
+  <ZombieBiteInfectionUnknown_Help>이것은 첫 번째 단계입니다.(흰색) 상처를 치료할 수는 있지만 이 단계에선 감염 여부를 알 수 없습니다.</ZombieBiteInfectionUnknown_Help>
+  <ZombieBiteInfectionTreatable_Help>두 번째 단계는(주황색)에서 감염은 여전히 치료 가능합니다. 절단하거나 감염을 치료할 수 있습니다. 치료는 최적의 조건에서 이루어져야 합니다. (스스로 방법을 찾아보세요) 또한 한 번만 치료할 수 있습니다. 상처가 치료되면 다시 치료할 수 없습니다.</ZombieBiteInfectionTreatable_Help>
+  <ZombieBiteInfectionPersists_Help>세 번째 및 마지막 단계(빨간색)입니다. 이제는 감염을 더 이상 치료할 수 없으며 절단만으로 이 과정을 멈출 수 있습니다. 많은 플레이어들이 실수를 저지르고 감염된 정착민의 삶을 너무 빨리 끝냅니다. 좀비랜드에는 잔인하지만 이 단계를 즐길 수 있는 몇 가지 놀라움이 있습니다. 거의 좀비가 된 정착민으로 인해서 정착지가 어떻게 되는 지에 대해 알아보세요!</ZombieBiteInfectionPersists_Help>
+  <AnyTreatmentStopsInfection_Help>침대에서 간단한 치료만으로 감염을 치료할 수 있게 하려면 이 설정을 켜세요. 아직 게임에 익숙하지 않은 경우 이 기능을 사용하는 것이 좋습니다.</AnyTreatmentStopsInfection_Help>
+  <ZombieSerum_Help>절단수술보다 좀비혈청으로 감염을 치료하는게 가장 최선의 대안입니다. 죽은 좀비로부터 좀비혈청을 수집하여 약물 연구대에서 정제할 수 있습니다. 혈청은 10%~100% 품질이 있고 좀비에게 물리면 혈청 한 개로 치료할 수 있습니다. 품질은 감염된 정착민을 수술할 때 실패 위험을 결정합니다.</ZombieSerum_Help>
+  <CorpsesExtractAmount_Help>좀비 추출물은 좀비혈청의 성분입니다. 죽은 좀비가 사라지기 전에 자동으로 또는 좀비 시체를 마우스 오른쪽 버튼으로 클릭하여 수집합니다. 치료에 배정된 정착민만 추출물을 수집할 수 있습니다. 주변 환경에 따라, 위험한 좀비가 없는 경우에만 가능합니다. (대략 10-20칸 반경) 혈청을 더 쉽게 만들려면 좀비 당 추출물의 양을 늘리십시오.</CorpsesExtractAmount_Help>
+  <CorpsesDaysToDessicated_Help>좀비 시체는 일반적으로 빨리 사라지므로 너무 많은 추출물을 얻지는 못합니다. 추출물을 더 쉽게 수집할 수 있게, 시체가 사라지기 전의 시간을 늘릴 수 있습니다.</CorpsesDaysToDessicated_Help>
+  <ZombieInstinctTitle_Help>좀비는 소리와 냄새로 생물체를 감지합니다. 또한 특정 상황에서 집단으로 행동합니다. 이 설정을 통해 좀비의 감각이 인지하는 범위를 설정합니다.</ZombieInstinctTitle_Help>
+  <ZombieInstinct_Dull_Help>좀비들의 감각은 몇 칸으로 제한됩니다.</ZombieInstinct_Dull_Help>
+  <ZombieInstinct_Normal_Help>좀비들의 감각이 조금 더 넓어집니다.</ZombieInstinct_Normal_Help>
+  <ZombieInstinct_Sensitive_Help>좀비는 매우 민감하며 당신과 당신의 흔적을 멀리서도 감지할 수 있습니다.</ZombieInstinct_Sensitive_Help>
+  <RagingZombies_Help>집단 행동을 표현하기 위해 좀비 집단이 너무 커질 경우 좀비가 광분할 수 있습니다. 광분한 좀비는 적목 현상을 보이며 정착민을 공격하기 시작합니다. 그들은 평소보다 빠르고 강합니다. 좀비의 분노를 피하기 위해 좀비 무리가 커지거나 지도 상의 특정 장소에 갇히지 않게 조심하세요.</RagingZombies_Help>
+  <RageLevel_Help>이 수준은 성난 좀비를 유발하는 규모의 크기를 제어합니다. 수준이 높을수록 위험하며, 좀비가 더 쉽게 생성됩니다.</RageLevel_Help>
+  <ZombieHealthTitle_Help>좀비는 생물학적으로 죽었기 때문에 '건강' 이 없습니다. 하지만 좀비랜드는 좀비를 죽이는 것을 더 쉽게 또는 더 어렵게 만들 수 있습니다.</ZombieHealthTitle_Help>
+  <DoubleTapRequired_Help>이 설정을 사용하면 좀비가 부상을 당할 수 있습니다. 지속적으로 피해를 입히지 않으면 천천히 회복됩니다. 다친 좀비는 천천히 움직이며 다리만 공격할 수 있는 기어다니는 '크롤러'가 될 수 있습니다. 일반 림월드와 같은 손상을 입히려면 이 설정을 사용하지 마세요.</DoubleTapRequired_Help>
+  <ZombiesDieVeryEasily_Help>아주 재미있는 아케이드 방식의 게임을 원하는 초보자 및 플레이어들에게 유용한 설정입니다. 이 설정을 사용하면 좀비를 한 방에 쓰러뜨리거나, 아주 작은 상처로도 죽일 수 있습니다.</ZombiesDieVeryEasily_Help>
+  <ZombieEatingTitle_Help>좀비가 근처에서 시체를 감지하면 그들은 하던 행동을 멈추고 그 시체에 집중할 것입니다. 이를 당신의 이익과 방어에 사용하세요. 이 설정은 좀비가 무엇을 먹을 것인지를 설정합니다.</ZombieEatingTitle_Help>
+  <ZombiesEatDowned_Help>좀비는 자비가 없으며 살아있거나, 부상당한 생물을 먹을 것입니다.</ZombiesEatDowned_Help>
+  <ZombiesEatCorpses_Help>이 설정을 사용하면 좀비들은 시체를 먹을 것입니다.</ZombiesEatCorpses_Help>
+  <SpecialZombiesTitle_Help>좀비에는 5가지 종류의 좀비가 있습니다. 그들은 모두 특수 능력을 가지고 있으며 게임을 더 어렵게 만듭니다. 또한 체형과 크기가 전반적인 통계에 의해 결정됩니다.</SpecialZombiesTitle_Help>
+  <SuicideBomberChance_Help>자살 폭탄 좀비는 죽을 때 폭발할 것입니다. 그들은 당신의 벽에 도달했을 때 터질 것입니다. 눈을 떼지 말고 가까이 가지 마세요.</SuicideBomberChance_Help>
+  <ToxicSplasherChance_Help>독성좀비는 매우 유독하고 끈적끈적한 녹색 물질을 주변에 흩뿌릴 것입니다. 정착민들이 이를 밟지 않게 하세요.</ToxicSplasherChance_Help>
+  <TankyOperatorChance_Help>튼튼한 지휘관 좀비는 무장하였지만 느립니다. 그들은 방패, 투구 및 장갑을 입고 있으며, 많은 피해를 입혀야 그들을 제거할 수 있습니다.</TankyOperatorChance_Help>
+  <MinerChance_Help>광부 좀비는 기지로 가는 길에 방해물을 만나면 파기 시작합니다. 주황색 모자로 쉽게 알아볼 수 있습니다.</MinerChance_Help>
+  <ElectrifierChance_Help>감전좀비는 물지 않기 때문에 근접공격을 할 수 있습니다. 실제로, 감전좀비의 전기장은 근접 공격을 제외한 모든 피해로부터 보호를 받습니다. 감전좀비는 전기, 전자 또는 동력이 내장된, 물건과 갑옷 및 무기를 포함한 모든 것들을 방해하고 파괴합니다.</ElectrifierChance_Help>
+  <NormalZombieChance_Help>일반 좀비이며 각각 다른 신체 크기를 가지고 있습니다. 신체 크기는 그들의 힘 뿐만 아니라 속도에도 영향을 미칩니다. 그들은 종종 게임과 당신이 설치한 모드에서 구할 수 있는 의복을 입고 있습니다.</NormalZombieChance_Help>
+  <ZombieMiscTitle_Help>이 설정에는 게임 플레이에 큰 영향을 미치지 않는 기타 설정이 포함되어 있습니다. 일부는 장식용이며, 일부는 느린 컴퓨터에서 게임 속도를 높일 수 있습니다.</ZombieMiscTitle_Help>
+  <UseCustomTextures_Help>모든 좀비에는 부상 및 기타 좀비 관련 사용자 정의 바디 텍스처가 있습니다. 이로 인해 좀비랜드가 많은 메모리를 소모하므로 문제가 있는 경우 (특히 32비트 버전에서) 이 설정을 끄십시오.</UseCustomTextures_Help>
+  <ReplaceTwinkie_Help>좀비랜드는 영화속의 트윙키에 대한 밈이 있습니다. 영화를 기리기 위해 모드는 보존식량의 시각적 모양을 트윙키로 변경합니다.</ReplaceTwinkie_Help>
+  <ZombiesTriggerDangerMusic_Help>일반적으로 림월드는 지도상에 해당 위험이 있을 때 특정 위험 음악을 재생합니다. 좀비는 지도상에 영구적으로 있을 가능성이 높으므로 이 설정으로 좀비로 인한 위험 음악 재생 기능을 해제할 수 있습니다.</ZombiesTriggerDangerMusic_Help>
+  <PlayCreepyAmbientSound_Help>원래는 좀비를 주제로 한 주변 소리가 없는 좀비 테마곡이 없습니다. 때문에 밤에 모든 좀비가 기지를 향해 이동할 때 으스스한 소리를 대신 재생합니다.</PlayCreepyAmbientSound_Help>
+  <BetterZombieAvoidance_Help>좀비 주변을 더 안전하게 돌아다닐 수 있도록 이 설정을 켤 수 있습니다. 좀비랜드는 좀비를 피하기 위해 정착민의 경로를 지속적으로 조정합니다. 위험도를 낮추고 다른 정착민을 구출할 때 매우 유용합니다.</BetterZombieAvoidance_Help>
+  <ZombiesDropBlood_Help>게임 성능 조정: 이 기능을 끄면 좀비가 더 이상 피를 흘리지 않습니다.</ZombiesDropBlood_Help>
+  <ZombiesBurnLonger_Help>좀 더 재미있는 게임을 위해 좀비는 걷는 동안 더 오래 불이 붙습니다. 컴퓨터가 너무 느려 화재를 감당할 수 없으면 끄세요.</ZombiesBurnLonger_Help>
+  <ZombieActionsTitle_Help>이 설정에서는 기본 설정을 복원하거나 고유한 설정을 불러오기 및 게시할 수 있습니다. 게임 중인 경우 버튼을 클릭하여 모드를 제거할 수 있습니다.</ZombieActionsTitle_Help>
+  <UninstallButton_Help>좀비랜드를 제거하려면 제거 버튼을 클릭하세요. 현재 게임을 새 이름으로 저장하라는 메시지가 표시되고 주메뉴로 돌아갑니다. 여기에서 모드를 제거하고 저장된 게임 파일을 불러와 좀비랜드 없이 게임을 계속 할 수 있습니다.</UninstallButton_Help>
+  <Reset_Help>설정이 기본값으로 재설정됩니다.</Reset_Help>
+  <LoadSettingsButton_Help>좀비랜드 사용자가 충분히 재미있다고 느껴, 모든 사람에게 공개한 설정을 보여주는 대화상자를 표시합니다.</LoadSettingsButton_Help>
+  <PublishSettingsButton_Help>특별히 재미있는 설정이었다고 생각되면 여기에 다른 사람들이 동일한 설정으로 할 수 있도록 게시할 수 있습니다.</PublishSettingsButton_Help>
+  <LetterLabelZombiesRising>좀비 습격</LetterLabelZombiesRising>
+  <ZombiesRising>좀비 무리가 나타났습니다</ZombiesRising>
+  <LetterLabelZombiesRisingNearYourBase>좀비의 급습</LetterLabelZombiesRisingNearYourBase>
+  <ZombiesRisingNearYourBase>좀비 무리가 기지 근처에 나타납니다</ZombiesRisingNearYourBase>
+  <LetterLabelXDaysUntilZombies>좀비 생성까지 {0} 남음</LetterLabelXDaysUntilZombies>
+  <XDaysUntilZombies>좀비들은 흙이나 자갈 모래 같은 연약지반에 생성됩니다. 좀비가 생성될 수 없도록 바닥을 설치하세요.</XDaysUntilZombies>
+  <ZombielandDefaultSettings>좀비랜드 기본값 설정</ZombielandDefaultSettings>
+  <ZombielandGameSettings>좀비랜드 게임 설정</ZombielandGameSettings>
+  <WhenDoZombiesSpawn>좀비의 생성 시기</WhenDoZombiesSpawn>
+  <SpawnWhenType_AllTheTime>항상</SpawnWhenType_AllTheTime>
+  <SpawnWhenType_WhenDark>어두운 곳</SpawnWhenType_WhenDark>
+  <SpawnWhenType_InEventsOnly>사건 발생 시</SpawnWhenType_InEventsOnly>
+  <HowDoZombiesSpawn>좀비가 생성되는 곳</HowDoZombiesSpawn>
+  <SpawnHowType_AllOverTheMap>연약지반이 있는 모든 곳</SpawnHowType_AllOverTheMap>
+  <SpawnHowType_FromTheEdges>지도 가장자리</SpawnHowType_FromTheEdges>
+  <WhatDoZombiesAttack>좀비의 적개심</WhatDoZombiesAttack>
+  <AttackMode_Everything>모든 것</AttackMode_Everything>
+  <AttackMode_OnlyHumans>인간과 같은 생명체</AttackMode_OnlyHumans>
+  <AttackMode_OnlyColonists>정착민과 물건들</AttackMode_OnlyColonists>
+  <EnemiesAttackZombies>적들이 좀비 공격하기</EnemiesAttackZombies>
+  <AnimalsAttackZombies>동물들이 좀비 공격하기</AnimalsAttackZombies>
+  <WhatDoZombiesSmash>좀비의 공격</WhatDoZombiesSmash>
+  <SmashMode_Nothing>없음</SmashMode_Nothing>
+  <SmashMode_DoorsOnly>오직 문만</SmashMode_DoorsOnly>
+  <SmashMode_AnyBuilding>건설된 것들</SmashMode_AnyBuilding>
+  <SmashOnlyWhenAgitated>동요되었을 때만 부수기</SmashOnlyWhenAgitated>
+  <NewGameTitle>새로운 게임</NewGameTitle>
+  <DaysBeforeZombiesCome>좀비 출현까지의 날짜</DaysBeforeZombiesCome>
+  <ZombiesOnTheMap>지도 상의 좀비들</ZombiesOnTheMap>
+  <MaximumNumberOfZombies>최대</MaximumNumberOfZombies>
+  <Zombies>마리의 좀비들</Zombies>
+  <ColonyMultiplier>정착지 비율</ColonyMultiplier>
+  <ZombieEventTitle>좀비 사건</ZombieEventTitle>
+  <ZombiesPerColonistInEvent>정착민 당 좀비 수</ZombiesPerColonistInEvent>
+  <ExtraDaysBetweenEvents>주기적 사건 기간</ExtraDaysBetweenEvents>
+  <ZombieSpeedTitle>좀비 이동 속도</ZombieSpeedTitle>
+  <MoveSpeedIdle>평상 시</MoveSpeedIdle>
+  <MoveSpeedTracking>추적 시</MoveSpeedTracking>
+  <ZombieDamageFactorTitle>좀비 피해량</ZombieDamageFactorTitle>
+  <ZombieDamageFactor>공격력 배수</ZombieDamageFactor>
+  <ZombieGameTweaks>게임 조정</ZombieGameTweaks>
+  <ReduceTurretConsumption>포탑 소비량 감소</ReduceTurretConsumption>
+  <ZombieInfections>좀비 감염</ZombieInfections>
+  <ZombieBiteInfectionChance>좀비에게 물려 감염될 확률</ZombieBiteInfectionChance>
+  <ZombieBiteInfectionUnknown>감염 잠복기</ZombieBiteInfectionUnknown>
+  <ZombieBiteInfectionTreatable>감염 치료 가능한 시간</ZombieBiteInfectionTreatable>
+  <ZombieBiteInfectionPersists>감염 기간</ZombieBiteInfectionPersists>
+  <AnyTreatmentStopsInfection>침대에서 치료하면 감염이 멈춤</AnyTreatmentStopsInfection>
+  <ZombieSerum>좀비혈청</ZombieSerum>
+  <CorpsesExtractAmount>좀비 당 좀비 추출물의 양</CorpsesExtractAmount>
+  <CorpsesDaysToDessicated>좀비 시체가 사라질 때까지 걸리는 시간</CorpsesDaysToDessicated>
+  <ZombieInstinctTitle>좀비의 감지력</ZombieInstinctTitle>
+  <ZombieInstinct_Dull>둔함</ZombieInstinct_Dull>
+  <ZombieInstinct_Normal>보통</ZombieInstinct_Normal>
+  <ZombieInstinct_Sensitive>민감</ZombieInstinct_Sensitive>
+  <RagingZombies>무리가 커질수록 좀비들이 격노함</RagingZombies>
+  <RageLevel>분노 수준</RageLevel>
+  <RageLevelVeryLow>매우 낮음</RageLevelVeryLow>
+  <RageLevelLow>낮음</RageLevelLow>
+  <RageLevelNormal>일반</RageLevelNormal>
+  <RageLevelHigh>높음</RageLevelHigh>
+  <RageLevelVeryHigh>매우 높음</RageLevelVeryHigh>
+  <ZombieHealthTitle>좀비의 맷집</ZombieHealthTitle>
+  <DoubleTapRequired>좀비가 부상으로부터 회복함</DoubleTapRequired>
+  <ZombiesDieVeryEasily>좀비를 쉽게 죽일 수 있음</ZombiesDieVeryEasily>
+  <ZombieEatingTitle>좀비의 식성</ZombieEatingTitle>
+  <ZombiesEatDowned>부상당한 생물 먹기</ZombiesEatDowned>
+  <ZombiesEatCorpses>시체 먹기</ZombiesEatCorpses>
+  <SpecialZombiesTitle>특수좀비</SpecialZombiesTitle>
+  <SuicideBomberChance>자폭좀비</SuicideBomberChance>
+  <ToxicSplasherChance>독성좀비</ToxicSplasherChance>
+  <TankyOperatorChance>장갑좀비</TankyOperatorChance>
+  <MinerChance>채굴좀비</MinerChance>
+  <ElectrifierChance>감전좀비</ElectrifierChance>
+  <NormalZombieChance>일반 좀비: {0}</NormalZombieChance>
+  <ZombieMiscTitle>기타 설정</ZombieMiscTitle>
+  <UseCustomTextures>맞춤형 텍스처 사용</UseCustomTextures>
+  <ReplaceTwinkie>보존식량을 트윙키로 변경</ReplaceTwinkie>
+  <ZombiesTriggerDangerMusic>위험 상황일 때 소리</ZombiesTriggerDangerMusic>
+  <PlayCreepyAmbientSound>밤에 으스스한 소리 재생</PlayCreepyAmbientSound>
+  <BetterZombieAvoidance>좀비를 피해다님</BetterZombieAvoidance>
+  <ZombiesDropBlood>피 흘리는 좀비</ZombiesDropBlood>
+  <ZombiesBurnLonger>좀 더 오래 불타는 좀비</ZombiesBurnLonger>
+  <ZombieActionsTitle>행동</ZombieActionsTitle>
+  <ZombieSettingsReset>기본 설정 복원</ZombieSettingsReset>
+  <UninstallZombieland>현재 게임에서 좀비랜드 제거</UninstallZombieland>
+  <ConfirmUninstallZombieland>계속하면 새로운 저장 파일의 이름을 정할 수 있고 게임이 저장된 후에 메인메뉴로 나가게 됩니다. 새로운 저장은 좀비랜드 없이 불러오기 할 수 있습니다.\n\n정말로 현재 게임에서 좀비랜드의 컨텐츠를 제거 하겠습니까?</ConfirmUninstallZombieland>
+  <UninstallButton>제거</UninstallButton>
+  <LoadSettings>클라우드에서 설정 불러오기</LoadSettings>
+  <LoadSettingsButton>내려받기</LoadSettingsButton>
+  <PublishSettings>클라우드에 설정 등록하기</PublishSettings>
+  <PublishSettingsButton>등록</PublishSettingsButton>
+  <SearchSettings>검색</SearchSettings>
+  <SettingsName>이름</SettingsName>
+  <ColonistsBittenByZombie>좀비에게 물린 정착민</ColonistsBittenByZombie>
+  <ColonistsBittenByZombieDesc>이 정착민은 좀비에게 물렸습니다. 현 시점에서는 감염 여부가 명확하지 않습니다:\n\n{0}\n감염이 발생하기까지 어느 정도 시간이 걸리기 때문에 상처를 면밀히 관찰하세요.</ColonistsBittenByZombieDesc>
+  <ImminentZombiInfection>좀비 감염 임박함</ImminentZombiInfection>
+  <ImminentZombiInfectionDesc>이 정착민은 좀비에게 물려 감염이 되었습니다:\n\n{0}\n높은 의술, 품질이 좋은 의료침대, 생체모니터가 있는 청결한 곳에서 최상 최고의 조건 하에 즉시 치료를 해줘야 살릴 수 있습니다.</ImminentZombiInfectionDesc>
+  <ZombieInfection>좀비 감염</ZombieInfection>
+  <ZombieInfectionDesc>이 정착민은 감염되었고 좀비가 될 것입니다. 더이상 살릴 방법이 없습니다:\n\n{0}\n감염되는 동안 생각, 감정, 고통, 배고픔에 무관심하고 결국 죽어서 좀비가 됩니다.</ZombieInfectionDesc>
+  <NoInfectionRisk>감염 위험없음</NoInfectionRisk>
+  <HoursBeforeBecomingInfected>감염될 때까지 {0} 시간</HoursBeforeBecomingInfected>
+  <HoursBeforeBecomingAZombie>좀비될 때까지 {0} 시간</HoursBeforeBecomingAZombie>
+  <BecameAZombieLabel>누군가 좀비가 되었음</BecameAZombieLabel>
+  <BecameAZombieDesc>{0}(이)가 강력한 좀비가 되었습니다.</BecameAZombieDesc>
+  <BodyIsInfectedLabel>좀비 바이러스에 감염되었습니다!</BodyIsInfectedLabel>
+  <BodyIsInfectedTooltip>감염된 신체가 썩기 시작되면 좀비로 변합니다.</BodyIsInfectedTooltip>
+  <CureZombieInfection>좀비 감염 치료</CureZombieInfection>
+  <ExtractingZombieSerum>좀비혈청 추출</ExtractingZombieSerum>
+  <AutoExtractDisabledDescription>좀비혈청 추출불가 (의사가 아님)</AutoExtractDisabledDescription>
+  <AutoExtractAllowedDescription>근처에 좀비가 없을 때 자동으로 좀비혈청을 추출합니다.</AutoExtractAllowedDescription>
+  <AutoExtractForbiddenDescription>명령 시에만 좀비혈청을 추출합니다.</AutoExtractForbiddenDescription>
+  <AutoAvoidZombiesEnabledDescription>소집 시 대기하고 있는 경우를 제외하고, 자동으로 좀비를 회피해서 이동합니다.</AutoAvoidZombiesEnabledDescription>
+  <AutoAvoidZombiesDisabledDescription>좀비를 무시합니다. 모든 행동을 수동으로 제어해야 합니다.</AutoAvoidZombiesDisabledDescription>
+
+</LanguageData>

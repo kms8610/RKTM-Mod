@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeFlares.label>조명탄 10개 만들기</MakeFlares.label>
+  <MakeFlares.description>조명탄을 10개 만듭니다.</MakeFlares.description>
+  <MakeFlares.jobString>조명탄을 만드는 중.</MakeFlares.jobString>
+  <MakeAmmo_265Flare_Illumination.label>26.5mm 조명탄 50개 만들기</MakeAmmo_265Flare_Illumination.label>
+  <MakeAmmo_265Flare_Illumination.description>26.5mm 조명탄을 50개 만듭니다.</MakeAmmo_265Flare_Illumination.description>
+  <MakeAmmo_265Flare_Illumination.jobString>26.5mm 조명탄 50개 만드는 중.</MakeAmmo_265Flare_Illumination.jobString>
+  <MakeShell_Illumination.label>81mm 조명 포탄 5개 만들기</MakeShell_Illumination.label>
+  <MakeShell_Illumination.description>81mm 조명 포탄 5개를 만듭니다.</MakeShell_Illumination.description>
+  <MakeShell_Illumination.jobString>81mm 포탄 만드는 중</MakeShell_Illumination.jobString>
+  <MakeChemlightRed.label>적색 형광봉 10개 만들기</MakeChemlightRed.label>
+  <MakeChemlightRed.description>적색 형광봉을 10개 만듭니다.</MakeChemlightRed.description>
+  <MakeChemlightRed.jobString>적색 형광봉 만드는 중</MakeChemlightRed.jobString>
+  <MakeChemlightGreen.label>녹색 형광봉 10개 만들기</MakeChemlightGreen.label>
+  <MakeChemlightGreen.description>녹색 형광봉을 10개 만듭니다.</MakeChemlightGreen.description>
+  <MakeChemlightGreen.jobString>녹색 형광봉 만드는 중</MakeChemlightGreen.jobString>
+  <MakeChemlightBlue.label>청색 형광봉 10개 만들기</MakeChemlightBlue.label>
+  <MakeChemlightBlue.description>청색 형광봉을 10개 만듭니다.</MakeChemlightBlue.description>
+  <MakeChemlightBlue.jobString>청색 형광봉 만드는 중</MakeChemlightBlue.jobString>
+  <MakeChemlightYellow.label>노랑 형광봉 10개 만들기</MakeChemlightYellow.label>
+  <MakeChemlightYellow.description>노랑 형광봉을 10개 만듭니다.</MakeChemlightYellow.description>
+  <MakeChemlightYellow.jobString>노랑 형광봉 만드는 중</MakeChemlightYellow.jobString>
+
+</LanguageData>

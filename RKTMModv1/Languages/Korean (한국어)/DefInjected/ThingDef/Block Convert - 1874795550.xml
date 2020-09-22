@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BlocksWorkTable.label>석재 작업대</BlocksWorkTable.label>
+  <BlocksWorkTable.description>석재를 변환하기 위한 작업대입니다.</BlocksWorkTable.description>
+  <BlocksWorkTableElec.label>전기 석재 작업대</BlocksWorkTableElec.label>
+  <BlocksWorkTableElec.description>석재를 변환하기 위한 전기식 작업대입니다.</BlocksWorkTableElec.description>
+
+</LanguageData>

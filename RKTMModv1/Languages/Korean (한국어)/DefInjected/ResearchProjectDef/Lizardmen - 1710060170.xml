@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LizardmanTechnic.label>리자드맨 양식</LizardmanTechnic.label>
+  <LizardmanTechnic.description>리자드맨의 조상이 사용하던 다양한 예술과 의류를 만드는 법을 연구합니다. 리자드맨만 연구할 수 있습니다.</LizardmanTechnic.description>
+  <LizardmanWeapon.label>리자드맨 단조</LizardmanWeapon.label>
+  <LizardmanWeapon.description>리자드맨 문화의 가장 강력한 무기와 갑옷을 만드는 방법을 연구합니다.</LizardmanWeapon.description>
+
+</LanguageData>

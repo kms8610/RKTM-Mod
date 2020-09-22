@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmokeleafCultivation.label>연초잎 재배</SmokeleafCultivation.label>
+  <SmokeleafCultivation.description>연초잎에서 여러가지로 분리하는 과정입니다. 연초잎 싹, 씨앗, 대마 섬유를 생산할 수 있습니다. 연초잎을 둥글게 마는 것을 허용합니다.</SmokeleafCultivation.description>
+  <SmokeleafProcessing.label>연초잎 가공</SmokeleafProcessing.label>
+  <SmokeleafProcessing.description>여리사들이 부엌에서 연구를 해본 결과 연초잎을 식용이 가능하게 만들었습니다. 적절한 도구만 있다면, 연초잎의 대마 섬유로 몇몇 새로운 재료들을 만들 수 있다는 것도 알게 되었습니다.</SmokeleafProcessing.description>
+  <IndustrialSmokeleafCultivation.label>산업 연초잎 재배</IndustrialSmokeleafCultivation.label>
+  <IndustrialSmokeleafCultivation.description>재배 작업대가 개발되어, 연초잎을 새로운 형태로 대량 가공할 수 있게 되었습니다. 손질 도구들에서 더 쉽게 접근할 수 있는 저장시설이 만들어졌고, 전기세가 절약되는 새 재배 램프도 발명되었습니다.</IndustrialSmokeleafCultivation.description>
+  <IndustrialSmokeleafProcessing.label>산업 연초잎 가공</IndustrialSmokeleafProcessing.label>
+  <IndustrialSmokeleafProcessing.description>연초잎 섬유로 새로운 연료와 직물을 만들 수 있습니다. 새로운 요리법을 이용할 수 있습니다. 연구자들은 그 약의 의학적 특성을 밝혀내고 이해하기 시작했습니다. CBD 추출이 가능합니다.</IndustrialSmokeleafProcessing.description>
+  <AdvancedSmokeleafCultivation.label>고급 연초잎 재배</AdvancedSmokeleafCultivation.label>
+  <AdvancedSmokeleafCultivation.description>연초잎의 재배와 가공을 도울 수 있는 새로운 기계를 개발하였습니다.</AdvancedSmokeleafCultivation.description>
+  <AdvancedSmokeleafProcessing.label>고급 연초잎 가공</AdvancedSmokeleafProcessing.label>
+  <AdvancedSmokeleafProcessing.description>연초잎의 화합물들을 추출하고 농축하는 새로운 방법들이 개발되었습니다. 덕분에, 새로운 식품과 오락용 약물들을 만들 수 있었습니다. 고급 재생 금속도 개발되었습니다.</AdvancedSmokeleafProcessing.description>
+  <SmokeleafPharmacology.label>연초잎 약리학</SmokeleafPharmacology.label>
+  <SmokeleafPharmacology.description>연초잎의 유익한 화합물을 분리해내 현대 의학에 부작용 없이 적용할 수 있습니다.</SmokeleafPharmacology.description>
+  <SmokeleafGlittertech.label>연초잎 번화계 기술</SmokeleafGlittertech.label>
+  <SmokeleafGlittertech.description>수준 높이 발전된 연초잎 부산물들이 우리 연구자들의 심도있는 연구를 통해 개발되었습니다.</SmokeleafGlittertech.description>
+
+</LanguageData>

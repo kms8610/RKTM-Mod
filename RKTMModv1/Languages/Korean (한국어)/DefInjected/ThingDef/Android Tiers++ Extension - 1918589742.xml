@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ReloadStation.label>안드로이드 충전소</ATPP_ReloadStation.label>
+  <ATPP_ReloadStation.description>안드로이드를 위한 충전소로 최대 8대의 안드로이드를 동시에 수용할 수 있습니다.</ATPP_ReloadStation.description>
+  <ATPP_SkyMindLAN.label>스카이마인드 안테나 V1</ATPP_SkyMindLAN.label>
+  <ATPP_SkyMindLAN.description>스카이마인드 안테나 V1은 최대 3명의 동시 클라이언트를 수용하는무선 네트워크를 생성하여 한 정착지에서 다른 정착지로 마인드를 업로드하고 SX 세리 안드로이드를 원격으로 제어할 수 있습니다.</ATPP_SkyMindLAN.description>
+  <ATPP_SkyMindWAN.label>스카이마인드 안테나 V2</ATPP_SkyMindWAN.label>
+  <ATPP_SkyMindWAN.description>스카이마인드 안테나 V2은 최대 15명의 동시 클라이언트를 수용하는무선 네트워크를 생성하여 한 정착지에서 다른 정착지로 마인드를 업로드하고 SX 세리 안드로이드를 원격으로 제어할 수 있습니다.</ATPP_SkyMindWAN.description>
+  <ATPP_NanitesHydraulicSerum.label>나나이트 은행(유압형)</ATPP_NanitesHydraulicSerum.label>
+  <ATPP_NanitesHydraulicSerum.description>나나이트의 일회용 은행으로 노후로 인해 고장난 안드로이드의 유압 시스템을 수리하도록 조정되었습니다.</ATPP_NanitesHydraulicSerum.description>
+  <ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>이 나나이트 혈청을 사용하여 안드로이드의 연령 문제를 해결할 수 있습니다.</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCPUSerum.label>나나이트 은행(CPU)</ATPP_NanitesCPUSerum.label>
+  <ATPP_NanitesCPUSerum.description>나나이트의 일회용 은행으로 노후로 인해 고장난 안드로이드의 CPU 시스템을 수리하도록 조정되었습니다.</ATPP_NanitesCPUSerum.description>
+  <ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>이 나나이트 혈청을 사용하여 안드로이드의 연령 문제를 해결할 수 있습니다.</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCoolingSerum.label>나나이트 은행(냉각형)</ATPP_NanitesCoolingSerum.label>
+  <ATPP_NanitesCoolingSerum.description>나나이트의 일회용 은행으로 노후로 인해 고장난 안드로이드의 냉각 시스템을 수리하도록 조정되었습니다.</ATPP_NanitesCoolingSerum.description>
+  <ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>이 나나이트 혈청을 사용하여 안드로이드의 연령 문제를 해결할 수 있습니다.</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesFrameSerum.label>나나이트 은행(뼈대)</ATPP_NanitesFrameSerum.label>
+  <ATPP_NanitesFrameSerum.description>나나이트의 일회용 은행으로 노후로 인해 고장난 안드로이드의 프레임 시스템을 수리하도록 조정되었습니다.</ATPP_NanitesFrameSerum.description>
+  <ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>이 나나이트 혈청을 사용하여 안드로이드의 연령 문제를 해결할 수 있습니다.</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+  <ATPP_AndroidNanokitBasic.label>기본형 나노키트</ATPP_AndroidNanokitBasic.label>
+  <ATPP_AndroidNanokitBasic.description>안드로이드의 상처를 치료하기 위한 나노봇을 포함한 키트입니다.</ATPP_AndroidNanokitBasic.description>
+  <ATPP_AndroidNanokitIntermediate.label>중간형 나노키트</ATPP_AndroidNanokitIntermediate.label>
+  <ATPP_AndroidNanokitIntermediate.description>안드로이드의 상처를 치료하기 위한 나노봇을 포함한 키트입니다.</ATPP_AndroidNanokitIntermediate.description>
+  <ATPP_AndroidNanokitAdvanced.label>향상된 나노키트</ATPP_AndroidNanokitAdvanced.label>
+  <ATPP_AndroidNanokitAdvanced.description>안드로이드의 상처를 치료하기 위한 나노봇을 포함한 키트입니다.</ATPP_AndroidNanokitAdvanced.description>
+  <ATPP_VX1Chip.label>VX1 신경 칩</ATPP_VX1Chip.label>
+  <ATPP_VX1Chip.description>호스트가 원격 대리 안드로이드를 제어할 수 있는 신경 칩 입니다.</ATPP_VX1Chip.description>
+  <ATPP_VX2Chip.label>VX2 신경 칩</ATPP_VX2Chip.label>
+  <ATPP_VX2Chip.description>호스트가 원격 대리 안드로이드를 제어할 수 있는 신경 칩 입니다.</ATPP_VX2Chip.description>
+
+</LanguageData>

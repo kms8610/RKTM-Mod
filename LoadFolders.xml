@@ -15,7 +15,6 @@
 	<li IfModActive="avius.prisonlabor">Prison Labor - 1899474310</li>
 	<li IfModActive="machine.rtr">Raise The Roof - 1776143665</li>
 	<li IfModActive="VanillaExpanded.VCookESushi">Vanilla Cooking Expanded - Sushi - 2158539170</li>
-	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856</li>
 	<li IfModActive="smashphil.neceros.srtsexpanded">SRTS Expanded - 1845423808</li>
 	<li IfModActive="Vanya.Polarisbloc.CoreLab">Polarisbloc - Core LAB - 1500244593</li>
 	<li IfModActive="Murmur.UVWallLight">Plant Growing Wall Light - 1605773857</li>
@@ -36,7 +35,6 @@
 	<li IfModActive="hodlhodl.twitchtoolkit">Twitch Toolkit - 1718525787</li>
 	<li IfModActive="fridgeBaron.Immortals">Immortals - 1984905966</li>
 	<li IfModActive="automatic.gunplay">Gunplay - 2034896549</li>
-	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700</li>
 	<li IfModActive="sulusdacor.james76543.Meltup.AdvancedPowerPlus">Advanced Power Plus - 203240962</li>
 	<li IfModActive="Dubwise.Rimatomics">Rimatomics - 1127530465</li>
 	<li IfModActive="hodlhodl.toolkitcore">ToolkitCore - 2018368654</li>
@@ -48,7 +46,6 @@
 	<li IfModActive="Atlas.AndroidTiers">Android tiers - 1386412863</li>
 	<li IfModActive="NotooShabby.AwesomeInventory">Awesome Inventory - 2050289408</li>
 	<li IfModActive="mastertea.RandomPlus">RandomPlus - 1434137894</li>
-	<li IfModActive="Albion.GoExplore">Go Explore! - 1814100216</li>
 	<li IfModActive="Orion.FactionDiscovery">Faction Discovery - 751841890</li>
 	<li IfModActive="PeteTimesSix.CompactHediffs">Compact Hediffs - 2031734067</li>
 	<li IfModActive="Mlie.JinRohKerberosPanzerCopArmor">Jin-Roh Kerberos Panzer Cop Armor - 2038994354</li>
@@ -159,6 +156,15 @@
 	<li IfModActive="VanillaExpanded.VBrewE">Vanilla Brewing Expanded - 2186560858</li>
 	<li IfModActive="VanillaExpanded.VFEArt">Vanilla Furniture Expanded - Art - 1968134023</li>
 	<li IfModActive="OskarPotocki.VFE.Insectoid">Vanilla Factions Expanded - Insectoids - 2149755445</li>
+	<!-- 20.09.19 -->
+	<li IfModActive="Albion.GoExplore">Go Explore! - 1814100216</li>
+	<li IfModActive="Crustypeanut.RC2.Core">RimCuisine 2 Core - 1833592062</li>
+	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856</li>
+	<!-- 20.09.20 -->
+	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700</li>
+	<li IfModActive="dismarzero.VGP.VGPGardenResources">VGP Garden Resources - 2007063451</li>
+	<!-- 20.09.22 -->
+	<li IfModActive="aRandomKiwi.MercenariesForMe">Mercenaries For Me - 1832318107</li>
   </v1.2>
 
 </loadFolders>

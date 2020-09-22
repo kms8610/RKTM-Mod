@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1113137502_190707_Genetic Rim-->
+  <AnimalRangeAttack.reportString>공격 중.</AnimalRangeAttack.reportString>
+  <GR_AnimalResource.reportString>TargetA로부터 동물자원 수집.</GR_AnimalResource.reportString>
+  <GR_AttackMeleeOnceAndChickenRimPox.reportString>TargetA 닭에게 림폭스(rimpox) 투여.</GR_AttackMeleeOnceAndChickenRimPox.reportString>
+  <GR_InsertGenesIntoGenePodJob.reportString>유전자 포트에 유전물질 삽입</GR_InsertGenesIntoGenePodJob.reportString>
+  <GR_InsertGenesIntoGenePodJob2.reportString>유전자 포트에 유전물질 삽입</GR_InsertGenesIntoGenePodJob2.reportString>
+  <GR_UseHybridInjector.reportString>합성체 유전자 주사기 사용중.</GR_UseHybridInjector.reportString>
+
+  <!--1543566982_190606_Lost Forest-->
+  <LFJob_RestInHotSpring.reportString>TargetA에서 휴식 중.</LFJob_RestInHotSpring.reportString>
+  <LFJob_RefleshInSpring.reportString>TargetA에서 휴식 중.</LFJob_RefleshInSpring.reportString>
+  <LFJob_WaterwayDrawing.reportString>TargetA에서 작업 중.</LFJob_WaterwayDrawing.reportString>
+  <LFJob_KAZUSASystem.reportString>TargetA에서 굴착 중.</LFJob_KAZUSASystem.reportString>
+  <LFJob_WaterVeinDrill.reportString>TargetA에서 굴착 중.</LFJob_WaterVeinDrill.reportString>
+  <LFJob_FoxianHealing.reportString>TargetA의 상처를 치료 중.</LFJob_FoxianHealing.reportString>
+
+  <!--1821617793_190811_Magical Menagerie-->
+  <AnimalRangeAttack.reportString>공격 중.</AnimalRangeAttack.reportString>
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LS_BlackPoison.label>검은 미망인</LS_BlackPoison.label>
+  <LS_DarkShadows.label>검은 그림자</LS_DarkShadows.label>
+  <LS_DarkShadows.deathMessage>{0}는 갑자기 찔려죽었습니다.</LS_DarkShadows.deathMessage>
+  <LS_DecapBehead.label>처형 집행</LS_DecapBehead.label>
+  <LS_DecapBehead.deathMessage>{0}의 목이 잘렸습니다.</LS_DecapBehead.deathMessage>
+  <LS_FrozenBlade.label>얼어붙은 마음</LS_FrozenBlade.label>
+  <LS_FrozenBlade.deathMessage>{0}(이)가 얼어죽었습니다.</LS_FrozenBlade.deathMessage>
+  <LS_FenrisFang.label>펜리스의 송곳니</LS_FenrisFang.label>
+  <LS_FenrisFang.deathMessage>{0}(이)가 갈려 죽었습니다.</LS_FenrisFang.deathMessage>
+  <LS_BloodRain.label>핏빛 비</LS_BloodRain.label>
+  <LS_BloodRain.deathMessage>{0}가 파열되었습니다.</LS_BloodRain.deathMessage>
+  <LS_StormRazor.label>폭풍 칼날</LS_StormRazor.label>
+  <LS_StormRazor.deathMessage>{0}(이)가 조각으로 분해되었습니다.</LS_StormRazor.deathMessage>
+  <LS_FlashBack.label>타격</LS_FlashBack.label>
+  <LS_FieryJustice.label>네로</LS_FieryJustice.label>
+  <LS_FieryJustice.deathMessage>{0}(이)가 재로 타버렸습니다.</LS_FieryJustice.deathMessage>
+  <LS_Hellfire.label>지옥의 불길</LS_Hellfire.label>
+  <LS_Hellfire.deathMessage>{0}(이)가 재로 타버렸습니다.</LS_Hellfire.deathMessage>
+
+</LanguageData>

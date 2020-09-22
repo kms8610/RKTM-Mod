@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TLTM_Bow_ThrumboLeather.label>트럼보 가죽 활</TLTM_Bow_ThrumboLeather.label>
+  <TLTM_Bow_ThrumboLeather.description>강력한 활 입니다. 트럼보의 힘을 품었습니다. 먼 거리에서 무거운 화살을 쏩니다.</TLTM_Bow_ThrumboLeather.description>
+  <TLTM_Bow_ThrumboLeather.tools.0.label>활대</TLTM_Bow_ThrumboLeather.tools.0.label>
+  <TLTM_Arrow_ThrumboLeather.label>트럼보 가죽 화살</TLTM_Arrow_ThrumboLeather.label>
+  <TLTM_Bow_ThrumboHorn.label>트럼보 뿔 활</TLTM_Bow_ThrumboHorn.label>
+  <TLTM_Bow_ThrumboHorn.description>강력한 활 입니다. 트럼보의 힘을 품었습니다. 무거운 화살을 두번 쏩니다.</TLTM_Bow_ThrumboHorn.description>
+  <TLTM_Bow_ThrumboHorn.tools.0.label>검극</TLTM_Bow_ThrumboHorn.tools.0.label>
+  <TLTM_Bow_ThrumboHorn.tools.1.label>활대</TLTM_Bow_ThrumboHorn.tools.1.label>
+  <TLTM_Arrow_ThrumboHorn.label>트럼보 뿔 화살</TLTM_Arrow_ThrumboHorn.label>
+  <TLTM_LongSword.label>트럼보 장검</TLTM_LongSword.label>
+  <TLTM_LongSword.description>큰 장검입니다. 트럼보의 힘을 품었습니다.</TLTM_LongSword.description>
+  <TLTM_LongSword.tools.0.label>손잡이</TLTM_LongSword.tools.0.label>
+  <TLTM_LongSword.tools.1.label>검극</TLTM_LongSword.tools.1.label>
+  <TLTM_LongSword.tools.2.label>검날</TLTM_LongSword.tools.2.label>
+  <TLTM_Hammer.label>트럼보 망치</TLTM_Hammer.label>
+  <TLTM_Hammer.description>큰 망치입니다. 트럼보의 힘을 품었습니다.</TLTM_Hammer.description>
+  <TLTM_Hammer.tools.0.label>손잡이</TLTM_Hammer.tools.0.label>
+  <TLTM_Hammer.tools.1.label>머리</TLTM_Hammer.tools.1.label>
+  <TLTM_Hammer.tools.2.label>갈퀴</TLTM_Hammer.tools.2.label>
+  <Plant_ThrumboTree.label>트럼보 나무</Plant_ThrumboTree.label>
+  <Plant_ThrumboTree.description>림월드 어딘가에서 발견된 나무이며, 나무껍질은 트럼보의 가죽과 매우 흡사합니다. 성체가 되려면 오랜 시간이 걸립니다.</Plant_ThrumboTree.description>
+
+</LanguageData>
