@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MoonRocketLauncher.label>발사대</MoonRocketLauncher.label>
+  <MoonRocketLauncher.description>달 로켓을 발사할 수 있는 연료 주입장치입니다.</MoonRocketLauncher.description>
+  <MoonRocket.label>달 로켓</MoonRocket.label>
+  <MoonRocket.description>사람, 물건, 동물을 달로 수송할 수 있는 궤도 발사체입니다. 수송에 사용할 수 있습니다.\n주의: 수송 포드처럼 편도 수송 후 사라집니다.</MoonRocket.description>
+  <RefTelescope.label>우주 안테나</RefTelescope.label>
+  <RefTelescope.description>탐사에 적합한 지점을 찾고, 외우주로 나아가기 위한 안테나입니다.</RefTelescope.description>
+  <craterTwelve.label>크레이터 12</craterTwelve.label>
+  <craterTwelve.description>거대한 크레이터입니다.</craterTwelve.description>
+  <craterTen.label>크레이터 10</craterTen.label>
+  <craterTen.description>거대한 크레이터입니다.</craterTen.description>
+  <craterEight.label>크레이터 8</craterEight.label>
+  <craterEight.description>거대한 크레이터입니다.</craterEight.description>
+  <craterSix.label>크레이터 6</craterSix.label>
+  <craterSix.description>거대한 크레이터입니다.</craterSix.description>
+  <craterFour.label>크레이터 4</craterFour.label>
+  <craterFour.description>거대한 크레이터입니다.</craterFour.description>
+  <BiomesNEO_HighlandRock.label>달 분지 암석</BiomesNEO_HighlandRock.label>
+  <BiomesNEO_HighlandRock.description>달의 분지 암석은 대부분 회장석으로 구성되어 있으며, 이는 용암이 아주 천천히 식을 때 생기는 화성암의 일종입니다.</BiomesNEO_HighlandRock.description>
+  <BiomesNEO_SmoothedHighland.label>매끄러운 달 분지 암석</BiomesNEO_SmoothedHighland.label>
+  <BiomesNEO_SmoothedHighland.description>새련되게 다듬어진 달 분지 암석입니다.</BiomesNEO_SmoothedHighland.description>
+  <BiomesNEO_ChunkHighland.label>달 분지 암석 덩어리</BiomesNEO_ChunkHighland.label>
+  <BiomesNEO_BlocksHighland.label>달 분지 암석 석재</BiomesNEO_BlocksHighland.label>
+  <BiomesNEO_BlocksHighland.description>달 분지 암석 석재입니다.</BiomesNEO_BlocksHighland.description>
+  <BiomesNEO_BlocksHighland.stuffProps.stuffAdjective>달 분지 암석</BiomesNEO_BlocksHighland.stuffProps.stuffAdjective>
+  <BiomesNEO_MariaRock.label>달 바다 암석</BiomesNEO_MariaRock.label>
+  <BiomesNEO_MariaRock.description>달의 바다 암석은 대부분 어두운 현무암으로 구성되어 있으며, 이는 거대한 용암 바다에서 녹은 암석이 빠르게 식을 때 형성됩니다.</BiomesNEO_MariaRock.description>
+  <BiomesNEO_SmoothedMaria.label>매끄러운 달 바다 암석</BiomesNEO_SmoothedMaria.label>
+  <BiomesNEO_SmoothedMaria.description>새련되게 다듬어진 달 바다 암석입니다.</BiomesNEO_SmoothedMaria.description>
+  <BiomesNEO_ChunkMaria.label>달 바다 암석 덩어리</BiomesNEO_ChunkMaria.label>
+  <BiomesNEO_BlocksMaria.label>달 바다 암석 석재</BiomesNEO_BlocksMaria.label>
+  <BiomesNEO_BlocksMaria.description>달 바다 암석 석재입니다.</BiomesNEO_BlocksMaria.description>
+  <BiomesNEO_BlocksMaria.stuffProps.stuffAdjective>달 바다 암석</BiomesNEO_BlocksMaria.stuffProps.stuffAdjective>
+</LanguageData>

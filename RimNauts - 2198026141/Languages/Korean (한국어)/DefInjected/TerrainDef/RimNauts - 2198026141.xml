@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <asteroidIceSmall.label>작은 얼음 소행성</asteroidIceSmall.label>
+  <asteroidIceSmall.description>적은 양의 얼음으로 뒤덮인 소행성입니다.</asteroidIceSmall.description>
+  <asteroidIceMedium.label>얼음 소행성</asteroidIceMedium.label>
+  <asteroidIceMedium.description>얼음으로 뒤덮인 소행성입니다.</asteroidIceMedium.description>
+  <asteroidIceHigh.label>큰 얼음 소행성</asteroidIceHigh.label>
+  <asteroidIceHigh.description>많은 양의 얼음으로 뒤덮인 소행성입니다.</asteroidIceHigh.description>
+  <lunarHighland.label>달의 분지</lunarHighland.label>
+  <lunarHighland.description>달의 밝은 크레이터 지대입니다.</lunarHighland.description>
+  <lunarMaria.label>달의 바다</lunarMaria.label>
+  <lunarMaria.description>달의 어두운 평원 지대, 물과는 관련이 없습니다.</lunarMaria.description>
+  <OpenSpace.label>진공</OpenSpace.label>
+  <BiomesNEO_TileHighland.label>달의 분지 타일</BiomesNEO_TileHighland.label>
+  <BiomesNEO_FlagstoneHighland.label>달의 분지 판석</BiomesNEO_FlagstoneHighland.label>
+  <BiomesNEO_TileMaria.label>달의 바다 타일</BiomesNEO_TileMaria.label>
+  <BiomesNEO_FlagstoneMaria.label>달의 바다 판석</BiomesNEO_FlagstoneMaria.label>
+</LanguageData>

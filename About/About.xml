@@ -9,15 +9,15 @@
   </supportedVersions>
   <url>https://crowdin.com/project/RKTM</url>
   <description>
-최종 업데이트: &lt;color=orange>20.09.22&lt;/color>
+<![CDATA[최종 업데이트: <color=orange>20.09.29</color>
 
 ========================================================
-언어설정을 &lt;color=orange>Korean (한국어)&lt;/color>로 사용하세요.
+언어설정을 <color=orange>Korean (한국어)</color>로 사용하세요.
 ========================================================
 
-&lt;color=red>1.2 버전부터 번역을 읽는 방식이 변경되어 모드 배열도 불가피하게 바꾸게 되었습니다.
+<color=red>1.2 버전부터 번역을 읽는 방식이 변경되어 모드 배열도 불가피하게 바꾸게 되었습니다.
 원래는 모드 목록 중 최상위의 번역만 적용이 되었다면
-이제는 모드 목록 중 아래로 내려갈수록 위의 번역을 덮어쓰게 됩니다.&lt;/color>
+이제는 모드 목록 중 아래로 내려갈수록 위의 번역을 덮어쓰게 됩니다.</color>
 
 RKTM 권장 모드배열
 
@@ -26,7 +26,7 @@ RKTM 권장 모드배열
 .
 .
 .
-&lt;color=orange>100. [RKTM] Mod&lt;/color>
+<color=orange>100. [RKTM] Mod</color>
 
 언어를 변경하는 법
 1. 본 모드 적용
@@ -35,6 +35,13 @@ RKTM 권장 모드배열
 4. 자동으로 재시작 후 적용확인
 
 만약 English나 Korean 이외에 아무것도 나오지 않는다면 RunTimeGC 옵션 때문이니 [설정 - 모드 옵션]에서 RunTimeGC를 찾아 번역관련 체크를 해제하셔야 다른 언어도 고를 수 있습니다.
+
+<color=orange>Special Thanks</color>
+Madeline - 기술지원
+ALPHA - 기술지원
+한국 림월드 디스코드의 모든 분들
+
+토론을 통해 번역 오류나 오역을 제보해주신다면 빠르게 수정하여 작업하도록 하겠습니다.]]>
   </description>
   <loadAfter>
     <li>Ludeon.RimWorld</li>

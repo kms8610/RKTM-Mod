@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Kurin_Damage_Unmaker.label>쿠린 파괴자탄</Kurin_Damage_Unmaker.label>
+  <Kurin_Damage_Unmaker.deathMessage>{0}(이)가 쿠린 파괴자의 폭발로 죽었습니다.</Kurin_Damage_Unmaker.deathMessage>
+</LanguageData>

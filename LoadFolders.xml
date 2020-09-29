@@ -121,8 +121,6 @@
 	<li IfModActive="neceros.androidsexpanded">Androids Expanded - 2179977828</li>
 	<li IfModActive="sarg.alphabiomes">Alpha Biomes - 1841354677</li>
 	<li IfModActive="Torann.ARimworldOfMagic">A RimWorld of Magic - 1201382956</li>
-	<!-- 20.09.05 -->
-	<li IfModActive="Inoshishi3.Kuro.KTTFI3A">Kurin, The Three Tailed Fox [I3's Addon] (KTTFI3A) - 2156596056</li>
 	<!-- 20.09.07 -->
 	<li IfModActive="VanillaExpanded.VEE">Vanilla Events Expanded - 1938420742</li>
 	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.MedievalModule">Vanilla Factions Expanded - Medieval - 2023513450</li>
@@ -145,7 +143,6 @@
 	<li IfModActive="VanillaExpanded.VCookEStews">Vanilla Cooking Expanded - Stews - 2134312965</li>
 	<li IfModActive="VanillaExpanded.VHE">Vanilla Hair Expanded - 1888705256</li>
 	<li IfModActive="VanillaExpanded.VWEQ">Vanilla Weapons Expanded - Quickdraw - 1906780517</li>
-	<li IfModActive="falconne.BWM">Better Workbench Management - 935982361</li>
 	<li IfModActive="VanillaExpanded.VWE">Vanilla Weapons Expanded - 1814383360</li>
 	<li IfModActive="VanillaExpanded.VWEG">Vanilla Weapons Expanded - Grenades - 2194472657</li>
 	<!-- 20.09.15 -->
@@ -165,6 +162,19 @@
 	<li IfModActive="dismarzero.VGP.VGPGardenResources">VGP Garden Resources - 2007063451</li>
 	<!-- 20.09.22 -->
 	<li IfModActive="aRandomKiwi.MercenariesForMe">Mercenaries For Me - 1832318107</li>
+	<li IfModActive="user19990313.RuntimeGC">RuntimeGC - 2228430510</li>
+	<li IfModActive="falconne.BWM">Better Workbench Management - 935982361</li>
+	<!-- 20.09.23 -->
+	<li IfModActive="ChJees.Androids">Androids - 1541064015</li>
+	<!-- 20.09.26 -->
+	<li IfModActive="dismarzero.VGP.VGPGardenDrinksUF">VGP Garden Drinks UF - 2167582651</li>
+	<!-- 20.09.28 -->
+	<li IfModActive="Inoshishi3.Kuro.KTTFI3A">Kurin, The Three Tailed Fox (KTTFI3A) - 2156596056</li>
+	<li IfModActive="RadZerp.neoRimNauts">RimNauts - 2198026141</li>
+	<li IfModActive="Aelanna.EccentricTech.FoxysArmory">Eccentric Tech - Foxy's Armory - 1828175049</li>
+	<!-- 20.09.29 -->
+	<li IfModActive="dismarzero.VGP.VGPGardenMedicine">VGP Garden Medicine - 2007063140</li>
+	<li IfModActive="yrtwof.Rimpedia">Rimpedia - 2145524536</li>
   </v1.2>
 
 </loadFolders>

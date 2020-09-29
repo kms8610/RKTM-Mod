@@ -37,10 +37,6 @@
   <AIRobots.label>로봇</AIRobots.label>
   <AIRobots.description>정착지의 활성화 된 로봇입니다.</AIRobots.description>
 
-  <!--962732083_190818_RuntimeGC-->
-  <RGC_UI.description>No_Need_To_Translate_This_File_Because_This_Text_Is_Replaced_In_Dll</RGC_UI.description>
-  <RGC_UI.label>런타임 GC</RGC_UI.label>
-
   <!--974066449_181029_Weaponstats-->
   <Bodlosh_WeaponStats.label>무기 정보</Bodlosh_WeaponStats.label>
   <Bodlosh_WeaponStats.description>무기 정보</Bodlosh_WeaponStats.description>
