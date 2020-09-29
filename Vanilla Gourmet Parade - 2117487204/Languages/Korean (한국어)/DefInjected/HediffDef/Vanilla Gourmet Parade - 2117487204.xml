@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AteMealMedicPack.label>건강식 효능</AteMealMedicPack.label>
+  <AteMealMedicPack.description>회복 능력을 향상시킵니다.</AteMealMedicPack.description>
+  <AteMealMedicPack.stages.0.label>향상됨</AteMealMedicPack.stages.0.label>
+  <AteMealSoldierPack.label>전투식량 효능</AteMealSoldierPack.label>
+  <AteMealSoldierPack.description>신체 능력을 강화합니다.</AteMealSoldierPack.description>
+  <AteMealSoldierPack.stages.0.label>향상됨</AteMealSoldierPack.stages.0.label>
+</LanguageData>

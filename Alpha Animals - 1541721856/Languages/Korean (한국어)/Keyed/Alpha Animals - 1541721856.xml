@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_AsexualHatched>{0}(이)가 무성생식 했습니다.</AA_AsexualHatched>
+  <AA_AsexualCloning>{0}(이)가 스스로를 복제했습니다.</AA_AsexualCloning>
+  <AA_AsexualHatchedEgg>{0}(이)가 포자를 뿌렸습니다.</AA_AsexualHatchedEgg>
+  <NocturnalAnimals.BodyClock>생체 시계</NocturnalAnimals.BodyClock>
+  <NocturnalAnimals.BodyClock_Description>동물이 언제 자고 언제 깨어있는지 결정합니다.
+
+주행성 동물들은 밤에 자고 낮에는 깨어있는 반면, 야행성 동물들은 낮에 자고 밤에는 깨어있습니다. 박명박모성 동물들은 주로 해 질 녘에 활동합니다.</NocturnalAnimals.BodyClock_Description>
+  <NocturnalAnimals.BodyClock_Diurnal>주행성</NocturnalAnimals.BodyClock_Diurnal>
+  <NocturnalAnimals.BodyClock_Nocturnal>야행성</NocturnalAnimals.BodyClock_Nocturnal>
+  <NocturnalAnimals.BodyClock_Crepuscular>박명박모성</NocturnalAnimals.BodyClock_Crepuscular>
+  <AA_TimeToMetamorphosis>변태까지 남은 시간 :</AA_TimeToMetamorphosis>
+  <LetterLabelColossalAerofleetPasses>거대 에어로플릿</LetterLabelColossalAerofleetPasses>
+  <LetterColossalAerofleetPasses>주변을 배회하며 날아다니는 이상한 생물체입니다.
+
+작은 개체들은 큰 개체에 이끌려 아주 가까이 붙어 따라다니는 특성을 보이며, 그다지 위협적이지는 않은 것 같습니다. 
+
+이들은 먹이를 다 먹고나면 지역을 떠날 것입니다.</LetterColossalAerofleetPasses>
+  <LetterLabelSkyAsteroid>이상한 소행성</LetterLabelSkyAsteroid>
+  <LetterSkyAsteroid>작고 이상한 소행성이 행성의 대기를 가르고 있습니다. 충돌이 임박했습니다.</LetterSkyAsteroid>
+  <LetterLabelBumbledroneMigration>호박말벌 대이동</LetterLabelBumbledroneMigration>
+  <LetterBumbledroneMigration>이 지역에 호박말벌 여왕이 이끄는 작은 호박말벌 무리가 나타났습니다.
+
+호박말벌은 위협을 가하지 않는 이상, 공격적이지 않습니다.
+
+정착지는 저들에겐 너무 시끄러우니 아마도 금방 조용한 곳을 찾아 지역을 떠날 것입니다.</LetterBumbledroneMigration>
+  <LetterLabelManhuntingArcticLion>극지사자 사냥개시</LetterLabelManhuntingArcticLion>
+  <ManhuntingArcticLion>극지사자가 그림자 속에 숨어서 정착민 중 한 명을 노리고 있습니다.
+
+사냥이 시작된 이상 정착민들에게 공격을 받거나 정착민을 공격하기 직전까지는 거의 눈에 보이지 않을 것입니다. 정착민들을 징집하면 알아서 경계도 가능하고 자동으로 방어도 가능할 것입니다. 서둘러 준비하세요!
+
+극지사자들은 강력하며, 추운 기후에서 사육되어 살아남기 위해 유전적으로 조작된 생물들입니다.</ManhuntingArcticLion>
+  <LetterLabelBlizzariskClutchMother>블리자리스크 무리어미</LetterLabelBlizzariskClutchMother>
+  <BlizzariskClutchMother>'블리자리스크'라고 불리며 추운 기후에 적응한 거대 거미가 정착지를 방황하고 있습니다.
+
+이 블리자리스크는 일반적인 개체보다 훨씬 더 커다란 개체로, 배에 알주머니를 배고있습니다. 서둘러 처리하지 않으면 끔찍한 일이 일어날 지도 모릅니다.</BlizzariskClutchMother>
+  <LetterLabelDunealiskClutchMother>두니아리스크 무리어미</LetterLabelDunealiskClutchMother>
+  <DunealiskClutchMother>더운 기후에 적응한 '두니아리스크'라고 불리는 거대한 거미가 우리 영토를 방황하고 있습니다.
+
+이 두니아리스크는 일반적인 개체보다 훨씬 더 커다란 개체로, 배에 알주머니를 배고있습니다. 서둘러 처리하지 않으면 재앙을 초래할지도 모릅니다.</DunealiskClutchMother>
+  <LetterLabelFeraliskClutchMother>페라리스크 무리어미</LetterLabelFeraliskClutchMother>
+  <FeraliskClutchMother>'페라리스크'라고 불리는 거대한 거미가 우리 영토를 방황하고 있습니다.
+
+이 페라리스크는 일반적인 개체보다 훨씬 더 커다란 개체로, 배에 알주머니를 배고있습니다. 서둘러 처리하지 않으면 재앙을 초래할지도 모릅니다.</FeraliskClutchMother>
+  <LetterLabelSummitCrab>바위게</LetterLabelSummitCrab>
+  <SummitCrab>거대한 바위 안에 살고있는 소라게가 정착지를 가로지르는 탓에 땅이 격하게 흔들립니다.
+
+특별히 공격적이지는 않지만 총격에 거의 영향을 받지 않으며, 멈추지 않으면 경로상에 아무것도 남아나질 않을 것입니다.</SummitCrab>
+  <LetterLabelCactipinePod>이상한 낙하기</LetterLabelCactipinePod>
+  <CactipineDropPod>대기중에 진입하는 낙하기의 요란한 소리가 울려퍼집니다. 탐지기가 낙하기에는 생명체가 있음을 감지했지만, 동물인지 식물인지 구분할 수 없는 이상한 형태로 나타나고 있습니다.</CactipineDropPod>
+  <LetterLabelGallatrossPasses>갈라트로스 방랑자</LetterLabelGallatrossPasses>
+  <LetterGallatrossPasses>그 어떤 용맹한 전사들도 달아날 수 밖에 없었다는 지나치도록 거대하고 강인한 생물에 대한 전설이 전해져 내려옵니다. 이 전설은 거침없는 식욕을 가진 거대한 동물, 갈라트로스의 영향을 받았음이 분명합니다. 혹시 이 동물 또한 미스터리한 트럼보와 관련이 있지는 않을까요? 아마 누구도 이 질문에 대한 해답을 알지 못할 것 같습니다.</LetterGallatrossPasses>
+  <LetterLabelBlackHiveAttack>검은 둥지 공격</LetterLabelBlackHiveAttack>
+  <LetterBlackHiveAttack>이 특이한 변경계의 곤충들은 메카노이드의 침입에 대항하기 위한 생명공학의 산물입니다. '검은 둥지'는 그 중 최고의 전력으로, 일반 개체들보다 훨씬 더 공격적이며 난공불락의 메카노이드 요새도 포위할 수 있도록 설계되었습니다. 단점이 보완된 기존의 개체들과 더불어, 새롭게 개발된 치명적인 개체 일부가 '검은 둥지'에 추가되었습니다.
+
+검은 둥지의 곤충 군단이 이 지역으로 굴을 뚫었고, 즉시 기지를 공격할 것입니다.</LetterBlackHiveAttack>
+  <HyperweaveDesc>초경조직 생산</HyperweaveDesc>
+  <AA_UraniumCrystalsDesc>우라늄 수정 등장</AA_UraniumCrystalsDesc>
+  <StoneChunkDesc>무작위 돌덩이 등장</StoneChunkDesc>
+  <StoneBlockDesc>무작위 석재 등장</StoneBlockDesc>
+  <MedicinalQuillDesc>의료용 침 성장</MedicinalQuillDesc>
+  <DevilstrandDesc>악마가닥 생산</DevilstrandDesc>
+  <SynthreadDesc>합성원단 생산</SynthreadDesc>
+  <AA_SeasonalWoolDesc>카멜레온 털 생산</AA_SeasonalWoolDesc>
+  <BoomthreadDesc>폭탄가닥 생산</BoomthreadDesc>
+  <ChunkSlagSteelDesc>강철 덩어리 등장</ChunkSlagSteelDesc>
+  <RawMushrooms>야생 버섯 성장</RawMushrooms>
+  <AA_MealNutrientPaste>영양반죽 생산</AA_MealNutrientPaste>
+  <AA_Wood>나무 '손질' 시간</AA_Wood>
+  <AA_MutantImplantsDesc>이식물 배출 시간</AA_MutantImplantsDesc>
+  <AA_CinderSilkDesc>신더비단 생산</AA_CinderSilkDesc>
+  <AA_MothSilkDesc>나방 가닥 생산</AA_MothSilkDesc>
+  <allowBlackHive>검은 둥지 습격 허용</allowBlackHive>
+  <allowStalkingLions>극지사자 사냥개시 허용</allowStalkingLions>
+  <allowCactipineDroppods>선인장뿔쥐 낙하기 사건 허용</allowCactipineDroppods>
+  <allowSpiderClutchMothers>거미 무리어미 사건 허용</allowSpiderClutchMothers>
+  <allowAerofleet>에어로플릿 대이동 사건 허용</allowAerofleet>
+  <allowGallatross>갈라트로스 대이동 사건 허용</allowGallatross>
+  <allowSummitCrab>바위게 사건 허용</allowSummitCrab>
+  <allowBumbledrones>호박말벌 대이동 사건 허용</allowBumbledrones>
+  <allowFrostmiteCorpses>서리진드기가 스스로 시체를 파내도록 허용</allowFrostmiteCorpses>
+  <allowAsteroids>아크투란 하늘장어 소행성 충돌 허용</allowAsteroids>
+  <allowAlphaMechanoids>알파 메카노이드들의 습격, 클러스터, 기타 허용</allowAlphaMechanoids>
+  <allowHelixienCorpseEffect>나선 달팽이 효과 허용 (다른 모드들에 의한 에러 발생시 끄기)</allowHelixienCorpseEffect>
+  <removeAnimalParticles>동물 오물 제거</removeAnimalParticles>
+  <disableAerofleet>야생 에어로플릿 생성 끄기</disableAerofleet>
+  <disableAnimusVox>야생 아니무스 복스 생성 끄기</disableAnimusVox>
+  <disableArcticLion>야생 극지 사자 생성 끄기</disableArcticLion>
+  <disableBarbslinger>야생 가시 전갈 생성 끄기</disableBarbslinger>
+  <disableBedBug>야생 해악충 생성 끄기</disableBedBug>
+  <disableBlizzarisk>야생 블리자리스크 생성 끄기</disableBlizzarisk>
+  <disableBoulderMit>야생 자갈게 생성 끄기</disableBoulderMit>
+  <disableBumbledrone>야생 호박말벌 생성 끄기</disableBumbledrone>
+  <disableCactipine>야생 선인장뿔쥐 생성 끄기</disableCactipine>
+  <disableDecayDrake>야생 누룩도마뱀 생성 끄기</disableDecayDrake>
+  <disableDunealisk>야생 두니아리스크 생성 끄기</disableDunealisk>
+  <disableFeralisk>야생 페라리스크 생성 끄기</disableFeralisk>
+  <disableFissionMouse>야생 선인장뿔쥐 생성 끄기</disableFissionMouse>
+  <disableFrostmite>야생 서리진드기 생성 끄기</disableFrostmite>
+  <disableGigantelope>야생 기간텔로프 생성 끄기</disableGigantelope>
+  <disableGreatDevourer>야생 거대 포식충 생성 끄기</disableGreatDevourer>
+  <disableGroundrunner>야생 땅곰 생성 끄기</disableGroundrunner>
+  <disableLockjaw>야생 자물쇠턱 하마 생성 끄기</disableLockjaw>
+  <disableMammothWorm>야생 맘모스 벌레 생성 끄기</disableMammothWorm>
+  <disableMantrap>야생 사람지옥풀 생성 끄기</disableMantrap>
+  <disableMeadowAve>야생 초원공작 생성 끄기</disableMeadowAve>
+  <disableMegaLouse>야생 메갈루스 생성 끄기</disableMegaLouse>
+  <disableNeedlepost>야생 바늘기둥 선인장 생성 끄기</disableNeedlepost>
+  <disableNeedleroll>야생 바늘공 생성 끄기</disableNeedleroll>
+  <disableNightling>야생 나이트링 생성 끄기</disableNightling>
+  <disableOcularJelly>야생 눈알 해파리 생성 끄기</disableOcularJelly>
+  <disableOvergrownColossus>야생 나무 거대늘보 생성 끄기</disableOvergrownColossus>
+  <disablePebbleMit>야생 잔돌게 생성 끄기</disablePebbleMit>
+  <disableRadyak>야생 라디악 생성 끄기</disableRadyak>
+  <disableRaptorShrimp>야생 랩터 쉬림프 생성 끄기</disableRaptorShrimp>
+  <disableSandLion>야생 모래사자 생성 끄기</disableSandLion>
+  <disableSandSquid>야생 모래징어 생성 끄기</disableSandSquid>
+  <disableShockGoat>야생 전기 염소 생성 끄기</disableShockGoat>
+  <disableSlurrypede>야생 슬러리피드 생성 끄기</disableSlurrypede>
+  <disableTetraSlug>야생 테트라 슬러그 생성 끄기</disableTetraSlug>
+  <disableThermadon>야생 테르마돈 생성 끄기</disableThermadon>
+  <disableWildpawn>야생 와일드폰 생성 끄기</disableWildpawn>
+  <disableWildpod>야생 와일드포드 생성 끄기</disableWildpod>
+  <disableAgaripod>야생 아가리포드 생성 끄기</disableAgaripod>
+  <disableInfectedAerofleet>야생 감염된 에어로플릿 생성 끄기</disableInfectedAerofleet>
+  <disableJunglelisk>야생 정글리스크 생성 끄기</disableJunglelisk>
+  <disableMycoidColossus>야생 곰팡이 나무늘보 생성 끄기</disableMycoidColossus>
+  <disableRedGoo>야생 붉은 액체괴물 생성 끄기</disableRedGoo>
+  <disableGreenGoo>야생 녹색 액체괴물 생성 끄기</disableGreenGoo>
+  <disableRedSpore>야생 촉수포자 생성 끄기</disableRedSpore>
+  <disableYak>야생 카멜레온 야크 생성 끄기</disableYak>
+  <disableBeetle>야생 황반 딱정벌레 생성 끄기</disableBeetle>
+  <disableDuskRat>야생 황혼쥐 생성 끄기</disableDuskRat>
+  <disableFrostBehemoth>야생 서리 베히모스 생성 끄기</disableFrostBehemoth>
+  <disableFrostling>야생 프로스트링 생성 끄기</disableFrostling>
+  <disableNightmule>야생 나이트뮬 생성 끄기</disableNightmule>
+  <disableNightram>야생 나이트램 생성 끄기</disableNightram>
+  <disableTeratogenicOriginator>야생 기형 시조 생성 끄기</disableTeratogenicOriginator>
+  <disableBloodShrimp>야생 블러드 쉬림프 생성 끄기</disableBloodShrimp>
+  <disableCinderlisk>야생 신더리스크 생성 끄기</disableCinderlisk>
+  <disableCrystalMit>야생 수정게 생성 끄기</disableCrystalMit>
+  <disableHelixien>야생 나선 달팽이 생성 끄기</disableHelixien>
+  <disableRazorjack>야생 레이저잭 생성 끄기</disableRazorjack>
+  <disableRipperHound>야생 리퍼 하운드 생성 끄기</disableRipperHound>
+  <disableRoughPlatedMonitor>야생 거친 피부 큰 도마뱀 생성 끄기</disableRoughPlatedMonitor>
+  <disableSwarmling>야생 스웜링 생성 끄기</disableSwarmling>
+  <disableAtispec>야생 아티스펙 생성 끄기</disableAtispec>
+  <disablePlasmorph>야생 플라스모프 생성 끄기</disablePlasmorph>
+</LanguageData>

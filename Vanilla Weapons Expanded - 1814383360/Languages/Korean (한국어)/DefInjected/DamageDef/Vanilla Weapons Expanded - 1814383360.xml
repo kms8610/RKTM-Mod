@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Shock.label>충격</VWE_Shock.label>
+  <VWE_Shock.deathMessage>{0}(이)가 충격을 받아 사망했습니다.</VWE_Shock.deathMessage>
+  <VWE_HauntingFlame.label>화염</VWE_HauntingFlame.label>
+  <VWE_HauntingFlame.deathMessage>{0}(이)가 불에 타 사망했습니다.</VWE_HauntingFlame.deathMessage>
+  <VWE_Extinguish.label>진화</VWE_Extinguish.label>
+  <Dam_OPToxin.label>유독 기체</Dam_OPToxin.label>
+  <VWE_ToxicGas.label>유독 기체</VWE_ToxicGas.label>
+</LanguageData>

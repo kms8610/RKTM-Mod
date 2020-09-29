@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PrisonLabor_PrisonerChains.description>이 정착민은 수감자 사슬을 착용하고 있습니다.\n참고: 기본 바닐라 장치지만, 건강 창에 표시됩니다.</PrisonLabor_PrisonerChains.description>
+  <PrisonLabor_PrisonerChains.label>수감자 사슬</PrisonLabor_PrisonerChains.label>
+  <PrisonLabor_PrisonerChains.stages.0.label>비활성화</PrisonLabor_PrisonerChains.stages.0.label>
+  <PrisonLabor_PrisonerChains.stages.1.label>활성화</PrisonLabor_PrisonerChains.stages.1.label>
+</LanguageData>

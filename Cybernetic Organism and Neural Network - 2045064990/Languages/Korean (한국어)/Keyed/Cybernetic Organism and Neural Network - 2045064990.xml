@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ESP_StatsReport_StatsFromHediffs>연결된 에너지 링크</ESP_StatsReport_StatsFromHediffs>
+  <EnableLight>보이는 폰 손전등 켜기/끄기</EnableLight>
+  <refreshrate>조명 상태 새로 고침 빈도(프레임속도에 더 적합)</refreshrate>
+
+</LanguageData>

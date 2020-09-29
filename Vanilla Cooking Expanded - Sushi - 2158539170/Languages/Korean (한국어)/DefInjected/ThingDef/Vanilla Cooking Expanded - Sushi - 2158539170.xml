@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- sushi prep table -->
+  <VCE_SushiPrepTable.label>초밥 요리 테이블</VCE_SushiPrepTable.label>
+  <!-- A working table to cut, slice and prepare all kinds of sushi. -->
+  <VCE_SushiPrepTable.description>생선을 자르고 초밥을 만드는 테이블 입니다.</VCE_SushiPrepTable.description>
+  <!-- soy sauce fermenter -->
+  <VCE_SoyFermenter.label>간장 발효기</VCE_SoyFermenter.label>
+  <!-- A soy fermenter is a cilindrical, metallic drum where soybeans are pressed, mixed with aspergillus bacteria and grain, and aged for long time periods. The result is soy sauce of increasing quality, which can be used as a food condiment. -->
+  <VCE_SoyFermenter.description>대두 발효기는 대두를 압착시켜 누룩 곰팡이와 곡물을 섞고 장기간 숙성시키는 금속성 통입니다. 숙성시키면 음식의 조미료로 쓸수 있는 간장이 나오지만 더 오래 숙성시킬수록 품질이 높아집니다.</VCE_SoyFermenter.description>
+  <!-- soy sauce -->
+  <VCE_SoySauce.label>간장</VCE_SoySauce.label>
+  <!-- A fermented paste of soybeans, roasted grain, brine, and Aspergillus bacteria. Soy sauce can be added directly to food, and is used as a dip or salt flavor in cooking, as well as providing a rich umami taste. -->
+  <VCE_SoySauce.description>대두, 볶은 곡물, 소금물, 누룩 곰팡이의 균들로 인해 발효된 소스입니다. 간장은 음식에 직접 넣을 수 있으며, 요리에서 찍어먹는 소스나 짠맛을 내는데 사용되며 풍부한 감칠맛을 제공합니다.</VCE_SoySauce.description>
+  <!-- wasabi paste -->
+  <VCE_WasabiPaste.label>와사비</VCE_WasabiPaste.label>
+  <!-- A paste made from ground wasabi rhizomes and used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. It loses its flavour and deteriorates extremely fast. -->
+  <VCE_WasabiPaste.description>고추냉이로 와사비를 만들며 초밥과 다른 음식의 매운 조미료로 사용됩니다. 혀보다 코를 더 자극한다는 점에서 칠리 페퍼 소스보다는 매운 머스타드 소스의 맛과 비슷합니다. 와사비 특유의 맛은 빠르게 사라지고 품질이 매우 빨리 나빠집니다.</VCE_WasabiPaste.description>
+  <!-- deep fried sushi -->
+  <VCE_DeepFriedSushi.label>초밥 튀김</VCE_DeepFriedSushi.label>
+  <!-- Sushi is one of the healthiest foods about. So sooner or later someone was going to deep fry it and make it the opposite. The end result is a crunchy, unhealthy yet tasty soul food - Not quite as filling as a meal, but very pleasing to eat. Deep frying sushi reduces shelf life as well unless frozen. -->
+  <VCE_DeepFriedSushi.description>초밥은 건강에 매우 좋은 음식 중 하나입니다. 그래서 곧 혹은 나중에 누군가가 그것을 튀겨서 정반대의 음식으로 만들려고 했습니다. 그 결과 바삭바삭하고 건강에 좋지는 않지만, 그만큼 맛있는 영혼의 음식으로, 식사만큼은 아니지만 먹는 것이 매우 즐거운 음식이 되었습니다. 초밥 튀김은 냉동하지 않으면 보관 수명이 줄어듭니다.</VCE_DeepFriedSushi.description>
+  <!-- soybeans -->
+  <VCE_RawSoybean.label>대두</VCE_RawSoybean.label>
+  <!-- An edible bean that can be used as a vegetable in a multitude of recipes, and most famously known as the main ingredient in delicious soy sauce. -->
+  <VCE_RawSoybean.description>여러 요리에서 채소로 사용할 수 있는 식용 콩으로, 맛있는 간장의 주재료로 잘 알려져 있습니다.</VCE_RawSoybean.description>
+  <!-- wasabi -->
+  <VCE_RawWasabi.label>고추냉이</VCE_RawWasabi.label>
+  <!-- A plant of the horseradish family. A paste made from its ground rhizomes is used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. -->
+  <VCE_RawWasabi.description>고추냉이과에 속하는 식물입니다. 고추냉이로 와사비를 만들며 초밥과 다른 음식의 매운 조미료로 사용됩니다. 혀보다 코를 더 자극한다는 점에서 칠리 페퍼 소스보다는 매운 머스타드 소스의 맛과 비슷합니다.</VCE_RawWasabi.description>
+  <!-- chirashizushi bowl (simple) -->
+  <VCE_Chirashizushi.label>지라시스시(간단한 식사)</VCE_Chirashizushi.label>
+  <!-- A simple chirashizushi bowl made from a few ingredients. In Chirashizushi rice is served in a bowl and topped with a variety of raw fish and vegetable garnishes. It is commonly eaten because it is filling, fast and easy to make. -->
+  <VCE_Chirashizushi.description>적은 양의 재료로 만드는 간단한 지라시스시입니다. 지라시즈시는 그릇에 밥을 담고 그 위에 각종 생선회와 야채 고명을 얹는 요리입니다. 빠르고 만들기 쉽기 때문에 흔히 먹는 음식입니다.</VCE_Chirashizushi.description>
+  <!-- norimaki (simple) -->
+  <VCE_Norimaki.label>노리마키(간단한 식사)</VCE_Norimaki.label>
+  <!-- Simple norimaki sushi made from a few ingredients. Norimaki are a type of sushi wrapped with seaweed. -->
+  <VCE_Norimaki.description>적은 양의 재료로 만드는 간단한 노리마키입니다. 노리마키는 김을 감싸 만드는 초밥의 일종입니다.</VCE_Norimaki.description>
+  <!-- uramaki (fine) -->
+  <VCE_Uramaki.label>우라마키(좋은 식사)</VCE_Uramaki.label>
+  <!-- Complex uramaki sushi assembled with care from a wide selection of ingredients. Uramaki is a medium-sized cylindrical piece with two or more fillings, and it differs from other maki because the rice is on the outside and the nori seaweed inside. -->
+  <VCE_Uramaki.description>다양한 재료로 정성스럽게 조리한 우라마키입니다. 우라마키는 속을 2개 이상의 재료로 채운 중간 크기의 원통형 모양으로 밥이 겉에 있고 안쪽에 김이 있어 다른 마키와는 차이가 있습니다. </VCE_Uramaki.description>
+  <!-- nigiri (fine) -->
+  <VCE_Nigiri.label>니기리(좋은 식사)</VCE_Nigiri.label>
+  <!-- Complex nigiri sushi assembled with care from a wide selection of ingredients. Nigirizushi consists of an oblong mound of sushi rice that the chef presses between the palms of the hands to form an oval-shaped ball, and a topping (the neta) draped over the ball. -->
+  <VCE_Nigiri.description>다양한 재료로 정성스럽게 조리한 니기리입니다. 니기리즈시는 요리사가 손바닥 사이로 눌러 만든 타원형 모양의 밥과 그 위에 얹은 어패류(네타)로 이루어졌습니다.</VCE_Nigiri.description>
+  <!-- temaki (lavish) -->
+  <VCE_Temaki.label>데마키(호화로운 식사)</VCE_Temaki.label>
+  <!-- A masterpiece of the culinary arts, this sushi nourishes the body, mind, and soul. Temaki is a large cone-shaped piece of nori on the outside and the ingredients spilling out the wide end. A typical temaki is about 10 centimetres long, and is eaten with fingers because it is too awkward to pick it up with chopsticks. -->
+  <VCE_Temaki.description>요리 예술의 걸작인 이 초밥은 몸과 마음과 영혼에 영양을 공급합니다. 데마키는 겉에 커다란 원뿔 모양의 김으로 둘러 쌓여있으며 넓은 끝부분에 재료가 흘러 나옵니다. 전형적인 데마키는 길이가 10cm 정도 되며, 젓가락으로 집는 것이 너무 힘들어 손으로 먹습니다.</VCE_Temaki.description>
+  <!-- futomaki (lavish) -->
+  <VCE_Futomaki.label>후토마키(호화로운 식사)</VCE_Futomaki.label>
+  <!-- A masterpiece of the culinary arts, this sushi nourishes the body, mind, and soul. Futomaki is a large cylindrical piece, usually with nori on the outside. A typical futomaki is five to six centimetres in diameter. They are often made with two, three, or more fillings that are chosen for their complementary tastes and colors. -->
+  <VCE_Futomaki.description>요리 예술의 걸작인 이 초밥은 몸과 마음과 영혼에 영양을 공급합니다. 후토마키는 큰 원통형 모양으로 겉에는 김으로 둘러 쌓여있습니다. 전형적인 후토마키는 지름이 5~6cm입니다. 후토마키는 맛과 색을 보완하기 위해 2개, 3개 혹은 그 이상의 재료들로 속을 채웁니다.</VCE_Futomaki.description>
+  <!-- gunkanmaki (gourmet) -->
+  <VCE_Gunkanmaki.label>군칸마키(미식적인 식사)</VCE_Gunkanmaki.label>
+  <!-- A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity sushi. Gunkanmaki is a special type of nigirizushi: an oval, hand-formed clump of sushi rice that has a strip of nori wrapped around its perimeter to form a vessel that is filled with some soft, loose or fine-chopped ingredient that requires the confinement of nori such as roe. -->
+  <VCE_Gunkanmaki.description>적은 양의 초밥임에도 불구하고 심미적으로 균형 잡힌, 세련되고 정교하게 준비된 음식 예술 작품입니다. 군칸마키는 특별한 종류의 니기리즈시입니다. 손으로 만든 원통형 모양의 밥 위에 어란처럼 부드럽거나 잘게 다진 재료들을 올리고, 떨어지지 않게 김으로 초밥 주위를 둘러 만듭니다.</VCE_Gunkanmaki.description>
+  <!-- oshizushi (gourmet) -->
+  <VCE_Oshizushi.label>오시즈시(미식적인 식사)</VCE_Oshizushi.label>
+  <!-- A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity sushi. In oshizushi, a block-shaped piece is formed using a wooden mold. The chef lines the bottom of the mold with the toppings, covers them with sushi rice, and then presses the lid of the mold down to create a compact, rectilinear block. The block is removed from the mold and then cut into bite-sized pieces. -->
+  <VCE_Oshizushi.description>적은 양의 초밥임에도 불구하고 심미적으로 균형 잡힌, 세련되고 정교하게 준비된 음식 예술 작품입니다. 오시즈시는 나무 틀을 사용해서 만드는 블록 모양의 초밥입니다. 요리사가 틀 바닥에 재료들을 올리고 그 위에 밥을 올립니다. 그러고 나서 틀의 뚜껑을 아래로 눌러 작고 직선으로 된 블록으로 만듭니다. 그 다음 나무 틀에서 초밥을 꺼내고 먹기 좋은 크기로 자릅니다.</VCE_Oshizushi.description>
+  <!-- soybean plant -->
+  <VCE_Soybean.label>대두</VCE_Soybean.label>
+  <!-- A species of legume widely grown for its edible bean, which has numerous uses. Soybean plants grow quite fast, but they are very sensitive to temperature, with optimum growing conditions in mean temperatures of 20 to 30 °C (68 to 86 °F). Temperatures outside that range stunt growth significantly. -->
+  <VCE_Soybean.description>널리 재배된 콩과 식물의 일종으로, 많은 용도로 쓰이고 있습니다. 대두는 상당히 빨리 자라지만, 온도에 매우 민감하여 평균 20~30°C(68~86°F)의 온도에서 성장할 수 있습니다. 그 범위에서 벗어난 온도는 성장을 크게 방해합니다.</VCE_Soybean.description>
+  <!-- wasabi plant -->
+  <VCE_Wasabi.label>고추냉이</VCE_Wasabi.label>
+  <!-- A plant of the horseradish family. A paste made from its ground rhizomes is used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. Wasabi is widely considered to be one of the most difficult plants to grow, since it needs a temperate, extremely humid environment. It will receive a growth penalty if less than 20 tiles of water are found in a 6 tile radius. -->
+  <VCE_Wasabi.description>고추냉이과에 속하는 식물입니다. 고추냉이로 와사비를 만들며 초밥과 다른 음식의 매운 조미료로 사용됩니다. 혀보다 코를 더 자극한다는 점에서 칠리 페퍼 소스보다는 매운 머스타드 소스의 맛과 비슷합니다. 고추냉이는 온난하고 엄청 습한 환경에서 성장하기 때문에 키우기 힘든 식물로 널리 알려져 있습니다.반경 6타일이내에 20개 미만의 물타일이 존재한다면 성장 페널티를 받습니다.</VCE_Wasabi.description>
+</LanguageData>

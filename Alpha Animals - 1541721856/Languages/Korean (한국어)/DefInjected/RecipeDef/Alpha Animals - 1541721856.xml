@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_ExtractUranium.label>우라늄 결정 추출</AA_ExtractUranium.label>
+  <AA_ExtractUranium.description>정제되지 않은 우라늄 결정에서 유용한 물질을 추출합니다.</AA_ExtractUranium.description>
+  <AA_ExtractUranium.jobString>TargetA에서 우라늄 결정 추출 중.</AA_ExtractUranium.jobString>
+  <AA_InstallMutantLeg.label>돌연변이 다리 이식</AA_InstallMutantLeg.label>
+  <AA_InstallMutantLeg.description>돌연변이 다리를 이식합니다.</AA_InstallMutantLeg.description>
+  <AA_InstallMutantLeg.jobString>돌연변이 다리 이식 중.</AA_InstallMutantLeg.jobString>
+  <AA_InstallMutantArm.label>돌연변이 팔 이식</AA_InstallMutantArm.label>
+  <AA_InstallMutantArm.description>돌연변이 팔을 이식합니다.</AA_InstallMutantArm.description>
+  <AA_InstallMutantArm.jobString>돌연변이 팔 이식 중.</AA_InstallMutantArm.jobString>
+  <AA_InstallMutantEye.label>돌연변이 눈 이식</AA_InstallMutantEye.label>
+  <AA_InstallMutantEye.description>돌연변이 눈을 이식합니다.</AA_InstallMutantEye.description>
+  <AA_InstallMutantEye.jobString>돌연변이 눈 이식 중.</AA_InstallMutantEye.jobString>
+  <AB_InstallSimpleTentacle.label>간단한 촉수 보철물 설치</AB_InstallSimpleTentacle.label>
+  <AB_InstallSimpleTentacle.description>간단한 촉수 보철물을 설치합니다.</AB_InstallSimpleTentacle.description>
+  <AB_InstallSimpleTentacle.jobString>간단한 촉수 보철물 설치 중.</AB_InstallSimpleTentacle.jobString>
+  <AB_InstallBionicTentacle.label>생체공학 촉수 이식</AB_InstallBionicTentacle.label>
+  <AB_InstallBionicTentacle.description>생체공학 촉수를 이식합니다.</AB_InstallBionicTentacle.description>
+  <AB_InstallBionicTentacle.jobString>생체공학 촉수 이식 중.</AB_InstallBionicTentacle.jobString>
+  <AA_InstallBionicMotionDetector.label>생체공학 시각 센서 이식</AA_InstallBionicMotionDetector.label>
+  <AA_InstallBionicMotionDetector.description>생체공학 시각 센서를 이식합니다. 수술을 위하여 8 이상의 의료 기술이 필요합니다.</AA_InstallBionicMotionDetector.description>
+  <AA_InstallBionicMotionDetector.jobString>생체공학 시각 센서 이식 중.</AA_InstallBionicMotionDetector.jobString>
+  <AB_InstallSimpleBuoyancy.label>간단한 부력 보조물 이식</AB_InstallSimpleBuoyancy.label>
+  <AB_InstallSimpleBuoyancy.description>간단한 부력 보조물을 이식합니다.</AB_InstallSimpleBuoyancy.description>
+  <AB_InstallSimpleBuoyancy.jobString>간단한 부력 보조물 이식 중.</AB_InstallSimpleBuoyancy.jobString>
+  <AA_InstallBionicBuoyancy.label>생체공학 부력 보조물 이식</AA_InstallBionicBuoyancy.label>
+  <AA_InstallBionicBuoyancy.description>생체공학 부력 보조물을 이식합니다. 수술을 위하여 8 이상의 의료 기술이 필요합니다.</AA_InstallBionicBuoyancy.description>
+  <AA_InstallBionicBuoyancy.jobString>생체공학 부력 보조물 이식 중.</AA_InstallBionicBuoyancy.jobString>
+  <AB_InstallSimpleShell.label>간단한 껍질 설치</AB_InstallSimpleShell.label>
+  <AB_InstallSimpleShell.description>간단한 껍질을 설치합니다.</AB_InstallSimpleShell.description>
+  <AB_InstallSimpleShell.jobString>간단한 껍질 설치 중.</AB_InstallSimpleShell.jobString>
+  <AA_InstallBionicShell.label>생체공학 껍질 이식</AA_InstallBionicShell.label>
+  <AA_InstallBionicShell.description>생체공학 껍질을 이식합니다. 수술을 위하여 8 이상의 의료 기술이 필요합니다.</AA_InstallBionicShell.description>
+  <AA_InstallBionicShell.jobString>생체공학 껍질 이식 중.</AA_InstallBionicShell.jobString>
+  <AB_InstallSimpleWing.label>간단한 의익 설치</AB_InstallSimpleWing.label>
+  <AB_InstallSimpleWing.description>간단한 의익을 설치합니다.</AB_InstallSimpleWing.description>
+  <AB_InstallSimpleWing.jobString>간단한 의익 설치 중.</AB_InstallSimpleWing.jobString>
+  <AA_InstallBionicWing.label>생체공학 날개 설치</AA_InstallBionicWing.label>
+  <AA_InstallBionicWing.description>생체공학 날개를 이식합니다. 수술을 위하여 8 이상의 의료 기술이 필요합니다.</AA_InstallBionicWing.description>
+  <AA_InstallBionicWing.jobString>생체공학 날개 이식 중.</AA_InstallBionicWing.jobString>
+  <AB_InstallSimpleClaw.label>간단한 발톱 설치</AB_InstallSimpleClaw.label>
+  <AB_InstallSimpleClaw.description>간단한 발톱을 설치합니다.</AB_InstallSimpleClaw.description>
+  <AB_InstallSimpleClaw.jobString>간단한 발톱 설치 중.</AB_InstallSimpleClaw.jobString>
+  <AA_InstallBionicClaw.label>생체공학 발톱 설치</AA_InstallBionicClaw.label>
+  <AA_InstallBionicClaw.description>생체공학 발톱을 이식합니다. 수술을 위하여 8 이상의 의료 기술이 필요합니다.</AA_InstallBionicClaw.description>
+  <AA_InstallBionicClaw.jobString>생체공학 발톱 설치 중.</AA_InstallBionicClaw.jobString>
+  <AA_InstallGooAcidifier.label>찐득한 산화제 설치</AA_InstallGooAcidifier.label>
+  <AA_InstallGooAcidifier.description>찐득한 산화제를 설치합니다.</AA_InstallGooAcidifier.description>
+  <AA_InstallGooAcidifier.jobString>찐득한 산화제 설치 중.</AA_InstallGooAcidifier.jobString>
+  <RB_MakeSynthreadCloth.label>실크로 합성원단 11개 만들기</RB_MakeSynthreadCloth.label>
+  <RB_MakeSynthreadCloth.description>플라스틸 가닥과 합성원단 실크로 합성원단을 생산합니다.\n\n총 11개의 옷감을 생산합니다.</RB_MakeSynthreadCloth.description>
+  <RB_MakeSynthreadCloth.jobString>합성원단 직조 중.</RB_MakeSynthreadCloth.jobString>
+  <RB_MakeHyperweaveCloth.label>실크로 초경조직 15개 만들기</RB_MakeHyperweaveCloth.label>
+  <RB_MakeHyperweaveCloth.description>플라스틸 가닥과 합성원단 실크로 초경조직을 생산합니다.\n\n총 15개의 옷감을 생산합니다.</RB_MakeHyperweaveCloth.description>
+  <RB_MakeHyperweaveCloth.jobString>초경조직 천 직조 중.</RB_MakeHyperweaveCloth.jobString>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- consumed soy sauce (from meal) -->
+  <VCE_ConsumedSoySauce.label>간장 섭취 (식사)</VCE_ConsumedSoySauce.label>
+  <!-- A fermented paste of soybeans, roasted grain, brine, and Aspergillus bacteria. Soy sauce can be added directly to food, and is used as a dip or salt flavor in cooking, as well as providing a rich umami taste. Soy sauce contains 10 times the antioxidants of red wine, and can help prevent cardiovascular diseases (increases blood pumping and filtration). -->
+  <VCE_ConsumedSoySauce.description>대두, 볶은 곡물, 소금물, 누룩 곰팡이의 균들로 인해 발효된 소스입니다. 간장은 음식에 직접 넣을 수 있으며, 요리에서 찍어먹는 소스나 짠맛을 내는데 사용되며 풍부한 감칠맛을 제공합니다. 간장은 적포도주의 10배에 달하는 항산화물질을 함유하고 있어 심혈관질환 예방에 도움을 줄 수 있습니다. (혈액 순환력 및 혈액 여과력 증가)</VCE_ConsumedSoySauce.description>
+  <!-- consumed wasabi (from meal) -->
+  <VCE_ConsumedWasabi.label>와사비 섭취 (식사)</VCE_ConsumedWasabi.label>
+  <!-- A paste made from ground wasabi rhizomes and used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. Wasabi clears your breathing and makes you feel warmer for a while. -->
+  <VCE_ConsumedWasabi.description>간 고추냉이로 만든 페이스트로 초밥과 다른 음식의 자극적인 조미료로 사용됩니다. 혀보다 코를 더 자극한다는 점에서 칠리 페퍼 소스보다는 매운 머스타드 소스의 맛과 비슷합니다. 와사비는 코가 뚫리는 느낌을 주며 잠시나마 몸을 푸근하게 만들어 줍니다.</VCE_ConsumedWasabi.description>
+  <!-- consumed simple sushi (from meal) -->
+  <VCE_AteSimpleSushi.label>간단한 초밥 섭취 (식사)</VCE_AteSimpleSushi.label>
+  <!-- I have eaten a delicious and filling sushi meal. -->
+  <VCE_AteSimpleSushi.description>맛있고 영혼을 채우는 초밥을 먹었습니다.</VCE_AteSimpleSushi.description>
+  <!-- consumed fine sushi (from meal) -->
+  <VCE_AteFineSushi.label>좋은 초밥 섭취 (식사)</VCE_AteFineSushi.label>
+  <!-- I have eaten a delicious and filling sushi meal. -->
+  <VCE_AteFineSushi.description>맛있고 영혼을 채우는 초밥을 먹었습니다.</VCE_AteFineSushi.description>
+  <!-- consumed lavish sushi (from meal) -->
+  <VCE_AteLavishSushi.label>호화로운 초밥 섭취 (식사)</VCE_AteLavishSushi.label>
+  <!-- I have eaten a delicious and filling sushi meal. -->
+  <VCE_AteLavishSushi.description>맛있고 영혼을 채우는 초밥을 먹었습니다.</VCE_AteLavishSushi.description>
+  <!-- consumed gourmet sushi (from meal) -->
+  <VCE_AteGourmetSushi.label>미식적인 초밥 섭취 (식사)</VCE_AteGourmetSushi.label>
+  <!-- I have eaten a delicious and filling sushi meal. -->
+  <VCE_AteGourmetSushi.description>맛있고 영혼을 채우는 초밥을 먹었습니다.</VCE_AteGourmetSushi.description>
+</LanguageData>

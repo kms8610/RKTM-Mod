@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CarryToCryptonest.reportString>동면 둥지에 알 운반 중.</CarryToCryptonest.reportString>
+  <OperateScannerSpace.reportString>TargetA 탐사 중.</OperateScannerSpace.reportString>
+  <HackSatellite.reportString>TargetA 해킹 중.</HackSatellite.reportString>
+  <RepairSatellite.reportString>TargetA 수리 중.</RepairSatellite.reportString>
+  <PersuadeAI.reportString>TargetA 설득 중.</PersuadeAI.reportString>
+  <HackBlackBoxConsole.reportString>TargetA 해킹 중.</HackBlackBoxConsole.reportString>
+  <LoadTorpedoTube.reportString>미사일 발사대 장전 중.</LoadTorpedoTube.reportString>
+  <ManShipBridge.reportString>함교 관리 중.</ManShipBridge.reportString>
+  <HackEnemyShip.reportString>TargetA 해킹 중.</HackEnemyShip.reportString>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IP_InsertFirstIngredient.reportString>재료 투입</IP_InsertFirstIngredient.reportString>
+  <IP_InsertSecondIngredient.reportString>재료 투입</IP_InsertSecondIngredient.reportString>
+  <IP_InsertThirdIngredient.reportString>재료 투입</IP_InsertThirdIngredient.reportString>
+  <IP_RemoveProduct.reportString>완제품을 꺼냅니다.</IP_RemoveProduct.reportString>
+  <VFEC_EquipShield.reportString>TargetA 장착 중.</VFEC_EquipShield.reportString>
+</LanguageData>

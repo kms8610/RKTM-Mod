@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ANN_NeuralNetwork.label>신경 네트워크</ANN_NeuralNetwork.label>
+  <ANN_NeuralNetwork.description>나노봇의 성능을 높이는 방법에 대해 학습합니다.</ANN_NeuralNetwork.description>
+  <ANN_CyberneticOrganism.label>사이버네틱 장기</ANN_CyberneticOrganism.label>
+  <ANN_CyberneticOrganism.description>비밀스런 군사 설계도를 이용하여 사이보그와 슈퍼솔져들을 제작합니다.</ANN_CyberneticOrganism.description>
+
+</LanguageData>

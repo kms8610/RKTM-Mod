@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MURUVWallLight>식물 성장 벽 조명</MURUVWallLight>
+  <MURUVWallLight_LightRadName>빛 반경</MURUVWallLight_LightRadName>
+  <MURUVWallLight_LightRadDesc>밝게 비춰 식물이 자라게 하는 조명의 범위. 유효한 값: 2-10. 기본값: 5</MURUVWallLight_LightRadDesc>
+  <MURUVWallLight_SteelCostName>필요한 강철량</MURUVWallLight_SteelCostName>
+  <MURUVWallLight_SteelCostDesc>벽 조명 1개가 필요한 강철량 기본값: 10</MURUVWallLight_SteelCostDesc>
+  <MURUVWallLight_PowerCostName>필요한 전력</MURUVWallLight_PowerCostName>
+  <MURUVWallLight_PowerCostDesc>벽 조명 1개가 필요한 전력량 기본값: 600</MURUVWallLight_PowerCostDesc>
+  <MURUVWallLight_DisableRestName>휴식 기간 비활성화</MURUVWallLight_DisableRestName>
+  <MURUVWallLight_DisableRestDesc>활성화하면 기본 휴식 시간 동안 벽등이 꺼지지 않습니다.</MURUVWallLight_DisableRestDesc>
+  <MURUVWallLight_WhiteModeName>햐얀색 벽 조명 모드</MURUVWallLight_WhiteModeName>
+  <MURUVWallLight_WhiteModeDesc>멋진 보라색에서 온화한 하얀색으로 교체합니다</MURUVWallLight_WhiteModeDesc>
+  <MURUVWallLight_WarningNeedWall>벽에 설치해야 합니다.</MURUVWallLight_WarningNeedWall>
+  <MURUVWallLight_WarningBlocked>타일을 보며 설치되어야 합니다.</MURUVWallLight_WarningBlocked>
+  <MURUVWallLight_WarningBoth>타일을 보면서 벽에 설치되어야 합니다.</MURUVWallLight_WarningBoth>
+  <MURUVWallLight_RadiusInvalidRange>유효하지 않은 반경 입니다. 유효한 조명 반경은 2에서 10 입니다. 가장 가까운 유효한 값으로 변경되었습니다.</MURUVWallLight_RadiusInvalidRange>
+  <MURUVWallLight_AlertReload>변경사항을 적용하기 위하여 게임을 재시작하여 주십시오.</MURUVWallLight_AlertReload>
+  <MURUVWallLight_DestroyedBlocked>식물 성장 벽 조명이 건설로 인해 파괴되었습니다.</MURUVWallLight_DestroyedBlocked>
+  <MURUVWallLight_DestroyedWall>식물 성장 벽 조명이 벽 건설로 인해 파괴되었습니다.</MURUVWallLight_DestroyedWall>
+
+</LanguageData>

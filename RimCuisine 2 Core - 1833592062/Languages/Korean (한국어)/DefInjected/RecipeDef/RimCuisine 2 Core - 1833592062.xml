@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1543723640_190818_RimCuisine-->
+  <Administer_Cigar.label>시가 투여</Administer_Cigar.label>
+  <Administer_Cigarette.label>담배 투여</Administer_Cigarette.label>
+  <Administer_Dreamstick.label>드림스틱 투여</Administer_Dreamstick.label>
+  <Administer_RC_Shrooms.label>환각버섯 투여</Administer_RC_Shrooms.label>
+  <Administer_Skag.label>스캐그 투여</Administer_Skag.label>
+  <Administer_Viko.label>비코 투여</Administer_Viko.label>
+  <Administer_Zope.label>조피 투여</Administer_Zope.label>
+  <Administer_Cigar.jobString>시가 투여 중.</Administer_Cigar.jobString>
+  <Administer_Cigarette.jobString>담배 투여 중.</Administer_Cigarette.jobString>
+  <Administer_Dreamstick.jobString>드림스틱 투여 중.</Administer_Dreamstick.jobString>
+  <Administer_RC_Shrooms.jobString>환각버섯 투여 중.</Administer_RC_Shrooms.jobString>
+  <Administer_Skag.jobString>스캐그 투여 중.</Administer_Skag.jobString>
+  <Administer_Viko.jobString>비코 투여 중.</Administer_Viko.jobString>
+  <Administer_Zope.jobString>조피 투여 중.</Administer_Zope.jobString>
+  <RC_MakeTart.label>과일 타르트 10개 굽기</RC_MakeTart.label>
+  <RC_MakeTartBulk.label>과일 타르트 25개 굽기</RC_MakeTartBulk.label>
+  <MakePastry.label>패이스트리 10개 굽기</MakePastry.label>
+  <MakePastryBulk.label>패이스트리 25개 굽기</MakePastryBulk.label>
+  <ProcessCoffee.label>커피 만들기</ProcessCoffee.label>
+  <ProcessCoffeeBulk.label>커피 대량 만들기</ProcessCoffeeBulk.label>
+  <BrewTeaBulk.label>그린 티 5잔 만들기</BrewTeaBulk.label>
+  <ProcessCoffee.description>커피 콩을 물에 끓여 맛있는 커피로 만듭니다.</ProcessCoffee.description>
+  <ProcessCoffeeBulk.description>커피 콩을 물에 끓여 맛있는 커피로 만듭니다. 대량 레시피!</ProcessCoffeeBulk.description>
+  <BrewTeaBulk.description>찻 잎을 끓여서 그린 티로 만듭니다. 한번에 5개를 만듭니다.</BrewTeaBulk.description>
+  <ProcessCoffee.jobString>커피 타는 중.</ProcessCoffee.jobString>
+  <ProcessCoffeeBulk.jobString>커피 타는 중.</ProcessCoffeeBulk.jobString>
+  <BrewTeaBulk.jobString>그린 티 만들기.</BrewTeaBulk.jobString>
+  <RecipeBase.description>음식을 깡통에 넣어 밀봉한다</RecipeBase.description>
+  <RecipeBase.jobString>음식을 깡통에 넣는 중.</RecipeBase.jobString>
+  <CookCannedFruitBulk.jobString>과일을 깡통에 넣는 중.</CookCannedFruitBulk.jobString>
+  <CookCannedFruit.jobString>과일을 깡통에 넣는 중.</CookCannedFruit.jobString>
+  <CookCannedMeatBulk.jobString>고기를 깡통에 대량으로 넣는 중.</CookCannedMeatBulk.jobString>
+  <CookCannedMeat.jobString>고기를 깡통에 넣는 중.</CookCannedMeat.jobString>
+  <CookCannedVegetablesBulk.jobString>야채를 깡통에 대량으로 넣는 중.</CookCannedVegetablesBulk.jobString>
+  <CookCannedVegetables.jobString>야채를 깡통에 넣는 중.</CookCannedVegetables.jobString>
+  <ProcessCacaoBulk.description>카카오 콩과 설탕을 결합시켜 맛있고 맛있는! 초콜릿을 만듭니다. 한번에 5개를 만듭니다.</ProcessCacaoBulk.description>
+  <ProcessCacao.description>카카오 콩과 설탕을 결합시켜 맛있고 맛있는! 초콜릿을 만듭니다.</ProcessCacao.description>
+  <RC_CookCheese.description>맛있는 치즈가 될 때까지 우유를 숙성시키세요.</RC_CookCheese.description>
+  <RC_CookCheeseBulk.description>맛있는 치즈가 될 때까지 우유를 숙성시키세요. 한번에 5개를 만듭니다.</RC_CookCheeseBulk.description>
+  <CookMealExtravagant.label>호화로운 식사 준비</CookMealExtravagant.label>
+  <CookMealFineBulk.label>좋은 식사 대량 준비</CookMealFineBulk.label>
+  <CookHeartyStew.label>진한 스튜 준비</CookHeartyStew.label>
+  <CookMealSimpleCampfire.label>간단한 식사 만들기</CookMealSimpleCampfire.label>
+  <CookMealSimpleBulk.label>간단한 식사 10개 만들기</CookMealSimpleBulk.label>
+  <CookWeakStew.label>연한 스튜 준비</CookWeakStew.label>
+  <CookMealExtravagant.jobString>호화로운 식사 조리 중.</CookMealExtravagant.jobString>
+  <CookMealFineBulk.jobString>좋은 식사 조리 중.</CookMealFineBulk.jobString>
+  <CookHeartyStew.jobString>진한 스튜 만드는 중.</CookHeartyStew.jobString>
+  <CookMealSimpleBulk.jobString>간단한 식사 조리 중.</CookMealSimpleBulk.jobString>
+  <CookMealSimpleCampfire.jobString>간단한 음식 조리 중.</CookMealSimpleCampfire.jobString>
+  <CookWeakStew.jobString>연한 스튜 조리 중.</CookWeakStew.jobString>
+  <CookMealSimpleCampfire.description>한 가지 재료로 만든 간단하고 쉬운 요리입니다.</CookMealSimpleCampfire.description>
+  <CookMealSimpleBulk.description>한 가지 재료로 만든 간단하고 쉬운 요리입니다. 한번에 10개를 만듭니다.</CookMealSimpleBulk.description>
+  <CookWeakStew.description>약간의 재료를 사용해서 부드러운 스튜를 만듭니다. 한번에 10개의 식사를 만듭니다.</CookWeakStew.description>
+  <CookMealFineBulk.description>야채나 과일과 고기를 사용해 만든 다소 복잡한 요리입니다.</CookMealFineBulk.description>
+  <CookHeartyStew.description>고기와 식물성 재료를 사용해서 진한 스튜를 만듭니다 한번에 10개의 식사를 만듭니다.</CookHeartyStew.description>
+  <CookMealExtravagant.description>고기, 곡물, 야채, 과일, 향료을 결합한 사치스로운 요리입니다. 많은 재료들이 낭비됩니다. 그래도 충분한 가치가 있습니다.</CookMealExtravagant.description>
+  <RC_CookDriedFruit.description>과일을 말려 오랫동안 보존시킵니다.</RC_CookDriedFruit.description>
+  <RC_CookDriedFruitBulk.description>과일을 말려 오랫동안 보존시킵니다. 한번에 5개를 만듭니다.</RC_CookDriedFruitBulk.description>
+  <RC_CookDriedMeat.description>고기를 말려 오랫동안 보존시킵니다.</RC_CookDriedMeat.description>
+  <RC_CookDriedMeatBulk.description>고기를 말려 오랫동안 보존시킵니다. 한번에 5개를 만듭니다.</RC_CookDriedMeatBulk.description>
+  <RC_CookDriedFruitBulk.jobString>과일 말리는 중.</RC_CookDriedFruitBulk.jobString>
+  <RC_CookDriedFruit.jobString>건과류 만드는 중.</RC_CookDriedFruit.jobString>
+  <RC_CookDriedMeatBulk.jobString>고기 말리는 중.</RC_CookDriedMeatBulk.jobString>
+  <RC_CookDriedMeat.jobString>고기 말리는 중.</RC_CookDriedMeat.jobString>
+  <ProcessHealroot.description>약뿌리의 줄기, 뿌리, 알뿌리를 추출해서 사용가능한 의약품으로 만듭니다.</ProcessHealroot.description>
+  <ProcessHealrootBulk.description>약뿌리의 줄기, 뿌리, 알뿌리를 추출해서 사용가능한 의약품으로 만듭니다. 한번에 5개를 만듭니다.</ProcessHealrootBulk.description>
+  <RC_CookFruitPreserves.description>설탕과 결합된 과일 젤리와 엄청나게 단 맛을 보존합니다.</RC_CookFruitPreserves.description>
+  <RC_CookFruitPreservesBulk.description>설탕과 결합된 과일 젤리와 엄청나게 단 맛을 보존합니다. 한번에 10개를 만듭니다.</RC_CookFruitPreservesBulk.description>
+  <MakeCandy.label>사탕 5개 만들기</MakeCandy.label>
+  <MakeCandyBulk.label>사탕 25개 만들기</MakeCandyBulk.label>
+  <RecipeBase.label>통조림 식품 만들기</RecipeBase.label>
+  <CookCannedFruit.label>과일 통조림 만들기</CookCannedFruit.label>
+  <CookCannedFruitBulk.label>과일 통조림 10개 만들기</CookCannedFruitBulk.label>
+  <CookCannedMeat.label>고기 통조림 만들기</CookCannedMeat.label>
+  <CookCannedMeatBulk.label>고기 통조림 10개 만들기</CookCannedMeatBulk.label>
+  <CookCannedVegetables.label>야채 통조림 만들기</CookCannedVegetables.label>
+  <CookCannedVegetablesBulk.label>야채 통조림 10개 만들기</CookCannedVegetablesBulk.label>
+  <RC_CookCheese.label>치즈 만들기</RC_CookCheese.label>
+  <RC_CookCheeseBulk.label>치즈 5개 만들기</RC_CookCheeseBulk.label>
+  <ProcessCacao.label>초콜릿 만들기</ProcessCacao.label>
+  <ProcessCacaoBulk.label>초콜릿 5개 만들기</ProcessCacaoBulk.label>
+  <MakeCigarettes.label>담배 만들기</MakeCigarettes.label>
+  <MakeCigars.label>시가 만들기</MakeCigars.label>
+  <Make_Dreamstick.label>드림스틱 만들기</Make_Dreamstick.label>
+  <Make_Dreamstick.description>드림스틱을 만듭니다.</Make_Dreamstick.description>
+  <RC_CookDriedFruit.label>건과류 만들기</RC_CookDriedFruit.label>
+  <RC_CookDriedFruitBulk.label>건과류 5개 만들기</RC_CookDriedFruitBulk.label>
+  <RC_CookDriedMeat.label>육포 만들기</RC_CookDriedMeat.label>
+  <RC_CookDriedMeatBulk.label>육포 5개 만들기</RC_CookDriedMeatBulk.label>
+  <ProcessGrain.label>곡물로 밀가루 만들기</ProcessGrain.label>
+  <ProcessGrainBulk.label>곡물로 밀가루 만들기 (x5)</ProcessGrainBulk.label>
+  <RC_CookFruitPreserves.label>과일 보존식량 만들기</RC_CookFruitPreserves.label>
+  <RC_CookFruitPreservesBulk.label>과일 보존식량 10개 만들기</RC_CookFruitPreservesBulk.label>
+  <MakeHardtack.label>건빵 만들기</MakeHardtack.label>
+  <MakeHardtackCampfire.label>건빵 만들기</MakeHardtackCampfire.label>
+  <MakeHardtackBulk.label>건빵 대량 만들기</MakeHardtackBulk.label>
+  <MakeHardtack.description>딱딱한 건빵이나 크래커는 당신의 허기를 몇년 동안 채워 줄겁니다. 맛은 썩 좋진 않습니다.</MakeHardtack.description>
+  <MakeHardtackCampfire.description>딱딱한 건빵이나 크래커는 당신의 허기를 몇년 동안 채워 줄겁니다. 맛은 썩 좋진 않습니다.</MakeHardtackCampfire.description>
+  <MakeHardtackBulk.description>딱딱한 건빵이나 크래커는 당신의 허기를 몇년 동안 채워 줄겁니다. 맛은 썩 좋진 않습니다.</MakeHardtackBulk.description>
+  <ProcessHealroot.label>허브 의약품 만들기</ProcessHealroot.label>
+  <ProcessHealrootBulk.label>허브 의약품 5개 만들기</ProcessHealrootBulk.label>
+  <MakeJuice.label>주스 5잔 만들기</MakeJuice.label>
+  <MakeJuiceBulk.label>주스 25잔 만들기</MakeJuiceBulk.label>
+  <ProcessAgave.label>용설란으로 주스만들기</ProcessAgave.label>
+  <ProcessAgaveBulk.label>용설란으로 주스 대량으로 만들기</ProcessAgaveBulk.label>
+  <MakePemmicanCampfire.label>페미컨 만들기</MakePemmicanCampfire.label>
+  <MakePemmicanBulk.label>페미컨 만들기</MakePemmicanBulk.label>
+  <MakePemmicanBulk.description>식물성, 동물성 재료를 섞어 만든 보존 식품입니다. 맛은 별로지만 냉장 없이도 1년 이상 보관할 수 있습니다.</MakePemmicanBulk.description>
+  <MakePemmicanCampfire.description>식물성, 동물성 재료를 섞어 만든 보존 식품입니다. 맛은 별로지만 냉장 없이도 1년 이상 보관할 수 있습니다.</MakePemmicanCampfire.description>
+  <RC_CookPickledVegetables.label>야채 절임 만들기</RC_CookPickledVegetables.label>
+  <RC_CookPickledVegetablesBulk.label>야채 절임 10개 만들기</RC_CookPickledVegetablesBulk.label>
+  <RC_PreservationRecipeBase.label>보존 식량 만들기</RC_PreservationRecipeBase.label>
+  <Make_Skag.label>스캐그 만들기</Make_Skag.label>
+  <Make_Skag.description>스캐그를 만듭니다.</Make_Skag.description>
+  <ProcessSugarcane.label>사탕수수로 설탕만들기</ProcessSugarcane.label>
+  <ProcessSugarcaneBulk.label>사탕수수로 설탕 5개 만들기</ProcessSugarcaneBulk.label>
+  <ProcessSoybean.label>두부 만들기</ProcessSoybean.label>
+  <ProcessSoybeanBulk.label>두부 대량 만들기</ProcessSoybeanBulk.label>
+  <ProcessSoybean.description>콩을 이용해 두부를 만듭니다. 우웩.</ProcessSoybean.description>
+  <ProcessSoybeanBulk.description>콩을 이용해 두부를 만듭니다. 한번에 5개를 만듭니다. 우웩</ProcessSoybeanBulk.description>
+  <Make_Viko.label>비코 만들기</Make_Viko.label>
+  <Make_Viko.description>비코를 만듭니다.</Make_Viko.description>
+  <Make_Zope.label>조피 만들기</Make_Zope.label>
+  <Make_Zope.description>조피를 만듭니다.</Make_Zope.description>
+  <MakeCandy.jobString>사탕 만드는 중.</MakeCandy.jobString>
+  <MakeCandyBulk.jobString>사탕 만드는 중.</MakeCandyBulk.jobString>
+  <MakePastry.jobString>패이스트리 굽는 중.</MakePastry.jobString>
+  <MakePastryBulk.jobString>패이스트리 굽는 중.</MakePastryBulk.jobString>
+  <RC_MakeTart.jobString>타르트 굽는 중.</RC_MakeTart.jobString>
+  <RC_MakeTartBulk.jobString>타르트 굽는 중.</RC_MakeTartBulk.jobString>
+  <RC_CookCheese.jobString>치즈 만드는 중.</RC_CookCheese.jobString>
+  <RC_CookCheeseBulk.jobString>치즈 만드는 중.</RC_CookCheeseBulk.jobString>
+  <ProcessCacao.jobString>초콜릿 만드는 중.</ProcessCacao.jobString>
+  <ProcessCacaoBulk.jobString>초콜릿 만드는 중.</ProcessCacaoBulk.jobString>
+  <MakeCigarettes.jobString>담배 만드는 중.</MakeCigarettes.jobString>
+  <MakeCigars.jobString>시가 만드는 중.</MakeCigars.jobString>
+  <Make_Dreamstick.jobString>드림스틱 만드는 중.</Make_Dreamstick.jobString>
+  <MakeHardtack.jobString>건빵 만드는 중.</MakeHardtack.jobString>
+  <MakeHardtackCampfire.jobString>건빵 만드는 중.</MakeHardtackCampfire.jobString>
+  <MakeHardtackBulk.jobString>건빵 만드는 중.</MakeHardtackBulk.jobString>
+  <ProcessHealroot.jobString>허브 의약품 만드는 중.</ProcessHealroot.jobString>
+  <ProcessHealrootBulk.jobString>허브 의약품 대량으로 만드는 중.</ProcessHealrootBulk.jobString>
+  <MakeJuice.jobString>주스 만드는 중.</MakeJuice.jobString>
+  <MakeJuiceBulk.jobString>주스 만드는 중.</MakeJuiceBulk.jobString>
+  <MakePemmicanBulk.jobString>페미컨 만드는 중.</MakePemmicanBulk.jobString>
+  <MakePemmicanCampfire.jobString>페미컨 만드는 중.</MakePemmicanCampfire.jobString>
+  <Make_Skag.jobString>스캐그 만드는 중.</Make_Skag.jobString>
+  <ProcessSoybean.jobString>두부 만드는 중.</ProcessSoybean.jobString>
+  <ProcessSoybeanBulk.jobString>두부 만드는 중.</ProcessSoybeanBulk.jobString>
+  <Make_Viko.jobString>비코 만드는 중.</Make_Viko.jobString>
+  <Make_Zope.jobString>조피 만드는 중.</Make_Zope.jobString>
+  <ProcessGrainBulk.jobString>곡물을 갈아서 밀가루 대량으로 만드는 중.</ProcessGrainBulk.jobString>
+  <ProcessGrain.jobString>곡물을 갈아서 밀가루 만드는 중.</ProcessGrain.jobString>
+  <RC_CookPickledVegetables.description>소금물에 채소를 담구어 보존합니다. 그렇게 맛이 좋지는 못합니다.</RC_CookPickledVegetables.description>
+  <RC_CookPickledVegetablesBulk.description>소금물에 채소를 담구어 보존합니다. 그렇게 맛이 좋지는 못합니다. 한번에 10개를 만듭니다.</RC_CookPickledVegetablesBulk.description>
+  <RC_CookPickledVegetablesBulk.jobString>야채 절이는 중.</RC_CookPickledVegetablesBulk.jobString>
+  <RC_CookPickledVegetables.jobString>야채 절이는 중.</RC_CookPickledVegetables.jobString>
+  <RC_MillingBase.label>재료 손질하기</RC_MillingBase.label>
+  <RC_MillingBase.description>재료를 손질합니다.</RC_MillingBase.description>
+  <RC_MillingBase.jobString>재료 손질하는 중.</RC_MillingBase.jobString>
+  <RC_PreservationRecipeBase.description>보존 식량을 만듭니다.</RC_PreservationRecipeBase.description>
+  <RC_PreservationRecipeBase.jobString>식량 보존 중.</RC_PreservationRecipeBase.jobString>
+  <RC_CookFruitPreservesBulk.jobString>과일 보존 중.</RC_CookFruitPreservesBulk.jobString>
+  <RC_CookFruitPreserves.jobString>과일 보존 중.</RC_CookFruitPreserves.jobString>
+  <ProcessAgave.description>용설란 열매를 끈적하고 맛있는 주스로 만듭니다.</ProcessAgave.description>
+  <ProcessAgaveBulk.description>용설란 열매를 끈적하고 맛있는 주스로 만듭니다. 한번에 5개를 만듭니다.</ProcessAgaveBulk.description>
+  <ProcessGrainBulk.description>곡물을 갈아서 음식을 만들때 사용할 수 있는 밀가루를 만듭니다. 한번에 10개를 만듭니다.</ProcessGrainBulk.description>
+  <ProcessGrain.description>곡물을 갈아서 음식을 만들때 사용할 수 있는 밀가루를 만듭니다.</ProcessGrain.description>
+  <ProcessSugarcane.description>사탕수수를 맛있고 이빨을 망가트리는 하얀 가루로 만듭니다.</ProcessSugarcane.description>
+  <ProcessSugarcaneBulk.description>사탕수수를 맛있고 이빨을 망가트리는 하얀 가루로 만듭니다. 한번에 5개를 만듭니다.</ProcessSugarcaneBulk.description>
+  <ProcessAgave.jobString>용설란 손질 중.</ProcessAgave.jobString>
+  <ProcessSugarcaneBulk.jobString>사탕수수 대량으로 손질 중.</ProcessSugarcaneBulk.jobString>
+  <ProcessAgaveBulk.jobString>용설란 대량으로 손질 중.</ProcessAgaveBulk.jobString>
+  <ProcessSugarcane.jobString>사탕수수 손질 중.</ProcessSugarcane.jobString>
+  <CookCannedFruit.description>과일을 멸균 된 깡통에 넣어 부패를 방지하세요.</CookCannedFruit.description>
+  <CookCannedFruitBulk.description>과일을 멸균 된 깡통에 넣어 부패를 방지하세요. 한번에 10개를 만듭니다.</CookCannedFruitBulk.description>
+  <CookCannedMeat.description>고기를 멸균 된 깡통에 넣어 부패를 방지하세요.</CookCannedMeat.description>
+  <CookCannedMeatBulk.description>고기를 멸균 된 깡통에 넣어 부패를 방지하세요. 한번에 10개를 만듭니다.</CookCannedMeatBulk.description>
+  <CookCannedVegetables.description>야채를 멸균 된 깡통에 넣어 부패를 방지하세요.</CookCannedVegetables.description>
+  <CookCannedVegetablesBulk.description>야채를 멸균 된 깡통에 넣어 부패를 방지하세요. 한번에 10개를 만듭니다.</CookCannedVegetablesBulk.description>
+  <MakeCigars.description>담뱃잎을 신경써서 손질하고 말아서 시가를 한 세트 만듭니다. 시가는 담배보다 훨쒼 세련된 형태의 담배이며 평범한 담배보다 훨쒼 더 높은 품질을 자랑합니다.</MakeCigars.description>
+  <MakeCigarettes.description>담뱃잎을 손질하고 말아서 담배를 팩에 담습니다. 한 갑당 20개비가 들어있습니다.</MakeCigarettes.description>
+  <RC_MakeTart.description>과일, 감미료, 밀가루를 혼합해서 맛있는 타르트를 만듭니다. 한번에 10개를 만듭니다.</RC_MakeTart.description>
+  <RC_MakeTartBulk.description>과일, 감미료, 밀가루를 혼합해서 맛있는 타르트를 만듭니다. 한번에 25개를 만듭니다.</RC_MakeTartBulk.description>
+  <MakeJuiceBulk.description>과일을 사용해서 맛있는 주스로 만듭니다. 한번에 25개를 만듭니다.</MakeJuiceBulk.description>
+  <MakeJuice.description>과일을 사용해서 맛있는 주스로 만듭니다. 한번에 5개를 만듭니다.</MakeJuice.description>
+  <MakeCandyBulk.description>감미료를 사용해서 맛있는 사탕을 만듭니다. 한번에 25개를 만듭니다.</MakeCandyBulk.description>
+  <MakeCandy.description>감미료를 사용해서 맛있는 사탕을 만듭니다. 한번에 5개를 만듭니다.</MakeCandy.description>
+  <MakePastry.description>감미료를 사용해서 패이스트리를 만듭니다. 파스티(pastie)말고 패이스트리요! 근처에 경찰이 있는지 조심하세요! 그들이 전부 먹어버릴테니깐. 한번에 10개를 만듭니다.</MakePastry.description>
+  <MakePastryBulk.description>감미료를 사용해서 패이스트리를 만듭니다. 파스티(pastie)말고 패이스트리요! 근처에 경찰이 있는지 조심하세요! 그들이 전부 먹어버릴테니깐. 한번에 25개를 만듭니다.</MakePastryBulk.description>
+
+</LanguageData>

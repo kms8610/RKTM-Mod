@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_ExoticProsthetics.label>외계 생물 보형물</AA_ExoticProsthetics.label>
+  <AA_ExoticProsthetics.description>간단한 보형물 촉수나 날개, 혹은 괴상한 장기들을 제작 및 활용하는 방법을 배웁니다.</AA_ExoticProsthetics.description>
+  <AA_ExoticBionics.label>외계 생물 생체공학</AA_ExoticBionics.label>
+  <AA_ExoticBionics.description>생체공학 촉수나 날개, 혹은 괴상한 장기들을 제작 및 활용하는 방법을 배웁니다.</AA_ExoticBionics.description>
+  <AA_Bioships.label>생체 함선</AA_Bioships.label>
+  <AA_Bioships.description>일부는 생명체로, 나머지는 배의 구조물로 이루어진 생체 함선입니다. 건조를 위해서는 냉동된 배아나 알과 같이 특별한 재료를 필요로 합니다.</AA_Bioships.description>
+</LanguageData>

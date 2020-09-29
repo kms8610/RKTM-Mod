@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SpaceSiteQuest.questNameRules.rulesStrings.0>questName->[site_label]</SpaceSiteQuest.questNameRules.rulesStrings.0>
+  <SpaceSiteQuest.questDescriptionRules.rulesStrings.0>questDescription->[worker_definite](이)가 함선의 감지기를 이용해 가까운 궤도에서 [site_label](을)를 발견했습니다.
+
+불행하게도, 해당 궤도는 감쇠 중이므로 [timeoutTicks_duration] 후에는 대기 재진입하면 사라집니다. 이 지역에 접근하기 위해서는 왕복선의 최대 연료 [fuelCost]%가 필요합니다 - 귀환에 필요한 연료도 확실히 챙겨 놓으세요!
+
+[allSitePartsDescriptionsExceptFirst]</SpaceSiteQuest.questDescriptionRules.rulesStrings.0>
+  <SpaceSiteQuest.root.nodes.3.name>timeoutTicks</SpaceSiteQuest.root.nodes.3.name>
+  <SpaceSiteQuest.root.nodes.4.node.nodes.0.label>임무 만료됨: [resolvedQuestName]</SpaceSiteQuest.root.nodes.4.node.nodes.0.label>
+  <SpaceSiteQuest.root.nodes.4.node.nodes.0.text>대기 상단을 가로지르는 불기둥과 함께, [site_label](은)는 행성 아래로 추락하였습니다. 가치 있던 것은 모두 타버렸습니다.</SpaceSiteQuest.root.nodes.4.node.nodes.0.text>
+
+</LanguageData>

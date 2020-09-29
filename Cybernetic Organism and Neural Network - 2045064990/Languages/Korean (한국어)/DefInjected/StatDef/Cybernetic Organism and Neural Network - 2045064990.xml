@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EnergyShieldEnergyMaxMultiplier.label>보호막 최대 에너지 승수</EnergyShieldEnergyMaxMultiplier.label>
+  <EnergyShieldEnergyMaxMultiplier.description>생물이 착용한 보호막의 최대 에너지에 대한 승수 입니다.</EnergyShieldEnergyMaxMultiplier.description>
+  <EnergyShieldRechargeRateMultiplier.label>보호막 충전률 승수</EnergyShieldRechargeRateMultiplier.label>
+  <EnergyShieldRechargeRateMultiplier.description>생물이 착용한 보호막의 충전률에 대한 승수 입니다.</EnergyShieldRechargeRateMultiplier.description>
+
+</LanguageData>

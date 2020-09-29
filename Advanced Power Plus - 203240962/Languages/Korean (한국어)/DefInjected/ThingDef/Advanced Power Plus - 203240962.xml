@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ASRG.label>고급 스털링 방사성 동위원소 발전기</ASRG.label>
+  <ASRG.description>고급 처리 엔진에 부착된, 재연료 처리 가능한 우라늄 열원을 사용하여 2500Wd를 생산합니다.
+건설되어 있는 방의 온도가 천천히 높아집니다.</ASRG.description>
+  <large_ASRG.label>대형 고급 스털링 방사성 동위원소 발전기</large_ASRG.label>
+  <large_ASRG.description>고급 처리 엔진에 부착된, 재연료 처리 가능한 우라늄 열원을 사용하여 9000Wd를 생산합니다.
+소형보다 건설되어 있는 방의 온도가 두 배로 빨리 높아집니다.</large_ASRG.description>
+  <sd_adv_powergen_adv_geothermal_generator.label>고급 지열 발전기</sd_adv_powergen_adv_geothermal_generator.label>
+  <sd_adv_powergen_adv_geothermal_generator.description>증기 간헐천으로부터 전기를 생산합니다. 반드시 간헐천에 배치해야 합니다.
+
+전력 출력 : 7500 Wd</sd_adv_powergen_adv_geothermal_generator.description>
+  <advanced_nuclear_generator.label>고급 원자력 발전기</advanced_nuclear_generator.label>
+  <advanced_nuclear_generator.description>재연료 처리 가능한 우라늄을 열원으로 하는, 고급 스털링 엔진을 사용하여 전기를 생산합니다. 플라스틸은 연료통을 과열시켜 발전기의 출력과 효율을 향상시키는 기본적인 중성자 반사기로 사용됩니다.
+
+전력 출력 : 26000 Wd</advanced_nuclear_generator.description>
+  <sd_adv_powergen_adv_wind_turbine.label>고급 풍력 발전기</sd_adv_powergen_adv_wind_turbine.label>
+  <sd_adv_powergen_adv_wind_turbine.description>바람으로부터 전력을 생상합니다. 최적의 공기 흐름을 위해 앞뒤에 넓은 공간이 필요합니다.
+
+전력 출력 : 최대 6000Wd</sd_adv_powergen_adv_wind_turbine.description>
+  <sd_adv_powergen_adv_solar_generator.label>향상된 태양광 발전기</sd_adv_powergen_adv_solar_generator.label>
+  <sd_adv_powergen_adv_solar_generator.description>해가 떠 있는 동안에만 전기를 생산하며, 어두워지면 생산하지 않습니다.
+
+전력 출력: 최대 3400 Wd</sd_adv_powergen_adv_solar_generator.description>
+  <sd_adv_powergen_WatermillGenerator.label>고급 수력 발전기</sd_adv_powergen_WatermillGenerator.label>
+  <sd_adv_powergen_WatermillGenerator.description>물의 힘으로 전기를 생산합니다. 반드시 흐르는 물 위에 건설해야 합니다. 서로 너무 가까이 두면 물의 흐름 방해로 인해 발전이 방해되고 전력 생산이 줄어듭니다.
+
+전력 출력 : 2300 Wd</sd_adv_powergen_WatermillGenerator.description>
+
+</LanguageData>

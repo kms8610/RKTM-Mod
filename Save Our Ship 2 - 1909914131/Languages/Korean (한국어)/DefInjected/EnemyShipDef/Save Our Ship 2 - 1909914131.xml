@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AgriculturalStation01.label>농업 정거장</AgriculturalStation01.label>
+  <AgriculturalStation02.label>손상된 농업 정거장</AgriculturalStation02.label>
+  <AgriculturalStationDestryd.label>버려진 농업 정거장</AgriculturalStationDestryd.label>
+  <AntigrainTrapPod.label>소형 화물 낙하기</AntigrainTrapPod.label>
+  <Assault_Beam_Cruiser_MKI.label>돌격 빔 순양함</Assault_Beam_Cruiser_MKI.label>
+  <CargoProbeLottaMechs.label>화물 낙하기</CargoProbeLottaMechs.label>
+  <CargoProbeMech.label>화물 낙하기</CargoProbeMech.label>
+  <CargoProbeSpaceBug.label>화물 탐사선</CargoProbeSpaceBug.label>
+  <ColonyShipFull.label>성간 개척선</ColonyShipFull.label>
+  <DefenseInstallation.label>[방어 시설]</DefenseInstallation.label>
+  <DefenseInstallation3Turrets.label>행성 방어 시설</DefenseInstallation3Turrets.label>
+  <DefenseInstallation4Turrets.label>행성 방어 시설</DefenseInstallation4Turrets.label>
+  <DefenseInstallation5Turrets.label>행성 방어 시설</DefenseInstallation5Turrets.label>
+  <DefenseInstallation6Turrets.label>행성 방어 시설</DefenseInstallation6Turrets.label>
+  <DerelictDestroyer01.label>버려진 구축함</DerelictDestroyer01.label>
+  <DerelictDestroyer02.label>버려진 구축함</DerelictDestroyer02.label>
+  <DerelictDestroyerBugInfest.label>버려진 구축함</DerelictDestroyerBugInfest.label>
+  <DestroyerMKI.label>구축함</DestroyerMKI.label>
+  <DreadnoughtMKI.label>노급전함</DreadnoughtMKI.label>
+  <EmptyFuelTransport.label>연료가 없는 수송기</EmptyFuelTransport.label>
+  <EmptyInterstellarTransport.label>성간 수송기</EmptyInterstellarTransport.label>
+  <EmptySpaceStation01.label>버려진 우주 정거장</EmptySpaceStation01.label>
+  <FastAttackCorvetteMKI.label>쾌속 범용함</FastAttackCorvetteMKI.label>
+  <FuelDepot02.label>연료 정거장</FuelDepot02.label>
+  <FuelDepotWreckage.label>난파된 연료 정거장</FuelDepotWreckage.label>
+  <FuelDepotWreckageBugs.label>난파된 연료 정거장</FuelDepotWreckageBugs.label>
+  <FuelDepotWreckageMechs.label>난파된 연료 정거장</FuelDepotWreckageMechs.label>
+  <FuelTransport.label>연료 수송기</FuelTransport.label>
+  <FuelTransportLowResources.label>연료 수송기</FuelTransportLowResources.label>
+  <HeavyBomberMKI.label>중무장 폭격기</HeavyBomberMKI.label>
+  <HeavyBomberMKII.label>중무장 폭격기</HeavyBomberMKII.label>
+  <HeavyFighterMKI.label>중무장 전투기</HeavyFighterMKI.label>
+  <HeavyFighterMKII.label>중무장 전투기</HeavyFighterMKII.label>
+  <HeavyFighterMKIII.label>중무장 전투기</HeavyFighterMKIII.label>
+  <HeavyFrigateMKI.label>중무장 호위함</HeavyFrigateMKI.label>
+  <Heavy_Battlecruiser.label>중무장 전투 순양함</Heavy_Battlecruiser.label>
+  <InterstellarCargoRunner.label>성간 화물 밀수선</InterstellarCargoRunner.label>
+  <InterstellarTransport.label>성간 교역선</InterstellarTransport.label>
+  <Large1EngSatellite1Turret.label>대형 공격 탐사선</Large1EngSatellite1Turret.label>
+  <Large1EngSatellite2Turrets.label>대형 공격 탐사선</Large1EngSatellite2Turrets.label>
+  <Large1EngSatellite3Turrets.label>대형 공격 탐사선</Large1EngSatellite3Turrets.label>
+  <Large2EngSatellite1Turret.label>대형 돌격 탐사선</Large2EngSatellite1Turret.label>
+  <Large2EngSatellite2Turrets.label>대형 돌격 탐사선</Large2EngSatellite2Turrets.label>
+  <Large2EngSatellite3Turrets.label>대형 돌격 탐사선</Large2EngSatellite3Turrets.label>
+  <LargeMechSphere.label>대형 메카노이드 구체</LargeMechSphere.label>
+  <LargeNoEngSatellite1Turret.label>대형 인공위성</LargeNoEngSatellite1Turret.label>
+  <LargeNoEngSatellite2Turrets.label>대형 인공위성</LargeNoEngSatellite2Turrets.label>
+  <LargeNoEngSatellite3Turrets.label>대형 인공위성</LargeNoEngSatellite3Turrets.label>
+  <LargeNoEngSatellite4Turrets.label>대형 인공위성</LargeNoEngSatellite4Turrets.label>
+  <LightFrigateMarineLander.label>소형 해병 착륙선</LightFrigateMarineLander.label>
+  <LightFrigateMissileBoat.label>경무장 호위함</LightFrigateMissileBoat.label>
+  <LightFrigateMKI.label>경무장 호위함</LightFrigateMKI.label>
+  <LightFrigateMKII.label>경무장 호위함</LightFrigateMKII.label>
+  <MechanoidMegaRing01.label>메카노이드 거대 고리 함선</MechanoidMegaRing01.label>
+  <MechExterminationSphere01.label>메카노이드 몰살 구체</MechExterminationSphere01.label>
+  <MicroFighter.label>[초소형 정찰기]</MicroFighter.label>
+  <MicroFighterMKI.label>초소형 전투기</MicroFighterMKI.label>
+  <MicroFighterMKII.label>[전투기]</MicroFighterMKII.label>
+  <MicroFighterMKIII.label>[중무장 전투기]</MicroFighterMKIII.label>
+  <MicroFighterMKIV.label>전투기</MicroFighterMKIV.label>
+  <MicroFightersx6.label>소형 전투기 분대 x6</MicroFightersx6.label>
+  <MiniMechSphere1Eng1Turret.label>소형 메카노이드 구체</MiniMechSphere1Eng1Turret.label>
+  <MiniMechSphere1Eng2Turret.label>소형 메카노이드 구체</MiniMechSphere1Eng2Turret.label>
+  <MiniMechSphere1Eng3Turret.label>소형 메카노이드 구체</MiniMechSphere1Eng3Turret.label>
+  <MiniMechSphere2Eng3Turrets.label>소형 메카노이드 구체</MiniMechSphere2Eng3Turrets.label>
+  <MiniMechSphere2Eng5Turrets.label>소형 메카노이드 구체</MiniMechSphere2Eng5Turrets.label>
+  <MiniMechSphere2Eng7Turrets.label>소형 메카노이드 구체</MiniMechSphere2Eng7Turrets.label>
+  <MiningRig.label>채굴 장치</MiningRig.label>
+  <MiningRigLowLoot.label>채굴 장치</MiningRigLowLoot.label>
+  <MiningRigPirateSurprise.label>보통 뜨거운 채굴 장치</MiningRigPirateSurprise.label>
+  <PrisonStation.label>수감 정거장</PrisonStation.label>
+  <PrisonStation01.label>우주 수감 정거장</PrisonStation01.label>
+  <PrisonStation02.label>수감 정거장</PrisonStation02.label>
+  <RandomPodCryptoCasket.label>화물 낙하기</RandomPodCryptoCasket.label>
+  <ShipBreakerFullyArmed.label>산업 함선 파쇄선</ShipBreakerFullyArmed.label>
+  <SimpleScow.label>[단순한 화물선]</SimpleScow.label>
+  <SmallSatellite1Eng1Turrets.label>소형 탐사선</SmallSatellite1Eng1Turrets.label>
+  <SmallSatellite1Eng2Turrets.label>소형 탐사선</SmallSatellite1Eng2Turrets.label>
+  <SmallSatellite1Eng3Turrets.label>소형 탐사선</SmallSatellite1Eng3Turrets.label>
+  <SmallSatellite2Eng1Turret1.label>소형 돌격 탐사선</SmallSatellite2Eng1Turret1.label>
+  <SmallSatellite2Eng1Turrets.label>소형 쾌속 탐사선</SmallSatellite2Eng1Turrets.label>
+  <SmallSatellite2Eng2Turrets.label>소형 쾌속 탐사선</SmallSatellite2Eng2Turrets.label>
+  <SmallSatellite2Eng3Turrets.label>소형 쾌속 탐사선</SmallSatellite2Eng3Turrets.label>
+  <SmallSatelliteNoEng1Turret.label>인공위성</SmallSatelliteNoEng1Turret.label>
+  <SmallSatelliteNoEng1Turrets.label>소형 공격 탐사선</SmallSatelliteNoEng1Turrets.label>
+  <SmallSatelliteNoEng2Turrets.label>소형 공격 탐사선</SmallSatelliteNoEng2Turrets.label>
+  <SmallSatelliteNoEng3Turrets.label>소형 공격 탐사선</SmallSatelliteNoEng3Turrets.label>
+  <SupplyPod01RandomLoot.label>소형 화물 낙하기</SupplyPod01RandomLoot.label>
+  <SupplyPodBugHive.label>화물 낙하기</SupplyPodBugHive.label>
+  <SupplyPodChemfuel.label>소형 화물 낙하기</SupplyPodChemfuel.label>
+  <SupplyPodCrew.label>소형 화물 낙하기</SupplyPodCrew.label>
+  <SupplyPodEmpty.label>소형 화물 낙하기</SupplyPodEmpty.label>
+  <SupplyPodHeavyMarine.label>소형 화물 낙하기</SupplyPodHeavyMarine.label>
+  <SupplyPodMarine01.label>소형 화물 낙하기</SupplyPodMarine01.label>
+  <SupplyPodMarine02.label>소형 화물 낙하기</SupplyPodMarine02.label>
+  <SupplyPodMarine03.label>소형 화물 낙하기</SupplyPodMarine03.label>
+  <SupplyPodRandom02.label>소형 화물 낙하기</SupplyPodRandom02.label>
+  <SupplyPodRandomMech.label>화물 낙하기</SupplyPodRandomMech.label>
+  <SupplyPodUraniumFuelpod.label>소형 화물 낙하기</SupplyPodUraniumFuelpod.label>
+  <UnladenFuelTanker.label>빈 연료 탱크</UnladenFuelTanker.label>
+  <UnladenMiningRig.label>빈 채굴 장치</UnladenMiningRig.label>
+  <WreckedFrigate01.label>버려진 경무장 호위함</WreckedFrigate01.label>
+  <WreckedFrigateBugs.label>버려진 경무장 호위함</WreckedFrigateBugs.label>
+  <WreckedFrigateMechs.label>버려진 경무장 호위함</WreckedFrigateMechs.label>
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <redAirPipe.label>빨간색 공기 배관</redAirPipe.label>
+  <redAirPipe.description>공기를 순환시키는 붉은색 배관입니다.</redAirPipe.description>
+  <redAirPipeHidden.label>투명한 빨간색 공기 배관</redAirPipeHidden.label>
+  <redAirPipeHidden.description>공기를 순환시키는 붉은색 지하 배관입니다.</redAirPipeHidden.description>
+  <blueAirPipe.label>파란색 공기 배관</blueAirPipe.label>
+  <blueAirPipe.description>공기를 순환시키는 파란색 배관입니다.</blueAirPipe.description>
+  <blueAirPipeHidden.label>투명한 파란색 공기 배관</blueAirPipeHidden.label>
+  <blueAirPipeHidden.description>공기를 순환시키는 파란색 지하 배관입니다.</blueAirPipeHidden.description>
+  <cyanAirPipe.label>청록색 공기 배관</cyanAirPipe.label>
+  <cyanAirPipe.description>공기를 순환시키는 청록색 배관입니다.</cyanAirPipe.description>
+  <cyanAirPipeHidden.label>투명한 청록색 공기 배관</cyanAirPipeHidden.label>
+  <cyanAirPipeHidden.description>공기를 순환시키는 청록색 지하 배관입니다.</cyanAirPipeHidden.description>
+  <IntakeFan.label>흡기 팬</IntakeFan.label>
+  <IntakeFan.description>이 장치는 가정용 흡기 설비입니다. 빨아들인 공기를 배관망으로 전송합니다.</IntakeFan.description>
+  <AirThermal.label>온도 조절기</AirThermal.label>
+  <AirThermal.description>가정에서 사용하는 온도 조절기로 설정한 온도에 맞게 공기를 가열하거나 냉각시키는 장치입니다.</AirThermal.description>
+  <LargeIntakeFan.label>산업용 흡기 팬</LargeIntakeFan.label>
+  <LargeIntakeFan.description>이 장치는 산업용 흡기 설비입니다. 빨아들인 공기를 배관망으로 전송합니다.</LargeIntakeFan.description>
+  <LargeAirThermal.label>산업용 온도 조절기</LargeAirThermal.label>
+  <LargeAirThermal.description>산업용 온도 조절기로 설정한 온도에 맞게 넓은 범위의 공기를 가열하거나 냉각시키는 장치입니다.</LargeAirThermal.description>
+  <WallAirVentSmall.label>소형 벽걸이형 송풍구</WallAirVentSmall.label>
+  <WallAirVentSmall.description>벽면에 설치하는 작은 크기의 송풍구입니다.</WallAirVentSmall.description>
+  <WallAirVent.label>대형 벽걸이형 송풍구</WallAirVent.label>
+  <WallAirVent.description>벽면에 설치하는 큰 송풍구입니다.</WallAirVent.description>
+  <SurroundAirVent.label>설치형 환기구</SurroundAirVent.label>
+  <SurroundAirVent.description>모든 방향으로 공기를 배출합니다.</SurroundAirVent.description>
+  <SurroundAirVentWide.label>설치형 넓은 환풍기</SurroundAirVentWide.label>
+  <SurroundAirVentWide.description>모든 방향으로 공기를 배출합니다.</SurroundAirVentWide.description>
+  <AirVent.label>송풍구</AirVent.label>
+  <AirVent.description>해당 구역으로 공기를 배출하는 송풍구입니다.</AirVent.description>
+
+</LanguageData>

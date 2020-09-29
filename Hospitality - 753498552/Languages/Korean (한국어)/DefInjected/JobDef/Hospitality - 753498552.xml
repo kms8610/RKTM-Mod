@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CharmGuest.reportString>TargetA 포섭 시도 중.</CharmGuest.reportString>
+  <GuestImproveRelationship.reportString>TargetA 세력과의 관계 개선 시도 중.</GuestImproveRelationship.reportString>
+  <BuyItem.reportString>TargetA 구매하는 중.</BuyItem.reportString>
+  <BrowseItems.reportString>TargetA 확인하는 중.</BrowseItems.reportString>
+  <ClaimGuestBed.reportString>침대 찜하는 중.</ClaimGuestBed.reportString>
+</LanguageData>

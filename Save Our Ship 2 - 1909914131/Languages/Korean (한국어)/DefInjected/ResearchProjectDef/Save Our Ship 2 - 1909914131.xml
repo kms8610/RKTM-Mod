@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ShipBasics.label>우주 비행 기초</ShipBasics.label>
+  <ShipBasics.description>성간 우주선의 골조와 보조 요소를 건설할 수 있습니다. 이 연구는 이 성계를 떠나기 위한 그 첫 발자국입니다.</ShipBasics.description>
+  <ShipBasics.discoveredLetterTitle>우주선 발사에 관하여</ShipBasics.discoveredLetterTitle>
+  <ShipBasics.discoveredLetterText>이 행성에서 탈출한다는 것은 마침내 얻은 자유일 수도, 고향으로 돌아가기 위한 첫걸음일 수도 있습니다.
+
+하지만 성간 우주비행을 생각하기 전에는 궤도에 도달하는 것이 필요합니다. 우주에서 우주선으로 인정받기 위한 함선의 최소 요건은 로켓 엔진, 함교, 기초 감지기, 왕복선 주기장입니다. 우주에서 살아남기 위해, 당신의 정착민은 생명유지 장치나 EVA 슈트 중 하나가 필요할 것입니다.
+
+함선이 궤도를 향해 발사되는 데 필요한 화학연료는 전적으로 함선의 크기에 비례하며, 큰 함선은 여러 개의 로켓 엔진이 필요할 수도 있습니다. 화학연료 1,000개마다 로켓 엔진을 추가하세요.</ShipBasics.discoveredLetterText>
+  <ShipReactor.label>함선 핵분열 원자로</ShipReactor.label>
+  <ShipReactor.description>장기간 전력을 공급하기 위해 우라늄 연료를 이용할 수 있습니다.</ShipReactor.description>
+  <ShipEngine.label>로켓 추진</ShipEngine.label>
+  <ShipEngine.description>함선을 위한 화학연료 엔진을 건설할 수 있습니다. 이를 이용해 궤도에 안착할 수 있지만, 그 이상은 무의미합니다.</ShipEngine.description>
+  <SoSJTDrive.label>존슨-타나카 추진기</SoSJTDrive.label>
+  <SoSJTDrive.description>비반응성 존슨-타나카 추진기의 숨겨진 원리를 이해함으로써, 행성 간 혹은 성간여행을 할 수 있습니다.
+참고: 실제로 드라이브를 건설하기 위해서는 매우 희귀한 유물인 "고차원 기관"이 필요합니다.</SoSJTDrive.description>
+  <ShipComputerCore.label>함선 컴퓨터 코어</ShipComputerCore.label>
+  <ShipComputerCore.description>장거리 유도를 위한 자아 인공지능을 함선 컴퓨터에 종속되도록 강제합니다.</ShipComputerCore.description>
+  <ShipSensorCluster.label>함선 기본 감지기</ShipSensorCluster.label>
+  <ShipSensorCluster.description>함선의 단거리 감지기를 건설할 수 있습니다.</ShipSensorCluster.description>
+  <ShipPilotSeat.label>함선 항해 관제</ShipPilotSeat.label>
+  <ShipPilotSeat.description>기초적인 컴퓨터의 보조를 통해 정착민이 함선을 조종할 수 있습니다.</ShipPilotSeat.description>
+  <ShipShuttleBay.label>왕복선 주기장</ShipShuttleBay.label>
+  <ShipShuttleBay.description>화물을 함선으로, 혹은 함선으로부터 운반할 때 사용할 수 있는 왕복선 주기장을 건설할 수 있습니다.</ShipShuttleBay.description>
+  <ShipLifeSupport.label>함선 생명유지 장치</ShipLifeSupport.label>
+  <ShipLifeSupport.description>동면 중이 아닌 정착민이 생존할 수 있도록 산소를 재활용할 수 있습니다.</ShipLifeSupport.description>
+  <ShipSpaceSuits.label>우주 유영복</ShipSpaceSuits.label>
+  <ShipSpaceSuits.description>자체적인 생명유지 장치가 포함되어 정착민이 우주선 밖에서도 생존할 수 있도록 합니다.</ShipSpaceSuits.description>
+  <ShipSpaceSuitsHeavy.label>우주 강화갑옷</ShipSpaceSuitsHeavy.label>
+  <ShipSpaceSuitsHeavy.description>강화갑옷에 생명유지 장치 기술을 접목함으로써, 우주선 밖에서도 생존할 수 있는 강화갑옷을 착용할 수 있습니다.</ShipSpaceSuitsHeavy.description>
+  <Crittersleep.label>생체 동면관</Crittersleep.label>
+  <Crittersleep.description>여러 작은 동물들을 동면시킬 수 있는 생체 동면관과 알을 동면시킬 수 있는 동면 둥지를 건설할 수 있습니다.</Crittersleep.description>
+  <ShipCapacitor.label>집합 축전지</ShipCapacitor.label>
+  <ShipCapacitor.description>유전체인 플라스틸의 특성을 활용해 고효율, 고밀도의 에너지 저장고를 건설할 수 있습니다.</ShipCapacitor.description>
+  <ShipCryptosleep.label>자동 방출</ShipCryptosleep.label>
+  <ShipCryptosleep.description>수동으로 열 필요가 없고, 유사시 탈출 낙하기로도 사용될 수 있는 특별한 동면관을 건설할 수 있습니다. 우주선마다 최소한 한 개의 동면관을 갖춰 놓는 것이 좋을 것입니다.</ShipCryptosleep.description>
+  <ShuttlePersonal.label>개인 왕복선</ShuttlePersonal.label>
+  <ShuttlePersonal.description>개인 왕복선을 건설할 수 있습니다. 재사용 가능한 수송 용기처럼 기능합니다.</ShuttlePersonal.description>
+  <ShuttleCargo.label>화물 왕복선</ShuttleCargo.label>
+  <ShuttleCargo.description>소형화된 부품을 이용한 화물 왕복선은 기존 왕복선보다 더 많은 중량을 실을 수 있습니다.</ShuttleCargo.description>
+  <ShuttleHeavy.label>중화물 왕복선</ShuttleHeavy.label>
+  <ShuttleHeavy.description>개선된 화물 왕복선을 이용해 상단의 상품을 빠르게 수송할 수 있습니다.</ShuttleHeavy.description>
+  <ShipSalvageBay.label>인양 시설</ShipSalvageBay.label>
+  <ShipSalvageBay.description>자동화된 정비 탑과 예인 드론 군단을 이용해 우주 전투 후 적 함선을 인양해 해체할 수 있습니다.</ShipSalvageBay.description>
+  <ShipTurretLaser.label>레이저 포탑</ShipTurretLaser.label>
+  <ShipTurretLaser.description>함대함 전투를 위한 소형 레이저 포탑을 건설할 수 있습니다. 공격력이 높지만, 단거리에서만 유효하게 사용할 수 있고, 미사일을 요격할 수 있습니다.</ShipTurretLaser.description>
+  <ShipTurretPlasma.label>플라즈마 포탑</ShipTurretPlasma.label>
+  <ShipTurretPlasma.description>함대함 전투를 위한 소형 플라즈마 포탑을 건설할 수 있습니다. 균형이 잘 잡혀 있는 무장이며, 중거리에서 가장 효율적입니다.</ShipTurretPlasma.description>
+  <ShipTurretKinetic.label>레일건 포탑</ShipTurretKinetic.label>
+  <ShipTurretKinetic.description>함대함 전투를 위한 소형 레일건 포탑을 건설할 수 있습니다. 장거리에서 가장 효율적입니다.</ShipTurretKinetic.description>
+  <ShipHeatsink.label>흡열기</ShipHeatsink.label>
+  <ShipHeatsink.description>함선의 무장과 보호막 열기를 흡열기를 통해 배출함으로써 더 오래 작동할 수 있습니다.</ShipHeatsink.description>
+  <ShipTurretMedium.label>순양함 무장</ShipTurretMedium.label>
+  <ShipTurretMedium.description>중형 순양함에 적합한 대형 함선용 포탑을 구축할 수 있습니다.</ShipTurretMedium.description>
+  <ShipShields.label>함선 보호막</ShipShields.label>
+  <ShipShields.description>운동-축퇴장을 이용해 함선을 보호할 수 있습니다. 보호막이 펼쳐져 있으면 방열기가 열기를 배출할 수 없으니 유의하세요.</ShipShields.description>
+  <ShipTurretLarge.label>주력함 무장</ShipTurretLarge.label>
+  <ShipTurretLarge.description>주력함에서나 볼 수 있는 중축 설치형의 무장 모듈을 건설할 수 있습니다.</ShipTurretLarge.description>
+  <ShipTorpedoes.label>함선 미사일</ShipTorpedoes.label>
+  <ShipTorpedoes.description>적 함선에 강력한 미사일을 발사할 수 있습니다. 보호막 소모에 효과적입니다.</ShipTorpedoes.description>
+
+</LanguageData>

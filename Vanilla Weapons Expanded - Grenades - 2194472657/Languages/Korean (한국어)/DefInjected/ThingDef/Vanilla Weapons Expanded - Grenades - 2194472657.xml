@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Apparel_GrenadeFragBelt.label>파쇄 수류탄 벨트</VWE_Apparel_GrenadeFragBelt.label>
+  <VWE_Apparel_GrenadeFragBelt.description>구식의 파편 수류탄 벨트. 단거리에서도 던질 수 있고, 폭발하면 어떤 것이든 파괴할 수 있습니다. 파쇄 수류탄으로 재장전합니다.</VWE_Apparel_GrenadeFragBelt.description>
+  <VWE_Apparel_GrenadeFragBelt.verbs.0.label>파쇄 수류탄 투척</VWE_Apparel_GrenadeFragBelt.verbs.0.label>
+  <VWE_Apparel_GrenadeMolotovBelt.label>화염병 벨트</VWE_Apparel_GrenadeMolotovBelt.label>
+  <VWE_Apparel_GrenadeMolotovBelt.description>가연성 액체로 가득 찬 유리병. 주둥이에는 불에 타는 천이 끼워져 있고 벨트로 묶여있습니다. 훌리건과 부족 전사들이 가장 좋아하는 무기입니다. 화염병으로 재장전합니다.</VWE_Apparel_GrenadeMolotovBelt.description>
+  <VWE_Apparel_GrenadeMolotovBelt.verbs.0.label>화염병 투척</VWE_Apparel_GrenadeMolotovBelt.verbs.0.label>
+  <VWE_Apparel_GrenadeEMPBelt.label>전자기 수류탄 벨트</VWE_Apparel_GrenadeEMPBelt.label>
+  <VWE_Apparel_GrenadeEMPBelt.description>벨트로 된 전자기 펄스가 전자 장비에 손상을 입힙니다. 전자기 수류탄으로 재장전합니다.</VWE_Apparel_GrenadeEMPBelt.description>
+  <VWE_Apparel_GrenadeEMPBelt.verbs.0.label>전자기 수류탄 투척</VWE_Apparel_GrenadeEMPBelt.verbs.0.label>
+  <VWE_Apparel_DynamiteBelt.label>다이너마이트 벨트</VWE_Apparel_DynamiteBelt.label>
+  <VWE_Apparel_DynamiteBelt.description>화학연료로 급조한 막대형 폭탄이 있는 벨트입니다. 짧은 거리를 던질 수 있는데, 일정 시간이 지나면 폭발합니다. 다이너마이트로 재장전합니다.</VWE_Apparel_DynamiteBelt.description>
+  <VWE_Apparel_DynamiteBelt.verbs.0.label>다이너마이트</VWE_Apparel_DynamiteBelt.verbs.0.label>
+  <VWE_Apparel_GrenadeSmokeBelt.label>연막탄 벨트</VWE_Apparel_GrenadeSmokeBelt.label>
+  <VWE_Apparel_GrenadeSmokeBelt.description>충격을 받으면 폭발하여 연막 장벽을 만드는 구식 투척 장비가 있는 벨트입니다. 연막탄으로 재장전합니다.</VWE_Apparel_GrenadeSmokeBelt.description>
+  <VWE_Apparel_GrenadeSmokeBelt.verbs.0.label>연막탄 투척</VWE_Apparel_GrenadeSmokeBelt.verbs.0.label>
+  <VWE_Apparel_GrenadeFlashBelt.label>섬광탄 벨트</VWE_Apparel_GrenadeFlashBelt.label>
+  <VWE_Apparel_GrenadeFlashBelt.description>벨트로 된 섬광탄입니다. 생물체 대상으로 일시적 기절을 일으켜 대상과 근접할 기회를 만듭니다. 섬광탄으로 재장전합니다.</VWE_Apparel_GrenadeFlashBelt.description>
+  <VWE_Apparel_GrenadeFlashBelt.verbs.0.label>섬광탄 투척</VWE_Apparel_GrenadeFlashBelt.verbs.0.label>
+  <VWE_Apparel_GrenadeToxicBelt.label>독소탄 벨트</VWE_Apparel_GrenadeToxicBelt.label>
+  <VWE_Apparel_GrenadeToxicBelt.description>짧은 시간에 중독을 일으키는 충전식 살상 기체가 담긴 투척 장비가 있는 벨트입니다. 독소탄으로 재장전합니다.</VWE_Apparel_GrenadeToxicBelt.description>
+  <VWE_Apparel_GrenadeToxicBelt.verbs.0.label>독소탄 투척</VWE_Apparel_GrenadeToxicBelt.verbs.0.label>
+</LanguageData>

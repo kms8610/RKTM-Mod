@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedPodInvisibleBlocker.label>투명 차단기</MedPodInvisibleBlocker.label>
+  <MedPodStandard.label>의료 포드</MedPodStandard.label>
+  <MedPodStandard.description>원자 세포 재생을 사용하여 누락된 장기 및 사지 재생을 포함한, 거의 모든 종류의 부상과 질병을 치료하는 고급 병상입니다.\n\n이는 번화계의 무료 공중 보건 진료소에서 자주 볼 수 있는 표준 모델입니다.</MedPodStandard.description>
+  <IsolinearProcessor.label>아이솔라니어 프로세서</IsolinearProcessor.label>
+  <IsolinearProcessor.description>고급 데이터 추정 및 처리 기능을 갖춘 고밀도 광학 계산 모듈입니다.\n의료 포드의 핵심 구성 요소이기도 합니다.</IsolinearProcessor.description>
+  <MedPodLux.label>고급 의료 포드</MedPodLux.label>
+  <MedPodLux.description>원자 세포 재생을 사용하여 누락된 장기 및 사지 재생을 포함한, 거의 모든 종류의 부상과 질병을 치료하는 고급 병상입니다.\n\n금박 상감 도금과 젤이 함유된 형상기억 매트리스가 적용된 고급 모델로, 진단과 치료가 더 빠르지만, 전력 소모가 더 높습니다.</MedPodLux.description>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <fueled_ASRG.label>공급형 ASRG</fueled_ASRG.label>
+  <fueled_ASRG.description>고급 스털링 방사성 동위원소 발전기를 건설한다는 것은 확실히 발전해 간다는 뜻입니다. 상당히 효율적으로 전력을 생산하나, 결국 우라늄은 고갈될 것이므로 우라늄 관의 지속적인 보충이 필요합니다.</fueled_ASRG.description>
+  <large_fueled_ASRG.label>공급형 대형 ASRG</large_fueled_ASRG.label>
+  <large_fueled_ASRG.description>더 높은 전력 공급을 위해, 대형 고급 스털링 방사성 동위원소 발전기를 건설하십시오.</large_fueled_ASRG.description>
+  <advanced_nofuel_geothermal_generator.label>고급 지열 발전기</advanced_nofuel_geothermal_generator.label>
+  <advanced_nofuel_geothermal_generator.description>끊임없이 많은 전력을 생산하기 위해, 증기 간헐천 위에 고급 지열 발전소를 건설하십시오.</advanced_nofuel_geothermal_generator.description>
+  <advanced_fueled_nuclear_generator.label>고급 원자력 발전기</advanced_fueled_nuclear_generator.label>
+  <advanced_fueled_nuclear_generator.description>첨단 원자력 발전기를 건설하여, 최고의 전력 공급을 제공 받으세요.</advanced_fueled_nuclear_generator.description>
+  <advanced_naturalfuel_wind_turbine.label>고급 풍력 발전기</advanced_naturalfuel_wind_turbine.label>
+  <advanced_naturalfuel_wind_turbine.description>더 높은 전력 발전을 위해, 고급 풍력 발전기를 건설하세요.</advanced_naturalfuel_wind_turbine.description>
+  <advanced_naturalfuel_solar_panels.label>고급 태양광 발전기</advanced_naturalfuel_solar_panels.label>
+  <advanced_naturalfuel_solar_panels.description>더 높은 전력 발전을 위해, 고급 태양광 발전기를 건설하세요.</advanced_naturalfuel_solar_panels.description>
+  <advanced_nofuel_watermill.label>고급 수력 발전기</advanced_nofuel_watermill.label>
+  <advanced_nofuel_watermill.description>안정적인 높은 전력 공급을 위해, 강에 설치할 수 있는 고급 수력 발전기를 만들 수 있습니다.</advanced_nofuel_watermill.description>
+
+</LanguageData>

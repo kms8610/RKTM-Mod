@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Lighting_MURWallLight.label>벽등</Lighting_MURWallLight.label>
+  <Lighting_MURWallLight.description>벽에 설치되도록 설계된 조명기구입니다.</Lighting_MURWallLight.description>
+  <Lighting_MURWallSunLight.label>벽 태양등</Lighting_MURWallSunLight.label>
+  <Lighting_MURWallSunLight.description>벽에 설치하도록 설계된 식물 재배용 태양 조명기구입니다.</Lighting_MURWallSunLight.description>
+  <Lighting_MURWallSunLight.comps.0.offMessage>식물 휴식 시간에는 작동하지 않습니다.</Lighting_MURWallSunLight.comps.0.offMessage>
+  <Lighting_MURWallLightRed.label>벽등 (빨간색)</Lighting_MURWallLightRed.label>
+  <Lighting_MURWallLightRed.description>벽에 설치되도록 설계된 붉은색 조명기구입니다.</Lighting_MURWallLightRed.description>
+  <Lighting_MURWallLightGreen.label>벽등 (초록색)</Lighting_MURWallLightGreen.label>
+  <Lighting_MURWallLightGreen.description>벽에 설치되도록 설계된 초록색 조명기구입니다.</Lighting_MURWallLightGreen.description>
+  <Lighting_MURWallLightBlue.label>벽등 (파란색)</Lighting_MURWallLightBlue.label>
+  <Lighting_MURWallLightBlue.description>벽에 설치되도록 설계된 파란색 조명기구입니다.</Lighting_MURWallLightBlue.description>
+  <Lighting_MURWallLightYellow.label>벽등 (노란색)</Lighting_MURWallLightYellow.label>
+  <Lighting_MURWallLightYellow.description>벽에 설치되도록 설계된 노란색 조명기구입니다.</Lighting_MURWallLightYellow.description>
+  <Lighting_MURWallLightMagenta.label>벽등 (자홍색)</Lighting_MURWallLightMagenta.label>
+  <Lighting_MURWallLightMagenta.description>벽에 설치되도록 설계된 자홍색 조명기구입니다.</Lighting_MURWallLightMagenta.description>
+  <Lighting_MURWallLightCyan.label>벽등 (청록색)</Lighting_MURWallLightCyan.label>
+  <Lighting_MURWallLightCyan.description>벽에 설치되도록 설계된 청록색 조명기구입니다.</Lighting_MURWallLightCyan.description>
+  <Lighting_MURWallLightRose.label>벽등 (장미색)</Lighting_MURWallLightRose.label>
+  <Lighting_MURWallLightRose.description>벽에 설치되도록 설계된 장미색 조명기구입니다.</Lighting_MURWallLightRose.description>
+  <Lighting_MURWallLightViolet.label>벽등 (보라색)</Lighting_MURWallLightViolet.label>
+  <Lighting_MURWallLightViolet.description>벽에 설치되도록 설계된 보라색 조명기구입니다.</Lighting_MURWallLightViolet.description>
+  <Lighting_MURWallLightAzure.label>벽등 (하늘색)</Lighting_MURWallLightAzure.label>
+  <Lighting_MURWallLightAzure.description>벽에 설치되도록 설계된 하늘색 조명기구입니다.</Lighting_MURWallLightAzure.description>
+  <Lighting_MURWallLightSpringGreen.label>벽등 (연녹색)</Lighting_MURWallLightSpringGreen.label>
+  <Lighting_MURWallLightSpringGreen.description>벽에 설치되도록 설계된 연녹색 조명기구입니다.</Lighting_MURWallLightSpringGreen.description>
+  <Lighting_MURWallLightChartreuse.label>벽등 (연노랑색)</Lighting_MURWallLightChartreuse.label>
+  <Lighting_MURWallLightChartreuse.description>벽에 설치되도록 설계된 연노랑색 조명기구입니다.</Lighting_MURWallLightChartreuse.description>
+  <Lighting_MURWallLightOrange.label>벽등 (주황색)</Lighting_MURWallLightOrange.label>
+  <Lighting_MURWallLightOrange.description>벽에 설치되도록 설계된 연주황색 조명기구입니다.</Lighting_MURWallLightOrange.description>
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VacuumDamageHediff.label>감압증</VacuumDamageHediff.label>
+  <VacuumDamageHediff.description>감압 때문에 생긴 부상입니다.</VacuumDamageHediff.description>
+  <VacuumDamageHediff.comps.0.labelTendedWell>붕대 감음</VacuumDamageHediff.comps.0.labelTendedWell>
+  <VacuumDamageHediff.comps.0.labelTendedWellInner>봉합됨</VacuumDamageHediff.comps.0.labelTendedWellInner>
+  <VacuumDamageHediff.comps.0.labelSolidTendedWell>접합됨</VacuumDamageHediff.comps.0.labelSolidTendedWell>
+  <VacuumDamageHediff.comps.2.permanentLabel>감압 흉터</VacuumDamageHediff.comps.2.permanentLabel>
+  <VacuumDamageHediff.injuryProps.destroyedLabel>감압 때문에 손실됨</VacuumDamageHediff.injuryProps.destroyedLabel>
+  <ZeroGSickness.label>무중력 질병</ZeroGSickness.label>
+  <ZeroGSickness.description>중력 부족으로 인한 일시적인 어지럼증입니다.</ZeroGSickness.description>
+  <ZeroGSickness.stages.0.label>초기-감춰짐</ZeroGSickness.stages.0.label>
+  <ZeroGSickness.stages.1.label>멀미남</ZeroGSickness.stages.1.label>
+  <ZeroGSickness.stages.2.label>어지러움</ZeroGSickness.stages.2.label>
+  <ZeroGSickness.stages.3.label>아픔</ZeroGSickness.stages.3.label>
+  <ZeroGSickness.stages.4.label>메스꺼움</ZeroGSickness.stages.4.label>
+  <ZeroGSickness.stages.5.label>구토가 멈추지 않음</ZeroGSickness.stages.5.label>
+  <ThrusterSpeed.label>우주유영 추진기 준비됨</ThrusterSpeed.label>
+  <ThrusterSpeed.description>더 이상 사용되지 않음 - 사용 금지 [림왈도: 발견 시 스샷첨부 제보요망]</ThrusterSpeed.description>
+  <ThrusterSpeed.labelNoun>추진기 활성화</ThrusterSpeed.labelNoun>
+  <SpaceHypoxia.label>저산소증</SpaceHypoxia.label>
+  <SpaceHypoxia.description>산소부족 탓인 장기 부전으로 우주 유영복이나 생명유지 장치가 있는 방을 찾지 못하면 빠르게 사망할 것입니다.</SpaceHypoxia.description>
+  <SpaceHypoxia.stages.0.label>초기</SpaceHypoxia.stages.0.label>
+  <SpaceHypoxia.stages.1.label>가벼움</SpaceHypoxia.stages.1.label>
+  <SpaceHypoxia.stages.2.label>심각함</SpaceHypoxia.stages.2.label>
+  <SpaceHypoxia.stages.3.label>극심함</SpaceHypoxia.stages.3.label>
+  <SpaceHypoxia.stages.4.label>극심함</SpaceHypoxia.stages.4.label>
+  <SpaceBeltBubbleHediff.description>이 생물체는 보호성 막에 둘러싸여 있어 진공에 노출돼도 생존할 수 있습니다.</SpaceBeltBubbleHediff.description>
+  <SpaceBeltBubbleHediff.label>생존 막</SpaceBeltBubbleHediff.label>
+
+</LanguageData>

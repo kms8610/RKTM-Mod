@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWELBeamGraphic.label>광선 빔</VWELBeamGraphic.label>
+  <LaserRandom.label>구제 광선 무기</LaserRandom.label>
+  <LaserRandom.description>많은 부품을 조립하여, 조잡한 광선 무기를 만들 수 있습니다.</LaserRandom.description>
+  <UnfinishedSalvagedLaserGun.label>미완성 광선 무기</UnfinishedSalvagedLaserGun.label>
+  <VWEL_LaserSword.label>광선검</VWEL_LaserSword.label>
+  <VWEL_LaserSword.description>광선을 뿜어내는 칼날과 손잡이로 구성된 초경량 장치입니다. 신사들의 무기입니다.</VWEL_LaserSword.description>
+  <VWEL_LaserSword.tools.0.label>손잡이</VWEL_LaserSword.tools.0.label>
+  <VWEL_LaserSword.tools.1.label>칼끝</VWEL_LaserSword.tools.1.label>
+  <VWEL_LaserSword.tools.2.label>칼날</VWEL_LaserSword.tools.2.label>
+  <VWEL_Bullet_LaserPistol.label>광선 권총 탄</VWEL_Bullet_LaserPistol.label>
+  <VWEL_Gun_LaserPistol.label>광선 권총</VWEL_Gun_LaserPistol.label>
+  <VWEL_Gun_LaserPistol.description>집중된 광선을 방출하여, 엄청난 피해를 줄 수 있는 최첨단 권총입니다.\n\n이 무기는 첨단 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.\n\n그러나 무기가 완전히 예열되면 충전지가 과열되어 사용자 주위에서 작은 폭발을 일으킬 수 있습니다.</VWEL_Gun_LaserPistol.description>
+  <VWEL_Gun_LaserPistol.verbs.0.label>총몸</VWEL_Gun_LaserPistol.verbs.0.label>
+  <VWEL_Gun_LaserPistol.tools.0.label>총열</VWEL_Gun_LaserPistol.tools.0.label>
+  <VWEL_Gun_LaserPistol.tools.1.label>손잡이</VWEL_Gun_LaserPistol.tools.1.label>
+  <VWEL_Gun_LaserSMG.label>광선 기관단총</VWEL_Gun_LaserSMG.label>
+  <VWEL_Gun_LaserSMG.description>집중된 광선을 방출하여, 엄청난 피해를 줄 수 있는 최첨단 기관단총입니다.\n\n이 무기는 첨단 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.\n\n그러나 무기가 완전히 예열되면 충전지가 과열되어 사용자 주위에서 작은 폭발을 일으킬 수 있습니다.</VWEL_Gun_LaserSMG.description>
+  <VWEL_Gun_LaserSMG.verbs.0.label>총몸</VWEL_Gun_LaserSMG.verbs.0.label>
+  <VWEL_Gun_LaserSMG.tools.0.label>총열</VWEL_Gun_LaserSMG.tools.0.label>
+  <VWEL_Gun_LaserSMG.tools.1.label>손잡이</VWEL_Gun_LaserSMG.tools.1.label>
+  <VWEL_Bullet_LaserRifle.label>광선 탄</VWEL_Bullet_LaserRifle.label>
+  <VWEL_Bullet_LaserRifle.description>집중된 광선 빔입니다.</VWEL_Bullet_LaserRifle.description>
+  <VWEL_Gun_LaserRifle.label>광선 소총</VWEL_Gun_LaserRifle.label>
+  <VWEL_Gun_LaserRifle.description>중거리에서 집중된 광선을 방출하여, 엄청난 피해를 줄 수 있는 최첨단 소총입니다.\n\n이 무기는 첨단 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.\n\n그러나 무기가 완전히 예열되면 충전지가 과열되어 사용자 주위에서 작은 폭발을 일으킬 수 있습니다.</VWEL_Gun_LaserRifle.description>
+  <VWEL_Gun_LaserRifle.verbs.0.label>총몸</VWEL_Gun_LaserRifle.verbs.0.label>
+  <VWEL_Gun_LaserRifle.tools.0.label>총열</VWEL_Gun_LaserRifle.tools.0.label>
+  <VWEL_Gun_LaserRifle.tools.1.label>손잡이</VWEL_Gun_LaserRifle.tools.1.label>
+  <VWEL_Bullet_LaserShotgun.label>광선 산탄총 탄</VWEL_Bullet_LaserShotgun.label>
+  <VWEL_Bullet_LaserShotgun.description>불완전한 광선 빔입니다.</VWEL_Bullet_LaserShotgun.description>
+  <VWEL_Gun_LaserShotgun.label>광선 산탄총</VWEL_Gun_LaserShotgun.label>
+  <VWEL_Gun_LaserShotgun.description>집중된 광선을 여러 방면으로 방출하여, 엄청난 피해를 줄 수 있는 최첨단 산탄총입니다.\n\n이 무기는 첨단 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.\n\n그러나 무기가 완전히 예열되면 충전지가 과열되어 사용자 주위에서 작은 폭발을 일으킬 수 있습니다.</VWEL_Gun_LaserShotgun.description>
+  <VWEL_Gun_LaserShotgun.verbs.0.label>총몸</VWEL_Gun_LaserShotgun.verbs.0.label>
+  <VWEL_Gun_LaserShotgun.tools.0.label>총열</VWEL_Gun_LaserShotgun.tools.0.label>
+  <VWEL_Gun_LaserShotgun.tools.1.label>손잡이</VWEL_Gun_LaserShotgun.tools.1.label>
+  <VWEL_Bullet_LaserSniperRifle.label>정밀 광선 탄</VWEL_Bullet_LaserSniperRifle.label>
+  <VWEL_Bullet_LaserSniperRifle.description>정밀한, 장거리 광선 빔입니다.</VWEL_Bullet_LaserSniperRifle.description>
+  <VWEL_Gun_LaserSniperRifle.label>광선 저격소총</VWEL_Gun_LaserSniperRifle.label>
+  <VWEL_Gun_LaserSniperRifle.description>장거리에서 집중된 광선을 방출하여, 엄청난 피해를 줄 수 있는 최첨단 저격소총입니다.\n\n이 무기는 첨단 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.\n\n그러나 무기가 완전히 예열되면 충전지가 과열되어 사용자 주위에서 작은 폭발을 일으킬 수 있습니다.</VWEL_Gun_LaserSniperRifle.description>
+  <VWEL_Gun_LaserSniperRifle.verbs.0.label>총몸</VWEL_Gun_LaserSniperRifle.verbs.0.label>
+  <VWEL_Gun_LaserSniperRifle.tools.0.label>총열</VWEL_Gun_LaserSniperRifle.tools.0.label>
+  <VWEL_Gun_LaserSniperRifle.tools.1.label>손잡이</VWEL_Gun_LaserSniperRifle.tools.1.label>
+  <VWEL_Bullet_LaserMinigun.label>광선 미니건 탄</VWEL_Bullet_LaserMinigun.label>
+  <VWEL_Bullet_LaserMinigun.description>여러 개의 총열에서 발사된 조밀한 광선 빔입니다.</VWEL_Bullet_LaserMinigun.description>
+  <VWEL_Gun_LaserMinigun.label>광선 미니건</VWEL_Gun_LaserMinigun.label>
+  <VWEL_Gun_LaserMinigun.description>집중된 광선을 지속해서 연사하여, 엄청난 피해를 줄 수 있는 최첨단 미니건입니다.\n\n이 무기는 첨단 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.\n\n그러나 무기가 완전히 예열되면 충전지가 과열되어 사용자 주위에서 작은 폭발을 일으킬 수 있습니다.</VWEL_Gun_LaserMinigun.description>
+  <VWEL_Gun_LaserMinigun.verbs.0.label>총몸</VWEL_Gun_LaserMinigun.verbs.0.label>
+  <VWEL_Gun_LaserMinigun.tools.0.label>총열</VWEL_Gun_LaserMinigun.tools.0.label>
+  <VWEL_Gun_LaserMinigun.tools.1.label>손잡이</VWEL_Gun_LaserMinigun.tools.1.label>
+  <VWEL_Bullet_TeslaGun.label>고전압 총 탄</VWEL_Bullet_TeslaGun.label>
+  <VWEL_Bullet_TeslaGun.description>고전압 장치로부터 뿜어낸 번개입니다.</VWEL_Bullet_TeslaGun.description>
+  <VWEL_Gun_TeslaGun.label>고전압 총</VWEL_Gun_TeslaGun.label>
+  <VWEL_Gun_TeslaGun.description>전자기기를 무력화시키고 적을 불태우는 번개를 방출할 수 있는 둥근 모양의 최첨단 번개 장치입니다.\n\n이 무기는 첨단 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.\n\n주로 우주 해병이 메카노이드와의 전쟁 중에 장비했었습니다.</VWEL_Gun_TeslaGun.description>
+  <VWEL_Gun_TeslaGun.verbs.0.label>총몸</VWEL_Gun_TeslaGun.verbs.0.label>
+  <VWEL_Gun_TeslaGun.tools.0.label>총열</VWEL_Gun_TeslaGun.tools.0.label>
+  <VWEL_Gun_TeslaGun.tools.1.label>손잡이</VWEL_Gun_TeslaGun.tools.1.label>
+  <VWEL_Bullet_SalvagedLaserPistol.label>불안정한 광선 권총 탄</VWEL_Bullet_SalvagedLaserPistol.label>
+  <VWEL_Gun_SalvagedLaserPistol.label>구제 광선 권총</VWEL_Gun_SalvagedLaserPistol.label>
+  <VWEL_Gun_SalvagedLaserPistol.description>불안정한 광선을 방출하여, 피해를 줄 수 있는 구제 권총입니다.\n\n이 무기는 임시 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.\n\n그러나 무기가 완전히 예열되면 충전지가 빠르게 과열되어 사용자 주위에서 작은 폭발을 일으킬 수 있습니다.</VWEL_Gun_SalvagedLaserPistol.description>
+  <VWEL_Gun_SalvagedLaserPistol.verbs.0.label>총몸</VWEL_Gun_SalvagedLaserPistol.verbs.0.label>
+  <VWEL_Gun_SalvagedLaserPistol.tools.0.label>총열</VWEL_Gun_SalvagedLaserPistol.tools.0.label>
+  <VWEL_Gun_SalvagedLaserPistol.tools.1.label>손잡이</VWEL_Gun_SalvagedLaserPistol.tools.1.label>
+  <VWEL_Bullet_SalvagedLaserRifle.label>불안정한 광선 탄</VWEL_Bullet_SalvagedLaserRifle.label>
+  <VWEL_Bullet_SalvagedLaserRifle.description>불안정한 광선 빔입니다.</VWEL_Bullet_SalvagedLaserRifle.description>
+  <VWEL_Gun_SalvagedLaserRifle.label>구제 광선 소총</VWEL_Gun_SalvagedLaserRifle.label>
+  <VWEL_Gun_SalvagedLaserRifle.description>중거리에서 불안정한 광선을 방출하여, 피해를 줄 수 있는 구제 소총입니다.\n\n이 무기는 임시 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.\n\n그러나 무기가 완전히 예열되면 충전지가 빠르게 과열되어 사용자 주위에서 작은 폭발을 일으킬 수 있습니다.</VWEL_Gun_SalvagedLaserRifle.description>
+  <VWEL_Gun_SalvagedLaserRifle.verbs.0.label>총몸</VWEL_Gun_SalvagedLaserRifle.verbs.0.label>
+  <VWEL_Gun_SalvagedLaserRifle.tools.0.label>총열</VWEL_Gun_SalvagedLaserRifle.tools.0.label>
+  <VWEL_Gun_SalvagedLaserRifle.tools.1.label>손잡이</VWEL_Gun_SalvagedLaserRifle.tools.1.label>
+  <VWEL_Bullet_SalvagedLaserShotgun.label>불안정한 광선 산탄총 탄</VWEL_Bullet_SalvagedLaserShotgun.label>
+  <VWEL_Bullet_SalvagedLaserShotgun.description>불안정하고 부서진 광선 빔입니다.</VWEL_Bullet_SalvagedLaserShotgun.description>
+  <VWEL_Gun_SalvagedLaserShotgun.label>구제 광선 산탄총</VWEL_Gun_SalvagedLaserShotgun.label>
+  <VWEL_Gun_SalvagedLaserShotgun.description>불안정한 광선을 여러 방면으로 방출하여, 피해를 줄 수 있는 구제 산탄총입니다.\n\n이 무기는 임시 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.\n\n그러나 무기가 완전히 예열되면 충전지가 빠르게 과열되어 사용자 주위에서 작은 폭발을 일으킬 수 있습니다.</VWEL_Gun_SalvagedLaserShotgun.description>
+  <VWEL_Gun_SalvagedLaserShotgun.verbs.0.label>총몸</VWEL_Gun_SalvagedLaserShotgun.verbs.0.label>
+  <VWEL_Gun_SalvagedLaserShotgun.tools.0.label>총열</VWEL_Gun_SalvagedLaserShotgun.tools.0.label>
+  <VWEL_Gun_SalvagedLaserShotgun.tools.1.label>손잡이</VWEL_Gun_SalvagedLaserShotgun.tools.1.label>
+  <VWEL_Bullet_SalvagedLaserSniperRifle.label>불안정한 정밀 광선 탄</VWEL_Bullet_SalvagedLaserSniperRifle.label>
+  <VWEL_Bullet_SalvagedLaserSniperRifle.description>불안정한 장거리 광선 빔입니다.</VWEL_Bullet_SalvagedLaserSniperRifle.description>
+  <VWEL_Gun_SalvagedLaserSniperRifle.label>구제 광선 저격소총</VWEL_Gun_SalvagedLaserSniperRifle.label>
+  <VWEL_Gun_SalvagedLaserSniperRifle.description>장거리에서 불안정한 광선을 방출하여, 피해를 줄 수 있는 구제 저격소총입니다.\n\n이 무기는 임시 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.\n\n그러나 무기가 완전히 예열되면 충전지가 빠르게 과열되어 사용자 주위에서 작은 폭발을 일으킬 수 있습니다.</VWEL_Gun_SalvagedLaserSniperRifle.description>
+  <VWEL_Gun_SalvagedLaserSniperRifle.verbs.0.label>총몸</VWEL_Gun_SalvagedLaserSniperRifle.verbs.0.label>
+  <VWEL_Gun_SalvagedLaserSniperRifle.tools.0.label>총열</VWEL_Gun_SalvagedLaserSniperRifle.tools.0.label>
+  <VWEL_Gun_SalvagedLaserSniperRifle.tools.1.label>손잡이</VWEL_Gun_SalvagedLaserSniperRifle.tools.1.label>
+</LanguageData>

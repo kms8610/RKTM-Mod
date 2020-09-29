@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- soybean fermentation -->
+  <VCE_SoyFermentation.label>대두 발효</VCE_SoyFermentation.label>
+  <!-- Soybean fermentation is the process by which soybeans are submitted to a chemical breakdown by bacteria, yeasts, or other microorganisms, transforming into new products. This research gives access to the soy sauce fermenter. -->
+  <VCE_SoyFermentation.description>대두 발효는 대두를 박테리아, 효모, 또는 다른 미생물에 의해 화학 분해되어 새로운 제품으로 변하게 만드는 과정입니다. 이 연구는 간장 발효기를 제작할 수 있게 해줍니다.</VCE_SoyFermentation.description>
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MainTab_DubsOptimizer.label>Dubs 성능 분석 항목에 대한 토글</MainTab_DubsOptimizer.label>
+  <DubsOptimizerKey.label>Dub 성능 분석</DubsOptimizerKey.label>
+  <DubsOptimizerRestartKey.label>게임 재시작</DubsOptimizerRestartKey.label>
+</LanguageData>

@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ShuttlePersonalRace.label>개인 왕복선 (선회 모드)</ShuttlePersonalRace.label>
+  <ShuttlePersonalRace.description>순회 모드로 설정된 개인 왕복선으로 상단에 포함할 수 있습니다.</ShuttlePersonalRace.description>
+  <ShuttleCargoRace.label>화물 왕복선 (선회 모드)</ShuttleCargoRace.label>
+  <ShuttleCargoRace.description>순회 모드로 설정된 화물왕복선으로 상단에 포함시킬 수 있습니다.</ShuttleCargoRace.description>
+  <ShuttleHeavyRace.label>중화물 왕복선 (선회 모드)</ShuttleHeavyRace.label>
+  <ShuttleHeavyRace.description>순회 모드로 설정된 중화물 왕복선으로 상단에 포함시킬 수 있습니다.</ShuttleHeavyRace.description>
+  <Astromite.label>별진드기</Astromite.label>
+  <Astromite.description>유전적으로 재설계된 거대한 진드기입니다. 두꺼운 키틴 장갑과 무산소성 물질대사 덕분에 우주에서도 생존할 수 있습니다. 원래 소행성 채굴생물 프로젝트를 위해 설계되었지만, 군락을 통제하기 너무 힘들어 프로젝트는 폐기되었습니다. 다른 사회성 절지동물처럼, 각 개체는 번식할 수 없습니다.</Astromite.description>
+  <Astromite.tools.0.label>아래턱</Astromite.tools.0.label>
+  <Astromite.tools.1.label>머리</Astromite.tools.1.label>
+  <Stellapede.label>스텔라피드</Stellapede.label>
+  <Stellapede.description>진공에서 적응한 스펠로피드의 변종입니다. 스텔라피드의 무산소성 물질대사 덕분에 우주에서도 영원히 생존할 수 있습니다. 주로 광물을 섭취하는 것으로 보이지만, 유기물을 감지한다면 사냥에 나설 것입니다.</Stellapede.description>
+  <Stellapede.tools.0.label>머리발톱</Stellapede.tools.0.label>
+  <Stellapede.tools.1.label>머리</Stellapede.tools.1.label>
+  <Cosmopillar.label>우주기둥</Cosmopillar.label>
+  <Cosmopillar.description>이 거대한 애벌레는 "우주에서 가장 역겨운 생물"의 미덥지 않은 명예를 가지고 있습니다. 단단한 석재를 섭취하며 자신의 점액으로 덮인 통로를 남기는 우주기둥은 원래 소행성 채굴 곤충 군락의 경호를 위해 설계되었습니다. 이 프로젝트는 오래전 폐기되었지만, 아직도 변경계 전역에서 소행성 광부는 굶주린 우주기둥을 두려워하며 살아갑니다.
+
+소문에 따르면 가장 오래된 우주기둥은 소행성 중심에서 깊은 동면에 들어가 불안정한 유전형질 때문에 더욱 끔찍한 무언가로 탈바꿈하는 중이라고 합니다.</Cosmopillar.description>
+  <Cosmopillar.tools.0.label>머리발톱</Cosmopillar.tools.0.label>
+  <Cosmopillar.tools.1.label>머리</Cosmopillar.tools.1.label>
+  <Cosmopillar.race.meatLabel>곤충 고기</Cosmopillar.race.meatLabel>
+  <ShipArchotechSpore.label>초월공학 포자</ShipArchotechSpore.label>
+  <ShipArchotechSpore.description>자기 자신을 초월공학으로 업그레이드해온 기계 자아의 코어입니다.
+
+계산 능력의 대부분이 자신의 구조와 자기 자신, 그리고 다른 알 수 없는 신비를 탐구하는 데 집중되어 있어 상당한 양의 열이 생성됩니다.</ShipArchotechSpore.description>
+  <ShipArchotechPillarA.label>초월공학 기둥</ShipArchotechPillarA.label>
+  <ShipArchotechPillarA.description>인간이 표현할 수 없는 목적을 위한 복잡하고 기괴한 장치입니다. 하지만 이것은 당신의 초월공학 포자를 어떤 방식으로든 발전시킬 수 있을 것입니다.</ShipArchotechPillarA.description>
+  <ShipArchotechPillarB.label>초월공학 기둥</ShipArchotechPillarB.label>
+  <ShipArchotechPillarB.description>인간이 표현할 수 없는 목적을 위한 복잡하고 기괴한 장치입니다. 하지만 이것은 당신의 초월공학 포자를 어떤 방식으로든 발전시킬 수 있을 것입니다.</ShipArchotechPillarB.description>
+  <ShipArchotechPillarC.label>초월공학 기둥</ShipArchotechPillarC.label>
+  <ShipArchotechPillarC.description>인간이 표현할 수 없는 목적을 위한 복잡하고 기괴한 장치입니다. 하지만 이것은 당신의 초월공학 포자를 어떤 방식으로든 발전시킬 수 있을 것입니다.</ShipArchotechPillarC.description>
+  <ShipArchotechPillarD.label>초월공학 기둥</ShipArchotechPillarD.label>
+  <ShipArchotechPillarD.description>인간이 표현할 수 없는 목적을 위한 복잡하고 기괴한 장치입니다. 하지만 이것은 당신의 초월공학 포자를 어떤 방식으로든 발전시킬 수 있을 것입니다.</ShipArchotechPillarD.description>
+  <ShipHullTileMech.label>메카노이드 선체 바닥</ShipHullTileMech.label>
+  <ShipHullTileMech.description>우주여행에 적합한 메카노이드의 함선 바닥입니다.</ShipHullTileMech.description>
+  <Ship_BeamMech.label>메카노이드 함선 선체</Ship_BeamMech.label>
+  <Ship_BeamMech.description>메카노이드 함선의 외부 골조를 이루는 선체입니다. 전력계통과 냉각계통이 지나갑니다.</Ship_BeamMech.description>
+  <Ship_Corner_OneOne_Mech.label>선체 모서리 (1x1)</Ship_Corner_OneOne_Mech.label>
+  <Ship_Corner_OneOne_Mech.description>함선 외부를 위한 선체 모서리 장갑입니다.</Ship_Corner_OneOne_Mech.description>
+  <Ship_Corner_OneTwo_Mech.label>선체 모서리 (1x2)</Ship_Corner_OneTwo_Mech.label>
+  <Ship_Corner_OneTwo_Mech.description>함선 외부를 위한 선체 모서리 장갑입니다.</Ship_Corner_OneTwo_Mech.description>
+  <Ship_Corner_OneThree_Mech.label>선체 모서리 (1x3)</Ship_Corner_OneThree_Mech.label>
+  <Ship_Corner_OneThree_Mech.description>함선 외부를 위한 선체 모서리 장갑입니다.</Ship_Corner_OneThree_Mech.description>
+  <Ship_Corner_OneTwoFlip_Mech.label>선체 모서리 (1x2)</Ship_Corner_OneTwoFlip_Mech.label>
+  <Ship_Corner_OneTwoFlip_Mech.description>함선 외부를 위한 선체 모서리 장갑입니다.</Ship_Corner_OneTwoFlip_Mech.description>
+  <Ship_Corner_OneThreeFlip_Mech.label>선체 모서리 (1x3)</Ship_Corner_OneThreeFlip_Mech.label>
+  <Ship_Corner_OneThreeFlip_Mech.description>함선 외부를 위한 선체 모서리 장갑입니다.</Ship_Corner_OneThreeFlip_Mech.description>
+  <ShipChunkSalvage.label>함선 파편</ShipChunkSalvage.label>
+  <ShipChunkSalvage.description>상대적으로 손상되지 않은 첨단 우주선 파편입니다. 해체하여 우주에서 유용한 여러 부품을 획득할 수 있습니다.</ShipChunkSalvage.description>
+  <Space_Satellite_Core.label>인공위성 코어</Space_Satellite_Core.label>
+  <Space_Satellite_Core.description>고대 통신 연결체의 핵심입니다. 이것을 수리하는 데는 상당한 기술이 필요할 것이고, 일단 수리가 된다면 시스템 역시 숙련된 연구자에 의해 해킹할 필요가 있습니다. 어느 단계에서든 방어 시스템이 활성화될 수 있습니다.
+
+하지만 성공할 경우 전리품은 대단합니다 - 이 위성은 고대 궤도 폭격, 태양 에너지 수집, 기상제어 배열의 예비로 사용될 수 있습니다.
+
+이 모든 것 대신 간단하게 해체해버릴 수도 있지만, 방어 시스템을 자극할 것이 거의 확실합니다.</Space_Satellite_Core.description>
+  <Ship_DamagedReactor.label>손상된 원자로</Ship_DamagedReactor.label>
+  <Ship_DamagedReactor.description>심각하게 손상된 고대의 핵분열 원자로입니다. 정지되기 전까지 가까운 모든 생명체에게 심각한 방사능 질환을 일으킬 것입니다.</Ship_DamagedReactor.description>
+  <Ship_LabConsole.label>연구실 제어판</Ship_LabConsole.label>
+  <Ship_LabConsole.description>고대의 것이지만 아직 작동하는 제어판입니다. 숙련된 연구자가 이것을 이용하면 우주선의 반응로를 정지시킬 수 있을 것입니다.</Ship_LabConsole.description>
+  <Ship_SecurityConsole.label>보안 제어판</Ship_SecurityConsole.label>
+  <Ship_SecurityConsole.description>고대의 것이지만 아직 작동하는 제어판입니다. 숙련된 연구자가 이것을 이용하면 우주선의 잠긴 문을 열 수 있을 것입니다.</Ship_SecurityConsole.description>
+  <BlackBoxAI.label>미쳐버린 인공지능</BlackBoxAI.label>
+  <BlackBoxAI.description>고대 함선의 인공지능 코어입니다. 적대적이고, 심리적으로 불안정하며, 심각한 불안 증세를 보입니다. 오직 재능있는 협상가만이 자살로부터 이를 구해낼 약간의 희망을 품을 것이고, 아마 두 번의 시도는 불가능할 것입니다.</BlackBoxAI.description>
+  <JTDriveSalvage.label>고대 존슨-타나카 추진기</JTDriveSalvage.label>
+  <JTDriveSalvage.description>행성 간 및 성간 여행이 가능한 진보한 무반응 엔진입니다. 재진입 때문에 손상되었지만, 아직 대부분 기능이 가능합니다.
+
+추진기의 역설계를 위해 안전하게 해체하기 위해서는 오랜 기간의 운동량 방전 절차가 필요합니다. 이는 반드시 습격을 끌어들일 것입니다.</JTDriveSalvage.description>
+  <SpaceHive.label>곤충 군락</SpaceHive.label>
+  <SpaceHive.description>거대한 곤충의 군락입니다. 주기적으로 값비싼 곤충 젤리와 함께 곤충과 다른 군락을 근처에 생성합니다.</SpaceHive.description>
+  <Ship_Beam_Wrecked.label>난파된 선체</Ship_Beam_Wrecked.label>
+  <Ship_Beam_Wrecked.description>함선의 외부 골조를 이루는 선체입니다. 손상되었지만 수리받지 못했습니다.</Ship_Beam_Wrecked.description>
+  <Ship_Beam_Wrecked_Fake.label>난파된 선체</Ship_Beam_Wrecked_Fake.label>
+  <Ship_Beam_Wrecked_Fake.description>함선의 외부 골조를 이루는 선체입니다. 손상되었지만 수리받지 못했습니다.</Ship_Beam_Wrecked_Fake.description>
+  <ShipHullTileWrecked.label>선체 난파물</ShipHullTileWrecked.label>
+  <ShipHullTileWrecked.description>난파된 함선 선체입니다. 더는 우주여행에 적합하지 않습니다.</ShipHullTileWrecked.description>
+  <ShipHullTileWreckedFake.label>선체 난파물</ShipHullTileWreckedFake.label>
+  <ShipHullTileWreckedFake.description>난파된 함선 선체입니다. 더는 우주여행에 적합하지 않습니다.</ShipHullTileWreckedFake.description>
+  <ShipAirlockWrecked.label>손상된 에어록</ShipAirlockWrecked.label>
+  <ShipAirlockWrecked.description>손상된 에어록입니다. 최소한의 압력을 간신히 유지할 수 있습니다.</ShipAirlockWrecked.description>
+  <Ship_Beam.label>함선 선체</Ship_Beam.label>
+  <Ship_Beam.description>함선의 외부 골조를 이루는 선체입니다. 전력계통, 냉각계통, 생명유지계통이 지나갑니다.</Ship_Beam.description>
+  <Ship_Beam_Unpowered.label>함선 선체 (전선 없음)</Ship_Beam_Unpowered.label>
+  <Ship_Beam_Unpowered.description>함선의 외부 골조를 이루는 선체입니다. 전력계통이나 냉각계통이 지나가지 않습니다.</Ship_Beam_Unpowered.description>
+  <ShipInside_SolarGenerator.label>태양광 발전기</ShipInside_SolarGenerator.label>
+  <ShipInside_SolarGenerator.description>해가 떠 있는 동안에만 전기를 생산합니다. 인공적인 빛 아래나 어두운 곳에서는 생산하지 않습니다.</ShipInside_SolarGenerator.description>
+  <ShipInside_PassiveCooler.label>함선 방열기</ShipInside_PassiveCooler.label>
+  <ShipInside_PassiveCooler.description>공허로 열을 방출하여 함선 내부를 냉각합니다. 또한, 무장과 보호막을 위한 약간의 열 저장고를 제공합니다.</ShipInside_PassiveCooler.description>
+  <ShipAirlock.label>함선 에어록</ShipAirlock.label>
+  <ShipAirlock.description>함선의 접근을 허용하거나 함선 내부의 방을 나눌 수 있습니다. 저에너지 플라즈마 장벽이 기체가 빠져나가는 것을 방지합니다.</ShipAirlock.description>
+  <ShipHullTile.label>함선 바닥</ShipHullTile.label>
+  <ShipHullTile.description>우주여행에 적합한 선체 바닥입니다. 함선 일부로써 이 타일을 배치할 수 있으며, 위에 다른 가구나 다른 바닥 타일을 설치할 수 있습니다. 함선 선체로 둘러싸인 공간에 건설되어야 합니다.</ShipHullTile.description>
+  <Ship_Reactor.label>함선 핵분열 원자로</Ship_Reactor.label>
+  <Ship_Reactor.description>독립적으로 작동하는 소형 핵분열 원자로입니다. 우라늄 연료 용기를 연료로 사용하며, 가능한 연결된 흡열기/방열기로 열을 배출하게 되지만, 불가능할 경우 위치한 방에 열을 배출합니다.</Ship_Reactor.description>
+  <Ship_Engine.label>로켓 엔진</Ship_Engine.label>
+  <Ship_Engine.description>함선을 궤도로 발사할 수 있는 화학연료 기반의 엔진입니다. 행성 간 여행에는 적합하지 않습니다.</Ship_Engine.description>
+  <Ship_Engine_Small.label>소형 로켓 엔진</Ship_Engine_Small.label>
+  <Ship_Engine_Small.description>함선을 궤도로 발사할 수 있는 화학연료 기반의 엔진입니다. 행성 간 여행에는 적합하지 않습니다.</Ship_Engine_Small.description>
+  <Ship_Engine_Interplanetary.label>존슨-타나카 추진기</Ship_Engine_Interplanetary.label>
+  <Ship_Engine_Interplanetary.description>행성 간 및 성간 여행이 가능한 진보된 무반응 엔진입니다.</Ship_Engine_Interplanetary.description>
+  <ShipPilotSeat.label>함교</ShipPilotSeat.label>
+  <ShipPilotSeat.description>정착민이 궤도를 향해 우주선을 조종할 수 있게 합니다. 일단 궤도를 형성한 후에는, 주변 지역 탐사에 사용할 수 있습니다.</ShipPilotSeat.description>
+  <ShipPilotSeatMini.label>소형 함교</ShipPilotSeatMini.label>
+  <ShipPilotSeatMini.description>정착민이 궤도를 향해 우주선을 조종할 수 있게 합니다. 큰 함교와는 달리 주변 지역 탐사에 사용할 수 없으며, 전투 시 정확도와 함선 속도가 감소합니다.</ShipPilotSeatMini.description>
+  <ShipShuttleBay.label>왕복선 주기장</ShipShuttleBay.label>
+  <ShipShuttleBay.description>왕복선 혹은 채굴드론 한 대를 위한 도킹 시설을 제공합니다. 장애물이 없는 상태로 유지되어야 합니다.</ShipShuttleBay.description>
+  <Ship_SensorCluster.label>단거리 감지기</Ship_SensorCluster.label>
+  <Ship_SensorCluster.description>기초적인 함선 감지기입니다. 근접한 우주선을 감지하며, 궤도 상의 물체 표면을 확인할 수 있습니다.</Ship_SensorCluster.description>
+  <Ship_LifeSupport.label>생명유지 장치</Ship_LifeSupport.label>
+  <Ship_LifeSupport.description>함선 선체, 함선 바닥, 함선 천장으로 완벽하게 차폐된 방의 산소를 재활용합니다. 동면 중이 아닌 정착민과 동물의 생존 유지에 필요합니다.</Ship_LifeSupport.description>
+  <ShipCapacitor.label>집합 축전기</ShipCapacitor.label>
+  <ShipCapacitor.description>매우 효율적인 고용량의 에너지 저장고입니다.</ShipCapacitor.description>
+  <ShipCapacitorSmall.label>함선 축전기</ShipCapacitorSmall.label>
+  <ShipCapacitorSmall.description>매우 효율적인 고용량의 에너지 저장고입니다.</ShipCapacitorSmall.description>
+  <Ship_ComputerCore.label>함선 컴퓨터 코어</Ship_ComputerCore.label>
+  <Ship_ComputerCore.description>함선의 성간 여행을 안내할 수 있는 초인공지능이 저장된 컴퓨터 코어입니다. 궤도에 진입할 경우, 자동으로 궤도의 지역을 탐사합니다.</Ship_ComputerCore.description>
+  <ShipHardpointSmall.label>소형 지지대</ShipHardpointSmall.label>
+  <ShipHardpointSmall.description>함선 외부에 건물이나 포탑을 부착하기 위한 지지 구조물입니다. 이 위에 세워진 모든 것은 함선 일부로 간주할 것입니다.</ShipHardpointSmall.description>
+  <ShipHardpoint.label>지지대</ShipHardpoint.label>
+  <ShipHardpoint.description>함선 외부에 건물이나 포탑을 부착하기 위한 지지 구조물입니다. 이 위에 세워진 모든 것은 함선 일부로 간주할 것입니다.</ShipHardpoint.description>
+  <ShipHardpointExtraMedium.label>대형 지지대</ShipHardpointExtraMedium.label>
+  <ShipHardpointExtraMedium.description>함선 외부에 건물이나 포탑을 부착하기 위한 지지 구조물입니다. 이 위에 세워진 모든 것은 함선 일부로 간주할 것입니다.</ShipHardpointExtraMedium.description>
+  <ShipHardpointLarge.label>초대형 지지대</ShipHardpointLarge.label>
+  <ShipHardpointLarge.description>함선 외부에 건물이나 포탑을 부착하기 위한 지지 구조물입니다. 이 위에 세워진 모든 것은 함선 일부로 간주할 것입니다.</ShipHardpointLarge.description>
+  <Ship_Corner_OneOne.label>선체 모서리 (1x1)</Ship_Corner_OneOne.label>
+  <Ship_Corner_OneOne.description>함선 외부를 위한 선체 모서리 장갑입니다.</Ship_Corner_OneOne.description>
+  <Ship_Corner_OneTwo.label>선체 모서리 (1x2)</Ship_Corner_OneTwo.label>
+  <Ship_Corner_OneTwo.description>함선 외부를 위한 선체 모서리 장갑입니다.</Ship_Corner_OneTwo.description>
+  <Ship_Corner_OneThree.label>선체 모서리 (1x3)</Ship_Corner_OneThree.label>
+  <Ship_Corner_OneThree.description>함선 외부를 위한 선체 모서리 장갑입니다.</Ship_Corner_OneThree.description>
+  <Ship_Corner_OneTwoFlip.label>선체 모서리 (1x2)</Ship_Corner_OneTwoFlip.label>
+  <Ship_Corner_OneTwoFlip.description>함선 외부를 위한 선체 모서리 장갑입니다.</Ship_Corner_OneTwoFlip.description>
+  <Ship_Corner_OneThreeFlip.label>선체 모서리 (1x3)</Ship_Corner_OneThreeFlip.label>
+  <Ship_Corner_OneThreeFlip.description>함선 외부를 위한 선체 모서리 장갑입니다.</Ship_Corner_OneThreeFlip.description>
+  <ShipSalvageBay.label>인양 시설</ShipSalvageBay.label>
+  <ShipSalvageBay.description>전투 이후 적 함선에 남은 물품을 수확합니다. 각 인양 시설은 최대 1,000kg의 물건을 인양할 수 있습니다.</ShipSalvageBay.description>
+  <CrittersleepCasket.label>생물 동면관 (8)</CrittersleepCasket.label>
+  <CrittersleepCasket.description>최대 8마리의 소형 동물을 그대로 보존하기 위한 자가발전형 동면관입니다.</CrittersleepCasket.description>
+  <CrittersleepCasketLarge.label>생물 동면관 (32)</CrittersleepCasketLarge.label>
+  <CrittersleepCasketLarge.description>최대 32마리의 소형 동물을 그대로 보존하기 위한 자가발전형 동면관입니다.</CrittersleepCasketLarge.description>
+  <Cryptonest.label>동면둥지</Cryptonest.label>
+  <Cryptonest.description>최대 16개의 알을 활성 상태로 유지할 수 있는 자가발전형 동면관입니다.</Cryptonest.description>
+  <Ship_CryptosleepCasket.label>자동-방출형 동면장치</Ship_CryptosleepCasket.label>
+  <Ship_CryptosleepCasket.description>여러 개의 자체 타이머와 위기감지가 장착된 동면장치입니다. 외부 개입 없이 열 수 있으며, 함선이 고장 난 상황에서는 탈출 포드로 사용될 수 있습니다.
+
+우주선마다 최소한 한 개의 동면장치를 갖춰 놓는 것이 좋을 것입니다.</Ship_CryptosleepCasket.description>
+  <ShipMoveBlueprint.label>새로운 함선 위치</ShipMoveBlueprint.label>
+  <ShipMoveBlueprint.description>함선이 이동할 위치를 선택하세요.</ShipMoveBlueprint.description>
+  <DetachedShipPart.label>분리된 함선 부위</DetachedShipPart.label>
+  <DetachedShipPart.description>우주선의 파괴된 부분입니다.</DetachedShipPart.description>
+  <MinifiedThingShipMove.label>소형화된 물건</MinifiedThingShipMove.label>
+  <ShipTurret_Laser.label>레이저 포탑</ShipTurret_Laser.label>
+  <ShipTurret_Laser.description>강력한 레이저를 발사하는 우주선 포탑입니다. 파괴적인 공격을 가할 수 있지만, 단거리에서만 사용할 수 있습니다. 적 함선에 발사하는 대신 미사일을 요격하도록 할 수 있습니다.
+
+이용할 수 있는 열 저장고가 없다면 위치한 방으로 열을 배출할 것입니다.</ShipTurret_Laser.description>
+  <ShipTurret_LaserTop.label>레이저</ShipTurret_LaserTop.label>
+  <ShipTurret_LaserTop.description>레이저 포탑입니다. 단거리 무장이지만 파괴적인 피해를 줄 수 있습니다.</ShipTurret_LaserTop.description>
+  <ShipTurret_LaserTop.verbs.0.label>레이저 발사</ShipTurret_LaserTop.verbs.0.label>
+  <Bullet_Fake_Laser.label>레이저 빔</Bullet_Fake_Laser.label>
+  <Proj_ShipTurretLaser.label>레이저 빔</Proj_ShipTurretLaser.label>
+  <ShipTurret_Plasma.label>플라즈마 포탑</ShipTurret_Plasma.label>
+  <ShipTurret_Plasma.description>고열 플라즈마를 발사하는 우주선 포탑입니다. 중거리에서 사용할 수 있는 균형 잡힌 무기입니다.
+
+이용할 수 있는 열 저장고가 없다면 위치한 방으로 열을 배출할 것입니다.</ShipTurret_Plasma.description>
+  <ShipTurret_PlasmaTop.label>플라즈마</ShipTurret_PlasmaTop.label>
+  <ShipTurret_PlasmaTop.description>플라즈마 포탑입니다. 중거리 무장이며 균형이 잘 잡혀 있습니다.</ShipTurret_PlasmaTop.description>
+  <ShipTurret_PlasmaTop.verbs.0.label>플라즈마 발사</ShipTurret_PlasmaTop.verbs.0.label>
+  <Bullet_Fake_Plasma.label>플라즈마 환상체</Bullet_Fake_Plasma.label>
+  <Proj_ShipTurretPlasma.label>플라즈마 환상체</Proj_ShipTurretPlasma.label>
+  <ShipTurret_Kinetic.label>레일건 포탑</ShipTurret_Kinetic.label>
+  <ShipTurret_Kinetic.description>금속 슬러그를 엄청난 속도로 발사하는 우주선 포탑입니다. 이 무장의 추적 시스템은 장거리 표적을 타격하는 데 탁월하지만, 단거리에서는 상당히 부정확해집니다.
+
+이용할 수 있는 열 저장고가 없다면 위치한 방으로 열을 배출할 것입니다.</ShipTurret_Kinetic.description>
+  <ShipTurret_KineticTop.label>레일건</ShipTurret_KineticTop.label>
+  <ShipTurret_KineticTop.description>장거리에서 제일 높은 효율을 보이는 레일건입니다.</ShipTurret_KineticTop.description>
+  <ShipTurret_KineticTop.verbs.0.label>슬러그 발사</ShipTurret_KineticTop.verbs.0.label>
+  <Bullet_Fake_Kinetic.label>레일건 슬러그</Bullet_Fake_Kinetic.label>
+  <Proj_ShipTurretKinetic.label>레일건 슬러그</Proj_ShipTurretKinetic.label>
+  <ShipHeatConduit.label>열 전도관</ShipHeatConduit.label>
+  <ShipHeatConduit.description>우주선의 열기를 전달하는 액체관입니다.</ShipHeatConduit.description>
+  <ShipHeatsink.label>흡열기</ShipHeatsink.label>
+  <ShipHeatsink.description>무장의 발사 시 생성되는 열을 저장할 수 있는 흡열기입니다. 천천히 열기를 방으로 배출하며, 진공에서는 작동하지 않습니다.</ShipHeatsink.description>
+  <ShipCombatShieldGenerator.label>보호막 생성기</ShipCombatShieldGenerator.label>
+  <ShipCombatShieldGenerator.description>운동반발장을 투사하는 보호막 장치입니다. 밖으로 발사할 수 있지만, 안으로 들어올 수는 없습니다.
+
+공격을 막을 때마다 열을 생성합니다. 만약 열 저장고가 부족하다면 보호막은 손상되며 수리가 필요하게 될 것입니다.
+
+함선 방열기는 보호막이 펼쳐져 있는 동안 열을 방출할 수 없습니다. 함선을 오븐으로 만들지 않으려면 선장님께서는 열 저장고가 꽉 차기 전에 보호막을 잠시 해제하세요.</ShipCombatShieldGenerator.description>
+  <ShipTorpedoSix.label>미사일 발사관 (6)</ShipTorpedoSix.label>
+  <ShipTorpedoSix.description>모든 종류의 미사일 발사를 위한 발사관 묶음입니다. 보호막을 상대로 정확하고 파괴적인 피해를 줄 수 있지만, 표적 도달까지 긴 시간이 걸리고 요격 레이저에 취약합니다.</ShipTorpedoSix.description>
+  <Artillery_ShipTorpedo.label>미사일 발사관 (6)</Artillery_ShipTorpedo.label>
+  <Artillery_ShipTorpedo.description>미사일 발사대입니다. 보호막을 상대로 정확하고 파괴적인 피해를 줄 수 있지만, 요격 레이저에 취약합니다.</Artillery_ShipTorpedo.description>
+  <ShipTorpedoTwo.label>미사일 발사관 (2)</ShipTorpedoTwo.label>
+  <ShipTorpedoTwo.description>모든 종류의 미사일 발사를 위한 두 개의 발사관입니다. 보호막을 상대로 정확하고 파괴적인 피해를 줄 수 있지만, 표적 도달까지 긴 시간이 걸리고 요격 레이저에 취약합니다.</ShipTorpedoTwo.description>
+  <Artillery_ShipTorpedo_Two.label>미사일 발사관 (2)</Artillery_ShipTorpedo_Two.label>
+  <Artillery_ShipTorpedo_Two.description>미사일 발사대입니다. 보호막을 상대로 정확하고 파괴적인 피해를 줄 수 있지만, 요격 레이저에 취약합니다.</Artillery_ShipTorpedo_Two.description>
+  <ShipTorpedoOne.label>미사일 발사관</ShipTorpedoOne.label>
+  <ShipTorpedoOne.description>모든 종류의 미사일 발사를 위한 한 개의 발사관입니다. 보호막을 상대로 정확하고 파괴적인 피해를 줄 수 있지만, 표적 도달까지 긴 시간이 걸리고 요격 레이저에 취약합니다.</ShipTorpedoOne.description>
+  <Artillery_ShipTorpedo_One.label>미사일 발사관</Artillery_ShipTorpedo_One.label>
+  <Artillery_ShipTorpedo_One.description>미사일 발사대입니다. 보호막을 상대로 정확하고 파괴적인 피해를 줄 수 있지만, 요격 레이저에 취약합니다.</Artillery_ShipTorpedo_One.description>
+  <ShipTurret_Laser_Large.label>대형 레이저 포탑</ShipTurret_Laser_Large.label>
+  <ShipTurret_Laser_Large.description>강력한 레이저를 발사하는 순양함 수준의 우주선 포탑입니다. 파괴적인 공격을 가할 수 있지만, 단거리에서만 사용할 수 있습니다.
+
+이용할 수 있는 열 저장고가 없다면 위치한 방으로 열을 배출할 것입니다.</ShipTurret_Laser_Large.description>
+  <ShipTurret_LaserTop_Large.label>레이저</ShipTurret_LaserTop_Large.label>
+  <ShipTurret_LaserTop_Large.description>레이저 포탑입니다. 단거리 무장이지만 파괴적인 피해를 줄 수 있습니다.</ShipTurret_LaserTop_Large.description>
+  <ShipTurret_LaserTop_Large.verbs.0.label>레이저 발사</ShipTurret_LaserTop_Large.verbs.0.label>
+  <ShipTurret_Plasma_Large.label>대형 플라즈마 포탑</ShipTurret_Plasma_Large.label>
+  <ShipTurret_Plasma_Large.description>고열 플라즈마를 발사하는 순양함 수준의 우주선 포탑입니다. 중거리에서 사용할 수 있는 균형 잡힌 무기입니다.
+
+이용할 수 있는 열 저장고가 없다면 위치한 방으로 열을 배출할 것입니다.</ShipTurret_Plasma_Large.description>
+  <ShipTurret_PlasmaTop_Large.label>플라즈마</ShipTurret_PlasmaTop_Large.label>
+  <ShipTurret_PlasmaTop_Large.description>플라즈마 포탑입니다. 중거리 무장이며 균형이 잘 잡혀 있습니다.</ShipTurret_PlasmaTop_Large.description>
+  <ShipTurret_PlasmaTop_Large.verbs.0.label>플라즈마 발사</ShipTurret_PlasmaTop_Large.verbs.0.label>
+  <Bullet_Fake_Plasma_Large.label>플라즈마 환상체</Bullet_Fake_Plasma_Large.label>
+  <Proj_ShipTurretPlasma_Large.label>플라즈마 환상체</Proj_ShipTurretPlasma_Large.label>
+  <ShipTurret_Kinetic_Large.label>대형 레일건 포탑</ShipTurret_Kinetic_Large.label>
+  <ShipTurret_Kinetic_Large.description>금속 슬러그를 엄청난 속도로 발사하는 순양함 수준의 우주선 포탑입니다. 이 무장의 추적 시스템은 장거리 표적을 타격하는 데 탁월하지만, 단거리에서는 상당히 부정확해집니다.
+
+이용할 수 있는 열 저장고가 없다면 위치한 방으로 열을 배출할 것입니다.</ShipTurret_Kinetic_Large.description>
+  <ShipTurret_KineticTop_Large.label>레일건</ShipTurret_KineticTop_Large.label>
+  <ShipTurret_KineticTop_Large.description>장거리에서 제일 높은 효율을 보이는 레일건입니다.</ShipTurret_KineticTop_Large.description>
+  <ShipTurret_KineticTop_Large.verbs.0.label>슬러그 발사</ShipTurret_KineticTop_Large.verbs.0.label>
+  <Bullet_Fake_Kinetic_Large.label>레일건 슬러그</Bullet_Fake_Kinetic_Large.label>
+  <Proj_ShipTurretKinetic_Large.label>레일건 슬러그</Proj_ShipTurretKinetic_Large.label>
+  <ShipSpinalEmitter.label>중축 축전기</ShipSpinalEmitter.label>
+  <ShipSpinalEmitter.description>중축 무장의 시작 구획입니다. 여기에 하나 이상의 증폭기를 연결하고, 총열을 추가해 중축 무장을 완성하세요.</ShipSpinalEmitter.description>
+  <ShipSpinalAmplifier.label>중축 증폭기</ShipSpinalAmplifier.label>
+  <ShipSpinalAmplifier.description>중축 무장의 중앙 구획입니다. 축전기에 하나 이상을 연결하고, 총열을 추가해 중축 무장을 완성하세요.</ShipSpinalAmplifier.description>
+  <ShipSpinalBarrelLaser.label>중축 총열: 레이저</ShipSpinalBarrelLaser.label>
+  <ShipSpinalBarrelLaser.description>중축 무장의 마지막 구획입니다. 선체에 새로운 통풍구를 원하는 것이 아니라면 함선 외부에 배치하세요.</ShipSpinalBarrelLaser.description>
+  <ShipTurret_SpinalMountTopLaser.label>중축 장착형 대포</ShipTurret_SpinalMountTopLaser.label>
+  <ShipTurret_SpinalMountTopLaser.description>주력함 무장입니다.</ShipTurret_SpinalMountTopLaser.description>
+  <ShipTurret_SpinalMountTopLaser.verbs.0.label>발사</ShipTurret_SpinalMountTopLaser.verbs.0.label>
+  <Proj_ShipSpinalBeamLaser.label>살인 광선</Proj_ShipSpinalBeamLaser.label>
+  <ShipSpinalBarrelPlasma.label>중축 총열: 플라즈마</ShipSpinalBarrelPlasma.label>
+  <ShipSpinalBarrelPlasma.description>중축 무장의 마지막 구획입니다. 선체에 새로운 통풍구를 원하는 것이 아니라면 함선 외부에 배치하세요.</ShipSpinalBarrelPlasma.description>
+  <ShipTurret_SpinalMountTopPlasma.label>중축 장착형 대포</ShipTurret_SpinalMountTopPlasma.label>
+  <ShipTurret_SpinalMountTopPlasma.description>주력함 무장입니다.</ShipTurret_SpinalMountTopPlasma.description>
+  <ShipTurret_SpinalMountTopPlasma.verbs.0.label>발사</ShipTurret_SpinalMountTopPlasma.verbs.0.label>
+  <Bullet_Fake_Plasma_XL.label>플라즈마 환상체</Bullet_Fake_Plasma_XL.label>
+  <Proj_ShipSpinalBeamPlasma.label>살인 광선</Proj_ShipSpinalBeamPlasma.label>
+  <ShipSpinalBarrelKinetic.label>중축 총열: 레일건</ShipSpinalBarrelKinetic.label>
+  <ShipSpinalBarrelKinetic.description>중축 무장의 마지막 구획입니다. 선체에 새로운 통풍구를 원하는 것이 아니라면 함선 외부에 배치하세요.</ShipSpinalBarrelKinetic.description>
+  <ShipTurret_SpinalMountTopKinetic.label>중축 장착형 대포</ShipTurret_SpinalMountTopKinetic.label>
+  <ShipTurret_SpinalMountTopKinetic.description>주력함 무장입니다.</ShipTurret_SpinalMountTopKinetic.description>
+  <ShipTurret_SpinalMountTopKinetic.verbs.0.label>발사</ShipTurret_SpinalMountTopKinetic.verbs.0.label>
+  <PersonalShuttle.label>개인 왕복선</PersonalShuttle.label>
+  <PersonalShuttle.description>작고, 재사용 가능한 왕복 왕복선입니다. 수송이나, 기습 및 전투 보조에 사용할 수 있습니다.</PersonalShuttle.description>
+  <CargoShuttle.label>화물 왕복선</CargoShuttle.label>
+  <CargoShuttle.description>우라늄 연료 용기로 작동하는 재사용 가능한 왕복선입니다. 많은 양의 화물을 수송할 수 있습니다.</CargoShuttle.description>
+  <HeavyShuttle.label>중화물 왕복선</HeavyShuttle.label>
+  <HeavyShuttle.description>우라늄 연료 용기로 작동하는 재사용 가능한 왕복선입니다. 엄청난 양의 화물을 수송할 수 있습니다.</HeavyShuttle.description>
+  <ShipTorpedo_HighExplosive.label>고폭탄 미사일</ShipTorpedo_HighExplosive.label>
+  <ShipTorpedo_HighExplosive.description>고폭탄 탄도 미사일입니다. 미사일 발사관에서 발사할 수 있습니다. 손해를 입으면 폭발합니다.</ShipTorpedo_HighExplosive.description>
+  <Bullet_Fake_Torpedo_HighExplosive.label>고폭탄 미사일</Bullet_Fake_Torpedo_HighExplosive.label>
+  <Bullet_Torpedo_HighExplosive.label>고폭탄 미사일</Bullet_Torpedo_HighExplosive.label>
+  <ShipTorpedo_EMP.label>전자기탄 미사일</ShipTorpedo_EMP.label>
+  <ShipTorpedo_EMP.description>전자기탄 탄도 미사일입니다. 미사일 발사관에서 발사할 수 있습니다. 손해를 입으면 폭발합니다.</ShipTorpedo_EMP.description>
+  <Bullet_Fake_Torpedo_EMP.label>전자기탄 미사일</Bullet_Fake_Torpedo_EMP.label>
+  <Bullet_Torpedo_EMP.label>전자기탄 미사일</Bullet_Torpedo_EMP.label>
+  <ShipTorpedo_Antimatter.label>반물질 미사일</ShipTorpedo_Antimatter.label>
+  <ShipTorpedo_Antimatter.description>반물질 탄도 미사일입니다. 미사일 발사관에서 발사할 수 있습니다. 손해를 입으면 폭발합니다.</ShipTorpedo_Antimatter.description>
+  <Bullet_Fake_Torpedo_Antimatter.label>반물질 미사일</Bullet_Fake_Torpedo_Antimatter.label>
+  <Bullet_Torpedo_Antimatter.label>반물질 미사일</Bullet_Torpedo_Antimatter.label>
+  <ShuttleFuelPods.label>우라늄 연료 용기</ShuttleFuelPods.label>
+  <ShuttleFuelPods.description>포화 우라늄을 보관하는 작은 통입니다.</ShuttleFuelPods.description>
+  <WeatherCancelDevice.label>날씨 안정기</WeatherCancelDevice.label>
+  <WeatherCancelDevice.description>일회성의 인증키가 있는 고대의 기상제어위성 네트워크 제어장치입니다. 이 장치는 인근 지역에서 초기화 프로토콜이 실행되도록 사전에 프로그래밍이 되어 있습니다. 사용할 경우, 모든 진행 중인 기상 효과가 사라집니다. 위성은 유독성 낙진을 빠르게 희석하고, 폭염이나 한파를 종결시키며, 화산 겨울로부터 국지적인 보호를 제공합니다.</WeatherCancelDevice.description>
+  <WeatherCancelDevice.comps.0.useLabel>활성화</WeatherCancelDevice.comps.0.useLabel>
+  <SoSEntanglementManifold.label>고차원 기관</SoSEntanglementManifold.label>
+  <SoSEntanglementManifold.description>먼 별의 물질과 함께 스스로 얽혀 있는 작은 최첨단 장치이며, 존슨-타나카 추진기의 기능에 필수적입니다. 번화계의 기반 시설 없이 복제할 수 없습니다.</SoSEntanglementManifold.description>
+  <Apparel_SpaceSuitBody.label>우주 유영복</Apparel_SpaceSuitBody.label>
+  <Apparel_SpaceSuitBody.description>우주 공간에서 탑승자를 생존시키기 위해 고안된 의복입니다. 이동을 위한 소형 추진기가 포함되어 있습니다.</Apparel_SpaceSuitBody.description>
+  <Apparel_SpaceSuitHelmet.label>우주 유영모</Apparel_SpaceSuitHelmet.label>
+  <Apparel_SpaceSuitHelmet.description>우주 공간에서 탑승자를 생존시키기 위해 고안된 헬멧입니다.</Apparel_SpaceSuitHelmet.description>
+  <Apparel_SpaceSuitBodyHeavy.label>우주 강화갑옷</Apparel_SpaceSuitBodyHeavy.label>
+  <Apparel_SpaceSuitBodyHeavy.description>우주 공간에서 탑승자를 생존시키기 위해 고안된 압축-밀봉 강화갑옷입니다. 이동을 위한 소형 추진기가 포함되어 있습니다.</Apparel_SpaceSuitBodyHeavy.description>
+  <Apparel_SpaceSuitHelmetHeavy.label>우주 강화모</Apparel_SpaceSuitHelmetHeavy.label>
+  <Apparel_SpaceSuitHelmetHeavy.description>우주 공간에서 탑승자를 생존시키기 위해 고안된 압축-밀봉 강화갑옷 방탄모입니다.</Apparel_SpaceSuitHelmetHeavy.description>
+  <Apparel_SpaceSurvivalBelt.label>생존 벨트</Apparel_SpaceSurvivalBelt.label>
+  <Apparel_SpaceSurvivalBelt.description>우주선의 선원을 위한 비상 구명 벨트입니다. 기압이 안정적일 경우 작동하지 않습니다. 진공에 노출되는 즉시, 벨트는 사용자를 반유체 막으로 둘러싼 뒤 숨 쉴 수 있는 공기를 생성합니다. 이후 세 시간 동안, 사용자는 이동 속도가 느려지지만, 진공에 노출되어도 생존할 수 있습니다. 벨트는 일회용입니다.</Apparel_SpaceSurvivalBelt.description>
+  <Apparel_SpaceSurvivalBeltDummy.label>생존 벨트 (활성됨)</Apparel_SpaceSurvivalBeltDummy.label>
+  <Apparel_SpaceSurvivalBeltDummy.description>우주선의 선원을 위한 비상 구명 벨트입니다. 벨트는 사용자를 반유체 막으로 둘러쌌으며, 숨 쉴 수 있는 공기를 생성하고 있습니다. 이후 세 시간 동안, 사용자는 이동 속도가 느려지지만, 진공에 노출되어도 생존할 수 있습니다. 벨트는 일회용입니다.</Apparel_SpaceSurvivalBeltDummy.description>
+  <Filth_SpaceBones.label>뼈</Filth_SpaceBones.label>
+  <Filth_SpaceReactorAsh.label>방사성 재</Filth_SpaceReactorAsh.label>
+  <ShuttleIncomingPersonal.label>왕복선 (접근 중)</ShuttleIncomingPersonal.label>
+  <ShuttleIncomingCargo.label>왕복선 (접근 중)</ShuttleIncomingCargo.label>
+  <ShuttleIncomingHeavy.label>왕복선 (접근 중)</ShuttleIncomingHeavy.label>
+  <PersonalShuttleSkyfaller.label>왕복선 (떠나는 중)</PersonalShuttleSkyfaller.label>
+  <CargoShuttleSkyfaller.label>왕복선 (떠나는 중)</CargoShuttleSkyfaller.label>
+  <HeavyCargoShuttleSkyfaller.label>왕복선 (떠나는 중)</HeavyCargoShuttleSkyfaller.label>
+  <ActiveShuttle.label>왕복선</ActiveShuttle.label>
+
+</LanguageData>

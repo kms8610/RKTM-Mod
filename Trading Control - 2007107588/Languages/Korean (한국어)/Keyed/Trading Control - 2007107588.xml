@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TradingSpot>거래 장소</TradingSpot>
+  <TradingSpot.AlreadyOnMap>오직 하나의 거래 장소만 한 지도에서 허용됩니다. 예전 장소 제거중.</TradingSpot.AlreadyOnMap>
+  <TradingSpot.VisitorsGoToTradeSpot>방문객들의 거래 장소로 이동.</TradingSpot.VisitorsGoToTradeSpot>
+  <Dismiss>보내기: </Dismiss>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1543723640_190818_RimCuisine-->
+  <Chemical_Nicotine.description>니코틴 중독때문에 이 사람은 금단현상을 피하기 위해서 니코틴을 주기적으로 섭취해야합니다.</Chemical_Nicotine.description>
+  <Chemical_Shrooms.description>환각버섯 중독때문에 이 사람은 금단현상을 피하기 위해서 약물을 주기적으로 주사해야합니다.</Chemical_Shrooms.description>
+  <Chemical_Zopioid.description>조피오이드 중독때문에 이 사람은 금단현상을 피하기 위해서 약물을 주기적으로 주사해야합니다.</Chemical_Zopioid.description>
+  <Chemical_Caffeine.description>카페인 중독때문에 이 사람은 금단현상을 피하기 위해서 카페인을 주기적으로 섭취해야합니다.</Chemical_Caffeine.description>
+  <Chemical_Caffeine.label>카페인</Chemical_Caffeine.label>
+  <Chemical_Nicotine.label>니코틴</Chemical_Nicotine.label>
+  <Chemical_Shrooms.label>환각버섯</Chemical_Shrooms.label>
+  <Chemical_Zopioid.label>조피오이드</Chemical_Zopioid.label>
+
+</LanguageData>

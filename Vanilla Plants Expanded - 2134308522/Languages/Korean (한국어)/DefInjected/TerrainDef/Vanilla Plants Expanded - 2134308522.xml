@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_TilledSoil.label>경작 토양</VCE_TilledSoil.label>
+  <VCE_TilledSoil.description>경작은 다양한 유형의 농사법으로 토양 비옥도를 증가시킵니다.\n경작 토양은 일반 토양(기름진 토양이 아닌)에서만 할 수 있습니다.\n작물을 경작 토양에서 수확하면 일반 토양이 되기 때문에, 다시 경작을 해서 비옥하게 만들어야 합니다.</VCE_TilledSoil.description>
+  <VCE_TilledSoil.tools.0.label>진흙</VCE_TilledSoil.tools.0.label>
+</LanguageData>

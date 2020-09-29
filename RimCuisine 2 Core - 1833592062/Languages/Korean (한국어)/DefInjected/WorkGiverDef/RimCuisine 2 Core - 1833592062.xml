@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1543723640_190818_RimCuisine-->
+  <DoBillsCannery.label>제조기로 통조림 만들기</DoBillsCannery.label>
+  <DoBillsCannery.verb>통조림 만들기</DoBillsCannery.verb>
+  <DoBillsCannery.gerund>통조림 제조 중</DoBillsCannery.gerund>
+  <DoBillsCookomatic.verb>요리</DoBillsCookomatic.verb>
+  <DoBillsCookomatic.label>스토브에서 음식 조리</DoBillsCookomatic.label>
+  <DoBillsCookomatic.gerund>요리 중</DoBillsCookomatic.gerund>
+  <DoBillsQuernstone.label>익히지 않은 음식 빻기</DoBillsQuernstone.label>
+  <DoBillsQuernstone.verb>빻기</DoBillsQuernstone.verb>
+  <DoBillsQuernstone.gerund>빻는 중.</DoBillsQuernstone.gerund>
+
+</LanguageData>

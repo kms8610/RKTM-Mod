@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedPod_InspectorStatus_NoPower>오류: 전원 끊김</MedPod_InspectorStatus_NoPower>
+  <MedPod_InspectorStatus_DiagnosisProgress>진단 ({0}%)</MedPod_InspectorStatus_DiagnosisProgress>
+  <MedPod_InspectorStatus_DiagnosisComplete>진단 완료</MedPod_InspectorStatus_DiagnosisComplete>
+  <MedPod_InspectorStatus_HealingProgress>재원자화 ({0}%)</MedPod_InspectorStatus_HealingProgress>
+  <MedPod_InspectorStatus_PatientDischarged>100% 완료</MedPod_InspectorStatus_PatientDischarged>
+  <MedPod_InspectorStatus_Idle>유휴 상태</MedPod_InspectorStatus_Idle>
+  <MedPod_Stat_PowerConsumptionDiagnosis_Label>전력 소비량 (진단)</MedPod_Stat_PowerConsumptionDiagnosis_Label>
+  <MedPod_Stat_PowerConsumptionDiagnosis_Desc>진단 모드에서 작동하는 동안 해당 의료 포드가 전력망에서 사용하는 전력량입니다.</MedPod_Stat_PowerConsumptionDiagnosis_Desc>
+  <MedPod_Stat_PowerConsumptionHealing_Label>소비 전력 (치료)</MedPod_Stat_PowerConsumptionHealing_Label>
+  <MedPod_Stat_PowerConsumptionHealing_Desc>치료 모드에서 작동하는 동안 해당 의료 포드가 전력망에서 사용하는 전력량입니다.</MedPod_Stat_PowerConsumptionHealing_Desc>
+  <MedPod_Stat_DiagnosisTime_Label>진단 시간</MedPod_Stat_DiagnosisTime_Label>
+  <MedPod_Stat_DiagnosisTime_Desc>해당 의료 포드가 환자를 진단하는 데 걸리는 시간입니다.</MedPod_Stat_DiagnosisTime_Desc>
+  <MedPod_Stat_PerHediffHealingTime_Label>평균 항목별 치료 시간</MedPod_Stat_PerHediffHealingTime_Label>
+  <MedPod_Stat_PerHediffHealingTime_Desc>이 의료 포드가 환자의 각 의학적 상태를 치료하는 데 걸리는 시간(평균)입니다.\n\n이는 상태의 증상에 따라 다릅니다.\n예를 들어, 가벼운 상해는 치료 시간이 더 짧습니다.</MedPod_Stat_PerHediffHealingTime_Desc>
+  <MedPod_Stat_TimeSeconds>{0} 초</MedPod_Stat_TimeSeconds>
+  <MedPod_Message_TreatmentComplete>{1_label}에 대한 의료 포드 치료가 완료되었습니다.</MedPod_Message_TreatmentComplete>
+  <MedPod_Message_TreatmentInterrupted>{1_label}에 대한 의료 포드 치료가 중단되었습니다.</MedPod_Message_TreatmentInterrupted>
+  <MedPod_FloatMenu_RaceNotAllowed>의료 포드는 {0}(을)를 치료할 수 없습니다.</MedPod_FloatMenu_RaceNotAllowed>
+  <MedPod_FloatMenu_Unpowered>의료 포드에 전원이 공급되지 않음</MedPod_FloatMenu_Unpowered>
+  <MedPod_SurgeryProhibited_PatientUsingMedPod>의료 포드를 사용하는 환자</MedPod_SurgeryProhibited_PatientUsingMedPod>
+
+</LanguageData>

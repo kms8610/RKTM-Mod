@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AtomicCellularRegeneration.label>원자 세포 재생</AtomicCellularRegeneration.label>
+  <AtomicCellularRegeneration.description>살아있는 세포를 원자 수준으로 빠르게 복구하여 광범위한 질병과 부상을 자동으로 치료할 수 있는 고급 병상인 의료 포드를 만들 수 있습니다.</AtomicCellularRegeneration.description>
+  <AtomicCellularRegeneration.discoveredLetterTitle>소개: 의료 포드 제작</AtomicCellularRegeneration.discoveredLetterTitle>
+  <AtomicCellularRegeneration.discoveredLetterText>이제 의료 포드를 제작할 수 있는 기술이 있지만 각 의료 포드에는 특수 아이솔라니어 프로세서 구성 요소가 필요합니다.\n아이솔라니어 프로세서는 여러 가지 방법으로 수집할 수 있습니다.\n\n- 궤도 상선 또는 상단의 귀중품 상인은 아이솔라니어 프로세서를 판매합니다. 초대하거나 기다리세요.\n\n- 일부 임무는 아이솔라니어 프로세서를 보상으로 줍니다.\n\n- 인공자아 핵을 분해하여 다양한 기타 구성 요소와 함께 아이솔라니어 프로세서를 얻으세요.</AtomicCellularRegeneration.discoveredLetterText>
+
+</LanguageData>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VAGPBakedpudding.label>푸딩</VAGPBakedpudding.label>
+  <VAGPBakedpudding.description>푸딩입니다.</VAGPBakedpudding.description>
+  <VAGPRicecakefilled.label>딸기찹쌀떡</VAGPRicecakefilled.label>
+  <VAGPRicecakefilled.description>딸기찹쌀떡입니다.</VAGPRicecakefilled.description>
+  <VAGPSwissroll.label>롤케이크</VAGPSwissroll.label>
+  <VAGPSwissroll.description>롤케이크입니다.</VAGPSwissroll.description>
+  <VAGPRiceporridge.label>흰죽</VAGPRiceporridge.label>
+  <VAGPRiceporridge.description>흰죽입니다.</VAGPRiceporridge.description>
+  <VAGPPopcorn.label>팝콘</VAGPPopcorn.label>
+  <VAGPPopcorn.description>팝콘입니다.</VAGPPopcorn.description>
+  <VAGPBoiledmeat.label>삶은 고기</VAGPBoiledmeat.label>
+  <VAGPBoiledmeat.description>삶은 고기입니다.</VAGPBoiledmeat.description>
+  <VAGPBoiledpotato.label>삶은 감자</VAGPBoiledpotato.label>
+  <VAGPBoiledpotato.description>삶은 감자입니다.</VAGPBoiledpotato.description>
+  <VAGPRoastedcorn.label>구운 옥수수</VAGPRoastedcorn.label>
+  <VAGPRoastedcorn.description>구운 옥수수입니다.</VAGPRoastedcorn.description>
+  <VAGPCornbread.label>옥수수빵</VAGPCornbread.label>
+  <VAGPCornbread.description>옥수수빵입니다.</VAGPCornbread.description>
+  <VAGPGrilledriceball.label>구운 주먹밥</VAGPGrilledriceball.label>
+  <VAGPGrilledriceball.description>구운 주먹밥입니다.</VAGPGrilledriceball.description>
+  <VAGPShallowfrypotato.label>감자튀김</VAGPShallowfrypotato.label>
+  <VAGPShallowfrypotato.description>감자튀김입니다.</VAGPShallowfrypotato.description>
+  <VAGPCottagecheese.label>코티지치즈</VAGPCottagecheese.label>
+  <VAGPCottagecheese.description>코티지치즈입니다.</VAGPCottagecheese.description>
+  <VAGPFriedegg.label>달걀 프라이</VAGPFriedegg.label>
+  <VAGPFriedegg.description>달걀 프라이입니다.</VAGPFriedegg.description>
+  <VAGPMeatball.label>미트볼</VAGPMeatball.label>
+  <VAGPMeatball.description>미트볼입니다.</VAGPMeatball.description>
+  <VAGPRicebread.label>쌀빵</VAGPRicebread.label>
+  <VAGPRicebread.description>쌀빵입니다.</VAGPRicebread.description>
+  <VAGPChurrasco.label>슈하스쿠</VAGPChurrasco.label>
+  <VAGPChurrasco.description>슈하스쿠입니다.</VAGPChurrasco.description>
+  <VAGPPotagesoup.label>포타주 수프</VAGPPotagesoup.label>
+  <VAGPPotagesoup.description>포타주 수프입니다.</VAGPPotagesoup.description>
+  <VAGPSmeatvegelargebowl.label>제육볶음</VAGPSmeatvegelargebowl.label>
+  <VAGPSmeatvegelargebowl.description>제육볶음입니다.</VAGPSmeatvegelargebowl.description>
+  <VAGPPotatobutter.label>버터감자구이</VAGPPotatobutter.label>
+  <VAGPPotatobutter.description>버터감자구이입니다.</VAGPPotatobutter.description>
+  <VAGPHamburgersteak.label>함박 스테이크</VAGPHamburgersteak.label>
+  <VAGPHamburgersteak.description>함박 스테이크입니다.</VAGPHamburgersteak.description>
+  <VAGPCheesecake.label>치즈케이크</VAGPCheesecake.label>
+  <VAGPCheesecake.description>치즈케이크입니다.</VAGPCheesecake.description>
+  <VAGPChocolatedoughnut.label>초콜릿 도넛</VAGPChocolatedoughnut.label>
+  <VAGPChocolatedoughnut.description>초콜릿 도넛입니다.</VAGPChocolatedoughnut.description>
+  <VAGPEggsbenedict.label>에그 베네딕트</VAGPEggsbenedict.label>
+  <VAGPEggsbenedict.description>에그 베네딕트입니다.</VAGPEggsbenedict.description>
+  <VAGPOmelettet.label>오믈렛</VAGPOmelettet.label>
+  <VAGPOmelettet.description>오믈렛입니다.</VAGPOmelettet.description>
+  <VAGPPancakewithb.label>딸기잼 팬케이크</VAGPPancakewithb.label>
+  <VAGPPancakewithb.description>딸기잼 팬케이크입니다.</VAGPPancakewithb.description>
+  <VAGPRisotto.label>리조또</VAGPRisotto.label>
+  <VAGPRisotto.description>리조또입니다.</VAGPRisotto.description>
+  <VAGPPiccata.label>피카타</VAGPPiccata.label>
+  <VAGPPiccata.description>피카타입니다.</VAGPPiccata.description>
+  <VAGPVegetablesfriedrice.label>야채볶음밥 세트</VAGPVegetablesfriedrice.label>
+  <VAGPVegetablesfriedrice.description>야채볶음밥 세트입니다.</VAGPVegetablesfriedrice.description>
+  <VAGPSoupingredients.label>부대찌개</VAGPSoupingredients.label>
+  <VAGPSoupingredients.description>부대찌개입니다.</VAGPSoupingredients.description>
+  <VAGPStew.label>스튜</VAGPStew.label>
+  <VAGPStew.description>스튜입니다.</VAGPStew.description>
+  <VAGPMeatpie.label>고기파이</VAGPMeatpie.label>
+  <VAGPMeatpie.description>고기파이입니다.</VAGPMeatpie.description>
+  <VAGPBerrypie.label>딸기파이</VAGPBerrypie.label>
+  <VAGPBerrypie.description>딸기파이입니다.</VAGPBerrypie.description>
+  <VAGPThrumboomeatcutletsandwich.label>트럼보 돈가스 샌드위치</VAGPThrumboomeatcutletsandwich.label>
+  <VAGPThrumboomeatcutletsandwich.description>트럼보 돈가스 샌드위치입니다.</VAGPThrumboomeatcutletsandwich.description>
+  <VAGPPizza.label>피자</VAGPPizza.label>
+  <VAGPPizza.description>피자입니다.</VAGPPizza.description>
+  <VAGPDria.label>도리아</VAGPDria.label>
+  <VAGPDria.description>도리아입니다.</VAGPDria.description>
+  <VAGPSteaktower.label>스테이크 탑</VAGPSteaktower.label>
+  <VAGPSteaktower.description>스테이크 탑입니다.</VAGPSteaktower.description>
+  <VAGPGratin.label>그라탱</VAGPGratin.label>
+  <VAGPGratin.description>그라탱입니다.</VAGPGratin.description>
+  <VAGPLuRouFan.label>루로우판</VAGPLuRouFan.label>
+  <VAGPLuRouFan.description>루로우판입니다.</VAGPLuRouFan.description>
+  <VAGPMincedMeatCutlet.label>멘치카츠</VAGPMincedMeatCutlet.label>
+  <VAGPMincedMeatCutlet.description>멘치카츠입니다.</VAGPMincedMeatCutlet.description>
+  <VAGPJambalaya.label>잠발라야</VAGPJambalaya.label>
+  <VAGPJambalaya.description>잠발라야입니다.</VAGPJambalaya.description>
+  <VAGPMealSurvivalPack.label>고급 보존식량</VAGPMealSurvivalPack.label>
+  <VAGPMealSurvivalPack.description>생존 상황에서 사용하기 위해 제조된 고품질 포장 식사입니다. 이것은 절대 썩지 않지만, 밖에 놔두면 손상될 수 있습니다. 여행할 때 휴대하기 좋으며, 맛있습니다.</VAGPMealSurvivalPack.description>
+  <VAGPMealMedicPack.label>건강식</VAGPMealMedicPack.label>
+  <VAGPMealMedicPack.description>의료용으로 제조된 고품질의 포장된 식사입니다. 이것은 절대 썩지 않지만, 밖에 놔두면 손상될 수 있습니다. 질병과 출혈로부터 회복하는 데 도움이 됩니다.</VAGPMealMedicPack.description>
+  <VAGPMealSoldierPack.label>전투식량</VAGPMealSoldierPack.label>
+  <VAGPMealSoldierPack.description>전투원을 위해 제조된 고품질의 포장된 식사입니다. 이것은 절대 썩지 않지만, 밖에 놔두면 손상될 수 있습니다. 다양한 신체 기능이 일시적으로 증가합니다. 엄선된 재료들만 사용한 영양가 높은 고기능성 식품입니다.</VAGPMealSoldierPack.description>
+</LanguageData>

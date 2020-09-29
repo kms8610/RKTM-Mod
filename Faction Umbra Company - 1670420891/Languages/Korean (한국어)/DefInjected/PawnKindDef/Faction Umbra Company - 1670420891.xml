@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RH_UmbraCompany_Rogue.label>계약자</RH_UmbraCompany_Rogue.label>
+  <RH_UmbraCompany_Rogue.labelPlural>계약자들</RH_UmbraCompany_Rogue.labelPlural>
+  <RH_UmbraCompany_CQB.label>계약자</RH_UmbraCompany_CQB.label>
+  <RH_UmbraCompany_CQB.labelPlural>계약자들</RH_UmbraCompany_CQB.labelPlural>
+  <RH_UmbraCompany_CQB_TierII.label>계약자</RH_UmbraCompany_CQB_TierII.label>
+  <RH_UmbraCompany_CQB_TierII.labelPlural>계약자들</RH_UmbraCompany_CQB_TierII.labelPlural>
+  <RH_UmbraCompany_Marksman.label>계약자</RH_UmbraCompany_Marksman.label>
+  <RH_UmbraCompany_Marksman.labelPlural>계약자들</RH_UmbraCompany_Marksman.labelPlural>
+  <RH_UmbraCompany_Marksman_TierII.label>계약자</RH_UmbraCompany_Marksman_TierII.label>
+  <RH_UmbraCompany_Marksman_TierII.labelPlural>계약자들</RH_UmbraCompany_Marksman_TierII.labelPlural>
+  <RH_UmbraCompany_Sniper.label>사신</RH_UmbraCompany_Sniper.label>
+  <RH_UmbraCompany_Sniper.labelPlural>사신들</RH_UmbraCompany_Sniper.labelPlural>
+  <RH_UmbraCompany_Assault.label>계약자</RH_UmbraCompany_Assault.label>
+  <RH_UmbraCompany_Assault.labelPlural>계약자들</RH_UmbraCompany_Assault.labelPlural>
+  <RH_UmbraCompany_Assault_TierII.label>계약자</RH_UmbraCompany_Assault_TierII.label>
+  <RH_UmbraCompany_Assault_TierII.labelPlural>계약자들</RH_UmbraCompany_Assault_TierII.labelPlural>
+  <RH_UmbraCompany_Gunner.label>계약자</RH_UmbraCompany_Gunner.label>
+  <RH_UmbraCompany_Gunner.labelPlural>계약자들</RH_UmbraCompany_Gunner.labelPlural>
+  <RH_UmbraCompany_Grenadier.label>계약자</RH_UmbraCompany_Grenadier.label>
+  <RH_UmbraCompany_Grenadier.labelPlural>계약자들</RH_UmbraCompany_Grenadier.labelPlural>
+  <RH_UmbraCompany_Boss.label>사령관</RH_UmbraCompany_Boss.label>
+  <RH_UmbraCompany_Boss.labelPlural>사령관들</RH_UmbraCompany_Boss.labelPlural>
+  <RH_UmbraCompany_Elite.label>특수부대 요원</RH_UmbraCompany_Elite.label>
+  <RH_UmbraCompany_Elite.labelPlural>특수부대 요원</RH_UmbraCompany_Elite.labelPlural>
+  <RH_UmbraCompany_Trader.label>상인</RH_UmbraCompany_Trader.label>
+  <RH_UmbraCompany_Trader.labelPlural>상인들</RH_UmbraCompany_Trader.labelPlural>
+  <RH_UmbraCompany_APCCrewman.label>APC 승무원</RH_UmbraCompany_APCCrewman.label>
+  <RH_UmbraCompany_APCCrewman.labelPlural>APC 승무원들</RH_UmbraCompany_APCCrewman.labelPlural>
+
+</LanguageData>

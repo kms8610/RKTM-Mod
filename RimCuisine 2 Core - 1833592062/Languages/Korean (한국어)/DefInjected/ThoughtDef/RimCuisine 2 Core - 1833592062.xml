@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1543723640_190818_RimCuisine-->
+  <AteChocolateAsIngredient.stages.0.label>초콜릿을 먹음</AteChocolateAsIngredient.stages.0.label>
+  <AteExoticFood.stages.0.label>이국적인 음식을 먹음</AteExoticFood.stages.0.label>
+  <AteExoticAsIngredient.stages.0.label>이국적인 재료를 먹음</AteExoticAsIngredient.stages.0.label>
+  <AteExtravagantMeal.stages.0.label>사치스러운 식사를 먹음</AteExtravagantMeal.stages.0.label>
+  <AtePoorFood.stages.0.label>빈약한 음식을 먹음</AtePoorFood.stages.0.label>
+  <AtePoorAsIngredient.stages.0.label>빈약한 재료를 먹음</AtePoorAsIngredient.stages.0.label>
+  <AteRareFood.stages.0.label>희귀한 음식을 먹음</AteRareFood.stages.0.label>
+  <AteRareAsIngredient.stages.0.label>귀한 재료를 먹음</AteRareAsIngredient.stages.0.label>
+  <AteExoticSnack.stages.0.label>정말 맛있는 간식을 먹음</AteExoticSnack.stages.0.label>
+  <AteTastySnack.stages.0.label>맛있는 간식을 먹음</AteTastySnack.stages.0.label>
+  <AteTofuAsIngredient.stages.0.label>두부를 먹음</AteTofuAsIngredient.stages.0.label>
+  <AteUncommonFood.stages.0.label>특별한 음식을 먹음</AteUncommonFood.stages.0.label>
+  <AteUncommonAsIngredient.stages.0.label>특별한 재료를 먹음</AteUncommonAsIngredient.stages.0.label>
+  <CaffeineHigh.stages.0.description>피로 회복제로 카페인이 딱이지!</CaffeineHigh.stages.0.description>
+  <CaffeineWithdrawal.stages.1.label>카페인 금단 현상</CaffeineWithdrawal.stages.1.label>
+  <RC_ShroomsHigh.stages.2.label>강한 환각 경험 중</RC_ShroomsHigh.stages.2.label>
+  <SkagHigh.stages.2.label>스캐그에 중독됨</SkagHigh.stages.2.label>
+  <DrankTastyDrink.stages.0.label>맛있는 음료수를 마심</DrankTastyDrink.stages.0.label>
+  <DreamstickHigh.stages.2.label>드림스틱으로 꿈을 꾸고 있음</DreamstickHigh.stages.2.label>
+  <DreamstickHigh.stages.0.label>드림스틱에서 회복함</DreamstickHigh.stages.0.label>
+  <DreamstickHigh.stages.1.label>드림스틱에 취함</DreamstickHigh.stages.1.label>
+  <AtePoorAsIngredient.stages.0.description>아, 별로 맛없었어.</AtePoorAsIngredient.stages.0.description>
+  <AtePoorFood.stages.0.description>으엑. 뭐 안먹는 것보다는 낫지만..</AtePoorFood.stages.0.description>
+  <VikoHigh.stages.0.label>비코에 취함</VikoHigh.stages.0.label>
+  <RC_ShroomsHigh.stages.1.description>색깔이 들리고 소리가 보여! 우오와아아아아아!</RC_ShroomsHigh.stages.1.description>
+  <AteRareFood.stages.0.description>이것만 먹고 평생 살아도 될거같아!</AteRareFood.stages.0.description>
+  <AteChocolateAsIngredient.stages.0.description>나는! 초콜릿이! 존나게! 좋아!</AteChocolateAsIngredient.stages.0.description>
+  <AteTastySnack.stages.0.description>간식 또 먹고 싶은 걸!</AteTastySnack.stages.0.description>
+  <ZopioidWithdrawal.stages.1.description>뭔가가 필요해! 몸 전체가 따갑고 토할것만 같아.</ZopioidWithdrawal.stages.1.description>
+  <NicotineWithdrawal.stages.1.description>담배를 펴야돼!</NicotineWithdrawal.stages.1.description>
+  <SkagHigh.stages.0.description>토할거 같아...</SkagHigh.stages.0.description>
+  <AteExoticFood.stages.0.description>이.. 이제 죽어도 좋아..</AteExoticFood.stages.0.description>
+  <VikoHigh.stages.0.description>나 약했다고 친구. 기분 너무 좋아.</VikoHigh.stages.0.description>
+  <CaffeineHigh.stages.2.label>초조해함</CaffeineHigh.stages.2.label>
+  <RC_ShroomsHigh.stages.0.label>약한 환각 경험 중</RC_ShroomsHigh.stages.0.label>
+  <AteUncommonFood.stages.0.description>음, 괜찮군!</AteUncommonFood.stages.0.description>
+  <DrankTastyDrink.stages.0.description>음, 신선하구만!</DrankTastyDrink.stages.0.description>
+  <AteExoticAsIngredient.stages.0.description>으으음, 그 맛.. 질감.. 맛 좋았어..</AteExoticAsIngredient.stages.0.description>
+  <RC_ShroomsHigh.stages.1.label>보통의 환각 경험 중</RC_ShroomsHigh.stages.1.label>
+  <NicotineWithdrawal.stages.1.label>니코틴 금단 현상</NicotineWithdrawal.stages.1.label>
+  <DreamstickHigh.stages.1.description>오 바로 그거야. 가보자고!</DreamstickHigh.stages.1.description>
+  <DreamstickHigh.stages.0.description>으호오오 그래 이제 느껴져. 으으음</DreamstickHigh.stages.0.description>
+  <ZopeHigh.stages.1.description>오! 이건 물건이야!</ZopeHigh.stages.1.description>
+  <CaffeineHigh.stages.3.description>손바닥은 젖었고, 무릎은 아프고, 팔은 무겁고, 엄마 스파게티!</CaffeineHigh.stages.3.description>
+  <CaffeineHigh.stages.0.label>기운이 남</CaffeineHigh.stages.0.label>
+  <CaffeineHigh.stages.3.label>떨림</CaffeineHigh.stages.3.label>
+  <ShroomsWithdrawal.stages.1.label>환각 버섯 금단현상</ShroomsWithdrawal.stages.1.label>
+  <SkagHigh.stages.1.label>스캐그 후유증</SkagHigh.stages.1.label>
+  <SkagHigh.stages.0.label>스캐그에서 회복함</SkagHigh.stages.0.label>
+  <AteExtravagantMeal.stages.0.description>말그대로 사치스러운 식사였어. 몸뿐만 아니라 영혼까지 배가 부른 느낌이야.</AteExtravagantMeal.stages.0.description>
+  <AteExoticSnack.stages.0.description>아까 먹었던 간식 정말 맛있었어!!</AteExoticSnack.stages.0.description>
+  <SkagHigh.stages.1.description>그거 굉장했어. 피곤하긴 하지만 기분 좋은걸.</SkagHigh.stages.1.description>
+  <AteRareAsIngredient.stages.0.description>맛있었어!</AteRareAsIngredient.stages.0.description>
+  <AteUncommonAsIngredient.stages.0.description>괜찮은 맛인데!</AteUncommonAsIngredient.stages.0.description>
+  <CaffeineHigh.stages.2.description>너무 많이 먹었나봐. 손이 떨리기 시작했어.</CaffeineHigh.stages.2.description>
+  <AteTofuAsIngredient.stages.0.description>윽 더러워. 이걸 고기 대체식이라고 부른다고? 진짜 고기를 달라고!</AteTofuAsIngredient.stages.0.description>
+  <CaffeineWithdrawal.stages.1.description>아, 카페인이 필요해. 머리가 아파서 집중하기 힘들어. 다들 좀 닥쳐줬으면 좋겠어.</CaffeineWithdrawal.stages.1.description>
+  <CaffeineHigh.stages.1.description>이게 무슨 느낌이람!</CaffeineHigh.stages.1.description>
+  <RC_ShroomsHigh.stages.2.description>무엇이 현.실.이.지? 누가 진.짜.지? 이게 왜 현.실.이.지? 나는 미쳤다!</RC_ShroomsHigh.stages.2.description>
+  <ShroomsWithdrawal.stages.1.description>뭐? 이건 중독성있는 그런게 아니라구!</ShroomsWithdrawal.stages.1.description>
+  <CaffeineHigh.stages.1.label>흥분함</CaffeineHigh.stages.1.label>
+  <RC_ShroomsHigh.stages.0.description>오.. 나 지금.. 기분 좋아..</RC_ShroomsHigh.stages.0.description>
+  <DreamstickHigh.stages.2.description>기분 좋아아아....</DreamstickHigh.stages.2.description>
+  <SkagHigh.stages.2.description>좋아아아아....</SkagHigh.stages.2.description>
+  <ZopeHigh.stages.1.label>조피에 취함</ZopeHigh.stages.1.label>
+  <ZopeHigh.stages.0.description>조피에 취하면 지쳐. 기분은 좋네.</ZopeHigh.stages.0.description>
+  <ZopeHigh.stages.0.label>조피의 영향 적음</ZopeHigh.stages.0.label>
+  <ZopioidWithdrawal.stages.1.label>조피오이드 금단 현상</ZopioidWithdrawal.stages.1.label>
+
+</LanguageData>

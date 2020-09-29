@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Zoom>확대/축소</Zoom>
+  <Near>가까운</Near>
+  <Far>먼</Far>
+  <ZoomedInPercent>최대 확대 설정값</ZoomedInPercent>
+  <ZoomedOutPercent>최대 축소 설정값</ZoomedOutPercent>
+  <Exponentiality>크기 조정값:</Exponentiality>
+  <SoundNearness>배경 소리를 더 가까이에서 재생</SoundNearness>
+  <HotKeys>키보드 단축키</HotKeys>
+  <SettingsKey>카메라+ 설정</SettingsKey>
+  <LoadModifier>시점 불러오기</LoadModifier>
+  <SaveModifier>시점 저장</SaveModifier>
+  <DollyPercentLabel>화면이동 속도</DollyPercentLabel>
+  <ScreenEdgeDollyFrictionLabel>가장자리 화면이동 설정값</ScreenEdgeDollyFrictionLabel>
+  <HideNamesWhenZoomedOut>축소했을 때 이름 숨기기</HideNamesWhenZoomedOut>
+  <Pixel>픽셀</Pixel>
+  <HidePawnLabelBelow>정착민 이름을 숨김 (값 이하일 때) : </HidePawnLabelBelow>
+  <HideThingLabelBelow>물품 이름을 숨김 (값 이하일 때) : </HideThingLabelBelow>
+  <ShowMarkerBelow>표식으로 표시 (값 이하일 때) : </ShowMarkerBelow>
+  <IncludeAnimals>동물도 동일하게 표시</IncludeAnimals>
+  <AnimalsDifferent>동물은 다르게 표시</AnimalsDifferent>
+  <HideAnimals>동물은 표시 안 함</HideAnimals>
+  <IncludeNotTamedAnimals>길들이지 않은 동물 포함</IncludeNotTamedAnimals>
+  <ZoomToMouse>마우스 위치로 확대</ZoomToMouse>
+  <MouseRevealsLabels>마우스 근처 이름 표시</MouseRevealsLabels>
+  <KeyLeftShift>왼쪽 Shift</KeyLeftShift>
+  <KeyLeftAlt>왼쪽 Alt</KeyLeftAlt>
+  <KeyLeftControl>왼쪽 Ctrl</KeyLeftControl>
+  <KeyLeftCommand>왼쪽 Cmd</KeyLeftCommand>
+  <KeyLeftWindows>왼쪽 Win</KeyLeftWindows>
+  <KeyRightShift>왼쪽 Shift</KeyRightShift>
+  <KeyRightAlt>왼쪽 Alt</KeyRightAlt>
+  <KeyRightControl>왼쪽 Ctrl</KeyRightControl>
+  <KeyRightCommand>왼쪽 Cmd</KeyRightCommand>
+  <KeyRightWindows>왼쪽 Win</KeyRightWindows>
+</LanguageData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1543723640_190818_RimCuisine-->
+  <AdvancedAgriculture.label>고급 농법</AdvancedAgriculture.label>
+  <AdvancedCooking.label>고급 요리</AdvancedCooking.label>
+  <AdvancedCooking.description>전기 스토브, 롤러 제분기,캔디 및 패이스트리를 포함한 요리를 만드는데 필요한 지식</AdvancedCooking.description>
+  <AdvancedFoodPreservation.label>고급 요리 가공 지식</AdvancedFoodPreservation.label>
+  <AdvancedZopioidRefining.label>고급 조피오이드 정제법</AdvancedZopioidRefining.label>
+  <BasicAgriculture.label>초급 농법</BasicAgriculture.label>
+  <BasicCooking.label>초급 요리</BasicCooking.label>
+  <BasicForestry.label>과일 나무</BasicForestry.label>
+  <IntermediateAgriculture.label>중급 농법</IntermediateAgriculture.label>
+  <IntermediateCooking.label>중급 요리</IntermediateCooking.label>
+  <IntermediateFoodPreservation.label>중급 요리 가공 지식</IntermediateFoodPreservation.label>
+  <BasicForestry.description>다른 나무들에 비해 신선한 과일을 얻을 수 있어 매우 유용합니다.</BasicForestry.description>
+  <BasicCooking.description>단순한 스튜와 건빵뿐만 아니라 설탕과 밀가루를 만드는데 필요한 지식</BasicCooking.description>
+  <AdvancedFoodPreservation.description>통조림 제조에 관한 지식. 통조림의 유통기한은 무기한으로 지속됩니다.</AdvancedFoodPreservation.description>
+  <IntermediateCooking.description>스토브 제작, 고급 스튜 및 맷돌을 사용한 기본적인 가공 식품을 포함한 요리에 대한 지식</IntermediateCooking.description>
+  <IntermediateFoodPreservation.description>소금물에 절인 채소 및 과일 보존에 관한 지식.</IntermediateFoodPreservation.description>
+  <BasicAgriculture.description>작물 재배에 관한 지식. 아주 기본적인 작물들.</BasicAgriculture.description>
+  <AdvancedAgriculture.description>보다 발전되고 유용한 작물의 재배에 관한 지식.</AdvancedAgriculture.description>
+  <IntermediateAgriculture.description>보다 발전된 작물의 재배에 관한 지식.</IntermediateAgriculture.description>
+  <ZopioidRefining.description>조피를 스캐그 및 드림스틱으로 정제하는 방법에 대한 지식.</ZopioidRefining.description>
+  <AdvancedZopioidRefining.description>조피와 약뿌리를 상대적으로 안전한 진통제인 비코로 만드는데 필요한 지식.</AdvancedZopioidRefining.description>
+  <ZopioidRefining.label>조피오이드 정제</ZopioidRefining.label>
+
+</LanguageData>

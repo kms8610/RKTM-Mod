@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EmptySpace.label>진공</EmptySpace.label>
+  <FakeFloorInsideShip.label>함선</FakeFloorInsideShip.label>
+  <ShipWreckageTerrain.label>잔해</ShipWreckageTerrain.label>
+  <FakeFloorInsideShipMech.label>메카노이드 함선</FakeFloorInsideShipMech.label>
+  <SoilShip.label>인공 토양 기질</SoilShip.label>
+  <SoilShip.description>미생물과 촉매가 섞여 있는 인공 토양은 이론적으로 우주선에서도 자생할 수 있습니다.</SoilShip.description>
+  <SoilShip.tools.0.label>흙</SoilShip.tools.0.label>
+
+</LanguageData>

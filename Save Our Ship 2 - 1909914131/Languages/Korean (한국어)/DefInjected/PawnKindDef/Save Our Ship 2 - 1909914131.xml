@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ShuttlePersonalHover.label>개인 왕복선 (순회 모드)</ShuttlePersonalHover.label>
+  <ShuttleCargoHover.label>화물 왕복선 (순회 모드)</ShuttleCargoHover.label>
+  <ShuttleHeavyHover.label>중화물 왕복선 (순회 모드)</ShuttleHeavyHover.label>
+  <SpaceCannibal.label>우주 포식자</SpaceCannibal.label>
+  <SpaceCrew.label>승무원</SpaceCrew.label>
+  <SpaceCrewMarine.label>경무장 해병</SpaceCrewMarine.label>
+  <SpaceCrewMarineHeavy.label>중무장 해병</SpaceCrewMarineHeavy.label>
+  <Astromite.label>별진드기</Astromite.label>
+  <Stellapede.label>스텔라피드</Stellapede.label>
+  <Cosmopillar.label>우주기둥</Cosmopillar.label>
+
+</LanguageData>

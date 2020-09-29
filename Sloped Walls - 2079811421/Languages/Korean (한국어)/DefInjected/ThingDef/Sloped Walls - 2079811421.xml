@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SlopedWall.label>경사진 벽</SlopedWall.label>
+  <SlopedWall.description>기어오를 수 있는 경사진 방어벽으로 시야는 차단되지만, 통행을 가로막지는 않습니다. 윗부분이 아주 넓어서 해당 타일 위에 서 있을 수도 있습니다.</SlopedWall.description>
+  <SlopedRidge.label>경사진 쐐기벽</SlopedRidge.label>
+  <SlopedRidge.description>기어오를 수 있는 경사진 방어벽으로 시야는 차단되지만, 통행을 가로막지는 않습니다. 윗부분이 아주 좁아서 해당 타일 위에 서 있는 것은 불가능합니다.</SlopedRidge.description>
+
+</LanguageData>

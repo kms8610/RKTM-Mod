@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Lighting_MURUVWallLight.label>식물 성장 벽 조명</Lighting_MURUVWallLight.label>
+  <Lighting_MURUVWallLight.description>벽에 설치 되로록 만들어진 식물 성장 벽조명 입니다</Lighting_MURUVWallLight.description>
+  <Lighting_MURUVWallLight.comps.2.offMessage>작물 휴식기에 꺼짐.</Lighting_MURUVWallLight.comps.2.offMessage>
+  <Lighting_MURUVWallLight_Glower.label>식물 성장 벽 조명</Lighting_MURUVWallLight_Glower.label>
+  <Lighting_MURUVWallLight_Glower.description>없음</Lighting_MURUVWallLight_Glower.description>
+  <Lighting_MURUVWallLight_On.label>UV 벽 조명 (켜짐)</Lighting_MURUVWallLight_On.label>
+  <Lighting_MURUVWallLight_On.description>그 방향을 향하게 지을 순 없습니다</Lighting_MURUVWallLight_On.description>
+
+</LanguageData>

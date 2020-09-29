@@ -175,6 +175,7 @@
 	<!-- 20.09.29 -->
 	<li IfModActive="dismarzero.VGP.VGPGardenMedicine">VGP Garden Medicine - 2007063140</li>
 	<li IfModActive="yrtwof.Rimpedia">Rimpedia - 2145524536</li>
+	<li IfModActive="UnlimitedHugs.AllowTool">Allow Tool - 761421485</li>
   </v1.2>
 
 </loadFolders>

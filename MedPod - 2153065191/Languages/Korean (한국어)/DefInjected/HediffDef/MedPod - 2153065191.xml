@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedPod_InducedComa.label>혼수상태를 유도하는 델타파</MedPod_InducedComa.label>
+  <MedPod_InducedComa.description>대뇌 피질 신경에 영향을 주는 전기적으로 조작된 변성 델타파로, 화학적 마취의 효과가 있어서 생물이 의식을 차리지 못하게 합니다.</MedPod_InducedComa.description>
+  <MedPod_CorticalStimulation.label>대뇌 피질 자극</MedPod_CorticalStimulation.label>
+  <MedPod_CorticalStimulation.description>신경 전기 자극은 대뇌 피질에 작용하여 생물체의 의식을 부드럽게 회복시킵니다.</MedPod_CorticalStimulation.description>
+  <MedPod_CorticalStimulationImproper.label>대뇌 피질의 자극 (부적절)</MedPod_CorticalStimulationImproper.label>
+  <MedPod_CorticalStimulationImproper.description>신경 전기 자극이 대뇌피질에 부적절하게 작용하여 급격하게 생물체의 의식을 회복시킵니다.\n\n보통 의료 포드 사용 중 전원이 끊기거나, 오작동할 때 발생합니다.</MedPod_CorticalStimulationImproper.description>
+
+</LanguageData>

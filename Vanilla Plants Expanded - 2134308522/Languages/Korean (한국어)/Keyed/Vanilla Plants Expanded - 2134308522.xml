@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_PlumsDrying>건조된 자두</VCE_PlumsDrying>
+  <VCE_PlumsCurrentlyFrozen>이 자두는 얼어붙어서 건조되지 않습니다</VCE_PlumsCurrentlyFrozen>
+  <VCE_PlumsCurrentlyRefrigerated>이 자두는 냉장 보관되어 빠르게 건조되지 않습니다.\n({0} 뒤 건조됨)</VCE_PlumsCurrentlyRefrigerated>
+  <VCE_PlumsDryingCorrectly>이 자두는 잘 건조되고 있습니다. ({0} 뒤 건조됨)</VCE_PlumsDryingCorrectly>
+</LanguageData>

@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RNApparel_511TacTec_Contractor.label>5.11 택텍 방탄복 (계약자)</RNApparel_511TacTec_Contractor.label>
+  <RNApparel_511TacTec_Contractor.description>5.11사의 택텍 플레이트 캐리어를 소개합니다. 처음엔 크로스핏에 중량 조끼로 판매되었지만, 5.11사는 택텍 플레이트 캐리어를 전투에 시간을 쓰지 않는 사람들에게 무거워빠진 것들을 입는 것보다 여기에 수백 달러를 쓰는 게 더 나을 것이라고 설득하여 판매했습니다(사실, 그 가격은 방탄판을 제외한 가격이었습니다).
+
+크라이 프리시전사의 장비를 살 여유가 없던 전장의 대원들은 인체공학적이고 가벼운 기능을 보고 대안으로 이를 택했습니다. 5.11사 덕분에 대원들의 지갑은 지켜질 수 있었죠.</RNApparel_511TacTec_Contractor.description>
+  <RNApparel_IBAUCVest.label>인터셉터 방탄복 (계약자)</RNApparel_IBAUCVest.label>
+  <RNApparel_IBAUCVest.description>인터셉터 복층 방탄복 시스템(IBA)은 1990년대 후반에서 2000년대 후반까지 미군에 의해 사용된 방탄조끼입니다.
+
+IBA와 그 디자인은 1980년대 초에 도입된 구식 표준인 파편 보호 개인장갑 방탄 시스템(PASGT) 을 대체했습니다.</RNApparel_IBAUCVest.description>
+  <RNApparel_PTABravoHelmet_grey.label>PT A-브라보 회색 헬멧</RNApparel_PTABravoHelmet_grey.label>
+  <RNApparel_PTABravoHelmet_grey.description>Pro-Tec A-Bravo는 원래 스포츠용 헬멧을 설계한 Pro-Tec 회사에서 생산한 일련의 헬멧입니다.
+
+이 특정 모델은 현시대에는 시중에서 살 수 없으며, 미국 국방성만 미군이나 경찰을 위해 대량으로 구매할 수 있습니다.
+웹 사이트에 따르면: "미국의 군사와 연방 부서 전용. 현재 다른 고객의 주문은 받지 않습니다. 미국제.</RNApparel_PTABravoHelmet_grey.description>
+  <RNApparel_PTABravoHelmet_olive.label>PT A-브라보 헬멧 (계약자)</RNApparel_PTABravoHelmet_olive.label>
+  <RNApparel_PTABravoHelmet_olive.description>Pro-Tec A-Bravo는 원래 스포츠용 헬멧을 설계한 Pro-Tec 회사에서 생산한 일련의 헬멧입니다.
+
+이 특정 모델은 현시대에는 시중에서 살 수 없으며, 미국 국방성만 미군이나 경찰을 위해 대량으로 구매할 수 있습니다.
+웹 사이트에 따르면: "미국의 군사와 연방 부서 전용. 현재 다른 고객의 주문은 받지 않습니다. 미국제.</RNApparel_PTABravoHelmet_olive.description>
+  <RNApparel_PTABravoHelmet_M50Gasmask.label>PT A-브라보 M50 화생방 헬멧</RNApparel_PTABravoHelmet_M50Gasmask.label>
+  <RNApparel_PTABravoHelmet_M50Gasmask.description>Pro-Tec A-Bravo는 원래 스포츠용 헬멧을 설계한 Pro-Tec 회사에서 생산한 일련의 헬멧입니다.
+
+이 특정 모델은 현시대에는 시중에서 살 수 없으며, 미국 국방성만 미군이나 경찰을 위해 대량으로 구매할 수 있습니다.
+웹 사이트에 따르면: "미국의 군사와 연방 부서 전용. 현재 다른 고객의 주문은 받지 않습니다. 미국제.</RNApparel_PTABravoHelmet_M50Gasmask.description>
+  <RNApparel_PTABravoHelmet_SpecOpsA.label>PT A-브라보 특수부대 A 헬멧</RNApparel_PTABravoHelmet_SpecOpsA.label>
+  <RNApparel_PTABravoHelmet_SpecOpsA.description>Pro-Tec A-Bravo는 원래 스포츠용 헬멧을 설계한 Pro-Tec 회사에서 생산한 일련의 헬멧입니다.
+
+이 특정 모델은 현시대에는 시중에서 살 수 없으며, 미국 국방성만 미군이나 경찰을 위해 대량으로 구매할 수 있습니다.
+웹 사이트에 따르면: "미국의 군사와 연방 부서 전용. 현재 다른 고객의 주문은 받지 않습니다. 미국제.</RNApparel_PTABravoHelmet_SpecOpsA.description>
+  <RNApparel_PTABravoHelmet_SpecOpsB.label>PT A-브라보 특수부대 B 헬멧</RNApparel_PTABravoHelmet_SpecOpsB.label>
+  <RNApparel_PTABravoHelmet_SpecOpsB.description>Pro-Tec A-Bravo는 원래 스포츠용 헬멧을 설계한 Pro-Tec 회사에서 생산한 일련의 헬멧입니다.
+
+이 특정 모델은 현시대에는 시중에서 살 수 없으며, 미국 국방성만 미군이나 경찰을 위해 대량으로 구매할 수 있습니다.
+웹 사이트에 따르면: "미국의 군사와 연방 부서 전용. 현재 다른 고객의 주문은 받지 않습니다. 미국제.</RNApparel_PTABravoHelmet_SpecOpsB.description>
+  <RNApparel_PTABravoHelmet_Reaper.label>PT A-브라보 사신 헬멧</RNApparel_PTABravoHelmet_Reaper.label>
+  <RNApparel_PTABravoHelmet_Reaper.description>Pro-Tec A-Bravo는 원래 스포츠용 헬멧을 설계한 Pro-Tec 회사에서 생산한 일련의 헬멧입니다.
+
+이 특정 모델은 현시대에는 시중에서 살 수 없으며, 미국 국방성만 미군이나 경찰을 위해 대량으로 구매할 수 있습니다.
+웹 사이트에 따르면: "미국의 군사와 연방 부서 전용. 현재 다른 고객의 주문은 받지 않습니다. 미국제.</RNApparel_PTABravoHelmet_Reaper.description>
+  <RNApparel_PatchCap_ATACSAU.label>A-TACS AU 야구모자</RNApparel_PatchCap_ATACSAU.label>
+  <RNApparel_PatchCap_ATACSAU.description>햇빛 차단용 챙이 있는 모자입니다. A-TACS AU 위장이 되어 있습니다.</RNApparel_PatchCap_ATACSAU.description>
+  <RNApparel_combats_Black.label>검은색 전투복</RNApparel_combats_Black.label>
+  <RNApparel_combats_Black.description>전투복, 필드 유니폼, 또는 배틀 드레스는 행사 같은 곳에서 입는 옷과는 달리 전투에서 사용하는 의류입니다. 미국식 표현으론 fatigues란 용어가 사용되기도 했는데, 이는 원래 군인의 근무복에 대한 용어였습니다.
+
+전투복은 일반적으로 주변과 비슷하게 보이기 위해 녹색, 갈색 음영 같은 단색이나 어지러운 패턴으로 위장되어 있습니다.</RNApparel_combats_Black.description>
+  <RNApparel_combats_SmockBlack.label>검은색 작업복</RNApparel_combats_SmockBlack.label>
+  <RNApparel_combats_SmockBlack.description>추운 날씨를 위한 맞춤 제작된 방풍 후드티입니다. 착용자의 가연성을 줄여주기 위해 디자인되었습니다.</RNApparel_combats_SmockBlack.description>
+  <RNApparel_Balaclava_PMCBali.label>발라클라바 (PMC)</RNApparel_Balaclava_PMCBali.label>
+  <RNApparel_Balaclava_PMCBali.description>민간 군사기업 용병들이 착용하는 일반적인 발라클라바입니다. 착용자의 얼굴을 숨기고, 자신감 있게 만들어줍니다.</RNApparel_Balaclava_PMCBali.description>
+  <RNApparel_Parka_ATACSAU.label>A-TACS AU 파카</RNApparel_Parka_ATACSAU.label>
+  <RNApparel_Parka_ATACSAU.description>가장 추운 겨울에도 몸이 따뜻하게 유지되도록 도와주는 두꺼운 파카입니다. A-TACS AU 위장이 되어 있습니다.</RNApparel_Parka_ATACSAU.description>
+  <RNApparel_GhillieSuitReaper.label>사신 저격수용 위장복</RNApparel_GhillieSuitReaper.label>
+  <RNApparel_GhillieSuitReaper.description>저격수용 위장복은 수풀, 눈 또는 모래와 같은 배경 환경과 유사하게 디자인된 위장복의 한 유형입니다.
+
+일반적으로 굵은 삼베, 헝겊 또는 노끈으로 덮여 있으며, 때로는 나뭇잎과 나뭇가지처럼 보이게 하고, 선택적으로 해당 지역의 나뭇잎으로 보강된 그물 또는 천으로 덮인 의복입니다. 접촉 시 연막을 낼 확률이 있습니다.</RNApparel_GhillieSuitReaper.description>
+  <RN_BallisticKnife_Blade.label>투척 단검</RN_BallisticKnife_Blade.label>
+  <RNBullet_40SW_Pistol.label>.40 SW 탄환</RNBullet_40SW_Pistol.label>
+  <RNBullet_45ACP_Pistol.label>.45 ACP 탄환</RNBullet_45ACP_Pistol.label>
+  <RNBullet_45ACPAP_Pistol.label>.45 ACP AP 탄환</RNBullet_45ACPAP_Pistol.label>
+  <RNBullet_9MM_Pistol.label>9x19mm 파라벨럼 탄환</RNBullet_9MM_Pistol.label>
+  <RNBullet_9MMMakarov_Pistol.label>9x18mm 마카로프 탄환</RNBullet_9MMMakarov_Pistol.label>
+  <RNBullet_9MMAP_Pistol.label>9x19mm 파라벨럼 AP 탄환</RNBullet_9MMAP_Pistol.label>
+  <RNBullet_46x30_Pistol.label>4.6x30mm 탄환</RNBullet_46x30_Pistol.label>
+  <RNBullet_57_Pistol.label>5.7x28mm 탄환</RNBullet_57_Pistol.label>
+  <RNBullet_50_Pistol.label>.50 탄환</RNBullet_50_Pistol.label>
+  <RNBullet_762Tokarev_Pistol.label>7.62x25mm 토카레프 파라벨럼 탄환</RNBullet_762Tokarev_Pistol.label>
+  <RNBullet_762_Revolver.label>7.62x38mmR 탄환</RNBullet_762_Revolver.label>
+  <RNBullet_454_Revolver.label>.454 탄환</RNBullet_454_Revolver.label>
+  <RNBullet_44Magnum_Pistol.label>.44 매그넘 탄환</RNBullet_44Magnum_Pistol.label>
+  <RNBullet_45Colt_Pistol.label>.45 콜트 탄환</RNBullet_45Colt_Pistol.label>
+  <RNBullet_38Special_Pistol.label>.38 탄환</RNBullet_38Special_Pistol.label>
+  <RNBullet_357_Revolver.label>.357 탄환</RNBullet_357_Revolver.label>
+  <RNBullet_545x39_Rifle.label>5.45x39mm 탄환</RNBullet_545x39_Rifle.label>
+  <RNBullet_AACBlackout_PDW.label>AAC 블랙아웃 탄환</RNBullet_AACBlackout_PDW.label>
+  <RNBullet_380_SMG.label>.380 탄환</RNBullet_380_SMG.label>
+  <RNBullet_32ACP_Pistol.label>.32 ACP 탄환</RNBullet_32ACP_Pistol.label>
+  <RNBullet_12Gauge_Shotgun.label>산탄총 탄환</RNBullet_12Gauge_Shotgun.label>
+  <RNBullet_23x75mmR_Shotgun.label>23x75mmR 탄환</RNBullet_23x75mmR_Shotgun.label>
+  <RNBullet_762x54_LMG.label>7.62x54mmR 탄환</RNBullet_762x54_LMG.label>
+  <RNBullet_762x51mm_LMG.label>7.62x51mm 나토 탄환</RNBullet_762x51mm_LMG.label>
+  <RNBullet_762x39_Rifle.label>7.62x39R 탄환</RNBullet_762x39_Rifle.label>
+  <RNBullet_556x45_Rifle.label>5.56x45mm 탄환</RNBullet_556x45_Rifle.label>
+  <RNBullet_303British_Rifle.label>.303 브리티쉬 탄환</RNBullet_303British_Rifle.label>
+  <RNBullet_762x54_Rifle.label>7.62x54mmR 탄환</RNBullet_762x54_Rifle.label>
+  <RNBullet_792x57Mauser_Rifle.label>8mm 마우저 탄환</RNBullet_792x57Mauser_Rifle.label>
+  <RNBullet_9x39mmSP6_DMR.label>9x39mm SP-6 탄환</RNBullet_9x39mmSP6_DMR.label>
+  <RNBullet_58x42mm_DMR.label>5.8x42mm 탄환</RNBullet_58x42mm_DMR.label>
+  <RNBullet_762x39_DMR.label>7.62x39R 탄환</RNBullet_762x39_DMR.label>
+  <RNBullet_762x51mm_DMR.label>7.62 나토 탄환</RNBullet_762x51mm_DMR.label>
+  <RNBullet_762x54_DMR.label>7.62x54mmR 탄환</RNBullet_762x54_DMR.label>
+  <RNBullet_792x57Mauser_DMR.label>8mm 마우저 탄환</RNBullet_792x57Mauser_DMR.label>
+  <RNBullet_308Winchester_DMR.label>.308 윈체스터 탄환</RNBullet_308Winchester_DMR.label>
+  <RNBullet_762x51mm_Sniper.label>7.62 나토 탄환</RNBullet_762x51mm_Sniper.label>
+  <RNBullet_308Winchester_Sniper.label>.308 윈체스터 탄환</RNBullet_308Winchester_Sniper.label>
+  <RNBullet_338Lapua_Sniper.label>.338 라푸아 매그넘 탄환</RNBullet_338Lapua_Sniper.label>
+  <RNBullet_762x54_Sniper.label>7.62x54mmR 탄환</RNBullet_762x54_Sniper.label>
+  <RNBullet_408Cheyenne_Sniper.label>.408 샤이엔 탄환</RNBullet_408Cheyenne_Sniper.label>
+  <RNBullet_50BMG_Sniper.label>.50 BMG 탄환</RNBullet_50BMG_Sniper.label>
+  <RNBullet_127x108_Sniper.label>12.7x108mm 탄환</RNBullet_127x108_Sniper.label>
+  <RNMedicine_IFAK_Multicam.label>구급상자</RNMedicine_IFAK_Multicam.label>
+  <RNMedicine_IFAK_Multicam.description>개별 응급처치 도구로, 산업시대 의료장비 세트입니다. 기본 약물, 봉합 및 뼈 맞춤 도구, 진단 장치 및 다양한 붕대와 액체가 들어 있습니다.</RNMedicine_IFAK_Multicam.description>
+  <RNMedicine_MedicBag.label>의료용 가방</RNMedicine_MedicBag.label>
+  <RNMedicine_MedicBag.description>구급용 의료 가방, 산업 시대의 의료 장비 세트입니다. 기본적인 약품, 봉합과 뼈 고정을 위한 도구, 진단 장치, 다양한 패드, 다양한 약물, 그리고 다양한 상해에 대응하기 위한 전문 장비를 포함하고 있습니다.</RNMedicine_MedicBag.description>
+  <RN_MRE_Civilian.label>전투식량</RN_MRE_Civilian.label>
+  <RN_MRE_Civilian.description>즉석섭취 식품. 생존상황에서 사용하기 위해 제조된 고품질 포장 식사입니다. 절대 썩지 않지만, 밖에 놔두면 여전히 망가질 수 있습니다. 여행하기에 아주 좋습니다.</RN_MRE_Civilian.description>
+  <RNEx_RPG7RL.label>RPG-7</RNEx_RPG7RL.label>
+  <RNEx_RPG7RL.description>RPG-7(러시아어: рпг-7)은 휴대용이며, 재사용할 수 있고, 유도되지 않는, 어깨 견착형, 대전차 로켓 추진 유탄 발사기입니다. 원래 RPG-7(Rornaturnuckoriki-Hand-held 대전차 유탄 발사기)과 그 전신인 RPG-2는 소비에트 연방에서 설계되었으며 지금은 러시아의 바잘트사에서 생산됩니다. 이 무기는 GRAU 색인(러시아군 색인)인 6G3가 붙어있습니다.
+
+RPG-7의 견고성, 단순성, 저비용, 효과성으로 세계에서 가장 널리 사용되는 대장갑 무기가 되었습니다. 재사용할 수 있습니다.</RNEx_RPG7RL.description>
+  <RNEx_RPG7RL.tools.0.label>총열</RNEx_RPG7RL.tools.0.label>
+  <RNBullet_RPG7Rocket.label>RPG-7 로켓</RNBullet_RPG7Rocket.label>
+  <RNEx_ChinaLakeMercenaryGL.label>차이나 레이크 머서너리</RNEx_ChinaLakeMercenaryGL.label>
+  <RNEx_ChinaLakeMercenaryGL.description>차이나 레이크 모델(또는 차이나 레이크 펌프 액션 수류탄 발사기)은 해군항공 병기창(NAWS)의 특별 프로젝트 부서에서 미 해군 SEAL에서 사용하기 위해 개발한 펌프 액션 수류탄 발사기입니다.</RNEx_ChinaLakeMercenaryGL.description>
+  <RNEx_ChinaLakeMercenaryGL.tools.0.label>총열</RNEx_ChinaLakeMercenaryGL.tools.0.label>
+  <RNEx_M320GL.label>M320</RNEx_M320GL.label>
+  <RNEx_M320GL.description>M320 수류탄 발사기 모듈(GLM)은 미 육군의 M203을 대체하기 위한 새로운 일회용 40mm 유탄 발사기 시스템으로 미군이 선정한 것으로, 다른 부대에서는 M203을 여전히 사용 중입니다. M320은 M203과 같은 고저 추진 시스템을 사용합니다.</RNEx_M320GL.description>
+  <RNEx_M320GL.tools.0.label>총열</RNEx_M320GL.tools.0.label>
+  <RNBullet_40mmGrenade.label>40x46mm 수류탄</RNBullet_40mmGrenade.label>
+  <RNGun_M9A1_HRT.label>M9A1 HRT</RNGun_M9A1_HRT.label>
+  <RNGun_M9A1_HRT.description>베레타 M9(공식적으로 권총, 반자동, 9mm, M9)는 미군용 베레타 92FS 반자동 권총의 명칭입니다. M9는 1985년 미군에 의해 제식 권총으로 채택되었습니다.
+
+M9는 1980년대 M1911A1을 미군의 1차 부무장으로 대체하기 위한 경쟁에서 승리하며, 많은 다른 경쟁자들을 물리쳤으며, 오직 SIG P226만 비용상의 이유로 간신히 물리쳤습니다.</RNGun_M9A1_HRT.description>
+  <RNGun_M9A1_HRT.tools.0.label>손잡이</RNGun_M9A1_HRT.tools.0.label>
+  <RNGun_M9A1_HRT.tools.1.label>총열</RNGun_M9A1_HRT.tools.1.label>
+  <RNGun_M240B.label>M240B</RNGun_M240B.label>
+  <RNGun_M240B.description>M240(공식적으로 기관총, 7.62mm, M240)은 FN MAG의 미군형 장비입니다. ("Mitrailleuse A Gaz"= 가스 작동식 기관총; 또는 "Mitrailleuse d' Appui General"= 기관총, 지원, 일반) 7.62×51mm NATO 탄을 사용하는 벨트 공급식 가스 작동식 중기관총 제품군입니다.</RNGun_M240B.description>
+  <RNGun_M240B.tools.0.label>개머리판</RNGun_M240B.tools.0.label>
+  <RNGun_M240B.tools.1.label>총열</RNGun_M240B.tools.1.label>
+  <RNGun_M249LMG.label>M249</RNGun_M249LMG.label>
+  <RNGun_M249LMG.description>M249 경기관총(LMG), 일반적으로 M249 분대지원화기(SAW) 그리고 일반적으로 경기관총이라고 하는 5.56mm, M249는 벨기에 FN 미니미의 미국식 개량형으로 벨기에의 FN 에르스탈(FN) 사에서 제조합니다.</RNGun_M249LMG.description>
+  <RNGun_M249LMG.tools.0.label>개머리판</RNGun_M249LMG.tools.0.label>
+  <RNGun_M249LMG.tools.1.label>총열</RNGun_M249LMG.tools.1.label>
+  <RNGun_RPD.label>RPD</RNGun_RPD.label>
+  <RNGun_RPD.description>RPD(Russian: ручной пулемёт Дегтярёва Ruchnoy Pulemyot Degtyaryova, English: Degtyaryov hand-held machine gun)는 소련에서 바실리 덱탸료프가 7.62×39mm M43 중형 탄용으로 개발한 7.62mm 소형 기관총입니다.</RNGun_RPD.description>
+  <RNGun_RPD.tools.0.label>개머리판</RNGun_RPD.tools.0.label>
+  <RNGun_RPD.tools.1.label>총열</RNGun_RPD.tools.1.label>
+  <RNGun_InterventionReaperSn.label>인터벤션 리퍼</RNGun_InterventionReaperSn.label>
+  <RNGun_InterventionReaperSn.description>샤이택 인터벤션은 샤이택 LLC에서 제조한 미국식 볼트 액션 저격소총으로, 대물 소총으로 분류될 수 있습니다. 7발들이 박스 탄창을 사용합니다. (선택적으로 5발들이 박스 탄창도 사용 가능)
+
+샤이택 .408 또는 샤이택 .375 탄환을 사용합니다.</RNGun_InterventionReaperSn.description>
+  <RNGun_InterventionReaperSn.tools.0.label>개머리판</RNGun_InterventionReaperSn.tools.0.label>
+  <RNGun_InterventionReaperSn.tools.1.label>총열</RNGun_InterventionReaperSn.tools.1.label>
+  <RNGun_SCARMk20ContractorDMR.label>SCAR-Mk20 저격지원소총 (계약자)</RNGun_SCARMk20ContractorDMR.label>
+  <RNGun_SCARMk20ContractorDMR.description>FN SSR (Sniper Support Rifle) Mk 20 Mod 0은 벨기에산 자동 저격소총입니다. 고성능의 망원 조준기를 갖춘 장거리 지정사수 소총 (DMR)이며, SCAR-H 전투 소총의 파생형입니다.</RNGun_SCARMk20ContractorDMR.description>
+  <RNGun_SCARMk20ContractorDMR.tools.0.label>개머리판</RNGun_SCARMk20ContractorDMR.tools.0.label>
+  <RNGun_SCARMk20ContractorDMR.tools.1.label>총열</RNGun_SCARMk20ContractorDMR.tools.1.label>
+  <RNGun_WA2000ContractorDMR.label>WA-2000 (계약자)</RNGun_WA2000ContractorDMR.label>
+  <RNGun_WA2000ContractorDMR.description>월터 WA 2000은 칼 월터 GmbH Sportwaffen 사에서 생산한 반자동 불펍식 저격소총입니다. 3가지 다른 구경으로 제작되었습니다. 이 소총의 생산은 너무 비싼 가격 탓에 판매 부진과 군용 저격소총 사용에 적합하지 않은 내구성 문제로 금방 중단되었습니다.
+
+높은 비용 탓에 오직 176정만 제작되었고, 이 때문에 지금까지 만들어진 총기 중 가장 희귀하고 가장 보기 드문 총기가 되었습니다. 월터 WA 2000은 극히 보기 드물고 귀중합니다.
+
+WA 2000은 1972년 뮌헨 하계 올림픽 참사에 대응하기 위하여 1970년대 후반과 1980년대 초에 설계되었습니다.</RNGun_WA2000ContractorDMR.description>
+  <RNGun_WA2000ContractorDMR.tools.0.label>개머리판</RNGun_WA2000ContractorDMR.tools.0.label>
+  <RNGun_WA2000ContractorDMR.tools.1.label>총열</RNGun_WA2000ContractorDMR.tools.1.label>
+  <RNGun_VSSContractorDMR.label>VSS 빈토레즈 (계약자)</RNGun_VSSContractorDMR.label>
+  <RNGun_VSSContractorDMR.description>VSS(러시아어: Винтовка Снайперская Специальная, 빈토브카 스나이퍼스카야 스페츠시알나야 혹은 "특수 목적 저격소총", GRAU 코드명 6P29), 또한 빈토레즈("숨통 끊기"/ "구멍 뚫기")는 무거운 아음속 9×39mm SP5 탄이나 대 장갑용 SP6 탄을 사용하는 제압용 저격소총입니다.
+
+1980년대 후반 정밀기계 제작중심 산업체에 의해 개발되었고 툴라 아스널에서 제조되었습니다. 스페츠나츠에 의해 비밀리에 혹은 비밀작전 시에 사용되었으며, 이 점은 분해해서 특수 제작된 가방으로 운반할 수 있다는 점에서 찾아볼 수 있습니다.</RNGun_VSSContractorDMR.description>
+  <RNGun_VSSContractorDMR.tools.0.label>개머리판</RNGun_VSSContractorDMR.tools.0.label>
+  <RNGun_VSSContractorDMR.tools.1.label>총열</RNGun_VSSContractorDMR.tools.1.label>
+  <RNGun_ACRContractorAR.label>ACR (계약자)</RNGun_ACRContractorAR.label>
+  <RNGun_ACRContractorAR.description>레밍턴 ACR(Adaptive Combat Rights)은 텍사스 주 오스틴의 맥풀 공업사가 설계한 모듈식 돌격소총으로, 마사다로 알려졌습니다.
+
+2008년 1월 말, 부시마스터 국제화기협회는 맥풀과 라이선스 계약을 체결하여 부시마스터가 마사다의 생산과 앞으로 개발, 판매를 이어받게 되었습니다.</RNGun_ACRContractorAR.description>
+  <RNGun_ACRContractorAR.tools.0.label>개머리판</RNGun_ACRContractorAR.tools.0.label>
+  <RNGun_ACRContractorAR.tools.1.label>총열</RNGun_ACRContractorAR.tools.1.label>
+  <RNGun_ACRMercenaryAR.label>ACR (용병)</RNGun_ACRMercenaryAR.label>
+  <RNGun_ACRMercenaryAR.description>레밍턴 ACR(Adaptive Combat Rights)은 텍사스 주 오스틴의 맥풀 공업사가 설계한 모듈식 돌격소총으로, 마사다로 알려졌습니다.
+
+2008년 1월 말, 부시마스터 국제화기협회는 맥풀과 라이선스 계약을 체결하여 부시마스터가 마사다의 생산과 앞으로 개발, 판매를 이어받게 되었습니다.</RNGun_ACRMercenaryAR.description>
+  <RNGun_ACRMercenaryAR.tools.0.label>개머리판</RNGun_ACRMercenaryAR.tools.0.label>
+  <RNGun_ACRMercenaryAR.tools.1.label>총열</RNGun_ACRMercenaryAR.tools.1.label>
+  <RNGun_SCARHContractorAR.label>SCAR-H (계약자)</RNGun_SCARHContractorAR.label>
+  <RNGun_SCARHContractorAR.description>FN SCAR(Fabrique Nationale Special Operation Force 전투 돌격 소총)는 가스-작동식(쇼트 스트로크 가스 피스톤) 회전 노리쇠 방식 반자동 소총입니다. 총열 교환을 통해 구경을 바꿀 만큼 지나칠 정도로 모듈화되어 있습니다.
+
+이 소총은 벨기에의 FN 에르스탈(FNH)이 미국 특수작전사령부(SOCOM)를 위해 개발한 것으로, SCAR 경합 요건을 충족하기 위해 개발됐습니다.
+
+SCAR-H는 7.62x51mm 나토 탄환을 사용합니다.</RNGun_SCARHContractorAR.description>
+  <RNGun_SCARHContractorAR.tools.0.label>개머리판</RNGun_SCARHContractorAR.tools.0.label>
+  <RNGun_SCARHContractorAR.tools.1.label>총열</RNGun_SCARHContractorAR.tools.1.label>
+  <RNGun_SCARHMercenaryAR.label>SCAR-H 머서너리</RNGun_SCARHMercenaryAR.label>
+  <RNGun_SCARHMercenaryAR.description>FN SCAR(Fabrique Nationale Special Operation Force 전투 돌격 소총)는 가스-작동식(쇼트 스트로크 가스 피스톤) 회전 노리쇠 방식 반자동 소총입니다. 총열 교환을 통해 구경을 바꿀 만큼 지나칠 정도로 모듈화되어 있습니다.
+
+이 소총은 벨기에의 FN 에르스탈(FNH)이 미국 특수작전사령부(SOCOM)를 위해 개발한 것으로, SCAR 경합 요건을 충족하기 위해 개발됐습니다.
+
+SCAR-H는 7.62x51mm 나토 탄환을 사용합니다.</RNGun_SCARHMercenaryAR.description>
+  <RNGun_SCARHMercenaryAR.tools.0.label>개머리판</RNGun_SCARHMercenaryAR.tools.0.label>
+  <RNGun_SCARHMercenaryAR.tools.1.label>총열</RNGun_SCARHMercenaryAR.tools.1.label>
+  <RNGun_AA12ContractorS.label>AA-12 계약자</RNGun_AA12ContractorS.label>
+  <RNGun_AA12ContractorS.description>원래 애치슨 돌격 산탄총으로 설계되고 알려진 AA-12(Auto Assault-12)는 1972년 맥스웰 애치슨 사가 개발한 산탄총입니다. 가장 눈에 띄는 점은 반동 감소입니다. 현재의 2005 버전은 Military Police Systems, Inc에 특허가 판매된 후 18년 이상 개발된 것입니다. 초기 디자인은 USAS-12 전투 산탄총을 포함하여, 이후 몇몇 무기의 기반이 되었고, 이 무기는 자동형만 있습니다. 하지만 분당 300발의 속도로 발사되어서 한 번에 한 발씩 끊어서 발사할 수도 있습니다. 8발 박스 탄창, 또는 20발 또는 32발 드럼 탄창을 사용합니다.</RNGun_AA12ContractorS.description>
+  <RNGun_AA12ContractorS.tools.0.label>개머리판</RNGun_AA12ContractorS.tools.0.label>
+  <RNGun_AA12ContractorS.tools.1.label>총열</RNGun_AA12ContractorS.tools.1.label>
+  <RNGun_M1014ContractorS.label>M1014 계약자</RNGun_M1014ContractorS.label>
+  <RNGun_M1014ContractorS.description>베넬리 M4 슈퍼 90은 이탈리아의 Benelli Armi SpA에서 제조한 반자동 산탄총입니다.
+
+1998년 5월 4일, 뉴저지 주 피카티니 아스널에 있는 미 육군 병기개발연구소(ARDEC)는 미군을 위한 새로운 12 게이지 반자동 전투산탄총 사업 #DAAE30-98-R-0401을 발행했습니다. 요청에 따라, 이탈리아의 Benelli Armi SpA는 베넬리 M4 슈퍼 90 전투산탄총을 설계하고 제작하였습니다. 1998년 8월 4일, 5정의 M4 샘플이 메릴랜드 주 에버딘 시험장으로 전달되었으며, 정밀시험 후 M4가 경쟁에서 승리했습니다. 1999년 초, ARDEC은 M1014 신형 제식 산탄총의 공급 계약을 헤클러 앤 코흐 미국 지사와 체결하였습니다. 첫 번째 물량(20,000정)은 미군 해병대에게 1999년에 인도되었습니다. 테스트 중에는, XM1014라고 불리던 초기품은 제식 채용된 후, 'X'가 삭제되고 공식적으로 M1014로 지정되었습니다.
+
+"손엔 땀이 나고, 다리는 후들거리고, 엄마가 해준 스파게티." - 에미넴</RNGun_M1014ContractorS.description>
+  <RNGun_M1014ContractorS.tools.0.label>개머리판</RNGun_M1014ContractorS.tools.0.label>
+  <RNGun_M1014ContractorS.tools.1.label>총열</RNGun_M1014ContractorS.tools.1.label>
+  <RNGun_KrissVectorContractor_PDW.label>크리스 벡터</RNGun_KrissVectorContractor_PDW.label>
+  <RNGun_KrissVectorContractor_PDW.description>크리스 벡터 시리즈는 크리스 USA에서 개발한 상위 기관단총 설계를 기반으로 한 무기 제품군입니다. 일체형 디자인과 결합한 기존의 반동 감소 시스템을 사용하여 사격 시 반동 및 총구 상승을 줄입니다.</RNGun_KrissVectorContractor_PDW.description>
+  <RNGun_KrissVectorContractor_PDW.tools.0.label>손잡이</RNGun_KrissVectorContractor_PDW.tools.0.label>
+  <RNGun_KrissVectorContractor_PDW.tools.1.label>총열</RNGun_KrissVectorContractor_PDW.tools.1.label>
+  <RNGun_MP5A3Contractor_PDW.label>MP5A3 계약자</RNGun_MP5A3Contractor_PDW.label>
+  <RNGun_MP5A3Contractor_PDW.description>MP5(독일어: 마스치넨피스토레 5)는 독일 소형 무기 제조업체 헤클러와 오버도르프 암 네카르의 코흐 GmbH(HK)의 기술진이 1960년대에 개발한 9mm 기관단총입니다. MP5에는 일부 반자동 버전을 포함하여 100개 이상의 변형 모델이 있습니다.
+
+MP5는 40개국과 수많은 군대, 사법, 정보기관, 보안 기관에서 채택된 세계에서 가장 널리 사용되는 기관단총 중 하나입니다. 북미의 SWAT 팀에서 널리 사용됩니다.
+
+1999년 헤클러와 코흐는 MP5의 후계자인 헤클러와 코흐 UMP를 개발하였습니다.</RNGun_MP5A3Contractor_PDW.description>
+  <RNGun_MP5A3Contractor_PDW.tools.0.label>손잡이</RNGun_MP5A3Contractor_PDW.tools.0.label>
+  <RNGun_MP5A3Contractor_PDW.tools.1.label>총열</RNGun_MP5A3Contractor_PDW.tools.1.label>
+  <RNGun_P90Contractor_PDW.label>P90 계약자</RNGun_P90Contractor_PDW.label>
+  <RNGun_P90Contractor_PDW.description>FN 프로젝트 1990으로도 알려진, FN P90은 벨기에의 FN 헤르스탈에서 설계하고 디자인한 개인 방어 무기(PDW)입니다. NATO의 9x19mm 파라벨럼 무기 교체 요청에 따라, P90은 차량 승무원, 용병 지원 무기, 개인 보호, 특수부대, 그리고 대테러 단체를 위한 작지만 강력한 총기로 설계되었습니다.</RNGun_P90Contractor_PDW.description>
+  <RNGun_P90Contractor_PDW.tools.0.label>손잡이</RNGun_P90Contractor_PDW.tools.0.label>
+  <RNGun_P90Contractor_PDW.tools.1.label>총열</RNGun_P90Contractor_PDW.tools.1.label>
+  <RNGun_UMP45Contractor_PDW.label>UMP45 (계약자)</RNGun_UMP45Contractor_PDW.label>
+  <RNGun_UMP45Contractor_PDW.description>헤클러 앤 코흐 UMP ("Universal Submachine Gun", 독일어 Universal Maschinenpistole)는 헤클러 앤 코흐가 개발 및 제조한 기관단총입니다. UMP는 미국 세관 및 국경 보호대와 같은 다양한 기관에서 사용 중입니다. 헤클러 앤 코흐는 UMP를 가볍고 저렴한 MP5의 후속 모델로 개발했지만, 두 종류 모두 생산 중입니다.</RNGun_UMP45Contractor_PDW.description>
+  <RNGun_UMP45Contractor_PDW.tools.0.label>손잡이</RNGun_UMP45Contractor_PDW.tools.0.label>
+  <RNGun_UMP45Contractor_PDW.tools.1.label>총열</RNGun_UMP45Contractor_PDW.tools.1.label>
+  <RNAir_RedSpectre.label>스펙터 (코드 레드)</RNAir_RedSpectre.label>
+  <RNAir_RedSpectre.description>위에서 내려오는 죽음, 스펙터 건쉽에 의한 공중 폭격입니다.</RNAir_RedSpectre.description>
+
+</LanguageData>

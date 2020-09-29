@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Fermenting Item -->
+  <VCE_InsertSoybeansDesc>발효시킬 물건</VCE_InsertSoybeansDesc>
+  <!-- Bring Soybeans -->
+  <VCE_StartSoybeanInsertion>대두 넣기</VCE_StartSoybeanInsertion>
+  <!-- Bring soybeans to the fermenter to start fermentation process -->
+  <VCE_StartSoybeanInsertionDesc>발효기에 대두를 넣어 발효 과정을 시작합니다.</VCE_StartSoybeanInsertionDesc>
+  <!-- Cancel Bringing Soybeans -->
+  <VCE_CancelBringingSoybeans>대두 넣기를 취소</VCE_CancelBringingSoybeans>
+  <!-- Cancel bringing soybeans to the fermenter. -->
+  <VCE_CancelBringingSoybeansDesc>발효기에 대두를 넣기를 취소합니다.</VCE_CancelBringingSoybeansDesc>
+  <!-- Remove Soy Sauce ({0}) -->
+  <VCE_RemoveSoySauce>({0})에서 간장 꺼내기</VCE_RemoveSoySauce>
+  <!-- Remove soy sauce from the fermenter. The sauce will be ready at the present quality level ({0}) -->
+  <VCE_RemoveSoySauceDesc>발효기에서 간장을 꺼냅니다. 간장은 현재 품질 수준 ({0})로 완성됩니다</VCE_RemoveSoySauceDesc>
+</LanguageData>

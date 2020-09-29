@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Gun_AutomaticPistol.label>무반동 권총</VWE_Gun_AutomaticPistol.label>
+  <VWE_Gun_AutomaticPistol.description>첨단 자동 권총입니다. 저지력은 부족하지만 재장전이 쉽습니다. 3발의 탄환을 발사합니다.</VWE_Gun_AutomaticPistol.description>
+  <VWE_Gun_AutomaticPistol.tools.0.label>손잡이</VWE_Gun_AutomaticPistol.tools.0.label>
+  <VWE_Gun_AutomaticPistol.tools.1.label>총열</VWE_Gun_AutomaticPistol.tools.1.label>
+  <VWE_Gun_BullpupRifle.label>불펍 소총</VWE_Gun_BullpupRifle.label>
+  <VWE_Gun_BullpupRifle.description>방아쇠 뒤에 탄창이 있는 돌격소총입니다. 사정거리와 저지력, 정확도도 좋으며 경량화 소재 때문에 재장전 속도 및 발사 속도도 빠릅니다.</VWE_Gun_BullpupRifle.description>
+  <VWE_Gun_BullpupRifle.tools.0.label>개머리판</VWE_Gun_BullpupRifle.tools.0.label>
+  <VWE_Gun_BullpupRifle.tools.1.label>총열</VWE_Gun_BullpupRifle.tools.1.label>
+  <Bullet_BullpupDMR.label>불펍 지정사수소총 탄환</Bullet_BullpupDMR.label>
+  <VWE_Gun_BullpupDMR.label>불펍 지정사수소총</VWE_Gun_BullpupDMR.label>
+  <VWE_Gun_BullpupDMR.description>지정사수를 위해 설계된 불펍 소총입니다.\n\n장총과 유사하지만 2발의 연속사격으로 단점을 상쇄합니다. 경량 소재 때문에 장전속도와 발사가 빠릅니다.</VWE_Gun_BullpupDMR.description>
+  <VWE_Gun_BullpupDMR.tools.0.label>개머리판</VWE_Gun_BullpupDMR.tools.0.label>
+  <VWE_Gun_BullpupDMR.tools.1.label>총열</VWE_Gun_BullpupDMR.tools.1.label>
+  <VWE_Gun_PDW.label>개인방어화기</VWE_Gun_PDW.label>
+  <VWE_Gun_PDW.description>개인 방어용 무기로 사용되는 작고 가벼운 기관단총입니다. 빠른 재장전으로 발사합니다.</VWE_Gun_PDW.description>
+  <VWE_Gun_PDW.tools.0.label>손잡이</VWE_Gun_PDW.tools.0.label>
+  <VWE_Gun_PDW.tools.1.label>총열</VWE_Gun_PDW.tools.1.label>
+</LanguageData>

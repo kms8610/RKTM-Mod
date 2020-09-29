@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Salvage_LaserWeapon.label>구제 광선 무기</Salvage_LaserWeapon.label>
+  <Salvage_LaserWeapon.description>고급 부품에서 광선 무기를 무작위로 제작합니다.</Salvage_LaserWeapon.description>
+  <Salvage_LaserWeapon.jobString>광선 무기 제작 중.</Salvage_LaserWeapon.jobString>
+</LanguageData>

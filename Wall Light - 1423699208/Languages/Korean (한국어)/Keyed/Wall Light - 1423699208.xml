@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MURWallLight>벽등</MURWallLight>
+  <MURWallLight_LightRadName>조명 범위</MURWallLight_LightRadName>
+  <MURWallLight_EnableWallLightName>벽등 사용</MURWallLight_EnableWallLightName>
+  <MURWallLight_EnableWallLightDesc>활성화했을시 벽등과 그 색상 변형판을 사용할 수 있습니다.</MURWallLight_EnableWallLightDesc>
+  <MURWallLight_LightRadDesc>벽등에서 빛이 닿는 거리입니다.\n기본값 : 8</MURWallLight_LightRadDesc>
+  <MURWallLight_SteelCostName>강철 필요량</MURWallLight_SteelCostName>
+  <MURWallLight_SteelCostDesc>조명당 배치에 필요한 강철의 양을 정합니다.\n기본값: 5</MURWallLight_SteelCostDesc>
+  <MURWallLight_PowerCostName>전력 소모량</MURWallLight_PowerCostName>
+  <MURWallLight_PowerCostDesc>벽등이 소모하는 전력량입니다.\n기본값: 10</MURWallLight_PowerCostDesc>
+  <MURWallLight_ShowRadiusName>조명 영역 표시</MURWallLight_ShowRadiusName>
+  <MURWallLight_ShowRadiusDesc>벽등을 배치할 때 해당 조명에 의해 밝혀지는 대략적인 범위와, 조명으로 밝아진 방의 면적 (30% 이상)이 표시됩니다.</MURWallLight_ShowRadiusDesc>
+  <MURWallLight_ShowFacingName>방향 표시</MURWallLight_ShowFacingName>
+  <MURWallLight_ShowFacingDesc>벽등 이름에서 조명이 향하는 방향을 표시합니다.\n(동서남북)</MURWallLight_ShowFacingDesc>
+  <MURWallLight_ExtraColorsName>색상 확장</MURWallLight_ExtraColorsName>
+  <MURWallLight_ExtraColorsDesc>확장 색상을 사용해 노랑색, 자홍색, 청록색, 장미색, 보라색, 하늘색, 연녹색, 연노랑색 및 주황색 같은 밝은 색상을 추가합니다.</MURWallLight_ExtraColorsDesc>
+  <MURWallLight_WarningNeedWall>벽 위에 배치해야 합니다.</MURWallLight_WarningNeedWall>
+  <MURWallLight_WarningBlocked>통과가능한 타일을 향하고 있어야 합니다.</MURWallLight_WarningBlocked>
+  <MURWallLight_WarningBoth>통과 가능한 타일을 향하고, 벽 위에 배치해야합니다.</MURWallLight_WarningBoth>
+  <MURWallLight_AlertReload>변경 내용을 적용하려면 게임을 저장하고 다시 불러오세요.</MURWallLight_AlertReload>
+  <MURWallLight_AlertUpdate>벽등의 이전 버전에서 업데이트되었습니다. 벽등을 다시 켜세요.</MURWallLight_AlertUpdate>
+  <MURWallLight_AlertRestart>변경 사항을 적용하려면 Rimworld를 다시 시작하세요.</MURWallLight_AlertRestart>
+  <MURWallLight_DestroyedBlocked>건설에 의해 벽등이 파괴되었습니다.</MURWallLight_DestroyedBlocked>
+  <MURWallLight_DestroyedWall>벽의 파괴로 벽등이 파괴되었습니다.</MURWallLight_DestroyedWall>
+  <MURWallLight_TagNorth>북</MURWallLight_TagNorth>
+  <MURWallLight_TagSouth>남</MURWallLight_TagSouth>
+  <MURWallLight_TagWest>서</MURWallLight_TagWest>
+  <MURWallLight_TagEast>동</MURWallLight_TagEast>
+  <MURWallLight_EnableSunName>태양등 사용</MURWallLight_EnableSunName>
+  <MURWallLight_EnableSunDesc>활성화했을시 벽 태양등을 사용할 수 있습니다.</MURWallLight_EnableSunDesc>
+  <MURWallLight_SunLightRadName>밝은 조명 범위</MURWallLight_SunLightRadName>
+  <MURWallLight_SunLightRadDesc>밝게 비추어 식물이 자랄 수있는 범위입니다.\n기본값 : 5</MURWallLight_SunLightRadDesc>
+  <MURWallLight_SunSteelCostName>강철 필요량</MURWallLight_SunSteelCostName>
+  <MURWallLight_SunSteelCostDesc>조명당 배치에 필요한 강철의 양을 정합니다.\n기본값: 10</MURWallLight_SunSteelCostDesc>
+  <MURWallLight_SunPowerCostName>전력 소모량</MURWallLight_SunPowerCostName>
+  <MURWallLight_SunPowerCostDesc>벽 태양등이 소모하는 전력량입니다.\n기본값: 600</MURWallLight_SunPowerCostDesc>
+  <MURWallLight_DisableRestName>휴식 시간 비활성화</MURWallLight_DisableRestName>
+  <MURWallLight_DisableRestDesc>활성화하면 기본 식물 휴식 시간동안 벽 태양등이 꺼지지 않습니다.</MURWallLight_DisableRestDesc>
+  <MURWallLight_WhiteModeName>하얀색 모드</MURWallLight_WhiteModeName>
+  <MURWallLight_WhiteModeDesc>벽 태양등의 시원한 자주색을 부드러운 하얀색으로 바꿉니다.</MURWallLight_WhiteModeDesc>
+</LanguageData>

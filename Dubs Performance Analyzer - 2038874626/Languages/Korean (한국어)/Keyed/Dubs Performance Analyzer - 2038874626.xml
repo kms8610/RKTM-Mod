@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OverrideAlerts>경고 무시 적용 (경고 항목에서 비활성화 한 항목)</OverrideAlerts>
+  <OptimizationsAndFixes>최적화 및 수정</OptimizationsAndFixes>
+  <TempSpeedup>온도 통계 속도 향상 (많은 버벅이는 요소 수정)</TempSpeedup>
+  <RoofOptimize>지붕 건설 작업 탐색 최적화</RoofOptimize>
+  <GizmoOpti>DrawInspectGizmoGrid 최적화 (항목 선택시 표시되는 버튼)</GizmoOpti>
+  <RealtimeCondu>벽, 전선의 실시간 그리기 비활성화</RealtimeCondu>
+  <PerfAnalWiki>성능 분석 위키</PerfAnalWiki>
+  <DubModDisco>Dubs 모드 디스코드</DubModDisco>
+  <KillMusicMan>음악 관리자 비활성화</KillMusicMan>
+  <ShowAnalBut>분석 버튼을 하단 주메뉴에 표시</ShowAnalBut>
+  <AdvProfMode>고급 모드 (더 많은 정보)</AdvProfMode>
+  <TickPawnTog>정착민 틱</TickPawnTog>
+  <CustoMethProfPatch>메소드 분석 예시: ResourceReadout:ResourceReadoutOnGUI</CustoMethProfPatch>
+  <CustoTickPatch>사용자정의 틱</CustoTickPatch>
+  <CustoUpdatePatch>사용자정의 업데이트</CustoUpdatePatch>
+  <TryCustoPatch>패치 시도</TryCustoPatch>
+  <AlertsTipKey>화면 오른쪽에 경고가 표시되며, 일시중지 된 상태에서도 계속 실행되기에, 성능에 큰 영향을 줄 수 있습니다. 확인란을 클릭하여 비활성화하십시오</AlertsTipKey>
+  <DrawDynThinTipKey>지도상에 정착민이나 건물의 움직이는 묘사 등의 사물을 동적으로 그립니다. 보통은 그것들이 시야에 있을 때에만 그려집니다.</DrawDynThinTipKey>
+  <TransPatchTipKey>하모니 변환기를 사용하여 수정된 메소드 개요를 보여줍니다. 패치된 부분만이 아니라, 전체 패치에 걸린 총 시간입니다.</TransPatchTipKey>
+  <JobGiveTipKey>정착민의 작업과 관련된 문제점을 탐색합니다.</JobGiveTipKey>
+  <WindowPatchTipKey>모든 형태의 창이나, 연구와 같은 주메뉴 항목창</WindowPatchTipKey>
+  <DetourWorkTipKey>이 버전은 다른 WorkGiver가 정확한지 확인하거나, 사용자정의 작업을 수행하는데 사용되는 전체 방법을, 우회합니다.</DetourWorkTipKey>
+  <GizmoInspectTip>그리기 개요 및 기즈모 획득 분리</GizmoInspectTip>
+  <HarmPatchesTipKey>하모니 패치로 prefixes 와 postfixes 가 완료되기까지의 시간을 측정하려고 시도하며, 여기에 변환기의 코드는 포함되지 않습니다.</HarmPatchesTipKey>
+  <TickThingsSelectTipKey>선택된 항목들의 틱 기록</TickThingsSelectTipKey>
+  <TickThingByDefTipKey>def 로 지도상에 존재하는 모든 항목들의 틱 기록</TickThingByDefTipKey>
+  <LogTipThingTickByClass>유형별로 지도상에 존재하는 모든 항목들의 틱 기록</LogTipThingTickByClass>
+  <savecsvTip>현재 시간상의 목록을, 다음 위치에 csv 파일로 저장: {0}</savecsvTip>
+  <garbageTip>현재 관리하는 메모리에 할당된 총 바이트의 근사치 + 새 할당 속도</garbageTip>
+  <startstoplogTip>기록 시작 및 중지</startstoplogTip>
+  <fpsTipperino>초당 프레임</fpsTipperino>
+  <tpsTipperino>초당 틱 (현재 게임 속도의 대상 TPS)</tpsTipperino>
+  <frameTimeProfilerTip>프레임 시간은, 전체 게임의 총 프레임 1개를 업데이트 하는데 걸리는 시간입니다. 이것은 FPS를 계산하는 데 사용되는 것입니다.\n\n게임 업데이트는 루트 업데이트 방식으로 실행되는 코드만 프레임을 실행하는데 걸리는 시간으로 측정됩니다. 나머지 프레임 시간은 렌더링, GUI 및 일반 게임 엔진 작업입니다.</frameTimeProfilerTip>
+  <OptimiseAlerts>경고 최적화 (낡은 옷과 벌거벗음)</OptimiseAlerts>
+  <RepairOptimize>수리 작업 최적화</RepairOptimize>
+  <DisableAlerts>경고 완전 비활성화</DisableAlerts>
+  <OptimizeDrills>심층 채굴 최적화</OptimizeDrills>
+  <SnowOptimize>눈(snow) 최적화</SnowOptimize>
+  <FactionRemovalMode>세력 누락 수정 (저장 파일을 불러오기 전에 켜야됨)</FactionRemovalMode>
+  <DamageJobRecheck>타격받았을 시 작업 재검색 비활성화 (습격시 버벅임 수정)</DamageJobRecheck>
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RH_UmbraCompany.label>민간군사기업</RH_UmbraCompany.label>
+  <RH_UmbraCompany.description>전직 특수부대 출신의, 흩어진 생존자들에 의해 조직되었습니다.
+
+원래 '셰퍼드'라고 이름 붙여진 이 조직은 주변 사람들과 우호적인 관계를 맺어, 많은 사람이 번창하도록 돕고, 그들과의 상호협력을 중시하였습니다. 이방인이나 부족민들에게 문제가 생길 때마다 셰퍼드는 약자를 보호하기 위해 그곳에 있었습니다.
+
+셰퍼드는 메카노이드의 습격으로 지도자가 죽는 막대한 손실을 보았습니다. 그녀는 죽기 며칠 전에 부사령관과 결혼했었습니다. 움브라 컴퍼니가 탄생한 후, 사설군사기업의 상표 아래 그들이 훈련한 정착민들은 모두 용병이 되었으며, 동맹 비용을 내지 않는 모두를 적으로 삼았습니다.
+
+셰퍼드들의 보호를 받던 지역사회는 이제 개인적인 보복이나, 이익을 위해 움직이는 움브라 컴퍼니에 의해 공포에 떨고 있습니다.</RH_UmbraCompany.description>
+  <RH_UmbraCompany.fixedName>움브라 컴퍼니</RH_UmbraCompany.fixedName>
+  <RH_UmbraCompany.pawnsPlural>용병</RH_UmbraCompany.pawnsPlural>
+  <RH_UmbraCompany.leaderTitle>사령관</RH_UmbraCompany.leaderTitle>
+
+</LanguageData>

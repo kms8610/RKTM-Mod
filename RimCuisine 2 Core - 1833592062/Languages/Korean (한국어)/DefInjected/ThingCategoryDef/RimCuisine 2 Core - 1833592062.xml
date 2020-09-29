@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1543723640_190818_RimCuisine-->
+  <DrinkMealsJoy.label>음료</DrinkMealsJoy.label>
+  <AnimalProductProcessed.label>가공된 동물의 생산물</AnimalProductProcessed.label>
+  <FruitProcessed.label>가공된 과일</FruitProcessed.label>
+  <GrainsProcessed.label>가공된 곡류</GrainsProcessed.label>
+  <FoodProcessed.label>가공된 재료</FoodProcessed.label>
+  <MeatProcessed.label>가공된 육류</MeatProcessed.label>
+  <SweetsProcessed.label>가공된 감미료</SweetsProcessed.label>
+  <VegetablesProcessed.label>가공된 야채</VegetablesProcessed.label>
+  <PlantFoodProcessed.label>가공된 채식</PlantFoodProcessed.label>
+  <FruitRaw.label>과일</FruitRaw.label>
+  <GrainsRaw.label>곡류</GrainsRaw.label>
+  <SweetsRaw.label>감미료</SweetsRaw.label>
+  <VegetablesRaw.label>채소류</VegetablesRaw.label>
+  <FoodMealsJoy.label>간식</FoodMealsJoy.label>
+
+</LanguageData>

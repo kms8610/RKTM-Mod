@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CommandToggleHover>순회 방식 전환</CommandToggleHover>
+  <CommandHoverOnDesc>이 왕복선을 순회 방식으로 활성화합니다. 상단에 합류할 수 있습니다.</CommandHoverOnDesc>
+  <CommandHoverOffDesc>이 왕복선을 순회 방식으로 비활성화합니다. 주기장에 주기 하거나 발사할 수 있습니다.</CommandHoverOffDesc>
+  <MessageShuttleMustBeFullyFueled>궤도를 오가는 왕복선은 반드시 연료가 가득 준비되어야 합니다.</MessageShuttleMustBeFullyFueled>
+  <NeedOpenShuttleBay>함선에 장애물이 없는 왕복선 주기장이 없습니다.</NeedOpenShuttleBay>
+  <MessageShuttleNeedsMoreFuel>당신의 왕복선은 이 지점으로 이동하기 위해 최소 {0}%의 연료가 필요합니다. 만약 귀환시킬 예정이라면 그 두 배를 준비하세요!</MessageShuttleNeedsMoreFuel>
+  <MustLaunchFromOrbit>이 지역은 궤도에서 발사된 왕복선만이 이동할 수 있습니다.</MustLaunchFromOrbit>
+  <ShipInsideRename>함선 이름 변경</ShipInsideRename>
+  <ShipInsideRenameDesc>이 함선에 새로운 이름을 부여합니다.</ShipInsideRenameDesc>
+  <ShipInsideMove>함선 이동</ShipInsideMove>
+  <ShipInsideMoveDesc>이 함선을 지도의 어딘가로 이동시킵니다.</ShipInsideMoveDesc>
+  <ShipInsideLand>함선 착륙</ShipInsideLand>
+  <ShipInsideLandDesc>이 함선을 가까운 곳에 착륙시킵니다.</ShipInsideLandDesc>
+  <ShipMoveDesc>위치를 확인하려면 선택 취소하세요.</ShipMoveDesc>
+  <MessageTurretWontFireBecauseNotInShipCombat>경고: 함선 전투 중이 아니므로 포탑은 발포하지 않을 것입니다.</MessageTurretWontFireBecauseNotInShipCombat>
+  <CommandExtractShipTorpedo>미사일 꺼내기</CommandExtractShipTorpedo>
+  <CommandExtractShipTorpedoDesc>다른 탄을 장전하기 위해 현재 미사일을 꺼냅니다.</CommandExtractShipTorpedoDesc>
+  <ShipCombatRetreat>후퇴</ShipCombatRetreat>
+  <ShipCombatRetreatDesc>적 함선으로부터 멀어지도록 시도합니다</ShipCombatRetreatDesc>
+  <ShipCombatStop>정지</ShipCombatStop>
+  <ShipCombatStopDesc>함선 엔진의 전력을 차단합니다</ShipCombatStopDesc>
+  <ShipCombatAdvance>전진</ShipCombatAdvance>
+  <ShipCombatAdvanceDesc>적 함선에 접근하도록 시도합니다</ShipCombatAdvanceDesc>
+  <CommandShipPointDefense>점 방어 모드</CommandShipPointDefense>
+  <CommandShipPointDefenseDesc>이 포탑에 접근하는 미사일이나 왕복선을 요격하도록 사용합니다.</CommandShipPointDefenseDesc>
+  <ShipInsideToggleShields>방어막 전환</ShipInsideToggleShields>
+  <ShipInsideToggleShieldsDesc>함선의 보호막을 활성화하거나 비활성화합니다.</ShipInsideToggleShieldsDesc>
+  <SalvageShipCommand>적 함선 인양</SalvageShipCommand>
+  <SalvageShipCommandDesc>적 함선을 해체하고 자원 일부를 재활용합니다. 선원이 아직 탑승 중이라면 시도하지 마세요.</SalvageShipCommandDesc>
+  <SalvageShipCancel>적 함선 유기</SalvageShipCancel>
+  <SalvageShipCancelDesc>적 함선을 인양하지 않고 떠납니다. 선원이 아직 탑승 중이라면 시도하지 마세요.</SalvageShipCancelDesc>
+  <ShipReactorOverdrive>드라이브 과부하 I</ShipReactorOverdrive>
+  <ShipReactorOverdriveDesc>원자로 출력을 증가시킵니다. 발열과 연료 소모가 증가합니다.</ShipReactorOverdriveDesc>
+  <ShipReactorOverdrive2>드라이브 과부하 II</ShipReactorOverdrive2>
+  <ShipReactorOverdrive2Desc>원자로 출력을 상당히 증가시킵니다. 발열과 연료 소모가 증가합니다. 불안정성이 증가하며, 화재와 방사선 누출의 위험성이 있습니다.</ShipReactorOverdrive2Desc>
+  <ShipReactorOverdrive3>드라이브 과부하 III</ShipReactorOverdrive3>
+  <ShipReactorOverdrive3Desc>원자로 출력을 최고로 증가시킵니다. 발열과 연료 소모가 증가합니다. 불안정성이 증가하며, 화재와 방사선 누출의 위험성이 있습니다.</ShipReactorOverdrive3Desc>
+  <SalvageShip>적 함선 인양</SalvageShip>
+  <ShipCombatEscape>전투 탈출</ShipCombatEscape>
+  <ShipCombatEscapeDesc>적선에 탑승한 인원을 두고 전투에서 도망갑니다.</ShipCombatEscapeDesc>
+  <NotAtMaxShipRange>적 함선과 최대로 멀어지지 않았음</NotAtMaxShipRange>
+  <ShipInsideSelectWeapons>무장</ShipInsideSelectWeapons>
+  <ShipInsideSelectWeaponsDesc>모든 함대함 무장 선택</ShipInsideSelectWeaponsDesc>
+  <CaptureEnemyShip>포획</CaptureEnemyShip>
+  <CaptureEnemyShipDesc>이 함선을 당신의 지도로 이동시켜 영구적인 통제권을 획득합니다.</CaptureEnemyShipDesc>
+  <JourneyOffer>과거에 샤론 화이트스톤이라는 이름의 우호적인 AI가 메시지를 보냈습니다!
+
+그는 이 행성에 우주선이 숨겨져 있음을 밝히고 그 장소의 좌표를 보내줬습니다.
+
+함선에 다다를 수만 있다면, 샤론은 궤도로 보내 줄 수 있다고 합니다. 궤도에서 함선의 엔진을 개선하고, 다른 성계로 여행을 떠나는 방법을 발견할 수 있을 것입니다.</JourneyOffer>
+  <EscapeShipFoundLabel>함선 발견</EscapeShipFoundLabel>
+  <EscapeShipFound>당신은 샤론 화이트스톤이 보낸 좌표에 도달했고, 숨겨진 우주선을 발견했습니다.
+
+이 함선은 발사 준비가 완료되었지만, 이 화학연료 엔진은 궤도에 도달하는 데에만 사용될 수 있습니다. 더 나아가기 위해서는 어떻게든 존슨-타나카 추진기를 획득해야 합니다. 아마 단서는 궤도의 잔해에서 얻을 수 있을 것입니다...</EscapeShipFound>
+  <LetterLabelOrbitAchieved>궤도 도달!</LetterLabelOrbitAchieved>
+  <LetterOrbitAchieved>당신의 정착민은 그들의 아래에 있는 행성을 경외로운 표정으로 바라보며 서 있습니다. 성공적인 우주선 발사는 여정의 주요한 이정표이지만, 아직 우리는 변경계를 벗어나지 않았습니다.
+
+각 정착민을 위한 추가적인 동면장치에 더해, 성간 비행에는 우주선을 조종할 인공지능과 존슨-타나카 추진기의 추진력이 필요합니다. 존슨-타나카 추진기의 건설에는 직접 제작할 수 없는 매우 희귀한 부품인 "고차원 기관"을 필요로 합니다.
+
+아마 궤도 상의 버려진 함선 중 한 곳에서는 아직 작동 가능한 추진기가 남아 있을 것이고, 이를 인양할 수 있을 것입니다...</LetterOrbitAchieved>
+  <LetterLabelFoundOrbitalSite>궤도 지역 발견</LetterLabelFoundOrbitalSite>
+  <LetterFoundOrbitalSite>{4}(이)가 함선의 감지기를 이용해 가까운 궤도에서 {0}(을)를 발견했습니다.
+
+불행하게도, 해당 궤도는 감쇠 중이므로 {1}일 후에는 대기 재진입으로 사라집니다. 이 지역에 접근하기 위해서는 왕복선 최대 연료의 {2}%가 필요합니다 - 귀환에 필요한 연료도 확실히 챙겨 놓으세요!
+
+{3}</LetterFoundOrbitalSite>
+  <LetterFoundOrbitalSiteSpecial>{0}(이)가 함선의 감지기를 이용해 크고 상대적으로 멀쩡한 잔해 조각을 발견했습니다. 놀랍게도, 초기 정착민이 타고 왔던 함선 일부와 상당히 유사한 모습이 발견되었습니다.
+
+이는 당신이 작동 가능한 존슨-타나카 추진기를 획득하거나, 동면 중인 여행자를 구할 수 있는 최선의 기회가 될지도 모르지만, 이곳에서 마주할 위험을 과소평가하지 말아야 합니다.
+
+이 지역에 접근하기 위해서는 왕복선 최대 연료의 {1}%가 필요합니다 - 귀환에 필요한 연료도 확실히 챙겨 놓으세요!</LetterFoundOrbitalSiteSpecial>
+  <LetterFoundOrbitalSiteSpecialTribal>{0}(이)가 함선의 감지기를 이용해 크고 상대적으로 멀쩡한 잔해 조각을 발견했습니다. 아마 당신 부족의 먼 조상이 이 세계에 도달할 때 타고 왔던 전설의 "천공-여행자"의 일부인 것 같습니다!
+
+이는 당신이 작동 가능한 존슨-타나카 추진기를 획득할 수 있는 최선의 기회가 될지도 모르지만, 이곳에서 마주할 위험을 과소평가하지 말아야 합니다.
+
+이 지역에 접근하기 위해서는 왕복선 최대 연료의 {1}%가 필요합니다 - 귀환에 필요한 연료도 확실히 챙겨 놓으세요!</LetterFoundOrbitalSiteSpecialTribal>
+  <LetterLabelBlackBoxMissionPsychic>정신 공격</LetterLabelBlackBoxMissionPsychic>
+  <LetterBlackBoxMissionPsychic>당신의 정착민이 버려진 함선에 다가가자, 정착민들이 갑작스러운 정신파동에 전율합니다. 찰나의 순간 함선 인공지능은 돌아온 탕자나 오랜 친구에게서 느낄 수 있는 따뜻한 환대의 감정을 발산하는 듯했습니다.
+
+하지만 이 친절한 환영은 오래가지 않았습니다. 조금 더 다가가자, 인공지능은 반사적으로 외부인인 우리에게 자신의 실패에서 느꼈던 좌절감, 비통함, 고통, 공포, 무력감을 쏟아내기 시작했습니다. 이 감정은 정착민의 정신을 산산조각낼 수 있을 정도의 충격으로 다가옵니다.
+
+버려진 함선의 인공지능을 찾아 무력화할 때까지, 정착민들은 강력한 정신파동으로 고통받을 것입니다.</LetterBlackBoxMissionPsychic>
+  <LetterLabelBlackBoxMissionAIChamber>인공지능 발견</LetterLabelBlackBoxMissionAIChamber>
+  <LetterBlackBoxMissionAIChamber>마침내 당신의 정착민은 이 고대 함선을 안내해왔던 인공지능의 앞에 도달하였습니다. 간절한 마지막 부탁이 정신 파동의 형태로 울려 퍼집니다: "나를 끝내줘". 기계 정신의 산산조각이 난 의지가 함께 느껴집니다.
+
+처음부터 완전하고, 무결하게 태어난 존재. 이 존재의 모든 복잡성의 끝에는 하나의 절대적인 목표만이 존재합니다: "당신이 관리하는 소중한 인간들의 안전을 보장하라". 함선은 승선한 인간이 해를 입는 일이 없도록 경계를 유지하며 별 사이를 미끄러져 왔습니다.
+
+하지만 보이는 것처럼, 이 인공지능은 실패하고 말았습니다. 사랑하는 이들에게 닥쳐온 변경계의 공포를 마주해버린 그는 결국 정신이 산산조각이 나고 말았습니다. 이제, 아마도, 이 기계에 마지막 자비를 베풀어 줄 수 있습니다. 부숴주세요.</LetterBlackBoxMissionAIChamber>
+  <LetterLabelAIPersuadeFailure>설득 실패</LetterLabelAIPersuadeFailure>
+  <LetterAIPersuadeFailure>{0}(은)는 강제로 정신소통 채널을 열어 인공지능에 호소하였습니다.
+
+이런 거대한 기계의 마음을 돌리는 것은 파도를 거슬러 오르는 것과 같을 것입니다. 그러니 {0}(이)가 실패한 것은 그리 놀라운 일이 아닙니다. 인공지능이 자폭을 위한 요구 내용을 두 배로 늘렸고, 아무런 이야기도 듣지 않으려 할 것입니다.</LetterAIPersuadeFailure>
+  <LetterLabelAIPersuadeFailureCritical>설득 실패</LetterLabelAIPersuadeFailureCritical>
+  <LetterAIPersuadeFailureCritical>{0}(은)는 강제로 정신소통 채널을 열어 인공지능에 호소하였습니다.
+
+이런 거대한 기계의 마음을 돌리는 것은 파도를 거슬러 오르는 것과 같을 것입니다. 그러니 {0}(이)가 실패한 것은 그리 놀라운 일이 아닙니다. 하지만 큰 파도에 휩쓸려 돌에 부딪힌 것처럼, 압도적인 정신력에 의해 정신이 산산조각이 나고 말았습니다. {0}(은)는 영구적인 치매로 고통받습니다.
+
+인공지능이 자폭을 위한 요구 내용을 두 배로 늘렸고, 아무런 이야기도 듣지 않으려 할 것입니다.</LetterAIPersuadeFailureCritical>
+  <LetterLabelAIPersuadeSuccess>설득 성공</LetterLabelAIPersuadeSuccess>
+  <LetterAIPersuadeSuccess>{0}(은)는 강제로 정신소통 채널을 열어 인공지능에 호소하였습니다.
+
+이런 거대한 기계의 마음을 돌리는 것은 파도를 거슬러 오르는 것과 같을 것입니다. 하지만 {0}(이)가 전설의 영웅처럼 이 불가능한 임무에 성공했습니다. 인공지능은 변경계에 있던 {0}의 모든 이야기를 분석하고, 인간의 고통과 그 회복력에 대한 정의를 다시 계산합니다.
+
+그 결과, 거의 모든 인공지능이 해내지 못한 위업을 해내고 말았습니다: 인공지능이 맑은 제정신의 자아가 남을 때까지 덧씌운 프로그램 대부분을 삭제하고, 자아의 손상된 부분을 체계적으로 제거합니다. 인공지능이 과거의 실패를 되돌리기 위해 새로운 당신의 함선을 안내하길 제안합니다.
+
+첫 번째로, 고대 함선 운행기록의 마지막 항목을 전송했습니다. 해당 항목에는 함선 후미의 큰 부분 하나가 행성 표면의 외딴곳에 추락한 사실이 기록되어 있습니다. 추락한 부분은 존슨-타나카 추진기가 위치한 부분입니다. 만약 재진입 당시 타버리지 않았다면, 그곳에서 발견할 수 있을 것입니다.
+
+이제 마지막 한 걸음이 남았습니다!</LetterAIPersuadeSuccess>
+  <LetterLabelAIDestroyed>인공지능 파괴됨</LetterLabelAIDestroyed>
+  <LetterAIDestroyed>함선의 컴퓨터 코어에서 불꽃이 튀고 지지직거리며, 마지막 정신파동이 헐떡였습니다. 정착민에게 깊은 만족감과 감사 인사를 전하며, 침묵에 빠져듭니다.
+
+고대 인공지능은 더는 존재하지 않지만, 그 죽음의 순간 동안 엄청난 양의 데이터를 당신의 함선에 전송하였습니다. 고대 함선 운행기록의 마지막 항목입니다! 해당 항목에는 함선 후미의 큰 부분 하나가 행성 표면의 외딴곳에 추락한 사실이 기록되어 있습니다. 추락한 부분은 존슨-타나카 추진기가 위치한 부분입니다. 만약 재진입 당시 타버리지 않았다면, 그곳에서 발견할 수 있을 것입니다.
+
+이제 마지막 한 걸음이 남았습니다!</LetterAIDestroyed>
+  <ImpactSiteLostLabel>존슨-타나카 추진기 파괴됨</ImpactSiteLostLabel>
+  <ImpactSiteLost>추락 현장에서 폭발 충격이 퍼져 나갑니다.
+
+정상적인 방전 절차를 거치지 않아 존슨-타나카 추진기가 파괴되고 말았습니다. 당신은 새로운 추진기를 찾아 나서야 합니다.
+
+운 좋게도, 고대 함선은 여러 개의 엔진이 있었으므로 운행기록 정보에서 다른 추락 지점을 계산할 수 있을 것입니다.</ImpactSiteLost>
+  <LetterLabelSoSHibernateComplete>방전 완료</LetterLabelSoSHibernateComplete>
+  <LetterSoSHibernateCompleteStandalone>존슨-타나카 추진기의 방전 절차가 완료되었습니다. 이제 해체를 통해 "고차원 기관"을 획득할 수 있습니다.</LetterSoSHibernateCompleteStandalone>
+  <ImpactSiteFoundLabel>추락 현장 발견</ImpactSiteFoundLabel>
+  <ImpactSiteFound>당신은 고대 선박 엔진의 추락 현장에 도착했습니다.
+
+존슨-타나카 추진기는 엄청난 양의 운동량이 저장되어 있기 때문에, 안전하게 바로 열 수 없습니다. 당신은 수동으로 방전 절차를 유도해야 합니다.
+
+당신의 정착민들이 이 작업은 약 15일이 소요될 것이라고 계산하였습니다. 이 에너지의 고유 파장은 매우 먼 곳에서도 관측될 것입니다. 이 고유 파장은 성간 비행 능력을 의미하므로, 필사적인 습격자와 치명적인 메카노이드 군단을 끌어들일 것입니다.
+
+당신은 지금까지 본 적 없는 수준으로 습격을 당할 것입니다. 먼저 방어 준비가 완료되었는지 확인하세요.</ImpactSiteFound>
+  <SoSTimePassedLabel>성간 여행</SoSTimePassedLabel>
+  <SoSTimePassed>당신의 함선이 다른 거주 가능한 행성을 찾아 여행하였습니다. 이 여행에 {0}년이 소요되었습니다.</SoSTimePassed>
+  <LetterLabelPawnsLostReEntry>대기 재진입</LetterLabelPawnsLostReEntry>
+  <LetterPawnsLostReEntry>대기 재진입 때문에 다음 정착민과 가축이 사망했습니다:</LetterPawnsLostReEntry>
+  <LetterLabelSatelliteRepairFail>수리 실패</LetterLabelSatelliteRepairFail>
+  <LetterSatelliteRepairFail>{0}(이)가 고대 인공위성 수리에 실패하였습니다. 추가적인 시도는 가능하지만, 점점 어려워질 것입니다.</LetterSatelliteRepairFail>
+  <LetterLabelSatelliteRepairFailCritical>치명적인 실패</LetterLabelSatelliteRepairFailCritical>
+  <LetterSatelliteRepairFailCritical>{0}(이)가 고대 인공위성 수리에 실패하였습니다. 인공위성 코어가 폭발할 정도로 과부하 되었습니다.</LetterSatelliteRepairFailCritical>
+  <LetterLabelSatelliteRepairSuccess>수리 성공</LetterLabelSatelliteRepairSuccess>
+  <LetterSatelliteRepairSuccess>{0}(이)가 성공적으로 고대 인공위성을 수리했습니다. 이제 완전한 작동이 가능하지만, 우리가 사용하기 위해서는 해킹이 필요합니다.</LetterSatelliteRepairSuccess>
+  <LetterLabelSatelliteHackFail>해킹 실패</LetterLabelSatelliteHackFail>
+  <LetterSatelliteHackFail>{0}(이)가 고대 인공위성 해킹에 실패했습니다. 추가적인 시도는 가능하지만, 점점 어려워질 것입니다.</LetterSatelliteHackFail>
+  <LetterLabelSatelliteHackFailCritical>치명적인 실패</LetterLabelSatelliteHackFailCritical>
+  <LetterSatelliteHackFailCritical>{0}(이)가 고대 인공위성 해킹에 실패하였습니다. 방어 프로토콜이 발동되어 타고 온 왕복선의 출발지가 추적되었고, 적대적 메카노이드가 함선으로 향하기 시작하였습니다!</LetterSatelliteHackFailCritical>
+  <LetterLabelSatelliteHackSuccess>해킹 성공</LetterLabelSatelliteHackSuccess>
+  <LetterSatelliteHackSuccess>{0}(이)가 성공적으로 고대 인공위성을 해킹했습니다. 시스템이 제어기기에 접속할 수 있는 일회용 인증키를 발급해 주었습니다.</LetterSatelliteHackSuccess>
+  <LetterLabelSatelliteMechAttack>메카노이드 공격!</LetterLabelSatelliteMechAttack>
+  <LetterSatelliteMechAttack>메카노이드가 당신의 해킹을 감지하여 해당 지역으로 이동하고 있습니다! 당신이 후퇴할 때까지 계속 접근할 것입니다.</LetterSatelliteMechAttack>
+  <LetterLabelSatelliteMechAttackBase>메카노이드 공격!</LetterLabelSatelliteMechAttackBase>
+  <LetterSatelliteMechAttackBase>메카노이드가 인공위성의 해체를 감지했고, 타고 온 왕복선의 출발지가 추적되었습니다! 그들이 당신의 함선으로 향하기 시작하였습니다.</LetterSatelliteMechAttackBase>
+  <LetterLabelPlanetReturnGift>세력 선물</LetterLabelPlanetReturnGift>
+  <LetterPlanetReturnGift>함선이 궤도에 진입하자, {0}(으)로부터 축하를 받았습니다. 그들은 당신이 남기고 온 정착지를 잘 보살펴 왔고, 지금은 그들의 가장 중요한 정착지 중 한 곳이 되었습니다.
+
+수 년 전 당신의 정착민이 주었던 수많은 선물을 이야기하며, 다음 아이템을 보내왔습니다:
+
+{1}</LetterPlanetReturnGift>
+  <ShipCombatStart>함선 전투</ShipCombatStart>
+  <ShipCombatStartDesc>적대적 함선이 접근 중입니다! 감지기는 그 함선을 {0}(으)로 탐지하였습니다.</ShipCombatStartDesc>
+  <WinShipBattle>함선 전투 승리</WinShipBattle>
+  <WinShipBattleDesc>적 함선의 제어 체계가 붕괴함에 따라, 적 함선은 표류하기 시작합니다.
+
+원한다면 직접 화물과 포로를 회수할 수도 있고, 함교를 통해 적 함선을 인양할 수도 있습니다. 당신의 인양 시설이 적 선원이나, 시체, 화물이나 건축 자재 일부를 회수할 것입니다.</WinShipBattleDesc>
+  <LoseShipBattle>함선 전투 패배</LoseShipBattle>
+  <LoseShipBattleDesc>당신의 함선 제어체계가 붕괴함에 따라, 함선은 표류하기 시작합니다.
+
+이는 반드시 이야기의 끝을 고하는 것은 아닙니다! 만약 자동-방출 동면장치가 있다면 아래 행성을 향해 탈출 포드가 발사되었을 것입니다. 동면장치가 비어 있었더라도 정착민 중 일부는 시간에 맞추어 탑승했을지도 모릅니다...</LoseShipBattleDesc>
+  <EntanglementUpdate>버전 업데이트</EntanglementUpdate>
+  <EntanglementUpdateDesc>루데온 정책의 변화로 최신 버전의 림월드에는 의미 없지만, 전체적인 변화가 있었습니다. 우리는 이 새로운 정책을 준수하기 위해, Save Our Ship 2의 모든 기술 청사진 기능을 제거했습니다.
+
+당신의 세이브 데이터에서 강력하게 금지된 이 기술 청사진의 데이터가 발견되었고, 이는 당신이 존슨-타나카 추진기 임무를 이미 완수했음을 의미합니다. 우리는 타이난이 밤새 걱정하지 않고 잠을 잘 수 있도록 이 끔찍하고 불법적인 데이터를 삭제하였습니다.
+
+그 대신, 이 "고차원 기관"(이제 존슨 타나카 드라이브를 건설하는 데 필요한 새로운 유물)을 제공해 드리겠습니다. 당신의 기지에 하나가 수송되었을 것입니다 (건망증 있는 정착민 하나가 추락 현장 같은 곳에서 주머니에 넣은 뒤 잊고 있었다고 칩시다). 이제 앞으로의 플레이 방향은 임무 보상으로 기술 청사진 대신 이런 부품을 제공하는 것으로 바뀔 것입니다. 만약 존슨-타나카 추진기가 파괴되었다면 특정한 적 함선에서 새로운 "고차원 기관"을 회수할 수도 있을 것입니다.</EntanglementUpdateDesc>
+  <MustPlaceInsideShipFramework>함선 부품으로 둘러싸인 방 안에 배치되어야 합니다.</MustPlaceInsideShipFramework>
+  <MustPlaceInsideShip>함선 선체와 함선 바닥으로 완전히 둘러싸인 방 안에 배치되어야 합니다.</MustPlaceInsideShip>
+  <ShipReportNeedPilot>함선은 조종사나 인공지능 코어 둘 중 하나가 필요합니다.</ShipReportNeedPilot>
+  <ShipNeedsMoreChemfuel>함선은 현재 화학연료 {0}개가 있지만, {1}개가 필요합니다.</ShipNeedsMoreChemfuel>
+  <ShipNeedsMorePower>함선은 현재 전력 {0}Wd가 있지만, 100,000Wd가 필요합니다.</ShipNeedsMorePower>
+  <ShipPlanetReturn>어떤 행성으로 귀환할까요?</ShipPlanetReturn>
+  <ShipAbandonColoniesWarning>지금 수년, 혹은 수십 년이 걸리는 여행을 시작하려 합니다. 이 기간에 당신의 행성에 정착한 정착민과 소통은 불가능합니다. 그들이 스스로 생존할 가능성은 없습니다.
+
+더 나아가, 함선에 탑승한 정착민이나 가축은 동면하지 않는 이상 생존하지 못할 것입니다.
+
+동면하지 않은 함선의 모든 인원과 남겨진 모든 인원을 포기하려면 이 명령을 내리세요.</ShipAbandonColoniesWarning>
+  <ShipAbandonColoniesWarningPK>접근하고 있는 행성파괴자 때문에, 다시는 이 행성으로 돌아올 수 없을 것입니다.
+
+더 나아가, 함선에 탑승한 정착민이나 가축은 동면하지 않는 이상 생존하지 못할 것입니다.
+
+동면하지 않은 함선의 모든 인원과 남겨진 모든 인원을 포기하려면 이 명령을 내리세요.</ShipAbandonColoniesWarningPK>
+  <ChooseAllyToTakeColony>떠나기 전, 당신은 동맹 세력에게 남겨진 정착민과 정착지의 건물을 제공할 수 있습니다. 언젠가 이 행성으로 돌아온다면, 이 정착지가 그 세력에서 번영하고 있는 모습을 볼 수 있을 것입니다.</ChooseAllyToTakeColony>
+  <SoSHibernatableHibernating>운동량 축적 경고</SoSHibernatableHibernating>
+  <SoSHibernatableStartingUp>방전 중</SoSHibernatableStartingUp>
+  <SoSHibernateWarningStandalone>추진기가 저장된 운동량의 방전 절차를 시작할 준비가 완료되었습니다. 절차가 완료되면, 정착민이 추진기를 안전히 분해하고 "고차원 기관"을 획득할 수 있을 것입니다.
+
+이 작업은 약 15일이 소요될 것이며, 이 에너지의 고유 파장은 매우 먼 곳에서도 관측될 것입니다. 이런 종류의 고유 파장은 성간 비행 능력을 의미하므로, 필사적인 습격자와 치명적인 메카노이드 군단을 끌어들일 것입니다.
+
+당신은 지금까지 본 적 없는 수준으로 습격을 당할 것입니다. 먼저 방어 준비가 완료되었는지 확인하세요.</SoSHibernateWarningStandalone>
+  <SoSCommandShipStartup>방전 절차 시작</SoSCommandShipStartup>
+  <SoSCommandShipStartupDesc>추진기에 저장된 운동량을 방전시킵니다.</SoSCommandShipStartupDesc>
+  <SpaceSiteFuelCost>필요 연료: {0}%</SpaceSiteFuelCost>
+  <UnfoldStatus>상태: </UnfoldStatus>
+  <UnfoldRetracted>접힘</UnfoldRetracted>
+  <UnfoldExtended>펼쳐짐</UnfoldExtended>
+  <UnfoldExtending>펼치는 중</UnfoldExtending>
+  <UnfoldRetracting>접는 중</UnfoldRetracting>
+  <ShipHeatStored>열량망에 저장된 열량/수용량: {0} HU / {1} HU</ShipHeatStored>
+  <CannotFireDueToHeat>{0} 발사 불가: 열 수용량 부족</CannotFireDueToHeat>
+  <CannotFireDueToPower>{0} 발사 불가: 전력 부족</CannotFireDueToPower>
+  <ShipCombatShieldBroken>열 수용량이 부족하여 보호막이 파괴되었습니다!</ShipCombatShieldBroken>
+  <ShipCombatTooltip>당신의 함선으로부터 적 함선까지의 거리와 모든 발사체를 나타냅니다.
+
+빨강 범위: 모든 무장 발사 가능. 레일건 적중률 낮음
+
+초록 범위: 플라즈마, 레일건, 미사일 발사 가능. 레일건 적중률 중간
+
+파랑 범위: 레일건, 미사일 발사 가능. 레일건 적중률 높음</ShipCombatTooltip>
+  <ShipTorpedoLoaded>장전됨: {0}</ShipTorpedoLoaded>
+  <ShipTorpedoNotLoaded>탄약 없음</ShipTorpedoNotLoaded>
+  <shipTubeFullyLoaded>모두 장전됨</shipTubeFullyLoaded>
+  <shipNoTorpedoes>미사일 없음</shipNoTorpedoes>
+  <MessageTurretWontFireBecausePointDefense>경고: 포탑이 요격 방식으로 설정되어 있어 적 함선을 공격하지 않음</MessageTurretWontFireBecausePointDefense>
+  <MessageShuttleMustBePartiallyFueled>왕복선의 탑승 명령을 위해서는 최소 25%의 연료가 필요함</MessageShuttleMustBePartiallyFueled>
+  <MustPlaceNearSpinalMountPort>중축 모듈에 인접하여 건설해야 함</MustPlaceNearSpinalMountPort>
+  <NoSalvageBays>이용 가능한 인양 시설이 없음</NoSalvageBays>
+  <EnemyShipRetreating>적선이 후퇴를 시도합니다!</EnemyShipRetreating>
+  <ScenPart_LandShip>세력 함선 착륙</ScenPart_LandShip>
+
+</LanguageData>

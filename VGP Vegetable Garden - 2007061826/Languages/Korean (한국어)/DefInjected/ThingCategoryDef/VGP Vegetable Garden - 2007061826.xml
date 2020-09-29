@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FruitFoodRaw.label>과일</FruitFoodRaw.label>
+  <AnimalFeed.label>사료</AnimalFeed.label>
+  <SweetMeals.label>음료와 간식</SweetMeals.label>
+  <SimpleMeals.label>간편한 음식</SimpleMeals.label>
+  <FineMeals.label>괜찮은 음식</FineMeals.label>
+  <LavishMeals.label>고급 음식</LavishMeals.label>
+  <CookingSupplies.label>식재료</CookingSupplies.label>
+</LanguageData>

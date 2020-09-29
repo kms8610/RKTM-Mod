@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IP_InsertFirstIngredient.label>첫 번째 재료 운반</IP_InsertFirstIngredient.label>
+  <IP_InsertFirstIngredient.verb>첫 번째 재료 운반 중</IP_InsertFirstIngredient.verb>
+  <IP_InsertFirstIngredient.gerund>첫 번째 재료 운반 중</IP_InsertFirstIngredient.gerund>
+  <IP_InsertSecondIngredient.label>첫 번째 재료 운반</IP_InsertSecondIngredient.label>
+  <IP_InsertSecondIngredient.verb>첫 번째 재료 운반 중</IP_InsertSecondIngredient.verb>
+  <IP_InsertSecondIngredient.gerund>첫 번째 재료 운반 중</IP_InsertSecondIngredient.gerund>
+  <IP_InsertThirdIngredient.label>첫 번째 재료 운반</IP_InsertThirdIngredient.label>
+  <IP_InsertThirdIngredient.verb>첫 번째 재료 운반 중</IP_InsertThirdIngredient.verb>
+  <IP_InsertThirdIngredient.gerund>첫 번째 재료 운반 중</IP_InsertThirdIngredient.gerund>
+  <IP_RemoveProduct.label>완제품 꺼내기</IP_RemoveProduct.label>
+  <IP_RemoveProduct.verb>완제품 꺼내는 중</IP_RemoveProduct.verb>
+  <IP_RemoveProduct.gerund>완제품 꺼내는 중</IP_RemoveProduct.gerund>
+</LanguageData>

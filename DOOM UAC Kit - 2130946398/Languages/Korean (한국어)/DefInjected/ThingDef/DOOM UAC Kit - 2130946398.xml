@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RN_UACMealSurvivalPack.label>UAC 보존 식량</RN_UACMealSurvivalPack.label>
+  <RN_UACMealSurvivalPack.description>비상시 생존을 보장하기 위한 고품질의 식량으로, 항공우주 연합 제품입니다. 생존 상황에서 사용을 위해 만들어졌으며, 호화로운 품질로 조리되었습니다. 절대 썩지 않지만, 밖에 놔두면 여전히 망가질 수 있습니다. 여행하기에 아주 좋습니다.</RN_UACMealSurvivalPack.description>
+  <RH_UACHealerMechSerum.label>UAC 치유 혈청</RH_UACHealerMechSerum.label>
+  <RH_UACHealerMechSerum.description>항공우주 연합 치유 혈청. 건강 이상을 치료하기 위해 조정된 일회용 고농축 메카나이트 혈청입니다. 메카나이트 군체는 대상의 건강에 영향을 미치는 모든 요소를 재조정하며 심지어 불치병마저도 치료합니다. 또한 필요한 경우 변형하여 새로운 사지나 기관을 형성합니다.</RH_UACHealerMechSerum.description>
+  <RH_UACHealerMechSerum.comps.0.useLabel>UAC 치유 혈청 사용</RH_UACHealerMechSerum.comps.0.useLabel>
+  <UACCombat_Implant.label>바실리스크 임플란트</UACCombat_Implant.label>
+  <UACCombat_Implant.description>유럽 신화의 생물인 "바실리스크"라는 별명을 가진 UAC 전투 임플란트는 한 번 보는 것만으로도 죽일 수 있다고 합니다. AI가 포함되어 있습니다. 내장된 마이크로 컴퓨터가 마치 사용자 생각의 일부인 것처럼 조준 지원 및 기타 전략적 조언을 제공합니다. 사용자의 전투를 지원하고 현재 상황에 대한 통찰력을 제공하지만 전투상황에서만 사용할 수있습니다.\n\n이 임플란트는 UAC가 엘리트 전사 전용으로 제작하였습니다.</UACCombat_Implant.description>
+  <UACBrain_Implant.label>연구자 임플란트</UACBrain_Implant.label>
+  <UACBrain_Implant.description>시각/촉각 신경 인터페이스에 의해 제어되는 맞춤형 비 지능형 마이크로 컴퓨터. 두뇌에 내장된 계산기 및 메모장과 같은 학습, 기억력 및 계산을 지원합니다.\n\n이 임플란트는 연구 개발 팀원을 위해 UAC에서 제작되었습니다.</UACBrain_Implant.description>
+  <UACSocial_Implant.label>협상가 임플란트</UACSocial_Implant.label>
+  <UACSocial_Implant.description>시각/촉각 신경 인터페이스에 의해 제어되는 맞춤형 비 지능형 마이크로 컴퓨터. 상호 작용을 지원하며, 사용자의 업무 거래, 외교 및 설득에 도움을 주기 위해 설계되었습니다.\n\n이 임플란트는 UAC가 개인적으로 관계가 있는 직원 및 협상과 관련된 기타 직무 담당자를 위해 제작되었습니다.</UACSocial_Implant.description>
+  <RH_UACAestheticShaper.label>대표 임플란트</RH_UACAestheticShaper.label>
+  <RH_UACAestheticShaper.description>호르몬과 메카나이트의 혼합물인 UAC제 미학 셰이퍼는 몸에 근육과 지방을 형성하여 원하는 외형을 만드는 기능성 미적 조직을 추가합니다. 이 임플란트는 사용자의 취향이나 파트너의 취향에 따라 다양한 체형을 형성하도록 구성할 수 있습니다.\n\n이 임플란트는 UAC가 회사의 대표를 위해 제작하여 외모를 관계 개선을 위한 자산으로 사용할 수 있게 했습니다.</RH_UACAestheticShaper.description>
+  <UACSoldierSerum_Implant.label>케르베로스 혈청</UACSoldierSerum_Implant.label>
+  <UACSoldierSerum_Implant.description>그리스 신화에서 하데스의 문을 지키는 신화적인 생물의 이름을 따서 "케르베로스"라는 별명을 가진 UAC의 슈퍼 솔저 혈청. 물리적 상해와 물리적인 질병에 대해 피시술자가 더 저항할 수 있게 만들고, 사용자의 체력 수준이 향상됩니다. 혈청 내 나노 머신은 또한 가능한 대로 전투 목적으로 불필요한 정신붕괴를 최소화하기 위해 노력하고 있습니다.\n\nUAC는 이 혈청을 슈퍼 병사 프로그램인 "케르베로스 프로젝트"의 일부로 만들었으나, 아직 초기 단계에 있습니다.</UACSoldierSerum_Implant.description>
+  <RHApparel_DOOM_PhobosSuit.label>포보스 전투복</RHApparel_DOOM_PhobosSuit.label>
+  <RHApparel_DOOM_PhobosSuit.description>강화갑옷의 전투복. 포보스 전투복은 항공우주 연합이 그들의 해병 침입자들을 위해 만든 프레이터 전투복의 복제품입니다. 이전에 만들어진 다른 모든 UAC의 갑옷보다 우수하지만 UAC 엔지니어들은 기술적인 한계로 인해 프레이터 전투복의 정확한 특성을 재현할 수 없었기 때문에, 이 전투복은 원래의 나이트 센티넬의 설계보다 단열성과 충격 저항이 부족합니다.\n\n이 갑옷은 악마의 침입동안 포보스 UAC 통신 중계기를 보호하는 데 도움을 준 저명한 UAC 해병대를 기리기 위해 만들어졌습니다.</RHApparel_DOOM_PhobosSuit.description>
+  <RHApparel_UAC_SecurityArmor.label>UAC 경호 갑옷</RHApparel_UAC_SecurityArmor.label>
+  <RHApparel_UAC_SecurityArmor.description>한 벌의 강화 갑옷입니다. UAC는 보안 직원을 위해 이러한 일련의 갑옷을 만들었습니다. 이 시리즈와 다른 UAC 강화갑옷의 차이점은 대부분 장식적인 것으로, 사용자의 이동성을 향상시키고 높은 방호력을 제공한다는 측면에서 유사합니다.</RHApparel_UAC_SecurityArmor.description>
+  <RHApparel_UAC_WildcatArmor.label>UAC 살쾡이 갑옷</RHApparel_UAC_WildcatArmor.label>
+  <RHApparel_UAC_WildcatArmor.description>한 벌의 강화 갑옷입니다. UAC는 보안 직원을 위해 이러한 일련의 갑옷을 만들었습니다. 이 시리즈와 다른 UAC 강화갑옷의 차이점은 대부분 장식적인 것으로, 사용자의 이동성을 향상시키고 높은 방호력을 제공한다는 측면에서 유사합니다.</RHApparel_UAC_WildcatArmor.description>
+  <RHApparel_UAC_JaguarArmor.label>UAC 재규어 갑옷</RHApparel_UAC_JaguarArmor.label>
+  <RHApparel_UAC_JaguarArmor.description>한 벌의 강화 갑옷입니다. UAC는 보안 직원을 위해 이러한 일련의 갑옷을 만들었습니다. 이 시리즈와 다른 UAC 강화갑옷의 차이점은 대부분 장식적인 것으로, 사용자의 이동성을 향상시키고 높은 방호력을 제공한다는 측면에서 유사합니다.</RHApparel_UAC_JaguarArmor.description>
+  <RHApparel_UAC_ShepherdArmor.label>UAC 쉐퍼드 갑옷</RHApparel_UAC_ShepherdArmor.label>
+  <RHApparel_UAC_ShepherdArmor.description>한 벌의 강화 갑옷입니다. UAC는 보안 직원을 위해 이러한 일련의 갑옷을 만들었습니다. 이 시리즈와 다른 UAC 강화갑옷의 차이점은 대부분 장식적인 것으로, 사용자의 이동성을 향상시키고 높은 방호력을 제공한다는 측면에서 유사합니다.</RHApparel_UAC_ShepherdArmor.description>
+  <RHApparel_UAC_ASPArmor.label>UAC ASP 갑옷</RHApparel_UAC_ASPArmor.label>
+  <RHApparel_UAC_ASPArmor.description>한 벌의 강화 갑옷입니다. UAC는 보안 직원을 위해 이러한 일련의 갑옷을 만들었습니다. 이 시리즈와 다른 UAC 강화갑옷의 차이점은 대부분 장식적인 것으로, 사용자의 이동성을 향상시키고 높은 방호력을 제공한다는 측면에서 유사합니다.</RHApparel_UAC_ASPArmor.description>
+  <RHApparel_UAC_RavenArmor.label>UAC 갈까마귀 갑옷</RHApparel_UAC_RavenArmor.label>
+  <RHApparel_UAC_RavenArmor.description>한 벌의 강화 갑옷입니다. UAC는 보안 직원을 위해 이러한 일련의 갑옷을 만들었습니다. 이 시리즈와 다른 UAC 강화갑옷의 차이점은 대부분 장식적인 것으로, 사용자의 이동성을 향상시키고 높은 방호력을 제공한다는 측면에서 유사합니다.</RHApparel_UAC_RavenArmor.description>
+  <RHApparel_UAC_EliteArmor.label>UAC 엘리트 갑옷</RHApparel_UAC_EliteArmor.label>
+  <RHApparel_UAC_EliteArmor.description>한 벌의 강화 갑옷입니다. UAC는 엘리트 직원을 위해 이러한 일련의 갑옷을 만들었습니다. 이 시리즈와 다른 UAC 강화갑옷의 차이점은 대부분 장식적인 것으로, 사용자의 이동성을 향상시키고 높은 방호력을 제공한다는 측면에서 유사합니다.</RHApparel_UAC_EliteArmor.description>
+  <RHApparel_UAC_HawkArmor.label>UAC 매 갑옷</RHApparel_UAC_HawkArmor.label>
+  <RHApparel_UAC_HawkArmor.description>한 벌의 강화 갑옷입니다. UAC는 엘리트 직원을 위해 이러한 일련의 갑옷을 만들었습니다. 이 시리즈와 다른 UAC 강화갑옷의 차이점은 대부분 장식적인 것으로, 사용자의 이동성을 향상시키고 높은 방호력을 제공한다는 측면에서 유사합니다.</RHApparel_UAC_HawkArmor.description>
+  <RHApparel_DOOM_PhobosSuitHelmet.label>포보스 전투복 헬멧</RHApparel_DOOM_PhobosSuitHelmet.label>
+  <RHApparel_DOOM_PhobosSuitHelmet.description>포보스 전투복과 함께 착용하는 헬멧. 사용자의 상황 인식 및 정확성을 향상시키는 헤드 업 디스플레이가 제공됩니다. 
+
+이 헬멧은 착용자를 유독성 낙진으로부터 완전히 보호합니다. 기술적인 한계로 인해, UAC는 프레이터 전투복의 정신 보호막은 복제하지 못했습니다.</RHApparel_DOOM_PhobosSuitHelmet.description>
+  <RHApparel_UAC_SecurityHelmet.label>UAC 경호 헬멧</RHApparel_UAC_SecurityHelmet.label>
+  <RHApparel_UAC_SecurityHelmet.description>상태 컴퓨터가 내장되었으며 플라스틸을 겹겹이 직조한 강화장갑 방탄모. UAC 보안 직원들에 의해 제작되었습니다.\n\n이 헬멧과 다른 강화장갑 방탄모의 차이점은, 대부분 장식적인 것입니다.</RHApparel_UAC_SecurityHelmet.description>
+  <RHApparel_UAC_WildcatHelmet.label>UAC 살쾡이 헬멧</RHApparel_UAC_WildcatHelmet.label>
+  <RHApparel_UAC_WildcatHelmet.description>상태 컴퓨터가 내장되었으며 플라스틸을 겹겹이 직조한 강화장갑 방탄모. UAC 보안 직원들에 의해 제작되었습니다.\n\n이 헬멧과 다른 강화장갑 방탄모의 차이점은, 대부분 장식적인 것입니다.</RHApparel_UAC_WildcatHelmet.description>
+  <RHApparel_UAC_JaguarHelmet.label>UAC 재규어 헬멧</RHApparel_UAC_JaguarHelmet.label>
+  <RHApparel_UAC_JaguarHelmet.description>상태 컴퓨터가 내장되었으며 플라스틸을 겹겹이 직조한 강화장갑 방탄모. UAC 보안 직원들에 의해 제작되었습니다.\n\n이 헬멧과 다른 강화장갑 방탄모의 차이점은, 대부분 장식적인 것입니다.</RHApparel_UAC_JaguarHelmet.description>
+  <RHApparel_UAC_ShepherdHelmet.label>UAC 쉐퍼드 헬멧</RHApparel_UAC_ShepherdHelmet.label>
+  <RHApparel_UAC_ShepherdHelmet.description>상태 컴퓨터가 내장되었으며 플라스틸을 겹겹이 직조한 강화장갑 방탄모. UAC 보안 직원들에 의해 제작되었습니다.\n\n이 헬멧과 다른 강화장갑 방탄모의 차이점은, 대부분 장식적인 것입니다.</RHApparel_UAC_ShepherdHelmet.description>
+  <RHApparel_UAC_ASPHelmet.label>UAC ASP 헬멧</RHApparel_UAC_ASPHelmet.label>
+  <RHApparel_UAC_ASPHelmet.description>상태 컴퓨터가 내장되었으며 플라스틸을 겹겹이 직조한 강화장갑 방탄모. UAC 보안 직원들에 의해 제작되었습니다.\n\n이 헬멧과 다른 강화장갑 방탄모의 차이점은, 대부분 장식적인 것입니다.</RHApparel_UAC_ASPHelmet.description>
+  <RHApparel_UAC_RavenHelmet.label>UAC 갈까마귀 헬멧</RHApparel_UAC_RavenHelmet.label>
+  <RHApparel_UAC_RavenHelmet.description>상태 컴퓨터가 내장되었으며 플라스틸을 겹겹이 직조한 강화장갑 방탄모. UAC 보안 직원들에 의해 제작되었습니다.\n\n이 헬멧과 다른 강화장갑 방탄모의 차이점은, 대부분 장식적인 것입니다.</RHApparel_UAC_RavenHelmet.description>
+  <RHApparel_UAC_HawkHelmet.label>UAC 매 헬멧</RHApparel_UAC_HawkHelmet.label>
+  <RHApparel_UAC_HawkHelmet.description>상태 컴퓨터가 내장되었으며 플라스틸을 겹겹이 직조한 강화장갑 방탄모. UAC 보안 직원들에 의해 제작되었습니다.\n\n이 헬멧과 다른 강화장갑 방탄모의 차이점은, 대부분 장식적인 것입니다.</RHApparel_UAC_HawkHelmet.description>
+  <RHApparel_UAC_EliteHelmet.label>UAC 엘리트 헬멧</RHApparel_UAC_EliteHelmet.label>
+  <RHApparel_UAC_EliteHelmet.description>상태 컴퓨터가 내장되었으며 플라스틸을 겹겹이 직조한 강화장갑 방탄모. UAC 보안 직원들에 의해 제작되었습니다.\n\n이 헬멧과 다른 강화장갑 방탄모의 차이점은, 대부분 장식적인 것입니다.</RHApparel_UAC_EliteHelmet.description>
+  <RNApparel_SkinSuit_UAC.description>UAC 스킨 수트입니다. 탈진, 산 축적 및 다른 문제들을 막아 사용자가 인간의 속도를 넘는 움직임을 생각하는대로 가능하게 합니다.\n\n이것은 보이드들이 별들 사이를 모험하던 초창기에 번화계에서 "빌린" 것입니다.</RNApparel_SkinSuit_UAC.description>
+  <RNApparel_SkinSuit_UAC.label>UAC 스킨 수트</RNApparel_SkinSuit_UAC.label>
+  <RNApparel_BuisnessSuit_UAC.description>UAC 임원 및 대표자를 위한 맞춤형 비즈니스 정장입니다. 번화계의 기술을 사용하여 가벼운 느낌이면서도 방탄성과 보온성이 파카를 입은 것과 같습니다.\n\n이 정장의 색상은 마치 악의 조직을 연상시키지만, 너무도 깔끔하고 지적인 모습에 착용자는 당신을 설득하여 항복하고 인체실험에 써도 된다는 허락을 받아낼 수 있습니다.</RNApparel_BuisnessSuit_UAC.description>
+  <RNApparel_BuisnessSuit_UAC.label>UAC 비즈니스 수트</RNApparel_BuisnessSuit_UAC.label>
+  <RHApparel_RangedShieldBelt_UAC.label>UAC 보호막 벨트</RHApparel_RangedShieldBelt_UAC.label>
+  <RHApparel_RangedShieldBelt_UAC.description>항공우주연합 1인용 에너지 방어 장치. 멀리서 오는 빠르게 움직이는 발사체나 에너지 공격을 막으려고 합니다. 근접 공격이나 영거리 사격에는 아무런 영향을 미치지 않습니다.\n\n이 고급 버전은 착용자가 외부로 사격을 할 수 있지만 증가된 에너지 소모율에 의해 기존의 것보다 약해졌으며 재충전도 느려졌습니다. 큰 파우치로 착용자가 추가 품목을 휴대할 수 있습니다.</RHApparel_RangedShieldBelt_UAC.description>
+  <RHBench_UACFabricationBench.label>UAC 조립 작업대</RHBench_UACFabricationBench.label>
+  <RHBench_UACFabricationBench.description>연합 항공 우주 장비 제조를 위한 작업대입니다.</RHBench_UACFabricationBench.description>
+
+</LanguageData>

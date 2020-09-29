@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IP_InsertFirstItemDesc>첫 번째 재료 투입</IP_InsertFirstItemDesc>
+  <IP_InsertSecondItemDesc>첫 번째 재료 투입</IP_InsertSecondItemDesc>
+  <IP_InsertThirdItemDesc>첫 번째 재료 투입</IP_InsertThirdItemDesc>
+  <IP_InsertVariable>{0} 투입</IP_InsertVariable>
+  <IP_InsertVariableSecond>두 번째 칸에 {0} 삽입</IP_InsertVariableSecond>
+  <IP_InsertVariableThird>세 번째 칸에 {0} 삽입</IP_InsertVariableThird>
+  <IP_CantFindThing>이 지도에 해당 종류의 물품({0})이 없습니다.</IP_CantFindThing>
+  <IP_BringIngredients>재료 운반하기</IP_BringIngredients>
+  <IP_BringIngredientsDesc>작업을 시작하기 위해 재료 운반하기</IP_BringIngredientsDesc>
+  <IP_CancelIngredients>재료 운반 취소</IP_CancelIngredients>
+  <IP_CancelIngredientsDesc>이 건물로 재료 운반하기 취소</IP_CancelIngredientsDesc>
+  <IP_NoIngredientFound>지도에서 재료를 찾을 수 없음</IP_NoIngredientFound>
+  <IP_ChooseIngredient>재료 선택</IP_ChooseIngredient>
+  <IP_ChooseIngredientSecond>두 번째 재료를 선택</IP_ChooseIngredientSecond>
+  <IP_ChooseIngredientThird>세 번째 재료를 선택</IP_ChooseIngredientThird>
+  <IP_IngredientImproperlyDefined>재료 중 하나가 물품 작업이 중복 작동하도록 잘못 정의되었습니다.\n모드 작성자에게 문의하십시오.</IP_IngredientImproperlyDefined>
+  <IP_NoPowerDestroysWarning>작업을 시작하려면 {0}에 연료를 공급해야 합니다.</IP_NoPowerDestroysWarning>
+  <IP_NoFuelDestroysWarning>작업을 시작하려면 {0}에 연료를 공급해야 합니다.</IP_NoFuelDestroysWarning>
+  <IP_LightDestroysWarning>{0}(이)가 작업을 시작하려면 주변에 적절한 조명이 있어야 합니다.</IP_LightDestroysWarning>
+  <IP_RainDestroysWarning>{0}(이)가 작업을 시작하려면 비가 오지 않아야 합니다.</IP_RainDestroysWarning>
+  <IP_TemperatureDestroysWarning>{0}(이)가 작업을 시작하려면 적절한 온도({1} - {2})가 있어야 합니다.</IP_TemperatureDestroysWarning>
+  <IP_NoPowerDestroysInitialWarning>가공 중의 정전으로 제품이 손상되었습니다.</IP_NoPowerDestroysInitialWarning>
+  <IP_NoPowerDestroysMessage>가공 중의 정전으로 제품이 손상되었습니다.</IP_NoPowerDestroysMessage>
+  <IP_GenericProductFinished>제품 가공이 완료되어 운반 대기 중</IP_GenericProductFinished>
+  <IP_IsEmpty>{0}(이)가 비어 있음</IP_IsEmpty>
+  <IP_FilledWith>{0}(은)는 {1}(으)로 예약됨</IP_FilledWith>
+  <IP_FilledWithSecond>{0}의 두 번째 칸은 {1}(으)로 예약됨</IP_FilledWithSecond>
+  <IP_FilledWithThird>{0}의 세 번째 칸은 {1}(으)로 예약됨</IP_FilledWithThird>
+  <IP_IngredientPercentage>({1}개 중 {0}개 채워짐)</IP_IngredientPercentage>
+  <IP_ProcessorWorking>{0} 가공 중:</IP_ProcessorWorking>
+  <IP_ProcessingInProgress>{0}(이)가 {1}(을)를 가공 중입니다.\n{2}(은)는 {4} 뒤에 {3} 품질로 완성됩니다.</IP_ProcessingInProgress>
+  <IP_ProcessingInProgressNoQuality>{0}(이)가 {1}(을)를 가공 중입니다.\n{2}(은)는 {3} 뒤에 완성됩니다.</IP_ProcessingInProgressNoQuality>
+  <IP_RemoveProduct>{0} ({1}) 제거</IP_RemoveProduct>
+  <IP_RemoveProductDesc>{1}에서 {0}(을)를 제거하세요.\n제품은 현재 품질 수준 ({2})로 완성됩니다.</IP_RemoveProductDesc>
+  <IP_ResetSemiautomatic>조리법 초기화</IP_ResetSemiautomatic>
+  <IP_ResetSemiautomaticDesc>현재 제품이 완성된 후 건물을 재설정해서, 새로운 재료 성분을 선택할 수 있습니다.</IP_ResetSemiautomaticDesc>
+  <IP_NoCombination>이 재료에 대한 조합을 찾을 수 없습니다.</IP_NoCombination>
+  <IP_SetAutoQuality>제품 완료 품질을 설정하세요.\n제품이 이 품질에 도달하면, 정착민은 자동으로 제품을 검색하여 가능한 경우 저장 장소로 운반합니다.\n설정하지 않으면 제품이 수동으로 운반되거나, 전설 품질로 완성됩니다.</IP_SetAutoQuality>
+  <IP_ChooseQualityAuto>자동 품질 선택</IP_ChooseQualityAuto>
+  <IP_QualityAutoIs>자동 품질: {0}</IP_QualityAutoIs>
+  <IP_QualityAutoNot>자동 품질 비활성화</IP_QualityAutoNot>
+  <IP_QualityAutoEstablished>자동 품질, 해당 품질 수준에서 제품 운반: {0}</IP_QualityAutoEstablished>
+  <IP_ToggleAuto>자동 재료 획득</IP_ToggleAuto>
+  <IP_ToggleAutoDesc>항목을 활성화하면 해당 건물은 인접한 저장장소에서 재료를 자동으로 가져오고, 제품을 제거하면 자동으로 다시 작업을 시작합니다.\n그렇지 않은 경우 정착지 주민이 건물에 재료를 운반하며, 채워 넣은 후 수동으로 재개해야 합니다.</IP_ToggleAutoDesc>
+  <IP_ProductWaiting>운반 대기 중</IP_ProductWaiting>
+  <IP_OutsideLightRange>주변에 조명이 없어 곧 손상될 것입니다.</IP_OutsideLightRange>
+  <IP_SpoiledDueToLight>주변에 조명이 없어서 생산품이 손상되었습니다.</IP_SpoiledDueToLight>
+  <IP_ItRains>비가 와서 곧 손상될 것입니다.</IP_ItRains>
+  <IP_SpoiledDueToRain>비가 와서 생산품이 손상되었습니다.</IP_SpoiledDueToRain>
+  <IP_WrongTemp>온도가 알맞지 않아서 곧 손상될 것입니다.</IP_WrongTemp>
+  <IP_SpoiledDueToWrongTemp>생산품이 부적합한 온도로 인해 파손되었습니다.</IP_SpoiledDueToWrongTemp>
+  <IP_TempRangeInThisMachine>권장 온도: {0} - {1} ºC</IP_TempRangeInThisMachine>
+  <VanillaFactionsExpanded.EquipShield>{0}(을)를 방패로 착용</VanillaFactionsExpanded.EquipShield>
+  <VanillaFactionsExpanded.EquipWarningShieldUnusable>({0}(과)와 함께 사용할 수 없음)</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+  <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0}(을)를 사용할 수 없음)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+  <VanillaFactionsExpanded.Protects>보호</VanillaFactionsExpanded.Protects>
+  <VanillaFactionsExpanded.Protects_Desc>방패가 보호하는 부위입니다.</VanillaFactionsExpanded.Protects_Desc>
+  <VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>세력 관계 수정</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+  <VanillaFactionsExpanded.NumberRange>{0}에서 {1}(으)로</VanillaFactionsExpanded.NumberRange>
+  <VanillaFactionsExpanded.AllFactions>모든 세력</VanillaFactionsExpanded.AllFactions>
+  <VanillaFactionsExpanded.AllFactionsIncludingHidden>숨겨진 모든 세력</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+  <VanillaFactionsExpanded.AlwaysHostile>항상 적대적</VanillaFactionsExpanded.AlwaysHostile>
+  <VanillaFactionsExpanded.AffectHiddenFactions>영향을 받지 않음</VanillaFactionsExpanded.AffectHiddenFactions>
+  <VanillaFactionsExpanded.StartingGoodwill>출발</VanillaFactionsExpanded.StartingGoodwill>
+  <VanillaFactionsExpanded.NaturalGoodwill>중립</VanillaFactionsExpanded.NaturalGoodwill>
+  <VanillaFactionsExpanded.UsableWithShield>방패와 사용 가능</VanillaFactionsExpanded.UsableWithShield>
+  <VanillaFactionsExpanded.UsableWithShield_Desc>캐릭터가 방패를 장착시, 이 무기와 함께 사용할 수 있는지를 설정합니다.</VanillaFactionsExpanded.UsableWithShield_Desc>
+  <VanillaFactionsExpanded.FactionTitle>새로운 세력: {FactionName}</VanillaFactionsExpanded.FactionTitle>
+  <VanillaFactionsExpanded.ModInfo>이 세력은 {ModName}에 의해 추가되었지만, 현재 게임에는 없습니다.</VanillaFactionsExpanded.ModInfo>
+  <VanillaFactionsExpanded.AnUnknownMod>알 수 없는 모드</VanillaFactionsExpanded.AnUnknownMod>
+  <VanillaFactionsExpanded.HiddenFactionInfo>이것은 숨겨진 세력이며, 당신의 세력 목록에 나타나지 않을 것입니다.</VanillaFactionsExpanded.HiddenFactionInfo>
+  <VanillaFactionsExpanded.RequiredFactionInfo>{ModName} 모드에서 필요합니다.</VanillaFactionsExpanded.RequiredFactionInfo>
+  <VanillaFactionsExpanded.NonSpawningFactionInfo>이 세력은 생성되지 않는 것이라, 그냥 무시해도 좋습니다.</VanillaFactionsExpanded.NonSpawningFactionInfo>
+  <VanillaFactionsExpanded.FactionSelectOption>계속 진행하려면 변경하세요.</VanillaFactionsExpanded.FactionSelectOption>
+  <VanillaFactionsExpanded.FactionButtonAdd>세력 생성</VanillaFactionsExpanded.FactionButtonAdd>
+  <VanillaFactionsExpanded.FactionButtonAddFull>정착지가 있는 세력을 추가합니다.</VanillaFactionsExpanded.FactionButtonAddFull>
+  <VanillaFactionsExpanded.FactionButtonSkip>아무 것도 하지 않기</VanillaFactionsExpanded.FactionButtonSkip>
+  <VanillaFactionsExpanded.FactionButtonIgnore>세력을 무시합니다.</VanillaFactionsExpanded.FactionButtonIgnore>
+  <VanillaFactionsExpanded.FactionMessageFailed>세력을 추가할 수 없습니다.</VanillaFactionsExpanded.FactionMessageFailed>
+  <VanillaFactionsExpanded.FactionMessageFailedFull>정착지가 있는 세력을 추가할 수 없습니다.</VanillaFactionsExpanded.FactionMessageFailedFull>
+  <VanillaFactionsExpanded.FactionMessageSuccessFull>세력 {FactionName}(과)와 {Amount}개의 정착지를 추가했습니다.</VanillaFactionsExpanded.FactionMessageSuccessFull>
+  <VanillaFactionsExpanded.FactionMessageSuccess>세력 {FactionName}(을)를 추가했습니다.</VanillaFactionsExpanded.FactionMessageSuccess>
+  <VanillaFactionsExpanded.FactionSettlementsToSpawn>생성할 정착지: {1} (권장: {0})</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+  <VanillaFactionsExpanded.FactionMinDistance>플레이어 정착지와의 최소 거리: {1} (권장: {0})</VanillaFactionsExpanded.FactionMinDistance>
+  <VanillaFactionsExpanded.FactionButtonSpawn>생성</VanillaFactionsExpanded.FactionButtonSpawn>
+  <VanillaFactionsExpanded.FactionButtonCancel>취소</VanillaFactionsExpanded.FactionButtonCancel>
+</LanguageData>

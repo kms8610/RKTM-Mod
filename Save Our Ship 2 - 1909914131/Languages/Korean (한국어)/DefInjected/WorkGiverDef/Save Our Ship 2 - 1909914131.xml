@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ScanSpace.label>궤도 지역 탐사</ScanSpace.label>
+  <ScanSpace.verb>탐사</ScanSpace.verb>
+  <ScanSpace.gerund>탐사</ScanSpace.gerund>
+  <LoadTorpedoTube.label>미사일 장전</LoadTorpedoTube.label>
+  <LoadTorpedoTube.verb>장전</LoadTorpedoTube.verb>
+  <LoadTorpedoTube.gerund>장전</LoadTorpedoTube.gerund>
+
+</LanguageData>

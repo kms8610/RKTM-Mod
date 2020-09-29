@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cook_VAGP_Bakedpudding.label>푸딩 굽기 X5</Cook_VAGP_Bakedpudding.label>
+  <Cook_VAGP_Bakedpudding.description>달걀과 우유로 푸딩 5개를 굽습니다.</Cook_VAGP_Bakedpudding.description>
+  <Cook_VAGP_Bakedpudding.jobString>푸딩 굽는 중.</Cook_VAGP_Bakedpudding.jobString>
+  <Cook_VAGP_Ricecakefilled.label>딸기찹쌀떡 만들기</Cook_VAGP_Ricecakefilled.label>
+  <Cook_VAGP_Ricecakefilled.description>쌀과 우유, 딸기로 딸기찹살떡 1개를 만듭니다.</Cook_VAGP_Ricecakefilled.description>
+  <Cook_VAGP_Ricecakefilled.jobString>딸기찹쌀떡 만드는 중.</Cook_VAGP_Ricecakefilled.jobString>
+  <Cook_VAGP_Swissroll.label>롤케이크 굽기 X5</Cook_VAGP_Swissroll.label>
+  <Cook_VAGP_Swissroll.description>쌀이나 옥수수, 딸기, 우유, 초콜릿으로 롤케이크 5개를 굽습니다.</Cook_VAGP_Swissroll.description>
+  <Cook_VAGP_Swissroll.jobString>롤케이크 굽는 중.</Cook_VAGP_Swissroll.jobString>
+  <Cook_VAGP_Riceporridge.label>흰죽 끓이기</Cook_VAGP_Riceporridge.label>
+  <Cook_VAGP_Riceporridge.description>쌀로 흰죽 1개를 끓입니다.</Cook_VAGP_Riceporridge.description>
+  <Cook_VAGP_Riceporridge.jobString>흰죽 끓이는 중.</Cook_VAGP_Riceporridge.jobString>
+  <Cook_VAGP_RiceporridgeBulk.label>흰죽 끓이기 X4</Cook_VAGP_RiceporridgeBulk.label>
+  <Cook_VAGP_RiceporridgeBulk.description>쌀로 흰죽 4개를 끓입니다.</Cook_VAGP_RiceporridgeBulk.description>
+  <Cook_VAGP_RiceporridgeBulk.jobString>흰죽 끓이는 중.</Cook_VAGP_RiceporridgeBulk.jobString>
+  <Cook_VAGP_Popcorn.label>팝콘 튀기기</Cook_VAGP_Popcorn.label>
+  <Cook_VAGP_Popcorn.description>옥수수로 팝콘 1개를 튀깁니다.</Cook_VAGP_Popcorn.description>
+  <Cook_VAGP_Popcorn.jobString>팝콘 튀기는 중.</Cook_VAGP_Popcorn.jobString>
+  <Cook_VAGP_PopcornBulk.label>팝콘 튀기기 X4</Cook_VAGP_PopcornBulk.label>
+  <Cook_VAGP_PopcornBulk.description>옥수수로 팝콘 4개를 튀깁니다.</Cook_VAGP_PopcornBulk.description>
+  <Cook_VAGP_PopcornBulk.jobString>팝콘 튀기는 중.</Cook_VAGP_PopcornBulk.jobString>
+  <Cook_VAGP_Boiledmeat.label>고기 삶기</Cook_VAGP_Boiledmeat.label>
+  <Cook_VAGP_Boiledmeat.description>고기 1개를 삶습니다.</Cook_VAGP_Boiledmeat.description>
+  <Cook_VAGP_Boiledmeat.jobString>고기 삶는 중.</Cook_VAGP_Boiledmeat.jobString>
+  <Cook_VAGP_BoiledmeatBulk.label>고기 삶기 X4</Cook_VAGP_BoiledmeatBulk.label>
+  <Cook_VAGP_BoiledmeatBulk.description>고기 4개를 삶습니다.</Cook_VAGP_BoiledmeatBulk.description>
+  <Cook_VAGP_BoiledmeatBulk.jobString>고기 삶는 중.</Cook_VAGP_BoiledmeatBulk.jobString>
+  <Cook_VAGP_Boiledpotato.label>감자 삶기</Cook_VAGP_Boiledpotato.label>
+  <Cook_VAGP_Boiledpotato.description>감자 1개를 삶습니다.</Cook_VAGP_Boiledpotato.description>
+  <Cook_VAGP_Boiledpotato.jobString>감자 삶는 중.</Cook_VAGP_Boiledpotato.jobString>
+  <Cook_VAGP_BoiledpotatoBulk.label>감자 삶기 X4</Cook_VAGP_BoiledpotatoBulk.label>
+  <Cook_VAGP_BoiledpotatoBulk.description>감자 4개를 삶습니다.</Cook_VAGP_BoiledpotatoBulk.description>
+  <Cook_VAGP_BoiledpotatoBulk.jobString>감자 삶는 중.</Cook_VAGP_BoiledpotatoBulk.jobString>
+  <Cook_VAGP_Roastedcorn.label>옥수수 굽기</Cook_VAGP_Roastedcorn.label>
+  <Cook_VAGP_Roastedcorn.description>옥수수 1개를 굽습니다.</Cook_VAGP_Roastedcorn.description>
+  <Cook_VAGP_Roastedcorn.jobString>옥수수 굽는 중.</Cook_VAGP_Roastedcorn.jobString>
+  <Cook_VAGP_RoastedcornBulk.label>옥수수 굽기 X4</Cook_VAGP_RoastedcornBulk.label>
+  <Cook_VAGP_RoastedcornBulk.description>옥수수 4개를 굽습니다.</Cook_VAGP_RoastedcornBulk.description>
+  <Cook_VAGP_RoastedcornBulk.jobString>옥수수 굽는 중.</Cook_VAGP_RoastedcornBulk.jobString>
+  <Cook_VAGP_Cornbread.label>옥수수빵 굽기</Cook_VAGP_Cornbread.label>
+  <Cook_VAGP_Cornbread.description>옥수수로 옥수수빵 1개를 굽습니다.</Cook_VAGP_Cornbread.description>
+  <Cook_VAGP_Cornbread.jobString>옥수수빵 굽는 중.</Cook_VAGP_Cornbread.jobString>
+  <Cook_VAGP_CornbreadBulk.label>옥수수빵 굽기 X4</Cook_VAGP_CornbreadBulk.label>
+  <Cook_VAGP_CornbreadBulk.description>옥수수로 옥수수빵 4개를 굽습니다.</Cook_VAGP_CornbreadBulk.description>
+  <Cook_VAGP_CornbreadBulk.jobString>옥수수빵 굽는 중.</Cook_VAGP_CornbreadBulk.jobString>
+  <Cook_VAGP_Grilledriceball.label>구운 주먹밥 만들기</Cook_VAGP_Grilledriceball.label>
+  <Cook_VAGP_Grilledriceball.description>쌀로 구운 주먹밥 1개를 만듭니다.</Cook_VAGP_Grilledriceball.description>
+  <Cook_VAGP_Grilledriceball.jobString>구운 주먹밥 만드는 중.</Cook_VAGP_Grilledriceball.jobString>
+  <Cook_VAGP_GrilledriceballBulk.label>구운 주먹밥 만들기 X4</Cook_VAGP_GrilledriceballBulk.label>
+  <Cook_VAGP_GrilledriceballBulk.description>쌀로 구운 주먹밥 4개를 만듭니다.</Cook_VAGP_GrilledriceballBulk.description>
+  <Cook_VAGP_GrilledriceballBulk.jobString>구운 주먹밥 만드는 중.</Cook_VAGP_GrilledriceballBulk.jobString>
+  <Cook_VAGP_Shallowfrypotato.label>감자튀김 만들기</Cook_VAGP_Shallowfrypotato.label>
+  <Cook_VAGP_Shallowfrypotato.description>감자로 감자튀김 1개를 만듭니다.</Cook_VAGP_Shallowfrypotato.description>
+  <Cook_VAGP_Shallowfrypotato.jobString>감자튀김 만드는 중.</Cook_VAGP_Shallowfrypotato.jobString>
+  <Cook_VAGP_ShallowfrypotatoBulk.label>감자튀김 만들기 X4</Cook_VAGP_ShallowfrypotatoBulk.label>
+  <Cook_VAGP_ShallowfrypotatoBulk.description>감자로 감자튀김 4개를 만듭니다.</Cook_VAGP_ShallowfrypotatoBulk.description>
+  <Cook_VAGP_ShallowfrypotatoBulk.jobString>감자튀김 만드는 중.</Cook_VAGP_ShallowfrypotatoBulk.jobString>
+  <Cook_VAGP_Cottagecheese.label>코티지치즈 만들기</Cook_VAGP_Cottagecheese.label>
+  <Cook_VAGP_Cottagecheese.description>우유로 코티지치즈 1개를 만듭니다.</Cook_VAGP_Cottagecheese.description>
+  <Cook_VAGP_Cottagecheese.jobString>코티지치즈 만드는 중.</Cook_VAGP_Cottagecheese.jobString>
+  <Cook_VAGP_CottagecheeseBulk.label>코티지치즈 만들기 X4</Cook_VAGP_CottagecheeseBulk.label>
+  <Cook_VAGP_CottagecheeseBulk.description>우유로 코티지치즈 4개를 만듭니다.</Cook_VAGP_CottagecheeseBulk.description>
+  <Cook_VAGP_CottagecheeseBulk.jobString>코티지치즈 만드는 중.</Cook_VAGP_CottagecheeseBulk.jobString>
+  <Cook_VAGP_Friedegg.label>달걀 프라이 조리하기</Cook_VAGP_Friedegg.label>
+  <Cook_VAGP_Friedegg.description>달걀로 달걀 프라이 1개를 조리합니다.</Cook_VAGP_Friedegg.description>
+  <Cook_VAGP_Friedegg.jobString>달걀 프라이 조리 중.</Cook_VAGP_Friedegg.jobString>
+  <Cook_VAGP_FriedeggBulk.label>달걀 프라이 조리하기 X4</Cook_VAGP_FriedeggBulk.label>
+  <Cook_VAGP_FriedeggBulk.description>달걀로 달걀 프라이 4개를 조리합니다.</Cook_VAGP_FriedeggBulk.description>
+  <Cook_VAGP_FriedeggBulk.jobString>달걀 프라이 조리 중.</Cook_VAGP_FriedeggBulk.jobString>
+  <Cook_VAGP_Meatball.label>미트볼 만들기</Cook_VAGP_Meatball.label>
+  <Cook_VAGP_Meatball.description>고기로 미트볼 1개를 만듭니다.</Cook_VAGP_Meatball.description>
+  <Cook_VAGP_Meatball.jobString>미트볼 만드는 중.</Cook_VAGP_Meatball.jobString>
+  <Cook_VAGP_MeatballBulk.label>미트볼 만들기 X4</Cook_VAGP_MeatballBulk.label>
+  <Cook_VAGP_MeatballBulk.description>고기로 미트볼 4개를 만듭니다.</Cook_VAGP_MeatballBulk.description>
+  <Cook_VAGP_MeatballBulk.jobString>미트볼 만드는 중.</Cook_VAGP_MeatballBulk.jobString>
+  <Cook_VAGP_Ricebread.label>쌀빵 굽기</Cook_VAGP_Ricebread.label>
+  <Cook_VAGP_Ricebread.description>쌀로 쌀빵 1개를 굽습니다.</Cook_VAGP_Ricebread.description>
+  <Cook_VAGP_Ricebread.jobString>쌀빵 굽는 중.</Cook_VAGP_Ricebread.jobString>
+  <Cook_VAGP_RicebreadBulk.label>쌀빵 굽기 X4</Cook_VAGP_RicebreadBulk.label>
+  <Cook_VAGP_RicebreadBulk.description>쌀로 쌀빵 4개를 굽습니다.</Cook_VAGP_RicebreadBulk.description>
+  <Cook_VAGP_RicebreadBulk.jobString>쌀빵 굽는 중.</Cook_VAGP_RicebreadBulk.jobString>
+  <Cook_VAGP_Churrasco.label>슈하스쿠 굽기</Cook_VAGP_Churrasco.label>
+  <Cook_VAGP_Churrasco.description>고기로 슈하스쿠 1개를 굽습니다.</Cook_VAGP_Churrasco.description>
+  <Cook_VAGP_Churrasco.jobString>슈하스쿠 굽는 중.</Cook_VAGP_Churrasco.jobString>
+  <Cook_VAGP_ChurrascoBulk.label>슈하스쿠 굽기 X4</Cook_VAGP_ChurrascoBulk.label>
+  <Cook_VAGP_ChurrascoBulk.description>고기로 슈하스쿠 4개를 굽습니다.</Cook_VAGP_ChurrascoBulk.description>
+  <Cook_VAGP_ChurrascoBulk.jobString>슈하스쿠 굽는 중.</Cook_VAGP_ChurrascoBulk.jobString>
+  <Cook_VAGP_Potagesoup.label>포타주 수프 끓이기</Cook_VAGP_Potagesoup.label>
+  <Cook_VAGP_Potagesoup.description>감자로 포타주 수프 1개를 끓입니다.</Cook_VAGP_Potagesoup.description>
+  <Cook_VAGP_Potagesoup.jobString>포타주 수프 끓이는 중.</Cook_VAGP_Potagesoup.jobString>
+  <Cook_VAGP_PotagesoupBulk.label>포타주 수프 끓이기 X4</Cook_VAGP_PotagesoupBulk.label>
+  <Cook_VAGP_PotagesoupBulk.description>감자로 포타주 수프 4개를 끓입니다.</Cook_VAGP_PotagesoupBulk.description>
+  <Cook_VAGP_PotagesoupBulk.jobString>포타주 수프 끓이는 중.</Cook_VAGP_PotagesoupBulk.jobString>
+  <Cook_VAGP_Smeatvegelargebowl.label>제육볶음 만들기</Cook_VAGP_Smeatvegelargebowl.label>
+  <Cook_VAGP_Smeatvegelargebowl.description>야채와 고기를 볶아, 제육볶음 1개를 만듭니다.</Cook_VAGP_Smeatvegelargebowl.description>
+  <Cook_VAGP_Smeatvegelargebowl.jobString>제육볶음 만드는 중.</Cook_VAGP_Smeatvegelargebowl.jobString>
+  <Cook_VAGP_SmeatvegelargebowlBulk.label>제육볶음 만들기 X4</Cook_VAGP_SmeatvegelargebowlBulk.label>
+  <Cook_VAGP_SmeatvegelargebowlBulk.description>야채와 고기를 볶아, 제육볶음 4개를 만듭니다.</Cook_VAGP_SmeatvegelargebowlBulk.description>
+  <Cook_VAGP_SmeatvegelargebowlBulk.jobString>제육볶음 만드는 중.</Cook_VAGP_SmeatvegelargebowlBulk.jobString>
+  <Cook_VAGP_Potatobutter.label>버터감자구이 굽기</Cook_VAGP_Potatobutter.label>
+  <Cook_VAGP_Potatobutter.description>감자와 우유로 버터감자구이 1개를 굽습니다.</Cook_VAGP_Potatobutter.description>
+  <Cook_VAGP_Potatobutter.jobString>버터감자구이 굽는 중.</Cook_VAGP_Potatobutter.jobString>
+  <Cook_VAGP_PotatobutterBulk.label>버터감자구이 굽기 X4</Cook_VAGP_PotatobutterBulk.label>
+  <Cook_VAGP_PotatobutterBulk.description>감자와 우유로 버터감자구이 4개를 굽습니다.</Cook_VAGP_PotatobutterBulk.description>
+  <Cook_VAGP_PotatobutterBulk.jobString>버터감자구이 굽는 중.</Cook_VAGP_PotatobutterBulk.jobString>
+  <Cook_VAGP_Hamburgersteak.label>함박 스테이크 조리하기</Cook_VAGP_Hamburgersteak.label>
+  <Cook_VAGP_Hamburgersteak.description>야채와 고기로 함박 스테이크 1개를 조리합니다.</Cook_VAGP_Hamburgersteak.description>
+  <Cook_VAGP_Hamburgersteak.jobString>함박 스테이크 조리 중.</Cook_VAGP_Hamburgersteak.jobString>
+  <Cook_VAGP_HamburgersteakBulk.label>함박 스테이크 조리하기 X4</Cook_VAGP_HamburgersteakBulk.label>
+  <Cook_VAGP_HamburgersteakBulk.description>야채와 고기로 함박 스테이크 4개를 조리합니다.</Cook_VAGP_HamburgersteakBulk.description>
+  <Cook_VAGP_HamburgersteakBulk.jobString>함박 스테이크 조리 중.</Cook_VAGP_HamburgersteakBulk.jobString>
+  <Cook_VAGP_Cheesecake.label>치즈케이크 굽기</Cook_VAGP_Cheesecake.label>
+  <Cook_VAGP_Cheesecake.description>옥수수와 우유로 치즈케이크 1개를 굽습니다.</Cook_VAGP_Cheesecake.description>
+  <Cook_VAGP_Cheesecake.jobString>치즈케이크 굽는 중.</Cook_VAGP_Cheesecake.jobString>
+  <Cook_VAGP_CheesecakeBulk.label>치즈케이크 굽기 X4</Cook_VAGP_CheesecakeBulk.label>
+  <Cook_VAGP_CheesecakeBulk.description>옥수수와 우유로 치즈케이크 4개를 굽습니다.</Cook_VAGP_CheesecakeBulk.description>
+  <Cook_VAGP_CheesecakeBulk.jobString>치즈케이크 굽는 중.</Cook_VAGP_CheesecakeBulk.jobString>
+  <Cook_VAGP_Chocolatedoughnut.label>초콜릿 도넛 만들기</Cook_VAGP_Chocolatedoughnut.label>
+  <Cook_VAGP_Chocolatedoughnut.description>쌀이나 옥수수, 초콜릿으로 초콜릿 도넛 1개를 만듭니다.</Cook_VAGP_Chocolatedoughnut.description>
+  <Cook_VAGP_Chocolatedoughnut.jobString>초콜릿 도넛 만드는 중.</Cook_VAGP_Chocolatedoughnut.jobString>
+  <Cook_VAGP_ChocolatedoughnutBulk.label>초콜릿 도넛 만들기 X4</Cook_VAGP_ChocolatedoughnutBulk.label>
+  <Cook_VAGP_ChocolatedoughnutBulk.description>쌀이나 옥수수, 초콜릿으로 초콜릿 도넛 4개를 만듭니다.</Cook_VAGP_ChocolatedoughnutBulk.description>
+  <Cook_VAGP_ChocolatedoughnutBulk.jobString>초콜릿 도넛 만드는 중.</Cook_VAGP_ChocolatedoughnutBulk.jobString>
+  <Cook_VAGP_Eggsbenedict.label>에그 베네딕트 조리하기</Cook_VAGP_Eggsbenedict.label>
+  <Cook_VAGP_Eggsbenedict.description>쌀이나 옥수수, 달걀로 에그 베네딕트 1개를 조리합니다.</Cook_VAGP_Eggsbenedict.description>
+  <Cook_VAGP_Eggsbenedict.jobString>에그 베네딕트 조리 중.</Cook_VAGP_Eggsbenedict.jobString>
+  <Cook_VAGP_EggsbenedictBulk.label>에그 베네딕트 조리하기 X4</Cook_VAGP_EggsbenedictBulk.label>
+  <Cook_VAGP_EggsbenedictBulk.description>쌀이나 옥수수, 달걀로 에그 베네딕트 4개를 조리합니다.</Cook_VAGP_EggsbenedictBulk.description>
+  <Cook_VAGP_EggsbenedictBulk.jobString>에그 베네딕트 조리 중.</Cook_VAGP_EggsbenedictBulk.jobString>
+  <Cook_VAGP_Omelettet.label>오믈렛 만들기</Cook_VAGP_Omelettet.label>
+  <Cook_VAGP_Omelettet.description>야채와 고기, 달걀로 오믈렛 1개를 만듭니다.</Cook_VAGP_Omelettet.description>
+  <Cook_VAGP_Omelettet.jobString>오믈렛 만드는 중.</Cook_VAGP_Omelettet.jobString>
+  <Cook_VAGP_OmelettetBulk.label>오믈렛 만들기 X4</Cook_VAGP_OmelettetBulk.label>
+  <Cook_VAGP_OmelettetBulk.description>야채와 고기, 달걀로 오믈렛 4개를 만듭니다.</Cook_VAGP_OmelettetBulk.description>
+  <Cook_VAGP_OmelettetBulk.jobString>오믈렛 만드는 중.</Cook_VAGP_OmelettetBulk.jobString>
+  <Cook_VAGP_Pancakewithb.label>딸기잼 팬케이크 만들기</Cook_VAGP_Pancakewithb.label>
+  <Cook_VAGP_Pancakewithb.description>쌀이나 옥수수, 딸기, 우유, 달걀로 딸기잼 팬케이크 1개를 만듭니다.</Cook_VAGP_Pancakewithb.description>
+  <Cook_VAGP_Pancakewithb.jobString>딸기잼 팬케이크 만드는 중.</Cook_VAGP_Pancakewithb.jobString>
+  <Cook_VAGP_PancakewithBulk.label>딸기잼 팬케이크 만들기 X4</Cook_VAGP_PancakewithBulk.label>
+  <Cook_VAGP_PancakewithBulk.description>쌀이나 옥수수, 딸기, 우유, 달걀로 딸기잼 팬케이크 4개를 만듭니다.</Cook_VAGP_PancakewithBulk.description>
+  <Cook_VAGP_PancakewithBulk.jobString>딸기잼 팬케이크 만드는 중.</Cook_VAGP_PancakewithBulk.jobString>
+  <Cook_VAGP_Risotto.label>리조또 만들기</Cook_VAGP_Risotto.label>
+  <Cook_VAGP_Risotto.description>쌀, 야채, 우유로 리조또 1개를 만듭니다.</Cook_VAGP_Risotto.description>
+  <Cook_VAGP_Risotto.jobString>리조또 만드는 중.</Cook_VAGP_Risotto.jobString>
+  <Cook_VAGP_RisottoBulk.label>리조또 만들기 X4</Cook_VAGP_RisottoBulk.label>
+  <Cook_VAGP_RisottoBulk.description>쌀, 야채, 우유로 리조또 4개를 만듭니다.</Cook_VAGP_RisottoBulk.description>
+  <Cook_VAGP_RisottoBulk.jobString>리조또 만드는 중.</Cook_VAGP_RisottoBulk.jobString>
+  <Cook_VAGP_Piccata.label>피카타 만들기</Cook_VAGP_Piccata.label>
+  <Cook_VAGP_Piccata.description>고기, 달걀로 피카타 1개를 만듭니다.</Cook_VAGP_Piccata.description>
+  <Cook_VAGP_Piccata.jobString>피카타 만드는 중.</Cook_VAGP_Piccata.jobString>
+  <Cook_VAGP_PiccataBulk.label>피카타 만들기 X4</Cook_VAGP_PiccataBulk.label>
+  <Cook_VAGP_PiccataBulk.description>고기, 달걀로 피카타 4개를 만듭니다.</Cook_VAGP_PiccataBulk.description>
+  <Cook_VAGP_PiccataBulk.jobString>피카타 만드는 중.</Cook_VAGP_PiccataBulk.jobString>
+  <Cook_VAGP_Vegetablesfriedrice.label>야채볶음밥 세트 만들기</Cook_VAGP_Vegetablesfriedrice.label>
+  <Cook_VAGP_Vegetablesfriedrice.description>야채와 고기, 쌀로 야채볶음밥 세트 1개를 만듭니다.</Cook_VAGP_Vegetablesfriedrice.description>
+  <Cook_VAGP_Vegetablesfriedrice.jobString>야채볶음밥 세트 만드는 중.</Cook_VAGP_Vegetablesfriedrice.jobString>
+  <Cook_VAGP_VegetablesfriedriceBulk.label>야채볶음밥 세트 만들기 X4</Cook_VAGP_VegetablesfriedriceBulk.label>
+  <Cook_VAGP_VegetablesfriedriceBulk.description>야채와 고기, 쌀로 야채볶음밥 세트 4개를 만듭니다.</Cook_VAGP_VegetablesfriedriceBulk.description>
+  <Cook_VAGP_VegetablesfriedriceBulk.jobString>야채볶음밥 세트 만드는 중.</Cook_VAGP_VegetablesfriedriceBulk.jobString>
+  <Cook_VAGP_Soupingredients.label>수프 끓이기</Cook_VAGP_Soupingredients.label>
+  <Cook_VAGP_Soupingredients.description>야채와 고기로 수프 1개를 끓입니다.</Cook_VAGP_Soupingredients.description>
+  <Cook_VAGP_Soupingredients.jobString>수프 끓이는 중.</Cook_VAGP_Soupingredients.jobString>
+  <Cook_VAGP_SoupingredientsBulk.label>수프 끓이기 X4</Cook_VAGP_SoupingredientsBulk.label>
+  <Cook_VAGP_SoupingredientsBulk.description>야채와 고기로 수프 4개를 끓입니다.</Cook_VAGP_SoupingredientsBulk.description>
+  <Cook_VAGP_SoupingredientsBulk.jobString>수프 끓이는 중.</Cook_VAGP_SoupingredientsBulk.jobString>
+  <Cook_VAGP_Stew.label>스튜 끓이기</Cook_VAGP_Stew.label>
+  <Cook_VAGP_Stew.description>감자나 옥수수, 고기, 우유로 스튜 1개를 끓입니다.</Cook_VAGP_Stew.description>
+  <Cook_VAGP_Stew.jobString>스튜 끓이는 중.</Cook_VAGP_Stew.jobString>
+  <Cook_VAGP_StewBulk.label>스튜 끓이기 X4</Cook_VAGP_StewBulk.label>
+  <Cook_VAGP_StewBulk.description>감자나 옥수수, 고기, 우유로 스튜 4개를 끓입니다.</Cook_VAGP_StewBulk.description>
+  <Cook_VAGP_StewBulk.jobString>스튜 끓이는 중.</Cook_VAGP_StewBulk.jobString>
+  <Cook_VAGP_Meatpie.label>미트파이 굽기</Cook_VAGP_Meatpie.label>
+  <Cook_VAGP_Meatpie.description>쌀이나 옥수수, 고기, 달걀, 우유로 미트파이 1개를 굽습니다.</Cook_VAGP_Meatpie.description>
+  <Cook_VAGP_Meatpie.jobString>미트파이 굽는 중.</Cook_VAGP_Meatpie.jobString>
+  <Cook_VAGP_MeatpieBulk.label>미트파이 굽기 X4</Cook_VAGP_MeatpieBulk.label>
+  <Cook_VAGP_MeatpieBulk.description>쌀이나 옥수수, 고기, 달걀, 우유로 미트파이 4개를 굽습니다.</Cook_VAGP_MeatpieBulk.description>
+  <Cook_VAGP_MeatpieBulk.jobString>미트파이 굽는 중.</Cook_VAGP_MeatpieBulk.jobString>
+  <Cook_VAGP_Berrypie.label>딸기파이 굽기</Cook_VAGP_Berrypie.label>
+  <Cook_VAGP_Berrypie.description>쌀이나 옥수수, 딸기, 달걀, 우유로 딸기파이 1개를 굽습니다.</Cook_VAGP_Berrypie.description>
+  <Cook_VAGP_Berrypie.jobString>딸기파이 굽는 중.</Cook_VAGP_Berrypie.jobString>
+  <Cook_VAGP_BerrypieBulk.label>딸기파이 굽기 X4</Cook_VAGP_BerrypieBulk.label>
+  <Cook_VAGP_BerrypieBulk.description>쌀이나 옥수수, 딸기, 달걀, 우유로 딸기파이 4개를 굽습니다.</Cook_VAGP_BerrypieBulk.description>
+  <Cook_VAGP_BerrypieBulk.jobString>딸기파이 굽는 중.</Cook_VAGP_BerrypieBulk.jobString>
+  <Cook_VAGP_Pizza.label>피자 굽기</Cook_VAGP_Pizza.label>
+  <Cook_VAGP_Pizza.description>쌀이나 옥수수, 고기, 우유로 피자 1개를 굽습니다.</Cook_VAGP_Pizza.description>
+  <Cook_VAGP_Pizza.jobString>피자 굽는 중.</Cook_VAGP_Pizza.jobString>
+  <Cook_VAGP_PizzaBulk.label>피자 굽기 X4</Cook_VAGP_PizzaBulk.label>
+  <Cook_VAGP_PizzaBulk.description>쌀이나 옥수수, 고기, 우유로 피자 4개를 굽습니다.</Cook_VAGP_PizzaBulk.description>
+  <Cook_VAGP_PizzaBulk.jobString>피자 굽는 중.</Cook_VAGP_PizzaBulk.jobString>
+  <Cook_VAGP_Dria.label>도리아 만들기</Cook_VAGP_Dria.label>
+  <Cook_VAGP_Dria.description>야채와 고기, 쌀, 우유로 도리아 1개를 만듭니다.</Cook_VAGP_Dria.description>
+  <Cook_VAGP_Dria.jobString>도리아 만드는 중.</Cook_VAGP_Dria.jobString>
+  <Cook_VAGP_DriaBulk.label>도리아 만들기 X4</Cook_VAGP_DriaBulk.label>
+  <Cook_VAGP_DriaBulk.description>야채와 고기, 쌀, 우유로 도리아 4개를 만듭니다.</Cook_VAGP_DriaBulk.description>
+  <Cook_VAGP_DriaBulk.jobString>도리아 만드는 중.</Cook_VAGP_DriaBulk.jobString>
+  <Cook_VAGP_Steaktower.label>스테이크 탑 만들기</Cook_VAGP_Steaktower.label>
+  <Cook_VAGP_Steaktower.description>구운 고기를 탑처럼 쌓은 스테이크 탑 1개를 만듭니다.</Cook_VAGP_Steaktower.description>
+  <Cook_VAGP_Steaktower.jobString>스테이크 탑 만드는 중.</Cook_VAGP_Steaktower.jobString>
+  <Cook_VAGP_SteaktowerBulk.label>스테이크 탑 만들기 X4</Cook_VAGP_SteaktowerBulk.label>
+  <Cook_VAGP_SteaktowerBulk.description>구운 고기를 탑처럼 쌓은 스테이크 탑 4개를 만듭니다.</Cook_VAGP_SteaktowerBulk.description>
+  <Cook_VAGP_SteaktowerBulk.jobString>스테이크 탑 만드는 중.</Cook_VAGP_SteaktowerBulk.jobString>
+  <Cook_VAGP_Gratin.label>그라탱 굽기</Cook_VAGP_Gratin.label>
+  <Cook_VAGP_Gratin.description>쌀이나 옥수수, 우유, 야채와 고기로 그라탱 1개를 굽습니다.</Cook_VAGP_Gratin.description>
+  <Cook_VAGP_Gratin.jobString>그라탱 굽는 중.</Cook_VAGP_Gratin.jobString>
+  <Cook_VAGP_GratinBulk.label>그라탱 굽기 X4</Cook_VAGP_GratinBulk.label>
+  <Cook_VAGP_GratinBulk.description>쌀이나 옥수수, 우유, 야채와 고기로 그라탱 4개를 굽습니다.</Cook_VAGP_GratinBulk.description>
+  <Cook_VAGP_GratinBulk.jobString>그라탱 굽는 중.</Cook_VAGP_GratinBulk.jobString>
+  <Cook_VAGP_LuRouFan.label>루로우판 만들기</Cook_VAGP_LuRouFan.label>
+  <Cook_VAGP_LuRouFan.description>야채와 고기, 쌀, 달걀으로 루로우판 1개를 만듭니다.</Cook_VAGP_LuRouFan.description>
+  <Cook_VAGP_LuRouFan.jobString>루로우판 만드는 중.</Cook_VAGP_LuRouFan.jobString>
+  <Cook_VAGP_LuRouFanBulk.label>루로우판 만들기 X4</Cook_VAGP_LuRouFanBulk.label>
+  <Cook_VAGP_LuRouFanBulk.description>야채와 고기, 쌀, 달걀으로 루로우판 4개를 만듭니다.</Cook_VAGP_LuRouFanBulk.description>
+  <Cook_VAGP_LuRouFanBulk.jobString>루로우판 만드는 중.</Cook_VAGP_LuRouFanBulk.jobString>
+  <Cook_VAGP_MincedMeatCutlet.label>멘치카츠 만들기</Cook_VAGP_MincedMeatCutlet.label>
+  <Cook_VAGP_MincedMeatCutlet.description>쌀이나 옥수수, 야채와 고기로 멘치카츠 1개를 만듭니다.</Cook_VAGP_MincedMeatCutlet.description>
+  <Cook_VAGP_MincedMeatCutlet.jobString>멘치카츠 만드는 중.</Cook_VAGP_MincedMeatCutlet.jobString>
+  <Cook_VAGP_MincedMeatCutletBulk.label>멘치카츠 만들기 X4</Cook_VAGP_MincedMeatCutletBulk.label>
+  <Cook_VAGP_MincedMeatCutletBulk.description>쌀이나 옥수수, 야채와 고기로 멘치카츠 4개를 만듭니다.</Cook_VAGP_MincedMeatCutletBulk.description>
+  <Cook_VAGP_MincedMeatCutletBulk.jobString>멘치카츠 만드는 중.</Cook_VAGP_MincedMeatCutletBulk.jobString>
+  <Cook_VAGP_Jambalaya.label>잠발라야 끓이기</Cook_VAGP_Jambalaya.label>
+  <Cook_VAGP_Jambalaya.description>야채와 고기, 쌀로 잠발라야 1개를 끓입니다.</Cook_VAGP_Jambalaya.description>
+  <Cook_VAGP_Jambalaya.jobString>잠발라야 끓이는 중.</Cook_VAGP_Jambalaya.jobString>
+  <Cook_VAGP_JambalayaBulk.label>잠발라야 끓이기 X4</Cook_VAGP_JambalayaBulk.label>
+  <Cook_VAGP_JambalayaBulk.description>야채와 고기, 쌀로 잠발라야 4개를 끓입니다.</Cook_VAGP_JambalayaBulk.description>
+  <Cook_VAGP_JambalayaBulk.jobString>잠발라야 끓이는 중.</Cook_VAGP_JambalayaBulk.jobString>
+  <Cook_VAGP_Thrumbosandwich.label>트럼보 돈가스 샌드위치 만들기</Cook_VAGP_Thrumbosandwich.label>
+  <Cook_VAGP_Thrumbosandwich.description>쌀이나 옥수수, 달걀과 트럼보 고기로 트럼보 돈가스 샌드위치 1개를 만듭니다.</Cook_VAGP_Thrumbosandwich.description>
+  <Cook_VAGP_Thrumbosandwich.jobString>트럼보 돈가스 샌드위치 만드는 중.</Cook_VAGP_Thrumbosandwich.jobString>
+  <Cook_VAGP_ThrumbosandwichBulk.label>트럼보 돈가스 샌드위치 만들기 X4</Cook_VAGP_ThrumbosandwichBulk.label>
+  <Cook_VAGP_ThrumbosandwichBulk.description>쌀이나 옥수수, 달걀과 트럼보 고기로 트럼보 돈가스 샌드위치 4개를 만듭니다.</Cook_VAGP_ThrumbosandwichBulk.description>
+  <Cook_VAGP_ThrumbosandwichBulk.jobString>트럼보 돈가스 샌드위치 만드는 중.</Cook_VAGP_ThrumbosandwichBulk.jobString>
+  <Cook_VAGP_MealSurvivalPack.label>고급 보존식량 만들기</Cook_VAGP_MealSurvivalPack.label>
+  <Cook_VAGP_MealSurvivalPack.description>야채와 고기를 적절히 조합해서 맛있는 고급 보존식량 1개를 만듭니다. 포장 과정에서 많은 재료가 낭비됩니다.</Cook_VAGP_MealSurvivalPack.description>
+  <Cook_VAGP_MealSurvivalPack.jobString>고급 보존식량 만드는 중.</Cook_VAGP_MealSurvivalPack.jobString>
+  <Cook_VAGP_MealSurvivalPackBulk.label>고급 보존식량 만들기 X4</Cook_VAGP_MealSurvivalPackBulk.label>
+  <Cook_VAGP_MealSurvivalPackBulk.description>야채와 고기를 적절히 조합해서 맛있는 고급 보존식량 4개를 만듭니다. 포장 과정에서 많은 재료가 낭비됩니다.</Cook_VAGP_MealSurvivalPackBulk.description>
+  <Cook_VAGP_MealSurvivalPackBulk.jobString>고급 보존식량 만드는 중.</Cook_VAGP_MealSurvivalPackBulk.jobString>
+  <Cook_VAGP_MealMedicPack.label>건강식 만들기</Cook_VAGP_MealMedicPack.label>
+  <Cook_VAGP_MealMedicPack.description>맛있는 생존식과 약초로 구성된 건강식 1개를 만듭니다.</Cook_VAGP_MealMedicPack.description>
+  <Cook_VAGP_MealMedicPack.jobString>건강식 만드는 중.</Cook_VAGP_MealMedicPack.jobString>
+  <Cook_VAGP_MealMedicPackBulk.label>건강식 만들기 X4</Cook_VAGP_MealMedicPackBulk.label>
+  <Cook_VAGP_MealMedicPackBulk.description>맛있는 생존식과 약초로 구성된 건강식 4개를 만듭니다.</Cook_VAGP_MealMedicPackBulk.description>
+  <Cook_VAGP_MealMedicPackBulk.jobString>건강식 만드는 중.</Cook_VAGP_MealMedicPackBulk.jobString>
+  <Cook_VAGP_MealSoldierPack.label>전투식량 만들기</Cook_VAGP_MealSoldierPack.label>
+  <Cook_VAGP_MealSoldierPack.description>야채와 고기를 적절히 조합해서 군인들을 위한 전투식량 1개를 만듭니다. 포장 과정에서 많은 재료가 낭비됩니다.</Cook_VAGP_MealSoldierPack.description>
+  <Cook_VAGP_MealSoldierPack.jobString>전투식량 만드는 중.</Cook_VAGP_MealSoldierPack.jobString>
+  <Cook_VAGP_MealSoldierPackBulk.label>전투식량 만들기 X4</Cook_VAGP_MealSoldierPackBulk.label>
+  <Cook_VAGP_MealSoldierPackBulk.description>야채와 고기를 적절히 조합해서 군인들을 위한 전투식량 4개를 만듭니다. 포장 과정에서 많은 재료가 낭비됩니다.</Cook_VAGP_MealSoldierPackBulk.description>
+  <Cook_VAGP_MealSoldierPackBulk.jobString>전투식량 만드는 중.</Cook_VAGP_MealSoldierPackBulk.jobString>
+</LanguageData>

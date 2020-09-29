@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RN_MREFoodMeals.label>전투식량</RN_MREFoodMeals.label>
+  <BodyPartsUAC.label>UAC</BodyPartsUAC.label>
+  <DOOM_MeleeMain.label>둠 근접</DOOM_MeleeMain.label>
+  <DOOM_Pistols.label>권총</DOOM_Pistols.label>
+  <DOOM_ShotgunsMain.label>산탄총</DOOM_ShotgunsMain.label>
+  <DOOM_RangedMain.label>둠 무기들</DOOM_RangedMain.label>
+  <DOOM_AssaultRifle.label>돌격소총</DOOM_AssaultRifle.label>
+  <DOOM_LMGMain.label>경기관총과 다목적 기관총</DOOM_LMGMain.label>
+  <DOOM_RocketLaunchers.label>로켓 발사기</DOOM_RocketLaunchers.label>
+  <DOOM_OneTimeUseLaunchers.label>일회용 발사기</DOOM_OneTimeUseLaunchers.label>
+  <DOOM_SpacerMain.label>우주</DOOM_SpacerMain.label>
+  <RHApparel_PoweredArmor.label>강화갑옷</RHApparel_PoweredArmor.label>
+  <RHHeadgear_PoweredArmorHelmets.label>강화갑옷 헬멧</RHHeadgear_PoweredArmorHelmets.label>
+  <RHApparel_Main.label>빨간 말 복장</RHApparel_Main.label>
+  <RHApparel_Casual.label>캐주얼</RHApparel_Casual.label>
+  <RHApparel_Belts.label>장신구</RHApparel_Belts.label>
+  <RHApparel_Combat.label>전투복</RHApparel_Combat.label>
+  <RHApparel_BodyArmor.label>방탄복</RHApparel_BodyArmor.label>
+  <RHApparel_Formal.label>정장</RHApparel_Formal.label>
+  <RHApparel_ShellCasual.label>캐주얼 재킷</RHApparel_ShellCasual.label>
+  <RHApparel_ShellCombat.label>전투 재킷</RHApparel_ShellCombat.label>
+  <RHApparel_ShellFormal.label>정장 재킷</RHApparel_ShellFormal.label>
+  <RHHeadgear_Main.label>빨간 말 머리장비</RHHeadgear_Main.label>
+  <RHHeadgear_Hats.label>모자</RHHeadgear_Hats.label>
+  <RHHeadgear_Helmets.label>헬멧</RHHeadgear_Helmets.label>
+  <RHHeadgear_Masks.label>마스크</RHHeadgear_Masks.label>
+
+</LanguageData>
