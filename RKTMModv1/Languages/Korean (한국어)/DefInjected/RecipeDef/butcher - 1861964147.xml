@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <!--BUTCHER - 1861964147-->
-  <ButcherCorpseFleshRE.label>도축 (장비 제거)</ButcherCorpseFleshRE.label>
-  <ButcherCorpseFleshRE.description>시체를 도축하여 고기와 가죽을 얻으며, 유품장비를 제거합니다.</ButcherCorpseFleshRE.description>
-  <ButcherCorpseFleshRE.jobString>도축 중</ButcherCorpseFleshRE.jobString>
-
-</LanguageData>

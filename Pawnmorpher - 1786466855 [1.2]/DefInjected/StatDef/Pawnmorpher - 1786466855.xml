@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MutationAdaptability.label>돌연변이 적응성</MutationAdaptability.label>
+  <MutationAdaptability.description>펀이 돌연변이에 얼마나 빨리 적응하는지에 대한 곱셈.</MutationAdaptability.description>
+  <MutagenSensitivity.label>돌연변이 민감성</MutagenSensitivity.label>
+  <MutagenSensitivity.description>돌연변이 유발 효과가 이 생물에 미치는 영향에 대한 곱셈.</MutagenSensitivity.description>
+  <MutagenSensitivity_Apparel.label>돌연변이 민감성</MutagenSensitivity_Apparel.label>
+  <MutagenSensitivity_Apparel.description>돌연변이 유발 효과가 이 생물에 미치는 영향에 대한 곱셈.</MutagenSensitivity_Apparel.description>
+  <MutagenSensitivity_Stuff.label>돌연변이 민감성</MutagenSensitivity_Stuff.label>
+  <MutagenSensitivity_Stuff.description>돌연변이 유발 효과가 이 생물에 미치는 영향에 대한 곱셈.</MutagenSensitivity_Stuff.description>
+  <MutagenSensitivity_StuffMult.label>돌연변이 민감성</MutagenSensitivity_StuffMult.label>
+  <MutagenSensitivity_StuffMult.description>돌연변이 유발 효과가 이 생물에 미치는 영향에 대한 곱셈.</MutagenSensitivity_StuffMult.description>
+  <SapientAnimalA.label>???</SapientAnimalA.label>
+  <SapientAnimalA.description>펀이 본능의 변화에 저항하는 정도를 조절함.</SapientAnimalA.description>
+  <SapientAnimalResistance.label>본능 저항</SapientAnimalResistance.label>
+  <SapientAnimalResistance.description>사피엔스가 야생화 되기 전에 얼마나 많은 통제력을 가지는가를 조절함.</SapientAnimalResistance.description>
+  <SapienceRecoverFactor.label>사피엔스 회귀</SapienceRecoverFactor.label>
+  <SapienceRecoverFactor.description>시간이 지남에 따라 얼마나 많은 사피엔스들이 지능을 회복하는지 조절함.</SapienceRecoverFactor.description>
+
+</LanguageData>

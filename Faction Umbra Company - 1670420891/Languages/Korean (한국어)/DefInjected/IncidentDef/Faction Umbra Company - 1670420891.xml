@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <CP_ContractorJoin_UmbraCompany.label>계약자</CP_ContractorJoin_UmbraCompany.label>
-  <CP_ContractorJoin_UmbraCompany.letterText>과거 움브라 컴퍼니의 구성원이었던 [PAWN_kind](이)가 도착했습니다.\n\n[PAWN_pronoun]는 당신의 정착지에 정착민으로 머무를 것입니다.</CP_ContractorJoin_UmbraCompany.letterText>
-  <CP_ContractorJoin_UmbraCompany.letterLabel>계약자</CP_ContractorJoin_UmbraCompany.letterLabel>
-
-</LanguageData>
