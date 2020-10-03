@@ -54,24 +54,6 @@
   <LotRPlayerColony.pawnsPlural>주민들</LotRPlayerColony.pawnsPlural>
   <LotRPlayerColony.description>당신의 공동체입니다.</LotRPlayerColony.description>
 
-  <!--1498573216_181028_Polarisbloc - Mechenemy-->
-  <Vanya_AdvMechanoid.description>고도의 첨단기술을 가진 항성계 메카노이드입니다. 이들은 림월드에서 방위군을 습격하기 위해 오랜시간동안 약점을 찾으면서 기다려왔습니다.</Vanya_AdvMechanoid.description>
-  <Vanya_AdvMechanoid.label>첨단 메카노이드</Vanya_AdvMechanoid.label>
-  <Vanya_AdvMechanoid.pawnsPlural>첨단 메카노이드</Vanya_AdvMechanoid.pawnsPlural>
-  <Vanya_AdvMechanoid.fixedName>첨단 메카노이드</Vanya_AdvMechanoid.fixedName>
-  <Vanya_ChaserArmada.leaderTitle>함장</Vanya_ChaserArmada.leaderTitle>
-  <Vanya_ChaserArmada.label>체이서 함대</Vanya_ChaserArmada.label>
-  <Vanya_ChaserArmada.fixedName>체이서 함대</Vanya_ChaserArmada.fixedName>
-  <Vanya_ChaserArmada.pawnsPlural>은하 전사</Vanya_ChaserArmada.pawnsPlural>
-  <Vanya_ChaserArmada.description>메카노이드를 전멸시키기 위해 림월드에 오랜 시간동안 체류하고 있는 인간계의 정예 함대이며 국경지대의 수호자입니다. 이들은 메카노이드들에게 저항할 의지가 없는 작은 세력들에게는 관심도 없습니다.</Vanya_ChaserArmada.description>
-
-  <!--1500248421_181028_Polarisbloc - Security Force-->
-  <Polaribloc_SecuirityForce.leaderTitle>지휘관</Polaribloc_SecuirityForce.leaderTitle>
-  <Polaribloc_SecuirityForce.label>보안 유지군</Polaribloc_SecuirityForce.label>
-  <Polaribloc_SecuirityForce.fixedName>보안 유지군</Polaribloc_SecuirityForce.fixedName>
-  <Polaribloc_SecuirityForce.pawnsPlural>군인</Polaribloc_SecuirityForce.pawnsPlural>
-  <Polaribloc_SecuirityForce.description>폴라리스 블록사에 소속되어 있으며 보안과 안전을 지원합니다. 이와 동시에, 폴라리스 블록사에 의해 알려지지 않은 임무를 수행하는 명령을 받고 있습니다.</Polaribloc_SecuirityForce.description>
-
   <!--1539314714_190519_[RF] Tribal Raiders-->
   <TribalRaiders.description>약탈을 업으로 삼는 부족민들입니다.\n\n이들은 씨를 뿌리지도 않고, 건물을 짓지도 않으며, 거래도 하지 않습니다. 이들은 주로 근처에 있는 더 잘 사는 집단을 습격하고 강탈함으로써 생활을 유지합니다.\n\n이들의 기술 수준은 석기시대에 불과하지만, 피에 대한 갈증만은 전설적이라 할만 합니다.</TribalRaiders.description>
   <TribalRaiders.leaderTitle>약탈자 추장</TribalRaiders.leaderTitle>

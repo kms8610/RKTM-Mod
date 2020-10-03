@@ -1063,23 +1063,10 @@
   <CanMeat.description>상하지 않도록 캔 안에 고기를 보존합니다.</CanMeat.description>
   <CanVegetable.description>상하지 않도록 캔 안에 야채를 보존합니다.</CanVegetable.description>
 
-  <!--1498573216_181028_Polarisbloc - Mechenemy-->
-  <InstallVanya_StabPowerCore.label>안정-전력 핵 설치</InstallVanya_StabPowerCore.label>
-  <InstallVanya_StabPowerCore.description>안정-전력 핵을 설치합니다.</InstallVanya_StabPowerCore.description>
-  <InstallVanya_ConsciousnessCube.label>사고 회로 설치</InstallVanya_ConsciousnessCube.label>
-  <InstallVanya_ConsciousnessCube.description>사고 회로를 설치합니다.</InstallVanya_ConsciousnessCube.description>
-  <InstallVanya_StabPowerCore.jobString>안정-전력 핵 설치 중.</InstallVanya_StabPowerCore.jobString>
-  <InstallVanya_ConsciousnessCube.jobString>사고 회로 설치 중.</InstallVanya_ConsciousnessCube.jobString>
-
   <!--1498756997_190814_Maid Project-->
   <SalvageApparelMaidProject.description>의복에 사용된 원단을 추출합니다.</SalvageApparelMaidProject.description>
   <SalvageApparelMaidProject.label>의류 재활용</SalvageApparelMaidProject.label>
   <SalvageApparelMaidProject.jobString>의류 재활용</SalvageApparelMaidProject.jobString>
-
-  <!--1500248421_181028_Polarisbloc - Security Force-->
-  <MakeApparel_PolarisShieldBelt_II.description>폴라리스 방어벨트 - II 를 만듭니다.</MakeApparel_PolarisShieldBelt_II.description>
-  <MakeApparel_PolarisShieldBelt_II.label>폴라리스 방어벨트 - II</MakeApparel_PolarisShieldBelt_II.label>
-  <MakeApparel_PolarisShieldBelt_II.jobString>폴라리스 방어벨트 - II 제작 중.</MakeApparel_PolarisShieldBelt_II.jobString>
 
   <!--1501459305_190606_[1.0] Razor Wire (With Damage)-->
   <MakeWire10.label>가시 철조망 만들기(X10)</MakeWire10.label>
@@ -4096,14 +4083,6 @@
   <MakeSpineAnimalSimple.jobString>간단한 동물 척추 제작 중.</MakeSpineAnimalSimple.jobString>
   <MakeSimpleProstheticLegAnimal.jobString>간단한 동물 의족 제작 중.</MakeSimpleProstheticLegAnimal.jobString>
   <MakeProstheticTailAnimal.jobString>꼬리 보철물 제작 중.</MakeProstheticTailAnimal.jobString>
-
-  <!--747397788_190814_More Batteries-->
-  <MakeSpecificComponents.jobString>특수 부품 건설 중.</MakeSpecificComponents.jobString>
-  <CreateTranscendentPowerCell.description>초고속 파워 셀을 만듭니다.</CreateTranscendentPowerCell.description>
-  <CreateTranscendentPowerCell.label>초고속 파워 셀 만들기</CreateTranscendentPowerCell.label>
-  <CreateTranscendentPowerCell.jobString>초고속 파워 셀 만드는 중.</CreateTranscendentPowerCell.jobString>
-  <MakeSpecificComponents.description>부품을 특수 부품으로 업그레이드 합니다.</MakeSpecificComponents.description>
-  <MakeSpecificComponents.label>부품을 특수 부품으로 업그레이드</MakeSpecificComponents.label>
 
   <!--747645520_190627_Misc. Robots++-->
   <RPP_Production_Component.jobString>로봇 공학 작업하는 중.</RPP_Production_Component.jobString>

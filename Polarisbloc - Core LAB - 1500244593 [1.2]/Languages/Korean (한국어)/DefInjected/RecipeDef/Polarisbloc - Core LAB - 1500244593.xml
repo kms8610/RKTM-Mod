@@ -1,58 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Administer_PolarisHealingPotion.label>치유 물약 투여</Administer_PolarisHealingPotion.label>
-  <Administer_PolarisHealingPotion.jobString>치유 물약 투여하는 중.</Administer_PolarisHealingPotion.jobString>
-  <Administer_PolarisAntibiotic.label>복합 항생제 투여</Administer_PolarisAntibiotic.label>
-  <Administer_PolarisAntibiotic.jobString>복합 항생제 투여하는 중.</Administer_PolarisAntibiotic.jobString>
-  <Administer_PolarisReceptorAntagonist.label>수용체 길항제 투여</Administer_PolarisReceptorAntagonist.label>
-  <Administer_PolarisReceptorAntagonist.jobString>수용체 길항제 투여하는 중.</Administer_PolarisReceptorAntagonist.jobString>
-  <Administer_PolarisRestorer.label>폴라리스 복원제 투여</Administer_PolarisRestorer.label>
-  <Administer_PolarisRestorer.jobString>폴라리스 복원제 투여 중.</Administer_PolarisRestorer.jobString>
-  <Make_PolarisHealingPotion.label>치유 물약 제작</Make_PolarisHealingPotion.label>
-  <Make_PolarisHealingPotion.description>치유 물약을 만듭니다.</Make_PolarisHealingPotion.description>
-  <Make_PolarisHealingPotion.jobString>치유 물약 제작 중.</Make_PolarisHealingPotion.jobString>
-  <Make_PolarisAntibiotic.label>복합 항생제 제작</Make_PolarisAntibiotic.label>
-  <Make_PolarisAntibiotic.description>복합 항생제를 만듭니다.</Make_PolarisAntibiotic.description>
-  <Make_PolarisAntibiotic.jobString>복합 항생제 제작 중.</Make_PolarisAntibiotic.jobString>
-  <Make_PolarisReceptorAntagonist.label>수용체 길항제 제작</Make_PolarisReceptorAntagonist.label>
-  <Make_PolarisReceptorAntagonist.description>수용체 길항제를 만듭니다.</Make_PolarisReceptorAntagonist.description>
-  <Make_PolarisReceptorAntagonist.jobString>수용체 길항제 제작 중.</Make_PolarisReceptorAntagonist.jobString>
-  <Make_PolarisPsionwire.label>사이언 제작</Make_PolarisPsionwire.label>
-  <Make_PolarisPsionwire.description>사이언을 만듭니다.</Make_PolarisPsionwire.description>
-  <Make_PolarisPsionwire.jobString>사이언 제작 중.</Make_PolarisPsionwire.jobString>
-  <Make_PolarisMechSerumTraitreleaser.label>특성해금 메카나이트 혈청 제작</Make_PolarisMechSerumTraitreleaser.label>
-  <Make_PolarisMechSerumTraitreleaser.description>특성해금 메카나이트 혈청을 만듭니다.</Make_PolarisMechSerumTraitreleaser.description>
-  <Make_PolarisMechSerumTraitreleaser.jobString>특성해금 메카나이트 혈청 제작 중</Make_PolarisMechSerumTraitreleaser.jobString>
-  <MakePolarisCartridgeSurgery.label>카트리지 제작</MakePolarisCartridgeSurgery.label>
+  <MakePolarisCartridgeSurgery.label>제작: 카트리지</MakePolarisCartridgeSurgery.label>
   <MakePolarisCartridgeSurgery.description>카트리지를 만듭니다.</MakePolarisCartridgeSurgery.description>
   <MakePolarisCartridgeSurgery.jobString>카트리지 제작 중.</MakePolarisCartridgeSurgery.jobString>
-  <InstallPolarisCombatChip.label>전투칩 설치</InstallPolarisCombatChip.label>
+  <InstallPolarisCombatChip.label>설치: 전투칩</InstallPolarisCombatChip.label>
   <InstallPolarisCombatChip.description>전투칩을 설치합니다.</InstallPolarisCombatChip.description>
   <InstallPolarisCombatChip.jobString>전투칩 설치 중.</InstallPolarisCombatChip.jobString>
-  <InstallPolarisVirtualNetChip.label>가상망 칩 설치</InstallPolarisVirtualNetChip.label>
+  <InstallPolarisVirtualNetChip.label>설치: 가상망 칩</InstallPolarisVirtualNetChip.label>
   <InstallPolarisVirtualNetChip.description>가상망 칩을 설치합니다.</InstallPolarisVirtualNetChip.description>
   <InstallPolarisVirtualNetChip.jobString>가상망 칩 설치 중.</InstallPolarisVirtualNetChip.jobString>
-  <InstallPolarisPsionwire.label>사이언 설치</InstallPolarisPsionwire.label>
+  <InstallPolarisPsionwire.label>설치: 사이언</InstallPolarisPsionwire.label>
   <InstallPolarisPsionwire.description>사이언을 설치합니다.</InstallPolarisPsionwire.description>
   <InstallPolarisPsionwire.jobString>사이언 설치 중.</InstallPolarisPsionwire.jobString>
-  <PolarisCureScars.label>상처 치료</PolarisCureScars.label>
-  <PolarisCureScars.description>상처를 치료합니다.</PolarisCureScars.description>
-  <PolarisCureScars.jobString>상처 치료 중.</PolarisCureScars.jobString>
+  <PolarisCureScars.label>흉터 치료</PolarisCureScars.label>
+  <PolarisCureScars.description>흉터를 치료합니다.</PolarisCureScars.description>
+  <PolarisCureScars.jobString>흉터 치료 중.</PolarisCureScars.jobString>
   <PolarisRestoreMissingBodyPart.label>복원</PolarisRestoreMissingBodyPart.label>
-  <PolarisRestoreMissingBodyPart.description>누락된 신체부위를 복원합니다.</PolarisRestoreMissingBodyPart.description>
+  <PolarisRestoreMissingBodyPart.description>누락된 신체 부위를 복원합니다.</PolarisRestoreMissingBodyPart.description>
   <PolarisRestoreMissingBodyPart.jobString>복원 중.</PolarisRestoreMissingBodyPart.jobString>
-  <PolarisRemoveImplant.label>임플란트 제거</PolarisRemoveImplant.label>
-  <PolarisRemoveImplant.description>신체부위의 모든 임플란트를 제거합니다.</PolarisRemoveImplant.description>
-  <PolarisRemoveImplant.jobString>임플란트 제거 중.</PolarisRemoveImplant.jobString>
+  <PolarisRemoveImplant.label>이식물 제거</PolarisRemoveImplant.label>
+  <PolarisRemoveImplant.description>신체 부위의 모든 이식물을 제거합니다.</PolarisRemoveImplant.description>
+  <PolarisRemoveImplant.jobString>이식물 제거 중.</PolarisRemoveImplant.jobString>
   <PolarisTransGenderSurgery.label>성별 전환</PolarisTransGenderSurgery.label>
   <PolarisTransGenderSurgery.description>성별을 전환합니다.</PolarisTransGenderSurgery.description>
   <PolarisTransGenderSurgery.jobString>성별 전환 수술 중.</PolarisTransGenderSurgery.jobString>
   <PolarisSurgeryChangeBioAge.label>나이 변경</PolarisSurgeryChangeBioAge.label>
   <PolarisSurgeryChangeBioAge.description>나이 변경</PolarisSurgeryChangeBioAge.description>
-  <PolarisSurgeryChangeBioAge.jobString>나이 감소 수술</PolarisSurgeryChangeBioAge.jobString>
-  <PolarisAdministerMechSerumTraitreleaser.label>특성해금 메카나이트 혈청 주입</PolarisAdministerMechSerumTraitreleaser.label>
-  <PolarisAdministerMechSerumTraitreleaser.description>메카나이트 혈청을 사용하여 치료합니다.</PolarisAdministerMechSerumTraitreleaser.description>
-  <PolarisAdministerMechSerumTraitreleaser.jobString>특성해금 메카나이트 혈청 주입 중.</PolarisAdministerMechSerumTraitreleaser.jobString>
-
+  <PolarisSurgeryChangeBioAge.jobString>나이 감소 수술 중.</PolarisSurgeryChangeBioAge.jobString>
+  <PolarisAdministerMechSerumTraitreleaser.label>특성해금 메카나이트 혈청 투여</PolarisAdministerMechSerumTraitreleaser.label>
+  <PolarisAdministerMechSerumTraitreleaser.description>회복혈청을 투여합니다.</PolarisAdministerMechSerumTraitreleaser.description>
+  <PolarisAdministerMechSerumTraitreleaser.jobString>특성해금 메카나이트 혈청 투여 중.</PolarisAdministerMechSerumTraitreleaser.jobString>
 </LanguageData>

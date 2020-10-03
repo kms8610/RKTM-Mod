@@ -1,1 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData> 	<!--1342510409_190627_Astoriel-->	<AstorielAgeless.hediffGivers.3.letterLabel>천재 자폐아</AstorielAgeless.hediffGivers.3.letterLabel>	<AstorielAgeless.hediffGivers.3.letter>[PAWN_nameDef](은)는 뇌 손상으로 인해 이상한 능력을 얻게 되었습니다.</AstorielAgeless.hediffGivers.3.letter>	<!--1400227853_190602_Lord of the Rims - Hobbits-->	<LotRH_HobbitTraitsGiver.hediffGivers.3.letterLabel>외상 서번트 증후군</LotRH_HobbitTraitsGiver.hediffGivers.3.letterLabel>	<LotRH_HobbitTraitsGiver.hediffGivers.3.letter>[PAWN_nameDef]의 뇌손상으로 인해 [PAWN_pronoun]는 기묘한 서번트 증후군 능력을 갖게 되었습니다.</LotRH_HobbitTraitsGiver.hediffGivers.3.letter>	<!--1400234784_190526_Lord of the Rims - Elves-->	<LotRE_ElfTraitsGiver.hediffGivers.3.letterLabel>외상 서번트 증후군</LotRE_ElfTraitsGiver.hediffGivers.3.letterLabel>	<LotRE_ElfTraitsGiver.hediffGivers.3.letter>[PAWN_nameDef](은)는 뇌손상으로 인해 기묘한 서번트 증후군 능력을 갖게 되었습니다.</LotRE_ElfTraitsGiver.hediffGivers.3.letter>	<LotRE_ElfTraitsGiverHalf.hediffGivers.3.letterLabel>외상 서번트 증후군</LotRE_ElfTraitsGiverHalf.hediffGivers.3.letterLabel>	<LotRE_ElfTraitsGiverHalf.hediffGivers.3.letter>[PAWN_nameDef](은)는 뇌손상으로 인해 기묘한 서번트 증후군 능력을 갖게 되었습니다.</LotRE_ElfTraitsGiverHalf.hediffGivers.3.letter>	<!--1400238872_190526_Lord of the Rims - Dwarves-->	<LotRD_DwarfTraitsGiver.hediffGivers.3.letterLabel>외상 서번트 증후군</LotRD_DwarfTraitsGiver.hediffGivers.3.letterLabel>	<LotRD_DwarfTraitsGiver.hediffGivers.3.letter>[PAWN_nameDef](은)는 뇌손상으로 인해 기묘한 서번트 증후군 능력을 갖게 되었습니다.</LotRD_DwarfTraitsGiver.hediffGivers.3.letter>	<!--1543896230_190714_Playable Feral Orkz-->	<OrganicAgeless.hediffGivers.3.letterLabel>트라우마 서번트</OrganicAgeless.hediffGivers.3.letterLabel>	<OrganicAgeless.hediffGivers.3.letter>[PAWN_nameDef]는 뇌손상으로 인해 [PAWN_pronoun] 이상한 서번트같은 능력이 발전하였습니다.</OrganicAgeless.hediffGivers.3.letter>	<!--1568400124_190615_Alien Vs Predator-->	<RRY_Organic_Yautja.hediffGivers.3.letterLabel>트라우마 서번트</RRY_Organic_Yautja.hediffGivers.3.letterLabel>	<RRY_Organic_Yautja.hediffGivers.3.letter>[PAWN_nameDef](은)는 뇌손상으로 인해 [PAWN_pronoun]에게는 이상한 서번트같은 능력이 발현했습니다.</RRY_Organic_Yautja.hediffGivers.3.letter></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1342510409_190627_Astoriel-->
+  <AstorielAgeless.hediffGivers.3.letterLabel>천재 자폐아</AstorielAgeless.hediffGivers.3.letterLabel>
+  <AstorielAgeless.hediffGivers.3.letter>[PAWN_nameDef](은)는 뇌 손상으로 인해 이상한 능력을 얻게 되었습니다.</AstorielAgeless.hediffGivers.3.letter>
+
+  <!--1400227853_190602_Lord of the Rims - Hobbits-->
+  <LotRH_HobbitTraitsGiver.hediffGivers.3.letterLabel>외상 서번트 증후군</LotRH_HobbitTraitsGiver.hediffGivers.3.letterLabel>
+  <LotRH_HobbitTraitsGiver.hediffGivers.3.letter>[PAWN_nameDef]의 뇌손상으로 인해 [PAWN_pronoun]는 기묘한 서번트 증후군 능력을 갖게 되었습니다.</LotRH_HobbitTraitsGiver.hediffGivers.3.letter>
+
+  <!--1400234784_190526_Lord of the Rims - Elves-->
+  <LotRE_ElfTraitsGiver.hediffGivers.3.letterLabel>외상 서번트 증후군</LotRE_ElfTraitsGiver.hediffGivers.3.letterLabel>
+  <LotRE_ElfTraitsGiver.hediffGivers.3.letter>[PAWN_nameDef](은)는 뇌손상으로 인해 기묘한 서번트 증후군 능력을 갖게 되었습니다.</LotRE_ElfTraitsGiver.hediffGivers.3.letter>
+  <LotRE_ElfTraitsGiverHalf.hediffGivers.3.letterLabel>외상 서번트 증후군</LotRE_ElfTraitsGiverHalf.hediffGivers.3.letterLabel>
+  <LotRE_ElfTraitsGiverHalf.hediffGivers.3.letter>[PAWN_nameDef](은)는 뇌손상으로 인해 기묘한 서번트 증후군 능력을 갖게 되었습니다.</LotRE_ElfTraitsGiverHalf.hediffGivers.3.letter>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <LotRD_DwarfTraitsGiver.hediffGivers.3.letterLabel>외상 서번트 증후군</LotRD_DwarfTraitsGiver.hediffGivers.3.letterLabel>
+  <LotRD_DwarfTraitsGiver.hediffGivers.3.letter>[PAWN_nameDef](은)는 뇌손상으로 인해 기묘한 서번트 증후군 능력을 갖게 되었습니다.</LotRD_DwarfTraitsGiver.hediffGivers.3.letter>
+
+  <!--1543896230_190714_Playable Feral Orkz-->
+  <OrganicAgeless.hediffGivers.3.letterLabel>트라우마 서번트</OrganicAgeless.hediffGivers.3.letterLabel>
+  <OrganicAgeless.hediffGivers.3.letter>[PAWN_nameDef]는 뇌손상으로 인해 [PAWN_pronoun] 이상한 서번트같은 능력이 발전하였습니다.</OrganicAgeless.hediffGivers.3.letter>
+
+</LanguageData>

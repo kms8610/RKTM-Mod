@@ -51,27 +51,6 @@
   <MeteorShower.label>유성우</MeteorShower.label>
   <MeteorStorm.label>유성폭풍</MeteorStorm.label>
 
-  <!--1498572835_190818_Polarisbloc - Storyteller incidents pack-->
-  <Polaris_Dekigokoro.letterText>{0}(은)는 이런 삶을 원한게 아니었다고 생각하며 존재의 이유를 찾기 위해 방황을 하게 됩니다.</Polaris_Dekigokoro.letterText>
-  <Polaris_QuestTradeShipPodCrash.letterText>{2}의 {1}, {0}(이)가 멀지 않은 곳에 상선이 추락했다고 알려주었으며 화물들을 가지러 갈 수 있습니다.\n\n이 상선은 {3}\n\n불행히도 다른 사람들도 알아챘기 때문에 {4}일까지 가지 않으면 사라지고 없을 것입니다.\n\n주의하세요 - 귀중품은 항상 위험이 도사리고 있습니다. {5}</Polaris_QuestTradeShipPodCrash.letterText>
-  <Polaris_PowerOverload.letterText>과부하로 인해 전력선이 버티지 못하고 터져버렸습니다.</Polaris_PowerOverload.letterText>
-  <Polaris_Dekigokoro.label>우발심</Polaris_Dekigokoro.label>
-  <Polaris_Dekigokoro.letterLabel>우발심</Polaris_Dekigokoro.letterLabel>
-  <Polaris_HarvestBenediction.label>데메테르의 축복</Polaris_HarvestBenediction.label>
-  <Polaris_HarvestBenediction.letterLabel>데메테르의 축복</Polaris_HarvestBenediction.letterLabel>
-  <Polaris_TurretDisturbed.letterText>메카노이드에 의해 포탑이 해킹되어 아군을 공격하려 합니다.</Polaris_TurretDisturbed.letterText>
-  <Polaris_PowerOverload.label>과부하</Polaris_PowerOverload.label>
-  <Polaris_PowerOverload.letterLabel>과부하</Polaris_PowerOverload.letterLabel>
-  <Polaris_ConduitFusing.label>합선</Polaris_ConduitFusing.label>
-  <Polaris_ConduitFusing.letterLabel>합선</Polaris_ConduitFusing.letterLabel>
-  <Polaris_ConduitFusing.letterText>전력 합선으로 인한 방전이 발생했습니다.</Polaris_ConduitFusing.letterText>
-  <Polaris_HarvestBenediction.letterText>알려지지 않은 존재로부터 정착지의 작물이 축복을 받아 성장합니다.</Polaris_HarvestBenediction.letterText>
-  <Polaris_TradeShipCrash.label>상선 추락</Polaris_TradeShipCrash.label>
-  <Polaris_QuestTradeShipPodCrash.label>기회: 상선 추락</Polaris_QuestTradeShipPodCrash.label>
-  <Polaris_QuestTradeShipPodCrash.letterLabel>기회: 상선 추락</Polaris_QuestTradeShipPodCrash.letterLabel>
-  <Polaris_TurretDisturbed.label>포탑 교란</Polaris_TurretDisturbed.label>
-  <Polaris_TurretDisturbed.letterLabel>포탑 교란</Polaris_TurretDisturbed.letterLabel>
-
   <!--1505914869_190616_What the hack!-->
   <WTH_RoamingMechanoids.label>배회하는 메카노이드들</WTH_RoamingMechanoids.label>
   <WTH_RoamingMechanoids.letterText>인근 마을에서 라디오를 통해 우리에게 연락해왔습니다. 그 마을 사람들 중 일부가 메카노이드들에게 공격을 받았다고합니다.\n그들은 우리 정착지에 경고해주기 위해, 어디에서 그 사고가 발생했는지 설명해주었습니다. 지도에 위치가 표시되어 있습니다만, 경고를 무시하고 해당 장소를 방문할 수 있습니다.\n어쩌면 메카노이드 부품을 추가로 확보할 수도 있고, 아니면... 몇 사람들을 죽일 수 있는 좋은 기회(?)가 되겠지요.</WTH_RoamingMechanoids.letterText>

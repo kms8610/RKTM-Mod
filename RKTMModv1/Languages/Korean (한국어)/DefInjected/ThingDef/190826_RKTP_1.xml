@@ -115,14 +115,6 @@
   <TableWoodworking_Blueprint_Install.label>목공 작업대 (청사진)</TableWoodworking_Blueprint_Install.label>
   <TableWoodworking_Frame.label>목공 작업대 (건설 중)</TableWoodworking_Frame.label>
 
-  <!--1089876213_190622_Omni Core Drill-->
-  <CoreDrill.label>코어 드릴</CoreDrill.label>
-  <CoreDrill.description>매우 깊은 곳에서 광물을 추출하기 위한 울트라 딥 크러스트 굴착 장치.</CoreDrill.description>
-  <CoreDrill_Blueprint.label>코어 드릴 (청사진)</CoreDrill_Blueprint.label>
-  <CoreDrill_Frame.label>코어 드릴 (건설 중)</CoreDrill_Frame.label>
-  <CoreDrill_Frame.description>매우 깊은 곳에서 광물을 추출하기 위한 울트라 딥 크러스트 굴착 장치.</CoreDrill_Frame.description>
-  <UnfinishedDrillingPlan.label>채굴 계획이 끝나지 않음</UnfinishedDrillingPlan.label>
-
   <!--1120445716_190627_Reclaim, Reuse, Recycle-->
   <R3_TableHarvesting.description>죽은 생물의 신체부위나 임플란트를 회수하기 위한 작업대. 복원 작업대에 근접하면 혜택이 있습니다.</R3_TableHarvesting.description>
   <R3_TableHarvesting_Frame.description>죽은 생물의 신체부위나 임플란트를 회수하기 위한 작업대. 복원 작업대에 근접하면 혜택이 있습니다.</R3_TableHarvesting_Frame.description>
@@ -2473,117 +2465,6 @@
   <SprinkledFuelMedium.description>나무와 연료를 섞은 것으로 매우 활활 잘 탑니다.</SprinkledFuelMedium.description>
   <SprinkledFuelMedium_Frame.description>나무와 연료를 섞은 것으로 매우 활활 잘 탑니다.</SprinkledFuelMedium_Frame.description>
 
-  <!--1498573216_181028_Polarisbloc - Mechenemy-->
-  <Vanya_DroidBeta.description>다양한 무기를 장착하고 싸우는 첨단 휴머노이드 입니다.</Vanya_DroidBeta.description>
-  <Vanya_HunterSniper.description>거대한 메카노이드를 사냥할 때 사용하는 체이서 함대의 개량된 저격수 소총입니다.</Vanya_HunterSniper.description>
-  <Vanya_HellSong.description>작고 빠른 메카노이드를 사냥할때 사용하는 체이서 함대의 화염체 중화기입니다.</Vanya_HellSong.description>
-  <Vanya_DestoryerShocker.description>광범위한 지역에 화력 피해를 입힐 수 있는 1회용의 큰 대포입니다.</Vanya_DestoryerShocker.description>
-  <Vanya_BundlingBlaster.description>중거리의 광역 피해를 입힐 수 있는 1회용 무기로 다연발이 특징입니다.</Vanya_BundlingBlaster.description>
-  <Vanya_DroidAlpha.description>1회용 펄스 폭탄을 사용하는 작지만 빠른 소형 드로이드로 목표물에 접근하면 폭탄을 던지고 자폭할 수도 있습니다.</Vanya_DroidAlpha.description>
-  <Vanya_DroidBetaEX.description>다양한 무기로 싸우는 중장갑을 갖춘 첨단 휴머노이드 입니다.</Vanya_DroidBetaEX.description>
-  <Vanya_DroidAlpha.label>자폭 드로이드 알파</Vanya_DroidAlpha.label>
-  <Vanya_DroidAlpha_Corpse.label>자폭 드로이드 알파의 시체</Vanya_DroidAlpha_Corpse.label>
-  <Vanya_DroidAlpha_Corpse.description>자폭 드로이드 알파의 시체입니다.</Vanya_DroidAlpha_Corpse.description>
-  <Vanya_CTMinigun.label>진압용 미니건</Vanya_CTMinigun.label>
-  <Vanya_StalkerRifle.tools.1.label>총열</Vanya_StalkerRifle.tools.1.label>
-  <Vanya_HunterSniper.tools.1.label>총열</Vanya_HunterSniper.tools.1.label>
-  <Vanya_HellSong.tools.1.label>총열</Vanya_HellSong.tools.1.label>
-  <Vanya_DroidFortress.label>수호자</Vanya_DroidFortress.label>
-  <Vanya_DroidFortress_Corpse.label>수호자의 시체</Vanya_DroidFortress_Corpse.label>
-  <Vanya_DroidFortress_Corpse.description>수호자의 시체입니다.</Vanya_DroidFortress_Corpse.description>
-  <Vanya_DroidBetaEX.label>중장갑 휴머노이드 베타-2</Vanya_DroidBetaEX.label>
-  <Vanya_DroidBetaEX_Corpse.label>중장갑 휴머노이드 베타-2의 시체</Vanya_DroidBetaEX_Corpse.label>
-  <Vanya_DroidBetaEX_Corpse.description>중장갑 휴머노이드 베타-2의 시체입니다.</Vanya_DroidBetaEX_Corpse.description>
-  <Vanya_DroidBeta.label>휴머노이드 베타</Vanya_DroidBeta.label>
-  <Vanya_DroidBeta_Corpse.label>휴머노이드 베타의 시체</Vanya_DroidBeta_Corpse.label>
-  <Vanya_DroidBeta_Corpse.description>휴머노이드 베타의 시체입니다.</Vanya_DroidBeta_Corpse.description>
-  <Vanya_DroidAlpha.tools.0.label>칼날</Vanya_DroidAlpha.tools.0.label>
-  <Vanya_PlasmaSword.tools.1.label>칼날</Vanya_PlasmaSword.tools.1.label>
-  <Vanya_VibrateKnife.tools.1.label>칼날</Vanya_VibrateKnife.tools.1.label>
-  <Bullet_Vanya_BundlingBlaster.label>전자기 포</Bullet_Vanya_BundlingBlaster.label>
-  <Bullet_Vanya_SplitRifle.label>탄환</Bullet_Vanya_SplitRifle.label>
-  <Bullet_Vanya_CTMinigun.label>탄환</Bullet_Vanya_CTMinigun.label>
-  <Bullet_Vanya_StalkerRifle.label>탄환</Bullet_Vanya_StalkerRifle.label>
-  <Bullet_Vanya_HunterSniper.label>탄환</Bullet_Vanya_HunterSniper.label>
-  <Vanya_BundlingBlaster.label>전자기 포 다발</Vanya_BundlingBlaster.label>
-  <Vanya_StalkerRifle.description>높은 정확도와 장거리를 가진 체이서 함대 군인들의 공용 소총입니다.</Vanya_StalkerRifle.description>
-  <Vanya_HunterArmor.description>체이서 함대의 공용 방어구, 어떠한 종류의 공격을 방어하기에 무난합니다.</Vanya_HunterArmor.description>
-  <Vanya_HunterOnSkin.description>체이서 함대의 특별한 제복이며 착용자를 따뜻하게 해줍니다.</Vanya_HunterOnSkin.description>
-  <Vanya_HunterArmor.label>체이서 방어구</Vanya_HunterArmor.label>
-  <Vanya_CombatRations.description>맛은 그럭저럭이지만 쉽게 구할 수 있는 체이서의 휴대용 식량입니다.</Vanya_CombatRations.description>
-  <Vanya_ChaserShieldBelt.label>체이서 방어벨트</Vanya_ChaserShieldBelt.label>
-  <Vanya_HunterSniper.label>체이서 저격수 소총</Vanya_HunterSniper.label>
-  <Vanya_HunterOnSkin.label>체이서 제복</Vanya_HunterOnSkin.label>
-  <Vanya_CompRocketLauncher.label>복합 로켓 발사기</Vanya_CompRocketLauncher.label>
-  <Bullet_Vanya_DestoryerShocker.label>파멸-충격포</Bullet_Vanya_DestoryerShocker.label>
-  <Vanya_DestoryerShocker.label>파멸-충격포</Vanya_DestoryerShocker.label>
-  <Vanya_VibrateKnife.label>초전파 진동검</Vanya_VibrateKnife.label>
-  <Vanya_DroidGammaEX.label>중장갑 울프로이드 감마-2</Vanya_DroidGammaEX.label>
-  <Vanya_DroidGammaEX_Corpse.label>중장갑 울프 드로이드 감마-2의 시체</Vanya_DroidGammaEX_Corpse.label>
-  <Vanya_DroidGammaEX_Corpse.description>중장갑 울프 드로이드 감마-2의 시체입니다.</Vanya_DroidGammaEX_Corpse.description>
-  <Vanya_DroidGamma.label>울프로이드 감마</Vanya_DroidGamma.label>
-  <Vanya_DroidGamma_Corpse.label>울프 드로이드 감마의 시체</Vanya_DroidGamma_Corpse.label>
-  <Vanya_DroidGamma_Corpse.description>울프 드로이드 감마의 시체입니다.</Vanya_DroidGamma_Corpse.description>
-  <Vanya_CompRocketLauncher.description>광범위한 지역을 포격할 수 있는 거대한 2연발 로켓 발사기 입니다.</Vanya_CompRocketLauncher.description>
-  <Vanya_DroidFortress.description>중거리 화력을 압도하는 거대한 전쟁 기계이며 무한궤도로 이동 합니다.</Vanya_DroidFortress.description>
-  <Vanya_PlasmaSword.tools.0.label>손잡이</Vanya_PlasmaSword.tools.0.label>
-  <Vanya_VibrateKnife.tools.0.label>손잡이</Vanya_VibrateKnife.tools.0.label>
-  <Vanya_DroidAlpha.tools.1.label>칼끝</Vanya_DroidAlpha.tools.1.label>
-  <Vanya_DroidBeta.tools.2.label>칼끝</Vanya_DroidBeta.tools.2.label>
-  <Vanya_DroidBetaEX.tools.2.label>칼끝</Vanya_DroidBetaEX.tools.2.label>
-  <Vanya_DroidGamma.tools.2.label>날끝</Vanya_DroidGamma.tools.2.label>
-  <Vanya_DroidGammaEX.tools.2.label>날끝</Vanya_DroidGammaEX.tools.2.label>
-  <Vanya_DroidRuler.tools.2.label>칼끝</Vanya_DroidRuler.tools.2.label>
-  <Vanya_DroidGammaEX.description>1회용 무기를 장착하고 중장갑을 갖춘 늑대모형의 드로이드 입니다.</Vanya_DroidGammaEX.description>
-  <Bullet_Vanya_HellSong.label>지옥의 노래</Bullet_Vanya_HellSong.label>
-  <Vanya_HellSong.label>지옥의 노래</Vanya_HellSong.label>
-  <Vanya_DroidFortress.tools.0.label>중심</Vanya_DroidFortress.tools.0.label>
-  <Vanya_DroidRuler.label>심문관</Vanya_DroidRuler.label>
-  <Vanya_DroidRuler_Corpse.label>심문관의 시체</Vanya_DroidRuler_Corpse.label>
-  <Vanya_DroidRuler_Corpse.description>심문관의 시체입니다.</Vanya_DroidRuler_Corpse.description>
-  <Vanya_RailGun.label>심문관 전기포</Vanya_RailGun.label>
-  <Bullet_Vanya_KineticLancer.label>키네틱 랜서</Bullet_Vanya_KineticLancer.label>
-  <Vanya_KineticLancer.label>키네틱 랜서</Vanya_KineticLancer.label>
-  <Vanya_VibrateKnife.description>고주파로 진동하는 이 검은 어떠한 방어도 뚫을 수 있고 대량의 출혈을 유발합니다.</Vanya_VibrateKnife.description>
-  <Vanya_CTMinigun.description>중거리 화력 지원무기로 적들을 제압할 때 사용하기 좋은 중화기입니다.</Vanya_CTMinigun.description>
-  <Vanya_DroidBeta.tools.0.label>왼쪽 칼날</Vanya_DroidBeta.tools.0.label>
-  <Vanya_DroidBetaEX.tools.0.label>왼쪽 칼날</Vanya_DroidBetaEX.tools.0.label>
-  <Vanya_DroidRuler.tools.0.label>왼쪽 칼날</Vanya_DroidRuler.tools.0.label>
-  <Vanya_DroidGamma.tools.0.label>왼쪽 발톱</Vanya_DroidGamma.tools.0.label>
-  <Vanya_DroidGammaEX.tools.0.label>왼쪽 발톱</Vanya_DroidGammaEX.tools.0.label>
-  <Vanya_CombatRations.label>군용 식량</Vanya_CombatRations.label>
-  <Vanya_PlasmaSword.label>플라즈마 장검</Vanya_PlasmaSword.label>
-  <Vanya_PlasmaSword.tools.2.label>칼끝</Vanya_PlasmaSword.tools.2.label>
-  <Vanya_VibrateKnife.tools.2.label>칼끝</Vanya_VibrateKnife.tools.2.label>
-  <Vanya_ConsciousnessCube.description>이미 정형화된 심판관의 머리에서 회로를 추출할 수 있습니다. 사고력을 높이기 위해 척추에 사용할 수 있습니다.</Vanya_ConsciousnessCube.description>
-  <Vanya_PlasmaSword.description>고온의 에너지를 방출하여 높은 피해를 줄 수 있는 안정적인 초고온 장검입니다.</Vanya_PlasmaSword.description>
-  <Vanya_DroidBeta.tools.1.label>오른쪽 칼날</Vanya_DroidBeta.tools.1.label>
-  <Vanya_DroidBetaEX.tools.1.label>오른쪽 칼날</Vanya_DroidBetaEX.tools.1.label>
-  <Vanya_DroidRuler.tools.1.label>오른쪽 칼날</Vanya_DroidRuler.tools.1.label>
-  <Vanya_DroidGamma.tools.1.label>오른쪽 발톱</Vanya_DroidGamma.tools.1.label>
-  <Vanya_DroidGammaEX.tools.1.label>오른쪽 발톱</Vanya_DroidGammaEX.tools.1.label>
-  <Bullet_Vanya_CompRocketLauncher.label>로켓</Bullet_Vanya_CompRocketLauncher.label>
-  <Vanya_Grenade.description>건물을 해체하는데 사용되는 1회용 진동파 폭탄입니다.</Vanya_Grenade.description>
-  <Vanya_Grenade.label>소형 펄스 폭탄</Vanya_Grenade.label>
-  <Proj_Vanya_Grenade.label>소형 펄스 폭탄</Proj_Vanya_Grenade.label>
-  <Vanya_SplitRifle.label>분열 소총</Vanya_SplitRifle.label>
-  <Vanya_StabPowerCore.label>안정-전력 핵</Vanya_StabPowerCore.label>
-  <Vanya_StabPowerCore.description>수호자로부터 획득한 안정-전력 핵은 대량의 전력이 저장되어 있어 전력의 출력을 위해서는 다른 장치를 사용해야 합니다. 또한 인체의 심장 보조장치로 사용해 활력을 제공 해줄 수 있습니다.</Vanya_StabPowerCore.description>
-  <Vanya_StalkerRifle.label>추격자 소총</Vanya_StalkerRifle.label>
-  <Vanya_StalkerRifle.tools.0.label>개머리판</Vanya_StalkerRifle.tools.0.label>
-  <Vanya_HunterSniper.tools.0.label>개머리판</Vanya_HunterSniper.tools.0.label>
-  <Vanya_HellSong.tools.0.label>개머리판</Vanya_HellSong.tools.0.label>
-  <Vanya_DroidRuler.description>정확한 장거리 무기를 사용하며 메카노이드 중 정예로 강력하고 빠른 휴머노이드 입니다.</Vanya_DroidRuler.description>
-  <Vanya_ConsciousnessCube.label>의식관</Vanya_ConsciousnessCube.label>
-  <Vanya_ChaserShieldBelt.description>어떠한 종류의 피해를 흡수할 수 있고 착용자도 사격이 가능하게 해주는 체이서 함대가 만든 실험적인 방어벨트입니다.</Vanya_ChaserShieldBelt.description>
-  <Vanya_Grenade.verbs.0.label>펄스 폭탄 투척</Vanya_Grenade.verbs.0.label>
-  <Vanya_DroidFortress.tools.1.label>궤도</Vanya_DroidFortress.tools.1.label>
-  <Vanya_SplitRifle.description>전자 가속기를 사용하여 빠른 탄속과 높은 정확도를 가진 소총입니다.</Vanya_SplitRifle.description>
-  <Vanya_KineticLancer.description>전자 가속기를 사용하여 철갑탄을 발사해 큰 피해를 입힐 수 있습니다.</Vanya_KineticLancer.description>
-  <Vanya_RailGun.description>텅스텐 포탄을 사용하는 장거리 무기입니다.</Vanya_RailGun.description>
-  <Vanya_DroidGamma.description>1회용 무기를 장착한 늑대 모형의 드로이드입니다.</Vanya_DroidGamma.description>
-  <Bullet_Vanya_RailGun.label>텅스텐 포탄</Bullet_Vanya_RailGun.label>
-
   <!--1498756997_190814_Maid Project-->
   <MaidCostumeCraftingTable.description>메이드복을 제작하는데 쓰이는 작업대입니다.</MaidCostumeCraftingTable.description>
   <MaidCostumeCraftingTable_Frame.description>메이드복을 제작하는데 쓰이는 작업대입니다.</MaidCostumeCraftingTable_Frame.description>
@@ -2609,45 +2490,6 @@
   <FightMaid.description>전투할때 입는 메이드복. 전투능력과 이동속도를 높여주고 불에 잘 타지않습니다.</FightMaid.description>
   <HeaderMaid.description>외교작업을 할때 입는 메이드복. 외교기술과 이동속도 그리고 전역작업속도를 높여줍니다.</HeaderMaid.description>
   <NurseMaid.description>치료할때 입는 메이드복. 의료기술과 이동속도를 높여주고 불에 잘 타지 않습니다.</NurseMaid.description>
-
-  <!--1500248421_181028_Polarisbloc - Security Force-->
-  <Polarisbloc_EmergencyFood.description>어떠한 환경에서도 신체적 능력을 빠르게 회복할 수 있는 음식으로, 피로 방지성분을 첨가하여 식용자의 지속성을 효과적으로 향상시킵니다.</Polarisbloc_EmergencyFood.description>
-  <Polarisbloc_CaniculaSniper.description>폴라리스 블록사에서 생산된 저격소총으로 특수처리된 에너지 방출장치는 생명체를 극도로 위협하는 탄환을 사용할 수 있습니다.</Polarisbloc_CaniculaSniper.description>
-  <Polarisbloc_CaniculaRifle.description>폴라리스 블록사에서 생산된 소총으로 특수처리된 에너지 방출장치는 생명체를 극도로 위협하는 탄환을 사용할 수 있습니다.</Polarisbloc_CaniculaRifle.description>
-  <Polarisbloc_AlkaidStrategyAssistant.label>알카이드 전략 보조기</Polarisbloc_AlkaidStrategyAssistant.label>
-  <Polarisbloc_CaniculaRifle.tools.1.label>총열</Polarisbloc_CaniculaRifle.tools.1.label>
-  <Polarisbloc_CaniculaSniper.tools.1.label>총열</Polarisbloc_CaniculaSniper.tools.1.label>
-  <Polarisbloc_BodyFixTrigger.label>차체 수리 방아쇠</Polarisbloc_BodyFixTrigger.label>
-  <Polarisbloc_BodyFixTrigger.description>0</Polarisbloc_BodyFixTrigger.description>
-  <PolarisBunnyGundamSculpture.label>토끼 건담 조각상</PolarisBunnyGundamSculpture.label>
-  <PolarisBunnyGundamSculpture_Blueprint_Install.label>토끼 건담 조각상 (청사진)</PolarisBunnyGundamSculpture_Blueprint_Install.label>
-  <Polarisbloc_CaniculaRifle.label>커니큘러 소총 - II</Polarisbloc_CaniculaRifle.label>
-  <Polarisbloc_CaniculaSniper.label>커니큘러 저격소총 - III</Polarisbloc_CaniculaSniper.label>
-  <Bullet_CaniculaRifle.label>충격탄</Bullet_CaniculaRifle.label>
-  <Bullet_CaniculaSniper.label>충격탄</Bullet_CaniculaSniper.label>
-  <Polarisbloc_CygnusStandardArmor.label>시그너스 방어구</Polarisbloc_CygnusStandardArmor.label>
-  <Polarisbloc_CygnusStandardArmorC.label>시그너스 방어구 (장교)</Polarisbloc_CygnusStandardArmorC.label>
-  <Polarisbloc_CygnusStandardTights.label>시그너스 의복</Polarisbloc_CygnusStandardTights.label>
-  <Polarisbloc_EmergencyFood.ingestible.ingestCommandString>{0} 마시기</Polarisbloc_EmergencyFood.ingestible.ingestCommandString>
-  <Polarisbloc_EmergencyFood.ingestible.ingestReportString>{0} 마시는 중.</Polarisbloc_EmergencyFood.ingestible.ingestReportString>
-  <Polarisbloc_EmergencyFood.label>군용 식량</Polarisbloc_EmergencyFood.label>
-  <PolarisDropSupplyBeacon.description>활성화하게 되면 가장 가까운 폴라리스 블록사의 궤도선이 연결이 되고 보안군의 군인 장비세트를 지급합니다.</PolarisDropSupplyBeacon.description>
-  <Apparel_PolarisShieldBelt_IV.label>폴라리스 방어벨트 - IV</Apparel_PolarisShieldBelt_IV.label>
-  <PolarisShieldMemoryStick.label>폴라리스 방어막 메모리</PolarisShieldMemoryStick.label>
-  <PolarisDropSupplyBeacon.label>폴라리스 보급품 표시기</PolarisDropSupplyBeacon.label>
-  <PolarisDropSupplyBeacon.comps.1.useLabel>보급품 호출하기</PolarisDropSupplyBeacon.comps.1.useLabel>
-  <Polarisbloc_CaniculaRifle.tools.0.label>개머리판</Polarisbloc_CaniculaRifle.tools.0.label>
-  <Polarisbloc_CaniculaSniper.tools.0.label>개머리판</Polarisbloc_CaniculaSniper.tools.0.label>
-  <Polarisbloc_CygnusStandardArmorC.description>장교용으로 제작되어 기존 방어구보다 조금 향상되긴 했지만 기능은 여전히 제한적입니다.</Polarisbloc_CygnusStandardArmorC.description>
-  <Apparel_PolarisShieldBelt_IV.description>폴라리스 블록사의 차세대 방어 기술은 아직 생산단계는 아니지만 중요인물에게만 공급되고 있습니다.\n\n이 방어막은 착용자가 공격을 받을 때 공격자에게 반격을 가합니다. 재반격을 가하는 데 시간이 걸리지만 반격 적중률이 정확하므로 주의가 필요합니다.</Apparel_PolarisShieldBelt_IV.description>
-  <PolarisBunnyGundamSculpture.description>폴라리스 블록사 666주년을 맞아 고급 기념품의 조형물로 사람들에게 선물로 증정되었습니다. 뛰어난 예술가들에 의해 만들어져 예술적 가치가 높습니다.\n\n이 조각상은 건담 COS복을 착용한 토끼가 장난감 총을 행복하게 흔드는 모습을 나타내고 있습니다.\n\n온 세상이 놀랄 정도로 정말 훌륭합니다.</PolarisBunnyGundamSculpture.description>
-  <PolarisShieldMemoryStick.description>폴라리스 블록사는 방어기술이 포함된 메모리를 만들어 판매합니다. 데이터가 어느정도 암호화되어 있어 데이터를 확실히 얻을 수 없습니다.\n\nTips:\n방어 기술을 얻을 확률은 9%입니다.\n만약 기술을 얻지 못한다면, 30% 확률로 위로품을 얻을 수 있습니다.\n둘 다 포기하지 않았으면 1%의 확률로 호화선물을 받을 수 있습니다.\n음...만약 아무것도 얻지 못했다면 그냥 운을 저주하세요.</PolarisShieldMemoryStick.description>
-  <Polarisbloc_CygnusStandardArmor.description>보안군의 방어구는 약간의 방어력과 기동력을 제공합니다.</Polarisbloc_CygnusStandardArmor.description>
-  <Polarisbloc_CygnusStandardTights.description>고분자 소재로 만든 이 의복은 특수 생명 유지장치로 제작되었습니다. 착용자의 상처를 치유하는 속도를 높여 빠르게 회복할 수 있습니다.</Polarisbloc_CygnusStandardTights.description>
-  <Polarisbloc_AlkaidStrategyAssistant.description>전투 보조장치로 동적 감지력 기능을 제공합니다.</Polarisbloc_AlkaidStrategyAssistant.description>
-  <Polarisbloc_ThubanTacticalGoggles.description>폴라리스 블록사에서 만든 전술 고글로 시력을 향상시킵니다.</Polarisbloc_ThubanTacticalGoggles.description>
-  <Polarisbloc_ThubanTacticalGoggles.label>투반 전술 고글</Polarisbloc_ThubanTacticalGoggles.label>
-  <PolarisShieldMemoryStick.comps.1.useLabel>메모리 해독하기</PolarisShieldMemoryStick.comps.1.useLabel>
 
   <!--1501459305_190606_[1.0] Razor Wire (With Damage)-->
   <RazorWireObstacle.description>제자리에 고정된 레이저 와이어입니다.\n한 개의 가시 철조망 고리로 간단히 엮인 기본적인 장애물로서, 저렴하고 가벼우며, 설치 속도가 매우 빠릅니다.</RazorWireObstacle.description>
@@ -9436,41 +9278,6 @@
   <ProstheticTailAnimal.description>꼬리 보철물입니다. 모든 동물에게 적합합니다.</ProstheticTailAnimal.description>
   <UnfinishedAnimalPart.label>미완성 동물 보철물</UnfinishedAnimalPart.label>
 
-  <!--747397788_190814_More Batteries-->
-  <PowerCellCreator.description>모어 파워 셀을 제작하기 위한 첨단 기계입니다.</PowerCellCreator.description>
-  <PowerCellCreator_Frame.description>초고속 파워 셀을 제작하기 위한 첨단 기계입니다.</PowerCellCreator_Frame.description>
-  <MidTierBattery.label>고급 축전지</MidTierBattery.label>
-  <MidTierBattery_Blueprint.label>고급 축전지 (청사진)</MidTierBattery_Blueprint.label>
-  <MidTierBattery_Blueprint_Install.label>고급 축전지 (청사진)</MidTierBattery_Blueprint_Install.label>
-  <MidTierBattery_Frame.label>고급 축전지 (건설 중)</MidTierBattery_Frame.label>
-  <VeryAdvancedBattery.description>이 극도로 발달된 기계는 조심스럽게 다루어야 합니다. 경고: 충전된 축전지는 가열하거나 비를 맞으면 폭발하는 경향이 있습니다.</VeryAdvancedBattery.description>
-  <VeryAdvancedBattery_Frame.description>이 극도로 발달된 기계는 조심스럽게 다루어야 합니다. 경고: 충전된 축전지는 가열하거나 비를 맞으면 폭발하는 경향이 있습니다.</VeryAdvancedBattery_Frame.description>
-  <TranscendentPowerCell.description>초월공학에서 첨단 축전지를 만들기 위해 사용되는 극도로 진보된 파워 셀 입니다.</TranscendentPowerCell.description>
-  <VeryAdvancedBattery.label>초월공학 축전지</VeryAdvancedBattery.label>
-  <VeryAdvancedBattery_Blueprint.label>초월공학 축전지 (청사진)</VeryAdvancedBattery_Blueprint.label>
-  <VeryAdvancedBattery_Blueprint_Install.label>초월공학 축전지 (청사진)</VeryAdvancedBattery_Blueprint_Install.label>
-  <VeryAdvancedBattery_Frame.label>초월공학 축전지 (건설 중)</VeryAdvancedBattery_Frame.label>
-  <TranscendentPowerCell.label>초월공학 파워 셀</TranscendentPowerCell.label>
-  <AdvancedBattery.label>번화계 축전지</AdvancedBattery.label>
-  <AdvancedBattery_Blueprint.label>번화계 축전지 (청사진)</AdvancedBattery_Blueprint.label>
-  <AdvancedBattery_Blueprint_Install.label>번화계 축전지 (청사진)</AdvancedBattery_Blueprint_Install.label>
-  <AdvancedBattery_Frame.label>번화계 축전지 (건설 중)</AdvancedBattery_Frame.label>
-  <LowTierBattery.label>향상된 축전지</LowTierBattery.label>
-  <LowTierBattery_Blueprint.label>향상된 축전지 (청사진)</LowTierBattery_Blueprint.label>
-  <LowTierBattery_Blueprint_Install.label>향상된 축전지 (청사진)</LowTierBattery_Blueprint_Install.label>
-  <LowTierBattery_Frame.label>향상된 축전지 (건설 중)</LowTierBattery_Frame.label>
-  <PowerCellCreator.label>파워 셀 제작 작업대</PowerCellCreator.label>
-  <PowerCellCreator_Blueprint.label>파워 셀 제작 작업대 (청사진)</PowerCellCreator_Blueprint.label>
-  <PowerCellCreator_Frame.label>파워 셀 제작 작업대 (건설 중)</PowerCellCreator_Frame.label>
-  <SpecificComponents.label>특수 부품</SpecificComponents.label>
-  <SpecificComponents.description>특수한 아이템을 위한 특수 부품입니다.</SpecificComponents.description>
-  <MidTierBattery.description>이 축전지는 약간 더 많은 전력을 저장할 수 있고, 좀 더 효율적입니다. 경고: 충전된 축전지는 가열하거나 비를 맞으면 폭발하는 경향이 있습니다.</MidTierBattery.description>
-  <MidTierBattery_Frame.description>이 축전지는 약간 더 많은 전력을 저장할 수 있고, 좀 더 효율적입니다. 경고: 충전된 축전지는 가열하거나 비를 맞으면 폭발하는 경향이 있습니다.</MidTierBattery_Frame.description>
-  <LowTierBattery.description>이 축전지는 약간 더 많은 전력을 저장할 수 있고, 좀 더 효율적입니다. 경고: 충전된 축전지는 가열하거나 비를 맞으면 폭발하는 경향이 있습니다.</LowTierBattery.description>
-  <LowTierBattery_Frame.description>이 축전지는 약간 더 많은 전력을 저장할 수 있고, 좀 더 효율적입니다. 경고: 충전된 축전지는 가열하거나 비를 맞으면 폭발하는 경향이 있습니다.</LowTierBattery_Frame.description>
-  <AdvancedBattery.description>이 축전지는 더 많은 전력을 저장할 수 있고 더 효율적입니다. 경고: 충전된 축전지는 가열하거나 비를 맞으면 폭발하는 경향이 있습니다.</AdvancedBattery.description>
-  <AdvancedBattery_Frame.description>이 축전지는 더 많은 전력을 저장할 수 있고 더 효율적입니다. 경고: 충전된 축전지는 가열하거나 비를 맞으면 폭발하는 경향이 있습니다.</AdvancedBattery_Frame.description>
-
   <!--747645520_190627_Misc. Robots++-->
   <AIRobot_Cleaner_II.description>기본적인 청소로봇입니다.</AIRobot_Cleaner_II.description>
   <AIRobot_Hauler_II.description>기본적인 운반로봇입니다.</AIRobot_Hauler_II.description>
@@ -10870,20 +10677,6 @@
   <WatchTower_Frame.label>감시탑 (건설 중)</WatchTower_Frame.label>
   <WatchTower.description>정착민이 서 있을 때 시야를 넓히는 감시탑입니다.</WatchTower.description>
   <WatchTower_Frame.description>정착민이 서 있을 때 시야를 넓히는 감시탑입니다.</WatchTower_Frame.description>
-
-  <!--843504745_181014_Temperature Gauge-->
-  <TemperatureSwitch.description>온도를 기준으로 전력을 공급하는 스위치입니다.</TemperatureSwitch.description>
-  <TemperatureSwitch_Frame.description>온도를 기준으로 전력을 공급하는 스위치입니다.</TemperatureSwitch_Frame.description>
-  <TemperatureGauge.description>현재 주변 온도를 표시하고 온도 기반 경고를 제공하도록 구성할 수 있습니다. 전원이 필요하지 않습니다.</TemperatureGauge.description>
-  <TemperatureGauge_Frame.description>현재 주변 온도를 표시하고 온도 기반 경고를 제공하도록 구성할 수 있습니다. 전원이 필요하지 않습니다.</TemperatureGauge_Frame.description>
-  <TemperatureSwitch.label>온도계 스위치</TemperatureSwitch.label>
-  <TemperatureSwitch_Blueprint.label>온도계 스위치 (청사진)</TemperatureSwitch_Blueprint.label>
-  <TemperatureSwitch_Blueprint_Install.label>온도계 스위치 (청사진)</TemperatureSwitch_Blueprint_Install.label>
-  <TemperatureSwitch_Frame.label>온도계 스위치 (건설 중)</TemperatureSwitch_Frame.label>
-  <TemperatureGauge.label>온도계</TemperatureGauge.label>
-  <TemperatureGauge_Blueprint.label>온도계 (청사진)</TemperatureGauge_Blueprint.label>
-  <TemperatureGauge_Blueprint_Install.label>온도계 (청사진)</TemperatureGauge_Blueprint_Install.label>
-  <TemperatureGauge_Frame.label>온도계 (건설 중)</TemperatureGauge_Frame.label>
 
   <!--846222458_190818_More Mechanoids-->
   <MechanoidFlameThrower.description>내장형 메카노이드 화염방사기입니다.</MechanoidFlameThrower.description>

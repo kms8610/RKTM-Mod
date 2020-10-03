@@ -1,1 +1,52 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>  <!--1113137502_190707_Genetic Rim-->  <GR_VeryToxicBite.label>맹독성 물기</GR_VeryToxicBite.label>  <GR_LightToxicBite.label>가벼운 독성 물기</GR_LightToxicBite.label>  <GR_ToxicExplosion.label>독성 폭발</GR_ToxicExplosion.label>  <GR_PlagueBite.label>괴로운 물기</GR_PlagueBite.label>  <GR_HairballBite.label>털뭉치 물기</GR_HairballBite.label>  <!--1430501911_190519_Infectious Creatures-->  <VenomBite.label>독성 물기</VenomBite.label>  <MegaScarabBite.label>메가스캐럽 물기</MegaScarabBite.label>  <SpelopedeCut.label>스펠로피드 베기</SpelopedeCut.label>  <MegaSpiderCut.label>메가스파이더 베기</MegaSpiderCut.label>  <PlagueBite.label>역병 물기</PlagueBite.label>  <PlagueScratch.label>역병 긁기</PlagueScratch.label>  <!--1543566982_190606_Lost Forest-->  <LF_Coldgrasp.label>차가운 손아귀</LF_Coldgrasp.label>  <LF_Iciclebash.label>아이시컬 배쉬</LF_Iciclebash.label>  <LF_Glacialbite.label>글레이셜 바이트</LF_Glacialbite.label>  <LF_Hailblast.label>헤일 블라스트</LF_Hailblast.label>  <LF_Cocytus.label>코카투스</LF_Cocytus.label>  <LF_Blazingsmash.label>블래이징 스매쉬</LF_Blazingsmash.label>  <LF_Burningcharge.label>버닝 차지</LF_Burningcharge.label>  <LF_Heatbite.label>힛 바이트</LF_Heatbite.label>  <LF_Heatlance.label>힛 랜스</LF_Heatlance.label>  <LF_Flareblast.label>플래어 블래스트</LF_Flareblast.label>  <LF_Inferno.label>인페르노</LF_Inferno.label>  <LF_Poisonstab.label>독침</LF_Poisonstab.label>  <LF_ThornStab.label>가시 침</LF_ThornStab.label>  <LF_Deadlypoison.label>죽음의 독</LF_Deadlypoison.label>  <LF_Sandblast.label>샌드 블래스트</LF_Sandblast.label>  <LF_Armorbreak.label>갑옷 파괴</LF_Armorbreak.label>  <LF_Armbreak.label>팔 파괴</LF_Armbreak.label>  <LF_Legbreak.label>다리 파괴</LF_Legbreak.label>  <LF_ArmorRavage.label>갑옷 약화</LF_ArmorRavage.label>  <LF_MobilityRavage.label>이동 약화</LF_MobilityRavage.label>  <LF_Bloodleech.label>피 거머리</LF_Bloodleech.label>  <LF_Famine.label>기근</LF_Famine.label>  <LF_Pestilence.label>역병</LF_Pestilence.label>  <LF_DragonicSigil.label>용인</LF_DragonicSigil.label>  <!--1821617793_190811_Magical Menagerie-->  <MM_ToxicSting.label>독침</MM_ToxicSting.label>  <MM_ToxicBite.label>독성 물기</MM_ToxicBite.label>  <MM_Grapple.label>붙잡기</MM_Grapple.label>  <MM_BleedingWound.label>상처출혈</MM_BleedingWound.label>  <MM_FlamingBite.label>화상 물기</MM_FlamingBite.label>  <!--949283405_190618_AnimalCollabProj-->  <Sting.label>쏘임</Sting.label>  <ScorpionSting.label>침 쏘임</ScorpionSting.label>  <PlatypusSting.label>돌기 찔림</PlatypusSting.label>  <AcidBite.label>산성독</AcidBite.label></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1113137502_190707_Genetic Rim-->
+  <GR_VeryToxicBite.label>맹독성 물기</GR_VeryToxicBite.label>
+  <GR_LightToxicBite.label>가벼운 독성 물기</GR_LightToxicBite.label>
+  <GR_ToxicExplosion.label>독성 폭발</GR_ToxicExplosion.label>
+  <GR_PlagueBite.label>괴로운 물기</GR_PlagueBite.label>
+  <GR_HairballBite.label>털뭉치 물기</GR_HairballBite.label>
+
+  <!--1430501911_190519_Infectious Creatures-->
+  <VenomBite.label>독성 물기</VenomBite.label>
+  <MegaScarabBite.label>메가스캐럽 물기</MegaScarabBite.label>
+  <SpelopedeCut.label>스펠로피드 베기</SpelopedeCut.label>
+  <MegaSpiderCut.label>메가스파이더 베기</MegaSpiderCut.label>
+  <PlagueBite.label>역병 물기</PlagueBite.label>
+  <PlagueScratch.label>역병 긁기</PlagueScratch.label>
+
+  <!--1543566982_190606_Lost Forest-->
+  <LF_Coldgrasp.label>차가운 손아귀</LF_Coldgrasp.label>
+  <LF_Iciclebash.label>아이시컬 배쉬</LF_Iciclebash.label>
+  <LF_Glacialbite.label>글레이셜 바이트</LF_Glacialbite.label>
+  <LF_Hailblast.label>헤일 블라스트</LF_Hailblast.label>
+  <LF_Cocytus.label>코카투스</LF_Cocytus.label>
+  <LF_Blazingsmash.label>블래이징 스매쉬</LF_Blazingsmash.label>
+  <LF_Burningcharge.label>버닝 차지</LF_Burningcharge.label>
+  <LF_Heatbite.label>힛 바이트</LF_Heatbite.label>
+  <LF_Heatlance.label>힛 랜스</LF_Heatlance.label>
+  <LF_Flareblast.label>플래어 블래스트</LF_Flareblast.label>
+  <LF_Inferno.label>인페르노</LF_Inferno.label>
+  <LF_Poisonstab.label>독침</LF_Poisonstab.label>
+  <LF_ThornStab.label>가시 침</LF_ThornStab.label>
+  <LF_Deadlypoison.label>죽음의 독</LF_Deadlypoison.label>
+  <LF_Sandblast.label>샌드 블래스트</LF_Sandblast.label>
+  <LF_Armorbreak.label>갑옷 파괴</LF_Armorbreak.label>
+  <LF_Armbreak.label>팔 파괴</LF_Armbreak.label>
+  <LF_Legbreak.label>다리 파괴</LF_Legbreak.label>
+  <LF_ArmorRavage.label>갑옷 약화</LF_ArmorRavage.label>
+  <LF_MobilityRavage.label>이동 약화</LF_MobilityRavage.label>
+  <LF_Bloodleech.label>피 거머리</LF_Bloodleech.label>
+  <LF_Famine.label>기근</LF_Famine.label>
+  <LF_Pestilence.label>역병</LF_Pestilence.label>
+  <LF_DragonicSigil.label>용인</LF_DragonicSigil.label>
+
+  <!--1821617793_190811_Magical Menagerie-->
+  <MM_ToxicSting.label>독침</MM_ToxicSting.label>
+  <MM_ToxicBite.label>독성 물기</MM_ToxicBite.label>
+  <MM_Grapple.label>붙잡기</MM_Grapple.label>
+  <MM_BleedingWound.label>상처출혈</MM_BleedingWound.label>
+  <MM_FlamingBite.label>화상 물기</MM_FlamingBite.label>
+
+</LanguageData>

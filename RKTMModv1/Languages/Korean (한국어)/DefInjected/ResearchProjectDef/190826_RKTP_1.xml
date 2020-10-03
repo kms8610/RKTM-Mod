@@ -183,10 +183,6 @@
   <MaidTech.description>다양한 일에 도움이 되는 메이드복을 만들 수 있습니다.</MaidTech.description>
   <MaidTech.label>메이드복 연구</MaidTech.label>
 
-  <!--1500248421_181028_Polarisbloc - Security Force-->
-  <PolarisShield.description>폴라리스 방어벨트 - II 제조법을 습득합니다. 데이터가 기밀사항으로 처리되어 있어 메모리를 풀어야만 폴라리스 방어 기술을 얻을 수 있습니다.</PolarisShield.description>
-  <PolarisShield.label>폴라리스 방어 기술</PolarisShield.label>
-
   <!--1502471438_190520_Anti-Air Artillery-->
   <ADAHuge.label>대형 대공포</ADAHuge.label>
   <ADAHit.label>궤도 방위 파동포</ADAHit.label>
@@ -622,20 +618,6 @@
   <AnimalBionics.description>생체공학 동물 이식물을 제작하고 사용하는 법을 연구합니다.</AnimalBionics.description>
   <SimpleAnimalProsthetics.description>간단한 동물 보철물을 제작하고 사용하는 법을 연구합니다.</SimpleAnimalProsthetics.description>
   <SimpleAnimalProsthetics.label>간단한 동물 보철물</SimpleAnimalProsthetics.label>
-
-  <!--747397788_190814_More Batteries-->
-  <MidtierBattery.label>고급 축전지</MidtierBattery.label>
-  <VeryAdvancedBattery.label>초월공학 축전지</VeryAdvancedBattery.label>
-  <VeryAdvancedBattery.description>초월공학 기술로 만들어진 축전지,</VeryAdvancedBattery.description>
-  <SpecificComponents.description>정착민들이 특수 부품을 만들고 식별하는 방법을 연구합니다.</SpecificComponents.description>
-  <AdvancedBattery.label>번화계 축전지</AdvancedBattery.label>
-  <LowtierBattery.label>향상된 축전지</LowtierBattery.label>
-  <ArchotechPowerStorage.description>초월공학 기술로 초월공학 축전지를 건축하는데 사용하는 가장 강력한 축전지 셀을 만드는 방법에 대해 연구합니다.</ArchotechPowerStorage.description>
-  <SpecificComponents.label>특수 부품</SpecificComponents.label>
-  <LowtierBattery.description>이 축전지는 축전지보다 약간 더 효율적이며, 더 많은 전력을 저장할 수 있습니다.</LowtierBattery.description>
-  <MidtierBattery.description>이 축전지는 향상된 축전지보다 약간 더 효율적이며, 더 많은 전력을 저장할 수 있습니다.</MidtierBattery.description>
-  <AdvancedBattery.description>이 축전지는 고급 축전지보다 약간 더 효율적이며, 더 많은 전력을 저장할 수 있습니다.</AdvancedBattery.description>
-  <ArchotechPowerStorage.label>초월 전력 셀</ArchotechPowerStorage.label>
 
   <!--747645520_190627_Misc. Robots++-->
   <RPP_Research_Omni_V.label>반물질 논리회로\n옴닉로봇</RPP_Research_Omni_V.label>

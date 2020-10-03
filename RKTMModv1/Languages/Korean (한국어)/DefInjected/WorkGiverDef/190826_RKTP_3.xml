@@ -98,14 +98,6 @@
   <DoBillsCalSmelter.verb>정제</DoBillsCalSmelter.verb>
   <DoBillsCalSmelter.gerund>정제 중</DoBillsCalSmelter.gerund>
 
-  <!--1568400124_190615_Alien Vs Predator-->
-  <RRY_DoBillsYautjaMachining.label>야우차 자원 제작</RRY_DoBillsYautjaMachining.label>
-  <RRY_DoBillsYautjaMachining.verb>자원 제작</RRY_DoBillsYautjaMachining.verb>
-  <RRY_DoBillsYautjaMachining.gerund>자원 제작</RRY_DoBillsYautjaMachining.gerund>
-  <RRY_RearmTraps.label>함정 재장전</RRY_RearmTraps.label>
-  <RRY_RearmTraps.verb>재장전</RRY_RearmTraps.verb>
-  <RRY_RearmTraps.gerund>재장전</RRY_RearmTraps.gerund>
-
   <!--1571323744_190714_Crystalloid (Rewrite)-->
   <DoBillsCrystalReconfigurationChamber.label>재구성 챔버에서 작업</DoBillsCrystalReconfigurationChamber.label>
   <DoBillsCrystalReconfigurationChamber.verb>작업</DoBillsCrystalReconfigurationChamber.verb>

@@ -1,35 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- A RimWorld of Magic - 1201382956 -->
-  <TM_LesserEarth_ElementalR_Meat.label>대지의 하위 정령 잔해</TM_LesserEarth_ElementalR_Meat.label>
-  <TM_Earth_ElementalR_Meat.label>대지의 정령 잔해</TM_Earth_ElementalR_Meat.label>
-  <TM_GreaterEarth_ElementalR_Meat.label>대지의 상위 정령 잔해</TM_GreaterEarth_ElementalR_Meat.label>
-  <TM_LesserFire_ElementalR_Meat.label>화염의 하위 정령 잔해</TM_LesserFire_ElementalR_Meat.label>
-  <TM_Fire_ElementalR_Meat.label>화염의 정령 잔해</TM_Fire_ElementalR_Meat.label>
-  <TM_GreaterFire_ElementalR_Meat.label>화염의 상위 정령 잔해</TM_GreaterFire_ElementalR_Meat.label>
-  <TM_LesserWater_ElementalR_Meat.label>물의 하위 정령 잔해</TM_LesserWater_ElementalR_Meat.label>
-  <TM_Water_ElementalR_Meat.label>물의 정령 잔해</TM_Water_ElementalR_Meat.label>
-  <TM_GreaterWater_ElementalR_Meat.label>물의 상위 정령 잔해</TM_GreaterWater_ElementalR_Meat.label>
-  <TM_LesserWind_ElementalR_Meat.label>바람의 하위 정령 잔해</TM_LesserWind_ElementalR_Meat.label>
-  <TM_Wind_ElementalR_Meat.label>바람의 정령 잔해</TM_Wind_ElementalR_Meat.label>
-  <TM_GreaterWind_ElementalR_Meat.label>바람의 상위 정령 잔해</TM_GreaterWind_ElementalR_Meat.label>
-  <TM_DemonR_Meat.label>악마 살점</TM_DemonR_Meat.label>
-  <TM_Lesser_SentinelR_Meat.label>하위 수호령석</TM_Lesser_SentinelR_Meat.label>
-  <TM_SentinelR_Meat.label>수호령석</TM_SentinelR_Meat.label>
-  <TM_Greater_SentinelR_Meat.label>상위 수호령석</TM_Greater_SentinelR_Meat.label>
-
-  <!-- Alpha Animals - 1541721856_2019-1102 -->
-  <RB_SpunSynthreadSilk.label>합성원단 명주</RB_SpunSynthreadSilk.label>
-  <RB_SpunSynthreadSilk.description>두니아리스크 및 정글리스크, 페라리스크에게 뽑아낸 명주실입니다. 베틀에서 합성원단으로 만들 수 있습니다.</RB_SpunSynthreadSilk.description>
-  <RB_SpunHyperweaveSilk.label>초경조직 명주</RB_SpunHyperweaveSilk.label>
-  <RB_SpunHyperweaveSilk.description>블리자리스크로부터 뽑아낸 명주실입니다. 베틀에서 초경조직으로 만들 수 있습니다.</RB_SpunHyperweaveSilk.description>
-
-  <!-- Dubs Bad Hygiene - 836308268 -->
-  <DBH_WaterBottle.label>물</DBH_WaterBottle.label>
-  <DBH_WaterBottle.description>물병입니다.</DBH_WaterBottle.description>
-  <DBH_WaterBottle.ingestible.ingestReportString>{0} 마시는 중.</DBH_WaterBottle.ingestible.ingestReportString>
-
   <!-- Rimefeller - 1321849735_2020-0101 -->
   <SynthyleneWhite.label>하얀색 신틸렌</SynthyleneWhite.label>
   <SynthyleneWhite.description>합성 건축 자재입니다.</SynthyleneWhite.description>

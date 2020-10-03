@@ -1,22 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--1742245843_190816_Evolved Organs-->
-  <EvolvedOrgansR1.label>진화된 세포 생성</EvolvedOrgansR1.label>
-  <EvolvedOrgansR1.description>생물학과 생물공학에 대한 우리의 지식을 결합시킴으로써, 우리는 우리가 자연적으로 생성할 수 있는 그 어느것보다 훨씬 많은 잠재력을 지닌 세포를 생성할 수 있습니다.</EvolvedOrgansR1.description>
-  <EvolvedOrgansR2.label>진화된 장기 생성</EvolvedOrgansR2.label>
-  <EvolvedOrgansR2.description>우리는 이제 우리의 진화된 세포를 자연적으로 성취될 수 있는 것을 훨씬 능가하는 장기로 분화시킬 수 있습니다.</EvolvedOrgansR2.description>
-  <EvolvedOrgansResearchOrgans2.label>복잡한 장기 생성</EvolvedOrgansResearchOrgans2.label>
-  <EvolvedOrgansResearchOrgans2.description>줄기 세포와 메카나이트 통합에 대한 지속적인 이해는 진보된 내부 장기를 만드는 데 활용할 수 있는 첨단 세포 구조를 개발할 수 있게 했습니다.</EvolvedOrgansResearchOrgans2.description>
-  <EvolvedOrgansResearchOrgans3.label>고급 장기 생성</EvolvedOrgansResearchOrgans3.label>
-  <EvolvedOrgansResearchOrgans3.description>가장 복잡한 장기와 그 너머의 장기를 설계할 수 있는 능력을 열어줄 가장 어려운 신체 구조들에 대해 이해해야 합니다.</EvolvedOrgansResearchOrgans3.description>
-  <EvolvedOrgansResearchLimbs1.label>장기 구조 생성</EvolvedOrgansResearchLimbs1.label>
-  <EvolvedOrgansResearchLimbs1.description>뼈와 근육을 만들려면 먼저 부하 내력 구성에서 세포와 기계 장치를 전파하는 법을 이해해야 합니다.</EvolvedOrgansResearchLimbs1.description>
-  <EvolvedOrgansResearchLimbs2.label>복잡한 날개 구조</EvolvedOrgansResearchLimbs2.label>
-  <EvolvedOrgansResearchLimbs2.description>간단한 하중지지 구조를 만드는 기능이 이해되었으므로 이제 적용하고 테스트하기 위해 기술을 확장해야 합니다.</EvolvedOrgansResearchLimbs2.description>
-  <EvolvedOrgansResearchLimbs3.label>고급 날개 구조</EvolvedOrgansResearchLimbs3.label>
-  <EvolvedOrgansResearchLimbs3.description>자연이 제공한 구성을 넘어서는 무엇이 존재할 수 있는지에 대한 연구입니다. GMO-휴머노이드 사지, 하늘이 한계인가?</EvolvedOrgansResearchLimbs3.description>
-
   <!--850429707_190626_RBSE-->
   <AdvancedBionics.label>고급 생체공학</AdvancedBionics.label>
   <SyntheticOrgans.description>나노 기술을 통한 첨단 연구입니다. 이식 거부 증상이 없는 고 성능의 합성 대체 기관의 잠금을 해제합니다.</SyntheticOrgans.description>

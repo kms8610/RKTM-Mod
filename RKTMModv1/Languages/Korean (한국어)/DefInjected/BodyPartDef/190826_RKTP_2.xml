@@ -1,1 +1,97 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>  <!--1106719215_190814_Mechanoids Extraordinaire-->  <MechanicalThoraxME.label>흉곽</MechanicalThoraxME.label>  <MechanicalNeckME.label>목</MechanicalNeckME.label>  <MechanicalHeadME.label>머리</MechanicalHeadME.label>  <MechanicalThoraxGoliathME.label>흉곽</MechanicalThoraxGoliathME.label>  <SightSensorGoliathME.label>시야 센서</SightSensorGoliathME.label>  <LimbPortME.label>돌출구 포트</LimbPortME.label>  <MechaTentacleME.label>기계 촉수</MechaTentacleME.label>  <MechanicalChimeraTailME.label>꼬리</MechanicalChimeraTailME.label>  <ExtensionPortME.label>확장 포트</ExtensionPortME.label>  <WeaponHolderME.label>무기 고정대</WeaponHolderME.label>  <MechanicalLegME.label>다리</MechanicalLegME.label>  <MechanicalPawME.label>발</MechanicalPawME.label>  <MechanicalTailME.label>꼬리</MechanicalTailME.label>  <MechanicalTailKrakenME.label>꼬리</MechanicalTailKrakenME.label>  <!--1113137502_190707_Genetic Rim-->  <GR_Fangs.label>이빨</GR_Fangs.label>  <!--1136958577_190707_Dinosauria-->  <Crest.label>관모</Crest.label>  <Spikes.label>가시</Spikes.label>  <Club.label>곤봉</Club.label>  <SkullDome.label>머리뼈</SkullDome.label>  <FootClaw.label>갈고리 발톱</FootClaw.label>  <FootClaw.labelShort>발톱</FootClaw.labelShort>  <Knucklehead.label>너클헤드</Knucklehead.label>  <!--1206705240_190519_L-Slimes-->  <AICore.label>AI 코어</AICore.label>  <MechaniteSwarm.label>메카니트 무리</MechaniteSwarm.label>  <SlimeBody.label>몸체</SlimeBody.label>  <SlimeMouth.label>입구멍</SlimeMouth.label>  <SlimeHeart.label>점액질 핵</SlimeHeart.label>  <Floater.label>부유물</Floater.label>  <!--1217424545_190627_Griffins for Rimworld-->  <Griffin_RightWing.label>오른쪽 날개</Griffin_RightWing.label>  <Griffin_LeftWing.label>왼쪽 날개</Griffin_LeftWing.label>  <!--1342364585_190818_Star Wars Animal Collection-->  <Claw.label>발톱</Claw.label>  <Claw.labelShort>발톱</Claw.labelShort>  <Crest.label>볏</Crest.label>  <Spikes.label>가시</Spikes.label>  <Club.label>몽둥이</Club.label>  <SkullDome.label>돔 두개골</SkullDome.label>  <LeftClaw.label>왼발톱</LeftClaw.label>  <RightClaw.label>오른발톱</RightClaw.label>  <LeftAnimalArm.label>왼팔</LeftAnimalArm.label>  <RightAnimalArm.label>오른팔</RightAnimalArm.label>  <Knucklehead.label>돌머리</Knucklehead.label>  <LeftHorn.label>왼쪽 뿔</LeftHorn.label>  <RightHorn.label>오른쪽 뿔</RightHorn.label>  <FrontHorn.label>앞쪽 뿔</FrontHorn.label>  <FrontLeftFoot.label>왼쪽 앞발</FrontLeftFoot.label>  <FrontRightFoot.label>오른쪽 앞발</FrontRightFoot.label>  <RearLeftFoot.label>왼쪽 뒷발</RearLeftFoot.label>  <RearRightFoot.label>오른쪽 뒷발</RearRightFoot.label>  <!--1542306804_190519_The Zerg!-->  <ZergSpine.label>가시</ZergSpine.label>  <ZergHeart.label>심장</ZergHeart.label>  <HydraliskTail.label>꼬리</HydraliskTail.label>  <ZergHeadShell.label>머리 외피</ZergHeadShell.label>  <ZergTailSpike.label>꼬리 침</ZergTailSpike.label>  <Zerglingwing.label>날개</Zerglingwing.label>  <LeftClaw.label>왼 발톱</LeftClaw.label>  <RightClaw.label>오른 손톱</RightClaw.label>  <LeftScythe.label>왼쪽 낫</LeftScythe.label>  <RightScythe.label>오른쪽 낫</RightScythe.label>  <LeftAnimalArm.label>왼 팔</LeftAnimalArm.label>  <RightAnimalArm.label>오른 팔</RightAnimalArm.label>  <!--1543566982_190606_Lost Forest-->  <LF_LeftWing.label>왼쪽 날개</LF_LeftWing.label>  <LF_RightWing.label>오른쪽 날개</LF_RightWing.label>  <!--1821617793_190811_Magical Menagerie-->  <MM_ChimeraTail.label>뱀 머리</MM_ChimeraTail.label>  <MM_Goathead.label>염소 머리</MM_Goathead.label>  <MM_Wing.label>날개</MM_Wing.label>  <MM_ScorpionTail.label>전갈 꼬리</MM_ScorpionTail.label>  <MM_Antlers.label>뿔</MM_Antlers.label>  <MM_Horns.label>뿔</MM_Horns.label>  <MM_PlasmaMembrane.label>플라즈마 막</MM_PlasmaMembrane.label>  <MM_Cytoplasm.label>세포질</MM_Cytoplasm.label>  <!--949283405_190618_AnimalCollabProj-->  <FrontLeftFlipper.label>왼쪽 앞지느러미</FrontLeftFlipper.label>  <FrontRightFlipper.label>오른쪽 앞지느러미</FrontRightFlipper.label>  <LeftAntler.label>왼쪽 뿔</LeftAntler.label>  <RightAntler.label>오른쪽 뿔</RightAntler.label>  <RearLeftSpur.label>왼쪽 돌기</RearLeftSpur.label>  <RearRightSpur.label>오른쪽 돌기</RearRightSpur.label>  <Bill.label>부리</Bill.label>  <Quills.label>가시</Quills.label>  <InsectStinger.label>침</InsectStinger.label>  <FrontLeftPincer.label>왼쪽 집게발</FrontLeftPincer.label>  <FrontRightPincer.label>오른쪽 집게발</FrontRightPincer.label>  <!--974867140_190519_USCM - Xenomorphs Faction-->  <XenomorphSkull.label>두개골</XenomorphSkull.label>  <BackTubes.label>뇌</BackTubes.label>  <InnerJaw.label>안쪽 턱</InnerJaw.label>  <XenomorphTail.label>꼬리</XenomorphTail.label></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1106719215_190814_Mechanoids Extraordinaire-->
+  <MechanicalThoraxME.label>흉곽</MechanicalThoraxME.label>
+  <MechanicalNeckME.label>목</MechanicalNeckME.label>
+  <MechanicalHeadME.label>머리</MechanicalHeadME.label>
+  <MechanicalThoraxGoliathME.label>흉곽</MechanicalThoraxGoliathME.label>
+  <SightSensorGoliathME.label>시야 센서</SightSensorGoliathME.label>
+  <LimbPortME.label>돌출구 포트</LimbPortME.label>
+  <MechaTentacleME.label>기계 촉수</MechaTentacleME.label>
+  <MechanicalChimeraTailME.label>꼬리</MechanicalChimeraTailME.label>
+  <ExtensionPortME.label>확장 포트</ExtensionPortME.label>
+  <WeaponHolderME.label>무기 고정대</WeaponHolderME.label>
+  <MechanicalLegME.label>다리</MechanicalLegME.label>
+  <MechanicalPawME.label>발</MechanicalPawME.label>
+  <MechanicalTailME.label>꼬리</MechanicalTailME.label>
+  <MechanicalTailKrakenME.label>꼬리</MechanicalTailKrakenME.label>
+
+  <!--1113137502_190707_Genetic Rim-->
+  <GR_Fangs.label>이빨</GR_Fangs.label>
+
+  <!--1136958577_190707_Dinosauria-->
+  <Crest.label>관모</Crest.label>
+  <Spikes.label>가시</Spikes.label>
+  <Club.label>곤봉</Club.label>
+  <SkullDome.label>머리뼈</SkullDome.label>
+  <FootClaw.label>갈고리 발톱</FootClaw.label>
+  <FootClaw.labelShort>발톱</FootClaw.labelShort>
+  <Knucklehead.label>너클헤드</Knucklehead.label>
+
+  <!--1206705240_190519_L-Slimes-->
+  <AICore.label>AI 코어</AICore.label>
+  <MechaniteSwarm.label>메카니트 무리</MechaniteSwarm.label>
+  <SlimeBody.label>몸체</SlimeBody.label>
+  <SlimeMouth.label>입구멍</SlimeMouth.label>
+  <SlimeHeart.label>점액질 핵</SlimeHeart.label>
+  <Floater.label>부유물</Floater.label>
+
+  <!--1217424545_190627_Griffins for Rimworld-->
+  <Griffin_RightWing.label>오른쪽 날개</Griffin_RightWing.label>
+  <Griffin_LeftWing.label>왼쪽 날개</Griffin_LeftWing.label>
+
+  <!--1342364585_190818_Star Wars Animal Collection-->
+  <Claw.label>발톱</Claw.label>
+  <Claw.labelShort>발톱</Claw.labelShort>
+  <Crest.label>볏</Crest.label>
+  <Spikes.label>가시</Spikes.label>
+  <Club.label>몽둥이</Club.label>
+  <SkullDome.label>돔 두개골</SkullDome.label>
+  <LeftClaw.label>왼발톱</LeftClaw.label>
+  <RightClaw.label>오른발톱</RightClaw.label>
+  <LeftAnimalArm.label>왼팔</LeftAnimalArm.label>
+  <RightAnimalArm.label>오른팔</RightAnimalArm.label>
+  <Knucklehead.label>돌머리</Knucklehead.label>
+  <LeftHorn.label>왼쪽 뿔</LeftHorn.label>
+  <RightHorn.label>오른쪽 뿔</RightHorn.label>
+  <FrontHorn.label>앞쪽 뿔</FrontHorn.label>
+  <FrontLeftFoot.label>왼쪽 앞발</FrontLeftFoot.label>
+  <FrontRightFoot.label>오른쪽 앞발</FrontRightFoot.label>
+  <RearLeftFoot.label>왼쪽 뒷발</RearLeftFoot.label>
+  <RearRightFoot.label>오른쪽 뒷발</RearRightFoot.label>
+
+  <!--1542306804_190519_The Zerg!-->
+  <ZergSpine.label>가시</ZergSpine.label>
+  <ZergHeart.label>심장</ZergHeart.label>
+  <HydraliskTail.label>꼬리</HydraliskTail.label>
+  <ZergHeadShell.label>머리 외피</ZergHeadShell.label>
+  <ZergTailSpike.label>꼬리 침</ZergTailSpike.label>
+  <Zerglingwing.label>날개</Zerglingwing.label>
+  <LeftClaw.label>왼 발톱</LeftClaw.label>
+  <RightClaw.label>오른 손톱</RightClaw.label>
+  <LeftScythe.label>왼쪽 낫</LeftScythe.label>
+  <RightScythe.label>오른쪽 낫</RightScythe.label>
+  <LeftAnimalArm.label>왼 팔</LeftAnimalArm.label>
+  <RightAnimalArm.label>오른 팔</RightAnimalArm.label>
+
+  <!--1543566982_190606_Lost Forest-->
+  <LF_LeftWing.label>왼쪽 날개</LF_LeftWing.label>
+  <LF_RightWing.label>오른쪽 날개</LF_RightWing.label>
+
+  <!--1821617793_190811_Magical Menagerie-->
+  <MM_ChimeraTail.label>뱀 머리</MM_ChimeraTail.label>
+  <MM_Goathead.label>염소 머리</MM_Goathead.label>
+  <MM_Wing.label>날개</MM_Wing.label>
+  <MM_ScorpionTail.label>전갈 꼬리</MM_ScorpionTail.label>
+  <MM_Antlers.label>뿔</MM_Antlers.label>
+  <MM_Horns.label>뿔</MM_Horns.label>
+  <MM_PlasmaMembrane.label>플라즈마 막</MM_PlasmaMembrane.label>
+  <MM_Cytoplasm.label>세포질</MM_Cytoplasm.label>
+
+  <!--974867140_190519_USCM - Xenomorphs Faction-->
+  <XenomorphSkull.label>두개골</XenomorphSkull.label>
+  <BackTubes.label>뇌</BackTubes.label>
+  <InnerJaw.label>안쪽 턱</InnerJaw.label>
+  <XenomorphTail.label>꼬리</XenomorphTail.label>
+</LanguageData>

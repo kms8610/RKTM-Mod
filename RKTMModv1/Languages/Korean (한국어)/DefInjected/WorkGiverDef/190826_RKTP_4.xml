@@ -1,1 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>  <!--1742245843_190816_Evolved Organs-->  <DoBillsEvolvedWorkbench.label>장기 키우기</DoBillsEvolvedWorkbench.label>  <DoBillsEvolvedWorkbench.verb>장기 키우기</DoBillsEvolvedWorkbench.verb>  <DoBillsEvolvedWorkbench.gerund>장기 키우기</DoBillsEvolvedWorkbench.gerund>  <!--850429707_190626_RBSE-->  <DoBillsBionicWorkbench.label>의료 물품 제작</DoBillsBionicWorkbench.label>  <DoBillsAdvancedMedicalStation.label>의료 물품 제작</DoBillsAdvancedMedicalStation.label>  <DoBillsBionicWorkbench.verb>의료 물품을 제작합니다.</DoBillsBionicWorkbench.verb>  <DoBillsAdvancedMedicalStation.verb>의료 물품을 제작합니다.</DoBillsAdvancedMedicalStation.verb>  <DoBillsBionicWorkbench.gerund>의료 물품 제작 중.</DoBillsBionicWorkbench.gerund>  <DoBillsAdvancedMedicalStation.gerund>의료 물품 제작 중.</DoBillsAdvancedMedicalStation.gerund></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--850429707_190626_RBSE-->
+  <DoBillsBionicWorkbench.label>의료 물품 제작</DoBillsBionicWorkbench.label>
+  <DoBillsAdvancedMedicalStation.label>의료 물품 제작</DoBillsAdvancedMedicalStation.label>
+  <DoBillsBionicWorkbench.verb>의료 물품을 제작합니다.</DoBillsBionicWorkbench.verb>
+  <DoBillsAdvancedMedicalStation.verb>의료 물품을 제작합니다.</DoBillsAdvancedMedicalStation.verb>
+  <DoBillsBionicWorkbench.gerund>의료 물품 제작 중.</DoBillsBionicWorkbench.gerund>
+  <DoBillsAdvancedMedicalStation.gerund>의료 물품 제작 중.</DoBillsAdvancedMedicalStation.gerund>
+
+</LanguageData>

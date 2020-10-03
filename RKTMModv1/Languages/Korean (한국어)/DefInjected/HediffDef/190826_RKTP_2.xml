@@ -339,32 +339,4 @@
   <MM_OpenWound.injuryProps.destroyedOutLabel>잘려짐</MM_OpenWound.injuryProps.destroyedOutLabel>
   <MM_OpenWound.labelNoun>열린 상처</MM_OpenWound.labelNoun>
 
-  <!--949283405_190618_AnimalCollabProj-->
-  <AcidBurn.label>산성독</AcidBurn.label>
-  <AcidBurn.comps.0.labelTendedWell>붕대 감음</AcidBurn.comps.0.labelTendedWell>
-  <AcidBurn.comps.0.labelTendedWellInner>치료됨</AcidBurn.comps.0.labelTendedWellInner>
-  <AcidBurn.comps.0.labelSolidTendedWell>접합됨</AcidBurn.comps.0.labelSolidTendedWell>
-  <AcidBurn.injuryProps.destroyedLabel>산성독으로 녹아 없어짐</AcidBurn.injuryProps.destroyedLabel>
-  <AcidBurn.injuryProps.destroyedOutLabel>산성독으로 녹아 없어짐</AcidBurn.injuryProps.destroyedOutLabel>
-  <AcidBurn.labelNoun>산성 화상</AcidBurn.labelNoun>
-  <Sting.label>쏘임</Sting.label>
-  <Sting.comps.0.labelTendedWell>붕대 감음</Sting.comps.0.labelTendedWell>
-  <Sting.comps.0.labelTendedWellInner>치료함</Sting.comps.0.labelTendedWellInner>
-  <Sting.comps.0.labelSolidTendedWell>접합됨</Sting.comps.0.labelSolidTendedWell>
-  <Sting.injuryProps.destroyedLabel>끊어짐</Sting.injuryProps.destroyedLabel>
-  <Sting.injuryProps.destroyedOutLabel>잘림</Sting.injuryProps.destroyedOutLabel>
-  <Sting.labelNoun>찔린 상처</Sting.labelNoun>
-  <PlatypusVenom.label>오리너구리 독</PlatypusVenom.label>
-  <PlatypusVenom.stages.0.label>가벼움</PlatypusVenom.stages.0.label>
-  <PlatypusVenom.stages.1.label>심각함</PlatypusVenom.stages.1.label>
-  <PlatypusVenom.stages.2.label>극심함</PlatypusVenom.stages.2.label>
-  <ScorpionVenom.label>전갈독</ScorpionVenom.label>
-  <ScorpionVenom.stages.0.label>가벼움</ScorpionVenom.stages.0.label>
-  <ScorpionVenom.stages.1.label>심각함</ScorpionVenom.stages.1.label>
-  <ScorpionVenom.stages.2.label>극심함</ScorpionVenom.stages.2.label>
-  <ToxicVenom.label>독</ToxicVenom.label>
-  <ToxicVenom.stages.0.label>초기</ToxicVenom.stages.0.label>
-  <ToxicVenom.stages.1.label>중기</ToxicVenom.stages.1.label>
-  <ToxicVenom.stages.2.label>말기</ToxicVenom.stages.2.label>
-
 </LanguageData>

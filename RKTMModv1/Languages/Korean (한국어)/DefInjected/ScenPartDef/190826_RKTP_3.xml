@@ -1,1 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData> 	<!--1568400124_190615_Alien Vs Predator-->	<Rule_HostileWithAll.label>Hostile With All Factions</Rule_HostileWithAll.label>	<!--882126182_181000_Call of Cthulhu - Elder Things-->	<StartingSlave.label>노예로 시작</StartingSlave.label></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--882126182_181000_Call of Cthulhu - Elder Things-->
+  <StartingSlave.label>노예로 시작</StartingSlave.label>
+
+</LanguageData>

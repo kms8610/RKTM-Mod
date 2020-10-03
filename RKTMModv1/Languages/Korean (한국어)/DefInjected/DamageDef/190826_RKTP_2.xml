@@ -126,14 +126,4 @@
   <MM_ToxicBreath.label>독성 숨결</MM_ToxicBreath.label>
   <MM_ToxicBreath.deathMessage>{0}(은)는 중독되어 죽었습니다.</MM_ToxicBreath.deathMessage>
 
-  <!--949283405_190618_AnimalCollabProj-->
-  <AcidBite.label>산성독</AcidBite.label>
-  <AcidBite.deathMessage>{0}(은)는 물려 산성 독으로 사망했습니다.</AcidBite.deathMessage>
-  <Sting.label>쏘임</Sting.label>
-  <Sting.deathMessage>{0}(은)는 쏘여 사망했습니다.</Sting.deathMessage>
-  <ScorpionSting.label>침 쏘임</ScorpionSting.label>
-  <ScorpionSting.deathMessage>{0}(은)는 쏘여 사망했습니다.</ScorpionSting.deathMessage>
-  <PlatypusSting.label>돌기 찔림</PlatypusSting.label>
-  <PlatypusSting.deathMessage>{0}(은)는 돌기에 찔려 사망했습니다.</PlatypusSting.deathMessage>
-
 </LanguageData>

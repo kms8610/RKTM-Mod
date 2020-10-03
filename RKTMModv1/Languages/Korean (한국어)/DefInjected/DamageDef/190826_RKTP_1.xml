@@ -5,16 +5,6 @@
   <ROMV_Drain.deathMessage>{0}(이)가 흡혈되어 사망했습니다.</ROMV_Drain.deathMessage>
   <ROMV_Drain.label>흡혈</ROMV_Drain.label>
 
-  <!--1498573216_181028_Polarisbloc - Mechenemy-->
-  <Vanya_IgnoreDiffusion.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</Vanya_IgnoreDiffusion.deathMessage>
-  <Vanya_IgnoreDiffusionEX.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</Vanya_IgnoreDiffusionEX.deathMessage>
-  <Vanya_IgnoreBleed.deathMessage>{0}(이)가 출혈로 사망했습니다.</Vanya_IgnoreBleed.deathMessage>
-  <Vanya_Burn.deathMessage>{0}(이)가 불에 타 죽었습니다.</Vanya_Burn.deathMessage>
-  <Vanya_IgnoreBleed.label>출혈</Vanya_IgnoreBleed.label>
-  <Vanya_Burn.label>화상</Vanya_Burn.label>
-  <Vanya_IgnoreDiffusion.label>충격파</Vanya_IgnoreDiffusion.label>
-  <Vanya_IgnoreDiffusionEX.label>충격파</Vanya_IgnoreDiffusionEX.label>
-
   <!--1505332648_190519_Gods of Elona [1.0]-->
   <eIceBolt.deathMessage>{0}(은)는 얼음 화살에 굴복하였습니다.</eIceBolt.deathMessage>
   <eIceBolt.label>얼음 화살</eIceBolt.label>

@@ -551,38 +551,6 @@
   <LotR_MedievalVillager.label>당신의 공동체입니다.</LotR_MedievalVillager.label>
   <LotR_MedievalVillager.labelPlural>주민들</LotR_MedievalVillager.labelPlural>
 
-  <!--1498573216_181028_Polarisbloc - Mechenemy-->
-  <VanyaPK_DroidAlpha.label>자폭 드로이드 알파</VanyaPK_DroidAlpha.label>
-  <VanyaPK_DroidAlpha.labelPlural>자폭 드로이드 알파</VanyaPK_DroidAlpha.labelPlural>
-  <VanyaPK_DroidFortress.label>수호자</VanyaPK_DroidFortress.label>
-  <VanyaPK_DroidFortress.labelPlural>수호자</VanyaPK_DroidFortress.labelPlural>
-  <VanyaPK_DroidBetaEX.label>중장갑 휴머노이드 베타-2</VanyaPK_DroidBetaEX.label>
-  <VanyaPK_DroidBetaEX.labelPlural>중장갑 휴머노이드 베타-2</VanyaPK_DroidBetaEX.labelPlural>
-  <VanyaPK_DroidBeta.label>휴머노이드 베타</VanyaPK_DroidBeta.label>
-  <VanyaPK_DroidBeta.labelPlural>휴머노이드 베타</VanyaPK_DroidBeta.labelPlural>
-  <VanyaPK_CASlugger.label>체이서 함대 포병</VanyaPK_CASlugger.label>
-  <VanyaPK_CASlugger.labelPlural>체이서 함대 포병</VanyaPK_CASlugger.labelPlural>
-  <VanyaPK_CAElite.label>체이서 함대 정예</VanyaPK_CAElite.label>
-  <VanyaPK_CAElite.labelPlural>체이서 함대 정예</VanyaPK_CAElite.labelPlural>
-  <VanyaPK_CAGunner.label>체이서 함대 총사</VanyaPK_CAGunner.label>
-  <VanyaPK_CAGunner.labelPlural>체이서 함대 총사</VanyaPK_CAGunner.labelPlural>
-  <VanyaPK_CAFighter.label>체이서 함대 전사</VanyaPK_CAFighter.label>
-  <VanyaPK_CAFighter.labelPlural>체이서 함대 전사</VanyaPK_CAFighter.labelPlural>
-  <VanyaPK_DroidGammaEX.label>중장갑 울프로이드 감마-2</VanyaPK_DroidGammaEX.label>
-  <VanyaPK_DroidGammaEX.labelPlural>중장갑 울프로이드 감마-2</VanyaPK_DroidGammaEX.labelPlural>
-  <VanyaPK_DroidGamma.label>울프로이드 감마</VanyaPK_DroidGamma.label>
-  <VanyaPK_DroidGamma.labelPlural>울프로이드 감마</VanyaPK_DroidGamma.labelPlural>
-  <VanyaPK_DroidRuler.label>심문관</VanyaPK_DroidRuler.label>
-  <VanyaPK_DroidRuler.labelPlural>심문관</VanyaPK_DroidRuler.labelPlural>
-
-  <!--1500248421_181028_Polarisbloc - Security Force-->
-  <Polarisbloc_SFCaptain.label>장교</Polarisbloc_SFCaptain.label>
-  <Polarisbloc_SFCaptain.labelPlural>장교</Polarisbloc_SFCaptain.labelPlural>
-  <Polarisbloc_SFCommander.label>지휘관</Polarisbloc_SFCommander.label>
-  <Polarisbloc_SFCommander.labelPlural>지휘관</Polarisbloc_SFCommander.labelPlural>
-  <Polarisbloc_SFSoldier.label>군인</Polarisbloc_SFSoldier.label>
-  <Polarisbloc_SFSoldier.labelPlural>군인</Polarisbloc_SFSoldier.labelPlural>
-
   <!--1505332648_190519_Gods of Elona [1.0]-->
   <eAndroid.label>안드로이드</eAndroid.label>
   <eAndroid.labelPlural>안드로이드들</eAndroid.labelPlural>

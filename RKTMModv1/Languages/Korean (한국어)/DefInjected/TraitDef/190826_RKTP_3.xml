@@ -1,1 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData> 	<!--1314474881_181118_Avali-->	<FearsFire.degreeDatas.0.label>불 공포증</FearsFire.degreeDatas.0.label>	<FearsFire.degreeDatas.0.description>[PAWN_nameDef](은)는 불을 두려워하고 가능한 불의 원인에서 멀어지려고 합니다.</FearsFire.degreeDatas.0.description>	<!--1365540920_190714_Black Widows-->	<WombMind.degreeDatas.0.label>브루드 마인드</WombMind.degreeDatas.0.label>	<WombMind.degreeDatas.0.description>{PAWN_nameDef}의 부르드 마인드는 [PAWN_pronoun] 자궁에 박힌 코어와 상호주의적 지성 균사체의 광대한 신경 얽힘으로 연결되었으며, [PAWN_pronoun]의 약탈에 가까운 생식방법을 가능하게 하고 지성과 매력을 심오하게 증폭시키지만, 매우 폭력적인 성향으로 만듭니다. 균사체는 감각적인 육체에 대한 참을 수 없는 욕망을 갈구하고 있습니다.</WombMind.degreeDatas.0.description>	<CoreMind.degreeDatas.0.label>코어 마인드</CoreMind.degreeDatas.0.label>	<CoreMind.degreeDatas.0.description>{PAWN_nameDef}의 코어마인드로, 정상적인 지성체들에게서는 머리 속 두개골에서 발견되는 뇌입니다.</CoreMind.degreeDatas.0.description>	<!--1386412863_181117_Android tiers-->	<SimpleMindedAndroid.degreeDatas.0.label>단순한 정신</SimpleMindedAndroid.degreeDatas.0.label>	<SimpleMindedAndroid.degreeDatas.0.description>이 안드로이드는 두뇌의 성능의 한계 때문에 대부분의 감정을 이해하고 느낄 수 없습니다. 이 때문에 사회적 사교 활동이 적게 일어납니다.</SimpleMindedAndroid.degreeDatas.0.description>	<MechAtlas.degreeDatas.0.label>기계화</MechAtlas.degreeDatas.0.label>	<MechAtlas.degreeDatas.0.description>기계화된 병사는 생각하거나 감정을 느끼지 않습니다.</MechAtlas.degreeDatas.0.description>	<Intolerance.degreeDatas.0.label>편협한</Intolerance.degreeDatas.0.label>	<Intolerance.degreeDatas.0.description>[PAWN_nameDef](은)는 기계적인 것이든 생물학적인 것이든 모든 생명체에 대해 편협합니다. 특히 그들의 기분이 우울할 때, 그들은 무작위로 싸움을 일으킬 가능성이 항상 있습니다.</Intolerance.degreeDatas.0.description>	<!--1403998409_190714_Tree People-->	<StrongRoots.degreeDatas.0.label>튼튼한 뿌리</StrongRoots.degreeDatas.0.label>	<StrongRoots.degreeDatas.0.description>[PAWN_nameDef]의 뿌리는 매우 튼튼합니다. 결과적으로 [PAWN_pronoun]는 움직임이 느리지만, 더 안정적입니다.</StrongRoots.degreeDatas.0.description>	<!--1568400124_190615_Alien Vs Predator-->	<RRY_Berserker.degreeDatas.0.label>광전사</RRY_Berserker.degreeDatas.0.label>	<RRY_Berserker.degreeDatas.0.description>[PAWN_nameDef](은)는 [PAWN_alienRace]의 광전사이며, [PAWN_pronoun]는 [PAWN_possessive]부족들과 함께 비무장한 사냥감을 사냥하기 떄문에 [PAWN_pronoun]라이벌 부족들과는 달리 사냥을 명예로 여기지는 않습니다. [PAWN_pronoun]는 잔인하고 무자비한 사냥꾼이며, [PAWN_pronoun]역시 사냥감의 두려움을 음미하는 가학적인 모습을 보입니다. [PAWN_nameDef]의 잔혹성에도 불구하고, [PAWN_pronoun]는 놀랍도록 숙련된 전투원으로, 인간, 제노모프, 프레데터와의 전투에서 거듭 승리하여 이를 증명했습니다. 새삼스러울 것도 없지만, [PAWN_pronoun]의 오만함은 [PAWN_pronoun]의 종말로 되돌아올 것입니다./n/n[PAWN_pronoun]는 다른 사람들보다 사회적 싸움을 시작할 가능성이 4배는 높습니다.</RRY_Berserker.degreeDatas.0.description>	<YautjaBuild.degreeDatas.0.label>건장한</YautjaBuild.degreeDatas.0.label>	<YautjaBuild.degreeDatas.0.description>[PAWN_nameDef](은)는 [PAWN_alienRace]중에서 매우 무거운 체격을 가지고 있으며, [PAWN_pronoun]의 [PAWN_alienRace]동료들에 비해서 높게 뛰지 못하거나, [PAWN_pronoun]가 어디를 갈 때 마다 항상 그룹에서 뒤쳐집니다. 하지만 가장 기초 체력에 있어서, [PAWN_nameDef](은)는 언제나 [PAWN_alienRace]의 평균에 비해 매우 뛰어납니다.</YautjaBuild.degreeDatas.0.description>	<YautjaBuild.degreeDatas.1.label>가벼운</YautjaBuild.degreeDatas.1.label>	<YautjaBuild.degreeDatas.1.description>[PAWN_nameDef](은)는 [PAWN_alienRace]에서 매우 가벼운 체격을 가지고 있으며, [PAWN_pronoun]는 매우 높게 뛰거나 다른 [PAWN_alienRace]동료들보다 빠르게 이동하고 [PAWN_nameDef]을 노리는 공격을 피하고 반격해 상대를 죽일 수 있습니다. 하지만 [PAWN_nameDef](은)는 [PAWN_alienRace]의 일반적인 이들과는 달리 기초적인 체력이 부족하여 힘에서 밀리는 경향이 있습니다.</YautjaBuild.degreeDatas.1.description>	<!--1632244750_190708_Oni of the Rim-->	<Natures_blessing.degreeDatas.0.label>자연의 축복</Natures_blessing.degreeDatas.0.label>	<Natures_blessing.degreeDatas.0.description>일부 오니들은 사람과 동물 모두에게 더 가까이 다가갈 수 있는 차분하고 신비로운 분위기를 풍깁니다.</Natures_blessing.degreeDatas.0.description>	<!--1785657108_190811_Humanoid Project-->	<AvianStorm.degreeDatas.0.label>스톰 캐스터</AvianStorm.degreeDatas.0.label>	<AvianStorm.degreeDatas.0.description>[PAWN_nameDef](은)는 적들에게 강력한 폭풍을 일으킬 수 있는 능력을 얻었습니다. 거대한 폭풍 속에서는 오직 아비안 종족만이 적응할 수 있습니다. 이 특성을 가진 정착민은 다가오는 기상 현상에 대해서 알 수 있게 됩니다.</AvianStorm.degreeDatas.0.description>	<EyesInteractive.degreeDatas.0.label>적응형 눈</EyesInteractive.degreeDatas.0.label>	<EyesInteractive.degreeDatas.0.description>[PAWN_pronoun]는 다양한 조명에 적응할 수 있는 돌연변이 눈을 가지고 있습니다.</EyesInteractive.degreeDatas.0.description></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1314474881_181118_Avali-->
+  <FearsFire.degreeDatas.0.label>불 공포증</FearsFire.degreeDatas.0.label>
+  <FearsFire.degreeDatas.0.description>[PAWN_nameDef](은)는 불을 두려워하고 가능한 불의 원인에서 멀어지려고 합니다.</FearsFire.degreeDatas.0.description>
+
+  <!--1365540920_190714_Black Widows-->
+  <WombMind.degreeDatas.0.label>브루드 마인드</WombMind.degreeDatas.0.label>
+  <WombMind.degreeDatas.0.description>{PAWN_nameDef}의 부르드 마인드는 [PAWN_pronoun] 자궁에 박힌 코어와 상호주의적 지성 균사체의 광대한 신경 얽힘으로 연결되었으며, [PAWN_pronoun]의 약탈에 가까운 생식방법을 가능하게 하고 지성과 매력을 심오하게 증폭시키지만, 매우 폭력적인 성향으로 만듭니다. 균사체는 감각적인 육체에 대한 참을 수 없는 욕망을 갈구하고 있습니다.</WombMind.degreeDatas.0.description>
+  <CoreMind.degreeDatas.0.label>코어 마인드</CoreMind.degreeDatas.0.label>
+  <CoreMind.degreeDatas.0.description>{PAWN_nameDef}의 코어마인드로, 정상적인 지성체들에게서는 머리 속 두개골에서 발견되는 뇌입니다.</CoreMind.degreeDatas.0.description>
+
+  <!--1386412863_181117_Android tiers-->
+  <SimpleMindedAndroid.degreeDatas.0.label>단순한 정신</SimpleMindedAndroid.degreeDatas.0.label>
+  <SimpleMindedAndroid.degreeDatas.0.description>이 안드로이드는 두뇌의 성능의 한계 때문에 대부분의 감정을 이해하고 느낄 수 없습니다. 이 때문에 사회적 사교 활동이 적게 일어납니다.</SimpleMindedAndroid.degreeDatas.0.description>
+  <MechAtlas.degreeDatas.0.label>기계화</MechAtlas.degreeDatas.0.label>
+  <MechAtlas.degreeDatas.0.description>기계화된 병사는 생각하거나 감정을 느끼지 않습니다.</MechAtlas.degreeDatas.0.description>
+  <Intolerance.degreeDatas.0.label>편협한</Intolerance.degreeDatas.0.label>
+  <Intolerance.degreeDatas.0.description>[PAWN_nameDef](은)는 기계적인 것이든 생물학적인 것이든 모든 생명체에 대해 편협합니다. 특히 그들의 기분이 우울할 때, 그들은 무작위로 싸움을 일으킬 가능성이 항상 있습니다.</Intolerance.degreeDatas.0.description>
+
+  <!--1403998409_190714_Tree People-->
+  <StrongRoots.degreeDatas.0.label>튼튼한 뿌리</StrongRoots.degreeDatas.0.label>
+  <StrongRoots.degreeDatas.0.description>[PAWN_nameDef]의 뿌리는 매우 튼튼합니다. 결과적으로 [PAWN_pronoun]는 움직임이 느리지만, 더 안정적입니다.</StrongRoots.degreeDatas.0.description>
+
+  <!--1632244750_190708_Oni of the Rim-->
+  <Natures_blessing.degreeDatas.0.label>자연의 축복</Natures_blessing.degreeDatas.0.label>
+  <Natures_blessing.degreeDatas.0.description>일부 오니들은 사람과 동물 모두에게 더 가까이 다가갈 수 있는 차분하고 신비로운 분위기를 풍깁니다.</Natures_blessing.degreeDatas.0.description>
+
+  <!--1785657108_190811_Humanoid Project-->
+  <AvianStorm.degreeDatas.0.label>스톰 캐스터</AvianStorm.degreeDatas.0.label>
+  <AvianStorm.degreeDatas.0.description>[PAWN_nameDef](은)는 적들에게 강력한 폭풍을 일으킬 수 있는 능력을 얻었습니다. 거대한 폭풍 속에서는 오직 아비안 종족만이 적응할 수 있습니다. 이 특성을 가진 정착민은 다가오는 기상 현상에 대해서 알 수 있게 됩니다.</AvianStorm.degreeDatas.0.description>
+  <EyesInteractive.degreeDatas.0.label>적응형 눈</EyesInteractive.degreeDatas.0.label>
+  <EyesInteractive.degreeDatas.0.description>[PAWN_pronoun]는 다양한 조명에 적응할 수 있는 돌연변이 눈을 가지고 있습니다.</EyesInteractive.degreeDatas.0.description>
+
+</LanguageData>

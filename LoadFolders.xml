@@ -16,7 +16,6 @@
 	<li IfModActive="machine.rtr">Raise The Roof - 1776143665 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VCookESushi">Vanilla Cooking Expanded - Sushi - 2158539170 [1.2]</li>
 	<li IfModActive="smashphil.neceros.srtsexpanded">SRTS Expanded - 1845423808 [1.2]</li>
-	<li IfModActive="Vanya.Polarisbloc.CoreLab">Polarisbloc - Core LAB - 1500244593 [1.2]</li>
 	<li IfModActive="Mlie.Horrors">Horrors (Continued) - 2036315072 [1.2]</li>
 	<li IfModActive="EdB.PrepareCarefully">EdB Prepare Carefully - 735106432 [1.2]</li>
 	<li IfModActive="sumghai.medpod">MedPod - 2153065191 [1.2]</li>
@@ -81,7 +80,6 @@
 	<li IfModActive="handandfootwear.kv.rw">Hand 'n' Footwear - 1502703299 [1.2]</li>
 	<li IfModActive="neceros.wallsunlamp">Wall Sun Lamp - 1825653111 [1.2]</li>
 	<li IfModActive="Ravvy.AMW">Advanced Mechanoid Warfare - 2119930282 [1.2]</li>
-	<li IfModActive="Mlie.Aquarium">Aquarium (Continued) - 2194463553 [1.2]</li>
 	<!-- 20.08.16 -->
     <li IfModActive="avilmask.CommonSense">Common Sense - 1561769193 [1.2]</li>
 	<!-- 20.08.30 -->
@@ -137,7 +135,6 @@
 	<li IfModActive="OskarPotocki.VFE.Insectoid">Vanilla Factions Expanded - Insectoids - 2149755445 [1.2]</li>
 	<!-- 20.09.19 -->
 	<li IfModActive="Albion.GoExplore">Go Explore! - 1814100216 [1.2]</li>
-	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
 	<!-- 20.09.20 -->
 	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700 [1.2]</li>
 	<li IfModActive="dismarzero.VGP.VGPGardenResources">VGP Garden Resources - 2007063451 [1.2]</li>
@@ -180,6 +177,23 @@
 	<!-- 20.10.02 -->
 	<li IfModActive="tachyonite.pawnmorpherpublic">Pawnmorpher - 1786466855 [1.2]</li>
 	<li IfModActive="Ekai.FavLocker">Fav Locker - 2160977038 [1.2]</li>
+	<li IfModActive="Vanya.Polarisbloc.CoreLab">Polarisbloc - Core LAB - 1500244593 [1.2]</li>
+	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
+	<!-- 20.10.03 -->
+	<li IfModActive="Mlie.Aquarium">Aquarium (Continued) - 2194463553 [1.2]</li>
+	<li IfModActive="Ykara.EPOE">Expanded Prosthetics and Organ Engineering - 725956940 [1.2]</li>
+	<li IfModActive="Stolij.MoreBatteries">More Batteries - 747397788 [1.2]</li>
+	<li IfModActive="TheGoofyOne.Flashlights">Flashlights - 1746902829 [1.2]</li>
+	<li IfModActive="syrchalis.universalfermenter">Universal Fermenter - 2073225100 [1.2]</li>
+	<li IfModActive="Xahkarias.EvolvedOrgansRedux">EvolvedOrgansRedux - 1978492655 [1.1]</li>
+	<li IfModActive="savestoragesettings.kv.rw">Save Storage, Outfit, Crafting, Drug, Operation Settings - 1180718516 [1.2]</li>
+	<li IfModActive="Mlie.TemperatureGauge">Temperature Gauge (Continued) - 2017464494 [1.2]</li>
+	<li IfModActive="Abraxas.MSERevived">Medical System Expansion - Revived - 2006968859 [1.2]</li>
+	<li IfModActive="Ogliss.AlienVsPredator">Alien Vs Predator - 2034103876 [1.2]</li>
+	<li IfModActive="Vanya.Polarisbloc.Mechenemy">Polarisbloc - Mechenemy - 1498573216 [1.2]</li>
+	<li IfModActive="troopersmith1.RealisticChocolateProduction">Realistic Chocolate Production Continued - 2039647545 [1.2]</li>
+	<li IfModActive="Vanya.Polarisbloc.SecurityForce">Polarisbloc - Security Force - 1500248421 [1.2]</li>
+	<li IfModActive="Vanya.Polarisbloc.StorytellerIncidentsPack">Polarisbloc - Storyteller incidents pack - 1498572835 [1.2]</li>
   </v1.2>
 
 </loadFolders>

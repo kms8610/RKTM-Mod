@@ -1,14 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--1568400124_190615_Alien Vs Predator-->
-  <RRY_Ability_Throw_CombiStick.label>투척 콤비 스틱(Combistick)</RRY_Ability_Throw_CombiStick.label>
-  <RRY_Ability_Throw_CombiStick.description>투척 콤비 스틱(Combistick).</RRY_Ability_Throw_CombiStick.description>
-  <RRY_Ability_Throw_SmartDisk.label>투척 스마트디스크</RRY_Ability_Throw_SmartDisk.label>
-  <RRY_Ability_Throw_SmartDisk.description>투척 스마트디스크.</RRY_Ability_Throw_SmartDisk.description>
-  <RRY_Ability_SpitAcid.label>산성액 분사</RRY_Ability_SpitAcid.label>
-  <RRY_Ability_SpitAcid.description>목표를 향해 산성액을 분사합니다.</RRY_Ability_SpitAcid.description>
-
   <!--1785657108_190811_Humanoid Project-->
   <AvianPower.label>루닉 볼트</AvianPower.label>
   <AvianPower.description>아비안 종족이 만들 수 있는 루닉 볼트입니다. 엄청난 충격 범위를 가지고 있습니다. 루닉 화염은 일반적으로는 끌 수 없지만, 현계에 오래 존재할 수 없기 때문에 매우 빠르게 사라집니다. 경고! "루닉 화제"는 비정상적으로 "일반 화제"를 퍼뜨릴 수 있으므로 정착지 근처에 발생하면 매우 조심해야 합니다. (볼트를 던지기 전에 주변이 깨끗한지를 확인하세요)</AvianPower.description>

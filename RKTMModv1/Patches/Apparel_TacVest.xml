@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
 
-  <Operation Class="PatchOperationFindMod">
+  <!-- <Operation Class="PatchOperationFindMod">
     <mods>
       <li>Rimsenal - Enhanced Vanilla Pack</li>
     </mods>
@@ -22,7 +22,7 @@
 		</li>
 	  </operations>
     </match>
-  </Operation>
+  </Operation> -->
 
   <Operation Class="PatchOperationFindMod">
     <mods>

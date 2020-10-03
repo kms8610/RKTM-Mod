@@ -474,20 +474,6 @@
   <SyrTeaHigh.stages.0.label>차분해짐</SyrTeaHigh.stages.0.label>
   <SyrTeaHigh.labelNoun>차의 효과</SyrTeaHigh.labelNoun>
 
-  <!--1498573216_181028_Polarisbloc - Mechenemy-->
-  <Vanya_IgnoreBleed.comps.0.labelTendedWell>붕대감음</Vanya_IgnoreBleed.comps.0.labelTendedWell>
-  <Vanya_IgnoreBleed.label>출혈</Vanya_IgnoreBleed.label>
-  <Vanya_IgnoreBleed.injuryProps.destroyedLabel>끊어짐</Vanya_IgnoreBleed.injuryProps.destroyedLabel>
-  <Vanya_IgnoreBleed.injuryProps.destroyedOutLabel>잘림</Vanya_IgnoreBleed.injuryProps.destroyedOutLabel>
-  <Vanya_CombatRations.label>군용 식량</Vanya_CombatRations.label>
-  <Vanya_IgnoreBleed.comps.0.labelSolidTendedWell>접합됨</Vanya_IgnoreBleed.comps.0.labelSolidTendedWell>
-  <Vanya_StabPowerCore.label>안정-전력 핵</Vanya_StabPowerCore.label>
-  <Vanya_IgnoreBleed.comps.0.labelTendedWellInner>봉합됨</Vanya_IgnoreBleed.comps.0.labelTendedWellInner>
-  <Vanya_ConsciousnessCube.label>의식관</Vanya_ConsciousnessCube.label>
-
-  <!--1500248421_181028_Polarisbloc - Security Force-->
-  <Polarisbloc_EmergencyFood.label>군용 식량</Polarisbloc_EmergencyFood.label>
-
   <!--1505914869_190616_What the hack!-->
   <WTH_ShutDown.label>전원 정지</WTH_ShutDown.label>
   <WTH_ShutDown.labelNoun>전원을 정지합니다.</WTH_ShutDown.labelNoun>

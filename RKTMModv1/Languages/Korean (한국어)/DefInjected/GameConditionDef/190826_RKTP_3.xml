@@ -1,1 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData> 	<!--1416483638_190811_Orassans-->	<OrassanBombardmentCondition.label>폭격</OrassanBombardmentCondition.label>	<OrassanBombardmentCondition.description>오라산 인들이 당신을 별로 마음에 들어하지 않습니다. 그들은 당신에게 지옥을 보여줄 것입니다.</OrassanBombardmentCondition.description>	<OrassanBombardmentCondition.endMessage>폭격이 종료 되었습니다.</OrassanBombardmentCondition.endMessage>	<!--1568400124_190615_Alien Vs Predator-->	<RRY_Xenomorph_PowerCut.label>전력 절단</RRY_Xenomorph_PowerCut.label>	<RRY_Xenomorph_PowerCut.description>"저들이 전력을 끊었습니다"가 대체 무슨 뜻일까요? 어떻게 전력을 끊을 수 있었던 것이지? 저들은 동물인데 말이죠!</RRY_Xenomorph_PowerCut.description>	<RRY_Xenomorph_PowerCut.endMessage>전력이 복구되었습니다.</RRY_Xenomorph_PowerCut.endMessage>	<!--1785657108_190811_Humanoid Project-->	<RunicStorm.label>루닉 폭풍</RunicStorm.label>	<RunicStorm.description>국지적인 루닉 폭풍이 몰아치면서 거대한 번개가 좁은 지역을 강타하고 있습니다.</RunicStorm.description>	<RunicStorm.endMessage>루닉 폭풍이 끝났습니다.</RunicStorm.endMessage></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData> 
+
+	<!--1416483638_190811_Orassans-->
+	<OrassanBombardmentCondition.label>폭격</OrassanBombardmentCondition.label>
+	<OrassanBombardmentCondition.description>오라산 인들이 당신을 별로 마음에 들어하지 않습니다. 그들은 당신에게 지옥을 보여줄 것입니다.</OrassanBombardmentCondition.description>
+	<OrassanBombardmentCondition.endMessage>폭격이 종료 되었습니다.</OrassanBombardmentCondition.endMessage>
+
+	<!--1785657108_190811_Humanoid Project-->
+	<RunicStorm.label>루닉 폭풍</RunicStorm.label>
+	<RunicStorm.description>국지적인 루닉 폭풍이 몰아치면서 거대한 번개가 좁은 지역을 강타하고 있습니다.</RunicStorm.description>
+	<RunicStorm.endMessage>루닉 폭풍이 끝났습니다.</RunicStorm.endMessage>
+</LanguageData>

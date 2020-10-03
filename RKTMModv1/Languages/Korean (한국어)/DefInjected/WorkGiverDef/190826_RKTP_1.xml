@@ -11,11 +11,6 @@
   <DoBillsWoodworking.verb>목공</DoBillsWoodworking.verb>
   <DoBillsWoodworking.gerund>목공</DoBillsWoodworking.gerund>
 
-  <!--1089876213_190622_Omni Core Drill-->
-  <DoBillsCoreMine.label>깊은 중심부 채굴하기</DoBillsCoreMine.label>
-  <DoBillsCoreMine.verb>채굴</DoBillsCoreMine.verb>
-  <DoBillsCoreMine.gerund>에서 채굴 중.</DoBillsCoreMine.gerund>
-
   <!--1120445716_190627_Reclaim, Reuse, Recycle-->
   <R3_DoWorkHarvestCorpse.label>시체 적출</R3_DoWorkHarvestCorpse.label>
   <R3_DoWorkRefurbish.label>신체부위 복원/소독</R3_DoWorkRefurbish.label>
