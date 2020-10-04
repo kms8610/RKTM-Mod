@@ -11,16 +11,6 @@
   <MantoPoisonTrap.label>독</MantoPoisonTrap.label>
   <MantoPoisonTrap.deathMessage>{0}(은)는 중독되어 죽었습니다.</MantoPoisonTrap.deathMessage>
 
-  <!--1314474881_181118_Avali-->
-  <PlasmaCut.label>플라스마 절단</PlasmaCut.label>
-  <PlasmaCut.deathMessage>{0}(이)가 잘려 죽었습니다.</PlasmaCut.deathMessage>
-  <PlasmaBullet.label>플라스마 총알</PlasmaBullet.label>
-  <PlasmaBullet.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</PlasmaBullet.deathMessage>
-  <PlasmaBomb.label>플라스마 폭탄</PlasmaBomb.label>
-  <PlasmaBomb.deathMessage>{0}(이)가 폭사했습니다.</PlasmaBomb.deathMessage>
-  <EMPOrb.label>에너지 오브</EMPOrb.label>
-  <EMPOrb.deathMessage>{0}(이)가 EMP에 휩쓸려 죽었습니다.</EMPOrb.deathMessage>
-
   <!--1365540920_190714_Black Widows-->
   <BW_Slash.label>블랙 위도우 강타</BW_Slash.label>
   <BW_Slash.deathMessage>{0}(은)는 물려죽었습니다.</BW_Slash.deathMessage>

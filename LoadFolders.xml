@@ -153,10 +153,10 @@
 	<li IfModActive="dismarzero.VGP.VGPGardenMedicine">VGP Garden Medicine - 2007063140 [1.2]</li>
 	<li IfModActive="yrtwof.Rimpedia">Rimpedia - 2145524536 [1.2]</li>
 	<li IfModActive="UnlimitedHugs.AllowTool">Allow Tool - 761421485 [1.2]</li>
-	<!-- 20.09.30 최적화 -->
+	<!-- 20.09.30 -->
 	<li IfModActive="Oblitus.AnimalsLogic">Animals Logic - 1098354593 [1.2]</li>
 	<li IfModActive="Mlie.Antinium">Antinium (Continued) - 2209261976 [1.2]</li>
-	<!-- 20.10.01 최적화 -->
+	<!-- 20.10.01 -->
 	<li IfModActive="khamenman.armorracks">Armor Racks - 1875828205 [1.2]</li>
 	<li IfModActive="Mlie.BestMix">Best Mix (Continued) - 2195986094 [1.2]</li>
 	<li IfModActive="Mlie.SDBridges">Bridges (Continued) - 2036488024 [1.2]</li>
@@ -194,6 +194,21 @@
 	<li IfModActive="troopersmith1.RealisticChocolateProduction">Realistic Chocolate Production Continued - 2039647545 [1.2]</li>
 	<li IfModActive="Vanya.Polarisbloc.SecurityForce">Polarisbloc - Security Force - 1500248421 [1.2]</li>
 	<li IfModActive="Vanya.Polarisbloc.StorytellerIncidentsPack">Polarisbloc - Storyteller incidents pack - 1498572835 [1.2]</li>
+	<!-- 20.10.04 -->
+	<li IfModActive="Mlie.CallofCthulhuCosmicHorrors">Call of Cthulhu - Cosmic Horrors (Continued) - 2246088032 [1.2]</li>
+	<li IfModActive="Bennington.CyberPunk">Cyberpunk - 2129832774 [1.2]</li>
+	<li IfModActive="spincrus.dinosauria">Dinosauria - 1136958577 [1.2]</li>
+	<li IfModActive="sarg.geneticrim">Genetic Rim - 1113137502 [1.2]</li>
+	<li IfModActive="goudaquiche.lighterthanfast">Lighter Than Fast - 1240656304 [1.2]</li>
+	<li IfModActive="032.1x1bed">1x1bed - 1417873240 [1.1]</li>
+	<li IfModActive="zzz.2x2HydroponicswithSunlamp">2x2 Hydroponics with Sunlamp - 1330587565 [1.2]</li>
+	<li IfModActive="Mehni.Misc.Modifications">4M Mehni's Misc Modifications - 2228765246 [1.2]</li>
+	<li IfModActive="spoonshortage.ADogSaidAnimalProsthetics">A Dog Said... Animal Prosthetics - 746425621 [1.2]</li>
+	<li IfModActive="Mehni.PickUpAndHaul">Pick Up And Haul - 1279012058 [1.1]</li>
+	<li IfModActive="Gewen.AdditionalTraits">Additional Traits (Heroes + Gods Optional) - 1621571024 [1.2]</li>
+	<li IfModActive="Ogliss.AdMech.Armoury">Adeptus Mechanicus Armoury - 1541438614 [1.2]</li>
+	<li IfModActive="RH.Faction.VOID">Faction VOID - 2130955778 [1.1]</li>
+	<li IfModActive="BOXrsxx.MorePracticalTraits">More Practical Traits - 1568700181 [1.1]</li>
   </v1.2>
 
 </loadFolders>

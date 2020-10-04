@@ -353,14 +353,6 @@
   <Optics.description>소총에 달리는 광학장비를 생산하는 법을 배웁니다.</Optics.description>
   <Optics.label>광학장비</Optics.label>
 
-  <!--1543060282_181101_Additional Joy Objects-->
-  <AJO_ArcadeConstruction.description>정착민들이 게임 카트리지를 복사하고 오락기를 조립할 수 있게 합니다.</AJO_ArcadeConstruction.description>
-  <AJO_TemperaPainting.description>스펙타고 색소와 계란을 섞어 더 효율적인 물감을 만들 수 있게 합니다.</AJO_TemperaPainting.description>
-  <AJO_ArcadeConstruction.label>오락기 건설</AJO_ArcadeConstruction.label>
-  <AJO_PerodyneProduction.description>행복감을 유발하는 진통제인 페로다인을 제조하는 법을 배웁니다.</AJO_PerodyneProduction.description>
-  <AJO_PerodyneProduction.label>페로다인 제조</AJO_PerodyneProduction.label>
-  <AJO_TemperaPainting.label>템페라 물감</AJO_TemperaPainting.label>
-
   <!--1546657623_190628_Tiny Workbenchs-->
   <TWB_TinyWorkBenchs.description>작은 잡업대를 허용합니다. 사이즈가 작아 작업대를 만드는데 자원이 적게들지만 약하고 제작속도가 느립니다</TWB_TinyWorkBenchs.description>
   <TWB_TinyWorkBenchs.label>작은 작업대</TWB_TinyWorkBenchs.label>
@@ -611,14 +603,6 @@
   <Mending.description>손상된 아이템을 수선하거나 수리합니다.</Mending.description>
   <Mending.label>수선</Mending.label>
 
-  <!--746425621_181026_A dog said-->
-  <AnimalBionics.label>생체공학 동물</AnimalBionics.label>
-  <AnimalHeal.label>동물 치료</AnimalHeal.label>
-  <AnimalHeal.description>동물의 오래된 상처를 치료하는 방법을 연구합니다.</AnimalHeal.description>
-  <AnimalBionics.description>생체공학 동물 이식물을 제작하고 사용하는 법을 연구합니다.</AnimalBionics.description>
-  <SimpleAnimalProsthetics.description>간단한 동물 보철물을 제작하고 사용하는 법을 연구합니다.</SimpleAnimalProsthetics.description>
-  <SimpleAnimalProsthetics.label>간단한 동물 보철물</SimpleAnimalProsthetics.label>
-
   <!--747645520_190627_Misc. Robots++-->
   <RPP_Research_Omni_V.label>반물질 논리회로\n옴닉로봇</RPP_Research_Omni_V.label>
   <RPP_Research_Builder_All.label>건설로봇</RPP_Research_Builder_All.label>
@@ -692,28 +676,6 @@
   <Estate_TechArcLamps.description>간단한 전압 발화장치를 사용해 전력을 사용하는 등을 만들 수 있습니다.</Estate_TechArcLamps.description>
   <Estate_TechCandleLights.label>밀랍 연료 조명</Estate_TechCandleLights.label>
   <Estate_TechWoodStoveFurnace.label>장작 난로</Estate_TechWoodStoveFurnace.label>
-
-  <!--815039373_181117_Call of Cthulhu - Cults-->
-  <Forbidden_Reports.description>가장 최근의 의식 결과를 자세히 보여주는 창을 제단에 추가합니다.</Forbidden_Reports.description>
-  <Forbidden_Obelisks.description>오벨리스크를 건선할 수 있습니다.</Forbidden_Obelisks.description>
-  <Forbidden_Attire.description>다양한 가면과 두건, 의복을 제작할 수 있습니다. 적절한 의복을 착용하면 의식의 성공확률이 증가합니다.</Forbidden_Attire.description>
-  <Forbidden_Sculptures.description>외부의 존재에게 헌정하기 위한 신비로운 조각상을 디자인하고 창작할 수 있습니다.</Forbidden_Sculptures.description>
-  <Forbidden_Altar.description>제단을 만들어 이 세상너머의 존재들을 위한 의식을 할 수 있습니다.</Forbidden_Altar.description>
-  <Forbidden_Human.description>인신공양의 제단으로 증축하여 우주의 존재들로부터 이익을 얻을 수 있습니다.</Forbidden_Human.description>
-  <Forbidden_Sacrifice.description>차원의 존재에 대해 더 큰 감사를 표하기 위해 제단을 희생의 제단으로 증축합니다.</Forbidden_Sacrifice.description>
-  <Forbidden_Altar.label>제단</Forbidden_Altar.label>
-  <Forbidden_Sacrifice.label>희생의 제단</Forbidden_Sacrifice.label>
-  <Forbidden_Reports.label>연대기</Forbidden_Reports.label>
-  <Forbidden_Studies.label>이상한 기호 해독</Forbidden_Studies.label>
-  <Forbidden_Studies.description>더 많은 연구를 할 수 있도록 몇가지의 부호를 해독합니다.</Forbidden_Studies.description>
-  <Forbidden_Human.label>인신공양</Forbidden_Human.label>
-  <Forbidden_Obelisks.label>오벨리스크 건설</Forbidden_Obelisks.label>
-  <Forbidden_Deities.label>신적 조사</Forbidden_Deities.label>
-  <Forbidden_Deities.description>새로운 신들을 발견하기 위한 연구를 반복합니다.</Forbidden_Deities.description>
-  <Forbidden_Lore.description>연구를 하면서 사교기술과 숭배심을 향상시키기 위한 연구를 반복합니다.\n\n이 연구는 전도사가 될 폰에게 권장합니다.</Forbidden_Lore.description>
-  <Forbidden_Attire.label>의례복</Forbidden_Attire.label>
-  <Forbidden_Sculptures.label>조각상</Forbidden_Sculptures.label>
-  <Forbidden_Lore.label>성공적 숭배학습</Forbidden_Lore.label>
 
   <!--823626435_190622_Super Soil-->
   <supersoil.description>흙에 영양소를 추가하는 기초 균사체 네트워크를 통해 작물을 더 빠르게 재배합니다.</supersoil.description>

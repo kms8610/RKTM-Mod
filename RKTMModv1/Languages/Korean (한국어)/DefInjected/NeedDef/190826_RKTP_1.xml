@@ -47,10 +47,6 @@
   <Mizu_Water.label>물</Mizu_Water.label>
   <Mizu_Water.description>최근에 생물이 섭취한 물의 양입니다. 0이 될 경우, 생물은 점점 탈수되어 결국 죽게 될 것입니다.</Mizu_Water.description>
 
-  <!--1543060282_181101_Additional Joy Objects-->
-  <Chemical_Perodyne.description>페로다인 의존증의 심화로 인해, 이 정착민은 금단현상을 피하기 위해 주기적으로 약물을 섭취해야 합니다.</Chemical_Perodyne.description>
-  <Chemical_Perodyne.label>페로다인</Chemical_Perodyne.label>
-
   <!--1559034352_181116_Diseases overhauled-->
   <Chemical_Mortracain.description>몰트라카인 중독으로 인해 금단현상을 피하기 위해서는 정기적으로 약을 복용 해야합니다.</Chemical_Mortracain.description>
   <Chemical_Tranquiazepin.description>트란키아제핀 중독으로 인해 금단현상을 피하기 위해서는 정기적으로 약을 복용 해야합니다.</Chemical_Tranquiazepin.description>
@@ -68,10 +64,6 @@
   <!--775650249_181117_RimMagic-->
   <need_blood.label>피</need_blood.label>
   <need_blood.description>이 사람은 흡혈귀이며, 살아남기 위해 피를 필요로 합니다. 혹은 마실 것을 잘못 택한 평범한 사람일지도요.</need_blood.description>
-
-  <!--815039373_181117_Call of Cthulhu - Cults-->
-  <CultMindedness.label>숭배 의식</CultMindedness.label>
-  <CultMindedness.description>이 종교적 의식은 개척자를 받아들이는 것이 종교활동과 가까운 행동임을 보여줍니다. 광신자의 행동이나 종교 활동으로\n\nIF의 수치가 주요 임계값을 초과하면 정착지에 합류하며,\n\nIF의 수치가 부적함 임계값을 초과하면 정착민이 적대적이 될 수 있습니다.</CultMindedness.description>
 
   <!--918226861_190816_Star Wars - The Force-->
   <PJ_ForcePool.description>정착지인의 현재 포스 풀 레벨</PJ_ForcePool.description>

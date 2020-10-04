@@ -1,1 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData> 	<!--1113137502_190707_Genetic Rim-->	<GR_ElectroEgg.label>활성 메카나이트</GR_ElectroEgg.label>	<GR_ElectroEgg.description>활성 메카나이트의 의존성이 발달했기 때문에 이 환자는 금단 증상을 피하기 위해 약물을 정기적으로 섭취해야 합니다.</GR_ElectroEgg.description>	<GR_Chemical_Featherdust.label>깃털가루</GR_Chemical_Featherdust.label>	<GR_Chemical_Featherdust.description>깃털가루의 의존성이 발달했기 때문에 이 환자는 금단 증상을 피하기 위해 약물을 정기적으로 섭취해야 합니다.</GR_Chemical_Featherdust.description>	<GR_Chemical_RoyalJelly.label>로열 젤리</GR_Chemical_RoyalJelly.label>	<GR_Chemical_RoyalJelly.description>로열 젤리 중독 때문에이 환자는 금단 증상을 피하기 위해 약물을 정기적으로 섭취해야 합니다.</GR_Chemical_RoyalJelly.description>	<!--1206705240_190519_L-Slimes-->	<Chemical_MixedSlimedrug.label>혼합 슬라임마약</Chemical_MixedSlimedrug.label>	<Chemical_MixedSlimedrug.description>혼합 슬라임마약에 중독되었습니다. 이 사람은 금단증상을 피하기 위해 정기적으로 마약을 소비해야만 합니다.</Chemical_MixedSlimedrug.description>	<Chemical_Slimedrug.label>슬라임마약</Chemical_Slimedrug.label>	<Chemical_Slimedrug.description>이 사람은 슬라임마약 중독 때문에 금단증상을 피하려면 정기적으로 약물을 섭취해야 합니다.</Chemical_Slimedrug.description></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1206705240_190519_L-Slimes-->
+  <Chemical_MixedSlimedrug.label>혼합 슬라임마약</Chemical_MixedSlimedrug.label>
+  <Chemical_MixedSlimedrug.description>혼합 슬라임마약에 중독되었습니다. 이 사람은 금단증상을 피하기 위해 정기적으로 마약을 소비해야만 합니다.</Chemical_MixedSlimedrug.description>
+  <Chemical_Slimedrug.label>슬라임마약</Chemical_Slimedrug.label>
+  <Chemical_Slimedrug.description>이 사람은 슬라임마약 중독 때문에 금단증상을 피하려면 정기적으로 약물을 섭취해야 합니다.</Chemical_Slimedrug.description>
+
+</LanguageData>

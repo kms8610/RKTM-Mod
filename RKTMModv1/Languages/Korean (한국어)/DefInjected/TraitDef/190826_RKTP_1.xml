@@ -241,12 +241,6 @@
   <AIRobot_BaseTrait.degreeDatas.0.label>로봇</AIRobot_BaseTrait.degreeDatas.0.label>
   <AIRobot_BaseTrait.degreeDatas.0.description>[PAWN_nameDef](은)는 로봇입니다. [PAWN_nameDef](은)는 조금 더 빠르고, 초자연적인 현상에 그다지 민감하지 않습니다.</AIRobot_BaseTrait.degreeDatas.0.description>
 
-  <!--815039373_181117_Call of Cthulhu - Cults-->
-  <Cults_OathtakerHastur.degreeDatas.0.description>[PAWN_nameDef](은)는 깨지지 않는 계약을 맺었습니다. [PAWN_pronoun]는 죽은 사람들에게서 돌아올 것이고, 잃어버린 도시를 통치하는 노란옷의 왕이 될 것입니다.</Cults_OathtakerHastur.degreeDatas.0.description>
-  <Cults_OathtakerHastur2.degreeDatas.0.description>[PAWN_nameDef](은)는 다시한번 섬김으로써 죽음에서 소생했습니다.</Cults_OathtakerHastur2.degreeDatas.0.description>
-  <Cults_OathtakerHastur.degreeDatas.0.label>계약자</Cults_OathtakerHastur.degreeDatas.0.label>
-  <Cults_OathtakerHastur2.degreeDatas.0.label>부활</Cults_OathtakerHastur2.degreeDatas.0.label>
-
   <!--820066993_190621_Uni Rim - Tag Trait-->
   <TAG.degreeDatas.0.label>알파 TAG</TAG.degreeDatas.0.label>
   <TAG.degreeDatas.0.description>[PAWN_nameDef](은)는 뇌 손상으로 인해 이상한 능력을 얻게 되었습니다.</TAG.degreeDatas.0.description>

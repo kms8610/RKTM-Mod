@@ -34,10 +34,6 @@
   <!--1231678757_190814_Technology Blueprints-->
   <UseTechnologyBlueprint.reportString>기술 청사진 사용하기</UseTechnologyBlueprint.reportString>
 
-  <!--1279012058_190622_Pick Up And Haul-->
-  <HaulToInventory.reportString>TargetA(을)를 운반하기 위해 소지품에 넣는 중.</HaulToInventory.reportString>
-  <UnloadYourHauledInventory.reportString>물품 재고 정리 중.</UnloadYourHauledInventory.reportString>
-
   <!--1316188771_190621_Door Expanded-->
   <PH_PushButton.reportString>TargetA 누르는 중.</PH_PushButton.reportString>
   <PH_FlipOrPress.reportString>TargetA 사용 중.</PH_FlipOrPress.reportString>
@@ -108,27 +104,6 @@
   <Mizu_Nurse.reportString>TargetA(을)를 간호하는 중.</Mizu_Nurse.reportString>
   <Mizu_SupplyWaterToTool.reportString>TargetB에 물 공급하는 중.</Mizu_SupplyWaterToTool.reportString>
   <Mizu_WaterFarm.reportString>TargetA에서 물 끌어올리는 중.</Mizu_WaterFarm.reportString>
-
-  <!--1543060282_181101_Additional Joy Objects-->
-  <AJO_Doodle.reportString>끄적여보는 중.</AJO_Doodle.reportString>
-  <AJO_InterpretArt.reportString>예술을 해석하는 중.</AJO_InterpretArt.reportString>
-  <AJO_PlayArcadeHomebrew.reportString>오락기 게임 플레이 중.</AJO_PlayArcadeHomebrew.reportString>
-  <AJO_PlayArcadeBG.reportString>바게트리스 플레이 중.</AJO_PlayArcadeBG.reportString>
-  <AJO_PlayArcadeCB.reportString>쿠킹 할매 플레이 중.</AJO_PlayArcadeCB.reportString>
-  <AJO_PlayDarts.reportString>다트 놀이 하는 중.</AJO_PlayDarts.reportString>
-  <AJO_PlayArcadeES.reportString>엘더 슈크림 플레이 중.</AJO_PlayArcadeES.reportString>
-  <AJO_PlayArcadeGD.reportString>글루텐독스 플레이 중.</AJO_PlayArcadeGD.reportString>
-  <AJO_PlayArcadeHL.reportString>핫바 라이프 플레이 중.</AJO_PlayArcadeHL.reportString>
-  <AJO_PlayArcadeMC.reportString>민트크래프트 플레이 중.</AJO_PlayArcadeMC.reportString>
-  <AJO_PlayArcadePS.reportString>식물 vs. 살라미 플레이 중.</AJO_PlayArcadePS.reportString>
-  <AJO_PlayArcadePK.reportString>싸이코 노트 플레이 중.</AJO_PlayArcadePK.reportString>
-  <AJO_PlayRimColony.reportString>림콜로니 놀이 하는 중.</AJO_PlayRimColony.reportString>
-  <AJO_PlayArcadeRS.reportString>꽐라 표류기 플레이 중.</AJO_PlayArcadeRS.reportString>
-  <AJO_PlayArcadeSP.reportString>스펠탕카 플레이 중.</AJO_PlayArcadeSP.reportString>
-  <AJO_PlayArcadeTZ.reportString>더 찜즈 플레이 중.</AJO_PlayArcadeTZ.reportString>
-  <AJO_PlayArcadeTV.reportString>트라우마 벤더 플레이 중.</AJO_PlayArcadeTV.reportString>
-  <AJO_ReadBook.reportString>앉아서 책을 읽는 중.</AJO_ReadBook.reportString>
-  <AJO_SkimBook.reportString>책을 훑어보는 중.</AJO_SkimBook.reportString>
 
   <!--1543177113_190628_Quarry-->
   <QRY_MineQuarry.reportString>채석장 작업 중.</QRY_MineQuarry.reportString>
@@ -260,33 +235,11 @@
   <JobDef_AquacultureBasinMaintain.reportString>유지 보수하는 중.</JobDef_AquacultureBasinMaintain.reportString>
   <LookAtWater.reportString>물가를 바라보는 중.</LookAtWater.reportString>
 
-  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
-  <ROM_FillChthonianPit.reportString>구덩이를 채움.</ROM_FillChthonianPit.reportString>
-  <ROM_HaulChthonianSacrifice.reportString>TargetB(을)를 제물로 바침.</ROM_HaulChthonianSacrifice.reportString>
-
   <!--777197241_190628_Industrial Age - Objects and Furniture-->
   <ListenToGramophone.reportString>축음기 듣는 중.</ListenToGramophone.reportString>
   <PlayAndListenToGramophone.reportString>축음기 듣는 중.</PlayAndListenToGramophone.reportString>
   <TurnOffGramophone.reportString>축음기 정지 중.</TurnOffGramophone.reportString>
   <PlayGramophone.reportString>축음기 재생 중.</PlayGramophone.reportString>
-
-  <!--815039373_181117_Call of Cthulhu - Cults-->
-  <Cults_AttendSacrifice.reportString>번제에 참가하는 중.</Cults_AttendSacrifice.reportString>
-  <Cults_AttendWorship.reportString>설교를 들으며.</Cults_AttendWorship.reportString>
-  <Cults_EnterTransporterPawn.reportString>TargetA에 들어가는 중.</Cults_EnterTransporterPawn.reportString>
-  <Cults_GiveOffering.reportString>TargetA에서 헌금 모으는 중.</Cults_GiveOffering.reportString>
-  <Cults_HoldSacrifice.reportString>번제에 참가하는 중.</Cults_HoldSacrifice.reportString>
-  <Cults_HoldWorship.reportString>설교를 듣고.</Cults_HoldWorship.reportString>
-  <Cults_Investigate.reportString>TargetB 조사 중.</Cults_Investigate.reportString>
-  <Cults_PruneAndRepair.reportString>TargetA 가지치기 혹은 수리 중.</Cults_PruneAndRepair.reportString>
-  <Cults_ReflectOnResult.reportString>결과를 반영함.</Cults_ReflectOnResult.reportString>
-  <Cults_ReflectOnOffering.reportString>제안에 반영함.</Cults_ReflectOnOffering.reportString>
-  <Cults_ReflectOnWorship.reportString>예배에 반영함.</Cults_ReflectOnWorship.reportString>
-  <Cults_MidnightInquisition.reportString>스스로 일을 해결 중.</Cults_MidnightInquisition.reportString>
-  <Cults_WaitTiedDown.reportString>구속됨.</Cults_WaitTiedDown.reportString>
-  <CastAbilityVerb.reportString>능력 사용</CastAbilityVerb.reportString>
-  <CastAbilitySelf.reportString>능력 사용</CastAbilitySelf.reportString>
-  <Cults_WriteTheBook.reportString>착란에 빠짐.</Cults_WriteTheBook.reportString>
 
   <!--83233353_190626_Dubs Rimkit-->
   <BandageOthers.reportString>TargetA에게 붕대 감아주는 중.</BandageOthers.reportString>

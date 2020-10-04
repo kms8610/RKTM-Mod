@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1279012058_190622_Pick Up And Haul-->
+  <HaulToInventory.verb>운반</HaulToInventory.verb>
+  <HaulToInventory.gerund>모아서 운반</HaulToInventory.gerund>
+  <HaulToInventory.label>물품 정리 및 운반</HaulToInventory.label>
+
+</LanguageData>

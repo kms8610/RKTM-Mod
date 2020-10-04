@@ -16,16 +16,6 @@
   <FrontRightMechanicalPawME.label>오른쪽 앞발</FrontRightMechanicalPawME.label>
   <FrontRightMechanicalPawME.labelShort>발</FrontRightMechanicalPawME.labelShort>
 
-  <!--1113137502_190707_Genetic Rim-->
-  <GR_FangsAttackTool.label>이빨</GR_FangsAttackTool.label>
-
-  <!--1136958577_190707_Dinosauria-->
-  <TailAttackTool.label>꼬리</TailAttackTool.label>
-  <ArmClawAttackTool.label>팔 발톱</ArmClawAttackTool.label>
-  <FootClawAttackTool.label>갈고리 발톱</FootClawAttackTool.label>
-  <LeftLeg.label>왼쪽 다리</LeftLeg.label>
-  <RightLeg.label>오른쪽 다리</RightLeg.label>
-
   <!--1206705240_190519_L-Slimes-->
   <MechaniteSwarm.label>메카니트 무리</MechaniteSwarm.label>
   <Slimebody.label>슬라임 몸체</Slimebody.label>

@@ -91,18 +91,6 @@
   <PacifierStab.label>찌르기</PacifierStab.label>
   <PacifierStab.deathMessage>{0}(은)는 찔려 죽었습니다.</PacifierStab.deathMessage>
 
-  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
-  <ROM_ConstrictMonstrous.deathMessage>{0}(은)는 일그러지며 사망했습니다.</ROM_ConstrictMonstrous.deathMessage>
-  <ROM_ScratchMonstrous.deathMessage>{0}(은)는 발톱에 찢겨 사망했습니다.</ROM_ScratchMonstrous.deathMessage>
-  <ROM_BluntMonstrous.deathMessage>{0}(은)는 박살나며 사망했습니다.</ROM_BluntMonstrous.deathMessage>
-  <ROM_Exsanguination.deathMessage>{0}(은)는 과다 출혈로 사망했습니다.</ROM_Exsanguination.deathMessage>
-  <ROM_Psychic.deathMessage>{0}(은)는 정신 공격을 버티지 못하고 사망했습니다.</ROM_Psychic.deathMessage>
-  <ROM_BluntMonstrous.label>직격타</ROM_BluntMonstrous.label>
-  <ROM_ConstrictMonstrous.label>일그러짐</ROM_ConstrictMonstrous.label>
-  <ROM_Exsanguination.label>출혈</ROM_Exsanguination.label>
-  <ROM_ScratchMonstrous.label>흉측한 발톱</ROM_ScratchMonstrous.label>
-  <ROM_Psychic.label>정신 공격</ROM_Psychic.label>
-
   <!--775650249_181117_RimMagic-->
   <MagicExplosiveCrush.deathMessage>{0)(은)는 으깨져 죽었습니다.</MagicExplosiveCrush.deathMessage>
   <MagicEMP.deathMessage>{0}(은)는 쇼크로 죽었습니다.</MagicEMP.deathMessage>
@@ -116,20 +104,6 @@
   <MagicRotInjury.label>부패</MagicRotInjury.label>
   <ExplosiveMagicRotInjury.label>부패</ExplosiveMagicRotInjury.label>
   <MagicVampirismInjury.label>흡혈귀의 조각</MagicVampirismInjury.label>
-
-  <!--815039373_181117_Call of Cthulhu - Cults-->
-  <Cults_BlackEMP.deathMessage>{0}(은)는 폭발하며 사망했습니다.</Cults_BlackEMP.deathMessage>
-  <Cults_PsionicBlastDamage.deathMessage>{0}(이)가 살해당했습니다.</Cults_PsionicBlastDamage.deathMessage>
-  <Cults_PsionicShockDamage.deathMessage>{0}(이)가 살해당했습니다.</Cults_PsionicShockDamage.deathMessage>
-  <Cults_PsionicBurnDamage.deathMessage>{0}(이)가 살해당했습니다.</Cults_PsionicBurnDamage.deathMessage>
-  <Cults_AcidBurn.deathMessage>{0}(은)는 녹으며 사망했습니다.</Cults_AcidBurn.deathMessage>
-  <Cults_Psionic.deathMessage>{0}(은)는 머리가 폭발했습니다.</Cults_Psionic.deathMessage>
-  <Cults_AcidBurn.label>산화상</Cults_AcidBurn.label>
-  <Cults_BlackEMP.label>검은 기운</Cults_BlackEMP.label>
-  <Cults_Psionic.label>정신 공격</Cults_Psionic.label>
-  <Cults_PsionicBlastDamage.label>정신 폭발</Cults_PsionicBlastDamage.label>
-  <Cults_PsionicBurnDamage.label>정신 화상</Cults_PsionicBurnDamage.label>
-  <Cults_PsionicShockDamage.label>정신 충격</Cults_PsionicShockDamage.label>
 
   <!--846222458_190818_More Mechanoids-->
   <Paralyze.deathMessage>{0}(이)가 신경 손상으로 죽었습니다.</Paralyze.deathMessage>

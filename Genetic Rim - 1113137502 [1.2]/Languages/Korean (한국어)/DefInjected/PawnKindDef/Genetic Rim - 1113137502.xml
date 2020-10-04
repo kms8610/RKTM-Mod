@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1113137502_190707_Genetic Rim-->
+  <GR_AberrantFleshbeast.label>이상한 고깃덩어리 괴물</GR_AberrantFleshbeast.label>
+  <GR_AberrantFleshbeast.labelPlural>이상한 고깃덩어리 괴물</GR_AberrantFleshbeast.labelPlural>
+  <GR_AberrantFleshbeast.lifeStages.0.label>이상한 고깃덩어리 괴물</GR_AberrantFleshbeast.lifeStages.0.label>
+  <GR_AberrantFleshbeast.lifeStages.0.labelPlural>이상한 고깃덩어리 괴물</GR_AberrantFleshbeast.lifeStages.0.labelPlural>
+  <GR_AberrantFleshbeast.lifeStages.1.label>이상한 고깃덩어리 괴물</GR_AberrantFleshbeast.lifeStages.1.label>
+  <GR_AberrantFleshbeast.lifeStages.1.labelPlural>이상한 고깃덩어리 괴물</GR_AberrantFleshbeast.lifeStages.1.labelPlural>
+  <GR_AberrantFleshbeast.lifeStages.2.label>이상한 고깃덩어리 괴물</GR_AberrantFleshbeast.lifeStages.2.label>
+  <GR_AberrantFleshbeast.lifeStages.2.labelPlural>이상한 고깃덩어리 괴물</GR_AberrantFleshbeast.lifeStages.2.labelPlural>
+  <GR_AlphaBear.label>알파 곰</GR_AlphaBear.label>
+  <GR_AlphaBear.labelPlural>알파 곰</GR_AlphaBear.labelPlural>
+  <GR_AlphaWildBoar.label>알파 멧돼지</GR_AlphaWildBoar.label>
+  <GR_AlphaWildBoar.labelPlural>알파 멧돼지</GR_AlphaWildBoar.labelPlural>
+  <GR_AlphaBoomalope.label>알파 폭탄사슴</GR_AlphaBoomalope.label>
+  <GR_AlphaBoomalope.labelPlural>알파 폭탄사슴</GR_AlphaBoomalope.labelPlural>
+  <GR_AlphaBoomalope.lifeStages.0.label>알파 폭탄사슴</GR_AlphaBoomalope.lifeStages.0.label>
+  <GR_AlphaBoomalope.lifeStages.0.labelPlural>알파 폭탄사슴</GR_AlphaBoomalope.lifeStages.0.labelPlural>
+  <GR_AlphaChicken.label>알파 닭</GR_AlphaChicken.label>
+  <GR_AlphaChicken.labelPlural>알파 닭</GR_AlphaChicken.labelPlural>
+  <GR_AlphaChicken.lifeStages.0.label>알파 닭</GR_AlphaChicken.lifeStages.0.label>
+  <GR_AlphaChicken.lifeStages.0.labelPlural>알파 닭</GR_AlphaChicken.lifeStages.0.labelPlural>
+  <GR_AlphaEmu.label>알파 에뮤</GR_AlphaEmu.label>
+  <GR_AlphaEmu.labelPlural>알파 에뮤</GR_AlphaEmu.labelPlural>
+  <GR_AlphaMuffalo.label>알파 머팔로</GR_AlphaMuffalo.label>
+  <GR_AlphaMuffalo.labelPlural>알파 머팔로</GR_AlphaMuffalo.labelPlural>
+  <GR_AlphaOstrich.label>알파 타조</GR_AlphaOstrich.label>
+  <GR_AlphaOstrich.labelPlural>알파 타조</GR_AlphaOstrich.labelPlural>
+  <GR_AlphaRhinoceros.label>알파 코뿔소</GR_AlphaRhinoceros.label>
+  <GR_AlphaRhinoceros.labelPlural>알파 코뿔소</GR_AlphaRhinoceros.labelPlural>
+  <GR_AlphaWolfTimber.label>알파 팀버 늑대</GR_AlphaWolfTimber.label>
+  <GR_AlphaWolfTimber.labelPlural>알파 팀버 늑대</GR_AlphaWolfTimber.labelPlural>
+  <GR_AlphaHare.label>알파 토끼</GR_AlphaHare.label>
+  <GR_AlphaHare.labelPlural>알파 토끼</GR_AlphaHare.labelPlural>
+  <GR_AlphaIguana.label>알파 이구아나</GR_AlphaIguana.label>
+  <GR_AlphaIguana.labelPlural>알파 이구아나</GR_AlphaIguana.labelPlural>
+  <GR_AlphaPig.label>알파 돼지</GR_AlphaPig.label>
+  <GR_AlphaPig.labelPlural>알파 돼지</GR_AlphaPig.labelPlural>
+  <GR_AlphaRat.label>알파 쥐</GR_AlphaRat.label>
+  <GR_AlphaRat.labelPlural>알파 쥐</GR_AlphaRat.labelPlural>
+  <GR_AlphaTortoise.label>알파 거북이</GR_AlphaTortoise.label>
+  <GR_AlphaTortoise.labelPlural>알파 거북이</GR_AlphaTortoise.labelPlural>
+  <GR_ArchotechCentipede.label>초월공학 센티피드</GR_ArchotechCentipede.label>
+  <GR_ArchotechCentipede.labelPlural>초월공학 센티피드</GR_ArchotechCentipede.labelPlural>
+  <GR_Bearalope.label>폭탄 곰</GR_Bearalope.label>
+  <GR_Bearalope.labelPlural>폭탄 곰</GR_Bearalope.labelPlural>
+  <GR_BearchickenKind.label>곰닭</GR_BearchickenKind.label>
+  <GR_BearchickenKind.labelPlural>곰닭</GR_BearchickenKind.labelPlural>
+  <GR_Bearffalo.label>곰팔로</GR_Bearffalo.label>
+  <GR_Bearffalo.labelPlural>곰팔로</GR_Bearffalo.labelPlural>
+  <GR_Bearwolf.label>곰늑대</GR_Bearwolf.label>
+  <GR_Bearwolf.labelPlural>곰늑대</GR_Bearwolf.labelPlural>
+  <GR_Bearmole.label>곰두더쥐</GR_Bearmole.label>
+  <GR_Bearmole.labelPlural>곰두더쥐</GR_Bearmole.labelPlural>
+  <GR_Bearcat.label>곰냥이</GR_Bearcat.label>
+  <GR_Bearcat.labelPlural>곰냥이</GR_Bearcat.labelPlural>
+  <GR_Boomabear.label>폭탄사슴 곰</GR_Boomabear.label>
+  <GR_Boomabear.labelPlural>폭탄사슴 곰</GR_Boomabear.labelPlural>
+  <GR_Boomachicken.label>폭탄사슴 닭</GR_Boomachicken.label>
+  <GR_Boomachicken.labelPlural>폭탄사슴 닭</GR_Boomachicken.labelPlural>
+  <GR_Boomffalo.label>폭탄사슴 머팔로</GR_Boomffalo.label>
+  <GR_Boomffalo.labelPlural>폭탄사슴 머팔로</GR_Boomffalo.labelPlural>
+  <GR_Boomwolf.label>폭탄사슴 늑대</GR_Boomwolf.label>
+  <GR_Boomwolf.labelPlural>폭탄사슴 늑대</GR_Boomwolf.labelPlural>
+  <GR_Squirralope.label>폭탄사슴 다람쥐</GR_Squirralope.label>
+  <GR_Squirralope.labelPlural>폭탄사슴 다람쥐</GR_Squirralope.labelPlural>
+  <GR_Boomacat.label>폭탄사슴 고양이</GR_Boomacat.label>
+  <GR_Boomacat.labelPlural>폭탄사슴 고양이</GR_Boomacat.labelPlural>
+  <GR_Catbear.label>냥곰</GR_Catbear.label>
+  <GR_Catbear.labelPlural>냥곰</GR_Catbear.labelPlural>
+  <GR_Catalope.label>폭탄냥이</GR_Catalope.label>
+  <GR_Catalope.labelPlural>폭탄냥이</GR_Catalope.labelPlural>
+  <GR_Catchicken.label>냥닭</GR_Catchicken.label>
+  <GR_Catchicken.labelPlural>냥닭</GR_Catchicken.labelPlural>
+  <GR_Catfallo.label>냥팔로</GR_Catfallo.label>
+  <GR_Catfallo.labelPlural>냥팔로</GR_Catfallo.labelPlural>
+  <GR_Catrabbit.label>냥토끼</GR_Catrabbit.label>
+  <GR_Catrabbit.labelPlural>냥토끼</GR_Catrabbit.labelPlural>
+  <GR_Catwolf.label>냥늑대</GR_Catwolf.label>
+  <GR_Catwolf.labelPlural>냥늑대</GR_Catwolf.labelPlural>
+  <GR_Chickenbear.label>닭곰</GR_Chickenbear.label>
+  <GR_Chickenbear.labelPlural>닭곰</GR_Chickenbear.labelPlural>
+  <GR_Chickenlope.label>닭사슴</GR_Chickenlope.label>
+  <GR_Chickenlope.labelPlural>닭사슴</GR_Chickenlope.labelPlural>
+  <GR_Chickenffalo.label>닭팔로</GR_Chickenffalo.label>
+  <GR_Chickenffalo.labelPlural>닭팔로</GR_Chickenffalo.labelPlural>
+  <GR_Chickenwolf.label>닭늑대</GR_Chickenwolf.label>
+  <GR_Chickenwolf.labelPlural>닭늑대</GR_Chickenwolf.labelPlural>
+  <GR_Chickenrabbit.label>닭토끼</GR_Chickenrabbit.label>
+  <GR_Chickenrabbit.labelPlural>닭토끼</GR_Chickenrabbit.labelPlural>
+  <GR_Chickencat.label>닭냥이</GR_Chickencat.label>
+  <GR_Chickencat.labelPlural>닭냥이</GR_Chickencat.labelPlural>
+  <GR_Bearscarab.label>곰스캐럽</GR_Bearscarab.label>
+  <GR_Bearscarab.labelPlural>곰스캐럽</GR_Bearscarab.labelPlural>
+  <GR_Boombeetle.label>폭탄벌레</GR_Boombeetle.label>
+  <GR_Boombeetle.labelPlural>폭탄벌레</GR_Boombeetle.labelPlural>
+  <GR_Chickenspider.label>닭거미</GR_Chickenspider.label>
+  <GR_Chickenspider.labelPlural>닭거미</GR_Chickenspider.labelPlural>
+  <GR_Muffalopede.label>머팔로피드</GR_Muffalopede.label>
+  <GR_Muffalopede.labelPlural>머팔로피드</GR_Muffalopede.labelPlural>
+  <GR_Thrumbospider.label>트럼보거미</GR_Thrumbospider.label>
+  <GR_Thrumbospider.labelPlural>트럼보거미</GR_Thrumbospider.labelPlural>
+  <GR_Wolfscarab.label>늑대스캐럽</GR_Wolfscarab.label>
+  <GR_Wolfscarab.labelPlural>늑대스캐럽</GR_Wolfscarab.labelPlural>
+  <GR_Spidercat.label>거미고양이</GR_Spidercat.label>
+  <GR_Spidercat.labelPlural>거미고양이</GR_Spidercat.labelPlural>
+  <GR_Mechabear.label>메카 곰</GR_Mechabear.label>
+  <GR_Mechabear.labelPlural>메카 곰</GR_Mechabear.labelPlural>
+  <GR_Mechalope.label>메카 폭탄사슴</GR_Mechalope.label>
+  <GR_Mechalope.labelPlural>메카 폭탄사슴</GR_Mechalope.labelPlural>
+  <GR_Mechachicken.label>메카-닭</GR_Mechachicken.label>
+  <GR_Mechachicken.labelPlural>메카-닭</GR_Mechachicken.labelPlural>
+  <GR_Mechaspider.label>메카 거미</GR_Mechaspider.label>
+  <GR_Mechaspider.labelPlural>메카 거미</GR_Mechaspider.labelPlural>
+  <GR_Mechamuffalo.label>메카 머팔로</GR_Mechamuffalo.label>
+  <GR_Mechamuffalo.labelPlural>메카 머팔로</GR_Mechamuffalo.labelPlural>
+  <GR_Mecharat.label>메카 쥐</GR_Mecharat.label>
+  <GR_Mecharat.labelPlural>메카 쥐</GR_Mecharat.labelPlural>
+  <GR_Mechaturtle.label>메카 거북이</GR_Mechaturtle.label>
+  <GR_Mechaturtle.labelPlural>메카 거북이</GR_Mechaturtle.labelPlural>
+  <GR_Mechawolf.label>메카 늑대</GR_Mechawolf.label>
+  <GR_Mechawolf.labelPlural>메카 늑대</GR_Mechawolf.labelPlural>
+  <GR_Mechathrumbo.label>메카 트럼보</GR_Mechathrumbo.label>
+  <GR_Mechathrumbo.labelPlural>메카 트럼보</GR_Mechathrumbo.labelPlural>
+  <GR_Mechacat.label>메카 냥이</GR_Mechacat.label>
+  <GR_Mechacat.labelPlural>메카 냥이</GR_Mechacat.labelPlural>
+  <GR_Muffalobear.label>머팔로곰</GR_Muffalobear.label>
+  <GR_Muffalobear.labelPlural>머팔로곰</GR_Muffalobear.labelPlural>
+  <GR_Muffalope.label>머팔로사슴</GR_Muffalope.label>
+  <GR_Muffalope.labelPlural>머팔로사슴</GR_Muffalope.labelPlural>
+  <GR_Muffalochicken.label>머팔로닭</GR_Muffalochicken.label>
+  <GR_Muffalochicken.labelPlural>머팔로닭</GR_Muffalochicken.labelPlural>
+  <GR_Muffalowolf.label>머팔로늑대</GR_Muffalowolf.label>
+  <GR_Muffalowolf.labelPlural>머팔로늑대</GR_Muffalowolf.labelPlural>
+  <GR_Muffalorat.label>머팔로쥐</GR_Muffalorat.label>
+  <GR_Muffalorat.labelPlural>머팔로쥐</GR_Muffalorat.labelPlural>
+  <GR_Muffalocat.label>머팔냥이</GR_Muffalocat.label>
+  <GR_Muffalocat.labelPlural>머팔냥이</GR_Muffalocat.labelPlural>
+  <GR_Bearodile.label>베어로딜레</GR_Bearodile.label>
+  <GR_Bearodile.labelPlural>베어로딜레</GR_Bearodile.labelPlural>
+  <GR_Boomsnake.label>폭탄뱀</GR_Boomsnake.label>
+  <GR_Boomsnake.labelPlural>폭탄뱀</GR_Boomsnake.labelPlural>
+  <GR_Chickenlizard.label>닭리자드</GR_Chickenlizard.label>
+  <GR_Chickenlizard.labelPlural>닭리자드</GR_Chickenlizard.labelPlural>
+  <GR_Muffalokomodo.label>머팔로코모도</GR_Muffalokomodo.label>
+  <GR_Muffalokomodo.labelPlural>머팔로코모도</GR_Muffalokomodo.labelPlural>
+  <GR_Spidersnake.label>거미뱀</GR_Spidersnake.label>
+  <GR_Spidersnake.labelPlural>거미뱀</GR_Spidersnake.labelPlural>
+  <GR_Thrumbolizard.label>트럼보리자드</GR_Thrumbolizard.label>
+  <GR_Thrumbolizard.labelPlural>트럼보리자드</GR_Thrumbolizard.labelPlural>
+  <GR_Wolfsnake.label>늑대뱀</GR_Wolfsnake.label>
+  <GR_Wolfsnake.labelPlural>늑대뱀</GR_Wolfsnake.labelPlural>
+  <GR_Snakecat.label>뱀냥이</GR_Snakecat.label>
+  <GR_Snakecat.labelPlural>뱀냥이</GR_Snakecat.labelPlural>
+  <GR_Molebear.label>두더지곰</GR_Molebear.label>
+  <GR_Molebear.labelPlural>두더지곰</GR_Molebear.labelPlural>
+  <GR_Boomsquirrel.label>폭탄다람쥐</GR_Boomsquirrel.label>
+  <GR_Boomsquirrel.labelPlural>폭탄다람쥐</GR_Boomsquirrel.labelPlural>
+  <GR_Rabbitchicken.label>토끼닭</GR_Rabbitchicken.label>
+  <GR_Rabbitchicken.labelPlural>토끼닭</GR_Rabbitchicken.labelPlural>
+  <GR_Ratfallo.label>쥐팔로</GR_Ratfallo.label>
+  <GR_Ratfallo.labelPlural>쥐팔로</GR_Ratfallo.labelPlural>
+  <GR_Thrumborat.label>트럼보쥐</GR_Thrumborat.label>
+  <GR_Thrumborat.labelPlural>트럼보쥐</GR_Thrumborat.labelPlural>
+  <GR_Beaverwolf.label>비버늑대</GR_Beaverwolf.label>
+  <GR_Beaverwolf.labelPlural>비버늑대</GR_Beaverwolf.labelPlural>
+  <GR_Rabbitcat.label>토끼냥이</GR_Rabbitcat.label>
+  <GR_Rabbitcat.labelPlural>토끼냥이</GR_Rabbitcat.labelPlural>
+  <GR_Thrumbear.label>트럼보곰</GR_Thrumbear.label>
+  <GR_Thrumbear.labelPlural>트럼보곰</GR_Thrumbear.labelPlural>
+  <GR_Thrumbalope.label>폭탄트럼보</GR_Thrumbalope.label>
+  <GR_Thrumbalope.labelPlural>폭탄트럼보</GR_Thrumbalope.labelPlural>
+  <GR_Thrumbochicken.label>트럼보닭</GR_Thrumbochicken.label>
+  <GR_Thrumbochicken.labelPlural>트럼보닭</GR_Thrumbochicken.labelPlural>
+  <GR_Thrumffalo.label>트럼팔로</GR_Thrumffalo.label>
+  <GR_Thrumffalo.labelPlural>트럼팔로</GR_Thrumffalo.labelPlural>
+  <GR_Thrumwolf.label>트럼보늑대</GR_Thrumwolf.label>
+  <GR_Thrumwolf.labelPlural>트럼보늑대</GR_Thrumwolf.labelPlural>
+  <GR_Thrumbocat.label>트럼보냥이</GR_Thrumbocat.label>
+  <GR_Thrumbocat.labelPlural>트럼보냥이</GR_Thrumbocat.labelPlural>
+  <GR_Wolfbear.label>늑대곰</GR_Wolfbear.label>
+  <GR_Wolfbear.labelPlural>늑대곰</GR_Wolfbear.labelPlural>
+  <GR_Wolfalope.label>폭탄늑대</GR_Wolfalope.label>
+  <GR_Wolfalope.labelPlural>폭탄늑대</GR_Wolfalope.labelPlural>
+  <GR_Wolfchicken.label>늑대닭</GR_Wolfchicken.label>
+  <GR_Wolfchicken.labelPlural>늑대닭</GR_Wolfchicken.labelPlural>
+  <GR_Wolffalo.label>늑팔로</GR_Wolffalo.label>
+  <GR_Wolffalo.labelPlural>늑팔로</GR_Wolffalo.labelPlural>
+  <GR_Wolfbeaver.label>늑대비버</GR_Wolfbeaver.label>
+  <GR_Wolfbeaver.labelPlural>늑대비버</GR_Wolfbeaver.labelPlural>
+  <GR_Wolfcat.label>늑대냥이</GR_Wolfcat.label>
+  <GR_Wolfcat.labelPlural>늑대냥이</GR_Wolfcat.labelPlural>
+
+</LanguageData>

@@ -1,43 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--1240656304_190617_Lighter Than Fast-->
-  <EngieFaction.label>야생 집단</EngieFaction.label>
-  <EngieFaction.description>일부 야생 엔지</EngieFaction.description>
-  <EngieFaction.pawnsPlural>D 상태 엔지</EngieFaction.pawnsPlural>
-  <EngieFaction.leaderTitle>시스템드 init시스템</EngieFaction.leaderTitle>
-  <EngiePlayerColony.label>부족 무리</EngiePlayerColony.label>
-  <EngiePlayerColony.description>당신의 리셋된 엔지 무리입니다.</EngiePlayerColony.description>
-  <EngiePlayerColony.pawnsPlural>엔지</EngiePlayerColony.pawnsPlural>
-  <MantisFaction.label>날카로운 무리</MantisFaction.label>
-  <MantisFaction.description>피에 굶주린 맨티스 무리</MantisFaction.description>
-  <MantisFaction.pawnsPlural>치명적인 맨티스</MantisFaction.pawnsPlural>
-  <MantisFaction.leaderTitle>맨드라곤플라이(Mandragonfly)</MantisFaction.leaderTitle>
-  <MantisPlayerColony.label>부족 둥지</MantisPlayerColony.label>
-  <MantisPlayerColony.description>당신의 부족들이 이번 저녁 식사를 위해 서로를 죽여댈까요?</MantisPlayerColony.description>
-  <MantisPlayerColony.pawnsPlural>맨티스</MantisPlayerColony.pawnsPlural>
-  <RockmanFaction.label>콘크리트</RockmanFaction.label>
-  <RockmanFaction.description>화강암과 점판암 덩어리들이 되살아났습니다. 석회석은 아직 그렇지않습니다.</RockmanFaction.description>
-  <RockmanFaction.pawnsPlural>거대한 락맨</RockmanFaction.pawnsPlural>
-  <RockmanFaction.leaderTitle>HCB 게이트웨이</RockmanFaction.leaderTitle>
-  <RockmanPlayerColony.label>부족 바위들</RockmanPlayerColony.label>
-  <RockmanPlayerColony.description>당신의 돌덩이 무리들입니다.</RockmanPlayerColony.description>
-  <RockmanPlayerColony.pawnsPlural>락맨</RockmanPlayerColony.pawnsPlural>
-  <SlugFaction.label>어색한 복족류</SlugFaction.label>
-  <SlugFaction.description>성운에서 멀이 떨어져나온 슬러그들</SlugFaction.description>
-  <SlugFaction.pawnsPlural>신뢰할 수 없는 슬러그들</SlugFaction.pawnsPlural>
-  <SlugFaction.leaderTitle>소라고둥</SlugFaction.leaderTitle>
-  <SlugPlayerColony.label>부족 껍질</SlugPlayerColony.label>
-  <SlugPlayerColony.description>당신의 분비물 공장</SlugPlayerColony.description>
-  <SlugPlayerColony.pawnsPlural>슬러그</SlugPlayerColony.pawnsPlural>
-  <ZoltanFaction.label>발광 오로라</ZoltanFaction.label>
-  <ZoltanFaction.description>원소 에너지를 찾는 졸탄들</ZoltanFaction.description>
-  <ZoltanFaction.pawnsPlural>빛나는 졸탄</ZoltanFaction.pawnsPlural>
-  <ZoltanFaction.leaderTitle>페타 광속</ZoltanFaction.leaderTitle>
-  <ZoltanPlayerColony.label>부족 오로라</ZoltanPlayerColony.label>
-  <ZoltanPlayerColony.description>누가 에너지가 필요할까요. 당신의 부족이 과연 빛을 발할 수 있을까요?</ZoltanPlayerColony.description>
-  <ZoltanPlayerColony.pawnsPlural>졸탄</ZoltanPlayerColony.pawnsPlural>
-
   <!--1267084448_190816_Filthy Orc Invasion-->
   <OrcTribe.label>오크 부족</OrcTribe.label>
   <OrcTribe.description>잔인함만을 추구하는 오크 무리</OrcTribe.description>
@@ -55,39 +18,6 @@
   <MantoFaction.description>맨토디안 사회는 다른 인간들의 사회를 매우 혐호합니다. 그들의 사회는 잔인하고 미개한 것으로 여겨 주변 개척지들과 마찰을 빚습니다. 이들의 팽창주의적인 성향과 다른이들의 삶과 전통에 대한 무시는 수 세기에 걸쳐 많은 갈등을 불러일으켰고, 이로인해 맨토디안들과 다른 종족들 사이에는 깊은 적대감이 쌓여있습니다. 그럼에도 불구하고, 이들의 둥지는 외교에 있어서 무조건적인 쇄국으로 일관하지 않으며, 만약 자신들에게 유익하다는 판단이 생기면 누구든 그들의 일원으로 받아들이기도 합니다.</MantoFaction.description>
   <MantoFaction.pawnsPlural>맨토디안</MantoFaction.pawnsPlural>
   <MantoFaction.leaderTitle>둥지 관리자</MantoFaction.leaderTitle>
-
-  <!--1314474881_181118_Avali-->
-  <AvaliPlayerColony.label>아발리 생존자</AvaliPlayerColony.label>
-  <AvaliPlayerColony.description>아발리 부족</AvaliPlayerColony.description>
-  <AvaliPlayerColony.pawnsPlural>정착민들</AvaliPlayerColony.pawnsPlural>
-  <AvaliFaction.label>아발리 Illuminate</AvaliFaction.label>
-  <AvaliFaction.description>Avali Illuminate는 아발리 종의 거의 절반을 아우르며 수많은 시스템에 걸쳐 가장 큰 영향력을 미치고 있는 가장 크고 강력한 아발리 세력입니다. 아발리를 대표하고 있는 세력으로서, 아발리들의 고향 아발론을 지배함으로써 그 위치가 굳어지게 되었습니다.</AvaliFaction.description>
-  <AvaliFaction.fixedName>아발리 Illuminate</AvaliFaction.fixedName>
-  <AvaliFaction.pawnsPlural>아발리 Illuminate</AvaliFaction.pawnsPlural>
-  <AvaliIndependent1.label>Independent 아발리 colony</AvaliIndependent1.label>
-  <AvaliIndependent1.description>Beyond 아발리 Illuminate controlled space lie the independent worlds; colonies that rejected Illuminate administration, or were formed by 아발리 outside of it's jurisdiction. The independent worlds are not small; numerically there are as many 아발리 in the independent colonies as there are in the Illuminate itself, however they are split into many disparate factions and groups, ranging in size from independent tribes, unaffiliated with any political entity, to small multi-colony nations; not all of whom are on friendly terms with one another.</AvaliIndependent1.description>
-  <AvaliIndependent1.pawnsPlural>독립된 아발리</AvaliIndependent1.pawnsPlural>
-  <AvaliIndependent1.leaderTitle>세력 지도자</AvaliIndependent1.leaderTitle>
-  <AvaliIndependent2.label>독립 아발리 정착지</AvaliIndependent2.label>
-  <AvaliIndependent2.description>Beyond 아발리 Illuminate controlled space lie the independent worlds; colonies that rejected Illuminate administration, or were formed by 아발리 outside of it's jurisdiction. The independent worlds are not small; numerically there are as many 아발리 in the independent colonies as there are in the Illuminate itself, however they are split into many disparate factions and groups, ranging in size from independent tribes, unaffiliated with any political entity, to small multi-colony nations; not all of whom are on friendly terms with one another.</AvaliIndependent2.description>
-  <AvaliIndependent2.pawnsPlural>독립된 아발리</AvaliIndependent2.pawnsPlural>
-  <AvaliIndependent2.leaderTitle>세력 지도자</AvaliIndependent2.leaderTitle>
-  <AvaliIndependent3.label>독립 아발리 정착지</AvaliIndependent3.label>
-  <AvaliIndependent3.description>Beyond 아발리 Illuminate controlled space lie the independent worlds; colonies that rejected Illuminate administration, or were formed by 아발리 outside of it's jurisdiction. The independent worlds are not small; numerically there are as many 아발리 in the independent colonies as there are in the Illuminate itself, however they are split into many disparate factions and groups, ranging in size from independent tribes, unaffiliated with any political entity, to small multi-colony nations; not all of whom are on friendly terms with one another.</AvaliIndependent3.description>
-  <AvaliIndependent3.pawnsPlural>독립된 아발리</AvaliIndependent3.pawnsPlural>
-  <AvaliIndependent3.leaderTitle>세력 지도자</AvaliIndependent3.leaderTitle>
-  <AvaliIndependent4.label>독립 아발리 정착지</AvaliIndependent4.label>
-  <AvaliIndependent4.description>Beyond 아발리 Illuminate controlled space lie the independent worlds; colonies that rejected Illuminate administration, or were formed by 아발리 outside of it's jurisdiction. The independent worlds are not small; numerically there are as many 아발리 in the independent colonies as there are in the Illuminate itself, however they are split into many disparate factions and groups, ranging in size from independent tribes, unaffiliated with any political entity, to small multi-colony nations; not all of whom are on friendly terms with one another.</AvaliIndependent4.description>
-  <AvaliIndependent4.pawnsPlural>독립된 아발리</AvaliIndependent4.pawnsPlural>
-  <AvaliIndependent4.leaderTitle>세력 지도자</AvaliIndependent4.leaderTitle>
-  <AvaliIndependent5.label>독립 아발리 정착지</AvaliIndependent5.label>
-  <AvaliIndependent5.description>Beyond 아발리 Illuminate controlled space lie the independent worlds; colonies that rejected Illuminate administration, or were formed by 아발리 outside of it's jurisdiction. The independent worlds are not small; numerically there are as many 아발리 in the independent colonies as there are in the Illuminate itself, however they are split into many disparate factions and groups, ranging in size from independent tribes, unaffiliated with any political entity, to small multi-colony nations; not all of whom are on friendly terms with one another.</AvaliIndependent5.description>
-  <AvaliIndependent5.pawnsPlural>독립된 아발리</AvaliIndependent5.pawnsPlural>
-  <AvaliIndependent5.leaderTitle>세력 지도자</AvaliIndependent5.leaderTitle>
-  <AvaliNuko.label>특별한 상인</AvaliNuko.label>
-  <AvaliNuko.description>외로운 영웅이 우연히 이 림월드에 발이 묶였습니다.</AvaliNuko.description>
-  <AvaliNuko.fixedName>특별한 상인</AvaliNuko.fixedName>
-  <AvaliNuko.pawnsPlural>특별한 상인</AvaliNuko.pawnsPlural>
 
   <!--1342510409_190627_Astoriel-->
   <AstorielPlayerColony.label>아스토리엘</AstorielPlayerColony.label>

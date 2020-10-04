@@ -61,38 +61,6 @@
   <MultiElectric.label>번화계 IV</MultiElectric.label>
   <MultiElectric.description>혈액팩에 진통제와 항생제를 사전 주입하여 진통제 IV, 항생제 IV와 혈액팩 IV의 효과를 가진 전기 번화계 IV 입니다.</MultiElectric.description>
 
-  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
-  <ImperialTechBase.label>임페리얼 웨폰</ImperialTechBase.label>
-  <ImperialTechBase.description>기본적인 임페리얼 웨폰의 연구를 허락합니다</ImperialTechBase.description>
-  <WRPowerWeapons.label>파워 웨폰</WRPowerWeapons.label>
-  <WRPowerWeapons.description>기본적인 파워 웨폰의 제작을 허락합니다</WRPowerWeapons.description>
-  <WGRConversionField.label>컨버전 필드 방출기</WGRConversionField.label>
-  <WGRConversionField.description>컨버전 필드 방출기의 제작을 허락합니다</WGRConversionField.description>
-  <ImperialSpecialWeapons.label>스페셜 웨폰</ImperialSpecialWeapons.label>
-  <ImperialSpecialWeapons.description>스페셜 임페리얼 웨폰의 연구를 허락합니다</ImperialSpecialWeapons.description>
-  <ImperialSpecialPowerWeapons.label>스페셜 파워 웨폰</ImperialSpecialPowerWeapons.label>
-  <ImperialSpecialPowerWeapons.description>스페셜 임페리얼 파워 웨폰의 제작을 허락합니다</ImperialSpecialPowerWeapons.description>
-  <ImperialHeavyWeapons.label>헤비 웨폰</ImperialHeavyWeapons.label>
-  <ImperialHeavyWeapons.description>기본적인 헤비 임페리얼 웨폰의 제작을 허락합니다</ImperialHeavyWeapons.description>
-  <WRForceWeapons.label>포스 웨폰</WRForceWeapons.label>
-  <WRForceWeapons.description>포스 웨폰의 제작을 허락합니다</WRForceWeapons.description>
-  <WRImpLasTech.label>레이저 테크</WRImpLasTech.label>
-  <WRImpLasTech.description>라스 피스톨을 만드는 제국의 학과를 가르칩니다</WRImpLasTech.description>
-  <WRImpBoltTech.label>볼터 웨폰 테크</WRImpBoltTech.label>
-  <WRImpBoltTech.description>볼트 피스톨을 만드는 제국의 학과를 가르칩니다</WRImpBoltTech.description>
-  <WRImpPlasmaTech.label>플라즈마 웨폰</WRImpPlasmaTech.label>
-  <WRImpPlasmaTech.description>플라즈마 피스톨을 만드는 제국의 학과를 가르칩니다</WRImpPlasmaTech.description>
-  <ARBasicServoSkull.label>서보 스컬</ARBasicServoSkull.label>
-  <ARBasicServoSkull.description>기본적인 서보 스컬의 제작을 허락합니다</ARBasicServoSkull.description>
-  <MechanicusTechBase.label>메카니쿠스 웨폰</MechanicusTechBase.label>
-  <MechanicusTechBase.description>메카니쿠스 웨폰의 제작을 허락합니다</MechanicusTechBase.description>
-  <WRRadiumWeapons.label>라듐 웨폰</WRRadiumWeapons.label>
-  <WRRadiumWeapons.description>라듐 웨폰을 만드는 제국의 학과를 가르칩니다</WRRadiumWeapons.description>
-  <WRMechAdvBallistics.label>고급 탄도학</WRMechAdvBallistics.label>
-  <WRMechAdvBallistics.description>스텁 카빈을 만드는 제국의 학과를 가르칩니다</WRMechAdvBallistics.description>
-  <WRMechanicusPlasma.label>메카니쿠스 플라즈마</WRMechanicusPlasma.label>
-  <WRMechanicusPlasma.description>아뎁투스 메카니쿠스 플라즈마 웨폰을 만드는 제국의 학과를 가르칩니다</WRMechanicusPlasma.description>
-
   <!--1552418917_190817_Barbed Wire-->
   <BarbedWire.label>유자철선 철조망</BarbedWire.label>
   <BarbedWire.description>가시가 돋친 철선으로 만든 철조망입니다. 지나다닐 때 날카로운 피해를 입히는 가시 함정을 만드세요.</BarbedWire.description>

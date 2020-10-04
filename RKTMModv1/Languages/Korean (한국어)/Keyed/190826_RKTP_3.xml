@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--1314474881_181118_Avali-->
-  <Avali>아발리</Avali>
-  <Unknown>알려지지 않음</Unknown>
-  <BindMode_AnyPawnInFaction>세력</BindMode_AnyPawnInFaction>
-  <BindMode_OwnerPawnOnly>주인</BindMode_OwnerPawnOnly>
-  <Avalon>아발론</Avalon>
-  <Earth>지구</Earth>
-  <NewEarth>새로운 지구</NewEarth>
-  <Mars>화성</Mars>
-  <Venus>금성</Venus>
-  <CommandDefaultTurretShootDelay>기본값</CommandDefaultTurretShootDelay>
-
   <!--1365540920_190714_Black Widows-->
   <MilkyHumanoidMilkProgress>실크 진행률: {0}</MilkyHumanoidMilkProgress>
   <BlackWidowStartDialogue>성간 순양함에 대한 해적들의 공격에서 단 두 명만이 살아남았습니다. 이제 알려지지 않은 변방계에 좌초된 그들은 생존을 위해 지배력을 확립해야만 합니다. 파괴된 군함의 잔해 말고는 거의 아무런 자원도 없이 시작하며, 당신은 다음에 무엇을 해야할지 고민하게 될 것입니다. 당신은 강력합니다. 이 세계를 반드시 정복할 수 있을 것입니다. 하지만 매우 조심해야만 합니다. 자원이 없다면, 지배로 가는 모든 과정은 끝이 날 것입니다.</BlackWidowStartDialogue>

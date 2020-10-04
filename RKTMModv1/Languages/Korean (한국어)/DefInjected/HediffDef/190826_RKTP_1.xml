@@ -269,47 +269,6 @@
   <Hediff_AnestheticBullet.stages.9.label>극심함</Hediff_AnestheticBullet.stages.9.label>
   <Hediff_AnestheticBullet.stages.10.label>극심함</Hediff_AnestheticBullet.stages.10.label>
 
-  <!--1301071669_190521_Cyberpunk-->
-  <AdrenalBooster_CP.label>콩팥위샘 부스터</AdrenalBooster_CP.label>
-  <ArmoredArm_CP.label>사이버 기갑 팔</ArmoredArm_CP.label>
-  <ArmoredLeg_CP.label>사이버 기갑 다리</ArmoredLeg_CP.label>
-  <BigKnucks_CP.label>빅 너클</BigKnucks_CP.label>
-  <Cowlplate_CP.label>머리 철판</Cowlplate_CP.label>
-  <BuzzHand_CP.label>사이버 팔과 원형 톱날 손</BuzzHand_CP.label>
-  <DrillHand_CP.label>사이버 팔과 드릴 손</DrillHand_CP.label>
-  <HammerHand_CP.label>사이버 팔과 망치 손</HammerHand_CP.label>
-  <MedHand_CP.label>사이버 팔과 의학용 손</MedHand_CP.label>
-  <ToolHand_CP.label>사이버 팔과 도구 수납형 손</ToolHand_CP.label>
-  <CAAmplifiedHearing_CP.label>사이버오디오 청력 증폭기</CAAmplifiedHearing_CP.label>
-  <CyberHand_CP.label>사이버 손</CyberHand_CP.label>
-  <CyberJaw_CP.label>사이버 턱</CyberJaw_CP.label>
-  <CyberJawK9_CP.label>사이버 턱 K9</CyberJawK9_CP.label>
-  <SkateFoot_CP.label>사이버 다리와 스케이트 발</SkateFoot_CP.label>
-  <COTargettingScope_CP.label>사이버옵틱 조준경</COTargettingScope_CP.label>
-  <EnhancedAntibodies_CP.label>강화 항체</EnhancedAntibodies_CP.label>
-  <CyberLung_CP.label>강화 폐</CyberLung_CP.label>
-  <CyberLung2_CP.label>강화 폐 시리즈 2</CyberLung2_CP.label>
-  <Faceplate_CP.label>얼굴 철판</Faceplate_CP.label>
-  <GraftedMuscle_CP.label>인공 근육</GraftedMuscle_CP.label>
-  <LightningFist_CP.label>라이트닝 피스트</LightningFist_CP.label>
-  <Nanosurgeons_CP.label>나노의료기</Nanosurgeons_CP.label>
-  <Optishield_CP.label>옵티 실드</Optishield_CP.label>
-  <CyberHeart2_CP.label>페이스세터 2000 심장</CyberHeart2_CP.label>
-  <CyberHeart_CP.label>페이스세터 스포츠 심장</CyberHeart_CP.label>
-  <PowerJaw_CP.label>강화 턱</PowerJaw_CP.label>
-  <Rippers_CP.label>리퍼</Rippers_CP.label>
-  <Scratchers_CP.label>스크래쳐</Scratchers_CP.label>
-  <SkinWeave_CP.label>직조 피부</SkinWeave_CP.label>
-  <Speedware.label>스피드웨어</Speedware.label>
-  <CyberFoot_CP.label>사이버 발</CyberFoot_CP.label>
-  <SubdermalArmor_CP.label>피하 방어구</SubdermalArmor_CP.label>
-  <CyberLiver_CP.label>티-맥스 사이버 간</CyberLiver_CP.label>
-  <CyberLiver2_CP.label>티-맥스 사이버 간 II</CyberLiver2_CP.label>
-  <Thermaskin_CP.label>보온 피부</Thermaskin_CP.label>
-  <Torsoplate_CP.label>몸체 철판</Torsoplate_CP.label>
-  <ToxinBinders_CP.label>독소 억제기</ToxinBinders_CP.label>
-  <Wolvers_CP.label>울버즈</Wolvers_CP.label>
-
   <!--1338280929_190526_Advanced Biomes-->
   <PoisonBuildup.stages.5.label>극심함</PoisonBuildup.stages.5.label>
   <PoisonBuildup.stages.1.label>초기</PoisonBuildup.stages.1.label>
@@ -543,26 +502,6 @@
   <Mizu_Nursed.label>간호됨</Mizu_Nursed.label>
   <Mizu_Dehydration.stages.3.label>심각한</Mizu_Dehydration.stages.3.label>
   <Mizu_Dehydration.stages.0.label>경미함</Mizu_Dehydration.stages.0.label>
-
-  <!--1543060282_181101_Additional Joy Objects-->
-  <PerodyneHigh.stages.2.label>취함</PerodyneHigh.stages.2.label>
-  <PerodyneHigh.stages.1.label>편안함</PerodyneHigh.stages.1.label>
-  <PerodyneHigh.stages.4.label>붕뜸</PerodyneHigh.stages.4.label>
-  <AJO_SpectagoTea.stages.0.label>초기</AJO_SpectagoTea.stages.0.label>
-  <PerodyneHigh.stages.0.label>초기</PerodyneHigh.stages.0.label>
-  <PerodyneTolerance.stages.2.label>보통</PerodyneTolerance.stages.2.label>
-  <PerodyneTolerance.stages.3.label>심각함</PerodyneTolerance.stages.3.label>
-  <PerodyneHigh.stages.3.label>띵함</PerodyneHigh.stages.3.label>
-  <PerodyneHigh.label>페로다인</PerodyneHigh.label>
-  <PerodyneAddiction.label>페로다인 의존증</PerodyneAddiction.label>
-  <PerodyneTolerance.label>페로다인 내성</PerodyneTolerance.label>
-  <AJO_SpectagoTea.stages.2.label>진정됨</AJO_SpectagoTea.stages.2.label>
-  <PerodyneTolerance.stages.0.label>약함</PerodyneTolerance.stages.0.label>
-  <PerodyneTolerance.stages.1.label>약함</PerodyneTolerance.stages.1.label>
-  <AJO_SpectagoTea.label>스펙타고 차</AJO_SpectagoTea.label>
-  <AJO_SpectagoTea.stages.1.label>따뜻함</AJO_SpectagoTea.stages.1.label>
-  <PerodyneHigh.stages.5.label>꽐라됨</PerodyneHigh.stages.5.label>
-  <PerodyneAddiction.stages.1.label>금단현상</PerodyneAddiction.stages.1.label>
 
   <!--1552452572_190814_Death Rattle-->
   <IntestinalFailure.label>장기 부전</IntestinalFailure.label>
@@ -1255,32 +1194,6 @@
   <HeatStab.injuryProps.destroyedOutLabel>완파됨</HeatStab.injuryProps.destroyedOutLabel>
   <OCExo.label>오리온 외골격</OCExo.label>
 
-  <!--746425621_181026_A dog said-->
-  <AnimalBrainStimulator.label>동물 두뇌 증폭기</AnimalBrainStimulator.label>
-  <BionicArmAnimal.label>생체공학 동물 팔</BionicArmAnimal.label>
-  <BionicArmAnimal.comps.0.tools.0.label>생체공학 동물 팔</BionicArmAnimal.comps.0.tools.0.label>
-  <EarAnimalBionic.label>생체공학 동물 귀 이식물</EarAnimalBionic.label>
-  <BionicEyeAnimal.label>생체공학 동물 눈</BionicEyeAnimal.label>
-  <BionicAnimalHeart.label>생체공학 동물 심장</BionicAnimalHeart.label>
-  <JawAnimalBionic.comps.0.tools.0.label>생체공학 동물 턱</JawAnimalBionic.comps.0.tools.0.label>
-  <JawAnimalBionic.label>생체공학 동물 턱 이식물</JawAnimalBionic.label>
-  <BionicAnimalKidney.label>생체공학 동물 신장</BionicAnimalKidney.label>
-  <BionicLegAnimal.label>생체공학 동물 다리</BionicLegAnimal.label>
-  <BionicLegAnimal.comps.0.tools.0.label>생체공학 동물 다리</BionicLegAnimal.comps.0.tools.0.label>
-  <BionicAnimalLiver.label>생체공학 동물 간</BionicAnimalLiver.label>
-  <BionicAnimalLung.label>생체공학 동물 폐</BionicAnimalLung.label>
-  <SpineAnimalBionic.label>생체 동물용 척추</SpineAnimalBionic.label>
-  <BionicAnimalStomach.label>생체공학 동물 위</BionicAnimalStomach.label>
-  <SimpleProstheticArmAnimal.comps.0.tools.0.label>동물 팔 보철물</SimpleProstheticArmAnimal.comps.0.tools.0.label>
-  <ProstheticTail.label>꼬리 보철물</ProstheticTail.label>
-  <SimpleProstheticLegAnimal.comps.0.tools.0.label>동물 의족</SimpleProstheticLegAnimal.comps.0.tools.0.label>
-  <EarAnimalSimple.label>간단한 동물 귀 이식물</EarAnimalSimple.label>
-  <JawAnimalSimple.label>간단한 동물 턱 이식물</JawAnimalSimple.label>
-  <NoseAnimalSimple.label>간단한 동물 코</NoseAnimalSimple.label>
-  <SpineAnimalSimple.label>간단한 동물 척추</SpineAnimalSimple.label>
-  <SimpleProstheticArmAnimal.label>간단한 동물 의수</SimpleProstheticArmAnimal.label>
-  <SimpleProstheticLegAnimal.label>간단한 동물 의족</SimpleProstheticLegAnimal.label>
-
   <!--751049133_190622_The Birds and the Bees-->
   <BionicReproductiveOrgans.label>생체공학 생식기</BionicReproductiveOrgans.label>
   <Menopause.stages.1.label>호르몬에 의한 폐경</Menopause.stages.1.label>
@@ -1292,40 +1205,6 @@
   <Neutered.label>중성화</Neutered.label>
   <Impotence.stages.0.label>증상 발현</Impotence.stages.0.label>
   <Menopause.stages.0.label>증상 발현</Menopause.stages.0.label>
-
-  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
-  <ROM_Exsanguination.comps.0.labelTendedWell>붕대 감음</ROM_Exsanguination.comps.0.labelTendedWell>
-  <ROM_Psionic.comps.0.labelTendedWell>붕대 감음</ROM_Psionic.comps.0.labelTendedWell>
-  <ROM_StarVampireDescent.label>하강 중</ROM_StarVampireDescent.label>
-  <ROM_CosmicHorrorImmunities.label>엘드리치 면역</ROM_CosmicHorrorImmunities.label>
-  <ROM_GutWorms.stages.5.label>극심함</ROM_GutWorms.stages.5.label>
-  <ROM_IntracranialPressure.stages.5.label>극심함</ROM_IntracranialPressure.stages.5.label>
-  <ROM_SanityLoss.stages.4.label>극심함</ROM_SanityLoss.stages.4.label>
-  <ROM_Psionic.injuryProps.destroyedLabel>함몰됨</ROM_Psionic.injuryProps.destroyedLabel>
-  <ROM_GutWorms.stages.1.label>초기</ROM_GutWorms.stages.1.label>
-  <ROM_IntracranialPressure.stages.1.label>초기</ROM_IntracranialPressure.stages.1.label>
-  <ROM_SanityLoss.stages.0.label>초기-감춰짐</ROM_SanityLoss.stages.0.label>
-  <ROM_IntracranialPressure.stages.0.label>초기-감춰짐</ROM_IntracranialPressure.stages.0.label>
-  <ROM_IntracranialPressure.label>두개 내압</ROM_IntracranialPressure.label>
-  <ROM_GutWorms.stages.3.label>보통</ROM_GutWorms.stages.3.label>
-  <ROM_SanityLoss.stages.2.label>보통</ROM_SanityLoss.stages.2.label>
-  <ROM_GutWorms.stages.2.label>가벼움</ROM_GutWorms.stages.2.label>
-  <ROM_IntracranialPressure.stages.2.label>가벼움</ROM_IntracranialPressure.stages.2.label>
-  <ROM_SanityLoss.stages.1.label>가벼움</ROM_SanityLoss.stages.1.label>
-  <ROM_IntracranialPressure.stages.3.label>보통</ROM_IntracranialPressure.stages.3.label>
-  <ROM_Psionic.label>사이오닉</ROM_Psionic.label>
-  <ROM_SanityLoss.label>정신 붕괴</ROM_SanityLoss.label>
-  <ROM_IntracranialPressure.stages.4.label>심각함</ROM_IntracranialPressure.stages.4.label>
-  <ROM_Exsanguination.comps.0.labelSolidTendedWell>접합됨</ROM_Exsanguination.comps.0.labelSolidTendedWell>
-  <ROM_Psionic.comps.0.labelSolidTendedWell>접합됨</ROM_Psionic.comps.0.labelSolidTendedWell>
-  <ROM_GutWorms.stages.4.label>심각함</ROM_GutWorms.stages.4.label>
-  <ROM_SanityLoss.stages.3.label>심각함</ROM_SanityLoss.stages.3.label>
-  <ROM_GutWorms.label>기괴한 벌레</ROM_GutWorms.label>
-  <ROM_Exsanguination.injuryProps.destroyedLabel>빨아냄</ROM_Exsanguination.injuryProps.destroyedLabel>
-  <ROM_Exsanguination.comps.0.labelTendedWellInner>봉합됨</ROM_Exsanguination.comps.0.labelTendedWellInner>
-  <ROM_Psionic.comps.0.labelTendedWellInner>봉합됨</ROM_Psionic.comps.0.labelTendedWellInner>
-  <ROM_GutWorms.stages.0.label>초기-감춰짐</ROM_GutWorms.stages.0.label>
-  <ROM_Exsanguination.label>흡혈</ROM_Exsanguination.label>
 
   <!--775650249_181117_RimMagic-->
   <MagicAVampirismHediff.injuryProps.destroyedLabel>Ascendant Vampire</MagicAVampirismHediff.injuryProps.destroyedLabel>
@@ -1351,46 +1230,6 @@
   <MagicVampirismHediff.injuryProps.destroyedLabel>흡혈귀</MagicVampirismHediff.injuryProps.destroyedLabel>
   <MagicVampirismHediff.injuryProps.destroyedOutLabel>흡혈귀</MagicVampirismHediff.injuryProps.destroyedOutLabel>
   <MagicVampirismHediff.label>흡혈증</MagicVampirismHediff.label>
-
-  <!--815039373_181117_Call of Cthulhu - Cults-->
-  <BastClaws.labelNoun>발톱달린 손</BastClaws.labelNoun>
-  <Cults_AcidBurn.label>산화상</Cults_AcidBurn.label>
-  <Cults_AcidBurn.labelNoun>산화상</Cults_AcidBurn.labelNoun>
-  <Cults_AcidBurn.comps.0.labelTendedWell>붕대감음</Cults_AcidBurn.comps.0.labelTendedWell>
-  <Cults_Psionic.comps.0.labelTendedWell>붕대감음</Cults_Psionic.comps.0.labelTendedWell>
-  <Cults_BlackIchor.label>차토구아의 피</Cults_BlackIchor.label>
-  <Cults_MonstrousBody.comps.0.tools.0.label>신체</Cults_MonstrousBody.comps.0.tools.0.label>
-  <Cults_AcidBurn.injuryProps.destroyedLabel>녹아버림</Cults_AcidBurn.injuryProps.destroyedLabel>
-  <Cults_AcidBurn.injuryProps.destroyedOutLabel>녹아버림</Cults_AcidBurn.injuryProps.destroyedOutLabel>
-  <BastClaws.label>발톱</BastClaws.label>
-  <BastClaws.comps.0.tools.0.label>발톱</BastClaws.comps.0.tools.0.label>
-  <Cults_Psionic.label>파괴</Cults_Psionic.label>
-  <Cults_CthulhidTentacle.label>크툴리드 촉수</Cults_CthulhidTentacle.label>
-  <IntracranialPressureBuildup.stages.5.label>극심함</IntracranialPressureBuildup.stages.5.label>
-  <Cults_SanityLoss.stages.4.label>극심함</Cults_SanityLoss.stages.4.label>
-  <BastCatLikeAspect.label>고양잇과</BastCatLikeAspect.label>
-  <Cults_CthulhidEyestalk.label>끔찍한 눈썹</Cults_CthulhidEyestalk.label>
-  <Cults_Psionic.injuryProps.destroyedLabel>함몰됨</Cults_Psionic.injuryProps.destroyedLabel>
-  <IntracranialPressureBuildup.stages.1.label>초기</IntracranialPressureBuildup.stages.1.label>
-  <Cults_SanityLoss.stages.0.label>긴장함-감춰짐</Cults_SanityLoss.stages.0.label>
-  <IntracranialPressureBuildup.stages.0.label>초기-감춰짐</IntracranialPressureBuildup.stages.0.label>
-  <IntracranialPressureBuildup.label>두개내압</IntracranialPressureBuildup.label>
-  <Cults_SanityLoss.stages.2.label>보통</Cults_SanityLoss.stages.2.label>
-  <IntracranialPressureBuildup.stages.2.label>가벼움</IntracranialPressureBuildup.stages.2.label>
-  <Cults_SanityLoss.stages.1.label>가벼움</Cults_SanityLoss.stages.1.label>
-  <IntracranialPressureBuildup.stages.3.label>보통</IntracranialPressureBuildup.stages.3.label>
-  <Cults_MonstrousBody.label>비정상적인 심장</Cults_MonstrousBody.label>
-  <Cults_MonstrousBrain.label>괴물같은 뇌</Cults_MonstrousBrain.label>
-  <Cults_PsionicBrain.label>사이오닉 두뇌</Cults_PsionicBrain.label>
-  <Cults_SanityLoss.label>정신 붕괴</Cults_SanityLoss.label>
-  <IntracranialPressureBuildup.stages.4.label>심각함</IntracranialPressureBuildup.stages.4.label>
-  <Cults_AcidBurn.comps.0.labelSolidTendedWell>접합함</Cults_AcidBurn.comps.0.labelSolidTendedWell>
-  <Cults_Psionic.comps.0.labelSolidTendedWell>응고됨</Cults_Psionic.comps.0.labelSolidTendedWell>
-  <Cults_SanityLoss.stages.3.label>심각함</Cults_SanityLoss.stages.3.label>
-  <Cults_SleepHediff.label>깊은 잠에 취함</Cults_SleepHediff.label>
-  <Cults_AcidBurn.comps.0.labelTendedWellInner>봉합함</Cults_AcidBurn.comps.0.labelTendedWellInner>
-  <Cults_Psionic.comps.0.labelTendedWellInner>봉합함</Cults_Psionic.comps.0.labelTendedWellInner>
-  <Cults_TentacleArm.label>촉수</Cults_TentacleArm.label>
 
   <!--846222458_190818_More Mechanoids-->
   <Paralyze.stages.3.label>기절</Paralyze.stages.3.label>

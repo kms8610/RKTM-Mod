@@ -1,32 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--1240656304_190617_Lighter Than Fast-->
-  <LTF_Research_EngieBench.label>엔지 관리 일정 수립</LTF_Research_EngieBench.label>
-  <LTF_Research_EngieBench.description>엔지 작업대를 만들 수 있습니다 : - 맨티스 인조 손톱 (대장간에서도 제작 가능) -엔지 롬 - 졸탄 보호막 매트 [생산 탭]</LTF_Research_EngieBench.description>
-  <LTF_Research_MantisBladeT0.label>맨티스 교류 지원</LTF_Research_MantisBladeT0.label>
-  <LTF_Research_MantisBladeT0.description>최악의 상황에서, 맨티스는 강철로 만든 발톱으로 상대방과 좋은 대화를 나눌 수 있을 것입니다. 그것은 위로가 되어줍니다. 합성 발톱 설치에 필요한 것. 최신 업데이트를 해주세요. [엔지 작업대] [전기 제작대] [연료 제작대] [수술 레시피]</LTF_Research_MantisBladeT0.description>
-  <LTF_Research_RockmanStove.label>락맨 체온 수도자</LTF_Research_RockmanStove.label>
-  <LTF_Research_RockmanStove.description>암석 난로는 화학연료를 통해 온기를 제공합니다. 또한 암석덩어리를 녹일 수 있습니다. [생산 탭]</LTF_Research_RockmanStove.description>
-  <LTF_Research_Slug.label>슬러그 초보자</LTF_Research_Slug.label>
-  <LTF_Research_Slug.description>베라위카 레시피와 분비물로 실크로 만듭니다. [도축 작업대] [재봉 작업대]</LTF_Research_Slug.description>
-  <LTF_Research_ZoltanShieldBench.label>졸탄 아원자층 이론</LTF_Research_ZoltanShieldBench.label>
-  <LTF_Research_ZoltanShieldBench.description>보호막과 투구를 만들 수 있는 작업대입니다. 보호매트를 효과적으로 충전하려면 졸탄 보호막 작업대가 필요합니다. [보안 탭]</LTF_Research_ZoltanShieldBench.description>
-  <LTF_Research_EngieT1Roms.label>엔지 T1 물품들</LTF_Research_EngieT1Roms.label>
-  <LTF_Research_EngieT1Roms.description>T1 롬 제작에 필요합니다. T1 롬 설치에 필요합니다. [엔지작업대] [수술 레시피]</LTF_Research_EngieT1Roms.description>
-  <LTF_Research_MantisBladeT1.label>맨티스 벼리기</LTF_Research_MantisBladeT1.label>
-  <LTF_Research_MantisBladeT1.description>플라스틸과 맨티스의 손톱을 조합하여 날카롭게 합니다. [엔지 작업대] [전기 제작대] [연료 제작대]</LTF_Research_MantisBladeT1.description>
-  <LTF_Research_SlugProducts.label>슬러그 아마추어</LTF_Research_SlugProducts.label>
-  <LTF_Research_SlugProducts.description>고문에 가까운 자연 요리법입니다. - 알 + 분비물 = 더 많은 분미물 - 알 + 고철 덩어리 = 더 많은 덩어리 - 수정란 + 고철 덩어리 = ??? 결과를 확인해보려면 알을 던져보는 방법도 있습니다. [도축 작업대]</LTF_Research_SlugProducts.description>
-  <LTF_Research_Shieldmet.label>보호매트</LTF_Research_Shieldmet.label>
-  <LTF_Research_Shieldmet.description>보호막과 투구를 만들 수 있는 작업대입니다. 손상된 보호매트는 보호막 작업대에서 보호막층을 충전하여 차폐층을 충전합니다. [엔지 작업대]</LTF_Research_Shieldmet.description>
-  <LTF_Research_EngieT2Roms.label>엔지 T2 물품들</LTF_Research_EngieT2Roms.label>
-  <LTF_Research_EngieT2Roms.description>T2 롬 제작에 필요합니다. T2 원예롬을 설치하면 원예가 최대 113%가 됩니다. [엔지 작업대]</LTF_Research_EngieT2Roms.description>
-  <LTF_Research_Mindcontrol.label>정신 조종 작업대</LTF_Research_Mindcontrol.label>
-  <LTF_Research_Mindcontrol.description>위대한 힘은 좋은 시설과 함께 나옵니다. 적들의 정신을 조종할 수 있습니다. [보안 탭]</LTF_Research_Mindcontrol.description>
-  <LTF_Research_EngieT3Roms.label>엔지 T3 물품들</LTF_Research_EngieT3Roms.label>
-  <LTF_Research_EngieT3Roms.description>T3 롬 제작에 필요합니다. T3 연구롬을 설치하면 연구가 최대 125%가 됩니다. [엔지 작업대]</LTF_Research_EngieT3Roms.description>
-
   <!--1294507772_190519_The Mantodean insectoid race-->
   <OrganicStructuresTech.label>유기 구조물</OrganicStructuresTech.label>
   <OrganicStructuresTech.description>일반적인 맨토디안 둥지에서 발견되는 건출물의 한 종류로, 이들이 생산하는 곤충 젤리는 압축, 건조되어 점토와 비슷한 응집구조를 형성하도록 할 수 있습니다.</OrganicStructuresTech.description>
@@ -44,66 +18,6 @@
   <AcidRefinery.description>화학적인 발열반응을 연구하여 전력에 의존하지 않고 제련과 정제작업을 할 수 있는 방법을 알아냅니다.</AcidRefinery.description>
   <MutagensBenchResearch.label>돌연변이 제작법</MutagensBenchResearch.label>
   <MutagensBenchResearch.description>구조물의 생성을 위해 사용되는 돌연변이 인자를 추가적으로 연구하여, 치명적인 부작용이 없이 맨토디안에게 직접 사용할 수 있도록 안정화합니다.</MutagensBenchResearch.description>
-
-  <!--1314474881_181118_Avali-->
-  <AvaliClothes.label>아발리 의류</AvaliClothes.label>
-  <AvaliClothes.description>아발리 의류를 만드는 연구를 진행합니다.\n\n독특한 신체 크기와 구조 때문에 아발리만 착용할 수 있습니다.</AvaliClothes.description>
-  <AvaliPlants.label>아발리 재배</AvaliPlants.label>
-  <AvaliPlants.description>키리 과일, 나카티 알, 피루 정착지 등의 아발리 고향의 식물을 재배하고 요리할 수 있습니다.</AvaliPlants.description>
-  <AvaliLifeSupportBelt.label>생명 유지 벨트</AvaliLifeSupportBelt.label>
-  <AvaliLifeSupportBelt.description>아발리가 직접 흡입할 수 있는 공기 방울을 만드는 생명 유지 벨트를 만듭니다.</AvaliLifeSupportBelt.description>
-  <AvaliHolograms.label>아발리 홀로그램</AvaliHolograms.label>
-  <AvaliHolograms.description>작고 현대적인 홀로그램 텔레비전을 만드는 방법을 연구합니다.</AvaliHolograms.description>
-  <AvaliDoors.label>군용 문</AvaliDoors.label>
-  <AvaliDoors.description>군사 벙커, 대피소 및 생산 단지를 위해 특별히 설계된 슈퍼 내구성이 문을 건설하는 방법을 연구합니다.</AvaliDoors.description>
-  <AvaliLighting.label>아발리 LED 조명</AvaliLighting.label>
-  <AvaliLighting.description>매우 효율적인 LED 램프를 건설하는 방법을 연구합니다.</AvaliLighting.description>
-  <AvaliSurvivalGear.label>생존장비</AvaliSurvivalGear.label>
-  <AvaliSurvivalGear.description>기본 환경 지원 시스템으로, 기초적인 생존장비와 헤드셋을 만드는 방법을 연구합니다.\n\n아발리만 입을 수 있고, 아발리만 연구할 수 있습니다.</AvaliSurvivalGear.description>
-  <AvaliScoutArmor.label>정찰병 갑옷</AvaliScoutArmor.label>
-  <AvaliScoutArmor.description>기본 환경 지원 시스템으로, 정찰병 갑옷과 정찰병 HUD를 만드는 방법을 연구합니다.\n\n아발리만 입을 수 있고, 아발리만 연구할 수 있습니다.</AvaliScoutArmor.description>
-  <AvaliExoskeleton.label>아발리 강화복</AvaliExoskeleton.label>
-  <AvaliExoskeleton.description>작업속도와 보행속도를 높이는 강화복을 만드는 방법을 연구합니다. 기본 환경 지원 시스템을 포함합니다.\n\n아발리만 입을 수 있고, 아발리만 연구할 수 있습니다.</AvaliExoskeleton.description>
-  <AvaliGuardianArmor.label>수호자 전투복</AvaliGuardianArmor.label>
-  <AvaliGuardianArmor.description>고급 환경 지원 시스템과 "수호자" 전투복을 만드는 방법을 연구합니다. 많은 종류의 갑옷이 있지만, 매우 무겁고 전자적인 도움은 거의 제공하지 않습니다.\n\n아발리만 입을 수 있고, 아발리만 연구할 수 있습니다.</AvaliGuardianArmor.description>
-  <AvaliCombatArmor.label>표준 전투복</AvaliCombatArmor.label>
-  <AvaliCombatArmor.description>고급 환경 지원 시스템과 아발리 전투복을 만드는 방법을 연구합니다. 갑옷과 사용자 지원 시스템의 균형을 적절하게 맞췄습니다.\n\n아발리만 입을 수 있고, 아발리만 연구할 수 있습니다.</AvaliCombatArmor.description>
-  <AvaliHellcatArmor.label>마녀 전투복</AvaliHellcatArmor.label>
-  <AvaliHellcatArmor.description>고급 환경 지원 시스템과 "마녀" 전투복을 만드는 방법을 연구합니다. 사용자 지원 시스템으 가볍게 무장합니다.\n\n아발리만 입을 수 있고, 아발리만 연구할 수 있습니다.</AvaliHellcatArmor.description>
-  <AvaliPrinting.label>나노선반</AvaliPrinting.label>
-  <AvaliPrinting.description>아발리 나노선반에서 아발리 기술로 신속하게 제작할 수 있는 방법을 연구합니다.</AvaliPrinting.description>
-  <AvaliWeaving.label>나노베틀</AvaliWeaving.label>
-  <AvaliWeaving.description>그래핀과 나노섬유를 짜기 위해 나노베틀을 제작하는 방법을 연구합니다.</AvaliWeaving.description>
-  <AvaliAerogel.label>에어로겔 인쇄</AvaliAerogel.label>
-  <AvaliAerogel.description>에어로겔을 인쇄하는 방법을 연구합니다. 에어로겔은 거의 무게가 없지만 놀라운 구조적 특성을 가진 격자구조를 가지고 있습니다.</AvaliAerogel.description>
-  <AvaliPlasteel.label>플라스틸 생성</AvaliPlasteel.label>
-  <AvaliPlasteel.description>플라스틸을 만드는 방법을 연구합니다. 이것은 철과 탄소 나누섬유로 내구성이 좋고 유연한 복합 재료입니다.</AvaliPlasteel.description>
-  <AvaliMelee.label>아발리 근접무기</AvaliMelee.label>
-  <AvaliMelee.description>나노선반 또는 기계 작업대에서 에어로겔로 창이나 칼을 제작하는 방법을 연구합니다.</AvaliMelee.description>
-  <AvaliRocketLaunchers.label>아발리 로켓</AvaliRocketLaunchers.label>
-  <AvaliRocketLaunchers.description>"불화살" 로켓 발사기와 로켓을 생산하는 방법을 연구합니다.</AvaliRocketLaunchers.description>
-  <AvaliRailguns.label>고속 무기</AvaliRailguns.label>
-  <AvaliRailguns.description>나노선반에서 아발리 레일건 무기 대부분을 생산할 수 있습니다.</AvaliRailguns.description>
-  <AvaliMiniguns.label>하이브리드 미니건</AvaliMiniguns.label>
-  <AvaliMiniguns.description>"우박" 하이브리드 미니건을 만드는 방법을 연구합니다.</AvaliMiniguns.description>
-  <AvaliNanites.label>나노기계 신체개조</AvaliNanites.label>
-  <AvaliNanites.description>신체 강화 나노기계 주입기들을 제작하는 방법을 연구합니다.</AvaliNanites.description>
-  <AvaliCybernetics.label>아발리 인공두뇌학</AvaliCybernetics.label>
-  <AvaliCybernetics.description>사용자의 능력을 향상시키는 인공지능 팔라디를 제작할 수 있습니다.\n\n아발리만 연구할 수 있습니다.</AvaliCybernetics.description>
-  <AvaliCyberneticsAdvanced.label>고급 인공두뇌학</AvaliCyberneticsAdvanced.label>
-  <AvaliCyberneticsAdvanced.description>플라스틸로 제작한 고급 인공지능 이식물을 만드는 방법을 연구합니다. 패거리 손실의 영향을 억제할 수 있습니다.\n\n아발리만 연구할 수 있습니다.</AvaliCyberneticsAdvanced.description>
-  <AvaliAugments.label>증강</AvaliAugments.label>
-  <AvaliAugments.description>조립 작업대에서 최상위 신체 이식물을 제작할 수 있습니다. 아발리가 아니어도 사용할 수 있습니다.</AvaliAugments.description>
-  <AvaliShieldBelt.label>아발리 방어 벨트</AvaliShieldBelt.label>
-  <AvaliShieldBelt.description>아발리 방어 벨트를 만드는 방법을 연구합니다.\n\n인간의 표준 방어 벨트와 비교해서 3배 더 강한 방어영역을 제공하며, 충전 지속시간이 2배 더 많습니다.</AvaliShieldBelt.description>
-  <AvaliTurretSmall.label>레일건 포탑</AvaliTurretSmall.label>
-  <AvaliTurretSmall.description>아발리 "켈베로스"포탑을 만드는 방법을 연구합니다.\n\n사격 대기시간은 길지만, 매우 긴 범위에서 강력하고 정확한 포격을 할 수 있습니다. 모든 아발리 포탐은 레일건 기술을 사용하기 때문에 많은 전력을 소비합니다.</AvaliTurretSmall.description>
-  <AvaliTurretMedium.label>하이브리드 미니건 포탑</AvaliTurretMedium.label>
-  <AvaliTurretMedium.description>아발리 "리퍼" 하이브리드 미니건 포탑을 만드는 방법을 연구합니다.\n\n사격속도가 높지만 비교적 약하고 정확하지 않습니다.</AvaliTurretMedium.description>
-  <AvaliTurretLarge.label>로켓 발사기 포탑</AvaliTurretLarge.label>
-  <AvaliTurretLarge.description>아발리 "채찍" 로켓 발사기 포탑을 만드는 방법을 연구합니다.\n\n사거리와 정확도의 완벽한 균형을 유지한 채 사용자가 선택한 발사속도로 고가의 고성능 폭약을 발사합니다.</AvaliTurretLarge.description>
-  <AvaliAeroponics.label>기경법</AvaliAeroponics.label>
-  <AvaliAeroponics.description>전통적인 수경 재배에 비해서 초기 비용이 높은 모듈식 에어로포닉을 구축하여, 더 빠르고 에너지효율적인 성장을 가능하게 합니다.</AvaliAeroponics.description>
 
   <!--1365540920_190714_Black Widows-->
   <BWGardens.label>블랙 위도우 식물학</BWGardens.label>

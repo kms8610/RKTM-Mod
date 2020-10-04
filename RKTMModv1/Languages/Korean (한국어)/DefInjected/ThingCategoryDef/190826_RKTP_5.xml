@@ -5,50 +5,6 @@
   <ExtendedStorageExtended_BuildingsFurnitureStorage.label>저장소</ExtendedStorageExtended_BuildingsFurnitureStorage.label>
   <AnimalFeed.label>동물 먹이</AnimalFeed.label>
 
-  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
-  <OGIWeapons.label>임페리얼 무기</OGIWeapons.label>
-  <OGIRanged.label>임페리얼 근접 무기</OGIRanged.label>
-  <OGIMelee.label>임페리얼 원거리 무기</OGIMelee.label>
-  <OGIGrens.label>임페리얼 수류탄</OGIGrens.label>
-  <OGISub.label>임페리얼</OGISub.label>
-  <OGIArmour.label>임페리얼 보호구</OGIArmour.label>
-  <OGIApparel.label>임페리얼 옷</OGIApparel.label>
-  <OGIHeadgear.label>임페리얼 머리장비</OGIHeadgear.label>
-  <OGIAddons.label>임페리얼 추가 보호구</OGIAddons.label>
-  <OGIWargear.label>임페리얼 무기</OGIWargear.label>
-  <Ammunition.label>군수품</Ammunition.label>
-  <OGIAmmunition.label>임페리얼 군수품</OGIAmmunition.label>
-  <OGIMissiles.label>임페리얼 미사일</OGIMissiles.label>
-  <OGAMWeapons.label>메카니쿠스 웨폰</OGAMWeapons.label>
-  <OGAMRanged.label>메카니쿠스 원거리 무기</OGAMRanged.label>
-  <OGAMMelee.label>메카니쿠스 근접 무기</OGAMMelee.label>
-  <OGAMGrens.label>메카니쿠스 수류탄</OGAMGrens.label>
-  <OGAMSub.label>아뎁투스 메카니쿠스</OGAMSub.label>
-  <OGAMApparel.label>메카니쿠스 옷</OGAMApparel.label>
-  <OGAMArmour.label>메카니쿠스 보호구</OGAMArmour.label>
-  <OGAMHeadgear.label>메카니쿠스 머리장비</OGAMHeadgear.label>
-  <OGAMAddons.label>메카니쿠스 추가 보호구</OGAMAddons.label>
-  <OGAMWargear.label>메카니쿠스 무기</OGAMWargear.label>
-  <OGEWeapons.label>엘다 무기</OGEWeapons.label>
-  <OGERanged.label>엘다 원거리 무기</OGERanged.label>
-  <OGEMelee.label>엘다 근접 무기</OGEMelee.label>
-  <OGDEWeapons.label>다크 엘다 무기</OGDEWeapons.label>
-  <OGDERanged.label>다크 엘다 원거리 무기</OGDERanged.label>
-  <OGDEMelee.label>다크 엘다 근접 무기</OGDEMelee.label>
-  <OGTWeapons.label>타우 무기</OGTWeapons.label>
-  <OGTRanged.label>타우 원거리 무기</OGTRanged.label>
-  <OGKRanged.label>타우 원거리 무기</OGKRanged.label>
-  <OGTMelee.label>타우 근접 무기</OGTMelee.label>
-  <OGCWeapons.label>카오스 무기</OGCWeapons.label>
-  <OGCRanged.label>카오스 원거리 무기</OGCRanged.label>
-  <OGCMelee.label>카오스 근접 무기</OGCMelee.label>
-  <OGOWeapons.label>오크 무기</OGOWeapons.label>
-  <OGORanged.label>오크 원거리 무기</OGORanged.label>
-  <OGOMelee.label>오크 근접 무기</OGOMelee.label>
-  <OGNWeapons.label>네크론 무기</OGNWeapons.label>
-  <OGNRanged.label>네크론 원거리 무기</OGNRanged.label>
-  <OGNMelee.label>네크론 근접 무기</OGNMelee.label>
-
   <!--1612746332_190707_Girls' frontline Apparel Pack-->
   <GF_costumes.label>그리폰 의상</GF_costumes.label>
 

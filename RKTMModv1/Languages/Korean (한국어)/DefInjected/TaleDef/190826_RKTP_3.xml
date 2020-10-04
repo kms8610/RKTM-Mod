@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--1314474881_181118_Avali-->
-  <Sang.label>노래</Sang.label>
-
   <!--1785657108_190811_Humanoid Project-->
   <StormMarkTale.label>폭풍 표식</StormMarkTale.label>
   <StormMarkTale.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef](이)가 정착지 주변을 배회하고 있습니다.</StormMarkTale.rulePack.rulesStrings.0>

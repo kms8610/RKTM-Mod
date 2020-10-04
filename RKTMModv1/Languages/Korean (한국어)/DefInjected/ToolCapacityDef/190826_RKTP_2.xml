@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--1113137502_190707_Genetic Rim-->
-  <GR_VeryToxicBite.label>맹독성 물기</GR_VeryToxicBite.label>
-  <GR_LightToxicBite.label>가벼운 독성 물기</GR_LightToxicBite.label>
-  <GR_ToxicExplosion.label>독성 폭발</GR_ToxicExplosion.label>
-  <GR_PlagueBite.label>괴로운 물기</GR_PlagueBite.label>
-  <GR_HairballBite.label>털뭉치 물기</GR_HairballBite.label>
-
   <!--1430501911_190519_Infectious Creatures-->
   <VenomBite.label>독성 물기</VenomBite.label>
   <MegaScarabBite.label>메가스캐럽 물기</MegaScarabBite.label>

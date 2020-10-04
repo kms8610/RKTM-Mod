@@ -4,31 +4,6 @@
   <!--1420241138_190817_Simply More Bridges-->
   <NoFloorsOnBridges>다리 위에 바닥을 지을 수 없습니다.</NoFloorsOnBridges>
 
-  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
-  <AU_NoTargets>사용 가능한 대상이 없습니다.</AU_NoTargets>
-  <AU_DISABLED>사용불가</AU_DISABLED>
-  <AU_Type>유형: </AU_Type>
-  <AU_TargetAoE>효과 범위</AU_TargetAoE>
-  <AU_TargetSelf>시전자</AU_TargetSelf>
-  <AU_TargetThing>다른 대상</AU_TargetThing>
-  <AU_TargetLocation>대상 위치</AU_TargetLocation>
-  <AU_Cooldown>재사용 대기시간:</AU_Cooldown>
-  <AU_Extra>추가 사항</AU_Extra>
-  <AU_MentalStateChance>정신상태 확률</AU_MentalStateChance>
-  <AU_EffectChance>효과 확률</AU_EffectChance>
-  <AU_PawnAbilityRecharging>{0}(은)는 재사용 대기 중입니다</AU_PawnAbilityRecharging>
-  <AU_AoEProperties>효과 범위 속성</AU_AoEProperties>
-  <AU_TargetClass>대상: </AU_TargetClass>
-  <AU_AoECharacters>인물</AU_AoECharacters>
-  <AU_AoEFriendlyFire>오인사격: </AU_AoEFriendlyFire>
-  <AU_AoEMaxTargets>최대 대상: </AU_AoEMaxTargets>
-  <AU_AoEStartsFromCaster>영창 시작: </AU_AoEStartsFromCaster>
-  <TST_BurnerBullet_SuccessMessage>{0}의 총이 과열되었습니다.</TST_BurnerBullet_SuccessMessage>
-  <ModName>아뎁투스 메카니쿠스: 아머</ModName>
-  <SpawnWithRaids>침입한 폰들에게 자살조끼를 뿌리고 싶으세요?</SpawnWithRaids>
-  <WearableExplosives_Label>폭파하기</WearableExplosives_Label>
-  <WearableExplosives_Desc>이 폰의 자살조끼를 폭파하세요.</WearableExplosives_Desc>
-
   <!--1541893512_190817_CleaningStation-->
   <CleaningStation_settings_cleanTime_label>틱당 청소 주기(1초 = 60 틱)</CleaningStation_settings_cleanTime_label>
   <CleaningStation_settings_cleanTime_desc>60에서 3600 사이(포함). 변경값은 재실행 후 적용됩니다.</CleaningStation_settings_cleanTime_desc>

@@ -1,1 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData> 	<!--1541620640_190628_HousekeeperAssistanceCat-->	<HousekeeperCatAdult.label>성체</HousekeeperCatAdult.label>	<!--1553741992_190818_Jernfalk's Skeletal Legion-->	<SkeletonFullyFormed.label>완전한</SkeletonFullyFormed.label>	<!--1746084920_190526_RimSlave-->	<DothrakiDothrak.label>도트라키 도트락</DothrakiDothrak.label>	<DothrakiKo.label>도트라키 코</DothrakiKo.label>	<DothrakiKhal.label>도트라키 칼</DothrakiKhal.label>	<UnsulliedInfantry.label>무오병 보병</UnsulliedInfantry.label>	<UnsulliedOfficer.label>무오병 장관</UnsulliedOfficer.label>	<UnsulliedCommander.label>무오병 사령관</UnsulliedCommander.label>	<!--725576127_190626_Glitter Tech-->	<OCTankFullyFormed.label>완전히 조립됨</OCTankFullyFormed.label>	<!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->	<ROM_Ancient.label>고대의</ROM_Ancient.label>	<ROM_Eldritch.label>엘드리치</ROM_Eldritch.label>	<ROM_FullyFormed.label>완전이 형성된</ROM_FullyFormed.label>	<ROM_Spawn.label>알</ROM_Spawn.label>	<!--815039373_181117_Call of Cthulhu - Cults-->	<Cults_Ancient.label>고대</Cults_Ancient.label>	<Cults_Eldritch.label>엘드리치</Cults_Eldritch.label>	<Cults_FullyFormed.label>완성됨</Cults_FullyFormed.label>	<Cults_Spawn.label>알</Cults_Spawn.label>	<!--918226861_190816_Star Wars - The Force-->	<PJ_FGhostLifestage.label>성인 단계</PJ_FGhostLifestage.label>	<!--950475543_190818_Rim of Madness - Arachnophobia-->	<ROMA_SpiderAdult.label>성체</ROMA_SpiderAdult.label></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1541620640_190628_HousekeeperAssistanceCat-->
+  <HousekeeperCatAdult.label>성체</HousekeeperCatAdult.label>
+
+  <!--1553741992_190818_Jernfalk's Skeletal Legion-->
+  <SkeletonFullyFormed.label>완전한</SkeletonFullyFormed.label>
+
+  <!--1746084920_190526_RimSlave-->
+  <DothrakiDothrak.label>도트라키 도트락</DothrakiDothrak.label>
+  <DothrakiKo.label>도트라키 코</DothrakiKo.label>
+  <DothrakiKhal.label>도트라키 칼</DothrakiKhal.label>
+  <UnsulliedInfantry.label>무오병 보병</UnsulliedInfantry.label>
+  <UnsulliedOfficer.label>무오병 장관</UnsulliedOfficer.label>
+  <UnsulliedCommander.label>무오병 사령관</UnsulliedCommander.label>
+
+  <!--725576127_190626_Glitter Tech-->
+  <OCTankFullyFormed.label>완전히 조립됨</OCTankFullyFormed.label>
+
+  <!--918226861_190816_Star Wars - The Force-->
+  <PJ_FGhostLifestage.label>성인 단계</PJ_FGhostLifestage.label>
+
+  <!--950475543_190818_Rim of Madness - Arachnophobia-->
+  <ROMA_SpiderAdult.label>성체</ROMA_SpiderAdult.label>
+
+</LanguageData>

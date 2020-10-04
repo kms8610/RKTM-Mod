@@ -32,11 +32,6 @@
   <!--1231678757_190814_Technology Blueprints-->
   <TechnologyBlueprints.label>기술 청사진</TechnologyBlueprints.label>
 
-  <!--1301071669_190521_Cyberpunk-->
-  <CPApparels.label>사이버펑크 의류</CPApparels.label>
-  <CPHeadgears.label>사이버펑크 헬멧</CPHeadgears.label>
-  <CPWeapons.label>사이버펑크 무기</CPWeapons.label>
-
   <!--1400245220_181030_Lord of the Rims - The Third Age-->
   <LotR_MeatRawSalted.label>소금절임 고기</LotR_MeatRawSalted.label>
 
@@ -75,11 +70,6 @@
   <Mizu_Snows.label>눈</Mizu_Snows.label>
   <Mizu_Tools.label>도구</Mizu_Tools.label>
   <Mizu_Waters.label>물</Mizu_Waters.label>
-
-  <!--1543060282_181101_Additional Joy Objects-->
-  <AJO_Arcades.label>오락기</AJO_Arcades.label>
-  <AJO_artCat.label>예술</AJO_artCat.label>
-  <AJO_ArcadeCarts.label>카트리지</AJO_ArcadeCarts.label>
 
   <!--1547881310_190814_Rimfall The Frontier-->
   <MilitiaGruntKit.label>저항군 보병 키트</MilitiaGruntKit.label>
@@ -208,13 +198,6 @@
   <Accessories_Nan.label>나나이트</Accessories_Nan.label>
   <Outergear.label>머리 장비</Outergear.label>
   <TradeGoods.label>무역품</TradeGoods.label>
-
-  <!--746425621_181026_A dog said-->
-  <BodyPartsAnimalArtificial.label>동물 신체 부위</BodyPartsAnimalArtificial.label>
-
-  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
-  <ROM_CosmicHorrorCorpses.label>괴물 시체</ROM_CosmicHorrorCorpses.label>
-  <ROM_StrangeMeatRaw.label>이상한 생고기</ROM_StrangeMeatRaw.label>
 
   <!--839005762_190628_Humanoid Alien Races-->
   <alienCorpseCategory.label>외계인 시체</alienCorpseCategory.label>

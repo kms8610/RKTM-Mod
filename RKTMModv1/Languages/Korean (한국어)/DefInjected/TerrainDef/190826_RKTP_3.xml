@@ -1,1 +1,42 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData> 	<!--1240656304_190617_Lighter Than Fast-->	<LTF_KraptylFloor.label>크랩 타일</LTF_KraptylFloor.label>	<LTF_KraptylFloor.description>쓸만한 결과를 얻기 위해 많은 작업이 필요합니다. 이 못생긴 바닥은 걷기도 어렵습니다. 마치 발을 물어머리는 알 껍질들을 밟는 느낌입니다. 눈은 잘 쌓이지 않지만, 불은 잘 붙습니다.</LTF_KraptylFloor.description>	<LTF_SlugDewFloor.label>분비물 타일</LTF_SlugDewFloor.label>	<LTF_SlugDewFloor.description>쓸만한 결과를 얻기 위해 많은 작업이 필요합니다. 이 접착제같은 바닥은 걷기가 어렵습니다. 갇히지 않게 조심해야합니다.</LTF_SlugDewFloor.description>	<!--1294507772_190519_The Mantodean insectoid race-->	<JellyFloorone.label>부드러운 젤리 바닥</JellyFloorone.label>	<JellyFloorone.description>곤충젤리를 굳혀서 만들어진 바닥입니다.</JellyFloorone.description>	<JellyFloortwo.label>굴곡진 젤리 바닥</JellyFloortwo.label>	<JellyFloortwo.description>곤충젤리를 굳혀서 만들어진 바닥입니다.</JellyFloortwo.description>	<JellyFloorthree.label>깨진 젤리 바닥</JellyFloorthree.label>	<JellyFloorthree.description>곤충젤리를 굳혀서 만들어진 바닥입니다.</JellyFloorthree.description>	<JellyFloorfour.label>거친 젤리 바닥</JellyFloorfour.label>	<JellyFloorfour.description>곤충젤리를 굳혀서 만들어진 바닥입니다.</JellyFloorfour.description>	<!--1314474881_181118_Avali-->	<AvaliPlainPanel.label>일반 패널</AvaliPlainPanel.label>	<AvaliPlainPanel.description>때로는 적은 것이 더 좋기 때문에 사용하는 일반 패널.</AvaliPlainPanel.description>	<AvaliTentFabric.label>천막 천</AvaliTentFabric.label>	<AvaliTentFabric.description>아발리 천막 천.</AvaliTentFabric.description>	<AvaliTapestry.label>아발리 태피스트리</AvaliTapestry.label>	<AvaliTapestry.description>부드러운 장식용도의 태피스트리.</AvaliTapestry.description>	<AvaliTrimHorizontal.label>아발리 가로 장식</AvaliTrimHorizontal.label>	<AvaliTrimHorizontal.description>부드러운 장식용도의 잘려진 금속.</AvaliTrimHorizontal.description>	<AvaliTrimVertical.label>아발리 세로 장식</AvaliTrimVertical.label>	<AvaliTrimVertical.description>부드러운 장식용도의 잘려진 금속.</AvaliTrimVertical.description>	<!--1365540920_190714_Black Widows-->	<BWWebFloor.label>직조된 심연의 바닥</BWWebFloor.label>	<BWWebFloor.description>블랙 위도우는 종종 땅속 깊은 곳으로 통하는 짚 위에 거미줄로 만든 궁전을 짓습니다. 수 많은 채굴과 노력으로, 변방계에서도 매우 근사한 바닥재를 만들 수 있습니다. 이 거미줄 바닥은 밀도가 높은 실크로 엮고 금으로 만든 프레임과 결합하여 값비싸고 화려한 바닥을 만듭니다. 이 놀라운 바닥에서, 위도우들은 실제로 매우 빠르게 움직일 수 있습니다!</BWWebFloor.description>	<BWWebFloorBasic.label>직조된 심연의 바닥</BWWebFloorBasic.label>	<BWWebFloorBasic.description>블랙 위도우는 종종 땅속 깊은 곳으로 통하는 짚 위에 거미줄로 만든 궁전을 짓습니다. 수 많은 채굴과 노력으로, 변방계에서도 매우 근사한 바닥재를 만들 수 있습니다. 이 거미줄 바닥은 밀도가 높은 실크로 엮고 강철로 만든 프레임과 결합하여 약간 비싸고 화려한 바닥을 만듭니다.</BWWebFloorBasic.description>	<BWBurnedWebTile.label>불에 탄 거미줄 바닥 프레임</BWBurnedWebTile.label>	<BWBurnedWebTile.description>블랙 위도우의 거미줄 바닥으로, 불에 타버렸습니다.</BWBurnedWebTile.description>	<BWBasicBurnedWebTile.label>불에 탄 거미줄 바닥 프레임</BWBasicBurnedWebTile.label>	<BWBasicBurnedWebTile.description>블랙 위도우의 거미줄 바닥으로, 불에 타버렸습니다.</BWBasicBurnedWebTile.description>	<BWAbyssFloor.label>블랙 위도우 심연의 바닥</BWAbyssFloor.label>	<BWAbyssFloor.description>블랙 위도우는 종종 땅속 깊은 곳으로 통하는 짚 위에 거미줄로 만든 궁전을 짓습니다. 수 많은 채굴과 노력으로, 변방계에서도 매우 근사한 바닥재를 만들 수 있습니다. 심연의 바득은 무한한 무덤 안으로 떨어지는 것 처럼 보이지만, 눈에 보이지 않는 실크 끈으로 엮여져 있어 움직일 수 있습니다.</BWAbyssFloor.description>	<BWGardenSoil.label>블랙 위도우 정원 흙</BWGardenSoil.label>	<BWGardenSoil.tools.0.label>더러움</BWGardenSoil.tools.0.label>	<!--1400234784_190526_Lord of the Rims - Elves-->	<LotRE_MallornPlankFloor.label>말로른 나무 바닥</LotRE_MallornPlankFloor.label>	<LotRE_MallornPlankFloor.description>나무 판자 바닥입니다. 이 따스하고 내집같이 편한안 느낌이란. 만들기 쉽지만, 불도 잘 붙습니다.</LotRE_MallornPlankFloor.description>	<LotRE_MallornPlankFloorTwo.label>말로른 나무 바닥 (나무껍질)</LotRE_MallornPlankFloorTwo.label>	<LotRE_MallornPlankFloorTwo.description>나무 판자 바닥입니다. 이 따스하고 내집같이 편한안 느낌이란. 만들기 쉽지만, 불도 잘 붙습니다.</LotRE_MallornPlankFloorTwo.description>	<!--1416483638_190811_Orassans-->	<TileNeoConcrete.label>네오 콘크리트 타일</TileNeoConcrete.label>	<TileNeoConcrete.description>육각형의 네오 콘크리트 타일입니다. 상대적으로 싸고, 내화성이 좋으며, 보기에도 나쁘지 않습니다.</TileNeoConcrete.description>	<TileSmoothNeoConcrete.label>연마된 네오 콘크리트</TileSmoothNeoConcrete.label>	<TileSmoothNeoConcrete.description>연마된 네오 콘크리트입니다. 보기에도 이뻐 보이며 병원에 딱 어울려 보입니다.</TileSmoothNeoConcrete.description>	<OrassanSoil.label>오라산 얼음 빙판</OrassanSoil.label>	<OrassanSoilRich.label>오라산 가공 토양</OrassanSoilRich.label></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1294507772_190519_The Mantodean insectoid race-->
+  <JellyFloorone.label>부드러운 젤리 바닥</JellyFloorone.label>
+  <JellyFloorone.description>곤충젤리를 굳혀서 만들어진 바닥입니다.</JellyFloorone.description>
+  <JellyFloortwo.label>굴곡진 젤리 바닥</JellyFloortwo.label>
+  <JellyFloortwo.description>곤충젤리를 굳혀서 만들어진 바닥입니다.</JellyFloortwo.description>
+  <JellyFloorthree.label>깨진 젤리 바닥</JellyFloorthree.label>
+  <JellyFloorthree.description>곤충젤리를 굳혀서 만들어진 바닥입니다.</JellyFloorthree.description>
+  <JellyFloorfour.label>거친 젤리 바닥</JellyFloorfour.label>
+  <JellyFloorfour.description>곤충젤리를 굳혀서 만들어진 바닥입니다.</JellyFloorfour.description>
+
+  <!--1365540920_190714_Black Widows-->
+  <BWWebFloor.label>직조된 심연의 바닥</BWWebFloor.label>
+  <BWWebFloor.description>블랙 위도우는 종종 땅속 깊은 곳으로 통하는 짚 위에 거미줄로 만든 궁전을 짓습니다. 수 많은 채굴과 노력으로, 변방계에서도 매우 근사한 바닥재를 만들 수 있습니다. 이 거미줄 바닥은 밀도가 높은 실크로 엮고 금으로 만든 프레임과 결합하여 값비싸고 화려한 바닥을 만듭니다. 이 놀라운 바닥에서, 위도우들은 실제로 매우 빠르게 움직일 수 있습니다!</BWWebFloor.description>
+  <BWWebFloorBasic.label>직조된 심연의 바닥</BWWebFloorBasic.label>
+  <BWWebFloorBasic.description>블랙 위도우는 종종 땅속 깊은 곳으로 통하는 짚 위에 거미줄로 만든 궁전을 짓습니다. 수 많은 채굴과 노력으로, 변방계에서도 매우 근사한 바닥재를 만들 수 있습니다. 이 거미줄 바닥은 밀도가 높은 실크로 엮고 강철로 만든 프레임과 결합하여 약간 비싸고 화려한 바닥을 만듭니다.</BWWebFloorBasic.description>
+  <BWBurnedWebTile.label>불에 탄 거미줄 바닥 프레임</BWBurnedWebTile.label>
+  <BWBurnedWebTile.description>블랙 위도우의 거미줄 바닥으로, 불에 타버렸습니다.</BWBurnedWebTile.description>
+  <BWBasicBurnedWebTile.label>불에 탄 거미줄 바닥 프레임</BWBasicBurnedWebTile.label>
+  <BWBasicBurnedWebTile.description>블랙 위도우의 거미줄 바닥으로, 불에 타버렸습니다.</BWBasicBurnedWebTile.description>
+  <BWAbyssFloor.label>블랙 위도우 심연의 바닥</BWAbyssFloor.label>
+  <BWAbyssFloor.description>블랙 위도우는 종종 땅속 깊은 곳으로 통하는 짚 위에 거미줄로 만든 궁전을 짓습니다. 수 많은 채굴과 노력으로, 변방계에서도 매우 근사한 바닥재를 만들 수 있습니다. 심연의 바득은 무한한 무덤 안으로 떨어지는 것 처럼 보이지만, 눈에 보이지 않는 실크 끈으로 엮여져 있어 움직일 수 있습니다.</BWAbyssFloor.description>
+  <BWGardenSoil.label>블랙 위도우 정원 흙</BWGardenSoil.label>
+  <BWGardenSoil.tools.0.label>더러움</BWGardenSoil.tools.0.label>
+
+  <!--1400234784_190526_Lord of the Rims - Elves-->
+  <LotRE_MallornPlankFloor.label>말로른 나무 바닥</LotRE_MallornPlankFloor.label>
+  <LotRE_MallornPlankFloor.description>나무 판자 바닥입니다. 이 따스하고 내집같이 편한안 느낌이란. 만들기 쉽지만, 불도 잘 붙습니다.</LotRE_MallornPlankFloor.description>
+  <LotRE_MallornPlankFloorTwo.label>말로른 나무 바닥 (나무껍질)</LotRE_MallornPlankFloorTwo.label>
+  <LotRE_MallornPlankFloorTwo.description>나무 판자 바닥입니다. 이 따스하고 내집같이 편한안 느낌이란. 만들기 쉽지만, 불도 잘 붙습니다.</LotRE_MallornPlankFloorTwo.description>
+
+  <!--1416483638_190811_Orassans-->
+  <TileNeoConcrete.label>네오 콘크리트 타일</TileNeoConcrete.label>
+  <TileNeoConcrete.description>육각형의 네오 콘크리트 타일입니다. 상대적으로 싸고, 내화성이 좋으며, 보기에도 나쁘지 않습니다.</TileNeoConcrete.description>
+  <TileSmoothNeoConcrete.label>연마된 네오 콘크리트</TileSmoothNeoConcrete.label>
+  <TileSmoothNeoConcrete.description>연마된 네오 콘크리트입니다. 보기에도 이뻐 보이며 병원에 딱 어울려 보입니다.</TileSmoothNeoConcrete.description>
+  <OrassanSoil.label>오라산 얼음 빙판</OrassanSoil.label>
+  <OrassanSoilRich.label>오라산 가공 토양</OrassanSoilRich.label>
+
+</LanguageData>

@@ -103,10 +103,6 @@
   <WorshipKnowlegde.label>예배</WorshipKnowlegde.label>
   <WorshipKnowlegde.helpText>당신은 예배를 설정할 수 있습니다. 성서 예배 탭에서 예배의 날과 시간을 설정할 수 있습니다.\n설교자가 자격을 갖추지 못하면 예배할 때 디버프가 발생하고 설교자가 자격을 갖추면 숭배에 중독 될 수 있습니다. \n그것은 더 많은 예배를 함으로써 그들의 필요를 충족시켜야한다는 것을 의미합니다.</WorshipKnowlegde.helpText>
 
-  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
-  <ROM_SanityLossConcept.helpText>크툴루의 부름 시리즈에서, 우주의 참상이나 다른 세계에 노출되면 정신붕괴에 직면할 수 있습니다. 정신을 똑바로 차리기 위해 할 수 있는 것이 있다면...\n\n1. 정신을 회복하기 위해 오래 기다리거나\n\n2. 정착민을 우클릭하여 정신상태 비용을 지불해 정신을 회복하거나\n\n3. 작가의 작업대나 타자기를 이용해 책이나 일기를 쓰는 것도 한 방법입니다.\n\n\n참고: RimWriter 모드에서 타자기나 작가의 작업대를 이용할 수 있습니다.</ROM_SanityLossConcept.helpText>
-  <ROM_SanityLossConcept.label>정신붕괴</ROM_SanityLossConcept.label>
-
   <!--777197241_190628_Industrial Age - Objects and Furniture-->
   <Jecrell_Gramophone.label>축음기</Jecrell_Gramophone.label>
   <Jecrell_TypewriterTable.helpText>정착민은 타자기를 사용하여 자신의 스트레스를 줄이거나 오락을 즐길 수 있습니다. 크툴루의 부름 모드가 적용되어 있다면 심각한 정신이상 상태를 조금 더 빠른 속도로 줄일 수 있습니다. 또한 일기 아이템을 만들 수 있습니다. 현재는 기본적인 기능만 있으며 파기될 수도 있고 나중에 더 확장될 수도 있습니다.</Jecrell_TypewriterTable.helpText>
@@ -116,9 +112,5 @@
   <Jecrell_Wax.label>밀랍 사용하기</Jecrell_Wax.label>
   <Jecrell_Gramophone.helpText>정착민이 선택된 상태에서 기록된 음악을 재생하려면 축음기를 우클릭합니다. 음악이 연주되는 동안, 정착민이 자발적으로 들을 수도 있고, 축음기를 우클릭하여 강제로 들을 수도 있습니다.</Jecrell_Gramophone.helpText>
   <Jecrell_TypewriterTable.label>글쓰기</Jecrell_TypewriterTable.label>
-
-  <!--815039373_181117_Call of Cthulhu - Cults-->
-  <ROM_SanityLossConcept.helpText>크툴루의 부름 시리즈에서, 우주의 참상이나 다른 세계에 노출되면 정신붕괴에 직면할 수 있습니다. 정신을 똑바로 차리기 위해 할 수 있는 것이 있다면...\n\n1. 정신을 회복하기 위해 오래 기다리거나\n\n2. 정착민을 우클릭하여 정신상태 비용을 지불해 정신을 회복하거나\n\n3. 작가의 작업대나 타자기를 이용해 책이나 일기를 쓰는 것도 한 방법입니다.\n\n\n참고: RimWriter 모드에서 타자기나 작가의 작업대를 이용할 수 있습니다.</ROM_SanityLossConcept.helpText>
-  <ROM_SanityLossConcept.label>정신붕괴</ROM_SanityLossConcept.label>
 
 </LanguageData>

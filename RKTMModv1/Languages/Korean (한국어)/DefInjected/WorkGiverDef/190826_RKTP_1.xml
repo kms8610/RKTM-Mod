@@ -55,11 +55,6 @@
   <DoBillsCraftBlueprint.verb>기술 청사진 제작</DoBillsCraftBlueprint.verb>
   <DoBillsCraftBlueprint.gerund>기술 청사진 제작</DoBillsCraftBlueprint.gerund>
 
-  <!--1279012058_190622_Pick Up And Haul-->
-  <HaulToInventory.verb>운반</HaulToInventory.verb>
-  <HaulToInventory.gerund>모아서 운반</HaulToInventory.gerund>
-  <HaulToInventory.label>물품 정리 및 운반</HaulToInventory.label>
-
   <!--1304432145_190814_Clone Bay-->
   <DoBillsGrinder.label>분쇄</DoBillsGrinder.label>
   <DoBillsGrinder.verb>분쇄</DoBillsGrinder.verb>
@@ -243,17 +238,6 @@
   <DoBillsSmokeMeat.label>고기 훈제</DoBillsSmokeMeat.label>
   <DoBillsSmokeMeat.gerund>훈제</DoBillsSmokeMeat.gerund>
 
-  <!--1543060282_181101_Additional Joy Objects-->
-  <AJO_DoBillsArcadeConstruction.label>오락기 만들기</AJO_DoBillsArcadeConstruction.label>
-  <AJO_DoBillsArcadeConstruction.verb>만들기</AJO_DoBillsArcadeConstruction.verb>
-  <AJO_DoBillsArcadeConstruction.gerund>만드는 중</AJO_DoBillsArcadeConstruction.gerund>
-  <AJO_DoBillsMakePainting.verb>그림 그리기</AJO_DoBillsMakePainting.verb>
-  <AJO_DoBillsMakePainting.label>이젤에서 그림 그리기</AJO_DoBillsMakePainting.label>
-  <AJO_DoBillsMakePainting.gerund>그림 그리는 중</AJO_DoBillsMakePainting.gerund>
-  <AJO_DoBillsWritingTable.label>책 집필하기</AJO_DoBillsWritingTable.label>
-  <AJO_DoBillsWritingTable.verb>글쓰기</AJO_DoBillsWritingTable.verb>
-  <AJO_DoBillsWritingTable.gerund>글쓰기</AJO_DoBillsWritingTable.gerund>
-
   <!--1543177113_190628_Quarry-->
   <QRY_MineQuarry.label>채석장에서 자원을 채광</QRY_MineQuarry.label>
   <QRY_MineQuarry.verb>채광</QRY_MineQuarry.verb>
@@ -411,11 +395,6 @@
   <DoBillsMending.verb>수선</DoBillsMending.verb>
   <DoBillsMending.gerund>수선</DoBillsMending.gerund>
 
-  <!--746425621_181026_A dog said-->
-  <DoBillsAnimalProsthetics.verb>동물 보철물을 제작합니다.</DoBillsAnimalProsthetics.verb>
-  <DoBillsAnimalProsthetics.label>동물 보철물 제작</DoBillsAnimalProsthetics.label>
-  <DoBillsAnimalProsthetics.gerund>동물 보철물 제작 중.</DoBillsAnimalProsthetics.gerund>
-
   <!--747397788_190814_More Batteries-->
   <DoBillspowercellcreator.label>파워 셀 만들기</DoBillspowercellcreator.label>
   <DoBillspowercellcreator.verb>만들기</DoBillspowercellcreator.verb>
@@ -443,20 +422,6 @@
   <DoBillsCookWoodStoveFurnace.verb>조리</DoBillsCookWoodStoveFurnace.verb>
   <DoBillsCookWoodStoveFurnace.label>장작 난로에서 조리</DoBillsCookWoodStoveFurnace.label>
   <DoBillsCookWoodStoveFurnace.gerund>조리 중</DoBillsCookWoodStoveFurnace.gerund>
-
-  <!--815039373_181117_Call of Cthulhu - Cults-->
-  <ROM_InvestigateMysteriousObject.label>조사</ROM_InvestigateMysteriousObject.label>
-  <ROM_InvestigateMysteriousObject.verb>조사</ROM_InvestigateMysteriousObject.verb>
-  <ROM_InvestigateMysteriousObjectTree.label>조사</ROM_InvestigateMysteriousObjectTree.label>
-  <ROM_InvestigateMysteriousObjectTree.verb>조사</ROM_InvestigateMysteriousObjectTree.verb>
-  <ROM_InvestigateMysteriousObject.gerund>조사 중</ROM_InvestigateMysteriousObject.gerund>
-  <ROM_InvestigateMysteriousObjectTree.gerund>조사 중</ROM_InvestigateMysteriousObjectTree.gerund>
-  <LoadTransportersPawn.verb>열기</LoadTransportersPawn.verb>
-  <LoadTransportersPawn.label>화물칸 열기</LoadTransportersPawn.label>
-  <LoadTransportersPawn.gerund>여는 중</LoadTransportersPawn.gerund>
-  <PruneAndRepair.verb>가지 치기 및 수리</PruneAndRepair.verb>
-  <PruneAndRepair.gerund>가지 치기 및 수리 중</PruneAndRepair.gerund>
-  <PruneAndRepair.label>손상된 물건 수리</PruneAndRepair.label>
 
   <!--83233353_190626_Dubs Rimkit-->
   <FixBrokenDownBuildingWithKit.label>고장난 건물을 수리용품으로 수리</FixBrokenDownBuildingWithKit.label>

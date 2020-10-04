@@ -60,14 +60,6 @@
   <BeInsulted.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 모욕을 당함</BeInsulted.logRulesInitiator.rulesStrings.0>
   <BeInsulted.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]을 모욕함.</BeInsulted.logRulesRecipient.rulesStrings.0>
 
-  <!--815039373_181117_Call of Cthulhu - Cults-->
-  <Cults_SafePreach.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 신념을 들음.</Cults_SafePreach.logRulesRecipient.rulesStrings.0>
-  <Cults_DangerPreach.logRulesInitiator.rulesStrings.0>r_logentry->불쾌한 [other_nameShortIndef]의 신념.</Cults_DangerPreach.logRulesInitiator.rulesStrings.0>
-  <Cults_SafePreach.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef](와)과 신념을 공유.</Cults_SafePreach.logRulesInitiator.rulesStrings.0>
-  <Cults_DangerPreach.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]의 종교적 생각에 불쾌함을 느낌.</Cults_DangerPreach.logRulesRecipient.rulesStrings.0>
-  <Cults_SafePreach.label>오컬트 신념 공유</Cults_SafePreach.label>
-  <Cults_DangerPreach.label>오컬트 신념 공유</Cults_DangerPreach.label>
-
   <!--1552507180_190814_Psychology-->
   <PrudeSeen.label>나체 목격</PrudeSeen.label>
   <PrudeSeen.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 알몸을 봄.</PrudeSeen.logRulesInitiator.rulesStrings.0>

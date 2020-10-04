@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1113137502_190707_Genetic Rim-->
+  <AnimalRangeAttack.reportString>공격 중.</AnimalRangeAttack.reportString>
+  <GR_AnimalResource.reportString>TargetA로부터 동물자원 수집.</GR_AnimalResource.reportString>
+  <GR_AttackMeleeOnceAndChickenRimPox.reportString>TargetA 닭에게 림폭스(rimpox) 투여.</GR_AttackMeleeOnceAndChickenRimPox.reportString>
+  <GR_InsertGenesIntoGenePodJob.reportString>유전자 포트에 유전물질 삽입</GR_InsertGenesIntoGenePodJob.reportString>
+  <GR_InsertGenesIntoGenePodJob2.reportString>유전자 포트에 유전물질 삽입</GR_InsertGenesIntoGenePodJob2.reportString>
+  <GR_UseHybridInjector.reportString>합성체 유전자 주사기 사용중.</GR_UseHybridInjector.reportString>
+
+</LanguageData>

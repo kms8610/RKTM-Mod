@@ -39,7 +39,7 @@
   <EVOR_Item_Brain_Hyper.label>신경 하이퍼스레더</EVOR_Item_Brain_Hyper.label>
   <EVOR_Item_Brain_Hyper.description>극단적인 두개골 재설계를 통해 피시술자는 모든 것에 집중하는 동시에 복합적인 생각을 할 수 있으며, 능력을 크게 향상시킵니다.</EVOR_Item_Brain_Hyper.description>
   <EVOR_Item_Brain_Nails.label>도축업자의 손톱</EVOR_Item_Brain_Nails.label>
-  <EVOR_Item_Brain_Nails.description>이 불완전한 장기는 피시술자의 잠재된 공격성을 강화해 전장에서 본래의 힘이 되도록 강제합니다. 하지만, 그들의color=#EB4034gt;끊임없는 피의 갈망은 /colorgt; 그들을 매우 난폭하게 만듭니다. color=#EB4034gt;사용에 큰 주의가 필요합니다./colorgt></EVOR_Item_Brain_Nails.description>
+  <EVOR_Item_Brain_Nails.description><![CDATA[이 불완전한 장기는 피시술자의 잠재된 공격성을 강화해 전장에서 본래의 힘이 되도록 강제합니다. 하지만, 그들의 끊임없는 <color=#EB4034>피의 갈망</color>은 그들을 매우 난폭하게 만듭니다. <color=#EB4034>사용에 큰 주의가 필요합니다.</color>]]></EVOR_Item_Brain_Nails.description>
   <EVOR_Item_Skull_Shielding.label>간섭 차폐막</EVOR_Item_Skull_Shielding.label>
   <EVOR_Item_Skull_Shielding.description>정신적 충격에 저항력이 있는 물질을 사용함으로써 뇌 주위에 페러데이 케이지를 만들어 정신적 충격을 견디게 합니다.</EVOR_Item_Skull_Shielding.description>
   <EVOR_Item_Skull_Plating.label>두개골 판</EVOR_Item_Skull_Plating.label>
