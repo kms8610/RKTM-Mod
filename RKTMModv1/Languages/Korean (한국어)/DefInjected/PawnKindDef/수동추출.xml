@@ -1,16 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Project Fallout - 725471844 -->
-  <PFBrahmin.labelMale>브라민</PFBrahmin.labelMale>
-  <PFBrahmin.labelMalePlural>브라민</PFBrahmin.labelMalePlural>
-  <PFBrahmin.labelFemale>브라민</PFBrahmin.labelFemale>
-  <PFBrahmin.labelFemalePlural>브라민</PFBrahmin.labelFemalePlural>
-  <PFBighorner.labelMale>빅호너</PFBighorner.labelMale>
-  <PFBighorner.labelMalePlural>빅호너</PFBighorner.labelMalePlural>
-  <PFBighorner.labelFemale>빅호너</PFBighorner.labelFemale>
-  <PFBighorner.labelFemalePlural>빅호너</PFBighorner.labelFemalePlural>
-
   <!-- Vanilla Animals Expanded — Arid Shrubland - 1836900626 -->
   <AEXP_Giraffe.labelPlural>기린들</AEXP_Giraffe.labelPlural>
   <AEXP_Zebra.lifeStages.0.label>얼룩말</AEXP_Zebra.lifeStages.0.label>

@@ -12,11 +12,6 @@
   <TKKN_Drought.description>아주 오랫동안 비가 오지 않고 있습니다...</TKKN_Drought.description>
   <TKKN_WildFlowerBloom.label>야생화</TKKN_WildFlowerBloom.label>
 
-  <!--1338280929_190526_Advanced Biomes-->
-  <Spores.description>독성이 있는 식물들이 유독성 포자 구름을 모든 지역에 방출했습니다. 지붕 아래에 있지 않고, 독가스가 가득한 대기권 밖에 있는 사람이나 생물은 서서히 병들게 될 것입니다.</Spores.description>
-  <Spores.endMessage>최악의 독성 포자가 모두 가라앉았습니다.</Spores.endMessage>
-  <Spores.label>독 포자</Spores.label>
-
   <!--1458148305_190519_Meteors-->
   <MeteorStorm.label>유성폭풍</MeteorStorm.label>
   <MeteorStorm.description>유성폭풍으로인해 유성들이 해당 지역을 폭격하고있습니다.</MeteorStorm.description>
@@ -43,9 +38,5 @@
   <IceAge.description>이 변경계의 기후가 급격하게 변화합니다! 실외 기온이 매우 추워집니다.</IceAge.description>
   <SolarApocalypse.description>태양의 활동이 왕성해져, 이 변경계는 서서히 뜨거워지고 있습니다. 죽음에서 벗어나기 위해서는 우주선을 만들어야 합니다.</SolarApocalypse.description>
   <RoguePlanet.description>불행하게도 이 변경계는 궤도에서 벗어나 항성에서 멀어지고 있습니다. 기온은 떨어질 것이고, 태양광발전기는 무용지물이 될 것입니다.</RoguePlanet.description>
-
-  <!--1552507180_190814_Psychology-->
-  <Election.label>선거</Election.label>
-  <Election.description>선거가 진행 중입니다. 투표는 정착민들과 후보자들이 친분을 가질 시간이 있을 때 발생합니다.</Election.description>
 
 </LanguageData>

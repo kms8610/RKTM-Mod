@@ -72,6 +72,8 @@
   <PRF_DeepQuarry_mkI.description>암석 덩어리, 재료와 부품을 포함하여 지하에서 지속해서 자원을 추출하는 초기 자동 채석장. 대략 8시간마다 한 번씩 무작위 자원을 생성합니다. (감염의 원인이 될 수 있습니다!)</PRF_DeepQuarry_mkI.description>
   <PRF_DeepQuarry.label>파동식 드릴 (T2)</PRF_DeepQuarry.label>
   <PRF_DeepQuarry.description>암석 덩어리, 재료와 부품을 포함하여 지하에서 지속해서 자원을 추출하는 자동 채석장. 대략 3시간마다 한 번씩 무작위 자원을 생성합니다. (감염의 원인이 될 수 있습니다)</PRF_DeepQuarry.description>
+  <PRF_DeepQuarry_mkIII.label>무작위 펄스 드릴(T3)</PRF_DeepQuarry_mkIII.label>
+  <PRF_DeepQuarry_mkIII.description>이것은 마지막 티어의 광석 채굴장으로, 감염을 일으키지 않고 희귀한 광석만 채굴할 것입니다.</PRF_DeepQuarry_mkIII.description>
   <Building_AutoMachineTool_Miner.label>고열 드릴 (T3)</Building_AutoMachineTool_Miner.label>
   <Building_AutoMachineTool_Miner.description>최신 우주 기술의 자동 채굴기는 그 어느 때보다 정확해졌으며, 이제 채굴할 광석을 선택하고 심지어 전력량을 조절해서 속도를 조절할 수 있습니다. 1차 광석 유형을 설정하고 희귀 광석과 폐기물에서 보너스를 받을 것입니다.</Building_AutoMachineTool_Miner.description>
   <PRF_WallLight.label>벽 등</PRF_WallLight.label>

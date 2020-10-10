@@ -125,11 +125,6 @@
   <AllowInhalationOfSnakeVenomHealingVapours.description>무기력한 환자에게 뱀독 치유증기를 흡입하게 합니다.</AllowInhalationOfSnakeVenomHealingVapours.description>
   <AllowInhalationOfSnakeVenomHealingVapours.jobString>뱀독 치유증기 흡입허용</AllowInhalationOfSnakeVenomHealingVapours.jobString>
 
-  <!--1538915422_190519_Wild_Pokemon-->
-  <Make_PokePuffs.label>포핀 만들기</Make_PokePuffs.label>
-  <Make_PokePuffs.description>과일과 건초를 섞어 포핀을 만듭니다.</Make_PokePuffs.description>
-  <Make_PokePuffs.jobString>포핀 만드는 중.</Make_PokePuffs.jobString>
-
   <!--1543522877_190814_Pink Material Sheep-->
   <aka_MakePinkWoolWood.label>분홍 솜털 나무 만들기</aka_MakePinkWoolWood.label>
   <aka_MakePinkWoolWood.description>10개의 분홍솜털을 경화시켜 40개의 건축자재로 만듭니다.</aka_MakePinkWoolWood.description>

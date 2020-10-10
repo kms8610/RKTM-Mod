@@ -21,8 +21,8 @@
   <IP_LightDestroysWarning>{0}(이)가 작업을 시작하려면 주변에 적절한 조명이 있어야 합니다.</IP_LightDestroysWarning>
   <IP_RainDestroysWarning>{0}(이)가 작업을 시작하려면 비가 오지 않아야 합니다.</IP_RainDestroysWarning>
   <IP_TemperatureDestroysWarning>{0}(이)가 작업을 시작하려면 적절한 온도({1} - {2})가 있어야 합니다.</IP_TemperatureDestroysWarning>
-  <IP_NoPowerDestroysInitialWarning>가공 중의 정전으로 제품이 손상되었습니다.</IP_NoPowerDestroysInitialWarning>
-  <IP_NoPowerDestroysMessage>가공 중의 정전으로 제품이 손상되었습니다.</IP_NoPowerDestroysMessage>
+  <IP_NoPowerDestroysInitialWarning>가공 중에 정전으로 식품이 상했습니다.</IP_NoPowerDestroysInitialWarning>
+  <IP_NoPowerDestroysMessage>가공 중에 정전으로 식품이 상했습니다.</IP_NoPowerDestroysMessage>
   <IP_GenericProductFinished>제품 가공이 완료되어 운반 대기 중</IP_GenericProductFinished>
   <IP_IsEmpty>{0}(이)가 비어 있음</IP_IsEmpty>
   <IP_FilledWith>{0}(은)는 {1}(으)로 예약됨</IP_FilledWith>
@@ -37,7 +37,7 @@
   <IP_ResetSemiautomatic>조리법 초기화</IP_ResetSemiautomatic>
   <IP_ResetSemiautomaticDesc>현재 제품이 완성된 후 건물을 재설정해서, 새로운 재료 성분을 선택할 수 있습니다.</IP_ResetSemiautomaticDesc>
   <IP_NoCombination>이 재료에 대한 조합을 찾을 수 없습니다.</IP_NoCombination>
-  <IP_SetAutoQuality>제품 완료 품질을 설정하세요.\n제품이 이 품질에 도달하면, 정착민은 자동으로 제품을 검색하여 가능한 경우 저장 장소로 운반합니다.\n설정하지 않으면 제품이 수동으로 운반되거나, 전설 품질로 완성됩니다.</IP_SetAutoQuality>
+  <IP_SetAutoQuality>제품 완료 품질을 설정하세요.\n제품이 이 품질에 도달하면, 정착민은 자동으로 저장 장소로 운반합니다.\n설정하지 않으면 수동으로 옮기거나, 운이 좋으면 전설 품질로 완성됩니다.</IP_SetAutoQuality>
   <IP_ChooseQualityAuto>자동 품질 선택</IP_ChooseQualityAuto>
   <IP_QualityAutoIs>자동 품질: {0}</IP_QualityAutoIs>
   <IP_QualityAutoNot>자동 품질 비활성화</IP_QualityAutoNot>
@@ -86,4 +86,6 @@
   <VanillaFactionsExpanded.FactionMinDistance>플레이어 정착지와의 최소 거리: {1} (권장: {0})</VanillaFactionsExpanded.FactionMinDistance>
   <VanillaFactionsExpanded.FactionButtonSpawn>생성</VanillaFactionsExpanded.FactionButtonSpawn>
   <VanillaFactionsExpanded.FactionButtonCancel>취소</VanillaFactionsExpanded.FactionButtonCancel>
+  <VSE.Reinforcements>지원군</VSE.Reinforcements>
+  <VSE.ReinforcementsDesc>{FACTION_name}(은)는 당신의 정착민이 피해를 입은 것을 보고, 추가 병력을 보냈습니다.</VSE.ReinforcementsDesc>
 </LanguageData>

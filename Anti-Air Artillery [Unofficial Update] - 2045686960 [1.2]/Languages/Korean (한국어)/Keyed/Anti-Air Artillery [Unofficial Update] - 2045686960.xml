@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1502471438_190520_Anti-Air Artillery-->
+  <PassingShipShotDownMsg>{0}(이)가 격추되었습니다. 해당 무역선에 적재되있던 화물이 떨어질 것입니다.</PassingShipShotDownMsg>
+  <Beshotdown>목표 격추됨!</Beshotdown>
+  <atkTicks>냉각 중</atkTicks>
+  <ADADroppodCargoDropPercentage>드롭포드 화물 낙하 비율</ADADroppodCargoDropPercentage>
+  <ADAUnderRoof>오류: 지붕 밑!</ADAUnderRoof>
+  <FireProgress>장전 중</FireProgress>
+  <ADA_Fiya>발사</ADA_Fiya>
+  <AirDefenseHit>목표 조준</AirDefenseHit>
+  <ADADroppodCargoDropPercentageDesc>드롭포드나 무역선을 격추시킬 때, 떨어질 물품의 비율을 설정합니다. ( 0=없음, 100=최대)</ADADroppodCargoDropPercentageDesc>
+  <MustPlaceOnHugeADA>대형 대공포 위에 배치해야 합니다!</MustPlaceOnHugeADA>
+  <ADAHITNeedAmmo>궤도 요격포탄 필요!</ADAHITNeedAmmo>
+  <ADA_NoManner>정착민이 다룰 수 없습니다.</ADA_NoManner>
+  <ADA_NoShip>지나가는 무역선이 없습니다.</ADA_NoShip>
+  <ADA_Hit_NoTarget>선택된 대상 없음</ADA_Hit_NoTarget>
+  <BeshotdownMsg>랜디님 맙소사... 하나 이상의 우리 정착민들이 {0} 대공포에 의해 격추됬습니다.:</BeshotdownMsg>
+  <restoreProgress>장전 중</restoreProgress>
+  <restoreBullet>대공포탄 적재량</restoreBullet>
+  <ra2Sec>초</ra2Sec>
+  <ADA_Hit>목표 조준</ADA_Hit>
+  <ReasonHitTradeShip>무역선을 격추함</ReasonHitTradeShip>
+  <PassingShipShotDown>무역선 격추</PassingShipShotDown>
+  <ADA_StopFiya>발사 중지</ADA_StopFiya>
+  <ADA_Hit_Target>목표</ADA_Hit_Target>
+  <ADAHITWaitCoolDown>냉각 될 때까지 대기 중</ADAHITWaitCoolDown>
+  <HitADAOnlyOne>궤도 방위 파동포는 1개 이상 소유할 수 없습니다.</HitADAOnlyOne>
+  <ADAHITCANTStop>지금은 발사를 멈출 수 없습니다.</ADAHITCANTStop>
+
+</LanguageData>

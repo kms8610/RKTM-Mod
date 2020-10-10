@@ -388,40 +388,6 @@
   <WDMoisturePumpAdvanced_Frame.description>주변 지형에서 수분을 매우 빠르게 균일화합니다. 일반 흡습 펌프보다는 2.5배 빠릅니다.</WDMoisturePumpAdvanced_Frame.description>
   <MoisturePump_Blueprint_Install.label>흡습 펌프 (청사진)</MoisturePump_Blueprint_Install.label>
 
-  <!--1180720179_190617_[KV] Animal Costumes-->
-  <Apparel_TanookiCostume.label>너구리 코스튬</Apparel_TanookiCostume.label>
-  <Apparel_TanookiCostume.description>타누키(tanooki:일본 너구리)처럼 보이는 의상입니다.</Apparel_TanookiCostume.description>
-  <Apparel_CatCostume.label>고양이 코스튬</Apparel_CatCostume.label>
-  <Apparel_CatCostume.description>고양이의 모습을 본뜬 의상입니다.</Apparel_CatCostume.description>
-  <Apparel_DogCostume.label>개 코스튬</Apparel_DogCostume.label>
-  <Apparel_DogCostume.description>개와 비슷한 느낌의 의상입니다.</Apparel_DogCostume.description>
-  <Apparel_TanookiEars.label>너구리 귀 머리띠</Apparel_TanookiEars.label>
-  <Apparel_TanookiEars.description>너구리 귀 모양의 머리띠입니다.</Apparel_TanookiEars.description>
-  <Apparel_TuqueTanookiEars.label>너구리 귀 투크</Apparel_TuqueTanookiEars.label>
-  <Apparel_TuqueTanookiEars.description>너구리 귀가 달린 투크(tuque:끝이 뾰족한 털모자. 대표적으로 비니가 있음) 입니다.</Apparel_TuqueTanookiEars.description>
-  <Apparel_CatEars.label>고양이 귀 머리띠</Apparel_CatEars.label>
-  <Apparel_CatEars.description>고양이 귀 모양의 머리띠입니다.</Apparel_CatEars.description>
-  <Apparel_TuqueCatEars.label>고양이 귀 투크</Apparel_TuqueCatEars.label>
-  <Apparel_TuqueCatEars.description>고양이 귀가 달린 투크(tuque:끝이 뾰족한 털모자. 대표적으로 비니가 있음) 입니다.</Apparel_TuqueCatEars.description>
-  <Apparel_DogEars.label>개 귀 머리띠</Apparel_DogEars.label>
-  <Apparel_DogEars.description>개 귀 모양의 머리띠입니다.</Apparel_DogEars.description>
-  <Apparel_TuqueDogEars.label>개 귀 투크</Apparel_TuqueDogEars.label>
-  <Apparel_TuqueDogEars.description>개 귀가 달린 투크(tuque:끝이 뾰족한 털모자. 대표적으로 비니가 있음) 입니다.</Apparel_TuqueDogEars.description>
-  <Apparel_TanookiHood.label>너구리 후드</Apparel_TanookiHood.label>
-  <Apparel_TanookiHood.description>타누키(tanooki:일본 너구리)처럼 보이는 후드입니다.</Apparel_TanookiHood.description>
-  <Apparel_CatHood.label>고양이 후드</Apparel_CatHood.label>
-  <Apparel_CatHood.description>고양이 코스튬을 위한 후드입니다.</Apparel_CatHood.description>
-  <Apparel_DogHood.label>개 후드</Apparel_DogHood.label>
-  <Apparel_DogHood.description>개 코스튬을 위한 후드입니다.</Apparel_DogHood.description>
-  <Apparel_TanookiTail.label>너구리 꼬리 옷</Apparel_TanookiTail.label>
-  <Apparel_TanookiTail.description>엉덩이에 붙이는 너구리 꼬리모양 장식입니다.</Apparel_TanookiTail.description>
-  <Apparel_CatTail.label>고양이 꼬리 옷</Apparel_CatTail.label>
-  <Apparel_CatTail.description>엉덩이에 붙이는 고양이의 모습을 본뜬 꼬리모양 장식입니다.</Apparel_CatTail.description>
-  <Apparel_DogTail.label>개 꼬리 옷</Apparel_DogTail.label>
-  <Apparel_DogTail.description>엉덩이에 붙이는 개와 비슷한 느낌의 꼬리모양 장식입니다.</Apparel_DogTail.description>
-  <Apparel_AnimalCostumeUndergarment.label>전신속옷</Apparel_AnimalCostumeUndergarment.label>
-  <Apparel_AnimalCostumeUndergarment.description>동물 코스튬 안에 입는 속옷입니다.</Apparel_AnimalCostumeUndergarment.description>
-
   <!--1180720427_190622_Weapon Storage-->
   <WeaponStorage.label>무기 보관상자</WeaponStorage.label>
   <WeaponStorage.description>사용하지 않는 무기들을 보관할수 있습니다.</WeaponStorage.description>
@@ -884,21 +850,6 @@
   <IF_MeditrainTable_Blueprint.label>의학훈련 작업대 (청사진)</IF_MeditrainTable_Blueprint.label>
   <IF_MeditrainTable_Frame.label>의학훈련 작업대 (건설 중)</IF_MeditrainTable_Frame.label>
 
-  <!--1220397176_190626_Anesthetic Gun Mod[1.0]-->
-  <Gun_AnestheticGun.label>마취총</Gun_AnestheticGun.label>
-  <Gun_AnestheticGun.description>고대 양식의 볼트 액션 소총입니다. 마취탄을 발사 합니다.</Gun_AnestheticGun.description>
-  <Gun_AnestheticGun.tools.0.label>개머리판</Gun_AnestheticGun.tools.0.label>
-  <Gun_AnestheticGun.tools.1.label>총열</Gun_AnestheticGun.tools.1.label>
-  <Bullet_AnestheticGun.label>마취탄</Bullet_AnestheticGun.label>
-
-  <!--1227757287_190622_AI Uplifting Assistant-->
-  <AIUpliftAssistantAUA.label>인공지능 향상 보조장치</AIUpliftAssistantAUA.label>
-  <AIUpliftAssistantAUA.description>고급 연산을 수행하기 위해 대형 컴퓨팅 시스템에 내장되어 있던 인공지능 페르소나입니다. 이 AI 위격체는 연구 속도를 크게 높여 정착지를 고도의 문명 수준으로 향상시키려 합니다. 고급 연구작업대 근처에 배치해야 하며, 한 연구작업대 당 하나의 AUA만 연결할 수 있습니다.</AIUpliftAssistantAUA.description>
-  <AIUpliftAssistantAUA_Blueprint.label>인공지능 향상 보조장치 (청사진)</AIUpliftAssistantAUA_Blueprint.label>
-  <AIUpliftAssistantAUA_Blueprint_Install.label>인공지능 향상 보조장치 (청사진)</AIUpliftAssistantAUA_Blueprint_Install.label>
-  <AIUpliftAssistantAUA_Frame.label>인공지능 향상 보조장치 (건설 중)</AIUpliftAssistantAUA_Frame.label>
-  <AIUpliftAssistantAUA_Frame.description>고급 연산을 수행하기 위해 대형 컴퓨팅 시스템에 내장되어 있던 인공지능 페르소나입니다. 이 AI 위격체는 연구 속도를 크게 높여 정착지를 고도의 문명 수준으로 향상시키려 합니다. 고급 연구작업대 근처에 배치해야 하며, 한 연구작업대 당 하나의 AUA만 연결할 수 있습니다.</AIUpliftAssistantAUA_Frame.description>
-
   <!--1231678757_190814_Technology Blueprints-->
   <TechnologyBlueprintNeolithic.comps.2.useLabel>{0} 기술 청사진</TechnologyBlueprintNeolithic.comps.2.useLabel>
   <TechnologyBlueprintMedieval.comps.2.useLabel>{0} 기술 청사진</TechnologyBlueprintMedieval.comps.2.useLabel>
@@ -1036,94 +987,6 @@
   <Wall_M_VitalsMonitor_Blueprint.label>벽걸이형 생체신호 모니터 (청사진)</Wall_M_VitalsMonitor_Blueprint.label>
   <Wall_M_VitalsMonitor_Blueprint_Install.label>벽걸이형 생체신호 모니터 (청사진)</Wall_M_VitalsMonitor_Blueprint_Install.label>
   <Wall_M_VitalsMonitor_Frame.label>벽걸이형 생체신호 모니터 (건설 중)</Wall_M_VitalsMonitor_Frame.label>
-
-  <!--1338280929_190526_Advanced Biomes-->
-  <PoisonPlantRaspberry.description>맛있는 딸기가 매달려 있는 야생 덤불. 딸기는 요리할 수 있지만, 날것으로도 잘 먹을수 있습니다. 다행히 독은 없습니다.</PoisonPlantRaspberry.description>
-  <SavannaTreeBaobab.description>열대 사바나에 있는 거대한 둥근 나무입니다.</SavannaTreeBaobab.description>
-  <WetlandTreeMangrove.description>맹그로브는 염분이 있는 해안이나 기수에서 서식하는 관목 혹은 작은 나무입니다.</WetlandTreeMangrove.description>
-  <PoisonDeer.description>무리지어 다니는 중간 크기의 초식동물입니다. 위협을 주지 않는한 얌전한 동물입니다. 물론, 여기서는 독에 적응한 사슴이 되버렸습니다.</PoisonDeer.description>
-  <PoisonRat.description>부엌을 더럽히고 병을 퍼뜨리는 것으로 널리 알려진 쥐는 사람이 사는 곳, 거의 대부분에 퍼져있습니다. 거의 모든 종류의 먹이를 먹고 거의 모든 곳에서 삽니다. 이곳에선 독에 적응한 쥐로 변이 됐습니다.</PoisonRat.description>
-  <PoisonPlantBush.description>짧은 관목입니다. 보통 말을 하진 않습니다. 유독성 대기에 적응한 식물입니다.</PoisonPlantBush.description>
-  <PoisonShrub.description>짧은 관목입니다. 보통 말을 하진 않습니다. 유독성 대기에 적응한 식물입니다.</PoisonShrub.description>
-  <SavannaBush.description>짧은 관목입니다. 보통 말을 하진 않습니다.</SavannaBush.description>
-  <TreeDead.description>병이든 나무입니다. 가까스로 생존을 유지하고 있습니다.</TreeDead.description>
-  <PoisonPlantDandelion.description>무리 지어 자라는 작은 노란 꽃입니다. 종종 잡초로 취급되지만, 민들레가 피는 모습은 여전히 아릅답습니다. 설령, 독에 찌든 민들레라도 말이죠.</PoisonPlantDandelion.description>
-  <PoisonAlocasia.description>열대 지방에서 흔한 활엽수입니다. 지금은 독이 넘치는 곳에서도 흔해진 활엽수입니다.</PoisonAlocasia.description>
-  <PoisonBrambles.description>가시달린 줄기 여럿이 복잡하게 얽힌 군집체입니다. 이동에 방해됩니다. 유독성 대기에 적응헀지만, 독은 가지고 있지 않습니다.</PoisonBrambles.description>
-  <PoisonRafflesia.description>희귀하고 거대한 꽃입니다. 꽃이 거대하면 아름답겠다고 생각하겠지만, 라플레시아는 못생긴데다 썩은 냄새를 풍깁니다. 유독성 대기에는 적응해도 썩은 냄새는 사라지지 않았습니다.</PoisonRafflesia.description>
-  <PoisonTreePalm.description>>생물학적으로 나무가 아니지만, 인식적으로는 나무로 분류되는 식물. 키가 크고 넓은 잎으로 둘러싸여 있습니다. 안타깝게도 이 종은 먹을 수 있는 코코넛이 달리지 않습니다. 만약, 독이 가득한 코코넛을 먹는다면 생명은 보장 못합니다.</PoisonTreePalm.description>
-  <MutantCow.description>돌연변이 소는 독으로 오염된 지역에서 보이는 매우 흔한 가축입니다. 그것은 많은 양의 우유를 생산해주고, 맛있는 고기를 얻기위해 도축당합니다.</MutantCow.description>
-  <SavannaTreeAcacia.label>아카시아 나무</SavannaTreeAcacia.label>
-  <PoisonMushroom.description>평범한 야생 버섯입니다. 의외로 신선한 식용 버섯입니다.</PoisonMushroom.description>
-  <PoisonPlantTreeTeak.description>따뜻한 기후에서 자라는 단단한 활엽수. 티크 나무는 내구성이 강하고 방수성이 강해 고대의 목조 범선 용골을 만드는데 사용되었습니다. 유독성 대기에 적응한 나무입니다.</PoisonPlantTreeTeak.description>
-  <SavannaTreeBaobab.label>바오밥나무</SavannaTreeBaobab.label>
-  <MutantCow_Meat.label>쇠고기</MutantCow_Meat.label>
-  <MutantCow_Meat.description>쇠고기</MutantCow_Meat.description>
-  <PoisonPlantBush.label>덤불</PoisonPlantBush.label>
-  <SavannaBush.label>덤불</SavannaBush.label>
-  <PoisonButterfly.description>독나비는 아름답고, 거대한 비늘로 뒤덮인 날개로 날아다니는 곤충입니다. 독나비는 변태를 마친 애벌레입니다.</PoisonButterfly.description>
-  <PoisonButterfly.label>독나비</PoisonButterfly.label>
-  <PoisonButterfly_Corpse.label>독나비 시체</PoisonButterfly_Corpse.label>
-  <PoisonButterfly_Corpse.description>독나비 시체</PoisonButterfly_Corpse.description>
-  <EggButterflyFertilized.label>독나비 유저란</EggButterflyFertilized.label>
-  <PoisonButterfly_Leather.label>독나비 가죽</PoisonButterfly_Leather.label>
-  <PoisonButterfly_Leather.description>독나비 가죽</PoisonButterfly_Leather.description>
-  <PoisonButterfly_Leather.stuffProps.stuffAdjective>독나비 가죽</PoisonButterfly_Leather.stuffProps.stuffAdjective>
-  <PoisonPlantTreeCecropia.label>세크로피아</PoisonPlantTreeCecropia.label>
-  <MutantCow.label>돌연변이 소</MutantCow.label>
-  <MutantCow_Corpse.label>돌연변이 소 시체</MutantCow_Corpse.label>
-  <MutantCow_Corpse.description>돌연변이 소 시체</MutantCow_Corpse.description>
-  <MutantCow_Leather.label>돌연변이 소 가죽</MutantCow_Leather.label>
-  <MutantCow_Leather.description>돌연변이 소 가죽</MutantCow_Leather.description>
-  <MutantCow_Leather.stuffProps.stuffAdjective>돌연변이 소 가죽</MutantCow_Leather.stuffProps.stuffAdjective>
-  <PoisonTreeCypress.label>사이프러스</PoisonTreeCypress.label>
-  <PoisonPlantDandelion.label>민들레</PoisonPlantDandelion.label>
-  <TreeDead.label>죽은 나무</TreeDead.label>
-  <PoisonDeer.label>독사슴</PoisonDeer.label>
-  <PoisonDeer_Corpse.label>독사슴 시체</PoisonDeer_Corpse.label>
-  <PoisonDeer_Corpse.description>독사슴 시체</PoisonDeer_Corpse.description>
-  <PoisonDeer_Leather.label>독사슴 가죽</PoisonDeer_Leather.label>
-  <PoisonDeer_Leather.description>독사슴 가죽</PoisonDeer_Leather.description>
-  <PoisonDeer_Leather.stuffProps.stuffAdjective>독사슴 가죽</PoisonDeer_Leather.stuffProps.stuffAdjective>
-  <EggButterflyFertilized.description>독나비 유정란입니다. 날로 먹을 수도 있지만, 요리해서 먹는게 훨씬 낫습니다. 일이 잘 진행되면, 독나비 새끼로 부화합니다.</EggButterflyFertilized.description>
-  <PoisonButterfly.tools.1.label>머리</PoisonButterfly.tools.1.label>
-  <WetlandTreeMangrove.label>맹그로브</WetlandTreeMangrove.label>
-  <SavannaTreeAcacia.description>전 세계 아열대 지역에서 자생하는 아카시아 나무는 가장 혹독한 기후에서 자랍니다.</SavannaTreeAcacia.description>
-  <TreeCedar.description>온대 우림에서 서식하는 웨스턴 측백 나무는 강기슭의 나무입니다. 많은 숲이 우거진 늪과 하천 둑에서 자랍니다.</TreeCedar.description>
-  <PoisonTreeWillow.description>가장 빠르게 자라는 나무 중 하나로, 아름답고 두꺼운 나뭇잎 그늘을 제공합니다. 쓸만한 목재는 많이 얻을 수 없습니다. 유독성 대기에 적응한 나무입니다,</PoisonTreeWillow.description>
-  <PoisonPlantTreeCecropia.description>가장 일반적인 열대우림의 나무중 하나로, 아주 빨리 성장하지만 쓸만한 목재는 거의 제공하지 않습니다. 유독성 대기에 적응한 나무입니다.</PoisonPlantTreeCecropia.description>
-  <PoisonTreeCypress.description>키 크고 천천히 자라는 나무입니다. 보통 늪지에서 찾아볼 수 있습니다. 느린 성장속도에도 불구하고 많은 양의 목재를 얻을 수 있으므로 충분히 심을 가치가 있습니다. 유독성 대기에 적응한 나무입니다.</PoisonTreeCypress.description>
-  <PoisonTreePalm.label>야자수</PoisonTreePalm.label>
-  <PoisonAlocasia.label>독 알로카시아</PoisonAlocasia.label>
-  <PoisonBrambles.label>독 가시덩굴</PoisonBrambles.label>
-  <PoisonRafflesia.label>독 라플레시아</PoisonRafflesia.label>
-  <PoisonShrub.label>독 관목</PoisonShrub.label>
-  <PoisonPlantRaspberry.label>산딸기 덤불</PoisonPlantRaspberry.label>
-  <PoisonRat.label>독쥐</PoisonRat.label>
-  <PoisonRat_Corpse.label>독쥐 시체</PoisonRat_Corpse.label>
-  <PoisonRat_Corpse.description>독쥐 시체</PoisonRat_Corpse.description>
-  <PoisonRat_Leather.label>독쥐 가죽</PoisonRat_Leather.label>
-  <PoisonRat_Leather.description>독쥐 가죽</PoisonRat_Leather.description>
-  <PoisonRat_Leather.stuffProps.stuffAdjective>독쥐 가죽</PoisonRat_Leather.stuffProps.stuffAdjective>
-  <PoisonRat_Meat.label>독쥐 고기</PoisonRat_Meat.label>
-  <PoisonRat_Meat.description>독쥐 고기</PoisonRat_Meat.description>
-  <RawPoisonMushroom.description>생 야생 버섯.</RawPoisonMushroom.description>
-  <TreeCedar.label>웨스턴 측백 나무</TreeCedar.label>
-  <Silk.label>비단</Silk.label>
-  <Silk.stuffProps.stuffAdjective>비단</Silk.stuffProps.stuffAdjective>
-  <Silk.description>동물에게 얻은 비단입니다..</Silk.description>
-  <SwordFern.label>줄고사리</SwordFern.label>
-  <SwordFern.description>줄고사리는 낮은 고도에 습한 침엽수 숲의 하층에서 서식합니다. 그것은 부엽토와 작은 돌들이 많고, 배수가 잘되는 산성 토양에서 제일 잘 자랍니다.</SwordFern.description>
-  <PoisonPlantTallGrass.label>키 큰 잡초</PoisonPlantTallGrass.label>
-  <PlantTallYellowGrass.label>키 큰 잡초</PlantTallYellowGrass.label>
-  <PoisonPlantTreeTeak.label>티크 나무</PoisonPlantTreeTeak.label>
-  <PoisonDeer_Meat.label>독사슴 고기</PoisonDeer_Meat.label>
-  <PoisonDeer_Meat.description>독사슴 고기</PoisonDeer_Meat.description>
-  <PoisonMushroom.label>야생 버섯</PoisonMushroom.label>
-  <RawPoisonMushroom.label>야생 버섯</RawPoisonMushroom.label>
-  <PlantTallYellowGrass.description>야생의 키 큰 풀입니다. 통과할 때 느려집니다.</PlantTallYellowGrass.description>
-  <PoisonPlantTallGrass.description>야생의 키 큰 풀입니다. 통과할 때 느려집니다. 유독성 대기에 적응한 식물입니다.</PoisonPlantTallGrass.description>
-  <PoisonTreeWillow.label>버드나무</PoisonTreeWillow.label>
 
   <!--1349384001_190627_gloomy_dress-->
   <Apparel_lolita.label>롤리타 드레스</Apparel_lolita.label>
@@ -1325,14 +1188,6 @@
   <LotR_WallSconce_Blueprint.label>벽 횃불 (청사진)</LotR_WallSconce_Blueprint.label>
   <LotR_WallSconce_Frame.label>벽 횃불 (건설 중)</LotR_WallSconce_Frame.label>
 
-  <!--1417354001_190519_Advanced Shield Belts-->
-  <Apparel_HeavyShieldBelt.description>이 벨트는 충전속도는 느리지만 최대 출력량을 향상 시켰습니다. 또한 원거리 공격을 막아주지만 근거리 공격엔 대비하지 못하며, 자신 또한 원거리 공격을 하지 못합니다.</Apparel_HeavyShieldBelt.description>
-  <Apparel_QRShieldBelt.description>이 벨트는 빠르게 충전 하여 원거리 공격을 막아줍니다. 하지만 근거리 공격엔 대비하지 못하며, 자신 또한 원거리 공격을 하지 못합니다.</Apparel_QRShieldBelt.description>
-  <Apparel_RangedShieldBelt.description>이 벨트는 원거리 공격을 가능하게 해줍니다. 하지만 원거리 공격에 당하면 빠르게 달고 충전 속도가 느려집니다. 또한 원거리 공격을 막아주지만 근접 공격엔 대비하지 못합니다.</Apparel_RangedShieldBelt.description>
-  <Apparel_HeavyShieldBelt.label>헤비 실드 벨트</Apparel_HeavyShieldBelt.label>
-  <Apparel_QRShieldBelt.label>급속 충전 실드 벨트</Apparel_QRShieldBelt.label>
-  <Apparel_RangedShieldBelt.label>원거리 실드 벨트</Apparel_RangedShieldBelt.label>
-
   <!--1420979918_190627_Buildable Terrain-->
   <WaterMovingChestDeep_Blueprint.label>깊게 흐르는 물 (청사진)</WaterMovingChestDeep_Blueprint.label>
   <WaterMovingChestDeep_Frame.label>깊게 흐르는 물 (건설 중)</WaterMovingChestDeep_Frame.label>
@@ -1397,32 +1252,6 @@
   <Smooth_Granite_Frame.description>작업이 진행중 입니다.</Smooth_Granite_Frame.description>
   <Smooth_Slate_Frame.description>작업이 진행중 입니다.</Smooth_Slate_Frame.description>
   <Smooth_Limestone_Frame.description>작업이 진행중 입니다.</Smooth_Limestone_Frame.description>
-
-  <!--1426296659_190626_advanced powergeneration-->
-  <sd_adv_powergen_adv_wind_turbine.description>바람으로 전기를 생산합니다. 최적의 풍력 확보를 위해 앞뒤로 넓은 공간이 필요합니다. 전력 최대 생산량 : 4000</sd_adv_powergen_adv_wind_turbine.description>
-  <sd_adv_powergen_adv_wind_turbine_Frame.description>바람으로 전기를 생산합니다. 최적의 풍력 확보를 위해 앞뒤로 넓은 공간이 필요합니다. 전력 최대 생산량 : 4000</sd_adv_powergen_adv_wind_turbine_Frame.description>
-  <sd_adv_powergen_adv_geothermal_generator.label>고급 지열 발전기</sd_adv_powergen_adv_geothermal_generator.label>
-  <sd_adv_powergen_adv_geothermal_generator_Blueprint.label>고급 지열 발전기 (청사진)</sd_adv_powergen_adv_geothermal_generator_Blueprint.label>
-  <sd_adv_powergen_adv_geothermal_generator_Blueprint_Install.label>고급 지열 발전기 (청사진)</sd_adv_powergen_adv_geothermal_generator_Blueprint_Install.label>
-  <sd_adv_powergen_adv_geothermal_generator_Frame.label>고급 지열 발전기 (건설 중)</sd_adv_powergen_adv_geothermal_generator_Frame.label>
-  <sd_adv_powergen_nuclear_power_plant.label>고급 원자력 발전기</sd_adv_powergen_nuclear_power_plant.label>
-  <sd_adv_powergen_nuclear_power_plant_Blueprint.label>고급 원자력 발전기 (청사진)</sd_adv_powergen_nuclear_power_plant_Blueprint.label>
-  <sd_adv_powergen_nuclear_power_plant_Blueprint_Install.label>고급 원자력 발전기 (청사진)</sd_adv_powergen_nuclear_power_plant_Blueprint_Install.label>
-  <sd_adv_powergen_nuclear_power_plant_Frame.label>고급 원자력 발전기 (건설 중)</sd_adv_powergen_nuclear_power_plant_Frame.label>
-  <sd_adv_powergen_adv_solar_generator.label>고급 태양광 발전기</sd_adv_powergen_adv_solar_generator.label>
-  <sd_adv_powergen_adv_solar_generator_Blueprint.label>고급 태양광 발전기 (청사진)</sd_adv_powergen_adv_solar_generator_Blueprint.label>
-  <sd_adv_powergen_adv_solar_generator_Blueprint_Install.label>고급 태양광 발전기 (청사진)</sd_adv_powergen_adv_solar_generator_Blueprint_Install.label>
-  <sd_adv_powergen_adv_solar_generator_Frame.label>고급 태양광 발전기 (건설 중)</sd_adv_powergen_adv_solar_generator_Frame.label>
-  <sd_adv_powergen_adv_wind_turbine.label>고급 풍력 발전기</sd_adv_powergen_adv_wind_turbine.label>
-  <sd_adv_powergen_adv_wind_turbine_Blueprint.label>고급 풍력 발전기 (청사진)</sd_adv_powergen_adv_wind_turbine_Blueprint.label>
-  <sd_adv_powergen_adv_wind_turbine_Blueprint_Install.label>고급 풍력 발전기 (청사진)</sd_adv_powergen_adv_wind_turbine_Blueprint_Install.label>
-  <sd_adv_powergen_adv_wind_turbine_Frame.label>고급 풍력 발전기 (건설 중)</sd_adv_powergen_adv_wind_turbine_Frame.label>
-  <sd_adv_powergen_adv_geothermal_generator.description>증기 간헐천으로부터 전기를 생산합니다. 간헐천 위에 지어야 합니다. 전력 생산량 : 7500</sd_adv_powergen_adv_geothermal_generator.description>
-  <sd_adv_powergen_adv_geothermal_generator_Frame.description>증기 간헐천으로부터 전기를 생산합니다. 간헐천 위에 지어야 합니다. 전력 생산량 : 7500</sd_adv_powergen_adv_geothermal_generator_Frame.description>
-  <sd_adv_powergen_adv_solar_generator.description>태양의 빛으로 전기를 생산합니다. 밤에는 작동하지 않습니다. 전력 최대 생산량 : 3400</sd_adv_powergen_adv_solar_generator.description>
-  <sd_adv_powergen_adv_solar_generator_Frame.description>태양의 빛으로 전기를 생산합니다. 밤에는 작동하지 않습니다. 전력 최대 생산량 : 3400</sd_adv_powergen_adv_solar_generator_Frame.description>
-  <sd_adv_powergen_nuclear_power_plant.description>우라늄으로 전기를 생산합니다. 어디에나 지을 수 있습니다. 전력 생산량 : 20000</sd_adv_powergen_nuclear_power_plant.description>
-  <sd_adv_powergen_nuclear_power_plant_Frame.description>우라늄으로 전기를 생산합니다. 어디에나 지을 수 있습니다. 전력 생산량 : 20000</sd_adv_powergen_nuclear_power_plant_Frame.description>
 
   <!--1440321094_190519_Auto Seller-->
   <ASReportsLog.description>이 콜로니의 거래 규칙을 기록하여 적용합니다.지역마다 무역 보고 장치 또는 무역 보고장은 1개밖에 설치할 수 없습니다</ASReportsLog.description>
@@ -1710,39 +1539,6 @@
   <RazorWireObstacle.label>가시 철조망 장애물</RazorWireObstacle.label>
   <RazorWireObstacle_Blueprint.label>가시 철조망 장애물 (청사진)</RazorWireObstacle_Blueprint.label>
   <RazorWireObstacle_Frame.label>가시 철조망 장애물 (건설 중)</RazorWireObstacle_Frame.label>
-
-  <!--1502471438_190520_Anti-Air Artillery-->
-  <ADA_AirDefense_HIT.comps.CompRefuelable.fuelGizmoLabel>궤도 요격포탄</ADA_AirDefense_HIT.comps.CompRefuelable.fuelGizmoLabel>
-  <ADA_AirDefense_HIT.comps.CompRefuelable.fuelLabel>궤도 요격포탄 적재량 </ADA_AirDefense_HIT.comps.CompRefuelable.fuelLabel>
-  <ADA_AirDefense_HIT.comps.CompRefuelable.outOfFuelMessage>포탄 장전 필요</ADA_AirDefense_HIT.comps.CompRefuelable.outOfFuelMessage>
-  <ADA_AirDefense_HIT.description>대형 대공포 위에 건설할 수 있는 파동포입니다. 대공포 기술의 정점으로서 행성 궤도 전역을 방위할 수 있으며, 사용자가 원한다면 궤도에 들어선 무역선을 격추할 수 있습니다. 그리고....</ADA_AirDefense_HIT.description>
-  <ADA_AirDefense_HIT.label>궤도 방위 파동포</ADA_AirDefense_HIT.label>
-  <ADA_AirDefense_HIT_Blueprint.label>궤도 방위 파동포 (청사진)</ADA_AirDefense_HIT_Blueprint.label>
-  <ADA_AirDefense_HIT_Frame.description>대형 대공포 위에 건설할 수 있는 파동포입니다. 대공포 기술의 정점으로서 행성 궤도 전역을 방위할 수 있으며, 사용자가 원한다면 궤도에 들어선 무역선을 격추할 수 있습니다. 그리고....</ADA_AirDefense_HIT_Frame.description>
-  <ADA_AirDefense_HIT_Frame.label>궤도 방위 파동포 (건설 중)</ADA_AirDefense_HIT_Frame.label>
-  <ADA_AirDefense_huge.description>이 가공할 크기의 대공포는 범위내로 강하하는 적의 수송기들과 추락하는 외계함선을 요격할 수 있습니다. 요격을 위해선 포신이 회전할 시간이 필요합니다.</ADA_AirDefense_huge.description>
-  <ADA_AirDefense_huge.label>대형 대공포</ADA_AirDefense_huge.label>
-  <ADA_AirDefense_huge_Blueprint.label>대형 대공포 (청사진)</ADA_AirDefense_huge_Blueprint.label>
-  <ADA_AirDefense_huge_Frame.description>이 가공할 크기의 대공포는 범위내로 강하하는 적의 수송기들과 추락하는 외계함선을 요격할 수 있습니다. 요격을 위해선 포신이 회전할 시간이 필요합니다.</ADA_AirDefense_huge_Frame.description>
-  <ADA_AirDefense_huge_Frame.label>대형 대공포 (건설 중)</ADA_AirDefense_huge_Frame.label>
-  <ADA_AirDefense_middle.description>이 표준형 대공포는 범위내에 강하하는 적 수송기와 날아오는 박격포탄들을 요격할 수 있습니다.</ADA_AirDefense_middle.description>
-  <ADA_AirDefense_middle.label>중형 대공포</ADA_AirDefense_middle.label>
-  <ADA_AirDefense_middle_Blueprint.label>중형 대공포 (청사진)</ADA_AirDefense_middle_Blueprint.label>
-  <ADA_AirDefense_middle_Frame.description>이 표준형 대공포는 범위내에 강하하는 적 수송기와 날아오는 박격포탄들을 요격할 수 있습니다.</ADA_AirDefense_middle_Frame.description>
-  <ADA_AirDefense_middle_Frame.label>중형 대공포 (건설 중)</ADA_AirDefense_middle_Frame.label>
-  <ADA_AirDefense_simple.description>이 간단한 대공포는 범위내로 날아오는 적의 박격포탄이나 강하하는 적 수송기들을 요격할 수 있습니다.</ADA_AirDefense_simple.description>
-  <ADA_AirDefense_simple.label>간단한 대공포</ADA_AirDefense_simple.label>
-  <ADA_AirDefense_simple_Blueprint.label>간단한 대공포 (청사진)</ADA_AirDefense_simple_Blueprint.label>
-  <ADA_AirDefense_simple_Frame.description>이 간단한 대공포는 범위내로 날아오는 적의 박격포탄이나 강하하는 적 수송기들을 요격할 수 있습니다.</ADA_AirDefense_simple_Frame.description>
-  <ADA_AirDefense_simple_Frame.label>간단한 대공포 (건설 중)</ADA_AirDefense_simple_Frame.label>
-  <ADA_AirDefense_small.description>이 소형 대공포는 범위내로 날아오는 적의 박격포탄들을 요격할 수 있습니다.</ADA_AirDefense_small.description>
-  <ADA_AirDefense_small.label>소형 대공포</ADA_AirDefense_small.label>
-  <ADA_AirDefense_small_Blueprint.label>소형 대공포 (청사진)</ADA_AirDefense_small_Blueprint.label>
-  <ADA_AirDefense_small_Frame.description>이 소형 대공포는 범위내로 날아오는 적의 박격포탄들을 요격할 수 있습니다.</ADA_AirDefense_small_Frame.description>
-  <ADA_AirDefense_small_Frame.label>소형 대공포 (건설 중)</ADA_AirDefense_small_Frame.label>
-  <ADA_DestoryerShell.description>궤도상의 대형 함선을 요격할 수 있는 특수 요격포탄입니다. 상상할 수 없을만큼 많은 첨단기술의 집약체입니다.</ADA_DestoryerShell.description>
-  <ADA_DestoryerShell.label>궤도 요격포탄</ADA_DestoryerShell.label>
-  <PowerBeamNoDamage.label>파괴 광선</PowerBeamNoDamage.label>
 
   <!--1505332648_190519_Gods of Elona [1.0]-->
   <eWindBow.description>바람의 여신의 힘이 깃든 활.\n활은 알 수 없는 재료로 만들어져있다. 이 활을 사용하는 자는 바람의 축복을 받으며, 때때로 바람의 여신이 희미하게 보인다고 한다.</eWindBow.description>
@@ -2093,14 +1889,6 @@
   <megaslothFleece.description>거대늘보의 미처리된 털뭉치입니다. 재봉 작업대에서 털실로 만들어야 활용이 가능합니다.</megaslothFleece.description>
   <muffaloFleece.description>머팔로의 미처리된 털뭉치입니다. 재봉 작업대에서 털실로 만들어야 활용이 가능합니다.</muffaloFleece.description>
   <alpacaFleece.description>알파카의 미처리된 털뭉치입니다. 재봉 작업대에서 털실로 만들어야 활용이 가능합니다.</alpacaFleece.description>
-
-  <!--1517502911_190627_Advanced Cooling-->
-  <AdvancedCooler.label>고급 냉방기</AdvancedCooler.label>
-  <AdvancedCooler_Blueprint.label>고급 냉방기 (청사진)</AdvancedCooler_Blueprint.label>
-  <AdvancedCooler_Blueprint_Install.label>고급 냉방기 (청사진)</AdvancedCooler_Blueprint_Install.label>
-  <AdvancedCooler_Frame.label>고급 냉방기 (건설 중)</AdvancedCooler_Frame.label>
-  <AdvancedCooler.description>전기를 사용하여 열을 발생시키지 않고 방을 냉각시키는 장치입니다. 자동적으로 켜거나 꺼져서 특정 목표 온도에 도달할 수 있습니다.</AdvancedCooler.description>
-  <AdvancedCooler_Frame.description>전기를 사용하여 열을 발생시키지 않고 방을 냉각시키는 장치입니다. 자동적으로 켜거나 꺼져서 특정 목표 온도에 도달할 수 있습니다.</AdvancedCooler_Frame.description>
 
   <!--1518932357_181022_Giddy-up! Mechanoids-->
   <GU_Mech_GiddyUpModule.description>이 모듈은 탑재하면 메카노이드용의 안장과 조종용 인터페이스의 양쪽 모두로서 기능합니다. 메카노이드에 터렛이 탑재되어 있지 않은 경우에 탑승자가 전투시에 탈 수 있습니다.이것은 "Giddy-up!Battle Mechs"의 모드 설정으로 기승 가능한 메카노이드에만 탑재할 수 있습니다.</GU_Mech_GiddyUpModule.description>
@@ -9967,11 +9755,6 @@
   <MedBed_Blueprint_Install.label>의료기계 침대 (청사진)</MedBed_Blueprint_Install.label>
   <MedBed_Frame.label>의료기계 침대 (건설 중)</MedBed_Frame.label>
 
-  <!--948130856_190519_Angel Arm Revolver-->
-  <Bullet_AngelP.label>.45 콜트 엔젤 탄환</Bullet_AngelP.label>
-  <Gun_Angel_al.label>엔젤 암 리볼버</Gun_Angel_al.label>
-  <Gun_Angel_al.description>밧슈 더 스템피드가 사용하는 45구경 콜트 브릭-배럴 리볼버입니다.</Gun_Angel_al.description>
-
   <!--950475543_190818_Rim of Madness - Arachnophobia-->
   <ROMA_WebGiant.description>먹이를 잡기위해 실크로 짠 거대한 거미줄입니다.</ROMA_WebGiant.description>
   <ROMA_CocoonGiant.description>커다란 먹이를 잡아 거미줄로 짜 놓은 고치입니다.</ROMA_CocoonGiant.description>
@@ -10159,12 +9942,6 @@
   <VG_BlendedWool.label>혼방 털실</VG_BlendedWool.label>
   <VG_BlendedWool.description>부드럽고 가벼우며 단열에 매우 좋습니다. 털옷은 극한의 조건에서도 몸을 따뜻하게 유지해줍니다.</VG_BlendedWool.description>
   <VG_BlendedWool.stuffProps.stuffAdjective>혼방 털실</VG_BlendedWool.stuffProps.stuffAdjective>
-
-  <!--1552507180_190814_Psychology-->
-  <Methadone.label>메타돈</Methadone.label>
-  <Methadone.description>아편계 중독 치료제입니다. 루시페륨을 제외한 약물의 금단 부작용으로 인한 부정적인 효과를 예방합니다. 중독 시 능률이 떨어지며, 종종 약물남용을 유발합니다. 매일 복용하십시오. 금단 부작용이 사라지면 복용을 중단하세요.</Methadone.description>
-  <Methadone.ingestible.ingestCommandString>{0} 복용</Methadone.ingestible.ingestCommandString>
-  <Methadone.ingestible.ingestReportString>{0} 복용 중.</Methadone.ingestible.ingestReportString>
 
   <!-- Secret Passage Doors -->
   <HiddenDoorSmooth.label>숨겨진 문 (금속)</HiddenDoorSmooth.label>

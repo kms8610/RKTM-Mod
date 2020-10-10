@@ -68,7 +68,9 @@
   <PRFHelp>도움말</PRFHelp>
   <PRFHelpDesc>이 항목에 대한 도움말 보기</PRFHelpDesc>
   <PRFViewOrdo>오르도 히스토리아: {0}</PRFViewOrdo>
+  <PRF_DeepQuarry_mkIII_HelpText>이 채굴기는 강철부터 금까지 임의의 희귀한 자원을 채굴할 것입니다. 알아둘 것은 어떤 모드에서 추가한 석재를 포함한 자원을 채굴하고 싶다면, 패치가 필요합니다.</PRF_DeepQuarry_mkIII_HelpText>
   <PRF_DeepQuarry_HelpText>깊은 채석장은 지하에서 무작위 광물 자원을 추출하는데 사용되며 평균 6시간마다 한 번씩 자원을 생성합니다. 정착민 광부처럼 작동합니다 - 희귀성에 따라 바위 또는 압축된 자원 (화강암, 압축된 강철)을 무작위로 선택하고 채굴된 제품을 반환합니다. 따라서 암석 덩어리는 깊은 채석장의 가장 일반적인 물품이며, 다른 자원들은 희귀성에 따라 채굴됩니다.</PRF_DeepQuarry_HelpText>
+  <PRF_DeepQuarry_mkI_HelpText>깊은 채석장은 지하에서 무작위 광물 자원을 추출하는데 사용되며 평균 6시간마다 한 번씩 자원을 생성합니다. 정착민 광부처럼 작동합니다 - 희귀성에 따라 바위 또는 압축된 자원 (화강암, 압축된 강철)을 무작위로 선택하고 채굴된 제품을 반환합니다. 따라서 암석 덩어리는 깊은 채석장의 가장 일반적인 물품이며, 다른 자원들은 희귀성에 따라 채굴됩니다.</PRF_DeepQuarry_mkI_HelpText>
   <Shearer_HelpText>동물 수확기는 동물이 건물 근처에 오면 자동으로 수확합니다. 이 수확기에 사료를 저장하여 동물들이 수확기에 오면 수확을 할 수 있습니다.</Shearer_HelpText>
   <Milker_HelpText>동물 수확기는 동물이 건물 근처에 오면 자동으로 수확합니다. 이 수확기에 사료를 저장하여 동물들이 수확기에 오면 수확을 할 수 있습니다.</Milker_HelpText>
   <GenericAnimalHarvester_HelpText>동물 수확기는 동물이 건물 근처에 오면 자동으로 수확합니다. 이 수확기에 사료를 저장하여 동물들이 수확기에 오면 수확을 할 수 있습니다.</GenericAnimalHarvester_HelpText>
@@ -225,6 +227,7 @@
   <PRF.Settings.RequireReboot>설정을 적용하기 위해 재시작이 필요합니다.</PRF.Settings.RequireReboot>
   <PRF.Settings.Select>선택</PRF.Settings.Select>
   <PRF.Settings.TopMessage><size=20>모든 설정 변경사항을 적용하려면 <b><i><color=red>다시 시작해야</color></i></b> 합니다.</size></PRF.Settings.TopMessage>
+  <PRF.Settings.restartMessage>닫기를 한 후에 모든 변경 사항은 림월드를 재시작해야 적용됩니다.\n또한, 지금의 주의할 점은 이곳의 어떤 설정이든 바꾼다면 Startup Imapct 모드에 의해 저장 파일이 망가질 수도 있습니다.</PRF.Settings.restartMessage>
   <PRF.Settings.AssemblerMessage>조립기 설정</PRF.Settings.AssemblerMessage>
   <PRF.Settings.OtherMessage>기타 설정</PRF.Settings.OtherMessage>
   <PRF.Settings.StorageMessage>저장소 설정</PRF.Settings.StorageMessage>
@@ -246,8 +249,8 @@
   <PRF.Settings.DsuLimit.Desc>DSU 저장고 제한 설정</PRF.Settings.DsuLimit.Desc>
   <PRF.Settings.recipeDB.Label>계획서 DB의 범위 설정</PRF.Settings.recipeDB.Label>
   <PRF.Settings.recipeDB.Desc>계획서 DB의 범위 설정</PRF.Settings.recipeDB.Desc>
-  <PRF.Settings.TurnOffInfestation.Label>채굴기의 감염 끄기(불균형 모드)</PRF.Settings.TurnOffInfestation.Label>
-  <PRF.Settings.TurnOffInfestation.Desc>채굴기의 감염 끄기(불균형 모드)</PRF.Settings.TurnOffInfestation.Desc>
+  <PRF.Settings.TurnOffInfestation.Label>T1/T2 채굴기의 감염 끄기(불균형 모드)</PRF.Settings.TurnOffInfestation.Label>
+  <PRF.Settings.TurnOffInfestation.Desc>T1/T2 채굴기의 감염 끄기(불균형 모드)</PRF.Settings.TurnOffInfestation.Desc>
   <PRF.Settings.TurnOffMinerNerf.Label>채굴기가 모든 종류의 광석 채굴 가능(불균형 모드)</PRF.Settings.TurnOffMinerNerf.Label>
   <PRF.Settings.TurnOffMinerNerf.Desc>채굴기가 모든 종류의 광석 채굴 가능(불균형 모드)</PRF.Settings.TurnOffMinerNerf.Desc>
   <PRF.Settings.TurnOffGrouping.Label>그룹화 메뉴/ 드롭다운 메뉴 중 일부 끄기</PRF.Settings.TurnOffGrouping.Label>

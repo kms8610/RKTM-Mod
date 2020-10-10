@@ -69,11 +69,6 @@
   <rxSmoothFoamWall.verb>거품벽 다듬기</rxSmoothFoamWall.verb>
   <rxSmoothFoamWall.gerund>다듬기</rxSmoothFoamWall.gerund>
 
-  <!--728381322_190818_Apparello 2-->
-  <DoBillsMakeApparello.verb>수선하기</DoBillsMakeApparello.verb>
-  <DoBillsMakeApparello.gerund>수선하기</DoBillsMakeApparello.gerund>
-  <DoBillsMakeApparello.label>의류 수선하기</DoBillsMakeApparello.label>
-
   <!--1528894129_190818_Mechanite Forge Reborn-->
   <DoBillsMechaniteForge.label>메카나이트 포지 사용</DoBillsMechaniteForge.label>
   <DoBillsMechaniteForge.verb>제작</DoBillsMechaniteForge.verb>
@@ -113,20 +108,6 @@
   <DoBillsReplicate.verb>복제</DoBillsReplicate.verb>
   <DoBillsReplicate.label>자원 복제</DoBillsReplicate.label>
   <DoBillsReplicate.gerund>복제</DoBillsReplicate.gerund>
-
-  <!--1833163132_190826_Ceramics-->
-  <DoBillsCollectClay.label>진흙 모으기</DoBillsCollectClay.label>
-  <DoBillsCollectClay.verb>채굴</DoBillsCollectClay.verb>
-  <DoBillsCollectClay.gerund>모으는 중</DoBillsCollectClay.gerund>
-  <UnloadKiln.label>벽돌 꺼내기</UnloadKiln.label>
-  <UnloadKiln.verb>운반</UnloadKiln.verb>
-  <UnloadKiln.gerund>벽돌 꺼내는 중</UnloadKiln.gerund>
-  <LoadKiln.label>젖거나 굽지 않은 벽돌 채워넣기</LoadKiln.label>
-  <LoadKiln.verb>운반</LoadKiln.verb>
-  <LoadKiln.gerund>젖거나 굽지 않은 벽돌 채워넣기</LoadKiln.gerund>
-  <DoBillsCeramics.label>세라믹 작업대에서 물건 만들기</DoBillsCeramics.label>
-  <DoBillsCeramics.verb>제작</DoBillsCeramics.verb>
-  <DoBillsCeramics.gerund>에서 작업 중</DoBillsCeramics.gerund>
 
   <!--1561492240_190826_Rimmu-Nation - Clothing (All Craftable!)-->
   <DoBillsMakeRNApparel.label>의류 제작중</DoBillsMakeRNApparel.label>

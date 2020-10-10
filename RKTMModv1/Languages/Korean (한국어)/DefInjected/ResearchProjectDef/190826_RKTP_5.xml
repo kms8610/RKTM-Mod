@@ -85,12 +85,6 @@
   <JewelryCrafting.label>장신구 제작</JewelryCrafting.label>
   <JewelryCrafting.description>장신구를 어떻게 제작하는지 배웁니다.</JewelryCrafting.description>
 
-  <!--1677752791_190817_Advanced Parka Mod-->
-  <AdvancedParka.label>고급 파카</AdvancedParka.label>
-  <AdvancedParka.description>높은 수준의 파카를 제작하는 것이 가능해집니다.</AdvancedParka.description>
-  <MilitaryParka.label>군용 파카</MilitaryParka.label>
-  <MilitaryParka.description>높은 수준의 군용 파카를 제작하는 것이 가능해집니다.</MilitaryParka.description>
-
   <!--1704214153_190617_WD_Expanded_Artillery-->
   <WDCannons.label>대포</WDCannons.label>
   <WDCannons.description>대포를 건설합니다.</WDCannons.description>
@@ -245,22 +239,6 @@
   <GrandmaAnnasCookbook.label>안나 할머니의 요리책</GrandmaAnnasCookbook.label>
   <GrandmaAnnasCookbook.description>정착민이 우주 잔해를 뒤지다가 발견했습니다. 책 겉면에는 "안나 할머니의 요리책"이라고 적혀 있습니다. 이 책은 오래돼 보이며 읽을 수 있는 건 딸기파이와 고기파이 요리법 뿐입니다. 맛있어 보이네요!요!</GrandmaAnnasCookbook.description>
 
-  <!--728381322_190818_Apparello 2-->
-  <ApparelloResearchLPOW.label>의류 보강</ApparelloResearchLPOW.label>
-  <ApparelloResearchDesign.label>의류 디자인 및 무늬</ApparelloResearchDesign.label>
-  <ApparelloResearchLPOW.description>군용 장비 및 고급 의류를 만들 수 있고 몇몇 의복을 강화하기 위한 작업대를 제작할 수 있습니다.</ApparelloResearchLPOW.description>
-  <ApparelloResearchDesign.description>입을 수 있는 예쁜 옷들입니다. 새로운 의류를 제작할 수 있고, 제작할 수 있는 작업대를 추가합니다.</ApparelloResearchDesign.description>
-  <ApparelloResearchPrototype.label>프로토타입 의류</ApparelloResearchPrototype.label>
-  <ApparelloResearchQuilting.label>퀼팅</ApparelloResearchQuilting.label>
-  <ApparelloResearchWork.label>안전 기준</ApparelloResearchWork.label>
-  <ApparelloResearchSF.label>스타플릿 제복</ApparelloResearchSF.label>
-  <ApparelloResearchPrototype.description>회로도 캐비넷 안에 있는 횡설수설한 도면들을 연구하여 가치를 확인합니다.</ApparelloResearchPrototype.description>
-  <ApparelloResearchSF.description>스타플릿의 제복을 연구하여, 장교 모자와 같은 의류를 제작합니다.</ApparelloResearchSF.description>
-  <ApparelloResearchQuilting.description>튼튼한 가죽과 옷을 만드는 기술입니다. 패딩 갑옷을 제작할 수 있습니다.</ApparelloResearchQuilting.description>
-  <ApparelloTribalwearDesign.label>부족 장식</ApparelloTribalwearDesign.label>
-  <ApparelloTribalwearDesign.description>보다 의식적이고 장인 정신이 가득한 부족민 장식품을 만들 수 있습니다.</ApparelloTribalwearDesign.description>
-  <ApparelloResearchWork.description>작업 안전과 위생은 건강한 삶을 유지하는 중요한 열쇠입니다. 현대 안전 및 위생 표준에 따라 재봉, 대장장이, 수선 등의 일을 할 수 있는 작업대를 추가합니다.</ApparelloResearchWork.description>
-
   <!--755235157_190818_MiningCo. ForceField-->
   <ResearchForceField.description>역장 생성기를 설계합니다. 이 진보된 방어 건물은 완전히 방전될 때까지 발사체를 흡수하거나 튕겨냅니다.</ResearchForceField.description>
   <ResearchForceField.label>역장</ResearchForceField.label>
@@ -380,16 +358,6 @@
   <OrganicReplicator.label>유기물 복제기</OrganicReplicator.label>
   <ItemReplication.label>복제</ItemReplication.label>
   <ResourceReplicator.label>자원 복제기</ResourceReplicator.label>
-
-  <!--1833163132_190826_Ceramics-->
-  <PrimitiveCeramics.label>점토 가공</PrimitiveCeramics.label>
-  <PrimitiveCeramics.description>점토를 모아서 유용한 형태로 가공합니다.</PrimitiveCeramics.description>
-  <BasicCeramics.label>세라믹</BasicCeramics.label>
-  <BasicCeramics.description>작업을 위한 더 좋은 도구와 가마를 사용할 수 있습니다. 또한 점토 조각품을 만들 수 있습니다.</BasicCeramics.description>
-  <ImprovedCeramics.label>향상된 세라믹</ImprovedCeramics.label>
-  <ImprovedCeramics.description>더 크고 효율적인 가마 및 도예를 포함한 세라믹 작업을 위한 더 좋은 재료와 도구를 연구합니다.</ImprovedCeramics.description>
-  <AdvancedCeramics.label>고급 세라믹</AdvancedCeramics.label>
-  <AdvancedCeramics.description>탄도 외상판과 고급 전자 분야에 사용되는 것과 같은 고급 복합 재료를 가공하는데 사용되는 고급 전기 분해 및 처리 장치를 연구합니다.</AdvancedCeramics.description>
 
   <!--1536615776_190822_Cargo Pod Transport-->
   <CargoPodBuild.label>화물 포드</CargoPodBuild.label>

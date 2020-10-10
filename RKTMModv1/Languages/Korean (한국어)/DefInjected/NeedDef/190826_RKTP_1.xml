@@ -69,8 +69,4 @@
   <PJ_ForcePool.description>정착지인의 현재 포스 풀 레벨</PJ_ForcePool.description>
   <PJ_ForcePool.label>포스 풀</PJ_ForcePool.label>
 
-  <!--1552507180_190814_Psychology-->
-  <Chemical_Methadone.label>메타돈</Chemical_Methadone.label>
-  <Chemical_Methadone.description>메타돈 중독으로 인한 금단현상을 피하려면 주기적인 복용이 필요합니다.</Chemical_Methadone.description>
-
 </LanguageData>

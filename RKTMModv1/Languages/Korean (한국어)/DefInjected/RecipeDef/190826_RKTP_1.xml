@@ -345,56 +345,6 @@
   <BulkTrimSmokeleafCultLab.jobString>연초잎 손질 중.</BulkTrimSmokeleafCultLab.jobString>
   <BulkTrimSmokeleafCultBench.jobString>연초잎 손질 중.</BulkTrimSmokeleafCultBench.jobString>
 
-  <!--1180720179_190617_[KV] Animal Costumes-->
-  <Make_Apparel_TanookiCostume.label>너구리 코스튬 제작</Make_Apparel_TanookiCostume.label>
-  <Make_Apparel_TanookiCostume.description>너구리 코스튬을 제작합니다.</Make_Apparel_TanookiCostume.description>
-  <Make_Apparel_TanookiCostume.jobString>너구리 코스튬 제작 중.</Make_Apparel_TanookiCostume.jobString>
-  <Make_Apparel_CatCostume.label>고양이 코스튬 제작</Make_Apparel_CatCostume.label>
-  <Make_Apparel_CatCostume.description>고양이 코스튬을 제작합니다.</Make_Apparel_CatCostume.description>
-  <Make_Apparel_CatCostume.jobString>고양이 코스튬 제작 중.</Make_Apparel_CatCostume.jobString>
-  <Make_Apparel_DogCostume.label>개 코스튬 제작</Make_Apparel_DogCostume.label>
-  <Make_Apparel_DogCostume.description>개 코스튬을 제작합니다.</Make_Apparel_DogCostume.description>
-  <Make_Apparel_DogCostume.jobString>개 코스튬 제작 중.</Make_Apparel_DogCostume.jobString>
-  <Make_Apparel_TanookiEars.label>너구리 귀 머리띠 제작</Make_Apparel_TanookiEars.label>
-  <Make_Apparel_TanookiEars.description>너구리 귀 머리띠를 제작합니다.</Make_Apparel_TanookiEars.description>
-  <Make_Apparel_TanookiEars.jobString>너구리 귀 머리띠 제작 중.</Make_Apparel_TanookiEars.jobString>
-  <Make_Apparel_TuqueTanookiEars.label>너구리 귀 투크 제작</Make_Apparel_TuqueTanookiEars.label>
-  <Make_Apparel_TuqueTanookiEars.description>너구리 귀 투크를 제작합니다.</Make_Apparel_TuqueTanookiEars.description>
-  <Make_Apparel_TuqueTanookiEars.jobString>너구리 귀 투크 제작 중.</Make_Apparel_TuqueTanookiEars.jobString>
-  <Make_Apparel_CatEars.label>고양이 귀 머리띠 제작</Make_Apparel_CatEars.label>
-  <Make_Apparel_CatEars.description>고양이 귀 머리띠를 제작합니다.</Make_Apparel_CatEars.description>
-  <Make_Apparel_CatEars.jobString>고양이 귀 머리띠 제작 중.</Make_Apparel_CatEars.jobString>
-  <Make_Apparel_TuqueCatEars.label>고양이 귀 투크 제작</Make_Apparel_TuqueCatEars.label>
-  <Make_Apparel_TuqueCatEars.description>고양이 귀 투크를 제작합니다.</Make_Apparel_TuqueCatEars.description>
-  <Make_Apparel_TuqueCatEars.jobString>고양이 귀 투크 제작 중.</Make_Apparel_TuqueCatEars.jobString>
-  <Make_Apparel_DogEars.label>개 귀 머리띠 제작</Make_Apparel_DogEars.label>
-  <Make_Apparel_DogEars.description>개 귀 머리띠를 제작합니다.</Make_Apparel_DogEars.description>
-  <Make_Apparel_DogEars.jobString>개 귀 머리띠 제작 중.</Make_Apparel_DogEars.jobString>
-  <Make_Apparel_TuqueDogEars.label>개 귀 투크 제작</Make_Apparel_TuqueDogEars.label>
-  <Make_Apparel_TuqueDogEars.description>개 귀 투크를 제작합니다.</Make_Apparel_TuqueDogEars.description>
-  <Make_Apparel_TuqueDogEars.jobString>개 귀 투크 제작 중.</Make_Apparel_TuqueDogEars.jobString>
-  <Make_Apparel_TanookiHood.label>너구리 후드 제작</Make_Apparel_TanookiHood.label>
-  <Make_Apparel_TanookiHood.description>너구리 후드를 제작합니다.</Make_Apparel_TanookiHood.description>
-  <Make_Apparel_TanookiHood.jobString>너구리 후드 제작 중.</Make_Apparel_TanookiHood.jobString>
-  <Make_Apparel_CatHood.label>고양이 후드 제작</Make_Apparel_CatHood.label>
-  <Make_Apparel_CatHood.description>고양이 후드을 제작합니다.</Make_Apparel_CatHood.description>
-  <Make_Apparel_CatHood.jobString>고양이 후드 제작 중.</Make_Apparel_CatHood.jobString>
-  <Make_Apparel_DogHood.label>개 후드 제작</Make_Apparel_DogHood.label>
-  <Make_Apparel_DogHood.description>개 후드를 제작합니다.</Make_Apparel_DogHood.description>
-  <Make_Apparel_DogHood.jobString>개 후드 제작 중.</Make_Apparel_DogHood.jobString>
-  <Make_Apparel_TanookiTail.label>너구리 꼬리 옷 제작</Make_Apparel_TanookiTail.label>
-  <Make_Apparel_TanookiTail.description>너구리 꼬리 옷을 제작합니다.</Make_Apparel_TanookiTail.description>
-  <Make_Apparel_TanookiTail.jobString>너구리 꼬리 옷 제작 중.</Make_Apparel_TanookiTail.jobString>
-  <Make_Apparel_CatTail.label>고양이 꼬리 옷 제작</Make_Apparel_CatTail.label>
-  <Make_Apparel_CatTail.description>고양이 꼬리 옷을 제작합니다.</Make_Apparel_CatTail.description>
-  <Make_Apparel_CatTail.jobString>고양이 꼬리 옷 제작 중.</Make_Apparel_CatTail.jobString>
-  <Make_Apparel_DogTail.label>개 꼬리 옷 제작</Make_Apparel_DogTail.label>
-  <Make_Apparel_DogTail.description>개 꼬리 옷을 제작합니다.</Make_Apparel_DogTail.description>
-  <Make_Apparel_DogTail.jobString>개 꼬리 옷 제작 중.</Make_Apparel_DogTail.jobString>
-  <Make_Apparel_AnimalCostumeUndergarment.label>전신속옷 제작</Make_Apparel_AnimalCostumeUndergarment.label>
-  <Make_Apparel_AnimalCostumeUndergarment.description>전신속옷을 제작합니다.</Make_Apparel_AnimalCostumeUndergarment.description>
-  <Make_Apparel_AnimalCostumeUndergarment.jobString>전신속옷 제작 중.</Make_Apparel_AnimalCostumeUndergarment.jobString>
-
   <!--1185278809_181023_VGP Soylent Production-->
   <MakeMealSurvivalSoylent.label>포장된 보존식량 만들기</MakeMealSurvivalSoylent.label>
   <makesoylentblue.label>파랑 소일렌트 만들기</makesoylentblue.label>
@@ -682,17 +632,6 @@
   <LotR_ExtractSteelFromIron.jobString>철에서 강철 녹여내는 중.</LotR_ExtractSteelFromIron.jobString>
   <LotR_ExtractSteelFromIron.description>열을 이용해 철에서 유용한 강철을 분리합니다.</LotR_ExtractSteelFromIron.description>
 
-  <!--1417354001_190519_Advanced Shield Belts-->
-  <Make_Apparel_HeavyShieldBelt.label>헤비 실드 벨트 만들기</Make_Apparel_HeavyShieldBelt.label>
-  <Make_Apparel_HeavyShieldBelt.description>헤비 실드 벨트 만듭니다.</Make_Apparel_HeavyShieldBelt.description>
-  <Make_Apparel_QRShieldBelt.label>급속 충전 실드 벨트 만들기</Make_Apparel_QRShieldBelt.label>
-  <Make_Apparel_QRShieldBelt.description>급속 충전 실드 벨트 만듭니다.</Make_Apparel_QRShieldBelt.description>
-  <Make_Apparel_RangedShieldBelt.label>원거리 실드 벨트 만들기</Make_Apparel_RangedShieldBelt.label>
-  <Make_Apparel_RangedShieldBelt.description>원거리 실드 벨트 만듭니다.</Make_Apparel_RangedShieldBelt.description>
-  <Make_Apparel_HeavyShieldBelt.jobString>헤비 실드 벨트 만들기</Make_Apparel_HeavyShieldBelt.jobString>
-  <Make_Apparel_QRShieldBelt.jobString>급속 충전 실드 벨트 만들기.</Make_Apparel_QRShieldBelt.jobString>
-  <Make_Apparel_RangedShieldBelt.jobString>원거리 실드 벨트 만들기</Make_Apparel_RangedShieldBelt.jobString>
-
   <!--1440321094_190519_Auto Seller-->
   <ASMakeShoppingList.description>가지고 다닐 수 있는 쇼핑 목록을 작성합니다.</ASMakeShoppingList.description>
   <ASMakeShoppingList.label>쇼핑 리스트를 만들다</ASMakeShoppingList.label>
@@ -827,11 +766,6 @@
   <MakeWire10.description>강철을 사용해서, 가시 철조망 고리를 만듭니다.</MakeWire10.description>
   <MakeWire.description>강철을 사용해서, 손으로 가시 철조망 고리를 만듭니다.</MakeWire.description>
   <MakeWire1.description>강철을 사용해서, 가시 철조망 고리를 만듭니다.</MakeWire1.description>
-
-  <!--1502471438_190520_Anti-Air Artillery-->
-  <Make_ADA_DestoryerShell.label>궤도 요격포탄 제작</Make_ADA_DestoryerShell.label>
-  <Make_ADA_DestoryerShell.description>궤도상의 표적을 요격할 수 있는 궤도 요격포탄을 제작합니다.</Make_ADA_DestoryerShell.description>
-  <Make_ADA_DestoryerShell.jobString>궤도 요격포탄 제작하는 중.</Make_ADA_DestoryerShell.jobString>
 
   <!--1502703299_190627_[KV] Hand 'n' Footwear-->
   <Make_Apparel_CowboyBoots.label>카우보이 부츠 만들기</Make_Apparel_CowboyBoots.label>
@@ -4122,31 +4056,6 @@
   <SalvageApparel.label>의류 재활용</SalvageApparel.label>
   <SalvageApparel.description>의복에 사용된 원단을 추출합니다.</SalvageApparel.description>
   <SalvageApparel.jobString>의복 재활용 중.</SalvageApparel.jobString>
-
-  <!--1552507180_190814_Psychology-->
-  <Administer_Methadone.label>메타돈 투여</Administer_Methadone.label>
-  <Administer_Methadone.jobString>메타돈 투여 중.</Administer_Methadone.jobString>
-  <Make_Methadone.label>메타돈</Make_Methadone.label>
-  <Make_Methadone.description>메타돈을 만듭니다.</Make_Methadone.description>
-  <Make_Methadone.jobString>메타돈 만드는 중.</Make_Methadone.jobString>
-  <TreatPyromania.label>방화광 치료제</TreatPyromania.label>
-  <TreatPyromania.description>봥화충동을 억제합니다.</TreatPyromania.description>
-  <TreatPyromania.jobString>방화광 치료 중.</TreatPyromania.jobString>
-  <TreatChemicalInterest.label>약물선호 치료제</TreatChemicalInterest.label>
-  <TreatChemicalInterest.description>약물에 대한 흥미를 억제합니다.</TreatChemicalInterest.description>
-  <TreatChemicalInterest.jobString>약물선호 치료 중.</TreatChemicalInterest.jobString>
-  <TreatChemicalFascination.label>약물광 치료제</TreatChemicalFascination.label>
-  <TreatChemicalFascination.description>약물에 대한 강한 흥미를 억제합니다.</TreatChemicalFascination.description>
-  <TreatChemicalFascination.jobString>약물광 치료 중.</TreatChemicalFascination.jobString>
-  <TreatDepression.label>우울증 치료제</TreatDepression.label>
-  <TreatDepression.description>감정 조절에 도움을 줍니다.</TreatDepression.description>
-  <TreatDepression.jobString>우울증 치료 중.</TreatDepression.jobString>
-  <TreatInsomnia.label>불면증 치료</TreatInsomnia.label>
-  <TreatInsomnia.description>불면증이 있는 사람이 더 잘 자도록 돕습니다.</TreatInsomnia.description>
-  <TreatInsomnia.jobString>불면증 치료 중.</TreatInsomnia.jobString>
-  <CureAnxiety.label>불안장애 치료</CureAnxiety.label>
-  <CureAnxiety.description>번화계의 치료법으로 불안 증세를 영구적으로 제거합니다.</CureAnxiety.description>
-  <CureAnxiety.jobString>불안장애 치료 중.</CureAnxiety.jobString>
 
   <!-- 190901_Replimat -->
   <ReplimatDisassembleAiCore.label>인공자아 핵 분해</ReplimatDisassembleAiCore.label>

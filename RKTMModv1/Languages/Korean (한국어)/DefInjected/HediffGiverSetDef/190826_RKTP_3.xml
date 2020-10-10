@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--1342510409_190627_Astoriel-->
-  <AstorielAgeless.hediffGivers.3.letterLabel>천재 자폐아</AstorielAgeless.hediffGivers.3.letterLabel>
-  <AstorielAgeless.hediffGivers.3.letter>[PAWN_nameDef](은)는 뇌 손상으로 인해 이상한 능력을 얻게 되었습니다.</AstorielAgeless.hediffGivers.3.letter>
-
   <!--1400227853_190602_Lord of the Rims - Hobbits-->
   <LotRH_HobbitTraitsGiver.hediffGivers.3.letterLabel>외상 서번트 증후군</LotRH_HobbitTraitsGiver.hediffGivers.3.letterLabel>
   <LotRH_HobbitTraitsGiver.hediffGivers.3.letter>[PAWN_nameDef]의 뇌손상으로 인해 [PAWN_pronoun]는 기묘한 서번트 증후군 능력을 갖게 되었습니다.</LotRH_HobbitTraitsGiver.hediffGivers.3.letter>

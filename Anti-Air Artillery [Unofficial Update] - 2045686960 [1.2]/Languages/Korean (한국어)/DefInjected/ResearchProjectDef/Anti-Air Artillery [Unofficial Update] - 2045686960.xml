@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1502471438_190520_Anti-Air Artillery-->
+  <ADAHuge.label>대형 대공포</ADAHuge.label>
+  <ADAHit.label>궤도 방위 파동포</ADAHit.label>
+  <ADAHuge.description>범위내로 강하하는 적 수송기들과 추락하는 외계함선을 요격할 수 있는 대형 대공포를 건설하는 방법에 대해 연구합니다.</ADAHuge.description>
+  <ADAMiddle.description>범위내로 강하하는 적 수송기 및 박격포탄을 요격할 수 있는 중형 대공포를 건설하는 방법에 대해 연구합니다.</ADAMiddle.description>
+  <ADASmall.description>범위내로 날아오는 적의 박격포 탄을 요격할 수 있는 소형 대공포를 건설하는 방법에 대해 연구합니다.</ADASmall.description>
+  <ADAHit.description>행성 궤도 전역을 방위할 수 있는 궤도 방위 파동포를 건설할 수 있는 기술을 연구합니다. 이 가공할 구조물은 대공포 기술을 총망라한 궁극의 대공포입니다. 사용자가 원한다면 궤도에 들어선 무역선을 격추할 수 있습니다. 그리고....</ADAHit.description>
+  <ADAMiddle.label>중형 대공포</ADAMiddle.label>
+  <ADASmall.label>소형 대공포</ADASmall.label>
+
+</LanguageData>

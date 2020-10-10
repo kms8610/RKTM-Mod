@@ -83,7 +83,7 @@
   <ForceRecruitTooltip>방문객들을 설득하기 전에 강제로 합류하도록 만들 수 있습니다. 그러나 포섭을 하게 되면 해당 세력과 우호도가 크게 떨어집니다.</ForceRecruitTooltip>
   <SendAwayTooltip>이 무리들을 집으로 다시 돌려보냅니다.</SendAwayTooltip>
   <BedsFilled>사용 중인 침대: {0}/{1}</BedsFilled>
-  <ManageDefaults>기본값 관리...</ManageDefaults>
+  <MapSettings>지도 설정...</MapSettings>
   <GuestsWelcome>새로운 방문객 허용</GuestsWelcome>
   <GuestsWelcomeTooltip>이 설정을 끄면, 정착지에 새로운 방문객이 오지 않습니다.</GuestsWelcomeTooltip>
   <StatsReport_MissingFriends>행방불명된 친구</StatsReport_MissingFriends>

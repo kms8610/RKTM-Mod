@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--850429707_190626_RBSE-->
+  <BionicFoot.labelNoun>생체공학 발</BionicFoot.labelNoun>
+  <BionicHand.labelNoun>생체공학 손</BionicHand.labelNoun>
+  <BionicJaw.labelNoun>생체공학 턱</BionicJaw.labelNoun>
+  <PowerArm.labelNoun>동력 팔</PowerArm.labelNoun>
+  <SpinalFusion.labelNoun>척추 결합</SpinalFusion.labelNoun>
+  <HookHand.labelNoun>갈고리 손</HookHand.labelNoun>
+  <SimpleProstheticFoot.labelNoun>간단한 인공 발</SimpleProstheticFoot.labelNoun>
+  <SimpleProstheticHand.labelNoun>간단한 인공 손</SimpleProstheticHand.labelNoun>
+  <SyntheticLung.stages.0.label>적응 중</SyntheticLung.stages.0.label>
+  <SyntheticLung.stages.1.label>적응 중</SyntheticLung.stages.1.label>
+  <SyntheticLiver.stages.0.label>적응 중</SyntheticLiver.stages.0.label>
+  <SyntheticLiver.stages.1.label>적응 중</SyntheticLiver.stages.1.label>
+  <SyntheticKidney.stages.0.label>적응 중</SyntheticKidney.stages.0.label>
+  <SyntheticKidney.stages.1.label>적응 중</SyntheticKidney.stages.1.label>
+  <SyntheticHeart.stages.0.label>적응 중</SyntheticHeart.stages.0.label>
+  <SyntheticHeart.stages.1.label>적응 중</SyntheticHeart.stages.1.label>
+  <SyntheticStomach.stages.0.label>적응 중</SyntheticStomach.stages.0.label>
+  <SyntheticStomach.stages.1.label>적응 중</SyntheticStomach.stages.1.label>
+  <AdvancedBionicArm.label>고급 생체공학 팔</AdvancedBionicArm.label>
+  <AdvancedBionicEar.label>고급 생체공학 귀</AdvancedBionicEar.label>
+  <AdvancedBionicEye.label>고급 생체공학 눈</AdvancedBionicEye.label>
+  <AdvancedBionicFoot.label>고급 생체공학 발</AdvancedBionicFoot.label>
+  <AdvancedBionicHand.label>고급 생체공학 손</AdvancedBionicHand.label>
+  <AdvancedBionicLeg.label>고급 생체공학 다리</AdvancedBionicLeg.label>
+  <AdvancedBionicSpine.label>고급 생체공학 척추</AdvancedBionicSpine.label>
+  <AdvancedPowerArm.label>고급 동력 팔</AdvancedPowerArm.label>
+  <AdvancedBionicArm.labelNoun>고급 생체공학 팔</AdvancedBionicArm.labelNoun>
+  <AdvancedBionicEar.labelNoun>고급 생체공학 귀</AdvancedBionicEar.labelNoun>
+  <AdvancedBionicEye.labelNoun>고급 생체공학 눈</AdvancedBionicEye.labelNoun>
+  <AdvancedBionicFoot.labelNoun>고급 생체공학 발</AdvancedBionicFoot.labelNoun>
+  <AdvancedBionicHand.labelNoun>고급 생체공학 손</AdvancedBionicHand.labelNoun>
+  <AdvancedBionicLeg.labelNoun>고급 생체공학 다리</AdvancedBionicLeg.labelNoun>
+  <AdvancedBionicSpine.labelNoun>고급 생체공학 척추</AdvancedBionicSpine.labelNoun>
+  <AdvancedPowerArm.labelNoun>고급 동력 팔</AdvancedPowerArm.labelNoun>
+  <ArtificialClavicle.labelNoun>인공 쇄골</ArtificialClavicle.labelNoun>
+  <ArtificialFemur.labelNoun>인공 대퇴골</ArtificialFemur.labelNoun>
+  <ArtificialHumerus.labelNoun>인공 상완골</ArtificialHumerus.labelNoun>
+  <ArtificialNose.labelNoun>인공 코</ArtificialNose.labelNoun>
+  <ArtificialPelvis.labelNoun>인공 골반</ArtificialPelvis.labelNoun>
+  <ArtificialRadius.labelNoun>인공 요골</ArtificialRadius.labelNoun>
+  <ArtificialRibcage.labelNoun>인공 갈비뼈</ArtificialRibcage.labelNoun>
+  <ArtificialSternum.labelNoun>인공 흉골</ArtificialSternum.labelNoun>
+  <ArtificialTibia.labelNoun>인공 경골</ArtificialTibia.labelNoun>
+  <ExoskeletonSuit.labelNoun>외골격 장갑</ExoskeletonSuit.labelNoun>
+  <ArtificialClavicle.label>인공 쇄골</ArtificialClavicle.label>
+  <ArtificialFemur.label>인공 대퇴골</ArtificialFemur.label>
+  <ArtificialHumerus.label>인공 상완골</ArtificialHumerus.label>
+  <ArtificialNose.label>인공 코</ArtificialNose.label>
+  <ArtificialPelvis.label>인공 골반</ArtificialPelvis.label>
+  <ArtificialRadius.label>인공 요골</ArtificialRadius.label>
+  <ArtificialRibcage.label>인공 갈비뼈</ArtificialRibcage.label>
+  <ArtificialSternum.label>인공 흉골</ArtificialSternum.label>
+  <ArtificialTibia.label>인공 경골</ArtificialTibia.label>
+  <BionicFoot.label>생체공학 발</BionicFoot.label>
+  <BionicHand.label>생체공학 손</BionicHand.label>
+  <BionicJaw.label>생체공학 턱</BionicJaw.label>
+  <ChronicKidneyDisease.label>만성 신장병</ChronicKidneyDisease.label>
+  <ChronicStomachDisorder.label>만성 위장 장애</ChronicStomachDisorder.label>
+  <CongenitalHeartDefect.label>선천성 심장 결함</CongenitalHeartDefect.label>
+  <Cortexaugmentor.label>대뇌피질 증진기</Cortexaugmentor.label>
+  <Stomach.stages.3.label>극심한 거부반응</Stomach.stages.3.label>
+  <Heart.stages.3.label>극심한 거부반응</Heart.stages.3.label>
+  <Liver.stages.3.label>극심한 거부반응</Liver.stages.3.label>
+  <Kidney.stages.3.label>극심한 거부반응</Kidney.stages.3.label>
+  <Lung.stages.3.label>극심한 거부반응</Lung.stages.3.label>
+  <ExoskeletonSuit.label>외골격 장갑</ExoskeletonSuit.label>
+  <ChronicKidneyDisease.stages.4.label>극심함</ChronicKidneyDisease.stages.4.label>
+  <AdvancedPowerArm.comps.0.tools.0.label>주먹</AdvancedPowerArm.comps.0.tools.0.label>
+  <AdvancedBionicArm.comps.0.tools.0.label>주먹</AdvancedBionicArm.comps.0.tools.0.label>
+  <AdvancedBionicHand.comps.0.tools.0.label>주먹</AdvancedBionicHand.comps.0.tools.0.label>
+  <PowerArm.comps.0.tools.0.label>주먹</PowerArm.comps.0.tools.0.label>
+  <BionicHand.comps.0.tools.0.label>주먹</BionicHand.comps.0.tools.0.label>
+  <HookHand.comps.0.tools.0.label>주먹</HookHand.comps.0.tools.0.label>
+  <SimpleProstheticHand.comps.0.tools.0.label>주먹</SimpleProstheticHand.comps.0.tools.0.label>
+  <Heart.label>심장 이식</Heart.label>
+  <HookHand.label>갈고리 손</HookHand.label>
+  <Hyporegulator.label>시상하부 조절기</Hyporegulator.label>
+  <Kidney.label>신장 이식</Kidney.label>
+  <Liver.label>간 이식</Liver.label>
+  <Lung.label>폐 이식</Lung.label>
+  <ChronicKidneyDisease.stages.3.label>심각함</ChronicKidneyDisease.stages.3.label>
+  <CongenitalHeartDefect.stages.1.label>심각함</CongenitalHeartDefect.stages.1.label>
+  <Stomach.stages.0.label>가벼운 거부반응</Stomach.stages.0.label>
+  <Heart.stages.0.label>가벼운 거부반응</Heart.stages.0.label>
+  <Liver.stages.0.label>가벼운 거부반응</Liver.stages.0.label>
+  <Kidney.stages.0.label>가벼운 거부반응</Kidney.stages.0.label>
+  <Lung.stages.0.label>가벼운 거부반응</Lung.stages.0.label>
+  <ChronicKidneyDisease.stages.0.label>가벼움</ChronicKidneyDisease.stages.0.label>
+  <ChronicKidneyDisease.stages.1.label>가벼움</ChronicKidneyDisease.stages.1.label>
+  <ChronicKidneyDisease.stages.2.label>보통</ChronicKidneyDisease.stages.2.label>
+  <CongenitalHeartDefect.stages.0.label>보통</CongenitalHeartDefect.stages.0.label>
+  <Stomach.stages.1.label>보통의 거부반응</Stomach.stages.1.label>
+  <Heart.stages.1.label>보통의 거부반응</Heart.stages.1.label>
+  <Liver.stages.1.label>보통의 거부반응</Liver.stages.1.label>
+  <Kidney.stages.1.label>보통의 거부반응</Kidney.stages.1.label>
+  <Lung.stages.1.label>보통의 거부반응</Lung.stages.1.label>
+  <Neurostimulator.label>신경자극기</Neurostimulator.label>
+  <PowerArm.label>동력 팔</PowerArm.label>
+  <Stomach.stages.2.label>심각한 거부반응</Stomach.stages.2.label>
+  <Heart.stages.2.label>심각한 거부반응</Heart.stages.2.label>
+  <Liver.stages.2.label>심각한 거부반응</Liver.stages.2.label>
+  <Kidney.stages.2.label>심각한 거부반응</Kidney.stages.2.label>
+  <Lung.stages.2.label>심각한 거부반응</Lung.stages.2.label>
+  <SimpleProstheticFoot.label>간단한 인공 발</SimpleProstheticFoot.label>
+  <SimpleProstheticHand.label>간단한 인공 손</SimpleProstheticHand.label>
+  <SpinalFusion.label>척추 결합</SpinalFusion.label>
+  <Stomach.label>위 이식</Stomach.label>
+  <SyntheticHeart.label>합성 심장</SyntheticHeart.label>
+  <SyntheticKidney.label>합성 신장</SyntheticKidney.label>
+  <SyntheticLiver.label>합성 간</SyntheticLiver.label>
+  <SyntheticLung.label>합성 폐</SyntheticLung.label>
+  <SyntheticStomach.label>합성 위</SyntheticStomach.label>
+
+</LanguageData>

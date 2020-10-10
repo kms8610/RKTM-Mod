@@ -37,16 +37,6 @@
   <WDMoisturePumpAdvanced.label>고급 흡습 펌프</WDMoisturePumpAdvanced.label>
   <WDMoisturePumpAdvanced.description>습지를 더 빠르게 건조시키는 고급 흡습 펌프를 건설할 수 있습니다.</WDMoisturePumpAdvanced.description>
 
-  <!--1180720179_190617_[KV] Animal Costumes-->
-  <AnimalTailsAndEars.label>(코스튬)동물 꼬리와 귀</AnimalTailsAndEars.label>
-  <AnimalTailsAndEars.description>동물의 꼬리와 귀 모양을 본뜬 악세서리 제작이 가능해집니다.</AnimalTailsAndEars.description>
-  <CombatAnimalTailsAndEars.label>(코스튬) 전투용 동물 꼬리와 귀</CombatAnimalTailsAndEars.label>
-  <CombatAnimalTailsAndEars.description>동물의 꼬리와 귀 모양을 본뜬 전투용 악세서리 제작이 가능해집니다.</CombatAnimalTailsAndEars.description>
-  <AnimalCostumes.label>(코스튬) 동물 코스튬</AnimalCostumes.label>
-  <AnimalCostumes.description>동물의 특성을 본뜬 복장 제작이 가능해집니다.</AnimalCostumes.description>
-  <CombatAnimalCostumes.label>(코스튬) 전투용 동물 코스튬</CombatAnimalCostumes.label>
-  <CombatAnimalCostumes.description>동물의 특성을 본뜬 전투용 복장 제작이 가능해집니다.</CombatAnimalCostumes.description>
-
   <!--1180720427_190622_Weapon Storage-->
   <Mending.label>무기 수리</Mending.label>
   <Mending.description>손상된 무기를 수리 할 수 있습니다.</Mending.description>
@@ -137,24 +127,6 @@
   <OpioidRefining.label>아편 정제</OpioidRefining.label>
   <OpioidRefining.description>더 강한 효과가 있는 아편을 합성하는 법과 양귀비 유액을 모르핀으로 정제하는 방법을 연구합니다.</OpioidRefining.description>
 
-  <!--1417354001_190519_Advanced Shield Belts-->
-  <HeavyShieldBelts.description>발전된 벨트로서 최대 충전량이 증가합니다.</HeavyShieldBelts.description>
-  <HeavyShieldBelts.label>헤비 실드 벨트</HeavyShieldBelts.label>
-  <QRShieldBelts.description>빠른 충전이 가능한 실드 벨트, 재충전 속도가 빠르게 증가합니다.</QRShieldBelts.description>
-  <QRShieldBelts.label>급속 충전 실드 벨트</QRShieldBelts.label>
-  <RangedShieldBelts.label>원거리 실드 벨트</RangedShieldBelts.label>
-  <RangedShieldBelts.description>원거리 싸움이 가능하게 해주는 실드 벨트, 첨단 마이크로 칩을 사용하면 처리 능력이 향상되므로 벨트가 들어오고 나가는 발사체를 구별 할 수 있습니다.</RangedShieldBelts.description>
-
-  <!--1426296659_190626_advanced powergeneration-->
-  <sd_adv_powergen_research_adv_geo.label>고급 지열 발전</sd_adv_powergen_research_adv_geo.label>
-  <sd_adv_powergen_research_nuclear_power.label>고급 원자력 발전</sd_adv_powergen_research_nuclear_power.label>
-  <sd_adv_powergen_research_adv_solar.label>고급 태양광 발전</sd_adv_powergen_research_adv_solar.label>
-  <sd_adv_powergen_research_adv_wind_turbine.label>고급 풍력 발전</sd_adv_powergen_research_adv_wind_turbine.label>
-  <sd_adv_powergen_research_adv_geo.description>고급 지열 발전기를 지을 수 있게 됩니다.</sd_adv_powergen_research_adv_geo.description>
-  <sd_adv_powergen_research_nuclear_power.description>고급 원자력 발전기를 지을 수 있게 됩니다.</sd_adv_powergen_research_nuclear_power.description>
-  <sd_adv_powergen_research_adv_solar.description>고급 태양광 발전기를 지을 수 있게 됩니다.</sd_adv_powergen_research_adv_solar.description>
-  <sd_adv_powergen_research_adv_wind_turbine.description>고급 풍력 발전기를 지을 수 있게 됩니다.</sd_adv_powergen_research_adv_wind_turbine.description>
-
   <!--1447372624_190816_Nano Repair Tech-->
   <Ogre_NanoTech.description>나노기술 수리 가구 건설을 할 수 있습니다. (침대 및 선반) 침대는 정착민들이 잠자는 동안 장비된 의류를 수리하고, 선반은 보관된 의류를 수리합니다. 모든 가구는 전력 및 연료 공급이 필요한 나노기술 나노나이트를 갖추고 있습니다. 나노기술 연료는 바이오 연료 정제기와 추가 연구 진행 시 가공 작업대에서 만들 수 있습니다.</Ogre_NanoTech.description>
   <Ogre_NanoTech_Weapons.description>나노기술 가구에서 사용되는 확장 팔 통합하기 위해 나노나이트를 교체합니다. 이 수정으로, 전력 요구량이 증가하면서 의류 외에도 무기류를 수리할 수 있게 되었습니다.</Ogre_NanoTech_Weapons.description>
@@ -182,16 +154,6 @@
   <!--1498756997_190814_Maid Project-->
   <MaidTech.description>다양한 일에 도움이 되는 메이드복을 만들 수 있습니다.</MaidTech.description>
   <MaidTech.label>메이드복 연구</MaidTech.label>
-
-  <!--1502471438_190520_Anti-Air Artillery-->
-  <ADAHuge.label>대형 대공포</ADAHuge.label>
-  <ADAHit.label>궤도 방위 파동포</ADAHit.label>
-  <ADAHuge.description>범위내로 강하하는 적 수송기들과 추락하는 외계함선을 요격할 수 있는 대형 대공포를 건설하는 방법에 대해 연구합니다.</ADAHuge.description>
-  <ADAMiddle.description>범위내로 강하하는 적 수송기 및 박격포탄을 요격할 수 있는 중형 대공포를 건설하는 방법에 대해 연구합니다.</ADAMiddle.description>
-  <ADASmall.description>범위내로 날아오는 적의 박격포 탄을 요격할 수 있는 소형 대공포를 건설하는 방법에 대해 연구합니다.</ADASmall.description>
-  <ADAHit.description>행성 궤도 전역을 방위할 수 있는 궤도 방위 파동포를 건설할 수 있는 기술을 연구합니다. 이 가공할 구조물은 대공포 기술을 총망라한 궁극의 대공포입니다. 사용자가 원한다면 궤도에 들어선 무역선을 격추할 수 있습니다. 그리고....</ADAHit.description>
-  <ADAMiddle.label>중형 대공포</ADAMiddle.label>
-  <ADASmall.label>소형 대공포</ADASmall.label>
 
   <!--1505332648_190519_Gods of Elona [1.0]-->
   <EhekatlofLuck.label>행운의 에헤카틀</EhekatlofLuck.label>
@@ -274,10 +236,6 @@
   <ThickStoneRoofRemoval.label>두꺼운 지붕 제거</ThickStoneRoofRemoval.label>
   <ThickStoneRoofProduction.label>두꺼운 지붕 설치</ThickStoneRoofProduction.label>
   <TransparentRoofProduction.label>채광창</TransparentRoofProduction.label>
-
-  <!--1517502911_190627_Advanced Cooling-->
-  <AdvCooler.label>고급 냉방기</AdvCooler.label>
-  <AdvCooler.description>열을 내뿜지 않는 진보된 냉방기를 건설할 수 있습니다.</AdvCooler.description>
 
   <!--1518932357_181022_Giddy-up! Mechanoids-->
   <GU_Mech_GiddyUpModule.label>기승 모듈</GU_Mech_GiddyUpModule.label>

@@ -11,7 +11,7 @@
 	<li IfModActive="TradingControl.Common.Core">Trading Control - 2007107588 [1.2]</li>
     <li IfModActive="brrainz.cameraplus">Camera+ - 867467808 [1.2]</li>
 	<li IfModActive="brrainz.achtung">Achtung! - 730936602 [1.2]</li>
-	<li IfModActive="Albion.SparklingWorlds.Full">Sparkling World - 1123043922 [1.2]</li>
+	<li IfModActive="Albion.SparklingWorlds.Full">Sparkling Worlds - Full Mod - 1123043922 [1.2]</li>
 	<li IfModActive="avius.prisonlabor">Prison Labor - 1899474310 [1.2]</li>
 	<li IfModActive="machine.rtr">Raise The Roof - 1776143665 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VCookESushi">Vanilla Cooking Expanded - Sushi - 2158539170 [1.2]</li>
@@ -115,9 +115,7 @@
 	<!-- 20.09.08 -->
 	<li IfModActive="dismarzero.VGP.VGPGardenDyes">VGP Garden Dyes - 2007062688 [1.2]</li>
 	<li IfModActive="dismarzero.VGP.VGPVegetableGarden">VGP Vegetable Garden - 2007061826 [1.2]</li>
-	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VHE.Beards">Vanilla Hair Expanded - Beards - 2187520791 [1.2]</li>
-	<li IfModActive="Orion.Hospitality">Hospitality - 753498552 [1.2]</li>
 	<!-- 20.09.09 -->
 	<li IfModActive="VanillaExpanded.VCookE">Vanilla Cooking Expanded - 2134308519 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VCookEStews">Vanilla Cooking Expanded - Stews - 2134312965 [1.2]</li>
@@ -136,7 +134,6 @@
 	<!-- 20.09.19 -->
 	<li IfModActive="Albion.GoExplore">Go Explore! - 1814100216 [1.2]</li>
 	<!-- 20.09.20 -->
-	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700 [1.2]</li>
 	<li IfModActive="dismarzero.VGP.VGPGardenResources">VGP Garden Resources - 2007063451 [1.2]</li>
 	<!-- 20.09.22 -->
 	<li IfModActive="aRandomKiwi.MercenariesForMe">Mercenaries For Me - 1832318107 [1.2]</li>
@@ -209,6 +206,37 @@
 	<li IfModActive="Ogliss.AdMech.Armoury">Adeptus Mechanicus Armoury - 1541438614 [1.2]</li>
 	<li IfModActive="RH.Faction.VOID">Faction VOID - 2130955778 [1.1]</li>
 	<li IfModActive="BOXrsxx.MorePracticalTraits">More Practical Traits - 1568700181 [1.1]</li>
+	<li IfModActive="Mlie.AdvancedBiomes">Advanced Biomes (Continued) - 2052116426 [1.2]</li>
+	<li IfModActive="nuke.AdvancedCooling">Advanced Cooling - 1517502911 [1.2]</li>
+	<li IfModActive="kikohi.advancedparka">Advanced Parka - 1677752791 [1.2]</li>
+	<li IfModActive="dninemfive.advancedshieldbelts">Advanced Shield Belts - 1417354001 [1.2]</li>
+	<li IfModActive="Albion.AIUplift">AI Uplifting Assistant - 1227757287 [1.2]</li>
+	<!-- 20.10.05 -->
+	<li IfModActive="tikubonn.AnestheticGunMod">Anesthetic Gun MOD - 1220397176 [1.2]</li>
+	<li IfModActive="animalcostumes.kv.rw">Animal Costumes - 1180720179 [1.2]</li>
+	<li IfModActive="Dylan.AnimalGearBasic">Animal Gear Basic - 1541439112 [1.2]</li>
+	<li IfModActive="ty.animalhoods">Animal Hoods - 2004612072 [1.2]</li>
+	<li IfModActive="akreedz346.antiairartillerycontinued">Anti-Air Artillery [Unofficial Update] - 2045686960 [1.2]</li>
+	<li IfModActive="Shinzy.Apparello">Apparello 2 - 728381322 [1.2]</li>
+	<li IfModActive="Teok25.ArchotechExpanded">Archotech Expanded - 1442734859 [1.2]</li>
+	<li IfModActive="jelly.asphalt">Asphalt - 2071681820 [1.2]</li>
+	<li IfModActive="Roskii.Astoriel">Astoriel - 1342510409 [1.2]</li>
+	<li IfModActive="n7huntsman.ceramics">Ceramics - 1833163132 [1.2]</li>
+	<li IfModActive="WildPokemon.velcroboy333">Wild Pokémon (continued) - 2127631181 [1.2]</li>
+	<li IfModActive="FrozenSnowFox.AdvancedBionicsExpansion">Advanced Bionics Expansion - 2006925330 [1.2]</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
+	<li IfModActive="Albion.SparklingWorlds.Addon.Events">Sparkling Worlds Addon - More Events - 1280211279 [1.2]</li>
+	<li IfModActive="Andross.RoyalThrumbos">Royal Thrumbos - 1865990377 [1.2]</li>
+	<li IfModActive="Proxyer.DESurgeries.DESurgeries">DE Surgeries Color - 2002422428 [1.2]</li>
+	<li IfModActive="Proxyer.DESurgeries.DESurgeriesColor">DE Surgeries Color - 2002422428 [1.2]</li>
+	<li IfModActive="Rah.RBSE">Rah's Bionics and Surgery Expansion - 850429707 [1.2]</li>
+	<li IfModActive="AsGAlligator.MonsterHunterRimWorld">Monster Hunter RimWorld - 2001260604 [1.1]</li>
+	<!-- 20.10.08 -->
+	<li IfModActive="Community.Psychology.UnofficialUpdate">Psychology (unofficial)  - 2016263135 [1.2]</li>
+	<li IfModActive="Orion.Hospitality">Hospitality - 753498552 [1.2]</li>
+	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700 [1.2]</li>
+	<!-- 20.10.10 -->
+	<li IfModActive="TheGoofyOne.IceCreamIntegrated">Ice Cream Integrated - 2074386751 [1.2]</li>
   </v1.2>
 
 </loadFolders>
