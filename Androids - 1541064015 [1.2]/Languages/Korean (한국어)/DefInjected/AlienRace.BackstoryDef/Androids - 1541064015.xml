@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <ChJAndroid_Adult_Basic.title>국경 시민</ChJAndroid_Adult_Basic.title>
   <ChJAndroid_Adult_Basic.titleShort>시민</ChJAndroid_Adult_Basic.titleShort>
   <ChJAndroid_Adult_Basic.baseDescription>[PAWN_possessive] 주인들로부터 도망친 후 [PAWN_nameDef](은)는 안드로이드 자주국으로 피신했습니다. 특출나지 않지만 [PAWN_pronoun]는 생존에 필요한 기술을 터득했습니다.</ChJAndroid_Adult_Basic.baseDescription>
@@ -11,10 +10,10 @@
   <ChJAndroid_Adult_Basic3.titleShort>시민</ChJAndroid_Adult_Basic3.titleShort>
   <ChJAndroid_Adult_Basic3.baseDescription>[PAWN_nameDef](은)는 예전 주인들로부터 탈출한 지 얼마 안 되어 채굴을 취미로 삼았습니다. [PAWN_pronoun]는 탐사 채굴로 작은 부를 쌓았습니다.</ChJAndroid_Adult_Basic3.baseDescription>
   <ChJAndroid_Adult_Social.title>연예인</ChJAndroid_Adult_Social.title>
-  <ChJAndroid_Adult_Social.titleShort>연예인</ChJAndroid_Adult_Social.titleShort>
+  <ChJAndroid_Adult_Social.titleShort>관계</ChJAndroid_Adult_Social.titleShort>
   <ChJAndroid_Adult_Social.baseDescription>[PAWN_nameDef](은)는 자유를 찾은 후 꽤 괜찮은 연예인이 되었습니다. 말빨로든 칼빨로든 [PAWN_pronoun]만의 연기를 해냈습니다.</ChJAndroid_Adult_Social.baseDescription>
-  <ChJAndroid_Adult_Medical.title>의사</ChJAndroid_Adult_Medical.title>
-  <ChJAndroid_Adult_Medical.titleShort>의사</ChJAndroid_Adult_Medical.titleShort>
+  <ChJAndroid_Adult_Medical.title>치료</ChJAndroid_Adult_Medical.title>
+  <ChJAndroid_Adult_Medical.titleShort>치료</ChJAndroid_Adult_Medical.titleShort>
   <ChJAndroid_Adult_Medical.baseDescription>[PAWN_nameDef](은)는 의술에 천부적인 재능을 지녀서, 사람과 안드로이드 모두의 상처를 봉합하는 실력에 [PAWN_pronoun]는 자부심을 가졌습니다.</ChJAndroid_Adult_Medical.baseDescription>
   <ChJAndroid_Adult_Manufacturing.title>장인</ChJAndroid_Adult_Manufacturing.title>
   <ChJAndroid_Adult_Manufacturing.titleShort>장인</ChJAndroid_Adult_Manufacturing.titleShort>
@@ -34,8 +33,8 @@
   <ChJAndroid_Adult_Marksman.title>명사수</ChJAndroid_Adult_Marksman.title>
   <ChJAndroid_Adult_Marksman.titleShort>명사수</ChJAndroid_Adult_Marksman.titleShort>
   <ChJAndroid_Adult_Marksman.baseDescription>[PAWN_nameDef](은)는 십 리 밖의 토끼도 보고 쫓아 사냥할 수 있습니다. 그러나 누구든 가까이만 오면 주저하게 됩니다.</ChJAndroid_Adult_Marksman.baseDescription>
-  <ChJAndroid_Adult_Brawler.title>싸움꾼</ChJAndroid_Adult_Brawler.title>
-  <ChJAndroid_Adult_Brawler.titleShort>싸움꾼</ChJAndroid_Adult_Brawler.titleShort>
+  <ChJAndroid_Adult_Brawler.title>전투광</ChJAndroid_Adult_Brawler.title>
+  <ChJAndroid_Adult_Brawler.titleShort>전투광</ChJAndroid_Adult_Brawler.titleShort>
   <ChJAndroid_Adult_Brawler.baseDescription>[PAWN_nameDef](은)는 가까이 붙어 싸우는 것을 좋아하지만, [PAWN_pronoun]는 다트도 못 맞출 수준인데다 구기종목도 젬병이라 공으로 자기를 맞출 확률이 더 높습니다.</ChJAndroid_Adult_Brawler.baseDescription>
   <ChJAndroid_Adult_Protector.title>수호자</ChJAndroid_Adult_Protector.title>
   <ChJAndroid_Adult_Protector.titleShort>수호자</ChJAndroid_Adult_Protector.titleShort>
@@ -74,13 +73,13 @@
   <ChJAndroid_Adult_ExtremeSocial.titleShort>고급 매춘부</ChJAndroid_Adult_ExtremeSocial.titleShort>
   <ChJAndroid_Adult_ExtremeSocial.baseDescription>[PAWN_nameDef](은)는 일생의 끝물에 주인들로부터 도망쳤습니다. [PAWN_nameDef](은)는 예전 주인들의 욕구를 만족시키기 위해 심하게 개조되었지만, 몇 몇은 변경계에서도 쓸모가 있었습니다. [PAWN_pronoun]는 사정을 듣다 말고 기꺼이 받아준 자치국에 피신했습니다.</ChJAndroid_Adult_ExtremeSocial.baseDescription>
   <ChJAndroid_Child_Basic.title>기본 모델</ChJAndroid_Child_Basic.title>
-  <ChJAndroid_Child_Basic.titleShort>기본</ChJAndroid_Child_Basic.titleShort>
+  <ChJAndroid_Child_Basic.titleShort>심부름</ChJAndroid_Child_Basic.titleShort>
   <ChJAndroid_Child_Basic.baseDescription>[PAWN_nameDef](은)는 특이할 것이 없는 양산형 안드로이드 모델이었습니다. [PAWN_pronoun]의 인공지능 각인은 대부분의 번화계와 일부 도시계에서도 허가된 흔한 지각 모방 기술을 사용합니다. 이는 비교적 안정적이며 기억 진위구별 검사를 속일 수 없다는 장점이 있지만, 발전 가능성이 적은 단점이 있기도 합니다.</ChJAndroid_Child_Basic.baseDescription>
   <ChJAndroid_Child_Social.title>사교 모델</ChJAndroid_Child_Social.title>
-  <ChJAndroid_Child_Social.titleShort>사교</ChJAndroid_Child_Social.titleShort>
+  <ChJAndroid_Child_Social.titleShort>관계</ChJAndroid_Child_Social.titleShort>
   <ChJAndroid_Child_Social.baseDescription>[PAWN_nameDef]의 모델은 주인들에게 사교적 오락을 제공하기 위해 제작되어, [PAWN_pronoun]의 의사소통 능력을 향상시키는 모방 소프트웨어를 담고 있습니다. 감정을 모방하는 능력이 훌륭한 덕에, 진짜 사람의 기억을 훔쳐 사이버 뇌에 담은 것이 아닌가 종종 의심받기도 합니다. 이로 인해 여러 모로 제재받자, 이들은 종종 암시장에서 상품으로 팔렸습니다.</ChJAndroid_Child_Social.baseDescription>
   <ChJAndroid_Child_Medical.title>의학 모델</ChJAndroid_Child_Medical.title>
-  <ChJAndroid_Child_Medical.titleShort>간호사</ChJAndroid_Child_Medical.titleShort>
+  <ChJAndroid_Child_Medical.titleShort>간호</ChJAndroid_Child_Medical.titleShort>
   <ChJAndroid_Child_Medical.baseDescription>[PAWN_nameDef](은)는 인간형 외계인 및 동물도 망라하는 생물학적 수술에 대한 지식이 사이버 뇌에 담긴 의료용 드로이드입니다. 패거리 중에 의료 인력이 부족한 우주 해적들의 죄수들로 각광받기도 합니다. 다른 안드로이드들과 마찬가지로 학습 능력이 있기에, 자신들로 수술을 연습하는 것이 아닌가 의심도 받아 왔습니다.</ChJAndroid_Child_Medical.baseDescription>
   <ChJAndroid_Child_Manufacturing.title>제작 모델</ChJAndroid_Child_Manufacturing.title>
   <ChJAndroid_Child_Manufacturing.titleShort>자동화</ChJAndroid_Child_Manufacturing.titleShort>
@@ -107,7 +106,7 @@
   <ChJAndroid_Child_Pleasure_2.titleShort>미소녀</ChJAndroid_Child_Pleasure_2.titleShort>
   <ChJAndroid_Child_Pleasure_2.baseDescription>[PAWN_nameDef](은)는 재능이 넘치고 심히 은둔적이며 취향이 좀 특이한 아시카가 기업 임원에 의해 개발되었습니다. 그의 사후 이 안드로이드는 동면관 안에 새것 같은 상태로 보관되어, 많은 사람이 아이돌이나 쾌락 모델일 것으로 추측했습니다.</ChJAndroid_Child_Pleasure_2.baseDescription>
   <ChJAndroid_Child_Custom.title>주문제작 모델</ChJAndroid_Child_Custom.title>
-  <ChJAndroid_Child_Custom.titleShort>주문제작</ChJAndroid_Child_Custom.titleShort>
+  <ChJAndroid_Child_Custom.titleShort>사용자 설정</ChJAndroid_Child_Custom.titleShort>
   <ChJAndroid_Child_Custom.baseDescription>[PAWN_nameDef](은)는 주문제작된 안드로이드입니다. [PAWN_pronoun]는 창조자의 일과와 실험을 돕도록 프로그래밍 되었습니다.</ChJAndroid_Child_Custom.baseDescription>
   <ChJAndroid_Child_Hacked.title>해킹당한 안드로이드</ChJAndroid_Child_Hacked.title>
   <ChJAndroid_Child_Hacked.titleShort>해킹됨</ChJAndroid_Child_Hacked.titleShort>
@@ -134,7 +133,7 @@
   <ChJAndroid_Child_Gladiator.titleShort>검투사</ChJAndroid_Child_Gladiator.titleShort>
   <ChJAndroid_Child_Gladiator.baseDescription>[PAWN_nameDef](은)는 향락적인 번화계에서 벌어지는 검투사 경기에 사용되는 양산형 안드로이드였습니다. [PAWN_pronoun]는 검술에 아주 일찍 통달했습니다.</ChJAndroid_Child_Gladiator.baseDescription>
   <ChJAndroid_Child_Soldier.title>군인 안드로이드</ChJAndroid_Child_Soldier.title>
-  <ChJAndroid_Child_Soldier.titleShort>군인</ChJAndroid_Child_Soldier.titleShort>
+  <ChJAndroid_Child_Soldier.titleShort>전투</ChJAndroid_Child_Soldier.titleShort>
   <ChJAndroid_Child_Soldier.baseDescription>[PAWN_nameDef](은)는 전쟁용으로 양산된 안드로이드였습니다. 이 모델은 번화계에서 인명을 아끼고 분쟁을 해결하기 위한 계획의 일부였습니다.</ChJAndroid_Child_Soldier.baseDescription>
   <ChJAndroid_Child_Child.title>대체 아동</ChJAndroid_Child_Child.title>
   <ChJAndroid_Child_Child.titleShort>대용품</ChJAndroid_Child_Child.titleShort>
@@ -145,5 +144,4 @@
   <ChJAndroid_BattleDroid.title>전투 드로이드</ChJAndroid_BattleDroid.title>
   <ChJAndroid_BattleDroid.titleShort>살인로봇</ChJAndroid_BattleDroid.titleShort>
   <ChJAndroid_BattleDroid.baseDescription>[PAWN_nameDef](은)는 정착지에서 만든 전투 드로이드입니다. 전투를 위해 만들어진 이 드로이드들은 전투와 운반 외에는 별로 할 수 있는 일이 없습니다.</ChJAndroid_BattleDroid.baseDescription>
-
 </LanguageData>

@@ -10,25 +10,6 @@
   <BreathingSac.label>호흡 주머니</BreathingSac.label>
   <AcidGland.label>독샘</AcidGland.label>
 
-  <!--1365540920_190714_Black Widows-->
-  <Core_Mind.label>핵심 정신</Core_Mind.label>
-  <BlackWidowFirstRightLeg.label>오른쪽 첫째 다리</BlackWidowFirstRightLeg.label>
-  <BlackWidowSecondRightLeg.label>오른쪽 둘째 다리</BlackWidowSecondRightLeg.label>
-  <BlackWidowThirdRightLeg.label>오른쪽 셋째 다리</BlackWidowThirdRightLeg.label>
-  <BlackWidowFourthRightLeg.label>오른쪽 넷째 다리</BlackWidowFourthRightLeg.label>
-  <BlackWidowFirstLeftLeg.label>왼쪽 첫째 다리</BlackWidowFirstLeftLeg.label>
-  <BlackWidowSecondLeftLeg.label>왼쪽 둘째 다리</BlackWidowSecondLeftLeg.label>
-  <BlackWidowThirdLeftLeg.label>왼쪽 셋째 다리</BlackWidowThirdLeftLeg.label>
-  <BlackWidowFourthLeftLeg.label>왼쪽 넷째 다리</BlackWidowFourthLeftLeg.label>
-  <BWBRShoulder.label>오른쪽 아래 어깨</BWBRShoulder.label>
-  <BWTRShoulder.label>오른쪽 윗 어깨</BWTRShoulder.label>
-  <BWBLShoulder.label>왼쪽 아래 어깨</BWBLShoulder.label>
-  <BWTLShoulder.label>왼쪽 윗 어깨</BWTLShoulder.label>
-  <Pedipalp.label>각수</Pedipalp.label>
-  <BlackWidow_Waist.label>블랙 위도우 거미 흉골</BlackWidow_Waist.label>
-  <BlackWidow_Abdomen.label>등뼈가 있는 블랙 위도우 거미 복부</BlackWidow_Abdomen.label>
-  <Brood_Mind.label>알을 품는 정신</Brood_Mind.label>
-
   <!--1400238872_190526_Lord of the Rims - Dwarves-->
   <LotRD_LeftWing.label>왼쪽 날개</LotRD_LeftWing.label>
   <LotRD_RightWing.label>오른쪽 날개</LotRD_RightWing.label>
@@ -37,9 +18,6 @@
   <OTail.label>오라산 꼬리</OTail.label>
   <RightHandClaws.label>오른 손톱</RightHandClaws.label>
   <LeftHandClaws.label>왼 손톱</LeftHandClaws.label>
-
-  <!--1514158118_190519_Avian Races-->
-  <AvianBeak.label>부리</AvianBeak.label>
 
   <!--1541567184_181112_Ni'Hal-->
   <RightHandClaws.label>오른 손톱</RightHandClaws.label>

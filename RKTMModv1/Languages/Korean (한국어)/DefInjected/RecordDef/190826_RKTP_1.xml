@@ -1,1 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData> 	<!--1541840184_190814_No Water, No Life-->	<Mizu_WaterDrank.description>해당 정착민이 마신 물의 양.</Mizu_WaterDrank.description>	<Mizu_WaterDrew.description>해당 정착민이 길어온 물의 양.</Mizu_WaterDrew.description>	<Mizu_TimeDrinkingWater.label>물을 찾고, 마신데 소모된 시간</Mizu_TimeDrinkingWater.label>	<Mizu_TimeDrinkingWater.description>물을 찾고 마시는데 소비한 총 시간.</Mizu_TimeDrinkingWater.description>	<Mizu_WaterDrank.label>마신 물</Mizu_WaterDrank.label>	<Mizu_WaterDrew.label>길어온 물</Mizu_WaterDrew.label>	<!--1543177113_190628_Quarry-->	<QRY_CellsMined.description>(베타 19) 채석장에서 채굴 한 입방 미터의 수.</QRY_CellsMined.description>	<QRY_CellsMined.label>채석장 m³ 채굴</QRY_CellsMined.label>	<!--1671814939_190519_Beta Traps-->	<TrapsRearmed.description>내가 함정을 재장전한 횟수.</TrapsRearmed.description>	<TrapsRearmed.label>함정 재장전 횟수</TrapsRearmed.label></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1541840184_190814_No Water, No Life-->
+  <Mizu_WaterDrank.description>해당 정착민이 마신 물의 양.</Mizu_WaterDrank.description>
+  <Mizu_WaterDrew.description>해당 정착민이 길어온 물의 양.</Mizu_WaterDrew.description>
+  <Mizu_TimeDrinkingWater.label>물을 찾고, 마신데 소모된 시간</Mizu_TimeDrinkingWater.label>
+  <Mizu_TimeDrinkingWater.description>물을 찾고 마시는데 소비한 총 시간.</Mizu_TimeDrinkingWater.description>
+  <Mizu_WaterDrank.label>마신 물</Mizu_WaterDrank.label>
+  <Mizu_WaterDrew.label>길어온 물</Mizu_WaterDrew.label>
+
+  <!--1543177113_190628_Quarry-->
+  <QRY_CellsMined.description>(베타 19) 채석장에서 채굴 한 입방 미터의 수.</QRY_CellsMined.description>
+  <QRY_CellsMined.label>채석장 m³ 채굴</QRY_CellsMined.label>
+
+</LanguageData>

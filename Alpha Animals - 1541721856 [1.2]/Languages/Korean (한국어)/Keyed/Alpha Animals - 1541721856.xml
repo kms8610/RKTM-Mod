@@ -11,6 +11,8 @@
   <NocturnalAnimals.BodyClock_Nocturnal>야행성</NocturnalAnimals.BodyClock_Nocturnal>
   <NocturnalAnimals.BodyClock_Crepuscular>박명박모성</NocturnalAnimals.BodyClock_Crepuscular>
   <AA_TimeToMetamorphosis>변태까지 남은 시간 :</AA_TimeToMetamorphosis>
+  <AA_NotTameable>길들일 수 없는 생물입니다.</AA_NotTameable>
+  <AA_GallatrossNotTameable>허약한 갈라트로스는 길들일 수 없으며 빠르게 야생으로 돌아가 죽음을 기다립니다.</AA_GallatrossNotTameable>
   <LetterLabelColossalAerofleetPasses>거대 에어로플릿</LetterLabelColossalAerofleetPasses>
   <LetterColossalAerofleetPasses>주변을 배회하며 날아다니는 이상한 생물체입니다.
 

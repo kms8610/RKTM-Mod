@@ -11,12 +11,6 @@
   <MantoPoisonTrap.label>독</MantoPoisonTrap.label>
   <MantoPoisonTrap.deathMessage>{0}(은)는 중독되어 죽었습니다.</MantoPoisonTrap.deathMessage>
 
-  <!--1365540920_190714_Black Widows-->
-  <BW_Slash.label>블랙 위도우 강타</BW_Slash.label>
-  <BW_Slash.deathMessage>{0}(은)는 물려죽었습니다.</BW_Slash.deathMessage>
-  <BW_Puncture.label>블랙 위도우 찌르기</BW_Puncture.label>
-  <BW_Puncture.deathMessage>{0}(은)는 찔려죽었습니다.</BW_Puncture.deathMessage>
-
   <!--1416483638_190811_Orassans-->
   <OFrostbite.label>동상</OFrostbite.label>
   <OFrostbite.deathMessage>{0}(은)는 동상에 걸렸습니다.</OFrostbite.deathMessage>

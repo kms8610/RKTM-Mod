@@ -5503,13 +5503,6 @@
   <GCS_Stove_Blueprint_Install.label>간헐천 스토브 (청사진)</GCS_Stove_Blueprint_Install.label>
   <GCS_Stove_Frame.label>간헐천 스토브 (건설 중)</GCS_Stove_Frame.label>
 
-  <!--1671814939_190519_Beta Traps-->
-  <TrapDeadfall.description>기존의 함정을 더욱 튼튼하게 재설계한 함정입니다. 덕분에 여러번 재장전하여 사용해도 잘 작동합니다.</TrapDeadfall.description>
-  <TrapDeadfall_Frame.description>기존의 함정을 더욱 튼튼하게 재설계한 함정입니다. 덕분에 여러번 재장전하여 사용해도 잘 작동합니다.</TrapDeadfall_Frame.description>
-  <TrapDeadfall.label>개선된 함정</TrapDeadfall.label>
-  <TrapDeadfall_Blueprint.label>개선된 함정 (청사진)</TrapDeadfall_Blueprint.label>
-  <TrapDeadfall_Frame.label>개선된 함정 (건설 중)</TrapDeadfall_Frame.label>
-
   <!--1688004964_190707_Defensive Machine Gun Turret Pack-->
   <Turret_DP28MG.label>고정 DP-28 포탑</Turret_DP28MG.label>
   <Turret_DP28MG.description>DP-28 포탑입니다. 대상을 지정하여 사격할 수 있으나 오인사격을 조심하세요.</Turret_DP28MG.description>

@@ -139,8 +139,6 @@
 	<li IfModActive="aRandomKiwi.MercenariesForMe">Mercenaries For Me - 1832318107 [1.2]</li>
 	<li IfModActive="user19990313.RuntimeGC">RuntimeGC - 2228430510 [1.2]</li>
 	<li IfModActive="falconne.BWM">Better Workbench Management - 935982361 [1.2]</li>
-	<!-- 20.09.23 -->
-	<li IfModActive="ChJees.Androids">Androids - 1541064015 [1.2]</li>
 	<!-- 20.09.26 -->
 	<li IfModActive="dismarzero.VGP.VGPGardenDrinksUF">VGP Garden Drinks UF - 2167582651 [1.2]</li>
 	<!-- 20.09.28 -->
@@ -175,7 +173,6 @@
 	<li IfModActive="tachyonite.pawnmorpherpublic">Pawnmorpher - 1786466855 [1.2]</li>
 	<li IfModActive="Ekai.FavLocker">Fav Locker - 2160977038 [1.2]</li>
 	<li IfModActive="Vanya.Polarisbloc.CoreLab">Polarisbloc - Core LAB - 1500244593 [1.2]</li>
-	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
 	<!-- 20.10.03 -->
 	<li IfModActive="Mlie.Aquarium">Aquarium (Continued) - 2194463553 [1.2]</li>
 	<li IfModActive="Ykara.EPOE">Expanded Prosthetics and Organ Engineering - 725956940 [1.2]</li>
@@ -237,6 +234,18 @@
 	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700 [1.2]</li>
 	<!-- 20.10.10 -->
 	<li IfModActive="TheGoofyOne.IceCreamIntegrated">Ice Cream Integrated - 2074386751 [1.2]</li>
+	<!-- 20.10.16 -->
+	<li IfModActive="bozu.avianraces">Avian Races - 1514158118 [1.2]</li>
+	<li IfModActive="Mlie.BlackWidows">Black Widows (Continued) - 2243686995 [1.2]</li>
+	<li IfModActive="8Z.CallForIntel">Call For Intel - 2240610130 [1.2]</li>
+	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
+	<li IfModActive="ChJees.Androids">Androids - 1541064015 [1.2]</li>
+	<!-- 20.10.17 -->
+	<li IfModActive="Sielfyr.DreamAndDesire">Dream and Desire - 2168301289 [1.2]</li>
+	<!-- 20.10.18 -->
+	<li IfModActive="Dorely.BetaTraps">BetaTraps - 1671814939 [1.2]</li>
+	<!-- 20.10.20 -->
+	<li IfModActive="OskarPotocki.VFE.Vikings">Vanilla Factions Expanded - Vikings - 2231295285 [1.2]</li>
   </v1.2>
 
 </loadFolders>

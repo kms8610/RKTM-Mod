@@ -523,6 +523,11 @@
   <AA_Gallatross.tools.0.label>뿔</AA_Gallatross.tools.0.label>
   <AA_Gallatross.tools.1.label>뿔</AA_Gallatross.tools.1.label>
   <AA_Gallatross.tools.3.label>머리</AA_Gallatross.tools.3.label>
+  <AA_GallatrossMoribund.label>허약한 갈라트로스</AA_GallatrossMoribund.label>
+  <AA_GallatrossMoribund.description>갈라트로스는 매우 지적인 생명체로서, 그들 자신이 언제 죽을지 어느 정도 예상할 수 있다. 때가 되면 그들은 본능적으로 갈라트로스의 무덤으로 알려진 건조한 관목지로 향하게 될 것입니다. 그들은 그들의 집단에서 멀리 떨어진 그곳에서 혼자 죽음을 맞이합니다.\n\n물론, 관련된 기간은 인간들에게 인상적이며, 갈라트로스는 무덤 주변을 배회하는 데 20년이 걸릴 수도 있습니다.</AA_GallatrossMoribund.description>
+  <AA_GallatrossMoribund.tools.0.label>뿔</AA_GallatrossMoribund.tools.0.label>
+  <AA_GallatrossMoribund.tools.1.label>뿔</AA_GallatrossMoribund.tools.1.label>
+  <AA_GallatrossMoribund.tools.3.label>머리</AA_GallatrossMoribund.tools.3.label>
   <AA_Gigantelope.label>기간텔로프</AA_Gigantelope.label>
   <AA_Gigantelope.description>기간텔로프는 더 크고 강력한 머팔로를 원하는 이들에 의해 고안되었습니다. 이는 자기 몸무게보다 더 많은 체중을 운반할 수 있는 이상적인 짐꾼이라는 뜻이기도 합니다. 포유류지만 속이 빈 공압뼈의 형태를 가지고 있어 튼튼하고 밀도가 높으며 매우 가볍습니다.
 
@@ -967,8 +972,8 @@
 
 이들은 비열하고 절박한 사람들에 의해서만 활용되는 잔인한 도구이며, 태어날 때부터 족쇄를 채우고 약물을 투여해야 하므로 많은 자원을 필요로 합니다.</AA_IronboundLeviathanEmbryo.description>
   <AA_Cannonball.label>포 탄</AA_Cannonball.label>
-  <RB_SpunSynthreadSilk.label>합성원단 가닥</RB_SpunSynthreadSilk.label>
-  <RB_SpunSynthreadSilk.description>페라리스크, 정글리스크, 듀나리스크로부터 채집한 섬유 가닥입니다. 합성원단으로 가공이 가능합니다.</RB_SpunSynthreadSilk.description>
-  <RB_SpunHyperweaveSilk.label>초경조직 천 가닥</RB_SpunHyperweaveSilk.label>
-  <RB_SpunHyperweaveSilk.description>블리자리스크로부터 채집한 섬유 가닥입니다. 초경조직 천으로 가공이 가능합니다.</RB_SpunHyperweaveSilk.description>
+  <RB_SpunSynthreadSilk.label>합성원단 명주</RB_SpunSynthreadSilk.label>
+  <RB_SpunSynthreadSilk.description>두니아리스크 및 정글리스크, 페라리스크에게 뽑아낸 명주실입니다. 베틀에서 합성원단으로 만들 수 있습니다.</RB_SpunSynthreadSilk.description>
+  <RB_SpunHyperweaveSilk.label>초경조직 명주</RB_SpunHyperweaveSilk.label>
+  <RB_SpunHyperweaveSilk.description>블리자리스크로부터 뽑아낸 명주실입니다. 베틀에서 초경조직 천으로 만들 수 있습니다.</RB_SpunHyperweaveSilk.description>
 </LanguageData>

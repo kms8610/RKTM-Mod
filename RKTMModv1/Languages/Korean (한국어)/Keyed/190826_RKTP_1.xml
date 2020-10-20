@@ -2440,14 +2440,6 @@
   <Disasters_ModName>재앙</Disasters_ModName>
   <Disasters_Debug>디버그 모드</Disasters_Debug>
 
-  <!--1671814939_190519_Beta Traps-->
-  <TrapArmed>장전됨</TrapArmed>
-  <TrapNotArmed>장전되지 않음</TrapNotArmed>
-  <DesignatorRearmTrapDesc>함정을 재장전하여 다시 사용할 수 있도록 합니다.</DesignatorRearmTrapDesc>
-  <CommandRearmDesc>함정을 재장전하여 다시 사용할 수 있도록 합니다.</CommandRearmDesc>
-  <DesignatorRearmTrap>함정 재장전</DesignatorRearmTrap>
-  <CommandRearm>함정 재장전</CommandRearm>
-
   <!--1709963396_190519_Down For Me-->
   <aRandomKiwi_DFM_ForceDownLabel>쓰러진 척하기</aRandomKiwi_DFM_ForceDownLabel>
   <aRandomKiwi_DFM_ForceDownDesc>고통에 겨워 쓰러진 척합니다.</aRandomKiwi_DFM_ForceDownDesc>
