@@ -174,12 +174,12 @@
   <OGE_Melee_GhostSword.tools.1.label>자루</OGE_Melee_GhostSword.tools.1.label>
   <OGE_Melee_GhostSword.tools.2.label>칼날</OGE_Melee_GhostSword.tools.2.label>
   <OGE_Melee_GhostSword.tools.3.label>칼끝</OGE_Melee_GhostSword.tools.3.label>
-  <OGE_Melee_DualGhostSword.label>엘다 듀얼 고스트 소드</OGE_Melee_DualGhostSword.label>
-  <OGE_Melee_DualGhostSword.description>고스트소드는 레이스블레이드가 사용하는 커다란 근접용 파워 웨폰입니다. 고스트소드는 고스트글레이브의 축소판입니다. 기본적으로 한 쌍으로 휘둘러지는 고스트소드는 빛나는 흔적을 허공에 남깁니다. 모든 고스트웨폰들은 사용자가 적의 약점을 노리도록 유도합니다.</OGE_Melee_DualGhostSword.description>
-  <OGE_Melee_DualGhostSword.tools.0.label>포멀</OGE_Melee_DualGhostSword.tools.0.label>
-  <OGE_Melee_DualGhostSword.tools.1.label>자루</OGE_Melee_DualGhostSword.tools.1.label>
-  <OGE_Melee_DualGhostSword.tools.2.label>칼날</OGE_Melee_DualGhostSword.tools.2.label>
-  <OGE_Melee_DualGhostSword.tools.3.label>칼끝</OGE_Melee_DualGhostSword.tools.3.label>
+  <OGE_Melee_GhostSwordD.label>엘다 듀얼 고스트 소드</OGE_Melee_GhostSwordD.label>
+  <OGE_Melee_GhostSwordD.description>고스트소드는 레이스블레이드가 사용하는 커다란 근접용 파워 웨폰입니다. 고스트소드는 고스트글레이브의 축소판입니다. 기본적으로 한 쌍으로 휘둘러지는 고스트소드는 빛나는 흔적을 허공에 남깁니다. 모든 고스트웨폰들은 사용자가 적의 약점을 노리도록 유도합니다.</OGE_Melee_GhostSwordD.description>
+  <OGE_Melee_GhostSwordD.tools.0.label>포멀</OGE_Melee_GhostSwordD.tools.0.label>
+  <OGE_Melee_GhostSwordD.tools.1.label>자루</OGE_Melee_GhostSwordD.tools.1.label>
+  <OGE_Melee_GhostSwordD.tools.2.label>칼날</OGE_Melee_GhostSwordD.tools.2.label>
+  <OGE_Melee_GhostSwordD.tools.3.label>칼끝</OGE_Melee_GhostSwordD.tools.3.label>
   <OGE_Melee_GhostAxe.label>엘다 고스트 엑스</OGE_Melee_GhostAxe.label>
   <OGE_Melee_GhostAxe.description>고스트 엑스는 고스트 소드의 사촌격인 커다란 파워 웨폰입니다. 이 무기는 종종 호전적인 레이스가드들에게 선호됩니다. 모든 고스트웨폰들은 사용자가 적의 약점을 노리도록 유도합니다.</OGE_Melee_GhostAxe.description>
   <OGE_Melee_GhostAxe.tools.0.label>손잡이</OGE_Melee_GhostAxe.tools.0.label>

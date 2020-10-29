@@ -83,11 +83,6 @@
   <NamerPersonOniMale.rulePack.rulesStrings.0>name->[malename] [lastname]</NamerPersonOniMale.rulePack.rulesStrings.0>
   <NamerPersonOniFemale.rulePack.rulesStrings.0>name->[femalename] [lastname]</NamerPersonOniFemale.rulePack.rulesStrings.0>
 
-  <!--1706345856_190811_Warhammer Skaven-->
-  <NamerSkaven.rulePack.rulesStrings.0>name->[pack1] [pack2]</NamerSkaven.rulePack.rulesStrings.0>
-  <NamerUnderEmpire.rulePack.rulesStrings.0>name->[pack]</NamerUnderEmpire.rulePack.rulesStrings.0>
-  <NamerEshin.rulePack.rulesStrings.0>name->[pack]</NamerEshin.rulePack.rulesStrings.0>
-
   <!--1726422863_190519_Creatures of Ki-->
   <NamerPersonKija.rulePack.rulesStrings.0>name->[Kijafirst]</NamerPersonKija.rulePack.rulesStrings.0>
 

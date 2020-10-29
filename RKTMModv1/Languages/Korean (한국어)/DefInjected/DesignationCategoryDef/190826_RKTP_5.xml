@@ -28,16 +28,6 @@
   <rxRemoteTech.label>원격조작</rxRemoteTech.label>
   <rxRemoteTech.description>원격으로 폭발물을 터트릴수 있습니다.</rxRemoteTech.description>
 
-  <!--1542036108_190818_UN-Colony-->
-  <SadjuukUN-Building.description>UN 및 UNSC 정착지건설 프로그램의 이용 가능한 기술</SadjuukUN-Building.description>
-  <SadjuukUN-Industry.description>UN 및 UNSC 정착지건설 프로그램의 이용 가능한 기술</SadjuukUN-Industry.description>
-  <SadjuukUN-Building.label>UN-건물</SadjuukUN-Building.label>
-  <SadjuukUN-Industry.label>UN-산업</SadjuukUN-Industry.label>
-
-  <!--1547681343_190818_UN-Furniture-->
-  <SadjuukUN-Furniture.description>UN 및 UNSC 정착지건설 프로그램의 이용 가능한 기술</SadjuukUN-Furniture.description>
-  <SadjuukUN-Furniture.label>UN-가구</SadjuukUN-Furniture.label>
-
   <!--1554147049_190818_Zen Garden-->
   <ZEN_Decoration.label>장식</ZEN_Decoration.label>
   <ZEN_Decoration.description>젠 정원 장식들</ZEN_Decoration.description>

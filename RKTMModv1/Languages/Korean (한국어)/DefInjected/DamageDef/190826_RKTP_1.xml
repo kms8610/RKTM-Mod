@@ -155,8 +155,4 @@
   <PJ_BlasterDam.label>블래스터 볼트</PJ_BlasterDam.label>
   <PJ_Vibro.label>진동</PJ_Vibro.label>
 
-  <!--950475543_190818_Rim of Madness - Arachnophobia-->
-  <ROMA_Sting.deathMessage>{0}(이)가 물려 사망했습니다.</ROMA_Sting.deathMessage>
-  <ROMA_Sting.label>독침</ROMA_Sting.label>
-
 </LanguageData>

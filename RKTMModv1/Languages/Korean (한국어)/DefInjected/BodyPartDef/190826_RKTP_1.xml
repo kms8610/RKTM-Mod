@@ -148,14 +148,4 @@
   <!--928992405_190519_1.0_Starship_Troopers_Arachnids-->
   <InsectNozzle.label>곤충 분사구</InsectNozzle.label>
 
-  <!--950475543_190818_Rim of Madness - Arachnophobia-->
-  <ROMA_Abdomen.label>배</ROMA_Abdomen.label>
-  <ROMA_Cephalothorax.label>두흉부</ROMA_Cephalothorax.label>
-  <ROMA_LeftPedipalp.label>왼쪽 각수</ROMA_LeftPedipalp.label>
-  <ROMA_RightPedipalp.label>오른쪽 각수</ROMA_RightPedipalp.label>
-  <ROMA_SecondMiddleLeftInsectLeg.label>왼쪽 더듬이다리</ROMA_SecondMiddleLeftInsectLeg.label>
-  <ROMA_SecondMiddleRightInsectLeg.label>오른쪽 더듬이다리</ROMA_SecondMiddleRightInsectLeg.label>
-  <ROMA_Spinneret.label>방적돌기</ROMA_Spinneret.label>
-  <ROMA_Stinger.label>침</ROMA_Stinger.label>
-
 </LanguageData>

@@ -118,14 +118,6 @@
   <OniScenarioSpacer.scenario.summary>당신은 이국적인 애완동물, 또는 더 나쁜 일이 벌어지기 전에 탈출할 수 있었습니다. 하지만 도망치는 것 만으로 이 새로운 세상에서 얼마나 살아남을 수 있을까요?</OniScenarioSpacer.scenario.summary>
   <OniScenarioSpacer.scenario.description>당신과 몇몇 다른 사람들은 노예상인들에게 붙잡혀 이국적인 애완동물이 되기 위해 번화계 행성으로 향하던 배에서 드롭포드를 타고 탈출하였습니다. 당신은 도망칠 때 하늘 사람들의 몇 가지 기본 기술 청사진들을 얻을 수 있었지만, 변방계에서 어떻게 살아남을 수 있는지, 집으로 돌아갈 수는 있는 것인지 궁금하기만 합니다.</OniScenarioSpacer.scenario.description>
 
-  <!--1706345856_190811_Warhammer Skaven-->
-  <SkavenScenario.label>스케이븐 클랜</SkavenScenario.label>
-  <SkavenScenario.description>한 무리의 스케이븐들이 워프스톤 배터리와 대포를 가지고 지하제국에서 떠나왔습니다. 이들은 변방계에서 자신들의 이름을 알리고, 클랜의 세력을 더욱 확대시키고자 합니다.</SkavenScenario.description>
-  <SkavenScenario.scenario.name>스케이븐 클랜</SkavenScenario.scenario.name>
-  <SkavenScenario.scenario.summary>한 무리의 스케이븐들이 자신들의 클랜 요새를 짓기 위해 떠납니다.</SkavenScenario.scenario.summary>
-  <SkavenScenario.scenario.description>한 무리의 스케이븐들이 워프스톤 배터리와 대포를 가지고 지하제국에서 떠나왔습니다. 이들은 변방계에서 자신들의 이름을 알리고, 클랜의 세력을 더욱 확대시키고자 합니다.</SkavenScenario.scenario.description>
-  <SkavenScenario.scenario.parts.14.text>당신은 추종자들과 훔쳐온 배터리, 대포를 가지고 시작합니다.</SkavenScenario.scenario.parts.14.text>
-
   <!--1728999127_190813_Forsakens-->
   <ForsakenCrashlanded.label>버림받은 자들</ForsakenCrashlanded.label>
   <ForsakenCrashlanded.description>추방과 버려짐. 이제는 스스로 살아남아야만 합니다.</ForsakenCrashlanded.description>

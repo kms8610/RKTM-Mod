@@ -1305,15 +1305,6 @@
   <PJ_BBurn.comps.0.labelSolidTendedWell>적당히 됨</PJ_BBurn.comps.0.labelSolidTendedWell>
   <PJ_AcBurn.comps.0.labelSolidTendedWell>적당히 됨</PJ_AcBurn.comps.0.labelSolidTendedWell>
 
-  <!--950475543_190818_Rim of Madness - Arachnophobia-->
-  <ROMA_Neurotoxin.stages.5.label>극심함</ROMA_Neurotoxin.stages.5.label>
-  <ROMA_Neurotoxin.stages.0.label>초기</ROMA_Neurotoxin.stages.0.label>
-  <ROMA_Neurotoxin.stages.1.label>초기</ROMA_Neurotoxin.stages.1.label>
-  <ROMA_Neurotoxin.stages.2.label>가벼움</ROMA_Neurotoxin.stages.2.label>
-  <ROMA_Neurotoxin.stages.3.label>보통</ROMA_Neurotoxin.stages.3.label>
-  <ROMA_Neurotoxin.label>신경 독</ROMA_Neurotoxin.label>
-  <ROMA_Neurotoxin.stages.4.label>심각함</ROMA_Neurotoxin.stages.4.label>
-
   <!--955561873_190628_MiningCo. Projector-->
   <BlindedByProjector.label>프로젝터에 눈이 멀음</BlindedByProjector.label>
 

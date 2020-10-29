@@ -201,7 +201,6 @@
 	<li IfModActive="Mehni.PickUpAndHaul">Pick Up And Haul - 1279012058 [1.1]</li>
 	<li IfModActive="Gewen.AdditionalTraits">Additional Traits (Heroes + Gods Optional) - 1621571024 [1.2]</li>
 	<li IfModActive="Ogliss.AdMech.Armoury">Adeptus Mechanicus Armoury - 1541438614 [1.2]</li>
-	<li IfModActive="RH.Faction.VOID">Faction VOID - 2130955778 [1.1]</li>
 	<li IfModActive="BOXrsxx.MorePracticalTraits">More Practical Traits - 1568700181 [1.1]</li>
 	<li IfModActive="Mlie.AdvancedBiomes">Advanced Biomes (Continued) - 2052116426 [1.2]</li>
 	<li IfModActive="nuke.AdvancedCooling">Advanced Cooling - 1517502911 [1.2]</li>
@@ -246,6 +245,27 @@
 	<li IfModActive="Dorely.BetaTraps">BetaTraps - 1671814939 [1.2]</li>
 	<!-- 20.10.20 -->
 	<li IfModActive="OskarPotocki.VFE.Vikings">Vanilla Factions Expanded - Vikings - 2231295285 [1.2]</li>
+	<!-- 20.10.22 -->
+	<li IfModActive="RicoFox233.FGO.StylesApparelPack">Fate Grand Order - Styles Apparel Pack - 1644879310 [1.2]</li>
+	<li IfModActive="asjjkl.costume">Ereshkigal Apparel Pack - 1763236543 [1.2]</li>
+	<li IfModActive="RicoFox233.GirlsFrontline.404Team">Girls' Frontline Styles - 404 Team - 1651177696 [1.2]</li>
+	<li IfModActive="RicoFox233.GirlsFrontline.ARTeam">Girls' Frontline Styles - AR Team - 2078863841 [1.2]</li>
+	<li IfModActive="DEJ.GF.IOPTECH">Grils' Frontline IOP - 2011513502 [1.2]</li>
+	<li IfModActive="sharpedo.kenshiapparel">Kenshi Apparel Pack - 1835771050 [1.2]</li>
+	<li IfModActive="jecrell.doorsexpanded">Doors Expanded (Dev) - 2195733555 [1.2]</li>
+	<li IfModActive="neceros.fuseplus">Fuse Plus - 1836248672 [1.2]</li>
+	<li IfModActive="cucumpear.embrasures">Matching Embrasures - 937587020 [1.2]</li>
+	<!-- 20.10.23 -->
+	<li IfModActive="Mlie.UNColony">UN-Colony (Continued) - 2019774245 [1.2]</li>
+	<li IfModActive="Mlie.UNFurniture">UN-Furniture (Continued) - 2019774854 [1.2]</li>
+	<li IfModActive="Kompadt.Warhammer.Skaven">Warhammer Skaven - 1706345856 [1.2]</li>
+	<!-- 20.10.26 -->
+	<li IfModActive="Mlie.RimofMadnessArachnophobia">Rim of Madness - Arachnophobia (Continued) - 2242359252 [1.2]</li>
+	<!-- 20.10.28 -->
+	<li IfModActive="Mlie.CallofCthulhuCults">Call of Cthulhu - Cults (Continued) - 2249174783 [1.2]</li>
+	<li IfModActive="FrozenSnowFox.ComplexJobs">Complex Jobs - 2069684319 [1.2]</li>
+	<li IfModActive="RH.Faction.UAC">Faction UAC - 2130954176 [1.2]</li>
+	<li IfModActive="RH.Faction.VOID">Faction VOID - 2130955778 [1.2]</li>
   </v1.2>
 
 </loadFolders>
