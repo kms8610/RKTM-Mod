@@ -240,7 +240,7 @@
   <CeilingFan_Blueprint.label>설치형 천장 선풍기 2x2 (청사진)</CeilingFan_Blueprint.label>
   <CeilingFan_Blueprint_Install.label>설치형 천장 선풍기 2x2 (청사진)</CeilingFan_Blueprint_Install.label>
   <CeilingFan_Frame.label>설치형 천장 선풍기 2x2 (건설중)</CeilingFan_Frame.label>
-  <CeilingFan_Frame.description>조명이 포함된 공기 순환 장치입니다. 방의 온도를 낮춥니다. </CeilingFan_Frame.description>
+  <CeilingFan_Frame.description>조명이 포함된 공기 순환 장치입니다. 방의 온도를 낮춥니다.</CeilingFan_Frame.description>
   <CeilingFanS.label>설치형 천장 선풍기 1x1</CeilingFanS.label>
   <CeilingFanS.description>조명이 포함된 공기 순환 장치입니다. 방의 온도를 낮춥니다.</CeilingFanS.description>
   <CeilingFanS_Blueprint.label>설치형 천장 선풍기 1x1 (청사진)</CeilingFanS_Blueprint.label>

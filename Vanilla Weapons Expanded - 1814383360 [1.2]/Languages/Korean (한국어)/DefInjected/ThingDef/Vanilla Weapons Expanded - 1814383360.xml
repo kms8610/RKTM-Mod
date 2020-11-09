@@ -16,7 +16,7 @@
   <VWE_ToxicGrenade.verbs.0.label>독소탄 투척</VWE_ToxicGrenade.verbs.0.label>
   <VWE_Projectile_ToxicGrenade.label>독소탄</VWE_Projectile_ToxicGrenade.label>
   <VWE_FlashGrenade.label>섬광탄</VWE_FlashGrenade.label>
-  <VWE_FlashGrenade.description>섬광탄입니다. 생물체 대상으로 일시적 기절을 일으켜 대상과 근접할 기회를 만듭니다.</VWE_FlashGrenade.description>
+  <VWE_FlashGrenade.description>생물체를 대상으로 일시적 기절을 일으켜 대상과 근접할 기회를 만드는 섬광탄입니다.</VWE_FlashGrenade.description>
   <VWE_FlashGrenade.verbs.0.label>섬광탄 투척</VWE_FlashGrenade.verbs.0.label>
   <VWE_Projectile_FlashGrenade.label>섬광탄</VWE_Projectile_FlashGrenade.label>
   <VWE_MeleeWeapon_Shovel.label>삽</VWE_MeleeWeapon_Shovel.label>
@@ -47,11 +47,11 @@
   <VWE_MeleeWeapon_Pickaxe.label>곡괭이</VWE_MeleeWeapon_Pickaxe.label>
   <VWE_MeleeWeapon_Pickaxe.description>도구인 동시에 무기로 써도 좋은 기본적인 발명품입니다. 다루려면 힘이 꽤 필요하지만 산을 뚫고 들어갈 때 효과를 볼 수 있습니다.\n\n곡괭이 끝은 두꺼운 장갑도 꿰뚫습니다.</VWE_MeleeWeapon_Pickaxe.description>
   <VWE_MeleeWeapon_Pickaxe.tools.0.label>손잡이</VWE_MeleeWeapon_Pickaxe.tools.0.label>
-  <VWE_MeleeWeapon_Pickaxe.tools.1.label>곡괭이 끝</VWE_MeleeWeapon_Pickaxe.tools.1.label>
+  <VWE_MeleeWeapon_Pickaxe.tools.1.label>끝</VWE_MeleeWeapon_Pickaxe.tools.1.label>
   <VWE_MeleeWeapon_Hammer.label>망치</VWE_MeleeWeapon_Hammer.label>
   <VWE_MeleeWeapon_Hammer.description>손잡이 한쪽 끝에 금속이나 석재 덩어리가 달린 도구입니다. 보통은 나무나 벽에 못을 박을 때 사용합니다\n\n도구인 동시에 무기로 써도 좋은 기본적인 발명품입니다. 다루려면 힘이 꽤 필요하지만 건설 작업이 빨라집니다.</VWE_MeleeWeapon_Hammer.description>
   <VWE_MeleeWeapon_Hammer.tools.0.label>손잡이</VWE_MeleeWeapon_Hammer.tools.0.label>
-  <VWE_MeleeWeapon_Hammer.tools.1.label>망치 머리</VWE_MeleeWeapon_Hammer.tools.1.label>
+  <VWE_MeleeWeapon_Hammer.tools.1.label>머리</VWE_MeleeWeapon_Hammer.tools.1.label>
   <VWE_MeleeWeapon_BattleAxe.label>전투도끼</VWE_MeleeWeapon_BattleAxe.label>
   <VWE_MeleeWeapon_BattleAxe.description>용맹한 전사의 손에 들린 도끼는 전장에서 적의 뼈와 살을 발라버리는 강력한 무기입니다.\n\n광전사 부족들이 애용하고 중세 기사들도 흔히 사용했습니다. 가까이서 힘을 실어 휘두르면 어떤 적도 살아남지 못할 것입니다.</VWE_MeleeWeapon_BattleAxe.description>
   <VWE_MeleeWeapon_BattleAxe.tools.0.label>손잡이</VWE_MeleeWeapon_BattleAxe.tools.0.label>
@@ -67,13 +67,13 @@
   <VWE_MeleeWeapon_Axe.tools.1.label>도끼날</VWE_MeleeWeapon_Axe.tools.1.label>
   <Gun_TripleRocket.label>삼단 로켓 발사기</Gun_TripleRocket.label>
   <Gun_TripleRocket.description>세 개의 대형 폭발성 로켓을 한 번에 발사하는 일회용 무장. 소수의 중무장한 적에게 효과적입니다.\n\n이 무기는 다루기 힘들고, 일회용이며, 엄청난 파괴력을 지녔습니다.</Gun_TripleRocket.description>
-  <Gun_TripleRocket.tools.0.label>발사열</Gun_TripleRocket.tools.0.label>
+  <Gun_TripleRocket.tools.0.label>총열</Gun_TripleRocket.tools.0.label>
   <Gun_DoomsdayRocket.label>최후의 심판 로켓 발사기</Gun_DoomsdayRocket.label>
   <Gun_DoomsdayRocket.description>거대한 폭발을 일으키는 로켓을 발사하는 일회용 무장. 다수의 경무장한 적에게 효과적입니다. 지면을 불태웁니다.\n\n이 무기는 다루기 힘들고, 일회용이며, 엄청난 파괴력을 지녔습니다.</Gun_DoomsdayRocket.description>
-  <Gun_DoomsdayRocket.tools.0.label>발사열</Gun_DoomsdayRocket.tools.0.label>
+  <Gun_DoomsdayRocket.tools.0.label>총열</Gun_DoomsdayRocket.tools.0.label>
   <VWE_Gun_RocketLauncher.label>포탄 발사기</VWE_Gun_RocketLauncher.label>
   <VWE_Gun_RocketLauncher.description>높은 정확도로 박격포탄을 발사하는 일회용 무기입니다.</VWE_Gun_RocketLauncher.description>
-  <VWE_Gun_RocketLauncher.tools.0.label>발사열</VWE_Gun_RocketLauncher.tools.0.label>
+  <VWE_Gun_RocketLauncher.tools.0.label>총열</VWE_Gun_RocketLauncher.tools.0.label>
   <VWE_Bow_Compound.label>기계식활</VWE_Bow_Compound.label>
   <VWE_Bow_Compound.description>도르래 장치를 이용하여 장거리 사격이 가능한 현대식 활입니다.\n\n저소음 설계로 인해 격발할 때 큰 소음이 발생하지 않습니다. 덕분에 사냥할 때 편리합니다.</VWE_Bow_Compound.description>
   <VWE_Bow_Compound.tools.0.label>활대</VWE_Bow_Compound.tools.0.label>
@@ -214,10 +214,10 @@
   <VWE_Gun_ChargeMinigun.description>탄환이 총열을 지나가며 내부에 불안정한 전자기 에너지를 저장한 다음 발사됩니다. 피격된 대상은 탄환에서 터져 나오는 전자기 에너지로 인해 큰 피해를 받습니다.\n\n넓은 지역에 고관통탄을 내뿜으며 제압사격을 할 수 있는 화기입니다. 무자비한 약탈을 일삼는 번화계 용병들이 자주 사용하는 장비입니다.</VWE_Gun_ChargeMinigun.description>
   <VWE_Gun_ChargeMinigun.tools.0.label>개머리판</VWE_Gun_ChargeMinigun.tools.0.label>
   <VWE_Gun_ChargeMinigun.tools.1.label>총열</VWE_Gun_ChargeMinigun.tools.1.label>
-  <VWE_Gun_ChargeRocketLauncher.label>반물질탄 발사기</VWE_Gun_ChargeRocketLauncher.label>
-  <VWE_Gun_ChargeRocketLauncher.description>반물질탄을 1회 발사할 수 있습니다. 반물질탄이 광학 조준기가 지시한 목표 지점으로 정확하게 비행한 후 상공에서 폭발하여 치명적인 전기충격파를 내뿜습니다.</VWE_Gun_ChargeRocketLauncher.description>
+  <VWE_Gun_ChargeRocketLauncher.label>전자기탄 발사기</VWE_Gun_ChargeRocketLauncher.label>
+  <VWE_Gun_ChargeRocketLauncher.description>전자기탄을 1회 발사할 수 있습니다. 전자기탄이 광학 조준기가 지시한 목표 지점으로 정확하게 비행한 후 상공에서 폭발하여 치명적인 전기충격파를 내뿜습니다.</VWE_Gun_ChargeRocketLauncher.description>
   <VWE_Gun_ChargeRocketLauncher.tools.0.label>총열</VWE_Gun_ChargeRocketLauncher.tools.0.label>
-  <VWE_Rocket_AntiGrain.label>반물질탄 발사기</VWE_Rocket_AntiGrain.label>
+  <VWE_Rocket_AntiGrain.label>전자기탄 발사기</VWE_Rocket_AntiGrain.label>
   <Weapon_OPOrbBombGrenade.label.label>궤도 포격 지정기</Weapon_OPOrbBombGrenade.label.label>
   <ARL_ChargeGrenade.label.label>전자기 세열탄</ARL_ChargeGrenade.label.label>
   <ARL_SmokeGrenade.label.label>연막탄</ARL_SmokeGrenade.label.label>

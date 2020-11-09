@@ -334,14 +334,14 @@
   <GR_BeeGenetic.label>벌 유전물질</GR_BeeGenetic.label>
   <GR_BeeGenetic.description>벌들에게서 뽑아낸 유전물질이 있는 혈청입니다.</GR_BeeGenetic.description>
   <RB_Bee_Leather.label>벌 가죽</RB_Bee_Leather.label>
-  <RB_Bee_Leather.description>딱딱한 곤충 키틴이 두꺼운 가죽 층 위에 놓여 있습니다, 전투에서 상당히 견고하지만 날씨로부터 거의 보호받을 수 없습니다. </RB_Bee_Leather.description>
+  <RB_Bee_Leather.description>딱딱한 곤충 키틴이 두꺼운 가죽 층 위에 놓여 있습니다, 전투에서 상당히 견고하지만 날씨로부터 거의 보호받을 수 없습니다.</RB_Bee_Leather.description>
   <RB_Bee_Leather.stuffProps.stuffAdjective>벌 가죽</RB_Bee_Leather.stuffProps.stuffAdjective>
   <RB_Genewax.label>유전자 밀랍</RB_Genewax.label>
   <RB_Genewax.description>유전자 밀랍은 유전자가 조작된 벌들에게서 얻을 수 있습니다. 일반 밀랍보다는 내성이 훨씬 떨어집니다. 하지만 강철을 대신하여 인큐베이터를 구축하는 데 사용할 수 있습니다.</RB_Genewax.description>
   <GR_BeeHybrid_Bearbee.label>곰벌</GR_BeeHybrid_Bearbee.label>
   <GR_BeeHybrid_Bearbee.description>곰 / 벌 혼종입니다. 이 거대한 혼종 벌은 격렬하고 공격적입니다. 제대로 훈련되면 악의적인 공격을 해대는 매우 강력한 공격동물의 역할을합니다.
 
-유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 이들은 또한 매우 강한 독을 가지고 있습니다. 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요. </GR_BeeHybrid_Bearbee.description>
+유용한 특성: 모든 벌 혼종은 며칠마다 고유의 벌집을 천천히 생산합니다. 이들은 또한 매우 강한 독을 가지고 있습니다. 또한 이들은 물 위를 제외하고는 이동에 제한을 받지 않습니다, 이들은 날아다니거든요.</GR_BeeHybrid_Bearbee.description>
   <GR_BeeHybrid_Bearbee.tools.1.label>발톱</GR_BeeHybrid_Bearbee.tools.1.label>
   <GR_BeeHybrid_Bearbee_Leather.label>곰벌 가죽</GR_BeeHybrid_Bearbee_Leather.label>
   <GR_BeeHybrid_Bearbee_Leather.description>곰벌 가죽</GR_BeeHybrid_Bearbee_Leather.description>

@@ -321,7 +321,7 @@
   <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.14>r_logentry->[INITIATOR_nameDef]은(는) [RECIPIENT_nameDef]에게 준엄한 명령을 내림.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.14>
   <FormerHumanTrainAttempt.label>animal talk</FormerHumanTrainAttempt.label>
   <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.0>
-  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [method] 로 [trained] [RECIPIENT_nameDef] </FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.1>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [method] 로 [trained] [RECIPIENT_nameDef].</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.1>
   <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.2>trained(p=2)->[tried]을 훈련시킴.</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.2>
   <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.3>trained->[tried]에게 새로운 속임수를 보여주려고 함.</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.3>
   <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.4>trained->[tried]을 훈육시킴.</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.4>

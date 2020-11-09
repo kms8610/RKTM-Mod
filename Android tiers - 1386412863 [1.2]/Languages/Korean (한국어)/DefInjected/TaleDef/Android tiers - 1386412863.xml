@@ -8,7 +8,7 @@
     <!-- tale_noun->[pawn_nameShortDef] overheating -->
     <li>tale_noun->[pawn_nameShortDef] 과열</li>
     <!-- image->[pawn_nameFull] trudging through sand [circumstance_group] -->
-    <li>image->[pawn_nameFull](은)는 [circumstance_group] 모래를 가로질러 갑니다. </li>
+    <li>image->[pawn_nameFull](은)는 [circumstance_group] 모래를 가로질러 갑니다.</li>
     <!-- image->[pawn_nameFull] huddled in the shade of a [terrainfeature] [circumstance_group] -->
     <li>image->[pawn_nameFull](은)는 [terrainfeature] [circumstance_group]의 그늘에 모여들었습니다.</li>
     <!-- image->[pawn_nameFull] searching for help [circumstance_group] -->

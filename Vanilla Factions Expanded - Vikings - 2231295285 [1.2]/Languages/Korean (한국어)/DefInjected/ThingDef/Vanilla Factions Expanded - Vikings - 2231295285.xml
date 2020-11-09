@@ -16,7 +16,7 @@
   <VFEV_TrainingDummy.description>나무와 흙, 건초 등으로 만들어진 인체모형입니다. 놀라울 정도로 내구성이 강하며, 대결의 치명적인 위험 없이 검술을 테스트하고 훈련할 수 있습니다.</VFEV_TrainingDummy.description>
   <VFEV_MeadFermentingBarrel.label>벌꿀주 발효통</VFEV_MeadFermentingBarrel.label>
   <VFEV_MeadFermentingBarrel.description>매우 단순한 통으로, 구멍과 꼭지와 함께 고정되어 있습니다.</VFEV_MeadFermentingBarrel.description>
-  <VFEV_Apiary.label>양본장</VFEV_Apiary.label>
+  <VFEV_Apiary.label>양봉장</VFEV_Apiary.label>
   <VFEV_Apiary.description>여러층의 선반과 격자, 공간으로 구성되어 있는 나무박스와 같은 구조물입니다. 꽃 근처에 설치하면 자연스레 야생벌들을 끌어들여 그들의 새로운 보금자리가 될 것입니다. 시간이 흐르면서 이 벌들은 직접 수확해서 먹을 수 있는 꿀을 생산할 것이며, 벌꿀주로 발효할 수 있습니다.</VFEV_Apiary.description>
   <VFE_TableFacePaints.label>전투 문양 탁자</VFE_TableFacePaints.label>
   <VFE_TableFacePaints.description>전투 문양을 그리기 위한 다양하 색소와 브러시가 구비된 탁자입니다.</VFE_TableFacePaints.description>
@@ -63,7 +63,7 @@
   <VFEV_Apparel_RavagerArmor.label>약탈자 갑옷</VFEV_Apparel_RavagerArmor.label>
   <VFEV_Apparel_RavagerArmor.description>사촌격인 가죽 갑옷보다 훨씬 무거운 이 갑옷은 가공된 가죽으로 더 세밀하고 단단하게 제작되었습니다. 최전방의 전사들이 주로 방패와 함께착용합니다.</VFEV_Apparel_RavagerArmor.description>
   <VFEV_Apparel_JarlCape.label>얄 케이프</VFEV_Apparel_JarlCape.label>
-  <VFEV_Apparel_JarlCape.description>폭 넓은 모피 외투와 화려한 장식을 공들여 바느질한 망토입니다. 황족들조차 만족할만한 다리까지의 단열성을 제공합니다. </VFEV_Apparel_JarlCape.description>
+  <VFEV_Apparel_JarlCape.description>폭넓은 모피 외투와 화려한 장식을 공들여 바느질한 망토입니다. 황족들조차 만족할만한 다리까지의 단열성을 제공합니다.</VFEV_Apparel_JarlCape.description>
   <VFEV_Apparel_RoyalFurCoat.label>귀족 모피 코트</VFEV_Apparel_RoyalFurCoat.label>
   <VFEV_Apparel_RoyalFurCoat.description>열심히 엮은 가죽들을 잘 보존된 동물의 힘줄로 고정하여 고귀하며 착용감도 좋습니다.</VFEV_Apparel_RoyalFurCoat.description>
   <VFEV_CryptoArmor.label>동면 갑옷</VFEV_CryptoArmor.label>
@@ -153,14 +153,14 @@
   <VFEV_Lothurr.label>로두르</VFEV_Lothurr.label>
   <VFEV_Lothurr.description>기원을 알 수 없는 거대하고 드래곤과 같은 생명체입니다. 로두르는 천성적으로 평온하지만 격분할 때는 극히 위험합니다. 털과 외피는 피해와 추위에 놀라울 정도로 저항성이 강하며, 장엄한 뿔은 엄청난 가격을 받을 수 있습니다.\n\n로두르를 두러싼 수많은 전설이 있습니다. 어떤 사람들은 이것이 오래된 북유럽 신들의 발현이라고 말하는 반면, 다른 사람들은 그들이 진정한 외계 종이라고 주장합니다. 또 다른 오래된 이야기들에서는 그 짐승이 자유롭게 다른 곳에서 사라지고 빠르게 다시 나타날 수 있다고 주장합니다.</VFEV_Lothurr.description>
   <VFEV_Lothurr.tools.0.label>뿔</VFEV_Lothurr.tools.0.label>
-  <VFEV_Lothurr.tools.2.label>왼쪽 발</VFEV_Lothurr.tools.2.label>
-  <VFEV_Lothurr.tools.3.label>오른쪽 발</VFEV_Lothurr.tools.3.label>
+  <VFEV_Lothurr.tools.2.label>왼발</VFEV_Lothurr.tools.2.label>
+  <VFEV_Lothurr.tools.3.label>오른발</VFEV_Lothurr.tools.3.label>
   <VFEV_Lothurr.tools.4.label>머리</VFEV_Lothurr.tools.4.label>
   <VFEV_Njorun.label>뇨룬</VFEV_Njorun.label>
-  <VFEV_Njorun.description>기원을 알 수 없는 거대하고 황소 같은 생명체입니다. 뇨룬은 작은 무리들로 행성을 여행하며 해를 가하려 하는 누군가로 부터 숨어 지내는 등 천성적으로 경계심이 많습니다. 유순하긴 하지만, 길들이기에는 너무 겁이 많으며 공격받으면 쉽게 보복합니다.\n\n전설에 따르면, 뇨룬은 오래 전에 사라진 기업들이 이윤을 위해 번식을 할 수 있는 완벽한 동물을 만들기 위한 시도로 얻은 결과물이라고 합니다. </VFEV_Njorun.description>
+  <VFEV_Njorun.description>기원을 알 수 없는 거대하고 황소 같은 생명체입니다. 뇨룬은 작은 무리로 행성을 여행하며 해를 가하려 하는 누군가로부터 숨어 지내는 등 천성적으로 경계심이 많습니다. 유순하긴 하지만, 길들이기에는 너무 겁이 많으며 공격받으면 쉽게 보복합니다.\n\n전설에 따르면, 뇨룬은 오래전에 사라진 기업들이 이윤을 위해 번식을 할 수 있는 완벽한 동물을 만들기 위한 시도로 얻은 결과물이라고 합니다.</VFEV_Njorun.description>
   <VFEV_Njorun.tools.0.label>뿔</VFEV_Njorun.tools.0.label>
-  <VFEV_Njorun.tools.2.label>왼쪽 발</VFEV_Njorun.tools.2.label>
-  <VFEV_Njorun.tools.3.label>오른쪽 발</VFEV_Njorun.tools.3.label>
+  <VFEV_Njorun.tools.2.label>왼발</VFEV_Njorun.tools.2.label>
+  <VFEV_Njorun.tools.3.label>오른발</VFEV_Njorun.tools.3.label>
   <VFEV_Njorun.tools.4.label>머리</VFEV_Njorun.tools.4.label>
   <VFEV_Wolfhound.label>울프하운드</VFEV_Wolfhound.label>
   <VFEV_Wolfhound.description>북극 환경에서 편안하게 지낼 수 있는 두껍운 갈색 모피를 가진 크고 활기찬 개입니다. 사냥을 목적으로 번식시킨 늑대와 사냥개들의 진화론적 잡종이라고 생각됩니다.</VFEV_Wolfhound.description>
@@ -169,7 +169,7 @@
   <VFEV_Wolfhound.tools.3.label>머리</VFEV_Wolfhound.tools.3.label>
   <VFEV_Mech_Odin.label>오딘</VFEV_Mech_Odin.label>
   <VFEV_Mech_Odin.description>단일화되어 강화된 메카노이드는 환경 조작과 정전기 방전을 통해 번개를 일으킬 수 있는 능력을 가지고 있다고 알려졌습니다. 톱니 모양의 블레이드 암은 주변 전자장치를 비활성화할 수 있는 EMP 펄스 공명기와 함께 쌍으로 구성되어있습니다. 이 메카노이드와 싸울 수 있을 만큼 용감한 사람들은 고압의 번개에 의해 신속하게 파견됩니다.\n\n메카노이드 전쟁에서 오딘을 목격한다면 후퇴가 요구된다고 알려져 있습니다. 극소수만이 그것을 접했으며, 다시 보고할 수 있을 만큼 충분히 오래 살아남았습니다.</VFEV_Mech_Odin.description>
-  <VFEV_Mech_Odin.tools.0.label>왼 주먹</VFEV_Mech_Odin.tools.0.label>
-  <VFEV_Mech_Odin.tools.1.label>오른 주먹</VFEV_Mech_Odin.tools.1.label>
+  <VFEV_Mech_Odin.tools.0.label>왼쪽 주먹</VFEV_Mech_Odin.tools.0.label>
+  <VFEV_Mech_Odin.tools.1.label>오른쪽 주먹</VFEV_Mech_Odin.tools.1.label>
   <VFEV_Mech_Odin.tools.2.label>머리</VFEV_Mech_Odin.tools.2.label>
 </LanguageData>

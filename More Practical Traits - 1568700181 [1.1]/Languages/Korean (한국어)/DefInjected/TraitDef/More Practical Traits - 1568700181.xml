@@ -62,7 +62,7 @@
   <PTA26njg.degreeDatas.0.label>&lt;color=#33ff00>양조사&lt;/color></PTA26njg.degreeDatas.0.label>
   <PTA26njg.degreeDatas.0.description>[PAWN_nameDef](은)는 양조를 잘 합니다.</PTA26njg.degreeDatas.0.description>
   <PTA27yd.degreeDatas.0.label>&lt;color=#33ff00>정원사&lt;/color></PTA27yd.degreeDatas.0.label>
-  <PTA27yd.degreeDatas.0.description>[PAWN_nameDef](은)는 원예를 잘 합니다. </PTA27yd.degreeDatas.0.description>
+  <PTA27yd.degreeDatas.0.description>[PAWN_nameDef](은)는 원예를 잘 합니다.</PTA27yd.degreeDatas.0.description>
   <PTA28xlg.degreeDatas.0.label>&lt;color=#33ff00>수리공&lt;/color></PTA28xlg.degreeDatas.0.label>
   <PTA28xlg.degreeDatas.0.description>[PAWN_nameDef](은)는 수리를 잘 합니다.</PTA28xlg.degreeDatas.0.description>
   <PTA29fzz.degreeDatas.0.label>&lt;color=#33ff00>추방자&lt;/color></PTA29fzz.degreeDatas.0.label>
@@ -100,7 +100,7 @@
   <PTB16ymls.degreeDatas.0.label>&lt;color=#66ccff>유목 사냥꾼&lt;/color></PTB16ymls.degreeDatas.0.label>
   <PTB16ymls.degreeDatas.0.description>[PAWN_nameDef](은)는 사냥과 조련이 특기입니다. [PAWN_pronoun]는 야외에서 사는데 익숙합니다. [PAWN_pronoun]는 원거리 무기를 들면 자신감이 생깁니다.</PTB16ymls.degreeDatas.0.description>
   <PTB17xss.degreeDatas.0.label>&lt;color=#66ccff>조련사&lt;/color></PTB17xss.degreeDatas.0.label>
-  <PTB17xss.degreeDatas.0.description>[PAWN_nameDef](은)는 동물을 조련하고 훈련시키는게 특기입니다. </PTB17xss.degreeDatas.0.description>
+  <PTB17xss.degreeDatas.0.description>[PAWN_nameDef](은)는 동물을 조련하고 훈련시키는게 특기입니다.</PTB17xss.degreeDatas.0.description>
   <PTB18ydjj.degreeDatas.0.label>&lt;color=#66ccff>운동의 달인&lt;/color></PTB18ydjj.degreeDatas.0.label>
   <PTB18ydjj.degreeDatas.0.description>[PAWN_nameDef](은)는 매우 유명한 운동의 달인입니다.</PTB18ydjj.degreeDatas.0.description>
   <PTB19ox.degreeDatas.0.label>&lt;color=#66ccff>아이돌&lt;/color></PTB19ox.degreeDatas.0.label>
@@ -164,7 +164,7 @@
   <PTZ04tsz.degreeDatas.0.label>&lt;color=#969696>만성피로&lt;/color></PTZ04tsz.degreeDatas.0.label>
   <PTZ04tsz.degreeDatas.0.description>[PAWN_nameDef](은)는 항상 졸린 상태입니다. [PAWN_pronoun]는 침대에서 더 많은 시간을 보내고 있습니다. [PAWN_pronoun]는 자는 것을 방해받지 않습니다.</PTZ04tsz.degreeDatas.0.description>
   <PTZ05ydt.degreeDatas.0.label>&lt;color=#CDCDCD>호구&lt;/color></PTZ05ydt.degreeDatas.0.label>
-  <PTZ05ydt.degreeDatas.0.description>[PAWN_nameDef](을)를 상인들이 매우 좋아합니다. 쉽게 속아서 바가지를 잔뜩 쓰기 때문이지요. </PTZ05ydt.degreeDatas.0.description>
+  <PTZ05ydt.degreeDatas.0.description>[PAWN_nameDef](을)를 상인들이 매우 좋아합니다. 쉽게 속아서 바가지를 잔뜩 쓰기 때문이지요.</PTZ05ydt.degreeDatas.0.description>
   <PTZ06rgfl.degreeDatas.0.label>&lt;color=#CDCDCD>이중인격&lt;/color></PTZ06rgfl.degreeDatas.0.label>
   <PTZ06rgfl.degreeDatas.0.description>[PAWN_nameDef](은)는 친절하고 성실한 사람입니다. 하지만 [PAWN_possessive] 머리 속엔 또다른 자아가 있습니다.</PTZ06rgfl.degreeDatas.0.description>
   <PTZ07lt.degreeDatas.0.label>&lt;color=#CDCDCD>지저분한&lt;/color></PTZ07lt.degreeDatas.0.label>
@@ -212,7 +212,7 @@
   <PTE08wlkjdsz.degreeDatas.0.label>&lt;color=#F08080>미래 기술 회장&lt;/color></PTE08wlkjdsz.degreeDatas.0.label>
   <PTE08wlkjdsz.degreeDatas.0.description>[PAWN_nameDef](은)는 미래 기술 회사의 회장 중 한 사람이다. 다른 전임자들과 마찬가지로 [PAWN_pronoun]도 능력이 있지만 스트레스를 받습니다. [PAWN_pronoun]는 미친 듯이 사랑받았지만, 아무도 [PAWN_possessive] 심장을 이해할 수 없었습니다.</PTE08wlkjdsz.degreeDatas.0.description>
   <PTE09gdxwlb.degreeDatas.0.label>&lt;color=#F08080>황야의 주점 주인&lt;/color></PTE09gdxwlb.degreeDatas.0.label>
-  <PTE09gdxwlb.degreeDatas.0.description>[PAWN_nameDef](은)는 황야에 있는 평범한 주점 주인입니다. [PAWN_pronoun]는 무법자들에게 당해 거지꼴로 지나가는 여행자들을 조용히 돈을 주며 도와주는 아름다운 사람입니다. </PTE09gdxwlb.degreeDatas.0.description>
+  <PTE09gdxwlb.degreeDatas.0.description>[PAWN_nameDef](은)는 황야에 있는 평범한 주점 주인입니다. [PAWN_pronoun]는 무법자들에게 당해 거지꼴로 지나가는 여행자들을 조용히 돈을 주며 도와주는 아름다운 사람입니다.</PTE09gdxwlb.degreeDatas.0.description>
   <PTF01hy.degreeDatas.0.label>&lt;color=#FF3030>레드 문&lt;/color></PTF01hy.degreeDatas.0.label>
   <PTF01hy.degreeDatas.0.description>이것은 이 세상에서 활동해 온 전설적인 영웅의 칭호입니다. [PAWN_nameDef](은)는 장거리 전투 기술이 우수하고 신뢰할 수 있음을 나타냅니다.</PTF01hy.degreeDatas.0.description>
   <PTF02tyqs.degreeDatas.0.label>&lt;color=#FF3030>태양의 전사&lt;/color></PTF02tyqs.degreeDatas.0.label>

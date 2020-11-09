@@ -39,7 +39,7 @@
   <!-- uramaki (fine) -->
   <VCE_Uramaki.label>우라마키(좋은 식사)</VCE_Uramaki.label>
   <!-- Complex uramaki sushi assembled with care from a wide selection of ingredients. Uramaki is a medium-sized cylindrical piece with two or more fillings, and it differs from other maki because the rice is on the outside and the nori seaweed inside. -->
-  <VCE_Uramaki.description>다양한 재료로 정성스럽게 조리한 우라마키입니다. 우라마키는 속을 2개 이상의 재료로 채운 중간 크기의 원통형 모양으로 밥이 겉에 있고 안쪽에 김이 있어 다른 마키와는 차이가 있습니다. </VCE_Uramaki.description>
+  <VCE_Uramaki.description>다양한 재료로 정성스럽게 조리한 우라마키입니다. 우라마키는 속을 2개 이상의 재료로 채운 중간 크기의 원통형 모양으로 밥이 겉에 있고 안쪽에 김이 있어 다른 마키와는 차이가 있습니다.</VCE_Uramaki.description>
   <!-- nigiri (fine) -->
   <VCE_Nigiri.label>니기리(좋은 식사)</VCE_Nigiri.label>
   <!-- Complex nigiri sushi assembled with care from a wide selection of ingredients. Nigirizushi consists of an oblong mound of sushi rice that the chef presses between the palms of the hands to form an oval-shaped ball, and a topping (the neta) draped over the ball. -->

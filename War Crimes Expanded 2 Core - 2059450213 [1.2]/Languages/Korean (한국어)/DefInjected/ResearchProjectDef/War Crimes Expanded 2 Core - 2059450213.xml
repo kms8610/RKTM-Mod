@@ -4,7 +4,7 @@
   <WCE2_CrudeTorture.label>조잡한 고문 방법</WCE2_CrudeTorture.label>
   <WCE2_CrudeTorture.description>조잡한 고문에는 일반적으로 숙련되지 않은 절단과 중세식 고문 도구가 포함됩니다.</WCE2_CrudeTorture.description>
   <WCE2_MedicalTorture.label>의학적 고문 방법</WCE2_MedicalTorture.label>
-  <WCE2_MedicalTorture.description>의학적 고문은 좀 더 향상된 고문과 연구 방법을 수반하며, 일반적으로 숙련된 의사의 수술이 필요합니다. </WCE2_MedicalTorture.description>
+  <WCE2_MedicalTorture.description>의학적 고문은 좀 더 향상된 고문과 연구 방법을 수반하며, 일반적으로 숙련된 의사의 수술이 필요합니다.</WCE2_MedicalTorture.description>
   <WCE2_OrganDestabilization.label>장기 불안정</WCE2_OrganDestabilization.label>
   <WCE2_OrganDestabilization.description>장기를 불안정하게 해 장기적인 고통을 유발하는 비교적 조잡한 인공 장기의 제작과 이식을 다룹니다.</WCE2_OrganDestabilization.description>
   <WCE2_QuestionableFoodProduction.label>의심스러운 식량 생산</WCE2_QuestionableFoodProduction.label>

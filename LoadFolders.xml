@@ -266,6 +266,16 @@
 	<li IfModActive="FrozenSnowFox.ComplexJobs">Complex Jobs - 2069684319 [1.2]</li>
 	<li IfModActive="RH.Faction.UAC">Faction UAC - 2130954176 [1.2]</li>
 	<li IfModActive="RH.Faction.VOID">Faction VOID - 2130955778 [1.2]</li>
+	<!-- 20.10.31 -->
+	<li IfModActive="VanillaExpanded.VAETF">Vanilla Animals Expanded — Temperate Forest - 2260502331 [1.2]</li>
+	<!-- 20.11.06 -->
+	<li IfModActive="CETeam.CombatExtendedGuns">Combat Extended Guns - 1582570547 [1.2]</li>
+	<!-- 20.11.07 -->
+	<li IfModActive="Mlie.RimQuest">RimQuest (Continued) - 2263331727 [1.2]</li>
+	<li IfModActive="roolo.giddyupcore">Giddy-up! Core - 1216999901 [1.2]</li>
+	<li IfModActive="Supes.AutoSeller.CaravanEquip">Auto Caravan Equip (Autoseller Extension) - 1487284611 [1.2]</li>
+	<!-- 20.11.09 -->
+	<li IfModActive="Orion.Gastronomy">Gastronomy - 2279786905 [1.2]</li>
   </v1.2>
 
 </loadFolders>

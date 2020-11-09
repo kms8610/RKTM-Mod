@@ -127,7 +127,7 @@
   <Designator_context_cut_succ>{0}개의 병든 식물이 지정되었습니다.</Designator_context_cut_succ>
   <Designator_context_cut_fail>더 이상 병충해에 걸린 식물을 찾지 못했습니다.</Designator_context_cut_fail>
   <Designator_context_harvest_fullgrown>지도에서 완전히 성장한 식물 수확</Designator_context_harvest_fullgrown>
-  <Designator_context_harvest_home_fullgrown>주거구역에서 완전히 자란 식물 수확 </Designator_context_harvest_home_fullgrown>
+  <Designator_context_harvest_home_fullgrown>주거구역에서 완전히 자란 식물 수확</Designator_context_harvest_home_fullgrown>
   <Designator_context_harvest_fullgrown_succ>{0}개의 완전히 자란 식물이 수확대상으로 지정되었습니다.</Designator_context_harvest_fullgrown_succ>
   <Designator_context_harvest_fullgrown_fail>수확할 새로운 완전히 자란 식물을 발견하지 못했습니다.</Designator_context_harvest_fullgrown_fail>
   <PartyHuntToggle_label>소집 중 사냥</PartyHuntToggle_label>
