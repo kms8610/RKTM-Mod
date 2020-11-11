@@ -97,7 +97,6 @@
 	<li IfModActive="catachat.inspirationtweaks">Vanilla Gourmet Parade - 2117487204 [1.2]</li>
 	<li IfModActive="neceros.reinforcedwalls">Reinforced Walls - 1929389479 [1.2]</li>
 	<li IfModActive="ratys.rtfuse">RT Fuse - 728314182 [1.2]</li>
-	<li IfModActive="Dubwise.DubsMintMenus">Dubs Mint Menus - 1446523594 [1.2]</li>
 	<li IfModActive="neceros.androidsexpanded">Androids Expanded - 2179977828 [1.2]</li>
 	<li IfModActive="sarg.alphabiomes">Alpha Biomes - 1841354677 [1.2]</li>
 	<li IfModActive="Torann.ARimworldOfMagic">A RimWorld of Magic - 1201382956 [1.2]</li>
@@ -198,7 +197,6 @@
 	<li IfModActive="zzz.2x2HydroponicswithSunlamp">2x2 Hydroponics with Sunlamp - 1330587565 [1.2]</li>
 	<li IfModActive="Mehni.Misc.Modifications">4M Mehni's Misc Modifications - 2228765246 [1.2]</li>
 	<li IfModActive="spoonshortage.ADogSaidAnimalProsthetics">A Dog Said... Animal Prosthetics - 746425621 [1.2]</li>
-	<li IfModActive="Mehni.PickUpAndHaul">Pick Up And Haul - 1279012058 [1.1]</li>
 	<li IfModActive="Gewen.AdditionalTraits">Additional Traits (Heroes + Gods Optional) - 1621571024 [1.2]</li>
 	<li IfModActive="Ogliss.AdMech.Armoury">Adeptus Mechanicus Armoury - 1541438614 [1.2]</li>
 	<li IfModActive="BOXrsxx.MorePracticalTraits">More Practical Traits - 1568700181 [1.1]</li>
@@ -243,8 +241,6 @@
 	<li IfModActive="Sielfyr.DreamAndDesire">Dream and Desire - 2168301289 [1.2]</li>
 	<!-- 20.10.18 -->
 	<li IfModActive="Dorely.BetaTraps">BetaTraps - 1671814939 [1.2]</li>
-	<!-- 20.10.20 -->
-	<li IfModActive="OskarPotocki.VFE.Vikings">Vanilla Factions Expanded - Vikings - 2231295285 [1.2]</li>
 	<!-- 20.10.22 -->
 	<li IfModActive="RicoFox233.FGO.StylesApparelPack">Fate Grand Order - Styles Apparel Pack - 1644879310 [1.2]</li>
 	<li IfModActive="asjjkl.costume">Ereshkigal Apparel Pack - 1763236543 [1.2]</li>
@@ -276,6 +272,13 @@
 	<li IfModActive="Supes.AutoSeller.CaravanEquip">Auto Caravan Equip (Autoseller Extension) - 1487284611 [1.2]</li>
 	<!-- 20.11.09 -->
 	<li IfModActive="Orion.Gastronomy">Gastronomy - 2279786905 [1.2]</li>
+	<li IfModActive="roolo.whatthehack">What the hack! - 1505914869 [1.2]</li>
+	<!-- 20.11.10 -->
+	<li IfModActive="co.uk.epicguru.whatsthatmod">What's That Mod - 2258431182 [1.2]</li>
+	<li IfModActive="VanillaExpanded.VBrewECandT">Vanilla Brewing Expanded - Coffees and Teas - 2275449762 [1.2]</li>
+	<li IfModActive="OskarPotocki.VFE.Vikings">Vanilla Factions Expanded - Vikings - 2231295285 [1.2]</li>
+	<!-- 20.11.11 -->
+	<li IfModActive="Dubwise.DubsMintMenus">Dubs Mint Menus - 1446523594 [1.2]</li>
   </v1.2>
 
 </loadFolders>

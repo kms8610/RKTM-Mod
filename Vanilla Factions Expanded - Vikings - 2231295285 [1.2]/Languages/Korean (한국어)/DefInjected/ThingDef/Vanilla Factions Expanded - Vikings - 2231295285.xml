@@ -7,12 +7,12 @@
   <VFEV_Mead.tools.0.label>병</VFEV_Mead.tools.0.label>
   <VFEV_Mead.tools.1.label>병목</VFEV_Mead.tools.1.label>
   <VFEV_FurBed.label>모피 침대</VFEV_FurBed.label>
-  <VFEV_FurBed.description>건조한 풀로 속을 채운 나무 뼈대를 다양한 생가죽과 모피로 덮은 침대입니다. 추운 밤에 추가적인 단열 효과를 제공합니다.  이 침대의 온기는 저체온증을 방지합니다.</VFEV_FurBed.description>
+  <VFEV_FurBed.description>건조한 풀로 속을 채운 나무 뼈대를 다양한 생가죽과 모피로 덮은 침대입니다. 추운 밤에 추가적인 단열 효과를 제공합니다. 이 침대의 온기는 저체온증을 방지합니다.</VFEV_FurBed.description>
   <VFEV_DoubleFurBed.label>대형 모피 침대</VFEV_DoubleFurBed.label>
-  <VFEV_DoubleFurBed.description>2명이 누울 수 있는, 건조한 풀로 속을 채운 나무 뼈대를 다양한 생가죽과 모피로 덮은 침대입니다. 추운 밤에 추가적인 단열 효과를 제공합니다.  이 침대의 온기는 저체온증을 방지합니다.</VFEV_DoubleFurBed.description>
+  <VFEV_DoubleFurBed.description>2명이 누울 수 있는, 건조한 풀로 속을 채운 나무 뼈대를 다양한 생가죽과 모피로 덮은 침대입니다. 추운 밤에 추가적인 단열 효과를 제공합니다. 이 침대의 온기는 저체온증을 방지합니다.</VFEV_DoubleFurBed.description>
   <VFEV_Hnefatafl.label>왕의 테이블 탁자</VFEV_Hnefatafl.label>
   <VFEV_Hnefatafl.description>고대의 보드 게임은 격자보드 위에서 진행되었습니다. 사촌격인 체스와 달리 이 게임은 비대칭입니다. 한 플레이어는 얄을 안전하게 보드 가장자리까지 후퇴시켜야 하며, 다른 플레이어는 그들이 탈출하기 전에 적의 얄을 잡아야 합니다. 특히 다른 게임들에 비해 왕의 테이블을 둘러싼 싸움이 더 많이 벌어지는 것 같습니다.</VFEV_Hnefatafl.description>
-  <VFEV_TrainingDummy.label>훈련 허수아비</VFEV_TrainingDummy.label>
+  <VFEV_TrainingDummy.label>훈련용 허수아비</VFEV_TrainingDummy.label>
   <VFEV_TrainingDummy.description>나무와 흙, 건초 등으로 만들어진 인체모형입니다. 놀라울 정도로 내구성이 강하며, 대결의 치명적인 위험 없이 검술을 테스트하고 훈련할 수 있습니다.</VFEV_TrainingDummy.description>
   <VFEV_MeadFermentingBarrel.label>벌꿀주 발효통</VFEV_MeadFermentingBarrel.label>
   <VFEV_MeadFermentingBarrel.description>매우 단순한 통으로, 구멍과 꼭지와 함께 고정되어 있습니다.</VFEV_MeadFermentingBarrel.description>
@@ -172,4 +172,6 @@
   <VFEV_Mech_Odin.tools.0.label>왼쪽 주먹</VFEV_Mech_Odin.tools.0.label>
   <VFEV_Mech_Odin.tools.1.label>오른쪽 주먹</VFEV_Mech_Odin.tools.1.label>
   <VFEV_Mech_Odin.tools.2.label>머리</VFEV_Mech_Odin.tools.2.label>
+  <VFEV_MeadFermentingBarrel.label.label>벌꿀주 발효통</VFEV_MeadFermentingBarrel.label.label>
+  <VFEV_Mead.label.label>벌꿀주</VFEV_Mead.label.label>
 </LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_MakeCoffeeFast.label>에스프레소 커피 만들기</VBE_MakeCoffeeFast.label>
+  <VBE_MakeCoffeeFast.description>우유와 설탕으로 이루어진 따뜻하고 쓴맛이 나는 커피를 만듭니다. 카페인이 높고 향기로워서, 주로 학생들과 직장인들 가장 좋아하는 음료입니다. 에스프레소 기계에서 커피를 추출하는 것이 일반적으로 훨씬 빠릅니다.</VBE_MakeCoffeeFast.description>
+  <VBE_MakeCoffeeFast.jobString>커피 타는 중.</VBE_MakeCoffeeFast.jobString>
+  <VBE_ReheatCoffee.label>아이스 커피 다시 데우기</VBE_ReheatCoffee.label>
+  <VBE_ReheatCoffee.description>이 에스프레소 기계에는 아이스 커피를 다시 데울 수 있는 작은 그릴이 내장되어 있습니다.</VBE_ReheatCoffee.description>
+  <VBE_ReheatCoffee.jobString>아이스 커피 재가열 중.</VBE_ReheatCoffee.jobString>
+  <VBE_BrewLatteCoffee.label>라떼커피 끓이기</VBE_BrewLatteCoffee.label>
+  <VBE_BrewLatteCoffee.description>강력한 에스프레소와 신선한 우유를 섞어 쓴 맛을 완화시켰습니다. 라떼는 특히 "세련된" 사람들을 위한 것으로 유명합니다.</VBE_BrewLatteCoffee.description>
+  <VBE_BrewLatteCoffee.jobString>라떼커피 끓이는 중.</VBE_BrewLatteCoffee.jobString>
+  <VBE_BrewMochaCoffee.label>모카커피 끓이기</VBE_BrewMochaCoffee.label>
+  <VBE_BrewMochaCoffee.description>달콤하고 고급스러운 초콜릿이 섞인 커피를 추출합니다. 고상한 체하는 사람들은 모카가 커피 음료라기 보다는 후식에 가깝다고 주장합니다.</VBE_BrewMochaCoffee.description>
+  <VBE_BrewMochaCoffee.jobString>모카커피 끓이는 중.</VBE_BrewMochaCoffee.jobString>
+  <VBE_BrewIrishCoffee.label>아이리시 커피 끓이기</VBE_BrewIrishCoffee.label>
+  <VBE_BrewIrishCoffee.description>위스키와 커피를 섞은 음료를 끓인 후 거품을 형성하고 한 숟가락의 휘핑 크림을 얹으세요. 방금 자고 일어나 다시 자고 싶은 사람들에게 안성맞춤입니다.</VBE_BrewIrishCoffee.description>
+  <VBE_BrewIrishCoffee.jobString>아이리시 커피 끓이는 중.</VBE_BrewIrishCoffee.jobString>
+  <VBE_BrewCannibalCoffee.label>인육 커피 끓이기</VBE_BrewCannibalCoffee.label>
+  <VBE_BrewCannibalCoffee.description>아주 특별한… 정제된 커피를 마시는 사람을 위해... 음료를 끓이세요.</VBE_BrewCannibalCoffee.description>
+  <VBE_BrewCannibalCoffee.jobString>인육 커피 끓이는 중.</VBE_BrewCannibalCoffee.jobString>
+  <VBE_MakeTeaFast.label>차 만들기</VBE_MakeTeaFast.label>
+  <VBE_MakeTeaFast.description>끓는 물에 찻잎 한 봉지를 넣어서 향기로운 차로 우려냅니다. 특별히 준비된 에스프레소 기계에서 끓이는 것이 일반적으로 훨씬 빠릅니다.</VBE_MakeTeaFast.description>
+  <VBE_MakeTeaFast.jobString>차 만드는 중.</VBE_MakeTeaFast.jobString>
+  <VBE_MakeBlackTea.label>홍차 만들기</VBE_MakeBlackTea.label>
+  <VBE_MakeBlackTea.description>크림 우유로 차의 쓴맛을 없애고, 잠을 깨워 마음을 편안하게 합니다.</VBE_MakeBlackTea.description>
+  <VBE_MakeBlackTea.jobString>홍차 만드는 중.</VBE_MakeBlackTea.jobString>
+  <VBE_MakeYuenYeung.label>원앙차 만들기</VBE_MakeYuenYeung.label>
+  <VBE_MakeYuenYeung.description>차와 커피를 섞어서 만듭니다. 차와 커피를 마시는 사람들은 이 끔찍한 혼합을 만들어내면서 각각 차이점을 두었습니다. 뜨겁든 차갑든 마시는 사람은 혼란스럽습니다.</VBE_MakeYuenYeung.description>
+  <VBE_MakeYuenYeung.jobString>원앙차 만드는 중.</VBE_MakeYuenYeung.jobString>
+  <VBE_MakeKombucha.label>콤부차 만들기</VBE_MakeKombucha.label>
+  <VBE_MakeKombucha.description>발효시키기 위해 남긴 설탕이 든 차로, 달콤하고 신맛이 나며, 때로는 천연 탄산음료인 콤부차입니다. 일부는 회의적이긴 하지만, 건강상의 이점으로 찬사를 받았습니다.</VBE_MakeKombucha.description>
+  <VBE_MakeKombucha.jobString>콤부차 만드는 중.</VBE_MakeKombucha.jobString>
+</LanguageData>

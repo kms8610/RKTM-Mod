@@ -19,12 +19,6 @@
   <Polaris_TradeShipPodCrashSiteCore.description>상선이 추락한 지역입니다.</Polaris_TradeShipPodCrashSiteCore.description>
   <Polaris_TradeShipPodCrashSiteCore.label>상선 추락 지역</Polaris_TradeShipPodCrashSiteCore.label>
 
-  <!--1505914869_190616_What the hack!-->
-  <WTH_RoamingMechanoidsCore.label>배회하는 메카노이드들</WTH_RoamingMechanoidsCore.label>
-  <WTH_RoamingMechanoidsCore.description>메카노이드들이 이 지역을 배회하고 있는 것 같습니다.</WTH_RoamingMechanoidsCore.description>
-  <WTH_MechanoidTempleCore.label>메카노이드 위치</WTH_MechanoidTempleCore.label>
-  <WTH_MechanoidTempleCore.description>원거리 광물 스캐너에 의해 감지된 대형 메카노이드 구조물입니다.</WTH_MechanoidTempleCore.description>
-
   <!--1552146295_190519_Real Ruins-->
   <RuinedBaseSite.label>버려진 기지</RuinedBaseSite.label>
   <RuinedBaseSite.description>왜 이전의 거주자들이 이 전초기지를 버렸는지, 어디로 사라졌는지는 아무도 모릅니다. 하지만 이 장소에는 여전히 많은 가치있는 물건과 기계들이 남아있습니다.</RuinedBaseSite.description>

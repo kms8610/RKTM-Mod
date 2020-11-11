@@ -7,7 +7,7 @@
   <NamerFactionViking.rulePack.rulesStrings.0>r_name->[AnimalNordic] 클랜</NamerFactionViking.rulePack.rulesStrings.0>
   <NamerFactionViking.rulePack.rulesStrings.1>r_name->[Color] [AnimalNordic] 클랜</NamerFactionViking.rulePack.rulesStrings.1>
   <NamerFactionViking.rulePack.rulesStrings.2>r_name->[NorseNames]의 클랜</NamerFactionViking.rulePack.rulesStrings.2>
-  <NamerSettlementViking.rulePack.rulesStrings.0>r_name-gt;[townname_wordgen]</NamerSettlementViking.rulePack.rulesStrings.0>
+  <NamerSettlementViking.rulePack.rulesStrings.0>r_name->[townname_wordgen]</NamerSettlementViking.rulePack.rulesStrings.0>
   <NamerSettlementViking.rulePack.rulesStrings.1>townname_wordgen(p=2)->[SylE][SylE]</NamerSettlementViking.rulePack.rulesStrings.1>
   <NamerSettlementViking.rulePack.rulesStrings.2>townname_wordgen(p=2)->[SylE][SylE][SylE]</NamerSettlementViking.rulePack.rulesStrings.2>
   <NamerSettlementViking.rulePack.rulesStrings.3>townname_wordgen(p=2)->[SylE][townendevil]</NamerSettlementViking.rulePack.rulesStrings.3>

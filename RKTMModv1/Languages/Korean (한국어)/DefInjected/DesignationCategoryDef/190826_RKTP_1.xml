@@ -13,9 +13,6 @@
   <Ogre_NanoRepairTech_DesignationCategory.description>나노 수리기술 가구를 허용합니다.</Ogre_NanoRepairTech_DesignationCategory.description>
   <Ogre_NanoRepairTech_DesignationCategory.label>나노기술</Ogre_NanoRepairTech_DesignationCategory.label>
 
-  <!--1505914869_190616_What the hack!-->
-  <WTH_Hacking.label>해킹</WTH_Hacking.label>
-
   <!--1539311500_181027_Fertile Fields-->
   <RFF_Farm.label>농사</RFF_Farm.label>
   <RFF_Farm.description>농지를 개선합니다.</RFF_Farm.description>

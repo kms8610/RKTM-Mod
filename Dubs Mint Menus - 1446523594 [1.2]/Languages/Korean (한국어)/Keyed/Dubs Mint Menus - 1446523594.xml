@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <AutoCloseArchitect>선택시 닫기</AutoCloseArchitect>
+  <AutoCloseArchitectDesc>항목 선택시 구상 메뉴를 닫습니다</AutoCloseArchitectDesc>
+  <ResearchQueueTip>연구 대기열 - 드래그로 순서 조정</ResearchQueueTip>
   <QueueResearchProj>대기열</QueueResearchProj>
   <EnablePinningResources>자원 항목 고정 사용</EnablePinningResources>
   <EnablePinningResourcesTip>Ctrl + 클릭하여 자원 표시에서 해당 항목을 최상단에 고정\n(분류 모드 전용)</EnablePinningResourcesTip>
@@ -13,20 +16,20 @@
   <ProjectStalled>연구 항목 요구 사항이 충족되지 않았습니다.</ProjectStalled>
   <ProjectStopped>연구 중단됨</ProjectStopped>
   <MintWiki>민트 메뉴 위키</MintWiki>
-  <SetButtonsFromBuildo>민트 건설 메뉴를 사용하여 항목 추가 (건설 메뉴에서 ctrl 좌클릭)</SetButtonsFromBuildo>
+  <SetButtonsFromBuildo>민트 구상 메뉴를 사용하여 항목 추가 (구상 메뉴에서 ctrl 좌클릭)</SetButtonsFromBuildo>
   <BillSearchTip>검색 가능한 단어:\n\n제작 항목 이름 또는 물품 이름의 모든 단어 (예시: 바지)\n\n재료 범주 (예시: 가죽)\n\n신체 부위 (예시: 머리)\n\n태그 (예시: 산업)\n\n단계 (예시: 머리장비)</BillSearchTip>
   <NoActiveProject>활성화된 연구 항목이 없음</NoActiveProject>
   <TargetProject>목표 연구 항목: {0}</TargetProject>
   <MintWheelDesc>민트 휠 {0}/{1} Ctrl + 클릭하여 할당</MintWheelDesc>
   <MintWheelMenu>민트 휠 메뉴</MintWheelMenu>
   <MintWheelonrightclick>우클릭으로 민트 휠 사용</MintWheelonrightclick>
-  <MintWheelRightClickDesc>우클릭으로 건설 메뉴를 여는 대신 민트 휠을 엽니다.</MintWheelRightClickDesc>
+  <MintWheelRightClickDesc>우클릭으로 구상 메뉴를 여는 대신 민트 휠을 엽니다.</MintWheelRightClickDesc>
   <MintWheel>민트 휠</MintWheel>
-  <MintBuildMenu>건설 메뉴</MintBuildMenu>
+  <MintBuildMenu>구상 메뉴</MintBuildMenu>
   <AutoFocusSearch>검색 상자 자동 활성화</AutoFocusSearch>
-  <AutoFocusSearchDesc>건설 메뉴를 열었을 때 자동으로 검색 상자에 커서를 위치해 즉시 검색할 수 있게 합니다.</AutoFocusSearchDesc>
-  <OverrideArchitectTab>건설 탭을 민트 메뉴 사용</OverrideArchitectTab>
-  <OverrideArchitectTabDesc>건설 메뉴를 민트 메뉴로 대체합니다.(기본값은 Ctrl 을 누른 상태에서 우클릭)</OverrideArchitectTabDesc>
+  <AutoFocusSearchDesc>구상 메뉴를 열었을 때 자동으로 검색 상자에 커서를 위치해 즉시 검색할 수 있게 합니다.</AutoFocusSearchDesc>
+  <OverrideArchitectTab>구상 탭을 민트 메뉴 사용</OverrideArchitectTab>
+  <OverrideArchitectTabDesc>구상 탭을 민트 메뉴로 대체합니다.(기본값은 Ctrl 을 누른 상태에서 우클릭)</OverrideArchitectTabDesc>
   <ResearchMenu>연구 메뉴</ResearchMenu>
   <MintListWidth>목록의 폭</MintListWidth>
   <OverrideResearchTab>연구 탭을 민트 메뉴 사용</OverrideResearchTab>

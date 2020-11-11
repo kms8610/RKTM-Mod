@@ -13,10 +13,6 @@
   <AutoSell.label>자동 판매</AutoSell.label>
   <AutoSell.description>규칙을 작성해 판매합니다.</AutoSell.description>
 
-  <!--1505914869_190616_What the hack!-->
-  <WTH_Tab_Mechanoids.label>메카노이드</WTH_Tab_Mechanoids.label>
-  <WTH_Tab_Mechanoids.description>해킹된 메카노이드에 대한 개요로, 적절한 작업 모듈이 설치된 메카노이드의 작업 우선 순위를 설정할 수 있습니다.</WTH_Tab_Mechanoids.description>
-
   <!--1509278793_181029_Inventory Tab-->
   <Inventory.label>인벤토리</Inventory.label>
   <Inventory.description>정착지에 저장된 모든 항목을 표시합니다.</Inventory.description>

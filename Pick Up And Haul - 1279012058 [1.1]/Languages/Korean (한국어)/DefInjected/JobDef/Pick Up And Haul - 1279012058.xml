@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <!--1279012058_190622_Pick Up And Haul-->
-  <HaulToInventory.reportString>TargetA(을)를 운반하기 위해 소지품에 넣는 중.</HaulToInventory.reportString>
-  <UnloadYourHauledInventory.reportString>물품 재고 정리 중.</UnloadYourHauledInventory.reportString>
-
-</LanguageData>
