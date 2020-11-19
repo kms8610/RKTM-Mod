@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Arachne_body.label>아라크네</Arachne_body.label>
   <Arachne_body.corePart.parts.6.customLabel>왼쪽 폐</Arachne_body.corePart.parts.6.customLabel>
   <Arachne_body.corePart.parts.7.customLabel>오른쪽 폐</Arachne_body.corePart.parts.7.customLabel>
@@ -56,5 +55,4 @@
   <Arachne_body.corePart.parts.20.parts.0.customLabel>오른쪽 뒤 대퇴골</Arachne_body.corePart.parts.20.parts.0.customLabel>
   <Arachne_body.corePart.parts.20.parts.1.customLabel>오른쪽 뒤 경골</Arachne_body.corePart.parts.20.parts.1.customLabel>
   <Arachne_body.corePart.parts.20.parts.2.customLabel>오른쪽 뒷발톱 (발)</Arachne_body.corePart.parts.20.parts.2.customLabel>
-
 </LanguageData>

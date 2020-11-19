@@ -253,12 +253,6 @@
   <TAG.degreeDatas.4.label>누에로 TAG</TAG.degreeDatas.4.label>
   <TAG.degreeDatas.4.description>[PAWN_nameDef](은)는 태어나서 루시페륨에 희귀한 반응을 보였습니다. [PAWN_pronoun]는 정상적인 인간과 비교해서 놀라운 능력을 지니고 있었던 것입니다. 다른 TAG들과 마찬가지로, [PAWN_nameDef](은)는 폭발하기 쉬운 성격입니다.</TAG.degreeDatas.4.description>
 
-  <!--839005762_190628_Humanoid Alien Races-->
-  <Xenophobia.degreeDatas.0.description>[PAWN_nameDef](은)는 이종족을 싫어하고 믿지 않습니다. [PAWN_pronoun]는 그들을 동물보다 더 하찮게 생각합니다.</Xenophobia.degreeDatas.0.description>
-  <Xenophobia.degreeDatas.1.description>[PAWN_nameDef](은)는 이종족이 이국적이고 흥미롭다고 생각합니다. [PAWN_pronoun]는 그들을 더 많이 알고 싶어하고, 그들과 관계를 만드는 것을 꺼리지 않습니다.</Xenophobia.degreeDatas.1.description>
-  <Xenophobia.degreeDatas.1.label>이종족 우호</Xenophobia.degreeDatas.1.label>
-  <Xenophobia.degreeDatas.0.label>이종족 혐오</Xenophobia.degreeDatas.0.label>
-
   <!--918226861_190816_Star Wars - The Force-->
   <PJ_JediTrait.degreeDatas.1.description>[PAWN_nameDef](은)는 기사 등급인 제다이 오더가 되었습니다.</PJ_JediTrait.degreeDatas.1.description>
   <PJ_JediTrait.degreeDatas.0.description>[PAWN_nameDef](은)는 제다이 기사가 되기 위한 여정을 시작했습니다.</PJ_JediTrait.degreeDatas.0.description>

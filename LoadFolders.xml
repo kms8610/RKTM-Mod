@@ -75,7 +75,6 @@
 	<li IfModActive="SR.BondageBed">BondageBed Torture - 2094933315 [1.2]</li>
 	<li IfModActive="factioncontrol.kv.rw">Faction Control - 1509102551 [1.2]</li>
 	<li IfModActive="leion247153.CulturedHMeat">Cultured Meat - 1420944836 [1.2]</li>
-	<li IfModActive="AR13S.Arachne1point0">Arachne Race - 1589454687 [1.2]</li>
 	<li IfModActive="aRandomKiwi.KillForMe">Kill For Me - 1629854111 [1.2]</li>
 	<li IfModActive="handandfootwear.kv.rw">Hand 'n' Footwear - 1502703299 [1.2]</li>
 	<li IfModActive="neceros.wallsunlamp">Wall Sun Lamp - 1825653111 [1.2]</li>
@@ -218,7 +217,6 @@
 	<li IfModActive="n7huntsman.ceramics">Ceramics - 1833163132 [1.2]</li>
 	<li IfModActive="WildPokemon.velcroboy333">Wild Pokémon (continued) - 2127631181 [1.2]</li>
 	<li IfModActive="FrozenSnowFox.AdvancedBionicsExpansion">Advanced Bionics Expansion - 2006925330 [1.2]</li>
-	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
 	<li IfModActive="Albion.SparklingWorlds.Addon.Events">Sparkling Worlds Addon - More Events - 1280211279 [1.2]</li>
 	<li IfModActive="Andross.RoyalThrumbos">Royal Thrumbos - 1865990377 [1.2]</li>
 	<li IfModActive="Proxyer.DESurgeries.DESurgeries">DE Surgeries Color - 2002422428 [1.2]</li>
@@ -271,7 +269,6 @@
 	<li IfModActive="roolo.giddyupcore">Giddy-up! Core - 1216999901 [1.2]</li>
 	<li IfModActive="Supes.AutoSeller.CaravanEquip">Auto Caravan Equip (Autoseller Extension) - 1487284611 [1.2]</li>
 	<!-- 20.11.09 -->
-	<li IfModActive="Orion.Gastronomy">Gastronomy - 2279786905 [1.2]</li>
 	<li IfModActive="roolo.whatthehack">What the hack! - 1505914869 [1.2]</li>
 	<!-- 20.11.10 -->
 	<li IfModActive="co.uk.epicguru.whatsthatmod">What's That Mod - 2258431182 [1.2]</li>
@@ -279,6 +276,18 @@
 	<li IfModActive="OskarPotocki.VFE.Vikings">Vanilla Factions Expanded - Vikings - 2231295285 [1.2]</li>
 	<!-- 20.11.11 -->
 	<li IfModActive="Dubwise.DubsMintMenus">Dubs Mint Menus - 1446523594 [1.2]</li>
+	<!-- 20.11.13 -->
+	<li IfModActive="erdelf.HumanoidAlienRaces">Humanoid Alien Races 2.0 - 839005762 [1.2]</li>
+	<li IfModActive="Mlie.RoadsOfTheRim">Roads of the Rim (Continued) - 2280318231 [1.2]</li>
+	<li IfModActive="tikubonn.RimTrash">RimTrash - 2281891286 [1.2]</li>
+	<!-- 20.11.15 -->
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
+	<li IfModActive="chefboyjc.zorgzf1">Zorg ZF1 - 2285163237 [1.2]</li>
+	<!-- 20.11.19 -->
+	<li IfModActive="sarg.rimbees">RimBees - 1558161673 [1.2]</li>
+	<li IfModActive="AR13S.Arachne1point0">Arachne Race - 1589454687 [1.2]</li>
+	<li IfModActive="Agracore.BSM">Better Survival Meals - 2283449489 [1.2]</li>
+	<li IfModActive="Orion.Gastronomy">Gastronomy - 2279786905 [1.2]</li>
   </v1.2>
 
 </loadFolders>

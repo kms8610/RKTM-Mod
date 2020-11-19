@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--839005762_190628_Humanoid Alien Races-->
+  <AlienVsXenophobia.stages.1.label>이종족 혐오자들에게 혐오받는 외계인</AlienVsXenophobia.stages.1.label>
+  <AlienVsXenophobia.stages.0.label>이종족 우호자들에게 사랑받는 외계인</AlienVsXenophobia.stages.0.label>
+  <XenophobiaVsAlien.stages.0.label>이종족 우호자들은 외계인을 좋아합니다.</XenophobiaVsAlien.stages.0.label>
+  <XenophobiaVsAlien.stages.0.description>이종족 우호자들은 외계인을 좋아합니다.</XenophobiaVsAlien.stages.0.description>
+  <XenophobiaVsAlien.stages.1.label>이종족 혐오자들은 외계인을 혐오합니다.</XenophobiaVsAlien.stages.1.label>
+  <XenophobiaVsAlien.stages.1.description>이종족 혐오자들은 외계인을 혐오합니다.</XenophobiaVsAlien.stages.1.description>
+  <XenophobeVsXenophile.stages.0.label>이종족 혐오 대 이종족 우호</XenophobeVsXenophile.stages.0.label>
+
+</LanguageData>

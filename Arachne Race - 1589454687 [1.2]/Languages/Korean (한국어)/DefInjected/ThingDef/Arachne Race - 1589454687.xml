@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Arachne_Armor.label>아라크네 전투 갑옷</Arachne_Armor.label>
   <Arachne_Armor.description>금속 재료를 갑옷 모양으로 두들겨서 만든 전통적인 아라크네 전투 갑옷.\n* 방어력은 사용된 재료를 기준으로 합니다.</Arachne_Armor.description>
   <Arachne_Armor_Helmet.label>아라크네 전투 헬멧</Arachne_Armor_Helmet.label>
@@ -34,5 +33,4 @@
   <Arachne_Scythe.description>전통적인 아라크네의 대낫. 강력하지만 무겁고 느린 근접용 무기입니다.</Arachne_Scythe.description>
   <Arachne_Scythe.tools.0.label>손잡이</Arachne_Scythe.tools.0.label>
   <Arachne_Scythe.tools.1.label>날</Arachne_Scythe.tools.1.label>
-
 </LanguageData>

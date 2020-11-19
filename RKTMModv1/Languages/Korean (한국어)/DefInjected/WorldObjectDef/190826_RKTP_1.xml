@@ -13,12 +13,6 @@
   <CaravanSmallRuinsWorldObject.label>작은 유적</CaravanSmallRuinsWorldObject.label>
   <CaravanSmallRuinsWorldObject.description>작은 유적</CaravanSmallRuinsWorldObject.description>
 
-  <!--1613783924_190519_Roads of the Rim-->
-  <RoadConstructionLeg.label>도로 건설 다리</RoadConstructionLeg.label>
-  <RoadConstructionSite.label>도로 공사 현장</RoadConstructionSite.label>
-  <RoadConstructionLeg.description>도로 계획 구간</RoadConstructionLeg.description>
-  <RoadConstructionSite.description>공사 중인 도로의 부지입니다</RoadConstructionSite.description>
-
   <!--1775170117_190816_RimCities-->
   <City_Faction.label>도시</City_Faction.label>
   <City_Faction.description>거대한 규모와, 고도로 발전된 정착지입니다.</City_Faction.description>

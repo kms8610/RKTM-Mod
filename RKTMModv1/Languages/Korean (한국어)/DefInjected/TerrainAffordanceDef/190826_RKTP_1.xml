@@ -1,1 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData> 	<!--1539311500_181027_Fertile Fields-->	<RFF_WaterDeep.label>RFF 깊은 물</RFF_WaterDeep.label>	<RFF_SoilFd.label>RFF 비옥한 토양 (다운그레이드 가능)</RFF_SoilFd.label>	<RFF_SoilFu.label>RFF 비옥한 토양 (업그레이드 가능)</RFF_SoilFu.label>	<RFF_Gravel.label>RFF 자갈</RFF_Gravel.label>	<RFF_Ice.label>RFF 얼음</RFF_Ice.label>	<RFF_Marsh.label>RFF 늪지</RFF_Marsh.label>	<RFF_SoilMarshy.label>RFF 습지 토양</RFF_SoilMarshy.label>	<RFF_Mud.label>RFF 진흙</RFF_Mud.label>	<RFF_PackedDirt.label>RFF 다져진 흙</RFF_PackedDirt.label>	<RFF_SoilRich.label>RFF 기름진 토양</RFF_SoilRich.label>	<RFF_RockyDirt.label>RFF 자갈</RFF_RockyDirt.label>	<RFF_Sand.label>RFF 모래</RFF_Sand.label>	<RFF_WaterShallow.label>RFF 얕은 물</RFF_WaterShallow.label>	<RFF_Topsoil.label>RFF 준설토</RFF_Topsoil.label>	<!--1539311991_190814_Fishing-->	<Fishable.label>낚시 가능</Fishable.label>	<IceFishable.label>얼음낚시 가능</IceFishable.label>	<!--1543671683_190607_[1.0]ResourcePackCore-->	<RPC_DirtGatherable.label>토양 채집</RPC_DirtGatherable.label>	<RPC_GravelGatherable.label>자갈 채집</RPC_GravelGatherable.label>	<RPC_IceGatherable.label>얼음 채집</RPC_IceGatherable.label>	<RPC_MudGatherable.label>진흙 채집</RPC_MudGatherable.label>	<RPC_SandGatherable.label>모래 채집</RPC_SandGatherable.label>	<!--1613783924_190519_Roads of the Rim-->	<BridgeableAny.label>모든 재료로 교량 건설가능</BridgeableAny.label></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1539311500_181027_Fertile Fields-->
+  <RFF_WaterDeep.label>RFF 깊은 물</RFF_WaterDeep.label>
+  <RFF_SoilFd.label>RFF 비옥한 토양 (다운그레이드 가능)</RFF_SoilFd.label>
+  <RFF_SoilFu.label>RFF 비옥한 토양 (업그레이드 가능)</RFF_SoilFu.label>
+  <RFF_Gravel.label>RFF 자갈</RFF_Gravel.label>
+  <RFF_Ice.label>RFF 얼음</RFF_Ice.label>
+  <RFF_Marsh.label>RFF 늪지</RFF_Marsh.label>
+  <RFF_SoilMarshy.label>RFF 습지 토양</RFF_SoilMarshy.label>
+  <RFF_Mud.label>RFF 진흙</RFF_Mud.label>
+  <RFF_PackedDirt.label>RFF 다져진 흙</RFF_PackedDirt.label>
+  <RFF_SoilRich.label>RFF 기름진 토양</RFF_SoilRich.label>
+  <RFF_RockyDirt.label>RFF 자갈</RFF_RockyDirt.label>
+  <RFF_Sand.label>RFF 모래</RFF_Sand.label>
+  <RFF_WaterShallow.label>RFF 얕은 물</RFF_WaterShallow.label>
+  <RFF_Topsoil.label>RFF 준설토</RFF_Topsoil.label>
+
+  <!--1539311991_190814_Fishing-->
+  <Fishable.label>낚시 가능</Fishable.label>
+  <IceFishable.label>얼음낚시 가능</IceFishable.label>
+
+  <!--1543671683_190607_[1.0]ResourcePackCore-->
+  <RPC_DirtGatherable.label>토양 채집</RPC_DirtGatherable.label>
+  <RPC_GravelGatherable.label>자갈 채집</RPC_GravelGatherable.label>
+  <RPC_IceGatherable.label>얼음 채집</RPC_IceGatherable.label>
+  <RPC_MudGatherable.label>진흙 채집</RPC_MudGatherable.label>
+  <RPC_SandGatherable.label>모래 채집</RPC_SandGatherable.label>
+
+</LanguageData>

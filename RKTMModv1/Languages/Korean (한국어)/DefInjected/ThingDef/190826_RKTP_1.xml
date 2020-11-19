@@ -5333,11 +5333,6 @@
   <SleepingPills.ingestible.ingestReportString>{0} 복용</SleepingPills.ingestible.ingestReportString>
   <Antidepressants.description>이 약물은 마음의 상처를 치유 할 수 있다고 말합니다. 하지만 합성 약물로 인해 뇌의 기능을 저하시켜 학습능력이 낮아집니다. 1일간 지속됩니다.</Antidepressants.description>
 
-  <!--1613783924_190519_Roads of the Rim-->
-  <ConcreteBridge_Blueprint.label>콘크리트 교량 (청사진)</ConcreteBridge_Blueprint.label>
-  <ConcreteBridge_Frame.label>콘크리트 교량 (건설 중)</ConcreteBridge_Frame.label>
-  <ConcreteBridge_Frame.description>작업이 진행중 입니다.</ConcreteBridge_Frame.description>
-
   <!--1631339846_190818_Farmable Neutroamine-->
   <item_Neutroaleaf.label>뉴트로아 이파리</item_Neutroaleaf.label>
   <item_Neutroaleaf.description>뉴트로아 잎사귀 식물의 커다란 이파리는 가공시 강력한 치유력을 가질 수 있습니다.</item_Neutroaleaf.description>
