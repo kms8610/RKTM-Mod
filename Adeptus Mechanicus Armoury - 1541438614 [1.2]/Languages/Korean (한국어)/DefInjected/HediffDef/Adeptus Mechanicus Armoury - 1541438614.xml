@@ -1,56 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
+  <OGGrenadeFlashHediff.description>description</OGGrenadeFlashHediff.description>
   <OGGrenadeFlashHediff.label>눈이 멈</OGGrenadeFlashHediff.label>
   <OGGrenadeFlashHediff.labelNoun>눈이 멈</OGGrenadeFlashHediff.labelNoun>
+  <AcidGas.description>description</AcidGas.description>
   <AcidGas.label>산성가스</AcidGas.label>
   <AcidGas.stages.0.label>초기</AcidGas.stages.0.label>
   <AcidGas.stages.1.label>가벼움</AcidGas.stages.1.label>
   <AcidGas.stages.2.label>진행됨</AcidGas.stages.2.label>
   <AcidGas.stages.3.label>심각함</AcidGas.stages.3.label>
+  <ToxicGas.description>description</ToxicGas.description>
   <ToxicGas.label>독가스</ToxicGas.label>
   <ToxicGas.stages.0.label>초기</ToxicGas.stages.0.label>
   <ToxicGas.stages.1.label>가벼움</ToxicGas.stages.1.label>
   <ToxicGas.stages.2.label>진행됨</ToxicGas.stages.2.label>
   <ToxicGas.stages.3.label>심각함</ToxicGas.stages.3.label>
   <ToxicGas.stages.4.label>극심함</ToxicGas.stages.4.label>
+  <RageGas.description>description</RageGas.description>
   <RageGas.label>분노가스</RageGas.label>
   <RageGas.stages.0.label>초기</RageGas.stages.0.label>
   <RageGas.stages.1.label>가벼움</RageGas.stages.1.label>
   <RageGas.stages.2.label>진행됨</RageGas.stages.2.label>
   <RageGas.stages.3.label>심각함</RageGas.stages.3.label>
   <RageGas.stages.4.label>극심함</RageGas.stages.4.label>
+  <TearGas.description>description</TearGas.description>
   <TearGas.label>최루가스</TearGas.label>
   <TearGas.stages.0.label>초기</TearGas.stages.0.label>
   <TearGas.stages.1.label>가벼움</TearGas.stages.1.label>
   <TearGas.stages.2.label>심각함</TearGas.stages.2.label>
   <TearGas.stages.3.label>극심함</TearGas.stages.3.label>
   <TearGas.stages.4.label>눈이 멈</TearGas.stages.4.label>
+  <SleepGas.description>description</SleepGas.description>
   <SleepGas.label>수면가스</SleepGas.label>
   <SleepGas.stages.0.label>졸림</SleepGas.stages.0.label>
   <SleepGas.stages.1.label>피곤함</SleepGas.stages.1.label>
   <SleepGas.stages.2.label>탈진함</SleepGas.stages.2.label>
   <SleepGas.stages.3.label>의식을 잃음</SleepGas.stages.3.label>
   <SleepGas.stages.4.label>혼수상태</SleepGas.stages.4.label>
+  <FearGas.description>description</FearGas.description>
   <FearGas.label>공포가스</FearGas.label>
   <FearGas.stages.0.label>가벼움</FearGas.stages.0.label>
   <FearGas.stages.1.label>가벼움</FearGas.stages.1.label>
   <FearGas.stages.2.label>심각함</FearGas.stages.2.label>
   <FearGas.stages.3.label>극심함</FearGas.stages.3.label>
+  <HallucinogenGas.description>description</HallucinogenGas.description>
   <HallucinogenGas.label>환각가스</HallucinogenGas.label>
   <HallucinogenGas.stages.0.label>초기</HallucinogenGas.stages.0.label>
   <HallucinogenGas.stages.1.label>가벼움</HallucinogenGas.stages.1.label>
   <HallucinogenGas.stages.2.label>진행됨</HallucinogenGas.stages.2.label>
   <HallucinogenGas.stages.3.label>심각함</HallucinogenGas.stages.3.label>
   <HallucinogenGas.stages.4.label>극심함</HallucinogenGas.stages.4.label>
+  <OG_unConsciousness.description>description</OG_unConsciousness.description>
   <OG_unConsciousness.label>의식 불명</OG_unConsciousness.label>
+  <hediff_Pacifier.description>description</hediff_Pacifier.description>
   <hediff_Pacifier.label>감전</hediff_Pacifier.label>
   <hediff_Pacifier.stages.0.label>가벼움</hediff_Pacifier.stages.0.label>
   <hediff_Pacifier.stages.1.label>심각함</hediff_Pacifier.stages.1.label>
   <hediff_Pacifier.stages.2.label>극심함</hediff_Pacifier.stages.2.label>
   <hediff_Pacifier.injuryProps.destroyedLabel>파괴됨</hediff_Pacifier.injuryProps.destroyedLabel>
   <hediff_Pacifier.injuryProps.destroyedOutLabel>불붙음</hediff_Pacifier.injuryProps.destroyedOutLabel>
+  <Toxins.description>description</Toxins.description>
   <Toxins.label>독성 축적</Toxins.label>
   <Toxins.stages.0.label>초기</Toxins.stages.0.label>
   <Toxins.stages.1.label>초기</Toxins.stages.1.label>
@@ -58,6 +67,7 @@
   <Toxins.stages.3.label>진행됨</Toxins.stages.3.label>
   <Toxins.stages.4.label>심각함</Toxins.stages.4.label>
   <Toxins.stages.5.label>극심함</Toxins.stages.5.label>
+  <RadiationPoisioning.description>description</RadiationPoisioning.description>
   <RadiationPoisioning.label>방사능 중독</RadiationPoisioning.label>
   <RadiationPoisioning.stages.0.label>초기</RadiationPoisioning.stages.0.label>
   <RadiationPoisioning.stages.1.label>초기</RadiationPoisioning.stages.1.label>
@@ -65,100 +75,162 @@
   <RadiationPoisioning.stages.3.label>진행됨</RadiationPoisioning.stages.3.label>
   <RadiationPoisioning.stages.4.label>심각함</RadiationPoisioning.stages.4.label>
   <RadiationPoisioning.stages.5.label>극심함</RadiationPoisioning.stages.5.label>
+  <BrainDamageModerate.description>description</BrainDamageModerate.description>
   <BrainDamageModerate.label>뇌손상</BrainDamageModerate.label>
+  <BrainDamageSevere.description>description</BrainDamageSevere.description>
   <BrainDamageSevere.label>심각한 뇌손상</BrainDamageSevere.label>
+  <FWPsychicShock.description>description</FWPsychicShock.description>
   <FWPsychicShock.label>정신충격</FWPsychicShock.label>
   <FWPsychicShock.labelNoun>정신충격</FWPsychicShock.labelNoun>
+  <PsychicInterfearance.description>description</PsychicInterfearance.description>
   <PsychicInterfearance.label>정신간섭</PsychicInterfearance.label>
   <PsychicInterfearance.labelNoun>정신간섭</PsychicInterfearance.labelNoun>
+  <PlasmaBurn.description>description</PlasmaBurn.description>
   <PlasmaBurn.label>플라즈마 화상</PlasmaBurn.label>
+  <PlasmaBurn.labelNoun>플라즈마 화상</PlasmaBurn.labelNoun>
   <PlasmaBurn.comps.0.labelTendedWell>붕대 감음</PlasmaBurn.comps.0.labelTendedWell>
   <PlasmaBurn.comps.0.labelTendedWellInner>봉합됨</PlasmaBurn.comps.0.labelTendedWellInner>
   <PlasmaBurn.comps.0.labelSolidTendedWell>접합됨</PlasmaBurn.comps.0.labelSolidTendedWell>
+  <PlasmaBurn.comps.2.permanentLabel>plasma burn scar</PlasmaBurn.comps.2.permanentLabel>
   <PlasmaBurn.injuryProps.destroyedLabel>불에 타버림</PlasmaBurn.injuryProps.destroyedLabel>
   <PlasmaBurn.injuryProps.destroyedOutLabel>불에 타버림</PlasmaBurn.injuryProps.destroyedOutLabel>
-  <PlasmaBurn.labelNoun>플라즈마 화상</PlasmaBurn.labelNoun>
+  <LaserBurn.description>description</LaserBurn.description>
   <LaserBurn.label>레이저 화상</LaserBurn.label>
+  <LaserBurn.labelNoun>레이저 화상</LaserBurn.labelNoun>
   <LaserBurn.comps.0.labelTendedWell>붕대 감음</LaserBurn.comps.0.labelTendedWell>
   <LaserBurn.comps.0.labelTendedWellInner>봉합됨</LaserBurn.comps.0.labelTendedWellInner>
   <LaserBurn.comps.0.labelSolidTendedWell>접합됨</LaserBurn.comps.0.labelSolidTendedWell>
+  <LaserBurn.comps.2.permanentLabel>old las gunshot</LaserBurn.comps.2.permanentLabel>
+  <LaserBurn.comps.2.instantlyPermanentLabel>permanent las gunshot injury</LaserBurn.comps.2.instantlyPermanentLabel>
   <LaserBurn.injuryProps.destroyedLabel>불에 타버림</LaserBurn.injuryProps.destroyedLabel>
   <LaserBurn.injuryProps.destroyedOutLabel>불에 타버림</LaserBurn.injuryProps.destroyedOutLabel>
-  <LaserBurn.labelNoun>레이저 화상</LaserBurn.labelNoun>
+  <MeltaBurn.description>description</MeltaBurn.description>
   <MeltaBurn.label>멜타 화상</MeltaBurn.label>
+  <MeltaBurn.labelNoun>멜타 화상</MeltaBurn.labelNoun>
   <MeltaBurn.comps.0.labelTendedWell>붕대 감음</MeltaBurn.comps.0.labelTendedWell>
   <MeltaBurn.comps.0.labelTendedWellInner>봉합됨</MeltaBurn.comps.0.labelTendedWellInner>
   <MeltaBurn.comps.0.labelSolidTendedWell>접합됨</MeltaBurn.comps.0.labelSolidTendedWell>
+  <MeltaBurn.comps.2.permanentLabel>melta burn scar</MeltaBurn.comps.2.permanentLabel>
   <MeltaBurn.injuryProps.destroyedLabel>소각됨</MeltaBurn.injuryProps.destroyedLabel>
   <MeltaBurn.injuryProps.destroyedOutLabel>소각됨</MeltaBurn.injuryProps.destroyedOutLabel>
-  <MeltaBurn.labelNoun>멜타 화상</MeltaBurn.labelNoun>
+  <ElectricalBurn.description>description</ElectricalBurn.description>
   <ElectricalBurn.label>전기 화상</ElectricalBurn.label>
+  <ElectricalBurn.labelNoun>전기 화상</ElectricalBurn.labelNoun>
   <ElectricalBurn.comps.0.labelTendedWell>붕대 감음</ElectricalBurn.comps.0.labelTendedWell>
   <ElectricalBurn.comps.0.labelTendedWellInner>봉합됨</ElectricalBurn.comps.0.labelTendedWellInner>
   <ElectricalBurn.comps.0.labelSolidTendedWell>접합됨</ElectricalBurn.comps.0.labelSolidTendedWell>
+  <ElectricalBurn.comps.2.permanentLabel>electrical burn scar</ElectricalBurn.comps.2.permanentLabel>
   <ElectricalBurn.injuryProps.destroyedLabel>불에 타버림</ElectricalBurn.injuryProps.destroyedLabel>
   <ElectricalBurn.injuryProps.destroyedOutLabel>불에 타버림</ElectricalBurn.injuryProps.destroyedOutLabel>
-  <ElectricalBurn.labelNoun>전기 화상</ElectricalBurn.labelNoun>
+  <RadiumGunshot.description>description</RadiumGunshot.description>
   <RadiumGunshot.label>총상</RadiumGunshot.label>
+  <RadiumGunshot.labelNoun>방사선 총상</RadiumGunshot.labelNoun>
   <RadiumGunshot.comps.0.labelTendedWell>붕대 감음</RadiumGunshot.comps.0.labelTendedWell>
   <RadiumGunshot.comps.0.labelTendedWellInner>봉합됨</RadiumGunshot.comps.0.labelTendedWellInner>
   <RadiumGunshot.comps.0.labelSolidTendedWell>접합됨</RadiumGunshot.comps.0.labelSolidTendedWell>
+  <RadiumGunshot.comps.2.permanentLabel>irradiated scar</RadiumGunshot.comps.2.permanentLabel>
   <RadiumGunshot.injuryProps.destroyedLabel>총상으로 잃음</RadiumGunshot.injuryProps.destroyedLabel>
   <RadiumGunshot.injuryProps.destroyedOutLabel>총상으로 잃음</RadiumGunshot.injuryProps.destroyedOutLabel>
-  <RadiumGunshot.labelNoun>방사선 총상</RadiumGunshot.labelNoun>
+  <GalvanicWound.description>description</GalvanicWound.description>
   <GalvanicWound.label>갈바니 총상</GalvanicWound.label>
+  <GalvanicWound.labelNoun>갈바니 총상</GalvanicWound.labelNoun>
   <GalvanicWound.comps.0.labelTendedWell>붕대 감음</GalvanicWound.comps.0.labelTendedWell>
   <GalvanicWound.comps.0.labelTendedWellInner>봉합됨</GalvanicWound.comps.0.labelTendedWellInner>
   <GalvanicWound.comps.0.labelSolidTendedWell>접합됨</GalvanicWound.comps.0.labelSolidTendedWell>
+  <GalvanicWound.comps.2.permanentLabel>galvanic scar</GalvanicWound.comps.2.permanentLabel>
   <GalvanicWound.injuryProps.destroyedLabel>총상으로 잃음</GalvanicWound.injuryProps.destroyedLabel>
   <GalvanicWound.injuryProps.destroyedOutLabel>총상으로 잃음</GalvanicWound.injuryProps.destroyedOutLabel>
-  <GalvanicWound.labelNoun>갈바니 총상</GalvanicWound.labelNoun>
+  <TransuranicWound.description>description</TransuranicWound.description>
   <TransuranicWound.label>트랜슈래닉 총상</TransuranicWound.label>
+  <TransuranicWound.labelNoun>트랜슈래닉 총상</TransuranicWound.labelNoun>
   <TransuranicWound.comps.0.labelTendedWell>붕대 감음</TransuranicWound.comps.0.labelTendedWell>
   <TransuranicWound.comps.0.labelTendedWellInner>봉합됨</TransuranicWound.comps.0.labelTendedWellInner>
   <TransuranicWound.comps.0.labelSolidTendedWell>접합됨</TransuranicWound.comps.0.labelSolidTendedWell>
+  <TransuranicWound.comps.2.permanentLabel>transuranic scar</TransuranicWound.comps.2.permanentLabel>
   <TransuranicWound.injuryProps.destroyedLabel>총상으로 잃음</TransuranicWound.injuryProps.destroyedLabel>
   <TransuranicWound.injuryProps.destroyedOutLabel>총상으로 잃음</TransuranicWound.injuryProps.destroyedOutLabel>
-  <TransuranicWound.labelNoun>트랜슈래닉 총상</TransuranicWound.labelNoun>
+  <GaussWound.description>description</GaussWound.description>
   <GaussWound.label>가우스 상처</GaussWound.label>
+  <GaussWound.labelNoun>가우스 상처</GaussWound.labelNoun>
   <GaussWound.comps.0.labelTendedWell>붕대 감음</GaussWound.comps.0.labelTendedWell>
   <GaussWound.comps.0.labelTendedWellInner>봉합됨</GaussWound.comps.0.labelTendedWellInner>
   <GaussWound.comps.0.labelSolidTendedWell>접합됨</GaussWound.comps.0.labelSolidTendedWell>
+  <GaussWound.comps.2.permanentLabel>flaying scar</GaussWound.comps.2.permanentLabel>
   <GaussWound.injuryProps.destroyedLabel>붕괴됨</GaussWound.injuryProps.destroyedLabel>
   <GaussWound.injuryProps.destroyedOutLabel>붕괴됨</GaussWound.injuryProps.destroyedOutLabel>
-  <GaussWound.labelNoun>가우스 상처</GaussWound.labelNoun>
-  <PowerCut.label>파워 웨폰(베임)</PowerCut.label>
-  <PowerCut.injuryProps.destroyedLabel>끊어짐</PowerCut.injuryProps.destroyedLabel>
-  <PowerCut.injuryProps.destroyedOutLabel>잘림</PowerCut.injuryProps.destroyedOutLabel>
-  <PowerCut.labelNoun>베임</PowerCut.labelNoun>
-  <PowerStab.label>파워 웨폰(찔림)</PowerStab.label>
-  <PowerStab.injuryProps.destroyedLabel>끊어짐</PowerStab.injuryProps.destroyedLabel>
-  <PowerStab.injuryProps.destroyedOutLabel>잘림</PowerStab.injuryProps.destroyedOutLabel>
-  <PowerStab.labelNoun>찔린 상처</PowerStab.labelNoun>
-  <PowerBlunt.label>파워 웨폰(뭉개짐)</PowerBlunt.label>
-  <PowerBlunt.injuryProps.destroyedLabel>으스러짐</PowerBlunt.injuryProps.destroyedLabel>
-  <PowerBlunt.labelNoun>으스러진 상처</PowerBlunt.labelNoun>
-  <ForceCut.label>포스 웨폰(베임)</ForceCut.label>
-  <ForceCut.injuryProps.destroyedLabel>끊어짐</ForceCut.injuryProps.destroyedLabel>
-  <ForceCut.injuryProps.destroyedOutLabel>잘림</ForceCut.injuryProps.destroyedOutLabel>
-  <ForceCut.labelNoun>베임</ForceCut.labelNoun>
-  <ForceStab.label>포스 웨폰(찔림)</ForceStab.label>
-  <ForceStab.injuryProps.destroyedLabel>끊어짐</ForceStab.injuryProps.destroyedLabel>
-  <ForceStab.injuryProps.destroyedOutLabel>잘림</ForceStab.injuryProps.destroyedOutLabel>
-  <ForceStab.labelNoun>찔린 상처</ForceStab.labelNoun>
-  <ForceBlunt.label>포스 웨폰(뭉개짐)</ForceBlunt.label>
-  <ForceBlunt.injuryProps.destroyedLabel>으스러짐</ForceBlunt.injuryProps.destroyedLabel>
-  <ForceBlunt.labelNoun>으스러진 상처</ForceBlunt.labelNoun>
+  <CutBase.description>description</CutBase.description>
+  <CutBase.labelNounPretty>{0} in the {1}</CutBase.labelNounPretty>
+  <CutBase.label>cut</CutBase.label>
+  <CutBase.labelNoun>a cut</CutBase.labelNoun>
+  <CutBase.comps.0.labelTendedWell>bandaged</CutBase.comps.0.labelTendedWell>
+  <CutBase.comps.0.labelTendedWellInner>sutured</CutBase.comps.0.labelTendedWellInner>
+  <CutBase.comps.0.labelSolidTendedWell>set</CutBase.comps.0.labelSolidTendedWell>
+  <CutBase.comps.2.permanentLabel>cut scar</CutBase.comps.2.permanentLabel>
+  <CutBase.injuryProps.destroyedLabel>Cut off</CutBase.injuryProps.destroyedLabel>
+  <CutBase.injuryProps.destroyedOutLabel>Cut out</CutBase.injuryProps.destroyedOutLabel>
+  <Stab.description>description</Stab.description>
+  <Stab.labelNounPretty>{0} in the {1}</Stab.labelNounPretty>
+  <Stab.label>stab</Stab.label>
+  <Stab.labelNoun>a stab wound</Stab.labelNoun>
+  <Stab.comps.0.labelTendedWell>bandaged</Stab.comps.0.labelTendedWell>
+  <Stab.comps.0.labelTendedWellInner>sutured</Stab.comps.0.labelTendedWellInner>
+  <Stab.comps.0.labelSolidTendedWell>set</Stab.comps.0.labelSolidTendedWell>
+  <Stab.comps.2.permanentLabel>stab scar</Stab.comps.2.permanentLabel>
+  <Stab.injuryProps.destroyedLabel>Cut off</Stab.injuryProps.destroyedLabel>
+  <Stab.injuryProps.destroyedOutLabel>Cut out</Stab.injuryProps.destroyedOutLabel>
+  <Crush.description>description</Crush.description>
+  <Crush.labelNounPretty>{0} in the {1}</Crush.labelNounPretty>
+  <Crush.label>crush</Crush.label>
+  <Crush.labelNoun>a crush wound</Crush.labelNoun>
+  <Crush.comps.0.labelTendedWell>bandaged</Crush.comps.0.labelTendedWell>
+  <Crush.comps.0.labelTendedWellInner>sutured</Crush.comps.0.labelTendedWellInner>
+  <Crush.comps.0.labelSolidTendedWell>set</Crush.comps.0.labelSolidTendedWell>
+  <Crush.comps.2.permanentLabel>mangled scar</Crush.comps.2.permanentLabel>
+  <Crush.injuryProps.destroyedLabel>Crushed</Crush.injuryProps.destroyedLabel>
+  <OG_PowerWeapon_Cut.description>description</OG_PowerWeapon_Cut.description>
+  <OG_PowerWeapon_Cut.label>power weapon(cut)</OG_PowerWeapon_Cut.label>
+  <OG_PowerWeapon_Cut.labelNoun>a cut</OG_PowerWeapon_Cut.labelNoun>
+  <OG_PowerWeapon_Cut.comps.0.labelTendedWell>bandaged</OG_PowerWeapon_Cut.comps.0.labelTendedWell>
+  <OG_PowerWeapon_Cut.comps.0.labelTendedWellInner>sutured</OG_PowerWeapon_Cut.comps.0.labelTendedWellInner>
+  <OG_PowerWeapon_Cut.comps.0.labelSolidTendedWell>set</OG_PowerWeapon_Cut.comps.0.labelSolidTendedWell>
+  <OG_PowerWeapon_Cut.comps.2.permanentLabel>cut scar</OG_PowerWeapon_Cut.comps.2.permanentLabel>
+  <OG_PowerWeapon_Cut.injuryProps.destroyedLabel>Cut off</OG_PowerWeapon_Cut.injuryProps.destroyedLabel>
+  <OG_PowerWeapon_Cut.injuryProps.destroyedOutLabel>Cut out</OG_PowerWeapon_Cut.injuryProps.destroyedOutLabel>
+  <OG_PowerWeapon_Stab.description>description</OG_PowerWeapon_Stab.description>
+  <OG_PowerWeapon_Stab.label>power weapon(stab)</OG_PowerWeapon_Stab.label>
+  <OG_PowerWeapon_Stab.labelNoun>a stab wound</OG_PowerWeapon_Stab.labelNoun>
+  <OG_PowerWeapon_Stab.comps.0.labelTendedWell>bandaged</OG_PowerWeapon_Stab.comps.0.labelTendedWell>
+  <OG_PowerWeapon_Stab.comps.0.labelTendedWellInner>sutured</OG_PowerWeapon_Stab.comps.0.labelTendedWellInner>
+  <OG_PowerWeapon_Stab.comps.0.labelSolidTendedWell>set</OG_PowerWeapon_Stab.comps.0.labelSolidTendedWell>
+  <OG_PowerWeapon_Stab.comps.2.permanentLabel>stab scar</OG_PowerWeapon_Stab.comps.2.permanentLabel>
+  <OG_PowerWeapon_Stab.injuryProps.destroyedLabel>Cut off</OG_PowerWeapon_Stab.injuryProps.destroyedLabel>
+  <OG_PowerWeapon_Stab.injuryProps.destroyedOutLabel>Cut out</OG_PowerWeapon_Stab.injuryProps.destroyedOutLabel>
+  <OG_PowerWeapon_Blunt.description>description</OG_PowerWeapon_Blunt.description>
+  <OG_PowerWeapon_Blunt.label>power weapon(blunt)</OG_PowerWeapon_Blunt.label>
+  <OG_PowerWeapon_Blunt.labelNoun>a crush wound</OG_PowerWeapon_Blunt.labelNoun>
+  <OG_PowerWeapon_Blunt.comps.0.labelTendedWell>bandaged</OG_PowerWeapon_Blunt.comps.0.labelTendedWell>
+  <OG_PowerWeapon_Blunt.comps.0.labelTendedWellInner>sutured</OG_PowerWeapon_Blunt.comps.0.labelTendedWellInner>
+  <OG_PowerWeapon_Blunt.comps.0.labelSolidTendedWell>set</OG_PowerWeapon_Blunt.comps.0.labelSolidTendedWell>
+  <OG_PowerWeapon_Blunt.comps.2.permanentLabel>mangled scar</OG_PowerWeapon_Blunt.comps.2.permanentLabel>
+  <OG_PowerWeapon_Blunt.injuryProps.destroyedLabel>Crushed</OG_PowerWeapon_Blunt.injuryProps.destroyedLabel>
+  <OG_ForceWeapon_Cut.label>force weapon(cut)</OG_ForceWeapon_Cut.label>
+  <OG_ForceWeapon_Stab.label>force weapon(stab)</OG_ForceWeapon_Stab.label>
+  <OG_ForceWeapon_Blunt.label>Force weapon(blunt)</OG_ForceWeapon_Blunt.label>
+  <OGI_HeDiff_ServoArm.description>description</OGI_HeDiff_ServoArm.description>
   <OGI_HeDiff_ServoArm.label>서보-암</OGI_HeDiff_ServoArm.label>
-  <OGI_HeDiff_ServoArm.comps.0.tools.0.label>서보-암</OGI_HeDiff_ServoArm.comps.0.tools.0.label>
-  <OGI_HeDiff_ServoArm.stages.0.label>초기</OGI_HeDiff_ServoArm.stages.0.label>
   <OGI_HeDiff_ServoArm.labelNoun>서보-암 공격</OGI_HeDiff_ServoArm.labelNoun>
+  <OGI_HeDiff_ServoArm.stages.0.label>초기</OGI_HeDiff_ServoArm.stages.0.label>
+  <OGI_HeDiff_ServoArm.comps.0.tools.0.label>서보-암</OGI_HeDiff_ServoArm.comps.0.tools.0.label>
+  <Holographic.description>description</Holographic.description>
+  <Holographic.label>Holographic</Holographic.label>
+  <Holographic.labelNoun>Holographic</Holographic.labelNoun>
+  <OGE_HeDiff_BansheeScream.description>description</OGE_HeDiff_BansheeScream.description>
   <OGE_HeDiff_BansheeScream.label>밴시의 비명</OGE_HeDiff_BansheeScream.label>
-  <OGE_HeDiff_BansheeScream.comps.0.tools.0.label>밴시의 비명</OGE_HeDiff_BansheeScream.comps.0.tools.0.label>
-  <OGE_HeDiff_BansheeScream.stages.0.label>초기</OGE_HeDiff_BansheeScream.stages.0.label>
   <OGE_HeDiff_BansheeScream.labelNoun>밴시 음파 공격</OGE_HeDiff_BansheeScream.labelNoun>
-  <OGE_HeDiff_InbuiltShurikenCatapult.label>내장된 슈리켄 캐터펄트</OGE_HeDiff_InbuiltShurikenCatapult.label>
-  <OGE_HeDiff_InbuiltShurikenCatapult.stages.0.label>초기</OGE_HeDiff_InbuiltShurikenCatapult.stages.0.label>
-  <OGE_HeDiff_InbuiltShurikenCatapult.labelNoun>축적된 슈리켄 캐터펄트(Inbuilt Shuriken Catapult)</OGE_HeDiff_InbuiltShurikenCatapult.labelNoun>
-
+  <OGE_HeDiff_BansheeScream.stages.0.label>초기</OGE_HeDiff_BansheeScream.stages.0.label>
+  <OGE_HeDiff_BansheeScream.comps.0.tools.0.label>밴시의 비명</OGE_HeDiff_BansheeScream.comps.0.tools.0.label>
+  <Regenerating_Part_OG.label>regrowing</Regenerating_Part_OG.label>
+  <Regenerating_Part_OG.description>description</Regenerating_Part_OG.description>
+  <Regenerated_Part_OG.label>regenerated bodypart</Regenerated_Part_OG.label>
+  <Regenerated_Part_OG.description>description</Regenerated_Part_OG.description>
 </LanguageData>

@@ -23,11 +23,6 @@
   <BetharianBorerFinishedLabel>베사리안 천공기 동작 완료</BetharianBorerFinishedLabel>
   <BetharianBorerFinishedText>베사리안 천공기의 동작이 완료되었습니다. 천공기를 해체하고 발전기를 굴착된 구멍 위에 지으세요.</BetharianBorerFinishedText>
 
-  <!--1543896230_190714_Playable Feral Orkz-->
-  <OGOrk_FungalHarvest_SuccessMessage>{0} 발견</OGOrk_FungalHarvest_SuccessMessage>
-  <OGOrk_FungalHarvest_FailMessage>흥미있는 것은 아무것도 발견하지 못했습니다.</OGOrk_FungalHarvest_FailMessage>
-  <LetterLabelAMXBOrkzUpdate>옭스 업데이트</LetterLabelAMXBOrkzUpdate>
-
   <!--1545178908_190519_Callistans(1.0)-->
   <ROSBasicMachineStatus_Idle>일하지 않는 기계가 존재합니다.</ROSBasicMachineStatus_Idle>
   <ROSBasicMachineStatus_Crafting>기계가 제작 중입니다.</ROSBasicMachineStatus_Crafting>

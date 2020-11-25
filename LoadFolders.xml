@@ -48,7 +48,6 @@
 	<li IfModActive="notfood.MoreThanCapable">More Than Capable - 1803932954 [1.2]</li>
 	<li IfModActive="syrchalis.individuality">Individuality - 1497105115 [1.2]</li>
 	<li IfModActive="kentington.saveourship2">Save Our Ship 2 - 1909914131 [1.2]</li>
-	<li IfModActive="VanillaExpanded.VCEF">Vanilla Fishing Expanded - 1914064942 [1.2]</li>
 	<li IfModActive="nmeijer.settlementinventory">Settlement Inventory - 2083067219 [1.2]</li>
 	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268 [1.2]</li>
 	<li IfModActive="Aelanna.EccentricTech.Cosmetics">Eccentric Tech - Cosmetic Modifications - 2014890157 [1.2]</li>
@@ -288,6 +287,13 @@
 	<li IfModActive="AR13S.Arachne1point0">Arachne Race - 1589454687 [1.2]</li>
 	<li IfModActive="Agracore.BSM">Better Survival Meals - 2283449489 [1.2]</li>
 	<li IfModActive="Orion.Gastronomy">Gastronomy - 2279786905 [1.2]</li>
+	<!-- 20.11.20 -->
+	<li IfModActive="vanillaexpanded.achievements">Vanilla Achievements Expanded - 2288125657 [1.2]</li>
+	<li IfModActive="VanillaExpanded.VCEF">Vanilla Fishing Expanded - 1914064942 [1.2]</li>
+	<!-- 20.11.22 -->
+	<li IfModActive="UnlimitedHugs.HugsLib">HugsLib - 818773962 [1.2]</li>
+	<li IfModActive="aRandomKiwi.RimThemes">RimThemes - 1668983184 [1.2]</li>
+	<li IfModActive="Ogliss.FeralOrkz">Playable Feral Orkz - 1543896230 [1.2]</li>
   </v1.2>
 
 </loadFolders>

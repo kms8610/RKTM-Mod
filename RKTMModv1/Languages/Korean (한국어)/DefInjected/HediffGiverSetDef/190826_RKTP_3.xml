@@ -15,8 +15,4 @@
   <LotRD_DwarfTraitsGiver.hediffGivers.3.letterLabel>외상 서번트 증후군</LotRD_DwarfTraitsGiver.hediffGivers.3.letterLabel>
   <LotRD_DwarfTraitsGiver.hediffGivers.3.letter>[PAWN_nameDef](은)는 뇌손상으로 인해 기묘한 서번트 증후군 능력을 갖게 되었습니다.</LotRD_DwarfTraitsGiver.hediffGivers.3.letter>
 
-  <!--1543896230_190714_Playable Feral Orkz-->
-  <OrganicAgeless.hediffGivers.3.letterLabel>트라우마 서번트</OrganicAgeless.hediffGivers.3.letterLabel>
-  <OrganicAgeless.hediffGivers.3.letter>[PAWN_nameDef]는 뇌손상으로 인해 [PAWN_pronoun] 이상한 서번트같은 능력이 발전하였습니다.</OrganicAgeless.hediffGivers.3.letter>
-
 </LanguageData>

@@ -63,11 +63,6 @@
   <NamerBaseLaniusVillage.rulePack.rulesStrings.3>name->[color] [Symbol] [Location]</NamerBaseLaniusVillage.rulePack.rulesStrings.3>
   <NamerBaseLaniusVillage.rulePack.rulesStrings.4>name->The [MetalAdjective] [Symbol] [vesselRelated]</NamerBaseLaniusVillage.rulePack.rulesStrings.4>
 
-  <!--1543896230_190714_Playable Feral Orkz-->
-  <NamerOGOrkFaction.rulePack.rulesStrings.0>name->[OGOrkClans1] [OGOrkClans2] [OGOrkClans3]</NamerOGOrkFaction.rulePack.rulesStrings.0>
-  <NamerOGOrkBases.rulePack.rulesStrings.0>name->[OGOrkBaseNames]</NamerOGOrkBases.rulePack.rulesStrings.0>
-  <NamerPersonOrk.rulePack.rulesStrings.0>name->[OGOrkFirst] [OGOrkSecond]</NamerPersonOrk.rulePack.rulesStrings.0>
-
   <!--1545178908_190519_Callistans(1.0)-->
   <NamerCallistanMale.rulePack.rulesStrings.0>r_name(p=12)->[CalFirstMale] [CalLast]</NamerCallistanMale.rulePack.rulesStrings.0>
   <NamerCallistanMale.rulePack.rulesStrings.1>r_name->[CalSyl][CalFirstMale] [CalSyl][CalSyl]</NamerCallistanMale.rulePack.rulesStrings.1>

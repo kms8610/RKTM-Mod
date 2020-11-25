@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
-  <PowerCut.label>강력한 베기</PowerCut.label>
-  <PowerStab.label>강력한 찌르기</PowerStab.label>
-  <PowerBlunt.label>강력한 스매쉬</PowerBlunt.label>
-  <TransonicCut.label>천음속 베기</TransonicCut.label>
-  <TransonicStab.label>천음속 찌르기</TransonicStab.label>
-  <TransonicBlunt.label>천음속 스매쉬</TransonicBlunt.label>
-  <PoisionCut.label>독 베기</PoisionCut.label>
-  <PoisionStab.label>독 찌르기</PoisionStab.label>
-  <PlagueCut.label>감염된 베기</PlagueCut.label>
-  <PlagueStab.label>감염된 찌르기</PlagueStab.label>
-  <ForceCut.label>포스 베기</ForceCut.label>
-  <ForceStab.label>포스 찌르기</ForceStab.label>
-  <ForceBlunt.label>포스 스매쉬</ForceBlunt.label>
-  <Pacifier.label>조정자</Pacifier.label>
-  <PacifierBlunt.label>조정자의 뭉개기</PacifierBlunt.label>
-  <PacifierPoke.label>조정자의 찌르기</PacifierPoke.label>
-  <ThunderBlunt.label>썬더해머 스매쉬</ThunderBlunt.label>
-
+  <OG_PowerWeapon_Cut.label>cut</OG_PowerWeapon_Cut.label>
+  <OG_PowerWeapon_Stab.label>stab</OG_PowerWeapon_Stab.label>
+  <OG_PowerWeapon_Blunt.label>smash</OG_PowerWeapon_Blunt.label>
+  <OG_PoisionWeapon_Cut.label>cut</OG_PoisionWeapon_Cut.label>
+  <OG_PoisionWeapon_Stab.label>stab</OG_PoisionWeapon_Stab.label>
+  <OG_PlagueWeapon_Cut.label>cut</OG_PlagueWeapon_Cut.label>
+  <OG_PlagueWeapon_Stab.label>stab</OG_PlagueWeapon_Stab.label>
+  <OG_ForceWeapon_Cut.label>cut</OG_ForceWeapon_Cut.label>
+  <OG_ForceWeapon_Stab.label>stab</OG_ForceWeapon_Stab.label>
+  <OG_ForceWeapon_Blunt.label>smash</OG_ForceWeapon_Blunt.label>
+  <OG_WitchbladeWeapon_Cut.label>cut</OG_WitchbladeWeapon_Cut.label>
+  <OG_WitchbladeWeapon_Stab.label>stab</OG_WitchbladeWeapon_Stab.label>
+  <OG_RendingWeapon_Cut.label>cut</OG_RendingWeapon_Cut.label>
+  <OG_RendingWeapon_Stab.label>stab</OG_RendingWeapon_Stab.label>
+  <OG_RendingWeapon_Blunt.label>smash</OG_RendingWeapon_Blunt.label>
+  <OG_PacifierWeapon_Blunt.label>blunt</OG_PacifierWeapon_Blunt.label>
+  <OG_PacifierWeapon_Poke.label>poke</OG_PacifierWeapon_Poke.label>
+  <OG_Thunderhammer_Blunt.label>smash</OG_Thunderhammer_Blunt.label>
 </LanguageData>

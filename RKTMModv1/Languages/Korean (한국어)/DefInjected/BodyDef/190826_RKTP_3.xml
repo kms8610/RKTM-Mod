@@ -297,19 +297,6 @@
   <LaniusBody.corePart.parts.16.parts.2.parts.3.customLabel>오른쪽 검지발가락</LaniusBody.corePart.parts.16.parts.2.parts.3.customLabel>
   <LaniusBody.corePart.parts.16.parts.2.parts.4.customLabel>오른쪽 엄지발가락</LaniusBody.corePart.parts.16.parts.2.parts.4.customLabel>
 
-  <!--1543896230_190714_Playable Feral Orkz-->
-  <Biped.label>이족보행</Biped.label>
-  <Biped.corePart.parts.4.customLabel>왼쪽 폐</Biped.corePart.parts.4.customLabel>
-  <Biped.corePart.parts.5.customLabel>오른쪽 폐</Biped.corePart.parts.5.customLabel>
-  <Biped.corePart.parts.6.customLabel>왼쪽 신장</Biped.corePart.parts.6.customLabel>
-  <Biped.corePart.parts.7.customLabel>오른쪽 신장</Biped.corePart.parts.7.customLabel>
-  <Biped.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</Biped.corePart.parts.9.parts.0.parts.1.customLabel>
-  <Biped.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</Biped.corePart.parts.9.parts.0.parts.2.customLabel>
-  <Biped.corePart.parts.10.customLabel>왼 다리</Biped.corePart.parts.10.customLabel>
-  <Biped.corePart.parts.10.parts.0.customLabel>왼 발</Biped.corePart.parts.10.parts.0.customLabel>
-  <Biped.corePart.parts.11.customLabel>오른 다리</Biped.corePart.parts.11.customLabel>
-  <Biped.corePart.parts.11.parts.0.customLabel>오른 발</Biped.corePart.parts.11.parts.0.customLabel>
-
   <!--1545178908_190519_Callistans(1.0)-->
   <Callistan.label>캘리스탄</Callistan.label>
   <Callistan.corePart.parts.7.customLabel>왼쪽 폐</Callistan.corePart.parts.7.customLabel>

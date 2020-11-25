@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
   <HallucinogenThoughts.stages.0.label>불안함</HallucinogenThoughts.stages.0.label>
   <HallucinogenThoughts.stages.0.description>뭔가 이상해...</HallucinogenThoughts.stages.0.description>
   <HallucinogenThoughts.stages.1.label>넓어지는 공포</HallucinogenThoughts.stages.1.label>
@@ -18,5 +16,4 @@
   <FearThoughts.stages.2.description>나는 정말로 너무 무서워!</FearThoughts.stages.2.description>
   <FearThoughts.stages.3.label>극심한 패닉</FearThoughts.stages.3.label>
   <FearThoughts.stages.3.description>아...신이시여! 거대한 공포가 나를 집어삼키고 있습니다.</FearThoughts.stages.3.description>
-
 </LanguageData>

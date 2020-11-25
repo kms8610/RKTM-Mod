@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
   <OGGrenadeFrag.label>프라그 수류탄</OGGrenadeFrag.label>
   <OGGrenadeFrag.deathMessage>{0}(이)가 수류탄에 맞아 죽었습니다.</OGGrenadeFrag.deathMessage>
+  <OGGrenadeExtinguish.label>Extinguish grenade</OGGrenadeExtinguish.label>
+  <OGGrenadeExtinguish.deathMessage>{0} has been killed by a grenade.</OGGrenadeExtinguish.deathMessage>
   <OGGrenadePlasma.label>플라즈마 수류탄</OGGrenadePlasma.label>
   <OGGrenadePlasma.deathMessage>{0}(이)가 수류탄에 맞아 죽었습니다.</OGGrenadePlasma.deathMessage>
   <OGGrenadeKrak.label>크랙 수류탄</OGGrenadeKrak.label>
@@ -14,100 +14,58 @@
   <OGGrenadeEMP.deathMessage>{0}(이)가 감전당해 죽었습니다.</OGGrenadeEMP.deathMessage>
   <OGGrenadePhoton.label>광자 수류탄</OGGrenadePhoton.label>
   <OGGrenadePhoton.deathMessage>{0}(이)가 기절하여 죽었습니다.</OGGrenadePhoton.deathMessage>
-  <PowerCut.label>파워 웨폰</PowerCut.label>
-  <PowerCut.deathMessage>{0}(이)가 파워 웨폰에 끝장났습니다.</PowerCut.deathMessage>
-  <PowerStab.label>파워 웨폰</PowerStab.label>
-  <PowerStab.deathMessage>{0}(이)가 파워 웨폰에 끝장났습니다.</PowerStab.deathMessage>
-  <PowerBlunt.label>파워 웨폰</PowerBlunt.label>
-  <PowerBlunt.deathMessage>{0}(이)가 파워 웨폰에 끝장났습니다.</PowerBlunt.deathMessage>
-  <TransonicCut.label>트랜소닉 블레이드</TransonicCut.label>
-  <TransonicCut.deathMessage>{0}(이)가 트랜소닉 웨폰에 끝장났습니다.</TransonicCut.deathMessage>
-  <TransonicStab.label>트랜소닉 블레이드</TransonicStab.label>
-  <TransonicStab.deathMessage>{0}(이)가 트랜소닉 웨폰에 끝장났습니다.</TransonicStab.deathMessage>
+  <OG_Stab.label>stab</OG_Stab.label>
+  <OG_Stab.deathMessage>{0} has been stabbed to death.</OG_Stab.deathMessage>
+  <OG_Power_Cut.label>powered cut</OG_Power_Cut.label>
+  <OG_Power_Cut.deathMessage>{0} was ended by a Power Weapon.</OG_Power_Cut.deathMessage>
+  <OG_Power_Stab.label>powered stab</OG_Power_Stab.label>
+  <OG_Power_Stab.deathMessage>{0} was ended by a Power Weapon.</OG_Power_Stab.deathMessage>
+  <OG_Power_Blunt.label>powered blunt</OG_Power_Blunt.label>
+  <OG_Power_Blunt.deathMessage>{0} was ended by a Power Weapon.</OG_Power_Blunt.deathMessage>
   <EM.label>EMP</EM.label>
   <EM.deathMessage>{0}(이)가 EMP에 휩쓸려 죽었습니다.</EM.deathMessage>
-  <ToxicCut.label>잘림(독성)</ToxicCut.label>
-  <ToxicCut.deathMessage>{0}(이)가 잘려 죽었습니다.</ToxicCut.deathMessage>
-  <ToxicStab.label>잘림(독성)</ToxicStab.label>
-  <ToxicStab.deathMessage>{0}(이)가 찔려 죽었습니다.</ToxicStab.deathMessage>
-  <OGDEPlagueCut.label>잘림(질병)</OGDEPlagueCut.label>
-  <OGDEPlagueCut.deathMessage>{0}(이)가 잘려 죽었습니다.</OGDEPlagueCut.deathMessage>
-  <OGDEPlagueStab.label>잘림(질병)</OGDEPlagueStab.label>
-  <OGDEPlagueStab.deathMessage>{0}(이)가 찔려 죽었습니다.</OGDEPlagueStab.deathMessage>
-  <ForceCut.label>포스 웨폰</ForceCut.label>
-  <ForceCut.deathMessage>{0}(이)가 포스 웨폰에 끝장났습니다.</ForceCut.deathMessage>
-  <ForceStab.label>포스 웨폰</ForceStab.label>
-  <ForceStab.deathMessage>{0}(이)가 포스 웨폰에 끝장났습니다.</ForceStab.deathMessage>
-  <ForceBlunt.label>포스 웨폰</ForceBlunt.label>
-  <ForceBlunt.deathMessage>{0}(이)가 포스 웨폰에 끝장났습니다.</ForceBlunt.deathMessage>
-  <OGIThunderhammer.label>썬더 해머</OGIThunderhammer.label>
-  <OGIThunderhammer.deathMessage>{0}(이)가 박살났습니다!</OGIThunderhammer.deathMessage>
-  <OGIPacifierBlunt.label>평정(Pacification)</OGIPacifierBlunt.label>
-  <OGIPacifierBlunt.deathMessage>{0}(이)는 저항하지 말았어야 했습니다...</OGIPacifierBlunt.deathMessage>
-  <OGIPacifierPoke.label>평정(Pacification)</OGIPacifierPoke.label>
-  <OGIPacifierPoke.deathMessage>{0}(이)는 저항하지 말았어야 했습니다...</OGIPacifierPoke.deathMessage>
+  <OG_Toxic_Cut.label>toxic cut</OG_Toxic_Cut.label>
+  <OG_Toxic_Stab.label>toxic cut</OG_Toxic_Stab.label>
+  <OG_Toxic_Stab.deathMessage>{0} has been stabbed to death.</OG_Toxic_Stab.deathMessage>
+  <OG_Plague_Cut.label>plague cut</OG_Plague_Cut.label>
+  <OG_Plague_Stab.label>plague stab</OG_Plague_Stab.label>
+  <OG_Plague_Stab.deathMessage>{0} has been stabbed to death.</OG_Plague_Stab.deathMessage>
+  <OG_Force_Cut.label>force cut</OG_Force_Cut.label>
+  <OG_Force_Cut.deathMessage>{0} was ended by a Force Weapon.</OG_Force_Cut.deathMessage>
+  <OG_Force_Stab.label>force stab</OG_Force_Stab.label>
+  <OG_Force_Stab.deathMessage>{0} was ended by a Force Weapon.</OG_Force_Stab.deathMessage>
+  <OG_Force_Blunt.label>force blunt</OG_Force_Blunt.label>
+  <OG_Force_Blunt.deathMessage>{0} was ended by a Force Weapon.</OG_Force_Blunt.deathMessage>
+  <OG_Witchblade_Cut.label>witchblade cut</OG_Witchblade_Cut.label>
+  <OG_Witchblade_Cut.deathMessage>{0} was ended by a Witchblade.</OG_Witchblade_Cut.deathMessage>
+  <OG_Witchblade_Stab.label>witchblade stab</OG_Witchblade_Stab.label>
+  <OG_Witchblade_Stab.deathMessage>{0} was ended by a Witchblade.</OG_Witchblade_Stab.deathMessage>
+  <OG_Imperial_Thunderhammer.label>ThunderHammer</OG_Imperial_Thunderhammer.label>
+  <OG_Imperial_Thunderhammer.deathMessage>{0} has been struck down!</OG_Imperial_Thunderhammer.deathMessage>
+  <OG_Pacify_Blunt.label>Pacification</OG_Pacify_Blunt.label>
+  <OG_Pacify_Blunt.deathMessage>{0} shouldnt have resisted...</OG_Pacify_Blunt.deathMessage>
+  <OG_Pacify_Poke.label>Pacification</OG_Pacify_Poke.label>
+  <OG_Pacify_Poke.deathMessage>{0} shouldnt have resisted...</OG_Pacify_Poke.deathMessage>
   <OGElectrical.label>전기</OGElectrical.label>
   <OGElectrical.deathMessage>{0}(이)가 감전당해 죽었습니다.</OGElectrical.deathMessage>
+  <OGIWebber.label>Webber</OGIWebber.label>
+  <OGIWebber.deathMessage>{0} has been Electrocuted.</OGIWebber.deathMessage>
   <OGENeuroDisruptor.label>뉴로 교란기</OGENeuroDisruptor.label>
   <OGENeuroDisruptor.deathMessage>{0}의 정신은 뉴로 교란기에 의해 녹아버렸습니다.</OGENeuroDisruptor.deathMessage>
   <OGForceStrike.label>포스 스트라이크</OGForceStrike.label>
   <OGForceStrike.deathMessage>{0}(이)가 포스 스라이크에 살해당했습니다.</OGForceStrike.deathMessage>
-  <OGFlamer.label>플레임</OGFlamer.label>
-  <OGFlamer.deathMessage>{0}(이)가 불로 정화됐습니다!</OGFlamer.deathMessage>
-  <OGIPlasma.label>플라즈마</OGIPlasma.label>
-  <OGIPlasma.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIPlasma.deathMessage>
-  <OGIPlasmaCannon.label>플라즈마 캐논</OGIPlasmaCannon.label>
-  <OGIPlasmaCannon.deathMessage>{0}.</OGIPlasmaCannon.deathMessage>
-  <OGIMelta.label>멜타</OGIMelta.label>
-  <OGIMelta.deathMessage>{0}(이)가 황제의 정의를 받았습니다</OGIMelta.deathMessage>
-  <OGILas.label>레이저</OGILas.label>
-  <OGILas.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGILas.deathMessage>
-  <OGILasC.label>레이저</OGILasC.label>
-  <OGILasC.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGILasC.deathMessage>
-  <OGIAuto.label>오토건</OGIAuto.label>
-  <OGIAuto.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIAuto.deathMessage>
-  <OGIRipper.label>리퍼</OGIRipper.label>
-  <OGIRipper.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIRipper.deathMessage>
-  <OGIAssault.label>어썰트 캐논</OGIAssault.label>
-  <OGIAssault.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIAssault.deathMessage>
-  <OGIBoltStd.label>표준 볼트</OGIBoltStd.label>
-  <OGIBoltStd.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIBoltStd.deathMessage>
-  <OGIBoltDragonfire.label>드래곤파이어 볼트</OGIBoltDragonfire.label>
-  <OGIBoltDragonfire.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIBoltDragonfire.deathMessage>
-  <OGIBoltHellfire.label>헬파이어 볼트</OGIBoltHellfire.label>
-  <OGIBoltHellfire.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIBoltHellfire.deathMessage>
-  <OGIBoltKraken.label>크라켄 볼트</OGIBoltKraken.label>
-  <OGIBoltKraken.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIBoltKraken.deathMessage>
-  <OGIBoltVengeance.label>벤전스 볼트</OGIBoltVengeance.label>
-  <OGIBoltVengeance.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIBoltVengeance.deathMessage>
-  <OGIBomb.label>폭탄</OGIBomb.label>
-  <OGIBomb.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIBomb.deathMessage>
+  <OG_Warpfire.label>warpfire</OG_Warpfire.label>
+  <OG_Warpfire.deathMessage>{0} was corrupted by warpfire!</OG_Warpfire.deathMessage>
+  <OG_Chaos_Deamon_Warpfire.label>warpfire</OG_Chaos_Deamon_Warpfire.label>
+  <OG_Chaos_Deamon_Warpfire.deathMessage>{0} was corrupted by warpfire!</OG_Chaos_Deamon_Warpfire.deathMessage>
+  <OG_Chaos_Deamon_WarpfireDeath.label>Warp Rift Blast</OG_Chaos_Deamon_WarpfireDeath.label>
+  <OG_Chaos_Deamon_WarpfireDeath.deathMessage>{0} was lost to the warp.</OG_Chaos_Deamon_WarpfireDeath.deathMessage>
+  <OG_WarpStormStrike.label>Warp Rift Blast</OG_WarpStormStrike.label>
+  <OG_WarpStormStrike.deathMessage>{0} was lost to the warp.</OG_WarpStormStrike.deathMessage>
   <OGCSonic.label>음파</OGCSonic.label>
   <OGCSonic.deathMessage>{0}(이)가 슬라네쉬에게 돌아갔습니다.</OGCSonic.deathMessage>
   <OGCRAC.label>리퍼 오토캐논</OGCRAC.label>
   <OGCRAC.deathMessage>{0}(이)가 다크 갓에게 납치됐습니다.</OGCRAC.deathMessage>
-  <OGTPlasmaPulse.label>플라즈마 펄스</OGTPlasmaPulse.label>
-  <OGTPlasmaPulse.deathMessage>{0}(이)가 그레이터 갓을 위해 죽었습니다.</OGTPlasmaPulse.deathMessage>
-  <OGTIon.label>이온 빔</OGTIon.label>
-  <OGTIon.deathMessage>{0}(이)가 그레이터 갓을 위해 죽었습니다.</OGTIon.deathMessage>
-  <OGTRailgun.label>레일건 슬러그</OGTRailgun.label>
-  <OGTRailgun.deathMessage>{0}(이)가 그레이터 갓을 위해 죽었습니다.</OGTRailgun.deathMessage>
-  <OGTKroot.label>크룻 슬러그</OGTKroot.label>
-  <OGTKroot.deathMessage>{0}(이)가 그레이터 갓을 위해 죽었습니다..</OGTKroot.deathMessage>
-  <OGTNeutron.label>뉴트론 블래스터</OGTNeutron.label>
-  <OGTNeutron.deathMessage>{0}(이)가 그레이터 갓을 위해 죽었습니다.</OGTNeutron.deathMessage>
-  <OGEShuriken.label>슈리켄</OGEShuriken.label>
-  <OGEShuriken.deathMessage>{0}(이)가 갈기갈기 찢어졌습니다.</OGEShuriken.deathMessage>
-  <OGEPlas.label>스타파이어</OGEPlas.label>
-  <OGEPlas.deathMessage>{0}의 죽음은 예견된 것이었습니다.</OGEPlas.deathMessage>
-  <OGEWraith.label>차원 균열</OGEWraith.label>
-  <OGEWraith.deathMessage>{0}이(가) 차원 균열에 의해 조각조각 찢겼습니다.</OGEWraith.deathMessage>
-  <OGEWraithBlast.label>차원 균열 블래스터</OGEWraithBlast.label>
-  <OGEWraithBlast.deathMessage>{0}(이)가 차원에서 길을 잃었습니다.</OGEWraithBlast.deathMessage>
-  <OGELance.label>창</OGELance.label>
-  <OGELance.deathMessage>{0}순수한 에너지 창에 의해 살해당했습니다.</OGELance.deathMessage>
-  <OGEDeathspinner.label>모노 필라멘트 메쉬</OGEDeathspinner.label>
-  <OGEDeathspinner.deathMessage>{0}(이)가 걸쭉한 다진고기로 조각났습니다.</OGEDeathspinner.deathMessage>
   <OGESplinter.label>스프린터</OGESplinter.label>
   <OGESplinter.deathMessage>{0}(이)가 갈기갈기 찢겼습니다.</OGESplinter.deathMessage>
   <OGDEPlas.label>디스인티그레이터</OGDEPlas.label>
@@ -120,8 +78,50 @@
   <OGDELance.deathMessage>{0}(이)가 다크 랜스에 의해 살해당했습니다.</OGDELance.deathMessage>
   <OGDEShredder.label>모노 필라멘트 메쉬</OGDEShredder.label>
   <OGDEShredder.deathMessage>{0}(이)가 걸쭉한 다진고기로 조각났습니다.</OGDEShredder.deathMessage>
-  <OGNGauss.label>가우스</OGNGauss.label>
-  <OGNGauss.deathMessage>{0}(이)가 가죽이 벗겨져 죽었습니다.</OGNGauss.deathMessage>
+  <OGEShuriken.label>슈리켄</OGEShuriken.label>
+  <OGEShuriken.deathMessage>{0}(이)가 갈기갈기 찢어졌습니다.</OGEShuriken.deathMessage>
+  <OGEPlas.label>스타파이어</OGEPlas.label>
+  <OGEPlas.deathMessage>{0}의 죽음은 예견된 것이었습니다.</OGEPlas.deathMessage>
+  <OG_E_Distortion_Damage.label>Warp Rift</OG_E_Distortion_Damage.label>
+  <OG_E_Distortion_Damage.deathMessage>{0} was torn to shreds by a warp rift.</OG_E_Distortion_Damage.deathMessage>
+  <OG_E_Distortion_Damage_Blast.label>Warp Rift Blast</OG_E_Distortion_Damage_Blast.label>
+  <OG_E_Distortion_Damage_Blast.deathMessage>{0} was lost to the warp.</OG_E_Distortion_Damage_Blast.deathMessage>
+  <OGELance.label>창</OGELance.label>
+  <OGELance.deathMessage>{0}순수한 에너지 창에 의해 살해당했습니다.</OGELance.deathMessage>
+  <OGEDeathspinner.label>모노 필라멘트 메쉬</OGEDeathspinner.label>
+  <OGEDeathspinner.deathMessage>{0}(이)가 걸쭉한 다진고기로 조각났습니다.</OGEDeathspinner.deathMessage>
+  <OGFlamer.label>플레임</OGFlamer.label>
+  <OGFlamer.deathMessage>{0}(이)가 불로 정화됐습니다!</OGFlamer.deathMessage>
+  <OGIPlasma.label>플라즈마</OGIPlasma.label>
+  <OGIPlasma.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIPlasma.deathMessage>
+  <OGIPlasmaCannon.label>플라즈마 캐논</OGIPlasmaCannon.label>
+  <OGIPlasmaCannon.deathMessage>{0}.</OGIPlasmaCannon.deathMessage>
+  <OGIMelta.label>멜타</OGIMelta.label>
+  <OGIMelta.deathMessage>{0}(이)가 황제의 정의를 받았습니다</OGIMelta.deathMessage>
+  <OGILas.label>레이저</OGILas.label>
+  <OGILas.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGILas.deathMessage>
+  <OGIVolkite.label>volkite</OGIVolkite.label>
+  <OGIVolkite.deathMessage>{0} has been given the Emperors Justice.</OGIVolkite.deathMessage>
+  <OGIConversion.label>conversion beam</OGIConversion.label>
+  <OGIConversion.deathMessage>{0} has been given the Emperors Justice.</OGIConversion.deathMessage>
+  <OGILasC.label>레이저</OGILasC.label>
+  <OGILasC.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGILasC.deathMessage>
+  <OGIAuto.label>오토건</OGIAuto.label>
+  <OGIAuto.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIAuto.deathMessage>
+  <OGIAutoRubber.label>autogun</OGIAutoRubber.label>
+  <OGIAutoRubber.deathMessage>{0} has been given the Emperors Justice.</OGIAutoRubber.deathMessage>
+  <OGIBoltStd.label>표준 볼트</OGIBoltStd.label>
+  <OGIBoltStd.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIBoltStd.deathMessage>
+  <OGIBoltDragonfire.label>드래곤파이어 볼트</OGIBoltDragonfire.label>
+  <OGIBoltDragonfire.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIBoltDragonfire.deathMessage>
+  <OGIBoltHellfire.label>헬파이어 볼트</OGIBoltHellfire.label>
+  <OGIBoltHellfire.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIBoltHellfire.deathMessage>
+  <OGIBoltKraken.label>크라켄 볼트</OGIBoltKraken.label>
+  <OGIBoltKraken.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIBoltKraken.deathMessage>
+  <OGIBoltVengeance.label>벤전스 볼트</OGIBoltVengeance.label>
+  <OGIBoltVengeance.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIBoltVengeance.deathMessage>
+  <OGIBomb.label>폭탄</OGIBomb.label>
+  <OGIBomb.deathMessage>{0}(이)가 황제의 정의를 받았습니다.</OGIBomb.deathMessage>
   <OGIRadium.label>라듐 탄환</OGIRadium.label>
   <OGIRadium.deathMessage>{0}(이)는 어쨌든 죽었을 것입니다.</OGIRadium.deathMessage>
   <OGIGalvanic.label>갈바니 디스차지</OGIGalvanic.label>
@@ -130,5 +130,22 @@
   <OGITransuranic.deathMessage>{0}(이)가 트랜슈래닉 볼트에 의해 죽었습니다.</OGITransuranic.deathMessage>
   <OGIArc.label>아크</OGIArc.label>
   <OGIArc.deathMessage>{0}(이)가 감전당해 죽었습니다.</OGIArc.deathMessage>
-
+  <OG_N_Gauss_Damage.label>Gauss</OG_N_Gauss_Damage.label>
+  <OG_N_Gauss_Damage.deathMessage>{0} was Flayed to death.</OG_N_Gauss_Damage.deathMessage>
+  <OG_N_Particle_Damage.label>Particle</OG_N_Particle_Damage.label>
+  <OG_N_Particle_Damage.deathMessage>{0} was Flayed to death.</OG_N_Particle_Damage.deathMessage>
+  <OG_N_Tesla_Damage.label>Tesla</OG_N_Tesla_Damage.label>
+  <OG_N_Tesla_Damage.deathMessage>{0} was Flayed to death.</OG_N_Tesla_Damage.deathMessage>
+  <OG_N_Tesla_Arc_Damage.label>Tesla</OG_N_Tesla_Arc_Damage.label>
+  <OG_N_Tesla_Arc_Damage.deathMessage>{0} was Flayed to death.</OG_N_Tesla_Arc_Damage.deathMessage>
+  <OGTPlasmaPulse.label>플라즈마 펄스</OGTPlasmaPulse.label>
+  <OGTPlasmaPulse.deathMessage>{0}(이)가 그레이터 갓을 위해 죽었습니다.</OGTPlasmaPulse.deathMessage>
+  <OGTIon.label>이온 빔</OGTIon.label>
+  <OGTIon.deathMessage>{0}(이)가 그레이터 갓을 위해 죽었습니다.</OGTIon.deathMessage>
+  <OGTRailgun.label>레일건 슬러그</OGTRailgun.label>
+  <OGTRailgun.deathMessage>{0}(이)가 그레이터 갓을 위해 죽었습니다.</OGTRailgun.deathMessage>
+  <OGTKroot.label>크룻 슬러그</OGTKroot.label>
+  <OGTKroot.deathMessage>{0}(이)가 그레이터 갓을 위해 죽었습니다..</OGTKroot.deathMessage>
+  <OGTNeutron.label>뉴트론 블래스터</OGTNeutron.label>
+  <OGTNeutron.deathMessage>{0}(이)가 그레이터 갓을 위해 죽었습니다.</OGTNeutron.deathMessage>
 </LanguageData>

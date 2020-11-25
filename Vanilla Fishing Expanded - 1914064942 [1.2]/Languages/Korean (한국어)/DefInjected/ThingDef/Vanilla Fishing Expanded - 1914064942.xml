@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <VCEF_RawAnchovy.label>멸치</VCEF_RawAnchovy.label>
   <VCEF_RawAnchovy.description>살아있는 멸치입니다. 앙골라과의 작고 흔한 양식 어류입니다. 대부분의 종은 바닷물에서 발견되지만, 여러 종은 염수에 들어가고 일부는 담수로 제한됩니다.</VCEF_RawAnchovy.description>
   <VCEF_RawAnchovy.tools.0.label>멸치</VCEF_RawAnchovy.tools.0.label>
@@ -34,8 +33,8 @@
   <VCEF_RawHaddock.label>해덕대구</VCEF_RawHaddock.label>
   <VCEF_RawHaddock.description>살아있는 해덕대구입니다. 해덕대구는 진짜 대구인 대구과의 바닷물고기입니다. 중요한 식용 물고기이며 전통적으로 회로 먹거나 훈제해서 먹었습니다.</VCEF_RawHaddock.description>
   <VCEF_RawHaddock.tools.0.label>해덕대구</VCEF_RawHaddock.tools.0.label>
-  <VCEF_RawHalibut.label>광어</VCEF_RawHalibut.label>
-  <VCEF_RawHalibut.description>살아있는 광어입니다. 광어는 주로 우안이 아래쪽에 있는 납작한 물고기에게 쓰이는 흔한 이름입니다. 일부 지역에서만 다른 종의 납작한 물고기들을 넙치라고도 합니다.</VCEF_RawHalibut.description>
+  <VCEF_RawHalibut.label>넙치</VCEF_RawHalibut.label>
+  <VCEF_RawHalibut.description>살아있는 넙치입니다. 넙치는 주로 우안이 아래쪽에 있는 납작한 물고기에게 쓰이는 흔한 이름입니다. 일부 지역에서만 다른 종의 납작한 물고기들을 광어라고도 합니다.</VCEF_RawHalibut.description>
   <VCEF_RawHalibut.tools.0.label>넙치</VCEF_RawHalibut.tools.0.label>
   <VCEF_RawHerring.label>청어</VCEF_RawHerring.label>
   <VCEF_RawHerring.description>살아있는 청어입니다. 청어는 청어과에 속하는 양식 어류입니다. 주로 양식장 주변과 인근 해안가 근처에서 떠돕니다.</VCEF_RawHerring.description>
@@ -76,9 +75,4 @@
   <VCEF_RawTuna.label>참치</VCEF_RawTuna.label>
   <VCEF_RawTuna.description>살아있는 참치입니다. 참치는 큰 바닷물고기입니다. 활동적이고 민첩한 포식자인 참치는 몸이 날렵하고 능률적이며 가장 빨리 헤엄치는 원양과 물고기에 속합니다. 또한, 참치는 식량으로도 높이 평가됐습니다. 음식으로서의 상업적 가치 외에도, 그들이 정점 포식자로서 보여주는 엄청난 크기, 속도, 그리고 힘은 어부, 작가, 그리고 과학자들의 감탄을 자아냈습니다.</VCEF_RawTuna.description>
   <VCEF_RawTuna.tools.0.label>참치</VCEF_RawTuna.tools.0.label>
-  <VCEF_Mote_Fishing_east.label>Mote</VCEF_Mote_Fishing_east.label>
-  <VCEF_Mote_Fishing_west.label>Mote</VCEF_Mote_Fishing_west.label>
-  <VCEF_Mote_Fishing_south.label>Mote</VCEF_Mote_Fishing_south.label>
-  <VCEF_Mote_Fishing_north.label>Mote</VCEF_Mote_Fishing_north.label>
-
 </LanguageData>

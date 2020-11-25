@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
   <OGIWeapons.label>임페리얼 무기</OGIWeapons.label>
   <OGIRanged.label>임페리얼 근접 무기</OGIRanged.label>
   <OGIMelee.label>임페리얼 원거리 무기</OGIMelee.label>
@@ -13,6 +11,7 @@
   <OGIAddons.label>임페리얼 추가 보호구</OGIAddons.label>
   <OGIWargear.label>임페리얼 무기</OGIWargear.label>
   <Ammunition.label>군수품</Ammunition.label>
+  <OGIItems.label>Imperial</OGIItems.label>
   <OGIAmmunition.label>임페리얼 군수품</OGIAmmunition.label>
   <OGIMissiles.label>임페리얼 미사일</OGIMissiles.label>
   <OGAMWeapons.label>메카니쿠스 웨폰</OGAMWeapons.label>
@@ -33,8 +32,9 @@
   <OGDEMelee.label>다크 엘다 근접 무기</OGDEMelee.label>
   <OGTWeapons.label>타우 무기</OGTWeapons.label>
   <OGTRanged.label>타우 원거리 무기</OGTRanged.label>
-  <OGKRanged.label>타우 원거리 무기</OGKRanged.label>
   <OGTMelee.label>타우 근접 무기</OGTMelee.label>
+  <OGKRanged.label>타우 원거리 무기</OGKRanged.label>
+  <OGKMelee.label>Kroot Melee Weapons</OGKMelee.label>
   <OGCWeapons.label>카오스 무기</OGCWeapons.label>
   <OGCRanged.label>카오스 원거리 무기</OGCRanged.label>
   <OGCMelee.label>카오스 근접 무기</OGCMelee.label>
@@ -44,5 +44,4 @@
   <OGNWeapons.label>네크론 무기</OGNWeapons.label>
   <OGNRanged.label>네크론 원거리 무기</OGNRanged.label>
   <OGNMelee.label>네크론 근접 무기</OGNMelee.label>
-
 </LanguageData>

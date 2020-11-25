@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!--1541438614_190622_Adeptus Mechanicus Armoury-->
   <DoBillsImperialMachining.label>임페리얼 자원 제작</DoBillsImperialMachining.label>
   <DoBillsImperialMachining.verb>자원 제작</DoBillsImperialMachining.verb>
   <DoBillsImperialMachining.gerund>자원 제작</DoBillsImperialMachining.gerund>
@@ -14,11 +12,4 @@
   <DoBillsTauMachining.label>타우 자원 제작</DoBillsTauMachining.label>
   <DoBillsTauMachining.verb>자원 제작</DoBillsTauMachining.verb>
   <DoBillsTauMachining.gerund>자원 제작</DoBillsTauMachining.gerund>
-  <VG_WorkGiver_TakeProductOutOfUniversalFermenter.label>발효조에서 제품 꺼내기</VG_WorkGiver_TakeProductOutOfUniversalFermenter.label>
-  <VG_WorkGiver_TakeProductOutOfUniversalFermenter.verb>제품 꺼내기</VG_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
-  <VG_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>제품 꺼내기</VG_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
-  <VG_WorkGiver_FillUniversalFermenter.label>발효조 채우기</VG_WorkGiver_FillUniversalFermenter.label>
-  <VG_WorkGiver_FillUniversalFermenter.verb>채우기</VG_WorkGiver_FillUniversalFermenter.verb>
-  <VG_WorkGiver_FillUniversalFermenter.gerund>채우기</VG_WorkGiver_FillUniversalFermenter.gerund>
-
 </LanguageData>

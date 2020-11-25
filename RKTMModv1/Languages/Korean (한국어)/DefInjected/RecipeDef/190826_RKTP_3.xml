@@ -488,26 +488,6 @@
   <LTF_InstallLaniusLung.description>라니우스 폐를 이식합니다.</LTF_InstallLaniusLung.description>
   <LTF_InstallLaniusLung.jobString>라니우스 폐 이식 중.</LTF_InstallLaniusLung.jobString>
 
-  <!--1543896230_190714_Playable Feral Orkz-->
-  <Make_Apparel_OrkArmour.label>오크 갑옷 제작</Make_Apparel_OrkArmour.label>
-  <Make_Apparel_OrkArmour.description>오크 갑옷을 제작합니다.</Make_Apparel_OrkArmour.description>
-  <Make_Apparel_OrkArmour.jobString>오크 갑옷 만드는 중.</Make_Apparel_OrkArmour.jobString>
-  <Make_Apparel_OrkEavyArmour.label>오크 에비 갑옷 제작</Make_Apparel_OrkEavyArmour.label>
-  <Make_Apparel_OrkEavyArmour.description>오크 에비 갑옷을 제작합니다.</Make_Apparel_OrkEavyArmour.description>
-  <Make_Apparel_OrkEavyArmour.jobString>오크 에비 갑옷 만드는 중.</Make_Apparel_OrkEavyArmour.jobString>
-  <Make_OGO_Apparel_Tribal_Cloak.label>부족 외투 제작</Make_OGO_Apparel_Tribal_Cloak.label>
-  <Make_OGO_Apparel_Tribal_Cloak.description>부족 외투를 제작합니다.</Make_OGO_Apparel_Tribal_Cloak.description>
-  <Make_OGO_Apparel_Tribal_Cloak.jobString>부족 외투 만드는 중.</Make_OGO_Apparel_Tribal_Cloak.jobString>
-  <Make_OGO_Melee_CrudeChoppa.label>오크 조잡한 쵸퍼 제작</Make_OGO_Melee_CrudeChoppa.label>
-  <Make_OGO_Melee_CrudeChoppa.description>오크 조잡한 쵸퍼를 제작합니다.</Make_OGO_Melee_CrudeChoppa.description>
-  <Make_OGO_Melee_CrudeChoppa.jobString>오크 조잡한 쵸퍼 만드는 중.</Make_OGO_Melee_CrudeChoppa.jobString>
-  <Make_OGO_Melee_Choppa.label>오크 쵸퍼 제작</Make_OGO_Melee_Choppa.label>
-  <Make_OGO_Melee_Choppa.description>오크 쵸퍼를 제작합니다.</Make_OGO_Melee_Choppa.description>
-  <Make_OGO_Melee_Choppa.jobString>오크 쵸퍼 만드는 중</Make_OGO_Melee_Choppa.jobString>
-  <Make_OGO_Melee_BigChoppa.label>오크 빅 쵸퍼 제작</Make_OGO_Melee_BigChoppa.label>
-  <Make_OGO_Melee_BigChoppa.description>오크 빅 쵸퍼를 제작합니다.</Make_OGO_Melee_BigChoppa.description>
-  <Make_OGO_Melee_BigChoppa.jobString>오크 빅 쵸퍼 만드는 중.</Make_OGO_Melee_BigChoppa.jobString>
-
   <!--1545178908_190519_Callistans(1.0)-->
   <Make_Callistan_Hoodie.label>캘리스탄 후드 만들기</Make_Callistan_Hoodie.label>
   <Make_Callistan_Hoodie.description>캘리스탄 후드를 만듭니다.</Make_Callistan_Hoodie.description>

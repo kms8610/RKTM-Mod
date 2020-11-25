@@ -55,7 +55,7 @@
   <AndroidCustomizationCostLabel>출력 비용</AndroidCustomizationCostLabel>
   <AndroidCustomizationTraitsLabel>활성화 특징</AndroidCustomizationTraitsLabel>
   <AndroidCustomizationAddTraitLabel>({0}/{1}) 특징 추가...</AndroidCustomizationAddTraitLabel>
-  <AndroidCustomizationOriginalTraitFloatMenu><{0}> 고유 특징</AndroidCustomizationOriginalTraitFloatMenu>
+  <AndroidCustomizationOriginalTraitFloatMenu><![CDATA[<{0}> 고유 특징]]></AndroidCustomizationOriginalTraitFloatMenu>
   <AndroidCustomizationUpgrades>업그레이드</AndroidCustomizationUpgrades>
   <AndroidCustomizationTimeCost>출력 시간</AndroidCustomizationTimeCost>
   <AndroidCustomizationRequiredResearch>연구 필요</AndroidCustomizationRequiredResearch>

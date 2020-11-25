@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--1127530465_181027_Rimatomics-->
-  <Architect_Rimatomics.description>구상 메뉴의 "림아토믹"에 대한 단축키입니다</Architect_Rimatomics.description>
-  <Architect_Rimatomics.label>림아토믹 탭</Architect_Rimatomics.label>
-
   <!--1140051385_181113_Smokeleaf_Industry-->
   <Architect_MSI.description>구상 메뉴의 "연초잎 산업"에 대한 단축키입니다</Architect_MSI.description>
   <Architect_MSI.label>연초잎 산업 탭</Architect_MSI.label>
@@ -13,10 +9,6 @@
   <RoomSense.label>방 감지</RoomSense.label>
   <RoomSense.description>방 감지 모드의 바로가기 입니다.</RoomSense.description>
 
-  <!--1414438179_181027_ProjectRimFactory-->
-  <Architect_Automation.label>자동화 탭</Architect_Automation.label>
-  <Architect_Automation.description>구상 메뉴의 "자동화"에 대한 단축키입니다</Architect_Automation.description>
-
   <!--1420979918_190627_Buildable Terrain-->
   <Architect_terraforming.description>구상 메뉴의 "테라포밍"에 대한 단축키입니다</Architect_terraforming.description>
   <Architect_terraforming.label>테라포밍</Architect_terraforming.label>
@@ -24,10 +16,6 @@
   <!--1447372624_190816_Nano Repair Tech-->
   <Architect_Ogre_NanoRepairTech_DesignationCategory.description>구상 메뉴의 "나노기술"에 대한 단축키입니다</Architect_Ogre_NanoRepairTech_DesignationCategory.description>
   <Architect_Ogre_NanoRepairTech_DesignationCategory.label>나노기술</Architect_Ogre_NanoRepairTech_DesignationCategory.label>
-
-  <!--1505914869_190616_What the hack!-->
-  <Architect_WTH_Hacking.label>해킹</Architect_WTH_Hacking.label>
-  <Architect_WTH_Hacking.description>구상 메뉴의 "해킹"에 대한 단축키입니다</Architect_WTH_Hacking.description>
 
   <!--1539311500_181027_Fertile Fields-->
   <Architect_RFF_Farm.label>농사 탭</Architect_RFF_Farm.label>
@@ -63,10 +51,6 @@
   <Architect_Ductwork.label>환기배관</Architect_Ductwork.label>
   <Architect_Ductwork.description>구상 메뉴의 "환기배관"에 대한 단축키입니다</Architect_Ductwork.description>
 
-  <!--1565942758_190818_Colony Leadership-->
-  <Architect_LeadershipModTab.description>구상 메뉴의 "리더십"에 대한 단축키입니다</Architect_LeadershipModTab.description>
-  <Architect_LeadershipModTab.label>리더십</Architect_LeadershipModTab.label>
-
   <!--1645324706_190519_Religions of Rimworld-->
   <Architect_ReligionBuildings.description>구상 메뉴의 종교에 대한 목록입니다.</Architect_ReligionBuildings.description>
   <Architect_ReligionBuildings.label>종교 탭</Architect_ReligionBuildings.label>
@@ -78,10 +62,6 @@
   <!--1715402900_190519_Replimat-->
   <Architect_Replimat_Replimat.description>구상 메뉴의 '레플리맷' 부분에 대한 키 바인딩입니다.</Architect_Replimat_Replimat.description>
   <Architect_Replimat_Replimat.label>레플리맷 탭</Architect_Replimat_Replimat.label>
-
-  <!--1718190143_190519_Vanilla Furniture Expanded-->
-  <Architect_AOMorefurniture.label>가구 확장</Architect_AOMorefurniture.label>
-  <Architect_AOMorefurniture.description>구상 메뉴의 "가구 확장"에 대한 단축키입니다.</Architect_AOMorefurniture.description>
 
   <!--708455313_181029_BluePrint-->
   <Architect_Blueprints.label>청사진</Architect_Blueprints.label>
@@ -120,9 +100,5 @@
   <!--973091113_190622_Centralized Climate Control-->
   <Architect_CentralClimateControl.label>냉난방 시스템</Architect_CentralClimateControl.label>
   <Architect_CentralClimateControl.description>구상 메뉴의 "냉난방 시스템"에 대한 단축키입니다</Architect_CentralClimateControl.description>
-
-  <!-- What The Hack?! -->
-  <Architect_Hacking.label>해킹 탭</Architect_Hacking.label>
-  <Architect_Hacking.description>구상 메뉴의 '해킹' 부분에 대한 키 바인딩입니다.</Architect_Hacking.description>
 
 </LanguageData>
