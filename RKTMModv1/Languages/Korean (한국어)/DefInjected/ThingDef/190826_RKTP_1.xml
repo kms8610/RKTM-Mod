@@ -9763,39 +9763,6 @@
   <Shell_GasAcid.description>부식가스로 가득찬 포탄. 박격포로 발사할 수 있습니다.</Shell_GasAcid.description>
   <Bullet_Shell_GasAcid.label>부식가스탄</Bullet_Shell_GasAcid.label>
 
-  <!--1185269798_190818_VGP Garden Fabrics-->
-  <TableLoom.label>베틀</TableLoom.label>
-  <TableLoom.description>재봉틀을 사용하여 원료를 유용한 천으로 만들 수 있습니다.</TableLoom.description>
-  <TableLoom_Blueprint.label>베틀 (청사진)</TableLoom_Blueprint.label>
-  <TableLoom_Blueprint_Install.label>베틀 (청사진)</TableLoom_Blueprint_Install.label>
-  <TableLoom_Frame.label>베틀 (건설 중)</TableLoom_Frame.label>
-  <TableLoom_Frame.description>재봉틀을 사용하여 원료를 유용한 천으로 만들 수 있습니다.</TableLoom_Frame.description>
-  <TableElecLoom.label>전기 베틀</TableElecLoom.label>
-  <TableElecLoom.description>전기 재봉틀을 사용하여 원료를 유용한 천으로 만들 수 있습니다.</TableElecLoom.description>
-  <TableElecLoom_Blueprint.label>전기 베틀 (청사진)</TableElecLoom_Blueprint.label>
-  <TableElecLoom_Blueprint_Install.label>전기 베틀 (청사진)</TableElecLoom_Blueprint_Install.label>
-  <TableElecLoom_Frame.label>전기 베틀 (건설 중)</TableElecLoom_Frame.label>
-  <TableElecLoom_Frame.description>전기 재봉틀을 사용하여 원료를 유용한 천으로 만들 수 있습니다.</TableElecLoom_Frame.description>
-  <PlantFlax.label>아마풀</PlantFlax.label>
-  <PlantFlax.description>꽃에서 섬유를 추출하여 옷을 만드는데 쓸 수 있습니다.</PlantFlax.description>
-  <RawCotton.label>목화 섬유</RawCotton.label>
-  <RawCotton.description>가공되지 않은 목화. 옷을 만들거나 거래에 사용됩니다.</RawCotton.description>
-  <RawFlax.label>아마 섬유</RawFlax.label>
-  <RawFlax.description>가공되지 않은 아마. 옷을 만들거나 거래에 사용됩니다.</RawFlax.description>
-  <RawDevilstrand.label>악마가닥</RawDevilstrand.label>
-  <RawDevilstrand.description>가공되지 않은 악마가닥. 옷을 만들거나 거래에 사용됩니다.</RawDevilstrand.description>
-  <VG_PlasteelThread.label>플라스틸가닥</VG_PlasteelThread.label>
-  <VG_PlasteelThread.description>플라스틸을 실처럼 엮여 플라스틸가닥을 만듭니다. 고급 천을 만드는 데 사용됩니다.</VG_PlasteelThread.description>
-  <HempCloth.label>삼베</HempCloth.label>
-  <HempCloth.description>담배를 피우는 물건들로 짠 옷감이라는 것을 이 옷을 입은 사람들이 좋은 생각이라고 생각하겠습니까?</HempCloth.description>
-  <HempCloth.stuffProps.stuffAdjective>삼베</HempCloth.stuffProps.stuffAdjective>
-  <Flaxcloth.label>아마 원단</Flaxcloth.label>
-  <Flaxcloth.description>옷을 만드는데 쓰입니다. 부드럽고, 가벼우며 튼튼합니다.</Flaxcloth.description>
-  <Flaxcloth.stuffProps.stuffAdjective>아마 원단</Flaxcloth.stuffProps.stuffAdjective>
-  <VG_BlendedWool.label>혼방 털실</VG_BlendedWool.label>
-  <VG_BlendedWool.description>부드럽고 가벼우며 단열에 매우 좋습니다. 털옷은 극한의 조건에서도 몸을 따뜻하게 유지해줍니다.</VG_BlendedWool.description>
-  <VG_BlendedWool.stuffProps.stuffAdjective>혼방 털실</VG_BlendedWool.stuffProps.stuffAdjective>
-
   <!-- Secret Passage Doors -->
   <HiddenDoorSmooth.label>숨겨진 문 (금속)</HiddenDoorSmooth.label>
   <HiddenDoorSmooth.description>매끄러운 금속제 벽과 어우러지는 문입니다.\n'벽 연결'을 같은 타일에 두면, 인접한 벽 또는 지형지물과 연결될 수 있습니다.</HiddenDoorSmooth.description>

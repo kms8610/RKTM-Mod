@@ -218,32 +218,4 @@
   <VWE_Gun_ChargeRocketLauncher.description>전자기탄을 1회 발사할 수 있습니다. 전자기탄이 광학 조준기가 지시한 목표 지점으로 정확하게 비행한 후 상공에서 폭발하여 치명적인 전기충격파를 내뿜습니다.</VWE_Gun_ChargeRocketLauncher.description>
   <VWE_Gun_ChargeRocketLauncher.tools.0.label>총열</VWE_Gun_ChargeRocketLauncher.tools.0.label>
   <VWE_Rocket_AntiGrain.label>전자기탄 발사기</VWE_Rocket_AntiGrain.label>
-  <Weapon_OPOrbBombGrenade.label.label>궤도 포격 지정기</Weapon_OPOrbBombGrenade.label.label>
-  <ARL_ChargeGrenade.label.label>전자기 세열탄</ARL_ChargeGrenade.label.label>
-  <ARL_SmokeGrenade.label.label>연막탄</ARL_SmokeGrenade.label.label>
-  <ARL_ToxicGrenade.label.label>독소탄</ARL_ToxicGrenade.label.label>
-  <ARL_CombatHandgun.label.label>전투권총</ARL_CombatHandgun.label.label>
-  <ARL_ShotgunHandgun.label.label>산탄 권총</ARL_ShotgunHandgun.label.label>
-  <ARL_ChargePistol.label.label>전자기 권총</ARL_ChargePistol.label.label>
-  <ARL_HandCannon.label.label>핸드 캐논</ARL_HandCannon.label.label>
-  <ARL_LeverActionShotgun.label.label>연발 산탄총</ARL_LeverActionShotgun.label.label>
-  <ARL_SemiAutomaticShotgun.label.label>반자동 산탄총</ARL_SemiAutomaticShotgun.label.label>
-  <ARL_ChargeShotgun.label.label>전자기 산탄총</ARL_ChargeShotgun.label.label>
-  <ARL_LightSMG.label.label>경기관단총</ARL_LightSMG.label.label>
-  <ARL_ChargeSMG.label.label>전자기 기관단총</ARL_ChargeSMG.label.label>
-  <ARL_CompactSMG.label.label>소형 기관단총</ARL_CompactSMG.label.label>
-  <ARL_ChargeLMG.label.label>전자기 경기관총</ARL_ChargeLMG.label.label>
-  <ARL_HMG.label.label>중기관총</ARL_HMG.label.label>
-  <ARL_MechanoidLMG.label.label>메카노이드 경기관총</ARL_MechanoidLMG.label.label>
-  <ARL_MechanoidRifle.label.label>메카노이드 소총</ARL_MechanoidRifle.label.label>
-  <ARL_BullpupRifle.label.label>불펍 소총</ARL_BullpupRifle.label.label>
-  <ARL_AssaultCarbine.label.label>돌격용 카빈</ARL_AssaultCarbine.label.label>
-  <ARL_BattleRifle.label.label>전투소총</ARL_BattleRifle.label.label>
-  <ARL_ChargeSniperRifle.label.label>전자기 저격소총</ARL_ChargeSniperRifle.label.label>
-  <ARL_SemiautomaticRifle.label.label>반자동소총</ARL_SemiautomaticRifle.label.label>
-  <ARL_MarksmanRifle.label.label>지정사수소총</ARL_MarksmanRifle.label.label>
-  <ARL_MechanoidSniperRifle.label.label>메카노이드 저격소총</ARL_MechanoidSniperRifle.label.label>
-  <ARL_MechanoidRocketLauncher.label.label>메카노이드 지옥화염포</ARL_MechanoidRocketLauncher.label.label>
-  <ARL_GrenadeLauncher.label.label>유탄 발사기</ARL_GrenadeLauncher.label.label>
-  <ARL_ChargeMinigun.label.label>전자기 미니건</ARL_ChargeMinigun.label.label>
 </LanguageData>

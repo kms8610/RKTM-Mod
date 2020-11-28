@@ -62,10 +62,10 @@
   <OgreStack.Settings.Artifact.Desc>정신충격창, 정신파동기…</OgreStack.Settings.Artifact.Desc>
   <OgreStack.Settings.Other.Title>기타</OgreStack.Settings.Other.Title>
   <OgreStack.Settings.Other.Desc>쌓을 수 있는 다른 것들</OgreStack.Settings.Other.Desc>
-  <OgreStack.SectionHeader.SingleThingDefTargeting><color=#ffa500ff>(고급)</color> 개별 항목 설정</OgreStack.SectionHeader.SingleThingDefTargeting>
+  <OgreStack.SectionHeader.SingleThingDefTargeting><![CDATA[<color=#ffa500ff>(고급)</color> 개별 항목 설정]]></OgreStack.SectionHeader.SingleThingDefTargeting>
   <OgreStack.Settings.DefName>defName</OgreStack.Settings.DefName>
   <OgreStack.Settings.StackLimit>수량 제한</OgreStack.Settings.StackLimit>
-  <OgreStack.Settings.SingleThingDefTargeting.Desc>이 부분은 위에서 구성하는 일반 수량 제한을 재정의하는<color=#ffa500ff> 개별 ThingDef</color> XML 파일을 RimWorld 외부에서 편하게 편집할 수 있도록 위한 것입니다.\nOverrides.xml 파일은 <color=#ffa500ff><size=13>{0}</size></color>에 있습니다.</OgreStack.Settings.SingleThingDefTargeting.Desc>
+  <OgreStack.Settings.SingleThingDefTargeting.Desc><![CDATA[이 부분은 위에서 구성하는 일반 수량 제한을 재정의하는<color=#ffa500ff> 개별 ThingDef</color> XML 파일을 RimWorld 외부에서 편하게 편집할 수 있도록 위한 것입니다.\nOverrides.xml 파일은 <color=#ffa500ff><size=13>{0}</size></color>에 있습니다.]]></OgreStack.Settings.SingleThingDefTargeting.Desc>
   <OgreStack.SectionHeader.Debug>디버그</OgreStack.SectionHeader.Debug>
   <OgreStack.Settings.CSV.Title>처리된 DefsList CSV 생성</OgreStack.Settings.CSV.Title>
   <OgreStack.Settings.CSV.Desc>쌓을 수 있는 모든 ThingDef, 원래 수량 값, ModFile이 수정한 최종 수량 값을 모아 디버그 정보를 생성합니다.\n\n이것은 수량이 수정될 때만 생성되며, 이 확인란을 선택하지 않아도 상관없습니다.\n\n출력 파일의 이름은 OgreStack_DefsList.csv이며, RimWorld 저장 폴더의 OgreStack 폴더에 있습니다.\n\n위치: {0}</OgreStack.Settings.CSV.Desc>

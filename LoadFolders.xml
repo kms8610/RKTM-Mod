@@ -118,7 +118,6 @@
 	<li IfModActive="VanillaExpanded.VCookEStews">Vanilla Cooking Expanded - Stews - 2134312965 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VHE">Vanilla Hair Expanded - 1888705256 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VWEQ">Vanilla Weapons Expanded - Quickdraw - 1906780517 [1.2]</li>
-	<li IfModActive="VanillaExpanded.VWE">Vanilla Weapons Expanded - 1814383360 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VWEG">Vanilla Weapons Expanded - Grenades - 2194472657 [1.2]</li>
 	<!-- 20.09.15 -->
 	<li IfModActive="fluffy.animaltab">Animal Tab - 712141500 [1.2]</li>
@@ -289,11 +288,19 @@
 	<li IfModActive="Orion.Gastronomy">Gastronomy - 2279786905 [1.2]</li>
 	<!-- 20.11.20 -->
 	<li IfModActive="vanillaexpanded.achievements">Vanilla Achievements Expanded - 2288125657 [1.2]</li>
-	<li IfModActive="VanillaExpanded.VCEF">Vanilla Fishing Expanded - 1914064942 [1.2]</li>
 	<!-- 20.11.22 -->
 	<li IfModActive="UnlimitedHugs.HugsLib">HugsLib - 818773962 [1.2]</li>
 	<li IfModActive="aRandomKiwi.RimThemes">RimThemes - 1668983184 [1.2]</li>
 	<li IfModActive="Ogliss.FeralOrkz">Playable Feral Orkz - 1543896230 [1.2]</li>
+	<!-- 20.11.25 -->
+	<li IfModActive="Mlie.ColonistBarKF">Colonist Bar KF (Continued) - 2270454746 [1.2]</li>
+	<!-- 20.11.27 -->
+	<li IfModActive="VanillaExpanded.VCEF">Vanilla Fishing Expanded - 1914064942 [1.2]</li>
+	<li IfModActive="pleccymm.infectiouscreatures">Infectious Creatures - 1430501911 [1.2]</li>
+	<li IfModActive="dismarzero.VGP.VGPGardenFabrics">VGP Garden Fabrics - 2007062162 [1.2]</li>
+	<!-- 20.11.28 -->
+	<li IfModActive="VanillaExpanded.VARME">Vanilla Armour Expanded - 1814988282 [1.2]</li>
+	<li IfModActive="VanillaExpanded.VWE">Vanilla Weapons Expanded - 1814383360 [1.2]</li>
   </v1.2>
 
 </loadFolders>

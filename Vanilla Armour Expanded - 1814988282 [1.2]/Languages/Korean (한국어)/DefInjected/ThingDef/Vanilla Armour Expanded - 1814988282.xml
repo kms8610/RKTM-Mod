@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <VAE_Footwear_PlateBoots.label>판금 부츠</VAE_Footwear_PlateBoots.label>
   <VAE_Footwear_PlateBoots.description>간단한 판금 부츠 한 켤레입니다. 무게 때문에 착용자의 속도가 늦어집니다.</VAE_Footwear_PlateBoots.description>
   <VAE_Footwear_MarineBoots.label>해병 부츠</VAE_Footwear_MarineBoots.label>
@@ -35,10 +34,6 @@
   <VAE_Apparel_WoodenArmor.description>통나무와 널빤지가 앞뒤를 덮고 있는 조끼입니다. 구경이 작은 총과 날카로운 근접무기에는 효과적이지만 둔기 및 소총에는 전혀 쓸모가 없습니다.</VAE_Apparel_WoodenArmor.description>
   <VAE_Headgear_StoneWarMask.label>석재 전쟁 가면</VAE_Headgear_StoneWarMask.label>
   <VAE_Headgear_StoneWarMask.description>예술적으로 무시무시한 전쟁 가면입니다. 착용자의 얼굴을 숨기고 더 자신감있게 만듭니다. 돌로 만들어 졌기 때문에 내구성이 뛰어나지만, 엄청나게 무겁습니다.</VAE_Headgear_StoneWarMask.description>
-  <VAE_Headgear_LightMarineHelmet.label>경장갑 해병 방탄모</VAE_Headgear_LightMarineHelmet.label>
-  <VAE_Headgear_LightMarineHelmet.description>경장갑 해병 방탄복의 방탄모로, 안면 전반부가 노출되어 있음에도 불구하고 착용자에게 고도의 상황 인식과 보호를 제공합니다.\n\n종종 제국 정찰대가 이런 방탄모를 자주 사용합니다.</VAE_Headgear_LightMarineHelmet.description>
-  <VAE_Apparel_LightMarineArmor.label>경장갑 해병 방탄복</VAE_Apparel_LightMarineArmor.label>
-  <VAE_Apparel_LightMarineArmor.description>가벼운 반동 방탄복 한 벌입니다. 얇은 플라스틸 판은 구경이 작은 총과 근접 공격을 막는 데 효과적이며 동시에 착용자가 감지되지 않고 빠르게 이동할 수 있도록 해줍니다.\n\n종종 제국 정찰대가 이런 방탄복을 자주 사용합니다.</VAE_Apparel_LightMarineArmor.description>
   <VAE_Headgear_HeavyMarineHelmet.label>중장갑 해병 방탄모</VAE_Headgear_HeavyMarineHelmet.label>
   <VAE_Headgear_HeavyMarineHelmet.description>중장갑 해병 방탄복의 방탄모로, 플라스틸로 이중 레이어 도금을 했으며 시각의 제한과 같은 약점을 없애기 위해 HUD 디스플레이 카메라가 내장되어 있습니다.\n\n이런 방탄모는 제국 돌격대들이 메카노이드 습격 때 사용하는 경우가 많은데, 이는 군인을 인간병기로 만들어 주기 때문입니다.</VAE_Headgear_HeavyMarineHelmet.description>
   <VAE_Apparel_HeavyMarineArmor.label>중장갑 해병 방탄복</VAE_Apparel_HeavyMarineArmor.label>
@@ -53,5 +48,4 @@
   <VAE_Headgear_GhillieHood.description>환경과 유사하게 설계된 위장 후드입니다. 사용자에게 정확한 조준 시간을 제공하지만 방어력은 거의 없습니다.</VAE_Headgear_GhillieHood.description>
   <VAE_Headgear_HAZMATMask.label>화생방마스크</VAE_Headgear_HAZMATMask.label>
   <VAE_Headgear_HAZMATMask.description>화생방보호의와 함께 정신파 및 독성 효과로부터 완전히 보호할 수 있는 전면 마스크입니다.</VAE_Headgear_HAZMATMask.description>
-
 </LanguageData>

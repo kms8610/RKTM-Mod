@@ -615,10 +615,4 @@
   <ResearchProjector.description>프로젝터 타워와 포탑을 건설하여, 야간 또는 어두운 동굴에서 주위의 적을 막으세요.</ResearchProjector.description>
   <ResearchProjector.label>프로젝터</ResearchProjector.label>
 
-  <!--1185269798_190818_VGP Garden Fabrics-->
-  <VG_ClothI.label>합성원단</VG_ClothI.label>
-  <VG_ClothI.description>합성원단을 짜는 방법을 연구합니다.\n재단기에서 합성원단이 가능해집니다.</VG_ClothI.description>
-  <VG_ClothII.label>초경조직</VG_ClothII.label>
-  <VG_ClothII.description>초경조직을 짜는 방법을 연구합니다.\n재단기에서 초경조직이 가능해집니다.</VG_ClothII.description>
-
 </LanguageData>
