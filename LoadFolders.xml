@@ -143,7 +143,6 @@
 	<!-- 20.09.29 -->
 	<li IfModActive="dismarzero.VGP.VGPGardenMedicine">VGP Garden Medicine - 2007063140 [1.2]</li>
 	<li IfModActive="yrtwof.Rimpedia">Rimpedia - 2145524536 [1.2]</li>
-	<li IfModActive="UnlimitedHugs.AllowTool">Allow Tool - 761421485 [1.2]</li>
 	<!-- 20.09.30 -->
 	<li IfModActive="Oblitus.AnimalsLogic">Animals Logic - 1098354593 [1.2]</li>
 	<li IfModActive="Mlie.Antinium">Antinium (Continued) - 2209261976 [1.2]</li>
@@ -301,6 +300,8 @@
 	<!-- 20.11.28 -->
 	<li IfModActive="VanillaExpanded.VARME">Vanilla Armour Expanded - 1814988282 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VWE">Vanilla Weapons Expanded - 1814383360 [1.2]</li>
+	<!-- 20.12.01 -->
+	<li IfModActive="UnlimitedHugs.AllowTool">Allow Tool - 761421485 [1.2]</li>
   </v1.2>
 
 </loadFolders>
