@@ -1,15 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <CombatFrenzy.label>전투 광란</CombatFrenzy.label>
-  <CombatFrenzy.beginLetter>{0}(은)는 제압사격에 의해 전투 광란 상태가 되었습니다!</CombatFrenzy.beginLetter>
   <CombatFrenzy.beginLetterLabel>광란</CombatFrenzy.beginLetterLabel>
+  <CombatFrenzy.beginLetter>{0}(은)는 제압사격에 의해 전투 광란 상태가 되었습니다!</CombatFrenzy.beginLetter>
   <CombatFrenzy.recoveryMessage>{0}의 전투 광란이 끝났습니다.</CombatFrenzy.recoveryMessage>
   <CombatFrenzy.baseInspectLine>정신 상태: 전투 광란</CombatFrenzy.baseInspectLine>
   <ShellShock.label>공황</ShellShock.label>
-  <ShellShock.beginLetter>{0}(은)는 제압사격에 의해 공항 상태가 되었습니다.</ShellShock.beginLetter>
   <ShellShock.beginLetterLabel>공황</ShellShock.beginLetterLabel>
+  <ShellShock.beginLetter>{0}(은)는 제압사격에 의해 공항 상태가 되었습니다.</ShellShock.beginLetter>
   <ShellShock.recoveryMessage>{0}의 공황이 끝났습니다.</ShellShock.recoveryMessage>
   <ShellShock.baseInspectLine>정신 상태: 공황</ShellShock.baseInspectLine>
-
 </LanguageData>

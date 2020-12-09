@@ -37,6 +37,18 @@
   <AA_AcidBuildup.stages.2.label>심각함, 화상</AA_AcidBuildup.stages.2.label>
   <AA_LowRest.description>이 생물은 잠을 거의 필요로 하지 않기에 장시간 활동할 수 있습니다.</AA_LowRest.description>
   <AA_LowRest.label>적은 수면 필요성</AA_LowRest.label>
+  <AA_PsionicallyNuzzled.description>아니무스 복스의 축복을 받음.</AA_PsionicallyNuzzled.description>
+  <AA_PsionicallyNuzzled.label>초능력 교감</AA_PsionicallyNuzzled.label>
+  <AA_GatheredResource.description>이 정착민은 최근 동물 자원을 채집하였습니다.</AA_GatheredResource.description>
+  <AA_GatheredResource.label>동물 자원 채집</AA_GatheredResource.label>
+  <AA_CorpseFeast.description>이 민달팽이는 최근 세상에서 가장 맛있는 인간 사체를 섭취하였습니다.</AA_CorpseFeast.description>
+  <AA_CorpseFeast.label>인육 잔치</AA_CorpseFeast.label>
+  <AA_AteFinestClothes.description>이 천사나방은 최근 전설적인 품질의 의류를 섭취하였습니다.</AA_AteFinestClothes.description>
+  <AA_AteFinestClothes.label>전설 의류 섭취 축제</AA_AteFinestClothes.label>
+  <AA_RechargingBatteries.description>이 테트라슬러그는 최근 주변의 축전지에서 전력을 충전하였습니다.</AA_RechargingBatteries.description>
+  <AA_RechargingBatteries.label>배터리 충전</AA_RechargingBatteries.label>
+  <AA_FertilizedTerrain.description>이 모래징어는 최근 모래밭을 개간하였습니다.</AA_FertilizedTerrain.description>
+  <AA_FertilizedTerrain.label>토양을 개간함</AA_FertilizedTerrain.label>
   <AA_SwarmlingImplantation.label>스웜링 감염</AA_SwarmlingImplantation.label>
   <AA_SwarmlingImplantation.description>체내로 유입된 스웜링에 의해 영향을 받고 있습니다. 제대로 치료되지 않거나 성장이 어느정도 진행된 상태로 숙주가 사망한다면, 기생하던 스웜링은 숙주의 내장을 게걸스럽게 먹어치운 뒤 시체를 파고 나옵니다.</AA_SwarmlingImplantation.description>
   <AA_SwarmlingImplantation.stages.0.label>사소함</AA_SwarmlingImplantation.stages.0.label>
@@ -52,6 +64,10 @@
   <AA_AcidBurn.comps.2.permanentLabel>산성 화상 흉터</AA_AcidBurn.comps.2.permanentLabel>
   <AA_AcidBurn.injuryProps.destroyedLabel>부식됨</AA_AcidBurn.injuryProps.destroyedLabel>
   <AA_AcidBurn.injuryProps.destroyedOutLabel>부식됨</AA_AcidBurn.injuryProps.destroyedOutLabel>
+  <AA_Resurrection.label>무덤에서 뛰쳐나옴!</AA_Resurrection.label>
+  <AA_Resurrection.description>이 동물은 9회의 치명적인 부상에도 죽지않고 살아남을 수 있습니다.</AA_Resurrection.description>
+  <AA_MimeHediff.label>개활지에 숨음</AA_MimeHediff.label>
+  <AA_MimeHediff.description>이 정착민은 진짜 사람이 아닐지도 모릅니다...</AA_MimeHediff.description>
   <AA_CarryWeight1.description>이 생물은 운반이 가능하며, 상단의 운반 가능 무게를 늘릴 수 있습니다.</AA_CarryWeight1.description>
   <AA_CarryWeight1.label>추가 휴대량 (끔찍)</AA_CarryWeight1.label>
   <AA_CarryWeight2.description>이 생물은 운반이 가능하며, 상단의 운반 가능 무게를 늘릴 수 있습니다.</AA_CarryWeight2.description>
@@ -72,7 +88,7 @@
   <AA_PermanentBurn.comps.1.permanentLabel>영구적 화상</AA_PermanentBurn.comps.1.permanentLabel>
   <AA_PermanentBurn.injuryProps.destroyedLabel>녹아내림</AA_PermanentBurn.injuryProps.destroyedLabel>
   <AA_PermanentBurn.injuryProps.destroyedOutLabel>녹아내림</AA_PermanentBurn.injuryProps.destroyedOutLabel>
-  <AA_LightSustenance.description>이 생물은 햇빛을 양분으로 합니다. 일조량이 충분하지 않다면 이 생물은 죽을 것입니다.</AA_LightSustenance.description>
+  <AA_LightSustenance.description>이 생물은 햇빛이 필요합니다. 햇빛이 부족하다면 이 생물은 죽을 것입니다.</AA_LightSustenance.description>
   <AA_LightSustenance.label>일조량</AA_LightSustenance.label>
   <AA_LightSustenance.stages.0.label>충분한 빛</AA_LightSustenance.stages.0.label>
   <AA_LightSustenance.stages.1.label>낮은 일조량</AA_LightSustenance.stages.1.label>

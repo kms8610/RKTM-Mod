@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <CE_Outfits>의상</CE_Outfits>
   <CE_Drugs>약물</CE_Drugs>
   <CE_EditX>{0} 수정</CE_EditX>
@@ -11,7 +10,7 @@
   <CE_Weight>무게</CE_Weight>
   <CE_Bulk>부피</CE_Bulk>
   <CE_outfit>복장</CE_outfit>
-  <CE_drugs>약물 정책</CE_drugs>
+  <CE_drugs>약물</CE_drugs>
   <CE_loadout>장비</CE_loadout>
   <CE_DetailedWeightTip>현재 무게: {1}\n허용 무게: {0}\n\n이동 속도 계수: {2}\n방해물 패널티: {3}</CE_DetailedWeightTip>
   <CE_DetailedBulkTip>현재 부피: {1}\n허용 부피: {0}\n\n작업 속도 계수: {2}</CE_DetailedBulkTip>
@@ -38,13 +37,22 @@
   <CE_AddAmmoFor>탄약 추가: {0}</CE_AddAmmoFor>
   <CE_DropExcess>초과물품 내려놓기</CE_DropExcess>
   <CE_PickupMissingAndDropExcess>초과물품과 잃어버린 물건 찾아들기</CE_PickupMissingAndDropExcess>
+  <CE_StatsReport_LoadedAmmo>Loaded ammunition</CE_StatsReport_LoadedAmmo>
   <CE_DescDamage>피해량</CE_DescDamage>
+  <CE_DescBaseDamage>기본 피해량</CE_DescBaseDamage>
   <CE_DescExplosionRadius>폭발 반경</CE_DescExplosionRadius>
   <CE_DescSecondaryExplosion>2차 폭발</CE_DescSecondaryExplosion>
-  <CE_DescFragRange>파편 사거리</CE_DescFragRange>
   <CE_DescArmorPenetration>방어구 관통</CE_DescArmorPenetration>
+  <CE_DescSharpPenetration>날카로움 관통력</CE_DescSharpPenetration>
+  <CE_DescBluntPenetration>둔탁함 관통력</CE_DescBluntPenetration>
   <CE_DescPelletCount>파편 개수</CE_DescPelletCount>
   <CE_DescSpreadMult>확산 인자</CE_DescSpreadMult>
+  <CE_DescFragments>파편</CE_DescFragments>
+  <CE_NoAmmoAvailable>no viable ammo found nearby</CE_NoAmmoAvailable>
+  <CE_TurretFull>turret magazine is fully loaded</CE_TurretFull>
+  <CE_TurretNonAllied>turret belongs to a hostile faction</CE_TurretNonAllied>
+  <CE_TurretAlreadyReloading>already reloading turret</CE_TurretAlreadyReloading>
+  <CE_TurretIsBurning>turret is on fire</CE_TurretIsBurning>
   <CE_SuppressedMote>제압!</CE_SuppressedMote>
   <CE_HunkeringMote>포복!</CE_HunkeringMote>
   <CE_CrouchWalking>제압됨(포복 중)</CE_CrouchWalking>
@@ -69,6 +77,7 @@
   <CE_CoverHeight>엄폐물 높이</CE_CoverHeight>
   <CE_TargetHeight>목표물 높이</CE_TargetHeight>
   <CE_TargetWidth>목표물 폭</CE_TargetWidth>
+  <CE_EstimatedHitChance>Estimated hit chance</CE_EstimatedHitChance>
   <CE_ReloadingEquipment>장착</CE_ReloadingEquipment>
   <CE_ReloadingInventory>저장됨</CE_ReloadingInventory>
   <CE_ReloadingGenericAmmo>탄약</CE_ReloadingGenericAmmo>
@@ -92,8 +101,13 @@
   <CE_CannotPickUp>주울 수 없음</CE_CannotPickUp>
   <CE_OutOfAmmo>탄약 없음</CE_OutOfAmmo>
   <CE_PutAway>버리기: {0}</CE_PutAway>
+  <CE_ReloadApparel>Reload {0} with {1}</CE_ReloadApparel>
   <CE_TamerInventoryFull>인벤토리가 가득차서 길들이기를 할 수 없습니다.</CE_TamerInventoryFull>
   <CE_DropThingHaul>떨어뜨리기</CE_DropThingHaul>
+  <CE_CannotDropThing>Cannot drop</CE_CannotDropThing>
+  <CE_CannotDropThingHaul>Cannot drop and haul</CE_CannotDropThingHaul>
+  <CE_CannotPutAway>Cannot put away {0}</CE_CannotPutAway>
+  <CE_CannotChangeEquipment>This person refuses to change equipment.</CE_CannotChangeEquipment>
   <CE_Eat>섭취</CE_Eat>
   <CE_HoldTrackerForget>강제된것 취소</CE_HoldTrackerForget>
   <CE_ForcedHold>강제 됨</CE_ForcedHold>
@@ -106,9 +120,27 @@
   <CE_FireModes>사격 방식</CE_FireModes>
   <CE_AimedBurstCount>연발 횟수</CE_AimedBurstCount>
   <CE_UsedBy>사용처</CE_UsedBy>
+  <CE_StatsReport_FlammabilityPrecipitation>Multiplier for precipitation</CE_StatsReport_FlammabilityPrecipitation>
+  <CE_StatsReport_FlammabilityApparelFactor>의류 가연성</CE_StatsReport_FlammabilityApparelFactor>
+  <CE_StatsReport_FlammabilityApparelCoverage>의류 보호범위</CE_StatsReport_FlammabilityApparelCoverage>
+  <CE_StatsReport_BaseValue>기본값</CE_StatsReport_BaseValue>
+  <CE_mmRHA>mm RHA</CE_mmRHA>
+  <CE_MPa>MPa</CE_MPa>
+  <CE_cells>c</CE_cells>
+  <CE_degrees>°</CE_degrees>
+  <CE_meters>분</CE_meters>
+  <CE_WeaponPenetrationFactor>무기 관통력 수치</CE_WeaponPenetrationFactor>
+  <CE_AdjustedForWeapon>재료, 품질에 의한 조정값</CE_AdjustedForWeapon>
+  <CE_DPS>초당 피해</CE_DPS>
+  <CE_DamageVariation>스킬 비례 피해 변화량</CE_DamageVariation>
+  <CE_FinalAverageDamage>최종 평균 데미지</CE_FinalAverageDamage>
+  <CE_WielderSkillLevel>스킬 레벨</CE_WielderSkillLevel>
   <CE_ColonistHasShieldAndTwoHandedWeapon>정착민이 방패와 양손무기를 같이 가지고 있습니다.</CE_ColonistHasShieldAndTwoHandedWeapon>
   <CE_ColonistHasShieldAndTwoHandedWeaponDesc>정착민중 한명이 방패와 양손무기를 같이 가지고 있습니다. 방패를 제거하거나 다른무기로 바꾸기 전에는 공격하지 않을 것 입니다.</CE_ColonistHasShieldAndTwoHandedWeaponDesc>
-  <CE_CoverHeightExplanation>물체의 높이. 이 높이까지는 총격을 막아주며, 정착민들은 대체로 이 정도 높이에서 웅크리고서 그 위를 쏘게 될 것입니다. 사격하는 정착민의 높이보다 높으면 발사할 수 없습니다. 몸 높이보다 높으면 완전히 가려질 것입니다. 기준선의 경우, 이는 각각 0.86/1.0을 의미합니다.</CE_CoverHeightExplanation>
+  <CE_MechWarningLabel>이상한 신호</CE_MechWarningLabel>
+  <CE_MechWarningText>근처에서 몇 가지 이상한 전자 신호를 가로챘습니다. 그 자체로는 무해하지만 이러한 신호는 종종 해당 지역의 메카노이드들의 활동을 나타내는 지표입니다. \n\n 대형 메카노이드 중 일부는 대부분의 소총 사격은 쉽게 튕겨낼 수있는 방호력을 갖추고 있습니다. {0}는 최소한 {1} mm RHA이상의 관통력, 혹은 틈새로 스며들어 내부 부품을 과열시킬 수있는 화염병이나 회로를 파괴 할 수있는 EMP 무기가 필요하다고 말합니다.</CE_MechWarningText>
+  <CE_MechWarningText_UnnamedColonist>One of your colonists</CE_MechWarningText_UnnamedColonist>
+  <CE_CoverHeightExplanation>물체의 높이입니다. 이 높이까지는 총격을 막아주며, 정착민들은 대체로 이 정도 높이에서 웅크리고서 그 위로 쏘게 될 것입니다. \n\n정착민의 키보다 높다면 사격할 수 없습니다. 키 보다 높으면 완전히 가려질 것입니다. 기준선은 각각 1.5m/1.75m 입니다.</CE_CoverHeightExplanation>
   <CE_EnableTutorText>CE는 장갑 역학의 작동 방식과 센터피드로부터 죽지 않는 방법과 같은 주제에 대한 몇 가지 튜토리얼 항목을 추가합니다. 참가자가 학습 도우미를 활성화하는 것은 처음 권장됩니다.</CE_EnableTutorText>
   <CE_EnableTutorEnable>도움말을 사용할 수 있습니다.</CE_EnableTutorEnable>
   <CE_EnableTutorDisable>위험 인지</CE_EnableTutorDisable>
@@ -116,8 +148,13 @@
   <CE_Generic_RawFood>생식 아무거나 챙기기</CE_Generic_RawFood>
   <CE_Generic_Drugs>약물 아무거나 챙기기</CE_Generic_Drugs>
   <CE_Generic_Ammo>맞는 탄약 챙기기: {0}</CE_Generic_Ammo>
+  <CE_Generic_Medicine>아무 약품</CE_Generic_Medicine>
   <CE_Generic_Divider>/</CE_Generic_Divider>
+  <CE_LongEvent_LoadoutProperties>Preparing CombatExtended loadout generators</CE_LongEvent_LoadoutProperties>
+  <CE_LongEvent_AmmoInjector>Injecting ammunition</CE_LongEvent_AmmoInjector>
   <CE_LongEvent_BoundingBoxes>CombatExtended 경계 상자 생성</CE_LongEvent_BoundingBoxes>
+  <CE_LongEvent_TutorialPopup>Loading tutorial pop-up</CE_LongEvent_TutorialPopup>
+  <DormantCompAmmoBeacon>Ready to resupply turrets</DormantCompAmmoBeacon>
   <CE_Settings_HeaderGeneral>일반</CE_Settings_HeaderGeneral>
   <CE_Settings_HeaderAmmo>탄약</CE_Settings_HeaderAmmo>
   <CE_Settings_ShowCasings_Title>탄피 보이기</CE_Settings_ShowCasings_Title>
@@ -126,8 +163,16 @@
   <CE_Settings_ShowTaunts_Desc>정착민의 전투중 도발문구를 표시합니다.</CE_Settings_ShowTaunts_Desc>
   <CE_Settings_AllowMeleeHunting_Title>근접 무기로 사냥 허용</CE_Settings_AllowMeleeHunting_Title>
   <CE_Settings_AllowMeleeHunting_Desc>사냥꾼이 근접무기를 가지고 있다면 근접무기로 사냥을 허용합니다.</CE_Settings_AllowMeleeHunting_Desc>
+  <CE_Settings_SmokeEffects_Title>연기 효과</CE_Settings_SmokeEffects_Title>
+  <CE_Settings_SmokeEffects_Desc>화재는 위험한 검은 연기를 생성하여 보호 장비를 착용하지 않은 사람의 건강에 안좋은 영향을 줍니다.</CE_Settings_SmokeEffects_Desc>
+  <CE_Settings_MergeExplosions_Title>폭발이 병합됨</CE_Settings_MergeExplosions_Title>
+  <CE_Settings_MergeExplosions_Desc>근접한 폭발이 서로 병합되고, 대규모 폭발물의 쿡 오프시 퍼포먼스가 상당히 증가합니다. 그 주변에서 얼른 벗어나는걸 추천합니다.</CE_Settings_MergeExplosions_Desc>
+  <CE_Settings_TurretsBreakShields_Title>유인 포탑 사용중 보호막 벨트를 비활성화</CE_Settings_TurretsBreakShields_Title>
+  <CE_Settings_TurretsBreakShields_Desc> 포탑에 배치된 동안 해당 폰의 보호막 벨트가 비활성화됩니다. 이 옵션을 끄면 보호막 벨트가 활성화되어 추가 보호를 제공합니다.</CE_Settings_TurretsBreakShields_Desc>
   <CE_Settings_EnableAmmoSystem_Title>탄약 시스템 활성화</CE_Settings_EnableAmmoSystem_Title>
   <CE_Settings_EnableAmmoSystem_Desc>무기들은 탄약을 필요로하고 또한 특수한 탄약도 선택할 수 있습니다.\n\n경고: 기존의 정착지에서 이 설정을 변경하면 버그와 불안정을 초래할수 있으므로 위험을 감수해야 합니다.</CE_Settings_EnableAmmoSystem_Desc>
+  <CE_Settings_EnableSimplifiedAmmo_Title>탄약 단순화</CE_Settings_EnableSimplifiedAmmo_Title>
+  <CE_Settings_EnableSimplifiedAmmo_Desc>사용 가능한 탄약종의 수를 줄입니다. \n 할로우 포인트, 사봇 (총알 만 해당), 빈백, 슬러그 및 철갑탄 변형을 제거합니다. \n\n 경고: 기존 정착지에서 설정을 변경하면 버그와 불안정성이 발생할 위험을 감수해야합니다.</CE_Settings_EnableSimplifiedAmmo_Desc>
   <CE_Settings_RightClickAmmoSelect_Title>마우스 우클릭으로 탄약 선택</CE_Settings_RightClickAmmoSelect_Title>
   <CE_Settings_RightClickAmmoSelect_Desc>재장전 버튼을 우클릭 하면 탄약 선택 메뉴가 나타납니다.</CE_Settings_RightClickAmmoSelect_Desc>
   <CE_Settings_AutoReloadOnChangeAmmo_Title>탄약 자동 재장전</CE_Settings_AutoReloadOnChangeAmmo_Title>
@@ -144,5 +189,26 @@
   <CE_TextMote_Parried>반격!</CE_TextMote_Parried>
   <CE_TextMote_Knockdown>넉다운!</CE_TextMote_Knockdown>
   <CE_TextMote_CriticalHit>치명타 적중!</CE_TextMote_CriticalHit>
-
+  <CE_Wind_Beaufort0>고요</CE_Wind_Beaufort0>
+  <CE_Wind_Beaufort1>실바람</CE_Wind_Beaufort1>
+  <CE_Wind_Beaufort2>남실바람</CE_Wind_Beaufort2>
+  <CE_Wind_Beaufort3>산들바람</CE_Wind_Beaufort3>
+  <CE_Wind_Beaufort4>건들바람</CE_Wind_Beaufort4>
+  <CE_Wind_Beaufort5>흔들바람</CE_Wind_Beaufort5>
+  <CE_Wind_Beaufort6>된바람</CE_Wind_Beaufort6>
+  <CE_Wind_Beaufort7>센바람</CE_Wind_Beaufort7>
+  <CE_Wind_Beaufort8>큰바람</CE_Wind_Beaufort8>
+  <CE_Wind_Beaufort9>큰센바람</CE_Wind_Beaufort9>
+  <CE_Wind_Beaufort10>노대바람</CE_Wind_Beaufort10>
+  <CE_Wind_Beaufort11>왕바람</CE_Wind_Beaufort11>
+  <CE_Wind_Beaufort12>허리케인</CE_Wind_Beaufort12>
+  <CE_Wind_Direction_N>북향</CE_Wind_Direction_N>
+  <CE_Wind_Direction_NE>북동향</CE_Wind_Direction_NE>
+  <CE_Wind_Direction_E>동향</CE_Wind_Direction_E>
+  <CE_Wind_Direction_SE>남동향</CE_Wind_Direction_SE>
+  <CE_Wind_Direction_S>남향</CE_Wind_Direction_S>
+  <CE_Wind_Direction_SW>남서향</CE_Wind_Direction_SW>
+  <CE_Wind_Direction_W>서향</CE_Wind_Direction_W>
+  <CE_Wind_Direction_NW>북서향</CE_Wind_Direction_NW>
+  <CE_Wind_Tooltip>현재 풍속 및 방향입니다. \n\n 바람은 불의 확산 패턴에 영향을 미치며, 산들 바람에서 강풍까지 다양합니다.</CE_Wind_Tooltip>
 </LanguageData>

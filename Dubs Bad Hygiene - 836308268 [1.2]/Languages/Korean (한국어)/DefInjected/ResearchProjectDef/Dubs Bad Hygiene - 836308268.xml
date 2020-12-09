@@ -1,18 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <SewageSludgeComposting.label>퇴비 연구</SewageSludgeComposting.label>
   <SewageSludgeComposting.description>오물을 적절한 처리와 관리를 통해 가혹한 환경의 제한된 공간에 비옥도를 증가시켜줄 수 있습니다. 또한, 비료는 관개용수와 혼용하여 지형의 비옥도를 많이 증가시킬 수 있습니다.</SewageSludgeComposting.description>
   <MultiSplitAirCon.label>다중 분할식 온도제어</MultiSplitAirCon.label>
   <MultiSplitAirCon.description>연결된 실외기를 사용하여 에어컨이나 냉동고 온도를 조절하는 다중 분할식 온도 제어 시스템입니다.</MultiSplitAirCon.description>
   <Plumbing.label>배관 연구</Plumbing.label>
   <Plumbing.description>물을 공급하고 배출하는 파이프, 배관설비, 저장탱크, 풍력펌프 및 기타 부속품을 연구합니다.</Plumbing.description>
-  <LogBoilers.label>난방</LogBoilers.label>
+  <LogBoilers.label>데우는 중.</LogBoilers.label>
   <LogBoilers.description>방을 데우는 데 사용할 수 있는 통나무 보일러를 만들고 욕조에 배관하여 온수를 낼 수 있습니다.</LogBoilers.description>
   <CentralHeating.label>중앙 난방 시스템</CentralHeating.label>
   <CentralHeating.description>나무, 가스보일러와 온수 탱크 및 방열기를 연구합니다.</CentralHeating.description>
   <ModernFixtures.label>현대식 욕실 설비</ModernFixtures.label>
-  <ModernFixtures.description>변기와 샤워기 같은 현대식 욕실 설비를 건설합니다.</ModernFixtures.description>
+  <ModernFixtures.description>변기와 샤워기같은 현대식 욕실 설비를 건설합니다.</ModernFixtures.description>
   <ElectricPumps.label>전동 펌프</ElectricPumps.label>
   <ElectricPumps.description>지속해서 동작하는 전동식 가압 물 펌프</ElectricPumps.description>
   <AdvancedShowers.label>강력 샤워기</AdvancedShowers.label>
@@ -20,7 +19,7 @@
   <AdvancedToilets.label>스마트 비데</AdvancedToilets.label>
   <AdvancedToilets.description>더욱 편안한 스마트 좌식 변기입니다. 평범한 변기의 절반만큼 물을 사용합니다.</AdvancedToilets.description>
   <HotTubs.label>온수 욕조</HotTubs.label>
-  <HotTubs.description>열수 치료, 휴식, 쾌락을 동시에 제공하는 멋진 온수 욕조를 연구합니다.</HotTubs.description>
+  <HotTubs.description>열수치료, 휴식, 쾌락을 동시에 제공하는 멋진 온수 욕조를 연구합니다.</HotTubs.description>
   <LargeWaterPumps.label>초대형 급수 시스템</LargeWaterPumps.label>
   <LargeWaterPumps.description>공장에서 쓸법한 엄청난 용량의 물 펌프와 저장탱크를 연구합니다.</LargeWaterPumps.description>
   <DeepWells.label>심층 지하수</DeepWells.label>
@@ -38,6 +37,5 @@
   <Irrigation.label>농업용 스프링클러</Irrigation.label>
   <Irrigation.description>매일 아침 토질을 잠시 개선하는 농업용수 스프링클러를 연구합니다.</Irrigation.description>
   <FireSuppression.label>화재진압 스프링클러</FireSuppression.label>
-  <FireSuppression.description>물을 뿌려 화재를 진압하는 스프링클러를 연구합니다.</FireSuppression.description>
-
+  <FireSuppression.description>물을 뿌려 화재를 진압하는 스프링클러를 만듭니다.</FireSuppression.description>
 </LanguageData>

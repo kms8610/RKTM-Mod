@@ -1,23 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Beanbag.label>고무탄</Beanbag.label>
   <Beanbag.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</Beanbag.deathMessage>
   <Fragment.label>파편</Fragment.label>
   <Fragment.deathMessage>{0}(은)는 파편에 의해 죽었습니다.</Fragment.deathMessage>
   <PrometheumFlame.label>화염</PrometheumFlame.label>
-  <PrometheumFlame.deathMessage>{0}(이)가 불에 타 사망했습니다.</PrometheumFlame.deathMessage>
-  <Tranquilizer.label>신경제</Tranquilizer.label>
-  <Tranquilizer.deathMessage>{0}(이)가 죽었습니다.</Tranquilizer.deathMessage>
-  <Slash.label>찢김</Slash.label>
-  <Slash.deathMessage>{0}(이)가 찢겨 죽었습니다.</Slash.deathMessage>
-  <Bomb_Secondary.label>폭발</Bomb_Secondary.label>
-  <Bomb_Secondary.deathMessage>{0}(이)가 폭사했습니다.</Bomb_Secondary.deathMessage>
   <Thermobaric.label>열압력탄</Thermobaric.label>
-  <Thermobaric.deathMessage>{0}(이)가 폭사했습니다.</Thermobaric.deathMessage>
   <Flame_Secondary.label>화상</Flame_Secondary.label>
-  <Flame_Secondary.deathMessage>{0}(이)가 불에 타 사망했습니다.</Flame_Secondary.deathMessage>
   <Electrical.label>감전</Electrical.label>
   <Electrical.deathMessage>{0}(이)가 감전되어 죽었습니다.</Electrical.deathMessage>
-
+  <Tranquilizer.label>신경제</Tranquilizer.label>
 </LanguageData>

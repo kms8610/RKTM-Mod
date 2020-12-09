@@ -10,7 +10,7 @@
   <VanillaFactionsExpanded.MedievalTournamentInspectString>상: {0} ({1} 남음)</VanillaFactionsExpanded.MedievalTournamentInspectString>
   <VanillaFactionsExpanded.AttendMedievalTournament>{0}에 참여함</VanillaFactionsExpanded.AttendMedievalTournament>
   <VanillaFactionsExpanded.CaravanAttending>{0}에 참여하는 중</VanillaFactionsExpanded.CaravanAttending>
-  <VanillaFactionsExpanded.MedievalTournamentInitial>이 토너먼트는 {1}개 중 {0}개가 주최하고 있으며, 종목은 {2}개입니다. 이 대회에는 {3}명의 다른 경쟁자가 있으며 모두 다음과 같은 상을 받고자 합니다.\n\n{4}</VanillaFactionsExpanded.MedievalTournamentInitial>
+  <VanillaFactionsExpanded.MedievalTournamentInitial>이 토너먼트는 {1}의 {0}가 주최하고 있으며, 종목은 {2}입니다. 이 대회에는 {3}명의 다른 경쟁자가 있으며 모두 다음과 같은 상을 받고자 합니다.\n\n{4}</VanillaFactionsExpanded.MedievalTournamentInitial>
   <VanillaFactionsExpanded.Participate>참가하기</VanillaFactionsExpanded.Participate>
   <VanillaFactionsExpanded.ParticipateInitial>당신은 이 토너먼트에 참여하기로 선택했습니다. 챔피언을 지정하십시오.</VanillaFactionsExpanded.ParticipateInitial>
   <VanillaFactionsExpanded.PredictedPerformance>승산</VanillaFactionsExpanded.PredictedPerformance>

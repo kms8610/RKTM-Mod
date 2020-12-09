@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <AA_AcanthamoebaGiganteaSmall.label>소형 거대 가시 아메바</AA_AcanthamoebaGiganteaSmall.label>
+  <AA_AcanthamoebaGiganteaLarge.label>대형 거대 가시 아메바</AA_AcanthamoebaGiganteaLarge.label>
+  <AA_AcanthamoebaGiganteaHuge.label>초대형 거대 가시 아메바</AA_AcanthamoebaGiganteaHuge.label>
   <AA_Aerofleet.label>에어로플릿</AA_Aerofleet.label>
   <AA_ColossalAerofleet.label>거대 에어로플릿</AA_ColossalAerofleet.label>
   <AA_Agaripawn.label>아가리폰</AA_Agaripawn.label>
   <AA_Agaripod.label>아가리포드</AA_Agaripod.label>
   <AA_AngelMothLarva.label>천사 나방 고치</AA_AngelMothLarva.label>
   <AA_AngelMoth.label>천사 나방</AA_AngelMoth.label>
+  <AA_Animalisk.label>애니멀리스크</AA_Animalisk.label>
   <AA_BlackScarab.label>블랙 스캐럽</AA_BlackScarab.label>
   <AA_BlackSpelopede.label>블랙 스펠로피드</AA_BlackSpelopede.label>
   <AA_BlackSpider.label>블랙 스파이더</AA_BlackSpider.label>
@@ -53,6 +57,8 @@
   <AA_DevilSheep.labelMale>악마 양</AA_DevilSheep.labelMale>
   <AA_DevilSheep.labelFemale>악마 양</AA_DevilSheep.labelFemale>
   <AA_DevilSheep.lifeStages.0.label>악마 양</AA_DevilSheep.lifeStages.0.label>
+  <AA_DrainerLarva.label>드레이너 유충</AA_DrainerLarva.label>
+  <AA_Drainer.label>드레이너</AA_Drainer.label>
   <AA_Dunealisk.label>두니아리스크</AA_Dunealisk.label>
   <AA_DunealiskClutchMother.label>두니아리스크 무리어미</AA_DunealiskClutchMother.label>
   <AA_DuskRat.label>황혼 쥐</AA_DuskRat.label>
@@ -87,12 +93,14 @@
   <AA_Lockjaw.label>자물쇠턱 하마</AA_Lockjaw.label>
   <AA_MammothWorm.label>맘모스 벌레</AA_MammothWorm.label>
   <AA_Mantrap.label>사람지옥 풀</AA_Mantrap.label>
+  <AA_MatureFleshbeast.label>성체 고깃덩어리</AA_MatureFleshbeast.label>
   <AA_MeadowAve.label>초원공작</AA_MeadowAve.label>
   <AA_MeadowAve.labelPlural>초원공작</AA_MeadowAve.labelPlural>
   <AA_MeadowAve.lifeStages.0.label>초원공작</AA_MeadowAve.lifeStages.0.label>
   <AA_MegaLouse.label>메갈루스</AA_MegaLouse.label>
   <AA_MegaLouse.labelPlural>메갈루스</AA_MegaLouse.labelPlural>
   <AA_Metallovore.label>금속핥기</AA_Metallovore.label>
+  <AA_Mime.label>마임</AA_Mime.label>
   <AA_MycoidColossus.label>곰팡이 거대늘보</AA_MycoidColossus.label>
   <AA_Needlepost.label>바늘기둥 선인장</AA_Needlepost.label>
   <AA_Needleroll.label>바늘공</AA_Needleroll.label>
@@ -113,6 +121,8 @@
   <AA_PebbleMit.label>잔돌게</AA_PebbleMit.label>
   <AA_PebbleMit.lifeStages.0.label>잔돌게</AA_PebbleMit.lifeStages.0.label>
   <AA_PebbleMit.lifeStages.1.label>잔돌게</AA_PebbleMit.lifeStages.1.label>
+  <AA_PhoenixOwlcat.label>불사 부엉묘</AA_PhoenixOwlcat.label>
+  <AA_PhoenixOwlcat.lifeStages.0.label>불사 부엉묘 새끼</AA_PhoenixOwlcat.lifeStages.0.label>
   <AA_Plasmorph.label>플라스모프</AA_Plasmorph.label>
   <AA_Radyak.label>라디악</AA_Radyak.label>
   <AA_Radyak.lifeStages.0.label>라디악</AA_Radyak.lifeStages.0.label>

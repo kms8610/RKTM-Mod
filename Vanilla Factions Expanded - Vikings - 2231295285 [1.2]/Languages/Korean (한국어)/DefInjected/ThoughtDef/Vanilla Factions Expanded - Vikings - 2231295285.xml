@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <VFEV_Inebriated.stages.0.label>알콜의 따스함</VFEV_Inebriated.stages.0.label>
+  <VFEV_Inebriated.stages.0.description>술을 마시고 나면 조금 풀어지는 느낌이야, 정말 좋아.</VFEV_Inebriated.stages.0.description>
+  <VFEV_Inebriated.stages.1.label>매우 취함</VFEV_Inebriated.stages.1.label>
+  <VFEV_Inebriated.stages.1.description>조금씩 비틀거리는게 꽤 즐거워.</VFEV_Inebriated.stages.1.description>
+  <VFEV_Inebriated.stages.2.label>어지러움</VFEV_Inebriated.stages.2.label>
+  <VFEV_Inebriated.stages.2.description>난 완전히 풀어헤쳤어 아무 두려움도 없고! 정말 최고야!.</VFEV_Inebriated.stages.2.description>
+  <VFEV_Inebriated.stages.3.label>취함</VFEV_Inebriated.stages.3.label>
+  <VFEV_Inebriated.stages.3.description>우! 무슨 일이야?</VFEV_Inebriated.stages.3.description>
   <VFEI_BeastHunted.stages.0.label>성공적인 사냥!</VFEI_BeastHunted.stages.0.label>
   <VFEI_BeastHunted.stages.0.description>우리가 맹수의 사냥에 성공했어!</VFEI_BeastHunted.stages.0.description>
   <VFEV_RaidRestlessness.stages.0.label>폭주 (x0)</VFEV_RaidRestlessness.stages.0.label>

@@ -5,10 +5,16 @@
   <AA_IncidentBlizzariskClutchMother.label>블리자리스크 무리어미</AA_IncidentBlizzariskClutchMother.label>
   <AA_IncidentDunealiskClutchMother.label>두니아리스크 무리어미</AA_IncidentDunealiskClutchMother.label>
   <AA_IncidentFeraliskClutchMother.label>페라리스크 무리어미</AA_IncidentFeraliskClutchMother.label>
+  <AA_IncidentAnimaliskEnters.label>애니멀리스크 발견됨</AA_IncidentAnimaliskEnters.label>
   <AA_IncidentSummitCrab.label>바위게</AA_IncidentSummitCrab.label>
   <AA_CactipineDropPod.label>수상한 드롭포드</AA_CactipineDropPod.label>
   <AA_Incident_Gallatross.label>갈라트로스 방랑자</AA_Incident_Gallatross.label>
   <AA_Incident_SkyMeteorite.label>하늘강철 운석</AA_Incident_SkyMeteorite.label>
   <AA_Incident_Bumbledrones.label>호박말벌 대이동</AA_Incident_Bumbledrones.label>
   <AA_Incident_BlackHive.label>검은 둥지 공격</AA_Incident_BlackHive.label>
+  <AA_Incident_MechSappers.label>메카노이드 공병단</AA_Incident_MechSappers.label>
+  <AA_MimeWandererJoin.label>방랑자 합류</AA_MimeWandererJoin.label>
+  <AA_MimeWandererJoin.letterLabel>방랑자 합류: {PAWN_nameDef}</AA_MimeWandererJoin.letterLabel>
+  <AA_MimeWandererJoin.letterText>{PAWN_nameDef}(이)라는 이름의 방랑자 {PAWN_kind}(이)가 도착하여 정착지에 합류하려고 합니다.{PAWN_pronoun}는 {PAWN_title}입니다.\n\n{PAWN_pronoun}는 정착지에 이바지할 생각이 있지만, 자발적으로 떠나지는 않을 것입니다. 만약 {PAWN_nameDef}(을)를 원하지 않는다면 {PAWN_objective} 추방하거나, 노예로 팔거나, 그냥 죽일 수도 있습니다. 하지만 정착민 생각도 과연 그럴까요.</AA_MimeWandererJoin.letterText>
+  <AA_ResourcePodCrash.label>알파애니멀 자원 드롭포드 추락</AA_ResourcePodCrash.label>
 </LanguageData>

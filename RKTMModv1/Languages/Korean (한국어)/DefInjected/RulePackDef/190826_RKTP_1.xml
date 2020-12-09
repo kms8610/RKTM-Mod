@@ -14,11 +14,6 @@
   <ROMV_BiteCleaned.rulePack.rulesStrings.2>cleaned->깨끗이 핥았습니다.</ROMV_BiteCleaned.rulePack.rulesStrings.2>
   <ROMV_BiteCleaned.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef](이)가 [SUBJECT_definite]의 [bitemark](을)를 [cleaned].</ROMV_BiteCleaned.rulePack.rulesStrings.0>
 
-  <!--1204015134_190714_RimGate - Jaffa, Kree!-->
-  <NamerPersonJaffa.rulePack.rulesStrings.0>name->[Firstjaf] [Lastjaf]</NamerPersonJaffa.rulePack.rulesStrings.0>
-  <NamerPersonJaffa.rulePack.rulesStrings.1>name->[comboname] [Lastjaf]</NamerPersonJaffa.rulePack.rulesStrings.1>
-  <NamerPersonJaffa.rulePack.rulesStrings.2>comboname->[Jaf_firstp][Jaf_secp]</NamerPersonJaffa.rulePack.rulesStrings.2>
-
   <!--1720751798_190519_[RH] Faction Task Force 141 (1.0)-->
   <RH_Namer141Outposts.rulePack.rulesStrings.1>name->[141Missions]</RH_Namer141Outposts.rulePack.rulesStrings.1>
   <RH_Namer141Outposts.rulePack.rulesStrings.0>name->[RH_141Maps]</RH_Namer141Outposts.rulePack.rulesStrings.0>

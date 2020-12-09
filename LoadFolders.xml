@@ -49,7 +49,6 @@
 	<li IfModActive="syrchalis.individuality">Individuality - 1497105115 [1.2]</li>
 	<li IfModActive="kentington.saveourship2">Save Our Ship 2 - 1909914131 [1.2]</li>
 	<li IfModActive="nmeijer.settlementinventory">Settlement Inventory - 2083067219 [1.2]</li>
-	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268 [1.2]</li>
 	<li IfModActive="Aelanna.EccentricTech.Cosmetics">Eccentric Tech - Cosmetic Modifications - 2014890157 [1.2]</li>
 	<li IfModActive="dame.hotmeals">Thermodynamics - Hot Meals - 2110968173 [1.2]</li>
 	<li IfModActive="goudaquiche.LtfMedBay">Medical bay - 2101075718 [1.2]</li>
@@ -105,7 +104,6 @@
 	<li IfModActive="VanillaExpanded.VFEProduction">Vanilla Furniture Expanded - Production - 1880253632 [1.2]</li>
 	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Vanilla Factions Expanded - Settlers - 2052918119 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VFEPropsandDecor">Vanilla Furniture Expanded - Props and Decor - 2102143149 [1.2]</li>
-	<li IfModActive="VanillaExpanded.VFEPower">Vanilla Furniture Expanded - Power - 2062943477 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VWEL">Vanilla Weapons Expanded - Laser - 1989352844 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VFESecurity">Vanilla Furniture Expanded - Security - 1845154007 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VFESpacer">Vanilla Furniture Expanded - Spacer Module - 2028381079 [1.2]</li>
@@ -156,7 +154,6 @@
 	<li IfModActive="Dylan.CSL">Children, school and learning - 1541438230 [1.2]</li>
 	<li IfModActive="killface.colonistbarkf">Colonist Bar KF - 729908976 [1.1]</li>
 	<li IfModActive="Mckay.ColonyLeadership.11">Colony Leadership - 1565942758 [1.2]</li>
-	<li IfModActive="CETeam.CombatExtended">Combat Extended - 1631756268 [1.2]</li>
 	<li IfModActive="NanoCE.GlassLights">Glass+Lights - 826153738 [1.2]</li>
 	<li IfModActive="killface.facialstuff">Facial Stuff - 818322128 [1.1]</li>
 	<li IfModActive="nilchei.darkestnightsksteam">Darkest Night SK Steam - 1840579077 [1.2]</li>
@@ -230,7 +227,6 @@
 	<li IfModActive="bozu.avianraces">Avian Races - 1514158118 [1.2]</li>
 	<li IfModActive="Mlie.BlackWidows">Black Widows (Continued) - 2243686995 [1.2]</li>
 	<li IfModActive="8Z.CallForIntel">Call For Intel - 2240610130 [1.2]</li>
-	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
 	<li IfModActive="ChJees.Androids">Androids - 1541064015 [1.2]</li>
 	<!-- 20.10.17 -->
 	<li IfModActive="Sielfyr.DreamAndDesire">Dream and Desire - 2168301289 [1.2]</li>
@@ -278,7 +274,6 @@
 	<li IfModActive="Mlie.RoadsOfTheRim">Roads of the Rim (Continued) - 2280318231 [1.2]</li>
 	<li IfModActive="tikubonn.RimTrash">RimTrash - 2281891286 [1.2]</li>
 	<!-- 20.11.15 -->
-	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
 	<li IfModActive="chefboyjc.zorgzf1">Zorg ZF1 - 2285163237 [1.2]</li>
 	<!-- 20.11.19 -->
 	<li IfModActive="sarg.rimbees">RimBees - 1558161673 [1.2]</li>
@@ -298,10 +293,32 @@
 	<li IfModActive="pleccymm.infectiouscreatures">Infectious Creatures - 1430501911 [1.2]</li>
 	<li IfModActive="dismarzero.VGP.VGPGardenFabrics">VGP Garden Fabrics - 2007062162 [1.2]</li>
 	<!-- 20.11.28 -->
-	<li IfModActive="VanillaExpanded.VARME">Vanilla Armour Expanded - 1814988282 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VWE">Vanilla Weapons Expanded - 1814383360 [1.2]</li>
 	<!-- 20.12.01 -->
 	<li IfModActive="UnlimitedHugs.AllowTool">Allow Tool - 761421485 [1.2]</li>
+	<!-- 20.12.03 -->
+	<li IfModActive="Mlie.Tenants">Tenants (Continued) - 2305695410 [1.2]</li>
+	<li IfModActive="GHXX.TechAdvancing">Tech Advancing - 735268789 [1.2]</li>
+	<li IfModActive="CETeam.CombatExtended">Combat Extended - 1631756268 [1.2]</li>
+	<!-- 20.12.05 -->
+	<li IfModActive="Mlie.CommonAilments">Common Ailments (Continued) - 2194968364 [1.2]</li>
+	<li IfModActive="Ogliss.Ykara.HarvestEverything">Harvest Everything! - 2007485974 [1.2]</li>
+	<li IfModActive="n7huntsman.combatshields">Combat Shields - 1588616696 [1.2]</li>
+	<li IfModActive="Mlie.LordoftheRimsElves">Lord of the Rims - Elves (Continued) - 2244183992 [1.2]</li>
+	<!-- 20.12.06 -->
+	<li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Vanilla Traits Expanded - 2296404655 [1.2]</li>
+	<li IfModActive="VanillaExpanded.VFEPower">Vanilla Furniture Expanded - Power - 2062943477 [1.2]</li>
+	<li IfModActive="VanillaExpanded.VARME">Vanilla Armour Expanded - 1814988282 [1.2]</li>
+	<li IfModActive="VanillaExpanded.VAPPE">Vanilla Apparel Expanded - 1814987817 [1.2]</li>
+	<!-- 20.12.07 -->
+	<li IfModActive="xen.races.jaffa">RimGate - Jaffa, Kree! 6.0.0 - 2018387536 [1.1]</li>
+	<li IfModActive="FunkyShit.RimOverhaul.Main">RimOverhaul - 1760022158 [1.1]</li>
+	<!-- 20.12.09 -->
+	<li IfModActive="fluffy.blueprints">Blueprints - 708455313 [1.2]</li>
+	<li IfModActive="fluffy.medicaltab">Medical Tab - 715565817 [1.2]</li>
+	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
+	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268 [1.2]</li>
   </v1.2>
 
 </loadFolders>

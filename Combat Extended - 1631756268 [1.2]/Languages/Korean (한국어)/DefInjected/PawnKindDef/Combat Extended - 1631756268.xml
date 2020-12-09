@@ -1,11 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <MercenaryMachineGunner.label>용병단 기관총 사수</MercenaryMachineGunner.label>
-  <MercenaryMachineGunner.labelPlural>용병 기관총 사수</MercenaryMachineGunner.labelPlural>
   <TribalGrenadier.label>척탄병</TribalGrenadier.label>
-  <TribalGrenadier.labelPlural>척탄병</TribalGrenadier.labelPlural>
   <TribalGunner.label>썬더러</TribalGunner.label>
-  <TribalGunner.labelPlural>썬더러</TribalGunner.labelPlural>
-
 </LanguageData>

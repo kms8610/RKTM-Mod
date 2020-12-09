@@ -3,6 +3,12 @@
   <AA_ExtractUranium.label>우라늄 결정 추출</AA_ExtractUranium.label>
   <AA_ExtractUranium.description>정제되지 않은 우라늄 결정에서 유용한 물질을 추출합니다.</AA_ExtractUranium.description>
   <AA_ExtractUranium.jobString>TargetA에서 우라늄 결정 추출 중.</AA_ExtractUranium.jobString>
+  <AA_BlueGel_To_Hexagel.label>푸른젤을 헥사젤로 압축합니다.</AA_BlueGel_To_Hexagel.label>
+  <AA_BlueGel_To_Hexagel.description>고압으로 푸른젤을 압축하여 헥사젤의 결정화 입방체를 제작합니다.</AA_BlueGel_To_Hexagel.description>
+  <AA_BlueGel_To_Hexagel.jobString>푸른젤 압축 중.</AA_BlueGel_To_Hexagel.jobString>
+  <AA_Make_HexagelCore.label>헥사젤 코어 제작</AA_Make_HexagelCore.label>
+  <AA_Make_HexagelCore.description>헥사젤과 우라늄을 안정제로 사용하여 헥사젤 코어를 제작합니다.</AA_Make_HexagelCore.description>
+  <AA_Make_HexagelCore.jobString>헥사젤 코어 제작 중.</AA_Make_HexagelCore.jobString>
   <AA_InstallMutantLeg.label>돌연변이 다리 이식</AA_InstallMutantLeg.label>
   <AA_InstallMutantLeg.description>돌연변이 다리를 이식합니다.</AA_InstallMutantLeg.description>
   <AA_InstallMutantLeg.jobString>돌연변이 다리 이식 중.</AA_InstallMutantLeg.jobString>

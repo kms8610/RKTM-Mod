@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <ReloadWeapon.reportString>재장전 중.</ReloadWeapon.reportString>
   <RunForCover.reportString>엄폐물로 뛰어가는 중.</RunForCover.reportString>
   <HunkerDown.reportString>몸을 수그리고 있는 중.</HunkerDown.reportString>
@@ -8,5 +7,4 @@
   <ReloadTurret.reportString>포탑 재장전 중.</ReloadTurret.reportString>
   <Stabilize.reportString>응급처치 중.</Stabilize.reportString>
   <TakeFromOther.reportString>옮기는 중.</TakeFromOther.reportString>
-
 </LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--708455313_181029_BluePrint-->
+  <Fluffy.Blueprints.NameAlreadyTaken>"{0}" 같은 이름의 청사진이 존재합니다. 다른 이름으로 저장하세요.</Fluffy.Blueprints.NameAlreadyTaken>
+  <Fluffy.Blueprints.InvalidBlueprintName>"{0}"은 사용할 수 없는 파일 이름입니다. 공백 문자는 사용할 수 없습니다.\n대신 언더바(_)를 사용하세요.</Fluffy.Blueprints.InvalidBlueprintName>
+  <Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>내보낸 청사진 "{0}"(이)가 이미 있습니다.\n다른 항목을 선택하세요.</Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>
+  <Fluffy.Blueprints.DefaultBlueprintName>청사진</Fluffy.Blueprints.DefaultBlueprintName>
+  <Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>설계도를 만들 수 없습니다. 아무것도 선택되어 있지 않습니다.</Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>
+  <Fluffy.Blueprints.Create>새로 만들기</Fluffy.Blueprints.Create>
+  <Fluffy.Blueprints.SaveToXML>청사진 내보내기</Fluffy.Blueprints.SaveToXML>
+  <Fluffy.Blueprints.LoadFromXML>청사진 읽기"{0}"</Fluffy.Blueprints.LoadFromXML>
+  <Fluffy.Blueprints.CreateHelp>왼쪽 클릭으로 청사진을 새로 작성합니다.\n오른쪽 클릭으로 읽어옵니다.</Fluffy.Blueprints.CreateHelp>
+  <Fluffy.Blueprints.NothingAvailableInBlueprint>설계도 {0}의 건축에 필요한 연구가 아직 완료되지 않았습니다..</Fluffy.Blueprints.NothingAvailableInBlueprint>
+  <Fluffy.Blueprints.Remove>청사진을 삭제합니다</Fluffy.Blueprints.Remove>
+  <Fluffy.Blueprints.RemoveAndDeleteXML>청사진 삭제 및 내보낸 청사진 삭제</Fluffy.Blueprints.RemoveAndDeleteXML>
+  <Fluffy.Blueprints.Rename>청사진 이름변경</Fluffy.Blueprints.Rename>
+  <Fluffy.Blueprints.XNotAvailableInBlueprint>설계도{0}에 포함되는 아이템에 필요한 연구가 아직 완료되지 않았습니다.: {1}</Fluffy.Blueprints.XNotAvailableInBlueprint>
+  <Fluffy.Blueprints.NoStoredBlueprints>내보낸 청사진이 없거나 이미 모두 로드되었습니다.</Fluffy.Blueprints.NoStoredBlueprints>
+  <Fluffy.Blueprint.Cost>총 비용:</Fluffy.Blueprint.Cost>
+
+</LanguageData>

@@ -6,8 +6,16 @@
 무슨 일이 일어날지 지켜볼 수도 있고, 달려가서 파괴할 수도 있습니다.</AA_Overgrown_DropPod.description>
   <AA_BlackHiveMound.label>검은 둥지 무더기</AA_BlackHiveMound.label>
   <AA_BlackHiveMound.description>거대 곤충의 둥지입니다. 이 무더기는 검은 둥지가 이 지역으로 터널을 뚫기 위해 사용되었으며, 지금은 활성화되어있지 않습니다. 며칠 후면 없어질 것입니다.</AA_BlackHiveMound.description>
+  <AA_AncientAssembler.label>고대 메카노이드 조립기</AA_AncientAssembler.label>
+  <AA_AncientAssembler.description>고대의 자동화된 메카노이드 공장입니다. 이 기계는 오랜기간 방치된 것으로 보이지만, 내부에 미약한 불꽃이 일렁이고 있습니다.</AA_AncientAssembler.description>
   <AA_SkySteelClumps.label>빛나는 기이한 광물</AA_SkySteelClumps.label>
   <AA_SkySteelClumps.description>이 이상한 광물은 매우 단단하고 유연합니다. 아마도 쓸만한 재료를 추출할 수 있는 방법을 찾을 수 있을 것입니다.</AA_SkySteelClumps.description>
+  <AA_BlueGelBattery.label>푸른젤 축전지</AA_BlueGelBattery.label>
+  <AA_BlueGelBattery.description>가연성이 높아 화재에 유의하여야 하지만 전기에너지가 흘러 넘치는 푸른젤의 축전지입니다. 비나 화염에 노출될시 폭발할 우려가 있습니다.</AA_BlueGelBattery.description>
+  <AA_HexaGelBattery.label>헥사젤 축전지</AA_HexaGelBattery.label>
+  <AA_HexaGelBattery.description>가연성이 높아 화재에 유의하여야 하지만 전기적 특성이 매우 뛰어난 헥사젤 축전지입니다. 비나 화염에 노출될시 폭발할 우려가 있습니다.</AA_HexaGelBattery.description>
+  <AA_HexagelCoreReactor.label>헥사젤 코어 반응로</AA_HexagelCoreReactor.label>
+  <AA_HexagelCoreReactor.description>헥사젤 코어 내부에 저장된 에너지에서 전력을 생산합니다.</AA_HexagelCoreReactor.description>
   <AA_MutantLeg.label>돌연변이 다리</AA_MutantLeg.label>
   <AA_MutantLeg.description>이 다리는 쉴틈없이 흘러나오는 미끈한 분비물로 덮여있는 것 같습니다. 이건... 자연 창조의 굴레를 벗어난 생명체인 것 같습니다.</AA_MutantLeg.description>
   <AA_MutantArm.label>돌연변이 팔</AA_MutantArm.label>
@@ -50,6 +58,8 @@
   <AA_BedBugEggUnfertilized.description>해악충의 무정란입니다. 날로 먹을 수도 있지만, 요리해서 먹는편이 "훨씬" 낫습니다. 사실, 벌레의 알인 것을 감안한다면 어느 쪽이건 역겹긴 합니다…</AA_BedBugEggUnfertilized.description>
   <AA_BedBugEggFertilized.label>해악충 유정란</AA_BedBugEggFertilized.label>
   <AA_BedBugEggFertilized.description>해악충의 유정란입니다. 날로 먹을 수도 있지만, 요리해서 먹는편이 "훨씬" 낫습니다. 사실, 벌레의 알인 것을 감안한다면 어느 쪽이건 역겹긴 합니다…</AA_BedBugEggFertilized.description>
+  <AA_AnimaliskEggFertilized.label>애니멀리스크 수정란</AA_AnimaliskEggFertilized.label>
+  <AA_AnimaliskEggFertilized.description>수정된 애니멀리스크의 알입니다. 날로 먹을 수도 있지만, 요리해서 먹는편이 "훨씬" 낫습니다. 사실, 거미의 알인 것을 감안한다면 어느 쪽이건 역겹긴 합니다…</AA_AnimaliskEggFertilized.description>
   <AA_FeraliskEggUnfertilized.label>페라리스크 무정란</AA_FeraliskEggUnfertilized.label>
   <AA_FeraliskEggUnfertilized.description>페라리스크의 무정란입니다. 날로 먹을 수도 있지만, 요리해서 먹는편이 "훨씬" 낫습니다. 사실, 벌레의 알인 것을 감안한다면 어느 쪽이건 역겹긴 합니다…</AA_FeraliskEggUnfertilized.description>
   <AA_FeraliskEggFertilized.label>페라리스크 유정란</AA_FeraliskEggFertilized.label>
@@ -92,6 +102,8 @@
   <AA_AtispecEggFertilized.description>아티스펙의 유정란입니다. 적당한 환경에서 아티스펙 유충으로 부화할 수 있습니다. 날로 먹을 수도 있지만, 요리해서 먹는 편이 더 낫습니다.</AA_AtispecEggFertilized.description>
   <AA_AngelMothEggFertilized.label>천사 나방 수정란</AA_AngelMothEggFertilized.label>
   <AA_AngelMothEggFertilized.description>천사나방의 수정란입니다. 적합한 환경에서 새끼 천사나방으로 부화할 수 있습니다. 생으로 먹을 수 있지만, 조리했을 때 훨씬 훌륭합니다.</AA_AngelMothEggFertilized.description>
+  <AA_DrainerEggFertilized.label>드레이너 수정란</AA_DrainerEggFertilized.label>
+  <AA_DrainerEggFertilized.description>수정된 드레이너의 알입니다. 별탈없이 때가되면 드레이너가 부화합니다. 날로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 낫습니다.</AA_DrainerEggFertilized.description>
   <AA_FireWaspEggFertilized.label>화염 말벌 유정란</AA_FireWaspEggFertilized.label>
   <AA_FireWaspEggFertilized.description>화염말벌의 유정란입니다. 별탈없이 때가되면 화염말벌로 부화합니다. 화염말벌의 알은 엄청난 양의 열을 발산하므로 방치하면 위험하며, 먹기 매우 불편합니다.</AA_FireWaspEggFertilized.description>
   <AA_FireWaspEggUnfertilized.label>화염 말벌 무정란</AA_FireWaspEggUnfertilized.label>
@@ -136,6 +148,12 @@
   <AA_SkySteel.description>추락한 소행성에서 발견된 이상한 철제 화합물입니다. 강철보다 뛰어난 방호력을 갖추고 있으나, 최악의 보온력을 가졌습니다.</AA_SkySteel.description>
   <AA_UraniumCrystals.label>정제되지 않은 우라늄 수정</AA_UraniumCrystals.label>
   <AA_UraniumCrystals.description>이 수정은 화학처리를 통해 우라늄으로 정제할 수 있습니다.</AA_UraniumCrystals.description>
+  <AA_BlueGel.label>푸른젤</AA_BlueGel.label>
+  <AA_BlueGel.description>에어로플릿에서 추출한 끈적끈적한 물질은 전기적 특성이 뛰어난 화합물로 정제할 수 있으며, 연구를 통해 강력한 배터리 및 발전기를 만드는데 사용할 수 있습니다. (생화학 연료를 정제하여 축전지 제작 가능)</AA_BlueGel.description>
+  <AA_Hexagel.label>헥사젤</AA_Hexagel.label>
+  <AA_Hexagel.description>결정화되고 응축된 푸른젤입니다. 헥사젤은 정제되지 않은 젤보다 훨씬 많은 에너지를 저장할 수 있지만, 상당히 불안정한 물질이기 때문에 격렬한 폭발을 일으킬 수 있습니다. 헥사젤은 부속 연구(축전지 및 고급 제작)를 통해 강력한 축전지 및 발전기를 제작하는데 사용할 수 있습니다.</AA_Hexagel.description>
+  <AA_HexagelCore.label>헥사젤 코어</AA_HexagelCore.label>
+  <AA_HexagelCore.description>수소 함량이 풍부한 푸른젤 전도체 구조와 우라늄 외함의 육각형 모양의 전력 코어입니다.</AA_HexagelCore.description>
   <AA_AgariluxRawFungus.label>대형 발광 버섯</AA_AgariluxRawFungus.label>
   <AA_AgariluxRawFungus.description>아가리포드, 또는 곰팡이 나무늘보에서 채집할 수 있는 아가릴룩스 버섯입니다. 일반 버섯에 비해 보관기한도 길고 날것으로도 먹기 좋습니다.</AA_AgariluxRawFungus.description>
   <AA_RottingMoundItem.label>발효된 유기물 더미</AA_RottingMoundItem.label>
@@ -225,20 +243,27 @@
   <AA_RedPlantsTall.description>이 풀은 외계종이 분명해 보이며, 탄소 기반 유기물이 아닌 것으로 판단됩니다. 또한 지상 환경에 노출되면 빠르게 부식 할 것 같습니다.</AA_RedPlantsTall.description>
   <AA_AlienTree.label>외계 나무</AA_AlienTree.label>
   <AA_AlienTree.description>이 풀은 외계종이 분명해 보이며, 탄소 기반 유기물이 아닌 것으로 판단됩니다. 또한 지상 환경에 노출되면 빠르게 부식 할 것 같습니다. 눈알같은 이상한 과일이 나무에 매달려 있지만, 먹진 못할것으로 보입니다. 나무 자체에서 흘러나오는 달콤한 향기가 매우 강렬하며, 어떻게든 유용한 목재를 얻을 수 있을 겁니다.</AA_AlienTree.description>
+  <AA_AcanthamoebaGiganteaSmall.label>소형 거대 가시 아메바</AA_AcanthamoebaGiganteaSmall.label>
+  <AA_AcanthamoebaGiganteaSmall.description>이름 그대로 "거대한 가시 아메바"인 이 이상한 생물은 생물학적 청소기 역할을 하도록 개조된 단세포 유기체입니다. 대부분의 비금속성 쓰래기를 섭취하며 소화할 수 있습니다.
+일정량의 식사 후 거대 가시 아메바는 크기가 커지며 성장 임계까지 비대해진 아메바는 분열 생식을 합니다.</AA_AcanthamoebaGiganteaSmall.description>
+  <AA_AcanthamoebaGiganteaSmall.tools.0.label>원생체</AA_AcanthamoebaGiganteaSmall.tools.0.label>
+  <AA_AcanthamoebaGiganteaLarge.label>대형 거대 가시 아메바</AA_AcanthamoebaGiganteaLarge.label>
+  <AA_AcanthamoebaGiganteaLarge.description>이름 그대로 "거대한 가시 아메바"인 이 이상한 생물은 생물학적 청소기 역할을 하도록 개조된 단세포 유기체입니다. 대부분의 비금속성 쓰래기를 섭취하며 소화할 수 있습니다.
+일정량의 식사 후 거대 가시 아메바는 크기가 커지며 성장 임계까지 비대해진 아메바는 분열 생식을 합니다.</AA_AcanthamoebaGiganteaLarge.description>
+  <AA_AcanthamoebaGiganteaLarge.tools.0.label>원생체</AA_AcanthamoebaGiganteaLarge.tools.0.label>
+  <AA_AcanthamoebaGiganteaHuge.label>초대형 거대 가시 아메바</AA_AcanthamoebaGiganteaHuge.label>
+  <AA_AcanthamoebaGiganteaHuge.description>이름 그대로 "거대한 가시 아메바"인 이 이상한 생물은 생물학적 청소기 역할을 하도록 개조된 단세포 유기체입니다. 대부분의 비금속성 쓰래기를 섭취하며 소화할 수 있습니다.
+일정량의 식사 후 거대 가시 아메바는 크기가 커지며 성장 임계까지 비대해진 아메바는 분열 생식을 합니다.</AA_AcanthamoebaGiganteaHuge.description>
+  <AA_AcanthamoebaGiganteaHuge.tools.0.label>원생체</AA_AcanthamoebaGiganteaHuge.tools.0.label>
   <AA_Aerofleet.label>에어로플릿</AA_Aerofleet.label>
-  <AA_Aerofleet.description>여러 식물들에게서 채집한 물과 수소로 가득 찬 채 아무 생각없이 통통 튀어다니는 작고 질척질척한 젤라틴 기반 비행생물체입니다. 
-
-에어로플릿은 이 주변에서 흔치않게도 정착민에게 적대적이지 않은 생물입니다. 끝내주지 않나요?
-
-성별이 없어 둘로 분열하는 무성생식을 하며, 떠다니기에 지형에 영향을 받지 않습니다.</AA_Aerofleet.description>
+  <AA_Aerofleet.description>작은 에어로 플릿은 물과 다양한 식물 물질로부터 수집되는 수소를 방출하여 비행하는 날아다니는 젤라틴 덩어리로, 평소에 아무런 생각없이 본능에 의존하여 튕겨다닙니다. 또한 이 근방에서는 보기 드물고 꽤나 멋진 비선공 생물체입니다.
+에어로플릿은 분열하는 형태로 무성생식을 하며. 가스 방출을 통해 땅에서 떠다니기 때문에 이동시 지형의 방해를 받지 않습니다. 체내에서 푸른젤이라 부르는 두껍고 질척한 젤라틴 물질을 생산하는데, 연구를 통해 이 물질을 강력한 배터리 및 발전기를 제작하는데 사용할 수 있습니다.(바이오연료 정제, 배터리 및 고급 제조)</AA_Aerofleet.description>
   <AA_Aerofleet.tools.1.label>촉수</AA_Aerofleet.tools.1.label>
   <AA_Aerofleet.comps.1.customString>분열 생식: </AA_Aerofleet.comps.1.customString>
   <AA_ColossalAerofleet.label>거대 에어로플릿</AA_ColossalAerofleet.label>
-  <AA_ColossalAerofleet.description>여러 식물들에게서 채집한 물과 수소로 가득 찬 채 아무 생각없이 통통 튀어다니는 거대하고 질척질척한 젤라틴 기반 비행생물체입니다. 
-
-에어로플릿은 이 주변에서 흔치않게도 정착민에게 적대적이지 않은 생물입니다. 끝내주지 않나요?
-
-노화로 인해 더이상 분열 할 수 없는 상태로 보이지만, 일부의 어린 에어로플릿들이 거대한 크기에 매료되어 어디든 따라다니고 있습니다.</AA_ColossalAerofleet.description>
+  <AA_ColossalAerofleet.description>거대 에어로 플릿은 물과 다양한 식물 물질로부터 수집되는 수소를 방출하여 비행하는 날아다니는 젤라틴 덩어리로, 평소에 아무런 생각없이 본능에 의존하여 튕겨다닙니다. 또한 이 근방에서는 보기 드물고 꽤나 멋진 비선공 생물체입니다. 거대 에어로플릿은 성장을 통해 꽤나 거대해진 개체입니다. 작고 어린 에어로플릿들은 이러한 거대 에어로플릿에게 매료되어 무리를 이루곤 합니다.
+에어로플릿은 분열하는 형태로 무성생식을 하며. 가스 방출을 통해 땅에서 떠다니기 때문에 이동시 지형의 방해를 받지 않습니다. 체내에서 푸른젤이라 부르는 두껍고 질척한 젤라틴 물질을 생산하는데, 연구를 통해 이 물질을 강력한 배터리 및 발전기를 제작하는데 사용할 수 있습니다.(바이오연료 정제, 배터리 및 고급 제조)</AA_ColossalAerofleet.description>
+  <AA_ColossalAerofleet.comps.2.customString>분열 생식: </AA_ColossalAerofleet.comps.2.customString>
   <AA_ColossalAerofleet.tools.1.label>촉수</AA_ColossalAerofleet.tools.1.label>
   <AA_Agaripawn.label>아가리폰</AA_Agaripawn.label>
   <AA_Agaripawn.description>아가리폰은 진균류 정글의 외딴 환경에서 성장하는 돌연변이 와일드폰입니다. 공생관계의 발광 버섯으로 몸이 덮여있으며, 아가리포드보다 총격에 대한 방호력이 떨어지나 불이 약점인 것은 동일합니다.
@@ -265,6 +290,13 @@
   <AA_AngelMothLarva.tools.0.label>머리</AA_AngelMothLarva.tools.0.label>
   <AA_AngelMoth.label>천사 나방</AA_AngelMoth.label>
   <AA_AngelMoth.description>프로젝트의 폐기로 인해 야생으로 방출된 천사 나방은 폐기물을 처리하기 위하여 인위적인 유전자 조작으로 만들어졌으며 다른 나방들과 유사한 형태의 변태과정을 겪는 아름다운 나비의 일종입니다.\n\n나방 유충은 초식성이며 무해하지만, 성체가 될 시 탐욕스럽게 옷감을 섭취하며 만일 주변에 옷감이 없다면 마지못해 풀을 섭취할 것입니다. 원하지 않는 옷가지를 없애는데도 사용될 수 있지만, 다루기가 까다롭기 떄문에 실제로 원하는 대로 활용하기는 어렵습니다.\n\n성체는 수확이 가능한 나방 가닥을 생산하며, 다른 나방은 생산된 나방 가닥을 섭취하므로 주의를 기울여야 합니다.</AA_AngelMoth.description>
+  <AA_Animalisk.label>애니멀리스크</AA_Animalisk.label>
+  <AA_Animalisk.description>인적드문 영혼의 숲에 서식하는 애니멀리스크는 초능력을 가지도록 개량된 페라리스크의 아종입니다. 초식성이기 때문에 다른 "리스크"들에 비해 위협적이지는 않지만 풀과 영혼나무를 매우 좋아하기 때문에, 적절히 관리되지 않는다면 상당히 불쾌해집니다.
+
+애니멀리스크는 자기방어수단으로 기절을 유발하는 거대한 거미줄을 발사하며, 접촉하여 기절한 사냥감을 무시무시한 맹독 송곳니로 처형할 수 있습니다.</AA_Animalisk.description>
+  <AA_Animalisk.tools.0.label>왼쪽 첫 번째 다리</AA_Animalisk.tools.0.label>
+  <AA_Animalisk.tools.1.label>오른쪽 첫 번째 다리</AA_Animalisk.tools.1.label>
+  <AA_Animalisk.tools.3.label>머리</AA_Animalisk.tools.3.label>
   <AA_BlackScarab.label>블랙 스캐럽</AA_BlackScarab.label>
   <AA_BlackScarab.description>유전공학으로 만들어진 이 거대한 딱정벌레는 메카노이드의 침입에 대항하기 위해 고안된 '검은 둥지'의 일원입니다. '검은 둥지'는 매우 호전적이며, 인공적으로 개량된 돌연변이 곤충들로 인해 매우 위협적입니다. 
 
@@ -419,6 +451,15 @@
   <AA_DevilSheep.tools.0.label>왼쪽 발굽</AA_DevilSheep.tools.0.label>
   <AA_DevilSheep.tools.1.label>오른쪽 발굽</AA_DevilSheep.tools.1.label>
   <AA_DevilSheep.tools.3.label>머리</AA_DevilSheep.tools.3.label>
+  <AA_DrainerLarva.label>드레이너 유충</AA_DrainerLarva.label>
+  <AA_DrainerLarva.description>고양이 정도의 크기를 가진 인시목의 곤충으로, 화려한 색상의 날개를 가지고 있습니다. 드레이너는 원래 변경계의 한 가련한 행성에서, 높은 수준의 방사선에 노출되어 변이한 파란색 모포나비입니다. 풀을 먹고 살수도 있지만 전기를 주식으로 하는 전력 유기체이며, 불행하게도 이는 다시말해 정착지의 "축전지"를 노린다는 뜻입니다.
+
+드레이너는 다른 인시목 곤충들과 같이 변태의 과정을 겪지만 유충으로 성장하는 기간이 매우 짧습니다. 유충 시기에는 성충과 같은 전기적 능력을 가지고 있지 않습니다.</AA_DrainerLarva.description>
+  <AA_DrainerLarva.tools.0.label>머리</AA_DrainerLarva.tools.0.label>
+  <AA_Drainer.label>드레이너</AA_Drainer.label>
+  <AA_Drainer.description>고양이 정도의 크기를 가진 인시목의 곤충으로, 화려한 색상의 날개를 가지고 있습니다. 드레이너는 원래 변경계의 한 가련한 행성에서, 높은 수준의 방사선에 노출되어 변이한 파란색 모포나비입니다. 풀을 먹고 살수도 있지만 전기를 주식으로 하는 전력 유기체이며, 불행하게도 이는 다시말해 정착지의 "축전지"를 노린다는 뜻입니다.
+
+드레이너는 다른 인시목 곤충들과 같이 변태의 과정을 겪지만 유충으로 성장하는 기간이 매우 짧습니다. 유충 시기에는 성충과 같은 전기적 능력을 가지고 있지 않습니다.</AA_Drainer.description>
   <AA_Dunealisk.label>두니아리스크</AA_Dunealisk.label>
   <AA_Dunealisk.description>누군가 꽁무니에서 초경조직을 뽑아내는 거대 거미를 만드는 것이 꽤나 멋진 생각이라 여겼던 모양입니다. 이들의 고향 행성은 원자폭탄에 의해 완전히 청소되어 뜨겁고 황폐한 대리석 덩어리로 변해버렸고, 두니아리스크는 이러한 극도로 뜨거운 기후에 적응한 페라리스크의 돌연변이입니다.
 
@@ -560,11 +601,9 @@
 매우 역겨운 외형을 가지고 있으며, 나선 달팽이가 시체 더미 속에서 뒹구는 것을 보는 것은 심각한 정신적 피해를 줍니다.</AA_Helixien.description>
   <AA_Helixien.tools.0.label>몸통</AA_Helixien.tools.0.label>
   <AA_InfectedAerofleet.label>감염된 에어로플릿</AA_InfectedAerofleet.label>
-  <AA_InfectedAerofleet.description>여러 식물들에게서 채집한 물과 수소로 가득 찬 채 아무 생각없이 통통 튀어다니는 작고 질척질척한 젤라틴 기반 비행생물체입니다. 
-
-감염된 에어로플릿은 눈알 수목지대에서 뿜어져 나오는 기체에 장기간 노출된 개체로, 외피에 붉은 기포와 물집이 특징적으로 나타납니다. 또한 포집한 수소를 기원을 알 수 없는 방식을 통해 산성가스로 바꾸는 듯 합니다.
-
-성별이 없어 둘로 분열하는 무성생식을 하며, 떠다니기에 지형에 영향을 받지 않습니다.</AA_InfectedAerofleet.description>
+  <AA_InfectedAerofleet.description>작은 에어로 플릿은 물과 다양한 식물 물질로부터 수집되는 수소를 방출하여 비행하는 날아다니는 젤라틴 덩어리로, 평소에 아무런 생각없이 본능에 의존하여 튕겨다닙니다. 또한 이 근방에서는 보기 드물고 꽤나 멋진 비선공 생물체입니다.
+이 에어로플릿은 눈알숲에서 방출되는 가스에 장기간 노출되어 영향을 받아 외부의 막에 붉은색 뿌리와 물집을 관찰할 수 있습니다. 이 물집과 뿌리를 통해 어떠한 과정을 거쳐 수소를 산성가스를 만드는 것으로 추측됩니다.
+에어로플릿은 분열하는 형태로 무성생식을 하며. 가스 방출을 통해 땅에서 떠다니기 때문에 이동시 지형의 방해를 받지 않습니다. 체내에서 푸른젤이라 부르는 두껍고 질척한 젤라틴 물질을 생산하는데, 연구를 통해 이 물질을 강력한 배터리 및 발전기를 제작하는데 사용할 수 있습니다.(바이오연료 정제, 배터리 및 고급 제조)</AA_InfectedAerofleet.description>
   <AA_InfectedAerofleet.tools.1.label>촉수</AA_InfectedAerofleet.tools.1.label>
   <AA_InfectedAerofleet.comps.0.customString>무성 분열: </AA_InfectedAerofleet.comps.0.customString>
   <AA_IronhuskBeetle.label>철갑 벌레</AA_IronhuskBeetle.label>
@@ -599,6 +638,11 @@
 하지만 실험 도중 거대한 메카노이드 군단의 공격에 대부분의 연구자들이 사살되었고, 아프리쿠스 프로젝트의 결과물은 대부분 그대로 방치되어 자체적인 생태계를 만들었습니다.</AA_Mantrap.description>
   <AA_Mantrap.tools.0.label>날카로운 돌기</AA_Mantrap.tools.0.label>
   <AA_Mantrap.tools.2.label>머리</AA_Mantrap.tools.2.label>
+  <AA_MatureFleshbeast.label>성체 고깃덩어리</AA_MatureFleshbeast.label>
+  <AA_MatureFleshbeast.description>유전조작 실패의 교과서적인 생명체인 고깃덩어리는 비참하게 고통스러우며 끊임없이 새어나오는 고름으로 뒤덮혀 있습니다. 죽은 대부분을 제외하고 가쁜 호흡을 하며 간신히 살아남은 극히 일부의 강인한 개체들은 야생에 적응하였고 왕성한 식욕을 가진 비대한 괴물로 탄생했습니다.
+
+야생의 고깃덩어리는 먹이를 통째로 집어삼키고, 최대 다섯마리까지 소화 가능한 거대 위장을 가지고 있습니다. 불쌍하게도 집어 삼켜진 개체는 하루동안 생존할 수 있으나, 종래에는 소화되어 뼈다귀만 남을 것입니다.</AA_MatureFleshbeast.description>
+  <AA_MatureFleshbeast.tools.1.label>머리</AA_MatureFleshbeast.tools.1.label>
   <AA_MeadowAve.label>초원공작</AA_MeadowAve.label>
   <AA_MeadowAve.description>화려한 깃털을 지녔지만 날지 못하는 커다란 새입니다. 초원공작은 과일과 열매를 쉽게 찾을 수 있는 평야에 주로 서식하며, 그 화려한 깃털로 인해 자연스래 주변을 지나는 이들의 눈길을 끕니다. 하지만 아름다운 깃털 코트 속에는 면도날처럼 날카로운 부리와 발톱을 가진 야생동물이 있다는 사실을 잊어선 안됩니다.
 
@@ -617,6 +661,14 @@
 고철을 제거하기 위하여 만들어진 것으로 보이는 이 생물은 현재 대부분 야생에서 발견됩니다.</AA_Metallovore.description>
   <AA_Metallovore.tools.0.label>촉수</AA_Metallovore.tools.0.label>
   <AA_Metallovore.tools.1.label>몸통</AA_Metallovore.tools.1.label>
+  <AA_Mime.label>마임</AA_Mime.label>
+  <AA_Mime.description>대부분의 "외계"생물체들이 정착지의 동물을 기반으로 편의에 의해 유전조작된 생명체들이라면, 마임은 모든 윤리적인 기준을 아득히 넘어 고안되었습니다. 다시말해, 굶주린 동물적인 본능만 남긴 유전변형 인간입니다.
+
+마임은 생존을 위해 그들의 정신력을 활용하여 정상적인 정착민으로 위장하고 인간 사회에 침투하여 몇 주, 몇 달, 혹은 몇 년 동안 구성원들 사이에서 사는 초자연적인 재능의 기생자입니다. 하지만 왕성한 식욕으로 인해 정착지의 식량을 빠르게 소진시키고, 식량이 떨어지면 이성을 잃어 정착민을 공격하기 시작 할 것입니다.</AA_Mime.description>
+  <AA_Mime.tools.0.label>왼쪽 주먹</AA_Mime.tools.0.label>
+  <AA_Mime.tools.1.label>오른쪽 주먹</AA_Mime.tools.1.label>
+  <AA_Mime.tools.2.label>이빨</AA_Mime.tools.2.label>
+  <AA_Mime.tools.3.label>머리</AA_Mime.tools.3.label>
   <AA_MycoidColossus.label>곰팡이 거대늘보</AA_MycoidColossus.label>
   <AA_MycoidColossus.description>곰팡이 거대늘보는 진균류 정글에서 탄생한 나무 거대늘보의 아종입니다.
 
@@ -684,6 +736,14 @@
 
 거대하고 둥근 바위 대신, 잔돌게는 몸을 잘 보호하는 작은 돌들을 사용하여 땅에 붙은채 천천히 이동하며, 주기적으로 껍질에서 떨어져나오는 작은 돌덩이들은 건축자재로 활용될 수 있습니다.</AA_PebbleMit.description>
   <AA_PebbleMit.tools.1.label>머리</AA_PebbleMit.tools.1.label>
+  <AA_PhoenixOwlcat.label>불사 부엉묘</AA_PhoenixOwlcat.label>
+  <AA_PhoenixOwlcat.description>불사 부엉묘는 연약한 고양이를 보완하기 위하여 독특한 특성을 가지도록 유전조작된 고양이과 동물입니다. 이러한 특성 덕분에 야생의 적대적인 생명체에 의해 손쉬운 먹잇감이 되거나 사냥되어 도축되지 않는 충실한 동반자로 성장합니다.
+
+고대에 널리 알려진 고양이들의 민요를 배경으로 설계되어, 혈류 속의 강력한 메카나이트를 통해 치명적인 부상에도 9번까지 부활 할 수 있도록 합니다.
+(창작자들의 갤러리, Deviant Art의 https://www.deviantart.com/robthedoodler 에게 영감을 받았습니다!)</AA_PhoenixOwlcat.description>
+  <AA_PhoenixOwlcat.tools.0.label>왼쪽 발톱</AA_PhoenixOwlcat.tools.0.label>
+  <AA_PhoenixOwlcat.tools.1.label>오른쪽 발톱</AA_PhoenixOwlcat.tools.1.label>
+  <AA_PhoenixOwlcat.tools.3.label>머리</AA_PhoenixOwlcat.tools.3.label>
   <AA_Plasmorph.label>플라스모프</AA_Plasmorph.label>
   <AA_Plasmorph.description>이 기괴한 돌연변이 달팽이에게는 포식자로부터 자신을 방어하는 독특한 방법이 있습니다. 단단한 황화철로 만들어진 외피 속 플라스모프 특수장기를 통해 전기 뱀장어와 유사한 형태의 전격을 활용하는 것입니다. 하지만 방전 자체만으로 사냥감의 조직을 손상시킬 만큼 강력하지 않기에 플라스모프는 이 전격을 자신의 가연성 침을 발화시키는 착화제로서 사용합니다.
 
@@ -745,7 +805,7 @@
   <AA_RipperHound.tools.1.label>오른쪽 발톱</AA_RipperHound.tools.1.label>
   <AA_RipperHound.tools.3.label>머리</AA_RipperHound.tools.3.label>
   <AA_RoughPlatedMonitor.label>거친 피부 큰 도마뱀</AA_RoughPlatedMonitor.label>
-  <AA_RoughPlatedMonitor.description>&lt;i>바라누스 브락테아투스&lt;/i>라 불렸던 거친 피부 큰 도마뱀은 극한 상황에서도 생존할 수 있는 대형 큰 도마뱀입니다. 신체의 신진대사가 일반적인 산도보다 낮게 진화하여, pH 2 ~ 3의 산성 화산 호수 주변에서 주로 서식합니다. 산성에 대한 면역이 있기 때문에 이를 활용하여 다른 생물을 사냥합니다.\n\n거친 피부 큰 도마뱀은 부화할 때 강력한 산이 터져나오는 알을 낳습니다.</AA_RoughPlatedMonitor.description>
+  <AA_RoughPlatedMonitor.description><i>바라누스 브락테아투스</i>라 불렸던 거친 피부 큰 도마뱀은 극한 상황에서도 생존할 수 있는 대형 큰 도마뱀입니다. 신체의 신진대사가 일반적인 산도보다 낮게 진화하여, pH 2 ~ 3의 산성 화산 호수 주변에서 주로 서식합니다. 산성에 대한 면역이 있기 때문에 이를 활용하여 다른 생물을 사냥합니다.\n\n거친 피부 큰 도마뱀은 부화할 때 강력한 산이 터져나오는 알을 낳습니다.</AA_RoughPlatedMonitor.description>
   <AA_RoughPlatedMonitor.tools.0.label>왼쪽 발톱</AA_RoughPlatedMonitor.tools.0.label>
   <AA_RoughPlatedMonitor.tools.1.label>오른쪽 발톱</AA_RoughPlatedMonitor.tools.1.label>
   <AA_RoughPlatedMonitor.tools.2.label>송곳니</AA_RoughPlatedMonitor.tools.2.label>
@@ -920,7 +980,7 @@
 건조가 완료되면 고약한 산성 잉크침으로 무장한 강력한 범선으로서 활용됩니다.</AA_ColossalNautiloidRace.description>
   <AA_ColossalNautiloidRace.tools.0.label>몸체</AA_ColossalNautiloidRace.tools.0.label>
   <AA_ColossalNautiloidRace.comps.0.roles.0.label>오징어 몸체</AA_ColossalNautiloidRace.comps.0.roles.0.label>
-  <AA_ColossalNautiloidRace.comps.0.roles.1.label>조련사</AA_ColossalNautiloidRace.comps.0.roles.1.label>
+  <AA_ColossalNautiloidRace.comps.0.roles.1.label>담당</AA_ColossalNautiloidRace.comps.0.roles.1.label>
   <AA_ColossalNautiloidRace.comps.0.roles.2.label>잉크 분사기</AA_ColossalNautiloidRace.comps.0.roles.2.label>
   <AA_ColossalNautiloidRace.comps.0.roles.3.label>승객</AA_ColossalNautiloidRace.comps.0.roles.3.label>
   <AA_ColossalNautiloidRace.comps.1.cannons.0.label>전면 잉크 분사기</AA_ColossalNautiloidRace.comps.1.cannons.0.label>
@@ -934,7 +994,7 @@
 
 기체로 가득찬 돛모양의 구조물인 기흉을 통해 부력을 활용하여 바닷물 위를 떠다니며 지나가는 물고기를 마비시키는 촉수로 사냥을 합니다. 인공 구조물을 중심으로 서식지를 형성하여 양식이 가능하며, 화학 신호로 방향을 잡을 수 있게 된다면 이동수단으로도 활용될 수 있습니다.</AA_MirachianManowarRace.description>
   <AA_MirachianManowarRace.tools.0.label>몸체</AA_MirachianManowarRace.tools.0.label>
-  <AA_MirachianManowarRace.comps.0.roles.0.label>조련사</AA_MirachianManowarRace.comps.0.roles.0.label>
+  <AA_MirachianManowarRace.comps.0.roles.0.label>담당</AA_MirachianManowarRace.comps.0.roles.0.label>
   <AA_MirachianManowarRace.comps.0.roles.1.label>승객</AA_MirachianManowarRace.comps.0.roles.1.label>
   <AA_MirachianManowarBlueprint.label>미라키안 맨 오브 워</AA_MirachianManowarBlueprint.label>
   <AA_MirachianManowarBlueprint.description>상인들로부터 획득한 미라키안 맨 오브 워의 알과 재료를 활용하여 거대한 배를 만듭니다. 미라키안 맨 오브 워는 베타 안드로메다의 태양과 비교적 유사한 붉은 거성 "미라키"의 궤도를 공전하는 이름없는 바다기반 행성에서 유래하였습니다. 해파리와 유사한 형태를 보이지만 광합성을 하는 관해파리 유기체에 더 가까우며, 단일 다세포 생물이 아니라 같은종의 전문화된 많은 동물이 모여있어 하나의 작은 생태계를 이루고 있습니다.

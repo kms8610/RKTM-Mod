@@ -25,10 +25,6 @@
   <Fluffy_Manager.description>정착민들이 어떤 종류의 작업을 하고, 어떤 우선순위로 할 것인가를 정할 수 있습니다.</Fluffy_Manager.description>
   <Fluffy_Manager.label>관리자</Fluffy_Manager.label>
 
-  <!--715565817_190626_Medical Tab-->
-  <MedicalTab.label>의료</MedicalTab.label>
-  <MedicalTab.description>정착민, 가축과 포로들의 건강 상태를 확인하고 수술을 지시하고 의료 정책을 할당합니다.</MedicalTab.description>
-
   <!--724602224_190626_Misc. Robots-->
   <AIRobots.label>로봇</AIRobots.label>
   <AIRobots.description>정착지의 활성화 된 로봇입니다.</AIRobots.description>

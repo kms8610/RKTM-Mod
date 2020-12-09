@@ -10,14 +10,6 @@
   <ForgottenNewsCount.headerTip>해당 정착민이 잊어버린 소식의 갯수입니다.</ForgottenNewsCount.headerTip>
   <NewsKnowledgeButton.label>개인별 소식 살펴보기</NewsKnowledgeButton.label>
 
-  <!--715565817_190626_Medical Tab-->
-  <MedicalCare.label>의료 정책</MedicalCare.label>
-  <SelfTend.headerTip>자가 치료</SelfTend.headerTip>
-  <Bleeding.headerTip>출혈</Bleeding.headerTip>
-  <Diseases.headerTip>질병</Diseases.headerTip>
-  <Pain.label>고통</Pain.label>
-  <Pain.headerTip>고통</Pain.headerTip>
-
   <!--725219116_190621_Work_Tab-->
   <Mood.headerTip>기분</Mood.headerTip>
   <Job.headerTip>작업</Job.headerTip>

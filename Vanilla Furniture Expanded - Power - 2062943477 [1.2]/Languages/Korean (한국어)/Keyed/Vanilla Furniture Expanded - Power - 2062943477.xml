@@ -15,7 +15,7 @@
   <VPE_MustPlaceAdjacentToPipe>가스 동력 건물은 위가 아니라 가스관 근처에 놓아야 합니다.</VPE_MustPlaceAdjacentToPipe>
   <VPE_DeconstructGasPipes>가스관 제거</VPE_DeconstructGasPipes>
   <VPE_DeconstructGasPipesDesc>가스관과 심층 가스관만 해체합니다.</VPE_DeconstructGasPipesDesc>
-  <Fluffy.GasNetwork.GasNetworkInspectString>가스 추출/저장 용량: {0} / {1}</Fluffy.GasNetwork.GasNetworkInspectString>
+  <Fluffy.GasNetwork.GasNetworkInspectString>가스관 초과 (저장량): {0} ({1})</Fluffy.GasNetwork.GasNetworkInspectString>
   <Fluffy.GasNetwork.Stored>가스 저장량: {0}/{1}</Fluffy.GasNetwork.Stored>
   <Fluffy.GasNetwork.Production>가스 생산량: {0}</Fluffy.GasNetwork.Production>
   <Fluffy.GasNetwork.Consumption>가스 소모량: {0}</Fluffy.GasNetwork.Consumption>
@@ -25,6 +25,10 @@
   <Fluffy.GasNetwork.ValveClosed>밸브 닫힘</Fluffy.GasNetwork.ValveClosed>
   <Fluffy.GasNetwork.CommandToggleGas.Label>가스 전원 설정</Fluffy.GasNetwork.CommandToggleGas.Label>
   <Fluffy.GasNetwork.CommandToggleGas.Desc>가스 전원을 켜거나 끕니다. 정착민이 직접 와서 스위치를 조작합니다.</Fluffy.GasNetwork.CommandToggleGas.Desc>
+  <Fluffy.GasNetwork.DesiredBuffer>저장된 가스량: {0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
+  <Fluffy.GasNetwork.BufferOff>가스 저장소 꺼짐</Fluffy.GasNetwork.BufferOff>
+  <Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>풍속 단위를 설정합니다</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
+  <Fluffy.GasNetwork.Settings.Wind.Category>풍속 설정</Fluffy.GasNetwork.Settings.Wind.Category>
   <VPE_RadiationProduced>경고: 원자로에서 반경 {0}m의 방사선을 생성합니다.</VPE_RadiationProduced>
   <VPE_TempInReactorRoom>원자로실의 온도: {0}ºC</VPE_TempInReactorRoom>
   <VPE_TempInReactorRoomCritical>경고: 원자로실의 온도: {0}ºC</VPE_TempInReactorRoomCritical>
@@ -36,6 +40,9 @@
   <VPE_SoulsTime>영혼 저장시간:</VPE_SoulsTime>
   <VPE_Producing>전력 출력량 : {0} W</VPE_Producing>
   <VPE_NotProducing>어떤 영혼도 흡수되어있지 않습니다. 기계신은 인간의 영혼에 굶주려 있습니다.</VPE_NotProducing>
+  <VPE_ToggleViolenceGenerator>발전기 활성</VPE_ToggleViolenceGenerator>
+  <VPE_ToggleViolenceGeneratorDesc>전원을 켜거나 끕니다. 정착민이 직접 와서 스위치를 조작합니다.</VPE_ToggleViolenceGeneratorDesc>
+  <VPE_GeneratorIsOff>영혼 발전기 비활성화</VPE_GeneratorIsOff>
   <VPE_LightningTime>전력 출력 시간:</VPE_LightningTime>
   <VPE_NotLightningProducing>전력이 끊겼습니다. 다음 번 벼락을 기다려야 할 것 같네요.</VPE_NotLightningProducing>
   <VPE_AGasPipe>가스관</VPE_AGasPipe>

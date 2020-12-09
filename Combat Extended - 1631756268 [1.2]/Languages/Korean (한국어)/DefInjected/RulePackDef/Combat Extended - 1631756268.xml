@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <DamageEvent_CookOff.rulePack.rulesStrings.0>damage_source->[cookoffbullet]에 끼임</DamageEvent_CookOff.rulePack.rulesStrings.0>
   <DamageEvent_CookOff.rulePack.rulesStrings.1>damage_source->[cookoffbullet]에 박힘</DamageEvent_CookOff.rulePack.rulesStrings.1>
   <DamageEvent_CookOff.rulePack.rulesStrings.2>damage_source->[cookoffbullet]에 부딪침</DamageEvent_CookOff.rulePack.rulesStrings.2>
@@ -31,5 +30,4 @@
   <DamageEvent_CookOff.rulePack.rulesStrings.27>destroyed_present->절개됨</DamageEvent_CookOff.rulePack.rulesStrings.27>
   <AttackMote.rulePack.rulesStrings.0>rule->[swear]</AttackMote.rulePack.rulesStrings.0>
   <SuppressedMote.rulePack.rulesStrings.0>rule->[suppressed]</SuppressedMote.rulePack.rulesStrings.0>
-
 </LanguageData>

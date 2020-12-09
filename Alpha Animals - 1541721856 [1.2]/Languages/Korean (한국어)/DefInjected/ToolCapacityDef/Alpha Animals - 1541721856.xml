@@ -5,6 +5,7 @@
   <AA_Electric.label>전기 충격</AA_Electric.label>
   <AA_LockJawDamage.label>물기 (파상풍)</AA_LockJawDamage.label>
   <AA_ToxicSting.label>찌르기 (중독)</AA_ToxicSting.label>
+  <AA_SwallowWhole.label>통째로 집어삼켜짐</AA_SwallowWhole.label>
   <AA_BurningBite.label>물기 (화상)</AA_BurningBite.label>
   <AA_BurningAndFeedingBite.label>물림 (화상)</AA_BurningAndFeedingBite.label>
   <AA_Acid.label>침 (산성)</AA_Acid.label>

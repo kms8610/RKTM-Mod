@@ -2435,24 +2435,6 @@
   <RAZ_SeasonNegative>우리가 파도처럼 밀려와 공중파를 오염시킨다고 생각합니다.</RAZ_SeasonNegative>
   <RAZ_MessagePaymentArrived>{0}에서 구독권 결제가 들어왔습니다.</RAZ_MessagePaymentArrived>
 
-  <!--708455313_181029_BluePrint-->
-  <Fluffy.Blueprints.NameAlreadyTaken>"{0}" 같은 이름의 청사진이 존재합니다. 다른 이름으로 저장하세요.</Fluffy.Blueprints.NameAlreadyTaken>
-  <Fluffy.Blueprints.InvalidBlueprintName>"{0}"은 사용할 수 없는 파일 이름입니다. 공백 문자는 사용할 수 없습니다.\n대신 언더바(_)를 사용하세요.</Fluffy.Blueprints.InvalidBlueprintName>
-  <Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>내보낸 청사진 "{0}"(이)가 이미 있습니다.\n다른 항목을 선택하세요.</Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>
-  <Fluffy.Blueprints.DefaultBlueprintName>청사진</Fluffy.Blueprints.DefaultBlueprintName>
-  <Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>설계도를 만들 수 없습니다. 아무것도 선택되어 있지 않습니다.</Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>
-  <Fluffy.Blueprints.Create>새로 만들기</Fluffy.Blueprints.Create>
-  <Fluffy.Blueprints.SaveToXML>청사진 내보내기</Fluffy.Blueprints.SaveToXML>
-  <Fluffy.Blueprints.LoadFromXML>청사진 읽기"{0}"</Fluffy.Blueprints.LoadFromXML>
-  <Fluffy.Blueprints.CreateHelp>왼쪽 클릭으로 청사진을 새로 작성합니다.\n오른쪽 클릭으로 읽어옵니다.</Fluffy.Blueprints.CreateHelp>
-  <Fluffy.Blueprints.NothingAvailableInBlueprint>설계도 {0}의 건축에 필요한 연구가 아직 완료되지 않았습니다..</Fluffy.Blueprints.NothingAvailableInBlueprint>
-  <Fluffy.Blueprints.Remove>청사진을 삭제합니다</Fluffy.Blueprints.Remove>
-  <Fluffy.Blueprints.RemoveAndDeleteXML>청사진 삭제 및 내보낸 청사진 삭제</Fluffy.Blueprints.RemoveAndDeleteXML>
-  <Fluffy.Blueprints.Rename>청사진 이름변경</Fluffy.Blueprints.Rename>
-  <Fluffy.Blueprints.XNotAvailableInBlueprint>설계도{0}에 포함되는 아이템에 필요한 연구가 아직 완료되지 않았습니다.: {1}</Fluffy.Blueprints.XNotAvailableInBlueprint>
-  <Fluffy.Blueprints.NoStoredBlueprints>내보낸 청사진이 없거나 이미 모두 로드되었습니다.</Fluffy.Blueprints.NoStoredBlueprints>
-  <Fluffy.Blueprint.Cost>총 비용:</Fluffy.Blueprint.Cost>
-
   <!--709317151_190621_Relation Tab-->
   <Fluffy_Relations>관계 탭</Fluffy_Relations>
   <Fluffy_Relations.Possesive>{0}의</Fluffy_Relations.Possesive>
@@ -2718,35 +2700,6 @@
   <FM.Enabled>관리</FM.Enabled>
   <FM.Priority>작업</FM.Priority>
   <FM.Yearly>매년</FM.Yearly>
-
-  <!--715565817_190626_Medical Tab-->
-  <MedicalTab>의료 탭</MedicalTab>
-  <Colonists>정착민</Colonists>
-  <Animals>가축</Animals>
-  <Prisoners>포로</Prisoners>
-  <Visitors>방문객</Visitors>
-  <Hostiles>습격자</Hostiles>
-  <MedicalTab.Shift>shift</MedicalTab.Shift>
-  <MedicalTab.Alt>alt</MedicalTab.Alt>
-  <MedicalTab.Ctrl>ctrl</MedicalTab.Ctrl>
-  <MedicalTab.Left>왼쪽</MedicalTab.Left>
-  <MedicalTab.Right>오른쪽</MedicalTab.Right>
-  <MedicalTab.XClickToY>{0} 클릭: {1}</MedicalTab.XClickToY>
-  <MedicalTab.MassAssignMedicalCare>의료 정책 전체 할당</MedicalTab.MassAssignMedicalCare>
-  <MedicalTab.SetDefaultMedicalCare>기본 의료 정책 설정</MedicalTab.SetDefaultMedicalCare>
-  <MedicalTab.PawnIsIncapableOfX>{0}(은)는 {1}에 적합하지 않습니다.</MedicalTab.PawnIsIncapableOfX>
-  <MedicalTab.PawnIsNotAX>{0}(은)는 {1}(이)가 아닙니다.</MedicalTab.PawnIsNotAX>
-  <MedicalTab.ToggleSelfTend>자가 치료 토글: {0}</MedicalTab.ToggleSelfTend>
-  <MedicalTab.Reduce>감소</MedicalTab.Reduce>
-  <MedicalTab.Increase>증가</MedicalTab.Increase>
-  <MedicalTab.ShowSurgeryOptionsThat>{1}(을)를 {0} 시키기 위한 수술 계획서 보기</MedicalTab.ShowSurgeryOptionsThat>
-  <MedicalTab.ScheduledProcedures>예약된 수술:</MedicalTab.ScheduledProcedures>
-  <MedicalTab.FilterHealthyOn>완전히 건강하지 않은 림만 보입니다.\n\n클릭하면 모든 림을 봅니다.</MedicalTab.FilterHealthyOn>
-  <MedicalTab.FilterHealthyOff>모든 림이 보입니다.\n\n클릭하면 완전히 건강하지 않은 림만 봅니다.</MedicalTab.FilterHealthyOff>
-  <MedicalTab.SuggestDrugs>약물 관리 제안</MedicalTab.SuggestDrugs>
-  <MedicalTab.SuggestDrugsTip>마약은 제한된 의료 절차 목록에 있어야 합니까?</MedicalTab.SuggestDrugsTip>
-  <MedicalTab.ShowAllHostiles>모든 적 보기</MedicalTab.ShowAllHostiles>
-  <MedicalTab.ShowAllHostilesTip>기본적으로 기절된 적만 의료 탭의 '적' 카테고리에 나타납니다. 이 옵션을 활성화 함으로써 모든 적이 나타나게 됩니다.</MedicalTab.ShowAllHostilesTip>
 
   <!--717575199_190626_Misc. Training-->
   <TrainingFacility_MeleeWeaponRequired>근접 무기 필요</TrainingFacility_MeleeWeaponRequired>

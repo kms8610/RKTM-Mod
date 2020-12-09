@@ -589,32 +589,6 @@
   <Plantsquash.description>노란 호박의 한 종류</Plantsquash.description>
   <Rawsquash.description>노란 호박의 한 종류</Rawsquash.description>
 
-  <!--1204015134_190714_RimGate - Jaffa, Kree!-->
-  <Jaffa_Armor.label>자파 갑옷</Jaffa_Armor.label>
-  <Jaffa_Armor.description>모든 고아울드 전사들이 사용하는 강력한 자파 갑옷입니다.</Jaffa_Armor.description>
-  <Jaffa_Helmet.label>자파 투구</Jaffa_Helmet.label>
-  <Jaffa_Helmet.description>이 기본형 자파 투구는 큰 보호력을 제공하지는 않지만, 매우 가볍습니다.</Jaffa_Helmet.description>
-  <Jaffa_HorusHelmet.label>호루스 경비대 투구</Jaffa_HorusHelmet.label>
-  <Jaffa_HorusHelmet.description>이 투구는 고아울드의 '라'가 이끄는 호루스 경비대가 사용합니다.</Jaffa_HorusHelmet.description>
-  <Jaffa_JackalHelmet.label>자칼 경비대 투구</Jaffa_JackalHelmet.label>
-  <Jaffa_JackalHelmet.description>이 자칼 모양의 투구는 고아울드 아누비스가 이끄는 자칼 경비대가 사용합니다.</Jaffa_JackalHelmet.description>
-  <Jaffa_SnakeHelmet.label>서펜트 경비대 투구</Jaffa_SnakeHelmet.label>
-  <Jaffa_SnakeHelmet.description>이 뱀 모양의 투구는 오아울드 아포피스가 이끄는 서펜트 경비대가 사용합니다.</Jaffa_SnakeHelmet.description>
-  <Bullet_JaffaStaff.label>스태프 발사체</Bullet_JaffaStaff.label>
-  <Gun_JaffaStaff_blue.label>마'토크 지팡이</Gun_JaffaStaff_blue.label>
-  <Gun_JaffaStaff_blue.description>마'토크 지팡이는 자파 전사들의 주 무기입니다.</Gun_JaffaStaff_blue.description>
-  <Gun_JaffaStaff_blue.tools.0.label>손잡이</Gun_JaffaStaff_blue.tools.0.label>
-  <Gun_JaffaStaff_blue.tools.1.label>머리</Gun_JaffaStaff_blue.tools.1.label>
-  <Gun_JaffaStaff_violet.label>마'토크 지팡이</Gun_JaffaStaff_violet.label>
-  <Gun_JaffaStaff_violet.description>마'토크 지팡이는 자파 전사들의 주 무기입니다.</Gun_JaffaStaff_violet.description>
-  <Gun_JaffaStaff_violet.tools.0.label>손잡이</Gun_JaffaStaff_violet.tools.0.label>
-  <Gun_JaffaStaff_violet.tools.1.label>머리</Gun_JaffaStaff_violet.tools.1.label>
-  <Bullet_Zat.label>잣'니크'텔 발사체</Bullet_Zat.label>
-  <Gun_Zat.label>잣'니크'텔</Gun_Zat.label>
-  <Gun_Zat.description>이것은 잣'니크'텔입니다. 다른 형태의 에너지를 사용하는 무기로, 지팡이 무기보다는 덜 강력합니다. 하지만 충분히 치명적일 수는 있습니다. 단 한발이면 희생자를 무력화 시키기에는 충분합니다.</Gun_Zat.description>
-  <Gun_Zat.tools.0.label>손잡이</Gun_Zat.tools.0.label>
-  <Gun_Zat.tools.1.label>총열</Gun_Zat.tools.1.label>
-
   <!--1204258045_190519_[XND] Genetically Engineered Plants-->
   <PlantDuraveg.description>완전히 다른 종류의 인조 채소입니다. 강화 채소는 동굴계에 식량 공급의 새로운 수단으로 보급되는 것을 목적으로 번화계에서 선별적으로 길러지고 개조되었습니다.\n\n이 극도로 강인한 식물은 결빙 온도에서도 살아남을 수 있고, 병충해에 면역이며, 어둠 속에서도 자랍니다. 그러나 전통적인 작물에 비해 열량이 낮습니다.</PlantDuraveg.description>
   <PlantRocketree.description>쓸만한 목재를 수확할 수는 없지만 많은 화학연료를 생산하는 유전적으로 개조된 나무입니다. 비정상적으로 연약하고 파괴되면 큰 불덩어리로 폭발할 것입니다.</PlantRocketree.description>
@@ -5280,32 +5254,6 @@
   <MAC_TampedDirt_Blueprint.label>다져진 토양 (청사진)</MAC_TampedDirt_Blueprint.label>
   <MAC_TampedDirt_Frame.label>다져진 토양 (건설 중)</MAC_TampedDirt_Frame.label>
   <MAC_TampedDirt_Frame.description>작업이 진행중 입니다.</MAC_TampedDirt_Frame.description>
-
-  <!--1588616696_190526_[1.0] Combat Shields-->
-  <Apparel_Aspis.description>나무로 만들어지고 일부는 표면에 얇은 청동판이나 다른 금속판으로 덮여있는 볼록한 방패입니다.</Apparel_Aspis.description>
-  <Apparel_NordShield.description>서유럽을 침략하는데 바이킹들이 사용한 것으로 유명한, 고대 노르웨이식으로 된 무거운 방패입니다. 백병전과 발사체에 대항하여 사용자를 보호하기 위해 설계됐습니다. 두꺼운 목재와 무거운 철제 테두리로 만들어져 상당히 튼튼합니다.</Apparel_NordShield.description>
-  <Apparel_Scutum.description>고대 로마식 육중한 방패는 백병전과 발사체에 대항하여 사용자를 보호하기 위해 설계됐습니다.</Apparel_Scutum.description>
-  <Apparel_BallisticShield.description>고급 합금으로 만든 육중한 방패로 대구경의 총격을 결딜 수 있도록 설계됐습니다.</Apparel_BallisticShield.description>
-  <Apparel_CrusaderShield.description>십자군의 진홍색 상징이 새겨진, 다리를 보호하기 위해 노르만족이 즐겨 제작한 무거운 방패 입니다. 두꺼운 목재로 만들어진 카이트 실드는 백병전과 발사체에 대항하여 사용자를 보호하기 위해 설계됐습니다. 좋은 방어력을 제공하지만, 양손 무기의 사용을 제한합니다.</Apparel_CrusaderShield.description>
-  <Apparel_KiteShield.description>다리를 보호하기 위해 노르만족이 즐겨 제작한 무거운 방패입니다. 두꺼운 목재로 만들어진 카이트 실드는 백병전과 발사체에 대항하여 사용자를 보호하기 위해 설계됐습니다. 좋은 방어력을 제공하지만, 양손 무기의 사용을 제한합니다.</Apparel_KiteShield.description>
-  <Apparel_Pavise.description>거친 널빤지를 깍아 만든 크고 무거운 방패입니다. 들어오는 발사체로부터 석궁 사수와 궁수를 보호하기 위해 고안된 이 방패는 백병전에서 극도로 번거롭습니다.</Apparel_Pavise.description>
-  <Apparel_RiotShield.description>경량 금속 방패는 난투극 그리고 발사체에 대항하여 사용자를 보호하기 위해 설계됐지만, 총격과 갑옷을 관통하는 발사체를 막을만큼 두껍지 않습니다. 또한, 착용자의 신체 대부분을 덮을 수 있지만, 양손 무기의 사용을 제한합니다.</Apparel_RiotShield.description>
-  <Apparel_NguniShield.description>응구니종족군에 속하는 줄루족에서 만들었다고 유명한, 가죽 그리고 나무로 만든 경량 방패입니다. 상당히 얇음에도 불구하고, 간단한 발사체를 막을 수 있고 근접전에서 유용하게 사용할 수 있습니다.</Apparel_NguniShield.description>
-  <Apparel_WickerShield.description>한때 고대 페르시아 보병대가 사용한, 고리버들로 만들어진 경량 방패입니다. 화살과 다른 발사체들을 막는데는 효과적이지만, 찔러오는 칼이나 창을 막을 만큼 견고하지 못합니다.</Apparel_WickerShield.description>
-  <Apparel_AssaultShield.description>통합적인 센서가 달린 고급 방패로, 센서가 평형을 잡아주어 손쉽게 다룰 수 있습니다. 일반 크기의 방탄 방패보다 작고 가볍고, 총격으로부터 사용자를 보호하기 위해 설계됐습니다. 보호보다 속도를 높이고 무게를 줄임으로써 대부분의 방패들보다 덜 번거롭습니다.</Apparel_AssaultShield.description>
-  <Apparel_BucklerShield.description>극히 작은 강철 방패로, 보통 레이피어나 비슷한 경검과 짝을 이룹니다. 너무 작기에, 다가오는 발사체로부터 의미있는 보호를 제공하지 못합니다. 대신에 버클러는 백병전에서 적의 무기를 받아쳐 빗나가게 하도록 설계됐습니다..</Apparel_BucklerShield.description>
-  <Apparel_Aspis.label>아스피스</Apparel_Aspis.label>
-  <Apparel_AssaultShield.label>어썰트 실드</Apparel_AssaultShield.label>
-  <Apparel_BallisticShield.label>방탄 방패</Apparel_BallisticShield.label>
-  <Apparel_BucklerShield.label>버클러</Apparel_BucklerShield.label>
-  <Apparel_CrusaderShield.label>크루세이더의 카이트 실드</Apparel_CrusaderShield.label>
-  <Apparel_KiteShield.label>카이트 실드</Apparel_KiteShield.label>
-  <Apparel_NguniShield.label>응구니족 방패</Apparel_NguniShield.label>
-  <Apparel_NordShield.label>고대 노르웨이 방패</Apparel_NordShield.label>
-  <Apparel_Pavise.label>파비스</Apparel_Pavise.label>
-  <Apparel_RiotShield.label>진압 방패</Apparel_RiotShield.label>
-  <Apparel_Scutum.label>스쿠툼</Apparel_Scutum.label>
-  <Apparel_WickerShield.label>위커 실드</Apparel_WickerShield.label>
 
   <!--1601812699_190519_More Medications - Reborn-->
   <AdhdMedication.description>하루 종일 업무에 집중하기 힘든 사람들을위한 일반적인 약물. 집중력과 활동성을 높이지만 부작용으로 정신이 민감해지며 식욕을 잃을 수 있습니다. 1일간 지속됩니다.</AdhdMedication.description>

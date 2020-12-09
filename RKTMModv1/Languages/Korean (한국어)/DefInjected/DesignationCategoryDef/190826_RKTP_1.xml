@@ -58,10 +58,6 @@
   <Replimat_Replimat.description>레플리맷' 식품 복제 서비스 시스템을 구축하기 위한 구성 요소입니다.</Replimat_Replimat.description>
   <Replimat_Replimat.label>레플리맷</Replimat_Replimat.label>
 
-  <!--708455313_181029_BluePrint-->
-  <Blueprints.label>청사진</Blueprints.label>
-  <Blueprints.description>청사진!</Blueprints.description>
-
   <!--732569232_190814_Medieval Times-->
   <MedTimes_Medieval.label>중세</MedTimes_Medieval.label>
   <MedTimes_Medieval.description>중세 시대로부터 내려온 유산 모드</MedTimes_Medieval.description>

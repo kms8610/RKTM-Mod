@@ -16,13 +16,6 @@
   <LotRH_HobbitFemaleNamer.rulePack.rulesStrings.0>name->[firstName] [familyName]</LotRH_HobbitFemaleNamer.rulePack.rulesStrings.0>
   <LotRH_NamerFactionBaseHobbitShire.rulePack.rulesStrings.0>name->[pack]</LotRH_NamerFactionBaseHobbitShire.rulePack.rulesStrings.0>
 
-  <!--1400234784_190526_Lord of the Rims - Elves-->
-  <LotRE_ElfMaleNamer.rulePack.rulesStrings.0>name->[pack]</LotRE_ElfMaleNamer.rulePack.rulesStrings.0>
-  <LotRE_ElfFemaleNamer.rulePack.rulesStrings.0>name->[pack]</LotRE_ElfFemaleNamer.rulePack.rulesStrings.0>
-  <LotRE_NamerFactionBaseElfWoodland.rulePack.rulesStrings.0>name->[pack]</LotRE_NamerFactionBaseElfWoodland.rulePack.rulesStrings.0>
-  <LotRE_NamerFactionBaseElfSea.rulePack.rulesStrings.0>name->[pack]</LotRE_NamerFactionBaseElfSea.rulePack.rulesStrings.0>
-  <LotRE_NamerFactionBaseElfHigh.rulePack.rulesStrings.0>name->[pack]</LotRE_NamerFactionBaseElfHigh.rulePack.rulesStrings.0>
-
   <!--1400238872_190526_Lord of the Rims - Dwarves-->
   <LotRD_DwarfNamer.rulePack.rulesStrings.0>name->[pack]</LotRD_DwarfNamer.rulePack.rulesStrings.0>
   <LotRD_DwarfFemaleNamer.rulePack.rulesStrings.0>name->[pack]</LotRD_DwarfFemaleNamer.rulePack.rulesStrings.0>

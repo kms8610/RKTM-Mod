@@ -1,13 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <PipeVisibility.label>배관 표시</PipeVisibility.label>
-  <PipeVisibility.tip>배관 표시 설정</PipeVisibility.tip>
+  <PipeVisibility.tip>배관 시각화 설정</PipeVisibility.tip>
   <PipeVisibility.options.0.label>숨기기</PipeVisibility.options.0.label>
   <PipeVisibility.options.1.label>바닥 타일 밑에 숨기기</PipeVisibility.options.1.label>
   <PipeVisibility.options.2.label>항상 보이기</PipeVisibility.options.2.label>
   <HygieneRateD.label>위생 욕구</HygieneRateD.label>
-  <HygieneRateD.tip>위생 욕구가 떨어지는 속도 설정</HygieneRateD.tip>
+  <HygieneRateD.tip>위생 욕구 설정</HygieneRateD.tip>
   <HygieneRateD.options.0.label>없음</HygieneRateD.options.0.label>
   <HygieneRateD.options.1.label>10%</HygieneRateD.options.1.label>
   <HygieneRateD.options.2.label>20%</HygieneRateD.options.2.label>
@@ -29,7 +28,7 @@
   <HygieneRateD.options.18.label>500%</HygieneRateD.options.18.label>
   <HygieneRateD.options.19.label>1000%</HygieneRateD.options.19.label>
   <BladderRateD.label>배변 욕구</BladderRateD.label>
-  <BladderRateD.tip>배변 욕구가 떨어지는 속도 설정</BladderRateD.tip>
+  <BladderRateD.tip>배변 욕구 설정</BladderRateD.tip>
   <BladderRateD.options.0.label>없음</BladderRateD.options.0.label>
   <BladderRateD.options.1.label>10%</BladderRateD.options.1.label>
   <BladderRateD.options.2.label>20%</BladderRateD.options.2.label>
@@ -60,7 +59,7 @@
   <FlushSize.options.5.label>200%</FlushSize.options.5.label>
   <FlushSize.options.6.label>250%</FlushSize.options.6.label>
   <ThirstRateD.label>갈증 욕구</ThirstRateD.label>
-  <ThirstRateD.tip>갈증 욕구가 떨어지는 속도 설정</ThirstRateD.tip>
+  <ThirstRateD.tip>갈증 욕구 설정</ThirstRateD.tip>
   <ThirstRateD.options.0.label>없음</ThirstRateD.options.0.label>
   <ThirstRateD.options.1.label>10%</ThirstRateD.options.1.label>
   <ThirstRateD.options.2.label>20%</ThirstRateD.options.2.label>
@@ -93,7 +92,7 @@
   <ContaminationChance.options.7.label>175%</ContaminationChance.options.7.label>
   <ContaminationChance.options.8.label>200%</ContaminationChance.options.8.label>
   <WaterPumpCapacity.label>수도 펌프용량</WaterPumpCapacity.label>
-  <WaterPumpCapacity.tip>수도 펌프의 용량 계수 설정</WaterPumpCapacity.tip>
+  <WaterPumpCapacity.tip>급수 펌프의 용량</WaterPumpCapacity.tip>
   <WaterPumpCapacity.options.0.label>없음</WaterPumpCapacity.options.0.label>
   <WaterPumpCapacity.options.1.label>200%</WaterPumpCapacity.options.1.label>
   <WaterPumpCapacity.options.2.label>150%</WaterPumpCapacity.options.2.label>
@@ -144,7 +143,7 @@
   <SewageProcRate.options.7.label>25%</SewageProcRate.options.7.label>
   <SewageProcRate.options.8.label>10%</SewageProcRate.options.8.label>
   <IrrigationGridStrength.label>농업용수 토질 개선율</IrrigationGridStrength.label>
-  <IrrigationGridStrength.tip>관개의 효과 계수</IrrigationGridStrength.tip>
+  <IrrigationGridStrength.tip>관개 효과가 토질에 미치는 영향</IrrigationGridStrength.tip>
   <IrrigationGridStrength.options.0.label>없음</IrrigationGridStrength.options.0.label>
   <IrrigationGridStrength.options.1.label>240%</IrrigationGridStrength.options.1.label>
   <IrrigationGridStrength.options.2.label>220%</IrrigationGridStrength.options.2.label>
@@ -155,7 +154,7 @@
   <IrrigationGridStrength.options.7.label>120%</IrrigationGridStrength.options.7.label>
   <IrrigationGridStrength.options.8.label>110%</IrrigationGridStrength.options.8.label>
   <FertilizerGridStrength.label>비료의 토질 개선율</FertilizerGridStrength.label>
-  <FertilizerGridStrength.tip>비료의 효과 계수</FertilizerGridStrength.tip>
+  <FertilizerGridStrength.tip>비료 효과가 토질에 미치는 영향</FertilizerGridStrength.tip>
   <FertilizerGridStrength.options.0.label>없음</FertilizerGridStrength.options.0.label>
   <FertilizerGridStrength.options.1.label>160%</FertilizerGridStrength.options.1.label>
   <FertilizerGridStrength.options.2.label>140%</FertilizerGridStrength.options.2.label>
@@ -178,5 +177,17 @@
   <TerrainFertilityFactor.options.8.label>60%</TerrainFertilityFactor.options.8.label>
   <TerrainFertilityFactor.options.9.label>40%</TerrainFertilityFactor.options.9.label>
   <TerrainFertilityFactor.options.10.label>20%</TerrainFertilityFactor.options.10.label>
-
+  <FertilizerLifespan.label>비료 수명</FertilizerLifespan.label>
+  <FertilizerLifespan.tip>비료를 도포한 후 토질 개선 효과가 유지하는 기간</FertilizerLifespan.tip>
+  <FertilizerLifespan.options.0.label>치트</FertilizerLifespan.options.0.label>
+  <FertilizerLifespan.options.1.label>240일 (3년)</FertilizerLifespan.options.1.label>
+  <FertilizerLifespan.options.2.label>180일</FertilizerLifespan.options.2.label>
+  <FertilizerLifespan.options.3.label>120일 (2년)</FertilizerLifespan.options.3.label>
+  <FertilizerLifespan.options.4.label>80일</FertilizerLifespan.options.4.label>
+  <FertilizerLifespan.options.5.label>60일 (1년)</FertilizerLifespan.options.5.label>
+  <FertilizerLifespan.options.6.label>40일</FertilizerLifespan.options.6.label>
+  <FertilizerLifespan.options.7.label>30일</FertilizerLifespan.options.7.label>
+  <FertilizerLifespan.options.8.label>20일</FertilizerLifespan.options.8.label>
+  <FertilizerLifespan.options.9.label>10일</FertilizerLifespan.options.9.label>
+  <FertilizerLifespan.options.10.label>1일</FertilizerLifespan.options.10.label>
 </LanguageData>

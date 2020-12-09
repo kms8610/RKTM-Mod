@@ -8,9 +8,6 @@
   <LotRH_PuzzleSolvedLabel>퍼즐 해결!</LotRH_PuzzleSolvedLabel>
   <LotRH_PuzzleSolved>{0}(이)가 퍼즐을 해결했습니다. {1}(이)가 들어있었습니다!</LotRH_PuzzleSolved>
 
-  <!--1400234784_190526_Lord of the Rims - Elves-->
-  <LotRE_Elves>엘프들</LotRE_Elves>
-
   <!--1400238872_190526_Lord of the Rims - Dwarves-->
   <LotRD_ContainsWortMead>드워프 맥아즙 {0} / {1} 개 들어있음.</LotRD_ContainsWortMead>
   <LotRD_ContainsMead>드워프 벌꿀 술 {0} / {1} 개 들어있음.</LotRD_ContainsMead>

@@ -1,1 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData> 	<!--1400227853_190602_Lord of the Rims - Hobbits-->	<LotRH_HobbitHoleArch.label>호빗 아치</LotRH_HobbitHoleArch.label>	<LotRH_HobbitHoleArch.description>방을 구분합니다.</LotRH_HobbitHoleArch.description>	<LotRH_HobbitHoleDoor.label>호빗 문</LotRH_HobbitHoleDoor.label>	<LotRH_HobbitHoleDoor.description>방을 구분합니다.</LotRH_HobbitHoleDoor.description>	<!--1400234784_190526_Lord of the Rims - Elves-->	<PH_DoorDoubleElvishGrand.label>엘프 대문 (2x2)</PH_DoorDoubleElvishGrand.label>	<PH_DoorDoubleElvishGrand.description>엘프에 의해 훌륭히 제작된 입구입니다.</PH_DoorDoubleElvishGrand.description>	<Elven_Fence_GateA.label>엘프 장식 울타리 문</Elven_Fence_GateA.label>	<Elven_Fence_GateA.description>방을 구분합니다. 수동으로 열고 닫아야 하여, 이동속도가 감소됩니다.</Elven_Fence_GateA.description>	<Elven_Fence_GateB.label>엘프 장식 울타리 문</Elven_Fence_GateB.label>	<Elven_Fence_GateB.description>방을 구분합니다. 수동으로 열고 닫아야 하여, 이동속도가 감소됩니다.</Elven_Fence_GateB.description>	<!--1400238872_190526_Lord of the Rims - Dwarves-->	<PH_DoorDoubleDwarvenGrand.label>드워프 웅장한 대문 (3x2)</PH_DoorDoubleDwarvenGrand.label>	<PH_DoorDoubleDwarvenGrand.description>드워프 요새와 적들을 나누는 강력하고 거대한 대문입니다.</PH_DoorDoubleDwarvenGrand.description>	<LotRD_DoorDwarven.label>드워프 강화 문</LotRD_DoorDwarven.label>	<LotRD_DoorDwarven.description>금속 지지대로 보강된 문입니다. 방을 구분합니다. 수동으로 열고 닫아야 하여, 이동속도가 감소됩니다.</LotRD_DoorDwarven.description></LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1400227853_190602_Lord of the Rims - Hobbits-->
+  <LotRH_HobbitHoleArch.label>호빗 아치</LotRH_HobbitHoleArch.label>
+  <LotRH_HobbitHoleArch.description>방을 구분합니다.</LotRH_HobbitHoleArch.description>
+  <LotRH_HobbitHoleDoor.label>호빗 문</LotRH_HobbitHoleDoor.label>
+  <LotRH_HobbitHoleDoor.description>방을 구분합니다.</LotRH_HobbitHoleDoor.description>
+
+  <!--1400238872_190526_Lord of the Rims - Dwarves-->
+  <PH_DoorDoubleDwarvenGrand.label>드워프 웅장한 대문 (3x2)</PH_DoorDoubleDwarvenGrand.label>
+  <PH_DoorDoubleDwarvenGrand.description>드워프 요새와 적들을 나누는 강력하고 거대한 대문입니다.</PH_DoorDoubleDwarvenGrand.description>
+  <LotRD_DoorDwarven.label>드워프 강화 문</LotRD_DoorDwarven.label>
+  <LotRD_DoorDwarven.description>금속 지지대로 보강된 문입니다. 방을 구분합니다. 수동으로 열고 닫아야 하여, 이동속도가 감소됩니다.</LotRD_DoorDwarven.description>
+
+</LanguageData>

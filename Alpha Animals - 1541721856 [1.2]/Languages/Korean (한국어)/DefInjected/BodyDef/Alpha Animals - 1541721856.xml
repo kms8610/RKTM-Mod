@@ -371,6 +371,28 @@
   <AA_TentacledQuadruped.corePart.parts.18.parts.0.customLabel>왼쪽 뒷발</AA_TentacledQuadruped.corePart.parts.18.parts.0.customLabel>
   <AA_TentacledQuadruped.corePart.parts.19.customLabel>오른쪽 뒷다리</AA_TentacledQuadruped.corePart.parts.19.customLabel>
   <AA_TentacledQuadruped.corePart.parts.19.parts.0.customLabel>오른쪽 뒷발</AA_TentacledQuadruped.corePart.parts.19.parts.0.customLabel>
+  <AA_TentacledQuadrupedEyeless.label>눈이 없는 촉수 네발 동물</AA_TentacledQuadrupedEyeless.label>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.3.customLabel>왼쪽 폐</AA_TentacledQuadrupedEyeless.corePart.parts.3.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.4.customLabel>오른쪽 폐</AA_TentacledQuadrupedEyeless.corePart.parts.4.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.5.customLabel>왼쪽 신장</AA_TentacledQuadrupedEyeless.corePart.parts.5.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.6.customLabel>오른쪽 신장</AA_TentacledQuadrupedEyeless.corePart.parts.6.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.8.parts.0.parts.2.customLabel>왼쪽 귀</AA_TentacledQuadrupedEyeless.corePart.parts.8.parts.0.parts.2.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.8.parts.0.parts.3.customLabel>오른쪽 귀</AA_TentacledQuadrupedEyeless.corePart.parts.8.parts.0.parts.3.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.8.parts.0.parts.5.customLabel>벌어진 입</AA_TentacledQuadrupedEyeless.corePart.parts.8.parts.0.parts.5.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.9.customLabel>첫 번째 촉수</AA_TentacledQuadrupedEyeless.corePart.parts.9.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.10.customLabel>두 번째 촉수</AA_TentacledQuadrupedEyeless.corePart.parts.10.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.11.customLabel>세 번째 촉수</AA_TentacledQuadrupedEyeless.corePart.parts.11.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.12.customLabel>네 번째 촉수</AA_TentacledQuadrupedEyeless.corePart.parts.12.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.13.customLabel>다섯 번째 촉수</AA_TentacledQuadrupedEyeless.corePart.parts.13.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.14.customLabel>여섯 번째 촉수</AA_TentacledQuadrupedEyeless.corePart.parts.14.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.15.customLabel>왼쪽 앞다리</AA_TentacledQuadrupedEyeless.corePart.parts.15.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.15.parts.0.customLabel>왼쪽 앞 발톱</AA_TentacledQuadrupedEyeless.corePart.parts.15.parts.0.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.16.customLabel>오른쪽 앞다리</AA_TentacledQuadrupedEyeless.corePart.parts.16.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.16.parts.0.customLabel>오른쪽 앞 발톱</AA_TentacledQuadrupedEyeless.corePart.parts.16.parts.0.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.17.customLabel>왼쪽 뒷다리</AA_TentacledQuadrupedEyeless.corePart.parts.17.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.17.parts.0.customLabel>왼쪽 뒷발</AA_TentacledQuadrupedEyeless.corePart.parts.17.parts.0.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.18.customLabel>오른쪽 뒷다리</AA_TentacledQuadrupedEyeless.corePart.parts.18.customLabel>
+  <AA_TentacledQuadrupedEyeless.corePart.parts.18.parts.0.customLabel>오른쪽 뒷발</AA_TentacledQuadrupedEyeless.corePart.parts.18.parts.0.customLabel>
   <AA_TentacledSlug.label>촉수 민달팽이</AA_TentacledSlug.label>
   <AA_TentacledSlug.corePart.parts.1.customLabel>왼쪽 폐</AA_TentacledSlug.corePart.parts.1.customLabel>
   <AA_TentacledSlug.corePart.parts.2.customLabel>오른쪽 폐</AA_TentacledSlug.corePart.parts.2.customLabel>

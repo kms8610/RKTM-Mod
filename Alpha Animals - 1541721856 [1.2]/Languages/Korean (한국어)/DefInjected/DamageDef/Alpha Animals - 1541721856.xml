@@ -32,6 +32,8 @@
   <AA_BurningAndFeedingBite.deathMessage>{0}(은)는 불에 타고 꿰뚫려 죽었습니다.</AA_BurningAndFeedingBite.deathMessage>
   <AA_RegenerativePierce.label>찌르기 (흡혈)</AA_RegenerativePierce.label>
   <AA_RegenerativePierce.deathMessage>{0}(은)는 뿔에 들이받혀 죽었습니다.</AA_RegenerativePierce.deathMessage>
+  <AA_SwallowWhole.label>통째로 집어삼켜짐</AA_SwallowWhole.label>
+  <AA_SwallowWhole.deathMessage>{0}(이)가 물려 죽었습니다.</AA_SwallowWhole.deathMessage>
   <BodyCrush.label>으스러짐</BodyCrush.label>
   <BodyCrush.deathMessage>{0}(이)가 압사했습니다.</BodyCrush.deathMessage>
   <AA_SwarmlingClaws.label>스웜링 발톱</AA_SwarmlingClaws.label>
