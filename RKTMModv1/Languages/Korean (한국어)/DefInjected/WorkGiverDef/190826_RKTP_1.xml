@@ -97,11 +97,6 @@
   <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.label>통조림 기계 생산품 꺼내기</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.label>
   <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>꺼내는 중</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
 
-  <!--1498756997_190814_Maid Project-->
-  <MakeMaidCostumes.verb>재봉</MakeMaidCostumes.verb>
-  <MakeMaidCostumes.gerund>재봉</MakeMaidCostumes.gerund>
-  <MakeMaidCostumes.label>재봉</MakeMaidCostumes.label>
-
   <!--1505332648_190519_Gods of Elona [1.0]-->
   <DoBillsElona_altar.label>제단</DoBillsElona_altar.label>
   <DoBillsElona_altar.verb>제단</DoBillsElona_altar.verb>
@@ -143,26 +138,6 @@
   <DoBillsCaravanBiofuelRefinery_TWB.verb>화학연료 정제</DoBillsCaravanBiofuelRefinery_TWB.verb>
   <DoBillsCaravanBiofuelRefinery_TWB.gerund>화학연료 정제</DoBillsCaravanBiofuelRefinery_TWB.gerund>
   <DoBillsCaravanBiofuelRefinery_TWB.label>휴대용 정제기에서 정제</DoBillsCaravanBiofuelRefinery_TWB.label>
-
-  <!--1539311500_181027_Fertile Fields-->
-  <ConstructFinishFramesGrowing.verb>밭 갈기</ConstructFinishFramesGrowing.verb>
-  <ConstructFinishFramesGrowing.gerund>밭 가는 중.</ConstructFinishFramesGrowing.gerund>
-  <ConstructDeliverResourcesToBlueprintsGrowing.label>토양을 개선하기 위해 자원을 이송하는 중</ConstructDeliverResourcesToBlueprintsGrowing.label>
-  <DeliverResourcesToBlueprintsGrowing.label>토양을 개선하기 위해 자원을 이송하는 중</DeliverResourcesToBlueprintsGrowing.label>
-  <DeliverResourcesToBlueprintsGrowing.verb>운반</DeliverResourcesToBlueprintsGrowing.verb>
-  <DeliverResourcesToBlueprintsGrowing.gerund>운반 중.</DeliverResourcesToBlueprintsGrowing.gerund>
-  <DoBillsUseRockMill.label>제분기 작업하기</DoBillsUseRockMill.label>
-  <ConstructFinishFramesGrowing.label>비료 주고 밭 갈기</ConstructFinishFramesGrowing.label>
-  <FillCompostBarrel.verb>퇴비 채우기</FillCompostBarrel.verb>
-  <FillCompostBarrel.label>퇴비 숙성고 채우기</FillCompostBarrel.label>
-  <FillCompostBarrel.gerund>퇴비 채우는 중.</FillCompostBarrel.gerund>
-  <DoBillsUseRockMill.verb>제분기 작업</DoBillsUseRockMill.verb>
-  <DoBillsUseRockMill.gerund>분쇄 중.</DoBillsUseRockMill.gerund>
-  <EmptyCompostBarrel.verb>비료 꺼내기</EmptyCompostBarrel.verb>
-  <EmptyCompostBarrel.label>퇴비 숙성고에서 비료 꺼내기</EmptyCompostBarrel.label>
-  <EmptyCompostBarrel.gerund>비료 꺼내는 중.</EmptyCompostBarrel.gerund>
-  <ConstructDeliverResourcesToBlueprintsGrowing.verb>개간하기</ConstructDeliverResourcesToBlueprintsGrowing.verb>
-  <ConstructDeliverResourcesToBlueprintsGrowing.gerund>개간 중.</ConstructDeliverResourcesToBlueprintsGrowing.gerund>
 
   <!--1539311991_190814_Fishing-->
   <WorkGiver_CatchFish.label>낚시하기</WorkGiver_CatchFish.label>

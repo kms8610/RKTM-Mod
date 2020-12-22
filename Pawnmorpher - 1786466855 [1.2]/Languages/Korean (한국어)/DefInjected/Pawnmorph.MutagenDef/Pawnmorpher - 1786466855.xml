@@ -1,9 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <defaultMutagen.label>뮤토나이트</defaultMutagen.label>
-  <MergeMutagen.label>합성 뮤타즌</MergeMutagen.label>
-  <AspectGivingMutagen.label>뮤토나이트</AspectGivingMutagen.label>
-  <ChaoticMutagen.label>뮤토나이트</ChaoticMutagen.label>
-  <HealerMutagen.label>뮤토나이트</HealerMutagen.label>
-
+  <MergeMutagen.label>변형물질 융합</MergeMutagen.label>
 </LanguageData>

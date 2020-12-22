@@ -34,4 +34,48 @@
   <VBE_Yuenyeung.description>차와 커피를 섞어서 만듭니다. 차와 커피를 마시는 사람들은 이 끔찍한 혼합을 만들어내면서 각각 차이점을 두었습니다. 보통 차갑게 나오지만, 뜨겁든 차갑든 마시는 사람은 혼란스럽습니다.</VBE_Yuenyeung.description>
   <VBE_Yuenyeung.ingestible.ingestCommandString>{0} 마시기</VBE_Yuenyeung.ingestible.ingestCommandString>
   <VBE_Yuenyeung.ingestible.ingestReportString>{0} 마시는 중.</VBE_Yuenyeung.ingestible.ingestReportString>
+  <VBE_MintPlant.label>박하</VBE_MintPlant.label>
+  <VBE_MintPlant.description>민트 잎의 배열로 싹트고 있는 식물입니다. 민트 잎은 입안을 상쾌하게 하는 효과뿐만 아니라, 여러 종류의 차에 스며들거나 요리를 섬세하게 장식하는 용이함으로 악명이 높습니다. 실내에서 미관을 꾸밀 때도 쓰입니다.</VBE_MintPlant.description>
+  <VBE_MintLeaves.label>민트잎</VBE_MintLeaves.label>
+  <VBE_MintLeaves.description>민트 잎은 입안을 상쾌하게 하는 효과뿐만 아니라, 여러 종류의 차에 스며들거나 요리를 섬세하게 장식하는 용이함으로 악명이 높습니다. 보관기간이 짧습니다.</VBE_MintLeaves.description>
+  <VBE_MintCoffee.label>민트 커피</VBE_MintCoffee.label>
+  <VBE_MintCoffee.description>에스프레소기에 크림이나 우유를 섞은 다음, 그 위에 민트 오일을 얹은 커피입니다. 좋은 향이 날뿐만 아니라, 뒷맛은 더 시원하고 부드럽습니다.</VBE_MintCoffee.description>
+  <VBE_MintCoffee.ingestible.ingestCommandString>{0} 마시기</VBE_MintCoffee.ingestible.ingestCommandString>
+  <VBE_MintCoffee.ingestible.ingestReportString>{0} 마시는 중.</VBE_MintCoffee.ingestible.ingestReportString>
+  <VBE_DalgonaCoffee.label>달고나 커피</VBE_DalgonaCoffee.label>
+  <VBE_DalgonaCoffee.description>기존의 커피 애호가들로부터 멀리 떨어진 증기의 세계에서 유래되었다는 소문이 있는 최신 유행의 음료입니다. 설탕과 빠르게 섞인 커피 과립은 포근하고도 달콤한 거품을 만들지만, 보통 마시기 전에 사르르 녹습니다. 공부하거나 읽을 때 홀짝거릴 수 있는 음료입니다.</VBE_DalgonaCoffee.description>
+  <VBE_DalgonaCoffee.ingestible.ingestCommandString>{0} 마시기</VBE_DalgonaCoffee.ingestible.ingestCommandString>
+  <VBE_DalgonaCoffee.ingestible.ingestReportString>{0} 마시는 중.</VBE_DalgonaCoffee.ingestible.ingestReportString>
+  <VBE_GreenTea.label>녹차</VBE_GreenTea.label>
+  <VBE_GreenTea.description>설탕이 첨가되어 상큼한 버터 향의 견과류 맛이 나는 녹차입니다.</VBE_GreenTea.description>
+  <VBE_GreenTea.ingestible.ingestCommandString>{0} 마시기</VBE_GreenTea.ingestible.ingestCommandString>
+  <VBE_GreenTea.ingestible.ingestReportString>{0} 마시는 중.</VBE_GreenTea.ingestible.ingestReportString>
+  <VBE_MintTea.label>민트 차</VBE_MintTea.label>
+  <VBE_MintTea.description>홍차잎을 민트잎과 섞고 깊이 담갔다가 민트잎을 추가로 넣어 곁들인 차입니다. 입 안을 상쾌하게 해줍니다.</VBE_MintTea.description>
+  <VBE_MintTea.ingestible.ingestCommandString>{0} 마시기</VBE_MintTea.ingestible.ingestCommandString>
+  <VBE_MintTea.ingestible.ingestReportString>{0} 마시는 중.</VBE_MintTea.ingestible.ingestReportString>
+  <VBE_MasalaChai.label>마살라 차이</VBE_MasalaChai.label>
+  <VBE_MasalaChai.description>간결한 잎과 복잡한 향신료들로 만들어진 따뜻하지만 퀴퀴하며, 나무 향이 나는 차입니다. 콜레스테롤이 높은 사람에게 좋습니다.</VBE_MasalaChai.description>
+  <VBE_MasalaChai.ingestible.ingestCommandString>{0} 마시기</VBE_MasalaChai.ingestible.ingestCommandString>
+  <VBE_MasalaChai.ingestible.ingestReportString>{0} 마시는 중.</VBE_MasalaChai.ingestible.ingestReportString>
+  <VBE_NoonChai.label>눈 차이</VBE_NoonChai.label>
+  <VBE_NoonChai.description>찻잎, 약간의 소금과 베이킹 소다를 섞은 고대 카슈미르의 차입니다. 이것은 맛있을 뿐만 아니라 몸에 건강하기로 유명한 놀라운 분홍색 음료입니다. 고혈압 환자를 치료하는데 매우 효율적입니다.</VBE_NoonChai.description>
+  <VBE_NoonChai.ingestible.ingestCommandString>{0} 마시기</VBE_NoonChai.ingestible.ingestCommandString>
+  <VBE_NoonChai.ingestible.ingestReportString>{0} 마시는 중.</VBE_NoonChai.ingestible.ingestReportString>
+  <VBE_LemonTree.label>레몬 나무</VBE_LemonTree.label>
+  <VBE_LemonTree.description>사막과 열대지방에서 자생하는 키 큰 나무입니다. 밝고 시큼한 레몬이 이 나무에서 많이 자라며, 몇몇 레몬은 수확이 준비되기 전에 다 익어서 일찍이 땅에 떨어질 수도 있습니다.</VBE_LemonTree.description>
+  <VCE_RawLemon.label>레몬</VCE_RawLemon.label>
+  <VCE_RawLemon.description>신맛이 나는 산성 과일입니다. 과즙, 껍질, 그리고 과육은 더 나은 맛을 위해 종종 생선이나 다른 고기에 요리하는데 사용됩니다. 레몬은 또한 레모네이드와 같은 음료에 맛을 내거나 차와 커피와 섞을 때도 쓰입니다.</VCE_RawLemon.description>
+  <VBE_LemonCoffee.label>에스프레소 로마노</VBE_LemonCoffee.label>
+  <VBE_LemonCoffee.description>뜨거운 커피가 식기 전에 신 맛이 나는 레몬으로 재빨리 버무린, 이상한 조합의 커피입니다. 확실히 호불호가 갈리지만 그것을 선호하는 사람들은 꽤 있습니다. 내장 기생충을 퇴치에 효과적입니다.</VBE_LemonCoffee.description>
+  <VBE_LemonCoffee.ingestible.ingestCommandString>{0} 마시기</VBE_LemonCoffee.ingestible.ingestCommandString>
+  <VBE_LemonCoffee.ingestible.ingestReportString>{0} 마시는 중.</VBE_LemonCoffee.ingestible.ingestReportString>
+  <VBE_LemonTea.label>레몬 차</VBE_LemonTea.label>
+  <VBE_LemonTea.description>레몬을 찬물과 섞어 만든 진한 레몬 차입니다.</VBE_LemonTea.description>
+  <VBE_LemonTea.ingestible.ingestCommandString>{0} 마시기</VBE_LemonTea.ingestible.ingestCommandString>
+  <VBE_LemonTea.ingestible.ingestReportString>{0} 마시는 중.</VBE_LemonTea.ingestible.ingestReportString>
+  <VBE_EarlGreyTea.label>얼 그레이 차</VBE_EarlGreyTea.label>
+  <VBE_EarlGreyTea.description>매우 진하고 달콤한 과일 차입니다. 향긋한 꽃향기는 칙칙한 환경 속에서도 잔 주위에서 아른거립니다. 음료를 마신 사람들은 이상하게도 활기를 되찾습니다.</VBE_EarlGreyTea.description>
+  <VBE_EarlGreyTea.ingestible.ingestCommandString>{0} 마시기</VBE_EarlGreyTea.ingestible.ingestCommandString>
+  <VBE_EarlGreyTea.ingestible.ingestReportString>{0} 마시는 중.</VBE_EarlGreyTea.ingestible.ingestReportString>
 </LanguageData>

@@ -151,10 +151,6 @@
   <VG_CanningFactory.description>음식을 보존하기 위해 캔에 담아 포장을 할 수 있는 자동화된 기계를 연구합니다.\n\n통조림 자동화 기능으로 음식과 식사를 통조림으로 만들 수 있습니다.</VG_CanningFactory.description>
   <VG_CanningTable.description>음식을 보존하기 위해 캔에 담아 포장을 하는 방법을 연구합니다.\n\n통조림 작업대를 이용해 음식과 식사를 통조림으로 만들 수 있습니다.</VG_CanningTable.description>
 
-  <!--1498756997_190814_Maid Project-->
-  <MaidTech.description>다양한 일에 도움이 되는 메이드복을 만들 수 있습니다.</MaidTech.description>
-  <MaidTech.label>메이드복 연구</MaidTech.label>
-
   <!--1505332648_190519_Gods of Elona [1.0]-->
   <EhekatlofLuck.label>행운의 에헤카틀</EhekatlofLuck.label>
   <EhekatlofLuck.description>행운의 에헤카틀</EhekatlofLuck.description>
@@ -212,12 +208,6 @@
   <!--1529637152_190628_Cryptorestore Caskets-->
   <Cryptorestore.description>다량의 루시페륨을 사용하여 정착민을 회춘시킬 수 있는 크립토 복원기를 만들 수 있게 됩니다.</Cryptorestore.description>
   <Cryptorestore.label>크립토 복원기</Cryptorestore.label>
-
-  <!--1539311500_181027_Fertile Fields-->
-  <RFF_Farming.label>농업</RFF_Farming.label>
-  <RFF_Terraforming.label>지형 재구성</RFF_Terraforming.label>
-  <RFF_Terraforming.description>다양한 지형과 배수 방법에 대한 지식을 연구합니다. 모든 지형을 마음대로 주무를 수 있게 됩니다. 적지 않은 재료와 노동력이 필요하겠지만요.</RFF_Terraforming.description>
-  <RFF_Farming.description>이 연구는 보다 나은 농사 방법을 연구합니다. 비료로 토양의 질을 향상시킬 수 있으며, 불모지 위에도 흙을 깔아 작물 재배가 가능하도록 합니다.</RFF_Farming.description>
 
   <!--1541243129_190628_Rimperion-->
   <NegativeRecoil.label>네기티브 리코일</NegativeRecoil.label>

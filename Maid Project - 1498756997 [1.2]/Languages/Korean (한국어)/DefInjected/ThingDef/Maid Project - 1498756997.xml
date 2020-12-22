@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1498756997_190814_Maid Project-->
+  <MaidCostumeCraftingTable.description>메이드복을 제작하는데 쓰이는 작업대입니다.</MaidCostumeCraftingTable.description>
+  <MaidCostumeCraftingTable_Frame.description>메이드복을 제작하는데 쓰이는 작업대입니다.</MaidCostumeCraftingTable_Frame.description>
+  <ChefMaid.label>요리 메이드복</ChefMaid.label>
+  <CleanerMaid.label>청소 메이드복</CleanerMaid.label>
+  <CrafterMaid.label>작업 메이드복</CrafterMaid.label>
+  <FightMaid.label>전투 메이드복</FightMaid.label>
+  <HeaderMaid.label>사교 메이드복</HeaderMaid.label>
+  <MaidCostumeCraftingTable.label>메이드복 재봉 작업대</MaidCostumeCraftingTable.label>
+  <MaidCostumeCraftingTable_Blueprint.label>메이드복 재봉 작업대 (청사진)</MaidCostumeCraftingTable_Blueprint.label>
+  <MaidCostumeCraftingTable_Blueprint_Install.label>메이드복을 제작하는데 쓰이는 작업대입니다.</MaidCostumeCraftingTable_Blueprint_Install.label>
+  <MaidCostumeCraftingTable_Frame.label>메이드복 재봉 작업대 (건설 중)</MaidCostumeCraftingTable_Frame.label>
+  <MaidHatNA.label>작업용 카츄사</MaidHatNA.label>
+  <MaidHatNB.label>전투용 카츄사</MaidHatNB.label>
+  <MaidHatNC.label>이동용 카츄사</MaidHatNC.label>
+  <MaidHatNA.description>A형 카츄사. 전역 작업속도를 높여줍니다.</MaidHatNA.description>
+  <MaidHatNB.description>B형 카츄사. 사격 및 근접 정확도를 올려주고 튼튼합니다.</MaidHatNB.description>
+  <MaidHatNC.description>C형 카츄사. 이동속도를 올려줍니다.</MaidHatNC.description>
+  <NurseMaid.label>간호 메이드복</NurseMaid.label>
+  <ChefMaid.description>요리할때 입는 메이드복. 요리기술과 이동속도 그리고 전역작업속도를 높여줍니다</ChefMaid.description>
+  <CleanerMaid.description>청소할때 입는 메이드복. 수확기술과 이동속도를 높여주고 최대운반수량을 증가시켜 줍니다.</CleanerMaid.description>
+  <CrafterMaid.description>작업할때 입는 메이드복. 제작기술과 이동속도 그리고 전역작업속도를 높여줍니다.</CrafterMaid.description>
+  <FightMaid.description>전투할때 입는 메이드복. 전투능력과 이동속도를 높여주고 불에 잘 타지않습니다.</FightMaid.description>
+  <HeaderMaid.description>외교작업을 할때 입는 메이드복. 외교기술과 이동속도 그리고 전역작업속도를 높여줍니다.</HeaderMaid.description>
+  <NurseMaid.description>치료할때 입는 메이드복. 의료기술과 이동속도를 높여주고 불에 잘 타지 않습니다.</NurseMaid.description>
+
+</LanguageData>

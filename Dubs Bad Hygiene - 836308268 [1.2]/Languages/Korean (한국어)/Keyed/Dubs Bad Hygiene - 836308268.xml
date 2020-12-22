@@ -173,7 +173,7 @@
   <OverrideNeedsSettings>욕구 필터 상세 설정</OverrideNeedsSettings>
   <Disablebladderneed>배변 욕구 비활성</Disablebladderneed>
   <Disablehygieneneed>위생 욕구 비활성</Disablehygieneneed>
-  <DisableNeedsLabel>욕구 설정</DisableNeedsLabel>
+  <DisableNeedsLabel>욕구</DisableNeedsLabel>
   <NeedCheckboxTip>활성화를 위한 시간</NeedCheckboxTip>
   <PrisonersGetNeeds>죄수</PrisonersGetNeeds>
   <PrisonersGetNeedsTip>수감자 욕구 여부를 설정합니다.</PrisonersGetNeedsTip>
@@ -183,7 +183,7 @@
   <PrivacyChecksTip>정착민들이 화장실이나 욕조를 이용할때 서로 사생활을 지키도록 할까요?</PrivacyChecksTip>
   <CoolingEfficiency>냉각 효율</CoolingEfficiency>
   <CoolingEfficiencyTip>에어컨에 높은 온도로 인한 현실적인 냉각 효율 감소를 적용할까요?</CoolingEfficiencyTip>
-  <DisableNeeds>정착민</DisableNeeds>
+  <DisableNeeds>욕구 설정</DisableNeeds>
   <DisableNeedsTip>위생 관련 욕구를 모두 비활성합니다. 다른 설정보다 우선됩니다.</DisableNeedsTip>
   <PetsGetBladder>애완동물 배변</PetsGetBladder>
   <PetsGetBladderTip>애완동물에게 배변 욕구를 부여할까요?</PetsGetBladderTip>

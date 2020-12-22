@@ -1,225 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Make_SlurryFromMutonite.label>뮤토나이트에서 반죽 제작</Make_SlurryFromMutonite.label>
-  <Make_SlurryFromMutonite.description>뮤토나이트 한 병을 녹여 반죽으로 만듭니다.</Make_SlurryFromMutonite.description>
-  <Make_SlurryFromMutonite.jobString>뮤토나이트에서 반죽 만드는 중.</Make_SlurryFromMutonite.jobString>
+  <Make_GenekitColorPicker.label>피부 재착색 유전키트 제작</Make_GenekitColorPicker.label>
+  <Make_GenekitColorPicker.description>메카나이트를 피부 재착색 유전키트로 재구성.</Make_GenekitColorPicker.description>
+  <Make_GenekitColorPicker.jobString>피부 재착색 유전키트 제작중</Make_GenekitColorPicker.jobString>
+  <Make_SlurryFromMutonite.label>뮤타나이트에서 혼합물 제작</Make_SlurryFromMutonite.label>
+  <Make_SlurryFromMutonite.description>뮤타나이트 한덩이를 녹여 혼합물 한병으로 만듭니다.</Make_SlurryFromMutonite.description>
+  <Make_SlurryFromMutonite.jobString>뮤타나이트에서 혼합물 정제중</Make_SlurryFromMutonite.jobString>
+  <Make_SlurryFromMutoniteBulk.label>뮤타나이트에서 혼합물 제작중 x4</Make_SlurryFromMutoniteBulk.label>
+  <Make_SlurryFromMutoniteBulk.description>대량의 뮤타나이트를 혼합물 4병으로 만듭니다.</Make_SlurryFromMutoniteBulk.description>
+  <Make_SlurryFromMutoniteBulk.jobString>뮤타나이트에서 혼합물 4개 만드는 중.</Make_SlurryFromMutoniteBulk.jobString>
+  <Make_SlurryFromChaobulbs.label>혼돈방울에서 혼합물 제작</Make_SlurryFromChaobulbs.label>
+  <Make_SlurryFromChaobulbs.description>혼돈방울 씨낭에서 메카나이트를 추출해 혼합물을 만듭니다.</Make_SlurryFromChaobulbs.description>
+  <Make_SlurryFromChaobulbs.jobString>혼돈방울 씨낭에서 혼합물 정제 중.</Make_SlurryFromChaobulbs.jobString>
+  <Make_SlurryFromChaobulbsBulk.label>혼돈방울에서 혼합물 제작 x4</Make_SlurryFromChaobulbsBulk.label>
+  <Make_SlurryFromChaobulbsBulk.description>대량의 혼돈방울 씨낭에서 메카나이트를 추출해 혼합물을 만듭니다.</Make_SlurryFromChaobulbsBulk.description>
+  <Make_SlurryFromChaobulbsBulk.jobString>혼돈방울 씨낭에서 혼합물 4개 정제 중.</Make_SlurryFromChaobulbsBulk.jobString>
   <Make_ComponentsFromSlurry.label>반죽에서 부품 제작 (1:2)</Make_ComponentsFromSlurry.label>
   <Make_ComponentsFromSlurry.description>메카나이트 구성품을 부품으로 가공합니다.</Make_ComponentsFromSlurry.description>
   <Make_ComponentsFromSlurry.jobString>반죽 구성요소 처리 중.</Make_ComponentsFromSlurry.jobString>
-  <Make_ResurrectorFromMutonite.label>반죽에서 부활혈청 제작 (20:1)</Make_ResurrectorFromMutonite.label>
-  <Make_ResurrectorFromMutonite.description>반죽에서 메카나이트를 추출해 부활혈청으로 만듭니다. 상당히 많은 재료를 필요로 하며, 이들이 가지고있는 돌연변이 유발 효과를 중화시킵니다.</Make_ResurrectorFromMutonite.description>
-  <Make_ResurrectorFromMutonite.jobString>뮤토나이트에서 반죽 만드는 중.</Make_ResurrectorFromMutonite.jobString>
+  <Make_ResurrectorFromMutonite.label>부활혈청 제작</Make_ResurrectorFromMutonite.label>
+  <Make_ResurrectorFromMutonite.description>혼합물에서 메카나이트를 추출해 부활혈청으로 만듭니다. 변형 유인체 메카나이트를 이용해 만들기 때문에, 의도치 않은 부작용이 있을 수 있습니다.</Make_ResurrectorFromMutonite.description>
+  <Make_ResurrectorFromMutonite.jobString>뮤타나이트에서 혼합물 정제중</Make_ResurrectorFromMutonite.jobString>
   <Make_HealerFromMutonite.label>반죽에서 치료혈청 제작 (10:1)</Make_HealerFromMutonite.label>
   <Make_HealerFromMutonite.description>반죽에서 메카나이트를 추출해 치료혈청으로 만듭니다. 상당히 많은 재료를 필요로 하며, 이들이 가지고있는 돌연변이 유발 효과를 중화시킵니다.</Make_HealerFromMutonite.description>
-  <Make_HealerFromMutonite.jobString>뮤토나이트에서 반죽 만드는 중.</Make_HealerFromMutonite.jobString>
+  <Make_HealerFromMutonite.jobString>뮤타나이트에서 혼합물 정제중</Make_HealerFromMutonite.jobString>
   <Make_GlitterMedsFromMutonite.label>반죽에서 번화계약 제작 (5:1)</Make_GlitterMedsFromMutonite.label>
   <Make_GlitterMedsFromMutonite.description>반죽에서 메카나이트를 추출해 번화계 약으로 만듭니다. 상당히 많은 재료를 필요로 하며, 이들이 가지고있는 돌연변이 유발 효과를 중화시킵니다.</Make_GlitterMedsFromMutonite.description>
   <Make_GlitterMedsFromMutonite.jobString>뮤토나이트에서 반죽 만드는 중.</Make_GlitterMedsFromMutonite.jobString>
-  <Administer_MechaniteSlurry.label>메카나이트 반죽 투입</Administer_MechaniteSlurry.label>
-  <Administer_MechaniteSlurry.jobString>메카나이트 반죽 투입.</Administer_MechaniteSlurry.jobString>
-  <Administer_UdderPill.label>돌연변이혈청 투입, 부스터</Administer_UdderPill.label>
-  <Administer_UdderPill.jobString>돌연변이혈청 투입, 부스터.</Administer_UdderPill.jobString>
-  <Administer_FeralPill.label>돌연변이혈청 투입, 야생</Administer_FeralPill.label>
-  <Administer_FeralPill.jobString>돌연변이혈청 투입, 야생.</Administer_FeralPill.jobString>
-  <Administer_DryPills.label>돌연변이알약 투입, 마름</Administer_DryPills.label>
-  <Administer_DryPills.jobString>돌연변이알약 투입, 마름.</Administer_DryPills.jobString>
-  <Administer_AspectReverterPills.label>돌연변이알약 투입, X-관</Administer_AspectReverterPills.label>
-  <Administer_AspectReverterPills.jobString>돌연변이알약 투입, X-관.</Administer_AspectReverterPills.jobString>
-  <Administer_MutagenStabiliser.label>돌연변이 안정제 투입</Administer_MutagenStabiliser.label>
-  <Administer_MutagenStabiliser.jobString>돌연변이 안정제 투입.</Administer_MutagenStabiliser.jobString>
-  <Administer_ReversionSyringe.label>돌연변이혈청 투입, 회귀</Administer_ReversionSyringe.label>
-  <Administer_ReversionSyringe.jobString>돌연변이혈청 투입, 회귀.</Administer_ReversionSyringe.jobString>
-  <Administer_RandomTransformer.label>돌연변이혈청 투입</Administer_RandomTransformer.label>
-  <Administer_RandomTransformer.jobString>돌연변이혈청 투입.</Administer_RandomTransformer.jobString>
-  <Administer_RandomCombatTransformer.label>돌연변이혈청 투입, 전투</Administer_RandomCombatTransformer.label>
-  <Administer_RandomCombatTransformer.jobString>돌연변이혈청 투입, 전투.</Administer_RandomCombatTransformer.jobString>
-  <Administer_RandomProductionTransformer.label>돌연변이혈청 투입, 생산</Administer_RandomProductionTransformer.label>
-  <Administer_RandomProductionTransformer.jobString>돌연변이혈청 투입, 생산.</Administer_RandomProductionTransformer.jobString>
-  <Administer_RandomPowerfulTransformer.label>돌연변이혈청 투입, 강력한</Administer_RandomPowerfulTransformer.label>
-  <Administer_RandomPowerfulTransformer.jobString>돌연변이혈청 투입, 강력한.</Administer_RandomPowerfulTransformer.jobString>
-  <Administer_AlpacaTransformer.label>돌연변이주사기 투입, 알파카</Administer_AlpacaTransformer.label>
-  <Administer_AlpacaTransformer.jobString>돌연변이주사기 투입, 알파카.</Administer_AlpacaTransformer.jobString>
-  <Administer_BearTransformer.label>돌연변이주사기 투입, 곰</Administer_BearTransformer.label>
-  <Administer_BearTransformer.jobString>돌연변이주사기 투입, 곰.</Administer_BearTransformer.jobString>
-  <Administer_BoarTransformer.label>돌연변이주사기 투입, 곰</Administer_BoarTransformer.label>
-  <Administer_BoarTransformer.jobString>돌연변이주사기 투입, 곰.</Administer_BoarTransformer.jobString>
-  <Administer_BoomalopeTransformer.label>돌연변이주사기 투입, 폭탄사슴</Administer_BoomalopeTransformer.label>
-  <Administer_BoomalopeTransformer.jobString>돌연변이주사기 투입, 폭탄사슴.</Administer_BoomalopeTransformer.jobString>
-  <Administer_CatTransformer.label>돌연변이주사기 투입, 고양이</Administer_CatTransformer.label>
-  <Administer_CatTransformer.jobString>돌연변이주사기 투입, 고양이.</Administer_CatTransformer.jobString>
-  <Administer_ChickenTransformer.label>돌연변이주사기 투입, 닭</Administer_ChickenTransformer.label>
-  <Administer_ChickenTransformer.jobString>돌연변이주사기 투입, 닭.</Administer_ChickenTransformer.jobString>
-  <Administer_CowTransformer.label>돌연변이주사기 투입, 소</Administer_CowTransformer.label>
-  <Administer_CowTransformer.jobString>돌연변이주사기 투입, 소.</Administer_CowTransformer.jobString>
-  <Administer_DeerTransformer.label>돌연변이주사기 투입, 사슴</Administer_DeerTransformer.label>
-  <Administer_DeerTransformer.jobString>돌연변이주사기 투입, 사슴.</Administer_DeerTransformer.jobString>
-  <Administer_ElephantTransformer.label>돌연변이주사기 투입, 코끼리</Administer_ElephantTransformer.label>
-  <Administer_ElephantTransformer.jobString>돌연변이주사기 투입, 코끼리.</Administer_ElephantTransformer.jobString>
-  <Administer_FoxTransformer.label>돌연변이주사기 투입, 여우</Administer_FoxTransformer.label>
-  <Administer_FoxTransformer.jobString>돌연변이주사기 투입, 여우.</Administer_FoxTransformer.jobString>
-  <Administer_HuskyTransformer.label>돌연변이주사기 투입, 허스키</Administer_HuskyTransformer.label>
-  <Administer_HuskyTransformer.jobString>돌연변이주사기 투입, 허스키.</Administer_HuskyTransformer.jobString>
-  <Administer_이구아나Transformer.label>돌연변이주사기 투입, 이구아나</Administer_이구아나Transformer.label>
-  <Administer_이구아나Transformer.jobString>돌연변이주사기 투입, 이구아나.</Administer_이구아나Transformer.jobString>
-  <Administer_메가슬로스Transformer.label>돌연변이주사기 투입, 메가슬로스</Administer_메가슬로스Transformer.label>
-  <Administer_메가슬로스Transformer.jobString>돌연변이주사기 투입, 메가슬로스.</Administer_메가슬로스Transformer.jobString>
-  <Administer_원숭이Transformer.label>돌연변이주사기 투입, 원숭이</Administer_원숭이Transformer.label>
-  <Administer_원숭이Transformer.jobString>돌연변이주사기 투입, 원숭이.</Administer_원숭이Transformer.jobString>
-  <Administer_PigTransformer.label>돌연변이주사기 투입, 돼지</Administer_PigTransformer.label>
-  <Administer_PigTransformer.jobString>돌연변이주사기 투입, 돼지.</Administer_PigTransformer.jobString>
-  <Administer_RatTransformer.label>돌연변이주사기 투입, 쥐</Administer_RatTransformer.label>
-  <Administer_RatTransformer.jobString>돌연변이주사기 투입, 쥐.</Administer_RatTransformer.jobString>
-  <Administer_뱀Transformer.label>돌연변이주사기 투입, 뱀</Administer_뱀Transformer.label>
-  <Administer_뱀Transformer.jobString>돌연변이주사기 투입, 뱀.</Administer_뱀Transformer.jobString>
-  <Administer_ThrumboTransformer.label>돌연변이주사기 투입, 트럼보</Administer_ThrumboTransformer.label>
-  <Administer_ThrumboTransformer.jobString>돌연변이주사기 투입, 트럼보.</Administer_ThrumboTransformer.jobString>
-  <Administer_WargTransformer.label>돌연변이주사기 투입, 와르그</Administer_WargTransformer.label>
-  <Administer_WargTransformer.jobString>돌연변이주사기 투입, 와르그.</Administer_WargTransformer.jobString>
-  <Administer_WolfTransformer.label>돌연변이주사기 투입, 늑대</Administer_WolfTransformer.label>
-  <Administer_WolfTransformer.jobString>돌연변이주사기 투입, 늑대.</Administer_WolfTransformer.jobString>
-  <Administer_Chaobulb.label>카오전구 씨낭 투입</Administer_Chaobulb.label>
-  <Administer_Chaobulb.jobString>카오전구 씨낭 투입.</Administer_Chaobulb.jobString>
-  <Administer_TFMilk.label>카우모프 우유 투입</Administer_TFMilk.label>
-  <Administer_TFMilk.jobString>카우모프 우유 투입.</Administer_TFMilk.jobString>
-  <Administer_TFEgg.label>코크모프 알 투입</Administer_TFEgg.label>
-  <Administer_TFEgg.jobString>코크모프 알 투입.</Administer_TFEgg.jobString>
-  <Make_MechaniteSlurry.label>메카나이트 반죽 제작</Make_MechaniteSlurry.label>
-  <Make_MechaniteSlurry.description>메카나이트 반죽을 제작합니다.</Make_MechaniteSlurry.description>
-  <Make_MechaniteSlurry.jobString>메카나이트 반죽 만드는 중.</Make_MechaniteSlurry.jobString>
-  <Make_UdderPill.label>돌연변이혈청, 부스터 제작</Make_UdderPill.label>
-  <Make_UdderPill.description>돌연변이혈청, 부스터를 제작합니다.</Make_UdderPill.description>
-  <Make_UdderPill.jobString>돌연변이혈청, 부스터 만드는 중.</Make_UdderPill.jobString>
-  <Make_FeralPill.label>돌연변이혈청, 야생 제작</Make_FeralPill.label>
-  <Make_FeralPill.description>돌연변이혈청, 야생을 제작합니다.</Make_FeralPill.description>
-  <Make_FeralPill.jobString>돌연변이혈청, 야생 만드는 중.</Make_FeralPill.jobString>
-  <Make_DryPills.label>돌연변이 알약, 마름 제작</Make_DryPills.label>
-  <Make_DryPills.description>돌연변이 알약, 마름을 제작합니다.</Make_DryPills.description>
-  <Make_DryPills.jobString>돌연변이 알약, 마름 만드는 중.</Make_DryPills.jobString>
-  <Make_AspectReverterPills.label>돌연변이 알약, X-관 제작</Make_AspectReverterPills.label>
-  <Make_AspectReverterPills.description>돌연변이 알약, X-관을 제작합니다.</Make_AspectReverterPills.description>
-  <Make_AspectReverterPills.jobString>돌연변이 알약, X-관 만드는 중.</Make_AspectReverterPills.jobString>
-  <Make_MutagenStabiliser.label>돌연변이 안정제 제작</Make_MutagenStabiliser.label>
-  <Make_MutagenStabiliser.description>돌연변이 안정제를 제작합니다.</Make_MutagenStabiliser.description>
-  <Make_MutagenStabiliser.jobString>돌연변이 안정제 만드는 중.</Make_MutagenStabiliser.jobString>
-  <Make_ReversionSyringe.label>돌연변이혈청, 회귀 제작</Make_ReversionSyringe.label>
-  <Make_ReversionSyringe.description>돌연변이혈청, 회귀를 제작합니다.</Make_ReversionSyringe.description>
-  <Make_ReversionSyringe.jobString>돌연변이혈청, 회귀 만드는 중.</Make_ReversionSyringe.jobString>
-  <Make_RandomTransformer.label>돌연변이혈청 제작</Make_RandomTransformer.label>
-  <Make_RandomTransformer.description>돌연변이혈청을 제작합니다.</Make_RandomTransformer.description>
-  <Make_RandomTransformer.jobString>돌연변이혈청 만드는 중.</Make_RandomTransformer.jobString>
-  <Make_RandomCombatTransformer.label>돌연변이혈청, 전투 제작</Make_RandomCombatTransformer.label>
-  <Make_RandomCombatTransformer.description>돌연변이혈청, 전투를 제작합니다.</Make_RandomCombatTransformer.description>
-  <Make_RandomCombatTransformer.jobString>돌연변이혈청, 전투 만드는 중.</Make_RandomCombatTransformer.jobString>
-  <Make_RandomProductionTransformer.label>돌연변이혈청, 생산 제작</Make_RandomProductionTransformer.label>
-  <Make_RandomProductionTransformer.description>돌연변이혈청, 생산을 제작합니다.</Make_RandomProductionTransformer.description>
-  <Make_RandomProductionTransformer.jobString>돌연변이혈청, 생산 만드는 중.</Make_RandomProductionTransformer.jobString>
-  <Make_RandomPowerfulTransformer.label>돌연변이혈청, 강력한 제작</Make_RandomPowerfulTransformer.label>
-  <Make_RandomPowerfulTransformer.description>돌연변이혈청, 강력한 을 제작합니다.</Make_RandomPowerfulTransformer.description>
-  <Make_RandomPowerfulTransformer.jobString>돌연변이혈청, 강력한 만드는 중.</Make_RandomPowerfulTransformer.jobString>
-  <Make_AlpacaTransformer.label>돌연변이주사기, 알파카 제작</Make_AlpacaTransformer.label>
-  <Make_AlpacaTransformer.description>돌연변이주사기, 알파카를 제작합니다.</Make_AlpacaTransformer.description>
-  <Make_AlpacaTransformer.jobString>돌연변이주사기, 알파카 만드는 중.</Make_AlpacaTransformer.jobString>
-  <Make_BearTransformer.label>돌연변이주사기, 곰 제작</Make_BearTransformer.label>
-  <Make_BearTransformer.description>돌연변이주사기, 곰을 제작합니다.</Make_BearTransformer.description>
-  <Make_BearTransformer.jobString>돌연변이주사기, 곰 만드는 중.</Make_BearTransformer.jobString>
-  <Make_BoarTransformer.label>돌연변이주사기, 멧돼지 제작</Make_BoarTransformer.label>
-  <Make_BoarTransformer.description>돌연변이주사기, 멧돼지를 제작합니다.</Make_BoarTransformer.description>
-  <Make_BoarTransformer.jobString>돌연변이주사기, 멧돼지 만드는 중.</Make_BoarTransformer.jobString>
-  <Make_BoomalopeTransformer.label>돌연변이주사기, 폭탄사슴 제작</Make_BoomalopeTransformer.label>
-  <Make_BoomalopeTransformer.description>돌연변이주사기, 폭탄사슴을 제작합니다.</Make_BoomalopeTransformer.description>
-  <Make_BoomalopeTransformer.jobString>돌연변이주사기, 폭탄사슴 만드는 중.</Make_BoomalopeTransformer.jobString>
-  <Make_CatTransformer.label>돌연변이주사기, 고양이 제작</Make_CatTransformer.label>
-  <Make_CatTransformer.description>돌연변이주사기, 고양이를 제작합니다.</Make_CatTransformer.description>
-  <Make_CatTransformer.jobString>돌연변이주사기, 고양이 만드는 중.</Make_CatTransformer.jobString>
-  <Make_ChickenTransformer.label>돌연변이주사기, 닭 제작</Make_ChickenTransformer.label>
-  <Make_ChickenTransformer.description>돌연변이주사기, 닭을 제작합니다.</Make_ChickenTransformer.description>
-  <Make_ChickenTransformer.jobString>돌연변이주사기, 닭 만드는 중.</Make_ChickenTransformer.jobString>
-  <Make_CowTransformer.label>돌연변이주사기, 소 제작</Make_CowTransformer.label>
-  <Make_CowTransformer.description>돌연변이주사기, 소를 제작합니다.</Make_CowTransformer.description>
-  <Make_CowTransformer.jobString>돌연변이주사기, 소 만드는 중.</Make_CowTransformer.jobString>
-  <Make_DeerTransformer.label>돌연변이주사기, 사슴 제작</Make_DeerTransformer.label>
-  <Make_DeerTransformer.description>돌연변이주사기, 사슴을 제작합니다.</Make_DeerTransformer.description>
-  <Make_DeerTransformer.jobString>돌연변이주사기, 사슴 만드는 중.</Make_DeerTransformer.jobString>
-  <Make_ElephantTransformer.label>돌연변이주사기, 코끼리 제작</Make_ElephantTransformer.label>
-  <Make_ElephantTransformer.description>돌연변이주사기, 코끼리를 제작합니다.</Make_ElephantTransformer.description>
-  <Make_ElephantTransformer.jobString>돌연변이주사기, 코끼리 만드는 중.</Make_ElephantTransformer.jobString>
-  <Make_FoxTransformer.label>돌연변이주사기, 여우 제작</Make_FoxTransformer.label>
-  <Make_FoxTransformer.description>돌연변이주사기, 여우를 제작합니다.</Make_FoxTransformer.description>
-  <Make_FoxTransformer.jobString>돌연변이주사기, 여우만드는 중.</Make_FoxTransformer.jobString>
-  <Make_HuskyTransformer.label>돌연변이주사기, 허스키 제작</Make_HuskyTransformer.label>
-  <Make_HuskyTransformer.description>돌연변이주사기, 허스키를 제작합니다.</Make_HuskyTransformer.description>
-  <Make_HuskyTransformer.jobString>돌연변이주사기, 허스키 만드는 중.</Make_HuskyTransformer.jobString>
-  <Make_이구아나Transformer.label>돌연변이주사기, 이구아나 제작</Make_이구아나Transformer.label>
-  <Make_이구아나Transformer.description>돌연변이주사기, 이구아나를 제작합니다.</Make_이구아나Transformer.description>
-  <Make_이구아나Transformer.jobString>돌연변이주사기, 이구아나 만드는 중.</Make_이구아나Transformer.jobString>
-  <Make_메가슬로스Transformer.label>돌연변이주사기, 메가슬로스 제작</Make_메가슬로스Transformer.label>
-  <Make_메가슬로스Transformer.description>돌연변이주사기, 메가슬로스를 제작합니다.</Make_메가슬로스Transformer.description>
-  <Make_메가슬로스Transformer.jobString>돌연변이주사기, 메가슬로스 만드는 중.</Make_메가슬로스Transformer.jobString>
-  <Make_원숭이Transformer.label>돌연변이주사기, 원숭이 제작</Make_원숭이Transformer.label>
-  <Make_원숭이Transformer.description>돌연변이주사기, 원숭이를 제작합니다.</Make_원숭이Transformer.description>
-  <Make_원숭이Transformer.jobString>돌연변이주사기, 원숭이 만드는 중.</Make_원숭이Transformer.jobString>
-  <Make_PigTransformer.label>돌연변이주사기, 돼지 제작</Make_PigTransformer.label>
-  <Make_PigTransformer.description>돌연변이주사기, 돼지를 제작합니다.</Make_PigTransformer.description>
-  <Make_PigTransformer.jobString>돌연변이주사기, 돼지 만드는 중.</Make_PigTransformer.jobString>
-  <Make_RatTransformer.label>돌연변이주사기, 설치류 제작</Make_RatTransformer.label>
-  <Make_RatTransformer.description>돌연변이주사기, 설치류를 제작합니다.</Make_RatTransformer.description>
-  <Make_RatTransformer.jobString>돌연변이주사기, 설치류 만드는 중.</Make_RatTransformer.jobString>
-  <Make_뱀Transformer.label>돌연변이주사기, 뱀 제작</Make_뱀Transformer.label>
-  <Make_뱀Transformer.description>돌연변이주사기, 뱀을 제작합니다.</Make_뱀Transformer.description>
-  <Make_뱀Transformer.jobString>돌연변이주사기, 뱀 만드는 중.</Make_뱀Transformer.jobString>
-  <Make_ThrumboTransformer.label>돌연변이주사기, 트럼보 제작</Make_ThrumboTransformer.label>
-  <Make_ThrumboTransformer.description>돌연변이주사기, 트럼보를 제작합니다.</Make_ThrumboTransformer.description>
-  <Make_ThrumboTransformer.jobString>돌연변이주사기, 트럼보 만드는 중.</Make_ThrumboTransformer.jobString>
-  <Make_WargTransformer.label>돌연변이주사기, 와르그 제작</Make_WargTransformer.label>
-  <Make_WargTransformer.description>돌연변이주사기, 와르그를 제작합니다.</Make_WargTransformer.description>
-  <Make_WargTransformer.jobString>돌연변이주사기, 와르그만드는 중.</Make_WargTransformer.jobString>
-  <Make_WolfTransformer.label>돌연변이주사기, 늑대 제작</Make_WolfTransformer.label>
-  <Make_WolfTransformer.description>돌연변이주사기, 늑대를 제작합니다.</Make_WolfTransformer.description>
-  <Make_WolfTransformer.jobString>돌연변이주사기, 늑대만드는 중.</Make_WolfTransformer.jobString>
-  <Make_MeleeWeapon_MutagenicStunStick.label>돌연변이 스턴봉 제작</Make_MeleeWeapon_MutagenicStunStick.label>
-  <Make_MeleeWeapon_MutagenicStunStick.description>돌연변이 스턴봉을 제작합니다.</Make_MeleeWeapon_MutagenicStunStick.description>
-  <Make_MeleeWeapon_MutagenicStunStick.jobString>돌연변이 스턴봉 만드는 중.</Make_MeleeWeapon_MutagenicStunStick.jobString>
-  <Make_Mutarifle.label>변이체 소총 제작</Make_Mutarifle.label>
-  <Make_Mutarifle.description>변이체 소총을 제작합니다.</Make_Mutarifle.description>
-  <Make_Mutarifle.jobString>변이체 소총 만드는 중.</Make_Mutarifle.jobString>
-  <Make_TST_Gun_EtherGun.label>돌연변이 총 제작</Make_TST_Gun_EtherGun.label>
-  <Make_TST_Gun_EtherGun.description>돌연변이 총을 제작합니다.</Make_TST_Gun_EtherGun.description>
-  <Make_TST_Gun_EtherGun.jobString>돌연변이 총 만드는 중.</Make_TST_Gun_EtherGun.jobString>
-  <Make_TST_Gun_TaggingGun.label>인식표 소총 제작</Make_TST_Gun_TaggingGun.label>
-  <Make_TST_Gun_TaggingGun.description>인식표 소총을 제작합니다.</Make_TST_Gun_TaggingGun.description>
-  <Make_TST_Gun_TaggingGun.jobString>인식표 소총을 만드는 중.</Make_TST_Gun_TaggingGun.jobString>
-  <Make_Weapon_GrenadeTF.label>돌연변이 수류탄 제작</Make_Weapon_GrenadeTF.label>
-  <Make_Weapon_GrenadeTF.description>돌연변이 수류탄을 제작합니다.</Make_Weapon_GrenadeTF.description>
-  <Make_Weapon_GrenadeTF.jobString>돌연변이 수류탄 만드는 중.</Make_Weapon_GrenadeTF.jobString>
-  <Make_Shell_TF.label>돌연변이 포탄 제작</Make_Shell_TF.label>
-  <Make_Shell_TF.description>돌연변이 포탄을 제작합니다.</Make_Shell_TF.description>
-  <Make_Shell_TF.jobString>돌연변이 포탄 만드는 중.</Make_Shell_TF.jobString>
-  <Make_MeleeWeapon_MutaniteKnife.label>변이체 나이프 제작</Make_MeleeWeapon_MutaniteKnife.label>
-  <Make_MeleeWeapon_MutaniteKnife.description>변이체 나이프를 제작합니다.</Make_MeleeWeapon_MutaniteKnife.description>
-  <Make_MeleeWeapon_MutaniteKnife.jobString>변이체 나이프 만드는 중.</Make_MeleeWeapon_MutaniteKnife.jobString>
-  <Make_MeleeWeapon_MutaniteSpear.label>변이체 창 제작</Make_MeleeWeapon_MutaniteSpear.label>
-  <Make_MeleeWeapon_MutaniteSpear.description>변이체 창을 제작합니다.</Make_MeleeWeapon_MutaniteSpear.description>
-  <Make_MeleeWeapon_MutaniteSpear.jobString>변이체 창 만드는 중.</Make_MeleeWeapon_MutaniteSpear.jobString>
-  <Make_SlurryFromMutonite.label>뮤토나이트에서 반죽 제작</Make_SlurryFromMutonite.label>
-  <Make_SlurryFromMutonite.description>뮤토나이트 한 병을 녹여 반죽으로 만듭니다.</Make_SlurryFromMutonite.description>
-  <Make_SlurryFromMutonite.jobString>뮤토나이트에서 반죽 만드는 중.</Make_SlurryFromMutonite.jobString>
-  <Make_SlurryFromChaobulbs.label>카오전구에서 반죽 제작</Make_SlurryFromChaobulbs.label>
-  <Make_SlurryFromChaobulbs.description>카오전구 씨낭 반죽에서 활성화된 메카나이트를 추출합니다.</Make_SlurryFromChaobulbs.description>
-  <Make_SlurryFromChaobulbs.jobString>카오전구 씨낭 반죽 정제 중.</Make_SlurryFromChaobulbs.jobString>
-  <Make_ComponentsFromSlurry.label>반죽에서 부품 제작 (1:2)</Make_ComponentsFromSlurry.label>
-  <Make_ComponentsFromSlurry.description>메카나이트 구성품을 부품으로 가공합니다.</Make_ComponentsFromSlurry.description>
-  <Make_ComponentsFromSlurry.jobString>반죽 구성요소 처리 중.</Make_ComponentsFromSlurry.jobString>
-  <Make_ResurrectorFromMutonite.label>반죽에서 부활혈청 제작 (20:1)</Make_ResurrectorFromMutonite.label>
-  <Make_ResurrectorFromMutonite.description>반죽에서 메카나이트를 추출해 부활혈청으로 만듭니다. 상당히 많은 재료를 필요로 하며, 이들이 가지고있는 돌연변이 유발 효과를 중화시킵니다.</Make_ResurrectorFromMutonite.description>
-  <Make_ResurrectorFromMutonite.jobString>뮤토나이트에서 반죽 만드는 중.</Make_ResurrectorFromMutonite.jobString>
-  <Make_HealerFromMutonite.label>반죽에서 치료혈청 제작 (10:1)</Make_HealerFromMutonite.label>
-  <Make_HealerFromMutonite.description>반죽에서 메카나이트를 추출해 치료혈청으로 만듭니다. 상당히 많은 재료를 필요로 하며, 이들이 가지고있는 돌연변이 유발 효과를 중화시킵니다.</Make_HealerFromMutonite.description>
-  <Make_HealerFromMutonite.jobString>뮤토나이트에서 반죽 만드는 중.</Make_HealerFromMutonite.jobString>
-  <Make_GlitterMedsFromMutonite.label>반죽에서 번화계약 제작 (5:1)</Make_GlitterMedsFromMutonite.label>
-  <Make_GlitterMedsFromMutonite.description>반죽에서 메카나이트를 추출해 번화계 약으로 만듭니다. 상당히 많은 재료를 필요로 하며, 이들이 가지고있는 돌연변이 유발 효과를 중화시킵니다.</Make_GlitterMedsFromMutonite.description>
-  <Make_GlitterMedsFromMutonite.jobString>뮤토나이트에서 반죽 만드는 중.</Make_GlitterMedsFromMutonite.jobString>
-  <AdministerMutagenicMechSerumHealer.label>돌연변이혈청, 치료용 메카나이트 투입</AdministerMutagenicMechSerumHealer.label>
-  <AdministerMutagenicMechSerumHealer.description>돌연변이혈청, 치료용 메카나이트 투입</AdministerMutagenicMechSerumHealer.description>
-  <AdministerMutagenicMechSerumHealer.jobString>돌연변이혈청, 치료용 메카나이트 투입 중</AdministerMutagenicMechSerumHealer.jobString>
-
+  <AdministerMutagenicMechSerumHealer.label>치료용 변형 유인체 메카나이트 투입</AdministerMutagenicMechSerumHealer.label>
+  <AdministerMutagenicMechSerumHealer.description>치료용 변형 유인체 메카나이트 투여</AdministerMutagenicMechSerumHealer.description>
+  <AdministerMutagenicMechSerumHealer.jobString>변이혈청, 치료용 메카나이트 투입 중</AdministerMutagenicMechSerumHealer.jobString>
+  <InstallInstinctLimiter.label>지성복구 칩 설치</InstallInstinctLimiter.label>
+  <InstallInstinctLimiter.description>지성 복구망 삽입</InstallInstinctLimiter.description>
+  <InstallInstinctLimiter.jobString>지성 복구망 설치중</InstallInstinctLimiter.jobString>
 </LanguageData>

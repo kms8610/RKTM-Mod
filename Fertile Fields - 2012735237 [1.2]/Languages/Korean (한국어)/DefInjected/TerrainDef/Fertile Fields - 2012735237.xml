@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1539311500_181027_Fertile Fields-->
+  <BrickFloor.label>벽돌 바닥</BrickFloor.label>
+  <HBBrickFloor.description>벽돌을 교차 패턴으로 쌓는 작업은 꽤 번거롭지만 그만큼 멋진 결과물을 만들어냅니다.</HBBrickFloor.description>
+  <BrickFloor.description>벽돌이 사용된 바닥재입니다.</BrickFloor.description>
+  <DirtFert.label>기름진 준설토</DirtFert.label>
+  <HBBrickFloor.label>교차 벽돌 바닥</HBBrickFloor.label>
+  <SoilTilled.label>개간된 토양</SoilTilled.label>
+  <RockySoil.label>거친 자갈</RockySoil.label>
+  <Topsoil.label>준설토</Topsoil.label>
+
+</LanguageData>

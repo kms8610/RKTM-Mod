@@ -1,20 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <SpiderInjection.label>찔림(독침)</SpiderInjection.label>
-  <SpiderInjection.deathMessage>{0}이(가) 찔려 죽었습니다.</SpiderInjection.deathMessage>
   <MutagenicBulletDamage.label>돌연변이 탄환</MutagenicBulletDamage.label>
   <MutagenicBulletDamage.deathMessage>{0}이(가) 총에 맞아 죽었습니다.</MutagenicBulletDamage.deathMessage>
   <MutagenCloud.label>변이체 구름</MutagenCloud.label>
-  <MutagenCloud.deathMessage>{0}(은)는 질식사했습니다.</MutagenCloud.deathMessage>
   <MutagenCloud_Large.label>변이체 구름</MutagenCloud_Large.label>
-  <MutagenCloud_Large.deathMessage>{0}이(가) 죽었습니다.</MutagenCloud_Large.deathMessage>
   <MutagenicCut.label>돌연변이체 절단</MutagenicCut.label>
-  <MutagenicCut.deathMessage>{0}이(가) 잘려 죽었습니다.</MutagenicCut.deathMessage>
   <MutagenicPoke.label>돌연변이체 관통</MutagenicPoke.label>
-  <MutagenicPoke.deathMessage>{0}이(가) 맞아 죽었습니다.</MutagenicPoke.deathMessage>
   <MutagenicStab.label>돌연변이체 찔림</MutagenicStab.label>
   <MutagenicStab.deathMessage>{0}이(가) 찔려 죽었습니다.</MutagenicStab.deathMessage>
   <MutagenicStun.label>돌연변이체 기절</MutagenicStun.label>
   <MutagenicStun.deathMessage>{0}이(가) 맞아 죽었습니다.</MutagenicStun.deathMessage>
-
 </LanguageData>

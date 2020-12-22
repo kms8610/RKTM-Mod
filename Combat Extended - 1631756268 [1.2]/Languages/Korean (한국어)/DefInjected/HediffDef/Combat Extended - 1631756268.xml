@@ -36,9 +36,9 @@
   <Tranquilizer.description>the effects of a tranquilizer dart</Tranquilizer.description>
   <BruiseBeanbag.label>타박상</BruiseBeanbag.label>
   <BruiseBeanbag.labelNoun>a beanbag bruise</BruiseBeanbag.labelNoun>
-  <CrackBeanbag.label>beanbag crack</CrackBeanbag.label>
-  <CrackBeanbag.labelNoun>a beanbag crack</CrackBeanbag.labelNoun>
-  <VenomousBite.label>물기(독성)</VenomousBite.label>
+  <CrackBeanbag.label>골절</CrackBeanbag.label>
+  <CrackBeanbag.labelNoun>고무탄 골절</CrackBeanbag.labelNoun>
+  <VenomousBite.label>독니</VenomousBite.label>
   <VenomousBite.labelNoun>a venomous bite wound</VenomousBite.labelNoun>
   <VenomousScratch.label>venomous scratch</VenomousScratch.label>
   <VenomousScratch.labelNoun>a venomous scratch wound</VenomousScratch.labelNoun>
@@ -46,12 +46,12 @@
   <VenomousArrow.labelNoun>a venomous arrow wound</VenomousArrow.labelNoun>
   <ElectricalBurn.label>전기 화상</ElectricalBurn.label>
   <Blast.label>고온열상</Blast.label>
-  <Blast.description>Blasted</Blast.description>
+  <Blast.description>파열되었습니다.</Blast.description>
   <Blast.comps.0.labelTendedWell>붕대 감음</Blast.comps.0.labelTendedWell>
   <Blast.comps.0.labelTendedWellInner>봉합됨</Blast.comps.0.labelTendedWellInner>
   <Blast.comps.0.labelSolidTendedWell>접합됨</Blast.comps.0.labelSolidTendedWell>
-  <Blast.comps.2.permanentLabel>old blast injury</Blast.comps.2.permanentLabel>
-  <Blast.comps.2.instantlyPermanentLabel>permanent blast injury</Blast.comps.2.instantlyPermanentLabel>
+  <Blast.comps.2.permanentLabel>오래된 파열상</Blast.comps.2.permanentLabel>
+  <Blast.comps.2.instantlyPermanentLabel>영구적 파열상</Blast.comps.2.instantlyPermanentLabel>
   <Blast.injuryProps.destroyedLabel>찢어짐</Blast.injuryProps.destroyedLabel>
   <Blast.injuryProps.destroyedOutLabel>찢겨나감</Blast.injuryProps.destroyedOutLabel>
 </LanguageData>

@@ -4,7 +4,7 @@
   <VEF_AsexualCloning>{0}(이)가 스스로를 복제했습니다.</VEF_AsexualCloning>
   <VEF_AsexualHatchedEgg>{0}(이)가 포자를 뿌렸습니다.</VEF_AsexualHatchedEgg>
   <VEF_NotTameable>길들일 수 없는 생물입니다.</VEF_NotTameable>
-  <VEF_TimeToMetamorphosis>변태까지 남은 시간 :</VEF_TimeToMetamorphosis>
+  <VEF_TimeToMetamorphosis>변태까지 남은 시간: {0}</VEF_TimeToMetamorphosis>
   <IP_InsertFirstItemDesc>첫 번째 재료 투입</IP_InsertFirstItemDesc>
   <IP_InsertSecondItemDesc>첫 번째 재료 투입</IP_InsertSecondItemDesc>
   <IP_InsertThirdItemDesc>첫 번째 재료 투입</IP_InsertThirdItemDesc>
@@ -118,4 +118,6 @@
   <VFE_ChooseMine>석재 덩어리용 드릴을 선택</VFE_ChooseMine>
   <VFE_ChooseMineDesc>채굴할 석재 덩어리 유형을 선택합니다. 지도의 석재 유형 중 하나를 선택하거나 무작위로 선택할 수 있습니다.</VFE_ChooseMineDesc>
   <VFE_RandomRock>무작위 석재</VFE_RandomRock>
+  <VFE_PleaseSelectOutput>기계 출력 선택</VFE_PleaseSelectOutput>
+  <VFE_NeedsWater>이 건물은 반드시 물 위에 위치해야 합니다.</VFE_NeedsWater>
 </LanguageData>

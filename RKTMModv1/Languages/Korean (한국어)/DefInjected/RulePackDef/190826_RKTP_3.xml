@@ -64,9 +64,6 @@
   <NamerCallistanFemale.rulePack.rulesStrings.1>r_name->[CalSyl][CalFirstFemale] [CalSyl][CalSyl]</NamerCallistanFemale.rulePack.rulesStrings.1>
   <NamerCallistanFemale.rulePack.rulesStrings.2>r_name->[CalSyl][CalFirstFemale] [CalSyl][CalSyl][CalSyl]</NamerCallistanFemale.rulePack.rulesStrings.2>
 
-  <!--1571323744_190714_Crystalloid (Rewrite)-->
-  <NamerPersonCollective.rulePack.rulesStrings.0>name->[CollectiveFirstName] [CollectiveLastName]</NamerPersonCollective.rulePack.rulesStrings.0>
-
   <!--1632244750_190708_Oni of the Rim-->
   <NamerPersonOniMale.rulePack.rulesStrings.0>name->[malename] [lastname]</NamerPersonOniMale.rulePack.rulesStrings.0>
   <NamerPersonOniFemale.rulePack.rulesStrings.0>name->[femalename] [lastname]</NamerPersonOniFemale.rulePack.rulesStrings.0>

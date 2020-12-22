@@ -1,7 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Chaoboom.label>카오 폭탄사슴</Chaoboom.label>
+  <SnakeHybridBody.label>나가</SnakeHybridBody.label>
+  <SnakeHybridBody.corePart.parts.6.customLabel>왼쪽 폐</SnakeHybridBody.corePart.parts.6.customLabel>
+  <SnakeHybridBody.corePart.parts.7.customLabel>오른쪽 폐</SnakeHybridBody.corePart.parts.7.customLabel>
+  <SnakeHybridBody.corePart.parts.8.customLabel>왼쪽 신장</SnakeHybridBody.corePart.parts.8.customLabel>
+  <SnakeHybridBody.corePart.parts.9.customLabel>오른쪽 신장</SnakeHybridBody.corePart.parts.9.customLabel>
+  <SnakeHybridBody.corePart.parts.11.parts.0.parts.1.customLabel>왼쪽 눈</SnakeHybridBody.corePart.parts.11.parts.0.parts.1.customLabel>
+  <SnakeHybridBody.corePart.parts.11.parts.0.parts.2.customLabel>오른쪽 눈</SnakeHybridBody.corePart.parts.11.parts.0.parts.2.customLabel>
+  <SnakeHybridBody.corePart.parts.11.parts.0.parts.3.customLabel>왼쪽 귀</SnakeHybridBody.corePart.parts.11.parts.0.parts.3.customLabel>
+  <SnakeHybridBody.corePart.parts.11.parts.0.parts.4.customLabel>오른쪽 귀</SnakeHybridBody.corePart.parts.11.parts.0.parts.4.customLabel>
+  <SnakeHybridBody.corePart.parts.12.customLabel>왼쪽 어깨</SnakeHybridBody.corePart.parts.12.customLabel>
+  <SnakeHybridBody.corePart.parts.12.parts.0.customLabel>왼쪽 쇄골</SnakeHybridBody.corePart.parts.12.parts.0.customLabel>
+  <SnakeHybridBody.corePart.parts.12.parts.1.customLabel>왼팔</SnakeHybridBody.corePart.parts.12.parts.1.customLabel>
+  <SnakeHybridBody.corePart.parts.12.parts.1.parts.0.customLabel>왼쪽 상완골</SnakeHybridBody.corePart.parts.12.parts.1.parts.0.customLabel>
+  <SnakeHybridBody.corePart.parts.12.parts.1.parts.1.customLabel>왼쪽 요골</SnakeHybridBody.corePart.parts.12.parts.1.parts.1.customLabel>
+  <SnakeHybridBody.corePart.parts.12.parts.1.parts.2.customLabel>왼손</SnakeHybridBody.corePart.parts.12.parts.1.parts.2.customLabel>
+  <SnakeHybridBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>왼쪽 새끼손가락</SnakeHybridBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <SnakeHybridBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>왼쪽 넷째 손가락</SnakeHybridBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <SnakeHybridBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>왼쪽 가운뎃손가락</SnakeHybridBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <SnakeHybridBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>왼쪽 집게손가락</SnakeHybridBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <SnakeHybridBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>왼쪽 엄지손가락</SnakeHybridBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <SnakeHybridBody.corePart.parts.13.customLabel>오른쪽 어깨</SnakeHybridBody.corePart.parts.13.customLabel>
+  <SnakeHybridBody.corePart.parts.13.parts.0.customLabel>오른쪽 쇄골</SnakeHybridBody.corePart.parts.13.parts.0.customLabel>
+  <SnakeHybridBody.corePart.parts.13.parts.1.customLabel>오른팔</SnakeHybridBody.corePart.parts.13.parts.1.customLabel>
+  <SnakeHybridBody.corePart.parts.13.parts.1.parts.0.customLabel>오른쪽 상완골</SnakeHybridBody.corePart.parts.13.parts.1.parts.0.customLabel>
+  <SnakeHybridBody.corePart.parts.13.parts.1.parts.1.customLabel>오른쪽 요골</SnakeHybridBody.corePart.parts.13.parts.1.parts.1.customLabel>
+  <SnakeHybridBody.corePart.parts.13.parts.1.parts.2.customLabel>오른손</SnakeHybridBody.corePart.parts.13.parts.1.parts.2.customLabel>
+  <SnakeHybridBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>오른쪽 새끼손가락</SnakeHybridBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <SnakeHybridBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>오른쪽 넷째 손가락</SnakeHybridBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <SnakeHybridBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>오른쪽 가운뎃손가락</SnakeHybridBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <SnakeHybridBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>오른쪽 집게손가락</SnakeHybridBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <SnakeHybridBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>오른쪽 엄지손가락</SnakeHybridBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Chaoboom.label>혼돈 폭탄체</Chaoboom.label>
   <Chaoboom.corePart.parts.3.customLabel>왼쪽 폐</Chaoboom.corePart.parts.3.customLabel>
   <Chaoboom.corePart.parts.4.customLabel>오른쪽 폐</Chaoboom.corePart.parts.4.customLabel>
   <Chaoboom.corePart.parts.5.customLabel>왼쪽 신장</Chaoboom.corePart.parts.5.customLabel>
@@ -20,7 +50,7 @@
   <Chaoboom.corePart.parts.14.parts.0.customLabel>왼쪽 뒷 발굽</Chaoboom.corePart.parts.14.parts.0.customLabel>
   <Chaoboom.corePart.parts.15.customLabel>오른쪽 뒷 다리</Chaoboom.corePart.parts.15.customLabel>
   <Chaoboom.corePart.parts.15.parts.0.customLabel>오른쪽 뒷 발굽</Chaoboom.corePart.parts.15.parts.0.customLabel>
-  <Chaocow.label>카오 소</Chaocow.label>
+  <Chaocow.label>혼돈 소</Chaocow.label>
   <Chaocow.corePart.parts.3.customLabel>왼쪽 폐</Chaocow.corePart.parts.3.customLabel>
   <Chaocow.corePart.parts.4.customLabel>오른쪽 폐</Chaocow.corePart.parts.4.customLabel>
   <Chaocow.corePart.parts.5.customLabel>왼쪽 신장</Chaocow.corePart.parts.5.customLabel>
@@ -39,7 +69,7 @@
   <Chaocow.corePart.parts.11.parts.0.customLabel>왼쪽 뒷 발굽</Chaocow.corePart.parts.11.parts.0.customLabel>
   <Chaocow.corePart.parts.12.customLabel>오른쪽 뒷 다리</Chaocow.corePart.parts.12.customLabel>
   <Chaocow.corePart.parts.12.parts.0.customLabel>오른쪽 뒷 발굽</Chaocow.corePart.parts.12.parts.0.customLabel>
-  <Chaoboar.label>카오 멧돼지</Chaoboar.label>
+  <Chaoboar.label>혼돈 멧돼지</Chaoboar.label>
   <Chaoboar.corePart.parts.3.customLabel>왼쪽 폐</Chaoboar.corePart.parts.3.customLabel>
   <Chaoboar.corePart.parts.4.customLabel>오른쪽 폐</Chaoboar.corePart.parts.4.customLabel>
   <Chaoboar.corePart.parts.5.customLabel>왼쪽 신장</Chaoboar.corePart.parts.5.customLabel>
@@ -68,7 +98,7 @@
   <Chaoboar.corePart.parts.11.parts.0.customLabel>왼쪽 뒷 발굽</Chaoboar.corePart.parts.11.parts.0.customLabel>
   <Chaoboar.corePart.parts.12.customLabel>오른쪽 뒷 다리</Chaoboar.corePart.parts.12.customLabel>
   <Chaoboar.corePart.parts.12.parts.0.customLabel>오른쪽 뒷 발굽</Chaoboar.corePart.parts.12.parts.0.customLabel>
-  <Chaomeld.label>카오 혼합물</Chaomeld.label>
+  <Chaomeld.label>혼돈융합체</Chaomeld.label>
   <Chaomeld.corePart.parts.3.customLabel>왼쪽 폐</Chaomeld.corePart.parts.3.customLabel>
   <Chaomeld.corePart.parts.4.customLabel>오른쪽 폐</Chaomeld.corePart.parts.4.customLabel>
   <Chaomeld.corePart.parts.5.customLabel>왼쪽 신장</Chaomeld.corePart.parts.5.customLabel>
@@ -89,7 +119,7 @@
   <Chaomeld.corePart.parts.12.parts.0.customLabel>왼쪽 뒷 발굽</Chaomeld.corePart.parts.12.parts.0.customLabel>
   <Chaomeld.corePart.parts.13.customLabel>오른쪽 뒷 다리</Chaomeld.corePart.parts.13.customLabel>
   <Chaomeld.corePart.parts.13.parts.0.customLabel>오른쪽 뒷 발굽</Chaomeld.corePart.parts.13.parts.0.customLabel>
-  <Chaofusion.label>카오 융합체</Chaofusion.label>
+  <Chaofusion.label>혼돈 융합체</Chaofusion.label>
   <Chaofusion.corePart.parts.3.customLabel>왼쪽 폐</Chaofusion.corePart.parts.3.customLabel>
   <Chaofusion.corePart.parts.4.customLabel>오른쪽 폐</Chaofusion.corePart.parts.4.customLabel>
   <Chaofusion.corePart.parts.5.customLabel>왼쪽 신장</Chaofusion.corePart.parts.5.customLabel>
@@ -110,7 +140,7 @@
   <Chaofusion.corePart.parts.12.parts.0.customLabel>왼쪽 뒷 갈퀴발굽</Chaofusion.corePart.parts.12.parts.0.customLabel>
   <Chaofusion.corePart.parts.13.customLabel>오른쪽 뒷 다리</Chaofusion.corePart.parts.13.customLabel>
   <Chaofusion.corePart.parts.13.parts.0.customLabel>오른쪽 뒷 갈퀴발톱</Chaofusion.corePart.parts.13.parts.0.customLabel>
-  <Chaofox.label>카오 여우</Chaofox.label>
+  <Chaofox.label>혼돈 여우</Chaofox.label>
   <Chaofox.corePart.parts.3.customLabel>왼쪽 폐</Chaofox.corePart.parts.3.customLabel>
   <Chaofox.corePart.parts.4.customLabel>오른쪽 폐</Chaofox.corePart.parts.4.customLabel>
   <Chaofox.corePart.parts.5.customLabel>왼쪽 신장</Chaofox.corePart.parts.5.customLabel>
@@ -129,7 +159,7 @@
   <Chaofox.corePart.parts.13.parts.0.customLabel>왼쪽 뒷 발굽</Chaofox.corePart.parts.13.parts.0.customLabel>
   <Chaofox.corePart.parts.14.customLabel>오른쪽 뒷 다리</Chaofox.corePart.parts.14.customLabel>
   <Chaofox.corePart.parts.14.parts.0.customLabel>오른쪽 뒷 발굽</Chaofox.corePart.parts.14.parts.0.customLabel>
-  <Chaodino.label>카오 닭</Chaodino.label>
+  <Chaodino.label>혼돈 닭</Chaodino.label>
   <Chaodino.corePart.parts.4.customLabel>왼쪽 폐</Chaodino.corePart.parts.4.customLabel>
   <Chaodino.corePart.parts.5.customLabel>오른쪽 폐</Chaodino.corePart.parts.5.customLabel>
   <Chaodino.corePart.parts.6.customLabel>왼쪽 신장</Chaodino.corePart.parts.6.customLabel>
@@ -144,5 +174,4 @@
   <Chaodino.corePart.parts.12.parts.0.customLabel>왼쪽 앞 발톱</Chaodino.corePart.parts.12.parts.0.customLabel>
   <Chaodino.corePart.parts.13.customLabel>오른쪽 앞 팔</Chaodino.corePart.parts.13.customLabel>
   <Chaodino.corePart.parts.13.parts.0.customLabel>오른쪽 앞 발톱</Chaodino.corePart.parts.13.parts.0.customLabel>
-
 </LanguageData>

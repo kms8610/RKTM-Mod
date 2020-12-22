@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1539311500_181027_Fertile Fields-->
+  <RFF_WaterDeep.label>RFF 깊은 물</RFF_WaterDeep.label>
+  <RFF_SoilFd.label>RFF 비옥한 토양 (다운그레이드 가능)</RFF_SoilFd.label>
+  <RFF_SoilFu.label>RFF 비옥한 토양 (업그레이드 가능)</RFF_SoilFu.label>
+  <RFF_Gravel.label>RFF 자갈</RFF_Gravel.label>
+  <RFF_Ice.label>RFF 얼음</RFF_Ice.label>
+  <RFF_Marsh.label>RFF 늪지</RFF_Marsh.label>
+  <RFF_SoilMarshy.label>RFF 습지 토양</RFF_SoilMarshy.label>
+  <RFF_Mud.label>RFF 진흙</RFF_Mud.label>
+  <RFF_PackedDirt.label>RFF 다져진 흙</RFF_PackedDirt.label>
+  <RFF_SoilRich.label>RFF 기름진 토양</RFF_SoilRich.label>
+  <RFF_RockyDirt.label>RFF 자갈</RFF_RockyDirt.label>
+  <RFF_Sand.label>RFF 모래</RFF_Sand.label>
+  <RFF_WaterShallow.label>RFF 얕은 물</RFF_WaterShallow.label>
+  <RFF_Topsoil.label>RFF 준설토</RFF_Topsoil.label>
+
+</LanguageData>

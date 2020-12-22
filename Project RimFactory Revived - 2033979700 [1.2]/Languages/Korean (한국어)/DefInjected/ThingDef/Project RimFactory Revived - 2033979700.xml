@@ -31,7 +31,7 @@
   <AIResearchBench.label>AI 연구 작업대</AIResearchBench.label>
   <AIResearchBench.description>AI 모듈이 설치된 첨단 작업대입니다. 2단계 자동화 연구에 필요하며 첨단 연구 작업대를 대체하지 않습니다. 전원이 필요합니다.</AIResearchBench.description>
   <TableRoboticMachining.label>로봇 기계 작업대</TableRoboticMachining.label>
-  <TableRoboticMachining.description>자동화 건물들의 부품을 제작하기 위한 작업대입니다.</TableRoboticMachining.description>
+  <TableRoboticMachining.description>보다 많은 자동화 건물들을 위한 부품, 골조를 제작하기 위한 작업대입니다.</TableRoboticMachining.description>
   <SelfCooker.label>공업용 조리기</SelfCooker.label>
   <SelfCooker.description>재료를 껍질을 벗기고, 잘게 썰고, 자르고, 섞고, 요리하고, 찌고, 굽고, 구워 맛있는 음식과 다른 식품으로 가공하는 음식 처리 모듈 집합체입니다.\n\n모든 정착지의 생계 요구를 충족시키기 위한 이 원스톱 솔루션으로 다시는 식사를 망치지 마세요. 그냥 보고만 있으면 됩니다!\n\n1x의 속도\n청결도 5\n조리 등급 10.\n\n하얀 칸은 입력 범위입니다.\n파란 칸은 Db 범위입니다.</SelfCooker.description>
   <PRF_SpacerCooker.label>우주 조리기</PRF_SpacerCooker.label>
@@ -43,9 +43,9 @@
   <SelfPrepper.label>산업용 식품 가공기</SelfPrepper.label>
   <SelfPrepper.description>생 음식 자원을 조리 및 양조에 더 적합한 재료로 끓이거나 갈거나 분쇄하도록 설계된 기계.</SelfPrepper.description>
   <CultivatorTools_DroneCultivator.label>드론 수확기</CultivatorTools_DroneCultivator.label>
-  <CultivatorTools_DroneCultivator.description>이제는 드론을 사용합니다. 자동으로 11칸의 정사각형 범위 내에서 수확과 심기를 하는 건물입니다. 어떤 능력치 수정에도 영향을 받지 않습니다.</CultivatorTools_DroneCultivator.description>
+  <CultivatorTools_DroneCultivator.description>이제는 드론을 사용합니다. 자동으로 11칸의 정사각형 범위 내에서 수확과 심기를 하는 건물입니다. 어떤 능력치 수정에도 영향을 받지 않습니다.\n\n범위 내에 저장소나 저장구역이 있다면 그곳으로 운반할 것입니다.</CultivatorTools_DroneCultivator.description>
   <CultivatorTools_CultivatorWithLamp.label>드론 수확기 (태양등)</CultivatorTools_CultivatorWithLamp.label>
-  <CultivatorTools_CultivatorWithLamp.description>이제는 드론을 사용합니다. 자동으로 11칸의 정사각형 범위 내에서 수확과 심기를 하는 건물입니다. 태양등이 장착되어 있습니다. 어떤 능력치 수정에도 영향을 받지 않습니다.</CultivatorTools_CultivatorWithLamp.description>
+  <CultivatorTools_CultivatorWithLamp.description>이제는 드론을 사용합니다. 자동으로 11칸의 정사각형 범위 내에서 수확과 심기를 하는 건물입니다. 태양등이 장착되어 있습니다. 어떤 능력치 수정에도 영향을 받지 않습니다.\n\n범위 내에 저장소나 저장구역이 있다면 그곳으로 운반할 것입니다.</CultivatorTools_CultivatorWithLamp.description>
   <CultivatorTools_b18CultivatorSun.label>메카나이트 수확기 (태양등)</CultivatorTools_b18CultivatorSun.label>
   <CultivatorTools_b18CultivatorSun.description>이것은 재배지 또는 수경 재배기에 파종하고, 수확하고 유지하는 작업 메카나이트를 수용하는 최첨단 수확기입니다. 측면에 풀 스펙트럼 LED 태양등이 장착되어 있습니다. 또한, 추가 처리를 위해 지정된 곳에 배출됩니다./n11x11의 크기를 갖고 있습니다.</CultivatorTools_b18CultivatorSun.description>
   <CultivatorTools_b18Cultivator.label>메카나이트 수확기</CultivatorTools_b18Cultivator.label>
@@ -54,6 +54,10 @@
   <CultivatorTools_b18CultivatorXL.description>이것은 재배지 또는 수경 재배기에 파종하고, 수확하고 유지하는 작업 메카나이트를 수용하는 최첨단 XL 수확기입니다. 또한, 추가 처리를 위해 지정된 곳에 배출됩니다./n23x23의 크기를 갖고 있으며 4x 더 많은 전력과 비용이 필요하지만, 일반 크기와 같은 속도를 유지합니다.\n지붕을 지지할 수 있습니다.</CultivatorTools_b18CultivatorXL.description>
   <CultivatorTools_Sprinkler.label>스프링클러</CultivatorTools_Sprinkler.label>
   <CultivatorTools_Sprinkler.description>확장된 반경의 식물에 물을 공급하여 건물당 1시간씩 성장시키는 건물. 효과는 중첩할 수 있으며, 식물이 휴식 중에도 기능합니다.</CultivatorTools_Sprinkler.description>
+  <PRF_MiniHelper.label>작은 작업장 도우미 스테이션</PRF_MiniHelper.label>
+  <PRF_MiniHelper.description>작은 작업실 도우미는 범위 내의 운반, 전원설정, 소방 및 청소를 할 수 있습니다.(전력 슬라이더를 사용해서 확장할 수 있습니다.)</PRF_MiniHelper.description>
+  <PRF_MiniDroneColumn.label>드론 기둥(알현실)</PRF_MiniDroneColumn.label>
+  <PRF_MiniDroneColumn.description>알현실을 청소하고, 화재를 진압하고, 화로에 연료를 주입할 수 있으며, 물건을 바닥에서 멀리 옮길 수 있는 편리한 드론 2대로 채워진 기둥입니다. 또한 지붕을 지탱할 수 있으며, 보기에 꽤 멋져보입니다.</PRF_MiniDroneColumn.description>
   <PRF_StoneWorks.label>산업용 석재작업</PRF_StoneWorks.label>
   <PRF_StoneWorks.description>CNC 라우터 같은 자동화된 기계는 돌덩어리를 벽돌로 만들 수 있고, 심지어 숙련된 예술품도 만들 수 있습니다.\n예술 등급: 10</PRF_StoneWorks.description>
   <PRF_Recycler.label>스마트 재활용기</PRF_Recycler.label>
@@ -100,7 +104,7 @@
   <PRFStorageUnitIOPort.label>입출력 포트</PRFStorageUnitIOPort.label>
   <PRFStorageUnitIOPort.description>(티어 3)\n화물 저장 플랫폼의 연결 포트입니다. 지도 내의 모든 범위에 있는 플랫폼에서 원격으로 입력/출력을 설정할 수 있습니다.</PRFStorageUnitIOPort.description>
   <FuelingMachine.label>연료 공급 기계</FuelingMachine.label>
-  <FuelingMachine.description>간단한 기계 구조 위에 만들어진 로봇 팔로 앞에 있는 건물에 자동으로 연료를 공급할 수 있습니다(노란 칸이 있는 곳이 "앞").\n\n("보급할 수 있는" 건물에만 작동합니다)</FuelingMachine.description>
+  <FuelingMachine.description>간단한 기계 구조 위에 만들어진 로봇 팔로 앞에 있는 건물에 자동으로 연료를 공급할 수 있습니다(노란 칸이 있는 곳이 "앞").\n\n("보급할 수 있는" 건물에만 작동합니다)\n또한 박격포까지.</FuelingMachine.description>
   <SAL_SmartHopper.label>흡입 투입구</SAL_SmartHopper.label>
   <SAL_SmartHopper.description>5 타일 범위의 저장구역내의 아무 물품이나 빨아들이는 진공 흡입기. 물품이 범위 내에 있는 한, 다른 저장구역에서도 가져올 수 있습니다. 특정 수량 및 유형의 물품을 설정할 수 있으며, 물품이 사용될 때까지 물품을 고정시킵니다.</SAL_SmartHopper.description>
   <Building_AutoMachineTool_GrowZonePuller.label>재배구역 흡입기</Building_AutoMachineTool_GrowZonePuller.label>

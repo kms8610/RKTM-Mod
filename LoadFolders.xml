@@ -90,7 +90,6 @@
 	<li IfModActive="firefoxpdm.ResearchableStatUpgrades">SS Researchable Stat Upgrades (Reupload) - 2034010625 [1.2]</li>
 	<li IfModActive="SickBoyWi.Vault.OnePointOne">Vault - 2000708343 [1.2]</li>
 	<li IfModActive="Mlie.ReconAndDiscovery">Recon And Discovery (Continued) - 2035131107 [1.2]</li>
-    <li IfModActive="fluffy.modmanager">Mod Manager - 1507748539 [1.2]</li>
 	<li IfModActive="catachat.inspirationtweaks">Vanilla Gourmet Parade - 2117487204 [1.2]</li>
 	<li IfModActive="neceros.reinforcedwalls">Reinforced Walls - 1929389479 [1.2]</li>
 	<li IfModActive="ratys.rtfuse">RT Fuse - 728314182 [1.2]</li>
@@ -162,7 +161,6 @@
 	<li IfModActive="chance2000w.automatons">Automatons Standalone - 1907165703 [1.2]</li>
 	<li IfModActive="Brightsideguy.GerzeeRace">Gerzee Race - 1783636077 [1.2]</li>
 	<!-- 20.10.02 -->
-	<li IfModActive="tachyonite.pawnmorpherpublic">Pawnmorpher - 1786466855 [1.2]</li>
 	<li IfModActive="Ekai.FavLocker">Fav Locker - 2160977038 [1.2]</li>
 	<li IfModActive="Vanya.Polarisbloc.CoreLab">Polarisbloc - Core LAB - 1500244593 [1.2]</li>
 	<!-- 20.10.03 -->
@@ -171,7 +169,6 @@
 	<li IfModActive="Stolij.MoreBatteries">More Batteries - 747397788 [1.2]</li>
 	<li IfModActive="TheGoofyOne.Flashlights">Flashlights - 1746902829 [1.2]</li>
 	<li IfModActive="syrchalis.universalfermenter">Universal Fermenter - 2073225100 [1.2]</li>
-	<li IfModActive="Xahkarias.EvolvedOrgansRedux">EvolvedOrgansRedux - 1978492655 [1.1]</li>
 	<li IfModActive="savestoragesettings.kv.rw">Save Storage, Outfit, Crafting, Drug, Operation Settings - 1180718516 [1.2]</li>
 	<li IfModActive="Mlie.TemperatureGauge">Temperature Gauge (Continued) - 2017464494 [1.2]</li>
 	<li IfModActive="Abraxas.MSERevived">Medical System Expansion - Revived - 2006968859 [1.2]</li>
@@ -215,12 +212,10 @@
 	<li IfModActive="Andross.RoyalThrumbos">Royal Thrumbos - 1865990377 [1.2]</li>
 	<li IfModActive="Proxyer.DESurgeries.DESurgeries">DE Surgeries Color - 2002422428 [1.2]</li>
 	<li IfModActive="Proxyer.DESurgeries.DESurgeriesColor">DE Surgeries Color - 2002422428 [1.2]</li>
-	<li IfModActive="Rah.RBSE">Rah's Bionics and Surgery Expansion - 850429707 [1.2]</li>
 	<li IfModActive="AsGAlligator.MonsterHunterRimWorld">Monster Hunter RimWorld - 2001260604 [1.1]</li>
 	<!-- 20.10.08 -->
 	<li IfModActive="Community.Psychology.UnofficialUpdate">Psychology (unofficial)  - 2016263135 [1.2]</li>
 	<li IfModActive="Orion.Hospitality">Hospitality - 753498552 [1.2]</li>
-	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700 [1.2]</li>
 	<!-- 20.10.10 -->
 	<li IfModActive="TheGoofyOne.IceCreamIntegrated">Ice Cream Integrated - 2074386751 [1.2]</li>
 	<!-- 20.10.16 -->
@@ -265,7 +260,6 @@
 	<li IfModActive="roolo.whatthehack">What the hack! - 1505914869 [1.2]</li>
 	<!-- 20.11.10 -->
 	<li IfModActive="co.uk.epicguru.whatsthatmod">What's That Mod - 2258431182 [1.2]</li>
-	<li IfModActive="VanillaExpanded.VBrewECandT">Vanilla Brewing Expanded - Coffees and Teas - 2275449762 [1.2]</li>
 	<li IfModActive="OskarPotocki.VFE.Vikings">Vanilla Factions Expanded - Vikings - 2231295285 [1.2]</li>
 	<!-- 20.11.11 -->
 	<li IfModActive="Dubwise.DubsMintMenus">Dubs Mint Menus - 1446523594 [1.2]</li>
@@ -299,7 +293,6 @@
 	<!-- 20.12.03 -->
 	<li IfModActive="Mlie.Tenants">Tenants (Continued) - 2305695410 [1.2]</li>
 	<li IfModActive="GHXX.TechAdvancing">Tech Advancing - 735268789 [1.2]</li>
-	<li IfModActive="CETeam.CombatExtended">Combat Extended - 1631756268 [1.2]</li>
 	<!-- 20.12.05 -->
 	<li IfModActive="Mlie.CommonAilments">Common Ailments (Continued) - 2194968364 [1.2]</li>
 	<li IfModActive="Ogliss.Ykara.HarvestEverything">Harvest Everything! - 2007485974 [1.2]</li>
@@ -316,9 +309,27 @@
 	<!-- 20.12.09 -->
 	<li IfModActive="fluffy.blueprints">Blueprints - 708455313 [1.2]</li>
 	<li IfModActive="fluffy.medicaltab">Medical Tab - 715565817 [1.2]</li>
-	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
-	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
+	<!-- 20.12.15 -->
+    <li IfModActive="fluffy.modmanager">Mod Manager - 1507748539 [1.2]</li>
 	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268 [1.2]</li>
+	<li IfModActive="VanillaExpanded.VAEED">Vanilla Animals Expanded — Extreme Desert - 1849184079 [1.2]</li>
+	<li IfModActive="VanillaExpanded.VBrewECandT">Vanilla Brewing Expanded - Coffees and Teas - 2275449762 [1.2]</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
+	<li IfModActive="rimsenal.feral">Rimsenal - Feral Faction Pack - 736207111 [1.2]</li>
+	<!-- 20.12.19 -->
+	<li IfModActive="LingLuo.MaidProject">Maid Project - 1498756997 [1.2]</li>
+	<!-- 20.12.21 -->
+	<li IfModActive="tachyonite.pawnmorpherpublic">Pawnmorpher - 1786466855 [1.2]</li>
+	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
+	<li IfModActive="atomicravioli.Crystalloid">Crystalloid - 1571323744 [1.2]</li>
+	<!-- 20.12.22 -->
+	<li IfModActive="roolo.giddyupcaravan">Giddy-up! Caravan - 1253251478 [1.2]</li>
+	<li IfModActive="jamaicancastle.RF.fertilefields">Fertile Fields - 2012735237 [1.2]</li>
+	<li IfModActive="Xahkarias.EvolvedOrgansRedux">EvolvedOrgansRedux - 1978492655 [1.1]</li>
+	<li IfModActive="Harkon.GunNut.Chapter1">Gun Nut - Chapter #1 - 2208576613 [1.2]</li>
+	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700 [1.2]</li>
+	<li IfModActive="CETeam.CombatExtended">Combat Extended - 1631756268 [1.2]</li>
+	<li IfModActive="Rah.RBSE">Rah's Bionics and Surgery Expansion - 850429707 [1.2]</li>
   </v1.2>
 
 </loadFolders>

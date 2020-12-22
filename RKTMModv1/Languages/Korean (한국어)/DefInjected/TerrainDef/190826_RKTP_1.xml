@@ -76,16 +76,6 @@
   <Smooth_Sandstone.description>매끄럽게 다듬어진 사암 바닥</Smooth_Sandstone.description>
   <Smooth_Slate.description>매끄럽게 다듬어진 점판암 바닥</Smooth_Slate.description>
 
-  <!--1539311500_181027_Fertile Fields-->
-  <BrickFloor.label>벽돌 바닥</BrickFloor.label>
-  <HBBrickFloor.description>벽돌을 교차 패턴으로 쌓는 작업은 꽤 번거롭지만 그만큼 멋진 결과물을 만들어냅니다.</HBBrickFloor.description>
-  <BrickFloor.description>벽돌이 사용된 바닥재입니다.</BrickFloor.description>
-  <DirtFert.label>기름진 준설토</DirtFert.label>
-  <HBBrickFloor.label>교차 벽돌 바닥</HBBrickFloor.label>
-  <SoilTilled.label>개간된 토양</SoilTilled.label>
-  <RockySoil.label>거친 자갈</RockySoil.label>
-  <Topsoil.label>준설토</Topsoil.label>
-
   <!--1543177113_190628_Quarry-->
   <QRY_QuarriedGround.label>채석장</QRY_QuarriedGround.label>
   <QRY_QuarriedGroundWall.label>채석장</QRY_QuarriedGroundWall.label>

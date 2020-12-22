@@ -56,11 +56,6 @@
   <DoBillsCalSmelter.verb>정제</DoBillsCalSmelter.verb>
   <DoBillsCalSmelter.gerund>정제 중</DoBillsCalSmelter.gerund>
 
-  <!--1571323744_190714_Crystalloid (Rewrite)-->
-  <DoBillsCrystalReconfigurationChamber.label>재구성 챔버에서 작업</DoBillsCrystalReconfigurationChamber.label>
-  <DoBillsCrystalReconfigurationChamber.verb>작업</DoBillsCrystalReconfigurationChamber.verb>
-  <DoBillsCrystalReconfigurationChamber.gerund>작업 중</DoBillsCrystalReconfigurationChamber.gerund>
-
   <!--1785657108_190811_Humanoid Project-->
   <BionicCabinet.label>고급 실험대에서 제작하는 중.</BionicCabinet.label>
   <BionicCabinet.verb>제작</BionicCabinet.verb>

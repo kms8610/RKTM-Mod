@@ -33,7 +33,7 @@
   <CombatExtendedCoreTips.tips.30>두꺼운 갑옷을 입으면 소총 사격에 대한 용기가 생기지만 부피가 커서 작업 속도가 떨어질 것입니다.</CombatExtendedCoreTips.tips.30>
   <CombatExtendedCoreTips.tips.31>탄약을 보급하는 방법은 적이 떨어 뜨린 탄약을 줍거나, 기계작업대나 탄약제작대에서 직접 제작할 수 있습니다.</CombatExtendedCoreTips.tips.31>
   <CombatExtendedCoreTips.tips.32>프로메튬은 화약초를 수확하면 나오는 강력한 소이 무기를 만들 수 있는 재료입니다. 그러나 상온에서 자연발화 될 수 있습니다.</CombatExtendedCoreTips.tips.32>
-  <CombatExtendedCoreTips.tips.33>폭탄사슴을 착유하면 다양한 폭발물을 제조하는 데 사용되는 휘발성 화합물인 FSX를 얻을 수 있습니다.</CombatExtendedCoreTips.tips.33>
+  <CombatExtendedCoreTips.tips.33>다양한 폭발물을 제조할때 사용하는 휘발성 화합물 인 FSX는 폭탄사슴에서 수확하거나 화학 연료로 합성 할 수 있습니다.</CombatExtendedCoreTips.tips.33>
   <CombatExtendedCoreTips.tips.34>추운 기후에서는 자연발화를 막기위한 냉각의 필요가 적어서 화약초 재배에 유리합니다.</CombatExtendedCoreTips.tips.34>
   <CombatExtendedCoreTips.tips.35>온난 한 기후는 폭탄사슴과 폭탄쥐를 키우는 데 유리합니다.</CombatExtendedCoreTips.tips.35>
   <CombatExtendedCoreTips.tips.36>프로메튬을 기반으로 하는 화염 방사기와 화염병은 목표물을 프로메튬으로 적셔서 일반적으로 타지 않는 적도 불 타게합니다.</CombatExtendedCoreTips.tips.36>
@@ -46,4 +46,8 @@
   <CombatExtendedCoreTips.tips.43>로드아웃을 사용하여 정착민이 인벤토리에 무엇을 들고다닐지 결정하세요. 장비 탭을 열면 로드아웃을 설정할 수 있습니다.</CombatExtendedCoreTips.tips.43>
   <CombatExtendedCoreTips.tips.44>총안은 적에게 사격을 가할 수있는 안전하고 넘어올 수없는 장소를 제공합니다. 하지만 총안에서 너머를 볼 때는 헬멧을 착용하세요!</CombatExtendedCoreTips.tips.44>
   <CombatExtendedCoreTips.tips.45>자동포탑은 작업대에서 제작하거나 상인에게서 구입할 수 있습니다. 발사는 자동이지만 재장전은 수동입니다.</CombatExtendedCoreTips.tips.45>
+  <CombatExtendedRoyaltyTips.tips>
+		
+		
+	</CombatExtendedRoyaltyTips.tips>
 </LanguageData>

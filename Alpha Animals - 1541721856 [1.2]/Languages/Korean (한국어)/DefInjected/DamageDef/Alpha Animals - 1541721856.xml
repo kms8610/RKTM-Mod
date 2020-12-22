@@ -4,6 +4,7 @@
   <AA_ToxicSting.deathMessage>{0}(이)가 찔려 죽었습니다.</AA_ToxicSting.deathMessage>
   <AA_InfectedClaws.label>감염된 발톱</AA_InfectedClaws.label>
   <AA_ExtraDamageInsectoidsClaws.label>날카로운 발톱</AA_ExtraDamageInsectoidsClaws.label>
+  <AA_EMPBlunt.label>전자기</AA_EMPBlunt.label>
   <AA_ToxicBolt.label>중독 가시</AA_ToxicBolt.label>
   <AA_ToxicBolt.deathMessage>{0}(이)가 찔려 죽었습니다.</AA_ToxicBolt.deathMessage>
   <AA_AcidSpit.label>산성 침</AA_AcidSpit.label>

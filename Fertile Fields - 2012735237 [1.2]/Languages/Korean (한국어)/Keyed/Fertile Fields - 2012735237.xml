@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1539311500_181027_Fertile Fields-->
+  <RFF.PlayHardModeTip>"하드 모드"는 이 Mod의 덜 현실적인 지형 재구성을 비활성화합니다. 빙상이나 빙해 맵에서 얼음을 제거할 수 없을 것이며, 그러한 맵에서 진흙, 늪지나 습지 토양을 만들 수 없을 것이고, 어떤 맵에서도 깊은 바닷물 지형을 제거하거나 만들 수 없을 것입니다. (강물이나 깊은 강물을 만들고 제거할 수 있는 능력은 영향받지 않습니다.)</RFF.PlayHardModeTip>
+  <RFF.BadTemp>온도 부적합</RFF.BadTemp>
+  <RFF.AutoReplowTip>기본설정으로, 개간된 또는 기름진 토양이 다운그레이드 되면, 새 작물을 심기 전에 자동으로 복원되도록 지정될 것입니다. 재개간을 직접 지정하길 원하신다면(예를 들어, 비료가 준비되어 있지 않은데 농지가 놀고 있는 것을 원치 않을 경우), 이 옵션을 해제해 주세요.</RFF.AutoReplowTip>
+  <RFF.Unplaceable>이곳에는 {0}(을)를 설치할 수 없습니다.</RFF.Unplaceable>
+  <RFF.DegradeChancePlowed>수확 후 개간된 토양이 기름진 토양으로 다운그레이드 될 확률:</RFF.DegradeChancePlowed>
+  <RFF.DegradeChanceRich>수확 후 기름진 토양이 일반 토양으로 다운그레이드 될 확률:</RFF.DegradeChanceRich>
+  <RFF.OutOfTemp>퇴비 숙성고 온도 부적합:</RFF.OutOfTemp>
+  <RFF.Composted>숙성 완료</RFF.Composted>
+  <RFF.CompProg>진행률:</RFF.CompProg>
+  <RFF.ContainsFert>비료 채워짐:</RFF.ContainsFert>
+  <RFF.NoComp>퇴비가 들어있지 않습니다.</RFF.NoComp>
+  <RFF.ContainsComp>퇴비 채워짐:</RFF.ContainsComp>
+  <RFF.FarmingOptions>농사 옵션:</RFF.FarmingOptions>
+  <RFF.IdealTemp>퇴비 숙성고 적정 온도:</RFF.IdealTemp>
+  <RFF.HardMode>"하드 모드"에서는 허용되지 않습니다.</RFF.HardMode>
+  <RFF.PlayHardMode>"하드 모드"에서 플레이합니다.</RFF.PlayHardMode>
+  <RFF.Progress>진행률:</RFF.Progress>
+  <RFF.FertileFields>Rainbeau's Fertile Fields</RFF.FertileFields>
+  <RFF.AutoReplow>재개간은 자동으로 이루어집니다.</RFF.AutoReplow>
+  <RFF.BillRequires>{0}kg 필요합니다.</RFF.BillRequires>
+  <RFF.Temp>온도:</RFF.Temp>
+  <RFF.TerraformingOptions>지형 재구성 옵션:</RFF.TerraformingOptions>
+  <RFF.FullOfFert>퇴비를 비료로 가득찬 숙성고에 담으려 하였습니다. 정착민들이 비료를 먼저 꺼내야 합니다.</RFF.FullOfFert>
+  <RFF.NullMapHeld>퇴비 숙성고의 온도를 측정하려 하였으나 MapHeld값이 지정되어 있지 않습니다.</RFF.NullMapHeld>
+  <RFF.NotReady>아직 비료가 준비되지 않았습니다.</RFF.NotReady>
+
+</LanguageData>

@@ -1,46 +1,70 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <PawnmorphMoo.label>음머</PawnmorphMoo.label>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [RECIPIENT_nameDef] [talkedabout].</PawnmorphMoo.logRulesInitiator.rulesStrings.0>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [askedabout]에 대해 물었습니다.</PawnmorphMoo.logRulesInitiator.rulesStrings.1>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [askedaboutme]에 대해 음머-하고 말했습니다.</PawnmorphMoo.logRulesInitiator.rulesStrings.2>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 우유를 제공했습니다.</PawnmorphMoo.logRulesInitiator.rulesStrings.3>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.4>talkedabout(p=4)->음머- 함</PawnmorphMoo.logRulesInitiator.rulesStrings.4>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.5>talkedabout->갑자기 음머- 함</PawnmorphMoo.logRulesInitiator.rulesStrings.5>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.6>talkedabout->무언가 말하려 했지만, 나오는건 음머- 소리 뿐이었음.</PawnmorphMoo.logRulesInitiator.rulesStrings.6>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.7>talkedabout->(을)를 향해 큰 소리로 음머- 하며 울음.</PawnmorphMoo.logRulesInitiator.rulesStrings.7>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.8>talkedabout->킁킁대며 음머- 함</PawnmorphMoo.logRulesInitiator.rulesStrings.8>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.9>talkedabout->빠른 속도로 음머- 함</PawnmorphMoo.logRulesInitiator.rulesStrings.9>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.10>talkedabout->소처럼 신음함.</PawnmorphMoo.logRulesInitiator.rulesStrings.10>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.11>askedabout->[INITIATOR_possessive]착유</PawnmorphMoo.logRulesInitiator.rulesStrings.11>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.12>askedabout->우유</PawnmorphMoo.logRulesInitiator.rulesStrings.12>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.13>askedabout->풀 먹기</PawnmorphMoo.logRulesInitiator.rulesStrings.13>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.14>askedabout->돼새김질</PawnmorphMoo.logRulesInitiator.rulesStrings.14>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.15>askedabout->낙농장</PawnmorphMoo.logRulesInitiator.rulesStrings.15>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.16>askedaboutme->[INITIATOR_possessive]우유</PawnmorphMoo.logRulesInitiator.rulesStrings.16>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.17>askedaboutme->[INITIATOR_possessive]목초 먹기</PawnmorphMoo.logRulesInitiator.rulesStrings.17>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.18>askedaboutme->다시 [INITIATOR_possessive]로 되돌아가는 것</PawnmorphMoo.logRulesInitiator.rulesStrings.18>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.19>askedaboutme->[INITIATOR_possessive]에게 목초 주기</PawnmorphMoo.logRulesInitiator.rulesStrings.19>
-  <PawnmorphMoo.logRulesInitiator.rulesStrings.20>askedaboutme->[INITIATOR_possessive]에게 공 주기</PawnmorphMoo.logRulesInitiator.rulesStrings.20>
-  <PawnmorphBok.label>꼬꼬거림</PawnmorphBok.label>
-  <PawnmorphBok.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [RECIPIENT_nameDef] [talkedabout].</PawnmorphBok.logRulesInitiator.rulesStrings.0>
-  <PawnmorphBok.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [askedabout]에 대해 물었습니다.</PawnmorphBok.logRulesInitiator.rulesStrings.1>
-  <PawnmorphBok.logRulesInitiator.rulesStrings.2>talkedabout(p=4)->에게 꼬꼬거림</PawnmorphBok.logRulesInitiator.rulesStrings.2>
-  <PawnmorphBok.logRulesInitiator.rulesStrings.3>talkedabout->에게 멍멍댐</PawnmorphBok.logRulesInitiator.rulesStrings.3>
-  <PawnmorphBok.logRulesInitiator.rulesStrings.4>talkedabout->에게 조잘거림</PawnmorphBok.logRulesInitiator.rulesStrings.4>
-  <PawnmorphBok.logRulesInitiator.rulesStrings.5>talkedabout->에게 까악댐</PawnmorphBok.logRulesInitiator.rulesStrings.5>
-  <PawnmorphBok.logRulesInitiator.rulesStrings.6>talkedabout->에게 깍깍댐</PawnmorphBok.logRulesInitiator.rulesStrings.6>
-  <PawnmorphBok.logRulesInitiator.rulesStrings.7>talkedabout->에게 알에 대해 얘기함</PawnmorphBok.logRulesInitiator.rulesStrings.7>
-  <PawnmorphBok.logRulesInitiator.rulesStrings.8>talkedabout->에게 깃털 정리에 대해 이야기함</PawnmorphBok.logRulesInitiator.rulesStrings.8>
-  <PawnmorphBok.logRulesInitiator.rulesStrings.9>talkedabout->[INITIATOR_possessive](을)를 향해 깃털을 곤두세움</PawnmorphBok.logRulesInitiator.rulesStrings.9>
-  <PawnmorphBok.logRulesInitiator.rulesStrings.10>askedabout->[INITIATOR_possessive]에 알을 낳는 것</PawnmorphBok.logRulesInitiator.rulesStrings.10>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [talkedabout].</PawnmorphMoo.logRulesInitiator.rulesStrings.0>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [askedabout]에 대해 질문함.</PawnmorphMoo.logRulesInitiator.rulesStrings.1>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [askedaboutme]에 대해 음머- 하고 말함.</PawnmorphMoo.logRulesInitiator.rulesStrings.2>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->음머- 함</PawnmorphMoo.logRulesInitiator.rulesStrings.3>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.4>talkedabout->갑자기 음머- 함</PawnmorphMoo.logRulesInitiator.rulesStrings.4>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.5>talkedabout->무언가 말하려 했지만, 나오는 건 음머- 소리뿐이었음</PawnmorphMoo.logRulesInitiator.rulesStrings.5>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.6>talkedabout->큰 소리로 음머- 하며 울음</PawnmorphMoo.logRulesInitiator.rulesStrings.6>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.7>talkedabout->킁킁대며 음머- 함</PawnmorphMoo.logRulesInitiator.rulesStrings.7>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.8>talkedabout->조용히 음머- 함</PawnmorphMoo.logRulesInitiator.rulesStrings.8>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.9>talkedabout->소처럼 신음함</PawnmorphMoo.logRulesInitiator.rulesStrings.9>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.10>askedabout->우유</PawnmorphMoo.logRulesInitiator.rulesStrings.10>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.11>askedabout->풀 먹기</PawnmorphMoo.logRulesInitiator.rulesStrings.11>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.12>askedabout->되새김질</PawnmorphMoo.logRulesInitiator.rulesStrings.12>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.13>askedabout->낙농장</PawnmorphMoo.logRulesInitiator.rulesStrings.13>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.14>askedaboutme->잡초 먹기</PawnmorphMoo.logRulesInitiator.rulesStrings.14>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.15>askedaboutme->다시 [INITIATOR_pronoun]로 되돌아가는 것</PawnmorphMoo.logRulesInitiator.rulesStrings.15>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.16>askedaboutme->건초 주기</PawnmorphMoo.logRulesInitiator.rulesStrings.16>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.17>askedaboutme->방울 주기</PawnmorphMoo.logRulesInitiator.rulesStrings.17>
+  <PawnmorphBleat.label>메에에</PawnmorphBleat.label>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [talkedabout].</PawnmorphBleat.logRulesInitiator.rulesStrings.0>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [askedabout]에 대해 질문함.</PawnmorphBleat.logRulesInitiator.rulesStrings.1>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [askedaboutme]에 대해 메에에- 하고 말함.</PawnmorphBleat.logRulesInitiator.rulesStrings.2>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [askedaboutme]에 대해 메에- 하고 말함.</PawnmorphBleat.logRulesInitiator.rulesStrings.3>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.4>talkedabout(p=4)->메에에- 함</PawnmorphBleat.logRulesInitiator.rulesStrings.4>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.5>talkedabout->돌연 메에- 소리 냄</PawnmorphBleat.logRulesInitiator.rulesStrings.5>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.6>talkedabout->돌연 메에- 하고 소리 냄</PawnmorphBleat.logRulesInitiator.rulesStrings.6>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.7>talkedabout->무언가 말하려 했지만, 나오는 건 메에- 소리 뿐이었음</PawnmorphBleat.logRulesInitiator.rulesStrings.7>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.8>talkedabout->큰 소리로 메에- 하며 울음</PawnmorphBleat.logRulesInitiator.rulesStrings.8>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.9>talkedabout->킁킁대며 메에에- 함</PawnmorphBleat.logRulesInitiator.rulesStrings.9>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.10>talkedabout->조용히 메에에- 함</PawnmorphBleat.logRulesInitiator.rulesStrings.10>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.11>askedabout->[INITIATOR_possessive] 털을 깎는 것</PawnmorphBleat.logRulesInitiator.rulesStrings.11>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.12>askedabout->털</PawnmorphBleat.logRulesInitiator.rulesStrings.12>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.13>askedabout->풀 먹기</PawnmorphBleat.logRulesInitiator.rulesStrings.13>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.14>askedabout->무리 합류</PawnmorphBleat.logRulesInitiator.rulesStrings.14>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.15>askedabout->암양</PawnmorphBleat.logRulesInitiator.rulesStrings.15>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.16>askedabout->되새김질</PawnmorphBleat.logRulesInitiator.rulesStrings.16>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.17>askedabout->숫양</PawnmorphBleat.logRulesInitiator.rulesStrings.17>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.18>askedabout->뿔</PawnmorphBleat.logRulesInitiator.rulesStrings.18>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.19>askedabout->양모</PawnmorphBleat.logRulesInitiator.rulesStrings.19>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.20>askedabout->물레</PawnmorphBleat.logRulesInitiator.rulesStrings.20>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.21>askedaboutme->털 깎기</PawnmorphBleat.logRulesInitiator.rulesStrings.21>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.22>askedaboutme->잡초 먹기</PawnmorphBleat.logRulesInitiator.rulesStrings.22>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.23>askedaboutme->다시 [INITIATOR_pronoun]로 되돌아가는 것</PawnmorphBleat.logRulesInitiator.rulesStrings.23>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.24>askedaboutme->가위 주기</PawnmorphBleat.logRulesInitiator.rulesStrings.24>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.25>askedaboutme->털 깎아 주기</PawnmorphBleat.logRulesInitiator.rulesStrings.25>
+  <PawnmorphBok.label>꼬꼬꼬</PawnmorphBok.label>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [talkedabout].</PawnmorphBok.logRulesInitiator.rulesStrings.0>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [askedabout]에 대해 질문함.</PawnmorphBok.logRulesInitiator.rulesStrings.1>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.2>talkedabout(p=4)->꼬꼬- 거림</PawnmorphBok.logRulesInitiator.rulesStrings.2>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.3>talkedabout->멍멍- 댐</PawnmorphBok.logRulesInitiator.rulesStrings.3>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.4>talkedabout->조잘거림</PawnmorphBok.logRulesInitiator.rulesStrings.4>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.5>talkedabout->까악- 댐</PawnmorphBok.logRulesInitiator.rulesStrings.5>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.6>talkedabout->깍깍- 댐</PawnmorphBok.logRulesInitiator.rulesStrings.6>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.7>talkedabout->알에 대해 얘기함</PawnmorphBok.logRulesInitiator.rulesStrings.7>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.8>talkedabout->깃털 정리에 대해 이야기함</PawnmorphBok.logRulesInitiator.rulesStrings.8>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.9>talkedabout->깃털을 곤두세움</PawnmorphBok.logRulesInitiator.rulesStrings.9>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.10>askedabout->알 낳는 것</PawnmorphBok.logRulesInitiator.rulesStrings.10>
   <PawnmorphBok.logRulesInitiator.rulesStrings.11>askedabout->알 수집</PawnmorphBok.logRulesInitiator.rulesStrings.11>
-  <PawnmorphBok.logRulesInitiator.rulesStrings.12>askedabout->건전기 농장</PawnmorphBok.logRulesInitiator.rulesStrings.12>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.12>askedabout->양계장</PawnmorphBok.logRulesInitiator.rulesStrings.12>
   <PawnmorphBok.logRulesInitiator.rulesStrings.13>askedabout->자유 생활</PawnmorphBok.logRulesInitiator.rulesStrings.13>
   <PawnmorphBok.logRulesInitiator.rulesStrings.14>askedabout->수탉</PawnmorphBok.logRulesInitiator.rulesStrings.14>
   <PawnmorphBok.logRulesInitiator.rulesStrings.15>askedabout->알</PawnmorphBok.logRulesInitiator.rulesStrings.15>
   <PawnmorphBok.logRulesInitiator.rulesStrings.16>askedabout->암탉</PawnmorphBok.logRulesInitiator.rulesStrings.16>
-  <PawnmorphYip.label>깽깽댐</PawnmorphYip.label>
+  <PawnmorphYip.label>깽깽- 댐</PawnmorphYip.label>
   <PawnmorphYip.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [RECIPIENT_nameDef] [talkedabout].</PawnmorphYip.logRulesInitiator.rulesStrings.0>
   <PawnmorphYip.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [askedabout]에 대해 물었습니다.</PawnmorphYip.logRulesInitiator.rulesStrings.1>
   <PawnmorphYip.logRulesInitiator.rulesStrings.2>talkedabout(p=4)->에게 깨갱댐</PawnmorphYip.logRulesInitiator.rulesStrings.2>
@@ -51,7 +75,7 @@
   <PawnmorphYip.logRulesInitiator.rulesStrings.7>talkedabout->닭에 대해 이야기함</PawnmorphYip.logRulesInitiator.rulesStrings.7>
   <PawnmorphYip.logRulesInitiator.rulesStrings.8>talkedabout->을 향해 [INITIATOR_possessive] 꼬리를 흔듦</PawnmorphYip.logRulesInitiator.rulesStrings.8>
   <PawnmorphYip.logRulesInitiator.rulesStrings.9>askedabout->[INITIATOR_possessive]털을 쓰다듬는 것</PawnmorphYip.logRulesInitiator.rulesStrings.9>
-  <PawnmorphYip.logRulesInitiator.rulesStrings.10>askedabout->암여우</PawnmorphYip.logRulesInitiator.rulesStrings.10>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.10>askedabout->[INITIATOR_possessive] 털을 쓰다듬는 것</PawnmorphYip.logRulesInitiator.rulesStrings.10>
   <PawnmorphYip.logRulesInitiator.rulesStrings.11>askedabout->닭 사냥</PawnmorphYip.logRulesInitiator.rulesStrings.11>
   <PawnmorphYip.logRulesInitiator.rulesStrings.12>askedabout->울타리 넘는 법</PawnmorphYip.logRulesInitiator.rulesStrings.12>
   <PawnmorphYip.logRulesInitiator.rulesStrings.13>askedabout->구멍 파기</PawnmorphYip.logRulesInitiator.rulesStrings.13>
@@ -74,7 +98,7 @@
   <PawnmorphBark.logRulesInitiator.rulesStrings.7>talkedabout->에게 으르렁댐</PawnmorphBark.logRulesInitiator.rulesStrings.7>
   <PawnmorphBark.logRulesInitiator.rulesStrings.8>talkedabout->킁킁댐</PawnmorphBark.logRulesInitiator.rulesStrings.8>
   <PawnmorphBark.logRulesInitiator.rulesStrings.9>talkedabout->에게 [INITIATOR_possessive] 꼬리를 흔듦</PawnmorphBark.logRulesInitiator.rulesStrings.9>
-  <PawnmorphBark.logRulesInitiator.rulesStrings.10>askedabout->[INITIATOR_possessive]털을 쓰다듬는 것</PawnmorphBark.logRulesInitiator.rulesStrings.10>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.10>askedabout->[INITIATOR_possessive] 털을 쓰다듬는 것</PawnmorphBark.logRulesInitiator.rulesStrings.10>
   <PawnmorphBark.logRulesInitiator.rulesStrings.11>askedabout->개들</PawnmorphBark.logRulesInitiator.rulesStrings.11>
   <PawnmorphBark.logRulesInitiator.rulesStrings.12>askedabout->늑대들</PawnmorphBark.logRulesInitiator.rulesStrings.12>
   <PawnmorphBark.logRulesInitiator.rulesStrings.13>askedabout->달</PawnmorphBark.logRulesInitiator.rulesStrings.13>
@@ -90,7 +114,7 @@
   <PawnmorphBark.logRulesInitiator.rulesStrings.23>askedabout->배 문지르기</PawnmorphBark.logRulesInitiator.rulesStrings.23>
   <PawnmorphBark.logRulesInitiator.rulesStrings.24>askedabout->핥기[INITIATOR_possessive]</PawnmorphBark.logRulesInitiator.rulesStrings.24>
   <PawnmorphMeow.label>야옹</PawnmorphMeow.label>
-  <PawnmorphMeow.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [talkedabout] [RECIPIENT_nameDef].</PawnmorphMeow.logRulesInitiator.rulesStrings.0>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [talkedabout].</PawnmorphMeow.logRulesInitiator.rulesStrings.0>
   <PawnmorphMeow.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 [askedabout]에 대해 물었습니다.</PawnmorphMeow.logRulesInitiator.rulesStrings.1>
   <PawnmorphMeow.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] [miscabout].</PawnmorphMeow.logRulesInitiator.rulesStrings.2>
   <PawnmorphMeow.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->야옹거림</PawnmorphMeow.logRulesInitiator.rulesStrings.3>
@@ -116,145 +140,9 @@
   <PawnmorphMeow.logRulesInitiator.rulesStrings.23>advb->보호받고 싶음</PawnmorphMeow.logRulesInitiator.rulesStrings.23>
   <PawnmorphMeow.logRulesInitiator.rulesStrings.24>advb->다정함</PawnmorphMeow.logRulesInitiator.rulesStrings.24>
   <PawnmorphMeow.logRulesInitiator.rulesStrings.25>advb->신뢰함</PawnmorphMeow.logRulesInitiator.rulesStrings.25>
-  <SapientAnimalChat.label>동물 대화문</SapientAnimalChat.label>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.0>r_logentry(p=5)->[INITIATOR_nameDef] [comfort] [RECIPIENT_nameDef].</SapientAnimalChat.logRulesInitiator.rulesStrings.0>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.1>r_logentry(p=5)->[RECIPIENT_nameDef] [animalTalk] [INITIATOR_nameDef].</SapientAnimalChat.logRulesInitiator.rulesStrings.1>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]은(는) [RECIENT_nameDef] 근처에 앉아 [TalkTopicAny]에 대해 [RECIENT_objective]와 이야기를 나눔.</SapientAnimalChat.logRulesInitiator.rulesStrings.2>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.3>r_logentry->[RECIPIATOR_nameDef]은(는) [INITIATOR_nameDef]옆에 앉아 [TalkTopicAny]에 대해 [INITIATOR_objective]와 이야기함.</SapientAnimalChat.logRulesInitiator.rulesStrings.3>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef]은(는) [RECIENT_nameDef] 근처에 앉아 [RECIENT_objective]와 [AnimalLife]에 대해 이야기함.</SapientAnimalChat.logRulesInitiator.rulesStrings.4>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.5>r_logentry->[RECIPIATOR_nameDef]은(는) [INITIATOR_nameDef]옆에 앉아 [INITIATOR_objective]와 [AnimalLife]에 대해 이야기함.</SapientAnimalChat.logRulesInitiator.rulesStrings.5>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.6>r_logentry->[RECIPIENT_nameDef]은(는) [INITIATOR_nameDef]와 [TalkTopicAny]에 대해 이야기함.</SapientAnimalChat.logRulesInitiator.rulesStrings.6>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.7>r_logentry->[RECIPIENT_nameDef]와(과) [AnimalLife]에 대해 얘기함.</SapientAnimalChat.logRulesInitiator.rulesStrings.7>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.8>comfort->진정시키려고 함.</SapientAnimalChat.logRulesInitiator.rulesStrings.8>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.9>comfort->에 대해 이해한다는 표정을 지음.</SapientAnimalChat.logRulesInitiator.rulesStrings.9>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.10>comfort->부드럽게 포옹함.</SapientAnimalChat.logRulesInitiator.rulesStrings.10>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.11>comfort->정중하게 대화를 나눔.</SapientAnimalChat.logRulesInitiator.rulesStrings.11>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.12>comfort->위로하려고 애씀.</SapientAnimalChat.logRulesInitiator.rulesStrings.12>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.13>comfort->의 콧대를 꺾음.</SapientAnimalChat.logRulesInitiator.rulesStrings.13>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.14>comfort->마음을 가라앉히고 용기를 북돋아줌.</SapientAnimalChat.logRulesInitiator.rulesStrings.14>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.15>comfort->앉아서 토닥거림.</SapientAnimalChat.logRulesInitiator.rulesStrings.15>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.16>comfort->[TalkTopicAny]에 대한 생각을 공유함.</SapientAnimalChat.logRulesInitiator.rulesStrings.16>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.17>comfort->의 머리를 쓰다듬음.</SapientAnimalChat.logRulesInitiator.rulesStrings.17>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.18>comfort->차분하게 토닥토닥 거림.</SapientAnimalChat.logRulesInitiator.rulesStrings.18>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.19>comfort->응원함.</SapientAnimalChat.logRulesInitiator.rulesStrings.19>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.20>comfort->[TalkTopicAny]에 대해 이야기함.</SapientAnimalChat.logRulesInitiator.rulesStrings.20>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.21>animalTalk->[TalkTopicAny]에 대한 이야기를 해줌.</SapientAnimalChat.logRulesInitiator.rulesStrings.21>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.22>animalTalk->하고 부드럽게 한숨을 내쉼.</SapientAnimalChat.logRulesInitiator.rulesStrings.22>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.23>animalTalk->로부터 관심을 끌기 위해 울부짖음.</SapientAnimalChat.logRulesInitiator.rulesStrings.23>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.24>animalTalk->부드럽게 비벼댐.</SapientAnimalChat.logRulesInitiator.rulesStrings.24>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.25>animalTalk->에 비벼댐.</SapientAnimalChat.logRulesInitiator.rulesStrings.25>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.26>animalTalk->옆에 앉음.</SapientAnimalChat.logRulesInitiator.rulesStrings.26>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.27>animalTalk->옆에 잠시 웅크림.</SapientAnimalChat.logRulesInitiator.rulesStrings.27>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.28>animalTalk->을 툭 때림.</SapientAnimalChat.logRulesInitiator.rulesStrings.28>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.29>animalTalk->[TalkTopicAny]에 대해 말함.</SapientAnimalChat.logRulesInitiator.rulesStrings.29>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.30>animalTalk->와 [TalkTopicAny]에 대해 불평함.</SapientAnimalChat.logRulesInitiator.rulesStrings.30>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.31>animalTalk->삶에 대해 한탄함.</SapientAnimalChat.logRulesInitiator.rulesStrings.31>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.32>animalLife->동물인 것에 대해</SapientAnimalChat.logRulesInitiator.rulesStrings.32>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.33>animalLife->동물이 되는 것에 대해</SapientAnimalChat.logRulesInitiator.rulesStrings.33>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.34>animalLife->맨땅에서 자기</SapientAnimalChat.logRulesInitiator.rulesStrings.34>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.35>animalLife->땅바닥에서 자기</SapientAnimalChat.logRulesInitiator.rulesStrings.35>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.36>animalLife->바깥에서 자기</SapientAnimalChat.logRulesInitiator.rulesStrings.36>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.37>animalLife->사료 먹기</SapientAnimalChat.logRulesInitiator.rulesStrings.37>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.38>animalLife->날것 먹기</SapientAnimalChat.logRulesInitiator.rulesStrings.38>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.39>animalLife->훈련 받기</SapientAnimalChat.logRulesInitiator.rulesStrings.39>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.40>animalLife->동물로서 사랑이 의미하는 것</SapientAnimalChat.logRulesInitiator.rulesStrings.40>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.41>animalLife->발톱 정리</SapientAnimalChat.logRulesInitiator.rulesStrings.41>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.42>animalLife->몸치장과 털관리</SapientAnimalChat.logRulesInitiator.rulesStrings.42>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.43>animalLife->강한 감각</SapientAnimalChat.logRulesInitiator.rulesStrings.43>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.44>animalLife->흥미로운 향기</SapientAnimalChat.logRulesInitiator.rulesStrings.44>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.45>animalLife->역겨운 냄새</SapientAnimalChat.logRulesInitiator.rulesStrings.45>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.46>animalLife->변화에 저항</SapientAnimalChat.logRulesInitiator.rulesStrings.46>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.47>animalLife->변화에 수긍</SapientAnimalChat.logRulesInitiator.rulesStrings.47>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.48>animalLife->본능에 굴복하기</SapientAnimalChat.logRulesInitiator.rulesStrings.48>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.49>animalLife->본능에 저항하기</SapientAnimalChat.logRulesInitiator.rulesStrings.49>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.50>animalLife->변이</SapientAnimalChat.logRulesInitiator.rulesStrings.50>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.51>animalLife->벌거숭이가 되기</SapientAnimalChat.logRulesInitiator.rulesStrings.51>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.52>animalLife->안장</SapientAnimalChat.logRulesInitiator.rulesStrings.52>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.53>animalLife->발톱 부러짐</SapientAnimalChat.logRulesInitiator.rulesStrings.53>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.54>animalLife->제삼자가 양치질해주기</SapientAnimalChat.logRulesInitiator.rulesStrings.54>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.55>animalLife->꼬리가 느끼는 감각</SapientAnimalChat.logRulesInitiator.rulesStrings.55>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.56>animalLife->동물 생산품들</SapientAnimalChat.logRulesInitiator.rulesStrings.56>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.57>animalLife->농사</SapientAnimalChat.logRulesInitiator.rulesStrings.57>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.58>animalLife->친구 만들기</SapientAnimalChat.logRulesInitiator.rulesStrings.58>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.59>animalLife->본능과의 투쟁</SapientAnimalChat.logRulesInitiator.rulesStrings.59>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.60>animalLife->페로몬</SapientAnimalChat.logRulesInitiator.rulesStrings.60>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.61>animalLife->동물법</SapientAnimalChat.logRulesInitiator.rulesStrings.61>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.62>animalLife->인간들이 눈을 돌렸을때의 동물들의 대화</SapientAnimalChat.logRulesInitiator.rulesStrings.62>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.63>animalLife->비밀스러운 동물 숭배</SapientAnimalChat.logRulesInitiator.rulesStrings.63>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.64>animalLife->회귀 혈청</SapientAnimalChat.logRulesInitiator.rulesStrings.64>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.65>animalLife->종교 집단 가입</SapientAnimalChat.logRulesInitiator.rulesStrings.65>
-  <SapientAnimalChat.logRulesInitiator.rulesStrings.66>animalLife->승마가 되는 것</SapientAnimalChat.logRulesInitiator.rulesStrings.66>
-  <SapientAnimalChat2.label>동물 대화문</SapientAnimalChat2.label>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.0>r_logentry(p=5)->[INITIATOR_nameDef] [comfort] [RECIPIENT_nameDef].</SapientAnimalChat2.logRulesInitiator.rulesStrings.0>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.1>r_logentry(p=5)->[RECIPIENT_nameDef] [animalTalk] [INITIATOR_nameDef].</SapientAnimalChat2.logRulesInitiator.rulesStrings.1>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]은(는) [RECIENT_nameDef] 근처에 앉아 [TalkTopicAny]에 대해 [RECIENT_objective]와 이야기를 나눔.</SapientAnimalChat2.logRulesInitiator.rulesStrings.2>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.3>r_logentry->[RECIPIATOR_nameDef]은(는) [INITIATOR_nameDef]옆에 앉아 [TalkTopicAny]에 대해 [INITIATOR_objective]와 이야기함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.3>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef]은(는) [RECIENT_nameDef] 근처에 앉아 [RECIENT_objective]와 [AnimalLife]에 대해 이야기함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.4>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.5>r_logentry->[RECIPIATOR_nameDef]은(는) [INITIATOR_nameDef]옆에 앉아 [INITIATOR_objective]와 [AnimalLife]에 대해 이야기함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.5>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.6>r_logentry->[RECIPIENT_nameDef]은(는) [INITIATOR_nameDef]와 [TalkTopicAny]에 대해 이야기함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.6>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.7>r_logentry->[RECIPIENT_nameDef]와(과) [AnimalLife]에 대해 얘기함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.7>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.8>comfort->진정시키려고 함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.8>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.9>comfort->에 대해 이해한다는 표정을 지음.</SapientAnimalChat2.logRulesInitiator.rulesStrings.9>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.10>comfort->부드럽게 포옹함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.10>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.11>comfort->정중하게 대화를 나눔.</SapientAnimalChat2.logRulesInitiator.rulesStrings.11>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.12>comfort->위로하려고 애씀.</SapientAnimalChat2.logRulesInitiator.rulesStrings.12>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.13>comfort->의 콧대를 꺾음.</SapientAnimalChat2.logRulesInitiator.rulesStrings.13>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.14>comfort->마음을 가라앉히고 용기를 북돋아줌.</SapientAnimalChat2.logRulesInitiator.rulesStrings.14>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.15>comfort->앉아서 토닥거림.</SapientAnimalChat2.logRulesInitiator.rulesStrings.15>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.16>comfort->[TalkTopicAny]에 대한 생각을 공유함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.16>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.17>comfort->의 머리를 쓰다듬음.</SapientAnimalChat2.logRulesInitiator.rulesStrings.17>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.18>comfort->차분하게 토닥토닥 거림.</SapientAnimalChat2.logRulesInitiator.rulesStrings.18>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.19>comfort->응원함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.19>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.20>comfort->[TalkTopicAny]에 대해 이야기함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.20>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.21>animalTalk->[TalkTopicAny]에 대한 이야기를 해줌.</SapientAnimalChat2.logRulesInitiator.rulesStrings.21>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.22>animalTalk->하고 부드럽게 한숨을 내쉼.</SapientAnimalChat2.logRulesInitiator.rulesStrings.22>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.23>animalTalk->로부터 관심을 끌기 위해 울부짖음.</SapientAnimalChat2.logRulesInitiator.rulesStrings.23>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.24>animalTalk->부드럽게 비벼댐.</SapientAnimalChat2.logRulesInitiator.rulesStrings.24>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.25>animalTalk->에 비벼댐.</SapientAnimalChat2.logRulesInitiator.rulesStrings.25>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.26>animalTalk->옆에 앉음.</SapientAnimalChat2.logRulesInitiator.rulesStrings.26>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.27>animalTalk->옆에 잠시 웅크림.</SapientAnimalChat2.logRulesInitiator.rulesStrings.27>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.28>animalTalk->을 툭 때림.</SapientAnimalChat2.logRulesInitiator.rulesStrings.28>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.29>animalTalk->[TalkTopicAny]에 대해 말함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.29>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.30>animalTalk->와 [TalkTopicAny]에 대해 불평함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.30>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.31>animalTalk->삶에 대해 한탄함.</SapientAnimalChat2.logRulesInitiator.rulesStrings.31>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.32>animalLife->동물인 것에 대해</SapientAnimalChat2.logRulesInitiator.rulesStrings.32>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.33>animalLife->동물이 되는 것에 대해</SapientAnimalChat2.logRulesInitiator.rulesStrings.33>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.34>animalLife->맨땅에서 자기</SapientAnimalChat2.logRulesInitiator.rulesStrings.34>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.35>animalLife->땅바닥에서 자기</SapientAnimalChat2.logRulesInitiator.rulesStrings.35>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.36>animalLife->바깥에서 자기</SapientAnimalChat2.logRulesInitiator.rulesStrings.36>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.37>animalLife->사료 먹기</SapientAnimalChat2.logRulesInitiator.rulesStrings.37>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.38>animalLife->날것 먹기</SapientAnimalChat2.logRulesInitiator.rulesStrings.38>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.39>animalLife->훈련 받기</SapientAnimalChat2.logRulesInitiator.rulesStrings.39>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.40>animalLife->동물로서 사랑이 의미하는 것</SapientAnimalChat2.logRulesInitiator.rulesStrings.40>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.41>animalLife->발톱 정리</SapientAnimalChat2.logRulesInitiator.rulesStrings.41>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.42>animalLife->몸치장과 털관리</SapientAnimalChat2.logRulesInitiator.rulesStrings.42>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.43>animalLife->강한 감각</SapientAnimalChat2.logRulesInitiator.rulesStrings.43>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.44>animalLife->흥미로운 향기</SapientAnimalChat2.logRulesInitiator.rulesStrings.44>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.45>animalLife->역겨운 냄새</SapientAnimalChat2.logRulesInitiator.rulesStrings.45>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.46>animalLife->변화에 저항</SapientAnimalChat2.logRulesInitiator.rulesStrings.46>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.47>animalLife->변화에 수긍</SapientAnimalChat2.logRulesInitiator.rulesStrings.47>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.48>animalLife->본능에 굴복하기</SapientAnimalChat2.logRulesInitiator.rulesStrings.48>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.49>animalLife->본능에 저항하기</SapientAnimalChat2.logRulesInitiator.rulesStrings.49>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.50>animalLife->변이</SapientAnimalChat2.logRulesInitiator.rulesStrings.50>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.51>animalLife->벌거숭이가 되기</SapientAnimalChat2.logRulesInitiator.rulesStrings.51>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.52>animalLife->안장</SapientAnimalChat2.logRulesInitiator.rulesStrings.52>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.53>animalLife->발톱 부러짐</SapientAnimalChat2.logRulesInitiator.rulesStrings.53>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.54>animalLife->제삼자가 양치질해주기</SapientAnimalChat2.logRulesInitiator.rulesStrings.54>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.55>animalLife->꼬리가 느끼는 감각</SapientAnimalChat2.logRulesInitiator.rulesStrings.55>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.56>animalLife->동물 생산품들</SapientAnimalChat2.logRulesInitiator.rulesStrings.56>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.57>animalLife->농사</SapientAnimalChat2.logRulesInitiator.rulesStrings.57>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.58>animalLife->친구 만들기</SapientAnimalChat2.logRulesInitiator.rulesStrings.58>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.59>animalLife->본능과의 투쟁</SapientAnimalChat2.logRulesInitiator.rulesStrings.59>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.60>animalLife->페로몬</SapientAnimalChat2.logRulesInitiator.rulesStrings.60>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.61>animalLife->동물법</SapientAnimalChat2.logRulesInitiator.rulesStrings.61>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.62>animalLife->인간들이 눈을 돌렸을때의 동물들의 대화</SapientAnimalChat2.logRulesInitiator.rulesStrings.62>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.63>animalLife->비밀스러운 동물 숭배</SapientAnimalChat2.logRulesInitiator.rulesStrings.63>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.64>animalLife->회귀 혈청</SapientAnimalChat2.logRulesInitiator.rulesStrings.64>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.65>animalLife->종교 집단 가입</SapientAnimalChat2.logRulesInitiator.rulesStrings.65>
-  <SapientAnimalChat2.logRulesInitiator.rulesStrings.66>animalLife->승마가 되는 것</SapientAnimalChat2.logRulesInitiator.rulesStrings.66>
   <FormerHumanAnimalChat.label>동물 대화문</FormerHumanAnimalChat.label>
-  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.0>r_logentry(p=5)->[INITIATOR_nameDef] [comfort] [RECIPIENT_nameDef].</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.0>
-  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.1>r_logentry(p=5)->[RECIPIENT_nameDef] [animalTalk] [INITIATOR_nameDef].</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.1>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.0>r_logentry(p=5)->[INITIATOR_nameDef](은)는 [comfort] [RECIPIENT_nameDef]의 주의를 끔.</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.0>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.1>r_logentry(p=5)->[RECIPIENT_nameDef](은)는 [animalTalk] [INITIATOR_nameDef]의 주의를 끔.</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.1>
   <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.2>comfort->진정시키려고 함.</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.2>
   <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.3>comfort->에 대해 이해한다는 표정을 지음.</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.3>
   <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.4>comfort->부드럽게 포옹함.</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.4>
@@ -319,8 +207,8 @@
   <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.12>r_logentry->[INITIATOR_nameDef]은(는) 복종을 요구하며 [RECIPIENT_nameDef]의 취약한 부위를 건드림.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.12>
   <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.13>r_logentry->[INITIATOR_nameDef]은(는) [RECIPIENT_nameDef]이(가) 오기를 요구하며 땅바닥을 가리킴.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.13>
   <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.14>r_logentry->[INITIATOR_nameDef]은(는) [RECIPIENT_nameDef]에게 준엄한 명령을 내림.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.14>
-  <FormerHumanTrainAttempt.label>animal talk</FormerHumanTrainAttempt.label>
-  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.0>
+  <FormerHumanTrainAttempt.label>동물 대화문</FormerHumanTrainAttempt.label>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 [trained].</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.0>
   <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [method] 로 [trained] [RECIPIENT_nameDef].</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.1>
   <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.2>trained(p=2)->[tried]을 훈련시킴.</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.2>
   <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.3>trained->[tried]에게 새로운 속임수를 보여주려고 함.</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.3>
@@ -375,5 +263,4 @@
   <PMCanidHeadpats.logRulesInitiator.rulesStrings.33>topic->변이를 즐기라고</PMCanidHeadpats.logRulesInitiator.rulesStrings.33>
   <PMCanidHeadpats.logRulesInitiator.rulesStrings.34>topic->이것은 [RECIPIENT_objective]자신을 재창조할수 있는 기회라고</PMCanidHeadpats.logRulesInitiator.rulesStrings.34>
   <PMCanidHeadpats.logRulesInitiator.rulesStrings.35>topic->긍정적인 면을 보라고</PMCanidHeadpats.logRulesInitiator.rulesStrings.35>
-
 </LanguageData>

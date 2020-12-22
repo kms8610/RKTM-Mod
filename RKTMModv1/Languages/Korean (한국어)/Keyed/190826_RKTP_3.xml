@@ -30,10 +30,6 @@
   <ROSBasicMachineGizmoIngredientDescription>제작하는 데에 충분한 양의 재료가 필요합니다.</ROSBasicMachineGizmoIngredientDescription>
   <ROSBasicMachineGizmoProductDescription>제작을 통해 물품이 만들어졌습니다.</ROSBasicMachineGizmoProductDescription>
 
-  <!--1571323744_190714_Crystalloid (Rewrite)-->
-  <LetterLabelCrystalDropAttack>크리스탈 공동체 포위</LetterLabelCrystalDropAttack>
-  <LetterCrystalDropAttack>공동체의 수정체들이 하늘에서 떨어져내렸고, 당신의 정착지를 공격하기 위한 건축물을 만들어내고 있습니다.</LetterCrystalDropAttack>
-
   <!--1728999127_190813_Forsakens-->
   <Forsaken>버림받은 자들</Forsaken>
   <ForsakenPawnCategory>&lt;b>버림받은 자들 능력치 :&lt;/b></ForsakenPawnCategory>

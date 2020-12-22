@@ -30,4 +30,31 @@
   <VBE_MakeKombucha.label>콤부차 만들기</VBE_MakeKombucha.label>
   <VBE_MakeKombucha.description>발효시키기 위해 남긴 설탕이 든 차로, 달콤하고 신맛이 나며, 때로는 천연 탄산음료인 콤부차입니다. 일부는 회의적이긴 하지만, 건강상의 이점으로 찬사를 받았습니다.</VBE_MakeKombucha.description>
   <VBE_MakeKombucha.jobString>콤부차 만드는 중.</VBE_MakeKombucha.jobString>
+  <VBE_BrewMintCoffee.label>민트커피 끓이기</VBE_BrewMintCoffee.label>
+  <VBE_BrewMintCoffee.description>에스프레소기에 크림이나 우유를 섞은 다음, 그 위에 민트 오일을 얹은 커피를 만듭니다. 좋은 향이 날뿐만 아니라, 뒷맛은 더 시원하고 부드럽습니다.</VBE_BrewMintCoffee.description>
+  <VBE_BrewMintCoffee.jobString>민트커피 끓이는 중.</VBE_BrewMintCoffee.jobString>
+  <VBE_BrewDalgonaCoffee.label>달고나 커피 끓이기</VBE_BrewDalgonaCoffee.label>
+  <VBE_BrewDalgonaCoffee.description>기존의 커피 애호가들로부터 멀리 떨어진 증기의 세계에서 유래되었다는 소문이 있는 최신 유행의 음료를 만듭니다. 설탕과 빠르게 섞인 커피 과립은 포근하고도 달콤한 거품을 만들지만, 보통 마시기 전에 사르르 녹습니다.</VBE_BrewDalgonaCoffee.description>
+  <VBE_BrewDalgonaCoffee.jobString>달고나 커피 끓이는 중.</VBE_BrewDalgonaCoffee.jobString>
+  <VBE_MakeGreenTea.label>녹차 끓이기</VBE_MakeGreenTea.label>
+  <VBE_MakeGreenTea.description>설탕이 첨가되어 상큼한 버터 향의 견과류 맛이 나는 녹차를 만듭니다.</VBE_MakeGreenTea.description>
+  <VBE_MakeGreenTea.jobString>녹차 끓이는 중.</VBE_MakeGreenTea.jobString>
+  <VBE_MakeMintTea.label>민트 차 끓이기</VBE_MakeMintTea.label>
+  <VBE_MakeMintTea.description>홍차잎을 민트잎과 섞고 깊이 담갔다가 민트잎을 추가로 넣어 곁들여 만듭니다. 입 안을 상쾌하게 해줍니다.</VBE_MakeMintTea.description>
+  <VBE_MakeMintTea.jobString>민트 차 끓이는 중.</VBE_MakeMintTea.jobString>
+  <VBE_MakeMasalaChai.label>마살라 차이 끓이기</VBE_MakeMasalaChai.label>
+  <VBE_MakeMasalaChai.description>간결한 잎과 복잡한 향신료들로 만들어진 따뜻하지만 퀴퀴하며, 나무 향이 나는 차를 만듭니다. 콜레스테롤이 높은 사람에게 좋습니다.</VBE_MakeMasalaChai.description>
+  <VBE_MakeMasalaChai.jobString>마살라 차이 끓이는 중.</VBE_MakeMasalaChai.jobString>
+  <VBE_MakeNoonChai.label>눈 차이 끓이기</VBE_MakeNoonChai.label>
+  <VBE_MakeNoonChai.description>찻잎, 약간의 소금과 베이킹 소다를 섞은 고대 카슈미르의 차를 만듭니다. 이것은 맛있을 뿐만 아니라 몸에 건강하기로 유명한 놀라운 분홍색 음료입니다. 고혈압 환자를 치료하는데 매우 효율적입니다.</VBE_MakeNoonChai.description>
+  <VBE_MakeNoonChai.jobString>눈 차이 끓이는 중.</VBE_MakeNoonChai.jobString>
+  <VBE_BrewLemonCoffee.label>에스프레소 로마노 끓이기</VBE_BrewLemonCoffee.label>
+  <VBE_BrewLemonCoffee.description>뜨거운 커피가 식기 전에 신 맛이 나는 레몬으로 재빨리 버무려 만듭니다. 확실히 호불호가 갈리지만 그것을 선호하는 사람들은 꽤 있습니다.</VBE_BrewLemonCoffee.description>
+  <VBE_BrewLemonCoffee.jobString>에스프레소 로마노 끓이는 중.</VBE_BrewLemonCoffee.jobString>
+  <VBE_MakeLemonTea.label>레몬 차 끓이기</VBE_MakeLemonTea.label>
+  <VBE_MakeLemonTea.description>레몬을 찬물과 섞어 만든 진한 레몬 차를 만듭니다.</VBE_MakeLemonTea.description>
+  <VBE_MakeLemonTea.jobString>레몬 차 끓이는 중.</VBE_MakeLemonTea.jobString>
+  <VBE_MakeEarlGreyTea.label>얼 그레이 차 끓이기</VBE_MakeEarlGreyTea.label>
+  <VBE_MakeEarlGreyTea.description>매우 진하고 달콤한 과일 차를 만듭니다. 향긋한 꽃향기는 칙칙한 환경 속에서도 잔 주위에서 아른거립니다. 음료를 마신 사람들은 이상하게도 활기를 되찾습니다.</VBE_MakeEarlGreyTea.description>
+  <VBE_MakeEarlGreyTea.jobString>얼 그레이 차 끓이는 중.</VBE_MakeEarlGreyTea.jobString>
 </LanguageData>

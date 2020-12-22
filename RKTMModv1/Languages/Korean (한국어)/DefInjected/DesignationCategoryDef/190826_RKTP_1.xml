@@ -13,12 +13,6 @@
   <Ogre_NanoRepairTech_DesignationCategory.description>나노 수리기술 가구를 허용합니다.</Ogre_NanoRepairTech_DesignationCategory.description>
   <Ogre_NanoRepairTech_DesignationCategory.label>나노기술</Ogre_NanoRepairTech_DesignationCategory.label>
 
-  <!--1539311500_181027_Fertile Fields-->
-  <RFF_Farm.label>농사</RFF_Farm.label>
-  <RFF_Farm.description>농지를 개선합니다.</RFF_Farm.description>
-  <RFF_Adds.description>지형을 재구성합니다.</RFF_Adds.description>
-  <RFF_Adds.label>지형 재구성</RFF_Adds.label>
-
   <!--1541728186_181023_Floor Lights-->
   <Lamps.description>마루 조명</Lamps.description>
   <Lamps.label>조명</Lamps.label>

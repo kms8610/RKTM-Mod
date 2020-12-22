@@ -70,14 +70,6 @@
   <TheLoneSalvager.scenario.description>당신은 한 명의 고독한 분해자입니다. 당신이 일하고 있던 분해자 기업에서는 약탈할만한 지역을 정찰하기 위해서, 당신에게 약간의 보급품을 보충해주었습니다.\n\n참고 : 시작 캐릭터의 몇몇 기술들이 미흡할 것이기 때문에, 게임 초반이 특히 어려운 시나리오입니다.</TheLoneSalvager.scenario.description>
   <TheLoneSalvager.scenario.parts.15.text>당신은 한 명의 고독한 분해자입니다. 당신이 일하고 있던 분해자 기업에서는 약탈할만한 지역을 정찰하기 위해서, 당신에게 약간의 보급품을 보충해주었습니다.\n\n참고 : 시작 캐릭터의 몇몇 기술들이 미흡할 것이기 때문에, 게임 초반이 특히 어려운 시나리오입니다.</TheLoneSalvager.scenario.parts.15.text>
 
-  <!--1571323744_190714_Crystalloid (Rewrite)-->
-  <Disconnected.label>연결끊김</Disconnected.label>
-  <Disconnected.description>두 사람은 크리스탈로이드 공동체 우주선에 탑승했던 민간인들이었습니다. 적어도 신경 네트워크 연결을 끊고 탈출 포드를 탈 때 까지는요. 당신은 새롭게 발견된 자유를 받아들이면서 변방계의 거주 가능한 행성에 착륙했습니다.</Disconnected.description>
-  <Disconnected.scenario.name>연결끊김</Disconnected.scenario.name>
-  <Disconnected.scenario.summary>두 명의 크리스탈로이드로, 신경 네트워크에서 탈출해 변방계에 추락했습니다.</Disconnected.scenario.summary>
-  <Disconnected.scenario.description>두 사람은 크리스탈로이드 공동체 우주선에 탑승했던 민간인들이었습니다. 적어도 신경 네트워크 연결을 끊고 탈출 포드를 탈 때 까지는요. 당신은 새롭게 발견된 자유를 받아들이면서 변방계의 거주 가능한 행성에 착륙했습니다.</Disconnected.scenario.description>
-  <Disconnected.scenario.parts.22.text>공동체는 자신들이 누구인지, 무엇을 할 것인지를 공유하며 구성원들은 강하게 연결되어 있습니다. 텔레파시로 연결된 정신으로, 이들은 최소한의 사고만으로 활동할 수 있습니다.\n\n하지만 이 두 명은 자유의지를 선택했고, 신경망과 단절되었습니다. 이는 보통 죽음을 의미하지만, 이들은 그 전에 탈출 포드에 탑승할 수 있었습니다. \n\n이제는 집단의 보급품도, 다른 구성원들도 없이 고립된 변방계의 위협 속에서 살아남아야 합니다. 하지만 새롭게 발견한 자유의지는 이들에게 전에는 떠올릴 수 없었던 창작과 생각으로 새로운 정착지를 건설합니다.</Disconnected.scenario.parts.22.text>
-
   <!--1573177939_181125_Ratkin Backup-->
   <RGK_Scenario.label>랫킨 정착지</RGK_Scenario.label>
   <RGK_Scenario.description>얘내 엄청 귀엽죠??</RGK_Scenario.description>

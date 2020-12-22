@@ -51,7 +51,7 @@
   <CE_NoAmmoAvailable>no viable ammo found nearby</CE_NoAmmoAvailable>
   <CE_TurretFull>turret magazine is fully loaded</CE_TurretFull>
   <CE_TurretNonAllied>turret belongs to a hostile faction</CE_TurretNonAllied>
-  <CE_TurretAlreadyReloading>already reloading turret</CE_TurretAlreadyReloading>
+  <CE_TurretAlreadyReloading>이미 탄약을 보급함</CE_TurretAlreadyReloading>
   <CE_TurretIsBurning>turret is on fire</CE_TurretIsBurning>
   <CE_SuppressedMote>제압!</CE_SuppressedMote>
   <CE_HunkeringMote>포복!</CE_HunkeringMote>
@@ -154,7 +154,7 @@
   <CE_LongEvent_AmmoInjector>Injecting ammunition</CE_LongEvent_AmmoInjector>
   <CE_LongEvent_BoundingBoxes>CombatExtended 경계 상자 생성</CE_LongEvent_BoundingBoxes>
   <CE_LongEvent_TutorialPopup>Loading tutorial pop-up</CE_LongEvent_TutorialPopup>
-  <DormantCompAmmoBeacon>Ready to resupply turrets</DormantCompAmmoBeacon>
+  <DormantCompAmmoBeacon>탄약 재보급 준비 됨</DormantCompAmmoBeacon>
   <CE_Settings_HeaderGeneral>일반</CE_Settings_HeaderGeneral>
   <CE_Settings_HeaderAmmo>탄약</CE_Settings_HeaderAmmo>
   <CE_Settings_ShowCasings_Title>탄피 보이기</CE_Settings_ShowCasings_Title>
@@ -168,11 +168,11 @@
   <CE_Settings_MergeExplosions_Title>폭발이 병합됨</CE_Settings_MergeExplosions_Title>
   <CE_Settings_MergeExplosions_Desc>근접한 폭발이 서로 병합되고, 대규모 폭발물의 쿡 오프시 퍼포먼스가 상당히 증가합니다. 그 주변에서 얼른 벗어나는걸 추천합니다.</CE_Settings_MergeExplosions_Desc>
   <CE_Settings_TurretsBreakShields_Title>유인 포탑 사용중 보호막 벨트를 비활성화</CE_Settings_TurretsBreakShields_Title>
-  <CE_Settings_TurretsBreakShields_Desc> 포탑에 배치된 동안 해당 폰의 보호막 벨트가 비활성화됩니다. 이 옵션을 끄면 보호막 벨트가 활성화되어 추가 보호를 제공합니다.</CE_Settings_TurretsBreakShields_Desc>
+  <CE_Settings_TurretsBreakShields_Desc>포탑에 배치된 동안 해당 폰의 보호막 벨트가 비활성화됩니다. 이 옵션을 끄면 보호막 벨트가 활성화되어 추가 보호를 제공합니다.</CE_Settings_TurretsBreakShields_Desc>
   <CE_Settings_EnableAmmoSystem_Title>탄약 시스템 활성화</CE_Settings_EnableAmmoSystem_Title>
   <CE_Settings_EnableAmmoSystem_Desc>무기들은 탄약을 필요로하고 또한 특수한 탄약도 선택할 수 있습니다.\n\n경고: 기존의 정착지에서 이 설정을 변경하면 버그와 불안정을 초래할수 있으므로 위험을 감수해야 합니다.</CE_Settings_EnableAmmoSystem_Desc>
   <CE_Settings_EnableSimplifiedAmmo_Title>탄약 단순화</CE_Settings_EnableSimplifiedAmmo_Title>
-  <CE_Settings_EnableSimplifiedAmmo_Desc>사용 가능한 탄약종의 수를 줄입니다. \n 할로우 포인트, 사봇 (총알 만 해당), 빈백, 슬러그 및 철갑탄 변형을 제거합니다. \n\n 경고: 기존 정착지에서 설정을 변경하면 버그와 불안정성이 발생할 위험을 감수해야합니다.</CE_Settings_EnableSimplifiedAmmo_Desc>
+  <CE_Settings_EnableSimplifiedAmmo_Desc>사용 가능한 탄약종의 수를 줄입니다. \n 할로우 포인트, 사봇 (총알만 해당), 빈백(고무탄), 슬러그 및 철갑탄 변형을 제거합니다. \n\n 경고: 기존 정착지에서 설정을 변경하면 버그와 불안정성이 발생할 위험을 감수해야합니다.</CE_Settings_EnableSimplifiedAmmo_Desc>
   <CE_Settings_RightClickAmmoSelect_Title>마우스 우클릭으로 탄약 선택</CE_Settings_RightClickAmmoSelect_Title>
   <CE_Settings_RightClickAmmoSelect_Desc>재장전 버튼을 우클릭 하면 탄약 선택 메뉴가 나타납니다.</CE_Settings_RightClickAmmoSelect_Desc>
   <CE_Settings_AutoReloadOnChangeAmmo_Title>탄약 자동 재장전</CE_Settings_AutoReloadOnChangeAmmo_Title>
@@ -184,7 +184,7 @@
   <CE_Settings_ReuseNeolithicProjectiles_Title>냉각 투사체 재사용</CE_Settings_ReuseNeolithicProjectiles_Title>
   <CE_Settings_ReuseNeolithicProjectiles_Desc>냉각 투사체의 경우 다시 사용할 수 있는 기회가 주어집니다. 자동적으로 그것은 상호작용 금지가 되어있습니다.</CE_Settings_ReuseNeolithicProjectiles_Desc>
   <CE_Settings_RealisticCookOff_Title>현실적인 과열</CE_Settings_RealisticCookOff_Title>
-  <CE_Settings_RealisticCookOff_Desc>탄창과 탄상자는 과열이 됐을 때 피해를 입히는 투사체가 생성되지 않습니다.</CE_Settings_RealisticCookOff_Desc>
+  <CE_Settings_RealisticCookOff_Desc>탄약이 과열됐을 때 피해를 입히는 투사체가 생성되지 않습니다.</CE_Settings_RealisticCookOff_Desc>
   <CE_TextMote_Riposted>되받아치기!</CE_TextMote_Riposted>
   <CE_TextMote_Parried>반격!</CE_TextMote_Parried>
   <CE_TextMote_Knockdown>넉다운!</CE_TextMote_Knockdown>

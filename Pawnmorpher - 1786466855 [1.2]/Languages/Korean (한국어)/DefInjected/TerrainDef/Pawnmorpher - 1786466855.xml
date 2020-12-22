@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <MysteriousOoze.label>습지</MysteriousOoze.label>
-  <MysteriousOoze.tools.0.label>물</MysteriousOoze.tools.0.label>
-  <MysteriousOoze.tools.1.label>슴지</MysteriousOoze.tools.1.label>
+  <MysteriousOoze.tools.0.label>습지</MysteriousOoze.tools.0.label>
   <MutagenSoil.label>돌연변이 토양</MutagenSoil.label>
-  <MutagenSoil.tools.0.label>돌연변이 흙</MutagenSoil.tools.0.label>
-
+  <MutagenSoil.tools.0.label>변이성 먼지</MutagenSoil.tools.0.label>
 </LanguageData>

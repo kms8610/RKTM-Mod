@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Maneuver_SpitMaterialInEyes_MeleeHit.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite]이(가) [RECIPIENT_definite]의 눈에 침을 뱉음.</Maneuver_SpitMaterialInEyes_MeleeHit.rulePack.rulesStrings.0>
   <Maneuver_SpitMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>[INITIATOR_definite]은(는) [RECIPIENT_definite]의 눈에 돌연변이처럼 생긴 침을 뱉음.</Maneuver_SpitMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>
@@ -14,47 +14,39 @@
   <FurGrowthLogPack.rulePack.rulesStrings.0>mutation_log->[pname] [initial] [action_group] [modifier_group] [a_an] [label_group].</FurGrowthLogPack.rulePack.rulesStrings.0>
   <FurGrowthLogPack.rulePack.rulesStrings.1>action_group->[action]</FurGrowthLogPack.rulePack.rulesStrings.1>
   <FurGrowthLogPack.rulePack.rulesStrings.2>modifier_group->[modifier]</FurGrowthLogPack.rulePack.rulesStrings.2>
-  <FurGrowthLogPack.rulePack.rulesStrings.3>label_group->[label]</FurGrowthLogPack.rulePack.rulesStrings.3>
+  <FurGrowthLogPack.rulePack.rulesStrings.3>bulk_label_group->[bulk_label]</FurGrowthLogPack.rulePack.rulesStrings.3>
   <FurGrowthLogPack.rulePack.rulesStrings.4>action->grew a [bulk_label_group] of </FurGrowthLogPack.rulePack.rulesStrings.4>
-  <FurGrowthLogPack.rulePack.rulesStrings.5>action->was covered in </FurGrowthLogPack.rulePack.rulesStrings.5>
-  <FurGrowthLogPack.rulePack.rulesStrings.6>initial->[PART_label]</FurGrowthLogPack.rulePack.rulesStrings.6>
-  <FurGrowthLogPack.rulePack.rulesStrings.7>bulk_label_group->[bulk_label]</FurGrowthLogPack.rulePack.rulesStrings.7>
-  <FurGrowthLogPack.rulePack.rulesStrings.8>pname->[PAWN_nameDef]</FurGrowthLogPack.rulePack.rulesStrings.8>
-  <FurGrowthLogPack.rulePack.rulesStrings.9>label->fur</FurGrowthLogPack.rulePack.rulesStrings.9>
-  <FurGrowthLogPack.rulePack.rulesStrings.10>bulk_label->coat</FurGrowthLogPack.rulePack.rulesStrings.10>
   <HideGrowthLogPack.rulePack.rulesStrings.0>mutation_log->[pname] [initial] [action_group] [modifier_group] [a_an] [label_group].</HideGrowthLogPack.rulePack.rulesStrings.0>
   <HideGrowthLogPack.rulePack.rulesStrings.1>action_group->[action]</HideGrowthLogPack.rulePack.rulesStrings.1>
   <HideGrowthLogPack.rulePack.rulesStrings.2>modifier_group->[modifier]</HideGrowthLogPack.rulePack.rulesStrings.2>
   <HideGrowthLogPack.rulePack.rulesStrings.3>label_group->[label]</HideGrowthLogPack.rulePack.rulesStrings.3>
   <HideGrowthLogPack.rulePack.rulesStrings.4>action->grew a [bulk_label_group] of </HideGrowthLogPack.rulePack.rulesStrings.4>
-  <HideGrowthLogPack.rulePack.rulesStrings.5>action->was covered in </HideGrowthLogPack.rulePack.rulesStrings.5>
-  <HideGrowthLogPack.rulePack.rulesStrings.6>initial->[PART_label]</HideGrowthLogPack.rulePack.rulesStrings.6>
-  <HideGrowthLogPack.rulePack.rulesStrings.7>bulk_label_group->[bulk_label]</HideGrowthLogPack.rulePack.rulesStrings.7>
-  <HideGrowthLogPack.rulePack.rulesStrings.8>pname->[PAWN_nameDef]</HideGrowthLogPack.rulePack.rulesStrings.8>
-  <HideGrowthLogPack.rulePack.rulesStrings.9>label->hide</HideGrowthLogPack.rulePack.rulesStrings.9>
-  <HideGrowthLogPack.rulePack.rulesStrings.10>bulk_label->layer</HideGrowthLogPack.rulePack.rulesStrings.10>
   <ScaleGrowthLogPack.rulePack.rulesStrings.0>mutation_log->[pname] [initial] [action_group] [modifier_group] [a_an] [label_group].</ScaleGrowthLogPack.rulePack.rulesStrings.0>
   <ScaleGrowthLogPack.rulePack.rulesStrings.1>action_group->[action]</ScaleGrowthLogPack.rulePack.rulesStrings.1>
   <ScaleGrowthLogPack.rulePack.rulesStrings.2>modifier_group->[modifier]</ScaleGrowthLogPack.rulePack.rulesStrings.2>
   <ScaleGrowthLogPack.rulePack.rulesStrings.3>label_group->[label]</ScaleGrowthLogPack.rulePack.rulesStrings.3>
   <ScaleGrowthLogPack.rulePack.rulesStrings.4>action->grew a [bulk_label_group] of </ScaleGrowthLogPack.rulePack.rulesStrings.4>
-  <ScaleGrowthLogPack.rulePack.rulesStrings.5>action->was covered in </ScaleGrowthLogPack.rulePack.rulesStrings.5>
-  <ScaleGrowthLogPack.rulePack.rulesStrings.6>initial->[PART_label]</ScaleGrowthLogPack.rulePack.rulesStrings.6>
-  <ScaleGrowthLogPack.rulePack.rulesStrings.7>bulk_label_group->[bulk_label]</ScaleGrowthLogPack.rulePack.rulesStrings.7>
-  <ScaleGrowthLogPack.rulePack.rulesStrings.8>pname->[PAWN_nameDef]</ScaleGrowthLogPack.rulePack.rulesStrings.8>
-  <ScaleGrowthLogPack.rulePack.rulesStrings.9>label->scales</ScaleGrowthLogPack.rulePack.rulesStrings.9>
-  <ScaleGrowthLogPack.rulePack.rulesStrings.10>bulk_label->coating</ScaleGrowthLogPack.rulePack.rulesStrings.10>
   <FeatherGrowthLogPack.rulePack.rulesStrings.0>mutation_log->[pname] [initial] [action_group] [modifier_group] [a_an] [label_group].</FeatherGrowthLogPack.rulePack.rulesStrings.0>
   <FeatherGrowthLogPack.rulePack.rulesStrings.1>action_group->[action]</FeatherGrowthLogPack.rulePack.rulesStrings.1>
   <FeatherGrowthLogPack.rulePack.rulesStrings.2>modifier_group->[modifier]</FeatherGrowthLogPack.rulePack.rulesStrings.2>
   <FeatherGrowthLogPack.rulePack.rulesStrings.3>label_group->[label]</FeatherGrowthLogPack.rulePack.rulesStrings.3>
   <FeatherGrowthLogPack.rulePack.rulesStrings.4>action->grew a [bulk_label_group] of </FeatherGrowthLogPack.rulePack.rulesStrings.4>
-  <FeatherGrowthLogPack.rulePack.rulesStrings.5>action->was covered in </FeatherGrowthLogPack.rulePack.rulesStrings.5>
-  <FeatherGrowthLogPack.rulePack.rulesStrings.6>initial->[PART_label]</FeatherGrowthLogPack.rulePack.rulesStrings.6>
-  <FeatherGrowthLogPack.rulePack.rulesStrings.7>bulk_label_group->[bulk_label]</FeatherGrowthLogPack.rulePack.rulesStrings.7>
-  <FeatherGrowthLogPack.rulePack.rulesStrings.8>pname->[PAWN_nameDef]</FeatherGrowthLogPack.rulePack.rulesStrings.8>
-  <FeatherGrowthLogPack.rulePack.rulesStrings.9>label->feathers</FeatherGrowthLogPack.rulePack.rulesStrings.9>
-  <FeatherGrowthLogPack.rulePack.rulesStrings.10>bulk_label->layer</FeatherGrowthLogPack.rulePack.rulesStrings.10>
+  <MutationTaleRulePack.rulePack.rulesStrings.0>mutation_log->on [DATE] [images]. [sentence_group]</MutationTaleRulePack.rulePack.rulesStrings.0>
+  <MutationTaleRulePack.rulePack.rulesStrings.1>images->[image]</MutationTaleRulePack.rulePack.rulesStrings.1>
+  <MutationTaleRulePack.rulePack.rulesStrings.2>sentence_group->[desc_sentence]</MutationTaleRulePack.rulePack.rulesStrings.2>
+  <MutationTaleRulePack.rulePack.rulesStrings.3>circumstance_group->[circumstance_phrase]</MutationTaleRulePack.rulePack.rulesStrings.3>
+  <MutationRulePackTaleless.rulePack.rulesStrings.0>mutation_log->[PAWN_nameDef] [MUTATION_label]</MutationRulePackTaleless.rulePack.rulesStrings.0>
+  <DefaultTailMutationLogPack.rulePack.rulesStrings.0>mutation_log->[pname] [initial] [action_group] [modifier_group] [a_an] [label_group].</DefaultTailMutationLogPack.rulePack.rulesStrings.0>
+  <DefaultTailMutationLogPack.rulePack.rulesStrings.1>action_group->[action]</DefaultTailMutationLogPack.rulePack.rulesStrings.1>
+  <DefaultTailMutationLogPack.rulePack.rulesStrings.2>modifier_group->[modifier]</DefaultTailMutationLogPack.rulePack.rulesStrings.2>
+  <DefaultTailMutationLogPack.rulePack.rulesStrings.3>label_group->[label]</DefaultTailMutationLogPack.rulePack.rulesStrings.3>
+  <DefaultHornMutationLogPack.rulePack.rulesStrings.0>mutation_log->[pname] [initial] [action_group] [modifier_group] [a_an] [label_group].</DefaultHornMutationLogPack.rulePack.rulesStrings.0>
+  <DefaultHornMutationLogPack.rulePack.rulesStrings.1>action_group->[action]</DefaultHornMutationLogPack.rulePack.rulesStrings.1>
+  <DefaultHornMutationLogPack.rulePack.rulesStrings.2>modifier_group->[modifier]</DefaultHornMutationLogPack.rulePack.rulesStrings.2>
+  <DefaultHornMutationLogPack.rulePack.rulesStrings.3>label_group->[label]</DefaultHornMutationLogPack.rulePack.rulesStrings.3>
+  <DefaultMutationLogPack.rulePack.rulesStrings.0>mutation_log->[pname] [initial] [action_group] [modifier_group] [a_an] [label_group].</DefaultMutationLogPack.rulePack.rulesStrings.0>
+  <DefaultMutationLogPack.rulePack.rulesStrings.1>action_group->[action]</DefaultMutationLogPack.rulePack.rulesStrings.1>
+  <DefaultMutationLogPack.rulePack.rulesStrings.2>modifier_group->[modifier]</DefaultMutationLogPack.rulePack.rulesStrings.2>
   <SapientAnimalChatRules.rulePack.rulesStrings.0>animalTalk->에게 [TalkTopicAny]에 대한 이야기를 에게 해 줌.</SapientAnimalChatRules.rulePack.rulesStrings.0>
   <SapientAnimalChatRules.rulePack.rulesStrings.1>animalTalk->에게 부드럽게 한숨을 내쉼.</SapientAnimalChatRules.rulePack.rulesStrings.1>
   <SapientAnimalChatRules.rulePack.rulesStrings.2>animalTalk->옆에 앉음.</SapientAnimalChatRules.rulePack.rulesStrings.2>
@@ -105,36 +97,4 @@
   <MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] 을(를) 거부함.</MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.0>
   <MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]은(는) [INITIATOR_objective]에서 무례한 제스처를 취함.</MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.1>
   <MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef]은(는) [RECIPIENT_possessive]에게서 [INITIATOR_objective]로 눈을 굴림.</MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.2>
-  <MutationTaleRulePack.rulePack.rulesStrings.0>mutation_log->on [DATE] [images]. [sentence_group]</MutationTaleRulePack.rulePack.rulesStrings.0>
-  <MutationTaleRulePack.rulePack.rulesStrings.1>images->[image]</MutationTaleRulePack.rulePack.rulesStrings.1>
-  <MutationTaleRulePack.rulePack.rulesStrings.2>sentence_group->[desc_sentence]</MutationTaleRulePack.rulePack.rulesStrings.2>
-  <MutationTaleRulePack.rulePack.rulesStrings.3>circumstance_group->[circumstance_phrase]</MutationTaleRulePack.rulePack.rulesStrings.3>
-  <MutationRulePackTaleless.rulePack.rulesStrings.0>mutation_log->[PAWN_nameDef] [MUTATION_label]</MutationRulePackTaleless.rulePack.rulesStrings.0>
-  <DefaultTailMutationLogPack.rulePack.rulesStrings.0>mutation_log->[pname] [initial] [action_group] [modifier_group] [a_an] [label_group].</DefaultTailMutationLogPack.rulePack.rulesStrings.0>
-  <DefaultTailMutationLogPack.rulePack.rulesStrings.1>action_group->[action]</DefaultTailMutationLogPack.rulePack.rulesStrings.1>
-  <DefaultTailMutationLogPack.rulePack.rulesStrings.2>modifier_group->[modifier]</DefaultTailMutationLogPack.rulePack.rulesStrings.2>
-  <DefaultTailMutationLogPack.rulePack.rulesStrings.3>label_group->[label]</DefaultTailMutationLogPack.rulePack.rulesStrings.3>
-  <DefaultTailMutationLogPack.rulePack.rulesStrings.4>initial-></DefaultTailMutationLogPack.rulePack.rulesStrings.4>
-  <DefaultTailMutationLogPack.rulePack.rulesStrings.5>label->[MUTATION_label]</DefaultTailMutationLogPack.rulePack.rulesStrings.5>
-  <DefaultTailMutationLogPack.rulePack.rulesStrings.6>action->grew</DefaultTailMutationLogPack.rulePack.rulesStrings.6>
-  <DefaultTailMutationLogPack.rulePack.rulesStrings.7>pname->[PAWN_nameDef]</DefaultTailMutationLogPack.rulePack.rulesStrings.7>
-  <DefaultTailMutationLogPack.rulePack.rulesStrings.8>a_an->a</DefaultTailMutationLogPack.rulePack.rulesStrings.8>
-  <DefaultHornMutationLogPack.rulePack.rulesStrings.0>mutation_log->[pname] [initial] [action_group] [modifier_group] [a_an] [label_group].</DefaultHornMutationLogPack.rulePack.rulesStrings.0>
-  <DefaultHornMutationLogPack.rulePack.rulesStrings.1>action_group->[action]</DefaultHornMutationLogPack.rulePack.rulesStrings.1>
-  <DefaultHornMutationLogPack.rulePack.rulesStrings.2>modifier_group->[modifier]</DefaultHornMutationLogPack.rulePack.rulesStrings.2>
-  <DefaultHornMutationLogPack.rulePack.rulesStrings.3>label_group->[label]</DefaultHornMutationLogPack.rulePack.rulesStrings.3>
-  <DefaultHornMutationLogPack.rulePack.rulesStrings.4>initial-></DefaultHornMutationLogPack.rulePack.rulesStrings.4>
-  <DefaultHornMutationLogPack.rulePack.rulesStrings.5>label->[MUTATION_label]</DefaultHornMutationLogPack.rulePack.rulesStrings.5>
-  <DefaultHornMutationLogPack.rulePack.rulesStrings.6>action->grew</DefaultHornMutationLogPack.rulePack.rulesStrings.6>
-  <DefaultHornMutationLogPack.rulePack.rulesStrings.7>pname->[PAWN_nameDef]</DefaultHornMutationLogPack.rulePack.rulesStrings.7>
-  <DefaultHornMutationLogPack.rulePack.rulesStrings.8>a_an-></DefaultHornMutationLogPack.rulePack.rulesStrings.8>
-  <DefaultMutationLogPack.rulePack.rulesStrings.0>mutation_log->[pname] [initial] [action_group] [modifier_group] [a_an] [label_group].</DefaultMutationLogPack.rulePack.rulesStrings.0>
-  <DefaultMutationLogPack.rulePack.rulesStrings.1>action_group->[action]</DefaultMutationLogPack.rulePack.rulesStrings.1>
-  <DefaultMutationLogPack.rulePack.rulesStrings.2>modifier_group->[modifier]</DefaultMutationLogPack.rulePack.rulesStrings.2>
-  <DefaultMutationLogPack.rulePack.rulesStrings.3>label_group->[label]</DefaultMutationLogPack.rulePack.rulesStrings.3>
-  <DefaultMutationLogPack.rulePack.rulesStrings.4>initial->[PART_label]</DefaultMutationLogPack.rulePack.rulesStrings.4>
-  <DefaultMutationLogPack.rulePack.rulesStrings.5>label->[MUTATION_label]</DefaultMutationLogPack.rulePack.rulesStrings.5>
-  <DefaultMutationLogPack.rulePack.rulesStrings.6>pname->[PAWN_nameDef]'s</DefaultMutationLogPack.rulePack.rulesStrings.6>
-  <DefaultMutationLogPack.rulePack.rulesStrings.7>action->became</DefaultMutationLogPack.rulePack.rulesStrings.7>
-
 </LanguageData>

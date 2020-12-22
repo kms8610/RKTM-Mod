@@ -9,7 +9,7 @@
   <Bulk.label>부피</Bulk.label>
   <Bulk.description>물품이 가방이나 주머니에서 차지하는 공간.</Bulk.description>
   <AmmoCaliber.label>구경</AmmoCaliber.label>
-  <AmmoCaliber.description>The guns which accept this type of ammo.</AmmoCaliber.description>
+  <AmmoCaliber.description>이 유형의 탄약을 사용 가능한 총기들</AmmoCaliber.description>
   <AimingAccuracy.label>조준 정확도</AimingAccuracy.label>
   <AimingAccuracy.description>사수가 무기를 조준하는 정확도와 움직이는 목표물을 얼마나 잘 포착하는지에 대한 척도.\n\n최종 정확도는 다음의 공식으로 계산됩니다.\n(1.5 - 조준 정확도)/조준경 효율\n\n조준 정확도는 사격시 무기 흔들림 감소에 영향을 줍니다. 예를들어, 조준 정확도가 75%이면 흔들림은 25%로 줄어듭니다.</AimingAccuracy.description>
   <ReloadSpeed.label>재장전 속도</ReloadSpeed.label>

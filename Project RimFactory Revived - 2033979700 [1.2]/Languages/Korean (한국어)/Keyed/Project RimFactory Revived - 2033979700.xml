@@ -75,13 +75,13 @@
   <Milker_HelpText>동물 수확기는 동물이 건물 근처에 오면 자동으로 수확합니다. 이 수확기에 사료를 저장하여 동물들이 수확기에 오면 수확을 할 수 있습니다.</Milker_HelpText>
   <GenericAnimalHarvester_HelpText>동물 수확기는 동물이 건물 근처에 오면 자동으로 수확합니다. 이 수확기에 사료를 저장하여 동물들이 수확기에 오면 수확을 할 수 있습니다.</GenericAnimalHarvester_HelpText>
   <PaperclipFactory_HelpText>종이 집게 공장은 강철만 사용하지 않습니다 - 어떤 물품이나 아원자 건물에서 종이 집게로 만들 수 있습니다. 생산된 종이 집게의 수는 모든 물품의 합계 무게의 1/4입니다.</PaperclipFactory_HelpText>
-  <PaperclipFactory_OrdoText><b>오르도 히스토리아 표준화 기록보관소 - OHS 15616 - 표준 원자 3D 프린팅 장치의 재료로 쓰이는 종이 클립(OHS 6011)</b>
+  <PaperclipFactory_OrdoText><![CDATA[<b>오르도 히스토리아 표준화 기록보관소 - OHS 15616 - 표준 원자 3D 프린팅 장치의 재료로 쓰이는 종이 클립(OHS 6011)</b>
 섹션 1.1 - 물리적 특징
 - 한 개의 종이 클립은 무게가 1.0 ± 1*10^-8g이어야 한다.
 - 달렉카니움, 언옵테이니움 또는 비브라니움과 같은 이국적인 물질(OHS 11279)을 포함한 어떤 물질로도 만들어질 수 있다. 그러나 최종 생산물은 유연성, 연성, 가단성을 가진 금속과 같은 특성을 보여야 한다.
 - 종이 클립은 실재하는 질량을 가져야 한다.
 - 종이 클립의 생산방법에 관한 설명은 물질로부터 종이 클립을 생산하는 란츠-포디법(OHS 58281)을 참고하라.
-- 종이 클립은 반드<color=red><b>[전송 중단 - 잠재적 보안 위반 감지]</b></color></PaperclipFactory_OrdoText>
+- 종이 클립은 반드<color=red><b>[전송 중단 - 잠재적 보안 위반 감지]</b></color>]]></PaperclipFactory_OrdoText>
   <UniversalAssembler_HelpText>조립기 건물을 가동하려면, "계획서" 탭에서 원하는 계획을 추가하면 됩니다. 그리고 출력물을 향하게 하고자 하는 곳으로 노란 셀을 설정하면 됩니다. 마지막으로, 필요한 재료를 주변에 배치하고(스마트 투입구를 사용하고 있다면, "허용/금지"를 표시하는 것을 기억하시고), 전력을 공급하십시오.\n\n조립기에 계획서를 입력하려면, 계획서 데이터베이스를 건설하고 계획서를 복사해 오고자 하는 작업대 옆에 배치하십시오. (추가 정보는 계획서 데이터베이스에 관한 도움말에서 참조하십시오) 불러오기 작업(들)이 끝나면, 이 건물 근처에 재배치하면 됩니다.\n\n이 조립기가 사용할 수 있는 최고 기술 등급: 10, 예술은 9입니다.</UniversalAssembler_HelpText>
   <MachineLearningAssembler_HelpText>이 조립기는 작업을 반복할수록 해당 계획서의 작업속도가 빨라지는 것이 특징입니다. 그러나 시간이 지날수록 이 기술은 기하급수적으로 퇴화합니다.\n\n조립기 건물을 가동하려면, "계획서" 탭에서 원하는 계획을 추가하면 됩니다. 그리고 출력물을 향하게 하고자 하는 곳으로 노란 셀을 설정하면 됩니다. 마지막으로, 필요한 재료를 주변에 배치하고(스마트 투입구를 사용하고 있다면, "허용/금지"를 표시하는 것을 기억하시고), 전력을 공급하세요.\n\n조립기에 계획서를 입력하려면, 계획서 데이터베이스를 건설하고 계획서를 복사해 오고자 하는 작업대 옆에 배치하세요. 추가 정보는 계획서 데이터베이스에 관한 도움말에서 참조하세요. 불러오기 작업(들)이 끝나면, 이 건물 근처에 재배치하면 됩니다.\n\n이 조립기가 사용할 수 있는 최고 기술 등급: 20, 예술은 12입니다.</MachineLearningAssembler_HelpText>
   <PRFFermentingBarrel_HelpText>이 건물을 가동하려면, "계획서" 탭에서 원하는 계획을 추가하면 됩니다. 그리고 맥주가 향하게 하고자 하는 곳으로 노란 셀을 설정하면 됩니다. 마지막으로, 필요한 맥아즙을 주변에 배치하고(스마트 투입구를 사용하고 있다면, "허용/금지"를 표시하는 것을 기억하시고), 전력을 공급하세요.</PRFFermentingBarrel_HelpText>
@@ -96,11 +96,10 @@
   <CultivatorTools_DroneCultivator_HelpText>경작기는 전력이 공급되면 자동으로 작동합니다. 재배 구역에서 작물을 심고 수확하여 인접한 칸에 배출할 것입니다. SeedsPlease 모드가 설치되어 있다면, 경작기는 심기 작업을 위해 씨앗이 옆에 배치되어 있어야 합니다.</CultivatorTools_DroneCultivator_HelpText>
   <CultivatorTools_CultivatorWithLamp_HelpText>경작기는 전력이 공급되면 자동으로 작동합니다. 재배 구역에서 작물을 심고 수확하여 인접한 칸에 배출할 것입니다. SeedsPlease 모드가 설치되어 있다면, 경작기는 심기 작업을 위해 씨앗이 옆에 배치되어 있어야 합니다.</CultivatorTools_CultivatorWithLamp_HelpText>
   <CultivatorTools_Sprinkler_HelpText>스프링클러는 라운드마다 1시간씩 작물과 식물의 성장을 무작위로 증가시킵니다. 셀을 선택하여 현재 작업 중인 셀을 확인할 수 있습니다.</CultivatorTools_Sprinkler_HelpText>
-  <FuelingMachine_HelpText>연료 공급기는 사용이 매우 쉽습니다. 연료를 공급하려는 건물로 로봇 팔(노란색 칸)을 향하게 하고 그 옆에(하얀색 칸) 연료를 놓고 전력을 넣으면 됩니다.</FuelingMachine_HelpText>
+  <FuelingMachine_HelpText>연료 공급기는 사용이 매우 쉽습니다. 연료를 공급하려는 건물로 로봇 팔(노란색 칸) 을 향하게 하고 그 옆에(하얀색 칸) 연료를 놓고 전력을 넣으면 됩니다.\n일반적인 재공급이나 박격포까지 공급 가능합니다.</FuelingMachine_HelpText>
   <PRFPaperclipPowerGenerator_HelpText>종이 집게 발전기는 일반 발전기와 동일합지만, 종이 집게가 없고 2개의 추가 기능이 있습니다: \n1. 당신은 연료 소비율을 조절하여 전력 생산을 증가/감소시킬 수 있습니다.\n2. "종이 집게 발전기: 자기계발"을 연구로 해금한 뒤, 건물에 연료가 있고 상시 가동된다면 전력 생산 효율이 서서히 상승할 수 있습니다.</PRFPaperclipPowerGenerator_HelpText>
   <AtomicReconstructor_HelpText>원자 재구성자는 종이 집게를 아이템으로 변환합니다. 간단히 연료와 전력을 공급하고, 생산하고자 하는 품목을 설정하고 기다리면됩니다. 또한 슬라이더를 조정하여 더 빨리 작동하도록 할 수 있습니다. 속도는 종이 집게 비용의 제곱에 정비례한다는 점에 유의해야합니다. 예를 들어 속도를 2배로 설정하면 4배 더 많은 종이 집게를 사용합니다.\n\n일반적으로 가격이 비싼 품목은 제작 시간이 더 오래 걸리고, 무거운 품목은 종이 집게 비용이 더 많이 듭니다.\n\n참고: 원자 재구성자는 재료로 만들어야 하는 항목(예: 강철 장검)을 만들 수 없습니다.</AtomicReconstructor_HelpText>
-  <PRFPaperclipDuplicator_HelpText>종이 집게 복제기를 은행이라고 생각한다면, 종이 집게를 저장하고 그 종이 집게에 대해 당신에게 정해진 이자를 줍니다. 복제기 탭은 종이 집게를 입/출금할 수 있는 인터페이스를 제공합니다. 종이 집게를 입출금하기 위한 아이템 소스로 화물 플랫폼을 제공해야 한다는 점에 유의해야합니다.\n\n현재 종이 집게의 양을 계산하는 데 사용되는 공식은:\n현재잔액=1.05^(지나간 날) * 처음잔액
-</PRFPaperclipDuplicator_HelpText>
+  <PRFPaperclipDuplicator_HelpText>종이 집게 복제기를 은행이라고 생각한다면, 종이 집게를 저장하고 그 종이 집게에 대해 당신에게 정해진 이자를 줍니다. 복제기 탭은 종이 집게를 입/출금할 수 있는 인터페이스를 제공합니다. 종이 집게를 입출금하기 위한 아이템 소스로 화물 플랫폼을 제공해야 한다는 점에 유의해야합니다.\n\n현재 종이 집게의 양을 계산하는 데 사용되는 공식은:\n현재잔액=1.05^(지나간 날) * 처음잔액</PRFPaperclipDuplicator_HelpText>
   <PRFStorageUnitIOPort_HelpText>저장 장치 입출력 포트를 구성하려면 입력 또는 출력 방식과 연결할 장치를 설정하십시오. 출력을 선택하는 경우 끌어올 항목도 선택하십시오.\n스토리지 탭을 마우스 오른쪽 버튼으로 클릭하여 물품/뭉치를 직접 꺼낼 수 있습니다. 예를 들자면, 선택된 입출력 포트에서 무기를 꺼낼 수 있습니다.</PRFStorageUnitIOPort_HelpText>
   <PRFStorageUnitIOPortFridge_HelpText>이것은 입출력 포트\nIT처럼 작동합니다. RimFridge와 문제가 좀 있습니다. 작동하지 않으면 화물 저장고를 다시 설정하고 입/출력을 다시 해보고 설정이 맞는지 확인해야 합니다. (수정을 위해 찾는 중)</PRFStorageUnitIOPortFridge_HelpText>
   <SAL_SmartHopper_HelpText>진공 흡입기는 땅이나 저장구역에서 가까운 물건을 끌어당겨 조립기가 사용할 수 있을 때까지 보관합니다.\n\n조립기에 사용하고 싶다면 조립기의 "허용 금지" 옵션을 사용하여 조립기가 흡입기에서 끌어낼 수 있도록 하는 것을 기억하세요.</SAL_SmartHopper_HelpText>
@@ -180,6 +179,17 @@
   <PRFDroneName>드론</PRFDroneName>
   <PRFDroneStationLockdown>잠금</PRFDroneStationLockdown>
   <PRFDroneStationLockdownDesc>활성화된 모든 드론들을 불러들이고 드론 스테이션을 비활성화합니다.</PRFDroneStationLockdownDesc>
+  <PRFDroneStationLockdownAll>모두 폐쇄</PRFDroneStationLockdownAll>
+  <PRFDroneStationLockdownAllDesc>지도상의 모든 드론 스테이션을 폐쇄합니다.</PRFDroneStationLockdownAllDesc>
+  <PRFDroneStationLiftLockdownAll>모두 재활성</PRFDroneStationLiftLockdownAll>
+  <PRFDroneStationLfttLockdownAllDesc>지도상의 모든 드론 스테이션을 가동합니다.</PRFDroneStationLfttLockdownAllDesc>
+  <PRFDroneStationSelectArea>{0}\n구역 선택</PRFDroneStationSelectArea>
+  <ITab_DroneStation_labelKey>설정</ITab_DroneStation_labelKey>
+  <ITab_DroneStation_InfoLabel>이 드론 스테이션의 작업을 선택합니다.</ITab_DroneStation_InfoLabel>
+  <ITab_DroneStation_HeaderLabel>드론 스테이션 설정</ITab_DroneStation_HeaderLabel>
+  <ITab_DroneStation_averageskill>평균적인 관련 기술: </ITab_DroneStation_averageskill>
+  <ITab_DroneStation_Sleeptimes>드론 스테이션 휴면 시간 (빨간 색으로 표시됨)</ITab_DroneStation_Sleeptimes>
+  <ITab_DroneStation_SetTargetFuel>드론 스테이션 연료 레벨</ITab_DroneStation_SetTargetFuel>
   <PRFOutputItems>출력 물품</PRFOutputItems>
   <PRFPawnAccessLabel>접근 허용</PRFPawnAccessLabel>
   <PRFPawnAccessDesc>접근 허용</PRFPawnAccessDesc>
@@ -192,6 +202,7 @@
   <PRF_Cyan>남색</PRF_Cyan>
   <PRF_Yellow>노란색</PRF_Yellow>
   <PRF_Magenta>자홍색</PRF_Magenta>
+  <PRF_None>없음</PRF_None>
   <SALMessage_NoDataDiskFound>데이터 디스크를 먼저 근처에 두세요.</SALMessage_NoDataDiskFound>
   <SearchingForIngredients>재료 검색....</SearchingForIngredients>
   <SAL3_BillReport>현재 계획서: {0} ({1} 남음)</SAL3_BillReport>
@@ -226,7 +237,7 @@
   <ProjectRimFactoryModName>프로젝트 림팩토리</ProjectRimFactoryModName>
   <PRF.Settings.RequireReboot>설정을 적용하기 위해 재시작이 필요합니다.</PRF.Settings.RequireReboot>
   <PRF.Settings.Select>선택</PRF.Settings.Select>
-  <PRF.Settings.TopMessage><size=20>모든 설정 변경사항을 적용하려면 <b><i><color=red>다시 시작해야</color></i></b> 합니다.</size></PRF.Settings.TopMessage>
+  <PRF.Settings.TopMessage><![CDATA[<size=20>모든 설정 변경사항을 적용하려면 <b><i><color=red>다시 시작해야</color></i></b> 합니다.</size>]]></PRF.Settings.TopMessage>
   <PRF.Settings.restartMessage>닫기를 한 후에 모든 변경 사항은 림월드를 재시작해야 적용됩니다.\n또한, 지금의 주의할 점은 이곳의 어떤 설정이든 바꾼다면 Startup Imapct 모드에 의해 저장 파일이 망가질 수도 있습니다.</PRF.Settings.restartMessage>
   <PRF.Settings.AssemblerMessage>조립기 설정</PRF.Settings.AssemblerMessage>
   <PRF.Settings.OtherMessage>기타 설정</PRF.Settings.OtherMessage>

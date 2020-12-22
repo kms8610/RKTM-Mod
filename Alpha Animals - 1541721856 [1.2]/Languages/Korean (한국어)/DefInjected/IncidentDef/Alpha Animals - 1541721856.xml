@@ -15,6 +15,6 @@
   <AA_Incident_MechSappers.label>메카노이드 공병단</AA_Incident_MechSappers.label>
   <AA_MimeWandererJoin.label>방랑자 합류</AA_MimeWandererJoin.label>
   <AA_MimeWandererJoin.letterLabel>방랑자 합류: {PAWN_nameDef}</AA_MimeWandererJoin.letterLabel>
-  <AA_MimeWandererJoin.letterText>{PAWN_nameDef}(이)라는 이름의 방랑자 {PAWN_kind}(이)가 도착하여 정착지에 합류하려고 합니다.{PAWN_pronoun}는 {PAWN_title}입니다.\n\n{PAWN_pronoun}는 정착지에 이바지할 생각이 있지만, 자발적으로 떠나지는 않을 것입니다. 만약 {PAWN_nameDef}(을)를 원하지 않는다면 {PAWN_objective} 추방하거나, 노예로 팔거나, 그냥 죽일 수도 있습니다. 하지만 정착민 생각도 과연 그럴까요.</AA_MimeWandererJoin.letterText>
+  <AA_MimeWandererJoin.letterText>{PAWN_title}, {PAWN_nameDef}(이)라는 이름의 방랑자가 도착하여 정착지에 합류하려고 합니다.\n\n{PAWN_pronoun}는 정착지에 이바지할 생각이 있지만, 자발적으로 떠나지는 않을 것입니다. 만약 {PAWN_nameDef}(을)를 원하지 않는다면 {PAWN_objective} 추방하거나, 노예로 팔거나, 그냥 죽일 수도 있습니다. 하지만 정착민 생각도 과연 그럴까요.</AA_MimeWandererJoin.letterText>
   <AA_ResourcePodCrash.label>알파애니멀 자원 드롭포드 추락</AA_ResourcePodCrash.label>
 </LanguageData>

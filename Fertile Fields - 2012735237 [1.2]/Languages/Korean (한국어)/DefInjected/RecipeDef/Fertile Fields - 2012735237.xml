@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--1539311500_181027_Fertile Fields-->
+  <MakeCrushedRocksSlowBlock.description>벽돌을 부수어 부서진 바위를 만듭니다.</MakeCrushedRocksSlowBlock.description>
+  <MakeCrushedRocksBlock.description>벽돌을 부수어 부서진 바위를 만듭니다.</MakeCrushedRocksBlock.description>
+  <MakeCrushedRocksSlow.description>암석 덩어리를 분쇄하여 자갈을 만듭니다.</MakeCrushedRocksSlow.description>
+  <MakeCrushedRocks.description>암석 덩어리를 분쇄하여 자갈을 만듭니다.</MakeCrushedRocks.description>
+  <MakeCrushedRocks5.description>암석 덩어리를 분쇄하여 자갈을 만듭니다.</MakeCrushedRocks5.description>
+  <MakeCrushedRocksSlowBlock.jobString>벽돌 부수는 중.</MakeCrushedRocksSlowBlock.jobString>
+  <MakeCrushedRocksBlock.jobString>벽돌 부수는 중.</MakeCrushedRocksBlock.jobString>
+  <MakeCrushedRocksSlow.jobString>암석 덩어리 분쇄 중.</MakeCrushedRocksSlow.jobString>
+  <MakeCrushedRocks.jobString>암석 덩어리 분쇄 중.</MakeCrushedRocks.jobString>
+  <MakeCrushedRocks5.jobString>암석 덩어리 분쇄 중.</MakeCrushedRocks5.jobString>
+  <CompostCorpse.label>화장하여 퇴비 만들기</CompostCorpse.label>
+  <CompostCorpseCampfire.label>화장하여 퇴비 만들기(모닥불)</CompostCorpseCampfire.label>
+  <DirtToClay.label>진흙 네 자루 생산</DirtToClay.label>
+  <DirtToClay2.label>진흙 다섯 자루 생산</DirtToClay2.label>
+  <DirtToClay.description>흙으로부터 진흙을 걸러냅니다.</DirtToClay.description>
+  <DirtToClay2.description>흙으로부터 진흙을 걸러냅니다.</DirtToClay2.description>
+  <MakeDirt.description>모래, 점토, 비료를 섞어 흙을 만듭니다.</MakeDirt.description>
+  <MakeDirtEfficient.description>모래, 점토, 비료를 섞어 흙을 만듭니다.</MakeDirtEfficient.description>
+  <MakeDirt5.description>모래, 점토, 비료를 섞어 흙을 만듭니다.</MakeDirt5.description>
+  <MakeDirt5Efficient.description>모래, 점토, 비료를 섞어 흙을 만듭니다.</MakeDirt5Efficient.description>
+  <DirtToClay.jobString>흙 거르는 중.</DirtToClay.jobString>
+  <DirtToClay2.jobString>흙 거르는 중.</DirtToClay2.jobString>
+  <MakeDirt.jobString>혼합 중.</MakeDirt.jobString>
+  <MakeDirtEfficient.jobString>혼합 중.</MakeDirtEfficient.jobString>
+  <MakeDirt5.jobString>혼합 중.</MakeDirt5.jobString>
+  <MakeDirt5Efficient.jobString>혼합 중.</MakeDirt5Efficient.jobString>
+  <CompostCorpseCampfire.description>모닥불에서 시체를 화장하여 퇴비로 만듭니다. 전문 화장터보다는 여러모로 부족합니다.</CompostCorpseCampfire.description>
+  <CompostCorpse.description>시체를 화장하여 퇴비로 만듭니다.</CompostCorpse.description>
+  <CompostCorpse.jobString>화장하는 중.</CompostCorpse.jobString>
+  <CompostCorpseCampfire.jobString>화장하는 중.</CompostCorpseCampfire.jobString>
+  <SplitDirt.label>모래와 진흙 생산</SplitDirt.label>
+  <SplitDirt2.label>모래와 진흙 생산</SplitDirt2.label>
+  <MakeSandSlow.description>자갈을 더욱 부서트려 모래를 만듭니다.</MakeSandSlow.description>
+  <MakeSand.description>자갈을 더욱 부서트려 모래를 만듭니다.</MakeSand.description>
+  <MakeSand5.description>자갈을 더욱 부서트려 모래를 만듭니다.</MakeSand5.description>
+  <MakeClay.description>모래를 더욱 미세한 분자로 걸러내 점토를 만듭니다.</MakeClay.description>
+  <MakeClay5.description>모래를 더욱 미세한 분자로 걸러내 점토를 만듭니다.</MakeClay5.description>
+  <MakeCrushedRocks5.label>자갈 열 자루 생산</MakeCrushedRocks5.label>
+  <MakeDirt5.label>흙 다섯 자루 생산</MakeDirt5.label>
+  <MakeDirt5Efficient.label>흙 열 자루 생산</MakeDirt5Efficient.label>
+  <MakeBricks.label>벽돌 12개 생산</MakeBricks.label>
+  <MakeCrushedRocksSlow.label>자갈 두 자루 생산</MakeCrushedRocksSlow.label>
+  <MakeCrushedRocks.label>자갈 두 자루 생산</MakeCrushedRocks.label>
+  <MakeDirt.label>흙 두 자루 생산</MakeDirt.label>
+  <MakeDirtEfficient.label>흙 두 자루 생산</MakeDirtEfficient.label>
+  <MakeFastBricks.label>벽돌 24개 생산</MakeFastBricks.label>
+  <MakeClay5.label>진흙 다섯 자루 생산</MakeClay5.label>
+  <MakeCompost5.label>퇴비 다섯 자루 생산</MakeCompost5.label>
+  <MakeSand5.label>모래 다섯 자루 생산</MakeSand5.label>
+  <MakeClay.label>진흙 한 자루 생산</MakeClay.label>
+  <MakeCrushedRocksSlowBlock.label>부서진 바위 만들기</MakeCrushedRocksSlowBlock.label>
+  <MakeCrushedRocksBlock.label>부서진 바위 만들기</MakeCrushedRocksBlock.label>
+  <MakeCompost.label>퇴비 생산</MakeCompost.label>
+  <MakeCompost.description>식재료로 퇴비를 만듭니다. 먹을 음식까지 몽땅 넣지 않도록 조심하세요.</MakeCompost.description>
+  <MakeCompost5.description>식재료로 퇴비를 만듭니다. 먹을 음식까지 몽땅 넣지 않도록 조심하세요.</MakeCompost5.description>
+  <MakeSandSlow.label>모래 한 자루 생산</MakeSandSlow.label>
+  <MakeSand.label>모래 한 자루 생산</MakeSand.label>
+  <MakeBricks.jobString>벽돌 굽는 중.</MakeBricks.jobString>
+  <MakeFastBricks.jobString>벽돌 굽는 중.</MakeFastBricks.jobString>
+  <MakeClay.jobString>모래 분쇄 중.</MakeClay.jobString>
+  <MakeClay5.jobString>모래 분쇄 중.</MakeClay5.jobString>
+  <MakeCompost.jobString>퇴비 만드는 중.</MakeCompost.jobString>
+  <MakeCompost5.jobString>퇴비 만드는 중.</MakeCompost5.jobString>
+  <MakeSandSlow.jobString>자갈 분쇄 중.</MakeSandSlow.jobString>
+  <MakeSand.jobString>자갈 분쇄 중.</MakeSand.jobString>
+  <MakeSand5.jobString>자갈 분쇄 중.</MakeSand5.jobString>
+  <MakeBricks.description>진흙을 구워 벽돌을 만듭니다.</MakeBricks.description>
+  <MakeFastBricks.description>진흙을 구워 벽돌을 만듭니다.</MakeFastBricks.description>
+  <SplitDirt.description>흙으로부터 모래와 진흙을 걸러냅니다.</SplitDirt.description>
+  <SplitDirt2.description>흙으로부터 모래와 진흙을 걸러냅니다.</SplitDirt2.description>
+  <SplitDirt.jobString>흙 거르는 중.</SplitDirt.jobString>
+  <SplitDirt2.jobString>흙 거르는 중.</SplitDirt2.jobString>
+
+</LanguageData>

@@ -676,7 +676,7 @@
 
 길들인다면 곰팡이 거대늘보를 주기적으로 "다듬어서" 아가릴룩스 버섯을 얻을 수 있습니다.</AA_MycoidColossus.description>
   <AA_MycoidColossus.tools.1.label>머리</AA_MycoidColossus.tools.1.label>
-  <AA_MycoidColossus.comps.0.customString>포자 분산: </AA_MycoidColossus.comps.0.customString>
+  <AA_MycoidColossus.comps.0.customString>포자 방출: </AA_MycoidColossus.comps.0.customString>
   <AA_Needlepost.label>바늘기둥 선인장</AA_Needlepost.label>
   <AA_Needlepost.description>바늘기둥 선인장은 지능을 가지도록 유전조작된 특별한 선인장입니다. 처음에는 지역 확보를 효과적으로 하기 위한 전술적 고정 철책으로 사용 되었으나(참고로 이때까지는 채찍 선인장이라고 불렸습니다) 제대로 된 지성이나 기동성이 없는 고정형 선인장은 효용가치가 낮다는 것이 밝혀졌습니다. 이에 과학자들은 유전자를 수정하여 움직일 수 있는 몸과, 유아 수준의 지능, 맹렬한 호전성과 임무 수행에 필요한 독성 바늘을 가진 선인장 지성체를 탄생시켰습니다. 하지만 실험의 안전성은 선인장에 가해진 유전조작의 양에 비례해 빠르게 통제 가능한 수준을 넘어버렸고, 연구소는 분노한 실험체들로 가득차 결과적으로는 수많은 개체들이 황무지로 탈출하게 되었습니다.
 
@@ -805,7 +805,7 @@
   <AA_RipperHound.tools.1.label>오른쪽 발톱</AA_RipperHound.tools.1.label>
   <AA_RipperHound.tools.3.label>머리</AA_RipperHound.tools.3.label>
   <AA_RoughPlatedMonitor.label>거친 피부 큰 도마뱀</AA_RoughPlatedMonitor.label>
-  <AA_RoughPlatedMonitor.description><i>바라누스 브락테아투스</i>라 불렸던 거친 피부 큰 도마뱀은 극한 상황에서도 생존할 수 있는 대형 큰 도마뱀입니다. 신체의 신진대사가 일반적인 산도보다 낮게 진화하여, pH 2 ~ 3의 산성 화산 호수 주변에서 주로 서식합니다. 산성에 대한 면역이 있기 때문에 이를 활용하여 다른 생물을 사냥합니다.\n\n거친 피부 큰 도마뱀은 부화할 때 강력한 산이 터져나오는 알을 낳습니다.</AA_RoughPlatedMonitor.description>
+  <AA_RoughPlatedMonitor.description><![CDATA[<i>바라누스 브락테아투스</i>라 불렸던 거친 피부 큰 도마뱀은 극한 상황에서도 생존할 수 있는 대형 큰 도마뱀입니다. 신체의 신진대사가 일반적인 산도보다 낮게 진화하여, pH 2 ~ 3의 산성 화산 호수 주변에서 주로 서식합니다. 산성에 대한 면역이 있기 때문에 이를 활용하여 다른 생물을 사냥합니다.\n\n거친 피부 큰 도마뱀은 부화할 때 강력한 산이 터져 나오는 알을 낳습니다.]]></AA_RoughPlatedMonitor.description>
   <AA_RoughPlatedMonitor.tools.0.label>왼쪽 발톱</AA_RoughPlatedMonitor.tools.0.label>
   <AA_RoughPlatedMonitor.tools.1.label>오른쪽 발톱</AA_RoughPlatedMonitor.tools.1.label>
   <AA_RoughPlatedMonitor.tools.2.label>송곳니</AA_RoughPlatedMonitor.tools.2.label>
@@ -900,7 +900,7 @@
   <AA_Wildpawn.tools.0.label>왼쪽 발톱</AA_Wildpawn.tools.0.label>
   <AA_Wildpawn.tools.1.label>오른쪽 발톱</AA_Wildpawn.tools.1.label>
   <AA_Wildpawn.tools.3.label>머리</AA_Wildpawn.tools.3.label>
-  <AA_Wildpawn.comps.0.customString>포자 분산: </AA_Wildpawn.comps.0.customString>
+  <AA_Wildpawn.comps.0.customString>포자 방출: </AA_Wildpawn.comps.0.customString>
   <AA_Wildpod.label>와일드포드</AA_Wildpod.label>
   <AA_Wildpod.description>이 느릿느릿 움직이는 육중한 식물질 덩어리는 정글이 무성한 행성에서 자생하는 지각있는 종양 조직더미입니다. 와일드포드는 총알의 충격량을 잘 흡수하기 때문에 총격의 피해를 입지 않지만, 불에는 매우 취약한 모습을 보입니다. 흥미로운점은 몇 주 마다 포자 덩어리를 방출하여 무성생식을 하며, 부모와 자식간의 개념이 없이 완전히 독립된 개체로 성장한다는 점입니다.
 
@@ -908,7 +908,7 @@
   <AA_Wildpod.tools.0.label>왼쪽 발톱</AA_Wildpod.tools.0.label>
   <AA_Wildpod.tools.1.label>오른쪽 발톱</AA_Wildpod.tools.1.label>
   <AA_Wildpod.tools.3.label>머리</AA_Wildpod.tools.3.label>
-  <AA_Wildpod.comps.0.customString>포자 분산: </AA_Wildpod.comps.0.customString>
+  <AA_Wildpod.comps.0.customString>포자 방출: </AA_Wildpod.comps.0.customString>
   <AA_Aura.label>아우라</AA_Aura.label>
   <AA_Aura.description>아우라는 구름처럼 떠오르는 6개의 금속 칼날에 둘러싸인 천사형태의 메카노이드입니다. 복수의 천사로도 알려진 그들은 희생자들에게 근접하여 죽음의 회오리 바람으로 집어삼키는 것을 선호합니다. 아우라는 고속 수복 메카나이트로 상처를 스스로 재생하는 능력을 가지고 있습니다. 
 

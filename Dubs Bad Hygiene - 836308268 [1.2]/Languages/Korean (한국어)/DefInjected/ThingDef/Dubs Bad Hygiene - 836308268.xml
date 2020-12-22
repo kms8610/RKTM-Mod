@@ -4,7 +4,7 @@
   <Mote_Sewage.label>mote</Mote_Sewage.label>
   <Mote_Irrigation.label>mote</Mote_Irrigation.label>
   <Mote_WashSteam.label>mote</Mote_WashSteam.label>
-  <sewagePipeStuff.label>배관 연구</sewagePipeStuff.label>
+  <sewagePipeStuff.label>배관</sewagePipeStuff.label>
   <sewagePipeStuff.description>상/하수를 운반할 수 있는 배관입니다.</sewagePipeStuff.description>
   <plumbingValve.label>배관 밸브</plumbingValve.label>
   <plumbingValve.description>배관 개폐에 사용되는 밸브입니다.</plumbingValve.description>
@@ -92,7 +92,7 @@
   <CeilingFanS.description>조명이 포함된 공기 순환 장치입니다. 방의 온도를 낮춥니다.</CeilingFanS.description>
   <AirConOutdoorUnit.label>실외기</AirConOutdoorUnit.label>
   <AirConOutdoorUnit.description>실외에 배치되어 배관을 통해 내부로 공기를 전달하는 장비입니다. 전력 조절을 통해 100에서 1000까지 냉각량 공급을 조절할 수 있습니다.</AirConOutdoorUnit.description>
-  <AirconIndoorUnit.label>실외기</AirconIndoorUnit.label>
+  <AirconIndoorUnit.label>실내용 에어컨</AirconIndoorUnit.label>
   <AirconIndoorUnit.description>실외기를 통해 유입된 공기를 차갑게 만들어 배출하는 실내용 에어컨입니다. 100U의 냉각량을 사용합니다.</AirconIndoorUnit.description>
   <FreezerUnit.label>즉석 냉각기</FreezerUnit.label>
   <FreezerUnit.description>실외기를 통해 유입된 공기를 차갑게 만들어 배출하는 냉동 창고용 장비입니다. 벽으로 취급되며 300U의 냉각량을 사용합니다.</FreezerUnit.description>

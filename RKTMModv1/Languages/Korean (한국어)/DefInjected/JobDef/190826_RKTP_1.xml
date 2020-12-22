@@ -64,12 +64,6 @@
   <PackTent.reportString>천막 접는 중.</PackTent.reportString>
   <RepairTent.reportString>천막 수리 중.</RepairTent.reportString>
 
-  <!--1539311500_181027_Fertile Fields-->
-  <FinishFrameGrowing.reportString>TargetA 제작 중.</FinishFrameGrowing.reportString>
-  <FinishFrameConstruction.reportString>TargetA 제작 중.</FinishFrameConstruction.reportString>
-  <FillCompostBarrel.reportString>TargetA에 퇴비를 채우는 중.</FillCompostBarrel.reportString>
-  <EmptyCompostBarrel.reportString>TargetA에서 비료를 꺼내는 중.</EmptyCompostBarrel.reportString>
-
   <!--1539311991_190814_Fishing-->
   <JobDef_CatchFish.reportString>낚시 중.</JobDef_CatchFish.reportString>
 

@@ -1,425 +1,121 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <PawnmorphAlpacaTF.label>알파카모프</PawnmorphAlpacaTF.label>
-  <PawnmorphAlpacaTF.stages.0.label>감아내기</PawnmorphAlpacaTF.stages.0.label>
-  <PawnmorphAlpacaTF.stages.1.label>변이중</PawnmorphAlpacaTF.stages.1.label>
-  <PawnmorphAlpacaTF.stages.2.label>동물화중</PawnmorphAlpacaTF.stages.2.label>
-  <PawnmorphAlpacaTFPartial.label>불완전한 알파카모프</PawnmorphAlpacaTFPartial.label>
-  <EtherAlpacaSnout.label>털복숭이 주둥이</EtherAlpacaSnout.label>
-  <EtherAlpacaSnout.comps.2.tools.0.label>이빨</EtherAlpacaSnout.comps.2.tools.0.label>
-  <EtherAlpacaSnout.comps.2.tools.1.label>침뱉기</EtherAlpacaSnout.comps.2.tools.1.label>
-  <EtherAlpacaSnout.comps.2.tools.2.label>침뱉기</EtherAlpacaSnout.comps.2.tools.2.label>
-  <EtherAlpacaSnout.stages.1.label>적응됨</EtherAlpacaSnout.stages.1.label>
-  <EtherAlpacaSnout.description>[PAWN_nameDef]의 얼굴이 변형되며, 침을 뱉기에 완벽한 주둥이가 되었습니다.</EtherAlpacaSnout.description>
-  <EtherAlpacaEar.label>털복숭이 귀</EtherAlpacaEar.label>
-  <EtherAlpacaEar.description>털복숭이 귀가 바람이 불 때 마다 흔들립니다.</EtherAlpacaEar.description>
-  <EtherAlpacaTail.label>털 달린 꼬리</EtherAlpacaTail.label>
-  <EtherAlpacaTail.description>털이 북실북실한 꼬리로, 마치 구름같습니다.</EtherAlpacaTail.description>
-  <EtherWooly.label>털복숭이</EtherWooly.label>
-  <EtherWooly.stages.1.label>생산적인</EtherWooly.stages.1.label>
-  <EtherWooly.stages.2.label>매우 생산적인</EtherWooly.stages.2.label>
-  <EtherWooly.stages.3.label>생산적인 행복</EtherWooly.stages.3.label>
-  <EtherWooly.description>이제 [PAWN_nameDef]의 몸에서는 두꺼운 털실이 끊임없이 자라납니다. [PAWN_pronoun]에게서 털을 깎아낼 수 있습니다.</EtherWooly.description>
-  <PawnmorphBearTF.label>베어모프</PawnmorphBearTF.label>
-  <PawnmorphBearTF.stages.0.label>감아내기</PawnmorphBearTF.stages.0.label>
-  <PawnmorphBearTF.stages.1.label>변이중</PawnmorphBearTF.stages.1.label>
-  <PawnmorphBearTF.stages.2.label>동물화중</PawnmorphBearTF.stages.2.label>
-  <PawnmorphBearTFPartial.label>불완전한 베어모프</PawnmorphBearTFPartial.label>
-  <EtherBearMuzzle.label>곰 주둥이</EtherBearMuzzle.label>
-  <EtherBearMuzzle.comps.2.tools.0.label>이빨</EtherBearMuzzle.comps.2.tools.0.label>
-  <EtherBearMuzzle.stages.1.label>적응됨</EtherBearMuzzle.stages.1.label>
-  <EtherBearMuzzle.description>[PAWN_nameDef]의 얼굴이 개과의 그것처럼 변형되었습니다. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherBearMuzzle.description>
-  <EtherBearEar.label>곰 귀</EtherBearEar.label>
-  <EtherBearEar.description>[PAWN_nameDef]의 머리 뒤쪽으로 둥글고 털이 복실한 귀가 놓여져있습니다. 이제 사람보다 약간 더 잘 듣게 될 것입니다.</EtherBearEar.description>
-  <EtherBearTail.label>곰 꼬리</EtherBearTail.label>
-  <EtherBearTail.description>매우 짧은, 곰의 꼬리입니다. 사실, 별로 꼬리랄만한 길이도 아닙니다. 정말로요.</EtherBearTail.description>
-  <EtherBearPawHand.label>거대한 발</EtherBearPawHand.label>
-  <EtherBearPawHand.comps.2.tools.0.label>뾰족함</EtherBearPawHand.comps.2.tools.0.label>
-  <EtherBearPawHand.description>거대하고, 발톱있는 치명적인 발이 인간의 고운 손을 대신합니다. 조작에는 덜 유용하지만, 싸울 때는 [PAWN_nameDef](을)를 짐승으로 만들어 줄 것입니다.</EtherBearPawHand.description>
-  <PawnmorphBoarTF.label>보어모프</PawnmorphBoarTF.label>
-  <PawnmorphBoarTF.stages.0.label>감아내기</PawnmorphBoarTF.stages.0.label>
-  <PawnmorphBoarTF.stages.1.label>변이중</PawnmorphBoarTF.stages.1.label>
-  <PawnmorphBoarTF.stages.2.label>동물화중</PawnmorphBoarTF.stages.2.label>
-  <PawnmorphBoarTFPartial.label>불완전한 보어모프</PawnmorphBoarTFPartial.label>
-  <EtherBoarSnout.label>어금니 주둥이</EtherBoarSnout.label>
-  <EtherBoarSnout.comps.3.tools.0.label>이빨</EtherBoarSnout.comps.3.tools.0.label>
-  <EtherBoarSnout.comps.3.tools.1.label>엄니</EtherBoarSnout.comps.3.tools.1.label>
-  <EtherBoarSnout.stages.1.label>적응됨</EtherBoarSnout.stages.1.label>
-  <EtherBoarSnout.description>[PAWN_nameDef]의 얼굴이 변형되며, 식물의 뿌리를 캐내기에 적합한 어금니가 자라났습니다.</EtherBoarSnout.description>
-  <EtherBoarEar.label>멧돼지 귀</EtherBoarEar.label>
-  <EtherBoarEar.description>크고 돼지 같은 귀가 [PAWN_nameDef]의 상단에 자라났지만, 두꺼운 털로 뒤덮여 있습니다.</EtherBoarEar.description>
-  <EtherRoughCurlyTail.label>털이 많은 돌돌 말린 꼬리</EtherRoughCurlyTail.label>
-  <EtherRoughCurlyTail.description>멧돼지의 꼬부라진 꼬리로, 송로버섯 냄새를 맡으면 꿈틀거립니다.</EtherRoughCurlyTail.description>
-  <PawnmorphBoomalopeTF.label>붐모프</PawnmorphBoomalopeTF.label>
-  <PawnmorphBoomalopeTF.stages.0.label>감아내기</PawnmorphBoomalopeTF.stages.0.label>
-  <PawnmorphBoomalopeTF.stages.1.label>변이중</PawnmorphBoomalopeTF.stages.1.label>
-  <PawnmorphBoomalopeTF.stages.2.label>동물화중</PawnmorphBoomalopeTF.stages.2.label>
-  <PawnmorphBoomalopeTFPartial.label>불완전한 붐모프</PawnmorphBoomalopeTFPartial.label>
-  <EtherBoomalopeSnout.label>폭탄사슴 주둥이</EtherBoomalopeSnout.label>
-  <EtherBoomalopeSnout.comps.2.tools.0.label>이빨</EtherBoomalopeSnout.comps.2.tools.0.label>
-  <EtherBoomalopeSnout.stages.1.label>적응됨</EtherBoomalopeSnout.stages.1.label>
-  <EtherBoomalopeSnout.description>[PAWN_nameDef]의 얼굴이 변형되면서 화학연료의 숨길 수 없는 냄새가 코를 찌릅니다.</EtherBoomalopeSnout.description>
-  <EtherBoomalopeEar.label>폭탄사슴</EtherBoomalopeEar.label>
-  <EtherBoomalopeEar.description>폭탄사슴에게도 귀가 있을까요? [PAWN_nameDef]의 머리 위에 있는 것은 한 쌍의 귀 처럼 보입니다.</EtherBoomalopeEar.description>
-  <EtherChemfuelUdder.label>화학적 젖통</EtherChemfuelUdder.label>
-  <EtherChemfuelUdder.stages.1.label>생산적인</EtherChemfuelUdder.stages.1.label>
-  <EtherChemfuelUdder.stages.2.label>매우 생산적인</EtherChemfuelUdder.stages.2.label>
-  <EtherChemfuelUdder.stages.3.label>생산적인 행복</EtherChemfuelUdder.stages.3.label>
-  <EtherChemfuelUdder.description>[PAWN_nameDef]의 젖통은 화학연료로 가득찬 주머니로, 이제 화학연료를 생산할 수 있습니다.</EtherChemfuelUdder.description>
-  <PawnmorphCatTF.label>캣모프</PawnmorphCatTF.label>
-  <PawnmorphCatTF.stages.0.label>감아내기</PawnmorphCatTF.stages.0.label>
-  <PawnmorphCatTF.stages.1.label>변이중</PawnmorphCatTF.stages.1.label>
-  <PawnmorphCatTF.stages.2.label>동물화중</PawnmorphCatTF.stages.2.label>
-  <PawnmorphCatTFPartial.label>불완전한 캣모프</PawnmorphCatTFPartial.label>
-  <EtherCatMuzzle.label>고양이 주둥이</EtherCatMuzzle.label>
-  <EtherCatMuzzle.comps.2.tools.0.label>이빨</EtherCatMuzzle.comps.2.tools.0.label>
-  <EtherCatMuzzle.stages.1.label>적응됨</EtherCatMuzzle.stages.1.label>
-  <EtherCatMuzzle.description>[PAWN_nameDef]의 얼굴이 고양이의 그것처럼 변형되었습니다.. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherCatMuzzle.description>
-  <EtherCatEar.label>고양이 귀</EtherCatEar.label>
-  <EtherCatEar.description>뾰족한 귀가 [PAWN_nameDef]의 머리 위에서 자라났습니다. [PAWN_pronoun]이(가) 덤벼들 준비를 할 때 그것들은 뒤로 눕습니다.</EtherCatEar.description>
-  <EtherCatTail.label>고양이 꼬리</EtherCatTail.label>
-  <EtherCatTail.description>긴 고양이과 동물의 꼬리로, [PAWN_nameDef]가 불쾌감을 느낄 때마다 앞뒤로 세게 흔들립니다.</EtherCatTail.description>
-  <EtherCatClaws.label>고양이 발톱</EtherCatClaws.label>
-  <EtherCatClaws.comps.2.tools.0.label>뾰족한</EtherCatClaws.comps.2.tools.0.label>
-  <EtherCatClaws.description>날카롭고 고양이 같은 발톱이 [PAWN_nameDef]의 무른 손톱을 대체했습니다. 이것은 [PAWN_objective]에게 전투상의 이점을 주지만, 그것은 더이상 [PAWN_possessive]이(가) 스스로 엉덩이를 긁기 힘들어 졌다는것을 의미합니다.</EtherCatClaws.description>
-  <EtherCatEye.label>고양이 눈</EtherCatEye.label>
-  <EtherCatEye.description> [PAWN_nameDef]의 눈동자가 가늘어지고, 눈색은 황금빛으로 변합니다. 이들의 눈은 사람을 홀리는 듯 합니다.</EtherCatEye.description>
-  <FullRandomTFAnyOutcome.label>카오모프</FullRandomTFAnyOutcome.label>
-  <FullRandomTFAnyOutcome.stages.0.label>감아내기</FullRandomTFAnyOutcome.stages.0.label>
-  <FullRandomTFAnyOutcome.stages.1.label>변이중</FullRandomTFAnyOutcome.stages.1.label>
-  <FullRandomTFAnyOutcome.stages.2.label>동물화중</FullRandomTFAnyOutcome.stages.2.label>
-  <FullRandomTF.label>카오모프</FullRandomTF.label>
-  <PawnmorphChickenTF.label>코크모프</PawnmorphChickenTF.label>
-  <PawnmorphChickenTF.stages.0.label>감아내기</PawnmorphChickenTF.stages.0.label>
-  <PawnmorphChickenTF.stages.1.label>변이중</PawnmorphChickenTF.stages.1.label>
-  <PawnmorphChickenTF.stages.2.label>동물화중</PawnmorphChickenTF.stages.2.label>
-  <PawnmorphChickenTFPartial.label>불완전한 코크모프</PawnmorphChickenTFPartial.label>
-  <EtherBeak.label>부리</EtherBeak.label>
-  <EtherBeak.comps.2.tools.0.label>부리</EtherBeak.comps.2.tools.0.label>
-  <EtherBeak.stages.1.label>적응됨</EtherBeak.stages.1.label>
-  <EtherBeak.description>[PAWN_nameDef]의 얼굴이 닭의 부리처럼 변형되었습니다. 이제 사람이 먹는 밥에 대해서는 불평이 늘어나겠네요.</EtherBeak.description>
-  <EtherTailfeathers.label>꼬리털</EtherTailfeathers.label>
-  <EtherTailfeathers.description>[PAWN_nameDef]의 엉덩이 사이에 닭의 꼬리같은 기다란 깃털들이 돋아납니다.</EtherTailfeathers.description>
-  <EtherFeatheredLimb.label>깃털 달린</EtherFeatheredLimb.label>
-  <EtherFeatheredLimb.stages.0.label>듬성듬성한</EtherFeatheredLimb.stages.0.label>
-  <EtherFeatheredLimb.stages.1.label>빳빳한</EtherFeatheredLimb.stages.1.label>
-  <EtherFeatheredLimb.stages.2.label>덧대진</EtherFeatheredLimb.stages.2.label>
-  <EtherFeatheredLimb.stages.3.label>감싸진</EtherFeatheredLimb.stages.3.label>
-  <EtherFeatheredLimb.stages.4.label>덮여진</EtherFeatheredLimb.stages.4.label>
-  <EtherFeatheredLimb.description>[PAWN_nameDef]의 팔 위로 깃털이 돋아나 약간의 보온성을 제공합니다. 그리고... 아뇨, 날지는 못합니다.</EtherFeatheredLimb.description>
-  <EtherWing.label>날개</EtherWing.label>
-  <EtherWing.description>[PAWN_nameDef]의 팔이 뒤틀려 날개로 변했지만, 날 수 있을 만큼 튼튼하지는 못합니다. 하지만 보기엔 좋잖아요? 그거면 된거지!</EtherWing.description>
-  <EtherWingTip.label>날개끝</EtherWingTip.label>
-  <EtherWingTip.description>[PAWN_nameDef]의 손가락 끝에서 깃털이 자라나와 닭껍질같은 살덩어리를 가려줍니다.</EtherWingTip.description>
-  <EtherAvianFoot.label>조류</EtherAvianFoot.label>
-  <EtherAvianFoot.comps.2.tools.0.label>조류 발톱</EtherAvianFoot.comps.2.tools.0.label>
-  <EtherAvianFoot.stages.0.label>낯섬</EtherAvianFoot.stages.0.label>
-  <EtherAvianFoot.stages.1.label>적응됨</EtherAvianFoot.stages.1.label>
-  <EtherAvianFoot.description>[PAWN_nameDef]의 발가락은 긴 새의 발톱처럼 변해 물건을 잡거나 누군가의 얼굴을 긁어버리는데 안성맞춤입니다.</EtherAvianFoot.description>
-  <EtherEggLayer.label>산란관</EtherEggLayer.label>
-  <EtherEggLayer.stages.1.label>생산적인</EtherEggLayer.stages.1.label>
-  <EtherEggLayer.stages.2.label>매우 생산적인</EtherEggLayer.stages.2.label>
-  <EtherEggLayer.stages.3.label>생산적인 행복</EtherEggLayer.stages.3.label>
-  <EtherEggLayer.description>[PAWN_nameDef](은)는 이제 알을 낳을 수 있습니다. 하지만 그 사실을 굳이 말하지도, 그 사실을 아는 누구도 묻지않을 것입니다. 좀... 민망하니까요.</EtherEggLayer.description>
-  <PawnmorphCowTF.label>카우모프</PawnmorphCowTF.label>
-  <PawnmorphCowTF.stages.0.label>감아내기</PawnmorphCowTF.stages.0.label>
-  <PawnmorphCowTF.stages.1.label>변이중</PawnmorphCowTF.stages.1.label>
-  <PawnmorphCowTF.stages.2.label>동물화중</PawnmorphCowTF.stages.2.label>
-  <PawnmorphCowTFPartial.label>불완전한 카우모프</PawnmorphCowTFPartial.label>
-  <EtherCowSnout.label>소 주둥이</EtherCowSnout.label>
-  <EtherCowSnout.comps.2.tools.0.label>이빨</EtherCowSnout.comps.2.tools.0.label>
-  <EtherCowSnout.stages.1.label>적응됨</EtherCowSnout.stages.1.label>
-  <EtherCowSnout.description>[PAWN_nameDef]의 얼굴이 변형되었습니다. 마치 소처럼 커다란 코가, 코뚜레를 걸기에 적합해보입니다.</EtherCowSnout.description>
-  <EtherCowEar.label>소 귀</EtherCowEar.label>
-  <EtherCowEar.description>소의 것 처럼 보이는, 넓직한 황갈색 귀를 빈둥빈둥 흔듭니다. 아마도 꼬리표를 찾아 붙여야겠군요.</EtherCowEar.description>
-  <EtherCowTail.label>소 꼬리</EtherCowTail.label>
-  <EtherCowTail.description>소의 그것과 같은 꼬리입니다. 그것은 다리 아래로 늘어져 휙휙대며 파리를 쫓아냅니다.</EtherCowTail.description>
-  <EtherHorns.label>뿔</EtherHorns.label>
-  <EtherHorns.comps.2.tools.0.label>들이받기</EtherHorns.comps.2.tools.0.label>
-  <EtherHorns.description>굵은 뿔이 [PAWN_nameDef]의 머리를 장식하고 있습니다.</EtherHorns.description>
-  <EtherUdder.label>젖통</EtherUdder.label>
-  <EtherUdder.stages.1.label>생산적인</EtherUdder.stages.1.label>
-  <EtherUdder.stages.2.label>매우 생산적인</EtherUdder.stages.2.label>
-  <EtherUdder.stages.3.label>생산적인 행복</EtherUdder.stages.3.label>
-  <EtherUdder.description>이건 정말 설명할 필요가 없어보입니다. [PAWN_nameDef](은)는 이제 우유를 짜낼 수 있습니다.</EtherUdder.description>
-  <PawnmorphDeerTF.label>디어모프</PawnmorphDeerTF.label>
-  <PawnmorphDeerTF.stages.0.label>감아내기</PawnmorphDeerTF.stages.0.label>
-  <PawnmorphDeerTF.stages.1.label>변이중</PawnmorphDeerTF.stages.1.label>
-  <PawnmorphDeerTF.stages.2.label>동물화중</PawnmorphDeerTF.stages.2.label>
-  <PawnmorphDeerTFPartial.label>불완전한 디어모프</PawnmorphDeerTFPartial.label>
-  <EtherDeerSnout.label>사슴 주둥이</EtherDeerSnout.label>
-  <EtherDeerSnout.comps.2.tools.0.label>이빨</EtherDeerSnout.comps.2.tools.0.label>
-  <EtherDeerSnout.stages.1.label>적응됨</EtherDeerSnout.stages.1.label>
-  <EtherDeerSnout.description>[PAWN_nameDef]의 코끝이 사슴의 그것 처럼 넓어지면서 얼굴을 스치는 포식자의 냄새를 잡아냅니다.</EtherDeerSnout.description>
-  <EtherDeerEar.label>사슴 귀</EtherDeerEar.label>
-  <EtherDeerEar.description>사슴의 부드러운 귀 한 쌍이 [PAWN_nameDef]의 머리 위에서 돋아나, 포식자가 오는지 감시하고 있습니다.</EtherDeerEar.description>
-  <EtherShortTail.label>짧은 꼬리</EtherShortTail.label>
-  <EtherShortTail.description>[PAWN_nameDef]의 척추에서 뻗어나온 짧은 꼬리가 위험을 감지할 때 마다 빳빳해집니다.</EtherShortTail.description>
-  <EtherAntlers.label>뿔</EtherAntlers.label>
-  <EtherAntlers.comps.2.tools.0.label>들이받기</EtherAntlers.comps.2.tools.0.label>
-  <EtherAntlers.stages.0.label>새끼사슴</EtherAntlers.stages.0.label>
-  <EtherAntlers.stages.1.label>사슴</EtherAntlers.stages.1.label>
-  <EtherAntlers.stages.2.label>수사슴</EtherAntlers.stages.2.label>
-  <EtherAntlers.description>구불구불한 뿔이 [PAWN_nameDef]의 머리를 장식하고 있습니다.</EtherAntlers.description>
   <ProductionPillUdderEffect.label>생산량 증가</ProductionPillUdderEffect.label>
+  <ProductionPillUdderEffect.description>비정상적인 hediff입니다. 무시하거나 개발자 모드로 지우셔도 무관 합니다.</ProductionPillUdderEffect.description>
   <ProductionPillChemfuelUdderEffect.label>생산량 증가</ProductionPillChemfuelUdderEffect.label>
+  <ProductionPillChemfuelUdderEffect.description>비정상적인 hediff입니다. 무시하거나 개발자 모드로 지우셔도 무관 합니다.</ProductionPillChemfuelUdderEffect.description>
   <ProductionPillEggEffect.label>생산량 증가</ProductionPillEggEffect.label>
+  <ProductionPillEggEffect.description>비정상적인 hediff입니다. 무시하거나 개발자 모드로 지우셔도 무관 합니다.</ProductionPillEggEffect.description>
   <ProductionPillWoolEffect.label>생산량 증가</ProductionPillWoolEffect.label>
+  <ProductionPillWoolEffect.description>비정상적인 hediff입니다. 무시하거나 개발자 모드로 지우셔도 무관 합니다.</ProductionPillWoolEffect.description>
   <ProductionPillMegawoolEffect.label>생산량 증가</ProductionPillMegawoolEffect.label>
+  <ProductionPillMegawoolEffect.description>비정상적인 hediff입니다. 무시하거나 개발자 모드로 지우셔도 무관 합니다.</ProductionPillMegawoolEffect.description>
+  <StabiliserHigh.description>이 폰의 상태가 안정화 되어 추가적인 변이를 막습니다. 이 상태는 5일동안 지속되며, 지속되는 동안에는 추가적인 변이를 받을 수 없습니다.</StabiliserHigh.description>
   <StabiliserHigh.label>돌연변이 안정화</StabiliserHigh.label>
+  <AcceleratorHigh.label>변형물질 가속됨</AcceleratorHigh.label>
+  <AcceleratorHigh.description>이 폰의 돌연변이가 가속된 속도로 나타납니다.</AcceleratorHigh.description>
   <SerumAddiction.label>혈청 중독</SerumAddiction.label>
+  <SerumAddiction.description>이 폰은 혈청에 중독되어 일정한 복용이 필요합니다. 금단증상으로 심각한 정신이상 증세를 일으킬 수 있습니다.</SerumAddiction.description>
   <SerumAddiction.stages.0.label>중단</SerumAddiction.stages.0.label>
-  <PawnmorphElephantTF.label>엘레펀트모프</PawnmorphElephantTF.label>
-  <PawnmorphElephantTF.stages.0.label>감아내기</PawnmorphElephantTF.stages.0.label>
-  <PawnmorphElephantTF.stages.1.label>변이중</PawnmorphElephantTF.stages.1.label>
-  <PawnmorphElephantTF.stages.2.label>동물화중</PawnmorphElephantTF.stages.2.label>
-  <PawnmorphElephantTFPartial.label>불완전한 엘레펀트모프</PawnmorphElephantTFPartial.label>
-  <EtherTrunk.label>코끼리 코</EtherTrunk.label>
-  <EtherTrunk.comps.2.tools.0.label>엄니</EtherTrunk.comps.2.tools.0.label>
-  <EtherTrunk.comps.2.tools.1.label>코</EtherTrunk.comps.2.tools.1.label>
-  <EtherTrunk.stages.1.label>적응됨</EtherTrunk.stages.1.label>
-  <EtherTrunk.description>[PAWN_nameDef]의 얼굴이 변형되며, 두 개의 뾰족한 어금니와 함께 기다란 코가 [PAWN_pronoun]의 얼굴에 자라납니다.</EtherTrunk.description>
-  <EtherElephantEar.label>코끼리 귀</EtherElephantEar.label>
-  <EtherElephantEar.description>와, 정말 거대한 귀네요, [PAWN_nameDef]. [PAWN_pronoun]은(는) 덤보처럼 보입니다, 더 이상 [PAWN_pronoun]가 아니라요.</EtherElephantEar.description>
-  <EtherElephantTail.label>코끼리</EtherElephantTail.label>
-  <EtherElephantTail.description>코끼리의 꼬리입니다. 부드럽게 휘두르면서 파리를 쫓아냅니다.</EtherElephantTail.description>
-  <EtherThickHideLimb.label>두꺼운 가죽</EtherThickHideLimb.label>
-  <EtherThickHideLimb.stages.0.label>얼룩</EtherThickHideLimb.stages.0.label>
-  <EtherThickHideLimb.stages.1.label>덧대진</EtherThickHideLimb.stages.1.label>
-  <EtherThickHideLimb.stages.2.label>빳빳한</EtherThickHideLimb.stages.2.label>
-  <EtherThickHideLimb.stages.3.label>가죽같은</EtherThickHideLimb.stages.3.label>
-  <EtherThickHideLimb.stages.4.label>덮여진</EtherThickHideLimb.stages.4.label>
-  <EtherThickHideLimb.description>매우 거칠고, 두꺼운 가죽같은 피부가 온 몸을 뒤덮고 있어 자연적으로 상당한 방어력을 더해줍니다.</EtherThickHideLimb.description>
-  <EtherElephantHand.label>그루터기 발</EtherElephantHand.label>
-  <EtherElephantHand.comps.2.tools.0.label>박살내기</EtherElephantHand.comps.2.tools.0.label>
-  <EtherElephantHand.stages.1.label>적응됨</EtherElephantHand.stages.1.label>
-  <EtherElephantHand.description>두껍고 가죽같은 그루터기 발이 [PAWN_nameDef]의 손을 대신하고 있습니다.</EtherElephantHand.description>
-  <EtherElephantLeg.label>코끼리 다리</EtherElephantLeg.label>
-  <EtherElephantLeg.stages.1.label>적응됨</EtherElephantLeg.stages.1.label>
-  <EtherElephantLeg.description>[PAWN_nameDef]의 다리는 매우 굵으며, 단단한 회색 가죽으로 덮여있습니다.</EtherElephantLeg.description>
-  <EtherElephantFoot.label>코끼리 발</EtherElephantFoot.label>
-  <EtherElephantFoot.comps.2.tools.0.label>찍어내기</EtherElephantFoot.comps.2.tools.0.label>
-  <EtherElephantFoot.stages.1.label>적응됨</EtherElephantFoot.stages.1.label>
-  <EtherElephantFoot.description>[PAWN_nameDef](이)가 가는 곳 마다 우레와같은 발소리가 뒤따릅니다.</EtherElephantFoot.description>
-  <PawnmorphFoxTF.label>폭스모프</PawnmorphFoxTF.label>
-  <PawnmorphFoxTF.stages.0.label>감아내기</PawnmorphFoxTF.stages.0.label>
-  <PawnmorphFoxTF.stages.1.label>변이중</PawnmorphFoxTF.stages.1.label>
-  <PawnmorphFoxTF.stages.2.label>동물화중</PawnmorphFoxTF.stages.2.label>
-  <PawnmorphFoxTFPartial.label>불완전한 폭스모프</PawnmorphFoxTFPartial.label>
-  <EtherFoxMuzzle.label>여우 주둥이</EtherFoxMuzzle.label>
-  <EtherFoxMuzzle.comps.2.tools.0.label>이빨</EtherFoxMuzzle.comps.2.tools.0.label>
-  <EtherFoxMuzzle.stages.0.label>새로운</EtherFoxMuzzle.stages.0.label>
-  <EtherFoxMuzzle.stages.1.label>적응된</EtherFoxMuzzle.stages.1.label>
-  <EtherFoxMuzzle.description>[PAWN_nameDef]의 얼굴이 여우의 그것처럼 변형되었습니다.. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherFoxMuzzle.description>
-  <EtherFoxEar.label>여우 귀</EtherFoxEar.label>
-  <EtherFoxEar.description>큰 삼각형의 왕관같은 귀가 [PAWN_nameDef]의 머리에서 자신이 감지하는 모든 소리를 향해 휙휙 돌아갑니다. 이들은 매우 예민하니까, 제발 소리치지 마세요.</EtherFoxEar.description>
-  <EtherFluffyTail.label>솜털 꼬리</EtherFluffyTail.label>
-  <EtherFluffyTail.description>[PAWN_nameDef]의 척추에서 이어져나온 솜털처럼 보송보송한 여우 꼬리입니다. 오, 방금 살짝 살랑거린 것 같지 않나요?</EtherFluffyTail.description>
-  <EtherFoxEye.label>황소 눈</EtherFoxEye.label>
-  <EtherFoxEye.description>[PAWN_nameDef]의 눈동자가 맑고 총명해지며, 그 속에 여유와 멍청함이 깃듭니다. [PAWN_pronoun](은)는 이제 사물을 더 깊게 바라보고, 그 눈으로 사람들을 매료시킬 것입니다.</EtherFoxEye.description>
-  <CanidMind.label>정신상태</CanidMind.label>
-  <CanidMind.stages.0.label>홀로</CanidMind.stages.0.label>
-  <CanidMind.stages.1.label>외로움</CanidMind.stages.1.label>
-  <CanidMind.stages.2.label>편안함</CanidMind.stages.2.label>
-  <CanidMind.stages.3.label>행복함</CanidMind.stages.3.label>
-  <HerdMind.label>무리 심리</HerdMind.label>
-  <HerdMind.stages.0.label>홀로</HerdMind.stages.0.label>
-  <HerdMind.stages.1.label>외로움</HerdMind.stages.1.label>
-  <HerdMind.stages.2.label>편안함</HerdMind.stages.2.label>
-  <HerdMind.stages.3.label>행복함</HerdMind.stages.3.label>
-  <EtherPawHand.label>발톱</EtherPawHand.label>
-  <EtherPawHand.comps.1.tools.0.label>발톱</EtherPawHand.comps.1.tools.0.label>
-  <EtherPawHand.stages.0.label>최상급의</EtherPawHand.stages.0.label>
-  <EtherPawHand.stages.0.description>이 손은 경직된 발바닥처럼 변화되어 별로 쓸모가 없습니다.</EtherPawHand.stages.0.description>
-  <EtherPawHand.stages.1.description>손가락마다 날카로운 발톱이 박혀 있습니다.</EtherPawHand.stages.1.description>
-  <EtherPawHand.stages.2.description>이 손에는 발톱 외에도 각각의 손바닥과 손가락마다 굵은 육구가 발달하고 있습니다.</EtherPawHand.stages.2.description>
-  <EtherPawHand.stages.3.description>이 손은 손이라기 보다는 마치 발처럼 보이지만, 완전히 쓸모 없는것은 아닙니다.</EtherPawHand.stages.3.description>
-  <EtherPawHand.stages.4.description>손가락은 짧아지기 시작했고 그 위에 짧은 털가죽이 돋아나기 시작했습니다.</EtherPawHand.stages.4.description>
-  <EtherPawHand.stages.5.label>낯섬</EtherPawHand.stages.5.label>
-  <EtherPawHand.stages.6.description>[PAWN_nameDef]은(는) 새로운 발을 가진 것에 크게 적응했고, 다시 유연성을 회복하려고 노력하고 있습니다.</EtherPawHand.stages.6.description>
-  <EtherPawHand.stages.6.label>적응됨</EtherPawHand.stages.6.label>
-  <EtherPawHand.stages.7.description>발에 대한 적응은 그것이 다시 기교적으로 되도록 했고, 심지어는 일반적인 손보다도 더욱 정교한 조작이 가능하도록 되었습니다.</EtherPawHand.stages.7.description>
-  <EtherPawHand.description>귀엽긴 하지만 유연하지 못한 발이 [PAWN_nameDef]의 손을 대신했습니다. 하지만 엄지손가락은 퇴화되어 쓸모없어진 며느리발톱이 되었습니다.</EtherPawHand.description>
-  <EtherHoofHand.label>발굽</EtherHoofHand.label>
-  <EtherHoofHand.stages.0.description>각각의 손가락 마다 뾰족한 손톱이 점점 드러나고 있습니다.</EtherHoofHand.stages.0.description>
-  <EtherHoofHand.stages.1.description>손가락마다 크고 어두운 발굽이 자라나고 있습니다. 손가락 몇 개가 짧아지는것 같군요.</EtherHoofHand.stages.1.description>
-  <EtherHoofHand.stages.2.description>손가락이 두 개씩 합쳐지고 있습니다. 이것은 정교한 조작을 힘들게 하지만, 아직 완벽한 발굽은 아닙니다.</EtherHoofHand.stages.2.description>
-  <EtherHoofHand.stages.3.description>이 손, 즉 발굽은 빠르게 유연성이 떨어지고 있고 일반적인 발굽에 가깝게 변했습니다. 이것은 곧 완전히 쓸모없어질수도 있습니다.</EtherHoofHand.stages.3.description>
-  <EtherHoofHand.stages.4.label>낯섬</EtherHoofHand.stages.4.label>
-  <EtherHoofHand.stages.5.description>[PAWN_nameDef]은(는) 발굽을 사용하는 데 적응했고, 그것을 사용하는 것이 조금 덜 힘들 것입니다.</EtherHoofHand.stages.5.description>
-  <EtherHoofHand.stages.5.label>적응됨</EtherHoofHand.stages.5.label>
-  <EtherHoofHand.stages.6.description>이 발굽에 대한 추가적인 적응은 손가락을 보다 인간적인 형태로 회복시켜 유연성을 되찾았습니다.</EtherHoofHand.stages.6.description>
-  <EtherHoofHand.description>조금 무섭지만, [PAWN_nameDef]의 손은 이제 발굽이 되었습니다. 물건을 쥐거나 도구를 움켜쥐는 등 엄지손가락이 필요한 일을 하는 것은 이제 매우 어려운 일일 것입니다.</EtherHoofHand.description>
-  <EtherTrotterHand.label>족발</EtherTrotterHand.label>
-  <EtherTrotterHand.stages.0.description>각각의 손가락 마다 딱딱한 손톱이 점점 드러나고 있습니다.</EtherTrotterHand.stages.0.description>
-  <EtherTrotterHand.stages.1.description>손가락마다 크고 어두운 발굽이 자라나고 있습니다. 손가락 몇 개가 짧아지는것 같군요.</EtherTrotterHand.stages.1.description>
-  <EtherTrotterHand.stages.2.description>이 손, 즉 족발은 빠르게 유연성이 떨어지고 있고 일반적인 돼지 발톱에 가깝게 변했습니다. 이것은 곧 완전히 쓸모없어질수도 있습니다.</EtherTrotterHand.stages.2.description>
-  <EtherTrotterHand.stages.3.label>낯섬</EtherTrotterHand.stages.3.label>
-  <EtherTrotterHand.stages.4.description>[PAWN_nameDef]은(는) 발톱을 사용하는 데 적응했고, 그것을 사용하는 것이 조금 덜 힘들 것입니다.</EtherTrotterHand.stages.4.description>
-  <EtherTrotterHand.stages.4.label>adapted</EtherTrotterHand.stages.4.label>
-  <EtherTrotterHand.stages.5.description>이 발굽에 대한 추가적인 적응은 손가락을 보다 인간적인 형태로 회복시켜 유연성을 되찾았습니다.</EtherTrotterHand.stages.5.description>
-  <EtherTrotterHand.description>[PAWN_nameDef]의 손은 이제 족발을 닯게 변해 무언가를 쥘 수 있는 능력은 거의 없습니다.</EtherTrotterHand.description>
-  <EtherMuzzle.label>동물 주둥이</EtherMuzzle.label>
-  <EtherMuzzle.comps.1.tools.0.label>이빨</EtherMuzzle.comps.1.tools.0.label>
-  <EtherMuzzle.description>[PAWN_nameDef]의 얼굴이 개과의 그것처럼 변형되었습니다. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherMuzzle.description>
-  <EtherSnout.label>동물 코</EtherSnout.label>
-  <EtherSnout.comps.1.tools.0.label>이빨</EtherSnout.comps.1.tools.0.label>
-  <EtherSnout.description>[PAWN_nameDef]의 얼굴이 변형되었습니다.</EtherSnout.description>
-  <EtherClaws.label>동물 발톱</EtherClaws.label>
-  <EtherClaws.comps.1.tools.0.label>뾰족한</EtherClaws.comps.1.tools.0.label>
-  <EtherClaws.description>[PAWN_nameDef]의 손톱이 벗겨지고, 대신 날카로운 발톱이 그 자리를 차지합니다.. 이는 [PAWN_pronoun]는 전투에서 사용할 수 있는 새로운 무기를 얻었으며, 또한 자신의 엉덩이를 닦기가 어려워졌다는 것을 의미합니다.</EtherClaws.description>
-  <EtherTail.label>동물 꼬리</EtherTail.label>
-  <EtherTail.description>일반적인 꼬리입니다.</EtherTail.description>
-  <EtherFurryEar.label>복실한 털</EtherFurryEar.label>
-  <EtherFurryEar.description>림에게 이 부위가 있어선 안 됩니다. 만약 있다면, 업데이트된 돌연변이 부위로 교체하십시오.</EtherFurryEar.description>
-  <EtherPointedEar.label>뾰족한 귀</EtherPointedEar.label>
-  <EtherPointedEar.description>림에게 이 부위가 있어선 안 됩니다. 만약 있다면, 업데이트된 돌연변이 부위로 교체하십시오.</EtherPointedEar.description>
-  <EtherDogEar.label>축쳐진 젖통</EtherDogEar.label>
-  <EtherDogEar.description>림에게 이 부위가 있어선 안 됩니다. 만약 있다면, 업데이트된 돌연변이 부위로 교체하십시오.</EtherDogEar.description>
-  <EtherProductiveBliss.label>정신붕괴</EtherProductiveBliss.label>
-  <EtherBroken.label>정신붕괴</EtherBroken.label>
-  <EtherBond.label>정신 합쳐짐</EtherBond.label>
-  <Foxflu.label>여우 변이 독감</Foxflu.label>
-  <Foxflu.stages.0.label>심각하지 않은</Foxflu.stages.0.label>
-  <Foxflu.stages.1.label>중대한</Foxflu.stages.1.label>
-  <Foxflu.stages.2.label>심각한</Foxflu.stages.2.label>
-  <Foxflu.stages.3.label>완벽한</Foxflu.stages.3.label>
+  <FoxFlu.label>여우 변이 독감</FoxFlu.label>
+  <FoxFlu.description>이 폰은 변형 유인 질병에 걸렸습니다. 묘한 '여우'로움을 느낍니다.</FoxFlu.description>
+  <FoxFlu.stages.0.label>심각하지 않은</FoxFlu.stages.0.label>
+  <FoxFlu.stages.1.label>중대한</FoxFlu.stages.1.label>
+  <FoxFlu.stages.2.label>심각한</FoxFlu.stages.2.label>
+  <FoxFlu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</FoxFlu.stages.2.letterText>
+  <FoxFlu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</FoxFlu.stages.2.letterLabel>
+  <FoxFlu.stages.3.label>완벽한</FoxFlu.stages.3.label>
   <Chookflu.label>닭 변이 독감</Chookflu.label>
+  <Chookflu.description>이 폰은 변형 유인 질병에 걸렸습니다. '꼬꼬댁'' 거리며 고개를 앞뒤로 흔들게 만드는 것 같습니다.</Chookflu.description>
   <Chookflu.stages.0.label>심각하지 않은</Chookflu.stages.0.label>
   <Chookflu.stages.1.label>중대한</Chookflu.stages.1.label>
   <Chookflu.stages.2.label>심각한</Chookflu.stages.2.label>
+  <Chookflu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</Chookflu.stages.2.letterText>
+  <Chookflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Chookflu.stages.2.letterLabel>
   <Chookflu.stages.3.label>완벽한</Chookflu.stages.3.label>
   <Swineflu.label>돼지 변이 독감</Swineflu.label>
+  <Swineflu.description>이 폰은 변형 유인 질병에 걸렸습니다. 땅을 파고 진흙에 뒹굴고 싶은 충동을 주는 것 같습니다.</Swineflu.description>
   <Swineflu.stages.0.label>심각하지 않은</Swineflu.stages.0.label>
   <Swineflu.stages.1.label>중대한</Swineflu.stages.1.label>
   <Swineflu.stages.2.label>심각한</Swineflu.stages.2.label>
+  <Swineflu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</Swineflu.stages.2.letterText>
+  <Swineflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Swineflu.stages.2.letterLabel>
   <Swineflu.stages.3.label>완벽한</Swineflu.stages.3.label>
   <Cowflu.label>소 변이 독감</Cowflu.label>
+  <Cowflu.description>이 폰은 변형 유인 질병에 걸렸습니다. 큰 소리로 '음머' 하고 울고 싶은 충동을 주는 것 같습니다.</Cowflu.description>
   <Cowflu.stages.0.label>심각하지 않은</Cowflu.stages.0.label>
   <Cowflu.stages.1.label>중대한</Cowflu.stages.1.label>
   <Cowflu.stages.2.label>심각한</Cowflu.stages.2.label>
+  <Cowflu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</Cowflu.stages.2.letterText>
+  <Cowflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Cowflu.stages.2.letterLabel>
   <Cowflu.stages.3.label>완벽한</Cowflu.stages.3.label>
   <Chaoflu.label>카오 변이 독감</Chaoflu.label>
+  <Chaoflu.description>This pawn has contracted a mutagenic disease that seems to be very random and chaotic, due to the high level of conflicting mutagenic mechanites in their system.</Chaoflu.description>
   <Chaoflu.stages.0.label>심각하지 않은</Chaoflu.stages.0.label>
   <Chaoflu.stages.1.label>중대한</Chaoflu.stages.1.label>
   <Chaoflu.stages.2.label>심각한</Chaoflu.stages.2.label>
+  <Chaoflu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</Chaoflu.stages.2.letterText>
+  <Chaoflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Chaoflu.stages.2.letterLabel>
   <Chaoflu.stages.3.label>완벽한</Chaoflu.stages.3.label>
-  <EtherGutswell.label>거츠웰</EtherGutswell.label>
-  <EtherGutswell.stages.1.label>생산적인</EtherGutswell.stages.1.label>
-  <EtherGutswell.stages.2.label>매우 생산적인</EtherGutswell.stages.2.label>
-  <EtherGutswell.stages.3.label>최고로 생산적인</EtherGutswell.stages.3.label>
-  <EtherGutswell.description>[PAWN_nameDef]은(는) 알수 없는 작용에 의해 영양 재배기의 기능을 하며, 영양죽을 생산해냅니다.</EtherGutswell.description>
-  <EtherIntoxica.label>인톡시카</EtherIntoxica.label>
-  <EtherIntoxica.stages.1.label>생산적인</EtherIntoxica.stages.1.label>
-  <EtherIntoxica.stages.2.label>매우 생산적인</EtherIntoxica.stages.2.label>
-  <EtherIntoxica.stages.3.label>최고로 생산적인</EtherIntoxica.stages.3.label>
-  <EtherIntoxica.description>[PAWN_nameDef]은(는) 알수 없는 작용에 의해 천연 증류기의 기능을 하며, 불분명한 발효 작용을 통해 맥주를 생산해냅니다.</EtherIntoxica.description>
-  <EtherIchoric.label>이코릭</EtherIchoric.label>
-  <EtherIchoric.stages.1.label>생산적인</EtherIchoric.stages.1.label>
-  <EtherIchoric.stages.2.label>매우 생산적인</EtherIchoric.stages.2.label>
-  <EtherIchoric.stages.3.label>최고로 생산적인</EtherIchoric.stages.3.label>
-  <EtherIchoric.description>[PAWN_nameDef]은(는) 암브로시아를 생산해 냅니다, 그러나 이는 그(그녀)의 몸에 큰 부담을 줍니다.</EtherIchoric.description>
-  <EtherGellic.label>젤릭</EtherGellic.label>
-  <EtherGellic.stages.1.label>생산적인</EtherGellic.stages.1.label>
-  <EtherGellic.stages.2.label>매우 생산적인</EtherGellic.stages.2.label>
-  <EtherGellic.stages.3.label>최고로 생산적인</EtherGellic.stages.3.label>
-  <EtherGellic.description>[PAWN_nameDef]은(는) 알수 없는 응고 과정을 통해 곤충 젤리를 생산해냅니다.</EtherGellic.description>
-  <EtherPrototoxica.label>프로토톡시카</EtherPrototoxica.label>
-  <EtherPrototoxica.stages.1.label>생산적인</EtherPrototoxica.stages.1.label>
-  <EtherPrototoxica.stages.2.label>매우 생산적인</EtherPrototoxica.stages.2.label>
-  <EtherPrototoxica.stages.3.label>최고로 생산적인</EtherPrototoxica.stages.3.label>
-  <EtherPrototoxica.description>[PAWN_nameDef]의 위에는 홉의 발효를 돕는 곰팡이가 자라나고 있지만 맥주를 생산하기 위한 완벽한 상태는 아닙니다.</EtherPrototoxica.description>
+  <HuskyFlu.label>개 감기</HuskyFlu.label>
+  <HuskyFlu.description>이 폰은 변형 유인 질병에 걸렸습니다. 자기의 꼬리를 쫓으며 짖고 싶은 충동을 주는 것 같습니다.</HuskyFlu.description>
+  <HuskyFlu.stages.0.label>사소함</HuskyFlu.stages.0.label>
+  <HuskyFlu.stages.1.label>심각함</HuskyFlu.stages.1.label>
+  <HuskyFlu.stages.2.label>극심함</HuskyFlu.stages.2.label>
+  <HuskyFlu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</HuskyFlu.stages.2.letterText>
+  <HuskyFlu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</HuskyFlu.stages.2.letterLabel>
+  <HuskyFlu.stages.3.label>넓은 수염</HuskyFlu.stages.3.label>
   <TransformedHuman.label>인간이었던 것</TransformedHuman.label>
+  <TransformedHuman.description>[PAWN_defName](은)는 과거엔 인간이었지만 무슨 일이 있었는지 지금은 현태의 형태로 변이되었습니다. 하지만, [PAWN_pronoun]는 다시 되돌아갈 수 있습니다.</TransformedHuman.description>
   <TransformedHuman.stages.0.label>야생</TransformedHuman.stages.0.label>
   <TransformedHuman.stages.1.label>야생</TransformedHuman.stages.1.label>
   <TransformedHuman.stages.2.label>사피엔</TransformedHuman.stages.2.label>
-  <TransformedHuman.description>[PAWN_defName](은)는 과거엔 인간이었지만 무슨 일이 있었는지 지금은 현태의 형태로 변이되었습니다. 하지만, [PAWN_pronoun]는 다시 되돌아갈 수 있습니다.</TransformedHuman.description>
+  <TransformedHuman.stages.3.label>정신병자</TransformedHuman.stages.3.label>
+  <TransformedHuman.stages.4.label>정신병자</TransformedHuman.stages.4.label>
+  <Animalistic.label>짐승같은</Animalistic.label>
+  <Animalistic.description>Due to certain mutations or having spent time as an animal, this pawn is struggling to maintain their sapience</Animalistic.description>
+  <Animalistic.stages.0.label>사피엔</Animalistic.stages.0.label>
+  <Animalistic.stages.1.label>야생</Animalistic.stages.1.label>
+  <Animalistic.stages.2.label>사피엔</Animalistic.stages.2.label>
+  <Animalistic.stages.3.label>정신병자</Animalistic.stages.3.label>
+  <Animalistic.stages.4.label>정신병자</Animalistic.stages.4.label>
+  <2xMergedHuman.label>변이체 융합 x2</2xMergedHuman.label>
+  <2xMergedHuman.description>[PAWN_defName](은)는 두개의 존재가 하나의 포악한 괴물로 합쳐진, 존재해서는 안될 생명체입니다.</2xMergedHuman.description>
+  <2xMergedHuman.stages.0.label>사피엔</2xMergedHuman.stages.0.label>
+  <2xMergedHuman.stages.1.label>야생</2xMergedHuman.stages.1.label>
+  <2xMergedHuman.stages.2.label>사피엔</2xMergedHuman.stages.2.label>
+  <2xMergedHuman.stages.3.label>정신병자</2xMergedHuman.stages.3.label>
+  <2xMergedHuman.stages.4.label>정신병자</2xMergedHuman.stages.4.label>
   <PermanentlyFeral.label>영구적인 야생인간</PermanentlyFeral.label>
   <PermanentlyFeral.description>[PAWN_defName](은)는 한때 인간이었지만, [PAWN_pronoun]의 SDNA 내부에 흐르는 메카나이트가 [PAWN_pronoun]를 완전히 뒤바꾸어 버리고 말았습니다. [PAWN_pronoun]는 이제 남은 수명동안 이 형태로 살게 될 것입니다. 변이체 혈청으로도 변이는 일어나지 않습니다.</PermanentlyFeral.description>
   <WasAnimal.label>동물이었던</WasAnimal.label>
+  <WasAnimal.description>[PAWN_defName](은)는 동물로 변하고 말았지만, [PAWN_pronoun]에겐 더 잘 된 일일 것입니다. 하지만, [PAWN_pronoun]는 자신의 상태에 행복해하지 않습니다.</WasAnimal.description>
   <WasAnimal.stages.0.label>영구적</WasAnimal.stages.0.label>
   <WasAnimal.stages.1.label>야생</WasAnimal.stages.1.label>
   <WasAnimal.stages.2.label>사피엔</WasAnimal.stages.2.label>
   <WasAnimal.stages.3.label>정신병자</WasAnimal.stages.3.label>
-  <WasAnimal.description>[PAWN_defName](은)는 동물로 변하고 말았지만, [PAWN_pronoun]에겐 더 잘 된 일일 것입니다. 하지만, [PAWN_pronoun]는 자신의 상태에 행복해하지 않습니다.</WasAnimal.description>
   <WasMergedRelieved.label>뒤섞인</WasMergedRelieved.label>
+  <WasMergedRelieved.description>[PAWN_defName](은)는 다른  이들과 함께 살과 살점들이 무질서하게 뒤섞여 결합되어버렸지만, [PAWN_pronoun]는 그 통찰을 매우 가치있게 생각하고 있습니다.</WasMergedRelieved.description>
   <WasMergedRelieved.stages.0.label>영구적</WasMergedRelieved.stages.0.label>
   <WasMergedRelieved.stages.1.label>야생</WasMergedRelieved.stages.1.label>
   <WasMergedRelieved.stages.2.label>사피엔</WasMergedRelieved.stages.2.label>
   <WasMergedRelieved.stages.3.label>정신병자</WasMergedRelieved.stages.3.label>
-  <WasMergedRelieved.description>[PAWN_defName](은)는 다른  이들과 함께 살과 살점들이 무질서하게 뒤섞여 결합되어버렸지만, [PAWN_pronoun]는 그 통찰을 매우 가치있게 생각하고 있습니다.</WasMergedRelieved.description>
   <WasMerged.label>뒤섞인</WasMerged.label>
+  <WasMerged.description>[PAWN_defName](은)는 다른  이들과 함께 살과 살점들이 무질서하게 뒤섞여 결합되어버렸고, [PAWN_pronoun]는 그 경험으로 인해 매우 큰 상처를 받고 말았습니다.</WasMerged.description>
   <WasMerged.stages.0.label>영구적</WasMerged.stages.0.label>
   <WasMerged.stages.1.label>야생</WasMerged.stages.1.label>
   <WasMerged.stages.2.label>사피엔</WasMerged.stages.2.label>
   <WasMerged.stages.3.label>정신병자</WasMerged.stages.3.label>
-  <WasMerged.description>[PAWN_defName](은)는 다른  이들과 함께 살과 살점들이 무질서하게 뒤섞여 결합되어버렸고, [PAWN_pronoun]는 그 경험으로 인해 매우 큰 상처를 받고 말았습니다.</WasMerged.description>
   <WasAnimalRelieved.label>동물이었던</WasAnimalRelieved.label>
+  <WasAnimalRelieved.description>[PAWN_defName](은)는 동물로 변하고 말았지만, [PAWN_pronoun]에겐 더 잘 된 일일 것입니다. 하지만, [PAWN_pronoun]는 이 경험을 새로운 학습의 기회로 생각하고 있습니다.</WasAnimalRelieved.description>
   <WasAnimalRelieved.stages.0.label>영구적</WasAnimalRelieved.stages.0.label>
   <WasAnimalRelieved.stages.1.label>야생</WasAnimalRelieved.stages.1.label>
   <WasAnimalRelieved.stages.2.label>사피엔</WasAnimalRelieved.stages.2.label>
   <WasAnimalRelieved.stages.3.label>정신병자</WasAnimalRelieved.stages.3.label>
-  <WasAnimalRelieved.description>[PAWN_defName](은)는 동물로 변하고 말았지만, [PAWN_pronoun]에겐 더 잘 된 일일 것입니다. 하지만, [PAWN_pronoun]는 이 경험을 새로운 학습의 기회로 생각하고 있습니다.</WasAnimalRelieved.description>
-  <MegaspiderInjection.label>찔린 상처</MegaspiderInjection.label>
-  <MegaspiderInjection.comps.0.labelTendedWell>붕대 감은</MegaspiderInjection.comps.0.labelTendedWell>
-  <MegaspiderInjection.comps.0.labelTendedWellInner>봉합한</MegaspiderInjection.comps.0.labelTendedWellInner>
-  <MegaspiderInjection.comps.0.labelSolidTendedWell>접합된</MegaspiderInjection.comps.0.labelSolidTendedWell>
   <FeralPillSapienceDrop.label>야생화</FeralPillSapienceDrop.label>
   <FeralPillSapienceDrop.description>[PAWN_nameDef]의 지능은 야생화 알약을 투여했기 때문에 짐승 수준으로 급격히 저하되고 있습니다.</FeralPillSapienceDrop.description>
-  <EtherFurredLimb.label>부드러운 털로 뒤덮인</EtherFurredLimb.label>
-  <EtherFurredLimb.stages.0.description>[PAWN_nameDef]의 피부는 이전보다 털이 많아진 것 같습니다.</EtherFurredLimb.stages.0.description>
-  <EtherFurredLimb.stages.1.description>[PAWN_nameDef]의 팔 다리 위로 매우 부드러운 털이 촘촘하게 돋아나고 있습니다.</EtherFurredLimb.stages.1.description>
-  <EtherFurredLimb.stages.2.description>피부에서 돋아난 털이 [PAWN_nameDef]의 사지에 퍼지면서 빠르게 두꺼워지고 있습니다.</EtherFurredLimb.stages.2.description>
-  <EtherFurredLimb.stages.3.description>[PAWN_nameDef]의 사지에는 맨살이 별로 남아있지 않고, 그 중 상당 부분이 모피가 되었습니다.</EtherFurredLimb.stages.3.description>
-  <EtherFurredLimb.description>북실한 털이 [PAWN_nameDef]의 온 몸을 뒤덮고, 보온을 유지하는데 도움을 주는 부드러운 외투가 되어줍니다.</EtherFurredLimb.description>
-  <EtherThickFurLimb.label>두터운 털</EtherThickFurLimb.label>
-  <EtherThickFurLimb.stages.0.description>[PAWN_nameDef]의 피부는 이전보다 털이 많아진 것 같습니다.</EtherThickFurLimb.stages.0.description>
-  <EtherThickFurLimb.stages.1.description>피부에서 돋아난 털이 [PAWN_nameDef]의 사지에 퍼지면서 빠르게 두꺼워지고 있습니다.</EtherThickFurLimb.stages.1.description>
-  <EtherThickFurLimb.stages.2.description>[PAWN_nameDef]의 사지에는 맨살이 별로 남아있지 않고, 그 중 상당 부분이 모피가 되었습니다.</EtherThickFurLimb.stages.2.description>
-  <EtherThickFurLimb.stages.3.description>[PAWN_nameDef]의 사지에 자란 털의 밀도가 더욱 짙어져, 피부가 잘 보이지 않게 되었습니다.</EtherThickFurLimb.stages.3.description>
-  <EtherThickFurLimb.stages.4.description>털은 [PAWN_nameDef]의 사지를 완전히 뒤덮었습니다. 이것은 꽤 무거운데다가 따뜻합니다.</EtherThickFurLimb.stages.4.description>
-  <EtherThickFurLimb.description>두터운 털로 뒤덮인 팔다리는 보온성이 좋아 매우 따뜻합니다.</EtherThickFurLimb.description>
-  <EtherScaledLimb.label>비늘</EtherScaledLimb.label>
-  <EtherScaledLimb.stages.0.description>전신의 피부가 조금 더 두껍고 팽팽해 졌습니다.</EtherScaledLimb.stages.0.description>
-  <EtherScaledLimb.stages.1.description>피부가 겹치고 맞물리는 작은 비늘로 변화했습니다.</EtherScaledLimb.stages.1.description>
-  <EtherScaledLimb.stages.2.description>사지의 일부가 촘촘히 짜여진 비늘 무늬로 덮였습니다.</EtherScaledLimb.stages.2.description>
-  <EtherScaledLimb.stages.3.description>사지의 많은 부분이 촘촘하게 짜여진 비늘 무늬로 뒤덮였으며 거의 대부분의 피부를 덮고 있습니다.</EtherScaledLimb.stages.3.description>
-  <EtherScaledLimb.description>부드럽고 윤기 나는 비늘이 이제 전신을 뒤덮고 있고 약간의 자연적인 방어력을 지니며 열을 발산합니다.</EtherScaledLimb.description>
-  <EtherHideLimb.label>가죽</EtherHideLimb.label>
-  <EtherHideLimb.stages.0.description>전신의 피부가 보통 사람의 것보다 약간 질겨진 것 같습니다.</EtherHideLimb.stages.0.description>
-  <EtherHideLimb.stages.1.description>전신의 피부가 보통 사람의 것보다 많이 질겨진 것 같습니다.</EtherHideLimb.stages.1.description>
-  <EtherHideLimb.stages.2.description>거칠고 두꺼운 털이 피부가 두꺼워 질 수록 피부를 뚫고 올라오고 있습니다.</EtherHideLimb.stages.2.description>
-  <EtherHideLimb.stages.3.description>전신의 피부가 보통 사람의 것보다 훨씬 두껍고, 두꺼운 털로 덮여 있습니다.</EtherHideLimb.stages.3.description>
-  <EtherHideLimb.description>온 몸에 두꺼운 가죽이 형성되어 약간의 자연적인 방어력을 더해줍니다.</EtherHideLimb.description>
-  <EtherDigitigradeLeg.label>역관절</EtherDigitigradeLeg.label>
-  <EtherDigitigradeLeg.stages.0.description>[PAWN_nameDef]의 다리는 걷기에 몹시 불편한 형태로 퇴화되어가고 있습니다.</EtherDigitigradeLeg.stages.0.description>
-  <EtherDigitigradeLeg.stages.1.description>[PAWN_nameDef]의 다리에 있는 뼈가 필요에 따라 더 길거나 짧게 자라나고 있습니다. 이런 변화가 일어나는 동안 움직이는 것은 다소 어렵고 고통스러울 것입니다.</EtherDigitigradeLeg.stages.1.description>
-  <EtherDigitigradeLeg.stages.2.label>낯섬</EtherDigitigradeLeg.stages.2.label>
-  <EtherDigitigradeLeg.stages.2.description>[PAWN_nameDef]의 다리 모양은 이제 길어진 발꿈치 대신 발 끝으로 서 있기 때문에 사람보다는 짐승에 더 가깝습니다. 새로운 형태의 다리에 익숙해지려면 시간이 좀 필요할 것입니다.</EtherDigitigradeLeg.stages.2.description>
-  <EtherDigitigradeLeg.stages.3.label>적응됨</EtherDigitigradeLeg.stages.3.label>
-  <EtherDigitigradeLeg.description>[PAWN_nameDef]의 다리모양은 인간보다는 짐승에 가깝습니다. [PAWN_pronoun]는 이제 발꿈치가 아닌 발 끝으로 서있습니다. 하지만 이는 [PAWN_pronoun]의 발걸음을 가볍게 해줄 것입니다.</EtherDigitigradeLeg.description>
-  <EtherPawFoot.label>발톱</EtherPawFoot.label>
-  <EtherPawFoot.stages.0.description>[PAWN_nameDef]의 손톱은 길어지고 어두워져 무딘 발톱이 되었습니다.</EtherPawFoot.stages.0.description>
-  <EtherPawFoot.stages.1.description>[PAWN_nameDef]의 발바닥과 발가락에 육구가 발달하여 거친 지형을 조금 더 손쉽게 움직일 수 있게 되었습니다.</EtherPawFoot.stages.1.description>
-  <EtherPawFoot.stages.2.description>발이 더 발톱에 적합하게 변화했지만 안정성을 위해 여전히 인간과 같은 특징을 지니고 있습니다.</EtherPawFoot.stages.2.description>
-  <EtherPawFoot.description>[PAWN_nameDef]의 발톱이 자라나와 두꺼운 모피를 찢고 그 날카로운 모습을 드러냅니다.</EtherPawFoot.description>
-  <EtherClovenHoofFoot.label>쪽발굽</EtherClovenHoofFoot.label>
-  <EtherClovenHoofFoot.stages.0.description>[PAWN_nameDef]의 발톱은 어두워지고 넓어지고 평평하게 변했습니다.</EtherClovenHoofFoot.stages.0.description>
-  <EtherClovenHoofFoot.stages.1.description>[PAWN_nameDef]의 발은 어떤 인간의 발보다도 발굽에 가깝게 변화해 발꿈치 또한 그에 맞게 뻗고 있습니다.</EtherClovenHoofFoot.stages.1.description>
-  <EtherClovenHoofFoot.description>[PAWN_nameDef]의 발톱은 굵어지고, 가운데가 갈라지면서 발굽이 되었습니다.</EtherClovenHoofFoot.description>
-  <EtherUnclovenHoofFoot.label>발굽</EtherUnclovenHoofFoot.label>
-  <EtherUnclovenHoofFoot.stages.0.description>[PAWN_nameDef]의 발톱은 어두워지고 넓어지고 평평하게 변했습니다.</EtherUnclovenHoofFoot.stages.0.description>
-  <EtherUnclovenHoofFoot.stages.1.description>[PAWN_nameDef]의 발은 어떤 인간의 발보다도 발굽에 가깝게 변화해 발꿈치 또한 그에 맞게 뻗고 있습니다.</EtherUnclovenHoofFoot.stages.1.description>
-  <EtherUnclovenHoofFoot.description>[PAWN_nameDef]의 발은 말 발굽처럼 단일 형태의 두꺼운 발굽이 되었습니다.</EtherUnclovenHoofFoot.description>
-  <EtherTrotterFoot.label>족발</EtherTrotterFoot.label>
-  <EtherTrotterFoot.stages.0.description>[PAWN_nameDef]의 발톱은 어두워지고 넓어지고 납작하게 변했습니다.</EtherTrotterFoot.stages.0.description>
-  <EtherTrotterFoot.stages.1.description>[PAWN_nameDef]의 발은 어떤 인간의 발보다도 발굽에 가깝게 변화해 발꿈치 또한 그에 맞게 뻗고 있습니다.</EtherTrotterFoot.stages.1.description>
-  <EtherTrotterFoot.stages.2.description>[PAWN_nameDef]의 발은 길어지고 넓어졌으며, 발 뒷꿈치는 이전보다 훨씬 길어졌습니다.</EtherTrotterFoot.stages.2.description>
-  <EtherTrotterFoot.description>작은 발굽이 한때 [PAWN_nameDef]의 발이 있던 자리에 자리잡았습니다. 무언가를 가리키는 것은... 여전히 가능은 합니다.</EtherTrotterFoot.description>
-  <EtherColdBlooded.label>냉혈</EtherColdBlooded.label>
-  <EtherColdBlooded.stages.1.description>[PAWN_nameDef]의 혈류에는 체온을 보다 효율적으로 조절할 수 있는 기능이 추가되었습니다.</EtherColdBlooded.stages.1.description>
-  <EtherColdBlooded.description>[PAWN_nameDef]의 몸은 더 이상 자연적으로 체온을 조절하지 않습니다.</EtherColdBlooded.description>
-  <MutagenicBuildup_Weapon.label>돌연변이 발생도</MutagenicBuildup_Weapon.label>
+  <PM_InstantStabiliserHigh.description>이 폰의 상태가 안정화 되어 추가적인 변이를 막습니다. 이 상태는 5일동안 지속되며, 지속되는 동안에는 추가적인 변이를 받을 수 없습니다.</PM_InstantStabiliserHigh.description>
+  <PM_InstantStabiliserHigh.label>돌연변이 안정화</PM_InstantStabiliserHigh.label>
   <MutagenicBuildup_Weapon.stages.0.label>초기</MutagenicBuildup_Weapon.stages.0.label>
   <MutagenicBuildup_Weapon.stages.1.label>초기</MutagenicBuildup_Weapon.stages.1.label>
   <MutagenicBuildup_Weapon.stages.2.label>심각하지 않음</MutagenicBuildup_Weapon.stages.2.label>
@@ -428,7 +124,7 @@
   <MutagenicBuildup_Weapon.stages.5.label>극심함</MutagenicBuildup_Weapon.stages.5.label>
   <MutagenicBuildup_Weapon.stages.6.label>극심함</MutagenicBuildup_Weapon.stages.6.label>
   <MutagenicBuildup_Weapon.stages.7.label>극심함</MutagenicBuildup_Weapon.stages.7.label>
-  <MutagenicBuildup_SmallExplosion.label>돌연변이 발생도</MutagenicBuildup_SmallExplosion.label>
+  <MutagenicBuildup_Weapon.description>변형 유인 메카나이트에 높은 수준으로 노출된 결과, 그것들이 폰의 신체의 쌓이기 시작했습니다. 농도가 높아지게 된다면 변이를 일으킬 수 있습니다.</MutagenicBuildup_Weapon.description>
   <MutagenicBuildup_SmallExplosion.stages.0.label>초기</MutagenicBuildup_SmallExplosion.stages.0.label>
   <MutagenicBuildup_SmallExplosion.stages.1.label>초기</MutagenicBuildup_SmallExplosion.stages.1.label>
   <MutagenicBuildup_SmallExplosion.stages.2.label>심각하지 않음</MutagenicBuildup_SmallExplosion.stages.2.label>
@@ -437,7 +133,7 @@
   <MutagenicBuildup_SmallExplosion.stages.5.label>극심함</MutagenicBuildup_SmallExplosion.stages.5.label>
   <MutagenicBuildup_SmallExplosion.stages.6.label>극심함</MutagenicBuildup_SmallExplosion.stages.6.label>
   <MutagenicBuildup_SmallExplosion.stages.7.label>극심함</MutagenicBuildup_SmallExplosion.stages.7.label>
-  <MutagenicBuildup_LargeExplosion.label>돌연변이 발생도</MutagenicBuildup_LargeExplosion.label>
+  <MutagenicBuildup_SmallExplosion.description>변형 유인 메카나이트에 높은 수준으로 노출된 결과, 그것들이 폰의 신체의 쌓이기 시작했습니다. 농도가 높아지게 된다면 변이를 일으킬 수 있습니다.</MutagenicBuildup_SmallExplosion.description>
   <MutagenicBuildup_LargeExplosion.stages.0.label>초기</MutagenicBuildup_LargeExplosion.stages.0.label>
   <MutagenicBuildup_LargeExplosion.stages.1.label>초기</MutagenicBuildup_LargeExplosion.stages.1.label>
   <MutagenicBuildup_LargeExplosion.stages.2.label>심각하지 않음</MutagenicBuildup_LargeExplosion.stages.2.label>
@@ -446,97 +142,8 @@
   <MutagenicBuildup_LargeExplosion.stages.5.label>극심함</MutagenicBuildup_LargeExplosion.stages.5.label>
   <MutagenicBuildup_LargeExplosion.stages.6.label>극심함</MutagenicBuildup_LargeExplosion.stages.6.label>
   <MutagenicBuildup_LargeExplosion.stages.7.label>극심함</MutagenicBuildup_LargeExplosion.stages.7.label>
-  <PawnmorphGunshotTF.label>정신변이</PawnmorphGunshotTF.label>
-  <PawnmorphGunshotTF.stages.0.label>감아내기</PawnmorphGunshotTF.stages.0.label>
-  <PawnmorphGunshotTF.stages.1.label>변이-무력화</PawnmorphGunshotTF.stages.1.label>
-  <PawnmorphHuskyTF.label>허스키모프</PawnmorphHuskyTF.label>
-  <PawnmorphHuskyTF.stages.0.label>감아내기</PawnmorphHuskyTF.stages.0.label>
-  <PawnmorphHuskyTF.stages.1.label>변이중</PawnmorphHuskyTF.stages.1.label>
-  <PawnmorphHuskyTF.stages.2.label>동물화중</PawnmorphHuskyTF.stages.2.label>
-  <PawnmorphHuskyTFPartial.label>불완전한 허스키모프</PawnmorphHuskyTFPartial.label>
-  <EtherHuskyMuzzle.label>개 주둥이</EtherHuskyMuzzle.label>
-  <EtherHuskyMuzzle.comps.2.tools.0.label>이빨</EtherHuskyMuzzle.comps.2.tools.0.label>
-  <EtherHuskyMuzzle.stages.1.label>적응됨</EtherHuskyMuzzle.stages.1.label>
-  <EtherHuskyMuzzle.description>[PAWN_nameDef]의 얼굴이 허스키의 그것처럼 변형되었습니다.. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherHuskyMuzzle.description>
-  <EtherHuskyEar.label>개 귀</EtherHuskyEar.label>
-  <EtherHuskyEar.description>[PAWN_nameDef]의 머리 위로 삼각형의 얼빠진 흑백의 개 귀가 비쭉 솟아 움직이고 있습니다. 그것은 믿을 수 없을 정도로 귀엽습니다.</EtherHuskyEar.description>
-  <EtherHuskyTail.label>돌돌 말린 솜털 꼬리</EtherHuskyTail.label>
-  <EtherHuskyTail.description>[PAWN_nameDef]의 등 위로 솜털처럼 푹신한 허스키의 꼬리가 드리워져있습니다. 오, 방금 살짝 살랑거린 것 같지 않나요?</EtherHuskyTail.description>
-  <PawnmorphIguanaTF.label>이구아나모프</PawnmorphIguanaTF.label>
-  <PawnmorphIguanaTF.stages.0.label>감아내기</PawnmorphIguanaTF.stages.0.label>
-  <PawnmorphIguanaTF.stages.1.label>변이중</PawnmorphIguanaTF.stages.1.label>
-  <PawnmorphIguanaTF.stages.2.label>동물화중</PawnmorphIguanaTF.stages.2.label>
-  <PawnmorphIguanaTFPartial.label>불완전한 이구아나모프</PawnmorphIguanaTFPartial.label>
-  <EtherIguanaSnout.label>이구아나 주둥이</EtherIguanaSnout.label>
-  <EtherIguanaSnout.stages.0.label>새로운</EtherIguanaSnout.stages.0.label>
-  <EtherIguanaSnout.stages.1.label>적응됨</EtherIguanaSnout.stages.1.label>
-  <EtherIguanaSnout.description>[PAWN_nameDef]의 얼굴 아랫부분이 가죽 같은 부리로 변이했습니다.</EtherIguanaSnout.description>
-  <EtherIguanaHorns.label>가시</EtherIguanaHorns.label>
-  <EtherIguanaHorns.description>일련의 가시가 [PAWN_nameDef]의 등 부분을 뚫고 나왔습니다.</EtherIguanaHorns.description>
-  <EtherIguanaTail.label>이구아나 꼬리</EtherIguanaTail.label>
-  <EtherIguanaTail.description>가느다란 초록색 꼬리입니다.</EtherIguanaTail.description>
-  <EtherIguanaHand.label>날카로운 발톱</EtherIguanaHand.label>
-  <EtherIguanaHand.comps.2.tools.0.label>발톱</EtherIguanaHand.comps.2.tools.0.label>
-  <EtherIguanaHand.stages.0.label>낯섬</EtherIguanaHand.stages.0.label>
-  <EtherIguanaHand.stages.1.label>적응됨</EtherIguanaHand.stages.1.label>
-  <EtherIguanaHand.description>[PAWN_nameDef]의 손가락이 비늘이 덮인 발톱으로 길게 뻗어 변화했습니다.</EtherIguanaHand.description>
-  <EtherIguanaFoot.label>파충류의 발</EtherIguanaFoot.label>
-  <EtherIguanaFoot.stages.1.label>적응됨</EtherIguanaFoot.stages.1.label>
-  <EtherIguanaFoot.description>[PAWN_nameDef]의 발 전체가 발가락이 되었습니다.</EtherIguanaFoot.description>
-  <PawnmorphMegaslothTF.label>메가모프</PawnmorphMegaslothTF.label>
-  <PawnmorphMegaslothTF.stages.0.label>감아내기</PawnmorphMegaslothTF.stages.0.label>
-  <PawnmorphMegaslothTF.stages.1.label>변이중</PawnmorphMegaslothTF.stages.1.label>
-  <PawnmorphMegaslothTF.stages.2.label>동물화중</PawnmorphMegaslothTF.stages.2.label>
-  <PawnmorphMegaslothTFPartial.label>불완전한 메가모프</PawnmorphMegaslothTFPartial.label>
-  <EtherMegaslothSnout.label>메가슬로스 주둥이</EtherMegaslothSnout.label>
-  <EtherMegaslothSnout.comps.2.tools.0.label>이빨</EtherMegaslothSnout.comps.2.tools.0.label>
-  <EtherMegaslothSnout.stages.1.label>적응됨</EtherMegaslothSnout.stages.1.label>
-  <EtherMegaslothSnout.description>크고 보송보송한 털이 난 코가 자라나 나뭇잎을 수확하는 [PAWN_nameDef]의 얼굴을 가립니다.</EtherMegaslothSnout.description>
-  <EtherMegaslothTail.label>메가슬로스 꼬리</EtherMegaslothTail.label>
-  <EtherMegaslothTail.comps.2.tools.0.label>꼬리</EtherMegaslothTail.comps.2.tools.0.label>
-  <EtherMegaslothTail.description>[PAWN_nameDef]의 전신을 지탱할 수 있을 정도로 크고 근육질인 꼬리입니다.</EtherMegaslothTail.description>
-  <EtherMegaslothArm.label>메가슬로스 팔</EtherMegaslothArm.label>
-  <EtherMegaslothArm.description>[PAWN_nameDef]의 팔은 근육질이며 보송보송한 털이 나서 힘을 크게 증강시킬 뿐만 아니라 온도에도 어느 정도 저항력을 갖게 되었습니다.</EtherMegaslothArm.description>
-  <EtherMegaslothHand.label>발톱달린 손</EtherMegaslothHand.label>
-  <EtherMegaslothHand.comps.2.tools.0.label>뾰족한</EtherMegaslothHand.comps.2.tools.0.label>
-  <EtherMegaslothHand.description>[PAWN_nameDef]의 민첩한 손가락은 살과 금속을 쉽게 찢어버릴수 있는 길고 구부러진 발톱 3개로 대체되었습니다.</EtherMegaslothHand.description>
-  <EtherMegaslothLeg.label>메가슬로스 다리</EtherMegaslothLeg.label>
-  <EtherMegaslothLeg.description>[PAWN_nameDef]의 다리는 보송보송하고 근육이 발달하여 강인함과 온도에 대한 저항력은 향상되었지만 동작은 느려졌습니다.</EtherMegaslothLeg.description>
-  <EtherMegaslothFoot.label>발톱달린 발</EtherMegaslothFoot.label>
-  <EtherMegaslothFoot.comps.2.tools.0.label>뾰족한</EtherMegaslothFoot.comps.2.tools.0.label>
-  <EtherMegaslothFoot.description>[PAWN_nameDef]의 발은 [PAWN_pronoun]이(가) 자신의 발 옆으로를 걸어다녀야 할 정도로 길고 구부러진 발톱이 자라났습니다. 당신이 쉽게 상상할 수 있듯이, 이것은 어디엔가 가는 것을 다소 어렵게 만듭니다.</EtherMegaslothFoot.description>
-  <EtherMegawoolly.label>보송보송한 털</EtherMegawoolly.label>
-  <EtherMegawoolly.stages.1.label>생산적인</EtherMegawoolly.stages.1.label>
-  <EtherMegawoolly.stages.2.label>매우 생산적인</EtherMegawoolly.stages.2.label>
-  <EtherMegawoolly.stages.3.label>생산적인 행복</EtherMegawoolly.stages.3.label>
-  <EtherMegawoolly.description>길고 보송보송한 털이 [PAWN_nameDef]의 몸 전체를 뒤덮어 따뜻하고 편안하게 유지시켜 줍니다.</EtherMegawoolly.description>
-  <PawnmorphMonkeyTF.label>몽키모프</PawnmorphMonkeyTF.label>
-  <PawnmorphMonkeyTF.stages.0.label>감아내기</PawnmorphMonkeyTF.stages.0.label>
-  <PawnmorphMonkeyTF.stages.1.label>변이중</PawnmorphMonkeyTF.stages.1.label>
-  <PawnmorphMonkeyTF.stages.2.label>동물화중</PawnmorphMonkeyTF.stages.2.label>
-  <PawnmorphMonkeyTFPartial.label>불완전한 몽키모프</PawnmorphMonkeyTFPartial.label>
-  <EtherMonkeyJaw.label>원숭이 주둥이</EtherMonkeyJaw.label>
-  <EtherMonkeyJaw.comps.2.tools.0.label>이빨</EtherMonkeyJaw.comps.2.tools.0.label>
-  <EtherMonkeyJaw.stages.1.label>적응됨</EtherMonkeyJaw.stages.1.label>
-  <EtherMonkeyJaw.description>[PAWN_nameDef]의 얼굴이 원숭이와 같은 모습으로 길게 늘어져 마치 진화가 덜 된 것처럼 보이게 합니다.</EtherMonkeyJaw.description>
-  <EtherMonkeyEar.label>원숭이 귀</EtherMonkeyEar.label>
-  <EtherMonkeyEar.description>비록 다소 커졌지만, 이 귀는 [PAWN_nameDef]자신의 귀와 다소 닮았습니다.</EtherMonkeyEar.description>
-  <EtherMonkeyTail.label>원숭이 꼬리</EtherMonkeyTail.label>
-  <EtherMonkeyTail.description>길고 능수능란한 꼬리가 [PAWN_nameDef]의 척추 밑부분에서 뻗어 나왔습니다. 그것은 등반에는 도움이 되겠지만, 아무도 가장자리를 어떻게 타고 올라가는지는 모릅니다.</EtherMonkeyTail.description>
-  <EtherMonkeyHand.label>능수능란한 손</EtherMonkeyHand.label>
-  <EtherMonkeyHand.description>[PAWN_nameDef]의 손가락이 마치 원숭이의 손처럼 길게 뻗쳐 나왔습니다.</EtherMonkeyHand.description>
-  <EtherMonkeyFoot.label>능수능란한 발</EtherMonkeyFoot.label>
-  <EtherMonkeyFoot.description>[PAWN_nameDef]의 발은 손의 모습으로 변화했습니다. 이것은 신발을 신는 것을 다소 어렵게 만듭니다.</EtherMonkeyFoot.description>
-  <TFMilkAddiction.label>우유 중독</TFMilkAddiction.label>
-  <TFMilkAddiction.stages.1.label>취소</TFMilkAddiction.stages.1.label>
-  <TFEggAddiction.label>알 중독</TFEggAddiction.label>
-  <TFEggAddiction.stages.1.label>취소</TFEggAddiction.stages.1.label>
-  <TFPlantAddiction.label>변이 식물 중독</TFPlantAddiction.label>
-  <TFPlantAddiction.stages.1.label>취소</TFPlantAddiction.stages.1.label>
-  <TFDirtInEyes.label>변이성 먼지</TFDirtInEyes.label>
-  <TFDirtInEyes.labelNoun>변이성 먼지</TFDirtInEyes.labelNoun>
-  <OozeInEyes.label>새어나옴</OozeInEyes.label>
-  <OozeInEyes.labelNoun>새어나옴</OozeInEyes.labelNoun>
+  <MutagenicBuildup_LargeExplosion.description>변형 유인 메카나이트에 높은 수준으로 노출된 결과, 그것들이 폰의 신체의 쌓이기 시작했습니다. 농도가 높아지게 된다면 변이를 일으킬 수 있습니다.</MutagenicBuildup_LargeExplosion.description>
+  <MutagenicBuildup.description>변형 유인 메카나이트에 높은 수준으로 노출된 결과, 그것들이 폰의 신체의 쌓이기 시작했습니다. 농도가 높아지게 된다면 변이를 일으킬 수 있습니다.</MutagenicBuildup.description>
   <MutagenicBuildup.label>돌연변이 발생도</MutagenicBuildup.label>
   <MutagenicBuildup.stages.0.label>초기</MutagenicBuildup.stages.0.label>
   <MutagenicBuildup.stages.1.label>초기</MutagenicBuildup.stages.1.label>
@@ -546,420 +153,368 @@
   <MutagenicBuildup.stages.5.label>극심함</MutagenicBuildup.stages.5.label>
   <MutagenicBuildup.stages.6.label>극심함</MutagenicBuildup.stages.6.label>
   <MutagenicBuildup.stages.7.label>극심함</MutagenicBuildup.stages.7.label>
-  <FullRandomTF.label>카오모프</FullRandomTF.label>
-  <FullRandomTF.stages.0.label>감아내기</FullRandomTF.stages.0.label>
-  <FullRandomTF.stages.1.label>변이</FullRandomTF.stages.1.label>
-  <FullRandomTFAnyOutcome.label>카오모프</FullRandomTFAnyOutcome.label>
-  <FullRandomTFAnyOutcome.stages.0.label>감아내기</FullRandomTFAnyOutcome.stages.0.label>
-  <FullRandomTFAnyOutcome.stages.1.label>변이</FullRandomTFAnyOutcome.stages.1.label>
-  <PawnmorphFoxTF.label>폭스모프</PawnmorphFoxTF.label>
-  <PawnmorphFoxTF.stages.0.label>감아내기</PawnmorphFoxTF.stages.0.label>
-  <PawnmorphFoxTF.stages.1.label>변이</PawnmorphFoxTF.stages.1.label>
-  <PawnmorphHuskyTF.label>허스키모프</PawnmorphHuskyTF.label>
-  <PawnmorphHuskyTF.stages.0.label>감아내기</PawnmorphHuskyTF.stages.0.label>
-  <PawnmorphHuskyTF.stages.1.label>변이</PawnmorphHuskyTF.stages.1.label>
-  <PawnmorphWargTF.label>와르그모프</PawnmorphWargTF.label>
-  <PawnmorphWargTF.stages.0.label>감아내기</PawnmorphWargTF.stages.0.label>
-  <PawnmorphWargTF.stages.1.label>변이</PawnmorphWargTF.stages.1.label>
-  <PawnmorphWolfTF.label>울프모프</PawnmorphWolfTF.label>
-  <PawnmorphWolfTF.stages.0.label>감아내기</PawnmorphWolfTF.stages.0.label>
-  <PawnmorphWolfTF.stages.1.label>변이</PawnmorphWolfTF.stages.1.label>
-  <PawnmorphBearTF.label>베어모프</PawnmorphBearTF.label>
-  <PawnmorphBearTF.stages.0.label>감아내기</PawnmorphBearTF.stages.0.label>
-  <PawnmorphBearTF.stages.1.label>변이</PawnmorphBearTF.stages.1.label>
-  <PawnmorphChickenTF.label>코크모프</PawnmorphChickenTF.label>
-  <PawnmorphChickenTF.stages.0.label>감아내기</PawnmorphChickenTF.stages.0.label>
-  <PawnmorphChickenTF.stages.1.label>변이</PawnmorphChickenTF.stages.1.label>
-  <PawnmorphCowTF.label>카우모프</PawnmorphCowTF.label>
-  <PawnmorphCowTF.stages.0.label>감아내기</PawnmorphCowTF.stages.0.label>
-  <PawnmorphCowTF.stages.1.label>변이</PawnmorphCowTF.stages.1.label>
-  <PawnmorphPigTF.label>피그모프</PawnmorphPigTF.label>
-  <PawnmorphPigTF.stages.0.label>감아내기</PawnmorphPigTF.stages.0.label>
-  <PawnmorphPigTF.stages.1.label>변이</PawnmorphPigTF.stages.1.label>
-  <PawnmorphBoarTF.label>보어모프</PawnmorphBoarTF.label>
-  <PawnmorphBoarTF.stages.0.label>감아내기</PawnmorphBoarTF.stages.0.label>
-  <PawnmorphBoarTF.stages.1.label>변이</PawnmorphBoarTF.stages.1.label>
-  <PawnmorphDeerTF.label>디어모프</PawnmorphDeerTF.label>
-  <PawnmorphDeerTF.stages.0.label>감아내기</PawnmorphDeerTF.stages.0.label>
-  <PawnmorphDeerTF.stages.1.label>변이</PawnmorphDeerTF.stages.1.label>
-  <PawnmorphRatTF.label>렛모프</PawnmorphRatTF.label>
-  <PawnmorphRatTF.stages.0.label>감아내기</PawnmorphRatTF.stages.0.label>
-  <PawnmorphRatTF.stages.1.label>변이</PawnmorphRatTF.stages.1.label>
-  <PawnmorphBoomalopeTF.label>붐모프</PawnmorphBoomalopeTF.label>
-  <PawnmorphBoomalopeTF.stages.0.label>감아내기</PawnmorphBoomalopeTF.stages.0.label>
-  <PawnmorphBoomalopeTF.stages.1.label>변이</PawnmorphBoomalopeTF.stages.1.label>
-  <PawnmorphAlpacaTF.label>알파카모프</PawnmorphAlpacaTF.label>
-  <PawnmorphAlpacaTF.stages.0.label>감아내기</PawnmorphAlpacaTF.stages.0.label>
-  <PawnmorphAlpacaTF.stages.1.label>변이</PawnmorphAlpacaTF.stages.1.label>
-  <PawnmorphGunshotTF.label>에테르모프</PawnmorphGunshotTF.label>
+  <PawnmorphGunshotTF.description>이 폰은 강력하고 빠르게 작용하는 변형 유인 메카나이트가 주입되었습니다. 높은 확률로 다른 무언가로 빠르게 변하고, 그로인한 일시적인 마비현상을 겪을 수 있습니다.</PawnmorphGunshotTF.description>
+  <PawnmorphGunshotTF.label>정신변이</PawnmorphGunshotTF.label>
   <PawnmorphGunshotTF.stages.0.label>감아내기</PawnmorphGunshotTF.stages.0.label>
   <PawnmorphGunshotTF.stages.1.label>변이-무력화</PawnmorphGunshotTF.stages.1.label>
-  <TransformedHuman.label>인간이었던 것</TransformedHuman.label>
-  <TransformedHuman.stages.0.label>야생</TransformedHuman.stages.0.label>
-  <TransformedHuman.stages.1.label>야생</TransformedHuman.stages.1.label>
-  <TransformedHuman.stages.2.label>사피엔</TransformedHuman.stages.2.label>
-  <TransformedHuman.stages.3.label>정신병자</TransformedHuman.stages.3.label>
-  <TransformedHuman.description>[PAWN_defName](은)는 과거엔 인간이었지만 무슨 일이 있었는지 지금은 현태의 형태로 변이되었습니다. 하지만, [PAWN_pronoun]는 다시 되돌아갈 수 있습니다.</TransformedHuman.description>
-  <PermanentlyFeral.label>영구적인 야생인간</PermanentlyFeral.label>
-  <PermanentlyFeral.description>[PAWN_defName](은)는 한때 인간이었지만, [PAWN_pronoun]의 SDNA 내부에 흐르는 메카나이트가 [PAWN_pronoun]를 완전히 뒤바꾸어 버리고 말았습니다. [PAWN_pronoun]는 이제 남은 수명동안 이 형태로 살게 될 것입니다. 변이체 혈청으로도 변이는 일어나지 않습니다.</PermanentlyFeral.description>
-  <WasAnimal.label>동물이었던</WasAnimal.label>
-  <WasAnimal.stages.0.label>영구적</WasAnimal.stages.0.label>
-  <WasAnimal.stages.1.label>야생</WasAnimal.stages.1.label>
-  <WasAnimal.stages.2.label>사피엔</WasAnimal.stages.2.label>
-  <WasAnimal.stages.3.label>정신병자</WasAnimal.stages.3.label>
-  <WasAnimal.description>[PAWN_defName](은)는 동물로 변하고 말았지만, [PAWN_pronoun]에겐 더 잘 된 일일 것입니다. 하지만, [PAWN_pronoun]는 자신의 상태에 행복해하지 않습니다.</WasAnimal.description>
-  <WasMergedRelieved.label>뒤섞인</WasMergedRelieved.label>
-  <WasMergedRelieved.stages.0.label>영구적</WasMergedRelieved.stages.0.label>
-  <WasMergedRelieved.stages.1.label>야생</WasMergedRelieved.stages.1.label>
-  <WasMergedRelieved.stages.2.label>사피엔</WasMergedRelieved.stages.2.label>
-  <WasMergedRelieved.stages.3.label>정신병자</WasMergedRelieved.stages.3.label>
-  <WasMergedRelieved.description>[PAWN_defName](은)는 다른  이들과 함께 살과 살점들이 무질서하게 뒤섞여 결합되어버렸지만, [PAWN_pronoun]는 그 통찰을 매우 가치있게 생각하고 있습니다.</WasMergedRelieved.description>
-  <WasMerged.label>뒤섞인</WasMerged.label>
-  <WasMerged.stages.0.label>영구적</WasMerged.stages.0.label>
-  <WasMerged.stages.1.label>야생</WasMerged.stages.1.label>
-  <WasMerged.stages.2.label>사피엔</WasMerged.stages.2.label>
-  <WasMerged.stages.3.label>정신병자</WasMerged.stages.3.label>
-  <WasMerged.description>[PAWN_defName](은)는 다른  이들과 함께 살과 살점들이 무질서하게 뒤섞여 결합되어버렸고, [PAWN_pronoun]는 그 경험으로 인해 매우 큰 상처를 받고 말았습니다.</WasMerged.description>
-  <WasAnimalRelieved.label>동물이었던</WasAnimalRelieved.label>
-  <WasAnimalRelieved.stages.0.label>영구적</WasAnimalRelieved.stages.0.label>
-  <WasAnimalRelieved.stages.1.label>야생</WasAnimalRelieved.stages.1.label>
-  <WasAnimalRelieved.stages.2.label>사피엔</WasAnimalRelieved.stages.2.label>
-  <WasAnimalRelieved.stages.3.label>정신병자</WasAnimalRelieved.stages.3.label>
-  <WasAnimalRelieved.description>[PAWN_defName](은)는 동물로 변하고 말았지만, [PAWN_pronoun]에겐 더 잘 된 일일 것입니다. 하지만, [PAWN_pronoun]는 이 경험을 새로운 학습의 기회로 생각하고 있습니다.</WasAnimalRelieved.description>
-  <EtherBroken.label>에테르브로큰</EtherBroken.label>
-  <EtherProductiveBliss.label>에테르브로큰</EtherProductiveBliss.label>
-  <EtherBond.label>에테르본드</EtherBond.label>
-  <ProductionPillUdderEffect.label>생산량 증가</ProductionPillUdderEffect.label>
-  <ProductionPillChemfuelUdderEffect.label>생산량 증가</ProductionPillChemfuelUdderEffect.label>
-  <ProductionPillEggEffect.label>생산량 증가</ProductionPillEggEffect.label>
-  <EtherUdder.label>젖통</EtherUdder.label>
-  <EtherUdder.stages.1.label>생산적인</EtherUdder.stages.1.label>
-  <EtherUdder.stages.2.label>매우 생산적인</EtherUdder.stages.2.label>
-  <EtherUdder.stages.3.label>생산적인 행복</EtherUdder.stages.3.label>
-  <EtherUdder.description>이건 정말 설명할 필요가 없어보입니다. [PAWN_nameDef](은)는 이제 우유를 짜낼 수 있습니다.</EtherUdder.description>
-  <EtherChemfuelUdder.label>화학적 젖통</EtherChemfuelUdder.label>
-  <EtherChemfuelUdder.stages.1.label>생산적인</EtherChemfuelUdder.stages.1.label>
-  <EtherChemfuelUdder.stages.2.label>매우 생산적인</EtherChemfuelUdder.stages.2.label>
-  <EtherChemfuelUdder.stages.3.label>생산적인 행복</EtherChemfuelUdder.stages.3.label>
-  <EtherChemfuelUdder.description>[PAWN_nameDef]의 젖통은 화학연료로 가득찬 주머니로, 이제 화학련료를 생산할 수 있습니다.</EtherChemfuelUdder.description>
-  <EtherWooly.label>털복숭이</EtherWooly.label>
-  <EtherWooly.description>이제 [PAWN_nameDef]의 몸에서는 두꺼운 털실이 끊임없이 자라납니다. [PAWN_pronoun]에게서 털을 깎아낼 수 있습니다.</EtherWooly.description>
-  <EtherEggLayer.label>산란관</EtherEggLayer.label>
-  <EtherEggLayer.stages.1.label>생산적인</EtherEggLayer.stages.1.label>
-  <EtherEggLayer.stages.2.label>매우 생산적인</EtherEggLayer.stages.2.label>
-  <EtherEggLayer.stages.3.label>생산적인 행복</EtherEggLayer.stages.3.label>
-  <EtherEggLayer.description>[PAWN_nameDef](은)는 이제 알을 낳을 수 있습니다. 하지만 그 사실을 굳이 말하지도, 그 사실을 아는 누구도 묻지않을 것입니다. 좀... 민망하니까요.</EtherEggLayer.description>
-  <EtherClaws.label>발톱있는</EtherClaws.label>
-  <EtherClaws.comps.0.tools.0.label>뾰족한</EtherClaws.comps.0.tools.0.label>
-  <EtherClaws.description>[PAWN_nameDef]의 손톱이 벗겨지고, 대신 날카로운 발톱이 그 자리를 차지합니다.. 이는 [PAWN_pronoun]는 전투에서 사용할 수 있는 새로운 무기를 얻었으며, 또한 자신의 엉덩이를 닦기가 어려워졌다는 것을 의미합니다.</EtherClaws.description>
-  <EtherHorns.label>뿔</EtherHorns.label>
-  <EtherHorns.comps.0.tools.0.label>뿔난</EtherHorns.comps.0.tools.0.label>
-  <EtherHorns.description>굵은 뿔이 [PAWN_nameDef]의 머리를 장식하고 있습니다.</EtherHorns.description>
-  <EtherAntlers.label>뿔</EtherAntlers.label>
-  <EtherAntlers.comps.0.tools.0.label>뿔난</EtherAntlers.comps.0.tools.0.label>
-  <EtherAntlers.stages.0.label>새끼사슴</EtherAntlers.stages.0.label>
-  <EtherAntlers.stages.1.label>사슴</EtherAntlers.stages.1.label>
-  <EtherAntlers.stages.2.label>수사슴</EtherAntlers.stages.2.label>
-  <EtherAntlers.description>구불구불한 뿔이 [PAWN_nameDef]의 머리를 장식하고 있습니다.</EtherAntlers.description>
-  <EtherThrumboHorn.label>트럼보 뿔</EtherThrumboHorn.label>
-  <EtherThrumboHorn.comps.0.tools.0.label>끝부분</EtherThrumboHorn.comps.0.tools.0.label>
-  <EtherThrumboHorn.comps.0.tools.1.label>몸체</EtherThrumboHorn.comps.0.tools.1.label>
-  <EtherThrumboHorn.description>면도날처럼 날카로운 트럼보의 뿔이 [PAWN_nameDef]의 머리를 장식하고 있습니다.</EtherThrumboHorn.description>
-  <EtherMuzzle.label>주둥이</EtherMuzzle.label>
-  <EtherMuzzle.comps.0.tools.0.label>이빨</EtherMuzzle.comps.0.tools.0.label>
-  <EtherMuzzle.description>[PAWN_nameDef]의 얼굴이 개과의 그것처럼 변형되었습니다. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherMuzzle.description>
-  <EtherWargMuzzle.label>와르그 주둥이</EtherWargMuzzle.label>
-  <EtherWargMuzzle.comps.0.tools.0.label>이빨</EtherWargMuzzle.comps.0.tools.0.label>
-  <EtherWargMuzzle.description>[PAWN_nameDef]의 얼굴이 개과의 그것처럼 변형되었습니다. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherWargMuzzle.description>
-  <EtherWolfMuzzle.label>늑대 주둥이</EtherWolfMuzzle.label>
-  <EtherWolfMuzzle.comps.0.tools.0.label>이빨</EtherWolfMuzzle.comps.0.tools.0.label>
-  <EtherWolfMuzzle.description>[PAWN_nameDef]의 얼굴이 고대 개과의 그것처럼 변형되었습니다. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherWolfMuzzle.description>
-  <EtherHuskyMuzzle.label>개 주둥이</EtherHuskyMuzzle.label>
-  <EtherHuskyMuzzle.comps.0.tools.0.label>이빨</EtherHuskyMuzzle.comps.0.tools.0.label>
-  <EtherHuskyMuzzle.description>[PAWN_nameDef]의 얼굴이 허스키의 그것처럼 변형되었습니다.. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherHuskyMuzzle.description>
-  <EtherFoxMuzzle.label>여우 주둥이</EtherFoxMuzzle.label>
-  <EtherFoxMuzzle.comps.0.tools.0.label>이빨</EtherFoxMuzzle.comps.0.tools.0.label>
-  <EtherFoxMuzzle.description>[PAWN_nameDef]의 얼굴이 여우의 그것처럼 변형되었습니다.. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherFoxMuzzle.description>
-  <EtherCatMuzzle.label>고양이 주둥이</EtherCatMuzzle.label>
-  <EtherCatMuzzle.comps.0.tools.0.label>이빨</EtherCatMuzzle.comps.0.tools.0.label>
-  <EtherCatMuzzle.description>[PAWN_nameDef]의 얼굴이 고양이의 그것처럼 변형되었습니다.. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherCatMuzzle.description>
-  <EtherBearMuzzle.label>곰 주둥이</EtherBearMuzzle.label>
-  <EtherBearMuzzle.comps.0.tools.0.label>이빨</EtherBearMuzzle.comps.0.tools.0.label>
-  <EtherBearMuzzle.description>[PAWN_nameDef]의 얼굴이 개과의 그것처럼 변형되었습니다. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherBearMuzzle.description>
-  <EtherSnout.label>코</EtherSnout.label>
-  <EtherSnout.comps.0.tools.0.label>이빨</EtherSnout.comps.0.tools.0.label>
-  <EtherSnout.description>[PAWN_nameDef]의 얼굴이 변형되었습니다.</EtherSnout.description>
-  <EtherDeerSnout.label>사슴 코</EtherDeerSnout.label>
-  <EtherDeerSnout.comps.0.tools.0.label>이빨</EtherDeerSnout.comps.0.tools.0.label>
-  <EtherDeerSnout.description>[PAWN_nameDef]의 코끝이 사슴의 그것 처럼 넓어지면서 얼굴을 스치는 포식자의 냄새를 잡아냅니다.</EtherDeerSnout.description>
-  <EtherRatSnout.label>설치류 코</EtherRatSnout.label>
-  <EtherRatSnout.comps.0.tools.0.label>이빨</EtherRatSnout.comps.0.tools.0.label>
-  <EtherRatSnout.description>[PAWN_nameDef]의 얼굴에 난 주둥이가 헐렁해지고, 무엇이든 씹을 수 있는 긴 이빨이 드러납니다.</EtherRatSnout.description>
-  <EtherAlpacaSnout.label>털복숭이 코</EtherAlpacaSnout.label>
-  <EtherAlpacaSnout.comps.0.tools.0.label>이빨</EtherAlpacaSnout.comps.0.tools.0.label>
-  <EtherAlpacaSnout.description>[PAWN_nameDef]의 얼굴이 변형되며, 침을 뱉기에 완벽한 주둥이가 되었습니다.</EtherAlpacaSnout.description>
-  <EtherBoomalopeSnout.label>폭탄 코</EtherBoomalopeSnout.label>
-  <EtherBoomalopeSnout.comps.0.tools.0.label>이빨</EtherBoomalopeSnout.comps.0.tools.0.label>
-  <EtherBoomalopeSnout.description>[PAWN_nameDef]의 얼굴이 변형되면서 화학연료의 숨길 수 없는 냄새가 코를 찌릅니다.</EtherBoomalopeSnout.description>
-  <EtherThrumboSnout.label>트럼보 코</EtherThrumboSnout.label>
-  <EtherThrumboSnout.comps.0.tools.0.label>이빨</EtherThrumboSnout.comps.0.tools.0.label>
-  <EtherThrumboSnout.description>[PAWN_nameDef]의 얼굴이 변형되면서 화려하고 푹신한, 우아한 주둥이가 시선을 끕니다.</EtherThrumboSnout.description>
-  <EtherPigSnout.label>돼지 코</EtherPigSnout.label>
-  <EtherPigSnout.comps.1.tools.0.label>이빨</EtherPigSnout.comps.1.tools.0.label>
-  <EtherPigSnout.description>[PAWN_nameDef](이)가 코를 찡그리며 나무의 뿌리와 열매를 찾아 땅바닥을 킁킁거립니다.</EtherPigSnout.description>
-  <EtherBoarSnout.label>어금니 코</EtherBoarSnout.label>
-  <EtherBoarSnout.comps.1.tools.0.label>이빨</EtherBoarSnout.comps.1.tools.0.label>
-  <EtherBoarSnout.comps.1.tools.1.label>어금니</EtherBoarSnout.comps.1.tools.1.label>
-  <EtherBoarSnout.description>[PAWN_nameDef]의 얼굴이 변형되며, 식물의 뿌리를 캐내기에 적합한 어금니가 자라났습니다.</EtherBoarSnout.description>
-  <EtherTrunk.label>코끼리 코</EtherTrunk.label>
-  <EtherTrunk.comps.0.tools.0.label>어금니</EtherTrunk.comps.0.tools.0.label>
-  <EtherTrunk.comps.0.tools.1.label>코끼리 코</EtherTrunk.comps.0.tools.1.label>
-  <EtherTrunk.description>[PAWN_nameDef]의 얼굴이 변형되며, 두 개의 뾰족한 어금니와 함께 기다란 코가 [PAWN_pronoun]의 얼굴에 자라납니다.</EtherTrunk.description>
-  <EtherCowSnout.label>소 코</EtherCowSnout.label>
-  <EtherCowSnout.comps.0.tools.0.label>이빨</EtherCowSnout.comps.0.tools.0.label>
-  <EtherCowSnout.description>[PAWN_nameDef]의 얼굴이 변형되었습니다. 마치 소처럼 커다란 코가, 코뚜레를 걸기에 적합해보입니다.</EtherCowSnout.description>
-  <EtherBeak.label>부리</EtherBeak.label>
-  <EtherBeak.comps.0.tools.0.label>부리</EtherBeak.comps.0.tools.0.label>
-  <EtherBeak.description>[PAWN_nameDef]의 얼굴이 닭의 부리처럼 변형되었습니다. 이제 사람이 먹는 밥에 대해서는 불평이 늘어나겠네요.</EtherBeak.description>
-  <EtherCatEye.label>고양이 눈</EtherCatEye.label>
-  <EtherCatEye.description> [PAWN_nameDef]의 눈동자가 가늘어지고, 눈색은 황금빛으로 변합니다. 이들의 눈은 사람을 홀리는 듯 합니다.</EtherCatEye.description>
-  <EtherFoxEye.label>황소 눈</EtherFoxEye.label>
-  <EtherFoxEye.description>[PAWN_nameDef]의 눈동자가 맑고 총명해지며, 그 속에 여유와 멍청함이 깃듭니다. [PAWN_pronoun](은)는 이제 사물을 더 깊게 바라보고, 그 눈으로 사람들을 매료시킬 것입니다.</EtherFoxEye.description>
-  <EtherTail.label>꼬리</EtherTail.label>
-  <EtherTail.description>일반적인 꼬리입니다.</EtherTail.description>
-  <EtherThrumboTail.label>트럼보 꼬리</EtherThrumboTail.label>
-  <EtherThrumboTail.description>유연하고 매끈한 털로 뒤덮힌 푹신푹신한 트럼보의 꼬리입니다.</EtherThrumboTail.description>
-  <EtherRatTail.label>털 없는 꼬리</EtherRatTail.label>
-  <EtherRatTail.description>털이 없는 뾰족한 꼬리로, 마치 기다란 뱀 같습니다.</EtherRatTail.description>
-  <EtherElephantTail.label>코끼리</EtherElephantTail.label>
-  <EtherElephantTail.description>코끼리의 꼬리입니다. 부드럽게 휘두르면서 파리를 쫓아냅니다.</EtherElephantTail.description>
-  <EtherWolfTail.label>늑대 꼬리</EtherWolfTail.label>
-  <EtherWolfTail.description>일반적인 꼬리입니다.</EtherWolfTail.description>
-  <EtherCowTail.label>소 꼬리</EtherCowTail.label>
-  <EtherCowTail.description>소의 그것과 같은 꼬리입니다. 그것은 다리 아래로 늘어져 휙휙대며 파리를 쫓아냅니다.</EtherCowTail.description>
-  <EtherShortTail.label>짧은 꼬리</EtherShortTail.label>
-  <EtherShortTail.description>[PAWN_nameDef]의 척추에서 뻗어나온 짧은 꼬리가 위험을 감지할 때 마다 빳빳해집니다.</EtherShortTail.description>
-  <EtherBearTail.label>곰 꼬리</EtherBearTail.label>
-  <EtherBearTail.description>매우 짧은, 곰의 꼬리입니다. 사실, 별로 꼬리랄만한 길이도 아닙니다. 정말로요.</EtherBearTail.description>
-  <EtherCurlyTail.label>돌돌 말린 꼬리</EtherCurlyTail.label>
-  <EtherCurlyTail.description>돼지의 꼬부라진 꼬리로, 먹을게 가까이에 있으면 베베꼬입니다.</EtherCurlyTail.description>
-  <EtherRoughCurlyTail.label>털이 많은 돌돌 말린 꼬리</EtherRoughCurlyTail.label>
-  <EtherRoughCurlyTail.description>멧돼지의 꼬부라진 꼬리로, 송로버섯 냄새를 맡으면 꿈틀거립니다.</EtherRoughCurlyTail.description>
-  <EtherCatTail.label>고양이 꼬리</EtherCatTail.label>
-  <EtherCatTail.description>긴 고양이과 동물의 꼬리로, [PAWN_nameDef]가 불쾌감을 느낄 때마다 앞뒤로 세게 흔들립니다.</EtherCatTail.description>
-  <EtherAlpacaTail.label>털 달린 꼬리</EtherAlpacaTail.label>
-  <EtherAlpacaTail.description>털이 북실북실한 꼬리로, 마치 구름같습니다.</EtherAlpacaTail.description>
-  <EtherFluffyTail.label>솜털 꼬리</EtherFluffyTail.label>
-  <EtherFluffyTail.description>[PAWN_nameDef]의 척추에서 이어져나온 솜털처럼 보송보송한 여우 꼬리입니다. 오, 방금 살짝 살랑거린 것 같지 않나요?</EtherFluffyTail.description>
-  <EtherHuskyTail.label>돌돌 말린 솜털 꼬리</EtherHuskyTail.label>
-  <EtherHuskyTail.description>[PAWN_nameDef]의 등 위로 솜털처럼 푹신한 허스키의 꼬리가 드리워져있습니다. 오, 방금 살짝 살랑거린 것 같지 않나요?</EtherHuskyTail.description>
-  <EtherWargTail.label>털술이 달린 꼬리</EtherWargTail.label>
-  <EtherWargTail.description>끝 부분에 털 뭉치가 달려있는 얇은 꼬리입니다.</EtherWargTail.description>
-  <EtherFurredLimb.label>부드러운 털로 뒤덮인</EtherFurredLimb.label>
-  <EtherFurredLimb.description>북실한 털이 [PAWN_nameDef]의 온 몸을 뒤덮고, 보온을 유지하는데 도움을 주는 부드러운 외투가 되어줍니다.</EtherFurredLimb.description>
-  <EtherFeatheredLimb.label>깃털 달린</EtherFeatheredLimb.label>
-  <EtherFeatheredLimb.description>[PAWN_nameDef]의 팔 위로 깃털이 돋아나 약간의 보온성을 제공합니다. 그리고... 아뇨, 날지는 못합니다.</EtherFeatheredLimb.description>
-  <EtherTailfeathers.label>꼬리털</EtherTailfeathers.label>
-  <EtherTailfeathers.description>[PAWN_nameDef]의 엉덩이 사이에 닭의 꼬리같은 기다란 깃털들이 돋아납니다.</EtherTailfeathers.description>
-  <EtherThickFurLimb.label>두터운 털</EtherThickFurLimb.label>
-  <EtherThickFurLimb.description>두터운 털로 뒤덮인 팔다리는 보온성이 좋아 매우 따뜻합니다.</EtherThickFurLimb.description>
-  <EtherHideLimb.label>가죽</EtherHideLimb.label>
-  <EtherHideLimb.description>온 몸에 두꺼운 가죽이 형성되어 약간의 자연적인 방어력을 더해줍니다.</EtherHideLimb.description>
-  <EtherThickHideLimb.label>두꺼운 가죽</EtherThickHideLimb.label>
-  <EtherThickHideLimb.description>매우 거칠고, 두꺼운 가죽같은 피부가 온 몸을 뒤덮고 있어 자연적으로 상당한 방어력을 더해줍니다.</EtherThickHideLimb.description>
-  <EtherPawHand.label>발톱</EtherPawHand.label>
-  <EtherPawHand.comps.0.tools.0.label>손톱</EtherPawHand.comps.0.tools.0.label>
-  <EtherPawHand.description>귀엽긴 하지만 유연하지 못한 발이 [PAWN_nameDef]의 손을 대신했습니다. 하지만 엄지손가락은 퇴화되어 쓸모없어진 며느리발톱이 되었습니다.</EtherPawHand.description>
-  <EtherElephantFoot.label>코끼리 발</EtherElephantFoot.label>
-  <EtherElephantFoot.comps.0.tools.0.label>박살내기</EtherElephantFoot.comps.0.tools.0.label>
-  <EtherElephantFoot.description>[PAWN_nameDef](이)가 가는 곳 마다 우레와같은 발소리가 뒤따릅니다.</EtherElephantFoot.description>
-  <EtherBearPawHand.label>거대한 발</EtherBearPawHand.label>
-  <EtherBearPawHand.comps.0.tools.0.label>뾰족한</EtherBearPawHand.comps.0.tools.0.label>
-  <EtherBearPawHand.description>거대하고, 발톱있는 치명적인 발이 인간의 고운 손을 대신합니다. 조작에는 덜 유용하지만, 싸울 때는 [PAWN_nameDef](을)를 짐승으로 만들어 줄 것입니다.</EtherBearPawHand.description>
-  <EtherDextrousPawHand.label>유연한 발</EtherDextrousPawHand.label>
-  <EtherDextrousPawHand.comps.0.tools.0.label>손톱</EtherDextrousPawHand.comps.0.tools.0.label>
-  <EtherDextrousPawHand.description>다행히도, 이 유연한 발은 [PAWN_nameDef]의 엄지손가락을 남겨두었습니다.</EtherDextrousPawHand.description>
-  <EtherWingTip.label>날개끝</EtherWingTip.label>
-  <EtherWingTip.description>[PAWN_nameDef]의 손가락 끝에서 깃털이 자라나와 닭껍질같은 살덩어리를 가려줍니다.</EtherWingTip.description>
-  <EtherWing.label>날개</EtherWing.label>
-  <EtherWing.description>[PAWN_nameDef]의 팔이 뒤틀려 날개로 변했지만, 날 수 있을 만큼 튼튼하지는 못합니다. 하지만 보기엔 좋잖아요? 그거면 된거지!</EtherWing.description>
-  <EtherAvianFoot.label>조류</EtherAvianFoot.label>
-  <EtherAvianFoot.comps.0.tools.0.label>조류 발톱</EtherAvianFoot.comps.0.tools.0.label>
-  <EtherAvianFoot.description>[PAWN_nameDef]의 발가락은 긴 새의 발톱처럼 변해 물건을 잡거나 누군가의 얼굴을 긁어버리는데 안성맞춤입니다.</EtherAvianFoot.description>
-  <EtherPawFoot.label>발톱</EtherPawFoot.label>
-  <EtherPawFoot.description>[PAWN_nameDef]의 발톱이 자라나와 두꺼운 모피를 찢고 그 날카로운 모습을 드러냅니다.</EtherPawFoot.description>
-  <EtherRatFoot.label>설치류</EtherRatFoot.label>
-  <EtherRatFoot.description>[PAWN_nameDef]의 발은 뾰족하고 길지만, 털이 없고 창백합니다.</EtherRatFoot.description>
-  <EtherElephantLeg.label>코끼리</EtherElephantLeg.label>
-  <EtherElephantLeg.description>[PAWN_nameDef]의 다리는 매우 굵으며, 단단한 회색 가죽으로 덮여있습니다.</EtherElephantLeg.description>
-  <EtherClovenHoofFoot.label>쪽발굽</EtherClovenHoofFoot.label>
-  <EtherClovenHoofFoot.description>[PAWN_nameDef]의 발톱은 굵어지고, 가운데가 갈라지면서 발굽이 되었습니다.</EtherClovenHoofFoot.description>
-  <EtherUnclovenHoofFoot.label>발굽</EtherUnclovenHoofFoot.label>
-  <EtherUnclovenHoofFoot.description>[PAWN_nameDef]의 발은 말 발굽처럼 단일 형태의 두꺼운 발굽이 되었습니다.</EtherUnclovenHoofFoot.description>
-  <EtherHoofHand.label>발굽</EtherHoofHand.label>
-  <EtherHoofHand.description>조금 무섭지만, [PAWN_nameDef]의 손은 이제 발굽이 되었습니다. 물건을 쥐거나 도구를 움켜쥐는 등 엄지손가락이 필요한 일을 하는 것은 이제 매우 어려운 일일 것입니다.</EtherHoofHand.description>
-  <EtherTrotterHand.label>족발</EtherTrotterHand.label>
-  <EtherTrotterHand.description>[PAWN_nameDef]의 손은 이제 족발을 닯게 변해 무언가를 쥘 수 있는 능력은 거의 없습니다.</EtherTrotterHand.description>
-  <EtherTrotterFoot.label>족발</EtherTrotterFoot.label>
-  <EtherTrotterFoot.description>작은 발굽이 한때 [PAWN_nameDef]의 발이 있던 자리에 자리잡았습니다. 무언가를 가리키는 것은... 여전히 가능은 합니다.</EtherTrotterFoot.description>
-  <EtherDigitigradeLeg.label>역관절</EtherDigitigradeLeg.label>
-  <EtherDigitigradeLeg.description>[PAWN_nameDef]의 다리모양은 인간보다는 짐승에 가깝습니다. [PAWN_pronoun]는 이제 발꿈치가 아닌 발 끝으로 서있습니다. 하지만 이는 [PAWN_pronoun]의 발걸음을 가볍게 해줄 것입니다.</EtherDigitigradeLeg.description>
-  <EtherBearEar.label>곰</EtherBearEar.label>
-  <EtherBearEar.description>[PAWN_nameDef]의 머리 뒤쪽으로 둥글고 털이 복실한 귀가 놓여져있습니다. 이제 사람보다 약간 더 잘 듣게 될 것입니다.</EtherBearEar.description>
-  <EtherThrumboEar.label>트럼보</EtherThrumboEar.label>
-  <EtherDeerEar.label>사슴</EtherDeerEar.label>
-  <EtherRatEar.label>설치류</EtherRatEar.label>
-  <EtherElephantEar.label>코끼리</EtherElephantEar.label>
-  <EtherAlpacaEar.label>양모</EtherAlpacaEar.label>
-  <EtherWolfEar.label>늑대</EtherWolfEar.label>
-  <EtherFoxEar.label>여우</EtherFoxEar.label>
-  <EtherFoxEar.description>큰 삼격형의 왕관같은 귀가 [PAWN_nameDef]의 머리에서 자신이 감지하는 모든 소리를 향해 휙휙 돌아갑니다. 이들은 매우 예민하니까, 제발 소리치지 마세요.</EtherFoxEar.description>
-  <EtherCowEar.label>소</EtherCowEar.label>
-  <EtherFurryEar.label>복실한</EtherFurryEar.label>
-  <EtherPointedEar.label>뾰족한</EtherPointedEar.label>
-  <EtherPigEar.label>돼지</EtherPigEar.label>
-  <EtherBoarEar.label>돼지</EtherBoarEar.label>
-  <EtherHuskyEar.label>개과</EtherHuskyEar.label>
-  <EtherCatEar.label>고양이</EtherCatEar.label>
-  <EtherWargEar.label>와르그</EtherWargEar.label>
-  <EtherDogEar.label>축쳐진</EtherDogEar.label>
-  <EtherBoomalopeEar.label>폭탄사슴</EtherBoomalopeEar.label>
-  <PawnmorphElephantTF.label>엘레펀트모프</PawnmorphElephantTF.label>
-  <PawnmorphElephantTF.stages.0.label>감아내기</PawnmorphElephantTF.stages.0.label>
-  <PawnmorphElephantTF.stages.1.label>변이</PawnmorphElephantTF.stages.1.label>
-  <PawnmorphThrumboTF.label>트럼보모프</PawnmorphThrumboTF.label>
-  <PawnmorphThrumboTF.stages.0.label>감아내기</PawnmorphThrumboTF.stages.0.label>
-  <PawnmorphThrumboTF.stages.1.label>변이</PawnmorphThrumboTF.stages.1.label>
-  <PawnmorphFoxTFPartial.label>불완전한 폭스모프</PawnmorphFoxTFPartial.label>
-  <PawnmorphFoxTFPartial.stages.0.label>변이</PawnmorphFoxTFPartial.stages.0.label>
-  <PawnmorphHuskyTFPartial.label>불완전한 허스키모프</PawnmorphHuskyTFPartial.label>
-  <PawnmorphHuskyTFPartial.stages.0.label>변이</PawnmorphHuskyTFPartial.stages.0.label>
-  <PawnmorphWargTFPartial.label>불완전한 와르그모프</PawnmorphWargTFPartial.label>
-  <PawnmorphWargTFPartial.stages.0.label>변이</PawnmorphWargTFPartial.stages.0.label>
-  <PawnmorphWolfTFPartial.label>불완전한 울프모프</PawnmorphWolfTFPartial.label>
-  <PawnmorphWolfTFPartial.stages.0.label>변이</PawnmorphWolfTFPartial.stages.0.label>
-  <PawnmorphBearTFPartial.label>불완전한 베어모프</PawnmorphBearTFPartial.label>
-  <PawnmorphBearTFPartial.stages.0.label>변이</PawnmorphBearTFPartial.stages.0.label>
-  <PawnmorphChickenTFPartial.label>불완전한 코크모프</PawnmorphChickenTFPartial.label>
-  <PawnmorphChickenTFPartial.stages.0.label>변이</PawnmorphChickenTFPartial.stages.0.label>
-  <PawnmorphCowTFPartial.label>불완전한 카우모프</PawnmorphCowTFPartial.label>
-  <PawnmorphCowTFPartial.stages.0.label>변이</PawnmorphCowTFPartial.stages.0.label>
-  <PawnmorphPigTFPartial.label>불완전한 피그모프</PawnmorphPigTFPartial.label>
-  <PawnmorphPigTFPartial.stages.0.label>변이</PawnmorphPigTFPartial.stages.0.label>
-  <PawnmorphBoarTFPartial.label>불완전한 보어모프</PawnmorphBoarTFPartial.label>
-  <PawnmorphBoarTFPartial.stages.0.label>변이</PawnmorphBoarTFPartial.stages.0.label>
-  <PawnmorphDeerTFPartial.label>불완전한 디어모프</PawnmorphDeerTFPartial.label>
-  <PawnmorphDeerTFPartial.stages.0.label>변이</PawnmorphDeerTFPartial.stages.0.label>
-  <PawnmorphRatTFPartial.label>불완전한 렛모프</PawnmorphRatTFPartial.label>
-  <PawnmorphRatTFPartial.stages.0.label>변이</PawnmorphRatTFPartial.stages.0.label>
-  <PawnmorphBoomalopeTFPartial.label>불완전한 붐모프</PawnmorphBoomalopeTFPartial.label>
-  <PawnmorphBoomalopeTFPartial.stages.0.label>변이</PawnmorphBoomalopeTFPartial.stages.0.label>
-  <PawnmorphAlpacaTFPartial.label>불완전한 알파카모프</PawnmorphAlpacaTFPartial.label>
-  <PawnmorphAlpacaTFPartial.stages.0.label>변이</PawnmorphAlpacaTFPartial.stages.0.label>
-  <PawnmorphPigTF.label>피그모프</PawnmorphPigTF.label>
-  <PawnmorphPigTF.stages.0.label>감아내기</PawnmorphPigTF.stages.0.label>
-  <PawnmorphPigTF.stages.1.label>변이중</PawnmorphPigTF.stages.1.label>
-  <PawnmorphPigTF.stages.2.label>동물화중</PawnmorphPigTF.stages.2.label>
-  <PawnmorphPigTFPartial.label>불완전한 피그모프</PawnmorphPigTFPartial.label>
-  <EtherPigSnout.label>돼지 주둥이</EtherPigSnout.label>
-  <EtherPigSnout.comps.3.tools.0.label>이빨</EtherPigSnout.comps.3.tools.0.label>
-  <EtherPigSnout.stages.1.label>적응됨</EtherPigSnout.stages.1.label>
-  <EtherPigSnout.description>[PAWN_nameDef](이)가 코를 찡그리며 나무의 뿌리와 열매를 찾아 땅바닥을 킁킁거립니다.</EtherPigSnout.description>
-  <EtherPigEar.label>돼지 귀</EtherPigEar.label>
-  <EtherPigEar.description>크고 분홍색의 돼지 같은 귀가 고운 머리카락으로 뒤덮인 [PAWN_nameDef]의 머리 꼭대기에 돋아 났습니다.</EtherPigEar.description>
-  <EtherCurlyTail.label>돌돌 말린 꼬리</EtherCurlyTail.label>
-  <EtherCurlyTail.description>돼지의 꼬부라진 꼬리로, 먹을게 가까이에 있으면 베베꼬입니다.</EtherCurlyTail.description>
-  <PawnmorphRatTF.label>렛모프</PawnmorphRatTF.label>
-  <PawnmorphRatTF.stages.0.label>감아내기</PawnmorphRatTF.stages.0.label>
-  <PawnmorphRatTF.stages.1.label>변이중</PawnmorphRatTF.stages.1.label>
-  <PawnmorphRatTF.stages.2.label>동물화중</PawnmorphRatTF.stages.2.label>
-  <PawnmorphRatTFPartial.label>불완전한 렛모프</PawnmorphRatTFPartial.label>
-  <EtherRatSnout.label>설치류 주둥이</EtherRatSnout.label>
-  <EtherRatSnout.comps.2.tools.0.label>이빨</EtherRatSnout.comps.2.tools.0.label>
-  <EtherRatSnout.stages.1.label>적응됨</EtherRatSnout.stages.1.label>
-  <EtherRatSnout.description>[PAWN_nameDef]의 얼굴에 난 주둥이가 헐렁해지고, 무엇이든 씹을 수 있는 긴 이빨이 드러납니다.</EtherRatSnout.description>
-  <EtherRatEar.label>설치류 귀</EtherRatEar.label>
-  <EtherRatEar.description>회색빛의 둥근 귀가 포식자를 향해 주의깊게 듣습니다.</EtherRatEar.description>
-  <EtherRatTail.label>털 없는 꼬리</EtherRatTail.label>
-  <EtherRatTail.description>털이 없는 뾰족한 꼬리로, 마치 기다란 뱀 같습니다.</EtherRatTail.description>
-  <EtherDextrousPawHand.label>유연한 발</EtherDextrousPawHand.label>
-  <EtherDextrousPawHand.comps.2.tools.0.label>발톱</EtherDextrousPawHand.comps.2.tools.0.label>
-  <EtherDextrousPawHand.stages.0.label>낯섬</EtherDextrousPawHand.stages.0.label>
-  <EtherDextrousPawHand.stages.1.label>적응됨</EtherDextrousPawHand.stages.1.label>
-  <EtherDextrousPawHand.description>다행히도, 이 유연한 발은 [PAWN_nameDef]의 엄지손가락을 남겨두었습니다.</EtherDextrousPawHand.description>
-  <EtherRatFoot.label>설치류</EtherRatFoot.label>
-  <EtherRatFoot.description>[PAWN_nameDef]의 발은 뾰족하고 길지만, 털이 없고 창백합니다.</EtherRatFoot.description>
-  <PawnmorphSnakeTF.label>스네이크모프</PawnmorphSnakeTF.label>
+  <TransformationParalysis.label>변이 무력화</TransformationParalysis.label>
+  <TransformationParalysis.description>갑작스러운 전신의 변이에 의한 충격</TransformationParalysis.description>
+  <SyringeRifleHediff.label>에테르 변이체</SyringeRifleHediff.label>
+  <SyringeRifleHediff.description>이 폰은 강력하고 빠르게 작용하는 변형 유인 메카나이트가 주입되었습니다. 높은 확률로 다른 무언가로 빠르게 변하고, 그로인한 일시적인 마비현상을 겪을 수 있습니다.</SyringeRifleHediff.description>
+  <PawnmorphAlpacaTF.label>알파카 변이체</PawnmorphAlpacaTF.label>
+  <PawnmorphAlpacaTF.description>이 사람의 혈액에는 신체를 천천히 알파카 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 알파카에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphAlpacaTF.description>
+  <PawnmorphAlpacaTF.stages.0.label>감아내기</PawnmorphAlpacaTF.stages.0.label>
+  <PawnmorphAlpacaTF.stages.1.label>변이중</PawnmorphAlpacaTF.stages.1.label>
+  <PawnmorphAlpacaTF.stages.1.letterText>변신단계경고내용</PawnmorphAlpacaTF.stages.1.letterText>
+  <PawnmorphAlpacaTF.stages.1.letterLabel>변신단계경고제목</PawnmorphAlpacaTF.stages.1.letterLabel>
+  <PawnmorphAlpacaTF.stages.2.label>동물화중</PawnmorphAlpacaTF.stages.2.label>
+  <PawnmorphAlpacaTFPartial.label>불완전한 알파카 변이체</PawnmorphAlpacaTFPartial.label>
+  <PawnmorphAlpacaTFPartial.description>이 사람의 혈액속에는 알파카와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphAlpacaTFPartial.description>
+  <PawnmorphBearTF.label>곰 변이체</PawnmorphBearTF.label>
+  <PawnmorphBearTF.description>이 사람의 혈액에는 신체를 천천히 곰 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 곰에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphBearTF.description>
+  <PawnmorphBearTF.stages.0.label>감아내기</PawnmorphBearTF.stages.0.label>
+  <PawnmorphBearTF.stages.1.label>변이중</PawnmorphBearTF.stages.1.label>
+  <PawnmorphBearTF.stages.1.letterText>변신단계경고내용</PawnmorphBearTF.stages.1.letterText>
+  <PawnmorphBearTF.stages.1.letterLabel>변신단계경고제목</PawnmorphBearTF.stages.1.letterLabel>
+  <PawnmorphBearTF.stages.2.label>동물화중</PawnmorphBearTF.stages.2.label>
+  <PawnmorphBearTFPartial.label>불완전한 곰 변이체</PawnmorphBearTFPartial.label>
+  <PawnmorphBearTFPartial.description>이 사람의 혈액속에는 불곰과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphBearTFPartial.description>
+  <PawnmorphPolarBearTF.label>곰 변이체</PawnmorphPolarBearTF.label>
+  <PawnmorphPolarBearTF.description>이 사람의 혈액에는 신체를 천천히 곰 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 북극곰에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphPolarBearTF.description>
+  <PawnmorphPolarBearTF.stages.0.label>감아내기</PawnmorphPolarBearTF.stages.0.label>
+  <PawnmorphPolarBearTF.stages.1.label>변이</PawnmorphPolarBearTF.stages.1.label>
+  <PawnmorphPolarBearTF.stages.1.letterText>변신단계경고내용</PawnmorphPolarBearTF.stages.1.letterText>
+  <PawnmorphPolarBearTF.stages.1.letterLabel>변신단계경고제목</PawnmorphPolarBearTF.stages.1.letterLabel>
+  <PawnmorphPolarBearTF.stages.2.label>바뀌는 중</PawnmorphPolarBearTF.stages.2.label>
+  <PawnmorphPolarBearTFPartial.label>불완전한 곰 변이체</PawnmorphPolarBearTFPartial.label>
+  <PawnmorphPolarBearTFPartial.description>이 사람의 혈액속에는 북극곰과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphPolarBearTFPartial.description>
+  <PawnmorphBoarTF.label>멧돼지 변이체</PawnmorphBoarTF.label>
+  <PawnmorphBoarTF.description>이 사람의 혈액에는 신체를 천천히 멧돼지 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 멧돼지에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphBoarTF.description>
+  <PawnmorphBoarTF.stages.0.label>감아내기</PawnmorphBoarTF.stages.0.label>
+  <PawnmorphBoarTF.stages.1.label>변이중</PawnmorphBoarTF.stages.1.label>
+  <PawnmorphBoarTF.stages.1.letterText>변신단계경고내용</PawnmorphBoarTF.stages.1.letterText>
+  <PawnmorphBoarTF.stages.1.letterLabel>변신단계경고제목</PawnmorphBoarTF.stages.1.letterLabel>
+  <PawnmorphBoarTF.stages.2.label>동물화중</PawnmorphBoarTF.stages.2.label>
+  <PawnmorphBoarTFPartial.label>불완전한 멧돼지 변이체</PawnmorphBoarTFPartial.label>
+  <PawnmorphBoarTFPartial.description>이 사람의 혈액속에는 멧돼지 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphBoarTFPartial.description>
+  <PawnmorphBoomalopeTF.label>폭탄사슴 변이체</PawnmorphBoomalopeTF.label>
+  <PawnmorphBoomalopeTF.description>이 사람의 혈액에는 신체를 천천히 폭탄사슴 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 폭탄사슴에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphBoomalopeTF.description>
+  <PawnmorphBoomalopeTF.stages.0.label>감아내기</PawnmorphBoomalopeTF.stages.0.label>
+  <PawnmorphBoomalopeTF.stages.1.label>변이중</PawnmorphBoomalopeTF.stages.1.label>
+  <PawnmorphBoomalopeTF.stages.1.letterText>변신단계경고내용</PawnmorphBoomalopeTF.stages.1.letterText>
+  <PawnmorphBoomalopeTF.stages.1.letterLabel>변신단계경고제목</PawnmorphBoomalopeTF.stages.1.letterLabel>
+  <PawnmorphBoomalopeTF.stages.2.label>동물화중</PawnmorphBoomalopeTF.stages.2.label>
+  <PawnmorphBoomalopeTFPartial.label>불완전한 폭탄사슴 변이체</PawnmorphBoomalopeTFPartial.label>
+  <PawnmorphBoomalopeTFPartial.description>이 사람의 혈액속에는 폭탄사슴과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphBoomalopeTFPartial.description>
+  <PawnmorphCatTF.label>고양이 변이체</PawnmorphCatTF.label>
+  <PawnmorphCatTF.description>이 사람의 혈액에는 신체를 천천히 고양이 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 고양이에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphCatTF.description>
+  <PawnmorphCatTF.stages.0.label>감아내기</PawnmorphCatTF.stages.0.label>
+  <PawnmorphCatTF.stages.1.label>변이중</PawnmorphCatTF.stages.1.label>
+  <PawnmorphCatTF.stages.1.letterText>변신단계경고내용</PawnmorphCatTF.stages.1.letterText>
+  <PawnmorphCatTF.stages.1.letterLabel>변신단계경고제목</PawnmorphCatTF.stages.1.letterLabel>
+  <PawnmorphCatTF.stages.2.label>동물화중</PawnmorphCatTF.stages.2.label>
+  <PawnmorphCatTFPartial.label>불완전한 고양이 변이체</PawnmorphCatTFPartial.label>
+  <PawnmorphCatTFPartial.description>이 사람의 혈액속에는 고양이 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphCatTFPartial.description>
+  <FullRandomTFAnyOutcome.label>혼돈변이체</FullRandomTFAnyOutcome.label>
+  <FullRandomTFAnyOutcome.description>This person has raw, unfocused mechanites simultaniously mutating them into every animal imaginable. Pray to Randy they don't come out the other end on all fours.</FullRandomTFAnyOutcome.description>
+  <FullRandomTFAnyOutcome.stages.0.label>감아내기</FullRandomTFAnyOutcome.stages.0.label>
+  <FullRandomTFAnyOutcome.stages.1.label>변이중</FullRandomTFAnyOutcome.stages.1.label>
+  <FullRandomTFAnyOutcome.stages.2.label>동물화중</FullRandomTFAnyOutcome.stages.2.label>
+  <FullRandomTF.label>혼돈변이체</FullRandomTF.label>
+  <FullRandomTF.description>이 사람의 혈액속에는 모든 형태의 변이를 유도하는 메카나이트가 있습니다.</FullRandomTF.description>
+  <PawnmorphChickenTF.label>닭 변이체</PawnmorphChickenTF.label>
+  <PawnmorphChickenTF.description>이 사람의 혈액에는 신체를 천천히 닭 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 새에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphChickenTF.description>
+  <PawnmorphChickenTF.stages.0.label>감아내기</PawnmorphChickenTF.stages.0.label>
+  <PawnmorphChickenTF.stages.1.label>변이중</PawnmorphChickenTF.stages.1.label>
+  <PawnmorphChickenTF.stages.1.letterText>변신단계경고내용</PawnmorphChickenTF.stages.1.letterText>
+  <PawnmorphChickenTF.stages.1.letterLabel>변신단계경고제목</PawnmorphChickenTF.stages.1.letterLabel>
+  <PawnmorphChickenTF.stages.2.label>동물화중</PawnmorphChickenTF.stages.2.label>
+  <PawnmorphChickenTFPartial.label>불완전한 닭 변이체</PawnmorphChickenTFPartial.label>
+  <PawnmorphChickenTFPartial.description>이 사람의 혈액속에는 닭과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphChickenTFPartial.description>
+  <PawnmorphSnakeTF.label>코브라 변이체</PawnmorphSnakeTF.label>
+  <PawnmorphSnakeTF.description>이 사람의 혈액에는 신체를 천천히 코브라 변이체로 변이 시키는 메카나이트가 있습니다. 주의 하지 않으면 뱀과 같은 교활함에 당할 수 있습니다.</PawnmorphSnakeTF.description>
   <PawnmorphSnakeTF.stages.0.label>감아내기</PawnmorphSnakeTF.stages.0.label>
   <PawnmorphSnakeTF.stages.1.label>변이중</PawnmorphSnakeTF.stages.1.label>
+  <PawnmorphSnakeTF.stages.1.letterText>변신단계경고내용</PawnmorphSnakeTF.stages.1.letterText>
+  <PawnmorphSnakeTF.stages.1.letterLabel>변신단계경고제목</PawnmorphSnakeTF.stages.1.letterLabel>
   <PawnmorphSnakeTF.stages.2.label>동물화중</PawnmorphSnakeTF.stages.2.label>
-  <PawnmorphSnakeTFPartial.label>불완전한 스네이크모프</PawnmorphSnakeTFPartial.label>
-  <EtherSnakeJaw.label>독니가 있는 주둥이</EtherSnakeJaw.label>
-  <EtherSnakeJaw.comps.2.tools.0.label>독 이빨</EtherSnakeJaw.comps.2.tools.0.label>
-  <EtherSnakeJaw.comps.2.tools.1.label>변이 이빨</EtherSnakeJaw.comps.2.tools.1.label>
-  <EtherSnakeJaw.stages.0.label>낯섬</EtherSnakeJaw.stages.0.label>
-  <EtherSnakeJaw.stages.1.label>적응됨</EtherSnakeJaw.stages.1.label>
-  <EtherSnakeJaw.description>길게 움푹 들어간 송곳니가 [PAWN_nameDef]의 길게 늘어진 얼굴에서 튀어나와 비늘 같은 입술 사이에서 침이 뚝뚝 떨어뜨리게 합니다. 이것은 독성 물질과 돌연변이 유발 물질을 둘 다 함유하고 있습니다.</EtherSnakeJaw.description>
-  <EtherSnakeHood.label>코브라 후드</EtherSnakeHood.label>
-  <EtherSnakeHood.description>커다란 뱀 덜미가 [PAWN_nameDef]의 머리 주변을 감싸고 있어 위협적인 모습을 하고 있습니다.</EtherSnakeHood.description>
-  <EtherSnakeTail.label>뱀 꼬리</EtherSnakeTail.label>
-  <EtherSnakeTail.stages.0.label>낯섬</EtherSnakeTail.stages.0.label>
-  <EtherSnakeTail.stages.1.label>적응됨</EtherSnakeTail.stages.1.label>
-  <EtherSnakeTail.description>크고 근육질인 꼬리가 [PAWN_nameDef]의 다리를 대신하여 하반신이 뱀의 다리처럼 변했습니다.</EtherSnakeTail.description>
-  <EtherSnakeHand.label>뱀 발톱</EtherSnakeHand.label>
-  <EtherSnakeHand.comps.2.tools.0.label>뱀 발톱</EtherSnakeHand.comps.2.tools.0.label>
-  <EtherSnakeHand.description>역설적으로 [PAWN_nameDef]의 손은 비늘로 덮인 발톱이 있으며, 복잡한 조작을 위해 매우 정교하게 움직일 수 있습니다.</EtherSnakeHand.description>
-  <EtherSnakeEye.label>뱀눈</EtherSnakeEye.label>
-  <EtherSnakeEye.description>[PAWN_nameDef]의 눈은 눈부시게 노랗게 변했고, 그들의 동공은 작고 얇은 구멍이 되었습니다.</EtherSnakeEye.description>
-  <PawnmorphThrumboTF.label>트럼보모프</PawnmorphThrumboTF.label>
+  <PawnmorphSnakeTFPartial.label>불완전한 코브라 변이체</PawnmorphSnakeTFPartial.label>
+  <PawnmorphSnakeTFPartial.description>이 사람의 혈액속에는 코브라 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSnakeTFPartial.description>
+  <PM_HellhoundTf.label>지옥개 변이체</PM_HellhoundTf.label>
+  <PM_HellhoundTf.description>이 사람의 혈액에는 신체를 천천히 개 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 개와 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PM_HellhoundTf.description>
+  <PM_HellhoundTf.stages.0.label>감아내기</PM_HellhoundTf.stages.0.label>
+  <PM_HellhoundTf.stages.1.label>변이중</PM_HellhoundTf.stages.1.label>
+  <PM_HellhoundTf.stages.1.letterText>변신단계경고내용</PM_HellhoundTf.stages.1.letterText>
+  <PM_HellhoundTf.stages.1.letterLabel>변신단계경고제목</PM_HellhoundTf.stages.1.letterLabel>
+  <PM_HellhoundTf.stages.2.label>동물화중</PM_HellhoundTf.stages.2.label>
+  <PM_HellhoundTfPartial.label>불완전한 지옥개 변이체</PM_HellhoundTfPartial.label>
+  <PM_HellhoundTfPartial.description>이 사람의 혈액속에는 지옥개 변이를 유도하는 메카나이트가 있습니다.</PM_HellhoundTfPartial.description>
+  <PawnmorphCougarTF.label>퓨마 변이체</PawnmorphCougarTF.label>
+  <PawnmorphCougarTF.description>이 사람의 혈액에는 신체를 천천히 퓨마 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 고양이과에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphCougarTF.description>
+  <PawnmorphCougarTF.stages.0.label>감아내기</PawnmorphCougarTF.stages.0.label>
+  <PawnmorphCougarTF.stages.1.label>변이중</PawnmorphCougarTF.stages.1.label>
+  <PawnmorphCougarTF.stages.1.letterText>변신단계경고내용</PawnmorphCougarTF.stages.1.letterText>
+  <PawnmorphCougarTF.stages.1.letterLabel>변신단계경고제목</PawnmorphCougarTF.stages.1.letterLabel>
+  <PawnmorphCougarTF.stages.2.label>동물화중</PawnmorphCougarTF.stages.2.label>
+  <PawnmorphCougarTFPartial.label>불완전한 퓨마 변이체</PawnmorphCougarTFPartial.label>
+  <PawnmorphCougarTFPartial.description>이 사람의 혈액속에는 퓨마같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphCougarTFPartial.description>
+  <PawnmorphCowTF.label>소 변이체</PawnmorphCowTF.label>
+  <PawnmorphCowTF.description>이 사람의 혈액에는 신체를 천천히 소 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 소와 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphCowTF.description>
+  <PawnmorphCowTF.stages.0.label>감아내기</PawnmorphCowTF.stages.0.label>
+  <PawnmorphCowTF.stages.1.label>변이중</PawnmorphCowTF.stages.1.label>
+  <PawnmorphCowTF.stages.1.letterText>변신단계경고내용</PawnmorphCowTF.stages.1.letterText>
+  <PawnmorphCowTF.stages.1.letterLabel>변신단계경고제목</PawnmorphCowTF.stages.1.letterLabel>
+  <PawnmorphCowTF.stages.2.label>동물화중</PawnmorphCowTF.stages.2.label>
+  <PawnmorphCowTFPartial.label>불완전한 소 변이체</PawnmorphCowTFPartial.label>
+  <PawnmorphCowTFPartial.description>이 사람의 혈액속에는 소와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphCowTFPartial.description>
+  <PawnmorphDeerTF.label>사슴 변이체</PawnmorphDeerTF.label>
+  <PawnmorphDeerTF.description>이 사람의 혈액에는 신체를 천천히 사슴 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 사슴과 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphDeerTF.description>
+  <PawnmorphDeerTF.stages.0.label>감아내기</PawnmorphDeerTF.stages.0.label>
+  <PawnmorphDeerTF.stages.1.label>변이중</PawnmorphDeerTF.stages.1.label>
+  <PawnmorphDeerTF.stages.1.letterText>변신단계경고내용</PawnmorphDeerTF.stages.1.letterText>
+  <PawnmorphDeerTF.stages.1.letterLabel>변신단계경고제목</PawnmorphDeerTF.stages.1.letterLabel>
+  <PawnmorphDeerTF.stages.2.label>동물화중</PawnmorphDeerTF.stages.2.label>
+  <PawnmorphDeerTFPartial.label>불완전한 사슴 변이체</PawnmorphDeerTFPartial.label>
+  <PawnmorphDeerTFPartial.description>이 사람의 혈액속에는 사슴과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphDeerTFPartial.description>
+  <PawnmorphDonkeyTF.label>당나귀 변이체</PawnmorphDonkeyTF.label>
+  <PawnmorphDonkeyTF.description>이 사람의 혈액에는 신체를 천천히 당나귀 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 당나귀 울음소리를 더 자주 들어야 할 수도 있으니, 주의 바랍니다.</PawnmorphDonkeyTF.description>
+  <PawnmorphDonkeyTF.stages.0.label>감아내기</PawnmorphDonkeyTF.stages.0.label>
+  <PawnmorphDonkeyTF.stages.1.label>변이중</PawnmorphDonkeyTF.stages.1.label>
+  <PawnmorphDonkeyTF.stages.1.letterText>변신단계경고내용</PawnmorphDonkeyTF.stages.1.letterText>
+  <PawnmorphDonkeyTF.stages.1.letterLabel>변신단계경고제목</PawnmorphDonkeyTF.stages.1.letterLabel>
+  <PawnmorphDonkeyTF.stages.2.label>동물화중</PawnmorphDonkeyTF.stages.2.label>
+  <PawnmorphDonkeyTFPartial.label>불완전한 당나귀 변이체</PawnmorphDonkeyTFPartial.label>
+  <PawnmorphDonkeyTFPartial.description>이 사람의 혈액속에는 당나귀와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphDonkeyTFPartial.description>
+  <PawnmorphElephantTF.label>코끼리 변이체</PawnmorphElephantTF.label>
+  <PawnmorphElephantTF.description>이 사람의 혈액에는 신체를 천천히 코끼리 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 상상 이상으로 거대해 질 수 있으니 주의 바랍니다.</PawnmorphElephantTF.description>
+  <PawnmorphElephantTF.stages.0.label>감아내기</PawnmorphElephantTF.stages.0.label>
+  <PawnmorphElephantTF.stages.1.label>변이중</PawnmorphElephantTF.stages.1.label>
+  <PawnmorphElephantTF.stages.1.letterText>변신단계경고내용</PawnmorphElephantTF.stages.1.letterText>
+  <PawnmorphElephantTF.stages.1.letterLabel>변신단계경고제목</PawnmorphElephantTF.stages.1.letterLabel>
+  <PawnmorphElephantTF.stages.2.label>동물화중</PawnmorphElephantTF.stages.2.label>
+  <PawnmorphElephantTFPartial.label>불완전한 코끼리 변이체</PawnmorphElephantTFPartial.label>
+  <PawnmorphElephantTFPartial.description>이 사람의 혈액속에는 코끼리와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphElephantTFPartial.description>
+  <PawnmorphArcticFoxTF.label>여우 변이체</PawnmorphArcticFoxTF.label>
+  <PawnmorphArcticFoxTF.description>이 사람의 혈액에는 신체를 천천히 북극 여우 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 여우에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphArcticFoxTF.description>
+  <PawnmorphArcticFoxTF.stages.0.label>감아내기</PawnmorphArcticFoxTF.stages.0.label>
+  <PawnmorphArcticFoxTF.stages.1.label>변이중</PawnmorphArcticFoxTF.stages.1.label>
+  <PawnmorphArcticFoxTF.stages.1.letterText>변신단계경고내용</PawnmorphArcticFoxTF.stages.1.letterText>
+  <PawnmorphArcticFoxTF.stages.1.letterLabel>변신단계경고제목</PawnmorphArcticFoxTF.stages.1.letterLabel>
+  <PawnmorphArcticFoxTF.stages.2.label>동물화중</PawnmorphArcticFoxTF.stages.2.label>
+  <PawnmorphArcticFoxTFPartial.label>불완전한 북극여우 변이체</PawnmorphArcticFoxTFPartial.label>
+  <PawnmorphArcticFoxTFPartial.description>이 사람의 혈액속에는 북극 여우같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphArcticFoxTFPartial.description>
+  <PawnmorphFennecFoxTF.label>여우 변이체</PawnmorphFennecFoxTF.label>
+  <PawnmorphFennecFoxTF.description>이 사람의 혈액에는 신체를 천천히 여우 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 여우에 가까운 결과물을 초래할수 있으니 주의 바랍니다. 하지만, 그게 그렇게나 나쁜걸까요?</PawnmorphFennecFoxTF.description>
+  <PawnmorphFennecFoxTF.stages.0.label>감아내기</PawnmorphFennecFoxTF.stages.0.label>
+  <PawnmorphFennecFoxTF.stages.1.label>변이중</PawnmorphFennecFoxTF.stages.1.label>
+  <PawnmorphFennecFoxTF.stages.1.letterText>변신단계경고내용</PawnmorphFennecFoxTF.stages.1.letterText>
+  <PawnmorphFennecFoxTF.stages.1.letterLabel>변신단계경고제목</PawnmorphFennecFoxTF.stages.1.letterLabel>
+  <PawnmorphFennecFoxTF.stages.2.label>동물화중</PawnmorphFennecFoxTF.stages.2.label>
+  <PawnmorphFennecFoxTFPartial.label>불완전한 사막여우 변이체</PawnmorphFennecFoxTFPartial.label>
+  <PawnmorphFennecFoxTFPartial.description>이 사람의 혈액속에는 사막 여우와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphFennecFoxTFPartial.description>
+  <PawnmorphFoxTF.label>여우 변이체</PawnmorphFoxTF.label>
+  <PawnmorphFoxTF.description>이 사람의 혈액에는 신체를 천천히 북극 여우 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 이와 같은 개채들 보다 훨씬 영악한 존재로 거듭날 수도 있습니다.</PawnmorphFoxTF.description>
+  <PawnmorphFoxTF.stages.0.label>감아내기</PawnmorphFoxTF.stages.0.label>
+  <PawnmorphFoxTF.stages.1.label>변이중</PawnmorphFoxTF.stages.1.label>
+  <PawnmorphFoxTF.stages.1.letterText>변신단계경고내용</PawnmorphFoxTF.stages.1.letterText>
+  <PawnmorphFoxTF.stages.1.letterLabel>변신단계경고제목</PawnmorphFoxTF.stages.1.letterLabel>
+  <PawnmorphFoxTF.stages.2.label>동물화중</PawnmorphFoxTF.stages.2.label>
+  <PawnmorphFoxTFPartial.label>불완전한 여우 변이체</PawnmorphFoxTFPartial.label>
+  <PawnmorphFoxTFPartial.description>이 사람의 혈액속에는 여우와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphFoxTFPartial.description>
+  <PawnmorphHareTF.label>토끼 변이체</PawnmorphHareTF.label>
+  <PawnmorphHareTF.description>이 사람의 혈액에는 신체를 천천히 토끼 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 토끼에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphHareTF.description>
+  <PawnmorphHareTF.stages.0.label>감아내기</PawnmorphHareTF.stages.0.label>
+  <PawnmorphHareTF.stages.1.label>변이중</PawnmorphHareTF.stages.1.label>
+  <PawnmorphHareTF.stages.1.letterText>변신단계경고내용</PawnmorphHareTF.stages.1.letterText>
+  <PawnmorphHareTF.stages.1.letterLabel>변신단계경고제목</PawnmorphHareTF.stages.1.letterLabel>
+  <PawnmorphHareTF.stages.2.label>동물화중</PawnmorphHareTF.stages.2.label>
+  <PawnmorphHareTFPartial.label>불완전한 토끼 변이체</PawnmorphHareTFPartial.label>
+  <PawnmorphHareTFPartial.description>이 사람의 혈액속에는 토끼와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphHareTFPartial.description>
+  <PawnmorphSnowhareTF.label>눈토끼 변이체</PawnmorphSnowhareTF.label>
+  <PawnmorphSnowhareTF.description>이 사람의 혈액에는 신체를 천천히 눈토끼 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 다산할 수도 있으니, 주의 바랍니다.</PawnmorphSnowhareTF.description>
+  <PawnmorphSnowhareTF.stages.0.label>감아내기</PawnmorphSnowhareTF.stages.0.label>
+  <PawnmorphSnowhareTF.stages.1.label>변이중</PawnmorphSnowhareTF.stages.1.label>
+  <PawnmorphSnowhareTF.stages.1.letterText>변신단계경고내용</PawnmorphSnowhareTF.stages.1.letterText>
+  <PawnmorphSnowhareTF.stages.1.letterLabel>변신단계경고제목</PawnmorphSnowhareTF.stages.1.letterLabel>
+  <PawnmorphSnowhareTF.stages.2.label>동물화중</PawnmorphSnowhareTF.stages.2.label>
+  <PawnmorphSnowhareTFPartial.label>불완전한 눈토끼 변이체</PawnmorphSnowhareTFPartial.label>
+  <PawnmorphSnowhareTFPartial.description>이 사람의 혈액속에는 눈토끼와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSnowhareTFPartial.description>
+  <PawnmorphHorseTF.label>말 변이체</PawnmorphHorseTF.label>
+  <PawnmorphHorseTF.description>이 사람의 혈액에는 신체를 천천히 말 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 마력을 느낄수도 있으니 주의 바랍니다.</PawnmorphHorseTF.description>
+  <PawnmorphHorseTF.stages.0.label>감아내기</PawnmorphHorseTF.stages.0.label>
+  <PawnmorphHorseTF.stages.1.label>변이중</PawnmorphHorseTF.stages.1.label>
+  <PawnmorphHorseTF.stages.1.letterText>변신단계경고내용</PawnmorphHorseTF.stages.1.letterText>
+  <PawnmorphHorseTF.stages.1.letterLabel>변신단계경고제목</PawnmorphHorseTF.stages.1.letterLabel>
+  <PawnmorphHorseTF.stages.2.label>동물화중</PawnmorphHorseTF.stages.2.label>
+  <PawnmorphHorseTFPartial.label>불완전한 말 변이체</PawnmorphHorseTFPartial.label>
+  <PawnmorphHorseTFPartial.description>이 사람의 혈액속에는 말과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphHorseTFPartial.description>
+  <PawnmorphHuskyTF.label>허스키 변이체</PawnmorphHuskyTF.label>
+  <PawnmorphHuskyTF.description>이 사람의 혈액에는 신체를 천천히 허스키 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 개에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphHuskyTF.description>
+  <PawnmorphHuskyTF.stages.0.label>감아내기</PawnmorphHuskyTF.stages.0.label>
+  <PawnmorphHuskyTF.stages.1.label>변이중</PawnmorphHuskyTF.stages.1.label>
+  <PawnmorphHuskyTF.stages.1.letterText>변신단계경고내용</PawnmorphHuskyTF.stages.1.letterText>
+  <PawnmorphHuskyTF.stages.1.letterLabel>변신단계경고제목</PawnmorphHuskyTF.stages.1.letterLabel>
+  <PawnmorphHuskyTF.stages.2.label>동물화중</PawnmorphHuskyTF.stages.2.label>
+  <PawnmorphHuskyTFPartial.label>불완전한 허스키 변이체</PawnmorphHuskyTFPartial.label>
+  <PawnmorphHuskyTFPartial.description>이 사람의 혈액속에는 허스키와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphHuskyTFPartial.description>
+  <PawnmorphIguanaTF.label>이구아나 변이체</PawnmorphIguanaTF.label>
+  <PawnmorphIguanaTF.description>이 사람의 혈액에는 신체를 천천히 이구아나 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 파충류에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphIguanaTF.description>
+  <PawnmorphIguanaTF.stages.0.label>감아내기</PawnmorphIguanaTF.stages.0.label>
+  <PawnmorphIguanaTF.stages.1.label>변이중</PawnmorphIguanaTF.stages.1.label>
+  <PawnmorphIguanaTF.stages.1.letterText>변신단계경고내용</PawnmorphIguanaTF.stages.1.letterText>
+  <PawnmorphIguanaTF.stages.1.letterLabel>변신단계경고제목</PawnmorphIguanaTF.stages.1.letterLabel>
+  <PawnmorphIguanaTF.stages.2.label>동물화중</PawnmorphIguanaTF.stages.2.label>
+  <PawnmorphIguanaTFPartial.label>불완전한 이구아나 변이체</PawnmorphIguanaTFPartial.label>
+  <PawnmorphIguanaTFPartial.description>이 사람의 혈액속에는 이구아나와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphIguanaTFPartial.description>
+  <PawnmorphLynxTF.label>삵 변이체</PawnmorphLynxTF.label>
+  <PawnmorphLynxTF.description>이 사람의 혈액에는 신체를 천천히 삵 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 고양이과에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphLynxTF.description>
+  <PawnmorphLynxTF.stages.0.label>감아내기</PawnmorphLynxTF.stages.0.label>
+  <PawnmorphLynxTF.stages.1.label>변이중</PawnmorphLynxTF.stages.1.label>
+  <PawnmorphLynxTF.stages.1.letterText>변신단계경고내용</PawnmorphLynxTF.stages.1.letterText>
+  <PawnmorphLynxTF.stages.1.letterLabel>변신단계경고제목</PawnmorphLynxTF.stages.1.letterLabel>
+  <PawnmorphLynxTF.stages.2.label>동물화중</PawnmorphLynxTF.stages.2.label>
+  <PawnmorphLynxTFPartial.label>불완전한 삵 변이체</PawnmorphLynxTFPartial.label>
+  <PawnmorphLynxTFPartial.description>이 사람의 혈액속에는 삵과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphLynxTFPartial.description>
+  <PawnmorphMegaslothTF.label>거대나무늘보 변이체</PawnmorphMegaslothTF.label>
+  <PawnmorphMegaslothTF.description>이 사람의 혈액에는 신체를 천천히 거대나무늘보 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 훨씬 복슬복슬한 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphMegaslothTF.description>
+  <PawnmorphMegaslothTF.stages.0.label>감아내기</PawnmorphMegaslothTF.stages.0.label>
+  <PawnmorphMegaslothTF.stages.1.label>변이중</PawnmorphMegaslothTF.stages.1.label>
+  <PawnmorphMegaslothTF.stages.1.letterText>변신단계경고내용</PawnmorphMegaslothTF.stages.1.letterText>
+  <PawnmorphMegaslothTF.stages.1.letterLabel>변신단계경고제목</PawnmorphMegaslothTF.stages.1.letterLabel>
+  <PawnmorphMegaslothTF.stages.2.label>동물화중</PawnmorphMegaslothTF.stages.2.label>
+  <PawnmorphMegaslothTFPartial.label>불완전한 거대나무늘보 변이체</PawnmorphMegaslothTFPartial.label>
+  <PawnmorphMegaslothTFPartial.description>이 사람의 혈액속에는 거대나무늘보와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphMegaslothTFPartial.description>
+  <PawnmorphMonkeyTF.label>원숭이 변이체</PawnmorphMonkeyTF.label>
+  <PawnmorphMonkeyTF.description>이 사람의 혈액에는 신체를 천천히 원숭이 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 지나가던 사람들에게 똥을 던질 수도 있으니 바랍니다.</PawnmorphMonkeyTF.description>
+  <PawnmorphMonkeyTF.stages.0.label>감아내기</PawnmorphMonkeyTF.stages.0.label>
+  <PawnmorphMonkeyTF.stages.1.label>변이중</PawnmorphMonkeyTF.stages.1.label>
+  <PawnmorphMonkeyTF.stages.1.letterText>변신단계경고내용</PawnmorphMonkeyTF.stages.1.letterText>
+  <PawnmorphMonkeyTF.stages.1.letterLabel>변신단계경고제목</PawnmorphMonkeyTF.stages.1.letterLabel>
+  <PawnmorphMonkeyTF.stages.2.label>동물화중</PawnmorphMonkeyTF.stages.2.label>
+  <PawnmorphMonkeyTFPartial.label>불완전한 원숭이 변이체</PawnmorphMonkeyTFPartial.label>
+  <PawnmorphMonkeyTFPartial.description>이 사람의 혈액속에는 원숭이와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphMonkeyTFPartial.description>
+  <PawnmorphPantherTF.label>흑표 변이체</PawnmorphPantherTF.label>
+  <PawnmorphPantherTF.description>이 사람의 혈액에는 신체를 천천히 흑표 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 고양이과에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphPantherTF.description>
+  <PawnmorphPantherTF.stages.0.label>감아내기</PawnmorphPantherTF.stages.0.label>
+  <PawnmorphPantherTF.stages.1.label>변이중</PawnmorphPantherTF.stages.1.label>
+  <PawnmorphPantherTF.stages.1.letterText>변신단계경고내용</PawnmorphPantherTF.stages.1.letterText>
+  <PawnmorphPantherTF.stages.1.letterLabel>변신단계경고제목</PawnmorphPantherTF.stages.1.letterLabel>
+  <PawnmorphPantherTF.stages.2.label>동물화중</PawnmorphPantherTF.stages.2.label>
+  <PawnmorphPantherTFPartial.label>불완전한 흑표 변이체</PawnmorphPantherTFPartial.label>
+  <PawnmorphPantherTFPartial.description>이 사람의 혈액속에는 흑표와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphPantherTFPartial.description>
+  <PawnmorphPigTF.label>돼지 변이체</PawnmorphPigTF.label>
+  <PawnmorphPigTF.description>이 사람의 혈액에는 신체를 천천히 돼지 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 돼지와 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphPigTF.description>
+  <PawnmorphPigTF.stages.0.label>감아내기</PawnmorphPigTF.stages.0.label>
+  <PawnmorphPigTF.stages.1.label>변이</PawnmorphPigTF.stages.1.label>
+  <PawnmorphPigTF.stages.1.letterText>변신단계경고내용</PawnmorphPigTF.stages.1.letterText>
+  <PawnmorphPigTF.stages.1.letterLabel>변신단계경고제목</PawnmorphPigTF.stages.1.letterLabel>
+  <PawnmorphPigTF.stages.2.label>동물화중</PawnmorphPigTF.stages.2.label>
+  <PawnmorphPigTFPartial.label>불완전한 돼지 변이체</PawnmorphPigTFPartial.label>
+  <PawnmorphPigTFPartial.description>이 사람의 혈액속에는 돼지와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphPigTFPartial.description>
+  <PawnmorphRaccoonTF.label>너구리 변이체</PawnmorphRaccoonTF.label>
+  <PawnmorphRaccoonTF.description>이 사람의 혈액에는 신체를 천천히 너구리 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 너구리에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphRaccoonTF.description>
+  <PawnmorphRaccoonTF.stages.0.label>감아내기</PawnmorphRaccoonTF.stages.0.label>
+  <PawnmorphRaccoonTF.stages.1.label>변이중</PawnmorphRaccoonTF.stages.1.label>
+  <PawnmorphRaccoonTF.stages.1.letterText>변신단계경고내용</PawnmorphRaccoonTF.stages.1.letterText>
+  <PawnmorphRaccoonTF.stages.1.letterLabel>변신단계경고제목</PawnmorphRaccoonTF.stages.1.letterLabel>
+  <PawnmorphRaccoonTF.stages.2.label>동물화중</PawnmorphRaccoonTF.stages.2.label>
+  <PawnmorphRaccoonTFPartial.label>불완전한 너구리 변이체</PawnmorphRaccoonTFPartial.label>
+  <PawnmorphRaccoonTFPartial.description>이 사람의 혈액속에는 너구리와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphRaccoonTFPartial.description>
+  <PawnmorphRatTF.label>쥐 변이체</PawnmorphRatTF.label>
+  <PawnmorphRatTF.description>이 사람의 혈액에는 신체를 천천히 쥐 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 쥐에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphRatTF.description>
+  <PawnmorphRatTF.stages.0.label>감아내기</PawnmorphRatTF.stages.0.label>
+  <PawnmorphRatTF.stages.1.label>변이</PawnmorphRatTF.stages.1.label>
+  <PawnmorphRatTF.stages.1.letterText>변신단계경고내용</PawnmorphRatTF.stages.1.letterText>
+  <PawnmorphRatTF.stages.1.letterLabel>변신단계경고제목</PawnmorphRatTF.stages.1.letterLabel>
+  <PawnmorphRatTF.stages.2.label>동물화중</PawnmorphRatTF.stages.2.label>
+  <PawnmorphRatTFPartial.label>불완전한 쥐 변이체</PawnmorphRatTFPartial.label>
+  <PawnmorphRatTFPartial.description>이 사람의 혈액속에는 쥐와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphRatTFPartial.description>
+  <PawnmorphRhinocerosTF.label>코뿔소 변이체</PawnmorphRhinocerosTF.label>
+  <PawnmorphRhinocerosTF.description>이 사람의 혈액에는 신체를 천천히 코뿔소 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 훨씬 뿔난 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphRhinocerosTF.description>
+  <PawnmorphRhinocerosTF.stages.0.label>감아내기</PawnmorphRhinocerosTF.stages.0.label>
+  <PawnmorphRhinocerosTF.stages.1.label>변이중</PawnmorphRhinocerosTF.stages.1.label>
+  <PawnmorphRhinocerosTF.stages.1.letterText>변신단계경고내용</PawnmorphRhinocerosTF.stages.1.letterText>
+  <PawnmorphRhinocerosTF.stages.1.letterLabel>변신단계경고제목</PawnmorphRhinocerosTF.stages.1.letterLabel>
+  <PawnmorphRhinocerosTF.stages.2.label>동물화중</PawnmorphRhinocerosTF.stages.2.label>
+  <PawnmorphRhinocerosTFPartial.label>불완전한 코뿔소 변이체</PawnmorphRhinocerosTFPartial.label>
+  <PawnmorphRhinocerosTFPartial.description>이 사람의 혈액속에는 코뿔소와같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphRhinocerosTFPartial.description>
+  <PawnmorphSheepTF.label>양 변이체</PawnmorphSheepTF.label>
+  <PawnmorphSheepTF.description>이 사람의 혈액에는 신체를 천천히 양 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 너무 양같이 될수 있으니 주의 바랍니다.</PawnmorphSheepTF.description>
+  <PawnmorphSheepTF.stages.0.label>감아내기</PawnmorphSheepTF.stages.0.label>
+  <PawnmorphSheepTF.stages.1.label>변이중</PawnmorphSheepTF.stages.1.label>
+  <PawnmorphSheepTF.stages.1.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</PawnmorphSheepTF.stages.1.letterText>
+  <PawnmorphSheepTF.stages.1.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</PawnmorphSheepTF.stages.1.letterLabel>
+  <PawnmorphSheepTF.stages.2.label>동물화중</PawnmorphSheepTF.stages.2.label>
+  <PawnmorphSheepTFPartial.label>불완전한 양 변이체</PawnmorphSheepTFPartial.label>
+  <PawnmorphSheepTFPartial.description>이 사람의 혈액속에는 양과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSheepTFPartial.description>
+  <PawnmorphSquirrelTF.label>다람쥐 변이체</PawnmorphSquirrelTF.label>
+  <PawnmorphSquirrelTF.description>이 사람의 혈액에는 신체를 천천히 다람쥐 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 다람쥐에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphSquirrelTF.description>
+  <PawnmorphSquirrelTF.stages.0.label>감아내기</PawnmorphSquirrelTF.stages.0.label>
+  <PawnmorphSquirrelTF.stages.1.label>변이중</PawnmorphSquirrelTF.stages.1.label>
+  <PawnmorphSquirrelTF.stages.1.letterText>변신단계경고내용</PawnmorphSquirrelTF.stages.1.letterText>
+  <PawnmorphSquirrelTF.stages.1.letterLabel>변신단계경고제목</PawnmorphSquirrelTF.stages.1.letterLabel>
+  <PawnmorphSquirrelTF.stages.2.label>동물화중</PawnmorphSquirrelTF.stages.2.label>
+  <PawnmorphSquirrelTFPartial.label>불완전한 양 변이체</PawnmorphSquirrelTFPartial.label>
+  <PawnmorphSquirrelTFPartial.description>이 사람의 혈액속에는 다람쥐와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSquirrelTFPartial.description>
+  <PawnmorphThrumboTF.label>트럼보 변이체</PawnmorphThrumboTF.label>
+  <PawnmorphThrumboTF.description>This person has mechanites in their blood that are slowly mutating them into a thrumbomorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far wiser.</PawnmorphThrumboTF.description>
   <PawnmorphThrumboTF.stages.0.label>감아내기</PawnmorphThrumboTF.stages.0.label>
-  <PawnmorphThrumboTF.stages.1.label>변이중</PawnmorphThrumboTF.stages.1.label>
+  <PawnmorphThrumboTF.stages.1.label>변이</PawnmorphThrumboTF.stages.1.label>
+  <PawnmorphThrumboTF.stages.1.letterText>변신단계경고내용</PawnmorphThrumboTF.stages.1.letterText>
+  <PawnmorphThrumboTF.stages.1.letterLabel>변신단계경고제목</PawnmorphThrumboTF.stages.1.letterLabel>
   <PawnmorphThrumboTF.stages.2.label>동물화중</PawnmorphThrumboTF.stages.2.label>
-  <PawnmorphThrumboTFPartial.label>불완전한 트럼보모프</PawnmorphThrumboTFPartial.label>
-  <EtherThrumboSnout.label>트럼보 주둥이</EtherThrumboSnout.label>
-  <EtherThrumboSnout.comps.2.tools.0.label>이빨</EtherThrumboSnout.comps.2.tools.0.label>
-  <EtherThrumboSnout.stages.1.label>적응됨</EtherThrumboSnout.stages.1.label>
-  <EtherThrumboSnout.description>[PAWN_nameDef]의 얼굴이 변형되면서 화려하고 푹신한, 우아한 주둥이가 시선을 끕니다.</EtherThrumboSnout.description>
-  <EtherThrumboEar.label>트럼보 귀</EtherThrumboEar.label>
-  <EtherThrumboEar.description>트럼보에게 귀가 있는 줄 몰랐지만, [PAWN_nameDef]는 그 문제를 잠재웠습니다. 네, 백색에 둥글고 아름다운 귀죠.</EtherThrumboEar.description>
-  <EtherThrumboTail.label>트럼보 꼬리</EtherThrumboTail.label>
-  <EtherThrumboTail.description>유연하고 매끈한 털로 뒤덮힌 푹신푹신한 트럼보의 꼬리입니다.</EtherThrumboTail.description>
-  <EtherThrumboHorn.label>트럼보 뿔</EtherThrumboHorn.label>
-  <EtherThrumboHorn.comps.2.tools.0.label>뾰족함</EtherThrumboHorn.comps.2.tools.0.label>
-  <EtherThrumboHorn.comps.2.tools.1.label>튼튼함</EtherThrumboHorn.comps.2.tools.1.label>
-  <EtherThrumboHorn.description>면도날처럼 날카로운 트럼보의 뿔이 [PAWN_nameDef]의 머리를 장식하고 있습니다.</EtherThrumboHorn.description>
-  <TFMilkAddiction.label>우유 중독</TFMilkAddiction.label>
-  <TFMilkAddiction.stages.0.label>중단</TFMilkAddiction.stages.0.label>
-  <TFEggAddiction.label>알 중독</TFEggAddiction.label>
-  <TFEggAddiction.stages.0.label>중단</TFEggAddiction.stages.0.label>
-  <SerumAddiction.label>혈청 중독</SerumAddiction.label>
-  <SerumAddiction.stages.0.label>중단</SerumAddiction.stages.0.label>
-  <StabiliserHigh.label>돌연변이 안정화</StabiliserHigh.label>
-  <PawnmorphWargTF.label>와르그모프</PawnmorphWargTF.label>
+  <PawnmorphThrumboTFPartial.label>불완전한 트럼보 변이체</PawnmorphThrumboTFPartial.label>
+  <PawnmorphThrumboTFPartial.description>이 사람의 혈액속에는 트럼보와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphThrumboTFPartial.description>
+  <PawnmorphTortoiseTF.label>거북이 변이체</PawnmorphTortoiseTF.label>
+  <PawnmorphTortoiseTF.description>!!!거북이 변이체 설명 없음!!!</PawnmorphTortoiseTF.description>
+  <PawnmorphTortoiseTF.stages.0.label>감아내기</PawnmorphTortoiseTF.stages.0.label>
+  <PawnmorphTortoiseTF.stages.1.label>변이중</PawnmorphTortoiseTF.stages.1.label>
+  <PawnmorphTortoiseTF.stages.1.letterText>변신단계경고내용</PawnmorphTortoiseTF.stages.1.letterText>
+  <PawnmorphTortoiseTF.stages.1.letterLabel>변신단계경고제목</PawnmorphTortoiseTF.stages.1.letterLabel>
+  <PawnmorphTortoiseTF.stages.2.label>동물화중</PawnmorphTortoiseTF.stages.2.label>
+  <PawnmorphTortoiseTFPartial.label>불왕전한 거북이 변이체</PawnmorphTortoiseTFPartial.label>
+  <PawnmorphTortoiseTFPartial.description>설명이 없습니다!</PawnmorphTortoiseTFPartial.description>
+  <PawnmorphWargTF.label>와르그 변이체</PawnmorphWargTF.label>
+  <PawnmorphWargTF.description>이 사람의 혈액에는 신체를 천천히 와르그 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 훨씬 포악한 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphWargTF.description>
   <PawnmorphWargTF.stages.0.label>감아내기</PawnmorphWargTF.stages.0.label>
-  <PawnmorphWargTF.stages.1.label>변이중</PawnmorphWargTF.stages.1.label>
+  <PawnmorphWargTF.stages.1.label>변이</PawnmorphWargTF.stages.1.label>
+  <PawnmorphWargTF.stages.1.letterText>변신단계경고내용</PawnmorphWargTF.stages.1.letterText>
+  <PawnmorphWargTF.stages.1.letterLabel>변신단계경고제목</PawnmorphWargTF.stages.1.letterLabel>
   <PawnmorphWargTF.stages.2.label>동물화중</PawnmorphWargTF.stages.2.label>
-  <PawnmorphWargTFPartial.label>불완전한 와르그모프</PawnmorphWargTFPartial.label>
-  <EtherWargMuzzle.label>와르그 주둥이</EtherWargMuzzle.label>
-  <EtherWargMuzzle.comps.2.tools.0.label>이빨</EtherWargMuzzle.comps.2.tools.0.label>
-  <EtherWargMuzzle.stages.1.label>적응됨</EtherWargMuzzle.stages.1.label>
-  <EtherWargMuzzle.description>[PAWN_nameDef]의 얼굴이 개과의 그것처럼 변형되었습니다. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherWargMuzzle.description>
-  <EtherWargEar.label>와르그 귀</EtherWargEar.label>
-  <EtherWargEar.description>끝 부분에 털이 달린 두껍게 생긴 귀가 [PAWN_nameDef]의 머리에서 자라났습니다. 그것은 먹이를 찾아 독립적으로 지평선을 훑어 봅니다.</EtherWargEar.description>
-  <EtherWargTail.label>털술이 달린 꼬리</EtherWargTail.label>
-  <EtherWargTail.description>끝 부분에 털 뭉치가 달려있는 얇은 꼬리입니다.</EtherWargTail.description>
-  <PawnmorphWolfTF.label>울프모프</PawnmorphWolfTF.label>
+  <PawnmorphWargTFPartial.label>불완전한 와르그 변이체</PawnmorphWargTFPartial.label>
+  <PawnmorphWargTFPartial.description>이 사람의 혈액속에는 와르그와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphWargTFPartial.description>
+  <PawnmorphArcticWolfTF.label>북극여우 변이체</PawnmorphArcticWolfTF.label>
+  <PawnmorphArcticWolfTF.description>이 사람의 혈액에는 신체를 천천히 북극 늑대 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 늑대에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphArcticWolfTF.description>
+  <PawnmorphArcticWolfTF.stages.0.label>감아내기</PawnmorphArcticWolfTF.stages.0.label>
+  <PawnmorphArcticWolfTF.stages.1.label>변이중</PawnmorphArcticWolfTF.stages.1.label>
+  <PawnmorphArcticWolfTF.stages.1.letterText>변신단계경고내용</PawnmorphArcticWolfTF.stages.1.letterText>
+  <PawnmorphArcticWolfTF.stages.1.letterLabel>변신단계경고제목</PawnmorphArcticWolfTF.stages.1.letterLabel>
+  <PawnmorphArcticWolfTF.stages.2.label>동물화중</PawnmorphArcticWolfTF.stages.2.label>
+  <PawnmorphArcticWolfTFPartial.label>불완전한 극지늑대 변이체</PawnmorphArcticWolfTFPartial.label>
+  <PawnmorphArcticWolfTFPartial.description>이 사람의 혈액속에는 북극 늑대같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphArcticWolfTFPartial.description>
+  <PawnmorphWolfTF.label>늑대 변이체</PawnmorphWolfTF.label>
+  <PawnmorphWolfTF.description>이 사람의 혈액에는 신체를 천천히 북극 늑대 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 늑대에 가까운 결과물을 초래할수 있으니 주의 바랍니다. 하지만, 그렇게나 나쁜걸까요?</PawnmorphWolfTF.description>
   <PawnmorphWolfTF.stages.0.label>감아내기</PawnmorphWolfTF.stages.0.label>
-  <PawnmorphWolfTF.stages.1.label>변이중</PawnmorphWolfTF.stages.1.label>
+  <PawnmorphWolfTF.stages.1.label>변이</PawnmorphWolfTF.stages.1.label>
+  <PawnmorphWolfTF.stages.1.letterText>변신단계경고내용</PawnmorphWolfTF.stages.1.letterText>
+  <PawnmorphWolfTF.stages.1.letterLabel>변신단계경고제목</PawnmorphWolfTF.stages.1.letterLabel>
   <PawnmorphWolfTF.stages.2.label>동물화중</PawnmorphWolfTF.stages.2.label>
-  <PawnmorphWolfTFPartial.label>불완전한 울프모프</PawnmorphWolfTFPartial.label>
-  <EtherWolfMuzzle.label>늑대 주둥이</EtherWolfMuzzle.label>
-  <EtherWolfMuzzle.comps.2.tools.0.label>이빨</EtherWolfMuzzle.comps.2.tools.0.label>
-  <EtherWolfMuzzle.stages.1.label>적응됨</EtherWolfMuzzle.stages.1.label>
-  <EtherWolfMuzzle.description>[PAWN_nameDef]의 얼굴이 고대 개과의 그것처럼 변형되었습니다. [PAWN_pronoun]의 치아는 날카롭게 변했으며, 말을 하기는 어려워지지만 먹는 것은 더 잘 먹을 수 있게 되었습니다.</EtherWolfMuzzle.description>
-  <EtherWolfEar.label>늑대 귀</EtherWolfEar.label>
-  <EtherWolfEar.description>큰 삼각형의 왕관같은 귀가 [PAWN_nameDef]의 머리에서 자신이 감지하는 모든 소리를 향해 휙휙 돌아갑니다.</EtherWolfEar.description>
-  <EtherWolfTail.label>늑대 꼬리</EtherWolfTail.label>
-  <EtherWolfTail.description>일반적인 꼬리입니다.</EtherWolfTail.description>
-
+  <PawnmorphWolfTFPartial.label>불완전한 늑대 변이체</PawnmorphWolfTFPartial.label>
+  <PawnmorphWolfTFPartial.description>이 사람의 혈액속에는 회색 늑대같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphWolfTFPartial.description>
+  <TFDirtInEyes.label>변이성 먼지</TFDirtInEyes.label>
+  <TFDirtInEyes.description>구현 안된부분이라 볼수 없어야 합니다.</TFDirtInEyes.description>
+  <TFDirtInEyes.labelNoun>변이성 먼지</TFDirtInEyes.labelNoun>
+  <OozeInEyes.label>새어나옴</OozeInEyes.label>
+  <OozeInEyes.description>구현 안된부분이라 볼수 없어야 합니다.</OozeInEyes.description>
+  <OozeInEyes.labelNoun>새어나옴</OozeInEyes.labelNoun>
+  <TFPlantAddiction.label>변이 식물 중독</TFPlantAddiction.label>
+  <TFPlantAddiction.description>이 사람은 변형 유인 작물 의존성이 생겼습니다. 금단현상으로 인해 동물로 변할수 있으니, 주의하십시오.</TFPlantAddiction.description>
+  <TFPlantAddiction.stages.1.label>취소</TFPlantAddiction.stages.1.label>
+  <SapienceLimiterHediff.description>삽입된 지성 복구망</SapienceLimiterHediff.description>
+  <TFMilkAddiction.label>우유 중독</TFMilkAddiction.label>
+  <TFMilkAddiction.description>이 사람은 변이우유 의존성이 생겼습니다. 금단현상으로 인해 동물로 변할수 있으니, 주의하십시오.</TFMilkAddiction.description>
+  <TFMilkAddiction.stages.1.label>취소</TFMilkAddiction.stages.1.label>
+  <TFEggAddiction.label>알 중독</TFEggAddiction.label>
+  <TFEggAddiction.description>이 사람은 변이달걀 의존성이 생겼습니다. 금단현상으로 인해 동물로 변할수 있으니, 주의하십시오.</TFEggAddiction.description>
+  <TFEggAddiction.stages.1.label>취소</TFEggAddiction.stages.1.label>
 </LanguageData>

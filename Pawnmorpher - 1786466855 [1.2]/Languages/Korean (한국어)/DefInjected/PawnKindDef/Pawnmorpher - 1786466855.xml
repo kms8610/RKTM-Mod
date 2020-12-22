@@ -1,232 +1,64 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Chaocow.label>카오소</Chaocow.label>
-  <Chaocow.labelPlural>카오소</Chaocow.labelPlural>
+  <Chaocow.label>혼돈소</Chaocow.label>
+  <Chaocow.labelMale>혼돈황소</Chaocow.labelMale>
+  <Chaocow.labelFemale>혼돈소</Chaocow.labelFemale>
   <Chaocow.lifeStages.0.label>새끼</Chaocow.lifeStages.0.label>
   <Chaocow.lifeStages.0.labelPlural>성장기</Chaocow.lifeStages.0.labelPlural>
-  <Chaocow.lifeStages.0.label수컷>수컷 새끼</Chaocow.lifeStages.0.label수컷>
-  <Chaocow.lifeStages.0.label수컷Plural>수컷 성장기</Chaocow.lifeStages.0.label수컷Plural>
-  <Chaocow.lifeStages.0.label암컷>암컷 새끼</Chaocow.lifeStages.0.label암컷>
-  <Chaocow.lifeStages.0.label암컷Plural>암컷 성장기</Chaocow.lifeStages.0.label암컷Plural>
-  <Chaocow.lifeStages.1.label>카오소</Chaocow.lifeStages.1.label>
-  <Chaocow.lifeStages.1.labelPlural>카오소</Chaocow.lifeStages.1.labelPlural>
-  <Chaocow.lifeStages.1.label수컷>카오황소</Chaocow.lifeStages.1.label수컷>
-  <Chaocow.lifeStages.1.label수컷Plural>수컷 카오소</Chaocow.lifeStages.1.label수컷Plural>
-  <Chaocow.lifeStages.1.label암컷>카오소</Chaocow.lifeStages.1.label암컷>
-  <Chaocow.lifeStages.1.label암컷Plural>암컷 카오소</Chaocow.lifeStages.1.label암컷Plural>
-  <Chaocow.lifeStages.2.label>카오소</Chaocow.lifeStages.2.label>
-  <Chaocow.lifeStages.2.labelPlural>카오소</Chaocow.lifeStages.2.labelPlural>
-  <Chaocow.lifeStages.2.label수컷>카오황소</Chaocow.lifeStages.2.label수컷>
-  <Chaocow.lifeStages.2.label수컷Plural>수컷 카오소</Chaocow.lifeStages.2.label수컷Plural>
-  <Chaocow.lifeStages.2.label암컷>카오소</Chaocow.lifeStages.2.label암컷>
-  <Chaocow.lifeStages.2.label암컷Plural>암컷 카오소</Chaocow.lifeStages.2.label암컷Plural>
-  <Chaocow.label수컷>카오황소</Chaocow.label수컷>
-  <Chaocow.label수컷Plural>카오황소</Chaocow.label수컷Plural>
-  <Chaocow.label암컷>카오소</Chaocow.label암컷>
-  <Chaocow.label암컷Plural>카오소</Chaocow.label암컷Plural>
-  <Chaoboom.label>카오폭탄사슴</Chaoboom.label>
-  <Chaoboom.labelPlural>카오폭탄사슴</Chaoboom.labelPlural>
+  <Chaoboom.label>혼돈폭탄체</Chaoboom.label>
+  <Chaoboom.labelMale>혼돈숫사슴</Chaoboom.labelMale>
+  <Chaoboom.labelFemale>혼돈암사슴</Chaoboom.labelFemale>
   <Chaoboom.lifeStages.0.label>새끼사슴</Chaoboom.lifeStages.0.label>
   <Chaoboom.lifeStages.0.labelPlural>새끼사슴</Chaoboom.lifeStages.0.labelPlural>
-  <Chaoboom.lifeStages.0.label수컷>수컷 새끼사슴</Chaoboom.lifeStages.0.label수컷>
-  <Chaoboom.lifeStages.0.label수컷Plural>수컷 새끼사슴</Chaoboom.lifeStages.0.label수컷Plural>
-  <Chaoboom.lifeStages.0.label암컷>암컷 새끼사슴</Chaoboom.lifeStages.0.label암컷>
-  <Chaoboom.lifeStages.0.label암컷Plural>암컷 새끼사슴</Chaoboom.lifeStages.0.label암컷Plural>
-  <Chaoboom.lifeStages.1.label>카오폭탄사슴</Chaoboom.lifeStages.1.label>
-  <Chaoboom.lifeStages.1.labelPlural>카오폭탄사슴</Chaoboom.lifeStages.1.labelPlural>
-  <Chaoboom.lifeStages.1.label수컷>카오폭탄사슴</Chaoboom.lifeStages.1.label수컷>
-  <Chaoboom.lifeStages.1.label수컷Plural>수컷 카오폭탄사슴</Chaoboom.lifeStages.1.label수컷Plural>
-  <Chaoboom.lifeStages.1.label암컷>카오폭탄암사슴</Chaoboom.lifeStages.1.label암컷>
-  <Chaoboom.lifeStages.1.label암컷Plural>암컷 카오폭탄사슴</Chaoboom.lifeStages.1.label암컷Plural>
-  <Chaoboom.lifeStages.2.label>카오폭탄사슴</Chaoboom.lifeStages.2.label>
-  <Chaoboom.lifeStages.2.labelPlural>카오폭탄사슴</Chaoboom.lifeStages.2.labelPlural>
-  <Chaoboom.lifeStages.2.label수컷>카오폭탄사슴</Chaoboom.lifeStages.2.label수컷>
-  <Chaoboom.lifeStages.2.label수컷Plural>수컷 카오폭탄사슴</Chaoboom.lifeStages.2.label수컷Plural>
-  <Chaoboom.lifeStages.2.label암컷>카오폭탄암사슴</Chaoboom.lifeStages.2.label암컷>
-  <Chaoboom.lifeStages.2.label암컷Plural>암컷 카오폭탄사슴</Chaoboom.lifeStages.2.label암컷Plural>
-  <Chaoboom.label수컷>카오폭탄사슴</Chaoboom.label수컷>
-  <Chaoboom.label수컷Plural>카오폭탄사슴</Chaoboom.label수컷Plural>
-  <Chaoboom.label암컷>카오폭탄암사슴</Chaoboom.label암컷>
-  <Chaoboom.label암컷Plural>카오폭탄암사슴</Chaoboom.label암컷Plural>
-  <Chaofox.label>카오여우</Chaofox.label>
-  <Chaofox.labelPlural>카오여우</Chaofox.labelPlural>
+  <Chaofox.label>혼돈여우</Chaofox.label>
+  <Chaofox.labelMale>혼돈여우</Chaofox.labelMale>
+  <Chaofox.labelFemale>혼돈암여우</Chaofox.labelFemale>
   <Chaofox.lifeStages.0.label>새끼</Chaofox.lifeStages.0.label>
   <Chaofox.lifeStages.0.labelPlural>새끼</Chaofox.lifeStages.0.labelPlural>
-  <Chaofox.lifeStages.0.label수컷>수컷 새끼</Chaofox.lifeStages.0.label수컷>
-  <Chaofox.lifeStages.0.label수컷Plural>수컷 새끼</Chaofox.lifeStages.0.label수컷Plural>
-  <Chaofox.lifeStages.0.label암컷>암컷 새끼</Chaofox.lifeStages.0.label암컷>
-  <Chaofox.lifeStages.0.label암컷Plural>암컷 새끼</Chaofox.lifeStages.0.label암컷Plural>
-  <Chaofox.lifeStages.1.label>카오여우</Chaofox.lifeStages.1.label>
-  <Chaofox.lifeStages.1.labelPlural>카오여우</Chaofox.lifeStages.1.labelPlural>
-  <Chaofox.lifeStages.1.label수컷>카오여우</Chaofox.lifeStages.1.label수컷>
-  <Chaofox.lifeStages.1.label수컷Plural>수컷 카오여우</Chaofox.lifeStages.1.label수컷Plural>
-  <Chaofox.lifeStages.1.label암컷>카오암여우</Chaofox.lifeStages.1.label암컷>
-  <Chaofox.lifeStages.1.label암컷Plural>암컷 카오여우</Chaofox.lifeStages.1.label암컷Plural>
-  <Chaofox.lifeStages.2.label>카오여우</Chaofox.lifeStages.2.label>
-  <Chaofox.lifeStages.2.labelPlural>카오여우</Chaofox.lifeStages.2.labelPlural>
-  <Chaofox.lifeStages.2.label수컷>카오여우</Chaofox.lifeStages.2.label수컷>
-  <Chaofox.lifeStages.2.label수컷Plural>수컷 카오여우</Chaofox.lifeStages.2.label수컷Plural>
-  <Chaofox.lifeStages.2.label암컷>카오암여우</Chaofox.lifeStages.2.label암컷>
-  <Chaofox.lifeStages.2.label암컷Plural>암컷 카오여우</Chaofox.lifeStages.2.label암컷Plural>
-  <Chaofox.label수컷>카오여우</Chaofox.label수컷>
-  <Chaofox.label수컷Plural>카오여우</Chaofox.label수컷Plural>
-  <Chaofox.label암컷>카오암여우</Chaofox.label암컷>
-  <Chaofox.label암컷Plural>카오암여우</Chaofox.label암컷Plural>
-  <Chaoboar.label>카오멧돼지</Chaoboar.label>
-  <Chaoboar.labelPlural>카오멧돼지</Chaoboar.labelPlural>
-  <Chaoboar.lifeStages.0.label>새끼카오멧돼지</Chaoboar.lifeStages.0.label>
-  <Chaoboar.lifeStages.0.labelPlural>새끼카오멧돼지</Chaoboar.lifeStages.0.labelPlural>
-  <Chaoboar.lifeStages.0.label수컷>수컷 새끼카오멧돼지</Chaoboar.lifeStages.0.label수컷>
-  <Chaoboar.lifeStages.0.label수컷Plural>수컷 새끼카오멧돼지</Chaoboar.lifeStages.0.label수컷Plural>
-  <Chaoboar.lifeStages.0.label암컷>암컷 새끼카오멧돼지</Chaoboar.lifeStages.0.label암컷>
-  <Chaoboar.lifeStages.0.label암컷Plural>암컷 새끼카오멧돼지</Chaoboar.lifeStages.0.label암컷Plural>
-  <Chaoboar.lifeStages.1.label>카오멧돼지</Chaoboar.lifeStages.1.label>
-  <Chaoboar.lifeStages.1.labelPlural>카오멧돼지</Chaoboar.lifeStages.1.labelPlural>
-  <Chaoboar.lifeStages.1.label수컷>카오멧돼지</Chaoboar.lifeStages.1.label수컷>
-  <Chaoboar.lifeStages.1.label수컷Plural>수컷 카오멧돼지</Chaoboar.lifeStages.1.label수컷Plural>
-  <Chaoboar.lifeStages.1.label암컷>카오암멧돼지</Chaoboar.lifeStages.1.label암컷>
-  <Chaoboar.lifeStages.1.label암컷Plural>암컷 카오멧돼지</Chaoboar.lifeStages.1.label암컷Plural>
-  <Chaoboar.lifeStages.2.label>Chaoboar</Chaoboar.lifeStages.2.label>
-  <Chaoboar.lifeStages.2.labelPlural>카오멧돼지</Chaoboar.lifeStages.2.labelPlural>
-  <Chaoboar.lifeStages.2.label수컷>카오멧돼지</Chaoboar.lifeStages.2.label수컷>
-  <Chaoboar.lifeStages.2.label수컷Plural>수컷 카오멧돼지</Chaoboar.lifeStages.2.label수컷Plural>
-  <Chaoboar.lifeStages.2.label암컷>카오암멧돼지</Chaoboar.lifeStages.2.label암컷>
-  <Chaoboar.lifeStages.2.label암컷Plural>암컷 카오멧돼지</Chaoboar.lifeStages.2.label암컷Plural>
-  <Chaoboar.label수컷>카오멧돼지</Chaoboar.label수컷>
-  <Chaoboar.label수컷Plural>카오멧돼지</Chaoboar.label수컷Plural>
-  <Chaoboar.label암컷>카오암멧돼지</Chaoboar.label암컷>
-  <Chaoboar.label암컷Plural>카오암멧돼지</Chaoboar.label암컷Plural>
-  <Chaodino.label>카오공룡</Chaodino.label>
-  <Chaodino.labelPlural>카오공룡</Chaodino.labelPlural>
+  <Chaoboar.label>혼돈맷돼지</Chaoboar.label>
+  <Chaoboar.labelMale>혼돈맷돼지</Chaoboar.labelMale>
+  <Chaoboar.labelFemale>혼돈소</Chaoboar.labelFemale>
+  <Chaoboar.lifeStages.0.label>새끼혼돈멧돼지</Chaoboar.lifeStages.0.label>
+  <Chaoboar.lifeStages.0.labelPlural>새끼혼돈멧돼지</Chaoboar.lifeStages.0.labelPlural>
+  <Chaodino.label>혼돈공룡</Chaodino.label>
+  <Chaodino.labelMale>혼돈랩터</Chaodino.labelMale>
+  <Chaodino.labelFemale>혼돈암탉</Chaodino.labelFemale>
   <Chaodino.lifeStages.0.label>새끼</Chaodino.lifeStages.0.label>
   <Chaodino.lifeStages.0.labelPlural>성장기</Chaodino.lifeStages.0.labelPlural>
-  <Chaodino.lifeStages.0.label수컷>수컷 새끼</Chaodino.lifeStages.0.label수컷>
-  <Chaodino.lifeStages.0.label수컷Plural>수컷 성장기</Chaodino.lifeStages.0.label수컷Plural>
-  <Chaodino.lifeStages.0.label암컷>암컷 새끼</Chaodino.lifeStages.0.label암컷>
-  <Chaodino.lifeStages.0.label암컷Plural>암컷 성장기</Chaodino.lifeStages.0.label암컷Plural>
-  <Chaodino.lifeStages.1.label>카오공룡</Chaodino.lifeStages.1.label>
-  <Chaodino.lifeStages.1.labelPlural>카오공룡</Chaodino.lifeStages.1.labelPlural>
-  <Chaodino.lifeStages.1.label수컷>카오랩터</Chaodino.lifeStages.1.label수컷>
-  <Chaodino.lifeStages.1.label수컷Plural>수컷 카오공룡</Chaodino.lifeStages.1.label수컷Plural>
-  <Chaodino.lifeStages.1.label암컷>카오암탉</Chaodino.lifeStages.1.label암컷>
-  <Chaodino.lifeStages.1.label암컷Plural>암컷 카오공룡</Chaodino.lifeStages.1.label암컷Plural>
-  <Chaodino.lifeStages.2.label>카오공룡</Chaodino.lifeStages.2.label>
-  <Chaodino.lifeStages.2.labelPlural>카오공룡</Chaodino.lifeStages.2.labelPlural>
-  <Chaodino.lifeStages.2.label수컷>카오랩터</Chaodino.lifeStages.2.label수컷>
-  <Chaodino.lifeStages.2.label수컷Plural>수컷 카오공룡</Chaodino.lifeStages.2.label수컷Plural>
-  <Chaodino.lifeStages.2.label암컷>카오암탉</Chaodino.lifeStages.2.label암컷>
-  <Chaodino.lifeStages.2.label암컷Plural>암컷 카오공룡</Chaodino.lifeStages.2.label암컷Plural>
-  <Chaodino.label수컷>카오랩터</Chaodino.label수컷>
-  <Chaodino.label수컷Plural>카오랩터</Chaodino.label수컷Plural>
-  <Chaodino.label암컷>카오암탉</Chaodino.label암컷>
-  <Chaodino.label암컷Plural>카오암탉</Chaodino.label암컷Plural>
-  <ChaomeldDog.label>카오멜드</ChaomeldDog.label>
-  <ChaomeldDog.labelPlural>카오멜드</ChaomeldDog.labelPlural>
+  <ChaomeldDog.label>혼돈융합체</ChaomeldDog.label>
+  <ChaomeldDog.labelMale>혼돈융합체</ChaomeldDog.labelMale>
+  <ChaomeldDog.labelFemale>혼돈융합체</ChaomeldDog.labelFemale>
   <ChaomeldDog.lifeStages.0.label>새끼</ChaomeldDog.lifeStages.0.label>
   <ChaomeldDog.lifeStages.0.labelPlural>새끼</ChaomeldDog.lifeStages.0.labelPlural>
-  <ChaomeldDog.lifeStages.0.label수컷>수컷 새끼</ChaomeldDog.lifeStages.0.label수컷>
-  <ChaomeldDog.lifeStages.0.label수컷Plural>수컷 새끼</ChaomeldDog.lifeStages.0.label수컷Plural>
-  <ChaomeldDog.lifeStages.0.label암컷>암컷 새끼</ChaomeldDog.lifeStages.0.label암컷>
-  <ChaomeldDog.lifeStages.0.label암컷Plural>암컷 새끼</ChaomeldDog.lifeStages.0.label암컷Plural>
-  <ChaomeldDog.lifeStages.1.label>카오멜드</ChaomeldDog.lifeStages.1.label>
-  <ChaomeldDog.lifeStages.1.labelPlural>카오멜드</ChaomeldDog.lifeStages.1.labelPlural>
-  <ChaomeldDog.lifeStages.1.label수컷>카오멜드</ChaomeldDog.lifeStages.1.label수컷>
-  <ChaomeldDog.lifeStages.1.label수컷Plural>수컷 카오멜드</ChaomeldDog.lifeStages.1.label수컷Plural>
-  <ChaomeldDog.lifeStages.1.label암컷>카오멜드</ChaomeldDog.lifeStages.1.label암컷>
-  <ChaomeldDog.lifeStages.1.label암컷Plural>암컷 카오멜드</ChaomeldDog.lifeStages.1.label암컷Plural>
-  <ChaomeldDog.lifeStages.2.label>카오멜드</ChaomeldDog.lifeStages.2.label>
-  <ChaomeldDog.lifeStages.2.labelPlural>카오멜드</ChaomeldDog.lifeStages.2.labelPlural>
-  <ChaomeldDog.lifeStages.2.label수컷>카오멜드</ChaomeldDog.lifeStages.2.label수컷>
-  <ChaomeldDog.lifeStages.2.label수컷Plural>수컷 카오멜드</ChaomeldDog.lifeStages.2.label수컷Plural>
-  <ChaomeldDog.lifeStages.2.label암컷>카오멜드</ChaomeldDog.lifeStages.2.label암컷>
-  <ChaomeldDog.lifeStages.2.label암컷Plural>암컷 카오멜드</ChaomeldDog.lifeStages.2.label암컷Plural>
-  <ChaomeldDog.label수컷>카오멜드</ChaomeldDog.label수컷>
-  <ChaomeldDog.label수컷Plural>카오멜드</ChaomeldDog.label수컷Plural>
-  <ChaomeldDog.label암컷>카오멜드</ChaomeldDog.label암컷>
-  <ChaomeldDog.label암컷Plural>카오멜드</ChaomeldDog.label암컷Plural>
-  <ChaomeldDragon.label>카오멜드</ChaomeldDragon.label>
-  <ChaomeldDragon.labelPlural>카오멜드</ChaomeldDragon.labelPlural>
+  <ChaomeldDragon.label>혼돈융합체</ChaomeldDragon.label>
+  <ChaomeldDragon.labelMale>혼돈융합체</ChaomeldDragon.labelMale>
+  <ChaomeldDragon.labelFemale>혼돈융합체</ChaomeldDragon.labelFemale>
   <ChaomeldDragon.lifeStages.0.label>새끼</ChaomeldDragon.lifeStages.0.label>
   <ChaomeldDragon.lifeStages.0.labelPlural>새끼</ChaomeldDragon.lifeStages.0.labelPlural>
-  <ChaomeldDragon.lifeStages.0.label수컷>수컷 새끼</ChaomeldDragon.lifeStages.0.label수컷>
-  <ChaomeldDragon.lifeStages.0.label수컷Plural>수컷 새끼</ChaomeldDragon.lifeStages.0.label수컷Plural>
-  <ChaomeldDragon.lifeStages.0.label암컷>암컷 새끼</ChaomeldDragon.lifeStages.0.label암컷>
-  <ChaomeldDragon.lifeStages.0.label암컷Plural>암컷 새끼</ChaomeldDragon.lifeStages.0.label암컷Plural>
-  <ChaomeldDragon.lifeStages.1.label>카오멜드</ChaomeldDragon.lifeStages.1.label>
-  <ChaomeldDragon.lifeStages.1.labelPlural>카오멜드</ChaomeldDragon.lifeStages.1.labelPlural>
-  <ChaomeldDragon.lifeStages.1.label수컷>카오멜드</ChaomeldDragon.lifeStages.1.label수컷>
-  <ChaomeldDragon.lifeStages.1.label수컷Plural>수컷 카오멜드</ChaomeldDragon.lifeStages.1.label수컷Plural>
-  <ChaomeldDragon.lifeStages.1.label암컷>카오멜드</ChaomeldDragon.lifeStages.1.label암컷>
-  <ChaomeldDragon.lifeStages.1.label암컷Plural>암컷 카오멜드</ChaomeldDragon.lifeStages.1.label암컷Plural>
-  <ChaomeldDragon.lifeStages.2.label>카오멜드</ChaomeldDragon.lifeStages.2.label>
-  <ChaomeldDragon.lifeStages.2.labelPlural>카오멜드</ChaomeldDragon.lifeStages.2.labelPlural>
-  <ChaomeldDragon.lifeStages.2.label수컷>카오멜드</ChaomeldDragon.lifeStages.2.label수컷>
-  <ChaomeldDragon.lifeStages.2.label수컷Plural>수컷 카오멜드</ChaomeldDragon.lifeStages.2.label수컷Plural>
-  <ChaomeldDragon.lifeStages.2.label암컷>카오멜드</ChaomeldDragon.lifeStages.2.label암컷>
-  <ChaomeldDragon.lifeStages.2.label암컷Plural>암컷 카오멜드</ChaomeldDragon.lifeStages.2.label암컷Plural>
-  <ChaomeldDragon.label수컷>카오멜드</ChaomeldDragon.label수컷>
-  <ChaomeldDragon.label수컷Plural>카오멜드</ChaomeldDragon.label수컷Plural>
-  <ChaomeldDragon.label암컷>카오멜드</ChaomeldDragon.label암컷>
-  <ChaomeldDragon.label암컷Plural>카오멜드</ChaomeldDragon.label암컷Plural>
-  <ChaomeldCow.label>카오멜드</ChaomeldCow.label>
-  <ChaomeldCow.labelPlural>카오멜드</ChaomeldCow.labelPlural>
+  <ChaomeldCow.label>혼돈융합체</ChaomeldCow.label>
+  <ChaomeldCow.labelMale>혼돈융합체</ChaomeldCow.labelMale>
+  <ChaomeldCow.labelFemale>혼돈융합체</ChaomeldCow.labelFemale>
   <ChaomeldCow.lifeStages.0.label>새끼</ChaomeldCow.lifeStages.0.label>
   <ChaomeldCow.lifeStages.0.labelPlural>새끼</ChaomeldCow.lifeStages.0.labelPlural>
-  <ChaomeldCow.lifeStages.0.label수컷>수컷 새끼</ChaomeldCow.lifeStages.0.label수컷>
-  <ChaomeldCow.lifeStages.0.label수컷Plural>수컷 새끼</ChaomeldCow.lifeStages.0.label수컷Plural>
-  <ChaomeldCow.lifeStages.0.label암컷>암컷 새끼</ChaomeldCow.lifeStages.0.label암컷>
-  <ChaomeldCow.lifeStages.0.label암컷Plural>암컷 새끼</ChaomeldCow.lifeStages.0.label암컷Plural>
-  <ChaomeldCow.lifeStages.1.label>카오멜드</ChaomeldCow.lifeStages.1.label>
-  <ChaomeldCow.lifeStages.1.labelPlural>카오멜드</ChaomeldCow.lifeStages.1.labelPlural>
-  <ChaomeldCow.lifeStages.1.label수컷>카오멜드</ChaomeldCow.lifeStages.1.label수컷>
-  <ChaomeldCow.lifeStages.1.label수컷Plural>수컷 카오멜드</ChaomeldCow.lifeStages.1.label수컷Plural>
-  <ChaomeldCow.lifeStages.1.label암컷>카오멜드</ChaomeldCow.lifeStages.1.label암컷>
-  <ChaomeldCow.lifeStages.1.label암컷Plural>암컷 카오멜드</ChaomeldCow.lifeStages.1.label암컷Plural>
-  <ChaomeldCow.lifeStages.2.label>카오멜드</ChaomeldCow.lifeStages.2.label>
-  <ChaomeldCow.lifeStages.2.labelPlural>카오멜드</ChaomeldCow.lifeStages.2.labelPlural>
-  <ChaomeldCow.lifeStages.2.label수컷>카오멜드</ChaomeldCow.lifeStages.2.label수컷>
-  <ChaomeldCow.lifeStages.2.label수컷Plural>수컷 카오멜드</ChaomeldCow.lifeStages.2.label수컷Plural>
-  <ChaomeldCow.lifeStages.2.label암컷>카오멜드</ChaomeldCow.lifeStages.2.label암컷>
-  <ChaomeldCow.lifeStages.2.label암컷Plural>암컷 카오멜드</ChaomeldCow.lifeStages.2.label암컷Plural>
-  <ChaomeldCow.label수컷>카오멜드</ChaomeldCow.label수컷>
-  <ChaomeldCow.label수컷Plural>카오멜드</ChaomeldCow.label수컷Plural>
-  <ChaomeldCow.label암컷>카오멜드</ChaomeldCow.label암컷>
-  <ChaomeldCow.label암컷Plural>카오멜드</ChaomeldCow.label암컷Plural>
-  <ChaofusionRhino.label>카오퓨전</ChaofusionRhino.label>
-  <ChaofusionRhino.labelPlural>카오퓨전</ChaofusionRhino.labelPlural>
+  <ChaofusionRhino.label>혼돈융합</ChaofusionRhino.label>
+  <ChaofusionRhino.labelMale>혼돈융합</ChaofusionRhino.labelMale>
+  <ChaofusionRhino.labelFemale>혼돈융합</ChaofusionRhino.labelFemale>
   <ChaofusionRhino.lifeStages.0.label>새끼</ChaofusionRhino.lifeStages.0.label>
   <ChaofusionRhino.lifeStages.0.labelPlural>새끼</ChaofusionRhino.lifeStages.0.labelPlural>
-  <ChaofusionRhino.lifeStages.0.label수컷>수컷 새끼</ChaofusionRhino.lifeStages.0.label수컷>
-  <ChaofusionRhino.lifeStages.0.label수컷Plural>수컷 새끼</ChaofusionRhino.lifeStages.0.label수컷Plural>
-  <ChaofusionRhino.lifeStages.0.label암컷>암컷 새끼</ChaofusionRhino.lifeStages.0.label암컷>
-  <ChaofusionRhino.lifeStages.0.label암컷Plural>암컷 새끼</ChaofusionRhino.lifeStages.0.label암컷Plural>
-  <ChaofusionRhino.lifeStages.1.label>카오퓨전</ChaofusionRhino.lifeStages.1.label>
-  <ChaofusionRhino.lifeStages.1.labelPlural>카오퓨전</ChaofusionRhino.lifeStages.1.labelPlural>
-  <ChaofusionRhino.lifeStages.1.label수컷>카오퓨전</ChaofusionRhino.lifeStages.1.label수컷>
-  <ChaofusionRhino.lifeStages.1.label수컷Plural>수컷 카오퓨전</ChaofusionRhino.lifeStages.1.label수컷Plural>
-  <ChaofusionRhino.lifeStages.1.label암컷>카오퓨전</ChaofusionRhino.lifeStages.1.label암컷>
-  <ChaofusionRhino.lifeStages.1.label암컷Plural>암컷 카오푸전</ChaofusionRhino.lifeStages.1.label암컷Plural>
-  <ChaofusionRhino.lifeStages.2.label>카오퓨전</ChaofusionRhino.lifeStages.2.label>
-  <ChaofusionRhino.lifeStages.2.labelPlural>카오퓨전</ChaofusionRhino.lifeStages.2.labelPlural>
-  <ChaofusionRhino.lifeStages.2.label수컷>카오퓨전</ChaofusionRhino.lifeStages.2.label수컷>
-  <ChaofusionRhino.lifeStages.2.label수컷Plural>수컷 카오퓨전</ChaofusionRhino.lifeStages.2.label수컷Plural>
-  <ChaofusionRhino.lifeStages.2.label암컷>카오퓨전</ChaofusionRhino.lifeStages.2.label암컷>
-  <ChaofusionRhino.lifeStages.2.label암컷Plural>암컷 카오푸전</ChaofusionRhino.lifeStages.2.label암컷Plural>
-  <ChaofusionRhino.label수컷>카오퓨전</ChaofusionRhino.label수컷>
-  <ChaofusionRhino.label수컷Plural>카오퓨전</ChaofusionRhino.label수컷Plural>
-  <ChaofusionRhino.label암컷>카오퓨전</ChaofusionRhino.label암컷>
-  <ChaofusionRhino.label암컷Plural>카오퓨전</ChaofusionRhino.label암컷Plural>
   <Morph.label>변이체</Morph.label>
-  <Morph.labelPlural>변이체들</Morph.labelPlural>
   <PawnmorpherSlave.label>노예</PawnmorpherSlave.label>
-  <PawnmorpherSlave.labelPlural>노예들</PawnmorpherSlave.labelPlural>
   <PMEnclaveVillager.label>마을 주민</PMEnclaveVillager.label>
-  <PMEnclaveVillager.labelPlural>마을 주민들</PMEnclaveVillager.labelPlural>
   <PMEnclaveTown_Guard.label>마을 경비병</PMEnclaveTown_Guard.label>
-  <PMEnclaveTown_Guard.labelPlural>마을 경비병들</PMEnclaveTown_Guard.labelPlural>
   <PMEnclaveTown_Trader.label>마을 상인</PMEnclaveTown_Trader.label>
-  <PMEnclaveTown_Trader.labelPlural>마을 상인들</PMEnclaveTown_Trader.labelPlural>
   <PMEnclaveTown_Councilman.label>마을 의원</PMEnclaveTown_Councilman.label>
   <PMEnclaveTown_Councilman.labelPlural>마을 의원들</PMEnclaveTown_Councilman.labelPlural>
-
+  <PMEnclaveMercenary.label>자주국 자유 전사</PMEnclaveMercenary.label>
+  <PMEnclaveMercenary.labelPlural>자주국 자유 전사들</PMEnclaveMercenary.labelPlural>
+  <PMEnclaveHeavyMercenary.label>자주국 게릴라</PMEnclaveHeavyMercenary.label>
+  <PMEnclaveHeavyMercenary.labelPlural>자주국 게릴라들</PMEnclaveHeavyMercenary.labelPlural>
+  <PMEnclaveEliteMercenary.label>자주국 집행관</PMEnclaveEliteMercenary.label>
+  <PMEnclaveEliteMercenary.labelPlural>자주국 집행관들</PMEnclaveEliteMercenary.labelPlural>
+  <EtherHellhound.label>지옥개</EtherHellhound.label>
+  <EtherHellhound.lifeStages.0.label>새끼 와르그</EtherHellhound.lifeStages.0.label>
+  <EtherHellhound.lifeStages.0.labelPlural>새끼 와르그</EtherHellhound.lifeStages.0.labelPlural>
 </LanguageData>
