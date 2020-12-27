@@ -2044,16 +2044,16 @@
   <akaNEKO_Maine_Coon_Leather.stuffProps.stuffAdjective>메인쿤 가죽</akaNEKO_Maine_Coon_Leather.stuffProps.stuffAdjective>
   <akaNEKO_Maine_Coon_Corpse.label>메인쿤 시체</akaNEKO_Maine_Coon_Corpse.label>
   <akaNEKO_Maine_Coon_Corpse.description>메인쿤 시체</akaNEKO_Maine_Coon_Corpse.description>
-  <akaNEKO_N_Forest_Cat.label>노르웨이 숲</akaNEKO_N_Forest_Cat.label>
+  <akaNEKO_N_Forest_Cat.label>노르웨이 숲 고양이</akaNEKO_N_Forest_Cat.label>
   <akaNEKO_N_Forest_Cat.description>인류 최초의 애완동물 중 하나인 고양이는 해수를 사냥하는 작은 포유동물입니다. 고양이들은 냉담하기로 유명하지만, 그럼에도 불구하고 이들의 독립성, 침착한 기질, 그리고 훌륭하고 보드라운 털로 인기있는 친구들입니다.</akaNEKO_N_Forest_Cat.description>
   <akaNEKO_N_Forest_Cat.tools.0.label>왼 발톱</akaNEKO_N_Forest_Cat.tools.0.label>
   <akaNEKO_N_Forest_Cat.tools.1.label>오른 손톱</akaNEKO_N_Forest_Cat.tools.1.label>
   <akaNEKO_N_Forest_Cat.tools.3.label>머리</akaNEKO_N_Forest_Cat.tools.3.label>
-  <akaNEKO_N_Forest_Cat_Leather.label>노르웨이 숲 가죽</akaNEKO_N_Forest_Cat_Leather.label>
-  <akaNEKO_N_Forest_Cat_Leather.description>노르웨이 숲 가죽</akaNEKO_N_Forest_Cat_Leather.description>
-  <akaNEKO_N_Forest_Cat_Leather.stuffProps.stuffAdjective>노르웨이 숲 가죽</akaNEKO_N_Forest_Cat_Leather.stuffProps.stuffAdjective>
-  <akaNEKO_N_Forest_Cat_Corpse.label>노르웨이 숲 시체</akaNEKO_N_Forest_Cat_Corpse.label>
-  <akaNEKO_N_Forest_Cat_Corpse.description>노르웨이 숲 시체</akaNEKO_N_Forest_Cat_Corpse.description>
+  <akaNEKO_N_Forest_Cat_Leather.label>노르웨이 숲 고양이 가죽</akaNEKO_N_Forest_Cat_Leather.label>
+  <akaNEKO_N_Forest_Cat_Leather.description>노르웨이 숲 고양이 가죽</akaNEKO_N_Forest_Cat_Leather.description>
+  <akaNEKO_N_Forest_Cat_Leather.stuffProps.stuffAdjective>노르웨이 숲 고양이 가죽</akaNEKO_N_Forest_Cat_Leather.stuffProps.stuffAdjective>
+  <akaNEKO_N_Forest_Cat_Corpse.label>노르웨이 숲 고양이 시체</akaNEKO_N_Forest_Cat_Corpse.label>
+  <akaNEKO_N_Forest_Cat_Corpse.description>노르웨이 숲 고양이 시체</akaNEKO_N_Forest_Cat_Corpse.description>
 
   <!--1642210117_190519_Donkeys-->
   <Donkey.label>당나귀</Donkey.label>

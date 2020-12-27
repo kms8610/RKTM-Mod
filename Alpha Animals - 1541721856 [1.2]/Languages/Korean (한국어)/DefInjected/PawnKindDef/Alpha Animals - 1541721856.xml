@@ -176,4 +176,16 @@
   <AA_ColossalNautiloid.label>고대 오징어</AA_ColossalNautiloid.label>
   <AA_MirachianManowar.label>미라키안 맨 오브 워</AA_MirachianManowar.label>
   <AA_IronboundLeviathan.label>족쇄 채운 레비아탄</AA_IronboundLeviathan.label>
+  <VFE_Mech_Aura.label>아우라</VFE_Mech_Aura.label>
+  <VFE_Mech_Daggersnout.label>단검주둥이</VFE_Mech_Daggersnout.label>
+  <VFE_Mech_Fireworm.label>파이어웜</VFE_Mech_Fireworm.label>
+  <VFE_Mech_Goliath.label>골리앗</VFE_Mech_Goliath.label>
+  <VFE_Mech_Phalanx.label>팔란스</VFE_Mech_Phalanx.label>
+  <VFE_Mech_Siegebreaker.label>시즈브레이커</VFE_Mech_Siegebreaker.label>
+  <VFE_Mech_Advanced_Aura.label>도미니온</VFE_Mech_Advanced_Aura.label>
+  <VFE_Mech_Advanced_Daggersnout.label>내장제거기</VFE_Mech_Advanced_Daggersnout.label>
+  <VFE_Mech_Advanced_Fireworm.label>생체소각기</VFE_Mech_Advanced_Fireworm.label>
+  <VFE_Mech_Advanced_Goliath.label>콜로서스</VFE_Mech_Advanced_Goliath.label>
+  <VFE_Mech_Advanced_Phalanx.label>호플리테스</VFE_Mech_Advanced_Phalanx.label>
+  <VFE_Mech_Advanced_Siegebreaker.label>시즈마스터</VFE_Mech_Advanced_Siegebreaker.label>
 </LanguageData>

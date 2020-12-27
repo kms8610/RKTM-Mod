@@ -18,7 +18,7 @@
   <PMStorageSpaceMessage>공급</PMStorageSpaceMessage>
   <PMAnimalGenomeDescription>{ANIMAL}의 유전정보를 저장합니다.</PMAnimalGenomeDescription>
   <PMChamberAddingMutations>변이를 추가하는 중</PMChamberAddingMutations>
-  <PMChamberTransforming> - Transforming {0} into {1}</PMChamberTransforming>
+  <PMChamberTransforming> - {0}(을)를 {1}(으)로 변화시키는 중</PMChamberTransforming>
   <PMMergeGizmo>병합</PMMergeGizmo>
   <PMCannotTransformPrisoner>{0}(을)를 변신 시킬수 없습니다.</PMCannotTransformPrisoner>
   <PMWaitingForPawn>폰 기다리는 중</PMWaitingForPawn>
@@ -45,20 +45,20 @@
   <GoodwillChangedReason_PawnTransformed>{memberLabel}(이)가 {species}(으)로 변함</GoodwillChangedReason_PawnTransformed>
   <FactionLeaderTransformedLabel>{factionName}의 {leaderTitle}(이)가 {species}(으)로 변했습니다.</FactionLeaderTransformedLabel>
   <FactionLeaderTransformedContent>{factionName}의 {leaderTitle}였던 {memberName}(이)가 {species}(으)로 변해 더이상 그의 사람들을 이끌어 나갈 수 없습니다. {newLeader}가 그 자리를 대신 할 것입니다.</FactionLeaderTransformedContent>
-  <GoodwillChangedReason_PawnReverted>{memberLabel}(은)는 더이상  {species}(이)가 아닙니다.</GoodwillChangedReason_PawnReverted>
+  <GoodwillChangedReason_PawnReverted>{memberLabel}(은)는 더이상 {species}(이)가 아닙니다.</GoodwillChangedReason_PawnReverted>
   <RelatedWildFormerHumanContent>{1}의 지인이었던 변이된 인간 {0}이 지도에 나타났습니다. 아직 길들일 수 있을지도 모릅니다. {0}(은)는 {1}의 {2}이었습니다.</RelatedWildFormerHumanContent>
   <RelatedWildFormerHumanLabel>지성이 있는 동물 (관계)</RelatedWildFormerHumanLabel>
   <RelatedSoldFormerHumanContent>{1}의 지인이었던 변이된 인간 {0}이 변이체 상인의 상품으로 나타났습니다. 원한다면 구매 할 수 있습니다. {0}(은)는 {1}의 {2}이었습니다.</RelatedSoldFormerHumanContent>
   <RelatedSoldFormerHumanLabel>변이체 상인 (관계)</RelatedSoldFormerHumanLabel>
   <FormerHumanConflicted_TransitionLabel>[PAWN_nameDef]의 지성이 눈에 띄게 감소 했습니다.</FormerHumanConflicted_TransitionLabel>
-  <FormerHumanConflicted_TransitionContent>[PAWN_nameDef]의 지성이 너무 떨어져, 더이상 정착민으로 취급 되지 않습니다.</FormerHumanConflicted_TransitionContent>
-  <Sapient>야생</Sapient>
-  <MostlySapient>야생</MostlySapient>
-  <Conflicted>사피엔</Conflicted>
-  <MostlyFeral>정신병자</MostlyFeral>
+  <FormerHumanConflicted_TransitionContent>[PAWN_nameDef]의 지성이 너무 떨어져, 더이상 완전한 정착민으로 취급 되지 않습니다.</FormerHumanConflicted_TransitionContent>
+  <Sapient>지성적</Sapient>
+  <MostlySapient>거의 지성적</MostlySapient>
+  <Conflicted>충동적</Conflicted>
+  <MostlyFeral>거의 야생적</MostlyFeral>
   <Feral>야생</Feral>
   <PermanentlyFeral>영구적인 야생인간</PermanentlyFeral>
-  <MutagenChamberProgress>돌연변이 진행</MutagenChamberProgress>
+  <MutagenChamberProgress>변이 진행</MutagenChamberProgress>
   <EnterMutagenChamber>변형 유도실 들어가기</EnterMutagenChamber>
   <PMEnterMutagenChamberMerge>융합을 위해 변형 유도실로 들어가기</PMEnterMutagenChamberMerge>
   <LetterLabelChaomorphPasses>{0}(이)가 방황함</LetterLabelChaomorphPasses>
@@ -77,7 +77,7 @@
   <LetterHediffFromEtherBond>지속적인 생산으로 인해 {0}(은)는 변화를 받아들이게 되었으며, 어떤 이유가 되었든 이제 생산을 즐기게 될 것입니다.</LetterHediffFromEtherBond>
   <LetterHediffFromEtherBrokenLabel>에테르깨짐: {0}</LetterHediffFromEtherBrokenLabel>
   <LetterHediffFromEtherBroken>지속적인 생산으로 인해 {0}(은)는 자신의 상태에 무감각해졌으며, 자신의 운명에 복종하게 되었습니다.</LetterHediffFromEtherBroken>
-  <RaceChangeMessage>{0}(은)는 더이상 인간이라고 보기 힘들것 같습니다!</RaceChangeMessage>
+  <RaceChangeMessage>{0}(은)는 더이상 인간으로 취급되지 않습니다!</RaceChangeMessage>
   <HumanAgainMessage>{0}(은)는 다시 인간이 되었습니다!</HumanAgainMessage>
   <TransformationStageWarningLabel>{0}(은)는 곧 전신 변이를 겪게 될 수 있습니다.</TransformationStageWarningLabel>
   <TransformationStageWarningContent>{0}(은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</TransformationStageWarningContent>
@@ -90,15 +90,15 @@
   <PawnmorphTooltipHim>그의</PawnmorphTooltipHim>
   <PawnmorphTooltipHis>그의</PawnmorphTooltipHis>
   <MessagePawnResurrectedTransformed>{0}(은)는 되살아났지만, 혈청에 주입된 메카나이트로 인해 {2}(으)로 변했습니다.</MessagePawnResurrectedTransformed>
-  <GenomeLabel>{MUTATION} 게놈</GenomeLabel>
+  <GenomeLabel>{MUTATION} 유전체</GenomeLabel>
   <GenomeDesc>변이에 대한 정보를 제공해주는 유전체.</GenomeDesc>
-  <PMApplyGenome>{0} 게놈 사용</PMApplyGenome>
+  <PMApplyGenome>{0} 유전체 사용</PMApplyGenome>
   <PMNoMutationBenchAvailable>사용 가능한 변이 작업대 없음</PMNoMutationBenchAvailable>
   <PMNoStorageAvailableForGenome>{MUTATION}(을)를 변형 유도실 데이터 베이스에 저장 할 수 없습니다.</PMNoStorageAvailableForGenome>
   <PartPickerMenuTitle>변이 설정 메뉴</PartPickerMenuTitle>
   <NoMutationsOnPart>없음</NoMutationsOnPart>
   <EditParams>자세히...</EditParams>
-  <IsPaused>진행 일시정지?</IsPaused>
+  <IsPaused>진행 정지됨</IsPaused>
   <ToggleClothes>옷 표시 토글</ToggleClothes>
   <RotCW>시계 방향으로 회전</RotCW>
   <RotCCW>시계 반대 방향으로 회전</RotCCW>
@@ -107,7 +107,7 @@
   <SkinSync>피부 동기화</SkinSync>
   <DoSymmetry>좌우 동기화</DoSymmetry>
   <SummaryTitle>줄거리</SummaryTitle>
-  <SummaryAddedMutation>Adding \"[MUTATION_NAME]\" mutation to [PAWN_nameDef]'s [MUTATION_PART] at a severity of [MUTATION_SEVERITY].</SummaryAddedMutation>
+  <SummaryAddedMutation>[PAWN_nameDef]의 [MUTATION_PART]에 [MUTATION_SEVERITY] 수준의 \"[MUTATION_NAME]\" 변이를 추가중.</SummaryAddedMutation>
   <SummaryHaltedMutation>더이상 진행되지 않습니다.</SummaryHaltedMutation>
   <SummaryRemovedMutation>[PAWN_nameDef]의 [MUTATION_PART]에서 \"[MUTATION_NAME]\" 변이를 제거중</SummaryRemovedMutation>
   <PartDescTitle>변이 설명</PartDescTitle>
@@ -136,23 +136,23 @@
   <maxMutationThoughtsSliderLabel>변이 관련 생각이 한번에 몇개까지 나올수 있는가</maxMutationThoughtsSliderLabel>
   <friendlyManhunterTfChance>우호적인 폰이 변이했을 때 인간사냥 상태에 들어갈 확률</friendlyManhunterTfChance>
   <manhunterTfChance>폰이 변이했을 때 인간사냥 상태에 들어갈 확률</manhunterTfChance>
-  <PMInjectorsRequireTagging>Injectors Require Tagging</PMInjectorsRequireTagging>
-  <PMInjectorsRequireTaggingTooltip>If tagging animals is requires to make injectors</PMInjectorsRequireTaggingTooltip>
+  <PMInjectorsRequireTagging>주사기가 인식표를 요구함</PMInjectorsRequireTagging>
+  <PMInjectorsRequireTaggingTooltip>주사기를 만들기 위해 동물들에게 인식표를 달아야 하는지 설정</PMInjectorsRequireTaggingTooltip>
   <PMTagGizmoLabel>인식표 부착</PMTagGizmoLabel>
   <PMTagGizmoDescription>동물에게 인식표를 부착합니다.</PMTagGizmoDescription>
-  <CannotTagFormerHuman>Due to mechanite contamination, this animal cannot be tagged</CannotTagFormerHuman>
-  <PMMutationTagged>mutation "{mutation}" sequenced from {animal}</PMMutationTagged>
+  <CannotTagFormerHuman>메카나이트 감염으로 인해, 이 동물은 인식표를 달 수 없습니다.</CannotTagFormerHuman>
+  <PMMutationTagged>{animal}에서 "{mutation}" 변이가 배열됨</PMMutationTagged>
   <PMNothingTaggable>{animal} 는 기록 할만한 것이 없습니다.</PMNothingTaggable>
-  <PMMutationNotEnoughSpace>{animal} has mutations that can be recorded but not enough space to store them</PMMutationNotEnoughSpace>
+  <PMMutationNotEnoughSpace>{animal}(은)는 기록할 수 있는 변이를 가지고 있지만, 저장할 공간이 부족합니다.</PMMutationNotEnoughSpace>
   <PMAnimalAddedToDatabase>{animal}(이)가 유전자은행 데이터 베이스게 추가 되었습니다.</PMAnimalAddedToDatabase>
   <TabMutations>변이</TabMutations>
-  <MorphsITabHeader>변이체</MorphsITabHeader>
-  <TraitsITabHeader>Aspects</TraitsITabHeader>
+  <MorphsITabHeader>신체 변이</MorphsITabHeader>
+  <TraitsITabHeader>특질</TraitsITabHeader>
   <ProductionITabHeader>생산</ProductionITabHeader>
   <MutationLogButtonText>일지</MutationLogButtonText>
-  <MutationLogHeader>변이 기록</MutationLogHeader>
-  <PPRemivingMutationDesc>Removing {MUTATION} mutation from {PAWN_nameDef}'s {PART}</PPRemivingMutationDesc>
-  <PPAddingMutationDesc>Adding {MUTATION} mutation to {PAWN_nameDef}'s {PART} at a severity of {SEVERITY}</PPAddingMutationDesc>
+  <MutationLogHeader>변이 일지</MutationLogHeader>
+  <PPRemivingMutationDesc>{PAWN_nameDef}의 {PART}에서 {MUTATION} 변이를 제거중</PPRemivingMutationDesc>
+  <PPAddingMutationDesc>{PAWN_nameDef}의 {PART}에 {SEVERITY} 수준의 {MUTATION} 변이를 추가중</PPAddingMutationDesc>
   <PPNewMutationIsHalted>더이상 진행되지 않습니다.</PPNewMutationIsHalted>
   <PMPartPickerGizmo>변이 선택자</PMPartPickerGizmo>
 </LanguageData>

@@ -31,7 +31,6 @@
 	<li IfModActive="Dubwise.Rimatomics">Rimatomics - 1127530465 [1.2]</li>
 	<li IfModActive="sargoskar.witcherhunt">RimWorld - Witcher Monster Hunt - 2008529522 [1.2]</li>
 	<li IfModActive="Crustypeanut.WCE2.Core">War Crimes Expanded 2 Core - 2059450213 [1.2]</li>
-	<li IfModActive="Dubwise.DubsPerformanceAnalyzer">Dubs Performance Analyzer - 2038874626 [1.2]</li>
 	<li IfModActive="Flyingstar.AutoMortarsUnofficial">Auto-Mortars - 2054073477 [1.2]</li>
 	<li IfModActive="Atlas.AndroidTiers">Android tiers - 1386412863 [1.2]</li>
 	<li IfModActive="NotooShabby.AwesomeInventory">Awesome Inventory - 2050289408 [1.2]</li>
@@ -299,7 +298,6 @@
 	<li IfModActive="n7huntsman.combatshields">Combat Shields - 1588616696 [1.2]</li>
 	<li IfModActive="Mlie.LordoftheRimsElves">Lord of the Rims - Elves (Continued) - 2244183992 [1.2]</li>
 	<!-- 20.12.06 -->
-	<li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Vanilla Traits Expanded - 2296404655 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VFEPower">Vanilla Furniture Expanded - Power - 2062943477 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VARME">Vanilla Armour Expanded - 1814988282 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VAPPE">Vanilla Apparel Expanded - 1814987817 [1.2]</li>
@@ -311,7 +309,6 @@
 	<li IfModActive="fluffy.medicaltab">Medical Tab - 715565817 [1.2]</li>
 	<!-- 20.12.15 -->
     <li IfModActive="fluffy.modmanager">Mod Manager - 1507748539 [1.2]</li>
-	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VAEED">Vanilla Animals Expanded — Extreme Desert - 1849184079 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VBrewECandT">Vanilla Brewing Expanded - Coffees and Teas - 2275449762 [1.2]</li>
 	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
@@ -319,8 +316,6 @@
 	<!-- 20.12.19 -->
 	<li IfModActive="LingLuo.MaidProject">Maid Project - 1498756997 [1.2]</li>
 	<!-- 20.12.21 -->
-	<li IfModActive="tachyonite.pawnmorpherpublic">Pawnmorpher - 1786466855 [1.2]</li>
-	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
 	<li IfModActive="atomicravioli.Crystalloid">Crystalloid - 1571323744 [1.2]</li>
 	<!-- 20.12.22 -->
 	<li IfModActive="roolo.giddyupcaravan">Giddy-up! Caravan - 1253251478 [1.2]</li>
@@ -330,6 +325,18 @@
 	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700 [1.2]</li>
 	<li IfModActive="CETeam.CombatExtended">Combat Extended - 1631756268 [1.2]</li>
 	<li IfModActive="Rah.RBSE">Rah's Bionics and Surgery Expansion - 850429707 [1.2]</li>
+	<!-- 20.12.25 -->
+	<li IfModActive="Dubwise.DubsPerformanceAnalyzer">Dubs Performance Analyzer - 2038874626 [1.2]</li>
+	<li IfModActive="krkr.locks2">Locks 2 Lock Them Out! - 2285862824 [1.2]</li>
+	<li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Vanilla Traits Expanded - 2296404655 [1.2]</li>
+	<!-- 20.12.27 -->
+	<li IfModActive="Harkon.GunNut.Chapter2">Gun Nut - Chapter #2 - 2239800263 [1.2]</li>
+	<li IfModActive="tachyonite.pawnmorpherpublic">Pawnmorpher - 1786466855 [1.2]</li>
+	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
+	<li IfModActive="Taranchuk.ClaySoldeirs">Clay Soldier Race - 2307153650 [1.2]</li>
+	<li IfModActive="shakesthespeare.RimsecSecurity">Rimsec Security - 2323762086 [1.2]</li>
+	<li IfModActive="Dubwise.Rimefeller">Rimefeller - 1321849735 [1.2]</li>
+	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268 [1.2]</li>
   </v1.2>
 
 </loadFolders>

@@ -109,7 +109,7 @@
   <turbineBlade.description>발전소를 구성하는 데 사용됩니다.</turbineBlade.description>
   <UraniumPellets.label>우라늄 펠릿</UraniumPellets.label>
   <UraniumPellets.description>핵연료봉 제작에 사용되는 우라늄 펠릿</UraniumPellets.description>
-  <Plutonium.label>플로토늄</Plutonium.label>
+  <Plutonium.label>플루토늄</Plutonium.label>
   <Plutonium.description>플루토늄의 경우, 핵무기나 핵연료봉을 만드는 데 사용될 수 있다.</Plutonium.description>
   <DepletedUraniumPellets.label>열화 우라늄 펠릿</DepletedUraniumPellets.label>
   <DepletedUraniumPellets.description>핵연료봉 건설에 사용되는 열화 우라늄 펠릿.</DepletedUraniumPellets.description>

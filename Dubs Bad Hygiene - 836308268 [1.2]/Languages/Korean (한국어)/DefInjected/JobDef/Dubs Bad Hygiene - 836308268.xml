@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <TriggerFireSprinkler.reportString>targetA 활성 중</TriggerFireSprinkler.reportString>
+  <TriggerFireSprinkler.reportString>TargetA 활성 중</TriggerFireSprinkler.reportString>
   <emptySeptictank.reportString>TargetA 비우는 중</emptySeptictank.reportString>
   <emptyLatrine.reportString>TargetA 비우는 중</emptyLatrine.reportString>
   <LoadWashing.reportString>TargetA 채우는 중</LoadWashing.reportString>
@@ -10,9 +10,9 @@
   <RemoveSewage.reportString>오물 제거</RemoveSewage.reportString>
   <WatchWashingMachine.reportString>세탁기를 바라보는 중</WatchWashingMachine.reportString>
   <DBHDrinkFromGround.reportString>물 마시는 중</DBHDrinkFromGround.reportString>
-  <DBHDrinkFromBasin.reportString>targetA에서 물 마시는 중</DBHDrinkFromBasin.reportString>
-  <DBHPackWaterBottle.reportString>targetA에서 물병 채우는 중</DBHPackWaterBottle.reportString>
-  <DBHStockpileWaterBottles.reportString>targetA에서 물 마시는 중</DBHStockpileWaterBottles.reportString>
+  <DBHDrinkFromBasin.reportString>TargetA에서 물 마시는 중</DBHDrinkFromBasin.reportString>
+  <DBHPackWaterBottle.reportString>TargetA에서 물병 채우는 중</DBHPackWaterBottle.reportString>
+  <DBHStockpileWaterBottles.reportString>TargetA에 물 비축하는 중</DBHStockpileWaterBottles.reportString>
   <UseToilet.reportString>TargetA 사용 중</UseToilet.reportString>
   <haveWildPoo.reportString>노상방뇨 중</haveWildPoo.reportString>
   <useWashBucket.reportString>TargetA에서 씻는 중</useWashBucket.reportString>
@@ -21,7 +21,7 @@
   <takeBath.reportString>목욕 중</takeBath.reportString>
   <washHands.reportString>손 씻는 중</washHands.reportString>
   <washPatient.reportString>TargetA 씻기는 중</washPatient.reportString>
-  <DBHAdministerFluids.reportString>targetB에게 물 가져다주는 중</DBHAdministerFluids.reportString>
+  <DBHAdministerFluids.reportString>TargetB에게 물 가져다주는 중</DBHAdministerFluids.reportString>
   <RefillTub.reportString>물통 채우는 중</RefillTub.reportString>
   <RefillWater.reportString>물 채우는 중</RefillWater.reportString>
   <cleanBedpan.reportString>요강 비우는 중</cleanBedpan.reportString>

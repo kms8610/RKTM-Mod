@@ -3,8 +3,8 @@
   <Chaocow.label>혼돈소</Chaocow.label>
   <Chaocow.labelMale>혼돈황소</Chaocow.labelMale>
   <Chaocow.labelFemale>혼돈소</Chaocow.labelFemale>
-  <Chaocow.lifeStages.0.label>새끼</Chaocow.lifeStages.0.label>
-  <Chaocow.lifeStages.0.labelPlural>성장기</Chaocow.lifeStages.0.labelPlural>
+  <Chaocow.lifeStages.0.label>송아지</Chaocow.lifeStages.0.label>
+  <Chaocow.lifeStages.0.labelPlural>송아지</Chaocow.lifeStages.0.labelPlural>
   <Chaoboom.label>혼돈폭탄체</Chaoboom.label>
   <Chaoboom.labelMale>혼돈숫사슴</Chaoboom.labelMale>
   <Chaoboom.labelFemale>혼돈암사슴</Chaoboom.labelFemale>
@@ -40,9 +40,9 @@
   <ChaomeldCow.labelFemale>혼돈융합체</ChaomeldCow.labelFemale>
   <ChaomeldCow.lifeStages.0.label>새끼</ChaomeldCow.lifeStages.0.label>
   <ChaomeldCow.lifeStages.0.labelPlural>새끼</ChaomeldCow.lifeStages.0.labelPlural>
-  <ChaofusionRhino.label>혼돈융합</ChaofusionRhino.label>
-  <ChaofusionRhino.labelMale>혼돈융합</ChaofusionRhino.labelMale>
-  <ChaofusionRhino.labelFemale>혼돈융합</ChaofusionRhino.labelFemale>
+  <ChaofusionRhino.label>혼돈결합체</ChaofusionRhino.label>
+  <ChaofusionRhino.labelMale>혼돈결합체</ChaofusionRhino.labelMale>
+  <ChaofusionRhino.labelFemale>혼돈결합체</ChaofusionRhino.labelFemale>
   <ChaofusionRhino.lifeStages.0.label>새끼</ChaofusionRhino.lifeStages.0.label>
   <ChaofusionRhino.lifeStages.0.labelPlural>새끼</ChaofusionRhino.lifeStages.0.labelPlural>
   <Morph.label>변이체</Morph.label>

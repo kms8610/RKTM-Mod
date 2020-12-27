@@ -11,9 +11,9 @@
   <ProductionPillMegawoolEffect.label>생산량 증가</ProductionPillMegawoolEffect.label>
   <ProductionPillMegawoolEffect.description>비정상적인 hediff입니다. 무시하거나 개발자 모드로 지우셔도 무관 합니다.</ProductionPillMegawoolEffect.description>
   <StabiliserHigh.description>이 폰의 상태가 안정화 되어 추가적인 변이를 막습니다. 이 상태는 5일동안 지속되며, 지속되는 동안에는 추가적인 변이를 받을 수 없습니다.</StabiliserHigh.description>
-  <StabiliserHigh.label>돌연변이 안정화</StabiliserHigh.label>
+  <StabiliserHigh.label>변형물질 안정회됨</StabiliserHigh.label>
   <AcceleratorHigh.label>변형물질 가속됨</AcceleratorHigh.label>
-  <AcceleratorHigh.description>이 폰의 돌연변이가 가속된 속도로 나타납니다.</AcceleratorHigh.description>
+  <AcceleratorHigh.description>이 폰의 변이가 가속된 속도로 나타납니다.</AcceleratorHigh.description>
   <SerumAddiction.label>혈청 중독</SerumAddiction.label>
   <SerumAddiction.description>이 폰은 혈청에 중독되어 일정한 복용이 필요합니다. 금단증상으로 심각한 정신이상 증세를 일으킬 수 있습니다.</SerumAddiction.description>
   <SerumAddiction.stages.0.label>중단</SerumAddiction.stages.0.label>
@@ -50,7 +50,7 @@
   <Cowflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Cowflu.stages.2.letterLabel>
   <Cowflu.stages.3.label>완벽한</Cowflu.stages.3.label>
   <Chaoflu.label>카오 변이 독감</Chaoflu.label>
-  <Chaoflu.description>This pawn has contracted a mutagenic disease that seems to be very random and chaotic, due to the high level of conflicting mutagenic mechanites in their system.</Chaoflu.description>
+  <Chaoflu.description>이 폰은 굉장히 무작위적이고 혼돈적인 변형 유인 질병에 걸렸습니다. 이것은 체내의 쌓인 변형 유인체 메카나이트의 충돌로 인해 발생 하였습니다.</Chaoflu.description>
   <Chaoflu.stages.0.label>심각하지 않은</Chaoflu.stages.0.label>
   <Chaoflu.stages.1.label>중대한</Chaoflu.stages.1.label>
   <Chaoflu.stages.2.label>심각한</Chaoflu.stages.2.label>
@@ -66,56 +66,56 @@
   <HuskyFlu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</HuskyFlu.stages.2.letterLabel>
   <HuskyFlu.stages.3.label>넓은 수염</HuskyFlu.stages.3.label>
   <TransformedHuman.label>인간이었던 것</TransformedHuman.label>
-  <TransformedHuman.description>[PAWN_defName](은)는 과거엔 인간이었지만 무슨 일이 있었는지 지금은 현태의 형태로 변이되었습니다. 하지만, [PAWN_pronoun]는 다시 되돌아갈 수 있습니다.</TransformedHuman.description>
-  <TransformedHuman.stages.0.label>야생</TransformedHuman.stages.0.label>
-  <TransformedHuman.stages.1.label>야생</TransformedHuman.stages.1.label>
-  <TransformedHuman.stages.2.label>사피엔</TransformedHuman.stages.2.label>
-  <TransformedHuman.stages.3.label>정신병자</TransformedHuman.stages.3.label>
-  <TransformedHuman.stages.4.label>정신병자</TransformedHuman.stages.4.label>
+  <TransformedHuman.description>[PAWN_nameDef](은)는 과거엔 인간이었지만 무슨 일이 있었는지 지금은 현태의 형태로 변이되었습니다. 하지만, [PAWN_pronoun]는 다시 되돌아갈 수 있습니다.</TransformedHuman.description>
+  <TransformedHuman.stages.0.label>지성적</TransformedHuman.stages.0.label>
+  <TransformedHuman.stages.1.label>거의 지성적</TransformedHuman.stages.1.label>
+  <TransformedHuman.stages.2.label>충동적</TransformedHuman.stages.2.label>
+  <TransformedHuman.stages.3.label>거의 야생적</TransformedHuman.stages.3.label>
+  <TransformedHuman.stages.4.label>야생적</TransformedHuman.stages.4.label>
   <Animalistic.label>짐승같은</Animalistic.label>
-  <Animalistic.description>Due to certain mutations or having spent time as an animal, this pawn is struggling to maintain their sapience</Animalistic.description>
-  <Animalistic.stages.0.label>사피엔</Animalistic.stages.0.label>
-  <Animalistic.stages.1.label>야생</Animalistic.stages.1.label>
-  <Animalistic.stages.2.label>사피엔</Animalistic.stages.2.label>
-  <Animalistic.stages.3.label>정신병자</Animalistic.stages.3.label>
-  <Animalistic.stages.4.label>정신병자</Animalistic.stages.4.label>
+  <Animalistic.description>특정 변이 혹은 동물로서 보낸 시간으로 인해, 이 폰은 지성을 유지하는 것이 힘들어 졌습니다.</Animalistic.description>
+  <Animalistic.stages.0.label>지성적</Animalistic.stages.0.label>
+  <Animalistic.stages.1.label>거의 지성적</Animalistic.stages.1.label>
+  <Animalistic.stages.2.label>충동적</Animalistic.stages.2.label>
+  <Animalistic.stages.3.label>거의 야생적</Animalistic.stages.3.label>
+  <Animalistic.stages.4.label>야생적</Animalistic.stages.4.label>
   <2xMergedHuman.label>변이체 융합 x2</2xMergedHuman.label>
-  <2xMergedHuman.description>[PAWN_defName](은)는 두개의 존재가 하나의 포악한 괴물로 합쳐진, 존재해서는 안될 생명체입니다.</2xMergedHuman.description>
-  <2xMergedHuman.stages.0.label>사피엔</2xMergedHuman.stages.0.label>
-  <2xMergedHuman.stages.1.label>야생</2xMergedHuman.stages.1.label>
-  <2xMergedHuman.stages.2.label>사피엔</2xMergedHuman.stages.2.label>
-  <2xMergedHuman.stages.3.label>정신병자</2xMergedHuman.stages.3.label>
-  <2xMergedHuman.stages.4.label>정신병자</2xMergedHuman.stages.4.label>
+  <2xMergedHuman.description>[PAWN_nameDef](은)는 두개의 존재가 하나의 포악한 괴물로 합쳐진, 존재해서는 안될 생명체입니다.</2xMergedHuman.description>
+  <2xMergedHuman.stages.0.label>지성적</2xMergedHuman.stages.0.label>
+  <2xMergedHuman.stages.1.label>거의 지성적</2xMergedHuman.stages.1.label>
+  <2xMergedHuman.stages.2.label>충동적</2xMergedHuman.stages.2.label>
+  <2xMergedHuman.stages.3.label>거의 야생적</2xMergedHuman.stages.3.label>
+  <2xMergedHuman.stages.4.label>야생적</2xMergedHuman.stages.4.label>
   <PermanentlyFeral.label>영구적인 야생인간</PermanentlyFeral.label>
-  <PermanentlyFeral.description>[PAWN_defName](은)는 한때 인간이었지만, [PAWN_pronoun]의 SDNA 내부에 흐르는 메카나이트가 [PAWN_pronoun]를 완전히 뒤바꾸어 버리고 말았습니다. [PAWN_pronoun]는 이제 남은 수명동안 이 형태로 살게 될 것입니다. 변이체 혈청으로도 변이는 일어나지 않습니다.</PermanentlyFeral.description>
+  <PermanentlyFeral.description>[PAWN_nameDef](은)는 한때 인간이었지만, [PAWN_pronoun]의 SDNA 내부에 흐르는 메카나이트가 [PAWN_pronoun]를 완전히 뒤바꾸어 버리고 말았습니다. [PAWN_pronoun]는 이제 남은 수명동안 이 형태로 살게 될 것입니다. 변이체 혈청으로도 변이는 일어나지 않습니다.</PermanentlyFeral.description>
   <WasAnimal.label>동물이었던</WasAnimal.label>
-  <WasAnimal.description>[PAWN_defName](은)는 동물로 변하고 말았지만, [PAWN_pronoun]에겐 더 잘 된 일일 것입니다. 하지만, [PAWN_pronoun]는 자신의 상태에 행복해하지 않습니다.</WasAnimal.description>
+  <WasAnimal.description>[PAWN_nameDef](은)는 동물로 변하고 말았지만, [PAWN_pronoun]에겐 더 잘 된 일일 것입니다. 하지만, [PAWN_pronoun]는 자신의 상태에 행복해하지 않습니다.</WasAnimal.description>
   <WasAnimal.stages.0.label>영구적</WasAnimal.stages.0.label>
   <WasAnimal.stages.1.label>야생</WasAnimal.stages.1.label>
-  <WasAnimal.stages.2.label>사피엔</WasAnimal.stages.2.label>
-  <WasAnimal.stages.3.label>정신병자</WasAnimal.stages.3.label>
+  <WasAnimal.stages.2.label>지성적</WasAnimal.stages.2.label>
+  <WasAnimal.stages.3.label>미쳐버림</WasAnimal.stages.3.label>
   <WasMergedRelieved.label>뒤섞인</WasMergedRelieved.label>
-  <WasMergedRelieved.description>[PAWN_defName](은)는 다른  이들과 함께 살과 살점들이 무질서하게 뒤섞여 결합되어버렸지만, [PAWN_pronoun]는 그 통찰을 매우 가치있게 생각하고 있습니다.</WasMergedRelieved.description>
+  <WasMergedRelieved.description>[PAWN_nameDef](은)는 다른 이들과 함께 살과 살점들이 무질서하게 뒤섞여 결합되어버렸지만, [PAWN_pronoun]는 그 통찰을 매우 가치있게 생각하고 있습니다.</WasMergedRelieved.description>
   <WasMergedRelieved.stages.0.label>영구적</WasMergedRelieved.stages.0.label>
   <WasMergedRelieved.stages.1.label>야생</WasMergedRelieved.stages.1.label>
-  <WasMergedRelieved.stages.2.label>사피엔</WasMergedRelieved.stages.2.label>
-  <WasMergedRelieved.stages.3.label>정신병자</WasMergedRelieved.stages.3.label>
+  <WasMergedRelieved.stages.2.label>지성적</WasMergedRelieved.stages.2.label>
+  <WasMergedRelieved.stages.3.label>미쳐버림</WasMergedRelieved.stages.3.label>
   <WasMerged.label>뒤섞인</WasMerged.label>
-  <WasMerged.description>[PAWN_defName](은)는 다른  이들과 함께 살과 살점들이 무질서하게 뒤섞여 결합되어버렸고, [PAWN_pronoun]는 그 경험으로 인해 매우 큰 상처를 받고 말았습니다.</WasMerged.description>
+  <WasMerged.description>[PAWN_nameDef](은)는 다른 이들과 함께 살과 살점들이 무질서하게 뒤섞여 결합되어버렸고, [PAWN_pronoun]는 그 경험으로 인해 매우 큰 상처를 받고 말았습니다.</WasMerged.description>
   <WasMerged.stages.0.label>영구적</WasMerged.stages.0.label>
   <WasMerged.stages.1.label>야생</WasMerged.stages.1.label>
-  <WasMerged.stages.2.label>사피엔</WasMerged.stages.2.label>
-  <WasMerged.stages.3.label>정신병자</WasMerged.stages.3.label>
+  <WasMerged.stages.2.label>지성적</WasMerged.stages.2.label>
+  <WasMerged.stages.3.label>미쳐버림</WasMerged.stages.3.label>
   <WasAnimalRelieved.label>동물이었던</WasAnimalRelieved.label>
-  <WasAnimalRelieved.description>[PAWN_defName](은)는 동물로 변하고 말았지만, [PAWN_pronoun]에겐 더 잘 된 일일 것입니다. 하지만, [PAWN_pronoun]는 이 경험을 새로운 학습의 기회로 생각하고 있습니다.</WasAnimalRelieved.description>
+  <WasAnimalRelieved.description>[PAWN_nameDef](은)는 동물로 변하고 말았지만, [PAWN_pronoun]에겐 더 잘 된 일일 것입니다. 하지만, [PAWN_pronoun]는 이 경험을 새로운 학습의 기회로 생각하고 있습니다.</WasAnimalRelieved.description>
   <WasAnimalRelieved.stages.0.label>영구적</WasAnimalRelieved.stages.0.label>
   <WasAnimalRelieved.stages.1.label>야생</WasAnimalRelieved.stages.1.label>
-  <WasAnimalRelieved.stages.2.label>사피엔</WasAnimalRelieved.stages.2.label>
-  <WasAnimalRelieved.stages.3.label>정신병자</WasAnimalRelieved.stages.3.label>
+  <WasAnimalRelieved.stages.2.label>지성적</WasAnimalRelieved.stages.2.label>
+  <WasAnimalRelieved.stages.3.label>미쳐버림</WasAnimalRelieved.stages.3.label>
   <FeralPillSapienceDrop.label>야생화</FeralPillSapienceDrop.label>
   <FeralPillSapienceDrop.description>[PAWN_nameDef]의 지능은 야생화 알약을 투여했기 때문에 짐승 수준으로 급격히 저하되고 있습니다.</FeralPillSapienceDrop.description>
   <PM_InstantStabiliserHigh.description>이 폰의 상태가 안정화 되어 추가적인 변이를 막습니다. 이 상태는 5일동안 지속되며, 지속되는 동안에는 추가적인 변이를 받을 수 없습니다.</PM_InstantStabiliserHigh.description>
-  <PM_InstantStabiliserHigh.label>돌연변이 안정화</PM_InstantStabiliserHigh.label>
+  <PM_InstantStabiliserHigh.label>변형물질 안정회됨</PM_InstantStabiliserHigh.label>
   <MutagenicBuildup_Weapon.stages.0.label>초기</MutagenicBuildup_Weapon.stages.0.label>
   <MutagenicBuildup_Weapon.stages.1.label>초기</MutagenicBuildup_Weapon.stages.1.label>
   <MutagenicBuildup_Weapon.stages.2.label>심각하지 않음</MutagenicBuildup_Weapon.stages.2.label>
@@ -144,7 +144,7 @@
   <MutagenicBuildup_LargeExplosion.stages.7.label>극심함</MutagenicBuildup_LargeExplosion.stages.7.label>
   <MutagenicBuildup_LargeExplosion.description>변형 유인 메카나이트에 높은 수준으로 노출된 결과, 그것들이 폰의 신체의 쌓이기 시작했습니다. 농도가 높아지게 된다면 변이를 일으킬 수 있습니다.</MutagenicBuildup_LargeExplosion.description>
   <MutagenicBuildup.description>변형 유인 메카나이트에 높은 수준으로 노출된 결과, 그것들이 폰의 신체의 쌓이기 시작했습니다. 농도가 높아지게 된다면 변이를 일으킬 수 있습니다.</MutagenicBuildup.description>
-  <MutagenicBuildup.label>돌연변이 발생도</MutagenicBuildup.label>
+  <MutagenicBuildup.label>변형 유인체 축적</MutagenicBuildup.label>
   <MutagenicBuildup.stages.0.label>초기</MutagenicBuildup.stages.0.label>
   <MutagenicBuildup.stages.1.label>초기</MutagenicBuildup.stages.1.label>
   <MutagenicBuildup.stages.2.label>심각하지 않음</MutagenicBuildup.stages.2.label>
@@ -216,7 +216,7 @@
   <PawnmorphCatTFPartial.label>불완전한 고양이 변이체</PawnmorphCatTFPartial.label>
   <PawnmorphCatTFPartial.description>이 사람의 혈액속에는 고양이 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphCatTFPartial.description>
   <FullRandomTFAnyOutcome.label>혼돈변이체</FullRandomTFAnyOutcome.label>
-  <FullRandomTFAnyOutcome.description>This person has raw, unfocused mechanites simultaniously mutating them into every animal imaginable. Pray to Randy they don't come out the other end on all fours.</FullRandomTFAnyOutcome.description>
+  <FullRandomTFAnyOutcome.description>이 사람은 정제되지않은, 무작위적인 메카나이트가 체내에 있으며, 이는 상상 가능한 모든 동물로 끊임없이 변이를 발생시킵니다. 결과가 절망적이지 않길 랜디에게 기도하세요.</FullRandomTFAnyOutcome.description>
   <FullRandomTFAnyOutcome.stages.0.label>감아내기</FullRandomTFAnyOutcome.stages.0.label>
   <FullRandomTFAnyOutcome.stages.1.label>변이중</FullRandomTFAnyOutcome.stages.1.label>
   <FullRandomTFAnyOutcome.stages.2.label>동물화중</FullRandomTFAnyOutcome.stages.2.label>
@@ -457,7 +457,7 @@
   <PawnmorphSquirrelTFPartial.label>불완전한 양 변이체</PawnmorphSquirrelTFPartial.label>
   <PawnmorphSquirrelTFPartial.description>이 사람의 혈액속에는 다람쥐와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSquirrelTFPartial.description>
   <PawnmorphThrumboTF.label>트럼보 변이체</PawnmorphThrumboTF.label>
-  <PawnmorphThrumboTF.description>This person has mechanites in their blood that are slowly mutating them into a thrumbomorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far wiser.</PawnmorphThrumboTF.description>
+  <PawnmorphThrumboTF.description>이 사람의 혈액에는 신체를 천천히 트럼보 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 지나치게 현명한 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphThrumboTF.description>
   <PawnmorphThrumboTF.stages.0.label>감아내기</PawnmorphThrumboTF.stages.0.label>
   <PawnmorphThrumboTF.stages.1.label>변이</PawnmorphThrumboTF.stages.1.label>
   <PawnmorphThrumboTF.stages.1.letterText>변신단계경고내용</PawnmorphThrumboTF.stages.1.letterText>
@@ -513,7 +513,7 @@
   <SapienceLimiterHediff.description>삽입된 지성 복구망</SapienceLimiterHediff.description>
   <TFMilkAddiction.label>우유 중독</TFMilkAddiction.label>
   <TFMilkAddiction.description>이 사람은 변이우유 의존성이 생겼습니다. 금단현상으로 인해 동물로 변할수 있으니, 주의하십시오.</TFMilkAddiction.description>
-  <TFMilkAddiction.stages.1.label>취소</TFMilkAddiction.stages.1.label>
+  <TFMilkAddiction.stages.1.label>금단현상</TFMilkAddiction.stages.1.label>
   <TFEggAddiction.label>알 중독</TFEggAddiction.label>
   <TFEggAddiction.description>이 사람은 변이달걀 의존성이 생겼습니다. 금단현상으로 인해 동물로 변할수 있으니, 주의하십시오.</TFEggAddiction.description>
   <TFEggAddiction.stages.1.label>취소</TFEggAddiction.stages.1.label>

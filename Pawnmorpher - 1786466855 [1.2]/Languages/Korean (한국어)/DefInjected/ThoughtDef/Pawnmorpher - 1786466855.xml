@@ -227,7 +227,7 @@
   <CowTransformationMemory.stages.0.label>변이 끝남</CowTransformationMemory.stages.0.label>
   <CowTransformationMemory.stages.0.description>으어, 너무 몸이 너무 무거워... 다이어트를 해야하나봐</CowTransformationMemory.stages.0.description>
   <CowTransformationMemory.stages.1.label>변이 끝남</CowTransformationMemory.stages.1.label>
-  <CowTransformationMemory.stages.1.description>It’s gotta feel so good to moo as a cow. Probably feels really good to moo.</CowTransformationMemory.stages.1.description>
+  <CowTransformationMemory.stages.1.description>소처럼 되서 음머 하면 기분이 좋을거야. 음머 하는것도 기분이 엄청 좋을것 같아.</CowTransformationMemory.stages.1.description>
   <CowTransformationMemory.stages.2.label>변이 끝남</CowTransformationMemory.stages.2.label>
   <CowTransformationMemory.stages.2.description>제발, 안돼! 이제야 겨우 체중감량에 성공했단말야! 왜!?</CowTransformationMemory.stages.2.description>
   <CowTransformationMemory.stages.3.label>변이 끝남</CowTransformationMemory.stages.3.label>
@@ -787,7 +787,7 @@
   <FriendTransformed.stages.0.label>변이된 친구</FriendTransformed.stages.0.label>
   <FriendTransformed.stages.0.description>내 친구가 멍청한 동물로 변해 버렸어!</FriendTransformed.stages.0.description>
   <BodyPuristMutationSad.stages.0.label>거부반응</BodyPuristMutationSad.stages.0.label>
-  <BodyPuristMutationSad.stages.0.description>난 이런 돌연변이가 싫어.</BodyPuristMutationSad.stages.0.description>
+  <BodyPuristMutationSad.stages.0.description>난 이 변이가 싫어.</BodyPuristMutationSad.stages.0.description>
   <BodyPuristMutationSad.stages.1.label>역겨움</BodyPuristMutationSad.stages.1.label>
   <BodyPuristMutationSad.stages.1.description>난 돌연변이 괴물이야.</BodyPuristMutationSad.stages.1.description>
   <BodyPuristMutationSad.stages.2.label>회피</BodyPuristMutationSad.stages.2.label>
@@ -808,7 +808,7 @@
   <WasAnimal.stages.0.description>난 짐승의 몸에 갇혀있었어... 지성도 없는 야수로! 난 다시 인간이 되었지만, 이 일을 오랬동안 극복하기 어려울 것 같아...</WasAnimal.stages.0.description>
   <WasAnimal.stages.1.label>지성화된 동물이었음</WasAnimal.stages.1.label>
   <WasAnimal.stages.1.description>난 다시 인간이 된 것이 기뻐. 난 짐승이었을 때 무엇을 해야할지 몰랐어... 그리고 난 여전히 내 마음을 끌어당기는 본능을 느낄 수가 있어...</WasAnimal.stages.1.description>
-  <WasAnimal.stages.2.label>미친 동물이었음</WasAnimal.stages.2.label>
+  <WasAnimal.stages.2.label>지성 있는 동물 이었음</WasAnimal.stages.2.label>
   <WasAnimal.stages.2.description>난... 정말 미안해... 내 안의 맹목적인 분노를 스스로 억제할 수가 없었어! 하지만... 내가 겪은 일을 안다면 너도 이해할 수 있을거야...</WasAnimal.stages.2.description>
   <WasAnimal.stages.3.label>미친 동물이었음</WasAnimal.stages.3.label>
   <WasAnimal.stages.3.description>난... 정말 미안해... 내 안의 맹목적인 분노를 스스로 억제할 수가 없었어! 하지만... 내가 겪은 일을 안다면 너도 이해할 수 있을거야...</WasAnimal.stages.3.description>
@@ -818,7 +818,7 @@
   <WasAnimalRelieved.stages.0.description>난 짐승의 몸에 갇혀있었어... 지성도 없는 야수로! 난 다시 인간이 되었지만, 그 경험들은... 생각만큼 나쁘지 않았을지도?</WasAnimalRelieved.stages.0.description>
   <WasAnimalRelieved.stages.1.label>지성화된 동물이었음</WasAnimalRelieved.stages.1.label>
   <WasAnimalRelieved.stages.1.description>난 다시 인간이 된 것이 기뻐. 난 짐승이었을 때 무엇을 해야할지 몰랐어... 하지만 그 경험들은 내게 세상을 가치있게 바라볼 수 있는 시선을 주었어.</WasAnimalRelieved.stages.1.description>
-  <WasAnimalRelieved.stages.2.label>미친 동물이었음</WasAnimalRelieved.stages.2.label>
+  <WasAnimalRelieved.stages.2.label>지성 있는 동물 이었음</WasAnimalRelieved.stages.2.label>
   <WasAnimalRelieved.stages.2.description>와우... 이렇게 내 모든 감정을 내뿜어볼 수 있었다니!</WasAnimalRelieved.stages.2.description>
   <WasAnimalRelieved.stages.3.label>미친 동물이었음</WasAnimalRelieved.stages.3.label>
   <WasAnimalRelieved.stages.3.description>와우... 이렇게 내 모든 감정을 내뿜어볼 수 있었다니!</WasAnimalRelieved.stages.3.description>
@@ -840,13 +840,13 @@
   <WasMerged.stages.1.description>나는 다시 인간이 된 것을 기쁘게 생각하지만, 그 경험은 정말 계몽적이었어. 나는 내 멜드메이트와 그 어느때보다도 가까워.</WasMerged.stages.1.description>
   <WasMerged.stages.2.label>미친동물로 멜드(혼합)되었음</WasMerged.stages.2.label>
   <WasMerged.stages.2.description>다른 사람에게 내 모든 분노를 표출할 수 있어서 정말 기분이 좋았어!</WasMerged.stages.2.description>
-  <WasMerged.stages.3.label>미친동물로 멜드(혼합)되었음</WasMerged.stages.3.label>
+  <WasMerged.stages.3.label>융합되고 분노함</WasMerged.stages.3.label>
   <WasMerged.stages.3.description>다른 사람에게 내 모든 분노를 표출할 수 있어서 정말 기분이 좋았어!</WasMerged.stages.3.description>
   <WasMergedRelieved.stages.0.label>융합하여 야생화됨(영구적)</WasMergedRelieved.stages.0.label>
   <WasMergedRelieved.stages.0.description>나는 사람이지만 짐승의 몸 속에 갇혀 있어! 내 인간성을 잊는 것은 끔찍하게 불편했고 나는 그들이 나에게 한 짓들을 믿을 수 없어!</WasMergedRelieved.stages.0.description>
   <WasMergedRelieved.stages.1.label>융합하여 야생화됨</WasMergedRelieved.stages.1.label>
   <WasMergedRelieved.stages.1.description>나는 사람이지만 짐승의 몸 속에 갇혀 있어! 내 인간성을 잊는 것은 끔찍하게 불편했고 나는 그들이 나에게 한 짓들을 믿을 수 없어!</WasMergedRelieved.stages.1.description>
-  <WasMergedRelieved.stages.2.label>사피엔스였음</WasMergedRelieved.stages.2.label>
+  <WasMergedRelieved.stages.2.label>지성 있는 동물 이었음</WasMergedRelieved.stages.2.label>
   <WasMergedRelieved.stages.2.description>바로 옆에 있던 다른 사람과 함께 짐승의 몸 속에 갇혔어! 나는 그들이 무슨 생각을 하는지 알고 있었고 그들은 나에 대해 모든 것을 알고 있었어...충격이군!</WasMergedRelieved.stages.2.description>
   <WasMergedRelieved.stages.3.label>미친 동물이었음</WasMergedRelieved.stages.3.label>
   <WasMergedRelieved.stages.3.description>미안해! 맹세컨데 내 의지가 아니었어!</WasMergedRelieved.stages.3.description>
@@ -867,7 +867,7 @@
   <AteChaoMeatAsIngredient.stages.0.label>혼돈육을 먹음</AteChaoMeatAsIngredient.stages.0.label>
   <AteChaoMeatAsIngredient.stages.0.description>맛은 있지만.. 이것들은 원래 인간이지 않았나?!</AteChaoMeatAsIngredient.stages.0.description>
   <FurryNoMutations.stages.0.label>변이 좌절됨.</FurryNoMutations.stages.0.label>
-  <FurryNoMutations.stages.0.description>인간 게놈은 아주 간단하고, 난 훨씬 더 많은 것이 될 수 있어.</FurryNoMutations.stages.0.description>
+  <FurryNoMutations.stages.0.description>인간의 유전체는 너무 단순해, 난 훨씬 더 많은 것이 될 수 있어.</FurryNoMutations.stages.0.description>
   <FurryMutationThoughtsHappy.stages.0.label>변이에 기뻐함</FurryMutationThoughtsHappy.stages.0.label>
   <FurryMutationThoughtsHappy.stages.0.description>오,이런, 무슨 일이 일어나고 있어!</FurryMutationThoughtsHappy.stages.0.description>
   <FurryMutationThoughtsHappy.stages.1.label>변이에 상당히 기뻐함</FurryMutationThoughtsHappy.stages.1.label>
@@ -890,19 +890,19 @@
   <LaidEggBond.stages.0.description>알...! 꼬꼬꼬... 꼬끼오-!</LaidEggBond.stages.0.description>
   <LaidEggBroken.stages.0.label>알을 낳음 (에테르 깨짐)</LaidEggBroken.stages.0.label>
   <LaidEggBroken.stages.0.description>ㄲ...꼬... 알... 알을...꼬끼오...</LaidEggBroken.stages.0.description>
-  <MilkedMyself.stages.0.label>젖이 나옴</MilkedMyself.stages.0.label>
+  <MilkedMyself.stages.0.label>자신의 우유를 짬</MilkedMyself.stages.0.label>
   <MilkedMyself.stages.0.description>정말 당황스러워...</MilkedMyself.stages.0.description>
-  <MilkedMyselfMale.stages.0.label>젖이 나옴</MilkedMyselfMale.stages.0.label>
+  <MilkedMyselfMale.stages.0.label>자신의 우유를 짬</MilkedMyselfMale.stages.0.label>
   <MilkedMyselfMale.stages.0.description>사랑을 위해서야... 우유를 위해서가 아니라!</MilkedMyselfMale.stages.0.description>
-  <MilkedMyselfBond.stages.0.label>젖이 나옴(에테르 결합)</MilkedMyselfBond.stages.0.label>
+  <MilkedMyselfBond.stages.0.label>자신의 우유를 짬</MilkedMyselfBond.stages.0.label>
   <MilkedMyselfBond.stages.0.description>음머어어어어어어!</MilkedMyselfBond.stages.0.description>
-  <MilkedMyselfBroken.stages.0.label>젖이 나옴(에테르 깨짐)</MilkedMyselfBroken.stages.0.label>
+  <MilkedMyselfBroken.stages.0.label>자신의 우유를 짬</MilkedMyselfBroken.stages.0.label>
   <MilkedMyselfBroken.stages.0.description>음... 우음... 우, 우유...?</MilkedMyselfBroken.stages.0.description>
-  <ChemMilkedMyself.stages.0.label>젖이 나옴</ChemMilkedMyself.stages.0.label>
-  <ChemMilkedMyself.stages.0.description>정말 당황스러워...</ChemMilkedMyself.stages.0.description>
-  <ChemMilkedMyselfBond.stages.0.label>젖이 나옴(에테르 결합)</ChemMilkedMyselfBond.stages.0.label>
+  <ChemMilkedMyself.stages.0.label>내 화학고름을 짜냄</ChemMilkedMyself.stages.0.label>
+  <ChemMilkedMyself.stages.0.description>역겨워.</ChemMilkedMyself.stages.0.description>
+  <ChemMilkedMyselfBond.stages.0.label>내 화학고름을 짜냄</ChemMilkedMyselfBond.stages.0.label>
   <ChemMilkedMyselfBond.stages.0.description>퍼엉!</ChemMilkedMyselfBond.stages.0.description>
-  <ChemMilkedMyselfBroken.stages.0.label>젖이 나옴(에테르 깨짐)</ChemMilkedMyselfBroken.stages.0.label>
+  <ChemMilkedMyselfBroken.stages.0.label>내 화학고름을 짜냄</ChemMilkedMyselfBroken.stages.0.label>
   <ChemMilkedMyselfBroken.stages.0.description>펑... 퍼엉... 펑?</ChemMilkedMyselfBroken.stages.0.description>
   <ShavedMyself.stages.0.label>깨끗한 면도</ShavedMyself.stages.0.label>
   <ShavedMyself.stages.0.description>참 이상한 말이긴 하지만, 털은 깔끔하게 미는게 좋다고 생각해.</ShavedMyself.stages.0.description>
@@ -1061,7 +1061,7 @@
   <EtherScaledLimb.stages.1.label>비늘</EtherScaledLimb.stages.1.label>
   <EtherScaledLimb.stages.1.description>내장형 갑옷은 언제나 편리하지, 쉬이익...</EtherScaledLimb.stages.1.description>
   <EtherScaledLimb.stages.2.label>비늘</EtherScaledLimb.stages.2.label>
-  <EtherScaledLimb.stages.2.description>너무 우둘투둘하고, 까끌거리는데에다가, 짜증나는데,  이곳저것 너무 많이 자라기까지 한다고!</EtherScaledLimb.stages.2.description>
+  <EtherScaledLimb.stages.2.description>너무 우둘투둘하고, 까끌거리는데에다가, 짜증나는데, 이곳저것 너무 많이 자라기까지 한다고!</EtherScaledLimb.stages.2.description>
   <EtherSnakeHand.stages.0.label>뱀... 손?</EtherSnakeHand.stages.0.label>
   <EtherSnakeHand.stages.0.description>쉬이익, 그래도 스스스-손은 가지고 있겠네...</EtherSnakeHand.stages.0.description>
   <EtherSnakeHand.stages.1.label>뱀... 손?</EtherSnakeHand.stages.1.label>
@@ -1517,7 +1517,7 @@
   <EtherMuffaloEar.stages.1.label>소과의 귀</EtherMuffaloEar.stages.1.label>
   <EtherMuffaloEar.stages.1.description>귀여워!</EtherMuffaloEar.stages.1.description>
   <EtherMuffaloEar.stages.2.label>소과의 귀</EtherMuffaloEar.stages.2.label>
-  <EtherMuffaloEar.stages.2.description>딱 두단어만. 랜디야,  왜!?</EtherMuffaloEar.stages.2.description>
+  <EtherMuffaloEar.stages.2.description>딱 두단어만. 랜디야, 왜!?</EtherMuffaloEar.stages.2.description>
   <EtherMuffaloTail.stages.0.label>소 꼬리</EtherMuffaloTail.stages.0.label>
   <EtherMuffaloTail.stages.0.description>머팔로도 꼬리가 있었어? 왜 난 처음보지?</EtherMuffaloTail.stages.0.description>
   <EtherMuffaloTail.stages.1.label>소 꼬리</EtherMuffaloTail.stages.1.label>
@@ -1862,7 +1862,7 @@
   <AnimalisticHappyNude.stages.3.description>도대체 왜 털 위를 무언가로 덮고 싶어하는걸까...</AnimalisticHappyNude.stages.3.description>
   <AnimalisticHappyNude.stages.4.label>나체의 즐거움</AnimalisticHappyNude.stages.4.label>
   <AnimalisticHappyNude.stages.4.description>옷?</AnimalisticHappyNude.stages.4.description>
-  <AnimalisticThoughtPersistant.stages.0.label>야생</AnimalisticThoughtPersistant.stages.0.label>
+  <AnimalisticThoughtPersistant.stages.0.label>지성적</AnimalisticThoughtPersistant.stages.0.label>
   <AnimalisticThoughtPersistant.stages.0.description>정상 사고가 가능하긴 하네.</AnimalisticThoughtPersistant.stages.0.description>
   <AnimalisticThoughtPersistant.stages.1.label>가벼운 본능</AnimalisticThoughtPersistant.stages.1.label>
   <AnimalisticThoughtPersistant.stages.1.description>머리가 이상해... 머리 안쪽에서 이상한 목소리가 들리는 것 같아.</AnimalisticThoughtPersistant.stages.1.description>
@@ -1872,7 +1872,7 @@
   <AnimalisticThoughtPersistant.stages.3.description>이 생각에... 굴복해야 하나?</AnimalisticThoughtPersistant.stages.3.description>
   <AnimalisticThoughtPersistant.stages.4.label>야생</AnimalisticThoughtPersistant.stages.4.label>
   <AnimalisticThoughtPersistant.stages.4.description>...음식?</AnimalisticThoughtPersistant.stages.4.description>
-  <MA_AnimalisticThoughtPersistant.stages.0.label>야생</MA_AnimalisticThoughtPersistant.stages.0.label>
+  <MA_AnimalisticThoughtPersistant.stages.0.label>지성적</MA_AnimalisticThoughtPersistant.stages.0.label>
   <MA_AnimalisticThoughtPersistant.stages.0.description>다시 인간의 정신이 강해졌어!</MA_AnimalisticThoughtPersistant.stages.0.description>
   <MA_AnimalisticThoughtPersistant.stages.1.label>가벼운 본능</MA_AnimalisticThoughtPersistant.stages.1.label>
   <MA_AnimalisticThoughtPersistant.stages.1.description>머릿속에서 포기하라고 말하는 부드러운 유혹. 좀 끌리는걸...</MA_AnimalisticThoughtPersistant.stages.1.description>
@@ -1882,7 +1882,7 @@
   <MA_AnimalisticThoughtPersistant.stages.3.description>집중.. 해야해... 근데... 왜..?</MA_AnimalisticThoughtPersistant.stages.3.description>
   <MA_AnimalisticThoughtPersistant.stages.4.label>야생</MA_AnimalisticThoughtPersistant.stages.4.label>
   <MA_AnimalisticThoughtPersistant.stages.4.description>...음식?</MA_AnimalisticThoughtPersistant.stages.4.description>
-  <BP_AnimalisticThoughtPersistant.stages.0.label>야생</BP_AnimalisticThoughtPersistant.stages.0.label>
+  <BP_AnimalisticThoughtPersistant.stages.0.label>지성적</BP_AnimalisticThoughtPersistant.stages.0.label>
   <BP_AnimalisticThoughtPersistant.stages.0.description>다시 인간의 정신이 강해졌어!</BP_AnimalisticThoughtPersistant.stages.0.description>
   <BP_AnimalisticThoughtPersistant.stages.1.label>가벼운 본능</BP_AnimalisticThoughtPersistant.stages.1.label>
   <BP_AnimalisticThoughtPersistant.stages.1.description>왜 이렇게 이상한 기분이들지? 정신이 녹는 느낌이야...</BP_AnimalisticThoughtPersistant.stages.1.description>
@@ -1892,7 +1892,7 @@
   <BP_AnimalisticThoughtPersistant.stages.3.description>안돼! 이제와서 포기 할수 없어... 하지만 내 본능이 너무나도 강력해...!</BP_AnimalisticThoughtPersistant.stages.3.description>
   <BP_AnimalisticThoughtPersistant.stages.4.label>야생</BP_AnimalisticThoughtPersistant.stages.4.label>
   <BP_AnimalisticThoughtPersistant.stages.4.description>...음식?</BP_AnimalisticThoughtPersistant.stages.4.description>
-  <PW_AnimalisticThoughtPersistant.stages.0.label>야생</PW_AnimalisticThoughtPersistant.stages.0.label>
+  <PW_AnimalisticThoughtPersistant.stages.0.label>지성적</PW_AnimalisticThoughtPersistant.stages.0.label>
   <PW_AnimalisticThoughtPersistant.stages.0.description>내 인간 정신이 다시 또렷해 졌어... 재미 없게 말야.</PW_AnimalisticThoughtPersistant.stages.0.description>
   <PW_AnimalisticThoughtPersistant.stages.1.label>가벼운 본능</PW_AnimalisticThoughtPersistant.stages.1.label>
   <PW_AnimalisticThoughtPersistant.stages.1.description>감각이 날카로워지고, 이 동물적 생각도 정말 끝내줘!</PW_AnimalisticThoughtPersistant.stages.1.description>
@@ -2072,7 +2072,7 @@
   <SapientAnimalBondedNonMaster.stages.1.description>나는 친구와 특별한 유대감을 가지고 있지만, 그들은 지금 내 곁에 없어.</SapientAnimalBondedNonMaster.stages.1.description>
   <SapientAnimalBondedNonMaster.stages.2.label>주인이지만 돌봐주지 않는 친구.</SapientAnimalBondedNonMaster.stages.2.label>
   <SapientAnimalBondedNonMaster.stages.2.description>내 생각엔...그들은 내 주인이야...하지만 그들은 여기 없어.</SapientAnimalBondedNonMaster.stages.2.description>
-  <SapientAnimalBondedNonMaster.stages.3.label>나쁜 주인.</SapientAnimalBondedNonMaster.stages.3.label>
+  <SapientAnimalBondedNonMaster.stages.3.label>각별한 사람이 주인이 아님</SapientAnimalBondedNonMaster.stages.3.label>
   <SapientAnimalBondedNonMaster.stages.3.description>주인님은 어디 계시지? 음식을 먹고 싶어...</SapientAnimalBondedNonMaster.stages.3.description>
   <FeralPillThought.stages.0.label>꼬드기는 마음</FeralPillThought.stages.0.label>
   <FeralPillThought.stages.0.description>저게 뭐야?! 본능의 부름이 이제 훨씬 더 강해졌어...!</FeralPillThought.stages.0.description>
@@ -2143,7 +2143,7 @@
   <FHDefaultCannibalGoodThought_Direct.stages.0.label>{animal} 고기 먹음</FHDefaultCannibalGoodThought_Direct.stages.0.label>
   <FHDefaultCannibalGoodThought_Direct.stages.0.description>또다른 사람은 아니지만... 그래도 난 {animal}(이)니까 충분히 비슷하다고!</FHDefaultCannibalGoodThought_Direct.stages.0.description>
   <FHDefaultCannibalGoodThought_Direct.stages.1.label>{animal} 고기 먹음</FHDefaultCannibalGoodThought_Direct.stages.1.label>
-  <FHDefaultCannibalGoodThought_Direct.stages.1.description>이거 참 맛있네! 오, 그리고 나도  {animal}(이)잖아! 그럼 더 좋지!</FHDefaultCannibalGoodThought_Direct.stages.1.description>
+  <FHDefaultCannibalGoodThought_Direct.stages.1.description>이거 참 맛있네! 오, 그리고 나도 {animal}(이)잖아! 그럼 더 좋지!</FHDefaultCannibalGoodThought_Direct.stages.1.description>
   <FHDefaultCannibalGoodThought_Direct.stages.2.label>{animal} 고기 먹음</FHDefaultCannibalGoodThought_Direct.stages.2.label>
   <FHDefaultCannibalGoodThought_Direct.stages.2.description>난 {animal} 고기를 먹고있는 한마리의 {animal}(이)야. 좋아!</FHDefaultCannibalGoodThought_Direct.stages.2.description>
   <FHDefaultCannibalGoodThought_Direct.stages.3.label>{animal} 고기 먹음</FHDefaultCannibalGoodThought_Direct.stages.3.label>
@@ -2179,7 +2179,7 @@
   <SapientAnimalHuntingMemoryPrimalWish.stages.2.label>사냥함</SapientAnimalHuntingMemoryPrimalWish.stages.2.label>
   <SapientAnimalHuntingMemoryPrimalWish.stages.2.description>진짜 흥분됐어! 맛있다!</SapientAnimalHuntingMemoryPrimalWish.stages.2.description>
   <SapientAnimalHuntingMemoryPrimalWish.stages.3.label>사냥함</SapientAnimalHuntingMemoryPrimalWish.stages.3.label>
-  <SapientAnimalHuntingMemoryPrimalWish.stages.3.description>원시적 감정...  엄청 강해, 사냥을 더 하자!</SapientAnimalHuntingMemoryPrimalWish.stages.3.description>
+  <SapientAnimalHuntingMemoryPrimalWish.stages.3.description>원시적 감정... 엄청 강해, 사냥을 더 하자!</SapientAnimalHuntingMemoryPrimalWish.stages.3.description>
   <SapientAnimalHuntingBreakCatharsis.stages.0.label>사냥 카타르시스</SapientAnimalHuntingBreakCatharsis.stages.0.label>
   <SapientAnimalHuntingBreakCatharsis.stages.0.description>이제 좀 나아진 것 같아... 약간 안개가 낀 것 같아..</SapientAnimalHuntingBreakCatharsis.stages.0.description>
   <SapientAnimalHuntingBreakCatharsis.stages.1.label>사냥 카타르시스</SapientAnimalHuntingBreakCatharsis.stages.1.label>
@@ -2338,7 +2338,7 @@
   <FH_PersistentThoughtPW.stages.5.description>음식!</FH_PersistentThoughtPW.stages.5.description>
   <SapientAnimalSleptOnGround.stages.0.label>땅바닥에서 자다</SapientAnimalSleptOnGround.stages.0.label>
   <SapientAnimalSleptOnGround.stages.0.description>난 이제 내 베개도 없어, 그냥 땅바닥에서 자야 돼!</SapientAnimalSleptOnGround.stages.0.description>
-  <SapientAnimalMilked.stages.0.label>젖이 나옴</SapientAnimalMilked.stages.0.label>
+  <SapientAnimalMilked.stages.0.label>젖을 짜냄</SapientAnimalMilked.stages.0.label>
   <SapientAnimalMilked.stages.0.description>나한테서 손 떼 이 더러운 유인원아!</SapientAnimalMilked.stages.0.description>
   <SapientAnimalGotSomeSnuggling.stages.0.label>꼭 껴안음</SapientAnimalGotSomeSnuggling.stages.0.label>
   <SapientAnimalGotSomeSnuggling.stages.0.description>꼬옥 껴안는 것 만큼 기분 좋은것도 없지.</SapientAnimalGotSomeSnuggling.stages.0.description>

@@ -40,31 +40,31 @@
   <PrimalWish.stages.0.description>[PAWN_nameDef](은)는 심플한 삶을 원합니다. 어느정도로 심플하게 살고 싶냐고 물어본다면, 인간보다는 동물 처럼 살고싶어 합니다. 당연히 [PAWN_nameDef](은)는 동물들을 부러워하고, 인간보단 동물이 되고 싶어 합니다.</PrimalWish.stages.0.description>
   <PrimalWish.stages.0.messageText>변이체가 되면서, [PAWN_nameDef](은)는 '원시적 소원' 이 생겨났습니다. [PAWN_pronoun]는 더 많은 변이를 원할지도 모릅니다.</PrimalWish.stages.0.messageText>
   <Beastmaster.label>비스트마스터</Beastmaster.label>
-  <Beastmaster.description>This pawn likes the company of animals who were once people, and feels more at ease being around them.</Beastmaster.description>
+  <Beastmaster.description>이 폰은 한때 사람이었던 동물 친구들과 함께 있는 것을 좋아하고 그들 주변에 있는 것에 편안함을 느낍니다.</Beastmaster.description>
   <Beastmaster.stages.0.label>비스트마스터</Beastmaster.stages.0.label>
-  <Beastmaster.stages.0.description>[PAWN_nameDef] likes the company of animals who were once people, and feels more at ease being around them.</Beastmaster.stages.0.description>
+  <Beastmaster.stages.0.description>[PAWN_nameDef](은)는 한때 사람이었던 동물 친구들과 함께 있는 것을 좋아하고 그들 주변에 있는 것에 편안함을 느낍니다.</Beastmaster.stages.0.description>
   <SplitMind.label>분리된 정신</SplitMind.label>
   <SplitMind.description>할 일</SplitMind.description>
   <SplitMind.stages.0.label>분리된 정신</SplitMind.stages.0.label>
   <SplitMind.stages.0.description>할 일</SplitMind.stages.0.description>
-  <EtherState.label>Etherbonded/broken</EtherState.label>
+  <EtherState.label>에테르 결합/분리</EtherState.label>
   <EtherState.description>이 폰은 지속적으로 생산을 해서, 얼얼한 기분을 느끼거나 행복한 상태로 망가져 버렸습니다.</EtherState.description>
-  <EtherState.stages.0.label>에테르깨짐</EtherState.stages.0.label>
+  <EtherState.stages.0.label>에테르분리</EtherState.stages.0.label>
   <EtherState.stages.0.description>지속적인 생산으로 인해 [PAWN_nameDef](은)는 자신의 상태에 무감각해졌으며, 자신의 운명에 복종하게 되었습니다.</EtherState.stages.0.description>
   <EtherState.stages.1.label>에테르결합</EtherState.stages.1.label>
   <EtherState.stages.1.description>지속적인 생산으로 인해 [PAWN_nameDef](은)는 변화를 받아들이게 되었으며, 어떤 이유가 되었든 이제 생산을 즐기게 될 것입니다.</EtherState.stages.1.description>
-  <SapienceCapped.label>제한된 지성</SapienceCapped.label>
-  <SapienceCapped.description>This pawn has had their sapience limited to a certain level.</SapienceCapped.description>
+  <SapienceCapped.label>지성 제한됨</SapienceCapped.label>
+  <SapienceCapped.description>이 폰의 지성은 특정 수준으로 제한 되었습니다.</SapienceCapped.description>
   <SapienceCapped.stages.0.label>도마뱀 뇌</SapienceCapped.stages.0.label>
-  <SapienceCapped.stages.0.description>The sapience of this pawn has been capped to feral levels.</SapienceCapped.stages.0.description>
+  <SapienceCapped.stages.0.description>이 폰의 가질 수 있는 지성은 완전히 야생적인 수준으로 제한되었습니다.</SapienceCapped.stages.0.description>
   <SapienceCapped.stages.1.label>닭대가리</SapienceCapped.stages.1.label>
-  <SapienceCapped.stages.1.description>이 폰이 가질수 있는 지성은 야생급으로 제한되어 있습니다.</SapienceCapped.stages.1.description>
+  <SapienceCapped.stages.1.description>이 폰의 가질 수 있는 지성은 매우 야생적인 수준으로 제한되었습니다.</SapienceCapped.stages.1.description>
   <SapienceCapped.stages.2.label>소의 뇌</SapienceCapped.stages.2.label>
-  <SapienceCapped.stages.2.description>이 폰이 가질수 있는 지성은 매우 제한되어 있습니다.</SapienceCapped.stages.2.description>
+  <SapienceCapped.stages.2.description>이 폰의 가질 수 있는 지성은 상당히 야생적인 수준으로 제한되었습니다.</SapienceCapped.stages.2.description>
   <SapienceCapped.stages.3.label>개의 뇌</SapienceCapped.stages.3.label>
-  <SapienceCapped.stages.3.description>이 폰이 가질수 있는 지성은 상당히 제한되어 있습니다.</SapienceCapped.stages.3.description>
+  <SapienceCapped.stages.3.description>이 폰의 가질 수 있는 지성은 상당히 제한되어 있습니다.</SapienceCapped.stages.3.description>
   <SapienceCapped.stages.4.label>원숭이 뇌</SapienceCapped.stages.4.label>
-  <SapienceCapped.stages.4.description>이 폰이 가질수 있는 지성은 약간 제한되어 있습니다.</SapienceCapped.stages.4.description>
+  <SapienceCapped.stages.4.description>이 폰의 가질 수 있는 지성은 약간 제한되어 있습니다.</SapienceCapped.stages.4.description>
   <MutagenInfused.label>변경된 생산</MutagenInfused.label>
   <MutagenInfused.description>이 폰은 변이의 생체 생산력에 영향을 주는 변형 유인체가 함유된 약을 먹었습니다.</MutagenInfused.description>
   <MutagenInfused.stages.0.label>변형물질 주입됨</MutagenInfused.stages.0.label>
@@ -106,7 +106,7 @@
   <PantherAspect.label>직감적인 포식자</PantherAspect.label>
   <PantherAspect.description>흑표범의 피가 이 폰의 혈관을 타고 흐릅니다. 감각은 예리해졌고, 신체도 날렵해졌으며, 손톱은 날카로워 졌습니다. 완벽한 사냥꾼이란, 이를두고 말하는 것 일겁니다.</PantherAspect.description>
   <PantherAspect.stages.0.label>직감적인 포식자</PantherAspect.stages.0.label>
-  <PantherAspect.stages.0.description>흑표범의 피가 [PAWN_nameDef]의 혈관을 타고 흐릅니다. [PAWN_possessive] 감각은 예리해졌고,  [PAWN_possessive] 신체도 날렵해졌으며,  [PAWN_possessive] 손톱 또한 날카로워 졌습니다.[PAWN_pronoun]는 완벽한 사냥꾼입니다.</PantherAspect.stages.0.description>
+  <PantherAspect.stages.0.description>흑표범의 피가 [PAWN_nameDef]의 혈관을 타고 흐릅니다. [PAWN_possessive] 감각은 예리해졌고, [PAWN_possessive] 신체도 날렵해졌으며, [PAWN_possessive] 손톱 또한 날카로워 졌습니다.[PAWN_pronoun]는 완벽한 사냥꾼입니다.</PantherAspect.stages.0.description>
   <MeatLover.label>고기 애호가</MeatLover.label>
   <MeatLover.description>이 폰은 날고기의 맛을 알게되었고, 날고기 섭취로 인해 식중독에 걸릴 확률이 줄어들었습니다.</MeatLover.description>
   <MeatLover.stages.0.label>고기 애호가</MeatLover.stages.0.label>

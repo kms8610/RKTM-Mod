@@ -1032,6 +1032,80 @@
 
 이들은 비열하고 절박한 사람들에 의해서만 활용되는 잔인한 도구이며, 태어날 때부터 족쇄를 채우고 약물을 투여해야 하므로 많은 자원을 필요로 합니다.</AA_IronboundLeviathanEmbryo.description>
   <AA_Cannonball.label>포 탄</AA_Cannonball.label>
+  <VFE_Mech_Aura.label>아우라</VFE_Mech_Aura.label>
+  <VFE_Mech_Aura.description>아우라는 구름처럼 떠오르는 6개의 금속 칼날에 둘러싸인 천사형태의 메카노이드입니다. 복수의 천사로도 알려진 그들은 희생자들에게 근접하여 죽음의 회오리 바람으로 집어삼키는 것을 선호합니다. 아우라는 고속 수복 메카나이트로 상처를 스스로 재생하는 능력을 가지고 있습니다. 이 개체는 새로 제조되어 말끔하고 견고해보입니다.
+
+참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</VFE_Mech_Aura.description>
+  <VFE_Mech_Aura.tools.0.label>날개깃</VFE_Mech_Aura.tools.0.label>
+  <VFE_Mech_Aura.tools.1.label>머리</VFE_Mech_Aura.tools.1.label>
+  <VFE_Mech_Daggersnout.label>단검주둥이</VFE_Mech_Daggersnout.label>
+  <VFE_Mech_Daggersnout.description>주둥이에 뾰족하고 날카로운 칼날로 무장한 재빠른 곤충형 전투 메카노이드입니다. 사이더와 같은 다른 근접 메카노이드만큼 위협적이지는 않지만 일반적으로 훨씬 더 많은 무리가 모여다닙니다. 이 개체는 새로 제조되어 말끔하고 견고해보입니다.
+
+참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</VFE_Mech_Daggersnout.description>
+  <VFE_Mech_Daggersnout.tools.0.label>아귀 검날</VFE_Mech_Daggersnout.tools.0.label>
+  <VFE_Mech_Daggersnout.tools.1.label>머리</VFE_Mech_Daggersnout.tools.1.label>
+  <VFE_Mech_Fireworm.label>파이어웜</VFE_Mech_Fireworm.label>
+  <VFE_Mech_Fireworm.description>위협적인 화염 방사기로 무장한 거대 기계지렁이입니다. 단, 이들은 공격사거리가 매우 짧기 때문에 방어시설에 접근하기 전에 미리 처리해야합니다!
+
+파이어 웜은 겉보기엔 서리 베히모스와 비슷해 보입니다. 우연의 일치일까요? 그게 아니라면 메카노이드는 생물체를 청사진으로 삼는지도 모릅니다. 이것이 사실일 경우 생물체를 기반으로 한 사이더가 어떻게 생겼을지는 상상하고 싶지 않습니다... 이 개체는 새로 제조되어 말끔하고 견고해보입니다.
+
+참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</VFE_Mech_Fireworm.description>
+  <VFE_Mech_Fireworm.tools.0.label>머리</VFE_Mech_Fireworm.tools.0.label>
+  <VFE_Mech_Goliath.label>골리앗</VFE_Mech_Goliath.label>
+  <VFE_Mech_Goliath.description>골리앗은 인간의 신체 구조를 모방한 강력한 전투 메카노이드입니다. 센티피드보다 빠르며 주로 일반적인 중형 메카노이드의 무기나 바늘 총으로 무장하고 있습니다. 이 개체는 새로 제조되어 말끔하고 견고해보입니다.
+
+
+참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</VFE_Mech_Goliath.description>
+  <VFE_Mech_Goliath.tools.0.label>머리</VFE_Mech_Goliath.tools.0.label>
+  <VFE_Mech_Phalanx.label>팔란스</VFE_Mech_Phalanx.label>
+  <VFE_Mech_Phalanx.description>코뿔소 딱정벌레의 신체를 모방한 거대한 메카노이드입니다. 팔란스의 플라스틸 갑각은 초냉각 가스 압축탄약을 지속적으로 생산할 수 있는 강력한 극저온 엔진으로 활용됩니다. 머리에 있는 총열을 통해 사격할 수 있습니다. 이 개체는 새로 제조되어 말끔하고 견고해보입니다.
+
+이 극저온 탄약의 사거리는 매우 짧지만 동상에 걸리기 쉬운 대상에게는 치명적입니다.
+
+참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</VFE_Mech_Phalanx.description>
+  <VFE_Mech_Phalanx.tools.0.label>머리</VFE_Mech_Phalanx.tools.0.label>
+  <VFE_Mech_Siegebreaker.label>시즈브레이커</VFE_Mech_Siegebreaker.label>
+  <VFE_Mech_Siegebreaker.description>시즈브레이커는 매우 위험한 탱크 형태의 메카노이드입니다. 고폭탄을 발사하는 공성 파괴 대포로 무장하고, 수백 미터 거리에서 적대적인 존재를 감지하며 튼튼한 방어선을 무너뜨릴 수 있는 가차없는 공성 병기 역할을 합니다. 이동 속도가 엄청나게 느리고 대포를 재충전하는 데 시간이 오래 걸리지만 최우선으로 처리해야 할 것입니다. 이 개체는 새로 제조되어 말끔하고 견고해보입니다.
+
+참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</VFE_Mech_Siegebreaker.description>
+  <VFE_Mech_Siegebreaker.tools.0.label>머리</VFE_Mech_Siegebreaker.tools.0.label>
+  <VFE_Mech_Advanced_Aura.label>도미니온</VFE_Mech_Advanced_Aura.label>
+  <VFE_Mech_Advanced_Aura.description>이 개선되고 강력해진 아우라의 후속기종 도미니온은 구름처럼 떠오르는 6개의 금속 칼날에 둘러싸인 천사형태의 메카노이드입니다. 복수의 천사로도 알려진 그들은 희생자들에게 근접하여 죽음의 회오리 바람으로 집어삼키는 것을 선호합니다. 아우라는 고속 수복 메카나이트로 상처를 스스로 재생하는 능력을 가지고 있습니다. 
+
+참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</VFE_Mech_Advanced_Aura.description>
+  <VFE_Mech_Advanced_Aura.tools.0.label>날개깃</VFE_Mech_Advanced_Aura.tools.0.label>
+  <VFE_Mech_Advanced_Aura.tools.1.label>머리</VFE_Mech_Advanced_Aura.tools.1.label>
+  <VFE_Mech_Advanced_Daggersnout.label>내장제거기</VFE_Mech_Advanced_Daggersnout.label>
+  <VFE_Mech_Advanced_Daggersnout.description>이 강화된 개체는 내장제거기라고 불리며, 주둥이에 뾰족하고 날카로운 칼날로 무장한 재빠른 곤충형 전투 메카노이드입니다. 사이더와 같은 다른 근접 메카노이드만큼 위협적이지는 않지만 일반적으로 훨씬 더 많은 무리가 모여다닙니다. 
+
+참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</VFE_Mech_Advanced_Daggersnout.description>
+  <VFE_Mech_Advanced_Daggersnout.tools.0.label>아귀 검날</VFE_Mech_Advanced_Daggersnout.tools.0.label>
+  <VFE_Mech_Advanced_Daggersnout.tools.1.label>머리</VFE_Mech_Advanced_Daggersnout.tools.1.label>
+  <VFE_Mech_Advanced_Fireworm.label>생체소각기</VFE_Mech_Advanced_Fireworm.label>
+  <VFE_Mech_Advanced_Fireworm.description>파이어웜이 한층 더 강력해진 형태의 생체소각기는 위협적인 화염 방사기로 무장한 거대 기계지렁이입니다. 단, 이들은 공격사거리가 매우 짧기 때문에 방어시설에 접근하기 전에 미리 처리해야합니다!
+
+파이어 웜은 겉보기엔 서리 베히모스와 비슷해 보입니다. 우연의 일치일까요? 그게 아니라면 메카노이드는 생물체를 청사진으로 삼는지도 모릅니다. 이것이 사실일 경우 생물체를 기반으로 한 사이더가 어떻게 생겼을지는 상상하고 싶지 않습니다... 이 개체는 새로 제조되어 말끔하고 견고해보입니다.
+
+참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</VFE_Mech_Advanced_Fireworm.description>
+  <VFE_Mech_Advanced_Fireworm.tools.0.label>머리</VFE_Mech_Advanced_Fireworm.tools.0.label>
+  <VFE_Mech_Advanced_Goliath.label>콜로서스</VFE_Mech_Advanced_Goliath.label>
+  <VFE_Mech_Advanced_Goliath.description>진보된 형태의 골리앗, 콜로서스는 인간의 신체 구조를 모방한 강력한 전투 메카노이드입니다. 센티피드보다 날렵하며 주로 일반적인 중형 메카노이드의 무기나 바늘 총으로 무장하고 있습니다. 이 개체는 새로 제조되어 말끔하고 견고해보입니다.
+
+
+참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</VFE_Mech_Advanced_Goliath.description>
+  <VFE_Mech_Advanced_Goliath.tools.0.label>머리</VFE_Mech_Advanced_Goliath.tools.0.label>
+  <VFE_Mech_Advanced_Phalanx.label>호플리테스</VFE_Mech_Advanced_Phalanx.label>
+  <VFE_Mech_Advanced_Phalanx.description>기존 모델인 팔란스보다 한층 더 강력해진 호플리테스는 코뿔소 딱정벌레의 신체를 모방한 거대한 메카노이드입니다. 팔란스의 플라스틸 갑각은 초냉각 가스 압축탄약을 지속적으로 생산할 수 있는 강력한 극저온 엔진으로 활용됩니다. 머리에 있는 총열을 통해 사격할 수 있습니다. 이 개체는 새로 제조되어 말끔하고 견고해보입니다.
+
+이 극저온 탄약의 사거리는 매우 짧지만 동상에 걸리기 쉬운 대상에게는 치명적입니다.
+
+참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</VFE_Mech_Advanced_Phalanx.description>
+  <VFE_Mech_Advanced_Phalanx.tools.0.label>머리</VFE_Mech_Advanced_Phalanx.tools.0.label>
+  <VFE_Mech_Advanced_Siegebreaker.label>시즈마스터</VFE_Mech_Advanced_Siegebreaker.label>
+  <VFE_Mech_Advanced_Siegebreaker.description>시즈브레이커의 한층 진보된 버전인 시즈마스터는 매우 파괴적인 탱크 형태의 메카노이드입니다. 고폭탄을 발사하는 공성 파괴 대포로 무장하고, 수백 미터 거리에서 적대적인 존재를 감지하며 튼튼한 방어선을 무너뜨릴 수 있는 가차없는 공성 병기 역할을 합니다. 이동 속도가 엄청나게 느리고 대포를 재충전하는 데 시간이 오래 걸리지만 최우선으로 처리해야 할 것입니다. 이 개체는 새로 제조되어 말끔하고 견고해보입니다.
+
+참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</VFE_Mech_Advanced_Siegebreaker.description>
+  <VFE_Mech_Advanced_Siegebreaker.tools.0.label>머리</VFE_Mech_Advanced_Siegebreaker.tools.0.label>
   <RB_SpunSynthreadSilk.label>합성원단 명주</RB_SpunSynthreadSilk.label>
   <RB_SpunSynthreadSilk.description>두니아리스크 및 정글리스크, 페라리스크에게 뽑아낸 명주실입니다. 베틀에서 합성원단으로 만들 수 있습니다.</RB_SpunSynthreadSilk.description>
   <RB_SpunHyperweaveSilk.label>초경조직 명주</RB_SpunHyperweaveSilk.label>

@@ -4,7 +4,7 @@
   <SewageSludgeComposting.description>오물을 적절한 처리와 관리를 통해 가혹한 환경의 제한된 공간에 비옥도를 증가시켜줄 수 있습니다. 또한, 비료는 관개용수와 혼용하여 지형의 비옥도를 많이 증가시킬 수 있습니다.</SewageSludgeComposting.description>
   <MultiSplitAirCon.label>다중 분할식 온도제어</MultiSplitAirCon.label>
   <MultiSplitAirCon.description>연결된 실외기를 사용하여 에어컨이나 냉동고 온도를 조절하는 다중 분할식 온도 제어 시스템입니다.</MultiSplitAirCon.description>
-  <Plumbing.label>배관 연구</Plumbing.label>
+  <Plumbing.label>배관</Plumbing.label>
   <Plumbing.description>물을 공급하고 배출하는 파이프, 배관설비, 저장탱크, 풍력펌프 및 기타 부속품을 연구합니다.</Plumbing.description>
   <LogBoilers.label>데우는 중.</LogBoilers.label>
   <LogBoilers.description>방을 데우는 데 사용할 수 있는 통나무 보일러를 만들고 욕조에 배관하여 온수를 낼 수 있습니다.</LogBoilers.description>

@@ -112,9 +112,9 @@
   <Make_VWE_Gun_Carbine.label>불펍카빈소총 만들기</Make_VWE_Gun_Carbine.label>
   <Make_VWE_Gun_Carbine.description>불펍카빈소총을 만듭니다.</Make_VWE_Gun_Carbine.description>
   <Make_VWE_Gun_Carbine.jobString>불펍카빈소총 만드는 중.</Make_VWE_Gun_Carbine.jobString>
-  <Make_VWE_Gun_MarksmanRifle.label>지정사수초송 만들기</Make_VWE_Gun_MarksmanRifle.label>
-  <Make_VWE_Gun_MarksmanRifle.description>지정사수초송을 만듭니다.</Make_VWE_Gun_MarksmanRifle.description>
-  <Make_VWE_Gun_MarksmanRifle.jobString>지정사수초송 만드는 중.</Make_VWE_Gun_MarksmanRifle.jobString>
+  <Make_VWE_Gun_MarksmanRifle.label>지정사수소총 만들기</Make_VWE_Gun_MarksmanRifle.label>
+  <Make_VWE_Gun_MarksmanRifle.description>지정사수소총을 만듭니다.</Make_VWE_Gun_MarksmanRifle.description>
+  <Make_VWE_Gun_MarksmanRifle.jobString>지정사수소총 만드는 중.</Make_VWE_Gun_MarksmanRifle.jobString>
   <Make_VWE_Gun_AntiMaterialRifle.label>대물 저격소총 만들기</Make_VWE_Gun_AntiMaterialRifle.label>
   <Make_VWE_Gun_AntiMaterialRifle.description>대물 저격소총을 만듭니다.</Make_VWE_Gun_AntiMaterialRifle.description>
   <Make_VWE_Gun_AntiMaterialRifle.jobString>대물 저격소총 만드는 중.</Make_VWE_Gun_AntiMaterialRifle.jobString>

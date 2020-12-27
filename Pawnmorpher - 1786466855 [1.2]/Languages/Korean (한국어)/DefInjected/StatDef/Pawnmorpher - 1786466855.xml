@@ -16,7 +16,7 @@
   <MutagenSensitivity_Apparel.description>변형 유인 효과가 이 생물에 미치는 값.</MutagenSensitivity_Apparel.description>
   <MutagenSensitivity_Stuff.label>변형물질 민감도 (물건들)</MutagenSensitivity_Stuff.label>
   <MutagenSensitivity_Stuff.description>변형 유인 효과가 이 생물에 미치는 값.</MutagenSensitivity_Stuff.description>
-  <MutagenSensitivity_StuffMult.label>mutagen sensitivity (stuff multiplier)</MutagenSensitivity_StuffMult.label>
+  <MutagenSensitivity_StuffMult.label>변형물질 민감도 (물건 배율)</MutagenSensitivity_StuffMult.label>
   <MutagenSensitivity_StuffMult.description>변형 유인 효과가 이 생물에 미치는 값.</MutagenSensitivity_StuffMult.description>
   <MutaniteConcentration.label>뮤타나이트 농축</MutaniteConcentration.label>
   <MutaniteConcentration.description>이 물건에 들어있는 정제되지 않은 뮤타나이트 함유량</MutaniteConcentration.description>

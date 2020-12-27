@@ -50,7 +50,7 @@
   <Chaoboom.corePart.parts.14.parts.0.customLabel>왼쪽 뒷 발굽</Chaoboom.corePart.parts.14.parts.0.customLabel>
   <Chaoboom.corePart.parts.15.customLabel>오른쪽 뒷 다리</Chaoboom.corePart.parts.15.customLabel>
   <Chaoboom.corePart.parts.15.parts.0.customLabel>오른쪽 뒷 발굽</Chaoboom.corePart.parts.15.parts.0.customLabel>
-  <Chaocow.label>혼돈 소</Chaocow.label>
+  <Chaocow.label>혼돈소</Chaocow.label>
   <Chaocow.corePart.parts.3.customLabel>왼쪽 폐</Chaocow.corePart.parts.3.customLabel>
   <Chaocow.corePart.parts.4.customLabel>오른쪽 폐</Chaocow.corePart.parts.4.customLabel>
   <Chaocow.corePart.parts.5.customLabel>왼쪽 신장</Chaocow.corePart.parts.5.customLabel>
@@ -61,14 +61,14 @@
   <Chaocow.corePart.parts.8.parts.0.parts.4.customLabel>오른쪽 귀</Chaocow.corePart.parts.8.parts.0.parts.4.customLabel>
   <Chaocow.corePart.parts.8.parts.0.parts.6.parts.0.customLabel>왼쪽 어금니</Chaocow.corePart.parts.8.parts.0.parts.6.parts.0.customLabel>
   <Chaocow.corePart.parts.8.parts.0.parts.6.parts.1.customLabel>오른쪽 어금니</Chaocow.corePart.parts.8.parts.0.parts.6.parts.1.customLabel>
-  <Chaocow.corePart.parts.9.customLabel>왼쪽 앞 다리</Chaocow.corePart.parts.9.customLabel>
-  <Chaocow.corePart.parts.9.parts.0.customLabel>왼쪽 앞 발톱</Chaocow.corePart.parts.9.parts.0.customLabel>
-  <Chaocow.corePart.parts.10.customLabel>오른쪽 앞 다리</Chaocow.corePart.parts.10.customLabel>
-  <Chaocow.corePart.parts.10.parts.0.customLabel>오른쪽 앞 발톱</Chaocow.corePart.parts.10.parts.0.customLabel>
-  <Chaocow.corePart.parts.11.customLabel>왼쪽 뒷 다리</Chaocow.corePart.parts.11.customLabel>
-  <Chaocow.corePart.parts.11.parts.0.customLabel>왼쪽 뒷 발굽</Chaocow.corePart.parts.11.parts.0.customLabel>
-  <Chaocow.corePart.parts.12.customLabel>오른쪽 뒷 다리</Chaocow.corePart.parts.12.customLabel>
-  <Chaocow.corePart.parts.12.parts.0.customLabel>오른쪽 뒷 발굽</Chaocow.corePart.parts.12.parts.0.customLabel>
+  <Chaocow.corePart.parts.9.customLabel>왼쪽 앞다리</Chaocow.corePart.parts.9.customLabel>
+  <Chaocow.corePart.parts.9.parts.0.customLabel>왼쪽 앞발</Chaocow.corePart.parts.9.parts.0.customLabel>
+  <Chaocow.corePart.parts.10.customLabel>오른쪽 앞다리</Chaocow.corePart.parts.10.customLabel>
+  <Chaocow.corePart.parts.10.parts.0.customLabel>오른쪽 앞발</Chaocow.corePart.parts.10.parts.0.customLabel>
+  <Chaocow.corePart.parts.11.customLabel>왼쪽 뒷다리</Chaocow.corePart.parts.11.customLabel>
+  <Chaocow.corePart.parts.11.parts.0.customLabel>왼쪽 뒷발굽</Chaocow.corePart.parts.11.parts.0.customLabel>
+  <Chaocow.corePart.parts.12.customLabel>오른쪽 뒷다리</Chaocow.corePart.parts.12.customLabel>
+  <Chaocow.corePart.parts.12.parts.0.customLabel>오른쪽 뒷발굽</Chaocow.corePart.parts.12.parts.0.customLabel>
   <Chaoboar.label>혼돈 멧돼지</Chaoboar.label>
   <Chaoboar.corePart.parts.3.customLabel>왼쪽 폐</Chaoboar.corePart.parts.3.customLabel>
   <Chaoboar.corePart.parts.4.customLabel>오른쪽 폐</Chaoboar.corePart.parts.4.customLabel>

@@ -106,4 +106,13 @@
   <VTE_ThinSkinned.degreeDatas.0.description>[PAWN_nameDef](은)는 독특하게도 혈우병 증세를 보이며, 다른 사람보다 출혈이 더욱 심합니다.</VTE_ThinSkinned.degreeDatas.0.description>
   <VTE_Schizoid.degreeDatas.0.label>정신분열</VTE_Schizoid.degreeDatas.0.label>
   <VTE_Schizoid.degreeDatas.0.description>[PAWN_nameDef](은)는 한계에 다다르기 전까지 자신의 마음을 표현하는데 어려움을 느끼며, 한계를 넘어선다면 정신이 완전히 붕괴되고 말 것입니다.</VTE_Schizoid.degreeDatas.0.description>
+  <RCT_AnimalHater.degreeDatas.1.label.label>동물 혐오자</RCT_AnimalHater.degreeDatas.1.label.label>
+  <RCT_AnimalLover.degreeDatas.1.label.label>동물 애호가</RCT_AnimalLover.degreeDatas.1.label.label>
+  <RCT_Dunce.degreeDatas.1.label.label>바보</RCT_Dunce.degreeDatas.1.label.label>
+  <RCT_Perfectionist.degreeDatas.1.label.label>완벽주의자</RCT_Perfectionist.degreeDatas.1.label.label>
+  <Prude.degreeDatas.1.label.label>정숙함</Prude.degreeDatas.1.label.label>
+  <Insomniac.degreeDatas.1.label.label>불면증</Insomniac.degreeDatas.1.label.label>
+  <Desensitized.degreeDatas.1.label.label>무딘 감정</Desensitized.degreeDatas.1.label.label>
+  <HeavySleeper.degreeDatas.1.label.label>잠꾸러기</HeavySleeper.degreeDatas.1.label.label>
+  <SYR_Perfectionist.degreeDatas.1.label.label>완벽주의자</SYR_Perfectionist.degreeDatas.1.label.label>
 </LanguageData>

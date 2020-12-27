@@ -157,8 +157,8 @@
   <VWE_Gun_Carbine.description>시가전에서 발생하는 근거리 교전에 주로 쓰이는 짧은 소총입니다.\n\n근거리 정확도는 우수하나 조준선이 짧아서 장거리 사격에 적합하지 않습니다.</VWE_Gun_Carbine.description>
   <VWE_Gun_Carbine.tools.0.label>개머리판</VWE_Gun_Carbine.tools.0.label>
   <VWE_Gun_Carbine.tools.1.label>총열</VWE_Gun_Carbine.tools.1.label>
-  <Bullet_MarksmanRifle.label>지정사수초송 탄환</Bullet_MarksmanRifle.label>
-  <VWE_Gun_MarksmanRifle.label>지정사수초송</VWE_Gun_MarksmanRifle.label>
+  <Bullet_MarksmanRifle.label>지정사수소총탄</Bullet_MarksmanRifle.label>
+  <VWE_Gun_MarksmanRifle.label>지정사수소총</VWE_Gun_MarksmanRifle.label>
   <VWE_Gun_MarksmanRifle.description>고전적인 소총과 유사합니다. 그러나 공격력은 더 약하고 대신에 2발을 빠르게 연사합니다.</VWE_Gun_MarksmanRifle.description>
   <VWE_Gun_MarksmanRifle.tools.0.label>개머리판</VWE_Gun_MarksmanRifle.tools.0.label>
   <VWE_Gun_MarksmanRifle.tools.1.label>총열</VWE_Gun_MarksmanRifle.tools.1.label>
