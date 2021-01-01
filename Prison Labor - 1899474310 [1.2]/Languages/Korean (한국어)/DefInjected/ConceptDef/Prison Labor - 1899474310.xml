@@ -7,7 +7,7 @@
   <PrisonLabor_Growing.label>수감자의 재배</PrisonLabor_Growing.label>
   <PrisonLabor_Growing.helpText>수감자들은 감자나 면화 같은 특별한 기술이 필요 없는 식물만 재배 가능합니다. 그러나 수확 된 작물들은 운반할 수 있습니다.</PrisonLabor_Growing.helpText>
   <PrisonLabor_Management.label>감옥 관리</PrisonLabor_Management.label>
-  <PrisonLabor_Management.helpText>수감자 노동 부분은 여러가지 방법으로 관리 할 수 있습니다.\n\n"작업" 창에서 수감자마다 작업 유형을 할당할 수 있습니다.\n\n수감자가 언제 쉬고 일할지 제한할 수 있습니다. "시간/구역" 창에서 지정하세요.\n\n"구상->구역" 창에서 "수감자용"을 지정하면 수감자들만 일할 수 있는 구역을 지정할 수 있습니다.</PrisonLabor_Management.helpText>
+  <PrisonLabor_Management.helpText>당신은 여러가지 방법으로 감옥 노동을 관리할 수 있습니다.\n\n작업 탭에서 죄수에게 작업 유형을 할당할 수 있습니다.\n\n포로의 작업, 휴식 또는 수면 시간을 "시간/구역" 탭에서 제한할 수 있습니다.\n\n작업을 "수감자 전용"으로 제한할 수 있으며, 구역 설정이 필요한 작업의 경우 "구상"-> "구역" 탭에서 "죄수 작업 구역" 도구를 선택할 수 있습니다.\n계획서의 경우 "수감자 전용" 옵션이 있습니다.</PrisonLabor_Management.helpText>
   <PrisonLabor_Timetable.label>수감자의 시간 제한</PrisonLabor_Timetable.label>
   <PrisonLabor_Timetable.helpText>수감자에게 일하는 시간을 설정할 수 있습니다.\n\n일하는 시간에는 배가 고프거나 피곤해도 강제로 일합니다.\n\n쉬는 시간은 일하고 쉬는 동안 동기 부여를 충전할 수 있는 이익을 얻습니다.\n\n잠자는 시간 동안은 감옥에 머무르게 됩니다.\n\n기본 설정은 "아무거나" 입니다.</PrisonLabor_Timetable.helpText>
   <PrisonLabor_Treatment.label>처우 만족</PrisonLabor_Treatment.label>

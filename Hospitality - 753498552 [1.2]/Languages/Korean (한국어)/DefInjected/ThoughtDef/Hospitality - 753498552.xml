@@ -2,10 +2,10 @@
 <LanguageData>
   <GuestPaidFee.stages.0.label>숙박비를 냄</GuestPaidFee.stages.0.label>
   <GuestPaidFee.stages.0.description>여기 머무르기 위해선 숙박비를 내야만 했어.</GuestPaidFee.stages.0.description>
-  <GuestAngered.stages.0.label>포섭시도에 의해 분노함</GuestAngered.stages.0.label>
-  <GuestAngered.stages.0.description>이놈들이 우리를 물로 보는거냐!</GuestAngered.stages.0.description>
+  <GuestAngered.stages.0.label>포섭시도 때문에 분노함</GuestAngered.stages.0.label>
+  <GuestAngered.stages.0.description>이놈들이 우리를 물로 보는 거냐!</GuestAngered.stages.0.description>
   <GuestRecruitmentForced.stages.0.label>강제로 포섭됨</GuestRecruitmentForced.stages.0.label>
-  <GuestRecruitmentForced.stages.0.description>내가 왜 여기에 있어야 하는거지.</GuestRecruitmentForced.stages.0.description>
+  <GuestRecruitmentForced.stages.0.description>내가 왜 여기에 있어야 하는 거지.</GuestRecruitmentForced.stages.0.description>
   <GuestOffendedRelationship.stages.0.label>정착민에게 모욕당함</GuestOffendedRelationship.stages.0.label>
   <GuestOffendedRelationship.stages.0.labelSocial>날 모욕함</GuestOffendedRelationship.stages.0.labelSocial>
   <GuestOffendedRelationship.stages.0.description>쓸모없는 것들!</GuestOffendedRelationship.stages.0.description>

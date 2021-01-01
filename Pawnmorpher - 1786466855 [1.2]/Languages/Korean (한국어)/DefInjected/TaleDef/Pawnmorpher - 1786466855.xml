@@ -41,7 +41,7 @@
   <GrewBoomalopeMuzzle.rulePack.rulesStrings.2>desc_sentence->[PAWN_pronoun](이)가 근처에 있는 화학연료 냄새를 열심히 맡기 시작합니다.</GrewBoomalopeMuzzle.rulePack.rulesStrings.2>
   <GrewChemfuelUdder.label>화학 젖통이 자람</GrewChemfuelUdder.label>
   <GrewChemfuelUdder.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]에게 화학연료 젖통이 자라나는 것</GrewChemfuelUdder.rulePack.rulesStrings.0>
-  <GrewChemfuelUdder.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef](이)가 화학연료를 생산하기 시작한 것 </GrewChemfuelUdder.rulePack.rulesStrings.1>
+  <GrewChemfuelUdder.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef](이)가 화학연료를 생산하기 시작한 것</GrewChemfuelUdder.rulePack.rulesStrings.1>
   <GrewChemfuelUdder.rulePack.rulesStrings.2>image->[circumstance_group] [PAWN_nameFull]의 허리춤이 부풀어 오르기 시작하며 젖통처럼 생긴 기관이 생기는 모습</GrewChemfuelUdder.rulePack.rulesStrings.2>
   <GrewChemfuelUdder.rulePack.rulesStrings.3>image->[circumstance_group] [PAWN_nameFull]의 허리쪽에서 커다란 젖통같은 기관이 생겨나는</GrewChemfuelUdder.rulePack.rulesStrings.3>
   <GrewChemfuelUdder.rulePack.rulesStrings.4>circumstance_phrase->누군가가 빈 화학연료 통을 [PAWN_pronoun]에게 가져옴과 동시에</GrewChemfuelUdder.rulePack.rulesStrings.4>
@@ -280,7 +280,7 @@
   <TransformationCanid.rulePack.rulesStrings.7>image->[circumstance_group] [PAWN_nameFull]의 사족보행</TransformationCanid.rulePack.rulesStrings.7>
   <TransformationCanid.rulePack.rulesStrings.8>image->[circumstance_group] [PAWN_nameFull](이)가 자신의 몸을 바라보는 모습</TransformationCanid.rulePack.rulesStrings.8>
   <TransformationCanid.rulePack.rulesStrings.9>image->[circumstance_group] 무릎꿇고 고통에 찬 비명을 내지르는 [PAWN_nameFull]</TransformationCanid.rulePack.rulesStrings.9>
-  <TransformationCanid.rulePack.rulesStrings.10>circumstance_phrase->[PAWN_possessive](은)는 그의 단단한 가죽을 구부려 봅니다. </TransformationCanid.rulePack.rulesStrings.10>
+  <TransformationCanid.rulePack.rulesStrings.10>circumstance_phrase->[PAWN_possessive] 구부러진 단단한 가죽처럼</TransformationCanid.rulePack.rulesStrings.10>
   <TransformationCanid.rulePack.rulesStrings.11>circumstance_phrase->몹시 부끄러워 합니다.</TransformationCanid.rulePack.rulesStrings.11>
   <TransformationCanid.rulePack.rulesStrings.12>circumstance_phrase->손처럼 움직이는 발로 [PAWN_pronoun]자신을 감싸려 합니다.</TransformationCanid.rulePack.rulesStrings.12>
   <TransformationCanid.rulePack.rulesStrings.13>circumstance_phrase->메카나이트들이 [PAWN_possessive] 몸에 마법을 부립니다.</TransformationCanid.rulePack.rulesStrings.13>
@@ -558,7 +558,7 @@
   <LimbGrowsHide.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun]는 [PAWN_pronoun] 두꺼운 가죽이 좋은 것 같습니다.</LimbGrowsHide.rulePack.rulesStrings.6>
   <GrewTail.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]의 꼬리가 자라남</GrewTail.rulePack.rulesStrings.0>
   <GrewTail.rulePack.rulesStrings.1>circumstance_phrase->[PAWN_possessive] 꼬리를 의도치 않게 흔들고</GrewTail.rulePack.rulesStrings.1>
-  <GrewTail.rulePack.rulesStrings.2>circumstance_phrase->신나서 [PAWN_possessive] 꼬리를 흔들며 </GrewTail.rulePack.rulesStrings.2>
+  <GrewTail.rulePack.rulesStrings.2>circumstance_phrase->신나서 [PAWN_possessive] 꼬리를 흔들며</GrewTail.rulePack.rulesStrings.2>
   <GrewTail.rulePack.rulesStrings.3>circumstance_phrase->겁먹은 [PAWN_possessive] 꼬리가 [PAWN_possessive] 다리사이로 들어가며</GrewTail.rulePack.rulesStrings.3>
   <GrewTail.rulePack.rulesStrings.4>circumstance_phrase->[PAWN_possessive] 꼬리가 확실하게 살랑입니다.</GrewTail.rulePack.rulesStrings.4>
   <GrewTail.rulePack.rulesStrings.5>circumstance_phrase->[PAWN_possessive] 꼬리가 마지못해 살랑입니다.</GrewTail.rulePack.rulesStrings.5>

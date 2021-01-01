@@ -13,7 +13,7 @@
   <EtherThrumboSnout.stages.4.description>[PAWN_nameDef]의 얼굴에 솟아난, 사치스러울 정도로 폭신하고 위엄있는 주둥이 입니다. 추가적인 변이가 현명한 트럼보를 일깨웠습니다.</EtherThrumboSnout.stages.4.description>
   <EtherThrumboSnout.comps.0.tools.0.label>이빨</EtherThrumboSnout.comps.0.tools.0.label>
   <EtherThrumboEar.label>트럼보</EtherThrumboEar.label>
-  <EtherThrumboEar.description>트럼보에게 귀가 달렸냐는 [PAWN_nameDef]의 질문의 정답이 밝혀졌군. 그래, 트럼보는 귀가 있어— 하얀 털이 난, 둥글고 아름다운 귀가 말이지. </EtherThrumboEar.description>
+  <EtherThrumboEar.description>트럼보에게 귀가 달렸냐는 [PAWN_nameDef]의 질문의 정답이 밝혀졌습니다. 트럼보에게는 귀가 있습니다— 하얀 털이 난, 둥글고 아름다운 귀가 말이지.</EtherThrumboEar.description>
   <EtherThrumboTail.label>트럼보 꼬리</EtherThrumboTail.label>
   <EtherThrumboTail.description>유연하고 매끈한 털로 뒤덮힌 푹신푹신한 트럼보의 꼬리입니다.</EtherThrumboTail.description>
   <EtherThrumboHorn.label>트럼보 뿔</EtherThrumboHorn.label>
@@ -24,6 +24,31 @@
   <EtherThrumboHorn.stages.2.description>[PAWN_nameDef]에 자리한, 면도칼처럼 날카로운 트럼보의 뿔입니다. 진주처럼 빛나는 모습은 [PAWN_objective] 더욱 돋보이게 하며, 매력을 더해줍니다.</EtherThrumboHorn.stages.2.description>
   <EtherThrumboHorn.comps.0.tools.0.label>상아끝</EtherThrumboHorn.comps.0.tools.0.label>
   <EtherThrumboHorn.comps.0.tools.1.label>상아날</EtherThrumboHorn.comps.0.tools.1.label>
+  <EtherMartenJaw.label>족제비 주둥이</EtherMartenJaw.label>
+  <EtherMartenJaw.description>[PAWN_nameDef]의 얼굴이 완전히 족제비처럼 변했습니다. 예리한 앞니빨 까지 말이죠.</EtherMartenJaw.description>
+  <EtherMartenJaw.stages.1.label>적응함</EtherMartenJaw.stages.1.label>
+  <EtherMartenJaw.comps.0.tools.0.label>이빨</EtherMartenJaw.comps.0.tools.0.label>
+  <EtherMartenEar.label>족제비 귀</EtherMartenEar.label>
+  <EtherMartenEar.description>[PAWN_nameDef]의 머리위에 자리한, 족제비와도 같은 삼각형의 털난 귀 입니다.</EtherMartenEar.description>
+  <EtherMartenTail.label>족제비 꼬리</EtherMartenTail.label>
+  <EtherMartenTail.description>길고 폭신폭신한 족제비의 꼬리입니다. [PAWN_nameDef]가 [PAWN_objective] 중심을 잡는데 큰 도움이 됩니다.</EtherMartenTail.description>
+  <EtherMartenHand.label>족제비 손</EtherMartenHand.label>
+  <EtherMartenHand.description>귀엽긴 하지만 유연하지 못한 발이 [PAWN_nameDef]의 손을 대신했습니다. 하지만 엄지손가락은 퇴화되어 쓸모없어진 며느리발톱이 되었습니다.</EtherMartenHand.description>
+  <EtherMartenHand.stages.0.label>복슬복슬한 손</EtherMartenHand.stages.0.label>
+  <EtherMartenHand.stages.0.description>이 손에서 작용하던 메카나이트가 문제를 일으켜, 족제비의 손을 뻣뻣하고 거의 쓸모 없게 만들었습니다.</EtherMartenHand.stages.0.description>
+  <EtherMartenHand.stages.1.label>발톱이 돋음</EtherMartenHand.stages.1.label>
+  <EtherMartenHand.stages.1.description>[PAWN_nameDef]의 손톱이 어두워지고 날카롭게 변했습니다.</EtherMartenHand.stages.1.description>
+  <EtherMartenHand.stages.2.label>푹신한 발바닥</EtherMartenHand.stages.2.label>
+  <EtherMartenHand.stages.2.description>[PAWN_nameDef]의 손바닥과 손가락 끝 마디에  두꺼운 피질이 자라나, 날카로운 짐승의 발톱과 딱 어울리는 육구가 되었습니다. [PAWN_nameDef]의 작업에 크게 불편하진 않지만, 인간의 손처럼 보이진 않습니다.</EtherMartenHand.stages.2.description>
+  <EtherMartenHand.stages.3.description>육구, 손톱, 그리고 짧아진 손가락, 이 전부가 [PAWN_nameDef]의 손을 동물의 것 처럼 보이게 하지만, 완전히 쓸모 없진 않습니다.</EtherMartenHand.stages.3.description>
+  <EtherMartenHand.stages.3.label>족제비 손</EtherMartenHand.stages.3.label>
+  <EtherMartenHand.stages.4.label>불편한 손</EtherMartenHand.stages.4.label>
+  <EtherMartenHand.stages.4.description>[PAWN_nameDef]의 손에 일어나던 변화가 끝이 났습니다, 물론 그것을 더이상 손이라고 부를 수 있다면 말이죠. 쓸모없는 며느리 발톱이 되어버린 엄지손가락도, 짧아지고 뻣뻣해진 손가락도 이 손이 동물의 것처럼 보이게 합니다. [PAWN_nameDef](이)가 익숙해 질때 까지 어느정도의 시간이 걸릴 것 입니다.</EtherMartenHand.stages.4.description>
+  <EtherMartenHand.stages.5.label>발톱</EtherMartenHand.stages.5.label>
+  <EtherMartenHand.stages.5.description>[PAWN_nameDef]의 손이 족제비의 것으로 대체되었습니다. [PAWN_pronoun](은)는 손의 역활을 도와줄 엄지가 없어진것을 감안하면, 놀라울 정도로 정교한 손의 움직임을 가지고 있습니다.</EtherMartenHand.stages.5.description>
+  <EtherMartenHand.stages.6.label>유연한 발</EtherMartenHand.stages.6.label>
+  <EtherMartenHand.stages.6.description>놀라울정도로 뻣뻣한 손가락에도 불구하고, [PAWN_nameDef](은)는 [PAWN_possesive] 새로운 손을 쓰는것에 완전히 숙달하여, [PAWN_pronoun] 변화 전 손이 가지고 있던 손으로는 상상도 할수 없을 만큼 높은 손재주를 얻게 되었습니다.</EtherMartenHand.stages.6.description>
+  <EtherMartenHand.comps.0.tools.0.label>발톱</EtherMartenHand.comps.0.tools.0.label>
   <EtherWing.label>날개</EtherWing.label>
   <EtherWing.description>조류의 날개</EtherWing.description>
   <EtherWing.stages.0.label>미숙함</EtherWing.stages.0.label>
@@ -54,7 +79,7 @@
   <EtherGutswell.stages.1.label>생산적임</EtherGutswell.stages.1.label>
   <EtherGutswell.stages.2.label>매우 생산적임</EtherGutswell.stages.2.label>
   <EtherGutswell.stages.3.label>생산적인 행복</EtherGutswell.stages.3.label>
-  <EtherIntoxica.description>[PAWN_nameDef]의 신체가 이해하기 어려운 발효 방법으로 맥주를 생산하는, 살아있는 양조장이 되었습니다. </EtherIntoxica.description>
+  <EtherIntoxica.description>[PAWN_nameDef]의 신체가 이해하기 어려운 발효 방법으로 맥주를 생산하는, 살아있는 양조장이 되었습니다.</EtherIntoxica.description>
   <EtherIntoxica.label>술독대</EtherIntoxica.label>
   <EtherIntoxica.stages.1.label>생산적임</EtherIntoxica.stages.1.label>
   <EtherIntoxica.stages.2.label>매우 생산적임</EtherIntoxica.stages.2.label>
@@ -110,14 +135,14 @@
   <EtherTrotterFoot.stages.2.description>[PAWN_nameDef]의 발은 완전히 돼지 발처럼 되었습니다. 이것은 [PAWN_objective] 항상 하이힐을 신고 있는것처럼 보이게 합니다.</EtherTrotterFoot.stages.2.description>
   <EtherTrotterFoot.stages.3.labelOverride>뒷발굽</EtherTrotterFoot.stages.3.labelOverride>
   <EtherTrotterFoot.stages.3.description>아직 돼지 발가락처럼 생기긴 했지만, 인간적인 부분도 어느정도 돌아왔습니다. 일반적인 돼지 발가락에 비해 유연함과 균형감각이 향상되었습니다.</EtherTrotterFoot.stages.3.description>
-  <EtherAvianFoot.label>조류</EtherAvianFoot.label>
+  <EtherAvianFoot.label>조류의 발</EtherAvianFoot.label>
   <EtherAvianFoot.description>조류의 발</EtherAvianFoot.description>
   <EtherAvianFoot.stages.0.labelOverride>비늘덮임</EtherAvianFoot.stages.0.labelOverride>
   <EtherAvianFoot.stages.0.description>[PAWN_nameDef]의 발은 두드러기가 난 것처럼 보이지만, 간지러워 보이진 않습니다.</EtherAvianFoot.stages.0.description>
-  <EtherAvianFoot.stages.1.labelOverride>새발</EtherAvianFoot.stages.1.labelOverride>
+  <EtherAvianFoot.stages.1.labelOverride>발가락만 있는 발</EtherAvianFoot.stages.1.labelOverride>
   <EtherAvianFoot.stages.1.description>[PAWN_nameDef]의 발가락은 얇고 길게 늘려졌고, 비늘에 덮였습니다. [PAWN_possessive] 발에 있던 거의 모든 살점 또한 없어져, 인간보단 조류 처럼 보입니다.</EtherAvianFoot.stages.1.description>
   <EtherAvianFoot.stages.2.description>[PAWN_nameDef]의 발은 조류의 발톱으로 대체되었습니다. 생긴것과는 달리, 보행 및 전투에 상당히 쓸모가 있습니다.</EtherAvianFoot.stages.2.description>
-  <EtherAvianFoot.stages.3.labelOverride>조작적인 조류</EtherAvianFoot.stages.3.labelOverride>
+  <EtherAvianFoot.stages.3.labelOverride>조작에 능한 조류의 발</EtherAvianFoot.stages.3.labelOverride>
   <EtherAvianFoot.stages.3.description>[PAWN_nameDef]의 발가락은 긴 새의 발톱처럼 변해 물건을 잡거나 누군가의 얼굴을 긁어버리는데 안성맞춤입니다.</EtherAvianFoot.stages.3.description>
   <EtherAvianFoot.comps.0.tools.0.label>조류 발톱</EtherAvianFoot.comps.0.tools.0.label>
   <EtherPawHand.label>발톱</EtherPawHand.label>
@@ -174,14 +199,14 @@
   <EtherTrotterHand.stages.6.label>적응함</EtherTrotterHand.stages.6.label>
   <EtherTrotterHand.stages.7.labelOverride>유연한 쪽발</EtherTrotterHand.stages.7.labelOverride>
   <EtherTrotterHand.stages.7.description>손굽에 충분히 적응함에 따라 손가락을 좀더 인간처럼 쓸수 있게 되었고, 손재주가 어느정도 복구 되었습니다.</EtherTrotterHand.stages.7.description>
-  <EtherCatClaws.label>고양이과</EtherCatClaws.label>
+  <EtherCatClaws.label>고양이 발톱</EtherCatClaws.label>
   <EtherCatClaws.description>이 손은 숨길 수 있는 발톱까지 달려있는, 완전한 고양이 발바닥이 되었습니다. 이것은 [PAWN_objective] 전투에 유리하게 해주지만, [PAWN_possessive] 항문을 닦기엔 불리하게 만듭니다.</EtherCatClaws.description>
   <EtherCatClaws.stages.0.labelOverride>구부러짐</EtherCatClaws.stages.0.labelOverride>
   <EtherCatClaws.stages.0.description>[PAWN_nameDef]의 혈중에 들어있던 메카나이트가 어떤 변이를 일으키려 했는지는 몰라도, 무언가 크게 수틀렸습니다. 이것은 [PAWN_possessive] 손을 약하고 뻣뻣하게 만들었습니다.</EtherCatClaws.stages.0.description>
   <EtherCatClaws.stages.1.label>길다란 손톱</EtherCatClaws.stages.1.label>
   <EtherCatClaws.stages.1.description>[PAWN_nameDef]의 손톱이 걱정될 정도로 빠르게 자라납니다.</EtherCatClaws.stages.1.description>
   <EtherCatClaws.stages.2.label>발톱이 돋음</EtherCatClaws.stages.2.label>
-  <EtherCatClaws.stages.2.description>[PAWN_nameDef]의 손톱이 고양이의 손톱처럼 길고, 굽고, 뾰족해 졌습니다. </EtherCatClaws.stages.2.description>
+  <EtherCatClaws.stages.2.description>[PAWN_nameDef]의 손톱이 고양이의 손톱처럼 길고, 굽고, 뾰족해 졌습니다.</EtherCatClaws.stages.2.description>
   <EtherCatClaws.stages.3.label>고양이 발바닥</EtherCatClaws.stages.3.label>
   <EtherCatClaws.stages.3.description>[PAWN_nameDef]의 손바닥과 손가락에 두꺼운 피질이 생겨, 발톱달린 손을 더욱 더 고양이 처럼 보이게 만들었습니다. [PAWN_possessive] 엄지손가락은 약해져, 물건을 집는데 어려움을 줍니다.</EtherCatClaws.stages.3.description>
   <EtherCatClaws.stages.4.label>뒤틀린</EtherCatClaws.stages.4.label>
@@ -396,7 +421,7 @@
   <EtherCatMuzzle.stages.4.label>파라곤</EtherCatMuzzle.stages.4.label>
   <EtherCatMuzzle.stages.4.description>[PAWN_nameDef]의 얼굴에 귀여운 고양이 주둥이가 자라났습니다. [PAWN_possessive] 치아는 날카롭게 변해, 음식 섭취에 도움을 줍니다. 많은 이들이 [PAWN_possessive] 얼굴이 귀엽다고 느낍니다.</EtherCatMuzzle.stages.4.description>
   <EtherCatMuzzle.comps.0.tools.0.label>이빨</EtherCatMuzzle.comps.0.tools.0.label>
-  <EtherCatEar.label>고양이과</EtherCatEar.label>
+  <EtherCatEar.label>고양이 귀</EtherCatEar.label>
   <EtherCatEar.description>털나고 세모난 귀가 [PAWN_nameDef]에 자라났습니다. [PAWN_pronoun]가 덮칠 준비를 할때 뒤로 젖혀집니다.</EtherCatEar.description>
   <EtherCatTail.label>고양이 꼬리</EtherCatTail.label>
   <EtherCatTail.description>길다란 고양이의 꼬리. [PAWN_nameDef](이)가 무언가에 불만족스러워 한다면 앞뒤로 흔들립니다.</EtherCatTail.description>
@@ -443,7 +468,7 @@
   <EtherComboWolfSpike.comps.0.tools.0.label>이빨</EtherComboWolfSpike.comps.0.tools.0.label>
   <EtherComboWolfSpike.comps.0.tools.1.label>뿔</EtherComboWolfSpike.comps.0.tools.1.label>
   <PM_HellhoundEar.label>지옥개 귀</PM_HellhoundEar.label>
-  <PM_HellhoundEar.description>[PAWN_nameDef]의 귀가 대형견의 귀처럼 길고 뾰족해 졌습니다. </PM_HellhoundEar.description>
+  <PM_HellhoundEar.description>[PAWN_nameDef]의 귀가 대형견의 귀처럼 길고 뾰족해 졌습니다.</PM_HellhoundEar.description>
   <PM_HellhoundHeadspike.label>지옥개 머릿가시</PM_HellhoundHeadspike.label>
   <PM_HellhoundHeadspike.description>[PAWN_nameDef]의 두개골이 커다란 뿔이 돋았습니다.</PM_HellhoundHeadspike.description>
   <PM_HellhoundHorns.label>지옥개 뿔</PM_HellhoundHorns.label>
@@ -460,7 +485,7 @@
   <PM_HellhoundSpikes.label>지옥개 가시</PM_HellhoundSpikes.label>
   <PM_HellhoundSpikes.description>[PAWN_nameDef]의 등뼈에 날카로운 가시 여러개가 돋아났습니다.</PM_HellhoundSpikes.description>
   <PM_HellhoundTail.label>지옥개 꼬리</PM_HellhoundTail.label>
-  <PM_HellhoundTail.description>[PAWN_nameDef]에게 근육질의 길다란, 끝이 뾰족한 꼬리가 자라났습니다. </PM_HellhoundTail.description>
+  <PM_HellhoundTail.description>[PAWN_nameDef]에게 근육질의 길다란, 끝이 뾰족한 꼬리가 자라났습니다.</PM_HellhoundTail.description>
   <PM_HellhoundPaws.label>뼈 발바닥</PM_HellhoundPaws.label>
   <PM_HellhoundPaws.description>여러 메카나이트 효과의 끔찍한 조합으로 인해, 손의 외부가 뼈처럼 굳어버렸고, 안쪽에 있는 힘줄로 움직이게 되었습니다. 보기에도 불안한 이 손은 매우 예리한 손톱을 가지고 있습니다.</PM_HellhoundPaws.description>
   <PM_HellhoundPaws.stages.0.label>짐승같은</PM_HellhoundPaws.stages.0.label>
@@ -484,7 +509,7 @@
   <EtherCougarJaw.stages.2.label>적응함</EtherCougarJaw.stages.2.label>
   <EtherCougarJaw.stages.2.description>[PAWN_nameDef]의 얼굴이 앞으로 쏠려 나오며 고양이와 같은 모양이 되었습니다. 이것은 음식을 먹을때 유용하지만, 입에서는 정상적인 단어보다 '햐악' 혹은 '야옹' 하는 소리가 더 자주 나옵니다. 충분히 적응을 한 덕분에 언어소통의 어려움이 많이 줄었습니다.</EtherCougarJaw.stages.2.description>
   <EtherCougarJaw.comps.0.tools.0.label>이빨</EtherCougarJaw.comps.0.tools.0.label>
-  <EtherCougarEar.label>고양이과</EtherCougarEar.label>
+  <EtherCougarEar.label>고양이과 귀</EtherCougarEar.label>
   <EtherCougarEar.description>이 귀는 뾰족하고 털이 자라났습니다. 청각은 예민해졌고, 멀리서 들리는 소리에도 움찔거리며 반응합니다.</EtherCougarEar.description>
   <EtherCougarTail.label>퓨마 꼬리</EtherCougarTail.label>
   <EtherCougarTail.description>길다란 고양이의 꼬리. [PAWN_nameDef](이)가 무언가에 불만족스러워 한다면 앞뒤로 흔들립니다.</EtherCougarTail.description>
@@ -498,7 +523,7 @@
   <EtherCowSnout.stages.3.label>파라곤</EtherCowSnout.stages.3.label>
   <EtherCowSnout.stages.3.description>이 주둥이에 충분히 적응하여 [PAWN_nameDef](이)가 다시 정상적으로 말을 할 수 있게 되었습니다.</EtherCowSnout.stages.3.description>
   <EtherCowSnout.comps.0.tools.0.label>이빨</EtherCowSnout.comps.0.tools.0.label>
-  <EtherCowEar.label>소과</EtherCowEar.label>
+  <EtherCowEar.label>소 귀</EtherCowEar.label>
   <EtherCowEar.description>가끔씩 이유없이 펄럭거리는, 본디 소들이나 가지고 있는 커다란 갈색의 귀 입니다. 귀에 이름표 같은걸 붙일수도 있겠네요.</EtherCowEar.description>
   <EtherCowTail.label>소 꼬리</EtherCowTail.label>
   <EtherCowTail.description>소의 그것과 같은 꼬리입니다. 그것은 다리 아래로 늘어져 휙휙대며 파리를 쫓아냅니다.</EtherCowTail.description>
@@ -558,7 +583,7 @@
   <EtherElephantLeg.label>코끼리</EtherElephantLeg.label>
   <EtherElephantLeg.description>[PAWN_nameDef]의 다리는 매우 굵으며, 단단한 회색 가죽으로 덮여있습니다.</EtherElephantLeg.description>
   <EtherElephantLeg.stages.1.label>적응함</EtherElephantLeg.stages.1.label>
-  <EtherElephantFoot.label>그루터기같음</EtherElephantFoot.label>
+  <EtherElephantFoot.label>코끼리 발</EtherElephantFoot.label>
   <EtherElephantFoot.description>그루터기같은 코끼리의 발</EtherElephantFoot.description>
   <EtherElephantFoot.stages.0.labelOverride>발가락 달린 그루터기</EtherElephantFoot.stages.0.labelOverride>
   <EtherElephantFoot.stages.0.description>[PAWN_nameDef]의 발가락이 [PAWN_possessive] 발 안쪽으로 쪼그라들었습니다. 발 위에 남겨진 발톱만이 거기에 발가락이 있었다는걸 상기시켜 줍니다.</EtherElephantFoot.stages.0.description>
@@ -568,7 +593,7 @@
   <EtherElephantFoot.stages.3.labelOverride>코끼리</EtherElephantFoot.stages.3.labelOverride>
   <EtherElephantFoot.stages.3.description>[PAWN_nameDef]의 발에 있는 뼈와 근육 구조가 재구성되어, 뭉툭하고 강한 코끼리의 발처럼 변했습니다.</EtherElephantFoot.stages.3.description>
   <EtherElephantFoot.comps.0.tools.0.label>짓밟기</EtherElephantFoot.comps.0.tools.0.label>
-  <EtherFoxEye.label>황소 눈</EtherFoxEye.label>
+  <EtherFoxEye.label>여우 눈</EtherFoxEye.label>
   <EtherFoxEye.description>[PAWN_nameDef]은 밝은 여우의 눈을 가지고 있습니다. [PAWN_pronoun] 더 잘 볼수 있으며, 그 이국적인 생김새로 다른이들을 매료시킬것입니다.</EtherFoxEye.description>
   <EtherArcticFoxMuzzle.label>여우 주둥이</EtherArcticFoxMuzzle.label>
   <EtherArcticFoxMuzzle.description>[PAWN_nameDef]의 얼굴이 여우의 그것처럼 변형되었습니다. [PAWN_possessive] 치아는 날카롭게 변했으며, 언어소통이 어려워 졌지만 음식은 더 잘 먹을 수 있게 되었습니다.</EtherArcticFoxMuzzle.description>
@@ -639,11 +664,11 @@
   <EtherFoxEar.stages.1.description>큰 삼격형의 왕관같은 귀가 [PAWN_nameDef]의 머리에서 자신이 감지하는 모든 소리를 향해 휙휙 돌아갑니다. 이들은 매우 예민하니까, 제발 소리치지 마세요.</EtherFoxEar.stages.1.description>
   <EtherFluffyTail.label>솜털 꼬리</EtherFluffyTail.label>
   <EtherFluffyTail.description>[PAWN_nameDef]의 척추에서 이어져나온 솜털처럼 보송보송한 여우 꼬리입니다. 오, 방금 살짝 살랑거린 것 같지 않나요?</EtherFluffyTail.description>
-  <EtherHareEar.description>[PAWN_nameDef]의 머리위에 자리한 길고 복실복실한 귀입니다. 놀라울 정도로 유연한 이 귀는, 감지하는 모든 소리에 움찔 하고 반응합니다. </EtherHareEar.description>
+  <EtherHareEar.description>[PAWN_nameDef]의 머리위에 자리한 길고 복실복실한 귀입니다. 놀라울 정도로 유연한 이 귀는, 감지하는 모든 소리에 움찔 하고 반응합니다.</EtherHareEar.description>
   <EtherHareEar.label>토끼귀</EtherHareEar.label>
   <EtherHareTail.label>토끼 꼬리</EtherHareTail.label>
   <EtherHareTail.description>[PAWN_nameDef]의 엉덩이 바로 위에 달린 작은 솜털뭉치입니다. 이건 상당히 귀엽습니다.</EtherHareTail.description>
-  <EtherHareLeg.label>추진력 가득한 다리</EtherHareLeg.label>
+  <EtherHareLeg.label>토끼다리</EtherHareLeg.label>
   <EtherHareLeg.description>[PAWN_nameDef]의 다리가 토끼의 것처럼 변했습니다. 이것은 그들의 포식자로부터 도망치는데 도움을 주지만, 맞는 바지를 찾는데에는 전혀 도움이 되질 않습니다.</EtherHareLeg.description>
   <EtherHareJaw.label>토끼 주둥이</EtherHareJaw.label>
   <EtherHareJaw.description>씰룩 거리는 토끼의 작은 주둥이</EtherHareJaw.description>
@@ -703,7 +728,7 @@
   <EtherIguanaSnout.stages.0.label>새로움</EtherIguanaSnout.stages.0.label>
   <EtherIguanaSnout.stages.1.label>적응함</EtherIguanaSnout.stages.1.label>
   <EtherIguanaHorns.description>여러개의 가시가 [PAWN_nameDef]의 등을 타고 내려옵니다.</EtherIguanaHorns.description>
-  <EtherIguanaHorns.label>척추</EtherIguanaHorns.label>
+  <EtherIguanaHorns.label>이구아나 뿔</EtherIguanaHorns.label>
   <EtherIguanaTail.label>이구아나 꼬리</EtherIguanaTail.label>
   <EtherIguanaTail.description>가시돋친 초록색 꼬리</EtherIguanaTail.description>
   <EtherIguanaHand.label>유연한 손톱</EtherIguanaHand.label>
@@ -722,7 +747,7 @@
   <EtherLynxJaw.stages.2.label>적응함</EtherLynxJaw.stages.2.label>
   <EtherLynxJaw.stages.2.description>[PAWN_nameDef]의 얼굴이 삵의 위풍당당한 얼굴로 변했습니다. 충분히 적응을 한 덕분에 언어소통의 어려움이 많이 줄었습니다.</EtherLynxJaw.stages.2.description>
   <EtherLynxJaw.comps.0.tools.0.label>이빨</EtherLynxJaw.comps.0.tools.0.label>
-  <EtherLynxEar.label>삵 같음</EtherLynxEar.label>
+  <EtherLynxEar.label>삵 귀</EtherLynxEar.label>
   <EtherLynxEar.description>뾰족한 귀와 그 위에 자라난 털까지, 이 귀는 삵의 청각기관을 닮게 변했습니다.</EtherLynxEar.description>
   <EtherLynxTail.label>짧막한 고양이과 꼬리</EtherLynxTail.label>
   <EtherLynxTail.description>다른 고양이과 동물들과는 다르게, 삵의 꼬리는 짧고 뭉툭합니다. 이제 [PAWN_nameDef]도 하나 가지고 있습니다.</EtherLynxTail.description>
@@ -735,8 +760,7 @@
   <EtherMegaslothTail.comps.0.tools.0.label>꼬리</EtherMegaslothTail.comps.0.tools.0.label>
   <EtherMegaslothArm.description>[PAWN_nameDef]의 팔은 근육량이 늘어 근력이 향상되었고, 털이 북슬북슬하게 자라 체온유지가 약간이나마 더 쉬워졌습니다.</EtherMegaslothArm.description>
   <EtherMegaslothArm.label>거대나무늘보 팔</EtherMegaslothArm.label>
-  <EtherMegaslothHand.description>[PAWN_nameDef]의 민첩한 손가락들이 길다랗고 휜 손톱 세개로 대체되었습니다. 이 손톱은 피부나 금속을 어려움 없이 잘라낼 수 있을정도로 날카롭습니다.
-</EtherMegaslothHand.description>
+  <EtherMegaslothHand.description>[PAWN_nameDef]의 민첩한 손가락들이 길다랗고 휜 손톱 세개로 대체되었습니다. 이 손톱은 피부나 금속을 어려움 없이 잘라낼 수 있을정도로 날카롭습니다.</EtherMegaslothHand.description>
   <EtherMegaslothHand.label>손톱달린 손</EtherMegaslothHand.label>
   <EtherMegaslothHand.comps.0.tools.0.label>날끝</EtherMegaslothHand.comps.0.tools.0.label>
   <EtherMegaslothLeg.description>[PAWN_nameDef]의 다리는 근육이 늘고 털이 북슬북슬하게 났습니다. 이로인해 근력과 체온유지 능력이 향상 되었지만, 움직임이 느려졌습니다.</EtherMegaslothLeg.description>
@@ -867,7 +891,7 @@
   <EtherSquirrelJaw.stages.0.description>[PAWN_nameDef]의 얼굴이 완전히 다람쥐처럼 변했습니다. 커다란 앞니빨 까지 말이죠. 이로인해 언어소통이 어려워 졌습니다.</EtherSquirrelJaw.stages.0.description>
   <EtherSquirrelJaw.stages.1.labelOverride>튀어 나오는중</EtherSquirrelJaw.stages.1.labelOverride>
   <EtherSquirrelJaw.stages.1.description>[PAWN_nameDef]의 얼굴이 부풀어 오릅니다. 코와 턱이 앞으로 튀어 나오면서 동물의 얼굴을 닮아갑니다.</EtherSquirrelJaw.stages.1.description>
-  <EtherSquirrelJaw.stages.2.description>[PAWN_nameDef]의 얼굴이 완전히 다람쥐처럼 변했습니다. 커다란 앞니빨 까지 말이죠. </EtherSquirrelJaw.stages.2.description>
+  <EtherSquirrelJaw.stages.2.description>[PAWN_nameDef]의 얼굴이 완전히 다람쥐처럼 변했습니다. 커다란 앞니빨 까지 말이죠.</EtherSquirrelJaw.stages.2.description>
   <EtherSquirrelJaw.stages.3.label>적응함</EtherSquirrelJaw.stages.3.label>
   <EtherSquirrelJaw.stages.3.description>[PAWN_nameDef]의 얼굴이 완전히 다람쥐처럼 변했습니다. 커다란 앞니빨 까지 말이죠. 적응을 한 덕분에 언어 구사에 큰 어려움은 없습니다.</EtherSquirrelJaw.stages.3.description>
   <EtherSquirrelJaw.stages.4.description>[PAWN_nameDef]의 얼굴이 완전히 다람쥐처럼 변했습니다. 커다란 앞니빨은 단단한 견과류를 까먹고 식물을 자르는데 유용합니다. [PAWN_possessive] 언어구사능력은 이상하리만큼 영향을 받지 않았습니다.</EtherSquirrelJaw.stages.4.description>
@@ -876,7 +900,7 @@
   <EtherSquirrelEar.description>[PAWN_nameDef]의 귀가 쐐기 모양으로 변했습니다. 주변에서 들리는 날개소리에 귀를 기울이며 바쁘게 움직입니다.</EtherSquirrelEar.description>
   <EtherSquirrelEar.label>다람쥐</EtherSquirrelEar.label>
   <EtherSquirrelTail.label>다람쥐 꼬리</EtherSquirrelTail.label>
-  <EtherSquirrelTail.description>길고 폭신한 꼬리가 [PAWN_nameDef]의 허리까지 말려 올라가있습니다. [PAWN_pronoun]는 그 꼬리로 [PAWN_pronoun]를 감싸는걸 좋아하고, 잘때에는 베개처럼 사용합니다. </EtherSquirrelTail.description>
+  <EtherSquirrelTail.description>길고 폭신한 꼬리가 [PAWN_nameDef]의 허리까지 말려 올라가있습니다. [PAWN_pronoun]는 그 꼬리로 [PAWN_objective] 감싸는걸 좋아하고, 잘때에는 베개처럼 사용합니다.</EtherSquirrelTail.description>
   <EtherTortoiseJaw.label>거북이 부리</EtherTortoiseJaw.label>
   <EtherTortoiseJaw.description>단단하고 다소 위험한 거북이의 부리</EtherTortoiseJaw.description>
   <EtherTortoiseJaw.stages.1.label>적응함</EtherTortoiseJaw.stages.1.label>

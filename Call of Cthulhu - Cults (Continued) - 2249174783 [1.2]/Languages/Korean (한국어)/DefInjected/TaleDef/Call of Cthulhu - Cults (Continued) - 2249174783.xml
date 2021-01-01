@@ -24,11 +24,11 @@
   <ObservedNightmareTree.rulePack.rulesStrings.5>desc_sentence->[pawn_possessive] 얼굴이 기괴하게 뒤틀린 것처럼 보입니다.</ObservedNightmareTree.rulePack.rulesStrings.5>
   <ObservedNightmareTree.rulePack.rulesStrings.6>desc_sentence->[pawn_pronoun] 격렬하게 경련을 일으키고 있습니다.</ObservedNightmareTree.rulePack.rulesStrings.6>
   <ObservedNightmareMonolith.label>모노리스 관찰</ObservedNightmareMonolith.label>
-  <ObservedNightmareMonolith.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef](이)가 모노리스와 접촉함</ObservedNightmareMonolith.rulePack.rulesStrings.0>
-  <ObservedNightmareMonolith.rulePack.rulesStrings.1>image->[pawn_nameFull](이)가 [circumstance_group] 구름위로 솟아있는 모노리스를 찾았습니다.</ObservedNightmareMonolith.rulePack.rulesStrings.1>
+  <ObservedNightmareMonolith.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef](이)가 모노리스를 관찰함</ObservedNightmareMonolith.rulePack.rulesStrings.0>
+  <ObservedNightmareMonolith.rulePack.rulesStrings.1>image->[pawn_nameFull](이)가 [circumstance_group] 구름위로 솟아있는 모노리스를 쳐다보았습니다.</ObservedNightmareMonolith.rulePack.rulesStrings.1>
   <ObservedNightmareMonolith.rulePack.rulesStrings.2>circumstance_phrase->순수한 절망에 빠진 체</ObservedNightmareMonolith.rulePack.rulesStrings.2>
   <ObservedNightmareMonolith.rulePack.rulesStrings.3>circumstance_phrase->완전한 공포 속에서</ObservedNightmareMonolith.rulePack.rulesStrings.3>
-  <ObservedNightmareMonolith.rulePack.rulesStrings.4>desc_sentence->[pawn_pronoun] [pawn_objective](이)가 무엇인지 전혀 이해하지 못했습니다.</ObservedNightmareMonolith.rulePack.rulesStrings.4>
+  <ObservedNightmareMonolith.rulePack.rulesStrings.4>desc_sentence->[pawn_pronoun]는 [pawn_objective] 둘러 싸고 있는것이 무엇인지 전혀 이해하지 못했습니다.</ObservedNightmareMonolith.rulePack.rulesStrings.4>
   <ObservedNightmareMonolith.rulePack.rulesStrings.5>desc_sentence->[pawn_possessive] 얼굴이 기괴하게 뒤틀린 것처럼 보입니다.</ObservedNightmareMonolith.rulePack.rulesStrings.5>
   <ObservedNightmareMonolith.rulePack.rulesStrings.6>desc_sentence->[pawn_pronoun] 격렬하게 경련을 일으키고 있습니다.</ObservedNightmareMonolith.rulePack.rulesStrings.6>
   <HeldSermon.label>설교</HeldSermon.label>
@@ -55,7 +55,7 @@
   <Cults_SpellBountyOfTheSea.rulePack.rulesStrings.5>desc_sentence->내부에는 갑판원들이 조심스럽게 지키던 수 많은 현대 귀중품들이 있습니다.</Cults_SpellBountyOfTheSea.rulePack.rulesStrings.5>
   <Cults_SpellFertilityRitual.label>풍요 의식</Cults_SpellFertilityRitual.label>
   <Cults_SpellFertilityRitual.rulePack.rulesStrings.0>tale_noun->슈브-니구라스께서 풍요 토템을 하사한 기념일</Cults_SpellFertilityRitual.rulePack.rulesStrings.0>
-  <Cults_SpellFertilityRitual.rulePack.rulesStrings.1>image->검은 염소의 어머니는 천개의 촉수를 통해 말씀하시길, [circumstance_group] 기일</Cults_SpellFertilityRitual.rulePack.rulesStrings.1>
+  <Cults_SpellFertilityRitual.rulePack.rulesStrings.1>image->검은 염소의 어머니가 천 개의 촉수를 통해 말씀하셨던 [circumstance_group] 기일</Cults_SpellFertilityRitual.rulePack.rulesStrings.1>
   <Cults_SpellFertilityRitual.rulePack.rulesStrings.2>circumstance_phrase->그녀의 상처로부터 끔찍한 우상이 풀려나, 풍요를 약속한</Cults_SpellFertilityRitual.rulePack.rulesStrings.2>
   <Cults_SpellFertilityRitual.rulePack.rulesStrings.3>circumstance_phrase->땅에서 토템이 희생자의 시체에서 제단으로부터 자라며 풍요를 약속한</Cults_SpellFertilityRitual.rulePack.rulesStrings.3>
   <Cults_SpellFertilityRitual.rulePack.rulesStrings.4>desc_sentence->토템은 마치 신석기 조각처럼 보입니다.</Cults_SpellFertilityRitual.rulePack.rulesStrings.4>
@@ -63,7 +63,7 @@
   <Cults_SpellFertilityRitual.rulePack.rulesStrings.6>desc_sentence->검은 염소의 어머니는 불타는 눈빛으로 집행자를 쳐다보고 있습니다.</Cults_SpellFertilityRitual.rulePack.rulesStrings.6>
   <Cults_SpellMotherOfGoats.label>염소의 어머니</Cults_SpellMotherOfGoats.label>
   <Cults_SpellMotherOfGoats.rulePack.rulesStrings.0>tale_noun->검은 염소때의 출현의 시기</Cults_SpellMotherOfGoats.rulePack.rulesStrings.0>
-  <Cults_SpellMotherOfGoats.rulePack.rulesStrings.1>image->검은 염소의 어머니는 천개의 촉수를 통해 [circumstance_group] 말씀하셨던 기일</Cults_SpellMotherOfGoats.rulePack.rulesStrings.1>
+  <Cults_SpellMotherOfGoats.rulePack.rulesStrings.1>image->검은 염소의 어머니가 천 개의 촉수를 통해 [circumstance_group] 말씀하셨던 기일</Cults_SpellMotherOfGoats.rulePack.rulesStrings.1>
   <Cults_SpellMotherOfGoats.rulePack.rulesStrings.2>circumstance_phrase->수평선으로부터 수 많은 검은 염소가 정착지 쪽으로 질주해 올 것이라고</Cults_SpellMotherOfGoats.rulePack.rulesStrings.2>
   <Cults_SpellMotherOfGoats.rulePack.rulesStrings.3>circumstance_phrase->그녀의 신임을 얻은 곳에서부터 천 마리의 검은 염소 새싹이 잘아날 것이라고</Cults_SpellMotherOfGoats.rulePack.rulesStrings.3>
   <Cults_SpellMotherOfGoats.rulePack.rulesStrings.4>desc_sentence->염소의 털이 열리고 촉수로 된 방언이 드러납니다.</Cults_SpellMotherOfGoats.rulePack.rulesStrings.4>
@@ -71,8 +71,8 @@
   <Cults_SpellMotherOfGoats.rulePack.rulesStrings.6>desc_sentence->검은 염소의 어머니는 불타는 눈빛으로 자식들을 쳐다보며 명령하고 있습니다.</Cults_SpellMotherOfGoats.rulePack.rulesStrings.6>
   <Cults_SpellPsionicGrowth.label>신앙의 성장</Cults_SpellPsionicGrowth.label>
   <Cults_SpellPsionicGrowth.rulePack.rulesStrings.0>tale_noun->[pawn_nameFull]의 신을 부르던 사건</Cults_SpellPsionicGrowth.rulePack.rulesStrings.0>
-  <Cults_SpellPsionicGrowth.rulePack.rulesStrings.1>image->크툴루, 그 웅대하고 위풍 당당한, [circumstance_group]</Cults_SpellPsionicGrowth.rulePack.rulesStrings.1>
-  <Cults_SpellPsionicGrowth.rulePack.rulesStrings.2>circumstance_phrase->촉수로 [pawn_nameShortDef]의 몸을 움켜 쥐었던 모습</Cults_SpellPsionicGrowth.rulePack.rulesStrings.2>
+  <Cults_SpellPsionicGrowth.rulePack.rulesStrings.1>image->웅장하고 압도적인 크툴루께서 [circumstance_group]</Cults_SpellPsionicGrowth.rulePack.rulesStrings.1>
+  <Cults_SpellPsionicGrowth.rulePack.rulesStrings.2>circumstance_phrase->빛나는 발톱으로 [pawn_nameShortDef]의 몸을 움켜 쥐었던 모습</Cults_SpellPsionicGrowth.rulePack.rulesStrings.2>
   <Cults_SpellPsionicGrowth.rulePack.rulesStrings.3>circumstance_phrase->촉수로 [pawn_nameShortDef]의 두개골을 박살내는 모습</Cults_SpellPsionicGrowth.rulePack.rulesStrings.3>
   <Cults_SpellPsionicGrowth.rulePack.rulesStrings.4>desc_sentence->[pawn_nameShortDef]의 두개골은 [pawn_possessive] 머리가 [pawn_possessive] 어깨위에 간신히 지지할 수 있을 있는 때까지 부풀어 오릅니다.</Cults_SpellPsionicGrowth.rulePack.rulesStrings.4>
   <Cults_SpellPsionicGrowth.rulePack.rulesStrings.5>desc_sentence->그들 뒤에는 벽처럼 무수한 촉수가 깔려있습니다.</Cults_SpellPsionicGrowth.rulePack.rulesStrings.5>
@@ -87,23 +87,23 @@
   <Cults_SpellRatsInTheWalls.rulePack.rulesStrings.6>desc_sentence->바닥과 벽의 틈새 안쪽에서 그들의 날카로운 치아와 눈빛이 번쩍입니다.</Cults_SpellRatsInTheWalls.rulePack.rulesStrings.6>
   <Cults_SpellReanimator.label>부활의 의식</Cults_SpellReanimator.label>
   <Cults_SpellReanimator.rulePack.rulesStrings.0>tale_noun->[pawn_nameFull](이)가 죽은 자들 가운데서 일어난 사건</Cults_SpellReanimator.rulePack.rulesStrings.0>
-  <Cults_SpellReanimator.rulePack.rulesStrings.1>image->[pawn_nameFull](은)는 [circumstance_group] 주위 사람들의 경악하는 가운데 일어났던 모습.</Cults_SpellReanimator.rulePack.rulesStrings.1>
+  <Cults_SpellReanimator.rulePack.rulesStrings.1>image->주위 사람들이 경악하는 가운데 [pawn_nameFull](이)가 [circumstance_group] 일어나는 모습</Cults_SpellReanimator.rulePack.rulesStrings.1>
   <Cults_SpellReanimator.rulePack.rulesStrings.2>circumstance_phrase->머리가 실종되었음에도 불구하고</Cults_SpellReanimator.rulePack.rulesStrings.2>
   <Cults_SpellReanimator.rulePack.rulesStrings.3>circumstance_phrase->치명적인 상처에도 불구하고</Cults_SpellReanimator.rulePack.rulesStrings.3>
-  <Cults_SpellReanimator.rulePack.rulesStrings.4>desc_sentence->[pawn_pronoun] [pawn_possessive] 부자연스러운 모습에도 불구하고 텅빈 눈으로 미소를 짓습니다.</Cults_SpellReanimator.rulePack.rulesStrings.4>
-  <Cults_SpellReanimator.rulePack.rulesStrings.5>desc_sentence->[pawn_pronoun] [pawn_possessive] 집행자에게 손가락으로 가리키고 있습니다.</Cults_SpellReanimator.rulePack.rulesStrings.5>
-  <Cults_SpellReanimator.rulePack.rulesStrings.6>desc_sentence->[pawn_pronoun] 구멍이 숭숭 뚫려있는 눈과 초록색 피부를 가지고 있습니다.</Cults_SpellReanimator.rulePack.rulesStrings.6>
+  <Cults_SpellReanimator.rulePack.rulesStrings.4>desc_sentence->[pawn_possessive] 부자연스러운 모습에도 불구하고 텅빈 눈으로 미소를 짓습니다.</Cults_SpellReanimator.rulePack.rulesStrings.4>
+  <Cults_SpellReanimator.rulePack.rulesStrings.5>desc_sentence->[pawn_possessive] 집행자에게 손가락으로 가리키고 있습니다.</Cults_SpellReanimator.rulePack.rulesStrings.5>
+  <Cults_SpellReanimator.rulePack.rulesStrings.6>desc_sentence->[pawn_pronoun](은)는 구멍이 숭숭 뚫려있는 눈과 초록색 피부를 가지고 있습니다.</Cults_SpellReanimator.rulePack.rulesStrings.6>
   <Cults_SpellReincarnation.label>재생</Cults_SpellReincarnation.label>
   <Cults_SpellReincarnation.rulePack.rulesStrings.0>tale_noun->[pawn_nameFull](이)가 광기의 나무로 변한 사건</Cults_SpellReincarnation.rulePack.rulesStrings.0>
-  <Cults_SpellReincarnation.rulePack.rulesStrings.1>image->[pawn_nameFull](은)는 악몽의 나무 밑에서 그 몸이 산산조각이 나있는 모습.</Cults_SpellReincarnation.rulePack.rulesStrings.1>
-  <Cults_SpellReincarnation.rulePack.rulesStrings.2>circumstance_phrase->[pawn_possessive] 표정은 흐트러 지지 않은 체</Cults_SpellReincarnation.rulePack.rulesStrings.2>
-  <Cults_SpellReincarnation.rulePack.rulesStrings.3>circumstance_phrase->[pawn_possessive] 신체 부위에 나뭇가지가 흩어져 있는 체</Cults_SpellReincarnation.rulePack.rulesStrings.3>
+  <Cults_SpellReincarnation.rulePack.rulesStrings.1>image->[pawn_nameFull](은)는 [circumstance_group]악몽의 나무 밑에서 그 몸이 산산조각이 나있는 모습</Cults_SpellReincarnation.rulePack.rulesStrings.1>
+  <Cults_SpellReincarnation.rulePack.rulesStrings.2>circumstance_phrase->[pawn_possessive] 얼굴을 지닌</Cults_SpellReincarnation.rulePack.rulesStrings.2>
+  <Cults_SpellReincarnation.rulePack.rulesStrings.3>circumstance_phrase->[pawn_possessive] 신체 부위가 가지가 흩어져 있는</Cults_SpellReincarnation.rulePack.rulesStrings.3>
   <Cults_SpellReincarnation.rulePack.rulesStrings.4>desc_sentence->그 나무는 이 지역의 어떤 나무보다 컸습니다.</Cults_SpellReincarnation.rulePack.rulesStrings.4>
   <Cults_SpellReincarnation.rulePack.rulesStrings.5>desc_sentence->나무의 앞면은 고대의 에너지를 방출하는 기괴한 언어로 덮여 있습니다.</Cults_SpellReincarnation.rulePack.rulesStrings.5>
   <Cults_SpellReincarnation.rulePack.rulesStrings.6>desc_sentence->나뭇가지들은 주변의 공간을 구부릴 것 같은 나선의 모양으로 말려 있습니다.</Cults_SpellReincarnation.rulePack.rulesStrings.6>
   <Cults_SpellStarryWisdom.label>별빛의 지혜</Cults_SpellStarryWisdom.label>
-  <Cults_SpellStarryWisdom.rulePack.rulesStrings.0>tale_noun->[pawn_nameFull](이)가 니알라토텝의 의해 감동한 사건</Cults_SpellStarryWisdom.rulePack.rulesStrings.0>
-  <Cults_SpellStarryWisdom.rulePack.rulesStrings.1>image->[pawn_nameFull](이)가 [circumstance_group] 그림 앞에 무뤂을 끓고 있는 모습</Cults_SpellStarryWisdom.rulePack.rulesStrings.1>
+  <Cults_SpellStarryWisdom.rulePack.rulesStrings.0>tale_noun->니알라토텝이 [pawn_nameFull]의 정신과 접촉을 한 사건</Cults_SpellStarryWisdom.rulePack.rulesStrings.0>
+  <Cults_SpellStarryWisdom.rulePack.rulesStrings.1>image->[pawn_nameFull](이)가 [circumstance_group] 형상 앞에 무릎 꿇고 있는 모습</Cults_SpellStarryWisdom.rulePack.rulesStrings.1>
   <Cults_SpellStarryWisdom.rulePack.rulesStrings.2>circumstance_phrase->고대 이집트 파라오의 왕권을 가진 신의 모습이 그려진</Cults_SpellStarryWisdom.rulePack.rulesStrings.2>
   <Cults_SpellStarryWisdom.rulePack.rulesStrings.3>circumstance_phrase->염소 뿔이 있는 신의 모습이 그려진</Cults_SpellStarryWisdom.rulePack.rulesStrings.3>
   <Cults_SpellStarryWisdom.rulePack.rulesStrings.4>desc_sentence->그 그림은 [pawn_nameShortDef]의 의마에 약간의 힘을 얹어 주고 있습니다.</Cults_SpellStarryWisdom.rulePack.rulesStrings.4>
@@ -126,21 +126,21 @@
   <Cults_SpellSunkenShip.rulePack.rulesStrings.5>desc_sentence->그 안에는 수 많은 빛나는 보석, 반짝이는 동전 및 고대로부터 잃어버린 다른 보물들이 있습니다.</Cults_SpellSunkenShip.rulePack.rulesStrings.5>
   <Cults_SpellSunkenShip.rulePack.rulesStrings.6>desc_sentence->두개의 거대한 닻이 우주선 잔해 앞에서 교차하고 있습니다.</Cults_SpellSunkenShip.rulePack.rulesStrings.6>
   <Cults_SpellSleeperOfNKai.label>운카이의 영면자</Cults_SpellSleeperOfNKai.label>
-  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.0>tale_noun->the time Tsathoggua granted us an idol</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.0>
-  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.1>image->차토구아는 신성한 나태의 기운과 함께 끊임없이 없이 움직이지 않고 앉아있습니다.</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.1>
-  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.2>circumstance_phrase->and from its ichor oozed upwards from the earth came a small sculpture</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.2>
-  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.3>circumstance_phrase->and tendris of is shapeless servants carried forth a small idol in his image through the earth</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.3>
-  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.4>desc_sentence->The totem appears like a squat, fat toad-like creature with features of a bat and sloth.</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.4>
-  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.5>desc_sentence->Behind the eyes of the totem can be seen a field of skulls beneath an unmoving god.</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.5>
-  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.6>desc_sentence->The divine Tsathoggua beckons for more sacrifices with a gaping maw and searching tongue.</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.6>
+  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.0>tale_noun->차토구아께서 우리에게 우상을 내려주신 시간</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.0>
+  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.1>image->차토구아는 신성한 나태의 기운과 함께 끈임없는 부동으로 앉아있으며 [circumstance_group]</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.1>
+  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.2>circumstance_phrase->또한 이것의 울컥 쏟아진 체액으로 부터 나온 작은 조각상</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.2>
+  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.3>circumstance_phrase->또한 형태없는 하인의 촉수가 가져온 작은 우상</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.3>
+  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.4>desc_sentence->토템은 박쥐와 나무늘보의 특징을 가지고 있는 뚱뚱한 두꺼비같은 짐승이 쪼그려 앉아있는 것 처럼 보입니다.</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.4>
+  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.5>desc_sentence->토템의 눈 뒤로 부동의 신 밑에 깔려있는 해골의 들판이 보입니다.</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.5>
+  <Cults_SpellSleeperOfNKai.rulePack.rulesStrings.6>desc_sentence->신성한 차토구아가 벌어진 턱과 낼름 거리는 혓바닥으로 더 많은 희생을 명하고 있습니다.</Cults_SpellSleeperOfNKai.rulePack.rulesStrings.6>
   <Cults_SpellBlackIchor.label>검은 영액</Cults_SpellBlackIchor.label>
-  <Cults_SpellBlackIchor.rulePack.rulesStrings.0>tale_noun->the time Tsathoggua squeezed its black ichor into our realm</Cults_SpellBlackIchor.rulePack.rulesStrings.0>
-  <Cults_SpellBlackIchor.rulePack.rulesStrings.1>image->차토구아는 신성한 나태의 기운과 함께 끊임없이 없이 움직이지 않고 앉아있습니다.</Cults_SpellBlackIchor.rulePack.rulesStrings.1>
-  <Cults_SpellBlackIchor.rulePack.rulesStrings.2>circumstance_phrase->그리고 그것의 크게 갈라진 위에서, 검은 이코르는 혀를 따라 내려갔다.</Cults_SpellBlackIchor.rulePack.rulesStrings.2>
-  <Cults_SpellBlackIchor.rulePack.rulesStrings.3>circumstance_phrase->그리고 그것의 발톱이 강하게 움켜쥐어 부순 두개골에서, 검은 이코르가 갈라진 틈에서 흘러나왔다.</Cults_SpellBlackIchor.rulePack.rulesStrings.3>
-  <Cults_SpellBlackIchor.rulePack.rulesStrings.4>desc_sentence->The ichor runs through the earth like lightning striking the world, and fills our colony with sustenance.</Cults_SpellBlackIchor.rulePack.rulesStrings.4>
-  <Cults_SpellBlackIchor.rulePack.rulesStrings.5>desc_sentence->The ichor makes a sloppy black fountain, pooling semi-solid ooze into edible clumps.</Cults_SpellBlackIchor.rulePack.rulesStrings.5>
-  <Cults_SpellBlackIchor.rulePack.rulesStrings.6>desc_sentence->The divine Tsathoggua waits for furher sacrifices bearing an expression of both hunger and divine sloth.</Cults_SpellBlackIchor.rulePack.rulesStrings.6>
+  <Cults_SpellBlackIchor.rulePack.rulesStrings.0>tale_noun->차토구아가 그의 검은 체액을 우리 세계에 짜내던 때</Cults_SpellBlackIchor.rulePack.rulesStrings.0>
+  <Cults_SpellBlackIchor.rulePack.rulesStrings.1>image->차토구아는 신성한 나태의 기운과 함께 끈임없는 부동으로 앉아있으며 [circumstance_group]</Cults_SpellBlackIchor.rulePack.rulesStrings.1>
+  <Cults_SpellBlackIchor.rulePack.rulesStrings.2>circumstance_phrase->그것의 크게 갈라진 입에서, 검은 체액은 혀를 따라 흐르는 모습</Cults_SpellBlackIchor.rulePack.rulesStrings.2>
+  <Cults_SpellBlackIchor.rulePack.rulesStrings.3>circumstance_phrase->그것의 발톱이 강하게 움켜쥐어 부순 두개골에서, 검은 체액이 갈라진 틈에서 흘러나오는 장면</Cults_SpellBlackIchor.rulePack.rulesStrings.3>
+  <Cults_SpellBlackIchor.rulePack.rulesStrings.4>desc_sentence->체액이 떨어지는 번개처럼 땅 위로 흩뿌려지고, 우리의 정착지의 식량고를 채웁니다.</Cults_SpellBlackIchor.rulePack.rulesStrings.4>
+  <Cults_SpellBlackIchor.rulePack.rulesStrings.5>desc_sentence->체액은 질퍽한 검은 분수를 만들었고, 거기선 반쯤 굳은 진흙처럼 보이는 것이 먹을 수 있는 덩어리가 되어 쌓이고 있습니다.</Cults_SpellBlackIchor.rulePack.rulesStrings.5>
+  <Cults_SpellBlackIchor.rulePack.rulesStrings.6>desc_sentence->신성한 차토구아가 허기와 성스러운 나태함을 보이며 더 많은 희생을 기다리고 있습니다.</Cults_SpellBlackIchor.rulePack.rulesStrings.6>
   <RodeByakhee.label>비야키 탑승</RodeByakhee.label>
   <RodeByakhee.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]의 비야키 비행</RodeByakhee.rulePack.rulesStrings.0>
   <RodeByakhee.rulePack.rulesStrings.1>image->[pawn_nameFull](은)는 [circumstance_group] 비야키의 탑승한 모습</RodeByakhee.rulePack.rulesStrings.1>

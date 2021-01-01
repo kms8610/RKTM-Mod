@@ -10,9 +10,9 @@
   <IP_InsertThirdItemDesc>첫 번째 재료 투입</IP_InsertThirdItemDesc>
   <IP_InsertFourthItemDesc>첫 번째 재료 투입</IP_InsertFourthItemDesc>
   <IP_InsertVariable>{0} 투입</IP_InsertVariable>
-  <IP_Output>{0} 출력</IP_Output>
-  <IP_OutputVariable>{1}에서 {0}(을)를 출력</IP_OutputVariable>
-  <IP_OutputDesc>프로세서가 {0}(을)를 출력합니다. {1}(을)를 공급해야 합니다</IP_OutputDesc>
+  <IP_Output>{0} 생산</IP_Output>
+  <IP_OutputVariable>{0}에서 {1}(을)를 생산</IP_OutputVariable>
+  <IP_OutputDesc>{0}(을)를 생산합니다. {1}(을)를 공급해야 합니다</IP_OutputDesc>
   <IP_InsertVariableSecond>두 번째 칸에 {0} 삽입</IP_InsertVariableSecond>
   <IP_InsertVariableThird>세 번째 칸에 {0} 삽입</IP_InsertVariableThird>
   <IP_CantFindThing>이 지도에 해당 종류의 물품({0})이 없습니다.</IP_CantFindThing>
@@ -22,7 +22,7 @@
   <IP_CancelIngredientsDesc>이 건물로 재료 운반하기 취소</IP_CancelIngredientsDesc>
   <IP_NoIngredientFound>지도에서 재료를 찾을 수 없음</IP_NoIngredientFound>
   <IP_ChooseIngredient>재료 선택</IP_ChooseIngredient>
-  <IP_ChooseOutput>출력 설정</IP_ChooseOutput>
+  <IP_ChooseOutput>생산 설정</IP_ChooseOutput>
   <IP_ChooseIngredientSecond>두 번째 재료를 선택</IP_ChooseIngredientSecond>
   <IP_ChooseIngredientThird>세 번째 재료를 선택</IP_ChooseIngredientThird>
   <IP_ChooseIngredientFourth>네 번째 재료를 선택</IP_ChooseIngredientFourth>
@@ -36,11 +36,11 @@
   <IP_NoPowerDestroysMessage>가공 중에 정전으로 식품이 상했습니다.</IP_NoPowerDestroysMessage>
   <IP_GenericProductFinished>제품 가공이 완료되어 운반 대기 중</IP_GenericProductFinished>
   <IP_IsEmpty>{0}(이)가 비어 있음</IP_IsEmpty>
-  <IP_FilledWith>{0}(은)는 {1}(으)로 예약됨</IP_FilledWith>
-  <IP_FilledWithSecond>{0}의 두 번째 칸은 {1}(으)로 예약됨</IP_FilledWithSecond>
-  <IP_FilledWithThird>{0}의 세 번째 칸은 {1}(으)로 예약됨</IP_FilledWithThird>
-  <IP_FilledWithFourth>{0}의 네 번째 칸은 {1}(으)로 예약됨</IP_FilledWithFourth>
-  <IP_IngredientPercentage>({1}개 중 {0}개 채워짐)</IP_IngredientPercentage>
+  <IP_FilledWith>{1} 투입 중</IP_FilledWith>
+  <IP_FilledWithSecond>{1} 투입 중</IP_FilledWithSecond>
+  <IP_FilledWithThird>{1} 투입 중</IP_FilledWithThird>
+  <IP_FilledWithFourth>{1} 투입 중</IP_FilledWithFourth>
+  <IP_IngredientPercentage> ({1}개 중 {0}개 채워짐)</IP_IngredientPercentage>
   <IP_ProcessorWorking>{0} 가공 중:</IP_ProcessorWorking>
   <IP_ProcessorPaused>{0}(이)가 일시 중지됨: </IP_ProcessorPaused>
   <IP_ProcessingInProgress>{0}(이)가 {1}(을)를 가공 중입니다.\n{2}(은)는 {4} 뒤에 {3} 품질로 완성됩니다.</IP_ProcessingInProgress>
@@ -58,7 +58,7 @@
   <IP_ToggleAuto>자동 재료 획득</IP_ToggleAuto>
   <IP_ToggleAutoDesc>항목을 활성화하면 해당 건물은 인접한 저장장소에서 재료를 자동으로 가져오고, 제품을 제거하면 자동으로 다시 작업을 시작합니다.\n그렇지 않은 경우 정착지 주민이 건물에 재료를 운반하며, 채워 넣은 후 수동으로 재개해야 합니다.</IP_ToggleAutoDesc>
   <IP_ResetFullAuto>기계 재설정</IP_ResetFullAuto>
-  <IP_ResetFullAutoDesc>기계를 완전히 재설정하고 중지시킵니다. 경고, 프로세스와 입력 항목이 파괴됩니다.</IP_ResetFullAutoDesc>
+  <IP_ResetFullAutoDesc>기계를 초기화시킵니다. 경고, 작업 중인 재료들이 파괴됩니다.</IP_ResetFullAutoDesc>
   <IP_ProductWaiting>운반 대기 중</IP_ProductWaiting>
   <IP_OutsideLightRange>주변에 조명이 없어 곧 손상될 것입니다.</IP_OutsideLightRange>
   <IP_SpoiledDueToLight>주변에 조명이 없어서 생산품이 손상되었습니다.</IP_SpoiledDueToLight>
@@ -68,7 +68,7 @@
   <IP_SpoiledDueToWrongTemp>생산품이 부적합한 온도로 인해 파손되었습니다.</IP_SpoiledDueToWrongTemp>
   <IP_TempRangeInThisMachine>권장 온도: {0} - {1} ºC</IP_TempRangeInThisMachine>
   <IP_TogglePause>일시 중지 / 재시작</IP_TogglePause>
-  <IP_TogglePauseDesc>이 프로세서의 처리를 일시 중지/다시 시작합니다</IP_TogglePauseDesc>
+  <IP_TogglePauseDesc>이 작업의 처리를 일시 중지/다시 시작합니다</IP_TogglePauseDesc>
   <IP_OverThreshold>제거 중입니다. 제거까지 {0}</IP_OverThreshold>
   <IP_NoRecipesHere>이 공장에 대한 모드 계획서를 찾을 수 없습니다.</IP_NoRecipesHere>
   <VanillaFactionsExpanded.EquipShield>{0}(을)를 방패로 착용</VanillaFactionsExpanded.EquipShield>
@@ -118,6 +118,6 @@
   <VFE_ChooseMine>석재 덩어리용 드릴을 선택</VFE_ChooseMine>
   <VFE_ChooseMineDesc>채굴할 석재 덩어리 유형을 선택합니다. 지도의 석재 유형 중 하나를 선택하거나 무작위로 선택할 수 있습니다.</VFE_ChooseMineDesc>
   <VFE_RandomRock>무작위 석재</VFE_RandomRock>
-  <VFE_PleaseSelectOutput>기계 출력 선택</VFE_PleaseSelectOutput>
+  <VFE_PleaseSelectOutput>생산품 선택</VFE_PleaseSelectOutput>
   <VFE_NeedsWater>이 건물은 반드시 물 위에 위치해야 합니다.</VFE_NeedsWater>
 </LanguageData>

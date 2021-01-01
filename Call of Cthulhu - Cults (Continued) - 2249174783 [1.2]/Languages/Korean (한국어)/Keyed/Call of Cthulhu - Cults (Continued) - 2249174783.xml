@@ -48,13 +48,14 @@
   <SacrificeFailMessage38>{0}(은)는 마치 지구가 떨리는 듯한, '크로니안'의 울음 소리에 기도를 멈추었습니다.</SacrificeFailMessage38>
   <SacrificeFailMessage39>{0}(은)는 미칠것 같지만 겨우 통제할 수준의 저주받은 힘을 느낍니다.</SacrificeFailMessage39>
   <SacrificeFailMessage40>40</SacrificeFailMessage40>
+  <Cults_MakeWorshipsVoluntary>예배를 자발적으로 하게 함</Cults_MakeWorshipsVoluntary>
   <ROM_TradeSanityForMadness>미침 (정신 붕괴 제거됨)</ROM_TradeSanityForMadness>
   <ROM_TradedSanityLossForMadness>{0}(은)는 상태 이상으로 쓰러졌지만, 정신이 회복되었습니다.</ROM_TradedSanityLossForMadness>
   <ROM_TradedSanityLossForMadnessFailed>{0}(은)는 상태 이상에 실패했습니다. 다시 시도할까요?</ROM_TradedSanityLossForMadnessFailed>
   <Cults_Discovered>실체 발견됨</Cults_Discovered>
-  <Box_Titles>lt;b>제목lt;/b></Box_Titles>
-  <Box_Domains>lt;b>영역lt;/b></Box_Domains>
-  <Box_Description>lt;b>설명lt;/b></Box_Description>
+  <Box_Titles><![CDATA[<b>제목</b>]]></Box_Titles>
+  <Box_Domains><![CDATA[<b>영역</b>]]></Box_Domains>
+  <Box_Description><![CDATA[<b>설명</b>]]></Box_Description>
   <Cults_DiscoveredDeityMessage>{0}(은)는 이상한 상징들 사이에서 발견되었습니다.</Cults_DiscoveredDeityMessage>
   <CommandCultReport>마지막 보고서 보기</CommandCultReport>
   <CommandCultReportDesc>집행인은 마지막 의식에 대한 기록을 남겼습니다.</CommandCultReportDesc>
@@ -136,6 +137,10 @@
   <Cults_TransmogrifiedLetterDesc>알수없는 힘으로 인해, {0}(은)는 이전과는 다르게 신비한 힘과 신체를 지니게 되었습니다. {0}(은)는 오래되고 통제할 수 없는 힘때문에 경련을 일으켰습니다.</Cults_TransmogrifiedLetterDesc>
   <Cults_Morning>아침</Cults_Morning>
   <Cults_Evening>저녁</Cults_Evening>
+  <Cults_SeasonDays>계절당 예배 일 수</Cults_SeasonDays>
+  <Cults_SermonStartLabel>예배 시작 시간</Cults_SermonStartLabel>
+  <Cults_MorningSermonStart>아침:</Cults_MorningSermonStart>
+  <Cults_EveningSermonStart>저녁:</Cults_EveningSermonStart>
   <Cults_NoPreacher>설교자가 선택되지 않았습니다.</Cults_NoPreacher>
   <Cults_NoCosmicEntity>신이 선택되지 않았습니다.</Cults_NoCosmicEntity>
   <Cults_NoPreacherDrafted>설교자가 선택되었습니다.</Cults_NoPreacherDrafted>
@@ -274,6 +279,10 @@
   <MorningSermonsDesc>아침 6시부터 10시까지 4시간동안 진행됩니다.</MorningSermonsDesc>
   <EveningSermons>저녁 예배</EveningSermons>
   <EveningSermonsDesc>저녁 6시부터 10시까지 4시간동안 진행됩니다.</EveningSermonsDesc>
+  <NoSermonLabel>예배 없음</NoSermonLabel>
+  <MorningSermonLabel>아침 예배</MorningSermonLabel>
+  <EveningSermonLabel>저녁 예배</EveningSermonLabel>
+  <BothSermonLabel><![CDATA[아침 & 저녁 예배]]></BothSermonLabel>
   <CommandCancelWorship>예배 모임 취소.</CommandCancelWorship>
   <NameCultMessage>정착지에서 종교가 형성되기 시작합니다.\n\n이 종교의 이름을 지어야 한다는 {0}의 제안이 들어왔습니다.\n\n이 종교를 뭐라고 부를까요?</NameCultMessage>
   <NameCultMessageNullHandler>정착지에서 종교가 형성되기 시작합니다.\n\n이 종교를 뭐라고 부를까요?</NameCultMessageNullHandler>

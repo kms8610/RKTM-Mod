@@ -12,7 +12,6 @@
     <li IfModActive="brrainz.cameraplus">Camera+ - 867467808 [1.2]</li>
 	<li IfModActive="brrainz.achtung">Achtung! - 730936602 [1.2]</li>
 	<li IfModActive="Albion.SparklingWorlds.Full">Sparkling Worlds - Full Mod - 1123043922 [1.2]</li>
-	<li IfModActive="avius.prisonlabor">Prison Labor - 1899474310 [1.2]</li>
 	<li IfModActive="machine.rtr">Raise The Roof - 1776143665 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VCookESushi">Vanilla Cooking Expanded - Sushi - 2158539170 [1.2]</li>
 	<li IfModActive="smashphil.neceros.srtsexpanded">SRTS Expanded - 1845423808 [1.2]</li>
@@ -214,7 +213,6 @@
 	<li IfModActive="AsGAlligator.MonsterHunterRimWorld">Monster Hunter RimWorld - 2001260604 [1.1]</li>
 	<!-- 20.10.08 -->
 	<li IfModActive="Community.Psychology.UnofficialUpdate">Psychology (unofficial)  - 2016263135 [1.2]</li>
-	<li IfModActive="Orion.Hospitality">Hospitality - 753498552 [1.2]</li>
 	<!-- 20.10.10 -->
 	<li IfModActive="TheGoofyOne.IceCreamIntegrated">Ice Cream Integrated - 2074386751 [1.2]</li>
 	<!-- 20.10.16 -->
@@ -243,7 +241,6 @@
 	<!-- 20.10.26 -->
 	<li IfModActive="Mlie.RimofMadnessArachnophobia">Rim of Madness - Arachnophobia (Continued) - 2242359252 [1.2]</li>
 	<!-- 20.10.28 -->
-	<li IfModActive="Mlie.CallofCthulhuCults">Call of Cthulhu - Cults (Continued) - 2249174783 [1.2]</li>
 	<li IfModActive="FrozenSnowFox.ComplexJobs">Complex Jobs - 2069684319 [1.2]</li>
 	<li IfModActive="RH.Faction.UAC">Faction UAC - 2130954176 [1.2]</li>
 	<li IfModActive="RH.Faction.VOID">Faction VOID - 2130955778 [1.2]</li>
@@ -311,7 +308,6 @@
     <li IfModActive="fluffy.modmanager">Mod Manager - 1507748539 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VAEED">Vanilla Animals Expanded — Extreme Desert - 1849184079 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VBrewECandT">Vanilla Brewing Expanded - Coffees and Teas - 2275449762 [1.2]</li>
-	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
 	<li IfModActive="rimsenal.feral">Rimsenal - Feral Faction Pack - 736207111 [1.2]</li>
 	<!-- 20.12.19 -->
 	<li IfModActive="LingLuo.MaidProject">Maid Project - 1498756997 [1.2]</li>
@@ -328,15 +324,24 @@
 	<!-- 20.12.25 -->
 	<li IfModActive="Dubwise.DubsPerformanceAnalyzer">Dubs Performance Analyzer - 2038874626 [1.2]</li>
 	<li IfModActive="krkr.locks2">Locks 2 Lock Them Out! - 2285862824 [1.2]</li>
-	<li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Vanilla Traits Expanded - 2296404655 [1.2]</li>
 	<!-- 20.12.27 -->
 	<li IfModActive="Harkon.GunNut.Chapter2">Gun Nut - Chapter #2 - 2239800263 [1.2]</li>
-	<li IfModActive="tachyonite.pawnmorpherpublic">Pawnmorpher - 1786466855 [1.2]</li>
-	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
 	<li IfModActive="Taranchuk.ClaySoldeirs">Clay Soldier Race - 2307153650 [1.2]</li>
 	<li IfModActive="shakesthespeare.RimsecSecurity">Rimsec Security - 2323762086 [1.2]</li>
-	<li IfModActive="Dubwise.Rimefeller">Rimefeller - 1321849735 [1.2]</li>
 	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268 [1.2]</li>
+	<!-- 20.12.28 -->
+	<li IfModActive="Orion.Hospitality">Hospitality - 753498552 [1.2]</li>
+	<li IfModActive="Dubwise.Rimefeller">Rimefeller - 1321849735 [1.2]</li>
+	<!-- 20.12.30 -->
+	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
+	<li IfModActive="tachyonite.pawnmorpherpublic">Pawnmorpher - 1786466855 [1.2]</li>
+	<li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Vanilla Traits Expanded - 2296404655 [1.2]</li>
+	<li IfModActive="Mlie.CallofCthulhuCults">Call of Cthulhu - Cults (Continued) - 2249174783 [1.2]</li>
+	<!-- 2021.01.01 -->
+	<li IfModActive="avius.prisonlabor">Prison Labor - 1899474310 [1.2]</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
+	<li IfModActive="OskarPotocki.VFE.Mechanoid">Vanilla Factions Expanded - Mechanoids - 2329011599 [1.2]</li>
+	<li IfModActive="spdskatr.projectrimfactory.legacy">Project RimFactory Revived - LEGACY - 2340838603 [1.2]</li>
   </v1.2>
 
 </loadFolders>

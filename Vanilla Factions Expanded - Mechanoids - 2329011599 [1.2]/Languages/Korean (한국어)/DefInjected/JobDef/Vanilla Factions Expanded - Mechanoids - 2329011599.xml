@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_Mechanoids_RepairMachine.reportString>기계 조립 중</VFE_Mechanoids_RepairMachine.reportString>
+  <VFE_Mechanoids_AttachTurret.reportString>포탑 설치 중</VFE_Mechanoids_AttachTurret.reportString>
+  <VFE_Mechanoids_Recharge.reportString>충전 중</VFE_Mechanoids_Recharge.reportString>
+  <VFEM_Disassemble.reportString>TargetA 분해 중.</VFEM_Disassemble.reportString>
+  <VFEM_RefuelSilo.reportString>TargetA 보급 중.</VFEM_RefuelSilo.reportString>
+</LanguageData>

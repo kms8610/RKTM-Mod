@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <EmptyAutoclave.label>고압 반응로 비우기</EmptyAutoclave.label>
   <EmptyAutoclave.verb>고압 반응로 비우기</EmptyAutoclave.verb>
   <EmptyAutoclave.gerund>고압 반응로 비우기</EmptyAutoclave.gerund>
@@ -13,8 +12,7 @@
   <SuperviseDrilling.label>시추 감독</SuperviseDrilling.label>
   <SuperviseDrilling.verb>감독</SuperviseDrilling.verb>
   <SuperviseDrilling.gerund>감독</SuperviseDrilling.gerund>
-  <OperateResourceConsole.label>자원 콘솔 관리</OperateResourceConsole.label>
-  <OperateResourceConsole.verb>관리</OperateResourceConsole.verb>
-  <OperateResourceConsole.gerund>관리</OperateResourceConsole.gerund>
-
+  <OperateResourceConsole.label>자원 제어기 조작</OperateResourceConsole.label>
+  <OperateResourceConsole.verb>조작</OperateResourceConsole.verb>
+  <OperateResourceConsole.gerund>조작</OperateResourceConsole.gerund>
 </LanguageData>

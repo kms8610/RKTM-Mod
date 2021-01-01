@@ -67,10 +67,10 @@
   <LetterHediffFromTransformation>{0}(이)가 {1}(으)로 변이됨!</LetterHediffFromTransformation>
   <LetterHediffFromTransformationBondLabel>{0} -> {1}</LetterHediffFromTransformationBondLabel>
   <LetterHediffFromTransformationBond>{0}(이)가 {1}(으)로 변했습니다!\n\n전에 있던 관계 덕분에, {0}(은)는 {2}(와)과 각별한 사이가 되었습니다.</LetterHediffFromTransformationBond>
-  <LetterHediffFromTransformationMergeLabel>{0} + {1} -gt; {2}</LetterHediffFromTransformationMergeLabel>
-  <LetterHediffFromTransformationMerge>{0}와{1}(이)가 {2(으)로 혼합되었습니다!</LetterHediffFromTransformationMerge>
+  <LetterHediffFromTransformationMergeLabel>{0} + {1} -> {2}</LetterHediffFromTransformationMergeLabel>
+  <LetterHediffFromTransformationMerge>{0}(와)과 {1}(이)가 {2}(으)로 혼합되었습니다!</LetterHediffFromTransformationMerge>
   <LetterHediffFromPermanentTFLabel>{0}(은)는 영구적으로 야생화 됨</LetterHediffFromPermanentTFLabel>
-  <LetterHediffFromPermanentTF>이들의 시스템에 있는 돌연변이 메카나이트들이 원래 형태의 기억을 동시에 제거하였기 때문에, {0}의 몸에는 가시적인 변화가 없습니다. {0}(은)는 더 이상 회귀 혈청으로도 인간이 될 수 없습니다. {0}(은)는 이제 영원히 동물로 남게 될 것입니다.</LetterHediffFromPermanentTF>
+  <LetterHediffFromPermanentTF>이들의 시스템에 있는 변형 유인체 메카나이트들이 원래 형태의 기억을 동시에 제거하였기 때문에, {0}의 몸에는 가시적인 변화가 없습니다. {0}(은)는 더 이상 회귀 혈청으로도 인간이 될 수 없습니다. {0}(은)는 이제 영원히 동물로 남게 될 것입니다.</LetterHediffFromPermanentTF>
   <LetterHediffFromDietChangeLabel>이제 {0}(은)는 {1}(이)가 됨</LetterHediffFromDietChangeLabel>
   <LetterHediffFromDietChange>{0}의 음식은 이제 {1}(으)로 변경되었습니다! 제대로 먹이는 것 잊지 마세요.</LetterHediffFromDietChange>
   <LetterHediffFromEtherBondLabel>에테르결합: {0}</LetterHediffFromEtherBondLabel>

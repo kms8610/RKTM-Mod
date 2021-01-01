@@ -1,12 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <OilPipeVisibility.label>송유관 표시</OilPipeVisibility.label>
   <OilPipeVisibility.options.0.label>숨기기</OilPipeVisibility.options.0.label>
   <OilPipeVisibility.options.1.label>바닥 타일 밑에 숨기기</OilPipeVisibility.options.1.label>
-  <OilPipeVisibility.options.2.label>항상 표시</OilPipeVisibility.options.2.label>
-  <OilPipeVisibility.options.3.label>지면 위에 항상 표시</OilPipeVisibility.options.3.label>
-  <CrudeToFuelRatio.label>연료:원유 비율</CrudeToFuelRatio.label>
+  <OilPipeVisibility.options.2.label>항상 보이기</OilPipeVisibility.options.2.label>
+  <OilPipeVisibility.options.3.label>지면 위에 항상 배관 표시</OilPipeVisibility.options.3.label>
+  <CrudeToFuelRatio.label>원유:연료 비율</CrudeToFuelRatio.label>
   <CrudeToFuelRatio.options.0.label>없음</CrudeToFuelRatio.options.0.label>
   <CrudeToFuelRatio.options.1.label>0.5:1</CrudeToFuelRatio.options.1.label>
   <CrudeToFuelRatio.options.2.label>1:1</CrudeToFuelRatio.options.2.label>
@@ -38,11 +37,10 @@
   <OilRegenRate.options.8.label>0%</OilRegenRate.options.8.label>
   <OilGridCapacity.label>원유 매장량</OilGridCapacity.label>
   <OilGridCapacity.options.0.label>없음</OilGridCapacity.options.0.label>
-  <OilGridCapacity.options.1.label>풍족함</OilGridCapacity.options.1.label>
+  <OilGridCapacity.options.1.label>풍족</OilGridCapacity.options.1.label>
   <OilGridCapacity.options.2.label>쉬움</OilGridCapacity.options.2.label>
-  <OilGridCapacity.options.3.label>일반</OilGridCapacity.options.3.label>
-  <OilGridCapacity.options.4.label>보통</OilGridCapacity.options.4.label>
+  <OilGridCapacity.options.3.label>보통</OilGridCapacity.options.3.label>
+  <OilGridCapacity.options.4.label>도전</OilGridCapacity.options.4.label>
   <OilGridCapacity.options.5.label>적음</OilGridCapacity.options.5.label>
   <OilGridCapacity.options.6.label>극도로 적음</OilGridCapacity.options.6.label>
-
 </LanguageData>

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <PawnmorphMartenTF.label>족제비 변이체</PawnmorphMartenTF.label>
+  <PawnmorphMartenTF.description>이 사람의 혈액에는 신체를 천천히 족제비 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 족제비에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphMartenTF.description>
+  <PawnmorphMartenTF.stages.0.label>감아내기</PawnmorphMartenTF.stages.0.label>
+  <PawnmorphMartenTF.stages.1.label>변이중</PawnmorphMartenTF.stages.1.label>
+  <PawnmorphMartenTF.stages.1.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</PawnmorphMartenTF.stages.1.letterText>
+  <PawnmorphMartenTF.stages.1.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</PawnmorphMartenTF.stages.1.letterLabel>
+  <PawnmorphMartenTF.stages.2.label>동물화중</PawnmorphMartenTF.stages.2.label>
+  <PawnmorphMartenTFPartial.label>불완전한 족제비 변이체</PawnmorphMartenTFPartial.label>
+  <PawnmorphMartenTFPartial.description>이 사람의 혈액속에는 족제비와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphMartenTFPartial.description>
   <ProductionPillUdderEffect.label>생산량 증가</ProductionPillUdderEffect.label>
   <ProductionPillUdderEffect.description>비정상적인 hediff입니다. 무시하거나 개발자 모드로 지우셔도 무관 합니다.</ProductionPillUdderEffect.description>
   <ProductionPillChemfuelUdderEffect.label>생산량 증가</ProductionPillChemfuelUdderEffect.label>
@@ -59,13 +68,13 @@
   <Chaoflu.stages.3.label>완벽한</Chaoflu.stages.3.label>
   <HuskyFlu.label>개 감기</HuskyFlu.label>
   <HuskyFlu.description>이 폰은 변형 유인 질병에 걸렸습니다. 자기의 꼬리를 쫓으며 짖고 싶은 충동을 주는 것 같습니다.</HuskyFlu.description>
-  <HuskyFlu.stages.0.label>사소함</HuskyFlu.stages.0.label>
+  <HuskyFlu.stages.0.label>가벼움</HuskyFlu.stages.0.label>
   <HuskyFlu.stages.1.label>심각함</HuskyFlu.stages.1.label>
   <HuskyFlu.stages.2.label>극심함</HuskyFlu.stages.2.label>
   <HuskyFlu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</HuskyFlu.stages.2.letterText>
   <HuskyFlu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</HuskyFlu.stages.2.letterLabel>
   <HuskyFlu.stages.3.label>넓은 수염</HuskyFlu.stages.3.label>
-  <TransformedHuman.label>인간이었던 것</TransformedHuman.label>
+  <TransformedHuman.label>변이된 인간</TransformedHuman.label>
   <TransformedHuman.description>[PAWN_nameDef](은)는 과거엔 인간이었지만 무슨 일이 있었는지 지금은 현태의 형태로 변이되었습니다. 하지만, [PAWN_pronoun]는 다시 되돌아갈 수 있습니다.</TransformedHuman.description>
   <TransformedHuman.stages.0.label>지성적</TransformedHuman.stages.0.label>
   <TransformedHuman.stages.1.label>거의 지성적</TransformedHuman.stages.1.label>

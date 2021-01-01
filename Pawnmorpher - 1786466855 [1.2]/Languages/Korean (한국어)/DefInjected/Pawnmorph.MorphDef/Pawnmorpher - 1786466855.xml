@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <MartenMorph.label>족제비 변이체</MartenMorph.label>
+  <MartenMorph.description>(귀여운) 개조인간 군대를 양성하려던 한 미치광이 과학자의 결과물입니다. 족제비 변이체들은 강한 싸움꾼이며, 그들을 가히 범접 불가능하게 만드는 민첩성까지 갖추고 있습니다.</MartenMorph.description>
   <AlpacaMorph.label>알파카 변이체</AlpacaMorph.label>
   <AlpacaMorph.description>알파카 변이체들은 발굽을 가지고 있는 매력적인 초식성 생물들입니다. 그들은 많은 양의 부드러운 털을 생산하지만, 스스로의 털을 깎을 수 있습니다... 고맙지만, 그들은 그 일에 당신의 도움이 필요하지 않습니다.</AlpacaMorph.description>
   <BearMorph.description>곰 변이체는 전투 전문가입니다. 보통 커다란 발톱 과 발, 발톱을 갖추고 있는데, 가까이 가면 엄청나게 위험합니다. 그러나 그들은 부드러운 성품을 가지고 있고, 곰인형에 마음이 약해집니다.</BearMorph.description>

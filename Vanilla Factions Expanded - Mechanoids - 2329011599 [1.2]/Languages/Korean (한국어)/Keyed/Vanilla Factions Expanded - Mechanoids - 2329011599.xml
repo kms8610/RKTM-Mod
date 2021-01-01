@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_BringIngredients>재료 추출</VFEM_BringIngredients>
+  <VFEM_BringIngredientsDesc>인접한 호퍼에서 성분을 추출하는 공정을 시작합니다.</VFEM_BringIngredientsDesc>
+  <VFEMech.MustPlaceOnFactoryFloor>공장 바닥에 직접 배치해야 합니다.</VFEMech.MustPlaceOnFactoryFloor>
+  <VFEMech.MustPlaceOnPowerConduit>전선에 직접 배치해야 합니다.</VFEMech.MustPlaceOnPowerConduit>
+  <VFEM_SiloNoTarget>현재 목표 없음</VFEM_SiloNoTarget>
+  <VFEM_SiloTargeting>현재 {1}의 {0}(이)가 목표가 되었습니다</VFEM_SiloTargeting>
+  <VFEM_SiloConditionsSatisfied>모든 자원이 존재합니다</VFEM_SiloConditionsSatisfied>
+  <VFEM_SiloConditionsUnsatisfied>일부 자원이 없습니다</VFEM_SiloConditionsUnsatisfied>
+  <VFEM_SiloCountEntry>{0}: {1}/{2}</VFEM_SiloCountEntry>
+  <VFEM_SiloAimAtQuestSite>위치에 대상이 될만큼 큰 개체가 없습니다.</VFEM_SiloAimAtQuestSite>
+  <VFEMechForceRecharge>강제 재충전</VFEMechForceRecharge>
+  <VFEMechForceRechargeDesc>현재 축전지 수준에 관계없이 해당 기계가 충전소로 돌아가 충전하게 합니다.</VFEMechForceRechargeDesc>
+  <VFEMechAttachTurret>포탑 장착</VFEMechAttachTurret>
+  <VFEMechAttachTurretDesc>이동식 차량 위에 포탑을 건설합니다.\n이를 위해서는 정착지 주민이 해당 포탑의 일반적인 건설 자원과 동일한 자원을 가지고 있어야 합니다.</VFEMechAttachTurretDesc>
+  <VFEMechMachineDied>기계 파괴됨</VFEMechMachineDied>
+  <VFEMechMachineDiedDesc>기계 중 하나가 파괴되었습니다!\n기계 작업대에서 잔해를 분해할 수 있으며, 대체품을 제작하려면 정착민 한 명이 해당 기계 충전소에 다음 부품을 전달해야 합니다.\n\n{0}</VFEMechMachineDiedDesc>
+  <VFEMechNoResources>충분한 자원이 없습니다</VFEMechNoResources>
+  <VFEMechNoTurret>활성화된 이동식 포탑이 없습니다</VFEMechNoTurret>
+  <VFEMechReconstruct>기계 재건설에 필요:</VFEMechReconstruct>
+  <VFEMechTurretResources>포탑 건설에 필요:</VFEMechTurretResources>
+  <VFEMechLowerRange>범위 감소</VFEMechLowerRange>
+  <VFEMechLowerRangeDesc>이 기계의 이동 타일 수를 줄입니다.</VFEMechLowerRangeDesc>
+  <VFEMechRaiseRange>범위 증가</VFEMechRaiseRange>
+  <VFEMechRaiseRangeDesc>이 기계의 이동 타일 수를 늘립니다.</VFEMechRaiseRangeDesc>
+  <VFEMechStopMachine>기계 작동 정지</VFEMechStopMachine>
+  <VFEMechStopMachineDesc>해당 기계의 작업을 중지시키고, 기지로 되돌려 보냅니다.</VFEMechStopMachineDesc>
+  <VFEMechStartMachine>기계 작동 시작</VFEMechStartMachine>
+  <VFEMechStartMachineDesc>기계를 작동시킵니다.</VFEMechStartMachineDesc>
+  <VFEMechMachineHitObstacle>기계가 장애물과 충돌했습니다!</VFEMechMachineHitObstacle>
+  <VFEMechSetArea>구역 설정</VFEMechSetArea>
+  <VFEMechSetAreaDesc>이 충전소에 연결된 모든 기계에 대해 허가 영역을 설정합니다.</VFEMechSetAreaDesc>
+  <VFEMech.LetterJoinOfferTitle>{PAWN_nameDef}(이)가 합류하길 원합니다.</VFEMech.LetterJoinOfferTitle>
+  <VFEMech.LetterJoinOfferLabel>합류 요청: {PAWN_nameDef}</VFEMech.LetterJoinOfferLabel>
+  <VFEMech.LetterJoinOfferText>신뢰와 감사의 표시로 {PAWN_nameDef}(은)는 {PAWN_pronoun}가 정착지에 중요한 도움이 될 수 있다고 믿습니다.\n{PAWN_pronoun}가 당신의 정착지에 영구적으로 합류하고자 합니다.</VFEMech.LetterJoinOfferText>
+  <VFEMech.RaidWarningTitle>습격 임박: {FACTION_name}</VFEMech.RaidWarningTitle>
+  <VFEMech.RaidWarningText>{FACTION_name}(이)가 앞으로 12시간 내에 당신을 습격할 것입니다. {1}</VFEMech.RaidWarningText>
+  <VFEMech.DisableTotalWarMechanic>전면전 방식 비활성화</VFEMech.DisableTotalWarMechanic>
+  <VFEMech.AdjustIncidentChanceLabel>다음 사건의 기본 확률 조정:</VFEMech.AdjustIncidentChanceLabel>
+  <VFEMech.AdjustMechPresenceLabel>다음에 의해 생성되는 메카노이드 개체 요인 조정:</VFEMech.AdjustMechPresenceLabel>
+  <VFEMech.AdjustMinimunColonistCountLabel>함선 착륙 사건에 필요한 최소 정착민 수 조정:</VFEMech.AdjustMinimunColonistCountLabel>
+  <VFEMech.AdjustMaximumDistanceForShipsLabel>함선 착륙 지점의 최대 거리 조정:</VFEMech.AdjustMaximumDistanceForShipsLabel>
+  <VFEM_factorySpeedMultiplier>공장 속도 배수</VFEM_factorySpeedMultiplier>
+  <VFEM_factorySpeedMultiplierTooltip>공장 속도 배수로, 기본값은 1입니다.\n숫자가 낮을수록 공장 작동 속도가 빨라지고 숫자가 높을수록 작동 속도가 느려집니다.</VFEM_factorySpeedMultiplierTooltip>
+</LanguageData>

@@ -25,7 +25,7 @@
   <Make_HealerFromMutonite.description>많은 양의 변형 유인체 메카나이트를 재생 프로토콜을 이용해 재설정 합니다. 매우 많은 양의 메카나이트가 재설정됨에 따라, 무력화에 실패한 메카나이트가 있을 수 있으며, 이로인해 높은 확률로 재생된 부위가 변이를 일으킬 수 있습니다.</Make_HealerFromMutonite.description>
   <Make_HealerFromMutonite.jobString>뮤타나이트에서 혼합물 정제중</Make_HealerFromMutonite.jobString>
   <Make_GlitterMedsFromMutonite.label>번화계 약품 제작</Make_GlitterMedsFromMutonite.label>
-  <Make_GlitterMedsFromMutonite.description>혼합물에서 메카나이트를 추출해 번화계 약으로 만듭니다. 상당히 많은 재료를 필요로 하며, 이들이 가지고있는 돌연변이 유발 효과를 중화시킵니다.</Make_GlitterMedsFromMutonite.description>
+  <Make_GlitterMedsFromMutonite.description>혼합물에서 메카나이트를 추출해 번화계 약으로 만듭니다. 상당히 많은 재료를 필요로 하며, 이들이 가지고있는 변형 유인 효과를 중화시킵니다.</Make_GlitterMedsFromMutonite.description>
   <Make_GlitterMedsFromMutonite.jobString>혼합물을 번화계 약품으로 정제중</Make_GlitterMedsFromMutonite.jobString>
   <AdministerMutagenicMechSerumHealer.label>치료용 변형 유인체 메카나이트 투여</AdministerMutagenicMechSerumHealer.label>
   <AdministerMutagenicMechSerumHealer.description>치료용 변형 유인체 메카나이트 투여</AdministerMutagenicMechSerumHealer.description>

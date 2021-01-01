@@ -68,4 +68,12 @@
   <PrisonLabor_CommandBedSetOwnerDesc>이 침대를 특정 포로가 사용하도록 지정</PrisonLabor_CommandBedSetOwnerDesc>
   <PrisonLabor_EnableSuicide>죄수 자살 활성화</PrisonLabor_EnableSuicide>
   <PrisonLabor_EnableSuicideDesc>죄수들이 행복하지 않을 때 자살 가능</PrisonLabor_EnableSuicideDesc>
+  <PrisonLabor_EnableFullHealRest>죄수가 완전히 나을 때까지 휴식 활성화</PrisonLabor_EnableFullHealRest>
+  <PrisonLabor_EnableFullHealRestDesc>죄수는 완치될 때까지 침대에 누워있을 것입니다.</PrisonLabor_EnableFullHealRestDesc>
+  <PrisonLabor_HandcuffsPut>수갑 채우기</PrisonLabor_HandcuffsPut>
+  <PrisonLabor_HandcuffsRemove>수갑 제거</PrisonLabor_HandcuffsRemove>
+  <PrisonLabor_LegcuffsPut>다리 사슬 채우기</PrisonLabor_LegcuffsPut>
+  <PrisonLabor_LegcuffsRemove>다리 사슬 제거</PrisonLabor_LegcuffsRemove>
+  <PrisonLabor_ToggleHandscuffs>수갑 채우기/제거</PrisonLabor_ToggleHandscuffs>
+  <PrisonLabor_ToggleLegscuffs>다리 사슬 채우기/제거</PrisonLabor_ToggleLegscuffs>
 </LanguageData>

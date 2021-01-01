@@ -86,9 +86,9 @@
   <RareMutant.stages.0.label>희귀 돌연변이</RareMutant.stages.0.label>
   <RareMutant.stages.0.description>할 일</RareMutant.stages.0.description>
   <Paragon.label>파라곤</Paragon.label>
-  <Paragon.description>이 폰은 새로운 변이에 빠르게 적응하고, 때로 향상되거나 더욱 강력한 변이를 일으킵니다. </Paragon.description>
+  <Paragon.description>이 폰은 새로운 변이에 빠르게 적응하고, 때로 향상되거나 더욱 강력한 변이를 일으킵니다.</Paragon.description>
   <Paragon.stages.0.label>파라곤</Paragon.stages.0.label>
-  <Paragon.stages.0.description>[PAWN_nameDef](은)는 새로운 변이에 빠르게 적응하고, 때로 향상되거나 더욱 강력한 변이를 일으킵니다. </Paragon.stages.0.description>
+  <Paragon.stages.0.description>[PAWN_nameDef](은)는 새로운 변이에 빠르게 적응하고, 때로 향상되거나 더욱 강력한 변이를 일으킵니다.</Paragon.stages.0.description>
   <Paragon.stages.0.messageText>[PAWN_nameDef]의 변이 몇몇 변이가 빠르게 적응하고 있으며 더욱 강해지고 있습니다.</Paragon.stages.0.messageText>
   <Afflicted.label>고통받음</Afflicted.label>
   <Afflicted.description>이 폰은 절대 변이에 익숙해지지 않을 뿐더러, 가끔 변이가 더 안좋은 쪽으로 퇴화하기도 합니다.</Afflicted.description>
@@ -111,4 +111,6 @@
   <MeatLover.description>이 폰은 날고기의 맛을 알게되었고, 날고기 섭취로 인해 식중독에 걸릴 확률이 줄어들었습니다.</MeatLover.description>
   <MeatLover.stages.0.label>고기 애호가</MeatLover.stages.0.label>
   <MeatLover.stages.0.description>[PAWN_nameDef](은)는 날고기의 맛을 알게되었고, 날고기 섭취로 인해 식중독에 걸릴 확률이 줄어들었습니다.</MeatLover.stages.0.description>
+  <MartenAspect.label>귀여운 암살자</MartenAspect.label>
+  <MartenAspect.description>족제비 변이체는 놀라운 기술과 민첩성을 지닌, 날렵하고 지적인 사냥꾼으로 유명합니다. 그들은 맨손 전투에서 자신보다 큰 덩치의 적을 손쉽게 제압 할 수 있습니다.</MartenAspect.description>
 </LanguageData>

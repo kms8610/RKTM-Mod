@@ -16,6 +16,22 @@
   <PackMinded.stages.2.description>우리 패거리에는 많은 사람들이 있기 떄문에 우리 패거리는 강력해!</PackMinded.stages.2.description>
   <PackMinded.stages.3.label>행복함</PackMinded.stages.3.label>
   <PackMinded.stages.3.description>내 패거리에는 많은 사람들이 있어, 이건 굉장해!</PackMinded.stages.3.description>
+  <MartenTransformationMemory.stages.0.label>변이 끝남</MartenTransformationMemory.stages.0.label>
+  <MartenTransformationMemory.stages.0.description>온 세상이 갑자기 커졌어...</MartenTransformationMemory.stages.0.description>
+  <MartenTransformationMemory.stages.1.label>변이 끝남</MartenTransformationMemory.stages.1.label>
+  <MartenTransformationMemory.stages.1.description>와, 나 엄청 빨라졌어!</MartenTransformationMemory.stages.1.description>
+  <MartenTransformationMemory.stages.2.label>변이 끝남</MartenTransformationMemory.stages.2.label>
+  <MartenTransformationMemory.stages.2.description>왜 족제비야? 스컹크랑 한발자국 차이잖아!</MartenTransformationMemory.stages.2.description>
+  <MartenTransformationMemory.stages.3.label>변이 끝남</MartenTransformationMemory.stages.3.label>
+  <MartenTransformationMemory.stages.3.description>이것 참 대단하긴 한데, 완전히 족제비로 변하면 어떨지 너무 궁금해...</MartenTransformationMemory.stages.3.description>
+  <MartenRevertedMemory.stages.0.label>되돌아옴</MartenRevertedMemory.stages.0.label>
+  <MartenRevertedMemory.stages.0.description>휴, 드디어 평범한 크기로 돌아왔어.</MartenRevertedMemory.stages.0.description>
+  <MartenRevertedMemory.stages.1.label>되돌아옴</MartenRevertedMemory.stages.1.label>
+  <MartenRevertedMemory.stages.1.description>으으, 또 다시 평범하고 덤벙대는 인간이야..</MartenRevertedMemory.stages.1.description>
+  <MartenRevertedMemory.stages.2.label>되돌아옴</MartenRevertedMemory.stages.2.label>
+  <MartenRevertedMemory.stages.2.description>좋아! 다시 인간이다! 어느 머저리가 족제비가 되고 싶어 하겠어?</MartenRevertedMemory.stages.2.description>
+  <MartenRevertedMemory.stages.3.label>되돌아옴</MartenRevertedMemory.stages.3.label>
+  <MartenRevertedMemory.stages.3.description>뭐, 족제비가 되는것에서는 일보 후퇴지만, 다른 모든 동물이 되기 위한 일보 전진이라고 볼수 있겠지?</MartenRevertedMemory.stages.3.description>
   <PawnmorphMoo.stages.0.label>음머</PawnmorphMoo.stages.0.label>
   <PawnmorphBleat.stages.0.label>메에에</PawnmorphBleat.stages.0.label>
   <PawnmorphBok.stages.0.label>꼬꼬꼬</PawnmorphBok.stages.0.label>
@@ -999,7 +1015,7 @@
   <EtherBeak.stages.1.label>부리</EtherBeak.stages.1.label>
   <EtherBeak.stages.1.description>맘에 안드는놈들 쪼아버릴 시간이다.</EtherBeak.stages.1.description>
   <EtherBeak.stages.2.label>부리</EtherBeak.stages.2.label>
-  <EtherBeak.stages.2.description>내 얼굴! 너무 끔직해, 멍! </EtherBeak.stages.2.description>
+  <EtherBeak.stages.2.description>내 얼굴! 너무 끔직해, 멍!</EtherBeak.stages.2.description>
   <EtherTailfeathers.stages.0.label>꼬리털</EtherTailfeathers.stages.0.label>
   <EtherTailfeathers.stages.0.description>이거때문에 엉덩이가 펑퍼짐해 보이진 않겠지..?</EtherTailfeathers.stages.0.description>
   <EtherTailfeathers.stages.1.label>꼬리털</EtherTailfeathers.stages.1.label>
@@ -1617,7 +1633,7 @@
   <EtherRhinocerosEar.stages.0.label>코뿔소 귀</EtherRhinocerosEar.stages.0.label>
   <EtherRhinocerosEar.stages.0.description>누가 내 귀에 파이프 박아놨어?</EtherRhinocerosEar.stages.0.description>
   <EtherRhinocerosEar.stages.1.label>코뿔소 귀</EtherRhinocerosEar.stages.1.label>
-  <EtherRhinocerosEar.stages.1.description>화를 좀 식히기 완벽하네. </EtherRhinocerosEar.stages.1.description>
+  <EtherRhinocerosEar.stages.1.description>화를 좀 식히기 완벽하네.</EtherRhinocerosEar.stages.1.description>
   <EtherRhinocerosEar.stages.2.label>코뿔소 귀</EtherRhinocerosEar.stages.2.label>
   <EtherRhinocerosEar.stages.2.description>난 내 귀가 좋아, 이런 이상한 빨대 같은거 말고...</EtherRhinocerosEar.stages.2.description>
   <EtherRhinocerosTail.stages.0.label>코뿔소 꼬리</EtherRhinocerosTail.stages.0.label>
@@ -1761,7 +1777,7 @@
   <EtherTurkeyJaw.stages.1.label>부리</EtherTurkeyJaw.stages.1.label>
   <EtherTurkeyJaw.stages.1.description>맘에 안드는놈들 쪼아버릴 시간이다.</EtherTurkeyJaw.stages.1.description>
   <EtherTurkeyJaw.stages.2.label>부리</EtherTurkeyJaw.stages.2.label>
-  <EtherTurkeyJaw.stages.2.description>내 얼굴! 너무 끔직해, 꿕! </EtherTurkeyJaw.stages.2.description>
+  <EtherTurkeyJaw.stages.2.description>내 얼굴! 너무 끔직해, 꿕!</EtherTurkeyJaw.stages.2.description>
   <EtherTurkeyEar.stages.0.label>귓구멍</EtherTurkeyEar.stages.0.label>
   <EtherTurkeyEar.stages.0.description>뭐야, 내 귀가 어디갔지?</EtherTurkeyEar.stages.0.description>
   <EtherTurkeyEar.stages.1.label>귓구멍</EtherTurkeyEar.stages.1.label>

@@ -6,8 +6,8 @@
   <LostGroupFactionAnger>{1}의 {0}(은)는 대표단의 소식을 다신 듣지 못했다고 합니다 ({2}).</LostGroupFactionAnger>
   <LostGroupFactionAngerLeaderless>{0}의 구성원들이 포섭에 대해 화를 냈습니다 ({1}).</LostGroupFactionAngerLeaderless>
   <RecruitFactionPlease>{1}의 {0}(이)가 {2}(을)를 도와준 것에 대해 감사해 합니다 ({3}).</RecruitFactionPlease>
-  <RecruitFactionPleaseLeaderless>{0}의 구성원들이 당신이 {1}(을)를 도와준 것에 대해 기뻐합니다 ({2}).</RecruitFactionPleaseLeaderless>
-  <MessageGuestRecruitSuccess>{0}(이)가 정착지에 합류하기로 결심했습니다!</MessageGuestRecruitSuccess>
+  <RecruitFactionPleaseLeaderless>{0}의 구성원들이 {1}(을)를 도와준 것에 대해 기뻐합니다 ({2}).</RecruitFactionPleaseLeaderless>
+  <MessageGuestRecruitSuccess>{0}(이)가 정착지에 합류하기로 했습니다!</MessageGuestRecruitSuccess>
   <MessageGuestForcedRecruit>{0}(이)가 정착지에 합류되길 강제되었습니다!</MessageGuestForcedRecruit>
   <LetterLabelRecruitFactionChiefAnger>지도자 분노함</LetterLabelRecruitFactionChiefAnger>
   <LetterLabelRecruitFactionAnger>세력이 분노함</LetterLabelRecruitFactionAnger>
@@ -32,7 +32,7 @@
   <VisitorsArrivedTitle>{1}의 {WORLDOBJECT_label}에서 온 방문객이 도착했습니다</VisitorsArrivedTitle>
   <VisitorsArrivedDesc>다음과 같은 이유로 정착지에 들어오는 것을 걱정하고 있습니다.\n{1}\n\n만약 그들을 돌려 보낸다면 그 지역에 머무르다 나중에 다시 올 것입니다.</VisitorsArrivedDesc>
   <VisitorsArrivedAccept>안전 보장</VisitorsArrivedAccept>
-  <VisitorsArrivedRefuse>돌려 보낸다</VisitorsArrivedRefuse>
+  <VisitorsArrivedRefuse>돌려보내기</VisitorsArrivedRefuse>
   <VisitorsArrivedRefuseUntilBeds>방문객용 침대를 배치할때까지 거절하기</VisitorsArrivedRefuseUntilBeds>
   <VisitorsArrivedReasonNoBeds>방문객 침대 없음</VisitorsArrivedReasonNoBeds>
   <LetterLabelDownedPawnBecameGuest>방문객이 된 {PAWN_labelShort}</LetterLabelDownedPawnBecameGuest>
@@ -48,7 +48,7 @@
   <GuestsAlreadyComing>방문하는 중이며 {0} 후에 도착함</GuestsAlreadyComing>
   <GuestsOnTheirWay>대표단을 보냈으며 {0} 후에 도착할 예정입니다.</GuestsOnTheirWay>
   <AreaToStay>허가구역</AreaToStay>
-  <AreaToBuy>쇼핑 지역</AreaToBuy>
+  <AreaToBuy>쇼핑구역</AreaToBuy>
   <AreaNoShopping>쇼핑 없음</AreaNoShopping>
   <AreaToStayTooltip>방문객이 머물면서 지내고 잠을 잘 수 있는 구역입니다.</AreaToStayTooltip>
   <AreaToBuyTooltip>숙박 지역 내에 있어야 하며 방문객들이 물품을 구매할 수 있는 구역입니다.</AreaToBuyTooltip>
@@ -60,7 +60,7 @@
   <LeaveAlone>내버려두기</LeaveAlone>
   <FactionGoodwill>세력 우호도</FactionGoodwill>
   <Hospitality>접객</Hospitality>
-  <MakeDefault>기본값 설정</MakeDefault>
+  <MakeDefault>기본값 만들기</MakeDefault>
   <SendAway>돌려보내기...</SendAway>
   <SendAwayQuestion>{FACTION_name}의 방문객들을 내보내시겠습니까?\n만약 나타난 직후에 돌려보낸다면, 관계에는 아무런 영향이 없습니다.</SendAwayQuestion>
   <Recruit>포섭...</Recruit>
@@ -76,11 +76,11 @@
   <OnlyJoinsByForce>[PAWN_nameDef](은)는 강제로만 합류합니다.</OnlyJoinsByForce>
   <CanNeverRecruit>[PAWN_nameDef](을)를 포섭할 수 없습니다.</CanNeverRecruit>
   <IsATrader>[PAWN_nameDef](은)는 방문객이 아니라 행상인입니다.</IsATrader>
-  <ImproveTooltip>접대객들이 방문객들의 기분이 좋아지도록 노력을 합니다. 능력이 높을수록 효과적 입니다. 능력이 낮다면 방문객을 화나게 할 수도 있습니다.</ImproveTooltip>
-  <TryRecruitTooltip>접대객들이 방문객과 정착민들을 친구로 만들려고 노력합니다. 능력이 높을수록 효과적 입니다. 능력이 낮다면 방문객을 화나게 할 수도 있습니다. 친구 수가 충분하다면 정착지에 합류할 수 있습니다.</TryRecruitTooltip>
-  <RecruitTooltip>방문객은 충분한 친구들이 있으며 지금 포섭할 수 있습니다. 그러나 포섭을 하게 되면 해당 세력과 우호도가 낮아집니다.</RecruitTooltip>
+  <ImproveTooltip>접객원들이 방문객들의 기분이 좋아지도록 노력을 합니다. 능력이 높을수록 효과적입니다. 능력이 낮다면 방문객을 화나게 할 수도 있습니다.</ImproveTooltip>
+  <TryRecruitTooltip>접객원들이 방문객과 정착민들을 친구로 만들려고 노력합니다. 능력이 높을수록 효과적입니다. 능력이 낮다면 방문객을 화나게 할 수도 있습니다. 친구 수가 충분하다면 정착지에 합류할 수 있습니다.</TryRecruitTooltip>
+  <RecruitTooltip>방문객은 충분한 친구들이 있으며 지금 포섭할 수 있으나, 포섭하게 되면 해당 세력과 관계도가 낮아집니다.</RecruitTooltip>
   <MakeDefaultTooltip>현재 구역들과 접객 설정을 기본값으로 적용합니다.</MakeDefaultTooltip>
-  <ForceRecruitTooltip>방문객들을 설득하기 전에 강제로 합류하도록 만들 수 있습니다. 그러나 포섭을 하게 되면 해당 세력과 우호도가 크게 떨어집니다.</ForceRecruitTooltip>
+  <ForceRecruitTooltip>방문객들을 설득하기 전에 강제로 합류하도록 할 수 있으나, 포섭하게 되면 해당 세력과 관계도가 크게 떨어집니다.</ForceRecruitTooltip>
   <SendAwayTooltip>이 무리들을 집으로 다시 돌려보냅니다.</SendAwayTooltip>
   <BedsFilled>사용 중인 침대: {0}/{1}</BedsFilled>
   <MapSettings>지도 설정...</MapSettings>
@@ -134,6 +134,8 @@
   <EnableBuyNotificationDesc>방문객이 물품을 구매하면 메시지를 받습니다. 기록 - 메시지에서도 다시 확인할 수 있습니다.</EnableBuyNotificationDesc>
   <EnableRecruitNotification>충분한 친구 알림 활성</EnableRecruitNotification>
   <EnableRecruitNotificationDesc>충분한 친구들이 생긴 방문객을 포섭할 수 있을 때 메시지를 받습니다.</EnableRecruitNotificationDesc>
+  <DisableFriendlyGearDrops>아군 소지품 떨어뜨리기 없음</DisableFriendlyGearDrops>
+  <DisableFriendlyGearDropsDesc>아군 폰이 쓰러질 때, 더는 소지품목을 떨어뜨리지 않습니다.</DisableFriendlyGearDropsDesc>
   <UseIcon>방문객 창 기호 표시</UseIcon>
-  <UseIconDesc>방문객 창에 문자열 대신 기호 표시</UseIconDesc>
+  <UseIconDesc>방문객 창에 문자열 대신 기호로 표시합니다.</UseIconDesc>
 </LanguageData>

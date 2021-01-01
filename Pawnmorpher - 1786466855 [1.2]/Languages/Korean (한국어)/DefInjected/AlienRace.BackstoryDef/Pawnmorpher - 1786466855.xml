@@ -3,26 +3,26 @@
   <FormerHumanNormal.title>변이된 인간</FormerHumanNormal.title>
   <FormerHumanNormal.titleShort>변이된 인간</FormerHumanNormal.titleShort>
   <FormerHumanNormal.baseDescription>식민지는 [PAWN_nameDef](을)를 뮤토나이트를 이용해 동물로 변이시켰습니다. 다행히도(혹은 불행이거나?), [PAWN_pronoun]는 [PAWN_possessive]스스로 인간의 마음을 기억하고 있습니다...하지만 얼마나 갈까요? 이 상태에서 [PAWN_nameDef](은)는 징집할 수 있고, 제한된 사회적 상호작용 또한 할 수 있지만 본능이 슬금슬금 들어오는 것을 막기 위해 행복도를 유지할 필요가 있을 것입니다.</FormerHumanNormal.baseDescription>
-  <FormerHumanNormalNoHauling.title>인간이었던 것</FormerHumanNormalNoHauling.title>
-  <FormerHumanNormalNoHauling.titleShort>인간이었던 것</FormerHumanNormalNoHauling.titleShort>
+  <FormerHumanNormalNoHauling.title>변이된 인간</FormerHumanNormalNoHauling.title>
+  <FormerHumanNormalNoHauling.titleShort>변이된 인간</FormerHumanNormalNoHauling.titleShort>
   <FormerHumanNormalNoHauling.baseDescription>식민지는 [PAWN_nameDef](을)를 뮤토나이트를 이용해 동물로 변이시켰습니다. 다행히도(혹은 불행이거나?), [PAWN_pronoun]는 [PAWN_possessive]스스로 인간의 마음을 기억하고 있습니다...하지만 얼마나 갈까요? 이 상태에서 [PAWN_nameDef](은)는 징집할 수 있고, 제한된 사회적 상호작용 또한 할 수 있지만 본능이 슬금슬금 들어오는 것을 막기 위해 행복도를 유지할 필요가 있을 것입니다.</FormerHumanNormalNoHauling.baseDescription>
   <FormerHumanChaomorph.title>변이된 인간</FormerHumanChaomorph.title>
   <FormerHumanChaomorph.titleShort>변이된 인간</FormerHumanChaomorph.titleShort>
   <FormerHumanChaomorph.baseDescription>식민지는 [PAWN_nameDef](을)를 위험한 키메라로 변이시켰습니다. 다행히도(혹은 불행이거나?), [PAWN_pronoun]는 [PAWN_possessive]스스로 인간의 마음을 기억하고 있습니다...하지만 얼마나 갈까요? 이 상태에서 [PAWN_nameDef](은)는 징집할 수 있고, 제한된 사회적 상호작용 또한 할 수 있지만 본능이 슬금슬금 들어오는 것을 막기 위해 행복도를 유지할 필요가 있을 것입니다.</FormerHumanChaomorph.baseDescription>
-  <FormerHumanChaoboar.title>인간이었던 것</FormerHumanChaoboar.title>
-  <FormerHumanChaoboar.titleShort>인간이었던 것</FormerHumanChaoboar.titleShort>
+  <FormerHumanChaoboar.title>변이된 인간</FormerHumanChaoboar.title>
+  <FormerHumanChaoboar.titleShort>변이된 인간</FormerHumanChaoboar.titleShort>
   <FormerHumanChaoboar.baseDescription>식민지는 [PAWN_nameDef](을)를 위험한 키메라로 변이시켰습니다. 다행히도(혹은 불행이거나?), [PAWN_pronoun]는 [PAWN_possessive]스스로 인간의 마음을 기억하고 있습니다...하지만 얼마나 갈까요? 이 상태에서 [PAWN_nameDef](은)는 징집할 수 있고, 제한된 사회적 상호작용 또한 할 수 있지만 본능이 슬금슬금 들어오는 것을 막기 위해 행복도를 유지할 필요가 있을 것입니다.</FormerHumanChaoboar.baseDescription>
-  <FormerHumanCrafter.title>인간이었던 것</FormerHumanCrafter.title>
-  <FormerHumanCrafter.titleShort>인간이었던 것</FormerHumanCrafter.titleShort>
+  <FormerHumanCrafter.title>변이된 인간</FormerHumanCrafter.title>
+  <FormerHumanCrafter.titleShort>변이된 인간</FormerHumanCrafter.titleShort>
   <FormerHumanCrafter.baseDescription>식민지는 [PAWN_nameDef](을)를 뮤토나이트를 이용해 동물로 변이시켰습니다. 다행히도(혹은 불행이거나?), [PAWN_pronoun]는 [PAWN_possessive]스스로 인간의 마음을 기억하고 있습니다...하지만 얼마나 갈까요? 이 상태에서 [PAWN_nameDef](은)는 징집할 수 있고, 제한된 사회적 상호작용 또한 할 수 있지만 본능이 슬금슬금 들어오는 것을 막기 위해 행복도를 유지할 필요가 있을 것입니다.</FormerHumanCrafter.baseDescription>
-  <PM_FormerHumanPlantWorker.title>인간이었던 것</PM_FormerHumanPlantWorker.title>
-  <PM_FormerHumanPlantWorker.titleShort>인간이었던 것</PM_FormerHumanPlantWorker.titleShort>
+  <PM_FormerHumanPlantWorker.title>변이된 인간</PM_FormerHumanPlantWorker.title>
+  <PM_FormerHumanPlantWorker.titleShort>변이된 인간</PM_FormerHumanPlantWorker.titleShort>
   <PM_FormerHumanPlantWorker.baseDescription>한 정착지가 변형질 메카나이트를 사용해 [PAWN_nameDef](을)를 동물로 변이 시켰습니다. (불/다)행스럽게도, [PAWN_pronoun]는 [PAWN_possessive] 인간 정신을 가지고 있습니다만... 얼마나 갈 수 있을까요? 이 상태에서 [PAWN_nameDef](은)는 징집할 수 있고, 재배를 할 수 있으며, 강인한 힘 덕분에 벌목을 할수 있습니다. 또한 제한된 상호작용 또한 할 수 있고, 본능이 슬금슬금 들어오는 것을 막기 위해 행복도를 유지 할 필요가 있을 것 입니다.</PM_FormerHumanPlantWorker.baseDescription>
-  <PM_FormerHumanMiner.title>인간이었던 것</PM_FormerHumanMiner.title>
-  <PM_FormerHumanMiner.titleShort>인간이었던 것</PM_FormerHumanMiner.titleShort>
+  <PM_FormerHumanMiner.title>변이된 인간</PM_FormerHumanMiner.title>
+  <PM_FormerHumanMiner.titleShort>변이된 인간</PM_FormerHumanMiner.titleShort>
   <PM_FormerHumanMiner.baseDescription>한 정착지가 변형질 메카나이트를 사용해 [PAWN_nameDef](을)를 동물로 변이 시켰습니다. (불/다)행스럽게도, [PAWN_pronoun] 는 [PAWN_possessive] 인간 정신을 가지고 있습니다만... 얼마나 갈 수 있을까요? 이 상태에서 [PAWN_nameDef](은)는 징집할 수 있고, 새로운 신체 부위 덕분에 채굴 작업을 할 수 있습니다. 또한 제한된 상호작용 또한 할 수 있고, 본능이 슬금슬금 들어오는 것을 막기 위해 행복도를 유지 할 필요가 있을 것 입니다.</PM_FormerHumanMiner.baseDescription>
-  <PM_FormerHumanSkilled.title>인간이었던 것</PM_FormerHumanSkilled.title>
-  <PM_FormerHumanSkilled.titleShort>인간이었던 것</PM_FormerHumanSkilled.titleShort>
+  <PM_FormerHumanSkilled.title>변이된 인간</PM_FormerHumanSkilled.title>
+  <PM_FormerHumanSkilled.titleShort>변이된 인간</PM_FormerHumanSkilled.titleShort>
   <PM_FormerHumanSkilled.baseDescription>한 정착지가 변형질 메카나이트를 사용해 [PAWN_nameDef](을)를 동물로 변이 시켰습니다. (불/다)행스럽게도, [PAWN_pronoun]는 [PAWN_possessive] 인간 정신을 가지고 있습니다만... 얼마나 갈 수 있을까요? 이 상태에서 [PAWN_nameDef](은)는 징집할 수 있고, 제한된 상호작용 또한 할 수 있습니다. 또한 타고난 근력과 유연한 손 덕분에 대부분의 작업을 할 수 있습니다. [PAWN_nameDef]의 본능이 슬금슬금 들어오는 것을 막기 위해 행복도를 유지 할 필요가 있을 것 입니다.</PM_FormerHumanSkilled.baseDescription>
   <ExposureVictim.title>노출 피해자</ExposureVictim.title>
   <ExposureVictim.titleShort>노출됨</ExposureVictim.titleShort>

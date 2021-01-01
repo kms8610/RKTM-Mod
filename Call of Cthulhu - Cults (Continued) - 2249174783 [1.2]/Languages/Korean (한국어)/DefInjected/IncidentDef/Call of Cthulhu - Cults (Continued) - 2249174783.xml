@@ -122,15 +122,15 @@
   <Cults_SpellPilgrimageToKadath.description>[Game Ending Spell]\n꿈의 세계에서 니알라토텝과 계약하시겠습니까?</Cults_SpellPilgrimageToKadath.description>
   <Cults_SpellPilgrimageToKadath.letterLabel>그의 많은 보자들 중 하나를 달라고 요청하십시오.</Cults_SpellPilgrimageToKadath.letterLabel>
   <Cults_SpellPilgrimageToKadath.letterText>긴 길의 시작에서 낯선 사람을 앞에두고 손짓합니다.</Cults_SpellPilgrimageToKadath.letterText>
-  <Cults_SpellTheKingInYellow.label>노란옷의 왕, Act I</Cults_SpellTheKingInYellow.label>
-  <Cults_SpellTheKingInYellow.description>악명 높은 연극인, "노란옷의 왕"을 재현하십시오. 내용에 빠진 사람들은 즉시 숭배하기 시작할 것입니다.</Cults_SpellTheKingInYellow.description>
+  <Cults_SpellTheKingInYellow.label>황색의 왕, Act I</Cults_SpellTheKingInYellow.label>
+  <Cults_SpellTheKingInYellow.description>악명 높은 연극인, "황색의 왕"을 재현하십시오. 내용에 빠진 사람들은 즉시 숭배하기 시작할 것입니다.</Cults_SpellTheKingInYellow.description>
   <Cults_SpellTheKingInYellow.letterLabel>그리고 가면을 쓰지 않은 방문객과 뒤따라 오는 자들에게 운명의 이야기를 속삭이도록 간청하세요.</Cults_SpellTheKingInYellow.letterLabel>
   <Cults_SpellTheKingInYellow.letterText>열정적으로 미소짓습니다. 이번 연극이 어떻게 끝나는 지는 알 수도, 기다릴 수도 없습니다.</Cults_SpellTheKingInYellow.letterText>
   <Cults_SpellSummonByakhee.label>비야키 소환</Cults_SpellSummonByakhee.label>
   <Cults_SpellSummonByakhee.description>방어와 수송을 위한 비야키를 소환하세요.</Cults_SpellSummonByakhee.description>
   <Cults_SpellSummonByakhee.letterLabel>그가 원한다면 자신의 별의 끔찍한 말 중 하나를 보내줄 것입니다.</Cults_SpellSummonByakhee.letterLabel>
   <Cults_SpellSummonByakhee.letterText>소름끼치는 비명 소리와 거친 날개 소리가 들립니다.</Cults_SpellSummonByakhee.letterText>
-  <Cults_SpellVisionsOfCarcosa.label>노란옷의 왕, Act II</Cults_SpellVisionsOfCarcosa.label>
+  <Cults_SpellVisionsOfCarcosa.label>황색의 왕, Act II</Cults_SpellVisionsOfCarcosa.label>
   <Cults_SpellVisionsOfCarcosa.description>정착민 중 일부는 꿈속에서 잃어버린 도시인 카르코사를 5-6시간 방문한 뒤 꿈에서 깰 것입니다.</Cults_SpellVisionsOfCarcosa.description>
   <Cults_SpellVisionsOfCarcosa.letterLabel>멀리 떨어진 카르코사의 몽롱한 첨탑의 난간에서 그는 소원을 빌었습니다.</Cults_SpellVisionsOfCarcosa.letterLabel>
   <Cults_SpellVisionsOfCarcosa.letterText>그들은 하이데가 멀리 떨어진 카르코사의 검은 별 아래의 앉아서 자신들을 끌어당기기 위해 수면의 덩굴손을 뻗는 것을 느꼈습니다.</Cults_SpellVisionsOfCarcosa.letterText>
@@ -172,7 +172,7 @@
   <Cults_SpellFlashstorm.letterText>섬광 폭풍이 이곳을 덮칩니다.</Cults_SpellFlashstorm.letterText>
   <Cults_SpellEcstaticFrenzy.label>황홀한 광란</Cults_SpellEcstaticFrenzy.label>
   <Cults_SpellEcstaticFrenzy.letterText>그들의 열렬한 의식을 통해, 당신의 이교도들은 동물처럼 야생화되어 서로 싸우게 되었습니다.</Cults_SpellEcstaticFrenzy.letterText>
-  <Cults_SpellStarVampireVisit.label>소환 별을 빨아먹는 흡혈귀</Cults_SpellStarVampireVisit.label>
+  <Cults_SpellStarVampireVisit.label>별을 빨아먹는 흡혈귀 소환</Cults_SpellStarVampireVisit.label>
   <Cults_SpellStarVampireVisit.letterText>별을 빨아먹는 흡혈귀가 우리의 현실의 베일을 꿰뚫습니다.</Cults_SpellStarVampireVisit.letterText>
   <Cults_SpellBlight.label>마름병</Cults_SpellBlight.label>
   <Cults_SpellBlight.letterLabel>마름병</Cults_SpellBlight.letterLabel>

@@ -92,6 +92,7 @@
   <AA_CinderSilkDesc>신더비단 생산</AA_CinderSilkDesc>
   <AA_MothSilkDesc>나방 가닥 생산</AA_MothSilkDesc>
   <AA_BlueGel>푸른젤 생산</AA_BlueGel>
+  <allowVanillaAnimals>바닐라 동물 생성 허용 (야생 동물 스폰 설정)</allowVanillaAnimals>
   <allowBlackHive>검은 둥지 습격 허용</allowBlackHive>
   <allowStalkingLions>극지사자 사냥개시 허용</allowStalkingLions>
   <allowCactipineDroppods>선인장뿔쥐 낙하기 사건 허용</allowCactipineDroppods>

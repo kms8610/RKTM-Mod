@@ -19,7 +19,7 @@
   <GuestDiplomacy.logRulesInitiator.rulesStrings.15>complimented->갈채를 보냄</GuestDiplomacy.logRulesInitiator.rulesStrings.15>
   <GuestDiplomacy.logRulesInitiator.rulesStrings.16>complimented->축하함</GuestDiplomacy.logRulesInitiator.rulesStrings.16>
   <CharmGuestAttempt.label>매혹 시도</CharmGuestAttempt.label>
-  <CharmGuestAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef] [saidwords].</CharmGuestAttempt.logRulesInitiator.rulesStrings.0>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef][saidwords].</CharmGuestAttempt.logRulesInitiator.rulesStrings.0>
   <CharmGuestAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](와)과 [INITIATOR_factionName]의 [ConceptPositive]에 대해 이야기 함.</CharmGuestAttempt.logRulesInitiator.rulesStrings.1>
   <CharmGuestAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 다른 정착민에 대해 [adjwords] 말을 건냄.</CharmGuestAttempt.logRulesInitiator.rulesStrings.2>
   <CharmGuestAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](을)를 다른 정착민에게 소개함.</CharmGuestAttempt.logRulesInitiator.rulesStrings.3>

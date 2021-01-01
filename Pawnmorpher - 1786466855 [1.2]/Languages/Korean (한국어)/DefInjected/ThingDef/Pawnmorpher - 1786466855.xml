@@ -72,7 +72,7 @@
   <ChaofusionRhino.tools.5.label>트럼보 뿔</ChaofusionRhino.tools.5.label>
   <ChaofusionRhino.race.meatLabel>혼돈육</ChaofusionRhino.race.meatLabel>
   <MechSerumMutagenicHealer.label>변이혈청, 치료용 메카나이트</MechSerumMutagenicHealer.label>
-  <MechSerumMutagenicHealer.description>재프로그래밍된 뮤토나이트 물질로 만든 치료용 메카나이트 혈청의 소형 버전입니다. 메카나이트들은 주어진 시간안에 대상에게 영향을 끼칠수도 있는 최악의 건강 상태를 목표로 하고 치료해 낼 것입니다. 심지어 잃어버린 조직들과 팔다리를 재건하는 것을 포함하여, 불치병인 건강 상태에서도 효과가 있습니다. 메카나이트들 중 일부는 체내에 잔재된 돌연변이체에 프로그래밍이 되어 있기 때문에 사용자의 체내에 어떤 항 돌연변이 작용이 있더라도 불구하고 복원된 신체부위가 돌연변이로 끝날 위험이 높습니다.</MechSerumMutagenicHealer.description>
+  <MechSerumMutagenicHealer.description>재구성된 변형 유인체 메카나이트로 만든 소형 버전의 회복혈청입니다. 메카나이트는 신체부위중 가장 훼손된 부분을 찾아 회복시킵니다. 절단된 신체부위처럼 일반적인 방법으로 치료가 불가능한 부상도 회복됩니다. \n\n변형 유인체 재구성 중 미처 재구성 되지 않은 메카나이트가 남아있어, 복구된 신체부위가 변이될 확률이 높습니다. 이 변이는 체내의 항변이 효과를 무시합니다.</MechSerumMutagenicHealer.description>
   <MechSerumMutagenicHealer.comps.0.useLabel>변형 유인 회복혈청 투여</MechSerumMutagenicHealer.comps.0.useLabel>
   <MechSerumResurrectorTf.label>변이혈청, 회귀용 메카나이트</MechSerumResurrectorTf.label>
   <MechSerumResurrectorTf.description>죽음은 중요하지 않습니다.</MechSerumResurrectorTf.description>
@@ -119,6 +119,14 @@
   <Shell_TF.label>변형유인 포탄</Shell_TF.label>
   <Shell_TF.description>충돌시 DNA와 메카나이트가 혼합된 안개를 만드는 포탄입니다. 이 안개 안에서는 그 어떤 유기체도 변형될 수 있습니다. 박격포에서 발사하거나, 함정으로 설치할 수 있습니다. 손상시 폭발을 일으킵니다.</Shell_TF.description>
   <Bullet_Shell_TF.label>변형 유인체 포탄</Bullet_Shell_TF.label>
+  <Shell_GasTF.label>변형 유인 기체 포탄</Shell_GasTF.label>
+  <Shell_GasTF.description>분무처리된 혼합물이 들어있는 포탄입니다. 박격포에서 발사 가능합니다.</Shell_GasTF.description>
+  <Bullet_Shell_GasMutagenic.label>기체 변형물질 포탄</Bullet_Shell_GasMutagenic.label>
+  <EtherMutagenicGas.label>변형 유인 기체</EtherMutagenicGas.label>
+  <GasTrapMutagenic.label>가스 함정 (변형 유인체)</GasTrapMutagenic.label>
+  <GasTrapMutagenic.description>이 함정은 운없는 희생양이 근접했을때 변형 유인 기체를 뿜어 냅니다. 분무된 메카나이트를 흡입하게 된 희생양은 인간으로는 오래 남지 않을 것 입니다.</GasTrapMutagenic.description>
+  <MartenTransformer.label>변이주사기, 담비</MartenTransformer.label>
+  <MartenTransformer.description>메카나이트와 담비의유전자로 차있는 주사기 입니다. 메카나이트를 방치했을 경우 사용자를 변신 시킬 수 있으니 사용에 주의 바랍니다.</MartenTransformer.description>
   <GenekitColorPicker.label>피부 재착색 유전키트</GenekitColorPicker.label>
   <GenekitColorPicker.description>피부 재착색 유전키트는 몇몇 번화계의 파티광들이 정말 좋아하는 물건입니다. 간단하게 버튼을 누르는것 만으로도 사람의 피부와 머리색의 유전정보를 거의 즉시, 영구적으로 바꿀 수 있습니다. 또 다른 키트를 이용해서 변화를 되돌리거나 새로운 색상을 고를 수도 있습니다.</GenekitColorPicker.description>
   <GenekitColorPicker.comps.0.useLabel>키트를 사용</GenekitColorPicker.comps.0.useLabel>
@@ -151,7 +159,7 @@
   <MutagenAccelerator.ingestible.ingestCommandString>{0} 복용</MutagenAccelerator.ingestible.ingestCommandString>
   <MutagenAccelerator.ingestible.ingestReportString>{0} 복용 중.</MutagenAccelerator.ingestible.ingestReportString>
   <MutagenAccelerator.label>변이알약, 가속제</MutagenAccelerator.label>
-  <MutagenAccelerator.description>이 알약은 체내의 활성화된 메카나이트를 강화시켜, 5일동안 변이 속도를 크게 증가시킵니다. 또한 사용자의 전체변이 확률도 올라가게 됩니다. </MutagenAccelerator.description>
+  <MutagenAccelerator.description>이 알약은 체내의 활성화된 메카나이트를 강화시켜, 5일동안 변이 속도를 크게 증가시킵니다. 또한 사용자의 전체변이 확률도 올라가게 됩니다.</MutagenAccelerator.description>
   <ReversionSyringe.label>변이혈청, 회귀</ReversionSyringe.label>
   <ReversionSyringe.description>동물을 다시 인간으로 되돌릴 수 있으며, 인간형의 림에게서 모든 변이를 제거할 수 있습니다.</ReversionSyringe.description>
   <RandomTransformer.label>변이혈청</RandomTransformer.label>

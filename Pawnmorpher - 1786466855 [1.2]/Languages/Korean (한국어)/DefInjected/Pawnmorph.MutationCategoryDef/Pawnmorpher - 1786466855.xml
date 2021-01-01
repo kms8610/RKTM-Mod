@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Minor.label>사소함</Minor.label>
+  <Minor.label>가벼움</Minor.label>
   <Major.label>심각함</Major.label>
   <Extreme.label>극심함</Extreme.label>
   <Combat.label>전투</Combat.label>
