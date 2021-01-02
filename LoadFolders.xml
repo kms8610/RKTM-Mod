@@ -318,7 +318,6 @@
 	<li IfModActive="jamaicancastle.RF.fertilefields">Fertile Fields - 2012735237 [1.2]</li>
 	<li IfModActive="Xahkarias.EvolvedOrgansRedux">EvolvedOrgansRedux - 1978492655 [1.1]</li>
 	<li IfModActive="Harkon.GunNut.Chapter1">Gun Nut - Chapter #1 - 2208576613 [1.2]</li>
-	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700 [1.2]</li>
 	<li IfModActive="CETeam.CombatExtended">Combat Extended - 1631756268 [1.2]</li>
 	<li IfModActive="Rah.RBSE">Rah's Bionics and Surgery Expansion - 850429707 [1.2]</li>
 	<!-- 20.12.25 -->
@@ -342,6 +341,9 @@
 	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
 	<li IfModActive="OskarPotocki.VFE.Mechanoid">Vanilla Factions Expanded - Mechanoids - 2329011599 [1.2]</li>
 	<li IfModActive="spdskatr.projectrimfactory.legacy">Project RimFactory Revived - LEGACY - 2340838603 [1.2]</li>
+	<!-- 2021.01.02 -->
+	<li IfModActive="zymex.prf.lite">Project RimFactory Lite - 2325176756 [1.2]</li>
+	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700 [1.2]</li>
   </v1.2>
 
 </loadFolders>
