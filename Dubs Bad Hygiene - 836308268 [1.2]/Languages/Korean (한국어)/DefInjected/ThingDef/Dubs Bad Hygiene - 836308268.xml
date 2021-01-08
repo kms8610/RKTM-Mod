@@ -5,7 +5,7 @@
   <Mote_Irrigation.label>mote</Mote_Irrigation.label>
   <Mote_WashSteam.label>mote</Mote_WashSteam.label>
   <sewagePipeStuff.label>배관</sewagePipeStuff.label>
-  <sewagePipeStuff.description>상/하수를 운반할 수 있는 배관입니다.</sewagePipeStuff.description>
+  <sewagePipeStuff.description>관을 연결할 수 있는 배관입니다.</sewagePipeStuff.description>
   <plumbingValve.label>배관 밸브</plumbingValve.label>
   <plumbingValve.description>배관 개폐에 사용되는 밸브입니다.</plumbingValve.description>
   <airPipe.label>에어컨 배관</airPipe.label>

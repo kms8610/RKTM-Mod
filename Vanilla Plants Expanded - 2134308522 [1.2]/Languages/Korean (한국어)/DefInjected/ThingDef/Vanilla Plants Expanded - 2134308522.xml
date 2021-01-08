@@ -40,6 +40,8 @@
   <VCE_Grass.description>재배한 잔디입니다. 약간의 빛, 척박한 땅에도 상관없이 어디에서나 자랍니다.</VCE_Grass.description>
   <VCE_TallGrass.label>키 큰 잔디</VCE_TallGrass.label>
   <VCE_TallGrass.description>재배한 키 큰 잔디입니다. 약간의 빛, 척박한 땅에도 상관없이 어디에서나 자랍니다.\n이동속도가 느려집니다.</VCE_TallGrass.description>
+  <VCE_Agave.label>용설란</VCE_Agave.label>
+  <VCE_Agave.description>식용 줄기와 꽃이 자라며, 큰 잎이 달린 사막 식물입니다.</VCE_Agave.description>
   <VCE_Onion.label>양파</VCE_Onion.label>
   <VCE_Onion.description>톡 쏘는 고소한 맛과 냄새를 지녀, 다양하게 쓰이는 식용 재료입니다.\n병충해에 영향 받지 않습니다.</VCE_Onion.description>
   <VCE_Pumpkin.label>호박</VCE_Pumpkin.label>

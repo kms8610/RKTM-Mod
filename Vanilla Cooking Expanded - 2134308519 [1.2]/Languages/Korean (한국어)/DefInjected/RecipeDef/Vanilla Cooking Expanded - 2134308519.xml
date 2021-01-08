@@ -19,20 +19,29 @@
   <VCE_CookBakeLavishBulk.description>맛이 예술적인 빵을 8개 굽습니다. 이 빵들은 몸과 마음, 영혼을 채워줍니다.</VCE_CookBakeLavishBulk.description>
   <VCE_CookBakeLavishBulk.jobString>호화로운 빵 8개 굽는 중.</VCE_CookBakeLavishBulk.jobString>
   <VCE_CookBakeGourmet.label>미식적인 빵 요리 x2</VCE_CookBakeGourmet.label>
-  <VCE_CookBakeGourmet.description>비록 적은 양이지만, 세련되고 정교한 준비로 미적 균형이 일품인 빵을 2개 굽습니다.</VCE_CookBakeGourmet.description>
+  <VCE_CookBakeGourmet.description>비록 적은 양이지만, 세련되고 정교한 준비로 미적 균형이 일품인 빵을 2개 굽습니다.\n\n이 요리법은 재료를 혼합하여 사용하지 않습니다.</VCE_CookBakeGourmet.description>
   <VCE_CookBakeGourmet.jobString>호화로운 빵 2개 굽는 중.</VCE_CookBakeGourmet.jobString>
   <VCE_CanMeats.label>고기 통조림 20개 가공</VCE_CanMeats.label>
   <VCE_CanMeats.description>고기 덩어리를 강철 통에 안전하게 보관하세요.\n통조림 식품의 저장기간은 거의 무한정입니다.</VCE_CanMeats.description>
   <VCE_CanMeats.jobString>고기 통조림 가공 중.</VCE_CanMeats.jobString>
-  <VCE_CanProduce.label>과채 통조림 가공 20개 가공</VCE_CanProduce.label>
-  <VCE_CanProduce.description>과일이나 채소를 강철 통에 안전하게 보관합니다.\n통조림 식품의 저장기간은 거의 무한정입니다.</VCE_CanProduce.description>
-  <VCE_CanProduce.jobString>과채 통조림 가공 중.</VCE_CanProduce.jobString>
+  <VCE_CanProduce.label>야채 통조림 가공 20개 가공</VCE_CanProduce.label>
+  <VCE_CanProduce.description>야채를 강철 통에 안전하게 보관합니다. 통조림 식품의 저장기간은 거의 무한정입니다.</VCE_CanProduce.description>
+  <VCE_CanProduce.jobString>야채 통조림 가공 중.</VCE_CanProduce.jobString>
+  <VCE_CanFruit.label>과일 통조림 20개 가공</VCE_CanFruit.label>
+  <VCE_CanFruit.description>과일을 철제 통에 안전하게 보관합니다. 통조림 음식은 거의 무한정 보관할 수 있습니다.\n\n보존된 과일 통조림은 후식 요리에 사용될 수 있습니다.</VCE_CanFruit.description>
+  <VCE_CanFruit.jobString>야채 통조림 가공 중.</VCE_CanFruit.jobString>
   <VCE_CanEggs.label>달걀 통조림 20개 가공</VCE_CanEggs.label>
   <VCE_CanEggs.description>삶은 달걀을 강철 통에 안전하게 보관하세요.\n통조림 식품의 저장기간은 거의 무한정입니다.</VCE_CanEggs.description>
   <VCE_CanEggs.jobString>달걀 통조림 가공 중.</VCE_CanEggs.jobString>
   <VCE_ChopCondiments.label>조미료로 사료 만들기</VCE_ChopCondiments.label>
   <VCE_ChopCondiments.description>안쓰는 조미료들을 사료로 섞습니다. 그래도 슈퍼마켓의 애완동물 사료보다는 낫습니다.</VCE_ChopCondiments.description>
   <VCE_ChopCondiments.jobString>조미료로 사료 만드는 중.</VCE_ChopCondiments.jobString>
+  <VCE_MakeSalt.label>소금 만들기</VCE_MakeSalt.label>
+  <VCE_MakeSalt.description>먹을 수 있는 소금을 추출하기 위해 암석 덩어리를 잘게 갈아, 가공합니다.\n\n 조리 스킬을 사용합니다.</VCE_MakeSalt.description>
+  <VCE_MakeSalt.jobString>소금 만드는 중.</VCE_MakeSalt.jobString>
+  <VCE_MakeSaltfromBlocks.label>소금 채취하기</VCE_MakeSaltfromBlocks.label>
+  <VCE_MakeSaltfromBlocks.description>먹을 수 있는 소금을 추출하기 위해 석재 덩어리를 잘게 갈아, 가공합니다.\n\n 조리 스킬을 사용합니다.</VCE_MakeSaltfromBlocks.description>
+  <VCE_MakeSaltfromBlocks.jobString>소금 채취 중.</VCE_MakeSaltfromBlocks.jobString>
   <VCE_AgaveNectar.label>용설란 시럽 만들기</VCE_AgaveNectar.label>
   <VCE_AgaveNectar.description>용설란으로 시럽을 만듭니다.\n용설란 꿀은 치유력과 항염증 작용으로 잘 알려진, 부드럽고 어느정도 달콤한 꿀입니다.</VCE_AgaveNectar.description>
   <VCE_AgaveNectar.jobString>용설란 시럽 만드는 중.</VCE_AgaveNectar.jobString>
@@ -55,13 +64,13 @@
   <VCE_CookDessertSimpleBulk.description>몇 가지 과일과 다른 재료로 만든 간단한 후식을 4개 요리합니다.</VCE_CookDessertSimpleBulk.description>
   <VCE_CookDessertSimpleBulk.jobString>간단한 후식 4개 요리 중.</VCE_CookDessertSimpleBulk.jobString>
   <VCE_CookDessertFine.label>좋은 후식 요리</VCE_CookDessertFine.label>
-  <VCE_CookDessertFine.description>다양한 재료로 정성스럽게 만든 좋은 후식을 요리합니다.</VCE_CookDessertFine.description>
+  <VCE_CookDessertFine.description>다양한 재료들로 구성된 좋은 후식을 신중하게 요리합니다.\n\n초콜릿은 단위당 0.10의 열량을 가지고 있기 때문에, 초콜릿 중 일부는 이 조리법을 요리하는 동안 낭비될 것입니다. 재료 낭비를 방지하기 위해 대량으로 요리하는 것을 다시 한번 고려해보세요.</VCE_CookDessertFine.description>
   <VCE_CookDessertFine.jobString>좋은 후식 요리 중.</VCE_CookDessertFine.jobString>
   <VCE_CookDessertFineBulk.label>좋은 후식 4개 요리</VCE_CookDessertFineBulk.label>
   <VCE_CookDessertFineBulk.description>다양한 재료로 정성스럽게 만든 좋은 후식을 4개 요리합니다.</VCE_CookDessertFineBulk.description>
   <VCE_CookDessertFineBulk.jobString>좋은 후식 4개 요리 중.</VCE_CookDessertFineBulk.jobString>
   <VCE_CookDessertLavish.label>호화로운 후식 요리</VCE_CookDessertLavish.label>
-  <VCE_CookDessertLavish.description>맛이 예술적인 후식을 요리합니다. 이 후식은 몸과 마음, 영혼을 채워줍니다.</VCE_CookDessertLavish.description>
+  <VCE_CookDessertLavish.description>요리 예술의 걸작인 이 호화로운 후식은 몸과 마음, 영혼에 영양을 공급해 줍니다.\n\n초콜릿은 단위당 0.10의 열량을 가지고 있기 때문에, 초콜릿 중 일부는 이 조리법을 요리하는 동안 낭비될 것입니다. 재료 낭비를 방지하기 위해 대량으로 요리하는 것을 다시 한번 고려해보세요.</VCE_CookDessertLavish.description>
   <VCE_CookDessertLavish.jobString>호화로운 후식 요리 중.</VCE_CookDessertLavish.jobString>
   <VCE_CookDessertLavishBulk.label>호화로운 후식 4개 요리</VCE_CookDessertLavishBulk.label>
   <VCE_CookDessertLavishBulk.description>맛이 예술적인 후식을 4개 요리합니다. 이 후식은 몸과 마음, 영혼을 채워줍니다.</VCE_CookDessertLavishBulk.description>
@@ -109,7 +118,7 @@
   <VCE_CookSoupLavish.description>끓이지 않은 호화로운 수프를 준비합니다. 맛이 예술적인 이 스프는 몸과 마음, 영혼을 채워줍니다.</VCE_CookSoupLavish.description>
   <VCE_CookSoupLavish.jobString>호화로운 수프 준비 중.</VCE_CookSoupLavish.jobString>
   <VCE_CookSoupGourmet.label>미식적인 수프 준비</VCE_CookSoupGourmet.label>
-  <VCE_CookSoupGourmet.description>비록 적은 양이지만, 세련되고 정교한 준비로 미적 균형이 일품인 끓이지 않은 수프를 준비합니다.</VCE_CookSoupGourmet.description>
+  <VCE_CookSoupGourmet.description>비록 적은 양이지만, 세련되고 정교한 준비로 미적 균형이 일품인 끓이지 않은 수프를 준비합니다.\n\n이 요리법은 재료를 혼합하여 사용하지 않아, 만드는 데 오랜 시간이 걸립니다.</VCE_CookSoupGourmet.description>
   <VCE_CookSoupGourmet.jobString>미식적인 수프 준비 중.</VCE_CookSoupGourmet.jobString>
   <VCE_DeepFryAlienFish.label>외계 생선 20개 튀기기</VCE_DeepFryAlienFish.label>
   <VCE_DeepFryAlienFish.description>외계 생선 튀김입니다.\n튀긴 음식은 매우 맛있지만, 건강에는 좋지 않습니다.</VCE_DeepFryAlienFish.description>

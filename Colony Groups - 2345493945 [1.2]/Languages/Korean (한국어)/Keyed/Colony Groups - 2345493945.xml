@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TG.GroupInfoTooltip>{0}\n왼클릭: 정착민 아이콘 확장\n왼클릭 x2: 모든 정착민 선택\n우클릭: 그룹 메뉴</TG.GroupInfoTooltip>
+  <TG.Rally>소집</TG.Rally>
+  <TG.Work>작업</TG.Work>
+  <TG.Orders>명령</TG.Orders>
+  <TG.Manage>관리</TG.Manage>
+  <TG.Group>그룹</TG.Group>
+  <TG.Colony>정착지</TG.Colony>
+  <TG.Caravan>상단</TG.Caravan>
+  <TG.Diplomacy>외교</TG.Diplomacy>
+  <TG.GetToWork>일을 함</TG.GetToWork>
+  <TG.TakeABreak>휴식을 가짐</TG.TakeABreak>
+  <TG.ChowHall>식사시간</TG.ChowHall>
+  <TG.SocialRelax>사교적 휴식</TG.SocialRelax>
+  <TG.HaveSomeFun>재미 추구</TG.HaveSomeFun>
+  <TG.Clean>청소</TG.Clean>
+  <TG.Haul>운반</TG.Haul>
+  <TG.VisitMedical>병원 방문</TG.VisitMedical>
+  <TG.Rename>이름 변경</TG.Rename>
+  <TG.Icon>아이콘</TG.Icon>
+  <TG.SortGroup>그룹 정렬</TG.SortGroup>
+  <TG.Disband>해제</TG.Disband>
+  <TG.DisbandPawn>정착민</TG.DisbandPawn>
+  <TG.DisbandGroup>그룹</TG.DisbandGroup>
+  <TG.LookBusy>바빠 보임</TG.LookBusy>
+  <TG.ShowAllColonists>모든 정착민 보기</TG.ShowAllColonists>
+  <TG.DisplayFood>허기 표시</TG.DisplayFood>
+  <TG.DisplayRest>수면 표시</TG.DisplayRest>
+  <TG.DisplayHealth>건강 표시</TG.DisplayHealth>
+  <TG.DisplayWeapons>무기 표시</TG.DisplayWeapons>
+  <TG.DisplayColorBars>정착민 막대 표시</TG.DisplayColorBars>
+  <TG.HidePawnsWhenOffMap>지도상 정착민 숨기기</TG.HidePawnsWhenOffMap>
+  <TG.HideGroups>그룹 숨기기</TG.HideGroups>
+  <TG.Attack>공격</TG.Attack>
+  <TG.HideCreateGroupDesc>그룹 생성 설정은 정책 탭 / 모드 설정에서\n찾을 수 있습니다.</TG.HideCreateGroupDesc>
+  <TG.ColonistBarPositionY>정착민 막대 위치 (Y)</TG.ColonistBarPositionY>
+  <TG.GroupRowCount>그룹 행 개수</TG.GroupRowCount>
+  <TG.PawnScale>정착민 표시 크기</TG.PawnScale>
+  <TG.GroupScale>그룹 표시 크기</TG.GroupScale>
+  <TG.PawnNeedsSize>정착민 욕구 크기</TG.PawnNeedsSize>
+  <TG.TopMargin>정착민 막대 Y 위치</TG.TopMargin>
+  <TG.WeaponOverlayPlacement>무기 표시 위치</TG.WeaponOverlayPlacement>
+  <TG.WeaponOverlayInside>내부</TG.WeaponOverlayInside>
+  <TG.WeaponOverlayUnder>아래</TG.WeaponOverlayUnder>
+  <TG.DisableLabelBackground>이름 배경 비활성화 (성능 향상)</TG.DisableLabelBackground>
+  <TG.Regroup>집결</TG.Regroup>
+  <TG.BattleStations>전투 배치</TG.BattleStations>
+  <TG.Set>지정</TG.Set>
+  <TG.Clear>해제</TG.Clear>
+  <TG.Formation>진형</TG.Formation>
+  <TG.Medical>의료</TG.Medical>
+  <TG.FireAtWill>자유 사격</TG.FireAtWill>
+  <TG.Strongest>가장 강한 적</TG.Strongest>
+  <TG.Weakest>가장 약한 적</TG.Weakest>
+  <TG.PursueFleeing>도망치는 적</TG.PursueFleeing>
+  <TG.Management>관리</TG.Management>
+  <TG.Okay>기분</TG.Okay>
+  <TG.Sad>슬픔</TG.Sad>
+  <TG.Happy>행복함</TG.Happy>
+  <TG.ReportToMedical>의료팀에 보고</TG.ReportToMedical>
+  <TG.RescueFallen>구조자 쓰러짐</TG.RescueFallen>
+  <TG.TendWounded>부상자 간호</TG.TendWounded>
+  <TG.TakeFive>막간 휴식</TG.TakeFive>
+  <TG.CreateGroupTooltip>선택한 정착민들로 그룹 생성</TG.CreateGroupTooltip>
+  <TG.OptionsGearTooltip>설정 항목 열기</TG.OptionsGearTooltip>
+  <TG.LookBusyTooltip>모든 작업을 수행하도록 그룹에게 지시</TG.LookBusyTooltip>
+  <TG.WorkTaskTooltipConstruction>건설</TG.WorkTaskTooltipConstruction>
+  <TG.WorkTaskTooltipCraft>제작</TG.WorkTaskTooltipCraft>
+  <TG.WorkTaskTooltipHaul>운반</TG.WorkTaskTooltipHaul>
+  <TG.WorkTaskTooltipClean>청소</TG.WorkTaskTooltipClean>
+  <TG.WorkTaskTooltipHunt>사냥</TG.WorkTaskTooltipHunt>
+  <TG.WorkTaskTooltipCook>요리</TG.WorkTaskTooltipCook>
+  <TG.WorkTaskTooltipMine>채굴</TG.WorkTaskTooltipMine>
+  <TG.WorkTaskTooltipChopWood>벌목</TG.WorkTaskTooltipChopWood>
+  <TG.WorkTaskTooltipFarm>재배</TG.WorkTaskTooltipFarm>
+  <TG.WorkTaskTooltipClearSnow>눈 치우기</TG.WorkTaskTooltipClearSnow>
+  <TG.WorkTaskTooltipWarden>죄수 감독</TG.WorkTaskTooltipWarden>
+  <TG.WorkTaskTooltipArt>예술</TG.WorkTaskTooltipArt>
+  <TG.WorkTaskTooltipTailor>재봉</TG.WorkTaskTooltipTailor>
+  <TG.WorkTaskTooltipSmith>제련</TG.WorkTaskTooltipSmith>
+  <TG.WorkTaskTooltipHandle>조련</TG.WorkTaskTooltipHandle>
+  <TG.WorkTaskTooltipFireExtinguish>소방</TG.WorkTaskTooltipFireExtinguish>
+  <TG.WorkTaskTooltipResearch>연구</TG.WorkTaskTooltipResearch>
+  <TG.WorkTaskTooltipResearchMenu>연구 항목</TG.WorkTaskTooltipResearchMenu>
+  <TG.ForcedLaborTooltip>\n우클릭으로 우선순위 지정\n-우클릭 x2 = 노예처럼 일하게 함</TG.ForcedLaborTooltip>
+  <TG.TakeFiveTooltip>휴식을 가짐\n\n-그룹에게 휴식하라고 지시</TG.TakeFiveTooltip>
+  <TG.ChowHallToolTip>식사시간\n\n그룹에게 식사하라고 지시</TG.ChowHallToolTip>
+  <TG.SleepTooltip>소등\n\n그룹에게 잠을 자라고 지시</TG.SleepTooltip>
+  <TG.RallyToolTip>소집\n\n그룹을 선택 및 소집함</TG.RallyToolTip>
+  <TG.ShootersToolTip>그룹의 원거리병\n	-클릭하여 선택</TG.ShootersToolTip>
+  <TG.MeleeToolTip>그룹의 근접병\n	-클릭하여 선택</TG.MeleeToolTip>
+  <TG.ShowHideTooltip>그룹의 정착민을 상단 막대에서 보이기/숨기기 합니다</TG.ShowHideTooltip>
+  <TG.AddColonistTooltip>선택한 정착민을 그룹에 추가합니다</TG.AddColonistTooltip>
+  <TG.RegroupTooltip>분대장 주변으로 그룹을 집결시킵니다.\n분대장은 그룹의 첫번째 정착민입니다.</TG.RegroupTooltip>
+  <TG.BattleStationsTooltip>그룹을 전투위치로 보냅니다</TG.BattleStationsTooltip>
+  <TG.BattleStationsSetTooltip>전투위치 지정</TG.BattleStationsSetTooltip>
+  <TG.BattleStationsClearTooltip>전투위치 해제</TG.BattleStationsClearTooltip>
+  <TG.FireAtWillTooltip>기본 전투모드</TG.FireAtWillTooltip>
+  <TG.StrongestTooltip>가장 강한 적을 목표</TG.StrongestTooltip>
+  <TG.WeakestTooltip>가장 약한 적을 목표</TG.WeakestTooltip>
+  <TG.PursueFleeingTooltip>도망치는 적을 목표</TG.PursueFleeingTooltip>
+  <TG.ReportToMedicalTooltip>완전히 나을 때까지 휴식</TG.ReportToMedicalTooltip>
+  <TG.RescueDownedTooltip>쓰러진 정착민 구조</TG.RescueDownedTooltip>
+  <TG.TendWoundedTooltip>부상당한 정착민 간호</TG.TendWoundedTooltip>
+  <TG.ArmorTooltip>그룹의 평균 방어력 등급</TG.ArmorTooltip>
+  <TG.DPSTooltip>그룹 평균 DPS</TG.DPSTooltip>
+  <TG.MiddlePawnCountToolTip>전투 준비된 정착민 수</TG.MiddlePawnCountToolTip>
+  <TG.RankTooltip>그룹의 평균 전투 등급</TG.RankTooltip>
+  <TG.UpgradeWeaponTooltip>가능한 경우 무기를 더 좋은 것을 착용하도록 그룹에게 지시\n\n-정착민은 현재 무기 유형(원거리/근접)으로만 교체합니다.</TG.UpgradeWeaponTooltip>
+  <TG.UpgradeArmorTooltip>가능한 경우 방어구를 더 좋은 것을 착용하도록 그룹에게 지시</TG.UpgradeArmorTooltip>
+  <TG.TakeBuffTooltip>소지품의 전투 약물을 복용하도록 그룹에게 지시</TG.TakeBuffTooltip>
+  <TG.MoodIconTooltip>그룹의 종합 기분</TG.MoodIconTooltip>
+  <TG.HealthIconTooltip>그룹의 종합 건강</TG.HealthIconTooltip>
+  <TG.RestIconTooltip>그룹의 종합 수면</TG.RestIconTooltip>
+  <TG.HungerIconTooltip>그룹의 종합 허기</TG.HungerIconTooltip>
+  <TG.HideCreateGroup>그룹 생성 숨기기</TG.HideCreateGroup>
+</LanguageData>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VCE_ElectricPot.label>전기 포트</VCE_ElectricPot.label>
-  <VCE_ElectricPot.description>가열 포트라고도 하는 전기 포트는 물을 끓여 일정한 온도로 유지하는데 사용되는 소형 기구입니다. 일반적으로 수프를 만들기 위해 즉시 온수가 나오며, 오랜 시간 동안 끓여서 수프의 풍미를 풍부하게 합니다.\n\n기본 스튜 냄비와는 달리, 전기 포드는 반자동이며, 특별히 재설정하지 않으면 선택된 입력 재료와 제조법을 기억합니다.</VCE_ElectricPot.description>
+  <VCE_ElectricPot.description>전기 포트, 또한 열전대라고도 불리며, 물을 끓이고 일정한 온도로 유지하기 위해 사용되는 작은 기구입니다. 보통 오랜 시간 동안 수프를 끓이기 위해 사용됩니다. 안에 재료들과 물을 넣고 오랜 시간 동안 끓이게 놔두면, 시간이 지남에 따라 점차 맛이 깊어집니다.\n\n수프는 전원이 들어오지 않는 전기 포트 위에 있으면 매우 빠르게 상합니다. 흑점폭발을 조심하세요!</VCE_ElectricPot.description>
   <VCE_Grill.label>그릴</VCE_Grill.label>
   <VCE_Grill.description>그릴은 아래에서 열을 가하여 음식을 조리하는 장치입니다. 나무를 연료로 필요합니다.</VCE_Grill.description>
   <VCE_DeepFrier.label>튀김기</VCE_DeepFrier.label>
@@ -22,8 +22,10 @@
   <VCE_GourmetBake.description>비록 적은 양이지만, 세련되고 정교한 준비로 미적 균형이 일품인 빵입니다.</VCE_GourmetBake.description>
   <VCE_CannedMeat.label>고기 통조림</VCE_CannedMeat.label>
   <VCE_CannedMeat.description>강철로 밀봉된 육류는 거의 무한정 보관할 수 있습니다.\n통조림은 식사에 혼합되어 조리되는 것이 훨씬 더 영양이 풍부합니다.\n또한 너무 많이 섭취하면 혈압이 상승할 수 있습니다.</VCE_CannedMeat.description>
-  <VCE_CannedProduce.label>과채 통조림</VCE_CannedProduce.label>
-  <VCE_CannedProduce.description>강철로 밀봉된 과채는 거의 무한정 보관할 수 있습니다.\n통조림은 식사에 혼합되어 조리되는 것이 훨씬 더 영양이 풍부합니다.\n또한 너무 많이 섭취하면 혈압이 상승할 수 있습니다.</VCE_CannedProduce.description>
+  <VCE_CannedProduce.label>야채 통조림</VCE_CannedProduce.label>
+  <VCE_CannedProduce.description>강철로 밀봉된 야채는 거의 무한정 보관할 수 있습니다.\n통조림은 식사에 혼합되어 조리되는 것이 훨씬 더 영양이 풍부합니다.\n또한 너무 많이 섭취하면 혈압이 상승할 수 있습니다.</VCE_CannedProduce.description>
+  <VCE_CannedFruit.label>과일 통조림</VCE_CannedFruit.label>
+  <VCE_CannedFruit.description>조리된 과일을 밀폐되고 내구성이 뛰어난 용기에 담아 보존한 것입니다. 거의 무한정 보관할 수 있습니다.\n\n과일 통조림은 후식 요리에 특별히 요구된다는 점에서 야채 통조림과 다릅니다.</VCE_CannedFruit.description>
   <VCE_CannedAP.label>달걀 통조림</VCE_CannedAP.label>
   <VCE_CannedAP.description>강철로 밀봉된 달걀은 거의 무한정 보관할 수 있습니다.\n통조림은 식사에 혼합되어 조리되는 것이 훨씬 더 영양이 풍부합니다.\n또한 너무 많이 섭취하면 혈압이 상승할 수 있습니다.</VCE_CannedAP.description>
   <VCE_CannedFish.label>생선 통조림</VCE_CannedFish.label>

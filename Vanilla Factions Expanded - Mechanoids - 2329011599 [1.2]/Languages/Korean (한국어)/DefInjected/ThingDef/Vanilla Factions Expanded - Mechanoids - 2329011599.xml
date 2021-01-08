@@ -16,7 +16,7 @@
   <VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>각종 부품들을 대형 구경의 탄도 포탄으로 조립하는 기계입니다.\n생산자가 선택하는 다양한 포탄을 만들어낼 수 있습니다.\n\n&lt;color=#33d733>자동화 계열:&lt;/color> 군수품 및 무기 공장 계열의 일부입니다. (M.A.F)</VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>
   <VFEM_WearablesAndTextileFactory_TextileRecycler.label>섬유 재활용기</VFEM_WearablesAndTextileFactory_TextileRecycler.label>
   <VFEM_WearablesAndTextileFactory_TextileRecycler.description>의류 조각들을 잘게 잘라, 이어 맞추고, 사용 가능한 재활용 조각 또는 천으로 빠르게 분류할 수 있는 기계입니다.\n효율은 거의 없지만 쓸모없는 재료를 다른 방법으로 재활용하는 데 매우 유용합니다.\n\n&lt;color=#33d733>자동화 계열:&lt;/color> 의류와 섬유 공장 계열의 일부입니다. (W.T.F)</VFEM_WearablesAndTextileFactory_TextileRecycler.description>
-  <VFEM_WearablesAndTextileFactory_AutoLoom.label>자동 직기</VFEM_WearablesAndTextileFactory_AutoLoom.label>
+  <VFEM_WearablesAndTextileFactory_AutoLoom.label>자동 직조기</VFEM_WearablesAndTextileFactory_AutoLoom.label>
   <VFEM_WearablesAndTextileFactory_AutoLoom.description>두 개의 굴림대를 사용해서 공급된 근처의 직물을 제단하는 대형 기계로, 고정쇠와 가위 및 바늘로 한 번에 기본적인 의상을 꿰매고 바느질합니다.\n사용자는 미리 설정된 항목에서 원하는 의류 유형을 지정할 수 있습니다.\n\n&lt;color=#33d733>자동화 계열:&lt;/color> 의류와 섬유 공장 계열의 일부입니다. (W.T.F)</VFEM_WearablesAndTextileFactory_AutoLoom.description>
   <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>합성원단 합성기</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>
   <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>가장 지적인 정착지들조차도 거의 이해하지 못하는 첨단 기술의 기계입니다.\n기본 재료를 원자적으로 재정렬 할 수 있는 재질 압착기 및 플라즈마 바늘로 합성원단과 구별할 수 없을 정도로 똑같은 새로운 재료를 만듭니다.\n재료 자체를 생성하는 대신 기계는 기존의 특정 의류를 사용하도록 구성되었습니다.\n\n&lt;color=#33d733>자동화 계열:&lt;/color> 의류와 섬유 공장 계열의 일부입니다. (W.T.F)</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>

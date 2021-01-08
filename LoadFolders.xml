@@ -21,7 +21,6 @@
 	<li IfModActive="Mlie.ElectricFencesAndFloors">Electric Fences and Floors (Continued) - 2138712589 [1.2]</li>
 	<li IfModActive="hatti.qualitybuilder">QualityBuilder - 754637870 [1.2]</li>
 	<li IfModActive="TheWireLord354.ConduitDeconstruct">Conduit Deconstruct - 838336462 [1.2]</li>
-    <li IfModActive="fluffy.backuppower">Backup Power - 2084493662 [1.2]</li>
 	<li IfModActive="Ravvy.SRTS.TCF">SRTS Expanded The Crimson Fleet - 2138497005 [1.2]</li>
     <li IfModActive="dismarzero.VGP.VGPGardenTools">VGP Garden Tools - 2007063961 [1.2]</li>
 	<li IfModActive="fridgeBaron.Immortals">Immortals - 1984905966 [1.2]</li>
@@ -109,7 +108,6 @@
 	<li IfModActive="dismarzero.VGP.VGPVegetableGarden">VGP Vegetable Garden - 2007061826 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VHE.Beards">Vanilla Hair Expanded - Beards - 2187520791 [1.2]</li>
 	<!-- 20.09.09 -->
-	<li IfModActive="VanillaExpanded.VCookE">Vanilla Cooking Expanded - 2134308519 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VCookEStews">Vanilla Cooking Expanded - Stews - 2134312965 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VHE">Vanilla Hair Expanded - 1888705256 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VWEQ">Vanilla Weapons Expanded - Quickdraw - 1906780517 [1.2]</li>
@@ -117,7 +115,6 @@
 	<!-- 20.09.15 -->
 	<li IfModActive="fluffy.animaltab">Animal Tab - 712141500 [1.2]</li>
 	<li IfModActive="VouLT.BetterPawnControl">Better Pawn Control - 1541460369 [1.2]</li>
-	<li IfModActive="VanillaExpanded.VPlantsE">Vanilla Plants Expanded - 2134308522 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VPlantsESucculents">Vanilla Plants Expanded - Succulents - 2198652536 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VBrewE">Vanilla Brewing Expanded - 2186560858 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VFEArt">Vanilla Furniture Expanded - Art - 1968134023 [1.2]</li>
@@ -267,7 +264,6 @@
 	<li IfModActive="chefboyjc.zorgzf1">Zorg ZF1 - 2285163237 [1.2]</li>
 	<!-- 20.11.19 -->
 	<li IfModActive="sarg.rimbees">RimBees - 1558161673 [1.2]</li>
-	<li IfModActive="AR13S.Arachne1point0">Arachne Race - 1589454687 [1.2]</li>
 	<li IfModActive="Agracore.BSM">Better Survival Meals - 2283449489 [1.2]</li>
 	<li IfModActive="Orion.Gastronomy">Gastronomy - 2279786905 [1.2]</li>
 	<!-- 20.11.20 -->
@@ -327,7 +323,6 @@
 	<li IfModActive="Harkon.GunNut.Chapter2">Gun Nut - Chapter #2 - 2239800263 [1.2]</li>
 	<li IfModActive="Taranchuk.ClaySoldeirs">Clay Soldier Race - 2307153650 [1.2]</li>
 	<li IfModActive="shakesthespeare.RimsecSecurity">Rimsec Security - 2323762086 [1.2]</li>
-	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268 [1.2]</li>
 	<!-- 20.12.28 -->
 	<li IfModActive="Orion.Hospitality">Hospitality - 753498552 [1.2]</li>
 	<li IfModActive="Dubwise.Rimefeller">Rimefeller - 1321849735 [1.2]</li>
@@ -338,12 +333,24 @@
 	<li IfModActive="Mlie.CallofCthulhuCults">Call of Cthulhu - Cults (Continued) - 2249174783 [1.2]</li>
 	<!-- 2021.01.01 -->
 	<li IfModActive="avius.prisonlabor">Prison Labor - 1899474310 [1.2]</li>
-	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
-	<li IfModActive="OskarPotocki.VFE.Mechanoid">Vanilla Factions Expanded - Mechanoids - 2329011599 [1.2]</li>
 	<li IfModActive="spdskatr.projectrimfactory.legacy">Project RimFactory Revived - LEGACY - 2340838603 [1.2]</li>
 	<!-- 2021.01.02 -->
 	<li IfModActive="zymex.prf.lite">Project RimFactory Lite - 2325176756 [1.2]</li>
+	<!-- 2021.01.06 -->
+	<li IfModActive="AR13S.Arachne1point0">Arachne Race - 1589454687 [1.2]</li>
+	<li IfModActive="archotech.droids">Archotech Droids - 2218633164 [1.2]</li>
+	<li IfModActive="DerekBickley.LTOColonyGroupsFinal">Colony Groups - 2345493945 [1.2]</li>
 	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700 [1.2]</li>
+	<li IfModActive="automatic.recipeicons">Recipe icons - 1616643195 [1.2]</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
+	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268 [1.2]</li>
+	<li IfModActive="VanillaExpanded.VCookE">Vanilla Cooking Expanded - 2134308519 [1.2]</li>
+	<!-- 2021.01.08 -->
+	<li IfModActive="VanillaExpanded.VPlantsE">Vanilla Plants Expanded - 2134308522 [1.2]</li>
+    <li IfModActive="fluffy.backuppower">Backup Power - 2084493662 [1.2]</li>
+	<li IfModActive="Teok25.ArchotechExpanded.Prosthetics">Archotech Expanded Prosthetics - 1467604976 [1.2]</li>
+	<li IfModActive="MagAgent.EvolvedOrgansRedux1.2">EvolvedOrgansRedux - 2333818380 [1.2]</li>
+	<li IfModActive="OskarPotocki.VFE.Mechanoid">Vanilla Factions Expanded - Mechanoids - 2329011599 [1.2]</li>
   </v1.2>
 
 </loadFolders>

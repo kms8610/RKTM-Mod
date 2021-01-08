@@ -6,7 +6,7 @@
   <MultiSplitAirCon.description>연결된 실외기를 사용하여 에어컨이나 냉동고 온도를 조절하는 다중 분할식 온도 제어 시스템입니다.</MultiSplitAirCon.description>
   <Plumbing.label>배관</Plumbing.label>
   <Plumbing.description>물을 공급하고 배출하는 파이프, 배관설비, 저장탱크, 풍력펌프 및 기타 부속품을 연구합니다.</Plumbing.description>
-  <LogBoilers.label>데우는 중.</LogBoilers.label>
+  <LogBoilers.label>난방</LogBoilers.label>
   <LogBoilers.description>방을 데우는 데 사용할 수 있는 통나무 보일러를 만들고 욕조에 배관하여 온수를 낼 수 있습니다.</LogBoilers.description>
   <CentralHeating.label>중앙 난방 시스템</CentralHeating.label>
   <CentralHeating.description>나무, 가스보일러와 온수 탱크 및 방열기를 연구합니다.</CentralHeating.description>
