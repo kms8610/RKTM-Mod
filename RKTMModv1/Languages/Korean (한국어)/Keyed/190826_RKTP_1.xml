@@ -930,16 +930,6 @@
   <SetUpCampStillInUse>이 캠프에는 아직 정착민들이 있습니다. 캠프를 포기하기 전에 상단을 구성해야 합니다.</SetUpCampStillInUse>
   <SetUpCampOccupied>같은 장소에 캠프를 설지하기 전에 기다려야 합니다.</SetUpCampOccupied>
 
-  <!--1496570408_181117_VGP Garden Canning-->
-  <Canning_ContainsIngredient>{0} / {1}의 {2}(이)가 있습니다.</Canning_ContainsIngredient>
-  <Canning_ContainsProduct>{0} / {1}의 {2}(이)가 있습니다.</Canning_ContainsProduct>
-  <Canning_Finished>완료됨</Canning_Finished>
-  <Canning_Ideal>적절함</Canning_Ideal>
-  <Canning_IdealSafeFermentingTemperature>적절한(안전한) 포장 온도</Canning_IdealSafeFermentingTemperature>
-  <Canning_NoIngredient>재료가 필요함</Canning_NoIngredient>
-  <Canning_OutOfIdealTemperature>비적절한 온도입니다. 포장 속도: {0}</Canning_OutOfIdealTemperature>
-  <Canning_Safe>안전함</Canning_Safe>
-
   <!--1497105115_190627_[SYR] Individuality-->
   <SyrTraitsTraitCount>생성될 때 정착민이 가지는 특성의 수</SyrTraitsTraitCount>
   <SyrTraitsSexualityCommonalityBi>양성애자</SyrTraitsSexualityCommonalityBi>

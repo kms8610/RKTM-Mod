@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GN_Bullet_SRTwentyFive.label>SR-25 탄환</GN_Bullet_SRTwentyFive.label>
+  <GN_SRTwentyFive.label>SR-25</GN_SRTwentyFive.label>
+  <GN_SRTwentyFive.description>SR-25는 유진 스토너가 개발한 지정사수용 소총입니다. 이 M110이라 불리는 개량형은 7.62x51 나토 탄을 사용하며, 소형 양각대, 20발들이 탄창, 긴 소음기와 정밀한 조준경이 달려있습니다.</GN_SRTwentyFive.description>
+  <GN_SRTwentyFive.tools.0.label>개머리판</GN_SRTwentyFive.tools.0.label>
+  <GN_SRTwentyFive.tools.1.label>총열</GN_SRTwentyFive.tools.1.label>
+  <GN_Bullet_GalilACE.label>갈릴 ACE 탄환</GN_Bullet_GalilACE.label>
+  <GN_GalilACE.label>갈릴 ACE</GN_GalilACE.label>
+  <GN_GalilACE.description>갈릴 ACE는 유명한 갈릴 소총의 마지막 개량형 중 하나이며, 최신식 재료를 사용해서 구식 갈릴 소총에 비해 거의 모든 부분이 향상되었습니다. 이 총에는 7.62x51 나토 탄이 사용되며, 레드닷 사이트와 전방 손잡이가 달려있습니다.</GN_GalilACE.description>
+  <GN_GalilACE.tools.0.label>개머리판</GN_GalilACE.tools.0.label>
+  <GN_GalilACE.tools.1.label>총열</GN_GalilACE.tools.1.label>
+  <GN_Bullet_StGFortyFour.label>StG 44 탄환</GN_Bullet_StGFortyFour.label>
+  <GN_StGFortyFour.label>StG 44</GN_StGFortyFour.label>
+  <GN_StGFortyFour.description>StG 44는 최초이면서 성공적인 돌격소총이었습니다. 상대적으로 작은 탄약, 제어 가능한 자동 사격, 전투 소총보다 작은 크기이면서도 더 빠른 사격 속도를 가진 것이 특징이며, 몇 백 미터 내에 있는 목표물을 맞힐 수 있습니다.</GN_StGFortyFour.description>
+  <GN_StGFortyFour.tools.0.label>개머리판</GN_StGFortyFour.tools.0.label>
+  <GN_StGFortyFour.tools.1.label>총열</GN_StGFortyFour.tools.1.label>
+  <GN_Bullet_MGThree.label>MG3 탄환</GN_Bullet_MGThree.label>
+  <GN_MGThree.label>MG 3</GN_MGThree.label>
+  <GN_MGThree.description>MG3은 7.62×51mm 나토 탄을 사용하는 독일의 다목적 기관총입니다. 이 총은 제2차 세계 대전 때 나온 7.92×57mm 마우저 탄을 사용하는 MG 42 다목적 기관총의 파생형입니다.</GN_MGThree.description>
+  <GN_MGThree.tools.0.label>개머리판</GN_MGThree.tools.0.label>
+  <GN_MGThree.tools.1.label>총열</GN_MGThree.tools.1.label>
+  <GN_Bullet_GlockFLUX.label>G-98 전자기 탄</GN_Bullet_GlockFLUX.label>
+  <GN_GlockFLUX.label>G-98</GN_GlockFLUX.label>
+  <GN_GlockFLUX.description>G-98은 상당히 개조된 우주 시대 총기입니다. 글록 무기 시스템을 기반으로 만들어졌으며, 높은 연사력으로 전자기 탄을 발사합니다. 대부분의 산업 시대 부품들이 우주 시대 기술 부품들로 대체되었습니다.</GN_GlockFLUX.description>
+  <GN_GlockFLUX.tools.0.label>총열</GN_GlockFLUX.tools.0.label>
+  <GN_Bullet_M16AFour.label>M16A4 탄환</GN_Bullet_M16AFour.label>
+  <GN_M16AFour.label>M16A4</GN_M16AFour.label>
+  <GN_M16AFour.description>M16은 1964년 미군 제식 소총으로 채택되었으며 베트남 전쟁 중에 처음으로 사용되었습니다. M16A4는 이 유명한 돌격소총의 4세대 개량형이며, 오늘날까지 세계에서 가장 많이 생산되는 5.56mm 탄 사용 총기입니다.</GN_M16AFour.description>
+  <GN_M16AFour.tools.0.label>개머리판</GN_M16AFour.tools.0.label>
+  <GN_M16AFour.tools.1.label>총열</GN_M16AFour.tools.1.label>
+  <GN_Bullet_M2HB.label>M2HB 탄환</GN_Bullet_M2HB.label>
+  <GN_M2HB.label>M2HB</GN_M2HB.label>
+  <GN_M2HB.description>못 쓸 정도만 아니라면 그대로 쓰세요. 50구경 M2 브라우닝 기관총은 1930년부터 지금까지 사용되고 있으며, 그 동안 차량 거치용 무장과 항공기 무장으로 광범위하게 사용됐습니다.</GN_M2HB.description>
+  <GN_M2HB.tools.0.label>개머리판</GN_M2HB.tools.0.label>
+  <GN_M2HB.tools.1.label>총열</GN_M2HB.tools.1.label>
+  <GN_Bullet_GreyHawk.label>그레이호크 탄환</GN_Bullet_GreyHawk.label>
+  <GN_GreyHawk.label>그레이호크 55</GN_GreyHawk.label>
+  <GN_GreyHawk.description>큰 탄환을 발사하는 그레이호크는 평범한 권총보다 더 먼 거리의 목표물을 맞힐 수 있는 정밀한 싱글 액션 리볼버입니다. 이 총에는 장거리에 더 정확한 사격을 위한 조준경이 달려있습니다. 하지만 다른 리볼버에 비해 무겁고 부피가 큽니다.</GN_GreyHawk.description>
+  <GN_GreyHawk.tools.0.label>손잡이</GN_GreyHawk.tools.0.label>
+  <GN_GreyHawk.tools.1.label>총열</GN_GreyHawk.tools.1.label>
+  <GN_Bullet_AATwelve.label>AA-12 탄환</GN_Bullet_AATwelve.label>
+  <GN_AATwelve.label>AA-12</GN_AATwelve.label>
+  <GN_AATwelve.description>애치슨 돌격 산탄총이라 불리는 AA-12는 1972년에 개발된 자동 전투 산탄총입니다. 개발된 지 18년 넘게 지난 이 마지막 개량형 AA-12는 32발들이 드럼 탄창과 편안한 총열 덮개가 달려있습니다.</GN_AATwelve.description>
+  <GN_AATwelve.tools.0.label>개머리판</GN_AATwelve.tools.0.label>
+  <GN_AATwelve.tools.1.label>총열</GN_AATwelve.tools.1.label>
+  <GN_Bullet_M202F.label>M202 소이 로켓탄</GN_Bullet_M202F.label>
+  <GN_M202F.label>M202A1</GN_M202F.label>
+  <GN_M202F.description>M202 플래시는 2차 세계 대전 때 만든 화염방사기를 대체하기 위해 개발된 미국제 로켓 발사기입니다. M202A1에는 4개의 발사관에 66mm 소이 로켓탄이 장전되어있습니다. M74 로켓에는 인화성 물질로 채워진 M235 탄두가 장착되어 있습니다.</GN_M202F.description>
+  <GN_M202F.tools.0.label>총열</GN_M202F.tools.0.label>
+  <GN_Bullet_PulseRifle.label>펄스 라이플 무탄피탄</GN_Bullet_PulseRifle.label>
+  <GN_PulseRifle.label>USCM M41A "펄스 라이플</GN_PulseRifle.label>
+  <GN_PulseRifle.description>_</GN_PulseRifle.description>
+  <GN_PulseRifle.tools.0.label>개머리판</GN_PulseRifle.tools.0.label>
+  <GN_PulseRifle.tools.1.label>총열</GN_PulseRifle.tools.1.label>
+  <GN_Bullet_M4US.label>M4 탄환</GN_Bullet_M4US.label>
+  <GN_M4US.label>M4 "코어"</GN_M4US.label>
+  <GN_M4US.description>_</GN_M4US.description>
+  <GN_M4US.tools.0.label>개머리판</GN_M4US.tools.0.label>
+  <GN_M4US.tools.1.label>총열</GN_M4US.tools.1.label>
+  <GN_Bullet_M56SG.label>M56 무탄피탄</GN_Bullet_M56SG.label>
+  <GN_M56SG.label>M56 "스마트건"</GN_M56SG.label>
+  <GN_M56SG.description>_</GN_M56SG.description>
+  <GN_M56SG.tools.0.label>개머리판</GN_M56SG.tools.0.label>
+  <GN_M56SG.tools.1.label>총열</GN_M56SG.tools.1.label>
+  <GN_Bullet_M240B.label>M240B 탄환</GN_Bullet_M240B.label>
+  <GN_M240B.label>M240B "브라보"</GN_M240B.label>
+  <GN_M240B.description>_</GN_M240B.description>
+  <GN_M240B.tools.0.label>개머리판</GN_M240B.tools.0.label>
+  <GN_M240B.tools.1.label>총열</GN_M240B.tools.1.label>
+  <GN_Bullet_PNinety.label>P90 탄환</GN_Bullet_PNinety.label>
+  <GN_PNinety.label>P90</GN_PNinety.label>
+  <GN_PNinety.description>P90은 9×19mm 파라블럼 탄을 쓰는 화기 교체에 대한 나토군의 요청으로 만들어졌습니다. 차량 승무원, 후방 지원 인원, 특수 부대 그리고 대테러 부대를 위해 작지만 강한 화력을 낼 수 있도록 설계되었습니다.</GN_PNinety.description>
+  <GN_PNinety.tools.0.label>개머리판</GN_PNinety.tools.0.label>
+  <GN_PNinety.tools.1.label>총열</GN_PNinety.tools.1.label>
+  <GN_Bullet_KSTwentyThree.label>KS-23 탄환</GN_Bullet_KSTwentyThree.label>
+  <GN_KSTwentyThree.label>KS-23</GN_KSTwentyThree.label>
+  <GN_KSTwentyThree.description>23mm 대구경 탄환을 발사하는 유명한 산탄총입니다. KS-23의 총열은 제작 결함으로 거부된 23mm 대공포의 총열로 만들어졌습니다.</GN_KSTwentyThree.description>
+  <GN_KSTwentyThree.tools.0.label>총열</GN_KSTwentyThree.tools.0.label>
+  <Ammo_10x24mmCaseless_FMJ.description>USCM M41A 펄스 라이플에 사용되는 소형 고속 탄환 입니다.</Ammo_10x24mmCaseless_FMJ.description>
+  <Ammo_10x24mmCaseless_FMJ.label>10x24mm 무탄피 탄약 (철갑탄)</Ammo_10x24mmCaseless_FMJ.label>
+  <Ammo_10x24mmCaseless_Incendiary.description>USCM M41A 펄스 라이플에 사용되는 소형 고속 탄환 입니다.</Ammo_10x24mmCaseless_Incendiary.description>
+  <Ammo_10x24mmCaseless_Incendiary.label>10x24mm 무탄피 탄약 (철갑소이탄)</Ammo_10x24mmCaseless_Incendiary.label>
+  <Ammo_10x24mmCaseless_HE.description>USCM M41A 펄스 라이플에 사용되는 소형 고속 탄환 입니다.</Ammo_10x24mmCaseless_HE.description>
+  <Ammo_10x24mmCaseless_HE.label>10x24mm 무탄피 탄약 (고폭탄)</Ammo_10x24mmCaseless_HE.label>
+  <Bullet_10x24mmCaseless_FMJ.label>10x24mm 무탄피 총알 (일반탄)</Bullet_10x24mmCaseless_FMJ.label>
+  <Bullet_10x24mmCaseless_Incendiary.label>10x24mm 무탄피 총알 (철갑소이탄)</Bullet_10x24mmCaseless_Incendiary.label>
+  <Bullet_10x24mmCaseless_HE.label>10x24mm 무탄피 총알 (고폭탄)</Bullet_10x24mmCaseless_HE.label>
+  <Ammo_10x28mmCaseless_FMJ.description>USCM M41A 펄스 라이플에 사용되는 소형 고속 탄환 입니다.</Ammo_10x28mmCaseless_FMJ.description>
+  <Ammo_10x28mmCaseless_FMJ.label>10x28mm 무탄피 탄약 (철갑탄)</Ammo_10x28mmCaseless_FMJ.label>
+  <Ammo_10x28mmCaseless_Incendiary.description>USCM M41A 펄스 라이플에 사용되는 소형 고속 탄환 입니다.</Ammo_10x28mmCaseless_Incendiary.description>
+  <Ammo_10x28mmCaseless_Incendiary.label>10x28mm 무탄피 탄약 (철갑소이탄)</Ammo_10x28mmCaseless_Incendiary.label>
+  <Ammo_10x28mmCaseless_HE.description>USCM M41A 펄스 라이플에 사용되는 소형 고속 탄환 입니다.</Ammo_10x28mmCaseless_HE.description>
+  <Ammo_10x28mmCaseless_HE.label>10x28mm 무탄피 탄약 (고폭탄)</Ammo_10x28mmCaseless_HE.label>
+  <Bullet_10x28mmCaseless_FMJ.label>10x28mm 무탄피 총알 (일반탄)</Bullet_10x28mmCaseless_FMJ.label>
+  <Bullet_10x28mmCaseless_Incendiary.label>10x28mm 무탄피 총알 (철갑소이탄)</Bullet_10x28mmCaseless_Incendiary.label>
+  <Bullet_10x28mmCaseless_HE.label>10x28mm 무탄피 총알 (고폭탄)</Bullet_10x28mmCaseless_HE.label>
+  <GN_ATFour.label>AT-4</GN_ATFour.label>
+  <GN_ATFour.description>AT-4는 스웨덴에서 개발된 일회용 대전차 무반동포입니다. 탄두는 발사관에 장전된 채 생산되며, 발사관은 한번 사용한 후 버립니다.</GN_ATFour.description>
+  <GN_ATFour.tools.0.label>개머리판</GN_ATFour.tools.0.label>
+  <GN_ATFour.tools.1.label>총열</GN_ATFour.tools.1.label>
+  <GN_ATFour.tools.2.label>총구</GN_ATFour.tools.2.label>
+</LanguageData>

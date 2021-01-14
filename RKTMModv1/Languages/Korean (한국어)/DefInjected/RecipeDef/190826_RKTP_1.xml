@@ -737,20 +737,6 @@
   <Make_Apparel_Socks.jobString>양말 제작 중.</Make_Apparel_Socks.jobString>
   <Make_Apparel_work_gloves.jobString>작업용 장갑 제작 중.</Make_Apparel_work_gloves.jobString>
 
-  <!--1496570408_181117_VGP Garden Canning-->
-  <CanFruit.label>과일 통조림 만들기</CanFruit.label>
-  <Canmeal.label>음식 통조림 만들기</Canmeal.label>
-  <CanMeat.label>고기 통조림 만들기</CanMeat.label>
-  <CanVegetable.label>야채 통조림 만들기</CanVegetable.label>
-  <Canmeal.jobString>음식 통조림 중.</Canmeal.jobString>
-  <CanVegetable.jobString>음식 통조림 중.</CanVegetable.jobString>
-  <CanMeat.jobString>음식 통조림 중.</CanMeat.jobString>
-  <CanFruit.jobString>음식 통조림 중.</CanFruit.jobString>
-  <Canmeal.description>상하지 않도록 캔 안에 음식을 보존합니다.</Canmeal.description>
-  <CanFruit.description>상하지 않도록 캔 안에 과일을 보존합니다.</CanFruit.description>
-  <CanMeat.description>상하지 않도록 캔 안에 고기를 보존합니다.</CanMeat.description>
-  <CanVegetable.description>상하지 않도록 캔 안에 야채를 보존합니다.</CanVegetable.description>
-
   <!--1501459305_190606_[1.0] Razor Wire (With Damage)-->
   <MakeWire10.label>가시 철조망 만들기(X10)</MakeWire10.label>
   <MakeWire1.label>가시 철조망 만들기</MakeWire1.label>

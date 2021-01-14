@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <settings_GNCP_EnableHeader>무기</settings_GNCP_EnableHeader>
+  <settings_GNCP_EnableDescription>- 무기를 비활성화하면 이미 가지고 있는 무기는 사라지지 않지만 더 이상 찾거나 제작할 수 없습니다.</settings_GNCP_EnableDescription>
+  <enable_GNCP_KS23>KS-23 "스펫치알니" 활성화</enable_GNCP_KS23>
+  <enable_GNCP_P90>P90 "허스탈" 활성화</enable_GNCP_P90>
+  <enable_GNCP_SR25>SR-25 "M110" 활성화</enable_GNCP_SR25>
+  <enable_GNCP_GalilACE>갈릴 ACE "인두밀" 활성화</enable_GNCP_GalilACE>
+  <enable_GNCP_AT4>AT-4 "사브" 활성화</enable_GNCP_AT4>
+  <enable_GNCP_StG44>StG 44 "쿠르츠" 활성화</enable_GNCP_StG44>
+  <enable_GNCP_MG3>MG3 "GPMG" 활성화</enable_GNCP_MG3>
+  <enable_GNCP_G98>G-98 "플럭스" 활성화</enable_GNCP_G98>
+  <enable_GNCP_M16A4>M16A4 "터미널 붓" 활성화</enable_GNCP_M16A4>
+  <enable_GNCP_M2HB>M2HB "브라우닝" 활성화</enable_GNCP_M2HB>
+  <enable_GNCP_GreyHawk>그레이호크 55 "페어뷰" 활성화</enable_GNCP_GreyHawk>
+  <enable_GNCP_AA12>AA-12 "JAK" 활성화</enable_GNCP_AA12>
+  <enable_GNCP_M202>M202A1 "플래시"</enable_GNCP_M202>
+  <settings_GNCP_EnableNickNameHeader>별명</settings_GNCP_EnableNickNameHeader>
+  <settings_GNCP_EnableNickNameDescription>이 설정은 무기의 이름에 별명을 표시할지 말지를 결정합니다. 예시) 활성화: ASh-12 "베어", 비활성화: ASh-12</settings_GNCP_EnableNickNameDescription>
+  <enable_GNCP_nicknames>무기 별명 활성화</enable_GNCP_nicknames>
+  <Label_GNCP_KS23_NN>KS-23 "스펫치알니"</Label_GNCP_KS23_NN>
+  <Label_GNCP_P90_NN>P90 "허스탈"</Label_GNCP_P90_NN>
+  <Label_GNCP_SR25_NN>SR-25 "M110"</Label_GNCP_SR25_NN>
+  <Label_GNCP_GalilACE_NN>갈릴 ACE "인두밀"</Label_GNCP_GalilACE_NN>
+  <Label_GNCP_AT4_NN>AT-4 "사브"</Label_GNCP_AT4_NN>
+  <Label_GNCP_StG44_NN>StG 44 "쿠르츠"</Label_GNCP_StG44_NN>
+  <Label_GNCP_MG3_NN>MG3 "GPMG"</Label_GNCP_MG3_NN>
+  <Label_GNCP_G98_NN>G-98 "플럭스"</Label_GNCP_G98_NN>
+  <Label_GNCP_M16A4_NN>M16A4 "터미널 붓"</Label_GNCP_M16A4_NN>
+  <Label_GNCP_M2HB_NN>M2HB "브라우닝"</Label_GNCP_M2HB_NN>
+  <Label_GNCP_GreyHawk_NN>그레이호크 55 "페어뷰"</Label_GNCP_GreyHawk_NN>
+  <Label_GNCP_AA12_NN>AA-12 "JAK"</Label_GNCP_AA12_NN>
+  <settings_GNCP_EndDescription>- 이 설정을 적용하려면 재시작을 해야 합니다. 이 모드는 지속적인 업데이트로 새로운 총기들을 추가하기 때문에, 일부는 설정이 적용되는 데 시간이 걸릴 수 있습니다.</settings_GNCP_EndDescription>
+</LanguageData>

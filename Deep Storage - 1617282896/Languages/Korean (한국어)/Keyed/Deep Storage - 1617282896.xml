@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NoItemsAreStoredHere>현재 여기에 저장된 항목이 없습니다.</NoItemsAreStoredHere>
+  <LWM_DS_Total>총: {0}</LWM_DS_Total>
+  <LWM_DS_PerCell>{0} 칸당</LWM_DS_PerCell>
+  <LWM_DS_TotalAndPerCell>총 {0}; {1} 칸당</LWM_DS_TotalAndPerCell>
+  <LWM_DS_kg>{0}kg</LWM_DS_kg>
+  <LWM_DS_BulkEtcOf>{0} {1}</LWM_DS_BulkEtcOf>
+  <LWM_DSU_GainsName>{0}(은)는 이제 {1}입니다.</LWM_DSU_GainsName>
+  <LWM.ContentsHeaderMaxMass>총 {2}(이)가 {3} / {4} kg인 {0} / {1}</LWM.ContentsHeaderMaxMass>
+  <LWM.ContentsHeaderMax>총 {2}(이)가 {3} kg인 {0} / {1}</LWM.ContentsHeaderMax>
+  <LWM.ContentsHeaderMinMax>{0} / {1}, 최대 {2}, {3} kg의 합계 {4} kg</LWM.ContentsHeaderMinMax>
+  <LWM.ContentsHeaderStacksMax>{0} 더미, 최대 {1}, 총 {2}의 {3} kg 제한</LWM.ContentsHeaderStacksMax>
+  <LWM.ContentsHeaderItemsMax>{0}개의 품목, 최대 {1} ({2}에 의해 제한됨), 총 {2} / {3} kg</LWM.ContentsHeaderItemsMax>
+  <LWM.ContentsDropDesc>이 아이템을 바닥에 떨어뜨려 정착민들이 좀 더 쉽게 상호작용할 수 있도록 하세요.\n\n이 버튼이 혼란을 가중시키고 유용하지 않으면, 모드 설정에서 해제할 수 있습니다.</LWM.ContentsDropDesc>
+  <LWM.XStacks>{0} 더미</LWM.XStacks>
+  <LWM.XItems>{0} 품목</LWM.XItems>
+  <LWM.ContentsHeaderMaxSize>    ({0}(이)가 {1} kg 이상인 품목은 저장할 수 없음)</LWM.ContentsHeaderMaxSize>
+  <LWM.ContentsHeaderPawnUsing>  {0}(이)가 사용하고 있습니다.</LWM.ContentsHeaderPawnUsing>
+  <LWM.ContentsHeaderPawnsUsing>  {0}(이)가 사용 중입니다.</LWM.ContentsHeaderPawnsUsing>
+  <LWM_DS_Empty>비었음</LWM_DS_Empty>
+  <LWM_DS_maxNumStacks>최대 저장 숫자</LWM_DS_maxNumStacks>
+  <LWM_DS_maxNumStacksDesc>단일 공간에 들어갈 수 있는 최대 스택 수입니다. 2 셀 크기의 건물은 저장 용량이 2배가 됩니다.\n\n다른 요인으로 인해 저장 용량이 줄어들 수 있습니다.</LWM_DS_maxNumStacksDesc>
+  <LWM_DS_minNumStacks>칸 당 최소 더미 갯수</LWM_DS_minNumStacks>
+  <LWM_DS_minNumStacksDesc>단일 공간에 저장할 수 있는 최소 항목 갯수입니다.\n\n무엇이든 {0}개의 품목을 보관할 수 있습니다.</LWM_DS_minNumStacksDesc>
+  <LWM_DS_maxTotalMass>최대 총 질량</LWM_DS_maxTotalMass>
+  <LWM_DS_maxTotalMassDesc>저장 장치가 보유할 수 있는 최대 질량. 단위가 가득 차면 더 이상 항목을 추가할 수 없습니다 (대부분의 단위는 항상 최소 2 개 이상의 항목을 저장할 수 있습니다). 건물이 하나 이상의 셀보다 큰 경우 이 제한은 모든 셀에 고르게 나누어집니다.</LWM_DS_maxTotalMassDesc>
+  <LWM_DS_maxMassOfStoredItem>저장된 품목의 최대 질량</LWM_DS_maxMassOfStoredItem>
+  <LWM_DS_maxMassOfStoredItemDesc>이 건물에 저장할 수 있는 특정 품목의 최대 질량. 바닐라 림월드에는 "크기"에 대한 통계가 없으므로 질량이 사용됩니다. CE를 사용하는 경우 "대량" 스탯이 대신 사용됩니다.\n\n기본 아이디어는 동일합니다: 일부 항목은 너무 커서 여기에 맞지 않습니다.</LWM_DS_maxMassOfStoredItemDesc>
+  <LWM_DS_allowedCategories>저장 가능한 카테고리</LWM_DS_allowedCategories>
+  <LWM_DS_allowedCategoriesDesc>다음은 이 건물에 저장하도록 설계된 카테고리입니다.\n\nLWM의 딥 스토리지 이외의 모드를 사용하는 경우 완벽하게 정확하지 않을 수 있습니다. 참고 : 특정 품목은 다른 이유로 적합하지 않을 수도 있습니다.</LWM_DS_allowedCategoriesDesc>
+  <LWM_DS_allowedDefs>저장 가능한 물품들</LWM_DS_allowedDefs>
+  <LWM_DS_allowedDefsDesc>이 것들은 이 기구가 저장하도록 설계된 항목입니다.\n\nLWM의 딥 스토리지 이외의 모드를 사용하는 경우 완벽하지 않을 수 있습니다. 참고 : 특정 품목은 다른 이유로 적합하지 않을 수도 있습니다.</LWM_DS_allowedDefsDesc>
+  <LWM_DS_disallowedStuff>하지만</LWM_DS_disallowedStuff>
+  <LWM_DS_disallowedStuffDesc>이러한 유형의 장치에 이러한 항목을 저장할 수 있다고 생각할 수 있지만 잘못되었을 수 있습니다. 여기에 저장할 수 없습니다.\n\nLWM의 딥 스토리지 이외의 모드를 사용하는 경우 완벽하게 정확하지 않을 수 있습니다. 참고: 특정 품목은 다른 이유로 적합하지 않을 수도 있습니다.</LWM_DS_disallowedStuffDesc>
+  <LWMDSignoredDueTo>이 설정은 {0} 모드에 의해 무시됨</LWMDSignoredDueTo>
+  <LWMDShaulToStorageExplanation>스토리지 사용 가능:\n기본적으로 인간(또는 인간과 유사한 외계인) 만이 스토리지에 물건을 넣는 데 필요한 지능을 가지고 있습니다. 주의 깊게 쌓기, 선반 정리, 래치 조작 등.\n거의 아무나 저장고를 사용할 수 있습니다.</LWMDShaulToStorageExplanation>
+  <LWMDSrobotsCanUse>로봇이 항상 딥 스토리지로 운반할 수 있습니까? (일부 로봇 지원)</LWMDSrobotsCanUse>
+  <LWMDSrobotsCanUseDesc>로봇이 딥 스토리지로 이동할 수 있도록 허용합니다. "Misc. Robots이 지원됩니다; 프로젝트 림팩토리 - 드론은 준비 중입니다.</LWMDSrobotsCanUseDesc>
+  <LWM_DS_IntTitle>딥 스토리지로 운반하는 데 필요한 최소 지능</LWM_DS_IntTitle>
+  <LWM_DS_IntDesc>이 옵션을 사용하면 동물 / 로봇 / 무엇이든 딥 스토리지에 운반해서 저장할 수 있습니다.\n대부분의 외계인은 인간형이거나, 그 이상입니다. 대부분의 동물들은 "동물"입니다. 바닐라의 메카노이드들은 "도구 사용자"입니다. 여러 모드의 로봇들이요? 당신의 추측이 나랑 비슷할 겁니다, 하지만 도구 사용자가 먼저이고, 그 다음이 동물들일 것입니다.\n주의 아무나 딥 스토리지에서 꺼낼 수 있습니다.</LWM_DS_IntDesc>
+  <LWM_DS_Int_Animal>동물 (동물과 일부 로봇)</LWM_DS_Int_Animal>
+  <LWM_DS_Int_ToolUser>도구 사용자 (메카노이드 및 일부 로봇)</LWM_DS_Int_ToolUser>
+  <LWM_DS_Int_Humanlike>인간형 (인간, 대부분의 외계인, 기본) (LWM * 승인)</LWM_DS_Int_Humanlike>
+  <LWMDSstoringDelaySettings>저장 지연 설정</LWMDSstoringDelaySettings>
+  <LWMDSstoringDelayExplanation>기본적으로, 딥 스토리지에 물품을 넣는 데는 약간의 시간이 걸립니다(최적화). 필요한 시간은 복잡한 계산이거나, 때로는 스토리지에 얼마나 많은 종류의 물건이 있는지, 얼마나 많은 물건이 스토리지에 저장되고 있는지를 포함해서 말입니다. 일부 모드는 이 계산에 문제를 일으킵니다.</LWMDSstoringDelayExplanation>
+  <LWMDSstoringTakesTimeLabel>저장하는 동안 지연을 끄려면 이것을 선택 해제하십시오.</LWMDSstoringTakesTimeLabel>
+  <LWMDSstoringTakesTimeDesc>이것을 끄는 것은 LWM이 하는 방식이 아닙니다. 하지만 이봐, 네 게임이야! 넌 네 마음대로 해!</LWMDSstoringTakesTimeDesc>
+  <LWMDSstoringGlobalScale>전역 저장 시간: {0}%\n정착민이 아이템을 저장하는 데 걸리는 시간을 조정하려면 (너무 오래 걸리는 것으로 생각될 수 있음)이 설정을 조정할 수 있으며 모든 저장 장치에 적용됩니다.</LWMDSstoringGlobalScale>
+  <LWMDSstoringTimeConsidersStackSize>저장 시간이 저장양에 따라 달라지나요? (스택 XXL? 오거 스택?)</LWMDSstoringTimeConsidersStackSize>
+  <LWMDSstoringTimeConsidersStackSizeDesc>만약 선택한 경우 (기본값) 75개의 항목을 저장하면 3개를 저장하는 것보다 오래 걸릴 수 있습니다. 이는 주로 스킵에 영향을 줍니다. 저장 크기를 굉장히 크게 만드는 모드를 사용하는 경우 이 기능을 끄는 것을 원할 것입니다.</LWMDSstoringTimeConsidersStackSizeDesc>
+  <LWM_DS_defaultStoragePriority>딥 스토리지의 저장 우선 순위 기본값:</LWM_DS_defaultStoragePriority>
+  <LWM_DS_userInterface>사용자 설정</LWM_DS_userInterface>
+  <LWM_DS_useEjectButton>"꺼내기"(떨어뜨리기) 버튼 표시</LWM_DS_useEjectButton>
+  <LWM_DS_useEjectButtonDesc>[내용] 탭에 [꺼내기] 단추를 표시합니다.  이 설정을 변경하면 즉시 적용됩니다.</LWM_DS_useEjectButtonDesc>
+  <LWM_DS_useDSRightClick>딥 스토리지 우클릭 사용자 설정</LWM_DS_useDSRightClick>
+  <LWM_DS_useDSRightClickDesc>커스텀 딥 스토리지 마우스 우클릭 인터페이스는 확실히 작동하며, 듀얼 와이어드 같은 모드와 무기 로커를 사용한다면 물건들을 훨씬 쉽게 사용이 가능합니다. 바닐라의 논리 문제가 생길 경우 이 기능을 비활성화하십시오. 그러나 일부 작업을 더 어렵게 만들 수 있습니다 (예: 캐러밴 적재). 참고: 이 기능을 비활성화 하면 게임의 설정을 망가뜨릴 수 있습니다.\n\n적용하려면 재시작해야 합니다.</LWM_DS_useDSRightClickDesc>
+  <LWM_DS_Storage_ArchitectMenuSettings>건축 메뉴의 위치 :</LWM_DS_Storage_ArchitectMenuSettings>
+  <LWM_DS_Storage_ArchitectMenuAlwaysShowCategory>항상 저장소 카테고리를 표시하시겠습니까?</LWM_DS_Storage_ArchitectMenuAlwaysShowCategory>
+  <LWM_DS_Storage_ArchitectMenuAlwaysShowDesc>모든 딥 스토리지 장치의 기본 위치는 건설 메뉴의 "저장고"범주에 있습니다. 변경하면, 기본적으로, 저장소 범주가 사라집니다 - 그리고 다른 모드에서 추가된 어떠한 저장고 범주의 것도 없앨 것입니다. 딥 스토리지 장치가 없어도 항상 그대로 두려면 이 옵션을 선택하십시오.</LWM_DS_Storage_ArchitectMenuAlwaysShowDesc>
+  <LWM_DS_Storage_ArchitectMenuMoveALL>모든(거의) 저장소를 여기에 넣습니까?</LWM_DS_Storage_ArchitectMenuMoveALL>
+  <LWM_DS_Storage_ArchitectMenuMoveALLDesc>바닐라 선반 또는 다른 개조의 저장소와 같은 것을 "저장고"로 옮기려면 이것을 확인하십시오. "생산" 저장 건물 (예 : 호퍼)은 이동되지 않습니다. 완전히 끄려면 다시 시작해야 합니다! 이 항목을 선택 취소하면 다시 시작할 때까지 항목이 "가구"로 표시됩니다.</LWM_DS_Storage_ArchitectMenuMoveALLDesc>
+  <LWMDSoverCapacityCheck>저장소 용량을 초과하는지 확인</LWMDSoverCapacityCheck>
+  <LWMDSoverCapacityCheckDesc>하나 이상의 물건이 저장구역에 들어간 경우, 정착민들은 이를 정리해야 합니다. 이 기능을 끄면 이를 방지할 수 있습니다.\n\n다른 저장 모드가 작동하도록 하려면 이 기능을 끄십시오:\n림팩토리</LWMDSoverCapacityCheckDesc>
+  <LWMDSperDSUSettings>실험: 각 유형별 건물의 저장 설정 변경: 주의</LWMDSperDSUSettings>
+  <LWMDSperDSUturnOn>사용자 수정 건물 설정 켜기:</LWMDSperDSUturnOn>
+  <LWMDSperDSUturnOnDesc>이를 통해 각 딥 스토리지 건물의 속성을 편집할 수 있습니다! 아무 것도 부수지 마, 알았지? 이 기능을 끄면 모든 설정이 기본값으로 재설정됩니다.</LWMDSperDSUturnOnDesc>
+  <LWMDSperDSUWarning>참고: 이 기능을 활성화하지 않으면 설정이 저장되지 않습니다!</LWMDSperDSUWarning>
+  <LWMDSpDSUlabel>레이블</LWMDSpDSUlabel>
+  <LWMDSpDSUshowContents>이 유형의 건물의 내용 표시</LWMDSpDSUshowContents>
+  <LWMDSpDSUoverlay>사용할 카운트 오버레이 (작은 흰색 숫자)</LWMDSpDSUoverlay>
+  <LWMDSpDSUstoragePriority>이 건물의 기본 저장 순위</LWMDSpDSUstoragePriority>
+  <LWMDSpDSUchangeFilterQ>이 건물에 어떤 품목이 허용됩니까?</LWMDSpDSUchangeFilterQ>
+  <LWMDSpDSUchangeFilterQDesc>사용자 정의 항목 목록을 사용하지 않는 경우, 이 항목을 선택 취소하십시오.</LWMDSpDSUchangeFilterQDesc>
+  <LWM_DS_Default>(기본값: {0})</LWM_DS_Default>
+  <LWM.ResetAllToDefault>기본값으로 초기화</LWM.ResetAllToDefault>
+</LanguageData>

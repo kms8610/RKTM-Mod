@@ -48,10 +48,6 @@
   <!--1465459039_190519_Rimlaser-->
   <ChangeLaserColor.reportString>광선 색 변경</ChangeLaserColor.reportString>
 
-  <!--1496570408_181117_VGP Garden Canning-->
-  <Canning_FillUniversalFermenter.reportString>TargetA 채우는 중.</Canning_FillUniversalFermenter.reportString>
-  <Canning_TakeProductOutOfUniversalFermenter.reportString>TargetA 생산품 꺼내는 중.</Canning_TakeProductOutOfUniversalFermenter.reportString>
-
   <!--1512478761_190627_Expanded Roofing-->
   <PerformRoofMaintenance.reportString>TargetA의 지붕 보수 작업 중.</PerformRoofMaintenance.reportString>
 

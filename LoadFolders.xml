@@ -91,7 +91,6 @@
 	<li IfModActive="neceros.reinforcedwalls">Reinforced Walls - 1929389479 [1.2]</li>
 	<li IfModActive="ratys.rtfuse">RT Fuse - 728314182 [1.2]</li>
 	<li IfModActive="neceros.androidsexpanded">Androids Expanded - 2179977828 [1.2]</li>
-	<li IfModActive="sarg.alphabiomes">Alpha Biomes - 1841354677 [1.2]</li>
 	<li IfModActive="Torann.ARimworldOfMagic">A RimWorld of Magic - 1201382956 [1.2]</li>
 	<!-- 20.09.07 -->
 	<li IfModActive="VanillaExpanded.VEE">Vanilla Events Expanded - 1938420742 [1.2]</li>
@@ -116,7 +115,6 @@
 	<li IfModActive="fluffy.animaltab">Animal Tab - 712141500 [1.2]</li>
 	<li IfModActive="VouLT.BetterPawnControl">Better Pawn Control - 1541460369 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VPlantsESucculents">Vanilla Plants Expanded - Succulents - 2198652536 [1.2]</li>
-	<li IfModActive="VanillaExpanded.VBrewE">Vanilla Brewing Expanded - 2186560858 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VFEArt">Vanilla Furniture Expanded - Art - 1968134023 [1.2]</li>
 	<li IfModActive="OskarPotocki.VFE.Insectoid">Vanilla Factions Expanded - Insectoids - 2149755445 [1.2]</li>
 	<!-- 20.09.19 -->
@@ -127,8 +125,6 @@
 	<li IfModActive="aRandomKiwi.MercenariesForMe">Mercenaries For Me - 1832318107 [1.2]</li>
 	<li IfModActive="user19990313.RuntimeGC">RuntimeGC - 2228430510 [1.2]</li>
 	<li IfModActive="falconne.BWM">Better Workbench Management - 935982361 [1.2]</li>
-	<!-- 20.09.26 -->
-	<li IfModActive="dismarzero.VGP.VGPGardenDrinksUF">VGP Garden Drinks UF - 2167582651 [1.2]</li>
 	<!-- 20.09.28 -->
 	<li IfModActive="RadZerp.neoRimNauts">RimNauts - 2198026141 [1.2]</li>
 	<li IfModActive="Aelanna.EccentricTech.FoxysArmory">Eccentric Tech - Foxy's Armory - 1828175049 [1.2]</li>
@@ -197,7 +193,6 @@
 	<li IfModActive="ty.animalhoods">Animal Hoods - 2004612072 [1.2]</li>
 	<li IfModActive="akreedz346.antiairartillerycontinued">Anti-Air Artillery [Unofficial Update] - 2045686960 [1.2]</li>
 	<li IfModActive="Shinzy.Apparello">Apparello 2 - 728381322 [1.2]</li>
-	<li IfModActive="Teok25.ArchotechExpanded">Archotech Expanded - 1442734859 [1.2]</li>
 	<li IfModActive="jelly.asphalt">Asphalt - 2071681820 [1.2]</li>
 	<li IfModActive="Roskii.Astoriel">Astoriel - 1342510409 [1.2]</li>
 	<li IfModActive="n7huntsman.ceramics">Ceramics - 1833163132 [1.2]</li>
@@ -265,7 +260,6 @@
 	<!-- 20.11.19 -->
 	<li IfModActive="sarg.rimbees">RimBees - 1558161673 [1.2]</li>
 	<li IfModActive="Agracore.BSM">Better Survival Meals - 2283449489 [1.2]</li>
-	<li IfModActive="Orion.Gastronomy">Gastronomy - 2279786905 [1.2]</li>
 	<!-- 20.11.20 -->
 	<li IfModActive="vanillaexpanded.achievements">Vanilla Achievements Expanded - 2288125657 [1.2]</li>
 	<!-- 20.11.22 -->
@@ -322,7 +316,6 @@
 	<!-- 20.12.27 -->
 	<li IfModActive="Harkon.GunNut.Chapter2">Gun Nut - Chapter #2 - 2239800263 [1.2]</li>
 	<li IfModActive="Taranchuk.ClaySoldeirs">Clay Soldier Race - 2307153650 [1.2]</li>
-	<li IfModActive="shakesthespeare.RimsecSecurity">Rimsec Security - 2323762086 [1.2]</li>
 	<!-- 20.12.28 -->
 	<li IfModActive="Orion.Hospitality">Hospitality - 753498552 [1.2]</li>
 	<li IfModActive="Dubwise.Rimefeller">Rimefeller - 1321849735 [1.2]</li>
@@ -330,19 +323,13 @@
 	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856 [1.2]</li>
 	<li IfModActive="tachyonite.pawnmorpherpublic">Pawnmorpher - 1786466855 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Vanilla Traits Expanded - 2296404655 [1.2]</li>
-	<li IfModActive="Mlie.CallofCthulhuCults">Call of Cthulhu - Cults (Continued) - 2249174783 [1.2]</li>
 	<!-- 2021.01.01 -->
 	<li IfModActive="avius.prisonlabor">Prison Labor - 1899474310 [1.2]</li>
 	<li IfModActive="spdskatr.projectrimfactory.legacy">Project RimFactory Revived - LEGACY - 2340838603 [1.2]</li>
-	<!-- 2021.01.02 -->
-	<li IfModActive="zymex.prf.lite">Project RimFactory Lite - 2325176756 [1.2]</li>
 	<!-- 2021.01.06 -->
 	<li IfModActive="AR13S.Arachne1point0">Arachne Race - 1589454687 [1.2]</li>
 	<li IfModActive="archotech.droids">Archotech Droids - 2218633164 [1.2]</li>
-	<li IfModActive="DerekBickley.LTOColonyGroupsFinal">Colony Groups - 2345493945 [1.2]</li>
-	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700 [1.2]</li>
 	<li IfModActive="automatic.recipeicons">Recipe icons - 1616643195 [1.2]</li>
-	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013 [1.2]</li>
 	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VCookE">Vanilla Cooking Expanded - 2134308519 [1.2]</li>
 	<!-- 2021.01.08 -->
@@ -350,7 +337,29 @@
     <li IfModActive="fluffy.backuppower">Backup Power - 2084493662 [1.2]</li>
 	<li IfModActive="Teok25.ArchotechExpanded.Prosthetics">Archotech Expanded Prosthetics - 1467604976 [1.2]</li>
 	<li IfModActive="MagAgent.EvolvedOrgansRedux1.2">EvolvedOrgansRedux - 2333818380 [1.2]</li>
-	<li IfModActive="OskarPotocki.VFE.Mechanoid">Vanilla Factions Expanded - Mechanoids - 2329011599 [1.2]</li>
+	<!-- 2021.01.11 -->
+	<li IfModActive="LingLuo.GhostArmy">GhostArmy - 1545401584</li>
+	<li IfModActive="dismarzero.VGP.VGPGardenCanning">VGP Garden Canning - 2007062033</li>
+	<li IfModActive="Teok25.ArchotechExpanded">Archotech Expanded - 1442734859</li>
+	<li IfModActive="Mlie.CallofCthulhuCults">Call of Cthulhu - Cults (Continued) - 2249174783</li>
+	<li IfModActive="LWM.DeepStorage">Deep Storage - 1617282896</li>
+	<li IfModActive="Orion.Gastronomy">Gastronomy - 2279786905</li>
+	<li IfModActive="zymex.prf.lite">Project RimFactory Lite - 2325176756</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013</li>
+	<li IfModActive="OskarPotocki.VFE.Mechanoid">Vanilla Factions Expanded - Mechanoids - 2329011599</li>
+	<li IfModActive="dismarzero.VGP.VGPGardenDrinksUF">VGP Garden Drinks UF - 2167582651</li>
+	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700</li>
+	<!-- 2021.01.12 -->
+	<li IfModActive="VanillaExpanded.VAEAS">Vanilla Animals Expanded — Arid Shrubland - 1836900626</li>
+	<!-- 2021.01.14 -->
+	<li IfModActive="sarg.alphabiomes">Alpha Biomes - 1841354677</li>
+	<li IfModActive="APEX.ARL">Apex Rimworld Legends - 1688705593</li>
+	<li IfModActive="DerekBickley.LTOColonyGroupsFinal">Colony Groups - 2345493945</li>
+	<li IfModActive="Harkon.GunNut.Community">Gun Nut - Community Pack - 2268285121</li>
+	<li IfModActive="historic.IndustrialRollers">Industrial Rollers - 784327493</li>
+	<li IfModActive="shakesthespeare.RimsecSecurity">Rimsec Security - 2323762086</li>
+	<li IfModActive="VanillaExpanded.VAEAU">Vanilla Animals Expanded — Australia - 1963681588</li>
+	<li IfModActive="VanillaExpanded.VBrewE">Vanilla Brewing Expanded - 2186560858</li>
   </v1.2>
 
 </loadFolders>

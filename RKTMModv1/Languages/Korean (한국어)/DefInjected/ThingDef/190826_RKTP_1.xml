@@ -1434,28 +1434,6 @@
   <Apparel_Socks.label>양말</Apparel_Socks.label>
   <Apparel_work_gloves.label>작업용 장갑</Apparel_work_gloves.label>
 
-  <!--1496570408_181117_VGP Garden Canning-->
-  <MealCannedFood.description>부패를 방지하기 위해 통조림에 밀봉하였습니다.</MealCannedFood.description>
-  <CannedFruit.label>과일 통조림</CannedFruit.label>
-  <MealCannedFood.label>통조림</MealCannedFood.label>
-  <CannedMeat.label>고기 통조림</CannedMeat.label>
-  <CannedVeg.label>야채 통조림</CannedVeg.label>
-  <VG_CanningFactory.label>통조림 기계</VG_CanningFactory.label>
-  <VG_CanningFactory_Blueprint.label>통조림 기계 (청사진)</VG_CanningFactory_Blueprint.label>
-  <VG_CanningFactory_Blueprint_Install.label>통조림 기계 (청사진)</VG_CanningFactory_Blueprint_Install.label>
-  <VG_CanningFactory_Frame.label>통조림 기계 (건설 중)</VG_CanningFactory_Frame.label>
-  <VG_CanningFactory.description>다른 종류의 음식을 보존하거나 식사를 만들 수 있도록 설정할 수 있는 통조림 기계입니다.</VG_CanningFactory.description>
-  <VG_CanningFactory_Frame.description>다른 종류의 음식을 보존하거나 식사를 만들 수 있도록 설정할 수 있는 통조림 기계입니다.</VG_CanningFactory_Frame.description>
-  <CanningFactory.label>통조림 작업대</CanningFactory.label>
-  <CanningFactory_Blueprint.label>통조림 작업대 (청사진)</CanningFactory_Blueprint.label>
-  <CanningFactory_Blueprint_Install.label>통조림 작업대 (청사진)</CanningFactory_Blueprint_Install.label>
-  <CanningFactory_Frame.label>통조림 작업대 (건설 중)</CanningFactory_Frame.label>
-  <CannedFruit.description>부패를 방지하기 위해 과일을 조리하고 통조림에 밀봉하였습니다.</CannedFruit.description>
-  <CannedMeat.description>부패를 방지하기 위해 고기를 조리하고 통조림에 밀봉하였습니다.</CannedMeat.description>
-  <CanningFactory.description>식품을 밀봉하기 위해 강철을 적재해둬야 합니다. 고기와 야채들을 통조림으로 만들수 있습니다.</CanningFactory.description>
-  <CanningFactory_Frame.description>식품을 밀봉하기 위해 강철을 적재해둬야 합니다. 고기와 야채들을 통조림으로 만들수 있습니다.</CanningFactory_Frame.description>
-  <CannedVeg.description>부패를 방지하기 위해 야채를 조리하고 통조림에 밀봉하였습니다.</CannedVeg.description>
-
   <!--1498128603_190627_[1.0]-FuelBurning-->
   <SprinkledFuelSmall.description>작은 충격에도 불이 붙을 수 있으며, 빠르게 타들어갑니다. 신관으로도 이용할 수 있습니다.</SprinkledFuelSmall.description>
   <SprinkledFuelSmall_Frame.description>작은 충격에도 불이 붙을 수 있으며, 빠르게 타들어갑니다. 신관으로도 이용할 수 있습니다.</SprinkledFuelSmall_Frame.description>

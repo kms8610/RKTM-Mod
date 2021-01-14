@@ -86,17 +86,6 @@
   <ASDoBillsShoppingLists.verb>인쇄합니다.</ASDoBillsShoppingLists.verb>
   <ASDoBillsShoppingLists.gerund>인쇄하는 중.</ASDoBillsShoppingLists.gerund>
 
-  <!--1496570408_181117_VGP Garden Canning-->
-  <DoBillsCanningMachine.label>음식 통조림</DoBillsCanningMachine.label>
-  <DoBillsCanningMachine.verb>밀봉</DoBillsCanningMachine.verb>
-  <DoBillsCanningMachine.gerund>밀봉 중</DoBillsCanningMachine.gerund>
-  <Canning_WorkGiver_FillUniversalFermenter.verb>채우기</Canning_WorkGiver_FillUniversalFermenter.verb>
-  <Canning_WorkGiver_FillUniversalFermenter.label>통조림 기계 채우기</Canning_WorkGiver_FillUniversalFermenter.label>
-  <Canning_WorkGiver_FillUniversalFermenter.gerund>채우는 중</Canning_WorkGiver_FillUniversalFermenter.gerund>
-  <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.verb>꺼내기</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
-  <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.label>통조림 기계 생산품 꺼내기</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.label>
-  <Canning_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>꺼내는 중</Canning_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
-
   <!--1505332648_190519_Gods of Elona [1.0]-->
   <DoBillsElona_altar.label>제단</DoBillsElona_altar.label>
   <DoBillsElona_altar.verb>제단</DoBillsElona_altar.verb>

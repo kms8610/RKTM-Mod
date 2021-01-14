@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PRF_Shearer.label>털 깎는 기계</PRF_Shearer.label>
+  <PRF_Shearer.description>행동감지식 산업용 크기의 전단 클리퍼가 있는 스테이션. 정착지 동물에서 양모를 신속하고 자동으로 추출합니다.\n\n진행를 위해 동물을 끌어들이기 위한 음식과 함께 보관하십시오. 전담된 동물이 서 있는 곳에 생산물을 떨어뜨립니다.</PRF_Shearer.description>
+  <PRF_Milker.label>착유기</PRF_Milker.label>
+  <PRF_Milker.description>농장 동물의 젖을 짜기 위해 유선을 찾는 보조 동력 튜브가 장착된 스테이션입니다.\n\n진행을 위해 동물을 끌어들이기 위한 음식과 함께 보관하십시오. 착유 된 동물이 서 있는 곳에 생산물을 떨어뜨립니다.</PRF_Milker.description>
+  <PRF_GenericAnimalHarvester.label>일반 동물 수확기</PRF_GenericAnimalHarvester.label>
+  <PRF_GenericAnimalHarvester.description>더욱 이국적인 종으로부터 모든 종류의 동물성 제품을 부드럽게 추출할 수 있는 다양한 도구를 갖춘 정교한 시설입니다.\n\n진행을 위해 동물을 끌어들이기 위한 음식과 함께 보관하십시오. 동물이 서 있는 곳에 생산물을 떨어뜨립니다.</PRF_GenericAnimalHarvester.description>
+  <PRF_GenericAnimalHarvester_II.label>첨단 동물 수확기</PRF_GenericAnimalHarvester_II.label>
+  <PRF_GenericAnimalHarvester_II.description>동물로부터 다양한 제품을 수확할 수 있는 첨단 동물 수확기로, 전면에 동력 승압기로 더 크게 만들어진 유인구역이 있습니다. RimFridge가 설치되어 있다면 시간이 흘러도 음식이 상하지 않도록 냉동됩니다.</PRF_GenericAnimalHarvester_II.description>
+  <PRF_Slaughterhouse.label>도축장</PRF_Slaughterhouse.label>
+  <PRF_Slaughterhouse.description>카메라와 초보적인 컴퓨터를 사용하여 동물의 개체 수를 추적하고 정의된 범위 내로 유지하는 자동 도축장입니다.</PRF_Slaughterhouse.description>
+  <PRF_RecipeDatabase.label>계획서 데이터베이스</PRF_RecipeDatabase.label>
+  <PRF_RecipeDatabase.description>휴대용 제작법 데이터베이스는 근처의 작업대에서 를 가져올 수 있습니다. 그 후에 조립기(들) 가까이에 설치되면 조립기에 저장된 를 업로드합니다.\n\n파란 칸은 데이터베이스의 불러오는 범위입니다.\n\n데이터베이스가 옮겨지거나 부서진다면 업로드된 제작법이나 주문서도 없어집니다.\n\n이 많은 버튼들의 기능이 뭔지 궁금합니다...</PRF_RecipeDatabase.description>
+  <PRF_TypeOneAssembler_I.label>조립기</PRF_TypeOneAssembler_I.label>
+  <PRF_TypeOneAssembler_I.description>컴퓨터에 의해 제어되는 자동 조립기입니다. 조립기라고 하지만, 석재 벽돌 절단 및 제련 작업과 같은 간단한 작업도 수행할 수 있습니다.\n\n인접한 데이터베이스를 내려받습니다.\n\n하얀 칸은 입력 범위, 파란 칸은 Db 범위, 노란 칸은 출력입니다.</PRF_TypeOneAssembler_I.description>
+  <PRF_TypeTwoAssembler_I.label>적응형 조립기</PRF_TypeTwoAssembler_I.label>
+  <PRF_TypeTwoAssembler_I.description>기초적인 AI에 의해 제어되는 자동 조립기.\n\n간단한 인공 신경망은 학습이 가능하여 단일 를 더욱 정확하고 효율적으로 작업합니다. 처리 용량과 메모리 용량이 제한되어 있으므로, 현재 사용하지 않는 알고리즘을 천천히 덮어씁니다.\n\n인접한 데이터베이스를 내려받습니다.\n\n하얀 칸은 입력 범위, 파란 칸은 DB 범위, 노란 칸은 출력입니다.</PRF_TypeTwoAssembler_I.description>
+  <PRF_4k_Battery.label>4k 축전지</PRF_4k_Battery.label>
+  <PRF_4k_Battery.description>4000와트의 전력을 저장할 수 있는 축전지. 50%의 효율을 가지고 있어 충전하는데 8k WD가 소요된다는 것을 의미합니다.</PRF_4k_Battery.description>
+  <PRF_16k_Battery.label>16k 축전지</PRF_16k_Battery.label>
+  <PRF_16k_Battery.description>16,000Wd의 전력을 저장할 수 있는 축전지입니다.</PRF_16k_Battery.description>
+  <PRF_64k_Battery.label>64k 축전지</PRF_64k_Battery.label>
+  <PRF_64k_Battery.description>64,000와트의 전력을 저장할 수 있는 효율적인 방수 상위 축전지. Spdskatr 인더스트리는 단락으로 인한 어떠한 손상도 책임지지 않습니다.</PRF_64k_Battery.description>
+  <PRF_256k_Battery.label>256k 축전지</PRF_256k_Battery.label>
+  <PRF_256k_Battery.description>256,000와트의 전력을 저장할 수 있는 굉장히 효율적인 AI기반의 축전지. 고장나지 않습니다. 또한 굉장히 아름답습니다. Spdskatr 인더스트리는 단락으로 인한 어떠한 손상도 책임지지 않습니다.</PRF_256k_Battery.description>
+  <PRF_ResearchTerminal.label>공장 연구 단말</PRF_ResearchTerminal.label>
+  <PRF_ResearchTerminal.description>복합 분석기처럼 연결 가능하지만, 약간 특별한 기능을 갖고 있습니다.\n간단한 연구대처럼 작업할 수 있지만 고급 연구대 없이 어떤 연구도 할 수 있습니다.\n물론 연구 속도를 증가시켜줍니다.\n후반 공장 연구를 위해 필요합니다.</PRF_ResearchTerminal.description>
+  <TableRoboticMachining.label>로봇 기계 작업대</TableRoboticMachining.label>
+  <TableRoboticMachining.description>보다 많은 자동화 건물들을 위한 부품, 골조를 제작하기 위한 작업대입니다.</TableRoboticMachining.description>
+  <PRF_SelfCookerI.label>공업용 조리기</PRF_SelfCookerI.label>
+  <PRF_SelfCookerI.description>재료를 껍질을 벗기고, 잘게 썰고, 자르고, 섞고, 요리하고, 찌고, 굽고, 구워 맛있는 음식과 다른 식품으로 가공하는 음식 처리 모듈 집합체입니다.\n\n모든 정착지의 생계 요구를 충족시키기 위한 이 원스톱 솔루션으로 다시는 식사를 망치지 마세요. 그냥 보고만 있으면 됩니다!\n\n조리 레벨 8에 1x의 속도로 간단한 식사만 가능\n\n하얀 칸은 입력 범위입니다.\n노란 칸은 출력 범위입니다</PRF_SelfCookerI.description>
+  <PRF_SelfCookerII.label>현대식 자동조리기</PRF_SelfCookerII.label>
+  <PRF_SelfCookerII.description>재료 껍질을 벗기고, 잘게 썰고, 자르고, 섞고, 요리하고, 찌고, 굽고, 구워먹을 수 있는 향상된 음식 처리 모듈입니다.\n\n모든 정착지의 생계 요구를 충족시키기 위해 원스톱 솔루션으로 다시는 식사를 망치지 마세요. 그냥 보세요!\n\n전기 스토브 계획서 복사\n\n1.5x의 속도\n청결도 5\n조리 등급 12</PRF_SelfCookerII.description>
+  <PRF_SelfCookerIII.label>우주 조리기</PRF_SelfCookerIII.label>
+  <PRF_SelfCookerIII.description>재료를 껍질을 벗기고, 잘게 썰고, 자르고, 섞고, 요리하고, 찌고, 굽고, 구워먹을 수 있는 다양한 음식 처리 모듈.\n\n모든 정착지의 생계 요구를 충족시키기 위해 원스톱 솔루션으로 다시는 식사를 망치지 마세요. 그냥 보세요!\n\n2x의 속도\n청결도 20\n조리 등급 20</PRF_SelfCookerIII.description>
+  <PRF_MeatGrinder.label>육류 분쇄기</PRF_MeatGrinder.label>
+  <PRF_MeatGrinder.description>시체를 육류, 가죽 등 사용 가능한 재료 더미로 가공하는 정밀 분쇄기.</PRF_MeatGrinder.description>
+  <PRF_FermentingBarrel.label>발효 탱크</PRF_FermentingBarrel.label>
+  <PRF_FermentingBarrel.description>완전 자동 발효. 최고의 품질을 유지하기 위해 온도를 자체 조절합니다.</PRF_FermentingBarrel.description>
+  <PRF_SelfPrepper.label>산업용 식품 가공기</PRF_SelfPrepper.label>
+  <PRF_SelfPrepper.description>생 음식 자원을 조리 및 양조에 더 적합한 재료로 끓이거나 갈거나 분쇄하도록 설계된 기계.</PRF_SelfPrepper.description>
+  <PRF_DroneCultivator_I.label>드론 수확기</PRF_DroneCultivator_I.label>
+  <PRF_DroneCultivator_I.description>간단한 드론을 이용하여 씨를 뿌리고, 물을 주고, 농작물을 수확하는 최초의 자동 재배기입니다. 느리지만 자동화된 농사를 향한 좋은 첫 걸음입니다.\n\n기본 성능:\n드론: 1 \n작업 범위: 11x11 \n작업 유형: 재배\n작업 시간: 1시간마다 교대\n기술 레벨: 10</PRF_DroneCultivator_I.description>
+  <PRF_DroneCultivator_II.label>드론 수확기 mkII</PRF_DroneCultivator_II.label>
+  <PRF_DroneCultivator_II.description>MkII 자동 재배기. 향상된 드론들이 재배 작업을 수행하여, 이제 드론들은 더 나은 기능을 제공할 수 있게 되었습니다. 저장구역이나 입출력 포트, 상자가 범위 내에 있다면 그곳으로 운반할 것입니다.\n\n기본 성능:\n드론들: 2 \n작업 범위: 11x11\n작업 유형: 재배 + 운반\n작업 시간: 종일\n기술 레벨: 15</PRF_DroneCultivator_II.description>
+  <PRF_DroneCultivator_II_sun.label>드론 수확기 mkII(태양등)</PRF_DroneCultivator_II_sun.label>
+  <PRF_DroneCultivator_II_sun.description>MkII 자동 재배기. 향상된 드론들이 재배 작업을 수행하여, 이제 드론들은 더 나은 기능을 제공할 수 있게 되었습니다. 저장구역이나 입출력 포트, 상자가 범위 내에 있다면 그곳으로 운반할 것입니다. 태양등이 있으며 연구를 통해 레벨 20까지 업그레이드할 수 있습니다.\n\n기본 성능:\n드론들: 2 \n작업 범위: 11x11\n작업 유형: 재배 + 운반\n작업 시간: 종일\n기술 레벨: 15</PRF_DroneCultivator_II_sun.description>
+  <PRF_DroneCultivator_III.label>드론 수확기 mkIII</PRF_DroneCultivator_III.label>
+  <PRF_DroneCultivator_III.description>MkIII 자동 재배기. 향상된 드론들이 재배 작업을 수행하여, 이제 드론들은 더 나은 기능을 제공할 수 있게 되었습니다. 저장구역이나 입출력 포트, 상자가 범위 내에 있다면 그곳으로 운반할 것입니다.\n\n기본 성능:\n드론들: 5 \n작업 범위: 11x11 - 33x33\n작업 유형: 재배 + 운반\n작업 시간: 종일\n기술 레벨: 20</PRF_DroneCultivator_III.description>
+  <PRF_OldTypeCultivator_I.label>메카나이트 수확기</PRF_OldTypeCultivator_I.label>
+  <PRF_OldTypeCultivator_I.description>이것은 재배지 또는 수경 재배기에 파종하고, 수확하고 유지하는 작업 메카나이트를 수용하는 최첨단 수확기입니다. 측면에 풀 스펙트럼 LED 태양등이 장착되어 있습니다. 또한, 추가 처리를 위해 지정된 곳에 배출됩니다.\n\n기본 정보:\n드론: 없음, 1작업 공간\n작업범위: 11x11\n작업시간: 종일\n속도: 50\n스킬 레벨: 20</PRF_OldTypeCultivator_I.description>
+  <PRF_OldTypeCultivator_Sun.label>메카나이트 수확기 (태양등)</PRF_OldTypeCultivator_Sun.label>
+  <PRF_OldTypeCultivator_Sun.description>이것은 재배지 또는 수경 재배기에 파종하고, 수확하고 유지하는 작업 메카나이트를 수용하는 최첨단 수확기입니다. 측면에 풀 스펙트럼 LED 태양등이 장착되어 있습니다. 또한, 추가 처리를 위해 지정된 곳에 배출됩니다.\n\n기본 정보:\n드론: 없음, 1작업 공간\n작업범위: 11x11\n작업시간: 종일\n속도: 50\n스킬 레벨: 20</PRF_OldTypeCultivator_Sun.description>
+  <PRF_OldTypeCultivator_Xl.label>메카나이트 XL 수확기</PRF_OldTypeCultivator_Xl.label>
+  <PRF_OldTypeCultivator_Xl.description>이것은 재배지 또는 수경 재배기에 파종하고, 수확하고 유지하는 작업 메카나이트를 수용하는 최첨단 XL 수확기입니다. 측면에 풀 스펙트럼 LED 태양등이 장착되어 있습니다. 또한, 추가 처리를 위해 지정된 곳에 배출됩니다.\n\n기본 정보:\n드론: 없음, 1작업 공간\n작업범위: 22x22\n작업시간: 종일\n속도: 12 (5x 빠름)\n스킬 레벨: 20</PRF_OldTypeCultivator_Xl.description>
+  <PRF_Sprinkler_I.label>스프링클러</PRF_Sprinkler_I.label>
+  <PRF_Sprinkler_I.description>확장된 반경의 식물에 물을 공급하여 건물당 1시간씩 성장시키는 건물. 효과는 중첩할 수 있습니다.</PRF_Sprinkler_I.description>
+  <PRF_Sprinkler_II.label>스프링쿨러 mkII</PRF_Sprinkler_II.label>
+  <PRF_Sprinkler_II.description>개량형 스프링쿨러는 고급 AI를 사용하여 작물이 필요로 하는 비옥도를 계산하여, 성장속도를 증가시킵니다. 라운드당 2시간씩 증가시킵니다. 효과는 중첩할 수 있습니다.</PRF_Sprinkler_II.description>
+  <PRF_MiniHelper.label>작은 작업장 도우미 스테이션</PRF_MiniHelper.label>
+  <PRF_MiniHelper.description>작은 작업실 도우미는 범위 내의 운반, 전원설정, 소방 및 청소를 할 수 있습니다.(전력 슬라이더를 사용해서 확장할 수 있습니다.)</PRF_MiniHelper.description>
+  <PRF_MiniDroneColumn.label>드론 기둥</PRF_MiniDroneColumn.label>
+  <PRF_MiniDroneColumn.description>알현실이나 식당을 청소하고, 화재를 진압하고, 화로에 연료를 주입할 수 있으며, 물건을 바닥에서 멀리 옮길 수 있는 편리한 드론 2대로 채워진 기둥입니다. 또한 지붕을 지탱할 수 있으며, 보기에 꽤 멋져보입니다.</PRF_MiniDroneColumn.description>
+  <PRF_StoneWorks.label>산업용 석재작업</PRF_StoneWorks.label>
+  <PRF_StoneWorks.description>CNC 라우터 같은 자동화된 기계는 돌덩어리를 벽돌로 만들 수 있고, 심지어 숙련된 예술품도 만들 수 있습니다.\n예술 등급: 10</PRF_StoneWorks.description>
+  <PRF_Recycler.label>스마트 재활용기</PRF_Recycler.label>
+  <PRF_Recycler.description>재활용기계는 대부분의 의류와 무기들을 약간의 손실을 비용으로 하여 원재료로 환원시킵니다.</PRF_Recycler.description>
+  <PRF_MrTsArtMachine.label>T의 예술 장치</PRF_MrTsArtMachine.label>
+  <PRF_MrTsArtMachine.description>손스워스의 예술 기계, 예술 레벨 14의 예술품을 제작할 수 있습니다.\n 소니는 3D 프린터에 큰 열정을 가지고 있었고, 많은 조립기들와 함께 예술품을 생산했으며, 그는 죽기 전에 이 기계를 만들었고, 이제 그것은 마침내 미래의 조각 군을 만들기 위해 추가되었습니다.\nRIP 손스워스 2020</PRF_MrTsArtMachine.description>
+  <PRF_MetalRefinery.label>금속 정제 공장</PRF_MetalRefinery.label>
+  <PRF_MetalRefinery.description>고분자 적층으로 희소 금속을 생산할 수 있는 금속 정제소입니다.</PRF_MetalRefinery.description>
+  <PRF_PartAssembler.label>부품 조립기</PRF_PartAssembler.label>
+  <PRF_PartAssembler.description>추가 생산을 하기 위해 바닐라 부품이나 PRF 부품을 만들 수 있는 사전 설정된 조립기입니다.</PRF_PartAssembler.description>
+  <PRF_FurnaceI.label>제철 용광로</PRF_FurnaceI.label>
+  <PRF_FurnaceI.description>최소한의 자동화 기능을 갖춘 간단한 초기 단계의 용광로입니다. 원치 않는 의복을 불태우고 생 물질을 유용한 재료로 제련할 수 있습니다.\n\n용광로를 둘러싸고 있는 흰색 셀에 있는 입력 물질(또는 쓰레기) 을 자동으로 가져가고, 하나의 셀의 입력 범위를 가지며, 완성된 금속을 지정된 셀로 출력(노란색 셀) 합니다.\n(막히지 않으려면 빠르게 치워줘야 하는 걸 기억하세요.)\n제련하는데 목재를 사용합니다.</PRF_FurnaceI.description>
+  <PRF_FurnaceII.label>산업용 용광로</PRF_FurnaceII.label>
+  <PRF_FurnaceII.description>이 두 번째 용광로는 물건을 태우고 원재료를 유용한 자원으로 만들 수 있는 발전된 산업용 용광로입니다.\n전기를 사용하여 불태울 때 나무 사용량을 줄입니다.</PRF_FurnaceII.description>
+  <PRF_FurnaceIII.label>전기 용광로</PRF_FurnaceIII.label>
+  <PRF_FurnaceIII.description>물건을 태우고 원재료를 유용한 자원으로 만들 수 있는 발전된 용광로로, 기존 용광로들보다 빠릅니다.\n\n(이 용광로는 프로젝트 림팩토리에서 제일 빠르고 좋습니다.)\n\n전기로와 화장터의 어떤 라도 갖고올 수 있습니다.</PRF_FurnaceIII.description>
+  <PRF_FuelingMachine.label>연료 공급 기계</PRF_FuelingMachine.label>
+  <PRF_FuelingMachine.description>발전기, 화로, 박격포 및 일반 연료/박격포에 사용하는 기타 모든 것을 주유할 수 있는 간단한 주유 기계입니다.\n일부 변형된 유형 등에도 연료를 공급할 수 있습니다. SoS, CE...\n흰색 셀에 있는 모든 것을 잡아당겨 앞에 있는 것(노란색 셀은 "앞면"을 가리킴) 에 연료를 공급합니다.\n\n("재보급 가능"한 건물과 작동합니다)\n또한 박격포에 포탄을 주입할 수 있습니다.</PRF_FuelingMachine.description>
+  <PRF_SmartHopper.label>스마트 호퍼</PRF_SmartHopper.label>
+  <PRF_SmartHopper.description>지정된 범위(흰색 셀) 로 주변의 물건을 집어올 수 있는 지능형 호퍼.\n토글해서 저장구역이나 땅에서 물건을 갖고오게 할 수 있습니다.\n조립기나 다른 주입기 같은 것처럼 밀어넣지 않고 보관만 합니다.\n벨트에서도 집어올 수 있습니다.\n아직 영양죽 배급기에는 공급할 수 없습니다...</PRF_SmartHopper.description>
+  <PRF_GrowzonePuller_I.label>재배구역 흡입기</PRF_GrowzonePuller_I.label>
+  <PRF_GrowzonePuller_I.description>재배 영역 끝에 부착하면 선택한 재배 영역 내에서 설정된 항목을 끌어옵니다. 인접 재배 영역에서 끌어오지는 않습니다.</PRF_GrowzonePuller_I.description>
+  <PRF_SimplePuller_I.label>물품 배출기 MK. I</PRF_SimplePuller_I.label>
+  <PRF_SimplePuller_I.description>A에서 B로 물품을 운반하는 배출기입니다. 설치하고 전원을 넣으면 저장구역, 입출력기, 벨트, 상자, 벨트, 저장고... 연결이 굉장히 자유롭습니다!\n\n배치한 후에 전원을 넣는 것을 잊지 마세요!</PRF_SimplePuller_I.description>
+  <PRF_SimplePuller_II.label>물품 배출기 Mk. II</PRF_SimplePuller_II.label>
+  <PRF_SimplePuller_II.description>MkI 흡입기보다 빠른 속도로 실행되는 업그레이드된 흡입기입니다. 저장구역, I/O, 벨트, 입출력 상자에서 벨트, 저장고... 굉장히 유연하게 연결할 수 있습니다!</PRF_SimplePuller_II.description>
+  <PRF_SimplePuller_II_Side.label>물품 방향 전환 배출기</PRF_SimplePuller_II_Side.label>
+  <PRF_SimplePuller_II_Side.description>물품을 A에서 B로 이동시키는 90도 각도의 배출기. 기본 배출기와 유사하지만 회전이 가능합니다!\n배치한 후 방향 (왼쪽/오른쪽) 을 바꿀 수 있습니다.</PRF_SimplePuller_II_Side.description>
+  <PRF_SimplePuller_II_Wall.label>내벽 물품 배출기</PRF_SimplePuller_II_Wall.label>
+  <PRF_SimplePuller_II_Wall.description>물품을 A에서 B로 보내는 벽면 물품 배출기입니다.\n\n이 배출기는 벽에 배치되며, 냉동고에서 사용할 수 있을 정도로 충분히 단열성이 뛰어나며, 누군가가 기어나가는 것을 원치 않는 감옥에서 사용할 수 있을만큼 충분히 견고합니다.\n\n배치한 후에 전원 넣는 것을 잊지 마세요!</PRF_SimplePuller_II_Wall.description>
+  <PRF_Conveyor_Simple_I.label>컨베이어 벨트</PRF_Conveyor_Simple_I.label>
+  <PRF_Conveyor_Simple_I.description>컨베이어 벨트는 한 쪽 끝에서 다른 쪽 끝으로 물건을 운반합니다. 저장고나 저장구역에 운반하거나 - 혹은 벨트가 끝나면 바닥에 물건을 놓아두게 됩니다.\n하지만 다소 세련되지 못해서, 공간만 있다면 가진 모든 것을 행복하게 놓아둘 것입니다.\n끝 부분을 다른 벨트의 측면으로 유도하기만 하면 원활하게 연결됩니다.</PRF_Conveyor_Simple_I.description>
+  <PRF_Conveyor_Simple_II.label>빠른 컨베이어 벨트</PRF_Conveyor_Simple_II.label>
+  <PRF_Conveyor_Simple_II.description>고속 컨베이어 벨트는 한 쪽 끝에서 다른 쪽 끝으로 물건을 운반합니다. 일반 벨트보다 2배 빠른 속도로 이동합니다. 저장고나 저장구역에 운반하거나 - 혹은 벨트가 끝나면 바닥에 물건을 놓아두게 됩니다.\n하지만 다소 세련되지 못해서, 공간만 있다면 가진 모든 것을 행복하게 놓아둘 것입니다.\n끝 부분을 다른 벨트의 측면으로 유도하기만 하면 원활하게 연결됩니다.</PRF_Conveyor_Simple_II.description>
+  <PRF_Conveyor_Simple_III.label>고속 컨베이어 벨트</PRF_Conveyor_Simple_III.label>
+  <PRF_Conveyor_Simple_III.description>고속 컨베이어 벨트는 한 쪽 끝에서 다른 쪽 끝으로 물건을 운반합니다. 일반 벨트보다 3배 빠르거나 빠른 벨트보다 1.5배 빠르게 이동합니다. 저장고나 저장구역에 운반하거나 - 혹은 벨트가 끝나면 바닥에 물건을 놓아두게 됩니다.\n하지만 다소 세련되지 못해서, 공간만 있다면 가진 모든 것을 행복하게 놓아둘 것입니다.\n끝 부분을 다른 벨트의 측면으로 유도하기만 하면 원활하게 연결됩니다.</PRF_Conveyor_Simple_III.description>
+  <PRF_Conveyor_Wall_I.label>벽 벨트</PRF_Conveyor_Wall_I.label>
+  <PRF_Conveyor_Wall_I.description>벽을 통과해 물품을 이동합니다! 이를 사용하여 벽을 가로지르거나 벽을 따라 물품을 이동할 수 있습니다. 아이템이 끝에 닿으면, 그곳이 방이라면 지면을 다 채울 때까지 이동합니다.</PRF_Conveyor_Wall_I.description>
+  <PRF_Conveyor_UG_I.label>지하 벨트</PRF_Conveyor_UG_I.label>
+  <PRF_Conveyor_UG_I.description>지하 컨베이어 벨트는 지하 터널로 물품을 운반합니다. 지하로 물품을 이동하려면, 지하 컨베이어 입구 및 출구를 사용해야 합니다.\n벽 아래로 이동이 가능하며, 기계나 다른 벨트를 연결할 필요가 없습니다.</PRF_Conveyor_UG_I.description>
+  <PRF_Conveyor_Connector_To_UG.label>지하 벨트 입구</PRF_Conveyor_Connector_To_UG.label>
+  <PRF_Conveyor_Connector_To_UG.description>지상의 컨베이어 벨트를 지하 컨베이어에 연결합니다. 이것은 지하 통로의 입구입니다.</PRF_Conveyor_Connector_To_UG.description>
+  <PRF_Conveyor_Connector_To_Floor.label>지하 벨트 출구</PRF_Conveyor_Connector_To_Floor.label>
+  <PRF_Conveyor_Connector_To_Floor.description>지하 컨베이어 벨트를 지상 컨베이어에 연결합니다. 이것은 지상으로 내보내는 출구이며, 컨베이어가 없으면 바닥에 물건을 떨어뜨립니다.</PRF_Conveyor_Connector_To_Floor.description>
+  <PRF_Conveyor_Splitter_I.label>컨베이어 분할기</PRF_Conveyor_Splitter_I.label>
+  <PRF_Conveyor_Splitter_I.description>매우 기본적인 AI로 처리되는 필터에 따라 컨베이어 벨트의 물품을 다른 방향으로 운반하는 자동화된 장치. 필터가 설정되지 않으면, 단순하게 방향에 따라 분할합니다.</PRF_Conveyor_Splitter_I.description>
+  <PRF_Conveyor_Splitter_UG.label>지하 분할기</PRF_Conveyor_Splitter_UG.label>
+  <PRF_Conveyor_Splitter_UG.description>눈에 보이지 않게 일반 분할기와 같은 역할을 합니다.</PRF_Conveyor_Splitter_UG.description>
+  <PRF_Conveyor_Splitter_Wall.label>벽 분배기</PRF_Conveyor_Splitter_Wall.label>
+  <PRF_Conveyor_Splitter_Wall.description>벽을 통과하는 컨베이어 분할기. 물품을 벽 벨트와 지상으로 옮길 수 있습니다.</PRF_Conveyor_Splitter_Wall.description>
+  <PRF_MineShaft.label>채석장</PRF_MineShaft.label>
+  <PRF_MineShaft.description>초기 채석장 입구, 폰이 산으로 들어가 원하는 것을 캐낼 수 있는 채석장으로, 가동 중 희귀/쓰레기 추가 물품을 찾을 가능성이 희박합니다.\n작동하려면 산 지형에 배치해야 합니다. (물품 교체 모드와 충돌할 수 있음)</PRF_MineShaft.description>
+  <PRF_DeepQuarry_mkI.label>회전식 드릴 (T1)</PRF_DeepQuarry_mkI.label>
+  <PRF_DeepQuarry_mkI.description>암석 덩어리, 재료와 부품을 포함하여 지하에서 지속해서 자원을 추출하는 초기 자동 채석장. 대략 8시간마다 한 번씩 무작위 자원을 생성합니다. (감염의 원인이 될 수 있습니다!)</PRF_DeepQuarry_mkI.description>
+  <PRF_DeepQuarry_mkII.label>파동식 드릴 (T2)</PRF_DeepQuarry_mkII.label>
+  <PRF_DeepQuarry_mkII.description>암석 덩어리, 재료와 부품을 포함하여 지하에서 지속해서 자원을 추출하는 자동 채석장. 대략 3시간마다 한 번씩 무작위 자원을 생성합니다. (감염의 원인이 될 수 있습니다)</PRF_DeepQuarry_mkII.description>
+  <PRF_DeepQuarry_mkIII.label>무작위 펄스 드릴(T3)</PRF_DeepQuarry_mkIII.label>
+  <PRF_DeepQuarry_mkIII.description>이것은 마지막 티어의 광석 채굴장으로, 감염을 일으키지 않고 희귀한 광석만 채굴할 것입니다.</PRF_DeepQuarry_mkIII.description>
+  <PRF_BillTypeMiner_I.label>고열 드릴 (T3)</PRF_BillTypeMiner_I.label>
+  <PRF_BillTypeMiner_I.description>최신 우주 기술의 자동 채굴기는 그 어느 때보다 정확해졌으며, 이제 채굴할 광석을 선택하고 심지어 전력량을 조절해서 속도를 조절할 수 있습니다. 1차 광석 유형을 설정하고 희귀 광석과 폐기물에서 보너스를 받을 것입니다.</PRF_BillTypeMiner_I.description>
+  <PRF_WallLight.label>벽 등</PRF_WallLight.label>
+  <PRF_WallLight.description>한 지역을 밝히는 전기 벽 등. 사람들이 전속력으로 움직이고 일하기 위해서는 빛이 필요합니다.\n\n이 등은 다른 벽 등들과 많은 부분이 다릅니다.\n작은 방이나 다른 작은 공간에 유용합니다.\n또한 색 조명 연구를 한다면 배치할 때 색상을 바꿀 수 있습니다.\n\n프로젝트 림팩토리에서 추가되었습니다.</PRF_WallLight.description>
+  <PRF_SunWallLight.label>태양벽등</PRF_SunWallLight.label>
+  <PRF_SunWallLight.description>작물이 충분히 자랄 수 있도록 주변을 밝게 비춰주지만, 매우 많은 전력을 소비하며, 밤에는 자동으로 꺼집니다.\n\nProject RimFactory에서 추가됨</PRF_SunWallLight.description>
+  <PRF_SunWallLight.comps.3.offMessage>작물 휴식기에 꺼짐</PRF_SunWallLight.comps.3.offMessage>
+  <PRF_IndustrialLamp.label>산업 등</PRF_IndustrialLamp.label>
+  <PRF_IndustrialLamp.description>한 지역을 밝히는 전기 벽 램프입니다.\n이 램프는 공장의 공간을 밝히기 위해 실내와 실외 모두 거대한 범위를 밝힐 수 있습니다.\n색 조명을 연구하면 배치할 때 색상을 바꿀 수 있습니다.\n\n프로젝트 림팩토리에서 추가되었습니다.</PRF_IndustrialLamp.description>
+  <PRF_Floorspotlight.label>바닥 조명등</PRF_Floorspotlight.label>
+  <PRF_Floorspotlight.description>한 지역을 밝히는 전기 벽 램프입니다.\n이 램프는 실내와 실외 모두 사용 가능합니다.\n또한 색 조명을 연구하면 배치한 후에도 색상을 바꿀 수 있습니다.\n\n프로젝트 림팩토리에서 추가되었습니다.</PRF_Floorspotlight.description>
+  <PRF_AutoCrafterSimple.label>자동 조립기 Mk-1</PRF_AutoCrafterSimple.label>
+  <PRF_AutoCrafterSimple.description>스킬 레벨 5의 제작기로, 초창기 버전의 자동 제작기입니다. 화살표가 작업대를 향하도록 하여 작업대 상호 작용 지점에 배치합니다. 자동 제작기는 또한 예술 작품도 만들 수 있지만, 예술 데이터베이스가 매우 제한적이고 명작들을 생산할 수 없습니다.</PRF_AutoCrafterSimple.description>
+  <PRF_AutoCrafter.label>자동 조립기 Mk-2</PRF_AutoCrafter.label>
+  <PRF_AutoCrafter.description>자동 제작기는 프로젝트 S.A.L의 중추로, 자체적으로 를 제작할 수 있는 작지만 강력한 건물입니다. 제작 레벨 12의 폰과 같습니다.</PRF_AutoCrafter.description>
+  <PRF_TheArtMachine.label>예술 장치</PRF_TheArtMachine.label>
+  <PRF_TheArtMachine.description>호스가 물을 뿜듯이 예술품을 뿜어냅니다. 예술 레벨 8.</PRF_TheArtMachine.description>
+  <PRF_TheArtMaster.label>예술 스승</PRF_TheArtMaster.label>
+  <PRF_TheArtMaster.description>격렬한 화산폭발이 용암을 뿜어내듯이 예술품을 뿜어냅니다. 예술 레벨 18.</PRF_TheArtMaster.description>
+  <PRF_OverclockedAutoAssembler.label>오버클럭 자동 조립기</PRF_OverclockedAutoAssembler.label>
+  <PRF_OverclockedAutoAssembler.description>1레벨의 초심자를 기준으로 작업을 수행하지만 매우 빠르게 작동합니다.</PRF_OverclockedAutoAssembler.description>
+  <PRF_OverclockedAutoAssemblerII.label>오버클럭 자동 조립기 mkII</PRF_OverclockedAutoAssemblerII.label>
+  <PRF_OverclockedAutoAssemblerII.description>끔찍한 품질의 물품을 생산해내지만, 꽤 빠르게 생산하는 데에는 문제가 되지 않습니다.</PRF_OverclockedAutoAssemblerII.description>
+  <PRF_SALAutoCooker.label>자동조리기 S.A.L</PRF_SALAutoCooker.label>
+  <PRF_SALAutoCooker.description>자동 조립기가 조리를 적절한 수준으로 하다지만, 자동 조리기는 12레벨에 버금가게 보다 빠르고 정확합니다.</PRF_SALAutoCooker.description>
+  <PRF_GodlyCrafter.label>경건한 S.A.L 제작기</PRF_GodlyCrafter.label>
+  <PRF_GodlyCrafter.description>너무 빨리 작동해서 모든 기대를 저버립니다. 고품질의 품목을 대량 생산하기에 안성맞춤입니다. 우주를 소각할 수도 있고 그렇지 않을 수도 있습니다.\n이제 정신이상증에 첫발을 내딛는 것일지도 몰라?!#.</PRF_GodlyCrafter.description>
+  <PRF_WoodCrate_I.label>작은 나무상자</PRF_WoodCrate_I.label>
+  <PRF_WoodCrate_I.description>(티어 1 상자) 16칸까지 저장할 수 있는 작은 상자입니다. 상자에 저장된 물품은 변질하지 않습니다.</PRF_WoodCrate_I.description>
+  <PRF_WoodCrate_II.label>나무상자</PRF_WoodCrate_II.label>
+  <PRF_WoodCrate_II.description>32칸까지 저장할 수 있는 거대한 상자입니다. 상자에 저장된 물품은 변질하지 않습니다.</PRF_WoodCrate_II.description>
+  <PRF_SteelCrate_I.label>작은 강철상자</PRF_SteelCrate_I.label>
+  <PRF_SteelCrate_I.description>64칸까지 저장할 수 있는 작은 강철 상자입니다. 상자에 저장된 물품은 변질하지 않습니다.</PRF_SteelCrate_I.description>
+  <PRF_SteelCrate_II.label>강철상자</PRF_SteelCrate_II.label>
+  <PRF_SteelCrate_II.description>128칸까지 저장할 수 있는 거대한 상자입니다. 상자에 저장된 물품은 변질하지 않습니다.</PRF_SteelCrate_II.description>
+  <PRF_DigitalStorageUnit_I.label>디지털 스토리지</PRF_DigitalStorageUnit_I.label>
+  <PRF_DigitalStorageUnit_I.description>768칸까지 저장할 수 있습니다. 물품의 보관 칸당 10W의 전력을 소모합니다. 정착지의 전력이 부족할 경우, 내부에 있는 물품들은 안전합니다만, 더 이상의 물품을 보관할 수 없습니다.</PRF_DigitalStorageUnit_I.description>
+  <PRF_IOPort_I.label>입출력 포트</PRF_IOPort_I.label>
+  <PRF_IOPort_I.description>(티어 3)\n화물 저장 플랫폼의 연결 포트입니다. 지도 내의 모든 범위에 있는 플랫폼에서 원격으로 입력/출력을 설정할 수 있습니다.</PRF_IOPort_I.description>
+  <PRF_FloorLampArrow.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_FloorLampArrow.description>
+  <PRF_FloorLampArrow.label>노란색 화살표 표시 바닥</PRF_FloorLampArrow.label>
+  <PRF_RedFloorLampArrow.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_RedFloorLampArrow.description>
+  <PRF_RedFloorLampArrow.label>빨간색 화살표 표시 바닥</PRF_RedFloorLampArrow.label>
+  <PRF_GreenFloorLampArrow.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_GreenFloorLampArrow.description>
+  <PRF_GreenFloorLampArrow.label>녹색 화살표 표시 바닥</PRF_GreenFloorLampArrow.label>
+  <PRF_FloorLampX.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_FloorLampX.description>
+  <PRF_FloorLampX.label>빨간색 X 표 표시 바닥</PRF_FloorLampX.label>
+  <PRF_FloorInput.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_FloorInput.description>
+  <PRF_FloorInput.label>입력 표시</PRF_FloorInput.label>
+  <PRF_FloorOutput.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_FloorOutput.description>
+  <PRF_FloorOutput.label>출력 표시</PRF_FloorOutput.label>
+  <PRF_IconClothes.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconClothes.description>
+  <PRF_IconClothes.label>의류 표시</PRF_IconClothes.label>
+  <PRF_IconSkull.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconSkull.description>
+  <PRF_IconSkull.label>해골 표시</PRF_IconSkull.label>
+  <PRF_IconToxic.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconToxic.description>
+  <PRF_IconToxic.label>유독성 표시</PRF_IconToxic.label>
+  <PRF_IconPower.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconPower.description>
+  <PRF_IconPower.label>전력 표시</PRF_IconPower.label>
+  <PRF_IconGears.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconGears.description>
+  <PRF_IconGears.label>톱니 표시</PRF_IconGears.label>
+  <PRF_IconGun.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconGun.description>
+  <PRF_IconGun.label>총 표시</PRF_IconGun.label>
+  <PRF_IconGasmask.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconGasmask.description>
+  <PRF_IconGasmask.label>방독면 표시</PRF_IconGasmask.label>
+  <PRF_IconFire.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconFire.description>
+  <PRF_IconFire.label>열 표시</PRF_IconFire.label>
+  <PRF_IconCold.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconCold.description>
+  <PRF_IconCold.label>냉기 표시</PRF_IconCold.label>
+  <PRF_IconDanger.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconDanger.description>
+  <PRF_IconDanger.label>위험 표시</PRF_IconDanger.label>
+  <PRF_IconExit.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconExit.description>
+  <PRF_IconExit.label>출구 표시</PRF_IconExit.label>
+  <PRF_IconPrison.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconPrison.description>
+  <PRF_IconPrison.label>수감 표시</PRF_IconPrison.label>
+  <PRF_IconResearch.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconResearch.description>
+  <PRF_IconResearch.label>연구 표시</PRF_IconResearch.label>
+  <PRF_IconHospital.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconHospital.description>
+  <PRF_IconHospital.label>병원 표시</PRF_IconHospital.label>
+  <PRF_IconBarbedWire.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_IconBarbedWire.description>
+  <PRF_IconBarbedWire.label>가시철조망 표시</PRF_IconBarbedWire.label>
+  <PRF_RoboticArm.label>로봇 팔</PRF_RoboticArm.label>
+  <PRF_RoboticArm.description>전기 모터로 강화된 로봇 팔. 약간 자동화된 건물들의 건설에 사용됩니다.</PRF_RoboticArm.description>
+  <PRF_ElectronicChip_I.label>빈약한 인공지능 칩</PRF_ElectronicChip_I.label>
+  <PRF_ElectronicChip_I.description>가장 기초적인 AI가 포함되어 있어 초기 기계나 로봇에 사용되는 텐서 처리 장치입니다.</PRF_ElectronicChip_I.description>
+  <PRF_ElectronicChip_II.label>고급 AI 코어</PRF_ElectronicChip_II.label>
+  <PRF_ElectronicChip_II.description>고급 AI를 탑재한 첨단 처리 장치로, 고급 기계와 로봇에 사용됩니다.</PRF_ElectronicChip_II.description>
+  <PRF_ElectronicChip_III.label>큐비트 처리기</PRF_ElectronicChip_III.label>
+  <PRF_ElectronicChip_III.description>양자 컴퓨팅에서 쿼빗 또는 양자 비트는 양자 정보의 기본 단위이며, 2가지 상태를 물리적으로 실현한 고전적인 이진 비트의 양자 버전입니다. 쿼빗은 양자역학의 특수성을 보여주는 가장 간단한 양자 시스템 중 하나인 2가지 상태 양자역학 시스템입니다.</PRF_ElectronicChip_III.description>
+  <PRF_DroneModule.label>드론 모듈</PRF_DroneModule.label>
+  <PRF_DroneModule.description>저고도 비행이 가능한 휴면상태의 쿼드콥터 프레임.</PRF_DroneModule.description>
+  <PRF_DataDisk.label> 자료 디스크</PRF_DataDisk.label>
+  <PRF_DataDisk.description>자기 테이프 한 통입니다. 듣자하니 64메가바이트를 저장할 수 있다고 합니다. 얼마나 원시적인지...  데이터베이스를 만드는데 사용됩니다.(프로젝트 림팩토리)</PRF_DataDisk.description>
+  <PRF_MachineFrame_I.label>간단한 기계 구조</PRF_MachineFrame_I.label>
+  <PRF_MachineFrame_I.description>소형 자동화 건물의 빈 뼈대입니다.</PRF_MachineFrame_I.description>
+  <PRF_MachineFrame_II.label>기계 구조</PRF_MachineFrame_II.label>
+  <PRF_MachineFrame_II.description>중형 자동화 건물의 빈 뼈대입니다.</PRF_MachineFrame_II.description>
+  <PRF_MachineFrame_III.label>고급 기계 구조</PRF_MachineFrame_III.label>
+  <PRF_MachineFrame_III.description>고급 자동화 건물의 빈 뼈대입니다.</PRF_MachineFrame_III.description>
+  <PRFDrone.label>드론</PRFDrone.label>
+  <PRFDrone.description>작고, 저공 비행하는 드론</PRFDrone.description>
+  <PRFDrone.tools.0.label>머리</PRFDrone.tools.0.label>
+  <Building_RTCircuitBreaker_30k.label>회로 차단기 (30k)</Building_RTCircuitBreaker_30k.label>
+  <Building_RTCircuitBreaker_30k.description>자동회로 차단기입니다.\n30000Wd만큼의 방전을 처리할 수 있으며, 방전시 수동으로 재설정 해야 합니다.</Building_RTCircuitBreaker_30k.description>
+  <Building_RTCircuitBreaker_300k.label>회로 차단기 (300k)</Building_RTCircuitBreaker_300k.label>
+  <Building_RTCircuitBreaker_300k.description>자동회로 차단기입니다.\n300000Wd만큼의 방전을 처리할 수 있으며, 방전시 수동으로 재설정 해야 합니다.</Building_RTCircuitBreaker_300k.description>
+  <PRF_IOPort_IFridge.label>냉장 입/출력 포트</PRF_IOPort_IFridge.label>
+  <PRF_IOPort_IFridge.description>(티어 3) \n 당신의 DSU용 연결 포트. 같은 지도에 있다면 거리 상관없이 어떤 DSU와도 입/출력 설정을 할 수 있습니다. 냉장 저장고와도 연결할 수 있습니다.</PRF_IOPort_IFridge.description>
+  <PRFCoolDSU.label>냉장 디지털 스토리지</PRFCoolDSU.label>
+  <PRFCoolDSU.description>디지털 스토리지의 냉장고 버전으로, 음식을 저장할 수 있습니다.\n\n512칸의 물품을 저장 가능합니다. 각 칸당 10W의 전력을 소모합니다. 만약 정착지의 전력이 부족할 경우, 내부에 있는 물품들은 안전합니다만, 더 이상의 물품을 보관할 수 없습니다.\n\n이것은 RimFridge가 설치되어 있을 때에만 사용할 수 있습니다.</PRFCoolDSU.description>
+  <PRF_MiniHelperAtomic.label>작은 림아토믹 스테이션</PRF_MiniHelperAtomic.label>
+  <PRF_MiniHelperAtomic.description>림아토믹용 작은 원자 작업장 도우미는 원자로에 연료를 주입하고 관리하며 전원 관리, 운반, 핵, 소방을 할 수 있습니다.</PRF_MiniHelperAtomic.description>
+  <PRF_MiniHelperFishing.label>작은 낚시 스테이션</PRF_MiniHelperFishing.label>
+  <PRF_MiniHelperFishing.description>물고기를 잡는 것을 도와줄 수 있는 작은 낚시 스테이션입니다. 회로가 너무 젖지 않도록 하기 위해 휴식이 필요할 것입니다.</PRF_MiniHelperFishing.description>
+  <PRF_T1_Aquaculture.label>자동 어장 (민물고기)</PRF_T1_Aquaculture.label>
+  <PRF_T1_Aquaculture.description>요청 시 민물고기를 양식하는 자동화된 양식 시스템.</PRF_T1_Aquaculture.description>
+  <PRF_T2_Aquaculture.label>자동 어장 (바닷물고기)</PRF_T2_Aquaculture.label>
+  <PRF_T2_Aquaculture.description>요청 시 바닷물고기를 양식하는 자동화된 양식 시스템.</PRF_T2_Aquaculture.description>
+  <PRF_FishFood.label>물고기 사료</PRF_FishFood.label>
+  <PRF_FishFood.description>물고기 사료용으로 만들어진 고기와 식물의 혼합 사료. 인간은 먹을 수 없습니다.</PRF_FishFood.description>
+</LanguageData>
