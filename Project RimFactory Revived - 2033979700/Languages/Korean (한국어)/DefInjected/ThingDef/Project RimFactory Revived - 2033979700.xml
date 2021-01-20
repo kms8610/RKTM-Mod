@@ -131,22 +131,22 @@
   <PRF_IndustrialLamp.description>한 지역을 밝히는 전기 벽 램프입니다.\n이 램프는 공장의 공간을 밝히기 위해 실내와 실외 모두 거대한 범위를 밝힐 수 있습니다.\n색 조명을 연구하면 배치할 때 색상을 바꿀 수 있습니다.\n\n프로젝트 림팩토리에서 추가되었습니다.</PRF_IndustrialLamp.description>
   <PRF_Floorspotlight.label>바닥 조명등</PRF_Floorspotlight.label>
   <PRF_Floorspotlight.description>한 지역을 밝히는 전기 벽 램프입니다.\n이 램프는 실내와 실외 모두 사용 가능합니다.\n또한 색 조명을 연구하면 배치한 후에도 색상을 바꿀 수 있습니다.\n\n프로젝트 림팩토리에서 추가되었습니다.</PRF_Floorspotlight.description>
-  <PRF_AutoCrafterSimple.label>자동 조립기 Mk-1</PRF_AutoCrafterSimple.label>
-  <PRF_AutoCrafterSimple.description>스킬 레벨 5의 제작기로, 초창기 버전의 자동 제작기입니다. 화살표가 작업대를 향하도록 하여 작업대 상호 작용 지점에 배치합니다. 자동 제작기는 또한 예술 작품도 만들 수 있지만, 예술 데이터베이스가 매우 제한적이고 명작들을 생산할 수 없습니다.</PRF_AutoCrafterSimple.description>
-  <PRF_AutoCrafter.label>자동 조립기 Mk-2</PRF_AutoCrafter.label>
-  <PRF_AutoCrafter.description>자동 제작기는 프로젝트 S.A.L의 중추로, 자체적으로 를 제작할 수 있는 작지만 강력한 건물입니다. 제작 레벨 12의 폰과 같습니다.</PRF_AutoCrafter.description>
-  <PRF_TheArtMachine.label>예술 장치</PRF_TheArtMachine.label>
-  <PRF_TheArtMachine.description>호스가 물을 뿜듯이 예술품을 뿜어냅니다. 예술 레벨 8.</PRF_TheArtMachine.description>
-  <PRF_TheArtMaster.label>예술 스승</PRF_TheArtMaster.label>
-  <PRF_TheArtMaster.description>격렬한 화산폭발이 용암을 뿜어내듯이 예술품을 뿜어냅니다. 예술 레벨 18.</PRF_TheArtMaster.description>
-  <PRF_OverclockedAutoAssembler.label>오버클럭 자동 조립기</PRF_OverclockedAutoAssembler.label>
-  <PRF_OverclockedAutoAssembler.description>1레벨의 초심자를 기준으로 작업을 수행하지만 매우 빠르게 작동합니다.</PRF_OverclockedAutoAssembler.description>
-  <PRF_OverclockedAutoAssemblerII.label>오버클럭 자동 조립기 mkII</PRF_OverclockedAutoAssemblerII.label>
-  <PRF_OverclockedAutoAssemblerII.description>끔찍한 품질의 물품을 생산해내지만, 꽤 빠르게 생산하는 데에는 문제가 되지 않습니다.</PRF_OverclockedAutoAssemblerII.description>
+  <PRF_AutoCrafterSimple.label>자동 조립기 Mk-1(S.A.L)</PRF_AutoCrafterSimple.label>
+  <PRF_AutoCrafterSimple.description>스킬 레벨 5의 제작기로, 초창기 버전의 자동 제작기입니다. 화살표가 작업대를 향하도록 하여 작업대 상호 작용 지점에 배치합니다. 자동 제작기는 또한 예술 작품도 만들 수 있지만, 예술 데이터베이스가 매우 제한적이고 명작들을 생산할 수 없습니다.\n\n성능:\n기본: 1\n제작: 5\n조리: 4\n예술: 0\n속도: 1</PRF_AutoCrafterSimple.description>
+  <PRF_AutoCrafter.label>자동 조립기 Mk-2(S.A.L)</PRF_AutoCrafter.label>
+  <PRF_AutoCrafter.description>자동 제작기는 프로젝트 S.A.L의 중추로, 자체적으로 를 제작할 수 있는 작지만 강력한 건물입니다. 제작 레벨 12의 폰과 같습니다.\n\n성능:\n기본: 5\n제작:12\n조리: 8\n예술: 0\n속도: 2</PRF_AutoCrafter.description>
+  <PRF_TheArtMachine.label>예술 장치(S.A.L)</PRF_TheArtMachine.label>
+  <PRF_TheArtMachine.description>호스에서 물을 뿜듯이 예술품을 뿜어냅니다.\n\n성능:\n기본: 3\n제작: 7\n\n예술: 8\n속도: 1</PRF_TheArtMachine.description>
+  <PRF_TheArtMaster.label>예술 장인(S.A.L)</PRF_TheArtMaster.label>
+  <PRF_TheArtMaster.description>격렬한 화산에서 용암을 뿜듯이 예술품을 뿜어냅니다.\n\n성능:\n기본: 3\n제작: 9\n\n예술: 18\n속도: 1</PRF_TheArtMaster.description>
+  <PRF_OverclockedAutoAssembler.label>오버클럭 자동 조립기(S.A.L)</PRF_OverclockedAutoAssembler.label>
+  <PRF_OverclockedAutoAssembler.description>1레벨의 초심자를 기준으로 작업을 수행하지만 매우 빠르게 작동합니다.\n\n성능:\n기본: 1\n속도: 5</PRF_OverclockedAutoAssembler.description>
+  <PRF_OverclockedAutoAssemblerII.label>오버클럭 자동 조립기 mkII(S.A.L)</PRF_OverclockedAutoAssemblerII.label>
+  <PRF_OverclockedAutoAssemblerII.description>끔찍한 품질의 물품을 생산해내지만, 꽤 빠르게 생산하는 데에는 문제가 되지 않습니다.\n\n성능:\n기본: 1\n속도: 12</PRF_OverclockedAutoAssemblerII.description>
   <PRF_SALAutoCooker.label>자동조리기 S.A.L</PRF_SALAutoCooker.label>
-  <PRF_SALAutoCooker.description>자동 조립기가 조리를 적절한 수준으로 하다지만, 자동 조리기는 12레벨에 버금가게 보다 빠르고 정확합니다.</PRF_SALAutoCooker.description>
+  <PRF_SALAutoCooker.description>자동 조립기가 조리를 적절한 수준으로 하다지만, 자동 조리기는 12레벨에 버금가게 보다 빠르고 정확합니다.\n\n성능:\n기본: 5\n제작: 8\n조리: 12\n예술: 0\n속도: 1</PRF_SALAutoCooker.description>
   <PRF_GodlyCrafter.label>경건한 S.A.L 제작기</PRF_GodlyCrafter.label>
-  <PRF_GodlyCrafter.description>너무 빨리 작동해서 모든 기대를 저버립니다. 고품질의 품목을 대량 생산하기에 안성맞춤입니다. 우주를 소각할 수도 있고 그렇지 않을 수도 있습니다.\n이제 정신이상증에 첫발을 내딛는 것일지도 몰라?!#.</PRF_GodlyCrafter.description>
+  <PRF_GodlyCrafter.description>너무 빨리 작동해서 모든 기대를 저버립니다. 고품질의 품목을 대량 생산하기에 안성맞춤입니다. 우주를 소각할 수도 있고 그렇지 않을 수도 있습니다.\n이제 정신이상증에 첫발을 내딛는 것일지도 몰라?!#.\n\n성능:\n기본: 20\n예술: 18\n속도: 666</PRF_GodlyCrafter.description>
   <PRF_WoodCrate_I.label>작은 나무상자</PRF_WoodCrate_I.label>
   <PRF_WoodCrate_I.description>(티어 1 상자) 16칸까지 저장할 수 있는 작은 상자입니다. 상자에 저장된 물품은 변질하지 않습니다.</PRF_WoodCrate_I.description>
   <PRF_WoodCrate_II.label>나무상자</PRF_WoodCrate_II.label>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_InvisibleArcticLion.label>사냥 중</AA_InvisibleArcticLion.label>
+  <AA_InvisibleArcticLion.description>이 북극사자는 먹이를 사냥하고 있고... 이봐, 이걸 어떻게 읽어, 이 사기꾼아!</AA_InvisibleArcticLion.description>
+  <AA_CrushingEverything.label>경로의 모든 것을 으스러트림</AA_CrushingEverything.label>
+  <AA_CrushingEverything.description>저라면 절대로 이 난폭한 바위게의 경로에 들어가진 않을 겁니다...</AA_CrushingEverything.description>
+  <AA_Nocturnal.label>야행성 동물</AA_Nocturnal.label>
+  <AA_Nocturnal.description>더 이상 사용되지 않는 야행성 동물 Hediff. 이것은 게임 내에서 나타나지 않아야 합니다.</AA_Nocturnal.description>
+  <AA_LockJawDisease.description>턱에 염증을 일으켜 불편하고 고통스러운 질병으로, 씹고 말하는 것이 매우 힘들어집니다. 몇 번의 적절한 조치가 취해지면 곧 사라질 것입니다.</AA_LockJawDisease.description>
+  <AA_LockJawDisease.label>파상풍</AA_LockJawDisease.label>
+  <AA_Paralysis.description>정맥을 타고 빠르게 작용하는 독소가 근육을 마비시키고 있습니다. 잠시 후 증상이 완화될 것입니다.</AA_Paralysis.description>
+  <AA_Paralysis.label>마비</AA_Paralysis.label>
+  <AA_Paralysis.stages.0.label>초기</AA_Paralysis.stages.0.label>
+  <AA_Paralysis.stages.1.label>기절함</AA_Paralysis.stages.1.label>
+  <AA_Paralysis.stages.2.label>의식불명</AA_Paralysis.stages.2.label>
+  <AA_Paralysis.stages.3.label>마비됨</AA_Paralysis.stages.3.label>
+  <AA_Electric.description>위험한 전기충격입니다. 심장이 손상될 수도 있으며, 높은 전류일수록 심장 마비의 가능성이 커집니다.</AA_Electric.description>
+  <AA_Electric.label>전기 충격</AA_Electric.label>
+  <AA_Electric.stages.0.label>초기</AA_Electric.stages.0.label>
+  <AA_Electric.stages.1.label>감전됨</AA_Electric.stages.1.label>
+  <AA_Electric.stages.2.label>심각한 감전</AA_Electric.stages.2.label>
+  <AA_Electric.stages.3.label>마비됨</AA_Electric.stages.3.label>
+  <AA_ToxicBuildup.description>몸에 독이 퍼지고 있습니다. 이는 환경적인 요인이나 독성 물질의 체내 유입 등 다양한 원인으로 발생할 수 있습니다.
+\n소량의 독으로도 암이 생길 수 있으며, 만일 대량의 독이 유입될 시 인체에 매우 치명적입니다.
+\n유독성 낙진의 중독과는 다르게, 이 독으로 죽은 생물은 먹을 수 있습니다.</AA_ToxicBuildup.description>
+  <AA_ToxicBuildup.label>독 축적됨</AA_ToxicBuildup.label>
+  <AA_ToxicBuildup.stages.0.label>초기</AA_ToxicBuildup.stages.0.label>
+  <AA_ToxicBuildup.stages.1.label>초기</AA_ToxicBuildup.stages.1.label>
+  <AA_ToxicBuildup.stages.2.label>가벼움</AA_ToxicBuildup.stages.2.label>
+  <AA_ToxicBuildup.stages.3.label>진행됨</AA_ToxicBuildup.stages.3.label>
+  <AA_ToxicBuildup.stages.4.label>심각함</AA_ToxicBuildup.stages.4.label>
+  <AA_ToxicBuildup.stages.5.label>극심함</AA_ToxicBuildup.stages.5.label>
+  <AA_AcidBuildup.label>산화상</AA_AcidBuildup.label>
+  <AA_AcidBuildup.description>이 강한 산성은 공격당한 이후, 손상부위에 장시간 화상을 일으킵니다.</AA_AcidBuildup.description>
+  <AA_AcidBuildup.stages.0.label>가벼움, 화상</AA_AcidBuildup.stages.0.label>
+  <AA_AcidBuildup.stages.1.label>진행됨, 화상</AA_AcidBuildup.stages.1.label>
+  <AA_AcidBuildup.stages.2.label>심각함, 화상</AA_AcidBuildup.stages.2.label>
+  <AA_LowRest.description>이 생물은 잠을 거의 필요로 하지 않기에 장시간 활동할 수 있습니다.</AA_LowRest.description>
+  <AA_LowRest.label>적은 수면 필요성</AA_LowRest.label>
+  <AA_PsionicallyNuzzled.description>아니무스 복스의 축복을 받음.</AA_PsionicallyNuzzled.description>
+  <AA_PsionicallyNuzzled.label>초능력 교감</AA_PsionicallyNuzzled.label>
+  <AA_GatheredResource.description>이 정착민은 최근 동물 자원을 채집하였습니다.</AA_GatheredResource.description>
+  <AA_GatheredResource.label>동물 자원 채집</AA_GatheredResource.label>
+  <AA_CorpseFeast.description>이 민달팽이는 최근 세상에서 가장 맛있는 인간 사체를 섭취하였습니다.</AA_CorpseFeast.description>
+  <AA_CorpseFeast.label>인육 잔치</AA_CorpseFeast.label>
+  <AA_AteFinestClothes.description>이 천사나방은 최근 전설적인 품질의 의류를 섭취하였습니다.</AA_AteFinestClothes.description>
+  <AA_AteFinestClothes.label>전설 의류 섭취 축제</AA_AteFinestClothes.label>
+  <AA_RechargingBatteries.description>이 테트라슬러그는 최근 주변의 축전지에서 전력을 충전하였습니다.</AA_RechargingBatteries.description>
+  <AA_RechargingBatteries.label>배터리 충전</AA_RechargingBatteries.label>
+  <AA_FertilizedTerrain.description>이 모래징어는 최근 모래밭을 개간하였습니다.</AA_FertilizedTerrain.description>
+  <AA_FertilizedTerrain.label>토양을 개간함</AA_FertilizedTerrain.label>
+  <AA_SwarmlingImplantation.label>스웜링 감염</AA_SwarmlingImplantation.label>
+  <AA_SwarmlingImplantation.description>체내로 유입된 스웜링에 의해 영향을 받고 있습니다. 제대로 치료되지 않거나 성장이 어느정도 진행된 상태로 숙주가 사망한다면, 기생하던 스웜링은 숙주의 내장을 게걸스럽게 먹어치운 뒤 시체를 파고 나옵니다.</AA_SwarmlingImplantation.description>
+  <AA_SwarmlingImplantation.stages.0.label>사소함</AA_SwarmlingImplantation.stages.0.label>
+  <AA_SwarmlingImplantation.stages.1.label>심각함</AA_SwarmlingImplantation.stages.1.label>
+  <AA_SwarmlingImplantation.stages.2.label>극심함</AA_SwarmlingImplantation.stages.2.label>
+  <AA_SwarmlingImplantation.stages.3.label>극심함</AA_SwarmlingImplantation.stages.3.label>
+  <AA_AcidBurn.label>화상 (산성)</AA_AcidBurn.label>
+  <AA_AcidBurn.labelNoun>산성 화상</AA_AcidBurn.labelNoun>
+  <AA_AcidBurn.description>산성 화상.</AA_AcidBurn.description>
+  <AA_AcidBurn.comps.0.labelTendedWell>붕대감음</AA_AcidBurn.comps.0.labelTendedWell>
+  <AA_AcidBurn.comps.0.labelTendedWellInner>조치됨</AA_AcidBurn.comps.0.labelTendedWellInner>
+  <AA_AcidBurn.comps.0.labelSolidTendedWell>조치됨</AA_AcidBurn.comps.0.labelSolidTendedWell>
+  <AA_AcidBurn.comps.2.permanentLabel>산성 화상 흉터</AA_AcidBurn.comps.2.permanentLabel>
+  <AA_AcidBurn.injuryProps.destroyedLabel>부식됨</AA_AcidBurn.injuryProps.destroyedLabel>
+  <AA_AcidBurn.injuryProps.destroyedOutLabel>부식됨</AA_AcidBurn.injuryProps.destroyedOutLabel>
+  <AA_Resurrection.label>무덤에서 뛰쳐나옴!</AA_Resurrection.label>
+  <AA_Resurrection.description>이 동물은 9회의 치명적인 부상에도 죽지않고 살아남을 수 있습니다.</AA_Resurrection.description>
+  <AA_MimeHediff.label>개활지에 숨음</AA_MimeHediff.label>
+  <AA_MimeHediff.description>이 정착민은 진짜 사람이 아닐지도 모릅니다...</AA_MimeHediff.description>
+  <AA_BurrowingUnderSand.description>이 모래 배회자는 땅밑으로 파고들었으며, 받는 데미지가 크게 경감되었습니다. 저는 모래가 싫습니다. 거칠고, 까끌거리며 짜증날뿐만 아니라 온 사방에 떨어지기때문입니다.</AA_BurrowingUnderSand.description>
+  <AA_BurrowingUnderSand.label>땅 밑으로 파고듦</AA_BurrowingUnderSand.label>
+  <AA_VirulentFungalInfection.label>악성 곰팡이 감염</AA_VirulentFungalInfection.label>
+  <AA_VirulentFungalInfection.labelNoun>악성 곰팡이 감염</AA_VirulentFungalInfection.labelNoun>
+  <AA_VirulentFungalInfection.description>상처에 곰팡이가 감염되어 제때 치료를 받지 않으면 감염이 빠르게 진행되며 몇시간 내로 감염자가 사망합니다. 다행이도 치료하기 매우 쉽고, 의료담당자가 신속하게 조치를 취한다면 말끔히 회복할 것입니다.</AA_VirulentFungalInfection.description>
+  <AA_VirulentFungalInfection.stages.0.label>가벼움</AA_VirulentFungalInfection.stages.0.label>
+  <AA_VirulentFungalInfection.stages.1.label>심각함</AA_VirulentFungalInfection.stages.1.label>
+  <AA_VirulentFungalInfection.stages.2.label>극심함</AA_VirulentFungalInfection.stages.2.label>
+  <AA_VirulentFungalInfection.stages.3.label>극심함</AA_VirulentFungalInfection.stages.3.label>
+  <AA_CarryWeight1.description>이 생물은 운반이 가능하며, 상단의 운반 가능 무게를 늘릴 수 있습니다.</AA_CarryWeight1.description>
+  <AA_CarryWeight1.label>추가 휴대량 (끔찍)</AA_CarryWeight1.label>
+  <AA_CarryWeight2.description>이 생물은 운반이 가능하며, 상단의 운반 가능 무게를 늘릴 수 있습니다.</AA_CarryWeight2.description>
+  <AA_CarryWeight2.label>추가 휴대량 (빈약)</AA_CarryWeight2.label>
+  <AA_CarryWeight3.description>이 생물은 운반이 가능하며, 상단의 운반 가능 무게를 늘릴 수 있습니다.</AA_CarryWeight3.description>
+  <AA_CarryWeight3.label>추가 휴대량 (평범)</AA_CarryWeight3.label>
+  <AA_CarryWeight4.description>이 생물은 운반이 가능하며, 상단의 운반 가능 무게를 늘릴 수 있습니다.</AA_CarryWeight4.description>
+  <AA_CarryWeight4.label>추가 휴대량 (상급)</AA_CarryWeight4.label>
+  <AA_CarryWeight5.description>이 생물은 운반이 가능하며, 상단의 운반 가능 무게를 늘릴 수 있습니다.</AA_CarryWeight5.description>
+  <AA_CarryWeight5.label>추가 휴대량 (완벽)</AA_CarryWeight5.label>
+  <AA_CarryWeight6.description>이 생물은 운반이 가능하며, 상단의 운반 가능 무게를 늘릴 수 있습니다.</AA_CarryWeight6.description>
+  <AA_CarryWeight6.label>추가 휴대량 (달인)</AA_CarryWeight6.label>
+  <AA_CarryWeight7.description>이 생물은 운반이 가능하며, 상단의 운반 가능 무게를 늘릴 수 있습니다.</AA_CarryWeight7.description>
+  <AA_CarryWeight7.label>추가 휴대량 (전설)</AA_CarryWeight7.label>
+  <AA_PermanentBurn.label>영구적 화상</AA_PermanentBurn.label>
+  <AA_PermanentBurn.description>치료를 할 수 없는 영구적 화상입니다.</AA_PermanentBurn.description>
+  <AA_PermanentBurn.labelNoun>영구적 화상</AA_PermanentBurn.labelNoun>
+  <AA_PermanentBurn.comps.1.permanentLabel>영구적 화상</AA_PermanentBurn.comps.1.permanentLabel>
+  <AA_PermanentBurn.injuryProps.destroyedLabel>녹아내림</AA_PermanentBurn.injuryProps.destroyedLabel>
+  <AA_PermanentBurn.injuryProps.destroyedOutLabel>녹아내림</AA_PermanentBurn.injuryProps.destroyedOutLabel>
+  <AA_LightSustenance.description>이 생물은 햇빛이 필요합니다. 햇빛이 부족하다면 이 생물은 죽을 것입니다.</AA_LightSustenance.description>
+  <AA_LightSustenance.label>일조량</AA_LightSustenance.label>
+  <AA_LightSustenance.stages.0.label>충분한 빛</AA_LightSustenance.stages.0.label>
+  <AA_LightSustenance.stages.1.label>낮은 일조량</AA_LightSustenance.stages.1.label>
+  <AA_LightSustenance.stages.2.label>매우 낮은 일조량</AA_LightSustenance.stages.2.label>
+  <AA_LightSustenance.stages.3.label>햇빛 부족</AA_LightSustenance.stages.3.label>
+  <AA_LightSustenance.stages.4.label>극심한 영양부족</AA_LightSustenance.stages.4.label>
+  <AA_MutantLeg.description>이 다리는 모든 모공에서 쉴틈없이 흘러나오는 미끈한 분비물로 덮여있는 것 같습니다. 이건... 자연 창조의 굴레를 벗어난 생명체인 것 같습니다.</AA_MutantLeg.description>
+  <AA_MutantLeg.label>돌연변이 다리</AA_MutantLeg.label>
+  <AA_MutantLeg.labelNoun>돌연변이 다리</AA_MutantLeg.labelNoun>
+  <AA_MutantArm.label>돌연변이 팔</AA_MutantArm.label>
+  <AA_MutantArm.description>이 팔은 마치 자아를 가진 것처럼 괴상하고 부자연스러운 방식으로 뒤틀리고 구부러집니다. 이건... 자연 창조의 굴레를 벗어난 생명체인 것 같습니다.</AA_MutantArm.description>
+  <AA_MutantArm.labelNoun>돌연변이 팔</AA_MutantArm.labelNoun>
+  <AA_MutantArm.comps.0.tools.0.label>주먹</AA_MutantArm.comps.0.tools.0.label>
+  <AA_MutantEye.label>돌연변이 눈</AA_MutantEye.label>
+  <AA_MutantEye.labelNoun>돌연변이 눈</AA_MutantEye.labelNoun>
+  <AA_MutantEye.description>불안할 때의 안면경련처럼 쉴틈없이 깜박이는 눈입니다. 두 번째 수직 눈꺼풀은 정상적인 인간의 눈과 같이 후면에 존재하며... 이건... 자연 창조의 굴레를 벗어난 생명체인 것 같습니다.</AA_MutantEye.description>
+  <AA_ProstheticTentacle.label>간단한 촉수 보철물</AA_ProstheticTentacle.label>
+  <AA_ProstheticTentacle.description>간단한 촉수 보철물입니다.</AA_ProstheticTentacle.description>
+  <AA_ProstheticTentacle.comps.0.tools.0.label>촉수 보철물</AA_ProstheticTentacle.comps.0.tools.0.label>
+  <AA_BionicTentacle.label>생체공학 촉수</AA_BionicTentacle.label>
+  <AA_BionicTentacle.description>생체공학 촉수입니다.</AA_BionicTentacle.description>
+  <AA_BionicTentacle.comps.0.tools.0.label>생체공학 촉수</AA_BionicTentacle.comps.0.tools.0.label>
+  <AA_BionicMotionDetector.label>생체공학 시각 센서</AA_BionicMotionDetector.label>
+  <AA_BionicMotionDetector.description>동물을 위한 생체공학 동작 감지기입니다. 개선된 초음파 위치 측정 기관과 진동 센서로 구성되어 있습니다.</AA_BionicMotionDetector.description>
+  <AA_ProstheticBuoyancyMechanism.label>간단한 부력 보조물</AA_ProstheticBuoyancyMechanism.label>
+  <AA_ProstheticBuoyancyMechanism.description>수소주머니 기관과 같이, 공중을 떠다니는 동물들의 간단한 부력 보조물입니다.</AA_ProstheticBuoyancyMechanism.description>
+  <AA_BionicBuoyancyMechanism.label>생체공학 부력 보조물</AA_BionicBuoyancyMechanism.label>
+  <AA_BionicBuoyancyMechanism.description>수소주머니 기관과 같이, 공중을 떠다니는 동물들의 개선된 생체공학 부력 보조물입니다.</AA_BionicBuoyancyMechanism.description>
+  <AA_ProstheticShell.label>간단한 외피</AA_ProstheticShell.label>
+  <AA_ProstheticShell.description>껍질이나 갑각을 대체하는 간단한 보철 기관입니다.</AA_ProstheticShell.description>
+  <AA_BionicShell.label>생체공학 외피</AA_BionicShell.label>
+  <AA_BionicShell.description>껍질이나 갑각을 대체하는 개선된 생체공학 보철 기관입니다.</AA_BionicShell.description>
+  <AA_ProstheticWing.label>간단한 의익</AA_ProstheticWing.label>
+  <AA_ProstheticWing.description>모든 유형의 날개를 대체하는 간단한 보철 기관입니다.</AA_ProstheticWing.description>
+  <AA_BionicWing.label>생체공학 날개</AA_BionicWing.label>
+  <AA_BionicWing.description>모든 유형의 날개를 대체하는 개선된 생체공학 보철 기관입니다.</AA_BionicWing.description>
+  <AB_SimpleProstheticClaw.label>간단한 발톱</AB_SimpleProstheticClaw.label>
+  <AB_SimpleProstheticClaw.description>동물에게 적합한 간단한 발톱 보철물입니다.</AB_SimpleProstheticClaw.description>
+  <AB_SimpleProstheticClaw.comps.0.tools.0.label>간단한 발톱</AB_SimpleProstheticClaw.comps.0.tools.0.label>
+  <AB_BionicClaw.label>생체공학 발톱</AB_BionicClaw.label>
+  <AB_BionicClaw.description>동물에게 적합한 개선된 생체공학 발톱 보철물입니다.</AB_BionicClaw.description>
+  <AB_BionicClaw.comps.0.tools.0.label>생체공학 발톱</AB_BionicClaw.comps.0.tools.0.label>
+  <AA_GooAcidifier.label>찐득한 산화제</AA_GooAcidifier.label>
+  <AA_GooAcidifier.labelNoun>찐득한 산화제</AA_GooAcidifier.labelNoun>
+  <AA_GooAcidifier.description>액체괴물의 내부 장기 산도를 증가시켜, 행동불능 즉시 폭발하게 합니다. 이 기관을 설치한 액체괴물은 생물학적 자살 폭탄 테러에 활용됩니다.</AA_GooAcidifier.description>
+</LanguageData>

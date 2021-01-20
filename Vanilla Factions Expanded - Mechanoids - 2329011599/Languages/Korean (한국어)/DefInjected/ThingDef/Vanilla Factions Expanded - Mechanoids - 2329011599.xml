@@ -31,7 +31,7 @@
   <VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>약물 분말기</VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>
   <VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>광이풀 잎 추출물을 미세하게 가공하고 분말화 한 다음 나중에 사용하거나 판매할 수 있도록 포장하는 소형 기계입니다.\n\n&lt;color=#33d733>자동화 계열:&lt;/color> 의약품 복합 공장 계열의 일부입니다. (M.C.F)</VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>
   <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>자동 드릴</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>
-  <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>심층 드릴의 더 크지만 행성 표면 수준의 자동 버전입니다. 이 기본적이지만 강력한 드릴은 사람이 조작하지 않고도 암석 덩어리를 채굴할 수 있습니다.\n곤충 군락 출현을 일으키지 않으며, 드릴에서 이미 작업 대기 중인 다른 드릴을 감지할 경우 암석 덩어리를 채굴하지 않습니다.\n\n&lt;color=#33d733>자동화 계열:&lt;/color> 석조 및 금속 공장 계열의 일부입니다. (M.M.F)</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>
+  <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>자동화된 지표면 굴착 수준의 대형 심층 채굴기입니다. 기본적이지만 강력한 이 드릴은 사람이 조작하지 않고도 바위 덩어리를 채굴할 수 있습니다.\n드릴은 이미 회수 대기 중이거나 주변 타일에 같은 물체가 있으면 더는 바위 덩어리를 생산하지 않으며, 곤충 군락을 자극하지 않습니다.\n\n&lt;color=#33d733>자동화 계열:&lt;/color> 석조 및 금속 공장 계열의 일부입니다. (M.M.F)</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>
   <VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>석조 톱</VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>
   <VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>투박하고 매우 시끄러운 공장으로, 바위 덩어리를 잘라서 쌓을 수 있는 벽돌로 매끄럽게 가공하기 위한 기본적인 도구와 끌, 톱을 가지고 있습니다.\n\n&lt;color=#33d733>자동화 계열:&lt;/color> 석조 및 금속 공장 계열의 일부입니다. (M.M.F)</VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>
   <VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>플라스틸 용광로</VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>

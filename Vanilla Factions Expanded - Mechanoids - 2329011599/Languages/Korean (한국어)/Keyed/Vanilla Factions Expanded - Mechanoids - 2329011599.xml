@@ -37,6 +37,7 @@
   <VFEMech.RaidWarningTitle>습격 임박: {FACTION_name}</VFEMech.RaidWarningTitle>
   <VFEMech.RaidWarningText>{FACTION_name}(이)가 앞으로 12시간 내에 당신을 습격할 것입니다. {1}</VFEMech.RaidWarningText>
   <VFEMech.DisableTotalWarMechanic>전면전 방식 비활성화</VFEMech.DisableTotalWarMechanic>
+  <VFEMech.AdjustIncidentTimeInterval>함선 착륙 주기 조정:</VFEMech.AdjustIncidentTimeInterval>
   <VFEMech.AdjustIncidentChanceLabel>다음 사건의 기본 확률 조정:</VFEMech.AdjustIncidentChanceLabel>
   <VFEMech.AdjustMechPresenceLabel>다음에 의해 생성되는 메카노이드 개체 요인 조정:</VFEMech.AdjustMechPresenceLabel>
   <VFEMech.AdjustMinimunColonistCountLabel>함선 착륙 사건에 필요한 최소 정착민 수 조정:</VFEMech.AdjustMinimunColonistCountLabel>
@@ -44,4 +45,6 @@
   <VFEM_factorySpeedMultiplier>공장 속도 배수</VFEM_factorySpeedMultiplier>
   <VFEM_factorySpeedMultiplierTooltip>공장 속도 배수로, 기본값은 1입니다.\n숫자가 낮을수록 공장 작동 속도가 빨라지고 숫자가 높을수록 작동 속도가 느려집니다.</VFEM_factorySpeedMultiplierTooltip>
   <VFEM_SuperComputerResearchPointYield>슈퍼컴퓨터의 연구점수 산출 값입니다. 기본값은 1입니다.</VFEM_SuperComputerResearchPointYield>
+  <VFEMech.FactionDestroyedShip>{FACTION_name}(이)가 {1}(을)를 파괴했습니다.</VFEMech.FactionDestroyedShip>
+  <VFEMech.FactionDestroyedShipDesc>{FACTION_name}(은)는 교묘한 전략과 수많은 사상자 및 놀라운 인내력으로 {1}(을)를 파괴했습니다.</VFEMech.FactionDestroyedShipDesc>
 </LanguageData>

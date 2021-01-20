@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_AnimalResource.label>동물 자원 채집</AA_AnimalResource.label>
+  <AA_AnimalResource.verb>동물 자원 채집</AA_AnimalResource.verb>
+  <AA_AnimalResource.gerund>동물 자원 채집</AA_AnimalResource.gerund>
+  <AA_WorkGiverDestroyItem.label>물건 파괴</AA_WorkGiverDestroyItem.label>
+  <AA_WorkGiverDestroyItem.verb>파괴</AA_WorkGiverDestroyItem.verb>
+  <AA_WorkGiverDestroyItem.gerund>파괴중</AA_WorkGiverDestroyItem.gerund>
+</LanguageData>

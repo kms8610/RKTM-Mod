@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_LetterLabelAlphaCargoPodCrash>알파애니멀 화물 낙하기</AA_LetterLabelAlphaCargoPodCrash>
+  <AA_AlphaCargoPodCrash>주변에 화물포드가 떨어진 것을 감지하였습니다. 포획가능한 동물이 들어있는것으로 보입니다.
+
+잔해 더미에서 쓸만한 것을 발견할 수 있을지도 모릅니다.</AA_AlphaCargoPodCrash>
+  <AA_AsexualHatched>{0}(이)가 무성생식 했습니다.</AA_AsexualHatched>
+  <AA_AsexualCloning>{0}(이)가 스스로를 복제했습니다.</AA_AsexualCloning>
+  <AA_AsexualHatchedEgg>{0}(이)가 포자를 뿌렸습니다.</AA_AsexualHatchedEgg>
+  <NocturnalAnimals.BodyClock>생체 시계</NocturnalAnimals.BodyClock>
+  <NocturnalAnimals.BodyClock_Description>동물이 언제 자고 언제 깨어있는지 결정합니다.
+
+주행성 동물들은 밤에 자고 낮에는 깨어있는 반면, 야행성 동물들은 낮에 자고 밤에는 깨어있습니다. 박명박모성 동물들은 주로 해 질 녘에 활동합니다.</NocturnalAnimals.BodyClock_Description>
+  <NocturnalAnimals.BodyClock_Diurnal>주행성</NocturnalAnimals.BodyClock_Diurnal>
+  <NocturnalAnimals.BodyClock_Nocturnal>야행성</NocturnalAnimals.BodyClock_Nocturnal>
+  <NocturnalAnimals.BodyClock_Crepuscular>박명박모성</NocturnalAnimals.BodyClock_Crepuscular>
+  <AA_TimeToMetamorphosis>변태까지 남은 시간: {0}</AA_TimeToMetamorphosis>
+  <AA_NotTameable>길들일 수 없는 생물입니다.</AA_NotTameable>
+  <AA_GallatrossNotTameable>허약한 갈라트로스는 길들일 수 없으며 빠르게 야생으로 돌아가 죽음을 기다립니다.</AA_GallatrossNotTameable>
+  <AA_MimeNotTameable>마임은 길들일 수 없습니다.</AA_MimeNotTameable>
+  <AA_StomachContents>{0}마리를 통째로 집어삼킴</AA_StomachContents>
+  <AA_DigestionTime>{0}시간 후 소화됨</AA_DigestionTime>
+  <AA_DestroyFlamingoEggsLabel>알 파괴하기</AA_DestroyFlamingoEggsLabel>
+  <AA_DestroyFlamingoEggsDesc>이 알을 최대한 빨리 부수도록 명령</AA_DestroyFlamingoEggsDesc>
+  <AA_CancelDestroyFlamingoEggsLabel>알 파괴 중단</AA_CancelDestroyFlamingoEggsLabel>
+  <AA_CancelDestroyFlamingoEggsDesc>알을 최대한 빨리 부수기 명령 취소중</AA_CancelDestroyFlamingoEggsDesc>
+  <AA_HuskNotTameable>껍질곰팡이는 질병을 퍼트리기위해 존재하며, 길들일 수 없습니다.</AA_HuskNotTameable>
+  <LetterLabelColossalAerofleetPasses>거대 에어로플릿</LetterLabelColossalAerofleetPasses>
+  <LetterColossalAerofleetPasses>주변을 배회하며 날아다니는 이상한 생물체입니다.
+
+작은 개체들은 큰 개체에 이끌려 아주 가까이 붙어 따라다니는 특성을 보이며, 그다지 위협적이지는 않은 것 같습니다. 
+
+이들은 먹이를 다 먹고나면 지역을 떠날 것입니다.</LetterColossalAerofleetPasses>
+  <LetterLabelSkyAsteroid>이상한 소행성</LetterLabelSkyAsteroid>
+  <LetterSkyAsteroid>작고 이상한 소행성이 행성의 대기를 가르고 있습니다. 충돌이 임박했습니다.</LetterSkyAsteroid>
+  <LetterLabelBumbledroneMigration>호박말벌 대이동</LetterLabelBumbledroneMigration>
+  <LetterBumbledroneMigration>이 지역에 호박말벌 여왕이 이끄는 작은 호박말벌 무리가 나타났습니다.
+
+호박말벌은 위협을 가하지 않는 이상, 공격적이지 않습니다.
+
+정착지는 저들에겐 너무 시끄러우니 아마도 금방 조용한 곳을 찾아 지역을 떠날 것입니다.</LetterBumbledroneMigration>
+  <LetterLabelManhuntingArcticLion>극지사자 사냥개시</LetterLabelManhuntingArcticLion>
+  <ManhuntingArcticLion>극지사자가 그림자 속에 숨어서 정착민 중 한 명을 노리고 있습니다.
+
+사냥이 시작된 이상 정착민들에게 공격을 받거나 정착민을 공격하기 직전까지는 거의 눈에 보이지 않을 것입니다. 정착민들을 징집하면 알아서 경계도 가능하고 자동으로 방어도 가능할 것입니다. 서둘러 준비하세요!
+
+극지사자들은 강력하며, 추운 기후에서 사육되어 살아남기 위해 유전적으로 조작된 생물들입니다.</ManhuntingArcticLion>
+  <LetterLabelBlizzariskClutchMother>블리자리스크 무리어미</LetterLabelBlizzariskClutchMother>
+  <BlizzariskClutchMother>'블리자리스크'라고 불리며 추운 기후에 적응한 거대 거미가 정착지를 방황하고 있습니다.
+
+이 블리자리스크는 일반적인 개체보다 훨씬 더 커다란 개체로, 배에 알주머니를 배고있습니다. 서둘러 처리하지 않으면 끔찍한 일이 일어날 지도 모릅니다.</BlizzariskClutchMother>
+  <LetterLabelDunealiskClutchMother>두니아리스크 무리어미</LetterLabelDunealiskClutchMother>
+  <DunealiskClutchMother>더운 기후에 적응한 '두니아리스크'라고 불리는 거대한 거미가 우리 영토를 방황하고 있습니다.
+
+이 두니아리스크는 일반적인 개체보다 훨씬 더 커다란 개체로, 배에 알주머니를 배고있습니다. 서둘러 처리하지 않으면 재앙을 초래할지도 모릅니다.</DunealiskClutchMother>
+  <LetterLabelFeraliskClutchMother>페라리스크 무리어미</LetterLabelFeraliskClutchMother>
+  <FeraliskClutchMother>'페라리스크'라고 불리는 거대한 거미가 우리 영토를 방황하고 있습니다.
+
+이 페라리스크는 일반적인 개체보다 훨씬 더 커다란 개체로, 배에 알주머니를 배고있습니다. 서둘러 처리하지 않으면 재앙을 초래할지도 모릅니다.</FeraliskClutchMother>
+  <AA_LetterLabelAnimaliskEnters>애니멀리스크 발견됨</AA_LetterLabelAnimaliskEnters>
+  <AA_LetterAnimaliskEnters>외피에 아르칸 룬을 새긴 거대한 거미와 같은 생명체가 이 지역을 떠돌아다닙니다.
+이 생물은 정신의 풀과 나무를 집어삼키는 거대한 초식성 곤충인 애니멀리스크입니다.</AA_LetterAnimaliskEnters>
+  <LetterLabelSummitCrab>바위게</LetterLabelSummitCrab>
+  <SummitCrab>거대한 바위 안에 살고있는 소라게가 정착지를 가로지르는 탓에 땅이 격하게 흔들립니다.
+
+특별히 공격적이지는 않지만 총격에 거의 영향을 받지 않으며, 멈추지 않으면 경로상에 아무것도 남아나질 않을 것입니다.</SummitCrab>
+  <LetterLabelCactipinePod>이상한 낙하기</LetterLabelCactipinePod>
+  <CactipineDropPod>대기중에 진입하는 낙하기의 요란한 소리가 울려퍼집니다. 탐지기가 낙하기에는 생명체가 있음을 감지했지만, 동물인지 식물인지 구분할 수 없는 이상한 형태로 나타나고 있습니다.</CactipineDropPod>
+  <LetterLabelGallatrossPasses>갈라트로스 방랑자</LetterLabelGallatrossPasses>
+  <LetterGallatrossPasses>그 어떤 용맹한 전사들도 달아날 수 밖에 없었다는 지나치도록 거대하고 강인한 생물에 대한 전설이 전해져 내려옵니다. 이 전설은 거침없는 식욕을 가진 거대한 동물, 갈라트로스의 영향을 받았음이 분명합니다. 혹시 이 동물 또한 미스터리한 트럼보와 관련이 있지는 않을까요? 아마 누구도 이 질문에 대한 해답을 알지 못할 것 같습니다.</LetterGallatrossPasses>
+  <LetterLabelBlackHiveAttack>검은 둥지 공격</LetterLabelBlackHiveAttack>
+  <LetterBlackHiveAttack>이 특이한 변경계의 곤충들은 메카노이드의 침입에 대항하기 위한 생명공학의 산물입니다. '검은 둥지'는 그 중 최고의 전력으로, 일반 개체들보다 훨씬 더 공격적이며 난공불락의 메카노이드 요새도 포위할 수 있도록 설계되었습니다. 단점이 보완된 기존의 개체들과 더불어, 새롭게 개발된 치명적인 개체 일부가 '검은 둥지'에 추가되었습니다.
+
+검은 둥지의 곤충 군단이 이 지역으로 굴을 뚫었고, 즉시 기지를 공격할 것입니다.</LetterBlackHiveAttack>
+  <AA_LetterLabelMechanoidSappers>메카노이드 공병단</AA_LetterLabelMechanoidSappers>
+  <AA_LetterMechanoidSappers>아주 오래전부터 숨겨져왔던 고대 메카노이드 조립기가 신비롭게 근처에 나타났습니다.
+
+메카노이드 무리는 재빨리 공격을 준비하며 달려올 것입니다.
+
+이 메카노이드들 중 하나는 무시무시한 데몰리셔이기 때문에 곧장 벽을 파괴하기 위하여 이동할 것입니다.</AA_LetterMechanoidSappers>
+  <AA_LetterLabelMatureFleshbeast>꿀꺽 삼켜짐</AA_LetterLabelMatureFleshbeast>
+  <AA_LetterMatureFleshbeast>이 괴상한 생물이 {0}(을)를 통째로 삼켰습니다! 신속한 대처로 {0_objective} 구할 수 있습니다.</AA_LetterMatureFleshbeast>
+  <AA_LetterLabelFungalHusk>껍질곰팡이</AA_LetterLabelFungalHusk>
+  <AA_LetterFungalHusk>무시무시한 생화학 곰팡이에 의해 부풀어오르고 엉망진창이 된 시체들이 이 지역에 들어왔습니다!
+
+치료하지 않으면 단기간에 사망할 수 있는 곰팡이 감염으로 인해, 위험천만한 그들이 정착민을 공격하지 못하게 하도록 빠른 조치가 필요합니다.</AA_LetterFungalHusk>
+  <HyperweaveDesc>초경조직 생산</HyperweaveDesc>
+  <AA_UraniumCrystalsDesc>우라늄 수정 생성</AA_UraniumCrystalsDesc>
+  <StoneChunkDesc>무작위 돌덩이 생성</StoneChunkDesc>
+  <StoneBlockDesc>무작위 석재 생성</StoneBlockDesc>
+  <MedicinalQuillDesc>의료용 침 성장</MedicinalQuillDesc>
+  <DevilstrandDesc>악마가닥 생산</DevilstrandDesc>
+  <SynthreadDesc>합성원단 생산</SynthreadDesc>
+  <AA_SeasonalWoolDesc>카멜레온 털 생산</AA_SeasonalWoolDesc>
+  <BoomthreadDesc>폭탄가닥 생산</BoomthreadDesc>
+  <ChunkSlagSteelDesc>강철 덩어리 생성</ChunkSlagSteelDesc>
+  <RawMushrooms>야생 버섯 성장</RawMushrooms>
+  <AA_MealNutrientPaste>영양반죽 생산</AA_MealNutrientPaste>
+  <AA_Wood>나무 '손질' 시간</AA_Wood>
+  <AA_MutantImplantsDesc>이식물 배출 시간</AA_MutantImplantsDesc>
+  <AA_CinderSilkDesc>신더비단 생산</AA_CinderSilkDesc>
+  <AA_MothSilkDesc>나방 가닥 생산</AA_MothSilkDesc>
+  <AA_BlueGel>푸른젤 생산</AA_BlueGel>
+  <AA_Luciferium>루시페륨 생산</AA_Luciferium>
+  <allowVanillaAnimals>바닐라 동물 생성 허용 (야생 동물 스폰 설정)</allowVanillaAnimals>
+  <allowBlackHive>검은 둥지 습격 허용</allowBlackHive>
+  <allowStalkingLions>극지사자 사냥개시 허용</allowStalkingLions>
+  <allowCactipineDroppods>선인장뿔쥐 낙하기 사건 허용</allowCactipineDroppods>
+  <allowSpiderClutchMothers>거미 무리어미 사건 허용</allowSpiderClutchMothers>
+  <allowAerofleet>에어로플릿 대이동 사건 허용</allowAerofleet>
+  <allowGallatross>갈라트로스 대이동 사건 허용</allowGallatross>
+  <allowSummitCrab>바위게 사건 허용</allowSummitCrab>
+  <allowBumbledrones>호박말벌 대이동 사건 허용</allowBumbledrones>
+  <allowFrostmiteCorpses>서리진드기가 스스로 시체를 파내도록 허용</allowFrostmiteCorpses>
+  <allowAsteroids>아크투란 하늘장어 소행성 충돌 허용</allowAsteroids>
+  <allowAlphaMechanoids>알파 메카노이드들의 습격, 클러스터, 기타 허용</allowAlphaMechanoids>
+  <allowMechanoidSappers>메카노이드 공병단 습격 허용</allowMechanoidSappers>
+  <allowHelixienCorpseEffect>나선 달팽이 효과 허용 (다른 모드들에 의한 에러 발생시 끄기)</allowHelixienCorpseEffect>
+  <removeAnimalParticles>동물 오물 제거</removeAnimalParticles>
+  <allowAnimalisk>애니멀리스크 생성 허용 (로얄티 필요)</allowAnimalisk>
+  <allowMime>마임 방랑자 합류 이벤트 허용</allowMime>
+  <allowFungalHusk>껍질곰팡이 습격 허용</allowFungalHusk>
+  <AA_DisableAnimal>{0} 비활성</AA_DisableAnimal>
+</LanguageData>

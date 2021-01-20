@@ -2844,20 +2844,6 @@
   <CompRTFuse_WillFlick>방전될 경우 전원을 다시 작동해줘야 합니다.</CompRTFuse_WillFlick>
   <CompRTFuse_WillBreakdown>방전될 경우 다시 수리해야 합니다.</CompRTFuse_WillBreakdown>
 
-  <!--731111514_190818_Mad Skills-->
-  <MadSkills_AlternativeGreatMemoryDescription>{PAWN_nameDef}(은)는 세부적인 내용을 기억하는 엄청난 재능을 가지고 있습니다. {PAWN_pronoun}는 다른 사람들보다 약간 더 빨리 새로운 기술을 배우게 됩니다.</MadSkills_AlternativeGreatMemoryDescription>
-  <MadSkills_AlterGreatMemoryLabel>대체 "대단한 기억력"</MadSkills_AlterGreatMemoryLabel>
-  <MadSkills_DailyXPSaturationThresholdLabel>1일 EXP제한</MadSkills_DailyXPSaturationThresholdLabel>
-  <MadSkills_MultiplierLabel>EXP손실 확대</MadSkills_MultiplierLabel>
-  <MadSkills_SettingsCategory>Mad Skills</MadSkills_SettingsCategory>
-  <MadSkills_SaturatedXPMultiplierLabel>제한초과 배율</MadSkills_SaturatedXPMultiplierLabel>
-  <MadSkills_MultiplierTip>RimWorld초기값: 100%\n아무것도 하지않아 자연스럽게 경험치가 잃어가는 배율(max100 %)의 초기값입니다.\n0%로하면 EXP는 감소하지 않습니다. 50%로 절반으로 200%면 EXP 손실이 두 배가됩니다.</MadSkills_MultiplierTip>
-  <MadSkills_SaturatedXPMultiplierTip>RimWorld초기값: 20%\n그 날 얻은 EXP 상한치가 이미 넘어선 기술에서 얻은 EXP에 곱셈됩니다.\n매일 EXP 취득 제한을 완전히 해제하려면 100 %로 설정합니다.</MadSkills_SaturatedXPMultiplierTip>
-  <MadSkills_DailyXPSaturationThresholdTip>RimWorld초기값: 4000\n이 수치의 기술 EXP가 획득되면 그 이후의 모든 EXP 취득에는 날이 바뀔 때까지 제한이 걸립니다.</MadSkills_DailyXPSaturationThresholdTip>
-  <MadSkills_AlterGreatMemoryTip>림월드의 기본값 : 끄기\n"대단한 기억력" 특징 변화 : 스킬 감소율을 반으로 줄이는 대신 학습률을 25% 증가시킵니다.</MadSkills_AlterGreatMemoryTip>
-  <MadSkills_TieredTip>RimWorld초기값: off\nOn으로하면 자연스럽게 스킬레벨이 저하되는 것을 방지합니다. Off의 경우 EXP 손실배율의 설정에 따라 EXP는 다음단계로 줄어듭니다.</MadSkills_TieredTip>
-  <MadSkills_TieredLabel>Lv저하</MadSkills_TieredLabel>
-
   <!--731732064_190622_Extended Storage-->
   <ExtendedStorage.UsageStat.Value>{0} / {1}</ExtendedStorage.UsageStat.Value>
   <ExtendedStorage.MultipleQualities>{0}+</ExtendedStorage.MultipleQualities>

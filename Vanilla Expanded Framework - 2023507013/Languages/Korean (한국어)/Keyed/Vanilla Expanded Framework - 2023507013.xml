@@ -114,7 +114,7 @@
   <VCE_AllowConditions>음식에 만성적인 건강 상태를 허용합니다(당뇨병, 콜레스테롤, 고혈압)</VCE_AllowConditions>
   <VCE_MustBeInstalled>이 옵션을 활성하려면 바닐라 요리 확장이 구독되어 있어야 합니다.</VCE_MustBeInstalled>
   <VFE_ChunkToMine>{0} 시추</VFE_ChunkToMine>
-  <VFE_ChunkRandomMine>랜덤 석재 덩어리용 드릴</VFE_ChunkRandomMine>
+  <VFE_ChunkRandomMine>무작위 석재 덩어리용 드릴</VFE_ChunkRandomMine>
   <VFE_ChooseMine>석재 덩어리용 드릴을 선택</VFE_ChooseMine>
   <VFE_ChooseMineDesc>채굴할 석재 덩어리 유형을 선택합니다. 지도의 석재 유형 중 하나를 선택하거나 무작위로 선택할 수 있습니다.</VFE_ChooseMineDesc>
   <VFE_RandomRock>무작위 석재</VFE_RandomRock>

@@ -1,37 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  <WakeUpPotion.label>웨이크업 물약</WakeUpPotion.label>
+  <WakeUpPotion.description>항상 눈을 뜨고 있습니다. (실제로는 2일간)</WakeUpPotion.description>
+  <WakeUpPotion.ingestible.ingestCommandString>{0} 복용</WakeUpPotion.ingestible.ingestCommandString>
+  <WakeUpPotion.ingestible.ingestReportString>{0} 복용 중.</WakeUpPotion.ingestible.ingestReportString>
   <FilthIceMage.label>얼음</FilthIceMage.label>
   <MageCloth.label>마법 천</MageCloth.label>
   <MageCloth.description>마법 천입니다.</MageCloth.description>
-  <Ghost.label>유령</Ghost.label>
-  <Ghost.description>유령입니다.</Ghost.description>
-  <Ghost.tools.0.label>왼쪽 주먹</Ghost.tools.0.label>
-  <Ghost.tools.1.label>오른쪽 주먹</Ghost.tools.1.label>
-  <Ghost.tools.2.label>머리</Ghost.tools.2.label>
-
-  <GhostTitan.label>거대 유령</GhostTitan.label>
-  <GhostTitan.description>거대 유령입니다.</GhostTitan.description>
-  <GhostTitan.tools.0.label>왼쪽 주먹</GhostTitan.tools.0.label>
-  <GhostTitan.tools.1.label>오른쪽 주먹</GhostTitan.tools.1.label>
-  <GhostTitan.tools.2.label>머리</GhostTitan.tools.2.label>
-  <GhostTitan.tools.3.label>왼쪽 주먹</GhostTitan.tools.3.label>
-  <GhostTitan.tools.4.label>오른쪽 주먹</GhostTitan.tools.4.label>
-  <GhostTitan.tools.5.label>머리</GhostTitan.tools.5.label>
-
-  <GhostCentaur.label>켄타우로스 유령</GhostCentaur.label>
-  <GhostCentaur.description>켄타우로스 유령입니다.</GhostCentaur.description>
-  <GhostCentaur.tools.0.label>왼쪽 주먹</GhostCentaur.tools.0.label>
-  <GhostCentaur.tools.1.label>오른쪽 주먹</GhostCentaur.tools.1.label>
-  <GhostCentaur.tools.2.label>머리</GhostCentaur.tools.2.label>
-  <GhostCentaur.tools.3.label>왼쪽 주먹</GhostCentaur.tools.3.label>
-  <GhostCentaur.tools.4.label>오른쪽 주먹</GhostCentaur.tools.4.label>
-  <GhostCentaur.tools.5.label>머리</GhostCentaur.tools.5.label>
-
-  <WakeUpPotion.label>웨이크업 물약</WakeUpPotion.label>
-  <WakeUpPotion.description>항상 눈을 뜨고 있습니다.(실제로는 2일간)</WakeUpPotion.description>
-  <WakeUpPotion.ingestible.ingestCommandString>{0} 마시기</WakeUpPotion.ingestible.ingestCommandString>
-  <WakeUpPotion.ingestible.ingestReportString>{0} 마시는 중.</WakeUpPotion.ingestible.ingestReportString>
   <Bullet_GhostMSB.label>마법 에너지</Bullet_GhostMSB.label>
   <GhostMSB.label>마법탄</GhostMSB.label>
   <GhostMSB.description>마법탄입니다.</GhostMSB.description>
@@ -62,5 +37,19 @@
   <MageRifle.description>마법 소총입니다.</MageRifle.description>
   <MageRifle.tools.0.label>개머리판</MageRifle.tools.0.label>
   <MageRifle.tools.1.label>총열</MageRifle.tools.1.label>
-
+  <Ghost.label>유령</Ghost.label>
+  <Ghost.description>유령입니다.</Ghost.description>
+  <Ghost.tools.0.label>왼쪽 주먹</Ghost.tools.0.label>
+  <Ghost.tools.1.label>오른쪽 주먹</Ghost.tools.1.label>
+  <Ghost.tools.2.label>머리</Ghost.tools.2.label>
+  <GhostTitan.label>거대 유령</GhostTitan.label>
+  <GhostTitan.description>거대 유령입니다.</GhostTitan.description>
+  <GhostTitan.tools.0.label>왼쪽 주먹</GhostTitan.tools.0.label>
+  <GhostTitan.tools.1.label>오른쪽 주먹</GhostTitan.tools.1.label>
+  <GhostTitan.tools.2.label>머리</GhostTitan.tools.2.label>
+  <GhostCentaur.label>켄타우로스 유령</GhostCentaur.label>
+  <GhostCentaur.description>켄타우로스 유령입니다.</GhostCentaur.description>
+  <GhostCentaur.tools.0.label>왼쪽 주먹</GhostCentaur.tools.0.label>
+  <GhostCentaur.tools.1.label>오른쪽 주먹</GhostCentaur.tools.1.label>
+  <GhostCentaur.tools.2.label>머리</GhostCentaur.tools.2.label>
 </LanguageData>
