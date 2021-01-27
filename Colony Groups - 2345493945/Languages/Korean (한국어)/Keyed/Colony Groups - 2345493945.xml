@@ -34,14 +34,14 @@
   <TG.HidePawnsWhenOffMap>지도상 정착민 숨기기</TG.HidePawnsWhenOffMap>
   <TG.HideGroups>그룹 숨기기</TG.HideGroups>
   <TG.HideCreateGroup>그룹 생성 숨기기</TG.HideCreateGroup>
-  <TG.HideCreateGroupDesc>그룹 생성 &amp; 설정은 정책 탭 / 모드\n설정에서 찾을 수 있습니다.</TG.HideCreateGroupDesc>
+  <TG.HideCreateGroupDesc>그룹 생성 ＆ 설정은 정책 탭 / 모드\n설정에서 찾을 수 있습니다.</TG.HideCreateGroupDesc>
   <TG.ColonistBarPositionY>정착민 막대 위치 (Y)</TG.ColonistBarPositionY>
   <TG.ColonistBarPositionX>정착민 막대 위치 (X)</TG.ColonistBarPositionX>
   <TG.ColonistBarSpacing>정착민 막대 간격</TG.ColonistBarSpacing>
   <TG.GroupRowCount>그룹 행 개수</TG.GroupRowCount>
   <TG.PawnScale>정착민 표시 크기</TG.PawnScale>
   <TG.GroupScale>그룹 표시 크기</TG.GroupScale>
-  <TG.PawnNeedsSize>정착민 욕구 크기</TG.PawnNeedsSize>
+  <TG.PawnNeedsSize>정착민 욕구 표시 크기</TG.PawnNeedsSize>
   <TG.WeaponOverlayPlacement>무기 표시 위치</TG.WeaponOverlayPlacement>
   <TG.ColorBarModeLabel>색상 막대 프리셋:</TG.ColorBarModeLabel>
   <TG.ColorBarModeDefault>기본</TG.ColorBarModeDefault>
@@ -124,6 +124,7 @@
   <TG.HideGroupPawnDotsOptionsTooltip>그룹 정착민 도트 표시 숨기기</TG.HideGroupPawnDotsOptionsTooltip>
   <TG.HideGroupHealthAlertOverlayOptionsTooltip>그룹 건강경고 표시 숨기기</TG.HideGroupHealthAlertOverlayOptionsTooltip>
   <TG.HideWeaponOverlayOptionsTooltip>그룹 무기 표시 숨기기</TG.HideWeaponOverlayOptionsTooltip>
+  <TG.BanishPawnTooltip>선택한 정착민(들)을 그룹에서 제외</TG.BanishPawnTooltip>
   <TG.HidePawnGroupOptionsTooltip>보조 그룹으로 이동</TG.HidePawnGroupOptionsTooltip>
   <TG.WeaponModeShowDrafted>소집</TG.WeaponModeShowDrafted>
   <TG.WeaponModeShowAlways>항상</TG.WeaponModeShowAlways>

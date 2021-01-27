@@ -107,6 +107,10 @@
   <VanillaFactionsExpanded.FactionButtonCancel>취소</VanillaFactionsExpanded.FactionButtonCancel>
   <VSE.Reinforcements>지원군</VSE.Reinforcements>
   <VSE.ReinforcementsDesc>{FACTION_name}(은)는 당신의 정착민이 피해를 입은 것을 보고, 추가 병력을 보냈습니다.</VSE.ReinforcementsDesc>
+  <VSE.CostGoodwill>비용: {0} 우호도</VSE.CostGoodwill>
+  <MVCF.Toggle>{0} 전환</MVCF.Toggle>
+  <MVCF.ToggleUsing>{0}(을)를 사용하여 자동으로 전환합니다.</MVCF.ToggleUsing>
+  <MVCF.ToggleAuto>자동 사용 전환</MVCF.ToggleAuto>
   <CSGTitle>사용자 지정 생성:</CSGTitle>
   <CSGLog>지정 생성 디버깅 로그를 사용하도록 설정:</CSGLog>
   <TPTitle>호환되는 패치:</TPTitle>

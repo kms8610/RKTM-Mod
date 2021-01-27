@@ -94,10 +94,7 @@
 	<li IfModActive="Torann.ARimworldOfMagic">A RimWorld of Magic - 1201382956 [1.2]</li>
 	<!-- 20.09.07 -->
 	<li IfModActive="VanillaExpanded.VEE">Vanilla Events Expanded - 1938420742 [1.2]</li>
-	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.MedievalModule">Vanilla Factions Expanded - Medieval - 2023513450 [1.2]</li>
-	<li IfModActive="VanillaExpanded.VFECore">Vanilla Furniture Expanded - 1718190143 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VFEProduction">Vanilla Furniture Expanded - Production - 1880253632 [1.2]</li>
-	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Vanilla Factions Expanded - Settlers - 2052918119 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VFEPropsandDecor">Vanilla Furniture Expanded - Props and Decor - 2102143149 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VWEL">Vanilla Weapons Expanded - Laser - 1989352844 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VFESecurity">Vanilla Furniture Expanded - Security - 1845154007 [1.2]</li>
@@ -350,7 +347,6 @@
 	<li IfModActive="akreedz346.antiairartillerycontinued">Anti-Air Artillery [Unofficial Update] - 2045686960</li>
 	<li IfModActive="Teok25.ArchotechExpanded.Prosthetics">Archotech Expanded Prosthetics - 1467604976</li>
 	<li IfModActive="fluffy.blueprints">Blueprints - 708455313</li>
-	<li IfModActive="DerekBickley.LTOColonyGroupsFinal">Colony Groups - 2345493945</li>
 	<li IfModActive="Andross.CombatEnthusiastsCollection">Combat Enthusiast's Collection - 2221508815</li>
 	<li IfModActive="LingLuo.GhostArmy">GhostArmy - 1545401584</li>
 	<li IfModActive="avilmask.GrazingLands">Grazing Lands - 1770268130</li>
@@ -366,9 +362,7 @@
 	<li IfModActive="VanillaExpanded.VFEFarming">Vanilla Furniture Expanded - Farming - 1957158779</li>
 	<li IfModActive="VanillaExpanded.VFEMedical">Vanilla Furniture Expanded - Medical Module - 1718191613</li>
 	<li IfModActive="zymex.prf.lite">Project RimFactory Lite - 2325176756</li>
-	<!-- 2021.01.19 -->
-	<li IfModActive="zerophoenix.contractorsarsenalfaction">Contractors Arsenal - 1576710993</li>
-	<!-- 2021.01.20 -->
+	<!-- 2021.01.20 UPDATE -->
 	<li IfModActive="balistafreak.StopDropAndRoll">Stop, Drop, And Roll! - 2362707956</li>
 	<li IfModActive="VanillaExpanded.VAET">Vanilla Animals Expanded — Tundra - 1895364585</li>
 	<li IfModActive="VanillaExpanded.VFEPower">Vanilla Furniture Expanded - Power - 2062943477</li>
@@ -376,7 +370,17 @@
 	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856</li>
 	<li IfModActive="OskarPotocki.VFE.Mechanoid">Vanilla Factions Expanded - Mechanoids - 2329011599</li>
 	<li IfModActive="Mckay.ColonyLeadership.11">Colony Leadership - 1565942758</li>
+	<!-- 2021.01.25 -->
+	<li IfModActive="zerophoenix.contractorsarsenalfaction">Contractors Arsenal - 1576710993</li>
+	<li IfModActive="jaschaephraim.endlessrimworld">Endless Rimworld - 2369851475</li>
+	<li IfModActive="SGC.moreutilitypacks">More Utility Packs - 2357611837</li>
 	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.MedievalModule">Vanilla Factions Expanded - Medieval - 2023513450</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Vanilla Factions Expanded - Settlers - 2052918119</li>
+	<li IfModActive="VanillaExpanded.VFECore">Vanilla Furniture Expanded - 1718190143</li>
+	<li IfModActive="DerekBickley.LTOColonyGroupsFinal">Colony Groups - 2345493945</li>
+	<!-- 2021.01.27 UPDATE -->
+	<li IfModActive="FS.ReviaRace">Revia Race - 2020041005</li>
   </v1.2>
 
 </loadFolders>
