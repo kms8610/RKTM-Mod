@@ -53,7 +53,6 @@
 	<li IfModActive="dismarzero.VGP.VGPGardenDyesExpanded">VGP Garden Dyes Expanded - 2007062822 [1.2]</li>
 	<li IfModActive="Rearden.RNH">Regenerator Nanohive - 2022375442 [1.2]</li>
 	<li IfModActive="Mlie.MechanicalDefense2Walls">Mechanical Defense 2 Walls (Continued) - 2016313260 [1.2]</li>
-	<li IfModActive="earthyturtle.letstrade">Let's Trade! - 1541261044 [1.2]</li>
 	<li IfModActive="LingLuo.CoolHeater">multi-stage heater - 2012792039 [1.2]</li>
 	<li IfModActive="tremeloe.tankbeds">Tank Bed - 2020858426 [1.2]</li>
 	<li IfModActive="zerophoenix.arsenalfactionless">Contractors Arsenal (Factionless) - 2040946438 [1.2]</li>
@@ -342,7 +341,6 @@
 	<li IfModActive="historic.IndustrialRollers">Industrial Rollers - 784327493</li>
 	<li IfModActive="shakesthespeare.RimsecSecurity">Rimsec Security - 2323762086</li>
 	<li IfModActive="VanillaExpanded.VAEAU">Vanilla Animals Expanded — Australia - 1963681588</li>
-	<li IfModActive="VanillaExpanded.VBrewE">Vanilla Brewing Expanded - 2186560858</li>
 	<!-- 2021.01.17 -->
 	<li IfModActive="akreedz346.antiairartillerycontinued">Anti-Air Artillery [Unofficial Update] - 2045686960</li>
 	<li IfModActive="Teok25.ArchotechExpanded.Prosthetics">Archotech Expanded Prosthetics - 1467604976</li>
@@ -353,7 +351,6 @@
 	<li IfModActive="smashphil.loadinginprogress">Loading In Progress - 1975622772</li>
 	<li IfModActive="ratys.madskills">Mad Skills - 731111514</li>
 	<li IfModActive="Atlas.MedicinesPlus.AT">Medicines+ - 2347448943</li>
-	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700</li>
 	<li IfModActive="VanillaExpanded.VAECD">Vanilla Animals Expanded — Cats and Dogs - 1823540489</li>
 	<li IfModActive="VanillaExpanded.VAED">Vanilla Animals Expanded — Desert - 1849183875</li>
 	<!-- 2021.01.18 -->
@@ -374,13 +371,31 @@
 	<li IfModActive="zerophoenix.contractorsarsenalfaction">Contractors Arsenal - 1576710993</li>
 	<li IfModActive="jaschaephraim.endlessrimworld">Endless Rimworld - 2369851475</li>
 	<li IfModActive="SGC.moreutilitypacks">More Utility Packs - 2357611837</li>
-	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013</li>
 	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.MedievalModule">Vanilla Factions Expanded - Medieval - 2023513450</li>
 	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Vanilla Factions Expanded - Settlers - 2052918119</li>
-	<li IfModActive="VanillaExpanded.VFECore">Vanilla Furniture Expanded - 1718190143</li>
 	<li IfModActive="DerekBickley.LTOColonyGroupsFinal">Colony Groups - 2345493945</li>
 	<!-- 2021.01.27 UPDATE -->
 	<li IfModActive="FS.ReviaRace">Revia Race - 2020041005</li>
+	<!-- 2021.01.28 -->
+	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700</li>
+	<li IfModActive="LingLuo.PlantHuman">Plant Human - 1572026865</li>
+	<!-- 2021.02.01 UPDATE -->
+	<li IfModActive="CaptainMuscles.GoToSleep">Go the F to Sleep - 2369307661</li>
+	<li IfModActive="CaptainMuscles.ChillOut">Chill the F Out - 2369675899</li>
+	<li IfModActive="Erin.JapaneseFurniture">Erin's Japanese Furniture - 2354938860</li>
+	<li IfModActive="TMC.Armory.Shotguns.1">TMC Armory - Shotguns #1 - 2213739770</li>
+	<li IfModActive="TMC.Armory.RF.1">TMC Armory - Sniper Rifles #1 - 2264691528</li>
+	<li IfModActive="TMC.AAM">TMC Equipment - Combat Assist Goggles - 2243681587</li>
+	<li IfModActive="TMC.Armory.SMGs.1">TMC Armory - SMGs #1 - 2240610125</li>
+	<li IfModActive="TMC.Armory.Sidearms.1">TMC Armory - Sidearms #1 - 2224658216</li>
+	<li IfModActive="TMC.Armory.SW.1">TMC Armory - Support Weapons #1 - 2283675720</li>
+	<li IfModActive="Fuji.SRTS.RimHeli">RimHeli - 2158396143</li>
+	<li IfModActive="TMC.Armory.AssaultRifle.1">TMC Armory - Assault Rifles #1 - 2208689786</li>
+	<li IfModActive="Jaxe.RimHUD">RimHUD - 1508850027</li>
+	<li IfModActive="zhrocks11.letstrade">Let's Trade! - 2373633407</li>
+	<li IfModActive="VanillaExpanded.VFECore">Vanilla Furniture Expanded - 1718190143</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013</li>
+	<li IfModActive="VanillaExpanded.VBrewE">Vanilla Brewing Expanded - 2186560858</li>
   </v1.2>
 
 </loadFolders>

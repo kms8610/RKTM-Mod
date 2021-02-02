@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VBE_MakeCocktailSimple.label>간단한 칵테일 조주</VBE_MakeCocktailSimple.label>
+  <VBE_MakeCocktailSimple.label>간단한 칵테일 만들기</VBE_MakeCocktailSimple.label>
   <VBE_MakeCocktailSimple.description>빠르게 두가지 재료를 섞어 간단한 칵테일을 만듭니다.</VBE_MakeCocktailSimple.description>
-  <VBE_MakeCocktailSimple.jobString>간단한 칵테일 조주 중.</VBE_MakeCocktailSimple.jobString>
-  <VBE_MakeCocktailFine.label>좋은 칵테일 조주</VBE_MakeCocktailFine.label>
+  <VBE_MakeCocktailSimple.jobString>간단한 칵테일 만드는 중.</VBE_MakeCocktailSimple.jobString>
+  <VBE_MakeCocktailFine.label>좋은 칵테일 만들기</VBE_MakeCocktailFine.label>
   <VBE_MakeCocktailFine.description>다양한 재료를 정확하게 혼합하여 좋은 칵테일을 만듭니다.</VBE_MakeCocktailFine.description>
-  <VBE_MakeCocktailFine.jobString>좋은 칵테일 조주 중.</VBE_MakeCocktailFine.jobString>
-  <VBE_MakeCocktailLavish.label>호화로운 칵테일 조주</VBE_MakeCocktailLavish.label>
+  <VBE_MakeCocktailFine.jobString>좋은 칵테일 만드는 중.</VBE_MakeCocktailFine.jobString>
+  <VBE_MakeCocktailLavish.label>호화로운 칵테일 만들기</VBE_MakeCocktailLavish.label>
   <VBE_MakeCocktailLavish.description>다양한 재료를 완벽하게 섞은 후 꼼꼼하게 흔들어서 호화로운 칵테일을 만듭니다.</VBE_MakeCocktailLavish.description>
-  <VBE_MakeCocktailLavish.jobString>호화로운 칵테일 조주 중.</VBE_MakeCocktailLavish.jobString>
+  <VBE_MakeCocktailLavish.jobString>호화로운 칵테일 만드는 중.</VBE_MakeCocktailLavish.jobString>
   <VBE_MakeCoffee.label>커피 타기</VBE_MakeCoffee.label>
   <VBE_MakeCoffee.description>우유와 설탕으로 이루어진 따뜻하고 쓴맛이 나는 커피를 만듭니다. 카페인이 높고 향기로워서, 주로 학생들과 직장인들 가장 좋아하는 음료입니다.</VBE_MakeCoffee.description>
   <VBE_MakeCoffee.jobString>커피 타는 중.</VBE_MakeCoffee.jobString>
@@ -24,8 +24,8 @@
   <VBE_AmbrosiaMush.label>암브로시아 맥아즙 만들기</VBE_AmbrosiaMush.label>
   <VBE_AmbrosiaMush.description>암브로시아를 얇게 썰고 눌러서 발효액을 만듭니다. 숙성시키면 증류시킬 수 있습니다.</VBE_AmbrosiaMush.description>
   <VBE_AmbrosiaMush.jobString>암브로시아 맥아즙 만드는 중.</VBE_AmbrosiaMush.jobString>
-  <VBE_MakeTequilaMust.label>테킬라 맥아즙 만들기</VBE_MakeTequilaMust.label>
-  <VBE_MakeTequilaMust.description>얇게 썬 용설란 혹은 백년초를 곤충 고기와 함께 발효통에 넣고 발효시킬 수 있는 맥아즙을 만듭니다.</VBE_MakeTequilaMust.description>
+  <VBE_MakeTequilaMust.label>용설란으로 테킬라 만들기</VBE_MakeTequilaMust.label>
+  <VBE_MakeTequilaMust.description>얇게 썬 용설란을 곤충 고기와 함께 발효통에 넣고 발효시킬 수 있는 맥아즙을 만듭니다.</VBE_MakeTequilaMust.description>
   <VBE_MakeTequilaMust.jobString>테킬라 맥아즙 만드는 중.</VBE_MakeTequilaMust.jobString>
   <VBE_MakeWhiskeyMash.label>위스키 맥아즙 만들기</VBE_MakeWhiskeyMash.label>
   <VBE_MakeWhiskeyMash.description>걸쭉한 덩어리들이 둥둥 뜨는 액체 혼합물을 만듭니다. 꽤 향수적입니다.</VBE_MakeWhiskeyMash.description>
@@ -60,10 +60,13 @@
   <VBE_MakeWhiskeyMashFromFlour.label>위스키 맥아즙 만들기</VBE_MakeWhiskeyMashFromFlour.label>
   <VBE_MakeWhiskeyMashFromFlour.description>걸쭉한 덩어리들이 둥둥 뜨는 액체 혼합물을 만듭니다. 꽤 향수적입니다.</VBE_MakeWhiskeyMashFromFlour.description>
   <VBE_MakeWhiskeyMashFromFlour.jobString>위스키 맥아즙 만드는 중.</VBE_MakeWhiskeyMashFromFlour.jobString>
-  <VBE_MakeCocktailGourmet.label>미식적인 칵테일 조주</VBE_MakeCocktailGourmet.label>
+  <VBE_MakeCocktailGourmet.label>미식적인 칵테일 만들기</VBE_MakeCocktailGourmet.label>
   <VBE_MakeCocktailGourmet.description>유리잔의 온도, 젓는 기구, 고명 종류 등 모든 요소가 맛을 극대화하기 위해 정확히 계산된 고급 칵테일을 만듭니다.</VBE_MakeCocktailGourmet.description>
-  <VBE_MakeCocktailGourmet.jobString>미식적인 칵테일 조주 중.</VBE_MakeCocktailGourmet.jobString>
-  <VBE_MakeUnfermentedCider.label>덜 익은 사과주 조주</VBE_MakeUnfermentedCider.label>
+  <VBE_MakeCocktailGourmet.jobString>미식적인 칵테일 만드는 중.</VBE_MakeCocktailGourmet.jobString>
+  <VBE_MakeTequilaMustFromPears.label>백년초로 테킬라 만들기</VBE_MakeTequilaMustFromPears.label>
+  <VBE_MakeTequilaMustFromPears.description>얇게 썬 백년초를 곤충 고기와 함께 발효통에 넣고 발효시킬 수 있는 맥아즙을 만듭니다.</VBE_MakeTequilaMustFromPears.description>
+  <VBE_MakeTequilaMustFromPears.jobString>테킬라 맥아즙 만드는 중.</VBE_MakeTequilaMustFromPears.jobString>
+  <VBE_MakeUnfermentedCider.label>덜 익은 사과주 만들기</VBE_MakeUnfermentedCider.label>
   <VBE_MakeUnfermentedCider.description>숙성되지 않은 사과주를 만듭니다. 오래두어 적절히 숙성시키면 약한 알코올 음료가 됩니다.</VBE_MakeUnfermentedCider.description>
-  <VBE_MakeUnfermentedCider.jobString>덜 익은 사과주 조주 중.</VBE_MakeUnfermentedCider.jobString>
+  <VBE_MakeUnfermentedCider.jobString>덜 익은 사과주 만드는 중.</VBE_MakeUnfermentedCider.jobString>
 </LanguageData>

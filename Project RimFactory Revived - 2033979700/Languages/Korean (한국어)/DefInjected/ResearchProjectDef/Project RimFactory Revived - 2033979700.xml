@@ -11,7 +11,7 @@
   <PRF_SelfCookingII.label>향상된 자동 조리</PRF_SelfCookingII.label>
   <PRF_SelfCookingII.description>우리 연구원들은 우리 요리기계들로 훨씬 더 좋은 품질의 음식을 생산하는 방법을 발견했습니다.</PRF_SelfCookingII.description>
   <PRF_MachineLearning.label>기계 학습</PRF_MachineLearning.label>
-  <PRF_MachineLearning.description>기계에게 스스로 능력을 향상시키는 방법을 가르칩니다. 어떤 요리법이라도 배울 수 있는 스마트 조립기에 유용합니다.</PRF_MachineLearning.description>
+  <PRF_MachineLearning.description>기계에게 스스로 능력을 향상시키는 방법을 가르칩니다. 어떤 계획서라도 배울 수 있는 스마트 조립기에 유용합니다.</PRF_MachineLearning.description>
   <PRF_MagneticTape.label>자기 테이프</PRF_MagneticTape.label>
   <PRF_MagneticTape.description>구식 자기 테이프를 만들고 사용하여 지침을 저장하는 방법에 대해 알아봅니다. 기계 작업대에서 데이터 디스크를 만듭니다.</PRF_MagneticTape.description>
   <PRF_MagneticTape.discoveredLetterTitle>정보:  데이터베이스의 소개</PRF_MagneticTape.discoveredLetterTitle>
@@ -22,6 +22,8 @@
   <PRF_UniversalAutocrafting.discoveredLetterText>최초의 조립기를 해금했습니다. 이것은 기본적으로 범용 기계입니다. 여러분의 작업대가 할 수 있는 모든 것을 제작할 수 있습니다. 단지 계획서 DB로 계획서를 복사해서 계획서를 보여주기 위해 조립기 근처에 놓아두면 됩니다.\n같은 물품으로 다시 되돌릴 수 없으므로 멘드 앤 리사이클과 같은 모드는 조립기에서는 작동하지 않습니다. 이 경우 사용되는 물품이 파괴되기 때문입니다.\n\n이 조립기는 레벨 10으로 설정되어 있으므로 DB에서는 레벨 10 이하의 계획서만 볼 수 있습니다. 다음 단계로 업그레이드하면 더 똑똑하고 기술 수준이 높아집니다.\n이 조립기는 속도가 고정되어 있으므로 다음 단계처럼 시간이 지남에 따라 향상되지 않습니다.</PRF_UniversalAutocrafting.discoveredLetterText>
   <PRF_SelfCorrectingAssemblers.label>자동 수정 조립기</PRF_SelfCorrectingAssemblers.label>
   <PRF_SelfCorrectingAssemblers.description>제작 속도를 천천히 향상하는 새로운 유형의 조립기를 만드는 방법을 배웁니다.</PRF_SelfCorrectingAssemblers.description>
+  <PRF_SelfCorrectingAssemblersII.label>양자 자가 교정 조립기</PRF_SelfCorrectingAssemblersII.label>
+  <PRF_SelfCorrectingAssemblersII.description>새로운 2종류의 적응형 조립기를 제작하는 법을 배웁니다. 하나는 굉장히 빠르지만 품질이 나쁘고, 다른 하나는 느리지만 좋은 품질로 시작합니다.</PRF_SelfCorrectingAssemblersII.description>
   <PRF_MetalRefining.label>금속 정제</PRF_MetalRefining.label>
   <PRF_MetalRefining.description>고분자 적층을 통해 희귀 금속을 생산할 수 있는 금속 정유소는 화학연료와 강철을 결합하여 플라스틸을 대대적으로 생산할 수 있습니다.</PRF_MetalRefining.description>
   <PRF_EnhancedBatteries.label>향상된 축전지</PRF_EnhancedBatteries.label>
@@ -37,7 +39,7 @@
   <PRF_CoreTierI.label>오일러의 공식</PRF_CoreTierI.label>
   <PRF_CoreTierI.description>"π 는 파이, 원 둘레는 원형과 직경의 비율입니다." 산업화된 식민지로 가는 관문인 자동화의 기본과 메커니즘에 대해 배웁니다.\n 돌 깎기, 요리 등 간단한 전기 공정을 더욱 자동화하기 위해 필요한 수학적 모델을 개발합니다.</PRF_CoreTierI.description>
   <PRF_CoreTierI.discoveredLetterTitle>진정한 자동화 시작</PRF_CoreTierI.discoveredLetterTitle>
-  <PRF_CoreTierI.discoveredLetterText>레오나드 오일러는 물리학과 기하학과 대수학 사이의 상호작용을 위한 수학적 시스템을 개발했습니다.\n이러한 공식으로 돌벽돌, 간단한 예술품과 같은 기초 재료의 자동 생산이 가능합니다.\n계획서에서 사용하는 물품을 흰색 범위에 놓으면, 조정 가능한 녹색 타일로 출력됩니다.</PRF_CoreTierI.discoveredLetterText>
+  <PRF_CoreTierI.discoveredLetterText>레온하르트 오일러는 물리학과 기하학과 대수학 사이의 상호작용을 위한 수학적 시스템을 개발했습니다.\n이러한 공식으로 돌벽돌, 간단한 예술품과 같은 기초 재료의 자동 생산이 가능합니다.\n계획서에서 사용하는 물품을 흰색 범위에 놓으면, 조정 가능한 녹색 타일로 출력됩니다.</PRF_CoreTierI.discoveredLetterText>
   <PRF_CoreTierII.label>모리츠 조직</PRF_CoreTierII.label>
   <PRF_CoreTierII.description>결과를 예측할 수 있는 기계는 우리가 직면하고 있는 많은 디자인적인 결함을 해결할 것입니다. 스스로 발전할 수 있는 기계를 상상해보세요...
    \n우리가 공장화 연구를 더 하기 위해서는 공업화 연구 터미널이 연구 작업대와 연결되어 있어야 합니다.</PRF_CoreTierII.description>
@@ -115,4 +117,6 @@
   <PRF_SteelCrates.description>더 강한 재료는 더 잘 쌓을수 있다는 것을 의미하고, 심지어 더 많은 물건들이 많은 좋은 이유로 이 상자들에 들어갈 수 있어 맹세해</PRF_SteelCrates.description>
   <PRF_StorageIO.label>손스워스 홀로그래피</PRF_StorageIO.label>
   <PRF_StorageIO.description>홀로그램 아티스트 손스워스는 점차 시력을 잃어가고 있음에도 불구하고 여러 해 동안 계속해서 걸작을 만들어냈고, 마침내 홀로그램 데이터 스토리지가 완성되었을 때, 그는 홀로그램 물품 저장고 개발에 중요한 역할을 했습니다.\n 디지털 스토리지 장치에 물품을 무선으로 저장할 수 있습니다. 맵의 모든 I/O 포트로 보낼 수 있으며, I/O 포트에서도 항목을 받을 수 있습니다.\n\n손스워스, 그리울 겁니다.</PRF_StorageIO.description>
+  <PRF_StorageIO_II.label>개선된 무선 저장소</PRF_StorageIO_II.label>
+  <PRF_StorageIO_II.description>추가 연구를 통해 무선 저장 솔루션을 더 많이 활용할 수 있는 방법을 알아냈습니다.\n입/출력 배출기를 건설할 수 있습니다\n더 많은 것들이 이 뒤에 추가될 것입니다.</PRF_StorageIO_II.description>
 </LanguageData>

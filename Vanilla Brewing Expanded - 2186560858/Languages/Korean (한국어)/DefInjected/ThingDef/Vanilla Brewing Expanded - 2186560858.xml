@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VBE_Bar.label>바</VBE_Bar.label>
-  <VBE_Bar.description>다양한 음료를 만들 수 있는 다양한 용기와 물품이 가득 채워진 다소 화려한 탁자입니다. 아이스 박스, 일련의 탭, 호스, 그리고 탄산수제조기가 있어, 일반 양조대보다 훨씬 더 빨리 조주할 수 있습니다.</VBE_Bar.description>
+  <VBE_Bar.description>다양한 음료를 만들 수 있는 다양한 용기와 물품이 가득 채워진 다소 화려한 탁자입니다. 아이스 박스, 일련의 탭, 호스, 그리고 탄산수제조기가 있어, 일반 양조대보다 훨씬 더 빨리 만들 수 있습니다.</VBE_Bar.description>
   <VBE_SodaFountain.label>소다수 증류기</VBE_SodaFountain.label>
   <VBE_SodaFountain.description>일체형 소다수 증류기입니다. 시럽이 물과 완전히 섞이면, 멸균된 병에 넣기 전까진 냉각됩니다.</VBE_SodaFountain.description>
   <VBE_AmbrandyDistillery.label>암브랜디 증류기</VBE_AmbrandyDistillery.label>

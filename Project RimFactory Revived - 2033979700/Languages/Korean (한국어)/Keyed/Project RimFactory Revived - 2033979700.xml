@@ -58,6 +58,7 @@
   <PRF.AutoMachineTool.Slaughterhouse.Setting.KeepCountTip>도축하지 않으려면 {0} {1}의 숫자를 지정하세요.</PRF.AutoMachineTool.Slaughterhouse.Setting.KeepCountTip>
   <PRF.AutoMachineTool.Male>수컷</PRF.AutoMachineTool.Male>
   <PRF.AutoMachineTool.Female>암컷</PRF.AutoMachineTool.Female>
+  <PRF.AutoMachineTool.None>없음</PRF.AutoMachineTool.None>
   <PRF.AutoMachineTool.Adult>성인</PRF.AutoMachineTool.Adult>
   <PRF.AutoMachineTool.Young>어린</PRF.AutoMachineTool.Young>
   <PRF.AutoMachineTool.RaceName>종족 이름</PRF.AutoMachineTool.RaceName>
@@ -209,6 +210,14 @@
   <PRF_SettingsTab_RangeType_CircleRange>원형</PRF_SettingsTab_RangeType_CircleRange>
   <PRF_SettingsTab_RangeType_FacingRectRange>직사각형 면</PRF_SettingsTab_RangeType_FacingRectRange>
   <PRF_SettingsTab_RangeType_RectRange>정사각형 중앙</PRF_SettingsTab_RangeType_RectRange>
+  <PRF_RecipeTab_TabName>데이터베이스</PRF_RecipeTab_TabName>
+  <PRF_RecipeTab_FilterSaved>저장된 계획서 표시</PRF_RecipeTab_FilterSaved>
+  <PRF_RecipeTab_FilterLearnable>배울 수 있는 계획서 표시</PRF_RecipeTab_FilterLearnable>
+  <PRF_RecipeTab_FilterQueue>저장 예정 표시</PRF_RecipeTab_FilterQueue>
+  <PRF_RecipeTab_Button_Learn>배우기</PRF_RecipeTab_Button_Learn>
+  <PRF_RecipeTab_Button_Cancel>취소</PRF_RecipeTab_Button_Cancel>
+  <PRF_RecipeTab_Button_Forget>삭제</PRF_RecipeTab_Button_Forget>
+  <PRF_RecipeTab_Button_Abort>({0}) 중단</PRF_RecipeTab_Button_Abort>
   <PRF_TimeLeftToDisintegrate>분해될 때까지 남은 시간: {0}</PRF_TimeLeftToDisintegrate>
   <PRF_DisintegrationMessage>{0}(이)가 분해되었습니다.</PRF_DisintegrationMessage>
   <PRFPaperclipDuplicatorTab>복제기</PRFPaperclipDuplicatorTab>

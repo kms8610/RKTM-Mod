@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <PRF_Shearer.label>털 깎는 기계</PRF_Shearer.label>
-  <PRF_Shearer.description>행동감지식 산업용 크기의 전단 클리퍼가 있는 스테이션. 정착지 동물에서 양모를 신속하고 자동으로 추출합니다.\n\n진행를 위해 동물을 끌어들이기 위한 음식과 함께 보관하십시오. 전담된 동물이 서 있는 곳에 생산물을 떨어뜨립니다.</PRF_Shearer.description>
+  <PRF_Shearer.description>행동감지식 산업용 크기의 전단 클리퍼가 있는 스테이션. 정착지 동물에서 양모를 신속하고 자동으로 추출합니다.\n\n진행를 위해 동물을 끌어들이기 위한 음식과 함께 보관하세요. 전담된 동물이 서 있는 곳에 생산물을 떨어뜨립니다.</PRF_Shearer.description>
   <PRF_Milker.label>착유기</PRF_Milker.label>
-  <PRF_Milker.description>농장 동물의 젖을 짜기 위해 유선을 찾는 보조 동력 튜브가 장착된 스테이션입니다.\n\n진행을 위해 동물을 끌어들이기 위한 음식과 함께 보관하십시오. 착유 된 동물이 서 있는 곳에 생산물을 떨어뜨립니다.</PRF_Milker.description>
+  <PRF_Milker.description>농장 동물의 젖을 짜기 위해 유선을 찾는 보조 동력 튜브가 장착된 스테이션입니다.\n\n진행을 위해 동물을 끌어들이기 위한 음식과 함께 보관하세요. 착유된 동물이 서 있는 곳에 생산물을 떨어뜨립니다.</PRF_Milker.description>
   <PRF_GenericAnimalHarvester.label>일반 동물 수확기</PRF_GenericAnimalHarvester.label>
-  <PRF_GenericAnimalHarvester.description>더욱 이국적인 종으로부터 모든 종류의 동물성 제품을 부드럽게 추출할 수 있는 다양한 도구를 갖춘 정교한 시설입니다.\n\n진행을 위해 동물을 끌어들이기 위한 음식과 함께 보관하십시오. 동물이 서 있는 곳에 생산물을 떨어뜨립니다.</PRF_GenericAnimalHarvester.description>
+  <PRF_GenericAnimalHarvester.description>더욱 이국적인 종으로부터 모든 종류의 동물성 제품을 부드럽게 추출할 수 있는 다양한 도구를 갖춘 정교한 시설입니다.\n\n진행을 위해 동물을 끌어들이기 위한 음식과 함께 보관하세요. 동물이 서 있는 곳에 생산물을 떨어뜨립니다.</PRF_GenericAnimalHarvester.description>
   <PRF_GenericAnimalHarvester_II.label>첨단 동물 수확기</PRF_GenericAnimalHarvester_II.label>
   <PRF_GenericAnimalHarvester_II.description>동물로부터 다양한 제품을 수확할 수 있는 첨단 동물 수확기로, 전면에 동력 승압기로 더 크게 만들어진 유인구역이 있습니다. RimFridge가 설치되어 있다면 시간이 흘러도 음식이 상하지 않도록 냉동됩니다.</PRF_GenericAnimalHarvester_II.description>
   <PRF_Slaughterhouse.label>도축장</PRF_Slaughterhouse.label>
   <PRF_Slaughterhouse.description>카메라와 초보적인 컴퓨터를 사용하여 동물의 개체 수를 추적하고 정의된 범위 내로 유지하는 자동 도축장입니다.</PRF_Slaughterhouse.description>
   <PRF_RecipeDatabase.label>계획서 데이터베이스</PRF_RecipeDatabase.label>
-  <PRF_RecipeDatabase.description>휴대용 제작법 데이터베이스는 근처의 작업대에서 를 가져올 수 있습니다. 그 후에 조립기(들) 가까이에 설치되면 조립기에 저장된 를 업로드합니다.\n\n파란 칸은 데이터베이스의 불러오는 범위입니다.\n\n데이터베이스가 옮겨지거나 부서진다면 업로드된 제작법이나 주문서도 없어집니다.\n\n이 많은 버튼들의 기능이 뭔지 궁금합니다...</PRF_RecipeDatabase.description>
+  <PRF_RecipeDatabase.description>휴대용 제작법 데이터베이스는 근처의 작업대에서 계획서를 가져올 수 있습니다. 그 후에 조립기(들) 가까이에 설치되면 조립기에 저장된 계획서를 업로드합니다.\n\n하얀 칸은 데이터베이스의 불러오는 범위입니다.\n\n데이터베이스가 옮겨지거나 부서진다면 업로드된 제작법이나 주문서도 없어집니다.\n\n이 많은 버튼들의 기능이 뭔지 궁금합니다...</PRF_RecipeDatabase.description>
   <PRF_TypeOneAssembler_I.label>조립기</PRF_TypeOneAssembler_I.label>
   <PRF_TypeOneAssembler_I.description>컴퓨터에 의해 제어되는 자동 조립기입니다. 조립기라고 하지만, 석재 벽돌 절단 및 제련 작업과 같은 간단한 작업도 수행할 수 있습니다.\n\n인접한 데이터베이스를 내려받습니다.\n\n하얀 칸은 입력 범위, 파란 칸은 Db 범위, 노란 칸은 출력입니다.</PRF_TypeOneAssembler_I.description>
   <PRF_TypeTwoAssembler_I.label>적응형 조립기</PRF_TypeTwoAssembler_I.label>
-  <PRF_TypeTwoAssembler_I.description>기초적인 AI에 의해 제어되는 자동 조립기.\n\n간단한 인공 신경망은 학습이 가능하여 단일 를 더욱 정확하고 효율적으로 작업합니다. 처리 용량과 메모리 용량이 제한되어 있으므로, 현재 사용하지 않는 알고리즘을 천천히 덮어씁니다.\n\n인접한 데이터베이스를 내려받습니다.\n\n하얀 칸은 입력 범위, 파란 칸은 DB 범위, 노란 칸은 출력입니다.</PRF_TypeTwoAssembler_I.description>
+  <PRF_TypeTwoAssembler_I.description>기초적인 AI에 의해 제어되는 자동 조립기.\n\n간단한 인공 신경망은 학습이 가능하여 단일 계획서를 더욱 정확하고 효율적으로 작업합니다. 처리 용량과 메모리 용량이 제한되어 있으므로, 현재 사용하지 않는 계획서 알고리즘을 천천히 덮어씁니다.\n\n인접한 계획서 데이터베이스에서 계획서를 내려받습니다.\n성능\n최소 속도 100% - 최대 500%\n최소 품질 보통 - 최대 걸작\n기술 레벨 20\n예술 레벨 12\nDB 입력 범위 5\n\n\n하얀 칸은 입력 범위, 파란 칸은 DB 범위, 노란 칸은 출력입니다.</PRF_TypeTwoAssembler_I.description>
+  <PRF_TypeTwoAssembler_II.label>적응형 조립기(품질 조)</PRF_TypeTwoAssembler_II.label>
+  <PRF_TypeTwoAssembler_II.description>이 조립기는 정말 느리게 작동하는 업그레이드된 버전이지만, 끔찍할 정도로 느린 대신 보통 품질에서 시작해서 품질을 향상시키는 속도가 빠릅니다. 또한 거대한 데이터베이스와 입력 범위를 갖고 있습니다.\n성능\n최소 속도 10% - 최대 100%\n최소 품질 보통 - 최대 전설적\n기술 레벨 20\n예술 레벨 12\n데이터베이스 입력 범위 24\n\n하얀 칸은 입력 범위, 파란 칸은 데이터베이스 범위, 노란 칸은 출력입니다.</PRF_TypeTwoAssembler_II.description>
+  <PRF_TypeTwoAssembler_III.label>적응형 조립기(오버클럭)</PRF_TypeTwoAssembler_III.label>
+  <PRF_TypeTwoAssembler_III.description>이 버전은 빠른 속도로 작동하며 다른 조립기보다 더 빠르게 속도를 증가시킬 수 있습니다. 이 버전은 보통 품질 이상은 생산할 수 없습니다.또한 거대한 데이터베이스와 입력 범위를 갖고 있습니다.\n성능\n최소 속도 300% - 최대 1000%\n최소 품질 보통 - 최대 보통\n기술 레벨 10\n예술 레벨 1\n데이터베이스 입력 범위 24\n가속배수 100-200%\n\n하얀 칸은 입력 범위, 파란 칸은 데이터베이스 범위, 노란 칸은 출력입니다.</PRF_TypeTwoAssembler_III.description>
   <PRF_4k_Battery.label>4k 축전지</PRF_4k_Battery.label>
   <PRF_4k_Battery.description>4000와트의 전력을 저장할 수 있는 축전지. 50%의 효율을 가지고 있어 충전하는데 8k WD가 소요된다는 것을 의미합니다.</PRF_4k_Battery.description>
   <PRF_16k_Battery.label>16k 축전지</PRF_16k_Battery.label>
@@ -77,7 +81,7 @@
   <PRF_FurnaceII.label>산업용 용광로</PRF_FurnaceII.label>
   <PRF_FurnaceII.description>이 두 번째 용광로는 물건을 태우고 원재료를 유용한 자원으로 만들 수 있는 발전된 산업용 용광로입니다.\n전기를 사용하여 불태울 때 나무 사용량을 줄입니다.</PRF_FurnaceII.description>
   <PRF_FurnaceIII.label>전기 용광로</PRF_FurnaceIII.label>
-  <PRF_FurnaceIII.description>물건을 태우고 원재료를 유용한 자원으로 만들 수 있는 발전된 용광로로, 기존 용광로들보다 빠릅니다.\n\n(이 용광로는 프로젝트 림팩토리에서 제일 빠르고 좋습니다.)\n\n전기로와 화장터의 어떤 라도 갖고올 수 있습니다.</PRF_FurnaceIII.description>
+  <PRF_FurnaceIII.description>물건을 태우고 원재료를 유용한 자원으로 만들 수 있는 발전된 용광로로, 기존 용광로들보다 빠릅니다.\n\n(이 용광로는 프로젝트 림팩토리에서 제일 빠르고 좋습니다.)\n\n전기로와 화장터의 어떤 계획서라도 갖고올 수 있습니다.</PRF_FurnaceIII.description>
   <PRF_FuelingMachine.label>연료 공급 기계</PRF_FuelingMachine.label>
   <PRF_FuelingMachine.description>발전기, 화로, 박격포 및 일반 연료/박격포에 사용하는 기타 모든 것을 주유할 수 있는 간단한 주유 기계입니다.\n일부 변형된 유형 등에도 연료를 공급할 수 있습니다. SoS, CE...\n흰색 셀에 있는 모든 것을 잡아당겨 앞에 있는 것(노란색 셀은 "앞면"을 가리킴) 에 연료를 공급합니다.\n\n("재보급 가능"한 건물과 작동합니다)\n또한 박격포에 포탄을 주입할 수 있습니다.</PRF_FuelingMachine.description>
   <PRF_SmartHopper.label>스마트 호퍼</PRF_SmartHopper.label>
@@ -158,7 +162,9 @@
   <PRF_DigitalStorageUnit_I.label>디지털 스토리지</PRF_DigitalStorageUnit_I.label>
   <PRF_DigitalStorageUnit_I.description>768칸까지 저장할 수 있습니다. 물품의 보관 칸당 10W의 전력을 소모합니다. 정착지의 전력이 부족할 경우, 내부에 있는 물품들은 안전합니다만, 더 이상의 물품을 보관할 수 없습니다.</PRF_DigitalStorageUnit_I.description>
   <PRF_IOPort_I.label>입출력 포트</PRF_IOPort_I.label>
-  <PRF_IOPort_I.description>(티어 3)\n화물 저장 플랫폼의 연결 포트입니다. 지도 내의 모든 범위에 있는 플랫폼에서 원격으로 입력/출력을 설정할 수 있습니다.</PRF_IOPort_I.description>
+  <PRF_IOPort_I.description>디지털 스토리지 장치(DSU) 의 연결 포트입니다. 지도 내의 모든 범위에 있는 플랫폼에서 원격으로 입력/출력을 설정할 수 있습니다.</PRF_IOPort_I.description>
+  <PRF_IOPPusher_I.label>입/출력 배출기</PRF_IOPPusher_I.label>
+  <PRF_IOPPusher_I.description>이 개조된 입/출력 포트를 통해 물품을 다음 칸, 벨트 또는 다른 위치에 직접 밀어넣을 수 있으므로 배출기를 사용하는 공간을 절약할 수 있습니다.\n입력은 할 수 없으므로, 입/출력 포트보다 배출기가 더 많이 필요합니다.</PRF_IOPPusher_I.description>
   <PRF_FloorLampArrow.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_FloorLampArrow.description>
   <PRF_FloorLampArrow.label>노란색 화살표 표시 바닥</PRF_FloorLampArrow.label>
   <PRF_RedFloorLampArrow.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_RedFloorLampArrow.description>
