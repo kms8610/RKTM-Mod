@@ -381,14 +381,6 @@
   <Unease.stages.3.description>왜, 왜, 왜, 왜, 왜, 왜? 하필이면 왜!? 이 모든게 난 싫어!!!</Unease.stages.3.description>
   <MortracainHigh.stages.0.description>우하하! 네이팜 맞아도 끄떡없이 돌아다닐 수 있을 것 같아!</MortracainHigh.stages.0.description>
 
-  <!--1560792909_181119_BloodTypes + BloodBag-->
-  <BloodWorker.stages.0.label>피</BloodWorker.stages.0.label>
-  <BloodWorker.stages.0.description>피</BloodWorker.stages.0.description>
-  <Thoughts_BloodHappy.stages.0.label>헌혈</Thoughts_BloodHappy.stages.0.label>
-  <Thoughts_BloodHappy.stages.0.description>나는 우리 정착지를 위해 피를 뽑았어</Thoughts_BloodHappy.stages.0.description>
-  <Thoughts_BloodReceiveHappy.stages.0.description>내가 헌혈이 필요할 때, 정착지에서 수혈을 받았어.</Thoughts_BloodReceiveHappy.stages.0.description>
-  <Thoughts_BloodReceiveHappy.stages.0.label>헌혈 필요</Thoughts_BloodReceiveHappy.stages.0.label>
-
   <!--1563793492_190519_Milkable Colonists-->
   <Lact-XHigh.stages.0.label>Lact-X에 취함</Lact-XHigh.stages.0.label>
   <Lact-XWithdrawal.stages.1.description>으슬으슬 떨리고 몸이 마음 같지 않아.</Lact-XWithdrawal.stages.1.description>

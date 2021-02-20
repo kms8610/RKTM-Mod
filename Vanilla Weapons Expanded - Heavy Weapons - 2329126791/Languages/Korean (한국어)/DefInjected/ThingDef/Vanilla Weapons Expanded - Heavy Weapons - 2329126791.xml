@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Apparel_Exoframe.label>외골격 슈트</VWE_Apparel_Exoframe.label>
+  <VWE_Apparel_Exoframe.description>유압 장치, 전기 모터, 레버 및 공압 장치에 의해 구동되는 착용 가능한 복장으로, 신속한 이동이 가능하도록 설계되었습니다. 방어력은 없지만 사용자가 더 빨리 걷고, 더 무거운 물건을 들 수 있으며, 균형을 더 쉽게 유지할 수 있습니다.</VWE_Apparel_Exoframe.description>
+  <VWE_Gun_Autocannon.label>대형 포탑</VWE_Gun_Autocannon.label>
+  <VWE_Gun_Autocannon.description>반자동 대포입니다. 대구경 탄환으로 상대에게 큰 피해를 입힐 수 있지만, 조준 속도가 느리고 아주 근접한 대상에게는 발사할 수 없습니다.\n\n이 무기는 너무 무거워서, 장비하려면 중무장된 갑옷이 필요합니다.\n\n사용 횟수가 제한되어 있습니다.</VWE_Gun_Autocannon.description>
+  <VWE_Gun_Autocannon.tools.0.label>손잡이</VWE_Gun_Autocannon.tools.0.label>
+  <VWE_Gun_Autocannon.tools.1.label>총열</VWE_Gun_Autocannon.tools.1.label>
+  <VWE_Gun_HandheldMortar.label>휴대용 박격포</VWE_Gun_HandheldMortar.label>
+  <VWE_Gun_HandheldMortar.description>벽을 넘어 포탄을 발사할 수 있는 박격포입니다. 정확하지 않지만 사거리가 넓습니다. 조준 속도가 느리고 아주 근접한 대상에게는 발사할 수 없습니다.\n\n이 무기는 너무 무거워서, 장비하려면 중무장된 갑옷이 필요합니다.\n\n사용 횟수가 제한되어 있습니다.</VWE_Gun_HandheldMortar.description>
+  <VWE_Gun_HandheldMortar.tools.0.label>손잡이</VWE_Gun_HandheldMortar.tools.0.label>
+  <VWE_Gun_HandheldMortar.tools.1.label>총열</VWE_Gun_HandheldMortar.tools.1.label>
+  <VWE_Gun_HeavyFlamer.label>화염방사기</VWE_Gun_HeavyFlamer.label>
+  <VWE_Gun_HeavyFlamer.description>메카노이드식 지옥화염포를 기반으로 한 강력한 화염방사기입니다. 전방의 넓은 영역을 화염에 휩싸일 수 있습니다.\n\n이 무기는 너무 무거워서, 장비하려면 중무장된 갑옷이 필요합니다.\n\n사용 횟수가 제한되어 있습니다.</VWE_Gun_HeavyFlamer.description>
+  <VWE_Gun_HeavyFlamer.tools.0.label>손잡이</VWE_Gun_HeavyFlamer.tools.0.label>
+  <VWE_Gun_HeavyFlamer.tools.1.label>총열</VWE_Gun_HeavyFlamer.tools.1.label>
+  <VWE_Gun_SwarmMissileLauncher.label>다연장 미사일 발사기</VWE_Gun_SwarmMissileLauncher.label>
+  <VWE_Gun_SwarmMissileLauncher.description>8발의 작은 미사일을 발사하는 로켓 발사기입니다. 각 미사일은 서로 다른 목표물을 추적합니다.\n\n이 무기는 너무 무거워서, 장비하려면 중무장된 갑옷이 필요합니다.\n\n사용 횟수가 제한되어 있습니다.</VWE_Gun_SwarmMissileLauncher.description>
+  <VWE_Gun_SwarmMissileLauncher.tools.0.label>손잡이</VWE_Gun_SwarmMissileLauncher.tools.0.label>
+  <VWE_Gun_SwarmMissileLauncher.tools.1.label>총열</VWE_Gun_SwarmMissileLauncher.tools.1.label>
+  <VWE_Bullet_SwarmRocket.label>다연장 로켓</VWE_Bullet_SwarmRocket.label>
+  <VWE_Gun_UraniumSlugRifle.label>저격포</VWE_Gun_UraniumSlugRifle.label>
+  <VWE_Gun_UraniumSlugRifle.description>저격포입니다. 초밀도의 우라늄 탄환은 중장갑을 관통할 수 있습니다. 거리가 멀수록 명중률이 더 올라가지만 아주 근접한 대상에게는 발사할 수 없습니다.\n\n이 무기는 너무 무거워서, 장비하려면 중무장된 갑옷이 필요합니다.\n\n사용 횟수가 제한되어 있습니다.</VWE_Gun_UraniumSlugRifle.description>
+  <VWE_Gun_UraniumSlugRifle.tools.0.label>손잡이</VWE_Gun_UraniumSlugRifle.tools.0.label>
+  <VWE_Gun_UraniumSlugRifle.tools.1.label>총열</VWE_Gun_UraniumSlugRifle.tools.1.label>
+</LanguageData>

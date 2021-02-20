@@ -1890,13 +1890,6 @@
   <InstallThirdLeg.description>세 번째 다리를 이식합니다.</InstallThirdLeg.description>
   <InstallSecondLiver.description>두 번째 간을 이식합니다.</InstallSecondLiver.description>
 
-  <!--1560792909_181119_BloodTypes + BloodBag-->
-  <Administer_BloodBag.label>수혈 하기</Administer_BloodBag.label>
-  <Administer_BloodBag.jobString>수혈을 하는 중.</Administer_BloodBag.jobString>
-  <DonateBlood.label>수혈팩 추출</DonateBlood.label>
-  <DonateBlood.jobString>피를 뽑는 중.</DonateBlood.jobString>
-  <DonateBlood.description>피를 1리터 뽑아냅니다.</DonateBlood.description>
-
   <!--1563793492_190519_Milkable Colonists-->
   <Administer_Lact-MAX.label>lact-MAX 투여</Administer_Lact-MAX.label>
   <Administer_Lact-X.label>lact-X 투여</Administer_Lact-X.label>

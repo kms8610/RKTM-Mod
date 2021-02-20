@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Gun_GaussRifle.label>가우스 소총</VWE_Gun_GaussRifle.label>
+  <VWE_Gun_GaussRifle.description>우주 기술의 가우스 소총입니다. 일련의 코일이 강자성으로 된 이탈피를 빠른 속도로 발사하여, 중장갑을 뚫고 여러 대상을 관통합니다. 보통 최전방에서 메카노이드와 싸우는 군인들이 즐겨씁니다.</VWE_Gun_GaussRifle.description>
+  <VWE_Gun_GaussRifle.tools.0.label>개머리판</VWE_Gun_GaussRifle.tools.0.label>
+  <VWE_Gun_GaussRifle.tools.1.label>총열</VWE_Gun_GaussRifle.tools.1.label>
+  <VWE_Gun_GaussMagnum.label>가우스 권총</VWE_Gun_GaussMagnum.label>
+  <VWE_Gun_GaussMagnum.description>우주 기술의 가우스 권총입니다. 일련의 코일로 된 실린더에서 발사체를 가속하여 중장갑을 뚫고 목표물을 관통합니다. 다른 코일건보다 피해량이 낮지만, 장전속도는 더 빠릅니다.</VWE_Gun_GaussMagnum.description>
+  <VWE_Gun_GaussMagnum.tools.0.label>손잡이</VWE_Gun_GaussMagnum.tools.0.label>
+  <VWE_Gun_GaussMagnum.tools.1.label>총열</VWE_Gun_GaussMagnum.tools.1.label>
+  <VWE_Gun_GaussLance.label>가우스 포</VWE_Gun_GaussLance.label>
+  <VWE_Gun_GaussLance.description>우주 기술의 가우스 포입니다. 일련의 전자기 코일에서 단 한 발을, 초고속으로 발사하여 중장갑을 갈기갈기 찢고 모든 목표물을 관통합니다. 내장된 컴퓨터로 멀리 있는 대상을 자동으로 추적하기 때문에 지향사격이 가능합니다.</VWE_Gun_GaussLance.description>
+  <VWE_Gun_GaussLance.tools.0.label>총열</VWE_Gun_GaussLance.tools.0.label>
+</LanguageData>

@@ -100,7 +100,6 @@
 	<li IfModActive="VanillaExpanded.VFESpacer">Vanilla Furniture Expanded - Spacer Module - 2028381079 [1.2]</li>
 	<!-- 20.09.08 -->
 	<li IfModActive="dismarzero.VGP.VGPGardenDyes">VGP Garden Dyes - 2007062688 [1.2]</li>
-	<li IfModActive="dismarzero.VGP.VGPVegetableGarden">VGP Vegetable Garden - 2007061826 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VHE.Beards">Vanilla Hair Expanded - Beards - 2187520791 [1.2]</li>
 	<!-- 20.09.09 -->
 	<li IfModActive="VanillaExpanded.VCookEStews">Vanilla Cooking Expanded - Stews - 2134312965 [1.2]</li>
@@ -132,7 +131,6 @@
 	<!-- 20.10.01 -->
 	<li IfModActive="khamenman.armorracks">Armor Racks - 1875828205 [1.2]</li>
 	<li IfModActive="Mlie.BestMix">Best Mix (Continued) - 2195986094 [1.2]</li>
-	<li IfModActive="Mlie.SDBridges">Bridges (Continued) - 2036488024 [1.2]</li>
 	<li IfModActive="rimofmadness.callofcthulhu.factions">Call of Cthulhu - Factions - 764375772 [1.1]</li>
 	<li IfModActive="Santa.Straitjackets">Call of Cthulhu - Straitjackets - 2232943730 [1.2]</li>
 	<li IfModActive="changedresser.kv.rw">Change Dresser - 1385697110 [1.2]</li>
@@ -149,7 +147,6 @@
 	<li IfModActive="Ekai.FavLocker">Fav Locker - 2160977038 [1.2]</li>
 	<li IfModActive="Vanya.Polarisbloc.CoreLab">Polarisbloc - Core LAB - 1500244593 [1.2]</li>
 	<!-- 20.10.03 -->
-	<li IfModActive="Mlie.Aquarium">Aquarium (Continued) - 2194463553 [1.2]</li>
 	<li IfModActive="Ykara.EPOE">Expanded Prosthetics and Organ Engineering - 725956940 [1.2]</li>
 	<li IfModActive="Stolij.MoreBatteries">More Batteries - 747397788 [1.2]</li>
 	<li IfModActive="TheGoofyOne.Flashlights">Flashlights - 1746902829 [1.2]</li>
@@ -278,7 +275,6 @@
 	<li IfModActive="n7huntsman.combatshields">Combat Shields - 1588616696 [1.2]</li>
 	<li IfModActive="Mlie.LordoftheRimsElves">Lord of the Rims - Elves (Continued) - 2244183992 [1.2]</li>
 	<!-- 20.12.06 -->
-	<li IfModActive="VanillaExpanded.VARME">Vanilla Armour Expanded - 1814988282 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VAPPE">Vanilla Apparel Expanded - 1814987817 [1.2]</li>
 	<!-- 20.12.07 -->
 	<li IfModActive="xen.races.jaffa">RimGate - Jaffa, Kree! 6.0.0 - 2018387536 [1.1]</li>
@@ -396,6 +392,29 @@
 	<li IfModActive="VanillaExpanded.VFECore">Vanilla Furniture Expanded - 1718190143</li>
 	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013</li>
 	<li IfModActive="VanillaExpanded.VBrewE">Vanilla Brewing Expanded - 2186560858</li>
+	<!-- 2021.02.02 -->
+	<li IfModActive="VanillaExpanded.VARME">Vanilla Armour Expanded - 1814988282</li>
+	<li IfModActive="VanillaExpanded.VWEHW">Vanilla Weapons Expanded - Heavy Weapons - 2329126791</li>
+	<li IfModActive="Kerevan.HisaFaction">Hisa Faction - 1617772184</li>
+	<!-- 2021.02.17 -->
+	<li IfModActive="VanillaExpanded.VAEEndAndExt">Vanilla Animals Expanded — Endangered - 2366589898</li>
+	<li IfModActive="TMC.Armory.CommunityPack">TMC Armory - Community Pack  - 2297887643</li>
+	<li IfModActive="ALIEN.CensoredArmory">Censored Armory - 2356277786</li>
+	<li IfModActive="Mlie.Aquarium">Aquarium (Continued) - 2194463553</li>
+	<li IfModActive="Aoba.Fortress.Neolithic">Fortifications - Neolithic - 2385960678</li>
+	<li IfModActive="spdskatr.projectrimfactory.drones">Project RimFactory - Drones - 2037491557</li>
+	<li IfModActive="isorex.falloutnewvegaseliteriotgear">Fallout New Vegas - Elite Riot Gear - 2352667815</li>
+	<li IfModActive="VanillaExpanded.VWEC">Vanilla Weapons Expanded - Coilguns - 2375692535</li>
+	<li IfModActive="SR.HeadAndTailDecorationsEasy">Head And Tail Decorations-Compatible - 2383857612</li>
+	<li IfModActive="BulletMagnet.PSSLessLethalDefenceSystem">Less-Lethal Defence System - 2383958584</li>
+	<li IfModActive="zlj.staticQualityPlus.124">Static Quality Plus - 737358776</li>
+	<li IfModActive="Mlie.SDBridges">Bridges (Continued) - 2036488024</li>
+	<li IfModActive="TMCArmory.Attachments">TMC Gun Accessories - 2297887939</li>
+	<li IfModActive="dismarzero.VGP.VGPVegetableGarden">VGP Vegetable Garden - 2007061826</li>
+	<!-- 2021.02.20 -->
+	<li IfModActive="ONegative.CommunicableDiseases">Communicable Diseases - 2016577520</li>
+	<li IfModActive="thecodewarrior.ArmoredFloors">Armored Floors - 2011863224</li>
+	<li IfModActive="Mlie.BloodTypesBloodBag">BloodTypes + BloodBag (Continued) - 2218473451</li>
   </v1.2>
 
 </loadFolders>

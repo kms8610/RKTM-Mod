@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FT_Palisade.label>방책</FT_Palisade.label>
+  <FT_Palisade.description>부족이나 요새화된 마을들에서 주로 사용하는 기본적인 방어시설입니다. 만드는 데 시간이 좀 걸리지만 믿을 만 합니다.</FT_Palisade.description>
+  <FT_Palisade_Frame.label>방책 틀</FT_Palisade_Frame.label>
+  <FT_Palisade_Frame.description>문틀입니다.</FT_Palisade_Frame.description>
+  <FT_Palisade_Frame_B.label>방책 틀(1x2)</FT_Palisade_Frame_B.label>
+  <FT_Palisade_Frame_B.description>1x2 크기의 큰 문틀입니다.</FT_Palisade_Frame_B.description>
+  <FT_Palisade_Corner.label>방책 모서리</FT_Palisade_Corner.label>
+  <FT_Palisade_Corner.description>부족이나 요새화된 마을들에서 주로 사용하는 기본적인 방어시설입니다. 만드는 데 시간이 좀 걸리지만 믿을 만 합니다.</FT_Palisade_Corner.description>
+  <FT_Palisade_Embrasures.label>방책 총안구</FT_Palisade_Embrasures.label>
+  <FT_Palisade_Embrasures.description>부족이나 요새화된 마을들에서 주로 사용하는 기본적인 방어시설입니다. 만드는 데 시간이 좀 걸리지만 믿을 만합니다. 벽 너머로 사격 할 수 있도록 총안구가 파여있습니다.</FT_Palisade_Embrasures.description>
+  <FT_CavalrySpike.label>거마창</FT_CavalrySpike.label>
+  <FT_CavalrySpike.description>적의 갑작스런 돌격을 방어하기위해 건설된 방어시설로, 보통 기병대 주둔지 주변에 설치됩니다.</FT_CavalrySpike.description>
+  <FT_Ditch.label>도랑</FT_Ditch.label>
+  <FT_Ditch.description>간단한 도랑입니다. 보강이 불가능하며, 폭발에 의해 무너질 수도 있습니다.</FT_Ditch.description>
+  <FT_PalisadeDoor.label>관문</FT_PalisadeDoor.label>
+  <FT_PalisadeDoor.description>나무로 만든 관문입니다. 견고하지만 불에 잘 탑니다.</FT_PalisadeDoor.description>
+</LanguageData>

@@ -4546,9 +4546,6 @@
   <SadjuukWoodenPallet_Blueprint_Install.label>목재 팔레트 (청사진)</SadjuukWoodenPallet_Blueprint_Install.label>
   <SadjuukWoodenPallet_Frame.label>목재 팔레트 (건설 중)</SadjuukWoodenPallet_Frame.label>
 
-  <!--1560792909_181119_BloodTypes + BloodBag-->
-  <BloodBag.label>수혈팩</BloodBag.label>
-
   <!--1563793492_190519_Milkable Colonists-->
   <Lact-MAX.description>영구히 모유분비가 이루어지는 약물, Lact-X 중독을 일으킵니다. \n\n동물에게는 모유분비 효과가 없습니다.</Lact-MAX.description>
   <Lact-X.description>모유분비가 되도록 해주는 중독성 강한 약물입니다. \n\n3일 간격으로 지속적으로 투여해야 모유분비 효과가 유지됩니다. \n\n동물들에게 모유분비 효과가 없습니다.</Lact-X.description>
