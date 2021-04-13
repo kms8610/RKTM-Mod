@@ -6,7 +6,7 @@
   <Mentalight.description>의료용 항우울제 나노기기입니다. 5일간 효과가 지속됩니다.</Mentalight.description>
   <Blocker.label>차단기</Blocker.label>
   <Blocker.description>통과할 수 없는 차단기, 높은 기술력으로 만들어진 모래 주머니입니다.</Blocker.description>
-  <HisaHyperSleepBed.label>히사 초수면 침대입니다.</HisaHyperSleepBed.label>
+  <HisaHyperSleepBed.label>히사 초수면 침대</HisaHyperSleepBed.label>
   <HisaHyperSleepBed.description>히사 초수면 침대입니다.</HisaHyperSleepBed.description>
   <HisaHyperSleepBedBig.label>2인용 초수면 침대</HisaHyperSleepBedBig.label>
   <HisaHyperSleepBedBig.description>두 명을 위한 히사 초수면 침대입니다.</HisaHyperSleepBedBig.description>
@@ -35,7 +35,7 @@
   <HisaBlackGate.label>검은 문</HisaBlackGate.label>
   <HisaBlackGate.description>검은 문은 히사 자주국의 기술적인 경이로, 이 건물은 근처의 히사 기지로 가는 포탈을 열고 당신의 기만을 돕기 위해 엘리트 용병들을 소환합니다!</HisaBlackGate.description>
   <HisaDoor.label>히사 문</HisaDoor.label>
-  <HisaDoor.description>희미한 푸른 빛이 나는 하이테크 도어, 이국적인 가루의 과도한 힘은 약간의 추가 에너지를 생성합니다.</HisaDoor.description>
+  <HisaDoor.description>희미한 푸른 빛이 나는 하이테크 도어, 신비한 가루의 과도한 힘은 약간의 추가 에너지를 생성합니다.</HisaDoor.description>
   <HisaWall.label>히사 벽</HisaWall.label>
   <HisaWall.description>희미한 푸른 빛으로 빛나는 통과할 수 없는 벽. 지붕을 받칠 수 있습니다.</HisaWall.description>
   <TurretGunPlasma.label>히사 플라즈마 포탑</TurretGunPlasma.label>
@@ -62,8 +62,8 @@
   <Gun_TurretAA.description>포탑에 급조된 총입니다.</Gun_TurretAA.description>
   <EnergyCrystal.label>에너지 수정</EnergyCrystal.label>
   <EnergyCrystal.description>에너지 수정. 여러가지 장치들의 동력원으로 사용됩니다.</EnergyCrystal.description>
-  <ExoticDust.label>이국적인 가루</ExoticDust.label>
-  <ExoticDust.description>이국적인 가루는 물질 변환기에서 다른 자원으로 변형될 수 있습니다.</ExoticDust.description>
+  <ExoticDust.label>외계의 먼지</ExoticDust.label>
+  <ExoticDust.description>신비한 가루는 물질 변환기에서 다른 자원으로 변형될 수 있습니다.</ExoticDust.description>
   <Apparel_PowerArmorHisa.label>히사 전술갑옷</Apparel_PowerArmorHisa.label>
   <Apparel_PowerArmorHisa.description>히사의 첨단 과학기술로 만들어진 군용 전술갑옷으로, 에너지 날개들은 속도와 회피를 대단히 증가시켜줍니다.</Apparel_PowerArmorHisa.description>
   <Apparel_HisaHeaddress.label>히사 전술 머리장식</Apparel_HisaHeaddress.label>
@@ -155,7 +155,7 @@
   <Apparel_HisaEVAHelmet.label>히사 EVA 헬멧</Apparel_HisaEVAHelmet.label>
   <Apparel_HisaEVAHelmet.description>히사의 첨단 과학기술로 만들어진 군용 EVA 헬멧입니다.</Apparel_HisaEVAHelmet.description>
   <HisaSRTS.label>히사 STRS: 츠바메</HisaSRTS.label>
-  <HisaSRTS.description>스피드에 특화된 히사 디자인의 함선입니다. 재급유에는 한 개의 에너지 크리스탈이면 충분합니다.
+  <HisaSRTS.description>속도에 특화된 히사 디자인의 함선입니다. 재급유에는 한 개의 에너지 크리스탈이면 충분합니다.
 
 승객 숫자: 최소1 - 최대 7
 

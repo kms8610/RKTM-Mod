@@ -67,12 +67,6 @@
   <RazerWire.label>면도날형 철조망</RazerWire.label>
   <RazerWire.description>가시 대신 면도날형의 칼날을 달아놓은 철선으로 만든 철조망입니다. 지나다닐 때 날카로운 피해를 입히는 함정을 만드세요.</RazerWire.description>
 
-  <!--1584460699_190815_Craftable Synthetics-->
-  <SynthreadTechCrafting.label>합성원단</SynthreadTechCrafting.label>
-  <SynthreadTechCrafting.description>악마가닥과 천 및 강철을 사용하여 합성원단을 생산할 수 있습니다.</SynthreadTechCrafting.description>
-  <HyperweaveTechCrafting.label>초경조직</HyperweaveTechCrafting.label>
-  <HyperweaveTechCrafting.description>합성원단과 플라스틸을 사용하여 합성 과정을 향상시키십시오.</HyperweaveTechCrafting.description>
-
   <!--1663737210_190815_Synthetic Leather-->
   <cheerySyntheLeatherRes.label>합성원단 가죽</cheerySyntheLeatherRes.label>
   <cheerySyntheLeatherRes.description>화학연료와 재료를 사용하여 연료 정제기에서 플라스틱을 기반으로 하는 가죽을 생산합니다.</cheerySyntheLeatherRes.description>

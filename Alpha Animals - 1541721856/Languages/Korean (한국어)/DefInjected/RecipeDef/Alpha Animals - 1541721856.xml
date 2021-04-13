@@ -3,8 +3,8 @@
   <AA_ExtractUranium.label>우라늄 결정 추출</AA_ExtractUranium.label>
   <AA_ExtractUranium.description>정제되지 않은 우라늄 결정에서 유용한 물질을 추출합니다.</AA_ExtractUranium.description>
   <AA_ExtractUranium.jobString>TargetA에서 우라늄 결정 추출 중.</AA_ExtractUranium.jobString>
-  <AA_BlueGel_To_Hexagel.label>푸른젤을 헥사젤로 압축합니다.</AA_BlueGel_To_Hexagel.label>
-  <AA_BlueGel_To_Hexagel.description>고압으로 푸른젤을 압축하여 헥사젤의 결정화 입방체를 제작합니다.</AA_BlueGel_To_Hexagel.description>
+  <AA_BlueGel_To_Hexagel.label>푸른젤을 헥사젤로 압축</AA_BlueGel_To_Hexagel.label>
+  <AA_BlueGel_To_Hexagel.description>고압으로 푸른젤을 압축하여 헥사젤의 결정 입방체를 제작합니다.</AA_BlueGel_To_Hexagel.description>
   <AA_BlueGel_To_Hexagel.jobString>푸른젤 압축 중.</AA_BlueGel_To_Hexagel.jobString>
   <AA_Make_HexagelCore.label>헥사젤 코어 제작</AA_Make_HexagelCore.label>
   <AA_Make_HexagelCore.description>헥사젤과 우라늄을 안정제로 사용하여 헥사젤 코어를 제작합니다.</AA_Make_HexagelCore.description>
@@ -18,12 +18,18 @@
   <AA_InstallMutantEye.label>돌연변이 눈 이식</AA_InstallMutantEye.label>
   <AA_InstallMutantEye.description>돌연변이 눈을 이식합니다.</AA_InstallMutantEye.description>
   <AA_InstallMutantEye.jobString>돌연변이 눈 이식 중.</AA_InstallMutantEye.jobString>
-  <AB_InstallSimpleTentacle.label>간단한 촉수 보철물 설치</AB_InstallSimpleTentacle.label>
-  <AB_InstallSimpleTentacle.description>간단한 촉수 보철물을 설치합니다.</AB_InstallSimpleTentacle.description>
-  <AB_InstallSimpleTentacle.jobString>간단한 촉수 보철물 설치 중.</AB_InstallSimpleTentacle.jobString>
+  <AB_InstallSimpleTentacle.label>간단한 촉수 보철물 이식</AB_InstallSimpleTentacle.label>
+  <AB_InstallSimpleTentacle.description>간단한 촉수 보철물을 이식합니다.</AB_InstallSimpleTentacle.description>
+  <AB_InstallSimpleTentacle.jobString>간단한 촉수 보철물 이식 중.</AB_InstallSimpleTentacle.jobString>
   <AB_InstallBionicTentacle.label>생체공학 촉수 이식</AB_InstallBionicTentacle.label>
   <AB_InstallBionicTentacle.description>생체공학 촉수를 이식합니다.</AB_InstallBionicTentacle.description>
   <AB_InstallBionicTentacle.jobString>생체공학 촉수 이식 중.</AB_InstallBionicTentacle.jobString>
+  <AA_InstallSimpleBeak.label>간단한 부리 이식</AA_InstallSimpleBeak.label>
+  <AA_InstallSimpleBeak.description>간단한 부리 이식.</AA_InstallSimpleBeak.description>
+  <AA_InstallSimpleBeak.jobString>간단한 부리 이식 중.</AA_InstallSimpleBeak.jobString>
+  <AA_InstallBionicBeak.label>생체공학 부리 이식</AA_InstallBionicBeak.label>
+  <AA_InstallBionicBeak.description>생체공학 부리 이식.</AA_InstallBionicBeak.description>
+  <AA_InstallBionicBeak.jobString>생체공학 부리 이식 중.</AA_InstallBionicBeak.jobString>
   <AA_InstallBionicMotionDetector.label>생체공학 시각 센서 이식</AA_InstallBionicMotionDetector.label>
   <AA_InstallBionicMotionDetector.description>생체공학 시각 센서를 이식합니다. 수술을 위하여 8 이상의 의료 기술이 필요합니다.</AA_InstallBionicMotionDetector.description>
   <AA_InstallBionicMotionDetector.jobString>생체공학 시각 센서 이식 중.</AA_InstallBionicMotionDetector.jobString>
@@ -33,27 +39,92 @@
   <AA_InstallBionicBuoyancy.label>생체공학 부력 보조물 이식</AA_InstallBionicBuoyancy.label>
   <AA_InstallBionicBuoyancy.description>생체공학 부력 보조물을 이식합니다. 수술을 위하여 8 이상의 의료 기술이 필요합니다.</AA_InstallBionicBuoyancy.description>
   <AA_InstallBionicBuoyancy.jobString>생체공학 부력 보조물 이식 중.</AA_InstallBionicBuoyancy.jobString>
-  <AB_InstallSimpleShell.label>간단한 껍질 설치</AB_InstallSimpleShell.label>
-  <AB_InstallSimpleShell.description>간단한 껍질을 설치합니다.</AB_InstallSimpleShell.description>
-  <AB_InstallSimpleShell.jobString>간단한 껍질 설치 중.</AB_InstallSimpleShell.jobString>
+  <AB_InstallSimpleShell.label>간단한 껍질 이식</AB_InstallSimpleShell.label>
+  <AB_InstallSimpleShell.description>간단한 껍질을 이식합니다.</AB_InstallSimpleShell.description>
+  <AB_InstallSimpleShell.jobString>간단한 껍질 이식 중.</AB_InstallSimpleShell.jobString>
   <AA_InstallBionicShell.label>생체공학 껍질 이식</AA_InstallBionicShell.label>
   <AA_InstallBionicShell.description>생체공학 껍질을 이식합니다. 수술을 위하여 8 이상의 의료 기술이 필요합니다.</AA_InstallBionicShell.description>
   <AA_InstallBionicShell.jobString>생체공학 껍질 이식 중.</AA_InstallBionicShell.jobString>
-  <AB_InstallSimpleWing.label>간단한 의익 설치</AB_InstallSimpleWing.label>
-  <AB_InstallSimpleWing.description>간단한 의익을 설치합니다.</AB_InstallSimpleWing.description>
-  <AB_InstallSimpleWing.jobString>간단한 의익 설치 중.</AB_InstallSimpleWing.jobString>
-  <AA_InstallBionicWing.label>생체공학 날개 설치</AA_InstallBionicWing.label>
+  <AB_InstallSimpleWing.label>간단한 의익 이식</AB_InstallSimpleWing.label>
+  <AB_InstallSimpleWing.description>간단한 의익을 이식합니다.</AB_InstallSimpleWing.description>
+  <AB_InstallSimpleWing.jobString>간단한 의익 이식 중.</AB_InstallSimpleWing.jobString>
+  <AA_InstallBionicWing.label>생체공학 날개 이식</AA_InstallBionicWing.label>
   <AA_InstallBionicWing.description>생체공학 날개를 이식합니다. 수술을 위하여 8 이상의 의료 기술이 필요합니다.</AA_InstallBionicWing.description>
   <AA_InstallBionicWing.jobString>생체공학 날개 이식 중.</AA_InstallBionicWing.jobString>
-  <AB_InstallSimpleClaw.label>간단한 발톱 설치</AB_InstallSimpleClaw.label>
-  <AB_InstallSimpleClaw.description>간단한 발톱을 설치합니다.</AB_InstallSimpleClaw.description>
-  <AB_InstallSimpleClaw.jobString>간단한 발톱 설치 중.</AB_InstallSimpleClaw.jobString>
-  <AA_InstallBionicClaw.label>생체공학 발톱 설치</AA_InstallBionicClaw.label>
+  <AB_InstallSimpleClaw.label>간단한 발톱 이식</AB_InstallSimpleClaw.label>
+  <AB_InstallSimpleClaw.description>간단한 발톱을 이식합니다.</AB_InstallSimpleClaw.description>
+  <AB_InstallSimpleClaw.jobString>간단한 발톱 이식 중.</AB_InstallSimpleClaw.jobString>
+  <AA_InstallBionicClaw.label>생체공학 발톱 이식</AA_InstallBionicClaw.label>
   <AA_InstallBionicClaw.description>생체공학 발톱을 이식합니다. 수술을 위하여 8 이상의 의료 기술이 필요합니다.</AA_InstallBionicClaw.description>
-  <AA_InstallBionicClaw.jobString>생체공학 발톱 설치 중.</AA_InstallBionicClaw.jobString>
-  <AA_InstallGooAcidifier.label>찐득한 산화제 설치</AA_InstallGooAcidifier.label>
-  <AA_InstallGooAcidifier.description>찐득한 산화제를 설치합니다.</AA_InstallGooAcidifier.description>
-  <AA_InstallGooAcidifier.jobString>찐득한 산화제 설치 중.</AA_InstallGooAcidifier.jobString>
+  <AA_InstallBionicClaw.jobString>생체공학 발톱 이식 중.</AA_InstallBionicClaw.jobString>
+  <AA_InstallGooAcidifier.label>찐득한 산화제 이식</AA_InstallGooAcidifier.label>
+  <AA_InstallGooAcidifier.description>찐득한 산화제를 이식합니다.</AA_InstallGooAcidifier.description>
+  <AA_InstallGooAcidifier.jobString>찐득한 산화제 이식 중.</AA_InstallGooAcidifier.jobString>
+  <AA_InstallRangedSpinneretImplant.label>원거리 스피너렛 이식</AA_InstallRangedSpinneretImplant.label>
+  <AA_InstallRangedSpinneretImplant.description>원거리 스피너렛 보조장치를 이식합니다. 이 장치를 활용하면 생물이 원거리에서 스피너렛 공격을 사용할 수 있게 됩니다.
+
+이미 원거리에서 스피너렛을 투발할 수 있는 생물은 이 보조장치를 설치해도 효과가 없습니다.</AA_InstallRangedSpinneretImplant.description>
+  <AA_InstallRangedSpinneretImplant.jobString>원거리 스피너렛 이식 중.</AA_InstallRangedSpinneretImplant.jobString>
+  <AA_MakeRangedSpinneretImplant.label>원거리 스피너렛 이식물 제작</AA_MakeRangedSpinneretImplant.label>
+  <AA_MakeRangedSpinneretImplant.description>페라리스, 블리자리스크, 신더리스크, 정글리스크 혹은 애니멀리스크의 시체를 이용하여 스피너렛 발사 보조장치를 제작합니다. 이 장치를 활용하면 생물이 원거리에서 강력한 거미줄 공격을 사용할 수 있게 됩니다.
+
+이미 원거리에서 거미줄을 투발할 수 있는 생물은 이 보조장치를 설치해도 효과가 없습니다.</AA_MakeRangedSpinneretImplant.description>
+  <AA_MakeRangedSpinneretImplant.jobString>원거리 스피너렛 이식물 제작</AA_MakeRangedSpinneretImplant.jobString>
+  <AA_RemoveRangedSpinneretImplant.label>원거리 스피너렛 이식물 제거</AA_RemoveRangedSpinneretImplant.label>
+  <AA_RemoveRangedSpinneretImplant.description>원거리 스피너렛 이식물 제거</AA_RemoveRangedSpinneretImplant.description>
+  <AA_RemoveRangedSpinneretImplant.jobString>원거리 스피너렛 이식물 제거 중.</AA_RemoveRangedSpinneretImplant.jobString>
+  <AA_InstallVenomousSpitterImplant.label>맹독 발사기관 이식</AA_InstallVenomousSpitterImplant.label>
+  <AA_InstallVenomousSpitterImplant.description>맹독 발사기관 보조장치를 이식합니다. 이 이식물을 사용하면 생물이 원거리에서 맹독성 타액을 흩뿌릴 수 있게 됩니다.
+
+이미 맹독 발사기관이 있는 생물에 설치한 경우 아무런 효과가 없습니다. 이 이식물은 구강구조가 있는 동물만 활용 가능합니다.</AA_InstallVenomousSpitterImplant.description>
+  <AA_InstallVenomousSpitterImplant.jobString>맹독 발사기관 이식 중.</AA_InstallVenomousSpitterImplant.jobString>
+  <AA_MakeVenomousSpitterImplant.label>맹독 발사기관 제작</AA_MakeVenomousSpitterImplant.label>
+  <AA_MakeVenomousSpitterImplant.description>블랙스파이더의 시체를 활용하여 맹독 발사기관 보조장치를 제작합니다. 이 이식물을 사용하면 생물이 원거리에서 맹독성 타액을 흩뿌릴 수 있게 됩니다.
+
+이미 맹독 발사기관이 있는 생물에 설치한 경우 아무런 효과가 없습니다. 이 이식물은 구강구조가 있는 동물만 활용 가능합니다.</AA_MakeVenomousSpitterImplant.description>
+  <AA_MakeVenomousSpitterImplant.jobString>맹독 발사기관 제작</AA_MakeVenomousSpitterImplant.jobString>
+  <AA_RemoveVenomousSpitterImplant.label>맹독 발사기관 이식물 제거</AA_RemoveVenomousSpitterImplant.label>
+  <AA_RemoveVenomousSpitterImplant.description>맹독 발사기관 제작</AA_RemoveVenomousSpitterImplant.description>
+  <AA_RemoveVenomousSpitterImplant.jobString>맹독 발사기관 이식물 제거 중.</AA_RemoveVenomousSpitterImplant.jobString>
+  <AA_InstallAcidicSpitterImplant.label>산성 타액 보조장치 이식</AA_InstallAcidicSpitterImplant.label>
+  <AA_InstallAcidicSpitterImplant.description>산성 타액 보조장치입니다. 이 이식물을 통하여 공격 대상에게 원거리에서 산성 타액을 쏘아 지속적인 손상을 가할 수 있습니다.
+
+이미 산성타액을 쏘아낼 수 있는 생물에게 부착할 시 아무런 효과가 없습니다. 이 이식물은 구강구조가 있는 동물만 활용 가능합니다.</AA_InstallAcidicSpitterImplant.description>
+  <AA_InstallAcidicSpitterImplant.jobString>산성 타액 이식물 이식 중.</AA_InstallAcidicSpitterImplant.jobString>
+  <AA_MakeAcidicSpitterImplant.label>산성 타액 이식물 제작</AA_MakeAcidicSpitterImplant.label>
+  <AA_MakeAcidicSpitterImplant.description>액체괴물, 사람지옥 풀, 촉수포자, 해파리 등의 시체를 활용하여 산성 타액 보조장치를 제작합니다. 이 이식물을 통하여 공격 대상에게 원거리에서 산성 타액을 쏘아 지속적인 손상을 가할 수 있습니다.
+
+이미 산성타액을 쏘아낼 수 있는 생물에게 부착할 시 아무런 효과가 없습니다. 이 이식물은 구강구조가 있는 동물만 활용 가능합니다.</AA_MakeAcidicSpitterImplant.description>
+  <AA_MakeAcidicSpitterImplant.jobString>산성 타액 이식물 제작</AA_MakeAcidicSpitterImplant.jobString>
+  <AA_RemoveAcidicSpitterImplant.label>산성 타액 이식물 제거</AA_RemoveAcidicSpitterImplant.label>
+  <AA_RemoveAcidicSpitterImplant.description>산성 타액 이식물 제거.</AA_RemoveAcidicSpitterImplant.description>
+  <AA_RemoveAcidicSpitterImplant.jobString>산성 타액 이식물 제거 중.</AA_RemoveAcidicSpitterImplant.jobString>
+  <AA_InstallBarbedQuillThrowerImplant.label>깃털칼날 투척기 설치</AA_InstallBarbedQuillThrowerImplant.label>
+  <AA_InstallBarbedQuillThrowerImplant.description>깃털칼날 투척 보조장치를 이식합니다. 이 장치를 활용하면 생물이 원거리에서 독성 깃털 투사체를 사용할 수 있게 됩니다.
+
+이미 깃털칼날을 쏘아낼 수 있는 생물은 이 보조장치를 설치해도 효과가 없습니다.</AA_InstallBarbedQuillThrowerImplant.description>
+  <AA_InstallBarbedQuillThrowerImplant.jobString>깃털칼날 투척기 설치 중.</AA_InstallBarbedQuillThrowerImplant.jobString>
+  <AA_MakeBarbedQuillThrowerImplant.label>깃털칼날 투척기 제작</AA_MakeBarbedQuillThrowerImplant.label>
+  <AA_MakeBarbedQuillThrowerImplant.description>가시전갈, 나이트링, 나이트 조류, 바늘공, 바늘기둥 선인장 등의 시체를 활용하여 깃털칼날 투척 보조장치를 제작합니다. 이 장치를 활용하면 생물이 원거리에서 독성 깃털 투사체를 사용할 수 있게 됩니다.
+
+이미 깃털칼날을 쏘아낼 수 있는 생물은 이 보조장치를 설치해도 효과가 없습니다.</AA_MakeBarbedQuillThrowerImplant.description>
+  <AA_MakeBarbedQuillThrowerImplant.jobString>깃털칼날 투척기 이식물 제작</AA_MakeBarbedQuillThrowerImplant.jobString>
+  <AA_RemoveBarbedQuillThrowerImplant.label>깃털칼날 투척기 이식물 제거</AA_RemoveBarbedQuillThrowerImplant.label>
+  <AA_RemoveBarbedQuillThrowerImplant.description>깃털칼날 투척기 이식물 제거</AA_RemoveBarbedQuillThrowerImplant.description>
+  <AA_RemoveBarbedQuillThrowerImplant.jobString>깃털칼날 투척기 이식물 제거 중.</AA_RemoveBarbedQuillThrowerImplant.jobString>
+  <AA_InstallQuadTeslaCannonImplant.label>쿼드 테슬라 캐논 이식물 설치</AA_InstallQuadTeslaCannonImplant.label>
+  <AA_InstallQuadTeslaCannonImplant.description>쿼드 테슬라 캐논 이식물을 설치합니다. 이 장치를 활용하면 생물이 원거리에서 강력한 플라즈마 공격을 사용할 수 있게 됩니다.
+
+이미 원거리에서 쿼드 테슬라 캐논을 사용할 수 있는 생물은 이 보조장치를 설치해도 효과가 없습니다.</AA_InstallQuadTeslaCannonImplant.description>
+  <AA_InstallQuadTeslaCannonImplant.jobString>쿼드 테슬라 캐논 이식물 설치 중.</AA_InstallQuadTeslaCannonImplant.jobString>
+  <AA_MakeQuadTeslaCannonImplant.label>쿼드 테슬라 캐논 이식물 제작</AA_MakeQuadTeslaCannonImplant.label>
+  <AA_MakeQuadTeslaCannonImplant.description>테트라 슬러그의 시체를 활용하여 쿼드 테슬라 캐논을 제작합니다. 이 장치를 활용하면 생물이 원거리에서 강력한 플라즈마 공격을 사용할 수 있게 됩니다.
+
+이미 원거리에서 쿼드 테슬라 캐논을 사용할 수 있는 생물은 이 보조장치를 설치해도 효과가 없습니다.</AA_MakeQuadTeslaCannonImplant.description>
+  <AA_MakeQuadTeslaCannonImplant.jobString>쿼드 테슬라 캐논 이식물 제작</AA_MakeQuadTeslaCannonImplant.jobString>
+  <AA_RemoveQuadTeslaCannonImplant.label>쿼드 테슬라 캐논 이식물 제거</AA_RemoveQuadTeslaCannonImplant.label>
+  <AA_RemoveQuadTeslaCannonImplant.description>쿼드 테슬라 캐논 이식물 제거.</AA_RemoveQuadTeslaCannonImplant.description>
+  <AA_RemoveQuadTeslaCannonImplant.jobString>쿼드 테슬라 캐논 이식물 제거 중.</AA_RemoveQuadTeslaCannonImplant.jobString>
   <RB_MakeSynthreadCloth.label>명주로 합성원단 11개 만들기</RB_MakeSynthreadCloth.label>
   <RB_MakeSynthreadCloth.description>합성원단 명주와 플라스틸 가닥으로 합성원단을 만듭니다.\n\n제조량: 11개</RB_MakeSynthreadCloth.description>
   <RB_MakeSynthreadCloth.jobString>합성원단 직조 중.</RB_MakeSynthreadCloth.jobString>

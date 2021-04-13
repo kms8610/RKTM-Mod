@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Gun_MakeshiftPistol.label>급조 권총</VWE_Gun_MakeshiftPistol.label>
+  <VWE_Gun_MakeshiftPistol.description>급조되어, 거칠고 고전적인 블로우백 방식의 자동 장전 권총. 저지력과 사정거리가 부족하며, 고장이 잘 납니다.</VWE_Gun_MakeshiftPistol.description>
+  <VWE_Gun_MakeshiftPistol.tools.0.label>손잡이</VWE_Gun_MakeshiftPistol.tools.0.label>
+  <VWE_Gun_MakeshiftPistol.tools.1.label>총열</VWE_Gun_MakeshiftPistol.tools.1.label>
+  <VWE_Bullet_MakeshiftPistol.label>급조 권총 탄환</VWE_Bullet_MakeshiftPistol.label>
+  <VWE_Gun_MakeshiftSMG.label>급조 기관단총</VWE_Gun_MakeshiftSMG.label>
+  <VWE_Gun_MakeshiftSMG.description>수제 초소형 기관총. 사정거리가 짧고 아주 가볍지만, 거친 제작 방식 때문에 결함이 많습니다. 연사력이 약점을 보완해줍니다.</VWE_Gun_MakeshiftSMG.description>
+  <VWE_Gun_MakeshiftSMG.tools.0.label>손잡이</VWE_Gun_MakeshiftSMG.tools.0.label>
+  <VWE_Gun_MakeshiftSMG.tools.1.label>총열</VWE_Gun_MakeshiftSMG.tools.1.label>
+  <VWE_Bullet_MakeshiftSMG.label>급조 기관단총 탄환</VWE_Bullet_MakeshiftSMG.label>
+  <VWE_Gun_MakeshiftRifle.label>급조 소총</VWE_Gun_MakeshiftRifle.label>
+  <VWE_Gun_MakeshiftRifle.description>주로 민병대 소총에 장착할 수 있는, 급조된 부품이 달린 범용 가스 작동식 공격 소총. 좋은 범위, 적당한 힘, 그리고 좋은 정확도를 가지고 있지만, 고장 나기 쉽습니다.</VWE_Gun_MakeshiftRifle.description>
+  <VWE_Gun_MakeshiftRifle.tools.0.label>개머리판</VWE_Gun_MakeshiftRifle.tools.0.label>
+  <VWE_Gun_MakeshiftRifle.tools.1.label>총열</VWE_Gun_MakeshiftRifle.tools.1.label>
+  <VWE_Bullet_MakeshiftRifle.label>급조 소총 탄환</VWE_Bullet_MakeshiftRifle.label>
+  <VWE_Gun_MakeshiftShotgun.label>급조 산탄총</VWE_Gun_MakeshiftShotgun.label>
+  <VWE_Gun_MakeshiftShotgun.description>급조된 강력한 산탄총으로, 많은 파편 덩어리를 발사합니다. 치명적이지만 범위가 짧습니다. 설계의 수많은 결함 때문에 발사되는 파편의 양은 일정치 않습니다.</VWE_Gun_MakeshiftShotgun.description>
+  <VWE_Gun_MakeshiftShotgun.tools.0.label>개머리판</VWE_Gun_MakeshiftShotgun.tools.0.label>
+  <VWE_Gun_MakeshiftShotgun.tools.1.label>총열</VWE_Gun_MakeshiftShotgun.tools.1.label>
+  <VWE_Bullet_MakeshiftShotgun.label>급조 산탄총 탄환</VWE_Bullet_MakeshiftShotgun.label>
+  <VWE_Gun_MakeshiftLMG.label>급조 경기관총</VWE_Gun_MakeshiftLMG.label>
+  <VWE_Gun_MakeshiftLMG.description>급조된 가스 작동식 경기관총. 다소 다루기 힘들고 부정확하며, 잘 고장납니다. 연사력이 좋아, 적 집단에게 효과적이지만, 발사되는 탄알은 일정치 않습니다.</VWE_Gun_MakeshiftLMG.description>
+  <VWE_Gun_MakeshiftLMG.tools.0.label>개머리판</VWE_Gun_MakeshiftLMG.tools.0.label>
+  <VWE_Gun_MakeshiftLMG.tools.1.label>총열</VWE_Gun_MakeshiftLMG.tools.1.label>
+  <VWE_Bullet_MakeshiftLMG.label>급조 경기관총 탄환</VWE_Bullet_MakeshiftLMG.label>
+</LanguageData>

@@ -6,4 +6,7 @@
   <AA_WorkGiverDestroyItem.label>물건 파괴</AA_WorkGiverDestroyItem.label>
   <AA_WorkGiverDestroyItem.verb>파괴</AA_WorkGiverDestroyItem.verb>
   <AA_WorkGiverDestroyItem.gerund>파괴중</AA_WorkGiverDestroyItem.gerund>
+  <VEF_DoBillsAdvancedAnimalImplantsTable.label>동물용 강화 보철물 제작</VEF_DoBillsAdvancedAnimalImplantsTable.label>
+  <VEF_DoBillsAdvancedAnimalImplantsTable.verb>동물용 강화 보철물 제작</VEF_DoBillsAdvancedAnimalImplantsTable.verb>
+  <VEF_DoBillsAdvancedAnimalImplantsTable.gerund>동물용 강화 보철물 제작</VEF_DoBillsAdvancedAnimalImplantsTable.gerund>
 </LanguageData>

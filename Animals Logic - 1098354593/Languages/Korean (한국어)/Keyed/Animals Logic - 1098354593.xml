@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ALConfigCuriosityEatingLabel>동물이 무작위로 물품을 먹는 것을 방지</ALConfigCuriosityEatingLabel>
+  <ALConfigCuriosityEatingTooltip>동물들이 영양분이 없는 약물을 먹거나, 허가구역 밖의 음식을 먹으러 가는 대부분의 경우를 방지합니다.\n동물의 허가구역 안에 당신의 음식이 있다면 여전히 먹을 것입니다.</ALConfigCuriosityEatingTooltip>
+  <ALConfigHostilePredatorsLabel>당신의 정착민을 사냥하려는 포식자는, 당신의 세력에게 적대적인 것으로 간주</ALConfigHostilePredatorsLabel>
+  <ALConfigHostilePredatorsTooltip>이것은 당신 정착민들의 위협 반응을 변경하지 않으며, 단지 위협이라고만 인식할 수 있게 합니다.\n(포탑이 해당 포식자를 공격하게 됨)</ALConfigHostilePredatorsTooltip>
+  <ALConfigEggConversionLabel>온도에 의해서 손상된 알을 무정란으로 변환</ALConfigEggConversionLabel>
+  <ALConfigEggConversionTooltip>이전에 이미 손상된 알은 변환되지 않습니다.</ALConfigEggConversionTooltip>
+  <ALConfigMeatConversionLabel>도축시, 일반 동물 고기를 닭고기로 변환</ALConfigMeatConversionLabel>
+  <ALConfigMeatConversionTooltip>이전에 이미 도축된 고기는 변환되지 않습니다.</ALConfigMeatConversionTooltip>
+  <ALConfigMedicalAlertsLabel>동물에 대한 의료 경고</ALConfigMedicalAlertsLabel>
+  <ALConfigMedicalAlertsTooltip>정착지 동물이 다쳤거나 구조가 필요 또는 심각한 건강 상태에 있을 때 오른쪽 하단에 경고를 표시합니다.</ALConfigMedicalAlertsTooltip>
+  <ALConfigTamenessDecayThresholdLabel>훈련수치가 감소하는 것에 대한 야생 임계값 {0}%. 기본(바닐라): 10.1%.</ALConfigTamenessDecayThresholdLabel>
+  <ALConfigTamenessDecayThresholdTooltip>모든 동물의 훈련수치가 감소하지 않게 하려면 100% 로 설정하세요.</ALConfigTamenessDecayThresholdTooltip>
+  <ALConfigTrainingDecaySpeedFactorLabel>훈련수치 감소 속도 {0}. 기본(바닐라): 100%.</ALConfigTrainingDecaySpeedFactorLabel>
+  <ALConfigTrainingDecaySpeedFactorTooltip>최대한 느리게 하려면 1% 로 설정하세요.</ALConfigTrainingDecaySpeedFactorTooltip>
+  <ALConfigTradeHintsLabel>거래 및 상단 UI용 동물 태그</ALConfigTradeHintsLabel>
+  <ALConfigTradeHintsTooltip>동물의 성별, 조련 및 털 성장율을 보여줍니다.</ALConfigTradeHintsTooltip>
+  <ALConfigAnimalsCanUseFoodDispenserLabel>동물들이 영양죽 배급기를 사용</ALConfigAnimalsCanUseFoodDispenserLabel>
+  <ALConfigAnimalsCanUseFoodDispenserTooltip>동물들이 해당 버튼을 누를 수 있을 것입니다.\n경고: 약간의 우회로를 포함합니다.(충돌 가능성은 극히 적음)\n\n만약 동물들이 여전히 배급기를 사용하지 않는다면 허가구역 내에 있는지 확인하세요.</ALConfigAnimalsCanUseFoodDispenserTooltip>
+  <ALConfigHaulingMTBLabel>운반 MTB {0}h. 기본(바닐라): 1.5h.</ALConfigHaulingMTBLabel>
+  <ALConfigHaulingMTBTooltip>MTB는 '운반 시간 간격'을 의미합니다.\n0으로 설정하면 생산성이 크게 향상되지만, 많은 양을 운반하는 훈련된 동물의 성능에 영향을 줄 수 있습니다.</ALConfigHaulingMTBTooltip>
+  <ALConfigShowExtraDisplayStatsLabel>생물체의 추가 통계 표시</ALConfigShowExtraDisplayStatsLabel>
+  <ALConfigShowExtraDisplayStatsTooltip>자원 생산량 등의 바닐라에 누락된 일부 통계를 표시합니다.</ALConfigShowExtraDisplayStatsTooltip>
+  <ALConfigAlwaysShowRelationsLabel>항상 동물관계 표시</ALConfigAlwaysShowRelationsLabel>
+  <ALConfigAlwaysShowRelationsTooltip>기본적으로는 이름 지어진 동물과의 관계만 표시됩니다.\n이렇게 하면 모든 관계를 볼 수 있습니다.</ALConfigAlwaysShowRelationsTooltip>
+  <WoolType>털의 종류</WoolType>
+  <Stat_Race_WoolType_Desc>이 생물의 털을 깎았을 때 얻을 수 있는 털의 종류입니다.</Stat_Race_WoolType_Desc>
+  <WoolAmount>털의 양</WoolAmount>
+  <Stat_Race_WoolAmount_Desc>이 생물의 털을 깎았을 때 생산되는 털의 양과, 털을 기르는데 걸리는 시간입니다.</Stat_Race_WoolAmount_Desc>
+  <MilkType>우유 종류</MilkType>
+  <Stat_Race_MilkType_Desc>이 생물의 젖을 짜면 나오는 우유의 종류입니다.</Stat_Race_MilkType_Desc>
+  <MilkAmount>우유의 양</MilkAmount>
+  <Stat_Race_MilkAmount_Desc>이 생물의 젖을 짤 때 나오는 우유의 양과, 우유를 생산하는데 걸리는 시간입니다.</Stat_Race_MilkAmount_Desc>
+  <MilkFemale>암컷만 착유 가능</MilkFemale>
+  <MilkFemaleExplanation>특정 종은 성별에 관계없이 우유를 생산하지만, 대부분의 경우 암컷만 우유를 생산할 수 있습니다.</MilkFemaleExplanation>
+  <EggType>알의 종류</EggType>
+  <Stat_Race_EggType_Desc>이 생물이 낳을 알의 종류입니다.</Stat_Race_EggType_Desc>
+  <EggAmount>알의 갯수</EggAmount>
+  <Stat_Race_EggAmount_Desc>알의 갯수와 알을 생산하는데 걸리는 시간입니다.</Stat_Race_EggAmount_Desc>
+  <EggFemale>암컷만 알 생산 가능</EggFemale>
+  <EggFemaleExplanation>특정 종은 성별에 관계없이 알을 낳지만, 대부분의 경우 암컷만 알을 낳을 수 있습니다.</EggFemaleExplanation>
+  <EggNeedFertilization>반드시 수정 필요</EggNeedFertilization>
+  <EggNeedFertilizationExplanation>특정 종들은 수정되지 않은 알을 낳을 수도 있지만, 많은 다른 종들은 그렇지 않을 것입니다.</EggNeedFertilizationExplanation>
+  <EggIncubation>알의 부화</EggIncubation>
+  <EggIncubationExplanation>알이 부화하는데 걸리는 시간입니다.</EggIncubationExplanation>
+  <TimeToMature>성체 나이</TimeToMature>
+  <TimeToMatureExplanation>생식 연령이나 우유/털을 생산할 수 있는 연령, 또는 생식할 수 없는 개체의 최종 수명이 어느 정도인지 보여줍니다.\n대부분 같은 종들끼리는 동일한 나이를 가집니다.</TimeToMatureExplanation>
+  <GestationPeriod>임신 기간</GestationPeriod>
+  <GestationPeriodExplanation>새로운 개체를 낳는데 걸리는 시간입니다.</GestationPeriodExplanation>
+  <LitterSize>한배 새끼수</LitterSize>
+  <LitterSizeExplanation>한 번에 몇 마리의 개체를 낳을 수 있는지 보여줍니다.</LitterSizeExplanation>
+  <AnimalNeedsTreatment>동물 치료 필요</AnimalNeedsTreatment>
+  <AnimalsNeedTreatment>동물들 치료 필요</AnimalsNeedTreatment>
+  <AnimalNeedsTreatmentDesc>이 동물들은 치료가 필요합니다. 치료하지 않으면 상처로 죽거나, 영구적으로 흉터가 남을 수 있습니다.\n\n{0}</AnimalNeedsTreatmentDesc>
+  <AnimalNeedsRescue>동물 구조 필요</AnimalNeedsRescue>
+  <AnimalsNeedRescue>동물들 구조 필요</AnimalsNeedRescue>
+  <AnimalsNeedRescueDesc>이 동물들은 무력화되어 땅에 쓰러졌습니다:\n\n{0}\n정착민을 보내어 구조하고, 침대로 옮기세요.\n\n(구조하려면 정착민을 선택하고 대상을 마우스 우클릭하여 구조를 선택하세요.)</AnimalsNeedRescueDesc>
+  <AnimalsWithLifeThreateningDisease>긴급 의료 상황 (동물)</AnimalsWithLifeThreateningDisease>
+  <AnimalsWithLifeThreateningDiseaseAmputationDesc>심각한 질병으로 인해 동물이 사망할 위험이 있습니다:\n\n{0}\n가능하면 감염된 사지를 절단하거나, 인공으로 대체하는 것이 좋습니다.</AnimalsWithLifeThreateningDiseaseAmputationDesc>
+  <AnimalsWithLifeThreateningDiseaseDesc>심각한 질병으로 인해 동물이 사망할 위험이 있습니다:\n\n{0}\n가능하면 최상의 치료를 해주십시오.</AnimalsWithLifeThreateningDiseaseDesc>
+</LanguageData>

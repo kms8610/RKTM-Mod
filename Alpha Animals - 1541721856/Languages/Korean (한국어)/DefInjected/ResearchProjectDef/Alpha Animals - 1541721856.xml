@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <AA_ExoticProsthetics.label>외계 생물 보형물</AA_ExoticProsthetics.label>
-  <AA_ExoticProsthetics.description>간단한 보형물 촉수나 날개, 혹은 괴상한 장기들을 제작 및 활용하는 방법을 배웁니다.</AA_ExoticProsthetics.description>
-  <AA_ExoticBionics.label>외계 생물 생체공학</AA_ExoticBionics.label>
-  <AA_ExoticBionics.description>생체공학 촉수나 날개, 혹은 괴상한 장기들을 제작 및 활용하는 방법을 배웁니다.</AA_ExoticBionics.description>
+  <VEF_ExoticProsthetics.label>외계 생물 보형물</VEF_ExoticProsthetics.label>
+  <VEF_ExoticProsthetics.description>간단한 보형물 촉수나 날개, 혹은 괴상한 장기들을 제작 및 활용하는 방법을 배웁니다.</VEF_ExoticProsthetics.description>
+  <VEF_ExoticBionics.label>외계 생물 생체공학</VEF_ExoticBionics.label>
+  <VEF_ExoticBionics.description>생체공학 촉수나 날개, 혹은 괴상한 장기들을 제작 및 활용하는 방법을 배웁니다.</VEF_ExoticBionics.description>
+  <VEF_AdvancedAnimalImplants.label>강화 보철물</VEF_AdvancedAnimalImplants.label>
+  <VEF_AdvancedAnimalImplants.description>대상에게서 특정 능력을 추출하여 다른 동물에 이식할 수 있는 방법을 연구합니다. 원거리 공격을 하는 동물의 능력 또한 다른 동물에게 이식될 수 있습니다.</VEF_AdvancedAnimalImplants.description>
   <AA_Bioships.label>생체 함선</AA_Bioships.label>
   <AA_Bioships.description>일부는 생명체로, 나머지는 배의 구조물로 이루어진 생체 함선입니다. 건조를 위해서는 냉동된 배아나 알과 같이 특별한 재료를 필요로 합니다.</AA_Bioships.description>
 </LanguageData>

@@ -20,6 +20,9 @@
   <Hydra.description>고밀도의 메카나이트 파우더입니다. 루시페륨의 치유력과 유사하게 상처와 흉터의 회복을 돕습니다. 15일에 한번씩 섭취하십시오.</Hydra.description>
   <Hydra.ingestible.ingestCommandString>{0} 흡입</Hydra.ingestible.ingestCommandString>
   <Hydra.ingestible.ingestReportString>{0} 흡입 중.</Hydra.ingestible.ingestReportString>
+  <AddictiveHypnotol.label>힙노톨</AddictiveHypnotol.label>
+  <AddictiveHypnotol.description>극도로 중독적이고 약간의 인지기능저하를 일으키는 약물인 힙노톨은 사용자에게 행동을 강요하는 협박용약물로 사용되며, 해적들이 타팩션의 리더를 영입하는데 흔히 사용합니다.
+\n\n 죄수를 일시적으로 영입하는데 사용할 수 있습니다. 중독된 상태를 유지하는동안엔 말이죠.</AddictiveHypnotol.description>
   <Joy.label>조이</Joy.label>
   <Joy.description>도시계 정부가 시민을 통제하기위해 개발한 마약입니다. 강한 행복감을 유발하며, 중독성이 매우 높습니다.</Joy.description>
   <Joy.ingestible.ingestCommandString>{0} 복용</Joy.ingestible.ingestCommandString>

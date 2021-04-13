@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WallscreenTelevision.label>벽걸이 TV</WallscreenTelevision.label>
+  <WallscreenTelevision.description>고급스럽고 커다란 텔레비전입니다. 거대하면서도 선명한 화면이 거의 밖으로 튀어나올듯 합니다. 고대 위성의 전파를 받거나 유비쿼터스 데이터 카드를 삽입하여 사용합니다. 벽에 장착 가능합니다, 멋져.</WallscreenTelevision.description>
+  <SmallWallscreenTelevision.label>소형 벽걸이 TV</SmallWallscreenTelevision.label>
+  <SmallWallscreenTelevision.description>작고, 고급스러운 텔레비전입니다. 작으면서도 선명한 화면이 거의 밖으로 튀어나올듯 합니다. 고대 위성의 전파를 받거나 유비쿼터스 데이터 카드를 삽입하여 사용합니다. 벽에 장착 가능합니다, 멋져.</SmallWallscreenTelevision.description>
+  <Wall_Hifi.label>벽걸이형 하이파이</Wall_Hifi.label>
+  <Wall_Hifi.description>작은 하이 파이 오디오 시스템은 라디오 방송에 채널을 맞추거나 표준 유비쿼터스 데이터 카드를 사용할 수 있습니다.</Wall_Hifi.description>
+  <WallToolBoard.label>벽걸이형 공구 보드</WallToolBoard.label>
+  <WallToolBoard.description>작업 속도에 도움을 줍니다. 작업대 근처에 배치되어야 합니다. 한 작업대는 공구 보드 최대 두 개의 영향만 받습니다.</WallToolBoard.description>
+  <WallMountedOrbitalTradeBeacon.label>벽걸이형 위성 송신기</WallMountedOrbitalTradeBeacon.label>
+  <WallMountedOrbitalTradeBeacon.description>벽장착형 위성 송신기, 궤도의 상선과 거래를 할 때 사용됩니다. 해당 범위 안에 아이템이 존재할 때 판매 가능하며, 상선에서 아이템을 보낼 때도 송신기 주위로 보냅니다.</WallMountedOrbitalTradeBeacon.description>
+  <WallMountedCommsConsole.label>벽걸이형 통신기</WallMountedCommsConsole.label>
+  <WallMountedCommsConsole.description>다른 세력 및 궤도 상선과의 무선 통신을 허용하며, 이제 사용자의 편의를 위해 벽에 설치되었습니다!</WallMountedCommsConsole.description>
+  <WallMountedBattery.label>벽면 축전지</WallMountedBattery.label>
+  <WallMountedBattery.description>남는 전기를 모으고, 전력이 부족할 때 내보냅니다. 경고: 비나 불에 노출되면 폭발할 위험이 있습니다.</WallMountedBattery.description>
+  <WallMountedCircuitBreaker.label>벽걸이형 회로 차단기</WallMountedCircuitBreaker.label>
+  <WallMountedCircuitBreaker.description>자동회로 차단기입니다.\n1200Wd만큼의 방전을 처리할 수 있으며, 방전시 수동으로 재설정 해야 합니다.</WallMountedCircuitBreaker.description>
+  <WallPowerSwitch.label>벽 전원 스위치</WallPowerSwitch.label>
+  <WallPowerSwitch.description>전력 공급을 키거나 끕니다.</WallPowerSwitch.description>
+  <WallHeater.label>벽 전열기</WallHeater.label>
+  <WallHeater.description>벽걸이 형 전열기로 큰 방과 정착지 난방에 더 효율적입니다. 특정 목표 온도에 도달하기 위해 자동으로 켜지거나 꺼질 수 있습니다.</WallHeater.description>
+  <WallCooler.label>벽 냉방기</WallCooler.label>
+  <WallCooler.description>벽걸이 형 냉방기는 과도한 열이 전력 소비를 줄이기 위해 용도가 변경되므로 환기가 필요하지 않습니다. 특정 목표 온도에 도달하기 위해 자동으로 켜지거나 꺼질 수 있습니다.</WallCooler.description>
+  <WallClimateController.label>벽걸이형 온도 조절기</WallClimateController.label>
+  <WallClimateController.description>벽걸이형 온도 조절기는 과도한 열이 전력 소비를 줄이기 위해 용도가 변경되므로 환기가 필요하지 않습니다. 특정 목표 온도에 도달하기 위해 자동으로 켜지거나 꺼질 수 있습니다.</WallClimateController.description>
+  <WallVent.label>벽 통풍구</WallVent.label>
+  <WallVent.description>간단한 환풍구입니다. 사람들의 통행을 막으면서 두 방의 온도를 맞출 수 있습니다.</WallVent.description>
+  <Replicator.label>복제기</Replicator.label>
+  <Replicator.description>작은 벽걸이 형 복제 장치.</Replicator.description>
+</LanguageData>

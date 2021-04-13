@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <HypnotolAddictionThought.stages.0.label>힙노톨 저항</HypnotolAddictionThought.stages.0.label>
+  <HypnotolAddictionThought.stages.0.description>내가 뭐하는거지? 스스로를 제어할 수 없어</HypnotolAddictionThought.stages.0.description>
   <UpperHighThought.stages.0.label>각성제에 취함</UpperHighThought.stages.0.label>
   <UpperHighThought.stages.0.description>끝내주는데!</UpperHighThought.stages.0.description>
   <UpperWithdrawal.stages.1.label>각성제 금단</UpperWithdrawal.stages.1.label>

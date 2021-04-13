@@ -62,6 +62,14 @@
   <opioid3High.description>강한 아편이 혈액을 타고 흐릅니다. 황홀한 기분과 고통에 강한 저항을 갖게 해줍니다.</opioid3High.description>
   <HydraHigh.label>히드라</HydraHigh.label>
   <HydraHigh.description>히드라 메카나이트가 혈액을 따라 작업합니다. 루시페륨 중독의 위험없이 천천히 흉터를 치료합니다.</HydraHigh.description>
+  <HypnotolHigh.label>힙노톨</HypnotolHigh.label>
+  <HypnotolHigh.labelNoun>힙노톨에 세뇌됨</HypnotolHigh.labelNoun>
+  <HypnotolHigh.description>최근에 섭취된 힙노톨이 혈액을 타고 흐릅니다. 인지기능이 저하되며, 피로와 기분변화를 초래할 수 있습니다.</HypnotolHigh.description>
+  <HypnotolTolerance.label>힙노톨 내성</HypnotolTolerance.label>
+  <HypnotolTolerance.description>힙노톨에 대한 내성입니다. 내성이 심해질 수록, 같은 효과를 얻기 위해 더 많은 힙노톨이 필요합니다.</HypnotolTolerance.description>
+  <HypnotolAddiction.label>힙노톨 중독</HypnotolAddiction.label>
+  <HypnotolAddiction.description>힙노톨 중독으로 인한 금단 현상을 피하려면 주기적인 섭취가 필요합니다.</HypnotolAddiction.description>
+  <HypnotolAddiction.stages.1.label>부족</HypnotolAddiction.stages.1.label>
   <JoyHigh.label>조이에 취함</JoyHigh.label>
   <JoyHigh.labelNoun>조이에 취함</JoyHigh.labelNoun>
   <JoyHigh.description>조이가 혈액을 타고 흐릅니다. 강렬한 환각과 항우울적 효과를 보여줍니다.</JoyHigh.description>

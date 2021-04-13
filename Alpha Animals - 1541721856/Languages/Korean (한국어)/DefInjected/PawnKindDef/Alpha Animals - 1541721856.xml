@@ -10,9 +10,6 @@
   <AA_AngelMothLarva.label>천사 나방 고치</AA_AngelMothLarva.label>
   <AA_AngelMoth.label>천사 나방</AA_AngelMoth.label>
   <AA_Animalisk.label>애니멀리스크</AA_Animalisk.label>
-  <AA_BlackScarab.label>블랙 스캐럽</AA_BlackScarab.label>
-  <AA_BlackSpelopede.label>블랙 스펠로피드</AA_BlackSpelopede.label>
-  <AA_BlackSpider.label>블랙 스파이더</AA_BlackSpider.label>
   <AA_AnimusVox.label>아니무스 복스</AA_AnimusVox.label>
   <AA_AnimusVox.labelPlural>아니무스 복스</AA_AnimusVox.labelPlural>
   <AA_AnimusVox.lifeStages.0.label>아니무스 복스</AA_AnimusVox.lifeStages.0.label>
@@ -27,6 +24,9 @@
   <AA_BedBug.label>해악충</AA_BedBug.label>
   <AA_BedBug.lifeStages.0.label>해악충</AA_BedBug.lifeStages.0.label>
   <AA_BedBug.lifeStages.1.label>해악충</AA_BedBug.lifeStages.1.label>
+  <AA_BlackScarab.label>블랙 스캐럽</AA_BlackScarab.label>
+  <AA_BlackSpelopede.label>블랙 스펠로피드</AA_BlackSpelopede.label>
+  <AA_BlackSpider.label>블랙 스파이더</AA_BlackSpider.label>
   <AA_Blizzarisk.label>블리자리스크</AA_Blizzarisk.label>
   <AA_BlizzariskClutchMother.label>블리자리스크 무리어미</AA_BlizzariskClutchMother.label>
   <AA_BloodShrimp.label>블러드쉬림프</AA_BloodShrimp.label>

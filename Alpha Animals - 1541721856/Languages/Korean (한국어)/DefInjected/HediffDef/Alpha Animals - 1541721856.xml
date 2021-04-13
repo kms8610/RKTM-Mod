@@ -120,6 +120,12 @@
   <AA_BionicTentacle.label>생체공학 촉수</AA_BionicTentacle.label>
   <AA_BionicTentacle.description>생체공학 촉수입니다.</AA_BionicTentacle.description>
   <AA_BionicTentacle.comps.0.tools.0.label>생체공학 촉수</AA_BionicTentacle.comps.0.tools.0.label>
+  <AA_ProstheticBeak.label>간단한 부리</AA_ProstheticBeak.label>
+  <AA_ProstheticBeak.description>간단한 부리.</AA_ProstheticBeak.description>
+  <AA_ProstheticBeak.comps.0.tools.0.label>인공 부리</AA_ProstheticBeak.comps.0.tools.0.label>
+  <AA_BionicBeak.label>생체공학 부리</AA_BionicBeak.label>
+  <AA_BionicBeak.description>생체공학 부리.</AA_BionicBeak.description>
+  <AA_BionicBeak.comps.0.tools.0.label>생체공학 부리</AA_BionicBeak.comps.0.tools.0.label>
   <AA_BionicMotionDetector.label>생체공학 시각 센서</AA_BionicMotionDetector.label>
   <AA_BionicMotionDetector.description>동물을 위한 생체공학 동작 감지기입니다. 개선된 초음파 위치 측정 기관과 진동 센서로 구성되어 있습니다.</AA_BionicMotionDetector.description>
   <AA_ProstheticBuoyancyMechanism.label>간단한 부력 보조물</AA_ProstheticBuoyancyMechanism.label>
@@ -143,4 +149,39 @@
   <AA_GooAcidifier.label>찐득한 산화제</AA_GooAcidifier.label>
   <AA_GooAcidifier.labelNoun>찐득한 산화제</AA_GooAcidifier.labelNoun>
   <AA_GooAcidifier.description>액체괴물의 내부 장기 산도를 증가시켜, 행동불능 즉시 폭발하게 합니다. 이 기관을 설치한 액체괴물은 생물학적 자살 폭탄 테러에 활용됩니다.</AA_GooAcidifier.description>
+  <AA_RangedSpinneretImplant.label>원거리 스피너렛 이식물</AA_RangedSpinneretImplant.label>
+  <AA_RangedSpinneretImplant.labelNoun>원거리 스피너렛 이식물.</AA_RangedSpinneretImplant.labelNoun>
+  <AA_RangedSpinneretImplant.description>원거리 스피너렛 보조장치입니다. 이 장치를 활용하면 생물이 원거리에서 강력한 거미줄 공격을 사용할 수 있게 됩니다.
+
+이미 원거리에서 거미줄을 투발할 수 있는 생물은 이 보조장치를 설치해도 효과가 없습니다.</AA_RangedSpinneretImplant.description>
+  <AA_RangedSpinneretImplant.comps.0.verbs.0.label>거미줄</AA_RangedSpinneretImplant.comps.0.verbs.0.label>
+  <AA_RangedSpinneretImplant.comps.0.verbProps.0.label>거미줄</AA_RangedSpinneretImplant.comps.0.verbProps.0.label>
+  <AA_VenomousSpitterImplant.label>맹독 발사기관 이식물</AA_VenomousSpitterImplant.label>
+  <AA_VenomousSpitterImplant.labelNoun>맹독 발사기관 이식물.</AA_VenomousSpitterImplant.labelNoun>
+  <AA_VenomousSpitterImplant.description>맹독 발사기관 보조장치입니다. 이 이식물을 사용하면 생물이 원거리에서 맹독성 타액을 흩뿌릴 수 있게 됩니다.
+
+이미 맹독 발사기관이 있는 생물에 설치한 경우 아무런 효과가 없습니다. 이 이식물은 구강구조가 있는 동물만 활용 가능합니다.</AA_VenomousSpitterImplant.description>
+  <AA_VenomousSpitterImplant.comps.0.verbs.0.label>맹독 타액</AA_VenomousSpitterImplant.comps.0.verbs.0.label>
+  <AA_VenomousSpitterImplant.comps.0.verbProps.0.label>맹독 타액</AA_VenomousSpitterImplant.comps.0.verbProps.0.label>
+  <AA_AcidicSpitterImplant.label>산성 타액 이식물</AA_AcidicSpitterImplant.label>
+  <AA_AcidicSpitterImplant.labelNoun>산성 타액 이식물.</AA_AcidicSpitterImplant.labelNoun>
+  <AA_AcidicSpitterImplant.description>산성 타액 보조장치입니다. 이 이식물을 통하여 공격 대상에게 원거리에서 산성 타액을 쏘아 지속적인 손상을 가할 수 있습니다.
+
+이미 산성타액을 쏘아낼 수 있는 생물에게 부착할 시 아무런 효과가 없습니다. 이 이식물은 구강구조가 있는 동물만 활용 가능합니다.</AA_AcidicSpitterImplant.description>
+  <AA_AcidicSpitterImplant.comps.0.verbs.0.label>산성 타액</AA_AcidicSpitterImplant.comps.0.verbs.0.label>
+  <AA_AcidicSpitterImplant.comps.0.verbProps.0.label>산성 타액</AA_AcidicSpitterImplant.comps.0.verbProps.0.label>
+  <AA_BarbedQuillThrowerImplant.label>깃털칼날 투척기 이식물</AA_BarbedQuillThrowerImplant.label>
+  <AA_BarbedQuillThrowerImplant.labelNoun>깃털칼날 투척기 이식물</AA_BarbedQuillThrowerImplant.labelNoun>
+  <AA_BarbedQuillThrowerImplant.description>깃털칼날 투척 보조장치입니다. 이 장치를 활용하면 생물이 원거리에서 독성 깃털 투사체를 사용할 수 있게 됩니다.
+
+이미 깃털칼날을 쏘아낼 수 있는 생물은 이 보조장치를 설치해도 효과가 없습니다.</AA_BarbedQuillThrowerImplant.description>
+  <AA_BarbedQuillThrowerImplant.comps.0.verbs.0.label>깃털칼날</AA_BarbedQuillThrowerImplant.comps.0.verbs.0.label>
+  <AA_BarbedQuillThrowerImplant.comps.0.verbProps.0.label>깃털칼날</AA_BarbedQuillThrowerImplant.comps.0.verbProps.0.label>
+  <AA_QuadTeslaCannonImplant.label>쿼드 테슬라 캐논 이식물</AA_QuadTeslaCannonImplant.label>
+  <AA_QuadTeslaCannonImplant.labelNoun>쿼드 테슬라 캐논 이식물</AA_QuadTeslaCannonImplant.labelNoun>
+  <AA_QuadTeslaCannonImplant.description>쿼드 테슬라 캐논 보조장치입니다. 이 장치를 활용하면 생물이 원거리에서 강력한 플라즈마 공격을 사용할 수 있게 됩니다.
+
+이미 원거리에서 쿼드 테슬라 캐논을 사용할 수 있는 생물은 이 보조장치를 설치해도 효과가 없습니다.</AA_QuadTeslaCannonImplant.description>
+  <AA_QuadTeslaCannonImplant.comps.0.verbs.0.label>쿼드 테슬라 캐논</AA_QuadTeslaCannonImplant.comps.0.verbs.0.label>
+  <AA_QuadTeslaCannonImplant.comps.0.verbProps.0.label>쿼드 테슬라 캐논</AA_QuadTeslaCannonImplant.comps.0.verbProps.0.label>
 </LanguageData>

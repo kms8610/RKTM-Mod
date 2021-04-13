@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ZBiome_AlpineMeadow.label>고산초원</ZBiome_AlpineMeadow.label>
+  <ZBiome_AlpineMeadow.description>비옥한 토양과 식물이 많이 있는 고산지입니다. 여름은 온난하고 아름답지만, 추운 겨울을 대비한 비축이 필요합니다.</ZBiome_AlpineMeadow.description>
+  <ZBiome_CloudForest.label>안개숲</ZBiome_CloudForest.label>
+  <ZBiome_CloudForest.description>지속적으로 끼는 안개에서 따온 이름입니다. 온대시대의 식물이 지금도 자생하고 있으며, 숲의 비탈길에 동물들이 자주 배회합니다.</ZBiome_CloudForest.description>
+  <ZBiome_CoastalDunes.label>해안사구</ZBiome_CoastalDunes.label>
+  <ZBiome_CoastalDunes.description>물이 많은 저지대의 모래밭입니다.</ZBiome_CoastalDunes.description>
+  <ZBiome_DesertOasis.label>사막의 오아시스</ZBiome_DesertOasis.label>
+  <ZBiome_DesertOasis.description>사막의 생명을 담당하는 작은 섬 같은 느낌의 지역입니다.</ZBiome_DesertOasis.description>
+  <ZBiome_Grasslands.label>초원</ZBiome_Grasslands.label>
+  <ZBiome_Grasslands.description>나무가 거의 없는 초원입니다. 사슴과 다른 초식동물들이 서식하고 있으며, 일반적으로 토양은 비옥하지 못합니다.</ZBiome_Grasslands.description>
+  <ZBiome_Iceberg_NoBeach.label>빙산</ZBiome_Iceberg_NoBeach.label>
+  <ZBiome_Iceberg_NoBeach.description>바다에 떠 있는 얼음 덩어리입니다. 식물이 자랄 수 있는 토양과 채굴할 수 있는 광물이 없고, 동물도 거의 없습니다.</ZBiome_Iceberg_NoBeach.description>
+  <ZBiome_Marsh.label>늪지</ZBiome_Marsh.label>
+  <ZBiome_Marsh.description>평평한 늪지입니다. 빽빽하게 식물들이 서식합니다만 나무는 적습니다.</ZBiome_Marsh.description>
+  <ZBiome_Sandbar_NoBeach.label>모래톱</ZBiome_Sandbar_NoBeach.label>
+  <ZBiome_Sandbar_NoBeach.description>건설할 수 있는 단단한 땅이나 초목 또는 경작지가 거의 없고 동물도 적은, 평평하고 부드러운 모래섬입니다.</ZBiome_Sandbar_NoBeach.description>
+</LanguageData>

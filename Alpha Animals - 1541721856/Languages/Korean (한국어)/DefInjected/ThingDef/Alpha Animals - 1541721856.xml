@@ -11,9 +11,9 @@
   <AA_SkySteelClumps.label>빛나는 기이한 광물</AA_SkySteelClumps.label>
   <AA_SkySteelClumps.description>이 이상한 광물은 매우 단단하고 유연합니다. 아마도 쓸만한 재료를 추출할 수 있는 방법을 찾을 수 있을 것입니다.</AA_SkySteelClumps.description>
   <AA_BlueGelBattery.label>푸른젤 축전지</AA_BlueGelBattery.label>
-  <AA_BlueGelBattery.description>가연성이 높아 화재에 유의하여야 하지만 전기에너지가 흘러 넘치는 푸른젤의 축전지입니다. 비나 화염에 노출될시 폭발할 우려가 있습니다.</AA_BlueGelBattery.description>
+  <AA_BlueGelBattery.description>전기에너지가 풍부한 푸른젤의 축전지입니다. 가연성이 높아 화재에 유의하여야 하며, 비나 화염에 노출될시 폭발할 우려가 있습니다.</AA_BlueGelBattery.description>
   <AA_HexaGelBattery.label>헥사젤 축전지</AA_HexaGelBattery.label>
-  <AA_HexaGelBattery.description>가연성이 높아 화재에 유의하여야 하지만 전기적 특성이 매우 뛰어난 헥사젤 축전지입니다. 비나 화염에 노출될시 폭발할 우려가 있습니다.</AA_HexaGelBattery.description>
+  <AA_HexaGelBattery.description>전기적 특성이 매우 뛰어난 헥사젤 축전지입니다. 가연성이 높아 화재에 유의하여야 하며, 비나 화염에 노출될시 폭발할 우려가 있습니다.</AA_HexaGelBattery.description>
   <AA_HexagelCoreReactor.label>헥사젤 코어 반응로</AA_HexagelCoreReactor.label>
   <AA_HexagelCoreReactor.description>헥사젤 코어 내부에 저장된 에너지에서 전력을 생산합니다.</AA_HexagelCoreReactor.description>
   <AA_MutantLeg.label>돌연변이 다리</AA_MutantLeg.label>
@@ -130,7 +130,7 @@
   <AA_RandomBricks.description>이건 버그이므로 출력되서는 안되는 문장입니다.</AA_RandomBricks.description>
   <AA_CactipineQuill.label>의료용 선인장뿔쥐 깃</AA_CactipineQuill.label>
   <AA_CactipineQuill.description>이 깃털은 강력한 마취제로 코팅되어 있으며, 약초를 대신할 수 있습니다. 기성 의약품만큼 강력하지는 않지만, 응급상황에서는 제법 유용합니다.</AA_CactipineQuill.description>
-  <AA_BlueMilk.label>파란색 우유</AA_BlueMilk.label>
+  <AA_BlueMilk.label>파란 우유</AA_BlueMilk.label>
   <AA_BlueMilk.description>서리 베히모스의 "우유"입니다. 영양가는 매우 높으나 먹기 거북한 색을 띄고 있습니다.</AA_BlueMilk.description>
   <AA_GowMilk.label>양소 우유</AA_GowMilk.label>
   <AA_GowMilk.description>가시 양소의 "우유"입니다. 영양가는 매우 높으나 붉으스레한 색은 조금 먹기 거북합니다.</AA_GowMilk.description>
@@ -202,13 +202,12 @@
   <AA_Flamethrower.label>화염방사기</AA_Flamethrower.label>
   <AA_Flamethrower.description>파이어웜이 접근하게 되면 통제 불가능한 화재를 일으키는 짧은 범위의 화학연료 화염방사기입니다.</AA_Flamethrower.description>
   <AA_Flamethrower.tools.0.label>총열</AA_Flamethrower.tools.0.label>
-  <AA_FlamethrowerBullet.label>화학적 불</AA_FlamethrowerBullet.label>
   <AA_CryogenicGun.label>극저온 발사기</AA_CryogenicGun.label>
   <AA_CryogenicGun.description>극저온 발사기입니다.</AA_CryogenicGun.description>
   <AA_CryogenicGun.tools.0.label>총열</AA_CryogenicGun.tools.0.label>
   <AA_CryoBullet.label>극저온 탄</AA_CryoBullet.label>
-  <AA_Bullet_Barb.label>미늘</AA_Bullet_Barb.label>
-  <AA_PoisonBolt.label>독성 침</AA_PoisonBolt.label>
+  <AA_Bullet_Barb.label>투척된 깃털칼날</AA_Bullet_Barb.label>
+  <AA_PoisonBolt.label>맹독 타액</AA_PoisonBolt.label>
   <AA_ToxicInk.label>독성 잉크 침</AA_ToxicInk.label>
   <AA_AcidBolt.label>산성 침</AA_AcidBolt.label>
   <AA_RedPoisonBolt.label>빨간 독성 침</AA_RedPoisonBolt.label>
@@ -220,7 +219,7 @@
   <AA_FireWeb.label>화염 거미줄</AA_FireWeb.label>
   <AA_AcidicWeb.label>산성 거미줄</AA_AcidicWeb.label>
   <AA_Web.label>거미줄</AA_Web.label>
-  <AA_IncendiaryMote.label>화염구</AA_IncendiaryMote.label>
+  <AA_IncendiaryMote.label>발열성 폭발 타액</AA_IncendiaryMote.label>
   <AA_FireSpit.label>화염 타액</AA_FireSpit.label>
   <AA_Filth_BlueBlood.label>푸른 피</AA_Filth_BlueBlood.label>
   <AA_OcularGas.label>눈알 가스</AA_OcularGas.label>
@@ -299,24 +298,7 @@
   <AA_Animalisk.tools.0.label>왼쪽 첫 번째 다리</AA_Animalisk.tools.0.label>
   <AA_Animalisk.tools.1.label>오른쪽 첫 번째 다리</AA_Animalisk.tools.1.label>
   <AA_Animalisk.tools.3.label>머리</AA_Animalisk.tools.3.label>
-  <AA_BlackScarab.label>블랙 스캐럽</AA_BlackScarab.label>
-  <AA_BlackScarab.description>유전공학으로 만들어진 이 거대한 딱정벌레는 메카노이드의 침입에 대항하기 위해 고안된 '검은 둥지'의 일원입니다. '검은 둥지'는 매우 호전적이며, 인공적으로 개량된 돌연변이 곤충들로 인해 매우 위협적입니다. 
-
-개중 블랙 스캐럽은 적의 주의를 끌기 위해 곤충무리에 앞서 나타나는 첨병입니다. 곤충사회의 생물체는 개별적으로 번식할 수 없습니다.</AA_BlackScarab.description>
-  <AA_BlackScarab.tools.0.label>하악골</AA_BlackScarab.tools.0.label>
-  <AA_BlackScarab.tools.1.label>머리</AA_BlackScarab.tools.1.label>
-  <AA_BlackSpelopede.label>블랙 스펠로피드</AA_BlackSpelopede.label>
-  <AA_BlackSpelopede.description>메카노이드에 대항하기 위해 개량된 적당한 크기의 생체공학 곤충입니다. '검은 둥지'는 매우 호전적이며, 인공적으로 개량된 돌연변이 곤충들로 인해 매우 위협적입니다. 
-
-스펠로피드는 둥지의 중간계급으로, 거의 모든 작업을 수행할 수 있으며 날카로운 발톱으로 전투에서도 활약합니다. 확실히 위협적이기는 하지만 평지에서의 이동속도는 다소 느린 편입니다.</AA_BlackSpelopede.description>
-  <AA_BlackSpelopede.tools.0.label>머리 갈고리 발톱</AA_BlackSpelopede.tools.0.label>
-  <AA_BlackSpelopede.tools.1.label>머리</AA_BlackSpelopede.tools.1.label>
-  <AA_BlackSpider.label>블랙 스파이더</AA_BlackSpider.label>
-  <AA_BlackSpider.description>메카노이드에 대항하기 위해 인공적으로 설계된 생체공학 곤충 '검은 둥지'의 일원인 블랙 스파이더는 이름만 거미일 뿐, 곰과 같은 크기의 거대함을 자랑합니다. '검은 둥지'는 매우 호전적이며, 인공적으로 개량된 돌연변이 곤충들로 인해 매우 위협적입니다. 
-
-힘쓰는 일과 전투를 위해 고안된 두꺼운 갑피는 몸을 단단히 보호하며 긴 칼날같은 발톱으로 인해 치명적인 근접 전투력을 자랑합니다.</AA_BlackSpider.description>
-  <AA_BlackSpider.tools.0.label>머리 갈고리 발톱</AA_BlackSpider.tools.0.label>
-  <AA_BlackSpider.tools.1.label>머리</AA_BlackSpider.tools.1.label>
+  <AA_Animalisk.verbs.0.label>거미줄</AA_Animalisk.verbs.0.label>
   <AA_AnimusVox.label>아니무스 복스</AA_AnimusVox.label>
   <AA_AnimusVox.description>아니무스 복스는 사이오닉 잠재능력을 지닌 작은 개과동물입니다. 대부분의 개들처럼 똑똑한 편이지만, 사이오닉 능력을 자유자재로 사용할 만큼은 아닙니다. 아니무스 복스는 자신의 사이오닉 능력을 활용해 교감하는 모든 사람들을 행복하게 하는 것을 즐깁니다.
 
@@ -347,10 +329,31 @@
   <AA_Barbslinger.tools.0.label>왼쪽 집게발</AA_Barbslinger.tools.0.label>
   <AA_Barbslinger.tools.1.label>오른쪽 집게발</AA_Barbslinger.tools.1.label>
   <AA_Barbslinger.tools.3.label>머리</AA_Barbslinger.tools.3.label>
+  <AA_Barbslinger.verbs.0.label>깃털칼날</AA_Barbslinger.verbs.0.label>
   <AA_BedBug.label>해악충</AA_BedBug.label>
   <AA_BedBug.description>이 거대한 외계 곤충은 그들이 서식할 수 있는 모든 행성계에서 해충 혹은 성가신 존재로 간주됩니다. 특별히 위험하거나 강력진 않지만, 먹이를 마비시키는 맹독은 자신들보다 몸집이 큰 사냥감도 무력화시킵니다. 다행스럽게도, 인간은 녀석들에게 있어서 너무 큰 상대입니다. 모종의 이유로 화가 난 상태가 아니라면 말이죠... 때문에 이들을 절대 혼자서 사냥하려고 해선 안됩니다!</AA_BedBug.description>
   <AA_BedBug.tools.0.label>하악골</AA_BedBug.tools.0.label>
   <AA_BedBug.tools.1.label>머리</AA_BedBug.tools.1.label>
+  <AA_BlackScarab.label>블랙 스캐럽</AA_BlackScarab.label>
+  <AA_BlackScarab.description>유전공학으로 만들어진 이 거대한 딱정벌레는 메카노이드의 침입에 대항하기 위해 고안된 '검은 둥지'의 일원입니다. '검은 둥지'는 매우 호전적이며, 인공적으로 개량된 돌연변이 곤충들로 인해 매우 위협적입니다. 
+
+개중 블랙 스캐럽은 적의 주의를 끌기 위해 곤충무리에 앞서 나타나는 첨병입니다. 곤충사회의 생물체는 개별적으로 번식할 수 없습니다.</AA_BlackScarab.description>
+  <AA_BlackScarab.tools.0.label>하악골</AA_BlackScarab.tools.0.label>
+  <AA_BlackScarab.tools.1.label>머리</AA_BlackScarab.tools.1.label>
+  <AA_BlackSpelopede.label>블랙 스펠로피드</AA_BlackSpelopede.label>
+  <AA_BlackSpelopede.description>메카노이드에 대항하기 위해 개량된 적당한 크기의 생체공학 곤충입니다. '검은 둥지'는 매우 호전적이며, 인공적으로 개량된 돌연변이 곤충들로 인해 매우 위협적입니다. 
+
+스펠로피드는 둥지의 중간계급으로, 거의 모든 작업을 수행할 수 있으며 날카로운 발톱으로 전투에서도 활약합니다. 확실히 위협적이기는 하지만 평지에서의 이동속도는 다소 느린 편입니다.</AA_BlackSpelopede.description>
+  <AA_BlackSpelopede.tools.0.label>머리 갈고리 발톱</AA_BlackSpelopede.tools.0.label>
+  <AA_BlackSpelopede.tools.1.label>머리</AA_BlackSpelopede.tools.1.label>
+  <AA_BlackSpelopede.verbs.0.label>맹독 타액</AA_BlackSpelopede.verbs.0.label>
+  <AA_BlackSpider.label>블랙 스파이더</AA_BlackSpider.label>
+  <AA_BlackSpider.description>메카노이드에 대항하기 위해 인공적으로 설계된 생체공학 곤충 '검은 둥지'의 일원인 블랙 스파이더는 이름만 거미일 뿐, 곰과 같은 크기의 거대함을 자랑합니다. '검은 둥지'는 매우 호전적이며, 인공적으로 개량된 돌연변이 곤충들로 인해 매우 위협적입니다. 
+
+힘쓰는 일과 전투를 위해 고안된 두꺼운 갑피는 몸을 단단히 보호하며 긴 칼날같은 발톱으로 인해 치명적인 근접 전투력을 자랑합니다.</AA_BlackSpider.description>
+  <AA_BlackSpider.tools.0.label>머리 갈고리 발톱</AA_BlackSpider.tools.0.label>
+  <AA_BlackSpider.tools.1.label>머리</AA_BlackSpider.tools.1.label>
+  <AA_BlackSpider.verbs.0.label>맹독 타액</AA_BlackSpider.verbs.0.label>
   <AA_Blizzarisk.label>블리자리스크</AA_Blizzarisk.label>
   <AA_Blizzarisk.description>누군가 꽁무니에서 초경조직을 뽑아내는 거대 거미를 만드는 것이 꽤나 멋진 생각이라 여겼던 모양입니다. 이들의 고향 행성은 원자폭탄에 의해 완전히 청소되어 춥고 황폐한 대리석 덩어리로 변해버렸고, 블리자리스크는 이러한 극도로 추운 기후에 적응한 페라리스크의 돌연변이입니다.
 
@@ -358,6 +361,7 @@
   <AA_Blizzarisk.tools.0.label>왼쪽 첫 번째 다리</AA_Blizzarisk.tools.0.label>
   <AA_Blizzarisk.tools.1.label>오른쪽 첫 번째 다리</AA_Blizzarisk.tools.1.label>
   <AA_Blizzarisk.tools.3.label>머리</AA_Blizzarisk.tools.3.label>
+  <AA_Blizzarisk.verbs.0.label>서리 거미줄</AA_Blizzarisk.verbs.0.label>
   <AA_BlizzariskClutchMother.label>블리자리스크 무리어미</AA_BlizzariskClutchMother.label>
   <AA_BlizzariskClutchMother.description>누군가 꽁무니에서 초경조직을 뽑아내는 거대 거미를 만드는 것이 꽤나 멋진 생각이라 여겼던 모양입니다. 이들의 고향 행성은 원자폭탄에 의해 완전히 청소되어 춥고 황폐한 대리석 덩어리로 변해버렸고, 블리자리스크는 이러한 극도로 추운 기후에 적응한 페라리스크의 돌연변이입니다.
 
@@ -421,6 +425,7 @@
   <AA_Cinderlisk.tools.0.label>왼쪽 첫 번째 다리</AA_Cinderlisk.tools.0.label>
   <AA_Cinderlisk.tools.1.label>오른쪽 첫 번째 다리</AA_Cinderlisk.tools.1.label>
   <AA_Cinderlisk.tools.3.label>머리</AA_Cinderlisk.tools.3.label>
+  <AA_Cinderlisk.verbs.0.label>화염 거미줄</AA_Cinderlisk.verbs.0.label>
   <AA_CrepuscularBeetle.label>황반 딱정벌레</AA_CrepuscularBeetle.label>
   <AA_CrepuscularBeetle.description>황반 딱정벌레는 평화로운 초식 동물로, 헤라클레스 딱정벌레를 연상시키는 거대한 절지동물입니다. 죽어가는 항성의 외딴 변경계에서 유래한 신비로운 생물체로, 과거 버림받은 자들이라 알려진 인간형 외계인 종족 고향 행성의 짐꾼으로 종종 활용되었습니다.
 
@@ -469,6 +474,7 @@
   <AA_Dunealisk.tools.0.label>왼쪽 첫 번째 다리</AA_Dunealisk.tools.0.label>
   <AA_Dunealisk.tools.1.label>오른쪽 첫 번째 다리</AA_Dunealisk.tools.1.label>
   <AA_Dunealisk.tools.3.label>머리</AA_Dunealisk.tools.3.label>
+  <AA_Dunealisk.verbs.0.label>화염 거미줄</AA_Dunealisk.verbs.0.label>
   <AA_DunealiskClutchMother.label>두니아리스크 무리어미</AA_DunealiskClutchMother.label>
   <AA_DunealiskClutchMother.description>누군가 꽁무니에서 초경조직을 뽑아내는 거대 거미를 만드는 것이 꽤나 멋진 생각이라 여겼던 모양입니다. 이들의 고향 행성은 원자폭탄에 의해 완전히 청소되어 뜨겁고 황폐한 대리석 덩어리로 변해버렸고, 두니아리스크는 이러한 극도로 뜨거운 기후에 적응한 페라리스크의 돌연변이입니다.
 
@@ -492,6 +498,7 @@
   <AA_Feralisk.tools.0.label>왼쪽 첫 번째 다리</AA_Feralisk.tools.0.label>
   <AA_Feralisk.tools.1.label>오른쪽 첫 번째 다리</AA_Feralisk.tools.1.label>
   <AA_Feralisk.tools.3.label>머리</AA_Feralisk.tools.3.label>
+  <AA_Feralisk.verbs.0.label>거미줄</AA_Feralisk.verbs.0.label>
   <AA_FeraliskClutchMother.label>페라리스크 무리어미</AA_FeraliskClutchMother.label>
   <AA_FeraliskClutchMother.description>누군가 꽁무니에서 초경조직을 뽑아내는 거대 거미를 만드는 것이 꽤나 멋진 생각이라 여겼던 모양입니다. 이들의 고향 행성은 오늘날 원자폭탄에 의해 완전히 청소되어 황폐한 대리석 덩어리가 되었습니다.
 
@@ -606,6 +613,7 @@
   <AA_GreenGoo.label>녹색 액체괴물</AA_GreenGoo.label>
   <AA_GreenGoo.description>간신히 생명체처럼 보이긴 하는 움직이는 비정형의 젤라틴 덩어리입니다. 개체 단위로 사는 것처럼 보이지만 실제로는 성장하고 서식지를 확장하는 것만을 유일한 목표로 삼는 커다란 젤라틴 초유기체의 일부일 뿐입니다.\n\n끊임없이 번식할 수 있는 능력과 매우 작은 열량으로도 생명을 유지하는 능력, 그리고 생태계의 모든 틈새로 빠르게 파고드는 능력 때문에 이 녹색 젤라틴 덩어리는 "액체괴물"이라는 별명을 얻었습니다. 회색 액체괴물은 종말 신화에 등장하며 자기 복제를 반복하여 세상의 모든 유기물을 소비하는 분자 나노기술에 관련된 세계 종말 시나리오의 일부입니다. 그러나 회색 액체괴물 시나리오와 달리 녹색 액체괴물 시나리오는 생물학적으로 자기 복제를 하는 독립체들과 관련되어 있습니다. (참고: 원활한 게임 플레이를 위하여, 녹색 액체괴물은 지도에 40개의 생물이 있을 때까지만 분열할 것입니다. 모드 개발자는 CPU를 불태우는 취미가 없습니다.)</AA_GreenGoo.description>
   <AA_GreenGoo.tools.0.label>촉수</AA_GreenGoo.tools.0.label>
+  <AA_GreenGoo.verbs.0.label>맹독 타액</AA_GreenGoo.verbs.0.label>
   <AA_GreenGoo.comps.0.customString>복제: </AA_GreenGoo.comps.0.customString>
   <AA_Groundrunner.label>땅곰</AA_Groundrunner.label>
   <AA_Groundrunner.description>곰과 사마귀를 섞어둔듯한 키메라입니다. 주로 동굴에서 서식하며 곡괭이로는 흠집조차 나지않는 플라스틸 광맥을 깨부수고 커다란 돌을 들어올리는 것과 같이 힘쓰는 일에 활용되었으며, 동굴에서의 생활을 업으로 하는 주민들이 무거운 도구를 나를때도 애용하였습니다.
@@ -613,7 +621,7 @@
 가축으로 길들여진 세월이 길었기때문에, 이제는 야생의 땅곰들도 매우 유순하여 길들이기 쉽습니다. 탁월한 근력과 예리한 발톱은 땅곰이 손쉽게 암석을 부술 수 있도록 하며, 변경계에서는 주로 파워아머와 그 착용자를 한번에 종잇장처럼 찢어놓는데 활용됩니다.
 
 땅곰들은 정착민들을 위해 기꺼이 채굴을 도울것이지만, 특성상 제법 게으르며 쉽게 주위가 산만해지기 때문에 주의를 기울여야 합니다.
-(땅곰에게 운반을 훈련시킨 경우에만 이러한 상호작용이 가능합니다.)</AA_Groundrunner.description>
+(땅곰에게 운반을 훈련시킨 경우에만 이러한 상호작용이 가능합니다. Quarry모드와 호환 가능합니다.)</AA_Groundrunner.description>
   <AA_Groundrunner.tools.0.label>왼쪽 발톱</AA_Groundrunner.tools.0.label>
   <AA_Groundrunner.tools.1.label>오른쪽 발톱</AA_Groundrunner.tools.1.label>
   <AA_Groundrunner.tools.3.label>머리</AA_Groundrunner.tools.3.label>
@@ -640,6 +648,7 @@
   <AA_Junglelisk.tools.0.label>왼쪽 첫 번째 다리</AA_Junglelisk.tools.0.label>
   <AA_Junglelisk.tools.1.label>오른쪽 첫 번째 다리</AA_Junglelisk.tools.1.label>
   <AA_Junglelisk.tools.3.label>머리</AA_Junglelisk.tools.3.label>
+  <AA_Junglelisk.verbs.0.label>산성 거미줄</AA_Junglelisk.verbs.0.label>
   <AA_Lockjaw.label>자물쇠턱 하마</AA_Lockjaw.label>
   <AA_Lockjaw.description>열대 지방 출신의 매우 거대한 동물입니다. 엄청나게 강한 치악력과 특이한 병을 퍼뜨리고 다니는 탓에 '자물쇠턱'이라는 별명이 붙었는데, 이 질병에 걸리게 되면 안면 마비가 오게 되어 음식을 먹기가 매우 불편해집니다.
 
@@ -664,6 +673,7 @@
 하지만 실험 도중 거대한 메카노이드 군단의 공격에 대부분의 연구자들이 사살되었고, 아프리쿠스 프로젝트의 결과물은 대부분 그대로 방치되어 자체적인 생태계를 만들었습니다.</AA_Mantrap.description>
   <AA_Mantrap.tools.0.label>날카로운 돌기</AA_Mantrap.tools.0.label>
   <AA_Mantrap.tools.2.label>머리</AA_Mantrap.tools.2.label>
+  <AA_Mantrap.verbs.0.label>산성 타액</AA_Mantrap.verbs.0.label>
   <AA_MatureFleshbeast.label>성체 고깃덩어리</AA_MatureFleshbeast.label>
   <AA_MatureFleshbeast.description>유전조작 실패의 교과서적인 생명체인 고깃덩어리는 비참하게 고통스러우며 끊임없이 새어나오는 고름으로 뒤덮혀 있습니다. 죽은 대부분을 제외하고 가쁜 호흡을 하며 간신히 살아남은 극히 일부의 강인한 개체들은 야생에 적응하였고 왕성한 식욕을 가진 비대한 괴물로 탄생했습니다.
 
@@ -672,7 +682,7 @@
   <AA_MeadowAve.label>초원공작</AA_MeadowAve.label>
   <AA_MeadowAve.description>화려한 깃털을 지녔지만 날지 못하는 커다란 새입니다. 초원공작은 과일과 열매를 쉽게 찾을 수 있는 평야에 주로 서식하며, 그 화려한 깃털로 인해 자연스래 주변을 지나는 이들의 눈길을 끕니다. 하지만 아름다운 깃털 코트 속에는 면도날처럼 날카로운 부리와 발톱을 가진 야생동물이 있다는 사실을 잊어선 안됩니다.
 
-초원공작은 말보다 훨씬 빠르며, 제대로 훈련되면 놀라운 속도로 전투에 참여할 수 있습니다. (이 상호작용에는 기디업, 전투 탈것 모드가 필요하며, 초원공작을 탑승할 시 이동속도가 50% 증가합니다.)</AA_MeadowAve.description>
+초원공작은 말보다 훨씬 빠르며, 제대로 훈련되면 놀라운 속도로 전투에 참여할 수 있습니다. (이 상호작용에는 기디업, 전투 탈것 모드가 필요하며, 초원공작을 탑승할 시 이동속도가 50% 증가합니다. 다양한 색상의 야생 개체를 찾을 수 있습니다.)</AA_MeadowAve.description>
   <AA_MeadowAve.tools.0.label>발톱</AA_MeadowAve.tools.0.label>
   <AA_MeadowAve.tools.2.label>머리</AA_MeadowAve.tools.2.label>
   <AA_MegaLouse.label>메갈루스</AA_MegaLouse.label>
@@ -709,12 +719,14 @@
 바늘기둥 선인장은 매우 적은 양의 썩은 야채로부터도 영양분을 얻을 수 있지만, 다른 무엇보다 엄청난 양의 햇빛을 필요로 합니다. 밤은 위협적이지 않지만, 낮의 볕을 기다리던 선인장들에게 일식은 매우 치명적일 수 있습니다.</AA_Needlepost.description>
   <AA_Needlepost.tools.0.label>가시</AA_Needlepost.tools.0.label>
   <AA_Needlepost.tools.2.label>머리</AA_Needlepost.tools.2.label>
+  <AA_Needlepost.verbs.0.label>독성 미늘</AA_Needlepost.verbs.0.label>
   <AA_Needleroll.label>바늘공</AA_Needleroll.label>
   <AA_Needleroll.description>바늘공은 변경계의 극도로 건조하고 척박한 환경에서도 자랄 수 있도록 진화한 바늘기둥 선인장의 일종입니다.
 
 바늘기둥 선인장이 그러하듯 햇빛 혹은 태양등으로부터 생존에 필요로 하는 모든 양분을 얻을 수 있으며, 아침에 맺히는 미세한 양의 이슬을 흡수하여 수분 또한 스스로 보충 할 수 있기때문에 특별히 다른 에너지원을 필요치 않습니다. 하지만 식물로서 많은 양의 햇빛을 필요로 하기 때문에, 볕을 기다리던 바늘공에게 일식은 매우 치명적인 사건일 수 있습니다.</AA_Needleroll.description>
   <AA_Needleroll.tools.0.label>가시</AA_Needleroll.tools.0.label>
   <AA_Needleroll.tools.2.label>머리</AA_Needleroll.tools.2.label>
+  <AA_Needleroll.verbs.0.label>독성 미늘</AA_Needleroll.verbs.0.label>
   <AA_NightMule.label>나이트뮬</AA_NightMule.label>
   <AA_NightMule.description>나이트뮬은 짐을 운반하거나 고된 노동에 활용된 튼튼한 짐승입니다. 나이트뮬을 가축화한 이른바 버림받은 자들은 이 동물을 적극적으로 활용하였기 때문에 다른 변경계에서도 간혹 찾아볼 수 있습니다. 죽어가는 희미한 별 "포사켄스"를 공전하는 외딴 변경계의 행성에서 유래되었기 때문에 선천적으로 어두운 환경에 익숙하며, 그들의 어두운 고향행성에서 벗어나 도착한 다른 정착지에서는 본능적으로 햇볕을 피하는 경향이 있습니다. 
 
@@ -729,11 +741,13 @@
 나이트 조류는 말보다 훨씬 빠른 굉장한 탈것이며, 제대로 훈련되면 엄청난 속도로 전투에 참여할 수 있습니다. (이 상호 작용에는 Giddy-Up, 전투 탈것 모드가 필요하며 탑승시 나이트 조류가 50% 더 빠르게 움직입니다.)</AA_NightAve.description>
   <AA_NightAve.tools.0.label>발톱</AA_NightAve.tools.0.label>
   <AA_NightAve.tools.2.label>머리</AA_NightAve.tools.2.label>
+  <AA_NightAve.verbs.0.label>깃털칼날</AA_NightAve.verbs.0.label>
   <AA_Nightling.label>나이트링</AA_Nightling.label>
   <AA_Nightling.description>등에 뾰족한 깃이 줄지어 솟아 있는 날렵한 포식동물입니다. 나이트링은 이름에서 짐작할 수 있듯이 야행성 포식자로 자신들보다도 더 큰 동물이나 사람을 먹는것에 전혀 개의치않아 합니다. 강력한 턱을 제외하더라도, 나이트링은 먹이를 제압하기 위해 등에 달린 깃을 날릴 수도 있습니다.</AA_Nightling.description>
   <AA_Nightling.tools.0.label>왼쪽 발톱</AA_Nightling.tools.0.label>
   <AA_Nightling.tools.1.label>오른쪽 발톱</AA_Nightling.tools.1.label>
   <AA_Nightling.tools.3.label>머리</AA_Nightling.tools.3.label>
+  <AA_Nightling.verbs.0.label>깃털칼날</AA_Nightling.verbs.0.label>
   <AA_NightRam.label>나이트램</AA_NightRam.label>
   <AA_NightRam.description>나이트램은 고집센 초식동물입니다. 과학자들은 나이트램이 포식자 나이트링과 유전자상 많은 부분이 비슷하며 시조가 같을 것으로 추측합니다. 죽어가는 희미한 별 "포사켄스"를 공전하는 외딴 변경계의 행성에서 유래되었기 때문에 선천적으로 어두운 환경에 익숙하며, 버림받은 자들이라 알려진 외계인의 고향행성에서 벗어나 도착한 다른 정착지에서는 본능적으로 햇볕을 피하는 경향이 있습니다. 
 
@@ -749,9 +763,10 @@
 
 떠다니는 생물체이기 떄문에 눈알해파리는 지형에 영향을 받지 않습니다.</AA_OcularJelly.description>
   <AA_OcularJelly.tools.1.label>촉수</AA_OcularJelly.tools.1.label>
+  <AA_OcularJelly.verbs.0.label>맹독 타액</AA_OcularJelly.verbs.0.label>
   <AA_OcularJelly.comps.0.customString>분열 생식: </AA_OcularJelly.comps.0.customString>
   <AA_OvergrownColossus.label>나무 거대늘보</AA_OvergrownColossus.label>
-  <AA_OvergrownColossus.description>나무 거대늘보는 매우 이상한 짐승입니다. 변경계에서 몇 안되는 순수 진화 생명체로서, 그 어떤 인간의 과학적 호기심과 관계없이 먼 옛날 늪지 행성에서 자연적으로 발생하였습니다.
+  <AA_OvergrownColossus.description>나무 거대늘보는 매우 이상한 짐승입니다. 변경계에서 몇 안되는 순수 진화 생명체이며, 그 어떤 인간의 과학적 호기심과 관계없이 잊혀진 고대의 토착 생명체 중 하나의 진화로 인해 먼 옛날 늪지 행성에서 자연적으로 발생하였습니다.
 
 냉혈, 느린 신진대사 등 기본 바탕은 분명 파충류의 일종으로 보이지만, 여섯개의 다리와 두 개의 뒤엉킨 이빨, 여섯개의 눈을 가진 아주 기묘한 신체를 가지고 있습니다. 등에는 여러 개의 작은 나무들이 자라면서 공생관계를 맺고 있는데, 이 나무들은 광합성을 하여 나무 거대늘보가 영양분을 공급받도록 합니다.
 
@@ -775,6 +790,7 @@
 
 이러한 괴상한 방식은 자연적이지 않지만 어떻게 익힌 습성인지는 오래도록 잊혀진 미스터리입니다.</AA_Plasmorph.description>
   <AA_Plasmorph.tools.0.label>눈자루</AA_Plasmorph.tools.0.label>
+  <AA_Plasmorph.verbs.0.label>화염 타액</AA_Plasmorph.verbs.0.label>
   <AA_Radyak.label>라디악</AA_Radyak.label>
   <AA_Radyak.description>라디악은 치명적인 방사능 환경에서도 활동할 수 있는 평화로운 초식동물입니다. 이 반추동물의 소화기관은 잔디 조직에 잔류하고있는 방사성 물질을 추출하기 위해 납으로 강화된 6개의 생체공학 위로 구성되어 있습니다. 이렇게 체내에서 분류된 방사성 물질들은 이들의 외피에 축적되어 솟아난 수정과 같은 형태을 띕니다. 이 결정들은 정기적으로 수확할 수 있으며, 화학연료 제조기에서의 정제를 통해 우라늄을 얻을 수 있습니다.
 
@@ -817,12 +833,14 @@
 
 붉은 액체괴물은 외계 환경인 눈알 수목지대에서 이상할 정도로 번성하고 있고, 난잡하게 자란 초목들을 갉아먹으며 주기적으로 분열을 하는 것 같습니다. (참고: 원할한 게임 플레이를 위하여, 붉은 액체괴물은 지도에 15개의 생물이 있을때까지만 분열할것입니다. 모드 개발자가 CPU를 불태우는 취미를 가지지 않았기 때문입니다.)</AA_RedGoo.description>
   <AA_RedGoo.tools.0.label>촉수</AA_RedGoo.tools.0.label>
+  <AA_RedGoo.verbs.0.label>맹독 타액</AA_RedGoo.verbs.0.label>
   <AA_RedGoo.comps.0.customString>복제: </AA_RedGoo.comps.0.customString>
   <AA_RedSpore.label>붉은 촉수포자</AA_RedSpore.label>
   <AA_RedSpore.description>일반적인 탄소 기반 생명체와는 다르게, 이 이상한 생물체는 갈륨으로 이루어져 있습니다. 이 물리적으로 불가능한 고차원 내장과 갈륨기반 신체 구성물질을 통해 붉은 촉수포자가 눈알해파리처럼 다른 우주에서 기인했을 것이라는 추측을 할 수 있습니다. 
 
 다만 변경계의 물리 법칙으로는 이러한 성질이 매우 불안정하기 때문에 이들은 짧은 수명을 가졌고 사망시 격렬한 폭발을 일으키며, 정상적인 생식이 불가능합니다. 붉은 촉수포자는 떠다니는 생물이기 때문에 이동 시 지형에 영향을 받지 않습니다.</AA_RedSpore.description>
   <AA_RedSpore.tools.0.label>촉수</AA_RedSpore.tools.0.label>
+  <AA_RedSpore.verbs.0.label>맹독 타액</AA_RedSpore.verbs.0.label>
   <AA_RipperHound.label>리퍼 하운드</AA_RipperHound.label>
   <AA_RipperHound.description>리퍼 하운드는 곤충에 대항하기 위한 살아있는 방어수단으로 고안되었습니다. 리퍼 하운드는 키티노이드 장갑을 붙잡고 조각조각 찢어내기 위해 특별히 고안된 두 개의 흉악한 발톱을 가지고 있습니다.
 
@@ -922,8 +940,9 @@
 
 본디 싸움보다는 도망가기를 좋아하는 온화한 거대 생물이지만 튼튼한 플라스틸 외피와 테슬라 캐논 역할을 할 수 있는 아이코닉 쿼드 코어, 그리고 뇌에 삽입된 전술 AI로 인해 주변에서 감지된 위협들을 제거하기를 주저하지 않는 냉혹한 포식자가 되기도 합니다.
 
-적절한 장비를 갖춘 테트라 슬러그는 주변에 있는 배터리를 천천히 충전시킬 것입니다.</AA_TetraSlug.description>
+적절한 장비를 갖춘 테트라 슬러그는 주변에 있는 축전지를 천천히 충전시킬 것입니다. (대부분의 축전지모드와 호환됩니다.)</AA_TetraSlug.description>
   <AA_TetraSlug.tools.0.label>몸통</AA_TetraSlug.tools.0.label>
+  <AA_TetraSlug.verbs.0.label>쿼드 테슬라 캐논</AA_TetraSlug.verbs.0.label>
   <AA_Thermadon.label>테르마돈</AA_Thermadon.label>
   <AA_Thermadon.description>테르마돈은 휘발성 화학선을 사용할 수 있도록 생물학적으로 강화된 대형 블랙스파이더입니다. 본래 테르마돈은 검은둥지를 고안한 이들에 의해 내화성 메카노이드들에게도 영향을 끼칠 수 있는 무시무시한 작열 생체 유탄 포병으로 육성되었습니다. 하지만 메카노이드들은 이러한 공격에 빠르게 적응했고, 효용가치가 없어진 테르마돈 프로젝트는 결국 폐기되었습니다.
 
@@ -932,6 +951,7 @@
 만일 정착지가 나무로 되어 있다면... 테르마돈을 사냥하는 것은 현명하지 않은 것 같습니다.</AA_Thermadon.description>
   <AA_Thermadon.tools.0.label>머리 갈고리 발톱</AA_Thermadon.tools.0.label>
   <AA_Thermadon.tools.1.label>머리</AA_Thermadon.tools.1.label>
+  <AA_Thermadon.verbs.0.label>발열성 폭발 타액</AA_Thermadon.verbs.0.label>
   <AA_Wildpawn.label>와일드폰</AA_Wildpawn.label>
   <AA_Wildpawn.description>와일드폰은 습지와 열대우림 밖 생활에 적응한 와일드포드의 변종입니다. 먹이로 하는 썩어가는 식물과 물을 찾기 어려운 탓에 와일드포드보다 작게 성장하며, 그만큼 위험성 또한 낮습니다. 형제뻘인 와일드포드에 비해 총격에 대한 방호력이 비교적 떨어지며, 불에 취약합니다. 와일드폰은 몇 주 마다 포자를 뿌려 번식을 하기에 각 개체들은 혈육관계가 없는 완전 독립적 개체입니다.
 
@@ -989,10 +1009,16 @@
 
 참고: 모든 알파 메카노이드는 모드 옵션으로 습격, 함선 잔해, 메카노이드 군락에서의 출현 여부를 설정할 수 있습니다. 이미 생성되었더라도 모드 옵션을 통해 비활성화가 가능합니다.</AA_Siegebreaker.description>
   <AA_Siegebreaker.tools.0.label>머리</AA_Siegebreaker.tools.0.label>
+  <VEF_AdvancedAnimalImplantsTable.label>동물용 강화 이식물 목록</VEF_AdvancedAnimalImplantsTable.label>
+  <VEF_AdvancedAnimalImplantsTable.description>대상에게서 특정 능력을 추출하여 다른 동물에 이식할 수 있습니다. 원거리 공격을 하는 동물의 능력 또한 다른 동물에게 이식될 수 있습니다.</VEF_AdvancedAnimalImplantsTable.description>
   <AA_ProstheticTentacle.label>간단한 촉수 보철물</AA_ProstheticTentacle.label>
   <AA_ProstheticTentacle.description>거의 모든 유형의 촉수를 대체할 수 있는 간단한 촉수 보철물입니다.</AA_ProstheticTentacle.description>
   <AA_BionicTentacle.label>생체공학 촉수</AA_BionicTentacle.label>
   <AA_BionicTentacle.description>모든 유형의 촉수를 대체할 수 있는 개선된 생체공학 보철 기관입니다.</AA_BionicTentacle.description>
+  <AA_ProstheticBeak.label>간단한 부리</AA_ProstheticBeak.label>
+  <AA_ProstheticBeak.description>거의 모든 유형의 부리를 대체할 수 있는 간단한 부리 보철물입니다.</AA_ProstheticBeak.description>
+  <AA_BionicBeak.label>생체공학 부리</AA_BionicBeak.label>
+  <AA_BionicBeak.description>모든 유형의 부리를 대체할 수 있는 개선된 생체공학 보철 기관입니다.</AA_BionicBeak.description>
   <AA_BionicMotionDetector.label>생체공학 시각 센서</AA_BionicMotionDetector.label>
   <AA_BionicMotionDetector.description>동물을 위한 생체공학 동작 감지기입니다. 개선된 초음파 위치 측정 기관과 진동 센서로 구성되어 있습니다.</AA_BionicMotionDetector.description>
   <AA_ProstheticBuoyancyMechanism.label>간단한 부력 보조물</AA_ProstheticBuoyancyMechanism.label>
@@ -1013,6 +1039,26 @@
   <AB_BionicClaw.description>동물에게 적합한 개선된 생체공학 발톱 보철물입니다.</AB_BionicClaw.description>
   <AA_GooAcidifier.label>찐득한 산화제</AA_GooAcidifier.label>
   <AA_GooAcidifier.description>액체괴물의 내부 장기 산도를 증가시켜, 행동불능 즉시 폭발하게 합니다. 이 기관을 설치한 액체괴물은 생물학적 자살 폭탄 테러에 활용됩니다.</AA_GooAcidifier.description>
+  <AA_RangedSpinneretImplant.label>원거리 스피너렛 이식물</AA_RangedSpinneretImplant.label>
+  <AA_RangedSpinneretImplant.description>원거리 스피너렛 보조장치입니다. 이 장치를 활용하면 생물이 원거리에서 강력한 거미줄 공격을 사용할 수 있게 됩니다.
+
+이미 원거리에서 거미줄을 투발할 수 있는 생물은 이 보조장치를 설치해도 효과가 없습니다.</AA_RangedSpinneretImplant.description>
+  <AA_VenomousSpitterImplant.label>맹독 발사기관 이식물</AA_VenomousSpitterImplant.label>
+  <AA_VenomousSpitterImplant.description>맹독 발사기관 보조장치입니다. 이 이식물을 사용하면 생물이 원거리에서 맹독성 타액을 흩뿌릴 수 있게 됩니다.
+
+이미 맹독 발사기관이 있는 생물에 설치한 경우 아무런 효과가 없습니다. 이 이식물은 구강구조가 있는 동물만 활용 가능합니다.</AA_VenomousSpitterImplant.description>
+  <AA_AcidicSpitterImplant.label>산성 타액 이식물</AA_AcidicSpitterImplant.label>
+  <AA_AcidicSpitterImplant.description>산성 타액 보조장치입니다. 이 이식물을 통하여 공격 대상에게 원거리에서 산성 타액을 쏘아 지속적인 손상을 가할 수 있습니다.
+
+이미 산성타액을 쏘아낼 수 있는 생물에게 부착할 시 아무런 효과가 없습니다. 이 이식물은 구강구조가 있는 동물만 활용 가능합니다.</AA_AcidicSpitterImplant.description>
+  <AA_BarbedQuillThrowerImplant.label>깃털칼날 투척기 이식물</AA_BarbedQuillThrowerImplant.label>
+  <AA_BarbedQuillThrowerImplant.description>깃털칼날 투척 보조장치입니다. 이 장치를 활용하면 생물이 원거리에서 독성 깃털 투사체를 사용할 수 있게 됩니다.
+
+이미 깃털칼날을 쏘아낼 수 있는 생물은 이 보조장치를 설치해도 효과가 없습니다.</AA_BarbedQuillThrowerImplant.description>
+  <AA_QuadTeslaCannonImplant.label>쿼드 테슬라 캐논 이식물</AA_QuadTeslaCannonImplant.label>
+  <AA_QuadTeslaCannonImplant.description>쿼드 테슬라 캐논 보조장치입니다. 이 장치를 활용하면 생물이 원거리에서 강력한 플라즈마 공격을 사용할 수 있게 됩니다.
+
+이미 원거리에서 쿼드 테슬라 캐논을 사용할 수 있는 생물은 이 보조장치를 설치해도 효과가 없습니다.</AA_QuadTeslaCannonImplant.description>
   <AA_ColossalNautiloidRace.label>고대 오징어</AA_ColossalNautiloidRace.label>
   <AA_ColossalNautiloidRace.description>고대 오징어는 나선형 껍질의 거대한 두족류로, 강력한 심해의 포식자이며 주로 심해어나 고래 등을 섭취합니다. 고대 오징어의 알은 매우 값비싼 사치품 중 하나로, 지나간 경로의 수면에 떠다니는 것을 볼 수 있고, 이 알들 중 하나가 부화하면 길들일 수 있습니다. 어린 고대 오징어는 많은 양의 천과 나무를 활용하여 강력한 생체 선박을 건조하는 토대로서 사용할 수 있으며 성체가 되기전에 작업이 시작되면 고통스럽지 않습니다.
 

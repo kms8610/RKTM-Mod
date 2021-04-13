@@ -66,14 +66,6 @@
   <MakeRefinedNutrientPasteBulk.description>유기물로부터 영양분을 추출하여 고도로 가공된 영양죽 10인분을 만듭니다. 일반 영양죽보다 두 배의 제작시간이 걸리지만 더 이상 성분을 인식할 수 없습니다.</MakeRefinedNutrientPasteBulk.description>
   <MakeRefinedNutrientPasteBulk.jobString>영양죽 일괄 가공 중.</MakeRefinedNutrientPasteBulk.jobString>
 
-  <!--1584460699_190815_Craftable Synthetics-->
-  <CreateSynthread.label>합성원단 제작</CreateSynthread.label>
-  <CreateSynthread.description>악마가닥, 천 및 강철로 합성원단을 만듭니다.</CreateSynthread.description>
-  <CreateSynthread.jobString>합성원단 만드는 중</CreateSynthread.jobString>
-  <CreateHyperweave.label>초경조직 제작</CreateHyperweave.label>
-  <CreateHyperweave.description>합성원단과 플라스틸로 초경조직을 만듭니다.</CreateHyperweave.description>
-  <CreateHyperweave.jobString>초경조직 만드는 중</CreateHyperweave.jobString>
-
   <!--1589401542_190816_Fire Extinguisher-->
   <Make_FireFoam_Belt.label>소화 거품 벨트 제작</Make_FireFoam_Belt.label>
   <Make_FireFoam_Belt.description>소화 거품 벨트를 제작합니다.</Make_FireFoam_Belt.description>

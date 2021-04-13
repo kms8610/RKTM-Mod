@@ -121,4 +121,95 @@
   <allowMime>마임 방랑자 합류 이벤트 허용</allowMime>
   <allowFungalHusk>껍질곰팡이 습격 허용</allowFungalHusk>
   <AA_DisableAnimal>{0} 비활성</AA_DisableAnimal>
+  <AA_PrimaryRole>주요 임무</AA_PrimaryRole>
+  <AA_SecondaryRole>보조 임무</AA_SecondaryRole>
+  <AA_RangedAttacks>원거리 공격 실시</AA_RangedAttacks>
+  <AA_Yes>예</AA_Yes>
+  <AA_No>아니오</AA_No>
+  <AA_NoRanged>이 동물은 원거리 공격 수단이 없습니다. 공격 및 방어술에 대한 훈련을 받은 후 소집시 정착민을 따르도록 설정하여, 지정된 정착민의 명령 모음에 있는 버튼을 누르면 근거리 공격을 시도합니다.</AA_NoRanged>
+  <AA_Ranged>이 동물은 원거리 공격이 가능하며, 적이 근거리 공격 범위에 들어온 경우에만 근거리 공격을 사용합니다. 공격 및 방어술에 대한 훈련을 받은 후 소집시 정착민을 따르도록 설정하여, 지정된 정착민의 명령 모음에 있는 버튼을 누르면 적절한 엄폐물을 찾은 뒤 원거리 공격을 시도합니다.</AA_Ranged>
+  <AA_Tank>탱크</AA_Tank>
+  <AA_Artillery>야포</AA_Artillery>
+  <AA_ShockTroop>돌격대</AA_ShockTroop>
+  <AA_DOTShockTroop>DOT 돌격대</AA_DOTShockTroop>
+  <AA_ParalyzingShockTroop>진압 돌격대</AA_ParalyzingShockTroop>
+  <AA_InfectiousShockTroop>감염 돌격대</AA_InfectiousShockTroop>
+  <AA_PoisonShockTroop>맹독 돌격대</AA_PoisonShockTroop>
+  <AA_FireyShockTroop>화염 돌격대</AA_FireyShockTroop>
+  <AA_EMPShockTroop>EMP 돌격대</AA_EMPShockTroop>
+  <AA_RegeneratingShockTroop>재생 돌격대</AA_RegeneratingShockTroop>
+  <AA_AntiInsectoidShockTroop>대곤충 돌격대</AA_AntiInsectoidShockTroop>
+  <AA_ParalizingRanged>진압 지원대</AA_ParalizingRanged>
+  <AA_DamageRanged>지원대</AA_DamageRanged>
+  <AA_DamageRangedPoison>맹독 지원대</AA_DamageRangedPoison>
+  <AA_DamageRangedFire>화염 지원대</AA_DamageRangedFire>
+  <AA_DamageRangedDOT>DOT 지원대</AA_DamageRangedDOT>
+  <AA_Farm>가축</AA_Farm>
+  <AA_MountFast>빠른 탑승물</AA_MountFast>
+  <AA_MountArmoured>기갑 탑승물</AA_MountArmoured>
+  <AA_MountFastArmoured>빠른 기갑 탑승물</AA_MountFastArmoured>
+  <AA_Utility>효율</AA_Utility>
+  <AA_Boomer>척탄병</AA_Boomer>
+  <AA_Larva>유충</AA_Larva>
+  <AA_PackAnimal>상단 가축</AA_PackAnimal>
+  <AA_Pest>해충</AA_Pest>
+  <AA_ArtilleryDesc>이 동물은 매우 위협적인 폭발성 원거리 공격을 합니다.</AA_ArtilleryDesc>
+  <AA_VenomousTankDesc>"탱크"라 불리는 이 동물은 근접전투에 특화되어있습니다. 강력한 체력과 피해저항 등의 특징으로 인해 최전선에서 활약하고 생환할 수 있습니다.
+
+이 개체는 특이하게도 맹독을 가지고 있습니다.</AA_VenomousTankDesc>
+  <AA_ArmouredTankDesc>"탱크"라 불리는 이 동물은 근접전투에 특화되어있습니다. 강력한 체력과 피해저항 등의 특징으로 인해 최전선에서 활약하고 생환할 수 있습니다.</AA_ArmouredTankDesc>
+  <AA_ShockTroopDesc>"돌격대"로 분류되는 동물들은 빠른 이동속도와 근거리 전투에 도움이 되는 몇몇 능력을 가지고 있는 전투요원입니다. 방어력이 매우 낮고, 체력이 적은편이지만 전략적 활용을 통해 파괴적인 공작이 가능합니다.</AA_ShockTroopDesc>
+  <AA_EMPShockTroopDesc>"돌격대"로 분류되는 동물들은 빠른 이동속도와 근거리 전투에 도움이 되는 몇몇 능력을 가지고 있는 전투요원입니다. 방어력이 매우 낮고, 체력이 적은편이지만 전략적 활용을 통해 파괴적인 공작이 가능합니다.
+
+이 개체들은 EMP공격을 통해 메카노이드와 같은 기계류 대상에게 추가 피해를 줍니다.</AA_EMPShockTroopDesc>
+  <AA_RegeneratingShockTroopDesc>"돌격대"로 분류되는 동물들은 빠른 이동속도와 근거리 전투에 도움이 되는 몇몇 능력을 가지고 있는 전투요원입니다. 방어력이 매우 낮고, 체력이 적은편이지만 전략적 활용을 통해 파괴적인 공작이 가능합니다.
+
+이 개체들은 압도적인 회복력을 바탕으로, 더욱 오랫동안 전방에서 버틸 수 있습니다.</AA_RegeneratingShockTroopDesc>
+  <AA_ShockTroopDOTDesc>"돌격대"로 분류되는 동물들은 빠른 이동속도와 근거리 전투에 도움이 되는 몇몇 능력을 가지고 있는 전투요원입니다. 방어력이 매우 낮고, 체력이 적은편이지만 전략적 활용을 통해 파괴적인 공작이 가능합니다.
+
+이 개체들은 지속적인 피해를 입히는 근접공격능력을 가지고 있습니다.</AA_ShockTroopDOTDesc>
+  <AA_PoisonShockTroopDesc>"돌격대"로 분류되는 동물들은 빠른 이동속도와 근거리 전투에 도움이 되는 몇몇 능력을 가지고 있는 전투요원입니다. 방어력이 매우 낮고, 체력이 적은편이지만 전략적 활용을 통해 파괴적인 공작이 가능합니다.
+
+이 개체들은 독성 공격을 통해 중독수치를 관리하기 어렵게 합니다.</AA_PoisonShockTroopDesc>
+  <AA_ParalyzingShockTroopDesc>"돌격대"로 분류되는 동물들은 빠른 이동속도와 근거리 전투에 도움이 되는 몇몇 능력을 가지고 있는 전투요원입니다. 방어력이 매우 낮고, 체력이 적은편이지만 전략적 활용을 통해 파괴적인 공작이 가능합니다.
+
+이 개체들은 대상을 움직이지 못하도록 하는 마비능력을 가지고 있습니다.</AA_ParalyzingShockTroopDesc>
+  <AA_FireyShockTroopDesc>"돌격대"로 분류되는 동물들은 빠른 이동속도와 근거리 전투에 도움이 되는 몇몇 능력을 가지고 있는 전투요원입니다. 방어력이 매우 낮고, 체력이 적은편이지만 전략적 활용을 통해 파괴적인 공작이 가능합니다.
+
+이 개체들은 근접공격 대상에게 불을 붙입니다.</AA_FireyShockTroopDesc>
+  <AA_InfectiousShockTroopDesc>"돌격대"로 분류되는 동물들은 빠른 이동속도와 근거리 전투에 도움이 되는 몇몇 능력을 가지고 있는 전투요원입니다. 방어력이 매우 낮고, 체력이 적은편이지만 전략적 활용을 통해 파괴적인 공작이 가능합니다.
+
+이 개체들은 감염을 일으키는 공격을 통해 대상의 지속 전투력을 감소시킵니다.</AA_InfectiousShockTroopDesc>
+  <AA_AntiInsectoidShockTroopDesc>"돌격대"로 분류되는 동물들은 빠른 이동속도와 근거리 전투에 도움이 되는 몇몇 능력을 가지고 있는 전투요원입니다. 방어력이 매우 낮고, 체력이 적은편이지만 전략적 활용을 통해 파괴적인 공작이 가능합니다.
+
+이 개체들은 날카로운 칼날로 곤충들에게 더 큰 피해를 입힙니다.</AA_AntiInsectoidShockTroopDesc>
+  <AA_DamageRangedDesc>이 동물은 원거리 공격을 합니다. 근접전에는 적합하지 않습니다.</AA_DamageRangedDesc>
+  <AA_ParalyzingRangedDesc>이 동물은 마비성 원거리 공격을 통해 대상을 움직이지 못하도록 합니다. 근접전에는 적합하지 않습니다.</AA_ParalyzingRangedDesc>
+  <AA_DamageRangedFireDesc>이 동물은 발화성 원거리 공격을 합니다. 근접전에는 적합하지 않습니다.</AA_DamageRangedFireDesc>
+  <AA_DamageRangedDOTDesc>이 동물은 지속적인 피해를 가하는 원거리 공격을 합니다. 근접전에는 적합하지 않습니다.</AA_DamageRangedDOTDesc>
+  <AA_DamageRangedPoisonDesc>이 동물은 독성 원거리 공격을 합니다. 근접전에는 적합하지 않습니다.</AA_DamageRangedPoisonDesc>
+  <AA_FarmMilkDesc>우유를 생산하는 가축입니다.</AA_FarmMilkDesc>
+  <AA_FarmFoodDesc>식량을 생산하는 가축입니다.</AA_FarmFoodDesc>
+  <AA_FarmWoolDesc>양털과 직물을 생산하는 가축입니다.</AA_FarmWoolDesc>
+  <AA_FarmChemfuelDesc>화학연료를 생산하는 가축입니다.</AA_FarmChemfuelDesc>
+  <AA_FarmWoolAndMilkDesc>양털, 직물, 우유를 생산하는 가축입니다.</AA_FarmWoolAndMilkDesc>
+  <AA_FarmBuildingAndMilkDesc>건설재료와 우유를 생산하는 가축입니다.</AA_FarmBuildingAndMilkDesc>
+  <AA_FarmBuildingDesc>건설을 위한 재료를 생산하는 가축입니다.</AA_FarmBuildingDesc>
+  <AA_FarmMedicineDesc>의약품을 생산하기 위한 가축입니다.</AA_FarmMedicineDesc>
+  <AA_FarmDrugsDesc>약물을 생산하기 위한 가축입니다.</AA_FarmDrugsDesc>
+  <AA_FarmImplantsDesc>이식물을 생산하기 위한 가축입니다.</AA_FarmImplantsDesc>
+  <AA_MountFastDesc>탑승상태로 정착민이 근접공격을 할 수 있게 되며, 기동성이 증가되는 탑승용 가축입니다. 물론 이는 Giddy Up! 모드를 설치한 경우에만 활용 가능합니다. 모드가 없다구요? 얼른 가서 구독하세요!</AA_MountFastDesc>
+  <AA_MountArmouredDesc>탑승상태로 정착민이 근접공격을 할 수 있게 되며, 탑승자에게 엄폐를 제공하는 가축입니다. 물론 이는 Giddy Up! 모드를 설치한 경우에만 활용 가능합니다. 모드가 없다구요? 얼른 가서 구독하세요!</AA_MountArmouredDesc>
+  <AA_MountFastArmouredDesc>탑승상태로 정착민이 근접공격을 할 수 있게 되며, 기동성이 증가하고 엄폐를 제공하는 탑승용 가축입니다. 물론 이는 Giddy Up! 모드를 설치한 경우에만 활용 가능합니다. 모드가 없다구요? 얼른 가서 구독하세요!</AA_MountFastArmouredDesc>
+  <AA_UtilityMoodDesc>신체능력이 유약하여 전투에는 활용되기 힘들지만, 정착민들이 기분좋은 하루를 보낼 수 있도록 도움을 주는 가축입니다.</AA_UtilityMoodDesc>
+  <AA_UtilityWorkerDesc>신체능력이 유약하여 전투에는 활용되기 힘들지만, 광물채집, 원예, 청소 등 정착민의 일을 일부 대신하여 수행 할 수 있는 생물입니다.</AA_UtilityWorkerDesc>
+  <AA_UtilityHealthDesc>신체능력이 유약하여 전투에는 활용되기 힘들지만, 상처를 치료하고 신비로운 힘으로 정착민들을 튼튼하게 만드는 가축입니다.</AA_UtilityHealthDesc>
+  <AA_UtilityTemperatureDesc>신체능력이 유약하여 전투에는 활용되기 힘들지만, 정착지의 온도를 생활하기 적합하게 조절하는 가축입니다.</AA_UtilityTemperatureDesc>
+  <AA_UtilityPowerDesc>신체능력이 유약하여 전투에는 활용되기 힘들지만, 발전기의 건설재료를 생산하는 가축입니다.</AA_UtilityPowerDesc>
+  <AA_UtilityRecycling>신체능력이 유약하여 전투에는 활용되기 힘들지만, 직물을 섭취하고 사용하지 않는 물건을 먹어치워 정착지의 가치를 조절해줍니다.</AA_UtilityRecycling>
+  <AA_UtilityRechargerDesc>신체능력이 유약하여 전투에는 활용되기 힘들지만, 주변의 축전지에 전류를 공급하여 서서히 충전하는 가축입니다.</AA_UtilityRechargerDesc>
+  <AA_BoomerDesc>이 가축은 사망시 폭발합니다.</AA_BoomerDesc>
+  <AA_LarvaDesc>이 가축은 아직 유충이므로 전투에 적합하지 않습니다. 성체가 되도록 가축을 보호하는 것이 권장됩니다.</AA_LarvaDesc>
+  <AA_PackAnimalDesc>상단의 짐을 옮기기에 적합한 가축입니다.</AA_PackAnimalDesc>
+  <AA_PestDesc>이 가축은 해충으로 간주되며 정착지에 전혀 유용하지 않습니다. 그래도 어떻게는 활용할 수 있는 방안을 찾아보세요!</AA_PestDesc>
 </LanguageData>
