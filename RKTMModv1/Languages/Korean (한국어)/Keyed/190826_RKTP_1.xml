@@ -965,115 +965,6 @@
   <DesignatorNoFireFightingExpand>비-소방구역 확대</DesignatorNoFireFightingExpand>
   <DesignatorNoFireFightingClearDesc>소방활동을 하지않는 구역을 제거합니다.</DesignatorNoFireFightingClearDesc>
 
-  <!--1499843448_181112_Pawn Rules - Food policies and more-->
-  <PawnRules.Button.RemoveModAndAddonsComplete>이 모드나 다른 애드온 모드의 내용물이 없는 '{0}'이라고 하는 저장이 만들어졌습니다.:\n\n{1}\n\n게임이 다시 시작됩니다.</PawnRules.Button.RemoveModAndAddonsComplete>
-  <PawnRules.Button.RemoveModComplete>이 모드의 내용물을 포함하지 않는 '{0}'이라는 저장이 생성되었습니다.\n\n게임이 다시 시작됩니다.</PawnRules.Button.RemoveModComplete>
-  <PawnRules.Dialog_Plans.ImportDesc>이 계획의 설정 및 기본값은 모두 이 게임으로 가져옵니다.\n가져온 것과 이름이 같은 현재 설정은 덮어씁니다.</PawnRules.Dialog_Plans.ImportDesc>
-  <PawnRules.Dialog_Plans.ExportDesc>모든 규칙 설정 및 기본값은 단일 전원 관리로 컴퓨터에 저장되며 다른 게임으로 가져올 수 있습니다.</PawnRules.Dialog_Plans.ExportDesc>
-  <PawnRules.Button.RestrictionsAllowOn>모두 허용</PawnRules.Button.RestrictionsAllowOn>
-  <PawnRules.Dialog_Global.AllowEmergencyFood>영양실조 시 모든 식품 허용</PawnRules.Dialog_Global.AllowEmergencyFood>
-  <PawnRules.Dialog_Global.AllowTrainingFood>훈련 시 모든 식품 허용</PawnRules.Dialog_Global.AllowTrainingFood>
-  <PawnRules.Rules.AllowArtisan>장인 허용</PawnRules.Rules.AllowArtisan>
-  <PawnRules.Rules.AllowCourting>구애 허용</PawnRules.Rules.AllowCourting>
-  <PawnRules.Dialog_Global.AllowDrugsRestriction>마약 제한 허용</PawnRules.Dialog_Global.AllowDrugsRestriction>
-  <PawnRules.PawnType.Animal>동물</PawnRules.PawnType.Animal>
-  <PawnRules.RestrictionType.BondingCategorization>동물</PawnRules.RestrictionType.BondingCategorization>
-  <PawnRules.PawnType.AnimalPlural>동물</PawnRules.PawnType.AnimalPlural>
-  <PawnRules.Dialog_Rules.AssignAllConfirm>{0} {1} 다른 {2}(을)를 원하십니까?</PawnRules.Dialog_Rules.AssignAllConfirm>
-  <PawnRules.Dialog_Rules.AssignSpecificConfirm>{0} {1}(으)로 하시겠습니까?</PawnRules.Dialog_Rules.AssignSpecificConfirm>
-  <PawnRules.Dialog_Rules.AssignDefaultConfirm>새 {0}에 대한 기본 규칙을 미리 설정된 {1}(으)로 변경하시겠습니까?</PawnRules.Dialog_Rules.AssignDefaultConfirm>
-  <PawnRules.Dialog_Plans.ConfirmDelete>계획 '{0}'(을)를 삭제하시겠습니까?</PawnRules.Dialog_Plans.ConfirmDelete>
-  <PawnRules.Button.PresetDeleteConfirm>[{0}] 규칙을 삭제하시겠습니까?\n\n이 규칙을 사용하는 모든 문자에 영향을 줍니다.</PawnRules.Button.PresetDeleteConfirm>
-  <PawnRules.Dialog_Rules.AssignSpecificName>설정된 {0}(을)를 에 할당</PawnRules.Dialog_Rules.AssignSpecificName>
-  <PawnRules.Dialog_Rules.AssignPersonalizedName>개별 규칙을 할당</PawnRules.Dialog_Rules.AssignPersonalizedName>
-  <PawnRules.Button.AssignTo>...에게 할당</PawnRules.Button.AssignTo>
-  <PawnRules.Dialog_Rules.AssignSpecific>{0}에 할당</PawnRules.Dialog_Rules.AssignSpecific>
-  <PawnRules.Dialog_Rules.AssignAll>모든 {0}에 할당</PawnRules.Dialog_Rules.AssignAll>
-  <PawnRules.RestrictionType.BondingPlural>유대 정책</PawnRules.RestrictionType.BondingPlural>
-  <PawnRules.RestrictionType.Bonding>유대 정책</PawnRules.RestrictionType.Bonding>
-  <PawnRules.Rules.BondingRestrictions>유대 정책: {0}</PawnRules.Rules.BondingRestrictions>
-  <PawnRules.Button.Cancel>취소</PawnRules.Button.Cancel>
-  <PawnRules.Button.PresetRevertDesc>규칙 변경을 취소합니다.</PawnRules.Button.PresetRevertDesc>
-  <PawnRules.Button.PresetRenameDesc>이 규칙의 이름을 변경합니다.</PawnRules.Button.PresetRenameDesc>
-  <PawnRules.Button.PresetClear>초기화</PawnRules.Button.PresetClear>
-  <PawnRules.Dialog_Rules.AssignVoidName>규칙 초기화</PawnRules.Dialog_Rules.AssignVoidName>
-  <PawnRules.Button.AssignToDesc>이 설정을 다른 정착민에게 할당하려면 클릭하세요.</PawnRules.Button.AssignToDesc>
-  <PawnRules.Rules.BondingRestrictionsDesc>어떤 동물과 유대할지 선택하려면 클릭하세요.</PawnRules.Rules.BondingRestrictionsDesc>
-  <PawnRules.Rules.FoodRestrictionsDesc>먹을 수 있는 음식을 선택하려면 클릭하세요..</PawnRules.Rules.FoodRestrictionsDesc>
-  <PawnRules.Button.GlobalOptionsDesc>클릭해서 글로벌 옵션 창을 엽니다.</PawnRules.Button.GlobalOptionsDesc>
-  <PawnRules.Button.ViewTypeDesc>다른 유형의 규칙을 보려면 클릭하십시오.</PawnRules.Button.ViewTypeDesc>
-  <PawnRules.PawnType.Colonist>정착민</PawnRules.PawnType.Colonist>
-  <PawnRules.PawnType.ColonistPlural>정착민</PawnRules.PawnType.ColonistPlural>
-  <PawnRules.Button.PresetSaveDesc>이 규칙의 변경 사항을 제장합니다..</PawnRules.Button.PresetSaveDesc>
-  <PawnRules.AnimalCategory.Pet>일반 애완동물</PawnRules.AnimalCategory.Pet>
-  <PawnRules.Dialog_Rules.Configuration>환경설정</PawnRules.Dialog_Rules.Configuration>
-  <PawnRules.Rules.NotArtisanJob>건설 {0}</PawnRules.Rules.NotArtisanJob>
-  <PawnRules.Button.PresetNewDesc>새로운 규칙 만들기.</PawnRules.Button.PresetNewDesc>
-  <PawnRules.Button.PresetSaveAsDesc>현재 표시된 규칙으로 설정을 만듭니다.</PawnRules.Button.PresetSaveAsDesc>
-  <PawnRules.Dialog_Rules.DefaultType>{0} 기본 규칙</PawnRules.Dialog_Rules.DefaultType>
-  <PawnRules.Dialog_Rules.TitleDefault>{0}의 기본 규칙</PawnRules.Dialog_Rules.TitleDefault>
-  <PawnRules.Button.PresetDelete>삭제</PawnRules.Button.PresetDelete>
-  <PawnRules.Dialog_Plans.Delete>선택된 것 삭제</PawnRules.Dialog_Plans.Delete>
-  <PawnRules.Button.RestrictionsAllowOff>모두 비허용</PawnRules.Button.RestrictionsAllowOff>
-  <PawnRules.Button.PresetEdit>수정</PawnRules.Button.PresetEdit>
-  <PawnRules.Gizmo.EditRulesDesc>{0}에 대한 규칙 편집.</PawnRules.Gizmo.EditRulesDesc>
-  <PawnRules.Dialog_Plans.Export>현재 계획 내보내기</PawnRules.Dialog_Plans.Export>
-  <PawnRules.AnimalCategory.Farm>경작용 동물</PawnRules.AnimalCategory.Farm>
-  <PawnRules.RestrictionType.FoodPlural>음식 정책</PawnRules.RestrictionType.FoodPlural>
-  <PawnRules.RestrictionType.Food>음식 정책</PawnRules.RestrictionType.Food>
-  <PawnRules.Rules.FoodRestrictions>음식 정책: {0}</PawnRules.Rules.FoodRestrictions>
-  <PawnRules.Dialog_Global.Title>글로벌 옵션</PawnRules.Dialog_Global.Title>
-  <PawnRules.PawnType.Guest>방문객</PawnRules.PawnType.Guest>
-  <PawnRules.PawnType.GuestPlural>방문객</PawnRules.PawnType.GuestPlural>
-  <PawnRules.AnimalCategory.Herd>사육용 동물</PawnRules.AnimalCategory.Herd>
-  <PawnRules.Rules.AllowCourtingDesc>만약 퇴짜맞게되면, 새로운 연인이나 배우자를 얻을 수 없을 것입니다.</PawnRules.Rules.AllowCourtingDesc>
-  <PawnRules.Rules.AllowArtisanDesc>토글을 끄면 품질 변경이 있는 건설물을 건설하지 않습니다.</PawnRules.Rules.AllowArtisanDesc>
-  <PawnRules.Dialog_Plans.Import>선택된 것 가져오기</PawnRules.Dialog_Plans.Import>
-  <PawnRules.Dialog_Global.Plans>계획 가져오기/내보내기</PawnRules.Dialog_Global.Plans>
-  <PawnRules.Dialog_Plans.Title>계획 가져오기/내보내기</PawnRules.Dialog_Plans.Title>
-  <PawnRules.PawnType.Individual>각각</PawnRules.PawnType.Individual>
-  <PawnRules.RestrictionType.FoodCategorization>식용</PawnRules.RestrictionType.FoodCategorization>
-  <PawnRules.AnimalCategory.Insect>곤충</PawnRules.AnimalCategory.Insect>
-  <PawnRules.Button.PresetEditDesc>현재 선택한 규칙 수정</PawnRules.Button.PresetEditDesc>
-  <PawnRules.Button.PresetNew>새로운 규칙</PawnRules.Button.PresetNew>
-  <PawnRules.Button.No>아니오</PawnRules.Button.No>
-  <PawnRules.Dialog_Plans.NoneFound>불러올 수 있는 저장된 계획이 없습니다.</PawnRules.Dialog_Plans.NoneFound>
-  <PawnRules.Rules.NotArtisanReason>장인 건축이 허용되지 않음</PawnRules.Rules.NotArtisanReason>
-  <PawnRules.Button.OK>확인</PawnRules.Button.OK>
-  <PawnRules.Button.GlobalOptions>옵션</PawnRules.Button.GlobalOptions>
-  <PawnRules.Dialog_Rules.HeaderOptions>옵션</PawnRules.Dialog_Rules.HeaderOptions>
-  <PawnRules.AnimalCategory.Other>기타</PawnRules.AnimalCategory.Other>
-  <PawnRules.Button.PresetDeleteDesc>이 규칙을 영구적으로 제거합니다..</PawnRules.Button.PresetDeleteDesc>
-  <PawnRules.PawnType.Person>인간</PawnRules.PawnType.Person>
-  <PawnRules.Preset.Personalized>자유</PawnRules.Preset.Personalized>
-  <PawnRules.PawnType.PersonPlural>인간</PawnRules.PawnType.PersonPlural>
-  <PawnRules.Dialog_Plans.LoadFail>{0}' 계획을 가져오지 못했습니다.</PawnRules.Dialog_Plans.LoadFail>
-  <PawnRules.Dialog_Plans.LoadSuccess>계획 '{0}'(을)를 성공적으로 가져왔습니다.</PawnRules.Dialog_Plans.LoadSuccess>
-  <PawnRules.PresetType.Restriction>정책</PawnRules.PresetType.Restriction>
-  <PawnRules.AnimalCategory.Predator>포식 동물</PawnRules.AnimalCategory.Predator>
-  <PawnRules.Preset.Header>설정</PawnRules.Preset.Header>
-  <PawnRules.PawnType.Prisoner>죄수</PawnRules.PawnType.Prisoner>
-  <PawnRules.PawnType.PrisonerPlural>죄수</PawnRules.PawnType.PrisonerPlural>
-  <PawnRules.Button.RemoveMod>모드 제거</PawnRules.Button.RemoveMod>
-  <PawnRules.Button.PresetRename>이름 바꾸기</PawnRules.Button.PresetRename>
-  <PawnRules.Button.PresetClearDesc>개인 규칙을 기본값으로 재설정합니다.</PawnRules.Button.PresetClearDesc>
-  <PawnRules.Button.PresetRevert>되돌리기</PawnRules.Button.PresetRevert>
-  <PawnRules.Gizmo.EditRulesLabel>규칙</PawnRules.Gizmo.EditRulesLabel>
-  <PawnRules.Dialog_Rules.Title>{0}, {1}의 규칙</PawnRules.Dialog_Rules.Title>
-  <PawnRules.PresetType.Rules>규칙 설정</PawnRules.PresetType.Rules>
-  <PawnRules.Button.PresetSave>저장</PawnRules.Button.PresetSave>
-  <PawnRules.Button.PresetSaveAs>다른 이름 저장</PawnRules.Button.PresetSaveAs>
-  <PawnRules.Button.PresetSaveConfirm>이 규칙에 대한 변경 내용을 저장하시겠습니까?</PawnRules.Button.PresetSaveConfirm>
-  <PawnRules.Dialog_Rules.AssignDefault>새로운 {0}의 기본값으로 설정</PawnRules.Dialog_Rules.AssignDefault>
-  <PawnRules.Dialog_Global.ShowRule>{0} 보기</PawnRules.Dialog_Global.ShowRule>
-  <PawnRules.Button.ViewTypeDefault>{0}의 기본 규칙 보기</PawnRules.Button.ViewTypeDefault>
-  <PawnRules.Button.ViewType>{0}의 규칙 보기</PawnRules.Button.ViewType>
-  <PawnRules.Dialog_Plans.DeleteDesc>선택한 계획이 영구적으로 삭제됩니다. 실행 취소할 수 없습니다.</PawnRules.Dialog_Plans.DeleteDesc>
-  <PawnRules.Button.RemoveModConfirm>현재 게임의 모든 문자에서 모든 규칙이 제거되고 모드가 비활성화됩니다.\n\n계속 이 작업을 수행하시겠습니까?</PawnRules.Button.RemoveModConfirm>
-  <PawnRules.Button.RemoveModDesc>현재 게임의 모든 문자에서 모든 규칙이 제거되고 모드가 비활성화됩니다.\n\n이렇게 하면 이 모드 없이 이 게임을 다시 로드할 때 오류가 표시되지 않습니다.</PawnRules.Button.RemoveModDesc>
-  <PawnRules.Preset.None>제한없음</PawnRules.Preset.None>
-  <PawnRules.Button.Yes>예</PawnRules.Button.Yes>
-
   <!--1507367510_190622_Scar Removal-->
   <SyrScarRemovalSuccessfullyHealed>{0}(이)가 {1}의 {2}({3})(을)를 제거했습니다.</SyrScarRemovalSuccessfullyHealed>
   <ScarRemovalSettingsHardMode>하드모드 사용</ScarRemovalSettingsHardMode>
@@ -1762,11 +1653,6 @@
   <Planets.MessageLowPlanetCoverageWarning>경고: 매우 작은 플레이 영역 설정 시, 게임이 생성하려 하는 모든 세력 정착지를 위한 충분한 땅이 없을 수 있습니다.</Planets.MessageLowPlanetCoverageWarning>
   <Planets.OceanType_Waterworld>큼</Planets.OceanType_Waterworld>
   <Planets.WorldPresets>행성 유형</Planets.WorldPresets>
-
-  <!--1573233249_190616_Desynchronized: Tales and News (v1.6.2)-->
-  <NewsUIAutoPause_title>소식 UI 게임 자동멈춤</NewsUIAutoPause_title>
-  <NewsUIAutoPause_descr>활성화된 경우 이 모드의 세부 UI를 열면 게임이 자동으로 일시 중지됩니다. 그 효과는 무역 인터페이스를 여는 것과 유사합니다.\n\n기본은 적용입니다.</NewsUIAutoPause_descr>
-  <PawnKidnapped>{PAWN_labelShort}(이)가 {1}의 {2}에 의해 납치됨.</PawnKidnapped>
 
   <!--1628211313_190722_Dual Wield-->
   <DW_Setting_DualWield_OK>쌍수 가능</DW_Setting_DualWield_OK>

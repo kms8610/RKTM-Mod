@@ -35,7 +35,7 @@
   <PRF_CoreTierO.label>시계장치 원리</PRF_CoreTierO.label>
   <PRF_CoreTierO.description>초기 산업화에서는 보다 발전된 자원 수집 방법을 설정하고 이를 보다 유용한 것으로 처리하는 방법을 설명합니다. 쓰레기, 원자재, 또는 고철이 한쪽으로 들어가고 다른 쪽으로 유용한 제품들이 나옵니다.\n기계장치와 투입구는 나무와 석탄으로 작동합니다.</PRF_CoreTierO.description>
   <PRF_CoreTierO.discoveredLetterTitle>초기 자동화 허?</PRF_CoreTierO.discoveredLetterTitle>
-  <PRF_CoreTierO.discoveredLetterText>림팩토리 베타에 오신 걸 환영합니다!\n\n우리는 나무와 석탄을 연료로 하는 제련소에서 시작하여 AI가 제어하는 자체 개선 조립기를 통해 발전하는 자동화로 여러분을 초대합니다.\n\n일반 용도: 기계에서 사용할 수 있도록 흰색 지정 입력 영역에 재료를 보관합니다. 약간의 작업 후 기계가 완료된 제품을 노란색 출력 타일 위에 놓습니다.\n\n가장 오래된 것으로 알려진 시계 기계는 안티키테라 메커니즘으로, 1901년 BC50의 그리스 난파선에서 발견되었습니다. 일련의 30개의 기어가 일식과 다른 천문학적 현상뿐만 아니라 세월의 경과를 예측하는 데 사용되었습니다. 1800년대 유럽에서는 첨단 시계 작업 메커니즘이 새로운 높이에 도달했으며, 오늘날에도 컴퓨터가 없는 자동화가 산업에 사용됩니다.\n\n코딩:spdskatr, Nobo, Abnerchen, Little White Mouse, Madara Uchiha, Sn1p3rr3c0n.\n텍스쳐: ShotgunFrenzy, Chicken Plucker, Xen, Scythe, totoBrother, "Unknown Alien", Argon, spdskatr, Thornsworth.\n테스터 Malkav, Extrien, Daemon976, AerosAtar, and the mandatory Steam volunteers.\n번역: Natsu_Zirok, 十里小飞, AbnerChen, Lucas559-noob\nThornsworth와 Nobo에게 감사를 더 이상 우리 곁에 없지만.\n생산성을 유지하세요.</PRF_CoreTierO.discoveredLetterText>
+  <PRF_CoreTierO.discoveredLetterText>림팩토리 베타에 오신 걸 환영합니다!\n\n우리는 나무와 석탄을 연료로 하는 제련소부터 AI가 제어하는 자체 개선 조립기까지; 발전하는 자동화로 여러분을 초대합니다.\n\n일반 용도: 기계에서 사용할 수 있도록 흰색 지정 입력 영역에 재료를 보관합니다. 약간의 작업 후 기계가 완료된 제품을 노란색 출력 타일 위에 놓습니다.\n\n가장 오래된 것으로 알려진 기계장치는 안티키테라 매커니즘으로, 1901년 인양된 기원전 50년경 그리스 난파선에서 발견되었습니다. 일련의 30개의 톱니바퀴가 일식과 다른 천문학적 현상뿐만 아니라 세월의 경과를 예측하는 데 사용되었습니다. 기계장치는 1800년대 유럽에서 새로운 정상에 도달해 더욱 진보했으며, 오늘날에도 컴퓨터가 없는 자동화 산업에 사용됩니다.\n\n코딩:spdskatr, Nobo, Abnerchen, Little White Mouse, Madara Uchiha, Sn1p3rr3c0n.\n텍스쳐: ShotgunFrenzy, Chicken Plucker, Xen, Scythe, totoBrother, "Unknown Alien", Argon, spdskatr, Thornsworth.\n테스터 Malkav, Extrien, Daemon976, AerosAtar, and the mandatory Steam volunteers.\n번역: Natsu_Zirok, 十里小飞, AbnerChen, Lucas559-noob\n우리의 곁을 떠난 Thornsworth와 Nobo에게도 감사를 전합니다.\n생산성과 함께 편히 쉬길.</PRF_CoreTierO.discoveredLetterText>
   <PRF_CoreTierI.label>오일러의 공식</PRF_CoreTierI.label>
   <PRF_CoreTierI.description>"π 는 파이, 원 둘레는 원형과 직경의 비율입니다." 산업화된 식민지로 가는 관문인 자동화의 기본과 메커니즘에 대해 배웁니다.\n 돌 깎기, 요리 등 간단한 전기 공정을 더욱 자동화하기 위해 필요한 수학적 모델을 개발합니다.</PRF_CoreTierI.description>
   <PRF_CoreTierI.discoveredLetterTitle>진정한 자동화 시작</PRF_CoreTierI.discoveredLetterTitle>
@@ -62,9 +62,9 @@
   <PRF_BeltsI.label>기본 컨베이어</PRF_BeltsI.label>
   <PRF_BeltsI.description>공장 내에서 물건을 운반하는 것은 위험하고 지루할 수 있으므로, 컨베이어 벨트가 알아서 처리하게 합니다.\n 잠금 해제: 벨트 및 연료 공급 장치.</PRF_BeltsI.description>
   <PRF_BeltsII.label>기초 물품 분류</PRF_BeltsII.label>
-  <PRF_BeltsII.description>공장 구역으로 물품을 직접 운반하여 공장 배치를 합리화하고 다양화합니다.\n 잠금 해제: 단순 배출기, 재배구역 배출기 및 일반 벨트를 위한 분배기</PRF_BeltsII.description>
+  <PRF_BeltsII.description>공장의 적절한 구역으로 물건을 보내면 공장 배치가 간소화되고 다양화됩니다.\n 잠금 해제: 단순 배출기, 재배구역 배출기 및 일반 벨트를 위한 분배기.</PRF_BeltsII.description>
   <PRF_BeltsIII.label>고급 물품 분류</PRF_BeltsIII.label>
-  <PRF_BeltsIII.description>보다 정교한 물류 구현을 통해 고급 항목 정렬이 가능합니다.\n 잠금 해제: 벽-, 지하 벨트 및 분배기. 스마트 호퍼, mkII, 각도- 및 벽 배출기. 고급 항목 관리를 위해 사용합니다.</PRF_BeltsIII.description>
+  <PRF_BeltsIII.description>정교한 물류 구현으로 고급 품목 분류가 가능합니다.\n 잠금 해제: 내벽과 지하 벨트, 분배기; 스마트 호퍼; MKII, 각도, 그리고 벽 배출기</PRF_BeltsIII.description>
   <PRF_AutomaticFarmingI.label>자동화 농업 기술</PRF_AutomaticFarmingI.label>
   <PRF_AutomaticFarmingI.description>농업용 드론은 농업 운영 최적화, 농작물 생산 증가, 작물 성장 감시 등을 돕기 위해 사용되는 무인 항공기입니다. 센서와 디지털 이미징 기능은 농부들에게 그들의 밭에 대한 더 풍부한 그림을 제공할 수 있게 되었습니다.</PRF_AutomaticFarmingI.description>
   <PRF_AutomaticFarmingII.label>향상된 농업 기술</PRF_AutomaticFarmingII.label>
@@ -86,7 +86,7 @@
   <PRF_AutonomousMining.label>회전식 드릴 I</PRF_AutonomousMining.label>
   <PRF_AutonomousMining.description>깊은 지하에서 무작위 광물과 암석을 추출할 수 있는 건물을 만듭니다. (곤충 군락의 원인이 될 수 있습니다)</PRF_AutonomousMining.description>
   <PRF_AutonomousMining.discoveredLetterTitle>정보: 조립기 소개</PRF_AutonomousMining.discoveredLetterTitle>
-  <PRF_AutonomousMining.discoveredLetterText>이제 Auger 드릴 I을 조사했습니다. 이를 통해 1 단계 자동 광산을 잠금 해제했습니다.\n 이 채굴기는 시간이 지남에 따라 임의의 물품을 채굴할 것이며, 바닐라 드릴과 같은 감염을 일으킬 수 있습니다.\n\n 2 단계 채굴기는 동일한 유형의 채굴기로서 더 빠른 속도로 고철 대신 강철을 채굴합니다.\n\n3 단계에는 2가지 유형의 채굴기가 있습니다. 1. 이전 2개와 같은 무작위 채굴기입니다. 임의의 희귀 광석을 채굴합니다.(돌 덩어리 없음)\n2번째는 원하는 유형의 광석을 정확하게 설정할 수 있는 새로운 유형의 채굴기입니다. 이 채굴기는 주로 원하는 광물만 채굴하지만, 돌 덩어리나 희귀 광석을 채굴할 수 있습니다.\n\n만약 비균형적적이거나 모든 광석을 캐고 싶다면 모드설정에서 설정을 켜면 됩니다.</PRF_AutonomousMining.discoveredLetterText>
+  <PRF_AutonomousMining.discoveredLetterText>이제 나사송곳 채굴I을 조사했습니다. 이를 통해 1 단계 자동 광산을 잠금 해제했습니다.\n 이 채굴기는 시간이 지남에 따라 임의의 물품을 채굴할 것이며, 바닐라 채굴기과 같은 감염을 일으킬 수 있습니다.\n\n 2 단계 채굴기는 동일한 유형의 채굴기로서 더 빠른 속도로 고철 대신 강철을 채굴합니다.\n\n3 단계에는 2가지 유형의 채굴기가 있습니다. 1. 이전 2개와 같은 무작위 채굴기입니다. 임의의 희귀 광석을 채굴합니다.(돌 덩어리 없음)\n2번째는 원하는 유형의 광석을 정확하게 설정할 수 있는 새로운 유형의 채굴기입니다. 이 채굴기는 주로 원하는 광물만 채굴하지만, 돌 덩어리나 희귀 광석을 채굴할 수 있습니다.\n\n만약 비균형적이거나 모든 광석을 캐고 싶다면 모드설정에서 설정을 켜면 됩니다.</PRF_AutonomousMining.discoveredLetterText>
   <PRF_AutonomousMiningII.label>파동식 드릴 II</PRF_AutonomousMiningII.label>
   <PRF_AutonomousMiningII.description>깊은 지하에서 무작위 광물과 암석을 추출할 수 있는 건물을 만듭니다. (곤충 군락의 원인이 될 수 있습니다)</PRF_AutonomousMiningII.description>
   <PRF_AutonomousMiningIII.label>고열 드릴 III</PRF_AutonomousMiningIII.label>
@@ -114,9 +114,9 @@
   <PRF_Crates.label>목재 저장구역 상자</PRF_Crates.label>
   <PRF_Crates.description>기초적인 저장 상자를 사용하면 많은 양의 물품을 정리하고 공간 효율성을 유지할 수 있습니다.</PRF_Crates.description>
   <PRF_SteelCrates.label>강철 저장구역 상자</PRF_SteelCrates.label>
-  <PRF_SteelCrates.description>더 강한 재료는 더 잘 쌓을수 있다는 것을 의미하고, 심지어 더 많은 물건들이 많은 좋은 이유로 이 상자들에 들어갈 수 있어 맹세해</PRF_SteelCrates.description>
+  <PRF_SteelCrates.description>더 강한 재료는 저장 공간을 향상시킵니다.</PRF_SteelCrates.description>
   <PRF_StorageIO.label>손스워스 홀로그래피</PRF_StorageIO.label>
-  <PRF_StorageIO.description>홀로그램 아티스트 손스워스는 점차 시력을 잃어가고 있음에도 불구하고 여러 해 동안 계속해서 걸작을 만들어냈고, 마침내 홀로그램 데이터 스토리지가 완성되었을 때, 그는 홀로그램 물품 저장고 개발에 중요한 역할을 했습니다.\n 디지털 스토리지 장치에 물품을 무선으로 저장할 수 있습니다. 맵의 모든 I/O 포트로 보낼 수 있으며, I/O 포트에서도 항목을 받을 수 있습니다.\n\n손스워스, 그리울 겁니다.</PRF_StorageIO.description>
+  <PRF_StorageIO.description>홀로그램 아티스트 손스워스는 점차 시력을 잃어가고 있음에도 불구하고 여러 해 동안 계속해서 걸작을 만들어냈습니다. 마침내 홀로그램 데이터 스토리지가 완성되었을 때, 그는 홀로그램 물품 저장고 개발에 중요한 역할을 했습니다.\n 디지털 스토리지 장치에 물품을 무선으로 저장할 수 있으며, 맵의 모든 I/O 포트로 보내거나 받을 수 있습니다.\n\n손스워스, 그리울 겁니다.</PRF_StorageIO.description>
   <PRF_StorageIO_II.label>개선된 무선 저장소</PRF_StorageIO_II.label>
-  <PRF_StorageIO_II.description>추가 연구를 통해 무선 저장 솔루션을 더 많이 활용할 수 있는 방법을 알아냈습니다.\n입/출력 배출기를 건설할 수 있습니다\n더 많은 것들이 이 뒤에 추가될 것입니다.</PRF_StorageIO_II.description>
+  <PRF_StorageIO_II.description>무선 스토리지의 발전. \nI/O 배출기를 건설할 수 있습니다 (그 이상, 예정).</PRF_StorageIO_II.description>
 </LanguageData>

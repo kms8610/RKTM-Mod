@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWEFT_Bullet_HeavyRevolver.label>대구경 리볼버 탄환</VWEFT_Bullet_HeavyRevolver.label>
+  <VWEFT_Gun_HeavyRevolver.label>대구경 리볼버</VWEFT_Gun_HeavyRevolver.label>
+  <VWEFT_Gun_HeavyRevolver.description>부유한 보안관과 무법자들 사이에서 가장 인기 있는 제품으로, 재장전 속도를 버리고 화력과 사거리를 늘렸습니다. \n\n증기계 총잡이들은 이 무기를 통해, 때때로 믿을 수 없을 만큼 운이 좋은 한 발을 쏘기도 합니다.</VWEFT_Gun_HeavyRevolver.description>
+  <VWEFT_Gun_HeavyRevolver.tools.0.label>손잡이</VWEFT_Gun_HeavyRevolver.tools.0.label>
+  <VWEFT_Gun_HeavyRevolver.tools.1.label>총열</VWEFT_Gun_HeavyRevolver.tools.1.label>
+  <VWEFT_Bullet_VolcanicPistol.label>볼케닉 권총 탄환</VWEFT_Bullet_VolcanicPistol.label>
+  <VWEFT_Gun_VolcanicPistol.label>볼케닉 권총</VWEFT_Gun_VolcanicPistol.label>
+  <VWEFT_Gun_VolcanicPistol.description>이 화려한 권총은 작지만 실물 크기의 소총의 위력을 지녔습니다. 수많은 탄환을 넓은 범위로 발사하지만 반동이 커서 정확도가 떨어지고 재장전하는 데 오래 걸립니다.\n\n증기계 총잡이들은 이 무기를 통해, 때때로 믿을 수 없을 만큼 운이 좋은 한 발을 쏘기도 합니다.</VWEFT_Gun_VolcanicPistol.description>
+  <VWEFT_Gun_VolcanicPistol.tools.0.label>손잡이</VWEFT_Gun_VolcanicPistol.tools.0.label>
+  <VWEFT_Gun_VolcanicPistol.tools.1.label>총열</VWEFT_Gun_VolcanicPistol.tools.1.label>
+  <VWEFT_Gun_FrontierPistol.label>변경계 권총</VWEFT_Gun_FrontierPistol.label>
+  <VWEFT_Gun_FrontierPistol.description>흔히 볼 수 있는 화려한 스타일의 옛날 권총으로, 중거리 교전에 효과적입니다.\n\n증기계 총잡이들은 이 무기를 통해, 때때로 믿을 수 없을 만큼 운이 좋은 한 발을 쏘기도 합니다.</VWEFT_Gun_FrontierPistol.description>
+  <VWEFT_Gun_FrontierPistol.tools.0.label>손잡이</VWEFT_Gun_FrontierPistol.tools.0.label>
+  <VWEFT_Gun_FrontierPistol.tools.1.label>총열</VWEFT_Gun_FrontierPistol.tools.1.label>
+  <VWEFT_Bullet_FrontierPistol.label>변경계 권총 탄환</VWEFT_Bullet_FrontierPistol.label>
+  <VWEFT_Gun_RollingBlockRifle.label>단발소총</VWEFT_Gun_RollingBlockRifle.label>
+  <VWEFT_Gun_RollingBlockRifle.description>단 한발로 머팔로를 보내버리기 위해 고안된 화려하면서도 성능좋은 지정사수용 소총입니다. 긴 장거리 배율과 최신식 재장전 방식덕에 현상금 사냥꾼들이 선호합니다.\n\n증기계 총잡이들은 이 무기를 통해, 때때로 믿을 수 없을 만큼 운이 좋은 한 발을 쏘기도 합니다.</VWEFT_Gun_RollingBlockRifle.description>
+  <VWEFT_Gun_RollingBlockRifle.tools.0.label>개머리판</VWEFT_Gun_RollingBlockRifle.tools.0.label>
+  <VWEFT_Gun_RollingBlockRifle.tools.1.label>총열</VWEFT_Gun_RollingBlockRifle.tools.1.label>
+  <VWEFT_Bullet_RollingBlockRifle.label>단발소총 탄환</VWEFT_Bullet_RollingBlockRifle.label>
+  <VWEFT_Gun_RepeatingShotgun.label>윈체스터 산탄총</VWEFT_Gun_RepeatingShotgun.label>
+  <VWEFT_Gun_RepeatingShotgun.description>화려하면서 놀랍도록 휴대성이 좋은 이 산탄총은 한 손으로도 사격할 수 있습니다. "폭탄사슴의 다리"라고도 불릴만큼 효과가 굉장합니다.\n\n증기계 총잡이들은 이 무기를 통해, 때때로 믿을 수 없을 만큼 운이 좋은 한 발을 쏘기도 합니다.</VWEFT_Gun_RepeatingShotgun.description>
+  <VWEFT_Gun_RepeatingShotgun.tools.0.label>개머리판</VWEFT_Gun_RepeatingShotgun.tools.0.label>
+  <VWEFT_Gun_RepeatingShotgun.tools.1.label>총열</VWEFT_Gun_RepeatingShotgun.tools.1.label>
+  <VWEFT_Bullet_RepeatingShotgun.label>산탄총 탄환</VWEFT_Bullet_RepeatingShotgun.label>
+  <VWEFT_Gun_GaussRevolver.label>가우스 리볼버</VWEFT_Gun_GaussRevolver.label>
+  <VWEFT_Gun_GaussRevolver.description>최첨단 우주 기술력을 갖춘 변경계 느낌의 리볼버입니다. 동일 선상의 휘감긴 코일이 탄환을 일제히 터뜨려 단발사격을 가속화합니다.\n\n전통적인 총과 마찬가지로 이 총은 때때로 믿을 수 없을 만큼 운이 좋은 한 발을 쏘기도 합니다.</VWEFT_Gun_GaussRevolver.description>
+  <VWEFT_Gun_GaussRevolver.tools.0.label>손잡이</VWEFT_Gun_GaussRevolver.tools.0.label>
+  <VWEFT_Gun_GaussRevolver.tools.1.label>총열</VWEFT_Gun_GaussRevolver.tools.1.label>
+  <VWEFT_Gun_GaussRepeater.label>가우스 연발총</VWEFT_Gun_GaussRepeater.label>
+  <VWEFT_Gun_GaussRepeater.description>동일 선상의 휘감긴 코일이 탄환을 일제히 터뜨려 단발사격을 가속화합니다. 증기계의 연발총을 바탕으로 만든 최첨단 가우스 소총입니다. 일련의 자기장 코일이 탄을 가속하여 중장갑을 관통할 수 있게 합니다.\n\n전통적인 총과 마찬가지로 이 총은 때때로 믿을 수 없을 만큼 운이 좋은 한 발을 쏘기도 합니다.</VWEFT_Gun_GaussRepeater.description>
+  <VWEFT_Gun_GaussRepeater.tools.0.label>개머리판</VWEFT_Gun_GaussRepeater.tools.0.label>
+  <VWEFT_Gun_GaussRepeater.tools.1.label>총열</VWEFT_Gun_GaussRepeater.tools.1.label>
+  <VWEFT_Gun_HandheldGatlingGun.label>휴대용 개틀링 기관총</VWEFT_Gun_HandheldGatlingGun.label>
+  <VWEFT_Gun_HandheldGatlingGun.description>원래는 기지방어용으로 쓰던 포탑이지만, 이제는 강화 갑옷같은 무장을 하면 휴대할 수 있습니다. 그러나 최대 화력에 도달하기 위해서는, 여전히 예열시간이 필요하며, 제한된 탄창을 가지고 있습니다.\n\n최전방의 병사들은 이 무기로 적들을 순식간에 고운 붉은 안개로 만들었다고 합니다.</VWEFT_Gun_HandheldGatlingGun.description>
+  <VWEFT_Gun_HandheldGatlingGun.tools.0.label>총열</VWEFT_Gun_HandheldGatlingGun.tools.0.label>
+  <VWEFT_Bullet_HandheldGatlingGun.label>휴대용 개틀링 기관총 탄환</VWEFT_Bullet_HandheldGatlingGun.label>
+  <VWEFT_Bullet_SalvagedLaserRevolver.label>불안정한 광선 리볼버 탄</VWEFT_Bullet_SalvagedLaserRevolver.label>
+  <VWEFT_Gun_SalvagedLaserRevolver.label>구제 광선 리볼버</VWEFT_Gun_SalvagedLaserRevolver.label>
+  <VWEFT_Gun_SalvagedLaserRevolver.description>실린더 기반의 광선 권총으로 상당히 빠르게 발사할 수 있습니다. 각 실린더에는 보다 정밀한 타격을 맞추기 위해 소형 충전지가 장전되어 있습니다.\n\n이 무기는 임시 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.</VWEFT_Gun_SalvagedLaserRevolver.description>
+  <VWEFT_Gun_SalvagedLaserRevolver.verbs.0.label>총몸</VWEFT_Gun_SalvagedLaserRevolver.verbs.0.label>
+  <VWEFT_Gun_SalvagedLaserRevolver.tools.0.label>총열</VWEFT_Gun_SalvagedLaserRevolver.tools.0.label>
+  <VWEFT_Gun_SalvagedLaserRevolver.tools.1.label>손잡이</VWEFT_Gun_SalvagedLaserRevolver.tools.1.label>
+  <VWEFT_Bullet_SalvagedLaserRepeater.label>불안정한 광선 탄</VWEFT_Bullet_SalvagedLaserRepeater.label>
+  <VWEFT_Gun_SalvagedLaserRepeater.label>구제 광선 연발총</VWEFT_Gun_SalvagedLaserRepeater.label>
+  <VWEFT_Gun_SalvagedLaserRepeater.description>중거리 교전에서 불안정한 광선을 발사할 수 있는 구제 연발 소총입니다. 놀랍도록 정확합니다.\n\n이 무기는 임시 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.</VWEFT_Gun_SalvagedLaserRepeater.description>
+  <VWEFT_Gun_SalvagedLaserRepeater.verbs.0.label>총몸</VWEFT_Gun_SalvagedLaserRepeater.verbs.0.label>
+  <VWEFT_Gun_SalvagedLaserRepeater.tools.0.label>총열</VWEFT_Gun_SalvagedLaserRepeater.tools.0.label>
+  <VWEFT_Gun_SalvagedLaserRepeater.tools.1.label>손잡이</VWEFT_Gun_SalvagedLaserRepeater.tools.1.label>
+  <VWEFT_Bullet_SalvagedLaserHuntingRifle.label>불안정한 정밀 광선 탄</VWEFT_Bullet_SalvagedLaserHuntingRifle.label>
+  <VWEFT_Bullet_SalvagedLaserHuntingRifle.description>불안정한 장거리 광선 빔입니다.</VWEFT_Bullet_SalvagedLaserHuntingRifle.description>
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.label>구제 광선 사냥용 소총</VWEFT_Gun_SalvagedLaserHuntingRifle.label>
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.description>배율이 달려있어, 장거리에서 불안정한 광선을 발사할 수 있는 지정사수용 광선 소총입니다. 오래전, 열차 강도사건에 사용되었을 것으로 추정됩니다.\n\n이 무기는 임시 충전지를 사용하여 예열할 수 있으며, 연사할 때마다 발사 속도를 높일 수 있습니다.</VWEFT_Gun_SalvagedLaserHuntingRifle.description>
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.verbs.0.label>총몸</VWEFT_Gun_SalvagedLaserHuntingRifle.verbs.0.label>
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.tools.0.label>총열</VWEFT_Gun_SalvagedLaserHuntingRifle.tools.0.label>
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.tools.1.label>손잡이</VWEFT_Gun_SalvagedLaserHuntingRifle.tools.1.label>
+  <VWEFT_Gun_Derringer.label>데린저식 권총</VWEFT_Gun_Derringer.label>
+  <VWEFT_Gun_Derringer.description>화려하게 장식된 이 권총은 손쉽게 숨길 수 있으며, 매우 가까운 거리에서 적을 무력화시킬 수 있습니다. 종종 멀리 떨어진 증기 세계의 하녀들이나 농장 일꾼들, 음지의 사업가들이 사용합니다.\n\n증기계 총잡이들은 이 무기를 통해, 때때로 믿으르 수 없을 만큼 운이 좋은 한 발을 쏘기도 합니다.</VWEFT_Gun_Derringer.description>
+  <VWEFT_Gun_Derringer.tools.0.label>손잡이</VWEFT_Gun_Derringer.tools.0.label>
+  <VWEFT_Gun_Derringer.tools.1.label>총열</VWEFT_Gun_Derringer.tools.1.label>
+  <VWEFT_Bullet_Derringer.label>데린저식 권총 탄환</VWEFT_Bullet_Derringer.label>
+  <VWEFT_Gun_LeverActionShotgun.label>연발 산탄총</VWEFT_Gun_LeverActionShotgun.label>
+  <VWEFT_Gun_LeverActionShotgun.description>간단하고 빠르게 장전되는 화려한 장식의 산탄총입니다. 주로 국경지대에서 사용되지만, 바텐더를 비롯한 가게 주인들이 난폭한 손님이나 도둑들을 상대할 때도 쓰입니다.\n\n증기계 총잡이들은 이 무기를 통해, 때때로 믿을 수 없을 만큼 운이 좋은 한 발을 쏘기도 합니다.</VWEFT_Gun_LeverActionShotgun.description>
+  <VWEFT_Gun_LeverActionShotgun.tools.0.label>개머리판</VWEFT_Gun_LeverActionShotgun.tools.0.label>
+  <VWEFT_Gun_LeverActionShotgun.tools.1.label>총열</VWEFT_Gun_LeverActionShotgun.tools.1.label>
+  <VWEFT_Bullet_LeverActionShotgun.label>산탄총 탄환</VWEFT_Bullet_LeverActionShotgun.label>
+</LanguageData>

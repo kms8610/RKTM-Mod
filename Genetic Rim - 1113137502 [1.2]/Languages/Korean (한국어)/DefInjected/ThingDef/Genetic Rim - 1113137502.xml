@@ -779,11 +779,11 @@
   <GR_TortoiseSerum.description>거북이의 시체에서 추출한 알파 유전자가 담긴 병</GR_TortoiseSerum.description>
   <GR_OrganicPulp.label>유기 펄프</GR_OrganicPulp.label>
   <GR_OrganicPulp.description>이 유기 펄프는 유전자 과정을 가속화하기 위해 유기 성장 화합물로 사용될 수 있습니다. 또한 유전자 포트를 업그레이드하는 데에도 필요합니다.</GR_OrganicPulp.description>
-  <GR_ImplantSteelWireMesh.label>강철 와이어 크물망 합성 보철물 (티어 1)</GR_ImplantSteelWireMesh.label>
+  <GR_ImplantSteelWireMesh.label>강철 와이어 그물망 합성 보철물 (티어 1)</GR_ImplantSteelWireMesh.label>
   <GR_ImplantSteelWireMesh.description>이 강철 끈 그물망은 조직 성장을 위한 골격 역할을 합니다. 또한 하이브리드 보철물이 성장하기 위한 기초로도 사용됩니다. 더 진보된 보철물을 만드려면 플라스틸이 필요합니다.</GR_ImplantSteelWireMesh.description>
   <GR_ImplantPlasteelWireMesh.label>혼합 플라스틸 끈 그물망 보철물</GR_ImplantPlasteelWireMesh.label>
   <GR_ImplantPlasteelWireMesh.description>이 플라스틸 끈 그물망은 조직 성장을 위한 골격 역할을 합니다. 또한 하이브리드 보철물이 성장하기 위한 기초로도 사용됩니다.</GR_ImplantPlasteelWireMesh.description>
-  <GR_ImplantUraniumWireMesh.label>우라늄 와이어 크물망 합성 보철물 (티어 3)</GR_ImplantUraniumWireMesh.label>
+  <GR_ImplantUraniumWireMesh.label>우라늄 와이어 그물망 합성 보철물 (티어 3)</GR_ImplantUraniumWireMesh.label>
   <GR_ImplantUraniumWireMesh.description>이 우라늄 끈 그물망은 조직 성장을 위한 골격 역할을 합니다. 또한 하이브리드 보철물이 성장하기 위한 기초로도 사용됩니다.</GR_ImplantUraniumWireMesh.description>
   <GR_Cryofuel.label>저온연료</GR_Cryofuel.label>
   <GR_Cryofuel.description>극저온 용기에 저장된 휘발성 액체 화학 물질입니다. 극저온 발전기를 돌리는데 이용됩니다. 또한 특정 공정을 거쳐 일반 화학연료로 전환될 수도 있습니다.</GR_Cryofuel.description>
@@ -1313,7 +1313,7 @@
   <GR_Thrumwolf_Corpse.label>트럼보늑대 시체</GR_Thrumwolf_Corpse.label>
   <GR_Thrumwolf_Corpse.description>트럼보늑대 시체</GR_Thrumwolf_Corpse.description>
   <GR_Thrumbocat.label>트럼보냥이</GR_Thrumbocat.label>
-  <GR_Thrumbocat.description>트럼보/고양이의 합성종입니다. 기 동물은 매우 위험하고 민첩한 포식자입니다. 발톱이나 거대한 뿔로 공격할 수 있을 뿐만 아니라 털뭉치를 발사해 먹이를 제압할 수도 있습니다.\n\n유용한 능력: 모든 고양이 합성종들과 마찬가지로, 이들은 근접 회피력이 매우 뛰어나며, 최전선의 환경에서 쉽게 적응합니다. 먹이를 질식시키는 털뭉치 공격을 가합니다.</GR_Thrumbocat.description>
+  <GR_Thrumbocat.description>트럼보/고양이의 합성종입니다. 이 동물은 매우 위험하고 민첩한 포식자입니다. 발톱이나 거대한 뿔로 공격할 수 있을 뿐만 아니라 털뭉치를 발사해 먹이를 제압할 수도 있습니다.\n\n유용한 능력: 모든 고양이 합성종들과 마찬가지로, 이들은 근접 회피력이 매우 뛰어나며, 최전선의 환경에서 쉽게 적응합니다. 먹이를 질식시키는 털뭉치 공격을 가합니다.</GR_Thrumbocat.description>
   <GR_Thrumbocat.tools.0.label>뿔</GR_Thrumbocat.tools.0.label>
   <GR_Thrumbocat.tools.2.label>왼 발</GR_Thrumbocat.tools.2.label>
   <GR_Thrumbocat.tools.3.label>오른 발</GR_Thrumbocat.tools.3.label>

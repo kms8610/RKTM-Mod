@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_TearGas.label>최루 가스</VWE_TearGas.label>
+  <VWE_TearGas.description>최루탄은 눈과 코를 자극시켜 피해자의 시력을 완전히 차단시킵니다.</VWE_TearGas.description>
+  <VWE_TearGas.stages.0.label>지침</VWE_TearGas.stages.0.label>
+  <VWE_TearGas.stages.1.label>눈물남</VWE_TearGas.stages.1.label>
+  <VWE_TearGas.stages.2.label>실명</VWE_TearGas.stages.2.label>
+  <VWE_Anesthetic.label>마취</VWE_Anesthetic.label>
+  <VWE_Anesthetic.description>마취제가 혈액을 타고 흐릅니다. 마취제는 생물체를 무의식 상태로 만듭니다.</VWE_Anesthetic.description>
+  <VWE_Anesthetic.stages.0.label>지침</VWE_Anesthetic.stages.0.label>
+  <VWE_Anesthetic.stages.1.label>멍함</VWE_Anesthetic.stages.1.label>
+  <VWE_Anesthetic.stages.2.label>진정됨</VWE_Anesthetic.stages.2.label>
+  <VWE_Anesthetic.stages.3.label>진정됨</VWE_Anesthetic.stages.3.label>
+</LanguageData>

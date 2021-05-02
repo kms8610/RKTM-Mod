@@ -15,13 +15,13 @@
   <sd_bridges_recipe_pontoonbridgepart_tablestone.label>부교 다리 부분 제작</sd_bridges_recipe_pontoonbridgepart_tablestone.label>
   <sd_bridges_recipe_pontoonbridgepart_tablestone.description>재료로 부교 다리 부분을 제작합니다. (재료 10개 = 부교 다리 부분). 이것은 부교 교량을 건설하는 데 사용됩니다</sd_bridges_recipe_pontoonbridgepart_tablestone.description>
   <sd_bridges_recipe_pontoonbridgepart_tablestone.jobString>부교 다리 부분 제작중.</sd_bridges_recipe_pontoonbridgepart_tablestone.jobString>
-  <sd_bridges_recipe_pontoonbridgepart_tablestone_10times.label>부교 다리 부분(10) 제작중.</sd_bridges_recipe_pontoonbridgepart_tablestone_10times.label>
+  <sd_bridges_recipe_pontoonbridgepart_tablestone_10times.label>부교 다리 부분 제작 (10)</sd_bridges_recipe_pontoonbridgepart_tablestone_10times.label>
   <sd_bridges_recipe_pontoonbridgepart_tablestone_10times.description>재료로 부교 다리 부분을 제작합니다. (재료 10개 = 부교 다리 부분). 이것은 부교 교량을 건설하는 데 사용됩니다</sd_bridges_recipe_pontoonbridgepart_tablestone_10times.description>
   <sd_bridges_recipe_pontoonbridgepart_tablestone_10times.jobString>부교 다리 부분 제작중.</sd_bridges_recipe_pontoonbridgepart_tablestone_10times.jobString>
   <sd_bridges_recipe_pontoonbridgepart_tablemachin.label>부교 다리 부분 제작</sd_bridges_recipe_pontoonbridgepart_tablemachin.label>
   <sd_bridges_recipe_pontoonbridgepart_tablemachin.description>재료로 부교 다리 부분을 제작합니다. (재료 10개 = 부교 다리 부분). 이것은 부교 교량을 건설하는 데 사용됩니다</sd_bridges_recipe_pontoonbridgepart_tablemachin.description>
   <sd_bridges_recipe_pontoonbridgepart_tablemachin.jobString>부교 다리 부분 제작중.</sd_bridges_recipe_pontoonbridgepart_tablemachin.jobString>
-  <sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.label>부교 다리 부분(10) 제작중.</sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.label>
+  <sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.label>부교 다리 부분 제작 (10)</sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.label>
   <sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.description>재료로 부교 다리 부분을 제작합니다. (재료 10개 = 부교 다리 부분). 이것은 부교 교량을 건설하는 데 사용됩니다</sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.description>
   <sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.jobString>부교 다리 부분 제작중.</sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.jobString>
 </LanguageData>

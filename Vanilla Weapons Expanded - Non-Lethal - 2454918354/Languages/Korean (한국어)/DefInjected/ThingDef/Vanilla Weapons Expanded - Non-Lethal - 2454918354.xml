@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWENLBeamGraphic.label>테이저 빔</VWENLBeamGraphic.label>
+  <VWE_Bullet_Taser.label>테이저 탄</VWE_Bullet_Taser.label>
+  <VWE_Bullet_Taser.description>고전압 테이저 탄.</VWE_Bullet_Taser.description>
+  <VWE_Gun_Taser.label>테이저건</VWE_Gun_Taser.label>
+  <VWE_Gun_Taser.description>산업시대의 단거리용 테이저 권총입니다. 보통 전류를 흘려 큰 부상을 입히지 않고 일시적으로 근육의 기능을 방해하고 통증을 유발하는 것을 목표로 합니다.</VWE_Gun_Taser.description>
+  <VWE_Gun_Taser.verbs.0.label>총몸</VWE_Gun_Taser.verbs.0.label>
+  <VWE_Gun_Taser.tools.0.label>총열</VWE_Gun_Taser.tools.0.label>
+  <VWE_Gun_Taser.tools.1.label>손잡이</VWE_Gun_Taser.tools.1.label>
+  <VWE_Gun_RubberBulletPistol.label>고무탄 권총</VWE_Gun_RubberBulletPistol.label>
+  <VWE_Gun_RubberBulletPistol.description>고무탄을 발사하는 가스 작동식의 권총입니다. 치명적이지는 않지만 급소에 맞으면 위험합니다.</VWE_Gun_RubberBulletPistol.description>
+  <VWE_Gun_RubberBulletPistol.tools.0.label>손잡이</VWE_Gun_RubberBulletPistol.tools.0.label>
+  <VWE_Gun_RubberBulletPistol.tools.1.label>총열</VWE_Gun_RubberBulletPistol.tools.1.label>
+  <VWE_Bullet_RubberPistol.label>고무탄</VWE_Bullet_RubberPistol.label>
+  <VWE_Gun_DartGun.label>다트총</VWE_Gun_DartGun.label>
+  <VWE_Gun_DartGun.description>이 비살상 공기총은 일반적으로 신경안정제라고 불리는 마취제를 발사해, 동물이나 사람을 진정시킵니다.</VWE_Gun_DartGun.description>
+  <VWE_Gun_DartGun.tools.0.label>개머리판</VWE_Gun_DartGun.tools.0.label>
+  <VWE_Gun_DartGun.tools.1.label>총열</VWE_Gun_DartGun.tools.1.label>
+  <VWE_Bullet_DartGun.label>마비 다트</VWE_Bullet_DartGun.label>
+  <VWE_Gun_TearGasLauncher.label>최루탄 발사기</VWE_Gun_TearGasLauncher.label>
+  <VWE_Gun_TearGasLauncher.description>최루 가스 탄창이 장착된 최신형 유탄발사기입니다. 대부분의 도시계 전경들이 자주 사용합니다.</VWE_Gun_TearGasLauncher.description>
+  <VWE_Gun_TearGasLauncher.tools.0.label>개머리판</VWE_Gun_TearGasLauncher.tools.0.label>
+  <VWE_Gun_TearGasLauncher.tools.1.label>총열</VWE_Gun_TearGasLauncher.tools.1.label>
+  <VWE_MeleeWeapon_StunBaton.label>삼단봉</VWE_MeleeWeapon_StunBaton.label>
+  <VWE_MeleeWeapon_StunBaton.description>일시적으로 근육의 기능을 방해하기 위한 전기 충격기가 내장된 짧은 진압용 막대기입니다.</VWE_MeleeWeapon_StunBaton.description>
+  <VWE_MeleeWeapon_StunBaton.tools.0.label>손잡이</VWE_MeleeWeapon_StunBaton.tools.0.label>
+  <VWE_MeleeWeapon_StunBaton.tools.1.label>머리</VWE_MeleeWeapon_StunBaton.tools.1.label>
+  <VWENL_TearGasCloud.label>최루 가스</VWENL_TearGasCloud.label>
+  <VWE_TearGasGrenade.label>최루탄</VWE_TearGasGrenade.label>
+  <VWE_TearGasGrenade.description>최루액이 들어 있는 현대식 탄창입니다. 피격시, 일시적으로 시야를 가립니다.</VWE_TearGasGrenade.description>
+  <VWE_TearGasGrenade.verbs.0.label>연막탄 투척</VWE_TearGasGrenade.verbs.0.label>
+  <VWENL_Projectile_TearGasGrenade.label>최루탄</VWENL_Projectile_TearGasGrenade.label>
+</LanguageData>

@@ -33,11 +33,11 @@
   <TableRoboticMachining.label>로봇 기계 작업대</TableRoboticMachining.label>
   <TableRoboticMachining.description>보다 많은 자동화 건물들을 위한 부품, 골조를 제작하기 위한 작업대입니다.</TableRoboticMachining.description>
   <PRF_SelfCookerI.label>공업용 조리기</PRF_SelfCookerI.label>
-  <PRF_SelfCookerI.description>재료를 껍질을 벗기고, 잘게 썰고, 자르고, 섞고, 요리하고, 찌고, 굽고, 구워 맛있는 음식과 다른 식품으로 가공하는 음식 처리 모듈 집합체입니다.\n\n모든 정착지의 생계 요구를 충족시키기 위한 이 원스톱 솔루션으로 다시는 식사를 망치지 마세요. 그냥 보고만 있으면 됩니다!\n\n조리 레벨 8에 1x의 속도로 간단한 식사만 가능\n\n하얀 칸은 입력 범위입니다.\n노란 칸은 출력 범위입니다</PRF_SelfCookerI.description>
+  <PRF_SelfCookerI.description>껍질을 벗기고, 잘게 썰고, 자르고, 섞고, 요리하고, 찌고, 굽고, 구워 맛있는 음식과 다른 식품으로 가공하는 음식 처리 모듈 집합체입니다.\n\n모든 정착지의 생계 요구를 충족시키기 위한 이 원스톱 솔루션으로 다시는 식사를 망치지 마세요. 한 번 봐보세요!\n\n조리 레벨 8에 1x의 속도로 간단한 식사만 가능\n\n하얀 칸은 입력 범위입니다.\n노란 칸은 출력 범위입니다</PRF_SelfCookerI.description>
   <PRF_SelfCookerII.label>현대식 자동조리기</PRF_SelfCookerII.label>
-  <PRF_SelfCookerII.description>재료 껍질을 벗기고, 잘게 썰고, 자르고, 섞고, 요리하고, 찌고, 굽고, 구워먹을 수 있는 향상된 음식 처리 모듈입니다.\n\n모든 정착지의 생계 요구를 충족시키기 위해 원스톱 솔루션으로 다시는 식사를 망치지 마세요. 그냥 보세요!\n\n전기 스토브 계획서 복사\n\n1.5x의 속도\n청결도 5\n조리 등급 12</PRF_SelfCookerII.description>
+  <PRF_SelfCookerII.description>껍질을 벗기고, 잘게 썰고, 자르고, 섞고, 요리하고, 찌고, 굽고, 구워 맛있는 음식과 다른 식품으로 가공하는 향상된 음식 처리 모듈 집합체입니다.\n\n모든 정착지의 생계 요구를 충족시키기 위한 이 원스톱 솔루션으로 다시는 식사를 망치지 마세요. 한 번 봐보세요!\n\n\n1.5x의 속도\n청결도 5\n조리 등급 12</PRF_SelfCookerII.description>
   <PRF_SelfCookerIII.label>우주 조리기</PRF_SelfCookerIII.label>
-  <PRF_SelfCookerIII.description>재료를 껍질을 벗기고, 잘게 썰고, 자르고, 섞고, 요리하고, 찌고, 굽고, 구워먹을 수 있는 다양한 음식 처리 모듈.\n\n모든 정착지의 생계 요구를 충족시키기 위해 원스톱 솔루션으로 다시는 식사를 망치지 마세요. 그냥 보세요!\n\n2x의 속도\n청결도 20\n조리 등급 20</PRF_SelfCookerIII.description>
+  <PRF_SelfCookerIII.description>껍질을 벗기고, 잘게 썰고, 자르고, 섞고, 요리하고, 찌고, 굽고, 구워 맛있는 음식과 다른 식품으로 가공하는 음식 처리 모듈 집합체입니다.\n\n모든 정착지의 생계 요구를 충족시키기 위한 이 원스톱 솔루션으로 다시는 식사를 망치지 마세요. 한 번 봐보세요!\n\n2x의 속도\n청결도 20\n조리 등급 20</PRF_SelfCookerIII.description>
   <PRF_MeatGrinder.label>육류 분쇄기</PRF_MeatGrinder.label>
   <PRF_MeatGrinder.description>시체를 육류, 가죽 등 사용 가능한 재료 더미로 가공하는 정밀 분쇄기.</PRF_MeatGrinder.description>
   <PRF_FermentingBarrel.label>발효 탱크</PRF_FermentingBarrel.label>
@@ -53,11 +53,11 @@
   <PRF_DroneCultivator_III.label>드론 수확기 mkIII</PRF_DroneCultivator_III.label>
   <PRF_DroneCultivator_III.description>MkIII 자동 재배기. 향상된 드론들이 재배 작업을 수행하여, 이제 드론들은 더 나은 기능을 제공할 수 있게 되었습니다. 저장구역이나 입출력 포트, 상자가 범위 내에 있다면 그곳으로 운반할 것입니다.\n\n기본 성능:\n드론들: 5 \n작업 범위: 11x11 - 33x33\n작업 유형: 재배 + 운반\n작업 시간: 종일\n기술 레벨: 20</PRF_DroneCultivator_III.description>
   <PRF_OldTypeCultivator_I.label>메카나이트 수확기</PRF_OldTypeCultivator_I.label>
-  <PRF_OldTypeCultivator_I.description>이것은 재배지 또는 수경 재배기에 파종하고, 수확하고 유지하는 작업 메카나이트를 수용하는 최첨단 수확기입니다. 측면에 풀 스펙트럼 LED 태양등이 장착되어 있습니다. 또한, 추가 처리를 위해 지정된 곳에 배출됩니다.\n\n기본 정보:\n드론: 없음, 1작업 공간\n작업범위: 11x11\n작업시간: 종일\n속도: 50\n스킬 레벨: 20</PRF_OldTypeCultivator_I.description>
+  <PRF_OldTypeCultivator_I.description>이것은 재배지 또는 수경 재배기에 파종하고, 수확하고 유지하는 작업 메카나이트를 수용하는 최첨단 수확기입니다. 추가 처리를 위해 지정된 곳에 배출됩니다.\n\n기본 정보:\n드론: 없음, 1작업 공간\n작업범위: 11x11\n작업시간: 종일\n속도: 50\n스킬 레벨: 20</PRF_OldTypeCultivator_I.description>
   <PRF_OldTypeCultivator_Sun.label>메카나이트 수확기 (태양등)</PRF_OldTypeCultivator_Sun.label>
   <PRF_OldTypeCultivator_Sun.description>이것은 재배지 또는 수경 재배기에 파종하고, 수확하고 유지하는 작업 메카나이트를 수용하는 최첨단 수확기입니다. 측면에 풀 스펙트럼 LED 태양등이 장착되어 있습니다. 또한, 추가 처리를 위해 지정된 곳에 배출됩니다.\n\n기본 정보:\n드론: 없음, 1작업 공간\n작업범위: 11x11\n작업시간: 종일\n속도: 50\n스킬 레벨: 20</PRF_OldTypeCultivator_Sun.description>
   <PRF_OldTypeCultivator_Xl.label>메카나이트 XL 수확기</PRF_OldTypeCultivator_Xl.label>
-  <PRF_OldTypeCultivator_Xl.description>이것은 재배지 또는 수경 재배기에 파종하고, 수확하고 유지하는 작업 메카나이트를 수용하는 최첨단 XL 수확기입니다. 측면에 풀 스펙트럼 LED 태양등이 장착되어 있습니다. 또한, 추가 처리를 위해 지정된 곳에 배출됩니다.\n\n기본 정보:\n드론: 없음, 1작업 공간\n작업범위: 22x22\n작업시간: 종일\n속도: 12 (5x 빠름)\n스킬 레벨: 20</PRF_OldTypeCultivator_Xl.description>
+  <PRF_OldTypeCultivator_Xl.description>이것은 재배지 또는 수경 재배기에 파종하고, 수확하고 유지하는 작업 메카나이트를 수용하는 최첨단 XL 수확기입니다. 추가 처리를 위해 지정된 곳에 배출됩니다.\n\n기본 정보:\n드론: 없음, 1작업 공간\n작업범위: 22x22\n작업시간: 종일\n속도: 12 (5x 빠름)\n스킬 레벨: 20</PRF_OldTypeCultivator_Xl.description>
   <PRF_Sprinkler_I.label>스프링클러</PRF_Sprinkler_I.label>
   <PRF_Sprinkler_I.description>확장된 반경의 식물에 물을 공급하여 건물당 1시간씩 성장시키는 건물. 효과는 중첩할 수 있습니다.</PRF_Sprinkler_I.description>
   <PRF_Sprinkler_II.label>스프링쿨러 mkII</PRF_Sprinkler_II.label>
@@ -83,29 +83,29 @@
   <PRF_FurnaceIII.label>전기 용광로</PRF_FurnaceIII.label>
   <PRF_FurnaceIII.description>물건을 태우고 원재료를 유용한 자원으로 만들 수 있는 발전된 용광로로, 기존 용광로들보다 빠릅니다.\n\n(이 용광로는 프로젝트 림팩토리에서 제일 빠르고 좋습니다.)\n\n전기로와 화장터의 어떤 계획서라도 갖고올 수 있습니다.</PRF_FurnaceIII.description>
   <PRF_FuelingMachine.label>연료 공급 기계</PRF_FuelingMachine.label>
-  <PRF_FuelingMachine.description>발전기, 화로, 박격포 및 일반 연료/박격포에 사용하는 기타 모든 것을 주유할 수 있는 간단한 주유 기계입니다.\n일부 변형된 유형 등에도 연료를 공급할 수 있습니다. SoS, CE...\n흰색 셀에 있는 모든 것을 잡아당겨 앞에 있는 것(노란색 셀은 "앞면"을 가리킴) 에 연료를 공급합니다.\n\n("재보급 가능"한 건물과 작동합니다)\n또한 박격포에 포탄을 주입할 수 있습니다.</PRF_FuelingMachine.description>
+  <PRF_FuelingMachine.description>발전기, 화로, 박격포 및 일반 연료/박격포에 사용하는 기타 모든 것을 주유할 수 있는 간단한 주유 기계입니다.\n일부 변형된 유형 등에도 연료를 공급할 수 있습니다. SoS, CE...\n흰색 셀에 있는 모든 것을 잡아당겨 앞에 있는 것에 연료를 공급합니다.\n\n("재보급 가능"한 건물과 작동합니다)\n또한 박격포에 포탄을 주입할 수 있습니다.</PRF_FuelingMachine.description>
   <PRF_SmartHopper.label>스마트 호퍼</PRF_SmartHopper.label>
-  <PRF_SmartHopper.description>지정된 범위(흰색 셀) 로 주변의 물건을 집어올 수 있는 지능형 호퍼.\n토글해서 저장구역이나 땅에서 물건을 갖고오게 할 수 있습니다.\n조립기나 다른 주입기 같은 것처럼 밀어넣지 않고 보관만 합니다.\n벨트에서도 집어올 수 있습니다.\n아직 영양죽 배급기에는 공급할 수 없습니다...</PRF_SmartHopper.description>
+  <PRF_SmartHopper.description>지정된 범위(흰색 셀) 로 주변의 물건을 모을 수 있는 지능형 호퍼. 토글해서 저장구역이나 땅에서 물건을 모으게 할 수 있습니다. 다른 주입기 같은 것처럼 밀어넣지 않으며, 모을 수만 있고, 가까운 벨트에서 갖고올 수도 있습니다. 아직 영양죽 배급기에는 연결할 수 없습니다.</PRF_SmartHopper.description>
   <PRF_GrowzonePuller_I.label>재배구역 흡입기</PRF_GrowzonePuller_I.label>
-  <PRF_GrowzonePuller_I.description>재배 영역 끝에 부착하면 선택한 재배 영역 내에서 설정된 항목을 끌어옵니다. 인접 재배 영역에서 끌어오지는 않습니다.</PRF_GrowzonePuller_I.description>
+  <PRF_GrowzonePuller_I.description>인접한 재배 구역에서 끌어오는 특수 흡입기입니다. 제대로 작동하려면 재배 영역에 연결되어 있어야 합니다.</PRF_GrowzonePuller_I.description>
   <PRF_SimplePuller_I.label>물품 배출기 MK. I</PRF_SimplePuller_I.label>
-  <PRF_SimplePuller_I.description>A에서 B로 물품을 운반하는 배출기입니다. 설치하고 전원을 넣으면 저장구역, 입출력기, 벨트, 상자, 벨트, 저장고... 연결이 굉장히 자유롭습니다!\n\n배치한 후에 전원을 넣는 것을 잊지 마세요!</PRF_SimplePuller_I.description>
+  <PRF_SimplePuller_I.description>입력 (흰색 칸)에서 물품을 가져와 출력 (노란색 칸)으로 배출합니다. 필터를 선택한 후 전원을 켜야 합니다.\n굉장히 유연하게 연결할 수 있습니다:저장구역, 저장고, 벨트(모든 종류), 입/출력, 그리고 다른 것들.</PRF_SimplePuller_I.description>
   <PRF_SimplePuller_II.label>물품 배출기 Mk. II</PRF_SimplePuller_II.label>
-  <PRF_SimplePuller_II.description>MkI 흡입기보다 빠른 속도로 실행되는 업그레이드된 흡입기입니다. 저장구역, I/O, 벨트, 입출력 상자에서 벨트, 저장고... 굉장히 유연하게 연결할 수 있습니다!</PRF_SimplePuller_II.description>
+  <PRF_SimplePuller_II.description>빠른 속도로 실행되는 업그레이드된 배출기입니다. 입력 부(흰색 칸) 에서 끌어와서 배출부(노란 칸) 으로 배출합니다. 굉장히 유연하게 연결할 수 있습니다.</PRF_SimplePuller_II.description>
   <PRF_SimplePuller_II_Side.label>물품 방향 전환 배출기</PRF_SimplePuller_II_Side.label>
-  <PRF_SimplePuller_II_Side.description>물품을 A에서 B로 이동시키는 90도 각도의 배출기. 기본 배출기와 유사하지만 회전이 가능합니다!\n배치한 후 방향 (왼쪽/오른쪽) 을 바꿀 수 있습니다.</PRF_SimplePuller_II_Side.description>
+  <PRF_SimplePuller_II_Side.description>90도 각도로 물품을 배출하도록 설계된 특수 배출기입니다. 일반 배출기와 기능적으로 유사합니다. 배치 후 방향을 바꿀 수 있습니다.</PRF_SimplePuller_II_Side.description>
   <PRF_SimplePuller_II_Wall.label>내벽 물품 배출기</PRF_SimplePuller_II_Wall.label>
-  <PRF_SimplePuller_II_Wall.description>물품을 A에서 B로 보내는 벽면 물품 배출기입니다.\n\n이 배출기는 벽에 배치되며, 냉동고에서 사용할 수 있을 정도로 충분히 단열성이 뛰어나며, 누군가가 기어나가는 것을 원치 않는 감옥에서 사용할 수 있을만큼 충분히 견고합니다.\n\n배치한 후에 전원 넣는 것을 잊지 마세요!</PRF_SimplePuller_II_Wall.description>
+  <PRF_SimplePuller_II_Wall.description>입력 (흰색 칸)에서 출력 (노란색 칸)으로 물품을 배출하는 벽 역할을 하는 특수 물품 배출기입니다. 벽 배출기는 냉동고고에서 사용할 수 있을 정도로 충분히 단열성이 뛰어나고 감옥에서 사용할 수 있을 정도로 충분히 견고합니다.</PRF_SimplePuller_II_Wall.description>
   <PRF_Conveyor_Simple_I.label>컨베이어 벨트</PRF_Conveyor_Simple_I.label>
-  <PRF_Conveyor_Simple_I.description>컨베이어 벨트는 한 쪽 끝에서 다른 쪽 끝으로 물건을 운반합니다. 저장고나 저장구역에 운반하거나 - 혹은 벨트가 끝나면 바닥에 물건을 놓아두게 됩니다.\n하지만 다소 세련되지 못해서, 공간만 있다면 가진 모든 것을 행복하게 놓아둘 것입니다.\n끝 부분을 다른 벨트의 측면으로 유도하기만 하면 원활하게 연결됩니다.</PRF_Conveyor_Simple_I.description>
+  <PRF_Conveyor_Simple_I.description>컨베이어 벨트는 한 쪽 끝에서 다른 쪽 끝으로 물건을 운반합니다. 저장고나 저장구역에 운반하거나 - 혹은 벨트가 끝나면 바닥에 물건을 놓아두게 됩니다. 하지만 다소 세련되지 못해서, 공간만 있다면 가진 모든 것을 행복하게 놓아둘 것입니다.\n끝 부분을 다른 벨트의 측면으로 유도하기만 하면 원활하게 연결됩니다.</PRF_Conveyor_Simple_I.description>
   <PRF_Conveyor_Simple_II.label>빠른 컨베이어 벨트</PRF_Conveyor_Simple_II.label>
-  <PRF_Conveyor_Simple_II.description>고속 컨베이어 벨트는 한 쪽 끝에서 다른 쪽 끝으로 물건을 운반합니다. 일반 벨트보다 2배 빠른 속도로 이동합니다. 저장고나 저장구역에 운반하거나 - 혹은 벨트가 끝나면 바닥에 물건을 놓아두게 됩니다.\n하지만 다소 세련되지 못해서, 공간만 있다면 가진 모든 것을 행복하게 놓아둘 것입니다.\n끝 부분을 다른 벨트의 측면으로 유도하기만 하면 원활하게 연결됩니다.</PRF_Conveyor_Simple_II.description>
+  <PRF_Conveyor_Simple_II.description>두 배의 속도로 운반되는 컨베이어 벨트의 업그레이드 버전. 표준 벨트와 유사하게 작동하며, 저장고, 저장구역 또는 빈 공간으로 운반합니다.\n끝 부분을 다른 벨트의 측면에 연결하면 원활하게 이동됩니다.</PRF_Conveyor_Simple_II.description>
   <PRF_Conveyor_Simple_III.label>고속 컨베이어 벨트</PRF_Conveyor_Simple_III.label>
-  <PRF_Conveyor_Simple_III.description>고속 컨베이어 벨트는 한 쪽 끝에서 다른 쪽 끝으로 물건을 운반합니다. 일반 벨트보다 3배 빠르거나 빠른 벨트보다 1.5배 빠르게 이동합니다. 저장고나 저장구역에 운반하거나 - 혹은 벨트가 끝나면 바닥에 물건을 놓아두게 됩니다.\n하지만 다소 세련되지 못해서, 공간만 있다면 가진 모든 것을 행복하게 놓아둘 것입니다.\n끝 부분을 다른 벨트의 측면으로 유도하기만 하면 원활하게 연결됩니다.</PRF_Conveyor_Simple_III.description>
+  <PRF_Conveyor_Simple_III.description>최적의 물류를 위한 고급 컨베이어 벨트로, 3 배의 속도 (또는 이전 버전의 1.5 배)로 이동합니다. 표준 벨트와 유사하게 작동하며, 저장고, 저장구역 또는 빈 공간으로 운반합니다.\n끝 부분을 다른 벨트의 측면에 연결하면 원활하게 이동됩니다.</PRF_Conveyor_Simple_III.description>
   <PRF_Conveyor_Wall_I.label>벽 벨트</PRF_Conveyor_Wall_I.label>
   <PRF_Conveyor_Wall_I.description>벽을 통과해 물품을 이동합니다! 이를 사용하여 벽을 가로지르거나 벽을 따라 물품을 이동할 수 있습니다. 아이템이 끝에 닿으면, 그곳이 방이라면 지면을 다 채울 때까지 이동합니다.</PRF_Conveyor_Wall_I.description>
   <PRF_Conveyor_UG_I.label>지하 벨트</PRF_Conveyor_UG_I.label>
-  <PRF_Conveyor_UG_I.description>지하 컨베이어 벨트는 지하 터널로 물품을 운반합니다. 지하로 물품을 이동하려면, 지하 컨베이어 입구 및 출구를 사용해야 합니다.\n벽 아래로 이동이 가능하며, 기계나 다른 벨트를 연결할 필요가 없습니다.</PRF_Conveyor_UG_I.description>
+  <PRF_Conveyor_UG_I.description>지하 컨베이어 벨트는 아무 연결 없이 지하 터털로 벽, 기계 및 기타 벨트 아래에서 안전하게 물품을 운반합니다.\n 표준 지상 벨트와 결합하지 않는 한 입구나 출구가 필요하지 않습니다.</PRF_Conveyor_UG_I.description>
   <PRF_Conveyor_Connector_To_UG.label>지하 벨트 입구</PRF_Conveyor_Connector_To_UG.label>
   <PRF_Conveyor_Connector_To_UG.description>지상의 컨베이어 벨트를 지하 컨베이어에 연결합니다. 이것은 지하 통로의 입구입니다.</PRF_Conveyor_Connector_To_UG.description>
   <PRF_Conveyor_Connector_To_Floor.label>지하 벨트 출구</PRF_Conveyor_Connector_To_Floor.label>
@@ -113,9 +113,9 @@
   <PRF_Conveyor_Splitter_I.label>컨베이어 분할기</PRF_Conveyor_Splitter_I.label>
   <PRF_Conveyor_Splitter_I.description>매우 기본적인 AI로 처리되는 필터에 따라 컨베이어 벨트의 물품을 다른 방향으로 운반하는 자동화된 장치. 필터가 설정되지 않으면, 단순하게 방향에 따라 분할합니다.</PRF_Conveyor_Splitter_I.description>
   <PRF_Conveyor_Splitter_UG.label>지하 분할기</PRF_Conveyor_Splitter_UG.label>
-  <PRF_Conveyor_Splitter_UG.description>눈에 보이지 않게 일반 분할기와 같은 역할을 합니다.</PRF_Conveyor_Splitter_UG.description>
+  <PRF_Conveyor_Splitter_UG.description>지하 컨베이어 분배기. 지상 분배기와 유사하게 작동하며 혼란을 일으키지 않습니다.</PRF_Conveyor_Splitter_UG.description>
   <PRF_Conveyor_Splitter_Wall.label>벽 분배기</PRF_Conveyor_Splitter_Wall.label>
-  <PRF_Conveyor_Splitter_Wall.description>벽을 통과하는 컨베이어 분할기. 물품을 벽 벨트와 지상으로 옮길 수 있습니다.</PRF_Conveyor_Splitter_Wall.description>
+  <PRF_Conveyor_Splitter_Wall.description>벽을 통과하는 컨베이어 분할기. 일반 분할기와 비슷하게 동작하며, 지상의 벨트와 연결할 수 있습니다.</PRF_Conveyor_Splitter_Wall.description>
   <PRF_MineShaft.label>채석장</PRF_MineShaft.label>
   <PRF_MineShaft.description>초기 채석장 입구, 폰이 산으로 들어가 원하는 것을 캐낼 수 있는 채석장으로, 가동 중 희귀/쓰레기 추가 물품을 찾을 가능성이 희박합니다.\n작동하려면 산 지형에 배치해야 합니다. (물품 교체 모드와 충돌할 수 있음)</PRF_MineShaft.description>
   <PRF_DeepQuarry_mkI.label>회전식 드릴 (T1)</PRF_DeepQuarry_mkI.label>
@@ -138,7 +138,7 @@
   <PRF_AutoCrafterSimple.label>자동 조립기 Mk-1(S.A.L)</PRF_AutoCrafterSimple.label>
   <PRF_AutoCrafterSimple.description>스킬 레벨 5의 제작기로, 초창기 버전의 자동 제작기입니다. 화살표가 작업대를 향하도록 하여 작업대 상호 작용 지점에 배치합니다. 자동 제작기는 또한 예술 작품도 만들 수 있지만, 예술 데이터베이스가 매우 제한적이고 명작들을 생산할 수 없습니다.\n\n성능:\n기본: 1\n제작: 5\n조리: 4\n예술: 0\n속도: 1</PRF_AutoCrafterSimple.description>
   <PRF_AutoCrafter.label>자동 조립기 Mk-2(S.A.L)</PRF_AutoCrafter.label>
-  <PRF_AutoCrafter.description>자동 제작기는 프로젝트 S.A.L의 중추로, 자체적으로 를 제작할 수 있는 작지만 강력한 건물입니다. 제작 레벨 12의 폰과 같습니다.\n\n성능:\n기본: 5\n제작:12\n조리: 8\n예술: 0\n속도: 2</PRF_AutoCrafter.description>
+  <PRF_AutoCrafter.description>자동 제작기는 프로젝트 S.A.L의 중추로, 자동으로 계획서에 따라 제작할 수 있는 작지만 강력한 건물입니다. 제작 레벨 12의 폰과 같습니다.\n\n성능:\n기본: 5\n제작:12\n조리: 8\n예술: 0\n속도: 2</PRF_AutoCrafter.description>
   <PRF_TheArtMachine.label>예술 장치(S.A.L)</PRF_TheArtMachine.label>
   <PRF_TheArtMachine.description>호스에서 물을 뿜듯이 예술품을 뿜어냅니다.\n\n성능:\n기본: 3\n제작: 7\n\n예술: 8\n속도: 1</PRF_TheArtMachine.description>
   <PRF_TheArtMaster.label>예술 장인(S.A.L)</PRF_TheArtMaster.label>
@@ -148,23 +148,25 @@
   <PRF_OverclockedAutoAssemblerII.label>오버클럭 자동 조립기 mkII(S.A.L)</PRF_OverclockedAutoAssemblerII.label>
   <PRF_OverclockedAutoAssemblerII.description>끔찍한 품질의 물품을 생산해내지만, 꽤 빠르게 생산하는 데에는 문제가 되지 않습니다.\n\n성능:\n기본: 1\n속도: 12</PRF_OverclockedAutoAssemblerII.description>
   <PRF_SALAutoCooker.label>자동조리기 S.A.L</PRF_SALAutoCooker.label>
-  <PRF_SALAutoCooker.description>자동 조립기가 조리를 적절한 수준으로 하다지만, 자동 조리기는 12레벨에 버금가게 보다 빠르고 정확합니다.\n\n성능:\n기본: 5\n제작: 8\n조리: 12\n예술: 0\n속도: 1</PRF_SALAutoCooker.description>
+  <PRF_SALAutoCooker.description>자동 조립기가 조리를 적절한 수준으로 하지만, 자동 조리기는 12레벨에 버금가게 보다 빠르고 정확합니다.\n\n성능:\n기본: 5\n제작: 8\n조리: 12\n예술: 0\n속도: 1</PRF_SALAutoCooker.description>
+  <PRF_SALAutoMinerI.label>자동 채굴 S.A.L</PRF_SALAutoMinerI.label>
+  <PRF_SALAutoMinerI.description>높은 수준의 채굴을 할 수 있는 수정된 제작기로, 심층 굴착기를 사용할 때 가장 유용합니다.</PRF_SALAutoMinerI.description>
   <PRF_GodlyCrafter.label>경건한 S.A.L 제작기</PRF_GodlyCrafter.label>
   <PRF_GodlyCrafter.description>너무 빨리 작동해서 모든 기대를 저버립니다. 고품질의 품목을 대량 생산하기에 안성맞춤입니다. 우주를 소각할 수도 있고 그렇지 않을 수도 있습니다.\n이제 정신이상증에 첫발을 내딛는 것일지도 몰라?!#.\n\n성능:\n기본: 20\n예술: 18\n속도: 666</PRF_GodlyCrafter.description>
   <PRF_WoodCrate_I.label>작은 나무상자</PRF_WoodCrate_I.label>
-  <PRF_WoodCrate_I.description>(티어 1 상자) 16칸까지 저장할 수 있는 작은 상자입니다. 상자에 저장된 물품은 변질하지 않습니다.</PRF_WoodCrate_I.description>
+  <PRF_WoodCrate_I.description>16칸까지 저장할 수 있는 작은 강철 상자입니다. 상자에 저장된 물품은 변질되지 않습니다.</PRF_WoodCrate_I.description>
   <PRF_WoodCrate_II.label>나무상자</PRF_WoodCrate_II.label>
-  <PRF_WoodCrate_II.description>32칸까지 저장할 수 있는 거대한 상자입니다. 상자에 저장된 물품은 변질하지 않습니다.</PRF_WoodCrate_II.description>
+  <PRF_WoodCrate_II.description>32칸까지 저장할 수 있는 거대한 상자입니다. 상자에 저장된 물품은 변질되지 않습니다.</PRF_WoodCrate_II.description>
   <PRF_SteelCrate_I.label>작은 강철상자</PRF_SteelCrate_I.label>
   <PRF_SteelCrate_I.description>64칸까지 저장할 수 있는 작은 강철 상자입니다. 상자에 저장된 물품은 변질하지 않습니다.</PRF_SteelCrate_I.description>
   <PRF_SteelCrate_II.label>강철상자</PRF_SteelCrate_II.label>
-  <PRF_SteelCrate_II.description>128칸까지 저장할 수 있는 거대한 상자입니다. 상자에 저장된 물품은 변질하지 않습니다.</PRF_SteelCrate_II.description>
+  <PRF_SteelCrate_II.description>128칸까지 저장할 수 있는 거대한 상자입니다. 상자에 저장된 물품은 변질되지 않습니다.</PRF_SteelCrate_II.description>
   <PRF_DigitalStorageUnit_I.label>디지털 스토리지</PRF_DigitalStorageUnit_I.label>
-  <PRF_DigitalStorageUnit_I.description>768칸까지 저장할 수 있습니다. 물품의 보관 칸당 10W의 전력을 소모합니다. 정착지의 전력이 부족할 경우, 내부에 있는 물품들은 안전합니다만, 더 이상의 물품을 보관할 수 없습니다.</PRF_DigitalStorageUnit_I.description>
+  <PRF_DigitalStorageUnit_I.description>768칸까지 저장할 수 있습니다. 물품의 보관 칸당 10W의 전력을 소모합니다. 정착지의 전력이 부족할 경우, 내부에 있는 물품들은 안전합니다만, DSU는 더 이상의 물품을 보관할 수 없습니다.</PRF_DigitalStorageUnit_I.description>
   <PRF_IOPort_I.label>입출력 포트</PRF_IOPort_I.label>
   <PRF_IOPort_I.description>디지털 스토리지 장치(DSU) 의 연결 포트입니다. 지도 내의 모든 범위에 있는 플랫폼에서 원격으로 입력/출력을 설정할 수 있습니다.</PRF_IOPort_I.description>
   <PRF_IOPPusher_I.label>입/출력 배출기</PRF_IOPPusher_I.label>
-  <PRF_IOPPusher_I.description>이 개조된 입/출력 포트를 통해 물품을 다음 칸, 벨트 또는 다른 위치에 직접 밀어넣을 수 있으므로 배출기를 사용하는 공간을 절약할 수 있습니다.\n입력은 할 수 없으므로, 입/출력 포트보다 배출기가 더 많이 필요합니다.</PRF_IOPPusher_I.description>
+  <PRF_IOPPusher_I.description>이 개조된 입/출력 포트를 통해 물품을 다음 칸, 벨트 또는 다른 위치에 직접 밀어넣을 수 있으므로 배출기를 사용하는 공간을 절약할 수 있습니다.\n입/출력 포트보다 배출기가 더 많이 필요합니다.</PRF_IOPPusher_I.description>
   <PRF_FloorLampArrow.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_FloorLampArrow.description>
   <PRF_FloorLampArrow.label>노란색 화살표 표시 바닥</PRF_FloorLampArrow.label>
   <PRF_RedFloorLampArrow.description>바닥이나 기계 또는 다른 건물 위에 배치하여 안내를 표시할 수 있는 약한 형광 표시입니다.</PRF_RedFloorLampArrow.description>
@@ -233,9 +235,9 @@
   <Building_RTCircuitBreaker_300k.label>회로 차단기 (300k)</Building_RTCircuitBreaker_300k.label>
   <Building_RTCircuitBreaker_300k.description>자동회로 차단기입니다.\n300000Wd만큼의 방전을 처리할 수 있으며, 방전시 수동으로 재설정 해야 합니다.</Building_RTCircuitBreaker_300k.description>
   <PRF_IOPort_IFridge.label>냉장 입/출력 포트</PRF_IOPort_IFridge.label>
-  <PRF_IOPort_IFridge.description>(티어 3) \n 당신의 DSU용 연결 포트. 같은 지도에 있다면 거리 상관없이 어떤 DSU와도 입/출력 설정을 할 수 있습니다. 냉장 저장고와도 연결할 수 있습니다.</PRF_IOPort_IFridge.description>
+  <PRF_IOPort_IFridge.description>딥 스토리지 장치의 연결 포트입니다. 지도 내의 모든 범위에 있는 어떤 DSU에서도 원격으로 입력/출력을 설정할 수 있습니다. 이 버전은 림프린지의 냉장고와 연결할 수 있습니다.</PRF_IOPort_IFridge.description>
   <PRFCoolDSU.label>냉장 디지털 스토리지</PRFCoolDSU.label>
-  <PRFCoolDSU.description>디지털 스토리지의 냉장고 버전으로, 음식을 저장할 수 있습니다.\n\n512칸의 물품을 저장 가능합니다. 각 칸당 10W의 전력을 소모합니다. 만약 정착지의 전력이 부족할 경우, 내부에 있는 물품들은 안전합니다만, 더 이상의 물품을 보관할 수 없습니다.\n\n이것은 RimFridge가 설치되어 있을 때에만 사용할 수 있습니다.</PRFCoolDSU.description>
+  <PRFCoolDSU.description>512칸까지 저장할 수 있습니다. 물품의 보관 칸당 10W의 전력을 소모합니다. 정착지의 전력이 부족할 경우, 내부에 있는 물품들은 안전합니다만, DSU는 더 이상의 물품을 보관할 수 없습니다.</PRFCoolDSU.description>
   <PRF_MiniHelperAtomic.label>작은 림아토믹 스테이션</PRF_MiniHelperAtomic.label>
   <PRF_MiniHelperAtomic.description>림아토믹용 작은 원자 작업장 도우미는 원자로에 연료를 주입하고 관리하며 전원 관리, 운반, 핵, 소방을 할 수 있습니다.</PRF_MiniHelperAtomic.description>
   <PRF_MiniHelperFishing.label>작은 낚시 스테이션</PRF_MiniHelperFishing.label>

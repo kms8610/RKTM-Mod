@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EVOR_Hediff_Abd_ThirdLung.label>추가 나노필터 폐</EVOR_Hediff_Abd_ThirdLung.label>
+  <EVOR_Hediff_Abd_ThirdLung.labelNoun>추가 나노필터 폐</EVOR_Hediff_Abd_ThirdLung.labelNoun>
+  <EVOR_Hediff_Abd_ThirdLung.description>일반 폐보다 약간 더 효율적이지만, 이 폐에는 많은 양의 공기 중 독소를 처리할 수 있는 일련의 필터가 장착되어 있습니다.</EVOR_Hediff_Abd_ThirdLung.description>
+  <EVOR_Hediff_Abd_SecondHeart.label>보조 심장</EVOR_Hediff_Abd_SecondHeart.label>
+  <EVOR_Hediff_Abd_SecondHeart.labelNoun>보조 심장</EVOR_Hediff_Abd_SecondHeart.labelNoun>
+  <EVOR_Hediff_Abd_SecondHeart.description>이 보조 심장은 인체의 산소 포화량을 증가시켜 더 효율적으로 일을 할 수 있게 해줍니다.</EVOR_Hediff_Abd_SecondHeart.description>
+  <EVOR_Hediff_Abd_Combat.label>전투 혈청 분비선</EVOR_Hediff_Abd_Combat.label>
+  <EVOR_Hediff_Abd_Combat.labelNoun>전투 혈청 분비선</EVOR_Hediff_Abd_Combat.labelNoun>
+  <EVOR_Hediff_Abd_Combat.description>이 분비선은 몸에 강력한 전투약물을 주입하여 근접 전투 능력을 크게 향상시켜 줍니다.</EVOR_Hediff_Abd_Combat.description>
+  <EVOR_Hediff_Abd_Hormone.label>호르몬 조절기</EVOR_Hediff_Abd_Hormone.label>
+  <EVOR_Hediff_Abd_Hormone.labelNoun>호르몬 조절기</EVOR_Hediff_Abd_Hormone.labelNoun>
+  <EVOR_Hediff_Abd_Hormone.description>이 분비선은 피시술자의 기분을 조절하여, 그들의 마음이 쉽게 꺾이지 않도록 합니다.</EVOR_Hediff_Abd_Hormone.description>
+  <EVOR_Hediff_Abd_Lymph.label>림프구 증식기</EVOR_Hediff_Abd_Lymph.label>
+  <EVOR_Hediff_Abd_Lymph.labelNoun>림프구 증식기</EVOR_Hediff_Abd_Lymph.labelNoun>
+  <EVOR_Hediff_Abd_Lymph.description>이 분비선은 피시술자의 면역 능력을 크게 향상시키며, 대부분의 질병에 대한 면역력을 부여합니다.</EVOR_Hediff_Abd_Lymph.description>
+  <EVOR_Hediff_Back_Wing.label>깃털 날개</EVOR_Hediff_Back_Wing.label>
+  <EVOR_Hediff_Back_Wing.labelNoun>깃털 날개</EVOR_Hediff_Back_Wing.labelNoun>
+  <EVOR_Hediff_Back_Wing.description>우리는 날갯짓을 할 수 있을만큼 강력하지만, 일상 생활을 방해하지 않을만큼 작은 날개를 만들어 빠르게 속도를 높일 수 있는 방법을 만들었습니다.</EVOR_Hediff_Back_Wing.description>
+  <EVOR_Hediff_Back_Hand.label>촉수 뭉치</EVOR_Hediff_Back_Hand.label>
+  <EVOR_Hediff_Back_Hand.labelNoun>촉수 뭉치</EVOR_Hediff_Back_Hand.labelNoun>
+  <EVOR_Hediff_Back_Hand.description>등에 추가된 작은 촉수들이 작업능력을 향상시켜줍니다.</EVOR_Hediff_Back_Hand.description>
+  <EVOR_Hediff_Back_Muscle.label>근육 교정기</EVOR_Hediff_Back_Muscle.label>
+  <EVOR_Hediff_Back_Muscle.labelNoun>근육 교정기</EVOR_Hediff_Back_Muscle.labelNoun>
+  <EVOR_Hediff_Back_Muscle.description>추가적인 근육 뭉치를 더하고, 연결하는 뼈를 지지하여, 피시술자는 더 강하게 공격하고 더 많이 운반할 수 있습니다.</EVOR_Hediff_Back_Muscle.description>
+  <EVOR_Hediff_Brain_Hyper.label>신경 하이퍼스레더</EVOR_Hediff_Brain_Hyper.label>
+  <EVOR_Hediff_Brain_Hyper.labelNoun>신경 하이퍼스레더</EVOR_Hediff_Brain_Hyper.labelNoun>
+  <EVOR_Hediff_Brain_Hyper.description>극단적인 두개골 재설계를 통해 피시술자는 이제 복합적인 생각을 하는 동시에 모든 생각에 집중할 수 있게 하여, 피시술자의 능력을 크게 향상시킵니다.</EVOR_Hediff_Brain_Hyper.description>
+  <EVOR_Hediff_Brain_Nails.label>도살자의 손톱</EVOR_Hediff_Brain_Nails.label>
+  <EVOR_Hediff_Brain_Nails.labelNoun>도살자의 손톱</EVOR_Hediff_Brain_Nails.labelNoun>
+  <EVOR_Hediff_Brain_Nails.description><![CDATA[이 불완전한 장기는 피시술자의 잠재된 공격성을 강화해, 피시술자를 전장에서 자연의 섭리가 되도록 합니다. 하지만 그들의<color=#EB4034>끊임없는 피의 갈망</color>은 그들을 매우 난폭하게 만듭니다. <color=#EB4034>사용에 주의가 필요합니다.</color>]]></EVOR_Hediff_Brain_Nails.description>
+  <EVOR_Hediff_Damage_Sonic.label>음파 피해</EVOR_Hediff_Damage_Sonic.label>
+  <EVOR_Hediff_Damage_Sonic.description>큰 소리로 인한 방향감 상실</EVOR_Hediff_Damage_Sonic.description>
+  <EVOR_Hediff_Damage_Sonic.stages.0.label>초기</EVOR_Hediff_Damage_Sonic.stages.0.label>
+  <EVOR_Hediff_Damage_Sonic.stages.1.label>초기</EVOR_Hediff_Damage_Sonic.stages.1.label>
+  <EVOR_Hediff_Damage_Sonic.stages.2.label>가벼움</EVOR_Hediff_Damage_Sonic.stages.2.label>
+  <EVOR_Hediff_Damage_Sonic.stages.3.label>진행됨</EVOR_Hediff_Damage_Sonic.stages.3.label>
+  <EVOR_Hediff_Damage_Sonic.stages.4.label>높음</EVOR_Hediff_Damage_Sonic.stages.4.label>
+  <EVOR_Hediff_Skull_Shielding.label>간섭 차폐막</EVOR_Hediff_Skull_Shielding.label>
+  <EVOR_Hediff_Skull_Shielding.labelNoun>간섭 차폐막</EVOR_Hediff_Skull_Shielding.labelNoun>
+  <EVOR_Hediff_Skull_Shielding.description>정신적 효과에 저항력이 있는 물질을 사용함으로써, 우리는 피시술자의 뇌 주위에 페러데이 새장을 만들어 어떤 정신적 충격도 견디게 할 수 있습니다.</EVOR_Hediff_Skull_Shielding.description>
+  <EVOR_Hediff_Skull_Plating.label>두개골 도금판</EVOR_Hediff_Skull_Plating.label>
+  <EVOR_Hediff_Skull_Plating.labelNoun>두개골 도금판</EVOR_Hediff_Skull_Plating.labelNoun>
+  <EVOR_Hediff_Skull_Plating.description>두개골의 탄력성을 높이면, 뇌 손상이 훨씬 더 어려워집니다.</EVOR_Hediff_Skull_Plating.description>
+  <EVOR_Hediff_Jaw_Distend.label>확장 가능한 턱</EVOR_Hediff_Jaw_Distend.label>
+  <EVOR_Hediff_Jaw_Distend.labelNoun>확장 가능한 턱</EVOR_Hediff_Jaw_Distend.labelNoun>
+  <EVOR_Hediff_Jaw_Distend.description>턱이 두개골과 분리가 되도록 하여 강력하게 물어뜯을 수 있도록 할 뿐 아니라, 이 턱은 피시술자가 빠른 속도로 음식을 섭취할 수 있도록 합니다.</EVOR_Hediff_Jaw_Distend.description>
+  <EVOR_Hediff_Jaw_Venom.label>독 송곳니</EVOR_Hediff_Jaw_Venom.label>
+  <EVOR_Hediff_Jaw_Venom.labelNoun>독 송곳니</EVOR_Hediff_Jaw_Venom.labelNoun>
+  <EVOR_Hediff_Jaw_Venom.description>치명적인 독을 생산하고 적에게 주입할 수 있게 함으로, 정착민들이 어떠한 상황 속에서도 숨겨진 무기를 가질 수 있습니다.</EVOR_Hediff_Jaw_Venom.description>
+  <EVOR_Hediff_Leg_Normal.label>강화된 다리</EVOR_Hediff_Leg_Normal.label>
+  <EVOR_Hediff_Leg_Normal.labelNoun>강화된 다리</EVOR_Hediff_Leg_Normal.labelNoun>
+  <EVOR_Hediff_Leg_Normal.description>근육과 뼈를 강화함으로써, 우리는 더 많은 무게의 짐과 속도가 가능한 다리를 만들 수 있게 되었습니다.</EVOR_Hediff_Leg_Normal.description>
+  <EVOR_Hediff_Leg_Hand.label>붙잡는 다리</EVOR_Hediff_Leg_Hand.label>
+  <EVOR_Hediff_Leg_Hand.labelNoun>붙잡는 다리</EVOR_Hediff_Leg_Hand.labelNoun>
+  <EVOR_Hediff_Leg_Hand.description>우리의 유전적인 친척을 모방함으로써, 우리는 다리와 팔 역할을 할 수 있는 팔다리를 만들 수 있습니다.</EVOR_Hediff_Leg_Hand.description>
+  <EVOR_Hediff_Leg_Blade.label>골화된 칼날 다리</EVOR_Hediff_Leg_Blade.label>
+  <EVOR_Hediff_Leg_Blade.labelNoun>골화된 칼날 다리</EVOR_Hediff_Leg_Blade.labelNoun>
+  <EVOR_Hediff_Leg_Blade.description>뼈로 된 칼날을 복제하여 다리에 부착하고, 걷기에 도움이 되는 추가 신경 다발을 생성하여 팔 버전보다 약간 부족한 칼날 다리를 만들 수 있습니다.</EVOR_Hediff_Leg_Blade.description>
+  <EVOR_Hediff_Eye.label>다중 스펙트럼 눈</EVOR_Hediff_Eye.label>
+  <EVOR_Hediff_Eye.labelNoun>다중 스펙트럼 눈</EVOR_Hediff_Eye.labelNoun>
+  <EVOR_Hediff_Eye.description>자외선 및 적외선 스펙트럼의 빛을 모을 수 있는 세포를 통합함으로써, 이 눈은 피시술자에게 훨씬 넓은 공간 인식을 가능하게 합니다.</EVOR_Hediff_Eye.description>
+  <EVOR_Hediff_Nose.label>미세분석 코</EVOR_Hediff_Nose.label>
+  <EVOR_Hediff_Nose.labelNoun>미세분석 코</EVOR_Hediff_Nose.labelNoun>
+  <EVOR_Hediff_Nose.description>특정 중요한 분자 전용 세포의 양을 늘리면, 불어오는 바람에서 특정한 냄새를 더 쉽게 분석할 수 있습니다.</EVOR_Hediff_Nose.description>
+  <EVOR_Hediff_Nose_Pheromones.label>페로몬 방출 코</EVOR_Hediff_Nose_Pheromones.label>
+  <EVOR_Hediff_Nose_Pheromones.labelNoun>페로몬 방출 코</EVOR_Hediff_Nose_Pheromones.labelNoun>
+  <EVOR_Hediff_Nose_Pheromones.description>코의 기저부에 특수 페로몬 샘을 더해 피시술자와 대화하는 상대의 성향을 약간 바꿀 수 있게 만듭니다.</EVOR_Hediff_Nose_Pheromones.description>
+  <EVOR_Hediff_Ear.label>다주파 귀</EVOR_Hediff_Ear.label>
+  <EVOR_Hediff_Ear.labelNoun>다주파 귀</EVOR_Hediff_Ear.labelNoun>
+  <EVOR_Hediff_Ear.description>들을 수 있는 주파수의 범위를 늘리고, 피시술자가 일시적으로 하나의 주파수에 집중할 수 있도록 함으로써, 이러한 귀들은 피시술자에게 주변 소리에 대한 완전한 지식을 제공합니다.</EVOR_Hediff_Ear.description>
+  <EVOR_Hediff_Spine.label>신경 가속 척추</EVOR_Hediff_Spine.label>
+  <EVOR_Hediff_Spine.labelNoun>신경 가속 척추</EVOR_Hediff_Spine.labelNoun>
+  <EVOR_Hediff_Spine.description>길라 코팅은 신호 전송 속도를 수십 배 증가시키는 반면, 더 중요한 것은 척수가 낮은 긴급 신호를 자체적으로 처리하여 뇌의 부하를 낮출 수 있는 2차 처리 결절입니다.</EVOR_Hediff_Spine.description>
+  <EVOR_Hediff_Primary_NormalArm.label>여분의 팔</EVOR_Hediff_Primary_NormalArm.label>
+  <EVOR_Hediff_Primary_NormalArm.labelNoun>여분의 팔</EVOR_Hediff_Primary_NormalArm.labelNoun>
+  <EVOR_Hediff_Primary_NormalArm.description>팔 전체의 근육을 강화하고, 미세한 신경 조절을 증가시킴으로써, 팔의 전체적인 성능이 향상됩니다.</EVOR_Hediff_Primary_NormalArm.description>
+  <EVOR_Hediff_Primary_BoneSaber.label>골화된 칼날 팔</EVOR_Hediff_Primary_BoneSaber.label>
+  <EVOR_Hediff_Primary_BoneSaber.labelNoun>골화된 칼날 팔</EVOR_Hediff_Primary_BoneSaber.labelNoun>
+  <EVOR_Hediff_Primary_BoneSaber.description>부자연스럽게 날카롭게 유지되는 예리한 뼈를 성장시키게 만들어, 어떤 검보다 더 치명적인 부속물을 만들 수 있습니다.</EVOR_Hediff_Primary_BoneSaber.description>
+  <EVOR_Hediff_Primary_HighPincer.label>고압 집게</EVOR_Hediff_Primary_HighPincer.label>
+  <EVOR_Hediff_Primary_HighPincer.labelNoun>고압 집게</EVOR_Hediff_Primary_HighPincer.labelNoun>
+  <EVOR_Hediff_Primary_HighPincer.description>이 사지의 손톱은 가장 단단한 키틴으로 만들어졌으며, 대부분의 동물 턱보다 강한 근육으로 뒷받침됩니다. 최종 결과는 금속을 비틀어 내부를 파괴할 수있는 집게입니다.</EVOR_Hediff_Primary_HighPincer.description>
+  <EVOR_Hediff_Primary_SonicMace.label>음파 충격 메이스</EVOR_Hediff_Primary_SonicMace.label>
+  <EVOR_Hediff_Primary_SonicMace.labelNoun>음파 충격 메이스</EVOR_Hediff_Primary_SonicMace.labelNoun>
+  <EVOR_Hediff_Primary_SonicMace.description>이 팔은 소리를 증폭시키는 역할을 하는 복잡한 일련의 구멍이 있는 강화된 뼈 덩어리로 만들어집니다. 결과: 충격시 방향을 잃는 큰 음파를 생성하는 메이스.</EVOR_Hediff_Primary_SonicMace.description>
+  <EVOR_Hediff_Primary_PlatedLimb.label>삼중 강판 팔</EVOR_Hediff_Primary_PlatedLimb.label>
+  <EVOR_Hediff_Primary_PlatedLimb.labelNoun>삼중 강판 팔</EVOR_Hediff_Primary_PlatedLimb.labelNoun>
+  <EVOR_Hediff_Primary_PlatedLimb.description>팔다리의 조작 능력을 줄이는 대가로, 대량의 키틴 도금이 추가되어 사용자가 다른 방법으로 치명적인 타격을 가할 수 있습니다.</EVOR_Hediff_Primary_PlatedLimb.description>
+  <EVOR_Hediff_Primary_RendingClaw.label>찢는 발톱</EVOR_Hediff_Primary_RendingClaw.label>
+  <EVOR_Hediff_Primary_RendingClaw.labelNoun>찢는 발톱</EVOR_Hediff_Primary_RendingClaw.labelNoun>
+  <EVOR_Hediff_Primary_RendingClaw.description>조작 능력은 여분의 팔보다 적게 증가시키지만, 날카로운 발톱은 사용자의 반격 능력도 증가시킵니다.</EVOR_Hediff_Primary_RendingClaw.description>
+  <EVOR_Hediff_Heart.label>삼중 주 심장</EVOR_Hediff_Heart.label>
+  <EVOR_Hediff_Heart.labelNoun>삼중 주 심장</EVOR_Hediff_Heart.labelNoun>
+  <EVOR_Hediff_Heart.description>근육계를 한 방향이 아닌 세 방향으로 엮음으로써 혈류량을 더 잘 조절할 수 있을뿐만 아니라, 여분의 근육으로 인해 매우 효율적이 되었습니다.</EVOR_Hediff_Heart.description>
+  <EVOR_Hediff_Kidney.label>삼중 필터 신장</EVOR_Hediff_Kidney.label>
+  <EVOR_Hediff_Kidney.labelNoun>삼중 필터 신장</EVOR_Hediff_Kidney.labelNoun>
+  <EVOR_Hediff_Kidney.description>혈액이 다른 기능의 저하 없이 세 번 여과되는 독창적인 시스템을 만들어 신장의 성능을 대폭 향상시킵니다.</EVOR_Hediff_Kidney.description>
+  <EVOR_Hediff_Lung.label>나노 폐포 폐</EVOR_Hediff_Lung.label>
+  <EVOR_Hediff_Lung.labelNoun>나노 폐포 폐</EVOR_Hediff_Lung.labelNoun>
+  <EVOR_Hediff_Lung.description>폐포의 크기를 전례없는 크기로 줄임으로써, 폐의 내부 가스 전달 영역이 크게 증가할 뿐만 아니라 공기 중의 독소가 혈액으로 들어가는 것이 더 어려워졌습니다.</EVOR_Hediff_Lung.description>
+  <EVOR_Hediff_Stomach.label>다중 위장</EVOR_Hediff_Stomach.label>
+  <EVOR_Hediff_Stomach.labelNoun>다중 위장</EVOR_Hediff_Stomach.labelNoun>
+  <EVOR_Hediff_Stomach.description>전문화된 각기 다른 위장들로 소화를 분담하게 만듬으로써 음식에서 흡수하는 영양소의 양을 급격히 증가시키고, 소화 단계를 분리해서 소화 속도를 증가시킵니다.</EVOR_Hediff_Stomach.description>
+  <EVOR_Hediff_Liver.label>사방형 간</EVOR_Hediff_Liver.label>
+  <EVOR_Hediff_Liver.labelNoun>사방형 간</EVOR_Hediff_Liver.labelNoun>
+  <EVOR_Hediff_Liver.description>간 세포의 밀도를 2배 증가시킴으로써, 독립적으로 작용하는 엽을 두 배로 늘려 간의 기능을 향상시킬 수 있습니다.</EVOR_Hediff_Liver.description>
+  <EVOR_Hediff_Secondary_NormalArm.label>여분의 팔</EVOR_Hediff_Secondary_NormalArm.label>
+  <EVOR_Hediff_Secondary_NormalArm.labelNoun>여분의 팔</EVOR_Hediff_Secondary_NormalArm.labelNoun>
+  <EVOR_Hediff_Secondary_NormalArm.description>팔 전체의 근육을 강화하고, 미세한 신경 조절을 증가시킴으로써, 팔의 전체적인 성능이 향상됩니다.</EVOR_Hediff_Secondary_NormalArm.description>
+  <EVOR_Hediff_Secondary_BoneSaber.label>골화된 칼날 팔</EVOR_Hediff_Secondary_BoneSaber.label>
+  <EVOR_Hediff_Secondary_BoneSaber.labelNoun>골화된 칼날 팔</EVOR_Hediff_Secondary_BoneSaber.labelNoun>
+  <EVOR_Hediff_Secondary_BoneSaber.description>부자연스럽게 날카롭게 유지되는 예리한 뼈를 성장시키게 만들어, 어떤 검보다 더 치명적인 부속물을 만들 수 있습니다.</EVOR_Hediff_Secondary_BoneSaber.description>
+  <EVOR_Hediff_Secondary_HighPincer.label>고압 집게</EVOR_Hediff_Secondary_HighPincer.label>
+  <EVOR_Hediff_Secondary_HighPincer.labelNoun>고압 집게</EVOR_Hediff_Secondary_HighPincer.labelNoun>
+  <EVOR_Hediff_Secondary_HighPincer.description>이 사지의 손톱은 가장 단단한 키틴으로 만들어졌으며, 대부분의 동물 턱보다 강한 근육으로 뒷받침됩니다. 최종 결과는 금속을 비틀어 내부를 파괴할 수있는 집게입니다.</EVOR_Hediff_Secondary_HighPincer.description>
+  <EVOR_Hediff_Secondary_SonicMace.label>음파 충격 메이스</EVOR_Hediff_Secondary_SonicMace.label>
+  <EVOR_Hediff_Secondary_SonicMace.labelNoun>음파 충격 메이스</EVOR_Hediff_Secondary_SonicMace.labelNoun>
+  <EVOR_Hediff_Secondary_SonicMace.description>이 팔은 소리를 증폭시키는 역할을 하는 복잡한 일련의 구멍이 있는 강화된 뼈 덩어리로 만들어집니다. 결과: 충격시 방향을 잃는 큰 음파를 생성하는 메이스.</EVOR_Hediff_Secondary_SonicMace.description>
+  <EVOR_Hediff_Secondary_PlatedLimb.label>삼중 강판 팔</EVOR_Hediff_Secondary_PlatedLimb.label>
+  <EVOR_Hediff_Secondary_PlatedLimb.labelNoun>삼중 강판 팔</EVOR_Hediff_Secondary_PlatedLimb.labelNoun>
+  <EVOR_Hediff_Secondary_PlatedLimb.description>팔다리의 조작 능력을 줄이는 대가로, 대량의 키틴 도금이 추가되어 사용자가 다른 방법으로 치명적인 타격을 가할 수 있습니다.</EVOR_Hediff_Secondary_PlatedLimb.description>
+  <EVOR_Hediff_Secondary_RendingClaw.label>찢는 발톱</EVOR_Hediff_Secondary_RendingClaw.label>
+  <EVOR_Hediff_Secondary_RendingClaw.labelNoun>찢는 발톱</EVOR_Hediff_Secondary_RendingClaw.labelNoun>
+  <EVOR_Hediff_Secondary_RendingClaw.description>조작 능력은 여분의 팔보다 적게 증가시키지만, 날카로운 발톱은 사용자의 반격 능력도 증가시킵니다.</EVOR_Hediff_Secondary_RendingClaw.description>
+  <EVOR_Hediff_Skin_Plating.label>다층 피부 강판</EVOR_Hediff_Skin_Plating.label>
+  <EVOR_Hediff_Skin_Plating.labelNoun>다층 피부 강판</EVOR_Hediff_Skin_Plating.labelNoun>
+  <EVOR_Hediff_Skin_Plating.description>피부 밑에 키틴질 층을 두르고 그 사이를 고무같은 살덩이로 채워 소형 화기에 대한 저항력을 크게 증가하게 만듭니다.</EVOR_Hediff_Skin_Plating.description>
+  <EVOR_Hediff_Skin_Flame.label>내화성 피부</EVOR_Hediff_Skin_Flame.label>
+  <EVOR_Hediff_Skin_Flame.labelNoun>내화성 피부</EVOR_Hediff_Skin_Flame.labelNoun>
+  <EVOR_Hediff_Skin_Flame.description>몸에 난연성 점액을 빠르게 방출하고 열을 분산할 수 있는 땀샘으로 피부를 둘러, 피시술자는 극단적으로 열과 화염에 대한 저항력을 가질 수 있습니다.</EVOR_Hediff_Skin_Flame.description>
+  <EVOR_Hediff_Skin_Insulation.label>가변형 단열 피부</EVOR_Hediff_Skin_Insulation.label>
+  <EVOR_Hediff_Skin_Insulation.labelNoun>가변형 단열 피부</EVOR_Hediff_Skin_Insulation.labelNoun>
+  <EVOR_Hediff_Skin_Insulation.description>열을 유지하거나 방출할 수 있는 다량의 땀샘과 머리카락으로 피부를 생성함으로써, 사용자는 광범위한 온도 범위에서 편안함을 느낄 수 있습니다.</EVOR_Hediff_Skin_Insulation.description>
+  <EVOR_Hediff_Ribcage.label>칼슘 합금 갈비뼈</EVOR_Hediff_Ribcage.label>
+  <EVOR_Hediff_Ribcage.labelNoun>칼슘 합금 갈비뼈</EVOR_Hediff_Ribcage.labelNoun>
+  <EVOR_Hediff_Ribcage.description>늑골의 구성을 칼슘/금속 합금으로 변경하고 상체를 유기 고무 유사체로 감싸면 상체의 내구성이 크게 향상됩니다.</EVOR_Hediff_Ribcage.description>
+  <EVOR_Hediff_Tail_Blade.label>톱니형 쐐기 꼬리</EVOR_Hediff_Tail_Blade.label>
+  <EVOR_Hediff_Tail_Blade.labelNoun>톱니형 쐐기 꼬리</EVOR_Hediff_Tail_Blade.labelNoun>
+  <EVOR_Hediff_Tail_Blade.description>새로운 사지에 뼈 칼날을 만드는 것과 같은 원리를 적용하여, 우리는 극단적으로 치명적인 꼬리를 만들 수 있습니다.</EVOR_Hediff_Tail_Blade.description>
+  <EVOR_Hediff_Tail_Hand.label>조작 꼬리</EVOR_Hediff_Tail_Hand.label>
+  <EVOR_Hediff_Tail_Hand.labelNoun>조작 꼬리</EVOR_Hediff_Tail_Hand.labelNoun>
+  <EVOR_Hediff_Tail_Hand.description>정상적인 손과 똑같은 신경과 근육의 큰 덩어리로, 이 꼬리는 피시술자가 육체 노동을 할 때 더 많은 선택권을 가질 수 있도록 해 줍니다.</EVOR_Hediff_Tail_Hand.description>
+  <EVOR_Hediff_ReproductiveOrgans.label>효율적인 교미용 신체 부위</EVOR_Hediff_ReproductiveOrgans.label>
+  <EVOR_Hediff_ReproductiveOrgans.description>나는 이것이 자연이 당신에게 준 것보다 훨씬 더 좋게 만드는 "특징"이 무엇인지 상상조차 할 수 없습니다.</EVOR_Hediff_ReproductiveOrgans.description>
+  <EVOR_Hediff_Leg_Swim.label>소수성 물갈퀴 다리</EVOR_Hediff_Leg_Swim.label>
+  <EVOR_Hediff_Leg_Swim.description>가볍고 내구성이 좋은 세포 그물망을 제작함으로써, 우리는 쉽게 찢어지지 않는 물갈퀴가 붙은 다리를 만들 수 있게 되었습니다.</EVOR_Hediff_Leg_Swim.description>
+  <EVOR_Hediff_Abd_Rad.label>방사선 억제기</EVOR_Hediff_Abd_Rad.label>
+  <EVOR_Hediff_Abd_Rad.description>방사선에 손상된 세포를 격리하고 조사된 조직을 여과하며 대체하는 보호 단백질을 방출하기 위해 개발된 기관입니다.</EVOR_Hediff_Abd_Rad.description>
+  <EVOR_Hediff_Primary_MaggotBolter.label>포식형 구더기 발사기</EVOR_Hediff_Primary_MaggotBolter.label>
+  <EVOR_Hediff_Primary_MaggotBolter.labelNoun>포식형 구더기 발사기</EVOR_Hediff_Primary_MaggotBolter.labelNoun>
+  <EVOR_Hediff_Primary_MaggotBolter.comps.0.verbs.0.label>포식형 구더기 발사기</EVOR_Hediff_Primary_MaggotBolter.comps.0.verbs.0.label>
+  <EVOR_Hediff_Primary_MaggotBolter.comps.0.verbsProperties.0.label>포식형 구더기 발사기</EVOR_Hediff_Primary_MaggotBolter.comps.0.verbsProperties.0.label>
+  <EVOR_Hediff_Primary_MaggotBolter.comps.0.verbsProperties.0.description>포식형 구더기 발사기입니다.</EVOR_Hediff_Primary_MaggotBolter.comps.0.verbsProperties.0.description>
+  <EVOR_Hediff_Primary_MaggotBolter.description>빠르게 성장하는 구더기 변종을 만들어 우리의 몸에 적응시킴으로써, 우리는 그 구더기들을 우리의 생물 무기의 탄환처럼 사용할 수 있습니다.</EVOR_Hediff_Primary_MaggotBolter.description>
+  <EVOR_Hediff_Secondary_MaggotBolter.label>포식형 구더기 발사기</EVOR_Hediff_Secondary_MaggotBolter.label>
+  <EVOR_Hediff_Secondary_MaggotBolter.labelNoun>포식형 구더기 발사기</EVOR_Hediff_Secondary_MaggotBolter.labelNoun>
+  <EVOR_Hediff_Secondary_MaggotBolter.comps.0.verbs.0.label>포식형 구더기 발사기</EVOR_Hediff_Secondary_MaggotBolter.comps.0.verbs.0.label>
+  <EVOR_Hediff_Secondary_MaggotBolter.comps.0.verbsProperties.0.label>포식형 구더기 발사기</EVOR_Hediff_Secondary_MaggotBolter.comps.0.verbsProperties.0.label>
+  <EVOR_Hediff_Secondary_MaggotBolter.comps.0.verbsProperties.0.description>포식형 구더기 발사기입니다.</EVOR_Hediff_Secondary_MaggotBolter.comps.0.verbsProperties.0.description>
+  <EVOR_Hediff_Secondary_MaggotBolter.description>빠르게 성장하는 구더기 변종을 만들어 우리의 몸에 적응시킴으로써, 우리는 그 구더기들을 우리의 생물 무기의 탄환처럼 사용할 수 있습니다.</EVOR_Hediff_Secondary_MaggotBolter.description>
+  <EVOR_Hediff_Primary_VenomCrystal.label>독성 결정체 대포</EVOR_Hediff_Primary_VenomCrystal.label>
+  <EVOR_Hediff_Primary_VenomCrystal.labelNoun>독성 결정체 대포</EVOR_Hediff_Primary_VenomCrystal.labelNoun>
+  <EVOR_Hediff_Primary_VenomCrystal.comps.0.verbs.0.label>독성 결정체 대포</EVOR_Hediff_Primary_VenomCrystal.comps.0.verbs.0.label>
+  <EVOR_Hediff_Primary_VenomCrystal.comps.0.verbsProperties.0.label>독성 결정체 대포</EVOR_Hediff_Primary_VenomCrystal.comps.0.verbsProperties.0.label>
+  <EVOR_Hediff_Primary_VenomCrystal.comps.0.verbsProperties.0.description>독성 결정체 대포입니다.</EVOR_Hediff_Primary_VenomCrystal.comps.0.verbsProperties.0.description>
+  <EVOR_Hediff_Primary_VenomCrystal.description>이 대포에서 발사된 결정체는 단단한 독 덩어리로 만들어져 있습니다. 이 결정체는 가장 단단한 갑옷도 뚫고 들어가 그 안에 있는 것이 어떤 것이든 먹어치울 수 있습니다.</EVOR_Hediff_Primary_VenomCrystal.description>
+  <EVOR_Hediff_Secondary_VenomCrystal.label>독성 결정체 대포</EVOR_Hediff_Secondary_VenomCrystal.label>
+  <EVOR_Hediff_Secondary_VenomCrystal.labelNoun>독성 결정체 대포</EVOR_Hediff_Secondary_VenomCrystal.labelNoun>
+  <EVOR_Hediff_Secondary_VenomCrystal.comps.0.verbs.0.label>독성 결정체 대포</EVOR_Hediff_Secondary_VenomCrystal.comps.0.verbs.0.label>
+  <EVOR_Hediff_Secondary_VenomCrystal.comps.0.verbsProperties.0.label>독성 결정체 대포</EVOR_Hediff_Secondary_VenomCrystal.comps.0.verbsProperties.0.label>
+  <EVOR_Hediff_Secondary_VenomCrystal.comps.0.verbsProperties.0.description>독성 결정체 대포입니다.</EVOR_Hediff_Secondary_VenomCrystal.comps.0.verbsProperties.0.description>
+  <EVOR_Hediff_Secondary_VenomCrystal.description>이 대포에서 발사된 결정체는 단단한 독 덩어리로 만들어져 있습니다. 이 결정체는 가장 단단한 갑옷도 뚫고 들어가 그 안에 있는 것이 어떤 것이든 먹어치울 수 있습니다.</EVOR_Hediff_Secondary_VenomCrystal.description>
+  <EVOR_Hediff_Primary_CryoSlime.label>극저온 점액질 대포</EVOR_Hediff_Primary_CryoSlime.label>
+  <EVOR_Hediff_Primary_CryoSlime.labelNoun>극저온 점액질 대포</EVOR_Hediff_Primary_CryoSlime.labelNoun>
+  <EVOR_Hediff_Primary_CryoSlime.comps.0.verbs.0.label>극저온 점액질 대포</EVOR_Hediff_Primary_CryoSlime.comps.0.verbs.0.label>
+  <EVOR_Hediff_Primary_CryoSlime.comps.0.verbsProperties.0.label>극저온 점액질 대포</EVOR_Hediff_Primary_CryoSlime.comps.0.verbsProperties.0.label>
+  <EVOR_Hediff_Primary_CryoSlime.comps.0.verbsProperties.0.description>극저온 점액질 대포입니다.</EVOR_Hediff_Primary_CryoSlime.comps.0.verbsProperties.0.description>
+  <EVOR_Hediff_Primary_CryoSlime.description>이 팔-화기는 세심하게 냉각된 체액을 발사합니다. 충격량에 따라 신속하게 목표물을 냉각시키거나, 일부의 경우에는 적에게 뼛속까지 시리게 합니다.</EVOR_Hediff_Primary_CryoSlime.description>
+  <EVOR_Hediff_Secondary_CryoSlime.label>극저온 점액질 대포</EVOR_Hediff_Secondary_CryoSlime.label>
+  <EVOR_Hediff_Secondary_CryoSlime.labelNoun>극저온 점액질 대포</EVOR_Hediff_Secondary_CryoSlime.labelNoun>
+  <EVOR_Hediff_Secondary_CryoSlime.comps.0.verbs.0.label>극저온 점액질 대포</EVOR_Hediff_Secondary_CryoSlime.comps.0.verbs.0.label>
+  <EVOR_Hediff_Secondary_CryoSlime.comps.0.verbsProperties.0.label>극저온 점액질 대포</EVOR_Hediff_Secondary_CryoSlime.comps.0.verbsProperties.0.label>
+  <EVOR_Hediff_Secondary_CryoSlime.comps.0.verbsProperties.0.description>극저온 점액질 대포입니다.</EVOR_Hediff_Secondary_CryoSlime.comps.0.verbsProperties.0.description>
+  <EVOR_Hediff_Secondary_CryoSlime.description>이 팔-화기는 세심하게 냉각된 체액을 발사합니다. 충격량에 따라 신속하게 목표물을 냉각시키거나, 일부의 경우에는 적에게 뼛속까지 시리게 합니다.</EVOR_Hediff_Secondary_CryoSlime.description>
+  <EVOR_Hediff_Primary_ImpulseShock.label>충격 방출기</EVOR_Hediff_Primary_ImpulseShock.label>
+  <EVOR_Hediff_Primary_ImpulseShock.labelNoun>충격 방출기</EVOR_Hediff_Primary_ImpulseShock.labelNoun>
+  <EVOR_Hediff_Primary_ImpulseShock.comps.0.verbs.0.label>충격 방출기</EVOR_Hediff_Primary_ImpulseShock.comps.0.verbs.0.label>
+  <EVOR_Hediff_Primary_ImpulseShock.comps.0.verbsProperties.0.label>충격 방출기</EVOR_Hediff_Primary_ImpulseShock.comps.0.verbsProperties.0.label>
+  <EVOR_Hediff_Primary_ImpulseShock.comps.0.verbsProperties.0.description>충격 방출기입니다.</EVOR_Hediff_Primary_ImpulseShock.comps.0.verbsProperties.0.description>
+  <EVOR_Hediff_Primary_ImpulseShock.description>치명적인 충격 대신, 이 팔다리에서 발사된 전기 봉은 유기적인 목표나 기계적인 목표나 동등하게 무력화시킵니다.</EVOR_Hediff_Primary_ImpulseShock.description>
+  <EVOR_Hediff_Secondary_ImpulseShock.label>충격 방출기</EVOR_Hediff_Secondary_ImpulseShock.label>
+  <EVOR_Hediff_Secondary_ImpulseShock.labelNoun>충격 방출기</EVOR_Hediff_Secondary_ImpulseShock.labelNoun>
+  <EVOR_Hediff_Secondary_ImpulseShock.comps.0.verbs.0.label>충격 방출기</EVOR_Hediff_Secondary_ImpulseShock.comps.0.verbs.0.label>
+  <EVOR_Hediff_Secondary_ImpulseShock.comps.0.verbsProperties.0.label>충격 방출기</EVOR_Hediff_Secondary_ImpulseShock.comps.0.verbsProperties.0.label>
+  <EVOR_Hediff_Secondary_ImpulseShock.comps.0.verbsProperties.0.description>충격 방출기입니다.</EVOR_Hediff_Secondary_ImpulseShock.comps.0.verbsProperties.0.description>
+  <EVOR_Hediff_Secondary_ImpulseShock.description>치명적인 충격 대신, 이 팔다리에서 발사된 전기 봉은 유기적인 목표나 기계적인 목표나 동등하게 무력화시킵니다.</EVOR_Hediff_Secondary_ImpulseShock.description>
+</LanguageData>

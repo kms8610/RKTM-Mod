@@ -17,10 +17,6 @@
   <Inventory.label>인벤토리</Inventory.label>
   <Inventory.description>정착지에 저장된 모든 항목을 표시합니다.</Inventory.description>
 
-  <!--1573233249_190616_Desynchronized: Tales and News (v1.6.2)-->
-  <DesynchronizedTab.label>소식</DesynchronizedTab.label>
-  <DesynchronizedTab.description>정착지에서 소식이 어떻게 순환되고 있는지에 대한 개요를 제공합니다.</DesynchronizedTab.description>
-
   <!--715565262_181031_Colony Manager-->
   <Fluffy_Manager.description>정착민들이 어떤 종류의 작업을 하고, 어떤 우선순위로 할 것인가를 정할 수 있습니다.</Fluffy_Manager.description>
   <Fluffy_Manager.label>관리자</Fluffy_Manager.label>

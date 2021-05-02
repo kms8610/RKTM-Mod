@@ -10,7 +10,6 @@
 	<li IfModActive="Ogre.OgreStack">OgreStack - 1447140290 [1.2]</li>
 	<li IfModActive="TradingControl.Common.Core">Trading Control - 2007107588 [1.2]</li>
     <li IfModActive="brrainz.cameraplus">Camera+ - 867467808 [1.2]</li>
-	<li IfModActive="brrainz.achtung">Achtung! - 730936602 [1.2]</li>
 	<li IfModActive="Albion.SparklingWorlds.Full">Sparkling Worlds - Full Mod - 1123043922 [1.2]</li>
 	<li IfModActive="machine.rtr">Raise The Roof - 1776143665 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VCookESushi">Vanilla Cooking Expanded - Sushi - 2158539170 [1.2]</li>
@@ -88,7 +87,6 @@
 	<li IfModActive="neceros.reinforcedwalls">Reinforced Walls - 1929389479 [1.2]</li>
 	<li IfModActive="ratys.rtfuse">RT Fuse - 728314182 [1.2]</li>
 	<li IfModActive="neceros.androidsexpanded">Androids Expanded - 2179977828 [1.2]</li>
-	<li IfModActive="Torann.ARimworldOfMagic">A RimWorld of Magic - 1201382956 [1.2]</li>
 	<!-- 20.09.07 -->
 	<li IfModActive="VanillaExpanded.VEE">Vanilla Events Expanded - 1938420742 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VFEProduction">Vanilla Furniture Expanded - Production - 1880253632 [1.2]</li>
@@ -106,7 +104,6 @@
 	<li IfModActive="VanillaExpanded.VWEG">Vanilla Weapons Expanded - Grenades - 2194472657 [1.2]</li>
 	<!-- 20.09.15 -->
 	<li IfModActive="fluffy.animaltab">Animal Tab - 712141500 [1.2]</li>
-	<li IfModActive="VouLT.BetterPawnControl">Better Pawn Control - 1541460369 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VPlantsESucculents">Vanilla Plants Expanded - Succulents - 2198652536 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VFEArt">Vanilla Furniture Expanded - Art - 1968134023 [1.2]</li>
 	<li IfModActive="OskarPotocki.VFE.Insectoid">Vanilla Factions Expanded - Insectoids - 2149755445 [1.2]</li>
@@ -246,7 +243,6 @@
 	<!-- 20.11.20 -->
 	<li IfModActive="vanillaexpanded.achievements">Vanilla Achievements Expanded - 2288125657 [1.2]</li>
 	<!-- 20.11.22 -->
-	<li IfModActive="UnlimitedHugs.HugsLib">HugsLib - 818773962 [1.2]</li>
 	<li IfModActive="aRandomKiwi.RimThemes">RimThemes - 1668983184 [1.2]</li>
 	<li IfModActive="Ogliss.FeralOrkz">Playable Feral Orkz - 1543896230 [1.2]</li>
 	<!-- 20.11.25 -->
@@ -312,7 +308,6 @@
 	<!-- 2021.01.08 -->
 	<li IfModActive="VanillaExpanded.VPlantsE">Vanilla Plants Expanded - 2134308522 [1.2]</li>
     <li IfModActive="fluffy.backuppower">Backup Power - 2084493662 [1.2]</li>
-	<li IfModActive="MagAgent.EvolvedOrgansRedux1.2">EvolvedOrgansRedux - 2333818380 [1.2]</li>
 	<!-- 2021.01.11 -->
 	<li IfModActive="dismarzero.VGP.VGPGardenCanning">VGP Garden Canning - 2007062033</li>
 	<li IfModActive="Teok25.ArchotechExpanded">Archotech Expanded - 1442734859</li>
@@ -362,7 +357,6 @@
 	<!-- 2021.01.27 UPDATE -->
 	<li IfModActive="FS.ReviaRace">Revia Race - 2020041005</li>
 	<!-- 2021.01.28 -->
-	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700</li>
 	<li IfModActive="LingLuo.PlantHuman">Plant Human - 1572026865</li>
 	<!-- 2021.02.01 UPDATE -->
 	<li IfModActive="CaptainMuscles.GoToSleep">Go the F to Sleep - 2369307661</li>
@@ -414,7 +408,7 @@
 	<li IfModActive="RH.Faction.VOID">Faction VOID - 2130955778</li>
 	<li IfModActive="Kerevan.HisaFaction">Hisa Faction - 1617772184</li>
 	<li IfModActive="Dubwise.DubsMintMenus">Dubs Mint Menus - 1446523594</li>
-	<!-- 2021.04.13 -->
+	<!-- 2021.04.13 UPDATE -->
 	<li IfModActive="avius.prisonlabor">Prison Labor - 1899474310</li>
 	<li IfModActive="Oblitus.AnimalsLogic">Animals Logic - 1098354593</li>
 	<li IfModActive="EdB.PrepareCarefully">Prepare Carefully - 735106432</li>
@@ -429,6 +423,32 @@
 	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856</li>
 	<li IfModActive="VanillaExpanded.VWEMS">Vanilla Weapons Expanded - Makeshift - 2419690698</li>
 	<li IfModActive="Dubwise.Rimatomics">Rimatomics - 1127530465</li>
+	<!-- 2021.04.19 -->
+	<li IfModActive="miyamiya.compressedraid.latest">Compressed Raid - 2377478084</li>
+	<li IfModActive="Bar0th.PFC">Prepare For Combat - 1722803450</li>
+	<li IfModActive="Mlie.Desynchronized">Desynchronized Tales and News (Continued) - 2222607126</li>
+	<li IfModActive="Argon.VMEu">Expanded Materials - Metals - 2259837114</li>
+	<li IfModActive="Jaxe.PawnRules">Pawn Rules - 1499843448</li>
+	<!-- 2021.04.21 -->
+	<li IfModActive="MagAgent.EvolvedOrgansRedux1.2">EvolvedOrgansRedux - 2333818380</li>
+	<li IfModActive="impassablemapmaker.kv.rw">Impassable Map Maker - 1180719335</li>
+	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700</li>
+	<li IfModActive="CP.VOID.Storyteller">The VOID Storyteller - 2130957394</li>
+	<!-- 2021.04.24 -->
+	<li IfModActive="Alias.DegeneralizeWork">De-generalize Work - 2011655761</li>
+	<li IfModActive="Kyrun.Reunion">Reunion - 1985186461</li>
+	<li IfModActive="VouLT.BetterPawnControl">Better Pawn Control - 1541460369</li>
+	<!-- 2021.04.30 -->
+	<li IfModActive="VanillaExpanded.VWENL">Vanilla Weapons Expanded - Non-Lethal - 2454918354</li>
+	<li IfModActive="brrainz.achtung">Achtung! - 730936602</li>
+	<li IfModActive="Torann.ARimworldOfMagic">A RimWorld of Magic - 1201382956</li>
+	<!-- 2021.05.02 -->
+	<li IfModActive="CodeOptimist.JobsOfOpportunity">Jobs of Opportunity (While You're Up) - 2034960453</li>
+	<li IfModActive="UnlimitedHugs.HugsLib">HugsLib - 818773962</li>
+	<li IfModActive="velc.HatsDisplaySelection">Hats Display Selection - 1542291825</li>
+	<li IfModActive="VanillaExpanded.VWEFT">Vanilla Weapons Expanded - Frontier - 2454918139</li>
+	<li IfModActive="Crusader.CTF15">Corpse To Fuel x15 - 1760614672</li>
+	<li IfModActive="VanillaExpanded.VWETB">Vanilla Weapons Expanded - Tribal - 2454918552</li>
   </v1.2>
 
 </loadFolders>

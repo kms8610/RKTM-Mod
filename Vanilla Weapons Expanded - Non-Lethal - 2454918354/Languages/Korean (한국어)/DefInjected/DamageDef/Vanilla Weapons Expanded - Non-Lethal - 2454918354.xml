@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_AnestheticDart.label>마취 다트</VWE_AnestheticDart.label>
+  <VWE_AnestheticDart.deathMessage>{0}(이)가 마취 다트에 맞아 죽었습니다.</VWE_AnestheticDart.deathMessage>
+  <VWENL_TearGas.label>최루 가스</VWENL_TearGas.label>
+</LanguageData>

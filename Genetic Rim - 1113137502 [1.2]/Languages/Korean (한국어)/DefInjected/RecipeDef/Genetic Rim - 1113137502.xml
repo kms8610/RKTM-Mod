@@ -164,14 +164,14 @@
   <GR_CraftMechanoidGenetrainer.label>합성체 메카노이드 유전자 유전보철물 제작</GR_CraftMechanoidGenetrainer.label>
   <GR_CraftMechanoidGenetrainer.description>합성체 메카노이드 유전자 유전보철물 제작 유전보철물은 특정 기관을 대체하지 않는 형태의 이식물입니다. 이는 특정 메카닉(mech) 혈청의 재구성을 필요로 합니다.</GR_CraftMechanoidGenetrainer.description>
   <GR_CraftMechanoidGenetrainer.jobString>합성체 메카노이드 유전자 유전보철물 제작</GR_CraftMechanoidGenetrainer.jobString>
-  <GR_CraftImplantSteelWireMesh.label>강철 와이어 크물망 합성 보철물 제작 (티어 1)</GR_CraftImplantSteelWireMesh.label>
-  <GR_CraftImplantSteelWireMesh.description>강철 와이어 크물망 합성 보철물 제작.</GR_CraftImplantSteelWireMesh.description>
+  <GR_CraftImplantSteelWireMesh.label>강철 와이어 그물망 합성 보철물 제작 (티어 1)</GR_CraftImplantSteelWireMesh.label>
+  <GR_CraftImplantSteelWireMesh.description>강철 와이어 그물망 합성 보철물 제작.</GR_CraftImplantSteelWireMesh.description>
   <GR_CraftImplantSteelWireMesh.jobString>건축 보철물 그물망</GR_CraftImplantSteelWireMesh.jobString>
   <GR_CraftImplantPlasteelWireMesh.label>혼합 플라스틸 끈 그물망 보철물 제작</GR_CraftImplantPlasteelWireMesh.label>
   <GR_CraftImplantPlasteelWireMesh.description>혼합 플라스틸 끈 그물망 보철물 제작.</GR_CraftImplantPlasteelWireMesh.description>
   <GR_CraftImplantPlasteelWireMesh.jobString>건축 보철물 그물망</GR_CraftImplantPlasteelWireMesh.jobString>
-  <GR_CraftImplantUraniumWireMesh.label>우라늄 와이어 크물망 합성 보철물 제작 (티어 3)</GR_CraftImplantUraniumWireMesh.label>
-  <GR_CraftImplantUraniumWireMesh.description>우라늄 와이어 크물망 합성 보철물 제작.</GR_CraftImplantUraniumWireMesh.description>
+  <GR_CraftImplantUraniumWireMesh.label>우라늄 와이어 그물망 합성 보철물 제작 (티어 3)</GR_CraftImplantUraniumWireMesh.label>
+  <GR_CraftImplantUraniumWireMesh.description>우라늄 와이어 그물망 합성 보철물 제작.</GR_CraftImplantUraniumWireMesh.description>
   <GR_CraftImplantUraniumWireMesh.jobString>건축 보철물 그물망</GR_CraftImplantUraniumWireMesh.jobString>
   <GR_BearLeg.label>동물 보철물: 곰 다리 (티어 1)</GR_BearLeg.label>
   <GR_BearLeg.description>금의 근육으로 강화된 인공 동물의 다리를 만들어 곰 발톱으로 강력한 근접공격을 가할 수 있도록 합니다.</GR_BearLeg.description>

@@ -5,11 +5,6 @@
   <MountableByAnyone.headerTip>정착민 누구나 자동으로 탑승 가능합니다.</MountableByAnyone.headerTip>
   <MountableByMaster.headerTip>동물의 주인만이 자동으로 탑승 가능합니다.</MountableByMaster.headerTip>
 
-  <!--1573233249_190901_Desynchronized: Tales and News (v1.6.2)-->
-  <KnownNewsCount.headerTip>해당 정착민이 알고있는 소식의 갯수입니다.</KnownNewsCount.headerTip>
-  <ForgottenNewsCount.headerTip>해당 정착민이 잊어버린 소식의 갯수입니다.</ForgottenNewsCount.headerTip>
-  <NewsKnowledgeButton.label>개인별 소식 살펴보기</NewsKnowledgeButton.label>
-
   <!--725219116_190621_Work_Tab-->
   <Mood.headerTip>기분</Mood.headerTip>
   <Job.headerTip>작업</Job.headerTip>
