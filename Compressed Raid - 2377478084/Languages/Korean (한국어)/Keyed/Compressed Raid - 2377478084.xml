@@ -6,8 +6,11 @@
   <CR_AllowMechanoidsDesc>메카노이드 압축을 허용할지 정합니다. (기본값: 켜기)</CR_AllowMechanoidsDesc>
   <CR_AllowInsectoidsLabel>곤충 압축 허용</CR_AllowInsectoidsLabel>
   <CR_AllowInsectoidsDesc>곤충 압축을 허용할지 정합니다. (기본값: 켜기)</CR_AllowInsectoidsDesc>
+  <CR_AllowRaidFriendlyLabel>동맹 압축 허용</CR_AllowRaidFriendlyLabel>
+  <CR_AllowRaidFriendlyDesc>동맹의 압축을 허용할지 정합니다. (기본값: 끄기)</CR_AllowRaidFriendlyDesc>
   <CR_MaxRaidPawnsCountLabel>습격시 최대 적 수</CR_MaxRaidPawnsCountLabel>
   <CR_GainFactorMultLabel>공통 강화 계수</CR_GainFactorMultLabel>
+  <CR_GainFactorMultRaidFriendlyLabel>공통 강화 계수 (동맹)</CR_GainFactorMultRaidFriendlyLabel>
   <CR_GainFactorMultPainLabel>고통 한계 강화 계수</CR_GainFactorMultPainLabel>
   <CR_GainFactorMultArmorRating_BluntLabel>방어도 - 둔탁함 강화 계수</CR_GainFactorMultArmorRating_BluntLabel>
   <CR_GainFactorMultArmorRating_SharpLabel>방어도 - 날카로움 강화 계수</CR_GainFactorMultArmorRating_SharpLabel>
@@ -44,44 +47,45 @@
   <CR_GainFactorMaxCapacityBloodFiltrationLabel>혈액여과 강화 계수 최대값</CR_GainFactorMaxCapacityBloodFiltrationLabel>
   <CR_GainFactorMaxCapacityBloodPumpingLabel>혈액순환 강화 계수 최대값</CR_GainFactorMaxCapacityBloodPumpingLabel>
   <CR_GainFactorMaxCapacityBreathingLabel>호흡 강화 계수 최대값</CR_GainFactorMaxCapacityBreathingLabel>
-  <CR_MaxRaidPawnsCountDesc>"습격시 적의 최대 수"를 설정합니다. 0으로 설정하면 일반적인 습격이 진행됩니다. (기본값: 100)</CR_MaxRaidPawnsCountDesc>
-  <CR_GainFactorMultDesc>"공통 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1)</CR_GainFactorMultDesc>
-  <CR_GainFactorMultPainDesc>"고통 한계 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultPainDesc>
-  <CR_GainFactorMultArmorRating_BluntDesc>"방어도 - 둔탁함 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultArmorRating_BluntDesc>
-  <CR_GainFactorMultArmorRating_SharpDesc>"방어도 - 날카로움 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultArmorRating_SharpDesc>
-  <CR_GainFactorMultArmorRating_HeatDesc>"방어도 - 열기 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultArmorRating_HeatDesc>
-  <CR_GainFactorMultMeleeDodgeChanceDesc>"근접 회피율 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1)</CR_GainFactorMultMeleeDodgeChanceDesc>
-  <CR_GainFactorMultMeleeHitChanceDesc>"근접 명중율 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1)</CR_GainFactorMultMeleeHitChanceDesc>
-  <CR_GainFactorMultMoveSpeedDesc>"이동 속도 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5)</CR_GainFactorMultMoveSpeedDesc>
-  <CR_GainFactorMultShootingAccuracyPawnDesc>"사격 정확도 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultShootingAccuracyPawnDesc>
-  <CR_GainFactorMultPawnTrapSpringChanceDesc>"함정회피율 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5)</CR_GainFactorMultPawnTrapSpringChanceDesc>
-  <CR_GainFactorMaxPainDesc>"고통 한계 강화 최대값"을 설정합니다. 0으로 설정하면해당 강화항목이 비활성화됩니다. (기본값: 1) </CR_GainFactorMaxPainDesc>
-  <CR_GainFactorMaxArmorRating_BluntDesc>"방어도 - 둔탁함 강화 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1) </CR_GainFactorMaxArmorRating_BluntDesc>
-  <CR_GainFactorMaxArmorRating_SharpDesc>"방어도 - 날카로움 강화 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1) </CR_GainFactorMaxArmorRating_SharpDesc>
-  <CR_GainFactorMaxArmorRating_HeatDesc>"방어도 - 열기 강화 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1) </CR_GainFactorMaxArmorRating_HeatDesc>
-  <CR_GainFactorMaxMeleeDodgeChanceDesc>"근접 회피율 강화 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 20) </CR_GainFactorMaxMeleeDodgeChanceDesc>
-  <CR_GainFactorMaxMeleeHitChanceDesc>"근접 명중율 강화 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 20) </CR_GainFactorMaxMeleeHitChanceDesc>
-  <CR_GainFactorMaxMoveSpeedDesc>"이동 속도 강화 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 20) </CR_GainFactorMaxMoveSpeedDesc>
-  <CR_GainFactorMaxShootingAccuracyPawnDesc>"사격 정확도 강화 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 20) </CR_GainFactorMaxShootingAccuracyPawnDesc>
-  <CR_GainFactorMaxPawnTrapSpringChanceDesc>"함정회피율 강화 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1) </CR_GainFactorMaxPawnTrapSpringChanceDesc>
-  <CR_GainFactorMultCapacitySightDesc>"시력 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacitySightDesc>
-  <CR_GainFactorMultCapacityMovingDesc>"이동 속도 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacityMovingDesc>
-  <CR_GainFactorMultCapacityHearingDesc>"청력 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacityHearingDesc>
-  <CR_GainFactorMultCapacityManipulationDesc>"조작 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacityManipulationDesc>
-  <CR_GainFactorMultCapacityMetabolismDesc>"신진대사 강화 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacityMetabolismDesc>
-  <CR_GainFactorMultCapacityConsciousnessDesc>"의식 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacityConsciousnessDesc>
-  <CR_GainFactorMultCapacityBloodFiltrationDesc>"혈액여과 강화 계수"를 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacityBloodFiltrationDesc>
-  <CR_GainFactorMultCapacityBloodPumpingDesc>"혈액순환 강화 계수"를 설정합니다. 0으로 설정하면 이 강화 항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultCapacityBloodPumpingDesc>
-  <CR_GainFactorMultCapacityBreathingDesc>"호흡 강화 계수"를 설정합니다. 0으로 설정하면 이 강화 항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultCapacityBreathingDesc>
-  <CR_GainFactorMaxCapacitySightDesc>"시력 강화 계수 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacitySightDesc>
-  <CR_GainFactorMaxCapacityMovingDesc>"이동 속도 강화 계수 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityMovingDesc>
-  <CR_GainFactorMaxCapacityHearingDesc>"청력 강화 계수 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityHearingDesc>
-  <CR_GainFactorMaxCapacityManipulationDesc>"조작 계수 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityManipulationDesc>
-  <CR_GainFactorMaxCapacityMetabolismDesc>"신진대사 계수 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityMetabolismDesc>
-  <CR_GainFactorMaxCapacityConsciousnessDesc>"의식 계수 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityConsciousnessDesc>
-  <CR_GainFactorMaxCapacityBloodFiltrationDesc>"혈액여과 계수 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityBloodFiltrationDesc>
-  <CR_GainFactorMaxCapacityBloodPumpingDesc>"혈액순환 계수 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityBloodPumpingDesc>
-  <CR_GainFactorMaxCapacityBreathingDesc>"호흡 계수 최대값"을 설정합니다. 0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityBreathingDesc>
+  <CR_MaxRaidPawnsCountDesc>"습격시 적의 최대 수"를 설정합니다.\n0으로 설정하면 일반적인 습격이 진행됩니다. (기본값: 100)</CR_MaxRaidPawnsCountDesc>
+  <CR_GainFactorMultDesc>"공통 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1)</CR_GainFactorMultDesc>
+  <CR_GainFactorMultRaidFriendlyDesc>"공통 강화 계수"를 설정합니다. (동맹)\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1)</CR_GainFactorMultRaidFriendlyDesc>
+  <CR_GainFactorMultPainDesc>"고통 한계 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultPainDesc>
+  <CR_GainFactorMultArmorRating_BluntDesc>"방어도 - 둔탁함 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultArmorRating_BluntDesc>
+  <CR_GainFactorMultArmorRating_SharpDesc>"방어도 - 날카로움 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultArmorRating_SharpDesc>
+  <CR_GainFactorMultArmorRating_HeatDesc>"방어도 - 열기 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultArmorRating_HeatDesc>
+  <CR_GainFactorMultMeleeDodgeChanceDesc>"근접 회피율 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1)</CR_GainFactorMultMeleeDodgeChanceDesc>
+  <CR_GainFactorMultMeleeHitChanceDesc>"근접 명중율 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1)</CR_GainFactorMultMeleeHitChanceDesc>
+  <CR_GainFactorMultMoveSpeedDesc>"이동 속도 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5)</CR_GainFactorMultMoveSpeedDesc>
+  <CR_GainFactorMultShootingAccuracyPawnDesc>"사격 정확도 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultShootingAccuracyPawnDesc>
+  <CR_GainFactorMultPawnTrapSpringChanceDesc>"함정회피율 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5)</CR_GainFactorMultPawnTrapSpringChanceDesc>
+  <CR_GainFactorMaxPainDesc>"고통 한계 강화 최대값"을 설정합니다.\n0으로 설정하면해당 강화항목이 비활성화됩니다. (기본값: 1) </CR_GainFactorMaxPainDesc>
+  <CR_GainFactorMaxArmorRating_BluntDesc>"방어도 - 둔탁함 강화 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1) </CR_GainFactorMaxArmorRating_BluntDesc>
+  <CR_GainFactorMaxArmorRating_SharpDesc>"방어도 - 날카로움 강화 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1) </CR_GainFactorMaxArmorRating_SharpDesc>
+  <CR_GainFactorMaxArmorRating_HeatDesc>"방어도 - 열기 강화 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1) </CR_GainFactorMaxArmorRating_HeatDesc>
+  <CR_GainFactorMaxMeleeDodgeChanceDesc>"근접 회피율 강화 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 20) </CR_GainFactorMaxMeleeDodgeChanceDesc>
+  <CR_GainFactorMaxMeleeHitChanceDesc>"근접 명중율 강화 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 20) </CR_GainFactorMaxMeleeHitChanceDesc>
+  <CR_GainFactorMaxMoveSpeedDesc>"이동 속도 강화 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 20) </CR_GainFactorMaxMoveSpeedDesc>
+  <CR_GainFactorMaxShootingAccuracyPawnDesc>"사격 정확도 강화 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 20) </CR_GainFactorMaxShootingAccuracyPawnDesc>
+  <CR_GainFactorMaxPawnTrapSpringChanceDesc>"함정회피율 강화 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 1) </CR_GainFactorMaxPawnTrapSpringChanceDesc>
+  <CR_GainFactorMultCapacitySightDesc>"시력 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacitySightDesc>
+  <CR_GainFactorMultCapacityMovingDesc>"이동 속도 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacityMovingDesc>
+  <CR_GainFactorMultCapacityHearingDesc>"청력 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacityHearingDesc>
+  <CR_GainFactorMultCapacityManipulationDesc>"조작 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacityManipulationDesc>
+  <CR_GainFactorMultCapacityMetabolismDesc>"신진대사 강화 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacityMetabolismDesc>
+  <CR_GainFactorMultCapacityConsciousnessDesc>"의식 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacityConsciousnessDesc>
+  <CR_GainFactorMultCapacityBloodFiltrationDesc>"혈액여과 강화 계수"를 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 0.5) </CR_GainFactorMultCapacityBloodFiltrationDesc>
+  <CR_GainFactorMultCapacityBloodPumpingDesc>"혈액순환 강화 계수"를 설정합니다.\n0으로 설정하면 이 강화 항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultCapacityBloodPumpingDesc>
+  <CR_GainFactorMultCapacityBreathingDesc>"호흡 강화 계수"를 설정합니다.\n0으로 설정하면 이 강화 항목이 비활성화됩니다. (기본값: 0.25)</CR_GainFactorMultCapacityBreathingDesc>
+  <CR_GainFactorMaxCapacitySightDesc>"시력 강화 계수 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacitySightDesc>
+  <CR_GainFactorMaxCapacityMovingDesc>"이동 속도 강화 계수 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityMovingDesc>
+  <CR_GainFactorMaxCapacityHearingDesc>"청력 강화 계수 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityHearingDesc>
+  <CR_GainFactorMaxCapacityManipulationDesc>"조작 계수 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityManipulationDesc>
+  <CR_GainFactorMaxCapacityMetabolismDesc>"신진대사 계수 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityMetabolismDesc>
+  <CR_GainFactorMaxCapacityConsciousnessDesc>"의식 계수 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityConsciousnessDesc>
+  <CR_GainFactorMaxCapacityBloodFiltrationDesc>"혈액여과 계수 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityBloodFiltrationDesc>
+  <CR_GainFactorMaxCapacityBloodPumpingDesc>"혈액순환 계수 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityBloodPumpingDesc>
+  <CR_GainFactorMaxCapacityBreathingDesc>"호흡 계수 최대값"을 설정합니다.\n0으로 설정하면 해당 강화항목이 비활성화됩니다. (기본값: 5) </CR_GainFactorMaxCapacityBreathingDesc>
   <CR_EnableAddBionicsOptionLabel>(선택) "생체공학 추가" 활성화 </CR_EnableAddBionicsOptionLabel>
   <CR_EnableAddBionicsOptionDesc>"생체공학 추가" 기능을 켜거나 끕니다. (기본값 : 꺼짐) </CR_EnableAddBionicsOptionDesc>
   <CR_EnableExclusiveLabel>(선택) 전용 모드</CR_EnableExclusiveLabel>

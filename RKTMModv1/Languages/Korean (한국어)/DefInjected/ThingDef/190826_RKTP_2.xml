@@ -279,7 +279,7 @@
   <Rageslime_Corpse.label>분노 슬라임 시체</Rageslime_Corpse.label>
   <Rageslime_Corpse.description>분노 슬라임 시체</Rageslime_Corpse.description>
   <Slime.label>슬라임</Slime.label>
-  <Slime.description>슬라임은 변방계 행성에 흔하게 서식하는 동물입니다. 그들은 작은 무리를 지어 생활하는 습성이 있으며, 천 년 이상을 살아갑니다. 길들인 슬라임은 곤충젤리ㄴ를 위해 도축하거나 알을 모아 판매하거나 번식을 시킬 수 있습니다. 훈련된 슬라임은 곰처럼 강하고 코브라처럼 공격적인, 가공할만한 병사로 활용될 수 있습니다.</Slime.description>
+  <Slime.description>슬라임은 변경계 행성에 흔하게 서식하는 동물입니다. 그들은 작은 무리를 지어 생활하는 습성이 있으며, 천 년 이상을 살아갑니다. 길들인 슬라임은 곤충젤리를 위해 도축하거나 알을 모아 판매하거나 번식을 시킬 수 있습니다. 훈련된 슬라임은 곰처럼 강하고 코브라처럼 공격적인, 가공할만한 병사로 활용될 수 있습니다.</Slime.description>
   <Slime.tools.0.label>몸</Slime.tools.0.label>
   <Slime_Meat.label>슬라임</Slime_Meat.label>
   <Slime_Meat.description>슬라임</Slime_Meat.description>
@@ -298,7 +298,7 @@
   <Slimequeen_Corpse.label>슬라임 퀸 시체</Slimequeen_Corpse.label>
   <Slimequeen_Corpse.description>슬라임 퀸 시체</Slimequeen_Corpse.description>
   <Slimesoldier.label>병정 슬라임</Slimesoldier.label>
-  <Slimesoldier.description>영원히 굶주리고, 영원히 유ㅣ험한 이 병정슬라임은 슬라임 퀸이 생산한 알에서 부화한 슬라임입니다. 그들은 모든 식물들을 먹어치우고 동물들을 집어삼키며 무한한 굶주림을 채우기 위해 인간을 사냥할 것입니다.</Slimesoldier.description>
+  <Slimesoldier.description>영원히 굶주리고, 영원히 위험한 이 병정 슬라임은 슬라임 퀸이 생산한 알에서 부화한 슬라임입니다. 그들은 모든 식물을 먹어 치우고 동물들을 집어삼키며 무한한 굶주림을 채우기 위해 인간도 사냥합니다.</Slimesoldier.description>
   <Slimesoldier.tools.0.label>몸</Slimesoldier.tools.0.label>
   <Slimesoldier_Corpse.label>병정 슬라임 시체</Slimesoldier_Corpse.label>
   <Slimesoldier_Corpse.description>병정 슬라임 시체</Slimesoldier_Corpse.description>
@@ -322,7 +322,7 @@
   <Slateslime.tools.0.label>몸</Slateslime.tools.0.label>
   <Slateslime_Corpse.label>점판암 시체</Slateslime_Corpse.label>
   <Slateslime_Corpse.description>점판암 시체</Slateslime_Corpse.description>
-  <Marbleslime.label>대리석 슬라임</Marbleslime.label>
+  <Marbleslime.label>사암 슬라임</Marbleslime.label>
   <Marbleslime.description>고대의, 느리고, 부드럽고, 단단한 돌 슬라임들은 변방계에서 나타났습니다. 많은 슬라임들과 유사하게, 돌 슬라임들은 소화과정을 통해 물질을 생산합니다. 이들은 이름대로, 바위덩어리를 생산합니다. 아들은 석회질 특성으로 인해 극도의 추위와 더위에 영향을 받지 않으며, 대부분 형태의 피해에도 저항력이 있습니다. 대부분의 돌 슬라임들은 매우 크며, 적을 공격할 때 매우 세게 내려치는데, 대부분의 불행한 희생자들은 거기에 짓눌릴 수 밖에 없습니다. 때문에 이들은 물어뜯기보다는 단순히 적을 향해 굴러가는 경향이 있습니다. 이 개체는 대리석 덩어리를 생산합니다.</Marbleslime.description>
   <Marbleslime.tools.0.label>몸</Marbleslime.tools.0.label>
   <Marbleslime_Corpse.label>사암 슬라임 시체</Marbleslime_Corpse.label>

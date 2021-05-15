@@ -30,7 +30,7 @@
   <LWM_Medicine_Cabinet.description>의약품과 약품 보관용 캐비닛과 선반 세트. 주의 : 아이들에게서 눈을 떼지 마세요.</LWM_Medicine_Cabinet.description>
   <LWM_Clothing_Rack.label>옷걸이</LWM_Clothing_Rack.label>
   <LWM_Clothing_Rack.description>쉽고 빠르게 접근할 수 있도록 옷을 보관할 수 있는 덮개 선반과 깔끔한 방.</LWM_Clothing_Rack.description>
-  <LWM_Safe.label>안전함</LWM_Safe.label>
+  <LWM_Safe.label>금고</LWM_Safe.label>
   <LWM_Safe.description>도난 또는 화재로 인한 손상으로부터 귀중품을 안전하게 보관할 수 있는 안전하고 잠금 가능한 상자.\n\n참고: 화재로부터의 보호는 아직 구현되지 않았습니다)</LWM_Safe.description>
   <LWM_WeaponsCabinet.label>무기 수납장</LWM_WeaponsCabinet.label>
   <LWM_WeaponsCabinet.description>여러 종류의 무기를 보관할 수 있는 수납장으로 여기에 저장된 물건들은 외부에서도 변질되지 않습니다.</LWM_WeaponsCabinet.description>

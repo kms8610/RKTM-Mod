@@ -303,7 +303,6 @@
 	<li IfModActive="AR13S.Arachne1point0">Arachne Race - 1589454687 [1.2]</li>
 	<li IfModActive="archotech.droids">Archotech Droids - 2218633164 [1.2]</li>
 	<li IfModActive="automatic.recipeicons">Recipe icons - 1616643195 [1.2]</li>
-	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VCookE">Vanilla Cooking Expanded - 2134308519 [1.2]</li>
 	<!-- 2021.01.08 -->
 	<li IfModActive="VanillaExpanded.VPlantsE">Vanilla Plants Expanded - 2134308522 [1.2]</li>
@@ -424,7 +423,6 @@
 	<li IfModActive="VanillaExpanded.VWEMS">Vanilla Weapons Expanded - Makeshift - 2419690698</li>
 	<li IfModActive="Dubwise.Rimatomics">Rimatomics - 1127530465</li>
 	<!-- 2021.04.19 -->
-	<li IfModActive="miyamiya.compressedraid.latest">Compressed Raid - 2377478084</li>
 	<li IfModActive="Bar0th.PFC">Prepare For Combat - 1722803450</li>
 	<li IfModActive="Mlie.Desynchronized">Desynchronized Tales and News (Continued) - 2222607126</li>
 	<li IfModActive="Argon.VMEu">Expanded Materials - Metals - 2259837114</li>
@@ -442,13 +440,25 @@
 	<li IfModActive="VanillaExpanded.VWENL">Vanilla Weapons Expanded - Non-Lethal - 2454918354</li>
 	<li IfModActive="brrainz.achtung">Achtung! - 730936602</li>
 	<li IfModActive="Torann.ARimworldOfMagic">A RimWorld of Magic - 1201382956</li>
-	<!-- 2021.05.02 -->
+	<!-- 2021.05.02 UPDATE -->
 	<li IfModActive="CodeOptimist.JobsOfOpportunity">Jobs of Opportunity (While You're Up) - 2034960453</li>
 	<li IfModActive="UnlimitedHugs.HugsLib">HugsLib - 818773962</li>
 	<li IfModActive="velc.HatsDisplaySelection">Hats Display Selection - 1542291825</li>
 	<li IfModActive="VanillaExpanded.VWEFT">Vanilla Weapons Expanded - Frontier - 2454918139</li>
 	<li IfModActive="Crusader.CTF15">Corpse To Fuel x15 - 1760614672</li>
 	<li IfModActive="VanillaExpanded.VWETB">Vanilla Weapons Expanded - Tribal - 2454918552</li>
+	<!-- 2021.05.05 -->
+	<li IfModActive="Brightsideguy.GerzeeExpansion">Gerzee Expansion - 2446834016</li>
+	<!-- 2021.05.14 UPDATE -->
+	<li IfModActive="Aoba.Musket">The Black Armory - 2384135760</li>
+	<li IfModActive="miyamiya.compressedraid.latest">Compressed Raid - 2377478084</li>
+	<li IfModActive="Vanya.Tools.BulkCarrier">Bulk Carrier - 1428989232</li>
+	<li IfModActive="Harkon.GunNut.7N31">Gun Nut - 7N31 (9x19 mm) - 2409637546</li>
+	<li IfModActive="Harkon.GunNut.GaussRifle">Gun Nut - Item 62 Gauss Rifle - 2423495653</li>
+	<li IfModActive="Harkon.GunNut.M97TrenchGun">Gun Nut - Winchester M97 Trench Gun - 2430129276</li>
+	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268</li>
+	<li IfModActive="Harkon.GunNut.KRISSVector">Gun Nut - KRISS Vector - 2409637032</li>
+	<li IfModActive="Harkon.GunNut.KSGShotgun">Gun Nut - KSG Shotgun - 2416660319</li>
   </v1.2>
 
 </loadFolders>
