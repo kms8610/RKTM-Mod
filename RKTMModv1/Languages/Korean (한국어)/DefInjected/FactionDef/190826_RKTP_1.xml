@@ -60,13 +60,6 @@
   <SplinterColony.leaderTitle>최고수상</SplinterColony.leaderTitle>
   <SplinterColony.label>분열된 정착지</SplinterColony.label>
 
-  <!--1720751798_190519_[RH] Faction Task Force 141 (1.0)-->
-  <RH_141TaskForce.leaderTitle>사령관</RH_141TaskForce.leaderTitle>
-  <RH_141TaskForce.pawnsPlural>특수부대</RH_141TaskForce.pawnsPlural>
-  <RH_141TaskForce.label>특수작전단</RH_141TaskForce.label>
-  <RH_141TaskForce.fixedName>태스크 포스 141</RH_141TaskForce.fixedName>
-  <RH_141TaskForce.description>"The One-Four-One"이라고 불리는 태스크 포스 141은 영국, 호주, 미국, 캐나다 및 기타 외국 요원으로 구성된 다국적 특수 작전 부대로, 일반적으로 이전 특수 작전 경험이 있는 사람들입니다.\n\n특히 제 3 차 세계 대전 중, 사기꾼 중장은 전쟁 범죄에 대한 느슨한 목적을 묶는 방법으로 태스크 포스 141을 배신했다. 그 후 태스크 포스 141의 나머지 모든 구성원은 제거되거나 위기가 끝날 때 실행되었습니다.\n\n태스크 포스 141은 전쟁 중 나토 동맹국과 러시아 연방에 의해 사냥을 당했지만 시베리아에서 보리스 보르셰프스키 러시아 대통령과 그의 딸 알레나를 구출한 후 태스크 포스 141이 복직되었고 그들의 이름은 나토와 러시아가 공식적으로 그들의 행동을 승인했다.</RH_141TaskForce.description>
-
   <!--1746084920_190526_RimSlave-->
   <Dothraki.label>야생 도트라키 떼</Dothraki.label>
   <Dothraki.fixedName>도트라키 칼라사르</Dothraki.fixedName>

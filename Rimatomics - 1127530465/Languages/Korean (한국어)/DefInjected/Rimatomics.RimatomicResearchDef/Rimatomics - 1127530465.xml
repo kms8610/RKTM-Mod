@@ -59,7 +59,7 @@
   <ResearchControlRodActuators.ProjTypeLabel>업그레이드</ResearchControlRodActuators.ProjTypeLabel>
   <ResearchControlRodActuators.ResearchDesc>제어봉의 속도를 향상합니다. 이것은 시시각각으로 변하는 원자로의 상황에 대한 반응성을 높여 주고, 원자로 정지 속도를 향상합니다.</ResearchControlRodActuators.ResearchDesc>
   <ResearchControlRodActuators.ResearchDescDisc>이제 림원자학 기계 작업대에서 제어봉 작동기를 생산할 수 있습니다. 그것들을 원자로 노심에 설치하기 위해서는 코어를 선택하고 제어봉 작동기를 전환하십시오. 제어봉 작동기가 설치되기 전에 원자로는 정지되어 있어야 합니다.</ResearchControlRodActuators.ResearchDescDisc>
-  <ATOMProject.ResearchLabel>원자</ATOMProject.ResearchLabel>
+  <ATOMProject.ResearchLabel>ATOM</ATOMProject.ResearchLabel>
   <ATOMProject.ProjTypeLabel>업그레이드</ATOMProject.ProjTypeLabel>
   <ATOMProject.ResearchDesc>고급 위협 탐지 모듈(ATOM)은 TACS의 업그레이드된 모듈입니다. 설치되었을 때, 전력 사용량을 매우 증가시켜 탐지 범위와 스캐닝 능력을 향상하고, 훨씬 긴 거리에서도 위협을 감지할 수 있게 해주어 잠재적인 위협에 대한 조기 경고 시스템의 역할을 합니다. 공중에서의 습격을 경고하는 데는 약간의 맹점이 있고, 작은 규모의 습격은 감지하기 어려울 것이지만, 지상의 대규모 병력은 쉽게 감지될 것입니다. 시스템은 잘못 감지할 수 있습니다.</ATOMProject.ResearchDesc>
   <ATOMProject.ResearchDescDisc>이제 림원자학 기계 작업대에서 ATOM 모듈을 생산할 수 있습니다. 그것들을 설치하기 위해서는 TACS를 선택하고 ATOM 버튼을 누르십시오.\n\nATOM 모듈은 각 새로운 TACS에 수동으로 연결되어야 합니다.</ATOMProject.ResearchDescDisc>

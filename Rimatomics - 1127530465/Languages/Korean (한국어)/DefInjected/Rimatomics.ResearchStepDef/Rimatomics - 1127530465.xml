@@ -97,7 +97,7 @@
   <Railgun5.label>무기 데이터 수집</Railgun5.label>
   <Railgun5.description>징벌자에 대한 정보를 모으기 위해 아무 표적에게 시범 발사하기. 림원자학 기계 작업대에서 탄저판을 제작할 수 있습니다</Railgun5.description>
   <Railgun6.label>무기 데이터 수집</Railgun6.label>
-  <Railgun6.description>징벌자의 발사명령 기능을 테스트합니다. 다른맵에 당신의 정찰병이 있어야 하며, 그다음은 프로토타입 징벌자를 선택하고 발사명령을 누르십시오.</Railgun6.description>
+  <Railgun6.description>징벌자의 발사명령 기능을 테스트합니다. 다른 지도에 당신의 정찰병이 있어야 하며, 그다음은 프로토타입 징벌자를 선택하고 발사명령을 누르세요.</Railgun6.description>
   <Obelisk1.label>방첨탑 연구</Obelisk1.label>
   <Obelisk1.description>숙련된 연구원이 방첨탑의 구조를 공부하고 작동방식을 배워야 건설할 수 있습니다.</Obelisk1.description>
   <Obelisk2.label>에너지 무기 실험</Obelisk2.label>

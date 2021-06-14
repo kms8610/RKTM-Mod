@@ -7,9 +7,9 @@
   <coolantValve.label>냉각수 파이프 밸브</coolantValve.label>
   <coolantValve.description>냉각수 파이프를 제어할 때 사용합니다.</coolantValve.description>
   <steamPipe.label>증기 파이프</steamPipe.label>
-  <steamPipe.description>고압 증기를 원자로에서 터빈으로 흘려 보내는 파이프입니다.. 벽과 구조물 아래에 설치가 가능합니다.</steamPipe.description>
+  <steamPipe.description>고압 증기를 원자로에서 터빈으로 흘려 보내는 파이프입니다. 벽과 구조물 아래에 설치가 가능합니다.</steamPipe.description>
   <steamValve.label>증기 파이프 밸브</steamValve.label>
-  <steamValve.description>증기 파이프를 제어할 때 사용합니다..</steamValve.description>
+  <steamValve.description>증기 파이프를 제어할 때 사용합니다.</steamValve.description>
   <waterPipe.label>냉수 파이프</waterPipe.label>
   <waterPipe.description>냉수를 터빈 또는 열교환기에서 코어로 흘려 보내는 파이프입니다. 벽과 구조물 아래에 설치가 가능합니다.</waterPipe.description>
   <waterValve.label>냉수 파이프 밸브</waterValve.label>
@@ -27,12 +27,11 @@
   <WeaponsBench.label>무기 연구 작업대</WeaponsBench.label>
   <WeaponsBench.description>무기 연구 작업대입니다.</WeaponsBench.description>
   <PlutoniumProcessor.label>플루토늄 처리장치</PlutoniumProcessor.label>
-  <PlutoniumProcessor.description>화학물질을 사용하여 사용후핵연료에서 핵분열이 가능한 플루토늄을 분리하는 기계입니다.</PlutoniumProcessor.description>
+  <PlutoniumProcessor.description>화학물질을 이용하여 사용 후 핵연료에서 핵분열이 가능한 플루토늄을 분리하는 기계입니다.</PlutoniumProcessor.description>
   <RimatomicsRTG.label>R.T.G(원자력전지)</RimatomicsRTG.label>
   <RimatomicsRTG.description>열전대 배열을 사용하여 적합한 방사성 원소의 붕괴열을 전기로 변환하는 발전기입니다.</RimatomicsRTG.description>
   <ReactorCoreA.label>A형 원자로</ReactorCoreA.label>
-  <ReactorCoreA.description>21개의 연료봉을 삽입할 수 있는 림아토믹 열 원자로입니다. 
-원자로 노심은 핵연료봉을 머금는 핵원자로의 일부며,핵반응이 일어나고 열이 발생하는 곳입니다.</ReactorCoreA.description>
+  <ReactorCoreA.description>21개의 연료봉을 삽입할 수 있는 림원자학 열 원자로입니다. 원자로 노심은 핵연료봉을 머금는 원자로 일부며, 핵반응이 일어나고 열이 발생하는 곳입니다.</ReactorCoreA.description>
   <ReactorCoreB.label>X형 원자로</ReactorCoreB.label>
   <ReactorCoreB.description>핵분열성 물질을 소모하는 것보다 더 많이 생성할 수 있도록 설계된 첨단 증식로입니다.</ReactorCoreB.description>
   <ReactorCoreC.label>V형 원자로</ReactorCoreC.label>
@@ -54,8 +53,8 @@
   <ReactorControl.description>원자로를 조작하기 위해 제작된 컴퓨터 시스템입니다. 정착민으로 작업해 조작 시스템에 접근할 수 있으며, 한 번에 여러 제어판을 조작할 수 있습니다.</ReactorControl.description>
   <storagePool.label>저장조</storagePool.label>
   <storagePool.description>핵 연료봉을 안전하게 보관하는 저장조입니다. 정착민을 선택하고 우클릭하여 제거할 연료봉과 상호작용하도록 지정할 수 있습니다.</storagePool.description>
-  <RadiationDetector.label>방사선검출기</RadiationDetector.label>
-  <RadiationDetector.description>방사선검출기</RadiationDetector.description>
+  <RadiationDetector.label>방사선 검출기</RadiationDetector.label>
+  <RadiationDetector.description>방사선 검출기</RadiationDetector.description>
   <RadiationShielding.label>보강된 열화우라늄 벽</RadiationShielding.label>
   <RadiationShielding.description>열화우라늄으로 보강한 매우 튼튼한 벽으로, 방사선에 대한 완전한 차폐를 제공합니다.</RadiationShielding.description>
   <ReactorSacrophagus.description>노심 용융 사고를 겪은 원자로의 녹아버린 노심을 차폐하기 위해 제작된 콘크리트 구조물입니다.</ReactorSacrophagus.description>
@@ -64,12 +63,12 @@
   <ReactorSacrophagusB.label>X형 석관</ReactorSacrophagusB.label>
   <ReactorSacrophagusC.description>노심 용융 사고를 겪은 원자로의 녹아버린 노심을 차폐하기 위해 제작된 콘크리트 구조물입니다.</ReactorSacrophagusC.description>
   <ReactorSacrophagusC.label>V형 석관</ReactorSacrophagusC.label>
-  <PoppedReactorCoreA.label>노심 용융</PoppedReactorCoreA.label>
-  <PoppedReactorCoreA.description>원자로 노심 용융.</PoppedReactorCoreA.description>
-  <PoppedReactorCoreB.label>노심 용융</PoppedReactorCoreB.label>
-  <PoppedReactorCoreB.description>원자로 노심 용융.</PoppedReactorCoreB.description>
-  <PoppedReactorCoreC.label>노심 용융</PoppedReactorCoreC.label>
-  <PoppedReactorCoreC.description>원자로 노심 용융.</PoppedReactorCoreC.description>
+  <PoppedReactorCoreA.label>녹아내린 노심</PoppedReactorCoreA.label>
+  <PoppedReactorCoreA.description>녹아내린 원자로 노심입니다.</PoppedReactorCoreA.description>
+  <PoppedReactorCoreB.label>녹아내린 노심</PoppedReactorCoreB.label>
+  <PoppedReactorCoreB.description>녹아내린 원자로 노심입니다.</PoppedReactorCoreB.description>
+  <PoppedReactorCoreC.label>녹아내린 노심</PoppedReactorCoreC.label>
+  <PoppedReactorCoreC.description>녹아내린 원자로 노심입니다.</PoppedReactorCoreC.description>
   <DU_Blastdoor.label>열화우라늄 방사선 차폐문</DU_Blastdoor.label>
   <DU_Blastdoor.description>열화우라늄으로 보강한 매우 튼튼한 차폐문으로, 방사선에 대한 완전한 차폐를 제공합니다.</DU_Blastdoor.description>
   <PPC.label>PPC</PPC.label>
@@ -98,7 +97,7 @@
   <HEL_Laser.label>헬 레이저</HEL_Laser.label>
   <HEL_Laser.description>헬 레이저입니다.</HEL_Laser.description>
   <PPCRailgun.label>징벌자</PPCRailgun.label>
-  <PPCRailgun.description>RA-1802D 징벌자(Punisher)는 대형 전자기 펄스를 이용해 탄저판 투사체를 발사해 초고속 초장거리 공격을 가하는 25발 탄창의 레일건입니다. 수동 조준시 유인 SACS가 필요합니다. 기능하기 위해 유인 SACS를 필요로 합니다.</PPCRailgun.description>
+  <PPCRailgun.description>RA-1802D 징벌자(Punisher)는 대형 전자기 펄스를 이용하여 투사체를 발사해 초고속 초장거리 공격을 가하는 25발 탄창의 레일건입니다. 수동 조준시 유인 SACS가 필요합니다. 기능하기 위해 유인 SACS를 필요로 합니다.</PPCRailgun.description>
   <PPCRailgun.comps.3.upgrades.0.stats.0>사거리 +10 타일</PPCRailgun.comps.3.upgrades.0.stats.0>
   <PPCRailgun.comps.3.upgrades.0.stats.1>펄스 용량 +15%</PPCRailgun.comps.3.upgrades.0.stats.1>
   <Railgun_Cannon.label>징벌자 레일건</Railgun_Cannon.label>
@@ -110,7 +109,7 @@
   <Obelisk_Laser.label>오벨리스크 레이저</Obelisk_Laser.label>
   <Obelisk_Laser.description>오벨리스크 레이저입니다.</Obelisk_Laser.description>
   <PPCMarauder.label>약탈자</PPCMarauder.label>
-  <PPCMarauder.description>RA-3b 약탈자(Marauder)는 다연장 동축 플라즈마 레일건 발사대로, 대형 전자기 펄스를 이용해 초고속 플라즈마 환상체를 연사하여 폭발적인 방사선 방출 충격을 일으킵니다. 유인 SACS를 필요로 하며 표적 선정은 수동으로만 가능하겠습니다. PPC가 연결된 SACS와 TACS가 필요합니다.</PPCMarauder.description>
+  <PPCMarauder.description>RA-3b 약탈자(Marauder)는 다연장 동축 플라즈마 레일건 발사대로, 대형 전자기 펄스를 이용해 초고속 플라즈마 환상체를 연사하여 폭발적인 방사선 방출 충격을 일으킵니다. 유인 SACS를 필요로 하며 표적 선정은 수동으로만 가능합니다. PPC가 연결된 SACS와 TACS가 필요합니다.</PPCMarauder.description>
   <PPCMarauder.comps.3.upgrades.0.stats.0>버스트 +10발</PPCMarauder.comps.3.upgrades.0.stats.0>
   <Marauder_Railgun.label>약탈자 레일건</Marauder_Railgun.label>
   <Marauder_Railgun.description>약탈자 레일건입니다.</Marauder_Railgun.description>
@@ -126,20 +125,20 @@
   <FissionWarhead.label>핵탄두</FissionWarhead.label>
   <FissionWarhead.description>핵분열 반응을 일으키는 물질이 들어있는 탄두</FissionWarhead.description>
   <ICBM_Fission.label>전략 미사일</ICBM_Fission.label>
-  <NuclearWarheadIncoming.label>탄두가 날아오는중</NuclearWarheadIncoming.label>
+  <NuclearWarheadIncoming.label>핵탄두 날아오는 중</NuclearWarheadIncoming.label>
   <ICBMStrike.label>전략 미사일 공격</ICBMStrike.label>
   <turbineBlade.label>터빈 날</turbineBlade.label>
   <turbineBlade.description>발전소를 구성하는 데 사용됩니다.</turbineBlade.description>
   <UraniumPellets.label>우라늄 펠릿</UraniumPellets.label>
-  <UraniumPellets.description>핵연료봉 제작에 사용되는 우라늄 펠릿</UraniumPellets.description>
+  <UraniumPellets.description>핵연료봉 제작에 사용되는 우라늄 펠릿입니다.</UraniumPellets.description>
   <Plutonium.label>플루토늄</Plutonium.label>
-  <Plutonium.description>핵연료봉(MOX)을 만들거나 핵무기를 만드는데 쓰이는 플루토늄 한 박스 입니다.</Plutonium.description>
-  <DepletedUraniumPellets.label>폐 우라늄</DepletedUraniumPellets.label>
-  <DepletedUraniumPellets.description>핵연료봉 건설에 사용되는 열화 우라늄 펠릿.</DepletedUraniumPellets.description>
+  <Plutonium.description>핵연료봉을 만들거나 핵무기를 만드는 데 쓰이는 플루토늄 한 박스입니다.</Plutonium.description>
+  <DepletedUraniumPellets.label>열화우라늄</DepletedUraniumPellets.label>
+  <DepletedUraniumPellets.description>핵연료봉 제작에 사용되는 열화우라늄 펠릿입니다.</DepletedUraniumPellets.description>
   <FuelRods.label>연료봉</FuelRods.label>
   <FuelRods.description>우라늄 펠렛으로 채워진 일련의 연료봉들은 원자로 노심에 적재될 때 열을 발생시키며, 터빈을 구동하는 데 사용될 수 있다.</FuelRods.description>
   <FuelRodsMOX.label>연료봉 MOX</FuelRodsMOX.label>
-  <FuelRodsMOX.description>우라늄과 플루토늄의 혼합으로 채워진 막대들은 원자로 노심에 적재될 때 열을 발생시키며 이는 터빈을 구동하는 데 사용될 수 있다.</FuelRodsMOX.description>
+  <FuelRodsMOX.description>우라늄과 플루토늄의 혼합으로 채워진 막대들은 원자로 노심에 적재될 때 열을 발생시키며, 이는 터빈을 구동하는 데 사용될 수 있습니다.</FuelRodsMOX.description>
   <ChunkRadioactiveSlag.label>방사성 슬래그 덩어리</ChunkRadioactiveSlag.label>
   <NuclearWaste.label>핵폐기물</NuclearWaste.label>
   <NuclearWaste.description>핵폐기물 드럼통입니다.</NuclearWaste.description>
@@ -160,17 +159,17 @@
   <Apparel_MoppSuitWoodland.label>방독복(삼림)</Apparel_MoppSuitWoodland.label>
   <Apparel_MoppSuitSnow.description>안감의 차폐를 통해 방사선으로부터 보호하는 복장입니다. 내구성 향상을 위해 더 튼튼한 재질로 제작된 전투용 버전입니다.</Apparel_MoppSuitSnow.description>
   <Apparel_MoppSuitSnow.label>방독복(설원)</Apparel_MoppSuitSnow.label>
-  <RailgunSabot.label>탄저판</RailgunSabot.label>
+  <RailgunSabot.label>운동에너지탄</RailgunSabot.label>
   <RailgunSabot.description>레일건에서 발사된 운동 에너지 발사기</RailgunSabot.description>
-  <Bullet_Sabot.label>탄저판</Bullet_Sabot.label>
-  <RailgunSabotDU.label>열화 우라늄 탄저판</RailgunSabotDU.label>
+  <Bullet_Sabot.label>운동에너지탄</Bullet_Sabot.label>
+  <RailgunSabotDU.label>열화우라늄 운동에너지탄</RailgunSabotDU.label>
   <RailgunSabotDU.description>레일건에서 발사된 운동 에너지 발사체는 불활성이며 비축하기에 안전합니다.</RailgunSabotDU.description>
-  <Bullet_Sabot_DU.label>열화 우라늄 탄저판</Bullet_Sabot_DU.label>
-  <SabotRoundIncoming.label>탄저판 날아오는중</SabotRoundIncoming.label>
-  <DUSabotRoundIncoming.label>열화 우라늄 탄저판 날아오는중</DUSabotRoundIncoming.label>
+  <Bullet_Sabot_DU.label>열화우라늄 운동에너지탄</Bullet_Sabot_DU.label>
+  <SabotRoundIncoming.label>운동에너지탄 날아오는 중</SabotRoundIncoming.label>
+  <DUSabotRoundIncoming.label>열화우라늄 운동에너지탄이 날아오는 중</DUSabotRoundIncoming.label>
   <ControlRodActuator.label>제어봉 엑츄에이터</ControlRodActuator.label>
   <ControlRodActuator.description>림아토믹 원자로의 업그레이드 부품입니다.</ControlRodActuator.description>
-  <ATOM.label>원자</ATOM.label>
+  <ATOM.label>ATOM</ATOM.label>
   <ATOM.description>TACS의 업그레이드 모듈입니다.</ATOM.description>
   <SCAD.label>SCAD</SCAD.label>
   <SCAD.description>림아토믹 에너지 무기의 업그레이드 부품입니다.</SCAD.description>

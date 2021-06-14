@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEF_SecondaryAcidBurn.label>산화상</VEF_SecondaryAcidBurn.label>
+  <VEF_SecondaryAcidBurn.deathMessage>{0}(이)가 부식되어 죽었습니다.</VEF_SecondaryAcidBurn.deathMessage>
+</LanguageData>

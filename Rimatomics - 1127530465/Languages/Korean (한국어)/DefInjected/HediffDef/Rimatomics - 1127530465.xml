@@ -8,16 +8,16 @@
   <RectalCoring.label>직장암</RectalCoring.label>
   <RectalCoring.description>직장암</RectalCoring.description>
   <RectalCoring.stages.0.label>극심함</RectalCoring.stages.0.label>
-  <Exsanguination.label>출혈</Exsanguination.label>
-  <Exsanguination.description>출혈</Exsanguination.description>
+  <Exsanguination.label>과다 출혈</Exsanguination.label>
+  <Exsanguination.description>과다 출혈</Exsanguination.description>
   <Exsanguination.stages.0.label>극심함</Exsanguination.stages.0.label>
   <FatalRad.label>치명적인 방사선 피폭</FatalRad.label>
   <FatalRad.description>치명적인 방사선 피폭</FatalRad.description>
   <FatalRad.stages.0.label>초기</FatalRad.stages.0.label>
-  <FatalRad.stages.1.label>전자기 탄약</FatalRad.stages.1.label>
-  <FatalRad.stages.2.label>죽음에 가까움</FatalRad.stages.2.label>
+  <FatalRad.stages.1.label>강화됨</FatalRad.stages.1.label>
+  <FatalRad.stages.2.label>죽음 임박</FatalRad.stages.2.label>
   <FatalRad.stages.3.label>사망</FatalRad.stages.3.label>
-  <RimatomicsRadiation.description>방사선병</RimatomicsRadiation.description>
+  <RimatomicsRadiation.description>방사능으로 인한 질병</RimatomicsRadiation.description>
   <RimatomicsRadiation.label>방사선병</RimatomicsRadiation.label>
   <RimatomicsRadiation.stages.0.label>잠재됨</RimatomicsRadiation.stages.0.label>
   <RimatomicsRadiation.stages.1.label>초기</RimatomicsRadiation.stages.1.label>

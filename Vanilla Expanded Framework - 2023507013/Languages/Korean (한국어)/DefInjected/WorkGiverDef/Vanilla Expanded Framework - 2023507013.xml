@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VEF_AnimalResource.label>동물 자원 채집</VEF_AnimalResource.label>
-  <VEF_AnimalResource.verb>동물 자원 채집</VEF_AnimalResource.verb>
-  <VEF_AnimalResource.gerund>동물 자원 채집</VEF_AnimalResource.gerund>
+  <VEF_AnimalResource.label>동물자원 수집</VEF_AnimalResource.label>
+  <VEF_AnimalResource.verb>동물 자원을 수집함</VEF_AnimalResource.verb>
+  <VEF_AnimalResource.gerund>동물 자원을 수집함</VEF_AnimalResource.gerund>
   <IP_InsertFirstIngredient.label>첫 번째 재료 운반</IP_InsertFirstIngredient.label>
   <IP_InsertFirstIngredient.verb>첫 번째 재료 운반</IP_InsertFirstIngredient.verb>
   <IP_InsertFirstIngredient.gerund>첫 번째 재료 운반</IP_InsertFirstIngredient.gerund>

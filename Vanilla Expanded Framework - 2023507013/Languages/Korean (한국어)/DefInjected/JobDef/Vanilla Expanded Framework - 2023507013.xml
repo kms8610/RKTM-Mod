@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VEF_AnimalResource.reportString>TargetA에서 자원 채집 중.</VEF_AnimalResource.reportString>
+  <VEF_AnimalResource.reportString>TargetA로부터 동물자원 수집.</VEF_AnimalResource.reportString>
   <VEF_DestroyItem.reportString>물품 파괴 중.</VEF_DestroyItem.reportString>
+  <VEF_LayExplodingEgg.reportString>산란함.</VEF_LayExplodingEgg.reportString>
+  <VEF_IngestWeird.reportString>TargetA 섭취 중.</VEF_IngestWeird.reportString>
+  <VEF_AutoNutrition.reportString>섭취 중.</VEF_AutoNutrition.reportString>
   <IP_InsertFirstIngredient.reportString>재료 투입 중.</IP_InsertFirstIngredient.reportString>
   <IP_InsertSecondIngredient.reportString>재료 투입 중.</IP_InsertSecondIngredient.reportString>
   <IP_InsertThirdIngredient.reportString>재료 투입 중.</IP_InsertThirdIngredient.reportString>

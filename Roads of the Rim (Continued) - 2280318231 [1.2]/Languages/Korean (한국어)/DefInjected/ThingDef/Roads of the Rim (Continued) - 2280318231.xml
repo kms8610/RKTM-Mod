@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <!--1613783924_190519_Roads of the Rim-->
-  <ConcreteBridge_Blueprint.label>콘크리트 교량 (청사진)</ConcreteBridge_Blueprint.label>
-  <ConcreteBridge_Frame.label>콘크리트 교량 (건설 중)</ConcreteBridge_Frame.label>
-  <ConcreteBridge_Frame.description>작업이 진행중 입니다.</ConcreteBridge_Frame.description>
-
-</LanguageData>

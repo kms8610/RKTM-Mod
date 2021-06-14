@@ -4,7 +4,6 @@
   <v1.2>
     <li>RKTMModv1</li>
     <li>RKTMModv2</li>
-	<li IfModActive="Saakra.Empire">Empire - 2006535182 [1.2]</li>
 	<li IfModActive="Dubwise.DubsPaintShop">Dub's Paint Shop - 1579516669 [1.2]</li>
 	<li IfModActive="Murmur.WallLight">Wall Light - 1423699208 [1.2]</li>
 	<li IfModActive="Ogre.OgreStack">OgreStack - 1447140290 [1.2]</li>
@@ -106,7 +105,6 @@
 	<li IfModActive="fluffy.animaltab">Animal Tab - 712141500 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VPlantsESucculents">Vanilla Plants Expanded - Succulents - 2198652536 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VFEArt">Vanilla Furniture Expanded - Art - 1968134023 [1.2]</li>
-	<li IfModActive="OskarPotocki.VFE.Insectoid">Vanilla Factions Expanded - Insectoids - 2149755445 [1.2]</li>
 	<!-- 20.09.19 -->
 	<li IfModActive="Albion.GoExplore">Go Explore! - 1814100216 [1.2]</li>
 	<!-- 20.09.20 -->
@@ -223,7 +221,6 @@
 	<!-- 20.11.06 -->
 	<li IfModActive="CETeam.CombatExtendedGuns">Combat Extended Guns - 1582570547 [1.2]</li>
 	<!-- 20.11.07 -->
-	<li IfModActive="Mlie.RimQuest">RimQuest (Continued) - 2263331727 [1.2]</li>
 	<li IfModActive="roolo.giddyupcore">Giddy-up! Core - 1216999901 [1.2]</li>
 	<li IfModActive="Supes.AutoSeller.CaravanEquip">Auto Caravan Equip (Autoseller Extension) - 1487284611 [1.2]</li>
 	<!-- 20.11.09 -->
@@ -233,7 +230,6 @@
 	<li IfModActive="OskarPotocki.VFE.Vikings">Vanilla Factions Expanded - Vikings - 2231295285 [1.2]</li>
 	<!-- 20.11.13 -->
 	<li IfModActive="erdelf.HumanoidAlienRaces">Humanoid Alien Races 2.0 - 839005762 [1.2]</li>
-	<li IfModActive="Mlie.RoadsOfTheRim">Roads of the Rim (Continued) - 2280318231 [1.2]</li>
 	<li IfModActive="tikubonn.RimTrash">RimTrash - 2281891286 [1.2]</li>
 	<!-- 20.11.15 -->
 	<li IfModActive="chefboyjc.zorgzf1">Zorg ZF1 - 2285163237 [1.2]</li>
@@ -273,7 +269,6 @@
 	<!-- 20.12.15 -->
     <li IfModActive="fluffy.modmanager">Mod Manager - 1507748539 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VAEED">Vanilla Animals Expanded — Extreme Desert - 1849184079 [1.2]</li>
-	<li IfModActive="VanillaExpanded.VBrewECandT">Vanilla Brewing Expanded - Coffees and Teas - 2275449762 [1.2]</li>
 	<li IfModActive="rimsenal.feral">Rimsenal - Feral Faction Pack - 736207111 [1.2]</li>
 	<!-- 20.12.19 -->
 	<li IfModActive="LingLuo.MaidProject">Maid Project - 1498756997 [1.2]</li>
@@ -295,7 +290,6 @@
 	<!-- 20.12.28 -->
 	<li IfModActive="Dubwise.Rimefeller">Rimefeller - 1321849735 [1.2]</li>
 	<!-- 20.12.30 -->
-	<li IfModActive="tachyonite.pawnmorpherpublic">Pawnmorpher - 1786466855 [1.2]</li>
 	<li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Vanilla Traits Expanded - 2296404655 [1.2]</li>
 	<!-- 2021.01.01 -->
 	<li IfModActive="spdskatr.projectrimfactory.legacy">Project RimFactory Revived - LEGACY - 2340838603 [1.2]</li>
@@ -311,7 +305,6 @@
 	<li IfModActive="dismarzero.VGP.VGPGardenCanning">VGP Garden Canning - 2007062033</li>
 	<li IfModActive="Teok25.ArchotechExpanded">Archotech Expanded - 1442734859</li>
 	<li IfModActive="Mlie.CallofCthulhuCults">Call of Cthulhu - Cults (Continued) - 2249174783</li>
-	<li IfModActive="LWM.DeepStorage">Deep Storage - 1617282896</li>
 	<li IfModActive="Orion.Gastronomy">Gastronomy - 2279786905</li>
 	<li IfModActive="dismarzero.VGP.VGPGardenDrinksUF">VGP Garden Drinks UF - 2167582651</li>
 	<!-- 2021.01.12 -->
@@ -372,7 +365,6 @@
 	<li IfModActive="Jaxe.RimHUD">RimHUD - 1508850027</li>
 	<li IfModActive="zhrocks11.letstrade">Let's Trade! - 2373633407</li>
 	<li IfModActive="VanillaExpanded.VFECore">Vanilla Furniture Expanded - 1718190143</li>
-	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013</li>
 	<li IfModActive="VanillaExpanded.VBrewE">Vanilla Brewing Expanded - 2186560858</li>
 	<!-- 2021.02.02 -->
 	<li IfModActive="VanillaExpanded.VARME">Vanilla Armour Expanded - 1814988282</li>
@@ -406,7 +398,6 @@
 	<li IfModActive="ReGrowth.BOTR.Core">ReGrowth - Core - 2260097569</li>
 	<li IfModActive="RH.Faction.VOID">Faction VOID - 2130955778</li>
 	<li IfModActive="Kerevan.HisaFaction">Hisa Faction - 1617772184</li>
-	<li IfModActive="Dubwise.DubsMintMenus">Dubs Mint Menus - 1446523594</li>
 	<!-- 2021.04.13 UPDATE -->
 	<li IfModActive="avius.prisonlabor">Prison Labor - 1899474310</li>
 	<li IfModActive="Oblitus.AnimalsLogic">Animals Logic - 1098354593</li>
@@ -421,7 +412,6 @@
 	<li IfModActive="com.github.alandariva.moreplanning">More Planning - 881100382</li>
 	<li IfModActive="sarg.alphaanimals">Alpha Animals - 1541721856</li>
 	<li IfModActive="VanillaExpanded.VWEMS">Vanilla Weapons Expanded - Makeshift - 2419690698</li>
-	<li IfModActive="Dubwise.Rimatomics">Rimatomics - 1127530465</li>
 	<!-- 2021.04.19 -->
 	<li IfModActive="Bar0th.PFC">Prepare For Combat - 1722803450</li>
 	<li IfModActive="Mlie.Desynchronized">Desynchronized Tales and News (Continued) - 2222607126</li>
@@ -430,7 +420,6 @@
 	<!-- 2021.04.21 -->
 	<li IfModActive="MagAgent.EvolvedOrgansRedux1.2">EvolvedOrgansRedux - 2333818380</li>
 	<li IfModActive="impassablemapmaker.kv.rw">Impassable Map Maker - 1180719335</li>
-	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700</li>
 	<li IfModActive="CP.VOID.Storyteller">The VOID Storyteller - 2130957394</li>
 	<!-- 2021.04.24 -->
 	<li IfModActive="Alias.DegeneralizeWork">De-generalize Work - 2011655761</li>
@@ -459,6 +448,33 @@
 	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268</li>
 	<li IfModActive="Harkon.GunNut.KRISSVector">Gun Nut - KRISS Vector - 2409637032</li>
 	<li IfModActive="Harkon.GunNut.KSGShotgun">Gun Nut - KSG Shotgun - 2416660319</li>
+	<!-- 2021.06.02 -->
+	<li IfModActive="Dubwise.DubsMintMenus">Dubs Mint Menus - 1446523594</li>
+	<!-- 2021.06.06 -->
+	<li IfModActive="Mlie.RimQuest">RimQuest (Continued) - 2263331727</li>
+	<!-- 2021.06.07 -->
+	<li IfModActive="Mlie.AutopsyTable">AutopsyTable (Continued) - 2102410542</li>
+	<!-- 2021.06.08 -->
+	<li IfModActive="helldragger.combattrainingforked">Combat Training - Forked - 2196035723</li>
+	<!-- 2021.06.13 -->
+	<li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Vanilla Social Interactions Expanded - 2439736083</li>
+	<li IfModActive="tachyonite.pawnmorpherpublic">Pawnmorpher - 1786466855</li>
+	<li IfModActive="JangoDsoul.SimpleStorage">Simple Storage - 1961098970</li>
+	<li IfModActive="LWM.DeepStorage">Deep Storage - 1617282896</li>
+	<li IfModActive="showhair.kv.rw">Show Hair With Hats or Hide All Hats - 1180826364</li>
+	<li IfModActive="VanillaExpanded.VBrewECandT">Vanilla Brewing Expanded - Coffees and Teas - 2275449762</li>
+	<li IfModActive="RH.Faction.Task.Force.141">Faction Task Force 141 - 1720751798</li>
+	<li IfModActive="RH.Faction.The.Ghosts">Faction The Ghosts - 1567074403</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework - 2023507013</li>
+	<li IfModActive="Thomotron.Phinix">Phinix - 1620283146</li>
+	<li IfModActive="Saakra.Empire">Empire - 2006535182</li>
+	<!-- 2021.06.14 -->
+	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700</li>
+	<li IfModActive="Ogliss.AliceTries.GeneSeed">GeneSeed - 2017823407</li>
+	<li IfModActive="freefolk.Remedies">Remedies - 2466826996</li>
+	<li IfModActive="Dubwise.Rimatomics">Rimatomics - 1127530465</li>
+	<li IfModActive="Mlie.RoadsOfTheRim">Roads of the Rim (Continued) - 2280318231</li>
+	<li IfModActive="OskarPotocki.VFE.Insectoid">Vanilla Factions Expanded - Insectoids - 2149755445</li>
   </v1.2>
 
 </loadFolders>

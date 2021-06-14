@@ -29,9 +29,9 @@
   <PRF_EnhancedBatteries.label>향상된 축전지</PRF_EnhancedBatteries.label>
   <PRF_EnhancedBatteries.description>전기를 효율적으로 저장할 수 있는 대용량 축전지를 만듭니다. 4k 축전지를 해금합니다.</PRF_EnhancedBatteries.description>
   <PRF_LargeBatteries.label>대용량 축전지</PRF_LargeBatteries.label>
-  <PRF_LargeBatteries.description>전기를 효율적으로 저장할 수 있는 대용량 축전지를 만듭니다. 16k와 64k 축전지를 해금합니다.</PRF_LargeBatteries.description>
+  <PRF_LargeBatteries.description>전기를 효율적으로 저장할 수 있는 대용량 축전지를 만듭니다. 64k 축전지를 해금합니다.</PRF_LargeBatteries.description>
   <PRF_VeryLargeBatteries.label>초대용량 축전지</PRF_VeryLargeBatteries.label>
-  <PRF_VeryLargeBatteries.description>대체 전력 저장 방법을 배우고, 대량의 전력 저장을 위한 256k 축전지를 만들 수 있습니다.</PRF_VeryLargeBatteries.description>
+  <PRF_VeryLargeBatteries.description>대체 전력 저장 방법을 배우고 대량의 전력 저장을 위한 64k 및 256k 축전지를 건설합니다.</PRF_VeryLargeBatteries.description>
   <PRF_CoreTierO.label>시계장치 원리</PRF_CoreTierO.label>
   <PRF_CoreTierO.description>초기 산업화에서는 보다 발전된 자원 수집 방법을 설정하고 이를 보다 유용한 것으로 처리하는 방법을 설명합니다. 쓰레기, 원자재, 또는 고철이 한쪽으로 들어가고 다른 쪽으로 유용한 제품들이 나옵니다.\n기계장치와 투입구는 나무와 석탄으로 작동합니다.</PRF_CoreTierO.description>
   <PRF_CoreTierO.discoveredLetterTitle>초기 자동화 허?</PRF_CoreTierO.discoveredLetterTitle>

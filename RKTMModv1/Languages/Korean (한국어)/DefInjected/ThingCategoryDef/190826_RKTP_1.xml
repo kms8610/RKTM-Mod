@@ -93,46 +93,6 @@
   <!--1645324706_190519_Religions of Rimworld-->
   <ReligiousBuilding.label>종교</ReligiousBuilding.label>
 
-  <!--1720751798_190519_[RH] Faction Task Force 141 (1.0)-->
-  <RNApparel_Belts.label>장신구</RNApparel_Belts.label>
-  <RN_Airstrikes.label>공습호출기</RN_Airstrikes.label>
-  <RN_AKStyle.label>AK계 소총</RN_AKStyle.label>
-  <RN_AMR.label>대물저격총</RN_AMR.label>
-  <RN_ARStyle.label>AR계 소총</RN_ARStyle.label>
-  <RN_AssaultRifle.label>돌격소총</RN_AssaultRifle.label>
-  <RN_MiscRanged.label>칼과 활</RN_MiscRanged.label>
-  <RNApparel_BodyArmor.label>방탄복</RNApparel_BodyArmor.label>
-  <RN_BoltAction.label>샷건</RN_BoltAction.label>
-  <RN_BullpupStyle.label>스트라이튼 라이플</RN_BullpupStyle.label>
-  <RNApparel_Casual.label>캐주얼</RNApparel_Casual.label>
-  <RNApparel_ShellCasual.label>캐주얼 자켓</RNApparel_ShellCasual.label>
-  <RNApparel_ShellCombat.label>전투용 자켓</RNApparel_ShellCombat.label>
-  <RNApparel_Combat.label>전투복</RNApparel_Combat.label>
-  <RN_DMR.label>저격소총</RN_DMR.label>
-  <RNApparel_Formal.label>정장 셔츠</RNApparel_Formal.label>
-  <RNApparel_ShellFormal.label>정장 자켓</RNApparel_ShellFormal.label>
-  <RN_GrenadeLaunchers.label>유탄발사기</RN_GrenadeLaunchers.label>
-  <RNHeadgear_Hats.label>모자</RNHeadgear_Hats.label>
-  <RNHeadgear_Helmets.label>방탄모</RNHeadgear_Helmets.label>
-  <RN_Grenades.label>살살용 수류탄</RN_Grenades.label>
-  <RN_LMGMain.label>기관총</RN_LMGMain.label>
-  <RNHeadgear_Masks.label>마스크</RNHeadgear_Masks.label>
-  <RN_MREFoodMeals.label>군용 식량</RN_MREFoodMeals.label>
-  <RN_GrenadesNL.label>비살상용 수류탄</RN_GrenadesNL.label>
-  <RN_OldieRifle.label>스트라이튼 라이플</RN_OldieRifle.label>
-  <RN_OneTimeUseThrown.label>일회용 폭탄</RN_OneTimeUseThrown.label>
-  <RN_OneTimeUseLaunchers.label>일회용발사기</RN_OneTimeUseLaunchers.label>
-  <RN_Pistols.label>권총</RN_Pistols.label>
-  <RN_Revolvers.label>리볼버</RN_Revolvers.label>
-  <RNApparel_Main.label>Rimmu-Nation 의류</RNApparel_Main.label>
-  <RNHeadgear_Main.label>Rimmu-Nation 머리 장비</RNHeadgear_Main.label>
-  <RN_MeleeMain.label>Rimmu-Nation 근접 무기</RN_MeleeMain.label>
-  <RN_RangedMain.label>Rimmu-Nation 원거리 무기</RN_RangedMain.label>
-  <RN_RocketLaunchers.label>로켓발사기</RN_RocketLaunchers.label>
-  <RN_ShotgunsMain.label>샷건</RN_ShotgunsMain.label>
-  <RN_PDWMain.label>돌격총</RN_PDWMain.label>
-  <RN_SpacerMain.label>SF 무기</RN_SpacerMain.label>
-
   <!--1772606627_190714_Fantastic Flora-->
   <FruitFoodRaw.label>과일</FruitFoodRaw.label>
 

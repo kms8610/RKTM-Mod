@@ -43,16 +43,6 @@
   <RWBY_Lightning_Slash.label>전기</RWBY_Lightning_Slash.label>
   <RWBY_Lightning_Blunt.label>전기</RWBY_Lightning_Blunt.label>
 
-  <!--1720751798_190519_[RH] Faction Task Force 141 (1.0)-->
-  <RNSmoke.deathMessage>{0}(이)가 피폭되어 죽었습니다.</RNSmoke.deathMessage>
-  <RNBullet_Charge.deathMessage>{0}(이)가 감전되어 죽었습니다.</RNBullet_Charge.deathMessage>
-  <RNBomb.deathMessage>{0}(이)가 피폭되어 죽었습니다.</RNBomb.deathMessage>
-  <RNChargeBomb.deathMessage>{0}(이)가 피폭되어 죽었습니다.</RNChargeBomb.deathMessage>
-  <RNBomb.label>폭발</RNBomb.label>
-  <RNBullet_Charge.label>감전</RNBullet_Charge.label>
-  <RNChargeBomb.label>폭발</RNChargeBomb.label>
-  <RNSmoke.label>폭발</RNSmoke.label>
-
   <!--1741117080_190526_Grenades Expanded-->
   <HornetVenom.deathMessage>{0}(은)는 맹독으로 죽었습니다.</HornetVenom.deathMessage>
   <PlasmaWave.deathMessage>0}(은)는 플라즈마로 증발되었습니다.</PlasmaWave.deathMessage>

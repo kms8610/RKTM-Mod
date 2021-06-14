@@ -6,10 +6,10 @@
   <MakeFuelRods.label>우라늄 연료봉 제작하기</MakeFuelRods.label>
   <MakeFuelRods.description>우라늄 연료봉을 제작합니다.</MakeFuelRods.description>
   <MakeFuelRods.jobString>우라늄 연료봉 제작 중.</MakeFuelRods.jobString>
-  <MakeMoxFuelRods.label>MOX 연료봉 제작하기</MakeMoxFuelRods.label>
-  <MakeMoxFuelRods.description>MOX 연료봉 제작합니다.</MakeMoxFuelRods.description>
-  <MakeMoxFuelRods.jobString>MOX 핵연료봉 제작하기.</MakeMoxFuelRods.jobString>
+  <MakeMoxFuelRods.label>MOX 연료봉 제작</MakeMoxFuelRods.label>
+  <MakeMoxFuelRods.description>MOX 연료봉을 제작합니다.</MakeMoxFuelRods.description>
+  <MakeMoxFuelRods.jobString>MOX 연료봉 제작 중.</MakeMoxFuelRods.jobString>
   <DismantleWarhead.label>핵탄두 해체하기</DismantleWarhead.label>
   <DismantleWarhead.description>해체한 핵탄두에서 유용한 물질을 가져옵니다.</DismantleWarhead.description>
-  <DismantleWarhead.jobString>핵탄두 해체하기</DismantleWarhead.jobString>
+  <DismantleWarhead.jobString>핵탄두 해체 중.</DismantleWarhead.jobString>
 </LanguageData>

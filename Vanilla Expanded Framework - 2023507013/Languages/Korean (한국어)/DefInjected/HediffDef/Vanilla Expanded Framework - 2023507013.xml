@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEF_AcidBuildup.label>산화상</VEF_AcidBuildup.label>
+  <VEF_AcidBuildup.description>이 강한 산성은 최초의 공격 후 상당한 시간 동안 화상 상처를 지속적으로 일으킵니다.</VEF_AcidBuildup.description>
+  <VEF_AcidBuildup.stages.0.label>가벼움, 화상</VEF_AcidBuildup.stages.0.label>
+  <VEF_AcidBuildup.stages.1.label>진행됨, 화상</VEF_AcidBuildup.stages.1.label>
+  <VEF_AcidBuildup.stages.2.label>심각함, 화상</VEF_AcidBuildup.stages.2.label>
+  <VEF_AcidBurn.label>산화상</VEF_AcidBurn.label>
+  <VEF_AcidBurn.labelNoun>산화상</VEF_AcidBurn.labelNoun>
+  <VEF_AcidBurn.description>산성 화상.</VEF_AcidBurn.description>
+  <VEF_AcidBurn.comps.0.labelTendedWell>붕대감음</VEF_AcidBurn.comps.0.labelTendedWell>
+  <VEF_AcidBurn.comps.0.labelTendedWellInner>관리됨</VEF_AcidBurn.comps.0.labelTendedWellInner>
+  <VEF_AcidBurn.comps.0.labelSolidTendedWell>관리됨</VEF_AcidBurn.comps.0.labelSolidTendedWell>
+  <VEF_AcidBurn.comps.2.permanentLabel>산성 화상 흉터</VEF_AcidBurn.comps.2.permanentLabel>
+  <VEF_AcidBurn.injuryProps.destroyedLabel>부식됨</VEF_AcidBurn.injuryProps.destroyedLabel>
+  <VEF_AcidBurn.injuryProps.destroyedOutLabel>부식됨</VEF_AcidBurn.injuryProps.destroyedOutLabel>
+  <VEF_LightSustenance.description>이 생물은 햇빛이 필요합니다. 햇빛이 부족하다면 이 생물은 죽을 것입니다.</VEF_LightSustenance.description>
+  <VEF_LightSustenance.label>햇빛의 양</VEF_LightSustenance.label>
+  <VEF_LightSustenance.stages.0.label>적당한 빛</VEF_LightSustenance.stages.0.label>
+  <VEF_LightSustenance.stages.1.label>낮은 일조량</VEF_LightSustenance.stages.1.label>
+  <VEF_LightSustenance.stages.2.label>매우 낮은 일조량</VEF_LightSustenance.stages.2.label>
+  <VEF_LightSustenance.stages.3.label>빛 부족</VEF_LightSustenance.stages.3.label>
+  <VEF_LightSustenance.stages.4.label>극도의 생계유지</VEF_LightSustenance.stages.4.label>
+</LanguageData>
